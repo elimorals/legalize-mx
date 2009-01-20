@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-trabajo-de-los-servidores-publicos-del-estado-y-13167"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-23"
-last_updated: "2007-01-30"
+last_updated: "2009-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,491 +21,267 @@ state: "MEX"
 ---
 # LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DEL ESTADO DE MEXICO
 
-LEY DEL INSTITUTO SINALOENSE DE LAS MUJERES
+LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE ENERO DE 2009.
 
-Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el lunes 10 de enero de 2005.
+Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de octubre de 1998.
 
-El H. Congreso del Estado Libre y Soberano de Sinaloa, representado por su Quincuagésima Séptima Legislatura, ha tenido a bien expedir el siguiente:
+CESAR CAMACHO QUIROZ, Gobernador del Estado Libre y Soberano de México, a sus habitantes sabed:
 
-DECRETO NUMERO 662
+Que la H. "LIII" Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
 
-Ley del Instituto Sinaloense de las Mujeres
+DECRETO NUMERO 68
+
+LA "LIII" LEGISLATURA DEL ESTADO DE MEXICO
+
+D E C R E T A :
+
+LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS
 
 ## TITULO PRIMERO. De las Disposiciones Generales
 
-### Capítulo Primero. Disposiciones Generales
+### CAPITULO UNICO
 
-###### Artículo 1°.
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
-Las disposiciones de esta Ley son de orden público e interés social en materia de equidad de género e igualdad de derechos y oportunidades entre hombres y mujeres, en los términos consagrados en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Sinaloa.
+###### Artículo 1.
 
-###### Artículo 2°.
+Ésta ley es de orden público e interés social y tiene por objeto regular las relaciones de trabajo, comprendidas entre los poderes públicos del Estado y los Municipios y sus respectivos servidores públicos.
 
-Se crea el Instituto Sinaloense de las Mujeres como un organismo público descentralizado de la Administración Pública del Estado, con personalidad jurídica, patrimonio propio y autonomía técnica y funcional para el cumplimiento de sus atribuciones, objetivos y fines, en los términos de esta Ley. El Instituto contará con la estructura administrativa que determine el reglamento interior.
+Igualmente, se regulan por esta ley las relaciones de trabajo entre los tribunales administrativos, los organismos descentralizados, fideicomisos de carácter estatal y municipal y los órganos autónomos que sus leyes de creación así lo determinen y sus servidores públicos.
 
-El domicilio legal del Instituto Sinaloense de las Mujeres, será la ciudad de Culiacán Rosales, Sinaloa, pudiéndose establecer oficinas representativas en los municipios de la entidad.
+El Estado o los municipios pueden asumir, mediante convenio de sustitución, la responsabilidad de las relaciones de trabajo, cuando se trate de organismos descentralizados, fideicomisos de carácter estatal y municipal, que tengan como objeto la prestación de servicios públicos, de fomento educativo, científico, médico, de vivienda, cultural o de asistencia social, se regularán conforme a esta ley, considerando las modalidades y términos específicos que se señalen en los convenios respectivos.
+
+###### Artículo 2.
+
+Son sujetos de esta ley los servidores públicos y las instituciones públicas.
 
 ###### Artículo 3.
 
-° Para los efectos de esta Ley se entenderá por:
-
-I. Instituto: Instituto Sinaloense de las Mujeres;
-
-II. Junta Directiva: Junta Directiva del Instituto;
-
-III. Consejo Consultivo: Consejo Consultivo del Instituto;
-
-IV. Directora: Directora General del Instituto;
-
-V. Programa: Programa Estatal de las Mujeres;
-
-VI. Coordinadora General: Coordinadora General del Consejo Consultivo del Instituto Sinaloense de las Mujeres;
-
-VII. Transversalidad: A la manera integradora en que deberá expresarse el Programa Estatal de las Mujeres en los diversos programas de las distintas dependencias y entidades del orden estatal y municipal;
-
-VIII. Género: Concepto que refiere a los valores, atributos, roles y representaciones que la sociedad asigne a hombres y mujeres;
-
-IX. Equidad de Género: Concepto que refiere al principio conforme al cual hombres y mujeres acceden con justicia e igualdad al uso, control y beneficios de los bienes y servicios de la sociedad, incluyendo aquellos socialmente valorados, oportunidades y recompensas, con la finalidad de lograr la participación equitativa de las mujeres en la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar; y,
-
-X. Perspectiva de Género: concepto que refiere a la metodología y los mecanismos que permitan identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para activar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de género.
+Los derechos que esta ley otorga son irrenunciables.
 
 ###### Artículo 4.
 
-° En términos de lo dispuesto en el artículo 66 de la Constitución Política y por la Ley Orgánica de la Administración Pública, ambas del Estado de Sinaloa, el Instituto estará agrupado en el sector que determine el titular del Poder Ejecutivo, a efecto de que sus relaciones con este Poder, se realicen a través de la Secretaría del ramo o entidad administrativa que designe.
+Para efectos de esta ley se entiende:
+
+I. Por servidor público, toda persona física que preste a una institución pública un trabajo personal subordinado de carácter material o intelectual, o de ambos géneros, mediante el pago de un sueldo;
+
+II. Por trabajador, la persona física que presta sus servicios, en forma subordinada, en el Subsistema Educativo Federalizado, mediante el pago de un sueldo o salario;
+
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
+
+III. Por institución pública, cada uno de los poderes públicos del Estado, los municipios y los tribunales administrativos; así como los organismos descentralizados, fideicomisos de carácter estatal y municipal, y los órganos autónomos que sus leyes de creación así lo determinen;
+
+IV. Por dependencia, la unidad administrativa prevista en los ordenamientos legales respectivos que, estando subordinada jerárquicamente a una institución pública, tenga un sistema propio de administración interna; y (sic)
+
+V. Por Tribunal, el Tribunal Estatal de Conciliación y Arbitraje;
+
+> <small>(ADICIONADA, G.G. 30 DE ENERO DE 2007)</small>
+
+VI. Por Sala, a cualquiera de las Salas Auxiliares del Tribunal Estatal de Conciliación y Arbitraje.
+
+Para los efectos de esta ley no se considerarán servidores públicos a las personas sujetas a un contrato civil o mercantil.
 
 ###### Artículo 5.
 
-° El Instituto Sinaloense de las Mujeres, tendrá por objeto general establecer, coordinar y ejecutar las políticas y acciones previstas en el Programa Estatal de las Mujeres, que propicien y faciliten la no discriminación, la igualdad de oportunidades y el logro de una real equidad entre los géneros; con la plena incorporación de las mujeres en la vida económica, política, social y cultural, alentando su participación en todos los niveles y ámbitos de decisión, y promoviendo ante las autoridades e instancias competentes los mecanismos necesarios para la protección, observancia y promoción de los derechos de la mujer, bajo los criterios de transversalidad en las políticas públicas con perspectiva de género en las distintas dependencias y entidades del orden estatal y municipal, a partir de la ejecución de programas y acciones coordinadas o conjuntas.
+La relación de trabajo entre las instituciones públicas y sus servidores públicos se entiende establecida mediante nombramiento, contrato o por cualquier otro acto que tenga como consecuencia la prestación personal subordinada del servicio y la percepción de un sueldo.
 
-Así mismo, tendrá los siguientes objetivos específicos:
-
-I. La promoción, seguimiento y evaluación de las políticas públicas, y la participación de la sociedad, destinadas a asegurar la igualdad de oportunidades y la no discriminación hacia las mujeres;
-
-II. La coordinación, seguimiento y evaluación de los programas, proyectos y acciones, y la concertación social indispensable para su implementación;
-
-III. La ejecución de la política de coordinación permanente, entre las dependencias y entidades de la Administración Pública Estatal, así como de las autoridades, municipales y de los sectores social y privado en relación con las mujeres;
-
-IV. La promoción de la cultura de la no violencia, la no discriminación contra las mujeres y de la equidad de género para el fortalecimiento de la democracia; y
-
-V. La ejecución de programas de difusión e información para las mujeres de carácter gratuito, que informen acerca de los derechos de las mujeres, procedimientos de impartición de justicia y, proporcionen orientación sobre el conjunto de políticas públicas y programas de organismos no gubernamentales y privados para la equidad de género.
+Para los efectos de esta ley, las instituciones públicas estarán representadas por sus titulares.
 
 ###### Artículo 6.
 
-° El Instituto tendrá las siguientes atribuciones:
-
-I. Impulsar la plena integración de las mujeres a los procesos de desarrollo económico, social, político y cultural del Estado, así como su acceso a todos los niveles de toma de decisión;
-
-II. Promover la igualdad de oportunidades y el reconocimiento de la urgente necesidad de diseñar y poner en marcha políticas públicas que atemperen las inequidades sociales y de género;
-
-III. Coordinar, instrumentar, elaborar y proponer los ordenamientos que orienten la conducción del quehacer público, privado, social, político, económico, académico y cultural para mejorar la condición social de las mujeres en un marco de equidad;
-
-IV. Apoyar la formulación de políticas públicas gubernamentales e impulsar las de la sociedad, para alcanzar la equidad de género;
-
-V. Asesorar, orientar y coordinar trabajos con los gobiernos municipales para la realización de acciones encaminadas al logro de los objetivos del Programa Estatal de las Mujeres;
-
-VI. Coordinar acciones con instancias de gobierno, a fin de asegurar la disposición de datos estadísticos, indicadores de registro y otras informaciones, en donde se identifiquen la situación de hombres y mujeres, que permitan la instrumentación de estrategias que coadyuven a eliminar desigualdades genéricas;
-
-VII. Promover ante las instancias que corresponda, las modificaciones pertinentes a la legislación estatal o a las reglamentaciones municipales, a fin de asegurar un marco legal que garantice la igualdad de oportunidades en materia laboral, de educación, de salud, así como el ejercicio de sus derechos;
-
-VIII. Promover en el marco del Programa Estatal de las Mujeres, la creación de instancias de atención integral de las mujeres, principalmente en los aspectos jurídico, médico, psicológico y asistencial, dirigidas a eliminar toda forma de violencia;
-
-IX. Impulsar el acceso, permanencia y promoción de las mujeres en todos los niveles educativos, procurando servicios de calidad al alcance de la población demandante;
-
-X. Fomentar en coordinación con las autoridades del sector salud, la educación para la salud, la salud reproductiva y la detección oportuna de cáncer, principalmente el cérvico-uterino y de mama, promoviendo los servicios de salud integral para las mujeres;
-
-XI. Promover la realización de programas de atención para las mujeres de la tercera edad, discapacitadas, de minorías étnicas, en pobreza extrema y de otros grupos vulnerables;
-
-XII. Estimular la capacidad productiva de las mujeres, promoviendo oportunidades de empleo, retribuciones justas, créditos blandos y financiamiento a proyectos productivos;
-
-XIII. Promover la revaloración de la imagen de las mujeres en los medios masivos de comunicación;
-
-XIV. Propiciar que se hagan evidentes los aportes que las mujeres hacen en todos los ámbitos, a efecto de potencializar su participación;
-
-XV. Concertar y suscribir acuerdos de colaboración con organismos gubernamentales, no gubernamentales, públicos y privados, nacionales e internacionales y con la banca multilateral, para el desarrollo de proyectos que beneficien a las mujeres;
-
-XVI. Actuar como órgano de consulta, capacitación y asesoría de las dependencias y entidades de la Administración Pública Estatal y Municipal, así como de los sectores social y privado, en materia de equidad de género y de igualdad de oportunidades para las mujeres, cuando así lo requieran;
-
-XVII. Instituir acciones que promuevan la igualdad de los derechos y obligaciones para los hombres y las mujeres en el seno de las familias y en la sociedad; y,
-
-XVIII. Las demás que le confieran otras disposiciones legales y reglamentarias.
+Los servidores públicos se clasifican en generales y de confianza, los cuales, de acuerdo con la duración de sus relaciones de trabajo pueden ser: por tiempo u obra determinados o por tiempo indeterminado.
 
 ###### Artículo 7.
 
-° Para el cumplimiento de su objeto y el ejercicio de sus atribuciones, el Instituto Sinaloense de las Mujeres, contará con los siguientes órganos de gobierno:
-
-I. Una Junta Directiva; y,
-
-II. Una Dirección General.
-
-Además el Instituto contará con un Consejo Consultivo, como órgano asesor y de consulta de los órganos de gobierno anteriores.
+Son servidores públicos generales los que prestan sus servicios en funciones operativas de carácter manual, material, administrativo, técnico, profesional o de apoyo, realizando tareas asignadas por sus superiores o determinadas en los manuales internos de procedimientos o guías de trabajo, no comprendidos dentro del siguiente artículo.
 
 ###### Artículo 8.
 
-° La Junta Directiva será el órgano supremo de gobierno del Instituto y se integrará por:
+Se entiende por servidores públicos de confianza:
 
-I. Un Presidente, que será el Gobernador Constitucional del Estado;
+I. Aquéllos cuyo nombramiento o ejercicio del cargo requiera de la intervención directa del titular de la institución pública o del órgano de gobierno;
 
-II. Un Vicepresidente, que será el titular de la Secretaría a la que esté agrupado el Instituto;
+II. Aquéllos que tengan esa calidad en razón de la naturaleza de las funciones que desempeñen y no de la designación que se dé al puesto.
 
-III. Una Secretaria Técnica, que será la Directora General del Instituto;
+Son funciones de confianza: las de dirección, inspección, vigilancia, auditoría, fiscalización, asesoría, procuración y administración de justicia y de protección civil, así como las que se relacionen con la representación directa de los titulares de las instituciones públicas o dependencias, con el manejo de recursos y las que realicen los auxiliares directos de los servidores públicos de confianza.
 
-IV. Dieciséis vocales, designados de la siguiente manera:
-
-a) Siete vocales que serán los titulares de las Secretarías General de Gobierno, de Administración y Finanzas, de Planeación y Desarrollo, de Educación Pública y Cultura, de Salud, de la Procuraduría General de Justicia del Estado y del Sistema para el Desarrollo Integral de la Familia del Estado;
-
-b) Ocho vocales que serán ciudadanas sinaloenses que se hayan distinguido por su contribución al trabajo a favor de las mujeres en los ámbitos social, político, económico o académico, que cuenten, al momento de su designación, con una trayectoria de al menos dos años en estas actividades; y,
-
-c) La presidenta de la Comisión de Equidad, Género y Familia del Congreso del Estado.
+No se consideran funciones de confianza las de dirección, supervisión e inspección que realizan los integrantes del Sistema Educativo Estatal en los planteles educativos del propio sistema.
 
 ###### Artículo 9.
 
-° Los miembros propietarios de la Junta Directiva, a que se refiere el artículo anterior en sus fracciones II, III, y IV, Incisos a) y c), designarán a su suplente. El presidente del órgano de gobierno, nombrará a una suplente por cada vocal a que hace alusión la fracción IV, inciso b), del artículo 8 de esta ley.
+Para los efectos del artículo anterior y la debida calificación de puestos de confianza, se entenderán como funciones de:
 
-Los suplentes de los titulares de la Junta Directiva actuarán con todas las facultades inherentes al cargo.
+I. Dirección, aquéllas que ejerzan los servidores públicos responsables de conducir las actividades de los demás, ya sea en toda una institución pública o en alguna de sus dependencias o unidades administrativas;
+
+II. Inspección, vigilancia, auditoría y fiscalización, aquéllas que se realicen a efecto de conocer, examinar, verificar, controlar o sancionar las acciones a cargo de las instituciones públicas o de sus dependencias o unidades administrativas;
+
+III. Asesoría, la asistencia técnica o profesional que se brinde mediante consejos, opiniones o dictámenes, a los titulares de las instituciones públicas o de sus dependencias y unidades administrativas;
+
+IV. Procuración de justicia, las relativas a la investigación y persecución de los delitos del fuero común y al ejercicio de la acción penal para proteger los intereses de la sociedad;
+
+V. Administración de justicia, aquéllas que se refieren al ejercicio de la función jurisdiccional;
+
+VI. Protección civil, aquéllas que tengan por objeto prevenir y atender a la población en casos de riesgo, siniestro o desastre;
+
+VII. Representación, aquéllas que se refieren a la facultad legal de actuar a nombre de los titulares de las instituciones públicas o de sus dependencias; y
+
+VIII. Manejo de recursos, aquéllas que impliquen la facultad legal o administrativa de decidir o determinar su aplicación o destino.
 
 ###### Artículo 10.
 
-Los miembros de la Junta Directiva ejercerán el cargo durante el tiempo que desempeñen la responsabilidad pública que ostenten. Respecto de las Vocales Ciudadanas, fungirán por un periodo de tres años y podrán ser ratificadas por un periodo más, en función a su contribución y participación en las acciones que correspondan al Programa Estatal de las Mujeres.
+Los servidores públicos de confianza quedan comprendidos en el presente ordenamiento en lo que hace a las medidas de protección al salario y los beneficios de la seguridad social que otorgue el Estado. Asimismo les será aplicable lo referente al sistema de profesionalización a que se refiere el Capítulo II del Título Cuarto de esta Ley, con excepción de aquéllos cuyo nombramiento o ejercicio del cargo requiera de la intervención directa de la institución pública o del órgano de gobierno, sean auxiliares directos de éstos, les presten asistencia técnica o profesional como asesores, o tengan la facultad legal de representarlos o actuar en su nombre.
+
+Quienes ocupen cargos de elección popular no serán sujetos de esta ley.
 
 ###### Artículo 11.
 
-La Junta Directiva podrá solicitar la remoción de alguno de sus miembros por no cumplir las disposiciones de la presente Ley, los objetivos del Instituto y los acuerdos de la Junta Directiva, en los términos de lo previsto en su Reglamento Interior.
+Los servidores públicos generales podrán ocupar puestos de confianza. Para este efecto, en caso de ser sindicalizados podrán renunciar a esa condición, o bien obtener licencia del sindicato correspondiente antes de ocupar dicho puesto.
 
 ###### Artículo 12.
 
-La Junta Directiva tendrá las siguientes facultades y obligaciones:
-
-I. Establecer, en congruencia con las políticas correspondientes, los programas generales del Instituto, así como definir las prioridades relativas a finanzas y administración;
-
-II. Analizar y aprobar los programas y el proyecto de presupuesto anual de ingresos y egresos del Instituto, así como sus modificaciones, sujetándose a lo dispuesto en la Ley de Planeación para el Estado de Sinaloa, en la Ley de Ingresos y Presupuesto de Egresos del Estado y, en su caso, a las asignaciones de gasto y financiamiento autorizados;
-
-III. Revisar y aprobar anualmente los estados financieros del Instituto;
-
-IV. Aprobar el proyecto de Reglamento Interior del Instituto y sus modificaciones, a propuesta de la Directora General;
-
-V. Expedir los manuales de organización general, de procedimientos y servicios al público, así como los instructivos del mismo;
-
-VI. Autorizar el proyecto de estructura orgánica que le proponga la Directora General del Instituto;
-
-VII. Analizar y aprobar los informes periódicos que rinda la Directora General;
-
-VIII. Aceptar las donaciones, legados y demás liberalidades que se otorguen a favor del Instituto;
-
-IX. Aprobar, conforme a las disposiciones aplicables, las políticas, bases y programas generales a las que deberá sujetarse el Instituto en la celebración de acuerdos, convenios y contratos para la ejecución de acciones relacionadas con su objeto;
-
-X. Otorgar poderes generales a la Directora General del Instituto, para pleitos y cobranzas, actos de administración y de dominio, así como para suscribir títulos y operaciones de crédito, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a le ley, así como revocadas y sustituidas;
-
-XI. Velar por el patrimonio del Instituto y cuidar de su adecuado manejo; y,
-
-XII. Las demás que le confiera esta Ley, su Reglamento Interior y otras disposiciones legales.
+Son servidores públicos por tiempo indeterminado quienes sean nombrados con tal carácter en plazas presupuestales.
 
 ###### Artículo 13.
 
-La Junta Directiva se reunirá en sesión ordinaria cada tres meses, y en sesiones extraordinarias cuantas veces sea necesario para su debido funcionamiento, previa convocatoria emitida por la Secretaria Técnica a solicitud del Presidente o la mayoría de sus miembros.
+Son servidores públicos sujetos a una relación laboral por tiempo u obra determinados, aquéllos que presten sus servicios bajo esas condiciones, en razón de que la naturaleza del servicio así lo exija.
 
 ###### Artículo 14.
 
-La Junta Directiva sesionará válidamente con la concurrencia de la mitad más uno de los miembros que la integran, entre los cuales deberá estar el presidente o quien lo supla. De cada sesión de la Junta se levantará el acta correspondiente que deberá ser firmada por quien la haya presidido y por la Secretaria Técnica.
+Sólo se podrá contratar la prestación de servicios por tiempo determinado en los siguientes casos:
+
+I. Cuando tenga por objeto sustituir interinamente a un servidor público;
+
+II. Cuando sea necesario realizar labores que se presentan en forma esporádica;
+
+III. Cuando aumenten las cargas de trabajo o haya rezago y se establezca un programa especial para desahogarlo, o para apoyar programas de inversión.
+
+El término máximo para el cual se podrá establecer una relación laboral por tiempo determinado será de un año, excepto cuando se trate de sustituir interinamente a otro servidor público o tratándose de programas con cargo a recursos de inversión. Pasado este término, si subsiste la naturaleza del trabajo y se cumple lo estipulado en esta ley y en las condiciones generales de trabajo de la institución pública, el servidor público sujeto a este tipo de relación, tendrá derecho a ocupar un puesto por tiempo indeterminado.
 
 ###### Artículo 15.
 
-Todos los miembros de la Junta Directiva asistirán y participarán en las sesiones con voz y voto.
-
-Podrán participar solamente con voz, personas o representantes de otras dependencias e instituciones públicas, privadas y sociales, a invitación expresa del Presidente de la Junta Directiva que puedan coadyuvar al cumplimiento del objeto del Instituto.
+Cuando se trate de una relación de trabajo por obra determinada, ésta durará hasta en tanto subsista la obra motivo del contrato.
 
 ###### Artículo 16.
 
-El desempeño de los miembros de la Junta Directiva será honorífico, excepto el de las vocales ciudadanas a que se refiere el inciso b) de la fracción IV del articulo 8 de la presente Ley, quienes deberán dedicarse en forma profesional a cumplir con la responsabilidad asumida.
+Los integrantes de los cuerpos de seguridad pública y de tránsito estatales y municipales, se regirán en el desarrollo de sus actividades por sus propios ordenamientos.
+
+En todo caso se garantizarán los beneficios de seguridad social y las medidas de protección salarial que les correspondan.
 
 ###### Artículo 17.
 
-El Presidente de la Junta Directiva tendrá las siguientes atribuciones:
-
-I. Convocar a las sesiones de la Junta Directiva por conducto de la Secretaría Técnica de la misma;
-
-II. Presidir las sesiones de la Junta Directiva;
-
-III. Proponer a la Junta Directiva las medidas necesarias para la mejor operación del Instituto y vigilar que se ejecuten sus acuerdos;
-
-IV. Integrar el Consejo Consultivo que apoyará a los órganos de gobierno del Instituto;
-
-V. Designar a las Vocales Ciudadanas que integrarán la Junta Directiva del Instituto, de entre las propuestas que realicen los organismos de la sociedad civil, garantizando su representatividad y pluralidad; y,
-
-VI. Las demás que le confiera la Junta Directiva, esta Ley y el Reglamento Interior del Instituto y otras disposiciones jurídicas aplicables.
+Los servidores públicos deberán ser de nacionalidad mexicana y sólo podrán ser extranjeros cuando no existan nacionales que puedan desarrollar el servicio de que se trate. La contratación de éstos será decidida por los titulares de las instituciones públicas oyendo al sindicato, en su caso.
 
 ###### Artículo 18.
 
-Son atribuciones del Vicepresidente de la Junta Directiva:
-
-I. Asistir a las sesiones de la Junta Directiva;
-
-II. Suplir al Presidente en sus ausencias y asumir en ese caso, las facultades a que se refieren las fracciones I, II, III y IV del artículo anterior; y,
-
-III. Las demás que le confiera la Junta Directiva, este ordenamiento y el Reglamento Interior del Instituto.
+Las actuaciones o certificaciones que se hicieren con motivo de la aplicación de la presente ley no causarán pago de derechos.
 
 ###### Artículo 19.
 
-Son atribuciones de la Secretaría Técnica de la Junta Directiva:
+Lo no previsto en esta ley o en sus disposiciones reglamentarias se regulará por la analogía, la jurisprudencia, los principios generales del derecho y los de justicia social, la costumbre y la equidad.
 
-I. Preparar el contenido de las reuniones, previo acuerdo con el Presidente y Vicepresidente de la Junta Directiva;
+## TITULO SEGUNDO. De los Integrantes del Sistema Educativo Estatal
 
-II. Llevar la minuta de cada reunión, remitiendo a la brevedad posible copia del acta a los participantes de ella;
-
-III. Servir de enlace entre la Junta Directiva y el Consejo Consultivo;
-
-IV. Vigilar que se cumplan los acuerdos y resoluciones de la Junta Directiva; y,
-
-V. Las demás que le confiera la Junta Directiva, esta Ley y el Reglamento Interior del Instituto.
-
-## TITULO SEGUNDO. De los Integrantes del Sistema
-
-Educativo Estatal
-
-### Capítulo Segundo. Del Objeto y Atribuciones del Instituto
+### CAPITULO I. Generalidades
 
 ###### Artículo 20.
 
-Son atribuciones de las y los vocales:
-
-I. Concurrir a las sesiones de la Junta Directiva;
-
-II. Participar en la deliberación de los asuntos de su competencia y proponer las medidas necesarias para el cumplimiento del objeto del Instituto;
-
-III. Sancionar con su voto los acuerdos que se tomen;
-
-IV. Vigilar el cumplimiento de los objetivos del Instituto y los acuerdos de la Junta Directiva; y,
-
-V. Desempeñar las tareas que les encomienda la propia Junta Directiva o les señale el Reglamento Interior del Instituto.
+Para efectos de esta ley son integrantes del Sistema Educativo Estatal los servidores públicos docentes que prestan sus servicios en el Subsistema Educativo Estatal y los trabajadores de la educación que se desempeñan en el Subsistema Educativo Federalizado.
 
 ###### Artículo 21.
 
-La titularidad de la Dirección General del Instituto recaerá en una mujer.
-
-La Directora General del Instituto será designada, de entre las propuestas que presenten las organizaciones de la sociedad civil, por el Titular del Poder Ejecutivo Estatal, con ratificación del Congreso del Estado o su Diputación Permanente. Durará en su cargo tres años, pudiendo ser ratificada únicamente por un segundo periodo de tres años; en todo caso, el periodo no excederá del correspondiente al ejercicio constitucional del Titular del Ejecutivo que otorgó el nombramiento.
+Cuando en el cuerpo de esta ley se mencione el término de servidor público general, se entenderá que también se refiere, en lo que les sea aplicable, a los trabajadores del Subsistema Educativo Federalizado.
 
 ###### Artículo 22.
 
-Para ser Directora General se requiere:
-
-I. Ser ciudadana sinaloense por nacimiento o por vecindad, con residencia efectiva en el Estado, no menor de cinco años anteriores a la fecha de la designación;
-
-II. Contar con formación profesional, o tener conocimiento y experiencia de participación en la problemática de las mujeres, asimismo capacidad para proponer soluciones ante sus demandas;
-
-III. Haber destacado por su labor en favor de la equidad de géneros o en las actividades relacionadas con la promoción de la igualdad de oportunidades para las mujeres y demás actividades materia de la presente Ley;
-
-IV. Poseer personalidad aglutinadora de consensos;
-
-V. Tener experiencia de trabajo en programas sociales, económicos, políticos o administrativos;
-
-VI. Estar en pleno ejercicio de sus derechos civiles y políticos; y,
-
-VII. Ser mayor de veintiún años a la fecha de la designación.
+Este título regula las relaciones de trabajo entre el Poder Ejecutivo del Estado y los servidores públicos docentes del Subsistema Educativo Estatal, y entre el primero y los trabajadores del Subsistema Educativo Federalizado, independientemente de que, en lo que corresponda, se les apliquen las demás disposiciones de esta ley.
 
 ###### Artículo 23.
 
-La Directora General tendrá las facultades y obligaciones siguientes:
+Cuando en esta ley se enuncie el término institución pública, con respecto a los trabajadores del Subsistema Educativo Federalizado, se entenderá referido al organismo público descentralizado denominado Servicios Educativos Integrados al Estado de México, o a cualquier otro organismo auxiliar en el que presten sus servicios.
 
-I. Administrar el Instituto;
-
-II. Formular el programa institucional, sus respectivos subprogramas y proyectos de actividades del organismo y presentarlos para su aprobación a la Junta Directiva;
-
-III. Planear, coordinar y evaluar el funcionamiento del Instituto;
-
-IV. Establecer los sistemas de control necesarios para alcanzar los objetivos y metas propuestas;
-
-V. Fungir como Secretaría Técnica de la Junta Directiva y asumir las funciones establecidas para dicho cargo;
-
-VI. Celebrar y suscribir toda clase de actos, contratos y convenios con los sectores público, social y privado, e instituciones educativas para la ejecución de acciones relacionadas con su objeto, de acuerdo con los lineamientos que determine la Junta Directiva;
-
-VII. Actuar con el carácter de apoderado general, con todas las facultades generales y especiales que requieran cláusula especial conforme a la ley, en los términos de los artículos 2436 y 2469 del Código Civil para el Estado de Sinaloa, y tendrá facultades para pleitos y cobranzas, actos de administración y de dominio, para presentar denuncias y querellas en materia penal y dar el perdón legal, para otorgar y suscribir cheques, debiéndolo ejercer en forma conjunta con el Vicepresidente, respecto de los demás títulos de crédito y de contratos traslativos de dominio de los bienes inmuebles integrantes de su patrimonio;
-
-VIII. Otorgar poderes generales y especiales con las facultades que le competen, sin perder el ejercicio directo de éstas, incluyendo las que requieran autorización o cláusula especial, así como sustituir y revocar dichos poderes;
-
-IX. Coordinar los órganos de apoyo de la Junta Directiva que se autoricen;
-
-X. Representar al Instituto ante las instancias de coordinación regional, nacional e internacional en la materia;
-
-XI. Fungir como Coordinadora General del Consejo Consultivo;
-
-XII. Elaborar anualmente el proyecto de presupuesto de ingresos y egresos y someterlo a la consideración de la Junta Directiva para su análisis y aprobación en su caso;
-
-XIII. Formular y presentar a la Junta Directiva, con la personalidad que ésta determine, los estados financieros, balances e informes que permitan conocer el estado administrativo y operativo del Instituto;
-
-XIV. Ejecutar, instrumentar y vigilar el cumplimiento de los acuerdos de la Junta Directiva;
-
-XV. Elaborar y presentar a la Junta Directiva, para su consideración y aprobación, en su caso, el anteproyecto del Reglamento Interior del Instituto, así como los manuales de organización general, de procedimientos y servicios al público;
-
-XVI. Nombrar y remover al personal técnico y administrativo, que se requiera para el cabal funcionamiento del Instituto, que preferentemente deberán ser mujeres que cumplan con los requisitos que el Reglamento Interior disponga para ejercer su función en el área que se le asigne;
-
-XVII. Ejercer el presupuesto anual de egresos del Instituto de conformidad con los ordenamientos y disposiciones legales aplicables;
-
-XVIII. Proveer lo necesario para el debido cumplimiento del objeto y atribuciones del Instituto, así como para el óptimo ejercicio de su presupuesto; y,
-
-XIX. Las demás que le confiera la Junta Directiva, el Reglamento Interior, este ordenamiento y demás disposiciones jurídicas aplicables.
-
-### Capítulo Tercero. De la estructura orgánica y funcionamiento del Instituto
+### CAPITULO II. De los Servidores Públicos del Subsistema Educativo Estatal
 
 ###### Artículo 24.
 
-El Consejo Consultivo es un órgano de consulta y asesoría de la Junta Directiva y de la Dirección General del Instituto en la materia, así como respecto a programas y acciones en beneficio de la población femenina en el Estado. Es un cuerpo colegiado representativo y plural, integrado por treinta mujeres de los diferentes grupos sociales, políticos, académicos y culturales del Estado. No podrán ser integrantes del Consejo Consultivo las vocales ciudadanas y quienes formen parte de la estructura administrativa del Instituto.
+Los servidores públicos docentes o profesores del Subsistema Educativo Estatal son los servidores públicos generales que prestan servicios de docencia, investigación o difusión, o bien aquéllos que desempeñan funciones directivas o de supervisión en los planteles del propio Subsistema.
 
 ###### Artículo 25.
 
-El Consejo Consultivo se integrará a invitación expresa del Presidente de la Junta Directiva, a través de la Secretaría Técnica de la siguiente manera:
-
-I. Por mujeres representativas de organizaciones no gubernamentales legalmente constituidas cuya actividad fundamental sea el desarrollo integral de las mujeres, además de acreditar trabajo a favor de este sector al menos por dos años;
-
-II. Mujeres distinguidas y reconocidas por su labor social, cultural, política o académica en beneficio de las causas de las mujeres;
-
-III. La responsable de la Secretaría de la Mujer u órgano similar, de los partidos políticos que cuenten con registro en el Estado de Sinaloa; y,
-
-IV. Por las dieciocho coordinadoras municipales.
+Este capítulo regula las relaciones de trabajo entre la dependencia denominada Secretaría de Educación, Cultura y Bienestar Social y los servidores públicos a que se refiere el artículo anterior.
 
 ###### Artículo 26.
 
-Las integrantes del Consejo Consultivo referidas en las fracciones I y II del artículo anterior durarán en su cargo tres años. Dicho cargo podrá ser prorrogado a su conclusión, por un mismo periodo y por una sola ocasión, para lo cual será necesaria la ratificación de la Junta Directiva. Estas consejeras, una vez aprobada su designación no podrán ser removidas, salvo por causas de fuerza mayor. En el caso de las integrantes a que se refieren las fracciones III y IV del artículo anterior, dejarán de fungir como consejeras al término de sus cargos.
-
-El cargo de integrante del Consejo Consultivo del Instituto será honorífico.
+Los profesores del Subsistema Educativo Estatal podrán ser designados en plazas de puestos específicos o bajo el sistema de horas clase-semana-mes; en ambos casos el nombramiento podrá ser por tiempo determinado o indeterminado conforme a las necesidades del servicio.
 
 ###### Artículo 27.
 
-Son facultades del Consejo Consultivo:
+En el desarrollo de sus actividades, los profesores del Subsistema Educativo Estatal se regirán por sus propias condiciones generales de trabajo.
 
-I. Impulsar y favorecer la participación plural de las diversas corrientes y organizaciones sociales, políticas o académicas, así como de las personas interesadas en las actividades y proyectos a favor de la población femenina del Estado;
-
-II. Observar que los mecanismos, medios y actividades respondan a los objetivos marcados por el Programa Estatal de las Mujeres, contribuyendo a ampliar sus alcances;
-
-III. Participar en la Junta Directiva a través de las ocho Vocales Ciudadanas;
-
-IV. Apoyar y asesorar al Instituto en la integración del diagnóstico y Programa Estatal de las Mujeres, en las materias de su especialidad;
-
-V. Propiciar la integración de grupos de trabajo para proponer, valorar y orientar los proyectos que se deriven de los objetivos y líneas que establezca el Programa Estatal de las Mujeres;
-
-VI. Recibir, analizar y someter a la consideración de la Directora General del Instituto propuestas y recomendaciones, proyectos y acciones que contribuyan al mejoramiento de la condición social de las mujeres y promuevan su participación; y,
-
-VII. Las demás que se requieran para el eficiente funcionamiento del Consejo y el Instituto.
+El contenido mínimo de sus condiciones generales de trabajo se ajustará a lo establecido en esta ley. En todo caso, se deberán de tomar en consideración las circunstancias específicas en que se preste el servicio y la naturaleza del mismo.
 
 ###### Artículo 28.
 
-El Consejo Consultivo nombrará de su seno a una Presidenta. La presidencia del Consejo tendrá carácter rotativo y su designación se hará cada seis meses por sus miembros.
-
-El Consejo Consultivo se reunirá cada tres meses y en forma extraordinaria cuantas veces sea convocado por la Directora General del Instituto, quien fungirá como Coordinadora General de dicho órgano. Sesionará validamente con la concurrencia de la mitad más uno de los miembros que lo integran, entre los cuales deberá estar la Coordinadora General.
-
-Los acuerdos se tomarán por mayoría de votos, y en caso de empate, la que funja como Presidenta tendrá el voto de calidad.
+Los ascensos de los servidores públicos docentes del Subsistema Educativo Estatal se regularán por el reglamento de escalafón que les corresponda, cuya aplicación estará a cargo de la comisión mixta de escalafón respectiva.
 
 ###### Artículo 29.
 
-Todas las integrantes del Consejo Consultivo asistirán y participarán en las sesiones con voz y voto. Podrán participar solamente con voz y a invitación expresa de la Presidenta del Consejo Consultivo, personas o representantes de dependencias o instituciones públicas, privadas y sociales que puedan coadyuvar al cumplimiento del objeto del Instituto.
+Los profesores del Subsistema Educativo Estatal podrán tener asignada otra plaza u horas clase en el mismo subsistema o en el federalizado, siempre y cuando los horarios establecidos para el desempeño de las mismas sean compatibles, de acuerdo a lo determinado en las condiciones generales de trabajo o en las disposiciones relativas.
 
-### Capítulo Cuarto. De la Dirección General del Instituto Sinaloense de las Mujeres
+### CAPITULO III
+
+De los Trabajadores del Subsistema Educativo Federalizado.
 
 ###### Artículo 30.
 
-La convocatoria a sesiones, el orden del día y la documentación relativa a éstas, deberá entregarse a las integrantes del Consejo Consultivo con un mínimo de cinco días hábiles de anticipación, tratándose de sesión ordinaria y de un día natural si se trata de sesión extraordinaria, indicando en cada caso lugar, fecha y hora en que se celebrará la sesión.
-
-En cada sesión se designará de entre las integrantes del Consejo Consultivo a la Secretaría, quien elaborará el acta de sesión correspondiente, misma que firmarán las asistentes.
+Este capítulo regula las relaciones de trabajo entre la institución pública a que se refiere el artículo 23 de esta ley, y los trabajadores del Subsistema Educativo Federalizado.
 
 ###### Artículo 31.
 
-La participación de las representantes ante la Junta Directiva tendrá un carácter profesional y de no cumplir serán dadas de baja.
+Los trabajadores a que se refiere este capítulo se clasifican en dos grupos: de confianza y de base.
 
-Asimismo, las integrantes del Consejo Consultivo que de manera reiterada no asistan a las sesiones del mismo y quienes durante el periodo de tres años no presenten propuestas, opinión, resultados de consulta con otros grupos o colaboraciones en materia del Programa Estatal de las Mujeres, serán removidas de su cargo.
+I. Son trabajadores de confianza aquéllos a que se refieren los artículos 8 y 9 de esta ley; y
 
-La Presidenta del Consejo Consultivo notificará por escrito dicha decisión a la Junta Directiva.
-
-De igual manera, las integrantes del Consejo Consultivo que decidan renunciar a dicho cargo deberán notificarlo por escrito.
+II. Son trabajadores de base los no incluidos en los artículos señalados en la fracción anterior, agremiados al Sindicato Nacional de Trabajadores de la Educación y que prestan sus servicios en actividades de docencia, investigación y difusión o bien, aquéllos que desempeñan funciones directivas, de supervisión o inspección en los planteles del propio subsistema, así como los trabajadores que realizan tareas de apoyo y asistencia a la educación.
 
 ###### Artículo 32.
 
-Para diseñar, ejecutar y evaluar estrategias, políticas y acciones del Programa Estatal de las Mujeres en el ámbito municipal, el Instituto se coordinará con los municipios de la entidad, a través de la coordinadora municipal, para tal efecto se desarrollarán las siguientes acciones:
-
-I. Asesorar y apoyar a los municipios que lo soliciten, en la formulación de sus programas para las mujeres;
-
-II. Promover la creación del Subcomité Especial de las Mujeres en el seno de los Comités de Desarrollo Municipal;
-
-III. Impulsar las modificaciones a los reglamentos municipales que aseguren el ejercicio íntegro de los derechos de las mujeres; y,
-
-IV. Promover en coordinación con las autoridades municipales, la actualización de los servidores públicos para que incluyan la perspectiva de género en sus acciones.
+Esta ley se aplicará en lo conducente a los trabajadores del Subsistema Educativo Federalizado sin menoscabo de los derechos que les confieren su régimen de regulación especial, los de organización colectiva, de huelga, de afiliación a su sindicato de carácter nacional, de la calidad de base de su nombramiento; de su derecho a la inamovilidad, a su régimen salarial y aguinaldo, de su jornada de trabajo, de su descanso semanal, de sus vacaciones, de su derecho a la capacitación y adiestramiento, así como de su propio régimen de seguridad social, prestaciones y servicios.
 
 ###### Artículo 33.
 
-La titularidad de la coordinadora municipal y su estructura recaerá en una mujer, quien será designada y removida libremente por el Presidente Municipal.
+Los trabajadores podrán ser designados en plazas de puestos específicos o bajo el sistema de horas clase-semana-mes; en ambos casos el nombramiento podrá ser por tiempo determinado, o por tiempo indeterminado, conforme a las necesidades del servicio.
 
 ###### Artículo 34.
 
-El Programa Estatal de las Mujeres, es el documento que contiene las acciones que en forma planeada y coordinada deberán realizarse en beneficio de las mujeres en las dependencias y entidades de la Administración Pública del Estado y en los poderes Legislativo y Judicial.
+En el desarrollo de sus actividades los trabajadores se regirán por el "Reglamento de las Condiciones Generales de Trabajo del Personal de la Secretaría de Educación Pública".
 
 ###### Artículo 35.
 
-El Programa Estatal de las Mujeres se elaborará basándose en un diagnóstico sobre la situación de las mujeres sinaloenses, cubriendo los ejes programáticos en educación, salud, mujeres vulnerables, más y mejores empleos para las trabajadoras, fomento productivo, derechos y participación en la toma de decisiones, combate a la violencia y cultura de la igualdad, quedando sujeta su elaboración y aprobación respectiva, a las disposiciones contenidas en la Ley de Planeación para el Estado de Sinaloa.
+Los ascensos de los trabajadores se regularán por el "Reglamento de Escalafón de los Trabajadores al Servicio de la Secretaría de Educación Pública".
 
 ###### Artículo 36.
 
-El Instituto solicitará a quienes sean titulares de las dependencias y entidades de la Administración Pública Estatal, de los órganos de impartición de Justicia Estatal y del Congreso del Estado, la información pertinente en materia de equidad de género y de las mujeres, así como su colaboración dentro del área de su competencia, en la elaboración, ejecución y seguimiento del Programa Estatal de las Mujeres.
+Las plazas de última categoría de nueva creación o las disponibles en cada grupo, una vez corridos los escalafones respectivos con motivo de las vacantes que ocurrieren, se cubrirán en los términos que establece la Ley Federal de los Trabajadores al Servicio del Estado.
 
 ###### Artículo 37.
 
-Las autoridades y servidores públicos estatales y municipales proporcionarán al Instituto la información y datos que éste les solicite, en los términos de los acuerdos que al efecto se celebren.
+Los trabajadores podrán tener asignada otra plaza u horas clase en el Subsistema Educativo Federalizado o en el Subsistema Educativo Estatal, siempre y cuando los horarios establecidos para el desempeño de sus funciones sean compatibles, de acuerdo a las disposiciones relativas, con excepción de aquéllos que tengan nombramiento anterior al 18 de mayo de 1992, en los términos del convenio suscrito en la misma fecha entre el Titular del Poder Ejecutivo del Estado y el Sindicato Nacional de Trabajadores de la Educación.
 
 ###### Artículo 38.
 
-Las dependencias y entidades de la Administración Pública del Estado, de los órganos de impartición de Justicia Estatal, así como el Congreso del Estado, en el ejercicio de sus atribuciones y funciones, incorporarán el enfoque de género en sus políticas, programas y acciones institucionales.
+Los trabajadores gozarán, de los beneficios establecidos en el "Acuerdo Nacional para la Modernización de la Educación Básica", en el "Reglamento de las Condiciones Generales de Trabajo del Personal de la Secretaría de Educación Pública", en el reglamento nacional de escalafón vigente, en los Convenios de fecha 18 de mayo de 1992, signados entre el Ejecutivo del Gobierno Estatal y el Sindicato Nacional de Trabajadores de la Educación, y entre las Secretarías de Hacienda y Crédito Público, Desarrollo Urbano y Ecología, Educación Pública, Gobierno del Estado de México e Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, así como de todos aquellos que se derivan de acuerdos, disposiciones o convenios que les sean propios.
 
 ###### Artículo 39.
 
-El patrimonio del Instituto se constituirá por:
+Los beneficios de la Seguridad Social le serán otorgados a los trabajadores por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, de acuerdo con el convenio celebrado el primero de mayo de 1992, entre el Ejecutivo del Gobierno Federal, el Titular del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y el Ejecutivo del Gobierno del Estado.
 
-I. Los recursos que anualmente le sean asignados en la Ley de Ingresos y Presupuesto de Egresos del Estado;
-
-II. Los bienes muebles, inmuebles y demás recursos que adquiera con base en cualquier título legal;
-
-III. Las aportaciones y demás recursos que transfieran a su favor los gobiernos federal, estatal y municipales;
-
-IV. Los subsidios, legados, donaciones y demás liberalidades que reciba de los sectores público, social y privado, nacionales e internacionales, los cuales de ninguna manera podrán implicar condiciones contrarias a su objeto;
-
-V. Los rendimientos, recuperaciones, bienes, derechos y demás ingresos que generen sus bienes, operaciones, actividades o eventos que realice; y,
-
-VI. Los fondos obtenidos por el financiamiento de programas específicos.
+Cuando en el cuerpo de esta ley se haga referencia a las prestaciones médico asistenciales y sociales que otorga el Instituto de Seguridad Social para los Servidores Públicos del Estado y Municipios, así como a la calificación de riesgos de trabajo que deba realizar dicha institución, se tendrá como entendido, en lo que así corresponda a los trabajadores de la educación federalizados, al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en los términos de la ley de este instituto.
 
 ###### Artículo 40.
 
-El Instituto queda sometido a las reglas de contabilidad, presupuesto y gasto público aplicable a la Administración Pública del Estado.
-
-T R A N S I T O R I O S
-
-Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-Artículo Segundo. Se abroga el Decreto del Poder Ejecutivo por el que se crea el Instituto Sinaloense de la Mujer, expedido el tres de marzo de dos mil y publicado en el Periódico Oficial "El Estado de Sinaloa" No. 28, el día seis del mismo mes y año.
-
-Artículo Tercero. El patrimonio y presupuesto con que actualmente cuenta el Instituto Sinaloense de la Mujer, creado por Decreto del Poder Ejecutivo Estatal, serán transferidos y pasarán a formar parte íntegra del organismo descentralizado que se crea con esta Ley.
-
-Artículo Cuarto. Las Vocales Ciudadanas a que se refiere el artículo 8o., fracción IV, inciso b), del Decreto señalado en el artículo segundo transitorio anterior, seguirán formando parte de la Junta Directiva del organismo creado mediante esta Ley, durante el tiempo para el cual hubiesen sido designadas, pudiendo ser ratificadas por un periodo más en los términos de lo dispuesto en el artículo 10 de la presente Ley.
-
-Es dado en el Palacio del Poder Legislativo del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los veintinueve días del mes de julio del año dos mil cuatro.
-
-C. SAÚL PÉREZ PARRA
-
-DIPUTADO PRESIDENTE
-
-C. FRANCISCA ELENA C. IMELDA CASTRO CASTRO
-
-CORRALES CORRALES DIPUTADA SECRETARIA
-
-DIPUTADA SECRETARIA
-
-Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-Es dado en el Palacio del Poder Ejecutivo del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los tres días del mes de agosto del año dos mil cuatro.
-
-El Gobernador Constitucional del Estado
-
-Juan S. Millán Lizárraga.
-
-El Secretario General de Gobierno
-
-Gonzalo M. Armienta Calderón
+Conforme lo dispuesto en los artículos anteriores, los acuerdos, convenios y reglamentos a que se hace referencia, así como las prestaciones y derechos de cualesquier naturaleza, serán de observancia general y obligatoria para el titular del Poder Ejecutivo, los titulares de las dependencias y de la institución o instituciones públicas a las que estén adscritos.
 
 ###### Artículo 41.
 
@@ -523,11 +299,9 @@ Los conflictos inter o intrasindicales que se suscitaren entre los trabajadores 
 
 En la aplicación de los diversos ordenamientos que regulan la relación o condiciones de trabajo de los trabajadores del Subsistema Educativo Federalizado, se estará, siempre, a la disposición que más les favorezca.
 
-## TITULO TERCERO. De los Derechos y Obligaciones Individuales
+## TITULO TERCERO. De los Derechos y Obligaciones Individuales de los Servidores Públicos
 
-de los Servidores Públicos
-
-### Capítulo Quinto. De la integración y facultades del Consejo Consultivo del Instituto
+### CAPITULO I. Del Ingreso al Servicio Público
 
 ###### Artículo 45.
 
@@ -571,7 +345,7 @@ II. Rendir la protesta de ley en caso de nombramiento; y
 
 III. Tomar posesión del cargo.
 
-### Capítulo Sexto. De la coordinación con municipios
+### CAPITULO II. De los Nombramientos
 
 ###### Artículo 49.
 
@@ -617,7 +391,7 @@ IV. Laudo del Tribunal.
 
 Cuando se realice el cambio de adscripción de un servidor público que implique su traslado de una población a otra, la institución pública o dependencia en donde preste sus servicios, le dará a conocer previamente las causas del cambio y sufragará los gastos que por este motivo se originen conforme a las disposiciones reglamentarias respectivas, excepto cuando éste hubiere sido solicitado por el servidor público o se haya previsto así en el nombramiento o contrato respectivo, o bien en las condiciones generales de trabajo de la institución pública o dependencia correspondiente.
 
-### Capítulo Séptimo. Del Programa Estatal de las Mujeres
+### CAPITULO III. De las Condiciones Generales de Trabajo
 
 ###### Artículo 54.
 
@@ -671,7 +445,7 @@ VI. Cualquier otra condición que contravenga las disposiciones de esta ley.
 
 Las condiciones generales de trabajo surtirán efecto a partir de su depósito en el Tribunal.
 
-### Capítulo Octavo. De la colaboración de los tres Poderes de Gobierno
+### CAPITULO IV. De la Jornada de Trabajo y de los Descansos
 
 ###### Artículo 59.
 
@@ -741,7 +515,7 @@ Anualmente, los titulares de las instituciones públicas o dependencias, faculta
 
 Tratándose de los integrantes del Sistema Educativo Estatal, serán considerados días de descanso obligatorio los de suspensión de labores docentes que señale el calendario escolar oficial; asimismo los períodos vacacionales deberán corresponder a los determinados en dicho calendario.
 
-### Capítulo Noveno. Del patrimonio del Instituto
+### CAPITULO V. Del Sueldo
 
 ###### Artículo 71.
 
@@ -841,9 +615,7 @@ El monto total de las retenciones, descuentos o deducciones no podrá exceder de
 
 Será nula la cesión de sueldos que se haga en favor de terceras personas.
 
-### CAPITULO VI. De los Derechos y Obligaciones de los
-
-Servidores Públicos
+### CAPITULO VI. De los Derechos y Obligaciones de los Servidores Públicos
 
 ###### Artículo 86.
 
@@ -1031,23 +803,57 @@ V. No inscribirlo en el Instituto de Seguridad Social del Estado de México y Mu
 
 VI. Las análogas a las establecidas en las fracciones anteriores, de igual manera graves y de consecuencias semejantes.
 
-En estos casos, el servidor público podrá separarse de su trabajo dentro de los treinta días naturales siguientes a la fecha en que se dé cualquiera de las causas y tendrá derecho a que la institución pública lo indemnice con el importe de tres meses de sueldo y 20 días por cada año devengado cubriéndole las prestaciones a que tenga derecho.
+> <small>(REFORMADO, G.G. 20 DE ENERO DE 2009)</small>
+
+En estos casos, el servidor público podrá separarse de su trabajo dentro de los treinta días siguientes a la fecha en que se dé cualquiera de las causas y tendrá derecho a que la institución pública lo indemnice con el importe de tres meses de sueldo base, veinte días por cada año devengado y cubriéndole las prestaciones a que tenga derecho, así como los salarios vencidos desde la fecha en que el Servidor Público se haya separado de su trabajo hasta que se cumplimente el laudo, o hasta que el servidor público se incorpore a laborar en un municipio o institución pública de los poderes del Estado, independientemente del tiempo que dure el proceso.
+
+> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+
+Cuando el sueldo base del servidor público exceda del doble del salario mínimo general del área geográfica que corresponda al lugar en donde presta sus servicios, se considerará para efectos del pago de los veinte días por año, hasta un máximo de dos salarios mínimos generales.
+
+> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+
+Para el pago de cualquier indemnización que se genere por las relaciones laborales entre las instituciones o dependencias y sus servidores públicos señaladas en esta ley no generarán ningún tipo de interés.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 20 DE ENERO DE 2009)</small>
 
 ###### Artículo 96.
 
-Cuando el servidor público considere injustificada la causa de rescisión de la relación laboral, o bien decida rescindirla con fundamento en el artículo anterior, podrá demandar ante el Tribunal que se le cubra la indemnización a que dicho artículo se refiere o, en el primer supuesto, que se le reinstale en el trabajo que desempeñaba.
+El servidor público podrá solicitar ante el Tribunal o la Sala Auxiliar correspondiente, que se le reinstale en el trabajo que desempeñaba, o que se le indemnice. Cuando el servidor público considere injustificada la causa de rescisión de la relación laboral, o bien lo injustificado del despido podrá demandar ante el Tribunal o en la Sala Auxiliar que se le cubra la indemnización de tres meses de su salario base, así como los salarios vencidos desde la fecha del despido hasta que se cumplimente el laudo o que se le reinstale en el trabajo que desempeñaba con el pago de los salarios vencidos desde la fecha del despido hasta que se cumplimente el laudo, o hasta que el servidor público se incorpore a laborar en un municipio o institución pública de los poderes del Estado, independientemente del tiempo que dure el proceso.
+
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+
+No se considerará en el pago de salarios vencidos los aguinaldos e incrementos que se otorguen en el salario de los servidores públicos mientras dure el proceso para objeto de las indemnizaciones a que se refieren los artículos 95, 96 y 97 de esta ley.
+
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+
+Cuando el servidor público ejercite la acción de reinstalación en el trabajo que desempeñaba, será procedente el pago proporcional de sus prestaciones a que tenga derecho con los incrementos que sufra su salario en el período que dure el proceso.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 20 DE ENERO DE 2009)</small>
 
 ###### Artículo 97.
 
-Las instituciones públicas o dependencias no estarán obligadas a reinstalar al servidor público, pero sí a cubrirle la indemnización correspondiente, cuando:
+Las instituciones públicas o dependencias no estarán obligadas a reinstalar al servidor público, pero sí a cubrirle la indemnización de tres meses de salario base, veinte días por cada año de servicios, en términos del artículo 95 párrafo segundo de esta ley y cubrirle las prestaciones a que tenga derecho, así como los salarios vencidos desde la fecha del despido hasta que se cumplimente el laudo, o hasta que el servidor público se incorpore a laborar en un municipio o institución pública de los poderes del Estado, independientemente del tiempo que dure el proceso.
 
 I. El servidor público cuente con una antigüedad menor a un año;
 
-II. Se compruebe ante el Tribunal que el servidor público, en razón de su función, debe estar en contacto permanente y directo con su superior jerárquico y el Tribunal resuelva que esta situación entorpece el desarrollo normal de la relación de trabajo;
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
 
-III. Se considere que la reinstalación del servidor público afecta la buena marcha de la unidad administrativa a la que está adscrito; o
+II. Se compruebe ante el Tribunal o en la Sala que el servidor público, en razón de su función, debe estar en contacto directo con su superior jerárquico;
 
-IV. Se trate de servidores públicos por tiempo u obra determinados.
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
+
+III. Se considere que la reinstalación del servidor público afecta la buena marcha de la institución o dependencia o unidad administrativa a la que está adscrito;
+
+IV. Se trate de servidores públicos por tiempo u obra determinados;
+
+> <small>(ADICIONADA, G.G. 30 DE ENERO DE 2007)</small>
+
+V. El Tribunal o la Sala resuelvan que por las condiciones en que el servidor público prestaba sus servicios entorpece el desarrollo normal de la institución o dependencia; y
+
+> <small>(ADICIONADA, G.G. 30 DE ENERO DE 2007)</small>
+
+VI. Que se haya suprimido la plaza y se compruebe ante el Tribunal o la Sala la imposibilidad administrativa de crear una equivalente.
 
 ## TITULO CUARTO. De las Obligaciones de las Instituciones Públicas
 
@@ -1095,9 +901,7 @@ XVI. Abstenerse de otorgar remuneración alguna que no se apegue a la normativid
 
 XVII. Integrar los expedientes de los servidores públicos y proporcionar las constancias que éstos soliciten para el trámite de los asuntos de su interés en los términos que señalen los ordenamientos respectivos.
 
-### CAPITULO II. Del Sistema de Profesionalización de
-
-los Servidores Públicos Generales
+### CAPITULO II. Del Sistema de Profesionalización de los Servidores Públicos Generales
 
 ###### Artículo 99.
 
@@ -1347,9 +1151,7 @@ IV. Cuando tengan diez o más años de servicio, hasta sesenta días, con goce d
 
 Para los efectos de las fracciones anteriores, los cómputos deberán hacerse por años de servicios continuos o cuando la interrupción en la prestación de dichos servicios no sea mayor de seis meses. Podrán gozar del beneficio señalado, de manera continua o discontinua, una sola vez cada año, contado a partir del momento en que tomaron posesión de su puesto.
 
-## TITULO QUINTO. De los Derechos Colectivos de
-
-los Servidores Públicos
+## TITULO QUINTO. De los Derechos Colectivos de los Servidores Públicos
 
 ### CAPITULO I. De la Organización Sindical
 
@@ -1657,29 +1459,37 @@ En tanto la huelga no sea declarada inexistente, ilegal, ilícita o terminada, e
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ENERO DE 2007)</small>
+
 ###### Artículo 180.
 
-Las acciones que se deriven de esta ley, de los actos que den origen a la relación laboral y de los acuerdos que fijen las condiciones generales de trabajo, prescribirán en un año, con excepción de los casos previstos en las siguientes fracciones:
+Las acciones que se deriven de esta ley, de los actos que den origen a la relación laboral y de los acuerdos que fijen las condiciones generales de trabajo, prescribirán en un año, contado a partir del día siguiente al en que la obligación sea exigible, con excepción de los casos previstos en las siguientes fracciones:
+
+> <small>(REFORMADA, G.G. 20 DE ENERO DE 2009)</small>
 
 I. En un mes:
 
-a) Las acciones para pedir la nulidad de un nombramiento, a partir de la fecha de su vigencia; y
+a) Las acciones para pedir la nulidad o la modificación de un nombramiento, a partir de la fecha de su vigencia o alta del servidor público; y
 
 b) Las acciones de los servidores públicos para ejercitar el derecho a ocupar el puesto que hayan dejado por accidente o por enfermedad, contando el plazo a partir de la fecha en que estén en aptitud de volver al trabajo.
 
+> <small>(REFORMADA, G.G. 20 DE ENERO DE 2009)</small>
+
 II. En dos meses:
 
-a) En caso de suspensión o despido injustificados, las acciones para exigir la reinstalación en su trabajo o la indemnización que la ley concede, contados a partir del día siguiente al de la fecha del despido o suspensión.
+a) Las acciones de los servidores públicos para rescindir la relación laboral, a partir del día siguiente en que el servidor público se separe de su trabajo; y
+
+b) En caso de suspensión o despido injustificados, las acciones para exigir la reinstalación en su trabajo o la indemnización que la ley concede, contados a partir del día siguiente al de la fecha del despido o suspensión.
+
+> <small>(REFORMADA, G.G. 20 DE ENERO DE 2009)</small>
 
 III. En cuatro meses:
 
-a) Las acciones de los servidores públicos para rescindir la relación laboral, a partir del día siguiente a aquél en que ocurra el hecho que da origen a la rescisión o tengan conocimiento del mismo;
+a) Las acciones de los titulares de las instituciones públicas o dependencias para rescindir la relación laboral, desde el día siguiente en que sean conocidas las causas;
 
-b) Las acciones de los titulares de las instituciones públicas o dependencias para rescindir la relación laboral, desde el día siguiente en que sean conocidas las causas;
+b) En caso de supresión de plazas, las acciones para que se otorgue otra equivalente a la suprimida o la indemnización de ley, a partir del día siguiente de que se informe; y
 
-c) En caso de supresión de plazas, las acciones para que se otorgue otra equivalente a la suprimida o la indemnización de ley, a partir del día siguiente de que se informe; y
-
-d) La aplicación de medidas disciplinarias a sus servidores públicos, contando el término desde que sean conocidas las causas.
+c) La aplicación de medidas disciplinarias a sus servidores públicos, contando el término desde que sean conocidas las causas.
 
 IV. En dos años:
 
@@ -1687,9 +1497,13 @@ a) Las acciones de los servidores públicos para reclamar indemnizaciones por ri
 
 b) Las acciones de las personas que dependieron económicamente de los servidores públicos fallecidos con motivo de un riesgo de trabajo, para reclamar la indemnización correspondiente; y
 
-c) Las acciones para ejecutar los laudos del Tribunal.
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
-Los plazos para ejercitar las acciones a que se refiere esta fracción correrán, desde el momento en que se determine la naturaleza del riesgo de trabajo, desde la fecha de la muerte del servidor público o desde que sea ejecutable el laudo dictado por el Tribunal, respectivamente.
+c) Las acciones para ejecutar los laudos del Tribunal o la Sala.
+
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+
+Los plazos para ejercitar las acciones a que se refiere esta fracción correrán, desde el momento en que se determine la naturaleza del riesgo de trabajo, desde la fecha de la muerte del servidor público o desde que sea ejecutable el laudo dictado por el Tribunal o la Sala, respectivamente.
 
 ###### Artículo 181.
 
@@ -1703,7 +1517,9 @@ II. Durante el tiempo en que el servidor público se encuentre privado de su lib
 
 La prescripción se interrumpe:
 
-I. Por la presentación de la demanda respectiva ante el Tribunal; o
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
+
+I. Por la presentación de la demanda respectiva ante el Tribunal o en la Sala; o
 
 II. Si la institución pública o el servidor público a cuyo favor corre la prescripción, reconoce el derecho de aquélla contra quien prescribe, por escrito o por hechos indubitables.
 
@@ -1711,23 +1527,23 @@ II. Si la institución pública o el servidor público a cuyo favor corre la pre
 
 Para los efectos de la prescripción, los meses se regularán por el número de días que les correspondan; el primer día se contará completo y cuando el último sea inhábil, no se tendrá completa la prescripción, sino cumplido el primer día hábil siguiente.
 
-## TITULO SEPTIMO. Del Tribunal Estatal de Conciliación y
+## TITULO SEPTIMO. Del Tribunal Estatal de Conciliación y Arbitraje y del Proceso y Procedimientos
 
-Arbitraje y del Proceso y Procedimientos
+### CAPITULO I. Del Tribunal Estatal de Conciliación y Arbitraje
 
-### CAPITULO I. Del Tribunal Estatal de Conciliación
-
-y Arbitraje
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 184.
 
-Para conocer y resolver los conflictos laborales individuales y colectivos que se presenten entre los sujetos de esta ley, funcionará como órgano autónomo y dotado de plena jurisdicción, el Tribunal Estatal de Conciliación y Arbitraje.
+El Tribunal Estatal de Conciliación y Arbitraje es un órgano autónomo y dotado de plena jurisdicción, conocerá y resolverá los conflictos laborales individuales y colectivos que se presenten entre los sujetos de esta ley.
 
 ###### Artículo 185.
 
 El Tribunal será competente para:
 
-I. Conocer y resolver, en conciliación y arbitraje, de los conflictos individuales que se susciten entre las instituciones públicas o dependencias y sus servidores públicos;
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
+
+I. Conocer y resolver, en conciliación y arbitraje, de los conflictos individuales que se susciten entre las instituciones públicas, dependencias, organismos descentralizados, fideicomisos de carácter Estatal y Municipal, y organismos autónomos que sus leyes de creación así lo determinen y sus servidores públicos que no conozcan las Salas;
 
 II. Conocer y resolver, en conciliación y arbitraje, los conflictos colectivos que surjan entre las instituciones públicas o dependencias y las organizaciones sindicales;
 
@@ -1735,15 +1551,43 @@ III. Conceder el registro de los sindicatos y, en su caso, dictar la cancelació
 
 IV. Conocer y resolver, en conciliación y arbitraje, de los conflictos internos de los sindicatos y de los intersindicales;
 
-V. Efectuar el registro de las condiciones generales de trabajo, de los estatutos de los sindicatos, así como de aquellos otros documentos que por su naturaleza deban obrar en los registros del Tribunal; y
+V. Efectuar el registro de las condiciones generales de trabajo, de los estatutos de los sindicatos, así como de aquellos otros documentos que por su naturaleza deban obrar en los registros del Tribunal; y (sic)
 
-VI. Conocer de cualquier otro asunto relativo, derivado o directamente vinculado con las relaciones de trabajo.
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
+
+VI. Llevar los procedimientos para la determinación de dependencia económica de los familiares de los servidores públicos;
+
+> <small>(ADICIONADA, G.G. 30 DE ENERO DE 2007)</small>
+
+VII. Dictar la resolución que ordene la suspensión temporal de su cargo de un servidor público en términos de lo dispuesto por el artículo 209 y 253 de esta ley; y
+
+> <small>(ADICIONADA, G.G. 30 DE ENERO DE 2007)</small>
+
+VIII. Conocer de cualquier otro asunto relativo, derivado o directamente vinculado con las relaciones de trabajo.
+
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 186.
 
-El Tribunal se integrará por un representante de cada uno de los poderes públicos del Estado, un representante de cada uno de los sindicatos mayoritarios a que se refiere el segundo párrafo del artículo 138 de esta Ley, un representante de los ayuntamientos de la entidad que será el del municipio de residencia del Tribunal y un árbitro designado por la mayoría de los representantes, quien fungirá como presidente, y durará en su cargo un término máximo de seis años.
+El Tribunal se integrará por un representante de cada uno de los poderes públicos del Estado, en caso de que alguno no designe, se tendrá integrado el Tribunal con los que se hayan designado, un representante de cada uno de los sindicatos mayoritarios a que se refiere el segundo párrafo del artículo 138 de esta ley, un representante de los ayuntamientos de la entidad que será el del municipio de residencia del Tribunal y un árbitro, designado por la mayoría de los representantes, quien fungirá como presidente, y durará en su cargo un término máximo de seis años, pudiendo ser reelecto por un periodo igual.
 
-Con excepción del presidente, cada uno de los representantes contará con un suplente.
+Se podrán instalar en el territorio de la entidad, las Salas Auxiliares del Tribunal que el presupuesto de egresos permita, se integrarán cada una por un representante del sindicato mayoritario, que represente a los servidores públicos municipales, un representante de los ayuntamientos, que será el del municipio de residencia de la Sala y un arbitro que fungirá como presidente, a propuesta del Presidente del Tribunal, que será nombrado por mayoría de los integrantes del Pleno y durará en su cargo tres años, pudiendo ser reelecto por un período igual.
+
+Con excepción de los presidentes, cada uno de los representantes contará con un suplente.
+
+> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+
+Artículo 186 bis. Las Salas Auxiliares del Tribunal serán competentes para:
+
+I. Conocer y resolver, en conciliación y arbitraje, de los conflictos individuales con motivo de la relación laboral que se susciten entre las instituciones públicas o dependencias municipales y sus servidores públicos;
+
+II. De los procedimientos necesarios para la determinación de dependencia económica de los familiares de los servidores públicos fallecidos.
+
+La competencia territorial de las Salas Auxiliares se determinará por el Pleno del Tribunal, en el acuerdo de creación que corresponda.
+
+Las resoluciones de las Salas Auxiliares no admiten ningún recurso.
+
+Cuando se demande conjuntamente al Municipio y algún Poder del Estado u organo sujeto de esta ley de carácter estatal, el Tribunal será el competente.
 
 ###### Artículo 187.
 
@@ -1763,19 +1607,35 @@ VI. Gozar de buena reputación; y
 
 VII. No haber sido condenado por delito intencional sancionado con pena corporal.
 
+> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+
+Para ser Presidente de alguna de las Salas auxiliares se reunirán los requisitos del Presidente del Tribunal, solo que deberá contar, con más de veinticinco años de edad y con cuatro años de ejercicio profesional posteriores a la obtención del título de licenciado en derecho.
+
 ###### Artículo 188.
 
 El Tribunal funcionará en pleno y las resoluciones se tomarán por mayoría de votos de sus integrantes. En caso de ausencia de alguno de ellos, los votos de los ausentes se sumarán al del presidente.
 
+> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+
+Bastará con la certificación del secretario para acreditar la ausencia de alguno de los representantes, sin citatorio previo.
+
+> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+
+Las resoluciones de las Salas se tomarán por mayoría, en caso de ausencia de alguno de los representantes o falta debidamente certificada por el secretario de la Sala respectiva, sin que conste citatorio previo, el voto del ausente se sumará al del Presidente.
+
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+
 ###### Artículo 189.
 
-Para su debido funcionamiento el Tribunal contará con los secretarios generales, auxiliares, secretarios, actuarios y demás servidores públicos que sean necesarios.
+Para su debido funcionamiento el Tribunal contará con secretarios generales, secretarios auxiliares, secretarios de acuerdos, actuarios, conciliadores; además de los servidores públicos que sean necesarios y las Salas con secretarios auxiliares, secretarios de acuerdos, actuarios, conciliadores y demás servidores públicos que sean necesarios para el desarrollo de sus funciones.
 
-Los integrantes y demás servidores públicos del Tribunal tendrán las facultades y obligaciones que se determinen en su reglamento interior. Los integrantes del Tribunal durarán en su encargo como término máximo seis años, tratándose de los poderes públicos del Estado; los representantes de los sindicatos y de los ayuntamientos lo serán por un período máximo de tres años, pudiendo ser redesignados por sus representados. En todo caso, la designación se hará de conformidad con sus normas internas.
+Los integrantes y demás servidores públicos del Tribunal o de las Salas tendrán las facultades y obligaciones que se determinen en su reglamento interior. Los integrantes del Tribunal durarán en su encargo como término máximo seis años, tratándose de los poderes públicos del Estado; los representantes de los sindicatos y de los ayuntamientos lo serán por un período máximo de tres años, pudiendo ser redesignados por sus representados. En todo caso, la designación se hará de conformidad con sus normas internas.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 190.
 
-El presidente del Tribunal, los representantes, los secretarios y los auxiliares, están impedidos para conocer de los juicios en los que intervengan por:
+El Presidente del Tribunal y los de las Salas, los representantes, los secretarios, los conciliadores, y actuarios, están impedidos para conocer de los juicios en los que intervengan por:
 
 I. Tener parentesco por consanguinidad dentro del cuarto grado o de afinidad dentro del segundo, o civil, con cualquiera de las partes;
 
@@ -1787,29 +1647,37 @@ IV. Haber sido de alguna de las partes o de su cónyuge, litigante, abogado, apo
 
 V. Ser tutor o curador, o haber estado bajo la tutela o curatela de alguna de las partes o de sus representantes.
 
-De darse alguno de los casos previstos en este artículo, procederá la excusa de conocer de los juicios en que se intervenga, salvo que se trate de lo dispuesto en el artículo 166 de esta ley. La excusa planteada será resuelta de inmediato por el pleno del Tribunal.
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+
+De darse alguno de los casos previstos en este artículo, procederá la excusa de conocer de los juicios en que se intervenga, salvo que se trate de lo dispuesto en el artículo 166 de esta ley. La excusa planteada será resuelta de inmediato por el Presidente del Tribunal o de la Sala que corresponda.
+
+> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+
+El Presidente del Tribunal y los de las Salas y cualquier otro servidor público que labore en dicha institución, se encontrarán impedidos para representar en materia laboral burocrática a las instituciones y dependencias, sindicatos y a los servidores públicos durante el año siguiente de haber dejado el cargo.
 
 ### CAPITULO II. De los Principios Procesales
 
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+
 ###### Artículo 191.
 
-El proceso será público, gratuito, inmediato, predominantemente oral y se iniciará a instancia de parte. El Tribunal tendrá la obligación de tomar las medidas necesarias para lograr la mayor economía, concentración y sencillez del proceso.
+El proceso será público, gratuito, inmediato, predominantemente oral y se iniciará a instancia de parte. El Tribunal y las Salas tendrán la obligación de tomar las medidas necesarias para lograr la mayor economía, concentración y sencillez del proceso.
 
-El Tribunal estará obligado a subsanar la demanda del servidor público cuando éste no solicite todas las prestaciones que legalmente puedan derivarse de los hechos.
-
-Cuando la demanda sea irregular, defectuosa u omisa o contenga acciones contradictorias, se procederá en los términos previstos en el artículo 230 de esta ley.
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 192.
 
-El Tribunal ordenará que se corrija cualquier irregularidad u omisión que notare en la substanciación del proceso para el efecto de regularizar el procedimiento, sin que ello implique que pueda revocar sus propias resoluciones.
+El Tribunal y las Salas ordenarán que se corrija cualquier irregularidad u omisión que notare en la substanciación del proceso para el efecto de regularizar el procedimiento, sin que ello implique que pueda revocar sus propias resoluciones.
 
 ###### Artículo 193.
 
 Lo no previsto en este título en materia procesal se regulará por las disposiciones contenidas en la Ley Federal del Trabajo, aplicadas supletoriamente y por los principios generales del derecho y de justicia social.
 
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+
 ###### Artículo 194.
 
-Cuando el conflicto afecte la prestación de servicios públicos de comunicaciones y transportes, los de luz y energía eléctrica, los de limpieza, los de aprovechamiento y distribución de aguas destinadas al servicio de las poblaciones, los de gas, los sanitarios, los de hospitales, los de cementerios y los de alimentación, cuando se refieran a artículos de primera necesidad, el Tribunal podrá tomar todas las medidas que estime pertinentes para evitar trastornos en los mismos.
+Cuando el conflicto afecte la prestación de servicios públicos de comunicaciones y transportes, de asistencia social, los de luz y energía eléctrica, los de limpieza, los de aprovechamiento y distribución de aguas destinadas al servicio de las poblaciones, los de gas, los sanitarios, los de hospitales, los de cementerios y los de alimentación, cuando se refieran a artículos de primera necesidad, el Tribunal o las Salas podrán tomar todas las medidas que estimen pertinentes, ordenar que se continué laborando, autorizar se contrate personal por tiempo determinado, autorizar el traslado de servidores públicos de una institución, dependencia o unidad administrativa a otra, así como el arresto de los titulares de las instituciones o dependencias o las análogas y todo ello para evitar trastornos en los mismos.
 
 ### CAPITULO III. De la Capacidad y Personalidad
 
@@ -1817,9 +1685,13 @@ Cuando el conflicto afecte la prestación de servicios públicos de comunicacion
 
 Son partes en el proceso, los servidores públicos, las instituciones públicas o las dependencias, los sindicatos reconocidos ante el Tribunal y, en general, quien acredite tener interés jurídico.
 
-Los terceros interesados podrán intervenir en el proceso comprobando su interés jurídico en el mismo o cuando sean llamados por el Tribunal.
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
-Los servidores públicos, mayores de 16 años, tienen capacidad por sí mismos para comparecer a juicio; pero, en caso de no estar asesorados, el Tribunal solicitará la intervención de la Procuraduría de la Defensa del Trabajo.
+Los terceros interesados podrán intervenir en el proceso comprobando su interés jurídico en el mismo o cuando sean llamados por el Tribunal o las Salas.
+
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+
+Los servidores públicos, mayores de 16 y menores de 18 años, tienen capacidad por sí mismos para comparecer a juicio; pero, en caso de no estar asesorados, el Tribunal o las Salas solicitarán la intervención de la Procuraduría de la Defensa del Trabajo.
 
 ###### Artículo 196.
 
@@ -1829,23 +1701,41 @@ Los representantes de los sindicatos, acreditarán su personalidad con la certif
 
 Tratándose de apoderados, la personalidad se acreditará conforme a las siguientes reglas:
 
-I. Cuando el compareciente actúe como apoderado de persona física podrá hacerlo mediante poder notarial o carta poder, firmada por el otorgante y ante dos testigos, sin necesidad de ser ratificada ante el Tribunal;
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
 
-II. Cuando el compareciente actúe como representante de las instituciones públicas o dependencias o de sus titulares, deberá hacerlo mediante oficio o carta poder debidamente firmada por quien tenga facultades para ello;
+I. Cuando el compareciente actúe como apoderado de persona física podrá hacerlo mediante poder notarial o carta poder, firmada por el otorgante y ante dos testigos, sin necesidad de ser ratificada ante el Tribunal o las Salas;
 
-III. Cuando el compareciente actúe como apoderado de los sindicatos, deberá acreditar su personalidad en iguales términos que la fracción anterior, adjuntando el documento que acredite la personalidad de quien otorga el poder;
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
 
-IV. Cuando el compareciente actúe como apoderado de persona moral, distinta a las instituciones públicas o dependencias, deberá acreditar su personalidad mediante poder notarial; y
+II. Cuando el compareciente actué como representante de las instituciones públicas o dependencias o de sus titulares, deberá hacerlo mediante oficio o carta poder debidamente firmada por quien tenga facultades para ello, adjuntando el documento correspondiente;
 
-V. El poder que otorgue el servidor público para ser representado, se entenderá conferido para demandar todas las prestaciones principales y accesorias que correspondan, aunque no se exprese.
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
+
+III. Si a consecuencia del cambio en la administración de las instituciones Estatales y Municipales de sus titulares no se revoca el poder o mandato otorgado, seguirá surtiendo todos sus efectos salvo disposición legal en contrario;
+
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
+
+IV. Cuando el compareciente actúe como apoderado de los sindicatos, deberá acreditar su personalidad mediante carta poder debidamente firmada por quien tenga facultades para ello, adjuntando el documento que acredite la personalidad de quien la otorga;
+
+V. El poder que otorgue el servidor público para ser representado, se entenderá conferido para demandar todas las prestaciones principales y accesorias que correspondan, aunque no se exprese;
+
+> <small>(ADICIONADA, G.G. 30 DE ENERO DE 2007)</small>
+
+VI. En todos los casos señalados con anterioridad, los apoderados legales de las partes, deberán presentar la cédula profesional que los faculte para ejercer la profesión de licenciado en derecho.
+
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 197.
 
-El Tribunal podrá tener por acreditada la personalidad de las partes, sin sujetarse a las reglas de derecho común, siempre que los documentos exhibidos lleven al convencimiento, de que efectivamente se representa a la parte interesada.
+El Tribunal y las Salas podrán tener por acreditada la personalidad de las partes, sin sujetarse a las reglas de derecho común, siempre que los documentos exhibidos, lleven al convencimiento, de que efectivamente se representa a la parte interesada.
+
+Pudiendo presentar la documentación comprobatoria de la personalidad en original y copia fotostática simple, solicitando que ésta sea cotejada para que le sea devuelto el original, obrando en autos copia debidamente certificada.
+
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 198.
 
-Los servidores públicos, las instituciones y los sindicatos podrán otorgar poder mediante simple comparecencia, previa identificación ante el Tribunal para que los representen ante cualquier autoridad del trabajo.
+Los servidores públicos; las instituciones y los sindicatos, con facultades para ello, podrán otorgar poder mediante simple comparecencia, previa identificación ante el Tribunal o las Salas para que los representen ante cualquier autoridad del trabajo.
 
 ###### Artículo 199.
 
@@ -1855,73 +1745,115 @@ El representante común tendrá los derechos, obligaciones y responsabilidades i
 
 ### CAPITULO IV. De la Competencia
 
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+
 ###### Artículo 200.
 
-Cuando existan en el expediente datos que lo justifiquen, el Tribunal, de oficio, deberá declararse incompetente en cualquier estado del proceso, hasta antes de ser declarado el cierre de la instrucción. Si el Tribunal se declara incompetente, con citación de las partes, remitirá de inmediato el expediente a la autoridad que estime competente o, en su caso, a la que deba decidir la competencia.
+Cuando existan en el expediente datos que lo justifiquen, el Tribunal o las Salas, de oficio, deberán declararse incompetentes en cualquier estado del proceso, hasta antes de ser declarado el cierre de la instrucción. Si el Tribunal o la Sala que se trate, se declara incompetente, con citación de las partes, remitirán de inmediato el expediente a la autoridad que estime competente o, en su caso, a la que deba decidir la competencia.
+
+> <small>(ADICIONADO, G.G. 20 DE ENERO DE 2009)</small>
+
+La excepción de incompetencia no exime al demandado de contestar la demanda, si no lo hace y el Tribunal o la Sala Auxiliar (sic) declara competente, se tendrá por confesada la demanda.
 
 ###### Artículo 201.
 
 Las cuestiones de competencia sólo pueden promoverse por declinatoria.
 
-La declinatoria deberá promoverse al iniciarse el período de demanda y excepciones en la audiencia respectiva, acompañando los elementos en que se funde. El Tribunal, después de oír a las partes y recibir las pruebas que estime conveniente, las que deberán referirse exclusivamente a la cuestión de incompetencia, dictará en el acto resolución.
+> <small>(REFORMADO, G.G. 20 DE ENERO DE 2009)</small>
 
-Será nulo todo lo actuado ante el Tribunal incompetente, salvo el acto de admisión de la demanda.
+La declinatoria deberá promoverse en la primera etapa del procedimiento en la audiencia respectiva, acompañando los elementos en que se funde. El Tribunal o la Sala, después de examinar las pruebas, que deberán referirse exclusivamente a la cuestión de incompetencia, dictará en el acto, resolución.
+
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+
+Será nulo todo lo actuado ante el Tribunal o autoridad incompetentes, salvo el acto de admisión de la demanda.
 
 ### CAPITULO V. De las Actuaciones del Tribunal
 
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+
 ###### Artículo 202.
 
-Las actuaciones del Tribunal deben practicarse en días y horas hábiles, bajo pena de nulidad.
+Las actuaciones del Tribunal y de las Salas deben practicarse en días y horas hábiles, bajo pena de nulidad, salvo lo establecido en el artículo 203.
 
-Son días hábiles todos los del año con excepción de los sábados y los domingos, los de descanso obligatorio que señale el calendario oficial y aquéllos en que el Tribunal suspenda sus labores.
+Son días hábiles todos los del año con excepción de los sábados y los domingos, los de descanso obligatorio que señale el calendario oficial y aquellos en que el Pleno del Tribunal suspenda sus labores.
 
-Son horas hábiles las comprendidas entre las ocho y las diecinueve horas, salvo en el caso del procedimiento de huelga, en el que todos los días y horas son hábiles.
+Son horas hábiles las comprendidas entre las ocho y las dieciocho horas, salvo en el caso del procedimiento de huelga, en el que todos los días y horas son hábiles.
+
+La recepción de documentos y promociones en la oficialía de partes del Tribunal o de las Salas será entre 8:30 a 15:00, horas de lunes a viernes y solo las que sean de término y cuando se trate de conflictos colectivos podrán recibirse en horas posteriores de acuerdo a lo prevenido por esta ley.
+
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 203.
 
-El Tribunal, el presidente o los auxiliares, pueden habilitar los días y horas necesarios para que se practiquen diligencias cuando haya causa justificada, expresando concreta y claramente cuál es ésta, así como las diligencias que hayan de practicarse.
+El Tribunal y la Sala, los presidentes o auxiliares, pueden habilitar los días y horas necesarios para que se practiquen diligencias cuando haya causa justificada, expresando concreta y claramente cuál es ésta, así como las diligencias que hayan de practicarse.
 
-La audiencia o diligencia que se inicie en día y hora hábil, podrá continuarse hasta su terminación sin suspenderla y sin necesidad de habilitación expresa. En caso de que se suspenda deberá continuarse al siguiente día hábil. El Tribunal hará constar en autos, la razón de la suspensión.
+La audiencia o diligencia que se inicie en día y hora hábil, podrá continuarse hasta su terminación sin suspenderla y sin necesidad de habilitación expresa. En caso de que se suspenda deberá continuarse al siguiente día hábil. El Tribunal o la Sala harán constar en autos, la razón de la suspensión.
 
-Cuando en la fecha señalada no se hubiere llevado a cabo la práctica de alguna diligencia o audiencia, se asentará constancia de las causas que lo originaron, y el Tribunal señalará día y hora para que tenga lugar la misma.
+Cuando en la fecha señalada no se hubiere llevado a cabo la práctica de alguna diligencia o audiencia, se asentará constancia de las causas que lo originaron, y el Tribunal o la Sala, señalarán día y hora para que tenga lugar la misma.
+
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 204.
 
-Todas las actuaciones procesales serán autorizadas por el secretario, excepción hecha de las diligencias encomendadas a otros servidores públicos del Tribunal. Lo actuado en la audiencia se hará constar en actas, las que deberán ser firmadas por las personas que en ellas intervengan, quieran y sepan hacerlo. Cuando algún integrante del Tribunal omitiere firmar las actas de las diligencias en las que estuvo presente, se entenderá que está conforme con ellas. De las actas de las audiencias se entregará copia autógrafa a cada una de las partes comparecientes.
+Todas las actuaciones procesales serán autorizadas por el secretario, excepción hecha de las diligencias encomendadas a otros servidores públicos del Tribunal o de la Salas. Lo actuado en la audiencia se hará constar en actas, las que deberán ser firmadas por las personas que en ellas intervengan, quieran y sepan hacerlo. Cuando algún integrante del Tribunal o de la Sala omitiere firmar las actas de las diligencias en las que estuvo presente, se entenderá que está conforme con ellas. De las actas de las audiencias se entregará copia a cada una de las partes comparecientes.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 205.
 
-Las declaraciones que rindan las partes, sus apoderados o cualquier persona ante el Tribunal, las harán bajo protesta de decir verdad y con apercibimiento de las penas en que incurren si declaran falsamente ante la autoridad.
+Las declaraciones que rindan las partes, sus apoderados, representantes legales o cualquier persona o los documentos presentados y suscritos por las partes, sus apoderados, representantes legales o cualquier persona ante el Tribunal o la Sala, las harán bajo protesta de decir verdad y sujetas a las penas en que incurren si declaran falsamente ante la autoridad, sin que se requiera apercibimiento alguno.
 
 Las declaraciones de peritos en derecho serán rendidas bajo protesta de decir verdad, sin que se requiera apercibimiento alguno.
 
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+
 ###### Artículo 206.
 
-En caso de extravío o desaparición del expediente o de alguna constancia, el secretario, previo informe del archivista, certificará la existencia anterior y la falta posterior del expediente o de las actuaciones. El Tribunal, a petición de parte o de oficio, lo hará del conocimiento de las partes, procederá a practicar las investigaciones del caso y a tramitar de inmediato la reposición de los autos en forma incidental.
+En caso de extravío o desaparición del expediente o de alguna constancia, el secretario, previo informe del servidor público que tenga conocimiento, certificará la existencia anterior y la falta posterior del expediente o de las actuaciones. El Tribunal o la Sala, de oficio, lo hará del conocimiento de las partes y procederá a practicar las investigaciones del caso tramitando de inmediato la reposición de los autos en forma incidental.
+
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 207.
 
-En el caso del artículo anterior, el Tribunal señalará, dentro de las setenta y dos horas hábiles siguientes, día y hora para que tenga lugar una audiencia en la que las partes deberán aportar todos los elementos, constancias y copias que obren en su poder. El Tribunal podrá ordenar se practiquen aquellas actuaciones y diligencias necesarias para reponer los autos teniendo en cuenta, en su caso, la existencia de alguna certificación de lo actuado. Si el Tribunal considera que hubo la comisión de algún delito, dará vista al Ministerio Público.
+En el caso del artículo anterior, el Tribunal o la Sala señalará, dentro de las setenta y dos horas hábiles siguientes, día y hora para que tenga lugar una audiencia en la que las partes deberán aportar todos los elementos, constancias y copias que obren en su poder. El Tribunal o la Sala podrán ordenar se practiquen aquellas actuaciones y diligencias necesarias para reponer los autos teniendo en cuenta, en su caso, la existencia de alguna certificación de lo actuado. Si el Tribunal o la Sala consideran que hubo la comisión de algún delito, realizarán la denuncia ante el Ministerio Público.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 208.
 
-Para mantener el buen orden en el desarrollo de las audiencias o diligencias y exigir que se les guarde el respeto y la consideración debidos el presidente del Tribunal o los auxiliares, podrán imponer las siguientes correcciones disciplinarias:
+Para mantener el buen orden en el desarrollo de las audiencias o diligencias y exigir que se les guarde el respeto y la consideración debidos el Presidente del Tribunal o de la Sala o los auxiliares o los secretarios, podrán imponer las siguientes correcciones disciplinarias:
 
 I. Amonestación;
 
-II. Multa que no podrá exceder de diez veces el salario mínimo general, vigente en el lugar y tiempo en que se cometa la violación; y
+II. Multa que no podrá exceder de diez veces el salario mínimo general, vigente en el lugar y tiempo en que se cometa la violación; y (sic)
 
-III. Expulsión del local del Tribunal. La persona que se resista a cumplir la orden, será desalojada del local con auxilio de la fuerza pública.
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
+
+III. Expulsión del local del Tribunal o la Sala. La persona que se resista a cumplir la orden, será desalojada del local con auxilio de la fuerza pública; y
+
+> <small>(ADICIONADA, G.G. 30 DE ENERO DE 2007)</small>
+
+IV. Arresto hasta por treinta y seis horas pudiendo ser conmutable por multa.
+
+> <small>(ADICIONADA, G.G. 30 DE ENERO DE 2007)</small>
+
+Las autoridades encargadas de las fuerzas públicas, de procuración de justicia y de los centros penitenciarios tendrán la obligación de atender las órdenes del Tribunal o de la Salas cuando se traten de correcciones disciplinarias y de medios de apremio.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 209.
 
-Para que las personas concurran a las audiencias en las que su presencia sea indispensable, o para asegurar el cumplimiento de sus resoluciones, el presidente del Tribunal y los auxiliares podrán emplear conjunta o indistintamente cualquiera de los siguientes medios de apremio:
+Para que las personas concurran a las audiencias en las que su presencia sea indispensable, o para asegurar el cumplimiento de cualquiera de sus resoluciones, el Presidente, los auxiliares y secretarios del Tribunal o de la Sala podrán emplear, sin respetar el orden en que se señalan, conjunta o indistintamente cualquiera de los siguientes medios de apremio:
 
 I. Multa que no excederá de diez veces el salario mínimo general vigente, en el lugar y tiempo en que se cometió la infracción;
 
-II. Presentación de la persona con auxilio de la fuerza pública; y
+II. Presentación de la persona con auxilio de la fuerza pública; y (sic)
 
-III. Arresto hasta por treinta y seis horas.
+III. Arresto hasta por treinta y seis horas;
+
+> <small>(ADICIONADA, G.G. 30 DE ENERO DE 2007)</small>
+
+IV. La suspensión temporal del cargo sin goce de sueldo del servidor público que se niegue a dar cumplimiento a un laudo. Esta medida sólo podrá resolverla el presidente del Tribunal, por lo que las Salas darán cuenta del incumplimiento a éste.
 
 ###### Artículo 210.
 
@@ -1933,25 +1865,33 @@ Las medidas disciplinarias y medios de apremio se impondrán de plano, sin subst
 
 Los términos comenzarán a correr al día siguiente en que surta efectos la notificación, y se contará completo el día de su vencimiento.
 
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+
 ###### Artículo 212.
 
-Cuando el domicilio de la persona demandada se encuentre fuera del lugar de residencia del Tribunal, éste podrá ampliar el término de que se trate, en función de la distancia a razón de un día por cada 100 kilómetros.
+Cuando el domicilio de la persona demandada se encuentre fuera del lugar de residencia del Tribunal o la Sala, éstos podrán ampliar el término de que se trate, en función de la distancia a razón de un día por cada 220 kilómetros.
 
 ### CAPITULO VII. De las Notificaciones
 
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+
 ###### Artículo 213.
 
-Las partes en su primera comparecencia o escrito, deberán señalar domicilio dentro del lugar de residencia del Tribunal para recibir notificaciones; si no lo hacen, las notificaciones personales se harán por estrados o boletín laboral.
+Las partes desde el escrito inicial de demanda y de la contestación a la misma, respectivamente, deberán señalar domicilio dentro de la colonia, barrio o delegación o pueblo del lugar de ubicación del Tribunal o de las Salas que se trate, para recibir notificaciones; si no lo hacen, las notificaciones personales y de cualquier índole, se harán por estrados o boletín laboral.
 
 ###### Artículo 214.
 
 Se harán personalmente las notificaciones siguientes:
 
-I. El emplazamiento a juicio, y cuando se trate del primer proveído que se dicte en el mismo;
+> <small>(REFORMADA, G.G. 20 DE ENERO DE 2009)</small>
+
+I. El emplazamiento a juicio, la reconvención y cuando se trate del primer proveído que se dicte en el mismo;
 
 II. El auto de radicación del juicio, en los expedientes que les remitan otras autoridades;
 
-III. La resolución en la que el Tribunal se declare incompetente;
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
+
+III. La resolución en la que el Tribunal o la Sala se declare incompetente;
 
 IV. El auto de recepción de la sentencia de amparo;
 
@@ -1967,9 +1907,21 @@ IX. El auto que conceda término o señale fecha para que el servidor público s
 
 X. El auto por el que se ordena la reposición de actuaciones;
 
-XI. El acuerdo que prevenga al actor a aclarar su demanda en los términos del artículo 230 de esta ley; y
+> <small>(REFORMADA, G.G. 20 DE ENERO DE 2009)</small>
 
-XII. En casos urgentes o cuando concurran circunstancias especiales a juicio del Tribunal.
+XI. El acuerdo que prevenga al actor a aclarar su demanda en los términos del artículo 229 de esta Ley;
+
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
+
+XII La medida disciplinaria y de apremio referida al arresto;
+
+> <small>(ADICIONADA, G.G. 30 DE ENERO DE 2007)</small>
+
+XIII La resolución que emita el Tribunal sobre la suspensión temporal de un servidor público; y
+
+> <small>(ADICIONADA, G.G. 30 DE ENERO DE 2007)</small>
+
+XIV. En casos urgentes o cuando concurran circunstancias especiales a juicio del Tribunal o de la Sala.
 
 ###### Artículo 215.
 
@@ -2013,6 +1965,26 @@ V. Excusa.
 
 Cuando se promueva un incidente dentro de una audiencia o diligencia, el tribunal substanciará y resolverá de plano, oyendo a las partes, continuándose el procedimiento de inmediato. Cuando se trate de nulidad, competencia y en los casos de acumulación y excusa, dentro de las veinticuatro horas siguientes se señalará día y hora para la audiencia incidental, en la que se resolverá.
 
+> <small>(ADICIONADO, G.G. 20 DE ENERO DE 2009)</small>
+
+El incidente de acumulación procede de oficio o a instancia de parte en los siguientes casos:
+
+I. Cuando se trate de procesos promovidos por el mismo actor en contra del mismo demandado, en las que se reclamen las mismas prestaciones.
+
+II. Cuando sean las mismas partes aunque las prestaciones sean distintas, pero derivadas de una misma acción.
+
+III. Cuando se trate de procesos promovidos por varios actores contra el mismo demandado, si el conflicto tuvo su origen en el mismo hecho derivado de la relación de trabajo.
+
+Si es procedente la acumulación, el proceso o procesos más recientes se acumularán al más antiguo.
+
+Cuando se declare procedente el incidente de acumulación producirá los siguientes efectos:
+
+En el caso de la fracción primera únicamente surtirá efectos en las actuaciones del juicio más antiguo.
+
+En los casos previstos en las fracciones II y III de este artículo, el tribunal o la sala resolverán en una sola resolución.
+
+Será competente el tribunal o la sala, que hubiere prevenido o que tenga el expediente más antiguo de acuerdo a la competencia de cada uno que menciona esta ley.
+
 ### CAPITULO IX. De las Pruebas
 
 ###### Artículo 219.
@@ -2029,19 +2001,247 @@ IV. Pericial;
 
 V. Inspección;
 
-VI. Presuncional;
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
 
-VII. Instrumental de actuaciones; y
+VI. Las fotografías, medio de información magnética o electrónica que sea utilizada para el registro y control de asistencia y puntualidad, pago de salarios, prima vacacional, aguinaldo, demás prestaciones establecidas en la presente ley;
+
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
+
+VII. Instrumental de actuaciones y Presuncional; y
 
 VIII. Cualquier otro medio de prueba que aporten los descubrimientos de la ciencia y de la técnica.
 
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+
 ###### Artículo 220.
 
-Las pruebas deben referirse a los hechos controvertidos cuando no hayan sido confesados por las partes.
+Las pruebas deben referirse a los hechos controvertidos cuando no hayan sido confesados por las partes, y se ofrecerán acompañadas de todos los elementos necesarios para su desahogo.
+
+> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+
+Artículo 220 A. Sí alguna persona no puede, por enfermedad u otro motivo justificado a juicio del Tribunal, concurrir al local del mismo para absolver posiciones o contestar un interrogatorio; previa comprobación del hecho, mediante certificado médico u otra constancia fehaciente que se exhiba, bajo protesta de decir verdad, éste señalará nueva fecha para el desahogo de la prueba correspondiente; y de subsistir el impedimento, el médico deberá comparecer, dentro de los cinco días siguientes, a ratificar el documento en cuyo caso, el Tribunal deberá trasladarse al lugar donde aquella se encuentre para el desahogo de la diligencia. El certificado médico deberá contener los siguientes requisitos: a) El (sic) nombre completo de la institución que expidió al médico su título profesional, y b) el número de cédula profesional; además, por razón inexcusable de certidumbre, dada la finalidad que persigue este documento, debe indicarse el nombre del médico que lo suscribe, la fecha de expedición del certificado y la manifestación que revele la existencia de un estado patológico que afecta a la persona examinada, del cual pueda deducirse la imposibilidad física de comparecencia.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 30 DE ENERO DE 2007)</small>
+
+#### SECCION PRIMERA. De la Prueba Confesional
+
+> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+
+Artículo 220 B. Cada parte podrá solicitar se cite a su contraparte para que concurra a absolver posiciones. También se podrá solicitar que se cite a absolver posiciones, a quienes ejerzan funciones de representación de la institución pública o dependencia, o de representación de sus titulares; así como a los miembros de la directiva de los sindicatos; cuando los hechos que dieron origen al conflicto les sean propios y se les hayan atribuido en la demanda o contestación, o bien, que por razón de sus funciones tengan conocimiento de ellos.
+
+Cuando se trate de los titulares de las instituciones públicas, dependencias o unidades administrativas, hasta jefes de departamento y sus equivalentes, esta prueba la desahogarán mediante oficio.
+
+> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+
+Artículo 220 C. El Tribunal o la Sala ordenará se cite a los absolventes, personalmente, o por conducto de sus apoderados apercibiéndolos de que si no concurren el día y hora señalados, se les tendrá por confesos de las posiciones que se les articulen y que hayan sido calificadas previamente de procedentes y legales.
+
+> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+
+Artículo 220 D. Si la persona citada para absolver posiciones, no concurre en la fecha y hora señalada, se le hará efectivo el apercibimiento a que se refiere el artículo anterior y se le declarará confesa de las posiciones que se hubieren articulado y calificado de legales.
+
+> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+
+Artículo 220 E. En el desahogo de la prueba confesional se observarán las normas siguientes:
+
+I. El absolvente deberá de identificarse con documento oficial y se harán constar en autos sus generales;
+
+II. Las posiciones podrán formularse en forma oral o por escrito que exhiba la parte interesada en el momento de la audiencia;
+
+III. Las posiciones se formularán libremente, pero deberán concretarse a los hechos controvertidos, no deberán ser insidiosas o inútiles;
+
+IV. El absolvente, sin necesidad de protestarlo su declaración se considerará bajo protesta de decir verdad, responderá por sí mismo, de palabra, sin la presencia de su asesor, ni ser asistido por persona alguna;
+
+V. Cuando las posiciones se formulen oralmente, se harán constar textualmente en el acta respectiva; cuando sean formuladas por escrito, éste se mandará agregar a los autos y deberá ser firmado por el articulante y el absolvente, en caso de negativa bastará la certificación del secretario;
+
+VI. Las posiciones serán calificadas previamente, y cuando no reúnan los requisitos a que se refiere la fracción II, el Tribunal desechará asentando en el acta el fundamento y motivo concreto en que apoye su resolución;
+
+VII. El absolvente contestará las posiciones afirmando o negando, pudiendo agregar las explicaciones que juzgue convenientes o las que le pida el Tribunal o la Sala; las respuestas también se harán constar textualmente en el acta respectiva; y
+
+VIII. Si el absolvente se niega a responder o sus respuestas son evasivas, el Tribunal o la Sala de oficio o a instancia de parte, lo apercibirá en el acto de tenerlo por confeso si persiste en ello.
+
+> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+
+Artículo 220 F. Si la persona que deba absolver posiciones tiene su residencia fuera del territorio del Estado de México, el Tribunal o la Sala librará exhorto, acompañando, en sobre cerrado y sellado, el pliego de posiciones previamente presentado y calificado.
+
+El Tribunal exhortado recibirá la confesional en los términos en que lo solicite el Tribunal o la Sala exhortante.
+
+> <small>(REFORMADO, G.G. 20 DE ENERO DE 2009)</small>
+
+Artículo 220 G. Se tendrá por confesión expresa y espontánea, las afirmaciones que formulen las partes en cualquier acto del procedimiento.
+
+> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+
+Artículo 220 H. Cuando la persona a quien se señale para absolver posiciones sobre hechos propios, ya no labore para la institución pública o dependencia, previa comprobación de hecho, el oferente de la prueba será requerido para que proporcione el domicilio donde deba ser citada. En caso de que el oferente ignore el domicilio, lo hará del conocimiento del Tribunal o la Sala antes de la fecha señalada para la celebración de la Audiencia de desahogo de pruebas, y el Tribunal o la Sala requerirán a la Institución o dependencia Pública que proporcione el último domicilio que tenga registrado de dicha persona.
+
+Para el indebido caso que no comparezca ante la autoridad que ordenó su citación se le harán efectivos los medios de apremio que señala el artículo 209 de la presente ley.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 30 DE ENERO DE 2007)</small>
+
+#### SECCION SEGUNDA. Prueba Documental
+
+> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+
+Artículo 220 I. Son documentos públicos aquellos cuya formulación está encomendada por la ley a un funcionario investido de fe pública; así como los que expida en ejercicio de sus funciones.
+
+Son documentos privados los que no reúnan las condiciones previstas en el párrafo anterior.
+
+> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+
+Artículo 220 J. Cuando un documento que provenga de tercero ajeno al juicio, resulta impugnado, deberá ser ratificado en su contenido y firma por el suscriptor, para lo cual deberá ser citado en los términos de la fracción II del artículo 220 M de esta Ley.
+
+> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+
+Artículo 220 K. La institución o dependencia pública tiene la obligación de conservar y exhibir en el proceso los documentos que a continuación se precisan:
+
+I. Contratos, Nombramientos o Formato Único de Movimientos de Personal, cuando no exista Convenio de condiciones generales de trabajo aplicable;
+
+II. Recibos de pagos de salarios o las constancias documentales del pago de salario cuando sea por depósito o mediante información electrónica;
+
+III. Controles de asistencia o la información magnética o electrónica de asistencia de los servidores públicos;
+
+IV. Recibos o las constancias de deposito o del medio de información magnética o electrónica que sean utilizadas para el pago de salarios, prima vacacional, aguinaldo y demás prestaciones establecidas en la presente ley; y
+
+V. Los demás que señalen las leyes.
+
+Los documentos señalados en la fracción I de este artículo, deberán conservarse mientras dure la relación laboral y hasta un año después; los señalados por las fracciones II, III, IV durante el último año y un año después de que se extinga la relación laboral, y los mencionados en la fracción V, conforme lo señalen las leyes que los rijan. Los documentos y constancias aquí señalados, la institución o dependencia podrá conservarlos por medio de los sistemas de digitalización o de información magnética o electrónica o cualquier medio descubierto por la ciencia y las constancias expedidas por el encargado del área de personal de éstas, harán prueba plena.
+
+El incumplimiento por lo dispuesto por este artículo, establecerá la presunción de ser ciertos los hechos que el actor exprese en su demanda, en relación con tales documentos, salvo prueba en contrario.
+
+> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+
+Artículo 220 L. Para que hagan fe en el Estado de México los documentos procedentes del extranjero, deberán presentarse debidamente legalizados por las autoridades diplomáticas o consulares, en los términos que establezcan las leyes relativas.
+
+Los documentos que se presenten en idioma distinto al español, deberán acompañarse de su traducción, el Tribunal o la Sala, de oficio, nombrará inmediatamente traductor oficial, el cual presentará y ratificará, bajo protesta de decir verdad, la traducción que haga dentro del término de cinco días, que podrá ser ampliado por el Tribunal o la Sala, cuando a su juicio se justifique.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 30 DE ENERO DE 2007)</small>
+
+#### SECCION TERCERA. Prueba Testimonial
+
+> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+
+Artículo 220 M. La parte que ofrezca prueba testimonial deberá cumplir con los requisitos siguientes:
+
+I. Sólo podrán ofrecerse un máximo de tres testigos por cada hecho controvertido que se pretenda probar, indicando los nombres y domicilios de los testigos;
+
+II. Cuando exista impedimento para presentar directamente a los testigos, deberá solicitarse al Tribunal o a la Sala que los cite, señalando y acreditando la causa o motivo justificados que le impidan presentarlos directamente, no bastando con decir que tiene imposibilidad de presentarlos, bajo la pena que de no hacerlo, se declarará desierta;
+
+III. Si el testigo radica fuera del lugar de residencia del Tribunal o la Sala, el oferente deberá, al momento de ofrecer la prueba, acompañar interrogatorio por escrito, al tenor del cual deberá de ser examinado el testigo; de no hacerlo, se declarará desierta. Así mismo exhibirá copias del interrogatorio, las que se pondrán a disposición de las demás partes, para que dentro del término de tres días presente su pliego de repreguntas en sobre cerrado.
+
+El Tribunal o la Sala, en el caso de la fracción II de este artículo, ordenará se cite al testigo para que rinda su declaración, previo citatorio que se haga de la autoridad en la hora y día que al efecto se señale, previniéndolos que para el caso de que no comparezcan se les aplicará cualquiera de las medios de apremio señaladas por esta ley. (sic)
+
+El Tribunal o la Sala, al girar el exhorto para desahogar la prueba testimonial, acompañará copia debidamente certificada del interrogatorio con las preguntas calificadas, e indicará a la autoridad exhortada, los nombres de las personas que tienen facultad parta intervenir en la diligencia.
+
+> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+
+Artículo 220 N. En el desahogo de la prueba testimonial se observarán las normas siguientes:
+
+I. El oferente de la prueba presentará directamente a sus testigos, salvo lo dispuesto en el artículo 220 M fracción II de la presente ley, y el Tribunal o la Sala procederá a recibir su testimonio;
+
+II. El testigo deberá identificarse ante el Tribunal o la Sala y si no puede hacerlo en el momento de la audiencia, el Tribunal o la Sala le concederá un término de tres días para ello; y en caso de no hacerlo en el término conferido, se tendrá por no rendida su declaración;
+
+III. Los testigos serán examinados por separado, en el orden en que fueran ofrecidos. Los interrogatorios se formularán oralmente, salvo lo dispuesto en la fracción III del artículo 220 M de esta ley;
+
+IV. Después de tomarle al testigo la protesta de conducirse con verdad y de advertirle de las penas en que incurren los testigos, por declarar falsamente ante una autoridad en el desempeño de sus funciones, se hará constar sus generales se procederá a tomar su declaración;
+
+V. Las partes formularán las preguntas en forma verbal y directamente, el Tribunal o la Sala admitirá aquellas que tengan relación directa con la litis planteada, desechándose los que ofusquen la inteligencia del declarante, sean inútiles o no tengan relación con los hechos controvertidos, y que no se hayan hecho con anterioridad al mismo testigo, o lleven implícita la contestación;
+
+VI. Primero interrogará el oferente de la prueba y posteriormente las demás partes repreguntarán sobre el cuestionamiento realizado por el oferente. El Tribunal o la Sala cuando lo estime pertinente, examinará directamente al testigo, sin que deba respetar regla alguna, para conocer la verdad de los hechos;
+
+VII. Las preguntas y respuestas se harán constar en autos, escribiéndose textualmente unas y otras;
+
+VIII. Los testigos están obligados a dar la razón de su dicho, y el Tribunal o la Sala deberá solicitarla;
+
+IX. El testigo enterado ya de su declaración, firmará al margen de la hojas que la contengan y así se hará constar por el secretario; si no sabe o no puede leer o firmar la declaración, será leída por el secretario e imprimirá su huella digital y una vez ratificada, no podrá variarse ni en la sustancia ni en la redacción, en caso de no quererlo hacer se asentará la razón y el secretario lo hará constar;
+
+X. Las objeciones o tachas a los testigos se formularán oralmente al concluir el desahogo de la prueba para su apreciación por el Tribunal o la Sala al momento de emitirse la resolución.
+
+Cuando se objetare de falso a un testigo, el Tribunal recibirá las pruebas en la audiencia de desahogo de pruebas a que se refiere la presente ley; y
+
+XI. El testigo que dejare de concurrir a la audiencia, no obstante haber sido citado legalmente, se le hará efectivo el apercibimiento decretado, procediendo a la aplicación de los medios de apremio que autoriza esta ley y el Tribunal o la Sala dictará nuevamente las medidas necesarias para que comparezca a rendir su declaración, el día y la hora señalados.
+
+> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+
+Artículo 220 Ñ. Un sólo testigo podrá formar convicción, si en el mismo concurren circunstancias que sean garantía de veracidad que lo hagan insospechable de falsear los hechos sobre los que declara, sí:
+
+I. Fue el único que se percató de los hechos;
+
+II. La declaración no se encuentre en oposición con otras pruebas que obren en autos; y
+
+III. Concurren en el testigo circunstancias que sean garantía de veracidad.
+
+Se le dará esa credibilidad siempre y cuando la parte oferente la ofrezca como testigo singular o único.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 30 DE ENERO DE 2007)</small>
+
+#### SECCION CUARTA. Prueba Pericial
+
+> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+
+Artículo 220 O. La prueba pericial versará sobre cuestiones relativas a alguna ciencia técnica, o arte.
+
+Deberá ofrecerse mencionando el nombre y profesión de su perito e indicando la materia sobre la que deba versar, exhibiendo por escrito el cuestionario respectivo, con copia para cada una de las partes.
+
+> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+
+Artículo 220 P. El Tribunal o la Sala nombrarán los peritos que correspondan al servidor público, en cualquiera de los siguientes casos:
+
+I. Cuando el servidor público lo solicite, por no estar en posibilidad de cubrir los honorarios correspondientes;
+
+II. Si designándolo no compareciera a aceptar el cargo o a la audiencia respectiva a rendir su dictamen.
+
+> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+
+Artículo 220 Q. En el desahogo de la prueba pericial se observarán las disposiciones siguientes:
+
+I. Cada parte presentará personalmente a su perito el día de la audiencia, salvo el caso previsto en el artículo anterior;
+
+II. Los peritos protestarán de desempeñar su cargo con arreglo a la ley e inmediatamente rendirán su dictamen; a menos que por causa justificada soliciten se señale nueva fecha para rendir su dictamen;
+
+III. La prueba se desahogará con el perito que concurra, salvo el caso de la fracción II del artículo que antecede, el Tribunal o la Sala señalará nueva fecha, y dictará los medios de apremio necesarios para que comparezca el perito;
+
+IV. Las partes, el Tribunal o la Sala podrá hacer a los peritos las preguntas que juzguen convenientes; y
+
+V. En caso de existir discrepancia en los dictámenes, el Tribunal o la Sala designará un perito tercero en discordia.
+
+El perito tercero en discordia que designe el Tribunal o la Sala deben excusarse dentro de las cuarenta y ocho horas siguientes a que se notifique su nombramiento, siempre que concurra alguna de las causas de excusa señalados por esta ley, el Tribunal o la Sala calificará de plano la excusa y, declarada procedente, se nombrará nuevo perito.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 30 DE ENERO DE 2007)</small>
+
+#### SECCION QUINTA. De la Inspección
+
+> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+
+Artículo 220 R. La parte que ofrezca la inspección deberá precisar el objeto materia de la misma; el lugar donde debe practicarse; los períodos que abarcará y los objetos, documentos, fotografías, videos, cintas cinematográficas, cualquier otra producción de imágenes, registros dactiloscópicos, fonográficos, biométricos, magnéticos, los sistemas de información electrónica y demás descubrimientos de la ciencia, la técnica o el arte que deben ser examinados.
+
+Al ofrecerse la prueba, deberá hacerse en sentido afirmativo, fijando cuestiones que se pretenden acreditar con la misma.
+
+Admitida la prueba de inspección por el Tribunal o la Sala, deberá señalar día, hora y lugar para su desahogo; si los objetos, documentos, fotografías, videos, cintas cinematográficas, cualquier otra producción de imágenes, registros dactiloscópicos, fonográficos, biométricos, magnéticos, los sistemas de información electrónica y demás descubrimientos de la ciencia, la técnica o el arte obran en poder de alguna de las partes, se apercibirá que, en caso de no exhibirlos, se tendrán por presuntamente ciertos los hechos que se tratan de probar. Si los documentos y objetos se encuentran en poder de personas ajenas a la controversia, se aplicarán los medios de apremio que procedan.
+
+> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+
+Artículo 220 S. En el desahogo de la prueba de inspección se observarán las reglas siguientes:
+
+I. El actuario requerirá que se le pongan a la vista los objetos, documentos originales, fotografías, videos, cintas cinematográficas, cualquier otra producción de imágenes, registros dactiloscópicos, fonográficos, biométricos, magnéticos, los sistemas de información electrónica y demás descubrimientos de la ciencia, la técnica o el arte que deben ser examinados que deben inspeccionarse; ciñéndose estrictamente a lo ordenado por el Tribunal o la Sala;
+
+II. Las partes y sus apoderados pueden concurrir a la diligencia de inspección y formular brevemente las objeciones u observaciones que estimen pertinentes; y
+
+III. De la diligencia se levantará acta circunstanciada, que firmarán los que en ella intervengan y la cual se agregará al expediente, previa razón en autos.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 30 DE ENERO DE 2007)</small>
+
+#### SECCION SEXTA. De las Fotografías y cualquier otro Medio de Prueba
+
+> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+
+Artículo 220 T. Para acreditar hechos o circunstancias que tengan relación con el asunto que se ventile, las partes pueden presentar fotografías, copias fotostáticas, videos, cintas cinematográficas y cualquier otra producción de imágenes.
+
+También como medio de prueba debe admitirse los registros dactiloscópicos, fonográficos, biométricos, magnéticos los sistemas de información electrónica y demás descubrimientos de la ciencia, la técnica o el arte que produzcan convicción en el ánimo de la autoridad laboral del Tribunal o de la Sala.
+
+(REUBICADO Y REFORMADO PRIMER PARRAFO, G.G. 30 DE ENERO DE 2007)
 
 ###### Artículo 221.
 
-El Tribunal eximirá de la carga de la prueba al servidor público, cuando por otros medios esté en posibilidad de llegar al conocimiento de los hechos. Para tal efecto requerirá a las instituciones públicas o dependencias para que exhiban los documentos que, de acuerdo a la ley respectiva, tienen la obligación legal de conservar, bajo el apercibimiento de que de no presentarlos, se presumirán ciertos los hechos alegados por el servidor público. En todo caso, corresponderá a las instituciones públicas o dependencias probar su dicho cuando exista controversia sobre:
+El Tribunal o la Sala eximirán de la carga de la prueba al servidor público, cuando por otros medios esté en posibilidad de llegar al conocimiento de los hechos, salvo lo relativo al reclamo de tiempo extraordinario. Para tal efecto, requerirá a las instituciones públicas o dependencias, organismos descentralizados, fideicomisos de carácter Estatal y Municipal, para que exhiban los documentos que, de acuerdo a esta ley, tienen la obligación legal de conservar, bajo el apercibimiento de que de no presentarlos, se presumirán ciertos los hechos alegados por el servidor público. En todo caso, corresponderá a las instituciones públicas o dependencias probar su dicho cuando exista controversia sobre:
 
 I. Fecha de ingreso del servidor público;
 
@@ -2057,25 +2257,39 @@ VI. Constancia de haber dado aviso por escrito al servidor público de la fecha 
 
 VII. Nombramiento o contrato de trabajo;
 
-VIII. Duración de la Jornada de trabajo;
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
+
+VIII. Duración de la Jornada de trabajo, salvo se trate de servidores públicos de confianza;
 
 IX. Pagos de días de descanso;
 
 X. Disfrute y pago de las vacaciones; y
 
-XI. Monto y pago de sueldos y demás prestaciones.
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
+
+XI. Monto de pago de sueldos e incorporación y pago de cuotas al Instituto de Seguridad Social del Estado de México y Municipios, y demás prestaciones que se establezcan en la presente ley.
+
+> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+
+La carga de la prueba corresponderá al servidor público cuando se trate de tiempo extraordinario.
+
+(REUBICADO, G.G. 30 DE ENERO DE 2007)
 
 ###### Artículo 222.
 
 Las pruebas deberán ofrecerse en la misma audiencia, salvo que se refieran a hechos supervenientes o que tengan por fin probar las tachas que se hagan valer en contra de los testigos, o de la veracidad de los documentos que se exhiban en el momento del desahogo de la inspección ocular.
 
+> <small>(REFORMADO Y REUBICADO, G.G. 30 DE ENERO DE 2007)</small>
+
 ###### Artículo 223.
 
-El Tribunal podrá ordenar, con citación de las partes el examen de documentos, objetos y lugares, su reconocimiento por actuarios y peritos, y en general practicar las diligencias que juzgue convenientes para el esclarecimiento de la verdad, y requerirá a las partes para que exhiban los documentos y objetos de que se trate.
+El Tribunal o la Sala podrán ordenar, con citación de las partes el examen de documentos, objetos y lugares, su reconocimiento por actuarios y peritos, y en general practicar las diligencias que juzgue convenientes para el esclarecimiento de la verdad, y requerirá a las partes para que exhiban los documentos y objetos de que se trate.
+
+> <small>(REFORMADO Y REUBICADO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 224.
 
-Toda autoridad o persona ajena al juicio que tenga conocimiento de hechos o documentos en su poder que puedan contribuir al esclarecimiento de la verdad, está obligada a declararlos o aportarlos, cuando sea requerida por el Tribunal.
+Toda autoridad o persona ajena al juicio que tenga conocimiento de hechos o documentos en su poder que puedan contribuir al esclarecimiento de la verdad, estará obligada a declararlos o aportarlos cuando sea requerida por el Tribunal o la Sala.
 
 ### CAPITULO X. Del Procedimiento Laboral
 
@@ -2083,9 +2297,13 @@ Toda autoridad o persona ajena al juicio que tenga conocimiento de hechos o docu
 
 Las disposiciones de este capítulo rigen la tramitación y resolución de los conflictos individuales y colectivos, con excepción de la huelga cuya tramitación se sujetará al procedimiento especial que en esta ley se contempla.
 
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+
 ###### Artículo 226.
 
-El procedimiento se iniciará con la presentación del escrito de demanda ante la Oficialía de Partes del Tribunal, la que lo turnará al auxiliar que corresponda el mismo día antes de que concluyan las labores.
+El procedimiento se iniciará con la presentación del escrito de demanda ante la Oficialía de Partes del Tribunal o la Sala que lo turnará al auxiliar o secretario que corresponda el mismo día antes de que concluyan las labores.
+
+A la demanda se acompañarán las pruebas de que disponga el actor y los documentos que acrediten la personalidad del representante, en caso de que aquel no pudiera concurrir personalmente.
 
 ###### Artículo 227.
 
@@ -2107,101 +2325,113 @@ VI. Indicación del lugar en que puedan obtenerse los que el actor no pudiese ap
 
 Cuando el servidor público ignore el nombre del titular de la institución pública o dependencia, o la denominación exacta del centro de trabajo donde labora o laboró, deberá precisar en su escrito inicial de demanda, al menos el domicilio de la institución pública o dependencia en donde prestó o presta sus servicios.
 
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+
 ###### Artículo 229.
 
-El Tribunal dentro de los tres días hábiles siguientes a la presentación de la demanda, dictará acuerdo en el que se señalará día y hora para la celebración de la audiencia de conciliación, demanda y excepciones y ofrecimiento y admisión de pruebas. En este acuerdo ordenará que se notifique personalmente a las partes con 10 días hábiles de anticipación a la fecha de la audiencia y se entregue al demandado copia cotejada de la demanda, para que la conteste, apercibiéndolo de tenerlo por inconforme con todo arreglo conciliatorio, por contestada la demanda en sentido afirmativo y por perdido el derecho de ofrecer pruebas si no concurre a la audiencia.
+El Tribunal o la Sala dentro de los cinco días hábiles siguientes a la presentación de la demanda, prevendrá al actor para que en el plazo de cinco días hábiles corrija su demanda por ser obscura e imprecisa, en caso de que no lo haga se tendrá por ratificada. Admitida la demanda y el escrito de pruebas se correrá traslado de ella a la parte demandada, así como de las pruebas, emplazándola para que la conteste dentro del plazo de quince días hábiles, contados a partir del día siguiente del emplazamiento, ésta deberá contener copia cotejada de la demanda y de los acuerdos que le recayeron, apercibiéndolo que para el caso de no contestarla en el término señalado se tendrá por contestada en sentido afirmativo, sin perjuicio de que en la etapa de ofrecimiento y admisión de pruebas ofrezca pruebas en contrario con la que acredite que el actor no era servidor público, que no existió el despido o que no son ciertos los hechos afirmados en la demanda.
 
-La audiencia señalada deberá efectuarse en un término no mayor de 15 días hábiles contados a partir del día en que se haya dictado el acuerdo que la fija.
+El Tribunal o la Sala dentro de los cinco días hábiles siguientes que reciba la contestación de demanda o hubiera trascurrido el término para contestarla, dictará acuerdo en el que se señalará día y hora para la celebración de la audiencia de conciliación, ofrecimiento y admisión de pruebas, apercibiéndolos de tenerlos por inconformes con todo arreglo conciliatorio y por perdido el derecho de ofrecer pruebas si no concurren a la audiencia.
 
-Durante la tramitación de los conflictos individuales bastará la presencia del presidente del Tribunal o del auxiliar, quien llevará a cabo la audiencia hasta su terminación y dictará las resoluciones que procedan, salvo las que versen sobre personalidad, competencia y admisión de pruebas, casos en los que citará a los integrantes del Tribunal para dictar la resolución correspondiente.
+Durante la tramitación de los conflictos individuales y colectivos bastará la presencia del Presidente del Tribunal o de la Sala o del auxiliar, quien llevará a cabo la audiencia hasta su terminación y dictará las resoluciones que procedan, salvo los laudos, caso en que citará a los integrantes del Tribunal o de la Sala para dictar la resolución correspondiente.
 
 ###### Artículo 230.
 
-Cuando el actor sea un servidor público o sus beneficiarios; el Tribunal, en caso de alguna irregularidad en la demanda, señalará los defectos u omisiones en que hubiere incurrido y hará la prevención para que se subsanen dentro del término de cinco días hábiles, apercibiéndolo que de no hacerlo, se tendrá por reproducido el escrito inicial.
+(DEROGADO, G.G. 30 DE ENERO DE 2007)
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 231.
 
-La falta de notificación de alguno de los demandados obliga al Tribunal a señalar de oficio nuevo día y hora para la celebración de la audiencia, salvo que las partes concurran a ella o cuando el actor se desista de las acciones intentadas en contra de los demandados que no hubieran sido notificados.
+La falta de notificación de alguno de los demandados obliga al Tribunal o a la Sala a señalar de oficio, nuevo día y hora para la celebración de la audiencia, salvo que las partes concurran a ella o cuando el actor se desista de las acciones intentadas en contra de los demandados que no hubieran sido notificados.
 
 Las partes que comparezcan a la audiencia quedarán notificadas de la nueva fecha para su celebración. A las partes que habiendo sido notificadas no concurran a la audiencia, se les notificará por estrados o por boletín la nueva fecha de la audiencia, y a las que no fueron notificadas se les hará personalmente.
 
+> <small>(REFORMADO, G. G. 30 DE ENERO DE 2007)</small>
+
 ###### Artículo 232.
 
-La audiencia a que se refiere el artículo 229 de esta ley constará de tres etapas:
+La audiencia a que se refiere el Artículo 229 de esta ley constará de dos etapas:
 
-I. De conciliación;
+I. De conciliación; y
 
-II. De demanda y excepciones, y
+II. De ofrecimiento y admisión de pruebas.
 
-III. De ofrecimiento y admisión de pruebas.
-
-La audiencia se iniciará con o sin la comparecencia de las partes. Las ausentes podrán intervenir cuando se presenten, siempre que el Tribunal no haya emitido el acuerdo correspondiente.
+La audiencia se iniciará con o sin la comparecencia de las partes. Las ausentes podrán intervenir cuando se presenten, siempre que el Tribunal o la Sala no haya emitido el acuerdo correspondiente.
 
 ###### Artículo 233.
 
 La etapa conciliatoria se desarrollará en la siguiente forma:
 
-I. Las partes podrán comparecer ante el Tribunal personalmente o por medio de su apoderado o representante legal;
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
 
-II. El Tribunal intervendrá para la celebración de pláticas entre las partes y las exhortará, para que procuren llegar a un arreglo conciliatorio;
+I. Las partes podrán comparecer ante el Tribunal o la Sala personalmente o por medio de su apoderado o representante legal;
 
-III. Si las partes llegan a un acuerdo se dará por terminado el conflicto. El convenio respectivo, aprobado por el Tribunal, producirá todos los efectos jurídicos inherentes a un laudo;
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
 
-IV. Las partes, de común acuerdo, podrán solicitar que se suspenda la audiencia con el objeto de conciliarse. El Tribunal podrá suspenderla y fijará su reanudación, dentro de los cinco días hábiles siguientes, quedando notificadas las partes de la nueva fecha con los apercibimientos de ley; y
+II. El Tribunal o la Sala intervendrán para la celebración de pláticas entre las partes y las exhortarán, para que procuren llegar a un arreglo conciliatorio;
 
-V. Si las partes no concurren o no llegaren a un acuerdo, se les tendrá por inconformes con todo arreglo conciliatorio y se pasará a la etapa de demanda y excepciones.
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
+
+III. Si las partes llegan a un acuerdo, se dará por terminado el conflicto. El convenio respectivo, aprobado por el Tribunal o la Sala, producirá todos los efectos jurídicos inherentes a un laudo;
+
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
+
+IV. Las partes, de común acuerdo, podrán solicitar por una sola ocasión, que se suspenda la audiencia con el objeto de conciliarse. El Tribunal o la Sala podrán suspenderla y fijarán su reanudación, dentro de los diez días hábiles siguientes, quedando notificadas las partes de la nueva fecha con los apercibimientos de ley; y (sic)
+
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
+
+V. Sí las partes no concurren o no llegaren a un acuerdo, se les tendrá por inconformes con todo arreglo conciliatorio y se pasará a la etapa de ofrecimiento y admisión de pruebas;
+
+> <small>(ADICIONADA, G.G. 20 DE ENERO DE 2009)</small>
+
+VI. Si el demandado reconviene al actor, el Tribunal o la Sala Auxiliar, le concederá un término de 5 días hábiles contados a partir del día siguiente de la notificación, con los apercibimientos que señala el Artículo 229 de esta Ley.
+
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 234.
-
-La etapa de demanda y excepciones se desarrollará conforme a las normas siguientes:
-
-I. El actor ratificará o modificará su demanda precisando los puntos petitorios. En este último caso, el demandado podrá solicitar la suspensión de la audiencia, la que deberá continuarse en su estado dentro de los cinco días hábiles siguientes para contestar la demanda con sus modificaciones;
-
-II. Ratificada la demanda, el demandado procederá a contestarla oralmente o por escrito. En este último caso, estará obligado a entregar al actor copia simple de su contestación; si no lo hace, el Tribunal la expedirá a costa del demandado;
-
-III. En su contestación, el demandado podrá hacer valer sus excepciones y oponer sus defensas, debiendo referirse a todos y cada uno de los hechos aducidos en la demanda, afirmándolos o negándolos, expresando los que ignore cuando no sean propios, y podrá agregar las explicaciones que estime convenientes. El silencio o las evasivas harán que se tengan por admitidos aquéllos sobre los que no se suscite controversia y no podrá admitirse prueba en contrario. La negación pura y simple del derecho importa la confesión de los hechos. La confesión de éstos no entraña la aceptación del derecho;
-
-IV. La excepción de incompetencia no exime al demandado de contestar la demanda en la misma audiencia; si no lo hace y el Tribunal se declara competente, se tendrá por confesada la demanda;
-
-V. Las partes podrán por una sola vez, replicar y contrarreplicar brevemente, asentándose en actas sus alegaciones si lo solicitaren;
-
-VI. Si el demandado reconviene al actor, éste procederá a contestar de inmediato, o bien a solicitud del mismo, el Tribunal acordará la suspensión de la audiencia y señalará para su continuación una fecha dentro de los cinco días hábiles siguientes; y
-
-VII. Si las partes están de acuerdo con los hechos y la controversia queda reducida a un punto de derecho, se declarará cerrada la instrucción.
-
-###### Artículo 235.
-
-La etapa de demanda y excepciones se llevará a cabo aun cuando no concurran las partes. Si el actor no comparece a la audiencia, se tendrá por reproducido en vía de demanda su escrito inicial. Si el demandado no concurre, la demanda se tendrá por contestada en sentido afirmativo, sin perjuicio de que en la etapa de ofrecimiento y admisión de pruebas demuestre que el actor no era servidor público, que no existió el despido o que no son ciertos los hechos afirmados en la demanda.
-
-###### Artículo 236.
-
-Al concluir la etapa de demanda y excepciones se pasará inmediatamente a la de ofrecimiento y admisión de pruebas.
-
-###### Artículo 237.
 
 La etapa de ofrecimiento y admisión de pruebas se desarrollará conforme a las normas siguientes:
 
 I. El actor ofrecerá sus pruebas en relación con los hechos controvertidos. Inmediatamente el demandado ofrecerá sus pruebas y podrá objetar las de su contraparte, y aquél, a su vez, podrá objetar las del demandado;
 
-II. Las partes podrán ofrecer nuevas pruebas siempre que se relacionen con las ofrecidas por la contraparte y que no se haya cerrado la etapa de ofrecimiento de pruebas. En el caso de que el actor necesite ofrecer pruebas relacionadas con hechos desconocidos que se desprendan de la contestación de la demanda, podrá solicitar que la audiencia se suspenda para reanudarse a los diez días hábiles siguientes, a fin de preparar, dentro de este lapso, las pruebas correspondientes a tales hechos; y
+II. Las partes podrán ofrecer nuevas pruebas siempre que se relacionen con las ofrecidas por la contraparte y que no se haya cerrado la etapa de ofrecimiento de pruebas; y
 
-III. Concluido el ofrecimiento de pruebas, el Tribunal resolverá inmediatamente sobre su admisión.
+III Concluido el ofrecimiento de pruebas, el Tribunal o la Sala resolverán inmediatamente sobre su admisión.
+
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+
+###### Artículo 235.
+
+La etapa de ofrecimiento y admisión de pruebas se llevará a cabo aún cuando no concurran las partes. Si las partes no comparecen a la audiencia se les tendrá por perdido su derecho para ofrecer pruebas, otorgándoles a las partes un término de 48 horas para formular sus alegatos.
+
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+
+###### Artículo 236.
+
+El Tribunal o la Sala podrán ordenar se desahoguen las pruebas que consideren necesarias para mejor proveer hasta el cierre de la instrucción.
+
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+
+###### Artículo 237.
+
+El Tribunal o la Sala, una vez agotada la etapa de ofrecimiento y admisión de pruebas, señalará en el mismo acuerdo, el día y la hora para la celebración de la audiencia de desahogo de pruebas la que deberá efectuarse dentro de los quince días hábiles siguientes, y ordenará, en su caso, que se giren los oficios necesarios para recabar los informes o copias que deba expedir alguna autoridad o exhibir persona ajena al juicio y que haya solicitado el oferente, con los apercibimientos señalados en esta ley.
+
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 238.
 
-El Tribunal, una vez agotada la etapa de ofrecimiento y admisión de pruebas, señalará en el mismo acuerdo el día y la hora para la celebración de la audiencia de desahogo de pruebas la que deberá efectuarse dentro de los diez días hábiles siguientes, y ordenará, en su caso, que se giren los oficios necesarios para recabar los informes o copias que deba expedir alguna autoridad o exhibir persona ajena al juicio y que haya solicitado el oferente, con los apercibimientos señalados en esta ley.
+En el desahogo de las pruebas se procurará que se desahoguen primero las del actor y después las del demandado, aunque no guarden el orden en que fueron ofrecidas y dictaran las medidas necesarias para procurar que el día de la audiencia se desahoguen todas las pruebas ofrecidas y las que por su naturaleza no sean posibles de desahogarse, se señalará día y hora en que se efectuará la audiencia respectiva.
 
-En el desahogo de las pruebas se procurará que se reciban primero las del actor y después las del demandado, aunque no guarden el orden en que fueron ofrecidas.
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 239.
 
-Cuando las pruebas sean documentos que se hayan solicitado a autoridades diversas y no se hubieran remitido, el Tribunal las requerirá para que las envíen.
+Cuando las pruebas sean documentos que se hayan solicitado a autoridades diversas y no se hubieran remitido, el Tribunal o la Sala las requerirán para que las envíen, con el apercibimiento, de que se les aplicarán los medios de apremio que establece esta ley si no lo hacen.
 
 ###### Artículo 240.
 
-Las pruebas confesional y testimonial se ofrecerán y desahogarán conforme a lo siguiente: Se podrá solicitar que se cite a absolver posiciones u ofrecer testimonio personalmente, a quienes ejerzan funciones de representación de la institución pública o dependencia, o de representación de sus titulares, así como a los miembros de la directiva de los sindicatos, cuando los hechos que dieron origen al conflicto les sean propios y se les hayan atribuido en la demanda o contestación, o bien que por razones de sus funciones les deban ser conocidos.
-
-Cuando se trate de los titulares de las instituciones públicas, dependencias o unidades administrativas, estas pruebas se desahogarán por oficio.
+(DEROGADO, G.G. 20 DE ENERO DE 2009)
 
 ###### Artículo 241.
 
@@ -2221,9 +2451,11 @@ II. Acto seguido se abrirá, en su caso, la discusión correspondiente; y
 
 III. Finalmente el presidente recogerá la votación y declarará el resultado.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ENERO DE 2007)</small>
+
 ###### Artículo 244.
 
-Si la propuesta fuere aprobada, sin adiciones ni modificaciones, se elevará a la categoría de laudo y se firmará de inmediato por los miembros del Tribunal. Si se le hicieran modificaciones o adiciones, se harán constar en el acta y el Presidente ordenará que de inmediato se redacte el laudo, de acuerdo con lo aprobado.
+Si la propuesta fuere aprobada, sin adiciones ni modificaciones, se elevará a la categoría de laudo y se firmará de inmediato por los miembros del Tribunal o de la Sala. Si se le hicieran modificaciones o adiciones, se harán constar en el acta y el Presidente ordenará que de inmediato se redacte el laudo, de acuerdo con lo aprobado.
 
 Una vez firmado el laudo, se turnará el expediente al actuario, para que de inmediato lo notifique personalmente a las partes.
 
@@ -2235,47 +2467,137 @@ Los laudos se dictarán a verdad sabida y buena fe guardada, apreciando los hech
 
 Los laudos deben ser claros, precisos y congruentes con la demanda, contestación y demás pretensiones deducidas en el juicio oportunamente.
 
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+
 ###### Artículo 247.
 
-Si alguno o todos los representantes ante el Tribunal se negaren a votar o firmar una resolución, serán requeridos por el secretario, quien les indicará las responsabilidades en que incurren si no lo hacen, las cuales estarán previstas en el propio reglamento interior del Tribunal.
+Si alguno o todos los representantes ante el Tribunal o la Sala se negaren a votar o firmar una resolución, serán requeridos por el secretario, quien les indicará las responsabilidades en que incurren si no lo hacen, las cuales estarán previstas en el propio reglamento interior del Tribunal.
 
 ###### Artículo 248.
 
 Si el laudo fuera condenatorio, las partes podrán convenir los términos y las modalidades para su cumplimiento.
 
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+
 ###### Artículo 249.
 
-Contra el laudo dictado por el Tribunal, no procede recurso alguno.
+Contra el laudo dictado por el Tribunal o la Sala, no procede recurso alguno.
 
 ### CAPITULO XI. De la Ejecución
 
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+
 ###### Artículo 250.
 
-Las disposiciones de este capítulo rigen para la ejecución de los laudos dictados por el Tribunal, y para los convenios celebrados ante el mismo.
+Las disposiciones de este capítulo rigen para la ejecución de los laudos dictados por el Tribunal o cualquiera de las Salas y para los convenios celebrados ante éstos.
+
+En la ejecución de los laudos y convenios que han sido elevados a la categoría de laudo corresponde al Presidente del Tribunal o de la Sala, dictar las medidas necesarias, para que la misma sea pronta y expedita.
+
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 251.
 
-La ejecución de los laudos y convenios corresponde al presidente del Tribunal, a cuyo fin dictará las medidas necesarias, para que la ejecución sea pronta y expedita.
+Siempre que en ejecución de un laudo o convenio, deba entregarse una suma de dinero o el cumplimiento de un derecho al servidor público, el Presidente cuidará que se le otorgue personalmente.
+
+Los titulares de las instituciones o dependencias y los sujetos a esta ley, se atendrán a lo dispuesto por los laudos y convenios, ordenando, en su caso el pago de las indemnizaciones sueldos o cualquier prestación en dinero que se determine en ellos, previo el establecimiento de una partida presupuestal específica para la liquidación respectiva.
+
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 252.
 
-Siempre que en ejecución de un laudo deba entregarse una suma de dinero o el cumplimiento de un derecho al servidor público, el Presidente cuidará que se le otorgue personalmente.
+En caso de incumplimiento del laudo o convenio en los términos y modalidades establecidas, el Tribunal o la Sala, a petición de la parte interesada, dictará auto para requerir su cumplimiento y, en su caso, establecer los medios de apremio que podrán ser empleados para su cumplimiento y practicar las diligencias necesarias para su ejecución. En la cual no podrán embargar bienes, ni nombrar interventor a la caja de las instituciones o dependencias públicas.
+
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 253.
 
-En caso de incumplimiento del laudo en los términos y modalidades establecidos, el Tribunal, a petición de la parte interesada, dictará auto para requerir su cumplimiento y, en su caso, practicar las diligencias de embargo.
+Los medios de apremio que podrán ser empleados por el Tribunal o la Sala, para el cumplimiento de un laudo o convenio son:
+
+I. Requerimiento con amonestación y señalamiento de los medios de apremio que se podrán ordenar;
+
+> <small>(REFORMADA, G.G. 20 DE ENERO DE 2009)</small>
+
+II. Multa que podrá ser, de uno hasta quince días del salario base que perciba el servidor público;
+
+> <small>(REFORMADA, G.G. 20 DE ENERO DE 2009)</small>
+
+III. En caso de reincidencia, la suspensión temporal del cargo del servidor público hasta de uno a quince días sin goce de sueldo, así sucesivamente hasta su cumplimiento; y (sic)
+
+El Tribunal o la Sala respetarán estrictamente el orden, de los medios de apremio establecidos en este artículo.
+
+Las Salas en un término de cinco días, remitirán el expediente al Tribunal para que acuerde sobre la suspensión temporal del cargo del servidor público.
+
+El Tribunal al recibir los autos resolverá de plano, notificando al superior jerárquico para que proceda a cumplir sobre la suspensión temporal del cargo del servidor público.
+
+Se autoriza al Tribunal la creación del Fondo Auxiliar para la Justicia Laboral Burocrática cuyo objeto e integración y manejo lo regulará el Reglamento Interno del mismo.
+
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 254.
 
-La diligencia de requerimiento de pago y embargo se practicará en el domicilio de la institución pública o dependencia demandada, previa citación de su titular o su representante legal; si éste no estuviese el día y hora fijados, la diligencia se practicará con el servidor público que se encuentre presente.
+El Tribunal, tratándose de la suspensión temporal hecha a un servidor público, podrá revocar su resolución si el Titular de la Institución o dependencia da cumplimiento al laudo o convenio dentro de los sesenta días naturales siguientes a la fecha de la notificación de la resolución.
+
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 255.
 
-En las diligencias de requerimiento de pago y embargo, el actuario asegurará el crédito que ampare el laudo, con intervención a los recursos en efectivo de la institución pública o dependencia de que se trate.
+La diligencia de requerimiento de pago, con la prevención o de la aplicación de las medidas de apremio señaladas en este capítulo, en caso de incumplimiento, se hará mediante oficio dirigido y en el domicilio de la institución pública o dependencia demandada, el actuario practicará la diligencia con el servidor público que se encuentre presente.
+
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 256.
 
-El actuario dará cuenta de la diligencia al Tribunal quién girará oficio al titular de la institución pública o dependencia responsable de administrar dichos recursos, quien a su vez tendrá la obligación de entregar el importe de los recursos embargados al acreedor, en un plazo no mayor de quince días hábiles, remitiendo copia del recibo al propio Tribunal para que se archive el expediente como asunto concluido.
+El actuario dará cuenta de la diligencia al Tribunal o a la Sala quienes girarán oficio al titular de la institución pública o dependencia responsable de administrar dichos recursos, quien a su vez tendrá la obligación de entregar el importe del crédito laboral ante el Tribunal, o la Sala en un plazo no mayor de veinte días hábiles. Los titulares de las instituciones públicas o dependencias responsable (sic) del personal y los superiores jerárquicos de los servidores públicos multados tendrán la obligación de informar en un plazo no mayor de treinta días hábiles, el cumplimiento de la resolución respectiva, haciéndose acreedores, en caso contrario, de los medios de apremio que menciona este capítulo.
+
+El Tribunal o la Sala una vez cumplido el laudo o convenio ordenará que se archive el expediente como asunto concluido. Pudiendo conservar el mismo por medio de sistemas magnéticos o de información electrónica.
+
+> <small>(ADICIONADO CON LOS ARTICULO QUE LO INTEGRAN, G.G. 20 DE ENERO DE 2009)</small>
+
+### CAPITULO XII. Del Fondo Auxiliar para la Justicia Laboral Burocrática
+
+> <small>(ADICIONADO, G.G. 20 DE ENERO DE 2009)</small>
+
+###### Artículo 257.
+
+El Fondo Auxiliar para la Justicia Laboral Burocrática, tendrá por objeto obtener recursos económicos, para apoyar al personal del Tribunal en su formación profesional o estímulos, mejorar las instalaciones en las que se imparte justicia laboral burocrática y desarrollar todas aquellas actividades tendientes a elevar la calidad de la prestación del servicio de la justicia laboral burocrática.
+
+> <small>(ADICIONADO, G.G. 20 DE ENERO DE 2009)</small>
+
+###### Artículo 258.
+
+El Fondo Auxiliar para la Justicia Laboral Burocrática, se integrará:
+
+A.- Fondo propio, constituido por:
+
+I. El importe de las multas, que se hagan efectivas a los titulares o servidores públicos de las instituciones o dependencias, litigantes, apoderados, testigos y en general a las partes que se involucren en el proceso laboral burocrático, por mandato del Tribunal o de las Salas Auxiliares;
+
+II. Las donaciones o aportaciones que se hagan a favor del Fondo;
+
+III. Las cantidades que se le asignen por disposición del Presupuesto de Egresos o por acuerdo del Gobernador del Estado;
+
+IV. Los remanentes del Presupuesto de Egresos asignado a este Tribunal que resulten al término del ejercicio fiscal anual;
+
+V. Los intereses o rendimientos que se generen por las inversiones y depósitos que se realicen de recursos propios o ajenos;
+
+VI. Los demás bienes que el Fondo adquiera.
+
+B.- Fondo ajeno, constituido por:
+
+I. Depósitos en efectivo o en valores, que por cualquier causa se realicen o se hayan realizado ante el Tribunal.
+
+II. Los valores depositados por cualquier motivo ante el Tribunal que no fueran retirados por quien tenga derecho a ellos, dentro del término de un año computado a partir de la fecha en que se haya depositado o no exista actividad procesal.
+
+> <small>(ADICIONADO, G.G. 20 DE ENERO DE 2009)</small>
+
+###### Artículo 259.
+
+Las sumas o valores que se reciban en el reglón de fondo ajeno, serán reintegrados a los depositantes o beneficiarios, según proceda, mediante orden por escrito del Tribunal, en el que se haya otorgado el depósito, en el término máximo de cinco días hábiles.
+
+> <small>(ADICIONADO, G.G. 20 DE ENERO DE 2009)</small>
+
+###### Artículo 260.
+
+El Pleno del Tribunal, por conducto del Presidente, atenderá la administración y manejo del Fondo, bajo su más estricta responsabilidad, haciendo todas las acciones que más convengan a la institución y a sus servidores públicos, mediante el delegado administrativo que en todo tiempo informará al Pleno.
 
 T R A N S I T O R I O S
 
@@ -2358,3 +2680,69 @@ El presente Decreto entrará en vigor al día siguiente de su publicación.
 ###### ARTICULO TERCERO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.G. 30 DE ENERO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente hábil después de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos que se encuentren en trámite se resolverán de conformidad con lo establecido en las disposiciones vigentes hasta antes de entrar en vigor este Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Pleno del Tribunal tendrá la obligación de modificar el Reglamento Interno que lo rige en un término de ciento cincuenta días naturales contados a partir de la vigencia de esta reforma.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo del Estado proveerá al Tribunal de les recursos presupuestales para que el Pleno de este órgano autónomo, pueda emitir el acuerdo de creación e instalación de dos Salas Auxiliares en la entidad, una en el Municipio de Tlalnepantla y otra en el Municipio de Ecatepec, con la competencia territorial de las mismas, en un término no mayor de sesenta días contados a partir de la vigencia del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Hasta en tanto las Salas no sean instaladas, el Tribunal conocerá y resolverá los asuntos de conformidad con lo establecido en las disposiciones vigentes aplicables.
+
+G.G. 20 DE ENERO DE 2009.
+
+DECRETO No. 257, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS A LA LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos que se encuentren en trámite se resolverán de conformidad con lo establecido en las disposiciones vigentes hasta antes de entrar en vigor este Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado realizará lo necesario con base en las reglas que regulan el presupuesto de egresos, para que los ahorros presupuestales que el Tribunal tenga y puedan ser entregados y depositados en el Fondo Auxiliar para la Justicia Laboral Burocrática.
+
+###### ARTÍCULO QUINTO.
+
+Se contará con la intervención del Subsecretario de Finanzas el cual asesorará vigilará y supervisará el buen manejo y funcionamiento del Fondo Auxiliar para la Justicia Laboral Burocrática.
+
+###### ARTÍCULO SEXTO.
+
+El Tribunal contará con tres meses a partir de la publicación de este decreto para adecuar su Reglamento Interno en relación al Fondo Auxiliar para la Justicia Laboral Burocrática.
+
+G.G. 20 DE ENERO DE 2009.
+
+DECRETO No. 258, POR EL QUE SE REFORMAN Y DEROGAN DIVERSOS ARTICULOS A LA LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+Este decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
