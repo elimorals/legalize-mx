@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2009-01-14"
+last_updated: "2009-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -913,7 +913,7 @@ II.- El del lugar señalado en el contrato para el cumplimiento de la obligació
 
 > <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Tanto en este caso como en el de la fracción anterior, se surte la competencia no sólo para la ejecución o cumplimiento del contrato, sino para la rescisión o nulidad.
+Tanto en este caso como en el de la fracción anterior, se surte la competencia no sólo para la ejecución o cumplimiento del contrato, sino para la rescisión o nulidad;
 
 > <small>(REFORMADA, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -939,7 +939,9 @@ VII.- En los concursos de acreedores el juez del domicilio del deudor;
 
 VIII.- En los actos de jurisdicción voluntaria el del domicilio del que promueve, pero si se trata de bienes raíces será el del lugar en que estén ubicados.
 
-En todo lo relativo a la adopción, el juez del domicilio del menor que se pretende adoptar;
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2009)</small>
+
+En todo lo relativo a la adopción, el juez del domicilio del menor que se pretende adoptar o el de la Institución que lo tiene acogido;
 
 IX.- En los negocios relativos a la tutela de los menores e incapacitados, el juez de la residencia de éstos, para la designación del tutor y en los demás casos el del domicilio de éste;
 
@@ -947,15 +949,19 @@ X.- En los negocios relativos a suplir el consentimiento de quien ejerce la patr
 
 XI.- Para decidir las diferencias conyugales y los juicios de nulidad de matrimonio, lo es el del domicilio conyugal;
 
-XII.- En los juicios de divorcio, el tribunal del domicilio conyugal y en caso de abandono de hogar, el del domicilio del cónyuge abandonado.
+XII.- En los juicios de divorcio, el tribunal del domicilio conyugal y en caso de abandono de hogar, el del domicilio del cónyuge abandonado;
 
-> <small>(ADICIONADA, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2009)</small>
 
-XIII.- En la acción de alimentos, el Juez del domicilio del acreedor.
+XIII.- En la acción de alimentos, el Juez del domicilio del acreedor, y si se trata de menores será el domicilio de éstos;
 
 > <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 1999)</small>
 
-XIV.- En los juicios especiales sobre pérdida de la patria potestad, el juez del domicilio de la Institución Pública de Asistencia Social que haya acogido al menor.
+XIV.- En los juicios especiales sobre pérdida de la patria potestad, el juez del domicilio de la Institución Pública de Asistencia Social que haya acogido al menor;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2009)</small>
+
+XV.- En el caso de juicios relativos a la Investigación de Filiación, el juez del domicilio del menor, y en general en todos los juicios donde se vean involucrados directamente derechos de menores, el juez del domicilio de éstos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 1981)</small>
 
@@ -1667,6 +1673,10 @@ Artículo 190 Bis I.- Quien ejerza la patria potestad, la tutela, o tenga la cus
 
 Artículo 190 Bis II.- Presentada la solicitud de investigación de la filiación, se resolverá de plano sobre su admisión, ordenándose dar vista a la persona a quien se impute la filiación a fin de que comparezca ante la Autoridad dentro del término de tres días, para que manifieste su aceptación o negativa a dicha imputación. Para el caso de que se omita manifestación alguna por parte de la persona requerida, se entenderá como una negativa de la filiación que se le atribuye.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE ENERO DE 2009)</small>
+
+Cuando la persona a quien se impute la filiación residiere fuera del lugar del juicio, el juez que conozca del procedimiento ampliará el término a que se refiere el párrafo anterior un día más por cada 100 kilómetros o fracción que exceda de la mitad.
+
 > <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2003)</small>
 
 Artículo 190 Bis III.- En el supuesto de que se acepte la filiación, previa ratificación de la misma ante la Autoridad, se ordenará mediante oficio el levantamiento del acta de reconocimiento ante el Oficial del Registro Civil en los términos de ley, dándose por concluido este acto.
@@ -1688,6 +1698,10 @@ Artículo 190 Bis VI.- La acción correspondiente deberá intentarse por parte d
 > <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2003)</small>
 
 Artículo 190 Bis VII.- El costo de la prueba biológica será a cargo del padre biológico cuando éste resulte serlo; en caso contrario será a cargo y por cuenta del promovente.
+
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2009)</small>
+
+Articulo 190 Bis VlII.- Contra el auto que admita la prueba de Investigación de Filiación, no procede recurso alguno. Contra el que la desecha procede el recurso de apelación.
 
 ### CAPITULO IV
 
@@ -9210,3 +9224,7 @@ Segundo.- En relación a las modificaciones al Artículo 2 de la Ley que Crea el
 Tercero.- El Ejecutivo Estatal emitirá el Reglamento de la Ley que crea el Consejo Estatal de Adopciones de Nuevo León, dentro de los treinta días naturales una vez recibido el proyecto que dispone el Artículo Transitorio anterior.
 
 Cuarto.- El Ejecutivo del Estado a través de la Secretaría de Finanzas y Tesorería General del Estado, determinará la reasignación presupuestal que corresponda al Consejo Estatal de Adopciones, dentro del Ejercicio Fiscal 2009.
+
+P.O. 21 DE ENERO DE 2009.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
