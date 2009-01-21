@@ -4,7 +4,7 @@ identifier: "LSAR"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-23"
-last_updated: "2007-06-28"
+last_updated: "2009-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2613&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSAR"
 
 LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 23 de mayo de 1996.
 
@@ -160,9 +160,23 @@ XI. Celebrar convenios de asistencia técnica;
 
 XII. Dictar reglas de carácter general para determinar la forma en que las administradoras deberán remunerar a sus agentes promotores, ya sea que éstos tengan una relación laboral con la administradora, le presten sus servicios a través de terceros, o sean independientes;
 
-> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2009)</small>
 
-XIII. Rendir un informe semestral al Congreso de la Unión sobre la situación que guardan los Sistemas de Ahorro para el Retiro, en el que se deberá considerar un apartado específico en el que se mencionen las carteras de inversión de las sociedades de inversión;
+XIII. Rendir un informe trimestral al Congreso de la Unión sobre la situación que guardan los Sistemas de Ahorro para el Retiro, en el que se deberán considerar apartados específicos sobre:
+
+a) Las carteras de inversión de las sociedades de inversión, incluyendo un análisis detallado de cómo el régimen de inversión cumple con lo descrito en el artículo 43 de esta Ley;
+
+b) La adquisición de valores extranjeros. Este apartado deberá incluir información del porcentaje de la cartera de cada Sociedad de Inversión invertido en estos valores, los países y monedas en que se hayan emitido los valores adquiridos, así como un análisis detallado del efecto de estas inversiones en los rendimientos de las sociedades de inversión;
+
+c) Las medidas adoptadas por la Comisión para proteger los recursos de los trabajadores a que se refiere la fracción XIII bis del presente artículo;
+
+d) Información estadística de los trabajadores registrados en las administradoras, incluyendo clasificación de trabajadores por número de semanas de cotización, número de trabajadores con aportación, número de trabajadores con aportaciones voluntarias y aportación promedio, clasificación de los trabajadores por rango de edad y distribución de sexo y cotización promedio de los trabajadores, densidad de cotización por rango de ingreso, edad y sexo. La información anterior será desglosada por administradora y por instituto de seguridad social o trabajador no afiliado, según corresponda;
+
+e) Información desagregada por administradora relativa a los montos de Rendimiento Neto, de Rendimiento Neto Real, pagados a los trabajadores, al cobro de comisiones, y en caso de presentarse minusvalías, el monto de éstas y el porcentaje que corresponda por tipo de inversión;
+
+> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2009)</small>
+
+XIII bis. Establecer medidas para proteger los recursos de los trabajadores cuando se presenten circunstancias atípicas en los mercados financieros. Así como dictar reglas para evitar prácticas que se aparten de los sanos usos comerciales, bursátiles o del mercado financiero;
 
 > <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -470,9 +484,9 @@ II. Recibir las cuotas y aportaciones de seguridad social correspondientes a las
 
 III. Individualizar las cuotas y aportaciones destinadas a las cuentas individuales, así como los rendimientos derivados de la inversión de las mismas;
 
-> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2009)</small>
 
-IV. Enviar, por lo menos dos veces al año, al domicilio que indiquen los trabajadores, sus estados de cuenta y demás información sobre sus cuentas individuales y el estado de sus inversiones, destacando en ellos las aportaciones patronales, del Estado y del trabajador, y el número de días de cotización registrado durante cada bimestre que comprenda el periodo del estado de cuenta, así como las comisiones cobradas por la administradora y las sociedades de inversión que administre. Asimismo, se deberán establecer servicios de información y atención al público;
+IV. Enviar, por lo menos tres veces al año de forma cuatrimestral, al domicilio que indiquen los trabajadores, sus estados de cuenta y demás información sobre sus cuentas individuales conforme a lo dispuesto en el artículo 37-A de esta Ley. Asimismo, se deberán establecer servicios de información, vía Internet, y atención al público personalizado;
 
 V. Prestar servicios de administración a las sociedades de inversión;
 
@@ -700,41 +714,87 @@ Las administradoras que hayan cometido actos dolosos contrarios a esta Ley, que 
 
 Asimismo, las administradoras responderán directamente de los actos realizados por sus agentes promotores, ya sea que éstos tengan una relación laboral con la administradora o sean independientes.
 
-La Comisión llevará un registro de los agentes promotores de las administradoras, para su registro los agentes tendrán que cumplir con los requisitos que señale la Comisión, la cual estará facultada para cancelarlo en caso de que se incumpla con dichos requisitos.
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2009)</small>
 
-> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
+La Comisión llevará un registro de los agentes promotores de las administradoras, para su registro los agentes tendrán que cumplir con los requisitos que señale la Comisión, la cual estará facultada para suspenderlo o, cancelarlo en los casos previstos en esta Ley.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 37.
 
 Las administradoras sólo podrán cobrar a los trabajadores con cuenta individual las comisiones con cargo a esas cuentas que establezcan de conformidad con las reglas de carácter general que expida la Comisión.
 
-> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO.</small>
-
-> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2007)</small>
-
 Para promover un mayor Rendimiento Neto a favor de los trabajadores, las comisiones por administración de las cuentas individuales sólo podrán cobrarse como un porcentaje sobre el valor de los activos administrados. Las administradoras sólo podrán cobrar cuotas fijas por los servicios que se señalen en el reglamento de esta ley, y en ningún caso por la administración de las cuentas.
 
 Las administradoras podrán cobrar comisiones distintas por cada una de las sociedades de inversión que operen.
 
-> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2007)</small>
-
 Cada administradora deberá cobrar la comisión sobre bases uniformes, cobrando las mismas comisiones por servicios similares prestados en sociedades de inversión del mismo tipo, sin discriminar contra trabajador alguno, sin perjuicio de los incentivos o bonificaciones que realicen a las subcuentas de las cuentas individuales de los trabajadores por su ahorro voluntario, o por utilizar sistemas informáticos para realizar trámites relacionados con su cuenta individual o recibir información de la misma.
 
-Las administradoras deberán presentar a la Junta de Gobierno de la Comisión su estructura de comisiones para su autorización, la cual, una vez analizada la solicitud, podrá exigir aclaraciones, adecuaciones o en su caso denegar la autorización respectiva si las comisiones sometidas a su autorización son excesivas conforme a los criterios que determine la Junta de Gobierno para los intereses de los trabajadores o se encuentran fuera de los parámetros del mercado. La propia Junta de Gobierno de la Comisión emitirá criterios o recomendaciones sobre el nivel y estructura de las comisiones. Asimismo, la Junta de Gobierno deberá resolver expresamente, fundando y motivando, sobre la autorización solicitada dentro del plazo previsto en el artículo 119 de esta ley.
+Las administradoras deberán presentar a la Junta de Gobierno de la Comisión sus comisiones para autorización cada año dentro de los primeros diez días hábiles del mes de noviembre, para ser aplicadas en el año calendario siguiente, sin perjuicio de poder solicitar una nueva autorización de comisiones en cualquier otro momento. Las administradoras, en su solicitud, podrán incluir documentos o estudios sobre el estado de los sistemas de ahorro para el retiro que consideren relevantes para la consideración de la Junta de Gobierno.
+
+La Junta de Gobierno, una vez analizada la solicitud, podrá exigir información adicional así como aclaraciones, adecuaciones o en su caso denegar la autorización respectiva si las comisiones sometidas a su autorización son excesivas para los intereses de los trabajadores, considerando el monto de los activos en administración, la estructura de costos de las administradoras, el nivel de las demás comisiones presentes en el mercado y los demás elementos que dicho órgano de gobierno considere pertinentes. La Junta de Gobierno deberá resolver expresamente, fundando y motivando, sobre la autorización solicitada dentro del plazo previsto en el artículo 119 de esta ley, excepto tratándose de las solicitudes de autorización anuales, en cuyo caso deberá resolver a más tardar el último día hábil del mes de diciembre. No se podrán autorizar aumentos de comisiones por encima del promedio del resto de las comisiones autorizadas.
+
+La propia Junta de Gobierno de la Comisión atendiendo a las consideraciones referidas en el párrafo anterior, dictará políticas y criterios en materia de comisiones, particularmente sobre la dispersión máxima permitida en el sistema entre la comisión más baja y la más alta, mediante la definición de parámetros claros, y podrá emitir exhortos o recomendaciones a las administradoras sobre el nivel de sus comisiones.
+
+En caso de que una administradora omita presentar sus comisiones anuales para autorización en la fecha establecida, estará obligada a cobrar la comisión más baja autorizada por la Junta de Gobierno a otras administradoras para el año calendario de que se trate, hasta que presente su solicitud y sus comisiones sean autorizadas.
+
+En caso de que una administradora presente su solicitud y la Junta de Gobierno deniegue la autorización respectiva por cualquier causa, la administradora solicitante estará obligada a cobrar la comisión que resulte de calcular el promedio del resto de las comisiones autorizadas para el periodo correspondiente, hasta que modifique su solicitud, y sus comisiones sean autorizadas por la Junta de Gobierno. Asimismo, la Junta de Gobierno deberá hacer públicas las razones por las cuales la autorización de comisiones sea denegada, a menos que la información respectiva esté clasificada como reservada o confidencial en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+
+Las administradoras deberán entregar en el domicilio de los trabajadores un comunicado cuando incrementen sus comisiones, por lo menos con treinta días naturales de anticipación a la fecha en que entre en vigor el incremento, a efecto de que los trabajadores puedan solicitar, si así lo desean, el traspaso de su cuenta individual a otra administradora.
+
+El incumplimiento a lo previsto en el párrafo anterior, tendrá como consecuencia la nulidad de la o las comisiones que pretendan cobrarse, con independencia de las sanciones que en su caso procedan.
 
 Las nuevas comisiones comenzarán a cobrarse una vez transcurridos sesenta días naturales contados a partir del día siguiente al de su publicación en el Diario Oficial de la Federación cuando se trate de incrementos. En el caso de que se trate de una disminución de comisiones, éstas podrán aplicarse a partir de que se le notifique la autorización correspondiente a la administradora.
 
-En el supuesto de que una administradora modifique su estructura de comisiones, los trabajadores registrados en la misma tendrán derecho a traspasar los recursos de su cuenta individual a otra administradora, siempre y cuando dicha modificación implique un incremento en las comisiones que se cobren al trabajador.
+En el supuesto de que una administradora modifique sus comisiones, los trabajadores registrados en la misma tendrán derecho a traspasar los recursos de su cuenta individual a otra administradora, siempre y cuando dicha modificación implique un incremento en las comisiones que se cobren al trabajador.
 
-El derecho al traspaso o retiro de recursos, en caso de una modificación a la estructura de comisiones, deberá preverse en los contratos de administración de fondos para el retiro y en los prospectos de información, de conformidad con lo que establezca al efecto la Comisión.
+El derecho al traspaso o retiro de recursos, en caso de una modificación a las comisiones, deberá preverse en los contratos de administración de fondos para el retiro y en los prospectos de información, de conformidad con lo que establezca al efecto la Comisión.
 
-Siempre que se fusionen dos o más administradoras, deberá prevalecer la estructura de comisiones más baja conforme a los criterios que al efecto expida la Junta de Gobierno de la Comisión.
+Siempre que se fusionen dos o más administradoras o se realice una cesión de cartera entre administradoras, deberán prevalecer las comisiones más bajas conforme a los criterios que al efecto expida la Junta de Gobierno de la Comisión.
 
 En ningún caso, las administradoras podrán cobrar comisiones por el traspaso de las cuentas individuales o de recursos entre sociedades de inversión, ni por entregar los recursos a la institución de seguros que el trabajador o sus beneficiarios hayan elegido, para la contratación de rentas vitalicias o del seguro de sobrevivencia.
 
-Con la finalidad de que los trabajadores puedan tener información oportuna sobre las comisiones que se cobren con cargo a sus cuentas individuales, la Comisión deberá informar periódicamente a través de los medios a su disposición las comisiones que cobren las distintas administradoras, procurando que dicha información sea expresada en lenguaje accesible y permita a los trabajadores comparar las comisiones que cobran las distintas administradoras.
+Con la finalidad de que los trabajadores puedan tener información oportuna sobre las comisiones que se cobren con cargo a sus cuentas individuales, la Comisión deberá informar periódicamente a través de los medios a su disposición las comisiones que cobren las distintas administradoras, procurando que dicha información sea expresada en lenguaje accesible y permita a los trabajadores comparar las comisiones que cobran las distintas administradoras. La información sobre comisiones deberá ser expresada no solamente en porcentajes, sino, en moneda nacional. La Comisión también informará periódicamente, por los mismos medios a su alcance, el Rendimiento Neto pagado por las distintas administradoras.
 
-Asimismo, la Comisión determinará la forma y términos en que las administradoras deberán dar a conocer a los trabajadores sus estructuras de comisiones.
+Asimismo, la Comisión determinará la forma y términos en que las administradoras deberán dar a conocer a los trabajadores sus comisiones.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2009)</small>
+
+###### ARTICULO 37-A.
+
+La Comisión, mediante disposiciones de carácter general, deberá establecer el formato al que deberán ajustarse los estados de cuenta emitidos por las administradoras.
+
+Las citadas disposiciones de carácter general, deberán considerar los aspectos siguientes:
+
+I. Claridad en la presentación de la información contenida en los estados de cuenta que permita conocer la situación que guardan las cuentas individuales y las transacciones efectuadas por las administradoras y el trabajador en el periodo correspondiente;
+
+II. La base para incorporar en los estados de cuenta las comisiones cobradas al trabajador por la prestación del servicio u operación de que se trate, las cuales se deberán expresar tanto en porcentaje como en moneda nacional, desagregando cada concepto de comisiones;
+
+III. La información que deberán contener para permitir la comparación del Rendimiento Neto y las comisiones aplicadas por otras administradoras en operaciones afines;
+
+IV. Los datos de localización y contacto con la unidad especializada que en términos de la Ley de Protección y Defensa al Usuario de Servicios Financieros deben mantener, para efectos de aclaraciones o reclamaciones vinculadas con el servicio o producto de que se trate, así como los plazos para presentarlas;
+
+V. La información clara y detallada del monto de las aportaciones efectuadas y el Rendimiento Neto pagado en el período;
+
+VI. El estado de las inversiones, las aportaciones patronales, del Estado y del trabajador, y el número de días de cotización registrado durante cada bimestre que comprenda el periodo del estado de cuenta, y
+
+VII. Las demás que las autoridades competentes determinen, en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2009)</small>
+
+###### ARTICULO 37-B.
+
+La Junta de Gobierno de la Comisión evaluará periódicamente las comisiones de las administradoras, así como los montos que por tal concepto le hayan cobrado a los trabajadores tomando en consideración la dispersión que exista entre las comisiones que cobren las diversas administradoras, así como el monto de activos administrados y los costos de operación del sistema. Si como resultado de dicha evaluación tuviere observaciones, podrá ordenar a la administradora las modificaciones que estime pertinentes respecto de las comisiones que se cobran a los trabajadores.
+
+Si la administradora no atiende las observaciones que al efecto haya formulado la Comisión en un plazo que no excederá de cinco días hábiles contados a partir de la notificación de la resolución correspondiente, ésta, a través de su Junta de Gobierno, fijará los nuevos montos y porcentajes de las comisiones que le serán cobradas a los trabajadores y procederá a imponer a la administradora la sanción correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2009)</small>
+
+###### ARTICULO 37-C.
+
+Las administradoras, con base en los datos de la cuenta individual del trabajador, deberán dar a conocer a éste, expresado en moneda nacional, el cálculo aproximado que le cobrarán por concepto de comisiones durante el año calendario próximo.
+
+La información a que se refiere el presente artículo deberá ser proporcionada al trabajador junto con el estado de cuenta correspondiente al segundo semestre del año y deberá resaltarse en caracteres distintivos de manera clara, notoria e indubitable.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -871,6 +931,12 @@ Las sociedades de inversión que incumplan con el régimen de inversión autoriz
 Asimismo, en caso de que una sociedad de inversión haya adquirido un valor que cumpla con los requisitos de calificación y posteriormente se degrade la calificación de éste, podrán conservar dicho valor hasta su amortización.
 
 Cuando se presenten minusvalías derivadas del incumplimiento al régimen de inversión autorizado por efectos distintos a los de valuación, o en el caso de la falta de presentación de la solicitud a que se refiere el primer párrafo de este artículo, la administradora que opere la sociedad de inversión de que se trate, las cubrirá con cargo a la reserva especial constituida en los términos previstos en esta ley, y en caso de que ésta resulte insuficiente, lo deberá hacer con cargo a su capital social.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2009)</small>
+
+ARTICULO 44 bis.- Cuando habiendo cumplido el régimen de inversión autorizado se presenten minusvalías derivadas de situaciones extraordinarias del mercado, la administradora que opere la sociedad de inversión de que se trate lo notificará a la Comisión dentro de un plazo que no excederá de un día hábil.
+
+Recibida la comunicación de la administradora, la Junta de Gobierno de la Comisión tendrá facultades extraordinarias para ordenar de forma expedita la modificación en el régimen de inversión que había sido autorizado y la recomposición de la cartera que se encuentre en riesgo, a fin de garantizar las mejores condiciones para los trabajadores.
 
 ###### ARTICULO 45.
 
@@ -1392,7 +1458,9 @@ El derecho de los trabajadores afiliados para invertir los recursos de su cuenta
 
 Los trabajadores afiliados podrán solicitar en cualquier tiempo a las administradoras, en las oficinas de éstas, estados de cuenta adicionales a los que conforme a esta ley y a las disposiciones de carácter general aquéllas deban enviarles periódicamente.
 
-Las administradoras serán responsables de efectuar los trámites para el traspaso de cuentas individuales, una vez que el trabajador afiliado haya presentado las solicitudes correspondientes en los términos de las disposiciones de carácter general que emita la Comisión.
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2009)</small>
+
+Las administradoras serán responsables de efectuar los trámites para el traspaso de cuentas individuales, una vez que el trabajador afiliado haya presentado las solicitudes correspondientes en los términos de las disposiciones de carácter general que emita la Comisión. En todo caso, la administradora responsable de efectuar el traspaso de la cuenta deberá cerciorarse fehacientemente que el trabajador afiliado haya solicitado el traspaso correspondiente.
 
 > <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO.</small>
 
@@ -1468,15 +1536,17 @@ El Instituto Mexicano del Seguro Social, tendrá abierta a su nombre en el Banco
 
 Los recursos depositados en la cuenta concentradora se invertirán en valores o créditos a cargo del Gobierno Federal, y otorgarán el rendimiento que determinará la Secretaría de Hacienda y Crédito Público misma que establecerá las demás características de esta cuenta.
 
-> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 76.
 
-Las cuentas individuales de los trabajadores que no hayan elegido administradora, serán asignados a las administradoras que hayan registrado un mayor Rendimiento Neto, de conformidad con los criterios que para tales efectos determine la Junta de Gobierno.
+Las cuentas individuales de los trabajadores que no hayan elegido administradora y que hayan recibido cuotas y aportaciones durante al menos seis bimestres consecutivos, serán asignadas a las administradoras que hayan registrado un mayor Rendimiento Neto, de conformidad con los criterios que para tales efectos determine la Junta de Gobierno. El proceso de asignación se realizará una vez al año conforme al calendario que determine la Comisión mediante disposiciones de carácter general.
 
-> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2005)</small>
+El registro y control de los recursos de las cuentas individuales pendientes de ser asignadas y de las cuentas individuales inactivas, lo llevarán las administradoras prestadoras de servicio para tal fin, según resulte de los procesos de licitación que al efecto lleve a cabo la Comisión. Asimismo, la Comisión determinará la comisión máxima que podrá cobrar dichas administradoras prestadoras del servicio. Los recursos correspondientes a estas cuentas individuales permanecerán depositados en el Banco de México, y serán invertidos en valores o créditos a cargo del Gobierno Federal, o en su caso y de conformidad con la legislación aplicable, de las entidades federativas, y otorgarán el rendimiento que determinará la Secretaría de Hacienda y Crédito Público.
+
+Las administradoras a las que se hubieren asignado cuentas individuales y que después de dos años no las hayan registrado, les caducará la asignación y las cuentas correspondientes serán reasignadas a las administradoras que hayan registrado un mayor Rendimiento Neto, de conformidad con los criterios que al efecto determine la Junta de Gobierno de la Comisión.
+
+Las administradoras podrán renunciar en cualquier momento a las cuentas individuales asignadas a que se refiere este artículo, en cuyo caso deberán hacerlo del conocimiento de la Comisión, para que esta proceda a su reasignación conforme a lo dispuesto en el párrafo anterior.
 
 Los trabajadores a los que se les designe administradora de conformidad con lo dispuesto en este artículo, podrán traspasar sus recursos a otra administradora, en los términos previstos en el artículo 74.
 
@@ -1833,6 +1903,16 @@ I. La devolución de todas las comisiones cobradas al trabajador afectado, y
 II. El pago, mediante abono de la suma correspondiente en la cuenta individual del trabajador afectado, de la cantidad que resulte como diferencia entre los rendimientos obtenidos por dicha cuenta individual durante el tiempo en que fue administrada por la administradora infractora y el monto de los rendimientos que hubiera obtenido si sus recursos se hubieran invertido en la sociedad o sociedades de inversión que, durante dicho tiempo, hayan otorgado los rendimientos de gestión más altos de las sociedades de inversión de acuerdo a la información publicada en la página de Internet de la Comisión.
 
 El monto de tal resarcimiento deberá ser determinado en cantidad líquida y ordenado por la Comisión en la misma resolución.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2009)</small>
+
+###### ARTICULO 100-B.
+
+Independientemente de la sanción impuesta a la administradora correspondiente, la Comisión impondrá una multa de 50 a 500 días de salario por cada cuenta individual, al agente promotor que registre a un trabajador o solicite el traspaso de la cuenta individual de un trabajador, sin su consentimiento, o cuando se haya obtenido el consentimiento del trabajador mediante dolo, mala fe o cualquier otra conducta similar, así como cuando el registro o traspaso se lleve a cabo mediante la utilización de documentos falsos o alterados o mediante la falsificación de documentos o firmas, o mediante la entrega de alguna contraprestación o beneficio.
+
+Asimismo, en caso de reincidencia y atendiendo a la gravedad de la falta, la Comisión podrá suspender el registro al agente promotor por un plazo de seis meses y hasta por un año o inhabilitarlo como agente promotor.
+
+La sanción a que se refiere el presente artículo es independiente de las responsabilidades administrativas, civiles o penales que correspondan.
 
 > <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2005)</small>
 
@@ -2431,3 +2511,37 @@ D.O.F. 28 DE JUNIO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones del Código Penal Federal vigentes en el momento de su comisión.
+
+D.O.F. 21 DE ENERO DE 2009.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La Comisión Nacional del Sistema de Ahorro para el Retiro publicará en el Diario Oficial de la Federación las disposiciones de carácter general a que se refiere el presente Decreto, dentro de los siguientes seis meses contados a partir de la entrada en vigor del mismo.
+
+El incumplimiento a lo previsto en este precepto dará lugar al fincamiento de las responsabilidades administrativas que corresponda.
+
+Tercero.- Por única vez, las administradoras deberán presentar sus comisiones a la autorización de la Junta de Gobierno de la Comisión dentro de los veinte días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+La Junta de Gobierno dispondrá hasta el 30 de noviembre de 2009, para resolver sobre la autorización o denegación de las solicitudes que le sean presentadas.
+
+Las comisiones que autorice en su caso la Junta de Gobierno conforme a lo expuesto en el presente artículo, serán aplicables dentro del periodo que transcurra entre la fecha en que surta efectos la autorización y el 31 de diciembre de 2009.
+
+En caso de que una administradora omita presentar sus comisiones para autorización en el plazo antes establecido, estará obligada a cobrar la comisión más baja autorizada por la Junta de Gobierno en el periodo a que se refiere este artículo, hasta que presente su solicitud, y sus comisiones sean autorizadas por la Junta de Gobierno.
+
+En caso de que la autorización sea denegada por cualquier causa, la administradora de que se trate deberá cobrar la comisión que resulte de calcular el promedio del resto de las comisiones autorizadas para el periodo correspondiente, hasta que modifique su solicitud, y sus comisiones sean autorizadas por la Junta de Gobierno.
+
+Cuarto.- La primera asignación que se efectúe de conformidad con lo dispuesto en el artículo 76 se llevará a cabo doce meses después de la entrada en vigor del presente Decreto.
+
+Quinto.- Las administradoras que a la fecha de entrada en vigor del presente Decreto tengan cuentas individuales asignadas que no hayan registrado y que por lo tanto no hayan celebrado un contrato de administración de fondos para el retiro con sus titulares, deberán proceder como sigue:
+
+I. Dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto deberán presentar un programa de trabajo a la Comisión para obtener el registro de las cuentas individuales asignadas en un plazo máximo de dos años.
+
+II. Transcurrido el plazo máximo de dos años a que se refiere la fracción anterior, deberán notificar a la Comisión las cuentas individuales asignadas que no hayan registrado.
+
+La Comisión deberá reasignar a las administradoras que hayan registrado un mayor Rendimiento Neto, de conformidad con los criterios que al efecto determine la Junta de Gobierno de la Comisión, las cuentas individuales asignadas a que se refiere la fracción II anterior.
+
+Las administradoras podrán renunciar en cualquier momento a las cuentas individuales asignadas a que se refiere este artículo, en cuyo caso deberán hacerlo del conocimiento de la Comisión, para que esta proceda a su reasignación en los términos previstos en el artículo 76 de la Ley de los Sistemas de Ahorro para el Retiro.
+
+Sexto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Séptimo.- La Junta de Gobierno en la primera revisión de estructura de comisiones a que se refiere el artículo tercero transitorio del presente Decreto no podrá autorizar ninguna comisión superior al promedio vigente de las comisiones autorizadas.
