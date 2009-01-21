@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-consejo-de-la-judicatura-del-59566"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-25"
-last_updated: "2008-12-03"
+last_updated: "2009-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59566&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-11-28"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE ENERO DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 25 de febrero de 2008.
 
@@ -1704,127 +1704,41 @@ XI. Rendir en el mes de noviembre de cada ejercicio, al Pleno del Consejo, un In
 
 XII. Las demás que le sean asignadas por la Ley Orgánica, este Reglamento, y demás Acuerdos Generales que para tal efecto emita el Pleno del Consejo.
 
+> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, G.O. 21 DE ENERO DE 2009)</small>
+
 ## TÍTULO QUINTO. DEL CENTRO DE JUSTICIA ALTERNATIVA
+
+> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 21 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 161.
 
-El Centro de Justicia Alternativa es una dependencia del Consejo que cuenta con autonomía técnica y de gestión, y se instituye para administrar y desarrollar los métodos alternos de solución de conflictos en el Tribunal.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, G.O. 21 DE ENERO DE 2009)
 
 ###### Artículo 162.
 
-El Centro de Justicia Alternativa tiene por objeto:
-
-I. El desarrollo y la administración eficaz y eficiente de los métodos alternos de solución de conflictos;
-
-II. La prestación de servicios gratuitos de información al público, en general, sobre los métodos alternos de solución de conflictos y en particular, sobre la mediación; así como de orientación jurídica, psicológica y social a los mediados, durante la mediación;
-
-III. El proceso de selección, registro y monitoreo de los mediadores;
-
-IV. El propiciar altos índices de competencia en sus recursos humanos;
-
-V. La difusión y divulgación permanente de los servicios que presta;
-
-VI. El fortalecimiento de sus funciones y la ampliación de sus metas, a partir de su experiencia y del intercambio permanente con instituciones públicas, privadas, nacionales y extranjeras;
-
-VII. El mantenimiento del mismo dentro de niveles de calidad superiores, con la aplicación permanente de un sistema de control a sus diversos componentes de trabajo, que lo mantengan bajo en la inversión de tiempo y recursos;
-
-VIII. Contribuir a la disminución de las cargas de trabajo jurisdiccional, conociendo de los asuntos en que las partes deciden resolverlos por vía de los métodos alternativos, o bien, de aquellos que le sean remitidos directamente por los órganos jurisdiccionales;
-
-IX. Proponer el diseño y actualización oportuna de su normatividad al Pleno del Consejo;
-
-X. La optimación de sus servicios a través de la aplicación de programas de investigación, planeación y modernización científica y tecnológica; y
-
-XI. Cumplir con las disposiciones legales aplicables, así como las que le atribuyan expresamente la Ley Orgánica, las Reglas de Operación del Centro de Justicia Alternativa, y los acuerdos que emita el Consejo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, G.O. 21 DE ENERO DE 2009)
 
 ###### Artículo 163.
 
-El Centro de Justicia Alternativa se integrará por un Titular, así como la estructura orgánica autorizada necesaria para el cumplimiento de sus funciones.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, G.O. 21 DE ENERO DE 2009)
 
 ###### Artículo 164.
 
-El Titular del Centro de Justicia Alternativa deberá reunir los siguientes requisitos:
-
-I. Ser mexicano y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
-
-II. Tener por lo menos treinta años de edad;
-
-III. Tener título y cédula profesionales expedidos por la autoridad o institución facultada para ello; con experiencia en la función sustantiva del Centro;
-
-IV. Tener práctica profesional mínima de cinco años, contados a partir de la fecha de expedición del título profesional;
-
-V. Haber residido en el Distrito Federal o en su Área Metropolitana durante el último año anterior al día de la designación;
-
-VI. Gozar de buena reputación; y
-
-VII. No haber sido condenado por delito alguno que lastime seriamente su buena fama en el concepto público o que amerite pena corporal de más de un año de prisión.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, G.O. 21 DE ENERO DE 2009)
 
 ###### Artículo 165.
 
-El Titular del Centro de Justicia Alternativa, tendrá las atribuciones y obligaciones siguientes:
-
-I. Dirigir el Centro;
-
-II. Representar al Centro;
-
-III. Velar por el buen funcionamiento del Centro, cuidando del cumplimiento de la normatividad que lo regula, la óptima calidad de sus servicios y el logro de sus objetivos;
-
-IV. Tomar las decisiones técnicas y administrativas que competan al Centro, de conformidad con sus facultades;
-
-V. Proponer al Consejo la estructura orgánica del Centro;
-
-VI. Establecer las funciones, programar las actividades y supervisar del (sic) personal del Centro;
-
-VII. Elaborar y presentar al Consejo, para su aprobación, los proyectos normativos necesarios para el ejercicio de las funciones señaladas al Centro, en reforma y adición, cuando así lo ameriten, y su oportuna actualización;
-
-VIII. Diseñar y presentar al Consejo los proyectos de programas a realizar, derivados del fortalecimiento de los servicios y ampliación de las metas del Centro;
-
-IX. Proponer al Consejo la convocatoria correspondiente para la selección de mediadores;
-
-X. Elaborar, conjuntamente con el Instituto, los programas de capacitación y entrenamiento para los nuevos mediadores y de capacitación continua y actualización para los mediadores en ejercicio;
-
-XI. Supervisar que los mediadores cumplan con los perfiles de competencias laborales, al momento de su contratación y cuando se les evalúe para su ratificación en el cargo;
-
-XII. Establecer los mecanismos de supervisión continua de los servicios que presten los mediadores, en la aplicación de los procedimientos de Mediación, Comediación y Remediación;
-
-XIII. Diseñar los programas de estímulos e incentivos para reconocer el cumplimiento meritorio, por el correcto desempeño de los mediadores;
-
-XIV. Vigilar y exigir al personal del Centro el estricto cumplimiento de las normas establecidas en el presente ordenamiento, informando a la Comisión de Disciplina Judicial del Consejo sobre cualquier transgresión al mismo;
-
-XV. Consignar en el Registro el resultado y sentido de las resoluciones disciplinarias que, respecto de ellos, emita la Comisión de Disciplina Judicial del Consejo;
-
-XVI. Verificar el cumplimiento y respeto a la asignación progresiva de asuntos, que corresponda a cada Mediador, de acuerdo con la lista de turno establecida;
-
-XVII. Calificar la procedencia de la causa de excusa planteada por el Mediador o por el Comediador, para inhibirse del conocimiento del caso asignado para Mediación, ya sea antes de su inicio o durante el mismo, o cuando se presente una causa superveniente, en su caso nombrar al Mediador o Comediador sustituto;
-
-XVIII. Nombrar al Mediador o Comediador sustituto, cuando a su juicio, exista causa suficiente para ello o cuando el designado, sea recusado;
-
-XIX. A partir de la experiencia del Centro y del reconocimiento de los avances de instituciones similares, impulsar los estudios y análisis de carácter diagnóstico y prospectivo que permitan apoyar la retroalimentación de los servicios que el propio Centro ofrece;
-
-XX. Resguardar y mantener actualizado el Registro;
-
-XXI. Realizar los procesos de evaluación de los mediadores, en los términos previstos al respecto en este ordenamiento;
-
-XXII. Operar los mecanismos de difusión necesarios, a efecto de que el Tribunal y la sociedad conozcan las funciones, bondades y alcances de los servicios del Centro;
-
-XXIII. Establecer los mecanismos necesarios para garantizar la eficacia y eficiencia de los recursos tecnológicos del Centro y el máximo aprovechamiento de los mismos;
-
-XXIV. Rendir al Presidente del Tribunal y del Consejo, anualmente, en el último día del mes de noviembre, un informe general sobre el funcionamiento, actividades y resultados obtenidos por el Centro;
-
-XXV. Rendir al Pleno del Consejo, semestralmente, un informe general sobre el funcionamiento y actividades relevantes, así como sobre los resultados obtenidos del Centro;
-
-XXVI. Hacer del conocimiento del Consejo, anualmente, el Programa Interno de Trabajo del Centro, con sus metas, tareas y los requerimientos humanos, materiales y financieros necesarios para el siguiente año, presentando oportunamente el Programa Operativo Anual; y
-
-XXVII. Las demás que el Consejo o la Ley le impongan.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, G.O. 21 DE ENERO DE 2009)
 
 ###### Artículo 166.
 
-El Centro de Justicia Alternativa contará con una planta de mediadores, quienes se encargarán de dirigir el procedimiento de mediación, facilitando el diálogo y la negociación entre las partes en conflicto, procurando la construcción de soluciones satisfactorias entre los mediados, a efecto de que ellos mismos diriman su conflicto. Dichos servidores públicos deberán cubrir los requisitos previstos en las Reglas de Operación del Centro de Justicia Alternativa.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, G.O. 21 DE ENERO DE 2009)
 
 ###### Artículo 167.
 
-En todo lo no previsto por el presente Reglamento, se estará a lo establecido a las demás disposiciones legales aplicables, así como las que le atribuyan expresamente la Ley Orgánica, las Reglas de Operación del Centro de Justicia Alternativa, y los acuerdos que emita el Consejo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, G.O. 21 DE ENERO DE 2009)
 
 ## TÍTULO SEXTO. DE LA CONTRALORÍA
 
@@ -1941,3 +1855,19 @@ LIC. MATILDE RAMÍREZ HERNÁNDEZ
 G.O. 3 DE DICIEMBRE DE 2008.
 
 > <small>N. DE E. EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.</small>
+
+G.O. 21 DE ENERO DE 2009.
+
+Primero. El presente Reglamento Interno entrará en vigor el día de su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal y para mayor difusión se publicará en la Gaceta Oficial del Distrito Federal.
+
+Segundo. Se abrogan las Reglas de Operación del Centro de Justicia Alternativa aprobadas mediante Acuerdo 33-18/2007 del Consejo, y se derogan el TÍTULO QUINTO "DEL CENTRO DE JUSTICIA ALTERNATIVA" del Reglamento Interior del Consejo de la Judicatura del Distrito Federal y las disposiciones que se opongan al presente Reglamento Interno.
+
+Tercero. La Oficialía Mayor y la Dirección Ejecutiva de Planeación realizarán las acciones necesarias, con la participación del Centro y del Instituto, según se requiera, para reestructurar orgánicamente el Centro, dotar de las plazas, espacios físicos, mobiliario y equipo para la Dirección de Mediación de Justicia para Adolescentes y los módulos territorialmente desconcentrados e itinerante, con el propósito de que inicien operaciones durante 2009, conforme a la disponibilidad presupuestaria y a la demanda de los servicios del Centro.
+
+Cuarto. El Instituto, con la participación del Centro, diseñará e impartirá los cursos de capacitación para los promotores habilitados y al personal de la Dirección de Orientación Ciudadana y Derechos Humanos adscrito a sus módulos.
+
+Quinto. Para realizar las acciones de certificación a que se refiere el Reglamento, el Instituto, con la participación del Centro, realizará las gestiones ante las autoridades competentes en materia de certificación profesional para contar con la autorización que corresponda.
+
+Sexto. Con la participación que corresponda a la Coordinación de Comunicación Social se diseñará y ejecutará una campaña permanente de difusión y publicidad para que la ciudadanía se entere de la existencia del Centro, su ubicación y los servicios que proporciona.
+
+Séptimo. La actual Jefatura de Unidad Departamental de Apoyo Operativo y Administrativo se transformará en la Unidad de Gestión y Seguimiento del Centro.
