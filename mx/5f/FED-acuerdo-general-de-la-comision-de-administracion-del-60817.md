@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-la-comision-de-administracion-del-60817"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-05-13"
-last_updated: "2008-05-13"
+last_updated: "2009-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60817&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-04-17"
 
 ACUERDO GENERAL DE LA COMISION DE ADMINISTRACION DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE MODIFICAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL NUMERO 22-05E DE LA PROPIA COMISION, QUE FIJA LAS BASES PARA QUE LAS ADQUISICIONES, ARRENDAMIENTOS, PRESTACION DE SERVICIOS Y OBRA PUBLICA EN EL TRIBUNAL ELECTORAL, SE AJUSTEN A LOS CRITERIOS PREVISTOS EN EL ARTICULO 134 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL QUE ESTABLECE LAS BASES PARA QUE EN EL PODER JUDICIAL DE LA FEDERACION, LAS ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES, PRESTACION DE SERVICIOS, OBRA PUBLICA Y LOS SERVICIOS RELACIONADOS CON LA MISMA, SE AJUSTEN A LOS CRITERIOS CONTEMPLADOS EN EL ARTICULO 134 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE 21 DE ENERO DE 2009, EL PRESENTE ORDENAMIENTO QUEDA DEROGADO EN LO QUE SE OPONGA A LAS DISPOSICIONES DEL NUEVO ACUERDO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: DEROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 13 de mayo de 2008.
 
@@ -188,3 +190,17 @@ SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 TERCERO. Se derogan en lo conducente todas las disposiciones, Acuerdos, lineamientos, manuales de organización y procedimientos que se opongan al presente Acuerdo.
 
 México, D.F., a dieciséis de abril de dos mil ocho.- Magistrada Presidenta, María del Carmen Alanis Figueroa.- Rúbrica.- Los Comisionados: Consejera Elvia Rosa Díaz de León D'Hers, Consejero Indalfer Infante Gonzáles, Magistrado Constancio Carrasco Daza.- Rúbricas.- El Secretario de la Comisión de Administración, Diego Gutiérrez Morales.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 21 DE ENERO DE 2009.
+
+PRIMERO. El presente Acuerdo entrará en vigor a partir del primero de febrero de dos mil nueve, debiéndose publicar previamente en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+SEGUNDO. Se derogan las disposiciones tanto de la Corte, del Consejo y del Tribunal que se opongan a lo dispuesto al presente Acuerdo.
+
+TERCERO. Los Organos emitirán los acuerdos específicos para determinar las instancias y servidores públicos facultados para aplicar las disposiciones de este ordenamiento antes de su entrada en vigor.
+
+CUARTO. Los Organos deberán constituir el Comité de Adquisiciones, Arrendamientos, Obra Pública y Servicios al que se refiere este Acuerdo, señalando en el acuerdo especifico al que se refiere el transitorio que antecede la forma de su integración, las funciones de sus integrantes y asesores, así como la forma en que sesionará.
+
+QUINTO. Los procedimientos de adjudicación regulados en el presente Acuerdo que se hayan iniciado con anterioridad a su entrada en vigor, se regirán por la normativa vigente en dicha fecha.
