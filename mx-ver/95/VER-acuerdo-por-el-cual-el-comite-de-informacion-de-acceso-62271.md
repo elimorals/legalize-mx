@@ -4,7 +4,7 @@ identifier: "VER-acuerdo-por-el-cual-el-comite-de-informacion-de-acceso-62271"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-07-24"
-last_updated: "2008-07-24"
+last_updated: "2009-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62271&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 ACUERDO POR EL CUAL EL COMITE DE INFORMACION DE ACCESO RESTRINGIDO DEL INSTITUTO DE LA JUVENTUD VERACRUZANA, CLASIFICA LA INFORMACION EN SUS MODALIDADES DE RESERVADA Y CONFIDENCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL. 21 DE ENERO DE 2009.
 
 Acuerdo publicado en el Número Extraordinario 239 de la Gaceta Oficial del Estado de Veracruz, el jueves 24 de julio de 2008.
 
@@ -45,7 +45,13 @@ C O N S I D E R A N D O S
 
 7. Por lo anteriormente expuesto este Comité de Información de Acceso Restringido emite: Acuerdo en el cual se clasifica como Información de acceso restringido en sus modalidades de Reservada y Confidencial, la información de este Instituto y que se encuentra sujeta a los supuestos previstos en los artículos 12 y 17 de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave.
 
-PRIMERO. De la información que posee este Instituto a la fecha de la emisión del presente acuerdo, se clasifica como reservada la que a continuación se señala:
+> <small>(ADICIONADO, G.O. 21 DE ENERO DE 2009)</small>
+
+PRIMERO. La información que se encuentre en posesión de las áreas administrativas del Instituto de la Juventud Veracruzana, o de los servidores públicos asignados a ellas y que se ubique en cualquiera de los supuestos previstos por los artículos 12.1, 14 y 17.1, de la Ley de Transparencia y Acceso a la Información del Estado de Veracruz de Ignacio de la Llave, es de acceso restringido y por lo tanto el Comité de Información de Acceso Restringido, emitirá los acuerdos según sea el caso: (sic)
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES PRIMERO], G.O. 21 DE ENERO DE 2009)</small>
+
+SEGUNDO. De la información que posee este Instituto a la fecha de la emisión del presente acuerdo, se clasifica como reservada la que a continuación se señala:
 
 TIPO DE INFORMACIÓN La información contenida en
 
@@ -156,6 +162,156 @@ INFORMACIÓN
 RUBRO TEMÁTICO Propuestas de los concursantes.
 
 CLAVE DE IREE
+
+IDENTIFICACIÓN
+
+TIPO DE INFORMACIÓN Documentación contenida en el
+
+expediente de las
+
+sesiones ordinarias o extraordinarias
+
+de la Junta de Gobierno del Instituto
+
+de la Juventud Veracruzana, así como
+
+de todos los anexos que contenga.
+
+FUNDAMENTACIÓN Artículo 3.1 fracción VIII y 12.1
+
+fracción VI, de la Ley de transparencia
+
+y Acceso a la Información Pública del
+
+Estado de Veracruz de Ignacio de la
+
+llave y punto Vigésimo Tercero de los
+
+Lineamientos Generales que deberán
+
+observar los sujetos obligados por la
+
+Ley de Transparencia y Acceso a la
+
+Información Pública para el Estado de
+
+Veracruz de Ignacio de la Llave, para
+
+Clasificar Información Reservada y
+
+Confidencial
+
+MOTIVACIÓN Debe considerarse reservada la
+
+Información que forme parte de todo
+
+proceso deliberativo cuya difusión
+
+pueda generar un impacto negativo o
+
+causar daños y perjuicios al interés
+
+general del Estado o de los Municipios.
+
+SUPUESTO DEL Se actualiza el supuesto en razón de
+
+ART. 14.I que el artículo 12.1 fracción VI,
+
+de la Ley de Transparencia y Acceso
+
+a la información considera esta
+
+información como reservada.
+
+SUPUESTO DEL El interés protegido es la transparencia
+
+ART. 14.II en la toma de decisiones para la
+
+ejecución de los programas del Instituto
+
+de la Juventud Veracruzana
+
+lo que no se actualizaría si se difunden
+
+las opiniones y recomendaciones o
+
+puntos de vista hasta en tanto no
+
+sea adoptada la decisión final.
+
+SUPUESTO DEL Se actualiza esta hipótesis legal, toda
+
+ART. 14.III vez que el interés público de salvaguardar
+
+la legalidad, y eficacia de los procesos
+
+deliberativos de los servidores públicos
+
+en el ejercicio de sus funciones, es
+
+mayor al interés de conocer la
+
+información contenida en las
+
+propuestas antes de que se dicten
+
+los acuerdos que determinen en
+
+definitiva su probación o rechazo,
+
+además de que la información que se
+
+clasifica como reservada lo estará por
+
+un breve tiempo.
+
+FUENTE DE LA Subdirección de Coordinación y Evaluación.
+
+INFORMACIÓN
+
+PERIODO DE DOS AÑOS, a partir de la fecha en que
+
+RESERVA se emitan las actas de la
+
+Junta de gobierno del Instituto.
+
+(Si transcurre el término señalado
+
+sin que se solicite ampliación del término de
+
+reserva, la información se libera en forma
+
+automática).
+
+PARTE DE LA La información reservada constituye
+
+INFORMACIÓN QUE la totalidad del legajo o legajos que
+
+ABARCA se integren, formados por el texto íntegro
+
+de las actas, así como la totalidad
+
+de sus anexos.
+
+SERVIDOR PÚBLICO Subdirector de Coordinación y Evaluación.
+
+QUE RESGUARDA LA
+
+INFORMACIÓN
+
+RUBRO TEMÁTICO n) Que contenga opiniones,
+
+recomendaciones o puntos
+
+de vista que formen parte del proceso
+
+deliberativo de los servidores públicos,
+
+en tanto no sea adoptada la decisión
+
+definitiva.
+
+CLAVE DE IRE02
 
 IDENTIFICACIÓN
 
@@ -591,7 +747,7 @@ CLAVE DE IREE
 
 IDENTIFICACIÓN
 
-SEGUNDO. De la información que posee el Instituto, se ubican dentro del parámetro de información confidencial en los términos del artículo 17.1 de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave, la que se indica a continuación:
+SEGUNDO (SIC). De la información que posee el Instituto, se ubican dentro del parámetro de información confidencial en los términos del artículo 17.1 de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave, la que se indica a continuación:
 
 TIPO DE INFORMACIÓN 1.- Datos personales contenidos en la
 
@@ -836,3 +992,9 @@ CONSULTORA JURÍDICA
 RÚBRICA
 
 LA PRESENTE HOJA CORRESPONDE ALAS FIRMAS DEL ACUERDO DE CLASIFICACIÓN DE LA INFORMACIÓN RESTRINGIDA DEL INSTITUTO DE LA JUVENTUD VERACRUZANA MARCADO CON NÚMERO IJV-00I-2008, EMITIDO PARA CLASIFICAR EN LO GENERAL LA INFORMACIÓN INSTITUCIONAL, COMO RESULTADO DE HABERSE CONSTITUIDO EL COMITÉ CON FECHA 11 DE JUNIO DEL 2008.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 21 DE ENERO DE 2009.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ.
