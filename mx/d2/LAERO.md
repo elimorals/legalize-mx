@@ -4,7 +4,7 @@ identifier: "LAERO"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-22"
-last_updated: "2009-01-16"
+last_updated: "2009-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=808&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAERO"
 
 LEY DE AEROPUERTOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 22 de diciembre de 1995.
 
@@ -498,9 +498,11 @@ La organización y funcionamiento de las comisiones consultivas se determinará 
 
 La operación de los aeródromos civiles comprende la prestación de los servicios mediante el aprovechamiento de la infraestructura, instalaciones y equipos.
 
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2009)</small>
+
 ###### ARTICULO 46.
 
-Corresponderá a los concesionarios o permisionarios, conforme a las disposiciones aplicables y con base en el título de concesión o permiso respectivo, asegurar que los aeródromos civiles cuenten con la infraestructura, instalaciones, equipo, señalización, servicios y sistemas de organización, adecuados y suficientes para que la operación se lleve a cabo sobre bases de seguridad, eficiencia y calidad.
+Corresponderá a los concesionarios o permisionarios, conforme a las disposiciones aplicables y con base en el título de concesión o permiso respectivo, asegurar que los aeródromos civiles cuenten con la infraestructura, instalaciones, equipo, señalización, módulo de primeros auxilios y emergencias médicas, servicios y sistemas de organización, adecuados y suficientes para que la operación y atención al usuario se lleve a cabo sobre bases de seguridad, eficiencia y calidad.
 
 ###### ARTICULO 47.
 
@@ -831,5 +833,9 @@ D.O.F. 5 DE JULIO DE 2006.
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 16 DE ENERO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE ENERO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
