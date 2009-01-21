@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-tribunal-estatal-de-conciliacion-y-2221
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-09-21"
-last_updated: "2008-02-13"
+last_updated: "2009-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22216&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL DE CONCILIACION Y ARBITRAJE DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 21 de septiembre de 2001.
 
@@ -75,21 +75,37 @@ IX.- Ley supletoria: A la Ley Federal de los Trabajadores al Servicio del Estado
 
 El horario de labores en el Tribunal será de 8:30 a las 15:00 horas, en días considerados como hábiles, de acuerdo al calendario oficial al que se refiere el artículo siguiente.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2009)</small>
+
 ###### Artículo 5.
 
-El calendario oficial de días laborables del Tribunal, será el que expida el Gobierno del Estado de Morelos, a través de su Secretaría de Gobierno.
+EL calendario oficial de días laborables del Tribunal, será el que expida el Gobierno del Estado de Morelos, a través de la Secretaría del Trabajo y Productividad.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2002)</small>
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2009)</small>
 
 ###### Artículo 6.
 
-Para su debido funcionamiento, el Tribunal contará con un Secretario General, Auxiliares Jurídicos, Auxiliares Dictaminadores, Actuarios, personal administrativo como mecanógrafas, archivistas, mensajeros y demás que sean necesarios para el buen funcionamiento del Tribunal.
+Para su debido funcionamiento, el Tribunal contará con los servidores públicos siguientes:
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2002)</small>
+I. Un Secretario General;
+
+II. Un Secretario Coordinador de asuntos Colectivos;
+
+III. Un Secretario Coordinador de asuntos de Amparo;
+
+IV. Auxiliares Jurídicos;
+
+V. Auxiliares Dictaminadores;
+
+VI. Actuarios, y
+
+VII. Demás personal técnico profesional o administrativo que sea necesario para el funcionamiento del Tribunal, cuyas funciones serán determinadas en sus Manuales de Organización y Procedimientos, con apego al presupuesto autorizado.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2009)</small>
 
 ###### Artículo 7.
 
-Queda prohibido a los servidores públicos adscritos al Tribunal, recibir personalmente escritos y, promociones encontrándose cerrada la Oficialía de Partes, únicamente el Secretario podrá recibirlas, cuando se trate de emplazamientos a huelga y fuera del horario de labores del Tribunal, siguiendo los lineamientos establecidos en este Reglamento.
+Queda prohibido a los servidores públicos adscritos al Tribunal, recibir personalmente escritos y promociones encontrándose cerrada la Oficialía de Partes, únicamente el Secretario General podrá recibirlas cuando se trate de emplazamientos a huelga y fuera del horario de labores del Tribunal, siguiendo los lineamientos establecidos en este Reglamento.
 
 ###### Artículo 8.
 
@@ -233,6 +249,70 @@ IV.- No pertenecer al Estado Eclesiástico; y
 
 V.- No haber sido condenados por delito intencional sancionado con pena corporal.
 
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2009)</small>
+
+Artículo 14 bis.- El Secretario Coordinador de Asuntos Colectivos tendrá las siguientes funciones:
+
+I. Estudiar y analizar los expedientes de los asuntos que se sometan a su conocimiento;
+
+II. Sustanciar los procedimientos que le competan, realizando las diligencias pertinentes y requiriendo los documentos y las actuaciones necesarias para su resolución;
+
+III. Cuidar que las fojas de los expedientes a su cargo y del personal bajo su mando, sean debidamente foliadas y selladas, y responsabilizarse de su guarda y custodia;
+
+IV. Llevar el control de los sindicatos registrados;
+
+V. Llevar a cabo, en términos de ley, el procedimiento para el otorgamiento o negativa de los registros sindicales y la toma de nota correspondiente;
+
+VI. Substanciar los procedimientos de huelga que se le planteen;
+
+VII. Acordar las promociones, peticiones y correspondencia que le turne el Secretario General;
+
+VIII. Privilegiar la conciliación en los asuntos de su competencia;
+
+IX. Permitir el acceso y consulta de los expedientes a quienes acrediten la legitimación legal que corresponda;
+
+X. Recibir y registrar diariamente los expedientes y actuaciones que le sean turnados;
+
+XI. Informar al Secretario General de forma detallada las circunstancias que se presenten en el desarrollo de las diligencias de su competencia;
+
+XII. Dar cuenta, en su caso, al Pleno, al Presidente o al Secretario General de las actuaciones que realice en el ejercicio de sus funciones;
+
+XIII. Coordinar las actividades del personal a su cargo;
+
+XIV. Solicitar el auxilio de la fuerza pública cuando sea necesario, y
+
+XV. Las demás que le señale la Ley, este Reglamento o determine el Pleno, el Presidente, o el Secretario General en el ámbito de su respectiva competencia.
+
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2009)</small>
+
+Artículo 14 ter.- Los asuntos relativos a amparos serán supervisados por el Secretario General, en apoyo con el área de amparos, la cual contará con el personal necesario, y serán coordinados por un Secretario Coordinador de Amparos, quien tendrá las siguientes funciones:
+
+I. Recibir de la Secretaria General, la documentación que con motivo de los juicios de amparo remitan los tribunales y juzgados federales correspondientes, así como recibir las demandas y promociones de amparo que se presenten directamente ante el Tribunal;
+
+II. Remitir a los Tribunales Colegiados de Circuito las demandas de amparo directo promovidas ante el Tribunal dentro de los plazos legales previstos;
+
+III. En los juicios de amparo indirectos, cuando el Juez de Distrito comunique haber concedido al quejoso la suspensión provisional o definitiva, elaborar el proyecto de acuerdo de suspensión correspondiente, previa instrucción y supervisión del Secretario General;
+
+IV. En los amparos directos, elaborar el proyecto acerca de la suspensión definitiva del acto reclamado, observando la Ley de Amparo y la Jurisprudencia aplicable, previa instrucción y supervisión del Secretario General;
+
+V. Elaborar y remitir los informes previos y justificados en los términos previstos en la Ley de Amparo, adjuntando las copias certificadas correspondientes. En los casos que la autoridad señalada como responsable sea el Tribunal;
+
+VI. Atender el trámite relativo a los incidentes de inejecución o del incumplimiento que se tramiten ante la Suprema Corte de Justicia de la Nación, y elaborar los informes que la misma le solicite;
+
+VII. Informar oportunamente a la Secretaría General sobre el envió de los expedientes a los Tribunales Colegiados de Circuito y su devolución, con motivo de la substanciación de los juicios de Amparo;
+
+VIII. Turnar a la Secretaria General las demandas presentadas ante el Tribunal, para que se practique la certificación relativa a la fecha de su presentación y a la notificación del acto reclamado;
+
+IX. Informar a la autoridad que conozca del juicio de garantías cuando hayan cesado los efectos del acto reclamado o exista sobreseimiento, contando las copias certificadas en las constancias respectivas;
+
+X. Revisar que los proyectos de acuerdo de los juicios de amparo que conozca el Tribunal, se dicten siguiendo los lineamientos propios de dichos juicios;
+
+XI. Elaborar los proyectos de acuerdo que recaigan a las ejecutorias recibidas de los Tribunales Federales para su debido cumplimiento;
+
+XII. Coordinar las actividades del personal a su cargo, y
+
+XIII. Las demás que le señale la Ley, este Reglamento o determine el Pleno, el Presidente, o el Secretario General en el ámbito de su respectiva competencia, y las que sean necesarias para el cumplimiento de sus funciones.
+
 ###### Artículo 15.
 
 Los Auxiliares Jurídicos tienen las facultades y obligaciones siguientes:
@@ -287,11 +367,11 @@ V. No dar a conocer el dictamen que formulen, ni el sentido del mismo a persona 
 
 Todo dictamen que no esté formulado conforme a la Ley, será regresado al Auxiliar responsable para que lo formule nuevamente conforme a Derecho, sin tomarse en cuenta el expediente para el número obligatorio que se exija a cada Dictaminador.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 16], P.O. 1 DE MAYO DE 2002)
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2009)</small>
 
 ###### Artículo 19.
 
-Los Auxiliares deberán satisfacer los mismos requisitos establecidos para el cargo de Secretario General, a excepción de lo previsto en la fracción III del artículo 14, el cual en este caso, debe ser de tres años.
+Los Secretarios Coordinadores de Asuntos Colectivos y de Amparo, así como los Auxiliares Jurídicos y los Dictaminadores deberán satisfacer los mismos requisitos establecidos para el cargo de Secretario General, con excepción del previsto en la fracción III del artículo 14 de este Reglamento, en cuyo caso será de un año.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 17], P.O. 1 DE MAYO DE 2002)</small>
 
@@ -405,11 +485,11 @@ En toda correspondencia o documento presentado, se anotará tanto en los origina
 
 Los asuntos relativos a amparos estarán a cargo del Secretario General.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 26], P.O. 1 DE MAYO DE 2002)
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2009)</small>
 
 ###### Artículo 29.
 
-El Secretario General, como encargado del área de amparos tendrá la obligación de cumplir con las disposiciones establecidas en la Ley de Amparo cuando el Tribunal sea parte en el juicio de garantías.
+El Secretario General, el Secretario Coordinador de Asuntos de Amparos y demás personal adscrito al área de Amparos, tendrá la obligación de cumplir con las disposiciones establecidas en la Ley de Amparo, cuando el Tribunal sea parte en el juicio de garantías.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 27], P.O. 1 DE MAYO DE 2002)
 
@@ -417,11 +497,11 @@ El Secretario General, como encargado del área de amparos tendrá la obligació
 
 El Presidente será suplido en sus ausencias temporales hasta por 15 días, por el Secretario General. En aquellas de 16 o más días, será suplido por el servidor público que designe el Pleno.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 28], P.O. 1 DE MAYO DE 2002)
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2009)</small>
 
 ###### Artículo 31.
 
-Los servidores Públicos que desempeñen cargos de Secretarios Generales, Auxiliares y Actuarios, serán suplidos en sus ausencias temporales por el servidor público que designe el Presidente.
+Los servidores públicos que desempeñen cargos de Secretario General, Secretarios Coordinadores, Auxiliares Jurídicos, Dictaminadores, Actuarios y demás personal jurídico, serán suplidos en sus ausencias temporales o por excusa en el conocimiento de un asunto, por el servidor público que designe el Presidente.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 29], P.O. 1 DE MAYO DE 2002)
 
@@ -504,3 +584,11 @@ Se derogan las disposiciones de igual o menor rango que se opongan a las conteni
 ###### ARTÍCULO TERCERO.
 
 Los procedimientos para la imposición de sanciones que se encuentren en trámite, así como las causas que les dieron origen, deberán ajustarse a las reglas previstas por la legislación vigente al día de su inicio o incumplimiento, hasta su conclusión definitiva.
+
+P.O. 21 DE ENERO DE 2009.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO. Se derogan las disposiciones de igual o menor rango que se opongan a las contenidas en el presente Decreto.
+
+TERCERO. En un plazo de 90 días hábiles contados a partir de la entrada en vigor del presente Decreto, el Tribunal Estatal de Conciliación y Arbitraje expedirá los Manuales de Organización, Políticas y Procedimientos; en tanto se expidan dichos manuales seguirán vigentes los anteriores, y en su caso, el Presidente resolverá las cuestiones de procedimientos y operación que se originen con la aplicación de este ordenamiento.
