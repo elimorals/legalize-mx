@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-reconocer-el-merito-ciudadano-13237"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-04"
-last_updated: "1998-04-08"
+last_updated: "2009-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13237&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA RECONOCER EL MERITO CIUDADANO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2009.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 4 de diciembre de 1991
 
@@ -87,11 +87,15 @@ III. Premio Estatal de Ciencias;
 
 IV. Premio Estatal de Artes;
 
-V. Premio Estatal a la Solidaridad Social; y
+V. Premio Estatal a la Solidaridad Social; y (sic)
 
-VI. Premio Estatal al Trabajo y Servicio Civil; y
+VI. Premio Estatal al Trabajo y Servicio Civil; y (sic)
 
-VII. Premio Estatal del Deporte.
+VII. Premio Estatal del Deporte;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2009)</small>
+
+VIII. Premio Estatal a la Calidad e Innovación Artesanal.
 
 ###### ARTICULO 6.
 
@@ -219,7 +223,9 @@ El Premio consistirá en una medalla de Plata cuyo anverso ostentará grabado el
 
 El Consejo de premiación podrá proponer al Gobernador del Estado, que el premio se acompañe de entrega de numerario o especie.
 
-### CAPITULO IX. PREMIO ESTATAL DEL DEPORTE
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE ENERO DE 2009)</small>
+
+### CAPITULO IX. PREMIO ESTATAL DEL DEPORTE Y PREMIO A LA CALIDAD E INNOVACION ARTESANAL
 
 ###### ARTICULO 32.
 
@@ -244,6 +250,18 @@ El premio consistirá en una medalla de Plata cuyo anverso ostentará grabada un
 ###### ARTICULO 36.
 
 El Consejo podrá proponer al Gobernador del Estado que las preseas se acompañen de entrega de numerario o en especie.
+
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2009)</small>
+
+ARTICULO 36 bis.- Se instituye el Premio Estatal a la Calidad e Innovación Artesanal, como la más alta distinción que otorga el Pueblo zacatecano y el Gobierno del Estado, para significar el reconocimiento a las personas físicas o morales, que por sus productos, trabajos o acciones de fomento, ayuden a impulsar la adopción de mejores niveles de calidad en la producción, promoción y competitividad de la actividad artesanal en la Entidad.
+
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2009)</small>
+
+ARTICULO 36 ter.- Este premio se tramitará ante el Instituto de Desarrollo Artesanal del Estado, cuyo titular será el Presidente del Consejo de Premiación, estará integrado además, por un representante de la Legislatura del Estado y el Director General del Instituto Zacatecano de Cultura “Ramón López Velarde”.
+
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2009)</small>
+
+ARTICULO 36 quáter.- El Consejo de Premiación propondrá el diseño de la presea y promoverá ante el Ejecutivo del Estado la entrega de numerario o especie.
 
 ### CAPITULO X. ORGANOS PARA EL OTORGAMIENTO
 
@@ -396,3 +414,9 @@ LIC. ROGELIO HERNANDEZ QUINTERO
 P.O. 8 DE ABRIL DE 1998
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 21 DE ENERO DE 2009.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan todas las disposiciones que contravengan este Decreto.
