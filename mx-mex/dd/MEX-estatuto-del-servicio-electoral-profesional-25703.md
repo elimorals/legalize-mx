@@ -4,7 +4,7 @@ identifier: "MEX-estatuto-del-servicio-electoral-profesional-25703"
 country: "mx"
 rank: "estatuto"
 publication_date: "2002-05-28"
-last_updated: "2002-05-28"
+last_updated: "2009-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,784 +21,928 @@ state: "MEX"
 ---
 # ESTATUTO DEL SERVICIO ELECTORAL PROFESIONAL
 
-LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA
+ESTATUTO DEL SERVICIO ELECTORAL PROFESIONAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ESTATUTO DEL SERVICIO ELECTORAL PROFESIONAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, PUBLICADO EN LA G.G. DE 22 DE ENERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Ley publicada en la Edición Vespertina al Periódico Oficial del Estado de Sinaloa, el lunes 30 de julio de 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
-EL CIUDADANO LIC. JESUS A. AGUILAR PADILLA, Gobernador Constitucional del Estado Libre y Soberano de Sinaloa, a sus habitantes hace saber:
+Estatuto publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el martes 28 de mayo de 2002.
 
-Que por el H. Congreso del mismo se le ha comunicado lo siguiente:
+El Consejo General del Instituto Electoral del Estado de México, en su sesión ordinaria del día 27 de mayo de 2002 se sirvió expedir el siguiente:
 
-El H. Congreso del Estado Libre y Soberano de Sinaloa, representado por su Quincuagésima Octava Legislatura, ha tenido a bien expedir el siguiente,
+ACUERDO N° 11
 
-DECRETO NÚMERO: 619
+Estatuto del Servicio Electoral Profesional
 
-LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA
+CONSIDERANDO
 
-## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
+.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+En mérito de lo anterior se expide el siguiente:
+
+ACUERDO
+
+PRIMERO.- Se aprueba en sus términos el Dictamen que se acompaña y forma parte del presente acuerdo, remitido por la Comisión Especial del Servicio Electoral Profesional y, como consecuencia,
+
+SEGUNDO.- El Consejo General del Instituto Electoral del Estado de México, expide el Estatuto del Servicio Electoral Profesional que se adjunta al presente acuerdo, formando parte del mismo.
+
+## TRANSITORIO
+
+Único.- Publíquese el presente acuerdo en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, con el Estatuto del Servicio Electoral Profesional.
+
+Toluca de Lerdo, Méx., a 27 de mayo de 2002.
+
+"TU HACES LA MEJOR ELECCIÓN"
+
+ATENTAMENTE
+
+LA CONSEJERA PRESIDENTA DEL CONSEJO GENERAL
+
+LIC. MARIA LUISA FERRERA PANIAGUA
+
+(RUBRICA).
+
+EL SECRETARIO DEL CONSEJO GENERAL
+
+LIC. JOSE BERNARDO GARCIA CISNEROS
+
+(RUBRICA).
+
+ESTATUTO DEL SERVICIO ELECTORAL PROFESIONAL
+
+EXPOSICION DE MOTIVOS...
+
+Con base en todo lo anterior y con fundamento en lo establecido por la Constitución Política del Estado Libre y Soberano de México en su artículo 11 y el Código Electoral del Estado de México en sus artículos 82, 95 fracción I, 102 fracción XXII, el Consejo General del Instituto Electoral del Estado de México, expide:
+
+ESTATUTO DEL SERVICIO ELECTORAL PROFESIONAL
+
+## TÍTULO PRIMERO. DEL SERVICIO
+
+### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social, de observancia obligatoria en el Estado, para garantizar el pleno ejercicio del derecho a la igualdad de oportunidades con equidad de género, así como prevenir, atender, sancionar y erradicar la violencia contra las mujeres.
+Las disposiciones del presente Estatuto tienen por objeto reglamentar lo dispuesto por el Código Electoral del Estado de México, con relación al Servicio Electoral Profesional del Instituto Electoral del Estado de México.
 
 ###### Artículo 2.
 
-Esta Ley tiene por objeto:
+Para efectos del presente Estatuto se entenderá por:
 
-I. Incorporar a las políticas públicas del Estado y sus municipios los principios, instrumentos y mecanismos, para garantizar a las mujeres el acceso a una vida libre de violencia, favoreciendo su pleno desarrollo y bienestar integral;
+CÓDIGO: El Código Electoral del Estado de México.
 
-II. Sentar las bases para el diseño de políticas públicas, programas y acciones con alto contenido de respeto a la igualdad y de no discriminación entre hombres y mujeres; y,
+INSTITUTO: El Instituto Electoral del Estado de México.
 
-III. Establecer las medidas de protección y procedimientos legales oportunos para la eficaz salvaguarda de los derechos contenidos en la presente ley.
+CONSEJO: El Consejo General del Instituto Electoral del Estado de México.
+
+JUNTA GENERAL: La Junta General del Instituto Electoral del Estado de México.
+
+DIRECCIÓN GENERAL: La Dirección General del Instituto Electoral del Estado de México.
+
+DIRECCIÓN: La Dirección del Servicio Electoral Profesional.
+
+CONTRALORÍA: La Unidad de Contraloría Interna del Instituto.
+
+JUNTAS: Los órganos desconcentrados ejecutivos del Instituto en los Distritos y en los Municipios.
+
+VOCALES: Servidores electorales temporales integrantes de la Juntas Distritales y Municipales, designados por el Consejo en Proceso Electoral, pudiendo ser, el Ejecutivo, el de Organización y el de Capacitación.
+
+ESTATUTO: El Estatuto del Servicio Electoral Profesional del Instituto Electoral del Estado de México.
+
+NORMATIVIDAD: Normatividad de las Responsabilidades de los Servidores Electorales del Estado de México.
+
+SERVICIO: El Servicio Electoral Profesional.
+
+SERVIDOR ELECTORAL: El Personal que presta sus servicios al Instituto.
+
+PERSONAL DEL SERVICIO: Los Servidores Electorales calificados profesionalmente para organizar, desarrollar y vigilar procesos electorales.
+
+PROGRAMA: El Programa General del Servicio Electoral Profesional.
+
+CUERPOS: Los grupos de servidores Electorales que sean designados como integrantes del Servicio Electoral Profesional.
+
+CARGO: Empleo u oficio, con la obligación de hacer y cumplir, dentro de la estructura del Instituto.
+
+PUESTO: Unidad de trabajo; lugar donde una persona cumple con la misión que se le ha encomendado por el Instituto, de acuerdo con la categoría profesional.
+
+NIVEL: La clasificación de la estructura de responsabilidades en que se divide a los integrantes del Servicio Electoral Profesional.
+
+RANGOS: Las diferentes categorías que contiene cada uno de los niveles del Servicio Electoral Profesional.
 
 ###### Artículo 3.
 
-El Estado y los municipios, en el ámbito de sus respectivas competencias, expedirán las normas legales y tomarán las medidas presupuestales y administrativas correspondientes para garantizar el derecho de las mujeres a una vida libre de violencia.
-
-El presente ordenamiento deberá interpretarse de acuerdo a los principios consagrados en la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales en materia de derechos humanos de las mujeres, ratificados por el Estado Mexicano.
+El Servicio está integrado por los programas de ingreso, capacitación y desarrollo, evaluación y selección, así como las disposiciones relacionadas con la promoción, ascensos y estímulos del Personal del Servicio.
 
 ###### Artículo 4.
 
-Corresponde al Estado y a los Municipios, mediante el desarrollo de sus políticas, planes y proyectos, promover y garantizar la igualdad de oportunidades con equidad de género.
+El Servicio Electoral Profesional tiene por objeto:
+
+I. Dotar al Instituto de personal profesional y técnico especializado, permanente y temporal, calificado para cumplir con el Objeto del Instituto, organizar, desarrollar y vigilar los procesos electorales locales;
+
+II. Coadyuvar al cumplimiento de los fines del Instituto y al ejercicio de las atribuciones de los órganos del mismo, fomentando entre los Servidores Electorales y el personal del servicio, la lealtad e identificación con la institución;
+
+III. Garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales;
+
+IV. Asegurar que el desempeño de los Servidores Electorales Profesionales se apegue a los principios rectores de certeza, legalidad, independencia, imparcialidad y objetividad.
 
 ###### Artículo 5.
 
-Cuando en la actuación de las autoridades estatales y municipales en la aplicación de esta Ley conforme a los instrumentos internacionales aplicables en materia de discriminación, igualdad del hombre y la mujer y violencia en contra de la mujer, de los que el Estado mexicano sea parte, así como con las recomendaciones y resoluciones adoptadas por los organismos multilaterales y regionales y demás legislación aplicable se presenten diferentes interpretaciones, se deberá preferir aquella que proteja con mayor eficacia a las personas o a los grupos que sean afectados por conductas discriminatorias inequitativas o violentas.
+El Servicio se organizará y desarrollará por el Instituto, a través de la Dirección, de conformidad con las disposiciones del Código, del presente Estatuto y de los Acuerdos, lineamientos y demás disposiciones que emitan el Consejo y la Junta General en el ámbito de su respectiva competencia.
 
-### CAPÍTULO I. DE LA VIOLENCIA EN EL ÁMBITO FAMILIAR
+### CAPÍTULO SEGUNDO. DE LOS ÓRGANOS Y DE LAS ATRIBUCIONES
 
 ###### Artículo 6.
 
-Son principios rectores, para el ejercicio del derecho a la igualdad de oportunidades con equidad de género, así como del acceso a una vida libre de violencia contra las mujeres:
+Corresponde al Consejo:
 
-I. La igualdad jurídica entre la mujer y el hombre;
+I. Expedir el Estatuto;
 
-II. El respeto a la dignidad humana de las mujeres;
+II. Evaluar el cumplimiento del Estatuto;
 
-III. La no discriminación;
+III. Aprobar los programas del Servicio;
 
-IV. La libertad de las mujeres; y,
+IV. Evaluar los resultados alcanzados por el Programa del Servicio;
 
-V. La integración plena y total de las mujeres a la vida democrática y productiva del Estado.
+V. Conocer de los informes que se presenten con relación al Servicio;
+
+VI. Las demás que le señale el Código.
 
 ###### Artículo 7.
 
-Para el cumplimiento de esta Ley, el Estado y los Municipios adoptarán las medidas necesarias que tengan como propósito erradicar:
+La Junta General, en relación con el Servicio, tendrá las siguientes atribuciones:
 
-I. Toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, tengan por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas; y,
+I. Proponer al Consejo General, por conducto de la Dirección, el Estatuto, así como sus adiciones y reformas;
 
-II. Todo acto de violencia basado en la pertenencia al sexo femenino que tenga o pueda tener como resultado un daño o sufrimiento físico, sexual o psicológico para la mujer, así como las amenazas de tales actos, la coacción o la privación arbitraria de la libertad, tanto si se producen en la vida pública como en la vida privada.
+II. Vigilar que la Dirección ejecute, en los plazos establecidos, los Programas del Servicio;
+
+III. Sustanciar las inconformidades relacionadas con el Servicio y/o el Personal del Servicio, otorgando el derecho de audiencia a quien corresponda, hasta dejar el procedimiento en estado de resolución, la cual será dictada por el consejo general del instituto.
+
+IV. Las demás que le otorgue el Consejo, el presente Estatuto y las disposiciones legales aplicables.
+
+Para el caso de la fracción III, la Junta General quedará obligada a resolver en los plazos y términos que requiera el Servicio, debiendo informar al Consejo.
 
 ###### Artículo 8.
 
-El Estado y los Municipios en el ejercicio del derecho de toda mujer a una vida libre de violencia deberán garantizarle:
+Corresponde al Director General:
 
-I. A ser libre de toda forma de discriminación; y,
+I. Celebrar convenios con instituciones académicas y de educación superior para impartir cursos de formación, capacitación y actualización para aspirantes y miembros titulares del Servicio.
 
-II. El acceso a la educación libre de patrones estereotipados de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación.
+II. Proponer al Consejo, el Estatuto y el Programa así como sus adiciones y reformas, aprobadas por la Junta General.
+
+III. Informar al Consejo sobre los resultados del Servicio.
+
+IV. Las demás que le confiere el Código y este Estatuto.
 
 ###### Artículo 9.
 
-En el estado de Sinaloa está prohibida y por lo tanto será sancionada toda práctica discriminatoria que tenga por objeto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad real de oportunidades.
+La Dirección tendrá las siguientes atribuciones:
 
-### CAPÍTULO II. DE LA VIOLENCIA LABORAL Y DOCENTE
+I. Cumplir y hacer cumplir las normas y procedimientos del Servicio;
+
+II. Ejecutar los programas de ingreso, capacitación y desarrollo, evaluaciones y selección;
+
+III. Proponer a la Junta General, quiénes ocuparán las vocalías de las Juntas Distritales y Municipales;
+
+IV. Elaborar y poner a consideración de la Dirección General, los proyectos de reglamentos para la aplicación de las normas del Servicio;
+
+V. Llevar el Libro Estatal del Registro del Servicio;
+
+VI. Llevar el archivo documental integrado con motivo del Servicio;
+
+VII. Recibir y tramitar las inconformidades del Personal del Servicio, y someterlas a la consideración de la Junta General;
+
+VIII. Acordar con el Director General los asuntos de su competencia;
+
+IX. Las demás que le confiere el Código.
+
+### CAPÍTULO TERCERO. DE LA ESTRUCTURA Y OPERACIÓN DEL SERVICIO
 
 ###### Artículo 10.
 
-Para los efectos de esta Ley, se entenderá por:
+La Dirección se integrará por:
 
-I. Ley: La Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sinaloa;
+I. Un Director;
 
-II. DIF Estatal: el organismo público descentralizado denominado Sistema para el Desarrollo Integral de la Familia en el Estado de Sinaloa;
+II. Un Subdirector de Ingreso;
 
-III. DIF Municipal: el organismo público descentralizado denominado Sistema para el Desarrollo Integral de la Familia del municipio que corresponda;
+III. Un Subdirector de Profesionalización Electoral;
 
-IV. CEPAVI: Consejo Estatal para la Prevención y Atención de Violencia Intrafamiliar;
-
-V. Organizaciones Sociales: Las instituciones o agrupaciones ciudadanas legalmente constituidas que tengan por objeto atender a las mujeres víctimas de violencia, así como realizar acciones de difusión orientadas a la prevención y erradicación de la violencia en contra de las mujeres;
-
-VI. Instituto: El Instituto Sinaloense de las Mujeres;
-
-VII. Programa Nacional: El Programa Nacional para Prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
-
-VIII. Programa Estatal: El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres en el Estado;
-
-IX. Sistema Nacional: El Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
-
-X. Sistema Estatal: El Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
-
-XI. Modalidades de violencia: Las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres;
-
-XII. Violencia contra las mujeres: Cualquier conducta de acción o conducta, basada en su género, que cause muerte, daño o sufrimiento psicológico, físico, patrimonial, económico o sexual en la mujer, tanto en el ámbito privado como en el público;
-
-XIII. Víctima: la mujer de cualquier edad a quien se le inflige cualquier tipo de violencia;
-
-XIV. Agresor: La persona que inflige cualquier tipo de violencia contra las mujeres;
-
-XV. Derechos Humanos de las Mujeres: Refiere a los derechos humanos contenidos en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos del Niño, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem Do Pará) y demás instrumentos internacionales en la materia;
-
-XVI. Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se proponen eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basadas en el género. Promueve la igualdad entre los géneros a través de la equidad, el desarrollo y bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
-
-XVII. Empoderamiento de las Mujeres: Es el proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
-
-XVIII. Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer;
-
-XIX. Alerta de violencia de género: Es el conjunto de acciones gubernamentales de emergencia derivadas de la declaratoria emitida por la autoridad competente para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad; y,
-
-XX. Refugios: Son los albergues, centros o establecimientos constituidos por organismos o asociaciones civiles o del Estado para la atención y protección de mujeres que han sido víctimas de violencia.
+IV. Las demás que señale el Manual de Organización del Instituto.
 
 ###### Artículo 11.
 
-Los tipos de violencia contra las mujeres son:
-
-I. Violencia psicológica.- Es cualquier tipo acto u omisión que dañe la estabilidad psicológica, que puede consistir en; negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso el suicidio;
-
-II. Violencia física.- Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que puede provocar o no lesiones ya sean internas, externas o ambas;
-
-III. Violencia patrimonial.- Es cualquier acto u omisión que afecte la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y pueda abarcar los daños a los bienes comunes o propios de la víctima;
-
-IV. Violencia económica.- Es toda conducta de acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
-
-V. Violencia Sexual.- Es cualquier acto que degrada o daña el cuerpo o la sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto; y,
-
-VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+La operación y el desarrollo del Servicio deberán basarse en la igualdad de oportunidades de ingreso, los conocimientos necesarios, el desempeño adecuado, la evaluación permanente, la transparencia de los procedimientos y la competencia de sus miembros.
 
 ###### Artículo 12.
 
-Los derechos de las mujeres protegidos por esta Ley son:
-
-I. La vida;
-
-II. La libertad;
-
-III. La igualdad;
-
-IV. La equidad;
-
-V. La no discriminación;
-
-VI. La intimidad;
-
-VII. La integridad física, psicoemocional y sexual de las mujeres; y,
-
-VIII. El patrimonio.
+Las direcciones y unidades del Instituto deberán proporcionar a la Dirección, la información y los apoyos necesarios para la organización y desarrollo del Servicio.
 
 ###### Artículo 13.
 
-Las mujeres que son víctimas de cualquier tipo y modalidad de violencia tendrán los siguientes derechos:
-
-I. Protección inmediata y efectiva por parte de las autoridades;
-
-II. Trato digno, privacidad y respeto durante cualquier entrevista o actuación como víctima de violencia;
-
-III. Asistencia legal gratuita y necesaria para los trámites jurídicos relacionados con la violencia de la cual sea víctima;
-
-IV. Asistencia médica y psicológica gratuita para la atención de las consecuencias generadas por la violencia;
-
-V. Acciones de asistencia social que contribuyan a su pleno desarrollo;
-
-VI. Atención en un refugio temporal; y,
-
-VII. Los demás que establezca esta Ley, su reglamento y demás disposiciones legales aplicables.
+La Dirección recibirá y remitirá a la Junta General y en su caso, a la Contraloría las quejas o denuncias que se presenten sobre el personal del Servicio.
 
 ###### Artículo 14.
 
-La violencia familiar es el acto de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, cuyo agresor tenga o haya tenido relación de parentesco, matrimonio, concubinato o mantenga o haya mantenido una relación de hecho.
-
-Contra la violencia familiar se aplicarán las disposiciones de la Ley para Prevenir y Atender la Violencia Intrafamiliar, así como lo dispuesto en la legislación civil y penal del estado de Sinaloa.
+Para la promoción, readscripción y permanencia del Personal del Servicio, se tomarán en cuenta los resultados de las evaluaciones, el desempeño y aprovechamiento en el Programa y la evaluación global que se le aplique, de acuerdo con los términos y condiciones especificados en el presente Estatuto.
 
 ###### Artículo 15.
 
-La violencia laboral y docente se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación de jerarquía, consistente en un acto o una omisión en abuso de poder que daña la autoestima, salud, integridad, libertad y seguridad de la víctima e impide su desarrollo y atenta contra la igualdad.
+La Dirección llevará un archivo documental integrado y actualizado que estará bajo su responsabilidad. El archivo contendrá los expedientes de todos aquellos servidores electorales que participaron en los procesos electorales anteriores.
 
-Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño. También incluye el acoso o el hostigamiento sexual, en los términos definidos en el Código Penal para el Estado de Sinaloa.
+Asimismo, contendrá el expediente de cada miembro en activo, de acuerdo con los procedimientos de seguimiento y resultados, donde se incluirá el historial electoral a partir de su ingreso al Servicio.
 
-### CAPÍTULO III. DE LA VIOLENCIA EN LA COMUNIDAD
+### CAPÍTULO CUARTO. DEL PERSONAL DEL SERVICIO
 
 ###### Artículo 16.
 
-Constituye violencia laboral la negativa ilegal a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo, la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género. Incluye, para efectos de esta ley, la exigencia o condicionante de certificados de no gravidez, así como para la obtención de un trabajo o el despido por motivo de embarazo, ademas del acoso y el hostigamiento sexual.
+El Personal del Servicio será aquel que cumpla con los requisitos de ingreso al mismo y que sea calificado para desempeñar las actividades electorales que establece el Código.
 
 ###### Artículo 17.
 
-Constituyen violencia docente las conductas que dañen la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, académica, limitaciones o características físicas, que les infligen maestras o maestros.
+El Personal del Servicio se integrará por dos Cuerpos con servidores electorales, con funciones de dirección y técnicas:
+
+I. Permanentes de los órganos centrales del Instituto;
+
+II. Eventuales de los órganos centrales del Instituto;
+
+III. Los eventuales que conformarán la estructura desconcentrada del Instituto.
+
+Los Servidores Electorales que se señalan en las fracciones I y II del presente artículo, se considerarán dentro de un solo cuerpo.
 
 ###### Artículo 18.
 
-La violencia en la comunidad son los actos individuales o colectivos que transgreden derechos fundamentales de las mujeres en el ámbito público y propician su denigración, discriminación, marginación o exclusión.
+El Personal del Servicio deberá desempeñar sus funciones dentro del mismo, durante el tiempo de su designación; no podrá en ningún caso aceptar o desempeñar otra actividad, cargo, empleo o comisión oficial, de la federación del estado, de los municipios, de los partidos políticos o agrupaciones políticas remunerado; sin embargo, si podrá recibir percepciones derivadas de la docencia, de la práctica libre de su profesión, de regalías, de derechos de autor o publicaciones, siempre que no se afecte la independencia, imparcialidad y equidad que debe regir el ejercicio de su profesión. Podrá ejercer cargos no remunerados en asociaciones científicas, literarias o de beneficencia.
 
-### CAPÍTULO IV. DE LA VIOLENCIA INSTITUCIONAL
+### CAPÍTULO QUINTO. DE LOS PUESTOS E INTEGRACIÓN DEL SERVICIO ELECTORAL PROFESIONAL
 
 ###### Artículo 19.
 
-La violencia institucional son los actos u omisiones de las y los servidores públicos que discriminen o tengan como fin o resultado dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
+El Servicio se integrará por personal calificado y profesional que se organizará en los siguientes niveles:
+
+I. En los órganos centrales por:
+
+a. Jefes de Departamento
+
+b. Líderes "A" de Proyecto
+
+c. Jefes de Área
+
+d. Jefes de Proyecto
+
+e. Formadores electorales
+
+II. En la estructura desconcentrada por:
+
+a. Vocales Ejecutivos Distritales y Municipales
+
+b. Vocales de Organización Distritales y Municipales
+
+c. Vocales de Capacitación Distritales y Municipales
+
+d. Instructores
+
+e. Capacitadores
 
 ###### Artículo 20.
 
-El Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, realizarán las adecuaciones que correspondan en materia administrativa y proporcionarán la capacitación que requieran sus servidores públicos, a fin de que en el ejercicio de sus funciones éstos sean capaces de asegurar el derecho de las mujeres a una vida libre de violencia.
+La Dirección contará con un Catálogo en el que se establecerá la clasificación de los cargos y puestos del Servicio. El Catálogo debe ser sometido a una constante actualización, para lo cual se hará necesario el análisis, clasificación y valoración de cargos y puestos que serán exclusivos del Servicio.
 
-## TÍTULO SEGUNDO. MODALIDADES DE LA VIOLENCIA CONTRA LAS MUJERES
+Los aspectos que deberá contener el Catálogo son:
 
-### CAPÍTULO V. DE LA VIOLENCIA FEMINICIDA
+a) Denominación del cargo.
+
+b) Denominación del puesto.
+
+c) Nivel jerárquico.
+
+d) Relación de mando ascendente.
+
+e) Tramo de control descendente.
+
+f) Descripción general de las funciones.
+
+g) Descripción específica de las funciones.
+
+h) Matriz de evaluación que contendrá la descripción de requisitos que se deberán acreditar para su ocupación.
+
+## TÍTULO SEGUNDO. DEL PROGRAMA DEL SERVICIO ELECTORAL PROFESIONAL
+
+### CAPÍTULO PRIMERO. DEL PROGRAMA DEL SERVICIO
 
 ###### Artículo 21.
 
-El Estado y los Ayuntamientos, promoverán las acciones conducentes para prevenir, atender, investigar y sancionar las conductas violentas en contra de las mujeres ejercidas por servidores públicos, así como aquellas que, en su caso, sean necesarias a fin de que se repare el daño infligido a las víctimas, de conformidad con lo dispuesto por las normas jurídicas aplicables.
+El Programa es el conjunto de actividades, procedimientos, políticas y estrategias tendientes a la integración y desarrollo del Servicio del Instituto.
 
 ###### Artículo 22.
 
-La violencia feminicida es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en el ámbito público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad y culminar en homicidio y otras formas de muerte violenta de mujeres, con perturbación social en un territorio determinado o la existencia de un agravio que impida el ejercicio pleno de los derechos humanos de las mujeres.
+El Programa se subdivide en cuatro programas específicos: el de ingreso, el de capacitación y desarrollo, el de evaluación y el de selección.
 
-Este tipo de violencia, será prevenida por el Gobierno del Estado y los Ayuntamientos mediante un programa permanente de promoción al respeto de todos los derechos de la (sic) mujeres.
+Todos los programas deberán ser aprobados por el Consejo, y tendrán por objeto asegurar el desempeño profesional y eficiente del Personal del Servicio.
 
-### CAPÍTULO I. DEL OBJETO E INTEGRACIÓN DEL SISTEMA ESTATAL
+### CAPÍTULO SEGUNDO. DEL PROGRAMA DE INGRESO
 
 ###### Artículo 23.
 
-El Estado y los Municipios, cuando se presenten casos de violencia feminicida, dispondrán de las medidas que sean adecuadas para garantizar la seguridad de las mujeres, el cese de la violencia en su contra y eliminar las situaciones de desigualdad en que se encuentran, sin perjuicio de que puedan proponer a la Secretaría de Gobernación del Poder Ejecutivo Federal, la emisión de declaratorias de alertas de violencia de género a fin de que se adopten las medidas y acciones preventivas de seguridad y justicia que procedan.
+El ingreso es el acto o resolución del Instituto en favor de los aspirantes que hubieren cumplido con los requisitos establecidos en el Presente Estatuto.
 
 ###### Artículo 24.
 
-El Gobierno del Estado y los Ayuntamientos coadyuvarán con el Gobierno Federal en la implementación de las medidas y acciones que se determinen en la declaratoria de alerta de violencia de género y participarán en los grupos interinstitucionales y multidisciplinarios que se formen para dar seguimiento a las acciones y medidas señaladas, de conformidad con el Sistema y el Programa Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
+El proceso de ingreso al Servicio comprenderá las fases de convocatoria, reclutamiento, selección de aspirantes y la incorporación a los cuerpos que componen el mismo.
 
 ###### Artículo 25.
 
-El Estado y los municipios se coordinarán para establecer el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
-
-Todas las medidas que lleve a cabo el Estado y los municipios deberán ser realizadas sin discriminación alguna. Por ello, no se considerará distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades en el acceso a las políticas públicas en la materia.
+Previo acuerdo del Consejo, la Junta General publicará, a través de la Dirección, las convocatorias para el ingreso de aspirantes en el Órgano Central en sus dos tipos de cuerpos, con funciones directivas o técnicas, de acuerdo a la disponibilidad de vacantes y necesidades del Instituto.
 
 ###### Artículo 26.
 
-El Sistema Estatal se conformará por las y los titulares de:
+Previo acuerdo del Consejo, la Junta General publicará, a través de la Dirección, las convocatorias para el ingreso de aspirantes al Servicio, en sus dos tipos de funciones en órganos desconcentrados, para lo cual deberá expedir:
 
-I. El Ejecutivo del Estado, a través de la Secretaría General de Gobierno, quien lo presidirá;
+I. La convocatoria para Personal del Servicio con funciones de Dirección, siete meses antes del inicio de cada proceso electoral.
 
-II. La Secretaría de Desarrollo Social y Sustentable;
+II. La convocatoria para el Personal del Servicio con funciones técnicas, cuatro meses antes del inicio de cada proceso electoral.
 
-III. La Secretaría de Seguridad Pública;
-
-IV. La Procuraduría General de Justicia del Estado;
-
-V. La Secretaría de Educación Pública y Cultura;
-
-VI. La Secretaría de Salud;
-
-VII. El Instituto Sinaloense de las Mujeres, quien ocupará la Secretaría Ejecutiva del Sistema Estatal;
-
-VIII. DIF estatal;
-
-IX. Consejo Estatal para Prevenir y Atender la Violencia Intrafamiliar; y,
-
-X. Los organismos y dependencias instituidos en el ámbito municipal para la protección de los derechos de la mujer.
-
-### CAPÍTULO II. DEL PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+### CAPÍTULO TERCERO. DE LOS REQUISITOS DE INGRESO
 
 ###### Artículo 27.
 
-La Secretaría Ejecutiva del Sistema Estatal elaborará el proyecto de reglamento para el funcionamiento del mismo y lo presentará a sus integrantes para su consideración y aprobación en su caso.
+Para ingresar al Servicio se deberán cumplir los siguientes requisitos:
+
+I. Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles y políticos.
+
+II. Tener residencia efectiva en la entidad durante cinco años anteriores a la fecha de publicación de la convocatoria, comprobada con la constancia que otorgue la autoridad municipal o con la Credencial para Votar con Fotografía.
+
+III. Tener más de 25 años de edad a la fecha de la publicación de la convocatoria, para participar por algún cargo o puesto dentro del Servicio.
+
+IV. No ser ministro de culto religioso.
+
+V. Presentar currículum vitae con documentos probatorios.
+
+VI. Presentar carta de exposición de motivos al cargo o puesto al que aspira.
+
+VII. Estar inscrito en el Registro Federal de Electores y contar con credencial para votar con fotografía, expedida en el Estado de México.
+
+VIII. No estar afiliado a ningún partido político.
+
+IX. No haber sido registrado como candidato a cargo alguno de elección popular en los últimos cinco años anteriores a la publicación de la convocatoria.
+
+X. No ser o haber sido dirigente nacional, estatal o municipal de partido político en los cinco años inmediatos anteriores a la publicación de la convocatoria.
+
+XI. No estar inhabilitado para ocupar cargo o puesto público por autoridad alguna.
+
+XII. Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial.
+
+XIII. Haber acreditado el nivel de educación media superior para quienes deseen entrar al cuerpo técnico del Servicio.
+
+XIV. Llenar la solicitud de ingreso.
+
+XV. Los demás que se establezcan en la convocatoria correspondiente.
 
 ###### Artículo 28.
 
-La formulación del Programa Estatal será coordinada por la Secretaría de Gobierno. El Programa Estatal deberá ser congruente con el Plan Estatal de Desarrollo y el Programa Nacional de Desarrollo, así como, con el Programa Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres y contendrá las acciones con perspectiva de género para:
-
-I. Impulsar y fomentar el conocimiento y el respeto a los derechos humanos de las mujeres;
-
-II. Garantizar el principio de transversalidad de las medidas, de manera que en su aplicación se tengan en cuenta las necesidades y demandas específicas de todas las mujeres víctimas de violencia de género;
-
-III. Transformar los modelos socioculturales de conductas de mujeres y hombres, incluyendo la formulación de programas y acciones de educación formales y no formales, en todos los niveles educativos y de instrucción, con la finalidad de prevenir, atender y erradicar las conductas estereotipadas que permiten, fomentan y toleran la violencia contra las mujeres;
-
-IV. Educar y capacitar en materia de derechos humanos de la (sic) mujeres y el respeto a la igualdad de género al personal encargado de la procuración de justicia, policías y demás servidores públicos encargados de las políticas de prevención, atención, sanción y eliminación de la violencia contra las mujeres;
-
-V. Promover la capacitación en materia de derechos humanos de las mujeres al personal encargado de la impartición de justicia, a fin de dotarles de instrumentos que les permita juzgar con perspectiva de género;
-
-VI. Brindar los servicios especializados y gratuitos para la atención y protección a las víctimas, por medio de las autoridades y las instituciones públicas o privadas;
-
-VII. Fomentar y apoyar programas de educación pública y privada, destinados (sic) promover el respeto de los derechos y libertades fundamentales y de la igualdad entre hombres y mujeres, así como el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia en sociedad;
-
-VIII. Promover programas de sensibilización a fin de concientizar a la sociedad sobre las causas y las consecuencias de la violencia contra la (sic) mujeres;
-
-IX. Diseñar programas de atención y capacitación a víctimas que les permita participar plenamente en todos los ámbitos de la vida;
-
-X. Promover que los medios de comunicación no fomenten la violencia contra las mujeres y que favorezcan la erradicación de todos los tipos de violencia, para fortalecer el respeto a los derechos humanos y la dignidad de las mujeres;
-
-XI. Garantizar la investigación y la elaboración de diagnósticos estadísticos sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
-
-XII. Publicar semestralmente la información general y estadística sobre los casos de violencia contra las mujeres;
-
-XIII. Promover la cultura de denuncia de la violencia contra las mujeres en el marco de la eficacia de las instituciones para garantizar su seguridad y su integridad; y,
-
-XIV. Diseñar un modelo integral de atención a los derechos humanos y ciudadanía de las mujeres que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas.
+Las solicitudes de los aspirantes que no cumplan los requisitos serán desechadas de plano.
 
 ###### Artículo 29.
 
-La Secretaría General de Gobierno procurará la participación de los sectores público, social y privado, especialmente de los órganos de participación ciudadana sociales en la formulación, ejecución y evaluación del Programa Estatal.
+Los interesados que hubieren cubierto los requisitos señalados y que aprueben el curso de formación, serán considerados como aspirantes.
 
-### CAPÍTULO III. DE LA DISTRIBUCIÓN DE COMPETENCIAS
+### CAPÍTULO CUARTO. DEL INGRESO Y LA SELECCIÓN
 
 ###### Artículo 30.
 
-El Estado se coordinará con la Federación para integrar y consolidar el Sistema Nacional y participará en la formulación y ejecución del Programa Nacional, adoptando todas las medidas y acciones previstas en la presente Ley para prevenir, atender, sancionar y erradicar la violencia contra las mujeres.
+El reclutamiento tiene como principal propósito captar aspirantes idóneos que habrán de ocupar los cargos o puestos del Servicio, observando para esto, las medidas pertinentes que garanticen la imparcialidad en la selección de los aspirantes, manteniendo invariablemente la confidencialidad de los datos proporcionados por éstos.
 
 ###### Artículo 31.
 
-Las dependencias estatales y municipales previstas en esta ley deberán:
+Se considerará para la selección de aspirantes los siguientes aspectos:
 
-I. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades del Sistema Estatal, para alcanzar los objetivos previstos en la presente Ley;
+I. Los antecedentes académicos y laborales de los solicitantes.
 
-II. Ejecutar y dar seguimiento a las acciones del Programa Estatal, con la finalidad de evaluar su eficacia y rediseñar las acciones y medidas para avanzar en la eliminación de la violencia contra las mujeres;
-
-III. Impulsar la participación de los sectores sociales y privados y de las organizaciones sociales, en la ejecución del Programa Estatal;
-
-IV. Promover investigaciones sobre las causas y consecuencias de la violencia contra las mujeres;
-
-V. Promover una cultura de respeto a los derechos humanos de las mujeres;
-
-VI. Promover ante las autoridades competentes la adopción de las medidas de protección previstas en esta Ley y demás disposiciones aplicables que requiere la mujer que haya sido víctima de la violencia;
-
-VII. Proporcionar a las instancias encargas (sic) de realizar estadísticas, la información necesaria para la elaboración de éstas;
-
-VIII. Promover programas de información a la población en materia de respeto a los derechos humanos de las mujeres y la igualdad de género;
-
-IX. Recibir de las organizaciones sociales propuestas y recomendaciones sobre la prevención, atención y sanción de la violencia contra las mujeres, a fin de mejorar los mecanismos para su erradicación;
-
-X. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa Estatal;
-
-XI. Impulsar la creación de refugios para la atención y protección de las víctimas, conforme al modelo de atención diseñado por el Sistema Estatal, de acuerdo a los lineamientos que para tal efecto dicte el Sistema Nacional;
-
-XII. Difundir por todos los medios de comunicación el contenido y alcance de la presente Ley;
-
-XIII. Celebrar convenios de cooperación, coordinación y concertación con los sectores social y privado en la materia; y,
-
-XIV. Las demás previstas en esta Ley y en otras disposiciones aplicables.
+II. Los resultados obtenidos en el curso de formación.
 
 ###### Artículo 32.
 
-El Ejecutivo del Estado a través de la Secretaría General de Gobierno tendrá a su cargo:
-
-I. El diseño de una política integral con visión transversal de perspectiva de género orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres;
-
-II. Coordinar la elaboración del Programa Estatal con las demás autoridades integrantes del Sistema Estatal;
-
-III. Formular las bases para la coordinación entre las autoridades estatales y municipales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
-
-IV. Incluir una partida presupuestal suficiente para garantizar que las dependencias y entidades cumplan con los objetivos de la ley, realicen acciones afirmativas a favor de las mujeres y coadyuven en la protección integral a quienes sean víctimas de violencia;
-
-V. Coordinar y dar seguimiento a las acciones del Estado en materia de protección, atención, sanción y erradicación de la violencia contra las mujeres;
-
-VI. Coordinar y dar seguimiento a los trabajos de promoción y defensa de los derechos humanos de las mujeres, que lleven a cabo las dependencias y entidades de la administración pública estatal;
-
-VII. Realizar un diagnóstico estatal y otros estudios complementarios de manera periódica con perspectiva de género sobre todas las formas de violencia contra las mujeres, en todos los ámbitos, que proporcione información objetiva para la elaboración de políticas gubernamentales en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
-
-VIII. Difundir a través de diversos medios de comunicación, los resultados del Sistema Estatal y del Programa Estatal a los que se refiere esta Ley; y,
-
-IX. Las demás previstas en esta Ley y en otras disposiciones aplicables.
+La Dirección aplicará los procedimientos de selección a los aspirantes a ingresar al Servicio. Los procedimientos se ajustarán a lo que apruebe el Consejo, a propuesta de la Junta General.
 
 ###### Artículo 33.
 
-La Secretaría de Desarrollo Social y Sustentable será la encargada de:
-
-I. Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
-
-II. Formular la política de desarrollo social del Estado considerando el adelanto de las mujeres y su plena participación en todos los ámbitos de la vida;
-
-III. Promover políticas de igualdad de condiciones y oportunidades entre mujeres y hombres, para eliminar desventajas de género; y,
-
-IV. Las demás previstas en esta Ley y demás disposiciones aplicables.
+El aspirante que acredite los cursos del Servicio y no resulte seleccionado para ocupar algún puesto con funciones de dirección en la estructura desconcentrada, podrá ingresar al cuerpo eventual de los órganos centrales y desconcentrados, con funciones técnicas, siempre y cuando exista la disponibilidad presupuestal, conforme a la convocatoria respectiva, mediante el procedimiento que apruebe el Consejo, a propuesta de la Junta General.
 
 ###### Artículo 34.
 
-La Secretaría de Seguridad Pública, tendrá a su cargo:
+El ingreso al Servicio se considera definitivo hasta que se determine por el Instituto su titularidad, nombramiento y adscripción.
 
-I. Diseñar con la Secretaría General de Gobierno la política integral para la prevención de delitos violentos contra las mujeres, en los ámbitos público y privado;
-
-II. Informar periódicamente al Sistema Estatal sobre la ejecución de las acciones de su competencia contenidas en el Programa Estatal, con la finalidad de evaluar su eficacia;
-
-III. Capacitar al personal de las diferentes instancias policiales a su cargo para atender, con perspectiva de género y de conformidad con los protocolos estandarizados a las normas aplicables, los casos de violencia contra las mujeres;
-
-IV. Promover la cultura de denuncia de la violencia contra las mujeres;
-
-V. Canalizar a las víctimas de violencia a las instituciones públicas o privadas que presten asistencia y protección;
-
-VI. Establecer las acciones y medidas que se deberán tomar para la reeducación y reinserción social del agresor;
-
-VII. Implementar programas de capacitación que formen el apego a los principios de legalidad, honradez, profesionalismo y eficacia, en la atención a las mujeres víctimas de violencia; y,
-
-VIII. Las demás previstas en esta Ley y en otras disposiciones aplicables.
-
-### CAPÍTULO ÚNICO. DE LAS ÓRDENES DE PROTECCIÓN
+### CAPÍTULO QUINTO. DEL NOMBRAMIENTO Y ADSCRIPCIÓN
 
 ###### Artículo 35.
 
-Corresponderá a la Secretaría de Educación Pública y Cultura:
-
-I. Incorporar en los programas educativos, en todos los niveles de instrucción de competencia estatal, el respeto a los derechos humanos de las mujeres, así como contenidos educativos tendientes a modificar los modelos de conducta sociales y culturales que impliquen prejuicios y estén basados en la idea de la inferioridad o superioridad de uno de los sexos y en funciones estereotipadas asignadas a las mujeres y a los hombres;
-
-II. Promover en las políticas educativas los principios de igualdad, equidad y no discriminación entre mujeres y hombres y el respeto pleno a los derechos humanos;
-
-III. Desarrollar programas educativos, en todos los niveles de escolaridad, que fomenten la cultura de una vida libre de violencia contra las mujeres, así como el respeto a su dignidad;
-
-IV. Eliminar de los programas educativos de todos los niveles de competencia estatal, los materiales que hagan apología de la violencia contra las mujeres o contribuyan a la promoción de estereotipos que discriminen y fomenten la desigualdad entre mujeres y hombres;
-
-V. Garantizar acciones y mecanismos que favorezcan el adelanto de las mujeres en todas las etapas del proceso educativo;
-
-VI. Garantizar el derecho de las mujeres a la educación, a la alfabetización y al acceso, permanencia y terminación de estudios en todos los niveles, a través de la obtención de becas y otras subvenciones;
-
-VII. Desarrollar investigación multidisciplinaria encaminada a crear modelos de detección de la violencia contra las mujeres en los centros educativos;
-
-VIII. Formular y aplicar programas que permitan la detección temprana de los problemas de violencia contra las mujeres en los centros educativos;
-
-IX. Diseñar y difundir materiales educativos que promuevan la prevención y atención de la violencia contra las mujeres;
-
-X. Proporcionar acciones formativas a todo el personal de los centros educativos, en materia de derechos humanos de las mujeres y políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres; y,
-
-XI. Las demás previstas en esta Ley y en otras disposiciones aplicables.
+El nombramiento se otorga a los miembros del Servicio que cumplan con los requisitos establecidos y conforme al Catálogo del Servicio.
 
 ###### Artículo 36.
 
-Corresponde a la Secretaría de Salud:
+Los nombramientos serán de dos tipos:
 
-I. En el marco de la política de salud integral de las mujeres, diseñar con perspectiva de género, la política de sensibilización y formación continua en la prevención y atención de la violencia en contra (sic) las mujeres;
+I. Nombramientos eventuales para el órgano central y órganos desconcentrados.
 
-II. Erradicar del personal del área de salud, cualquier prejuicio que evite el ejercicio de los derechos reproductivos;
-
-III. Brindar por medio de las instituciones del sector salud de manera integral y (sic) interdisciplinaria la atención médica y psicológica con perspectiva de género a las víctimas;
-
-IV. Crear programas de capacitación y sensibilización para el personal del sector salud, en materia de violencia contra las mujeres y especialmente para la detección de este tipo de actos contra las mismas;
-
-V. Establecer programas y servicios profesionales eficaces que atiendan a las víctimas de violencia;
-
-VI. Brindar servicios reeducativos integrales a las víctimas y a los agresores, a fin de que logren estar en condiciones de participar plenamente en la vida pública, social y privada;
-
-VII. Difundir en las instituciones del sector salud, material referente a la prevención y atención de la violencia contra las mujeres;
-
-VIII. Canalizar a las víctimas a las instituciones públicas o privadas que prestan atención y protección especializada a las mujeres, en su caso;
-
-IX. Mejorar la calidad de la atención que se preste a las mujeres víctimas;
-
-X. Asegurar que en la prestación de los servicios del sector salud sean respetados los derechos humanos de las mujeres;
-
-XI. Alimentar al Sistema Estatal y Nacional sobre el apoyo que se brinde a las autoridades encargadas de efectuar investigaciones en materia de violencia contra las mujeres, proporcionando la siguiente información:
-
-a) El número de víctimas que se atiendan en los centros y servicios hospitalarios;
-
-b) Las situaciones de violencia que sufren las mujeres;
-
-c) El tipo de violencia por la cual se atendió a la víctima;
-
-d) Los efectos causados por la violencia en las mujeres; y,
-
-e) Los recursos erogados en la atención de las víctimas; y,
-
-Las demás previstas en esta Ley y en otras disposiciones aplicables.
+II. Nombramientos permanentes para el órgano central.
 
 ###### Artículo 37.
 
-Corresponde a la Procuraduría General de Justicia del Estado, en materia de violencia en contra de las mujeres:
+Para obtener el nombramiento en un nivel y rango inicial del Servicio, el ciudadano deberá cumplir los siguientes requisitos:
 
-I. Promover la formación y especialización de Agentes del Ministerio Público y de todo el personal encargado de la procuración de justicia en materia de derechos humanos de las mujeres;
+I. Haber cursado y acreditado el curso de formación del Servicio.
 
-II. Proporcionar a las víctimas de violencia, la asistencia y orientación jurídica para su eficaz atención y protección, de conformidad con la Ley Orgánica del Ministerio Público y su Reglamento y demás ordenamientos aplicables;
+II. Haber cubierto y acreditado las evaluaciones del Programa.
 
-III. Dictar las medidas necesarias para que la víctima reciba atención médica;
-
-IV. Brindar a las víctimas o al agresor, en su caso, la información integral sobre las instituciones públicas o privadas encargadas de su atención;
-
-V. Proporcionar a las instancias encargadas de realizar estadísticas las referencias necesarias sobre el número de víctimas atendidas;
-
-VI. Brindar protección para salvaguardar la integridad física de las víctimas y en su caso de quienes denuncien cualquier tipo de violencia contra las mujeres; y,
-
-VII. Las demás previstas en esta Ley y en otras disposiciones aplicables.
+III. Que no haya sido privado de sus derechos civiles y políticos, ni condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial.
 
 ###### Artículo 38.
 
-Sin menoscabo de las responsabilidades que le otorga el decreto de su creación, corresponde al Instituto Sinaloense de las Mujeres:
-
-I. Fungir como Secretaría Ejecutiva del Sistema Estatal, a través de su titular;
-
-II. Organizar y mantener actualizado el Banco Estatal de Datos e información sobre los casos de violencia contra las mujeres en el que se integran, además de los casos señalados, las investigaciones realizadas por los sectores público, social y privado sobre las causas, características y consecuencias de la violencia en contra de las mujeres, las medidas de prevención, atención y erradicación adoptadas en esta materia y las evaluaciones de la (sic) mismas, así como la información que generen las instituciones encargadas de promover en el Estado los derechos humanos;
-
-III. Proponer a las instancias encargadas de la aplicación de la presente Ley, los programas, las medidas y las acciones que consideren pertinentes, con la finalidad de erradicar la violencia contra las mujeres;
-
-IV. Promover una cultura de respeto a los derechos humanos de la mujer y promover que las instancias de procuración de justicia garanticen la integridad física de quienes denuncian;
-
-V. Colaborar con las instituciones del Sistema Estatal en el diseño y evaluación del modelo de atención a víctimas en los refugios;
-
-VI. Canalizar a las víctimas a programas reeducativos integrales que les permitan participar activamente en la vida pública, privada y social;
-
-VII. Promover y vigilar que la atención ofrecida en las diversas instituciones públicas o privadas, sea proporcionada por especialistas y personal debidamente capacitado en la materia;
-
-VIII. Vigilar la aplicación de esta Ley; y,
-
-IX. Las demás previstas en esta Ley y en otras disposiciones aplicables.
+La obtención del nombramiento otorgará a los servidores electorales la temporalidad o permanencia en el cargo o puesto, según el nivel y rango que le corresponda; pudiendo ser adscrito o readscrito, de acuerdo a las necesidades del Instituto.
 
 ###### Artículo 39.
 
-Corresponde a los ayuntamientos, en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres:
+La propuesta del nombramiento que formule la Dirección contendrá lo siguiente:
 
-I. Coordinarse con el Ejecutivo del Estado a través de sus instancias involucradas en la adopción y consolidación del Sistema Estatal;
+I. Antecedentes laborales;
 
-II. Instrumentar y articular, en concordancia con la política estatal, la política orientada a erradicar la violencia contra las mujeres;
+II. Forma de ingreso;
 
-III. Participar en la ejecución y evaluación de las acciones previstas en el Programa Estatal;
+III. Nivel, rango y cuerpo del Servicio al que pertenece, en su caso;
 
-IV. Solicitar, y en su caso, coadyuvar en medidas de declaratoria de alerta de violencia de género, de conformidad con esta Ley y el Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+IV. Fecha y lugar de su ingreso;
 
-V. Formular, ejecutar y evaluar el Programa Municipal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
+V. Experiencia electoral adquirida en los cargos y puestos que, en su caso, haya desempeñado;
 
-VI. Promover, en coordinación con el Estado, cursos de capacitación a las personas que atienden a víctimas;
+VI. Resultados obtenidos en las evaluaciones del Programa;
 
-VII. Apoyar la creación de programas de reeducación integral para los agresores;
+VII. Méritos y deméritos que consten en su expediente;
 
-VIII. Promover programas educativos sobre la igualdad y la equidad entre los géneros para eliminar la violencia contra las mujeres;
+VIII. Los demás elementos que establezca el Consejo.
 
-IX. Apoyar la creación de refugios seguros para las víctimas;
+El nombramiento que se expida contendrá:
 
-X. Llevar a cabo programas de información a la población respecto de la violencia contra las mujeres;
+a) Nombre completo, nacionalidad, edad, registro federal de contribuyentes, sexo, domicilio, CURP, así como la escolaridad máxima acreditada.
 
-XI. Celebrar convenios de coordinación y concertación con los sectores público, social y privado en la materia a que se refiere esta Ley; y,
+b) Cuerpo del servicio al que corresponda.
 
-XII. Las demás previstas en esta Ley y en otras disposiciones aplicables.
+c) El carácter eventual o permanente del nombramiento.
+
+d) Cargo o puesto y rango para el que se expide el nombramiento.
+
+e) Vigencia del nombramiento.
+
+f) Los elementos que determine el consejo y, en su caso, la junta general.
 
 ###### Artículo 40.
 
-Corresponde al Sistema para el Desarrollo Integral de la Familia del Estado y de los municipios en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres:
-
-I. Realizar las actividades en el ámbito de su respectiva competencia, el fomento de acciones y programas que promueva el respeto a los derechos humanos de las mujeres y la igualdad entre los hombres y mujeres;
-
-II. Apoyar a las autoridades encargadas de efectuar investigaciones en materia de violencia contra las mujeres, proporcionando la información y datos estadísticos que requieran para el debido cumplimiento;
-
-III. Coadyuvar con la Procuraduría en la atención, sanción y erradicación de la violencia contra las mujeres;
-
-IV. Colaborar con las instituciones del Sistema Estatal en el diseño y evaluación del modelo de atención a víctimas en los refugios;
-
-V. Canalizar a las víctimas de violencia a las instituciones que les presten asistencia y protección, con apego a lo establecido en la Ley y su reglamento; y,
-
-VI. Las demás previstas para el cumplimiento de la presente Ley y otras disposiciones aplicables.
+El nombramiento dejará de surtir efectos y el integrante del Servicio causará baja del mismo, cuando incurra en infracciones o violaciones a los ordenamientos establecidos en el Código, en el presente Estatuto y demás ordenamientos aplicables.
 
 ###### Artículo 41.
 
-Corresponde al Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar:
+Se consideran como causas de la pérdida del nombramiento y baja del Servicio, las siguientes:
 
-I. Coadyuvar en la promoción de los derechos humanos de las mujeres;
+I. Renuncia.
 
-II. Participar en la elaboración y ejecución del Programa Estatal y en el diseño (sic) modelos de prevención y erradicación de la violencia contra las mujeres;
+II. Remoción.
 
-III. Brindar el apoyo y orientación en el ámbito de su competencia a las mujeres víctimas de violencia;
+III. Muerte.
 
-IV. Promover la cultura de denuncia de la violencia contra las mujeres;
+IV. Incapacidad física o mental de acuerdo a lo dispuesto en la Ley del Instituto de Seguridad Social para los Servidores Públicos del Estado y Municipios.
 
-V. Colaborar en la creación de refugios para la atención y protección a las mujeres víctimas de violencia y centros de rehabilitación para agresores; y,
+V. Reestructuración o reorganización administrativa que implique supresión o modificación de áreas de la estructura ocupacional del Instituto.
 
-VI. Las demás previstas para el cumplimiento de esta Ley y otras disposiciones aplicables en la materia.
+VI. Retiro por edad y/o tiempo de servicio de acuerdo a lo dispuesto en la Ley del Instituto de Seguridad Social para los Servidores Públicos del Estado y Municipios.
+
+VII. No presentar, sin justificación, una o más de las evaluaciones que tenga la obligación de presentar, de conformidad con los programas aprobados por el Consejo.
 
 ###### Artículo 42.
 
-Las órdenes de protección son los actos de protección y de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares. Deberán solicitarse por el Ministerio Público a las autoridades jurisdiccionales, inmediatamente que conozca de hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres, en los términos y condiciones de la Ley y bajo el procedimiento que establezca su reglamento.
+El Consejero Presidente, el Director General y el Secretario General expedirán los nombramientos a los miembros del Servicio con el carácter que les corresponda; en el caso de las vocalías, previo acuerdo que al efecto apruebe el Consejo.
 
 ###### Artículo 43.
 
-Las órdenes de protección que consagra la presente ley son personalísimas e intransferibles y podrán ser:
+El nombramiento tendrá el carácter de:
 
-I. De emergencia;
+I. Eventual. Será aquel que tenga vigencia por tiempo determinado; y
 
-II. Preventivas; y,
+II. Permanente. Será aquel que se expida por tiempo indefinido.
 
-III. De naturaleza civil y familiar.
-
-Las órdenes de protección de emergencia y preventivas solicitadas por el Ministerio Público, en su calidad de autoridad administrativa, emitidas por la autoridad jurisdiccional, tendrán una temporalidad no mayor de setenta y dos horas y deberán expedirse dentro de las veinticuatro horas siguientes al conocimiento de los hechos que las generan.
+En ambos casos deberán cumplirse los requisitos establecidos en el presente Estatuto y de acuerdo a las necesidades de la estructura organizacional, ocupacional y a la disponibilidad presupuestal.
 
 ###### Artículo 44.
 
-Son medidas de protección de emergencia:
-
-I. Auxilio inmediato a favor de la víctima, por las corporaciones de seguridad pública, con autorización expresa de ingreso al lugar donde se localice o se encuentre la víctima en el momento de solicitar el auxilio;
-
-II. Desocupación por el agresor, del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, a fin de garantizar la seguridad personal de la víctima;
-
-III. La retención y guarda de armas de que hayan sido empleadas para amenazar o lesionar a la víctima;
-
-IV. Entrega inmediata de objetos de uso personal y documentos de identidad de la víctima y de sus hijas e hijos; y,
-
-V. Las demás establecidas en otras disposiciones legales.
+El nombramiento será acompañado de un oficio de adscripción firmado por el Director General, correspondiente al cargo o puesto a desempeñar y al nivel jerárquico que corresponda dentro de la estructura orgánica del Instituto.
 
 ###### Artículo 45.
 
-Son órdenes de protección preventivas las siguientes:
+El oficio de adscripción deberá contener:
 
-I. Prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia;
+I. Los datos generales del miembro del Servicio.
 
-II. Reingreso de la víctima al domicilio, una vez que se salvaguarde de su seguridad;
+II. La Dirección o la Unidad, el órgano, programa o proyecto del Instituto al cual se adscribe.
 
-III. Retención y guarda de armas de fuego propiedad del agresor, utilizadas para agredir a la víctima, independientemente si las mismas se encuentran registradas conforme a la normatividad en la materia;
+III. La denominación del cargo o puesto que se asigna.
 
-IV. Canalizar a la víctima a un refugio temporal;
+IV. La vigencia del oficio de adscripción.
 
-V. Inventario de bienes muebles que se encuentren e inmuebles propiedad común, incluyendo los implementos de trabajo de la víctima;
-
-VI. El uso y goce de bienes muebles que se encuentren en el inmueble que sirva de domicilio de la víctima;
-
-VII. Acceso al domicilio en común, de autoridades policíacas o de personas que auxilien a la víctima a tomar sus pertenencias personales y las de sus hijas e hijos;
-
-VIII. Brindar servicios reeducativos integrales, especializados y gratuitos, con perspectiva de género al agresor en instituciones públicas debidamente acreditadas; y,
-
-IX. Las demás establecidas en otras disposiciones legales.
+V. Los demás elementos que determine la Junta General.
 
 ###### Artículo 46.
 
-Corresponderá a la autoridad jurisdiccional en materia penal, valorar las órdenes emergentes y preventivas que solicite el Ministerio Público, quien tomará en consideración:
-
-I. La flagrancia;
-
-II. El riesgo o peligro existente;
-
-III. La seguridad de la víctima; y,
-
-IV. Los elementos con que se cuente.
+La adscripción o readscripción se llevará a cabo de acuerdo a las necesidades del Instituto y a la idoneidad del Personal del Servicio para ocupar el cargo o puesto de que se trate, sin menoscabo de las remuneraciones y prestaciones que le correspondan, con previo conocimiento del Servidor.
 
 ###### Artículo 47.
 
-Son órdenes de protección de naturaleza civil y familiar las siguientes:
+Los Directores y los Jefes de Unidades podrán solicitar a la Dirección General, la readscripción de cualquier miembro del Servicio adscrito a su área, justificando con un informe su solicitud.
 
-I. Suspensión temporal al agresor del régimen de visitar y convivencia con sus descendientes;
-
-II. Prohibición al agresor de enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal; y en cualquier caso cuando se trate de bienes de la sociedad conyugal;
-
-III. Posesión exclusiva de la víctima sobre el inmueble que sirvió de domicilio;
-
-IV. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, a efecto de garantizar las obligaciones alimentarias; y,
-
-V. Obligación alimentaria provisional e inmediata.
-
-### CAPÍTULO I. DE LA ATENCIÓN A VÍCTIMAS
+### CAPÍTULO SEXTO. DE LA OCUPACIÓN DE VACANTES
 
 ###### Artículo 48.
 
-La negativa a brindar la (sic) medidas emergentes y preventivas de protección, será considerada violencia institucional en los términos de esta ley.
+Se entenderá como vacante, la ausencia definitiva del titular de un cargo o puesto del Servicio.
 
 ###### Artículo 49.
 
-Corresponde a las autoridades jurisdiccionales dictar órdenes de protección y la determinación de medidas similares a las que se refiere este capítulo, en sus resoluciones o sentencias, con motivo de los juicios o procesos que en materia civil, familiar o penal, se estén ventilando en los tribunales competentes.
+Para ocupar los cargos o puestos considerados como vacantes, se deberá cumplir con lo siguiente:
+
+I. Estar desocupado, por separación definitiva del titular;
+
+II. Permanecer, en año electoral, desocupado por un periodo de hasta tres días naturales consecutivos, sin causa justificada;
+
+III. Por creación del cargo o puesto en el Catálogo del Servicio;
+
+IV. Por remoción;
+
+V. Por incapacidad física o mental, y
+
+VI. Por estar desocupado a causa de cambio de adscripción o ascenso de un miembro del Servicio.
 
 ###### Artículo 50.
 
-Las personas mayores de doce años de edad podrán solicitar a las autoridades competentes que los representen en sus solicitudes y acciones, a efecto de que las autoridades correspondientes puedan de manera oficiosa dar el otorgamiento de las órdenes; quienes sean menores de doce años, sólo podrán solicitar las órdenes a través de sus representantes legales.
+La ocupación de vacantes podrá llevarse a cabo mediante el ingreso a plazas permanentes o eventuales del órgano central; a plazas eventuales de los órganos desconcentrados; y, por readscripción en ambos casos.
 
 ###### Artículo 51.
 
-Las víctimas de cualquier tipo de violencia tendrán los derechos siguientes:
+La ocupación de vacantes se realizará bajo los siguientes lineamientos:
 
-I. Ser tratada con respeto en su integridad y al ejercicio pleno de sus derechos;
+I. A cargos o puestos permanentes del órgano central, será mediante la promoción y evaluación del desempeño del aspirante.
 
-II. Contar con protección inmediata y efectiva por parte de las autoridades;
+II. A cargos o puestos eventuales, cuando se deban cubrir las vacantes de urgente ocupación, para garantizar el adecuado funcionamiento tanto del órgano central como de los órganos desconcentrados, con base en las siguientes modalidades:
 
-III. Recibir información clara, precisa y suficiente que les permite decidir sobre las opciones de atención;
-
-IV. Asesoría jurídica gratuita y expedita;
-
-V. Atención médica y psicológica gratuita;
-
-VI. El resguardo temporal en un refugio;
-
-VII. Las mujeres víctimas de violencia que tengan hijas o hijos podrán acudir a los refugios con éstos; y,
-
-VIII. Las demás señalados (sic) en esta Ley, su reglamento y otras disposiciones legales.
+La ocupación de cargos o puestos eventuales, para la integración del cuerpo técnico de los órganos central y desconcentrados, será mediante evaluación de conocimientos y aptitudes, conforme al procedimiento que apruebe la Junta General.
 
 ###### Artículo 52.
 
-Las autoridades estatales y municipales, en el ámbito de sus respetivas (sic) competencias, según corresponda, deberán adoptar las medidas y acciones necesarias para brindar protección, atención psicológica y jurídica y demás servicios que requiera la mujer víctima de violencia, incluyendo su canalización a los refugios cuando requiera de un mayor tiempo de recuperación.
+La readscripción en órganos desconcentrados y central, es el acto mediante el cual el Instituto, en caso de urgencia o necesidad, adscribe a un miembro del Servicio a un área distinta a la que ocupa, en un mismo nivel u homólogo a éste. La readscripción podrá implicar movilidad del servidor electoral, más no ascenso ni promoción, aun cuando varíen sus funciones, sin afectar las percepciones del cargo o puesto del que sea titular.
 
 ###### Artículo 53.
 
-El agresor deberá participar obligatoriamente en los programas de reeducación integral, cuando se le determine por mandato de autoridad competente.
+El Consejo vigilará de manera permanente, el cumplimiento de todos los procedimientos para la ocupación de vacantes del Servicio.
 
-## TÍTULO TERCERO. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRAS (SIC) LAS MUJERES
+## TÍTULO TERCERO. DEL PROGRAMA DE CAPACITACIÓN Y DESARROLLO
 
-### CAPÍTULO II. DE LOS REFUGIOS
+### CAPÍTULO PRIMERO. DEL CONTENIDO DE LA CAPACITACIÓN Y DESARROLLO
 
 ###### Artículo 54.
 
-El Gobierno del Estado y los Ayuntamientos, se coordinarán con los diversos sectores social y privado para impulsar la creación de refugios para la atención a las víctimas de violencia.
-
-Los refugios deberán ser lugares seguros para las víctimas, por lo que no se podrá proporcionar su ubicación a personas no autorizadas para acudir a ellos.
-
-En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo de violencia.
-
-El Estado y los municipios, con la participación que corresponda de los sectores social y privado, promoverán el establecimiento de mecanismos que permitan proveer de los apoyos necesarios para que los refugios cumplan con su objeto.
+El Programa estará constituido por las actividades de carácter académico y técnico orientadas a ofrecer a los miembros del Servicio, eventuales y permanentes, conocimientos básicos, profesionales y especializados, según corresponda, que les permitan perfeccionar sus habilidades, aptitudes y mejorar sus actitudes, para su desempeño.
 
 ###### Artículo 55.
 
-La permanencia de las víctimas en los refugios será mientras persista su inestabilidad física, psicológica o su situación de riesgo.
+Las líneas generales para desarrollar el contenido de los cursos de desarrollo profesional, serán las siguientes:
 
-En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad, pero para acceder a ellos bastará la solicitud de la misma víctima a la decisión expresa del Ministerio Publico, mediante el convencimiento de la conveniencia de la víctima a adoptar la medida temporal.
+I. Derecho Constitucional Mexicano;
 
-En todo caso, los servidores públicos que intervengan en la atención a víctimas, valorarán la conveniencia de que las víctimas y su familia en riesgo, sean trasladadas a los refugios.
+II. Derecho Electoral Mexicano;
 
-En todo caso, los servidores públicos que intervengan en la atención a víctimas, escucharán y valorarán la intervención de vecinos y familiares de la víctima, en todo lo que se refiera a las medidas de protección, previstas en esta Ley.
+III. Derecho Político Mexicano;
+
+IV. Legislación Electoral del Estado de México;
+
+V. Derecho Administrativo; y
+
+VI. Administración Electoral, entre otros cursos.
+
+### CAPÍTULO SEGUNDO. DE LAS FASES DE LA CAPACITACIÓN Y DESARROLLO
 
 ###### Artículo 56.
 
-Los refugios que se constituyan, desde la perspectiva de género tendrán a su cargo:
+El Programa estará constituido por cursos tendentes a fortalecer los elementos de carácter académico y técnico, que garanticen a los miembros eventuales y permanentes del Servicio, conocimientos, habilidades y actitudes necesarias para la mejor prestación del Servicio.
 
-I. Participar en la aplicación del Programa Estatal;
+###### Artículo 57.
 
-II. Velar por la seguridad de las mujeres que se encuentren en ellos;
+El Programa estará integrado por los siguientes cursos:
 
-III. Proporcionar a las mujeres la atención necesaria para su recuperación física y psicológica, que les permita participar plenamente en la vida pública, social y privada;
+I. Curso de formación.
 
-IV. Dar información a las víctimas sobre las instituciones encargadas de prestar asesoría jurídica gratuita;
+II. Curso de formación profesional.
 
-V. Brindar a las víctimas información necesaria que les permita decidir sobre las opciones de atención;
+III. Curso de formación especializada.
 
-VI. Atender a las víctimas en los tres niveles de riesgo que son moderado, medio y alto riesgo; y,
+###### Artículo 58.
 
-VII. Todas aquellas inherentes a la prevención, protección y atención de las personas que se encuentren en ellos.
+Los contenidos del curso de formación serán de carácter general y buscarán dar homogeneidad a los conocimientos de los aspirantes y servirán para realizar la selección de quienes podrán ser admitidos en el Servicio.
 
-T R A N S I T O R I O S
+###### Artículo 59.
 
-###### ARTÍCULO PRIMERO.
+El curso de formación profesional, tendrá por objeto aportar al Personal del Servicio, mayores conocimientos relacionados con los procesos electorales.
 
-La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa", debiendo considerarse el Artículo Octavo Transitorio de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, publicada en el Diario Oficial de la Federación el primero de febrero de 2007, para que ello ocurra a más tardar el primero de agosto de 2007.
+###### Artículo 60.
 
-###### ARTÍCULO SEGUNDO.
+El curso de formación especializada, tendrá por objeto profundizar y actualizar los conocimientos del Personal del Servicio en materias o áreas específicas de interés para el Instituto. En el caso de los servidores electorales permanentes, este curso deberá diseñarse en función de los resultados obtenidos por los miembros del Servicio en la evaluación del desempeño y de los cursos de formación y de formación profesional del Programa.
 
-El Reglamento del Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres deberá expedirse dentro de los ciento veinte días siguientes a la entrada en vigor de la presente Ley.
+###### Artículo 61.
 
-###### ARTÍCULO TERCERO.
+La acreditación de todos los contenidos de un curso de formación será requisito indispensable para acceder a la fase siguiente del Programa.
 
-El Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres, se integrará dentro de los sesenta días siguientes a la entrada en vigor de la presente Ley.
+###### Artículo 62.
 
-Dicho sistema deberá formular y acordar la implementación de un Programa Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres a más tardar a los noventa días siguientes de su integración.
+La Dirección coordinará la realización de los cursos necesarios para impartir los contenidos del Programa.
 
-Es dado en el Palacio del Poder Legislativo del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los veintiséis días del mes de julio de dos mil siete.
+###### Artículo 63.
 
-C. EDUARDO ALFONSO GARRIDO ACHOY
+El Consejo aprobará, a propuesta de la Junta General, el diseño y contenidos de los documentos de las fases respectivas, así como los materiales didácticos necesarios.
 
-DIPUTADO PRESIDENTE
+###### Artículo 64.
 
-C. CECILIA GPE. MORENO GARZA
+La participación de los miembros del personal permanente del Servicio, en el curso de formación especializada, podrá llevarse a cabo simultáneamente al cumplimiento de sus responsabilidades en un cargo o puesto en el Instituto.
 
-DIPUTADA SECRETARIA
+###### Artículo 65.
 
-C. VERENICE GPE. FERNÁNDEZ MANRRÍQUEZ
+Los miembros del Servicio que acrediten los diversos cursos del Programa, podrán ser requeridos por la Dirección General para colaborar en la Impartición de asesorías sobre el contenido de las materias de cursos posteriores.
 
-DIPUTADA SECRETARIA
+###### Artículo 66.
 
-Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+La Dirección elaborará y propondrá a la Junta General, quien aprobará, en su caso, el valor curricular de las actividades de capacitación y desarrollo profesional que realicen los miembros del Servicio fuera del Programa.
 
-Es dado en el Palacio del Poder Ejecutivo del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los veintisiete días del mes de julio del año dos mil siete.
+###### Artículo 67.
 
-El Gobernador Constitucional del Estado
+La aplicación de los exámenes del Programa a los miembros permanentes del Servicio, se adaptará a las prioridades y tiempos relacionados con los procesos electorales.
 
-Lic. Jesús A. Aguilar Padilla
+###### Artículo 68.
 
-El Secretario General de Gobierno
+La Dirección, en coordinación con las Direcciones y Unidades del Instituto, promoverá actividades complementarias de formación, desarrollo profesional y especialización vinculadas con los fines y actividades del Instituto, para el personal permanente.
 
-Lic. Rafael Oceguera Ramos.
+###### Artículo 69.
 
-## TÍTULO CUARTO. DE LAS MEDIDAS DE PROTECCIÓN
+La Dirección General celebrará convenios con instituciones académicas y de educación superior, y gestionará la colaboración de profesionales, académicos o miembros del Servicio para impartir cursos de formación, profesionalización y especialización electoral para el personal que integre el Servicio. Podrá contratar personal eventual para impartir asesorías en el programa respectivo.
 
-## TÍTULO QUINTO. DE LA ATENCIÓN A VÍCTIMAS Y DE LOS REFUGIOS
+## TÍTULO CUARTO. DEL PROGRAMA DE EVALUACIÓN
+
+### CAPÍTULO PRIMERO. DE LAS EVALUACIONES
+
+###### Artículo 70.
+
+El Programa de evaluación estará compuesto por un conjunto de procedimientos e instrumentos que la Dirección propondrá a la Junta General, los cuales tendrán por objeto apoyar la toma de decisiones relativas al ingreso, permanencia, readscripción, titularidad, ascenso, otorgamiento de estímulos, formación y la promoción de los miembros del Servicio.
+
+###### Artículo 71.
+
+La Dirección llevará a cabo el Programa de Evaluación de los aspirantes y el de los miembros del Servicio, que incluirá la evaluación del curso de formación que se aplicará a los aspirantes para su selección; la evaluación del aprovechamiento de los cursos, la evaluación del desempeño; y una evaluación global, que se aplicarán a los miembros del Servicio.
+
+###### Artículo 72.
+
+Las Evaluaciones permitirán apreciar objetivamente el grado de conocimientos en la materia, el desempeño profesional, la actitud institucional y la responsabilidad de los aspirantes y de los miembros del Servicio.
+
+###### Artículo 73.
+
+La Dirección difundirá los criterios de la evaluación entre los participantes, previamente al periodo que va a ser evaluado.
+
+###### Artículo 74.
+
+La Dirección evaluará el aprovechamiento de los miembros del Servicio en los cursos. Para tal efecto, notificará, vía publicación en los estrados del Instituto, con anticipación las fechas, lugares y materias sobre las que deban presentarse los exámenes de aprovechamiento de los cursos.
+
+###### Artículo 75.
+
+La evaluación global del Personal del Servicio comprenderá la evaluación del desempeño y la evaluación del aprovechamiento en los cursos.
+
+Para la evaluación global se elaborará un promedio que tome como base los resultados de las evaluaciones de desempeño y aprovechamiento, señalando el valor que representa cada una.
+
+La Junta General establecerá el valor de cada una de ellas y el procedimiento para la obtención del promedio.
+
+###### Artículo 76.
+
+La Dirección notificará, dentro de los tres meses siguientes a la aplicación de la evaluación correspondiente, a los miembros permanentes del Servicio, por lista, las calificaciones obtenidas en la evaluación del desempeño, la evaluación del aprovechamiento en los cursos, así como el reporte de evaluación global.
+
+### CAPÍTULO SEGUNDO. DE LA EVALUACIÓN DEL DESEMPEÑO
+
+###### Artículo 77.
+
+La evaluación del desempeño es aquella que se realiza tomando en cuenta las políticas y programas del Instituto y considerando factores de eficacia, eficiencia, principios de actuación, desarrollo laboral, resultados globales, estímulos y sanciones y los demás que, en su caso, determine la Junta General.
+
+###### Artículo 78.
+
+La Junta General determinará los mecanismos y procedimientos que servirán para evaluar el desempeño del Personal del Servicio. Dicha evaluación deberá contar con la participación del superior jerárquico de cada miembro del Servicio.
+
+###### Artículo 79.
+
+La Junta General determinará los mecanismos y propondrá el diseño de las cédulas de evaluación del desempeño anual. Las Direcciones y Unidades podrán conocer y emitir las observaciones pertinentes. Tales observaciones serán valoradas y, en su caso, incorporadas por la Dirección.
+
+###### Artículo 80.
+
+Las cédulas de evaluación deberán diseñarse e instrumentarse de modo que contengan la información pormenorizada del desempeño de cada miembro del Servicio, de acuerdo a los criterios de eficacia, eficiencia, desarrollo laboral, actuación, sanciones, estímulos y resultados globales.
+
+###### Artículo 81.
+
+La Junta General aprobará, en su caso, los proyectos de dictamen de evaluación del desempeño que la Dirección le presente, sobre la base de las calificaciones que ésta haya calculado.
+
+###### Artículo 82.
+
+Las inconformidades sobre la evaluación del desempeño de los miembros del Servicio, sólo podrán presentarse por escrito y acompañadas de los elementos que las sustenten, ante la Dirección, dentro de los cinco días hábiles siguientes a la fecha de la notificación que, por lista, publique el Instituto, de los resultados de la evaluación del desempeño.
+
+La Dirección, una vez radicada la inconformidad, otorgará el plazo de 2 días para que el miembro del Servicio inconforme, alegue lo que a su derecho convenga.
+
+Agotado el plazo del párrafo anterior, elaborará el proyecto de resolución que someterá a la Junta General para su resolución.
+
+###### Artículo 83.
+
+La Dirección hará del conocimiento de la Junta General, sobre las inconformidades, la Junta General tomará en cuenta la propuesta de la Dirección, para la determinación correspondiente. Las resoluciones que se emitan al respecto serán definitivas.
+
+###### Artículo 84.
+
+La Dirección General entregará al Consejo un informe general de los resultados de la evaluación del desempeño del Personal del Servicio.
+
+###### Artículo 85.
+
+La permanencia en el Servicio, estará sujeta a la aprobación de la evaluación del desempeño.
+
+### CAPÍTULO TERCERO. DE LA EVALUACIÓN DEL APROVECHAMIENTO DE LOS CURSOS
+
+###### Artículo 86.
+
+Los aspirantes y el Personal del Servicio estarán obligados a presentar los exámenes correspondientes de las materias del Programa que en cada caso corresponda, en la fecha, lugar y hora que se señale por la Dirección.
+
+###### Artículo 87.
+
+La Dirección entregará a los miembros del Servicio, los materiales didácticos y de apoyo para el estudio de las materias del Programa, con la debida anticipación a la fecha de aplicación de los exámenes.
+
+###### Artículo 88.
+
+La Junta General, dentro de los quince días naturales siguientes a la fecha de aplicación de los exámenes, notificará, vía publicación en los estrados del Instituto, los resultados obtenidos por los sustentantes.
+
+###### Artículo 89.
+
+Los miembros del Servicio requeridos para sustentar exámenes, que por motivo de enfermedad o comisión del servicio no puedan asistir el día y hora indicados, deberán acreditar ante la Dirección su incapacidad mediante el justificante médico que les expida el Instituto de Seguridad Social del Estado de México y Municipios. Los justificantes sólo podrán presentarse hasta dos días hábiles después de la fecha del examen.
+
+###### Artículo 90.
+
+La valoración de los justificantes, tanto médicos como de comisión del servicio, quedará sujeta al dictamen que emita la Dirección. Ésta deberá notificar por escrito y en forma personal al miembro del Servicio la resolución que corresponda, dentro de los cinco días hábiles siguientes a la fecha de celebración del examen.
+
+###### Artículo 91.
+
+Los aspirantes y los miembros del Servicio podrán solicitar por escrito a la Dirección, la revisión de los exámenes, dentro de los tres días naturales siguientes a la fecha de notificación de sus resultados.
+
+## TÍTULO QUINTO. DEL PROGRAMA DE LA SELECCIÓN A CARGOS Y PUESTOS
+
+### CAPÍTULO ÚNICO. DEL PROGRAMA DE LA SELECCIÓN A CARGOS Y PUESTOS
+
+###### Artículo 92.
+
+El Programa para la Selección a cargos y puestos, será el conjunto de procedimientos que aseguren la selección de los aspirantes idóneos para desempeñar los cargos o puestos del Servicio.
+
+###### Artículo 93.
+
+La selección a cargos y puestos es el proceso de elección que realiza el Instituto de los aspirantes, para ocupar un cargo o puesto dentro de la estructura del Instituto.
+
+###### Artículo 94.
+
+El Consejo, a propuesta de la Junta General, determinará la ocupación del cargo de Vocales Municipales o Distritales, conforme al siguiente procedimiento:
+
+I. La Dirección entregará a la Junta General la lista de los miembros del Servicio que cubran los requisitos para ocupar el cargo o puesto;
+
+II. La lista la conformarán los aspirantes que hayan obtenido los mejores resultados en las evaluaciones que haya realizado la Dirección;
+
+III. La Junta General entregará la lista a los integrantes del Consejo, quienes podrán emitir las observaciones correspondientes;
+
+IV. El Consejo designará a quienes ocuparán el cargo o puesto durante el proceso electoral.
+
+## TÍTULO SEXTO. DE LA CALIFICACIÓN DE MÉRITOS Y ESTÍMULOS
+
+### CAPÍTULO PRIMERO. DE LA CALIFICACIÓN DE MÉRITOS
+
+###### Artículo 95.
+
+El Instituto podrá otorgar estímulos y recompensas para el personal eventual y permanente por su desempeño sobresaliente en el Servicio. Los estímulos podrán ser reconocimientos, beneficios o retribuciones, en los términos que establezca la Junta General, y se otorgarán de acuerdo a la disponibilidad presupuestal.
+
+###### Artículo 96.
+
+La calificación del mérito es parte sustancial de la evaluación del desempeño, que abarca tanto lo realizado por el Personal del Servicio, es decir, el cumplimiento y la obtención, de manera satisfactoria, de metas y objetivos de las actividades que le sean asignadas; así como el esfuerzo adicional susceptible de reconocimiento.
+
+Podrá considerarse como esfuerzo adicional:
+
+I. Elaboración de proyectos y propuestas que aporten beneficios al Instituto, así como la realización de trabajos de investigación en materia electoral.
+
+II. Desarrollo académico con posterioridad al ingreso al Servicio.
+
+III. Resultado de las evaluaciones periódicas.
+
+IV. Desempeño sobresaliente en el desarrollo de sus actividades laborales.
+
+V. Demás elementos que considere en su oportunidad la Junta General.
+
+###### Artículo 97.
+
+La Dirección propondrá a la Junta General el esquema para la calificación de méritos.
+
+### CAPÍTULO SEGUNDO. DE LA PROMOCIÓN Y ASCENSO
+
+###### Artículo 98.
+
+La promoción es el ascenso del personal permanente o miembros titulares en la estructura de niveles y rangos del Servicio y estará basada en los resultados de la evaluación global, de acuerdo con los lineamientos específicos que al efecto establezca la Junta General.
+
+###### Artículo 99.
+
+De acuerdo a las posibilidades presupuestales del Instituto, la Junta General convocará a participar en la promoción estableciendo, a propuesta de la Dirección, el número de promociones a otorgar en cada nivel y rango.
+
+###### Artículo 100.
+
+La Dirección, con la participación de la Dirección de Administración, someterá a la aprobación de la Junta General, los proyectos de promociones correspondientes del Servicio.
+
+###### Artículo 101.
+
+El ascenso es el derecho exclusivo del Personal permanente del Servicio para la obtención de un cargo o puesto superior en la estructura central, para ocupar los puestos que estén vacantes.
+
+###### Artículo 102.
+
+Para optar por un ascenso en la estructura de niveles y rangos, los miembros del Servicio deberán contar con al menos dos años de antigüedad efectiva en el nivel inferior del que se pretenda ascender, dándose preferencia al personal que cuente con mayores méritos y antigüedad.
+
+### CAPÍTULO TERCERO. DE LOS ESTÍMULOS
+
+###### Artículo 103.
+
+Las propuestas de candidatos a recibir estímulos, deberán presentarse ante la Junta General por conducto de la Dirección, para la aprobación definitiva.
+
+###### Artículo 104.
+
+La Dirección registrará e integrará en el expediente del Personal del Servicio, las constancias de los estímulos entregados por la Junta General.
+
+## TÍTULO SÉPTIMO. DE LOS DERECHOS, OBLIGACIONES Y RESPONSABILIDADES DEL PERSONAL DEL SERVICIO
+
+### CAPÍTULO PRIMERO. DE LOS DERECHOS Y OBLIGACIONES
+
+###### Artículo 105.
+
+El Personal del Servicio tendrá los derechos y obligaciones que se señalen para los servidores electorales, en los términos que se establecen en el Código y en la legislación laboral que le sea aplicable.
+
+### CAPÍTULO SEGUNDO. DE LAS RESPONSABILIDADES
+
+###### Artículo 106.
+
+El Personal del Servicio quedará sujeto al régimen de responsabilidades que se señala en la Normatividad de las Responsabilidades de los Servidores Electorales del Estado de México.
+
+###### Artículo 107.
+
+La Contraloría será competente para substanciar los procedimientos que se inicien con motivo de la aplicación de la Normatividad de las Responsabilidades de los Servidores Electorales del Estado de México al Personal del Servicio.
+
+## TRANSITORIOS
+
+PRIMERO.- Publíquese el Presente Estatuto del Servicio Electoral Profesional, en la Gaceta del Gobierno.
+
+SEGUNDO.- Las convocatorias a que se refiere el artículo 26 fracciones I y II, del presente estatuto, por esta única vez, se realizarán para los procesos electorales 2002-2003, en los plazos y términos que apruebe el Consejo.
+
+TERCERO.- Los servidores electorales que pertenezcan al órgano central podrán ingresar al Servicio, siempre y cuando cumplan con los requisitos que se estipulan en el presente estatuto.
+
+CUARTO.- El Director General proveerá todo lo necesario para el establecimiento y funcionamiento del Servicio Electoral Profesional.
+
+Toluca de Lerdo, Méx., a 27 de mayo del 2002
+
+"TU HACES LA MEJOR ELECCIÓN"
+
+A T E N T A M E N T E
+
+LA CONSEJERA PRESIDENTA DEL CONSEJO GENERAL
+
+LIC. MARIA LUISA FARRERA PANIAGUA
+
+(RUBRICA)
+
+EL SECRETARIO DEL CONSEJO GENERAL
+
+LIC. JOSE BERNARDO GARCIA CISNEROS
+
+(RUBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+G.G. 22 DE ENERO DE 2009.
+
+A CONTINUACION SE TRANSCRIBEN LOS TRANSITORIOS DEL ACUERDO N°. JG/01/2009, QUE SE RELACIONAN CON EL ESTATUTO.
+
+PRIMERO.- Publíquese el presente Acuerdo y su anexo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Acuerdo surtirá efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Estatuto aprobado mediante Acuerdo número 11 (once), de fecha veintisiete de mayo del año dos mil dos, hasta que el Tribunal Electoral pronuncie, en su caso, la última resolución relacionada con el proceso electoral 2009.
+
+CUARTO.- Los procedimientos del Servicio Electoral Profesional se sujetarán al Estatuto que se encuentre vigente hasta que concluya el proceso electoral 2009.
+
+TRANSITORIOS DEL ESTATUTO DEL SERVICIO ELECTORAL PROFESIONAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO.
+
+PRIMERO. El Servicio Electoral Profesional señalado en el presente Estatuto, iniciará su implementación una vez que el Tribunal Electoral pronuncie, en su caso, la última resolución relacionada con el proceso electoral 2009, con lo cual se considerará concluido el mismo.
+
+SEGUNDO. Las atribuciones establecidas en el Estatuto del 27 de mayo de 2002, al Director General y al Secretario General, serán asumidas por el Secretario Ejecutivo General; así mismo, las funciones encomendadas en dicho Estatuto a la Unidad de Contraloría Interna, las realizará la Contraloría General, hasta que se implemente el presente Estatuto, en concordancia con la reforma aprobada por la LVI Legislatura Local, mediante Decreto No. 196.
+
+TERCERO. La Secretaría Ejecutiva General proveerá todo lo necesario para el establecimiento y funcionamiento del Servicio Electoral Profesional de los órganos centrales.
+
+CUARTO. Al entrar en vigor este Estatuto, por esta única vez, los servidores electorales de los órganos centrales que ocupen una plaza permanente, considerada en el Catálogo de Cargos y Puestos del Servicio Electoral Profesional, serán considerados aspirantes a la titularidad, en tanto reciben el curso de formación básica electoral correspondiente y en su caso, mediante la acreditación del curso, además del cumplimiento de los requisitos adicionales marcados en el artículo 41 del presente Estatuto, obtener nombramiento titular; empero, para conservar la titularidad deberá cumplirse con los requisitos que para tal efecto se establecen en el presente Estatuto.
+
+QUINTO. Previo a la implementación del Servicio Electoral Profesional, y a propuesta de la Dirección del Servicio Electoral Profesional, la Junta General elaborará el Catálogo de Cargos y Puestos que corresponda con la descripción hecha en el Manual de Organización de cada área del Instituto, para su aprobación definitiva por parte del Consejo General.
