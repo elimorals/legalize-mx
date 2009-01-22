@@ -4,7 +4,7 @@ identifier: "MEX-estatuto-del-servicio-electoral-profesional-25703"
 country: "mx"
 rank: "estatuto"
 publication_date: "2002-05-28"
-last_updated: "2002-05-28"
+last_updated: "2009-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 ESTATUTO DEL SERVICIO ELECTORAL PROFESIONAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ESTATUTO DEL SERVICIO ELECTORAL PROFESIONAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, PUBLICADO EN LA G.G. DE 22 DE ENERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Estatuto publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el martes 28 de mayo de 2002.
 
@@ -918,3 +920,29 @@ EL SECRETARIO DEL CONSEJO GENERAL
 LIC. JOSE BERNARDO GARCIA CISNEROS
 
 (RUBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+G.G. 22 DE ENERO DE 2009.
+
+A CONTINUACION SE TRANSCRIBEN LOS TRANSITORIOS DEL ACUERDO N°. JG/01/2009, QUE SE RELACIONAN CON EL ESTATUTO.
+
+PRIMERO.- Publíquese el presente Acuerdo y su anexo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Acuerdo surtirá efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Estatuto aprobado mediante Acuerdo número 11 (once), de fecha veintisiete de mayo del año dos mil dos, hasta que el Tribunal Electoral pronuncie, en su caso, la última resolución relacionada con el proceso electoral 2009.
+
+CUARTO.- Los procedimientos del Servicio Electoral Profesional se sujetarán al Estatuto que se encuentre vigente hasta que concluya el proceso electoral 2009.
+
+TRANSITORIOS DEL ESTATUTO DEL SERVICIO ELECTORAL PROFESIONAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO.
+
+PRIMERO. El Servicio Electoral Profesional señalado en el presente Estatuto, iniciará su implementación una vez que el Tribunal Electoral pronuncie, en su caso, la última resolución relacionada con el proceso electoral 2009, con lo cual se considerará concluido el mismo.
+
+SEGUNDO. Las atribuciones establecidas en el Estatuto del 27 de mayo de 2002, al Director General y al Secretario General, serán asumidas por el Secretario Ejecutivo General; así mismo, las funciones encomendadas en dicho Estatuto a la Unidad de Contraloría Interna, las realizará la Contraloría General, hasta que se implemente el presente Estatuto, en concordancia con la reforma aprobada por la LVI Legislatura Local, mediante Decreto No. 196.
+
+TERCERO. La Secretaría Ejecutiva General proveerá todo lo necesario para el establecimiento y funcionamiento del Servicio Electoral Profesional de los órganos centrales.
+
+CUARTO. Al entrar en vigor este Estatuto, por esta única vez, los servidores electorales de los órganos centrales que ocupen una plaza permanente, considerada en el Catálogo de Cargos y Puestos del Servicio Electoral Profesional, serán considerados aspirantes a la titularidad, en tanto reciben el curso de formación básica electoral correspondiente y en su caso, mediante la acreditación del curso, además del cumplimiento de los requisitos adicionales marcados en el artículo 41 del presente Estatuto, obtener nombramiento titular; empero, para conservar la titularidad deberá cumplirse con los requisitos que para tal efecto se establecen en el presente Estatuto.
+
+QUINTO. Previo a la implementación del Servicio Electoral Profesional, y a propuesta de la Dirección del Servicio Electoral Profesional, la Junta General elaborará el Catálogo de Cargos y Puestos que corresponda con la descripción hecha en el Manual de Organización de cada área del Instituto, para su aprobación definitiva por parte del Consejo General.
