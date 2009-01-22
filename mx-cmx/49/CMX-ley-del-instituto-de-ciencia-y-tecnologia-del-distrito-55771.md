@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-instituto-de-ciencia-y-tecnologia-del-distrito-55771"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-01"
-last_updated: "2007-06-01"
+last_updated: "2009-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55771&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-05-09"
 
 LEY DEL INSTITUTO DE CIENCIA Y TECNOLOGIA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE ENERO DE 2009.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 1 de junio de 2007.
 
@@ -962,6 +962,10 @@ Se considera de interés público y utilidad social las actividades de moderniza
 
 En materia de innovación y desarrollo tecnológico, y como parte de sus acciones permanentes, el Instituto deberá realizar el asesoramiento, capacitación y prestación de servicios que propicien el uso intensivo del conocimiento y tecnología en los procesos productivos, la promoción de la metrología, y el establecimiento de normas de calidad y la certificación en términos de lo dispuesto en la legislación de la materia. Estas funciones deberán respaldarse con los recursos, el personal especializado y la infraestructura requerida.
 
+> <small>(ADICIONADO, G.O. 22 DE ENERO DE 2009)</small>
+
+Para dar cumplimiento a lo anterior el Instituto conjuntamente con el sector productivo financiará hasta por un año la estancia de investigadores en las empresas públicas y privadas.
+
 ###### ARTÍCULO 59.
 
 En la constitución y operación de los instrumentos o apoyos a que se refiere esta Ley, el Instituto concederá prioridad a los proyectos cuyo propósito sea promover la modernización, la innovación y el desarrollo tecnológico en la entidad, cuando los proyectos estén vinculados con empresas o entidades susceptibles de utilizar intensivamente la tecnología, con énfasis en el ámbito de la pequeña y mediana empresa. También serán prioritarios los proyectos que propongan lograr un uso racional, eficiente y sustentable de los recursos naturales, así como el desarrollo de proyectos que propicien la integración y operación de cadenas productivas y su interacción con el Sistema.
@@ -1061,3 +1065,13 @@ El Jefe de Gobierno deberá constituir el Gabinete de Educación, Ciencia y Cult
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintisiete días del mes de abril del año dos mil siete. POR LA MESA DIRECTIVA.- DIP. RAMÓN JIMÉNEZ LÓPEZ, PRESIDENTE.- DIP. EDY ORTÍZ PIÑA, SECRETARIO.- DIP. CELINA SAAVEDRA ORTEGA, SECRETARIA.- Firmas.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los nueve días del mes de mayo de dos mil siete. EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- LA SECRETARIA DE MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE SALUD, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, AXEL DIDRIKSSON TAKAYANAGUI.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 22 DE ENERO DE 2009.
+
+Primero. La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del D.F.
+
+Segundo. El Instituto de Ciencia y Tecnología del D.F. hará las previsiones presupuestales correspondientes para el ejercicio fiscal 2009 para dar cumplimiento a esta reforma.
+
+Tercero. El Instituto de Ciencia y Tecnología del D.F. publicará las reglas de operación correspondientes a más tardar 60 días después de la publicación de la presente reforma y establecerá en el Programa de Estancias de Investigadores en el sector productivo la vigencia mínima de un año.
