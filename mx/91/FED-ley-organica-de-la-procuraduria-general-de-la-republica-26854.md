@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-procuraduria-general-de-la-republica-26854"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-27"
-last_updated: "2002-12-27"
+last_updated: "2009-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26854&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-12-26"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE LA REPUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 27 de diciembre de 2002.
 
@@ -201,9 +201,15 @@ VII. Orientar a los particulares respecto de asuntos que presenten ante el Minis
 
 VIII. Ofrecer y entregar, con cargo a su presupuesto, recompensas en numerario a aquellas personas a quienes auxilien eficientemente otorgando información sobre las averiguaciones que realice, o bien, a quienes colaboren en la localización o detención de personas en contra de las cuales existan mandamiento judicial de aprehensión, en los términos y condiciones que, por acuerdo específico, el Procurador General de la República determine;
 
-IX. Celebrar acuerdos o convenios con las instituciones públicas o privadas para garantizar a los inculpados, ofendidos, víctimas, denunciantes y testigos pertenecientes a los pueblos y comunidades indígenas, la disponibilidad de intérpretes y traductores, y
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2009)</small>
 
-X. Las demás que prevean otras disposiciones legales.
+IX. Celebrar acuerdos o convenios con las instituciones públicas o privadas para garantizar a los inculpados, ofendidos, víctimas, denunciantes y testigos pertenecientes a los pueblos y comunidades indígenas, la disponibilidad de intérpretes y traductores;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2009)</small>
+
+X. Prestar el apoyo y protección suficiente a las víctimas, ofendidos, testigos, peritos, jueces, magistrados, agentes del Ministerio Público, de la policía y demás sujetos, cuando por su intervención en un procedimiento penal así lo requieran, y
+
+XI. Las demás que prevean otras disposiciones legales.
 
 ###### Artículo 6.
 
@@ -1053,6 +1059,14 @@ El personal que preste sus servicios en la Institución se regirá por las dispo
 
 Serán considerados trabajadores de confianza los servidores públicos, distintos de los miembros del Servicio de Carrera de Procuración de Justicia Federal, de las categorías y funciones previstas en la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables.
 
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2009)</small>
+
+###### Artículo 76.
+
+Los Agentes del Ministerio Público y peritos, así como los agentes de la policía federal investigadora, podrán ser separados de sus cargos si no cumplen con los requisitos de permanencia que establezcan las leyes vigentes o cuando sean removidos por haber incurrido en alguna causa de responsabilidad en el desempeño de sus funciones.
+
+Si la separación, remoción, baja, cese, destitución o cualquier otra forma de terminación del servicio fue injustificada, el Estado estará obligado a pagar la indemnización y demás prestaciones, sin que proceda en ningún caso la reincorporación al servicio.
+
 ## TRANSITORIOS
 
 PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1078,3 +1092,13 @@ NOVENO.- Cuando se expida el Reglamento de la Ley Orgánica de la Procuraduría 
 México, D.F., a 12 de diciembre de 2002.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Sara I. Castellanos C., Secretario.- Dip. Rodolfo Dorador Pérez Gavilán, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 23 DE ENERO DE 2009.
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+...
