@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2008-10-24"
+last_updated: "2009-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PENAL DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -2421,7 +2421,7 @@ III. Asiente datos falsos en los registros, bitácoras o cualquier otro document
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-ARTÍCULO 291 BIS 3. SANCIONES Y FIGURAS TÍPICAS DEL DELITO CONTRA LA ORDENACIÓN DE LOS ECOSISTEMAS TERRESTRES COMETIDO POR LA AUTORIDAD. Se aplicará prisión de tres a nueve años y multa, destitución del cargo e inhabilitación de cinco a diez años para desempeñar cualquier otro, al servidor público que sin la autorización legal de la autoridad competente o sin causa que lo legitime, intervenga en la concesión, cambio de uso, desincorporación, afectación o desafectación, permuta, enajenación o usufructo, total o parcial de un área natural protegida, suelo de conservación considerado en programas de ordenamiento ecológico, barrancas o áreas verdes en suelo urbano, que se encuentren bajo la administración del Gobierno del Estado o de las autoridades municipales.
+ARTÍCULO 291 BIS 3. SANCIONES Y FIGURAS TIPÍCAS DEL DELITO CONTRA LA ORDENACIÓN DE LOS ECOSISTEMAS TERRESTRES COMETIDO POR LA AUTORIDAD. Se aplicará prisión de tres a nueve años y multa, destitución del cargo e inhabilitación de cinco a diez años para desempeñar cualquier otro, al servidor público que sin la autorización legal de la autoridad competente o sin causa que lo legitime, intervenga en la concesión, cambio de uso, desincorporación, afectación o desafectación, permuta, enajenación o usufructo, total o parcial de un área natural protegida, suelo de conservación considerado en programas de ordenamiento ecológico, barrancas o áreas verdes en suelo urbano, que se encuentren bajo la administración del Gobierno del Estado o de las autoridades municipales.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -3173,7 +3173,9 @@ DELITOS CONTRA LA FAMILIA
 
 SANCIONES Y FIGURA TÍPICA DE VIOLENCIA FAMILIAR. Se aplicarán de seis meses a seis años de prisión, multa y suspensión del derecho de recibir alimentos hasta por tres años:
 
-Al cónyuge, concubina o concubinario; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado; pariente colateral consanguíneo o por afinidad hasta el cuarto grado; que ejerza la fuerza física o moral de manera reiterada con relación a la integridad física, psíquica o ambas, de algún miembro de la familia; independientemente de que pueda producir o no lesiones.
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2009)</small>
+
+Al cónyuge, concubina o concubinario; compañera o compañero civil, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado; pariente colateral consanguíneo o por afinidad hasta el cuarto grado; que ejerza violencia física o moral con relación a la integridad física, psíquica o ambas, de algún miembro de la familia; independientemente de que pueda producir o no lesiones.
 
 Asimismo, como medida de seguridad, se le podrá sujetar a un tratamiento psicológico especializado.
 
@@ -3187,11 +3189,11 @@ SANCIONES Y FIGURA TÍPICA EQUIPARADA AL DE VIOLENCIA FAMILIAR. Se equipara a la
 
 Este delito se perseguirá por querella de la parte ofendida; salvo que la víctima sea menor de edad o incapaz, casos que se perseguirán de oficio.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2009)</small>
 
 ###### ARTÍCULO 312.
 
-SANCIONES ADICIONALES CON RELACIÓN AL DELITO DE VIOLENCIA FAMILIAR, PROPIO O EQUIPARADO. En los casos de los dos artículos precedentes, se podrá aplicar al responsable la prohibición de ir a lugar determinado donde residan los ofendidos para salvaguardar su integridad física o psíquica.
+SANCIONES ADICIONALES CON RELACIÓN AL DELITO DE VIOLENCIA FAMILIAR, PROPIO O EQUIPARADO. En los casos de los dos artículos precedentes, se podrá aplicar al responsable la prohibición de ir a lugar determinado donde residan los ofendidos para salvaguardar su integridad física o psíquica. Si el sujeto activo ejerce la patria potestad sobre el pasivo, además se le sancionará con la pérdida de ésta.
 
 > <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
@@ -3215,7 +3217,7 @@ SANCIONES Y FIGURA TÍPICA DE INCUMPLIMIENTO DE LAS OBLIGACIONES BÁSICAS DE ASI
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-ARTÍCULO 316 BIS. SANCIÓN Y FIGURA TÍPICA DE ABANDONO DE MUJER GESTANTE EN SITUACIÓN CRITICA. Se aplicará prisión de seis meses a cuatro años, multa y pérdida de derechos familiares, en su caso, al que abandone a una mujer en gestación, a la que ha embarazado en precaria situación económica o de salud, poniendo en grave riesgo al ser humano en formación.
+ARTÍCULO 316 BIS. SANCIÓN Y FIGURA TIPICA DE ABANDONO DE MUJER GESTANTE EN SITUACIÓN CRITICA. Se aplicará prisión de seis meses a cuatro años, multa y pérdida de derechos familiares, en su caso, al que abandone a una mujer en gestación, a la que ha embarazado en precaria situación económica o de salud, poniendo en grave riesgo al ser humano en formación.
 
 Este delito se perseguirá siempre a petición de parte ofendida.
 
@@ -4652,3 +4654,9 @@ TERCERO. El Instituto Coahuilense de las Mujeres, contará con un plazo de seis 
 CUARTO. El Instituto Coahuilense de las Mujeres creará el Reglamento para la Cooperación y Funcionamiento de las Redes de Apoyo a Mujeres Embarazadas de Coahuila.
 
 QUINTO. Publíquese el presente decreto en el Periódico Oficial del Estado.
+
+P.O. 23 DE ENERO DE 2009.
+
+PRIMERO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
