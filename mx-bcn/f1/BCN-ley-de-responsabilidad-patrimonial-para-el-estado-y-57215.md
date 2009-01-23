@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidad-patrimonial-para-el-estado-y-57215"
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-05"
-last_updated: "2007-10-05"
+last_updated: "2009-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 5 de octubre de 2007.
 
@@ -477,7 +477,9 @@ Las cantidades que se obtengan con motivo de las sanciones económicas que las a
 
 ## ARTÍCULOS TRANSITORIOS
 
-PRIMERO.- La presente Ley entrará en vigor el día primero de enero del 2009.
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2009)</small>
+
+PRIMERO.- La presente Ley entrará en vigor el día primero de enero del dos mil once.
 
 SEGUNDO.- Los entes públicos obligados conforme a la presente Ley, deberán emitir su reglamento dentro de los noventa días naturales siguientes a la publicación de la misma.
 
@@ -485,7 +487,9 @@ TERCERO.- En el caso de que a la entrada en vigor de la presente Ley, algún ent
 
 CUARTO.- Los entes públicos obligados a indemnizar por responsabilidad patrimonial, dentro del año siguiente a la publicación de la presente Ley, deberán emitir y hacer del conocimiento público, los estándares de servicio para cada una de las actividades que tienen encomendadas que pueden ser generadoras de daños a los particulares.
 
-QUINTO.- Los entes públicos, incluirán a partir del ejercicio fiscal 2009 en sus respectivos presupuestos, una partida que haga frente a su posible responsabilidad patrimonial.
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2009)</small>
+
+QUINTO.- Los entes públicos, incluirán a partir del ejercicio fiscal dos mil once en sus respectivos presupuestos, una partida que haga frente a su posible responsabilidad patrimonial.
 
 SEXTO.- Los asuntos relacionados con indemnizaciones a particulares que se encuentren en trámite en los entes públicos, como consecuencia de las faltas administrativas en las que hubieren incurrido servidores públicos, se atenderán hasta su terminación de acuerdo con las disposiciones vigentes en la fecha en que se inició el procedimiento.
 
@@ -514,3 +518,9 @@ EUGENIO ELORDUY WALTHER.
 SECRETARIO GENERAL DE GOBIERNO.
 
 BERNARDO H. MARTÍNEZ AGUIRRE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE ENERO DE 2009.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL CODIGO CIVIL FEDERAL VIGENTE.
