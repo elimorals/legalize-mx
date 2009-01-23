@@ -4,7 +4,7 @@ identifier: "FED-ley-que-establece-las-normas-minimas-sobre-readaptacion-2572"
 country: "mx"
 rank: "ley"
 publication_date: "1971-05-19"
-last_updated: "2004-09-02"
+last_updated: "2009-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2572&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1971-02-08"
 
 LEY QUE ESTABLECE LAS NORMAS MINIMAS SOBRE READAPTACION SOCIAL DE SENTENCIADOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 19 de mayo de 1971.
 
@@ -47,29 +47,33 @@ Las presentes Normas tienen como finalidad organizar el sistema penitenciario en
 
 El sistema penal se organizará sobre la base del trabajo, la capacitación para el mismo y la educación como medios para la readaptación social del delincuente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 3o.
 
-La Dirección General de Servicios Coordinados de Prevención y Readaptación Social, dependiente de la Secretaría de Gobernación, tendrá a su cargo aplicar estas normas en el Distrito Federal y en los reclusorios dependientes de la Federación. Asimismo, las normas se aplicarán, en lo pertinente, a los reos federales sentenciados en toda la República y se promoverá su adopción por parte de los Estados. Para este último efecto, así como para la orientación de las tareas de prevención social de la delincuencia, el Ejecutivo Federal podrá celebrar convenios de coordinación con los gobiernos de los Estados.
+La Secretaría de Seguridad Pública tendrá a su cargo aplicar estas normas en el Distrito Federal y en los reclusorios dependientes de la Federación. Asimismo, las normas se aplicarán, en lo pertinente, a los reos federales sentenciados en toda la República y se promoverá su adopción por parte de las entidades federativas. Para este último efecto, así como para la orientación de las tareas de prevención social de la delincuencia, el Ejecutivo Federal podrá celebrar convenios de coordinación con los gobiernos de las entidades federativas.
 
 En dichos convenios se determinará lo relativo a la creación y manejo de instituciones penales de toda índole, entre las que figurarán las destinadas al tratamiento de adultos delincuentes, alienados que hayan incurrido en conductas antisociales y menores infractores, especificándose la participación que en cada caso corresponde a los Gobiernos Federal y Locales.
 
 Los convenios podrán ser concertados entre el Ejecutivo Federal y un solo Estado, o entre aquél y varias entidades federativas, simultáneamente, con el propósito de establecer, cuando así lo aconsejen las circunstancias, sistemas regionales.
 
-> <small>(ADICIONADO, D.O.F. 2 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2009)</small>
 
-Podrá convenirse también que los reos sentenciados por delitos del orden federal compurguen sus penas en los centros penitenciarios a cargo de los Gobiernos Estatales, cuando estos centros se encuentren más cercanos a su domicilio que los del Ejecutivo Federal, y que por la mínima peligrosidad del recluso, a criterio de la Dirección General de Servicios Coordinados de la Prevención y Readaptación Social, ello sea posible. Para los efectos anteriores, en caso de reos indígenas sentenciados, se considerarán los usos y costumbres, así como las circunstancias en las que se cometió el delito. Esta medida no podrá otorgarse tratándose de reclusos sentenciados por alguno o más de los delitos que prevé la Ley Federal contra la Delincuencia Organizada.
+Podrá convenirse también que los reos sentenciados por delitos del orden federal compurguen sus penas en los centros penitenciarios a cargo de los Gobiernos Estatales, cuando estos centros se encuentren más cercanos a su domicilio que los del Ejecutivo Federal, y que por la mínima peligrosidad del recluso, a criterio de la Secretaría de Seguridad Pública, ello sea posible.
 
-> <small>(ADICIONADO, D.O.F. 2 DE SEPTIEMBRE DE 2004)</small>
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2009)</small>
 
-En los convenios a que se refiere el presente artículo, podrá acordarse también que tratándose de reos sentenciados por delitos del orden común, puedan cumplir su condena en un centro federal si éste se encuentra más cercano a su domicilio.
+Para los efectos anteriores, en caso de reos indígenas sentenciados, se considerarán los usos y costumbres, así como las circunstancias en las que se cometió el delito. Esta medida no podrá otorgarse tratándose de reclusos sentenciados por alguno o más de los delitos que prevé la Ley Federal contra la Delincuencia Organizada y respecto de otros internos que requieran medidas especiales de seguridad, de conformidad con lo previsto en el artículo 6o., párrafo cuarto, de este ordenamiento.
 
-Lo anterior se entiende sin perjuicio de lo prescrito en el artículo 18 Constitucional acerca de convenios para que los reos sentenciados por delitos del orden común extingan su condena en establecimientos dependientes del Ejecutivo Federal.
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2009)</small>
 
-> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 1984)</small>
+En los convenios a que se refiere este artículo podrá acordarse que los sentenciados por delitos del ámbito de su competencia extingan las penas en establecimientos penitenciarios dependientes de una jurisdicción diversa.
 
-La Dirección General de Servicios Coordinados de Prevención y Readaptación Social tendrá a su cargo, asimismo, la ejecución de las sanciones que, por sentencia judicial, sustituyan a la pena de prisión o a la multa, y las de tratamiento que el juzgador aplique, así como la ejecución de las medidas impuestas a inimputables, sin perjuicio de la intervención que a este respecto deba tener, en su caso y oportunidad, la autoridad sanitaria.
+> <small>(DEROGADO ANTERIOR SEXTO PARRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2009)</small>
+
+La Secretaría de Seguridad Pública tendrá a su cargo, asimismo, la ejecución de las sanciones que, por sentencia judicial, sustituyan a la pena de prisión o a la multa, y las de tratamiento que el juzgador aplique, así como la ejecución de las medidas impuestas a inimputables, sin perjuicio de la intervención que a este respecto deba tener, en su caso y oportunidad, la autoridad sanitaria.
 
 ### CAPITULO II. Personal
 
@@ -77,23 +81,67 @@ La Dirección General de Servicios Coordinados de Prevención y Readaptación So
 
 Para el adecuado funcionamiento del sistema penitenciario, en la designación del personal directivo, administrativo, técnico y de custodia de las instituciones de internamiento se considerará la vocación, aptitudes, preparación académica y antecedentes personales de los candidatos.
 
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2009)</small>
+
 ###### ARTICULO 5o.
 
-Los miembros del personal penitenciario quedan sujetos a la obligación de seguir, antes de la asunción de su cargo y durante el desempeño de éste, los cursos de formación y de actualización que se establezcan, así como de aprobar los exámenes de selección que se implanten. Para ello, en los convenios se determinará la participación que en este punto habrá de tener el servicio de selección y formación de personal, dependiente de la Dirección General de Servicios Coordinados de Prevención y Readaptación Social.
+Los miembros del personal penitenciario quedan sujetos a la obligación de seguir, antes de la asunción de su cargo y durante el desempeño de éste, los cursos de formación y de actualización que se establezcan, así como de aprobar los exámenes de selección y permanencia que se implanten. Para ello, en los convenios se determinará la participación que en este punto habrá de tener el servicio de selección y formación de personal, dependiente de la Secretaría de Seguridad Pública.
 
 ### CAPITULO III. Sistema
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 6o.
 
-El tratamiento será individualizado, con aportación de las diversas ciencias y disciplinas pertinentes para la reincorporación social del sujeto, consideradas sus circunstancias personales, sus usos y costumbres tratándose de internos indígenas, así como la ubicación de su domicilio, a fin de que puedan compurgar sus penas en los centros penitenciarios más cercanos a aquél.
+El tratamiento será individualizado, con aportación de las diversas ciencias y disciplinas pertinentes para la reincorporación social del sujeto, consideradas sus circunstancias personales, sus usos y costumbres tratándose de internos indígenas, así como la ubicación de su domicilio, a fin de que puedan compurgar sus penas en los centros penitenciarios más cercanos a aquél, esto último, con excepción de los sujetos internos por delincuencia organizada y de aquellos que requieran medidas especiales de seguridad.
 
 Para la mejor individualización del tratamiento y tomando en cuenta las condiciones de cada medio y las posibilidades presupuestales, se clasificará a los reos en instituciones especializadas, entre las que podrán figurar establecimientos de seguridad máxima, media y mínima, colonias y campamentos penales, hospitales psiquiátricos y para infecciosos e instituciones abiertas.
 
 El sitio en que se desarrolle la prisión preventiva será distinto del que se destine para la extinción de las penas y estarán completamente separados. Las mujeres quedarán recluidas en lugares separados de los destinados a los hombres. Los menores infractores serán internados, en su caso, en instituciones diversas de las asignadas a los adultos.
 
-En la construcción de nuevos establecimientos de custodia y ejecución de sanciones y en el remozamiento o la adaptación de los existentes, la Dirección General de Servicios Coordinados de Prevención y Readaptación Social tendrá las funciones de orientación técnica y las facultades de aprobación de proyectos a que se refieren los convenios.
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2009)</small>
+
+En materia de delincuencia organizada, la reclusión preventiva y la ejecución de penas se llevarán a cabo en los centros especiales, del Distrito Federal y de los Estados, de alta seguridad, de conformidad con los convenios respectivos para estos últimos. Lo anterior también podrá aplicarse a otros internos que requieran medidas especiales de seguridad, en los siguientes casos:
+
+I. Tratándose de inculpados respecto de los cuales se haya ejercitado la acción penal en términos del artículo 10, párrafo tercero del Código Federal de Procedimientos Penales;
+
+II. Que el interno cometa conductas presuntamente delictivas en los centros penitenciarios, o que haya indicios de que acuerda o prepara nuevas conductas delictivas desde éstos;
+
+III. Cuando algún interno esté en riesgo en su integridad personal o su vida por la eventual acción de otras personas;
+
+IV. Cuando el interno pueda poner en riesgo a otras personas;
+
+V. En aquellos casos en que la autoridad lo considere indispensable para la seguridad del interno o de terceros, y
+
+VI. Cuando así lo determine el perfil clínico criminológico que le realice la autoridad penitenciaria.
+
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2009)</small>
+
+Las autoridades competentes podrán restringir las comunicaciones de los inculpados y sentenciados por delincuencia organizada con terceros, salvo el acceso a su defensor, e imponer medidas de vigilancia especial a quienes se encuentren internos. Lo anterior podrá aplicarse a otros internos que requieran medidas especiales de seguridad, en términos de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2009)</small>
+
+Para los efectos del párrafo anterior, serán autoridades competentes:
+
+a) Durante el proceso, el juez de la causa, a solicitud del Ministerio Público, y
+
+b) Durante la ejecución de la sentencia, el director del reclusorio, con ratificación posterior del consejo técnico interdisciplinario.
+
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2009)</small>
+
+El responsable del centro de reclusión deberá aplicar la restricción de comunicaciones en los términos en que haya sido ordenada o ratificada.
+
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2009)</small>
+
+Serán causas para la restricción de comunicaciones y la imposición de medidas de vigilancia especial:
+
+I. Que el interno obstaculice el proceso penal en su contra o el desarrollo de investigaciones a cargo del Ministerio Público; cometa o intente cometer probables conductas delictivas, o exista riesgo fundado de que se evada de la acción de la justicia, o
+
+II. Que el interno realice o intente realizar actos que pongan en peligro bienes relevantes como la vida, la seguridad de los centros especiales o la integridad de los internos, de las visitas, del personal penitenciario.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2009)</small>
+
+En la construcción de nuevos establecimientos de custodia y ejecución de sanciones y en el remozamiento o la adaptación de los existentes, la Secretaría de Seguridad Pública tendrá las funciones de orientación técnica y las facultades de aprobación de proyectos a que se refieren los convenios.
 
 ###### ARTICULO 7o.
 
@@ -129,9 +177,15 @@ Se creará en cada reclusorio un Consejo Técnico interdisciplinario, con funcio
 
 El Consejo, presidido por el Director del establecimiento, o por el funcionario que le sustituya en sus faltas, se integrará con los miembros de superior jerarquía del personal directivo, administrativo, técnico y de custodia, y en todo caso formarán parte de él un médico y un maestro normalista. Cuando no haya médico ni maestro adscritos al reclusorio, el Consejo se compondrá con el Director del Centro de Salud y el Director de la escuela federal o estatal de la localidad y a falta de estos funcionarios, con quienes designe el Ejecutivo del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
+
 ###### ARTICULO 10.
 
-La asignación de los internos al trabajo se hará tomando en cuenta los deseos, la vocación, las aptitudes, la capacitación laboral para el trabajo en libertad y el tratamiento de aquéllos, así como la (sic) posibilidades del reclusorio. El trabajo en los reclusorios se organizará previo estudio de las características de la economía local, especialmente del mercado oficial, a fin de favorecer la correspondencia entre las demandas de éste y la producción penitenciaria, con vistas a la autosuficiencia economica del establecimiento. Para este último efecto, se trazará un plan de trabajo y producción que será sometido a aprobación del Gobierno del Estado y, en los términos del convenio respectivo, de la Dirección General de Servicios Coordinados.
+La asignación de los internos al trabajo se hará tomando en cuenta los deseos, la vocación, las aptitudes, la capacitación laboral para el trabajo en libertad y el tratamiento de aquéllos, así como las posibilidades del reclusorio. El trabajo en los reclusorios se organizará previo estudio de las características de la economía local, especialmente del mercado oficial, a fin de favorecer la correspondencia entre las demandas de éste y la producción penitenciaria, con vistas a la autosuficiencia económica del establecimiento.
+
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2009)</small>
+
+Para este último efecto, se trazará un plan de trabajo y producción que será sometido a aprobación del Gobierno de la entidad federativa y, en los términos del convenio respectivo, de la Secretaría de Seguridad Pública.
 
 Los reos pagarán su sostenimiento en el reclusorio con cargo a la percepción que en éste tengan como resultado del trabajo que desempeñen. Dicho pago se establecerá a base de descuentos correspondientes a una proporción adecuada de la remuneración, proporción que deberá ser uniforme para todos los internos de un mismo establecimiento. El resto del producto del trabajo se distribuirá del modo siguiente: treinta por ciento para el pago de la reparación del daño, treinta por ciento para el sostenimiento de los dependientes económicos del reo, treinta por ciento para la constitución del fondo de ahorros de éste, y diez por ciento para los gastos menores del reo. Si no hubiese condena a reparación del daño o éste ya hubiera sido cubierto, o si los dependientes del reo no están necesitados, las cuotas respectivas se aplicarán por partes iguales a los fines señalados, con excepción del indicado en último término.
 
@@ -167,6 +221,36 @@ Se prohiben todo castigo consistente en torturas o en tratamientos crueles, con 
 
 Se favorecerá el desarrollo de todas las demás medidas de tratamiento compatibles con el régimen establecido en estas Normas, con las previsiones de la Ley y de los convenios y con las circunstancias de la localidad y de los internos.
 
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2009)</small>
+
+###### ARTICULO 14 Bis.
+
+Las medidas de vigilancia especial podrán consistir en:
+
+I. Instalación de cámaras de vigilancia en los dormitorios, módulos, locutorios, niveles, secciones y estancias;
+
+II. Traslado a módulos especiales para su observación;
+
+III. Cambio de dormitorio, módulo, nivel, sección, estancia y cama;
+
+IV. Supervisión ininterrumpida de los módulos y locutorios;
+
+V. Vigilancia permanente de todas las instalaciones del Centro Penitenciario;
+
+VI. El aislamiento temporal;
+
+VII. El traslado a otro centro de reclusión;
+
+VIII. Aplicación de los tratamientos especiales que determine la autoridad penitenciaria con estricto apego a las disposiciones legales aplicables;
+
+IX. Suspensión de estímulos;
+
+X. La prohibición de comunicación de telefonía móvil, Internet y radiocomunicación, y
+
+XI. Las demás que establezcan las disposiciones legales aplicables.
+
+Sin menoscabo de lo anterior, la autoridad penitenciaria que determine el Reglamento podrá decretar en cualquier momento estado de alerta o, en su caso, alerta máxima cuando exista riesgo o amenaza inminente que ponga en peligro la seguridad del Centro Federal, de la población penitenciaria, de su personal o de las visitas.
+
 ### CAPITULO IV. Asistencia a Liberado
 
 ###### ARTICULO 15.
@@ -179,7 +263,9 @@ El Consejo de Patronos del organismo de asistencia a liberados se compondrá con
 
 Para el cumplimiento de sus fines, el Patronato tendrá agencias en los Distritos Judiciales y en los Municipios de la entidad.
 
-Los Patronatos brindarán asistencia a los liberados de otras entidades federativas que se establezcan en aquélla donde tiene su sede el Patronato. Se establecerán vínculos de coordinación entre los Patronatos, que para el mejor cumplimiento de sus objetivos se agruparán en la Sociedad de Patronatos para Liberados, creada por la Dirección General de Servicios Coordinados y sujeta al control administrativo y técnico de ésta.
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2009)</small>
+
+Los Patronatos brindarán asistencia a los liberados de otras entidades federativas que se establezcan en aquélla donde tiene su sede el Patronato. Se establecerán vínculos de coordinación entre los Patronatos, que para el mejor cumplimiento de sus objetivos se agruparán en la Sociedad de Patronatos para Liberados, creada por la Secretaría de Seguridad Pública y sujeta al control administrativo y técnico de ésta.
 
 ### CAPITULO V. Remisión Parcial de la Pena
 
@@ -213,7 +299,9 @@ La autoridad podrá revocar la remisión parcial de la pena, conforme a lo dispu
 
 En los convenios que suscriban el Ejecutivo Federal y los Gobiernos de los Estados se fijarán las bases reglamentarias de estas normas, que deberán regir en la entidad federativa. El Ejecutivo Local expedirá, en su caso, los reglamentos respectivos.
 
-La Dirección General de Servicios Coordinados de Prevención y Readaptación Social promoverá ante los Ejecutivos locales la iniciación de las reformas legales conducentes a la aplicación de estas normas, especialmente en cuanto a la remisión parcial de la pena privativa de libertad y la asistencia forzosa a liberados condicionalmente o a personas sujetas a condena de ejecución condicional. Asimismo, propugnará la uniformidad legislativa en las instituciones de prevención y ejecución penal.
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2009)</small>
+
+La Secretaría de Seguridad Pública promoverá ante los Ejecutivos locales la iniciación de las reformas legales conducentes a la aplicación de estas normas, especialmente en cuanto a la remisión parcial de la pena privativa de libertad y la asistencia forzosa a liberados condicionalmente o a personas sujetas a condena de ejecución condicional. Asimismo, propugnará por la uniformidad legislativa en las instituciones de prevención y ejecución penal.
 
 ###### ARTICULO 18.
 
@@ -284,3 +372,11 @@ D.O.F. 2 DE SEPTIEMBRE DE 2004.
 Primero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Se derogan las disposiciones que a la entrada en vigor del presente Decreto contravengan las disposiciones del mismo.
+
+D.O.F. 23 DE ENERO DE 2009.
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+...
