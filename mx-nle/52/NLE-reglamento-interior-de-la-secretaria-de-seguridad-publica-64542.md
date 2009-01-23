@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-seguridad-publica-64542
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-21"
-last_updated: "2008-11-21"
+last_updated: "2009-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64542&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de noviembre de 2008.
 
@@ -100,6 +100,10 @@ b) Dirección General de Administración, que comprende:
 2. Dirección de Recursos Humanos y Financieros, y
 
 3. Dirección Jurídica.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2009)</small>
+
+c) Comisión de Honor y Justicia.
 
 B. UNIDADES OPERATIVAS DE SEGURIDAD:
 
@@ -239,11 +243,17 @@ XVIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones j
 
 Las facultades establecidas en el artículo 8 tienen el carácter de delegables, excepto en las fracciones II, III, XI, XII, XIII, XIV y XVII que son indelegables.
 
-### CAPÍTULO IV. DE LAS ATRIBUCIONES COMUNES DEL SUBSECRETARIO, DIRECTORES GENERALES, COMISARIOS GENERALES, COMISARIOS JEFE Y RECTOR
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE ENERO DE 2009)</small>
+
+### CAPÍTULO IV
+
+DE LAS ATRIBUCIONES COMUNES DEL SUBSECRETARIO, DIRECTORES GENERALES, COMISARIOS GENERALES, COMISARIOS JEFE, RECTOR Y PRESIDENTE DE LA COMISIÓN DE HONOR Y JUSTICIA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ENERO DE 2009)</small>
 
 ###### ARTÍCULO 10.
 
-El Subsecretario, Directores Generales, Comisarios Generales, Comisarios Jefe y Rector, tendrán las siguientes atribuciones comunes:
+El Subsecretario, Directores Generales, Comisarios Generales, Comisarios Jefe, Rector y el Presidente de la Comisión de Honor y Justicia, tendrán las siguientes atribuciones comunes:
 
 I. Acordar con su superior jerárquico las políticas, planes, programas, criterios de operación, sistemas y procedimientos relativos a las unidades a su cargo;
 
@@ -421,7 +431,7 @@ VIII. Apoyar en la organización de eventos en los que participe el Secretario y
 
 IX. Supervisar las actividades del apoyo logístico y protección del Secretario;
 
-X. Coordinar y apoyar las actividades de la Comisión de Honor y Justicia, y
+X. (DEROGADA, P.O. 23 DE ENERO DE 2009)
 
 XI. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
 
@@ -593,9 +603,77 @@ XXII. Otorgar perdón y desistimiento, previa autorización expresa del Secretar
 
 XXIII. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
 
-#### Sección Tercera. Del Sistema Estatal de Información de Seguridad y sus Unidades de Apoyo
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 23 DE ENERO DE 2009)</small>
 
-#### Sección Primera. Disposiciones Generales
+#### Sección Segunda Bis. De la Comisión de Honor y Justicia
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2009)</small>
+
+###### ARTÍCULO 20 Bis.
+
+La Comisión de Honor y Justicia tendrá las siguientes facultades:
+
+I. Sustanciar y resolver los procedimientos de responsabilidad administrativa interpuestos en contra de los servidores públicos de la Secretaría;
+
+II. Emitir y firmar las resoluciones de los procedimientos de responsabilidad administrativa, y
+
+III. Las demás que le confieran las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2009)</small>
+
+###### ARTÍCULO 20 Bis 1.
+
+La Comisión de Honor y Justicia se integrará por cinco miembros designados y removidos libremente por el Titular del Ejecutivo y se organizará de la siguiente forma:
+
+I. Un Presidente;
+
+II. Un representante del Consejo Ciudadano de Seguridad Pública;
+
+III. Un representante de la Comisaría General de la Agencia Estatal de Policía;
+
+IV. Un representante de la Comisaría General de la Agencia de Administración Penitenciaria, y
+
+V. Un representante de la Dirección General de Administración de la Secretaría de Seguridad Pública.
+
+Los representantes señalados en las fracciones II, III, IV y V desempeñarán su encargo con carácter institucional y en caso de ser removidos de las dependencias que representan, automáticamente dejarán de ser integrantes de la Comisión. Su participación en la Comisión será a título honorífico.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2009)</small>
+
+###### ARTÍCULO 20 Bis 2.
+
+Al frente de la Comisión de Honor y Justicia habrá un servidor público como Presidente, quien será su representante legal y será responsable de la debida integración de los procedimientos que tenga a su cargo la Comisión, contando con las siguientes atribuciones:
+
+I. Convocar y presidir las sesiones de la Comisión de Honor y Justicia, y contar con voto de calidad en caso de empate;
+
+II. Iniciar, substanciar y gestionar los procedimientos de responsabilidad administrativa de los servidores públicos de la Secretaría, de conformidad a lo establecido por la Ley de Seguridad Pública para el Estado de Nuevo León y a la normatividad aplicable;
+
+III. Proponer a los integrantes de la Comisión de Honor y Justicia la aplicación de sanciones, ajustándose a lo establecido por la Constitución Política del Estado de Nuevo León, la Ley de Seguridad Pública para el Estado de Nuevo León, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León y de forma supletoria el Código de Procedimientos Civiles del Estado de Nuevo León, así como otros ordenamientos aplicables;
+
+IV. Notificar a las partes y a las autoridades que se requieran, las quejas iniciadas en los procedimientos de responsabilidad administrativa;
+
+V. Elaborar el proyecto de reglamento interno de la Comisión y enviarlo al Secretario para el trámite de su aprobación y expedición por el Ejecutivo del Estado;
+
+VI. Convocar a los integrantes de la Comisión, con el objeto de sesionar en forma ordinaria una vez al mes o en caso que se amerite, convocar a sesiones extraordinarias, a fin de analizar en forma colegiada los expedientes y emitir y firmar las resoluciones de los procedimientos de responsabilidad administrativa;
+
+VII. Dictar, conforme a la gravedad del caso la suspensión de funciones y remuneraciones, a los servidores públicos incoados en los procesos de responsabilidad administrativa de su conocimiento, mediante resolución interlocutoria;
+
+VIII. Conocer y tramitar los recursos de revocación que se interpongan sobre las resoluciones que emita la Comisión;
+
+IX. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2009)</small>
+
+###### ARTÍCULO 20 Bis 3.
+
+Las facultades de los integrantes de la Comisión de Honor y Justicia serán las siguientes:
+
+I. Asistir a las sesiones a que sean convocados teniendo derecho a voz y voto en los asuntos que substancie la Comisión de Honor y Justicia;
+
+II. Suscribir las actas levantadas en las sesiones que sean convocadas por el Presidente de la Comisión, y
+
+III. Designar al suplente que los representará en las sesiones en caso de ausencia, debiendo comunicar por escrito las designaciones al Presidente de la Comisión, a efecto de que realice el registro respectivo para su acreditamiento.
+
+#### Sección Tercera. Del Sistema Estatal de Información de Seguridad y sus Unidades de Apoyo
 
 ###### ARTÍCULO 21.
 
@@ -755,7 +833,7 @@ VI. Las demás atribuciones que le confieran las disposiciones jurídicas aplica
 
 ### CAPÍTULO VIII. DE LOS ÓRGANOS ADMINISTRATIVOS DESCONCENTRADOS
 
-#### Sección Segunda. De la Agencia de Administración Penitenciaria y sus Unidades de Apoyo
+#### Sección Primera. Disposiciones Generales
 
 ###### ARTÍCULO 29.
 
@@ -777,7 +855,7 @@ Los órganos desconcentrados estarán bajo la supervisión y evaluación de la S
 
 Los titulares de los órganos desconcentrados acordarán con el Secretario o con el servidor público que éste designe, la resolución de los asuntos de su competencia.
 
-#### Sección Tercera. De la Agencia Estatal de Policía
+#### Sección Segunda. De la Agencia de Administración Penitenciaria y sus Unidades de Apoyo
 
 ###### ARTÍCULO 31.
 
@@ -949,7 +1027,7 @@ XI. Recibir, trasladar, custodiar y vigilar a toda persona que fuere privada de 
 
 XII. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
 
-#### Sección Cuarta. Del Centro de Coordinación Integral, de Control, Comando, Comunicaciones y Cómputo y sus unidades de apoyo
+#### Sección Tercera. De la Agencia Estatal de Policía
 
 ###### ARTÍCULO 35.
 
@@ -995,7 +1073,7 @@ XVIII. Las demás atribuciones que le confieran las disposiciones jurídicas apl
 
 Las atribuciones de los Titulares de la Comisaría en Jefe de Enlace; Comisaría de las Fuerza Estatales de Apoyo; Comisaría de la Policía Estatal de Caminos y Protección al Medio Ambiente; Comisaría de Vigilancia Institucional y Escoltas, y de la Comisaría de la Policía Preventiva Complementaria, serán determinadas en el Reglamento correspondiente de la Agencia Estatal de Policía.
 
-#### Sección Quinta. De la Academia Estatal de Seguridad Pública y sus Unidades de Apoyo
+#### Sección Cuarta. Del Centro de Coordinación Integral, de Control, Comando, Comunicaciones y Cómputo y sus unidades de apoyo
 
 ###### ARTÍCULO 37.
 
@@ -1125,7 +1203,7 @@ X. Promover y proponer los procesos de capacitación y especialización del pers
 
 XI. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
 
-#### Sección Sexta. Del Centro de Internamiento y de Adaptación de Adolescentes Infractores
+#### Sección Quinta. De la Academia Estatal de Seguridad Pública y sus Unidades de Apoyo
 
 ###### ARTÍCULO 43.
 
@@ -1229,6 +1307,8 @@ X. Las demás que le señalen las disposiciones jurídicas aplicables y el Secre
 
 La operación y funcionamiento de la Academia Estatal de Seguridad Pública, no contenida en el presente Reglamento Interior, se establecerá en el Reglamento Interno que al efecto se expida, de conformidad a la normatividad aplicable.
 
+#### Sección Sexta. Del Centro de Internamiento y de Adaptación de Adolescentes Infractores
+
 ###### ARTÍCULO 47.
 
 El Alcaide del Centro de Internamiento y de Adaptación de Adolescentes Infractores, tendrá las siguientes atribuciones:
@@ -1261,6 +1341,12 @@ El Secretario, sólo podrá ausentarse previa autorización del Ejecutivo; en su
 
 Las ausencias de los demás titulares de las Unidades Administrativas y Unidades Operativas de Seguridad señaladas en este Reglamento Interior, serán suplidas por el servidor público que designe el superior jerárquico, previo acuerdo con el Secretario, en su caso.
 
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2009)</small>
+
+###### ARTÍCULO 50.
+
+El Presidente de la Comisión de Honor y Justicia, sólo podrá ausentarse previa autorización del Ejecutivo; en sus ausencias temporales menores de quince días será suplido por la autoridad que designe la mayoría de los integrantes de la Comisión. Cuando la ausencia sea mayor o definitiva, el Gobernador del Estado designará el servidor público que lo suplirá en tanto se designe un Presidente.
+
 ## TRANSITORIOS
 
 Primero.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -1284,3 +1370,11 @@ EL C. SECRETARIO DE SEGURIDAD PÚBLICA
 ALDO FASCI ZUAZUA
 
 La presente hoja de firmas corresponde al Reglamento Interior de la Secretaría de Seguridad Pública del Gobierno del Estado de Nuevo León, dado el 14 de Noviembre de 2008.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE ENERO DE 2009.
+
+Primero.- Las presentes modificaciones al Reglamento Interior de la Secretaría de Seguridad Pública entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Las investigaciones, procedimientos de responsabilidad administrativa y recursos iniciados que se estén substanciado en la Comisión de Honor y Justicia con fecha anterior a la entrada en vigor de la presente reforma, continuarán tramitándose conforme a las disposiciones de la Ley del Sistema de Seguridad Pública y del Reglamento Interior de la Secretaría de Seguridad Pública, publicado en el Periódico Oficial del Estado de fecha 12 de Octubre de 2004.
