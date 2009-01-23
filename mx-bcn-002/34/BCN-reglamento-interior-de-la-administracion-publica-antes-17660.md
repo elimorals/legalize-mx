@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2008-09-26"
+last_updated: "2009-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2009.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -483,7 +483,7 @@ III.- (DEROGADA, P.O. 25 DE ENERO DE 2008)
 
 IV.- (DEROGADA, P.O. 25 DE ENERO DE 2008)
 
-V.- Coordinación de Informática; y (sic),
+V.- (DEROGADA, P.O. 23 DE ENERO DE 2009)
 
 VI.- Coordinación de Atención Ciudadana;
 
@@ -537,23 +537,7 @@ V.- Organizar reuniones periódicas de titulares de las dependencias o entidades
 
 ###### ARTICULO 37.
 
-La Coordinación de Informática, tendrá como función la de instaurar las condiciones tecnológicas que permitan la óptima utilización de la información en la administración municipal y en la gestación de los servicios públicos, con las siguientes atribuciones:
-
-I.- Coordinar las estrategias, los proyectos y la aplicación de las soluciones tecnológicas informáticas y de telecomunicaciones en la administración pública municipal;
-
-II.- Dirigir y coordinar el desarrollo, rediseño y actualización de los sistemas informáticos de las dependencias, entidades y delegaciones, acorde a las prioridades de desarrollo municipal;
-
-III.- Llevar a cabo los estudios y evaluaciones tecnológicas pertinentes que permitan ampliar la cobertura y mantener actualizada la infraestructura de la red de cómputo y comunicaciones en el municipio;
-
-IV.- Establecer la normatividad para la adquisición y óptima utilización de los recursos informáticos y de telecomunicaciones de las dependencias, entidades y delegaciones;
-
-V.- Administrar los equipos, sistemas e instalaciones especiales que integran la infraestructura informática y de telecomunicaciones de la administración pública municipal;
-
-VI.- Verificar el apego a las disposiciones establecidas por las instancias federales, referente a la Ley Federal de Telecomunicaciones y demás disposiciones legales en la materia;
-
-VII.- Coordinar la administración e integridad de las bases de datos, el mantenimiento de los equipos de cómputo y comunicaciones, y la seguridad de acceso a la red municipal; y,
-
-VIII.- Las demás que se deriven de las disposiciones legales y administrativas aplicables.
+(DEROGADO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 38.
 
@@ -769,7 +753,7 @@ XIII.- Fomentar la cultura de protección civil, a través de la realización de
 
 > <small>(ADICIONADO, P.O. 25 DE ENERO DE 2008)</small>
 
-ARTICULO 41 QUARTER (SIC).- Al Departamento para la Administración de Documentos, Públicos le corresponde recibir, despachar y resguardar toda la documentación que generen las dependencias y entidades, encargándose de:
+ARTICULO 41 QUARTER (SIC9.- Al Departamento para la Administración de Documentos, Públicos le corresponde recibir, despachar y resguardar toda la documentación que generen las dependencias y entidades, encargándose de:
 
 I.- Aplicar y observar las disposiciones que le establecen los reglamentos municipales en materia de administración de documentos públicos, y archivo histórico;
 
@@ -1191,6 +1175,8 @@ XI.- Controlar, custodiar y administrar el archivo de inversión pública munici
 
 ### CAPITULO SEXTO. DE LA DIRECCIÓN DE OBRAS PUBLICAS
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2009)</small>
+
 ###### ARTICULO 59.
 
 La Oficialía Mayor tendrá las siguientes atribuciones:
@@ -1209,7 +1195,9 @@ VI.- Conducir la negociación de las condiciones generales de trabajo, presentar
 
 VII.- Negociar y convenir con el sindicato con el que se hubieren celebrado las condiciones generales de trabajo, aspectos no previstos en las mismas;
 
-VIII.- Administrar los recursos materiales de la Administración Pública Municipal centralizada, para lo que podrá celebrar contratos de obra, de servicios, de arrendamiento y adquisiciones, así como modificaciones o adiciones a los mismos;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2009)</small>
+
+VIII.- Administrar los recursos materiales de la Administración Pública Municipal centralizada, para lo que podrá celebrar contratos de servicios, de arrendamiento y adquisiciones, así como modificaciones o adiciones a los mismos;
 
 IX.- Adquirir y suministrar los bienes y servicios que se requieran para el funcionamiento de las dependencias;
 
@@ -1253,19 +1241,31 @@ XX.- Impulsar el desarrollo de programas de modernización y simplificación adm
 
 XXI.- Evaluar el desempeño en la prestación de los servicios públicos municipales;
 
-> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2009)</small>
 
-XXII.- Desarrollar procedimientos para mejorar la calidad en el funcionamiento de las dependencias y entidades de la administración pública municipal; y
+XXII.- Desarrollar procedimientos para mejorar la calidad en el funcionamiento de las dependencias y entidades de la Administración Pública Municipal;
 
-> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2009)</small>
 
-XXIII.- Generar indicadores de gestión que permitan conocer el desempeño de la administración pública municipal.
+XXIII.- Generar indicadores de gestión que permitan conocer el desempeño de la Administración Pública Municipal;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2009)</small>
+
+XXIV.- Determinar y llevar a cabo las acciones de análisis, desarrollo, actualización e implementación de sistemas y programas de informática a fin de satisfacer las necesidades de las dependencias;
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2009)</small>
+
+XXV.- Realizar trabajos de construcción, conservación, mantenimiento, remodelación y demolición en las instalaciones de las dependencias y entidades de la administración pública municipal, para lo que podrá contratar obras y servicios relacionados con las mismas, conforme a lo dispuesto por el marco jurídico aplicable; y,
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2009)</small>
+
+XXVI.- Realizar obra pública por administración directa, a las instalaciones de las dependencias y entidades de la Administración Pública Municipal, conforme a lo dispuesto por el marco jurídico aplicable.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 60.
 
-La Oficialía Mayor para el cumplimento de sus atribuciones contará con una Coordinación Administrativa y una Coordinación de Mesa Técnica, y tendrá bajo su cargo los siguientes Departamentos:
+La Oficialía Mayor para el cumplimiento de sus atribuciones contará con una Coordinación Administrativa y tendrá (sic) su cargo los siguientes Departamentos:
 
 I.- Recursos Humanos;
 
@@ -1277,13 +1277,17 @@ III.- Servicios Médicos Municipales;
 
 IV.- Talleres Municipales;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2009)</small>
 
-V.- Depósitos Vehiculares; y
+V.- Depósitos Vehiculares;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2009)</small>
 
-VI.- Departamento de Mantenimiento.
+VI.- Departamento de Mantenimiento; y
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2009)</small>
+
+VII.- Departamento de Informática.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
 
@@ -1419,19 +1423,51 @@ VI. Administrar y resguardar los insumos y bienes destinados a la conservación,
 
 VII. Remodelar y remozar oficinas y espacios administrativos.
 
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2009)</small>
+
+ARTICULO 65 TER.- El Departamento de Informática, tendrá como función la de instaurar las condiciones tecnológicas que permitan la óptima utilización de la información en la administración municipal y en la gestación de los servicios públicos, con las siguientes atribuciones:
+
+I.- Coordinar las estrategias, los proyectos y la aplicación de las soluciones tecnológicas informáticas y de telecomunicaciones del Gobierno Municipal;
+
+II.- Dirigir y coordinar el desarrollo, rediseño y actualización de los sistemas informáticos de las dependencias, entidades y órganos desconcentrados, acorde a las prioridades de desarrollo municipal;
+
+III.- Llevar a cabo los estudios y evaluaciones tecnológicas pertinentes que permitan ampliar la cobertura y mantener actualizada la infraestructura de la red de cómputo y comunicaciones del Gobierno Municipal;
+
+IV.- Proponer las políticas y lineamientos para la adquisición y óptima utilización de los recursos informáticos y de telecomunicaciones del Gobierno Municipal;
+
+V.- Administrar los equipos, sistemas e instalaciones especiales que integran la infraestructura informática y de telecomunicaciones del Gobierno Municipal;
+
+VI.- Verificar el apego a las disposiciones establecidas por las instancias federales, en lo referente a la Ley Federal de Telecomunicaciones y demás disposiciones legales en la materia; y,
+
+VII.- Coordinar la administración e integridad de las bases de datos, el mantenimiento de los equipos de cómputo y comunicaciones, y la seguridad de acceso a la red informática municipal.
+
 ### CAPITULO SEPTIMO. DE LA DIRECCION DE SERVICIOS PUBLICOS MUNICIPALES
 
 ###### ARTICULO 66.
 
-La Dirección de Obras Públicas tendrá las atribución (sic) de organizar, coordinar y prestar los servicios públicos de mantenimiento, conservación, construcción y reconstrucción de vialidades;
+La Dirección de Obras Públicas tendrá las atribuciones de planear, organizar, coordinar y ejecutar obras de urbanización, mantenimiento, conservación, construcción y reconstrucción de vialidades, y construcción de edificios públicos y demás obras y servicios relacionados con las mismas, que requiera el Municipio, y las dependencias o entidades de la Administración Pública Municipal, para lo cual tendrá las siguientes atribuciones:
+
+I.- Coordinar la ejecución de los programas referentes a obras publicas en materia de urbanización, vialidades, edificios públicos y demás obras que requieran el Municipio, las dependencias y entidades de la Administración Pública Municipal, así como lo relativo a los servicios relacionados con las mismas que se requieran para realizarlas;
+
+II.- Llevar a cabo los procedimientos de contratación de obras públicas y servicios relacionados con las mismas, a que se refiere la fracción anterior, así como celebrar los contratos respectivos, de conformidad con lo dispuesto por el marco jurídico aplicable;
+
+III.- Realizar obras públicas por administración directa, en los supuestos de la fracción I de este Artículo, de conformidad con lo dispuesto por el marco jurídico aplicable; y
+
+IV.- Coadyuvar con la Dirección de Administración Urbana, en la supervisión de la construcción de vialidades por otras instancias de gobierno y particulares.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 67.
 
-La Dirección de Obras Públicas para el cumplimiento de sus atribuciones contará con el apoyo de una coordinación administrativa, una Subdirección de Obras Públicas y los siguientes departamentos:
+La Dirección de Obras Públicas para el cumplimiento de sus atribuciones cantará con una Coordinación Administrativa, una Coordinación de Planeación Estratégica y Proyectos de Inversión, una Coordinación de Mesa Técnica, y una Subdirección de Obras Públicas, asimismo tendrá bajo su cargo los siguientes Departamentos:
 
-I.- Ejecución y Control de Obra; y,
+I.- Ejecución y Control de Obra de Edificación;
 
-II.- Mantenimiento de Vialidades.
+II.- Ejecución y Control de Obra Vial; y
+
+III.- Mantenimiento de Vialidades.
+
+La Coordinación de Mesa Técnica, tendrá como función participar en las licitaciones y adjudicaciones de contratos de obra pública municipal, de conformidad con lo dispuesto por el marco jurídico aplicable.
 
 ###### ARTICULO 68.
 
@@ -3254,3 +3290,7 @@ P.O. 26 DE SEPTIEMBRE DE 2008.
 ACUERDO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 91, 96 Y 96 TER AL REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA.
 
 Único.- El presente Acuerdo entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 23 DE ENERO DE 2009.
+
+ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
