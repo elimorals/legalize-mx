@@ -4,7 +4,7 @@ identifier: "QUE-codigo-municipal-de-queretaro-11714"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-04"
-last_updated: "2008-09-05"
+last_updated: "2009-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO MUNICIPAL DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2009.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Querétaro, el jueves 9 de noviembre de 1995.
 
@@ -901,61 +901,9 @@ Para el despacho de los asuntos de su competencia, el Secretario de Administraci
 
 ### CAPITULO IX. De la Secretaría de Servicios Públicos Municipales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2004)</small>
-
 ###### ARTICULO 76.
 
-La Secretaría de Servicios Públicos Municipales es la dependencia encargada de prestar a la comunidad los servicios básicos previstos en este precepto, y al efecto le corresponde el despacho de los siguientes asuntos:
-
-I. Planear, realizar, supervisar, controlar y mantener en condiciones de operación los servicios públicos municipales que a continuación se indican:
-
-- Limpieza de áreas públicas.
-
-- Panteones.
-
-- Alumbrado Público.
-
-- Mercados
-
-- Ornato, forestación y conservación de parques, plazas y jardines.
-
-- (DEROGADO, P.O. 1 DE JULIO DE 2005)
-
-- Limpieza de vías, áreas municipales y drenaje pluvial.
-
-- Emergencia de agua potable.
-
-- Las demás que determine el Presidente Municipal y que tenga por objeto el ejercicio de todas las funciones y actividades encaminadas a satisfacer necesidades sociales de servicios públicos.
-
-II. Atender los requerimientos de la sociedad con respecto a los servicios públicos municipales;
-
-III. Participar en la innovación y avances tecnológicos, que permitan un mayor ejercicio de sus funciones;
-
-IV. Revisar permanentemente, en consideración al dinámico crecimiento del Municipio, las rutas y sistemas de servicio, para que estén más acordes con los requerimientos de la población;
-
-V. Inducir las acciones necesarias que permitan la participación de la población del Municipio en el embellecimiento de Querétaro;
-
-VI. Promover el concurso de la población del Municipio para facilitar la prestación del servicio de limpia, elaborando programas que inciten a la sociedad en general, pero particularmente a la comunidad estudiantil a mantener limpia y bella la ciudad;
-
-VII. Alentar la participación ciudadana en el mantenimiento de parques y jardines;
-
-VIII. Arborizar las áreas municipales utilizando variedades adecuadas al clima de la región, que requieran el menor mantenimiento;
-
-IX. Fomentar en la población el ahorro en el consumo del agua;
-
-X. Promover la acción de la sociedad civil encaminada a evitar la destrucción de los bienes del dominio municipal;
-
-XI. Efectuar la administración de los mercados y de los panteones municipales;
-
-XII. Registrar las acciones emprendidas y sus alcances, en materia de reforestación, grado de recuperación de ecosistemas restaurados y niveles abatidos de contaminación; y
-
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
-
-XIII. Los demás que le atribuyan las leyes y reglamentos vigentes en el Estado o le asigne el Presidente Municipal.
-
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2004)</small>
-
-Para el despacho de los asuntos de su competencia, el Secretario de Servicios Públicos Municipales, se auxiliará con las Direcciones Administrativa, de Aseo Público, de Mantenimiento de Infraestructura, de Servicios Complementarios y de Planeación, así como de los departamentos que al efecto se designen.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ### CAPITULO X. De los Organismos Descentralizados
 
@@ -4557,49 +4505,23 @@ DE LOS SERVICIOS MUNICIPALES
 
 ###### ARTICULO 505.
 
-El Ayuntamiento a través de la Secretaría que corresponda, tendrá a su cargo la planeación, ejecución, administración y control de los servicios públicos que requiera la población del municipio, tales como:
-
-I. Parques y Jardines;
-
-II. Limpia;
-
-III. Alumbrado Público;
-
-IV. Rastro;
-
-V. Mercados y Centros de Abasto;
-
-VI. Panteones; y
-
-VII. Las demás que se pudieran crear para la buena organización, administración e imagen del Municipio.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 506.
 
-Para la adecuada prestación de los servicios, el Ayuntamiento elaborará y ejecutará planes y programas, para la conservación y reconstrucción de la infraestructura y equipamiento urbano, establecerá y controlará los sistemas apropiados y vigilará que se cumpla con lo estipulado en los ordenamientos municipales que regulen esta materia.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 507.
 
-El Ayuntamiento reglamentará la organización, administración, funcionamiento, conservación, explotación y concesiones de los servicios públicos, en los términos de la Ley Orgánica Municipal.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 508.
 
-Los servicios públicos municipales pueden prestarse:
-
-I. Por el Municipio y otro municipio, en forma intermunicipal;
-
-II. Por particulares a través de concesiones;
-
-III. Por el Municipio y los particulares;
-
-IV. Por el Municipio y el estado;
-
-V. Por el Municipio y la federación; y
-
-VI. Por el Municipio, el estado y la federación.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 509.
 
-Se requerirá acuerdo de Ayuntamiento para celebrar convenios y otorgar concesiones a particulares para la prestación de los servicios públicos municipales, los que podrán darse por concluidos cuando el propio Ayuntamiento lo desee o se encuentre en posibilidad de prestarlos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 APARTADO SEGUNDO
 
@@ -4609,147 +4531,89 @@ DE LOS PARQUES Y JARDINES
 
 ###### ARTICULO 510.
 
-Este apartado tiene por objeto regular la conservación, restauración, fomento y aprovechamiento de la vegetación en general, así como la creación y cuidados de las áreas verdes en el Municipio de Querétaro.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 511.
 
-Son de interés público los parques, jardines, camellones, glorietas, fuentes, monumentos y servidumbres jardinadas y compete al Municipio de Querétaro su regulación, teniendo los habitantes del Municipio la obligación de cuidar su conservación, así como también colaborar con las autoridades municipales en su restauración y fomento.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 512.
 
-Compete a la autoridad municipal, la administración, conservación, vigilancia y acondicionamiento a través del Departamento de Parques y Jardines, de los parques, jardines, camellones, glorietas, servidumbres jardinadas, fuentes y monumentos ubicados en el Municipio de Querétaro.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ### CAPITULO III. Del Derribo, Poda y Conservación de los Elementos Arbóreos
 
 ###### ARTICULO 513.
 
-Son de utilidad pública los trabajos de forestación y reforestación que se realicen en el Municipio de Querétaro.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 514.
 
-Es obligatoria la forestación y reforestación de las siguientes áreas:
-
-I. Avenidas, calles y calzadas, siempre y cuando el área de circulación peatonal no sea inferior a 1.0 m. en calles de mucho tránsito peatonal y vehicular y, de 0.8 m. en áreas de poca circulación peatonal y vehicular; y
-
-II. Parques, jardines, camellones y glorietas jardinadas.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 515.
 
-La autoridad municipal a través del Departamento de Parques y Jardines, contará con viveros suficientes para realizar trabajos de repoblación forestal y de enjardinado, pudiendo solicitar cooperación de autoridades federales y estatales, de organismos descentralizados y corporaciones particulares para tal efecto.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 516.
 
-Cuando existan excedentes en la producción de los viveros, el Ayuntamiento, a través del Departamento de Parques y Jardines, podrá comercializar los mismos, en base a una relación de costos y con el único fin de recuperar gastos ocasionados por el mantenimiento de los viveros y su producción.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 517.
 
-Corresponde al Ayuntamiento la normatividad de las forestaciones y reforestaciones que se realicen en el Municipio de Querétaro, y que quedarán sujetas a las siguientes especificaciones:
-
-I. Los árboles que se planten en áreas urbanas de acuerdo al artículo 514, fracción I de este Código podrán ser de cualquier especie quedando prohibidas las especies siguientes:
-
-a) CASUARINAS (Casuarina equisetifolia).
-
-b) EUCALIPTO (Eucalyptus globulus y E. Amaldulencis).
-
-c) HULES (Ficus elástica).
-
-d) PIEL COMUN (Schimus molle).
-
-e) JACARANDA (Jacaranda cuspidifolia).
-
-f) Y otras similares a juicio del Departamento de Parques y Jardines.
-
-II. Los árboles que se planten en áreas urbanas y sus alrededores de acuerdo al artículo 514 fracción II de este código podrán ser de cualquier especie, incluso las mencionadas en la fracción I de este artículo, sujetándose a los siguientes lineamientos:
-
-a) No existan líneas de conducción eléctrica.
-
-b) No existan tuberías de conducción de gas de alta presión subterráneas.
-
-c) El área donde se planten tenga amplitud suficiente para que su desarrollo no afecte elementos arquitectónicos y de servicios, y
-
-d) Cualquier otra disposición de regulación que a criterio del Departamento de Parques y Jardines sea conveniente para evitar futuros daños en la propiedad y elementos urbanos.
-
-III. En las áreas correspondientes a nudos viales, cruceros de carreteras, camellones de autopistas, vías rápidas y cualquier zona de amplitud suficiente las forestaciones y reforestaciones se podrán realizar sin restricciones y bajo el criterio técnico del Departamento de Parques y Jardines.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 518.
 
-La autoridad municipal organizará campañas de forestación y reforestación con el fin de promover la repoblación vegetal, en las que participarán todos los sectores de la comunidad de Querétaro.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ### CAPITULO IV. Del Uso, Construcción y Ampliación de Areas Verdes
 
 ###### ARTICULO 519.
 
-El derribo o poda de los árboles plantados en parques, jardines, calles, calzadas, avenidas, servidumbres jardinadas y predios de propiedad municipal, sólo procederá en los siguientes casos:
-
-I. Cuando se considere peligroso para la integridad física de bienes y personas;
-
-II. Cuando se encuentren secos;
-
-III. Cuando sus ramas afecten considerablemente a las construcciones;
-
-IV. Cuando sus raíces amenacen destruir las construcciones, deterioren el ornato de la zona de su ubicación, o por otras circunstancias que así lo ameriten; y
-
-V. Cuando lo considere el Departamento de Parques y Jardines apoyados en un dictamen técnico.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 520.
 
-Para autorizar el derribo y poda de árboles a que se refiere el artículo anterior, los interesados lo solicitarán a la autoridad municipal, por conducto del Departamento de Parques y jardines.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 521.
 
-El Departamento de Parques y Jardines, al recibir la solicitud de derribo o poda de árbol practicará una inspección y emitirá un dictamen técnico sobre el particular.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 522.
 
-En caso de que proceda la autorización, el costo del mismo será cuantificado por técnicos del Departamento de Parques y Jardines, y cubierto por el solicitante. Dicho costo será en función de:
-
-I. Especie de árbol;
-
-II. Tamaño del mismo;
-
-III. Años de vida aproximados; y
-
-IV. Grado de dificultad de la poda o derribo.
-
-Cuando las circunstancias lo justifiquen, por caso fortuito, o emergencia a juicio del Departamento de Parques y Jardines será autorizado por escrito.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 523.
 
-En caso de derribo de árbol, el particular a quien se le prestó el servicio tiene la obligación en un plazo no mayor de 30 días naturales de plantar 3 árboles en reposición del talado; esto podrá ser en el mismo lugar u otro que el Departamento de Parques y Jardines señale, de acuerdo a lo establecido en este apartado, en caso contrario dicho departamento lo hará con cargo al responsable.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 524.
 
-Es obligación de los propietarios de inmuebles, el mantener en buen estado la cubierta vegetal que se encuentra comprendida en el área de servidumbre.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 525.
 
-Es obligación de los habitantes colaborar con las autoridades municipales en la preservación y cuidado de las áreas verdes de uso público.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 526.
 
-Queda estrictamente prohibido, destruir la jardinería de la vía pública.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 527.
 
-Queda estrictamente prohibida la práctica del comercio ambulante: fijo, semifijo o móvil, así como la instalación de anuncios u otro tipo de negocios particulares en glorietas y camellones.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 528.
 
-Queda estrictamente prohibido, introducir o ingerir bebidas embriagantes, inhalantes o cualquier otro tipo de sustancia o droga que altere la conducta del individuo, en parques y jardines públicos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 529.
 
-Corresponden al Ayuntamiento a través del Departamento de Parques y Jardines, la aprobación de las áreas jardinadas que se construyan, las que estarán sujetas a las siguientes especificaciones:
-
-I. Los árboles que se planten deberán ubicarse de acuerdo a lo dispuesto en el artículo 514 fracción I;
-
-II. Las plantaciones de árboles serán prioritarias por sobre cualquier otro tipo de ornato vegetal y seguirán las normas enunciadas en el artículo 517 de este código;
-
-III. Las áreas verdes de los fraccionamientos contarán con las tomas de agua, que a juicio del Departamento de Parques y Jardines sean necesarias; y
-
-IV. Las áreas verdes de los fraccionamientos, deberán de estar debidamente terminadas y preservadas, hasta su entrega al Ayuntamiento.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 APARTADO TERCERO
 
@@ -4761,143 +4625,69 @@ DEL SERVICIO DE LIMPIA
 
 ###### ARTICULO 530.
 
-Las disposiciones de este apartado tienen como fin preservar la limpieza y salud de la población del municipio.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 531.
 
-Para los efectos de este apartado, se entenderá que el servicio de limpia constituye un servicio público municipal que se encarga de la recolección de basura y residuos sólidos que producen los habitantes del municipio en el desarrollo de sus actividades cotidianas, ya sea en el hogar, oficinas, comercio, industrias, hospitales, etc., con la finalidad de preservar el medio ambiente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ### CAPITULO III. De la Prestación del Servicio de Limpia
 
 ###### ARTICULO 532.
 
-El servicio público de limpia, comprenderá:
-
-I. El aseo de plazas, calles, avenidas, calzadas, parques y jardines públicos;
-
-II. La recolección de residuos sólidos, y el desperdicio que se genera en las áreas públicas de la cabecera municipal y de las localidades que conforman el municipio;
-
-III. La recolección de residuos sólidos y desperdicios originados en los establecimientos comerciales, industriales, de servicios y habitacionales, según se estipule en el presente apartado o se convenga con los particulares o propietarios; y
-
-IV. La ubicación de tiraderos públicos, su explotación o su tratamiento.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 533.
 
-La aplicación del presente apartado corresponde a las autoridades municipales siguientes:
-
-I. Presidente Municipal;
-
-II. Tesorero Municipal;
-
-III. Secretaría de Servicios Municipales; y
-
-IV. Dirección facultada por el Ayuntamiento para la prestación del servicio de limpia municipal.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ### CAPITULO IV. De las Obligaciones de los Particulares
 
 ###### ARTICULO 534.
 
-Para el eficiente servicio de limpia, la dirección facultada para ello deberá:
-
-I. Planear, organizar y coordinar los sistemas de operación necesarios y convenientes para la prestación eficaz del servicio;
-
-II. Organizar campañas de limpieza, en coordinación con las dependencias federales, estatales, junta de vecinos, centros educativos y demás entidades del sector social o privado;
-
-III. Determinar sectores, rutas, horarios y turnos para la recolección de residuos sólidos o desperdicios;
-
-IV. Señalar los lugares en donde deberá efectuarse la recolección por medio de depósitos así como el funcionamiento de los mismos;
-
-V. Instalar depósitos de basura a fin de que se cubra la necesidad de la población, velando por el buen funcionamiento y mantenimiento;
-
-VI. Determinar la ubicación de los tiraderos municipales, cuidando siempre la conservación del medio ambiente;
-
-VII. Determinar previo estudio de factibilidad, el establecimiento de plantas residuales, así como la explotación de los residuos sólidos y desperdicios;
-
-VIII. Atender las quejas que se presenten en relación a la operación del servicio;
-
-IX. Orientar a la comunidad sobre el manejo más conveniente de los residuos sólidos y desperdicios; y
-
-X. Las demás que determine el H. Ayuntamiento y el presente ordenamiento.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ### CAPITULO V. De la Recolección y Transporte
 
 ###### ARTICULO 535.
 
-Los vecinos, los habitantes, y los visitantes del Municipio, tienen las siguientes obligaciones en materia de limpia:
-
-I. Depositar la basura proveniente de su domicilio, de los centros comerciales, industriales o de servicio, en los depósitos de basura que determine la autoridad municipal o en los lugares que se designe como destino final de la misma;
-
-II. Tener limpias las banquetas y el arroyo de las calles frente a su domicilio, antes de las 10:00 a.m. de cada día;
-
-III. Tener limpios los predios baldíos, sin basura, piedras, cascajo o hierbas que provoquen insalubridad, mal aspecto, mal olor o contaminación ambiental. Cuando el particular no cumpla con la anterior disposición, el Ayuntamiento previa notificación podrá efectuar la limpieza del predio correspondiente, quedando como obligación del propietario o poseedor de cubrir en la Tesorería Municipal el costo de la limpia efectuada, independientemente de la sanción a que se haga acreedor;
-
-IV. Observar las disposiciones de la autoridad competente, a fin de llevar a cabo en forma eficiente la recolección de residuos sólidos o desperdicios;
-
-V. Participar en la campañas de limpieza que convoque la autoridad municipal;
-
-VI. Los comerciantes en general, tienen la obligación de asear debidamente sus locales antes de expender sus mercancías, conservándolos limpios durante y después de la venta, asimismo orientar a sus consumidores a depositar la basura en los recipientes instalados para ello dentro del establecimiento, a fin de evitar sean arrojados en la vía pública, los residuos y desperdicios de las empresas o negociaciones deberán depositarse o convenir con la autoridad municipal para traslado hasta el tiradero municipal;
-
-VII. Cubrir las cuotas, tarifas y derechos correspondientes ante la Tesorería Municipal por la prestación del servicio de limpia, conforme a lo establecido en la Ley de Ingresos Municipales o en los convenios signados por los particulares y la autoridad en los casos que así lo procedan; y
-
-VIII. Cercar sus lotes baldíos y mantenerlos limpios evitando la insalubridad y mal aspecto, en la inteligencia de que quien no acatase esta disposición el Municipio, procederá a la limpieza y cercado a costa del propietario del inmueble y cobrársele por medio de la Tesorería Municipal.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ### CAPITULO VI. De las Prohibiciones
 
 ###### ARTICULO 536.
 
-La recolección y transporte de los residuos sólidos, se harán de conformidad con las previsiones, programaciones y capacidad operativa del Ayuntamiento, debiéndose hacer en vehículos acondicionados o especiales para este servicio.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 537.
 
-El servicio de recolección podrá ser concesionado a particulares, para ello se aplicará lo previsto en la Ley Orgánica Municipal.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 538.
 
-Los escombros y desechos de la construcción deberán ser depositados en los lugares previamente señalados para dichos efectos, siendo responsable de ello el propietario del predio o el constructor.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 539.
 
-Los usuarios del servicio de limpia deberán utilizar recipientes adecuados para la recolección de la basura, los desechos deberán ser trasladados por cuenta del propietario a los tiraderos municipales.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 540.
 
-Los desechos voluminosos deberán ser almacenados en sitios donde no alteren el aspecto estático de la zona y no interfieran la vía pública.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 541.
 
-Los habitantes del Municipio podrán solicitar el servicio de recolección de basura en forma especial, el cual podrá efectuarse previa concertación con la autoridad y el pago correspondiente por el servicio; en los mismos términos se podrá concertar con las empresas o negocios que requieran un servicio especial de recolección.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ### CAPITULO I. De la Naturaleza del Rastro Municipal
 
 ###### ARTICULO 542.
 
-Queda prohibido a todo vecino, habitante o visitante al Municipio:
-
-I. Arrojar basura o desechos en lotes baldíos, en las calles, en los jardines, en las plazas públicas, en las avenidas, en las carreteras y caminos vecinales;
-
-II. Tener sucios o insalubres los lotes baldíos;
-
-III. Omitir la limpieza diaria de los frentes de sus domicilios, por parte del inquilino o propietario que corresponda;
-
-IV. Arrojar basura, cualquier tipo de desperdicio fuera de los lugares o depósitos previamente señalados para ello;
-
-V. Ordenar, permitir o arrojar sustancias tóxicas o inflamables, peligrosas o tóxicas a la salud, en los drenajes, en las alcantarillas o en las vías o espacios públicos;
-
-VI. Colocar en la vía pública, desperdicios, escombros u otros procedentes de almacenes, establecimientos industriales, comerciales o de servicios, jardines, caballerizas, establos y zahúrdas, debiendo el interesado tirarlos por su cuenta en los lugares previamente señalados para ello, o convenir con el Ayuntamiento la prestación de un servicio especial;
-
-VII. Quemar llantas, materiales contaminantes, inflamables o peligrosos en la vía pública, parques, jardines o espacios públicos;
-
-VIII. Extraer de los depósitos de basura o de los tiraderos municipales, basura o desperdicios sin la previa autorización municipal;
-
-IX. Contaminar las corrientes de agua, los manantiales, los depósitos, los bordos, las presas, las fuentes públicas y las tuberías conductoras de agua potable;
-
-X. Ensuciar banquetas, fachadas, áreas verdes y arroyos con sustancias o materiales repugnantes a la vista, al olfato y generadores de contaminación ambiental; y
-
-XI. Las demás que contemple el apartado de este Código referente a las disposiciones de Policía y Gobierno Municipal, así como los preceptos legales aplicables en materia de Ecología y Medio Ambiente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 543.
 
-El Ayuntamiento está facultado sin perjuicio de las disposiciones que dicten las autoridades sanitarias, para practicar visitas a los basureros públicos o privados a fin de constatar el grado de contaminación e higiene.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 APARTADO CUARTO
 
@@ -4905,187 +4695,29 @@ DEL ALUMBRADO PUBLICO
 
 ## TITULO UNICO. DE LA PRESTACION DEL SERVICIO
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1997)</small>
-
 ###### ARTICULO 544.
 
-Este apartado establece las normas, criterios y procedimientos a que se sujetará el establecimiento, administración, conservación y mejoras en el Servicio de Alumbrado Público en el Municipio de Querétaro, en base a lo siguiente:
-
-I. Tiene por objeto unificar los criterios utilizados en el diseño de proyectos y ejecución de obras empleando los materiales y equipos que garanticen una alta calidad en las instalaciones de Alumbrado Público.
-
-II. La reglamentación contenida es aplicable a los Particulares, los Gobiernos Federal, Estatal y Municipal, así como a los Organismos Descentralizados que realicen mejoras, ampliaciones y nuevas obras en los Sistemas de Alumbrado en áreas públicas, vialidades y exteriores de Templos y Monumentos Históricos, Fuentes, etc., dentro del territorio Municipal.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2004)</small>
-
-III. El ciudadano tiene derecho a un servicio oportuno, de calidad y excelencia brindado por el Departamento de Alumbrado Público de la Secretaría de Servicios Públicos Municipales, para lo cual se procederá en la forma siguiente:
-
-a) El lapso de tiempo que mediará en la reparación de fallas no excederá de veinticuatro horas entre la demanda ciudadana y la respuesta correspondiente.
-
-b) Los faroles que sean instalados o estén en las fachadas de los ininuebles (sic), deberán mantener la armonía con los Equipos de Alumbrado Público, con las construcciones y cumplirán las disposiciones de las presentes normas.
-
-c) Los Propietarios o Usuarios de los inmuebles en donde existan equipos de alumbrado particulares, serán responsables de su operación, alimentación, conservación y mantenimiento.
-
-d) Las lámparas empleadas en los equipos propiedad de los particulares, serán del mismo tipo a las usadas en los equipos de Alumbrado Público; sólo deberán ajustar las potencias de tal manera que los niveles de iluminación de las vialidades no sufran alteraciones de consideración.
-
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1997)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 545.
 
-Los elementos materiales que hacen posible el sistema de iluminación en los lugares de uso común del Municipio son de interés público, y deberán cumplir con las características descritas en el MANUAL DE PROCEDIMIENTOS, ser aprobados de acuerdo a Normas aplicables y contar con el Certificado que expidan los Organismos acreditados, garantizando el cumplimiento de los objetivos deseados con la iluminación de manera económica, que aseguren la continuidad del servicio y que no sean causa de accidentes para los usuarios de la vía pública, ni para el personal que realice su operación y mantenimiento.
-
-Para los efectos del presente artículo, se consideran lugares de uso común los boulevares, avenidas, callejones, parques, plazas y jardines que se destinen para uso y tránsito público dentro del Municipio.
-
-Los materiales y equipos estarán provistos de una etiqueta de datos, que permita registrar la fecha de su instalación, mes y año, la cuadrilla que lo instaló con número del 0 al 9 y el turno en que se realizó la actividad.
-
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1997)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 546.
 
-El nivel de iluminación y de luminancia requerido en una Vía Pública se debe, seleccionar de acuerdo a la clasificación de la misma.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2004)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 547.
 
-Compete a la autoridad municipal, a través de la Jefatura del Departamento de Alumbrado Público de la Secretaría de Servicios Públicos Municipales, la administración, conservación, mantenimiento y vigilancia del servicio de alumbrado público, por lo que son atribuciones y obligaciones del titular del Departamento de Alumbrado Público las siguientes:
-
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
-
-I. Coordinar los trabajos con otras Dependencias o Instituciones, cuando se afecten o involucren las instalaciones de Alumbrado Público,
-
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
-
-II. Documentar las modificaciones y/o ampliaciones de las instalaciones cuando éstas se realicen.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2004)</small>
-
-III. Rendir los peritajes y avalúos de los daños a las instalaciones de alumbrado público y se hará efectivo el cobro a través de la Dirección General Jurídica y Secretaría de Economía y Finanzas y Tesorería Municipal, conforme a lo siguiente:
-
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1997)</small>
-
-a) El monto del avalúo cubrirá el importe de la reparación del daño y las maniobras.
-
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1997)</small>
-
-b) El daño será subsanado con el importe del pago de la reparación en un término de 30 días posteriores al suceso.
-
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
-
-IV. Realizar la contratación de Servicios de Energía Eléctrica, a nombre del Ayuntamiento.
-
-Las cargas admisibles en las instalaciones de Alumbrado Público serán aquellas cuya Tarifa corresponda a la señalada en la tarifa 5A indicada en el MANUAL DE PROCEDIMIENTOS exclusivamente.
-
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
-
-V. Será responsable de cumplir y hacer cumplir las disposiciones del presente Apartado y del MANUAL DE PROCEDIMIENTOS.
-
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
-
-VI. Realizar eficientemente la operación, conservación y mantenimiento de las instalaciones, y queda estrictamente prohibido intervenir en las instalaciones propiedad del Municipio, a personal ajeno al H. Ayuntamiento de Querétaro salvo en los casos en que exista convenios de colaboración en la prestación del servicio o concesión a favor de particulares.
-
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
-
-VII. Asignar y proporcionar a los constructores de obras de iluminación de los espacios públicos previstos en el artículo 544 del presente ordenamiento y conforme (sic) establecido en el MANUAL DE PROCEDIMIENTOS.
-
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
-
-VIII. Tener permanentemente vigente la carga total instalada del Municipio a través de la actualización del censo de Alumbrado Público; el servicio en su totalidad estará medido, y registrado el consumo mensualmente, para confrontarlo con la facturación que realice la Compañía Suministradora de la Energía Eléctrica en las agencias correspondientes: la Agencia Querétaro Centro, Sur, Norte, el Pueblito y Santa Rosa; con el fin de lograr la equidad entre consumo e importe.
-
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
-
-XI (sic). Promover el empleo de equipos de alta eficiencia, el apagado parcial o total según el caso específico de los circuitos donde sea posible.
-
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
-
-X. Realizar el retiro y/o redistribución de equipos existentes que por su localización generen niveles de iluminación excesiva, previamente será realizado un estudio luminotécnico y se hará del conocimiento de los vecinos del lugar.
-
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
-
-XI. Realizará reposición y/o instalación de equipos nuevos que sean necesarios en zonas de calles o áreas que presenten penumbras u obscuridad absoluta.
-
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
-
-XII. Verificará la instalación de medidores en los centros de control de cada uno de los circuitos de todas las Delegaciones, que carezcan del equipo.
-
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
-
-XIII. En la construcción de nuevas obras de Alumbrado Público (Vialidades, Fraccionamientos, Condominios Horizontales y Verticales, Colonias Populares, Comunidades, Ejidos, Templos, Monumentos, etc.) Se exigirá el empleo de equipos de alta eficiencia; luminarias, balastros, lámparas, etc., Que nos permitan reducir el consumo sin afectar la calidad del servicio, respetando las Normas Nacionales Vigentes; además de que se evitará el uso de luminarias incandescentes, fluorescentes, de vapor de mercurio y de aditivos metálicos para vialidades; siendo utilizados exclusivamente en Templos, Monumentos y Alumbrado decorativo.
-
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
-
-XIV. Con la participación de la Sociedad y todas las áreas del Gobierno Municipal, habrá inspección escrupulosa a fin de que los equipos de alumbrado operen eficientemente.
-
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
-
-XV. Las fotoceldas de control indistintamente de la marca, estarán firmemente instalados y orientados hacia el norte geográfico como lo indican las instrucciones del fabricante.
-
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
-
-XVI. Ordinariamente serán realizados monitoreos de los parámetros eléctricos de los circuitos distribuidos en el municipio de Querétaro, para verificar la calidad de la energía y las mediciones registradas en los equipos de la Compañía Suministradora de la Energía Eléctrica.
-
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
-
-XVII. Las instalaciones deberán conservarse a lo largo de su vida útil de acuerdo a las consideraciones y características de los materiales indicados en el proyecto que sirvió de base para su ejecución, de tal manera que tanto estética como técnicamente operen en las condiciones más ventajosas.
-
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
-
-XVIII. Periódicamente serán realizadas auditorías a las Areas de Alumbrado distribuidas en el Municipio, para verificar avances, resultados, eficiencia, administración de recursos humanos y materiales.
-
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1997)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 548.
 
-Para el oportuno cumplimiento de lo dispuesto por el artículo anterior, el H. Ayuntamiento podrá celebrar los convenios que sean necesarios con la Federación, el Estado, Fraccionadores, colonos organizados, según sea el caso y de conformidad con lo dispuesto en el artículo 79, 91 fracción V, 92 y 93 de la Ley Orgánica Municipal vigente en el Estado, y los artículos 507 y 508 del presente ordenamiento.
-
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1997)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 549.
 
-La prestación del Servicio y los requisitos que deberán prever las nuevas obras de instalación del alumbrado Público, queda regulada por las disposiciones del presente apartado y por el Manual de Procedimientos para la Infraestructura y la Prestación del Servicio de Alumbrado Público en vigor, debiéndose sujetar las prioridades que para tal efecto establezcan los Programas de Desarrollo Urbano Municipal y de manera supletorio, a las leyes Federales aplicables y a las Normas Oficiales vigentes de la Secretaría de Energía y de la Comisión Nacional de Ahorro de Energía.
-
-Para la elaboración de los proyectos ejecutivos serán tomados en cuenta todas las especificaciones descritas en el MANUAL DE PROCEDIMIENTOS.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
-
-La autorización de Proyectos Ejecutivos será otorgada por la Secretaría de Servicios Públicos Municipales a través del Departamento de Alumbrado Público conforme a lo siguiente:
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
-
-Al término de las obras, se deberá contar con una Constancia de Cumplimiento de Norma expedida por Unidad de Verificación con Registro vigente en la entidad y reconocida por autoridades municipales. Este documento certificará la ejecución y calidad de las instalaciones con apego estricto a los materiales indicados en el Proyecto Ejecutivo autorizado, en donde intervendrán representantes de la Secretaría de Servicios Públicos Municipales, Alumbrado Público, Obras Públicas Municipales, la Dirección General Jurídica, el Constructor, la Unidad de Verificación y la Junta de Vecinos beneficiados o Asociación de Colonos cuando existan.
-
-Para Recepción de las Obras de Alumbrado Público deberán tenerse en cuenta:
-
-a) La medición de los niveles de iluminancia.
-
-b) La medición de los niveles de luminancia.
-
-c) El factor de unifomidad (sic).
-
-d) La medición de consumos de los circuitos.
-
-e) El análisis técnico-económico de los costos de explotación por período mínimo de 5 años.
-
-f) La información del proyecto ejecutivo autorizado estará contenido en un disquete, en donde se describirá detalladamente el plano digitalizado y la base de datos correspondiente para incorporar esta información al sistema.
-
-Una vez terminadas las obras en caso de fraccionamientos y/o unidades habitacionales, el Fraccionador deberá contratar temporalmente a su cargo el servicio ante la Compañía suministradora de Energía Eléctrica quien instalará el equipo de medición correspondiente durante el período de ventas de las viviendas hasta cubrir el 6% de ocupación de las mismas, presentará copias del acta de inscripción y el total del equipo de alumbrado en condiciones óptimas de operación, tiempo en que podrán realizarse los trámites de Entrega-Recepción.
-
-Cuando se trate de instalaciones de Alumbrado Público en Vialidades, Parques y Jardines, éstas serán contratadas provisionalmente a cargo del Contratista o Constructor ante la Compañía Suministradora de Energía Eléctrica para efectos de pruebas, por un período mínimos de siete días; plazo en que podrán realizarse los trámites de Entrega-Recepción de obra, después de instalado el equipo de medición, presentada el acta de inspección de obras terminada, los contratos provisionales de energía ante la Compañía Suministradora de la Energía Eléctrica y el 100% del equipo en condiciones óptimas de operación.
-
-Para la contratación del servicio de energía eléctrica con cargo al Ayuntamiento, se procederá conforme a lo siguiente:
-
-Reunidos todos los requisitos enumerados y cubierto el finiquito de la facturación de la energía, se procederá a realizar el cambio de usuario ante la Compañía Suministradora de la Energía Eléctrica y a partir de esta fecha el Gobierno Municipal; dará por recibidas las obras en cuestión las cuales pasarán a formar parte de su patrimonio y cubrirá los pagos correspondientes al consumo de energía. Transcurrido un año a partir de la fecha de Recepción, serán con cargo al H. Ayuntamiento la operación, la conservación y el mantenimiento después de verificar conjuntamente con el constructor, el buen funcionamiento del equipo y la ausencia de vicios ocultos.
-
-El Acta de Entrega-Recepción será el documento en donde la Parte Ejecutora de la Obra, cede los derechos y obligaciones al Gobierno Municipal, debiéndose presentar junto con una fianza que garantiza por el término de un año la calidad de los materiales y la inexistencia de vicios ocultos y que será por un monto equivalente al valor de la obra de alumbrado.
-
-El Constructor será liberado de las responsabilidades inherentes al Servicio, hasta el momento en que la Autoridad Municipal verifique la calidad de los materiales y la inexistencia de vicios ocultos, para la entrega definitiva de la Instalaciones de Alumbrado Público, conforme a lo dispuesto en el MANUAL DE PROCEDIMIENTOS.
-
-Para las mejoras en las Instalaciones de Alumbrado se procederá conforme a lo siguiente:
-
-a) Las mejoras, en caso necesario, serán con la Participación económica de los vecinos del lugar, en base a un estudio de requerimientos y con las aportaciones que previamente se acuerden.
-
-b) Las mejoras y ampliaciones deberán apegarse a las disposiciones formuladas en el presente reglamento.
-
-c) Las mejoras y ampliaciones quedan incluidas dentro del término Obras Nuevas, para efectos del presente Apartado.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 APARTADO QUINTO
 
@@ -5095,115 +4727,61 @@ DE LOS MERCADOS Y CENTROS DE ABASTO
 
 ###### ARTICULO 550.
 
-La prestación del servicio público a que se refiere este apartado, tiene por objeto facilitar a la población del Municipio, el acceso a la oferta de productos de consumo generalizado que satisfagan sus necesidades básicas.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 551.
 
-El Ayuntamiento, con base a los Programas de Desarrollo Urbano Municipal, determinará las áreas en las que se podrán establecer los mercados, tianguis y centros de abasto.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 552.
 
-El Ayuntamiento en materia de mercados, tianguis y centros de abasto, procurará:
-
-I. Fomentar la integración, ordenación y modernización del proceso comercial de mercancías o artículos de consumo generalizado;
-
-II. Fomentar la adecuada y eficiente participación de los comerciantes;
-
-III. Fomentar el adecuado racionamiento en la distribución de alimentos en el Municipio;
-
-IV. Fomentar el reducimiento de la innecesaria intermediación; y
-
-V. Las demás que le señalen las leyes respectivas.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 553.
 
-Las personas físicas o morales que deseen ejercer el comercio en cualquier modalidad de las contempladas en este apartado, deberán previamente recabar de la autoridad municipal competente, la licencia o permiso correspondiente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 554.
 
-El pago de derechos que por concepto de licencia o permisos fije la autoridad municipal, se cobrará de acuerdo a la Ley de Ingresos Municipales, pudiendo ser por anualidad o cuota temporal según el giro.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 555.
 
-Las licencias y permisos que otorgue el Ayuntamiento, serán válidas única y exclusivamente para el titular y el giro que éstas contemplan. En ningún caso se podrán transferir a terceras personas o cambiar el giro de las licencias o permisos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 556.
 
-Lo relacionado con el establecimiento de tianguis, se observará en lo dispuesto en los artículos 406 y 407 de este Código Municipal.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ## TITULO SEGUNDO. DE LOS MERCADOS Y CENTROS DE ABASTO
 
 ###### ARTICULO 557.
 
-Se consideran mercados públicos aquellos inmuebles, edificados o no, donde concurren personas físicas o morales con autorización del Ayuntamiento, a ofertar productos o mercancía a los consumidores que acuden a él, en demanda de los mismos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 558.
 
-Se consideran centros de abasto, las unidades de distribución al mayoreo, cuya principal actividad es la de recepción, exhibición y almacenamiento especializado, con la venta del producto en estado fresco o industrializado, para satisfacer los requerimientos de la población.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 559.
 
-Se les denominará locatarios a quienes con capacidad legal y autorización municipal, ejercen el comercio como ocupación ordinario en algún espacio dentro de los límites del mercado.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 560.
 
-El uso de las concesiones de los espacios para el giro comercial a que tenga derecho el locatario, no crea derechos reales.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 561.
 
-Para la debida atención general de mercados, el Presidente Municipal nombrará administradores.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 562.
 
-Son obligaciones y atribuciones de la administración del mercado:
-
-I. Responsabilizarse de la adecuada administración del mercado;
-
-II. Contabilizar diariamente el ingreso que los recaudadores hacen por el cobro de derechos;
-
-III. Contabilizar diariamente las boletas de cobro a que se refiere la fracción anterior;
-
-IV. Planear, coordinar y vigilar todas las actividades que se realicen dentro de los límites del mercado a su cargo;
-
-V. Llevar un registro de las asociaciones de locatarios que existan, con actas y estatutos respectivos, así como el padrón general de locatarios;
-
-VI. Vigilar la vigencia de los permisos y licencias, así como el debido destino del giro comercial autorizado, de los comerciantes que operen dentro del mercado;
-
-VII. Estudiar, analizar y proponer soluciones, conjuntamente con los locatarios, de los problemas que afecten al buen funcionamiento e imagen del mercado;
-
-VIII. Establecer los lugares y vías en que se habrá de instalar el tianguis, así como las condiciones de seguridad e higiene en que habrá de celebrarse;
-
-IX. Tomar las medidas necesarias para resguardar la seguridad, imagen e higiene del mercado;
-
-X. Elaborar un informe mensual del estado que guarda la administración del mercado respectivo, y hacerlo del conocimiento del Presidente Municipal; y
-
-XI. Las demás que con motivo de sus funciones le confiera el Ayuntamiento.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 563.
 
-Se prohíbe a los locatarios:
-
-I. Traspasar la licencia o permiso de funcionamiento de su local;
-
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
-
-II. Cambiar el giro comercial sin previo acuerdo y autorización de la Secretaría de Economía y Finanzas y Tesorería Municipal;
-
-III. Expender bebidas alcohólicas, vender o poseer material flamable o explosivos en el interior del mercado;
-
-IV. Ejercer el comercio en estado de ebriedad;
-
-V. Utilizar los espacios o locales dados en concesión para el ejercicio del comercio, como vivienda, u otro destino distinto al contemplado en la licencia o permiso respectivo;
-
-VI. Modificar la estructura o diseño del espacio o local dado en concesión, sin la autorización previa del Ayuntamiento;
-
-VII. Concentrar o acaparar productos de primera necesidad con fines especulativos;
-
-VIII. Subarrendar el espacio o local dado en concesión a terceras personas;
-
-IX. Ejercer el comercio sin la licencia o permiso correspondiente; y
-
-X. Las que por seguridad, higiene e imagen les señale el Ayuntamiento por conducto del administrador del mercado.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 APARTADO SEXTO
 
@@ -5213,353 +4791,193 @@ DEL RASTRO MUNICIPAL
 
 ###### ARTICULO 564.
 
-El rastro existente y los que en el futuro se construyan, en el Municipio de Querétaro, son instituciones de servicio público, propiedad del Municipio y sujetos al régimen de propiedad que señala la Ley Orgánica Municipal.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 565.
 
-La prestación del servicio estará a cargo del Ayuntamiento a través de la Secretaría correspondiente, siendo el presente apartado la norma que fija las actividades de administración, funcionamiento y explotación de este servicio público.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 566.
 
-Compete al regidor del ramo y por conducto de la Secretaría de Economía y Finanzas y Tesorería Municipal, la vigilancia y supervisión del servicio, incluidos los rastros subsidiarios y conexos que habiendo cumplido los requisitos de ley tengan ese carácter.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 567.
 
-La (sic) efectos de este apartado se considerarán los siguientes conceptos de acuerdo al área de actividad:
-
-I. RASTRO MUNICIPAL.- El lugar donde se realizan actividades de guarda y matanza de animales para su distribución, así como la de otros productos que se deriven; aves y productos del mar.
-
-II. ANFITEATRO.- Es el lugar donde se realiza el sacrificio, evisceración e inspección de:
-
-a) Animales muertos de cualquier procedencia, destinados a la venta.
-
-b) Ganado.
-
-c) Animales enfermos o sospechosos de enfermedad.
-
-El horario de servicio será de las 6:00 a las 11:00 horas diariamente.
-
-III. PAILAS.- Departamento donde se realiza la cocción y prensado de sangre, cocción de cuernos, extracción y fritura de grasas, industrialización de carnes, despojos y demás esquilmos, así como la destrucción de despojos contaminados;
-
-IV. ESQUILMOS.- La sangre de los animales sacrificados, estiércol seco o fresco, cerdas, cuernos, pezuñas, orejas, hiel, glándulas, hueso calcinado, pellejos provenientes de limpia de pieles, residuos y grasas de las pailas, y todos los productos de animales enfermos que se destinan a las pailas o sean remitidos por Autoridades Sanitarias, ya sea al anfiteatro o para su incineración, así como cuantas materias resulten del sacrificio de ganado;
-
-V. DESPERDICIOS.- Las basuras que se recojan en los establecimientos o esquilmos que no sean aprovechados;
-
-VI. ZONA DE DESEMBARQUE.- Es el lugar destinado a la recepción de ganado, con horario de servicio al público de las 5:00 a las 21:00 horas todos los días;
-
-VII. CORRALES.- Son los lugares destinados para guarda temporal de ganado que se introduzca al rastro para su sacrificio;
-
-VIII. MERCADO DE CANALES Y VISCERAS.- Es el lugar destinado al depósito de estos productos para su venta, ya inspeccionados por la Secretaría de Salud;
-
-IX. CAMARAS DE REFRIGERACION.- Son los lugares destinados a la conservación de productos provenientes de la matanza que no hayan sido vendidos en los mercados; el servicio se prestará mediante contrato con los usuarios del rastro; y
-
-X. HORNOS CREMATORIOS.- Sitios cuya finalidad es la cremación de carnes y esquilmos impropios para el consumo humano, previa autorización sanitaria.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ### CAPITULO III. De los Usuarios
 
 ###### ARTICULO 568.
 
-El Ayuntamiento, por medio de la Secretaría del mismo y previo el cumplimiento de los requisitos legales de este apartado y de las demás leyes complementarias, expedirá la autorización correspondiente a los usuarios del rastro.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 569.
 
-La administración del rastro estará a cargo de un administrador que será nombrado y removido por el Presidente Municipal, y tendrá a su cargo el personal de apoyo que garantice la buena prestación de los servicios, cuyo cobro estará a cargo de la Secretaría de Economía y Finanzas y Tesorería Municipal.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 570.
 
-El Ayuntamiento vigilará coordinadamente con las autoridades sanitarias, que se cumplan las disposiciones legales sobre la materia, en relación a autorizaciones, pesas, sanidad, precios oficiales y otros.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ### CAPITULO IV. Del Administrador del Rastro
 
 ###### ARTICULO 571.
 
-Son usuarios del rastro municipal aquellas personas físicas o morales que realizan actividades de comercio de animales y productos del mar para consumo humano, y que cumpliendo los requisitos de este apartado y demás disposiciones afines, adquieren la categoría de permanentes o temporales, con la autorización del Municipio.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 572.
 
-Para obtener la licencia de acreditación como usuario del rastro municipal, se deberá presentar en el departamento correspondiente de la Secretaría de Economía y Finanzas y Tesorería Municipal: solicitud, anexando documentos de identificación, domicilio, actividad o asiento de su (s) negocio (s), autorización sanitaria, o tarjeta de salud y 2 fotografías tamaño credencial y demás requisitos que se soliciten.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 573.
 
-Para la introducción de ganado a sacrificio en el rastro municipal, el usuario deberá cumplir con las siguientes normas:
-
-I. Registrar debidamente su ganado en la caseta de vigilancia mostrando documentos que acrediten la legítima procedencia del mismo, y conservar la boleta de registro que se le expida, manifestando además la fecha en que el ganado será sacrificado;
-
-II. Acreditar su condición y someterse a la revisión de vehículos de transporte;
-
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
-
-III. Los trámites podrán ser realizados personalmente, por personas de su familia o dependientes laborales a través de carta poder presentando la credencial o autorización correspondiente expedida por la Secretaría de Economía y Finanzas y Tesorería Municipal;
-
-IV. Atender al público consumidor en el horario que autorice la administración del rastro, avisando oportunamente los cambios en lugares visibles del establecimiento;
-
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
-
-V. En su caso cumplir las sanciones que se les impongan por infracciones a este apartado y demás leyes aplicables, ante la Secretaría de Economía y Finanzas y Tesorería Municipal;
-
-VI. Permitir las visitas de inspección que practiquen el Ayuntamiento, Secretaría de Comercio y Secretaría de Salud; y
-
-VII. Cargar y descargar la carne y todos sus derivados en los lugares establecidos para tal efecto.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 574.
 
-Queda prohibido a los usuarios del rastro:
-
-I. Sacar animales que no fueron sacrificados, sin cumplir las disposiciones sanitarias, y haber pagado los derechos correspondientes;
-
-II. Descargar carnes frescas o refrigeradas para el consumo humano fuera del rastro municipal;
-
-III. Distribuir carne fresca o refrigerada a los detallistas sin la debida inspección sanitaria, y sin cumplir sus obligaciones fiscales;
-
-IV. Hacer trámites fuera del horario autorizado; éste será fijado por la administración del Rastro y publicado en lugares visibles del establecimiento;
-
-V. Proporcionar datos falsos en las solicitudes respectivas;
-
-VI. Introducir ganado en los corrales fuera del horario establecido;
-
-VII. Entrar sin autorización de la administración, a los departamentos de sacrificio e inspección sanitaria;
-
-VIII. Colgar canales fuera de las perchas autorizadas por la administración;
-
-IX. Vender canales y vísceras fuera de los lugares y horarios autorizados;
-
-X. Abandonar canales en las cámaras de refrigeración por más de 72 horas; pasado el término la administración procederá a su venta o incineración según proceda. El producto de la venta será a beneficio del municipio; y
-
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
-
-XI. Hacer algún depósito en las cámaras de refrigeración sin autorización de la administración; cuando un usuario no sacrifique a sus animales en los plazos establecidos, el rastro los conservará por cinco días máximo, procurando su alimentación y cuidado que se cobrará en su oportunidad; pasado este período el rastro sacrificará a los animales y del producto de su venta será pagada la manutención y cuidado, devolviendo el excedente a su propietario, quien además se hará acreedor a una sanción administrativa del 5% del valor total de los productos, siendo la Secretaría de Economía y Finanzas y Tesorería Municipal la que haga el cobro correspondiente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ### CAPITULO V. Del Sacrificio de los Animales
 
 ###### ARTICULO 575.
 
-El administrador del Rastro Municipal tendrá las siguientes funciones:
-
-I. Elaborar un padrón de los usuarios y efectuar su registro de acuerdo a las categorías y tipos de animales que expendan;
-
-II. Tener al día el archivo del rastro;
-
-III. Presentar al Presidente Municipal proyectos de ampliación, mejoras u otras de las instalaciones del rastro municipal;
-
-IV. Programa (sic) el mantenimiento preventivo anual de las instalaciones;
-
-V. Vigilar que los usuarios hagan uso adecuado de las instalaciones;
-
-VI. Vigilar el adecuado uso del aparato de sonido; que las instalaciones del rastro se conserven en buen estado; supervisar los servicios de refrigeración, y separar de los lugares de uso común la carne en estado de descomposición o abandonada;
-
-VII. Impedir que se altere el orden en el interior y en los aledaños del rastro, dando aviso en su oportunidad a las autoridades competentes;
-
-VIII. Informar a sus superiores de las actividades desarrolladas periódicamente dentro del rastro municipal, así como de las violaciones que se cometan en contra de las leyes reglamentarias;
-
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
-
-IX. Reportar mensualmente a la Secretaría de Economía y Finanzas y Tesorería Municipal el volumen de esquilmos y desperdicios, así como el producto de su venta o aprovechamiento;
-
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
-
-X. En el caso de que un usuario incurra en alteraciones a los precios oficiales, procederá a decomisar el o los productos en coordinación con la Secretaría de Comercio y la Secretaría de Economía y Finanzas y Tesorería Municipal;
-
-XI. Establecer mecanismos para que el abasto de carne y demás productos destinados al consumo humano sea eficiente, efectivo, ágil y expedito;
-
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
-
-XII. Proponer al Presidente Municipal, para su trámite y aprobación los contratos de suministro de pastura para alimentación de los animales que permanezcan en los corrales del rastro, debiendo cubrirse los derechos u otras erogaciones con ese motivo a la Secretaría de Economía y Finanzas y Tesorería Municipal;
-
-XIII. Vigilar que el servicio sanitario selle la carne para su venta y distribución una vez que se hayan cumplido los requisitos;
-
-XIV. Cuando por causas de fuerza mayor no se realicen los servicios que ya hubieren sido pagados, se reintegrará el monto cubierto a los usuarios de la siguiente manera: el 100% si el personal que deba realizar el servicio no ha sido citado, el 50% cuando ocurra lo contrario;
-
-XV. Fijar en cada caso la hora para el sacrificio de ganado tomando en cuenta que la matanza termina a las 06:00 a.m.;
-
-XVI. Vigilar que los animales enfermos previa inspección sanitaria, sean remitidos al anfiteatro para su sacrificio y demás consecuencias;
-
-XVII. Establecer los mecanismos adecuados para el arrendamiento de las mesas donde se expendan las vísceras;
-
-XVIII. Crear el Reglamento Interior de Trabajo y vigilar su cumplimiento previa autorización del mismo por las autoridades competentes;
-
-XIX. Revisar que la facturación que acredita la propiedad del ganado, se encuentre en orden; rechazar la documentación que no llene los requisitos de la Ley Ganadera Federal o Estatal, e impedir la salida de ganado en pie o en canal si no se acredita su legítima procedencia, reportando la circunstancia a las autoridades correspondientes;
-
-XX. Fijar en lugares visibles en el rastro municipal, circulares, disposiciones, avisos, etc., que sean necesarios para que con base en la información se promuevan el buen funcionamiento de las instalaciones del rastro y el buen desempeño de su personal; y
-
-XXI. Prohibir el consumo de bebidas embriagantes y drogas enervantes dentro y en las inmediaciones del rastro, dando aviso a las autoridades correspondientes cuando se presente alguno de los casos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ### CAPITULO VI. De la Introducción de los Productos del Mar y Otros Tipos de Carnes Frescas Provenientes del Interior del Estado u Otras Entidades
 
 ###### ARTICULO 576.
 
-Los animales destinados al sacrificio deberán estar en los corrales del Rastro Municipal con 12 horas de anticipación.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 577.
 
-El horario para el recibo de manifestaciones de matanza, será fijado por la administración del rastro, de acuerdo a lo dispuesto en este apartado.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 578.
 
-En las solicitudes se deberá expresar el número y especie de animales que se desea sacrificar, la administración formulará un listado que contenga nombre del usuario, número y especie de animales manifestados, así como fecha y hora en que deba realizarse el sacrificio.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 579.
 
-Los propietarios o introductores de animales pagarán diariamente a la caja de la Secretaría de Economía y Finanzas y Tesorería Municipal establecida en el rastro, los impuestos y aportaciones con motivo de los servicios solicitados, incluido el peso en las básculas instaladas para tal fin.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 580.
 
-Cumplidos los requisitos, los animales entrarán en los corrales en su orden de llegada; salvo casos justificados y previa supervisión sanitaria se podrá modificar ese orden y sacrificio haciendo constar la circunstancia en la documentación respectiva.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 581.
 
-La administración por conducto de su personal autorizado, cuidará que las pieles, canales, vísceras, se marquen para evitar confusión de pertenencia; asimismo cuidará que las pieles pasen al departamento de limpia y efectuada ésta, las entregará a sus propietarios.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 582.
 
-La entrega de canales, vísceras y pieles a los usuarios por parte de los departamentos correspondientes se hará mediante recibo de firma conjunta. En caso de alguna irregularidad, los usuarios formularán sus peticiones ya sea ante el propio departamento o ante la administración, turnando copia al corresponsable. De no presentarse objeción alguna inmediata a la firma del recibo, el usuario perderá su derecho de hacerlo posteriormente, quedando sin responsabilidad el rastro municipal.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ### CAPITULO VII. De la Inspección Sanitaria
 
 ###### ARTICULO 583.
 
-Todos los productos provenientes del mar que sean destinados para el consumo público de los habitantes del municipio, serán desembarcados y depositados en las instalaciones del rastro municipal para su inspección sanitaria, control fiscal y distribución.
-
-Cuando alguna circunstancia especial o caso fortuito impida el traslado al Rastro la carga de los productos marítimos, se podrá hacer la inspección en lugar distinto al señalado por este apartado, debiéndose observar estrictamente el control sanitario a cargo del personal veterinario adscrito al rastro municipal.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 584.
 
-Queda a cargo del rastro municipal prestar los servicios e instalaciones para el control, revisión sanitaria y depósito temporal de los productos de mar y carnes frescas.
-
-Al igual que en el sacrificio de ganado, la administración del rastro, se reserva el derecho de disponer de los productos que no cumplan con los requisitos para su incineración, o bien para gravarlos cuando no cumplan con las normas establecidas por el presente apartado.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ### CAPITULO VIII. Del Mercado de Canales y Vísceras
 
 ###### ARTICULO 585.
 
-(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001) (REPUBLICADO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 586.
 
-(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001) (REPUBLICADO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 587.
 
-(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001) (REPUBLICADO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 588.
 
-(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001) (REPUBLICADO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 589.
 
-(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001) (REPUBLICADO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 590.
 
-(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001) (REPUBLICADO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 591.
 
-(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001) (REPUBLICADO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 592.
 
-(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001) (REPUBLICADO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 593.
 
-(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE OCTUBRE DE 2004)</small>
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001) (REPUBLICADO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 594.
 
-Queda estrictamente prohibida la matanza de ganado (hembra) que se encuentren preñadas; el usuario que no respete esta disposición será sancionado con una multa que le imponga la Secretaría de Economía y Finanzas y Tesorería Municipal y hasta la cancelación de su licencia.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ### CAPITULO IX. Del Transporte Sanitario de Carnes
 
 ###### ARTICULO 595.
 
-Concluida la inspección sanitaria, las canales y vísceras se pondrán a disposición de sus propietarios para venta al público.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 596.
 
-El mercado de canales y vísceras deberá contar con perchas y anaqueles necesarios para exhibición; además tratándose de vísceras, con las mesas adecuadas, teniendo la administración las facultades que le otorga este apartado para el alquiler de las mismas, previo pago en la caja de la Secretaría de Economía y Finanzas y Tesorería Municipal ubicada en el rastro.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 597.
 
-El mercado de canales y vísceras permanecerá abierto dentro del horario que fije la administración; las canales y vísceras no vendidas durante el horario mencionado pasarán a refrigeración dentro de la media hora siguiente al cierre, debidamente requisitadas. Estos productos podrán ser sacados a la venta al día siguiente por sus propietarios, siendo gratuito dicho servicio; en el caso de carnes y viscerado abandonados fuera de este plazo, los propietarios pagarán el derecho de guarda que fije la Ley de Ingresos del Municipio.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 598.
 
-Las canales y vísceras que se reciban en el Rastro que provengan de animales sacrificados en otros lugares del estado y circunvecinos que sean propios para el consumo humano, previa revisión del servicio sanitario causarán los derechos que fije la Ley de Ingresos del Municipio.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ### CAPITULO X. Del Servicio de Vigilancia
 
 ###### ARTICULO 599.
 
-El servicio de transporte sanitario de carnes en el municipio de Querétaro, forma parte del servicio público del rastro, para todos los efectos legales conducentes.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 600.
 
-El Rastro prestará el servicio a que se refiere el artículo anterior, directa o indirectamente, por conducto de particulares, en virtud de concesión que les otorgue el Ayuntamiento.
-
-En el primer caso, el servicio de transporte sanitario de carnes se manejará por la administración del Rastro la que destinará, a tal fin, el número suficiente de vehículos para atender y cubrir las necesidades de distribución de los productos de matanza.
-
-En todos los casos, ya sea que el Rastro preste servicio, o que lo haga un particular, los vehículos que se utilicen, estarán parcialmente acondicionados para el transporte de carne, conforme a las especificaciones que señalen los reglamentos sanitarios.
-
-En todos los casos, la tarifa del transporte será fijada por el Ayuntamiento, tomando en cuenta la especie de ganado, capacidad del vehículo, distancia, etc.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 601.
 
-El servicio de vigilancia en el Rastro corresponde a la administración y se realizará por conducto de un jefe de servicio, cabos, celadores y auxiliares.
-
-Por sus funciones, las personas del servicio de vigilancia del rastro serán consideradas como auxiliares de la policía preventiva y quedan autorizados para portar armas, cuando estén en el desempeño de su trabajo.
-
-El jefe del servicio de vigilancia es el administrador del rastro.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 602.
 
-El servicio de vigilancia será permanente y se encargará de guardar y custodiar todos los bienes: muebles, inmuebles, maquinaria, útiles, enseres, animales, mercancías y todo cuanto se encuentre en el edificio del Rastro; para tal efecto, se establecerán los turnos necesarios, compuestos del personal suficiente, a fin de que, en ningún momento, quede sin vigilancia efectiva el establecimiento.
-
-La organización, número de turnos y horarios que deban cubrir, se determinarán por la administración, tomando en cuenta las condiciones propias del lugar vigilado y las peculiaridades de los bienes que se trata de proteger, oyendo siempre el parecer del jefe del servicio.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 603.
 
-El personal de vigilancia también tiene la obligación de cubrir todos los demás servicios que le encomiende la administración, relacionados con sus funciones, a saber:
-
-I. La vigilancia para el desarrollo normal de las labores de los diversos departamentos;
-
-II. Guardar el orden en el interior;
-
-III. Evitar que entren al establecimiento personas ajenas, en estado inconveniente o aquellas sobre las que exista orden expresa para impedirles el acceso;
-
-IV. Prestar auxilio en los casos de accidentes, desórdenes y cuanto ocurra, que ponga en peligro la vida de las personas, la disciplina, los bienes o intereses que se encuentren en el rastro;
-
-V. Impedir los escándalos y robos;
-
-VI. Dar cuenta inmediata a sus superiores, de las novedades que ocurran y pedir instrucciones; y
-
-VII. En casos extremos, en que por el lugar y la hora no tengan manera de pedir esas órdenes, proceder, desde luego, a resolver los problemas que se planteen, en la forma más prudente, informando después a la administración, para que confirme o revoque las medidas o acuerdos tomados.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 604.
 
-En los casos de incendio, motines y acontecimientos semejantes, el personal de vigilancia está obligado a dar la señal de alarma, pidiendo el auxilio de la fuerza pública.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 605.
 
-La administración queda facultada para que en la vigilancia del establecimiento aplique medidas no previstas en este apartado, pudiendo llegar hasta impedir la entrada al rastro a las personas que así juzgue necesario.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 ###### ARTICULO 606.
 
-Todo lo relacionado con el servicio de vigilancia, será de cumplimiento riguroso y, por lo mismo, las faltas que cometa el personal, serán sancionadas de manera enérgica y como estime conveniente la Secretaría del Ayuntamiento.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
 > <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL, P.O. 16 DE JUNIO DE 2000)</small>
 
@@ -8586,3 +8004,15 @@ CUARTO. Se instruye al Instituto Municipal de Capacitación, para que en coordin
 QUINTO. Se instruye a la Secretaría de Gestión Delegacional y Secretaría de Administración, para que conjuntamente generen o realicen las adecuaciones correspondientes a los manuales de procedimientos y operación, de conformidad con este ordenamiento.
 
 SEXTO. Se instruye a la Secretaría de Administración y a la Secretaría de Economía y Finanzas y Tesorería Municipal para que realicen lo necesario a efecto de asegurar la transferencia de los recursos presupuestarios, humanos y materiales que requiera la Secretaría de Gestión Delegacional y sus órganos que la integran para dar cumplimiento al presente Reglamento.
+
+P.O. 23 DE ENERO DE 2009.
+
+PRIMERO.- Publíquese en la Gaceta Municipal y en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en los medios de difusión precisados en el transitorio anterior.
+
+TERCERO.- Se derogan los artículos 76, 505 a 606 del Código Municipal de Querétaro; así como todos aquellos preceptos legales de igual o menor jerarquía que se opongan al presente ordenamiento.
+
+CUARTO.- El Reglamento de Limpia, publicado el día 25 de Mayo de 2005, en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga", quedará abrogado según lo señalada en el articulo segundo transitorio.
+
+QUINTO.- Se instruye al Instituto Municipal de Capacitación, para que en coordinación con la Secretaria de Servicios Públicos Municipales, diseñen y operen programas de capacitación en las materias contempladas por el presente Reglamento.
