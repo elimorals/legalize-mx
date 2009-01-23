@@ -4,7 +4,7 @@ identifier: "LFCDO"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-11-07"
-last_updated: "2007-11-27"
+last_updated: "2009-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9005&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFCDO"
 
 LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 7 de noviembre de 1996.
 
@@ -46,9 +46,11 @@ LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA
 
 La presente Ley tiene por objeto establecer reglas para la investigación, persecución, procesamiento, sanción y ejecución de las penas, por los delitos cometidos por algún miembro de la delincuencia organizada. Sus disposiciones son de orden público y de aplicación en todo el territorio nacional.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
+
 ###### Artículo 2o.
 
-Cuando tres o más personas acuerden organizarse o se organicen para realizar, en forma permanente o reiterada, conductas que por sí o unidas a otras, tienen como fin o resultado cometer alguno o algunos de los delitos siguientes, serán sancionadas por ese solo hecho, como miembros de la delincuencia organizada:
+Cuando tres o más personas se organicen de hecho para realizar, en forma permanente o reiterada, conductas que por sí o unidas a otras, tienen como fin o resultado cometer alguno o algunos de los delitos siguientes, serán sancionadas por ese solo hecho, como miembros de la delincuencia organizada:
 
 > <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2007)</small>
 
@@ -62,9 +64,9 @@ III. Tráfico de indocumentados, previsto en el artículo 138 de la Ley General 
 
 IV. Tráfico de órganos previsto en los artículos 461, 462 y 462 bis de la Ley General de Salud;
 
-> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2009)</small>
 
-V. Corrupción de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo previsto en el artículo 201; Pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 202; Turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en los artículos 203 y 203 BIS; Lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204; asalto, previsto en los artículos 286 y 287; secuestro, previsto en el artículo 366; tráfico de menores o personas que no tiene capacidad para comprender el significado del hecho, previsto en el artículo 366 Ter, y robo de vehículos, previsto en el artículo 381 bis del Código Penal Federal, o en las disposiciones correspondientes de las legislaciones penales Estatales o del Distrito Federal, y
+V. Corrupción de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo previsto en el artículo 201; Pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 202; Turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en los artículos 203 y 203 Bis; Lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204; asalto, previsto en los artículos 286 y 287; secuestro, previsto en el artículo 366; tráfico de menores o personas que no tiene capacidad para comprender el significado del hecho, previsto en el artículo 366 Ter, y robo de vehículos, previsto en los artículos 376 Bis y 377 del Código Penal Federal, o en las disposiciones correspondientes de las legislaciones penales Estatales o del Distrito Federal, y
 
 > <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
 
@@ -140,19 +142,35 @@ A solicitud del Ministerio Público de la Federación, la Secretaría de Haciend
 
 ### CAPÍTULO SEGUNDO. DE LA DETENCIÓN Y RETENCIÓN DE INDICIADOS
 
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2009)</small>
+
 ###### Artículo 11.
 
 En las averiguaciones previas relativas a los delitos a que se refiere esta Ley, la investigación también deberá abarcar el conocimiento de las estructuras de organización, formas de operación y ámbitos de actuación. Para tal efecto, el Procurador General de la República podrá autorizar la infiltración de agentes.
 
 En estos casos se investigará no sólo a las personas físicas que pertenezcan a esta organización, sino las personas morales de las que se valgan para la realización de sus fines delictivos.
 
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2009)</small>
+
+###### Artículo 11 Bis.
+
+El Titular del órgano previsto en el artículo 8 podrá autorizar la reserva de la identidad de los agentes de la policía infiltrados, así como de los que participen en la ejecución de órdenes de aprehensión, detenciones en flagrancia y cateos relacionados con los delitos a que se refiere esta Ley, mediante resolución fundada y teniendo en cuenta el tipo de investigación, imposibilitando que conste en la averiguación previa respectiva su nombre, domicilio, así como cualquier otro dato o circunstancia que pudiera servir para la identificación de los mismos.
+
+En tales casos, se asignará una clave numérica, que sólo será del conocimiento del Procurador General de la República, del Titular del órgano antes citado, del Secretario de Seguridad Pública y del servidor público a quien se asigne la clave.
+
+En las actuaciones de averiguación previa, en el ejercicio de la acción penal y durante el proceso penal, el Ministerio Público y la autoridad judicial citarán la clave numérica en lugar de los datos de identidad del agente. En todo caso, el Ministerio Público acreditará ante la autoridad judicial el acuerdo por el que se haya autorizado el otorgamiento de la clave numérica y que ésta corresponde al servidor público respectivo, preservando la confidencialidad de los datos de identidad del agente. En caso de que el agente de la policía cuya identidad se encuentre reservada tenga que intervenir personalmente en diligencias de desahogo de pruebas, se podrá emplear cualquier procedimiento que garantice la reserva de su identidad.
+
 ### CAPÍTULO TERCERO. DE LA RESERVA DE LAS ACTUACIONES EN LA AVERIGUACIÓN PREVIA
 
 ### CAPÍTULO CUARTO. DE LAS ÓRDENES DE CATEO Y DE INTERVENCIÓN DE COMUNICACIONES PRIVADAS
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
+
 ###### Artículo 12.
 
-El juez podrá dictar, a solicitud del Ministerio Público de la Federación y tomando en cuenta las características del hecho imputado y las circunstancias personales del inculpado, el arraigo de éste en el lugar, forma y medios de realización señalados en la solicitud, con vigilancia de la autoridad, la que ejercerá el Ministerio Público de la Federación y sus auxiliares, mismo que se prolongará por el tiempo estrictamente indispensable para la debida integración de la averiguación de que se trate, sin que exceda de noventa días, con el objeto de que el afectado participe en la aclaración de los hechos que se le imputan y pueda abreviarse el tiempo de arraigo.
+El Juez podrá dictar el arraigo, a solicitud del Ministerio Público de la Federación, en los casos previstos en el artículo 2o. de esta Ley y con las modalidades de lugar, tiempo, forma y medios de realización señalados en la solicitud, siempre que sea necesario para el éxito de la investigación, para la protección de personas, de bienes jurídicos o cuando exista riesgo fundado de que el inculpado se sustraiga a la acción de la justicia, sin que esta medida pueda exceder de cuarenta días y se realice con la vigilancia de la autoridad, la que ejercerá el Ministerio Público de la Federación y la Policía que se encuentre bajo su conducción y mando inmediato en la investigación.
+
+La duración del arraigo podrá prolongarse siempre y cuando el Ministerio Público acredite que subsisten las causas que le dieron origen, sin que la duración total de esta medida precautoria exceda de ochenta días.
 
 ### CAPÍTULO QUINTO. DEL ASEGURAMIENTO DE BIENES SUSCEPTIBLES DE DECOMISO
 
@@ -170,13 +188,15 @@ Cuando se presuma fundadamente que está en riesgo la integridad de las personas
 
 ###### Artículo 15.
 
-Cuando el Ministerio Público de la Federación solicite al juez de distrito una orden de cateo con motivo de la investigación de alguno de los delitos a los que se refiere la presente Ley, dicha petición deberá ser resuelta en los términos de ley dentro de las doce horas siguientes después de recibida por la autoridad judicial.
+Cuando el Ministerio Público de la Federación solicite por cualquier medio al juez de distrito una orden de cateo con motivo de la investigación de alguno de los delitos a los que se refiere el presente ordenamiento, dicha petición deberá ser resuelta en los términos de Ley dentro de las doce horas siguientes después de recibida por la autoridad judicial.
 
 Si dentro del plazo antes indicado, el juez no resuelve sobre el pedimento de cateo, el Ministerio Público de la Federación podrá recurrir al tribunal unitario de circuito correspondiente para que éste resuelva en un plazo igual.
 
 El auto que niegue la autorización, es apelable por el Ministerio Público de la Federación. En estos casos la apelación deberá ser resuelta en un plazo no mayor de cuarenta y ocho horas.
 
-Cuando el juez de distrito competente, acuerde obsequiar una orden de aprehensión, deberá también acompañarla de una autorización de orden de cateo, si procediere, en el caso de que ésta haya sido solicitada por el agente del Ministerio Público de la Federación, debiendo especificar el domicilio del probable responsable o aquél que se señale como el de su posible ubicación, o bien el del lugar que deba catearse por tener relación con el delito, así como los demás requisitos que señala el párrafo octavo del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2009)</small>
+
+Cuando el Juez de Distrito competente, acuerde obsequiar una orden de aprehensión, deberá también acompañarla de una autorización de orden de cateo, si procediere, en el caso de que ésta haya sido solicitada por el agente del Ministerio Público de la Federación, debiendo especificar el domicilio del probable responsable o aquél que se señale como el de su posible ubicación, o bien el del lugar que deba catearse por tener relación con el delito, así como los demás requisitos que señala el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 16.
 
@@ -358,6 +378,14 @@ Los sentenciados por los delitos a que se refiere la presente Ley no tendrán de
 
 La misma regla se aplicará en relación al tratamiento preliberacional y la remisión parcial de la pena a que se refiere la ley que establece las normas sobre ejecución de penas y medidas de seguridad.
 
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2009)</small>
+
+###### Artículo 45.
+
+Los sentenciados por los delitos a que se refiere esta ley no tendrán el derecho de compurgar sus penas en el centro penitenciario más cercano a su domicilio.
+
+La legislación que establezca las normas sobre ejecución de penas y medidas de seguridad preverá la definición de los centros especiales para la reclusión preventiva y la ejecución de sentencias, la restricción de comunicaciones de los inculpados y sentenciados y la imposición de medidas de vigilancia especial a los internos por delincuencia organizada.
+
 ## TRANSITORIO
 
 ÚNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -391,3 +419,11 @@ D.O.F. 27 DE NOVIEMBRE DE 2007.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- El Ejecutivo expedirá el Reglamento de la Ley en un término de 120 días hábiles.
+
+D.O.F. 23 DE ENERO DE 2009.
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+...
