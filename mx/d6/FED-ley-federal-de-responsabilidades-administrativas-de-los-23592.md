@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-responsabilidades-administrativas-de-los-23592"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2002-03-13"
-last_updated: "2006-08-21"
+last_updated: "2009-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23592&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-03-12"
 
 LEY FEDERAL DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 13 de marzo de 2002.
 
@@ -395,6 +395,10 @@ c) Que la suspensión no traiga como consecuencia la consumación o continuació
 
 En los juicios ante el Tribunal Federal de Justicia Fiscal y Administrativa, en los que se impugnen las resoluciones administrativas dictadas conforme a la Ley, las sentencias firmes que se pronuncien tendrán el efecto de revocar, confirmar o modificar la resolución impugnada. En el caso de ser revocada o de que la modificación así lo disponga, se ordenará a la dependencia o entidad en la que el servidor público preste o haya prestado sus servicios, lo restituya en el goce de los derechos de que hubiese sido privado por la ejecución de las sanciones impugnadas, en los términos de la sentencia respectiva, sin perjuicio de lo que establecen otras leyes.
 
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2009)</small>
+
+Se exceptúan del párrafo anterior, los Agentes del Ministerio Público, peritos oficiales y miembros de las instituciones policiales de la Federación; casos en los que la autoridad sólo estará obligada a pagar la indemnización y demás prestaciones a que tengan derecho, sin que en ningún caso proceda la reincorporación al servicio, en los términos previstos en el apartado B, fracción XIII, del artículo 123 Constitucional.
+
 El Tribunal Federal de Justicia Fiscal y Administrativa podrá otorgar la suspensión cumpliendo los requisitos a que se refiere el artículo anterior.
 
 No procederá la suspensión de la ejecución de las resoluciones administrativas que se impugnen mediante la interposición del recurso o ante el Tribunal Federal de Justicia Fiscal y Administrativa, en tratándose de infracciones graves o casos de reincidencia.
@@ -664,3 +668,11 @@ D.O.F. 21 DE AGOSTO DE 2006
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Los Centros Públicos de Investigación contarán con un plazo de un año para celebrar el convenio de administración por resultados que establece el artículo 59 de la Ley de Ciencia y Tecnología del presente Decreto.
+
+D.O.F. 23 DE ENERO DE 2009.
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+...
