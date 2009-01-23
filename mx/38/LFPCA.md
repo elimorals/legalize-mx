@@ -4,7 +4,7 @@ identifier: "LFPCA"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2005-12-01"
-last_updated: "2006-12-27"
+last_updated: "2009-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46997&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPCA"
 
 LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de diciembre de 2005.
 
@@ -726,6 +726,10 @@ Tratándose de las sentencias que resuelvan sobre la legalidad de la resolución
 
 En el caso de sentencias en que se condene a la autoridad a la restitución de un derecho subjetivo violado o a la devolución de una cantidad, el Tribunal deberá previamente constatar el derecho que tiene el particular, además de la ilegalidad de la resolución impugnada.
 
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2009)</small>
+
+Hecha excepción de lo dispuesto en fracción XIII, apartado B, del artículo 123 Constitucional, respecto de los Agentes del Ministerio Público, los Peritos y los Miembros de las Instituciones Policiales de la Federación, que hubiesen promovido el juicio o medio de defensa en el que la autoridad jurisdiccional resuelva que la separación, remoción, baja, cese, destitución o cualquier otra forma de terminación del servicio fue injustificada; casos en los que la autoridad demandada sólo estará obligada a pagar la indemnización y demás prestaciones a que tengan derecho, sin que en ningún caso proceda la reincorporación al servicio.
+
 ###### ARTÍCULO 51.
 
 Se declarará que una resolución administrativa es ilegal cuando se demuestre alguna de las siguientes causales:
@@ -1159,3 +1163,11 @@ D.O.F. 27 DE DICIEMBRE DE 2006.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2007.
+
+D.O.F. 23 DE ENERO DE 2009.
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+...
