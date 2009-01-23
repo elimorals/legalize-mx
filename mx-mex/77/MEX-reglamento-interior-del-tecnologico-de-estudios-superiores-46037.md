@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tecnologico-de-estudios-superiores-4603
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-23"
-last_updated: "2005-08-23"
+last_updated: "2009-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE VILLA GUERRERO
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE ENERO DE 2009.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 23 de agosto de 2005.
 
@@ -127,13 +127,23 @@ I. Subdirección Académica.
 
 II. Subdirección de Planeación y Administración.
 
-III. División de Ingeniería en Industrias Alimentarias e Ingeniería en Sistemas Computacionales.
+> <small>(REFORMADA, G.G. 23 DE ENERO DE 2009)</small>
+
+III. División de Ingeniería en Industrias Alimentarias.
 
 IV. División de Licenciatura en Administración.
 
-V. Departamento de Vinculación.
+> <small>(REFORMADA, G.G. 23 DE ENERO DE 2009)</small>
 
-VI. Departamento de Actividades Culturales y Deportivas.
+V. División de Ingeniería en Sistemas Computacionales.
+
+> <small>(REFORMADA, G.G. 23 DE ENERO DE 2009)</small>
+
+VI. Departamento de Vinculación.
+
+> <small>(ADICIONADA, G.G. 23 DE ENERO DE 2009)</small>
+
+VII. Departamento de Actividades Culturales y Deportivas.
 
 El Tecnológico contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en el Manual General de Organización del Organismo; asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizado.
 
@@ -177,15 +187,19 @@ XIV. Las demás que les confieren otras disposiciones aplicables y aquellas que 
 
 ### CAPITULO V. DE LAS SUBDIRECCIONES, DIVISIONES Y DEPARTAMENTOS
 
+> <small>(REFORMADO, G.G. 23 DE ENERO DE 2009)</small>
+
 ###### Artículo 13.
 
-A la Subdirección Académica le corresponde planear, programar, dirigir, controlar y evaluar el desarrollo de los planes y programas académicos y de investigación de la carrera de ingeniería en industrias alimentarias e ingeniería en sistemas computacionales y de la licenciatura en administración, así como coordinar las actividades de control escolar del Tecnológico.
+A la Subdirección Académica le corresponde planear, programar, dirigir, controlar y evaluar el desarrollo de los planes y programas académicos y de investigación de las carreras de ingeniería en industrias alimentarias, administración e ingeniería en sistemas computacionales, así como coordinar las actividades de control escolar del Tecnológico.
 
 Quedan adscritas a la Subdirección Académica:
 
-I. División de Ingeniería en Industrias Alimentarias e Ingeniería en Sistemas Computacionales.
+I. División de Ingeniería en Industrias Alimentarias.
 
 II. División de Licenciatura en Administración.
+
+III. División de Ingeniería en Sistemas Computacionales.
 
 ###### Artículo 14.
 
@@ -410,3 +424,11 @@ ING. ALBERTO SANCHEZ FLORES
 DIRECTOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE VILLA GUERRERO Y SECRETARIO DE LA JUNTA DIRECTIVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 23 DE ENERO DE 2009.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
