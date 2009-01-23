@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-policia-federal-preventiva-12832"
 country: "mx"
 rank: "ley"
 publication_date: "1999-01-04"
-last_updated: "2005-10-25"
+last_updated: "2009-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12832&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-12-31"
 
 LEY DE LA POLICIA FEDERAL PREVENTIVA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 4 de enero de 1999.
 
@@ -64,6 +64,22 @@ Los recursos que anualmente le sean autorizados serán intransferibles a otras u
 La Policía Federal Preventiva ejercerá en todo el territorio nacional las atribuciones que establece la presente Ley, con estricto respeto a las que corresponden a las competencias de las instituciones policiales locales y municipales. Esta institución policial no tendrá atribuciones en los procesos electorales.
 
 Para el mejor ejercicio de sus atribuciones, la Policía Federal Preventiva podrá suscribir convenios de colaboración con las autoridades respectivas.
+
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2009)</small>
+
+###### Artículo 3 Bis.
+
+Si la autoridad jurisdiccional resuelve que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, la Policía sólo estará obligada a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación o reinstalación a la Policía Federal.
+
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2009)</small>
+
+###### Artículo 3 Bis 1.
+
+La indemnización a que se refiere el artículo anterior consistirá en:
+
+I. Veinte días de salario por cada uno de los años de servicios prestados, si la relación de servicio fuere por tiempo indeterminado, y
+
+II. Además, en el importe de tres meses de salario base.
 
 ### Capítulo II. De la Organización y Funcionamiento de la Institución
 
@@ -300,3 +316,11 @@ SEXTO. La Secretaría de Hacienda y Crédito Público en coordinación con las d
 SÉPTIMO. Los procedimientos y recursos administrativos iniciados antes de la entrada en vigor de las presentes reformas, se seguirán hasta su conclusión definitiva por y ante la autoridad que se presentaron de acuerdo con los ordenamientos vigentes al momento que iniciaron.
 
 OCTAVO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+D.O.F. 23 DE ENERO DE 2009.
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+...
