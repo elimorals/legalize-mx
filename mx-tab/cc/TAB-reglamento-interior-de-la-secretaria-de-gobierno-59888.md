@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-gobierno-59888"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-30"
-last_updated: "2008-01-30"
+last_updated: "2009-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59888&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 2009.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de enero de 2008.
 
@@ -207,11 +207,15 @@ G. ÓRGANOS DESCONCENTRADOS:
 
 G.1. COORDINACIÓN GENERAL DE APOYO AL DESARROLLO MUNICIPAL;
 
-G.2. INSTITUTO DE CAPACITACIÓN PARA EL DESARROLLO REGIONAL DE TABASCO;
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2009)</small>
 
-G.3. CENTRO DE INFORMACIÓN Y ANÁLISIS POLÍTICO; Y
+G.2. INSTITUTO DE CAPACITACIÓN PARA EL DESARROLLO REGIONAL DE TABASCO; Y
 
-G.4. COMISIÓN ESPECIAL PARA LA TRANSFERENCIA DE LOS SERVICIOS PÚBLICOS A LOS MUNICIPIOS.
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2009)</small>
+
+G.3. COMISIÓN ESPECIAL PARA LA TRANSFERENCIA DE LOS SERVICIOS PÚBLICOS A LOS MUNICIPIOS
+
+G.4. (DEROGADO, P.O. 24 DE ENERO DE 2009)
 
 La Secretaría contará, además, con las Unidades Administrativas y Órganos Administrativos Desconcentrados que se creen por necesidad de servicio y que se autoricen en el presupuesto.
 
@@ -859,9 +863,21 @@ XI. Vigilar en el ámbito de su competencia, el cumplimiento de la Constitución
 
 XII. Elaborar guías temáticas y de contenido relevante de las acciones conjuntas, entre el gobierno, partidos y sociedad, para influir con su difusión en conductas que garanticen un ambiente de civilidad y armonía;
 
-XIII. Someter a la consideración del Subsecretario, programas de su competencia, ejecutar los que se autoricen y evaluarlos en su caso; y
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2009)</small>
 
-XIV. Realizar las demás funciones que le señalen las disposiciones jurídicas vigentes y aquellas que le encomiende el Subsecretario.
+XIII. Someter a la consideración del Subsecretario, programas de su competencia, ejecutar los que se autoricen y evaluarlos en su caso;
+
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2009)</small>
+
+XIV. Realizar análisis de carácter político, económico social y aquellos que sean necesarios para alertar sobre los riesgos y amenazas a la seguridad del Estado;
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2009)</small>
+
+XV. Elaborar anualmente la Agenda Estatal de Riesgos, actualizarla constantemente y proponer estrategias que conlleven a la prevención, disuasión, contención y desactivación de riesgos y amenazas a la seguridad estatal y la gobernabilidad democrática, privilegiando en ellas el diálogo y la concertación; y
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2009)</small>
+
+XVI. Realizar las demás funciones que le señalan las disposiciones jurídicas vigentes y aquellas que le encomiende el Subsecretario.
 
 #### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE ENLACE INSTITUCIONAL
 
@@ -2229,9 +2245,11 @@ Las funciones que competen a la Procuraduría de la Defensa del Trabajo y la Pro
 
 SECRETARÍA DE GOBIERNO
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2009)</small>
+
 ###### Artículo 82.
 
-La Secretaría para apoyar la eficiente administración de los asuntos de su competencia contará con la Coordinación General de Apoyo al Desarrollo Municipal (CADEM), el Instituto de Capacitación para el Desarrollo Regional del Estado de Tabasco, (ICADET), el Centro de Información y Análisis Político y la Comisión para la Transparencia de los Servicios Públicos a los Municipios, como Órganos Administrativos Desconcentrados, con autonomía técnica, funcional, operativa y presupuesto propio; respectivamente, adscritos a la Secretaría, los cuales tienen las atribuciones que le señala su Acuerdo de Creación y su Reglamento.
+La Secretaría para apoyar la eficiente administración de los asuntos de su competencia contará con la Coordinación General de Apoyo al Desarrollo Municipal (CADEM), el Instituto de Capacitación para el Desarrollo Regional del Estado de Tabasco, (ICADET) y la Comisión para la Transparencia de los Servicios Públicos a los Municipios, como Órganos Administrativos Desconcentrados, con autonomía técnica, funcional, operativa y presupuesto propio; respectivamente, adscritos a la Secretaría, los cuales tienen las atribuciones que le señala su Acuerdo de Creación y su Reglamento.
 
 ###### Artículo 83.
 
@@ -2289,7 +2307,7 @@ NOVENO.- Los derechos de los trabajadores serán respetados conforme a la Ley y 
 
 EXPEDIDO EN EL PALACIO DE GOBIERNO, RECINTO OFICIAL DEL PODER EJECUTIVO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, A LOS 29 DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL SIETE.
 
-"SUFRAGIO EFECTIVO. NO REEELECCIÓN"
+"SUFRAGIO EFECTIVO. NO REELECCIÓN"
 
 QUIM. ANDRES RAFAEL GRANIER MELO
 
@@ -2302,3 +2320,9 @@ SECRETARIO DE GOBIERNO
 LIC. MIGUEL ALBERTO ROMERO PÉREZ
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.
+
+P.O. 24 DE ENERO DE 2009.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
