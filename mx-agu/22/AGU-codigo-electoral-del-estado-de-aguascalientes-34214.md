@@ -4,7 +4,7 @@ identifier: "AGU-codigo-electoral-del-estado-de-aguascalientes-34214"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-10-01"
-last_updated: "2007-11-19"
+last_updated: "2009-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 CODIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. 26 DE ENERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 1 de octubre de 2003.
 
@@ -3734,3 +3736,41 @@ P.O. 19 DE NOVIEMBRE DE 2007.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 26 DE ENERO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Código Electoral del Estado de Aguascalientes publicado en el Periódico Oficial del Estado el 1º de octubre del 2003, así como sus reformas y adiciones; en consecuencia quedan sin materia el Decreto 237 expedido por la LIX legislatura y las observaciones hechas al mismo por el titular del Poder Ejecutivo del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+###### ARTÍCULO CUARTO.
+
+A más tardar el 31 de mayo del 2009, el Congreso del Estado deberá nombrar a los tres consejeros electorales permanentes del Consejo General del Instituto Estatal Electoral, los cuales tomarán posesión de su cargo el día 15 de agosto del 2009, por lo que los Consejeros Ciudadanos concluirán sus funciones el día 14 de agosto del 2009. Los consejeros ciudadanos tendrán derecho a participar dentro del proceso para la designación de los tres consejeros electorales permanentes.
+
+###### ARTÍCULO QUINTO.
+
+El Congreso del Estado dentro de los 60 días siguientes a la entrada en vigor del presente Decreto, deberá nombrar al titular de la Contraloría General del Instituto Estatal Electoral, en la forma y términos que establecen el artículo 17 de la Constitución local y el Título Tercero del Libro Cuarto de este Decreto.
+
+###### ARTÍCULO SEXTO.
+
+El financiamiento público ordinario de los partidos políticos para el año 2009, que apruebe el Congreso del Estado dentro del Presupuesto de Egresos para el ejercicio fiscal 2009, les será entregado por la Dirección Administrativa en términos de lo establecido por la fracción VII del artículo 51 del presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Para efectos de la revisión del origen, monto y destino de los recursos de los partidos correspondientes al ejercicio del año 2008, y sólo para este efecto, se aplicará en lo conducente, lo establecido por el Capitulo X del Título Tercero del Código que se abroga.
+
+###### ARTÍCULO OCTAVO.
+
+El titular del Órgano de Fiscalización de los Recursos de los Partidos Políticos, será nombrado dentro de la última semana del mes de septiembre, mientras tanto los informes trimestrales de avance de ejercicio a que se refiere el artículo 67 de este Decreto, correspondientes al primer y segundo trimestres del año 2009, serán presentados ante el Secretario Técnico del Consejo, quien en su momento lo turnará al Titular del Órgano de Fiscalización para los efectos legales correspondientes.
+
+###### ARTÍCULO NOVENO.
+
+Para determinar los topes de gasto de precampaña, a que se refiere el artículo 179 de este Código, el Consejo General por esta única vez y sólo para este efecto, en la primera semana del mes de noviembre del 2009 determinará el tope de campaña para cada tipo de elección, tomando como base el salario mínimo general vigente, para lo cual observará las reglas establecidas en el artículo 61 de este Código.
