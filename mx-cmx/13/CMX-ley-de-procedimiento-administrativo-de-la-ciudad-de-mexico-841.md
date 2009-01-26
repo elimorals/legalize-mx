@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-procedimiento-administrativo-de-la-ciudad-de-mexico-841"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2008-01-07"
+last_updated: "2009-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=841&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1995-12-14"
 
 LEY DE PROCEDIMIENTO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE ENERO DE 2009.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 21 de diciembre de 1995.
 
@@ -135,6 +135,36 @@ A falta de disposición expresa y en cuanto no se oponga a lo que prescribe esta
 ###### Artículo 5o.
 
 El procedimiento administrativo que establece la presente Ley se regirá por los principios de simplificación, agilidad, información, precisión, legalidad, transparencia, imparcialidad y buena fe.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2009)</small>
+
+###### Artículo 5o Bis.
+
+Las dependencias, órganos desconcentrados, entidades y órganos político-administrativos que lleven a cabo visitas de verificación deberán capacitar constantemente a los verificadores administrativos en la materia relativa a su función.
+
+El personal encargado de la verificación administrativa relativa a los establecimientos mercantiles de las delegaciones serán en todo momento personal con código de confianza.
+
+Cada dependencia, órgano desconcentrado, entidades y órganos político-administrativos expedirán las credenciales que acrediten a sus verificadores para realizar dicha actividad. Dichas credenciales contendrán, por lo menos, lo siguiente:
+
+I. Nombre, firma y fotografía a color del verificador;
+
+II. Número, fecha de expedición y vigencia de la credencial, que no podrá ser mayor a un año;
+
+III. Nombre y firma del titular de la autoridad a la que se encuentre adscrito el verificador;
+
+IV. Logotipo Oficial del Gobierno del Distrito Federal, y
+
+V. Número telefónico de la Contraloría Interna de la autoridad, así como de la Contraloría General del Gobierno del Distrito Federal.
+
+Estas credenciales además, deberán contener, de manera clara y visible, por ambos lados, la leyenda siguiente: “Esta credencial exclusivamente autoriza a su portador a ejecutar las órdenes escritas emitidas por la autoridad competente.”
+
+Reunidos los anteriores requisitos la credencial será válida y deberá ser renovada cada año. En el sitio web de cada dependencia, órgano desconcentrado, entidades y órganos político-administrativos se publicará el padrón de verificadores.
+
+La oficialía mayor emitirá los lineamientos generales relativo al formato de la credencial y llevará un padrón de verificadores habilitados en el Distrito Federal, para tal efecto cada dependencia, órgano desconcentrado, entidad y órganos político-administrativos, le remitirá el padrón de sus verificadores.
+
+Una vez expedida la credencial, el verificador podrá ejecutar las diligencias que le sean encomendadas.
 
 ## TITULO SEGUNDO. DE LOS ACTOS ADMINISTRATIVOS
 
@@ -302,6 +332,12 @@ III.- Arresto hasta por treinta y seis horas inconmutable.
 
 Si resultaran insuficientes las medidas de apremio se procederá contra el rebelde por el delito de desobediencia y resistencia de particulares.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE ENERO DE 2009)</small>
+
+Los verificadores administrativos comisionados y la autoridad competente están obligados a denunciar los hechos probablemente constitutivo de delitos y continuar el procedimiento penal en todas sus etapas hasta su conclusión.
+
 ###### Artículo 20.
 
 (DEROGADO, G.O. 29 DE ENERO DE 2004)
@@ -438,11 +474,11 @@ La Administración Pública del Distrito Federal en los procedimientos y trámit
 
 La normatividad establecerá los casos en que proceda la declaración o registro de manifestación de los particulares, como requisito para el ejercicio de facultades determinadas. En estos casos, el trámite estará basado en la recepción y registro de la manifestación bajo protesta de decir verdad de que se cumple con las normas aplicables para acceder a dicho acto, acompañada de los datos y documentos que éstas determinen, sin perjuicios de que la autoridad competente inicie los procedimientos que correspondan cuando en la revisión del trámite se detecte falsedad. En estos casos, estará obligada a presentar denuncia en el Ministerio Público para la aplicación de las sanciones penales correspondientes.
 
-> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-En el caso de revalidación de licencias, autorizaciones, permisos, registros o declaraciones, el trámite se podrá hacer mediante un aviso por escrito, que contendrá la manifestación del interesado, bajo protesta de decir verdad, en el sentido de que las condiciones en que se le otorgo u obtuvo originalmente la licencia, autorización, permiso, registro o declaración de que se trate, no han variado, y de las facultades. Dicho trámite se podrá realizar dentro de los quince días hábiles previos a la conclusión de su vigencia, sin perjuicio del pago de derechos que la revalidación origine y de las facultades de verificación de las autoridades competentes. Este procedimiento para revalidación no será aplicable a las concesiones.
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2009)</small>
 
-> <small>(DEROGADO ULTIMO PARRAFO, G.O. 29 DE ENERO DE 2004)</small>
+En el caso de revalidación de licencias, autorizaciones, permisos, registros o declaraciones, el trámite se podrá hacer mediante un aviso por escrito, que contendrá la manifestación del interesado, bajo protesta de decir verdad, en el sentido de que las condiciones en que se le otorgo u obtuvo originalmente la licencia, autorización, permiso, registro o declaración de que se trate, no han variado, y de las facultades. Dicho trámite se podrá realizar dentro de los quince días hábiles previos a la conclusión de su vigencia, sin perjuicio del pago de derechos que la revalidación origine y de las facultades de verificación de las autoridades competentes. Este procedimiento para revalidación no será aplicable a las concesiones, ni a las licencias de funcionamiento de establecimientos mercantiles, debiendo atenderse en este último caso a lo establecido en el artículo 34 de la Ley de Establecimientos Mercantiles del Distrito Federal.
 
 > <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
 
@@ -603,6 +639,16 @@ Las pruebas supervenientes podrán ofrecerse hasta antes de que se dicte resoluc
 ###### Artículo 57.
 
 Con el escrito inicial se deberán ofrecer pruebas, siempre que la naturaleza del asunto así lo exija y lo prescriban las normas; y cuando en los ordenamientos jurídicos aplicables o en el Manual, no esté detallado expresamente el debido proceso legal, se seguirá el procedimiento que se establece en esta Ley. La autoridad competente acordará dentro de los tres días hábiles siguientes el ofrecimiento de las pruebas, señalando día y hora para la celebración de la audiencia de admisión y desahogo de pruebas y alegatos, misma que deberá verificarse dentro de los siete días hábiles siguientes a que se notifique el acuerdo en el que se admitan las pruebas. Sólo en caso de que se requiera la opinión de otra dependencia o entidad, la audiencia podrá fijarse en un plazo mayor al señalado, que no podrá exceder, en todo caso, de veinte días hábiles.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE ENERO DE 2009)</small>
+
+Cuando para la preparación y desahogo de alguna de las pruebas ofrecidas sea necesario acudir al establecimiento mercantil y este se encuentre clausurado o en suspensión de actividades, la autoridad deberá acordar el levantamiento provisional de sellos por el tiempo que solicite el particular, dentro del auto que fije la hora fecha y lugar de la audiencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 26 DE ENERO DE 2009)</small>
 
 La audiencia tendrá por objeto la admisión y desahogo de las pruebas ofrecidas, así como la recepción de los alegatos que formulen los interesados por sí o por medio de sus representantes o personas autorizadas. Concluida la audiencia, comparezcan o no los interesados, la autoridad emitirá la resolución del asunto, dentro del término de cinco días hábiles.
 
@@ -774,17 +820,31 @@ III. Por edictos, cuando se desconozca el domicilio del interesado o en su caso 
 
 Las notificaciones por edictos se efectuarán mediante publicaciones que contendrán el resumen de las actuaciones por notificar. Dichas publicaciones deberán efectuarse por tres veces, de tres en tres días en la Gaceta Oficial del Distrito Federal y en uno de los periódicos de mayor circulación en el Distrito Federal, que para tal efecto señale la autoridad competente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2009)</small>
+
 ###### Artículo 79.
 
-Los notificadores tendrán fe pública únicamente en cuanto concierne a la práctica de las notificaciones a su cargo. Cuando las notificaciones personales se hagan en el domicilio señalado para tal efecto por el interesado o su representante legal, el notificador deberá cerciorarse de que se trata del domicilio correspondiente, entregando copia del acto que se notifica y señalando la fecha y hora en que se efectúa la diligencia, recabando el nombre y firma de la persona con quien se entienda la notificación. Si ésta se niega a firmar, se hará constar dicha circunstancia en el acta respectiva, sin que ello afecte su validez.
+Los notificadores tendrán fe pública únicamente en cuanto concierne a la práctica de las notificaciones a su cargo. Cuando las notificaciones personales se hagan en el domicilio señalado para tal efecto por el interesado o su representante legal, el notificador deberá cerciorarse y asentar en la cédula de notificación los elementos que dan certeza de que se trata del domicilio correspondiente, entregando copia del acto que se notifica y señalando la fecha y hora en que se efectúa la diligencia, recabando el nombre y firma de la persona con quien se entienda la notificación. Si ésta se niega a firmar, se hará constar dicha circunstancia en el acta respectiva, sin que ello afecte su validez. Debiendo describir la media filiación de la persona que lo atiende y las características del inmueble.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2009)</small>
 
 ###### Artículo 80.
 
-Las notificaciones personales, se entenderán con la persona que deba ser notificada, con su representante legal, o con la persona autorizada; a falta de éstos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado le espere a una hora fija del día hábil siguiente. Si el domicilio se encontrare cerrado; y nadie respondiera al llamado del notificador para atender la diligencia, el citatorio se dejará con el vecino más próximo.
+Las notificaciones personales, se entenderán con la persona que deba ser notificada, con su representante legal, o con la persona autorizada; a falta de éstos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado le espere a una hora fija del día hábil siguiente. En el citatorio se asentaran los elementos de certeza que se trata del domicilio buscado y las características del inmueble visitado.
+
+Si el domicilio se encontrare cerrado; y nadie respondiera al llamado del notificador para atender la diligencia, el notificador deberá volver dentro de los siguientes tres días hábiles al domicilio, en hora diferente de la primera visita. Si en la segunda visita no se encuentra a ninguna persona, procederá a fijar en un lugar visible el citatorio.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2009)</small>
 
 ###### Artículo 81.
 
-Si la persona a quien haya de notificarse no atiende el citatorio la notificación se entenderá con cualquier persona con capacidad de ejercicio, que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla o en caso de encontrarse cerrado el domicilio, se realizará por instructivo que se fijará en un lugar visible del domicilio. De estas diligencias, el notificador asentará en el expediente, razón por escrito.
+Si la persona a quien haya de notificarse no atiende el citatorio la notificación se entenderá con cualquier persona con capacidad de ejercicio, que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla, el notificador deberá asentar la media filiación de la persona que lo atiende o en caso de encontrarse cerrado el domicilio, se realizará por instructivo que se fijará en un lugar visible del domicilio asentándose las características del inmueble. De estas diligencias, el notificador asentará en el expediente, razón por escrito.
 
 ###### Artículo 82.
 
@@ -915,6 +975,12 @@ Toda visita de verificación deberá ajustarse a los procedimientos y formalidad
 ###### Artículo 99.
 
 Los verificadores, para practicar una visita, deberán estar provistos de orden escrita con firma autógrafa expedida por la autoridad competente, en la que deberá precisarse el lugar o zona que ha de verificarse, el objeto de la visita, el alcance que deba tener y las disposiciones legales que la fundamenten.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2009)</small>
+
+Se considerará que cuentan con los elementos y requisitos de validez que señalan los artículos 6, fracciones II y III y 7 fracción IV, de esta Ley, las ordenes que contengan impresa la fotografía del lugar que ha de verificarse, cuando el inmueble no cuente con número oficial, el mismo no sea visible, haya sido retirado o no corresponda al que tengan registrado las autoridades competentes.
 
 ###### Artículo 100.
 
@@ -1281,3 +1347,13 @@ SEGUNDO. Las presentes reformas entrarán en vigor al día siguiente de su publi
 TERCERO. Los procedimientos administrativos que se hayan iniciado con anterioridad a la entra (sic) en vigor de este Decreto, continuaran su tramitación de conformidad con las disposiciones legales que estaban vigentes en el momento de su inicio.
 
 CUARTO. El ciudadano Jefe de Gobierno del Distrito Federal deberá de hacer las modificaciones al Reglamento de Verificación Administrativa para el Distrito Federal en un plazo que no exceda de 30 días naturales.
+
+G.O. 26 DE ENERO DE 2009.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO. Publíquese en el (sic) Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente Decreto entrará en vigor a los treinta días siguientes a los de su publicación en la Gaceta Oficial del Distrito Federal.
+
+...
