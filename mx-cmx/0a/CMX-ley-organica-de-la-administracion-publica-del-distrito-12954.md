@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2008-12-10"
+last_updated: "2009-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE ENERO DE 2009.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -390,9 +390,17 @@ XIII. Proveer administrativamente la ejecución de sentencias penales por delito
 
 XIV. Vigilar, en el ámbito administrativo, el cumplimiento de los preceptos constitucionales por parte de las autoridades del Distrito Federal, especialmente en lo que se refiere a las garantías individuales y derechos humanos, así como dictar las medidas administrativas que requiera su cumplimiento;
 
-XV. (DEROGADA, G.O. 6 DE FEBRERO DE 2007)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XVI. (DEROGADA, G.O. 6 DE FEBRERO DE 2007)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE ENERO DE 2009)</small>
+
+XV. Sistematizar el padrón de establecimientos mercantiles que funcionen en el Distrito Federal, con base en los que para sus respectivas demarcaciones territoriales integren las delegaciones publicándolo en Internet de conformidad con las Leyes de Protección de Datos Personales y de Transparencia y Acceso a la Información Pública del Distrito Federal, sin perjuicio de que se pueda actualizar periódicamente cada uno de ellos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE ENERO DE 2009)</small>
+
+XVI. Emitir lineamientos generales para la elaboración y actualización del padrón de establecimientos mercantiles;
 
 XVII. (DEROGADA, G.O. 6 DE FEBRERO DE 2007)
 
@@ -462,13 +470,31 @@ XIII. Coordinar los dispositivos de apoyo para atender situaciones de emergencia
 
 XIV. Fomentar y realizar estudios, investigaciones, análisis y opiniones de carácter técnico, científico y académico, en materia de protección civil;
 
-XV. Verificar el cumplimiento de la Ley, Reglamento, términos de referencia y normas técnicas complementarias en materia de protección civil;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
+
+XV. Practicar visitas para verificar el cumplimiento de la Ley, Reglamento, términos de referencia y normas técnicas complementarias en materia de protección civil en establecimientos mercantiles que operen con licencia de funcionamiento especial, en establecimientos mercantiles que operen con licencia de funcionamiento ordinaria de teatros, cines y auditorios con aforo mayor a quinientas personas y espectáculos públicos con aforo mayor a quinientas personas;
 
 XVI. Ser el conducto para que el Heroico Cuerpo de Bomberos del Distrito Federal se relacione con el Jefe de Gobierno;
 
-XVII. Integrar el Patronato y participar en la integración de la Junta de Gobierno del Heroico Cuerpo de Bomberos del Distrito Federal, en los términos de la ley aplicable; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XVIII. Las demás que le atribuyan expresamente las leyes y reglamentos.
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
+
+XVII. Integrar el patronato y participar en la integración de la junta de Gobierno del heroico cuerpo de Bomberos del Distrito Federal, en los términos de la ley aplicable;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
+
+XVIII. Llevar el padrón de los certificados de cumplimiento de los establecimientos mercantiles señalados como de su competencia en la Ley de Establecimientos Mercantiles del Distrito Federal, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2009)</small>
+
+XIX. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 > <small>(ADICIONADO, G.O. 6 DE FEBRERO DE 2007)</small>
 
@@ -734,9 +760,23 @@ XVII. Formular y proponer, en el marco de los programas de desrregulación (sic)
 
 XVIII. Establecer y coordinar los programas de abasto y comercialización de productos básicos, promoviendo la modernización y optimización en la materia;
 
-XIX. Promover la realización de ferias, exposiciones y congresos, de carácter local, nacional e internacional, vinculadas a la promoción de actividades industriales, comerciales y económicas en general, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XX. Las demás que le atribuyan expresamente las leyes y reglamentos.
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
+
+XIX. Promover la realización de ferias, exposiciones y congresos, de carácter local, nacional e internacional, vinculadas a la promoción de actividades industriales, comerciales y económicas en general;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
+
+XX. Emitir convocatoria abierta a los habitantes del Distrito Federal para integrar en los órganos político-administrativos Consejos Delegacionales de Verificación Ciudadana que coadyuven con las autoridades en la vigilancia del cumplimiento de la Ley por parte de los establecimientos mercantiles, para lo cual podrán solicitar visitas de verificación y presenciarlas, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2009)</small>
+
+XXI. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 ###### Artículo 26.
 
@@ -780,13 +820,23 @@ XVI. Realizar actividades de vigilancia y verificación ambiental, así como apl
 
 XVII. Formular, conducir y ejecutar las políticas relativas a la flora y faunas silvestres que correspondan al ámbito de competencia del Distrito Federal, en términos de lo dispuesto por las leyes federales y locales en la materia y de conformidad con los convenios que se suscriban con la federación;
 
-> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 26 DE ENERO DE 2009)</small>
 
 XVIII. Administrar, coordinar y supervisar la operación y funcionamiento de los zoológicos del Distrito Federal, como centros de conservación, preservación y exhibición de flora y fauna, con fines de investigación, educación, recreación y esparcimiento para la población;
 
-> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XIX. Las demás que le atribuyan expresamente las leyes y reglamentos.
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
+
+XIX. Auxiliar a los Centros de Educación privada en la elaboración de su Programa de Ordenamiento Vial y en su caso de Transporte Escolar, acorde a las necesidades específicas de cada centro, atendiendo a su ubicación, dimensión y población escolar, brindándoles la información necesaria en relación a la emisión de contaminantes que afectan la zona en donde se ubique dicho establecimiento mercantil, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2009)</small>
+
+XX. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 ###### Artículo 27.
 
@@ -1120,9 +1170,17 @@ I. Proponer a la Contraloría General medidas técnicas y políticas de administ
 
 II. Diseñar, coordinar e implementar en el ámbito de sus atribuciones, las normas, políticas y criterios que en materia de administración interna deben observar las dependencias, órganos desconcentrados y entidades que integran la Administración Pública del Distrito Federal;
 
-III. (DEROGADA, G.O. 10 DE NOVIEMBRE DE 2008)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV. (DEROGADA, G.O. 10 DE NOVIEMBRE DE 2008)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE ENERO DE 2009)</small>
+
+III. Expedir lineamientos para la expedición de credenciales de acreditación de verificadores que realicen las Dependencias, Órganos y Entidades de la Administración Pública;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE ENERO DE 2009)</small>
+
+IV. Integrar, actualizar y difundir por Internet el padrón de verificadores administrativos de la Administración Pública del Distrito Federal;
 
 V. (DEROGADA, G.O. 10 DE NOVIEMBRE DE 2008)
 
@@ -2037,3 +2095,27 @@ TERCERO.- Inscríbase en el Registro de los Planes y Programas de Desarrollo Urb
 CUARTO.- Los órganos político-administrativos cuyos límites territoriales se modifican, contarán con un término de 180 días naturales, contados a partir de la publicación del presente decreto, para trasladar los archivos, documentos y/o procedimientos a la delegación correspondiente.
 
 QUINTO.- Se derogan aquellas disposiciones jurídicas que se opongan a la presente Ley.
+
+G.O. 26 DE ENERO DE 2009.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO. Publíquese en el (sic) Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente Decreto entrará en vigor a los treinta días siguientes a los de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. Los Órganos Político-Administrativos y la Secretaría de Desarrollo Urbano y Vivienda contarán hasta con tres años contados a partir de la entrada en vigor del presente decreto para implementar un sistema electrónico que les permita verificar el uso de suelo permitido dentro de cada demarcación territorial.
+
+Durante ese lapso los interesados en realizar el aviso de declaración de apertura u obtener una licencia de funcionamiento deberán acreditar que el uso de suelo permite el desarrollo de su actividad, estando obligados a acompañar a su formato, original o copia certificada por la Secretaría de Desarrollo Urbano y Vivienda, de cualquiera de los siguientes documentos:
+
+I. Certificación de zonificación para uso específico; o
+
+II. Certificación de zonificación para usos del suelo permitidos; o
+
+III. Certificación de acreditación de uso del suelo por derechos adquiridos.
+
+La Delegación, por conducto de la Ventanilla Única, cotejara la copia certificada con el original, devolviendo el documento presentado al interesado de manera inmediata.
+
+El uso del suelo que se deberá acreditar es el correspondiente al giro mercantil principal, de conformidad con la Ley de Desarrollo Urbano del Distrito Federal y sus disposiciones reglamentarias.
+
+.
