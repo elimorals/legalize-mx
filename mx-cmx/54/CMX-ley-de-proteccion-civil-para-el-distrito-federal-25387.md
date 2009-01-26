@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-civil-para-el-distrito-federal-25387"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-23"
-last_updated: "2008-12-10"
+last_updated: "2009-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25387&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-05-07"
 
 LEY DE PROTECCION CIVIL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE ENERO DE 2009.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 23 de julio de 2002.
 
@@ -250,17 +250,37 @@ XIII.- Elaborar las normas técnicas complementarias y términos de referencia e
 
 XIV.- Impulsar la actualización de las empresas capacitadoras, de consultoría y de estudios de riesgo vulnerabilidad vinculadas a la materia de Protección Civil;
 
-> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XV.- Iniciar y resolver el procedimiento administrativo con la finalidad de revocar el registro a las empresas capacitadoras, de consultoría y de estudios de riesgo (sic) vulnerabilidad, y a los terceros acreditados, que incurran en violaciones a la presente Ley o su reglamento; y
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
 
-> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2007)</small>
+XV.- Iniciar y resolver el procedimiento administrativo con la finalidad de revocar el registro a las empresas capacitadoras, de consultoría y de estudios de riesgo vulnerabilidad, y a los terceros acreditados, que incurran en violaciones a la presente Ley o su reglamento;
 
-XVI.- Las demás que la presente ley, así como otras disposiciones le asignen.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
+
+XVI.- En los establecimientos mercantiles que operen con licencia de funcionamiento especial, en teatros, cines y auditorios con aforo mayor a quinientas personas y en espectáculos públicos que tengan un aforo de más de quinientas personas, verificar el cumplimiento de la Ley, Reglamento, términos de referencia y normas técnicas complementarias en materia de protección civil;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2009)</small>
+
+XVII.- En los supuestos señalados en la fracción anterior, dictar medidas de seguridad e imponer sanciones por infracciones a la Ley;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2009)</small>
+
+XVIII.- Las demás que la presente ley, así como otras disposiciones le asignen.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE ENERO DE 2009)</small>
 
 ###### Artículo 7°.
 
-Corresponde a los Jefes Delegaciones, en materia de protección civil, las siguientes atribuciones:
+Corresponde a las Delegaciones, en materia de Protección Civil, las siguientes atribuciones:
 
 I.- Constituir un Consejo Delegacional de Protección Civil en los términos del Título Cuarto, Capítulo II de esta Ley;
 
@@ -270,9 +290,11 @@ II.- Instalar y operar la Unidad de Protección Civil que coordinará las accion
 
 III.- Formular y ejecutar el Programa Delegacional de Protección Civil;
 
-> <small>(REFORMADA, G.O. 23 DE ENERO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV.- Vigilar, inspeccionar y, en su caso, a través de las Direcciones Generales Jurídica y de Gobierno, sancionar las infracciones cometidas a la presente Ley;
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
+
+IV.- Vigilar, verificar y, en su caso, a través de las Direcciones Generales Jurídica y de Gobierno, sancionar las infracciones cometidas a la presente Ley;
 
 > <small>(REFORMADA, G.O. 30 DE ABRIL DE 2007)</small>
 
@@ -1118,6 +1140,12 @@ La Unidad de Protección Civil, coadyuvará con la Secretaría en la actualizaci
 
 La Unidad de Protección Civil, será la primera autoridad responsable en la materia, debiendo asistir a las emergencias que se presenten en su demarcación, en caso de que su capacidad de respuesta sea superada, estará obligada a solicitar el apoyo de la Secretaría.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2009)</small>
+
+Para efectos del párrafo anterior, la Delegación deberá mantener actualizado el padrón de los establecimientos mercantiles que operen en su demarcación territorial.
+
 ###### Artículo 73.
 
 Son atribuciones de las unidades de protección civil de cada Demarcación Territorial, en el ámbito de sus respectivas competencias, las siguientes:
@@ -1336,21 +1364,35 @@ I. El aislamiento temporal, parcial o total del área afectada;
 
 II. La suspensión de trabajos, actividades y servicios;
 
-III. La evacuación de inmuebles; y,
+III. La evacuación de inmuebles; y (sic),
 
-IV. Las demás que sean necesarias para llevar a cabo la protección civil.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
+
+IV. La clausura permanente de establecimientos mercantiles; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2009)</small>
+
+V. Las demás que sean necesarias para llevar a cabo la protección civil.
 
 Asimismo, podrán promover la ejecución de las medidas de seguridad ante la autoridad competente en los términos de Las leyes respectivas.
 
-> <small>(REFORMADO, G.O. 23 DE ENERO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2009)</small>
 
 ###### Artículo 97.
 
-Las Delegaciones con base en los resultados de la visita de verificación, realizada conforme a las disposiciones de la Ley de Procedimiento Administrativo del Distrito Federal y su Reglamento de Verificación Administrativa, podrán dictar medidas de seguridad en cumplimiento a la normatividad para corregir las irregularidades que se hubiesen encontrado, notificándolas al interesado y otorgándole un plazo que no podrá exceder de cuarenta y cinco días naturales para su realización. Dichas medidas tendrán la duración estrictamente necesaria para la corrección de las irregularidades respectivas.
+Las Delegaciones y la Secretaría, con base en los resultados de la visita de verificación, realizada conforme a las disposiciones de la Ley de Procedimiento Administrativo del Distrito Federal y su Reglamento de Verificación Administrativa, podrán dictar medidas de seguridad en cumplimiento a la normatividad, para corregir las irregularidades que se hubiesen encontrado, notificándolas al interesado y otorgándole un plazo que no podrá exceder de cuarenta y cinco días naturales para su realización. Dichas medidas tendrán la duración estrictamente necesaria para la corrección de las irregularidades respectivas.
 
 ### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
 
-> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2009)</small>
 
 ###### Artículo 98.
 
@@ -1360,13 +1402,27 @@ La violación a las disposiciones de esta Ley, su Reglamento y demás disposicio
 
 Las sanciones administrativas podrán ser:
 
-I. Multa, y
+I. Multa, y (sic)
 
 II. Arresto administrativo, el que sólo podrá ser impuesto por el Juez Cívico.
 
-> <small>(ADICIONADA, G.O. 10 DE ENERO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III. Revocación del Registro a Organizaciones Civiles, Terceros Acreditados y Empresas Capacitadoras, de Consultoría y Estudios Riesgo Vulnerabilidad.
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
+
+III. Revocación del Registro a Organizaciones Civiles, Terceros Acreditados y Empresas Capacitadoras, de Consultoría y Estudios de Riesgo Vulnerabilidad, que será aplicada por la Secretaría.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2009)</small>
+
+IV. Clausura permanente de establecimientos mercantiles.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2009)</small>
+
+La multa y la clausura definitiva serán aplicadas por la Secretaría o la Delegación correspondiente, en el ámbito de sus respectivas competencias.
 
 En el caso de reincidencia, el monto de la multa podrá ser hasta dos veces del monto originalmente impuesto, sin exceder del máximo permitido.
 
@@ -1398,15 +1454,17 @@ Al que dolosamente denuncie falsos hechos o actos, en los términos de lo previs
 
 A las Organizaciones Civiles y Terceros Acreditados que proporcionen información falsa para obtener el registro correspondiente, se les impondrá multa de 100 a 150 veces el salario mínimo vigente en el Distrito Federal.
 
-> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2009)</small>
 
 ###### Artículo 105.
 
-Para la imposición de las sanciones a que se refiere este ordenamiento, que aplique la Secretaría y las Delegaciones se estará a lo dispuesto en la Ley de Procedimiento Administrativo del Distrito Federal.
+Para la imposición de las sanciones a que se refiere este ordenamiento, que lleven a cabo la Secretaría y las Delegaciones, se estará a lo dispuesto en la Ley de Procedimiento Administrativo del Distrito Federal.
 
 ###### Artículo 106.
 
-Contra las resoluciones emitidas por la Secretaría y las Delegaciones que impongan una sanción, procederá el recurso de inconformidad, de acuerdo a lo previsto en la Ley de Procedimiento Administrativo del Distrito Federal.
+Contra las resoluciones emitidas por la Secretaría o las Delegaciones que impongan una sanción, procederá el recurso de inconformidad, de acuerdo a lo previsto en la Ley de Procedimiento Administrativo del Distrito Federal.
 
 ## TRANSITORIOS
 
@@ -1465,3 +1523,29 @@ PRIMERO. El presente Decreto entrará en vigor a los 120 días siguientes a su p
 SEGUNDO. El Gobierno del Distrito Federal deberá expedir la reglamentación y procedimientos correspondientes a la entrada en vigor de la presente reforma.
 
 TERCERO. Publíquese para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 26 DE ENERO DE 2009.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO. Publíquese en el (sic) Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente Decreto entrará en vigor a los treinta días siguientes a los de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. Los Órganos Político-Administrativos y la Secretaría de Desarrollo Urbano y Vivienda contarán hasta con tres años contados a partir de la entrada en vigor del presente decreto para implementar un sistema electrónico que les permita verificar el uso de suelo permitido dentro de cada demarcación territorial.
+
+Durante ese lapso los interesados en realizar el aviso de declaración de apertura u obtener una licencia de funcionamiento deberán acreditar que el uso de suelo permite el desarrollo de su actividad, estando obligados a acompañar a su formato, original o copia certificada por la Secretaría de Desarrollo Urbano y Vivienda, de cualquiera de los siguientes documentos:
+
+I. Certificación de zonificación para uso específico; o
+
+II. Certificación de zonificación para usos del suelo permitidos; o
+
+III. Certificación de acreditación de uso del suelo por derechos adquiridos.
+
+La Delegación, por conducto de la Ventanilla Única, cotejara la copia certificada con el original, devolviendo el documento presentado al interesado de manera inmediata.
+
+El uso del suelo que se deberá acreditar es el correspondiente al giro mercantil principal, de conformidad con la Ley de Desarrollo Urbano del Distrito Federal y sus disposiciones reglamentarias.
+
+CUARTO. Los titulares de los establecimientos mercantiles que actualmente operen como cine sin venta de bebidas alcohólicas podrán realizar la venta de bebidas alcohólicas, de conformidad con la licencia con la que venían operando. Igualmente, a aquellos que operaban con licencia tipo B les será sustituida por la Licencia Ordinaria, en el momento que lo soliciten o en su caso al llevar a cabo la revalidación de la misma.
+
+...
