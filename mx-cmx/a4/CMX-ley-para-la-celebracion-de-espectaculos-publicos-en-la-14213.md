@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-celebracion-de-espectaculos-publicos-en-la-14213"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-13"
-last_updated: "2008-12-10"
+last_updated: "2009-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14213&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-12-27"
 
 LEY PARA LA CELEBRACION DE ESPECTACULOS PUBLICOS EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE ENERO DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 13 de enero de 1997.
 
@@ -46,9 +46,13 @@ LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL DISTRITO FEDERAL
 
 Las disposiciones de la presente Ley son de orden e interés públicos y tienen por objeto regular la celebración de Espectáculos públicos en el Distrito Federal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2009)</small>
+
 ###### Artículo 2o.
 
-La aplicación de este ordenamiento corresponde a la Secretaría de Gobierno, a la Secretaría de Educación, Salud y Desarrollo Social, y a las Delegaciones del Distrito Federal, de conformidad con las atribuciones que el mismo les otorga.
+La aplicación de este ordenamiento corresponde a la Secretaría de Gobierno, a la Secretaría de Educación, Salud, Desarrollo Social y Protección Civil, y a las Delegaciones del Distrito Federal, de conformidad con las atribuciones que el mismo les otorga.
 
 ###### Artículo 3o.
 
@@ -88,7 +92,9 @@ X. Permiso: El acto administrativo que emite la Delegación, para que una person
 
 XI. Secretaría: La Secretaría de Gobierno de la Administración;
 
-XII. Secretaría de Educación: La Secretaría de Educación, Salud y Desarrollo Social de la Administración;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XII. (DEROGADA, G.O. 26 DE ENERO DE 2009)
 
 XIII. Servicio complementario: La actividad o actividades que por ser compatibles, relacionadas o vinculadas con el Espectáculo público, se autoriza a desarrollar, con el objeto de prestar un servicio integral;
 
@@ -116,6 +122,24 @@ III. Expedir acuerdos y circulares en los que se consignen lineamientos y criter
 
 IV. Las demás que le confiera la Ley y otras disposiciones aplicables.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2009)</small>
+
+###### Artículo 6o
+
+bis.- Corresponde a la Secretaría de Protección Civil, siempre y cuando el espectáculo público sea mayor a quinientas personas:
+
+I. Vigilar el cumplimiento de las disposiciones en materia de Protección Civil;
+
+II. Instruir a sus verificadores administrativos para que lleven a cabo visitas y verificaciones en la materia de protección civil, de conformidad con la Ley, la Ley de Procedimiento Administrativo del Distrito Federal y su Reglamento;
+
+III. Aplicar las medidas de seguridad a que se refiere esta Ley;
+
+IV. Aplicar las sanciones previstas en esta Ley y en sus disposiciones reglamentarias, y
+
+V. Las demás que le señale la Ley, su Reglamento y otras disposiciones aplicables.
+
 ###### Artículo 7o.
 
 Corresponde a la Secretaría de Educación:
@@ -132,9 +156,13 @@ V. Vigilar el funcionamiento de las Comisiones de Espectáculos Públicos a que 
 
 VI. Las demás que le confiere la Ley y otras disposiciones aplicables.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE ENERO DE 2009)</small>
+
 ###### Artículo 8o.
 
-Son atribuciones de las Delegaciones a través de los delegados o subdelegados jurídicos y de gobierno:
+Son atribuciones de las Delegaciones:
 
 I. Expedir y revocar de oficio los Permisos y Autorizaciones para la celebración de Espectáculos públicos;
 
@@ -146,9 +174,23 @@ IV. Instruir a los verificadores responsables de vigilar el cumplimiento de esta
 
 V. Aplicar las medidas de seguridad a que se refiere esta Ley;
 
-VI. Aplicar las sanciones previstas en esta Ley y en sus disposiciones reglamentarias, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VII. Las demás que le señale la Ley, su Reglamento y otras disposiciones aplicables.
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
+
+VI. Aplicar las sanciones previstas en esta Ley y en sus disposiciones reglamentarias;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
+
+VII. Notificar a la Secretaría de Protección Civil sobre la realización de un espectáculo público con aforo mayor a quinientas personas, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2009)</small>
+
+VIII. Las demás que le señale la Ley, su Reglamento y otras disposiciones aplicables.
 
 ###### Artículo 9o.
 
@@ -326,9 +368,13 @@ IV. El precio de las localidades que se expenderán, y
 
 V. El aforo autorizado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2009)</small>
+
 ###### Artículo 22.
 
-La Delegación no podrá requerir que se anexe ningún documento adicional al señalado en el artículo anterior, con motivo de la presentación del aviso para la presentación de Espectáculos públicos, pero se reserva el derecho de realizar las visitas de verificaciones administrativas que crea convenientes para constatar la veracidad de lo manifestado por el interesado.
+La Delegación no podrá requerir que se anexe ningún documento adicional al señalado en el artículo anterior, con motivo de la presentación del aviso para la presentación de Espectáculos públicos, pero se reserva el derecho de realizar las visitas de verificaciones administrativas que crea convenientes para constatar la veracidad de lo manifestado por el interesado, sin perjuicio de la atribución que en materia de verificación se confiere a la Secretaría de Protección Civil.
 
 ###### Artículo 23.
 
@@ -948,9 +994,13 @@ II. Las demás que se señalen en los Reglamentos correspondientes.
 
 ### CAPÍTULO I. De la Verificación
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2009)</small>
+
 ###### Artículo 75.
 
-Corresponde a las Delegaciones ejercer las funciones de vigilancia y supervisión para verificar el cumplimiento de la Ley y sus disposiciones reglamentarias, a través de visitas de verificación administrativa, mismas que se deberán realizar de conformidad con lo ordenado por la Ley de Procedimiento Administrativo del Distrito Federal y el Reglamento de la materia.
+Corresponde a las Delegaciones y a la Secretaría de Protección Civil, en el ámbito de sus respectivas competencias, ejercer las funciones de vigilancia y supervisión para verificar el cumplimiento de la Ley y sus disposiciones reglamentarias, a través de visitas de verificación administrativa, mismas que se deberán realizar de conformidad con lo ordenado por la Ley de Procedimiento Administrativo del Distrito Federal y el Reglamento de la materia.
 
 ###### Artículo 76.
 
@@ -958,9 +1008,13 @@ La contravención a las disposiciones de la Ley dará lugar a la imposición de 
 
 ### CAPÍTULO II. De las Medidas de Seguridad
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE ENERO DE 2009)</small>
+
 ###### Artículo 77.
 
-Se consideran medidas de seguridad las disposiciones que dicte la Delegación para proteger la integridad de los Espectadores y la salud, seguridad y orden públicos; y podrán consistir en:
+Se consideran medidas de seguridad las disposiciones que dicte la Delegación, y en su caso, la Secretaría de Protección Civil, para proteger la integridad de los Espectadores y la salud, seguridad y orden públicos; y podrán consistir en:
 
 I. El aseguramiento de materiales, sustancias, bebidas y alimentos que puedan ser tóxicos o contaminantes;
 
@@ -1010,9 +1064,13 @@ Las violaciones a esta Ley no previstas en los artículos que anteceden se sanci
 
 En caso de reincidir en alguna de las infracciones sancionadas económicamente por la Ley, se aplicará el doble de la multa impuesta originalmente, y en caso de que el infractor incurriera por tercera ocasión en la misma falta, procederá además la clausura de las instalaciones y revocación de oficio del permiso, según sea el caso.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE ENERO DE 2009)</small>
+
 ###### Artículo 85.
 
-Sin perjuicio de la aplicación de las sanciones pecuniarias a que se refiere este Capítulo, la Delegación suspenderá la realización de Espectáculos públicos y clausurará las instalaciones en donde se lleven a cabo, en los siguientes casos:
+Sin perjuicio de la aplicación de las sanciones pecuniarias a que se refiere este Capítulo, la Delegación, o en su caso, la Secretaría de Protección Civil, suspenderá la realización de Espectáculos públicos y clausurará las instalaciones en donde se lleven a cabo, en los siguientes casos:
 
 I. Por no presentar el Aviso o por carecer del Permiso necesarios para la celebración de un Espectáculo público, según sea el caso;
 
@@ -1052,11 +1110,19 @@ En los casos a que se refieren las fracciones I, II, III, IV, V, VI, IX y XI del
 
 La Clausura o suspensión inmediata de establecimientos mercantiles y Espectáculos públicos se sujetará al siguiente procedimiento:
 
-I. Se iniciará cuando la Delegación detecte que se actualiza alguno de los supuestos señalados en el artículo anterior, por medio de visitas de verificación, análisis documental o queja ciudadana, citando a los Titulares del Permiso, mediante notificación personal, con excepción de lo señalado en el artículo 98 de la Ley, en la que se le hagan saber las causas que originaron la instauración del procedimiento, requiriéndolo para que comparezca a hacer valer lo que a su derecho convenga y ofrezca las pruebas que considere pertinentes, dentro de las 24 horas siguientes a la notificación;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
+
+I. Se iniciará cuando la Delegación, o en su caso, la Secretaría de Protección Civil, detecte que se actualiza alguno de los supuestos señalados en el artículo anterior, por medio de visitas de verificación, análisis documental o queja ciudadana, citando a los Titulares del Permiso, mediante notificación personal, con excepción de lo señalado en el artículo 98 de la Ley, en la que se le hagan saber las causas que originaron la instauración del procedimiento, requiriéndolo para que comparezca a hacer valer lo que a su derecho convenga y ofrezca las pruebas que considere pertinentes, dentro de las 24 horas siguientes a la notificación;
 
 II. Lo relativo a la notificación, las pruebas y el desahogo de la audiencia, se sujetará a lo dispuesto por los artículos 93 a 95 y 98 a 101 de la Ley, y
 
-III. Una vez concluida la audiencia a que se refiere la fracción anterior, la Delegación deberá proceder de inmediato, a dictar la resolución que proceda y, a notificarla al interesado al día hábil siguiente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
+
+III. Una vez concluida la audiencia a que se refiere la fracción anterior, la Delegación, o en su caso, la Secretaría de Protección Civil, deberá proceder de inmediato, a dictar la resolución que proceda y, a notificarla al interesado al día hábil siguiente.
 
 En caso de que proceda la suspensión inmediata del Espectáculo público, se procederá a su ejecución en el momento mismo de la notificación, con quien se encuentre presente en el lugar en el que se pretenda celebrar el evento de que se trate.
 
@@ -1070,7 +1136,11 @@ II. Realizar Espectáculos diferentes a los autorizados;
 
 III. No respetar el aforo autorizado en el permiso correspondiente;
 
-IV. Cuando se impida a la Delegación el cumplimiento de sus funciones de verificación;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
+
+IV. Cuando se impida a la Delegación, o en su caso, a la Secretaría de Protección Civil, el cumplimiento de sus funciones de verificación;
 
 V. Expender bebidas alcohólicas sin autorización;
 
@@ -1094,11 +1164,21 @@ En los casos no previstos en el artículo anterior, la Delegación no podrá rev
 
 ### CAPÍTULO IV. De la Revocación de Oficio de los Permisos
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE ENERO DE 2009)</small>
+
 ###### Artículo 92.
 
-El procedimiento de revocación de oficio los (sic) permisos para la celebración de Espectáculos públicos se iniciará cuando la Delegación detecte a través de visitas de verificación, análisis documental o queja ciudadana, que el Titular ha incurrido en alguna de las causas de revocación de oficio que establece esta Ley, citándolo mediante notificación personal en la que se le hagan saber las causas que originaron la instauración del procedimiento, requiriéndolo para que comparezca a hacer valer lo que a su derecho convenga y ofrezca las pruebas que estime pertinentes, dentro de los dos días hábiles siguientes a la notificación.
+El procedimiento de revocación de oficio de los permisos para la celebración de Espectáculos públicos, se iniciará cuando la Delegación, o en su caso, la Secretaría de Protección Civil, detecte a través de visitas de verificación, análisis documental o queja ciudadana, que el Titular ha incurrido en alguna de las causas de revocación de oficio que establece esta Ley, citándolo mediante notificación personal en la que se le hagan saber las causas que originaron la instauración del procedimiento, requiriéndolo para que comparezca a hacer valer lo que a su derecho convenga y ofrezca las pruebas que estime pertinentes, dentro de los dos días hábiles siguientes a la notificación.
 
 En la cédula de notificación se expresará el lugar, día y hora en que se verificará la audiencia de pruebas y alegatos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2009)</small>
+
+En caso de que la irregularidad sea detectada por la Secretaría de Protección Civil, notificará de inmediato a la delegación a efecto de iniciar el procedimiento de revocación a que hace mención el presente capítulo.
 
 ###### Artículo 93.
 
@@ -1201,3 +1281,13 @@ PRIMERO. El presente Decreto entrará en vigor a los 120 días siguientes a su p
 SEGUNDO. El Gobierno del Distrito Federal deberá expedir la reglamentación y procedimientos correspondientes a la entrada en vigor de la presente reforma.
 
 TERCERO. Publíquese para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 26 DE ENERO DE 2009.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO. Publíquese en el (sic) Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente Decreto entrará en vigor a los treinta días siguientes a los de su publicación en la Gaceta Oficial del Distrito Federal.
+
+...
