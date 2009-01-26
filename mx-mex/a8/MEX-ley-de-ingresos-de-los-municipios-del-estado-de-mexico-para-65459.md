@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-ingresos-de-los-municipios-del-estado-de-mexico-para-654
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2008-12-18"
-last_updated: "2008-12-18"
+last_updated: "2009-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65459&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE MEXICO PARA EL EJERCICIO FISCAL DEL AÑO 2009
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE ENERO DE 2009.
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el jueves 18 de diciembre de 2008.
 
@@ -189,33 +189,39 @@ El pago anual anticipado de los derechos de agua potable y drenaje, cuando deba 
 
 Asimismo, los contribuyentes de este derecho, que en los últimos dos años hayan cubierto sus obligaciones fiscales dentro de los plazos establecidos para ese efecto, gozarán de un estimulo por cumplimiento, consistente en una bonificación del 4% adicional en el mes de enero y del 2% en febrero.
 
+> <small>(REFORMADO, G.G. 26 DE ENERO DE 2009)</small>
+
 ###### Artículo 9.
 
-Para el ejercicio fiscal del año 2009, se otorga a favor de los propietarios o poseedores de inmuebles, que sean pensionados, jubilados, personas con capacidades diferentes, adultos mayores, viudas sin ingresos fijos y aquellas personas físicas cuya percepción diaria no rebase tres salarios mínimos generales del área geográfica que corresponda, una bonificación, que incluyendo la que se autoriza por pago anual anticipado y puntual cumplimiento, será del 50% en el pago del lmpuesto Predial.
+Para el ejercicio fiscal del año 2009, se otorga a favor de los propietarios o poseedores de inmuebles, que sean pensionados, jubilados, personas con discapacidad, adultos mayores, viudas sin ingresos fijos y aquellas personas físicas cuya percepción diaria no rebase tres salarios mínimos generales del área geográfica que corresponda, una bonificación, que incluyendo la que se autoriza por pago anual anticipado y puntual cumplimiento será del 50% en el pago del Impuesto Predial tratándose de inmuebles con valor catastral menor a cinco millones de pesos, y del 34% tratándose de inmuebles con valor catastral de hasta siete millones quinientos mil pesos.
 
 Quienes soliciten este beneficio deberán reunir los siguientes requisitos:
 
 1. Presentar identificación oficial.
 
-2. Que el valor catastral del inmueble no exceda de un millón quinientos mil pesos.
+2. Presentar credencial o constancia emitida por autoridad competente con la que se acredite que el solicitante se encuentra en alguno de los supuestos de vulnerabilidad aplicables.
 
-3. Presentar credencial o constancia emitida por autoridad competente con la que se acredite que el solicitante se encuentra en alguno de los supuestos de vulnerabilidad aplicables.
+3. Estar al corriente en el pago del impuesto.
 
-4. Estar al corriente en el pago del impuesto. Este beneficio sólo aplicará por la contribución respecto del inmueble en el que habita el beneficiario.
+Este beneficio sólo aplicará por la contribución respecto del inmueble en el que habita el beneficiario.
 
-###### Artículo 10.
+Cuando el pago se realice de manera no anticipada, la bonificación será del 34%, tratándose de inmuebles con valor catastral menor a siete millones quinientos mil pesos, cumpliendo con los requisitos previstos en el presente artículo.
 
-Para el ejercicio fiscal del año 2009, los Ayuntamientos, otorgarán a favor de pensionados, jubilados, personas con capacidades diferentes, adultos mayores y viudas sin ingresos fijos y aquellas personas físicas cuya percepción diaria no rebase tres salarios mínimos generales del área geográfica que corresponda, una bonificación que incluyendo la que se autoriza por pago anual anticipado y puntual cumplimiento será del 50% en el pago de los derechos por el suministro de agua potable y drenaje para uso doméstico, y por la recepción de los caudales de aguas residuales para su tratamiento o manejo ecológico. Esta bonificación se aplicará al usuario que acredite los siguientes requisitos:
+> <small>(REFORMADO, G.G. 26 DE ENERO DE 2009)</small>
+
+Artículo 10,- Para el ejercicio fiscal del año 2009, los ayuntamientos otorgarán a favor de pensionados, jubilados, personas con discapacidad, adultos mayores y viudas sin ingresos fijos y aquellas personas físicas cuya percepción diaria no rebase tres salarios mínimos generales del área geográfica que corresponda, una bonificación, que incluyendo la que se autoriza por pago anual anticipado y puntual cumplimiento será del 50% en el pago de los derechos por el suministro de agua potable y drenaje para uso doméstico, y por la recepción de los caudales de aguas residuales para su tratamiento o manejo ecológico, tratándose de inmuebles con valor catastral menor a cinco millones de pesos, y del 34% tratándose de inmuebles con valor catastral de hasta siete millones quinientos mil pesos.
+
+Esta bonificación se aplicará al usuario que acredite los siguientes requisitos:
 
 1. Presentar identificación oficial.
 
-2. El valor catastral del inmueble objeto de la bonificación no exceda de un millón quinientos mil pesos.
+2. Presentar credencial o constancia emitida por autoridad competente con la que se acredite que el solicitante se encuentra en alguno de los supuestos de vulnerabilidad aplicables.
 
-3. Presentar credencial o constancia emitida por autoridad competente con la que se acredite que el solicitante se encuentra en alguno de los supuestos de vulnerabilidad aplicables.
-
-4. Estar al corriente en el pago de los derechos correspondientes.
+3. Estar al corriente en el pago de los derechos correspondientes.
 
 Este beneficio sólo aplicará sobre el importe del derecho correspondiente a la toma del inmueble en que habita el beneficiario. No aplica en derivaciones.
+
+Cuando el pago se realice de manera no anticipada, la bonificación será del 34%, tratándose de inmuebles con valor catastral menor a siete millones quinientos mil pesos, cumpliendo con los requisitos previstos en el presente artículo.
 
 ###### Artículo 11.
 
@@ -262,3 +268,17 @@ EL SECRETARIO GENERAL DE GOBIERNO
 DR. VICTOR HUMBERTO BENITEZ TREVIÑO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 26 DE ENERO DE 2009.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Para el caso de los contribuyentes que hayan realizado el pago de las contribuciones a que se refieren los artículos 9 y 10 de la Ley de Ingresos de los Municipios del Estado de México para el Ejercicio Fiscal del año 2009 con anterioridad a la entrada en vigor del presente decreto, la autoridad correspondiente estará obligada a devolver, sin intereses, en un plazo que no excederá de 30 (treinta) días hábiles contados a partir de la presentación formal de la solicitud respectiva, la cantidad que corresponda a la diferencia entre el monto que hubieren pagado y el que corresponda a la aplicación de las disposiciones reformadas al amparo del presente decreto.
+
+Para efectos de lo dispuesto en el párrafo anterior, los contribuyentes deberán acudir a la oficina en que hubiesen realizado el pago y presentar la solicitud acompañada de copia del recibo oficial de pago y la credencial o constancia emitida por autoridad competente con la que se acredite que el contribuyente se encuentra en alguno de los supuestos de vulnerabilidad aplicables.
+
+CUARTO.- Se deroga cualquier ordenamiento jurídico que contradiga lo dispuesto en el presente decreto.
