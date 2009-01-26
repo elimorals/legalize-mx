@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-funcionamiento-de-establecimientos-mercantiles-2358
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-28"
-last_updated: "2008-03-04"
+last_updated: "2009-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23584&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2002-02-22"
 
 LEY PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE MARZO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS SEGUNDO Y SEPTIMO TRANSITORIOS DE LA LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL, PUBLICADA EN LA G.O. DE 26 DE ENERO DE 2009, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADA A LOS TREINTA DIAS SIGUIENTES DE LA ENTRADA EN VIGOR DE LA NUEVA LEY.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE ENERO DE 2009.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 28 de febrero de 2002.
 
@@ -1701,3 +1703,35 @@ SEGUNDO.- El presente Decreto entrará en vigor a los treinta días siguientes a
 TERCERO.- Se deroga el Artículo Cuarto Transitorio del Decreto por el que se reforma y adiciona la Ley para el Funcionamiento de Establecimientos Mercantiles del Distrito Federal y se reforma la Ley de Protección a la Salud de los No Fumadores del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 11 de enero del 2008.
 
 CUARTO.- La Asamblea Legislativa del Distrito Federal y el Gobierno del Distrito Federal implementarán una campaña permanente para dar a conocer los derechos y obligaciones que se derivan por la entrada en vigor del presente Decreto. En dicha campaña no podrán emplearse colores partidistas y se pondrá énfasis para que los adultos no fumen dentro de un vehículo cuando vaya un menor adentro.
+
+G.O. 26 DE ENERO DE 2009.
+
+PRIMERO. Publíquese en el (sic) Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente Decreto entrará en vigor a los treinta días siguientes a los de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. Los Órganos Político-Administrativos y la Secretaría de Desarrollo Urbano y Vivienda contarán hasta con tres años contados a partir de la entrada en vigor del presente decreto para implementar un sistema electrónico que les permita verificar el uso de suelo permitido dentro de cada demarcación territorial.
+
+Durante ese lapso los interesados en realizar el aviso de declaración de apertura u obtener una licencia de funcionamiento deberán acreditar que el uso de suelo permite el desarrollo de su actividad, estando obligados a acompañar a su formato, original o copia certificada por la Secretaría de Desarrollo Urbano y Vivienda, de cualquiera de los siguientes documentos:
+
+I. Certificación de zonificación para uso específico; o
+
+II. Certificación de zonificación para usos del suelo permitidos; o
+
+III. Certificación de acreditación de uso del suelo por derechos adquiridos.
+
+La Delegación, por conducto de la Ventanilla Única, cotejara la copia certificada con el original, devolviendo el documento presentado al interesado de manera inmediata.
+
+El uso del suelo que se deberá acreditar es el correspondiente al giro mercantil principal, de conformidad con la Ley de Desarrollo Urbano del Distrito Federal y sus disposiciones reglamentarias.
+
+CUARTO. Los titulares de los establecimientos mercantiles que actualmente operen como cine sin venta de bebidas alcohólicas podrán realizar la venta de bebidas alcohólicas, de conformidad con la licencia con la que venían operando. Igualmente, a aquellos que operaban con licencia tipo B les será sustituida por la Licencia Ordinaria, en el momento que lo soliciten o en su caso al llevar a cabo la revalidación de la misma.
+
+QUINTO. El Jefe de Gobierno del Distrito Federal deberá emitir el Reglamento de la presente ley y adecuarlo a los reglamentos de las leyes inherentes en un plazo que no exceda los 60 días contabilizados a partir de su publicación.
+
+SEXTO. Cuando en otros ordenamientos legales se haga referencia a la Ley de Establecimientos Mercantiles, deberá entenderse que se refieren a la presente Ley.
+
+SÉPTIMO. Se abroga la Ley para el Funcionamiento de Establecimientos Mercantiles del Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal el 28 de febrero de 2002.
+
+OCTAVO. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente decreto, se substanciarán de conformidad con la ley vigente al momento de su inicio.
+
+NOVENO. Los establecimientos mercantiles que actualmente para su funcionamiento cuentan con licencia de funcionamiento ya sea tipo "A", o tipo "B" y requieran de Licencia de Funcionamiento ordinaria o especial según corresponda, al momento de la revalidación se les sustituirá por el tipo de licencia según atañe.
