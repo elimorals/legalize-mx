@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-loteria-nacional-para-la-485"
 country: "mx"
 rank: "reglamento"
 publication_date: "1985-07-24"
-last_updated: "2007-10-31"
+last_updated: "2009-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=485&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1985-07-05"
 
 REGLAMENTO INTERIOR DE LA LOTERIA NACIONAL PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ENERO DE 2009.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 24 de julio de 1985.
 
@@ -101,9 +101,11 @@ IX.- Aprobar las bases para la devolución de los billetes que no logren enajena
 
 X.- Ejercer las demás atribuciones que le correspondan conforme a las leyes.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE ENERO DE 2009)</small>
+
 ###### Artículo 7o.
 
-La Junta Directiva se reunirá en sesiones ordinarias cuando menos cada dos meses, y en sesiones extraordinarias siempre que lo considere conveniente su Presidente.
+La Junta Directiva se reunirá una vez cada tres meses, cuando menos, de acuerdo con un calendario que será aprobado en la primera sesión ordinaria del ejercicio, pudiendo además celebrar las reuniones extraordinarias que se requieran.
 
 A estas sesiones asistirán los comisarios que, en los términos del artículo 4o. de la Ley Orgánica de la Entidad, designen las Secretarías de Hacienda y Crédito Público y de la Contraloría General de la Federación.
 
@@ -244,3 +246,7 @@ México, Distrito Federal, a cinco de julio de mil novecientos ochenta y cinco.-
 D.O.F. 31 DE OCTUBRE DE 2007.
 
 UNICO.- La presente modificación, entrará en vigor al día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE ENERO DE 2009.
+
+UNICO.- La presente modificación al Reglamento Interior de la Lotería Nacional para la Asistencia Pública entrará en vigor al día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
