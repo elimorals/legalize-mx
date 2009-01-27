@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-economia-26487"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-11-22"
-last_updated: "2004-01-28"
+last_updated: "2009-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26487&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-11-19"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE ECONOMIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ENERO DE 2009.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2002.
 
@@ -43,15 +43,19 @@ Al frente de la Secretaría de Economía estará el Secretario del Despacho quie
 
 A. Los servidores públicos siguientes:
 
-I.- Subsecretario de Normatividad, Inversión Extranjera y Prácticas Comerciales Internacionales;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2009)</small>
+
+I.- Subsecretario de Competitividad y Normatividad;
 
 II.- Subsecretario de Industria y Comercio;
 
-III.- Subsecretario de Negociaciones Comerciales Internacionales;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2009)</small>
+
+III.- Subsecretario de Comercio Exterior;
 
 IV.- Subsecretario para la Pequeña y Mediana Empresa;
 
-V.- Secretario Técnico de Planeación, Comunicación y Enlace;
+V.- (DEROGADA, D.O.F. 27 DE ENERO DE 2009)
 
 VI.- Coordinador General de Minería, y
 
@@ -69,13 +73,17 @@ IV.- Unidad de Prácticas Comerciales Internacionales;
 
 V.- Unidad de Coordinación de Negociaciones Internacionales;
 
+> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2009)</small>
+
+V Bis.- Secretariado Técnico de la Competitividad;
+
 VI.- Dirección General de Inversión Extranjera;
 
 VII.- Dirección General de Normas;
 
 VIII.- Dirección General de Normatividad Mercantil;
 
-IX.- Dirección General del Registro Nacional de Vehículos;
+IX.- (DEROGADA, D.O.F. 27 DE ENERO DE 2009)
 
 X.- Dirección General de Industrias Básicas;
 
@@ -173,7 +181,9 @@ XIV.- Adscribir orgánicamente a las unidades administrativas a que se refiere e
 
 XV.- Expedir el Manual General de Organización de la Secretaría, que deberá ser publicado en el Diario Oficial de la Federación, y los demás manuales de procedimientos y de servicios al público;
 
-XVI.- Expedir los acuerdos de carácter general con base en la Ley Minera, Ley Federal de Competencia Económica, Ley de Inversión Extranjera, Ley Federal de Protección al Consumidor, Ley Federal de Correduría Pública, Ley Federal sobre Metrología y Normalización, salvo lo dispuesto en la fracción I del artículo 19 de este Reglamento, Ley de Comercio Exterior, Ley del Registro Nacional de Vehículos, y demás ordenamientos cuya aplicación y vigilancia de su cumplimiento corresponda a la Secretaría;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2009)</small>
+
+XVI.- Expedir los acuerdos de carácter general con base en la Ley Minera, Ley Federal de Competencia Económica, Ley de Inversión Extranjera, Ley Federal de Protección al Consumidor, Ley Federal de Correduría Pública, Ley Federal sobre Metrología y Normalización, salvo lo dispuesto en la fracción I del artículo 19 de este Reglamento, Ley de Comercio Exterior y demás ordenamientos cuya aplicación y vigilancia de su cumplimiento corresponda a la Secretaría;
 
 XVII.- Designar a los representantes de la Secretaría en las comisiones, consejos, congresos, organizaciones, entidades e instituciones nacionales e internacionales en las que participe la misma y, en su caso, a los servidores públicos a que se refiere el artículo 33 de la Ley Federal de las Entidades Paraestatales;
 
@@ -219,55 +229,19 @@ XII.- Desempeñar las comisiones que le encomiende el Secretario y realizar las 
 
 XIII.- Las demás que le señale el Secretario o le confieran otras disposiciones normativas, así como las establecidas en el artículo 12 de este Reglamento y las que competen a las unidades administrativas que se le hubieren adscrito.
 
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2009)</small>
+
 ###### ARTÍCULO 7.
 
-La Subsecretaría de Negociaciones Comerciales Internacionales coordinará y dirigirá las negociaciones comerciales internacionales, y dará seguimiento y supervisión a los acuerdos comerciales internacionales de los que México sea parte.
+La Subsecretaría de Comercio Exterior coordinará y dirigirá las negociaciones comerciales internacionales, y dará seguimiento y supervisión a los acuerdos comerciales internacionales de los que México sea parte.
 
-### CAPÍTULO IV. De las Facultades del Secretario Técnico, del Coordinador General de Minería y del Oficial Mayor
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 27 DE ENERO DE 2009)</small>
+
+### CAPÍTULO IV. De las Facultades del Coordinador General de Minería y del Oficial Mayor
 
 ###### ARTÍCULO 8.
 
-Al frente del Secretariado Técnico de Planeación, Comunicación y Enlace habrá un Secretario Técnico quien tendrá las facultades siguientes:
-
-I.- Promover la ordenación racional y sistemática de las acciones y actividades propias de los programas y proyectos que se le encomienden, asegurando su congruencia con los objetivos del Plan Nacional de Desarrollo;
-
-II.- Desarrollar, en coordinación con las unidades administrativas de la propia dependencia y sus órganos desconcentrados, las actividades de planeación y evaluación de los programas y acciones de la Secretaría que le sean encomendadas;
-
-III.- Establecer en coordinación con las unidades administrativas de la propia dependencia y sus órganos desconcentrados, los lineamientos y criterios para la evaluación de los programas y proyectos que se le encomienden y proponer, en su caso, la reformulación o adecuación de los mismos;
-
-IV.- Integrar, en coordinación con las unidades administrativas de la Secretaría, sus órganos desconcentrados y las entidades coordinadas, el material y la información que corresponda para la elaboración de los Informes oficiales que le encomiende el Secretario;
-
-V.- Desarrollar y dirigir la política de comunicación social de la Secretaría de conformidad con los lineamientos que al respecto emita la Secretaría de Gobernación;
-
-VI.- Orientar y coordinar las acciones de difusión, comunicación y prensa de la Secretaría, así como apoyar y asesorar a las unidades administrativas y órganos desconcentrados de ésta en materia de comunicación;
-
-VII.- Establecer los lineamientos generales para la producción de los materiales impresos, sonoros, audiovisuales, electrónicos y demás medios de difusión de la Secretaría, en coordinación con la Oficialía Mayor;
-
-VIII.- Diseñar la estrategia noticiosa para propiciar una cobertura informativa objetiva y permanente de los planes, programas y actividades de la Secretaría en los medios de comunicación nacionales e internacionales;
-
-IX.- Coordinar la captura, análisis y procesamiento de la información nacional e internacional referente a los acontecimientos de interés para las actividades de la Secretaría;
-
-X.- Actuar como conducto institucional ante la Secretaría de Gobernación, a efecto de atender los asuntos relacionados con las Cámaras del Congreso de la Unión;
-
-XI.- Coordinar las relaciones y el desarrollo de las acciones que correspondan a la Secretaría en atención a las solicitudes y requerimientos del Congreso de la Unión, así como con los sectores privado y social;
-
-XII.- Proponer y coordinar estrategias de cabildeo en las Cámaras del Congreso de la Unión y con los organismos e instituciones de los sectores privado y social sobre las materias de interés que sean competencia de la Secretaría;
-
-XIII.- Coordinar las comparecencias y presentaciones del Secretario y de otros servidores públicos de la Secretaría ante las diversas instancias del Congreso de la Unión;
-
-XIV.- Definir los criterios, políticas, lineamientos y programas de trabajo de carácter administrativo que deberán regir en las delegaciones, y subdelegaciones federales, y oficinas de servicios, que permitan el eficaz cumplimiento de sus funciones;
-
-XV.- Proponer al Secretario la creación, desaparición o modificación de delegaciones y subdelegaciones federales, y oficinas de servicios de la Secretaría con la circunscripción territorial que juzgue conveniente, así como el nombramiento o remoción de sus titulares;
-
-XVI.- Supervisar el adecuado funcionamiento y cumplimiento de las tareas desconcentradas a las delegaciones y subdelegaciones federales y oficinas de servicios;
-
-XVII.- Coordinar, las acciones con los gobiernos de los estados y municipios en materias de competencia de la Secretaría, de conformidad con los lineamientos que al respecto emite la Secretaría de Gobernación;
-
-XVIII.- Diseñar y difundir un centro de primer contacto empresarial, como una herramienta orientada a brindar un servicio integral de información y asesoría empresarial, de atención ciudadana y, de acceso a los particulares de la información pública en posesión de la Secretaría, y
-
-XIX.- Las señaladas en el artículo 6 de este Reglamento.
-
-El Secretariado Técnico de Planeación, Comunicación y Enlace estará a cargo de un Secretario Técnico, auxiliado en el ejercicio de sus facultades por el Coordinador General de Delegaciones Federales; y por los Directores Generales de Planeación y Evaluación; de Comunicación Social, y de Enlace.
+(DEROGADO, D.O.F. 27 DE ENERO DE 2009)
 
 ###### ARTÍCULO 9.
 
@@ -337,15 +311,21 @@ XXVI.- Las demás que le señale el Secretario o le confieran otras disposicione
 
 Para los efectos de la fracción IV de este artículo, habrá un coordinador administrativo por cada Subsecretaría o equivalente y por cada unidad administrativa adscrita directamente al Secretario, en los términos del artículo 5, fracción XIV de este Reglamento; respecto al ámbito desconcentrado habrá un responsable administrativo.
 
-### CAPÍTULO V. De las Atribuciones de las Coordinaciones Generales, Unidades y Direcciones Generales
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 27 DE ENERO DE 2009)</small>
+
+### CAPÍTULO V. De las Atribuciones del Secretariado Técnico de la Competitividad, de las Coordinaciones Generales, Unidades y Direcciones Generales
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2009)</small>
 
 ###### ARTÍCULO 11.
 
-Las coordinaciones generales, unidades y direcciones generales, estarán a cargo de un titular, que para el ejercicio de sus atribuciones se auxiliará por los directores generales, directores generales adjuntos, directores y subdirectores de área, jefes de departamento, y demás servidores públicos que se precisan en este Reglamento y en el Manual General de Organización de la Secretaría, así como por el personal que se requiera para satisfacer las necesidades del servicio.
+El Secretariado Técnico de la Competitividad, las coordinaciones generales, unidades y direcciones generales, estarán a cargo de un titular, que para el ejercicio de sus atribuciones se auxiliará por los directores generales, directores generales adjuntos, directores y subdirectores de área, jefes de departamento, y demás servidores públicos que se precisan en este Reglamento y en el Manual General de Organización de la Secretaría, así como por el personal que se requiera para satisfacer las necesidades del servicio.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE ENERO DE 2009)</small>
 
 ###### ARTÍCULO 12.
 
-Corresponde a cada coordinador general, jefe de unidad y director general:
+Corresponde al Secretario Técnico de la Competitividad, a cada coordinador general, jefe de unidad y director general:
 
 I.- Planear, programar, organizar, dirigir y evaluar el desempeño de las labores encomendadas a las unidades administrativas a su cargo;
 
@@ -409,7 +389,9 @@ XI.- Representar a la Secretaría en todos los actos cuyo objetivo sea el desarr
 
 Son atribuciones de la Coordinación General de Delegaciones Federales:
 
-I.- Organizar y coordinar a las representaciones federales, de acuerdo con los criterios, políticas, lineamientos y programas de trabajo de carácter administrativo definidos por el Secretario Técnico de Planeación, Comunicación y Enlace;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2009)</small>
+
+I.- Organizar y coordinar a las representaciones federales, de acuerdo con los criterios, políticas, lineamientos y programas de trabajo de carácter administrativo definidos por el servidor público al que sea adscrita;
 
 II.- Establecer, en coordinación con las unidades administrativas de la Secretaría, los criterios de gestión y coordinación aplicables por las delegaciones y subdelegaciones federales y oficinas de servicios, que permitan el eficaz cumplimiento de las funciones delegadas;
 
@@ -433,7 +415,9 @@ XI.- Coordinar con el área normativa correspondiente, la evaluación y asignaci
 
 XII.- Proporcionar elementos de información estratégica para la toma de decisiones de áreas normativas de la Secretaría, para la adecuación, desarrollo y mejora continua de los procesos y programas que se operan en las delegaciones y subdelegaciones federales y oficinas de servicios;
 
-XIII.- Proponer al Secretario Técnico de Planeación, Comunicación y Enlace la creación de delegaciones y subdelegaciones federales y oficinas de servicios, su desaparición o modificación, así como el nombramiento o remoción de los titulares de las mismas;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2009)</small>
+
+XIII.- Proponer al servidor público al que sea adscrita la creación de delegaciones y subdelegaciones federales y oficinas de servicios, su desaparición o modificación, así como el nombramiento o remoción de los titulares de las mismas;
 
 XIV.- Integrar los programas de trabajo de las delegaciones y subdelegaciones federales y oficinas de servicios;
 
@@ -615,7 +599,9 @@ IX.- Diseñar y ejecutar estrategias para la promoción de la inversión extranj
 
 X.- Publicar oportunamente información en materia de inversión extranjera.
 
-Las atribuciones a que se refieren las fracciones I, II, III y IV de este artículo, se ejercerán de manera coordinada con la Subsecretaría de Negociaciones Comerciales Internacionales.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2009)</small>
+
+Las atribuciones a que se refieren las fracciones I, II, III y IV de este artículo, se ejercerán de manera coordinada con la Subsecretaría de Comercio Exterior.
 
 La Dirección General de Inversión Extranjera estará a cargo de un Director General, auxiliado en el ejercicio de sus facultades por los Directores Generales Adjuntos del Registro Nacional de Inversiones Extranjeras, y de Asuntos Internacionales; por los Directores de Asuntos Jurídicos y de la Comisión Nacional de Inversiones Extranjeras, y de Calidad y Estadística; por los Subdirectores de Seguimiento; del Registro Nacional de Inversiones Extranjeras; de Comportamiento de la Inversión Extranjera; de Seguimiento a Obligaciones Registrales, y de Resoluciones Específicas; y por los Jefes de Departamento de Seguimiento a Informes Económicos; de Inscripciones; de Control; de Apoyo a Representaciones Federales; de Informes Trimestrales de Ingresos y Egresos, y de Apoyo Logístico.
 
@@ -735,7 +721,9 @@ XXXII.- Asesorar y apoyar en la formulación de normas mexicanas de los bienes d
 
 XXXIII.- Promover el establecimiento de un marco normativo que mejore las prácticas y operaciones mercantiles, particularmente las correspondientes a las relaciones entre productores y distribuidores de productos y entre éstos y los comercializadores de los mismos;
 
-XXXIV.- Opinar sobre los precios y tarifas de los bienes y servicios de la Administración Pública Federal, en estricto apego al dictamen que emita el servidor público que designe el Subsecretario de Normatividad, Inversión Extranjera y Prácticas Comerciales Internacionales;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2009)</small>
+
+XXXIV.- Opinar sobre los precios y tarifas de los bienes y servicios de la Administración Pública Federal, en estricto apego al dictamen que emita el servidor público que designe el Subsecretario de Competitividad y Normatividad;
 
 XXXV.- Coadyuvar a la coordinación entre dependencias y entidades federales así como organismos representativos de los valuadores, para la elaboración y aplicación de la normatividad que rige la valuación en materia mercantil, y tratándose de normas mexicanas y normas oficiales mexicanas en coordinación con la Dirección General de Normas;
 
@@ -747,41 +735,7 @@ La Dirección General de Normatividad Mercantil estará a cargo de un Director G
 
 ###### ARTÍCULO 21.
 
-Son atribuciones de la Dirección General del Registro Nacional de Vehículos:
-
-I.- Elaborar, modificar y aplicar las reglas a que se sujetará la operación, funcionamiento y administración del servicio público del Registro Nacional de Vehículos y su Base de Datos, incluyendo las relativas a la recepción, almacenamiento y transmisión de la información;
-
-II.- Aprobar el manual de operación del Registro y sus modificaciones;
-
-III.- Participar en la elaboración, celebración y modificación de los convenios de coordinación, acuerdos y demás instrumentos jurídicos que suscriba la Secretaría, en materia del Registro, con las entidades federativas, el Sistema Nacional de Seguridad Pública, y cualquier otra dependencia o entidad de la Administración Pública Federal, así como realizar las actividades necesarias para asegurar el cumplimiento de los mismos;
-
-IV.- Realizar, en coordinación con las autoridades competentes, las actividades de cooperación con otros países para el intercambio de información relacionada con la contenida en la Base de Datos del Registro Nacional de Vehículos, y las acciones necesarias para la negociación y celebración de los instrumentos para su formalización;
-
-V.- Requerir, recibir y, en su caso, proporcionar al concesionario, la información que están obligados a proporcionar a la Secretaría, fabricantes, ensambladores o importadores de vehículos sobre el Número de Identificación Vehicular, de conformidad con los ordenamientos jurídicos aplicables;
-
-VI.- Coadyuvar, con las autoridades competentes, en la realización de las acciones de verificación y vigilancia de los ordenamientos jurídicos que regulen el Número de Identificación Vehicular;
-
-VII.- Participar en el Comité Consultivo del Registro Nacional de Vehículos, y desempeñar las funciones que le sean asignadas en dicho Comité, conforme al Reglamento de la Ley del Registro Nacional de Vehículos;
-
-VIII.- Participar en comisiones, comités, foros o grupos de trabajo nacionales e internacionales que atiendan asuntos vinculados con registros vehiculares y la información contenida en la Base de Datos del Registro Nacional de Vehículos;
-
-IX.- Operar o, en su caso, resolver sobre el otorgamiento y la prórroga de una o varias concesiones del servicio público del Registro Nacional de Vehículos, así como suscribir los instrumentos jurídicos que celebre la Secretaría con el concesionario;
-
-X.- Vigilar que la prestación del servicio público del Registro Nacional de Vehículos a cargo del o los concesionarios, se realice con apego a lo dispuesto por las disposiciones aplicables;
-
-XI.- Dictaminar y someter a aprobación superior las resoluciones en materia de renuncia, revocación, nulidad, ocupación temporal, intervención en la administración del servicio público, terminación por causas de utilidad o interés públicos, o requisa de las concesiones previstas por la Ley del Registro Nacional de Vehículos;
-
-XII.- Apoyar a las dependencias y entidades de la Administración Pública Federal, así como a las demás unidades administrativas de la Secretaría, en el cumplimiento de sus atribuciones, con la información derivada del Registro Nacional de Vehículos, en términos de lo dispuesto por las disposiciones aplicables;
-
-XIII.- Coadyuvar con el Sistema Nacional de Seguridad Pública para el cumplimiento de sus objetivos, de conformidad con la Ley del Registro Nacional de Vehículos y las demás disposiciones aplicables;
-
-XIV.- Distribuir, entre las dependencias y entidades de la Administración Pública Federal y, en su caso, estatal, el volumen de consultas gratuitas a la Base de Datos del Registro Nacional de Vehículos, así como de los servicios de revisión vehicular y de usuarios registrados, de conformidad con la Ley del Registro Nacional de Vehículos y las disposiciones que deriven de ella;
-
-XV.- Ordenar y practicar visitas de verificación, así como requerir información, para vigilar y comprobar el cumplimiento de la Ley del Registro Nacional de Vehículos y demás disposiciones que deriven de ella, e imponer las sanciones que procedan por el incumplimiento de la misma, y
-
-XVI.- Dictar los demás actos de aplicación de la Ley del Registro Nacional de Vehículos y de las disposiciones que deriven de ella.
-
-La Dirección General del Registro Nacional de Vehículos estará a cargo de un Director General, auxiliado en el ejercicio de sus facultades por los Directores Jurídico y de Servicios; de Evaluación y Calidad del Registro Nacional de Vehículos, y de Sistemas; y por los Subdirectores Jurídico; de Servicios, y de Evaluación y Calidad del Registro Nacional de Vehículos.
+(DEROGADO, D.O.F. 27 DE ENERO DE 2009)
 
 ###### ARTÍCULO 22.
 
@@ -1465,17 +1419,15 @@ Las ausencias y las vacantes de los titulares del Órgano Interno de Control, de
 
 ### CAPÍTULO VIII. De la suplencia de los servidores públicos de la Secretaría
 
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2009)</small>
+
 ###### ARTÍCULO 45.
 
-La representación de la Secretaría en ausencia del Secretario será ejercida por los Subsecretarios de Normatividad, Inversión Extranjera y Prácticas Comerciales Internacionales, de Industria y Comercio, de Negociaciones Comerciales Internacionales, para la Pequeña y Mediana Empresa, por el Secretario Técnico de Planeación, Comunicación y Enlace, y por el Coordinador General de Minería en ese orden, y a falta de ellos por el Oficial Mayor.
+El Secretario será suplido en sus ausencias, con la prelación siguiente: por el Subsecretario de Competitividad y Normatividad; el Subsecretario de Industria y Comercio; el Subsecretario de Comercio Exterior; el Subsecretario para la Pequeña y Mediana Empresa, y por el Oficial Mayor. En ausencia de éstos, por el Jefe de la Unidad de Asuntos Jurídicos.
 
-Lo dispuesto en el párrafo anterior se entenderá sin perjuicio de la suplencia que corresponderá a cada Subsecretario, al Secretario Técnico de Planeación, Comunicación y Enlace, al Coordinador General de Minería o al Oficial Mayor, respecto del despacho de los asuntos encomendados a las unidades administrativas adscritas a su responsabilidad.
+Las ausencias temporales o la falta de designación de los titulares de los Subsecretarios o del Oficial Mayor se suplirán por los titulares de las unidades administrativas que les sean adscritas en el ámbito de sus respectivas competencias o, en su caso, por el servidor público que éstos designen.
 
-En los juicios de amparo o controversias constitucionales en que el Secretario deba intervenir en representación del Presidente de los Estados Unidos Mexicanos o como titular de la Secretaría, será suplido indistintamente por los servidores públicos antes señalados en el orden indicado, o por el Jefe de la Unidad de Asuntos Jurídicos.
-
-En otros asuntos judiciales la suplencia del Secretario se hará por los servidores públicos mencionados indistintamente.
-
-La ausencia de los Subsecretarios, del Secretario Técnico de Planeación, Comunicación y Enlace o del Coordinador General de Minería se suplirá en el orden establecido en el primer párrafo de este artículo, o por el Jefe de la Unidad de Asuntos Jurídicos. Las ausencias del Oficial Mayor serán suplidas por el servidor público que éste designe o por el Jefe de la Unidad de Asuntos Jurídicos.
+Las ausencias temporales o la falta de designación de los titulares del Secretariado Técnico de la Competitividad, de las coordinaciones generales, de las unidades y direcciones generales, previstos en el artículo 2 de éste Reglamento, así como de los directores generales, directores generales adjuntos, directores y subdirectores de área, jefes de departamento, y demás servidores públicos que se precisan en el Manual General de Organización de la Secretaría, serán suplidas por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de sus respectivas competencias.
 
 ###### ARTÍCULO 46.
 
@@ -1578,3 +1530,11 @@ D.O.F. 28 DE ENERO DE 2004.
 PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se deroga el artículo 51 del Reglamento Interior de la Secretaría de Economía, publicado en el Diario Oficial de la Federación el 22 de noviembre de 2002, y las demás disposiciones que se opongan al presente Reglamento.
+
+D.O.F. 27 DE ENERO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las menciones contenidas en diversas disposiciones respecto de las subsecretarías cuya denominación se modifica por virtud de este Decreto, se entenderán referidas a las denominaciones establecidas en el presente.
+
+TERCERO.- El cambio de denominación del Secretario Técnico de Planeación, Comunicación y Enlace, por el de Secretariado Técnico de la Competitividad, así como su cambio de adscripción, que en su oportunidad efectúe el Secretario de Economía, no afectarán los derechos laborales previamente adquiridos por los trabajadores que ocupan plazas en dicha unidad administrativa.
