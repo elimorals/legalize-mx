@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-seguridad-social-del-estado-de-26152"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-01"
-last_updated: "2007-06-01"
+last_updated: "2009-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26152&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO EN MATERIA DEL SISTEMA DE AHORRO VOLUNTARIO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 2009.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 1 de octubre de 2002.
 
@@ -95,9 +95,13 @@ El ISSEG, al establecer la definición de cartera, buscará una adecuada diversi
 
 Los importes que reciba el ISSEG, deberán ser depositados en sus cuentas de inversión a más tardar el día hábil siguiente al de su recepción, generando rendimientos a partir de este día.
 
-###### Artículo 9°.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-El ISSEG publicará por los medios idóneos los rendimientos generados al final de cada mes.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2009)</small>
+
+###### Artículo 9º.
+
+El ISSEG publicará por los medios idóneos los rendimientos generados del mes, dentro de los cinco primeros días hábiles del mes inmediato siguiente.
 
 ### CAPÍTULO TERCERO. AHORRO A CUENTAS INDIVIDUALES
 
@@ -107,13 +111,17 @@ El ISSEG publicará por los medios idóneos los rendimientos generados al final 
 
 El ISSEG es responsable de la apertura de cuentas de ahorro voluntario para cada uno de los ahorradores que se adhieran al sistema y abrirá un expediente por cada ahorrador, con los datos generales que se detallan en el formato múltiple y de cada uno de los importes de ahorro voluntario.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2009)</small>
+
 ###### Artículo 11.
 
-Los depósitos que realicen los ahorradores para abono a su cuenta individual serán recibidos en los módulos designados para tal efecto por el ISSEG o retenidos a través de la nómina del empleador que corresponda, previa aceptación del ahorrador por escrito.
+Los depósitos que realicen los ahorradores para abono a su cuenta individual serán recibidos en los módulos designados para tal efecto por el ISSEG o retenidos a través de la nómina del empleador que corresponda, previa aceptación del ahorrador.
 
-El empleador depositará los importes retenidos por concepto de ahorro voluntario conforme a las cartas compromiso en las cuentas (sic) que designe el ISSEG mediante convenio, a más tardar el día que corresponda al pago de nómina y anexará los datos de cada ahorrador, requeridos en los formatos que para tal efecto establezca el ISSEG.
+El empleador depositará los importes retenidos por concepto de ahorro voluntario en las cuentas bancarias que designe el ISSEG, a más tardar el día que corresponda al pago de nómina y anexará los datos de cada ahorrador, requeridos en los formatos que para tal efecto establezca el ISSEG.
 
-El retraso en el entero de los importes por parte del empleador se resolverá en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Guanajuato, sin perjuicio de lo establecido en el artículo 17 de la Ley.
+El retraso en el entero de los importes por parte del empleador se resolverá en los términos de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, sin perjuicio de lo establecido en el artículo 17 de la Ley.
 
 ###### Artículo 12.
 
@@ -133,17 +141,29 @@ Los ahorradores podrán realizar depósitos mediante la entrega de efectivo o do
 
 El depósito de los importes ahorrados, se acreditará mediante la entrega del comprobante emitido por el ISSEG o por el talón de pago quincenal del empleador donde conste el descuento correspondiente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2009)</small>
+
 ###### Artículo 15.
 
-El ISSEG entregará directamente o a través del empleador, los estados de cuenta relativos a cada ahorrador, cada semestre, los cuales se emitirán al final de los meses de enero y julio.
+El ISSEG entregará por los medios idóneos los estados de cuenta relativos a cada ahorrador. El ahorrador tendrá derecho a solicitar hasta 3 estados de cuenta en un periodo de 12 meses naturales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2009)</small>
 
 ###### Artículo 16.
 
-El ahorrador podrá solicitar al ISSEG un estado de cuenta adicional, obligándose a entregarlo a más tardar el tercer día hábil inmediato siguiente al de la solicitud, previo pago por dicho servicio, cuyo costo será fijado por el ISSEG.
+El ahorrador podrá solicitar estados de cuenta adicionales, obligándose el ISSEG a entregarlos a más tardar el tercer día hábil inmediato siguiente al de la solicitud, previo pago por cada estado de cuenta adicional de una comisión por dicho servicio, equivalente al 50% de un salario mínimo general diario vigente en el Estado de Guanajuato, más el impuesto correspondiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2009)</small>
 
 ###### Artículo 17.
 
-El estado de cuenta detallará los saldos y movimientos efectuados durante los últimos seis meses, así como los rendimientos y comisiones correspondientes.
+El estado de cuenta detallará movimientos, rendimientos, impuestos y comisiones correspondientes a los últimos seis meses, así como el saldo al final del periodo.
 
 ###### Artículo 18.
 
@@ -159,11 +179,15 @@ El ISSEG estará obligado a entregar los fondos de la cuenta de ahorro voluntari
 
 Durante el periodo referido en el párrafo que antecede, dichos fondos no generarán rendimientos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2009)</small>
+
 ###### Artículo 20.
 
-Los ahorradores podrán efectuar retiros parciales o totales, siempre y cuando estos se realicen seis meses después de su primera aportación o de su último retiro.
+Los ahorradores podrán efectuar un retiro parcial o total de su cuenta de ahorro voluntario sin cobro de comisión alguna después de seis meses de su último retiro o de su primer depósito.
 
-En caso de solicitar retiros fuera de los plazos estipulados, los ahorradores recibirán solamente un setenta y cinco por ciento de los rendimientos del último periodo.
+En caso de solicitar retiros fuera de los plazos estipulados, se descontará automáticamente por cada retiro, una comisión equivalente al 20% de un salario mínimo general diario vigente en el Estado de Guanajuato más su impuesto correspondiente.
 
 #### SECCIÓN SEGUNDA. DE LA DESIGNACIÓN DE BENEFICIARIOS
 
@@ -173,9 +197,11 @@ El ahorrador podrá designar beneficiarios, quienes recibirán en caso de fallec
 
 ### CAPÍTULO QUINTO. COMISIÓN POR MANEJO DE FONDOS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
 ###### Artículo 22.
 
-El ISSEG publicará por los medios idóneos la comisión mensual por la administración de las cuentas de ahorro voluntario, al final de cada mes. El cargo, deberá realizarse después de efectuar el reparto de rendimientos a cada una de las cuentas.
+(DEROGADO, P.O. 27 DE ENERO DE 2009)
 
 ## TRANSITORIO
 
@@ -195,10 +221,16 @@ EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN
 
 JOSÉ LUIS MARIO AGUILAR Y MAYA MEDRANO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 1 DE JUNIO DE 2007.
 
 Artículo Primero.- El presente Decreto Gubernativo entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto Gubernativo.
+
+P.O. 27 DE ENERO DE 2009.
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Articulo Segundo. Se derogan todas aquellas disposiciones administrativas que se opongan al contenido del presente Decreto Gubernativo.
