@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-ciencia-y-47154"
 country: "mx"
 rank: "estatuto"
 publication_date: "2005-12-30"
-last_updated: "2005-12-30"
+last_updated: "2009-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47154&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-12-02"
 
 ESTATUTO ORGANICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ENERO DE 2009.
 
 Estatuto publicado en la Quinta Sección del Diario Oficial de la Federación, el viernes 30 de diciembre de 2005.
 
@@ -318,6 +318,10 @@ V. A las sesiones de la Junta de Gobierno se podrá invitar con voz pero sin vot
 La Junta de Gobierno celebrará sesiones ordinarias por lo menos cuatro veces por año y las extraordinarias que proponga el Director General del CONACYT o cuando menos seis de sus miembros por conducto del Secretario del propio Organo de Gobierno.
 
 La Junta de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros y siempre que la mayoría de los asistentes sean representantes de la administración pública federal. Las resoluciones se tomarán por mayoría de votos de los miembros presentes.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2009)</small>
+
+Las sesiones de la Junta de Gobierno o de la Comisión Asesora podrán llevarse a cabo de manera no presencial a través de medios remotos de comunicación, los cuales pueden ser en forma enunciativa mas no limitativa, videoconferencia, audioconferencia o cualquier otro medio conocido o por conocerse que permita una presencia virtual, en la inteligencia de que el procedimiento de convocatoria, la lista de asistencia y el acta respectiva, deberán contener las firmas autógrafas correspondientes.
 
 ###### Artículo 10.
 
@@ -1752,3 +1756,9 @@ SEXTO.- Se abroga el Estatuto Orgánico del Consejo Nacional de Ciencia y Tecnol
 SEPTIMO.- Las Unidades Administrativas del CONACYT, deberán adecuar la normatividad vigente, en todo aquello que guarde relación con el presente Estatuto.
 
 El presente Estatuto Orgánico del Consejo Nacional de Ciencia y Tecnología, se expide en la Ciudad de México, Distrito Federal, a los dos días del mes de diciembre de dos mil cinco.- El Director General, Gustavo Adolfo Chapela Castañares.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 27 DE ENERO DE 2009.
+
+PRIMERO.- El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
