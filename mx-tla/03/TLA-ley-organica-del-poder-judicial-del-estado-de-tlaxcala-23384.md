@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-del-poder-judicial-del-estado-de-tlaxcala-23384"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-01-10"
-last_updated: "2008-12-08"
+last_updated: "2009-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 2009.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el jueves 10 de enero de 2002.
 
@@ -965,6 +965,10 @@ El Consejo se integrará por cinco consejeros en los términos que prevé el art
 
 Para ser Consejero de la Judicatura, se requiere del cumplimiento de los mismos requisitos que se exigen para ser Magistrado del Tribunal Superior de Justicia.
 
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2009)</small>
+
+El consejero representante de los magistrados y el consejero representante de los jueces del Poder Judicial del Estado, serán designados por el Pleno del Tribunal Superior de Justicia, en los términos que establece el artículo 85 fracciones II y III de la Constitución Política del Estado Libre y Soberano de Tlaxcala; recayendo tal designación en aquellos servidores públicos del Poder Judicial que hayan destacado en el ejercicio de sus funciones como magistrados y como jueces, respecto de la producción del conocimiento jurídico; que no tengan queja o algún procedimiento administrativo en su contra; que posean los conocimientos necesarios sobre el manejo de la judicatura y la difusión en el conocimiento jurídico.
+
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
@@ -1857,13 +1861,19 @@ El presente Decreto entrará en vigor a partir del primero de enero del año dos
 
 La Comisión de Puntos Constitucionales, Gobernación y Justicia y Asuntos Políticos, emitirá la convocatoria para designar al profesional del derecho que integre el Consejo de la Judicatura del Poder Judicial del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2009)</small>
+
 ###### ARTÍCULO TERCERO.
 
-El Presidente de la Mesa Directiva solicitará al titular del Poder Ejecutivo designe en el presente mes de diciembre del año en curso, al profesional del derecho que integre el Consejo de la Judicatura del Poder Judicial del Estado.
+Una vez que entre en vigor el presente Decreto, el Presidente de la Mesa Directiva de esta Soberanía solicitará al Gobernador del Estado, para que dentro de los cinco días naturales posteriores al de su notificación, designe al profesional del derecho que integre el Consejo de la Judicatura del Poder Judicial del Estado de Tlaxcala, en los términos previstos en el artículo 85 fracción V de la Constitución Política del Estado Libre y Soberano de Tlaxcala; y lo comunique al Tribunal Superior de Justicia del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2009)</small>
 
 ###### ARTÍCULO CUARTO.
 
-Los consejeros tomarán protesta en el Pleno del Tribunal Superior de Justicia del Estado, el primer día de hábil de enero del año dos mil nueve; fecha a partir de la cual corre el término de tres años de duración en su cargo.
+Una vez designados los consejeros por parte de los poderes Ejecutivo y Legislativo éstos de inmediato se lo comunicarán al Magistrado Presidente del Tribunal Superior de Justicia del Estado, para que éste dentro del término de cinco días naturales siguientes al de su notificación en sesión del Pleno del Tribunal Superior de Justicia les tome la protesta de Ley a los cinco integrantes del Consejo de la Judicatura, fecha a partir de la cual iniciarán sus funciones y corre el término de tres años de duración en su cargo.
+
+Rendida la protesta de Ley, por parte de los integrantes del Consejo de la Judicatura ante el Pleno del Tribunal Superior de Justicia del Estado, con dicho acto se extingue la Comisión de Gobierno Interno y Administración del Poder Judicial del Estado y a través del Magistrado Presidente del Tribunal Superior de Justicia se hará entrega al Consejo de la Judicatura de todos y cada uno de los documentos que durante su función tramitó, así como de los expedientes administrativos, convenios, acuerdos expedidos, incluyendo lo relativo a la administración del fondo auxiliar para la impartición de justicia, tratándose de los estados financieros, de depósitos en dinero o valores que deriven del citado fondo, y todos aquellos recursos económicos que por Ley le hayan asignado.
 
 ###### ARTÍCULO QUINTO.
 
@@ -1872,3 +1882,13 @@ Quien funge hoy como Oficial Mayor del Tribunal Superior de Justicia, será rati
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido de este Decreto.
+
+P.O. 28 DE ENERO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez que entre en vigor este Decreto, el Magistrado Presidente del Tribunal Superior de Justicia del Estado, dentro de los ocho días naturales siguientes; procederá a convocar a sesión ordinaria o extraordinaria para la designación de sus consejeros representantes que integren el Consejo de la Judicatura del Poder Judicial del Estado, en los términos previstos en las fracciones II y III del artículo 85 de la Constitución Política del Estado Libre y Soberano de Tlaxcala y del artículo 64 de la Ley Orgánica del Poder Judicial del Estado.
