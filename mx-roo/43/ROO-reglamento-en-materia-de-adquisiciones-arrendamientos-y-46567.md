@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-en-materia-de-adquisiciones-arrendamientos-y-46567"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-09-23"
-last_updated: "2005-09-23"
+last_updated: "2009-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 REGLAMENTO EN MATERIA DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL INSTITUTO ELECTORAL DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO EN MATERIA DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS, BAJA, ENAJENACION Y DESECHAMIENTO DE LOS BIENES MUEBLES DEL INSTITUTO ELECTORAL DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 28 DE ENERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADO.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 23 de septiembre de 2005.
 
@@ -666,3 +668,19 @@ EL QUE SUSCRIBE CIUDADANO LICENCIADO JORGE ELROD LÓPEZ CASTILLO, EN MI CALIDAD 
 C E R T I F I CO
 
 QUE LAS PRESENTES COPIAS FOTOSTÁTICAS, CONCUERDAN FIEL Y EXACTAMENTE CON SU ORIGINAL, Y SE EXPIDE EN VEINTISIETE FOJAS ÚTILES, DEBIDAMENTE SELLADAS Y COTEJADAS, PARA LOS EFECTOS LEGALES CONDUCENTES SE EXTIENDE LA PRESENTE EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS VEINTIÚN DÍAS DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL CINCO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 28 DE ENERO DE 2009.
+
+PRIMERO.- El presente Reglamento deroga al Reglamento en Materia de Adquisiciones, Arrendamientos y Contratación de Servicios del Instituto Electoral de Quintana Roo.
+
+SEGUNDO.- El presente Reglamento entrará en vigor al momento de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- El Comité de Adquisiciones, Arrendamientos, Contratación de Servicios, Baja, Enajenación y Desechamiento de los Bienes Muebles del Instituto Electoral de Quintana Roo, previsto en el presente ordenamiento reglamentario, en los términos de las disposiciones normativas aplicables, sustituye en el acto de entrada en vigor del presente Reglamento, en cuanto a sus atribuciones y ámbito competencial al Comité de Adquisiciones, Arrendamientos y Contratación de Servicios del Instituto Electoral de Quintana Roo.
+
+En tal virtud, los actos y procedimientos administrativos atinentes del Comité de Adquisiciones, Arrendamientos y Contratación de Servicios del Instituto Electoral de Quintana Roo que se encuentre en trámite, serán atendidos por el Comité de Adquisiciones, Arrendamientos, Contratación de Servicios, Baja, Enajenación y Desechamiento de los Bienes del propio Instituto y concluirán de conformidad con los preceptos establecidos en el Reglamento en Materia de Adquisiciones, Arrendamientos y Contratación de Servicios del Instituto Electoral de Quintana Roo.
+
+CUARTO.- El Consejero Presidente del Consejo General instruirá al Titular de la Dirección de Administración y Planeación del Instituto Electoral de Quintana Roo, con la finalidad de que de manera inmediata adopte las medidas que considere pertinentes para que el presente Reglamento sea conocido y observado a cabalidad en su oportunidad.
+
+QUINTO.- El Consejero Presidente del Consejo General instruirá al Titular de la Dirección de Administración y Planeación del Instituto Electoral de Quintana Roo, a efecto de que a la brevedad posible proceda a realizar las acciones, trámites y gestiones necesarias para y ante el Comité de Adquisiciones, Arrendamientos, Contratación de Servicios, Baja, Enajenación y Desecamiento de los Bienes Muebles del Instituto, con el propósito de atender los pendientes administrativos de su competencia en los términos del presente Reglamento.
