@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2008-04-18"
+last_updated: "2009-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO PENAL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 2009.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -1179,13 +1179,15 @@ Si el homicidio se comete en riña, se aplicará a su autor de tres a trece año
 
 Cuando los delitos de homicidio y lesiones se cometan en lugar concurrido por personas ajenas a los hechos y con riesgo de su integridad corporal, las penas previstas para esos delitos se aumentarán hasta en una tercera parte.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 144.
 
-Cuando se produzca homicidio o lesiones de las señaladas en las fracciones V, VII y VIII del artículo 136 de este Código, con motivo del tránsito de vehículos y los cause culposamente el conductor de un transporte de servicios público o escolar, se sancionará a éste con prisión de cinco a quince años y se le inhabilitará para el manejo de los mismos conforme a lo previsto en el artículo 263.
+Cuando se produzca homicidio o lesiones de las señaladas en las fracciones V, VII y VIII del artículo 136 de este Código, con motivo del tránsito de vehículos y los cause culposamente el conductor de un transporte de servicio público o transporte privado de personal o escolar y el responsable conduzca en exceso de velocidad, o en estado de ebriedad, o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que impidan o perturben la adecuada conducción, o abandone a la víctima, se sancionará a éste con prisión de cinco a quince años, se le inhabilitará para la conducción de los mismos, de tres a cinco años, con privación del derecho a obtener licencia para manejar vehículos de motor.
 
-Las mismas penas se aplicarán al conductor que cause culposamente la muerte de dos o más personas.
+Cuando este delito se cometa dentro del horario de labores y en la ruta concesionada, sin que ocurran ninguna de las circunstancias señaladas en el párrafo precedente, se sancionará al conductor responsable con prisión de dos a ocho años y se le inhabilitará para el manejo de vehículos de motor conforme a lo previsto en el artículo 263.
+
+Al conductor que cause culposamente la muerte de dos o más personas se aplicarán las mismas penas señaladas en el párrafo primero.
 
 ###### ARTICULO 145.
 
@@ -3570,6 +3572,12 @@ DECRETO NÚMERO 664, POR EL QUE SE REFORMAN LOS ARTÍCULOS 126; 180; 187, PRIMER
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 P.O. 18 DE ABRIL DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 28 DE ENERO DE 2009.
 
 ###### ARTÍCULO ÚNICO.
 
