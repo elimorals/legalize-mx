@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-justicia-para-adolescentes-en-el-estado-de-zacatecas-520
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-30"
-last_updated: "2008-12-24"
+last_updated: "2009-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # LEY DE JUSTICIA PARA ADOLESCENTES EN EL ESTADO DE ZACATECAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE ENERO DE 2009 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE JUSTICIA PARA ADOLESCENTES EN EL ESTADO DE ZACATECAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2008.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 28 DE ENERO DE 2009 NO APLICA AL ARTICULADO DEL DECRETO # 229 PUBLICADO EN EL P.O. DE 24 DE DICIEMBRE DE 2008.]</small>
 
 Ley publicada en el Suplemento No. 78 del Periódico Oficial del Estado de Zacatecas, el sábado 30 de septiembre de 2006.
 
