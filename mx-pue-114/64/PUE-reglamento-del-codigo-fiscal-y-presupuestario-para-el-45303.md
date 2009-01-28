@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-del-codigo-fiscal-y-presupuestario-para-el-45303"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-13"
-last_updated: "2007-01-24"
+last_updated: "2009-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 REGLAMENTO DEL CODIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 2009.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 13 de junio de 2005.
 
@@ -87,11 +87,13 @@ VIII. Contraloría Interna.- El órgano de control de cada entidad auxiliar de l
 
 IX. Dependencias.- Las dependencias de la Administración Pública Centralizada del Honorable Ayuntamiento del Municipio de Puebla y sus órganos desconcentrados;
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2009)</small>
 
-X. SAU.- Secretaria de Administración Urbana;
+X. SAU.- La Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable del Honorable Ayuntamiento del Municipio de Puebla;
 
-XI. Dirección Jurídica.- La Dirección General Jurídica Consultiva del Honorable Ayuntamiento del Municipio de Puebla;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2009)</small>
+
+XI. Dirección Jurídica.- La Dirección General Jurídica y de lo Contencioso;
 
 XII. Entidades.- Los organismos, los fideicomisos públicos municipales y las empresas de participación municipal mayoritaria, de la Administración Pública del Municipio de Puebla;
 
@@ -141,9 +143,11 @@ Al momento de notificar un acto que pueda ser recurrido a través del recurso de
 
 Promoción del recurso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 2009)</small>
+
 ###### Artículo 5.
 
-Para efectos del artículo 4 del Código, se entenderá que el recurso de revisión es interpuesto ante la autoridad que emitió el acto, en los siguientes casos:
+Para efectos del artículo 4 del Código, se entenderá que el recurso administrativo de revisión es interpuesto ante la autoridad que emitió el acto, en los siguientes casos:
 
 I. Tratándose de actos emanados por las autoridades fiscales, por el hecho de que el escrito que contenga el recurso, sea depositado en la mesa receptora de correspondencia de la autoridad emisora que corresponda, de las referidas en el artículo 26 del Código, o directamente en las oficinas de la Tesorería;
 
@@ -159,13 +163,17 @@ c) En el caso de actos de la Sindicatura, que contengan medidas administrativas 
 
 d) Tratándose de actos del representante jurídico del organismo de que se trate, que contengan medidas administrativas encaminadas a obtener, mantener o recuperar la posesión de los bienes del dominio público, por el simple hecho de que el escrito que contenga el recurso, sea depositado en la mesa receptora de correspondencia del propio organismo.
 
-Los responsables de la recepción del recurso, deberán remitir los escritos y anexos que los contengan, a las autoridades encargadas de rendir los informes y enviar los expedientes a que se refiere el artículo 5 del Código, dentro del improrrogable término de 12 horas hábiles, contadas a partir de la recepción del mismo.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2009)</small>
+
+Los responsables de la recepción del recurso, deberán remitir los escritos y anexos que los contengan, a las autoridades encargadas de rendir los informes y enviar los expedientes a que se refiere el artículo 5 del Código, el mismo día de su recepción.
 
 Remisión del expediente e informe por parte de la autoridad emisora del acto o resolución.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 2009)</small>
+
 ###### Artículo 6.
 
-La autoridad emisora del acto o de la resolución, al recibir el recurso de revisión, contará, a partir de ese día, con un término improrrogable de tres días hábiles, para remitir a la Dirección Jurídica, el expediente y el informe a que se refiere el artículo 5 del Código.
+La autoridad emisora del acto o de la resolución, al recibir el recurso administrativo de revisión, contará, con un término improrrogable de cinco días hábiles, para remitir a la Dirección Jurídica, el expediente y el informe a que se refiere el artículo 5 del Código, el cómputo de dicho plazo empezará a correr a partir del día hábil siguiente al de la fecha de recepción de dicho recurso.
 
 En el caso que existan razones suficientes, que impidan la remisión de los expedientes originales, la autoridad que rinda el informe lo hará saber a la Dirección Jurídica, remitiendo copia autorizada legible de las actuaciones.
 
@@ -175,9 +183,11 @@ Los recurrentes podrán ampliar el recurso administrativo de revisión, al momen
 
 Notificaciones personales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 2009)</small>
+
 ###### Artículo 7.
 
-Durante la tramitación del recurso de revisión, se notificarán en forma personal los siguientes actos:
+Durante la tramitación del recurso administrativo de revisión, se notificarán en forma personal los siguientes actos:
 
 I. El requerimiento que la Dirección Jurídica realice al promovente, en los términos del artículo 6 del Código, para el efecto de que subsane los requisitos legales omitidos en la formulación del recurso;
 
@@ -203,9 +213,11 @@ Las diligencias para mejor proveer, constituyen actos discrecionales de la Direc
 
 Desistimiento expreso del recurso.
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2009)</small>
+
 ###### Artículo 9.
 
-En el caso de que el recurrente se desista expresamente del recurso de revisión, la autoridad podrá citarla para su ratificación, bajo el apercibimiento que de no comparecer se tendrá por ratificado el desistimiento.
+En el caso de que el recurrente se desista expresamente del recurso administrativo de revisión, la autoridad podrá citarla para su ratificación, bajo el apercibimiento que de no comparecer se tendrá por ratificado el desistimiento.
 
 Hechos que hacen cesar los efectos de los actos reclamados en el recurso.
 
@@ -299,9 +311,17 @@ VII. Designar a los titulares de las unidades administrativas de la Tesorería;
 
 VIII. Representar al Municipio ante las instancias, órganos y autoridades de Coordinación en Materia Hacendaria del Estado y de la Federación;
 
-IX. Proponer al Ayuntamiento la zonificación y los valores unitarios de suelo y construcción para la determinación de la base de los impuestos a la propiedad inmobiliaria y de otros conceptos de ingreso, y
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2009)</small>
 
-X. Las demás que se establezcan en el Código, la ley, reglamentos, acuerdos, decretos, convenios y sus anexos y las que le confiera el Ayuntamiento.
+IX. proponer al Ayuntamiento la zonificación catastral y los valores unitarios de suelo y construcción para la determinación de la base de los impuestos a la propiedad inmobiliaria y de otros conceptos de ingreso;
+
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2009)</small>
+
+X. La coordinación de las áreas que integran la administración pública con el propósito de ejecutar con mayor eficiencia las atribuciones de cada una, pudiendo éstas ser agrupadas en una o más áreas, lo que se hará mediante acuerdo que sea debidamente fundado, motivado y publicado en el Periódico Oficial;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO 2009)</small>
+
+XI. Las demás que se establezcan en el Código, la Ley, Reglamentos, Acuerdos, Decretos, Convenios y sus anexos y las que le confiera el Ayuntamiento.
 
 Ejercicio directo de facultades por parte del Presidente.
 
@@ -379,7 +399,9 @@ XX. Conocer y resolver las solicitudes de exención, materia de ingresos municip
 
 XXI. Conocer y resolver las solicitudes de exención de ingresos coordinados, en el caso en que corresponda esta atribución al Municipio, en términos de los convenios suscritos de conformidad con lo previsto en el artículo 280 del Código, de la legislación o de los acuerdos que resulten aplicables;
 
-XXII. Conocer y resolver las solicitudes de pago a plazos, dispensa de la garantía del interés fiscal en materia de contribuciones municipales, así como las que presenten los contribuyentes para que se autorice la devolución de las cantidades pagadas indebidamente al fisco;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2009)</small>
+
+XXII. Conocer y resolver las solicitudes de pago a plazos, así como de las que presenten los contribuyentes para que se autorice la devolución de las cantidades pagadas indebidamente;
 
 XXIII. Conocer y resolver las solicitudes de caducidad de las facultades y prescripción de los créditos fiscales;
 
@@ -527,7 +549,9 @@ III. Determinar los pronósticos anuales de ingresos, fijar y determinar las met
 
 IV. Programar, organizar, dirigir y evaluar las actividades de las áreas a su cargo relacionadas a los actos de recaudación y fiscalización de ingresos, orientación al contribuyente, así como de estudios relacionados con los sistemas de coordinación fiscal en el ámbito de su competencia;
 
-V. Proponer al Tesorero los acuerdos de condonación o exención total o parcial de contribuciones y sus accesorios, pago a plazos, dispensa de la garantía del interés fiscal, prescripción de créditos, devolución de pagos realizados indebidamente al fisco, otorgamiento de estímulos o subsidios y los demás que sean de su competencia, así como las resoluciones a las consultas que presenten los interesados;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2009)</small>
+
+V. Proponer al Tesorero los acuerdos de condonación o exención total o parcial de contribuciones y sus accesorios, pago a plazos, prescripción de créditos, devolución de pagos realizados indebidamente al fisco, otorgamiento de estímulos o subsidios y los demás que sean de su competencia, así como las resoluciones a las consultas que presenten los interesados;
 
 VI. Participar en los trabajos preparatorios para la celebración de convenios a que se refiere el artículo 280del Código;
 
@@ -627,27 +651,27 @@ XLII. Realizar el estudio, seguimiento y proyecciones presupuestarias derivadas 
 
 > <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
-XLIII. Las demás que se establezcan en el Código, la Ley, Reglamentos, Acuerdos, Decretos, Convenios y Sus Anexos y las que le confiera el Ayuntamiento, el Presidente o el Tesorero.
+XLIII. Las demás que se establezcan en el Código, la Ley, Reglamentos, Acuerdos, Decretos, Convenios y Sus Anexos y las que le confiera el Ayuntamiento, el Presidente o el Tesorero;
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2009)</small>
 
-La Dirección de Ingresos estará adscrita a la Tesorería y a cargo de un Titular, auxiliado por los Jefes de Departamento de Ejecución u Oficina Ejecutora y del Jefe del Titular del Sistema Municipal de Registro y Fiscalización, así como de los Jefes de las Oficinas Receptoras de Pago y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
+La Dirección de Ingresos estará adscrita a la Tesorería y a cargo de un Titular, auxiliado por los jefes de Departamento de Caja General, Departamento de Control de Recaudación, Departamento de Ejecución u Oficina Ejecutora, Departamento de Licencias y padrón de Contribuyentes, Departamento de Infracciones y el Titular de la Unidad de Normatividad y Regulación Comercial, así como de los Jefes de las Oficinas Receptoras de Pago y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE ENERO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE ENERO DE 2009)</small>
 
-Competencia del Sistema Municipal de Registro y Fiscalización.
+Competencia de la Unidad de Normatividad y Regulación Comercial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 2009)</small>
 
-Artículo 24 bis.- Es competencia del Sistema Municipal de Registro y Fiscalización:
+Artículo 24 bis.- Es competencia de la Unidad de Normatividad y Regulación Comercial:
 
 > <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
 I. Vigilar que las Unidades Administrativas determinen en el ámbito de su competencia, mediante resolución y de acuerdo a los ordenamientos fiscales vigentes, la responsabilidad solidaria.
 
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2009)</small>
 
-II. Participar en la actualización de los Padrones de Contribuyentes de todas las actividades económicas del Municipio.
+II. Coadyuvar con el Departamento de Licencias y Padrón de Contribuyentes en la actualización de los Padrones de Contribuyentes de todas las actividades económicas del Municipio.
 
 > <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
@@ -721,13 +745,13 @@ XIX. Nombrar a los inspectores o inventores para que realicen los actos de inspe
 
 XX. Las demás que se establezcan en el Código, la Ley, Reglamentos, Acuerdos, Decretos, Convenios y sus Anexos y las que le confiera el Ayuntamiento, el Presidente, el Tesorero o el Director de Ingresos.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2009)</small>
 
-El Sistema Municipal de Registro y Fiscalización es un órgano desconcentrado por función, dotado de autonomía técnica que forma parte de la Dirección de Ingresos, estará a cargo de un titular con nivel de Director auxiliado por las áreas administrativas a que se refieren los incisos del g) al j),de la fracción IV, del artículo 26 del Código Fiscal y Presupuestario para el Municipio de Puebla, y los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
+La Unidad de Normatividad y Regulación Comercial es un órgano desconcentrado por función, dotado de autonomía técnica que forma parte de la Tesorería Municipal, estará a cargo de un Titular con nivel de Director, auxiliado por las áreas administrativas a que se refieren los incisos g), h), i) y k) de la fracción IV del artículo 26 del Código Fiscal y Presupuestario para el Municipio de Puebla, y los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 2010)</small>
 
-Artículo 24 ter.- Además de las facultades señaladas en el artículo que antecede el Sistema Municipal de Registro y Fiscalización, con el fin de verificar el cumplimiento de obligaciones fiscales derivadas de diversas disposiciones reglamentarias, así como la presentación de documentos e informes relacionados con el cumplimiento de las mismas, es competente:
+Artículo 24 ter.- Además de las facultades señaladas en el artículo que antecede, la Unidad de Normatividad y Regulación Comercial, a través de la coordinación correspondiente, y con el fin de verificar el cumplimiento de obligaciones fiscales derivadas de diversas disposiciones reglamentarias, así como la presentación de documentos e informes relacionados con el cumplimiento de las mismas, es competente:
 
 > <small>(ADICIONADA, P.O. 27 DE MARZO DE 2006)</small>
 
@@ -741,13 +765,19 @@ b) Ejercer las funciones de vigilancia e inspección en materia de Protección C
 
 II. En materia de espectáculos, para:
 
-a) Otorgar la autorización escrita para la presentación de diversiones o espectáculos públicos eventual o habituales en el Municipio, debidamente firmada por el Tesorero, previo cumplimiento de los requisitos aplicables, establecidos en el Código, el Código Reglamentario y la Ley de Ingresos del Municipio;
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2009)</small>
+
+a) Otorgar la autorización escrita para la presentación de diversiones o espectáculos públicos eventual o habituales en el Municipio, previo cumplimiento de los requisitos aplicables establecidos en el Código Reglamentario y la Ley de Ingresos del Municipio;
 
 b) Una vez autorizada la presentación del espectáculo, remitir a la Dirección de Ingresos de la Tesorería, para el sellado, el boletaje y los pases o cortesías que la empresa utilizará en cada función, debiendo reunir los requisitos establecidos en el artículo 200 del Código;
 
-c) Vigilar e inspeccionar que las diversiones o espectáculos públicos, cumplan con lo establecido en el Código Reglamentario y la Ley de Ingresos del Municipio aplicable; y
+c) Vigilar e inspeccionar que las diversiones o espectáculos públicos, cumplan con lo establecido en el Código Reglamentario y la Ley de Ingresos del Municipio aplicable; y (sic)
 
-d) Intervenir, la taquilla, suspender o clausurar cualquier diversión o espectáculo público, cuando los responsables del espectáculo se nieguen a permitir que se desarrollen las actividades de fiscalización, o cuando no se cumplan o se violen las disposiciones que establece el Código, el Código Reglamentario y la Ley de Ingresos del Municipio aplicable.
+d) Intervenir, la taquilla, suspender o clausurar cualquier diversión o espectáculo público, cuando los responsables del espectáculo se nieguen a permitir que se desarrollen las actividades de fiscalización, o cuando no se cumplan o se violen las disposiciones que establece el Código, el Código Reglamentario y la Ley de Ingresos del Municipio aplicable;
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO 2009)</small>
+
+e) Emitir la opinión en el ámbito de su competencia sobre la procedencia de factibilidad correspondiente, para el otorgamiento de las licencias, permisos y/o permisos publicitarios de pendones y/o toda clase de anuncios relacionados con las actividades propias en materia de espectáculos públicos.
 
 > <small>(ADICIONADA, P.O. 27 DE MARZO DE 2006)</small>
 
@@ -777,17 +807,21 @@ d) Dar seguimiento a las denuncias populares relativas a los establecimientos qu
 
 V. En materia de Comercio Establecido, Ambulante, Semifijo y Prestadores Ambulantes de Servicios en la Vía Pública del Municipio de Puebla, para:
 
-a) Autorizar las licencias de funcionamiento de los establecimientos industriales, comerciales y de servicios en el Municipio de Puebla;
+a) (DEROGADO, P.O. 28 DE ENERO DE 2009)
 
 b) Verificar que los establecimientos industriales, comerciales y de servicios en el Municipio de Puebla, cuenten con licencia vigente expedida por la Tesorería;
 
 c) Verificar que los establecimientos industriales, comerciales y de servicios, comercio ambulante, semifijo y prestadores ambulantes de servicios en la vía pública del Municipio cumplan con las disposiciones, obligaciones, restricciones o condiciones especiales, que en la materia establece el Código Reglamentario;
 
-d) Autorizar la expedición de permisos para la actividad comercial de vendedores ambulantes, semifijos y prestadores ambulantes de servicios en la vía pública; así como las credenciales correspondientes;
+d) (DEROGADO, P.O. 28 DE ENERO DE 2009)
 
-e) Llevar a cabo las acciones que en materia de actividad comercial de vendedores ambulantes, semifijos y prestadores ambulantes de servicios en la vía pública, señala el artículo 641 del Código Reglamentario;
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2009)</small>
 
-f) Autorizar la expedición de permisos especiales, para la celebración de fiestas populares y eventos especiales (juegos deportivos o espectáculos extraordinarios);
+e) Aplicar las sanciones en materia de actividad comercial de vendedores ambulantes, semifijos y prestadores ambulantes de servicios en la vía pública, que señala el artículo 638 del Código Reglamentario;
+
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2009)</small>
+
+f) Autorizar la expedición de permisos especiales, para la celebración de eventos especiales (juegos deportivos o espectáculos extraordinarios);
 
 g) Verificar que los establecimientos comerciales y de servicios, comercio ambulante, semifijo y prestadores ambulantes de servicios en la vía pública del Municipio, que se dediquen a la distribución o comercialización de productos no tengan dicho material a la vista del público en general, ni realicen su distribución o comercialización a menores de edad, debiéndose entender por pornografía, toda representación, por cualquier medio, de hombres y/o mujeres dedicados a actividades sexuales explicitas, reales o simuladas, o toda representación de sus partes genitales fines primordialmente sexuales; y
 
@@ -797,25 +831,29 @@ h) Verificar que los establecimientos comerciales y de servicios, comercio ambul
 
 VI. En materia de Mercados Municipales, para:
 
-a) Operar y vigilar el funcionamiento de los Mercados Municipales, en términos de lo establecido por el Código Reglamentario;
+a) (DEROGADO, P.O. 28 DE ENERO DE 2009)
 
 b) Verificar que en los mercados y zonas de mercados no se ejerza el comercio sin la autorización correspondiente, se altere el orden público; se practique cualquier deporte, juegos de azar, con o sin cruce de apuestas; o se tire basura fuera de los depósitos respectivos;
 
-c) Verificar que los mercados se dividan en las zonas adecuadas para su mejor funcionamiento, exclusivamente y para efectos de regularización, se podrá autorizar el expendio de mercancías en zonas que no correspondan a lo señalado en el Código Reglamentario, siempre y cuando no afecte de forma alguna la naturaleza, salubridad y condiciones de cada zona;
+c) (DEROGADO, P.O. 28 DE ENERO DE 2009)
 
-d) Determinar y autorizar en base al giro comercial, el lugar dentro del mercado municipal en donde operará cada comerciante;
+d) (DEROGADO, P.O. 28 DE ENERO DE 2009)
 
-e) Vigilar que los prestadores de servicios dentro de los mercados proporcionen éstos de forma ininterrumpida y de manera adecuada, así como que mantengan en su caso las instalaciones en condiciones óptimas;
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2009)</small>
 
-f) Verificar que los servicios complementarios de carga y descarga, estiba, transporte de carga ligera y taxis, funcionen en los términos y condiciones que determine la normatividad aplicable;
+e) Recibir de la autoridad competente el informe correspondiente de los prestadores de servicios dentro de los mercados, a fin de garantizar que éstos proporcionen los servicios de forma ininterrumpida, de manera adecuada y mantengan en su caso las instalaciones en condiciones óptimas.
 
-g) Verificar los locales que permanezcan cerrados o inactivos por un periodo consecutivo mayor de 30 días naturales y sin justificación procediéndose a la revocación de la licencia y a la cancelación en el registro del padrón correspondiente;
+f) (DEROGADO, P.O. 28 DE ENERO DE 2009)
+
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2009)</small>
+
+g) Recibir de la autoridad competente el informe correspondiente de los locales que permanezcan cerrados o inactivos por un periodo consecutivo mayor de 30 días naturales y sin justificación, procediéndose a la revocación de la licencia y a la cancelación en el registro del padrón correspondiente;
 
 h) Verificar que los comerciantes que ejerzan su actividad en los mercados sujetos al régimen de propiedad en condominio, cumplan con las obligaciones que se establecen en el Código Reglamentario, disposiciones civiles y demás aplicables;
 
 i) Verificar que los locatarios ocupantes de los locales en los mercados públicos, cumplan con las disposiciones, obligaciones, restricciones o condiciones establecidas en el Código Reglamentario; y
 
-j) Otorgar a los comerciantes de los mercados municipales y previo cumplimiento de las disposiciones señaladas en el Código Reglamentario, la autorización para traspasar sus derechos sobre locales y giros a que se destine, así como para cambiar el giro de las actividades comerciales que se les hubiere autorizado.
+j) (DEROGADO, P.O. 28 DE ENERO DE 2009)
 
 > <small>(ADICIONADA, P.O. 27 DE MARZO DE 2006)</small>
 
@@ -845,15 +883,21 @@ h) Para conocer y verificar el cumplimiento de obligaciones fiscales derivadas d
 
 i) Para determinar infracciones, calificarlas e imponer las sanciones correspondientes por violaciones al marco normativo aplicable.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2009)</small>
 
-El Titular Sistema Municipal de Registro y Fiscalización estará obligado a llevar un registro y control de todas y cada una de las licencias, permisos, autorizaciones o refrendos expresamente otorgados o negados, así como aquéllas otorgadas o negadas por falta de contestación a las solicitudes respectivas, en los plazos correspondientes, debiendo remitir mensualmente un reporte de dicho registro, al Tesorero Municipal, con copia al Contralor Municipal, la inobservancia a lo dispuesto en el presente artículo, será causa de responsabilidad administrativa.
+El Departamento de Licencias y Padrón de Contribuyentes, auxiliado por la Unidad de Normatividad y Regulación Comercial, estará obligado a llevar un registro y control de todas y cada una de las licencias, permisos, autorizaciones o refrendos expresamente otorgados o negados, así como aquellas otorgadas o negadas por falta de contestación a las solicitudes respectivas, en los plazos correspondientes, debiendo remitir mensualmente un reporte de dicho registro al Tesorero Municipal, con copia al Contralor Municipal, la inobservancia a lo dispuesto en el presente artículo, será causa de responsabilidad administrativa.
 
-DE LAS NOTIFICACIONES
+> <small>(DEROGADO EL SUBTITULO, P.O. 28 DE ENERO DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 2007)</small>
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 28 DE ENERO DE 2009)</small>
 
-Las notificaciones que deba realizar el Sistema Municipal de Registro y Fiscalización con motivo de la solicitud de licencias, permisos, autorizaciones o refrendos, se harán en los estrados que se colocarán por un término de tres días hábiles en lugar visible dentro de la Tesorería Municipal.
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2009)</small>
+
+De las Notificaciones
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2009)</small>
+
+Artículo 24 quáter.- Las notificaciones que deba realizar la Unidad de Normatividad y Regulación Comercial, así como el Departamento de Licencias y Padrón de Contribuyentes con motivo de la solicitud de licencias, permisos, autorizaciones o refrendos, se harán conforme a lo dispuesto en el artículo 104 del Código Fiscal y Presupuestario para el Municipio de Puebla.
 
 Competencia del Departamento de Ejecución u Oficina Ejecutora.
 
@@ -889,13 +933,13 @@ El Departamento de Ejecución u Oficina Ejecutora, estará adscrita a la Direcci
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 24 DE FEBRERO DE 2006)</small>
 
-Competencia del Director de Catastro Municipal:
+Competencia del Director de Catastro Municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 2009)</small>
 
 ###### Artículo 26.
 
-Es competencia del Director de Catastro Municipal:
+Es competencia de la Dirección de Catastro Municipal:
 
 > <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
@@ -1025,9 +1069,9 @@ XXXVI. Fijar en cantidad liquida, el importe de los créditos provenientes de lo
 
 XXXVII. Las demás que se establezcan en el Código, la Ley, Reglamentos, Acuerdos, Decretos, Convenios y sus anexos y las que le confiere el Ayuntamiento, el Presidente o el Tesorero.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2009)</small>
 
-La Direccione Catastro estará adscrita a la Tesorería y a cargo de un Titular, auxiliado por los Jefes de Departamento de Actualizaciones de Predial y de Impuestos Inmobiliarios y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conformes a las normas presupuestales respectivas.
+La Dirección de Catastro Municipal estará adscrita a la Tesorería y a cargo de un Titular, auxiliado por los Jefes de Departamento de Actualizaciones de Predial, de Impuestos Inmobiliarios y de Análisis y Valuación Catastral, así como de los demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
 
 Competencia de la Dirección de Registro y Fiscalización.
 
@@ -1085,55 +1129,93 @@ XI. Elaborar los formatos que utilice la Tesorería, en el ejercicio de sus facu
 
 XII. En general atender o auxiliar en los asuntos de naturaleza jurídica y administrativa de la competencia de la Tesorería;
 
-XIII. Las demás que se establezcan en el Código, la ley, reglamentos, acuerdos, decretos, convenios y sus anexos y las que le confiera el Ayuntamiento, el Presidente o el Tesorero.
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2009)</small>
+
+XIII. Dictar la revocación de licencias de funcionamiento, de conformidad con el procedimiento previsto en el artículo 617 Bis del Código Reglamentario para el Municipio de Puebla;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2009)</small>
+
+XIV. Las demás que se establezcan en el Código, la Ley, Reglamentos, Acuerdos, Decretos, Convenios y sus anexos y las que le confiera el Ayuntamiento, el Presidente o el Tesorero.
 
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 2007)</small>
 
 La Director Jurídico de la Tesorería Municipal, estará adscrita al Tesorero y a cargo de un Titular, auxiliado por las áreas administrativas y los demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
 
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE ENERO DE 2009)</small>
 
-Competencia de la Dirección de Egresos.
+Competencia de la Dirección de Egresos y Control Presupuestal.
 
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 2009)</small>
 
-Artículo 28 bis 1.- Es competencia del Director de Egresos:
+Artículo 28 bis l.- Es competencia del Director de Egresos y Control Presupuestal:
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
 I. Participar en la elaboración del Presupuesto de Egresos.
 
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
 II. Vigilar el correcto ejercicio del presupuesto de todas las dependencias de la Administración Pública Municipal.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
 III. Evaluar y sistematizar el presupuesto anual de egresos del Municipio.
 
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
 IV. Analizar los estados financieros y elaboración de reportes financieros para la Tesorería.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
 V. Elaborar y mantener actualizado un sistema de información de las finanzas municipales, cubriendo todas las etapas del proceso de ingreso-gasto.
 
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
 VI. Cancelar fianzas, una vez que la dependencia ejecutara emita la instrucción correspondiente.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
 VII. Programar y calendarizar las erogaciones de acuerdo a las prioridades y liquidez del erario municipal.
 
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
 VIII. Realizar corte diario de caja y supervisar los depósitos efectuados a las cuentas bancarias.
 
-IX. Programar inversiones financieras a corto o a mediano plazo, asegurando el mejor rendimiento y menor riesgo en ellas.
+IX. (DEROGADA, P.O. 28 DE ENERO DE 2009)
 
-X. Registrar y controlar las inversiones bancarias, así como los intereses generados por las mismas.
+X. (DEROGADA, P.O. 28 DE ENERO DE 2009)
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
 XI. Analizar con el Tesorero las variaciones importantes en las políticas presupuestales a fin de realizar las medidas correctivas pertinentes.
 
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
 XII. Coordinar los pagos correspondientes a la deuda pública y a cualquiera otra, de acuerdo a lo establecido en cada contrato.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
 XIII. Controlar y reponer los fondos fijos autorizados a otras Direcciones de la Tesorería o a otras dependencias de acuerdo a los lineamientos establecidos para su manejo.
 
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
 XIV. Equilibrar y comprobar los presupuestos deficitarios.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
 XV. Auxiliar al Tesorero en el control y debida aplicación de los ingresos recibidos por concepto de aportaciones y participaciones federales.
 
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
 XVI. Orientar a las dependencias y entidades de la Administración Pública Municipal, para que en la ejecución de sus programas y acciones concurran al cumplimiento de la normatividad presupuestal podrá Ejercicio del Gasto Público.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
 XVII. Las demás que se establezcan en el Código, la Ley, Reglamentos, Acuerdos. Decretos, Convenios y sus anexos y las que le confiera el Ayuntamiento, el Presidente o el Tesorero.
 
-La Dirección de Egresos, estará adscrita al Tesorero y a cargo de un Titular, auxiliado por los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2009)</small>
+
+La Dirección de Egresos y Control Presupuestal estará adscrita a la Tesorería y a cargo de un Titular, auxiliado por los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
 
 > <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
@@ -1167,35 +1249,65 @@ XI. Las demás que se establezcan en el Código, la Ley, Reglamentos, Acuerdos. 
 
 La Dirección de Contabilidad, estará adscrita a la Tesorería a cargo de un Titular, auxiliado por los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE ENERO DE 2009)</small>
+
+Competencia de la Dirección de Planeación de la Inversión.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 2009)</small>
+
+Artículo 28 bis 3.- Es competencia del Director de Planeación de la Inversión:
+
 > <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-Competencia de la Dirección de Financiamiento.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2006)</small>
-
-Artículo 28 bis 3.- Es competencia del Director de Financiamiento:
 
 I. Coordinar los trabajos para la definición de esquemas y estrategias para el Financiamiento de proyectos y programas municipales.
 
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
 II. Desarrollar instrumentos de captación de recursos financieros para el fortalecimiento de la Hacienda Municipal.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
 III. Identificar y analizar fuentes de financiamiento público y privado.
 
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
 IV. Participar en la elaboración y estudio de programas de inversión que impulsen la participación comunitaria.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
 V. Elaborar y diseñar las estrategias de financiamiento crediticio.
 
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
 VI. Participar en la creación y operación de los fideicomisos en que el Municipio sea fideicomitente.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
 VII. Realizar el estudio a programas de apoyo financiero, programas que impliquen transferencias, subsidios, incentivos o reasignaciones a los municipios de recursos distintos de los derivados de los convenios de coordinación fiscal, así como las opciones para la obtención de ingresos de capital, y las demás fuentes de ingresos del erario municipal.
 
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
 VIII. Llevar a cabo el registro de proyectos de inversión.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
 IX. Realizar el análisis costo-beneficio de los proyectos de inversión.
 
-X. Las demás que se establezcan en el Código, la Ley, Reglamentos, Acuerdos, Decretos, Convenios y sus anexos y las que le confiera el Ayuntamiento, el Presidente o el Tesorero.
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2009)</small>
 
-La Dirección de Financiamiento, estará adscrita a la Tesorería y a cargo de un Titular, auxiliado por los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
+X. Programar inversiones financieras a corto o a mediano plazo, asegurando el mejor rendimiento y menor riesgo en ellas.
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2009)</small>
+
+XI. Registrar y controlar las inversiones bancarias, así como los intereses generados por las mismas.
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2009)</small>
+
+XII. Las demás que se establezcan en el Código, la Ley, Reglamentos, Acuerdos, Decretos, Convenios y sus anexos y las que le con fiera el Ayuntamiento, el Presidente o el Tesorero.
+
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2009)</small>
+
+La Dirección de Planeación de la Inversión, estará adscrita a la Tesorería y a cargo de un Titular, integrado por el Departamento de Planeación a la Inversión y Departamento de Financiamiento.
 
 Naturaleza de la Dirección Jurídica.
 
@@ -1237,13 +1349,15 @@ Suplencia del Tesorero en ausencias.
 
 El Tesorero será suplido en sus ausencias por el Director que ejerza la competencia de que se trate, o por el servidor público municipal que designe el Presidente.
 
-Suplencia de Directores de Ingresos y Fiscalización en ausencias.
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE ENERO DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2006)</small>
+Suplencia de los Directores de Ingresos, Catastro, Egresos y Control Presupuestal, Contabilidad, Planeación de la Inversión y Director Jurídico de la Tesorería Municipal.
+
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2009)</small>
 
 ###### Artículo 32.
 
-Los Directores de Ingresos, Catastro, Egresos, Contabilidad y Financiamiento serán suplidos en sus ausencias por los Titulares de las Unidades Administrativas adscritas a la Dirección de que se trate, o por el servidor público que designe el Presidente o el Tesorero por acuerdo del Presidente.
+Los Directores de Ingresos, Catastro, Egresos y Control Presupuestal, Contabilidad, Planeación de la Inversión y Director Jurídico de la Tesorería Municipal, serán suplidos en sus ausencias por los Titulares de las Unidades Administrativas adscritas a la Dirección de que se trate, o por el servidor público que designe el Presidente o el Tesorero por acuerdo del Presidente.
 
 Suplencia en ausencias de los Jefes de Departamento y Titulares de Oficinas Receptoras de pago.
 
@@ -1445,9 +1559,9 @@ IV. En ningún caso los testigos pueden ser sustituidos al cerrar el acta;
 
 V. Los verificadores deben asentar en el acta que formulen, los pormenores del documento con el cual se identifiquen;
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2009)</small>
 
-VI. Las actas de verificación levantadas por el personal del Sistema Municipal de Registro y Fiscalización deberán ser firmadas por los verificadores, debiéndose considerar como tales, a quienes se hayan identificado debidamente al inicio de la diligencia administrativa, así como por los testigos designados, si los hubiera;
+VI. Las actas de verificación levantadas por el personal de la Unidad de Normatividad y Regulación Comercial, deberán ser firmadas por los verificadores, debiéndose considerar como tales, a quienes se hayan identificado debidamente al inició de la diligencia administrativa, así como por los testigos designados, si los hubiera;
 
 VII. Las actas de verificación pueden conformarse por un número indeterminado de hojas o anexos. Los verificadores pueden elaborar cédulas o papeles de trabajo adjuntos en los que se detalle la documentación exhibida por el visitado, o bien, en los que sustenten sus observaciones, las cuales deberán ser firmadas por los que intervinieron en la verificación. Si alguna de las personas que intervino en la verificación se niega a firmar dichos documentos, los visitadores lo asentarán en el acta respectiva señalando las causas de tal situación;
 
@@ -1463,11 +1577,11 @@ XI. En caso de que durante la verificación, el verificador o verificadores obse
 
 Requisitos que debe Observar la Credencial Oficial que Contenga Identificación de Visitadores, Inspectores, Interventores y Notificadores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 2009)</small>
 
 ###### Artículo 53.
 
-La credencial oficial que contenga la identificación de los visitadores, inspectores, interventores y notificadores deberá satisfacer los siguientes requisitos:
+La credencial oficial para actuar como visitador deberá estar a los siguientes requisitos:
 
 > <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
@@ -1891,6 +2005,46 @@ Régimen financiero de la concesión y del concedente.
 
 El régimen financiero de la concesión, es siempre diferente del régimen financiero del concedente, por lo que la quiebra del concesionario no obliga al concedente.
 
+> <small>(ADICIONADA SU DENOMINACION, P.O. 28 DE ENERO DE 2009)</small>
+
+Del abandono de mercancías.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2009)</small>
+
+###### Artículo 92.
+
+Para efectos del inciso a) de la fracción II del artículo 162 Bis del Código, se entenderá que el plazo para que opere la figura jurídica del abandono corre a partir de que los aprovechamientos por multas y los derechos han sido plenamente cubiertos y en el caso del inciso e) de la fracción II, el plazo correrá a partir de que no exista impedimento alguno para que el vehículo sea retirado, salvo el pago de los conceptos de ingreso referidos.
+
+> <small>(ADICIONADA SU DENOMINACION, P.O. 28 DE ENERO DE 2009)</small>
+
+De las maniobras.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2009)</small>
+
+###### Articulo 93.
+
+Se entenderá por maniobras lo siguiente:
+
+Maniobras mínimas.- Todas aquellas acciones necesarias para el enganche o incorporación a plataforma de los vehículos, para su arrastre.
+
+Maniobras menores.- Las necesarias para bajar los vehículos de las banquetas, quitarles semáforos o postes y bajar de guarniciones.
+
+Maniobras mayores.- Todas aquellas que no estén incluidas dentro de las anteriores.
+
+> <small>(ADICIONADA SU DENOMINACION, P.O. 28 DE ENERO DE 2009)</small>
+
+De las condonaciones, exención total o parcial, reducciones o prórrogas en el pago de contribuciones, productos, aprovechamientos y sus accesorios.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2009)</small>
+
+###### Articulo 94.
+
+Corresponderá conocer y resolver de las solicitudes de condonación, exención total o parcial, reducciones o prórrogas en el pago de contribuciones, productos, aprovechamientos y sus accesorios, única y exclusivamente al Presidente Municipal Constitucional del Municipio de Puebla y a las Autoridades Fiscales señaladas en el artículo 53 del Código Fiscal y Presupuestario para el Municipio de Puebla, las cuales resolverán apreciando las circunstancias del caso que justifiquen la respectiva condonación, en atención a las específicas circunstancias de cada caso y a las causas que originaron los impuestos, derechos, aprovechamientos o sus accesorios, ajustándose a las reglas de la lógica y la razón, mediante el análisis de los motivos y fundamentos expresados como sustento de su decisión.
+
+La Contraloría Municipal, dará seguimiento a todas las condonaciones que realice el Presidente Municipal Constitucional del Municipio de Puebla o las Autoridades Fiscales, para lo cual éstas le remitirán en un término no mayor a diez días hábiles no prorrogables, el expediente respectivo, así como la resolución que haya recaído en la solicitud de condonación que se realice.
+
+Toda solicitud de condonación que no sea resuelta por las Autoridades Fiscales, será nula en todas y cada una de sus partes, en caso de que otra Autoridad no fiscal realice algún tipo de condonación o prórroga de pago, será fuente de responsabilidad administrativa.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial.
@@ -1946,3 +2100,17 @@ SEGUNDO.- Las órdenes, actos o procedimientos suscritos por el Jefe del Departa
 TERCERO.- Los procedimientos iniciados por el Departamento de Registro y Fiscalización deberán se (sic) concluidos por el Sistema Municipal de Registro y Fiscalización, haciendo saber por escrito fundado y motivado a los visitados, sobre la presente reforma.
 
 CUARTO.- El Sistema Municipal de Registro y Fiscalización deberá incluir en el Programa de Fiscalización que será sometido al Cabildo de los primeros treinta días de cada Ejercicio Fiscal, indicadores de gestión que proporcionen elementos para la revisión de resultados en la observancia de dicho programa.
+
+P.O. 28 DE ENERO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas, derogaciones y adiciones surtirán sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Dictamen.
+
+###### ARTÍCULO TERCERO.
+
+Las órdenes, actos o procedimientos suscritos por el Titular del Sistema Municipal de Registro y Fiscalización, se entenderán por emitidos a partir del inicio de la vigencia de la presente reforma por la Unidad de Normatividad y Regulación Comercial en el ámbito de su competencia.
