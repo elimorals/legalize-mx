@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-las-culturas-y-las-artes-del-estado-de-chiapas-50469"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-02"
-last_updated: "2006-05-02"
+last_updated: "2009-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50469&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE LAS CULTURAS Y LAS ARTES DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el martes 2 de mayo de 2006.
 
@@ -1363,9 +1363,17 @@ VII. Festival «Maya-Zoque»
 
 VIII. Festival Coral Sinfónico «Gloria»
 
-IX. Aniversario de la Federación de Chiapas a México, Muestra cultural en la Ciudad de México.
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2009)</small>
 
-X. Las demás celebradas en los diversos municipios de nuestro estado.
+IX. Festival de Cultura y Artes de la Zona Frailesca
+
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2009)</small>
+
+X. Aniversario de la Federación de Chiapas a México, Muestra cultural de la Ciudad de México
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2009)</small>
+
+XI. Las demás celebradas en los diversos municipios de nuestro Estado.
 
 ###### Artículo 158.
 
@@ -1414,3 +1422,9 @@ Dado en el Salón de Sesiones del Honorable Congreso del Estado, en la ciudad de
 De conformidad con la fracción I, del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veintitrés días del mes de marzo del año dos mil seis.
 
 Pablo Salazar Mendiguchía, Gobernador del Estado.- Roger Grajales González, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE ENERO DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
