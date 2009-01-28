@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-penales-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1967-07-19"
-last_updated: "2008-12-24"
+last_updated: "2009-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "ZAC"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE ZACATECAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE ENERO DE 2009, EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE ZACATECAS
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE ZACATECAS, PUBLICADO POR DECRETO NO. 511 EN EL P.O. DE 15 DE SEPTIEMBRE DE 2007, SEGUIRÁ RIGIENDO EN LO CONDUCENTE, EN LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA APLICACIÓN DEL NUEVO CÓDIGO, Y QUEDARÁ ABROGADO EN LA MEDIDA EN QUE AQUÉLLOS QUEDEN AGOTADOS.</small>
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2008.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 28 DE ENERO DE 2009, NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 229 PUBLICADO EN EL P.O. DE 24 DE DICIEMBRE DE 2008.</small>
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 19 de julio de 1967.
 
@@ -1919,7 +1919,7 @@ Cuando se siga el procedimiento por dos o más delitos y por lo que toca a algun
 
 ###### ARTICULO 285.
 
-El sobreseimiento puede decretarse de oficio o a petición de parte en los casos de las fracciones l a IV del artículo 283, y en la última forma en los demás.
+El sobreseimiento puede decretarse de oficio o a petición de parte en los casos de las fracciones I a IV del artículo 283, y en la última forma en los demás.
 
 ###### ARTICULO 286.
 
