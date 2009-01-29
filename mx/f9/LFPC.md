@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2008-12-17"
+last_updated: "2009-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "LFPC"
 
 LEY FEDERAL DE PROTECCION AL CONSUMIDOR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JUNIO DE 2006.
-
-ULTIMA ACTUALIZACION POR ACUERDO EXPEDIDO POR LA PROCURADURIA FEDERAL DEL CONSUMIDOR PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE ENERO DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
@@ -926,7 +924,11 @@ X. En su caso, las garantías para el cumplimiento del contrato, así como los g
 
 XI. El procedimiento para la cancelación del contrato de adhesión y las implicaciones que se deriven para el proveedor y el consumidor;
 
-XII. Fecha de inicio y término de ejecución de la actividad o servicio contratado, así como la de la entrega del bien objeto del contrato;
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2009)</small>
+
+XII. Fecha de inicio y término de ejecución de la actividad o servicio contratado, así como la de entrega del bien objeto del contrato; esto último, de conformidad con lo dispuesto por el artículo 74 de esta Ley.
+
+El proveedor únicamente quedará exento de la obligación de entregar en la fecha convenida, cuando acredite plenamente, que la entrega no se realizó en la misma por caso fortuito o fuerza mayor que afecte directamente, a él o al bien, pudiéndose pactar sin responsabilidad alguna, una nueva fecha de entrega;
 
 XIII. En los casos de operaciones de compraventa de inmuebles, el proveedor deberá precisar en el contrato, las características técnicas y de materiales de la estructura, de las instalaciones y acabados.
 
@@ -935,6 +937,26 @@ De igual manera, deberá señalarse que el inmueble cuenta con la infraestructur
 XIV. En el caso de operaciones de compraventa, deberán señalarse los términos bajo los cuales habrá de otorgarse su escrituración. El proveedor en su caso, deberá indicar que el bien inmueble deberá estar libre de gravámenes a la firma de la escritura correspondiente, y
 
 XV. Las demás que se exijan conforme a la presente ley para el caso de los contratos de adhesión.
+
+> <small>(ADICIONADO, D.O.F. 29 DE ENERO DE 2009)</small>
+
+ARTICULO 73 QUÁTER.- Todo bien inmueble cuya transacción esté regulada por esta Ley, deberá ofrecerse al consumidor con la garantía correspondiente, la cual no podrá ser inferior a un año contado a partir de la entrega real del bien. En el tiempo en que dure la garantía el proveedor tendrá la obligación de realizar, sin costo alguno para el consumidor, cualquier acto tendiente a la reparación de los defectos o fallas presentados por el bien objeto del contrato.
+
+El tiempo que duren las reparaciones efectuadas al inmueble al amparo de la garantía no es computable dentro del plazo de la misma; una vez que el inmueble haya sido reparado se iniciará la garantía respecto de las reparaciones realizadas, así como con relación a las piezas o bienes que hubieren sido repuestos y continuará respecto al resto del inmueble.
+
+> <small>(ADICIONADO, D.O.F. 29 DE ENERO DE 2009)</small>
+
+ARTICULO 73 QUINTUS.- En caso de que el consumidor haya hecho valer la garantía establecida en el artículo 73 QUÁTER, y no obstante, persistan los defectos o fallas imputables al proveedor, éste se verá obligado de nueva cuenta a realizar todas las reparaciones necesarias para corregirlas de inmediato, así como a otorgarle, en el caso de defectos o fallas leves, una bonificación del cinco por ciento sobre el valor de la reparación; en caso de defectos o fallas graves, el proveedor deberá realizar una bonificación del veinte por ciento de la cantidad señalada en el contrato como precio del bien.
+
+Para efectos de esta Ley, se entiende por defectos o fallas graves, aquellos que afecten la estructura o las instalaciones del inmueble y comprometan el uso pleno o la seguridad del inmueble, o bien, impidan que el consumidor lo use, goce y disfrute conforme a la naturaleza o destino del mismo. Se entenderá por defectos o fallas leves, todos aquellos que no sean graves.
+
+En caso de que los defectos o fallas graves sean determinados por el proveedor como de imposible reparación, éste podrá optar desde el momento en que se le exija el cumplimiento de la garantía, por sustituir el inmueble, en cuyo caso se estará a lo dispuesto por la fracción I siguiente, sin que haya lugar a la bonificación. En caso de que en cumplimiento de la garantía decida repararlas y no lo haga, quedará sujeto a la bonificación y a lo dispuesto en el párrafo siguiente.
+
+Para el supuesto de que, aún después del ejercicio de la garantía y bonificación antes señaladas, el proveedor no haya corregido los defectos o fallas graves, el consumidor podrá optar por cualquiera de las dos acciones que se señalan a continuación:
+
+I. Solicitar la sustitución del bien inmueble, en cuyo caso el proveedor asumirá todos los gastos relacionados con la misma, o
+
+II. Solicitar la rescisión del contrato, en cuyo caso el proveedor tendrá la obligación de reintegrarle el monto pagado, así como los intereses que correspondan, conforme lo previsto en el segundo párrafo del artículo 91 de esta ley.
 
 ###### ARTICULO 74.
 
@@ -1122,11 +1144,11 @@ Los pagos hechos en exceso del precio máximo determinado o, en su caso, estipul
 
 Los intereses se calcularán con base en el costo porcentual promedio de captación que determine el Banco de México, o cualquiera otra tasa que la sustituya oficialmente como indicador del costo de los recursos financieros.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 92.
 
-Los consumidores tendrán derecho, a su elección, a la reposición del producto o a la devolución de la cantidad pagada, contra la entrega del producto adquirido, y en todo caso, a una bonificación o compensación, en los siguientes casos:
+Los consumidores tendrán derecho, a su elección, a la reposición del producto o a la devolución de la cantidad pagada, contra la entrega del producto adquirido, y en todo caso, a una bonificación, en los siguientes casos:
 
 > <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
@@ -1146,21 +1168,21 @@ IV. En los demás casos previstos por esta ley.
 
 En los casos de aparatos, unidades y bienes que por sus características ameriten conocimientos técnicos, se estará al juicio de peritos o a la verificación en laboratorios debidamente acreditados.
 
-> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2009)</small>
 
-Si con motivo de la verificación la Procuraduría detecta el incumplimiento de alguno de los supuestos previstos por este precepto, podrá ordenar que se informe a los consumidores sobre las irregularidades detectadas para el efecto de que puedan exigir al proveedor la bonificación o compensación que corresponda, en los términos del artículo 98 BIS.
+Si con motivo de la verificación, la procuraduría detecta el incumplimiento de alguno de los supuestos previstos por este precepto, podrá ordenar que se informe a los consumidores sobre las irregularidades detectadas, de conformidad a lo establecido en el artículo 98 Bis, para el efecto de que puedan exigir al proveedor la bonificación que en su caso corresponda.
 
 > <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ARTICULO 92 BIS.- Los consumidores tendrán derecho a la bonificación o compensación cuando la prestación de un servicio sea deficiente, no se preste o proporcione por causas imputables al proveedor, o por los demás casos previstos por la ley.
 
-> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2009)</small>
 
-ARTICULO 92 TER.- La bonificación o compensación a que se refieren los artículos 92 y 92 BIS no podrá ser menor al veinte por ciento del precio pagado. El pago de dicha bonificación o compensación se efectuará sin perjuicio de la indemnización que en su caso corresponda por daños y perjuicios.
+ARTICULO 92 TER.- La bonificación a que se refieren los artículos 92 y 92 Bis no podrá ser menor al veinte por ciento del precio pagado. El pago de dicha bonificación se efectuará sin perjuicio de la indemnización que en su caso corresponda por daños y perjuicios.
 
-Para la determinación del pago de daños y perjuicios, la autoridad judicial considerará el pago de la bonificación o compensación que en su caso hubiese hecho el proveedor.
+Para la determinación del pago de daños y perjuicios la autoridad judicial considerará el pago de la bonificación que en su caso hubiese hecho el proveedor.
 
-La bonificación o compensación que corresponda tratándose del incumplimiento a que se refiere el artículo 92, fracción I, podrá hacerla efectiva el consumidor directamente al proveedor presentando su comprobante o recibo de pago del día en que se hubiere detectado la violación por la Procuraduría, y no podrá ser menor al veinte por ciento del precio pagado.
+La bonificación que corresponda tratándose del incumplimiento a que se refiere al artículo 92, fracción I, podrá hacerla efectiva el consumidor directamente al proveedor presentando su comprobante o recibo de pago del día en que se hubiere detectado la violación por la Procuraduría y no podrá ser menor al veinte por ciento del precio pagado.
 
 > <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
@@ -1244,9 +1266,11 @@ III. Constatar la existencia o inexistencia de productos o mercancías, atendien
 
 IV. Llevar a cabo las demás acciones tendientes a verificar el cumplimiento de la ley.
 
-> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2009)</small>
 
-ARTICULO 98 BIS.- Cuando con motivo de una verificación la Procuraduría detecte violaciones a esta ley y demás disposiciones aplicables, podrá ordenar se informe a los consumidores individual o colectivamente, inclusive a través de medios de comunicación masiva, sobre las acciones u omisiones de los proveedores que afecten sus intereses o derechos, así como la forma en que los proveedores los retribuirán o compensarán, debiendo éstos acreditar el cumplimiento de dicha orden. En caso de no hacerlo, se aplicarán las sanciones que correspondan.
+ARTICULO 98 BIS.- Cuando con motivo de una verificación la Procuraduría detecte violaciones a esta Ley y demás disposiciones aplicables, podrá ordenar se informe a los consumidores individual o colectivamente, inclusive a través de medios de comunicación masiva, sobre las acciones u omisiones de los proveedores que afecten sus intereses o derechos, así como la forma en que los proveedores los bonificarán, debiendo éstos acreditar el cumplimiento de dicha orden. En caso de no hacerlo, se aplicarán las sanciones que correspondan.
+
+El informe a que se refiere el párrafo anterior, podrá ordenarse como uno de los puntos resolutivos del procedimiento contenido en el artículo 123 de la presente Ley.
 
 > <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
@@ -1604,13 +1628,11 @@ Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás di
 
 Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 66, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de $367.12 a $1'174,782.68.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL ACUERDO QUE ACTUALIZA LA LEY.</small>
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 17 DE DICIEMBRE DE 2008)
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 128.
 
-Las infracciones a lo dispuesto por los artículos 7, 8, 10, 12, 44, 63, 63 BIS, 63 TER, 63 QUINTUS, 65, 65 BIS, 73, 73 BIS, 73 TER, 74, 76 BIS, 80, 86 BIS, 87, 87 TER, 92, 92 TER, 98 BIS y 121 serán sancionadas con multa de $550.68 a $2'153,768.26.
+Las infracciones a lo dispuesto por los artículos 7, 8, 10, 12, 44, 63, 63 BIS, 63 TER, 63 QUINTUS, 65, 65 BIS, 73, 73 BIS, 73 TER, 73 QUÁTER, 73 QUINTUS, 74, 76 BIS, 80, 86 BIS, 87, 87 TER, 92, 92 TER, 98 BIS y 121 serán sancionadas con multa de $518.37 a $2' 027, 403.14.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL ACUERDO QUE ACTUALIZA LA LEY.</small>
 
@@ -1668,7 +1690,9 @@ II. Los datos comprobados que aporten las denuncias de los consumidores;
 
 III. La publicidad o información de los proveedores y la comprobación de las infracciones; o
 
-IV. Cualquier otro elemento o circunstancia que aporte elementos de convicción para aplicar la sanción.
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2009)</small>
+
+IV. Cualquier otro elemento o circunstancia que sirva como prueba para determinar el incumplimiento u omisión para aplicar la sanción.
 
 Las resoluciones que emita la Procuraduría deberán estar debidamente fundadas y motivadas con arreglo a derecho, tomando en consideración los criterios establecidos en el presente ordenamiento.
 
@@ -1951,3 +1975,7 @@ NOVENO.- Las actualizaciones a que se refiere el presente Acuerdo estarán vigen
 ## TRANSITORIO
 
 UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2009.
+
+D.O.F. 29 DE ENERO DE 2009.
+
+Único. El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
