@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-850-del-notariado-del-estado-de-veracruz-de-40508"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-05"
-last_updated: "2004-07-05"
+last_updated: "2009-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY DEL NOTARIADO EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 527 DEL NOTARIADO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 29 DE ENERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: ABROGADA.
 
 Ley publicada en el Alcance a la Gaceta Oficial del Estado de Veracruz, el lunes 5 de julio de 2004.
 
@@ -1484,3 +1486,15 @@ Atentamente
 Sufragio efectivo. No reelección
 
 Licenciado Miguel Alemán Velazco, Gobernador del Estado.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA LEY.</small>
+
+G.O. 29 DE ENERO DE 2009.
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se abroga la Ley número 850 del Notariado para el Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial, órgano del Gobierno del Estado el día cinco del mes de julio del año dos mil cuatro, y se derogan todas las disposiciones que se opongan a la presente Ley.
+
+Tercero. La Dirección General y el Consejo propondrán al Gobernador del Estado, en un término de noventa días a partir de la entrada en vigor de esta Ley, la actualización del Arancel para el cobro de honorarios de los Notarios Públicos; y a partir de la fecha de su publicación en la Gaceta Oficial, quedará abrogada la Ley que Establece el Arancel para el Cobro de Honorarios por los Notarios Públicos, del 16 de diciembre de 1967.
+
+Cuarto. El Sistema de Avisos de Poderes y Mandatos Notariales será publicado previamente en la Gaceta Oficial; en esa publicación, se determinará la fecha de su inicio y obligatoriedad para los Notarios.
