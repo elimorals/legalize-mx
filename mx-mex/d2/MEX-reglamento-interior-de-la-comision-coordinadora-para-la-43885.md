@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-comision-coordinadora-para-la-43885"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-10"
-last_updated: "2005-02-10"
+last_updated: "2009-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA COMISION COORDINADORA PARA LA RECUPERACION ECOLOGICA DE LA CUENCA DEL RIO LERMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE ENERO DE 2009.
 
-Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el jueves 10 de febrero de 2005.
+Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el jueves 19 de febrero de 2005.
 
 ARTURO MONTIEL ROJAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MÉXICO, EN EJERCICIO DE LA FACULTAD QUE ME CONFIERE EL ARTÍCULO 77 FRACIÓN IV DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, Y CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 2 Y 8 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; Y
 
@@ -81,9 +81,13 @@ III. Establecer estrategias y actividades para la preservación y restauración 
 
 IV. Impulsar la participación de organizaciones públicas, privadas y sociales en la ejecución de programas y proyectos para la recuperación ecológica de la Cuenca del Río Lerma.
 
-V. Validar los anteproyectos de presupuesto de la Comisión y someterlos a la consideración del Secretario de Ecología.
+> <small>(REFORMADA G.G. 29 DE ENERO DE 2009)</small>
 
-VI. Acordar con el Secretario de Ecología aquellos asuntos a su cargo que requieran de su intervención.
+V. Validar los anteproyectos de presupuesto de la Comisión y someterlos a la consideración del Secretario del Agua y Obra Pública.
+
+> <small>(REFORMADA G.G. 29 DE ENERO DE 2009)</small>
+
+VI. Acordar con el Secretario del Agua y Obra Pública aquellos asuntos a su cargo que requieran de su intervención.
 
 VII. Validar los manuales administrativos de la Comisión y someterlos a la aprobación de las instancias competentes.
 
@@ -91,7 +95,21 @@ VIII. Administrar el patrimonio de la Comisión.
 
 IX. Supervisar y vigilar la organización y funcionamiento de la Comisión.
 
-X. Las demás que le señalen otras disposiciones legales y aquellas que le encomienden el Gobernador o el Secretario de Ecología.
+> <small>(REFORMADA G.G. 29 DE ENERO DE 2009)</small>
+
+X. Promover, gestionar e impulsar la creación de recursos e instrumentos financieros que coadyuven al cumplimiento de los objetivos de la Comisión.
+
+> <small>(ADICIONADA, G.G. 29 DE ENERO DE 2009)</small>
+
+XI. Celebrar, previa autorización del Secretario del Agua y Obra Pública, acuerdos y convenios de coordinación para la protección al ambiente, preservación y restauración del equilibrio ecológico de la Cuenca del Río Lerma.
+
+> <small>(ADICIONADA, G.G. 29 DE ENERO DE 2009)</small>
+
+XII. Formular y proponer al Secretario del Agua y Obra Pública, reformas al marco legal que tengan como propósito la recuperación integral de la Cuenca del Río Lerma.
+
+> <small>(ADICIONADA, G.G. 29 DE ENERO DE 2009)</small>
+
+XIII. Las demás que le señalan otras disposiciones legales y aquellas que le encomienden el Gobernador o el Secretario del Agua y Obra Pública.
 
 ### CAPÍTULO III. DE LOS SUBDIRECTORES Y DEL JEFE DE LA UNIDAD
 
@@ -137,7 +155,7 @@ I. Elaborar normas técnicas, criterios, lineamientos y demás medidas para cont
 
 II. Participar en la formulación de estrategias que contribuyan a ejecutar las recomendaciones de los estudios y atlas ecológico para la protección, preservación y restauración del equilibrio ecológico de la Cuenca del Río Lerma.
 
-III. Dar seguimiento, en el ámbito de su competencia, a los compromisos del Gobierno del Estado ante el Consejo de la Cuenca Lerma-Chapala e informar lo conducente al Coordinador General.
+III. (DEROGADA, G.G. 29 DE ENERO DE 2009)
 
 IV. Asesorar y apoyar técnicamente a los municipios que los soliciten en la atención de los problemas ecológicos de la Cuenca del Río Lerma.
 
@@ -151,11 +169,105 @@ VIII. Proponer al Coordinador General acciones preventivas y correctivas para la
 
 IX. Elaborar los estudios técnicos que le encomiende el Coordinador General.
 
-X. Elaborar los estudios solicitados por el Consejo de la Cuenca Lerma-Chapala y por los diferentes grupos de trabajo.
+X. (DEROGADA, G.G. 29 DE ENERO DE 2009)
 
 XI. Promover la vinculación de la Comisión con los sectores público, privado y social para preservar y restaurar el equilibrio ecológico de la Cuenca del Río Lerma.
 
 XII. Las demás que le señalen otras disposiciones legales y aquellas que le encomiende el Coordinador General.
+
+###### Artículo 9.
+
+Corresponde a la Subdirección de Administración y Finanzas:
+
+I. Programar, organizar y controlar el suministro, administración y aplicación de los recursos humanos, materiales, financieros y técnicos, así como los servicios generales necesarios para el funcionamiento de las unidades administrativas de la Comisión.
+
+II. Integrar el anteproyecto de presupuesto de egresos de la Comisión y someterlo a la consideración del Coordinador General.
+
+III. Formular conjuntamente con las unidades administrativas de la Comisión, los programas anuales de adquisiciones, arrendamientos y servicios del Órgano, de acuerdo con las disposiciones legales establecidas, los programas de trabajo y proyectos de presupuesto de egresos respectivos.
+
+IV. Ejecutar los procedimientos y mecanismos sobre el ejercicio y control del presupuesto de gasto corriente y de inversión, y verificar su aplicación.
+
+V. Coordinar, consolidar y controlar la información sobre el ejercicio del gasto de la Comisión e informar al Coordinador General sobre el comportamiento del mismo.
+
+VI. Realizar el registro, mantenimiento y conservación de los bienes muebles e inmuebles asignados a las unidades administrativas de la Comisión.
+
+VII. Diseñar y proponer instrumentos técnico administrativos para mejorar la administración de los recursos asignados a la Comisión.
+
+> <small>(REFORMADA, G.G. 29 DE ENERO DE 2009)</small>
+
+VIII. Integrar y mantener actualizados los manuales administrativos de la Comisión, en coordinación con la Secretaría de Finanzas.
+
+> <small>(REFORMADA, G.G. 29 DE ENERO DE 2009)</small>
+
+IX. Participar en el Comité de Adquisiciones y Servicios de la Secretaría del Agua y Obra Pública, de acuerdo con la normatividad aplicable.
+
+X. Proveer a las unidades administrativas de la Comisión, de los bienes y servicios que requieran para su funcionamiento, en términos de las disposiciones aplicables.
+
+XI. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Coordinador General.
+
+###### Artículo 10.
+
+Corresponde a la Unidad de Investigación y Difusión:
+
+I. Planear, coordinar y dirigir las acciones de comunicación, difusión y vinculación de la Comisión.
+
+II. Elaborar y difundir los atlas ecológico que en materia de recuperación emite la Comisión.
+
+III. Difundir las actividades de la Comisión, así como modelos ecológicos municipales, a través de las salas de exposición, publicaciones realizadas en la materia y demás mecanismos que se establezcan al respecto.
+
+IV. Llevar a cabo investigaciones y estudios para la recuperación, conservación y preservación de la Cuenca del Río Lerma.
+
+V. Impulsar la capacitación de personal vinculado con la investigación de la Cuenca del Río Lerma, a fin de atender los problemas que afectan el equilibrio ecológico.
+
+VI. Proponer y coordinar la realización de eventos orientados a fomentar la protección, preservación y restauración del equilibrio ecológico de la Cuenca del Río Lerma.
+
+VII. Establecer y operar mecanismos que permitan el intercambio de información con instituciones afines a las atribuciones de la Comisión.
+
+> <small>(REFORMADA, G.G. 29 DE ENERO DE 2009)</small>
+
+VIII. Realizar el seguimiento de los compromisos asumidos por el Gobierno del Estado para la recuperación de la Cuenca Lerma-Chapala e informar lo conducente al Coordinador General.
+
+> <small>(ADICIONADA, G.G. 29 DE ENERO DE 2009)</small>
+
+IX. Elaborar estudios orientados a la recuperación de la Cuenca Lerma-Chapala y presentar los resultados al Coordinador General.
+
+> <small>(ADICIONADA, G.G. 29 DE ENERO DE 2009)</small>
+
+X. Las demás que le señalan otras disposiciones legales y aquellas que le encomiende el Coordinador General.
+
+### CAPÍTULO V. DE LA SUPLENCIA DE LOS TITULARES
+
+> <small>(REFORMADO, G.G. 29 DE ENERO DE 2009)</small>
+
+###### Artículo 11.
+
+El Coordinador General será suplido en sus ausencias temporales hasta por 15 días hábiles, por el Subdirector que aquél designe. En las mayores de 15 días hábiles, por quien designe el Secretario del Agua y Obra Pública.
+
+###### Artículo 12.
+
+Los Subdirectores y el Jefe de la Unidad serán suplidos en sus ausencias temporales hasta por 15 días, por el servidor público de la jerarquía inmediata inferior que aquellos designen. En las mayores de 15 días, por quien designe el Coordinador General.
+
+T R A N S I T O R I O S
+
+PRIMERO.- Publíquese el presente Reglamento en el periódico oficial Gaceta del Gobierno.
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el periódico oficial Gaceta del Gobierno.
+
+Dado en el Palacio del Poder Ejecutivo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los tres días del mes de diciembre de dos mil cuatro.
+
+SUFRAGIO EFECTIVO. NO REELECCIÓN
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MÉXICO
+
+ARTURO MONTIEL ROJAS
+
+(RUBRICA).
+
+EL SECRETARIO GENERAL DE GOBIERNO
+
+MANUEL CADENA MORALES
+
+(RUBRICA).
 
 ###### Artículo 9.
 
@@ -234,3 +346,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+G.G. 29 DE ENERO DE 2009.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
