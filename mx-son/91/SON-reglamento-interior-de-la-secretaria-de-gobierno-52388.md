@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-secretaria-de-gobierno-52388"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-03"
-last_updated: "2008-08-28"
+last_updated: "2009-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE ENERO DE 2009.
 
 Reglamento publicado en la Sección I al Boletín Oficial del Estado de Sonora, el viernes 3 de noviembre de 2006.
 
@@ -41,7 +41,7 @@ La Secretaría de Gobierno, como dependencia del Poder Ejecutivo Estatal, tiene 
 
 Para la atención, estudio, planeación, despacho y resolución de los asuntos de su competencia, la Secretaría de Gobierno contará con las siguientes unidades administrativas y órganos desconcentrados:
 
-> <small>(REFORMADA, B.O. 28 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, B.O. 29 DE ENERO DE 2009)</small>
 
 I.- Unidades Administrativas:
 
@@ -85,7 +85,7 @@ Dirección General de Imagen.
 
 Dirección General de Administración.
 
-Dirección General de Logística, Giras y Eventos.
+Dirección General de Administración y Finanzas.
 
 Dirección General de Relaciones Públicas y Eventos.
 
@@ -775,31 +775,35 @@ XI.- Expedir copias certificadas de las constancias existentes en los archivos d
 
 XII.- Las demás que le confieren las disposiciones legales aplicables y el titular de la dependencia, dentro de la esfera de sus atribuciones.
 
+> <small>(REFORMADO, B.O. 29 DE ENERO DE 2009)</small>
+
 ###### ARTÍCULO 25.
 
-La Dirección General de Logística, Giras y Eventos estará adscrita a la Coordinación Ejecutiva de Relaciones Públicas y Eventos y tendrá las siguientes atribuciones:
+La Dirección General de Administración y Finanzas estará adscrita a la Coordinación Ejecutiva de Relaciones Públicas y Eventos y tendrá las siguientes atribuciones:
 
-I.- Establecer y mantener comunicación con las oficinas de relaciones públicas de los municipios de la Entidad, con la finalidad de intercambiar información y apoyo en actividades relativas a las reuniones y giras de trabajo del Gobernador del Estado;
+I.- Elaborar, de conformidad con los lineamientos establecidos por la Secretaría de Hacienda, el anteproyecto de presupuesto de egresos por programa que le corresponda a la Coordinación Ejecutiva de Relaciones Públicas y Eventos para someterlo a consideración del Coordinador Ejecutivo, y una vez aprobado éste verificar su correcta y oportuna ejecución;
 
-II.- Elaborar los anteproyectos de giras o reuniones de trabajo del Gobernador del Estado y presentarlos a revisión y/o autorización del Coordinador Ejecutivo de Relaciones Públicas y Eventos y, en su caso, elaborar el programa definitivo y hacerlos del conocimientos (sic) de las instancias responsables;
+II.- Coordinar la elaboración y mantener actualizados los Manuales de Organización y de Procedimientos, así como el de servicios al público de la Coordinación Ejecutiva en cumplimiento al Sistema de Modernización Administrativa;
 
-III.- Coadyuvar con las dependencias y entidades de la Administración Pública Estatal, en la elaboración e instrumentación de programas y giras de trabajo del Gobernador del Estado;
+III.- Formular los pagos y recuperaciones de los fondos revolventes para gasto corriente autorizados a la Coordinación Ejecutiva;
 
-IV.- Designar al personal de la unidad administrativa que se coordinará con los responsables de los lugares en los que se llevarán a cabo giras, reuniones o eventos en los que participe el Gobernador del Estado, con el objeto de determinar rutas, tiempos, acompañantes, intervenciones y apoyos logísticos que resulten necesarios para la calidad de los eventos;
+IV.- Tramitar, coordinadamente con la Coordinación General de Administración y Control Presupuestal, los pedidos y contratos que se celebren en materia de adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles, de conformidad con las normas aplicables;
 
-V.- Elaborar propuestas de comitiva, invitados especiales que acompañarán al Gobernador del Estado en giras, reuniones o eventos, y una vez aprobadas por el Ejecutivo Estatal, designar al personal que se encargará de hacerles la convocatoria, la designación del medio de transporte, alimentación y, en caso de requerirse, el hospedaje;
+V.- Controlar y registrar los pedidos de materiales, los pagos por servicios generales y de los equipos que adquiera la Coordinación Ejecutiva con base a la disposición presupuestal y con estricto apego a las Disposiciones de Racionalidad, Austeridad y Disciplina Presupuestal vigentes;
 
-VI.- Verificar el buen estado de los materiales de equipamiento en materia de seguridad y logística para la instalación de templetes, presídiums, leyendas, ornato, edecanes, logotipos, sonidos, pódiums, mamparas, carpas, sillas, maestro de ceremonias, tarimas, vallas, etc., para la realización de eventos, reuniones, giras de trabajo del Gobernador del Estado;
+VI.- Elaborar y mantener permanentemente actualizados los inventarios y resguardos correspondientes del mobiliario, equipo y vehículos asignados al personal de la Coordinación Ejecutiva;
 
-VII.- Mantener actualizado el registro cronológico y estadístico de las giras, reuniones y eventos de trabajo realizados por el Gobernador del Estado;
+VII.- Analizar las solicitudes de modificaciones presupuéstales de la Coordinación Ejecutiva que sean necesarias y tramitar, previa autorización del titular de la dependencia, ante la Secretaría de Hacienda, la afectación presupuestal para su autorización, registro y control;
 
-VIII.- Establecer contacto con los invitados especiales del Gobernador del Estado en las giras y eventos, para mantener retroalimentación enviando fotografías, videos, documentos, etc., de las actividades realizadas, y a su vez recibir comentarios, sugerencias y opiniones de los mismos;
+VIII.- Llevar a cabo el control administrativo del personal adscrito a la Coordinación Ejecutiva, de acuerdo a las disposiciones legales correspondientes;
 
-IX.- Adquirir y entregar, cuando la ocasión lo amerite, un presente representativo del Estado de Sonora a los invitados especiales del Ejecutivo Estatal;
+IX.- Integrar y controlar los avances del gasto corriente aprobado a la Coordinación Ejecutiva e informar lo conducente al titular de la misma;
 
-X.- Expedir copias certificadas de las constancias existentes en los archivos de su unidad administrativa; y
+X.- Proporcionar los materiales y servicios necesarios a las unidades administrativas adscritas a la Coordinación Ejecutiva para el correcto desempeño de sus funciones;
 
-XI.- Las demás que le confieren las disposiciones jurídicas aplicables en la materia y las que le otorgue el titular de la dependencia, dentro de la esfera de sus atribuciones.
+XI.- Expedir copias certificadas de las constancias existentes en los archivos de su unidad administrativa; y
+
+XII.- Las demás que le confieren las disposiciones legales aplicables y el titular de la dependencia, dentro de la esfera de sus atribuciones.
 
 > <small>(ADICIONADO, B.O. 20 DE SEPTIEMBRE DE 2007)</small>
 
@@ -1040,3 +1044,9 @@ Los recursos financieros, materiales y humanos asignados al Centro Estatal de De
 ###### ARTÍCULO CUARTO.
 
 Se abrogan todas aquellas disposiciones que se opongan al presente Reglamento.
+
+B.O. 29 DE ENERO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
