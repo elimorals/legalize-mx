@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-la-comision-de-administracion-del-60817"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-05-13"
-last_updated: "2009-01-21"
+last_updated: "2009-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60817&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2008-04-17"
 
 ACUERDO GENERAL DE LA COMISION DE ADMINISTRACION DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE MODIFICAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL NUMERO 22-05E DE LA PROPIA COMISION, QUE FIJA LAS BASES PARA QUE LAS ADQUISICIONES, ARRENDAMIENTOS, PRESTACION DE SERVICIOS Y OBRA PUBLICA EN EL TRIBUNAL ELECTORAL, SE AJUSTEN A LOS CRITERIOS PREVISTOS EN EL ARTICULO 134 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL QUE ESTABLECE LAS BASES PARA QUE EN EL PODER JUDICIAL DE LA FEDERACION, LAS ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES, PRESTACION DE SERVICIOS, OBRA PUBLICA Y LOS SERVICIOS RELACIONADOS CON LA MISMA, SE AJUSTEN A LOS CRITERIOS CONTEMPLADOS EN EL ARTICULO 134 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE 21 DE ENERO DE 2009, EL PRESENTE ORDENAMIENTO QUEDA DEROGADO EN LO QUE SE OPONGA A LAS DISPOSICIONES DEL NUEVO ACUERDO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO ESPECIFICO DE LA COMISION DE ADMINISTRACION DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION, QUE DETERMINA LAS INSTANCIAS Y SERVIDORES PUBLICOS FACULTADOS PARA APLICAR LAS DISPOSICIONES DEL ACUERDO GENERAL QUE ESTABLECE LAS BASES PARA QUE EN EL PODER JUDICIAL DE LA FEDERACION, LAS ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES, PRESTACION DE SERVICIOS, OBRA PUBLICA Y LOS SERVICIOS RELACIONADOS CON LA MISMA, SE AJUSTEN A LOS CRITERIOS CONTEMPLADOS EN EL ARTICULO 134 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE 30 DE ENERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: DEROGADO.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 13 de mayo de 2008.
 
@@ -204,3 +204,11 @@ TERCERO. Los Organos emitirán los acuerdos específicos para determinar las ins
 CUARTO. Los Organos deberán constituir el Comité de Adquisiciones, Arrendamientos, Obra Pública y Servicios al que se refiere este Acuerdo, señalando en el acuerdo especifico al que se refiere el transitorio que antecede la forma de su integración, las funciones de sus integrantes y asesores, así como la forma en que sesionará.
 
 QUINTO. Los procedimientos de adjudicación regulados en el presente Acuerdo que se hayan iniciado con anterioridad a su entrada en vigor, se regirán por la normativa vigente en dicha fecha.
+
+D.O.F. 30 DE ENERO DE 2009.
+
+PRIMERO.- El presente Acuerdo Específico entrará en vigor a partir del primero de febrero de dos mil nueve, debiéndose publicar con anticipación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abrogan los Acuerdos Generales 22-05E y 025/S60, y se derogan todas las disposiciones, acuerdos, lineamientos, manuales de organización y procedimientos que se contrapongan a este acuerdo.
+
+TERCERO.- Los procedimientos de adjudicación iniciados con anterioridad a la entrada en vigor del presente acuerdo, deberán seguirse conforme a las disposiciones vigentes al momento de su inicio.
