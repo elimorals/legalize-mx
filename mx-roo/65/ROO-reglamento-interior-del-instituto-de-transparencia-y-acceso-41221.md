@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-del-instituto-de-transparencia-y-acceso-412
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-30"
-last_updated: "2007-09-14"
+last_updated: "2009-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "ROO"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2009.
 
-Reglamento publicado en el Número 18 Bis del Periódico Oficial del Estado de Quintana Roo, el jueves 30 de septiembre de 2004.
+Reglamento publicado en el Bis del Periódico Oficial del Estado de Quintana Roo, el jueves 30 de septiembre de 2004.
 
 La Junta de Gobierno del Instituto de Transparencia y Acceso a la Información Pública de Quintana Roo, con fundamento en lo dispuesto en el numeral 41, fracción XXI, de la Ley de Transparencia y Acceso a la información Pública del Estado de Quintana Roo
 
@@ -43,9 +43,29 @@ El presente reglamento, tiene por objeto establecer la estructura organizacional
 
 Su observancia será de carácter obligatorio para los integrantes de la Junta de Gobierno, así como para quienes laboren en el Instituto cualesquiera que sea la naturaleza del encargo que detenten.
 
-###### Artículo 2°.
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2009)</small>
 
-La interpretación del presente reglamento se hará conforme a los criterios gramatical, sistemático y funcional, pudiéndose apoyar incluso en los Principios Generales del Derecho.
+###### Artículo 2º.
+
+En Caso de duda en la aplicación del presente Reglamento, la Junta de Gobierno del Instituto tendrá la facultad de interpretarlo, lo que hará conforme a los criterios gramatical, sistemático y funcional, pudiéndose apoyar incluso en los principios generales del derecho.
+
+Así mismo, se aplicará de manera supletoria:
+
+I. Ley Federal de Los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional;
+
+II. Ley de los Trabajadores al Servicio de los Poderes Ejecutivo, Legislativo y Judicial, de los Ayuntamientos y Organismos Descentralizados del Estado de Quintana Roo;
+
+III. La Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo;
+
+IV. Reglamento de Condiciones General de Trabajo de los Servidores Públicos del Instituto de Transparencia y Acceso a la Información Pública de Quintana Roo;
+
+V. Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo;
+
+VI. El Código Civil para el Estado de Quintana Roo;
+
+VII. Las leyes del orden común que resulten aplicables; y
+
+VIII. El uso y la costumbre.
 
 ###### Articulo 3°.
 
@@ -175,11 +195,15 @@ XXVlI. Expedir lineamientos, acuerdos y cualquier normatividad inherente al debi
 
 > <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-XXVIII. Ejercer, las atribuciones que, en el marco del Sistema de Planeación Democrática del Estado de Quintana Roo, le otorga el Artículo 28 y demás relativos y aplicables de Ley de Planeación Para el Desarrollo del Estado de Quintana Roo; y
+XXVIII. Ejercer, las atribuciones que, en el marco del Sistema de Planeación Democrática del Estado de Quintana Roo, le otorga el Artículo 28 y demás relativos y aplicables de Ley de Planeación Para el Desarrollo del Estado de Quintana Roo; y (sic)
 
-> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
 
-XXIX. Las demás que le confiera la Ley y el presente Reglamento.
+XXIX. Realizar reuniones y foros anuales de carácter público, para discutir la aplicación y alcance de la presente Ley; y
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2009)</small>
+
+XXX. Las demás que le confiera la Ley y el presente Reglamento.
 
 ###### Artículo 7°.
 
@@ -193,6 +217,22 @@ Las sesiones ordinarias se llevarán a cabo por lo menos dos veces al mes.
 
 Las sesiones extraordinarias serán convocadas en cualquier tiempo cuando los asuntos que por su propia y especial naturaleza, ameriten ser tratados con celeridad o exclusividad.
 
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2009)</small>
+
+Así mismo, las sesiones ordinarias o extraordinarias podrán ser:
+
+I. Públicas: Las que permitan el acceso del público en general, sin que por ello tengan derecho a voz, ni voto;
+
+II. Privadas: Cuando se trate de los siguientes casos:
+
+a) Para determinar· el fincamiento de responsabilidades y sanciones administrativas de los trabajadores del Instituto, por faltas cometidas en el desempeño de sus funciones y previo el desahogo del procedimiento administrativo Correspondiente;
+
+b) Para desahogar asuntos relativos a la organización, funcionamiento y administración interna del Instituto;
+
+c) Concurran circunstancias que imposibiliten la realización de la sesión en forma pública y ordenada;
+
+d) Cuando asilo considere pertinente el Consejero Presidente, o a moción de un Consejero Vocal y lo apruebe la mayoría de los integrantes de la Junta de Gobierno.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 8°.
@@ -201,11 +241,11 @@ Las sesiones de la Junta de Gobierno serán convocadas por el Consejero Presiden
 
 Durante la ausencia del Consejero Presidente, corresponderá al Consejero Vocal de mayor antigüedad convocar a sesiones.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2009)</small>
 
 ###### Artículo 9°.
 
-Para que las sesiones de la Junta de Gobierno sean válidas, se requiere haber convocado debidamente a sus integrantes, de conformidad a lo que se establece en el presente Reglamento, y que a la misma asistan, por lo menos, dos de sus Integrantes, siempre y cuando se encuentre entre ellos el Consejero Presidente.
+Para que las sesiones de la Junta de Gobierno sean válidas, se requiere haber convocado debidamente a sus integrantes, de conformidad a lo que se establece, en el presente Reglamento y los lineamientos que al efecto se expidan y que a la misma asistan, por lo menos, dos de sus integrantes, siempre y cuando se encuentre entre ellos el Consejero Presidente.
 
 ###### Artículo 10.
 
@@ -265,11 +305,13 @@ V. Clausura de la Sesión.
 
 Cualquier integrante de la Junta de Gobierno puede proponer asuntos a tratar en las sesiones ordinarias, siempre y cuando, estos se comuniquen por escrito con setenta y dos horas de anticipación a que se celebre la sesión, a fin de que sean considerados en la convocatoria respectiva.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2009)</small>
 
 ###### Artículo 15.
 
-Todas las sesiones de la Junta de Gobierno son de naturaleza pública y se regirán bajo los lineamientos que al efecto expidan y aprueben sus integrantes. En consecuencia, deberá de comunicarse al público en general, inmediatamente después de que haya sido firmada la convocatoria, mediante cédula de notificación que se fije en los estrados que para tal efecto se habiliten en las instalaciones oficiales del Instituto, así como en el sitio web de este último.
+Todas las sesiones de la Junta de Gobierno sean de naturaleza pública o privada, se regirán en los términos del presente Reglamento y bajo los Lineamientos que al efecto expidan y aprueben sus integrantes.
+
+Tratándose de sesiones públicas, inmediatamente después de que haya sido firmada la convocatoria respectiva, se deberá de dar a conocer al público en general, el contenido de la misma, mediante cédula de notificación que se fije en los estrados de las instalaciones oficiales del Instituto, así como en el sitio web de este último.
 
 ###### Artículo 16.
 
@@ -307,11 +349,11 @@ VIII. La fecha y hora de clausura de la sesión; y
 
 IX. La firma de los integrantes de la Junta de Gobierno presentes.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2009)</small>
 
 ###### Artículo 17.
 
-Las actas de sesión de la Junta de Gobierno son carácter público y deberán publicarse en el sitio web del Instituto, a más tardar dentro de las veinticuatro horas posteriores a su aprobación, de conformidad con la normatividad aplicable. Entre tanto, el titular de la Secretaria Ejecutiva pondrá un listado que contenga un extracto de los acuerdos tomados por la Junta de Gobierno para cada sesión en la web, en un plazo que no podrá ser mayor a las 48 horas de concluida la sesión de que se trate.
+Las actas de sesión de la Junta de Gobierno deberán publicarse en el sitio web del Instituto, a más tardar dentro de las veinticuatro horas posteriores a su aprobación, de conformidad con la normatividad aplicable.
 
 ###### Artículo 18.
 
@@ -337,9 +379,9 @@ IV. Otorgar poderes para pleitos y cobranzas, representación legal y actos de a
 
 V. Otorgar autorización al titular de la Dirección Administrativa del instituto, a fin de que éste realice gestiones operativas para el buen despacho de las actividades inherentes a su encomienda;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
 
-VI. Presentar el informe mensual de ejercicio, uso y destino de los recursos asignados al Instituto emitido por la Dirección de Administración bajo la suspensión de éste, a los integrantes de la Junta de Gobierno;
+VI. Presentar, a los integrantes de la Junta de Gobierno, el informe mensual de ejercicio, uso y destino de los recursos asignados al Instituto, emitido por la Dirección de Administración bajo la supervisión de éste y que deberá estar validado por el Órgano Interno de Control del propio Instituto;
 
 VII. Proporcionar a los Consejeros Vocales toda la información que le soliciten en el, marco de su actuar oficial;
 
@@ -483,6 +525,10 @@ B.- El cargo de titular de la Secretaría es de confianza, y no forma parte del 
 
 C.- La Secretaría contará con el personal necesario para atender su encomienda, de conformidad con el Catálogo de Puestos y Funciones, y la disposición presupuestaria.
 
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2009)</small>
+
+Artículo 27 BIS.- Para efecto del artículo 68 de la Ley, el Secretario Ejecutivo deberá de fijar en los estrados del Instituto un boletín informativo en el que señale la dirección y teléfono donde se le pueda encontrar o, en su caso, a la persona que éste designe, para que reciba las demandas y promociones que se presenten fuera del horario del labores del Instituto.
+
 ### Capítulo Octavo. De los (sic) Direcciones
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
@@ -595,6 +641,10 @@ II.- Para ser titular de la Dirección Jurídica Consultiva se requiere reunir y
 
 8) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2009)</small>
+
+9) Tener una residencia efectiva en el Estado, durante los cinco años anteriores a la fecha de designación o ser originario del mismo.
+
 III.- El cargo de titular de la Dirección Jurídica Consultiva es de confianza, y no forma parte del servicio de carrera, por lo que podrá ser removido libremente por acuerdo de la Junta de Gobierno.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
@@ -631,9 +681,9 @@ I.- La Dirección de Capacitación, tendrá las siguientes atribuciones y debere
 
 5) Elaborar los proyectos de contenidos conceptuales y programáticos que revelen la importancia social del derecho de acceso a la información pública y la protección de datos personales, que el Instituto debe promover ante las autoridades educativas del Estado, a fin de incluirlos en los planes y programas de estudio de los diversos niveles educativos. Para facilitar lo anterior, además, diseñará una propuesta de material didáctico;
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2009)</small>
 
-6) Promover en las instituciones educativas de nivel superior la inclusión de la temática de transparencia en los planes y programas educativos y extracurriculares, así como en los foros nacionales e internacionales correspondientes;
+6) Promover en las Instituciones Educativas de tipo básico, medio y superior, la inclusión de la temática de transparencia en los planes y programas educativos y extracurriculares, así como en los foros nacionales e internacionales correspondientes;
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
@@ -667,9 +717,13 @@ I.- La Dirección de Capacitación, tendrá las siguientes atribuciones y debere
 
 14) Atender las solicitudes de la Unidad de Vinculación, en materia de acceso a la información pública;
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2009)</small>
 
-15) Las demás que se le asignen por disposición legal, reglamentaria o equivalente, o bien por acuerdo de la Junta de Gobierno.
+15) Promover toda clase de acciones tendentes al fortalecimiento de la cultura de la apertura informativa y el ejercicio del derecho de acceso a la información y la protección de datos personales a través de cursos, seminarios, talleres y toda otra forma de enseñanza y entrenamiento que se considere pertinente. Para tal efecto, elaborará los programas respectivos y coordinará su actuación en la materia con los Sujetos Obligados.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2009)</small>
+
+16) Las demás que se le asignen por disposición legal, reglamentaria o equivalente, o bien por acuerdo de la Junta de Gobierno.
 
 II.- Para ser titular de la Dirección de Capacitación se requiere reunir y mantener los, siguientes requisitos:
 
@@ -683,9 +737,9 @@ II.- Para ser titular de la Dirección de Capacitación se requiere reunir y man
 
 3) Tener veinticinco años de edad cumplidos al día de la designación;
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2009)</small>
 
-4) Poseer título profesional de licenciado en pedagogía o en cualquier rama de las ciencias sociales, expedido por la institución de educación superior legalmente facultada para ello, así como la cédula profesional con más de tres años de ejercicio profesional y de manera preferente, estudios de postgrado en derecho a la información, derecho administrativo o gestión pública;
+4) Poseer titulo· profesional expedido por institución de educación superior legalmente facultada para ello, así como la cédula profesional, con más de tres años de ejercicio profesional y de manera preferente, estudios de postgrado en derecho a la Información, derecho administrativo o gestión pública, o contar con experiencia probada suficiente dentro de la administración gubernamental, juicio de los Consejeros de la Junta de Gobierno del Instituto, para el desempeño del cargo;
 
 5) Gozar de buena reputación, no estar sujeto a proceso penal y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional;
 
@@ -694,6 +748,10 @@ II.- Para ser titular de la Dirección de Capacitación se requiere reunir y man
 7) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 8) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2009)</small>
+
+9) Tener una residencia efectiva en el Estado, durante los cinco años anteriores a la fecha de designación o ser originario del mismo.
 
 III.- El cargo de titular de la Dirección de Capacitación es de confianza, y no forma parte del servicio de carrera, por lo que podrá ser removido libremente por acuerdo de la Junta de Gobierno.
 
@@ -781,9 +839,9 @@ II.- Para ser titular de la Dirección de Vinculación se requiere reunir y mant
 
 3) Tener veinticinco años de edad cumplidos al día de la designación;
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2009)</small>
 
-4) Poseer título profesional de licenciado en derecho o en cualquier rama de las ciencias sociales y/o económicas, expedido por la Institución de educación superior legalmente facultada para ello, así como la cédula profesional, con más de tres años de ejercicio profesional y de manera preferente, estudios de postgrado en derecho a la Información y habilidades para las relaciones públicas;
+4) Poseer título profesional expedido por institución de educación superior legalmente facultada para ello, así como la cédula profesional, con más de tres años de ejercicio profesional y de manera preferente, estudios de postgrado en derecho a la Información y habilidades para las relaciones públicas, o contar con experiencia probada suficiente dentro de la administración gubernamental, a juicio de los Consejeros de la Junta de Gobierno del Instituto, para el desempeño del cargo.
 
 5) Gozar de buena reputación, no estar sujeto a proceso penal y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional;
 
@@ -792,6 +850,10 @@ II.- Para ser titular de la Dirección de Vinculación se requiere reunir y mant
 7) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 8) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2009)</small>
+
+9) Tener una residencia efectiva en el Estado, durante los cinco años anteriores a la fecha de designación o ser originario del mismo.
 
 III.- El cargo de titular de la Dirección de Vinculación es de confianza, y no forma parte del servicio de carrera, por lo que podrá ser removido libremente por acuerdo de la Junta de Gobierno.
 
@@ -885,9 +947,9 @@ II.- Para ser titular de la Dirección de Administración se requiere reunir y m
 
 3) Tener veinticinco años de edad cumplidos al día de la designación;
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2009)</small>
 
-4) Poseer título profesional de licenciatura en cualquiera de las ciencias administrativas, económicas y/o financieras expedido por la Institución de educación superior legalmente facultada para ello, así como la cédula profesional, con más de tres años de ejercicio profesional y de manera preferente, estudios de postgrado en administración y/o finanzas públicas y/o gestión gubernamental;
+4) Poseer título profesional expedido por institución de educación superior legalmente facultada para ello, así como la cédula profesional, con más de tres años de ejercicio profesional y de manera preferente, estudios de postgrado en administración y/o finanzas públicas y/o gestión gubernamental, a juicio de los Consejeros de la Junta de Gobierno del Instituto, para el desempeño del cargo;
 
 5) Gozar de buena reputación, no estar sujeto a proceso penal y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional;
 
@@ -896,6 +958,10 @@ II.- Para ser titular de la Dirección de Administración se requiere reunir y m
 7) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 8) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2009)</small>
+
+9) Tener una residencia efectiva en el Estado, durante los cinco años anteriores a la fecha, de designación o ser originario del mismo.
 
 III.- El cargo de titular de la Dirección de Administración es de confianza, y no forma parte del servicio de carrera, por lo que podrá ser removido libremente por acuerdo de la Junta de Gobierno.
 
@@ -963,9 +1029,15 @@ I.- El Órgano Interno de Control tendrá las siguientes atribuciones y deberes:
 
 27) Informar mensualmente por escrito, del avance y resultado de sus actividades, a la Junta de Gobierno;
 
-28) Reportar a la Junta de Gobierno, cuando se detecte alguna acción u omisión que contravenga lo dispuesto en la Ley de Planeación para el Desarrollo del Estado de Quintana Roo, el reglamento de esa ley, la Ley, el presente Reglamento y demás disposiciones legales aplicables en la materia; y
+28) Reportar a la Junta de Gobierno, cuando se detecte alguna acción u omisión que contravenga lo dispuesto en la Ley de Planeación para el Desarrollo del Estado de Quintana Roo, el reglamento de esa ley, la Ley, el presente Reglamento y demás disposiciones legales aplicables en la materia; y (sic)
 
-29) Las demás que se le asignen por disposición legal, reglamentaria o equivalente, en el ámbito de su competencia, o bien por acuerdo de la Junta de Gobierno.
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2009)</small>
+
+29) Validar el informe mensual que deberá rendir el Consejero Presidente a los integrantes de la Junta de Gobierno, respecto del ejercicio, uso y destino, de los recursos asignados al instituto;
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2009)</small>
+
+30) Las demás que se le asignen por disposición legal, reglamentaria o equivalente, en el ámbito de su competencia, o bien por acuerdo de la Junta de Gobierno.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
@@ -981,9 +1053,9 @@ II.- Para ser titular del Órgano Interno de Control se requiere reunir y manten
 
 3) Tener veinticinco años de edad cumplidos al día de la designación;
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2009)</small>
 
-4) Poseer titulo profesional de licenciatura en cualquiera de las ciencias administrativas, económicas y/o financieras, expedido por la Institución de educación superior legalmente facultada para ello, así como la cédula profesional, con más de tres años de ejercicio profesional y de manera preferente, estudios de postgrado y experiencia práctica;
+4) Poseer título profesional expedido por institución de educación superior legalmente facultada para ello, así como la cédula profesional, con más de tres años de ejercicio profesional y de manera preferente, estudios de postgrado en administración y/o finanzas públicas y/o gestión gubernamental, a juicio de los Consejeros de la Junta de Gobierno del instituto, para el desempeño del cargo;
 
 5) Gozar de buena reputación, no estar sujeto a proceso penal y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional;
 
@@ -992,6 +1064,10 @@ II.- Para ser titular del Órgano Interno de Control se requiere reunir y manten
 7) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 8) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2009)</small>
+
+9) Tener una residencia efectiva en el Estado, durante los cinco años anteriores a la fecha de designación o ser originario del mismo.
 
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
@@ -1061,9 +1137,15 @@ XI. Difundir entre los trabajadores públicos del Instituto, los beneficios del 
 
 XII. Proponer a la Junta General la clasificación de la información en pública, reservada o confidencial la información, en los términos del Artículo 23 de la Ley;
 
-XIII. Informar semestralmente a la Junta de Gobierno o en cualquier momento a requerimiento de éste, sobre las solicitudes de acceso a la información recibidas; y
+XIII. Informar semestralmente a la Junta de Gobierno o en cualquier momento a requerimiento de éste, sobre las solicitudes de acceso a la información recibidas; y (sic)
 
-XIV. Las demás acciones necesarias para garantizar y agilizar el flujo de acceso a la información pública en los términos de la ley y demás disposiciones normativas.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
+
+XIV. Elaborar los acuerdos de inexistencia, conjuntamente con el titular del área administrativa del ITAIPQROO responsable de la información, respecto de los documentos solicitados que no se encuentren en los archivos del Instituto;
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2009)</small>
+
+XV. Las demás acciones necesarias para garantizar y agilizar el flujo de acceso a la información pública en los términos de la Ley y demás disposiciones normativas.
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
@@ -1249,9 +1331,9 @@ Para ser titular de la Unidad de Vinculación se requiere reunir y mantener los 
 
 El Servicio Civil de Carrera es el instrumento para profesionalizar las actividades del Instituto, y se regirá por los principios de legalidad, imparcialidad, objetividad, especialización, honradez, lealtad y eficiencia.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2009)</small>
 
-Este se Integrará por los procesos y/o procedimientos de Ingreso, formación y capacitación, desarrollo profesional, promoción y ascenso, evaluación, estímulos y sanciones, mismos que establecerán a través de lineamientos la Junta de Gobierno, observando las normas y estándares estatales que para el efecto se apliquen.
+Este se integrará por los procesos y/o procedimientos de selección, ingreso, permanencia, formación y capacitación, actualización, desarrollo profesional, promoción y ascenso, evaluación, estímulos y sanciones, mismos que establecerá y desarrollará los lineamientos que al efecto expida la Junta de Gobierno, observando las normas y estándares estatales que al respecto se apliquen.
 
 ###### Artículo 67.
 
@@ -1343,7 +1425,9 @@ VIII. Observar falta de respeto e insubordinación a sus superiores o incumplir 
 
 IX. No concurrir al desempeño de sus funciones; y
 
-X. Las demás que se deriven de la Ley o de las disposiciones reglamentarias, administrativas o de otra índole.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
+
+X. Las demás que se deriven de la Ley, de la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo o de las disposiciones reglamentarias, administrativas o de otra índole.
 
 ###### Artículo 84.
 
@@ -1405,6 +1489,46 @@ Se notificará al trabajador en forma personal y al denunciante o quejoso person
 
 (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2009)</small>
+
+Artículo 93 BIS.- Son días y horas hábiles laborables en el Instituto, de lunes a viernes, de las ocho a las dieciséis horas, con excepción de los que a continuación se señalan como de descanso obligatorio
+
+I. Sábados y domingos;
+
+II. Primero de enero;
+
+III. El primer lunes de febrero en conmemoración del 05 de febrero;
+
+IV. El tercer lunes de marzo en conmemoración del 21 de marzo;
+
+V. 5 de Abrir (cada seis años cuando corresponda a la transición del Poder Ejecutivo del Estado);
+
+VI. 1 de Mayo;
+
+VII. 5 de Mayo;
+
+VIII. 10 de Mayo; (Únicamente para las madres trabajadoras);
+
+IX. 12de Junio;
+
+X. 16 de Septiembre;
+
+XI. 12 de Octubre;
+
+XII. El tercer lunes de noviembre conmemoración del 20 de noviembre;
+
+XIII. 1 de diciembre (cada seis años cuando corresponda a la transición del Poder Ejecutivo Federal);
+
+XIV. 25 de diciembre;
+
+XV. los que autoricen por par de la Junta de Gobierno; y
+
+XVI. Los que determinen las leyes federales y locales electorales, en caso de elecciones ordinarias, para efectuar la jornada electoral.
+
+Los trabajadores que laboren los días de descanso antes señalados, tendrán derecho a percibir, además del 100% de su salario correspondiente, una prima del 100% del mismo, sobre el salario diario asignado.
+
+Estos días se considerarán como inhábiles para efectos de cómputo de plazos y términos a los que se refiere la Ley.
+
 ###### Artículo 94.
 
 La modificación del presente ordenamiento requerirá la presentación de una iniciativa, por parte de algún Consejero, que contenga una parte expositiva en donde se consignen las razones, motivos y pertinencia de la intención modificadora, y la parte propositiva, es decir, el texto reglamentario que se propone, así como la aprobación de por lo menos dos de los integrantes de la Junta de Gobierno. En este aspecto, no surte ni tiene cabida el voto de calidad.
@@ -1462,3 +1586,17 @@ QUINTO. En tanto se expide y adecua la normatividad interna del Instituto a que 
 SEXTO. La Dirección de Administración realizará de Inmediato las acciones pertinentes para operar y dar eficacia a las presentes modificaciones, debiendo presentar para ello, a la Junta de Gobierno del lnstituto, el proyecto de reasignación y ampliación de presupuesto para consolidar la creación de la Unidad Administrativa de Planeación y de la Unidad de Vinculación y presentará, en su caso la solicitud de ampliación de presupuesto referida ante la autoridad competente.
 
 SÉPTIMO. El Órgano Interno de Control del Instituto vigilará el adecuado cumplimiento de las presentes modificaciones.
+
+P.O. 30 DE ENERO DE 2009
+
+PRIMERO. Las presentes modificaciones entraran vigor el mismo día de su aprobación por parte de la Junta de Gobierno.
+
+SEGUNDO. Publíquense las presentes modificaciones en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+TERCERO. Se deja sin efecto cualquier ordenamiento de igual o menor jerarquía que se contraponga a lo dispuesto en el presente ordenamiento.
+
+CUARTO. A mis tardar dentro de los sesenta días hábiles siguientes a la aprobación del presente ordenamiento se deberá adecuar la normatividad interna del Instituto y realizar las adecuaciones operativas Inherentes.
+
+QUINTO. En tanto se expide y adecua la normatividad Interna del instituto a que se refiere el presente Reglamento, se seguirán aplicando las disposiciones vigentes en las materias respectivas, en todo lo que no contravenga a este ordenamiento.
+
+SEXTO. El Órgano Interno de Control del Instituto vigilará el adecuado cumplimiento de las presentes modificaciones.
