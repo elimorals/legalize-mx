@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-ayuntamiento-de-tecate-baja-24552"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-01"
-last_updated: "2008-05-02"
+last_updated: "2009-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE TECATE, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 1 de febrero de 2001.
 
@@ -771,39 +771,41 @@ La comisión podrá invitar a los ciudadanos interesados en el asunto de que se 
 
 COMISIONES PERMANENTES
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2009)</small>
 
-###### ARTICULO 70.
+###### ARTÍCULO 70.
 
-Serán Comisiones permanentes las siguientes:
+Son comisiones permanentes las siguientes:
 
-I. Gobernación.
+I.- Gobernación y Legislación.
 
-II. Hacienda.
+II.- Hacienda.
 
-III. Obras y Servicios Públicos.
+III.- Obras y Servicios Públicos.
 
-IV. Desarrollo Urbano y Control Ecológico.
+IV.- Desarrollo Urbano y Control Ecológico.
 
-V. Administración Urbana.
+V.- Administración Pública.
 
-VI. Seguridad, Tránsito y Transportes.
+VI.- Seguridad, Tránsito y Transporte.
 
-VII. Planeación del Desarrollo.
+VII.- Planeación del Desarrollo.
 
-VIII. Publicaciones y Asuntos Fronterizos.
+VIII.- Publicaciones y asuntos fronterizos.
 
-IX. Salud y Asistencia Social.
+IX.- Salud.
 
-X. Educación, Cultura y Deporte.
+X.- Asistencia Social.
 
-XI. Gestión Social.
+XI.- Educación, Cultura y Deporte.
 
-XII. Bomberos y Protección Civil.
+XII.- Gestión Social.
 
-XIII. Desarrollo Rural y Comunidades Indígenas.
+XIII.- Bomberos y Protección Civil.
 
-XIV. Equidad de Genero.
+XIV.- Desarrollo Rural y Comunidades Indígenas.
+
+XV.- Equidad de Género.
 
 COMISIÓN DE GOBERNACIÓN Y LEGISLACION
 
@@ -935,19 +937,33 @@ IV.- Las demás que el Cabildo les encomiende.
 
 COMISIÓN DE SALUD Y ASISTENCIA SOCIAL
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2009)</small>
+
 ###### ARTICULO 79.
 
-La Comisión de Desarrollo de Salud y Asistencia social tendrá las siguientes atribuciones:
+La comisión de Salud tendrá las siguientes atribuciones:
 
-I.- Dictaminar sobre proyectos de reglamentos, iniciativas de ley, decretos y disposiciones normativas de observancia general en materia de salud, asistencia social, recreación, cultura y bibliotecas;
+I.- Dictaminar sobre proyectos de reglamentos, iniciativas de ley, decretos y disposiciones normativas de observancia general en materia de salud;
 
-II.- Proponer al Cabildo políticas y medidas para obtener un mayor rendimiento de los recursos municipales aplicables a las materias señaladas en la fracción anterior, vigilando el cumplimiento de los programas correspondientes;
+II.- Proponer al Cabildo los mecanismos e instrumentos necesarios para el adecuado cumplimiento de las funciones, que como autoridad sanitaria le corresponde ejercer al Ayuntamiento, de acuerdo a los ordenamientos legales aplicables.
 
-III.- Proponer acciones tendentes a incentivar la participación y desarrollo integral de los habitantes del Municipio;
+III.- Las demás que el Ayuntamiento y este reglamento le encomienden.
 
-IV.- Supervisar que se apoye oportuna y adecuadamente a personas, grupos marginados, discapacitados y damnificados, con programas y recursos destinados a la asistencia social;
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2009)</small>
 
-V.- Las demás que el Cabildo le encomiende.
+COMISIÓN DE ASISTENCIA SOCIAL
+
+###### ARTICULO 79
+
+BIS.- La Comisión de Asistencia Social tendrá las siguientes atribuciones:
+
+I.- Dictaminar los proyectos de reglamentos, iniciativas de leyes o decretos, y disposiciones normativas de observancia general en materia de asistencia social;
+
+II.- Proponer al Cabildo políticas y medidas para optimizar los recursos municipales aplicables a las materias señaladas en la fracción anterior, vigilando el cumplimiento de los programas correspondientes.
+
+III.- Supervisar que se apoye oportuna y adecuadamente a personas, grupos marginados, discapacitados y damnificados, con programas y recursos destinados a la asistencia social; y
+
+IV.- Las demás que el Ayuntamiento y este reglamento le encomienden.
 
 COMISION DE EDUCACIÓN, CULTURA Y DEPORTE
 
@@ -1172,5 +1188,9 @@ P.O. 27 DE ENERO DE 2006.
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 2 DE MAYO DE 2008.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 30 DE ENERO DE 2009.
 
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
