@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-la-comision-de-administracion-del-61381"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-06-10"
-last_updated: "2008-06-10"
+last_updated: "2009-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61381&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-05-21"
 
 ACUERDO GENERAL DE LA COMISION DE ADMINISTRACION DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION POR EL QUE SE MODIFICAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ACUERDO NUMERO 025/S60 POR EL QUE SE ACTUALIZA LA INTEGRACION Y FUNCIONAMIENTO DEL COMITE DE ADQUISICIONES, ARRENDAMIENTOS, PRESTACION DE SERVICIOS Y OBRA PUBLICA DEL TRIBUNAL ELECTORAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO ESPECIFICO DE LA COMISION DE ADMINISTRACION DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION, QUE DETERMINA LAS INSTANCIAS Y SERVIDORES PUBLICOS FACULTADOS PARA APLICAR LAS DISPOSICIONES DEL ACUERDO GENERAL QUE ESTABLECE LAS BASES PARA QUE EN EL PODER JUDICIAL DE LA FEDERACION, LAS ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES, PRESTACION DE SERVICIOS, OBRA PUBLICA Y LOS SERVICIOS RELACIONADOS CON LA MISMA, SE AJUSTEN A LOS CRITERIOS CONTEMPLADOS EN EL ARTICULO 134 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE 30 DE ENERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 10 de junio de 2008.
 
@@ -126,3 +128,13 @@ SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 TERCERO. Se derogan en lo conducente todas las disposiciones. Acuerdos, lineamientos y manuales de organización y procedimientos que se opongan al presente Acuerdo.
 
 México, D.F., a 21 de mayo de dos mil ocho.- La Magistrada Presidenta, María del Carmen Alanis Figueroa.- Rúbrica.- Los Comisionados: Consejera Elvia Rosa Díaz de León D'Hers, Consejero Indalfer Infante Gonzales, Magistrado Constancio Carrasco Daza, Consejera María Teresa Herrera Tello.- Rúbricas.- El Secretario de la Comisión de Administración, Diego Gutiérrez Morales.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 30 DE ENERO DE 2009.
+
+PRIMERO.- El presente Acuerdo Específico entrará en vigor a partir del primero de febrero de dos mil nueve, debiéndose publicar con anticipación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abrogan los Acuerdos Generales 22-05E y 025/S60, y se derogan todas las disposiciones, acuerdos, lineamientos, manuales de organización y procedimientos que se contrapongan a este acuerdo.
+
+TERCERO.- Los procedimientos de adjudicación iniciados con anterioridad a la entrada en vigor del presente acuerdo, deberán seguirse conforme a las disposiciones vigentes al momento de su inicio.
