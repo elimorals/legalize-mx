@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2008-12-22"
+last_updated: "2009-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ENERO DE 2009.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -176,6 +176,40 @@ El Banco contará con un Comité de Información para los efectos de la Ley Fede
 > <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2008)</small>
 
 El Comité a que se refiere el párrafo anterior, será coordinado por el Director de Disposiciones de Banca Central, quien tendrá voto de calidad en caso de empate. Dicho Comité contará con un asesor permanente que será el Director de Sistemas y con una Secretaría que llevará la Dirección de Disposiciones de Banca Central.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2009)</small>
+
+Adicionalmente, el Banco contará con un Comité de Auditoría con las atribuciones que señala el artículo 30 Bis 1 del presente Reglamento, que estará integrado por dos miembros de la Junta de Gobierno que ésta designe, cargos que no podrán ocupar el Gobernador ni el Subgobernador que presida la Comisión de Responsabilidades, así como por un miembro independiente al Banco, designado igualmente por la Junta de Gobierno. Los integrantes del Comité no tendrán suplentes.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2009)</small>
+
+La Junta de Gobierno elegirá al presidente del Comité de Auditoría de entre los dos Subgobernadores que haya designado para integrarlo.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2009)</small>
+
+La designación del miembro independiente que integre el Comité de Auditoría, deberá recaer en un profesional que reúna los requisitos siguientes:
+
+I. Gozar de reconocida competencia en materia económica, financiera, contable o jurídica, que cuente con amplia experiencia como miembro de consejos de administración, de comités de auditoría, o que haya desempeñado funciones de auditoría o contraloría, en instituciones financieras de reconocido prestigio;
+
+II. Ser de reconocida probidad y contar con excelente reputación y honorabilidad, y
+
+III. No haber sido sentenciado por delitos intencionales; inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión, en el servicio público o en el sistema financiero mexicano.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2009)</small>
+
+El Comité de Auditoría deberá reunirse cuando menos tres veces al año. El Contralor, el Director de Auditoría y el auditor externo podrán asistir a las sesiones y contarán con voz, pero sin voto.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2009)</small>
+
+Con el propósito de dar seguimiento al desempeño de las funciones de auditoría interna y externa del Banco, el Presidente del Comité, deberá reunirse en sesiones privadas con el Contralor, el Director de Auditoría y el auditor externo.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2009)</small>
+
+El Comité de Auditoría podrá solicitar la contratación de expertos independientes que cuenten con prestigio profesional en auditoría, economía, finanzas, contabilidad, control interno o cualquier otra materia que estime conveniente el propio Comité.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2009)</small>
+
+Los honorarios del miembro independiente del Comité y de los expertos que en su caso se contraten, serán determinados por la propia Junta de Gobierno y sus servicios serán contratados por el Banco en los términos que ésta establezca. Las personas referidas deberán guardar confidencialidad de los asuntos e información que tengan conocimiento en el desempeño de sus funciones. Dicha obligación de confidencialidad, deberá quedar establecida en los contratos que al efecto se celebren.
 
 ###### ARTICULO 5o.
 
@@ -1275,6 +1309,38 @@ V. Desahogar las solicitudes planteadas al Banco de México en materia de confir
 
 VI. Supervisar la aplicación de los criterios para el manejo, mantenimiento, seguridad y protección de los datos personales que estén en posesión de las Unidades Administrativas del Banco.
 
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2009)</small>
+
+ARTICULO 30 BIS 1.- El Comité de Auditoría tendrá las atribuciones siguientes:
+
+I. Revisar el programa anual de auditoría interna que le presente el Contralor, previamente a su presentación a la Junta de Gobierno, con el propósito de solicitar ampliaciones al alcance o enfoque de dicho programa;
+
+II. Revisar el informe anual en materia de control interno en el Banco de México que le presente el Contralor, previamente a su presentación a la Junta de Gobierno;
+
+III. Solicitar al Contralor los reportes sobre el cumplimiento del programa anual de auditoría interna, con el objeto de verificar su avance;
+
+IV. Analizar los principales resultados y acciones derivadas de las observaciones y oportunidades de mejora detectadas por la Dirección de Auditoría, así como por el auditor externo;
+
+V. Coordinar reuniones con el Contralor y con el auditor externo con el objeto de dar seguimiento a las acciones derivadas de las observaciones detectadas por ambas instancias;
+
+VI. Requerir a las unidades administrativas auditadas, informes respecto de la atención y seguimiento de los hallazgos y recomendaciones comunicadas por los auditores internos y externo;
+
+VII. Analizar los reportes que en materia de control interno le presente el Contralor y proponer recomendaciones a la Junta de Gobierno en dicha materia;
+
+VIII. Dar su opinión sobre los asuntos relevantes o hallazgos, producto de las auditorías interna y externa, así como de los informes de los expertos independientes que en su caso se hubieren contratado en el transcurso del año;
+
+IX. Revisar el informe que en cada sesión le presente el Contralor sobre los incumplimientos a cualquier disposición legal, reglamentaria, administrativa, acuerdos de la Junta de Gobierno del Banco de México, o resoluciones de los comités creados por el Gobernador o por la propia Junta de Gobierno en que incurran las unidades administrativas;
+
+X. Presentar un informe anual a la Junta de Gobierno sobre los acuerdos adoptados por el Comité, así como del avance en el cumplimiento del programa anual de auditoría interna y de los principales resultados de las auditorías internas y externas;
+
+XI. Conocer la información relacionada con las operaciones del Banco que sean objeto de auditoría;
+
+XII. Elaborar y expedir las reglas necesarias para su operación;
+
+XIII. Nombrar y remover a su secretario, quien deberá ser un funcionario adscrito a la unidad administrativa del Contralor, y
+
+XIV. Realizar cualquier otra actividad complementaria o conexa a las anteriores.
+
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 31.
@@ -1790,3 +1856,7 @@ Las referencias a la Dirección de Estrategia, contenidas en cualquier otro inst
 D.O.F. 22 DE DICIEMBRE DE 2008.
 
 UNICO. La presente reforma al Reglamento Interior del Banco de México, entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE ENERO DE 2009.
+
+UNICO. Las presentes adiciones al Reglamento Interior del Banco de México, entrarán en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
