@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-regularizar-la-titulacion-de-predios-urbanos-y-56790"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-31"
-last_updated: "2007-08-31"
+last_updated: "2009-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY PARA REGULARIZAR LA TITULACION DE PREDIOS URBANOS Y SEMIURBANOS EN EL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA REGULARIZAR PREDIOS URBANOS Y SEMIURBANOS DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 30 DE ENERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de agosto de 2007.
 
@@ -180,3 +182,15 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA LEY.</small>
+
+P.O. 30 DE ENERO DE 2009.
+
+Artículo Primero. La vigencia de la presente Ley iniciará al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado y concluirá el día 30 de septiembre del año 2009.
+
+Artículo Segundo. Las solicitudes que se encontraren pendientes de tramitación y resolución al concluir la vigencia de la presente Ley, serán tramitadas hasta su conclusión en los términos de la misma.
+
+Artículo Tercero. Durante el tiempo de vigencia de la presente Ley, se dejan en suspenso todas aquellas disposiciones del Código Civil y del Código de Procedimientos Civiles ambos del Estado de Querétaro, que se opongan a ella, sólo por cuanto ve a la materia que regula el presente ordenamiento legal, recobrando su vigencia al finalizar la de la presente Ley.
+
+Artículo Cuarto. Se abroga la Ley para Regularizar la Titulación de Predios Urbanos y Semiurbanos en el Estado de Querétaro, publicada el treinta y uno de agosto de dos mil siete, en el Periódico Oficial del Gobierno del Estado.
