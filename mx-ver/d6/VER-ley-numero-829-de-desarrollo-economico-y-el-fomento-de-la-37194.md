@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-829-de-desarrollo-economico-y-el-fomento-de-la-37194
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-13"
-last_updated: "2004-02-13"
+last_updated: "2009-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37194&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY NUMERO 829 DE DESARROLLO ECONOMICO Y EL FOMENTO DE LA INVERSION DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 528 DE FOMENTO ECONOMICO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 30 DE ENERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el viernes 13 de febrero de 2004.
 
@@ -1014,3 +1016,13 @@ Atentamente
 Sufragio efectivo. No reelección
 
 Licenciado Miguel Alemán Velazco, Gobernador del Estado.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA LEY.</small>
+
+G.O. 30 DE ENERO DE 2009.
+
+Artículo primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se abroga la Ley 829 de Desarrollo Económico y el Fomento de la Inversión del Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del estado número 32 del 13 de febrero de 2004.
+
+Artículo tercero. Se derogan todas las disposiciones que se opongan a la presente Ley.
