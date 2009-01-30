@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-tribunal-de-lo-contencioso-administrativo-del-3347"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-31"
-last_updated: "2007-08-10"
+last_updated: "2009-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3347&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el martes 31 de enero de 1989.
 
@@ -329,11 +329,15 @@ V.- Los que versen sobre pensiones y jubilaciones, a cargo del Instituto de Segu
 
 VI.- Los dictados conforme a otras leyes que le otorguen competencia al Tribunal de lo Contencioso Administrativo del Estado;
 
-VII.- Los de carácter administrativo y fiscal favorables a los particulares, emanados de las Autoridades Estatales, Municipales o de sus Organismos Descentralizados, cuando dichas autoridades promuevan su nulidad.
+VII.- Los de carácter administrativo y fiscal favorables a los particulares, emanados de las Autoridades Estatales, Municipales o de sus Organismos Descentralizados, cuando dichas autoridades promuevan su nulidad;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE AGOSTO DE 2005)</small>
 
-VIII.- Los que se emitan en materia de acceso a la información pública, atendiendo lo previsto por la fracción VII del artículo 17 de esta Ley.
+VIII.- Los que se emitan en materia de acceso a la información pública, atendiendo lo previsto por la fracción VII del artículo 17 de esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ENERO DE 2009)</small>
+
+IX.- Las que se susciten entre los Miembros de las Instituciones Policiales del Estado de Baja California y las Dependencias de la Administración Pública Centralizada Estatal o Municipal, con motivo de la prestación de sus servicios.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
 
@@ -735,7 +739,7 @@ Las autoridades podrán deducir la acción de lesividad de sus actos y resolucio
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE AGOSTO DE 2007)</small>
 
-Cuando se trate de créditos fiscales que no rebasen los cien salarios mínimos o multas indeterminadas, podrá presentarse la demanda a través de formatos apropiados y gratuitos para que el interesado sólo llene los espacios en blanco, pudiendo operar en estos casos la suplencia de la queja, así mismo se tendrá como excepción hecha a la representación a que hace referencia el articulo 33 de esta ley, que en este caso el interesado podrá optar ser representado por el profesionista señalado o por persona de su confianza la cual tendrá las mismas facultades.
+Cuando se trate de créditos fiscales que no rebasen los cien salarios mínimos o multas indeterminadas, podrá presentarse la demanda a través de formatos apropiados y gratuitos para que el interesado solo llene los espacios en blanco, pudiendo operar en estos casos la suplencia de la queja, así mismo se tendrá como excepción hecha a la representación a que hace referencia el articulo 33 de esta ley, que en este caso el interesado podrá optar ser representado por el profesionista señalado o por persona de su confianza la cual tendrá las mismas facultades.
 
 ###### ARTICULO 46.
 
@@ -1360,3 +1364,7 @@ SEGUNDO: El Tribunal de lo Contencioso Administrativo solicitará en los términ
 TERCERO: El procedimiento y condiciones de ratificación de los actuales magistrados, se realizará conforme a las presentes reformas, inclusive si es magistrado saliente.
 
 CUARTO: Se derogan todas aquellas disposiciones que se opongan a la presente reforma.
+
+P.O. 30 DE ENERO DE 2009.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
