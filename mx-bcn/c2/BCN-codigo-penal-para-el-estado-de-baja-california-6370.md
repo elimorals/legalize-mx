@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2008-12-26"
+last_updated: "2009-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2009.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1725,7 +1725,7 @@ QUERELLA: El delito de revelación de secreto se perseguirá por querella de la 
 
 ### CAPITULO II. DELITO DE ABIGEATO
 
-> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2009)</small>
 
 ## TITULO CUARTO. DELITOS CONTRA LA LIBERTAD Y SEGURIDAD SEXUAL DE LAS PERSONAS
 
@@ -2169,9 +2169,11 @@ Si el robo del vehículo se ejecutare con violencia, a la pena impuesta se le ag
 
 ###### Artículo 209.
 
-Tipo y punibilidad.- Al que se apodere de una o más cabezas de ganado, cualquiera que sea su especie, en el medio rural, sin el consentimiento de quien legalmente pueda disponer de las mismas, se le impondrá prisión de uno a ocho años y hasta trescientos días multa.
+Tipo y punibilidad.- Al que se apodere de una o más cabezas de ganado, cualquiera que sea su especie, sin el consentimiento de quien legalmente pueda disponer de las mismas, se le impondrá prisión de uno a ocho años y hasta trescientos días multa.
 
-Cuando se ejecute en el medio rural, se le impondrá de tres a doce años y trescientos a quinientos días multa.
+Cuando el abigeato, se ejecute en el medio rural, se le impondrá de tres a doce años y trescientos a quinientos días multa.
+
+Se equipara al abigeato y se impondrán las penas previstas en este artículo, a quien se apodere de dos o más colmenas.
 
 ###### Artículo 210.
 
@@ -4516,3 +4518,9 @@ P.O. 31 DE OCTUBRE DE 2008.
 P.O. 26 DE DICIEMBRE DE 2008.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación, en el Periódico Oficial del Estado.
+
+P.O. 30 DE ENERO DE 2009.
+
+###### ARTICULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
