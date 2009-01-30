@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-las-entidades-paramunicipales-del-municipio-35967
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-19"
-last_updated: "2008-08-01"
+last_updated: "2009-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LAS ENTIDADES PARAMUNICIPALES DEL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2009.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de diciembre de 2003.
 
@@ -59,7 +59,9 @@ Las entidades paramunicipales, como auxiliares de la Administración Pública Mu
 
 Para los efectos de este Reglamento se entenderá por:
 
-I. Entidades Paramunicipales.- A los organismos descentralizados, las empresas de participación municipal y los fideicomisos públicos de conformidad a lo establecido en los Artículos 5, 10, 11, 12 y al artículo Transitorio Sexto del Reglamento de la Administración Pública del Ayuntamiento de Tijuana;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
+
+I. Entidades Paramunicipales.- A los organismos descentralizados, las empresas de participación municipal y los fideicomisos públicos de conformidad a lo establecido en los Artículos 5, 10, 11, 12 del Reglamento de la Administración Pública del Ayuntamiento de Tijuana;
 
 II. Órgano de Gobierno.- A las Juntas de Gobierno, Juntas Directivas, Consejos de Administración y Comités Técnicos que sean considerados los órganos jerárquicos superiores de las Entidades Paramunicipales;
 
@@ -165,7 +167,9 @@ I. El Presidente Municipal, quien presidirá la Junta de Gobierno;
 
 II. El Regidor Presidente de la Comisión de Planeación del Desarrollo Municipal;
 
-III. El Regidor Presidente de la Comisión de Desarrollo Urbano y Control Ecológico;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
+
+III. El Presidente de la Comisión de Desarrollo Urbano y Medio Ambiente;
 
 IV. Regidor Presidente de la Comisión de Obras y Servicios Públicos;
 
@@ -691,9 +695,11 @@ Lo dispuesto en el párrafo anterior, se aplicará sin perjuicio de la responsab
 
 T R A N S I T O R I O S
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2009)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-La presente ley (sic) entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -736,3 +742,11 @@ SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMI
 SEGUNDO.- Las presentes reformas entran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California, órgano de difusión del Gobierno del Estado.
 
 TERCERO.- Se derogan todas aquellas disposiciones normativas y reglamentarias derivadas de acuerdos y reglamentos que se opongan a las presentes disposiciones legales.
+
+P.O. 30 DE ENERO DE 2009.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+CUARTO. El presente acuerdo, entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial del Estado de Baja California, de conformidad con el artículo 18, de la Ley del Régimen Municipal para el Estado de Baja California.
+
+QUINTO. Se derogan todas aquellas disposiciones normativas y reglamentarias derivadas de acuerdos y reglamentos que se opongan a las presentes disposiciones legales.
