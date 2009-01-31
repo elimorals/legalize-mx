@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-vialidad-y-transito-del-municipio-de-juarez-54294
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-03"
-last_updated: "2009-01-17"
+last_updated: "2009-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO DE VIALIDAD Y TRANSITO DEL MUNICIPIO DE JUAREZ, ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 2009.
 
 Reglamento publicado en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 3 de febrero de 2007.
 
@@ -553,9 +553,15 @@ Los vehículos que transiten por las vías públicas municipales, deberán conta
 
 Tratándose del servicio público de transporte colectivo de pasajeros, de taxis y demás autorizados a prestar este tipo de servicio, deberán contar con póliza de seguro para garantizar daños a terceros en sus bienes y en sus personas, así como garantizar la cobertura de los daños a los usuarios del servicio.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2009)</small>
+
 ###### Artículo 38.
 
-Las ventanas de los vehículos podrán polarizarse, con un grado de oscuridad de hasta un treinta y tres por ciento, de manera tal, que no impidan la visibilidad del conductor hacia el exterior, ni tampoco se impida la visibilidad hacia el interior del vehículo. Excepto el vidrio delantero el cual solo podrá polarizarse en una franja horizontal en su parte superior de diez centímetros de ancho.
+El vidrio parabrisas de los vehículos, solo podrá polarizarse en una franja horizontal en su parte superior de hasta trece centímetros de ancho.
+
+Las ventanas laterales frontales de los vehículos, así como la franja superior a que se refiere el párrafo anterior, podrán polarizarse con un grado de oscuridad de hasta treinta y tres por ciento, y las restantes ventanas podrán polarizarse con un grado de oscuridad de hasta sesenta y seis por ciento, de manera tal, que no se impida la visibilidad del conductor hacia el exterior, ni tampoco se impida la visibilidad hacia el interior del vehículo, en cualquier caso.
+
+Por su parte el medallón o vidrio trasero del vehículo, podrá polarizarse con un grado de oscuridad de hasta sesenta y seis por ciento, siempre que el vehículo cuente con retrovisores laterales en ambos lados, de lo contrario solo podrá polarizarse con un grado de oscuridad de hasta treinta y tres por ciento.
 
 ###### Artículo 39.
 
@@ -949,9 +955,11 @@ IV. La falta del engomado ecológico.
 
 Los vehículos podrán circular sin placas, únicamente cuando la autoridad correspondiente expida un permiso provisional, en los casos y bajo el procedimiento que determine la reglamentación aplicable.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2009)</small>
+
 ###### Artículo 64.
 
-Las placas metálicas oficiales, no deberán remacharse o soldarse al vehículo, los engomados de estas o los engomados de identificación vehicular y ecológicos deberán mantenerse libres de objetos, distintivos, rótulos o dobleces que impidan su legibilidad.
+Artículo 64.- Las placas metálicas oficiales, podrán asegurarse al vehículo, siempre que no se impida su visibilidad y legibilidad; así mismo, los engomados de éstas o los engomados de identificación vehicular y ecológicos deberán mantenerse libres de objetos, distintivos, rótulos o dobleces que impidan su legibilidad.
 
 ###### Artículo 65.
 
@@ -1023,7 +1031,9 @@ XVIII. Someterse a la realización del examen de alcoholemia, diagnóstico y cer
 
 XIX. Reducir la velocidad ante cualquier concentración de peatones y/o vehículos;
 
-XX. No conducir operando o accionando teléfonos celulares o cualquier otro aparato mecánico o eléctrico, mientras los vehículos se encuentren en movimiento;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2009)</small>
+
+XX. No conducir operando o accionando teléfonos celulares o cualquier otro aparato electrónico, eléctrico o mecánico, que ocasione distracción al conducir, salvo que se utilicen los accesorios necesarios que permitan el libre uso de las manos para tales efectos, y no obstruyan la visibilidad;
 
 XXI. No conducir zigzagueando;
 
@@ -1921,6 +1931,10 @@ V. Una vez proporcionados los documentos, se procederá a infraccionar al conduc
 
 VI. Como garantía de que el infractor se presentará a pagar el importe de la multa impuesta, se procederá a recoger alguno de los documentos proporcionados, en el orden que a continuación se menciona: licencia de conducir, tarjeta de circulación o una placa. Independientemente de la garantía otorgada por el infractor, el vehículo responderá preferentemente por los créditos fiscales que se generen con motivo de las multas impuestas que hayan quedado firmes;
 
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2009)</small>
+
+En caso de que el infractor demuestre a satisfacción de la autoridad, que reside en esta ciudad, no será necesario recoger ningún documento de los que se señalan;
+
 VII. Finalmente, el agente que conozca del asunto, notificará al presunto infractor por medio de boleta que deberá estar fundada y motivada, que cuenta con un término de tres días hábiles para que acuda y sea escuchado en audiencia por el Oficial Calificador, teniéndose por ciertos los motivos de infracción plasmados en el documento, en caso de no comparecer sin causa justificada dentro del término señalado para tal efecto, a cualquiera de las audiencias a que fuere citado.
 
 Para que las boletas de infracciones de tránsito sean válidas, se requiere además que contengan:
@@ -1943,9 +1957,11 @@ Cuando el conductor haya cometido alguna infracción a este Reglamento y no se e
 
 Así mismo cuando el conductor no se detenga o se de a la fuga, el agente de tránsito llenará la boleta correspondiente debiendo hacer entrega de la copia destinada al infractor, a la autoridad Municipal que corresponda para que proceda a citar al propietario para que realice el pago de la multa correspondiente. Si el infractor se da a la fuga dejando el vehículo en la vía pública, se procederá de inmediato a trasladarlo al corralón correspondiente.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2009)</small>
+
 ###### Artículo 160.
 
-El agente de tránsito podrá utilizar en el desempeño de su función todas las herramientas, accesorios y demás adelantos aportados por la ciencia, que no le estén prohibidos por la ley, y que por la naturaleza de su uso le ayuden a detectar la comisión de una infracción al presente Reglamento.
+La corporación de tránsito podrá utilizar en el desempeño de sus funciones, todas las herramientas, accesorios y demás adelantos que no estén prohibidos por la Ley, y que por la naturaleza de su uso, auxilien a detectar la comisión de infracciones al presente Reglamento.
 
 ###### Artículo 161.
 
@@ -2124,3 +2140,7 @@ P.O. 1 DE DICIEMBRE DE 2007.
 P.O. 17 DE ENERO DE 2009.
 
 ÚNICO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
+
+P.O. 31 DE ENERO DE 2009.
+
+ÚNICO.- Las reformas y adiciones contenidas en el presente acuerdo, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
