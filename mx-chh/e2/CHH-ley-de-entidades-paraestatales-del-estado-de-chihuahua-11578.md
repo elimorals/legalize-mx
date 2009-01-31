@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-entidades-paraestatales-del-estado-de-chihuahua-11578"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-28"
-last_updated: "2007-09-12"
+last_updated: "2009-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 2009.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 28 de enero de 1998.
 
@@ -209,7 +209,9 @@ El coordinador general será designado por el Gobernador Constitucional del Esta
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
-II. Haber desempeñado cargos de decisión afines cuyo ejercicio requiera conocimientos y experiencia en materia administrativa; y,
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2009)</small>
+
+II. Haber desempeñado cargos de decisión afines cuyo ejercicio requiera conocimientos y experiencia en materia administrativa, sin perjuicio de recibir un curso de introducción y capacitación técnica sobre la materia que ocupe al organismo descentralizado, y que programará la dependencia coordinadora del sector; y,
 
 III. No encontrarse en alguno de los impedimentos que para ser miembro del órgano de gobierno señalan las fracciones II a VI del artículo 18 de esta ley.
 
@@ -772,3 +774,9 @@ En los ordenamientos jurídicos estatales que refieran la existencia de la Comis
 ###### ARTÍCULO CUARTO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE ENERO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entraré en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
