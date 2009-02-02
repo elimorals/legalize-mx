@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-estado-de-aguascalientes-10055"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-01"
-last_updated: "2008-12-31"
+last_updated: "2009-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 2009.
 
 Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de enero de 1984.
 
@@ -815,13 +815,9 @@ del limite inferior %
 
 253,043.49 En adelante 19,418.69 16.8
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2009)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-ARTICULO 36 J.- Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctricos, que además cuenten con motor de combustión interna nuevos, el impuesto será la cantidad que resulte de aplicar al valor total del automóvil el 0.16%.
-
-Para los efectos de este Articulo, el impuesto únicamente será aplicable a aquellas unidades que para su circulación requieran de placas y tarjeta de circulación expedidas por la autoridad estatal.
+ARTICULO 36 J.- Tratándose de automóviles eléctricos, así como de aquellos eléctricos, que además cuenten con motor de combustión interna, el impuesto se pagará a la tasa del 0%.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1887,8 +1883,14 @@ La reforma al Artículo 33, de la Ley de Hacienda del Estado de Aguascalientes, 
 
 ###### ARTÍCULO SEGUNDO.
 
-La adición del Apartado B denominado "Del Impuesto Sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 Años Modelo Anterior", con las Secciones: Primera "De los Sujetos", Segunda "Del Objeto", Tercera "De la Base", Cuarta "Del Pago", Quinta "De la Responsabilidad Solidaria", y Sexta "De las Exenciones", con los Artículos 36 A, 36 B, 36 C, 36 D, 36 E, 36 F, 36 G, 36 H, 36 I,36 J, 36 K, 36 L, 36 M, 36 N, 36 O Y 36 P, del Capitulo III del Titulo Segundo de la Ley de Hacienda del Estado de Aguascalientes, entrará en vigencia una vez que se apruebe la derogación del Impuesto Sobre Tenencia o Uso de Vehículos, por parte del Congreso de la Unión.
+(DEROGADO, P.O. 2 DE FEBRERO DE 2009)
 
 ###### ARTÍCULO TERCERO.
 
 Durante el ejercicio comprendido entre el 1° de enero al 31 de diciembre del año 2009, para los efectos de los Artículos 36 M Y 36 N de esta Ley se considerará como impuesto causado en el ejercicio inmediato anterior, el que se hubiere causado de conformidad con la Ley del Impuesto sobre Tenencia y Uso de Vehículos federal, vigente en el ejercicio fiscal comprendido entre el 1° de enero al 31 de diciembre del año 2008.
+
+P.O. 2 DE FEBRERO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
