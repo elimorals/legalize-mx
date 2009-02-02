@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-servicio-profesional-estatal-electoral-del-35846
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-12"
-last_updated: "2004-01-12"
+last_updated: "2009-02-02"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "AGU"
 
 REGLAMENTO DEL SERVICIO PROFESIONAL ESTATAL ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DEL SERVICIO PROFESIONAL ESTATAL ELECTORAL, PUBLICADO EN EL P.O. DE 2 DE FEBRERO DE 2009, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: SIN EFECTOS.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de enero de 2004.
 
@@ -1875,3 +1877,19 @@ Artículo Cuarto: Respecto del Catálogo General de Cargos y Puestos, éste ser�
 Artículo Quinto: El presente Reglamento entrará en vigor al día siguiente de su publicación en los estrados del Instituto Estatal Electoral.
 
 Artículo Sexto: El presente Reglamento se publicará en el Periódico Oficial del Estado, a efecto de otorgarle publicidad.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 2 DE FEBRERO DE 2009.
+
+Artículo Primero: Con el presente Reglamento se deja sin efecto el que fuera publicado en el Periódico Oficial del Estado con fecha 12 de enero de 2004.
+
+Artículo Segundo: El presente Reglamento entrará en vigor una vez que sea aprobado por el Consejo General del Instituto Estatal Electoral.
+
+Artículo Tercero: El presente Reglamento tiene como objetivo incorporar a todo el personal del Instituto con plaza, al Servicio Profesional Estatal Electoral, respetando en todo momento los derechos adquiridos por su antigüedad y permanencia en el empleo, aún cuando exista renovación de los miembros del Consejo General. Para gozar de los beneficios que otorga el Servicio Profesional Estatal Electoral tendrá que solicitar su ingreso y cumplir con los requisitos que establece el presente Reglamento para su titularidad. La solicitud de ingreso al Servicio Profesional deberá realizarla dentro de los dos meses siguientes a partir de la aprobación del presente Reglamento.
+
+Artículo Cuarto: Las personas que contaban con plazas antes de ocupar sus cargos como Directores y Secretario Técnico una vez que concluyan su gestión, podrán solicitar incorporarse al Servicio Profesional en un área de la función directiva para una plaza que se encuentre en el catálogo de puestos y cumplir con los requisitos que establece el presente Reglamento.
+
+Artículo Quinto: La Comisión dentro del plazo de dos meses contado a partir de la de la (sic) aprobación del presente Reglamento, emitirá el catálogo de puestos, los manuales y políticas de procedimientos que concreten la operación del sistema del Servicio Profesional.
+
+Artículo Sexto: El presente Reglamento será publicado en los estrados del Instituto Estatal Electoral y en el Periódico Oficial a efecto de otorgarle publicidad.
