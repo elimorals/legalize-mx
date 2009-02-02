@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-deuda-publica-del-estado-de-aguascalientes-11767"
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-10"
-last_updated: "2007-06-25"
+last_updated: "2009-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 10 de noviembre de 1996.
 
@@ -245,7 +245,9 @@ I.- Aplicar y regular el debido cumplimiento de esta Ley de conformidad con lo d
 
 II.- Incluir en las Leyes de Ingresos y Presupuesto de Egresos que se sometan a la H. Legislatura, el monto estimado del Programa de Financiamiento Neto necesario para cubrir los requerimientos del ejercicio fiscal correspondiente, el monto de los intereses aplicables se incluirá en el Presupuesto de Egresos correspondiente bajo el rubro de Servicios de Deuda Pública;
 
-III.- Informar bimestralmente a la H. Legislatura y publicar en el Periódico Oficial del Estado la situación de la Deuda Pública Estatal, sin perjuicio de las facultades de la Comisión de Vigilancia del Congreso del Estado de poder solicitar informes en cualquier tiempo;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2009)</small>
+
+III.- Informar bimestralmente a la H. Legislatura y publicar en el Periódico Oficial del Estado, la situación de la Deuda Pública Estatal, precisando los montos destinados a los Capítulos de gasto señalados en el Artículo 19 A de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Aguascalientes, así como con quién se encuentra contratada, sin perjuicio de las facultades de la Comisión de Vigilancia del Congreso del Estado de poder solicitar informes en cualquier tiempo;
 
 IV.- Solicitar a la H. Legislatura la aprobación de montos adicionales al Programa de Financiamiento Neto, cuando se presenten circunstancias extraordinarias que así lo requieran, debiendo dar cuenta de la contratación de los mismos en los informes a que se refiere la fracción III de este artículo;
 
@@ -568,3 +570,9 @@ El presente Decreto tendrá vigencia a partir del día siguiente de su publicaci
 El Titular del Poder Ejecutivo del Estado deberá publicar el Reglamento de la Ley de Proyectos de Prestación de Servicios del Estado de Aguascalientes en un plazo que no deberá exceder de 90 días contados a partir de la fecha de su publicación.
 
 Por lo que respecta a los Poderes Legislativo, Judicial y los Municipios, aplicarán dicho Reglamento en lo que no se oponga a los ordenamientos legales que los regulan, sujetándose a sus propios Órganos de control.
+
+P.O. 2 DE FEBRERO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
