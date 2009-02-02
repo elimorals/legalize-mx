@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-instituto-de-transparencia-del-53817"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-01-29"
-last_updated: "2007-07-30"
+last_updated: "2009-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 2009.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 29 de enero de 2007.
 
@@ -83,11 +83,13 @@ El Instituto se regirá para su organización y funcionamiento por las disposici
 
 ### CAPITULO PRIMERO. De la Estructura y Organización del Instituto
 
-###### Artículo 6°.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2009)</small>
+
+###### Articulo 6°.
 
 Para el ejercicio de sus atribuciones y el despacho de los asuntos que le competen, el Instituto contará con la siguiente estructura:
 
-l. El Pleno;
+I. El Pleno;
 
 II. El Presidente;
 
@@ -95,15 +97,13 @@ III. Los Comisionados;
 
 IV. El Secretario Ejecutivo;
 
-> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2007)</small>
-
 V. El Secretario de Acuerdos;
 
-VI. Las Direcciones de Difusión, Jurídica y Desarrollo Normativo, Informática así como la de Administración y Finanzas; y
+VI. Las Direcciones de Difusión, Jurídica y Desarrollo Normativo, Informática así como la de Administración y Finanzas;
 
-> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2007)</small>
+VII. El Notificador; y
 
-VII. El Notificador.
+VIII. Los asesores y auxiliares que para cada área del Instituto se requieran, debido al cumplimiento de las funciones naturales de cada una de ellas, cuando la disponibilidad presupuestal lo permita y se cumpla con lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes.
 
 ### CAPITULO SEGUNDO. Del Pleno
 
@@ -760,3 +760,7 @@ Lic. Jorge Alejandro Doring Zuazo, COMISIONADO CIUDADANO.
 P.O. 30 DE JULIO DE 2007.
 
 Articulo Único. Las presentes adiciones y reformas al Reglamento Interior, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE FEBRERO DE 2009.
+
+Artículo Único. La presente adición al Reglamento Interior, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
