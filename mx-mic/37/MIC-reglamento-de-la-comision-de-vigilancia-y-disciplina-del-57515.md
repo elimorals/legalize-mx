@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-comision-de-vigilancia-y-disciplina-del-57515"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-07"
-last_updated: "2007-11-07"
+last_updated: "2009-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO DE LA COMISION DE VIGILANCIA Y DISCIPLINA DEL CONSEJO DEL PODER JUDICIAL DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 2009.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el miércoles 7 de noviembre de 2007.
 
@@ -389,6 +389,12 @@ Será desechada la queja o denuncia que no reúna los requisitos de las fraccion
 
 Si la queja o denuncia no cumple con el requisito de la fracción II, las notificaciones respectivas correrán por lista.
 
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2009)</small>
+
+###### Artículo 38 Bis.
+
+Una vez turnada la queja a la Presidencia de la Comisión de Vigilancia y Disciplina, ésta enviará una copia del escrito inicial y sus anexos al servidor público señalado como responsable, para que en un término de cinco días hábiles contados a partir de la recepción de tales documentos, rinda su informe justificado. En dicho informe, los servidores públicos deberán, además de cumplir con lo previsto por las fracciones I y II del artículo 161 de la Ley Orgánica, señalar domicilio para oír y recibir notificaciones en el lugar sede del Consejo, y en su caso, el nombre de la persona o personas autorizadas para recibirlas; de no hacerlo, las notificaciones respectivas correrán por lista. De igual manera será para quienes omitan rendir en tiempo el informe a que se hace alusión.
+
 ###### Artículo 39.
 
 Dentro del procedimiento administrativo de responsabilidad, la Comisión propondrá al Consejo que se aplique sanción a los Servidores Públicos cuando se acredite cualquiera de las causas contenidas en el Capítulo Segundo del Título Octavo de la Ley Orgánica. Lo anterior, con independencia de las sanciones laborales o penales que pudieran resultar.
@@ -490,3 +496,11 @@ Artículo Tercero. Lo no previsto en este Reglamento será normado mediante acue
 Artículo Cuarto. Por esta única ocasión, el informe anual previsto en la fracción XIII del artículo 17 de este Reglamento, lo rendirá el Presidente de la Comisión por el periodo del mes de mayo a diciembre, en la última sesión que celebre el Consejo correspondiente al año 2007.
 
 El licenciado FLORENTINO ESPINOZA LÓPEZ, Secretario Ejecutivo del Consejo del Poder Judicial del Estado, CERTIFICA: Que este Reglamento de la Comisión de Vigilancia y Disciplina del Consejo del Poder Judicial del Estado, que tiene por objeto regular su organización y funcionamiento, fue aprobado en sesión del 17 diecisiete de octubre del 2007 dos mil siete, por unanimidad de votos de los Consejeros: Magistrado Presidente M. en D. Fernando Arreola Vega, Lic. María de los Ángeles Ruciles Gracián, Lic. Margarita Leal Torres, Lic. Marco Antonio Flores Negrete y Lic. J. Jesús Sierra Arias. Morelia, Michoacán; a 5 cinco de noviembre del 2007 dos mil siete.- Doy fe.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 2 DE FEBRERO DE 2009.
+
+PRIMERO. Publíquese la presente adición en el Periódico Oficial del Estado y en el Sistema Morelos de Informática Judicial.
+
+SEGUNDO. La presente adición entrará en vigor al día siguiente hábil de su publicación en el Periódico Oficial del Estado.
