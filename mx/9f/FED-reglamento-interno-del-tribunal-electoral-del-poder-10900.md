@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-del-tribunal-electoral-del-poder-10900"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-06-16"
-last_updated: "1997-06-16"
+last_updated: "2009-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10900&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1997-06-04"
 
 REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE FEBRERO DE 2009.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 16 de junio de 1997.
 
@@ -143,15 +143,19 @@ XIV. Dictar y poner en práctica, en el ámbito de las atribuciones que le estab
 
 XV. Vigilar el buen desempeño y funcionamiento de los órganos del Tribunal Electoral;
 
-XVI. Supervisar que las publicaciones que contengan la jurisprudencia, criterios relevantes y criterios relacionados, se realicen con oportunidad y llevar a cabo todas aquellas tareas que sean necesarias para la adecuada distribución y difusión de las tesis y jurisprudencias que hubieran emitido las Salas del Tribunal Electoral;
+> <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2009)</small>
 
-XVII. Vigilar, en el ámbito de su competencia, la expedición de los manuales o instructivos que sean necesarios para el correcto funcionamiento del Tribunal Electoral;
+XVI. Supervisar el cumplimiento de la política académica y editorial del Tribunal Electoral;
 
-XVIII. Vigilar el funcionamiento de los Comités o Comisiones constituidos por la Sala Superior;
+XVII. Supervisar que las publicaciones que contengan la jurisprudencia, criterios relevantes y criterios relacionados, se realicen con oportunidad y llevar a cabo todas aquellas tareas que sean necesarias para la adecuada distribución y difusión de las tesis y jurisprudencias que hubieran emitido las Salas del Tribunal Electoral;
 
-XIX. Suscribir los nombramientos del personal del Tribunal Electoral, y
+XVIII. Vigilar, en el ámbito de su competencia, la expedición de los manuales o instructivos que sean necesarios para el correcto funcionamiento del Tribunal Electoral;
 
-XX. Las demás que le confieran las disposiciones aplicables y este Reglamento.
+XIX. Vigilar el funcionamiento de los Comités o Comisiones constituidos por la Sala Superior;
+
+XX. Suscribir los nombramientos del personal del Tribunal Electoral, y
+
+XXI. Las demás que le confieran las disposiciones aplicables y este Reglamento.
 
 ### Capítulo III. De las Salas Regionales
 
@@ -553,31 +557,29 @@ ARTICULO 29
 
 La Comisión de Administración velará, en todo momento y en el ámbito de su competencia, por la autonomía del Tribunal Electoral y por la independencia e imparcialidad de sus miembros.
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2009)</small>
+
 ARTICULO 30
 
-La Comisión de Administración contará con una Secretaría Administrativa y los siguientes órganos auxiliares: Delegados administrativos, la Contraloría Interna y el Centro de Capacitación Judicial Electoral.
+La Comisión de Administración contará con una Secretaría Administrativa y los siguientes órganos auxiliares: la Contraloría Interna, el Centro de Capacitación Judicial Electoral y Delegados Administrativos.
 
 Los órganos auxiliares contarán con el personal necesario para el adecuado desempeño de sus funciones, de conformidad con el presupuesto autorizado.
 
-Los titulares de los órganos auxiliares de la Comisión de Administración, a excepción de lo previsto en el artículo 48, deberán cumplir con los siguientes requisitos:
+Los titulares de los órganos auxiliares de la Comisión de Administración deberán cumplir con los siguientes requisitos:
 
 I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
 II. Contar con credencial para votar con fotografía;
 
-III. Tener por lo menos 30 años de edad al momento de la designación;
+III. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; así como no haber sido sancionado con inhabilitación temporal para desempeñar algún empleo o cargo o haber sido destituido del mismo, como consecuencia de una sanción de carácter administrativo por conductas graves;
 
-IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+IV. Contar con título profesional en el área de su especialidad, expedido legalmente con una antigüedad mínima de cinco años;
 
-Así como no haber sido sancionado con inhabilitación temporal para desempeñar algún empleo o cargo o haber sido destituido del mismo, como consecuencia de una sanción de carácter administrativo por conductas graves;
+V. No desempeñar ni haber desempeñado el cargo de Presidente o cargo de dirección en algún Comité Ejecutivo Nacional, Estatal, Distrital o Municipal, de un partido político o agrupación política, en los tres años inmediatos anteriores a la designación;
 
-V. Contar con título profesional en el área de su especialidad, expedido legalmente con una antigüedad mínima de cinco años;
+VI. No haber ocupado un cargo de elección popular, ni haber sido registrado como candidato para ello, en los últimos tres años, y
 
-VI. No desempeñar ni haber desempeñado el cargo de Presidente o de Dirección en algún Comité Ejecutivo Nacional, Estatal, Distrital, Municipal o equivalente, de un partido político o agrupación política, en los últimos seis años;
-
-VII. No haber ocupado un cargo de elección popular, ni haber sido registrado como candidato para ello, en los últimos seis años, y
-
-VIII. Contar, preferentemente, con experiencia en el cargo que se le encomiende.
+VII. Contar, preferentemente, con experiencia en el cargo que se le encomiende.
 
 ARTICULO 31
 
@@ -915,13 +917,11 @@ El Centro de Capacitación Judicial Electoral tendrá a su cargo las tareas de i
 
 La organización, estructura, funcionamiento, coordinación, supervisión y atribuciones del Centro se regirán por este Reglamento y las bases que establezca la Comisión de Administración.
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2009)</small>
+
 ARTICULO 45
 
-El Centro tendrá un director como su titular y contará con un Comité Académico, cuyo presidente lo será el de la Comisión de Administración y estará integrado por el número de miembros necesarios, designados por la Comisión de Administración, para un periodo no menor de dos años ni mayor de cuatro, de entre personas con reconocida experiencia profesional o académica. Los miembros del Comité tendrán un carácter honorífico.
-
-La estructura del Comité Académico se determinará en los Acuerdos que al efecto dicte la Comisión de Administración.
-
-El Centro deberá contar con el personal auxiliar y los profesores investigadores necesarios para el adecuado cumplimiento de sus funciones, de conformidad con el presupuesto autorizado, y los lineamientos que expida la Comisión de Administración.
+El Centro tendrá un Director como su titular y deberá contar con el personal académico y administrativo necesario para el adecuado cumplimiento de sus funciones, de conformidad con el presupuesto autorizado y los lineamientos que expida la Comisión de Administración.
 
 ARTICULO 46
 
@@ -937,17 +937,23 @@ IV. Fomentar la participación del personal jurídico en actos académicos, ya s
 
 V. Realizar, en coordinación con el Instituto de la Judicatura Federal, las funciones que la Comisión de Administración y el Consejo de la Judicatura Federal, establezcan conjuntamente.
 
-Asimismo, el director del Centro tendrá las atribuciones siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2009)</small>
+
+Asimismo, el Director del Centro tendrá las atribuciones siguientes:
 
 I. Elaborar el proyecto de manual para la organización, funcionamiento, coordinación y supervisión del Centro, el cual será sometido a la Comisión de Administración para su aprobación, a través de su Presidente;
 
 II. Proponer a la Comisión de Administración, a través de su Presidente, el establecimiento y las bases de organización y funcionamiento de unidades regionales del Centro, así como apoyar los programas y cursos de las Salas del Tribunal Electoral;
 
-III. Elaborar el programa académico anual del Centro y someterlo, previa opinión del Comité Académico, a la aprobación de la Comisión de Administración, a través de su Presidente;
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2009)</small>
+
+III. Fungir, en el ámbito académico, como Secretario Técnico del Comité Académico y Editorial y, elaborar el Programa Académico Anual del Centro y someterlo, previa opinión de dicho Comité, a la aprobación de la Comisión de Administración, a través de su Presidente;
 
 IV. Promover las relaciones de intercambio académico con universidades e instituciones afines nacionales y extranjeras, previa autorización de la Comisión de Administración y su Presidente;
 
-V. Rendir un informe anual por escrito ante la Comisión de Administración y su Comité Académico, lo cual deberá hacerse antes de que aquélla rinda el informe a que se refiere la fracción VIII del artículo 31 de este Reglamento, y
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2009)</small>
+
+V. Rendir un informe anual por escrito ante los Magistrados de la Sala Superior, la Comisión de Administración y el Comité Académico y Editorial, lo cual deberá hacerse antes de que aquélla rinda el informe a que se refiere la fracción VIII del artículo 31 de este Reglamento, y
 
 VI. Las demás que le confieran las disposiciones aplicables o las que le encomienden la Comisión de Administración y su Presidente.
 
@@ -969,33 +975,27 @@ V. Difundir las técnicas de organización, sustanciación y resolución inheren
 
 VI. Contribuir al desarrollo de la vocación de servicio, así como al ejercicio de los valores y principios jurídicos y éticos inherentes a la función judicial.
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2009)</small>
+
 ARTICULO 48
 
-Para ser Director del Centro se requerirá:
+Para ser Director del Centro, además de satisfacer los requisitos establecidos en el artículo 30, se requerirá:
 
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles, y contar con credencial para votar con fotografía;
+I. Contar con estudios de posgrado;
 
-II. Tener más de treinta años de edad al momento de la designación;
+II. Tener experiencia académica, docente y/o de investigación mínima de cinco años;
 
-III. Poseer título profesional de licenciado en derecho o equivalente, con una antigüedad mínima de seis años;
+III. Tener conocimientos de, por lo menos, un idioma extranjero, y
 
-IV. Tener experiencia académica en la materia político-electoral o de su área contenciosa mayor de seis años, así como conocimientos de, por lo menos, un idioma extranjero;
-
-V. Haber publicado trabajos que acrediten la trascendencia y alta calidad de sus contribuciones a la docencia o la investigación en la materia político-electoral o de su área contenciosa;
-
-VI. Haber contribuido a la formación de profesores o investigadores;
-
-VII. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
-
-Así como no haber sido sancionado con inhabilitación temporal para desempeñar algún empleo o cargo o haber sido destituido del mismo, como consecuencia de una sanción de carácter administrativo por conductas graves, y
-
-VIII. No desempeñar ni haber desempeñado cargo de elección popular, así como no haber sido registrado como candidato para ello, de dirección nacional, estatal, distrital, municipal o equivalente de algún partido político o agrupación política, en los últimos seis años.
+IV. Haber publicado trabajos que acrediten la trascendencia y alta calidad de sus contribuciones a la docencia o la investigación en la materia político-electoral.
 
 ## TITULO CUARTO. De las Coordinaciones adscritas a la Presidencia
 
 ### CAPITULO UNICO. ARTICULO 49
 
-El Presidente del Tribunal Electoral establecerá el número de coordinaciones necesarias para el adecuado funcionamiento de las tareas que le están encomendadas, debiendo existir, en todo caso, la Coordinación de Jurisprudencia y Estadística Judicial, la de Relaciones con Organismos Electorales, la de Documentación y Apoyo Técnico, así como la de Comunicación Social.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2009)</small>
+
+El Presidente del Tribunal Electoral establecerá el número de coordinaciones necesarias para el adecuado funcionamiento de las tareas que le están encomendadas, debiendo existir, en todo caso, la Coordinación de Jurisprudencia y Estadística Judicial, la de Relaciones con Organismos Electorales, la de Información, Documentación y Transparencia, así como la de Comunicación Social.
 
 Los titulares y demás personal de las coordinaciones adscritas directamente a la presidencia serán designados por el Presidente del Tribunal Electoral, conforme a las disposiciones aplicables.
 
@@ -1043,11 +1043,17 @@ IV. Las demás que le confieran las disposiciones aplicables y las que le encomi
 
 ARTICULO 54
 
-El Coordinador de Documentación y Apoyo Técnico tendrá las atribuciones siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2009)</small>
 
-I. Elaborar el proyecto de manual para la organización y funcionamiento de la Coordinación, que será sometido al Presidente del Tribunal Electoral para su aprobación;
+El Coordinador de Información, Documentación y Transparencia tendrá las atribuciones siguientes:
 
-II. Apoyar las tareas del Centro de Capacitación Judicial Electoral, con sujeción a los lineamientos que dicte el Presidente del Tribunal Electoral;
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2009)</small>
+
+I. Elaborar el proyecto de manual para la organización y funcionamiento de la Coordinación, que será sometido al Presidente del Tribunal Electoral para su aprobación, para someterlo a la aprobación del Comité Académico y Editorial;
+
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2009)</small>
+
+II. Proponer y supervisar el desarrollo de proyectos para actualizar y difundir los servicios documentales, archivísticos, de transparencia y acceso a la información.
 
 III. Poner a disposición de los Magistrados, y demás personal del Tribunal Electoral, un servicio actualizado y directo de información y documentación especializada en materia jurídica y político-electoral;
 
@@ -1065,15 +1071,11 @@ IX. Apoyar, conforme a los lineamientos del Presidente del Tribunal Electoral, e
 
 X. Las demás que le confieran las disposiciones aplicables y las que le encomiende el Presidente del Tribunal Electoral.
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2009)</small>
+
 ARTICULO 55
 
-El Consejo Editorial es el órgano consultivo del Tribunal Electoral, cuya estructura se preverá a través de acuerdos generales, encargado de analizar, opinar y, en su caso, aprobar las publicaciones oficiales y especializadas que deban realizarse para la difusión de las actividades jurisdiccionales y académicas.
-
-El Coordinador de Comunicación Social fungirá como Secretario Técnico del Consejo Editorial y, de acuerdo con la disponibilidad presupuestal, podrá contar con el apoyo de una Unidad de Publicaciones.
-
-ARTICULO 56
-
-El Coordinador de Comunicación Social tendrá las atribuciones siguientes:
+El Coordinador de Comunicación Social tendrá las siguientes atribuciones:
 
 I. Captar, analizar, procesar y, en su caso, distribuir la información proveniente de los medios de comunicación, referida a los acontecimientos de interés para el Tribunal Electoral;
 
@@ -1085,13 +1087,87 @@ IV. Promover una adecuada coordinación con la Unidad de Comunicación Social de
 
 V. Acordar con los Presidentes de las Salas todo lo relativo a la difusión de sus actividades en los medios de comunicación, de conformidad con los lineamientos que al respecto establezca el Presidente del Tribunal Electoral;
 
-VI. Apoyar las tareas del Centro de Capacitación Judicial Electoral y de la Coordinación de Documentación y Apoyo Técnico, de conformidad con los lineamientos que dicte el Presidente del Tribunal Electoral;
+VI. Apoyar las tareas del Centro de Capacitación Judicial Electoral y de la Coordinación de Información, Documentación y Transparencia, de conformidad con los lineamientos que dicte el Presidente del Tribunal Electoral;
 
-VII. Coordinar, en su caso a través de la Unidad de Publicaciones, las actividades para la impresión y edición de libros, revistas, folletos, carteles, trípticos y materiales audiovisuales, y
+VII. Coordinar, en su caso a través de la Coordinación de Información, Documentación y Transparencia, las actividades para la impresión y edición de libros, revistas, folletos, carteles, trípticos y materiales audiovisuales, y (sic)
 
-VIII. Las demás que le confieran las disposiciones aplicables y las que le encomiende el Presidente del Tribunal Electoral.
+VIII. Fungir, en el ámbito editorial, como Secretario Técnico del Comité Académico y Editorial en los asuntos de su competencia, y (sic)
 
-## TITULO QUINTO. Del sistema de medios de impugnación en materia electoral y su procedimiento
+IX. Elaborar el Programa Editorial Anual para someterlo a la aprobación del Comité Académico y Editorial;
+
+X. Las demás que le confieran las disposiciones aplicables y las que le encomiende el Presidente del Tribunal Electoral.
+
+> <small>(ADICIONADO CON EL CAPITULO QUE LO INTEGRA, D.O.F. 4 DE FEBRERO DE 2009)</small>
+
+## TITULO QUINTO
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2009)</small>
+
+### CAPITULO UNICO. Del Comité Académico y Editorial
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE FEBRERO DE 2009)</small>
+
+ARTICULO 56
+
+Con el objeto de orientar la política académica y editorial del Tribunal Electoral, la Sala Superior se auxiliará de un órgano consultivo denominado Comité Académico y Editorial, que será el encargado de aprobar las directivas de investigación, capacitación y editoriales.
+
+El Comité Académico y Editorial estará integrado por el Presidente del Tribunal Electoral, quien a su vez lo presidirá, dos Magistrados de la Sala Superior designados por la propia Sala, el titular del Centro de Capacitación Judicial Electoral, el Coordinador de Información, Documentación y Transparencia, el Coordinador de Comunicación Social y cuatro miembros externos elegidos por la misma de entre personalidades reconocidas en su ámbito profesional, académico y editorial, a propuesta de cualquiera de los Magistrados que integran el Comité. Sus integrantes durarán en el encargo cuatro años, con excepción del Presidente, cuyo periodo será el mismo de su encargo.
+
+El titular del Centro de Capacitación Judicial Electoral, el Coordinador de Información, Documentación y Transparencia, así como el de Comunicación Social, concurrirán a las sesiones del Comité con voz, pero sin voto.
+
+Por la naturaleza del Comité, la Secretaría Técnica estará a cargo del titular del Centro de Capacitación Judicial Electoral y del Coordinador de Comunicación Social. Cada Secretario Técnico deberá atender, según el ámbito de su competencia, los temas que sean objeto de la sesión correspondiente y que se vinculen con las respectivas atribuciones.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2009)</small>
+
+ARTICULO 56 Bis
+
+El Comité Académico y Editorial tendrá las atribuciones siguientes:
+
+I. Opinar respecto de los programas académico y editorial anuales que elaboren el Centro y la Coordinación de Información, Documentación y Transparencia, respectivamente, mismos que deberán ser presentados a más tardar en el mes de mayo del año anterior al ejercicio que corresponda, así como supervisar su ejecución;
+
+II. Supervisar y, en su caso, evaluar el Programa Académico y Editorial Anual;
+
+III. Aprobar anualmente las líneas generales de investigación del Centro, las cuales deberán elaborarse una vez agotado el procedimiento de consulta que se prevean en los Lineamientos para dictaminar investigaciones;
+
+IV. Aprobar los proyectos de investigación, formación, capacitación, difusión y actualización, así como los nombres de los investigadores que dentro de cada línea se presenten en los Programas Académicos y Editoriales Anual del Tribunal Electoral;
+
+V. Aprobar los criterios a los que las investigaciones deberán ajustarse, conforme con los Lineamientos para dictaminar investigaciones;
+
+VI. Aprobar el calendario general de entrega de los productos de investigación;
+
+VII. Aprobar los productos de investigación, los cuales podrán proponerse para su publicación, así como para aprovecharlos en el proceso de enseñanza-aprendizaje;
+
+VIII. Discutir y pronunciarse, de ser el caso, sobre los dictámenes de los respectivos productos de investigación;
+
+IX. Formular programas de intercambio académico con universidades e instituciones nacionales y extranjeras;
+
+X. Supervisar la correcta aplicación de la política editorial del Tribunal Electoral que aprueben los Magistrados de la Sala Superior;
+
+XI. Planear, supervisar y evaluar la producción editorial, observando los requisitos establecidos por el Comité Académico y Editorial;
+
+XII. Proponer y acordar la creación de títulos, temas, series y colecciones, así como de publicaciones periódicas;
+
+XIII. Proponer autores para las publicaciones conforme a la Política Académica y Editorial;
+
+XIV. Precisar las prioridades y los calendarios de publicación de los materiales aprobados;
+
+XV. Recibir, analizar y evaluar las obras que se le presenten para su publicación;
+
+XVI. Proponer convenios de coedición con otras instituciones;
+
+XVII. Proponer y promover el intercambio de material y convenios con otras bibliotecas, centros de documentación e información, y archivos, con objeto de intercambiar información y acrecentar el acervo documental del Tribunal;
+
+XVIII. Proponer criterios en materia editorial que permitan elaborar productos de difusión referentes al quehacer del Tribunal;
+
+XIX. Fortalecer la presencia nacional e internacional del Tribunal a través de la publicación de obras y participación en eventos relacionados con sus actividades;
+
+XX. Establecer los mecanismos pertinentes de seguimiento y evaluación de las publicaciones; y
+
+XXI. Las demás disposiciones que le confiera la normatividad aplicable.
+
+(REUBICADO [N. DE E. ANTES TITULO QUINTO], D.O.F. 4 DE FEBRERO DE 2009)
+
+## TITULO SEXTO. Del sistema de medios de impugnación en materia electoral y su procedimiento
 
 ### CAPITULO I. Disposiciones generales
 
@@ -1104,8 +1180,6 @@ Tratándose de los juicios para dirimir los conflictos o diferencias laborales d
 ARTICULO 58
 
 Las audiencias que se realicen durante la sustanciación de un medio de impugnación, serán bajo la responsabilidad del Magistrado instructor, quien podrá ser asistido por cualquiera de los secretarios que tenga adscritos, con funciones de fedatario judicial.
-
-## TITULO SEXTO. De las controversias entre el Tribunal Electoral y sus servidores, así como de la apelación por imposición de sanciones administrativas
 
 ### CAPITULO II. De las reglas del turno
 
@@ -1355,6 +1429,10 @@ ARTICULO 93
 
 Las multas que fije el Tribunal Electoral se harán efectivas ante la Tesorería de la Federación en un plazo improrrogable de quince días contados a partir de la notificación que reciba la persona sancionada, misma que deberá informar del debido cumplimiento, para efectos de mandar archivar el asunto correspondiente.
 
+(REUBICADO [N. DE E. ANTES TITULO SEXTO], D.O.F. 4 DE FEBRERO DE 2009)
+
+## TITULO SEPTIMO. De las controversias entre el Tribunal Electoral y sus servidores, así como de la apelación por imposición de sanciones administrativas
+
 ### Capítulo I. De las atribuciones y funcionamiento de la Comisión Sustanciadora
 
 ARTICULO 94
@@ -1379,8 +1457,6 @@ IV. Rendir un informe anual al Presidente del Tribunal Electoral o al Presidente
 
 V. Las demás que le confieran las disposiciones aplicables y este Reglamento.
 
-## TITULO SEPTIMO. De las reformas al Reglamento
-
 ### Capítulo II. De la apelación por imposición de sanciones administrativas
 
 ARTICULO 96
@@ -1392,6 +1468,10 @@ Una vez recibida la apelación, el Presidente de la Sala Superior la turnará a 
 El Magistrado encargado de la sustanciación, así como la Sala Superior, podrán ordenar que se realicen diligencias para mejor proveer.
 
 Los efectos de la resolución podrán ser en el sentido de confirmar, modificar o revocar el acto o resolución impugnada. En los dos últimos supuestos, el Presidente del Tribunal Electoral se asegurará de la ejecución de la sentencia.
+
+(REUBICADO [N. DE E. ANTES TITULO SEPTIMO], D.O.F. 4 DE FEBRERO DE 2009)
+
+## TITULO OCTAVO. De las reformas al Reglamento
 
 ### Capítulo Unico. Del procedimiento de reforma
 
@@ -1424,3 +1504,21 @@ ARTICULO UNICO
 El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 EL C. DR. FLAVIO GALVAN RIVERA, SECRETARIO GENERAL DE ACUERDOS DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION, CERTIFICA: QUE EL PRESENTE REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION FUE APROBADO POR LA SALA SUPERIOR, EN EJERCICIO DE LA FACULTAD QUE LE CONFIEREN LOS ARTICULOS 99, PARRAFO SEPTIMO, DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS; 186, FRACCION VII Y 189, FRACCION X, DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, EN SESION CELEBRADA EL DIA CUATRO DE JUNIO DE MIL NOVECIENTOS NOVENTA Y SIETE, POR UNANIMIDAD DE SIETE VOTOS DE LOS CIUDADANOS MAGISTRADOS QUE LO INTEGRAN: JOSE LUIS DE LA PEZA, PRESIDENTE DEL TRIBUNAL ELECTORAL; LEONEL CASTILLO GONZALEZ, ELOY FUENTES CERDA, ALFONSINA BERTA NAVARRO HIDALGO, JOSE FERNANDO OJESTO MARTINEZ PORCAYO, JOSE DE JESUS OROZCO HENRIQUEZ Y MAURO MIGUEL REYES ZAPATA, ANTE EL C. SECRETARIO GENERAL DE ACUERDOS DE LA SALA SUPERIOR, QUE AUTORIZA Y DA FE.- CONSTE.- RUBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 4 DE FEBRERO DE 2009.
+
+Primero.- La presente reforma entrará en vigor el día de su aprobación.
+
+Segundo.- La Sala Superior y la Comisión de Administración, en el ámbito de sus respectivas competencias, expedirán los acuerdos necesarios para la efectiva observación de las disposiciones reformadas del Reglamento Interno.
+
+Tercero.- Se derogan todas las disposiciones de la normativa interna del Tribunal Electoral que se opongan a la presente reforma.
+
+Cuarto.- Si a la entrada en vigor de la presente reforma al Reglamento Interno se encuentra en trámite cualquier asunto en el seno del Comité Académico o Consejo Editorial, será resuelto conforme a la normativa vigente y de conformidad con las nuevas atribuciones del Comité Académico y Editorial.
+
+Quinto.- Los Magistrados que a la fecha de adopción de la presente reforma integran el Comité Académico y Editorial formarán parte del mismo hasta el dos de marzo del año dos mil diez, con excepción de quien presida el Tribunal Electoral del Poder Judicial de la Federación.
+
+Sexto.- En tanto la Sala Superior designa a los integrantes externos del Comité Académico y Editorial, lo cual deberá realizar en un plazo máximo de treinta días naturales contados a partir de la entrada en vigor de la presente reforma, los actuales miembros del Comité Académico y del Consejo Editorial conformarán dicho Organo.
+
+Séptimo.- Publíquese en el Diario Oficial de la Federación.
