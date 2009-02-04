@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-precampanas-electorales-para-el-estado-de-65065"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-24"
-last_updated: "2008-12-24"
+last_updated: "2009-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE PRECAMPAÑAS ELECTORALES PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2009. (REPUBLICADO, P.O. 4 DE FEBRERO DE 2009)
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 24 de diciembre de 2008.
 
@@ -409,9 +409,11 @@ Tampoco se considerarán dentro de los topes de campaña, los gastos que realice
 
 ### CAPÍTULO OCTAVO. DE LA FISCALIZACIÓN Y PRESENTACIÓN DE LOS INFORMES DE PRECAMPAÑAS
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 35.
 
-Los informes de aplicación de recursos sobre gastos de precampañas, deberán presentarse por los partidos políticos que participen en el proceso electoral, por cada una de las precampañas de las elecciones respectivas, especificando los gastos que el partido político y el precandidato hayan realizado en el ámbito territorial correspondiente. La fecha límite para su presentación será hasta el 30 de marzo del año en que se efectúe la elección.
+Los informes de aplicación de recursos sobre gastos de precampañas, deberán presentarse por los partidos políticos que participen en el proceso electoral, por cada una de las precampañas de las elecciones respectivas, especificando los gastos que el partido político y el precandidato hayan realizado en el ámbito territorial correspondiente. La presentación de dichos informes deberá hacerse dentro de los 30 días posteriores a la conclusión de los procesos internos de selección de candidatos.
 
 ###### ARTÍCULO 36.
 
@@ -421,7 +423,9 @@ En cada informe será reportado el origen de los recursos que se hayan utilizado
 
 Los precandidatos serán los responsables de la presentación de sus respectivos informes ante el órgano interno del partido político de que se trate, a efecto de que se presente el informe integral referente a cada una de las precampañas que se realizaron durante los procesos de selección interna de candidatos.
 
-Los partidos políticos, en su normatividad interna o convocatoria del proceso de selección interna de candidatos respectivo, establecerán la fecha límite para que sus precandidatos les hagan entrega de los informes de precampaña a que se refiere el párrafo anterior, cuidando en todo momento que no se exceda del día 30 de marzo del año de la elección, que es la fecha límite para la de los informes del gasto de precampañas ante el órgano electoral, previsto en el artículo 66 fracción II, inciso b), del Código Electoral.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+Los partidos políticos, en su normatividad interna o convocatoria del proceso de selección interna de candidatos respectivo, establecerán la fecha límite para que sus precandidatos les hagan entrega de los informes de precampaña a que se refiere el párrafo anterior, cuidando en todo momento que no se excedan los 30 días posteriores a la conclusión de los procesos internos de selección de candidatos, que es el límite para la entrega de los informes del gasto de precampañas ante el órgano electoral, previsto en el artículo 66 fracción II, inciso b), del Código Electoral.
 
 ###### ARTÍCULO 38.
 
@@ -486,3 +490,11 @@ CONVERGENCIA
 C. MAURICIO ARZAMENDI GORDERO
 
 PARTIDO NUEVA ALIANZA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE FEBRERO DE 2009.
+
+PRIMERO.- Las modificaciones a los artículos 35 y 37 segundo párrafo del presente reglamento, entrarán en vigor a partir de la fecha de su aprobación por el Consejo Estatal Electoral, quedando a partir de esta fecha sin efecto legal alguno el texto anterior de los preceptos normativos de referencia.
+
+SEGUNDO.- Publíquense las modificaciones a los artículos antes citados, en el periódico oficial denominado "Tierra y Libertad", órgano informativo del Gobierno el Estado de Morelos.
