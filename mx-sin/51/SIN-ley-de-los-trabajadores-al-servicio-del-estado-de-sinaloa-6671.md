@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-los-trabajadores-al-servicio-del-estado-de-sinaloa-6671"
 country: "mx"
 rank: "ley"
 publication_date: "1986-04-04"
-last_updated: "1986-11-26"
+last_updated: "2009-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 4 de abril de 1986.
 
@@ -973,6 +973,10 @@ Para los efectos de la prescripción los meses se regularán por el número de d
 
 Corresponde al Tribunal Local de Conciliación y Arbitraje el conocimiento y resolución de los conflictos que se susciten entre las entidades públicas y sus trabajadores o sólo entre éstos, derivados de las relaciones de trabajo o de hechos íntimamente vinculados con ellas.
 
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+En el caso de que se suscite un conflicto relacionado con la materia de pensiones de los integrantes de las corporaciones policiales estatales y municipales, también corresponderá al Tribunal Local de Conciliación y Arbitraje su conocimiento y resolución.
+
 ###### ARTICULO 114.
 
 El Tribunal se integrará con un representante del Gobierno del Estado que será nombrado por el Titular del Poder Ejecutivo, con la aprobación de los Poderes Legislativo y Judicial, un representante de los trabajadores designado por el Sindicato y un tercer árbitro nombrado por los dos representantes antes mencionados que será el Presidente. Por cada representante ante el Tribunal habrá un suplente designado en los mismos términos que el propietario.
@@ -1744,3 +1748,9 @@ P.O. 26 DE NOVIEMBRE DE 1986.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 4 DE FEBRERO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia un día después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
