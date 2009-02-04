@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-para-la-evaluacion-330
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-08-04"
-last_updated: "2006-04-04"
+last_updated: "2009-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33028&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-04-08"
 
 ESTATUTO ORGANICO DEL INSTITUTO NACIONAL PARA LA EVALUACION DE LA EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE FEBRERO DE 2009.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de agosto de 2003.
 
@@ -149,9 +149,13 @@ Los cargos de secretario y prosecretario de la Junta Directiva serán ocupados r
 
 Podrán participar en las sesiones de la Junta Directiva, con voz pero sin voto, representantes de otras dependencias e instituciones públicas, privadas y sociales, a invitación expresa de la propia Junta, cuando por la índole de los asuntos a tratar se considere conveniente o necesaria su presencia.
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 9o.
 
-La Junta Directiva tendrá las atribuciones indelegables que el artículo 58 de la Ley Federal de Entidades Paraestatales confiere a los órganos de gobierno de las entidades paraestatales, y las que se le establecen en el artículo 9o. del Decreto por el que se creó el Instituto.
+La Junta Directiva tendrá las atribuciones indelegables que el artículo 58 de la Ley Federal de las Entidades Paraestatales confiere a los órganos de gobierno de las entidades paraestatales, y las que se establecen en el artículo 9o. del Decreto por el que se creó el Instituto.
+
+Además de lo dispuesto en la fracción XVI del Artículo 35 de este Estatuto, la interpretación del presente ordenamiento para efectos administrativos y exclusivamente en el ámbito de su competencia, corresponderá a la Junta Directiva y, de estimarlo necesario, la someterá a la consideración de la Coordinadora de Sector.
 
 ###### ARTICULO 10.
 
@@ -195,9 +199,11 @@ La Junta Directiva celebrará sesiones ordinarias, por lo menos cuatro veces por
 
 Las sesiones ordinarias de la Junta Directiva se celebrarán de acuerdo con un calendario que deberá ser aprobado en su primera sesión anual; el Presidente podrá convocar a reuniones extraordinarias cuando sea necesario, de conformidad con lo establecido en el artículo 18 fracción I del Reglamento de la Ley Federal de las Entidades Paraestatales.
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 15.
 
-La convocatoria a las sesiones ordinarias de la Junta Directiva, que contendrá el orden del día, deberá ser entregada y recibida por los miembros de la misma y por los comisarios públicos con una antelación no menor de cinco días hábiles a la fecha para la que se convoquen, anexándose copia del acta de la sesión anterior, así como de la información y documentación necesarias. Para el caso de las sesiones extraordinarias, la documentación deberá ser enviada a los miembros y comisarios públicos con un mínimo de veinticuatro horas de anticipación a la fecha de realización del evento.
+La convocatoria a las sesiones ordinarias y extraordinarias de la Junta Directiva, que contendrá el orden del día, deberá ser entregada y recibida por los miembros de la misma y por los comisarios públicos con una antelación no menor de cinco días hábiles a la fecha para la que se convoquen, anexándose en su caso copia del acta de las (sic) sesión anterior, así como de la información y documentación necesarias.
 
 ###### ARTICULO 16.
 
@@ -205,9 +211,11 @@ Los acuerdos que se tomen en las sesiones de la Junta Directiva quedarán asenta
 
 ### CAPITULO TERCERO. DEL CONSEJO TECNICO DEL INSTITUTO
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 17.
 
-El Consejo Técnico del Instituto estará integrado por dieciséis expertos en los campos de la evaluación o de la investigación educativa. Los miembros del Consejo Técnico serán designados por la Junta Directiva en consideración a sus méritos personales. Las propuestas respectivas serán presentadas, debidamente fundadas, por los miembros de la propia Junta Directiva. El Consejo Técnico será presidido por uno de sus miembros de nacionalidad mexicana, designado para ello por la Junta Directiva. El Presidente durará cuatro años en su cargo. Los miembros del Consejo Técnico durarán en su cargo ocho años, pudiendo ser designados nuevamente una sola vez.
+El Consejo Técnico del Instituto estará integrado por dieciséis expertos en los campos de la evaluación o de la investigación educativa. Los miembros del Consejo Técnico serán designados por la Junta Directiva en consideración a sus méritos personales. Las propuestas respectivas serán presentadas, debidamente fundadas, por los miembros de la propia Junta Directiva. El Consejo Técnico será presidido por uno de sus miembros de nacionalidad mexicana, designado para ello por la Junta Directiva. El presidente durará cuatro años en su cargo, ésta duración estará supeditada a la duración del cargo como miembro del propio Consejo Técnico. Los miembros del Consejo Técnico durarán en su cargo ocho años, pudiendo ser designados nuevamente una sola vez.
 
 La mayoría de los integrantes del Consejo Técnico deberán ser mexicanos.
 
@@ -231,7 +239,7 @@ Por mayoría de las dos terceras partes de los miembros de la Junta Directiva pr
 
 ###### ARTICULO 21.
 
-La persona que haya formado parte del Consejo Técnico no podrá ser designado Director General del Instituto, hasta en tanto no transcurra el término de dos años, contados a partir de que concluyó su encargo.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 2009)
 
 ###### ARTICULO 22.
 
@@ -347,11 +355,11 @@ De ser el caso, procederá a la designación del Director General, a cuyo efecto
 
 VI. La persona que hubiere resultado electa será nombrada por la Junta Directiva como Director General del Instituto, con la suma de facultades que las disposiciones jurídicas le confieren.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 35.
 
-El Director General del Instituto, además de las facultades y atribuciones que le confieren las disposiciones legales aplicables y el Decreto de Creación del Instituto, deberá:
+El Director General del Instituto, además de las facultades y atribuciones que le confieren las disposiciones legales aplicables y el Decreto de Creación del Instituto, tendrá las siguientes:
 
 I. Planear, programar, organizar, dirigir, coordinar y evaluar las acciones que el Instituto realice para el debido cumplimiento de las funciones que le competen, de conformidad con lo establecido en su Decreto de Creación y otros ordenamientos;
 
@@ -383,7 +391,9 @@ XIV. Mantener permanentemente actualizados el Manual General de Organización y 
 
 XV. Supervisar y vigilar la debida observancia del presente Estatuto Orgánico y demás ordenamientos que rijan al Instituto;
 
-XVI. Resolver las dudas que se susciten con motivo de la interpretación y aplicación de este ordenamiento y, de estimarlo necesario, someterlas a la consideración de la Coordinadora de Sector, y
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2009)</small>
+
+XVI. En caso de urgencia, para efectos administrativos y exclusivamente en el ámbito de su competencia, resolver las dudas que se susciten con motivo de la interpretación y aplicación de este ordenamiento y, de estimarlo necesario, someterlos a la consideración de la Coordinadora de Sector. Para el caso, actuar en consecuencia, informando de estos asuntos a la Junta Directiva en la sesión inmediata siguiente, y
 
 XVII. Las demás que tengan que ver con la marcha general del Instituto y establezcan el Decreto de Creación y otros ordenamientos aplicables.
 
@@ -744,3 +754,7 @@ En la Ciudad de México, D.F., a 8 de abril de 2003.- El Presidente de la Junta 
 D.O.F. 4 DE ABRIL DE 2006.
 
 EL DECRETO DE REFORMAS CON ATELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE.
+
+D.O.F. 4 DE FEBRERO DE 2009.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
