@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-fiscalizacion-de-los-ingresos-que-reciban-los-649
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-24"
-last_updated: "2008-12-24"
+last_updated: "2009-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,15 @@ state: "MOR"
 
 REGLAMENTO DE FISCALIZACION DE LOS INGRESOS QUE RECIBAN LOS PARTIDOS POLITICOS POR CUALQUIER MODALIDAD DE FINANCIAMIENTO ASI COMO SU EMPLEO Y APLICACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 2009.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 24 de diciembre de 2008.
 
 Al margen izquierdo un emblema que dice: Instituto Estatal Electoral.- IEE. Morelos.
+
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL CONSEJO ESTATAL, MODIFICAN DE MANERA SUSTANCIAL EL CONTENIDO DEL PRESENTE ORDENAMIENTO, Y SI BIEN DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA REFORMA; DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. DE 4 DE FEBRERO DE 2009.</small>
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 Reglamento de Fiscalización de los Ingresos que reciban los Partidos Políticos por cualquier Modalidad de Financiamiento así como su empleo y aplicación.
 
@@ -85,19 +89,29 @@ De los gastos que realicen los partidos políticos por concepto de actividades r
 
 ## TÍTULO V. DE LA DETERMINACIÓN E IMPOSICIÓN DE SANCIONES DERIVADAS DEL DICTAMEN
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ## TÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 1.
 
 En términos de lo dispuesto por los artículos 56 y 106 fracciones XV, XVI, XIX, XX, XXIV, XXVI, XXVII, XL, XLI, XLIV del Código Electoral, son atribuciones del Consejo Estatal Electoral, proveer que lo relativo a las prerrogativas y financiamiento de los partidos políticos se desarrolle con apego al citado Código Electoral, aprobar el calendario presupuestal conforme al cual deberá ministrarse a los partidos políticos con registro el financiamiento correspondiente de conformidad a las disponibilidades presupuestales, así como el financiamiento privado, sean ambos en efectivo o en especie, recibidos por los partidos políticos o coalición, y los topes de los gastos de precampaña y campaña, de acuerdo a las disposiciones de la normatividad electoral aludida; vigilar y supervisar el cumplimiento de las obligaciones que la legislación electoral impone a los partidos políticos, así como revisar y aprobar en su caso, los dictámenes que rinda la Comisión de Fiscalización del financiamiento de los partidos políticos.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 2.
 
 Asimismo es atribución del Consejo Estatal Electoral, de acuerdo a lo establecido en el artículo 106 fracción XLI del Código Electoral para la Entidad, el dictar todas las resoluciones que sean necesarias para hacer efectivas las disposiciones de dicho ordenamiento en el ámbito de su competencia.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 3.
 
 El presente Reglamento de Fiscalización tiene por objeto establecer y fijar las normas procedimentales, criterios y reglas que deberán observar los partidos políticos, en el registro de sus ingresos y egresos por cualquier concepto; así como la presentación de los informes del origen, destino y monto de los ingresos recibidos por cualquier modalidad de financiamiento, así como su empleo y aplicación.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 4.
 
@@ -117,21 +131,31 @@ f) Reembolsar a la secretaría encargada del despacho de la hacienda pública de
 
 g) Las demás que establezca el Código Electoral y el presente Reglamento de Fiscalización.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 5.
 
 Los partidos políticos y coalición con registro o que tengan acreditado el mismo ante el Instituto Estatal Electoral, rendirán los informes anuales sobre el origen y aplicación de los recursos, así como los informes sobre los ingresos y gastos de precampaña y campaña, en términos de lo ordenado por el Código Electoral y de acuerdo con el presente Reglamento de Fiscalización.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 6.
 
 Una vez presentados los informes anuales, de precampaña y de campaña por los partidos políticos o coalición correspondiente, el Consejo Estatal Electoral, turnará inmediatamente a la Comisión de Fiscalización, con el objeto de que inicie la revisión correspondiente.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 7.
 
 Corresponde a los partidos políticos proporcionar todos los documentos y datos, que garanticen a criterio de la Comisión de Fiscalización o del Consejo Estatal Electoral en su caso, la veracidad de lo reportado en los informes sobre el origen, destino y monto de sus ingresos, así como su empleo y aplicación, conforme a las disposiciones contenidas en las normas que rigen la materia electoral, así como en el presente Reglamento de Fiscalización.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 8.
 
 Todo lo no previsto en el presente Reglamento de Fiscalización de los ingresos que reciban los partidos políticos por cualquier modalidad de financiamiento, así como su empleo y aplicación, será resuelto por la propia Comisión de Fiscalización o por el Consejo Estatal Electoral en su caso.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 9.
 
@@ -183,13 +207,21 @@ Aportación en Especie.- Acto jurídico mediante el cual un simpatizante o milit
 
 Comodato.- Contrato mediante el cual uno de los contratantes se obliga a conceder gratuitamente el uso de un bien mueble o inmueble no fungible y el otro contrae la obligación de restituirle individualmente.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ## TÍTULO II. DE LA ESTRUCTURA DEL ÓRGANO DE FINANZAS, DE LOS INGRESOS, EGRESOS E INVENTARIO DE LOS BIENES MUEBLES E INMUEBLES DE LOS PARTIDOS POLÍTICOS Y COALICIÓN
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ### Capítulo I. De la Estructura del Órgano de Finanzas de los Partidos Políticos y Coalición
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 10.
 
 Los partidos políticos y coalición deberán contar con un órgano responsable de la administración del patrimonio y encargado de la obtención de los recursos financieros generales, el cual será facultado ante el Instituto Estatal Electoral para presentar veraz y oportunamente los informes financieros anuales ordinarios, de precampaña y campaña, del origen destino y monto de los ingresos que reciban por cualquier modalidad de financiamiento, así como su empleo y aplicación.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 11.
 
@@ -197,47 +229,71 @@ Dicho órgano se constituirá en los términos, modalidades y características q
 
 Los partidos políticos o coalición deberán informar por escrito a la Comisión de Fiscalización, para su registro en los libros que se implementen para tal efecto, el nombre del titular(es) del órgano responsable de la administración del patrimonio y encargado de la obtención de los recursos financieros generales, y los citados documentos, al inicio de cada año fiscal.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 12.
 
 Los partidos políticos podrán realizar las modificaciones a la estructura del órgano de finanzas, en todo tiempo atendiendo a las necesidades de cada partido, debiendo notificar al Consejo Estatal Electoral y a la Comisión de Fiscalización de lo señalado en los artículos anteriores, en un plazo no mayor de 30 días a partir del cambio realizado.
 
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ### Capítulo I.1. De las Coaliciones
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 13.
 
 Las coaliciones que se conformen para un determinado proceso electoral, deberán dar cumplimiento a las disposiciones del presente reglamento.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 14.
 
 Es obligación de la coalición que se conforme, por conducto de su representante común, así como del órgano responsable de la administración del patrimonio y encargado de la obtención de los recursos financieros generales, presentar los informes de campaña sobre el origen, destino y monto de los ingresos que recibió la coalición por cualquier modalidad de financiamiento, así como su empleo y aplicación, de la elección en que participe la misma.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 15.
 
 En términos del artículo 84 fracción IV inciso e) del Código Electoral, el representante común de la coalición informará la forma de distribución del financiamiento público que le corresponda como coalición.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 16.
 
 En caso de incumplimiento en la presentación de los informes relativos a los gastos de campaña, que como coalición le corresponde exhibir, les serán aplicables, las disposiciones del presente reglamento contenidas en la determinación e imposición de sanciones derivadas del dictamen del presente reglamento.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 17.
 
 En el supuesto que el Consejo Estatal Electoral, determine sancionar a determinada coalición por violación a las disposiciones del Código Electoral o a la normatividad establecida en el presente reglamento, dicha sanción se aplicará tomando como base lo establecido en el convenio de coalición, y en forma proporcional a las cantidades que cada partido político que la conforma haya contribuido.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 18.
 
 Es obligación de la coalición que se conforme para contender en un proceso electoral, el crear un órgano responsable de la administración del patrimonio y encargado de la obtención de los recursos financieros generales que le sean asignados, debiéndose aplicar lo dispuesto en los artículos 10, 11 y 12 del presente ordenamiento.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ### Capítulo II. De los Ingresos y Modalidades de Financiamiento
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 19.
 
 El financiamiento de los partidos políticos y coalición tendrá las modalidades de público o privado, de conformidad con lo dispuesto en el Código Electoral.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 20.
 
 El financiamiento público prevalecerá sobre los otros tipos de financiamiento. El rubro de financiamiento público para campañas no podrá ser superior a los topes de gastos de campaña.
 
 Tanto el financiamiento público como el privado tendrán las modalidades de directo, que consistirá en aportaciones en dinero; e indirecto que será el otorgado en bienes o servicios a los que se refiere el Código Electoral y el presente Reglamento de Fiscalización.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 21.
 
@@ -247,11 +303,15 @@ I. Financiamiento público local para partidos políticos; y
 
 II. Transferencias realizadas por la dirección nacional de los partidos políticos del financiamiento público federal, en su caso.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 22.
 
 El financiamiento público directo de los partidos políticos será el que reciban los partidos políticos con cargo al Presupuesto de Egresos del Gobierno del Estado y deberá repartirse conforme a las reglas que establece el propio Código Electoral.
 
 En caso de coalición, esta será considerada como un solo partido político, en los términos que establezca el convenio de coalición.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 23.
 
@@ -262,6 +322,8 @@ I. Financiamiento de la militancia; y
 II. Financiamiento de simpatizantes.
 
 Todas las cuotas aportadas serán recibidas y registradas por el órgano interno responsable de la administración del patrimonio del partido político o coalición a que hace referencia el artículo 10 del presente reglamento y deberán ser depositadas en las cuentas bancarias del partido político o coalición según su naturaleza.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 24.
 
@@ -281,11 +343,15 @@ III. Las cuotas voluntarias y personales que los precandidatos y candidatos apor
 
 IV. Las cuotas voluntarias y personales de los militantes para apoyar algún precandidato en los procesos de selección interna de candidatos tendrán el límite que fije el órgano interno responsable del manejo del financiamiento de cada partido, siempre y cuando no exceda de los límites previstos en el Código Electoral; y (sic)
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 25.
 
 El financiamiento de simpatizantes estará conformado por las aportaciones o donativos, en dinero o en especie, hechas a los políticos y coalición en forma libre y voluntaria.
 
 Para tal efecto los partidos políticos y coalición deberán utilizar el Formato 8 “RASEF” “Recibo de Aportaciones de Simpatizantes en Efectivo” y el Formato 10 “RASES” “Recibo de Aportaciones de Simpatizantes en Especie” y conservar una copia de la credencial de elector del aportante y elaborar los controles correspondientes.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 26.
 
@@ -297,13 +363,19 @@ II. El autofinanciamiento; y
 
 III. El financiamiento por rendimientos financieros, fondos y fideicomisos.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 27.
 
 Las aportaciones en bienes muebles, inmuebles, consumibles y servicios que otorguen los particulares para las actividades del partido político; deberán sujetarse a los controles y límites que establece el presente reglamento.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 28.
 
 El autofinanciamiento estará constituido por los ingresos que los partidos políticos obtengan de sus actividades promociónales, tales como conferencias, espectáculos, juegos y sorteos, eventos culturales, ventas editoriales, de bienes y de propaganda utilitaria así como cualquier otra similar que realicen para allegarse de fondos, las que estarán sujetas a las leyes correspondientes a su naturaleza. El órgano de finanzas de cada partido y coalición reportará los ingresos obtenidos por estas actividades en los informes respectivos a través del Formato 14 “CE-AUTO” “Control de Eventos de Autofinanciamiento” y los respectivos controles.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 29.
 
@@ -323,9 +395,13 @@ c) En todo caso, las cuentas, fondos y fideicomisos no estarán protegidos por l
 
 d) Los rendimientos financieros obtenidos a través de esta modalidad de financiamiento deberán destinarse para el cumplimiento de los objetivos del partido político.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 30.
 
 Se consideran ingresos por rendimientos financieros los intereses que obtengan los partidos políticos por las cuentas bancarias a que se hace referencia en el presente reglamento, así como los provenientes de inversiones en valores o cualquier otra operación financiera.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 31.
 
@@ -337,15 +413,23 @@ b) El fondo o fideicomiso será manejado a través de las operaciones bancarias 
 
 c) Los fondos y fideicomisos deberán ser registrados ante la Comisión de Fiscalización, remitiendo un ejemplar del contrato o convenio correspondiente, dentro de los treinta días siguientes a su constitución.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 32.
 
 Los ingresos que perciban los partidos políticos por rendimientos financieros, fondos o fideicomisos, estarán sustentados con los estados de cuenta que les remitan las instituciones bancarias o financieras, así como por los documentos en que consten los actos constitutivos o modificatorios de las operaciones financieras de los fondos o fideicomisos correspondientes.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ### Capítulo II.1.. De las cuentas bancarias y los registros contables
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 33.
 
 Los ingresos que reciban los partidos políticos y coalición durante el ejercicio ordinario, las precampañas y las campañas electorales por cualquiera de las modalidades de financiamiento, deberán apegarse, en el control y registro de sus operaciones financieras a lo establecido por el Código Electoral, el presente Reglamento de Fiscalización y las disposiciones contenidas en las Normas de Información Financiera.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 34.
 
@@ -353,9 +437,13 @@ Todos los ingresos que reciban los partidos políticos y coalición durante el e
 
 Durante la revisión de los informes anuales, de precampaña y de campaña, la Comisión de Fiscalización revisará los estados de cuenta aludidos así como las conciliaciones respectivas.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 35.
 
 En la medida de sus necesidades y requerimientos, cada partido político podrá abrir cuentas adicionales para llevar su control contable, y deberá abrirlas para controlar los gastos de mayor cuantía.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 36.
 
@@ -365,9 +453,13 @@ El órgano de finanzas de cada partido político y coalición deberá elaborar u
 
 Al final de cada ejercicio, el órgano de finanzas de cada partido político deberá elaborar con base en las balanzas mencionadas en el artículo anterior, una balanza de comprobación anual estatal, que deberá ser entregada conjuntamente con los informes anuales; para los informes de precampañas y campañas se deberá entregar conjuntamente con dichos informes una balanza de comprobación acumulada del mes o los meses que haya durado la precampaña y campaña, respectivamente.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 38.
 
 Todos los recursos en efectivo que provengan de cualquier modalidad de financiamiento que reciban los órganos directivos estatales de cada partido político, en términos de lo establecido por la Constitución Política del Estado Libre y Soberano de Morelos y el Código Electoral, deberán ser depositados en cuentas bancarias de cheques, que se identificarán como CBODE-(Partido)-(Número) “Cuenta Bancaria Órgano Directivo Estatal (Partido) (Número)”.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 39.
 
@@ -376,6 +468,8 @@ Todos los recursos en efectivo que provengan de cualquier modalidad de financiam
 Estas cuentas se identificarán como CBM-(Partido)(Municipio)(Número) “Cuenta Bancaria Municipio (Partido)(Municipio)(Número) ”. Los partidos políticos deberán acreditar el origen y destino de todos los recursos depositados en dichas cuentas al Consejo Estatal Electoral, quien turnará la documentación correspondiente a la Comisión de Fiscalización para su revisión y análisis.
 
 Dichos ingresos y gastos serán reportados en los informes correspondientes, de conformidad a las disposiciones del presente Reglamento de Fiscalización.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 40.
 
@@ -391,6 +485,8 @@ Los partidos políticos deberán abrir una cuenta bancaria para los recursos que
 
 Los partidos políticos deberán acreditar el origen y destino de todos los recursos depositados en dichas cuentas al Consejo Estatal Electoral, quien turnará la documentación correspondiente a la Comisión de Fiscalización para su revisión y análisis.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 41.
 
 Para el manejo de los ingresos y egresos de la operación ordinaria del Partido Político, se deberá abrir una cuenta bancaria, la cual se identificará como:
@@ -401,11 +497,15 @@ Para las precampañas los partidos políticos y coalición deberán abrir las cu
 
 Y para el manejo de los egresos de los gastos de campaña de proceso electoral del Partido Político deberá abrir una cuenta que se identificará como CBODEC (Cuenta Bancaria Órgano Directivo Estatal Campaña).
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 42.
 
 Para el manejo de los ingresos y egresos que se efectúen en las campañas políticas para Gobernador del Estado de Morelos, cada partido político deberá abrir una cuenta bancaria única para su campaña, la cual se identificará como:
 
 - CBCGEM-(Partido)-(Número) “Cuenta Bancaria Campaña Gobernador del Estado de Morelos (Partido)- (Número)”.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 43.
 
@@ -415,11 +515,15 @@ Para el manejo de los ingresos y egresos que se efectúen en las campañas polí
 
 En el entendido de que deberá presentarse un informe de campaña por cada fórmula de candidatos, como lo establece el presente reglamento.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 44.
 
 En el caso de las campañas políticas para presidentes municipales, los partidos políticos deberán abrir cuentas bancarias. Estas cuentas se identificarán como CBCPM (Partido)- (Presidente) - (Número) “Cuenta Bancaria Campaña Presidente Municipale - (Partido) - (Presidente) - (Municipio)”.
 
 En el entendido de que deberá presentarse un informe de campaña por cada fórmula de candidatos, como lo establece el presente reglamento.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 45.
 
@@ -427,21 +531,31 @@ Las cuentas bancarias a que se refieren los artículos anteriores deberán abrir
 
 Los estados de cuenta respectivos deberán conciliarse mensualmente.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 46.
 
 Todos los recursos que ingresen a la cuenta CBCGEM (Cuenta Bancaria Campaña para Gobernador del Estado de Morelos) CBCDMR-(Partido)- (Distrito) - (Número) “Cuenta Bancaria Campaña Diputados de Mayoría Relativa (Partido)-(Distrito)-(Número)” y CBCPM (Cuenta Presidentes Municipales) deberán provenir de la cuenta CBODEC (Cuenta Bancaria Órgano Directivo Estatal Campaña).
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 47.
 
 Los gastos de campaña del proceso electoral y las erogaciones que involucren dos o más campañas deberán efectuarse con recursos provenientes de cuentas CBODEC (Cuenta Bancaria Órgano Directivo Estatal Campaña) del partido político.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 48.
 
 Los ingresos provenientes de los órganos de dirección nacional o sus equivalentes de los partidos políticos, deberán ser depositados en una cuenta diferente a la de los ingresos estatales.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 49.
 
 Los ingresos que reciban los partidos políticos o coalición por cualquier modalidad de financiamiento en el estado, no podrán ser utilizados ni transferidos a órganos de dirección estatal de otras entidades federativas ni a órganos de dirección nacional o sus equivalentes.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 50.
 
@@ -449,25 +563,37 @@ Los recursos en efectivo provenientes del financiamiento privado otorgados a los
 
 Así como los recursos en especie que reciban los precandidatos y candidatos, caso en el cual quedan obligados a cumplir con todas las reglas aplicables para la recepción de esta clase de aportaciones, en correlación con lo dispuesto por el artículo 23 del presente reglamento.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 51.
 
 Los registros contables de los partidos políticos deben separar en forma clara los ingresos que tengan en especie de aquellos que reciban en efectivo.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 52.
 
 Los registros que emanen del financiamiento de los órganos de dirección nacional de los partidos políticos deberán contabilizarse por separado de los registros por financiamiento en el estado.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ### Capítulo II.2.. De los Formatos para el Control de los Ingresos
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 53.
 
 El órgano de finanzas de cada partido político deberá autorizar la impresión de los recibos foliados que se expedirán para amparar las cuotas o aportaciones de militantes y simpatizantes recibidas en los términos establecidos por el Código Electoral e informará a la Comisión de Fiscalización, del número consecutivo de los folios de los recibos impresos; dichos recibos deberán presentarse conjuntamente con los informes de precampaña y campaña según corresponda, a la Comisión de Fiscalización, para su revisión correspondiente.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 54.
 
 Todos los recibos utilizados por el partido político o coalición para el registro y control de los ingresos, se deberán expedir en forma consecutiva. El original deberá entregarse a la persona u organización que efectúa la aportación; una copia será remitida al órgano de finanzas del partido y otra copia permanecerá en poder del órgano estatal o municipal del partido que haya recibido la aportación, en su caso.
 
 Los recibos deben ser llenados de manera tal que los datos resulten legibles en todas las copias, con el objeto de facilitar su cotejo y revisión a la Comisión de Fiscalización.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 55.
 
@@ -489,6 +615,8 @@ Los partidos políticos y coalición deberán llevar un control de folios de los
 
 Dichos controles permitirán verificar los recibos cancelados, el número total de recibos impresos, los recibos utilizados con su importe total y los recibos pendientes de utilizar. Los controles de folios deberán presentarse de conformidad con los Formatos 7 “CF-RAM”, 9 “CF-RASEF”, 11 “CF-RASES”, 13 “CF-REAPAC” y los Formatos 15 “DAM”, 16 “DAS”, 17 “DIA”, 18 “DIRFFF” y el anexo técnico de referencia deberán remitirse junto con el informe anual, de precampaña y de campaña según corresponda, con la finalidad de verificar el origen y monto de las aportaciones.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 56.
 
 Los recibos para las aportaciones de militantes se imprimirán según el Formato 6 “RAM” “Recibos de Aportaciones de Militantes”.
@@ -500,6 +628,8 @@ Cada recibo foliado se imprimirá en original y dos copias, la numeración de lo
 Y las otras para las aportaciones que reciban los órganos del partido en cada municipio, que será:
 
 - RAM-(Partido)-(Municipio)-(Número), (sic)
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 57.
 
@@ -519,6 +649,8 @@ Y para las aportaciones que reciban los órganos del partido en cada municipio, 
 
 En el caso de las aportaciones en especie, deberá expresarse, en el cuerpo del recibo, la información relativa al bien aportado y el criterio de valuación que se haya utilizado para determinar su precio. Dichas aportaciones deberán destinarse únicamente para el cumplimiento de los fines del partido político que haya sido beneficiado con la aportación.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 58.
 
 Deberá llevarse un control de folios de los recibos que se impriman y expidan por el órgano directivo estatal y en cada municipio. Dichos controles permitirán verificar los recibos cancelados, el número total de recibos impresos, los recibos utilizados con su importe total y los recibos pendientes de utilizar. Los controles de folios deberán remitirse junto con los informes anuales, a través de los formatos:
@@ -535,6 +667,8 @@ Asimismo, los Detalles de aportaciones de simpatizantes y militantes, a través 
 
 - Formato 16 “DAS” “Detalle de Aportaciones de Simpatizantes”, (sic)
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 59.
 
 El órgano de finanzas de cada partido político deberá llevar un registro concentrado de las aportaciones en dinero que en un ejercicio realicen los militantes y simpatizantes. Este registro permitirá conocer el monto acumulado de los donativos de cada persona, y se remitirá a la Comisión de Fiscalización junto con el informe anual, de precampaña y campaña según corresponda.
@@ -545,9 +679,13 @@ A dicho registro concentrado deberá anexarse copia de la credencial de elector 
 
 Los partidos políticos no podrán recibir aportaciones de personas no identificadas.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 60.
 
 Los partidos políticos deberán contabilizar y registrar en un control por separado los montos obtenidos en cada una de las colectas que realicen, deduciendo los gastos en que hubieren incurrido por cada una de ellas.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 61.
 
@@ -555,11 +693,17 @@ Los ingresos por autofinanciamiento estarán apoyados en un control por cada eve
 
 En este sentido, los partidos políticos y coalición informarán a la Comisión de Fiscalización de los ingresos recibidos por esta modalidad de financiamiento a través del Formato 14 “CE-AUTO” “Control de Eventos de Autofinanciamiento” y el Formato 17 “DIA” “Detalle de Ingresos por Autofinanciamiento”
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 62.
 
 Para obtener financiamiento por rendimientos financieros, los partidos políticos podrán crear fondos o fideicomisos con su patrimonio o con las aportaciones que reciban, adicionalmente a las provenientes de las modalidades del financiamiento antes señaladas, con excepción de la adquisición de acciones bursátiles, e informarán a la Comisión de Fiscalización de los ingresos obtenidos por esta modalidad de financiamiento a través del Formato 18 “DIRFFF” “Detalle de Ingresos por Rendimientos Financieros, Fondos y Fideicomisos”
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ### Capítulo III. De los Egresos
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 63.
 
@@ -574,6 +718,8 @@ b).- Con independencia de lo señalado en el inciso anterior, hasta el 20% de lo
 Los gastos que por este concepto se utilicen en precampaña, deberán estar incluidos en el límite establecido para gastos de operación ordinaria.
 
 Asimismo, cada partido político al final del ejercicio ordinario, en los informes de precampaña y de campaña correspondientes, elaborará un concentrado de gastos menores comprobados a través de bitácoras, de conformidad al Formato 24 “CGMB” “Concentrado de Gastos Menores a través de Bitácora”
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 64.
 
@@ -597,21 +743,31 @@ Si al concluir las actividades de precampaña quedara algún remanente de recurs
 
 Los gastos de precampaña deberán ser registrados contablemente y soportados con la documentación comprobatoria correspondiente, toda la documentación probatoria deberá contener la leyenda de “PRECAMPAÑA” y el nombre del precandidato que ejerció el gasto.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 65.
 
 Todo pago que efectúen los partidos políticos que rebase la cantidad $10,000.00 (Diez Mil Pesos 00/100 M.N.) deberá realizarse mediante cheque nominativo a favor de la persona física o moral que otorgo el bien o servicio, con excepción de los pagos correspondientes a sueldos y salarios contenidos en nóminas. Las pólizas de los cheques deberán conservarse anexas a la documentación comprobatoria a que hace referencia el artículo 63 del presente reglamento.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 66.
 
 Los comprobantes que el partido político presente como sustento de sus gastos, que indiquen que se trató de erogaciones realizadas fuera del estado de Morelos, deberán contar con el visto bueno o autorización por escrito del Presidente del Partido Político.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 67.
 
 Los partidos políticos deberán conservar la página completa de un ejemplar original de las publicaciones que contengan las inserciones en medios gráficos que realicen en las precampañas y campañas electorales, las cuales deberán anexarse a la documentación comprobatoria.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 68.
 
 Las erogaciones que se efectúen con cargo a las cuentas “Materiales y Suministros” y “Servicios Generales” deberán ser agrupadas en subcuentas por concepto del tipo de gastos de que se trate, y a su vez dentro de éstas se agruparán por sub-subcuentas, verificando que los comprobantes estén debidamente autorizados por quien recibió el servicio y quien autorizó.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 69.
 
@@ -627,13 +783,19 @@ Para tal efecto se deberán utilizar los siguientes formatos:
 
 Asimismo todos los materiales y suministros, deberán ser ingresados en el control del almacén y hacer un levantamiento de inventario anual.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 70.
 
 Las erogaciones por concepto de adquisiciones de materiales, propaganda electoral y utilitaria, así como las correspondientes a tareas editoriales, deberán registrarse y controlarse a través de registro e inventarios de almacén. Las salidas de estos materiales deberán ser identificados específicamente en las precampañas y campañas políticas que los soliciten, con objeto de aplicar el gasto por este concepto en cada una de ellas.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 71.
 
 En caso de que el partido político determine llevar los controles de que se habla en los artículos anteriores a través de sus órganos directivos municipales, cada uno de ellos deberá ajustarse a los requisitos establecidos en los artículos anteriores.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 72.
 
@@ -661,7 +823,11 @@ i) Con los informes anuales, de precampaña y campaña respectivamente, deberá 
 
 A dichas relaciones deberá anexarse copia de la credencial de elector de las personas que recibieron apoyos por actividades de colaboración durante el periodo del informe que corresponda.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ### Capítulo IV. Del Inventario de los Bienes Muebles e Inmuebles
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 73.
 
@@ -672,6 +838,8 @@ Los vehículos deberán considerarse dentro de los bienes muebles.
 El Formato 26 “Inventario anual actualizado de Bienes Muebles e Inmuebles” deberá ser exhibido conjuntamente con el informe anual, y cuando se pierda el registro como partido político, en el formato establecido para tal efecto.
 
 El Formato de “Inventario anual actualizado de Bienes Muebles e Inmuebles” deberá incluir los bienes que el partido político o coalición tenga en cada localidad donde se tengan oficinas.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 74.
 
@@ -731,7 +899,11 @@ Los bienes inmuebles deberán contener los siguientes datos:
 
 - Ubicación del inmueble, (sic)
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ### Capítulo IV.1.. De los registros de activos fijos
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 75.
 
@@ -745,17 +917,27 @@ Los partidos políticos acreditarán la propiedad de los bienes, para efecto de 
 
 Los bienes muebles o inmuebles que el partido político tenga en uso o goce temporal, deberán contar con el contrato de comodato respectivo de conformidad con la legislación aplicable.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 76.
 
 Los activos fijos que sean adquiridos por los partidos políticos en precampañas y campañas electorales y que al término de éstas se destinen para su uso ordinario, deberán registrarse como activo fijo.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ## TÍTULO III. DE LOS LÍMITES DE APORTACIONES, TOPES DE CAMPAÑA Y PRECAMPAÑA
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ### Capítulo I. De los Límites de Aportaciones
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 77.
 
 Los partidos políticos y coalición deberán sujetarse a los límites de ingresos egresos que estable el Código Electoral y el presente Reglamento de Fiscalización.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 78.
 
@@ -771,11 +953,17 @@ IV. Las aportaciones en dinero que realice cada persona facultada para ello, ten
 
 V. Las aportaciones en dinero podrán realizarse en parcialidades y en cualquier tiempo, pero el monto total aportado durante un año por una persona física no podrá rebasar, según corresponda los límites establecidos en la fracción anterior; (sic)
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 79.
 
 En la sesión en la que el Consejo Estatal Electoral apruebe el Presupuesto de Egresos de cada ejercicio, y una vez determinado el monto del Financiamiento Público a otorgarse a los partidos políticos durante el año que corresponda, se aprobarán los límites del Financiamiento Privado a que hace referencia el artículo anterior.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ### Capítulo I.1.. De las aportaciones o donativos a los partidos políticos y coalición
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 80.
 
@@ -797,6 +985,8 @@ VII. Tampoco podrán recibir aportaciones de personas no identificadas, con exce
 
 VIII. Las personas o grupos con actividades ilícitas.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 81.
 
 Las aportaciones de financiamiento privado indirecto se sujetarán a las siguientes reglas:
@@ -813,11 +1003,15 @@ e) En el caso de bienes muebles y consumibles, las aportaciones que realice cada
 
 f) De las aportaciones de militantes y simpatizantes, en efectivo o en especie, que reciba el partido político o coalición, el órgano responsable de finanzas deberá conservar una copia de la credencial de elector del aportante, elaborar los recibos correspondientes que establece el presente reglamento de fiscalización y elaborar los registros concentrados que se presentaran conjuntamente con los informes respectivos.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 82.
 
 Las aportaciones que reciban en especie podrán ser en bienes muebles, inmuebles, consumibles o servicios deberán documentarse en contratos escritos que celebren conforme a los ordenamientos legales aplicables, los cuales deberán contener los datos de identificación del aportante, así como el costo de mercado o estimado del bien aportado, según el caso.
 
 Dichos contratos deberán estar anexos a los registros contables correspondientes.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 83.
 
@@ -831,15 +1025,23 @@ c) En todo caso se deberán cuantificar las aportaciones en especie recibidas po
 
 En ningún caso, las aportaciones o donativos en efectivo o en especie que reciban los partidos políticos, podrán rebasar el límite anual establecido en el Código Electoral para tal efecto.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 84.
 
 Los ingresos por donaciones de bienes inmuebles deberán registrarse conforme a su valor comercial de mercado, determinado su valor mediante un perito valuador legalmente facultado para ello.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 85.
 
 En el supuesto que determinado partido político no presente la cotización o el avalúo elaborado por el profesionista autorizado para ello, la Comisión de Fiscalización ordenará la práctica de las cotizaciones o de los avalúos según sea el caso, con cargo al presupuesto del partido político que se trate.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ### Capítulo II. De los Topes de Precampaña
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 86.
 
@@ -861,15 +1063,23 @@ Los partidos políticos y precandidatos deberán sujetarse a las disposiciones c
 
 Los gastos de precampaña antes citados estarán sujetos a topes, siendo ejercidos por cualquiera de las modalidades de financiamiento que establece el Código Electoral y el presente Reglamento de Fiscalización.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 87.
 
 La determinación de los topes de gasto de precampaña se notificará a los partidos políticos a través del Representante acreditado ante el Consejo Estatal Electoral, una vez determinados los montos para tal efecto, en base a lo dispuesto por la fracción I del artículo 204 del Código Electoral.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 88.
 
 En caso de sustitución de precandidatos, los partidos políticos deberán reportar en cualquier caso, todos los gastos que se hayan efectuado por el precandidato que se sustituye y estos se computarán para los efectos de tope de gastos de precampaña correspondiente.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ### Capítulo III. De los Topes de Campaña
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 89.
 
@@ -885,6 +1095,8 @@ III.- Gastos de propaganda en medios gráficos.- Comprenden cualquiera de las mo
 
 No se consideran dentro de los topes de campaña, los gastos que realicen los partidos políticos para su operación ordinaria, para el sostenimiento de sus órganos directivos y gastos generales del proceso electoral.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 90.
 
 La determinación de los topes de gasto de campaña se notificará a los partidos políticos o coaliciones a través del Representante acreditado ante el Consejo Estatal Electoral, una vez determinados los montos para tal efecto, en base a lo dispuesto por el artículo 225 del Código Electoral.
@@ -893,23 +1105,35 @@ Los gastos de campaña antes citados estarán sujetos a topes, siendo ejercidos 
 
 Los partidos políticos y coalición deberán sujetarse a las disposiciones contenidas en el “Reglamento de Precampañas Electorales para el Estado de Morelos”.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ## TÍTULO IV. DE LOS INFORMES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, PRESENTACIÓN, REVISIÓN Y DICTAMEN
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ### Capítulo I. De los informes de los Partidos Políticos y Coaliciones
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 91.
 
 Los informes de ingresos y egresos de los partidos políticos serán presentados en los formatos incluidos en el presente reglamento.
 
-En el caso de que el partido político o coalición no haya tenido movimientos en el periodo que se reporta con relación a la información solicitada en los formatos, estos se presentarán con la leyenda “EL PARTIDO (Nombre del Partido o Coalición) NO PRESENTÓ MOVIMIENTOS FINANCIEROS EN LOS RUBROS A QUE HACE REFENCIA (SIC) EL PRESENTE FORMATO” y dichos formatos deberán estar debidamente suscrito por los responsables correspondientes.
+En el caso de que el partido político o coalición no haya tenido movimientos en el periodo que se reporta con relación a la información solicitada en los formatos, estos se presentarán con la leyenda “EL PARTIDO (Nombre del Partido o Coalición) NO PRESENTÓ MOVIMIENTOS FINANCIEROS EN LOS RUBROS A QUE HACE REFENCIA EL PRESENTE FORMATO” y dichos formatos deberán estar debidamente suscrito por los responsables correspondientes.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 92.
 
 Los informes y en su caso las respuestas a las observaciones que se hayan realizado por parte de la comisión deberán ser presentadas debidamente suscritas por el presidente y el responsable del Órgano de Finanzas del Partido Político.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 93.
 
 Los partidos políticos, deberán utilizar el catálogo de cuentas, guía contabilizadora e informe mensual, en virtud que los mismos son auxiliares en la presentación de los informes anuales, de campaña y precampaña.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 94.
 
@@ -919,13 +1143,19 @@ Los partidos políticos que obtengan su registro o que acrediten el mismo, de co
 
 El primer informe anual ordinario que presente un partido político que haya obtenido su registro o que acredite el mismo ante el Instituto Estatal Electoral, en el año inmediato anterior, incluirá todos los comprobantes de los ingresos y egresos del partido político a partir del día siguiente a aquél en el que surta efectos su registro o acreditación, en los términos de lo establecido por el Código Electoral y hasta el fin del año natural que deba reportarse.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 95.
 
 Los partidos políticos deberán de informar por rubros generales el total de los ingresos federales recibidos que les asignó el órgano de dirección nacional o su equivalente.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 96.
 
 Los partidos políticos y coalición deberán presentar conjuntamente con los informes anuales, de precampaña y campaña, respectivamente, un listado de las cuentas bancarias utilizadas para tal efecto, dicha listado deberá señalar, el número de cuenta, institución bancaria, tipo de ingresos que se manejan en dicha cuenta, la fecha de apertura, estatus (vigente o cancelada, en caso de haber sido cancelada la fecha de la cancelación), nombre de las personas autorizadas para el manejo de la cuenta.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 97.
 
@@ -933,9 +1163,13 @@ Los partidos políticos y coaliciones deberán entregar al Director de Administr
 
 Todo informe o documento que se presente fuera de dicho plazo, será considerado extemporáneo y la Comisión de Fiscalización determinará lo conducente en cada caso.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 98.
 
 En la presentación de los informes sobre el origen, destino y monto de los ingresos que reciban por cualquier modalidad de financiamiento, así como su empleo y aplicación, que exhiban los partidos políticos se levantará acta circunstanciada, en la que se haga constar la fecha, hora, y personas que intervienen en dicho acto y el motivo de la misma, procediéndose además a firmar, foliar y sellar la documentación que se presente, el Secretario Ejecutivo dará fe de la presentación de dichos informes.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 99.
 
@@ -945,15 +1179,23 @@ Los partidos políticos y coalición no podrán generar pasivos derivados de los
 
 Los pasivos por ningún motivo podrán ser superiores al 30% del monto del Financiamiento Público de cada partido político, del ejercicio ordinario que corresponda.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 100.
 
 El Consejo Estatal Electoral podrá aprobar un cronograma que contenga el cómputo de los plazos relativos a los procedimientos de Fiscalización de los informes.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ### Capítulo II. De la Presentación de los Informes Anuales Ordinarios
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 101.
 
 Los informes anuales deberán ser presentados a más tardar dentro de los cuarenta y cinco días siguientes al último día de diciembre del año del ejercicio que se reporte.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 102.
 
@@ -961,7 +1203,7 @@ Conjuntamente con el informe anual deberán remitirse a la autoridad electoral:
 
 a) Los siguientes formatos, atendiendo lo dispuesto en el artículo 91 del presente reglamento:
 
-- Formato 1 “IA” “Informe Anual del origen, destino y monto de los ingresos recibidos por cualquier modalidad de financiamiento, así como su empleo y aplicación”. en (sic) correlación con lo dispuesto por el artículo 117 del presente reglamento.
+- Formato 1 “IA” “Informe Anual del origen, destino y monto de los ingresos recibidos por cualquier modalidad de financiamiento, así como su empleo y aplicación”. en correlación con lo dispuesto por el artículo 117 del presente reglamento.
 
 - Formato 7 “CF-RAM” “Control de Folios de Recibos de Aportaciones de Militantes”
 
@@ -1015,13 +1257,19 @@ f) El registro concentrado a que hace referencia el artículo 59 del presente re
 
 Y la documentación que en su momento solicité la Comisión de Fiscalización para el mejor desempeño de sus atribuciones.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ### Capítulo III. De la presentación de los Informes de Precampaña
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 103.
 
-Lon (sic) informes de aplicación de recursos sobre gastos de precampaña, deberán presentarse por los partidos políticos que participen en el proceso electoral por cada una de las precampañas de las elecciones respectivas, especificando los gastos que el partido político y el precandidato hayan realizado en el ámbito territorial correspondiente.
+Los informes de aplicación de recursos sobre gastos de precampaña, deberán presentarse por los partidos políticos que participen en el proceso electoral por cada una de las precampañas de las elecciones respectivas, especificando los gastos que el partido político y el precandidato hayan realizado en el ámbito territorial correspondiente.
 
-Dichos informes serán presentados a más tardar el treinta de marzo del año de la elección.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+Dichos informes serán presentados dentro de los treinta días posteriores a la conclusión de los procesos internos de selección de candidatos.
 
 En cada informe será reportado el origen de los recursos que se hayan utilizado para financiar los gastos correspondientes a los rubros comprendidos en los topes de gastos de precampaña, y los señalados en el formato 2 “I-PRECAMPAÑA” así como el monto y destino de dichas erogaciones
 
@@ -1031,15 +1279,21 @@ Los gastos de precampaña sujetos a topes son los establecidos en el artículo 8
 
 Los partidos políticos y coalición deberán sujetarse a las disposiciones contenidas en el “Reglamento de Precampañas Electorales para el Estado de Morelos”
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 104.
 
 Los titulares de los órganos de finanzas de los partidos políticos notificarán a los precandidatos que participen en el proceso de selección interna del partido la obligación de proporcionar relaciones de ingresos obtenidos y gastos ejercidos en sus precampañas, así como de recabar los soportes documentales correspondientes y remitirlos a dicho órgano, señalándoles los plazos para el cumplimiento de estas obligaciones, de manera que el partido esté en posibilidad de cumplir en tiempo y forma con la entrega de sus informes de precampaña.
 
 Asimismo, deben instruir a sus diferentes precandidatos a cargos de elección popular para que el todo caso el manejo de los recursos de precampaña se realicen a través de las cuentas bancarias que establece el presente reglamento de fiscalización para tal efecto.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 105.
 
-Los informes de precampaña serán presentados a más tardar el día 30 de marzo del año de la elección.
+Los informes de precampaña serán presentados dentro de los treinta días posteriores a la conclusión de los procesos internos de selección de candidatos.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 106.
 
@@ -1047,17 +1301,25 @@ En los informes de precampaña de cada precandidato se registrarán todos los in
 
 En el entendido de que no podrán ejercerse gastos de precampaña antes ni después de la fechas previstas en el Código Electoral para las precampañas.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 107.
 
 En caso de sustitución de aspirantes a precandidatos, los partidos políticos deberán reportar en cualquier caso, todos los gastos que se hayan efectuado por el precandidato que se sustituye y estos se computarán para los efectos de tope de gastos de precampaña correspondiente.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 108.
 
 Si el precandidato que hubiese obtenido la candidatura, rebasa el tope de precampaña o incumple la obligación de entregar su informe de ingresos y gastos de precampaña dentro del plazo señalado, será sancionado por el Consejo Estatal Electoral con la negativa del registro como candidato, o en su caso, con la pérdida de la candidatura.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 109.
 
 Los precandidatos que no cumplan con la presentación del informe de ingreso-gasto de precampaña, serán sancionados por el Instituto Estatal Electoral en los términos que establece el Código Electoral.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 110.
 
@@ -1123,17 +1385,25 @@ j) El registro concentrado a que hace referencia el artículo 59 del presente re
 
 Y la documentación que en su momento solicité la Comisión de Fiscalización para el mejor desempeño de sus atribuciones.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ### Capítulo IV. De la presentación de los Informes de Campaña
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 111.
 
 Los gastos que deberán ser reportados en los informes de campaña serán los ejercidos dentro de campañas que fije el Consejo Estatal Electoral para tal efecto.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 112.
 
 Los titulares de los órganos de finanzas de los partidos políticos notificarán a los candidatos postulados por el partido la obligación de proporcionar relaciones de ingresos obtenidos y gastos ejercidos en sus campañas, así como de recabar los soportes documentales correspondientes y remitirlos a dicho órgano, señalándoles los plazos para el cumplimiento de estas obligaciones, de manera que el partido esté en posibilidad de cumplir en tiempo y forma con la entrega de sus informes de campaña.
 
 Asimismo, deben instruir a sus diferentes candidatos a cargos de elección popular para que el todo caso el manejo de los recursos de campaña se realicen a través de las cuentas bancarias que establece el presente reglamento de fiscalización para tal efecto.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 113.
 
@@ -1150,6 +1420,8 @@ b).- Tantos informes como fórmulas de candidatos a diputados por el principio d
 c).- Tantos informes como fórmulas de candidatos a presidentes municipales que hayan registrado ante las autoridades electorales.
 
 A cada informe, se deberá anexar copia de la credencial de elector del precandidato correspondiente.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 114.
 
@@ -1209,15 +1481,23 @@ h) El registro concentrado a que hace referencia el artículo 59 del presente re
 
 Y la documentación que en su momento solicité la Comisión de Fiscalización para el mejor desempeño de sus atribuciones.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ### Capítulo V. De la Revisión de los Informes
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 115.
 
 La Comisión de Fiscalización contará con el apoyo del o de los despachos contables que coadyuven con los dictámenes sobre los informes que presenten los partidos políticos.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 116.
 
 La Comisión de Fiscalización, tendrá en todo momento la facultad de solicitar a los órganos responsables del financiamiento de cada partido político la documentación necesaria para comprobar la veracidad de lo reportado en los informes. Asimismo, la Comisión de Fiscalización antes de iniciar la revisión de gabinete, tomará en cuenta el antecedente del informe anual inmediato anterior al del ejercicio que se reporte, con la finalidad de tener conocimiento de los saldos finales reportados por los partidos políticos, así como darle seguimiento a las observaciones no solventadas correspondientes al citado ejercicio anterior.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 117.
 
@@ -1225,13 +1505,19 @@ La Comisión de Fiscalización podrá realizar verificaciones selectivas de la d
 
 Con relación a la revisión de los informes de precampaña y campaña, estos serán revisados en base a la documentación presentada conjuntamente con los mismos, pudiendo solicitar en todo momento la información y documentación soporte para comprobar la veracidad de lo reportado en dichos informes.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 118.
 
 La Comisión de Fiscalización informará a cada uno de los partidos políticos los nombres de los auditores que se encargarán de la verificación documental y contable relacionada en el artículo anterior, y señalará el día y hora para la entrega de documentos e información en las oficinas que para tal efecto se designe.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 119.
 
 Del desarrollo de la verificación documental, se levantará un acta que firmarán a su inicio y conclusión, el personal designado para tal efecto por la Comisión de Fiscalización, así como las personas facultadas por el partido político que corresponda.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 120.
 
@@ -1239,13 +1525,19 @@ El personal designado por la Comisión de Fiscalización deberá marcar con sell
 
 En el caso de gastos de precampaña y campaña, se asentará también el señalamiento a la cual corresponde el ingreso o egreso.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 121.
 
 Si durante la revisión de los informes la Comisión de Fiscalización advierte la existencia de errores u omisiones técnicas notificará al partido político que hubiere incurrido en ellos, así como al Consejo Estatal Electoral, para que en un plazo de cinco días hábiles contados a partir de dicha notificación, el Partido Político o Coalición del que se trate conteste por escrito las aclaraciones o rectificaciones y aporte pruebas que considere pertinentes, en términos de lo dispuesto en el Código Electoral y el presente reglamento. Las pruebas deberán ser exhibidas junto con el escrito aclaratorio, de acuerdo a lo establecido en el artículo 67 inciso d) del Código Electoral.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 122.
 
 Si las rectificaciones o aclaraciones que deba hacer el partido político requieren de la entrega de documentación, ésta será única y exclusivamente con la finalidad de aclarar o rectificar lo que el partido político o coalición estime pertinente.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ### Capítulo V.1.
 
@@ -1253,11 +1545,15 @@ De los plazos de Revisión de los Informes Anuales Ordinarios, de Precampaña y 
 
 - Anuales Ordinarios
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 123.
 
 La Comisión de Fiscalización contará con sesenta días para revisar los informes anuales.
 
 Si durante la revisión la Comisión de Fiscalización advierte la existencia de errores técnicos u omisiones, notificará al partido político o coalición que hubiera incurrido en ellos y al Consejo Estatal Electoral, para que en un plazo de cinco días hábiles conteste por escrito las aclaraciones o rectificaciones y aporte pruebas que considere pertinentes en los términos que establece el Código Electoral y el presente reglamento. Las pruebas deberán ser exhibidas junto con el escrito aclaratorio.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 124.
 
@@ -1267,11 +1563,15 @@ Asimismo, la Comisión de Fiscalización remitirá al Consejo Estatal Electoral,
 
 - De Precampaña
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 125.
 
 La Comisión de Fiscalización contará con siete días naturales para revisar los informes de precampaña.
 
 Si durante la revisión la Comisión de Fiscalización advierte la existencia de errores técnicos u omisiones, notificará al partido político o coalición que hubiera incurrido en ellos y al Consejo Estatal Electoral, para que en un plazo de cinco días hábiles conteste por escrito las aclaraciones o rectificaciones y aporte pruebas que considere pertinentes en los términos que establece el Código Electoral y el presente reglamento. Las pruebas deberán ser exhibidas junto con el escrito aclaratorio.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 126.
 
@@ -1281,11 +1581,15 @@ Asimismo, la Comisión de Fiscalización remitirá al Consejo Estatal Electoral,
 
 - De Campaña
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 127.
 
 La Comisión de Fiscalización contará con quince días hábiles para la revisión de los informes de campaña de Gobernador, con diez días naturales para la revisión de los informes de Diputados de Mayoría Relativa, y con treinta y cinco días hábiles para la revisión de los informes de campaña de los Ayuntamientos.
 
 Si durante la revisión la Comisión de Fiscalización advierte la existencia de errores técnicos u omisiones, notificará al partido político o coalición que hubiera incurrido en ellos y al Consejo Estatal Electoral, para que en un plazo de cinco días hábiles conteste por escrito las aclaraciones o rectificaciones y aporte pruebas que considere pertinentes en los términos que establece el Código Electoral y el presente reglamento. Las pruebas deberán ser exhibidas junto con el escrito aclaratorio.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 128.
 
@@ -1297,11 +1601,17 @@ Por lo que respecta a la presentación de los dictámenes y proyectos de resoluc
 
 Asimismo, la Comisión de Fiscalización remitirá al Consejo Estatal Electoral el proyecto de resolución para su aprobación, el cual contendrá la sanción o sanciones que en su caso, se consideren imponer al partido político infractor en un plazo de tres días hábiles para las sanciones derivadas del Dictámen de Campaña de Gobernador, y un plazo de cuatro días hábiles para las resoluciones de sanciones derivadas del Dictámen de Campaña de Diputados de Mayoría Relativa y de un plazo de cinco días hábiles para las resoluciones derivadas de las sanciones del Dictamen de Campaña de Ayuntamientos.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ### Capítulo VI. De la elaboración de los Dictámenes y su presentación al Consejo Estatal Electoral
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 129.
 
 La Comisión de Fiscalización en el dictamen que emita, deberá tomar en consideración los escritos, aclaraciones o rectificaciones que presenten los partidos políticos, procediendo a establecer en dicho dictamen lo que considere aplicable y conducente a cada punto en particular, conforme al presente reglamento y a los artículos aplicables del Código Electoral.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 130.
 
@@ -1309,17 +1619,25 @@ La Comisión de Fiscalización presentará en sesión del Consejo Estatal Electo
 
 La Comisión de Fiscalización presentará un proyecto de resolución, para el efecto de que el Consejo Estatal Electoral determine la aprobación o no de los dictámenes, en los plazos establecidos en el Capítulo anterior.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 131.
 
 Una vez aprobados los dictámenes emitidos por la Comisión de Fiscalización, la Secretaría Ejecutiva notificará a cada Partido Político el mismo, y en caso que de los referidos dictámenes se desprenda que el partido político o coalición no haya aplicado los recursos para los fines que les fueron otorgados y/o hayan incumplido con las disposiciones contenidas en el Código Electoral y el presente reglamento, se iniciará el procedimiento para determinación e imposición de sanciones.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 132.
 
 Los dictámenes elaborados por la Comisión de Fiscalización, aprobados por el Consejo Estatal Electoral y las resoluciones emitidas por los órganos jurisdiccionales electorales se publicarán, una vez que se consideren como actos firmes e inatacables, en el periódico oficial denominado “Tierra y Libertad” órgano informativo del gobierno del Estado de Morelos, en la página de internet y órganos de difusión del Instituto Estatal Electoral.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 133.
 
 En el supuesto que el Consejo Estatal Electoral no apruebe alguno o determinados dictámenes, estos se remitirán a la Comisión de Fiscalización, para efecto de que emita de nueva cuenta los dictámenes no aprobados, en los que se tomarán en consideración las observaciones hechas a los mismos.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 134.
 
@@ -1341,17 +1659,25 @@ El Consejo Estatal Electoral publicará en el Periódico Oficial del Estado "Tie
 
 Los informes que presenten los partidos políticos; así como las auditorías y verificaciones que ordene la Comisión de Fiscalización de los Recursos Públicos de los partidos políticos, sólo se podrán hacer públicos, hasta concluir la última resolución de la autoridad electoral.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ### Capítulo VII
 
 De los gastos que realicen los partidos políticos por concepto de actividades relativas a educación, capacitación política, investigación electoral socioeconómica política y tareas editoriales
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 135.
 
 Los partidos políticos con registro o que tienen acreditado el mismo ante este órgano electoral, deberán recibir anualmente para los gastos que realicen por concepto de actividades relativas a educación, capacitación política, investigación electoral socioeconómica política y tareas editoriales Financiamiento público equivalente hasta el 5% del financiamiento que reciba por concepto de actividades ordinarias permanentes cada uno, previa comprobación del gasto.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 136.
 
 El monto que se destine a cada uno de los partidos políticos se determinará tomando como referencia el financiamiento público que otorgue el honorable congreso del estado a los citados institutos políticos, en términos de lo dispuesto por el artículo 54 fracción III del Código Electoral.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 137.
 
@@ -1369,21 +1695,31 @@ C).- Tareas Editoriales:
 
 Estas actividades por su parte, deberán estar destinadas a apoyar la difusión y publicación de revistas, libros y gacetas, así como órganos de difusión de los partidos políticos, no se aceptarán ningún tipo de comprobantes por pagos realizados por concepto de publicación en medios privados.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 138.
 
 En las actividades a que se refiere el artículo 54 fracción III del Código Electoral y el presente reglamento, se deberá procurar el beneficio del mayor número de personas y deberán desarrollarse dentro de la entidad.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 139.
 
 No serán susceptibles del financiamiento a que se refiere el presente Reglamento, las actividades de operación del gasto ordinario, así como aquellas que tengan por objeto la obtención del voto, tales como las de propaganda electoral para las precampañas y campañas de sus precandidatos y candidatos en cualquier elección en que participen, o las encuestas que contengan reactivos sobre preferencias electorales; tampoco se considerarán actividades de educación, capacitación política, investigación electoral socioeconómica y política, y tareas editoriales, las que se refieran a gastos para la celebración de las reuniones por aniversarios o por congresos y reuniones internas que tengan fines administrativos o de organización interna de partidos.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 140.
 
 Los documentos que exhiban los partidos políticos para comprobar los gastos realizados por concepto de las actividades específicas a que se refiere el presente reglamento, deberán cumplir con las disposiciones fiscales vigentes, ya que en caso contrario dichos documentos no tendrán efectos comprobatorios.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 141.
 
 En el supuesto que uno o varios partidos políticos no presenten la comprobación de los gastos por las actividades mencionadas, las sumas no reclamadas serán reintegradas a la Secretaría de Hacienda del Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 142.
 
@@ -1441,7 +1777,7 @@ III. Pagos por el derecho de autor así como del número internacional normaliza
 
 IV. Los gastos que implica la elaboración y mantenimiento de una página web.
 
-dichos (sic) gastos serán; el diseño y la elaboración de la página web, el pago a la empresa que mantendrá la página web en su servidor, el costo por inscripción de la página web en buscadores, el pago por actualización de la página.
+dichos gastos serán; el diseño y la elaboración de la página web, el pago a la empresa que mantendrá la página web en su servidor, el costo por inscripción de la página web en buscadores, el pago por actualización de la página.
 
 Por gastos indirectos se entenderá aquellos que se eroguen en forma complementaria o adicional a la actividad específica susceptible del financiamiento público a que se refiere el presente reglamento, y solo serán aceptados hasta por un 10% del monto total correspondiente a cada partido político, cuando se acredite que son estrictamente necesarios para realizar las citadas actividades, de los cuales hasta el 10% se podrán comprobar sin requisitos fiscales.
 
@@ -1459,6 +1795,8 @@ V. Gastos por viáticos, tales como transporte, hospedaje y alimentación de exp
 
 VI. Gastos por distribución de actividades editoriales específicas.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 143.
 
 Los partidos políticos deberán presentar a la Comisión de Fiscalización junto con el informe anual, una evidencia que muestre la actividad especifica realizada, que podrá consistir en el producto elaborado con la actividad o en su defecto, en otros documentos con los que se acredite la realización de la actividad especifica, en el entendido de que a falta de esta muestra, o de la citada documentación, los comprobantes de gasto no tendrán validez para efectos de comprobación.
@@ -1475,7 +1813,11 @@ Los informes de actividades específicas serán presentados a través de los for
 
 Asimismo, deberán observar el formato 31 “IAE-RC” que contiene los requisitos de los documentos para la comprobación de gastos.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ## TÍTULO V. De la determinación e imposición de sanciones derivadas del Dictámen
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 144.
 
@@ -1492,6 +1834,8 @@ a).- Incumplan las resoluciones y acuerdos del Consejo Estatal Electoral.
 b).- No rindan los informes anuales o de campaña en los términos previstos por el Código Electoral para el Estado.
 
 c).- Acepten donativos o aportaciones económicas en contravención a lo dispuesto en el Código, o rebasen los topes de gastos de campañas establecidos por el Consejo Estatal Electoral.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 145.
 
@@ -1522,6 +1866,8 @@ IX.- Si el partido político opta por impugnar la resolución que contenga la im
 X.- Si el partido político no cubre en los plazos señalados las multas que le fueron impuestas, se le descontarán del importe que le corresponda del financiamiento público.
 
 XI.- Una vez cubierta la sanción administrativa, se dará por concluido el procedimiento para la determinación e imposición de sanciones.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 146.
 
@@ -1612,3 +1958,29 @@ PARTIDO NUEVA ALIANZA
 RÚBRICAS.
 
 > <small>N.DE E. VEASE FORMATOS EN EL P. O. DE 24 DE DICIEMBRE DEL 2008, PAGINAS DE LA 28 A LA 57.</small>
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE FEBRERO DE 2009.
+
+SE TRANSCRIBEN LOS PUNTOS RESOLUTIVOS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+Primero.- Es competente para emitir la presente resolución en términos de lo expuesto en el considerando primero de la misma.
+
+Segundo.- Se aprueban las modificaciones a los artículos 103 segundo párrafo y 105 del Reglamento de Fiscalización de los ingresos que reciban los Partidos Políticos por cualquier Modalidad de Financiamiento, así como su empleo y aplicación, atendiendo a lo establecido en el considerando segundo del presente fallo.
+
+Tercero.- Las modificaciones a los artículos 103 segundo párrafo y 105 del Reglamento de Fiscalización de los ingresos que reciban los Partidos Políticos por cualquier Modalidad de Financiamiento, así como su empleo y aplicación, entrarán en vigor a partir de la presente fecha de aprobación.
+
+Cuarto.- Edítese de nueva cuenta el Reglamento de Fiscalización de los ingresos que reciban los Partidos Políticos por cualquier Modalidad de Financiamiento, así como su empleo y aplicación, con las modificaciones a sus artículos 103 segundo párrafo y 105, que quedaron precisadas en el considerando segundo de la presente resolución, debiendo insertarse el artículo transitorio correspondiente.
+
+Quinto.- Publíquese la presente resolución en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+Sexto.- Notifíquese a los representantes de los partidos políticos acreditados ante este Consejo Estatal Electoral.
+
+P.O. 4 DE FEBRERO DE 2009.
+
+EDICION DE NUEVA CUENTA DEL REGLAMENTO DE FISCALIZACION DE LOS INGRESOS QUE RECIBAN LOS PARTIDOS POLITICOS POR CUALQUIER MODALIDAD DE FINANCIAMIENTO ASI COMO SU EMPLEO Y APLICACION.
+
+PRIMERO.- L as modificaciones a los artículos 103 segundo párrafo y 105 del presente reglamento, entrarán en vigor a partir de la fecha de su aprobación por el Consejo Estatal Electoral, quedando a partir de esa fecha sin efecto legal alguno el texto anterior de los preceptos normativos de referencia.
+
+SEGUNDO. Publíquese las modificaciones a losartículos antes citados, en el periódico oficial denominado "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
