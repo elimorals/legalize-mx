@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-seguridad-publica-del-estado-de-sinaloa-21802"
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-25"
-last_updated: "2006-09-11"
+last_updated: "2009-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 2009.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 25 de julio de 2001.
 
@@ -491,9 +491,131 @@ V. Ser sujetos del régimen de asistencia social para la obtención de servicios
 
 VI. Recibir, en los casos procedentes, asesoría jurídica gratuita en los casos en que, con motivo del recto cumplimiento de su servicio, incurra en hechos que pudieran ser constitutivos de injusto penal.
 
-#### Sección Primera
+> <small>(ADICIONADA CON LOS ARTICULO QUE LA INTEGRAN, P.O. 4 DE FEBRERO DE 2009)</small>
 
-Del Consejo Estatal de Seguridad Pública.
+#### Sección Tercera. De las Pensiones de los Integrantes de las Corporaciones Policiales Estatales y Municipales
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+Artículo 37 Bis A.- Los integrantes de las corporaciones policiales estatales y municipales de seguridad pública, o sus beneficiarios en sus casos, tendrán derecho al otorgamiento de pensiones por retiro, vejez, invalidez y muerte.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+Artículo 37 Bis B.- Para el otorgamiento de los derechos de pensión por retiro y de las pensiones a que se refiere el artículo anterior, se estará a lo dispuesto en la presente ley y en los convenios que se celebren con ese propósito.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+Artículo 37 Bis C.- Para el caso de muerte por causa de riesgo de trabajo, se otorgará pensión a los beneficiarios del agente fallecido, independientemente de la antigüedad, equivalente al cien por ciento del sueldo básico que hubiese percibido al momento de ocurrir el fallecimiento.
+
+Los servicios médicos se les seguirán otorgando a los beneficiarios de los agentes fallecidos por causa de riesgo de trabajo por el tiempo establecido y en las condiciones pactadas en el régimen de asistencia social que gocen.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+Artículo 37 Bis D.- Tienen derecho a la pensión por retiro, quienes tengan treinta o más años de servicio cualquiera que sea su edad. En el caso de las mujeres gozarán de este beneficio al cumplir veinticinco años o más de servicio.
+
+La pensión por retiro dará derecho al pago de una cantidad equivalente al cien por ciento del salario que estén devengando.
+
+El pensionado por retiro recibirá los incrementos salariales y prestaciones económicas en los mismos términos que los reciban los servidores públicos en activo, de acuerdo con su plaza y categoría.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+Artículo 37 Bis E.- Los pensionados por retiro tendrán derecho a un seguro de retiro en la cuantía que establezcan los convenios respectivos. Esta prestación se cubrirá en una sola exhibición a los interesados, en un plazo no mayor de treinta días a partir de la fecha en que se publique el decreto relativo en el Periódico Oficial "El Estado de Sinaloa".
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+Artículo 37 Bis F.- Tienen derecho a pensión por vejez quienes habiendo cumplido cincuenta y cinco años de edad tuviesen cuanto menos quince años de servicio.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+Artículo 37 Bis G.- La pensión por invalidez se otorgará a quienes tengan cuando menos quince años de servicio y que se inhabiliten física o mentalmente por causas ajenas al desempeño de su trabajo.
+
+El derecho al pago de esta pensión nace a partir de la fecha en que la institución de seguridad social que preste la atención médica, extienda el certificado de incapacidad respectivo, y para determinar su monto se aplicará la tabla contenida en el artículo 37 Bis H.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+Artículo 37 Bis H.- El monto de las pensiones por vejez e invalidez se fijará de conformidad con la siguiente tabla de porcentajes:
+
+15 años de servicio 50%
+
+16 años de servicio 52%
+
+17 años de servicio 54%
+
+18 años de servicio 56%
+
+19 años de servicio 58%
+
+20 años de servicio 60%
+
+21 años de servicio 63%
+
+22 anos de servicio 66%
+
+23 anos de servicio 69%
+
+24 anos de servicio 72%
+
+25 anos de servicio 75%
+
+26 anos de servicio 80%
+
+27 anos de servicio 85%
+
+28 anos de servicio 90%
+
+29 anos de servicio 95%
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+Artículo 37 Bis I.- Las pensiones por vejez e invalidez que se concedan, en ningún caso serán inferiores al salario mínimo general vigente al otorgarse las mismas.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+Artículo 37 Bis J.- Las corporaciones policiales estatales y municipales de seguridad pública concederán licencias con goce de ingresos íntegro hasta por sesenta días naturales, a quienes tengan derecho a iniciar las gestiones para obtener sus pensiones por retiro, vejez o invalidez, término que se computará a partir de que se dictamine la procedencia del beneficio solicitado. Estas licencias se denominarán de pre-retiro.
+
+Si al vencimiento de cualesquiera de las licencias referidas no ha obtenido su pensión, pese a haber realizado las gestiones pertinentes, la licencia se prorrogará con el mismo sueldo hasta el día que le sea otorgada la pensión.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+Artículo 37 Bis K.- El cómputo de los años de servicios se hará considerando uno solo de los empleos, aún cuando el servidor público haya desempeñado simultáneamente dos o más.
+
+Para el otorgamiento de las pensiones, toda fracción de tiempo que exceda de seis meses se considerará como año completo.
+
+El pago de las pensiones de retiro, vejez e invalidez se suspenderá durante el tiempo en que el pensionado desempeñe una actividad al servicio de alguna de las instituciones estatales y municipales de seguridad pública.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+Artículo 37 Bis L.- La defunción de quienes tengan una antigüedad mayor de quince años, por causas ajenas al servicio, así como la de un pensionado, dará derecho a sus beneficiarios al pago de la pensión por muerte, que será exigible a partir del día siguiente del fallecimiento.
+
+El monto de dicha pensión, si se tratare de un servidor público en activo, se determinará conforme a los artículos 37 Bis G Y 37 Bis H. En el caso del pensionado, su importe consistirá en el salario mínimo general vigente al ocurrir el deceso.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+Artículo 37 Bis M.- La pensión por muerte, se asignará conforme al orden siguiente:
+
+I. Al cónyuge supérstite e hijos menores de dieciocho años;
+
+II. A falta de cónyuge supérstite o hijos, a la persona con quien el servidor público, pensionado, vivió como si fuera su cónyuge durante los cinco años que precedieron inmediatamente a su muerte, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato;
+
+III. Al cónyuge supérstite, siempre que a la muerte de la esposa, o el esposo, tenga una incapacidad del cincuenta por ciento o más para realizar una actividad y que hubiere dependido económicamente de ella; y,
+
+IV. A falta de cónyuge, hijos, concubina o concubino, la pensión se entregará a los ascendientes que hubieren dependido económicamente del fallecido.
+
+Cuando fueren dos o más las personas que conforme a este artículo tengan derecho a la pensión, ésta se dividirá por partes iguales; si alguna perdiere el derecho, la parte que le corresponda será repartida proporcionalmente entre las restantes.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+Artículo 37 Bis N.- Si el hijo pensionado llegare a cumplir dieciocho años y no pudiera mantenerse con su propia actividad debido a una enfermedad duradera, deficiencia física o enfermedad psíquica, el pago de la pensión por orfandad se prorrogará por el tiempo que subsista su inhabilitación.
+
+En tal caso, el pensionado deberá someterse a los reconocimientos y tratamientos que la institución de seguridad social prescriba y proporcione, así como a las investigaciones que en cualquier tiempo se ordenen para efectos de determinar su estado de invalidez; de incumplirse estas obligaciones, se suspenderá la pensión.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+Artículo 37 Bis Ñ.- Al cónyuge supérstite, la concubina o concubino, tendrán derecho a disfrutar de la pensión mientras no contraigan matrimonio o no entren en concubinato.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+Artículo 37 Bis O.- Es imprescriptible el derecho a la pensión por retiro y a las pensiones de vejez e invalidez.
 
 ## TITULO TERCERO. DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA
 
@@ -613,9 +735,9 @@ Las acciones de coordinación no previstas en esta Ley, las políticas, lineamie
 
 ### Capítulo III. De la Coordinación de Instancias
 
-#### Sección Segunda
+#### Sección Primera
 
-De los Consejos Municipales e Intermunicipales.
+Del Consejo Estatal de Seguridad Pública.
 
 ###### Artículo 43.
 
@@ -769,9 +891,9 @@ IX. Informar al Consejo Estatal de sus actividades; y
 
 X. Todas las demás que le confieran esta Ley, los reglamentos, convenios, acuerdos y otras disposiciones legales en la materia, y las que le asignen el Consejo Estatal o su Presidente.
 
-#### Sección Tercera
+#### Sección Segunda
 
-De los Comités de Consulta y Participación de la Comunidad.
+De los Consejos Municipales e Intermunicipales.
 
 ###### Artículo 52.
 
@@ -841,7 +963,9 @@ Los Consejos Intermunicipales serán presididos alternativamente por los Preside
 
 Podrán ser invitados a las sesiones de los Consejos Intermunicipales, según corresponda, los Diputados Locales y los Jueces Penales correspondientes y, en su caso, los Magistrados de las Salas de Circuito del Poder Judicial del Estado que tengan su asiento en la circunscripción comprendida.
 
-#### Sección Cuarta. De la Participación Ciudadana
+#### Sección Tercera
+
+De los Comités de Consulta y Participación de la Comunidad.
 
 ###### Artículo 57.
 
@@ -877,7 +1001,7 @@ Los Presidentes de los Comités deberán vigilar el cumplimiento de los acuerdos
 
 A fin de lograr la mejor representatividad en las funciones de los Comités, los Presidentes de los Consejos de Seguridad Pública convocarán a los diferentes sectores sociales de la comunidad, para que propongan a sus representantes ante dichos Comités.
 
-#### Sección Primera. Del Registro Estatal del Personal de Seguridad Pública
+#### Sección Cuarta. De la Participación Ciudadana
 
 ###### Artículo 63.
 
@@ -915,7 +1039,7 @@ III. Información de Apoyo a la Procuración y Administración de Justicia; y,
 
 IV. Estadística de Seguridad Pública.
 
-#### Sección Segunda. Del Registro Estatal de Armamento y Equipo
+#### Sección Primera. Del Registro Estatal del Personal de Seguridad Pública
 
 ###### Artículo 69.
 
@@ -975,9 +1099,7 @@ La credencial que identifique a los integrantes de las instituciones de segurida
 
 La consulta al Registro Estatal será obligatoria y previa al ingreso de toda persona a cualquier institución de seguridad pública. Con los resultados de la consulta, la autoridad procederá de conformidad con las normas conducentes.
 
-#### Sección Tercera. De la Información sobre Procuración e Impartición de Justicia
-
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+#### Sección Segunda. Del Registro Estatal de Armamento y Equipo
 
 ###### Artículo 76.
 
@@ -1029,7 +1151,7 @@ En el caso de que los elementos de seguridad pública aseguren armas y/o municio
 
 El incumplimiento de las disposiciones contenidas en esta Sección, dará lugar a las sanciones que procedan en los términos de las normas aplicables.
 
-#### Sección Cuarta. De la Estadística Estatal de Seguridad Pública
+#### Sección Tercera. De la Información sobre Procuración e Impartición de Justicia
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
@@ -1085,7 +1207,9 @@ Dicha información se dará de baja de la base de datos, por resoluciones de no 
 
 La Institución del Ministerio Público, y el órgano jurisdiccional, en su caso, sólo podrán reservarse la información que ponga en riesgo una investigación o un proceso concretos, pero la proporcionarán inmediatamente después que deje de existir esta situación.
 
-#### Sección Quinta. De las Reglas Generales sobre la Información
+#### Sección Cuarta. De la Estadística Estatal de Seguridad Pública
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 86.
 
@@ -1098,6 +1222,8 @@ El Reglamento de esta ley señalará los instrumentos de acopio de datos que per
 ###### Artículo 88.
 
 Las normas generales para la recepción de la información serán establecidas de conformidad con la Ley de Información Estadística y Geográfica.
+
+#### Sección Quinta. De las Reglas Generales sobre la Información
 
 ###### Artículo 89.
 
@@ -1862,3 +1988,9 @@ c) Los asuntos en los que el Pleno del Consejo haya emitido ya resolución defin
 d) Si existieran adolescentes menores de catorce años privados de su libertad, se ordenará su inmediata libertad; sin perjuicio de que, en el caso de los mayores de doce años, el Juez Especializado pueda sustituirla por una de las medidas de orientación y protección previstas en la Ley de Justicia para Adolescentes del Estado de Sinaloa, escuchando al adolescente, sus padres, tutores o representantes legales y el Ministerio Público.
 
 e) Si existieran menores de doce años privados de su libertad, se ordenará su inmediata libertad; si sus derechos estuvieren amenazados o en riesgo, el Juez Especializado podrá ordenar la intervención de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, en los términos de lo previsto en la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Sinaloa.
+
+P.O. 4 DE FEBRERO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia un día después de su publicación en el Periódico Oficia' "El Estado de Sinaloa".
