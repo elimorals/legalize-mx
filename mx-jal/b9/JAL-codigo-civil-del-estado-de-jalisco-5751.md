@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2008-05-27"
+last_updated: "2009-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 2009.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -3371,11 +3371,11 @@ El juez deberá garantizar el derecho de audiencia y defensa de los parientes qu
 
 Si el menor que se va a adoptar tiene más de doce años, también se necesita su consentimiento para la adopción.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2009)</small>
 
 ###### Art. 537.
 
-Cuando el tutor o el Consejo de Familia no consienten en la adopción; o el Ministerio Público se oponga a la misma, deberán expresar la causa en que se funde, la que el juez calificará tomando en cuenta los intereses del menor.
+Cuando el tutor o el Consejo de Familia no consienten en la adopción; o el Agente de la Procuraduría Social se oponga a la misma, deberán expresar la causa en que se funde, la que el juez calificará tomando en cuenta los intereses del menor.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
@@ -17948,3 +17948,7 @@ CUARTO. El Consejo Estatal deberá integrarse dentro de los siguientes 60 días 
 QUINTO. El Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres victimas de violencia que lo requieran.
 
 SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán acabo (sic) de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de Justicia Alternativa del estado de Jalisco.
+
+P.O. 5 DE FEBRERO DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
