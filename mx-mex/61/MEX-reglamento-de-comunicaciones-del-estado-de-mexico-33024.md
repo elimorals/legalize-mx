@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-comunicaciones-del-estado-de-mexico-33024"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-07-01"
-last_updated: "2005-07-14"
+last_updated: "2009-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE COMUNICACIONES DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE FEBRERO DE 2009.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 1 de julio de 2003.
 
@@ -575,13 +575,39 @@ El dictamen de incorporación e impacto vial es una opinión técnica de la auto
 
 La solicitud para la emisión del dictamen deberá dirigirse a la autoridad de comunicaciones, anexando lo siguiente:
 
-I. Copia de la solicitud presentada ante la autoridad de desarrollo urbano para la autorización o licencia de uso de suelo, que requiera de dictamen de impacto regional;
+> <small>(REFORMADA, G.G. 5 DE FEBRERO DE 2009)</small>
 
-II. Copia de la documentación presentada ante la autoridad de desarrollo urbano que permita ubicar los accesos y salidas vehiculares, las áreas de estacionamiento con el número de cajones y las especificaciones técnicas de las vialidades perimetrales;
+I. Escrito dirigido al Director General de Vialidad, solicitando el dictamen de incorporación e impacto vial;
 
-III. Estudio técnico de incorporación e impacto vial, que proponga las obras y acciones para su mitigación, elaborado por perito con registro de la Secretaría.
+> <small>(REFORMADA, G.G. 5 DE FEBRERO DE 2009)</small>
 
-La solicitud deberá formularse a través de los formatos aprobados por la Secretaría.
+II. Planos Arquitectónicos (plantas arquitectónicas, cortes y de conjunto, este último indicando los usos de suelo pretendidos, cajones de estacionamiento, áreas de carga y de descarga, debidamente acotadas y a escala);
+
+> <small>(REFORMADA, G.G. 5 DE FEBRERO DE 2009)</small>
+
+III. Memoria descriptiva del proyecto indicando áreas de construcción y/o características de uso;
+
+> <small>(ADICIONADA, G.G. 5 DE FEBRERO DE 2009)</small>
+
+IV. Documento que acredite la propiedad o posesión del inmueble;
+
+> <small>(ADICIONADA, G.G. 5 DE FEBRERO DE 2009)</small>
+
+V. Croquis de localización;
+
+> <small>(ADICIONADA, G.G. 5 DE FEBRERO DE 2009)</small>
+
+VI. Personas Jurídicas Colectivas, anexarán el Acta Constitutiva correspondiente;
+
+> <small>(ADICIONADA, G.G. 5 DE FEBRERO DE 2009)</small>
+
+VII. Si el predio cuenta con construcción, se deberá anexar copia de la Licencia de Uso de Suelo; y
+
+> <small>(ADICIONADA, G.G. 5 DE FEBRERO DE 2009)</small>
+
+VIII. Los desarrollos, empresas, personas Físicas y/o Jurídicas Colectivas que tengan antecedentes de dictamen vial, deberán anexar copia del documento que ampare el cumplimiento del mismo.
+
+> <small>(DEROGADO ULTIMO PARRAFO, G.G. 5 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 51.
 
@@ -607,7 +633,7 @@ La Secretaría mediante disposiciones generales determinará los casos en los qu
 
 El dictamen de incorporación e impacto vial contendrá:
 
-I. Resumen del estudio técnico;
+I. (DEROGADA, G.G. 5 DE FEBRERO DE 2009)
 
 II. La información general y el proyecto de la obra;
 
@@ -625,13 +651,15 @@ c) El número de cajones de estacionamiento;
 
 d) Los patios de maniobras para vehículos, en su caso;
 
-e) Las secciones de las vialidades internas, en su caso;
+e). (DEROGADO, G.G. 5 DE FEBRERO DE 2009)
 
 f) La señalización necesaria para el control del tránsito vehicular al interior del desarrollo, de los accesos y salidas vehiculares, así como de la zona de influencia;
 
 g) Las obras y acciones necesarias a cargo del interesado para incorporar el desarrollo a la infraestructura vial;
 
-h) La determinación del crédito fiscal que deberá cubrir el interesado por concepto de aportaciones para obras de incorporación e impacto vial, en términos del Código Financiero del Estado de México y Municipios.
+> <small>(REFORMADO, G.G. 5 DE FEBRERO DE 2009)</small>
+
+h) La determinación del crédito fiscal que deberá cubrir el interesado por concepto de aportaciones para obras de impacto vial, en términos del Código Financiero del Estado de México y Municipios.
 
 ###### Artículo 56.
 
@@ -752,6 +780,14 @@ PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del G
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO.- La Secretaría de Comunicaciones, la Junta de Caminos del Estado de México y el Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México, en el ámbito de su competencia, proveerán lo necesario para el cumplimiento del presente Acuerdo.
+
+G.G. 5 DE FEBRERO DE 2009.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente hábil de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los trámites que se encuentren en proceso hasta antes de la entrada en vigor del presente acuerdo, se seguirán conforme a las fracciones del artículo que se reforma.
 
 ### CAPITULO OCTAVO. DE LAS TELECOMUNICACIONES
 
