@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2008-11-25"
+last_updated: "2009-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -666,6 +666,18 @@ El acuerdo será reservado, sin perjuicio de que las actuaciones anteriores pued
 
 ARTICULO 68 bis.- En los procedimientos en que intervengan personas que aleguen tener la calidad de indígenas, la misma se acreditará con la sola manifestación de quien la haga. Cuando el juez tenga duda de ella o fuere cuestionada en juicio, se solicitará por conducto de la Comisión Estatal indígena a las autoridades comunitarias la expedición de la constancia que acredite la pertenencia del individuo a un determinado pueblo o comunidad.
 
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2009)</small>
+
+ARTICULO 68 ter.- Los agentes de la Procuraduría Social intervendrán en todos los juicios en los que:
+
+I. Se afecten los intereses sociales;
+
+II. Se afecte a la persona, bienes o derechos de menores, incapaces, adultos mayores o ausentes, y
+
+III. En lodos los casos que dispusiere la ley.
+
+La intervención del Agente de la Procuraduría Social en juicio, lo faculta para recabar, ofrecer, desahogar, objetar pruebas; interponer y continuar recursos e incidentes, formular alegatos y en genera: solicitar al Juzgador la realización de todos los actos procesales para la continuación del juicio; garantizar la legalidad del procedimiento y salvaguardar los derechos de la sociedad, de los menores de edad incapaces, adultos mayores y ausentes para lo cual podrá imponerse de los autos en la secretaría y podrá solicitar se le entreguen copias de los mismos.
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 69.
@@ -678,7 +690,9 @@ Los jueces y magistrados a quienes corresponda, presidirán todos los actos de p
 
 Toda diligencia judicial de audiencia, se asentará en un acta circunstanciada, en la que se deberá de hacer constar que se dio fe de conocimiento o de los medios sustitutos que se utilizaron para identificar a los comparecientes.
 
-Cuando no se conozca a los comparecientes, y siempre que no fuese posible su identificación por algún medio fehaciente, como documentos oficiales expedidos por autoridades federales, estatales, municipales, u organismos paraestatales, descentralizados o similares, a juicio del juzgador, intervendrán dos testigos, conocidos o identificados por aquél, que certifiquen la identidad de dichos comparecientes.
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2009)</small>
+
+Cuando no se conozca a los comparecientes, y siempre que no fuese posible su identificación por algún medio fehaciente, como documentos oficiales expedidos por autoridades federales, estatales, municipales, u organismos paraestatales, descentralizados o similares, se citará al Agente de la Procuraduría Social y a juicio del juzgador, intervendrán dos testigos, conocidos o identificados por aquél, que certifiquen la identidad de dichos comparecientes.
 
 El servidor público judicial podrá dar fe de conocimiento en los términos antes citados, cuando el compareciente, se hubiere identificado ante él con los documentos indicados en el párrafo anterior.
 
@@ -778,11 +792,13 @@ VI.- Formar una colección del Boletín Judicial de tres meses anteriores al dí
 
 VII.- Las demás que la ley les imponga.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 78.
 
 En ningún caso se entregarán los autos a las partes, para que los lleven fuera del tribunal. Las frases "dar vista" o "correr traslado", sólo significan que los autos quedan en la Secretaría para que se impongan de ellos los interesados, se les entreguen copias, tomar apuntes, alegar o glosar cuentas.
+
+Queda exceptuado de lo anterior cuando el Juzgador ordene dar vista o citar para desahogo de audiencia al Agente de la Procuraduría Social, ordenará se corra traslado de los autos originales previo acuse de recibido, hasta por cinco días al Agente de la Procuraduría Social en el domicilio de la Institución, para que se imponga de los mismos y esté en posibilidad de manifestar lo que en derecho corresponda.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -800,9 +816,9 @@ Los incidentes no suspenderán el procedimiento, se tramitarán con un escrito d
 
 Se exceptúa de lo anterior los incidentes de nulidad de actuaciones, de competencia y las demás cuestiones incidentales que tienen previstos trámites especiales en éste código para su substanciación.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2009)</small>
 
-Cuando durante el juicio, antes de la citación para sentencia en el procedimiento ordinario o de que se proceda a dictarla en el sumario, se denuncien hechos delictuosos relacionados con el negocio, el juez o tribunal de los autos, los pondrá inmediatamente en conocimiento del Ministerio Público para que proceda con arreglo a sus atribuciones. En los demás casos se procederá como lo previene el artículo 88 del Código de Procedimientos Penales del Estado.
+Cuando en cualquier etapa del juicio, se denuncien hechos delictuosos relacionados con el negocio, el juez o tribunal de los autos, los pondrá inmediatamente en conocimiento del Ministerio Público para que proceda con arreglo a sus atribuciones. En los demás casos se procederá como lo previene el artículo 88 del Código de Procedimientos Penales del Estado.
 
 Si la denuncia se refiere a la falsedad de un documento presentado al juicio al comunicar los hechos al ministerio público, se le remitirá original y sellado el documento argüido de falso, el cual rubricarán el juez y el secretario, dejando en los autos, en lugar de aquél, copia autorizada.
 
@@ -1128,9 +1144,11 @@ Entre tanto que un litigante no hiciera nueva designación del domicilio en dond
 
 Se equipara a una negativa a recibir notificaciones, el hecho de que el servidor público que practique la diligencia encuentre cerrado el domicilio señalado con tal fin dos o más veces, de lo que deberá expresamente asentarse razón en autos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 109.
 
-Será notificado personalmente en el domicilio de los litigantes:
+Será notificado personalmente en el domicilio de los litigantes y del Agente de la Procuraduría Social:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -4506,7 +4524,7 @@ IV.- La maquinaria, instrumentos y animales propios para el cultivo agrícola en
 
 V.- Los libros, aparatos, instrumentos y útiles de las personas que ejerzan o se dediquen al estudio de profesiones liberales;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 VI.- Las armas y caballos que los militares en servicio activo usen, indispensables para éste conforme a las leyes relativas;
 
@@ -4974,9 +4992,11 @@ De los Incidentes en General.
 
 De los Incidentes Criminales que surjan en los Juicios Civiles.
 
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 592.
 
-Cuando durante el juicio, antes de la citación para sentencia en el procedimiento ordinario o de que se proceda a dictarla en el sumario, se denuncien hechos delictuosos relacionados con el negocio, el Juez o Tribunal de los autos, los pondrá inmediatamente en conocimiento del Ministerio Público para que proceda con arreglo a sus atribuciones. En los demás casos se procederá como lo previene en el artículo 9/o del Código de Procedimientos Penales.
+Cuando en cualquier etapa del juicio, se denuncien hechos delictuosos relacionados con el negocio, el Juez o Tribunal de los autos, los pondrá inmediatamente en conocimiento del Ministerio Público para que proceda con arreglo a sus atribuciones. En los demás casos se procederá como lo previene el artículo 88 del Código de Procedimientos Penales.
 
 ###### ARTICULO 593.
 
@@ -5634,6 +5654,14 @@ Si antes de la celebración de la audiencia de pruebas y alegatos, el demandado 
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
+ARTICULO 686 ter.- La audiencia a que se refiere el artículo anterior podrá ser diferida, a criterio del juez, por una sola ocasión, de oficio o a petición de parte, justificando debidamente el motivo del aplazamiento.
+
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
+
+Cuando la causa del diferimiento de la audiencia, en los términos del párrafo anterior, sea la imposibilidad de desahogar en ese momento alguna prueba, el juez señalará nueva fecha para su celebración, dentro de los diez días siguientes, apercibiendo a las partes que de no aportar los elementos necesarios para el desahogo de las mismas, se les tendrá por perdido ese derecho, continuándose con el desarrollo de la audiencia.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ARTICULO 686 bis.- El juez debe citar a la audiencia de pruebas y alegatos, dentro de los treinta días posteriores a la emisión del auto que admite la contestación de la demanda o de la reconvención, en su caso, previniendo a las partes, con por lo menos cinco días de anticipación a la fecha señalada para la celebración de la audiencia, para que aporten los elementos necesarios para el desahogo de las pruebas a su cargo.
 
 Abierta la audiencia se procederá al desahogo, por su orden, de las pruebas y una vez desahogadas, se procederá a la formulación de alegatos, ya sea oralmente o por escrito. Acto continuo el juez citará a las partes, para oír sentencia, misma que deberá ser dictada, dentro de los quince días siguientes.
@@ -5641,14 +5669,6 @@ Abierta la audiencia se procederá al desahogo, por su orden, de las pruebas y u
 > <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
 
 Las partes podrán alegar verbalmente, sin que los alegatos puedan exceder de veinte minutos por cada parte, incluyendo las réplicas y contrarréplicas.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
-
-ARTICULO 686 ter.- La audiencia a que se refiere el artículo anterior podrá ser diferida, a criterio del juez, por una sola ocasión, de oficio o a petición de parte, justificando debidamente el motivo del aplazamiento.
-
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
-
-Cuando la causa del diferimiento de la audiencia, en los términos del párrafo anterior, sea la imposibilidad de desahogar en ese momento alguna prueba, el juez señalará nueva fecha para su celebración, dentro de los diez días siguientes, apercibiendo a las partes que de no aportar los elementos necesarios para el desahogo de las mismas, se les tendrá por perdido ese derecho, continuándose con el desarrollo de la audiencia.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -6098,7 +6118,9 @@ Las actas que contengan errores mecanográficos, ortográficos o de otra índole
 
 Los juicios sobre nulificación, convalidación, reposición o rectificación de las actas del Registro Civil, se tramitarán conforme a las reglas de los ordinarios, y a las especiales siguientes.
 
-En estos juicios serán oídos el Oficial del Registro Civil donde pasó el acto cuya modificación se reclama y el Ministerio Público, así como los demás interesados que se presentan a oponerse.
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2009)</small>
+
+En estos juicios serán oídos el Oficial del registro Civil donde pasó el acto cuya modificación se reclama y el Agente de la Procuraduría Social, así como los demás interesados que se presenten a oponerse.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1977)</small>
 
@@ -6156,11 +6178,11 @@ El juez examinará la solicitud y el convenio y si encuentra que éste reúne lo
 
 Si el convenio no contiene todos los puntos enumerados en el artículo 764 de éste código o no están expresados claramente, el juez prevendrá a los solicitantes que los precisen y aclaren en un término prudente que concederá al efecto, el que en ningún caso excederá de diez días, apercibiéndolos de que si no lo hacen de común acuerdo se les tendrá por desistidos de su solicitud de divorcio.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 767.
 
-Llenados los requisitos de que se habla en los artículos anteriores, el Juez después de dictar las medidas convenientes para asegurar la situación de los hijos menores o incapacitados, para la separación de los cónyuges, y los alimentos de los hijos y los que un cónyuge debe dar al otro en su caso, mientras dure el procedimiento, dará vista de la solicitud y de los demás documentos al ciudadano Agente del Ministerio Público, mandando entregarle las copias simples necesarias, para que dentro de un término no mayor de diez días manifieste en forma expresa su conformidad o inconformidad respecto de la solicitud y del convenio, así como las razones en que se funde.
+Llenados los requisitos de que se habla en los artículos anteriores, el Juez después de dictar las medidas convenientes para asegurar la situación de los hijos menores o incapacitados, para la separación de los cónyuges, y los alimentos de los hijos y los que un cónyuge debe dar a otro en su caso, mientras dure el procedimiento, dará vista de la solicitud y de los demás documentos al Agente de la procuraduría Social, para que dentro de un término no mayor a diez días manifieste en forma expresa su conformidad o inconformidad respecto de la solicitud y del convenio, así como las razones en que se funde.
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
 
@@ -6516,9 +6538,11 @@ II.- Cuando haya menores interesados;
 
 III.- Cuando haya peligro de que se oculten o dilapiden los bienes.
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE FEBRERO DE 2009)</small>
 
-ARTICULO 817 bis.- En los juicios sucesorios el Juez pedirá informe al Procurador de Justicia del Estado, al Director del Archivo de Instrumentos Públicos y al Director del Registro Nacional de Avisos de Testamentos, acerca de si en su oficina se ha depositado o registrado algún testamento del autor de la sucesión, para que en caso de que así sea, se le remita copia autorizada del mismo.
+ARTICULO 817 bis.- En los juicios sucesorios el Juez pedirá informe al Procurador Social del Estado, al Director del Archivo de Instrumentos Públicos y al Director del Registro Nacional de Avisos de Testamentos, acerca de si en su oficina se ha depositado o registrado algún testamento del autor de la sucesión, para que en caso de que así sea, se le remita copia autorizada del mismo.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2007)</small>
 
 La petición que se realice al Registro Nacional de Avisos de Testamentos, se efectuará vía fax o electrónica.
 
@@ -7454,19 +7478,9 @@ Los honorarios del Notario serán cubiertos por quien solicitó su nombramiento 
 
 Cuando fuere necesaria la audiencia de alguna persona, se le citará conforme a derecho, advirtiéndole en la citación que quedan por tres días las actuaciones en la Secretaría del Juzgado para que se imponga de ellas y se señalará día y hora para la audiencia, a la que concurrirá el promovente, sin que sea obstáculo para la celebración de ella su falta de asistencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2007)</small>
-
 ###### ARTICULO 957.
 
-Se oirá precisamente al Agente de la Procuraduría Social:
-
-I.- Cuando la solicitud promovida afecte los intereses públicos;
-
-II.- Cuando se refiera a la persona o bienes de menores o incapacitados;
-
-III. Cuando tenga relación con los derechos o bienes de un ausente;
-
-IV.- Cuando lo dispusiere la ley.
+(DEROGADO, P.O. 5 DE FEBRERO DE 2009)
 
 ###### ARTICULO 958.
 
@@ -8789,3 +8803,7 @@ P.O. 25 DE NOVIEMBRE DE 2008.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Las garantías que hasta antes de la entrada en vigor de esta reforma, hayan sido otorgadas por el Gobierno del Estado y los ayuntamientos en los juicios civiles en que sean parte, serán canceladas.
+
+P.O. 5 DE FEBRERO DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
