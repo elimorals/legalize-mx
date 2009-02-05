@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-notariado-del-estado-de-jalisco-52031"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-26"
-last_updated: "2008-04-03"
+last_updated: "2009-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN PERIODICO OFICIAL: 3 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN PERIODICO OFICIAL: 5 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2006.
 
@@ -1449,9 +1449,9 @@ Cuando se trate de revocación o renuncia de poderes que no hayan sido otorgados
 
 Cuando al otorgarse un testamento, se revoque otro asentado en el protocolo de la misma notaría, se deberá hacer la anotación correspondiente; si pasó ante diverso notario, se le comunicará para que aquel la efectúe.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2009)</small>
 
-El Notario deberá dar aviso dentro de los dos días siguientes a la Procuraduría Social y a la Dirección del Archivo de Instrumentos Públicos, cuando se otorgue o revoque un testamento.
+El notario deberá dar aviso dentro de los dos días siguientes, a la Procuraduría Social y a la Dirección del Archivo de Instrumentos Públicos cuando se otorgue o revoque un testamento.
 
 En ambos casos el aviso deberá contener los siguientes datos:
 
@@ -2726,3 +2726,7 @@ P.O. 6 DE MARZO DE 2008.
 P.O. 3 DE ABRIL DE 2008.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 5 DE FEBRERO DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
