@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2007-02-22"
+last_updated: "2009-02-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -1075,11 +1075,11 @@ La prevención de las enfermedades mentales tiene carácter prioritario. Se basa
 
 Para los efectos del párrafo anterior se consideran como factores y causas que afectan la salud mental entre otros, los biológicos, psicológicos y socio culturales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE FEBRERO DE 2009)</small>
 
 ###### Art. 73.
 
-Para la promoción de la salud mental, la Secretaría de Salud y Bienestar Social del Estado, impulsará la coordinación entre el organismo estatal que atienda o maneje la asistencia social y las instituciones de salud, con las autoridades competentes, en cada materia, para fomentar y apoyar:
+Para la promoción de la salud menta, la Secretaria de Salud, impulsará la coordinación entre el organismo estatal que atienda o maneje la asistencia y las instituciones de salud, con las autoridades competentes, en cada materia, para fomentar y apoyar:
 
 > <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -1089,11 +1089,17 @@ I. La planeación, realización y evaluación de actividades educativas, sociocu
 
 II. La difusión de las orientaciones para la prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras que puedan causar alteraciones mentales o dependencia, incrementando las campañas en el ámbito de la población de mayor riesgo; y
 
-> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2009)</small>
 
-III. La prestación de servicios de apoyo psicológico, individual y grupal, a las personas que viven con VIH/SIDA y otras enfermedades que afecten o puedan afectar la salud mental, y
+III. La prestación de servicios de apoyo psicológico, individual y grupal, a las personas que viven con VIH/SIDA y otras enfermedades que afecten o puedan afectar la salud mental;
 
-IV. Las demás acciones que, directa o indirectamente, contribuyan al fomento de la salud mental de la población.
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2009)</small>
+
+IV. La implementación de programas para la detección y atención de la depresión en los centros de salud regionales y municipales, atendidos por profesionistas y profesionales especializados en la prevención del suicidio; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE FEBRERO DE 2009)</small>
+
+V. Las demás acciones que, directa o indirectamente, contribuyan al fomento de la salud mental de la población.
 
 ###### Art. 74.
 
@@ -1137,7 +1143,9 @@ Para tal efecto, podrán obtener orientación y asesoramiento en las institucion
 
 Salud pública es la ciencia y el arte de prevenir la enfermedad, prolongar la vida, fomentar la salud y la eficiencia por medio del esfuerzo organizado de la comunidad.
 
-Se consideran acciones de salud pública, entre otras, el saneamiento del medio, la prevención, control de enfermedades y accidentes, promoción de la salud, control y vigilancia sanitaria, así como, la prevención y control de adicciones.
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2009)</small>
+
+Se consideran acciones de salud pública, entre otras, el saneamiento del medio, la prevención, control de enfermedades y accidentes, promoción de la salud, control y vigilancia sanitaria, la prevención y control de adicciones, así como la detección y atención de la depresión y prevención del suicidio.
 
 ### CAPITULO IX. De la asistencia social
 
@@ -3708,3 +3716,7 @@ P.O. 22 DE FEBRERO DE 2007.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. La Secretaría de Salud se coordinará con las autoridades municipales para cumplir con lo dispuesto en el artículo 167.
+
+P.O. 5 DE FEBRERO DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor al dia siguiente de su publicación en el periódico oficial El Estado de Jalisco.
