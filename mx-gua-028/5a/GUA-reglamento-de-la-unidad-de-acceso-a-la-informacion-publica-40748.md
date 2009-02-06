@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-unidad-de-acceso-a-la-informacion-publica-4074
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-27"
-last_updated: "2008-01-15"
+last_updated: "2009-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "GUA"
 
 REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE SALVATIERRA GUANAJUATO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guanajuato, el viernes 27 de agosto de 2004.
 
@@ -54,11 +54,15 @@ III.- INSTITUTO.- El Instituto de Acceso a la Información Pública;
 
 IV.- UNIDAD DE ACCESO.- Unidad de Acceso a la Información Pública;
 
-V.- DEPENDENCIA.- Unidad administrativa de la administración pública municipal centralizada; y
+V.- DEPENDENCIA.- Unidad administrativa de la administración pública municipal centralizada; y (sic)
 
 VI.- ENTIDAD.- Organismo de la administración pública paramunicipal;
 
-VII.- RESOLUCIÓN.- Respuesta que se de a las solicitudes presentadas ante la Unidad de Acceso a la Información Pública; no incluye copias, impresiones, discos, etc.
+VII.- RESOLUCIÓN.- Respuesta que se de a las solicitudes presentadas ante la Unidad de Acceso a la Información Pública; no incluye copias, impresiones, discos, etc.;
+
+> <small>(ADICIONADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+VIII.- MÁXIMA PUBLICIDAD.- Principio que orienta la forma de interpretar y aplicar la norma para que en caso de duda razonable, se opte por la publicidad de la información.
 
 ###### ARTÍCULO 3°.
 
@@ -67,6 +71,10 @@ La Unidad de Acceso será el vínculo entre las Dependencias, las Entidades y el
 ###### ARTÍCULO 4°.
 
 Para los efectos del presente Reglamento se considera Información Pública, toda aquella que no se encuentre clasificada como reservada o confidencial.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE FEBRERO DE 2009)</small>
+
+Para los efectos del presente Reglamento se considera información pública, toda aquella que no se encuentre clasificada como reservada o confidencial, debiéndose favorecer, en la aplicación del presente ordenamiento, el principio de máxima publicidad.
 
 ###### ARTÍCULO 5°.
 
@@ -78,37 +86,89 @@ II.- La estructura orgánica del H. Ayuntamiento y de la Administración Públic
 
 III.- El directorio de servidores públicos, desde el nivel de jefe de departamento o sus equivalentes hasta el nivel del funcionario de mayor jerarquía;
 
-IV.- El tabulador de dietas, sueldos y salarios; el sistema de premios, estímulos y recompensas; los gastos de representación, costos de viaje, viáticos y cualquier otro tipo de gastos realizados por los servidores públicos en ejercicio o con motivo de sus funciones;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-V.- El domicilio, número telefónico y la dirección electrónica de la Unidad de Acceso, donde podrán recibirse las solicitudes para obtener la información pública;
+IV.- El tabulador mensual de dietas, sueldos y salarios, precisando todo género de percepciones y descuentos;
 
-VI.- Las metas y objetivos de los programas municipales;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-VII.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA PROTECCION DE DATOS PERSONALES DEL MUNICIPIO DE SALVATIERRA, GTO, P.O. 15 DE ENERO DE 2008)
+V.- El sistema de premios, estímulos y recompensas de conformidad con la Ley de la materia;
 
-VIII.- Los servicios que ofrece la Administración Pública Municipal, los trámites, requisitos y formatos y, en su caso, el monto de los derechos para acceder a los mismos;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-IX.- El monto del presupuesto asignado, así como los informes sobre su ejecución;
+VI.- Los gastos de representación, costo de viajes, viáticos y otro tipo de gastos realizados por los servidores públicos en ejercicio o con motivo de sus funciones;
 
-X.- Los destinatarios y el uso autorizado de toda entrega de recursos públicos, cualquiera que sea su destino, así como los informes que dichas personas deben entregar sobre el uso y destino de éstos;
+> <small>(REFORMADA [N. DE E. ADICIONADA] P.O. 6 DE FEBRERO DE 2009)</small>
 
-XI.- Las enajenaciones de bienes que realicen por cualquier título o acto, indicando los motivos, beneficiarios o adquirientes y los montos de operaciones;
+VII.- El domicilio, número telefónico y la dirección electrónica de la unidad de acceso a la información pública donde podrán recibirse las solicitudes para obtener la información pública;
 
-XII.- Los montos asignados y criterios de acceso a los programas de subsidio;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-XIII.- Los resultados finales de las auditorías que se practiquen a la Administración Pública Municipal;
+VIII.- Los indicadores de gestión, las metas y objetivos de sus programas y el informe del ejercicio de los recursos públicos asignados o asociados a ellos;
 
-XIV.- Las reglas para otorgar concesiones, licencias, permisos o autorizaciones;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-XV.- Los contratos de obra pública, su monto y a quién le fueron asignados;
+IX.- Los servicios que ofrecen, los trámites, requisitos y formatos y, en su caso, el monto de los derechos para acceder a los mismos;
 
-XVI.- Los informes que por disposición legal genere el H. Ayuntamiento y la Administración Pública Municipal;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-XVII.- Los documentos en que consten las cuentas públicas, empréstitos y deudas contraídas;
+X.- La cuenta Pública, el monto del presupuesto asignado, así como los informes sobre su ejecución y los datos de la deuda pública. Dicha información será proporcionada respecto de cada dependencia y entidad del sujeto obligado;
 
-XVIII.- La aplicación de fondos auxiliares especiales y el origen de los ingresos; y
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-XIX.- La relación de solicitudes de acceso a la información pública que se le presenten y las respuestas que se les den a las mismas.
+XI.- Los destinatarios y el uso autorizado de toda entrega de recursos públicos, cualquiera que sea su destino, así como los informes que dichas personas deben entregar sobre el uso y destino de éstos;
+
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+XII.- Las enajenaciones de bienes que realicen por cualquier título o acto, indicando los motivos, beneficiarios o adquirentes y los montos de las operaciones;
+
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+XIII.- Los montos asignados y criterios de acceso a los programas de subsidio;
+
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+XIV.- Los resultados finales de las auditarias que se practiquen a los sujetos obligados;
+
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+XV.- Las reglas para otorgar concesiones, licencias, permisos o autorizaciones; su objeto y vigencia; así como los nombres de los titulares o beneficiarios;
+
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+XVI.- El padrón inmobiliario;
+
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+XVII.- El listado de contratos, su monto y a quienes les fueron asignados, y en su caso, los participantes en el concurso o licitación;
+
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+XVIII.- Los informes que por disposición legal generen los sujetos obligados, así como las actas o minutas de sesiones públicas de cuerpos colegiados de los sujetos obligados por esta Ley;
+
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+XIX.- Los documentos en que consten las cuentas públicas, empréstitos y deudas contraídas;
+
+> <small>(ADICIONADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+XX.- Las iniciativas de Ley que se presenten en el Congreso del Estado, sus avances en los trabajos de dictaminación, así como los acuerdos y decretos legislativos aprobados;
+
+> <small>(ADICIONADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+XXI.- La aplicación de fondos auxiliares especiales y el origen de los ingresos;
+
+> <small>(ADICIONADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+XXII.- La relación de solicitudes de acceso a la información pública y las respuestas que se les den;
+
+> <small>(ADICIONADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+XXIII.- La resolución ejecutoria de los procedimientos de responsabilidad de los servidores públicos.
+
+> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
+Las dependencias municipales y entidades paramunicipales deberán actualizar de manera trimestral esta información de acuerdo al calendario que apruebe la Unidad de Acceso.
 
 ###### ARTÍCULO 6°.
 
@@ -316,9 +376,11 @@ En cada Dependencia o Entidad se acondicionará el espacio adecuado para el debi
 
 ### CAPÍTULO V. DEL PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN PÚBLICA EN LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 19.
 
-La solicitud de Acceso a la Información Pública deberá formularse mediante formato que para el efecto proporcione la unidad de acceso.
+La solicitud de acceso a la información pública deberá formularse mediante formato que para el efecto proporcione la Unidad de Acceso, sin perjuicio de la presentación de solicitudes en formato libre, al correo electrónico oficial, o mediante mecanismos electrónicos que convenga el H. Ayuntamiento.
 
 ###### ARTÍCULO 20.
 
@@ -340,9 +402,17 @@ Los solicitantes de la información pública deberán señalar el mecanismo por 
 
 I.- Personalmente en el domicilio de la Unidad de Acceso;
 
-II.- En el domicilio señalado para recibir notificaciones, que será dentro de la cabecera municipal; o
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-III.- Por medio electrónico.
+II.- En el domicilio señalado para recibir notificaciones, que será dentro de la cabecera municipal;
+
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+III.- Por medio electrónico; o
+
+> <small>(ADICIONADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+IV.- Por correo certificado.
 
 ###### ARTÍCULO 22.
 
@@ -352,29 +422,37 @@ La información publicada en el portal de Internet del municipio, podrá ser con
 
 Una vez recibida la solicitud respectiva en la Unidad de Acceso, ésta procederá al análisis de la misma, y en su caso:
 
-I.- Si del análisis de la solicitud se determina que los datos proporcionados en la misma no son suficientes para localizar los documentos o son erróneos, procederá en los términos señalados en el segundo párrafo del artículo 39 de la Ley, dentro de los 2 días hábiles siguientes al de recepción de la solicitud.
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-El término de 20 días hábiles, de acuerdo con la Ley, para proporcionar la información, se interrumpe, hasta en tanto el solicitante satisfaga el requerimiento de aclaración, por parte de la Unidad de Acceso.
+I.- Si del análisis de la solicitud se determina que los datos proporcionados en la misma no son suficientes para localizar los documentos o son erróneos, se procederá en los términos señalados en el segundo párrafo del artículo 39 de la Ley, dentro de los 2 días hábiles siguientes al de recepción de la solicitud.
 
-En caso de modificación sustancial de la solicitud de acceso presentada como respuesta al requerimiento comenzará a correr un nuevo plazo de 20 días hábiles.
+El término de 15 días hábiles, de acuerdo con la Ley, para proporcionar la información, se interrumpe, hasta en tanto el solicitante satisfaga el requerimiento de aclaración, por parte de la Unidad de Acceso.
+
+En caso de modificación sustancial de la solicitud de acceso presentada como respuesta al requerimiento comenzará a correr un nuevo plazo de 15 días hábiles.
 
 II.- Cuando la solicitud de información contenga los datos necesarios para darle tramite, se requerirá al titular de la Dependencia o Entidad que corresponda dentro de los 2 días hábiles siguientes al en que se haya recibido la solicitud, la información respectiva.
 
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 24.
 
-El titular de la Dependencia o Entidad procederá a dar trámite la petición de la Unidad de Acceso y como parte del procedimiento será verificar si la información solicitada se encuentra en esa dependencia o entidad; si ésta es pública deberá remitirla a la Unidad de Acceso a la Información dentro de los 10 días hábiles siguientes, a fin de que se le dé el trámite correspondiente.
+El titular de la dependencia o entidad procederá a dar trámite la petición de la Unidad de Acceso y como parte del procedimiento será verificar si la información solicitada se encuentra en esa dependencia o entidad; si ésta es pública deberá remitirla a la Unidad de Acceso a la Información dentro de los 7 días hábiles siguientes, a fin de que se le dé el trámite correspondiente.
 
-Si no existe respuesta de la Dependencia o Entidad, el Titular de la Unidad de Acceso le requerirá a fin de que dé contestación a la petición en el plazo de 2 días hábiles.
+Si no existe respuesta de la dependencia o entidad, el titular de la Unidad de Acceso le requerirá a fin de que dé contestación a la petición en el plazo de 1 día hábil.
+
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 25.
 
-Si la información solicitada no se encuentra en los archivos de la Dependencia o Entidad, ésta deberá notificara la Unidad de Acceso dentro de los 5 días hábiles siguientes a aquél en que haya recibido la solicitud, a fin de que se apliquen las medidas pertinentes para localizar, la información solicitada y se culmine el trámite correspondiente.
+Si la información solicitada no se encuentra en los archivos de la dependencia o entidad, ésta deberá notificara la Unidad de Acceso dentro de los 3 días hábiles siguientes a aquél en que haya recibido la solicitud, a fin de que se apliquen las medidas pertinentes para localizar, la información solicitada y se culmine el trámite correspondiente.
 
-En caso de que no se encuentre la información, el titular de la Unidad de Acceso, fundará y motivará la resolución que confirme la inexistencia de la misma y notificará al solicitante conforme al propuesto al presente reglamento.
+En caso de que no se encuentre la información, el titular de la Unidad de Acceso, fundará y motivará la resolución que confirme la inexistencia de la misma y notificará al solicitante conforme a lo dispuesto en el presente Reglamento.
+
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 26.
 
-En el caso de que la información solicitada por el particular ya esté disponible al público en otros medios tales como libros, compendios, trípticos, en formatos magnéticos o electrónicos, u otros disponibles en Internet, podrá proporcionarla por ese medio.
+En el caso de que la información solicitada por el particular ya esté disponible al público en otros medios tales como libros, compendios, trípticos, en formatos magnéticos o electrónicos, u otros disponibles en Internet, podrá el particular acceder a ella de esta forma, sin perjuicio de solicitarla por medio de unidades de almacenamiento electrónico o impresiones.
 
 ###### ARTÍCULO 27.
 
@@ -483,3 +561,13 @@ El presente Reglamento entrará en vigor al cuarto día siguiente al de su publi
 ###### Artículo 2.
 
 Se derogan la fracción VII del artículo 5 y los artículos 34, 35, 36, 37, 38 y 39 del Reglamento de la Unidad de Acceso a la Información Pública para el Municipio de Salvatierra, Gto. y las demás disposiciones reglamentarias que se opongan al presente Reglamento.
+
+P.O. 6 DE FEBRERO DE 2009.
+
+Artículo Primero.
+
+El presente Acuerdo, entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.
+
+Para efectos de dar cumplimiento a lo establecido por el artículo 6 párrafo cuarto de la ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato, relativo a los gastos de envío, estos se integrarán a la Tesorería Municipal, de acuerdo a las tarifas vigentes autorizadas por el Servicio Postal Mexicano, hasta en tanto se publiquen la tarifas correspondientes en la ley de Ingresos para el Municipio de Salvatierra.
