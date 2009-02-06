@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-quejas-y-denuncias-del-instituto-federal-61954"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-18"
-last_updated: "2008-09-19"
+last_updated: "2009-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61954&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,15 @@ issue_date: "2008-07-10"
 ---
 # REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO FEDERAL ELECTORAL -ANTES- REGLAMENTO DEL INSTITUTO FEDERAL ELECTORAL EN MATERIA DE QUEJAS Y DENUNCIAS
 
-REGLAMENTO DEL INSTITUTO FEDERAL ELECTORAL EN MATERIA DE QUEJAS Y DENUNCIAS
+REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO FEDERAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE FEBRERO DE 2009.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 18 de julio de 2008.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Instituto Federal Electoral.- Consejo General.- CG322/2008.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 6 DE FEBRERO DE 2009)</small>
 
 ACUERDO DEL CONSEJO GENERAL POR EL QUE SE APRUEBA EL REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO FEDERAL ELECTORAL
 
@@ -93,11 +95,15 @@ ACUERDO
 
 Primero.- Se aprueba la expedición del Reglamento Instituto Federal Electoral en Materia de Quejas y Denuncias, al tenor de lo siguiente:
 
-"REGLAMENTO DEL INSTITUTO FEDERAL ELECTORAL EN MATERIA DE QUEJAS Y DENUNCIAS
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 6 DE FEBRERO DE 2009)</small>
+
+"REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO FEDERAL ELECTORAL
 
 ## TITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
 ### CAPITULO PRIMERO. Ambito de aplicación y criterios de interpretación
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE FEBRERO DE 2009)</small>
 
 Artículo 1
 
@@ -143,13 +149,15 @@ b) Especial Sancionador
 
 c) Otros procedimientos administrativos para el conocimiento de faltas al Código
 
-2. El procedimiento sancionador ordinario será aplicable en faltas genéricas al Código distintas de las sustanciadas a través del procedimiento establecido en el Capítulo Quinto del Título Séptimo de este instrumento, así como en las que señalan los artículos 361 a 366 del mismo.
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2009)</small>
+
+2. El procedimiento sancionador ordinario será aplicable en cualquier tiempo para los casos de violaciones a lo establecido en la Base III del artículo 41 o en el octavo párrafo del artículo 134 de la Constitución; que contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos en el Código; o que constituyan actos anticipados de precampaña o campaña, siempre y cuando se trate de propaganda distinta a la difundida en radio o televisión, así como para la atención de conductas diversas a las señaladas en los artículos y supuestos citados.
 
 3. El procedimiento especial sancionador será instrumentado en los casos siguientes:
 
-> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2009)</small>
 
-a) Fuera del proceso electoral, a nivel central, por actos presuntamente violatorios a lo establecido en la Base III del artículo 41 o en el séptimo párrafo del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos; que contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos en el Código Federal de Instituciones y Procedimientos Electorales; o que constituyan actos anticipados de precampaña o campaña, siempre y cuando, las posibles violaciones se encuentren relacionadas con la difusión de propaganda que pudiera considerarse política o electoral en radio y televisión.
+a) Fuera del proceso electoral, a nivel central, por actos presuntamente violatorios a lo establecido en la Base III del artículo 41 o en el octavo párrafo del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos; que contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos en el Código Federal de Instituciones y Procedimientos Electorales; o que constituyan actos anticipados de precampaña o campaña, siempre y cuando, las posibles violaciones se encuentren relacionadas con la difusión de propaganda que pudiera considerarse política o electoral en radio y televisión.
 
 b) Fuera del proceso electoral, a nivel distrital, por faltas a que se refiere el artículo 371, párrafo 1 del Código, cuando las denuncias tengan como motivo la comisión de conductas referidas a la ubicación física o al contenido de propaganda política o electoral impresa, de aquella pintada en bardas, o de cualquier otra diferente a la transmitida por radio o televisión, así como cuando se refieran a actos anticipados de precampaña o campaña en que la conducta infractora esté relacionada con ese tipo de propaganda.
 
@@ -157,7 +165,9 @@ c) Dentro del proceso electoral, a nivel central, por las faltas siguientes
 
 I. Por faltas señaladas en la Base III del artículo 41 de la Constitución, y las que se refieren en general a irregularidades e incumplimientos sobre las prerrogativas y tiempos disponibles para partidos políticos y autoridades electorales en radio y televisión; a contrataciones de partidos políticos, personas o particulares de tiempos para transmitir propaganda política o electoral en radio y televisión; a propaganda política o electoral de partidos políticos que calumnie a las personas o denigre a las instituciones; así como a publicidad de gobierno emitida durante las campañas.
 
-II. Por la conculcación a lo previsto por el párrafo séptimo del artículo 134 de la Constitución.
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2009)</small>
+
+II. Por la conculcación a lo previsto por el párrafo octavo del artículo 134 de la Constitución.
 
 III. Por propaganda política o electoral.
 
@@ -179,7 +189,9 @@ II. Código: Código Federal de Instituciones y Procedimientos Electorales;
 
 III. Ley: Ley General del Sistema de Medios de Impugnación en Materia Electoral;
 
-IV. Reglamento: Reglamento del Instituto Federal Electoral en materia de quejas y denuncias;
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2009)</small>
+
+IV. Reglamento: Reglamento de Quejas y Denuncias del Instituto Federal Electoral;
 
 V. Estatuto: Estatuto del Servicio Profesional Electoral y del Personal del Instituto Federal Electoral, y
 
@@ -205,13 +217,15 @@ VIII. Vocales Secretarios: Vocales Secretarios de las Juntas Locales y Distrital
 
 c) Por cuanto a los conceptos:
 
-I. Procedimiento sancionador ordinario: Procedimiento para el conocimiento de las faltas y la aplicación de sanciones administrativas a que se refieren los artículos 361 al 366 del Código;
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2009)</small>
 
-> <small>(REFORMADA, D.O.F. 19 DE SEPTIEMBRE DE 2008)</small>
+I. Procedimiento sancionador ordinario: Procedimiento aplicable en cualquier tiempo para los casos de violaciones a lo establecido en la Base III del artículo 41 o en el octavo párrafo del artículo 134 de la Constitución; que contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos en el Código; o que constituyan actos anticipados de precampaña o campaña, siempre y cuando se trate de propaganda distinta a la difundida en radio o televisión, así como para la atención de conductas diversas a las señaladas en los artículos y supuestos citados.
 
-II. Procedimiento especial sancionador: procedimiento expedito para el conocimiento de conductas violatorias a lo establecido en la Base III del artículo 41 o en el séptimo párrafo del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos; que contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos en el Código Federal de Instituciones y Procedimientos Electorales; o que constituyan actos anticipados de precampaña o campaña.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE FEBRERO DE 2009)</small>
 
-En caso de que el procedimiento especial sea iniciado fuera del proceso electoral, las violaciones a que refiere el párrafo anterior deberán estar relacionadas con la difusión de propaganda política o electoral en radio y televisión.
+II. Procedimiento especial sancionador: Procedimiento que tiene como finalidad determinar, de manera expedita, la existencia y responsabilidad en materia administrativa electoral de los sujetos señalados en el Código, mediante la valoración de los medios de prueba e indicios que obren en el expediente, atendiendo al catálogo de infracciones que para tal efecto se contiene en dicho ordenamiento.
+
+En caso de que el procedimiento especial sea iniciado fuera del proceso electoral, las violaciones a que refiere el párrafo anterior deberán estar relacionadas con la difusión de propaganda política o electoral en radio y televisión;
 
 III. Queja o denuncia: Acto por medio del cual se hacen del conocimiento del Instituto los hechos presuntamente violatorios de la normatividad electoral federal;
 
@@ -229,7 +243,9 @@ Artículo 6
 
 Sujetos sancionables
 
-Son sujetos de responsabilidad por infracciones cometidas a la normatividad electoral federal de conformidad con lo dispuesto por los artículos 341 y 345 del Código:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE FEBRERO DE 2009)</small>
+
+1. Son sujetos de responsabilidad por infracciones cometidas a la normatividad electoral federal de conformidad con lo dispuesto por los artículos 341 y 345 del Código:
 
 a) Los partidos políticos;
 
@@ -269,7 +285,9 @@ a) Respecto a la conducta consistente en la contratación, en forma directa o po
 
 b) Respecto al incumplimiento de las obligaciones señaladas en el artículo 38 del Código, así como de los supuestos señalados en el artículo 236 del mismo ordenamiento, específicamente en lo relativo a la colocación, fijación o pinta de propaganda electoral, se estará a lo siguiente:
 
-I. Se entenderá por equipamiento urbano la categoría de bienes, identificados primordialmente con el servicio público, que comprenden al conjunto de inmuebles, instalaciones, construcciones y mobiliario utilizado para prestar los servicios urbanos en los centros de población; desarrollar las actividades económicas y complementarias a las de habitación y trabajo, o para proporcionar servicios de bienestar social y apoyo a la actividad económica, cultural y recreativa, tales como: parques, servicios educativos, jardines, fuentes, mercados, plazas, explanadas, asistenciales y de salud, transporte, comerciales e instalaciones para protección y confort del individuo.
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2009)</small>
+
+I. Se entenderá por equipamiento urbano a la categoría de bienes, identificados primordialmente con el servicio público, que comprenden al conjunto de inmuebles, instalaciones, construcciones y mobiliario utilizado para prestar los servicios urbanos en los centros de población; desarrollar las actividades económicas y complementarias a las de habitación y trabajo, o para proporcionar servicios de bienestar social y apoyo a la actividad económica, cultural y recreativa, tales como: parques, servicios educativos, jardines, fuentes, mercados, plazas, explanadas, asistenciales y de salud, transporte, comerciales e instalaciones para protección y confort del individuo.
 
 II. Se entenderá por elementos del equipamiento urbano, a los componentes del conjunto de inmuebles, instalaciones, construcciones y mobiliario visible, utilizado para prestar a la población los servicios necesarios para el funcionamiento de una ciudad.
 
@@ -281,7 +299,9 @@ V. Se entenderá por equipamiento ferroviario, el equipo colocado fuera de las v
 
 VI. La propaganda política constituye el género de los medios a través de los cuales los partidos, ciudadanos y organizaciones difunden su ideología, programas y acciones con el fin de influir en los ciudadanos para que adopten determinadas conductas sobre temas de interés social, y que no se encuentran necesariamente vinculadas a un proceso electoral federal.
 
-VII. Se entenderá por propaganda electoral, el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante la campaña electoral producen y difunden los partidos políticos, los candidatos registrados y sus simpatizantes, con el propósito de presentar ante la ciudadanía las candidaturas registradas. Asimismo, que la misma contenga las expresiones “voto”, “vota”, “votar”, “sufragio”, “sufragar”, “comicios”, “elección”, “elegir”, “proceso electoral” y cualquier otra similar vinculada con las distintas etapas del proceso electoral.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE FEBRERO DE 2009)</small>
+
+VII. Se entenderá por propaganda electoral, al conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante la campaña electoral producen y difunden los partidos políticos, los candidatos registrados y sus simpatizantes, con el propósito de presentar ante la ciudadanía las candidaturas registradas. Asimismo, que la misma contenga las expresiones “voto”, “vota”, “votar”, “sufragio”, “sufragar”, “comicios”, “elección”, “elegir”, “proceso electoral” y cualquier otra similar vinculada con las distintas etapas del proceso electoral.
 
 También se referirá a la difusión de mensajes tendientes a la obtención del voto a favor de algún servidor público, de algún tercero o de algún partido político, aspirante, precandidato o candidato.
 
@@ -377,7 +397,9 @@ Artículo 10
 
 De las notificaciones y diligencias en el extranjero
 
-1. En caso de considerarse necesario. la (sic) Secretaría sugerirá al Presidente del Consejo la realización de notificaciones y diligencias en el extranjero.
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2009)</small>
+
+1. En caso de considerarse necesario, la Secretaría sugerirá al Presidente del Consejo la realización de notificaciones y diligencias en el extranjero.
 
 2. Para efecto de lo dispuesto en el párrafo anterior, el Presidente del Consejo emitirá la solicitud de conformidad con los artículos 2 y 167 del Código, y aplicables de la Ley del Servicio Exterior Mexicano.
 
@@ -393,7 +415,9 @@ La Secretaría atenderá a lo siguiente:
 
 a) Litispendencia, entendida como la relación existente entre un procedimiento que aún no resuelve la autoridad competente y otro que recién ha sido iniciado en los que se da la identidad de los elementos de litigio: sujetos, objeto y pretensión;
 
-b) Conexidad, entendida como la relación entre dos o más procedimientos por provenir éstos de una misma causa o iguales hechos, en los que resulta conveniente evitar la posibilidad de resoluciones contradictorias, o
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2009)</small>
+
+b) Conexidad, entendida como la relación entre dos o más procedimientos por provenir éstos de una misma causa o iguales hechos, en los que resulta conveniente evitar la posibilidad de resoluciones contradictorias;
 
 2. De oficio o a petición de parte, previa valoración correspondiente, la Secretaría decretará la acumulación de expedientes desde el momento de acordar la admisión y hasta antes del cierre de instrucción.
 
@@ -419,7 +443,9 @@ d) Cuando sea necesario, solicitar el arresto.
 
 4. Por lo que hace al incumplimiento a requerimientos de información por parte del Instituto a las autoridades federales, estatales y municipales, se estará a lo dispuesto por el artículo 355 del Código.
 
-5. En caso de incumplimiento a una determinación del Consejo, juntas o consejos distritales y de la Comisión, tanto la Secretaría como cualquier integrante de la Comisión podrá solicitar al órgano respectivo cualquiera de las medidas antes enunciadas o las que se estimen pertinentes.
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2009)</small>
+
+5. En caso de incumplimiento a una determinación del Consejo, juntas o consejos distritales y de la Comisión, tanto la Secretaría como cualquier integrante de los órganos resolutores, ya sea la Comisión de Quejas, juntas, consejos distritales o el Consejo General, podrá solicitar al órgano respectivo cualquiera de las medidas antes enunciadas o las que se estimen pertinentes.
 
 Artículo 13
 
@@ -431,7 +457,9 @@ Medidas cautelares
 
 3. Dichas medidas se aplicarán, de manera enunciativa, mas no limitativa, cuando se presuma la conculcación de los siguientes dispositivos constitucionales y legales:
 
-a) Artículo 41, base III, y 134, párrafo séptimo de la Constitución;
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2009)</small>
+
+a) Artículo 41, base III, y 134, párrafo octavo de la Constitución;
 
 b) Artículos 38; 342, párrafo 1, inciso g); 344, párrafo 1, inciso a); 345, párrafo 1, inciso b); 347 y 350 del Código.
 
@@ -479,7 +507,9 @@ b) En el caso de propaganda transmitida en radio y televisión, la Comisión ord
 
 10. Para aplicar las medidas cautelares, la Comisión podrá celebrar sesiones cualquier día del año, incluso fuera del proceso electoral.
 
-11. En caso de que haya ausencia de los Consejeros Electorales de la Comisión de Quejas y Denuncias por asuntos de trabajo, enfermedad, recesos o alguna otra causa de fuerza mayor que motive su ausencia, y no sea posible conformar el quórum para efectos de sesionar sobre asuntos relacionados con la toma de medidas cautelares, se tomarán las providencias siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE FEBRERO DE 2009)</small>
+
+11. En caso de que haya ausencia de los Consejeros Electorales de la Comisión de Quejas y Denuncias por asuntos de trabajo, enfermedad, recesos o alguna otra causa de fuerza mayor que motive la misma, y no sea posible conformar el quórum para efectos de sesionar sobre asuntos relacionados con la toma de medidas cautelares, se tomarán las providencias siguientes:
 
 a) El Consejero Electoral presente localizará a los Consejeros Electorales ausentes, con el apoyo de la Secretaría Ejecutiva; les comunicará de la necesidad de celebrar una sesión para el efecto de determinar medidas cautelares; y les convocará en el mismo acto. De lo anterior, el Consejero Electoral presente levantará acta de las diligencias que lleve a cabo para dicha localización y convocatoria.
 
@@ -500,6 +530,10 @@ c) El registro de asistencia de carácter virtual se verificarán mediante firma
 d) Las sesiones de las comisiones a las que se ocurra mediante la asistencia virtual serán videograbadas para los efectos procesales conducentes.
 
 e) La convocatoria para quienes por circunstancias extraordinarias asistan de formar virtual, deberá señalar fecha y hora, debiéndose acompañar el proyecto de orden del día y se remitirá vía correo electrónico con la información soporte del asunto que se desahogará al interior de la Comisión, precisando que dicha información remitida en soporte informático estará disponible en un micrositio o red interna del Instituto Federal Electoral, debiendo mediar acuse de recepción del Consejero Electoral que sea convocado por esta vía.
+
+> <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2009)</small>
+
+13. Las medidas cautelares sólo pueden ser dictadas u ordenadas por el Consejo General y por la Comisión de Quejas y Denuncias.
 
 ### CAPITULO SEPTIMO. De la competencia y atribuciones de las autoridades de conocimiento
 
@@ -545,7 +579,9 @@ Facultades y obligaciones de la Secretaría
 
 a) Recibir y registrar las denuncias o quejas presentadas por la probable comisión de alguna falta de las previstas en el Libro Séptimo, Título Primero, capítulos Primero al Cuarto, del Código Federal de Instituciones y Procedimientos Electorales.
 
-Asimismo, llevar el control de las quejas y denuncias presentadas ante la misma, y de los procedimientos que se encuentren en substanciación en los órganos delegacionales y subdelegacionales del Instituto. Para tal efecto, las juntas o consejos distritales deberán reportar, en el plazo señalado para tal efecto en el párrafo tres, artículo 8 del presente Reglamento, de la interposición de los mismos, así como del estado que guardan.
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2009)</small>
+
+Asimismo, llevar el control de las quejas y denuncias presentadas ante la misma, y de los procedimientos que se encuentren en substanciación en los órganos delegacionales y subdelegacionales del Instituto.
 
 b) Analizar las denuncias o quejas presentadas, para determinar su admisión o en su caso formular el proyecto de desechamiento o sobreseimiento, según corresponda.
 
@@ -605,7 +641,9 @@ b) Asignar los números de expediente de conformidad con el artículo 83 del pre
 
 c) Realizar las diligencias que sean necesarias para la investigación, con base en lo dispuesto por el párrafo 6, del artículo 365 del Código.
 
-d) Coadyuvar al Secretario Ejecutivo en la prestación de servicios de asesoría que se realicen a los órganos e instancias del Instituto sobre la normatividad y criterios aplicables a los procedimientos administrativos sancionadores a que hace referencia el presente Reglamento.
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2009)</small>
+
+d) Coadyuvar con el Secretario Ejecutivo en la prestación de servicios de asesoría que se realicen a los órganos e instancias del Instituto sobre la normatividad y criterios aplicables a los procedimientos administrativos sancionadores a que hace referencia el presente Reglamento.
 
 e) Atender y resolver las consultas sobre la aplicación del Código que le formulen al Secretario Ejecutivo los diversos Organos del Instituto con el objeto de conformar criterios de interpretación legal y, en su caso, precedentes a observar en materia de procedimientos administrativos sancionadores que realicen a que hace referencia el presente Reglamento.
 
@@ -631,15 +669,27 @@ Cómputo de los plazos
 
 ### CAPITULO PRIMERO. Del trámite inicial
 
-> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2009)</small>
 
 Artículo 20
 
 De la materia y procedencia
 
-1. El presente procedimiento será aplicable en cualquier tiempo para los casos de violaciones a lo establecido en la Base III del artículo 41 o en el séptimo párrafo del artículo 134 de la Constitución; que contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos en el Código; o que constituyan actos anticipados de precampaña o campaña, siempre y cuando se trate de propaganda distinta a la difundida en radio o televisión, así como para la atención de conductas diversas a las señaladas en los artículos y supuestos citados.
+1. El presente procedimiento será aplicable en cualquier tiempo para los casos de violaciones a lo establecido en la Base III del artículo 41 o en el octavo párrafo del artículo 134 de la Constitución; que contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos en el Código; o que constituyan actos anticipados de precampaña o campaña, siempre y cuando se trate de propaganda distinta a la difundida en radio o televisión, así como para la atención de conductas diversas a las señaladas en los artículos y supuestos citados.
 
-2. Las quejas y denuncias relacionadas con actos anticipados de precampaña y campaña deberán ser resueltas por el Consejo previo a la fecha fijada por el Código para la aprobación del registro de precandidatos y candidatos, respectivamente.
+2. Previo al inicio y emplazamiento al procedimiento sancionador ordinario por conductas que pudieran constituir infracciones a la norma constitucional referida, se deberá atender, entre otros, los siguientes requisitos:
+
+a) Estar en presencia de propaganda política o electoral;
+
+b) Analizar si la propaganda, bajo cualquier modalidad de comunicación social, difundida por el servidor público implicó su promoción personal;
+
+c) Advertir la posible vulneración a lo establecido en el precepto constitucional citado y la probable responsabilidad del servidor público d) Establecer si el servidor público fue parcial al aplicar los recursos públicos que se encuentran bajo su responsabilidad;
+
+e) Examinar la calidad del presunto infractor para determinar la existencia de alguna circunstancia que material o jurídicamente haga inviable la instauración del procedimiento sancionador ordinario, por ejemplo, cuando la conducta atribuida se encuentre protegida por alguna prerrogativa constitucional en el ejercicio de un cargo de elección popular.
+
+El Instituto Federal Electoral debe efectuar las diligencias de investigación necesarias, a efecto de contar con elementos que permitan determinar si la conducta atribuida configura falta a la normatividad constitucional o legal cometida por un servidor público, para con ello iniciar y tramitar el mencionado procedimiento e imponer, en su caso, las sanciones correspondientes
+
+3. Las quejas y denuncias relacionadas con actos anticipados de precampaña y campaña deberán ser resueltas por el Consejo previo a la fecha fijada por el Código para la aprobación del registro de precandidatos y candidatos, respectivamente.
 
 Artículo 21
 
@@ -707,7 +757,7 @@ Remisión del escrito inicial a la Secretaría
 
 3. Recibida la queja o denuncia, los Vocales Ejecutivos de los órganos desconcentrados, procederán a:
 
-a) Iniciar su revisión para determinar las acciones encaminadas salvaguardar y recopilar las pruebas de los hechos relacionados con la probable conculcación de la normativa comicial, mismas que se señalan de manera enunciativa, mas no limitativa:
+a) Iniciar su revisión para determinar las acciones encaminadas salvaguardar (sic) y recopilar las pruebas de los hechos relacionados con la probable conculcación de la normativa comicial, mismas que se señalan de manera enunciativa, mas no limitativa:
 
 I. Apersonarse de manera inmediata en los lugares señalados por el quejoso a efecto de constatar los hechos denunciados;
 
@@ -715,7 +765,9 @@ II. Instrumentar acta circunstanciada en el lugar o lugares señalados por el de
 
 III. Capturar, por medios mecánicos, digitales o electrónicos, las imágenes relacionadas con los hechos denunciados, debiendo relacionarse puntualmente en el acta señalada en la fracción II;
 
-III. En su caso, indagar con los vecinos, locatarios, lugareños o autoridades de la zona, si efectivamente la propaganda denunciada se encontró en los lugares aludidos en el escrito de queja, y en caso de ser positiva la respuesta, recabe información consistente en que si dicha propaganda estuvo fijada o pegada, o únicamente colgada, y el tiempo durante el cual se encontró en dicho lugar, debiendo relacionarse dicha información en el acta señalada en la fracción II, del inciso a), del párrafo 2 del presente artículo.
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2009)</small>
+
+IV. En su caso, indagar con los vecinos, locatarios, lugareños o autoridades de la zona, si efectivamente la propaganda denunciada se encontró en los lugares aludidos en el escrito de queja, y en caso de ser positiva la respuesta, recabe información consistente en que si dicha propaganda estuvo fijada o pegada, o únicamente colgada, y el tiempo durante el cual se encontró en dicho lugar, debiendo relacionarse dicha información en el acta señalada en la fracción II, del inciso a), del párrafo 2 del presente artículo.
 
 Artículo 27
 
@@ -895,19 +947,25 @@ c) Especificar los puntos sobre los que versará y las cuestiones que se deben r
 
 d) Señalar el nombre del perito que se proponga y acreditar que cuenta con título profesional en materia contable o en área afín.
 
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2009)</small>
+
 Artículo 38
 
 Pruebas técnicas
 
-1 Se considerarán pruebas técnicas las fotografías, los medios de reproducción de audio y video, así como todos aquellos elementos aportados por los descubrimientos de la ciencia que puedan ser desahogados sin necesidad de peritos o instrumentos, accesorios, aparatos o maquinaria que no estén al alcance de la Junta. En todo caso, el quejoso o denunciante deberá señalar concretamente lo que pretende acreditar, identificando a las personas, los lugares y las circunstancias de modo y tiempo que reproduce la prueba.
+1 Se considerarán pruebas técnicas las fotografías, los medios de reproducción de audio y video, así como todos aquellos elementos aportados por los descubrimientos de la ciencia que puedan ser desahogados sin necesidad de peritos o instrumentos, accesorios, aparatos o maquinaria que no estén al alcance de las juntas o consejos competentes En todo caso, el quejoso o denunciante deberá señalar concretamente lo que pretende acreditar, identificando a las personas, los lugares y las circunstancias de modo y tiempo que reproduce la prueba.
+
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2009)</small>
 
 Artículo 39
 
 Pruebas supervenientes
 
-1. El quejoso o el denunciado podrán aportar pruebas supervenientes hasta antes del cierre de la instrucción.
+1. Se entiende por pruebas supervenientes: a) Los medios de convicción surgidos después del plazo legal en que deban aportarse, y b) Los surgidos antes de que fenezca el mencionado plazo, pero que el oferente no pudo ofrecer o aportar por desconocerlos o por existir obstáculos que no estaba a su alcance superar.
 
-2. Admitida una prueba superveniente, se dará vista al quejoso o denunciado, según corresponda, para que en el plazo de cinco días manifieste lo que a su derecho convenga.
+2. El quejoso o el denunciado podrán aportar pruebas supervenientes hasta antes del cierre de la instrucción.
+
+3. Admitida una prueba superveniente, se dará vista al quejoso o denunciado, según corresponda, para que en el plazo de cinco días manifieste lo que a su derecho convenga.
 
 Artículo 40
 
@@ -1015,11 +1073,15 @@ Responsables de la realización de diligencias
 
 ### CAPITULO QUINTO. De la elaboración del proyecto de resolución o devolución
 
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2009)</small>
+
 Artículo 52
 
 Alegatos
 
-1. Concluido el desahogo de las pruebas y, en su caso, agotada la investigación, la Secretaría pondrá el expediente a la vista del quejoso y del denunciado para que, en un plazo de cinco días, manifiesten lo que a su derecho convenga. Transcurrido el plazo a que se refiere el párrafo anterior procederá a elaborar el proyecto de resolución correspondiente, en un término no mayor a diez días contados a partir del desahogo de la última vista. Vencido el plazo antes mencionado la Secretaría podrá ampliarlo mediante acuerdo en el que se señalen las causas que lo motiven; la ampliación no podrá exceder de diez días.
+1. Concluido el desahogo de las pruebas y, en su caso, agotada la investigación, la Secretaría pondrá el expediente a la vista del quejoso y del denunciado para que, en un plazo de cinco días, manifiesten lo que a su derecho convenga.
+
+2. Transcurrido el plazo a que se refiere el párrafo anterior procederá a elaborar el proyecto de resolución correspondiente, en un término no mayor a diez días contados a partir del desahogo de la última vista. Vencido el plazo antes mencionado la Secretaría podrá ampliarlo mediante acuerdo en el que se señalen las causas que lo motiven; la ampliación no podrá exceder de diez días.
 
 Artículo 53
 
@@ -1047,11 +1109,11 @@ b) En caso de no aprobarse el desechamiento o sobreseimiento, o la imposición d
 
 c) En un plazo no mayor a quince días después de la devolución del proyecto y las consideraciones al respecto, la Secretaría emitirá, por única vez, un nuevo proyecto de resolución, que turnará directamente al Consejero Presidente para que sea agendado en el Consejo, debiendo considerar los razonamientos y argumentos que formule la Comisión.
 
-En el caso de que sean requeridas nuevas diligencias, el plazo señalado en el inciso precedente, comenzará a correr a partir de que se cuente con el desahogo de las mismas. El plazo de la investigación no podrá exceder de cuarenta días.
+En el caso de que sean requeridas nuevas diligencias, el plazo señalado en el inciso precedente, comenzará a correr a partir de que se cuente con el desahogo de las mismas. El plazo de la investigación no podrá exceder de cuarenta días;
 
-d) La Secretaría emitirá un nuevo proyecto dentro del plazo establecido en el inciso anterior, y lo formulará de conformidad con los señalamientos y observaciones de la Comisión. En caso de que existan discrepancias en los razonamientos, criterios y sentido del proyecto entre la Secretaría y la Comisión, la primera señalará este hecho en los considerandos, pudiendo engrosar en el proyecto las razones y sentido que la Secretaría determine proponer al Consejo General.
+d) La Secretaría emitirá un nuevo proyecto dentro del plazo establecido en el inciso anterior, y lo formulará de conformidad con los señalamientos y observaciones de la Comisión. En caso de que existan discrepancias en los razonamientos, criterios y sentido del proyecto entre la Secretaría y la Comisión, la primera señalará este hecho en los considerandos, pudiendo engrosar en el proyecto las razones y sentido que la Secretaría determine proponer al Consejo General;
 
-e) Una vez formulado el nuevo proyecto, será turnado por la Secretaría directamente al Presidente para que lo integre en el orden del día de la sesión del Consejo General para su análisis y resolución.
+e) Una vez formulado el nuevo proyecto, será turnado por la Secretaría directamente al Presidente para que lo integre en el orden del día de la sesión del Consejo General para su análisis y resolución;
 
 f) En caso de empate en la votación celebrada por la Comisión, se estará a lo dispuesto por el artículo 23, párrafo 8 del Reglamento de Comisiones del Consejo General.
 
@@ -1285,7 +1347,9 @@ h) Otras agravantes o atenuantes;
 
 i) Los precedentes resueltos por el Instituto con motivo de infracciones análogas.
 
-2. Con independencia de las faltas observadas con motivo del presente procedimiento, si se presumiera de la comisión de faltas de fiscalización o en otras materias, tales como la penal, de responsabilidades administrativas, entre otras, el órgano dará vista a la instancia o autoridad competente.
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2009)</small>
+
+2. Con independencia de las faltas observadas con motivo del presente procedimiento, si se presumiera de la comisión de faltas de fiscalización o en otras materias, tales como la penal, de responsabilidades administrativas, entre otras, el órgano dará vista o inicie la denuncia ante la instancia o autoridad competente.
 
 ## TITULO TERCERO. PROCEDIMIENTO ESPECIAL SANCIONADOR
 
@@ -1299,9 +1363,9 @@ Procedencia
 
 2. El procedimiento especial sancionador será instrumentado en los casos siguientes:
 
-> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2009)</small>
 
-a) Fuera del proceso electoral, a nivel central, por actos presuntamente violatorios a lo establecido en la Base III del artículo 41 o en el séptimo párrafo del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos; que contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos en el Código Federal de Instituciones y Procedimientos Electorales; o que constituyan actos anticipados de precampaña o campaña, siempre y cuando, las posibles violaciones se encuentren relacionadas con la difusión de propaganda que pudiera considerarse política o electoral en radio y televisión.
+a) Fuera del proceso electoral, a nivel central, por actos presuntamente violatorios a lo establecido en la Base III del artículo 41 o en el octavo párrafo del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos; que contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos en el Código Federal de Instituciones y Procedimientos Electorales; o que constituyan actos anticipados de precampaña o campaña, siempre y cuando, las posibles violaciones se encuentren relacionadas con la difusión de propaganda que pudiera considerarse política o electoral en radio y televisión.
 
 b) Fuera del proceso electoral, a nivel distrital, por faltas a que se refiere el artículo 371, párrafo 1 del Código, cuando las denuncias tengan como motivo la comisión de conductas referidas a la ubicación física o al contenido de propaganda política o electoral impresa, de aquella pintada en bardas, o de cualquier otra diferente a la transmitida por radio o televisión, así como cuando se refieran a actos anticipados de precampaña o campaña en que la conducta infractora esté relacionada con ese tipo de propaganda.
 
@@ -1309,13 +1373,17 @@ c) Dentro del proceso electoral, a nivel central, por las faltas siguientes:
 
 I. Por faltas señaladas en el apartado C, de la Base III del artículo 41 de la Constitución, y las que se refieren en general a irregularidades e incumplimientos, sobre las prerrogativas y tiempos disponibles para partidos políticos y autoridades electorales en radio y televisión; a contrataciones de partidos políticos, personas o particulares de tiempos para transmitir propaganda política o electoral en radio y televisión; a propaganda política o electoral de partidos políticos que calumnien a las personas o denigren a las instituciones; así como a publicidad de gobierno emitida durante las campañas.
 
-II. Por la conculcación a lo previsto por el párrafo séptimo del artículo 134 de la Constitución.
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2009)</small>
+
+II. Por la conculcación a lo previsto por el párrafo octavo del artículo 134 de la Constitución; para tal efecto, deberá considerarse que la propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los tres órdenes de gobierno, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
 
 III. Por propaganda política o electoral.
 
 IV. Por actos anticipados de precampaña o campaña.
 
-d) Dentro del proceso electoral, a nivel distrital, por la comisión de lo previsto en el párrafo 1 del artículo 371 del Código.
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2009)</small>
+
+d) Dentro del proceso electoral, a nivel distrital, por la comisión de lo previsto en el párrafo 1 del artículo 371 del Código, así como por lo descrito en el inciso b) del párrafo 2 de este artículo.
 
 > <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2008)</small>
 
@@ -1367,7 +1435,9 @@ Causales de desechamiento del procedimiento especial
 
 1. La denuncia será desechada de plano, sin prevención alguna, cuando:
 
-a) No reúna los requisitos indicados en el artículo 62 del presente Reglamento;
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2009)</small>
+
+a) No reúna los requisitos indicados en el artículo 64 del presente Reglamento;
 
 b) Los hechos denunciados no constituyan, de manera evidente, una violación en materia de propaganda político-electoral dentro de un proceso electivo;
 
@@ -1387,7 +1457,9 @@ III. Por correo electrónico, en caso de que hubiera proporcionado la cuenta res
 
 b) La Secretaría deberá hacer constar los medios empleados para realizar la notificación.
 
-c) Los medios señalados en el numeral anterior, son enunciativos, más no limitativos.
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2009)</small>
+
+c) Los medios señalados en el inciso a), son enunciativos, más no limitativos.
 
 d) La confirmación por escrito deberá realizarse a más tardar tres días después de realizada la notificación por los medios antes señalados.
 
@@ -1405,9 +1477,9 @@ Artículo 68
 
 De las medidas cautelares en el Procedimiento Especial Sancionador fuera de los procesos electorales
 
-> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2009)</small>
 
-1. Las medidas cautelares sólo podrán ser dictadas por la Comisión o el Consejo, respecto de los procedimientos que hayan sido admitidos o atraídos por la Secretaría, en términos de lo dispuesto por el artículo 13 del presente Reglamento, o ante la probable conculcación a lo establecido en la Base III del artículo 41 o en el séptimo párrafo del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos; que contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos en el Código Federal de Instituciones y Procedimientos Electorales; o que constituyan actos anticipados de precampaña o campaña, siempre y cuando, las posibles violaciones se encuentren relacionadas con la difusión de propaganda que pudiera considerarse política o electoral en radio y televisión.
+1. Las medidas cautelares sólo podrán ser dictadas por la Comisión o el Consejo, respecto de los procedimientos que hayan sido admitidos o atraídos por la Secretaría, en términos de lo dispuesto por el artículo 13 del presente Reglamento, o ante la probable conculcación a lo establecido en la Base III del artículo 41 o en el octavo párrafo del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos; que contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos en el Código Federal de Instituciones y Procedimientos Electorales; o que constituyan actos anticipados de precampaña o campaña, siempre y cuando, las posibles violaciones se encuentren relacionadas con la difusión de propaganda que pudiera considerarse política o electoral en radio y televisión.
 
 2. Las sesiones podrán llevarse a cabo cualquier día del año, atendiendo a las reglas del quórum señaladas en el artículo 13 del presente Reglamento.
 
@@ -1465,7 +1537,9 @@ III. Las comunicaciones entre la Secretaría y las juntas o consejos distritales
 
 c) El vocal ejecutivo responsable contará con un plazo de 24 horas para emitir el acuerdo de admisión o propuesta de desechamiento, contado a partir de que reciba la queja o denuncia.
 
-d) En el acuerdo de admisión correspondiente, el vocal ejecutivo responsable dará vista a la Secretaría a efecto de que ésta valore el ejercicio de la facultad de atracción.
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2009)</small>
+
+d) En el acuerdo de admisión correspondiente, el vocal ejecutivo responsable asentará formalmente la vista que haya comunicado de manera expedita a la Secretaría por el sistema electrónico o digital institucional que se haya determinado a efecto de que ésta valorara el ejercicio de la facultad de atracción. Lo anterior, de conformidad con la fracción II, inciso b) de este numeral, así como el artículo 8, párrafo 2 de este Reglamento.
 
 e) Admitida la denuncia, la junta o consejo distrital de que se trate, emplazará al denunciante y al denunciado para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se informará al denunciado de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos; la audiencia se cancelará únicamente en el caso de que la Secretaría decida ejercer su facultad de atracción, a fin de que la audiencia se celebre a nivel central y no distrital.
 
@@ -1484,6 +1558,20 @@ IV. Concluido el desahogo de las pruebas, el vocal ejecutivo concederá en forma
 h) Celebrada la audiencia, el vocal ejecutivo deberá formular un proyecto de resolución dentro de las veinticuatro horas siguientes, y lo presentará ante la junta o consejo distrital, para lo cual convocará a sesión pública que deberá celebrarse, a más tardar, dentro de las veinticuatro horas posteriores a la elaboración del citado proyecto.
 
 i) En la sesión respectiva la junta o consejo distrital resolverá sobre el proyecto de resolución. En caso de comprobarse la infracción denunciada, la junta o consejo distrital ordenará el retiro físico, así como la cancelación de la distribución y/o futura publicación de la propaganda violatoria de este Código, diferente a la transmitida por radio y televisión, que haya motivado la denuncia correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2009)</small>
+
+j) La resolución deberá aprobarse en la sesión señalada en el inciso inmediato anterior.
+
+> <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2009)</small>
+
+k) En el caso de que dicha sesión la junta o consejo distrital hubiese arribado a conclusiones contrarias a las planteadas en el proyecto presentado por el vocal ejecutivo, dicho funcionario procederá a realizar el engrose de dicho fallo en el sentido de los argumentos, consideraciones y razonamientos expresados por la mayoría.
+
+I. En ningún caso se devolverá el proyecto al vocal ejecutivo a efecto de que convoque a una sesión posterior.
+
+II. El engrose puede comprender la modificación parcial o total del proyecto presentado por el vocal ejecutivo.
+
+III. El vocal ejecutivo contará con veinticuatro horas para elaborar el engrose respectivo, realizando la notificación correspondiente dentro de las veinticuatro horas siguientes.
 
 2. Los requisitos del escrito de queja serán los siguientes:
 
@@ -1549,6 +1637,14 @@ III. En su caso, las condiciones para su cumplimiento.
 
 8. En el desahogo de los puntos del orden del día en que el Consejo deba resolver sobre los proyectos de resolución relativos a quejas o denuncias, éstos se agruparán y votarán en un solo acto, salvo que alguno de sus integrantes proponga su discusión por separado.
 
+> <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2009)</small>
+
+9. El vocal ejecutivo de la junta o consejo distrital atinente será el único autorizado a firmar cualquier escrito, oficio o actuación relacionados con este procedimiento, sin que haya posibilidad alguna de delegar dicha función en otro u otros funcionarios del Instituto adscritos a dicho órgano subdelegacional.
+
+> <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2009)</small>
+
+10. El vocal secretario auxiliará en todo momento al funcionario señalado en el párrafo precedente, y en atención al artículo 236, párrafo 5 del Código, podrá realizar las diligencias de verificación que le sean ordenadas por el vocal ejecutivo.
+
 Artículo 73
 
 Del Recurso de Revisión
@@ -1603,7 +1699,9 @@ b) Si la Secretaría determina no ejercer la facultad de atracción, remitirá l
 
 c) Si la queja o denuncia es presentada ante las juntas o consejos locales, estos órganos informarán a la Secretaría de su interposición, y remitirán a las juntas o consejos distritales competentes las constancias que se hubieren presentado, para su posterior trámite y sustanciación.
 
-d) Si la queja o denuncia se presenta ante las juntas o consejos distritales, éstos darán aviso de su interposición a la Secretaría mediante la cuenta de sistema institucional que para tal efecto se instrumente, y tramitarán el procedimiento respectivo.
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2009)</small>
+
+d) Si la queja o denuncia se presenta ante las juntas o consejos distritales, éstos darán aviso de su interposición a la Secretaría mediante el sistema electrónico o digital institucional que se determine para tal efecto, y tramitarán el procedimiento respectivo.
 
 3. De manera enunciativa, mas no limitativa, la Secretaría valorará como cuestiones susceptibles de ser atraídas las siguientes:
 
@@ -1744,3 +1842,11 @@ El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General c
 D.O.F. 19 DE SEPTIEMBRE DE 2008.
 
 LAS MODIFICACIONES CON ANTELACION CITADAS, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 6 DE FEBRERO DE 2009.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL REGLAMENTO.
+
+Segundo.- Las modificaciones al presente Reglamento entrarán en vigor al día siguiente de su aprobación por el Consejo General del Instituto Federal Electoral.
+
+Tercero.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en la Gaceta del Instituto Federal Electoral.
