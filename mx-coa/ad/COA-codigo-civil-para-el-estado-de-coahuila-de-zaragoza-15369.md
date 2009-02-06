@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2008-08-01"
+last_updated: "2009-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 25 de junio de 1999.
 
@@ -10807,9 +10807,33 @@ Cuando el daño moral haya afectado a la víctima en su decoro, honor, reputaci�
 
 En los casos en que el daño derive de un acto que haya tenido difusión en los medios informativos, el juez ordenará que los mismos den publicidad al extracto de la sentencia, con idéntica relevancia a la que hubiere tenido la difusión original.
 
+> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
+ARTÍCULO 1895 BIS. Estarán sujetos a la reparación del daño moral de acuerdo a lo establecido por este ordenamiento y, por lo tanto, las conductas descritas se considerarán como hechos ilícitos:
+
+I. Quien realice cualquier conducta que tenga como fin ofender o manifestar desprecio a otro. Se exceptúa de lo anterior, cuando dichas conductas sean consecuencia inmediata de una provocación o de una conducta innoble del ofendido;
+
+II. Quien con el fin de causar deshonra, descrédito o perjuicio, comunique por cualquier medio a otro, la imputación que hace o se hace a una persona física o moral, de un hecho que no sea delito, cierto o falso, determinado o indeterminado, que le cause o pueda causarle deshonra, descrédito, perjuicio, o exponerlo al desprecio de alguien. Se exceptúa de lo anterior cuando la comunicación se haga sólo con el fin de aconsejar o prevenir en privado; se haga en demanda judicial o ante otras autoridades competentes; se informe por medio público de difusión autorizado la comunicación de otro y ésta no se refiera a la vida privada, y en los demás casos de excepción que la ley establezca;
+
+III. Quien impute a otro un hecho determinado o indeterminado, que la ley califique como delito, si no le constó el hecho, o sabe que es falso o es inocente la persona a quien se imputa. Se exceptúa de lo anterior, cuando la persona a quien no le constó el hecho, presente demanda, denuncia o querella del mismo ante autoridad competente, o cuando se haga sólo con el fin de aconsejar o prevenir en privado o bien, se informe por medio público de difusión autorizado la comunicación de otro y ésta no se refiera a la vida privada, y en los demás casos de excepción que la ley establezca, y
+
+IV. Al que ofenda el honor, ataque la vida privada o la imagen propia de una persona.
+
+La reparación del daño moral con relación a este artículo deberá contener, en su caso, la obligación de la rectificación o respuesta de la información difundida en el mismo medio donde fue publicada y con el mismo espacio y circulación o audiencia a que fue dirigida la información original, esto sin menoscabo de lo establecido en los párrafos sexto y séptimo del artículo anterior.
+
+La reproducción fiel de información no da lugar al daño moral, aun en los casos en que la información reproducida no sea correcta y pueda dañar el honor de alguna persona, pues no constituye una responsabilidad para el que difunde dicha información, siempre que se cite la fuente de donde se obtuvo.
+
 ###### ARTÍCULO 1896.
 
 Estará obligado a la reparación del daño moral quien, en abuso de los derechos de opinión, crítica, expresión e información, viole lo dispuesto en los artículos 6º y 7º de la Constitución General de la República.
+
+> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
+Quien demande la reparación del daño moral por responsabilidad contractual o extracontractual deberá acreditar plenamente la ilicitud de la conducta del demandado y el daño que directamente le hubiere causado tal conducta.
+
+> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
+En ningún caso se considerarán ofensas al honor las opiniones desfavorables de la crítica literaria, artística, histórica, científica o profesional. Tampoco se considerarán ofensivas las opiniones desfavorables realizadas en cumplimiento de un deber o ejerciendo un derecho cuando el modo de proceder o la falta de reserva no tenga un propósito ofensivo.
 
 ###### ARTÍCULO 1897.
 
@@ -20512,3 +20536,9 @@ P.O. 1 DE AGOSTO DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 6 DE FEBRERO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
