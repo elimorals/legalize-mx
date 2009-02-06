@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2009-01-28"
+last_updated: "2009-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO PENAL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 2009.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -1151,9 +1151,17 @@ III.- Se cause dolosamente por inundación, incendio, minas o explosivos;
 
 IV.- Se produzca por envenenamiento, asfixia, o cualquier otra substancia nociva a la salud;
 
-V.- Se inflinja (sic) tormento al ofendido o se obre con ensañamiento o crueldad o por motivos depravados; y
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-VI.- Se cometa intencionalmente a propósito de una violación o un robo por el sujeto activo de éstos contra su víctima o víctimas; o se cometiera en casa habitación a la cual se ha penetrado furtivamente, con engaño o violencia.
+V.- Se inflija tormento al ofendido o se obre con ensañamiento o crueldad o por motivos depravados;
+
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+VI.- Se cometa intencionalmente a propósito de una violación o un robo por el sujeto activo de éstos contra su víctima o víctimas; o se cometiera en casa habitación a la cual se ha penetrado furtivamente, con engaño o violencia; y
+
+> <small>(ADICIONADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+VII.- Se cometa intencionalmente en contra de una persona por su actividad dentro del periodismo.
 
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2001)</small>
 
@@ -3578,6 +3586,12 @@ P.O. 18 DE ABRIL DE 2008.
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 P.O. 28 DE ENERO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 6 DE FEBRERO DE 2009.
 
 ###### ARTÍCULO ÚNICO.
 
