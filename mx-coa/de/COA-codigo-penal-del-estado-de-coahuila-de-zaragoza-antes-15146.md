@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2009-01-23"
+last_updated: "2009-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PENAL DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -445,9 +445,11 @@ Cuando se trate de bienes puestos a disposición del Ministerio Público se aten
 
 CONCEPTO DE PUBLICACIÓN ESPECIAL DE SENTENCIA. La publicación especial de sentencia consiste en ordenar que ésta se inserte total o parcialmente en uno o más periódicos o medios públicos de comunicación del distrito judicial. Los que se escogerán por el juzgador, quien resolverá la forma en que se deberá hacer la publicación.
 
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 138.
 
-SUPUESTOS EN QUE PROCEDE. La publicación procederá en delitos contra el honor de las personas y la administración o fe públicas y los gastos que se originen por tal motivo, se harán por cuenta del sentenciado.
+SUPUESTOS EN QUE PROCEDE. La publicación procederá en delitos contra la administración o fe públicas y los gastos que se originen por tal motivo, se harán por cuenta del sentenciado.
 
 ###### ARTÍCULO 139.
 
@@ -2263,7 +2265,7 @@ I. HOMICIDIO O LESIONES QUE INCAPACITEN MENTALMENTE AL OFENDIDO. Cuando se trate
 
 II. DEPRAVACIÓN O CIERTOS DELITOS CONTRA LA SEGURIDAD SEXUAL. Cuando el ofendido sea menor de doce años de edad y se le deprave sexualmente; o se le haga adquirir hábito vicioso o que forme parte de pandilla o asociación delictuosa; o sea objeto de violación con o sin modalidades agravantes; de violación impropia con o sin modalidades agravantes; de atentado al pudor y de lesiones gravísimas con o sin modalidades agravantes. Además del ofendido, el padre, madre y/o adoptante; o a falta de estos, cualquiera de los abuelos o personas físicas que custodiaren al menor.
 
-III. DIFAMACIÓN O CALUMNIAS. Cualquiera de las personas que este código considera víctimas cuando se trate de difamación o calumnia.
+III. (DEROGADA, P.O. 6 DE FEBRERO DE 2009)
 
 ###### ARTÍCULO 114.
 
@@ -2379,11 +2381,11 @@ CONCEPTO DE DAÑO MORAL. Por daño moral se entiende: El sufrimiento que el deli
 
 AUTONOMÍA DEL DAÑO MORAL. Cuando un hecho u omisión ilícito produzca un daño moral, el responsable tendrá obligación de repararlo mediante una indemnización en dinero, con independencia de que se cause o no se cause daño material.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 120.
 
-PRESUNCIÓN JURIS TANTUM DE DAÑO MORAL. Salvo prueba en contrario, se considera que siempre existe daño moral en los delitos siguientes: Corrupción de menores si se depravó sexualmente a menor de dieciocho años de edad. Actos de corrupción de menores de dieciocho años de edad. Violencia familiar. Violación con o sin circunstancias calificativas, consumada o en grado de tentativa. Violación equiparada con o sin circunstancias calificativas; Violación impropia mediante violencia, que recaiga sobre incapaz con o sin circunstancias calificativas. Violación conyugal. Pornografía infantil, de adolescentes y de incapaces, Lenocinio, Trata de personas, menores e incapaces y Adulterio, Cualquiera de los supuestos que se previenen en el artículo 311, Rapto y equiparable al rapto, Atentados al pudor propio e impropio, Estupro, Difamación, Calumnia. Amenazas. Privación de la libertad, secuestro, secuestro equiparado o simulado; ya sea consumados o en grado de tentativa. Asalto, Extorsión, Robo con violencia, consumado o en grado de tentativa, Homicidio, se consume o en grado de tentativa y cualquier otro delito contra la vida; salvo el que se comete bajo emoción violenta, lesiones cualquiera que sea su gravedad, con o sin circunstancias calificativas.
+PRESUNCION JURIS TANTUM DE DAÑO MORAL. Salvo prueba en contrario, se considera que siempre existe daño moral en los delitos siguientes: Corrupción de menores si se depravó sexualmente a menor de dieciocho años de edad. Actos de corrupción de menores de dieciocho años de edad; Violencia familiar; Violación con o sin circunstancias calificativas, consumada o en grado de tentativa; Violación equiparada con o sin circunstancias calificativas; Violación impropia mediante violencia, que recaiga sobre incapaz con o sin circunstancias calificativas; Violación conyugal; Pornografía infantil, de adolescentes y de incapaces; Lenocinio; Trata de personas, menores e incapaces y Adulterio; cualquiera de los supuestos que se previenen en el articulo 311; Rapto y equiparable al Rapto; Atentados al pudor propio e impropio; Estupro; Amenazas; Privación de la libertad; Secuestro; Secuestro equiparado o simulado, ya sea consumados o en grado de tentativa; Asalto; Extorsión; Robo con violencia, consumado o en grado de tentativa; Homicidio, se consume o en grado de tentativa y cualquier otro delito contra la vida, salvo el que se comete bajo emoción violenta; Lesiones cualquiera que sea su gravedad, con o sin circunstancias calificativas.
 
 ###### ARTÍCULO 271.
 
@@ -2421,7 +2423,7 @@ III. Asiente datos falsos en los registros, bitácoras o cualquier otro document
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-ARTÍCULO 291 BIS 3. SANCIONES Y FIGURAS TIPÍCAS DEL DELITO CONTRA LA ORDENACIÓN DE LOS ECOSISTEMAS TERRESTRES COMETIDO POR LA AUTORIDAD. Se aplicará prisión de tres a nueve años y multa, destitución del cargo e inhabilitación de cinco a diez años para desempeñar cualquier otro, al servidor público que sin la autorización legal de la autoridad competente o sin causa que lo legitime, intervenga en la concesión, cambio de uso, desincorporación, afectación o desafectación, permuta, enajenación o usufructo, total o parcial de un área natural protegida, suelo de conservación considerado en programas de ordenamiento ecológico, barrancas o áreas verdes en suelo urbano, que se encuentren bajo la administración del Gobierno del Estado o de las autoridades municipales.
+ARTÍCULO 291 BIS 3. SANCIONES Y FIGURAS TÍPICAS DEL DELITO CONTRA LA ORDENACIÓN DE LOS ECOSISTEMAS TERRESTRES COMETIDO POR LA AUTORIDAD. Se aplicará prisión de tres a nueve años y multa, destitución del cargo e inhabilitación de cinco a diez años para desempeñar cualquier otro, al servidor público que sin la autorización legal de la autoridad competente o sin causa que lo legitime, intervenga en la concesión, cambio de uso, desincorporación, afectación o desafectación, permuta, enajenación o usufructo, total o parcial de un área natural protegida, suelo de conservación considerado en programas de ordenamiento ecológico, barrancas o áreas verdes en suelo urbano, que se encuentren bajo la administración del Gobierno del Estado o de las autoridades municipales.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -3217,7 +3219,7 @@ SANCIONES Y FIGURA TÍPICA DE INCUMPLIMIENTO DE LAS OBLIGACIONES BÁSICAS DE ASI
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-ARTÍCULO 316 BIS. SANCIÓN Y FIGURA TIPICA DE ABANDONO DE MUJER GESTANTE EN SITUACIÓN CRITICA. Se aplicará prisión de seis meses a cuatro años, multa y pérdida de derechos familiares, en su caso, al que abandone a una mujer en gestación, a la que ha embarazado en precaria situación económica o de salud, poniendo en grave riesgo al ser humano en formación.
+ARTÍCULO 316 BIS. SANCIÓN Y FIGURA TÍPICA DE ABANDONO DE MUJER GESTANTE EN SITUACIÓN CRITICA. Se aplicará prisión de seis meses a cuatro años, multa y pérdida de derechos familiares, en su caso, al que abandone a una mujer en gestación, a la que ha embarazado en precaria situación económica o de salud, poniendo en grave riesgo al ser humano en formación.
 
 Este delito se perseguirá siempre a petición de parte ofendida.
 
@@ -3801,6 +3803,8 @@ Será punible el acoso sexual cuando el sujeto activo pueda causar un daño pers
 
 Las sanciones mínima y máxima se aumentarán en un tercio más si el sujeto activo fuere servidor público y utilizare los medios propios del cargo, y será destituido e inhabilitado para ocupar empleo, cargo o comisión en el sector público por un período de uno a tres años.
 
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 6 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 377.
 
 SANCIONES Y FIGURA TÍPICA DE ALLANAMIENTO DE MORADA. Se aplicará prisión de un mes a dos años y multa: A quien sin motivo justificado, furtivamente, con violencia, engaño o sin permiso de la persona autorizada para darlo, se introduzca o permanezca transitoriamente en un aposento o dependencia de casa habitada.
@@ -3887,9 +3891,9 @@ Este delito, sólo se perseguirá por querella de parte ofendida.
 
 ## TÍTULO CUARTO. DELITOS CONTRA EL HONOR
 
-### CAPÍTULO TERCERO. CALUMNIA
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE FEBRERO DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+### CAPÍTULO TERCERO. CALUMNIA
 
 ###### ARTÍCULO 384.
 
@@ -4029,55 +4033,53 @@ Las sanciones mínima y máxima se aumentarán en un tercio más si el sujeto ac
 
 ###### ARTÍCULO 400.
 
-FIGURA TÍPICA Y SANCIONES DE INJURIAS. Injuria es toda conducta que tiene como fin ofender o manifestar desprecio a otro.
+(DEROGADO, P.O. 6 DE FEBRERO DE 2009)
 
-A quien cometa el delito de injurias: Se le aplicará prisión de tres días a un año y multa.
-
-> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
-
-ARTÍCULO 400 BIS. CONDICIÓN DE PROCEDIBILIDAD PARA LA PRESECUCIÓN DEL ACOSO SEXUAL. No se procederá contra el sujeto activo sino por querella de la persona ofendida.
+ARTÍCULO 400 BIS. (DEROGADO, P.O. 6 DE FEBRERO DE 2009)
 
 ###### ARTÍCULO 401.
 
-EXCUSA ABSOLUTORIA POR INJURIAS PROVOCADAS. Cuando las injurias sean consecuencia inmediata de una provocación o de una conducta innoble del ofendido, no se aplicará sanción.
+(DEROGADO, P.O. 6 DE FEBRERO DE 2009)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 402.
 
-PENALIDAD Y FIGURA TÍPICA DE DIFAMACIÓN. Se aplicará prisión de seis meses a tres años y multa: A quien con el fin de causar deshonra, descrédito o perjuicio, comunique por cualquier medio a otro, la imputación que hace o se hace a una persona física o moral, de un hecho que no sea delito, cierto o falso, determinado o indeterminado, siempre y cuando le cause o le pueda causar la deshonra, descrédito o perjuicio.
+(DEROGADO, P.O. 6 DE FEBRERO DE 2009)
 
 ###### ARTÍCULO 403.
 
-CAUSAS DE EXCEPCIÓN AL DELITO DE DIFAMACIÓN. No se considera difamatoria la comunicación cuando se haga sólo con el fin de aconsejar o prevenir en privado; se haga en demanda judicial o ante otras autoridades competentes; se informe por medio público de difusión autorizado la comunicación de otro y ésta no se refiera a la vida privada, y en los demás casos de excepción que la ley establezca.
+(DEROGADO, P.O. 6 DE FEBRERO DE 2009)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 404.
 
-SANCIONES Y FIGURA TÍPICA DE CALUMNIA. Se aplicará prisión de uno a cuatro años y multa: A quien impute a otro un hecho determinado o indeterminado que la ley califique como delito, si no le constó el hecho; o sabe que es falso o es inocente la persona a quien se imputa. Esta sanción se agravará de dos a seis años de prisión y multa cuando el delito imputado sea el de acoso sexual.
+(DEROGADO, P.O. 6 DE FEBRERO DE 2009)
 
 ###### ARTÍCULO 405.
 
-SUSPENSIÓN DE LA ACCIÓN POR CALUMNIAS POR RESOLUCIÓN PENDIENTE EN EL DELITO IMPUTADO. Cuando esté pendiente el proceso que se instruya por el delito imputado, se suspenderá el ejercicio de la acción por calumnia, hasta que se dicte resolución irrevocable que ponga fin al mismo.
+(DEROGADO, P.O. 6 DE FEBRERO DE 2009)
 
 ### CAPÍTULO SEXTO. ADMINISTRACIÓN FRAUDULENTA
 
 ###### ARTÍCULO 406.
 
-SITUACIONES DEL CALUMNIADOR CUANDO EXISTE SENTENCIA QUE ABSUELVE AL CALUMNIADO. No se admitirán pruebas de la imputación al acusado de calumnia, cuando exista sentencia ejecutoria que absuelva al calumniado del mismo delito que aquél le impute.
+(DEROGADO, P.O. 6 DE FEBRERO DE 2009)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 407.
 
-CONDICIÓN DE PROCEDIBILIDAD PARA PERSEGUIR LOS DELITOS DE ESTE TÍTULO. Sólo se procederá contra el que intervenga en injurias, difamación o calumnia, por querella del ofendido o, en su caso, de su legítimo representante.
-
-Cuando el delito se investigue o persiga después de que fallezca el ofendido, sólo se procederá por querella de cualquier persona a quiénes este código considera víctimas.
+(DEROGADO, P.O. 6 DE FEBRERO DE 2009)
 
 ###### ARTÍCULO 408.
 
-DESTINO DE LOS OBJETOS EMPLEADOS PARA COMETER LOS DELITOS. Se decomisará cualquier objeto que se emplee como medio para cometer los delitos de injurias, difamación y calumnia; a menos que se trate de algún documento público o privado que importe obligación, liberación o transmisión de derechos. En este último caso se anotará al documento, un resumen de la sentencia pronunciada contra el acusado o en hoja anexa, si no cupiese.
+(DEROGADO, P.O. 6 DE FEBRERO DE 2009)
 
 ###### ARTÍCULO 409.
 
-PUBLICACIÓN ESPECIAL DE SENTENCIA Y REPARACIÓN DEL DAÑO. Siempre que se condene al responsable de un delito de injuria, difamación o calumnia y si lo solicita la parte ofendida: Se publicará la sentencia en los periódicos o medios de comunicación que designe el juzgador y el pago estará a cargo del propio condenado.
-
-La reparación del daño moral en los delitos de injurias, difamación o calumnias, será por lo menos diez tantos del mínimo de multa legal aplicable que corresponda a cada uno de ellos, hasta cincuenta tantos del máximo de dicha multa; sin perjuicio de que se acredite cantidad mayor por el descrédito u otras consecuencias que se ocasionen por el delito o delitos que se cometieron, en cuyo caso se condenará por ésta.
+(DEROGADO, P.O. 6 DE FEBRERO DE 2009)
 
 ## TÍTULO SEXTO. REGLA GENERAL CON RELACIÓN A TERMINOLOGÍA
 
@@ -4660,3 +4662,9 @@ P.O. 23 DE ENERO DE 2009.
 PRIMERO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 6 DE FEBRERO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
