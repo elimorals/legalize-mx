@@ -4,7 +4,7 @@ identifier: "COA-ley-del-deporte-para-el-estado-de-coahuila-de-zaragoza-17060"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-27"
-last_updated: "1999-07-27"
+last_updated: "2009-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17060&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DEL DEPORTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 6 DE FEBRERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 27 de julio de 1999.
 
@@ -540,3 +542,13 @@ LIC. CARLOS JUARISTI SEPTIEN
 EL SECRETARIO DE EDUCACION PUBLICA
 
 LIC. JULIAN ANZALDUA GUTIERREZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS ALA LEY.</small>
+
+P.O. 6 DE FEBRERO DE 2009.
+
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley del Deporte para el Estado de Coahuila de Zaragoza publicada en el Periódico Oficial del Gobierno del Estado en fecha 27 de julio de 1999.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a la presente ley.
