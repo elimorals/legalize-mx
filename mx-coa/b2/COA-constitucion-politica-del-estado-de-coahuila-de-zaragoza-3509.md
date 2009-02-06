@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2008-12-23"
+last_updated: "2009-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,11 +22,11 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
-GUSTAVO ESPINOSA MIRELES, Gobernador Constitucional del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza, a sus habitantes, sabed:
+GGUSTAVO ESPINOSA MIRELES, Gobernador Constitucional del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza, a sus habitantes, sabed:
 
 Que el Congreso del mismo ha decretado lo siguiente:
 
@@ -458,13 +458,13 @@ El Instituto Electoral y de Participación Ciudadana de Coahuila, se constituir�
 
 2. Gozará de autonomía presupuestal y financiera en los términos que establezca la ley.
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
 
-3. Sesionará en forma pública a través de un Consejo General, que será su órgano superior de dirección, integrado por cinco consejeros electorales que durarán en su encargo siete años, pudiendo ser ratificados por una sola vez en los términos que disponga la ley.
+3. Sesionará en forma pública a través de un Consejo General, que será su órgano superior de dirección, integrado por siete Consejeros Electorales que durarán en su encargo siete años, pudiendo ser ratificados por una sola vez en los términos que disponga la ley.
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
 
-4.- Los consejeros electorales propietarios y suplentes serán designados y ratificados, en su caso, por el voto de cuando menos las dos terceras partes del Pleno, en los términos y conforme a los procedimientos que disponga la ley.
+4.- Los Consejeros Electorales propietarios y suplentes serán designados y ratificados, en su caso, por el voto de cuando menos las dos terceras partes del Pleno del Congreso Local, en los términos y conforme a los procedimientos que disponga la ley.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
@@ -482,9 +482,11 @@ El Instituto Electoral y de Participación Ciudadana de Coahuila, se constituir�
 
 8. Su actuación se regirá por los principios de constitucionalidad, legalidad, certeza, independencia, imparcialidad y objetividad.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+(NOTA: EL 28 DE MAYO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEXTO Y SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 33/2009 Y SUS ACUMULADAS 34/2009 Y 35/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III, PÁRRAFO 9 DE ESTE ARTICULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-9. Tendrá a su cargo, además de las atribuciones que le confiera la ley, la preparación, organización, desarrollo, vigilancia y validez del proceso electoral, de los procedimientos del plebiscito y referendo y la salvaguarda del sistema de partidos políticos, en los términos de las disposiciones aplicables.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE FEBRERO DE 2009)</small>
+
+9. Tendrá a su cargo, además de las atribuciones que le confiera la ley, la preparación, organización, desarrollo, vigilancia y validez del proceso electoral, de los procedimientos del plebiscito y referendo, LA VERIFICACIÓN DE LOS COMPROMISOS DE CAMPAÑA DE LOS PARTIDOS POLÍTICOS y la salvaguarda del sistema de partidos políticos, en los términos de las disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
@@ -502,9 +504,9 @@ Además deberá encargarse de difundir la cultura cívica con el objetivo de fom
 
 10. La ley determinará los requisitos para ser consejero electoral.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
 
-11. Todo órgano, dependencia o entidad de los gobiernos estatal y municipal deberá colaborar con el Instituto, en los términos de las disposiciones aplicables, para el mejor ejercicio de sus funciones, bajo los principios de fidelidad estatal y municipal.
+11. Todo órgano, dependencia o entidad de los gobiernos estatal y municipal deberá colaborar con el Instituto, en los términos de las disposiciones aplicables, para el mejor ejercicio de sus funciones, bajo los principios de autonomía estatal y municipal.
 
 > <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2001)</small>
 
@@ -570,11 +572,11 @@ Elección e Instalación.
 
 Se deposita el ejercicio del Poder Legislativo en una Asamblea que se denominará Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 33.
 
-El Congreso del Estado se renovará en su totalidad cada cuatro años y se integrará con veinte diputados electos según el principio de mayoría relativa mediante el sistema de distritos electorales, y con once diputados electos bajo el principio de representación proporcional, los cuales serán asignados en los términos que establezca la ley reglamentaria entre aquellos partidos políticos o coaliciones que obtengan cuando menos el 3.5% de la votación válida emitida en el Estado para la elección de diputados.
+El Congreso del Estado se renovará en su totalidad cada cuatro años y se integrará con dieciséis Diputados electos según el principio de mayoría relativa mediante el sistema de distritos electorales, y con nueve Diputados electos bajo el principio de representación proporcional, los cuales serán asignados en los términos que establezca la ley reglamentaria entre aquellos partidos políticos que obtengan cuando menos el 3.5% de la votación válida emitida en el Estado para la elección de Diputados.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
@@ -584,11 +586,11 @@ Por cada diputado propietario, deberá elegirse un suplente en los términos que
 
 Los diputados de mayoría relativa o de representación proporcional, siendo todos representantes populares, tendrán los mismos derechos y obligaciones.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 34.
 
-La demarcación territorial de los veinte distritos electorales se determinará por la ley de la materia.
+La demarcación territorial de los dieciséis distritos electorales se determinará por la ley de la materia.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
@@ -608,9 +610,9 @@ IV. La ley establecerá las fórmulas, reglas, porcentajes específicos, rondas 
 
 V. El orden de asignación de los candidatos que aparezcan en las listas o fórmulas de representación proporcional.
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-VI. El tope máximo de diputados que puede alcanzar un partido o coalición por ambos principios, no excederá de veinte diputados en los términos que disponga la ley.
+VI. El tope máximo de Diputados que puede alcanzar un partido por ambos principios, no excederá de dieciséis Diputados en los términos que disponga la ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ABRIL DE 1994)</small>
 
@@ -3666,7 +3668,7 @@ P.O. 16 DE MAYO DE 1951.
 
 ###### ARTICULO SEGUNDO
 
--" " A fin de dar cumplimiento a lo dispuesto en el Artículo 142 de la Constitución Política Local, los Magistrados que se designen para iniciar sus labores el 1o. de Diciembre de 1953, durarán cuatro años en el ejercicio de su encargo"" (sic).
+- " " A fin de dar cumplimiento a lo dispuesto en el Artículo 142 de la Constitución Política Local, los Magistrados que se designen para iniciar sus labores el 1o. de Diciembre de 1953, durarán cuatro años en el ejercicio de su encargo"" (sic).
 
 P.O. 28 DE JULIO DE 1954.
 
@@ -4181,3 +4183,51 @@ P.O. 23 DE DICIEMBRE DE 2008.
 PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 6 DE FEBRERO DE 2009.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Dentro de los treinta días hábiles siguientes a partir de la entrada en vigor del presente decreto, deberán estar designados dos Consejeros Electorales propietarios y dos suplentes del Consejo General del Instituto Electoral y de Participación Ciudadana de Coahuila, bajo las siguientes consideraciones:
+
+Para ser designado Consejero Electoral, propietario o suplente, se deberán cumplir los requisitos siguientes:
+
+I. Ser ciudadano mexicano por nacimiento y coahuilense, en pleno ejercicio de sus derechos políticos y civiles, mayor de 27 años de edad el día de su designación;
+
+II. Estar inscrito en el registro federal de electores y contar con credencial para votar;
+
+III. Poseer al día del registro de aspirantes a ocupar el cargo, título profesional o de formación equivalente y tener conocimientos en la materia político-electoral;
+
+IV. No haber desempeñado en ningún caso, un cargo de elección popular federal, estatal o municipal;
+
+V. No desempeñar un cargo o comisión en cualquiera de los órganos del Instituto Federal Electoral u otro órgano electoral de Entidades Federativas, diferente al Instituto;
+
+VI. No haber sido en ningún momento, dirigente de un comité directivo, ejecutivo o equivalente de un partido político a nivel nacional, estatal o municipal, ni representante del mismo ante ningún organismo electoral en el país;
+
+VII. No tener antecedentes, en ningún caso de una militancia activa, pública y notoria en algún partido político;
+
+VIII. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión de más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;
+
+IX. Tener residencia en el Estado durante los últimos tres años, salvo el caso de ausencia por desempeño de cargo público al servicio de la Federación, del Estado o del Municipio;
+
+X. No haber sido Secretario o Subsecretario en la Administración Pública Federal, Estatal o Municipal, ni Procurador General de Justicia del Estado.
+
+Los aspirantes que hayan acreditado los requisitos legales, deberán sujetarse a una comparecencia en los días y horas señalados por el Congreso del Estado, que en todo momento coordinará y vigilará lo relativo al procedimiento.
+
+Concluido el periodo de audiencias, los grupos parlamentarios de los diferentes partidos representados en el Congreso del Estado, podrán formular sus propuestas del listado de aquellos aspirantes que hayan cumplido con cada uno de los requisitos establecidos en las fracciones anteriores, o, en su caso, las presentarán ante una Comisión plural del Congreso del Estado.
+
+La Comisión plural realizará el dictamen correspondiente y lo presentará al Pleno del Congreso del Estado para su discusión y en su caso aprobación.
+
+Las dos terceras partes de los miembros del Congreso del Estado, aprobarán o rechazarán las designaciones de los Consejeros Electorales.
+
+El Instituto Electoral y de Participación Ciudadana del Estado de Coahuila expedirá convocatoria para que los ciudadanos interesados presenten sus solicitudes en un plazo no mayor de quince días naturales, contados a partir de la entrada en vigor del presente decreto. Una vez terminado el plazo, remitirá los expedientes de los aspirantes al Congreso del Estado, para que determine cuales de los ciudadanos que hayan cumplido con los requisitos establecidos en las disposiciones correspondientes ocuparán los cargos de Consejeros Electorales.
+
+TERCERO.- En tanto se nombren los dos Consejeros señalados en el artículo anterior, tendrán validez todos los actos que realice el Instituto Electoral y de Participación Ciudadana.
+
+CUARTO.- En relación a la disminución del número de Diputados que integrarán el Congreso del Estado, ésta surtirá efectos a partir del período comprendido del 1 de enero de 2012 y deberá realizarse el proceso de redistritación correspondiente, el cual por única ocasión quedará publicado a más tardar en el mes de enero del 2011.
+
+QUINTO.- El periodo de cuatro años para los integrantes del Congreso del Estado será aplicable a partir de la renovación a realizarse en el año 2013. En consecuencia y por única ocasión, los Diputados electos en el proceso electoral del año 2008, correspondiente a la Quincuagésima Octava Legislatura, durarán en su encargo el período comprendido del 1 de enero de 2009 al 31 de diciembre de 2011 y los Diputados electos en el proceso electoral a celebrarse en el año 2011, correspondiente a la Quincuagésima Novena Legislatura, entrarán en su encargo el 1 de enero de 2012 para culminar el día 31 de diciembre de 2013.
+
+SEXTO.- En un plazo no mayor de 90 días naturales, el Congreso del Estado deberá emitir las reformas a su Ley Orgánica, en función de este decreto y de la integración y funcionamiento de las comisiones permanentes.
+
+SÉPTIMO.- Se derogan todas las disposiciones que se opongan al presente decreto.
