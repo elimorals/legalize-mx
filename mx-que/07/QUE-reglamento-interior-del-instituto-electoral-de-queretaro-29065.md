@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-del-instituto-electoral-de-queretaro-29065"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-14"
-last_updated: "2006-01-13"
+last_updated: "2009-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 14 de febrero de 2003.
 
@@ -33,15 +33,19 @@ REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DE QUERÉTARO
 
 ### CAPITULO UNICO. Generalidades
 
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento se expide de conformidad con lo dispuesto por el artículo 68, fracción I de la Ley Electoral del Estado de Querétaro, y tiene como finalidad regular el funcionamiento interno del Instituto Electoral de Querétaro.
+El presente reglamento se expide de conformidad con lo dispuesto por el artículo 65 fracción I de la Ley Electoral del Estado de Querétaro, y tiene como finalidad regular el funcionamiento interno del Instituto Electoral de Querétaro.
 
 ###### Artículo 2.
 
 Para los efectos de este Reglamento, se entenderá por:
 
-CONSTITUCIÓN: La Constitución Política del Estado Libre y Soberano de Querétaro Arteaga.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
+CONSTITUCIÓN: La Constitución Política del Estado de Querétaro.
 
 LEY: La Ley Electoral del Estado de Querétaro.
 
@@ -49,21 +53,37 @@ REGLAMENTO: El presente Reglamento Interior del Instituto Electoral de Querétar
 
 INSTITUTO: El Instituto Electoral de Querétaro.
 
-CONSEJO: El Consejo General del Instituto Electoral de Querétaro.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
 
-COMISIONES: Las Comisiones Permanentes del Consejo General del Instituto Electoral de Querétaro.
+CONSEJO: El Consejo General del Instituto.
 
-COMITÉ: El Comité de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Instituto Electoral de Querétaro.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
 
-PRESIDENTE: El Presidente del Consejo General del Instituto Electoral de Querétaro.
+COMISIONES: Las Comisiones Permanentes del Consejo.
 
-SECRETARIO EJECUTIVO: El Secretario Ejecutivo del Consejo General del Instituto Electoral de Querétaro.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
 
-DIRECTOR: El Director General del Instituto Electoral de Querétaro.
+COMITÉ: El Comité de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Instituto.
 
-ÓRGANOS OPERATIVOS: Las Direcciones Ejecutivas de Organización Electoral, y de Educación Cívica y Capacitación Electoral; y las Coordinaciones Administrativa, de Análisis, Seguimiento y Apoyo Técnico, de Partidos y Asociaciones Políticas, del Servicio Profesional Electoral y las Regionales.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
 
-ÓRGANOS TÉCNICOS: Las Coordinaciones de Información y Medios y Jurídica del Instituto Electoral de Querétaro.
+PRESIDENTE: El Presidente del Consejo.
+
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
+SECRETARIO EJECUTIVO: El Secretario Ejecutivo del Consejo.
+
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
+DIRECTOR: El Director General del Instituto.
+
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
+ÓRGANOS OPERATIVOS: Las Direcciones Ejecutivas de Organización Electoral, y de Educación Cívica y Capacitación Electoral; y las Coordinaciones Administrativa, de Análisis, Seguimiento y Apoyo Técnico, de Partidos y Asociaciones Políticas, y del Servicio Profesional Electoral.
+
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
+ÓRGANOS TÉCNICOS: Las Coordinaciones de Información y Medios y Jurídica del Instituto.
 
 ###### Artículo 3.
 
@@ -73,9 +93,11 @@ El presente Reglamento es de observancia obligatoria para los integrantes del Co
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 4.
 
-El Instituto Electoral de Querétaro se integra, en términos de lo previsto por el artículo 15 de la Constitución y 61 y 62 de la Ley, con órganos de dirección, operativos, técnicos y de vigilancia, ejerciendo sus atribuciones y facultades en el ámbito central o regional que les corresponda.
+El Instituto se integra, en términos de lo previsto por los artículos 58 y 59 de la Ley, con órganos de dirección, operativos, técnicos y de vigilancia, ejerciendo sus atribuciones y facultades en el ámbito central o regional que les corresponda.
 
 ###### Artículo 5.
 
@@ -119,9 +141,11 @@ I. La Coordinación de Información y Medios; y
 
 II. La Coordinación Jurídica.
 
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 8.
 
-El Consejo General es el órgano superior de dirección del Instituto, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como velar porque los principios de certeza, legalidad, equidad, imparcialidad y objetividad rijan todas las actividades de los órganos electorales.
+El Consejo es el órgano superior de dirección del Instituto, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como velar porque los principios de certeza, legalidad, independencia, imparcialidad, equidad y objetividad rijan todas las actividades de los órganos electorales.
 
 ###### Artículo 9.
 
@@ -135,9 +159,11 @@ Las Mesas Directivas de Casilla ejercerán sus funciones en términos de lo prev
 
 La Dirección General es el órgano de dirección en materia operativa, cuyo titular ejerce la representación legal del Instituto y tiene a su cargo la conducción administrativa del mismo, así como la coordinación y supervisión de las actividades de los órganos operativos.
 
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 12.
 
-Los órganos operativos del Instituto se integrarán de conformidad con lo establecido por el artículo 76 de la Ley y las disposiciones de este Reglamento.
+Los órganos operativos del Instituto se integrarán de conformidad con lo establecido por el artículo 73 de la Ley y las disposiciones de este Reglamento.
 
 ###### Artículo 13.
 
@@ -151,23 +177,29 @@ Los órganos de vigilancia serán los que determine el Consejo General.
 
 Los órganos del Instituto contarán con el personal adscrito necesario para su adecuado funcionamiento, de acuerdo a la estructura, facultades y atribuciones que la Ley, el presente Reglamento, los Estatutos, los Lineamientos Administrativos y los Manuales les confieran.
 
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 16.
 
-En el desempeño de sus funciones, los servidores públicos del Instituto deberán actuar con apego a los principios rectores de certeza, legalidad, equidad, objetividad, imparcialidad e independencia.
+En el desempeño de sus funciones, los servidores públicos del Instituto deberán actuar con apego a los principios rectores de certeza, legalidad, independencia, imparcialidad, equidad y objetividad.
 
 ### CAPITULO II. Del Consejo General
 
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 17.
 
-El Consejo se integra de conformidad con lo dispuesto por el artículo 64 de la Ley.
+El Consejo se integra de conformidad con lo dispuesto por el artículo 61 de la Ley.
 
 ###### Artículo 18.
 
 Para cubrir las ausencias del representante propietario, los partidos políticos o coaliciones podrán acreditar un suplente, sin que puedan actuar ambos representantes en una misma sesión de manera simultánea.
 
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 19.
 
-Las ausencias de los Consejeros Electorales serán cubiertas en términos de lo dispuesto por el artículo 71 de la Ley.
+Las ausencias de los Consejeros Electorales serán cubiertas en términos de lo dispuesto por el artículo 68 de la Ley.
 
 ###### Artículo 20.
 
@@ -181,7 +213,9 @@ En los casos de solicitud de licencia del Presidente, y sea competencia del Cons
 
 En caso de inasistencia del Presidente a sesión ordinaria o extraordinaria, y llegada la hora señalada para sesionar en segunda convocatoria, los Consejeros Electorales asistentes procederán a nombrar Presidente en votación secreta, únicamente para dicha sesión. El Secretario Ejecutivo realizará el cómputo de la votación y dará fe del resultado de la misma.
 
-Cuando la inasistencia sea del Secretario Ejecutivo, el Presidente designará de entre los Consejeros Electorales al que deberá fungir como Secretario Ejecutivo, únicamente para dicha sesión, de conformidad con lo dispuesto en el artículo 72 de la Ley.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
+Cuando la inasistencia sea del Secretario Ejecutivo, el Presidente designará de entre los Consejeros Electorales al que deberá fungir como Secretario Ejecutivo, únicamente para dicha sesión, de conformidad con lo dispuesto en el artículo 69 de la Ley.
 
 ###### Artículo 23.
 
@@ -217,9 +251,15 @@ VI. Jurídica.
 
 Las comisiones permanentes serán integradas por tres Consejeros Electorales y dos representantes de partidos políticos o coaliciones, debiendo elegirse un presidente, un secretario y un vocal, sin que puedan recaer dichos cargos en representantes de partidos políticos o coaliciones, quienes sólo tendrán derecho a voz.
 
-Los representantes de partidos políticos o coaliciones serán aquellos que integren el Consejo General de conformidad con la fracción III del artículo 64 de la Ley.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
+Los representantes de partidos políticos o coaliciones serán aquellos que integren el Consejo General de conformidad con la fracción III del artículo 61 de la Ley.
 
 Los integrantes del Consejo podrán participar en las sesiones de trabajo de cualquier Comisión o del Comité, aun cuando no pertenezcan a ellas.
+
+> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
+Las comisiones deberán remitir al Presidente y al Secretario Ejecutivo, las minutas que levanten en cada sesión, para efectos de su conocimiento y archivo; en su caso, dichas minutas también deberán remitirse a las instancias técnicas y operativas correspondientes, para la ejecución de los acuerdos que adopten.
 
 ###### Artículo 28.
 
@@ -233,9 +273,11 @@ Los representantes de partidos que hayan obtenido o inscrito su registro despué
 
 La integración de las Comisiones se renovará anualmente, en la misma fecha en que se designe al Presidente del Consejo.
 
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 31.
 
-La representación de las coaliciones ante las Comisiones, recaerá en el representante de la coalición respectiva ante el Consejo que se haya designado de conformidad con el inciso i) del artículo 207 de la Ley.
+La representación de las coaliciones ante las Comisiones, recaerá en el representante de la coalición respectiva ante el Consejo que se haya designado de conformidad con el inciso g) del artículo 175 de la Ley.
 
 ###### Artículo 32.
 
@@ -265,7 +307,11 @@ V. Emitir las recomendaciones necesarias para el buen funcionamiento de la Direc
 
 VI. Elaborar y rendir al Consejo, por conducto de la Secretaría Ejecutiva, los proyectos de dictamen derivados del ejercicio de sus funciones; y
 
-VII. Remitir al Presidente y al Secretario Ejecutivo, las minutas que levanten en cada sesión para efectos de su conocimiento y archivo.
+VII. (DEROGADA, P.O. 6 DE FEBRERO DE 2009)
+
+> <small>(ADICIONADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+VIII. Las demás que le señale la Ley, el Reglamento y los Acuerdos del Consejo.
 
 ###### Artículo 35.
 
@@ -283,7 +329,11 @@ V. Emitir las recomendaciones necesarias para el buen funcionamiento de la Direc
 
 VI. Elaborar y rendir al Consejo, por conducto de la Secretaría Ejecutiva, los proyectos de dictamen derivados del ejercicio de sus funciones; y
 
-VII. Remitir al Presidente y al Secretario Ejecutivo, las minutas que levanten en cada sesión para efectos de su conocimiento y archivo.
+VII. (DEROGADA, P.O. 6 DE FEBRERO DE 2009)
+
+> <small>(ADICIONADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+VIII. Las demás que le señale la Ley, el Reglamento y los Acuerdos del Consejo.
 
 ###### Artículo 36.
 
@@ -293,9 +343,11 @@ I. Expedir su reglamento, enviándolo a la Secretaría Ejecutiva para la integra
 
 II. Elaborar y rendir los proyectos de dictamen sobre la procedencia de solicitud de transferencias de partidas presupuestales que le presente el Director y someterlos al Consejo, por conducto de la Secretaría Ejecutiva, para su consideración;
 
-III. Elaborar y rendir los proyectos de dictamen sobre los informes trimestrales del ejercicio presupuestal que se remitan a la Legislatura del Estado y presentarlos al Consejo para su consideración, por conducto de la Secretaría Ejecutiva;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-IV. Remitir al Presidente y al Secretario Ejecutivo las minutas que levanten en cada sesión para efectos de su conocimiento y archivo;
+III. Elaborar y rendir los proyectos de dictamen sobre los informes semestrales del ejercicio presupuestal que remitan a la Legislatura del Estado y presentarlos al Consejo para su consideración por conducta (sic) de la secretaría ejecutiva;
+
+IV. (DEROGADA, P.O. 6 DE FEBRERO DE 2009)
 
 V. Conocer el anteproyecto de presupuesto que habrá de presentar el Director al Presidente y hacer las recomendaciones pertinentes, atendiendo al plazo que para tal efecto previene el artículo 37 de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro;
 
@@ -307,7 +359,9 @@ VIII. Elaborar y rendir al Consejo, durante el primer trimestre del año siguien
 
 IX. Aplicar y, en su caso, promover ante las instancias correspondientes, las acciones administrativas y legales que deriven de los resultados de las auditorias en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro;
 
-X. Realizar el seguimiento de los dictámenes de la Cuenta Pública y las recomendaciones que como resultado de las auditorias internas, se hayan formulado;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+X. Realizar el seguimiento de las observaciones contenidas en el informe del resultado de la fiscalización de la cuenta pública y las recomendaciones que como resultado de las auditorías internas, se hayan formulado;
 
 XI. Informar al Presidente el avance de la ejecución del Programa Anual de Auditoria Interna;
 
@@ -325,9 +379,11 @@ XVII. Participar en los actos de entrega-recepción de los servidores públicos 
 
 XVIII. Las demás que le confiera la Ley, el presente Reglamento y las disposiciones que para los órganos de naturaleza análoga previenen la Ley de Responsabilidades de los Servidores Públicos, la Ley para el Manejo de los Recursos Públicos, la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios y la Ley Estatal de Acceso a la Información Gubernamental, todas del Estado de Querétaro, entre otros ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 37.
 
-La comisión de Radio-Difusión, tiene competencia para:
+La Comisión de Radiodifusión, tiene competencia para:
 
 I. Expedir su reglamento, enviándolo a la Secretaría Ejecutiva para la integración del archivo del Consejo;
 
@@ -351,9 +407,19 @@ X. Elaborar el calendario para la asignación de fecha y hora de las transmision
 
 XI. Elaborar y rendir al Consejo, por conducto de la Secretaría Ejecutiva, los proyectos de dictamen derivados del ejercicio de sus funciones, que así lo requieran;
 
-XII. Remitir al Presidente y al Secretario Ejecutivo, las minutas que levanten en cada sesión para efectos de su conocimiento y archivo; y
+XII. (DEROGADA, P.O. 6 DE FEBRERO DE 2009)
 
-XIII. Las demás que la Ley y el Consejo le señalen.
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+XIII. Elaborar y someter a la consideración del Consejo, el proyecto de criterios generales que deberán adoptar las personas físicas y morales u organizaciones interesadas en producir, publicar o difundir encuestas o sondeos de opinión, que tengan por objeto dar a conocer las preferencias electorales o las tendencias de las votaciones.
+
+> <small>(ADICIONADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+XIV. Conocer los estudios que remita el Secretario Ejecutivo, derivado de la elaboración de encuestas o sondeos de opinión que sobre asuntos electorales realicen las personas físicas o morales; debiendo remitir al Consejo el dictamen respectivo para que resuelva lo procedente en términos de los (sic) dispuesto por el artículo 113 fracción I de la Ley, y
+
+> <small>(ADICIONADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+XV. Las demás que la Ley y el Consejo le señalen.
 
 ###### Artículo 38.
 
@@ -371,7 +437,9 @@ V. Emitir las recomendaciones necesarias para el buen funcionamiento de la Direc
 
 VI. Elaborar y rendir al Consejo, por conducto de la Secretaría Ejecutiva, los proyectos de dictamen derivados del ejercicio de sus funciones; y
 
-VII. Remitir al Presidente y al Secretario Ejecutivo, las minutas que levanten en cada sesión para efectos de su conocimiento y archivo.
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+VII. Aprobar los acuerdos en materia de Editorial y Biblioteca, que sean necesarios para el cumplimiento de los fines señalados en el artículo 56 de la Ley; (sic)
 
 ###### Artículo 39.
 
@@ -387,17 +455,23 @@ IV. Hacer del conocimiento del Secretario Ejecutivo el incumplimiento de los pro
 
 V. Emitir las recomendaciones necesarias para el buen funcionamiento de la Coordinación Jurídica, relativas a los programas que tenga asignados;
 
-VI. Realizar estudios a la legislación que norme al Instituto Electoral de Querétaro, así como en materia electoral, y realizar las propuestas de reformas necesarias para su adecuación;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-VII. Elaborar y rendir al Consejo, por conducto de la Secretaría Ejecutiva, los proyectos de dictamen derivados del ejercicio de sus funciones; y
+VI. Realizar estudios a la legislación que norme al Instituto, así como en materia electoral, y realizar las propuestas de reformas necesarias para su adecuación, y
 
-VIII. Remitir al Presidente y al Secretario Ejecutivo, las minutas que levanten en cada sesión para efectos de su conocimiento y archivo.
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+VII. Elaborar y rendir al Consejo, por conducto de la Secretaría Ejecutiva, los proyectos de dictamen derivados del ejercicio de sus funciones
+
+VIII. (DEROGADA, P.O. 6 DE FEBRERO DE 2009)
 
 ###### Artículo 40.
 
 Para la realización y desahogo de los asuntos de su competencia, las Comisiones celebrarán sesiones ordinarias por lo menos una vez cada trimestre y las extraordinarias que sean necesarias. Las sesiones de las Comisiones serán públicas.
 
-El Presidente de la Comisión expedirá la convocatoria cuando menos, con setenta y dos horas de anticipación, tratándose de sesiones ordinarias, y cuando menos, con cuarenta y ocho horas tratándose de extraordinarias. La convocatoria señalará los puntos del orden del día.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
+El Presidente de la Comisión expedirá la convocatoria cuando menos, con dos días de anticipación, tratándose de ordinarias; para el caso de las extraordinarias se podrá hacer hasta el día anterior a la celebración de la misma. La convocatoria señalará los puntos del orden del día.
 
 ###### Artículo 41.
 
@@ -481,13 +555,15 @@ Todos los miembros del Comité tendrán derecho a voz y voto.
 
 Las reuniones del Comité tendrán el carácter de abiertas y públicas, debiendo llevarse a cabo en un lugar apropiado dentro de las instalaciones del Instituto.
 
-Los integrantes del Consejo General podrán asistir a los actos que realice el Comité, teniendo derecho a voz en los casos y en los términos que prevengan las bases de licitación respectivas. Para estos efectos, el Secretario Ejecutivo hará de su conocimiento los procedimientos que se desarrollen.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2006)</small>
+Los integrantes del Consejo podrán asistir a los actos que realice el Comité, teniendo derecho a voz en los casos y en los términos que prevengan las bases de licitación respectiva (sic). Para estos efectos, el Secretario Ejecutivo del Comité hará de su conocimiento los procedimientos que se desarrollen.
+
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 54.
 
-El Comité regirá su actuación conforme al Reglamento que apruebe para su funcionamiento el Consejo General, ordenándose su publicación en el Periódico Oficial “La Sombra de Arteaga”.
+El Comité regirá su actuación conforme al Reglamento que apruebe para su funcionamiento el Consejo General, ordenándose su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 ### CAPITULO V. De los Órganos Técnicos
 
@@ -567,9 +643,11 @@ XI. Las demás que le confiera el presente Reglamento y el Secretario Ejecutivo.
 
 ### CAPITULO VI. De las Sesiones del Consejo General
 
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 61.
 
-El Consejo, a fin de cumplir con sus obligaciones y atribuciones, celebrará sesiones ordinarias y extraordinarias, en términos de lo dispuesto por el artículo 71 de la Ley.
+El Consejo, a fin de cumplir con sus obligaciones y atribuciones, celebrará sesiones ordinarias y extraordinarias, en términos de lo dispuesto por el artículo 68 de la Ley.
 
 ###### Artículo 62.
 
@@ -603,13 +681,19 @@ El Secretario Ejecutivo, al expedir la convocatoria a sesión por acuerdo del Pr
 
 Asimismo, deberá enviar únicamente la convocatoria a los representantes suplentes de los partidos políticos o coaliciones.
 
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 67.
 
-Cuando se trate de aprobar cuestiones relativas al ejercicio presupuestal o envío de informes financieros a la Legislatura del Estado, la documentación habrá de circularse con cuatro días de anticipación a la sesión, cuando ésta sea ordinaria, y tres días si se tratare de extraordinaria.
+Cuando se trate de aprobar las cuestiones relativas al ejercicio presupuestal o envío de informes financieros a la Legislatura del Estado, la documentación habrá de circularse con cuatro días de anticipación a la sesión, cuando ésta sea ordinaria, y tres días si se tratare de extraordinaria.
+
+NOTA: La propuesta se platea (sic) de acuerdo a la modificación de criterios para convocar sesiones de Consejo General y para el cómputo de los plazos; lo anterior derivado de lo que señalan los artículo 68 de la Ley y, 22 y 23 de la Ley de Medios de Impugnación en Materia electoral del Estado de Querétaro. (SIC)
+
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 68.
 
-La convocatoria deberá señalar el día y hora en que ésta habrá de verificarse, tanto en primera como en segunda convocatoria, atendiendo siempre a los plazos que establece el artículo 71 de la Ley.
+La convocatoria deberá señalar el día y hora en que ésta habrá de verificarse, tanto en primera como en segunda convocatoria, atendiendo siempre a los plazos que establece el artículo 68 de la Ley.
 
 ###### Artículo 69.
 
@@ -717,9 +801,11 @@ II. Acuerdos.
 
 Son resoluciones aquéllas que se dictan en un procedimiento electoral administrativo, competencia del Consejo. Las resoluciones deciden sobre las cuestiones planteadas, ya sean sobre el fondo o de carácter procedimental. Se considerarán acuerdos, todas las demás determinaciones.
 
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 89.
 
-Las resoluciones deberán siempre constar por escrito, debiendo dictarse en términos de lo establecido por el Libro Segundo, Título Primero, Capítulo VII de la Ley.
+Las resoluciones deberán siempre constar por escrito, debiendo dictarse en términos de lo establecido por el Libro Primero, Título Segundo, Capítulo Décimo de la Ley de Medios de Impugnación en Materia Electoral del Estado de Querétaro.
 
 ###### Artículo 90.
 
@@ -813,7 +899,7 @@ Se considerarán hábiles los días de lunes a viernes de cada semana, excepto l
 
 ###### Artículo 109.
 
-Para la substanciación y desahogo de los procedimientos previstos en la Ley, durante el proceso electoral todos los días y horas se computarán como hábiles.
+(DEROGADO, P.O. 6 DE FEBRERO DE 2009)
 
 ###### Artículo 110.
 
@@ -839,9 +925,11 @@ El Director ejercerá funciones de dirección en materia operativa, coordinará 
 
 Ejercerá las funciones de administración y ejercicio del presupuesto del Instituto, procurando el eficaz y cumplido uso del patrimonio para los fines que la Ley establece, acatando las disposiciones conducentes de la Ley de Responsabilidades de los Servidores Públicos, la Ley para el Manejo de los Recursos Públicos, la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios y la Ley Estatal de Acceso a la Información Gubernamental, todas del Estado de Querétaro, sin menoscabo de las atribuciones y obligaciones que se desprendan de otros ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 115.
 
-De conformidad con lo previsto por el artículo 79 fracción VI de la Ley, es facultad del Director proveer a los órganos del mismo de los elementos necesarios para el cumplimiento de sus funciones, por lo que tiene la obligación de suministrarlos y, en su caso, de solicitar al Consejo o al Comité, autorice y desahogue los procedimientos de licitación para las adquisiciones, arrendamientos o contratación de servicios necesarios que habrá de contratar el Instituto, en términos de lo previsto en los artículos 48 y 49 del presente Reglamento.
+De conformidad con lo previsto por el artículo 76 fracción VI de la Ley, es facultad del Director proveer a los órganos del mismo de los elementos necesarios para el cumplimiento de sus funciones, por lo que tiene la obligación de suministrarlos y, en su caso, de solicitar al Consejo o al Comité, autorice y desahogue los procedimientos de licitación para las adquisiciones, arrendamientos o contratación de servicios necesarios que habrá de contratar el Instituto, en términos de lo previsto en los artículos 48 y 49 del presente Reglamento.
 
 ###### Artículo 116.
 
@@ -907,13 +995,17 @@ VIII. Coordinar la realización de los informes y reportes sobre el cumplimiento
 
 IX. Acordar con el Director los asuntos de su competencia.
 
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 121.
 
-La Dirección General del Instituto contará, en términos de lo dispuesto por el artículo 76 de la Ley, con dos Direcciones Ejecutivas, la de Organización Electoral y la de Educación Cívica y Capacitación Electoral.
+La Dirección General del Instituto contará, en términos de lo dispuesto por el artículo 73 de la Ley, con dos Direcciones Ejecutivas, la de Organización Electoral y la de Educación Cívica y Capacitación Electoral.
+
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 122.
 
-La Dirección Ejecutiva de Organización Electoral, contará con una Coordinación de Partidos y Asociaciones Políticas, que auxiliará al Director Ejecutivo en la aplicación y ejercicio de las funciones contenidas en el Libro Primero, Capítulo III de la Ley.
+La Dirección Ejecutiva de Organización Electoral, contará con una Coordinación de Partidos y Asociaciones Políticas, que auxiliará al Director Ejecutivo en la aplicación y ejercicio de las funciones contenidas en el Libro Primero, Título Tercero de la Ley.
 
 ###### Artículo 123.
 
@@ -927,7 +1019,9 @@ Para ser Coordinador de Partidos y Asociaciones Políticas de la Dirección Ejec
 
 Corresponde a la Coordinación de Partidos y Asociaciones Políticas las atribuciones siguientes:
 
-I. Apoyar a la Dirección Ejecutiva en las actividades encaminadas a que los partidos políticos o coaliciones ejerzan sus prerrogativas y puedan acceder a la contratación de tiempos en radio y televisión, en los términos de la Ley;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+I. Apoyar a la Dirección Ejecutiva en las actividades encaminadas a que los partidos políticos o coaliciones ejerzan sus prerrogativas en los términos de la Ley;
 
 II. Llevar el libro de registro de los integrantes de los órganos y directivos de los partidos políticos encargados de su administración financiera, así como de recibir el financiamiento público;
 
@@ -935,7 +1029,9 @@ III. Proporcionar a los encargados de los registros contables de los partidos po
 
 IV. Expedir los manuales sobre las disposiciones de la reglamentación aplicable;
 
-V. Elaborar los anteproyectos de dictamen relativos a los estados financieros ordinarios y a los gastos de campaña que presentan los partidos políticos y asociaciones políticas ante el Consejo, para someterlos a la consideración del Director Ejecutivo de Organización Electoral;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+V. Elaborar los anteproyectos de dictamen relativos a los estados financieros ordinarios y a los gastos de precampaña y campaña que presentan los partidos políticos, coaliciones y asociaciones políticas ante el Consejo, según corresponda, para someterlos a la consideración del Director Ejecutivo de Organización Electoral;
 
 VI. Cumplir y hacer cumplir las normas y procedimientos previstos en la reglamentación correspondiente;
 
@@ -943,17 +1039,17 @@ VII. Elaborar en el mes de noviembre de cada año, el anteproyecto del Catálogo
 
 VIII. Acordar con el Director Ejecutivo de Organización Electoral del Instituto los asuntos de su competencia;
 
-IX. Asistir y auxiliar a la Dirección Ejecutiva de Organización Electoral en las sesiones de la Comisión de Radio-Difusión y en las actividades que se desprendan de su función;
+IX. (DEROGADA, P.O. 6 DE FEBRERO DE 2009)
 
 X. Las demás que le confiera este Reglamento, el Reglamento de Fiscalización del Instituto y el Director Ejecutivo de Organización Electoral; y
 
 XI. Las demás que por la naturaleza del cargo se desprendan.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 126.
 
-La Dirección Ejecutiva de Educación Cívica y Capacitación Electoral contará con una Coordinación del Servicio Profesional Electoral, la cual auxiliará al Director Ejecutivo en la implementación, planeación, organización, coordinación y desarrollo de la competencia establecida en el artículo 82, fracción V de la Ley.
+La Dirección Ejecutiva de Educación Cívica y Capacitación Electoral contará con una Coordinación del Servicio Profesional Electoral, la cual auxiliará al Director Ejecutivo en la implementación, planeación, organización, coordinación y desarrollo de la competencia establecida en el artículo 79, fracción IV de la Ley.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -991,17 +1087,19 @@ VIII. Acordar con el Director Ejecutivo de Educación Cívica y Capacitación El
 
 IX. Las demás que le confiera este Reglamento, el Estatuto del Servicio Profesional Electoral y los Lineamientos y Manuales administrativos que al efecto se expidan.
 
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 130.
 
-En términos de lo previsto por el artículo 76 de la Ley, el Consejo, a propuesta del Director, en su caso, podrá crear de manera permanente o transitoria, y de acuerdo con la disponibilidad presupuestal, otros órganos operativos de los mencionados en este apartado.
+En términos de lo previsto por el artículo 73 de la Ley, el Consejo, a propuesta del Director, en su caso, podrá crear de manera permanente o transitoria, y de acuerdo con la disponibilidad presupuestal, otros órganos operativos de los mencionados en este apartado.
 
 ###### Artículo 131.
 
-La Dirección General contará con tres Coordinaciones Regionales, las cuales auxiliarán en el cumplimiento de las funciones relativas a la organización electoral, a la educación cívica y capacitación electoral, al ejercicio presupuestal, al seguimiento de los programas aprobados, en los aspectos relacionados con los partidos y las asociaciones políticas y, en general, en los asuntos que les sean encomendados por el Presidente o el Director.
+(DEROGADO, P.O. 6 DE FEBRERO DE 2009)
 
 ###### Artículo 132.
 
-Para ser Coordinador Regional se requiere contar con estudios profesionales y tener experiencia en materia electoral. Los titulares de las coordinaciones regionales serán designados por el Director.
+(DEROGADO, P.O. 6 DE FEBRERO DE 2009)
 
 TRANSITORIOS:
 
@@ -1032,3 +1130,7 @@ CUARTO.- Estas reformas al Reglamento Interior entrarán en vigor el día de su 
 QUINTO.- Se instruye a los integrantes propietarios del Comité para que designen a los integrantes suplentes en los términos que previenen las reformas aprobadas.
 
 SEXTO.- Se ordena su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 6 DE FEBRERO DE 2009.
+
+PRIMERO.- Las presentes reformas entrarán en vigor a partir del día siguiente de su aprobación por el Consejo General.
