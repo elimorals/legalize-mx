@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-educacion-de-coahuila-de-zaragoza-12510"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-28"
-last_updated: "2007-02-09"
+last_updated: "2009-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de mayo de 1996.
 
@@ -77,9 +77,11 @@ Los servicios de educación que ofrezcan el estado y los municipios serán gratu
 
 En ningún caso podrán condicionarse la inscripción o el acceso a estos servicios, al pago del mencionado donativo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 7°.
 
-La educación que impartan el estado, los municipios, los organismos descentralizados, los órganos desconcentrados y los particulares con autorización o con reconocimiento de validez oficial de estudios tendrá, además de los fines y criterios establecidos por el Artículo 3° de la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Educación, los siguientes:
+La educación que impartan el Estado, los Municipios, los organismos descentralizados, los órganos desconcentrados y los particulares con autorización o con reconocimiento de validez oficial de estudios tendrá, además de los fines y criterios establecidos por el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Educación, los siguientes:
 
 I.- Contribuir al desarrollo armónico e integral del individuo para elevar sus niveles de participación, responsabilidad y solidaridad en la construcción de la democracia;
 
@@ -99,7 +101,9 @@ VIII.- Impulsar actitudes de respeto al medio ambiente y de responsabilidad soli
 
 IX.- Promover la participación del individuo en las actividades culturales, económicas, sociales, ecológicas y políticas de la sociedad en que vive;
 
-X.- Desarrollar la conciencia para la preservación de la salud y la paternidad responsable, sin menoscabo de la libertad y del respeto a la dignidad humana;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+X.- Desarrollar la conciencia para la preservación de la salud, fomentando el deporte, la activación física y el cuidado de la alimentación de los educandos, vigilando la calidad nutricional de los alimentos que se expenden en las cafeterías, estanquillos o cooperativas escolares y en los alrededores de los planteles educativos. Además de crear conciencia en los alumnos acerca de la paternidad responsable, sin menoscabo de la libertad y del respeto a la dignidad humana;
 
 XI.- Propiciar en el individuo el respeto a los símbolos patrios, de acuerdo a las disposiciones de la Ley sobre el Escudo, la Bandera y el Himno Nacionales; y (sic)
 
@@ -1156,3 +1160,9 @@ P.O. 9 DE FEBRERO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+P.O. 6 DE FEBRERO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales, administrativas y reglamentarias que se opongan al presente decreto.
