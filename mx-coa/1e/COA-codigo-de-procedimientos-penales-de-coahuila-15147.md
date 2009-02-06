@@ -4,7 +4,7 @@ identifier: "COA-codigo-de-procedimientos-penales-de-coahuila-15147"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-25"
-last_updated: "2008-06-03"
+last_updated: "2009-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el martes 25 de mayo de 1999.
 
@@ -2349,7 +2349,7 @@ I. MATRIMONIO CON VIOLENCIA; ENGAÑO; O CUALQUIER IMPEDIMENTO DIRIMENTE. Se decl
 
 II. MATRIMONIO INDEBIDO. Se declare nulo el matrimonio si el contrayente estaba unido en matrimonio no disuelto ni declarado nulo; o era ilegal por otro motivo.
 
-III. CALUMNIAS O FALSAS INCRIMINACIONES. Cuando esté pendiente el proceso que se instruya por el delito imputado, se suspenderá el ejercicio de la acción por calumnia o falsas incriminaciones, hasta que se dicte resolución firme que ponga fin al mismo.
+III. (DEROGADA, P.O. 6 DE FEBRERO DE 2009)
 
 ###### ARTÍCULO 292.
 
@@ -5615,7 +5615,7 @@ Obtenidas las pruebas se dará vista al Ministerio Público, al sentenciado y a 
 
 EFECTOS DE LA DECLARACIÓN DE PRESCRIPCIÓN. Si la resolución declara prescrita la pena, se comunicará a las autoridades que deban hacer cesar la ejecución o los trámites encaminados a ejecutarla.
 
-AN. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 741.
 
@@ -5874,3 +5874,9 @@ P.O. 3 DE JUNIO DE 2008.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 6 DE FEBRERO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
