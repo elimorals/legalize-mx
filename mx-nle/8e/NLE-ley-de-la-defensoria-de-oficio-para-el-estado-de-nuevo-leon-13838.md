@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-defensoria-de-oficio-para-el-estado-de-nuevo-leon-138
 country: "mx"
 rank: "ley"
 publication_date: "1997-06-18"
-last_updated: "2007-07-04"
+last_updated: "2009-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 LEY DE LA DEFENSORIA DE OFICIO PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE DEFENSORIA PUBLICA PARA EL ESTADO DE NUEVO LEON, PUBLICADA EN EL P.O. DE 6 DE FEBRERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 18 de junio de 1997.
 
@@ -746,3 +748,27 @@ Artículo Décimo Primero.- Las autoridades competentes expedirán los reglament
 P.O. 4 DE JULIO DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE FEBRERO DE 2009.
+
+Primero.- La presente Ley entrará en vigor 60-sesenta días naturales después de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Una vez iniciada la vigencia de la presente Ley, se abroga la "Ley de la Defensoría de Oficio para el Estado de Nuevo León" publicada en el Periódico Oficial del Estado del 18 de junio de 1997, las reformas a la misma y su Reglamento. Asimismo, se derogan todas las demás disposiciones legales o reglamentarias que contravengan lo establecido en la presente Ley.
+
+Tercero.- Todos los asuntos en trámite deberán ser concluidos en los términos de la Ley vigente en la fecha de su inicio.
+
+Cuarto.- Mientras no sea nombrado el Director General, en el orden administrativo, se seguirá aplicando la Ley de la Defensoría de Oficio del Estado de Nuevo León.
+
+Quinto.- A partir del inicio de la vigencia de esta Ley, el Congreso del Estado expedirá una Convocatoria Pública en un término no mayor de treinta días naturales contados a partir de su entrada en vigor, a efecto de instalar un Consejo Consultivo conforme a lo establecido en el artículo 18 de la presente Ley.
+
+Sexto.- Dentro de los treinta días contados a partir del inicio de la vigencia de esta Ley, el Congreso del Estado nombrará al representante de la Junta de Gobierno a que se refiere el artículo 3, fracción III, inciso d) de esta Ley.
+
+Séptimo.- La Junta de Gobierno del Instituto deberá expedir el Reglamento de la presente Ley en un plazo máximo de 120-ciento veinte días a partir de la vigencia de la presente Ley.
+
+Octavo.- Quedan a salvo los derechos laborales del demás personal de la Defensoría de Oficio. Dicho personal que actualmente se encuentra desempeñando su servido público será incorporado al Instituto con el esquema orgánico propio de este organismo y conservando los derechos y prestaciones que conforme a la Ley del Servicio Civil les corresponda.
+
+Noveno.- Los requerimientos presupuestales del Instituto se satisfacerán durante el ejercicio fiscal en que inicie su operación con cargo a la partida asignada a la Defensoría de Oficio como mínimo, y su presupuesto se determinará en el siguiente ejercicio fiscal conforme a lo que disponga la Ley de Egresos.
+
+Por tal motivo, la Secretaría de Finanzas y Tesorería General del Estado y la Oficialía Mayor de Gobierno, coordinarán de acuerdo a su competencia, la transferencia del presupuesto, recursos humanos, técnicos y materiales asignados al Instituto.
+
+Décimo.- Hasta en tanto no entre en vigor el Reglamento del Servicio Profesional de Carrera, el Director General tendrá la facultad exclusiva de nombrar al personal del Instituto.
