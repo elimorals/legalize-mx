@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-plan-parcial-de-desarrollo-urbano-de-san-20358"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-03-06"
-last_updated: "2007-11-02"
+last_updated: "2009-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DEL PLAN PARCIAL DE DESARROLLO URBANO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 6 de marzo de 1995.
 
@@ -1195,9 +1195,51 @@ En cuanto a edificaciones localizadas en Corredores Urbanos y Sectores Especiale
 
 A toda edificación con uso diferente al habitacional unifamiliar, respecto de la altura, se le podrá agregar la mitad de la distancia que exista entre el punto de desplante de la edificación y la colindancia del más próximo predio habitacional unifamiliar, tratándose de los corredores urbanos a que se refiere la fracción III del artículo 53 Bis del presente reglamento.
 
+> <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 6 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 73.
 
-(DEROGADO, P.O. 2 DE NOVIEMBRE DE 2007)
+Los lineamientos específicos aplicables a un lote o predio a excepción del área de estacionamiento, podrán ser modificados a solicitud del propietario, siempre y cuando se trate de variaciones hasta de un diez por ciento (10%). La Secretaría aprobará o rechazará lo solicitado.
+
+> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
+ARTICULO 73 BIS.- Los lineamientos específicos aplicables a un lote o predio a excepción del estacionamiento, podrán ser modificados a solicitud del propietario, si se trata de variaciones mayores al diez por ciento (10%) y hasta del treinta por ciento (30%), previa opinión de la Junta de Vecinos de la colonia de que se trate y de la Comisión de Obras Públicas, Desarrollo Urbano y Nomenclatura del R. Ayuntamiento. La Secretaría aprobará o rechazará lo solicitado. La Secretaría, solicitará a la Junta de Vecinos de la colonia de que se trate, reconocida por la autoridad municipal, así como también a la citada Comisión, su opinión respecto a la modificación del lineamiento de construcción, la cual deberá responder a dicha Secretaría en un término de ocho días hábiles, en caso de no hacerlo así, se entenderá que otorga su opinión favorable a la modificación correspondiente, en caso de que se carezca de Junta de Vecinos de la Colonia o el inmueble en cuestión se encuentre fuera de aprobación de una misma Colonia, tendrá que presentar, indistinto a la opinión de la Comisión del R. Ayuntamiento, la anuencia por escrito de la mayoría de los doce vecinos más inmediatos al inmueble en cuestión.
+
+> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
+ARTICULO 73 BIS I.- Los lineamientos específicos aplicables a un lote o predio a excepción del área de estacionamiento, tratándose de variaciones mayores del treinta por ciento (30%), podrán ser modificados a solicitud indistinta de:
+
+I. El propietario del predio;
+
+II. Un grupo de veinte o más propietarios de predios ubicados en la misma Microzona, corredor, distrito, sector o colonia de que se trate;
+
+III. La Junta de Vecinos de la colonia de que se trate, reconocida por la Autoridad Municipal;
+
+IV. La Autoridad Municipal.
+
+> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
+ARTICULO 73 BIS II.- Las solicitudes a que se refiere el artículo anterior, se someterán al siguiente procedimiento:
+
+I.- La Secretaría emitirá un dictamen técnico urbanístico sobre el proyecto;
+
+II.- La Secretaría solicitará, en caso de que exista, a la Junta de Vecinos de la colonia de que se trate, reconocida por la autoridad municipal, su opinión respecto a la modificación del lineamiento de construcción, la cual deberá responder a dicha Secretaría en un término de ocho días hábiles y en caso de que no lo haga, se entenderá que otorga su opinión favorable a la modificación correspondiente;
+
+III.- La Secretaría solicitará, si lo estima necesario, la opinión técnica a:
+
+a) Los colegios y asociaciones profesionales de urbanismo, arquitectura, ingeniería civil o ecología;
+
+b) Las cámaras o instituciones intermedias o asociaciones de colonias; o
+
+c) Los organismos o empresas prestadoras de servicios de agua, drenaje, electricidad y similares.
+
+IV.- La Secretaría solicitará la opinión a la Dirección de Ingeniería Vial, en los casos de alto impacto vial por motivo de la obra;
+
+V.- La Secretaría, habiendo considerado las anteriores consultas, presentará su opinión técnica a la Comisión de Obras Públicas, Desarrollo Urbano y Nomenclatura del R. Ayuntamiento;
+
+VI.- La Comisión de Obras Públicas, Desarrollo Urbano y Nomenclatura del R. Ayuntamiento elaborará el dictamen correspondiente, para presentarlo ante el R. Ayuntamiento, el cual en sesión ordinaria o extraordinaria aprobará, rechazará o modificará la propuesta, y
+
+VII.- Resuelto por el Ayuntamiento, y una vez recibida el acta de la sesión correspondiente, la Secretaría comunicará la resolución a los promoventes.
 
 ## TITULO QUINTO. URBANIZACION
 
@@ -1548,3 +1590,9 @@ La presente reforma entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las atribuciones conferidas en la presente reforma serán ejercidas por la dependencia que de acuerdo al Reglamento Orgánico de la Administración Pública Municipal de San Nicolás de los Garza, Nuevo León, realice las funciones en materia de desarrollo urbano.
+
+P.O. 6 DE FEBRERO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
