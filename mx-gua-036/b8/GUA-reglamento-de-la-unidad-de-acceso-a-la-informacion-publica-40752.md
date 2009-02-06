@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-unidad-de-acceso-a-la-informacion-publica-4075
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-27"
-last_updated: "2004-08-27"
+last_updated: "2009-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40752&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "GUA"
 
 REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE SANTIAGO MARAVATIO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guanajuato, el viernes 27 de agosto de 2004.
 
@@ -54,9 +54,17 @@ III.- INSTITUTO.- El Instituto de Acceso a la Información Pública;
 
 IV.- UNIDAD DE ACCESO.- Unidad de Acceso a la Información Pública;
 
-V.- DEPENDENCIA.- Órgano de la administración pública municipal centralizada; y
+V.- DEPENDENCIA.- Órgano de la administración pública municipal centralizada; y (sic)
 
-VI.- ENTIDAD.- Órgano de la administración pública paramunicipal.
+VI.- ENTIDAD.- Órgano de la administración pública paramunicipal;
+
+> <small>(ADICIONADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+VII. MÁXIMA PUBLICIDAD: principio que orienta la forma de interpretar y aplicar la norma para que en caso de duda razonable, se opte por la publicidad de la información; y
+
+> <small>(ADICIONADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+VIII.- INTERÉS PÚBLICO: conjunto de pretensiones relacionadas con las necesidades colectivas de los miembros de una comunidad y protegidas conforme a derecho.
 
 ###### ARTICULO 3°.
 
@@ -76,57 +84,115 @@ II. Su estructura orgánica;
 
 III. El directorio de servidores públicos, desde el nivel de jefe de departamento o sus equivalentes hasta el nivel del funcionario de mayor jerarquía;
 
-IV. El tabulador de dietas, sueldos y salarios; el sistema de premios, estímulos y recompensas; los gastos de representación, costo de viajes, viáticos y otro tipo de gastos realizados por los servidores públicos en ejercicio o con motivo de sus funciones;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-V. El domicilio, número telefónico y la dirección electrónica de la unidad de acceso a la información pública donde podrán recibirse las solicitudes para obtener la información pública;
+IV. El tabulador mensual de dietas, sueldos y salarios, precisando todo género de percepciones y descuentos;
 
-VI. Las metas y objetivos de sus programas;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-VII. Los servicios que ofrecen, los trámites, requisitos y formatos y, en su caso, el monto de los derechos para acceder a los mismos;
+V. El sistema de premios, estímulos y recompensas de conformidad con la Ley de la materia;
 
-VIII. El monto del presupuesto asignado, así como los informes sobre su ejecución;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-IX. Los destinatarios y el uso autorizado de toda entrega de recursos públicos, cualquiera que sea su destino, así como los informes que dichas personas deben entregar sobre el uso y destino de éstos;
+VI. Los gastos de representación, costo de viajes, viáticos y otro tipo de gastos realizados por los servidores públicos en ejercicio o con motivo de sus funciones;
 
-X. Las enajenaciones de bienes que realicen por cualquier título o acto, indicando los motivos, beneficiarios o adquirentes y los montos de las operaciones;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-XI. Los montos asignados y criterios de acceso a los programas de subsidio;
+VII. El domicilio, número telefónico y la dirección electrónica de la unidad de acceso a la información pública donde podrán recibirse las solicitudes para obtener la información pública;
 
-XII. Los resultados finales de las auditorias que se practiquen a los Ayuntamientos;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-XIII. Las reglas para otorgas (sic) concesiones, licencias, permisos o autorizaciones;
+VIII. Los indicadores de gestión, las metas y objetivos de sus programas y el informe del ejercicio de los recursos públicos asignados o asociados a ellos;
 
-XIV. El padrón inmobiliario;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-XV. Los contratos de obra pública, su monto y a quien le fueron asignados;
+IX. Los servicios que ofrecen, los trámites, requisitos y formatos y, en su caso, el monto de los derechos para acceder a los mismos;
 
-XVI. Los informes que por disposición legal generen los Ayuntamientos;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-XVII. Los documentos en que consten las cuentas públicas, empréstitos y deudas contraídas;
+X. La cuenta pública, el monto del presupuesto asignado, así como los informes sobre su ejecución y los datos de la deuda pública. Dicha información será proporcionada respecto de cada dependencia y entidad;
 
-XVIII. La aplicación de fondos auxiliares especiales y el origen de los ingresos;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-XIX. La relación de solicitudes de acceso a la información pública y las respuestas que se les den.
+XI. Los destinatarios y el uso autorizado de toda entrega de recursos públicos, cualquiera que sea su destino, así como los informes que dichas personas deben entregar sobre el uso y destino de éstos;
 
-###### ARTICULO 6°.
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-Se considera información reservada:
+XII. Las enajenaciones de bienes que realicen por cualquier título o acto, indicando los motivos, beneficiarios o adquirentes y los montos de las operaciones;
+
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+XIII. Los montos asignados y criterios de acceso a los programas de subsidio;
+
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+XIV. Los resultados finales de las auditorias que se practiquen al H. Ayuntamiento y a las entidades municipales;
+
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+XV. Las reglas para otorgar concesiones, licencias, permisos o autorizaciones; su objeto y vigencia; así como los nombres de los titulares o beneficiarios;
+
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+XVI. El padrón inmobiliario;
+
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+XVII. El listado de contratos, su monto y a quienes les fueron asignados, y en su caso, los participantes en el concurso o licitación;
+
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+XVIII. Los informes que por disposición legal genere el H. Ayuntamiento, así como las actas o minutas de sus sesiones públicas;
+
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+XIX. Los documentos en que consten las cuentas públicas, empréstitos y deudas contraídas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE FEBRERO DE 2009)</small>
+
+XX. La aplicación de fondos auxiliares especiales y el origen de los ingresos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE FEBRERO DE 2009)</small>
+
+XXI. La relación de solicitudes de acceso a la información pública y las respuestas que se les den;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE FEBRERO DE 2009)</small>
+
+XXII. La resolución ejecutoria de los procedimientos de responsabilidad de los servidores públicos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE FEBRERO DE 2009)</small>
+
+La información a que se refiere este artículo deberá actualizarse al menos cada tres meses y ordenarse de tal forma que facilite el acceso y su consulta para asegurar su calidad, veracidad, oportunidad y confiabilidad.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE FEBRERO DE 2009)</small>
+
+###### Artículo 6º.
+
+Podrá clasificarse como reservada temporalmente por razón de interés público la información siguiente:
 
 I. La que comprometa la seguridad del Estado o de los Municipios;
 
 II. La que ponga en riesgo la seguridad pública;
 
-III. La que ponga en riegos (sic) la privacidad o la seguridad de los particulares;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+III. La que ponga en riego la privacidad o la seguridad de los particulares;
 
 IV. La que dañe la estabilidad financiera o económica del Estado o los Municipios;
 
-V. La que lesione los procesos de negociación de los Ayuntamientos en cumplimiento de su función pública y pueda ser perjudicial del interés público;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+V. La que lesione los procesos de negociación de los ayuntamientos en cumplimiento de su función pública y pueda ser perjudicial del interés público;
 
 VI. La información de estudios y proyectos cuya divulgación pueda causar daños al interés del Estado o de los municipios, o suponga un riesgo para su realización;
 
-VII. Los expedientes judiciales o administrativos;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-VIII. Los procedimientos de responsabilidad de los servidores públicos. Será pública la resolución definitiva;
+VII. Los expedientes derivados de expedientes judiciales o administrativos seguidos en forma de juicio;
+
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+VIII. Los procedimientos de responsabilidad de los servidores públicos, excepto la resolución ejecutoria;
 
 IX. La que contenga las opiniones, estudios, recomendaciones o puntos de vista que formen parte del proceso deliberativo de los servidores públicos y pueda ser perjudicial del interés público, hasta en tanto no sea adoptada la decisión definitiva;
 
@@ -338,15 +404,21 @@ Una vez recibida la solicitud respectiva en la Unidad de Acceso, ésta proceder�
 
 I.- Si del análisis de la solicitud se determina que los datos proporcionados en la misma no son suficientes para localizar los documentos o son erróneos, procederá en los términos señalados en el artículo 39 de la Ley dentro de los 2 dos días hábiles siguientes al de recepción de la solicitud.
 
-El término de 20 veinte días, de acuerdo con la Ley, para proporcionar la información, se interrumpe, hasta en tanto el solicitante satisfaga el requerimiento de aclaración, por parte de Unidad de Acceso.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
 
-En caso de modificación sustancial de la solicitud de acceso presentada como respuesta al requerimiento comenzará a correr un nuevo plazo de 20 días.
+El término de 15 quince días, de acuerdo con la Ley, para proporcionar la información, se interrumpe, hasta en tanto el solicitante satisfaga el requerimiento de aclaración, por parte de la unidad de acceso.
+
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
+En caso de modificación sustancial de la solicitud de acceso presentada como respuesta al requerimiento comenzará a correr un nuevo plazo de 15 quince días.
 
 II.- Cuando la solicitud de información contenga los datos necesarios para darle tramite, se requerirá al titular de la dependencia o entidad que corresponda dentro de los 2 dos días hábiles siguientes al en que se haya recibido la solicitud, la información respectiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 24.
 
-El titular de la Dependencia o Entidad procederá a revisar la petición de la Unidad de Acceso a efecto de determinar si se cuenta con la información; si ésta es pública deberá remitirla a la Unidad de Acceso dentro de los 10 diez días hábiles siguientes, a fin de que se le dé el trámite correspondiente.
+El titular de la dependencia o entidad procederá a revisar la petición de la unidad de acceso a efecto de determinar si se cuenta con la información; si ésta es pública deberá remitirla a la unidad de acceso dentro de los 5 cinco días hábiles siguientes, a fin de que se le dé el trámite correspondiente.
 
 Si no existe respuesta de la dependencia o entidad, el Titular de la Unidad de Acceso le requerirá a fin de que dé contestación a la petición en el plazo de 2 dos días hábiles.
 
@@ -366,9 +438,11 @@ En el supuesto que en la información solicitada se detecte que existen datos pe
 
 Si el titular de los datos personales dentro del término de 5 cinco días hábiles no da contestación al requerimiento se entenderá que no desea que se conozca tal información.
 
-###### ARTICULO 28.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
 
-Cuando la información solicitada contenga datos clasificados como reservados o confidenciales, se eliminarán las partes o secciones que contengan dichos datos, siempre y cuando se puedan eliminar del documento sin alterarlo en su totalidad, señalando las partes o secciones que fueron eliminadas, dicha información se proporcionará dentro de los 20 veinte días hábiles siguientes al de recepción de la solicitud.
+###### Artículo 28.
+
+En aquellos documentos que contengan información, tanto pública como reservada o confidencial, la unidad de acceso a la información pública deberá proporcionar la de carácter público, eliminando las partes o secciones clasificadas como reservadas o confidenciales. En tales casos, deberán señalarse las partes o secciones que fueron eliminadas. Dicha información se proporcionará dentro de los 15 quince días hábiles siguientes al de recepción de la solicitud.
 
 ### CAPITULO VI. DE LA AMPLIACIÓN DEL PLAZO PARA LA ENTREGA DE INFORMACIÓN
 
@@ -444,21 +518,25 @@ En caso de que se determine que no es procedente la modificación, la unidad de 
 
 #### SECCIÓN PRIMERA. DEL RECURSO DE INCONFORMIDAD
 
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 40.
 
-Contra las resoluciones de las unidades de acceso a la información pública que nieguen el acceso a la información, o bien cuando ésta no haya sido proporcionada dentro de los plazos correspondientes, el solicitante de la información podrá interponer por si mismo a través de su representante, recurso de inconformidad ante el Director General del Instituto dentro de los quince días hábiles siguientes a la notificación o a la configuración de la negativa ficta.
+El solicitante de la información podrá interponer por escrito o a través de medios electrónicos, por sí mismo, recurso de inconformidad ante el Director General del Instituto, dentro de los quince días hábiles siguientes a la notificación o al vencimiento del plazo para entregar la información sin que se haya dado respuesta al solicitante, en los siguientes supuestos:
 
-El recurso de inconformidad también podrá ser interpuesto cuando:
+I. Contra las resoluciones de la unidad de acceso a la información pública que niegue el acceso a la información;
 
-I. El sujeto obligado se niegue a efectuar modificaciones o correcciones a los datos personales;
+II. Cuando la información pública no haya sido proporcionada dentro de los plazos correspondientes; y
 
-II. El solicitante considere que la información pública entregada es incompleta o no corresponda a la requerida en la solicitud.
+III. Cuando el solicitante considere que la información pública entregada es incompleta o no corresponda a la requerida en la solicitud.
 
 ###### ARTICULO 41.
 
 El escrito de interposición del recurso de inconformidad deberá mencionar:
 
-I. El nombre del recurrente y su domicilio para recibir notificaciones, mismo que deberá estar ubicado en el lugar donde resida el instituto, en su defecto se notificará por estrados;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+I. El nombre del recurrente y su domicilio fiscal o dirección electrónica para recibir notificaciones. En caso de domicilio físico éste deberá estar ubicado en el municipio donde resida el instituto, en su defecto se notificará por estrados;
 
 II. La unidad de acceso a la información pública ante la cual se presentó la solicitud y su domicilio;
 
@@ -484,9 +562,11 @@ Rindiendo el informe o transcurridos los plazos a que se refiere el párrafo pri
 
 Contra las resoluciones del Director General del Instituto, los sujetos obligados podrán interponer el recurso de revisión ante el propio director y resolverá el Consejo general.
 
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 45.
 
-El recurso de revisión se interpondrá por escrito, con expresión de agravios, ante el Director General del Instituto, dentro del término de diez días hábiles siguientes a la notificación respectiva.
+El recurso de revisión se interpondrá por escrito o por medios electrónicos de conformidad con la ley de la materia, con expresión de agravios, ante el director general del instituto, dentro del término de diez días hábiles siguientes a la notificación respectiva.
 
 ###### ARTICULO 46.
 
@@ -527,3 +607,9 @@ PRESIDENTE MUNICIPAL
 ING. J. JESUS MURILLO ANDRADE
 
 SECRETARIO DEL H. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 6 DE FEBRERO DE 2009.
+
+Articulo Único. El presente acuerdo, entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
