@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-unidad-de-acceso-a-la-informacion-publica-3993
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-04"
-last_updated: "2007-09-14"
+last_updated: "2009-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39932&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "GUA"
 
 REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE ACAMBARO, GTO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 2009.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 4 de junio de 2004.
 
@@ -82,37 +82,85 @@ II.- Su estructura orgánica;
 
 III.- El directorio de servidores Públicos, desde el nivel de Jefe de Departamento o sus equivalentes hasta el nivel del funcionario de mayor jerarquía;
 
-IV.- El tabulador de dietas, sueldos y salarios; el sistema de premios, estímulos y recompensas; los gastos de representación, costos de viajes, viáticos y otro tipo de gastos realizados por los servidores públicos en ejercicio o con motivo de sus funciones;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-V.- El domicilio, número telefónico y la dirección electrónica de la unidad de acceso a la información pública donde podrán recibirse la (sic) solicitudes para obtener información pública;
+IV.- El tabulador mensual de dietas, sueldos y salarios, precisando todo género de percepciones y descuentos;
 
-VI.- Las metas y objetivos de sus programas;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-VII.- Los servicios que ofrecen, los trámites, requisitos y formatos, y en su caso, el monto de los derechos para acceder a los mismos;
+V.- El sistema de premios, estimulas y recompensas de conformidad con la Ley de la materia;
 
-VIII.- El monto del presupuesto asignado, así como los informes sobre su ejecución;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-IX.- Los destinatarios y el uso autorizado de toda entrega de recursos públicos, cualquiera que sea su destino, así como los informes que dichas personas deben entregar sobre su uso y destino de éstos;
+VI.- Los gastos de representación, costo de viajes, viáticos y otro tipo de gastos realizados por los servidores públicos en ejercicio o con motivo de sus funciones;
 
-X.- Las enajenaciones de bienes que realicen por cualquier título o acto, indicando los motivos, beneficiarios o adquirientes y los montos de las operaciones;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-XI.-Los montos asignados y criterios de acceso a los programas de subsidio;
+VII.- El domicilio, numero telefónico y la dirección electrónica de la Unidad de Acceso a la Información Pública donde podrán recibirse las solicitudes para obtener información pública;
 
-XII.- Los resultados finales de las auditorias que se practiquen al sujeto obligado;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-XIII.- Las reglas para otorgar concesiones, licencias, permisos o autorizaciones;
+VIII.- Los indicadores de gestión, las metas y objetivos de sus programas y el informe del ejercicio de los recursos públicos asignados o asociados a ellos;
 
-XIV.- El padrón inmobiliario;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-XV.- Los contratos de la obra pública, su monto y a quién le fueron asignados;
+IX.- Los servicios que ofrecen, los trámites, requisitos y formatos, y en su caso, el monto de los derechos para acceder a los mismos;
 
-XVI.- Los informes que por disposición legal genere el sujeto obligado;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-XVII.- Los documentos en que consten las cuentas públicas, empréstitos y deudas contraídas;
+X.- La cuenta Pública, el monto del presupuesto asignado, así como los informes sobre su ejecución y los datos de la deuda pública. Dicha información será proporcionada respecto de cada dependencia y entidad del sujeto obligado;
 
-XVIII.- La aplicación de los fondos auxiliares especiales y el origen de los ingresos; y
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-XIX.- La relación de solicitudes de acceso a la información pública y las respuestas que se les den.
+XI.- Los destinatarios y el uso autorizado de toda entrega de recursos públicos, cualquiera que sea su destino, así como los informes que dichas personas deben entregar sobre su uso y destino de éstos;
+
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+XII.- Las enajenaciones de bienes que realicen por cualquier título o acto indicando los motivos, beneficiarios o adquirientes y los montos de las operaciones;
+
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+XIII.- Los montos asignados y criterios de acceso a los programas de subsidio;
+
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+XIV.- Los resultados finales de las auditorias que se practiquen al sujeto obligado;
+
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+XV.- Las reglas para otorgar concesiones, licencias, permisos o autorizaciones; su objeto y vigencia; así como los nombres de los titulares o beneficiarios;
+
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+XVI.- El padrón Inmobiliario;
+
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+XVII.- El listado de contratos, su monto y a quienes les fueron asignados, y en su caso, los participantes en el concurso o licitación;
+
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+XVIII.- Los informes que por disposición legal genere el sujeto obligado, así como las actas o minutas de sesiones públicas de cuerpos colegiados del sujeto obligado;
+
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+XIX.- Los documentos en que consten las cuentas públicas, empréstitos y deudas contraídas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE FEBRERO DE 2009)</small>
+
+XX.- La aplicación de los fondos auxiliares especiales y el origen de los ingresos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE FEBRERO DE 2009)</small>
+
+XXI.- La relación de solicitudes de acceso a la información pública y las respuestas que se les den;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE FEBRERO DE 2009)</small>
+
+XXII.- La resolución ejecutoria de los procedimientos de responsabilidad de los servidores públicos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE FEBRERO DE 2009)</small>
+
+La información a que se refiere este artículo deberá actualizarse al menos cada tres meses y ordenarse de tal forma que facilite el acceso y su consulta para asegurar su calidad, veracidad, oportunidad y confiabilidad.
 
 ###### Artículo 6°.
 
@@ -130,9 +178,13 @@ V.- La que lesione los procesos de negociación de los sujetos obligados en cump
 
 VI.- La información de estudios y proyectos cuya divulgación pueda causar daño al interés del estado o del municipio, o suponga un riesgo para su realización;
 
-VII.- Los expedientes judiciales o administrativos. Serán públicos los expedientes electorales;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
 
-VIII.- Los procedimientos de responsabilidad de los servidores públicos. Será pública la resolución definitiva;
+VII.- Los expedientes derivados de procedimientos judiciales o administrativos seguidos en forma de juicio;
+
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+
+VIII.- Los procedimientos de responsabilidad de los servidores públicos; excepto la resolución ejecutoria;
 
 IX.- La que contenga las opiniones, estudios, recomendaciones o puntos de vista que formen parte del proceso deliberativo de los servidores públicos y pueda ser perjudicial del interés público, hasta en tanto no sea adoptada la decisión definitiva;
 
@@ -376,9 +428,13 @@ Una vez recibido el formato de solicitud respectivo en la Unidad de Acceso a la 
 
 I. Si del análisis del formato de solicitud se determina que los datos proporcionados por el mismo no son suficientes para localizar los documentos o son erróneos, procederá en los términos señalados en el artículo 39 de la Ley dentro de los 2 dos días hábiles siguientes al de la recepción de la solicitud.
 
-El término de 20 veinte días, de acuerdo con la ley, para proporcionar la información, se interrumpe, hasta en tanto el solicitante satisfaga el requerimiento de aclaración, por parte de la Unidad de Acceso.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
 
-En caso de modificación sustancial de la solicitud de acceso presentada como respuesta al requerimiento comenzará a correr un nuevo plazo de 20 veinte días.
+El término de 15 quince días, de acuerdo con la ley, para proporcionar la información, se interrumpe, hasta en tanto el solicitante satisfaga el requerimiento de aclaración, por parte de la Unidad de Acceso.
+
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+
+En caso de modificación sustancial de la solicitud de acceso presentada como respuesta al requerimiento comenzará a correr un nuevo plazo de 15 días.
 
 II. Cuando la solicitud de información contenga los datos necesarios para darle trámite, se requerirá al titular de la Dependencia o Entidad Municipal que corresponda dentro de los 2 dos días siguientes hábiles al que haya recibido la solicitud, la información respectiva.
 
@@ -406,9 +462,11 @@ Cuando la unidad de Enlace determina que la información solicitada se encuentra
 
 Cuando (sic) la información solicitada se detecte que existen datos personales, la Unidad de Acceso comunicará al titular de los mismos, a fin de que exprese si no tiene inconveniente en que se proporcione los datos, dentro de los 3 tres días hábiles. Si el titular de los datos no da contestación dentro de 5 cinco días hábiles al requerimiento, se entenderá que no desea que se conozca la información.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 29°.
 
-Cuando la información solicitada contenga datos clasificados como reservados o confidenciales, se eliminarán las partes o secciones que contengan dichos datos, siempre y cuando se puedan eliminar del documento sin alterarlo en su totalidad, señalando las partes o secciones que fueron eliminadas, dicha información se proporcionará dentro de los 20 veinte días hábiles siguientes al de la recepción de la solicitud.
+Cuando la información solicitada contenga datos clasificados como reservados o confidenciales, se eliminarán las partes o secciones que contengan dichos datos del documento sin alterarlo en su totalidad, proporcionando la información de carácter público, señalando las partes o secciones que fueron eliminadas, dicha información se proporcionará dentro de los 15 días hábiles siguientes al de la recepción de la solicitud.
 
 La Unidad de Acceso procederá a la revisión de los documentos remitidos, a fin de verificar la eliminación adecuada de los datos clasificados como reservados o confidenciales.
 
@@ -549,3 +607,7 @@ La capacitación a cada uno de los servidores públicos de las Dependencias y En
 ###### ARTÍCULO SEXTO.
 
 Toda disposición en contrario al presente reglamento se tendrá por no hecha en los términos de la Ley de Protección de Datos Personales para el Estado y los Municipios de Guanajuato.
+
+P.O. 6 DE FEBRERO DE 2009.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE GUANAJUATO.
