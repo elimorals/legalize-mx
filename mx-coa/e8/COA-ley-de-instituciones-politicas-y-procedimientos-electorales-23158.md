@@ -4,7 +4,7 @@ identifier: "COA-ley-de-instituciones-politicas-y-procedimientos-electorales-231
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-16"
-last_updated: "2007-08-02"
+last_updated: "2009-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DE INSTITUCIONES POLITICAS Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 6 DE FEBRERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 16 de noviembre de 2001.
 
@@ -2936,3 +2938,15 @@ ARTICULO UNICO (SIC). El presente decreto entrará en vigor al día siguiente de
 ###### ARTICULO SEGUNDO.
 
 El periodo de cuatro años para los integrantes del Congreso del Estado será aplicable a partir de la renovación a realizarse en el año 2013. En consecuencia y por única ocasión, los diputados electos en el proceso electoral a celebrarse en el año 2008, correspondiente a la Quincuagésima Octava Legislatura, durarán en su encargo el período comprendido del 1 de enero de 2009 al 31 de diciembre de 2011 y los diputados electos en el proceso electoral a celebrarse en el año 2011, correspondiente a la Quincuagésima Novena Legislatura, entrarán en su encargo el de enero de 2012 para culminar el día 31 de diciembre de 2013.
+
+P.O. 6 DE FEBRERO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al segundo día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley de Instituciones Políticas y Procedimientos Electorales para el Estado de Coahuila de Zaragoza y la Ley del Instituto Electoral y de Participación Ciudadana para el Estado de Coahuila de Zaragoza, ambas publicadas en el Periódico Oficial del Gobierno del Estado el día 16 de noviembre de 2001.
+
+TERCERO. Dentro de los noventa días siguientes a partir de la entrada en vigor del presente decreto, deberán de realizarse las reformas de la Ley de Medios de Impugnación en Materia Político-Electoral y de la Ley de Participación Ciudadana para el Estado de Coahuila de Zaragoza, ambas publicadas en el Periódico Oficial del Gobierno del Estado el día 16 de noviembre de 2001, así como también a las demás leyes, reglamentos y disposiciones aplicables para adecuarlas a los términos del presente decreto.
+
+CUARTO. El personal de base y sindicalizado del Instituto Electoral y de Participación Ciudadana, en ninguna forma resultará afectado en los derechos que hubiese adquirido en virtud de su relación laboral con el propio Instituto.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
