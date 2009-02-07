@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-integral-para-adolescentes-del-estado-de-51709"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-12"
-last_updated: "2008-11-04"
+last_updated: "2009-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE JUSTICIA INTEGRAL PARA ADOLESCENTES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 12 de septiembre de 2006.
 
@@ -533,6 +533,10 @@ Si en el transcurso del procedimiento se comprueba que la persona a quien se imp
 
 Si en el transcurso del procedimiento, se comprueba que la persona a quien se le imputa la realización de la conducta era niño o niña menor de 12 años de edad al momento de realizarla, se derivarán las actuaciones al Consejo Estatal de Familia para efectos de que resuelva la situación jurídica y se decrete la medida de protección que corresponda, trasladándose al niño o niña a alguna institución de Asistencia Social que reciba recursos públicos, se archivarán las actuaciones y se notificará, cuando así proceda, a las instituciones dedicadas a la protección de los derechos de la infancia.
 
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2009)</small>
+
+Cuando en los términos de lo dispuesto en la parte final de la fracción VII del artículo 308 del Código de Procedimientos penales, se reciba la causa relativa a un adolescente, el Juez dará vista al Ministerio Público de su adscripción para que, dentro de las veinticuatro horas, manifieste si ejercita o no la acción de remisión, con arreglo a las leyes aplicables y con base en las actuaciones anteriores. En caso afirmativo, el juez deberá celebrar la audiencia de vinculación y dentro del término legal, resolverá su situación jurídica y el asunto continuará con sujeción a las disposiciones de esta Ley. En caso negativo, decretará la libertad del inculpado.
+
 ###### Artículo 32.
 
 Si en un hecho intervienen uno o varios adolescentes con uno o varios adultos, las causas se separarán y las autoridades especializadas para adolescentes conocerán de lo que corresponda, con plena autonomía de jurisdicción y competencia.
@@ -745,9 +749,11 @@ Una vez deshogadas (sic) todas las pruebas, el Juez, de oficio o a petición de 
 
 El escrito de atribución de hechos precisará, el enlace lógico-jurídico de los hechos constitutivos de la conducta reprochable estableciendo circunstancias de lugar, tiempo y modo, con las pruebas al efecto diligenciadas, que demuestren la existencia plena de la conducta tipificada como delito y la responsabilidad del adolescente en su comisión.
 
-###### Artículo 55.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 2009)</small>
 
-Concluido el término de atribución de hechos y conclusión de la defensa, el Juez, dictará acuerdo en el que señale fecha y hora para pronunciar la resolución definitiva, misma que emitirá en un término no mayor a diez días contados a partir de la notificación del acuerdo a las partes; resolución definitiva que deberá sujetarse a las siguientes disposiciones:
+###### Articulo 55.
+
+Concluido el término de atribución de hechos y conclusión de la defensa, el Juez dictará un acuerdo en que se señale fecha y hora para la celebración de la audiencia de vista y lectura de la resolución definitiva y. en dicha audiencia se dictará la resolución correspondiente en la que se les hará saber a las partes el derecho de recurrirla y el término que les asiste. Quedando debidamente notificadas con esa fecha. La resolución definitiva deberá sujetarse a las siguientes disposiciones:
 
 I. Solo podrá imponer las medidas consideradas en esta Ley;
 
@@ -1407,11 +1413,13 @@ El recurso de apelación podrá ser interpuesto por el Ministerio Público, el A
 
 El recurso de apelación se interpondrá por escrito ante el mismo Juez que dictó la resolución y, dentro del plazo de cinco días de haberse efectuado la notificación.
 
-###### Artículo 142.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 2009)</small>
 
-Presentado el recurso, el Juez deberá correr traslado a las partes para que en el plazo de tres días lo contesten.
+###### Articulo 142.
 
-Luego, sin más trámite e inmediatamente, sin que exceda del término de tres días, remitirá las actuaciones a la Sala para que resuelva.
+Presentado el recurso, el Juez deberá correr traslado a las partes para que en el plazo de tres días lo contesten, y transcurrido el lapso anterior, deberá de remitir a la sala, dentro de los cinco días siguientes, el original del expediente, a efecto de que ésta pueda apreciar si se ha violado o no el procedimiento, y si existe el agravio que la parte recurrente esgrime.
+
+> <small>(REFORMADO [N. DE E. DEROGADO SEGUNDO PARRAFO], P.O. 7 DE FEBRERO DE 2009)</small>
 
 Sólo se remitirá copia de las actuaciones pertinentes o se formará un legajo especial, para no demorar el trámite del proceso.
 
@@ -1526,3 +1534,9 @@ P.O. 13 DE DICIEMBRE DE 2007.
 P.O. 4 DE NOVIEMBRE DE 2008.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 7 DE FEBRERO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Hasta en tanto se cuente con suficiencia presupuestal las funciones encomendadas a la Subprocuraduría de Servicios Jurídicos Asistenciales se podrán realizar por conducto de auxiliaries (sic) sociales comisionados o adscritos a ésta.
