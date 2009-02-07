@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-procuraduria-social-54100"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-01-16"
-last_updated: "2008-10-02"
+last_updated: "2009-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "JAL"
 ---
 # LEY ORGANICA DE LA PROCURADURIA SOCIAL
 
-LEY ORGANICA DE LA PROCURADURIA SOCIAL
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE JULIO DE 2009 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2008.
+LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL
 
-Ley publicada en la Sección III al Periódico Oficial del Estado de Jalisco, el martes 16 de enero de 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2009.
+
+Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 16 de enero de 2007.
 
 Mtro. Gerardo Octavio Solís Gómez, Gobernador Interino del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto
 
@@ -65,13 +67,9 @@ b) Garantizar la legalidad en los asuntos del orden familiar y civil;
 
 c) Representar y tutelar los derechos e intereses de menores, incapaces, ausentes, e ignorados en los procedimientos jurisdiccionales en que sean parte;
 
-> <small>(F. DE E., P.O. 10 DE MARZO DE 2007)</small>
+d). (DEROGADO, P.O. 7 DE FEBRERO DE 2009)
 
-d). Practicar las visitas de inspección a las notarías públicas en el Estado, las oficinas del Registro Civil y del Registro Público de la Propiedad, en la forma y términos que determinen las leyes; y
-
-> <small>(F. DE E., P.O. 10 DE MARZO DE 2007)</small>
-
-e). Desempeñar extrajudicialmente las funciones de mediación o conciliación tendientes a lograr la solución de conflicto proponiendo soluciones amistosas a los interesados, conforme a lo previsto en la normatividad aplicable.
+e). (DEROGADO, P.O. 7 DE FEBRERO DE 2009)
 
 f). Recibir los avisos que presenten los notarios públicos, en relación con el otorgamiento de testamentos y rendir informes de los mismos, cuando les sean solicitados por autoridad competente.
 
@@ -82,6 +80,14 @@ a) Proporcionar asistencia jurídica gratuita a personas de escasos recursos y d
 b). Desempeñar extrajudicialmente las funciones de conciliación o mediación para la solución de conflictos entre las partes que los soliciten, en los términos de la ley en materia de justicia alternativa; y
 
 c). Las demás que establezcan las leyes.
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2009)</small>
+
+IV. Practicar las visitas de inspección a las notarías públicas en el Estado, a las oficinas del Registro Civil y del Registro Público de la Propiedad, en la forma y términos que determinen las leyes, y
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2009)</small>
+
+V. Las demás que establezcan las leyes.
 
 ###### Artículo 4.
 
@@ -173,7 +179,9 @@ XV. Calificar las excusas e impedimentos de los sub procuradores y directores ge
 
 XVI. Sancionar, en su caso, las faltas administrativas cometidas por los servidores públicos de la dependencia, en los términos de la Ley de los Servidores Públicos del Estado y sus Municipios, así como la Ley de Responsabilidades de los Servidores Públicos del Estado;
 
-XVII. Ordenar las visitas de inspección que le competen a la Procuraduría social; y
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2009)</small>
+
+XVII. Ordenar las visitas de inspección interna y externa que le competen a la Procuraduría Social, y
 
 XVIII. Las demás que le confieran las leyes y demás disposiciones aplicables.
 
@@ -183,25 +191,37 @@ El Procurador Social podrá delegar sus facultades en servidores públicos subal
 
 ### Capítulo Primero. Disposiciones comunes a las Subprocuradurías
 
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 10.
 
-Las funciones propias de la Procuraduría Social, se ejercerán bajo los principios de división de funciones y especialización a través de las Sub Procuradurías de:
+Las funciones propias de la Procuraduría Social, se ejercerán bajo los principios de división de funciones y especialización a través de las siguientes:
 
-I. Defensoría de Oficio;
+I. Subprocuraduría de la Defensoría de Oficio;
 
-II. Representación Social; y
+II. Subprocuraduría de Representación Social;
 
-III. Servicios Jurídicos Asistenciales.
+III. Subprocuraduría de Servicios Jurídicos Asistenciales;
+
+IV. Dirección General de Visitaduría;
+
+V. Coordinación General de Regiones, y
+
+VI. Coordinaciones Regionales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 11.
 
-Cada Sub Procuraduría estará integrada al menos por:
+Cada subprocuraduría estará integrada al menos por:
 
 I. Un Sub Procurador;
 
 II. Los Directores de área especializada; y
 
-III. Los Agentes de la procuraduría social y servidores públicos que sean necesarios y que permita el presupuesto.
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2009)</small>
+
+III. Los agentes sociales y servidores públicos que sean necesarios y que permita el presupuesto.
 
 ###### Artículo 12.
 
@@ -217,15 +237,19 @@ IV. Tener registrado ante la Dirección de Profesiones del Estado, su título pr
 
 V. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal de más de un año de prisión; pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 13.
 
-Son atribuciones de los Sub Procuradores en General:
+Son atribuciones de los subprocuradores en general:
 
 I. Dirigir, asesorar, supervisar y evaluar las acciones de sus áreas;
 
 II. Acordar con el Procurador Social y despachar los asuntos que correspondan a la dependencia a su cargo;
 
-III. Proponer al Procurador Social, el sub programa de actividades propias de su área;
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2009)</small>
+
+III. Proponer al Procurador Social, el programa de actividades propias de su área;
 
 IV. Coordinarse con los titulares de las demás Sub procuradurías, coordinaciones regionales y direcciones para el adecuado ejercicio de sus funciones;
 
@@ -233,7 +257,9 @@ V. Proponer al Procurador Social, los nombramientos, promociones, licencias, as�
 
 VI. Participar en los procesos de selección y formar parte como miembro del jurado calificador de los exámenes aplicados a los agentes de la Procuraduría o cualquier otro servicio público correspondiente a la dependencia a su cargo;
 
-VII. Proponer al Procurador Social para que promueva la coordinación con las dependencias de la administración pública estatal y municipales, así como con las universidades y colegios de abogados u otras organizaciones sociales y privadas, en todo lo que considere conveniente para el mejor desenvolvimiento de las funciones de la defensoría de oficio; y
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2009)</small>
+
+VII. Proponer al Procurador Social para que promueva la coordinación con las dependencias de la administración pública estatal y municipal, así como con las universidades y colegios de abogados u otras organizaciones sociales y privadas, en todo lo que considere conveniente para el mejor desenvolvimiento de la funciones asignadas a las subprocuradurías, y
 
 VIII. Las demás que la presente ley y el reglamento interior le confieran.
 
@@ -265,9 +291,11 @@ IV. Promover en materia familiar, siempre que lo permitan las circunstancias, cu
 
 V. Las demás que la presente ley y el reglamento interior le confieran.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 16.
 
-La Procuraduría Social, adscribirá los defensores de oficio, que se requieran y permita la capacidad presupuestal en:
+La Procuraduría Social, adscribirá los agentes sociales que se requieran y permita la capacidad presupuestal en:
 
 I. Las Agencias del Ministerio Público, incluidas las especializadas para adolescentes;
 
@@ -281,9 +309,11 @@ V. La Sala especializada para adolescentes; y
 
 VI. En las demás dependencias en que se determine por acuerdo del Procurador Social.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 17.
 
-Son atribuciones de los defensores de oficio:
+Son atribuciones de los agentes sociales adscritos a la Subprocuraduría de la Defensoría de Oficio:
 
 I. Prestar el servicio de defensoría de oficio en los asuntos en que, por adscripción o por asignación expresa de sus superiores les corresponda intervenir;
 
@@ -301,9 +331,11 @@ VII. Las demás que les confieran los ordenamientos legales aplicables.
 
 ### Capítulo Cuarto. De la Sub Procuraduría de la Representación Social
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 18.
 
-La Sub procuraduría de Representación Social, es la dependencia encargada de intervenir en los asuntos del orden civil, familiar y laboral burocrático cuando las leyes le confieran esa facultad a la Procuraduría Social en su carácter de Representante Social, así como velar por la observancia de la legalidad en la impartición de justicia y representar a los menores, incapaces, ausentes e ignorados y a la sociedad en general, en los casos y términos que dispongan las leyes. Tiene como atribuciones:
+La Subprocuraduría de Representación Social, es la dependencia encargada de intervenir en los asuntos del orden civil, familiar y mercantil cuando las leyes le confieran esa facultad a la Procuraduría Social en su carácter de Representante Social, así como velar por la observancia de la legalidad en la impartición de justicia y representar a los menores, incapaces, ausentes e ignorados y a la sociedad en general, en los casos y términos que dispongan las leyes. Tiene como atribuciones:
 
 I. Representar a la sociedad en los procedimientos de orden e interés público;
 
@@ -311,17 +343,21 @@ II. Garantizar la legalidad en los asuntos del orden familiar, civil y mercantil
 
 III. Representar y tutelar los derechos e intereses de menores, incapaces, ausentes, e ignorados en los procedimientos jurisdiccionales en que sean parte;
 
-IV. Procurar la solución de conflictos a través de medios alternativos, en aquéllos casos en que proceda, conforme a lo previsto en la presente ley; y
+IV. (DEROGADA, P.O. 7 DE FEBRERO DE 2009)
 
 V. Recibir los avisos que presenten los notarios públicos, en relación con el otorgamiento de testamentos y rendir informes de los mismos, cuando les sean solicitados por autoridad competente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 19.
 
-Son atribuciones especiales del Sub Procurador de Representación Social:
+Son atribuciones especiales del Subprocurador de Representación Social:
 
 I. Auxiliar al Procurador Social en el desempeño de las funciones propias de la procuraduría de la representación social y del respeto a los intereses sociales, en procedimientos jurisdiccionales;
 
-II. Proponer a la Dirección Administrativa, el programa anual de capacitación de la Defensoría de Oficio y presentarlo a la aprobación del Procurador Social;
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2009)</small>
+
+II. Proponer a la Dirección Administrativa, el programa anual de capacitación de la Representación Social y presentarlo a la aprobación del Procurador Social;
 
 III. Adoptar las medidas necesarias para el cumplimiento del programa a que se refiere la fracción anterior;
 
@@ -337,15 +373,17 @@ Para efectos de lo anterior, la Procuraduría, de acuerdo a la capacidad presupu
 
 La Sub Procuraduría de Servicios Jurídicos Asistenciales, es la dependencia que tiene a su cargo, de manera directa, la prestación de los servicios de asesoría legal gratuita y patrocinio en los asuntos del orden civil y mercantil; así como en materia laboral a favor de los trabajadores al servicio del Estado y sus Municipios, cuando las personas que soliciten el servicio cumplan las condiciones y requisitos que fijen las leyes de la materia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 22.
 
-El Sub procurador de los Servicios Jurídicos Asistenciales tendrá las siguientes atribuciones especiales:
+Son atribuciones especiales del Subprocurador de los Servicios Jurídicos Asistenciales:
 
 I. Organizar la prestación de los servicios jurídicos asistenciales, de conformidad con la presente ley, el reglamento interior y los acuerdos que dicte el Procurador Social;
 
-> <small>(F. DE E., P.O. 10 DE MARZO DE 2007)</small>
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2009)</small>
 
-II. Proponer a la Dirección Administrativa, el programa anual de capacitación del personal a su cargo y presentarlo a la aprobación del Procurador Social;
+II. Proponer a la Dirección Administrativa, el programa anual de capacitación de los Servicios Jurídicos Asistenciales y presentarlo a la aprobación del Procurador Social;
 
 III. Adoptar las medidas necesarias para el cumplimiento del programa que se refiere la fracción anterior;
 
@@ -391,13 +429,17 @@ IV. Las demás que le asignen la presente ley y las demás disposiciones aplicab
 
 ### Capítulo Séptimo. De los Agentes de la Procuraduría Social
 
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 26.
 
-La prestación de los servicios públicos de defensoría de oficio, representación social, y servicios jurídicos asistenciales, está a cargo de la Procuraduría Social y se ejercen a través de los agentes nombrados por ésta y adscritos a la sub procuraduría correspondiente, de acuerdo al principio de especialización.
+La prestación de los servicios públicos de defensoría de oficio, representación social, y servicios jurídicos asistenciales, está a cargo de la Procuraduría Social y se ejercen a través de los agentes sociales nombrados por ésta y comisionados bien sea a las subprocuradurías, Dirección General de Visitaduría y despacho del procurador; de acuerdo al principio de especialización.
 
-###### Artículo 27.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 2009)</small>
 
-Para ser agente de la Procuraduría Social, se requiere:
+###### Articulo 27.
+
+Para ser agente social de la Procuraduría Social, se requiere:
 
 I. Ser ciudadano mexicano en pleno uso de sus derechos;
 
@@ -413,27 +455,35 @@ VI. Tener la mayor puntuación de entre los aspirantes que reúnan la totalidad 
 
 VII. Los demás que se establezcan en la convocatoria que se expida al efecto.
 
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 28.
 
-Los agentes de la Procuraduría Social, deberán recibir una remuneración adecuada, tomando en consideración los requisitos, atribuciones, obligaciones y prohibiciones que los ordenamientos aplicables les impongan.
+Los agentes sociales de la Procuraduría Social, deberán recibir una remuneración, tomando en consideración los requisitos, atribuciones, obligaciones y prohibiciones que los ordenamientos aplicables les impongan.
 
 ## TÍTULO CUARTO. DE LAS DIRECCIONES GENERALES
 
 ### Capítulo Primero. De la Dirección General de Visitaduría
 
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 29.
 
-La Dirección de Visitaduría es el área encargada de practicar las visitas de inspección a las notarías públicas en el Estado, las oficinas del Registro Civil y del Registro Público de la Propiedad, cárceles municipales y estatales y a la misma Procuraduría Social, en la forma y términos que determinen las leyes; realizar las funciones de inspección y vigilancia que las leyes confieren a la Procuraduría Social, en los procedimientos administrativos no contenciosos; y le corresponde substanciar los procedimientos de responsabilidad administrativa de los servidores públicos adscritos a la Procuraduría Social y remitirlos al Procurador Social para su resolución definitiva.
+La Dirección General de Visitaduría es el área encargada de practicar las visitas de inspección a las notarías públicas en el Estado, las oficinas del Registro Civil y del Registro Público de la Propiedad, cárceles municipales y estatales, instituciones que atiendan a niñas, niños y adolescentes, organismos de asistencia social en la forma y los términos que determinen la leyes; realizar las funciones de inspección y vigilancia que las leyes confieren a la Procuraduría Social, en los procedimientos administrativos no contenciosos, y le corresponde substanciar los procedimientos de responsabilidad administrativa de los servidores públicos adscritos a la Procuraduría Social para su resolución definitiva.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 30.
 
-La Dirección de Visitaduría se integra por:
+La Dirección General de Visitaduría se integra por:
 
 I. Un director general;
 
 II. Los directores de área que determine el reglamento; y
 
-III. El número de Agentes Visitadores que permita el presupuesto.
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2009)</small>
+
+III. El número de agentes sociales que permita el presupuesto.
 
 ###### Artículo 31.
 
@@ -449,9 +499,13 @@ IV. Tener registrado ante la Dirección de Profesiones del Estado, su título pr
 
 V. Gozar de buena reputación y no haber sido condenado por delito dolosos (sic) que amerite pena corporal de más de un año de prisión; pero si se trate (sic) de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE JULIO DE 2009 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 32.
 
-El Director de Visitaduría tendrá las siguientes atribuciones:
+El Director General de Visitaduría tendrá las siguientes atribuciones:
 
 I. Planear, dirigir, supervisar y evaluar las acciones de su área;
 
@@ -463,13 +517,15 @@ IV. Coordinarse con los titulares de las demás áreas para el adecuado ejercici
 
 V. Proponer al Procurador Social, los nombramientos, promociones, licencias, así como la remoción del personal a su cargo;
 
-VI. Organizar las visitas ordinarias, extraordinarias, generales o especiales que las leyes prevean;
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2009)</small>
+
+VI. Organizar las visitas externas ordinarias, extraordinarias, generales o especiales que las leyes prevean;
 
 VII. Denunciar hechos que puedan constituir falta (sic) administrativas, hechos que pudieran ser causa de responsabilidad administrativa, política o penal, cuando se tenga conocimiento de ellos con motivo del ejercicio de sus atribuciones, a fin de que sean sancionados por las autoridades competentes;
 
 VIII. Organizar la práctica de visitas de inspección a notarios, oficinas del Registro Civil y del Registro Público de la Propiedad, para los fines que determinen las leyes aplicables, en la forma y términos en que éstas lo dispongan;
 
-IX. Realizar las visitas de inspección interna a las áreas de la Procuraduría, en cumplimiento del programa que apruebe el Procurador Social;
+IX. (DEROGADA, P.O. 7 DE FEBRERO DE 2009)
 
 X. Substanciar los procedimientos de responsabilidad administrativa y laboral de los servidores públicos adscritos a la Procuraduría Social y turnarlos al Procurador Social para su resolución definitiva;
 
@@ -477,17 +533,25 @@ XI. Elaborar el programa anual de capacitación del personal adscrito a su cargo
 
 XII. Adoptar las medidas necesarias para el cumplimiento del programa a que se refiere la fracción anterior;
 
-XIII. Solicitar al Procurador Social que promueva la coordinación con las dependencias de la administración pública estatal y municipales, así como con las organizaciones de la sociedad en general, en todo lo que considere conveniente para el mejor desenvolvimiento de las funciones propias de la dirección; y
+XIII. Solicitar al Procurador Social que promueva la coordinación con las dependencias de la administración pública estatal y municipales, así como con las organizaciones de la sociedad en general, en todo lo que considere conveniente para el mejor desenvolvimiento de las funciones propias de la dirección; y (sic)
 
-XIV. Las demás que la presente ley y el reglamento interior le confieran.
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2009)</small>
+
+XIV. Realizar las visitas de inspección a organismos de asistencia social, en la forma y los términos que determinen las leyes; y
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2009)</small>
+
+XV. Las demás que la presente ley y el reglamento interior confieran.
 
 ###### Artículo 33.
 
 Los directores de área auxiliarán y, en su caso, suplirán al director en el ejercicio de sus funciones, en la forma, casos y términos que fijen la presente ley, el reglamento interior y los acuerdos dictados por el Procurador Social y tendrán las atribuciones que tales ordenamientos les confieran.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 34.
 
-Corresponde a los agentes visitadores:
+Corresponde a los agentes sociales adscritos a la Dirección General de Visitaduría:
 
 I. Ejecutar las órdenes de visita que le fueren dadas por sus superiores jerárquicos, en los términos de la presente ley;
 
@@ -501,13 +565,17 @@ IV. Las demás funciones que les confieran las leyes.
 
 Las visitas que sean competencia de la dirección de visitaduría se sujetarán a los procedimientos y fines especiales, cumpliendo los requisitos de los artículos 14 y 16 de la Constitución Política de los estados (sic) Unidos Mexicanos, que para cada caso establezcan las leyes y a las reglas generales que al efecto se establecen en el presente capítulo.
 
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 36.
 
-Los agentes visitadores no podrán practicar visita, sin orden escrita dictada previamente por el Procurador Social.
+Los agentes sociales adscritos a la Dirección General de Visitaduría, no podrán practicar visita, sin orden escrita dictada previamente por el Procurador Social.
+
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 37.
 
-En la práctica de las visitas, los titulares y el personal de la dependencia u oficina visitada, deberán otorgar a los agentes visitadores todas las facilidades necesarias para el debido desarrollo de las mismas.
+En la práctica de las visitas, los titulares y el personal de la dependencia u oficina visitada, deberán otorgar a los agentes sociales que la practiquen, todas las facilidades necesarias para el debido cumplimiento de las mismas.
 
 ###### Artículo 38.
 
@@ -718,3 +786,9 @@ P.O. 3 DE JULIO DE 2007.
 P.O. 2 DE OCTUBRE DE 2008.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 7 DE FEBRERO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Hasta en tanto se cuente con suficiencia presupuestal las funciones encomendadas a la Subprocuraduría de Servicios Jurídicos Asistenciales se podrán realizar por conducto de auxiliares sociales comisionados o adscritos a ésta.
