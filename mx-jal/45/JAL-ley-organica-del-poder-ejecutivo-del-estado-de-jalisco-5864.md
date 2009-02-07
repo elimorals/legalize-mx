@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-5864"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-02-28"
-last_updated: "2008-05-27"
+last_updated: "2009-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de febrero de 1989.
 
@@ -1251,9 +1251,11 @@ Los resultados del desempeño de la contraloría en el ejercicio de sus atribuci
 
 La contraloría proporcionará a la Contaduría Mayor de Hacienda los informes que ésta requiera sobre el resultado de los trabajos de vigilancia, auditoría y evaluación que la primera practique en las Secretarías y Dependencias del Ejecutivo, y la Segunda, recomendará los procedimientos inherentes a la función de la Contraloría que sean empleables para hacer más congruentes y eficaces las actividades de ambas Dependencias.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 2009)</small>
+
 ###### Art. 40.
 
-La Procuraduría General de Justicia es responsable de la institución social del Ministerio Público, representante del interés de la sociedad y garante del estado de derecho, y funge como consejero jurídico del Ejecutivo. Corresponden a la Procuraduría General de Justicia, las funciones que la Constitución Política del Estado le otorga y demás leyes le confieran, así como el ejercicio de las siguientes atribuciones:
+La Procuraduría General de Justicia es responsable de la institución social del Ministerio Público, representante del interés de la sociedad en los procedimientos del orden penal y garante del estado de derecho, funge además como Consejero Jurídico del Ejecutivo. Corresponden a la Procuraduría General de Justicia, las funciones que la Constitución Política del Estado le otorga y demás leyes le confieran, así como el ejercicio de las siguientes atribuciones:
 
 I. La dirección y control del Ministerio Público;
 
@@ -1274,6 +1276,12 @@ VII. La promoción de la justicia;
 VIII. La organización y control de la Policía Judicial del Estado; y
 
 IX. Las demás que le fijen las Leyes y Reglamentos vigentes.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2009)</small>
+
+###### Art. 40 Bis.
+
+La Procuraduría Social es responsable de la defensa de los intereses sociales y familiares en el Estado, la defensoría de oficio en las materias penal y familiar; tiene a su cargo la representación de la sociedad en los procedimientos de orden e interés público, tiene a su cargo la tutela de los derechos de menores, ausentes, incapaces e ignorados en los procedimientos jurisdiccionales en que éstos sean parte, asimismo, garantiza la legalidad en los asuntos del orden civil y familiar; realiza visitas de inspección a notarías públicas, oficinas del Registro Civil y Registro Público de la Propiedad, y a diversos organismos de asistencia social, cárceles municipales y estatales en la forma y términos que determinen las leyes; correspondiéndole, además, las funciones que la Constitución Política del Estado le otorga y demás leyes le confieran, así como el ejercicio de las atribuciones consignadas en su respectiva Ley Orgánica.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
@@ -1988,3 +1996,9 @@ CUARTO. El Consejo Estatal deberá integrarse dentro de los siguientes 60 días 
 QUINTO. El Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres victimas de violencia que lo requieran.
 
 SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán acabo (sic) de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de Justicia Alternativa del estado de Jalisco.
+
+P.O. 7 DE FEBRERO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico Oficial El Estado de Jalisco.
+
+SEGUNDO. Hasta en tanto se cuente con suficiencia presupuestal las funciones encomendadas a la Subprocuraduría de Servicios Jurídicos Asistenciales se podrán realizar por conducto de auxiliarles (sic) sociales comisionados o adscritos a ésta.
