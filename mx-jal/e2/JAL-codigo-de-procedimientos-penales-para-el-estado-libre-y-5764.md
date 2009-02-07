@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "2008-07-05"
+last_updated: "2009-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -2407,9 +2407,9 @@ V. Cuando el inculpado haya sido puesto en libertad por falta de elementos para 
 
 VI. Cuando el inculpado haya obtenido su libertad por desvanecimiento de datos esté declarada agotada la averiguación y no existan elementos para dictar nueva orden de aprehensión;
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2009)</small>
 
-VII. Cuando esté plenamente comprobado que, en favor del inculpado, existe alguna causa eximente de responsabilidad;
+VII. Cuando esté plenamente comprobado que, en favor del inculpado, existe alguna causa eximente de responsabilidad, excepto cuando la eximente que se compruebe a favor del inculpado sea prevista en el inciso a) de la fracción I del artículo 13 del Código Penal, caso en el cual el Juez declinará competencia poniendo inmediatamente al inculpado a disposición del Juez Especializado en materia de Justicia Integral para Adolescentes correspondiente para que sea éste quien siga conociendo de la causa en base a la legislación aplicable;
 
 > <small>(REFORMADA, P.O. 30 DE ENERO DE 2007)</small>
 
@@ -3878,3 +3878,9 @@ Noveno. El Poder Legislativo, en conjunto con la Auditoria Superior del Estado d
 Para tal efecto, una vez designado el Auditor Superior, deberá presentar a la Junta de Coordinación Política, así como a la Comisión de Hacienda y Presupuestos del Congreso del Estado, el anteproyecto de presupuesto de la Auditoría Superior del Estado.
 
 Décimo. Dentro del término de sesenta días naturales, contados a partir de la entrada en vigor del presente decreto, el Auditor Superior del Estado deberá expedir el reglamento interno de la Auditoría Superior de Jalisco, conforme a esta ley y las disposiciones aplicables para el Congreso del Estado.
+
+P.O. 7 DE FEBRERO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Hasta en tanto se cuente con suficiencia presupuestal las funciones encomendadas a la Subprocuraduría de Servicios Jurídicos Asistenciales se podrán realizar por conducto de auxiliaries (sic) sociales comisionados o adscritos a ésta.
