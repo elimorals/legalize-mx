@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-organismo-publico-descentralizado-51661"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-04"
-last_updated: "2006-09-04"
+last_updated: "2009-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA AL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO PARQUES Y VIDA SILVESTRE DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial en el Estado de Nuevo León, el lunes 4 de septiembre de 2006.
 
@@ -59,17 +59,23 @@ III. Director General: El Director General del Organismo; y
 
 IV. Reglamento Interior: El Reglamento Interior del Organismo.
 
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 4.
 
-El Organismo, a través de la Junta de Gobierno, el Director General y servidores públicos facultados por el organismo, es la autoridad competente para aplicar las normas y atribuciones que en materia de áreas naturales protegidas, gestión forestal y de la vida silvestre, pesca deportiva y recreativa, inspección y vigilancia, recursos naturales y parques públicos, le encomiendan la Ley Orgánica de la Administración Pública para el Estado de Nuevo León, la Ley Ambiental del Estado de Nuevo León y su Reglamento, y las demás leyes y ordenamientos estatales y federales que resulten aplicables, así como los instrumentos jurídicos mediante los cuales, la Federación otorgue al Gobierno del Estado, la facultad de aplicar y regular las disposiciones y atribuciones que las propias leyes federales establecen en las materias de vida silvestre, desarrollo forestal sustentable y pesca.
+El Organismo, a través de la Junta de Gobierno, el Director General y servidores públicos facultados por el Organismo, es la autoridad competente para aplicar las normas y atribuciones que en materia de áreas naturales protegidas, y de la vida silvestre, pesca deportiva y recreativa, inspección y vigilancia, recursos naturales y parques públicos, le encomienden la Ley Orgánica de la Administración Pública para el Estado de Nuevo León, la Ley Ambiental del Estado de Nuevo León y su Reglamento, y las demás Leyes y ordenamientos estatales y federales que resulten aplicables, así como los instrumentos jurídicos mediante los cuales, la Federación otorgue al Gobierno del Estado, la facultad de aplicar y regular las disposiciones y atribuciones que las propias Leyes federales establecen en las materias de vida silvestre y pesca.
 
 ###### Artículo 5.
 
 El Organismo tendrá por objeto:
 
-I. Vigilar el cumplimiento de la normatividad aplicable mediante los planes, programas y proyectos en materia tanto de protección, fomento y conservación de los recursos naturales que se establecen de su competencia, como de inspección y vigilancia de los mismos, que al efecto sean concertados con la Federación y los municipios, con el objetivo de salvaguardar el patrimonio de la vida silvestre y los recursos pesqueros y forestales de la entidad;
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2009)</small>
 
-II. Promover la conservación ambiental, a través de la restauración y regeneración de las áreas verdes, bosques, parques estatales y zonas recreativas de su competencia;
+I. Vigilar el cumplimiento de la normatividad aplicable mediante los planes, programas y proyectos en materia tanto de protección, fomento y conservación de los recursos naturales que se establecen de su competencia, como de inspección y vigilancia de los mismos, que al efecto sean concertados con la Federación y los municipios, con el objetivo de salvaguardar el patrimonio de la vida silvestre y los recursos pesqueros de la entidad;
+
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2009)</small>
+
+II. Promover la conservación ambiental, a través de la restauración y regeneración de las áreas verdes, parques estatales y zonas recreativas de su competencia;
 
 III. Fortalecer la cultura ecológica en materia de vida silvestre mediante programas de educación ambiental, en coordinación con las entidades correspondientes;
 
@@ -77,7 +83,9 @@ IV. Impulsar el desarrollo y uso de tecnologías para aprovechar, bajo criterios
 
 V. Mantener, administrar y promover el Sistema Estatal de Áreas Naturales Protegidas de Nuevo León, en los términos de la legislación aplicable, coadyuvando con las autoridades correspondientes y vigilando el cumplimiento de los ordenamientos legales respectivos, en dichas áreas;
 
-VI. Transparentar la información ambiental con bases de datos que permitan un análisis objetivo de los problemas de la gestión de vida silvestre, y de los recursos forestales y pesqueros; y
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2009)</small>
+
+VI. Transparentar la información ambiental con bases de datos que permitan un análisis objetivo de los problemas de la gestión de vida silvestre, y de los recursos pesqueros; y
 
 VII. Instrumentar políticas de preservación, conservación y aprovechamiento sustentable de la flora y la fauna silvestres, a través de la vinculación con los niveles de gobierno Federal, Estatal y Municipal y con los diversos sectores de la sociedad.
 
@@ -105,13 +113,19 @@ III. Promover y supervisar el aprovechamiento sustentable de los recursos natura
 
 IV. Vigilar el cumplimiento de las Normas Oficiales Mexicanas expedidas por la Federación, en las materias de su competencia en los términos de las disposiciones jurídicas aplicables;
 
-V. Emitir órdenes de inspección, así como aplicar las medidas de seguridad y sanciones administrativas que procedan, por infracciones a la Ley Ambiental del Estado de Nuevo León y su Reglamento, en las materias relativas a gestión de la vida silvestre, recursos forestales y pesqueros, áreas naturales protegidas, en el ámbito de su competencia, así como a la Ley General de Vida Silvestre en las materias descentralizadas al Estado, en los términos de los convenios respectivos;
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2009)</small>
 
-VI. Realizar las acciones que le competan a fin de generar esquemas que permitan el aprovechamiento racional y sustentable de la vida silvestre y los recursos forestales y pesqueros de competencia estatal, coordinando en su caso, la participación de las demás dependencias de la administración pública estatal en la materia, según sus respectivas competencias;
+V. Emitir órdenes de inspección, así como aplicar las medidas de seguridad y sanciones administrativas que procedan, por infracciones a la Ley Ambiental del Estado de Nuevo León y su Reglamento, en las materias relativas a gestión de la vida silvestre, recursos pesqueros, áreas naturales protegidas, en el ámbito de su competencia, así como a la Ley General de Vida Silvestre en las materias descentralizadas al Estado, en los términos de los convenios respectivos;
+
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2009)</small>
+
+VI. Realizar las acciones que le competan a fin de generar esquemas que permitan el aprovechamiento racional y sustentable de la vida silvestre y los recursos pesqueros de competencia estatal, coordinando en su caso, la participación de las demás dependencias de la administración pública estatal en la materia, según sus respectivas competencias;
 
 VII. Participar, en el ámbito de su competencia, en las acciones que realicen otras autoridades federales, estatales y municipales, y que tengan relación directa con las materias que se encuentren dentro del objeto del Organismo;
 
-VIII. Aplicar, en el ámbito estatal, y dentro de la esfera de su competencia, las disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, La Ley General de Desarrollo Forestal Sustentable, la Ley de Pesca y de la Ley General de Vida Silvestre; así como las atribuciones que la Federación le transfiera al Estado, en el marco de las disposiciones que las mismas establecen;
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2009)</small>
+
+VII (SIC). Aplicar, en el ámbito estatal, y dentro de la esfera de su competencia, las disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Pesca y de la Ley General de Vida Silvestre; así como las atribuciones que la Federación le transfiera al Estado, en el marco de las disposiciones que las mismas establecen;
 
 IX. Administrar el Sistema Estatal de Áreas Naturales Protegidas, llevando a cabo su manejo integral y vigilancia, promoviendo la participación de las instituciones científicas y académicas y de los sectores social y privado en su restauración, conservación y aprovechamiento sustentable;
 
@@ -119,11 +133,11 @@ X. Administrar, desarrollar y supervisar en el ámbito de su competencia, la ope
 
 XI. Atender los asuntos que en materia de conservación y aprovechamiento sustentable de los recursos naturales renovables, le concedan las leyes u otros ordenamientos y que no estén otorgados expresamente a la Federación, o a otras entidades o dependencias estatales o municipales;
 
-XII. Impulsar, en coordinación con otras entidades de la administración pública, campañas y programas educativos permanentes de reforestación;
+XII. (DEROGADA, P.O. 7 DE FEBRERO DE 2009)
 
-XIII. Promover, coordinar y operar acciones de reforestación en el ámbito estatal, así como producir y distribuir, mediante medios propios o a través de terceras personas, especies de árboles y arbustos, para los mismos fines de reforestación que realicen otras entidades y niveles de gobierno;
+XIII. (DEROGADA, P.O. 7 DE FEBRERO DE 2009)
 
-XIV. Emitir lineamientos técnicos, respecto de las especies más adecuadas para la realización de acciones de reforestación en el ámbito estatal, considerando criterios de adaptabilidad, viabilidad, consumos hídricos y demás correlativos y aplicables;
+XIV. (DEROGADA, P.O. 7 DE FEBRERO DE 2009)
 
 XV. Operar los trámites y servicios en materia de gestión y administración de la vida silvestre y pesca, que por esta Ley, o de conformidad con lo que establezcan los instrumentos jurídicos y acuerdos de descentralización correspondientes, sean de su competencia, buscando la mejora continua en la prestación de los mismos; y
 
@@ -147,9 +161,11 @@ Además, contará con un Director General y con la estructura administrativa y o
 
 El Organismo contará con un Consejo de Participación Ciudadana incluyente, plural y de carácter honorífico, representativo de la sociedad civil, que sesionará semestralmente, como mínimo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 11.
 
-El Consejo será un órgano asesor, consultor, propositivo y promotor de las acciones que se emprendan en beneficio del aprovechamiento sustentable de la vida silvestre, recursos forestales y pesqueros, parques, áreas verdes y áreas naturales protegidas de competencia estatal, en el marco de esta Ley.
+El Consejo será un órgano asesor, consultor, propositivo y promotor de las acciones que se emprendan en beneficio del aprovechamiento sustentable de la vida silvestre, recursos pesqueros, parques, áreas verdes y áreas naturales protegidas de competencia estatal, en el marco de esta Ley.
 
 El Consejo estará integrado por:
 
@@ -227,7 +243,7 @@ Las Comisiones permanentes serán las siguientes:
 
 I.- De Parques Estatales y Patrimonio Ecológico;
 
-II.- De Bosques y Reforestación;
+II.- (DEROGADA, P.O. 7 DE FEBRERO DE 2009)
 
 III.- De Aprovechamiento y Desarrollo Sustentable de la Vida Silvestre;
 
@@ -249,15 +265,21 @@ I. Un Presidente que será el Gobernador del Estado;
 
 II. Un Secretario, que será el Director General del Organismo, que participará como miembro de la Junta con voz pero sin voto;
 
-III. Cuatro vocales que serán integrados por los titulares de cada una de las siguientes dependencias y entidades públicas o las que en su caso las sustituyan:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 2009)</small>
+
+III. Cinco vocales que serán integrados por los titulares de cada una de las siguientes dependencias y entidades públicas o las que en su caso las sustituyan:
 
 a) La Agencia de Protección al Medio Ambiente y Recursos Naturales;
 
 b) La Corporación para el Desarrollo Agropecuario de Nuevo León;
 
-c) La Corporación para el Desarrollo Turístico de Nuevo León; y
+c) La Corporación para el Desarrollo Turístico de Nuevo León; y (sic)
 
-d) El Instituto de Cultura Física y Deporte de Nuevo León.
+d) El Instituto de Cultura Física y Deporte de Nuevo León;
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2009)</small>
+
+e) El Director General Estatal Forestal.
 
 IV. El Consejero Presidente del Consejo de Participación Ciudadana, con derecho a voz pero sin voto.
 
@@ -439,7 +461,9 @@ IX. Los demás bienes y derechos que adquiera por cualquier título jurídico, a
 
 El Organismo, dentro del marco legal, podrá utilizar los mecanismos jurídicos y financieros que considere necesarios para el adecuado desarrollo de sus funciones. Asimismo, podrá constituir o participar en los fideicomisos, asociaciones y sociedades que se requieran para cumplir con las finalidades del organismo, de conformidad con lo dispuesto por la Ley de la Administración Financiera para el Estado de Nuevo León.
 
-También podrá establecer mecanismos financieros y fondos económicos de apoyo a las iniciativas de la sociedad que tengan como beneficio final el aprovechamiento sustentable de la vida silvestre y los recursos forestales y pesqueros, la conservación de la biodiversidad, y la protección de las áreas naturales protegidas y demás zonas sujetas a protección ambiental.
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2009)</small>
+
+También podrá establecer mecanismos financieros y fondos económicos de apoyo a las iniciativas de la sociedad que tengan como beneficio final el aprovechamiento sustentable de la vida silvestre y los recursos pesqueros, la conservación de la biodiversidad, y la protección de las áreas naturales protegidas y demás zonas sujetas a protección ambiental.
 
 ### CAPÍTULO IV. DE LAS REGLAS DE GESTIÓN Y DE LAS RELACIONES LABORALES
 
@@ -490,3 +514,17 @@ RUBÉN EDUARDO MARTÍNEZ DONDÉ
 EL C. SECRETARIO DE DESARROLLO ECONÓMICO
 
 GUSTAVO ALARCÓN MARTÍNEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE FEBRERO DE 2009.
+
+Primero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.-. El Ejecutivo del Estado deberá expedir el Reglamento de la Ley de Desarrollo Forestal Sustentable de Estado de Nuevo León, en un plazo no mayor a 180 días naturales a la entrada en vigor de este Decreto.
+
+Tercero.- La Corporación y el Consejo Estatal Forestal deberán constituirse a los 60 días naturales de la publicación de la Ley de Desarrollo Forestal Sustentable del Estado de Nuevo León.
+
+Cuarto.- El Titular del Poder Ejecutivo del Estado, deberá realizar las reasignaciones de partidas autorizadas en la Ley de Egresos a fin de dar cumplimiento a lo establecido en la Ley de Desarrollo Forestal Sustentable del Estado de Nuevo León.
+
+Quinto.- Se deroga toda norma que contravenga el presente Decreto.
