@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2008-09-08"
+last_updated: "2009-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2009.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -4449,13 +4449,23 @@ XXIII. Ejercicio Indebido del Servicio Público, previsto en las Fracciones XXXI
 
 XXIV. Uso indebido de llamadas telefónicas para movilizar los sistemas de respuesta de emergencia, previsto en el Artículo 91 G si la conducta del infractor provoca un accidente o daños a consecuencia de su llamada falsa;
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXV. El robo calificado, previsto en la Fracción III del Artículo 45, en relación con el Artículo 44, cualquiera que sea el valor de la afectación patrimonial; y
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2009)</small>
 
-> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2008)</small>
+XXV. El robo calificado, previsto en la Fracción III del Artículo 45, en relación con el Artículo 44, cualquiera que sea el valor de la afectación patrimonial;
 
-XXVI. Trata de personas, previsto en el Artículo 43 B.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2009)</small>
+
+XXVI. Trata de personas, previsto en el Artículo 43 B; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2009)</small>
+
+XXVII. El robo calificado previsto en la Fracción VII del Artículo 45, en relación con el Artículo 44.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -5534,3 +5544,9 @@ P.O. 8 DE SEPTIEMBRE DE 2008.
 DECRETO NUMERO 134, POR EL QUE SE REFORMAN LAS FRACCIONES XXIV Y XXV Y SE ADICIONA LA FRACCION XXVI AL ARTICULO 481; Y UN ARTICULO 43 B A LA LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES.
 
 ARTICÍULO ÚNICO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE FEBRERO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia a los noventa días naturales contados a partir de su publicación en el Periódico Oficial del Estado de Aguascalientes.
