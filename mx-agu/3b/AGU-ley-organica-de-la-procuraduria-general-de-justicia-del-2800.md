@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-procuraduria-general-de-justicia-del-2800"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-12-29"
-last_updated: "2008-06-16"
+last_updated: "2009-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2800&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 
 > <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE OCTUBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO
+LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2009.
 
 Ley publicada en el Suplemento al No. 52 del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1991.
 
@@ -245,7 +245,7 @@ I. Subprocuraduría de Averiguaciones Previas;
 
 II. Subprocuraduría de Control de Procesos;
 
-III. Subprocuraduria Jurídica y de Control lnterno;
+III. Subprocuraduria Jurídica y de Control Interno;
 
 IV. Dirección General de Averiguaciones Previas;
 
@@ -279,9 +279,11 @@ Serán Agentes del Ministerio Público para todos los efectos legales que corres
 
 El Subprocurador Jurídico y la Comisión de Honor y Justicia de la Policía Ministerial, en los términos de la Ley de Seguridad Pública, independientemente de las facultades que les otorguen otras leyes, aplicarán la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, de conformidad con lo preceptuado en el Artículo 4° de ese ordenamiento.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-En todo momento dentro de las agencias existentes, se deberá contar por lo menos con una Agencia Especializada en la Investigación y Persecución del Delito de Secuestro, una Agencia Especializada en Delitos Sexuales y Violencia Intrafamiliar, una Agencia Especializada en el Combate al Robo de Vehículos, así como un Agente del Ministerio Público para Delitos Electorales, quién se desempeñará con plena autonomía técnica en los períodos que al efecto establezca el Código Electoral del Estado y las leyes respectivas.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2009)</small>
+
+En todo momento dentro de las agencias existentes, se deberá contar por lo menos con una Agencia Especializada en la Investigación y Persecución del Delito de Secuestro, una Agencia Especializada en Delitos Sexuales y Violencia Intrafamiliar, una Agencia Especializada en el Combate al Robo de Vehículos, una Agencia Especializada en Hechos de Tránsito Terrestre por la Conducción de Vehículos, así como un Agente del Ministerio Público para Delitos Electorales, quién se desempeñará con plena autonomía técnica en los periodos que al efecto establezca el Código Electoral del Estado y las Leyes respectivas; el Procurador bajo su más estricta responsabilidad y siempre tomando en cuenta la carga de trabajo, determinará el número de Agentes que desempeñen tales funciones.
 
 El Procurador bajo su más estricta responsabilidad y siempre tomando en cuenta la carga de trabajo, determinará el número de Agentes que desempeñen tales funciones.
 
@@ -301,7 +303,7 @@ I.- La Dirección General de Policía Ministerial; y
 
 II.- La Dirección General de Servicios Periciales de la Procuraduría General de Justicia del Estado;
 
-> <small>(ADICIONADA [N. DE E. ANTES ULTIMO PARRAFO], P.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADA [N. DE E. ANTES ULTIMO PÁRRAFO], P.O. 24 DE DICIEMBRE DE 2007)</small>
 
 III.- Asimismo, los funcionarios o elementos de la policía, sea identificada ésta como preventiva, de vialidad, bancaria o privada, realizarán sus tareas de apoyo a la investigación de hechos punibles, bajo la supervisión directa del Ministerio Público, y deberán ejecutar sus órdenes, sin perjuicio de la autoridad administrativa a la cual estén sometidos;
 
@@ -313,7 +315,7 @@ IV.- Las unidades administrativas de mediación dependientes de la propia Procur
 
 V.- Los Síndicos Municipales en el ámbito de su competencia, conforme a la Ley Municipal para el Estado de Aguascalientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 12.
 
@@ -411,7 +413,7 @@ El Procurador ejercerá autoridad jerárquica sobre todo el personal de la insti
 
 Los auxiliares del Ministerio Público deberán dar aviso inmediato a éste en todos los casos, sobre los asuntos en que intervengan con ese carácter.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 21.
 
@@ -523,7 +525,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Enrique Pasillas Escobedo.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 20 DE DICIEMBRE DE 1992.
 
@@ -626,3 +628,9 @@ P.O. 16 DE JUNIO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 9 DE FEBRERO DE 2009.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigencia a los treinta días naturales posteriores a su publicación en el Periódico Oficial del Estado de Aguascalientes, a efecto de que se lleven a cabo las gestiones conducentes para que inicie sus funciones la Agencia Especializada en Hechos de Tránsito Terrestre.
