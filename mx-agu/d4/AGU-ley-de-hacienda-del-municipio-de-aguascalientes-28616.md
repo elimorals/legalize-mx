@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-aguascalientes-28616"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-29"
-last_updated: "2008-06-03"
+last_updated: "2009-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGS. PARA EL EJERCICIO FISCAL DE 1986
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2009.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1985.
 
@@ -495,9 +495,11 @@ ARTICULO 31 BIS.- (DEROGADO, P.O. 2 DE NOVIEMBRE DE 1997)
 
 Para que una autorización o licencia expedida por la Presidencia Municipal y que apareje el nacimiento de una obligación fiscal, surta efectos, deberá ir acompañada del comprobante de pago respectivo.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 33.
 
-El incumplimiento de las obligaciones señaladas por esta Ley, trae aparejada la imposición de una sanción económica hasta de tres tantos del monto total de crédito hacendario de que se trate.
+El incumplimiento de las obligaciones señaladas por esta Ley, trae aparejada la imposición de una sanción económica, de un 25% a un 100% del monto total de crédito hacendario de que se trate.
 
 ###### ARTICULO 34.
 
@@ -1802,6 +1804,12 @@ P.O. 2 DE NOVIEMBRE DE 1997.
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 3 DE JUNIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE FEBRERO DE 2009.
 
 ###### ARTÍCULO ÚNICO.
 
