@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-juridico-de-los-trabajadores-al-servicio-de-los-2746"
 country: "mx"
 rank: "estatuto"
 publication_date: "1992-06-07"
-last_updated: "2007-11-19"
+last_updated: "2009-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 ESTATUTO JURIDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS Y ORGANISMOS DESCENTRALIZADOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2009.
 
 Estatuto publicado en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -561,9 +561,23 @@ D).- Cuando sufran enfermedades no profesionales y por el tiempo que sea necesar
 
 E).- Por razones de carácter personal del trabajador, que no podrán exceder de tres meses en un año;
 
-IX.- Hacer las deducciones en los salarios que soliciten los sindicatos correspondientes, y siempre que se ajusten a los términos de esta Ley; y
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2009)</small>
 
-X.- Integrar los expedientes de los trabajadores y remitir los informes que se les soliciten para el trámite de las prestaciones sociales, dentro de los términos que señalen los ordenamientos respectivos.
+IX.- Hacer las deducciones en los salarios que soliciten los sindicatos correspondientes, y siempre que se ajusten a los términos de esta Ley;
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2009)</small>
+
+X.- Integrar los expedientes de los trabajadores y remitir los informes que se les soliciten para el trámite de las prestaciones sociales, dentro de los términos que señalen los ordenamientos respectivos; y
+
+> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2009)</small>
+
+XI.- Conceder licencias hasta por tres días a sus trabajadores con goce de sueldo y sin afectar sus derechos y antigüedad, en los casos siguientes:
+
+A.- Por nacimiento de un hijo, sólo en el caso de los trabajadores varones;
+
+B.- Por adopción de un hijo recién nacido; y
+
+C.- Por enfermedad o accidente que ponga en grave peligro la vida de alguno de sus menores hijos, de su cónyuge, concubina o concubinario.
 
 > <small>(ADICIONADO, P.O. 24 DE JULIO DE 2000)</small>
 
@@ -1704,3 +1718,9 @@ P.O. 19 DE NOVIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE FEBRERO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
