@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-san-francisco-de-los-romo-2902
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-16"
-last_updated: "2008-07-28"
+last_updated: "2009-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2009.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1995.
 
@@ -375,9 +375,11 @@ V.- Las personas físicas o morales que ofrezcan espectáculos y diversiones pú
 
 Para que una autorización o licencia expedida por la Presidencia Municipal y que apareje el nacimiento de una obligación fiscal o surta efectos, deberá ir acompañada del comprobante de pago respectivo.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 32.
 
-El incumplimiento de las obligaciones señaladas por esta Ley, trae aparejada la imposición de una sanción económica hasta tres tantos del monto total del crédito hacendario de que se trate.
+El incumplimiento de las obligaciones señaladas por esta Ley, trae aparejada la imposición de una sanción económica, de un 25% a un 100% del monto total del crédito hacendario de que se trate.
 
 ###### ARTICULO 33.
 
@@ -1462,6 +1464,12 @@ P.O. 31 DE DICIEMBRE DE 2006.
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 28 DE JULIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE FEBRERO DE 2009.
 
 ###### ARTÍCULO ÚNICO.
 
