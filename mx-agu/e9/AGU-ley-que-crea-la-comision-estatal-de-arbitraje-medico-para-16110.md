@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-la-comision-estatal-de-arbitraje-medico-para-16110
 country: "mx"
 rank: "ley"
 publication_date: "1999-08-01"
-last_updated: "1999-08-01"
+last_updated: "2009-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16110&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY QUE CREA LA COMISION ESTATAL DE ARBITRAJE MEDICO PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de agosto de 1999.
 
@@ -75,9 +75,17 @@ I.- Un Consejo;
 
 II.- Un Comisionado;
 
-III.- Un Sub-Comisionado; y
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2009)</small>
 
-IV.- Las Unidades Administrativas que determine sus (sic) Reglamento Interno.
+III.- Un Sub - Comisionado;
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2009)</small>
+
+IV.- Un Sub - Comisionado Médico; y
+
+> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2009)</small>
+
+V.- Las Unidades Administrativas que determine su Reglamento Interno.
 
 ###### ARTICULO 7o.
 
@@ -95,9 +103,11 @@ e).- El Presidente en funciones de la Asociación, Barra o Colegio de Abogados d
 
 f).- Un representante del Centro de Ciencias Biomédicas de la Universidad Autónoma de Aguascalientes, quien durará en el cargo cuatro años.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 8o.
 
-El Comisionado y el Subcomisionado tendrán cargo con carácter retributivo, serán nombrados y removidos libremente por el Gobernador del Estado, y deberán reunir los siguientes requisitos:
+El Comisionado, el Sub - Comisionado Jurídico y el Sub - Comisionado Médico, tendrán cargo con carácter retributivo, serán nombrados y removidos libremente por el Gobernador del Estado, y deberán reunir los siguientes requisitos:
 
 I.- Ser ciudadanos mexicanos en pleno ejercicio de sus derechos políticos y civiles;
 
@@ -211,9 +221,11 @@ XVII.- Establecer las políticas conforme a las cuales la COESAMED emitirá los 
 
 XVIII.- Las demás que otras disposiciones legales le confieran.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 13.
 
-Son facultades y obligaciones del Subcomisionado:
+Son facultades y obligaciones del Sub - Comisionado Jurídico:
 
 I.- Asesorar al Comisionado en los asuntos de carácter jurídico que se sometan a su consideración;
 
@@ -222,6 +234,18 @@ II.- Proponer al Comisionado medidas tendientes al mejoramiento operativo de la 
 III.- Será encargado de recibir y dar trámite ante el Comisionado y el Consejo las promociones y quejas que presenten los interesados; y
 
 IV.- Las demás que le sean conferidas en el Reglamento Interno.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2009)</small>
+
+ARTICULO 13 BIS.- Son facultades y obligaciones del Sub - Comisionado Médico:
+
+I. Asesorar al Comisionado en los asuntos de carácter médico que se sometan a su consideración;
+
+II. Proponer al Comisionado medidas tendientes al mejoramiento operativo de la Comisión;
+
+III. Participar con voz informativa en el trámite de las quejas que se presenten ante el Consejo; y
+
+IV. Las demás que le sean conferidas en el Reglamento Interno.
 
 ### CAPITULO IV. De la Conciliación y el Arbitraje
 
@@ -408,3 +432,11 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE FEBRERO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
