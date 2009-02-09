@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-para-la-administracion-de-recursos-financieros-e-343
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-29"
-last_updated: "2003-05-29"
+last_updated: "2009-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34318&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "AGU"
 
 REGLAMENTO PARA LA ADMINISTRACIÓN DE RECURSOS FINANCIEROS E INVERSIONES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO PARA LA ADMINISTRACION DE RECURSOS FINANCIEROS E INVERSIONES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLlCOS DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 9 DE FEBRERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADO EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 29 de mayo de 2003.
 
@@ -353,3 +355,19 @@ Lic. Abelardo Reyes Sahagún.
 EL DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES,
 
 L.A. y E.C.F. Fernando Carrillo López.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE FEBRERO DE 2009
+
+###### ARTICULO PRIMERO
+
+Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO
+
+Este Reglamento fue aprobado por la H. Junta Directiva del instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, por acuerdo número 70.6.2008, dado en sesión ordinaria número 70, de fecha 28 de noviembre de 2008.
+
+###### ARTICULO TERCERO
+
+Se abroga el Reglamento para la Administración de Recursos Financieros e Inversiones del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado de Aguascalientes, en fecha 29 de mayo de 2003.
