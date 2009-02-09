@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-16228
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2008-08-08"
+last_updated: "2009-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,25 @@ state: "MEX"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MEXICO
 
+> <small>N. DE E. SE RECOMIENDA AL LECTOR TENER PRESENTE LOS TRANSITORIOS TERCERO Y SEXTO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO, PUBLICADO Y REFORMADO EN LA G.G. DE 9 DE FEBRERO DE 2009 Y DE 30 DE JULIO DE 2009, RESPECTIVAMENTE, QUE SEÑALAN:</small>
+
+" ARTÍCULO TERCERO.- Al entrar en vigor el nuevo sistema de justicia penal, quedará abrogado el Código de Procedimientos Penales para el Estado de México publicado en el Periódico Oficial "Gaceta del Gobierno", el veinte de marzo del año dos mil.
+
+###### ARTÍCULO SEXTO.
+
+El nuevo Sistema de Justicia Penal entrará en vigor el día uno de octubre del año dos mil nueve en los Distritos Judiciales de Toluca, Lerma, Tenancingo y Tenango del Valle.
+
+El día uno de abril del año dos mil diez entrará en vigor en los Distritos Judiciales de Chalco, Otumba y Texcoco.
+
+El día uno de octubre del año dos mil diez entrará en vigor en los Distritos Judiciales de Nezahualcóyotl, El Oro, Ixtlahuaca, Sultepec y Temascaltepec.
+
+El uno de abril del año dos mil once entrará en vigor en los Distritos Judiciales de Tlalnepantla, Cuautitlán y Zumpango.
+
+El uno de octubre del año dos mil once entrará en vigor en los Distritos Judiciales de Ecatepec de Morelos, Jilotepec y Valle de Bravo."
+
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -3298,3 +3314,45 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" d
 ###### ARTÍCULO SEGUNDO.
 
 Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 9 DE FEBRERO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Código en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+Este Código entrará en vigor el día uno de agosto del año 2009.
+
+###### ARTÍCULO TERCERO.
+
+Al entrar en vigor el nuevo sistema de justicia penal, quedará abrogado el Código de Procedimientos Penales para el Estado de México publicado en el Periódico Oficial "Gaceta del Gobierno", el veinte de marzo del año dos mil.
+
+###### ARTÍCULO CUARTO.
+
+Todos los procesos y recursos que ante los órganos jurisdiccionales se encuentren radicados al iniciar su vigencia el nuevo sistema de justicia penal, se sujetarán hasta su conclusión definitiva, a las disposiciones del Código de Procedimientos Penales que se abroga.
+
+###### ARTÍCULO QUINTO.
+
+Al entrar en vigor el nuevo sistema de justicia penal, quedan derogadas todas las disposiciones que se opongan a lo preceptuado en este código.
+
+###### ARTÍCULO SEXTO.
+
+El nuevo sistema de justicia penal entrará en vigor el uno de agosto del año 2009 en los distritos judiciales de Toluca, Lerma, Tenancingo y Tenango del Valle.
+
+El uno de febrero del año 2010 entrará en vigor en los distritos judiciales de Chalco, Otumba y Texcoco.
+
+El uno de agosto del año 2010 entrará en vigor en los distritos judiciales de Nezahualcóyotl, El Oro, Ixtlahuaca, Sultepec y Temascaltepec.
+
+El uno de febrero del año 2011 entrará en vigor en los distritos judiciales de Tlalnepantla, Cuautitlán y Zumpango.
+
+El uno de agosto del año 2011 entrará en vigor en los distritos judiciales de Ecatepec de Morelos, Jilotepec y Valle de Bravo.
+
+###### ARTÍCULO SÉPTIMO.
+
+Durante la vacatio legis deberán reformarse las leyes que regulen la competencia y estructura de los órganos judiciales, de la defensoría de oficio, del ministerio público, de la policía, así como la legislación penitenciaria.
+
+###### ARTÍCULO OCTAVO.
+
+La Legislatura Local proveerá lo conducente en la asignación de recursos presupuestales anuales a favor de las instancias que deben operar el nuevo sistema de justicia penal, a fin de que cuenten con los recursos humanos, materiales y financieros necesarios para dar cumplimiento a este Decreto.
