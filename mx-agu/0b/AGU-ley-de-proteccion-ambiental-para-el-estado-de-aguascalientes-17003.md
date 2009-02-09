@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2008-08-18"
+last_updated: "2009-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCION AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2009.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -103,7 +103,9 @@ XII. FUENTE FIJA: Es toda instalación en un solo lugar, que tenga como finalida
 
 XIII. FUENTE MOVIL: Son los equipos y maquinaria no fijos, con motores de combustión interna o similares que con motivo de su operación generen o puedan generar emisiones contaminantes a la atmósfera;
 
-XIV. INCINERACION: Combustión controlada de cualquier sustancia o material, cuyas emisiones se descargan a través de una chimenea;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2009)</small>
+
+XIV. INCINERACION: Todo tratamiento térmico con o sin la recuperación de calor producido por la combustión, incluyendo pirólisis, gasificación, plasma y cualquier otro proceso que genere dioxinas y furanos como subproductos;
 
 XV. IMPACTO AMBIENTAL: La modificación del ambiente ocasionada por la acción del hombre o de la naturaleza;
 
@@ -247,9 +249,17 @@ XXV. Ejercer todas aquellas acciones tendientes a la preservación y restauraci�
 
 XXVI. Instalar y coordinar el Consejo Consultivo Estatal de Gestión Ambiental;
 
-XXVII. Vigilar y Promover el cumplimiento de esta Ley y los demás ordenamientos aplicables; y
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2009)</small>
 
-XXVIII. Las demás atribuciones que conforme a ésta u otras Leyes o disposiciones reglamentarias le correspondan.
+XXVII. Vigilar el manejo adecuado de los residuos sólidos municipales, verificando en todo momento el cumplimiento de la prohibición de incineración de éstos;
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2009)</small>
+
+XXVIII. Vigilar y promover el cumplimiento de esta Ley y los demás ordenamientos aplicables; y
+
+> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2009)</small>
+
+XXIX. Las demás atribuciones que conforme a esta u otras leyes o disposiciones reglamentarias le correspondan.
 
 > <small>(ADICIONADO, P.O. 23 DE JULIO DE 2007)</small>
 
@@ -1207,7 +1217,7 @@ V.- La protección de la flora y fauna silvestre urbana.
 
 ###### ARTICULO 99.
 
-No se permitirá descargar contaminantes a la atmósfera, el agua y los suelos, que rebasen los límites máximos permitidos.
+Queda prohibida la descarga de contaminantes a la atmósfera, el agua y los suelos, que rebasen los limites máximos permitidos.
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
 
@@ -1236,6 +1246,8 @@ III. El otorgamiento de todo tipo de autorizaciones, licencias, registros o perm
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
 
 ### CAPITULO I. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 103.
 
@@ -2254,3 +2266,7 @@ P.O. 18 DE AGOSTO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE FEBRERO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
