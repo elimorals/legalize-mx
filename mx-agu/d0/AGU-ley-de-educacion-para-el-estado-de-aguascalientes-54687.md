@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-para-el-estado-de-aguascalientes-54687"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-12"
-last_updated: "2008-06-16"
+last_updated: "2009-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACION PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2009.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de marzo de 2007.
 
@@ -147,13 +147,23 @@ III. Fomentar la conciencia de la nacionalidad, soberanía y tradiciones cultura
 
 IV. Coadyuvar en el conocimiento y la práctica de la democracia;
 
-V. Instruir en la observancia de la Ley, la justicia y los derechos humanos;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2009)</small>
+
+V. Instruir en la observancia de la Ley, la justicia y los derechos humanos; así como promover el desarrollo de una cultura por la paz y la no violencia en cualquier tipo de sus manifestaciones;
 
 VI. Fomentar la protección del medio ambiente, el equilibrio ecológico, la ciencia y la tecnología;
 
-VII. Apreciación e impulso a la creación artística; y
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2009)</small>
 
-VIII. El fomento a la práctica de la educación física y del deporte.
+VII. Apreciación e impulso a la creación artística;
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2009)</small>
+
+VIII. El fomento a la práctica de la educación física y del deporte; y
+
+> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2009)</small>
+
+IX. Fomentar la cultura de la transparencia y la rendición de cuentas, así como el conocimiento en los educandos de su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo.
 
 ###### Artículo 9°.
 
@@ -257,13 +267,17 @@ XV. Lograr la distribución oportuna, completa y eficiente de los libros de text
 
 XVI. Coordinar para que todos los organismos públicos del sector educativo cumplan con el programa estatal de educación;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2009)</small>
 
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2008)</small>
+XVII. Velar por la preservación de la salud de los educandos, fomentando entre los padres de familia la adopción de hábitos de alimentación saludables con base a los programas de nutrición formulados por el Instituto de Salud del Estado de Aguascalientes; asimismo otorgará a dicho Instituto las facilidades requeridas para que verifique que los alimentos y bebidas distribuidos en las tiendas ubicadas en las escuelas de educación básica, sean de los incluidos en los programas de nutrición;
 
-XVII. Velar por la preservación de la salud de los educandos, fomentando entre los padres de familia la adopción de hábitos de alimentación saludables con base a los programas de nutrición formulados por el Instituto de Salud del Estado de Aguascalientes; asimismo otorgará a dicho instituto las facilidades requeridas para que verifique que los alimentos y bebidas distribuidos en las tiendas ubicadas en las escuelas de educación básica sean de los incluidos en los programas de nutrición; y
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2009)</small>
 
-XVIII. Las demás que con tal carácter establezcan la Ley General de Educación, el presente ordenamiento y otras disposiciones aplicables.
+XVIII. Promover la creación de programas educativos de prevención, desarrollando estilos de vida sanos, de conciencia de las repercusiones perjudiciales de las drogas, el alcohol y el tabaco, reforzando la actitud contra su uso en toda la población; y
+
+> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2009)</small>
+
+XIX. Las demás que con tal carácter establezcan la Ley General de Educación, el presente ordenamiento y otras disposiciones aplicables.
 
 ###### Artículo 18.
 
@@ -309,9 +323,17 @@ X. Coordinar en el ámbito de su competencia, el sistema de formación, actualiz
 
 XI. Organizar servicios permanentes de educación para adultos de acuerdo con lo establecido en el Artículo 44 de la Ley General de Educación en coordinación con el órgano a quien en lo específico corresponda dicha atribución;
 
-XII. Inspeccionar y vigilar los servicios educativos respecto de las autorizaciones y reconocimientos de validez oficial de estudios que otorgue de acuerdo con lo establecido por el Artículo 58 de la Ley General de Educación; y
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2009)</small>
 
-XIII. Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
+XII. Inspeccionar y vigilar los servicios educativos respecto de las autorizaciones y reconocimientos de validez oficial de estudios que otorgue de acuerdo con lo establecido por el Artículo 58 de la Ley General de Educación;
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2009)</small>
+
+XIII. Promover y desarrollar los programas necesarios, así como coordinarse en su cumplimiento con las autoridades competentes, con la finalidad de llevar a cabo la creación de programas educativos de prevención y de asesoramiento, desarrollando estilos de vida sanos, de conciencia de las repercusiones perjudiciales de las drogas, el alcohol y el tabaco, reforzando la actitud contra su uso en toda la población; y
+
+> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2009)</small>
+
+XIV. Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 20.
 
@@ -1774,3 +1796,19 @@ El presente Decreto entrará en vigencia a los treinta días naturales siguiente
 ###### ARTÍCULO SEGUNDO.
 
 El Instituto de Educación del Estado de Aguascalientes, en un plazo no mayor a 15 días, posteriores a la entrada en vigencia del presente Decreto; deberá adecuar el Reglamento de la Tienda Escolar, para que se ajuste a los términos del propio Decreto.
+
+P.O. 9 DE FEBRERO DE 2009.
+
+DECRETO NUMERO 192, POR EL QUE SE REFORMA Y ADICIONA EL ARTICULO 8 DE LA LEY DE EDUCACION PARA EL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE FEBRERO DE 2009.
+
+DECRETO NUMERO 193, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 17 Y 19 DE LA LEY DE EDUCACION PARA EL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
