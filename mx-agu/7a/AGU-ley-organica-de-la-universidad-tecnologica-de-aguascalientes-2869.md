@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-universidad-tecnologica-de-aguascalientes-28
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-06-06"
-last_updated: "2005-06-06"
+last_updated: "2009-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DE LA UNIVERSIDAD TECNOLOGICA DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1993.
 
@@ -41,11 +41,13 @@ LEY ORGANICA DE LA UNIVERSIDAD TECNOLOGICA DE AGUASCALIENTES
 
 ### CAPITULO PRIMERO. Naturaleza, Objeto y Facultades
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 1o.
 
-En su régimen administrativo y laboral se sujetará a la presente Ley y a las disposiciones legales aplicables.
+La Universidad Tecnológica de Aguascalientes es un organismo público descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propios. En su régimen administrativo y laboral se sujetará a la presente Ley y a las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2005)</small>
 
 En cuanto al modelo pedagógico se integrará al Sistema Nacional de Universidades Tecnológicas, de acuerdo a los criterios que señalen la Secretaría de Educación Pública y el Instituto de Educación de Aguascalientes, conforme a lo prescrito en el artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y la Ley de Educación del Estado de Aguascalientes.
 
@@ -364,3 +366,9 @@ P.O. 6 DE JUNIO DE 2005.
 PRIMERO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Las adecuaciones al Estatuto de la Ley Orgánica de la Universidad Tecnológica de Aguascalientes, se expedirán en un término que no excederá de 90 días a partir de la vigencia del presente Decreto.
+
+P.O. 9 DE FEBRERO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
