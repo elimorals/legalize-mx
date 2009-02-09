@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-la-comision-estatal-de-arbitraje-medico-para-16110
 country: "mx"
 rank: "ley"
 publication_date: "1999-08-01"
-last_updated: "1999-08-01"
+last_updated: "2009-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16110&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,25 +21,41 @@ state: "AGU"
 ---
 # LEY QUE CREA LA COMISION ESTATAL DE ARBITRAJE MEDICO PARA EL ESTADO DE AGUASCALIENTES
 
-LEY QUE CREA LA COMISION ESTATAL DE ARBITRAJE MEDICO PARA EL ESTADO DE AGUASCALIENTES
+LEY NÚMERO 586 DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS DEL ESTADO DE VERACRUZ
 
 TEXTO ORIGINAL.
 
-Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de agosto de 1999.
+Ley publicada en la Gaceta Oficial del Estado de Veracruz, el lunes 3 de diciembre de 2012.
 
-FELIPE GONZALEZ GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes, sabed:
+PODER EJECUTIVO
 
-Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
+Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz de Ignacio de la Llave.
 
-El H. Congreso del Estado en sesión ordinaria celebra hoy, tuvo a bien expedir el siguiente Decreto:
+Xalapa-Enríquez, noviembre 29 de 2012
 
-"NUMERO 41
+Oficio número 430/2012
 
-La H. LVII Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le conceden los Artículos 27, fracción I, 32 y 35 de la Constitución Política Local, en nombre del pueblo, decreta:
+Javier Duarte de Ochoa, Gobernador del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, a sus habitantes sabed:
 
-LEY QUE CREA LA COMISION ESTATAL DE ARBITRAJE MEDICO PARA EL ESTADO DE AGUASCALIENTES.
+Que la Sexagésima Segunda Legislatura del Honorable Congreso del Estado se ha servido dirigirme la siguiente Ley para su promulgación y publicación:
 
-### CAPITULO I. Disposiciones Generales
+Al margen un sello que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz de Ignacio de la Llave.
+
+La Sexagésima Segunda Legislatura del Honorable Congreso del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, en uso de la facultad que le confieren los artículos 33 fracción I y 38 de la Constitución Política Local; 18 fracción I y 47 segundo párrafo de la Ley Orgánica del Poder Legislativo; 75 y 76 del Reglamento para el Gobierno Interior del Poder Legislativo; y en nombre del pueblo, expide la siguiente:
+
+LEY NÚMERO 586
+
+DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS
+
+### CAPÍTULO I. Disposiciones Generales
+
+###### Artículo 1.
+
+La presente ley es de observancia general, de orden público y de aplicación en todo el territorio del Estado, en materia de atención y protección de los periodistas que se encuentren en la Entidad, conforme con lo previsto en el artículo 67, fracción V, de la Constitución Política Local.
+
+###### Artículo 2.
+
+La Comisión Estatal para la Atención y Protección de los Periodistas es un organismo autónomo del Estado, con personalidad jurídica y patrimonio propios, autonomía técnica, presupuestal y de gestión, responsable de atender y proteger la integridad de los periodistas, así como de promover las condiciones para el libre ejercicio de la profesión del periodismo, con pleno respeto al derecho a la información y a la libertad de expresión.
 
 ###### ARTICULO 1o.
 
@@ -65,7 +81,29 @@ La COESAMED tendrá por objeto contribuir a resolver los conflictos suscitados e
 
 Se consideran prestadores de servicios médicos las instituciones de salud de carácter público, privado o social, así como los profesionales, técnicos y auxiliares, que ejerzan libremente cualquier actividad relacionada con la práctica médica. Los usuarios de los servicios médicos son las personas que solicitan, requieren y obtienen dicho servicio de los prestadores de servicios médicos para proteger, promover y restaurar su salud física o mental.
 
-### CAPITULO II. De la Integración de la COESAMED
+### CAPÍTULO II. De las Atribuciones
+
+###### Artículo 3.
+
+Son atribuciones de la Comisión:
+
+I. Otorgar, a petición de los periodistas que lo soliciten, las medidas de atención o protección necesarias para prevenir la consumación de una amenaza o para enfrentar riesgos inminentes o agresiones contra su esfera jurídica, que sean consecuencia del ejercicio de su profesión; solicitar a las autoridades competentes su cumplimiento; y denunciar a los servidores públicos responsables de incumplir, en los términos que disponga la ley;
+
+II. Establecer los elementos objetivos necesarios para la debida evaluación del otorgamiento de las medidas de atención y protección, y la adopción de los criterios, lineamientos o protocolos aplicables a la salvaguarda de la esfera jurídica de los periodistas;
+
+III. Programar, coordinar y dar seguimiento al otorgamiento de las medidas de atención y protección a los periodistas, en coadyuvancia con las instituciones especializadas, autoridades administrativas e instancias jurisdiccionales competentes;
+
+IV. Establecer acciones de coordinación y colaboración con las organizaciones de la sociedad civil que se hayan destacado por su labor en materia de atención y protección a los periodistas, en el contexto de la defensa de la libertad de expresión;
+
+V. Celebrar los acuerdos, contratos y convenios necesarios para la realización de sus fines y objeto;
+
+VI. Adquirir los bienes necesarios para el ejercicio de sus funciones y administrar los recursos destinados para el mismo fin;
+
+VII. Organizar sus áreas o unidades interiores y fijar la estructura y funcionamiento de las mismas;
+
+VIII. Expedir las reglas técnicas que señala el artículo 7, fracción I, de este ordenamiento, así como el Reglamento Interior y manuales que detallen la organización y funcionamiento de la Comisión; y
+
+IX. Las que le confieran la Constitución Política del Estado, esta ley y demás disposiciones aplicables.
 
 ###### ARTICULO 6o.
 
@@ -107,7 +145,71 @@ III.- Tener Título Profesional de Médico y Licenciado en Derecho respectivamen
 
 IV.- Haberse distinguido por su probidad, competencia y antecedentes profesionales en el ejercicio de las actividades que se vinculan a las atribuciones de la COESAMED, así como ser personas distinguidas de la sociedad, y haber demostrado en algún puesto de alta representatividad su capacidad administrativa.
 
-### CAPITULO III. De las Atribuciones de la COESAMED
+### CAPÍTULO III. De la Organización
+
+###### Artículo 4.
+
+La Comisión Estatal para la Atención y Protección de los Periodistas se integra por el Pleno de la Comisión, una Secretaría Ejecutiva, una contraloría interna, direcciones, jefaturas de departamento y el personal técnico administrativo necesario para el ejercicio de sus atribuciones, de conformidad con las disposiciones presupuestales aplicables.
+
+El Reglamento Interior establecerá la organización y funcionamiento de las diversas áreas, unidades y órganos administrativos de la Comisión, los requisitos para la designación de sus respectivos titulares, su nombramiento, delegación de facultades y régimen de suplencia.
+
+###### Artículo 5.
+
+Integrarán el Pleno de la Comisión:
+
+I. Cuatro periodistas de prestigiada trayectoria profesional, representativos de medios de información, comunicación o difusión colectiva de carácter escrito, radiofónico, televisivo o electrónico;
+
+II. Dos propietarios, concesionarios o directivos de medios de información, comunicación o difusión colectiva de carácter escrito, radiofónico, televisivo o electrónico, de reconocida contribución y participación en la función social de manifestación y publicación de las ideas;
+
+III. Dos representantes de organizaciones no gubernamentales, relacionadas con el derecho a la información, la libertad de expresión y el ejercicio libre y responsable del periodismo;
+
+IV. Un académico representante de la comunidad universitaria, dedicado a tareas de enseñanza o de investigación científica, en cualquiera de sus expresiones;
+
+V. Los titulares de las dependencias responsables de la comunicación social y de la procuración de justicia en la administración pública estatal; y
+
+VI. Un Secretario Ejecutivo, quien deberá poseer, al día del nombramiento, grado de licenciatura, expedido por autoridad o institución legalmente facultada para ello, con una antigüedad mínima de cinco años, y contar, de preferencia, con estudios de postgrado.
+
+###### Artículo 6.
+
+Sólo los integrantes de la Comisión, mencionados de la fracción I a la IV del artículo anterior, tendrán el carácter de Comisionados. El Secretario Ejecutivo, al igual que los titulares de las dependencias responsables de la comunicación social y de la procuración de justicia en la administración pública local, participará en las sesiones de la Comisión con voz pero sin voto.
+
+###### Artículo 7.
+
+Son atribuciones del Pleno de la Comisión:
+
+I. Aprobar las reglas técnicas para la substanciación de procedimientos, evaluación de medidas de atención y protección y la demás normatividad interior necesaria para su organización y funcionamiento;
+
+II. Instruir al Secretario Ejecutivo de la Comisión sobre la debida ejecución de las medidas implementadas por ésta, con la finalidad de que los objetivos de la Comisión se cumplan a cabalidad;
+
+III. Recibir los informes de las medidas implementadas por el Secretario Ejecutivo en el desarrollo de sus funciones, así como generar observaciones sobre los mismos;
+
+IV. Aprobar y evaluar el programa operativo anual y administrativo de la Comisión;
+
+V. Aprobar los informes de avance de la gestión financiera y su respectiva cuenta pública, y entregarlos al Congreso del Estado en los términos que disponga la ley de la materia;
+
+VI. Autorizar la celebración de convenios y contratos, a efecto de promover el debido cumplimiento de esta ley;
+
+VII. Aprobar las acciones para gestionar y recibir fondos y donaciones de organismos nacionales e internacionales para el mejor cumplimiento de sus fines;
+
+VIII. Aprobar su proyecto de presupuesto anual, que será enviado al Titular del Ejecutivo Estatal para su integración al Presupuesto de Egresos del Estado; y
+
+IX. Las que le confieran esta ley, las leyes del Estado y demás disposiciones aplicables.
+
+###### Artículo 8.
+
+Para ser miembro de la Comisión, además de lo dispuesto en el artículo 5 de esta ley, deberán reunirse los requisitos siguientes:
+
+I. Ser veracruzano y haber residido en la Entidad durante los dos años anteriores al día de la designación, o ser mexicano por nacimiento, con vecindad mínima de cinco años en el Estado; en ambos casos, ser ciudadano en pleno ejercicio de sus derechos;
+
+II. Gozar de buena reputación; y
+
+III. No haber sido condenado por delito alguno.
+
+###### Artículo 9.
+
+Los Comisionados y el Secretario Ejecutivo serán nombrados por el Congreso del Estado, con el voto de las dos terceras partes de los diputados presentes, a propuesta del Gobernador del Estado, y durarán en su encargo cuatro años con posibilidad de reelección por una sola ocasión.
+
+Los Comisionados elegirán, de entre sus pares, a quien se desempeñará como Presidente de la Comisión. El Presidente durará en su cargo dos años, con posibilidad de una sola reelección.
 
 ###### ARTICULO 9o.
 
@@ -147,145 +249,187 @@ XII.- Conocer y dar seguimiento de sus resoluciones y laudos; y
 
 XIII.- Las demás que determinen otras disposiciones aplicables.
 
-###### ARTICULO 10.
+###### Artículo 10.
 
-Corresponde al Consejo:
+Son atribuciones del Presidente de la Comisión:
 
-I.- Establecer las políticas generales a que deba a sujetarse el organismo;
+I. Convocar y presidir las sesiones de la Comisión;
 
-II.- Aprobar y expedir el Reglamento Interno y las demás disposiciones que regulen a la COESAMED, así como aprobar y expedir los procedimientos de arbitraje;
+II. Ordenar la publicación del Reglamento Interior, reglas técnicas, manuales, criterios, lineamientos, protocolos y demás normatividad que apruebe el Pleno de la Comisión;
 
-III.- Analizar y, en su caso, aprobar el informe que el Comisionado presentará anualmente al titular del Poder Ejecutivo Estatal;
+III. Vigilar el cumplimiento de los acuerdos aprobados por el Pleno de la Comisión; y
 
-IV.- Evaluar periódicamente el funcionamiento de la COESAMED y formular las recomendaciones correspondientes al desempeño y resultados que obtenga;
+IV. Las que le confieran esta ley, las leyes del Estado y demás disposiciones aplicables.
 
-V.- Aprobar el anteproyecto del presupuesto anual y someterlo a consideración del titular del Poder Ejecutivo del Estado por conducto de la Secretaría de Finanzas;
+###### Artículo 11.
 
-VI.- Conocer de los asuntos que someta a su consideración el Comisionado; y
+Para el ejercicio de sus funciones, la Comisión contará con un Secretario Ejecutivo, quien tendrá a su cargo la dirección del funcionamiento de los diversos órganos, unidades o áreas, conforme a los acuerdos y órdenes que dicte el Pleno de la misma y de conformidad con la disponibilidad presupuestal aprobada. El Secretario Ejecutivo actuará también como secretario en las sesiones del Pleno de la Comisión.
 
-VII.- Las demás que le confieran otras disposiciones aplicables.
+###### Artículo 12.
 
-###### ARTICULO 11.
+El Secretario Ejecutivo tendrá las atribuciones siguientes:
 
-El Consejo sesionará de forma ordinaria por lo menos una vez cada tres meses y de manera extraordinaria, a convocatoria del Comisionado o a iniciativa de cuando menos tres de sus consejeros, de existir razones de importancia para ello, las que sean necesarias.
+I. Representar legalmente a la Comisión y delegar esta función en el servidor público que designe, mediante acuerdo escrito publicado en la Gaceta Oficial del estado;
 
-Los acuerdos se tomarán por mayoría de votos siempre y cuando exista quórum legal de 50 por ciento más uno, en caso de empate el Comisionado tendrá voto de calidad.
+II. Ejercer el presupuesto asignado por el Congreso;
 
-###### ARTICULO 12.
+III. Suscribir, previa autorización del Pleno de la Comisión, convenios y contratos en los términos de esta ley;
 
-Son facultades y obligaciones del Comisionado:
+IV. Proponer, para la aprobación del Pleno de la Comisión, los proyectos de Reglamento Interior, reglas técnicas, manuales, criterios, lineamientos, protocolos y demás normatividad necesaria para la debida organización y funcionamiento de las áreas, unidades u órganos de la Comisión;
 
-I.- Ser el representante legal de la COESAMED ante las diferentes instancias;
+V. Nombrar y remover a los titulares de los órganos, unidades o áreas de la Comisión;
 
-II.- Nombrar y remover al personal de la COESAMED;
+VI. Fungir como superior jerárquico de todo el personal que presta sus servicios en la Comisión, en los términos señalados en el Reglamento Interior;
 
-III.- Formular los lineamientos a que se sujetarán las actividades administrativas y conducir el funcionamiento del organismo, vigilando el cumplimiento de sus objetivos y programas;
+VII. Elaborar, actualizar y ejecutar, con la aprobación del Pleno de la Comisión:
 
-IV.- Establecer de conformidad con el Reglamento Interno las unidades de servicio técnicas, de apoyo y asesoría necesarias para el desarrollo de las funciones de la COESAMED;
+a) Las medidas para manejar con eficiencia y probidad los recursos presupuestarios;
 
-V.- Celebrar toda clase de actos jurídicos que permitan el cumplimiento del objeto de la COESAMED;
+b) Las acciones para gestionar y recibir fondos y donaciones de organismos nacionales e internacionales; y
 
-VI.- Ejecutar los acuerdo (sic) emitidos por el Consejo;
+c) Los programas para periodistas y servidores públicos acerca de la libertad de expresión.
 
-VII.- Informar anualmente al titular del Ejecutivo Estatal, sibre (sic) las actividades de la Comisión Estatal, procurando que este informe sea difundido ampliamente entre la sociedad;
+VIII. Elaborar y someter a la aprobación del Pleno de la Comisión el proyecto de presupuesto anual, los informes de avance de la gestión financiera y su respectiva cuenta pública;
 
-VIII.- Someter a la aprobación del Consejo el Reglamento Interno, así como del Reglamento del Procedimiento de Arbitraje, y demás disposiciones internas que regulen el funcionamiento de la Comisión Estatal;
+IX. Ejecutar, por conducto de las áreas de la Comisión, los acuerdos emitidos por el Pleno de la misma;
 
-IX.- Instruir sobre la solicitud de todo tipo de información a los usuarios y prestadores de servicios médicos, así como realizar las investigaciones pertinentes, a efecto de cumplir cabalmente con las atribuciones del organismo;
+X. Dictar las medidas de protección que se determinen en los casos particulares:
 
-X.- Instruir lo necesario a efecto de que se desahoguen los procedimientos de conciliación y arbitraje a que se refieren las fracciones IV y V del Artículo 9o. de esta Ley y de conformidad con el Reglamento que al efecto expida el Consejo;
+XI. Rendir al Pleno de la Comisión el informe anual de las actividades desarrolladas;
 
-XI.- Emitir los acuerdos, laudos y recomendaciones en asuntos de la competencia de la COESAMED;
+XII. Elaborar y publicar estudios e investigaciones para difundir y ampliar el conocimiento acerca de la libertad de expresión y el ejercicio del periodismo;
 
-XII.- Vigilar el cumplimiento de las resoluciones, así como de los convenios que se deriven de los procedimientos de conciliación y arbitraje respectivos;
+XIII. Emitir acuerdos y circulares que se requieran para el mejor desempeño de las funciones de la Comisión; y
 
-XIII.- Establecer los mecanismos de difusión que permitan a los usuarios y prestadores de servicios médicos y a la sociedad en su conjunto, conocer sus derechos y obligaciones en materia de salud, así como las funciones de la COESAMED;
+XIV. Las que le confieran esta ley, las leyes del Estado y demás disposiciones aplicables.
 
-XIV.- Convocar y presidir las sesiones ordinarias y extraordinarias;
+###### Artículo 13.
 
-XV.- Delegar las facultades que considere convenientes en los términos del Reglamento Interior;
+Los cargos de Comisionado y de Secretario Ejecutivo son incompatibles con cualquier otro empleo, cargo o comisión en el servicio público, a excepción de la docencia o la labor de investigación académica.
 
-XVI.- Elaborar el anteproyecto de presupuesto de ingresos y egresos de la COESAMED;
+### CAPÍTULO IV. De la Promoción del Ejercicio de la Libertad de Expresión
 
-XVII.- Establecer las políticas conforme a las cuales la COESAMED emitirá los dictámenes médicos de carácter institucional, en apoyo a las autoridades de la procuración e impartición de justicia; y
+###### Artículo 14.
 
-XVIII.- Las demás que otras disposiciones legales le confieran.
+La Comisión sesionará de manera ordinaria al menos seis veces al año, pudiendo convocar el Presidente de la Comisión a sesiones extraordinarias para atender asuntos urgentes. A las sesiones que celebre la Comisión, podrá invitarse a servidores públicos de dependencias o entidades, integrantes de la sociedad civil, o representantes de personas morales, nacionales o extranjeras, con el propósito de conocer, ilustrar o ampliar los elementos y criterios objetivos necesarios para la adecuada toma de decisiones y cumplimiento del objeto de la Comisión.
 
-###### ARTICULO 13.
+###### Artículo 15.
 
-Son facultades y obligaciones del Subcomisionado:
+Para sesionar válidamente, deberán estar presentes la mitad más uno de los integrantes del Pleno de la Comisión, incluido el Presidente. Las decisiones se tomarán por mayoría de votos. En caso de empate, el Presidente tendrá voto de calidad.
 
-I.- Asesorar al Comisionado en los asuntos de carácter jurídico que se sometan a su consideración;
+###### Artículo 16.
 
-II.- Proponer al Comisionado medidas tendientes al mejoramiento operativo de la Comisión;
+Las ausencias temporales menores a 60 días y las suplencias de los Comisionados o del Secretario Ejecutivo se sujetarán a lo dispuesto por el Reglamento Interior. En caso de ausencia mayor a 60 días, el Congreso nombrará a quien le sustituya para concluir el periodo que le corresponda.
 
-III.- Será encargado de recibir y dar trámite ante el Comisionado y el Consejo las promociones y quejas que presenten los interesados; y
+###### Artículo 17.
 
-IV.- Las demás que le sean conferidas en el Reglamento Interno.
+La remuneración económica que los servidores públicos de la Comisión deban percibir quedará fijada en el Presupuesto de Egresos que anualmente apruebe el Congreso del Estado.
 
-### CAPITULO IV. De la Conciliación y el Arbitraje
+###### Artículo 18.
 
-###### ARTICULO 14.
+Todo el personal que preste sus servicios en la Comisión Estatal para la Atención y Protección de los Periodistas tendrá el carácter de confianza y se sujetará a las condiciones generales de trabajo que expida el Pleno de la Comisión, de conformidad con lo dispuesto por la Ley que establece las bases normativas para expedir las condiciones generales de trabajo a las que se sujetarán los trabajadores de confianza de los poderes públicos, organismos autónomos y municipios del Estado de Veracruz de Ignacio de la Llave.
 
-Las disposiciones de la presente Ley se aplicarán al arbitraje y conciliación, derivados de la prestación de servicios médicos de índole pública, privada o social.
+###### Artículo 19.
 
-###### ARTICULO 15.
+La Comisión Estatal para la Atención y Protección de los Periodistas promoverá que las universidades e instituciones de educación superior incluyan en sus programas y actividades docentes, de investigación y de difusión cultural, temas relacionados con el objeto de esta ley.
 
-La formulación de quejas, así como los procedimientos que se sigan ante la COESAMED no afectará el ejercicio de otros derechos o medios de defensa de los que dispongan los usuarios o prestadores de servicios médicos conforme a la Ley, ni interrumpirá el término de prescripición (sic).
+###### Artículo 20.
 
-###### ARTICULO 16.
+La Comisión promoverá entre la sociedad veracruzana el ejercicio de la libertad de expresión así como del derecho al acceso a la información.
 
-Para los efectos de la presente Ley se entenderá por:
+###### Artículo 21.
 
-a).- Acuerdo de Arbitraje: Es el acuerdo por el que las partes deciden someter a arbitraje todas o ciertas controversias que hayan surgido o puedan surgir entre ellas respecto de la prestación de servicios médicos de las instituciones de salud de carácter público, privado o social, así como los profesionales, técnicos y auxiliares.
+El patrimonio de la Comisión Estatal para la Atención y Protección de los Periodistas será destinado al cumplimiento de sus atribuciones y se integrará por los conceptos siguientes:
 
-El acuerdo de arbitraje podrá adoptar la forma de una cláusula compromisoria incluida en un contrato o la forma de un acuerdo independiente.
+I. Los bienes muebles e inmuebles, derechos y obligaciones de los que sea titular;
 
-b).- Arbitraje en amigable composición: Es aquel en que la COESAMED propondrá a las partes las reglas para la substanciación del juicio y tendrá libertad para resolver en conciencia y a buena fe guardada, sin sujeción o reglas legales, pero observando las formalidades esenciales del procedimiento. La COESAMED tendrá la facultad de allegarse todos los elementos que juzgue necesarios para resolver las cuestiones que se le hayan planteado. No habrá términos ni incidentes.
+II. El presupuesto que anualmente le asigne el Congreso del Estado;
 
-###### ARTICULO 17.
+III. Los donativos económicos o en especie, otorgados por terceras personas nacionales o extranjeras, siempre que sean de reconocida solvencia moral y se dediquen a la promoción, difusión, divulgación, análisis e investigación de los derechos humanos;
 
-Salvo disposición en contrario, en los asuntos que se rijan por la presente ley, no se requerirá intervención judicial.
+IV. Las herencias, legados, subsidios o cualquier otra aportación en numerario o especie que se hagan en su favor;
 
-###### ARTICULO 18.
+V. Las percepciones derivadas de suscripciones, pago de cuotas de inscripción por la participación en cursos, seminarios, programas de estudio y análogos; y
 
-Cuando se requiera la intervención judicial, será competente para conocer el juez de primera instancia de los del Estado.
+VI. Los beneficios que obtenga de su patrimonio.
 
-###### ARTICULO 19.
+###### Artículo 22.
 
-Cuando se faltare al cumplimento voluntario de lo convenido en la conciliación, amigable composición o laudo arbitral, la parte afectada podrá acudir a los juzgados competentes para efectos de la ejecución forzosa de una u otra resolución.
+Los procedimientos que se sigan en la Comisión Estatal para la Atención y Protección de los Periodistas observarán las formalidades esenciales y se regirán por los principios de objetividad, profesionalismo, igualdad, inmediatez, concentración, rapidez y transparencia.
 
-###### ARTICULO 20.
+El Reglamento Interior establecerá los procedimientos que deberán seguirse para el cumplimiento de las atribuciones de la Comisión.
 
-El acuerdo de arbitraje deberá constar por escrito y firmado por las partes, debiendo consignarse a la Comisión.
+### CAPÍTULO VII. De las Responsabilidades
 
-###### ARTICULO 21.
+###### Artículo 23.
 
-Para los fines del cómputo de plazos, dichos plazos comenzarán a correr desde el día siguiente a aquel en que se reciba una notificación, nota, comunicación o propuesta.
+Los Comisionados, así como el Secretario Ejecutivo, serán responsables en los términos que se indican en el Título Quinto, Capítulo Primero, de la Constitución Política del Estado.
 
-###### ARTICULO 22.
+Los demás servidores públicos que presten sus servicios en la Comisión Estatal serán responsables de las funciones que tengan a su cargo, así como de las infracciones en que incurran conforme a las prescripciones establecidas en el Reglamento Interior.
 
-La COESAMED podrá con sujeción a lo dispuesto por la presente Ley, dirigir el arbitraje del modo que considere apropiado, observando las formalidades esenciales del procedimiento. Esta facultad conferida incluye la de determinar la admisibilidad, pertinencia y valor de las pruebas.
+###### Artículo 24.
 
-###### ARTICULO 23.
+Los Comisionados, el Secretario Ejecutivo y demás servidores públicos de la Comisión no podrán ser sujetos de responsabilidad por las determinaciones que dicten en el ejercicio de las facultades que les asigna esta ley, el Reglamento Interior y demás disposiciones aplicables.
 
-El lugar donde ha de llevarse a cabo el Arbitraje será en el lugar donde la COESAMED designe, atendiendo las circunstancias del caso.
+### CAPÍTULO VIII. De la Colaboración de Autoridades y Servidores Públicos
 
-###### ARTICULO 24.
+###### Artículo 25.
 
-Las actuaciones arbitrales de la COESAMED se iniciarán en la fecha en que el demandado haya recibido el requerimiento de someter esa controversia al arbitraje.
+Las autoridades y servidores públicos estatales y municipales involucrados en asuntos de la competencia de la Comisión Estatal para la Atención y Protección de los Periodistas, o que por razón de sus funciones puedan proporcionar información pertinente, deberán cumplir en sus términos con las peticiones que ésta les formule, así como facilitar el desempeño de la misma.
 
-###### ARTICULO 25.
+Serán responsables penal y administrativamente por los actos u omisiones en que incurran durante o con motivo de la tramitación de una petición o del otorgamiento de medidas de protección, conforme a las disposiciones aplicables.
 
-En las actuaciones de la COESAMED deberá tratarse a las partes con igualdad y darse a cada una de ellas plena oportunidad de hacer valer sus derechos.
+### CAPÍTULO IX. De la Contraloría
 
-###### ARTICULO 26.
+###### Artículo 26.
 
-Salvo acuerdo en contrario, la COESAMED podrá nombrar uno o más peritos para que le informen sobre materias concretas y/o especializadas.
+La Contraloría de la Comisión para la Atención y Protección de los Periodistas tendrá a su cargo las facultades de control y la inspección del cumplimiento de las normas de funcionamiento administrativo que rigen a las áreas, departamentos, funcionarios y empleados de la Comisión.
 
-###### ARTICULO 27.
+###### Artículo 27.
 
-Salvo acuerdo en contrario de las partes, la COESAMED decidirá si han de celebrarse audiencias para la presentación de pruebas o de alegatos orales, o si las actuaciones se substanciarán sobre la base de documentos y demás pruebas. Si las partes no hubiesen acordado la no celebración de audiencias, la COESAMED celebrará dichas audiencias en la fase apropiada de las actuaciones a petición de una de las partes.
+La Contraloría de la Comisión contará con las siguientes atribuciones:
+
+I. Vigilar el cumplimiento de la presente ley, así como de los reglamentos, decretos y acuerdos establecidos para su aplicación;
+
+II. Comprobar el cumplimiento, por parte de los servidores públicos adscritos a los órganos, unidades o áreas de la Comisión, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos;
+
+III. Inspeccionar y vigilar el cumplimiento de las normas y disposiciones relativas a los sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales de la Comisión; y
+
+IV. Las demás que le confieran esta ley y demás disposiciones aplicables.
+
+## ARTÍCULOS TRANSITORIOS
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Dentro de los treinta días siguientes a la entrada en vigor de esta Ley, se hará la propuesta al Congreso del Estado de los comisionados y del Secretario Ejecutivo.
+
+Tercero. Dentro de los sesenta días hábiles siguientes al del inicio de la vigencia de esta Ley, se expedirá el Reglamento Interior de la Comisión. En tanto, se aplicarán los acuerdos del Pleno de la Comisión y las circulares que emita el Secretario Ejecutivo.
+
+Dada en el salón de sesiones de la LXII Legislatura del Honorable Congreso del Estado, en la ciudad de Xalapa-Enríquez, Veracruz de Ignacio de la Llave, a los veintinueve días del mes de noviembre del año dos mil doce.
+
+Eduardo Andrade Sánchez
+
+Diputado Presidente
+
+Rúbrica.
+
+Juan Carlos Castro Pérez
+
+Diputado Secretario
+
+Rúbrica.
+
+Por lo tanto, en atención a lo dispuesto por el artículo 49 fracción II de la Constitución Política del Estado, y en cumplimiento del oficio SG/001838 de los diputados Presidente y Secretario de la Sexagésima Segunda Legislatura del Honorable Congreso del Estado, mando se publique y se le dé cumplimiento. Residencia del Poder Ejecutivo Estatal, a los veintinueve días del mes de noviembre del año dos mil doce.
+
+Atentamente
+
+Sufragio efectivo. No reelección
+
+Dr. Javier Duarte de Ochoa
+
+Gobernador del Estado
+
+Rúbrica.
 
 ###### ARTICULO 28.
 
@@ -337,7 +481,7 @@ La Comisión podrá prorrogar de ser necesario el plazo para efectuar una correc
 
 Las partes podrán convertir la inapelabilidad de los laudos emitidos por la Comisión.
 
-### CAPITULO V. Del Patrimonio y su Vigilancia
+### CAPÍTULO V. Del Patrimonio de la Comisión
 
 ###### ARTICULO 36.
 
@@ -347,7 +491,7 @@ El patrimonio de la COESAMED estará integrado por todos los bienes, derechos, a
 
 La vigilancia del patrimonio de la COESAMED estará a cargo de la Contraloría General del Estado.
 
-### CAPITULO VI. Del Régimen Laboral
+### CAPÍTULO VI. De los Procedimientos
 
 ###### ARTICULO 38.
 
