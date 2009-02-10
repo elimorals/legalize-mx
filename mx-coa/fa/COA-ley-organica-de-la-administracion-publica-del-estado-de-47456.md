@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-47456"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-12-07"
-last_updated: "2008-12-23"
+last_updated: "2009-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2009.
 
 Ley publicada en Número Extraordinario del Periódico Oficial del Estado de Coahuila, el miércoles 7 de diciembre de 2005.
 
@@ -157,9 +157,11 @@ I. Iniciar ante el Congreso del Estado las leyes, decretos y acuerdos que juzgue
 
 II. Nombrar y remover libremente a los Secretarios del Ramo y a los Directores Generales de Entidades, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución Política del Estado y en las demás leyes aplicables;
 
-III. Expedir los decretos, acuerdos y demás disposiciones del orden administrativo que estime necesarios, así como establecer nuevas dependencias y separar, unir o transformar las existentes, en atención al volumen de trabajo y trascendencia de los asuntos públicos, con la finalidad de asegurar la buena marcha de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-IV. Expedir los reglamentos interiores, decretos, acuerdos, circulares y otras disposiciones que tiendan a regular el funcionamiento de la Administración Pública Estatal y autorizar la expedición de los manuales administrativos que procedan.
+III. Expedir los decretos, acuerdos y demás disposiciones del orden administrativo que estime necesarios, así como establecer nuevas dependencias y entidades y separar, unir, sectorizar o transformar las existentes, en atención al volumen de trabajo y trascendencia de los asuntos públicos, con la finalidad de asegurar la buena marcha de la Administración Pública Estatal;
+
+IV. Expedir los reglamentos interiores, decretos, acuerdos, circulares y otras disposiciones que tiendan a regular el funcionamiento de la Administración Pública Estatal y autorizar la expedición de los manuales administrativos que procedan;
 
 V. En los reglamentos interiores que se expidan, se determinarán las unidades administrativas que integran cada una de las dependencias, señalando sus atribuciones;
 
@@ -291,9 +293,15 @@ XX. Tomar la protesta de los servidores públicos adscritos a su dependencia, co
 
 XXI. Observar los principios constitucionales que rigen la transparencia y el acceso a la información pública y sus leyes reglamentarias;
 
-XXII. Implementar convenios de colaboración con entidades federativas para favorecer el bienestar y desarrollo, previo acuerdo con el Ejecutivo del Estado; y
+XXII. Implementar convenios de colaboración con entidades federativas para favorecer el bienestar y desarrollo, previo acuerdo con el Ejecutivo del Estado; y (sic)
 
-XXIII. Las demás que le confieran expresamente este ordenamiento, otras disposiciones legales y aquellas que le encomiende el Gobernador del Estado.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+XXIII. Contar con poder cambiario en los términos de la legislación aplicable, y delegar esta facultad a los funcionarios con tareas de carácter administrativo de la dependencia a su cargo que considere necesario;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+XXIV. Las demás que le confieran expresamente este ordenamiento, otras disposiciones legales y aquellas que le encomiende el Gobernador del Estado.
 
 ###### ARTÍCULO 20.
 
@@ -1097,9 +1105,13 @@ La organización y atribuciones del Ministerio Público, de sus órganos auxilia
 
 ### CAPITULO I. GENERALIDADES
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 37.
 
-El presente título tiene por objeto establecer las bases para la creación, funcionamiento, control y evaluación de las entidades que conforman la Administración Pública Paraestatal a que hace referencia esta ley. Las relaciones del Ejecutivo del Estado o de sus dependencias, con las entidades paraestatales, en cuanto unidades auxiliares de la Administración Pública, se sujetarán, en primer término, a lo establecido en este ordenamiento y sus disposiciones reglamentarias y sólo en lo no previsto, se aplicarán supletoriamente las disposiciones del derecho común.
+El presente título tiene por objeto establecer las bases para la creación, funcionamiento, sectorización, control y evaluación de las entidades que conforman la Administración Pública Paraestatal a que hace referencia esta ley. Las relaciones del Ejecutivo del Estado o de sus dependencias, con las entidades paraestatales, en cuanto unidades auxiliares de la Administración Pública, se sujetarán, en primer término, a lo establecido en este ordenamiento y sus disposiciones reglamentarias y sólo en lo no previsto, se aplicarán supletoriamente las disposiciones del derecho común.
+
+La sectorización de los organismos públicos descentralizados de Administración Pública Paraestatal, se realizará mediante acuerdo específico que expida el Titular del Poder Ejecutivo.
 
 ###### ARTÍCULO 38.
 
@@ -1212,6 +1224,10 @@ IV. La obtención o aplicación de recursos para fines de asistencia o seguridad
 ###### ARTÍCULO 50.
 
 En la modificación o extinción de los organismos descentralizados, deberán observarse las mismas formalidades establecidas para su creación, debiendo la ley o decreto respectivo, fijar la forma y términos en que se realizará la misma.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2009)</small>
+
+ARTÍCULO 50 BIS. Los titulares de los organismos públicos descentralizados contarán con poder cambiario en los términos de la legislación aplicable y podrán delegarlo en los funcionarios con tareas de carácter administrativo del organismo a su cargo que considere necesario. Lo anterior, previa designación por parte del Consejo General u órgano superior del organismo, del funcionario correspondiente.
 
 #### SECCIÓN II. DE LOS ORGANISMOS PÚBLICOS DE PARTICIPACIÓN CIUDADANA
 
@@ -1544,3 +1560,11 @@ P.O. 23 DE DICIEMBRE DE 2008.
 PRIMERO. El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 10 DE FEBRERO DE 2009.
+
+PRIMERO. Este decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Hasta en tanto no se expidan los acuerdos de sectorización de los organismos públicos descentralizados que forman parte de la Administración Pública del Estado, continuarán bajo la sectorización que dispongan los instrumentos jurídicos que los hubiesen creado.
+
+TERCERO. Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
