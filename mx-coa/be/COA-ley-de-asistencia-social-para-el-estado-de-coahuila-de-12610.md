@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asistencia-social-para-el-estado-de-coahuila-de-12610"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-23"
-last_updated: "2008-10-24"
+last_updated: "2009-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 23 de enero de 1998.
 
@@ -833,11 +833,11 @@ V.- Otras actividades que coadyuven a la prestación de los servicios de asisten
 
 ### CAPITULO PRIMERO. DE LA ORGANIZACION Y FUNCIONAMIENTO DEL SISTEMA
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 55.
 
-Se establece el "Sistema para el Desarrollo Integral de la Familia del Estado de Coahuila de Zaragoza", como organismo público descentralizado de la administración pública estatal, sectorizado a la Secretaría de Desarrollo Social, con personalidad jurídica y patrimonio propio. Su objeto es la promoción de las actividades relacionadas con la asistencia social y el desarrollo integral de la familia; así como la coordinación del sistema estatal de asistencia social y la realización de las demás acciones y actividades que determine esta Ley y otras disposiciones aplicables.
+Se establece el "Sistema para el Desarrollo Integral de la Familia del Estado de Coahuila de Zaragoza", como organismo público descentralizado de la administración pública estatal, con personalidad jurídica y patrimonio propio. Su objeto es la promoción y desarrollo de las actividades relacionadas con la asistencia social y el desarrollo integral de la familia; así como la coordinación del sistema estatal de asistencia social y la realización de las demás acciones y actividades que determine esta Ley y otras disposiciones aplicables.
 
 ###### ARTICULO 56.
 
@@ -999,9 +999,9 @@ A las sesiones podrá asistir la Directora o Director General del Sistema con vo
 
 La Junta de Gobierno será el órgano superior del Sistema y estará integrada por:
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-I. La o el titular de la Secretaría de Desarrollo Social, quien habrá de presidirla; y
+I. La o el titular de la Secretaría de Salud, quien habrá de presidirla; y
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
@@ -1598,3 +1598,11 @@ TERCERO. El Instituto Coahuilense de las Mujeres, contará con un plazo de seis 
 CUARTO. El Instituto Coahuilense de las Mujeres creará el Reglamento para la Cooperación y Funcionamiento de las Redes de Apoyo a Mujeres Embarazadas de Coahuila.
 
 QUINTO. Publíquese el presente decreto en el Periódico Oficial del Estado.
+
+P.O. 10 DE FEBRERO DE 2009.
+
+PRIMERO. Este decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Hasta en tanto no se expidan los acuerdos de sectorización de los organismos públicos descentralizados que forman parte de la Administración Pública del Estado, continuarán bajo la sectorización que dispongan los instrumentos jurídicos que los hubiesen creado.
+
+TERCERO. Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
