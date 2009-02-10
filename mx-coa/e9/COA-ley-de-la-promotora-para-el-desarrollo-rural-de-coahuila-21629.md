@@ -4,7 +4,7 @@ identifier: "COA-ley-de-la-promotora-para-el-desarrollo-rural-de-coahuila-21629"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-05"
-last_updated: "2007-01-26"
+last_updated: "2009-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21629&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LA PROMOTORA PARA EL DESARROLLO RURAL DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 5 de junio de 2001.
 
@@ -41,9 +41,11 @@ LEY DE LA "PROMOTORA PARA EL DESARROLLO RURAL DE COAHUILA"
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 1°.
 
-Se crea la Promotora para el Desarrollo Rural de Coahuila (PRODERCO) como Organismo Público Descentralizado de la Administración Pública Estatal, sectorizado a la Secretaría de Fomento Agropecuario, con personalidad jurídica y patrimonio propio, que tendrá su domicilio en la ciudad de Saltillo, Coahuila, sin perjuicio de que establezca las representaciones que considere necesarias en las diversas regiones de la entidad.
+Se crea la Promotora para el Desarrollo Rural de Coahuila (PRODERCO) como organismo público descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propio, que tendrá su domicilio en la ciudad de Saltillo, Coahuila, sin perjuicio de que establezca las representaciones que considere necesarias en las diversas regiones de la entidad.
 
 Para los efectos de la presente ley se denominará a la Promotora para el Desarrollo Rural de Coahuila como la Promotora.
 
@@ -420,3 +422,11 @@ P.O. 26 DE ENERO DE 2007.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 10 DE FEBRERO DE 2009.
+
+PRIMERO. Este decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Hasta en tanto no se expidan los acuerdos de sectorización de los organismos públicos descentralizados que forman parte de la Administración Pública del Estado, continuarán bajo la sectorización que dispongan los instrumentos jurídicos que los hubiesen creado.
+
+TERCERO. Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
