@@ -4,7 +4,7 @@ identifier: "COA-ley-del-instituto-coahuilense-de-las-personas-adultas-23183"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-11"
-last_updated: "2001-12-11"
+last_updated: "2009-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL INSTITUTO COAHUILENSE DE LAS PERSONAS ADULTAS MAYORES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 2001.
 
@@ -39,9 +39,11 @@ LEY DEL INSTITUTO COAHUILENSE DE LAS PERSONAS ADULTAS MAYORES
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 1°.
 
-Se crea el Instituto Coahuilense de las Personas Adultas Mayores como organismo público descentralizado de la administración pública estatal, sectorizado a la Secretaría de Gobierno, con personalidad jurídica y patrimonio propio.
+Se crea el Instituto Coahuilense de las Personas Adultas Mayores como organismo público descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propio.
 
 Este organismo tendrá su domicilio en la ciudad de Saltillo, Coahuila, con representación, en su caso, en cada una de las regiones de la entidad y sin perjuicio de que establezca en otras ciudades las oficinas que se estimen necesarias para el cumplimiento de su objeto.
 
@@ -660,3 +662,13 @@ LIC. HORACIO DEL BOSQUE DAVILA
 EL SECRETARIO DE FINANZAS
 
 LIC. JAVIER GUERRERO GARCIA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE FEBRERO DE 2009.
+
+PRIMERO. Este decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Hasta en tanto no se expidan los acuerdos de sectorización de los organismos públicos descentralizados que forman parte de la Administración Pública del Estado, continuarán bajo la sectorización que dispongan los instrumentos jurídicos que los hubiesen creado.
+
+TERCERO. Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
