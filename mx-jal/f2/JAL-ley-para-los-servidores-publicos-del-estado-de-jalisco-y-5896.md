@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2008-12-06"
+last_updated: "2009-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -163,9 +163,11 @@ V. En el Tribunal de Arbitraje y Escalafón; todo el personal, excepto actuarios
 
 De crearse categorías o cargos no comprendidos en este artículo, se hará constar en el nombramiento si es de base, confianza, supernumerario o becario, debiéndose atender los criterios señalados con los incisos de la a) a la j) de la parte inicial de este precepto.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
+
 ###### Art. 5°.
 
-Son servidores públicos de base los no comprendidos en el artículo anterior.
+Son servidores públicos de base los no comprendidos en los artículos 5 y 6 de esta ley.
 
 > <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -183,11 +185,11 @@ Lo señalado en las fracciones II, II (sic), IV y V del artículo 16 quedará a 
 
 Los servidores públicos supernumerarios una vez contratados de manera definitiva podrán solicitar les sea computada la antigüedad desde su primer contrato para efectos del servicio civil de carrera.
 
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
 
 ###### Art. 7°.
 
-Los servidores públicos de base serán inamovibles; los de nuevo ingreso, no lo serán sino después de transcurridos seis meses ininterrumpidos de servicios, sin nota desfavorable en su expediente.
+Los servidores públicos de base serán inamovibles, una vez transcurridos seis meses sin nota desfavorable en su expediente.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
 
@@ -281,9 +283,9 @@ II. Interino, cuando se otorgue para ocupar plaza vacante por licencia del servi
 
 III. Provisional, cuando se expida de acuerdo con el escalafón para ocupar plaza vacante por licencia del servidor público titular que exceda de seis meses;
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-IV. Por Tiempo Determinado, cuando se expida para trabajo eventual o de temporada, con fecha precisa de terminación;
+IV. Por Tiempo Determinado, cuando se expida por un periodo determinado con fecha cierta de terminación;
 
 > <small>(REFORMADA, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -355,7 +357,7 @@ Todo Servidor Público antes de tomar posesión de su cargo, rendirá la protest
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1987)</small>
 
-La protesta de los servidores públicos se rendirá en los términos siguientes: El que tome la protesta interrogará como sigue: ¿protesta usted desempeñar leal y patrióticamente el cargo de (el que se confiera al interesado) que se le confirió, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las Leyes que de ella emanen, mirando en todo por el bien y prosperidad de la Nación y del Estado? El interesado responderá: "Si protesto", la autoridad que tome la protesta añadirá: "Si no lo hiciere así que la Nación y el Estado se lo demanden".
+La protesta de los servidores públicos se rendirá en los términos siguientes: El que tome la protesta interrogará como sigue: ¿protesta usted desempeñar leal y patrióticamente el cargo de (el que se confiera al interesado) que se le confirió, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las Leyes que de ella emanen, mirando en todo por el bien y prosperidad de la Nación y del Estado? el interesado responderá: "Si protesto", la autoridad que tome la protesta añadirá: "Si no lo hiciere así que la Nación y el Estado se lo demanden".
 
 ###### Art. 19.
 
@@ -387,11 +389,11 @@ IV. Las licencias o permisos que conceda el Titular de la entidad pública corre
 
 ### CAPITULO IV. De la terminación de la relación de trabajo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2009)</small>
 
 ###### Art. 22.
 
-Ningún servidor público de base podrá ser cesado, sino por causa justificada; en consecuencia, el nombramiento de estos servidores de base sólo dejará de surtir efectos, sin responsabilidad para la Entidad Pública en que preste sus servicios, en los siguientes casos:
+Ningún servidor público podrá ser cesado, sino por causa justificada conforme a los siguientes casos:
 
 I. Por renuncia o abandono del empleo;
 
@@ -457,11 +459,13 @@ Lo dispuesto en este artículo no será aplicable a los servidores públicos del
 
 Es facultad de los Titulares de las Entidades Públicas expedir todas las disposiciones reglamentarias que rijan el funcionamiento interno de las Oficinas de Servicio Público, oyendo al Sindicato correspondiente en su caso.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2009)</small>
 
 ###### Art. 25.
 
-Es facultad de los titulares de las dependencias o entidades públicas, imponer en sus respectivos casos a los servidores públicos las correcciones disciplinarias y sanciones a que se hagan acreedores por el mal comportamiento, irregularidades o incumplimiento injustificado en el desempeño de sus labores, pudiendo consistir en amonestación, suspensión hasta un mes en el empleo, cargo o comisión, destitución, destitución con inhabilitación en los términos de la Ley de Responsabilidades de los Servidores Públicos.
+Es facultad de los titulares de las dependencias o Entidades Públicas, imponer en sus respectivos casos a los servidores públicos las correcciones disciplinarias y sanciones a que se hagan acreedores por el mal comportamiento, irregularidades o incumplimiento injustificado en el desempeño de sus labores, pudiendo consistir en amonestación, suspensión hasta por ocho días en el empleo, cargo o comisión, destitución, destitución con inhabilitación en los términos de la Ley de Responsabilidades de los Servidores Públicos.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2001)</small>
 
 En los casos de suspensión o cese se seguirá el procedimiento a que se refiere el siguiente artículo.
 
@@ -1627,13 +1631,11 @@ La falta de notificación a alguna de las partes, obliga al Tribunal a señalar 
 
 Cuando el actor sea el trabajador o sus beneficiarios, el Tribunal en caso de que notare alguna irregularidad en el escrito de demanda o estuviera ejercitando acciones contradictorias, al admitir la demanda le señalará los defectos u omisiones en que haya incurrido y lo prevendrá para que los subsane dentro de un término de tres días.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
 
 ###### Art. 129.
 
-Si las partes no comparecen a la celebración de la audiencia señalada, al actor se le tendrá por ratificada su demanda y al demandado por contestada la demanda en sentido afirmativo y a ambos, en caso de no asistir, se les tendrá por perdido el derecho a presentar pruebas e inconformes con todo arreglo, dándose por concluidas todas y cada una de las etapas procesales y se pronunciará laudo en un término que no exceda de quince días.
-
-Cuando alguna de las partes llegare con retardo a la celebración de la audiencia se podrá incorporar de inmediato la etapa procesal que se estuviere desahogando, pudiendo ejercer los derechos procesales que no hubieren precluído en razón de su demora.
+Si las partes no comparecen a la celebración de la audiencia señalada se les tendrá por ratificada su demanda y contestación la demanda; en caso de no asistir en la etapa de ofrecimiento y admisión de pruebas, se les tendrá por perdido el derecho a presentar pruebas e inconformes con todo arreglo, dándose por concluidas todas y cada una de las etapas procesales y se pronunciará laudo en un término que no exceda de quince días.
 
 > <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
@@ -2384,3 +2386,7 @@ P.O. 7 DE JULIO DE 2007.
 P.O. 6 DE DICIEMBRE DE 2008.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado de Jalisco.
+
+P.O. 10 DE FEBRERO DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
