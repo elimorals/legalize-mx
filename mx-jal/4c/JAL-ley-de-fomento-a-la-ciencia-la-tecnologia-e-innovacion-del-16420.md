@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-a-la-ciencia-la-tecnologia-e-innovacion-del-1642
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-06"
-last_updated: "2007-01-23"
+last_updated: "2009-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16420&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DE FOMENTO A LA CIENCIA, LA TECNOLOGIA E INNOVACION DEL ESTADO DE JALISCO -ANTES LEY DE FOMENTO A LA CIENCIA Y LA TECNOLOGIA DEL ESTADO DE JALISCO-
 
-LA LEY DE FOMENTO A LA CIENCIA Y LA TECNOLOGIA DEL ESTADO DE JALISCO
+LEY DE FOMENTO A LA CIENCIA, LA TECNOLOGIA E INNOVACION DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 6 de mayo de 2000.
 
@@ -33,41 +33,73 @@ Alberto Cárdenas Jiménez, Gobernador Constitucional del Estado Libre y Soberan
 
 NÚMERO.- 18291 EL CONGRESO DEL ESTADO DECRETA:
 
-SE EXPIDE LA LEY DE FOMENTO A LA CIENCIA Y LA TECNOLOGIA DEL ESTADO DE JALISCO.
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE FEBRERO DE 2009)</small>
+
+LEY DE FOMENTO A LA CIENCIA, LA TECNOLOGIA E INNOVACION DEL ESTADO DE JALISCO.
 
 Artículo único.- Se expide la Ley de Fomento a la Ciencia y la Tecnología del Estado de Jalisco, para quedar como sigue:
 
 ### Capítulo I. Disposiciones generales
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 1.
 
-Se declara de orden público e interés general, impulsar, fomentar y coordinar las diversas acciones públicas y privadas orientadas al desarrollo científico y tecnológico del Estado.
+Se declara de orden público e interés general, impulsar, fomentar y coordinar las diversas acciones públicas y privadas orientadas al desarrollo científico, tecnológico y de innovación del Estado de Jalisco.
 
 ###### Artículo 2.
 
 La presente ley tiene como propósito:
 
-I. Definir los criterios en los que se basará el Gobierno del Estado para impulsar y fortalecer las actividades científicas y tecnológicas en el Estado de Jalisco;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+I. Definir los criterios en los que se basará el Gobierno del Estado para impulsar y fortalecer las actividades científicas, tecnológicas y de innovación en el Estado de Jalisco;
 
 II. Crear y regular el funcionamiento del Consejo Estatal de Ciencia y Tecnología;
 
-III. Determinar los instrumentos y apoyos mediante los cuales el Gobierno Estatal cumplirá con su obligación de alentar las actividades científicas y tecnológicas;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-IV. Establecer el Programa Estatal de Ciencia y Tecnología;
+III. Determinar los instrumentos y apoyos mediante los cuales el Gobierno Estatal cumplirá con su obligación de alentar las actividades científicas, tecnológicas y de innovación;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+IV. Establecer el Programa Sectorial de Ciencia y Tecnología para el desarrollo;
 
 V. Crear y regular el Fondo Estatal de Ciencia y Tecnología;
 
-VI. Generar mecanismos de vinculación de los sectores productivos con la actividad científica y tecnológica;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-VII. Estimular y reconocer la actividad científica y tecnológica mediante el otorgamiento del Premio Estatal de Ciencia y Tecnología.
+VI. General (sic) mecanismos de vinculación de los sectores productivos con la actividad científica, tecnológica y de innovación, y
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+VII. Estimular y reconocer la actividad científica y tecnológica mediante el otorgamiento del Premio Estatal de Ciencia, Tecnología e Innovación.
 
 ###### Artículo 3.
 
 Se crea el Consejo Estatal de Ciencia y Tecnología de Jalisco (COECYTJAL), como un Organismo Público Descentralizado del Poder Ejecutivo del Gobierno del Estado, con personalidad jurídica y patrimonio propios, y con domicilio en la Ciudad de Guadalajara, Jalisco.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 4.
 
-Para los efectos de esta ley se entenderá por COECYTJAL, el Consejo Estatal de Ciencia y Tecnología, y por actividades científicas y tecnológicas aquéllas de carácter sistemático y permanente orientadas a la generación, mejoramiento, difusión y aplicación del conocimiento en todos los campos de la ciencia y la tecnología.
+Para los efectos de esta ley, se entenderá por:
+
+I. Ley: Ley de Fomento a la Ciencia, la Tecnología e Innovación del Estado de Jalisco;
+
+II. COECYTJAL: Consejo Estatal de Ciencia y Tecnología de Jalisco;
+
+III. Actividades Científicas, Tecnológicas y de Innovación: Aquellas de carácter sistemático y permanente orientadas a la generación, mejoramiento, difusión y aplicación del conocimiento en todos los campos de la ciencia y la tecnología;
+
+IV. Programa Sectorial: Programa Sectorial de Ciencia y Tecnología para el Desarrollo;
+
+V. Consejo Directivo: consejo Directivo del Consejo Estatal de Ciencia y Tecnología de Jalisco;
+
+VI. Comisión Consultiva: Comisión Consultiva del Consejo Estatal de Ciencia y Tecnología de Jalisco;
+
+VII. Gobierno del Estado: Gobierno del Estado de Jalisco, y
+
+VIII. Fondo Estatal: Fondo Estatal de Ciencia y Tecnología de Jalisco.
 
 ### Capítulo II. De las Funciones del COECYTJAL
 
@@ -75,21 +107,33 @@ Para los efectos de esta ley se entenderá por COECYTJAL, el Consejo Estatal de 
 
 El COECYTJAL tiene como fin impulsar, fomentar, coordinar y coadyuvar en el desarrollo de las acciones públicas y privadas relacionadas con el avance de la ciencia y la tecnología en el Estado; el cual para el cumplimiento del mismo, tendrá las siguientes funciones:
 
-I. Impulsar y fomentar el desarrollo científico y tecnológico en el Estado, tomando en cuenta los objetivos previstos en el Programa de Cultura, Ciencia y Tecnología de carácter Nacional y en el Programa Estatal que al efecto se elabore;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-II. Procurar que en el Estado se incremente la canalización de recursos públicos y privados, tanto nacionales como del extranjero, para el fomento de la Ciencia y la Tecnología;
+I. Impulsar y fomentar el desarrollo científico y tecnológico en el Estado, tomando en cuenta los objetivos previstos en el Programa Nacional de Ciencia y Tecnología y en el Programa Sectorial;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+II. Procurar que en el Estado se incremente la canalización de recursos públicos y privados, tanto nacionales como del extranjero, para el fomento de la Ciencia, la Tecnología y la Innovación;
 
 III. Propugnar para que la actividad de los investigadores, científicos y de todas aquellas personas que se dediquen a su fomento y difusión, sea cada vez mejor remunerada y reconocida; promoviendo inclusive la operación de un esquema que les permita recibir un porcentaje de los ingresos que se generen, por la venta de sus trabajos y proyectos a los usuarios;
 
-IV. Participar en la planeación, programación, coordinación, orientación, sistematización, promoción y difusión de las actividades relacionadas con la ciencia y la tecnología;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-V. Fungir como Órgano de consulta y asesoría, para las dependencias del Ejecutivo Estatal, empresas de participación estatal mayoritaria y organismos descentralizados, en materia de políticas de inversiones, destinados a proyectos de investigación científica y tecnológica, educación técnica y superior, importación de tecnología, pago de regalías, patentes, normas, especificaciones, control de calidad y en general, en todo lo relacionado para el adecuado cumplimiento de sus fines. Debiéndose vincular en aspectos relacionados con el control de calidad, con el Instituto Jalisciense de la Calidad;
+IV. Participar en la planeación, programación, coordinación, orientación, sistematización, promoción y difusión de las actividades relacionadas con la ciencia, la tecnología y la innovación;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+V. Fungir como Órgano de consulta y asesoría, para las dependencias del Ejecutivo Estatal, empresas de participación estatal mayoritaria y organismos descentralizados, en materia de políticas de inversiones, destinados a proyectos de investigación científica, tecnológica y de innovación, educación técnica y superior, importación de tecnología, pago de regalías, patentes, normas, especificaciones, control de calidad y en general, en todo lo relacionado para el adecuado cumplimiento de sus fines. Debiéndose vincular en aspectos relacionados con el control de calidad, con el Instituto Jalisciense de la Calidad;
 
 VI. Orientar y asesorar en su materia, a los Ayuntamientos de la Entidad, así como a las personas físicas o jurídicas, en las condiciones que en cada caso se pacten;
 
-VII. Elaborar un diagnóstico de las necesidades estatales en materia de ciencia y tecnología, estudiar los problemas existentes y proponer alternativas de solución;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-VIII. Realizar programas indicativos de investigación científica y tecnológica, vinculados a los objetivos Nacionales y Estatales de desarrollo económico y social;
+VII. Elaborar un diagnóstico de las necesidades estatales en materia de ciencia, tecnología e innovación, estudiar los problemas existentes y proponer alternativas de solución;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+VIII. Realizar programas indicativos de investigación científica, tecnológica y de innovación, vinculados a los objetivos Nacionales y Estatales de desarrollo económico y social;
 
 IX. Promover una mayor coordinación entre las instituciones de investigación y enseñanza superior, así como de éstas con el Estado y los usuarios de la investigación;
 
@@ -97,9 +141,13 @@ X. Fomentar y fortalecer las investigaciones básicas, tecnológicas y aplicadas
 
 XI. Canalizar recursos adicionales provenientes tanto del Estado, como de otras fuentes, hacia las personas físicas o jurídicas, instituciones académicas y centros de investigación, para el fomento y realización de investigaciones y proyectos de desarrollo tecnológico;
 
-XII. Promover la creación de nuevos institutos de investigación, y la constitución y desarrollo de empresas de base científica y tecnológica en Jalisco, para la producción de bienes y servicios generados con tecnología de punta;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-XIII. Asesorar cuando se lo soliciten, a las instituciones de educación y centros de investigación, en lo que se refiere a la elaboración de programas, intercambio de profesores e investigadores, otorgamiento de becas, sistemas de información y documentación, así como servicios de apoyo;
+XII. Promover la creación de nuevos institutos de investigación, y la constitución y desarrollo de empresas de base científica y tecnológica en Jalisco, para la producción de bienes y servicios generados con la innovación tecnológica;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+XIII. Asesorar cuando se lo soliciten a las instituciones de educación y centros de investigación, en lo que se refiere a la elaboración de programas, intercambio de profesores e investigadores, apoyo a la formación de recursos humanos altamente especializados, sistemas de información y documentación, así como servicios de apoyo;
 
 XIV. Concertar convenios con instituciones u organismos nacionales y extranjeros, para el cumplimiento de sus objetivos, con la participación que corresponda a otras dependencias y organismos de la Administración Pública Federal, Estatal y Municipal;
 
@@ -111,7 +159,9 @@ XVII. Gestionar ante las autoridades competentes, la expedita internación al Pa
 
 XVIII. Otorgar estímulos económicos y reconocimiento Estatal al mérito de investigación, tanto a instituciones y empresas como a investigadores que se distingan por su desempeño relevante en la materia, de conformidad con la legislación aplicable al caso concreto;
 
-XIX. Promover la capacitación, especialización y actualización de conocimientos en ciencia y tecnología;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+XIX. Promover la capacitación, especialización y actualización de conocimientos en ciencia, tecnología e innovación;
 
 XX. Promover las publicaciones científicas y tecnológicas, así como fomentar la difusión sistemática de los trabajos y proyectos realizados por los investigadores Estatales, a través de los medios idóneos que para tal efecto se determinen;
 
@@ -127,75 +177,121 @@ XXV. Las demás funciones que se le fijen mediante la presente Ley, o sean inher
 
 ### Capítulo III. De los criterios orientadores
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 6.
 
-Las acciones que el COECYTJAL emprenda para incentivar, apoyar y promover la investigación científica y tecnológica, se atenderán a los siguientes criterios:
+Las acciones que el COECYTJAL emprenda para incentivar, apoyar y promover la investigación científica, tecnológica e innovación, se atendrán a los siguientes criterios:
 
-I. Se promoverán y apoyarán todas las actividades científicas y tecnológicas conforme a la disponibilidad de recursos, dando prioridad a los proyectos de investigación científica y tecnológica, así como de modernización, innovación y desarrollo tecnológico que respondan a los problemas prioritarios de la entidad y se realicen en áreas y sectores estratégicos del desarrollo;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-II. En la determinación de las políticas y decisiones en materia de ciencia y tecnología, se garantizará la participación de las comunidades científica, académica y tecnológica;
+I. Se promoverán y apoyarán todas las actividades científicas y tecnológicas conforme a la disponibilidad de recursos, dando prioridad a los proyectos de investigación científica, tecnológica y de innovación, así como de modernización, innovación y desarrollo tecnológico que respondan a los problemas prioritarios de la entidad y se realicen en áreas y sectores estratégicos del desarrollo;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+II. En la determinación de las políticas y decisiones en materia de ciencia, tecnología e innovación, se garantizará la participación de las comunidades científica, académica y tecnológica;
 
 III. Para llevar a cabo la distribución de apoyos económicos se tomará en cuenta el Programa que establece esta Ley y demás ordenamientos aplicables;
 
-IV. Se promoverá la descentralización territorial y el impulso de las actividades científicas y tecnológicas en las diversas regiones del Estado;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-V. Se procurará la concurrencia de aportaciones de recursos públicos y privados, destinados a la generación, ejecución y difusión de proyectos de investigación científica y tecnológica, así como a la modernización de la tecnología y a la formación de recursos humanos especializados;
+IV. Se promoverá la descentralización territorial y el impulso de las actividades científicas, tecnológicas y de innovación en las diversas regiones del Estado;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+V. Se procurará la concurrencia de aportaciones de recursos públicos y privados, destinados a la generación, ejecución y difusión de proyectos de investigación científica y tecnológica, así como a la innovación tecnológica y a la formación de recursos humanos altamente especializados;
 
 VI. El procedimiento de selección de personas físicas o jurídicas a las cuales se les otorguen los apoyos previstos por esta ley, será competitivo, eficiente, equitativo y público, de conformidad con el reglamento que se expida para tal fin;
 
 VII. Se respetará en todo momento la libertad de investigación;
 
-VIII. Los apoyos a la investigación científica y tecnológica, deberán ser entregados oportunamente y ser adecuados para garantizar la continuidad y conclusión de los proyectos;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+VIII. Los apoyos a la investigación científica, tecnológica y de innovación, deberán ser entregados oportunamente y ser adecuados para garantizar la continuidad y conclusión de los proyectos;
 
 IX. Las personas físicas o jurídicas que reciban apoyo, deberán rendir un informe de sus actividades y resultados, mismos que serán evaluados periódicamente, tomándose en cuenta para el otorgamiento de apoyos posteriores;
 
-X. En el fomento de la investigación científica y tecnológica se procurará evitar la duplicidad de esfuerzos y acciones;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+X. En el fomento de la investigación científica, tecnológica y de innovación se procurará evitar la duplicidad de esfuerzos y acciones;
 
 XI. Se procurará crear espacios y desarrollar programas que busquen inculcar en niños y jóvenes el aprecio por la ciencia y la tecnología, así como su acercamiento a esta clase de actividades;
 
-XII. El Gobierno del Estado procurará que los resultados de la investigación científica y tecnológica beneficien a todas las regiones del estado y estratos de la población; y
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-XIII. Los proyectos de ciencia y tecnología impulsados por el COECYTJAL, deberán estar orientados por un criterio de desarrollo sustentable, considerando en todo momento el respeto a los ecosistemas, el cuidado del medio ambiente y en general el acatamiento de las normas y criterios ecológicos.
+XII. El Gobierno del Estado procurará que los resultados de la investigación científica y tecnológica beneficien a todas las regiones del estado y estratos de la población para que contribuyan a su desarrollo y alcancen mejores niveles de vida, y
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+XIII. Los proyectos de ciencia, tecnología y de innovación impulsados por el COECYTJAL, deberán estar orientados por un criterio de desarrollo sustentable, considerando en todo momento el respeto a los ecosistemas, el cuidado del medio ambiente y en general el acatamiento de las normas y criterios ecológicos.
 
 ### Capítulo IV. De los instrumentos y apoyos
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 7.
 
-El COECYTJAL fomentará el desarrollo de la investigación científica y tecnológica a través de los siguientes instrumentos y apoyos:
+El COECYTJAL fomentará el desarrollo de la investigación científica, tecnológica y de innovación a través de los siguientes instrumentos y apoyos:
 
-I. La administración de fondos federales destinados a promover y fortalecer la investigación científica y tecnológica;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+I. La administración de fondos federales destinados a promover y fortalecer la investigación científica y tecnológica y a la innovación;
 
 > <small>(REFORMADA, P.O. 23 DE ENERO DE 2007)</small>
 
 II. El establecimiento y administración de una partida presupuestal anual destinada exclusivamente al impulso de:
 
-a) La investigación científica y tecnológica;
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
 
-b) La difusión y divulgación de la ciencia y la tecnología; y
+a) La investigación científica, tecnológica e innovación;
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
+
+b) La difusión y divulgación de la ciencia, la tecnología y la innovación, y
 
 c) El apoyo a las tareas de atracción de inversiones de base tecnológica.
 
 III. Los estímulos y exenciones que se fijen anualmente en las leyes de ingresos del Estado y sus municipios;
 
-IV. La concesión y gestión de créditos que permitan financiar actividades científicas y tecnológicas, de conformidad con la legislación aplicable;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-V. El otorgamiento de bienes inmuebles de dominio estatal para el desarrollo de actividades científicas y tecnológicas de interés público, previa autorización del Congreso del Estado;
+IV. La concesión y gestión de créditos que permitan financiar actividades científicas, tecnológicas y de innovación, de conformidad con la legislación aplicable;
 
-VI. El diseño y ejecución de Programas que impulsen y fortalezcan el desarrollo de la investigación científica y tecnológica y su vinculación de los sectores productivos y sociales;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-VII. El otorgamiento de becas para especialización de los recursos humanos tanto a nivel nacional como en el extranjero;
+V. La gestión, y en su caso, el otorgamiento de bienes inmuebles de dominio estatal para el desarrollo de actividades científicas, tecnológicas y de innovación, que sean de interés público previa autorización del Congreso del Estado;
 
-VIII. La asignación de recursos financieros para proyectos de investigación en los que participen tres o más investigadores en formación; así como para la publicación de los resultados de su investigación;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-IX. El desarrollo de programas de estímulos orientados a fomentar la investigación y fortalecer la formación de nuevos investigadores;
+VI. El diseño y ejecución de Programas que impulsen y fortalezcan el desarrollo de la investigación científica, tecnológica y de innovación y su vinculación de los sectores productivos y sociales;
 
-X. La prestación de servicios de asesoría y capacitación en materia de ciencia y tecnología;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-XI. La asignación de recursos que permitan estimular y reconocer el trabajo que a nivel estatal se desarrolle en ciencia y tecnología;
+VII. El Otorgamiento de apoyos a la formación de los recursos humanos altamente especializados tanto a nivel nacional como en el extranjero;
 
-XII. Los investigadores residentes en Jalisco que difundan los resultados de su trabajo en publicaciones con reconocimiento internacional, se harán acreedores a estímulos y reconocimientos especiales, de conformidad con lo establecido en el Programa Estatal de Ciencia y Tecnología; y
+> <small>(REFORMADA, [ N. DE E. ANTES FRACCIÓN VII], P.O. 10 DE FEBRERO DE 2009)</small>
 
-XIII. El establecimiento de una política editorial y de difusión en materia de ciencia y tecnología.
+VIII. El otorgamiento de becas para especialización de los recursos humanos tanto a nivel nacional como en el extranjero;
+
+> <small>(REFORMADA, [ N. DE E. ANTES FRACCIÓN VIII], P.O. 10 DE FEBRERO DE 2009)</small>
+
+IX. La asignación de recursos financieros para proyectos de investigación en los que participen tres o más investigadores en formación; así como para la publicación de los resultados de su investigación;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+X. La prestación de servicios de asesoría y capacitación en materia de ciencia, tecnología e innovación;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+XI. La asignación de recursos que permitan estimular y reconocer el trabajo que a nivel estatal se desarrolle en ciencia, tecnología e innovación;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+XII. Los investigadores residentes en Jalisco que difundan los resultados de su trabajo en publicaciones con reconocimiento internacional, se harán acreedores a estímulos y reconocimientos especiales, de conformidad con lo establecido en el Programa Sectorial, y
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+XIII. El establecimiento de una política editorial y de difusión en materia de ciencia, tecnología e innovación.
 
 ### Capítulo V. De la Integración y Funcionamiento del COECYTJAL
 
@@ -219,7 +315,9 @@ II. Un Secretario Ejecutivo, mismo que será el Secretario de Educación del Est
 
 III. Un Secretario Técnico, que será el Director General del COECYTJAL;
 
-IV. Como Vocales, los Titulares o sus respectivos representantes de las siguientes entidades públicas del Poder Ejecutivo Estatal, así como de los organismos privados siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2009)</small>
+
+IV. Como vocales, los titulares o sus respectivos representantes de las siguientes entidades públicas del Poder Ejecutivo Estatal, del Poder Legislativo Estatal, así como de los organismos privados siguientes:
 
 a) Del Ejecutivo del Gobierno del Estado:
 
@@ -229,11 +327,23 @@ a) Del Ejecutivo del Gobierno del Estado:
 
 3. Secretaría de Desarrollo Urbano;
 
-4. Secretaría de Desarrollo Rural; y
+4. Secretaría de Desarrollo Rural; y (sic)
 
 5. Secretaría de Salud;
 
-b) Del sector privado:
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2009)</small>
+
+6. Secretaría del Medio Ambiente para el Desarrollo Sustentable.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2009)</small>
+
+b) Del Legislativo del Estado:
+
+1. Comisión de Ciencia y Tecnología.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO Y REUBICADO], P.O. 10 DE FEBRERO DE 2009)</small>
+
+c) Del Sector privado:
 
 1. El Consejo de Cámaras Industriales de Jalisco;
 
@@ -241,23 +351,25 @@ b) Del sector privado:
 
 3. El Consejo Agropecuario de Jalisco;
 
-4. La Fundación Produce Jalisco, A.C.;
+4. La Fundación Produce Jalisco, A. C.;
 
-5. La Delegación Regional Occidente de la Cámara Nacional de la Industria Electrónica, Telecomunicaciones e Informática;
+5. La Delegación Regional Occidente de la Cámara Nacional de la Industria Electrónica, Telecomunicaciones e Informática, y
 
-6. Consejo Mexicano de Comercio Exterior Delegación Jalisco;
+6. Consejo Mexicano del Comercio Exterior Delegación Jalisco.
 
-c) Del Sector Educativo:
+> <small>(REFORMADO [N. DE E. REPUBLICADO Y REUBICADO], P.O. 10 DE FEBRERO DE 2009)</small>
+
+d) Del Sector Educativo:
 
 1. La Universidad de Guadalajara;
 
-2. Un representante elegido entre las Instituciones de educación superior que cuenten con centros de Investigación Científica y Tecnológica o impartan posgrados a nivel doctorado, como son el Instituto Tecnológico de Estudios Superiores de Monterrey, Campus Guadalajara, la Universidad Autónoma de Guadalajara, el Instituto de Estudios Superiores de Occidente, la Universidad del Valle de Atemajac, la Universidad Panamericana, la Universidad La Salle, el Centro de Investigaciones y Estudios Superiores en Antropología Social de Occidente y el Instituto Tecnológico de Ciudad Guzmán; y
+2. Un representante elegido entre las Instituciones de educación superior que cuenten con centros de Investigación Científica y Tecnológica o impartan posgrados a nivel doctorado, como son el Instituto Tecnológico de Estudios Superiores de Monterrey, Campus Guadalajara, la Universidad Autónoma de Guadalajara, el Instituto Tecnológico y de Estudios Superiores de Occidente, la Universidad del Valle de Atemajac, la Universidad Panamericana, la Universidad La Salle, el Centro de Investigaciones y Estudios Superiores en Antropología Social de Occidente y el Instituto Tecnológico de Ciudad Guzmán, y
 
-3. Además, un representante elegido de los Centros de Investigación de Ciencia y Tecnología como lo son: Centro de Ciencia y Tecnología de Guadalajara, Planetario Severo Díaz Galindo, el Centro de Investigación y Asistencia en Tecnología y Diseño del Estado de Jalisco, (CIATEJ), el Colegio de Jalisco y el Instituto de Información Territorial del Estado de Jalisco. Las Instituciones públicas y privadas de educación superior que realicen investigación científica y tecnológica en la entidad, previa invitación de los restantes miembros del Consejo Directivo, pudiendo aquellas solicitar por escrito su inclusión.
+3. Además, un representante elegido de los Centros de Investigación de Ciencia y Tecnología como lo son: Centro de Ciencia y Tecnología de Guadalajara, Planetario Severo Díaz Galindo, el Centro de Investigación y Asistencia en Tecnología y Diseño del Estado de Jalisco (CIATEJ), el Colegio de Jalisco y el Instituto de Información Territorial del Estado de Jalisco. Las instituciones públicas y privadas de educación superior que realicen investigación científica y tecnológica en la entidad, previa invitación de los restantes miembros del Consejo Directivo, pudiendo aquellas solicitar por escrito su inclusión.
 
-El cargo como miembro del Consejo Directivo es de carácter honorífico y por lo tanto no es remunerado. Los Consejeros durarán en su cargo el término durante el cual conserven la representación de la dependencia e institución de que se trate.
+El cargo como miembro del Consejo Directivo es de carácter honorífico y por lo tanto no es remunerado. Los consejeros durarán en su cargo el término durante el cual conserven la representación de la dependencia e institución de que se trate.
 
-Asimismo, los Consejeros tendrán derecho de voz y voto, pudiendo nombrar a sus respectivos suplentes, quienes sólo tendrán tal derecho en caso de ausencia temporal de su titular, a excepción del Secretario Técnico que sólo tendrá derecho a voz.
+Asimismo, los consejeros tendrán derecho a voz y voto, pudiendo nombrar a sus respectivos suplentes, quienes sólo tendrán tal derecho en caso de ausencia temporal de su titular, a excepción del Secretario Técnico que sólo tendrá derecho a voz.
 
 ###### Artículo 10.
 
@@ -297,11 +409,15 @@ V. Proponer al Ejecutivo del Estado, con la aprobación de las dos terceras part
 
 VI. Estudiar y aprobar el presupuesto anual de ingresos y el anteproyecto de egresos del COECYTJAL, mismos que remitirán al Presidente del COECYTJAL para su inclusión en el proyecto de Presupuesto de Egresos del Gobierno del Estado, en la unidad presupuestal correspondiente;
 
-VII. Aprobar las iniciativas y/o proyectos de actividades científicas y tecnológicas que soliciten los apoyos previstos por esta ley, previo dictamen presentado por el Director del COECYTJAL y al que ya haya hecho observaciones la Comisión Consultiva, de conformidad con el reglamento que al efecto se expida;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+VII. Aprobar las iniciativas y/o proyectos de actividades científicas, tecnológicas y de innovación que soliciten los apoyos previstos por esta ley, previo dictamen presentado por el Director del COECYTJAL y en caso de considerarlo pertinente el Consejo Directivo podrá solicitar a la Comisión Consultiva la emisión de observaciones sobre determinado proyecto;
 
 VIII. Revisar, discutir y en su caso aprobar el informe trimestral de actividades presentado por el Director General del COECYTJAL, así como el programa operativo anual y evaluar los avances y resultados de sus objetivos;
 
-IX. Determinar semestralmente, mediante convocatoria pública y con sujeción al procedimiento que al efecto se determine, el otorgamiento de apoyos económicos para la realización de actividades científicas y tecnológicas, con los recursos constitutivos del Fondo Estatal de Ciencia y Tecnología;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+IX. Determinar, mediante convocatoria pública y con sujeción al procedimiento que al efecto se determine, el otorgamiento de apoyos económicos para la realización de actividades científicas, tecnológicas y de innovación, con los recursos constitutivos del Fondo Estatal;
 
 X. Acordar con sujeción a las disposiciones legales vigentes, lo referente a donativos y pagos extraordinarios, y verificar su cumplimiento conforme a las directrices señaladas por la dependencia coordinadora de sector;
 
@@ -335,15 +451,19 @@ IV. Tomar las decisiones y medidas que en cada caso se requieran, a efecto de qu
 
 V. Las demás que determine el Pleno del Consejo Directivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 16.
 
-La Comisión Consultiva, es el Órgano de apoyo del COECYTJAL, la cual estar (sic) integrada, previa invitación y aceptación de los miembros propuestos, de la siguiente forma:
+La Comisión Consultiva, es el Órgano de apoyo del COECYTJAL, la cual estará integrada, previa invitación y aceptación de los miembros propuestos, de la siguiente forma:
 
 I. Un Coordinador, quien será elegido por el Consejo Directivo y durará en su cargo un año, pudiendo ser reelecto;
 
 II. Un Secretario Técnico, cuyo cargo recaerá en el Director General del COECYTJAL, quien suplirá en sus ausencias al Coordinador y que tendrá únicamente derecho a voz;
 
-III. Las Instituciones educativas del Estado de Jalisco, que cuenten con centros de investigación científica y tecnológica, como son la Universidad de Guadalajara, el Instituto Tecnológico de Estudios Superiores de Monterrey, Campus Guadalajara, la Universidad Autónoma de Guadalajara, el Colegio de Jalisco, el Instituto de Estudios Superiores de Occidente, la Universidad del Valle de Atemajac, la Universidad Panamericana, la Universidad La Salle, el Centro de Investigaciones y Estudios Superiores en Antropología Social de Occidente y el Instituto Tecnológico de Ciudad Guzmán;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+III. Las Instituciones educativas del Estado de Jalisco, que cuenten con centros de investigación científica y tecnológica, como son la Universidad de Guadalajara, el Instituto Tecnológico de Estudios Superiores de Monterrey, Campus Guadalajara, la Universidad Autónoma de Guadalajara, el Colegio de Jalisco, el Instituto Tecnológico y de Estudios Superiores de Occidente, la Universidad del Valle de Atemajac, la Universidad Panamericana, la Universidad La Salle, el Centro de Investigaciones y Estudios Superiores en Antropología Social de Occidente y el Instituto Tecnológico de Ciudad Guzmán;
 
 IV. El Centro de Investigación y Asistencia en Tecnología y Diseño del Estado de Jalisco (CIATEJ);
 
@@ -395,7 +515,9 @@ III. Hacer observaciones sobre el dictamen que presente el Director General del 
 
 IV. Proponer la elaboración y ejecución de estrategias, programas y actividades con otros organismos, que tengan relación con el fomento y desarrollo de la ciencia y la tecnología;
 
-V. Investigar y dar a conocer los avances que en materia de ciencia y tecnología se registran en el País y en el resto del mundo, orientando de esta forma los trabajos del COECYTJAL;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+V. Investigar y dar a conocer los avances que en materia de ciencia, tecnología e innovación se registran en el País y en el resto del mundo, orientando de esta forma los trabajos del COECYTJAL;
 
 VI. Invitar por conducto de su Coordinador, a representantes de los sectores público, social y privado, así como a especialistas e investigadores destacados de las universidades e instituciones de educación superior, con el propósito de que expongan sus experiencias, conocimientos y realicen propuestas para el desarrollo de proyectos y acciones que coadyuven al cumplimiento de los fines del COECYTJAL;
 
@@ -475,7 +597,9 @@ XIV. Presentar al Consejo Directivo, un informe trimestral de actividades, y los
 
 XV. Ejercer el presupuesto anual de egresos del COECYTJAL, de conformidad con los ordenamientos y disposiciones legales aplicables;
 
-XVI. Elaborar y presentar los dictámenes respecto de solicitudes de canalización de fondos, así como de las condiciones a que las mismas se sujetarán, para la realización de proyectos, estudios, investigaciones específicas, otorgamiento de becas y cualquier otro proyecto de carácter económico que se consideren necesarios, e importantes en cumplimiento a los fines del Consejo, de conformidad con la legislación aplicable;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+XVI. Elaborar y presentar los dictámenes respecto de solicitudes de canalización de fondos, así como de las condiciones a que las mismas se sujetarán, para la realización de proyectos, estudios, investigaciones especificas, apoyo a la formación de recursos humanos altamente especializados y cualquier otro proyecto de carácter económico que se consideren necesarios e importantes en cumplimiento a los fines del Consejo de conformidad con la legislación aplicable;
 
 XVII. Establecer programas que propicien la permanencia de los investigadores y técnicos en el Estado, y su incorporación a la academia y a las empresas de la Entidad;
 
@@ -515,23 +639,31 @@ El COECYTJAL administrará y dispondrá de su patrimonio, en razón del cumplimi
 
 El COECYTJAL sólo podrá enajenar bienes muebles de su propiedad, previa autorización del Consejo Directivo, y tratándose de bienes inmuebles se requerirá además, la autorización del H. Congreso del Estado, cumpliendo lo dispuesto en la legislación aplicable vigente en ambos casos.
 
-### Capítulo VII. Del Programa Estatal de Ciencia y Tecnología
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE FEBRERO DE 2009)</small>
+
+### Capítulo VII. Del Programa Sectorial de Ciencia y Tecnología para el Desarrollo
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 26.
 
-Se instituye el Programa Estatal de Ciencia y Tecnología, como instrumento rector de la política del Gobierno del Estado en materia de ciencia y tecnología. Dicho programa será aplicado, evaluado y actualizado cada dos años por conducto del COECYTJAL.
+Se instituye el Programa Sectorial de Ciencia y Tecnología, para el Desarrollo, como instrumento rector de la política del Gobierno del Estado en materia de ciencia y tecnología. Dicho programa será aplicado y actualizado cada 6 (seis) años por conducto del COECYTJAL y evaluado cada 2 (dos) años por el Consejo Directivo, quien determinará el grado de cumplimiento del Programa.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 27.
 
-A través del Programa Estatal de Ciencia y Tecnología, el Gobierno del Estado cumplirá con la política de desarrollo de la investigación científica y tecnológica y determinará la aplicación de estímulos y apoyos en esta área.
+A través del Programa, el Gobierno del Estado cumplirá con la política de desarrollo de la investigación científica, tecnológica y de innovación y determinará la aplicación de estímulos y apoyos en esta área.
 
 ###### Artículo 28.
 
 En la concepción y diseño del Programa se buscará que las áreas apoyadas respondan a los lineamientos y prioridades establecidas en el Plan Estatal de Desarrollo y, en general, a la política de desarrollo económico y social del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 29.
 
-El Programa deberá contener, cuando menos, los siguientes aspectos:
+El Programa Sectorial deberá contener, cuando menos, los siguientes aspectos:
 
 I. La política general en ciencia y tecnología que identifique las áreas o sectores prioritarios para el Estado de Jalisco;
 
@@ -541,13 +673,21 @@ II. Diagnósticos, políticas, estrategias y acciones en lo que respecta a:
 
 2. Innovación y desarrollo tecnológico;
 
-3. Formación de investigadores, tecnólogos y profesionistas de alto nivel;
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
 
-4. Vinculación entre ciencia y tecnología y empresas, y
+3. Formación de investigadores, tecnólogos y profesionistas altamente, especializados;
 
-5. Difusión del conocimiento científico y tecnológico;
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
 
-III. Las áreas y líneas de investigación científica y tecnológica que se considerarán prioritarias;
+4. Vinculación entre ciencia, tecnología e innovación y sectores productivos, y
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
+
+5. Difusión del conocimiento científico, tecnológico y de innovación.
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+III. Las áreas y líneas (sic) investigación científica, tecnológica y de innovación que se considerarán prioritarias;
 
 IV. Las estrategias y mecanismos de financiamiento complementario, y
 
@@ -555,13 +695,17 @@ V. Los mecanismos de evaluación y seguimiento de resultados y avances del Progr
 
 ### Capítulo VIII. Del Fondo Estatal de Ciencia y Tecnología
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 30.
 
-Para los efectos de financiamiento de las actividades científicas y tecnológicas a las que se refiere la presente ley, se crea el Fondo Estatal de Ciencia y la Tecnología. Este Fondo será constituido y administrado bajo la figura del Fideicomiso.
+Para los efectos de financiamiento de las actividades científicas, tecnológicas y de innovación a las que se refiere la presente ley, se crea el Fondo Estatal de Ciencia y Tecnología de Jalisco. Este Fondo será constituido y administrado bajo la figura del Fideicomiso.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 31.
 
-El Fondo Estatal de Ciencia y la Tecnología se constituirá, sin excepción, con las aportaciones de:
+El Fondo Estatal se constituirá, sin excepción, con las aportaciones de:
 
 I. El Gobierno Federal;
 
@@ -585,11 +729,15 @@ VIII. Otros recursos que determine el Ejecutivo del Estado.
 
 El objeto del fondo será el otorgamiento de apoyos para:
 
-I. El desarrollo de proyectos de investigación científica y tecnológica;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+I. El desarrollo de proyectos de investigación científica, tecnológica y de innovación;
 
 II. La adquisición o desarrollo de equipo, instrumentos y materiales;
 
-III. El otorgamiento de becas para especialización que no excedan el término de dos años;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+III. El otorgamiento de apoyo a la formación y capacitación de recursos humanos altamente especializados que no excedan el término de dos años;
 
 IV. La realización de proyectos de modernización, innovación y desarrollo tecnológicos;
 
@@ -597,11 +745,17 @@ V. La investigación, estudio y divulgación de la ciencia y la tecnología;
 
 VI. El otorgamiento de estímulos y reconocimientos a organizaciones, empresas, así como a investigadores y tecnólogos que destaquen en estas áreas;
 
-VII. El apoyo a los investigadores para el registro de sus patentes;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+VII. El apoyo a los investigadores, Instituciones de Educación y Centros de Investigación, así como a la Micro, Pequeña y Mediana Empresa para el registro de figuras jurídicas que protejan la propiedad industrial o intelectual;
 
 VIII. La construcción de prototipos de bienes de capital; y
 
 IX. Cualquier otra actividad que sea congruente con el objeto del fondo y de la presente ley.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2009)</small>
+
+Del total del recurso asignado anualmente al Fondo Estatal de Ciencia y Tecnología de Jalisco, solo se podrá disponer de hasta un 2% dos por ciento del monto total asignado en la partida presupuestal correspondiente del Presupuesto de Egresos del Gobierno del Estado, para los gastos Fiduciarios y de Administración del Fondo; Así como para gastos de Operación y seguimiento de los proyectos y actividades apoyadas por este fondo.
 
 ###### Artículo 33.
 
@@ -615,15 +769,27 @@ La asignación de recursos del Fondo procurará beneficiar al mayor número de p
 
 Tendrán derecho preferente a recibir los beneficios del Fondo las instituciones, universidades, centros, laboratorios, empresas y demás personas inscritas en el Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas y se encuentren domiciliadas en la entidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 36.
 
-La canalización de fondos por parte del COECYTJAL, para proyectos, investigaciones específicas, otorgamiento de becas y cualquier otra ayuda de carácter económico que proporcione, en cumplimiento de su objeto, estará sujeta a la celebración del instrumento jurídico correspondiente, a las disposiciones legales aplicables y a las siguientes condiciones:
+La canalización de fondos por parte del COECYTJAL, para proyectos, investigaciones específicas, apoyo a la formación de recursos humanos altamente especializados y cualquier otra ayuda de carácter económico que proporcione, en cumplimiento de su objeto, estará sujeta a la celebración del instrumento jurídico correspondiente, a las disposiciones legales aplicables y a las siguientes condiciones:
 
 I. Vigilar la debida aplicación y adecuado aprovechamiento de los fondos que sean proporcionados;
 
-II. Los beneficiarios rendirán al Consejo Directivo, los informes periódicos que se establezcan sobre el desarrollo y resultados de sus trabajos; asimismo, en proyectos y contratación de servicios que superen el monto equivalente a cinco mil días de salario mínimo general vigente, se deberá entregar una fianza que avale el cumplimiento del contrato correspondiente; y
+II. Los beneficiarios rendirán al Consejo Directivo, los informes periódicos que se establezcan sobre el desarrollo y resultados de sus trabajos; asimismo, en proyectos y contratación de servicios que superen el monto equivalente a cinco mil días de salario mínimo general vigente, se deberá entregar una fianza que avale el cumplimiento del contrato correspondiente.
 
-III. Los derechos de propiedad industrial, respecto de los resultados obtenidos por las personas físicas o jurídicas que reciban ayuda del COECYTJAL, serán materia de regulación específica en los instrumentos jurídicos que al efecto se celebren, en los que se protegerán los intereses del Estado.
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2009)</small>
+
+El Consejo Directivo del COECYTJAL podrá eximir de manera excepcional el requisito de la Fianza cuando se trate de instituciones de Educación Superior, Centros de Investigación, Cámaras o Asociaciones sin fines de lucro y en cuyo caso se podrá solicitar como garantía la suscripción de pagarés.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2009)</small>
+
+Así mismo, en proyectos y actividades que no superen el monto equivalente a cinco mil días de salario mínimo general vigente, se deberá firmar un pagaré por el beneficiario de los recursos que ampare el monto del recurso a otorgar, y
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+III. Los derechos de propiedad industrial, respecto de los resultados obtenidos por las personas físicas o jurídicas que reciban ayuda del COECYTJAL, podrán ser materia de regulación específica en los instrumentos jurídicos que al efecto se celebren, en los que se protegerán los intereses del Estado.
 
 ###### Artículo 37.
 
@@ -635,31 +801,45 @@ Por acuerdo del Consejo Directivo y cuando así se considere necesario, las soli
 
 Se considera de interés público y utilidad social las actividades de modernización, innovación y desarrollo tecnológico, por lo que los centros de investigación científica y tecnológica del sector público, de conformidad con la normatividad aplicable y los convenios que al efecto se firmen, incluirán entre sus prioridades el desarrollo y apoyo a las actividades productivas, preferentemente a las de carácter estratégico, del Estado de Jalisco.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 39.
 
-En la aplicación de los instrumentos y apoyos previstos en la presente ley, el Gobierno del Estado dará especial atención a los proyectos que tiendan a la modernización, innovación y desarrollo tecnológico de la pequeña y mediana empresa.
+En la aplicación de los instrumentos y apoyos previstos en la presente ley, el Gobierno del Estado dará especial atención a los proyectos que tiendan a la modernización, innovación y desarrollo tecnológico de la micro, pequeña y mediana empresa.
 
 ###### Artículo 40.
 
 Entre las acciones permanentes que debe ejecutar el COECYTJAL, y cuya consecución deberá ser garantizada con los recursos, el personal y la infraestructura adecuada, se encuentran la asesoría, capacitación y prestación de servicios que propicien el uso intensivo de conocimiento y tecnología en los procesos productivos, la promoción de la metrología, así como el establecimiento de normas de calidad y la certificación.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 41.
 
-De conformidad con la disponibilidad de recursos y en el marco del Programa Estatal de Ciencia y Tecnología, el Gobierno del Estado podrá establecer una partida especial, así como otra clase de incentivos, expresamente orientados a apoyar la modernización, innovación y desarrollo tecnológico de la pequeña y mediana empresa.
+De conformidad con la disponibilidad de recursos y en el marco del Programa, el Gobierno del Estado podrá establecer una partida especial, así como otra clase de incentivos, expresamente orientados a apoyar la modernización, innovación y desarrollo tecnológico de la micro, pequeña y mediana empresa.
 
-### Capítulo X. Del Premio Estatal de Ciencia y Tecnología
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE FEBRERO DE 2009)</small>
+
+### Capítulo X. Del Premio Estatal de Ciencia, Tecnología e Innovación
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 42.
 
-Se crea el Premio Estatal de Ciencia y Tecnología con el objeto de reconocer y estimular la investigación científica y tecnológica de calidad, su promoción y difusión, realizada por el científico o tecnólogo, o equipos de científicos o tecnólogos jaliscienses; o que radiquen en la entidad, cuya obra en estos campos se haga acreedora de tal distinción.
+Se crea el Premio Estatal de Ciencia, Tecnología e Innovación con el objeto de reconocer y estimular la investigación científica y tecnológica de calidad, su promoción y difusión, realizada por el científico o tecnólogo, o equipos de científicos o tecnólogos jaliscienses; o que radiquen en la entidad, cuya obra en estos campos se haga acreedora de tal distinción.
+
+El Premio Estatal de Ciencia, Tecnología e Innovación, tendrá las categorías que el Consejo Directivo estime convenientes, entre las que se encuentran de manera enunciativa, pero no limitativa, las categorías de Ciencia, Tecnología, Tesis, Divulgación, Investigación Temprana e Innovación; las cuales se establecerán en la convocatoria correspondiente, conforme a las tendencias que se presenten.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 43.
 
-El premio consistirá en un monto de hasta 3,000 salarios mínimos vigentes en la Zona Metropolitana de Guadalajara, mismo que será entregado anualmente por el Gobernador del Estado.
+El premio consistirá en un monto de hasta 9,000 salarios mínimos vigentes en la Zona Metropolitana de Guadalajara, mismo que será entregado anualmente por el Gobernador del Estado, o la persona que él designe.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 44.
 
-El premio será concedido por un jurado expresamente constituido para tal fin, bajo las bases y términos que señale el reglamento respectivo. El jurado se integrará por distinguidos investigadores y tecnólogos, propuestos por la Comisión Consultiva y ratificados por el Consejo Directivo.
+El premio será concedido por un jurado expresamente constituido para tal fin por el Consejo Directivo, bajo las bases y términos que señale el reglamento respectivo que al efecto emita el Consejo Directivo. El jurado se integrará por distinguidos investigadores y tecnólogos, propuestos por la Comisión Consultiva y ratificados por el Consejo Directivo.
 
 ## TRANSITORIOS
 
@@ -700,3 +880,9 @@ LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 P.O. 23 DE ENERO DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 10 DE FEBRERO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El Reglamento de este decreto deberá modificarse en un plazo que no excederá de noventa días hábiles, contados a partir de la fecha en que entre en vigor el presente decreto; mientras tanto, el propio Consejo Directivo, se encargará de resolver todas las cuestiones relativas a la aplicación y debida observancia de este decreto.
