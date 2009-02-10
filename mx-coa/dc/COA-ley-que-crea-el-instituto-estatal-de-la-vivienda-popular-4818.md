@@ -4,7 +4,7 @@ identifier: "COA-ley-que-crea-el-instituto-estatal-de-la-vivienda-popular-4818"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "2006-08-08"
+last_updated: "2009-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY QUE CREA EL INSTITUTO ESTATAL DE LA VIVIENDA POPULAR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2009.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el miércoles 31 de diciembre de 1975.
 
@@ -43,11 +43,11 @@ LEY QUE CREA EL INSTITUTO ESTATAL DE LA VIVIENDA POPULAR.
 
 DEL OBJETO Y DENOMINACION DEL INSTITUTO.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO PRIMERO.
 
-Se crea el Instituto Estatal de la Vivienda Popular como Organismo Público Descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios, que estará sectorizado a la Secretaría de Desarrollo Social.
+Se crea el Instituto Estatal de la Vivienda Popular como organismo público descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios.
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1990)</small>
 
@@ -530,3 +530,11 @@ P.O. 8 DE AGOSTO DE 2006.
 PRIMERO. Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 10 DE FEBRERO DE 2009.
+
+PRIMERO. Este decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Hasta en tanto no se expidan los acuerdos de sectorización de los organismos públicos descentralizados que forman parte de la Administración Pública del Estado, continuarán bajo la sectorización que dispongan los instrumentos jurídicos que los hubiesen creado.
+
+TERCERO. Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
