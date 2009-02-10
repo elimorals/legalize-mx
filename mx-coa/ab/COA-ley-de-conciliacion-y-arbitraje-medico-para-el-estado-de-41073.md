@@ -4,7 +4,7 @@ identifier: "COA-ley-de-conciliacion-y-arbitraje-medico-para-el-estado-de-41073"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-09"
-last_updated: "2004-07-09"
+last_updated: "2009-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY DE CONCILIACION Y ARBITRAJE MEDICO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY DE CONCILIACION Y ARBITRAJE MEDICO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
+LEY DE CONCILIACIÓN Y ARBITRAJE MÉDICO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2009.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Coahuila, el viernes 9 de julio de 2004.
 
@@ -341,9 +341,11 @@ El dolo se entenderá en los términos previstos por el artículo 2, fracción V
 
 #### SECCIÓN PRIMERA. NATURALEZA, OBJETO Y PATRIMONIO DE LA COMISIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 19.
 
-Se crea la Comisión Coahuilense de Conciliación y Arbitraje Médico, como organismo público descentralizado de la Administración Pública Estatal, sectorizado a la Secretaría, y que tendrá patrimonio y personalidad jurídica propia con domicilio en la ciudad de Saltillo, sin perjuicio de que pueda establecer oficinas en otras ciudades de la entidad.
+Se crea la Comisión Coahuilense de Conciliación y Arbitraje Médico, como organismo público descentralizado de la Administración Pública Estatal, y que tendrá patrimonio y personalidad jurídica propia con domicilio en la ciudad de Saltillo, sin perjuicio de que pueda establecer oficinas en otras ciudades de la entidad.
 
 La Comisión tendrá plena autonomía técnica para emitir sus resoluciones.
 
@@ -820,3 +822,13 @@ DRA. BERTA C. CASTELLAÑOS MUÑOZ
 LA SECRETARIA DE LA CONTRALORIA Y MODERNIZACION ADMINISTRATIVA
 
 C.P. Y M.I. MARIA INES GARZA ORTA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE FEBRERO DE 2009.
+
+PRIMERO. Este decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Hasta en tanto no se expidan los acuerdos de sectorización de los organismos públicos descentralizados que forman parte de la Administración Pública del Estado, continuarán bajo la sectorización que dispongan los instrumentos jurídicos que los hubiesen creado.
+
+TERCERO. Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
