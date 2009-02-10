@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-de-los-municipios-del-estado-de-yucatan-48342"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-25"
-last_updated: "2006-05-25"
+last_updated: "2009-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 10 DE FEBRERO DE 2009.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 25 de enero de 2006.
 
@@ -2027,7 +2027,9 @@ Los bienes de dominio público municipal, son inalienables, inembargables e impr
 
 Son bienes del dominio privado:
 
-I.- Las tierras de propiedad municipal, susceptibles de enajenación;
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2009)</small>
+
+I.- Las tierras de propiedad municipal, susceptible de enajenación y las de fundo legal;
 
 II.- Los mostrencos;
 
@@ -2045,27 +2047,35 @@ Los inmuebles del dominio privado, podrán ser objeto de enajenación a propuest
 
 La desincorporación de bienes del dominio público y su cambio de uso o destino, sólo podrá realizarse previo acuerdo de las dos terceras partes del Cabildo. Dicho Acuerdo deberá contener los motivos suficientes para ese fin y sustentarse en un dictamen técnico.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 10 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 155.
 
-La enajenación de bienes del dominio público solo podrá realizarse previa desincorporación.
-
-Para enajenar, permutar, ceder o gravar de cualquier modo los bienes inmuebles que formen parte del patrimonio municipal, además del voto de las dos terceras partes del Cabildo, se requiere que contenga al menos, los datos y anexos siguientes:
+Para enajenar, permutar, ceder o gravar de cualquier modo los bienes inmuebles que formen parte del dominio público y privado de los municipios, además del voto de las dos terceras partes de la totalidad de los integrantes del Cabildo, se requerirá que contenga al menos, los datos y anexos siguientes:
 
 I.- Un informe del Presidente Municipal y el Síndico en el que se acredite la necesidad de enajenar el bien y en el que se consignará la justificación de su beneficio. El informe contendrá el destino del producto de la enajenación, cuando esta sea onerosa;
 
 II.- Un plano de localización que contenga descripción de la superficie, medidas y colindancias;
 
-III.- El Valor fiscal y comercial;
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2009)</small>
 
-IV.- En el caso de que el inmueble forme parte del fundo legal, se requerirá la certificación de la oficina catastral correspondiente, en la que conste que el solicitante no es propietario de algún inmueble, ni su cónyuge o concubina, ni sus hijos menores de edad. El interesado bajo protesta de decir verdad, manifestará que dicho bien será destinado para casa habitación;
+III.- El valor catastral y comercial;
 
-V.- Que la superficie no exceda de la necesaria para una vivienda de interés social, salvo que la enajenación se destine a otros usos de carácter social, o para la generación de empleo y el desarrollo económico;
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2009)</small>
+
+IV.- En el caso de que el inmueble forme parte del fundo legal, se requerirá la certificación del Catastro del Estado, en la que conste que el solicitante no es propietario de algún inmueble en el Estado, ni su cónyuge o concubina, ni sus hijos menores de edad. Tratándose de persona física, el interesado bajo protesta de decir verdad, manifestará que dicho bien será destinado para casa habitación;
+
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2009)</small>
+
+V.- Que la superficie no exceda de la necesaria para una vivienda de interés social; en los casos de los terrenos del fundo legal, estos tendrán una extensión mínima de 133 metros cuadrados y una máxima de 600 metros cuadrados.
+
+Se podrá exceder los límites antes previstos cuando se destine a otros usos de carácter social, preponderantemente a la generación de empleo y el desarrollo económico, procurando se les dé preferencia a los habitantes de los municipios, que deberán ser personas morales, legalmente constituidas;
 
 VI.- La constancia que suscrita por el Presidente Municipal y el Síndico, en la que se establezca que el bien inmueble no está ni será destinado a la prestación de un servicio público;
 
-VII.- La respectiva de que el inmueble no reviste valor arqueológico, histórico o artístico, expedida por la institución competente, e
+VII.- La respectiva de que el inmueble no reviste valor arqueológico, histórico o artístico, expedida por la institución competente, e (sic)
 
-VIII.- Informar al Congreso de las enajenaciones autorizadas por el Cabildo en un plazo no mayor de treinta días.
+VIII.- Informar al Congreso de las enajenaciones autorizadas por el Cabildo en un plazo no mayor de treinta días;
 
 IX.- La contravención a lo dispuesto en este artículo, será causa de responsabilidad administrativa o penal, en su caso.
 
@@ -2081,9 +2091,17 @@ La donación quedará sin efecto siempre y cuando:
 
 I.- El bien se utilice para un fin distinto al autorizado;
 
-II.- La persona moral se disuelva o liquide, o
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2009)</small>
 
-III.- No se inicien y concluyan en el plazo aprobado por el Cabildo, los trabajos especificados.
+II.- La persona moral se disuelva o liquide;
+
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2009)</small>
+
+III.- No se inicien y concluyan en el plazo aprobado por el Cabildo, los trabajos especificados; o
+
+> <small>(ADICIONADA, D.O. 10 DE FEBRERO DE 2009)</small>
+
+IV.- Sean enajenadas por cualquier título sin que haya transcurrido el término de quince años y pertenezcan a las tierras del fundo legal. En los contratos en que se enajenen bienes inmuebles que provengan del fundo legal, los fedatarios públicos deberán cerciorarse de lo establecido por esta disposición.
 
 ###### Artículo 157.
 
@@ -2910,3 +2928,17 @@ D.O. 25 DE MAYO DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 Lo dispuesto en el presente Decreto entrará en vigor el día de la entrada en vigor de la Ley de Gobierno de los Municipios del Estado de Yucatán.
+
+D.O. 10 DE FEBRERO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los trámites de fundo legal que al entrar en vigor este Decreto estén en curso, se sujetarán a las disposiciones de este Decreto.
