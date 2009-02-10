@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2008-07-05"
+last_updated: "2009-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -59,9 +59,11 @@ VI. Las autoridades competentes y los procedimientos para declarar la procedenci
 
 VII. El registro patrimonial de los servidores públicos.
 
-###### Artículo 2º.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
 
-Para los efectos de esta ley, se consideran servidores públicos a los representantes de elección popular; a los miembros del Poder Judicial del Estado e integrantes del Tribunal de Arbitraje y Escalafón previstos en la Constitución Política del Estado de Jalisco; a los miembros del Consejo Electoral del Estado; a los integrantes de la Comisión Estatal de Derechos Humanos, y en general, a toda persona que desempeñe un cargo o comisión de cualquiera naturaleza en la administración pública del Estado o de los municipios, así como a quienes presten servicios en los organismos descentralizados, fideicomisos públicos y empresas de participación estatal o municipal mayoritaria, quienes serán responsables por los actos u omisiones en que incurran por el desempeño de sus respectivas funciones.
+###### Artículo 2°.
+
+Para los efectos de esta ley, se consideran servidores públicos a los representantes de elección popular; a los miembros del Poder Judicial del Estado e integrantes del Tribunal de Arbitraje y Escalafón previstos en la Constitución Política del Estado de Jalisco; a los miembros del Instituto Electoral y de Participación Ciudadana del Estado; a los integrantes de la Comisión Estatal de Derechos Humanos, los integrantes del Instituto de Transparencia e Información Pública del Estado y en general, a toda persona que desempeñe un cargo o comisión de cualquiera naturaleza en la administración pública del Estado o de los municipios, así como a quienes presten servicios en los organismos públicos descentralizados, fideicomisos públicos y empresas de participación estatal o municipal mayoritaria, quienes serán responsables por los actos u omisiones en que incurran por el desempeño de sus respectivas funciones.
 
 ###### Artículo 3º.
 
@@ -75,43 +77,43 @@ III. El Tribunal de lo Administrativo;
 
 IV. El Tribunal Electoral;
 
-V. El Consejo General del Poder Judicial;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-VI. El Tribunal de Arbitraje y Escalafón del Estado;
+V. El Instituto Electoral y de Participación Ciudadana del Estado;
 
-VII. La Contraloría del Estado;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-VIII. Las secretarías, dependencias y entidades paraestatales del Ejecutivo;
+VI. El Consejo de la Judicatura del Estado;
 
-IX. Los ayuntamientos y dependencias municipales y sus descentralizados;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+VII. El Tribunal de Arbitraje y Escalafón del Estado;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-X. La Comisión Estatal de Derechos Humanos;
+VIII. La Contraloría del Estado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
+IX. Las secretarías, dependencias y entidades paraestatales del Ejecutivo;
 
-XI. El Instituto Electoral del Estado;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+X. Los ayuntamientos y sus dependencias y entidades paramunicipales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-XII. El Instituto de Transparencia e Información Pública;
+XI. La Comisión Estatal de Derechos Humanos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2008)</small>
+XII. El Instituto de Transparencia e Información Pública del Estado;
 
-XIII. La Auditoría Superior; y
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XIII. La Auditoría Superior, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
 XIV. Los demás órganos que determinen las leyes.
 
@@ -125,11 +127,11 @@ No podrán imponerse dos veces, por una sola conducta, sanciones de la misma nat
 
 ### Capítulo I. SUJETOS Y CAUSAS DE JUICIO POLÍTICO
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
 
-###### Artículo 5º.
+###### Artículo 5°.
 
-Podrán ser sujetos de juicio político, los diputados del Congreso del Estado; los magistrados del Poder Judicial y jueces de primera instancia; los titulares de las secretarías dependientes del Ejecutivo del Estado, el Procurador General de Justicia, el Procurador Social y el Contralor del Estado; los integrantes del Consejo General del Poder Judicial, los consejeros electorales del Consejo Electoral del Estado; el presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; los presidentes, síndicos, regidores o concejales; y los funcionarios encargados de la hacienda municipal; así como los titulares de organismos públicos descentralizados y empresas de participación estatal y municipal mayoritaria.
+Podrán ser sujetos de juicio político, los diputados del Congreso del Estado; los magistrados del Poder Judicial y jueces de primera instancia; los titulares de las secretarías dependientes del Ejecutivo del Estado, el Procurador General de Justicia, el Procurador Social y el Contralor del Estado; los integrantes del Consejo de la Judicatura, los consejeros electorales del Instituto Electoral y de Participación Ciudadana del Estado; el presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; el Presidente y consejeros del Instituto de Transparencia e Información Pública del Estado; los presidentes, síndicos, regidores o concejales y los funcionarios encargados de la hacienda municipal; así como los titulares de organismos públicos descentralizados y empresas de participación estatal y municipal mayoritaria.
 
 ###### Artículo 6º.
 
@@ -153,11 +155,15 @@ IV. Los actos u omisiones que contravengan la Constitución local o las leyes qu
 
 > <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-V. Autorizar o asignar cualquier tipo de percepción distinta al salario y a las prestaciones que se encuentren expresamente establecidas en la ley y asignadas en el presupuesto de egresos correspondiente. Cuando la autorización o asignación sea producto de un acuerdo colegiado, serán responsables los servidores públicos que hubieren votado a favor; y
+V. Autorizar o asignar cualquier tipo de percepción distinta al salario y a las prestaciones que se encuentren expresamente establecidas en la ley y asignadas en el presupuesto de egresos correspondiente. Cuando la autorización o asignación sea producto de un acuerdo colegiado, serán responsables los servidores públicos que hubieren votado a favor; y (sic)
 
 > <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-VI. Recibir cualquier tipo de percepción distinta al salario y a las prestaciones que se encuentren expresamente establecidas en la ley y asignadas en el presupuesto de egresos correspondiente.
+VI. Recibir cualquier tipo de percepción distinta al salario y a las prestaciones que se encuentren expresamente establecidas en la ley y asignadas en el presupuesto de egresos correspondiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE FEBRERO DE 2009)</small>
+
+VII. El no realizar el cobro de un crédito fiscal o cargo fiscal conforme a la ley, y que el Congreso del Estado de Jalisco, haya determinado hacer conforme al procedimiento que dispongan los ordenamientos legales aplicables.
 
 El ataque, la violación, el daño o trastorno a que se refieren las fracciones anteriores, debe ser cierto y existir la evidencia de haberse producido como consecuencia directa e inmediata del acto u omisión del servidor público.
 
@@ -391,9 +397,11 @@ VI. La resolución podrá ser absolutoria o condenatoria, en cuyo caso, deberá 
 
 #### Sección Séptima. Disposiciones para la aplicación de las sanciones
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 30.
 
-Si la resolución de juicio político que emita el Congreso del Estado es condenatoria, se sancionará al servidor público con la destitución, en caso de encontrarse en funciones, y con la inhabilitación para el ejercicio de empleos, cargos o comisiones en el servicio público de uno a diez años.
+Si la resolución de juicio político que emita el Congreso del Estado es condenatoria, se sancionará al servidor público con la destitución, en caso de encontrarse en funciones, y con la inhabilitación para el ejercicio de empleos, cargos o comisiones en el servicio público de uno a veinte años.
 
 Las sanciones deben aplicarse en un plazo no mayor de un año, contado a partir de la fecha en que se hubiere incoado el procedimiento.
 
@@ -411,15 +419,13 @@ IV. El grado de intervención por parte del servidor público en el acto u omisi
 
 ### Capítulo I. DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 31.
 
-Para proceder penalmente contra los diputados al Congreso del Estado; el Auditor Superior del Estado; los titulares de las secretarías del Poder Ejecutivo, el Procurador General de Justicia y los Consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; los consejeros electorales con derecho a voz y voto del Instituto Electoral del Estado, el Presidente del Instituto de Transparencia e Información Pública del Estado, los presidentes municipales, síndicos, regidores y concejales de los ayuntamiento (sic) o concejeros municipales será necesario que se declare por parte del Congreso que ha lugar a proceder contra el inculpado, siguiendo el procedimiento que se establece en el presente capítulo.
+Para proceder penalmente contra los diputados al Congreso del Estado: los titulares de las secretarías del Poder Ejecutivo, el Procurador General de Justicia y el Procurador Social; los magistrados del Poder Judicial del Estado; el presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; los consejeros electorales con derecho a voz y voto del Instituto Electoral y de Participación Ciudadana del Estado; el Presidente y consejeros del Instituto de Transparencia e Información Pública del Estado: los presidentes municipales, síndicos, regidores y concejales de los ayuntamientos o concejos municipales, será necesario que se declare por parte del Congreso que ha lugar a proceder contra el inculpado, siguiendo el procedimiento que se establece en el presente capítulo.
 
-Contra los jueces de primera instancia, menores y de paz, sólo podrá procederse penalmente, previa declaración del Consejo General del Poder Judicial del Estado, de conformidad con lo previsto en la Ley Orgánica del Poder Judicial.
+Contra los jueces de primera instancia, menores y de paz, sólo podrá procederse penalmente, previa declaración del Consejo de la Judicatura del Estado, de conformidad con lo previsto en la Ley Orgánica del Poder Judicial.
 
 ###### Artículo 32.
 
@@ -521,9 +527,11 @@ Si una vez procesado el servidor público resultare absuelto, se le repondrá en
 
 ### Capítulo III. DE LA DECLARACIÓN DE PROCEDENCIA DE JUICIO PENAL POR LA COMISIÓN DE DELITOS FEDERALES
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 44.
 
-El gobernador, los diputados del Congreso del Estado, los magistrados del Poder Judicial del Estado y los miembros del Consejo General del Poder Judicial, gozan de inmunidad constitucional por la comisión de delitos federales en los términos del artículo 111 de la Constitución Política de los Estados Unidos Mexicanos.
+El gobernador, los diputados del Congreso del Estado, los magistrados del Poder Judicial del Estado y los miembros del Consejo de la Judicatura, gozan de inmunidad constitucional por la comisión de delitos federales en los términos del artículo 111 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 45.
 
@@ -661,91 +669,133 @@ Todo servidor público, para salvaguardar la legalidad, honradez, lealtad, impar
 
 I. Cumplir con la máxima diligencia el servicio que le sea encomendado, y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio o implique abuso o ejercicio indebido de su empleo, cargo o comisión;
 
-II. Formular y ejecutar legalmente, en su caso, los planes, programas y presupuestos correspondientes a su competencia, y cumplir las leyes y normas que determinen el manejo de los recursos económicos públicos;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-III. Utilizar los recursos que tenga asignados y las facultades que le sean atribuidas, o la información reservada a que tenga acceso por su función, exclusivamente para los fines a que estén afectos;
+II. Llevar a cabo con responsabilidad, diligencia y prontitud, la investigación, atención, cuidado y protección de personas que se encuentren en una situación de peligro real e inminente de sufrir daño físico o psicológico, en su entorno social o familiar, así como denunciar de inmediato los hechos a la autoridad competente;
 
-IV. Conservar y custodiar los bienes, valores, documentos e información que tenga bajo su cuidado, o a la que tuviere acceso impidiendo o evitando el uso, la sustracción, ocultamiento o utilización indebida de aquella;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-V. Observar buena conducta, tratando con respeto, diligencia, imparcialidad y rectitud a las personas con que tenga relación, con motivo de sus funciones;
+III. Formular y ejecutar legalmente, en su caso, los planes, programas y presupuestos correspondientes a su competencia, y cumplir las leyes y normas que determinen el manejo de los recursos económicos públicos;
 
-VI. Observar en la dirección de sus inferiores jerárquicos las debidas reglas del trato, y abstenerse de incurrir en agravio, desviación o abuso de autoridad;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-VII. Observar respeto y subordinación con sus superiores jerárquicos, cumpliendo las disposiciones que éstos dicten, en el ejercicio de sus atribuciones;
+IV. Utilizar los recursos que tenga asignados y las facultades que le sean atribuidas, o la información reservada a que tenga acceso por su función, exclusivamente para los fines a que estén afectos;
 
-VIII. Excusarse de intervenir de cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquellos en los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor o las personas antes referidas formen o hayan formado parte;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-IX. Informar por escrito a su superior jerárquico inmediato sobre la atención, trámite o resolución de los asuntos a que hace referencia la fracción anterior y que sean de su conocimiento, debiendo observar las instrucciones que por escrito le sean giradas por su superior sobre su atención, tramitación o resolución;
+V. Conservar y custodiar los bienes, valores, documentos e información que tenga bajo su cuidado, o a la que tuviere acceso impidiendo o evitando el uso, la sustracción, ocultamiento o utilización indebida de aquella;
 
-X. Abstenerse de ejercer sus funciones, después de concluido el período para el cual se le designó, o de haber cesado, por cualquier otra causa, en sus funciones;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-XI. Abstenerse el superior jerárquico de disponer o autorizar a un servidor público a no asistir, sin causa justificada, a sus labores más de quince días continuos o treinta discontinuos, en un año, así como otorgar licencias, permisos o comisiones con goce parcial o total de sueldos y otras percepciones, cuando las necesidades del servicio público no lo exijan;
+VI. Observar buena conducta, tratando con respeto, diligencia, imparcialidad y rectitud a las personas con que tenga relación, con motivo de sus funciones;
 
-XII. Abstenerse de desempeñar otro empleo, cargo o comisión oficial, o particular, que la ley le prohiba;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-XIII. Abstenerse de autorizar la selección, contratación, nombramiento o designación, de quien se encuentre inhabilitado por resolución firme de autoridad competente, para ocupar empleo, cargo o comisión en el servicio público;
+VII. Observar en la dirección de sus inferiores jerárquicos las debidas reglas del trato, y abstenerse de incurrir en agravio, desviación o abuso de autoridad;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-XIV. Abstenerse de intervenir, en el nombramiento, contratación, o la promoción, por sí o por conducto de otro servidor público, a personas que tengan parentesco consanguíneo o por afinidad hasta el cuarto grado, para ocupar algún cargo público de los señalados en la Ley para los Servidores Públicos del Estado de Jalisco. Cuando al momento en que el servidor público asumió el cargo o comisión de que se trate ya se encontrare en ejercicio de una función o responsabilidad pública, el familiar comprendido dentro de esta restricción, no existirá responsabilidad;
+VIII. Observar respeto y subordinación con sus superiores jerárquicos, cumpliendo las disposiciones que éstos dicten, en el ejercicio de sus atribuciones;
 
-XV. Abstenerse de solicitar, aceptar, recibir u obtener por sí o por interpósita persona, dinero o cualquier otra dádiva o servicio, para sí o para un tercero u ofrecer una promesa para hacer, dejar de hacer o promover algo legal o ilegal relacionado con sus funciones. Esta prevención es aplicable hasta por un año después de que haya cumplido el ejercicio de sus funciones;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-XVI. Atender las instrucciones, requerimientos y resoluciones que reciba de los órganos de control con base en la presente ley y en las normas que los rijan;
+IX. Excusarse de intervenir de cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquellos en los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor o las personas antes referidas formen o hayan formado parte;
 
-XVII. Abstenerse de cualquier acto u omisión que implique incumplimiento de las disposiciones jurídicas relacionadas con el servicio público;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-XVIII. Abstenerse de realizar violaciones a los planes, programas, y presupuesto de la administración pública estatal o municipal o a las leyes que determinan el manejo de los recursos económicos de dichas entidades;
+X. Informar por escrito a su superior jerárquico inmediato sobre la atención, trámite o resolución de los asuntos a que hace referencia la fracción anterior y que sean de su conocimiento, debiendo observar las instrucciones que por escrito le sean giradas por su superior sobre su atención, tramitación o resolución;
 
-XIX. Respetar y hacer respetar el derecho a la formulación de quejas y denuncias a que se refiere esta ley y evitar que, con motivo de éstas, se causen molestias indebidas al quejoso;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-XX. Supervisar que los servidores públicos sujetos a su dirección, cumplan con las disposiciones del presente artículo y denunciar por escrito, ante el superior jerárquico o autoridad administrativa interna, los actos y omisiones que en ejercicio de sus funciones llegue a advertir respecto de cualquier servidor público, que pueda ser causa de responsabilidad administrativa en los términos de esta ley.
+XI. Abstenerse de ejercer sus funciones, después de concluido el periodo para el cual se le designó, o de haber cesado, por cualquier otra causa, en sus funciones;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+XII. Abstenerse el superior jerárquico de disponer o autorizar a un servidor público a no asistir, sin causa justificada, a sus labores más de quince días continuos o treinta discontinuos, en un año, así como otorgar licencias, permisos o comisiones con goce parcial o total de sueldos y otras percepciones, cuando las necesidades del servicio público no lo exijan;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+XIII. Abstenerse de desempeñar otro empleo, cargo o comisión oficial, o particular, que la ley le prohíba;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+XIV. Abstenerse de autorizar la selección, contratación, nombramiento o designación, de quien se encuentre inhabilitado por resolución firme de autoridad competente, para ocupar empleo, cargo o comisión en el servicio público;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+XV. Abstenerse de intervenir en el nombramiento, contratación, o promoción, por sí o por conducto de otro servidor público, a personas que tengan parentesco consanguíneo o por afinidad hasta el cuarto grado, para ocupar algún cargo público de los señalados en la Ley para los Servidores Públicos del Estado de Jalisco. Cuando al momento en que el servidor público asumió el cargo o comisión de que se trate ya se encontrare en ejercicio de una función o responsabilidad pública, el familiar comprendido dentro de esta restricción, no existirá responsabilidad;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+XVI. Abstenerse de solicitar, aceptar, recibir u obtener por sí o por interpósita persona, dinero o cualquier otra dádiva o servicio, para sí o para un tercero u ofrecer una promesa para hacer, dejar de hacer o promover algo legal o ilegal relacionado con sus funciones. Esta prevención es aplicable hasta por un año después de que haya cumplido el ejercicio de sus funciones;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+XVII. Atender las instrucciones, requerimientos y resoluciones que reciba de los órganos de control con base en la presente ley y en las normas que los rijan;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+XVIII. Abstenerse de cualquier acto u omisión que implique incumplimiento de las disposiciones jurídicas relacionadas con el servicio público;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+XIX. Abstenerse de realizar violaciones a los planes, programas, y presupuesto de la administración pública estatal o municipal o a las leyes que determinan el manejo de los recursos económicos de dichas entidades;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+XX. Respetar y hacer respetar el derecho a la formulación de quejas y denuncias a que se refiere esta ley y evitar que, con motivo de éstas se causen molestias indebidas al quejoso;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+XXI. Supervisar que los servidores públicos sujetos a su dirección, cumplan con las disposiciones del presente artículo y denunciar por escrito, ante el superior jerárquico o autoridad administrativa interna, los actos y comisiones que en ejercicio de sus funciones llegue a advertir respecto de cualquier servidor público, que pueda ser causa de responsabilidad administrativa en los términos de esta ley.
 
 Cuando el planteamiento que por escrito formule el servidor público a su superior jerárquico deba ser comunicado al órgano de control competente, el superior procederá a hacerlo sin demora bajo su estricta responsabilidad y debe hacer del conocimiento del trámite al subalterno interesado;
 
-XXI. Entregar formalmente a quien le sustituya en el cargo, o a la persona que para tal efecto designe el superior jerárquico, los recursos patrimoniales que haya tenido a su disposición, así como los documentos y una relación de los asuntos relacionados con sus funciones. Esta entrega deberá realizarse a más tardar a los cinco días hábiles contados a partir de la fecha en que renuncie o se le notifique su separación del cargo, debiendo elaborar una acta circunstanciada;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
+XXII. Entregar formalmente a quien le sustituya en el cargo, o a la persona que para tal efecto designe el superior jerárquico, los recursos patrimoniales que haya tenido a su disposición, así como los documentos y una relación de los asuntos relacionados con sus funciones. Esta entrega deberá realizarse a más tardar a los cinco días hábiles contados a partir de la fecha en que renuncie o se le notifique su separación del cargo, debiendo elaborar un acta circunstanciada.
 
-Cuando se trate del cambio de la administración pública municipal, el ayuntamiento saliente hará entrega al nuevo gobierno municipal de los conceptos relacionados en el párrafo anterior, al día siguiente de la instalación del nuevo Ayuntamiento; además, en el mismo plazo, cada uno de los responsables de las dependencias municipales deberá entregar al nuevo titular los efectos patrimoniales de referencia y solo en el caso de que la conclusión de la entrega ameritare más tiempo, se tomará el estrictamente necesario.
+Cuando se trate del cambio de la administración pública municipal, el ayuntamiento saliente hará entrega al nuevo gobierno municipal de los conceptos relacionados en el párrafo anterior, al día siguiente de la instalación del nuevo Ayuntamiento; además, en el mismo plazo, cada uno de los responsables de las dependencias municipales deberá entregar al nuevo titular los efectos patrimoniales de referencia y sólo en el caso de que la conclusión de la entrega ameritare más tiempo, se tomará el estrictamente necesario;
 
-XXII. Recibir, al entrar en posesión del cargo, los recursos y documentos a que se refiere la fracción anterior, verificar que correspondan al contenido del acta circunstanciada, verificar los inventarios, informes y demás documentación anexa. Debe de solicitar las aclaraciones pertinentes dentro del término de cinco días hábiles contados a partir del acto de entrega y recepción;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-XXIII. Abstenerse en el ejercicio de su cargo o funciones o con motivo de ellas, de celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicio de cualquier naturaleza y la contratación de obra pública con quien desempeñe un empleo, cargo o comisión en el servicio público o bien con las sociedades de las que dichas personas formen parte sin la autorización previa y específica de quien de acuerdo a la ley deba hacerlo;
+XXIII. Recibir, al entrar en posesión del cargo, los recursos y documentos a que se refiere la fracción anterior, verificar que correspondan al contenido del acta circunstanciada, verificar los inventarios, informes y demás documentación anexa. Debe de solicitar las aclaraciones pertinentes dentro del término de cinco días hábiles contados a partir del acto de entrega y recepción;
 
-XXIV. Respetar el derecho de petición de los particulares en los términos del artículo 8º de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+XXIV. Abstenerse en el ejercicio de su cargo o funciones o con motivo de ellas, de celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicio de cualquier naturaleza y la contratación de obra pública con quien desempeñe un empleo, cargo o comisión en el servicio público o bien con las sociedades de las que dichas personas formen parte sin la autorización previa y específica de quien de acuerdo a la ley deba hacerlo;
 
-Recibir las promociones de carácter administrativo, que les sean presentadas a los servidores públicos de la administración pública estatal y municipal, en forma escrita por los administrados;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-XXV. Abstenerse de imponer condiciones, prestaciones u obligaciones que no estén previstas en las leyes o reglamentos;
+XXV. Respetar el derecho de petición de los particulares en los términos del artículo 8° de la Constitución Política de los Estados Unidos Mexicanos.
 
-XXVI. Presentar con oportunidad y veracidad la declaración de situación patrimonial ante los organismos competentes, quienes estén obligados a ello en los términos que señala esta ley; y (sic)
+Recibir las promociones de carácter administrativo, que les sean presentadas a los servidores públicos de la administración pública estatal y municipal, en forma escrita por las administrados;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
+XXVI. Abstenerse de imponer condiciones, prestaciones u obligaciones que no estén previstas en las leyes o reglamentos;
 
-XXVII. Los funcionarios encargados de la hacienda pública estatal y municipal, que no realicen la presentación y entrega de las cuentas públicas dentro de los plazos establecidos y no señalen domicilio para recibir notificaciones, se harán acreedores a las sanciones previstas por la ley;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
+XXVII. Presentar con oportunidad y veracidad la declaración de situación patrimonial ante los organismos competentes, quienes estén obligados a ello en los términos que señala esta ley;
 
-XXVIII. Abstenerse de utilizar los vehículos propiedad de las autoridades a las que se refiere el artículo 3º de esta ley o que tengan en posesión bajo cualquier título, fuera del horario de trabajo del servicio del servidor público o en actividades distintas a las que requiere la naturaleza del empleo, cargo o comisión respectivo;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
+XXVIII. Los funcionarios encargados de la Hacienda Pública Estatal y Municipal, que no realicen la presentación y entrega de las cuentas públicas dentro de los plazos establecidos, se harán acreedores a las sanciones previstas por la ley;
 
-XXIX. Observar para con sus compañeros de trabajo, sin importar rangos jerárquicos, las debidas reglas del trato y abstenerse de incurrir en cualquier tipo de violencia física o verbal;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
+XXIX. Abstenerse de utilizar los vehículos propiedad de las autoridades a las que se refiere el artículo 3°. de esta ley o que tengan en posesión bajo cualquier título, fuera del horario de trabajo del servidor público o en actividades distintas a las que requiere la naturaleza del empleo, cargo o comisión respectivo;
 
-XXX. Abstenerse de incurrir en actos u omisiones que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos de las mujeres;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
+XXX. Atender la colaboración, requerimientos y apercibimientos fundados y motivados que les hagan las dependencias estatales, federales, municipales y organismo públicos descentralizados;
 
-XXXI. Denunciar ante el Instituto Jalisciense de las Mujeres o de la autoridad competente, cualquier incidente relacionado con violencia intrafamiliar o en contra de las mujeres, y
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
+XXXI. Consultar el Registro Policial previo al ingreso de toda persona a cualquier institución, y
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
 XXXII. Las demás que le impongan las leyes y reglamentos.
 
@@ -783,11 +833,17 @@ Incurre en responsabilidad el servidor público que por sí o por interpósita p
 
 Las sanciones por faltas administrativas consistirán en:
 
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
 I. Apercibimiento;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
 II. Amonestación por escrito;
 
-III. Suspensión en el empleo, cargo o comisión, hasta por treinta días;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+III. Suspensión en el empleo, cargo o comisión, hasta por ocho días;
 
 IV. Destitución;
 
@@ -797,7 +853,9 @@ VI. Sanción pecuniaria.
 
 El apercibimiento y la amonestación podrán hacerse en forma pública o privada, según lo considere prudente el superior jerárquico.
 
-La suspensión del empleo, cargo o comisión no podrá ser menor de tres días, ni mayor de treinta.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
+
+La suspensión del empleo, cargo a comisión no podrá ser menor de tres días, ni mayor de ocho.
 
 La inhabilitación temporal para ejercer empleo, cargo o comisión dentro del servicio público no podrá ser inferior de tres meses, ni mayor de seis años.
 
@@ -819,7 +877,7 @@ Los términos de prescripción se interrumpirán cuando se practiquen investigac
 
 ###### Artículo 66.
 
-Las autoridades a que se refiere el artículo 3º de la presente ley, serán competentes para imponer las sanciones previstas en el capítulo II del presente título y las previstas en el artículo 25 de la Ley de los Servidores Públicos del Estado de Jalisco y sus Municipios, bajo las siguientes reglas:
+Las autoridades a que se refiere el artículo 3° de la presente ley, serán competentes para imponer las sanciones previstas en el capítulo 11 (sic) del presente titulo y las previstas en el artículo 25 de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, bajo las siguientes reglas:
 
 > <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2001)</small>
 
@@ -863,9 +921,15 @@ III. En el Poder Judicial, incluyéndose los organismos jurisdiccionales autóno
 
 IV. En los gobiernos municipales, incluyendo los organismos públicos descentralizados o asociaciones de participación municipal mayoritaria, los órganos y autoridades que establezcan sus propias leyes y reglamentos;
 
-V. En la Comisión Estatal de Derechos Humanos, el presidente como titular del organismo y sus directores o equivalentes como superiores jerárquicos, conforme a la presente ley, la suya propia y sus reglamentos; y
+V. En la Comisión Estatal de Derechos Humanos, el presidente como titular del organismo y sus directores o equivalentes como superiores jerárquicos, conforme a la presente ley, la suya propia y sus reglamentos; y (sic)
 
-VI. En el Consejo Electoral del Estado, los órganos y autoridades que establezcan sus propias leyes, reglamentos y estatutos.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+VI. En el Instituto Electoral y de Participación Ciudadana del Estado, los órganos y autoridades que establezcan sus propias leyes, reglamentos y estatutos, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE FEBRERO DE 2009)</small>
+
+VII. En el Instituto de Transparencia e Información Pública del Estado, el Consejo, y la Junta Ejecutiva del mismo.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE FEBRERO DE 2007)</small>
 
@@ -1043,7 +1107,9 @@ h) En las entidades del sector público paraestatal, los directores, gerentes, c
 
 i) Los demás servidores públicos que determine el titular del Ejecutivo.
 
-III. En el Poder Judicial, ante el órgano que determine su Ley Orgánica: los magistrados, los consejeros generales, los oficiales mayores y jueces de primera instancia, secretarios, así como directores y subdirectores, y los demás que determine el pleno del Consejo General del Poder Judicial;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+III. En el Poder Judicial, ante el órgano que determine su Ley Orgánica: los magistrados, los consejeros generales, los oficiales mayores y jueces de primera instancia, secretarios, así como directores y subdirectores, y los demás que determine el Pleno del Consejo de la Judicatura;
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2004)</small>
 
@@ -1055,9 +1121,17 @@ V. En el Tribunal de Arbitraje y Escalafón, por conducto de su presidente: los 
 
 VI. En la Comisión Estatal de Derechos Humanos, ante el Congreso del Estado, por conducto del presidente incluyendo a éste: secretarios comisionados, directores de área y demás personal que determine el Congreso del Estado;
 
-VII. En el Consejo Electoral del Estado, ante el Congreso del Estado, por conducto del presidente incluyendo a éste: consejeros electorales con derecho a voto, directores de área y demás personal que determinen sus estatutos y reglamentos; y
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
-VIII. En todas las entidades a que se contrae este artículo, los jefes y subjefes de compras o quienes hagan sus veces ante los órganos que les correspondan, de conformidad a las fracciones que integran este artículo.
+VII. En el Instituto Electoral y de Participación Ciudadana del Estado, ante el Congreso del Estado, por conducto del presidente incluyendo a éste: consejeros electorales con derecho a voto, directores de área y demás personal que determinen sus estatutos y reglamentos;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+
+VIII. En el Instituto de Transparencia e Información Pública del Estado, ante el Congreso del Estado, por conducto del Presidente del Consejo, el Presidente, consejeros ciudadanos, Secretario Ejecutivo, directores y jefes de departamento y demás personal que determine su reglamento, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE FEBRERO DE 2009)</small>
+
+IX. En todas las entidades a que se contrae este articulo, los que ostenten la representación jurídica de la entidad para la que laboran, los jefes y subjefes de compras o quienes hagan sus veces ante los órganos que les correspondan, de conformidad a las fracciones que integran este artículo.
 
 ###### Artículo 79.
 
@@ -1105,7 +1179,7 @@ III. La final, dentro de los treinta días naturales siguientes a la conclusión
 
 ### Capítulo III. AUTORIDADES COMPETENTES PARA IMPONER SANCIONES ADMINISTRATIVAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 82.
 
@@ -1115,9 +1189,11 @@ En caso de incumplimiento de las obligaciones consignadas en las fracciones I y 
 
 En caso de incumplimiento de la obligación contenida en la fracción III del artículo 81, se instaurará el procedimiento a que alude el artículo 69 de este ordenamiento, pudiendo sancionarse al servidor público omiso con inhabilitación hasta por dos años para el desempeño de cargos públicos. En caso de subsistir la falta de presentación, la inhabilitación continuará indefinidamente hasta el momento en que se subsane la omisión.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 84.
 
-Los formatos en los cuales se debe presentar la declaración patrimonial, deberán ser proporcionados oportunamente a los servidores públicos obligados a rendirla, por los órganos a cargo de los cuales esté el control, registro y verificación de situación patrimonial.
+Los formatos en los cuales se debe presentar la declaración patrimonial, deberán ser proporcionados oportunamente a los servidores públicos obligados a rendirla por los órganos a cargo de los cuales este el control, registro y verificación de situación patrimonial, y en su caso proporcionarán los medios de identificación electrónica a solicitud expresa, del servidor público interesado en presentar su declaración vía Internet.
 
 ###### Artículo 85.
 
@@ -1346,3 +1422,7 @@ Octavo. Todos los recursos humanos asignados a la actual Auditoría Superior pas
 Noveno. El Poder Legislativo, en conjunto con la Auditoría Superior del Estado de Jalisco y el Poder Ejecutivo, llevarán a cabo las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto. Para tal efecto, una vez designado el Auditor Superior, deberá presentar a la Junta de Coordinación Política, así como a la Comisión de Hacienda y Presupuestos del Congreso del Estado, el anteproyecto de presupuesto de la Auditoria Superior del Estado.
 
 Décimo. Dentro del término de sesenta días naturales, contados a partir de la entrada en vigor del presente decreto, el Auditor Superior del Estado deberá expedir el reglamento interno de la Auditoría Superior de Jalisco, conforme a esta ley y las disposiciones aplicables para el Congreso del Estado.
+
+P.O. 10 DE FEBRERO DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
