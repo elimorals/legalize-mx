@@ -4,7 +4,7 @@ identifier: "COA-ley-del-servicio-estatal-de-empleo-para-el-estado-de-33859"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-29"
-last_updated: "2003-08-29"
+last_updated: "2009-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33859&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL SERVICIO ESTATAL DE EMPLEO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 29 de agosto de 2003.
 
@@ -39,9 +39,11 @@ LEY DEL SERVICIO ESTATAL DE EMPLEO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 1.
 
-Se crea el Instituto Estatal del Empleo como organismo público descentralizado de la Administración Pública del Estado, sectorizado a la Secretaría de Desarrollo Social, con personalidad jurídica y patrimonio propios, con domicilio en la Ciudad de Saltillo, Coahuila, sin perjuicio de que pueda establecer en otras ciudades de la entidad unidades operativas para el adecuado cumplimiento de su objeto.
+Se crea el Instituto Estatal del Empleo como organismo público descentralizado de la Administración Pública del Estado, con personalidad jurídica y patrimonio propios, con domicilio en la Ciudad de Saltillo, Coahuila, sin perjuicio de que pueda establecer en otras ciudades de la entidad, unidades operativas para el adecuado cumplimiento de su objeto.
 
 Para los efectos de esta ley, se denominará al Instituto que se crea como el Servicio Estatal.
 
@@ -652,3 +654,13 @@ LIC. ENRIQUE MARTINEZ Y MARTINEZ
 EL SECRETARIO DE GOBIERNO
 
 LIC. JOSE JESÚS RAUL SIFUENTES GUERRERO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE FEBRERO DE 2009.
+
+PRIMERO. Este decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Hasta en tanto no se expidan los acuerdos de sectorización de los organismos públicos descentralizados que forman parte de la Administración Pública del Estado, continuarán bajo la sectorización que dispongan los instrumentos jurídicos que los hubiesen creado.
+
+TERCERO. Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
