@@ -4,7 +4,7 @@ identifier: "COA-ley-de-turismo-para-el-estado-de-coahuila-de-zaragoza-3797"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-02"
-last_updated: "2006-11-03"
+last_updated: "2009-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DE TURISMO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE TURISMO PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 10 DE FEBRERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 2 de marzo de 1984.
 
@@ -528,3 +530,15 @@ P.O. 3 DE NOVIEMBRE DE 2006.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE FEBRERO DE 2009.
+
+PRIMERO. La presente ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley de Turismo para el Estado de Coahuila publicada en el Periódico Oficial de fecha 02 de marzo de 1984.
+
+TERCERO. Deberá emitirse el reglamento de la presente ley en un plazo de 180 días contados a partir de la entrada en vigor de esta ley.
+
+CUARTO. La instalación y funcionamiento del Consejo Estatal de Turismo, se determinará en el reglamento de la presente ley.
+
+QUINTO. Se derogan todas las disposiciones que se opongan a la presente Ley.
