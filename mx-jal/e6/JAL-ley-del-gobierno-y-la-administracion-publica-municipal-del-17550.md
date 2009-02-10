@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2008-12-25"
+last_updated: "2009-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2009.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -2437,11 +2437,17 @@ La declaración de situación patrimonial debe presentarse en los plazos y térm
 
 En caso de incumplimiento de las obligaciones consignadas en los artículos de este capítulo, el Ayuntamiento debe exhortar al omiso para que, en un término de quince días, cumpla con su obligación. Si transcurrido dicho término no cumple, se debe determinar su destitución en el empleo, cargo o comisión.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 147.
 
-Para efectos de registro y control, el Ayuntamiento debe remitir al órgano competente del Congreso del Estado, las declaraciones de situación patrimonial que le sean presentadas, en un plazo de diez días hábiles a partir de su recepción.
+El Ayuntamiento debe recibir las declaraciones de situación patrimonial que le sean presentadas y remitirlas en un plazo de diez días al órgano competente del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2009)</small>
+
+Artículo 147 bis. Para efectos de registro, control y verificación, los Ayuntamientos dentro del plazo de 45 días naturales contados a partir de su entrada en funciones, deberán remitir un padrón de servidores públicos municipales obligados a presentar. declaración patrimonial, debiendo informar al Órgano competente del Congreso del Estado cualquier modificación en el citado padrón, dentro de los quince días siguientes a que se efectúe el movimiento, precisando la fecha en que el servidor público inicio sus labores o las concluyó.
+
+Los munícipes que incumplan esta obligación, incurrirán en responsabilidad, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2008)</small>
 
@@ -2774,3 +2780,7 @@ SEGUNDO. Los ayuntamientos tendrán un año a partir de la entrada en vigor del 
 P.O. 25 DE DICIEMBRE DE 2008.
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 10 DE FEBRERO DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
