@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2008-07-01"
+last_updated: "2009-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ CÓDIGO FISCAL DE LA FEDERACIÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JULIO DE 2008.
 
-ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 30 DE ENERO DE 2007.
+ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 10 DE FEBRERO DE 2009.
 
 Código publicado en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -844,11 +844,11 @@ Para determinar las contribuciones al comercio exterior, así como para pagar aq
 
 La equivalencia del peso mexicano con monedas extranjeras distintas al dólar de los Estados Unidos de América que regirá para efectos fiscales, se calculará multiplicando el tipo de cambio a que se refiere el párrafo tercero del presente artículo, por el equivalente en dólares de la moneda de que se trate, de acuerdo con la tabla que mensualmente publique el Banco de México durante la primera semana del mes inmediato siguiente a aquél al que corresponda.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA SEGUNDA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 30 DE ENERO DE 2007.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2004)</small>
 
-Se aceptará como medio de pago de las contribuciones, los cheques certificados o de caja y la transferencia electrónica de fondos a favor de la Tesorería de la Federación, de conformidad con las reglas de carácter general que expida el Servicio de Administración Tributaria. Los contribuyentes personas físicas que realicen actividades empresariales y que en el ejercicio inmediato anterior hubiesen obtenido ingresos inferiores a $1,967,870.00, así como las personas físicas que no realicen actividades empresariales y que hubiesen obtenido en dicho ejercicio ingresos inferiores a $337,350.00, efectuarán el pago de sus contribuciones en efectivo, transferencia electrónica de fondos a favor de la Tesorería de la Federación o cheques personales del mismo banco, siempre que en este último caso, se cumplan las condiciones que al efecto establezca el Reglamento de este Código. Se entiende por transferencia electrónica de fondos, el pago de las contribuciones que por instrucción de los contribuyentes, a través de la afectación de fondos de su cuenta bancaria a favor de la Tesorería de la Federación, se realiza por las instituciones de crédito, en forma electrónica.
+Se aceptará como medio de pago de las contribuciones, los cheques certificados o de caja y la transferencia electrónica de fondos a favor de la Tesorería de la Federación, de conformidad con las reglas de carácter general que expida el Servicio de Administración Tributaria. Los contribuyentes personas físicas que realicen actividades empresariales y que en el ejercicio inmediato anterior hubiesen obtenido ingresos inferiores a $2,160,130.00 así como las personas físicas que no realicen actividades empresariales y que hubiesen obtenido en dicho ejercicio ingresos inferiores a $370,310.00 efectuarán el pago de sus contribuciones en efectivo, transferencia electrónica de fondos a favor de la Tesorería de la Federación o cheques personales del mismo banco, siempre que en este último caso, se cumplan las condiciones que al efecto establezca el Reglamento de este Código. Se entiende por transferencia electrónica de fondos, el pago de las contribuciones que por instrucción de los contribuyentes, a través de la afectación de fondos de su cuenta bancaria a favor de la Tesorería de la Federación, se realiza por las instituciones de crédito, en forma electrónica.
 
 > <small>(F. DE E., D.O.F. 28 DE MARZO DE 1984)</small>
 
@@ -1052,9 +1052,11 @@ La devolución se aplicará primero a intereses y, posteriormente, a las cantida
 
 Las autoridades fiscales efectuarán la devolución mediante depósito en la cuenta del contribuyente, para lo cual, éste deberá proporcionar en la solicitud de devolución o en la declaración correspondiente el número de su cuenta en los términos señalados en el párrafo sexto del artículo 22 de este Código. Para estos efectos, los estados de cuenta que expidan las instituciones financieras serán considerados como comprobante del pago de la devolución respectiva. En los casos en los que el día que venza el plazo a que se refiere el precepto citado no sea posible efectuar el depósito por causas imputables a la institución financiera designada por el contribuyente, dicho plazo se suspenderá hasta en tanto pueda efectuarse dicho depósito. También se suspenderá el plazo cuando no sea posible efectuar el depósito en la cuenta proporcionada por el contribuyente por ser dicha cuenta inexistente, contenga errores el número de la cuenta o ésta se haya cancelado, hasta en tanto el contribuyente proporcione el número de la cuenta correcta.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
+
 > <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
-Las personas físicas que hubiesen obtenido en el ejercicio inmediato anterior ingresos inferiores a $150,000.00, podrán optar por que la devolución se les realice mediante cheque nominativo. En estos casos, se considerará que la devolución está a disposición del contribuyente al día hábil siguiente en que surta efectos la notificación de la autorización de la devolución respectiva.
+Las personas físicas que hubiesen obtenido en el ejercicio inmediato anterior ingresos inferiores a $170,370.00, podrán optar por que la devolución se les realice mediante cheque nominativo. En estos casos, se considerará que la devolución está a disposición del contribuyente al día hábil siguiente en que surta efectos la notificación de la autorización de la devolución respectiva.
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2004)</small>
 
@@ -1704,11 +1706,11 @@ Si en la declaración complementaria se determina que el pago efectuado fue meno
 
 Las personas físicas con actividades empresariales y las personas morales que se encuentran en alguno de los supuestos de las siguientes fracciones, están obligadas a dictaminar, en los términos del artículo 52 del Código Fiscal de la Federación, sus estados financieros por contador público autorizado.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-I. Las que en el ejercicio inmediato anterior hayan obtenido ingresos acumulables superiores a $30,470,980.00, que el valor de su activo determinado en los términos de la Ley del Impuesto al Activo sea superior a $60,941,970.00 o que por lo menos 300 de sus trabajadores les hayan prestado servicios en cada uno de los meses del ejercicio inmediato anterior. Las cantidades a que se refiere este párrafo se actualizarán anualmente, en los términos del artículo 17-A de este ordenamiento.
+I. Las que en el ejercicio inmediato anterior hayan obtenido ingresos acumulables superiores a $34,803,950.00, que el valor de su activo determinado en los términos de la Ley del Impuesto al Activo sea superior a $69,607,920.00 o que por lo menos 300 de sus trabajadores les hayan prestado servicios en cada uno de los meses del ejercicio inmediato anterior. Las cantidades a que se refiere este párrafo se actualizarán anualmente, en los términos del artículo 17-A de este ordenamiento.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -3128,11 +3130,11 @@ Cuando las multas no se paguen en la fecha establecida en las disposiciones fisc
 
 Para efectuar el pago de las cantidades que resulten en los términos de este artículo, las mismas se ajustarán de conformidad con el antepenúltimo párrafo del artículo 20 de este Código.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA SEGUNDA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 30 DE ENERO DE 2007.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2004)</small>
 
-Las multas que este Capítulo establece en por cientos o en cantidades determinadas entre una mínima y otra máxima, que se deban aplicar a los contribuyentes cuyos ingresos en el ejercicio inmediato anterior al en que se aplica la multa no hayan excedido de $1,967,870.00, se considerarán reducidas en un 50%, salvo que en el precepto en que se establezcan se señale expresamente una multa menor para estos contribuyentes.
+Las multas que este Capítulo establece en por cientos o en cantidades determinadas entre una mínima y otra máxima, que se deban aplicar a los contribuyentes cuyos ingresos en el ejercicio inmediato anterior al en que se aplica la multa no hayan excedido de $2,160,130.00, se considerarán reducidas en un 50%, salvo que en el precepto en que se establezcan se señale expresamente una multa menor para estos contribuyentes.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -3388,41 +3390,41 @@ IX. No verificar que la clave del registro federal de contribuyentes aparezca en
 
 A quien cometa las infracciones relacionadas con el Registro Federal de Contribuyentes a que se refiere el artículo 79, se impondrán las siguientes multas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
-I. De $2,140.00 a $6,430.00, a las comprendidas en las fracciones I, II y VI.
+I. De $2,440.00 a $7,340.00, a las comprendidas en las fracciones I, II y VI.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA SEGUNDA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 30 DE ENERO DE 2007.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2004)</small>
 
-II. De $2,770.00 a $5,530.00, a la comprendida en la fracción III, salvo tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección III de la Ley del Impuesto sobre la Renta, cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de $1,967,870.00, supuestos en los que la multa será de $920.00 a $1,850.00.
+II. De $3,040.00 a $6,070.00, a la comprendida en la fracción III, salvo tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección III de la Ley del Impuesto sobre la Renta, cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de $2,160,130.00, supuestos en los que la multa será de $1,010.00 a $2,030.00.
 
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 III. Para la señalada en la fracción IV:
 
-a) Tratándose de declaraciones, se impondrá una multa entre el 2% de las contribuciones declaradas y $4,550.00. En ningún caso la multa que resulte de aplicar el porcentaje a que se refiere este inciso será menor de $1,820.00 ni mayor de $4,550.00.
+a) Tratándose de declaraciones, se impondrá una multa entre el 2% de las contribuciones declaradas y $5,200.00. En ningún caso la multa que resulte de aplicar el porcentaje a que se refiere este inciso será menor de $2,080.00 ni mayor de $5,200.00.
 
-b) De $550.00 a $1,270.00, en los demás documentos.
+b) De $630.00 a $1,450.00, en los demás documentos.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
-IV. De $10,720.00 a $21,430.00, para la establecida en la fracción V.
+IV. De $12,240.00 a $24,480.00, para la establecida en la fracción V.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-V. De $2,130.00 a $6,400.00, a la comprendida en la fracción VII.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-VI. De $10,660.00 a $21,320.00, a las comprendidas en las fracciones VIII y IX.
+V. De $2,430.00 a $7,310.00, a la comprendida en la fracción VII.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+VI. De $12,180.00 a $24,350.00 a las comprendidas en las fracciones VIII y IX.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -3558,219 +3560,225 @@ XXXI. No proporcionar la información a que se refieren los artículos 86, fracc
 
 A quien cometa las infracciones relacionadas con la obligación de presentar declaraciones, solicitudes o avisos, así como de expedir constancias a que se refiere el artículo 81, se impondrán las siguientes multas:
 
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 I. Para la señalada en la fracción I:
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-a) De $860.00 a $10,720.00, tratándose de declaraciones, por cada una de las obligaciones no declaradas. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, por dicha declaración también se aplicará la multa a que se refiere este inciso.
+a) De $980.00 a $12,240.00, tratándose de declaraciones, por cada una de las obligaciones no declaradas. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, por dicha declaración también se aplicará la multa a que se refiere este inciso.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-b) De $860.00 a $21,430.00, por cada obligación a que esté afecto, al presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento.
+b) De $980.00 a $24,480.00 por cada obligación a que esté afecto, al presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento.
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-c) De $8,220.00 a $16,430.00, por no presentar el aviso a que se refiere el primer párrafo del artículo 23 de este Código.
+c) De $9,390.00 a $18,770.00, por no presentar el aviso a que se refiere el primer párrafo del artículo 23 de este Código.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-d) De $8,780.00 a $17,570.00, por no presentar las declaraciones en los medios electrónicos estando obligado a ello, presentarlas fuera del plazo o no cumplir con los requerimientos de las autoridades fiscales para presentarlas o cumplirlos fuera de los plazos señalados en los mismos.
+d) De $10,030.00 a $20,070.00, por no presentar las declaraciones en los medios electrónicos estando obligado a ello, presentarlas fuera del plazo o no cumplir con los requerimientos de las autoridades fiscales para presentarlas o cumplirlos fuera de los plazos señalados en los mismos.
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-e) De $880.00 a $2,810.00, en los demás documentos.
+e) De $1,010.00 a $3,210.00 en los demás documentos.
 
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 II. Respecto de la señalada en la fracción II:
 
-a) De $640.00 a $2,140.00, por no poner el nombre o domicilio o ponerlos equivocadamente, por cada uno.
+a) De $730.00 a $2,440.00 por no poner el nombre o domicilio o ponerlos equivocadamente, por cada uno.
 
-b) De $30.00 a $50.00, por cada dato no asentado o asentado incorrectamente en la relación de clientes y proveedores contenidas en las formas oficiales.
+b) De $30.00 a $60.00 por cada dato no asentado o asentado incorrectamente en la relación de clientes y proveedores contenidas en las formas oficiales.
 
-c) De $110.00 a $210.00, por cada dato no asentado o asentado incorrectamente. Siempre que se omita la presentación de anexos, se calculará la multa en los términos de este inciso por cada dato que contenga el anexo no presentado.
+c) De $130.00 a $240.00, por cada dato no asentado o asentado incorrectamente. Siempre que se omita la presentación de anexos, se calculará la multa en los términos de este inciso por cada dato que contenga el anexo no presentado.
 
-d) De $430.00 a $1,070.00, por no señalar la clave que corresponda a su actividad preponderante conforme al catálogo de actividades que publique la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, o señalarlo equivocadamente.
+d) De $490.00 a $1,220.00 por no señalar la clave que corresponda a su actividad preponderante conforme al catálogo de actividades que publique la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, o señalarlo equivocadamente.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-e) De $2,630.00 a $8,780.00, por presentar medios electrónicos que contengan declaraciones incompletas, con errores o en forma distinta a lo señalado por las disposiciones fiscales.
+e) De $3,000.00 a $10,030.00, por presentar medios electrónicos que contengan declaraciones incompletas, con errores o en forma distinta a lo señalado por las disposiciones fiscales.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-f) De $780.00 a $2,330.00, por no presentar firmadas las declaraciones por el contribuyente o por el representante legal debidamente acreditado.
+f) De $890.00 a $2,660.00, por no presentar firmadas las declaraciones por el contribuyente o por el representante legal debidamente acreditado.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-g) De $390.00 a $1,050.00, en los demás casos.
+g) De $450.00 a $1,200.00, en los demás casos.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-III. De $860.00 a $21,430.00, tratándose de la señalada en la fracción III, por cada requerimiento.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-IV. De $10,720.00 a $21,430.00, respecto de la señalada en la fracción IV, salvo tratándose de contribuyentes que de conformidad con la Ley del Impuesto sobre la Renta, estén obligados a efectuar pagos provisionales trimestrales o cuatrimestrales, supuestos en los que la multa será de $1,070.00 a $6,430.00.
+III. De $980.00 a $24,480.00, tratándose de la señalada en la fracción III, por cada requerimiento.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
+
+(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996) (F. DE E., D.O.F. 31 DE MARZO DE 2009)
+
+IV. De $12,240.00 a $24,480.00, respecto de la señalada en la fracción IV, salvo tratándose de contribuyentes que de conformidad con la Ley del Impuesto sobre la Renta, estén obligados a efectuar pagos provisionales trimestrales o cuatrimestrales, supuestos en los que la multa será de $1,220.00 a $7,340.00.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2006)</small>
 
-V. Para la señalada en la fracción V, la multa será de $7,406.00 a $14,811.00.
+V. Para la señalada en la fracción V, la multa será de $8,410.00 a $16,820.00.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-VI. Para la señalada en la fracción VI la multa será de $2,140.00 a $6,430.00.
+VI. Para la señalada en la fracción VI la multa será de $2,440.00 a $7,340.00.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA SEGUNDA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 30 DE ENERO DE 2007.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2004)</small>
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+VII. De $610.00 a $6,170.00, para la establecida en la fracción VII.
 
-VII. De $560.00 a $5,620.00, para la establecida en la fracción VII.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-VIII. Para la señalada en la fracción VIII, la multa será de $40,660.00 a $121,970.00.
+VIII. Para la señalada en la fracción VIII, la multa será de $46,440.00 a $139,310.00.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-IX. De $6,430.00 a $21,430.00, para la establecida en la fracción IX.
+IX. De $7,340.00 a $24,480.00 para la establecida en la fracción IX.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-X. De $20.00 a $40.00, para la establecida en la fracción X, por cada comprobante que impriman y respecto de los cuales no proporcionen información. En caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días y, en su caso, la cancelación de la autorización para imprimir comprobantes. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
+X. De $20.00 a $50.00, para la establecida en la fracción X, por cada comprobante que impriman y respecto de los cuales no proporcionen información. En caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días y, en su caso, la cancelación de la autorización para imprimir comprobantes. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-XI. De $81,670.00 a $108,900.00, para la establecida en la fracción XI, por cada sociedad controlada no incluida en la solicitud de autorización para determinar el resultado fiscal consolidado o no incorporada a la consolidación fiscal.
+XI. De $93,280.00 a $124,390.00, para la establecida en la fracción XI, por cada sociedad controlada no incluida en la solicitud de autorización para determinar el resultado fiscal consolidado o no incorporada a la consolidación fiscal.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-XII. De $27,860.00 a $42,870.00, para la establecida en la fracción XII, por cada aviso de incorporación o desincorporación no presentado o presentado extemporáneamente, aun cuando el aviso se presente en forma espontánea.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-XIII. De $6,430.00 a $21,430.00, para la establecida en la fracción XIII.
+XII. De $31,820.00 a $48,970.00, para la establecida en la fracción XII, por cada aviso de incorporación o desincorporación no presentado o presentado extemporáneamente, aun cuando el aviso se presente en forma espontánea.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-XIV. De $6,430.00 a $15,000.00, para la establecida en la fracción XIV.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-XV. De $53,590.00 a $107,170.00, para la establecida en la fracción XV.
+XIII. De $7,340.00 a $24,480.00, para la establecida en la fracción XIII.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+XIV. De $7,340.00 a $17,130.00, para la establecida en la fracción XIV.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+XV. De $61,210.00 a $122,410.00, para la establecida en la fracción XV.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-XVI. De $7,750.00 a $15,500.00, a la establecida en la fracción XVI.
+XVI. De $8,850.00 a $17,700.00, a la establecida en la fracción XVI.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-XVII. De $47,640.00 a $95,280.00, para la establecida en la fracción XVII.
+XVII. De $54,410.00 a $108,830.00, para la establecida en la fracción XVII.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-XVIII. De $6,080.00 a $10,120.00, para la establecida en la fracción XVIII.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-XIX. De $10,120.00 a $20,250.00, para la establecida en la fracción XIX.
+XVIII. De $6,940.00 a $11,560.00, para la establecida en la fracción XVIII.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA SEGUNDA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 30 DE ENERO DE 2007.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+XIX. De $11,560.00 a $23,130.00, para la establecida en la fracción XIX.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 2004)</small>
 
-XX. De $3,370.00 a $6,750.00, para la establecida en la fracción XX.
+XX. De $3,700.00 a $7,410.00 para la establecida en la fracción XX.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-XXI. De $77,520.00 a $155,040.00, para la establecida en la fracción XXI.
+XXI. De $88,540.00 a $177,090.00, para la establecida en la fracción XXI.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA SEGUNDA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 30 DE ENERO DE 2007.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
-> <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 2004)</small>
+XXII. De $3,700.00 a $7,410.00, por cada informe no proporcionado a los contribuyentes, para la establecida en la fracción XXII.
 
-XXII. De $3,370.00 a $6,750.00, por cada informe no proporcionado a los contribuyentes, para la establecida en la fracción XXII.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-XXIII. De $9,300.00 a $17,050.00, a la establecida en la fracción XXIII.
+XXIII. De $10,620.00 a $19,470.00, a la establecida en la fracción XXIII.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA SEGUNDA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 30 DE ENERO DE 2007.</small>
-
-> <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 2004)</small>
-
-XXIV. De $3,370.00 a $6,750.00, por cada constancia no proporcionada, para la establecida en la fracción XXIV.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA SEGUNDA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 30 DE ENERO DE 2007.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 2004)</small>
 
-XXV. De $22,490.00 a $39,360.00, para la establecida en la fracción XXV. En el caso de reincidencia, la sanción consistirá en la clausura del establecimiento del contribuyente, por un plazo de 3 a 15 días.
+XXIV. De $3,700.00 a $7,410.00, por cada constancia no proporcionada, para la establecida en la fracción XXIV.
 
-Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
-> <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2006)</small>
+XXV. De $24,690.00 a $43,210.00 para la establecida en la fracción XXV. En el caso de reincidencia, la sanción consistirá en la clausura del establecimiento del contribuyente, por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
-XXVI. De $7,406.00 a $14,811.00, a la establecida en la fracción XXVI.
-
-> <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2006)</small>
-
-XXVII. De $7,406.00 a $14,811.00, a la establecida en la fracción XXVII.
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2006)</small>
 
-XXVIII. De $450.00 a $680.00, a la establecida en la fracción XXVIII.
+XXVI. De $8,410.00 a $16,820.00, a la establecida en la fracción XXVI.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2006)</small>
 
-XXIX. De $30,000.00 a $150,000.00, a la establecida en la fracción XXIX. En caso de reincidencia la multa será de $60,000.00 a $300,000.00, por cada requerimiento que se formule.
+XXVII. De $8,410.00 a $16,820.00 a la establecida en la fracción XXVII.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2006)</small>
 
-XXX. De $98,157.00 a $139,754, a la establecida en la fracción XXX.
+XXVIII. De $510.00 a $770.00, a la establecida en la fracción XXVIII.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2006)</small>
 
-XXXI. De $98,157.00 a $139,754.00, a la establecida en la fracción XXXI.
+XXIX. De $34,070.00 a $170,370.00, a la establecida en la fracción XXIX. En caso de reincidencia la multa será de $68,150.00 a $340,740.00, por cada requerimiento que se formule.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
+
+> <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2006)</small>
+
+XXX. De $111,490.00 a $158,730.00, a la establecida en la fracción XXX.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
+
+> <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2006)</small>
+
+XXXI. De $111,490.00 a $158,730.00, a la establecida en la fracción XXXI.
 
 ###### Artículo 83.
 
@@ -3836,87 +3844,89 @@ XVI. No presentar el reporte a que se refiere la fracción XX del artículo 86 d
 
 A quien cometa las infracciones relacionadas con la obligación de llevar contabilidad a que se refiere el artículo 83, se impondrán las siguientes sanciones:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-I. De $940.00 a $9,340.00 a la comprendida en la fracción I.
+I. De $1,070.00 a $10,670.00 a la comprendida en la fracción I.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
-
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-II. De $200.00 a $4,670.00 a las establecidas en las fracciones II y III.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-III. De $200.00 a $3,740.00 a la señalada en la fracción IV.
+II. De $230.00 a $5,330.00 a las establecidas en las fracciones II y III.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA SEGUNDA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 30 DE ENERO DE 2007.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+III. De $230.00 a $4,270.00 a la señalada en la fracción IV.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2004)</small>
 
-IV. De $11,000.00 a $62,860.00 a la señalada en la fracción VII, salvo tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección III, de la Ley del Impuesto sobre la Renta, cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de $1,967,870.00, supuestos en los que la multa será de $1,100.00 a $2,200.00. En el caso de reincidencia, las autoridades fiscales podrán, además, clausurar preventivamente el establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
+IV. De $12,070.00 a $69,000.00 a la señalada en la fracción VII, salvo tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección III, de la Ley del Impuesto sobre la Renta, cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de $2,160,130.00 supuestos en los que la multa será de $1,210.00 a $2,410.00. En el caso de reincidencia, las autoridades fiscales podrán, además, clausurar preventivamente el establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
-
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-V. De $570.00 a $7,470.00 a la señalada en la fracción VI.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA SEGUNDA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 30 DE ENERO DE 2007.</small>
-
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2004)</small>
-
-VI. De $11,000.00 a $62,860.00, a la señalada en la fracción IX cuando se trate de la primera infracción, salvo tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección III de la Ley del Impuesto sobre la Renta, cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de $1,967,870.00, supuestos en los que la multa será de $1,100.00 a $2,200.00 por la primera infracción. En el caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-VII. De $1,870.00 a $9,340.00 a la establecida en la fracción VIII. La multa procederá sin perjuicio de que los documentos microfilmados en contravención a las disposiciones fiscales carezcan de valor probatorio.
+V. De $650.00 a $8,530.00 a la señalada en la fracción VI.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
+
+(REFORMADA, D.O.F. 5 DE ENERO DE 2004) (F. DE E., D.O.F. 31 DE MARZO DE 2009)
+
+VI. De $12,070.00 a $69,000.00 a la señalada en la fracción IX cuando se trate de la primera infracción, salvo tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección III de la Ley del Impuesto sobre la Renta, cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de $2,160,130.00, supuestos en los que la multa será de $1,210.00 a $2,410.00 por la primera infracción. En el caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+VII. De $2,140.00 a $10,670.00 a la establecida en la fracción VIII. La multa procederá sin perjuicio de que los documentos microfilmados en contravención a las disposiciones fiscales carezcan de valor probatorio.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-VIII. De $4,290.00 a $21,430.00, a la comprendida en la fracción XIII.
+VIII. De $4,900.00 a $24,480.00, a la comprendida en la fracción XIII.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-IX. De $8,570.00 a $85,740.00 y, en su caso, la cancelación de la autorización para recibir donativos deducibles, a la comprendida en la fracción X.
+IX. De $9,790.00 a $97,930.00 y, en su caso, la cancelación de la autorización para recibir donativos deducibles, a la comprendida en la fracción X.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-X. De $610.00 a $10,160.00 y la cancelación de la autorización para recibir donativos deducibles, a la comprendida en la fracción XI.
+X. De $700.00 a $11,600.00 y la cancelación de la autorización para recibir donativos deducibles, a la comprendida en la fracción XI.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-XI. De $410.00 a $8,130.00, a la comprendida en la fracción XII.
+XI. De $470.00 a $9,290.00, a la comprendida en la fracción XII.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-XII. De $1,070.00 a $3,220.00, a la comprendida en la fracción XIV, por cada documento en el que se omita incluir la clave vehicular referida.
+XII. De $1,220.00 a $3,680.00, a la comprendida en la fracción XIV, por cada documento en el que se omita incluir la clave vehicular referida.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA SEGUNDA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 30 DE ENERO DE 2007.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 2004)</small>
 
-XIII. De $1,120.00 a $3,370.00, a la señalada en la fracción XV, por cada operación no identificada en contabilidad.
+XIII. De $1,230.00 a $3,700.00, a la señalada en la fracción XV, por cada operación no identificada en contabilidad.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2006)</small>
 
-XIV. De $20,000.00 a $30,000.00 a la comprendida en la fracción XVI, cuando el reporte no sea presentado por el contribuyente y de $7,406.00 a $14,811.00, cuando el reporte no sea presentado ante la asamblea de socios o accionistas por las personas señaladas en la fracción XX del artículo 86 de la Ley del Impuesto sobre la Renta.
+XIV. De $22,720.00 a $34,070.00 a la comprendida en la fracción XVI, cuando el reporte no sea presentado por el contribuyente y de $8,410.00 a $16,820.00, cuando el reporte no sea presentado ante la asamblea de socios o accionistas por las personas señaladas en la fracción XX del artículo 86 de la Ley del Impuesto sobre la Renta.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -3950,41 +3960,41 @@ VIII. (DEROGADA, D.O.F. 5 DE ENERO DE 2004)
 
 A quien cometa las infracciones relacionadas con las instituciones de crédito a que se refiere el artículo 84-A de este Código, se le impondrán las siguientes multas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
-I. De $200.00 a $9,340.00 a la comprendida en la fracción I.
+I. De $230.00 a $10,670.00 a la comprendida en la fracción I.
 
 II. Por el 20% del valor del cheque a la establecida en la fracción II.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-III. De $30.00 a $40.00 por cada dato no asentado o asentado incorrectamente, a la señalada en la fracción III.
+III. De $30.00 a $50.00 por cada dato no asentado o asentado incorrectamente, a la señalada en la fracción III.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-IV. De $310,090.00 a $620,170.00, a la establecida en la fracción IV.
+IV. De $354,180.00 a $708,360.00 a la establecida en la fracción IV.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-V. De $4,070.00 a $60,980.00, a la establecida en la fracción V.
+V. De $4,650.00 a $69,650.00 a la establecida en la fracción V.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-VI. De $15,500.00 a $46,510.00, a la establecida en la fracción VI.
+VI. De $17,700.00 a $53,120.00 a la establecida en la fracción VI.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA SEGUNDA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 30 DE ENERO DE 2007.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2004)</small>
 
-VII. De $60.00 a $130.00, por cada estado de cuenta no emitido en términos del artículo 32-B de este Código, a la señalada en la fracción VII.
+VII. De $70.00 a $140.00, por cada estado de cuenta no emitido en términos del artículo 32-B de este Código, a la señalada en la fracción VII.
 
 VIII. (DEROGADA, D.O.F. 5 DE ENERO DE 2004)
 
@@ -3994,13 +4004,13 @@ VIII. (DEROGADA, D.O.F. 5 DE ENERO DE 2004)
 
 Son infracciones de los usuarios de los servicios, así como de los cuentahabientes de las instituciones de crédito a que se refiere el último párrafo del artículo 30-A de este Código, la omisión total o parcial de la obligación de proporcionar la información relativa a su nombre, denominación o razón social, domicilio, clave del registro federal de contribuyentes o los datos que se requieran para formar dicha clave o la que la sustituya, que les soliciten los prestadores de servicios y las instituciones de crédito, así como proporcionar datos incorrectos o falsos.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 84-D.
 
-A quien cometa las infracciones a que se refiere el artículo 84-C de este Código, se impondrá una multa de $260.00 por cada omisión, salvo a los usuarios del sistema financiero, para los cuales será de $790.00 por cada una de las mismas.
+A quien cometa las infracciones a que se refiere el artículo 84-C de este Código, se impondrá una multa de $300.00 por cada omisión, salvo a los usuarios del sistema financiero, para los cuales será de $900.00 por cada una de las mismas.
 
 > <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
@@ -4008,13 +4018,13 @@ A quien cometa las infracciones a que se refiere el artículo 84-C de este Códi
 
 Se considera infracción en la que pueden incurrir las empresas de factoraje financiero y las sociedades financieras de objeto múltiple en relación a las obligaciones a que se refieren el primero y segundo párrafos del Artículo 32-C de este Código, el no efectuar la notificación de la transmisión de créditos operada en virtud de un contrato de factoraje financiero, o el negarse a recibir dicha notificación.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 84-F.
 
-De $4,070.00 a $40,660.00, a quien cometa la infracción a que se refiere el artículo 84-E.
+De $4,650.00 a $46,440.00, a quien cometa la infracción a que se refiere el artículo 84-E.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -4026,15 +4036,15 @@ Se considera infracción en la que pueden incurrir las casas de bolsa en relaci�
 
 Asimismo, se considera infracción en las que pueden incurrir las casas de bolsa, el no proporcionar la información a que se refiere el artículo 60 de la Ley del Impuesto sobre la Renta, respecto de los contribuyentes que enajenen acciones con su intermediación.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA SEGUNDA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 30 DE ENERO DE 2007.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2004)</small>
 
 ###### Artículo 84-H.
 
-A la casa de bolsa que cometa la infracción a que se refiere el primer párrafo del artículo 84-G de este Código se le impondrá una multa de $60.00 a $130.00 por cada traspaso asentado en un estado de cuenta que no cumpla los requisitos a que se refiere el artículo 32-E de este Código.
+A la casa de bolsa que cometa la infracción a que se refiere el primer párrafo del artículo 84-G de este Código se le impondrá una multa de $70.00 a $140.00 por cada traspaso asentado en un estado de cuenta que no cumpla los requisitos a que se refiere el artículo 32-E de este Código.
 
-A la casa de bolsa que cometa la infracción a que se refiere el segundo párrafo del artículo 84-G de este Código, se le impondrá una multa de $3,370.00 a $6,750.00 por cada informe no proporcionado.
+A la casa de bolsa que cometa la infracción a que se refiere el segundo párrafo del artículo 84-G de este Código, se le impondrá una multa de $3,700.00 a $7,410.00 por cada informe no proporcionado.
 
 ###### Artículo 85.
 
@@ -4062,35 +4072,35 @@ V. Declarar falsamente que cumplen los requisitos que se señalan en el artícul
 
 A quien comenta (sic) las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el artículo 85, se impondrán las siguientes multas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-I. De $10,720.00 a $32,150.00, a la comprendida en la fracción I.
+I. De $12,240.00 a $36,720.00, a la comprendida en la fracción I.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-II. De $940.00 a $38,700.00 a la establecida en la fracción II.
+II. De $1,070.00 a $44,200.00 a la establecida en la fracción II.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-III. De $2,030.00 a $50,820.00, a la establecida en la fracción III.
+III. De $2,320.00 a $58,050.00, a la establecida en la fracción III.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-IV. De $81,910.00 a $109,210.00, a la comprendida en la fracción IV.
+IV. De $93,560.00 a $124,740.00, a la comprendida en la fracción IV.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-V. De $4,650.00 a $7,750.00, sin perjuicio de las demás sanciones que procedan, a la establecida en la fracción V.
+V. De $5,310.00 a $8,850.00 sin perjuicio de las demás sanciones que procedan, a la establecida en la fracción V.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 2004)</small>
 
@@ -4120,29 +4130,29 @@ IV. No destruir los envases vacíos que contenían bebidas alcohólicas cuando s
 
 A quienes cometan las infracciones señaladas en el artículo 86-A de este Código, se impondrán las siguientes multas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-I. De $20.00 a $50.00, a la comprendida en la fracción I, por cada marbete o precinto no adherido.
+I. De $20.00 a $60.00, a la comprendida en la fracción I, por cada marbete o precinto no adherido.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-II. De $30.00 a $80.00, a la comprendida en la fracción II, por cada marbete o precinto usado indebidamente.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-III. De $20.00 a $40.00, a la comprendida en la fracción III, por cada envase o recipiente que carezca de marbete o precinto, según se trate.
+II. De $30.00 a $90.00, a la comprendida en la fracción II, por cada marbete o precinto usado indebidamente.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA SEGUNDA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 30 DE ENERO DE 2007.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+III. De $20.00 a $50.00, a la comprendida en la fracción III, por cada envase o recipiente que carezca de marbete o precinto, según se trate.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 2004)</small>
 
-IV. De $30.00 a $70.00, a la comprendida en la fracción IV, por cada envase vacío no destruido.
+IV. De $30.00 a $80.00, a la comprendida en la fracción IV, por cada envase vacío no destruido.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -4166,13 +4176,13 @@ Son infracciones de los fabricantes, productores o envasadores de bebidas alcoh�
 
 Asimismo, son infracciones de los productores o envasadores de bebidas alcohólicas, no llevar los controles físico o volumétrico a que se refieren las fracciones X y XVI del artículo 19 de la Ley del Impuesto Especial sobre Producción y Servicios o llevarlos en forma distinta a lo que establecen dichas fracciones.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 86-F.
 
-A quienes cometan las infracciones señaladas en el artículo 86-E de este Código, se les impondrá una multa de $30,370.00 a $70,870.00. En caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
+A quienes cometan las infracciones señaladas en el artículo 86-E de este Código, se les impondrá una multa de $34,690.00 a $80,950.00 En caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
 ###### Artículo 87.
 
@@ -4196,13 +4206,13 @@ IV. Divulgar, hacer uso personal o indebido de la información confidencial prop
 
 V. Revelar a terceros, en contravención a lo dispuesto por el artículo 69 de este Código, la información que las instituciones que componen el sistema financiero hayan proporcionado a las autoridades fiscales.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### Artículo 88.
 
-Se sancionará con una multa de $81,910.00 a $109,210.00, a quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 87.
+Se sancionará con una multa de $93,560.00 a $124,740.00 a quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 87.
 
 > <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
@@ -4228,11 +4238,11 @@ En los supuestos señalados en la fracción I del artículo citado, se considera
 
 No se incurrirá en la agravante a que se refiere el párrafo anterior, cuando se manifieste en la opinión que se otorgue por escrito que el criterio contenido en ella es diverso a los criterios dados a conocer por las autoridades fiscales en los términos del inciso h) de la fracción I del artículo 33 de este Código.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 ###### Artículo 91.
 
-La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de $200.00 a $1,960.00.
+La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de $230.00 a $2,240.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -4378,11 +4388,11 @@ III. De importación o exportación prohibida.
 
 También comete delito de contrabando quien interne mercancías extranjeras procedentes de las zonas libres al resto del país en cualquiera de los casos anteriores, así como quien las extraiga de los recintos fiscales o fiscalizados sin que le hayan sido entregadas legalmente por las autoridades o por las personas autorizadas para ello.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA SEGUNDA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 30 DE ENERO DE 2007.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2004)</small>
 
-No se formulará la declaratoria a que se refiere el artículo 92, fracción II, si el monto de la omisión no excede de $112,450.00 o del diez por ciento de los impuestos causados, el que resulte mayor. Tampoco se formulará la citada declaratoria si el monto de la omisión no excede del cincuenta y cinco por ciento de los impuestos que deban cubrirse cuando la misma se deba a inexacta clasificación arancelaria por diferencia de criterio en la interpretación de las tarifas contenidas en las leyes de los impuestos generales de importación o exportación, siempre que la descripción, naturaleza y demás características necesarias para la clasificación de las mercancías hayan sido correctamente manifestadas a la autoridad.
+No se formulará la declaratoria a que se refiere el artículo 92, fracción II, si el monto de la omisión no excede de $123,440.00 o del diez por ciento de los impuestos causados, el que resulte mayor. Tampoco se formulará la citada declaratoria si el monto de la omisión no excede del cincuenta y cinco por ciento de los impuestos que deban cubrirse cuando la misma se deba a inexacta clasificación arancelaria por diferencia de criterio en la interpretación de las tarifas contenidas en las leyes de los impuestos generales de importación o exportación, siempre que la descripción, naturaleza y demás características necesarias para la clasificación de las mercancías hayan sido correctamente manifestadas a la autoridad.
 
 > <small>(ADICIONADO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
@@ -4468,17 +4478,17 @@ Para los efectos de las fracciones XV y XVI de este artículo, no será responsa
 
 El delito de contrabando se sancionará con pena de prisión:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA SEGUNDA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 30 DE ENERO DE 2007.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-I. De tres meses a cinco años, si el monto de las contribuciones o de las cuotas compensatorias omitidas, es de hasta $798,230.00, respectivamente o, en su caso, la suma de ambas es de hasta de $1,197,340.00.
+I. De tres meses a cinco años, si el monto de las contribuciones o de las cuotas compensatorias omitidas, es de hasta $876,220.00 respectivamente o, en su caso, la suma de ambas es de hasta de $1,314,320.00.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA SEGUNDA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 30 DE ENERO DE 2007.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-II. De tres a nueve años, si el monto de las contribuciones o de las cuotas compensatorias omitidas, excede de $798,230.00, respectivamente o, en su caso, la suma de ambas excede de $1,197,340.00.
+II. De tres a nueve años, si el monto de las contribuciones o de las cuotas compensatorias omitidas, excede de $876,220.00, respectivamente o, en su caso, la suma de ambas excede de $1,314,320.00.
 
 > <small>(REFORMADA D.O.F. 5 DE ENERO DE 2004)</small>
 
@@ -4634,17 +4644,17 @@ El delito de defraudación fiscal y el delito previsto en el artículo 400 Bis d
 
 El delito de defraudación fiscal se sancionará con las penas siguientes:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA SEGUNDA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 30 DE ENERO DE 2007.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
-I. Con prisión de tres meses a dos años, cuando el monto de lo defraudado no exceda de $1,113,190.00.
+I. Con prisión de tres meses a dos años, cuando el monto de lo defraudado no exceda de $1,221,950.00.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA SEGUNDA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 30 DE ENERO DE 2007.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
-II. Con prisión de dos años a cinco años cuando el monto de lo defraudado exceda de $1,113,190.00, pero no de $1,669,780.00.
+II. Con prisión de dos años a cinco años cuando el monto de lo defraudado exceda de $1,221,950.00 pero no de $1,832,920.00.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA SEGUNDA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 30 DE ENERO DE 2007.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
-III. Con prisión de tres años a nueve años cuando el monto de lo defraudado fuere mayor de $1,669,780.00.
+III. Con prisión de tres años a nueve años cuando el monto de lo defraudado fuere mayor de $1,832,920.00.
 
 Cuando no se pueda determinar la cuantía de lo que se defraudó, la pena será de tres meses a seis años de prisión.
 
@@ -4774,13 +4784,13 @@ VII. No cuente con los controles volumétricos de gasolina, diesel, gas natural 
 
 No se formulará querella, si quien encontrándose en los supuestos anteriores subsana la omisión o el ilícito antes de que la autoridad fiscal lo descubra o medie requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA SEGUNDA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 30 DE ENERO DE 2007.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### Artículo 112.
 
-Se impondrá sanción de tres meses a seis años de prisión, al depositario o interventor designado por las autoridades fiscales que, con perjuicio del fisco federal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de $99,560.00; cuando exceda, la sanción será de tres a nueve años de prisión.
+Se impondrá sanción de tres meses a seis años de prisión, al depositario o interventor designado por las autoridades fiscales que, con perjuicio del fisco federal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de $109,290.00; cuando exceda, la sanción será de tres a nueve años de prisión.
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -4822,13 +4832,13 @@ Se aumentará la sanción hasta por una mitad más de la que resulte aplicable, 
 
 Se impondrá sanción de uno a seis años de prisión, al servidor público que revele a terceros, en contravención a lo dispuesto por el artículo 69 de este Código, la información que las instituciones que componen el sistema financiero hayan proporcionado a las autoridades fiscales.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA SEGUNDA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 30 DE ENERO DE 2007.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### Artículo 115.
 
-Se impondrá sanción de tres meses a seis años de prisión, al que se apodere de mercancías que se encuentren en recinto fiscal o fiscalizado, si el valor de lo robado no excede de $42,670.00; cuando exceda, la sanción será de tres a nueve años de prisión.
+Se impondrá sanción de tres meses a seis años de prisión, al que se apodere de mercancías que se encuentren en recinto fiscal o fiscalizado, si el valor de lo robado no excede de $46,840.00; cuando exceda, la sanción será de tres a nueve años de prisión.
 
 La misma pena se impondrá a quien dolosamente destruya o deteriore dichas mercancías.
 
@@ -5622,17 +5632,17 @@ II. Por la de embargo, incluyendo los señalados en los artículos 41, fracción
 
 III. Por la de remate, enajenación fuera de remate o adjudicación al fisco federal.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a $260.00, se cobrará esta cantidad en vez del 2% del crédito.
+Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a $300.00 se cobrará esta cantidad en vez del 2% del crédito.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 10 DE FEBRERO DE 2009)
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por la Federación para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de $41,350.00.
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por la Federación para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de $47,230.00.
 
 > <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
@@ -7959,3 +7969,7 @@ i) Entreguen, en su caso, en efectivo el subsidio para el empleo, en los casos a
 D.O.F. 1 DE JULIO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE FEBRERO DE 2009.
+
+LA ACTUALIZACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
