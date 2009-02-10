@@ -4,7 +4,7 @@ identifier: "COA-ley-del-instituto-coahuilense-de-las-mujeres-20254"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-13"
-last_updated: "2008-10-24"
+last_updated: "2009-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL INSTITUTO COAHUILENSE DE LAS MUJERES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 13 de febrero de 2001.
 
@@ -39,9 +39,11 @@ LEY DEL INSTITUTO COAHUILENSE DE LAS MUJERES
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 1°.
 
-Se crea el Instituto Coahuilense de las Mujeres, como organismo público descentralizado de la administración pública estatal, sectorizado a la Secretaría de Gobierno, con personalidad jurídica y patrimonio propio.
+Se crea el Instituto Coahuilense de las Mujeres, como organismo público descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propio.
 
 El Ejecutivo del Estado, por conducto de la Secretaría de Gobierno, vigilará, supervisará y evaluará el funcionamiento del Instituto.
 
@@ -620,3 +622,11 @@ TERCERO. El Instituto Coahuilense de las Mujeres, contará con un plazo de seis 
 CUARTO. El Instituto Coahuilense de las Mujeres creará el Reglamento para la Cooperación y Funcionamiento de las Redes de Apoyo a Mujeres Embarazadas de Coahuila.
 
 QUINTO. Publíquese el presente decreto en el Periódico Oficial del Estado.
+
+P.O. 10 DE FEBRERO DE 2009.
+
+PRIMERO. Este decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Hasta en tanto no se expidan los acuerdos de sectorización de los organismos públicos descentralizados que forman parte de la Administración Pública del Estado, continuarán bajo la sectorización que dispongan los instrumentos jurídicos que los hubiesen creado.
+
+TERCERO. Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
