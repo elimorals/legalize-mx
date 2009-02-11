@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2008-12-10"
+last_updated: "2009-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2009.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -395,29 +395,47 @@ Las leyes determinarán a qué autoridad corresponde decretar la suspensión, p�
 
 DEL PODER PUBLICO.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2009)</small>
 
 ###### Art. 27.
 
-La soberanía del Estado, reside, originariamente en el pueblo, y en nombre de éste la ejercen los Poderes establecidos en esta Constitución.
+La Soberanía del Estado, reside originariamente en el pueblo, y en nombre de éste la ejercen los Poderes establecidos en esta Constitución.
 
-Los partidos políticos son entidades de interés público; la ley determinará las formas específicas en su intervención en el proceso electoral.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
+
+Los partidos políticos son entidades de interés público; la ley determinará las formas específicas en su intervención en el proceso electoral, y permitirá que los partidos participen coaligados, total o parcialmente, o que postulen candidaturas comunes en los procesos electorales, según lo convengan.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE FEBRERO DE 2009)</small>
+
+Los partidos políticos nacionales con registro ante el Instituto Federal Electoral podrán participar en los procesos locales en los términos de la ley. Los partidos políticos que pierdan su registro nacional, lo mantendrán automáticamente como partido político estatal para el proceso electoral siguiente, y podrán conservarlo en los términos de la ley.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
 
 Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuyendo a la integración de la representación local y municipal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan el sufragio universal, libre, secreto y directo. Sólo los ciudadanos podrán afiliarse libre e individualmente a ellos; por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente, en la creación de partidos políticos estatales y cualquier forma de afiliación corporativa.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
+
 Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen esta Constitución y las leyes.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
 
 Es revocable el mandato de los servidores públicos electos mediante el voto. La solicitud de revocación del mandato deberá ser suscrita cuando menos por el 10% de los ciudadanos del Estado, municipio o distrito, según sea el caso y podrá presentarse una vez transcurrido una tercera parte del período para el cual fue electo el funcionario, para estos efectos quedan comprendidos en la categoría de servidores públicos revocables de mandato, el Gobernador, los diputados, presidentes municipales, regidores y síndicos. La ley establecerá las bases y procedimientos para la revocación, así como los medios de impugnación.
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
 
-Art. 27 bis.- El financiamiento público para los partidos políticos se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico.
+Art. 27 bis.- La ley garantizará que los partidos políticos cuenten de manera equitativa con elementos para llevar a cabo sus actividades y señalará las reglas a que se sujetará el financiamiento de los propios partidos y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado.
 
-La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos. Así mismo, establecerá el monto máximo que tendrán las aportaciones de sus simpatizantes, cuya suma total no podrá exceder anualmente, para cada partido, al diez por ciento del tope de gastos establecido para la última campaña de Gobernador; además ordenará los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
+El financiamiento público para los partidos políticos que mantengan el derecho a participar en su distribución después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico. Se otorgarán conforme a lo siguiente y a lo que disponga la ley:
 
-De igual manera, la ley garantizará que los recursos públicos prevalezcan sobre los de origen privado y establecerá el procedimiento para la liquidación de las obligaciones de los partidos políticos estatales que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados al Estado.
+I.- El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral del Estado por el sesenta y cinco por ciento del salario mínimo vigente en la capital del Estad o (sic). El treinta por ciento de la cantidad que resulte, de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el setenta por ciento restante, de acuerdo al porcentaje de votos que hubieran obtenido en la elección de diputados inmediata anterior.
 
-La Ley establecerá las bases para la coordinación entre el Instituto Estatal Electoral y el Instituto Federal Electoral, en materia de fiscalización de las finanzas de los partidos políticos.
+II.- El financiamiento público para las actividades tendientes a la obtención del voto durante el año en que se elijan Gobernador del Estado, diputados al Congreso del Estado y miembros de los ayuntamientos, equivaldrá al setenta por ciento del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese mismo año; cuando sólo se elijan diputados y miembros de los ayuntamientos, equivaldrá al cincuenta por ciento de dicho financiamiento por actividades ordinarias.
+
+III.- El financiamiento público por actividades específicas, relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales, equivaldrá al tres por ciento del monto total del financiamiento público que corresponda en cada año por actividades ordinarias. El treinta por ciento de la cantidad que resulte, de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior.
+
+La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos. La propia ley establecerá el monto máximo que tendrán las aportaciones de sus simpatizantes, cuya suma total no podrá exceder anualmente, para cada partido, al diez por ciento del tope de gastos establecido para la última campaña a Gobernador; así mismo, ordenará los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
+
+De igual manera, la ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados a la Asistencia Social Pública.
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
 
@@ -527,17 +545,27 @@ Todas las precampañas y campañas electorales serán laicas.
 
 La duración de las campañas en el año de elecciones para Gobernador, diputados y miembros de ayuntamientos, no podrán exceder de noventa días; en el año en que sólo se elijan diputados y miembros de ayuntamientos, las campañas no podrán exceder de sesenta días. En ningún caso las precampañas excederán las dos terceras partes del tiempo previsto para las campañas electorales. La ley fijará las sanciones para quienes infrinjan esta disposición.
 
-La organización, dirección y vigilancia de las elecciones y demás procesos que requieran consulta pública en el Estado, estarán a cargo de un organismo público denominado Instituto Estatal Electoral, que gozará de autonomía en su funcionamiento e independencia en sus decisiones, con personalidad jurídica y patrimonio propios; se compondrá de un órgano central de mayor jerarquía denominado Asamblea General y los órganos distritales y municipales.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
 
-La Asamblea General se integra por un Consejero Presidente, seis consejeros electorales, un Secretario General y un representante que cada Partido Político designe o su respectivo suplente.
+La organización, dirección y vigilancia de las elecciones y demás procesos que requieran consulta pública en el Estado, estarán a cargo de un organismo público denominado Instituto Estatal Electoral, que gozará de autonomía en su funcionamiento e independencia en sus decisiones, con personalidad jurídica y patrimonio propios; se compondrá de un órgano central de mayor jerarquía denominado Consejo General y los órganos distritales y municipales.
 
-El Consejero Presidente y los consejeros electorales serán designados cada uno por el voto de cuando menos las dos terceras partes de los diputados presentes de entre los aspirantes que concurran a la convocatoria pública que el propio Congreso o la Diputación Permanente expidan. Si la mencionada mayoría no se logra en única votación, la Junta de Coordinación Parlamentaria propondrá una terna de candidatos, para cada uno de los cargos que no se hubieran cubierto, de entre los aspirantes que concurran a la convocatoria pública, efectuándose la elección por mayoría calificada de los diputados presentes; si no se logra tal elección, la designación se hará mediante insaculación de entre los candidatos propuestos por la Junta de Coordinación Parlamentaria. Conforme al mismo procedimiento se designará un consejero electoral suplente por cada propietario. La ley establecerá las reglas, procedimientos de designación y demás requisitos correspondientes.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO QUE MODIFICA LA CONSTITUCION, EL PRESENTE PARRAFO QUEDA INTEGRADO POR LOS ANTERIORES OCTAVO Y NOVENO.</small>
 
-La Asamblea General designará al Secretario General y su suplente, a propuesta del Consejero Presidente. La falta definitiva del Consejero Presidente será suplida por el consejero electoral que se designe conforme a la ley, hasta que el Congreso haga la nueva designación de Consejero Presidente.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
 
-El Consejero Presidente y los consejeros electorales participan con voz y voto. Aquél tendrá voto de calidad. Los restantes miembros de la Asamblea General participan sólo con voz, pero sin voto.
+El Consejo General se integra por un Consejero Presidente, seis consejeros electorales, un Secretario Ejecutivo y un representante que cada Partido Político designe o su respectivo suplente. El Consejero Presidente y los consejeros electorales serán designados cada uno por el voto de cuando menos las dos terceras partes de los diputados presentes de entre los aspirantes que propongan los grupos parlamentarios. Si la mencionada mayoría no se logra en única votación, la Junta de Coordinación Parlamentaria propondrá una terna de candidatos, para cada uno de los cargos que no se hubieran cubierto, de entre los aspirantes que hubiesen propuesto los grupos parlamentarios, efectuándose la elección por mayoría calificada de los diputados presentes; si no se logra tal elección, la designación se hará mediante insaculación de entre los candidatos propuestos por la Junta de Coordinación Parlamentaria. Conforme al mismo procedimiento se designará un consejero electoral suplente por cada propietario. La ley establecerá las reglas, procedimientos de designación y demás requisitos correspondientes.
 
-La duración del cargo de Consejero Presidente será de tres años y los consejeros electorales serán designados para un solo proceso electoral, pudiendo ambos ser reelectos por una sola vez. La ley regulará lo relativo al llamamiento de los consejeros electorales designados para el proceso electoral inmediato anterior, para la celebración de procesos de plebiscito, referéndum y revocación de mandato.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
+
+El Secretario Ejecutivo será nombrado con el voto de las dos terceras partes del Consejo General a propuesta de su Presidente. La falta definitiva del Consejero Presidente será suplida por el consejero electoral que se designe conforme a la ley, hasta que el Congreso haga la nueva designación de Consejero Presidente.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
+
+El Consejero Presidente y los consejeros electorales participan con voz y voto. Aquél tendrá voto de calidad. Los restantes miembros del Consejo General participan sólo con voz, pero sin voto.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
+
+La duración del cargo de Consejero Presidente, así como la de los demás consejeros electorales, será de seis años, y estos últimos se elegirán de forma escalonada cada tres años. En ningún caso los consejeros podrán ser reelectos. La ley regulará lo relativo al llamamiento de los consejeros electorales designados para el proceso electoral inmediato anterior, para la celebración de procesos de plebiscito, referéndum y revocación de mandato.
 
 Las sesiones de los órganos electorales serán públicas y sus resoluciones recurribles ante el Tribunal Estatal Electoral, conforme disponga la ley.
 
@@ -545,23 +573,43 @@ Las actividades, funciones y servicios de carácter electoral, incluidas las rel
 
 El Instituto Estatal Electoral podrá realizar convenios con el Instituto Federal Electoral, para que éste organice los procesos electorales locales.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE FEBRERO DE 2009)</small>
+
+El Instituto Estatal Electoral tendrá a su cargo, en forma integral y directa, además de las que le determine la ley, las actividades relativas a la capacitación y educación cívica, los derechos y prerrogativas de las agrupaciones y de los partidos políticos, impresión de materiales electorales, preparación de la jornada electoral, los cómputos en los términos que señale la ley, declaración de validez y otorgamiento de constancias en las elecciones de Gobernador, diputados y miembros de los ayuntamientos, así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales. Las sesiones de todos los órganos colegiados de dirección serán públicas en los términos que señale la ley.
+
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
 ###### Art. 37.
 
 El Tribunal Estatal Electoral es el órgano de legalidad y plena jurisdicción en la materia electoral, autónomo en su funcionamiento e independiente en sus decisiones, con patrimonio propio. Se compondrá de tres Magistrados que deberán satisfacer los mismos requisitos que establece esta Constitución para ser Magistrado del Supremo Tribunal de Justicia y además no haber sido candidato o haber desempeñado cargo de elección popular, ni fungido como dirigente de partido político en los últimos cinco años previos a la elección.
 
-Los Magistrados serán designados cada uno por el voto de cuando menos las dos terceras partes de los diputados presentes, de entre los aspirantes que concurran a la convocatoria pública que el propio Congreso o la Diputación Permanente expidan. Si la mencionada mayoría no se logra en única votación, la Junta de Coordinación Parlamentaria propondrá una terna de candidatos para cada uno de los cargos que no se hubieren cubierto, de entre los aspirantes que concurran a la convocatoria pública, efectuándose la elección por mayoría calificada de los diputados presentes; si no se logra tal elección, la designación se hará mediante insaculación de entre los candidatos propuestos por la Junta de Coordinación Parlamentaria. La ley establecerá las reglas y procedimientos de designación.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
 
-Los Magistrados del Tribunal Estatal Electoral durarán en su encargo cuatro años y podrán ser reelectos. Durante los procesos electorales tendrán salario compensatorio.
+Los Magistrados serán designados cada uno por el voto de cuando menos las dos terceras partes de los diputados presentes, de entre los aspirantes que propongan los grupos parlamentarios. Si la mencionada mayoría no se logra en única votación, la Junta de Coordinación Parlamentaria propondrá una terna de candidatos para cada uno de los cargos que no se hubieren cubierto, de entre los aspirantes que hubiesen propuesto los grupos parlamentarios, efectuándose la elección por mayoría calificada de los diputados presentes; si no se logra tal elección la designación se hará mediante insaculación de entre los candidatos propuestos por la Junta de Coordinación Parlamentaria la ley establecerá las reglas y procedimientos de designación.
 
-Corresponde al Tribunal Estatal Electoral resolver en forma definitiva e inatacable, las impugnaciones que se presenten en materia electoral, de referéndum, plebiscito y revocación de mandato, así como las que se interpongan contra las declaraciones de validez y el otorgamiento de constancias de mayoría y de asignación.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
 
-En la elección de Gobernador, el Instituto Estatal Electoral dará cuenta al Congreso de la declaratoria de validez y de la constancia de mayoría que hubiere expedido, y en caso de impugnación, el Tribunal Estatal Electoral dará cuenta al Congreso de su resolución para que éste, mediante formal decreto haga la declaratoria de Gobernador electo, que a su vez turnará al Ejecutivo para su publicación en el Periódico Oficial del Estado. Si el Ejecutivo o el Congreso no cumplieren en el término que la Ley señale, el Instituto Estatal Electoral o el Tribunal Estatal Electoral, en caso de impugnación, ordenarán la publicación de la mencionada declaratoria en el Periódico Oficial.
+Los Magistrados del Tribunal Estatal Electoral durarán en su encargo seis años, pudiendo ser reelectos por una sola ocasión. Recibirán remuneración igual a la que perciben los magistrados del Supremo Tribunal de Justicia del Estado.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
+
+Corresponde al Tribunal Estatal Electoral resolver en forma definitiva e inatacable. Las (sic) impugnaciones que se presenten en materia electoral, de referéndum, plebiscito y revocación de mandato, así como las que se interpongan contra las declaraciones de validez y el otorgamiento de constancias de mayoría y de asignación.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
+
+En la elección de Gobernador, el Instituto Estatal Electoral dará cuenta al Congreso de la declaratoria de validez y de la constancia de mayoría que hubiere expedido, y en caso de impugnación, el Tribunal Estatal Electoral dará cuenta al Congreso de su resolución para que éste, mediante formal decreto haga la declaratoria de Gobernador electo, que a su vez turnará al Ejecutivo para su publicación en el Periódico Oficial del Estado. Si el Ejecutivo o el Congreso no cumplieren en el término que la Ley señale, el Instituto Estatal Electoral o el Tribunal Estatal Electoral, en caso de impugnación ordenarán la publicación de la mencionada declaratoria en el Periódico Oficial.
 
 El Tribunal Estatal Electoral funcionará en pleno durante los procesos electorales, los plebiscitarios, de referéndum y de revocación de mandato; podrán establecerse salas regionales. La Ley establecerá la forma de su organización y funcionamiento.
 
 Concluido cada proceso electoral, el Tribunal Estatal Electoral presentará al Congreso y hará público un informe del desempeño de sus funciones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE FEBRERO DE 2009)</small>
+
+El Tribunal Estatal Electoral hará uso de los medios de apremio necesarios para hacer cumplir de manera expedita sus sentencias y resoluciones, en los términos que fije la ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE FEBRERO DE 2009)</small>
+
+El Tribunal Estatal Electoral sólo podrá declarar la nulidad de una elección por las causales expresamente establecidas en las leyes.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
 
@@ -935,7 +983,7 @@ A.- Elegir Gobernador interino, provisional o sustituto en los casos que estable
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
-B.- Nombrar los magistrados que deban integrar el Supremo Tribunal de Justicia y el Tribunal de lo Contencioso Administrativo; reelegirlos, en su caso, previa evaluación practicada antes del cumplimiento del plazo establecido para el ejercicio de sus cargos; así como designar al Procurador General de Justicia, de la terna que para tal efecto envíe el Gobernador.
+B. Nombrar los magistrados que deban integrar el Supremo Tribunal de Justicia y el Tribunal de lo Contencioso Administrativo; reelegirlos, en su caso, previa evaluación practicada antes del cumplimiento del plazo establecido para el ejercicio de sus cargos; así como designar al Procurador General de Justicia, de la terna que para tal efecto envíe el Gobernador.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 10 DE SEPTIEMBRE DE 2005)</small>
 
@@ -3438,3 +3486,35 @@ P.O. 10 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, sin necesidad de agotar el trámite del artículo 202 de la Constitución Política del Estado, por ser una adecuación a la Constitución Federal, conforme al último párrafo del referido precepto.
+
+P.O. 11 DE FEBRERO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Durante el ejercicio del año 2009, el financiamiento público ordinario para los partidos políticos se calculará, de acuerdo con la fórmula prescrita por el artículo 27-Bis, fracción I, multiplicando el número total de ciudadanos inscritos en el Padrón Electoral, a la fecha de corte de noviembre del presente año, por el 47.5% del salario mínimo vigente en la zona geográfica de la Capital del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Los integrantes del Consejo General del Instituto Estatal Electoral, así como los Magistrados del Tribunal Estatal Electoral, serán designados, a más tardar, al último día de marzo de 2009, y tomarán posesión de su encargo al finalizar el plazo para el que fueron designados los actuales.
+
+###### ARTÍCULO QUINTO.
+
+Para los efectos de la próxima designación de los integrantes del Consejo General del Instituto Estatal Electoral, se estará a lo siguiente:
+
+I.- El Consejero Presidente se elegirá por seis años;
+
+II.- De los seis consejeros electorales, tres de ellos serán designados para un período de seis años y los tres restantes para un período de tres años.
+
+III.- Los consejeros electorales, incluido el Presidente, que se nombren para los periodos posteriores, durarán en su cargo seis años.
+
+###### ARTÍCULO SEXTO.
+
+El Congreso del Estado realizará las adecuaciones a su legislación secundaria a más tardar el 30 de junio de 2009.
