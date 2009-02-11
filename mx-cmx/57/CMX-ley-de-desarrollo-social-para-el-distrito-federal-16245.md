@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-social-para-el-distrito-federal-16245"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-23"
-last_updated: "2008-11-03"
+last_updated: "2009-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16245&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-04-24"
 
 LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE FEBRERO DE 2009.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 23 de mayo de 2000.
 
@@ -136,9 +136,21 @@ XIII. Organizaciones Sociales: Aquellas que agrupan a habitantes del Distrito Fe
 
 XIV. Política de Desarrollo Social: La que realiza el Gobierno del Distrito Federal y está destinada al conjunto de los habitantes del Distrito Federal con el propósito de construir una ciudad con igualdad, equidad, justicia social, reconocimiento de la diversidad, alta cohesión e integración social, pleno goce de los derechos, creciente elevación de la calidad de vida y acceso universal al conjunto de bienes y servicios públicos urbanos; mediante la cual se erradican la desigualdad y la exclusión e inequidad social entre individuos, grupos y ámbitos territoriales con el fin de lograr su incorporación plena a la vida económica, social y cultural y construirse como ciudadanos con plenos derechos;
 
-XV. Pobreza: La incapacidad de un individuo o un hogar de satisfacer de manera digna y suficiente sus necesidades básicas en materia de alimentación, salud, educación, vivienda, transporte, recreación, servicios y tiempo libre.
+XV. Pobreza: La incapacidad de un individuo o un hogar de satisfacer de manera digna y suficiente sus necesidades básicas en materia de alimentación, salud, educación, vivienda, transporte, recreación, servicios y tiempo libre;
 
-XVI. Secretaría: La Secretaría de Desarrollo Social del Distrito Federal.
+XVI. Secretaría: La Secretaría de Desarrollo Social del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 11 DE FEBRERO DE 2009)</small>
+
+XVII. Programas Sociales: Las acciones de la Administración que promueven el cumplimiento de los Derechos Económicos, Sociales y Culturales y que, por su naturaleza, pueden dividirse en: programas de transferencias monetarias o materiales, de prestación de servicios, de construcción, mejoramiento u operación de la infraestructura social, y de otorgamiento de subsidios directos o indirectos;
+
+> <small>(ADICIONADA, G.O. 11 DE FEBRERO DE 2009)</small>
+
+XVIII. Reglas de Operación: El conjunto de normas que rigen a cada uno de los programas sociales;
+
+> <small>(ADICIONADA, G.O. 11 DE FEBRERO DE 2009)</small>
+
+XIX. Consejo de Evaluación: El Consejo de Evaluación del Desarrollo Social del Distrito Federal.
 
 > <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
@@ -214,9 +226,17 @@ III. Concertar acuerdos entre los distintos sectores en torno al Desarrollo Soci
 
 IV. Aprobar el Programa de Desarrollo Social;
 
-V. Incluir anualmente en el Presupuesto de Egresos del Distrito Federal, los recursos necesarios para la ejecución y cumplimiento de las metas y objetivos del Programa de Desarrollo Social y de los Programas Delegacionales en la materia; y
+V. Incluir anualmente en el Presupuesto de Egresos del Distrito Federal, los recursos necesarios para la ejecución y cumplimiento de las metas y objetivos del Programa de Desarrollo Social y de los Programas Delegacionales en la materia; y (sic)
 
-VI. Presidir el Consejo de Desarrollo Social y la Comisión Interinstitucional de Desarrollo Social, la cual podrá ser delegada de conformidad con lo que establece la presente ley y demás ordenamientos.
+VI. Presidir el Consejo de Desarrollo Social y la Comisión Interinstitucional de Desarrollo Social, la cual podrá ser delegada de conformidad con lo que establece la presente ley y demás ordenamientos;
+
+> <small>(ADICIONADA, G.O. 11 DE FEBRERO DE 2009)</small>
+
+VII. Designar al Director General del Consejo de Evaluación, en términos de lo establecido en el artículo 53 de la Ley Orgánica de la Administración Pública del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 11 DE FEBRERO DE 2009)</small>
+
+VIII. Designar, a propuesta de la Comisión y previo proceso de elección realizado por ésta mediante convocatoria pública, a las y los Consejeros Ciudadanos del Comité de Evaluación y Recomendaciones del Consejo de Evaluación.
 
 > <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
@@ -238,7 +258,9 @@ VI. Realizar y mantener actualizado el diagnóstico y evaluación de los problem
 
 VII. Coordinar el desarrollo de las políticas, programas y acciones, con las demás dependencias de la Administración y con los habitantes del Distrito Federal;
 
-VIII. Realizar una evaluación anual de impacto del Programa de Desarrollo Social;
+> <small>(REFORMADA, G.O. 11 DE FEBRERO DE 2009)</small>
+
+VIII. Realizar valoraciones sobre la política y programas sociales;
 
 IX. Establecer y dar a conocer los indicadores y sus resultados sobre el progreso en el cumplimiento de los derechos sociales de la población del Distrito Federal;
 
@@ -248,9 +270,13 @@ XI. Emitir los lineamientos, normas y modelos de atención básicos que deben re
 
 XII. Operar las instalaciones e infraestructura social a su cargo, de conformidad con los lineamientos, normatividad y modelos de atención básicos que establezca la misma dentro del ámbito de su competencia;
 
-XIII. Fungir como secretario ejecutivo del Consejo de Desarrollo Social y de la Comisión Interinstitucional de Desarrollo Social; y
+XIII. Fungir como secretario ejecutivo del Consejo de Desarrollo Social y de la Comisión Interinstitucional de Desarrollo Social; y (sic)
 
-XIV. Implementar en caso de ser necesario los planes de acción específicos para el apoyo logístico, humano y de capacitación en la aplicación de los Fondos de Desarrollo Social.
+XIV. Implementar en caso de ser necesario los planes de acción específicos para el apoyo logístico, humano y de capacitación en la aplicación de los Fondos de Desarrollo Social;
+
+> <small>(ADICIONADA, G.O. 11 DE FEBRERO DE 2009)</small>
+
+XV. Recibir del Consejo de Evaluación para su inserción en el Sistema de Información del Desarrollo Social, las mediciones que éste realice sobre la desigualdad, la pobreza y el grado de desarrollo social de las unidades territoriales en la Ciudad de México; y los resultados de la evaluación del programa de Desarrollo Social y las evaluaciones de los programas sociales.
 
 > <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
@@ -366,9 +392,13 @@ X. Participar en el diagnóstico de problemas sociales y recomendar acciones con
 
 XI. Promover y procurar la inclusión en el Programa de Desarrollo Social de las propuestas de los Consejos Delegaciones de Desarrollo Social, de las instancias vecinales, civiles y sociales;
 
-XII. Conocer y discutir la evaluación anual del Programa de Desarrollo Social que presente la Secretaría;
+> <small>(REFORMADA, G.O. 11 DE FEBRERO DE 2009)</small>
 
-XIII. Evaluar la política social y formular propuestas;
+XII. Conocer y discutir la evaluación externa de la política y los programas sociales;
+
+> <small>(REFORMADA, G.O. 11 DE FEBRERO DE 2009)</small>
+
+XIII. Conocer y discutir la evaluación interna de los programas sociales;
 
 XIV. Conocer, evaluar y proponer mejoras respecto del Sistema de Información;
 
@@ -484,11 +514,35 @@ II. Definir los criterios de coordinación operativa entre funcionarios y titula
 
 III. Coordinar la implementación y las acciones derivadas de los programas;
 
-IV. Evaluar el proceso de planeación y la ejecución de los programas y subprogramas;
+> <small>(REFORMADA, G.O. 11 DE FEBRERO DE 2009)</small>
 
-V. Evaluar el cumplimiento de los objetivos, metas y prioridades de los programas, conjuntamente con los responsables de la ejecución de los mismos; y
+IV. Valorar el proceso de planeación y la ejecución de los programas y subprogramas sociales;
 
-VI. Crear las subcomisiones que considere necesarias para el mejor cumplimiento de sus funciones.
+> <small>(REFORMADA, G.O. 11 DE FEBRERO DE 2009)</small>
+
+V. Valorar conjuntamente con los responsables de la ejecución de los programas sociales el cumplimiento de los objetivos, metas y prioridades de estos;
+
+VI. Crear las subcomisiones que considere necesarias para el mejor cumplimiento de sus funciones;
+
+> <small>(ADICIONADA, G.O. 11 DE FEBRERO DE 2009)</small>
+
+VII. Emitir la convocatoria pública dirigida a las personas interesadas en conformar el Comité de Evaluación y Recomendaciones del Consejo de Evaluación;
+
+> <small>(ADICIONADA, G.O. 11 DE FEBRERO DE 2009)</small>
+
+VIII. Elegir por mayoría absoluta a las personas que integrarán el Comité de Evaluación y Recomendaciones del Consejo de Evaluación, y proponerlas al Jefe de Gobierno para su designación;
+
+> <small>(ADICIONADA, G.O. 11 DE FEBRERO DE 2009)</small>
+
+IX. Proponer al Jefe de Gobierno, al Consejero sustituto en caso de ausencia o renuncia de algún integrante del Comité de Evaluación y Recomendaciones del Consejo de Evaluación para completar el periodo por el que hubiere sido designado;
+
+> <small>(ADICIONADA, G.O. 11 DE FEBRERO DE 2009)</small>
+
+X. Solicitar al Consejo de Evaluación, a los Órganos Desconcentrados, Dependencias, Delegaciones y Entidades de la Administración, la información que estime conveniente para resolver en definitiva respecto de las recomendaciones controvertidas que sean sometidas a su consideración; y
+
+> <small>(ADICIONADA, G.O. 11 DE FEBRERO DE 2009)</small>
+
+XI. Resolver en forma definitiva e inatacable las recomendaciones controvertidas que emita el Consejo de Evaluación, para lo cual contará con un plazo máximo de 20 días hábiles después de que tenga conocimiento de la controversia.
 
 > <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
@@ -606,11 +660,11 @@ II. Recibirá las propuestas de los Consejos Delegacionales, organizaciones civi
 
 Los programas sociales específicos de la Administración Pública del Distrito Federal deberán enmarcarse en los principios de esta Ley y ser congruentes con el contenido del Programa General de Desarrollo Social.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 33.
 
-Todos los programas sociales de la Administración Pública del Distrito Federal deberán contar con lineamientos y mecanismos de operación en los que se incluirán, al menos:
+Todos los programas sociales deberán contar con reglas de operación en las que se incluirán, al menos:
 
 > <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
@@ -730,21 +784,175 @@ II. La evaluación de las acciones de los distintos agentes que intervienen en p
 
 III. El fomento y el apoyo directo a proyectos de atención a grupos específicos en el reconocimiento y ejercicio de sus derechos, la atención de sus necesidades básicas, la promoción de la equidad, el respeto a los derechos humanos, la construcción de una cultura de la igualdad y la diversidad, el logro de la equidad de género, así como el apoyo concreto a proyectos de producción, construcción, comercialización, financiamiento, abasto, dotación de servicios básicos y capacitación que tiendan a innovar las concepciones, acciones y estrategias de Desarrollo Social.
 
-> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACION, G.O. 11 DE FEBRERO DE 2009)</small>
 
-### CAPÍTULO NOVENO. DE LA EVALUACIÓN
+### CAPÍTULO NOVENO. DE LA EVALUACIÓN Y DEL CONSEJO DE EVALUACIÓN DEL DESARROLLO SOCIAL
 
-> <small>(ADICIONADO, G.O. 16 DE MAYO DE 2005)</small>
+> <small>(ADICIONADO, G.O. 11 DE FEBRERO DE 2009)</small>
+
+De la Evaluación
+
+> <small>(REFORMADO, G.O. 11 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 42.
 
-Se entenderá por evaluación aquellas acciones encaminadas a conocer la operación y resultados de los programas y proyectos de Desarrollo Social con la finalidad de formular nuevas acciones, para identificar los problemas en la implementación de programas y en su caso reorientar y reforzar la política social.
+Las evaluaciones constituyen procesos de aplicación de un método sistemático que permite conocer, explicar y valorar al menos, el diseño, la operación, los resultados y el impacto de la política y programas de Desarrollo Social. Las evaluaciones deberán detectar sus aciertos y fortalezas, identificar sus problemas y en su caso, formular las observaciones y recomendaciones para su reorientación y fortalecimiento.
 
-La evaluación será interna o externa. La evaluación interna es la que realizan quienes implementan los programas con objeto de medir los resultados alcanzados, la evaluación externa es la que realizan organismos diferentes al que está desarrollando el programa.
+La evaluación será interna y externa.
 
-En ambos casos la evaluación incluirá la opinión de los beneficiarios, y deberán darse a conocer a la Secretaría y al Consejo, y estos incluirán sus resultados en el Sistema de Información.
+La evaluación interna es la que deben efectuar anualmente y conforme a los lineamientos que emita el Consejo de Evaluación, las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades de la Administración Pública del Distrito Federal que ejecuten programas sociales.
 
-> <small>(ADICIONADO, G.O. 16 DE MAYO DE 2005)</small>
+La evaluación externa de la política social y los programas sociales es la que realiza de manera exclusiva e independiente el Consejo de Evaluación, ya sea por cuenta propia o a través de terceros. Para su realización, éste deberá conformar un Directorio de Evaluadores Externos, en el que podrán participar profesores y/o investigadores adscritos a instituciones de educación superior, de investigación científica, profesionales con experiencia en la materia pertenecientes a organizaciones civiles o sociales sin fines de lucro, o profesionistas independientes que reúnan los requisitos de experiencia y conocimientos. Además, elaborará un programa anual de evaluaciones que será publicado en la Gaceta Oficial del Distrito Federal durante los tres primeros meses de cada año.
+
+Las evaluaciones internas y externas deberán incluir, al menos, el logro de los objetivos y metas esperados, el diseño, la operación, los resultados y el impacto alcanzado, en función de las prioridades y objetivos de corto, mediano y largo plazo que en cada caso correspondan, la opinión de los beneficiarios, usuarios o derechohabientes y deberán darse a conocer a la Secretaría y al Consejo.
+
+Los resultados de las evaluaciones internas y externas serán publicados en la Gaceta Oficial del Distrito Federal, incluidos en el Sistema de Información del Desarrollo Social y entregados a la Comisión de Desarrollo Social de la Asamblea Legislativa del Distrito Federal. En el caso de las evaluaciones que realice el Consejo de Evaluación, sus resultados serán publicados y entregados una vez que tengan carácter definitivo, mientras que, los resultados de las evaluaciones internas serán publicados y entregados en un plazo no mayor a seis meses después de finalizado el ejercicio fiscal.
+
+El incumplimiento de las obligaciones establecidas en este artículo será sancionado en términos de la Ley Federal de Responsabilidades de los Servidores Públicos.
+
+> <small>(ADICIONADO, G.O. 11 DE FEBRERO DE 2009)</small>
+
+Artículo 42 A.- El Consejo de Evaluación solicitará a los Órganos Desconcentrados, Dependencias, Delegaciones y Entidades de la Administración ejecutores de programas sociales, la información y las facilidades necesarias para la realización de las evaluaciones correspondientes, quienes estarán obligados a proporcionarlas, de no hacerlo, serán acreedores a las sanciones previstas en la Ley Federal de Responsabilidades de los Servidores Públicos.
+
+Los datos personales de los participantes o beneficiarios de los programas de desarrollo social y la demás información generada y administrada, se regirá por lo establecido en las Leyes de Transparencia y Acceso a la Información Pública del Distrito Federal, y de Protección de Datos Personales para el Distrito Federal.
+
+El Consejo de Evaluación podrá tener acceso a las bases de datos de los programas sociales para propósitos exclusivos de evaluación, responsabilizándose de su uso y de la garantía de confidencialidad y de protección de datos personales establecidos en los ordenamientos de la materia.
+
+> <small>(ADICIONADO, G.O. 11 DE FEBRERO DE 2009)</small>
+
+Del Consejo de Evaluación del Desarrollo Social
+
+> <small>(ADICIONADO, G.O. 11 DE FEBRERO DE 2009)</small>
+
+Artículo 42 B.- El Consejo de Evaluación del Desarrollo Social del Distrito Federal es un organismo público descentralizado sectorizado a la Secretaría de Desarrollo Social, con personalidad jurídica y patrimonio propio, que goza de autonomía técnica, de gestión y presupuestaria, de conformidad con lo previsto en la Ley Orgánica de la Administración Pública del Distrito Federal, que tiene a su cargo la evaluación externa de la política social de la Administración y de los programas sociales que ésta ejecuta.
+
+> <small>(ADICIONADO, G.O. 11 DE FEBRERO DE 2009)</small>
+
+Artículo 42 C.- El Consejo de Evaluación tiene las siguientes atribuciones:
+
+I. Organizar, definir y realizar anualmente por cuenta propia o a través de terceros la evaluación externa de la política y los programas sociales, y dar seguimiento a las recomendaciones que emita;
+
+II. Definir y medir bianualmente la desigualdad y la pobreza en el Distrito Federal, conforme a la metodología que el mismo defina;
+
+III. Definir, medir y clasificar periódicamente el grado de desarrollo social de las unidades territoriales del Distrito Federal;
+
+IV. Medir bianualmente, con las metodologías, instrumentos e indicadores que defina, el avance en el cumplimiento de los derechos sociales en el Distrito Federal;
+
+V. Elaborar un informe anual sobre el estado de la cuestión social en el Distrito Federal;
+
+VI. Definir anualmente los lineamientos para la realización de las evaluaciones internas;
+
+VII. Emitir, en su caso, las observaciones y recomendaciones derivadas de las evaluaciones externas;
+
+VIII. Emitir la resolución que corresponda, luego de analizar los argumentos vertidos en la justificación realizada por los Órganos Desconcentrados, Dependencias, Delegaciones y Entidades ejecutoras del programa social a las recomendaciones no aceptadas, y en su caso, remitirlas a la Comisión;
+
+IX. Planificar el programa de verificación de los padrones de beneficiarios, usuarios o derechohabientes de los programas sociales y presentar sus resultados a la Asamblea Legislativa del Distrito Federal, en los términos señalados en el artículo 34 fracción IV de esta Ley;
+
+X. Solicitar, en cualquier momento, a los Órganos Desconcentrados, Dependencias, Delegaciones o Entidades de la Administración que estén operando uno o varios programas sociales, la información relativa a los mismos;
+
+XI. Recibir la información de la operación de los programas sociales que están obligadas a proporcionar los Órganos Desconcentrados, Dependencias, Delegaciones y Entidades de la Administración, dentro de los plazos y con las características que señale esta Ley;
+
+XII. Recibir la justificación que en su caso, emitan los Órganos Desconcentrados, Dependencias, Delegaciones y Entidades ejecutoras de los programas sociales, respecto de las recomendaciones emitidas por el Consejo de Evaluación que no hubieren sido aceptadas;
+
+XIII. Atender los requerimientos de información que realice la Comisión respecto de las controversias que se generen por las recomendaciones que emita el Consejo de Evaluación;
+
+XIV. Instrumentar el procedimiento de seguimiento para el cumplimiento de las recomendaciones;
+
+XV. Emitir convocatorias y definir los lineamientos generales a los que deberán apegarse las evaluaciones externas cuando este organismo las realice a través de terceros;
+
+XVI. Elaborar e informar al Jefe de Gobierno sobre la evaluación global de la política social y la evaluación específica externa de cada programa social, y
+
+XVII. Las demás necesarias para el cumplimiento de sus funciones.
+
+Los resultados de las evaluaciones, investigaciones, informes y mediciones que realice el Consejo de Evaluación deberán publicarse en la Gaceta Oficial del Distrito Federal, en el Sistema de Información del Desarrollo Social, en la página electrónica del Consejo de Evaluación y en los demás medios de difusión con que cuente el Gobierno de la Ciudad.
+
+> <small>(ADICIONADO, G.O. 11 DE FEBRERO DE 2009)</small>
+
+Artículo 42 D.- Las recomendaciones derivadas de las evaluaciones externas serán hechas del conocimiento de los Órganos Desconcentrados, Dependencias, Delegaciones y Entidades ejecutoras de los programas sociales, quienes de no aceptarlas podrán controvertirlas ante la Comisión en un plazo máximo de 15 días hábiles después de que sean hechas de su conocimiento. La Comisión resolverá en forma definitiva sobre la procedencia de éstas.
+
+Una vez agotado el procedimiento ante la Comisión, el cumplimiento de las recomendaciones será obligatorio, estableciéndose entre el Consejo de Evaluación y el evaluado un programa y calendario para su cumplimiento. La omisión en el cumplimiento de esta obligación será hecha del conocimiento de la Contraloría General del Distrito Federal y sancionada en términos de la Ley Federal de Responsabilidades de los Servidores Públicos.
+
+> <small>(ADICIONADO, G.O. 11 DE FEBRERO DE 2009)</small>
+
+Artículo 42 E.- Para el estudio, planeación y despacho de los asuntos que le competen, el Consejo de Evaluación contará con una Junta de Gobierno, una Dirección General y un Comité de Evaluación y Recomendaciones, así como con la estructura administrativa que se establezca en su Estatuto Orgánico.
+
+> <small>(ADICIONADO, G.O. 11 DE FEBRERO DE 2009)</small>
+
+Artículo 42 F.- El Comité de Evaluación y Recomendaciones es el órgano de toma de decisiones respecto de las atribuciones sustantivas del Consejo de Evaluación, enumeradas de las fracciones I a IX del artículo 42 C.
+
+La Junta de Gobierno tiene además de las atribuciones a que se refiere el artículo 70 de la Ley Orgánica de la Administración Pública del Distrito Federal, las siguientes:
+
+I. Tomar las decisiones que considere necesarias para el buen despacho de los asuntos y las demás que con carácter indelegable establezca la Ley Orgánica de la Administración Pública del Distrito Federal;
+
+II. Autorizar la creación de los comités de apoyo que se requieran para cumplir con el objeto del Consejo de Evaluación;
+
+III. Verificar el ejercicio del presupuesto, y
+
+IV. Disponer y proveer lo necesario para el cumplimiento del objeto del Consejo, de conformidad con las disposiciones jurídicas aplicables.
+
+La persona titular de la Dirección General cuenta con las atribuciones a que se refieren los artículos 54 y 71 de la Ley Orgánica de la Administración Pública del Distrito Federal, con la representación legal del Consejo de Evaluación y las facultades de un apoderado general, sin más limitaciones que las establecidas en la Ley.
+
+> <small>(ADICIONADO, G.O. 11 DE FEBRERO DE 2009)</small>
+
+Artículo 42 G.- El Comité de Evaluación y Recomendaciones estará integrado por:
+
+I. El titular de la Secretaría, quien lo preside;
+
+II. Seis consejeras y consejeros ciudadanos, con amplios conocimientos y/o experiencia comprobada en materia de desarrollo social, de los cuales al menos cuatro deberán pertenecer al Sistema Nacional de Investigadores.
+
+Los Consejeros ciudadanos no podrán desempeñar ni haber desempeñado cargo de dirección nacional o estatal en partido político alguno durante los cinco años anteriores a su designación; tampoco deben haber sido registrados como candidatos a cargo alguno de elección popular o haberlo ocupado en los cinco años anteriores a la designación; y no pueden desempeñar ni haber desempeñado el cargo de Procurador General de Justicia o de la República, Secretario, Subsecretario, Oficial Mayor, Contralor, Consejero Jurídico, Jefe Delegacional o cualquier otro de dirección en la Administración Pública Local o Federal, a menos que se separe de su encargo con cinco años de anticipación al día de su nombramiento. Se entenderá por cargos de dirección los correspondientes al nivel de dirección general y superiores o cualquier otro similar.
+
+El Comité sesionará por lo menos seis veces al año de manera ordinaria, y de manera extraordinaria cuando se estime necesario.
+
+La persona titular de la Dirección General del Consejo de Evaluación asistirá permanentemente a las sesiones del Comité, con voz y sin voto, en funciones de Secretario Técnico.
+
+> <small>(ADICIONADO, G.O. 11 DE FEBRERO DE 2009)</small>
+
+Artículo 42 H.- Los Consejeros durarán en su encargo cuatro años, con la posibilidad de ser ratificados por única ocasión para un periodo igual, al término del cual concluirá en definitiva su encargo.
+
+La ratificación, que en su caso proponga la Comisión al Jefe de Gobierno, deberá ser expedida quince días naturales previos a la fecha del vencimiento de la designación respectiva y no siendo así, se entenderá concluido el encargo de manera inmediata a la fecha de su vencimiento.
+
+La designación de las y los consejeros será irrevocable por lo que contarán con inamovilidad para el período en que fueron designados. En su desempeño gozarán de total autonomía, independencia y libertad de criterio; por lo que no podrán ser reconvenidos en virtud de sus opiniones respecto del ejercicio de sus responsabilidades.
+
+El Gobierno del Distrito Federal proporcionará las facilidades humanas, materiales y tecnológicas necesarias para que las y los Consejeros ejerzan sus atribuciones y reciban la retribución económica que fije la Junta de Gobierno del Consejo de Evaluación.
+
+> <small>(ADICIONADO, G.O. 11 DE FEBRERO DE 2009)</small>
+
+Artículo 42 I.- La Junta de Gobierno estará integrada por el Jefe de Gobierno del Distrito Federal, quien la presidirá y los titulares de:
+
+I. La Secretaría de Desarrollo Social, quien suplirá al Jefe de Gobierno en sus ausencias;
+
+II. La Secretaría de Desarrollo Urbano y Vivienda;
+
+III. La Secretaría de Desarrollo Económico;
+
+IV. La Secretaría del Medio Ambiente;
+
+V. La Secretaría de Salud;
+
+VI. La Secretaría de Finanzas;
+
+VII. La Secretaría de Trabajo y Fomento al Empleo;
+
+VIII. La Secretaría de Educación;
+
+IX. La Secretaría de Desarrollo Rural y Equidad para las Comunidades;
+
+X. El Instituto de las Mujeres del Distrito federal;
+
+XI. La Procuraduría Social del Distrito Federal;
+
+XII. El Sistema para el Desarrollo Integral de la Familia;
+
+XIII. La Contraloría General del Distrito Federal;
+
+XIV. Dos contralores ciudadanos, designados en términos de la legislación aplicable.
+
+La Junta de Gobierno contará con un Coordinador Ejecutivo designado por el Jefe de Gobierno del Distrito Federal, a propuesta del Secretario de Desarrollo Social. A las sesiones de la Junta asistirán en su calidad de invitados permanentes tres integrantes de la Comisión de Desarrollo Social de la Asamblea Legislativa y un integrante del Comité de Evaluación y Recomendaciones.
+
+La Junta se reunirá con la periodicidad que señale el Estatuto Orgánico del Consejo de Evaluación, sin que pueda ser menos de cuatro veces al año, de acuerdo con el calendario que será aprobado en la primera sesión ordinaria de su ejercicio, pudiendo celebrar las sesiones extraordinarias que se requieran.
+
+(ADICIONADO, G.O. 16 DE MAYO DE 2005) (REUBICADO, G.O. 11 DE FEBRERO DE 2009)
 
 ###### Artículo 43.
 
@@ -865,3 +1073,19 @@ SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal para su entrada 
 TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
 
 CUARTO.- En un periodo no mayor de 60 días contado a partir de la entrada en vigor de las presentes reformas, el Jefe de Gobierno del Distrito Federal deberá publicar las reformas y adecuaciones necesarias al Reglamento de la Ley de Desarrollo Social para el Distrito Federal.
+
+G.O. 11 DE FEBRERO DE 2009.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+CUARTO.- En un periodo no mayor de 120 días contado a partir de la entrada en vigor de las presentes reformas, el Jefe de Gobierno del Distrito Federal deberá publicar las reformas y adecuaciones necesarias al Reglamento de la Ley de Desarrollo Social para el Distrito Federal.
+
+QUINTO.- El Consejo de Evaluación deberá expedir su Estatuto Orgánico, en un plazo no mayor de 90 días naturales, contado a partir de la publicación de las presentes reformas.
+
+SEXTO.- El Consejo de Evaluación a que hace referencia el presente Decreto es el mismo que fue creado por el Jefe de Gobierno mediante Decreto del 21 de septiembre de 2007, y que se halla actualmente en funciones. Para dar continuidad a las labores del Consejo de Evaluación, éste permanecerá con su conformación hasta terminar el periodo para el cual fueron designados sus actuales integrantes.
+
+SÉPTIMO.- La Asamblea Legislativa del Distrito Federal deberá aprobar los recursos necesarios para el funcionamiento del Consejo de Evaluación.
