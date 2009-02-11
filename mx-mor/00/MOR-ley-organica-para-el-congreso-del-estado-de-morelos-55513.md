@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2008-11-19"
+last_updated: "2009-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -339,15 +339,15 @@ f) En caso de que el diputado haya sido amonestado y reincida en las conductas e
 
 El diputado que solicite licencia deberá hacerlo por escrito dirigido al Presidente de la Junta Política y de Gobierno, especificando la temporalidad de la misma, fundando y motivando su petición.
 
-La Junta Política y de Gobierno, emitirá el dictamen correspondiente y lo turnará a la Conferencia para la Dirección y Programación de los Trabajos Legislativos, a efecto de que lo incluyan en la orden del día e inmediatamente lo someta a la consideración del pleno del Congreso del Estado, en la siguiente sesión a la recepción, para que éste resuelva con el voto de la mayoría de los integrantes de la legislatura.
+(REFORMADO, P.O. 11 DE FEBRERO DE 2009) (F. DE E., P.O. 4 DE MARZO DE 2009)
+
+La Junta Política y de Gobierno emitirá el dictamen correspondiente antes de que transcurra el plazo a que se refiere el artículo 37 de la Constitución Local, y lo turnará a la Conferencia para la Dirección y Programación de los Trabajos Legislativos, a efecto de que lo incluya en la orden del día y lo someta a la consideración del Pleno del Congreso del Estado, en la siguiente sesión a la recepción para que éste resuelva con el voto de la mayoría de los integrantes de la legislatura.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 25.
 
-Inmediatamente que la licencia del diputado sea aprobada, se notificará de manera oficial al suplente para que rinda la protesta constitucional.
-
-Cuando el suplente no se presente a la sesión siguiente a la que fue convocado, el pleno del Congreso del Estado, a través de su presidente, lo hará del conocimiento al diputado propietario para los efectos legales correspondientes.
-
-Si al término de la licencia no se presenta el propietario, se procederá conforme a lo dispuesto en la Constitución Política del Estado Libre y Soberano de Morelos.
+En caso de licencia de un legislador, la Junta Política y de Gobierno emitirá un acuerdo mediante el cual procederá a designar de manera temporal al diputado que habrá de cubrir la ausencia en la Comisión respectiva.
 
 ###### Artículo 26.
 
@@ -473,7 +473,9 @@ XXIII. Ejecutar las resoluciones administrativas y financieras que acuerde la Co
 
 XXIV. Una vez aprobado por la Junta Política y de Gobierno el Bando Solemne Gobernador Electo del Estado de Morelos, el Presidente de la Mesa Directiva, deberá ordenar su publicación en el Periódico Oficial "Tierra y Libertad"; así como tomar las medidas necesarias para que se difunda en los Periódicos de mayor circulación y se fije en las principales oficinas públicas del Estado y de los Municipios;
 
-XXV. Dar contestación al informe del Titular del Ejecutivo Estatal cuando éste lo presente ante el pleno;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2009)</small>
+
+XXV. Dentro de su ámbito de competencia, dar puntual cumplimiento a las decisiones y acuerdos que se adopten en la Junta Política y de Gobierno;
 
 XXVI. Exigir al Secretario de Administración y Finanzas, la exhibición de una fianza antes de iniciar el ejercicio de sus funciones, misma que deberá ser renovada en forma anual;
 
@@ -541,7 +543,7 @@ La Diputación Permanente estará integrada por cinco diputados, que serán los 
 
 Las sesiones de la Diputación Permanente tendrán lugar por lo menos una vez a la semana, exceptuándose en los períodos vacacionales; las sesiones serán convocadas por su Presidente o cuando así se lo solicite la mayoría de los diputados integrantes de la Conferencia para la Dirección y Programación de los Trabajos Legislativos, pudiendo ser públicas o secretas en los términos del Reglamento.
 
-El Presidente de la Diputación Permanente tendrá, en lo que sean aplicables las atribuciones que señalan las fracciones III, IV, VI, X y XXVIII, del artículo 36 de este ordenamiento.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 11 DE FEBRERO DE 2009)</small>
 
 ## TÍTULO SÉPTIMO. DE LA ORGANIZACIÓN DEL CONGRESO DEL ESTADO
 
@@ -627,15 +629,17 @@ La Junta Política y de Gobierno, deberá quedar constituida inmediatamente desp
 
 La Junta Política y de Gobierno, deberá reunirse cuando menos una vez al mes; las convocatorias serán emitidas por su Presidente o a solicitud de uno o más coordinadores de los grupos parlamentarios.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 50.
 
 La Junta Política y de Gobierno, tendrá las siguientes atribuciones:
 
 I. Conducir las relaciones políticas con los demás poderes del Estado, los ayuntamientos de la Entidad, los poderes de la Federación o de otros estados y demás organismos y entidades públicas, nacionales e internacionales;
 
-II. Proponer al pleno del Congreso del Estado para su aprobación:
+II. Aprobar el presupuesto de egresos del Congreso del Estado así como las modificaciones que se realicen al mismo;
 
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
+III. Proponer al pleno del Congreso del Estado para su aprobación:
 
 a) Las designaciones de los servidores públicos y de cualquier otro funcionario que la Ley confiera al Congreso del Estado y que no sea facultad de alguna Comisión;
 
@@ -647,33 +651,31 @@ d) La integración de las comisiones ordinarias y especiales, así como de los c
 
 e) La designación y remoción de los titulares de los órganos administrativos del Congreso del Estado, en términos de esta Ley, se hará por los votos de mayoría calificada del pleno del Congreso del Estado;
 
-f) La terna de ciudadanos que envíe el Gobernador del Estado para designar al Procurador General de Justicia; y (sic)
+f) La tema de ciudadanos que envíe el Gobernador del Estado para designar al Procurador General de Justicia;
 
-g) El proyecto de presupuesto de egresos del Congreso del Estado;
+g) Las designaciones de los Magistrados que integran el Poder Judicial, para lo cual la Junta Política y de Gobierno establecerá los criterios para las designaciones conforme lo establece la Constitución del Estado y esta Ley, y
 
-> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
+h) Designar en caso de licencia de algún diputado a quien deba cubrir la ausencia en las comisiones respectivas;
 
-h) Las designaciones de los Magistrados que integran el Poder Judicial, para lo cual la Junta Política y de Gobierno establecerá los criterios para las designaciones conforme lo establece la Constitución del Estado y esta Ley;
+IV. Designar al Secretario Técnico de la propia Junta Política y de Gobierno y al Coordinador del área de Comunicación Social del Congreso del Estado;
 
-III. Designar al Secretario Técnico de la propia Junta Política y de Gobierno y al Coordinador del área de Comunicación Social del Congreso del Estado;
+V. Impulsar la conformación de puntos de acuerdo relacionados con el contenido de las propuestas, iniciativas, dictámenes o minutas que requieran de su votación en el pleno del Congreso el Estado, a fin de agilizar el trabajo legislativo;
 
-IV. Impulsar la conformación de puntos de acuerdo relacionados con el contenido de las propuestas, iniciativas, dictámenes o minutas que requieran de su votación en el pleno del Congreso del Estado, a fin de agilizar el trabajo legislativo;
+VI. Conforme a la declaración de validez de la elección de Gobernador del Estado de Morelos, que hiciere el Instituto Estatal Electoral o el Tribunal Estatal Electoral, el Presidente de la Junta Política y de Gobierno, deberá solicitar al Presidente de la Mesa Directiva del Congreso del Estado, de a conocer al pleno del Congreso del Estado en la sesión más próxima, la elaboración inmediata del Bando Solemne, y ordene su publicación en el Periódico Oficial "Tierra y Libertad"; así mismo tome las medidas necesarias para que se difunda en los periódicos de mayor circulación en el Estado;
 
-V. Conforme a la declaración de validez de la elección de Gobernador del Estado de Morelos, que hiciere el Instituto Estatal Electoral o el Tribunal Estatal Electoral, el Presidente de la Junta Política y de Gobierno, deberá solicitar al Presidente de la Mesa Directiva del Congreso del Estado, dé a conocer al pleno del Congreso del Estado en la sesión más próxima, la elaboración inmediata del Bando Solemne, y ordene su publicación en el Periódico Oficial "Tierra y Libertad"; así mismo tome las medidas necesarias para que se difunda en los periódicos de mayor circulación en el Estado;
+VII. Presentar a la Mesa Directiva y al pleno del Congreso del Estado, proyectos de puntos de acuerdo, pronunciamientos, dictámenes y declaraciones del Congreso del Estado, que entrañen una posición política del órgano colegiado o la agilización de los trabajos legislativos del Congreso del Estado;
 
-VI. Presentar a la Mesa Directiva y al pleno del Congreso del Estado, proyectos de puntos de acuerdo, pronunciamientos, dictámenes y declaraciones del Congreso del Estado, que entrañen una posición política del órgano colegiado o la agilización de los trabajos legislativos del Congreso del Estado;
+VIII. Conocer de las solicitudes de juicio político, ejerciendo las atribuciones que la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos encomienda al órgano político del Congreso del Estado;
 
-VII. Conocer de las solicitudes de juicio político, ejerciendo las atribuciones que la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos encomienda al órgano político del Congreso del Estado;
+IX. Revisar y autorizar los trabajos de la Coordinación de Comunicación Social;
 
-VIII. Revisar y autorizar los trabajos de la Coordinación de Comunicación Social;
+X. Asignar en los términos de esta Ley los recursos humanos, materiales y financieros así como los lugares que correspondan a los grupos parlamentarios;
 
-IX. Asignar en los términos de esta Ley los recursos humanos, materiales y financieros así como los lugares que correspondan a los grupos parlamentarios;
+XI. Presentar al pleno del Congreso del Estado, para su aprobación la Agenda Legislativa;
 
-X. Presentar al pleno del Congreso del Estado, para su aprobación la Agenda Legislativa;
+XlI. Revisar y aprobar de los órganos administrativos del Congreso del Estado, los Programas Operativos Anuales y sus Manuales de Organización y. Procedimientos, en los términos establecidos en el Reglamento del Congreso del Estado; y
 
-XI. Revisar y aprobar de los órganos administrativos del Congreso del Estado, los Programas Operativos Anuales y sus Manuales de Organización y Procedimientos, en los términos establecidos en el Reglamento del Congreso del Estado; y
-
-XII. Las demás que le confiera el pleno del Congreso del Estado, esta Ley y sus disposiciones reglamentarias y no sean competencia de alguna comisión o comité.
+XIII. Las demás que le confiera el pleno del Congreso del Estado, esta Ley y sus disposiciones reglamentarias y no sean competencia de alguna comisión o comité.
 
 ###### Artículo 51.
 
@@ -1614,3 +1616,13 @@ P.O. 19 DE NOVIEMBRE DE 2008.
 Primero.- Una vez aprobado que sea el presente Decreto, entrará en vigor el mismo día de su aprobación.
 
 Segundo.- Para efectos de su difusión, publíquese en la Gaceta Legislativa de este Congreso del Estado y en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 11 DE FEBRERO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor el mismo día de su aprobación por el Pleno del Congreso.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase la presente reforma al Titular del Poder Ejecutivo del Estado, para su publicación inmediata en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, para su divulgación.
