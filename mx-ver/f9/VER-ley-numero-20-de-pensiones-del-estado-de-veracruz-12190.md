@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-20-de-pensiones-del-estado-de-veracruz-12190"
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-09"
-last_updated: "2007-11-26"
+last_updated: "2009-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 20 DE PENSIONES DEL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE FEBRERO DE 2009.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el sábado 9 de noviembre de 1996.
 
@@ -705,7 +705,9 @@ IV. Otorgar jubilaciones y pensiones;
 
 V. Invertir los fondos de acuerdo con las disposiciones de esta ley;
 
-VI. Realizar toda clase de actos jurídicos y celebrar los contratos que requiera su operación y funcionamiento, previo acuerdo del Consejo Directivo;
+> <small>(REFORMADA, G.O. 11 DE FEBRERO DE 2009)</small>
+
+VI. Realizar toda clase de actos jurídicos y celebrar los contratos que requiera su operación y funcionamiento, así como los que le permitan obtener recursos adicionales para destinarlos a la realización de sus fines, previo acuerdo del Consejo Directivo;
 
 VII. Adquirir bienes muebles e inmuebles necesarios para la realización de sus fines;
 
@@ -799,9 +801,13 @@ XIII. Aprobar la integración de comités o comisiones necesarios para el mejor 
 
 XIV. Nombrar y remover a propuesta del Director General, al secretario técnico del Consejo Directivo;
 
-XV. Disponer la entrega de ejemplares de los estudios actuariales con la debida oportunidad a las representaciones sindicales, y;
+XV. Disponer la entrega de ejemplares de los estudios actuariales con la debida oportunidad a las representaciones sindicales, y; (sic)
 
-XVI. En general, realizar todos aquellos actos y operaciones autorizados por esta ley y los que sean necesarios para la mejor administración y gobierno del Instituto.
+> <small>(ADICIONADA, G.O. 11 DE FEBRERO DE 2009)</small>
+
+XVI. Autorizar la realización, operación y administración de sorteos, que tengan como finalidad la obtención de recursos que permitan apoyar de manera efectiva el cumplimiento de los fines del Instituto, en términos de lo dispuesto por la normativa de la materia; y
+
+XVII. En general, realizar todos aquellos actos y operaciones autorizados por esta ley y los que sean necesarios para la mejor administración y gobierno del Instituto.
 
 ###### Artículo 83.
 
@@ -859,9 +865,13 @@ En caso de incumplimiento de esta fracción y la anterior, se estará a lo dispu
 
 > <small>(ADICIONADA, G.O. 26 DE NOVIEMBRE DE 2007)</small>
 
-XVII. Ordenar, en los términos previstos por el artículo 31, la práctica de verificaciones, visitas domiciliarias a entidades sujetas al régimen del Instituto o comprobación del cumplimiento de obligaciones en términos de esta Ley, a cargo del Gobierno del Estado y los organismos públicos incorporados, con sujeción a las formalidades previstas en el Código de Procedimientos Administrativos para el Estado; y
+XVII. Ordenar, en los términos previstos por el artículo 31, la práctica de verificaciones, visitas domiciliarias a entidades sujetas al régimen del Instituto o comprobación del cumplimiento de obligaciones en términos de esta Ley, a cargo del Gobierno del Estado y los organismos públicos incorporados, con sujeción a las formalidades previstas en el Código de Procedimientos Administrativos para el Estado; y (sic)
 
-XVIII. Todas las demás que le fijen los reglamentos o le otorgue el Consejo Directivo.
+> <small>(ADICIONADA, G.O. 11 DE FEBRERO DE 2009)</small>
+
+XVIII. Proponer al Consejo Directivo los programas de inversión y de actividades relativas a la realización, operación y administración de sorteos, para beneficio del Instituto; y
+
+XIX. Todas las demás que le fijen los reglamentos o le otorgue el Consejo Directivo.
 
 ###### Artículo 88.
 
@@ -1118,3 +1128,9 @@ Tercero. La disposición contenida en el último párrafo del artículo 15, así
 Cuarto. Los artículos transitorios Tercero, Quinto, Sexto, Séptimo, Noveno y Undécimo de la Ley de Pensiones del Estado seguirán surtiendo sus efectos jurídicos y continuarán vigentes a partir de la entrada en vigor del presente Decreto.
 
 Quinto. Se conserva el monto de los recursos que constituyen la Reserva Técnica Específica. Dicho fondo se verá incrementado a partir de la vigencia de este Decreto, con la aplicación del 20 % de las cuotas y aportaciones de los derechohabientes con ingreso al servicio a partir del 1° de enero de 1997 y se utilizará para cubrir los beneficios que se generen a favor de los derechohabientes.
+
+G.O. 11 DE FEBRERO DE 2009.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
