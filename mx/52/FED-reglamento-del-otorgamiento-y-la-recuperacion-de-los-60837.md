@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-otorgamiento-y-la-recuperacion-de-los-60837"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-05-14"
-last_updated: "2008-05-14"
+last_updated: "2009-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60837&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-03-31"
 
 REGLAMENTO DEL OTORGAMIENTO Y LA RECUPERACION DE LOS PRESTAMOS PERSONALES Y SU FINANCIAMIENTO, DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE FEBRERO DE 2009.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 14 de mayo de 2008.
 
@@ -175,13 +175,15 @@ El Instituto se reserva el derecho de informar a los trabajadores y pensionados,
 
 La Subdirección General podrá ofrecer los sistemas de recuperación de crédito para la aplicación de los descuentos por concepto de otras prestaciones que el ISSSTE otorgue a sus derechohabientes.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 11 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 8.
 
-La tasa de interés que se aplicará a los préstamos personales se calculará trimestralmente de tal manera que el rendimiento efectivo del valor total anual del fondo no sea inferior a uno punto veinticinco veces la tasa de los Certificados de la Tesorería de la Federación (CETES) con vencimiento a veintiocho días, considerando un factor de ajuste por monto y plazo como sigue:
+Las tasas de interés que se aplicarán a los préstamos personales se calcularán trimestralmente, de tal manera que el costo total anual efectivo sobre el monto prestado, calculado sobre saldos insolutos y según la metodología emitida por el Banco de México, no sea inferior a uno punto veinticinco veces la tasa de los Certificados de la Tesorería de la Federación (CETES) con vencimiento a veintiocho días, considerando un factor de ajuste por monto y plazo como sigue:
 
 I. Tasa para préstamos ordinarios = La que determine la Junta Directiva a propuesta del Director General,
 
-II. Tasa para préstamos especiales= Tasa para préstamos ordinarios más tres puntos porcentuales, y
+II. Tasa para préstamos especiales = Tasa para préstamos ordinarios más tres puntos porcentuales, y
 
 III. Tasa para préstamos para adquisición de bienes de uso duradero = Tasa para préstamos especiales más dos puntos porcentuales.
 
@@ -602,3 +604,9 @@ Lo que me permito hacer de su conocimiento para los efectos legales procedentes.
 Atentamente
 
 México, D.F., a 31 de marzo de 2008.- El Secretario, José Enrique Ampudia Mello.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 11 DE FEBRERO DE 2009.
+
+UNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
