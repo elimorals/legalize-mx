@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-el-congreso-del-estado-de-morelos-56679"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-25"
-last_updated: "2008-11-19"
+last_updated: "2009-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 25 de julio de 2007
 
@@ -801,37 +801,7 @@ Las intervenciones a que se refiere la fracción X de este artículo, se harán 
 
 ###### ARTÍCULO 88.
 
-En la sesión que se celebre el cuarto domingo de septiembre de cada año, el Titular del Poder Ejecutivo del Estado, presentará informe acerca de la situación que guarde la administración pública del Estado.
-
-La sesión a que se refiere este artículo se desarrollará de la siguiente manera:
-
-I. Pase de lista de los ciudadanos diputados;
-
-II. Declaración del quórum legal;
-
-III. Nombramiento de comisiones de cortesía;
-
-IV. Declaración de un receso para recibir al Gobernador del Estado;
-
-V. Honores a la Bandera;
-
-VI. Himno Nacional Mexicano;
-
-VII. Intervención de un diputado por cada uno de los grupos y fracciones parlamentarias, que no excederán de 15 minutos;
-
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
-
-VIII. Presentación del Informe del Gobernador del Estado, durante el cual, podrán solicitarse hasta tres interpelaciones con relación al estado que guarda la administración pública estatal por cada grupo parlamentario, que no excederán de tres minutos cada una, las cuales deberán ser contestadas en el acto.
-
-La Junta Política y de Gobierno acordará las condiciones y modalidades bajo las cuales se desarrollarán las interpelaciones; este acuerdo se hará del conocimiento de la Asamblea;
-
-IX. Respuesta del Diputado Presidente;
-
-X. Marcha “Morelenses”;
-
-XI. Clausura de la sesión.
-
-Las intervenciones a que se refieren las fracciones VII y VIII de este artículo, se harán en un orden creciente en razón del número de diputados de cada grupo y fracciones parlamentarias.
+(DEROGADO, P.O. 11 DE FEBRERO DE 2009)
 
 ###### ARTÍCULO 89.
 
@@ -1894,3 +1864,13 @@ P.O. 19 DE NOVIEMBRE DE 2008.
 Primero.- Una vez aprobado que sea el presente Decreto, entrará en vigor el mismo día de su aprobación.
 
 Segundo.- Para efectos de su difusión, publíquese en la Gaceta Legislativa de este Congreso del Estado y en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 11 DE FEBRERO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor el mismo día de su aprobación por el Pleno del Congreso.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase la presente reforma al Titular del Poder Ejecutivo del Estado, para su publicación inmediata en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, para su divulgación.
