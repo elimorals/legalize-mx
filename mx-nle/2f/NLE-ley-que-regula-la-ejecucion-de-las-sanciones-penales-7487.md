@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-regula-la-ejecucion-de-las-sanciones-penales-7487"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-01"
-last_updated: "2007-07-04"
+last_updated: "2009-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 1 de junio de 1994.
 
@@ -99,13 +99,17 @@ Para los efectos del artículo anterior, la Secretaría de Seguridad Pública te
 
 I.- Organizar, dirigir y administrar los establecimientos penitenciarios en el Estado;
 
-II.- Recibir, trasladar, custodiar, vigilar y disponer el tratamiento de toda persona que fuere privada de su libertad, desde el momento en que ingrese a los establecimientos de reclusión a su cargo;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2009)</small>
+
+II.- Recibir, trasladar, custodiar, vigilar y disponer el tratamiento, las medidas especiales de vigilancia y seguridad de toda persona que fuere privada de su libertad, desde el momento en que ingrese a los establecimientos de reclusión a su cargo;
 
 III.- Elaborar y poner a consideración del Ejecutivo del Estado, para su aprobación, los reglamentos internos y demás disposiciones que deban regir los establecimientos de reclusión a su cargo;
 
 IV.- Vigilar y supervisar la conducta de las personas a quienes se les haya concedido el beneficio de la condena condicional, conforme al Código Penal del Estado;
 
-V.- Adoptar los medios y sistemas de clasificación y tratamiento de los reclusos;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2009)</small>
+
+V.- Adoptar los medios y sistemas de clasificación y tratamiento de los reclusos y aplicar en lo conducente, lo dispuesto por los últimos dos párrafos del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos;
 
 VI.- Instar el pago del cumplimiento de la multa mediante el procedimiento económico-coactivo de la Secretaría de Finanzas y Tesorería General del Estado;
 
@@ -260,6 +264,14 @@ En el primero de los períodos previstos en el artículo anterior, se estudiará
 Para la mejor individualización del tratamiento y tomando en cuenta los resultados de los estudios sobre personalidad de los internos, éstos serán clasificados en grupos de acuerdo con su capacidad, su grado de peligrosidad, su edad, su salud mental y su salud física.
 
 Igualmente se seleccionará a los internos, según las condiciones de cada medio y las posibilidades presupuestales, en instituciones especializadas, entre otras, de máxima seguridad, colonias y campamentos penales, hospitales psiquiátricos y para infecciosos e instituciones abiertas.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2009)</small>
+
+Los sentenciados podrán compurgar sus penas en los centros penitenciarios más cercanos a su domicilio, con el fin de propiciar su reinserción social y procurar que no vuelvan a delinquir. Esta disposición no aplicará tratándose de los delitos mencionados en el párrafo siguiente.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2009)</small>
+
+Desde el ingreso, tratándose de cualquiera de los delitos establecidos en los artículos 165 bis, 176, 357 ó 357 bis del Código Penal para el Estado, la autoridad penitenciaria podrá restringir las comunicaciones de los inculpados o sentenciados con terceros, salvo el acceso de su defensor. También podrá imponer medidas de vigilancia especial o medidas especiales de seguridad a quienes se encuentren internos en los establecimientos penitenciarios, como reclusión en módulos especiales, uso de cámaras de circuito cerrado en celdas e instalaciones, uso permanente de uniformes de identificación, aplicación permanente de acciones de revisión interna y externa de celdas e instalaciones, control extremo de rutina de internos, control extremo de vigilancia a visitas, control extremo de acción operativa o cualquier otra medida que debido a las circunstancias la autoridad estime pertinente.
 
 ###### ARTICULO 27.
 
@@ -586,3 +598,7 @@ Artículo Único.- Las disposiciones contenidas en el presente Decreto entrarán
 P.O. 4 DE JULIO DE 2007.
 
 Artículo Único.- Las disposiciones contenidas en el presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE FEBRERO DE 2009.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
