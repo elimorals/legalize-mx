@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2008-12-18"
+last_updated: "2009-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2009.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -1189,11 +1189,17 @@ Este delito se sancionará con una pena de quince a cuarenta y cinco años de pr
 
 Para efectos de lo establecido en la fracción I de este artículo, se entiende por rescate todo aquello que entrañe un provecho indebido y a cuya realización o cumplimiento se condiciona la libertad del secuestrado.
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 135 Bis.
 
-A quien retenga a una persona con el único objeto de obligarla a retirar fondos monetarios de cajeros automáticos o ventanillas de instituciones de crédito, o a realizar otra operación o acción de cualquier tipo; o la obligue a adquirir bienes o servicios en establecimientos o centros comerciales mediante el uso de tarjetas electrónicas, cheques bancarios, o cualquier otro medio, obtenga o no el beneficio, se le impondrá una pena de diez a cuarenta años y sanción pecuniaria de cuatrocientos a mil días de salario mínimo.
+Comete el delito de secuestro, en su modalidad de secuestro exprés, quien prive de la libertad a una persona por el tiempo estrictamente indispensable para cometer los delitos de robo o extorsión previstos en los artículos 194 y 212 de este Código, o para obtener algún beneficio económico o ventaja de diversa índole.
+
+Este delito se sancionará con pena de prisión de diez a cuarenta años y una sanción pecuniaria de quinientos a dos mil días de salario mínimo.
+
+Lo anterior, con independencia de las demás sanciones que conforme a este Código le correspondan por los delitos de robo o extorsión, u otros que de su conducta resulten.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
 
@@ -1945,9 +1951,59 @@ Se equiparan al robo y se sancionarán como tal:
 
 I. La sustracción, disposición o destrucción de una cosa mueble, ejecutada intencionalmente por el dueño, si ésta se halla en poder de otra persona a Título de prenda o de depósito decretado por una autoridad o hecho con su intervención o mediante contrato público o privado;
 
-II. El aprovechamiento de una línea telefónica, de energía eléctrica o de cualquier otro fluido, ejecutado sin derecho y sin consentimiento de la persona que legalmente pueda disponer de estos, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III. El hecho de encontrarse una cosa perdida y no entregarla a su dueño, sabiendo quién es o a la autoridad, dentro del plazo que señala la Ley Civil.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2009)</small>
+
+II. El aprovechamiento de una línea telefónica, de energía eléctrica o de cualquier otro fluido, ejecutado sin derecho y sin consentimiento de la persona que legalmente pueda disponer de estos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2009)</small>
+
+III. El hecho de encontrarse una cosa perdida y no entregarla a su dueño, sabiendo quién es, o a la autoridad, dentro del plazo que señala la Ley Civil;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2009)</small>
+
+IV. El apoderamiento material de documentos, datos o información contenidos en computadoras, o el aprovechamiento o utilización de dichos datos, sin, derecho y sin el consentimiento de la persona que legalmente pueda disponer de los mismos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2009)</small>
+
+V. La compra o adquisición de cualquier forma, de objetos o productos robados, a sabiendas de esta circunstancia, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2009)</small>
+
+VI. El apoderamiento o uso indebido de tarjetas de crédito o débito, expedidas por instituciones bancarias o de cualquier otra naturaleza, o de títulos de crédito o documentos auténticos que sirvan para el pago de bienes o servicios, o para obtener dinero en efectivo sin el consentimiento de quien tenga derecho a disponer de tal instrumento y con el que el sujeto activo pueda obtener un beneficio económico en detrimento de alguien.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2009)</small>
+
+###### ARTICULO 195 Bis.
+
+Se equiparan al delito de robo de vehículo y se sancionarán con la pena a la que se refiere el artículo 197 de este Código, con independencia de las penas que le correspondan por la comisión de otros delitos, a quien:
+
+I. Desmantele algún o algunos vehículos robados, o comercialice conjunta o separadamente sus partes;
+
+II. Enajene o trafique de cualquier manera con un vehículo o vehículos robados;
+
+III. Detente, posea, custodie, altere o modifique de cualquier manera la documentación que acredite la propiedad o identificación de un vehículo robado.
+
+IV. Altere, modifique, sustituya o suprima de cualquier manera los números o letras de series de motor, chasis, carrocería o de cualquier parte, que sirva para identificar uno o más vehículos robados;
+
+V. Traslade el o los vehículos robados a otra entidad federativa o al extranjero, y
+
+VI. Utilice el o los vehículos robados en la comisión de otro u otros delitos.
+
+A quien aporte recursos económicos o de cualquier índole para le ejecución de una o varias actividades descritas en las fracciones anteriores, se le considerará coparticipe en los términos del artículo 8º de este Código.
+
+Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución o sanción del delito, o de ejecución de penas, o de carácter administrativo en la expedición de placas y licencias o de cualquier otra relacionada con ésta, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión hasta en una mitad más y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos, por un periodo igual a la pena de prisión impuesta.
 
 ###### ARTICULO 196.
 
@@ -1977,27 +2033,57 @@ En el caso de tentativa de robo, cuando no fuera posible determinar su monto, se
 
 Cuando lo robado sean bienes de valor científico, artístico, histórico, religioso o cultural cuya preservación sea de interés social, se impondrá una pena de tres a doce años de prisión y sanción pecuniaria de trescientos a un mil doscientos días de salario mínimo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 200.
 
-Se considera calificado el robo cuando:
+Será calificado el robo cuando:
 
-I. Se ejecute con violencia en las personas.
+I. Se ejecute con violencia física o moral en las personas.
 
-Para los efectos de esta fracción sólo se considera la violencia moral cuando se coaccione a la víctima con un mal presente o inmediato;
+Para los efectos de esta fracción se entiende por violencia física en el robo, la fuerza material que para cometerlo se hace a una persona.
 
-II. Se cometa quebrantando la confianza o seguridad derivada de alguna relación y servicio, trabajo u hospitalidad;
+Hay violencia moral cuando el o los ladrones amagan o amenazan a una persona con un mal grave, presente e inminente, capaz de intimidarla. Se equipara a la violencia moral, la utilización de juguetes u otros objetos que tengan la apariencia, forma o configuración de armas de fuego, o de pistolas de municiones o aquéllas que arrojen proyectiles a través de aire o gas comprimido.
 
-III. Se cometa en un aposento, casa-habitación, sus dependencias o en un lugar cerrado;
+Para la imposición de la sanción, se tendrá también el robo como hecho con violencia, cuando ésta se haga a una persona distinta a la robada, que se encuentre en compañía de ella, y cuando el ladrón la ejercite después de consumado el robo para darse la (sic) fuga o retener lo robado;
 
-IV. Se apodere para sí o para otro de bienes u objetos que excedan el valor de doscientas veces el salario mínimo vigente, cuando dichos bienes provengan de personas físicas o morales para auxilio de las víctimas de un desastre natural;
+II. Se cometa quebrantando la confianza o la seguridad que deriva de alguna relación o servicio, trabajo u hospitalidad;
 
-V. Se ejecute con intervención de dos o más personas;
+III. Se cometa en un aposento, casa habitación o las dependencias de éstos;
 
-VI. Recaiga en expediente o documento, con afectación de alguna función pública, o
+IV. Se cometa sobre bienes u objetos que excedan el valor de doscientas veces el salario mínimo vigente, y que dichos bienes sean destinados para auxilio de las víctimas de un desastre natural;
 
-VII. El objeto robado sea un vehículo de motor.
+V. Se cometa aprovechando las condiciones de confusión, sobre los bienes de personas víctimas de catástrofes o accidentes aéreos, ferroviarios o carreteros;
 
-En los casos de robo calificado, se aplicarán las sanciones correspondientes al robo simple, aumentadas en una mitad.
+VI. Se cometa con la intervención de dos o más personas;
+
+VII. Se cometa respecto de un expediente o documento de protocolo, oficina o archivos públicos;
+
+VIII. Se cometa en cualquiera de los casos a que se refiere el Artículo 195 Bis de este Código;
+
+IX. Se cometa en un parque, en algún lugar cerrado, o en edificio o pieza que no estén habitados, ni destinados para habitarse.
+
+Se entiende por lugar cerrado, todo terreno que no tenga comunicación con un edificio, ni esté dentro del recinto de éste, y que para impedir la entrada se halle rodeado de pozos, enrejados, tapias o cercas de cualquier material;
+
+X. Se cometa escalando muros, rejas o tapias;
+
+XI. Se cometa empleando excavaciones, túneles, llaves falsas, ganzúas, alambres, o cualquier otro artificio para abrir puerta o ventanas, o cuando el ladrón se quede dentro del local durante la noche, cerrado éste;
+
+XII. Se cometa respecto de materiales que conduzcan energía eléctrica, agua o gas, y que estén destinados a la prestación de un servicio;
+
+XIII. Se cometa con el empleo de cualquier medio para abrir cajas fuertes;
+
+XIV. Se cometa aprovechando las condiciones de confusión respecto de los bienes de personas heridas;
+
+XV. Se cometa en el interior de una unidad del servicio público de transporte de pasajeros o de cualquiera que preste similar, y
+
+XVI. Se cometa utilizando de cualquier forma una unidad del servicio público de transporte de pasajeros o de cualquiera que preste un servicio similar.
+
+En los casos a que hace referencia este artículo, se aplicarán las sanciones correspondientes al robo simple, aumentadas en una mitad.
+
+Los adquirientes o detentadores de vehículos o autopartes no serán sancionados, cuando acrediten legalmente la buena fe en la adquisición o tenencia de las cosas que se consideran como robadas; para acreditar esta circunstancia se atenderá al costo de compra de los bienes y su precio en el mercado, así como la legalidad del procedimiento de adquisición con persona moral o física cierta.
 
 ###### ARTICULO 201.
 
@@ -2075,6 +2161,10 @@ Para estimar la cuantía del fraude, si por alguna circunstancia no fuere estima
 
 ### CAPITULO VI. EXTORSION
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 207.
 
 Comete el delito de abuso de confianza quien con perjuicio de alguien dispone para sí o para otro de cualquier cosa mueble, ajena, de la que se le ha transferido la tenencia y no el dominio.
@@ -2135,9 +2225,27 @@ Este delito se sancionará con una pena de dos a seis años de prisión, sanció
 
 ###### ARTICULO 212.
 
-Comete el delito de extorsión quien, para obtener un lucro para sí o para otro, obliga a alguien a hacer, tolerar o dejar de hacer algo.
+Comete el delito de extorsión quien, para obtener un lucro para sí o para un tercero, intimide a otro con causarle un mal en su persona, familia o bienes obligándolo a dar, hacer, dejar de hacer o tolerar algo. Este delito se sancionará con una pena de prisión de cuatro a diez años y sanción pecuniaria de trescientos a mil días de salario mínimo.
 
-Este delito se sancionará con una pena de prisión de tres a diez años y sanción pecuniaria de trescientos a un mil días de salario mínimo.
+Cuando este delito se cometa utilizando cualquier medio de comunicación, a través de los que se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza que se efectúe por hilos, radioelectricidad, medios ópticos, físicos vía satelital, u otros sistemas electromagnéticos, o cualquier otro sistema originado con motivo de los descubrimientos de la ciencia, se le impondrá de seis a doce años de prisión y sanción pecuniaria de quinientos a mil días de salario mínimo.
+
+Además de las penas señaladas en el segundo párrafo de este artículo, se impondrá una pena de seis a doce años de prisión, cuando en la comisión del delito:
+
+I. Intervenga una o más personas armadas, o portando instrumentos peligrosos;
+
+II. Se emplee violencia física, o
+
+III. Se cometa en contra de persona mayor de sesenta años de edad, de menores de dieciocho años de edad, o de personas que no tienen capacidad para comprender el significado del hecho, o de persona que no tiene capacidad para resistirlo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2009)</small>
+
+###### ARTICULO 212 Bis.
+
+Si en la comisión del delito de extorsión participa algún miembro de una corporación policiaca o servidor público, será considerado como delito grave y se impondrá además de las penas previstas en el artículo anterior aumentadas en una mitad más, la destitución definitiva e inhabilitación desde uno hasta veinte años para desempeñar cualquier empleo, cargo o comisión pública.
+
+A los trabajadores de instituciones bancarias o crediticias, y a los empleados de empresas de comunicación telefónica, de radio comunicación, de telecomunicación, o encargadas de transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza que se efectúe por hilos, radioelectricidad, medios ópticos, físicos vía satelital, u otros sistemas electromagnéticos, o cualquier otro sistema originado con motivo de los descubrimientos de la ciencia, que por razón de su empleo manejen información de clientes o tengan acceso a la misma, y que la utilicen de cualquier forma o la sustraigan para sí o para terceros con el objeto de obtener un lucro o beneficio por medio de la extorsión en sus diversas modalidades, se les impondrán las penas y sanción pecuniaria a que se refiere el párrafo anterior.
 
 ### CAPITULO UNICO
 
@@ -2951,6 +3059,18 @@ Este delito se sancionará con una pena de seis meses a dos años de prisión, s
 
 Si el delito a que se refiere la fracción II del artículo anterior se comete por conductores de vehículos de transporte público de pasajeros, las sanciones serán de tres a ocho años de prisión, sanción pecuniaria de sesenta a ciento sesenta días de salario mínimo y suspensión de derechos para conducir vehículos por el doble de tiempo de la pena de prisión impuesta, sin perjuicio de las penas que correspondan si comete otro delito.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2009)</small>
+
+###### ARTICULO 305 Bis.
+
+Al que maneje o utilice un vehículo de motor con las placas sobrepuestas, o documentación autorizada oficialmente para circular que no corresponda con los números de serie o datos de identificación del vehículo, y que tenga conocimiento de tal situación, se le impondrá una pena de seis meses a tres años de prisión y sanción pecuniaria de cincuenta a doscientos días de salario.
+
+Al que en la comisión de un delito doloso, maneje o utilice como medio o instrumento de la ejecución de ese delito, un vehículo de motor sin las placas visibles o la tarjeta que autorice su debida circulación, o con documentación que no corresponda a la autorizada oficialmente para circular, o vehículo de procedencia extranjera del que no se acredite la propiedad, se le impondrá una pena de uno a tres años de prisión y sanción pecuniaria de cien a doscientos días de salario, si el delito que se comete es grave, se duplicará la pena.
+
+Si se trata de un elemento de cualquier corporación policíaca se le impondrá de tres a seis años de prisión, destitución definitiva e inhabilitación hasta por veinte años para desempeñar empleo, cargo o comisión públicos.
+
 ###### ARTICULO 306.
 
 En caso de reincidencia de alguno de los delitos a que se refieren los artículos anteriores de este Capítulo, la inhabilitación para manejar podrá ser definitiva y el juez lo comunicará a las autoridades competentes.
@@ -3286,3 +3406,9 @@ PRIMERO. Este Decreto entrará en vigor a los noventa días siguientes de su pub
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Todos los procedimientos, recursos administrativos y demás asuntos relacionados con la materia familiar a que refiere el Código Civil para el Estado de San Luis Potosí, iniciados con anterioridad a la entrada en vigor a este Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.
+
+P.O. 12 DE FEBRERO DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor el día treinta de marzo del año dos mil nueve, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
