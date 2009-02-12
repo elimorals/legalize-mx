@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-universidad-tecnologica-de-52381"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-13"
-last_updated: "2006-11-13"
+last_updated: "2009-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DE HERMOSlLLO, SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE FEBRERO DE 2009.
 
 Reglamento publicado en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 13 de noviembre de 2006.
 
@@ -71,21 +71,23 @@ II. Órganos de Apoyo y Colegiados:
 
 - Consejo Técnico, y
 
+> <small>(REFORMADA, B.O. 12 DE FEBRERO DE 2009)</small>
+
 III. Unidades Administrativas:
 
 - Rectoría;
 
-- Secretaria Académica;
+- Secretaría Académica;
 
-- Secretaria de Vinculación;
+-.Secretaría de Vinculación;
 
 - Dirección de Extensión Universitaria;
 
 - Dirección de Administración y Finanzas;
 
-- Subdirección de Planeación y Evaluación, y
+- Dirección de Planeación y Evaluación; y
 
-- Dirección Jurídica,
+- Dirección Jurídica.
 
 Se anexa organigrama estructural.
 
@@ -285,7 +287,9 @@ I. El Rector, quien lo presidirá;
 
 II. El Secretario que será designado por el Rector, y
 
-III Los Vocales, que serán el Secretario Académico, el Secretario de Vinculación, los Directores de Carrera, el Director de Administración y Finanzas, el Director de Extensión Universitaria, el Subdirector de Planeación y Evaluación y el Director Jurídico.
+> <small>(REFORMADA, B.O. 12 DE FEBRERO DE 2009)</small>
+
+III. Los Vocales, que serán el Secretario Académico, el Secretario de Vinculación, los Directores de Carrera, el Director de Administración y Finanzas, el Director de Extensión Universitaria, el Director de Planeación y Evaluación y el Director Jurídico.
 
 ###### Artículo 25.
 
@@ -321,9 +325,17 @@ VI. Acordar con el Rector los asuntos de la competencia de la Unidad Administrat
 
 VIl. Someter a la consideración del Rector los proyectos de modernización y desarrollo administrativo de la Unidad Administrativa correspondiente, para su mejor funcionamiento y despacho de los asuntos a su cargo;
 
-VIII. Atender al público en los asuntos de la competencia de la Unidad Administrativa respectiva, y
+> <small>(REFORMADA, B.O. 12 DE FEBRERO DE 2009)</small>
 
-IX. Las demás que les confieran las distintas disposiciones legales y reglamentarias aplicables o les encomiende el Rector.
+VIII. Atender al público en los asuntos de la competencia de la Unidad Administrativa respectiva;
+
+> <small>(REFORMADA, B.O. 12 DE FEBRERO DE 2009)</small>
+
+IX. Coadyuvar en el cumplimiento de la normatividad expedida en la materia para el control, organización, circulación y conservación de documentos y archivos; y
+
+> <small>(ADICIONADA, B.O. 12 DE FEBRERO DE 2009)</small>
+
+X. Las demás que les confieran las distintas disposiciones legales y reglamentarias aplicables o les encomiende el Rector.
 
 ### CAPÍTULO VII. De las Atribuciones Específicas de las Unidades Administrativas
 
@@ -359,7 +371,9 @@ XIII. Elaborar y dar seguimiento al cumplimiento de metas establecidas en el ám
 
 XIV. Implementar, en coordinación con las Direcciones de Carrera, la actualización de los planes y programas de estudio;
 
-XV. Presentar a la Subdirección de Planeación y Evaluación, la información relacionada con las actividades relevantes, así como documentar y archivar la evidencia de las mismas;
+> <small>(REFORMADA, B.O. 12 DE FEBRERO DE 2009)</small>
+
+XV. Presentar a la Dirección de Planeación y Evaluación la información relacionada con las actividades relevantes, así como documentar y archivar la evidencia de las mismas;
 
 XVI. Verificar el cumplimiento de las disposiciones referentes a la incorporación de los alumnos al régimen facultativo del Instituto Mexicano del Seguro Social;
 
@@ -443,9 +457,17 @@ VI. Coordinar las actividades de capacitación del personal administrativo;
 
 VII. Proveer de manera oportuna y eficiente los materiales de trabajo necesarios para el buen desarrollo de las actividades académico-administrativas de la Universidad;
 
-VIII. Vigilar que se mantengan en buen estado las instalaciones y el equipo escolar de la Universidad, y
+> <small>(REFORMADA, B.O. 12 DE FEBRERO DE 2009)</small>
 
-IX. Las demás que le confieran las distintas disposiciones legales y reglamentarias aplicables o le encomiende el Rector.
+VIII. Vigilar que se mantengan en buen estado las instalaciones y el equipo escolar de la Universidad;
+
+> <small>(REFORMADA, B.O. 12 DE FEBRERO DE 2009)</small>
+
+IX. Implementar y mantener el Sistema Integral de Archivos, así mismo elaborar los procedimientos, normatividad de control de administración documental y criterios específicos de organización de archivos de acuerdo a la normatividad en la materia; y
+
+> <small>(ADICIONADA, B.O. 12 DE FEBRERO DE 2009)</small>
+
+X. Las demás que le confieran las distintas disposiciones legales y reglamentarias aplicables o le encomiende el Rector.
 
 ###### Artículo 31.
 
@@ -463,9 +485,17 @@ V. Consolidar con el área correspondiente, los programas de trabajo que habrán
 
 VI. Integrar y mantener actualizados los sistemas de información de la Universidad;
 
-VII. Integrar e interpretar los resultados de las evaluaciones efectuadas, y
+> <small>(REFORMADA, B.O. 12 DE FEBRERO DE 2009)</small>
 
-VIII. Las demás que le confieran las distintas disposiciones legales y reglamentarias aplicables o le encomiende el Rector.
+VII. Integrar e interpretar los resultados de las evaluaciones efectuadas;
+
+> <small>(REFORMADA, B.O. 12 DE FEBRERO DE 2009)</small>
+
+VIII. Proponer y coordinar nuevos proyectos estratégicos que incidan en el mejoramiento y consolidación del desarrollo institucional; y
+
+> <small>(ADICIONADA, B.O. 12 DE FEBRERO DE 2009)</small>
+
+IX. Las demás que le confieran las distintas disposiciones legales y reglamentarias aplicables o le encomiende el Rector.
 
 ###### Artículo 32.
 
@@ -579,6 +609,8 @@ C.P. DORA ALICIA RUIZ WILLIAMS
 
 Universidad Tecnológica de Hermosillo, Sonora
 
+> <small>(REFORMADO, B.O. 12 DE FEBRERO DE 2009)</small>
+
 Organigrama estructural
 
 Consejo
@@ -597,14 +629,14 @@ Secretaría Secretaría de
 
 Académica Vinculación
 
-Dirección de Dirección de
+Dirección de Dirección de Dirección de
 
-Extensión Administración
+Extensión Administración de Planeación
 
-Universitaria y Finanzas
+Universitaria y Finanzas y Evaluación
 
-Subdirección
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
-de Planeación
+P.O. 12 DE FEBRERO DE 2009.
 
-y Evaluación
+Artículo Único.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
