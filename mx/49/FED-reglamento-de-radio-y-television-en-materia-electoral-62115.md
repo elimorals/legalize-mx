@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-radio-y-television-en-materia-electoral-62115"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-11"
-last_updated: "2008-08-11"
+last_updated: "2009-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2008-07-10"
 ---
 # REGLAMENTO DE RADIO Y TELEVISION EN MATERIA ELECTORAL -REGLAMENTO DE ACCESO A RADIO Y TELEVISION EN MATERIA ELECTORAL
 
-REGLAMENTO DE RADIO Y TELEVISION EN MATERIA ELECTORAL
+REGLAMENTO DE ACCESO A RADIO Y TELEVISION EN MATERIA ELECTORAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE FEBRERO DE 2009.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 11 de agosto de 2008.
 
@@ -175,7 +175,9 @@ Acuerdo
 
 Primero.- Se expide el Reglamento de Acceso a Radio y Televisión en Materia Electoral, cuyo texto es el siguiente:
 
-REGLAMENTO DE RADIO Y TELEVISION EN MATERIA ELECTORAL
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 12 DE FEBRERO DE 2009)</small>
+
+REGLAMENTO DE ACCESO A RADIO Y TELEVISION EN MATERIA ELECTORAL
 
 ## TITULO PRIMERO. Disposiciones preliminares
 
@@ -249,7 +251,9 @@ VI. Comité: El Comité de Radio y Televisión del Instituto Federal Electoral;
 
 VII. Secretario Técnico: El Secretario Técnico del Comité;
 
-VIII. Autoridades electorales: Las autoridades administrativas electorales federales o de las entidades federativas, según se indique;
+> <small>(REFORMADA, D.O.F. 12 DE FEBRERO DE 2009)</small>
+
+VIII. Autoridades electorales: los órganos estatales administrativos y/o jurisdiccionales -federales o de las entidades federativas- que por disposición constitucional o legal ejerzan funciones electorales;
 
 IX. Juntas: Las Juntas Ejecutivas del Instituto, Locales y Distritales;
 
@@ -1254,3 +1258,9 @@ NOVENO.- Las disposiciones sobre aprobación de pautas, catálogos, mapas de cob
 DECIMO.- Quedan derogadas todas las disposiciones que se opongan al Reglamento.
 
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 10 de julio de dos mil ocho.- El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 12 DE FEBRERO DE 2009.
+
+EL ACUERDO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL FEDERAL VIGENTE.
