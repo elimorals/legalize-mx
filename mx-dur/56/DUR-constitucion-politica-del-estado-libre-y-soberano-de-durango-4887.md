@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2008-11-12"
+last_updated: "2009-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2009.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -51,15 +51,15 @@ CONSTITUCION POLITICA DEL ESTADO DE DURANGO
 
 ## TITULO PRIMERO
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE FEBRERO DE 2009)</small>
 
-### CAPITULO PRIMERO. DE LOS DERECHOS PUBLICOS INDIVIDUALES Y SOCIALES
+### CAPITULO PRIMERO. DE LAS GARANTIAS Y LOS DERECHOS SOCIALES
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 1.
 
-En el Estado de Durango todas las personas gozan de los derechos públicos individuales y de los derechos públicos sociales que la Constitución Federal les otorga, los que no podrán suspenderse ni restringirse si no en los casos y condiciones previstos en la misma. Disfrutan además de las garantías que esta Constitución establece.
+En el Estado de Durango todas las personas gozarán de las garantías y derechos sociales tutelados por la Constitución Política de los Estados Unidos Mexicanos; los estipulados en los Tratados Internacionales suscritos por el estado mexicano en materia de derechos humanos y que hayan sido ratificados por el Senado, así como los que señala esta Constitución, los que no podrán suspenderse ni restringirse sino en los casos y condiciones que la misma Constitución Federal señala.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JULIO DE 2007)</small>
 
@@ -213,9 +213,13 @@ Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para
 
 Toda persona tiene derecho a que se le administre justicia por Tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las Leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial; sus servicios serán gratuitos, quedando en consecuencia prohibidas las costas judiciales.
 
-> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2009)</small>
 
-Los particulares podrán acudir a los medios alternativos de resolución de conflictos que prevea la ley respectiva para resolver sus controversias de común acuerdo y de forma pacífica sin necesidad de recurrir al proceso judicial.
+Las personas podrán acudir a los mecanismos alternativos de solución de controversias que prevean las leyes, para resolver sus conflictos de común acuerdo. En materia penal, regularán su aplicación, asegurarán la reparación del daño y establecerán los casos en los que se requerirá supervisión judicial.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2009)</small>
+
+La imposición de las penas, su modificación y duración son propias y exclusivas de la autoridad judicial.
 
 Nadie puede ser aprisionado por deudas de carácter puramente civil.
 
@@ -235,47 +239,53 @@ Los requisitos para ser Magistrado del Tribunal de lo Contencioso Administrativo
 
 El patrimonio familiar es inalienable. En ningún caso podrá menoscabarse y no será objeto de embargo, ni de gravamen alguno.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 9.
 
 Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+Toda persona imputada tendrá derecho a que se presuma su inocencia en tanto no se dicte sentencia condenatoria en contrario.
 
-No podrá librarse orden de aprehensión contra persona alguna, sino por la autoridad judicial y sin que preceda denuncia, acusación o querella de un hecho determinado que la ley señale como delito, sancionado cuando menos con pena privativa de libertad y existan datos que acrediten el cuerpo del delito y que hagan probable la responsabilidad del indiciado.
+No podrá librarse orden de aprehensión contra persona alguna, sino por la autoridad judicial y sin que preceda denuncia o querella de un hecho determinado que la ley señale como delito, sancionado cuando menos con pena privativa de libertad y obren datos que establezcan que se ha cometido ese hecho y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión.
 
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+En todo proceso de orden penal, el imputado, la víctima y el ofendido tendrán las garantías que señalan los artículos 19 y 20, de la Constitución Política de los Estados Unidos Mexicanos.
 
-En todo proceso de orden penal, el inculpado tendrá las garantías que señalan los artículos 19 y 20, de la Constitución Política de los Estados Unidos Mexicanos.
+El proceso penal será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad, inmediación e igualdad procesal, cuya sustanciación será establecida en la ley reglamentaria. La etapa de juicio oral se celebrará ante un Juez o Tribunal que no haya conocido del caso previamente.
 
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+La investigación de los delitos corresponde al Ministerio Público y a los cuerpos de seguridad pública, mismos que actuarán bajo la conducción y mando de aquél en el ejercicio de esta función.
 
-Los delitos cuya pena no exceda de tres años de prisión, podrán ser materia de un proceso oral, cuya sustanciación será establecida en la ley reglamentaria.
+El ejercicio de la acción penal ante los órganos jurisdiccionales, corresponde al Ministerio Público. Los particulares también podrán ejercer la acción penal ante la autoridad judicial en los casos que determine la ley.
 
-La Autoridad que ejecute una orden judicial de aprehensión deberá poner al inculpado a disposición del juez, sin dilación alguna y bajo su mas estricta responsabilidad. La contravención a lo anterior será sancionado por la ley penal.
+El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que señale la ley.
 
-En los casos de delito flagrante, cualquier persona puede detener al indiciado poniéndolo sin demora a disposición de la autoridad inmediata y esta, con la misma prontitud a la del ministerio público.
+La Autoridad que ejecute una orden judicial de aprehensión deberá poner al imputado a disposición del juez, sin dilación alguna y bajo su más estricta responsabilidad. La contravención a lo anterior, será sancionada por la ley penal.
 
-Sólo en casos urgentes, cuando se trate de delito grave así calificado por la ley y ante el riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia, siempre y cuando no se pueda ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancia, el Ministerio Público, podrá bajo su responsabilidad, ordenar su detención, fundando y expresando los indicios que motiven su proceder.
+Cualquier persona puede detener al imputado en el momento en que esté cometiendo un delito o inmediatamente después de haberlo cometido, poniéndolo sin demora a disposición de la autoridad más cercana; y ésta, con la misma prontitud, ante el Ministerio Público. En todo caso, existirá un registro inmediato de la detención.
+
+Sólo en casos urgentes, cuando se trate de delito grave así calificado por la ley y ante el riesgo fundado de que el imputado pueda sustraerse a la acción de la justicia, siempre y cuando no se pueda ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancia, el Ministerio Público, podrá bajo su responsabilidad, ordenar su detención, fundando y expresando los indicios que motiven su proceder.
 
 En casos de urgencia o flagrancia, el juez que reciba la consignación del detenido deberá inmediatamente ratificar la detención o decretar la libertad con las reservas de ley.
 
-Ningún indiciado podrá ser retenido por el Ministerio Público por mas de cuarenta y ocho horas, plazo en que deberá ordenar su libertad o ponérsele a disposición de la autoridad judicial; este plazo podrá duplicarse en aquellos casos que la Ley prevea como delincuencia organizada. Todo abuso a lo anteriormente dispuesto será sancionado por la ley penal. En toda orden de cateo, que solo la autoridad judicial podrá expedir y que será escrita, se expresará el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse y los objetos que se buscan, a lo que únicamente debe limitarse la diligencia, levantándose al concluirla un acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado o en su ausencia o negativa, por la autoridad que practique la diligencia. La autoridad administrativa podrá practicar visitas domiciliarias únicamente para cerciorarse de que se han cumplido los reglamentos sanitarios y de policía; y exigir la exhibición de los libros y papeles indispensables para comprobar que se han acatado las disposiciones fiscales, sujetándose en estos casos a las leyes respectivas y a las formalidades prescritas para los cateos. Ningún juicio podrá tener más de tres instancias.
+Ningún imputado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenar su libertad o ponérsele a disposición de la autoridad judicial. Todo abuso a lo anteriormente dispuesto será sancionado por la ley penal. En toda orden de cateo, que sólo la autoridad judicial podrá expedir a solicitud del Ministerio Público, se expresará el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse y los objetos que se buscan, a lo que únicamente debe limitarse la diligencia, levantándose al concluirla un acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado o en su ausencia o negativa, por la autoridad que practique la diligencia. La autoridad administrativa podrá practicar visitas domiciliarias únicamente para cerciorarse de que se han cumplido los reglamentos sanitarios y de policía; y exigir la exhibición de los libros y papeles indispensables para comprobar que se han acatado las disposiciones fiscales, sujetándose en estos casos a las leyes respectivas y a las formalidades prescritas para los cateos. Ningún juicio podrá tener más de tres instancias.
 
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2004)</small>
+El Poder Judicial contará con Jueces de Control, que resolverán en forma inmediata y por cualquier medio, las solicitudes de medidas cautelares, providencias precautorias y técnicas de investigación de la autoridad, que requieran control judicial, y garantizarán los derechos de los imputados y de las víctimas u ofendidos. Deberá existir un registro fehaciente de todas las comunicaciones entre Jueces, Ministerio Público y demás autoridades competentes.
 
-Los sentenciados, en los casos y condiciones que establezca la ley, podrán compurgar sus penas en los centros penitenciarios más cercanos a su domicilio, a fin de propiciar su reintegración a la comunidad como forma de readaptación social.
+El sistema penitenciario en el Estado de Durango se organizará sobre la base del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley.
 
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+Los sentenciados, en los casos y condiciones que establezca la ley, podrán compurgar sus penas en los centros penitenciarios más cercanos a su domicilio, a fin de propiciar su reintegración a la comunidad como forma de reinserción social. Esta disposición no aplicará en caso de internos que requieran medidas especiales de seguridad.
 
-El Estado, en ejercicio de la función de seguridad pública que le compete, deberá, en todo momento, salvaguardar la integridad y derechos de las personas, e igualmente preservará las libertades, el orden y la paz públicos; para tal efecto, podrá celebrar los convenios de coordinación necesarios, en los términos que establezca la ley. La actuación de las instituciones policiales se regirá por los principios de legalidad, eficiencia, profesionalismo y honradez.
+Las sentencias que pongan fin a los procedimientos orales deberán ser explicadas en audiencia pública, previa citación de las partes.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+El Estado y los municipios, en ejercicio de la función de seguridad pública en sus respectivos ámbitos de competencia, deberán establecer programas de prevención del delito, investigación y persecución del mismo para hacerla efectiva, así como la sanción de las infracciones administrativas; igualmente reservarán las libertades, el orden y la paz públicos; para tal efecto, podrán celebrar los convenios de coordinación necesarios, en los términos que establezca la ley. La actuación de las instituciones policiales se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 10.
 
 La correspondencia, sea cual fuere su forma de circulación, estará libre de todo registro y su violación será penada por la Ley.
+
+Las comunicaciones privadas son inviolables. La ley sancionará penalmente cualquier acto que atente contra la libertad y privacía de las mismas, excepto cuando sean aportadas de forma voluntaria por alguno de los particulares que participen en ellas. El juez valorará el alcance de éstas, siempre y cuando contengan información relacionada con la comisión de un delito. En ningún caso se admitirán comunicaciones que violen el deber de confidencialidad que establezca la ley.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -297,23 +307,29 @@ V.- El patrimonio del Estado se compone de los bienes que son de su propiedad y 
 
 VI.- Los bienes afectos a un servicio proporcionado por el Estado, son inalienables e imprescriptibles. Los bienes del Estado, desafectados de un servicio público y que pasen al dominio privado del Estado podrán ser enajenados, previa autorización del Congreso, mediante los requisitos que señala ésta Constitución y la Ley de Bienes del Estado que expedirá el Congreso.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 12.
 
 El varón y la mujer, son iguales ante la Ley. Esta protegerá la organización y el desarrollo de la familia.
 
-No se podrá impedir a nadie el derecho a decidir de manera libre, responsable e informada sobre el número y espaciamiento de sus hijos.
+No se podrá impedir a nadie el derecho a decidir de manera libre, responsable e informada, sobre el número y espaciamiento de sus hijos.
 
-Es deber de los padres preservar el derecho de sus menores hijos a la satisfacción de sus necesidades y a su salud física y mental. La Ley determinará los apoyos a la protección de los menores, a cargo de las Instituciones Públicas.
+Es deber de los padres preservar el derecho de sus menores hijos a la satisfacción de sus necesidades y a su salud física y mental. La Ley determinará los apoyos a la protección de los menores, a cargo de las instituciones públicas.
 
-En el Estado de Durango, todas las personas, en la medida de los recursos económicos de la Administración Pública, gozarán de los siguientes derechos:
+En el Estado de Durango, todas las personas en la medida de los recursos económicos de la Administración Pública, gozarán de los siguientes derechos:
 
-1o.- Protección asistencial a la maternidad y a la infancia, cuando así lo requiera la situación económica de una o de otra.
+1o.- Protección asistencial a la maternidad y a la infancia, cuando así lo requiera la situación económica de una o de otra;
 
-2o.- Prestación de servicio médico-asistenciales y funerarios a personas indigentes; y
+2o.- Prestación de servicios médico-asistenciales y funerarios a personas indigentes; y
 
 3o.- Otorgamiento de becas cuando se trate de estudiantes indigentes que se hayan distinguido por su aprovechamiento y puedan así continuar sus estudios y perfeccionar sus conocimientos en los centros de educación media y superior.
+
+En el Estado se establecerá un sistema integral de justicia que será aplicable a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años de edad, en el que se garanticen los derechos fundamentales que reconocen la Constitución Política de los Estados Unidos Mexicanos y esta Constitución para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos. Las personas menores de doce años que hayan realizado una conducta prevista como delito en la ley, sólo serán sujetas a rehabilitación y asistencia social.
+
+La operación del sistema estará a cargo de instituciones, tribunales y autoridades especializados en la procuración e impartición de justicia para adolescentes. Se podrán aplicar las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y al interés superior del adolescente.
+
+Las formas alternativas de justicia deberán observarse en la aplicación de este sistema, siempre que resulte procedente. En todos los procedimientos seguidos a los adolescentes, se observará la garantía del debido proceso legal así como la independencia entre las autoridades que efectúen la remisión y las que impongan las medidas. Éstas deberán ser proporcionales a la conducta realizada y tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades. El internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda, y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad, por la comisión de conductas antisociales calificadas como graves.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
@@ -857,11 +873,11 @@ Ninguna iniciativa que sea desechada por el Congreso podrá ser presentada de nu
 
 SECCION D.- DE LAS FACULTADES DEL CONGRESO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 55.
 
-El Congreso tiene facultades para legislar en todo aquello que no esté expresamente establecido como atribución del Congreso de la Unión o alguna de sus Cámaras y además para:
+El Congreso del Estado tiene facultades para legislar en todo aquello que no esté expresamente establecido como atribución del Congreso de la Unión o alguna de sus Cámaras y además para:
 
 > <small>(REFORMADA, P.O. 1 DE MAYO DE 1988)</small>
 
@@ -891,9 +907,9 @@ IV.- Decretar las contribuciones y otros ingresos suficientes para atender las n
 
 V.- Autorizar al Ejecutivo y a los Ayuntamientos a contratar deuda pública y a afectar como garantía, fuente de pago o de cualquier otra forma los ingresos que les correspondan, en los términos establecidos en las leyes correspondientes;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2009)</small>
 
-VI.- Derogar, adicionar y reformar las Leyes del Estado;
+VI.- Expedir leyes de nueva creación y abrogar, derogar, adicionar y reformar las leyes y decretos vigentes, así como participar en las reformas a esta Constitución observando las formalidades previstas para el efecto;
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -935,9 +951,9 @@ XV.- Legislar sobre el aprovechamiento de las aguas que queden bajo el régimen 
 
 XVI.- Hacer la declaración de pérdida de la calidad de duranguenses o de ciudadanos del Estado, y de rehabilitación en ambos casos;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2009)</small>
 
-XVII.- Intervenir en los términos de esta constitución, en las designaciones de los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Procurador General de Justicia, de los integrantes de la Comisión Estatal de Derechos Humanos y de los Consejeros Electorales del Instituto Estatal Electoral; así mismo, resolver sobre las renuncias o licencias que presenten, en los términos de la legislación vigente;
+XVII.- Intervenir en los términos de esta Constitución, en las designaciones de los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Tribunal de lo Contencioso Administrativo del Estado de Durango, del Procurador General de Justicia, del Presidente y Consejeros de la Comisión Estatal de Derechos Humanos, de los Comisionados de la Comisión Estatal para la Transparencia y el Acceso a la Información Pública y de los Consejeros Electorales; así mismo, resolver sobre las renuncias o licencias que presenten, en los términos de la legislación vigente;
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -957,9 +973,9 @@ XX.- Resolver los conflictos que sobre límites se susciten entre los municipios
 
 XXI.- Expedir el bando solemne para dar a conocer en todo el Estado la declaración de Gobernador que hubiere hecho el Tribunal Estatal Electoral;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2009)</small>
 
-XXII.- Tomar la protesta de ley al Gobernador, a los Magistrados del Tribunal Superior de Justicia y del Tribunal Estatal Electoral, al Titular de la Entidad de Auditoría Superior del Estado y a los integrantes de la Comisión Estatal de Derechos Humanos del Estado de Durango y a los Consejeros del Instituto Estatal Electoral;
+XXII.- Tomar la protesta de ley al Gobernador del Estado, a los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Tribunal para Menores Infractores, del Presidente y Consejeros de la Comisión Estatal de Derechos Humanos, de los Comisionados de la Comisión Estatal para la Transparencia y el Acceso a la Información Pública, de los Consejeros Electorales y del Titular de la Entidad de Auditoría Superior del Estado;
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 1987)</small>
 
@@ -1307,7 +1323,7 @@ VIII.- Visitar periódicamente los Municipios del Estado;
 
 IX.- Hacer observaciones a las leyes y decretos que expidiere el Congreso del Estado, en los términos que señala el Artículo 52;
 
-X.- Facilitar al Poder Judicial los auxilios que requiera para el ejercicio expÉdito de sus funciones;
+X.- Facilitar al Poder Judicial los auxilios que requiera para el ejercicio expédito de sus funciones;
 
 XI.- Solicitar a la comisión permanente que convoque al Congreso a períodos extraordinarios de sesiones cuando lo considere necesario;
 
@@ -1349,7 +1365,9 @@ XXIII.- Representar a la Hacienda Pública, pudiendo, en los casos que lo estime
 
 XXIV.- Fomentar la educación popular, las actividades deportivas y el mejoramiento moral y material de la colectividad, sustentando siempre los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos;
 
-XXV.- Dictar medidas correspondientes para la organización del sistema penitenciario sobre la base de la educación y del trabajo como medios de rehabilitación del delincuente;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2009)</small>
+
+XXV.- Establecer en forma concurrente con el Poder Judicial, las medidas correspondientes para la organización del sistema penitenciario sobre la base del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad;
 
 XXVI.- Cuidar de que las elecciones se efectuen en el tiempo señalado por las leyes relativas; y (sic)
 
@@ -1369,9 +1387,13 @@ XXIX.- Fomentar y estimular la creación de industrias y empresas rurales, busca
 
 XXX.- Celebrar convenios con la Federación o Municipios con respecto a la administración y recaudación de las contribuciones. También podrá celebrar convenios con la Federación, o sus Municipios respectivos, para que se asuman por unos u otros la ejecución y operación de obras; así como otorgar, revocar o modificar concesiones a los particulares que conforme a la legislación vigente competa al Ejecutivo para que asuman la ejecución y operación de obras, y la prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario. Las leyes reglamentarias de la materia normaran las modalidades del procedimiento;
 
-> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 1984)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2009)</small>
 
-XXXI.- Las demás que expresamente le confiere esta Constitución y las Leyes reglamentarias respectivas.
+XXXI.- Instrumentar sistemas complementarios de seguridad social del personal del Ministerio Público, de las corporaciones policiales y de los servicios periciales, de sus familias y dependientes; y
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2009)</small>
+
+XXXII.-·Las demás que expresamente le confiere esta Constitución y las leyes reglamentarias respectivas.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 27 DE JUNIO DE 1993)</small>
 
@@ -1579,11 +1601,11 @@ SECCION G.- DE LAS PROCURADURIAS Y DEFENSORIAS DE OFICIO
 
 La prestación del servicio de defensoría pública, se llevará a cabo por el Instituto de Defensoría Pública del Estado, dependiente del Ejecutivo Estatal. Su organización y funcionamiento, serán determinados por la ley.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 88.
 
-El servicio de defensoría pública, constituye una función obligatoria de carácter gratuito, regido por los principios de profesionalismo y probidad. El Instituto contará con las defensorías de oficio en materia penal, las asesorías y servicios de representación en negocios de carácter familiar y civil, de defensoría jurídica de los trabajadores en la relación laboral, de protección del interés del menor, entre otras, en los términos que establezca la ley.
+El servicio de defensoría pública constituye una función obligatoria dé carácter gratuito para la población, regido por los principios de profesionalismo, probidad y calidad; asimismo, asegurará las condiciones para un servicio profesional de carrera para los defensores y sus percepciones no podrán ser inferiores a las que correspondan a los agentes del Ministerio Público. El organismo correspondiente contará con las defensorías de oficio en materia penal, las asesorías y servicios de representación en negocios de carácter familiar y civil, de defensoría jurídica de los trabajadores en la relación laboral, de protección del interés del menor, entre otras, en los términos que establezca la ley.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
@@ -1959,7 +1981,9 @@ En lo conducente y de conformidad a los fines señalados en el párrafo tercero,
 
 Cuando dos o más centros urbanos situados en territorios municipales de dos o más entidades federativas, formen una continuidad demográfica, la federación, las entidades federativas y los municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada, el desarrollo de dichos centros, con apego a la ley de la materia.
 
-La policía preventiva municipal estará al mando del Presidente Municipal, en los términos del reglamento correspondiente. Aquélla acatará las órdenes que el Gobernador del Estado le transmita, en los casos en que éste juzgue de fuerza mayor o alteración grave del orden público.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2009)</small>
+
+La policía preventiva municipal estará al mando del Presidente Municipal en los términos que prevengan las leyes. Aquella acatará las órdenes que el Gobernador del Estado le transmita, en los casos en que éste juzgue de fuerza mayor o alteración grave del orden público.
 
 El Ejecutivo Federal tendrá el mando de la fuerza pública, en el lugar donde resida transitoriamente.
 
@@ -2199,7 +2223,7 @@ Queda estrictamente prohibida la formación de toda clase de agrupaciones polít
 
 La residencia señalada como requisito de elegibilidad o de nombramiento para cargos públicos, no se pierde por ausencia debida al desempeño de cargos públicos de elección popular, o de cargos y comisiones encomendados por la Federación o por el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2009)</small>
 
 ## TITULO QUINTO
 
@@ -2207,23 +2231,21 @@ La residencia señalada como requisito de elegibilidad o de nombramiento para ca
 
 ###### ARTICULO 130.
 
-La presente Constitución podrá ser reformada o adicionada en todo tiempo con la condición precisa que no han de ser atacadas de manera alguna los principios establecidos en la Carta Fundamental de la República, debiendo observarse el procedimiento y tiempos determinados en este artículo:
+Esta Constitución podrá ser reformada o adicionada, en todo o en parte, por el Constituyente Permanente, con la condición precisa que no han de ser atacados de manera alguna los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos, debiendo observarse las formalidades siguientes:
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1997)</small>
+I. Presentadas y admitidas, en su caso, las iniciativas que propongan modificaciones constitucionales, serán turnadas a la Comisión Legislativa que corresponda y se difundirán para hacerlas del conocimiento de la ciudadanía;
 
-I.- Las iniciativas de reforma o adición a esta Constitución se darán a conocer ampliamente a la ciudadanía a través de la prensa, por el Congreso del Estado, quien además solicitará al Titular del Poder Ejecutivo del Estado y al Tribunal Superior de Justicia que emitan su opinión por escrito. Lo mismo hará con los Ayuntamientos, quienes emitirán su opinión las cuales serán computadas por la Legislatura en funciones y deberán ser de mayoría afirmativa;
+II. Deberá solicitarse al Gobernador del Estado y al Tribunal Superior de Justicia, que emitan su opinión por escrito, misma que harán del conocimiento del Congreso del Estado dentro de los treinta días naturales siguientes a la fecha en que hayan recibido la solicitud de referencia;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1993)</small>
+III. Recibidas las opiniones a las que alude la fracción anterior, la Comisión Legislativa competente deberá formular y aprobar el dictamen respectivo y someterlo a la consideración del Pleno para su lectura, discusión y votación respectiva;
 
-II.- Cumplidos los requisitos anteriores, el Congreso del Estado discutirá, y en su caso aprobará las reformas o adiciones con las modificaciones que considere pertinentes, con el voto de las dos terceras partes de los Diputados que lo integran y la mayoría de los votos de los Ayuntamientos;
+IV. Aprobado el dictamen que contenga las modificaciones constitucionales de que se trate, con el voto de las dos terceras partes de los Diputados integrantes de la Legislatura, la minuta con proyecto de decreto se remitirá a los Ayuntamientos para que éstos emitan su voto, que deberán notificar al Congreso del Estado dentro de los 45 días naturales siguientes a la fecha en que hayan recibido el expediente relativo;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1993)</small>
+V. La Presidencia de la Mesa Directiva en turno o la Comisión Permanente, en su caso, efectuarán el cómputo de los votos recibidos y cuando éstos aprueben las modificaciones constitucionales y representen la mayoría absoluta de los Ayuntamientos, emitirán la declaratoria respectiva;
 
-III.- Una vez aprobadas las iniciativas, el Congreso emitirá el decreto correspondiente y lo remitirá al Poder Ejecutivo para los efectos de su promulgación y publicación en el Periódico Oficial del Estado; y
+VI. Emitida la declaratoria en el sentido de haber sido aprobadas las modificaciones constitucionales, el decreto que las contenga será remitido al Gobernador del Estado para su debida promulgación y publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango; y
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1997)</small>
-
-IV.- La iniciación, difusión, discusión y aprobación de las reformas o adiciones a la Constitución Política del Estado de Durango, previstas en este artículo, se efectuarán en un plazo no menor de 90 días.
+VII. Publicado el decreto en los términos aludidos, las modificaciones a la Constitución, entrarán en vigor en los términos que en el propio decreto se establezcan.
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -2866,3 +2888,25 @@ En todas aquellas disposiciones que hagan referencia al Instituto Estatal Electo
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que contravengan lo previsto en el presente decreto.
+
+P.O. 12 DE FEBRERO DE 2009.
+
+DECRETO No. 173, POR EL QUE SE REFORMAN Y ADICIONAN LA DENOMINACION DEL CAPITULO PRIMERO DEL TITULO PRIMERO Y LOS ARTICULOS 1, 6, 9, 10,12, 70, 88 Y 110 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO.
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, con excepción de lo siguiente:
+
+1.- El sistema penal acusatorio y oral previsto en esta Constitución, entrará en vigor cuando lo establezca la legislación procesal y orgánica correspondiente, sin exceder el término previsto en la Constitución Política de los Estados Unidos Mexicanos; y
+
+2.- En el momento en que se publique la legislación citada en el apartado anterior, el Poder Legislativo emitirá una declaratoria que se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, en la que señale expresamente que el sistema penal acusatorio y oral ha sido incorporado en dichos ordenamientos; y en consecuencia, que las garantías que consagra esta Constitución empezarán a regular la forma y términos en que se sustanciarán los procedimientos penales.
+
+Artículo Segundo. Los procedimientos penales iniciados con anterioridad a la entrada en vigor del sistema penal acusatorio y oral previstos en los artículos 16, párrafo segundo y décimo tercero; 17, párrafo tercero, cuarto y sexto; 19, 20 y 21, párrafo séptimo de la Constitución Política de los Estados Unidos Mexicanos, serán concluidos conforme a las disposiciones vigentes con anterioridad a dicho acto.
+
+P.O. 12 DE FEBRERO DE 2009.
+
+DECRETO No. 242, POR EL QUE SE REFORMAN LOS ARTICULOS 55, FRACCIONES VI, XVII Y XXII Y 130 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Artículo Segundo.- Se derogan todas las disposiciones que contravengan el presente decreto.
+
+Artículo Tercero.- El desahogo de las iniciativas pendientes de dictaminar a la entrada en vigor del presente Decreto, se llevará a cabo conforme al procedimiento vigente al momento de su admisión.
