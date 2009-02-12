@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-penales-para-el-estado-de-san-luis-181
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2007-07-05"
+last_updated: "2009-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2009.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -2569,19 +2569,25 @@ Si se declara fundada la solicitud de reconocimiento de la inocencia del sentenc
 
 ### CAPITULO I. LIBERTAD PROVISIONAL BAJO CAUCION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JULIO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 407.
 
-Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, siempre que no se trate de los siguientes delitos considerados como graves: homicidio simple intencional, homicidio calificado, parricidio, aborto, ataque peligroso, secuestro, robo de infante, tráfico de menores, asalto, violación, violación equiparada, abuso sexual calificado; corrupción de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tienen capacidad para resistirlo; pornografía de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tienen capacidad para resistirlo; turismo sexual de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tienen capacidad para resistirlo; lenocinio de personas menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo; trata de personas menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo; robo calificado, abigeato, rebelión, motín, terrorismo, asociación delictuosa, evasión, tortura, ataque a las vías de comunicación y medios de transporte, y homicidio por culpa a que se refiere el artículo 64 del Código Penal del Estado.
+Todo inculpado tendrá derecho a ser puesto en libertad bajo caución siempre que no se trate de los siguientes delitos considerados como graves: homicidio simple intencional; homicidio calificado; parricidio; aborto; ataque peligroso; secuestro; secuestro exprés; robo de infante; tráfico de menores; asalto; violación; violación equiparada; abuso sexual calificado; corrupción de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tienen capacidad para resistirlo- pornografía de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo- turismo sexual de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo lenocinio de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo- trata de personas de menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho o de personas que no tiene (sic) capacidad para resistirlo- robo calificado; robo equiparado que señala el artículo 195 BIS del Código Penal para el Estado; abigeato; extorsión previsto en los artículos, 212 en sus párrafos segundo y tercero, y 212 BIS del Código Penal para el Estado; rebelión; motín; terrorismo; asociación delictuosa; evasión; tortura; ataque a las vías de comunicación y medios de transporte; y homicidio por culpa a que se refiere el artículo 64 del Código Penal para el Estado.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Tratándose de robo calificado, en las modalidades previstas en las fracciones I y V del artículo 200 del Código Penal del Estado, únicamente se considerará como grave cuando en razón del arma empleada, se ponga en riesgo la integridad corporal de la víctima, su familia o demás habitantes, o cuando se infieran lesiones. En el caso de robo calificado en la modalidad prevista en la fracción II del artículo supracitado, sólo se considerará como grave cuando se cometa en casa-habitación y el valor de lo robado exceda de 100 veces el salario mínimo vigente.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2009)</small>
 
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2002)</small>
+En el caso de robo calificado en la modalidad prevista en la fracción II del artículo 200 del Código Penal para el Estado, sólo se considerará como grave cuando se cometa en casa habitación y el valor de lo robado exceda de cien veces el salario mínimo vigente.
 
-No se considerará como grave el robo calificado a que se refiere la fracción VI del artículo 200 del Código Penal del Estado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2009)</small>
+
+No se considerará como grave el robo calificado a que se refiere la fracción XII del artículo 200 del Código Penal para el Estado.
 
 Tratándose de delitos cometidos con motivo del tránsito de vehículos no se concederá este beneficio al inculpado que hubiese incurrido en delito de abandono de personas si se encuentra en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o de cualquier otra sustancia que producta (sic) efectos similares. Cuando el delito merezca pena alternativa o no privativa de la libertad se dispondrá la libertad sin necesidad de caución y sin perjuicio de pedir el arraigo correspondiente.
 
@@ -3220,3 +3226,9 @@ P.O. 5 DE JULIO DE 2007.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido por este Decreto.
+
+P.O. 12 DE FEBRERO DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor el día treinta de marzo del año dos mil nueve, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
