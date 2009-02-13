@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-tribunal-de-lo-contencioso-administrativo-del-3347"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-31"
-last_updated: "2009-01-30"
+last_updated: "2009-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3347&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el martes 31 de enero de 1989.
 
@@ -647,15 +647,21 @@ El juicio ante el Tribunal de lo Contencioso Administrativo, es improcedente con
 
 I.- Cuya impugnación no corresponda conocer al Tribunal;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2009)</small>
 
-II.- Que se hayan consumado de modo irreparable o que no afecten el interés jurídico del demandante, entendiéndose por éste, la afectación de un derecho subjetivo o la lesión objetiva al particular derivada de un acto administrativo o por una resolución de las autoridades fiscales contrarios a la ley;
+II.- Que se hayan consumado de modo irreparable o que no afecten el interés jurídico del demandante, entendiéndose por éste, la afectación de un derecho subjetivo o la lesión objetiva al particular derivada de un acto administrativo o por una resolución de las autoridades fiscales contrarios a la ley.
+
+Se considera que no afectan el interés jurídico del demandante, cuando tratándose de expropiaciones, sea dudoso el derecho de propiedad o posesión de la actora por existir terceros que invocan la misma calidad. El juicio podrá iniciarse una vez que sea notificada la sentencia y esta haya causado ejecutoria en la que se determine quien tiene mejor derecho sobre el bien afectado;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1999)</small>
 
 III.- Que hayan sido materia de sentencia de fondo pronunciada por el Tribunal, siempre que hubiere identidad de partes y se trate del mismo acto impugnado, aunque las violaciones alegadas sean diversas;
 
-IV.- Respecto de las cuales hubiere consentimiento expreso o tácito, entendiéndose por este último cuando no se promovió medio de defensa en los términos de la Leyes respectivas o juicio ante el Tribunal de lo Contencioso Administrativo, en los plazos de Ley;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2009)</small>
+
+IV.- Respecto de las cuales hubiere consentimiento expreso o tácito, entendiéndose por este último cuando no se promovió medio de defensa en los términos de las Leyes respectivas o juicio ante el Tribunal de lo Contencioso Administrativo, en los plazos de la Ley;
+
+Se considera que existe consentimiento tácito respecto del contenido de un acuerdo de expropiación, cuando el particular opte por el juicio pericial previsto por el artículo 18 de la Ley de Expropiación para el Estado de Baja California;
 
 V.- Que sean materia de un recurso o juicio que se encuentre pendiente de resolución ante la Autoridad Administrativa Estatal, Municipal, sus Organismos Descentralizados o ante el propio Tribunal;
 
@@ -666,6 +672,8 @@ VI.- Cuando de las constancias de autos apareciere claramente, que no existe la 
 VII.- Que hayan sido materia de resolución en diverso proceso jurisdiccional;
 
 VIII.- Respecto de los cuales hayan cesado los efectos o no puedan surtir sus efectos legal o materiales, por haber dejado de existir el objeto o materia del mismo; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 13 DE FEBRERO DE 2009)</small>
 
 IX.- En los demás casos en que la improcedencia resulte de alguna disposición de la Ley.
 
@@ -1368,3 +1376,9 @@ CUARTO: Se derogan todas aquellas disposiciones que se opongan a la presente ref
 P.O. 30 DE ENERO DE 2009.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+P.O. 13 DE FEBRERO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
