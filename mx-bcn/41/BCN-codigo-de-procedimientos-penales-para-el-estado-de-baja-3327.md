@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2008-09-19"
+last_updated: "2009-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
 > <small>N. DE E. EL PRESENTE ORDENAMIENTO SERA ABROGADO PROGRESIVAMENTE, SEGUN CORRESPONDA EL PARTIDO JUDICIAL DEL ESTADO, POR LOS ARTICULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2007.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2009.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -237,13 +237,25 @@ IX.- Sancionar los convenios a que se refiere la fracción anterior;
 
 X.- Autorizar para los efectos de trasplantes, la disposición de órganos o tejidos de cadáveres de personas conocidas, cuando con motivo de una averiguación previa se encuentren a su disposición, siempre que se reúnan los siguientes requisitos:
 
-a) Se compruebe la pérdida de la vida del donador, en los términos de la Ley General de Salud, por dos peritos médicos distintos a los que intervendrán en el trasplante o en la obtención de órganos y tejidos.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2009)</small>
+
+a) Se compruebe la pérdida de la vida del donador, en los términos de la Ley General de Salud, por un perito médico distinto a los que intervendrán en el trasplante o en la obtención de órganos y tejidos.
 
 b) Se verifique la existencia del consentimiento expreso del donante o, a falta de éste, de quien compruebe fehacientemente ser el o la cónyuge, el concubinario, la concubina, los descendientes, ascendiente, hermanos, el adoptado, o el adoptante, conforme a la prelación señalada;
 
-c) La autorización deberá otorgarse con la mayor inmediatez posible, misma que no podrá exceder de las 72 horas siguientes a la hora en que se dé fe de la pérdida de la vida.
+c) (DEROGADO, P.O. 13 DE FEBRERO DE 2009)
 
-La autorización procederá siempre y cuando el médico forense determine que la sustracción del órgano o tejido de que se trate, no afecta la integración de la averiguación previa, además de que las instituciones o personas físicas que soliciten la donación para trasplante, cuenten con la autorización correspondiente.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE FEBRERO DE 2009)</small>
+
+La anuencia podrá otorgarse por los disponentes secundarios de manera inmediata.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE FEBRERO DE 2009)</small>
+
+La autorización que deberá otorgar el Ministerio Público no podrá exceder de las 72 horas siguientes a la certificación de muerte del donador y se (sic) de la pérdida de la vida. En caso de muerte cerebral en términos de la Ley General de Salud, el plazo será de hasta 6 horas siempre y cuando se haya expedido el certificado de defunción.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2009)</small>
+
+La autorización del Ministerio Público procederá siempre y cuando el médico forense determine que la sustracción del órgano o tejido de que se trate, no afecta la integración de la averiguación previa, además de que las instituciones o personas físicas que soliciten la donación para trasplante, cuenten con la autorización correspondiente.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -3728,3 +3740,7 @@ Las presentes reformas entrarán en vigor al día siguiente de su publicación e
 P.O. 19 DE SEPTIEMBRE DE 2008.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
+
+P.O. 13 DE FEBRERO DE 2009.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
