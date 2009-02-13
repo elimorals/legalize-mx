@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-expropiacion-para-el-estado-de-baja-california-32087"
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-13"
-last_updated: "2007-01-12"
+last_updated: "2009-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EXPROPIACION PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 13 de junio de 2003.
 
@@ -47,11 +47,11 @@ La propiedad privada en el Estado podrá ser expropiada, por causa de utilidad p
 
 Los bienes muebles sólo pueden ser expropiados por las causas de utilidad pública previstas en las fracciones VII, IX, XI y XVIII del artículo 6 de esta Ley.
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 3.
 
-A falta de la disposición expresa en la presente Ley, se aplicará supletoriamente la Ley de Procedimientos para los Actos de la Administración Pública para el Estado de Baja California, siempre y cuando se trate de instituciones previstas en esta Ley.
+A falta de la disposición expresa en la presente Ley, se aplicarán supletoriamente la Ley del Procedimiento para los Actos de la Administración Pública del Estado de Baja California y en defecto de ésta, el Código de Procedimientos Civiles para el Estado de Baja California; siempre y cuando se trate de instituciones previstas en esta Ley.
 
 ###### Artículo 4.
 
@@ -101,7 +101,7 @@ IV.- (REFORMADA [N. DE E. DEROGADA], P.O. 12 DE ENERO DE 2007)
 
 > <small>(REFORMADA, P.O. 12 DE ENERO DE 2007)</small>
 
-V.- La construcción y ampliación de hospitales, dispensarios médicos, centros de recuperación de la salud, asilos, hospicios, guarderías, escuelas para cualquier grado o clase de enseñanza, plazas, parques, jardines, áreas deportivas, auditorios, centros para la difusión de la cultura, área natural protegida, estaciones de transporte, de seguridad pública, centros de readaptación social, panteones, rellenos sanitarios, campos de aterrizaje, edificios para oficina de gobierno, y cualquier obra destinada a prestar servicios de beneficio colectivo;
+V.- La construcción y ampliación de hospitales, dispensarios médicos, centros de recuperación de la salud, asilos, hospicios, guarderías, escuelas para cualquier grado o clase de enseñanza, plazas, parques, jardines, áreas deportivas, auditorios, centros para la difusión de la cultura, área natural protegida, estaciones de transporte, de seguridad pública, centros de readaptación social, panteones, rellenos sanitarios, campos de aterrizaje, edificios para oficina de gobierno, y cualquier obra destinada a prestar servicios de beneficio colectivo.
 
 VI.- (REFORMADA [N. DE E. DEROGADA], P.O. 12 DE ENERO DE 2007)
 
@@ -131,11 +131,11 @@ XVIII.- La satisfacción de necesidades colectivas en caso de protección, guerr
 
 XIX.- (REFORMADA [N. DE E. DEROGADA], P.O. 12 DE ENERO DE 2007)
 
-> <small>(REFORMADA, P.O. 12 DE ENERO DE 2007)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE ENERO DE 2007)</small>
 
 XX.- La necesidad de víveres, medicinas, y demás objetos indispensables para hacer frente a los casos de riesgo, siniestro o desastre en el caso en que el Estado se encuentre imposibilitado para proveerlos por sus propios medios;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE ENERO DE 2007)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE ENERO DE 2007)</small>
 
 XXI.- Los demás casos previstos por las leyes especiales.
 
@@ -149,25 +149,39 @@ Corresponde a la Autoridad Expropiante declarar la utilidad pública de un bien,
 
 La Autoridad Expropiante podrá declarar de oficio o a petición de parte, la utilidad pública y una vez declarada ésta, se procederá a la expropiación para los fines correspondientes a favor de quien se expropie.
 
-La declaración de utilidad Pública se hará, previa la formación del expediente técnico respectivo, con los datos e informes que precisa la presente Ley, que serán aportados por el Ejecutivo del Estado, Dependencia, Entidad, las organizaciones de ciudadanos o por el particular que hubiese solicitado la medida.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2009)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2007)</small>
+La declaración de utilidad pública tendrá como base las constancias del expediente técnico que previamente se hubiese integrado con los datos e informes que precisa la presente Ley, que serán aportados indistintamente por el Ejecutivo del Estado, Dependencia, Entidad, los Municipios, las organizaciones de ciudadanos o por el particular que hubiese solicitado la medida.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2007)</small>
 
 ###### Artículo 9.
 
 Es obligación de la Autoridad Expropiante:
 
-I.- Recabar la información y documentación necesaria para comprobar y determinar la existencia de la causa o causas que la presente Ley determine como de utilidad pública;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2009)</small>
 
-II.- Integrar y tramitar el expediente de expropiación, en el que se acredite la causa de utilidad pública y la determinación, del bien o bienes, que por sus características o cualidades deben ser objeto de ésta;
+I.- Recabar la información y documentación necesaria para comprobar y determinar la existencia de la causa o causas que la presente Ley determine como de utilidad pública.
 
-III.- Conocer y tramitar los medios de defensa interpuestos por los particulares, previstos en la presente Ley, así como de las promociones que con motivo de la afectación, presenten los interesados afectados;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2009)</small>
 
-IV.- Requerir de las autoridades, dependencias y entidades, la información y documentación que se encuentre a su alcance, relacionada con el procedimiento de expropiación;
+II.- Integrar y tramitar el expediente de expropiación, en el que se acredite la causa de utilidad pública y la determinación, del bien o bienes, que por sus características·o cualidades deben ser objeto de ésta.
 
-> <small>(REFORMADA, P.O. 12 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2009)</small>
 
-V.- Cumplir las demás obligaciones que establezcan otras leyes relacionadas con la materia.
+III.- Conocer y tramitar los medios de defensa interpuestos por los particulares, previstos en la presente Ley, así como de las promociones que con motivo de la afectación, presenten los interesados afectados.
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2009)</small>
+
+IV.- Requerir de las autoridades, dependencias y entidades, la información y documentación que se encuentre a su alcance, relacionada con el procedimiento de expropiación.
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2009)</small>
+
+V.- Implementar el procedimiento previsto por el artículo 24, para respetar la garantía de audiencia del afectado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE FEBRERO DE 2009)</small>
+
+VI.- Cumplir las demás obligaciones que establezcan otras leyes relacionadas con la materia.
 
 ### CAPITULO III. SOLICITUD DE EXPROPIACIÓN Y REQUISITOS
 
@@ -215,11 +229,17 @@ Para efectos del pago de la indemnización, no se consideran los aumentos o dem�
 
 A falta de propietarios legítimos de los bienes expropiados, los poseedores a título de dueño de los mismos, podrán tener derecho a la indemnización correspondiente, cuando demuestren ante la Autoridad Expropiante su calidad posesoria.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 14.
 
-Los medios probatorios para acreditar la propiedad o la posesión de los bienes afectados, quedarán sujetos a la valoración de la Autoridad Expropiante, pero en aquellos casos en que se trate de acreditar por diversos presuntos interesados dicha propiedad o posesión sobre el mismo bien, se estará a la resolución que en su caso se emita por la autoridad judicial competente.
+Si en la integración del expediente, las constancias recabadas para acreditar la propiedad o la posesión de los bienes afectados, muestran la existencia de diversos posibles afectados respecto de un mismo bien, la autoridad expropiante no se pronunciara sobre quien tiene mejor derecho y se estará a la resolución que en su caso se emita por la autoridad competente.
 
 Cuando el bien inmueble o derecho afectado esté sujeto a decisión judicial, no procederá el pago de la indemnización, en tanto no cause ejecutoria la resolución que emita la autoridad competente y que resuelva la situación jurídica del mismo.
+
+Cuando existan varios propietarios o poseedores de tal forma que resulten dudosos sus derechos o si fuere persona incierta, sin estar en el supuesto del párrafo anterior, la Autoridad Expropiante quedara liberada de la obligación de pago de la indemnización haciendo la consignación del importe determinado en el Acuerdo expropiatorio, en los términos del capítulo V del título V del Código de Procedimientos Civiles para el Estado de Baja California.
+
+Cuando el afectado rehusare sin justa causa a recibir la indemnización, la autoridad expropiante hará la consignación a que se refiere el párrafo anterior.
 
 > <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
 
@@ -249,17 +269,21 @@ La forma de indemnización será aquella que acepte el afectado.
 
 El importe de la indemnización será cubierto por la Autoridad Expropiante cuando la cosa expropiada pase al patrimonio del Estado. Cuando la cosa expropiada pase al patrimonio de una Entidad o Municipio, en los términos de la presente Ley, éstas cubrirán el importe de la indemnización.
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 18.
 
-La determinación del valor, el exceso de valor o el demérito que haya tenido una propiedad por las mejoras o deterioros ocurridos, con posterioridad a la fecha de fijación del valor fiscal del inmueble, será lo único que podrá quedar sujeto a juicio pericial y resolución judicial.
+La determinación del valor, el exceso de valor o el demerito que haya tenido una propiedad por las mejoras o deterioros ocurridos, con posterioridad a la fecha de fijación del valor fiscal del inmueble, será lo único que podrá quedar sujeto a juicio pericial y resolución jurisdiccional.
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
 
 El importe del valor fijado al bien expropiado, una vez que quede firme en su caso, será actualizado a la fecha de pago de acuerdo con el valor unitario catastral aprobado, a fin de que se pague al afectado el valor determinado por concepto de expropiación mas los aumentos inflacionarios, y de esta forma no pierda valor adquisitivo el precio que se fijó por la expropiación.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 19.
 
-Cuando haya controversia respecto al valor del bien expropiado, el afectado podrá inconformarse ante el Tribunal de lo Contencioso Administrativo del Estado, dentro de un término de cinco días hábiles contados a partir del siguiente día de la notificación personal del Acuerdo Expropiatorio, y si fue notificado por segunda publicación en el Periódico Oficial del Estado el término será de diez días hábiles contados a partir del día siguiente de la fecha de la segunda publicación.
+Cuando haya controversia respecto al valor del bien expropiado, el afectado podrá inconformarse ante el Tribunal de lo Contencioso Administrativo del Estado, dentro de un término de quince días hábiles contados a partir del siguiente día de la notificación personal del Acuerdo Expropiatorio, y si fue notificado por edictos, el término será de quince días hábiles contados a partir del día siguiente de la fecha de la última publicación.
 
 ###### Artículo 20.
 
@@ -279,13 +303,55 @@ Contra la resolución del Tribunal de lo Contencioso Administrativo que fije el 
 
 ### CAPITULO V. ACUERDO EXPROPIATORIO
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 24.
 
-La declaratoria de utilidad pública se hará mediante Acuerdo Expropiatorio, que deberá publicarse en el Periódico Oficial del Estado y notificarse personalmente al afectado, indicando el lugar en el que el expediente técnico respectivo estará a su disposición para efecto de que puedan consultarlo. En caso de ignorarse el nombre o el domicilio, surtirá efectos de notificación personal, una segunda publicación del Acuerdo en el Periódico Oficial del Estado, la que se hará dentro de un plazo no mayor de quince días después de la primera.
+Una vez integrado el expediente técnico y antes de emitirse el acuerdo expropiatorio, se notificará al afectado del contenido de la declaratoria de utilidad pública, del proyecto de acuerdo de expropiación y del expediente técnico que lo sustenta, para que realice una defensa previa a la resolución que afectará su patrimonio, bajo el siguiente procedimiento:
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
+I.- Se notificará personalmente al afectado el contenido de la declaración de utilidad pública, el proyecto del acuerdo y se pondrá a su disposición el expediente técnico, para que dentro de un término de quince días hábiles exponga lo que a su derecho convenga, allanándose o impugnando la determinación y, aportando en su caso, las pruebas que estime pertinentes y objetando los medios de convicción recabados por la autoridad.
 
-A efecto de acreditar que se desconoce el nombre o el domicilio del afectado, deberá solicitarse por escrito a la recaudación de Rentas del Estado, la Dirección de Seguridad Pública Municipal a la Oficina Catastral Municipal y a Recaudación de Rentas Municipal, en donde se ubique el bien expropiado, si en sus archivos cuenta con la información relativa al nombre y domicilio.
+En su escrito, el afectado deberá informar si existen juicios o procedimientos que pudieran afectar los derechos de propiedad o posesión que detenta sobre el bien afectado.
+
+II.- Dentro de este procedimiento, el afectado podrá ejercer los derechos previstos por el artículo 4 de la Ley del Procedimiento para los Actos de la Administración Pública del Estado de Baja California.
+
+III.- Durante el procedimiento la autoridad expropiante quedará obligada a los supuestos previstos por el artículo 5 de la citada Ley.
+
+IV.- La recepción y práctica de las pruebas, se hará en forma oral en la audiencia que fije el acuerdo que tenga por interpuesta la impugnación y por presentadas y admitidas las pruebas aportadas, señalando día y hora para su celebración, teniendo en consideración el tiempo necesario para su preparación.
+
+V.- La audiencia será única, no podrá diferirse y deberá celebrarse en un plazo no mayor al de quince días naturales, contados a partir del acuerdo que tiene por interpuesta la inconformidad del afectado.
+
+VI.- Las pruebas deben relacionarse en forma precisa con cada uno de los hechos controvertidos; además, debe expresarse claramente el o los hechos que se pretenden demostrar con las mismas, así como las razones por las que el afectado considera que las demostrará. Si las pruebas que se aportan no cumplen con las condiciones apuntadas, serán desechadas de plano. Asimismo, no se admitirán pruebas contra derecho, la moral, sobre hechos que no sean materia de la controversia, sobre hechos imposibles o notoriamente inverosímiles, ni las pruebas de posiciones a cargo de las autoridades.
+
+VII.- Concluida la audiencia, la autoridad expropiante otorgará un término de cinco días hábiles para que el afectado rinda sus alegatos; recibidos estos o transcurrido el plazo sin que se hayan presentado, la autoridad expropiante resolverá de manera breve y concisa, tomando en cuenta los argumentos y el resultado de las pruebas admitidas que se hayan hecho valer.
+
+VIII.- La resolución que se emita deberá estar fundada y motivada y deberá notificarse al afectado de manera personal, dentro de los cinco días hábiles siguientes a la fecha de emisión de la misma. La resolución podrá ser impugnada en los términos del artículo 38 de esta Ley.
+
+Cuando lo único que se impugne sea el valor del bien expropiado se hará valer la inconformidad prevista por el artículo 19 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2009)</small>
+
+###### Artículo 24 Bis.
+
+La autoridad expropiante, simultáneamente a la notificación personal que se realizara a los afectados identificados durante la integración del expediente técnico para que comparezcan al procedimiento previsto en el artículo anterior, emitirá una declaratoria que será publicada en el Periódico Oficial del Estado para todo aquél que se considere afectado, en los mismos términos de publicación del Acuerdo expropiatorio a que se refiere el artículo 24 Ter y en el diario de mayor circulación del Municipio o Municipios en que se encuentren enclavados los bienes afectados, donde hará pública la siguiente información:
+
+I.- La pretensión de la autoridad expropiante;
+
+II.- Los nombres de los propietarios o posesionarios afectados;
+
+III.- Las claves catastrales que identifiquen los bienes afectados;
+
+IV.- Las referencias, colindancias, los nombres o cualquier información que permita identificar la ubicación de los bienes afectados, y
+
+V.- El requerimiento a cualquier persona que se considere afectada por detentar derechos de propiedad o posesión sobre bienes ubicados en el área de afectación, para que comparezca ante la autoridad expropiante a exponer sus pretensiones o defensas.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2009)</small>
+
+###### Artículo 24 Ter.
+
+El Acuerdo Expropiatorio deberá publicarse en el Periódico Oficial del Estado y notificarse personalmente al afectado, indicando el lugar en el que el expediente técnico respectivo estará a su disposición para efecto de que puedan consultarlo. En caso de ignorarse el domicilio, la notificación se hará por edictos mediante tres publicaciones, de tres en tres días, del Acuerdo de expropiación en un diario de los de mayor circulación o tiraje del Municipio o Municipios en que se encuentren enclavados los bienes afectados, que se harán dentro de un plazo no mayor de treinta días después de efectuada la publicación en el Periódico Oficial, haciéndose saber que el afectado deberá presentarse ante la Autoridad Expropiante dentro de un término de quince días contados a partir del día de la última publicación.
+
+A efecto de acreditar que se desconoce el nombre o el domicilio del afectado, el expediente técnico deberá contener las respuestas de las solicitudes por escrito efectuadas a la Recaudación de Rentas del Estado, la Dirección de Seguridad Pública Municipal a la Oficina Catastral Municipal y Recaudación de Rentas Municipal en donde se ubique el bien expropiado, donde se haya solicitado la información de los domicilios de los afectados y esta haya sido negativa.
 
 ###### Artículo 25.
 
@@ -383,7 +449,9 @@ En caso de la oposición a la diligencia, la Autoridad Expropiante podrá hacer 
 
 Ninguna autoridad o particular podrá aprobar o ejecutar obras contrarias a lo dispuesto en el Acuerdo Expropiatorio. Los actos que contravengan esta disposición serán nulos y las autoridades podrán ordenar la demolición de las obras que se hayan construido.
 
-### CAPITULO VII. REVERSIÓN DEL BIEN
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE FEBRERO DE 2009)</small>
+
+### CAPITULO VII. REVERSIÓN DEL BIEN, REVOCACIÓN DE ACUERDO Y ACCIÓN DE LESIVIDAD
 
 ###### Artículo 33.
 
@@ -414,6 +482,28 @@ Si la Autoridad Expropiante determina que es procedente la reversión del bien e
 ###### Artículo 37.
 
 Cuando la autoridad expropiante pretenda vender alguna superficie del inmueble no destinada a la causa de utilidad pública, corresponderá el derecho del tanto al último propietario del bien inmueble expropiado, en cuyo caso el valor de dicha operación de venta será determinado tomando como base para su cálculo el valor unitario catastral aprobado y el dictamen de perito autorizado en la materia.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2009)</small>
+
+###### Artículo 37 Bis.
+
+La autoridad expropiante podrá revocar total o parcialmente el contenido del acuerdo de expropiación, cuando concurran alguno de los requisitos siguientes:
+
+I.- Desaparezca la necesidad derivada de la causa de utilidad pública que sustentó el acuerdo de expropiación.
+
+II.- Cuando sobrevengan causas económicas o extraordinarias que impidan a la autoridad expropiante cumplir con los fines del decreto expropiatorio o sus consecuencias.
+
+III.- Cuando exista una condición técnica, legal o social que haga inviable los motivos que sustentaron el acuerdo de expropiación.
+
+IV.- El bien afectado haya perdido las características o cualidades para ser objeto de la causa de utilidad pública.
+
+Para el ejercicio de dicha facultad la autoridad expropiante deberá emitir acuerdo fundado y motivado que deberá notificarlo personalmente al afectado. De ser procedente la revocación se estará a los efectos y consecuencias previas por el artículo 36 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2009)</small>
+
+###### Artículo 37 Ter.
+
+La autoridad expropiante podrá deducir la acción de lesividad de los actos y resoluciones emitidos a favor de los afectados, dentro de los cinco años siguientes a la fecha en que se le hayan notificado éstos.
 
 ### CAPITULO VIII. RECURSO ADMINISTRATIVO DE REVOCACIÓN
 
@@ -455,9 +545,15 @@ IV.- Modificar el acto impugnado o dictar uno nuevo, cuando el recurso interpues
 
 El recurso administrativo de revocación deberá interponerse mediante escrito presentado ante la Autoridad Expropiante, dentro de un término de diez días hábiles siguientes contados a partir de la notificación personal del Acuerdo Expropiatorio, y si éste fue notificado mediante segunda publicación en el Periódico Oficial del Estado, dentro de los veinte días hábiles siguientes contados a partir de la fecha de la segunda publicación.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 43.
 
-La interposición del recurso administrativo de revocación en ningún caso suspenderá la ejecución del Acuerdo Expropiatorio.
+La interposición del recurso administrativo de revocación suspenderá la ejecución del Acuerdo Expropiatorio cuando lo solicite el recurrente, la cual será procedente cuando concurran los requisitos siguientes:
+
+I.- Que no se cause perjuicio al interés general, ni se contravengan disposiciones de orden público; y,
+
+II.- Que sean de difícil reparación los daños y perjuicios que se pudieren causar al recurrente en caso de ejecutarse el acto.
 
 ###### Artículo 44.
 
@@ -495,11 +591,13 @@ Se admitirá todo tipo de prueba, a excepción de la confesional. Las probanzas 
 
 El incumplimiento de lo previsto en el párrafo anterior, traerá como consecuencia que se tengan por no ofrecidas las pruebas respectivas.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 46.
 
-La autoridad Expropiamente (sic) acordará sobre la admisión del recurso y de las pruebas ofrecidas en base a las reglas de este Capítulo, abriendo un período probatorio por un término de treinta días hábiles, el cual comenzará a correr al día siguiente de aquel en que se notifique al recurrente la admisión del mismo. Dentro del período probatorio deberán practicarse todas las pruebas ofrecidas, salvo aquellas que requieran de desahogo especial.
+La autoridad expropiante acordará sobre la admisión del recurso y de las pruebas ofrecidas con base a las reglas de este Capítulo, abriendo un período probatorio por un término de treinta días hábiles, el cual comenzará a correr al día siguiente de aquel en que se notifique al recurrente la admisión del mismo. Dentro del período probatorio deberán practicarse todas las pruebas ofrecidas, salvo aquellas que requieran de desahogo especial.
 
-En lo no previsto en este capítulo, se aplicará supletoriamente lo establecido en los Capítulos II al VII del Título Sexto del Código de Procedimientos Civiles para el Estado de Baja California.
+En lo no previsto en este capítulo, se estará a la supletoriedad establecida en el artículo 3 de esta Ley.
 
 ###### Artículo 47.
 
@@ -558,3 +656,9 @@ P.O. 12 DE ENERO DE 2007.
 PRIMERO.- Las presentes reformas a la Ley de Expropiación para el Estado de Baja California, entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Todos los procedimientos de expropiación que se hayan iniciado con motivo de la aplicación de la Ley que se reforma, y que no se encuentren concluidos a la fecha de entrada de la presente Ley, se regirán por las disposiciones vigentes al momento de la publicación del Acuerdo Expropiatorio.
+
+P.O. 13 DE FEBRERO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
