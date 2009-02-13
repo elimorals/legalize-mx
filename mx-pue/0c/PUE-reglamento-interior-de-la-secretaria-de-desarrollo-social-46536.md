@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-desarrollo-social-46536
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-09-30"
-last_updated: "2005-09-30"
+last_updated: "2009-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2009.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 30 de septiembre de 2005.
 
@@ -47,17 +47,23 @@ DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARRO
 
 La Secretaría de Desarrollo Social del Gobierno del Estado de Puebla, como Dependencia del Poder Ejecutivo, tiene a su cargo las funciones, atribuciones y despacho de los asuntos que expresamente le confieren la Ley Orgánica de la Administración Pública del Estado, así como la demás normatividad vigente.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 2.
 
-Cuando en el presente Reglamento se utilice el término Secretaría, se entenderá que se refiere a la Secretaría de Desarrollo Social del Gobierno del Estado de Puebla.
+Cuando en el presente Reglamento se utilice el término Secretaría, se entenderá que se refiere a la Secretaría de Desarrollo Social del Gobierno del Estado de Puebla y cuando se emplee el término Secretario se referirá al titular de la Secretaría.
 
 ###### ARTÍCULO 3.
 
 La Secretaría llevará a cabo los programas de desarrollo social en forma programada y de conformidad con las políticas, lineamientos, estrategias y prioridades que para el logro de sus objetivos y metas, establezca el Gobernador del Estado, en concordancia con los Planes Nacional y Estatal de Desarrollo.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO PUBLICADO EN EL P.O. DE 13 DE FEBRERO DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO.</small>
+
 ###### ARTÍCULO 4.
 
 Para el estudio, planeación de las funciones y despacho de los asuntos de su competencia, la Secretaría contará con las siguientes unidades administrativas y órganos desconcentrados:
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2009)</small>
 
 Secretario
 
@@ -65,7 +71,13 @@ Dirección de Asuntos Jurídicos
 
 Dirección de Comunicación Social
 
+Dirección de Planeación y Prospectiva
+
+Dirección de Evaluación y Estadística
+
 Unidad de Desarrollo Administrativo e Informática
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2009)</small>
 
 Coordinación General de Administración y Finanzas
 
@@ -75,15 +87,11 @@ Dirección de Recursos Financieros
 
 Dirección de Recursos Materiales y Servicios Generales
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2009)</small>
+
 Coordinación General de Oficinas Regionales
 
-Coordinación General de Planeación y Evaluación
-
-Dirección de Planeación y Prospectiva
-
-Dirección de Evaluación y Estadística
-
-Dirección de Enlace Institucional, Investigación y Estudios
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2009)</small>
 
 Subsecretaría de Desarrollo y Enlace Social
 
@@ -93,11 +101,15 @@ Dirección de Inversión Productiva Social
 
 Dirección de Atención a Comunidades Dispersas
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2009)</small>
+
 Coordinación General de Participación Social
 
 Dirección de Enlace y Atención Social
 
 Dirección de Participación Ciudadana
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2009)</small>
 
 Subsecretaría de Coordinación y Desarrollo Regional
 
@@ -108,6 +120,8 @@ Dirección de Fortalecimiento y Desarrollo Municipal
 Dirección de Apoyo a la Operación para la Infraestructura
 
 Dirección de Maquinaria de Apoyo
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2009)</small>
 
 Comisión Estatal para el Desarrollo Integral de los Pueblos Indígenas
 
@@ -161,7 +175,9 @@ XII.- Aprobar los anteproyectos de presupuestos de la Secretaría y en su caso, 
 
 XIII.- Acordar con los Subsecretarios, los Coordinadores Generales, los Directores, y en su caso con los demás servidores públicos de la Secretaría, los asuntos de su competencia, así como conceder audiencias al público;
 
-XIV.- Designar, remover y en su caso, acordar las renuncias de los servidores públicos de la Secretaría;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2009)</small>
+
+XIV.- Representar legalmente a la Secretaría en lo relativo a las relaciones laborales, así como designar, remover y en su caso, acordar las renuncias de los servidores de la Dependencia;
 
 XV.- Integrar y proporcionar a las instancias competentes, los datos relativos a las actividades desarrolladas por la Secretaría, para la formulación del Informe de Gobierno y la elaboración de la Cuenta Pública Estatal;
 
@@ -293,7 +309,9 @@ V.- Previo acuerdo con el Secretario, promover programas y acciones de beneficio
 
 VI.- Promover la participación solidaria con las comunidades, en las acciones que lleven a cabo los sectores público social y privado, a efecto de que participen en la planeación, supervisión y control de las obras y acciones que se instrumenten en el marco de los programas de participación y promoción para el desarrollo regional;
 
-VII.- Proponer al Secretario, en conjunto con la Coordinación General de Planeación y Evaluación, las normas, lineamientos, políticas y acciones para la integración y ejecución de los programas sociales en el ámbito rural y urbano;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2009)</small>
+
+VII.- Proponer al Secretario, en conjunto con la Dirección de Planeación y Prospectiva, las normas, lineamientos, políticas y acciones para la integración y ejecución de los programas sociales en el ámbito rural y urbano;
 
 VIII.- Coordinar la integración e implementación de los programas que se realicen con recursos provenientes de la federación, estado y municipios, en materia de desarrollo indígena y población en condiciones de pobreza, marginación, y vulnerabilidad;
 
@@ -311,9 +329,17 @@ XIV.- Vigilar y dar seguimiento a los programas presupuestales y operativos de l
 
 XV.- Mantener estricta vigilancia y coordinación con las dependencias normativas y operativas correspondientes, para el cumplimiento de los lineamientos financieros para la liberación de los recursos de obras y acciones de los programas previstos en los convenios de desarrollo social que se suscriban con la Federación;
 
-XVI.- Recibir y en su caso revisar la documentación comprobatoria de la aplicación de los recursos que se aplican en las obras y acciones de los programas que opera el Estado en el marco de los convenios celebrados con la Federación en materia de desarrollo social; y
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2009)</small>
 
-XVII.- Las demás que se establezcan en este Reglamento, los ordenamientos vigentes, acuerdos, decretos, circulares, convenios, así como las que le confiera el Secretario.
+XVI.- Proponer al Secretario la creación de nuevos programas especiales en base a la recopilación de información, estudios e investigaciones a nivel nacional e internacional;
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2009)</small>
+
+XVII.- Proponer al Secretario la creación de programas y estrategias innovadoras con la finalidad de implementarlos en la entidad poblana; y
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2009)</small>
+
+XVIII.- Las demás que se establezcan en este Reglamento, los ordenamientos vigentes, acuerdos, decretos, circulares, convenios, así como las que le confiera el Secretario.
 
 ### CAPÍTULO V. DE LOS COORDINADORES GENERALES
 
@@ -385,7 +411,9 @@ III.- Coadyuvar en la identificación de las características y vocación histó
 
 IV.- Consolidar las acciones de la Coordinación General a través de mecanismos de seguimiento, permanentes, institucionales y de participación de la sociedad;
 
-V.- Colaborar de manera conjunta con la Coordinación General de Planeación y Evaluación, y las diversas dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, así como organizaciones de la sociedad civil, para la formulación y operación de programas dirigidos al combate a la pobreza en la Entidad;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2009)</small>
+
+V.- Colaborar de manera conjunta con la Dirección de Planeación y Prospectiva, y las diversas dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, así como organizaciones de la sociedad civil, para la formulación y operación de programas dirigidos al combate a la pobreza de la Entidad;
 
 VI.- Participar en la elaboración de programas de desarrollo integral sustentable de las micro regiones conformadas en los municipios con mayores índices de marginación, con la finalidad de sugerir al superior jerárquico la focalización de los recursos para solventar sus necesidades primarias de desarrollo;
 
@@ -393,11 +421,15 @@ VII.- Coadyuvar en la elaboración de las metodologías de supervisión y aplica
 
 VIII.- Coordinar y promover la participación de interesados en el desarrollo social para realizar visitas, reuniones de trabajo y estudios con la finalidad de elaborar programas o proyectos que estimulen el desarrollo sectorial y regional del Estado;
 
-IX.- Proponer al superior jerárquico de manera conjunta con la Coordinación General de Planeación y Evaluación, las acciones de coordinación interinstitucional necesarias para proporcionar el desarrollo social de las regiones, así como la ejecución de programas de desarrollo social y proyectos especiales de inversión productiva;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2009)</small>
+
+IX.- Proponer al superior jerárquico de manera conjunta con la Dirección de Planeación y Prospectiva, las acciones de coordinación interinstitucional necesarias para proporcionar el desarrollo social de las regiones, así como la ejecución de programas de desarrollo social y proyectos especiales de inversión productiva;
 
 X.- Promover la capacitación técnica, profesional y humana de los beneficiarios de los programas;
 
-XI.- Proporcionar a la Coordinación General de Planeación y Evaluación, la información que requiera para el desempeño de sus responsabilidades;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2009)</small>
+
+XI.- Proporcionar a la Dirección de Planeación y Prospectiva, la información que requiera para el desempeño de sus responsabilidades;
 
 XII.- Promover los servicios que proporcionan las Unidades Móviles de Desarrollo a las comunidades de mayor dispersión y marginación;
 
@@ -433,7 +465,9 @@ X.- Coordinar y promover la conformación de comités de desarrollo social, en f
 
 XI.- Diseñar, promover y operar programas participativos, tendientes al bienestar social, mediante la coordinación institucional entre las instancias federales, estatales y municipales correspondientes;
 
-XII.- Coadyuvar con la Coordinación General de Planeación y Evaluación en la instrumentación de mecanismos de planeación eficaz y eficiente, para lograr la satisfacción de la demanda social y congruencia en los programas sociales, a fin de diseñar políticas aplicables;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2009)</small>
+
+XII.- Coadyuvar con la Dirección de Planeación y Prospectiva, en la instrumentación de mecanismos de planeación eficaz y eficiente, para lograr la satisfacción de la demanda social y congruencia en los programas sociales, a fin de diseñar políticas aplicables;
 
 XIII.- Solventar las observaciones provenientes de instancias competentes, para el fortalecimiento y reorientación de los programas y acciones de las Direcciones a su cargo;
 
@@ -513,57 +547,13 @@ XIII.- Proponer, organizar y dirigir las giras y visitas de trabajo del Secretar
 
 XIV.- Las demás que le confiera el presente Reglamento, los ordenamientos vigentes, acuerdos, decretos, circulares, convenios, así como las que le otorgue el Secretario.
 
+> <small>(DEROGADO, P.O. 13 DE FEBRERO DE 2009)</small>
+
 ### CAPÍTULO X. DE LA COORDINACIÓN GENERAL DE PLANEAClÓN Y EVALUACIÓN
 
 ###### ARTÍCULO 17.
 
-La Coordinación General de Planeación y Evaluación, estará a cargo de un Titular adscrito al Secretario y tendrá además de las atribuciones que señala el artículo 12 del presente Reglamento, las siguientes:
-
-I.- Atender las relaciones de coordinación de la Secretaría con los organismos sectorizados a la misma, así como las áreas homólogas de otras Entidades Federativas, del Gobierno Federal y Ayuntamientos;
-
-II.- Participar de acuerdo a las instrucciones del Secretario, en la coordinación de la programación y presupuestación de los organismos sectorizados, de conformidad con las asignaciones de gasto y financiamiento autorizadas;
-
-III.- Realizar la planeación y prospectiva necesaria para configurar estrategias y programas de la Secretaría;
-
-IV.- Sugerir formas de articulación con los sectores social y privado de cada una de las Entidades Federativas, para combatir con mayor eficiencia las causas y efectos de pobreza;
-
-V.- Promover el intercambio de experiencias en materia de combate a la pobreza con los Gobiernos de los Estados, con organismos de cooperación bilateral y multilateral;
-
-VI.- Organizar Congresos y Talleres sobre temas relacionados con el desarrollo social y la solución de los problemas de la marginación en la Entidad;
-
-VII.- Establecer previo acuerdo del Secretario, las políticas de desarrollo para los organismos sectorizados a la Secretaría, así como conocer la operación y evaluar los resultados de los mismos;
-
-VIII.- Organizar, dirigir, operar y mantener actualizado el sistema de información y estadística relativo a los organismos sectorizados a la Secretaría;
-
-IX.- Coordinar y concentrar la información de los organismos sectorizados a la Secretaría, relativa a la formulación del informe anual de gobierno;
-
-X.- Establecer procedimientos que garanticen que los programas para la superación de la pobreza operen con calidad y eficiencia, guardando congruencia con los objetivos institucionales y en el marco del Plan Estatal de Desarrollo;
-
-XI.- Diseñar y promover canales de comunicación con otras dependencias y entidades que realicen acciones en materia de política social;
-
-XlI.- En coordinación con la Dirección de Recursos Humanos, fortalecer los conocimientos y habilidades del personal de la Secretaría, para el cumplimiento de sus funciones en materia de desarrollo social;
-
-XIII.- Participar en la planeación del desarrollo social del Estado y coordinar, dentro del Sistema Estatal de Planeación Democrática, la formulación e integración de programas de inversión sectoriales, regionales, intersectoriales y especiales en el ámbito de su competencia, que se promuevan por el Comité de Planeación para el Desarrollo del Estado de Puebla a través de los diagnósticos y solicitudes de las dependencias, municipios y grupos organizados;
-
-XIV.- Proponer al Secretario las políticas y criterios de acción en materia de gasto de inversión, que permita una distribución equilibrada y racional de las asignaciones presupuestales en cada uno de los programas de inversión, en materia de desarrollo social;
-
-XV.- Presentar ante el Comité de Planeación para el Desarrollo del Estado de Puebla, las normas y políticas para la integración y ejecución de programas sociales, que hayan sido aprobados por el Secretario;
-
-XVI.- Participar en el marco del Plan Estatal de Desarrollo, en la formulación e integración de programas de inversión sectorial de desarrollo social;
-
-XVII.- Proponer al Secretario, las acciones necesarias para consolidar el desarrollo social y la elevación de los niveles de vida de la población menos favorecida, y en su caso instrumentarlas;
-
-XVllI.- Someter a la autorización del Secretario el conjunto de indicadores de evaluación de los programas y acciones que se realicen en la Secretaría, con recursos estatales, federales, municipales y otras fuentes de financiamiento;
-
-XIX.- Promover con las instancias estatales, federales, académicas o civiles, procesos de capacitación para evaluación de los programas sociales, dirigidos a servidores públicos de las Administraciones Públicas Federal, Estatal y Municipal;
-
-XX.- Diseñar, planear y proponer a su superior jerárquico las acciones de políticas sociales innovadoras;
-
-XXI.- Evaluar el impacto social de los programas sociales municipales incluso los instrumentados a nivel federal;
-
-XXII.- lnstrumentar esquemas de coordinación interinstitucional para articular una política de desarrollo social integral; y
-
-XXIII.- Las demás que se establezcan en este Reglamento, los ordenamientos vigentes, acuerdos, decretos, circulares, convenios, así como las que le confiera el superior jerárquico
+(DEROGADO, P.O. 13 DE FEBRERO DE 2009)
 
 ### CAPÍTULO XI. DE LOS DIRECTORES
 
@@ -617,15 +607,19 @@ XXII.- Las demás que se establezcan en este Reglamento, los ordenamientos vigen
 
 ### CAPÍTULO XII. DE LA DIRECCIÓN DE PLANEACIÓN Y PROSPECTIVA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 19.
 
-La Dirección de Planeación y Prospectiva estará a cargo de un Titular adscrito a la Coordinación General de Planeación y Evaluación y tendrá además de las atribuciones que señala el artículo 18 del presente Reglamento, las siguientes:
+La Dirección de Planeación y Prospectiva estará a cargo de un Titular adscrito al Secretario y tendrá además de las atribuciones que señala el artículo 18 del presente Reglamento, las siguientes:
 
 I.- Formular las normas y políticas de la planeación y prospectiva de los programas sociales para la superación de la pobreza y diseñar las estrategias que permitan contribuir en la solución de los problemas más significativos del desarrollo social en el Estado;
 
 II.- Instrumentar los procesos de planeación de las acciones necesarias para consolidar el desarrollo social y la elevación de los niveles de vida de la población menos favorecida, presentarlas a su superior jerárquico;
 
-III.- Participar en la formulación y puesta en operación de los procesos de planeación prospectiva para el desarrollo social y la superación de la pobreza;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2009)</small>
+
+III.- Realizar la planeación y prospectiva necesaria para configurar estrategias y programas de la Secretaría;
 
 IV.- Realizar la planeación y participar en el seguimiento de metas, de acuerdo con los objetivos y orientación que se desprenda de los Convenios que se celebren con la Federación, relacionados con la coordinación de los programas sociales, previo acuerdo del superior jerárquico;
 
@@ -641,17 +635,21 @@ IX.- Emitir previo acuerdo del Secretario, los criterios que en materia de plane
 
 X.- Aportar propuestas para la formulación e integración de programas de inversión en materia de desarrollo social en el marco del Plan Estatal de Desarrollo y programas de inversión sectoriales, regionales, intersectoriales y especiales;
 
-XI.- Participar en la planeación del desarrollo social del Estado y de manera conjunta con la Dirección de Enlace Institucional, Investigación y Estudios, apoyar en la elaboración de la formulación e integración de programas de inversión sectoriales, regionales, intersectoriales y especiales, que en el ámbito de su competencia, sean promovidos por el Comité de Planeación para el Desarrollo del Estado de Puebla, dentro del Sistema Estatal de Planeación Democrática;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2009)</small>
+
+XI.- Participar en la planeación del desarrollo social del Estado; y apoyar en la elaboración e integración de los programas de inversión, sectoriales, regionales, intersectoriales y especiales, que en el ámbito de su competencia, sean promovidos por el Comité de Planeación para el Desarrollo del Estado de Puebla, dentro del Sistema Estatal de Planeación Democrática;
 
 XII.- Diseñar, crear, integrar y administrar un sistema de identificación de beneficiarios de los programas sociales operados con recursos federales, estatales y/o municipales, así como otras aportaciones, que permita orientar la inversión planeada y evite duplicidad de esfuerzos, al contar con identificación plena de la población que ya ha recibido beneficios, sujeto a criterios de objetividad, transparencia, selectividad y temporalidad;
 
 XIII.- Operar y mantener actualizado un sistema informático que conjunte los sistemas cartográficos actualizados con la información operativa y cobertura de los programas sociales de las diferentes agencias del Gobierno Federal, Estatal, y/o Municipal permitiendo identificar la concurrencia de los recursos operados con el fin de planear con eficiencia y oportunidad las acciones encaminadas a abatir los niveles de pobreza y marginación en el Estado;
 
-XIV.- Colaborar de manera directa con su superior jerárquico en el diseño, planeación e instrumentación de las acciones de políticas sociales innovadoras;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2009)</small>
+
+XIV.- Diseñar, planear y someter a consideración del Secretario, las políticas sociales innovadoras, así como instrumentar las acciones que resulten pertinentes;
 
 XV.- Intervenir y en su caso, solventar las observaciones que se reciban de las instancias competentes, para el fortalecimiento y reorientación de los programas y acciones de su competencia;
 
-XVI.- Proveer información de los procesos sistematizados que permita a la Dirección de Evaluación y Estadística elaborar y dar seguimiento al conjunto de indicadores de evaluación de resultados de los programas y acciones que se realicen en la Secretaría de Desarrollo Social, con recursos estatales, federales, municipales y otras fuentes de financiamiento;
+XVI.- (DEROGADA, P.O. 13 DE FEBRERO DE 2009)
 
 XVII.- Elaborar y presentar al superior jerárquico, el mapa de coberturas de servicios básicos, a nivel municipal y por rangos según el tamaño de la localidad, a fin de proporcionar información y asesoría a los Ayuntamientos en coordinación con la Dirección de Fortalecimiento y Desarrollo Municipal, en la planeación y elaboración de sus planes y programas de trabajo que se soliciten;
 
@@ -665,19 +663,35 @@ XXI.- Coadyuvar en la planeación de los programas de capacitación aplicables t
 
 XXII.- Establecer de manera conjunta con el superior jerárquico los procedimientos que garanticen que los programas para la superación de la pobreza, operen con calidad y eficiencia, guardando congruencia con los objetivos institucionales y en el marco del Plan Estatal de Desarrollo;
 
-XXIII.- Colaborar en el diseño y en la promoción de canales de comunicación y coordinación con otras dependencias y entidades que realicen acciones en materia de política social; y
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2009)</small>
 
-XXIV.- Las demás que se establezcan en este Reglamento, los ordenamientos vigentes, acuerdos, decretos, circulares, convenios, así como las que le confiera el superior jerárquico.
+XXIII.- Colaborar en el diseño y en la promoción de canales de comunicación y coordinación con otras dependencias y entidades que realicen acciones en materia de política social;
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2009)</small>
+
+XXIV.- Presentar ante el Comité de Planeación para el Desarrollo del Estado de Puebla, las normas y políticas para la integración y ejecución de programas sociales, que hayan sido aprobados por el Secretario;
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2009)</small>
+
+XXV.- Elaborar y proponer al Secretario las políticas y criterios de acción en materia de gasto de inversión que permita una distribución equilibrada y racional de las asignaciones presupuestales en cada uno de los programas de inversión, en materia de desarrollo social; y
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2009)</small>
+
+XXVI.- Las demás que se establezcan en este Reglamento, los ordenamientos vigentes, acuerdos, decretos, circulares, convenios, así como las que le confiera el Secretario.
 
 ### CAPÍTULO XIII. DE LA DIRECCIÓN DE EVALUACIÓN Y ESTADÍSTICA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 20.
 
-La Dirección de Evaluación y Estadística, estará a cargo de un titular adscrito a la Coordinación General de Planeación y Evaluación y tendrá además de las atribuciones que señala el artículo 18 del presente Reglamento, las siguientes:
+La Dirección de Evaluación y Estadística estará a cargo de un Titular adscrito al Secretario y tendrá además de las atribuciones que señala el artículo 18 del presente Reglamento, las siguientes:
 
 I.- Someter a la consideración del superior jerárquico la información de programas y proyectos de evaluación en materia de desarrollo social, para su difusión y acciones pertinentes;
 
-II.- Coadyuvar en la evaluación de los programas sociales y acciones que realicen las unidades administrativas de la Secretaría y otras instancias, con recursos estatales, aportaciones federales, municipales y otras fuentes de financiamiento;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2009)</small>
+
+II.- Evaluar los programas sociales y acciones que realicen las unidades administrativas de la Secretaría y otras instancias, con recursos estatales, aportaciones federales, municipales y otras fuentes de financiamiento, en base al conjunto de indicadores autorizados por el Secretario;
 
 III.- Compilar técnicas, metodologías y mecanismos de evaluación de programas sociales, estudios e investigaciones de campo sobre grupos a los que se hayan destinado acciones con los recursos previstos en la fracción II de este artículo, en coordinación con las unidades administrativas de la Secretaría;
 
@@ -685,7 +699,7 @@ IV.- Operar un sistema de información, evaluación y estadística que contendr�
 
 V.- Proponer en coordinación con los responsables de los programas sociales, el conjunto de indicadores de evaluación económica, social, cobertura, eficiencia, territorialidad, desempeño y gestión de los programas y acciones señalados en la fracción I de este artículo y someterlos a la autorización del superior jerárquico;
 
-VI.- Coordinar y supervisar las evaluaciones externas de los programas sociales que de manera conjunta se lleven a cabo con instituciones académicas y otras de tipo social especializadas, respecto a los programas y acciones financiados con los recursos estatales y coadyuvar en las demás evaluaciones;
+VI.- (DEROGADA, P.O. 13 DE FEBRERO DE 2009)
 
 VII.- Evaluar el impacto socioeconómico y los resultados de ejecución en el ámbito estatal, regional y municipal, de los programas sociales de las unidades administrativas de la Secretaría de Desarrollo Social, en función de los objetivos y metas de desarrollo social del Plan Estatal de Desarrollo;
 
@@ -701,45 +715,49 @@ XII.- Impulsar en las unidades administrativas y entidades sectorizadas, una cul
 
 XIII.- Mantener relación permanente con los sistemas de información en el Estado, así como con el Instituto Nacional de Estadística, Geografía e Informática, asociaciones, organismos, universidades y centros de investigación, a fin de impulsar la estandarización de procesos y la optimización de recursos en materia de administración y difusión de la Información Estadística y Geográfica de la Entidad;
 
-XIV.- Realizar visitas de campo para el levantamiento de información para el control, seguimiento y evaluación de los programas sociales operados por la Secretaría; y
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2009)</small>
 
-XV.- Las demás que se establezcan en este Reglamento, los ordenamientos vigentes, acuerdos, decretos, circulares, convenios, así como las que le confiera el superior jerárquico.
+XIV.- Realizar visitas de campo para el levantamiento de información para el control, seguimiento y evaluación de los programas sociales operados por la Secretaria;
 
-### CAPÍTULO XIV. DE LA DIRECCIÓN DE ENLACE INSTITUCIONAL, INVESTIGACIÓN Y ESTUDIOS
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2009)</small>
+
+XV.- Coordinar y concentrar la información de los organismos sectorizados a la Secretaria, relativa a la formulación del informe anual de gobierno; y
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2009)</small>
+
+XVI.- Las demás que se establezcan en este Reglamento, los ordenamientos vigentes, acuerdos, decretos, circulares, convenios, así como las que le confiera el superior jerárquico.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE FEBRERO DE 2009)</small>
+
+### CAPÍTULO XIV. DE LA DIRECCIÓN PROGRAMAS ESPECIALES
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 21.
 
-La Dirección de Enlace Institucional Investigación y Estudios, estará a cargo de un Titular adscrito a la Coordinación General de Planeación y Evaluación, y tendrá además de las atribuciones que señala el artículo 18 del presente Reglamento, las siguientes:
+La Dirección de Programas Especiales, estará a cargo de un Titular adscrito a la Subsecretaria de Coordinación y Desarrollo Regional y tendrá además de las atribuciones que señala el artículo 18 del presente Reglamento, las siguientes:
 
-I.- Proponer al superior jerárquico, los lineamientos de coordinación con los organismos sectorizados de la Secretaría, así como las áreas homólogas de otras entidades;
+I.- Proponer al superior jerárquico, los Iineamientos de coordinación con los organismos sectorizados de la Secretaría, así como las áreas homologas de otras entidades;
 
-II.- Vincular las acciones de los organismos sectorizados a la Secretaría, para fortalecer el impacto de los programas sociales;
+II.- Vincular las acciones de los organismos sectorizados a la Secretaria, para fortalecer el impacto de los programas sociales;
 
-III.- Coadyuvar en la programación y presupuestación de los organismos sectorizados a la Secretaría;
+III.- Elaborar instrumentos, políticas, lineamientos, programas y proyectos regionales, micro-regionales y especiales, encaminados a detonar el desarrollo regional del Estado;
 
-IV.- Coordinar la elaboración de los informes que deban rendirse sobre los programas, proyectos y actividades de los organismos sectorizados a la Secretaría, informando oportunamente al superior jerárquico;
+IV.- Dirigir y ejecutar los programas especiales que se deriven de convenios o acuerdos suscritos con la Federación y que le sean asignados a la Secretaría;
 
-V.- Conocer las observaciones que reciban los Titulares de los organismos sectorizados a la Secretaría, a efecto de emitir recomendaciones que fortalezcan y reorienten los programas y acciones de su competencia;
+V.- Elaborar investigaciones en materia de desarrollo social y superación a la pobreza, para determinar la viabilidad de nuevos proyectos y programas sociales de la Secretaría en el Estado;
 
-VI.- Previo acuerdo con su superior jerárquico, promover la cooperación y vinculación nacional e internacional para el desarrollo social del Estado;
+VI.- Dar seguimiento a la ejecución de los programas especiales que implemente la Secretaría, e informar a su superior jerárquico;
 
-VlI.- En coordinación con las áreas que integran la Coordinación General de Planeación y Evaluación, solicitar a las diferentes áreas que conforman la Secretaría, así como los organismos sectorizados a la misma, la información detallada sobre las actividades que desempeñan, con la finalidad de orientarlos a los objetivos de la política social;
+Vll.- Formular y plantear acciones y metodologías con el propósito de reforzar los estudios que realicen las áreas de análisis, seguimiento o evaluación de la Secretaría, en el ámbito de su competencia;
 
-VIII.- Dar a conocer a los Ayuntamientos da la Entidad que así lo requieran, los requisitos y/o reglas de operación de cada uno de los programas que opera esta Secretaría, a efecto de coadyuvar en la gestión correspondiente;
+VIII.- Compilar estudios e investigaciones para la identificación de políticas y programas de desarrollo social exitosos a nivel nacional e internacional, para vincularlos o implementarlos en el Estado;
 
-IX.- Recopilar información, estudios e investigaciones a nivel nacional e internacional que sean de utilidad para el desarrollo de programas sociales en el Estado;
+IX.- Generar propuestas de nuevos programas y proyectos pertinentes a las diversas necesidades económicas y sociales de la población en condiciones de pobreza y marginación en la entidad;
 
-X.- Realizar estudios que permitan tener un diagnóstico actualizado sobre la situación social del Estado en temas relacionados con la marginación, la pobreza y la vulnerabilidad;
+X.- Elaborar los informes que deban rendirse sobre los programas, proyectos y actividades especiales de los organismos sectorizados a la Secretaría, e instituciones del Gobierno del Estado, informando oportunamente al superior jerárquico; y
 
-XI.- Elaborar investigaciones sobre temas de desarrollo social para determinar la viabilidad da nuevas políticas públicas y emitir recomendaciones sobre los programas sociales existentes en el Estado;
-
-XII.- Desarrollar documentos basados en la investigación y los estudios que realice que faciliten la toma de decisiones en la conducción de la política social del Estado;
-
-XIll.- Compilar estudios e investigaciones para la identificación de políticas y programas de desarrollo social exitosos a nivel nacional e internacional para vincularlos con el Estado;
-
-XIV.- Elaborará propuestas de nuevos programas sociales en materia de combate a la pobreza, la marginación y la vulnerabilidad; y
-
-XV.- Las demás que se establezcan en este Reglamento, los ordenamientos vigentes, acuerdos, decretos, circulares, convenios, así como las que le confiera el superior jerárquico.
+XI.- Las demás que se establezcan en este Reglamento, los ordenamientos vigentes, acuerdos, decretos, circulares, convenios, así como las que le confiera el superior jerárquico.
 
 ### CAPÍTULO XV. DE LA DIRECCIÓN DE INVERSIÓN PRODUCTIVA SOCIAL
 
@@ -789,7 +807,9 @@ V.- Concentrar y analizar los resultados de los proyectos y programas encomendad
 
 VI.- Coordinarse con las diversas unidades administrativas de la Secretaría, en la planeación logística y operativa, a fin de instrumentar y evaluar los proyectos y programas encomendados a la Dirección;
 
-VII.- Coordinarse con las diferentes áreas de la Coordinación General de Planeación y Evaluación, para recopilar, generar, organizar, procesar y analizar la información de campo, respecto a las condiciones de bienestar social de las comunidades rurales y áreas urbanas marginadas, a fin de evaluar la efectividad de los proyectos y programas a su cargo;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2009)</small>
+
+VII.- Coordinarse con la Dirección de Evaluación y Estadística y, en su caso, con las entidades sectorizadas a la Secretaría, para recopilar, generar, organizar, procesar y analizar la información de campo, respecto a las condiciones de bienestar social de las comunidades rurales y áreas urbanas marginadas, a fin de evaluar la efectividad de los proyectos y programas a su cargo;
 
 VIII.- Instrumentar los mecanismos y procedimientos necesarios, a fin de mejorar el desarrollo y aplicación de los proyectos y programas operativos que le sean encomendados;
 
@@ -857,7 +877,9 @@ I.- Proponer al superior jerárquico, las normas, prioridades y lineamientos par
 
 II.- Sugerir al superior jerárquico, los programas y proyectos susceptibles de ser apoyados técnica y administrativamente, a través de los módulos de maquinaria a su cargo, y en su caso, aplicarlos;
 
-III.- Diseñar e instrumentar conjuntamente con la Coordinación General de Planeación y Evaluación los mecanismos de operación, promoción y aplicación de estrategias que fortalezcan y hagan más eficiente la participación social, en la formulación, ejecución, control, seguimiento y evaluación de los programas y proyectos desarrollados mediante los módulos de maquinaria a su cargo;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2009)</small>
+
+III.- Diseñar e instrumentar conjuntamente con la Dirección de Planeación y Prospectiva los mecanismos de operación, promoción y aplicación de estrategias que fortalezcan y hagan más eficiente la participación social, en la formulación, ejecución, control, seguimiento y evaluación de los programas y proyectos desarrollados mediante los módulos de maquinaria a su cargo;
 
 IV.- Proponer al superior jerárquico, la celebración de convenios para la ejecución de obras en materia de apertura de caminos rurales, así como la nivelación de terrenos para obras de infraestructura social y obras complementarias, con autoridades municipales, ejidales, comuneros, debidamente constituidos en las diferentes regiones del Estado;
 
@@ -923,7 +945,9 @@ XX.- Las demás que se establezcan en este Reglamento, los ordenamientos vigente
 
 La Dirección de Fortalecimiento y Desarrollo Municipal, estará a cargo de un Titular adscrito a la Subsecretaría de Coordinación y Desarrollo Regional y tendrá además de las atribuciones que señala el artículo 18 del presente Reglamento, las siguientes:
 
-I.- Coordinar los resultados globales de la Dirección, asegurando el control interno y los procesos administrativos, así como coadyuvar en las acciones que se lleven a cabo entre los Municipios y el Estado en materia de planeación, asistencia técnica y capacitación, en conjunto con la Coordinación General de Planeación y Evaluación;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2009)</small>
+
+I.- Coordinar los resultados globales de la Dirección, asegurando el control interno y los procesos administrativos, así como coadyuvar en las acciones que se lleven a cabo entre los Municipios y el Estado en materia de planeación, asistencia técnica y capacitación, en conjunto con la Dirección de Planeación y Prospectiva;
 
 II.- Apoyar a los Ayuntamientos del Estado que así lo soliciten, en todo lo relativo a la planeación municipal en coordinación con las áreas competentes de la Secretaría;
 
@@ -939,11 +963,15 @@ VII.- Apoyar a los Ayuntamientos de la Entidad que así lo soliciten en las dive
 
 VIII.- Coordinar la integración del inventario de servicios básicos y los indicadores de desarrollo y seguimiento para los programas de inversión de manera conjunta con las Direcciones de Planeación y Prospectiva y de Estadística y Evaluación;
 
-IX.- Coadyuvar con la Coordinación General de Planeación y Evaluación en la actualización de las bases de datos del sistema de información municipal;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2009)</small>
+
+IX.- Coadyuvar con la Dirección de Evaluación y Estadística, en la actualización de las bases de datos del sistema de información municipal;
 
 X.- Solicitar a la unidad administrativa correspondiente, la adquisición y contratación de bienes y servicios cuando sea necesario para cumplir con los objetivos de la Dirección y de conformidad con la legislación aplicable;
 
-XI.- Actualizar y mantener un sistema de información municipal de consulta para los funcionarios municipales, a través de medios electrónicos con el apoyo de la Coordinación General de Evaluación y Planeación (sic);
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2009)</small>
+
+XI.- Actualizar y mantener un sistema de información municipal de consulta para los funcionarios municipales, a través de medios electrónicos con el apoyo de la Dirección de Evaluación y Estadística;
 
 XII.- Elaborar y mantener actualizados los manuales de capacitación a los Ayuntamientos de la Entidad y someterlos a la consideración de su superior jerárquico; y
 
@@ -1169,7 +1197,9 @@ XII.- Intervenir en la elaboración y autorizar, en su caso, los formatos e inst
 
 XIII.- Revisar y, en su caso, dictaminar la procedencia jurídica del otorgamiento, celebración, modificación, suspensión, revocación, terminación, rescisión, nulidad total o parcial y demás efectos jurídicos de los convenios, contratos, concesiones, autorizaciones, permisos y licencias que competan a la Secretaría;
 
-XIV.- Representar legalmente a la Secretaría en todas las controversias y trámites que sean de su competencia, iniciar o continuar acciones ante los órganos formal o materialmente jurisdiccionales, desistirse, interponer recursos, promover incidentes, ofrecer o rendir pruebas, alegar y seguir los juicios y procedimientos hasta ejecutar las resoluciones y en general, ejercer las mismas atribuciones que un mandatario con todas las facultades generales y las particulares que requieran cláusulas especiales conforme a la Ley, y en su caso, otorgar mandatos y poderes generales y especiales para pleitos y cobranzas al personal adscrito a la propia Dirección, para el cumplimiento de los objetivos de la misma;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2009)</small>
+
+XIV.- Representar legalmente a la Secretaría en todas las controversias y trámites que sean de su competencia, así como en lo relativo a las relaciones laborales; asimismo, iniciar o continuar acciones ante los órganos formal o materialmente jurisdiccionales, desistirse, interponer recursos, promover incidentes, ofrecer o rendir pruebas, alegar y seguir los juicios y procedimientos hasta ejecutar las resoluciones y en general, ejercer las mismas atribuciones que un mandatario con todas las facultades generales y las particulares que requieran cláusulas especiales conforme a la Ley, y en su caso, otorgar mandatos y poderes generales y especiales para pleitos y cobranzas al personal adscrito a la propia Dirección, para el cumplimiento de los objetivos de la misma;
 
 XV.- Promover ante la instancia competente, el ejercicio de acciones legales en contra de quienes presuntamente afecten los intereses de la Secretaría y proveerla de los elementos para formular todo tipo de denuncias y querellas;
 
@@ -1283,15 +1313,17 @@ XVI.- Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y con
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 39.
 
-Las ausencias de los servidores públicos de la Secretaría, serán suplidas de la siguiente manera:
+Las ausencias de los servidores públicos de la Secretaría, no mayores a 15 días, serán suplidas de la siguiente manera:
 
-I.- El Secretario será suplido en sus ausencias por los Subsecretarios conforme al ámbito de su competencia o en su caso o por el servidor público que determine él mismo;
+I.- El Secretario será suplido por los Subsecretarios o Coordinadores Generales que ejerzan la competencia del asunto que se trate o por el servidor público que determine el Gobernador del Estado o el propio Secretario;
 
-II.- Los Subsecretarios y Coordinadores Generales serán suplidos por el funcionario que designe el Secretario; y
+II.- Los Subsecretarios y Coordinadores Generales serán suplidos por los Directores que ejerzan la competencia del asunto que se trate; y
 
-III.- Los Directores de área, así como los Titulares de las distintas unidades administrativas, serán suplidos por el servidor público que para el efecto designe el Secretario.
+III.- Los Directores y/o Titulares de las unidades administrativas serán suplidos por el servidor público de nivel jerárquico inmediato inferior, o en su caso, por el que para tal efecto designe el Secretario.
 
 ## TRANSITORIOS
 
@@ -1304,3 +1336,13 @@ TERCERO.- Se derogan las disposiciones que se opongan al presente Reglamento.
 CUARTO.- Cuando las funciones de alguna unidad administrativa establecida con anterioridad a la vigencia de este Reglamento, deban ser ejercidas por alguna otra unidad de las que el mismo establece o cuando se cambie su adscripción o denominación, el personal, mobiliario, archivo y en general el equipo que aquella haya utilizado, pasarán a la unidad que se determine. Competerá a la nueva unidad administrativa terminar la substanciación y dictará la resolución que corresponda de los asuntos que se encuentren en trámite.
 
 Dado en el Palacio del Poder Ejecutivo del Estado, a los seis días del mes de septiembre de dos mil cinco.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO JAVIER LÓPEZ ZAVALA.- Rúbrica.- El Secretario de Desarrollo Social.- LICENCIADO CHARBEL JORGE ESTEFAN CHIDIAC.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 13 DE FEBRERO DE 2009.
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial de (sic) Estado y entrará en vigor a partir del día siguiente de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Cuando las funciones de alguna unidad administrativa establecida con anterioridad a la vigencia de este Reglamento, deban ser ejercidas por otra unidad de las que el mismo establece o cuando se cambie su adscripción o denominación, el personal, mobiliario, archivo y en general el equipo que aquélla haya utilizado, pasarán a la unidad que se determine. Competerá a la nueva unidad administrativa terminar la substanciación y dictará la resolución que corresponda de los asuntos que se encuentren en trámite.
