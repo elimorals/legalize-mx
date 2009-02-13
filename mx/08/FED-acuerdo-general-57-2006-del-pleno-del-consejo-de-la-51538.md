@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-57-2006-del-pleno-del-consejo-de-la-51538"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-09-04"
-last_updated: "2008-12-15"
+last_updated: "2009-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51538&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-23"
 
 ACUERDO GENERAL 57/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE FEBRERO DE 2009.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de septiembre de 2006.
 
@@ -45,9 +45,9 @@ En consecuencia, con fundamento en las disposiciones constitucionales y legales 
 
 ACUERDO
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 4/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE FEBRERO DE 2009)</small>
 
-PRIMERO.- El territorio de la República se divide en treinta Circuitos, cuya circunscripción territorial es la siguiente:
+PRIMERO.- El territorio de la República se divide en treinta y un circuitos, cuya circunscripción territorial es la siguiente:
 
 I.- PRIMER CIRCUITO: Distrito Federal.
 
@@ -75,7 +75,9 @@ XII.- DECIMOSEGUNDO CIRCUITO: Estado de Sinaloa.
 
 XIII.- DECIMOTERCER CIRCUITO: Estado de Oaxaca.
 
-XIV.- DECIMOCUARTO CIRCUITO: Estados de Yucatán y Campeche.
+> <small>(REFORMADA POR EL PUNTO SEXTO DEL ACUERDO GENERAL 4/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE FEBRERO DE 2009)</small>
+
+XIV.- DECIMOCUARTO CIRCUITO: Estado de Yucatán.
 
 XV.- DECIMOQUINTO CIRCUITO: Estado de Baja California y municipio de San Luis Río Colorado del Estado de Sonora.
 
@@ -112,6 +114,10 @@ XXIX.- VIGESIMO NOVENO CIRCUITO: Estado de Hidalgo.
 > <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)</small>
 
 XXX.- TRIGESIMO CIRCUITO: Estado de Aguascalientes.
+
+> <small>(ADICIONADA POR EL PUNTO SEXTO DEL ACUERDO GENERAL 4/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE FEBRERO DE 2009)</small>
+
+XXXI.- TRIGESIMO PRIMER CIRCUITO: Estado de Campeche.
 
 SEGUNDO.- Cada uno de los Circuitos a que se refiere el punto primero comprenderá los tribunales colegiados y unitarios de Circuito y los juzgados de Distrito que a continuación se precisan:
 
@@ -259,7 +265,7 @@ XIV.- DECIMOCUARTO CIRCUITO:
 
 3.- Cuatro juzgados de Distrito en el Estado de Yucatán, con residencia en Mérida.
 
-4.- Dos juzgados de Distrito en el Estado de Campeche, con sede en la ciudad del mismo nombre.
+4.- (DEROGADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 4/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE FEBRERO DE 2009)
 
 XV.- DECIMOQUINTO CIRCUITO:
 
@@ -409,6 +415,16 @@ XXX.- TRIGESIMO CIRCUITO:
 
 3.- Tres juzgados de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre.
 
+> <small>(ADICIONADA POR EL PUNTO SEXTO DEL ACUERDO GENERAL 4/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE FEBRERO DE 2009)</small>
+
+XXXI.- TRIGESIMO PRIMER CIRCUITO:
+
+1.- Un tribunal colegiado con residencia en Campeche.
+
+2.- Un tribunal unitario con sede en Campeche.
+
+3.- Dos juzgados de Distrito en el Estado de Campeche, con residencia en la ciudad del mismo nombre.
+
 TERCERO.- La jurisdicción territorial de los tribunales colegiados y unitarios de Circuito es la que enseguida se indica:
 
 I.- PRIMER CIRCUITO: Distrito Federal.
@@ -449,7 +465,9 @@ Por lo que hace al tribunal unitario con residencia en Culiacán, será la misma
 
 XIII.- DECIMOTERCER CIRCUITO: Estado de Oaxaca.
 
-XIV.- DECIMOCUARTO CIRCUITO: Estados de Campeche y Yucatán.
+> <small>(REFORMADA POR EL PUNTO SEXTO DEL ACUERDO GENERAL 4/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE FEBRERO DE 2009)</small>
+
+XIV.- DECIMOCUARTO CIRCUITO: Estado de Yucatán.
 
 XV.- DECIMOQUINTO CIRCUITO: Respecto de los tribunales colegiados es el Estado de Baja California y el municipio de San Luis Río Colorado del Estado de Sonora.
 
@@ -510,6 +528,10 @@ XXIX.- VIGESIMO NOVENO CIRCUITO: Estado de Hidalgo.
 > <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)</small>
 
 XXX.- TRIGESIMO CIRCUITO: Estado de Aguascalientes.
+
+> <small>(ADICIONADA POR EL PUNTO SEXTO DEL ACUERDO GENERAL 4/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE FEBRERO DE 2009)</small>
+
+XXXI.- TRIGESIMO PRIMER CIRCUITO: Estado de Campeche.
 
 CUARTO.- La jurisdicción territorial de los juzgados de Distrito es la siguiente:
 
@@ -609,7 +631,7 @@ XIV.- DECIMOCUARTO CIRCUITO:
 
 Los juzgados de Distrito en el Estado de Yucatán, con residencia en Mérida, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
-Los juzgados de Distrito en el Estado de Campeche, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+> <small>(DEROGADO SEGUNDO PARRAFO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 4/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE FEBRERO DE 2009)</small>
 
 XV.- DECIMOQUINTO CIRCUITO:
 
@@ -705,9 +727,15 @@ XXX.- TRIGESIMO CIRCUITO:
 
 Los juzgados de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 82/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA POR EL PUNTO SEXTO DEL ACUERDO GENERAL 4/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE FEBRERO DE 2009)</small>
 
-XXXI.- Los Jueces de Distrito en Materia de Procesos Penales Federales del Primero y Segundo Circuito, los Penales del Tercer Circuito y los Mixtos, así como los de Procesos Penales Federales que en lo futuro se lleguen a crear en aquellos lugares donde exista un centro federal de readaptación social de máxima seguridad, ejercerán jurisdicción en toda la República para conocer de aquellos asuntos que se encuentren en la hipótesis del artículo 10, párrafo tercero, del Código Federal de Procedimientos Penales.
+XXXI.- TRIGESIMO PRIMER CIRCUITO:
+
+Los juzgados de Distrito en el Estado de Campeche, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+
+> <small>(ADICIONADA POR EL PUNTO SEXTO DEL ACUERDO GENERAL 4/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE FEBRERO DE 2009)</small>
+
+XXXII.- Los Jueces de Distrito en Materia de Procesos Penales Federales del Primero y Segundo Circuito, los Penales del Tercer Circuito y los Mixtos, así como los de Procesos Penales Federales que en lo futuro se lleguen a crear en aquellos lugares donde exista un centro federal de readaptación social de máxima seguridad, ejercerán jurisdicción en toda la República para conocer de aquellos asuntos que se encuentren en la hipótesis del artículo 10, párrafo tercero, del Código Federal de Procedimientos Penales.
 
 > <small>(REFORMADO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 52/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE OCTUBRE DE 2008)</small>
 
@@ -1038,3 +1066,11 @@ SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación
 TERCERO.- Las cuestiones de competencia, suscitadas entre juzgados de Distrito que se estén tramitando en los tribunales colegiados de Circuito en los que se trate de determinar a cuál órgano corresponde el conocimiento de una causa relacionada con lo previsto en la fracción XXXI que se adiciona al Acuerdo General 57/2006 del Pleno del Consejo de la Judicatura Federal, se resolverán en los términos de este acuerdo.
 
 CUARTO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar, de inmediato, el texto de la reforma, al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+
+D.O.F. 13 DE FEBRERO DE 2009.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, el texto de esta reforma al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
