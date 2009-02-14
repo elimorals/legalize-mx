@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2008-10-04"
+last_updated: "2009-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 2009.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -1401,11 +1401,11 @@ XI. Nombre y firma de las autoridades facultadas para expedir el título-concesi
 
 XII. Las demás disposiciones que establezca el reglamento y las que acuerde el ayuntamiento.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 100.
 
-Las concesiones de servicios públicos se otorgarán por tiempo determinado; el plazo de vigencia de éstas será fijado por los ayuntamientos, el cual podrá ser prorrogado hasta por plazos equivalentes.
-
-En caso de que el término de la concesión exceda al período del ayuntamiento que la otorgue, se requerirá de la autorización del Congreso.
+Las Concesiones de bienes y servicios públicos municipales se otorgarán por tiempo determinado y serán aprobadas por el Cabildo, aun las que excedan el periodo de gobierno de un ayuntamiento. La vigencia podrá ser prorrogada hasta por plazos equivalentes en el que se podrán imponer condiciones y obligaciones adicionales al concesionario.
 
 ###### ARTICULO 101.
 
@@ -1856,3 +1856,7 @@ SEGUNDO.- Los Ayuntamientos expedirán el Reglamento del Gobierno Municipal que 
 P.O. 4 DE OCTUBRE DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 14 DE FEBRERO DE 2009.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
