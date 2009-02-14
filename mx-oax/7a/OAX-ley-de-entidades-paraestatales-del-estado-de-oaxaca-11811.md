@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-entidades-paraestatales-del-estado-de-oaxaca-11811"
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-28"
-last_updated: "2006-10-07"
+last_updated: "2009-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 28 de febrero de 1998.
 
@@ -73,7 +73,9 @@ VIII. Fideicomisos Públicos.
 
 Quedan exceptuadas de las disposiciones de esta Ley, la Universidad Autónoma "Benito Juárez" de Oaxaca y las demás Instituciones educativas y culturales a las que la Ley otorgue autonomía; así como las entidades paraestatales que atendiendo a sus objetivos y a la naturaleza de sus funciones así se les haya decretado.
 
-La Comisión Estatal de Derechos Humanos atendiendo a su objetivo y a la naturaleza de sus funciones, queda excluida de la observancia del presente ordenamiento.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2009)</small>
+
+La Comisión para la Defensa de los Derechos Humanos y el Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca, atendiendo a sus objetivos y a la naturaleza de sus funciones, quedan excluidos de la observancia del presente ordenamiento.
 
 ###### ARTICULO 4o.
 
@@ -656,3 +658,7 @@ P.O. 7 DE OCTUBRE DE 2006.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los instrumentos de creación de las entidades paraestatales vigentes a la fecha, se ajustarán a los términos de la Ley de Entidades Paraestatales del Estado de Oaxaca, por lo que el poder público al que corresponda, en un término que no excederá de 12 meses contados a partir de la entrada en vigor del presente Decreto, deberá promover o promulgar, en lo conducente, que dichos instrumentos se ajusten a dicha ley.
+
+P.O. 14 DE FEBRERO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
