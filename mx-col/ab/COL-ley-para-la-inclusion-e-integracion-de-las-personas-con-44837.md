@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-inclusion-e-integracion-de-las-personas-con-44837"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-07"
-last_updated: "2008-05-24"
+last_updated: "2009-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA INTEGRACION Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 7 de mayo de 2005.
 
@@ -51,7 +51,9 @@ La presente Ley es de orden público e interés social, sus disposiciones son de
 
 Para los efectos de la presente Ley se entiende por:
 
-I. Persona con Discapacidad: Todo ser humano que tenga temporal o permanentemente una alteración funcional física, mental o sensorial, que le impida realizar una actividad propia de su edad y medio social, que implique desventajas para su integración familiar, social, educacional o laboral;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2009)</small>
+
+I. Persona con Discapacidad: Todo ser humano que tenga temporal o permanentemente una alteración funcional física, mental o sensorial; o un trastorno de talla y peso congénito o adquirido, que le impida realizar una actividad propia de su edad y medio social, que implique desventajas para su integración familiar, social, educacional o laboral;
 
 II. Ley: Al presente ordenamiento
 
@@ -920,3 +922,7 @@ P.O. 21 DE JULIO DE 2007.
 P.O. 24 DE MAYO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 14 DE FEBRERO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial "El Estado de Colima".
