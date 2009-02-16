@@ -4,7 +4,7 @@ identifier: "VER-codigo-hacendario-municipal-para-el-estado-de-veracruz-de-26777
 country: "mx"
 rank: "codigo"
 publication_date: "2002-11-22"
-last_updated: "2008-08-08"
+last_updated: "2009-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 CODIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CODIGO NUMERO 531 HACENDARIO PARA EL MUNICIPIO DE MEDELLIN, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE 16 DE FEBRERO DE 2009, EL PRESENTE ORDENAMIENTO QUEDARA SIN APLICACION EN EL MUNICIPIO DE MEDELLIN, VERACRUZ, A PARTIR DE LA VIGENCIA DEL CITADO CODIGO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE FEBRERO DE 2009.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 22 de noviembre de 2002.
 
@@ -6114,3 +6116,23 @@ Primero. El presente decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Los sujetos obligados a que se refiere el artículo 5.1, fracciones I, II, III y IV de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave, realizarán los trámites necesarios ante la Secretaría de Finanzas y Planeación para obtener los recibos fiscales que se extenderán a las personas que soliciten información pública. Los Ayuntamientos harán lo propio, a través de sus respectivas tesorerías.
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 16 DE FEBRERO DE 2009.
+
+CODIGO NUMERO 536 HACENDARIO PARA EL MUNICIPIO DE TIERRA BLANCA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+Primero. El presente Código entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. En términos del artículo 1 del Código número 302 Hacendario Municipal para el Estado de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial del estado el 22 de noviembre de 2002, quedará sin aplicación dicho ordenamiento en el Municipio de Tierra Blanca, Veracruz, a partir de la vigencia del presente Código.
+
+Tercero. Las contribuciones, los créditos fiscales y los procedimientos administrativos generados bajo la vigencia del Código Hacendario Municipal para el Estado de Veracruz de Ignacio de la Llave se cobrarán, tramitarán y resolverán, conforme a dicho ordenamiento legal, hasta su conclusión.
+
+G.O. 16 DE FEBRERO DE 2009.
+
+CODIGO NUMERO 531 HACENDARIO PARA EL MUNICIPIO DE MEDELLIN, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+Primero. El presente Código entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. En términos del artículo 1 del Código número 302 Hacendario Municipal para el Estado de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial del estado el 22 de noviembre de 2002, quedará sin aplicación dicho ordenamiento en el Municipio de Medellín, Veracruz, a partir de la vigencia del presente Código.
+
+Tercero. En la aplicación de lo dispuesto por el artículo 202 de este Código, el Ayuntamiento cobrará a los establecimientos que operaban con anterioridad a la entrada en vigor del mismo, únicamente la cuota que corresponda a los derechos por el refrendo anual, previa comprobación de dicha circunstancia por parte de los interesados, mediante la exhibición de las cédulas de empadronamiento o de otros documentos probatorios.
