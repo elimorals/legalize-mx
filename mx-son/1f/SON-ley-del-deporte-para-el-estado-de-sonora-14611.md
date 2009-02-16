@@ -4,7 +4,7 @@ identifier: "SON-ley-del-deporte-para-el-estado-de-sonora-14611"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-12"
-last_updated: "1999-07-12"
+last_updated: "2009-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14611&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY DEL DEPORTE PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 16 DE FEBRERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Cuarta del Boletín Oficial del Estado de Sonora, el lunes 12 de julio de 1999.
 
@@ -854,3 +856,19 @@ Comuníquese al Ejecutivo para su sanción y promulgación.
 SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Hermosillo, Sonora, a 29 de junio de 1999.- AL MARGEN CENTRAL INFERIOR UN SELLO CON EL ESCUDO NACIONAL QUE DICE: ESTADOS UNIDOS MEXICANOS.- H. CONGRESO DEL ESTADO DE SONORA.- DIPUTADO PRESIDENTE.- C. JUAN EDMUNDO LOPEZ DURAND.- RUBRICA.- DIPUTADO SECRETARIO.- C. GUILLERMO PADRES ELIAS.- RUBRICA.- DIPUTADA SECRETARIA.- C. PATRICIA ALONSO RAMIREZ.- RUBRICA.-
 
 POR TANTO, mando se publique en el Boletín Oficial del Estado y se le de el debido cumplimiento.- PALACIO DE GOBIERNO, Hermosillo, Sonora, dos de julio de mil novecientos noventa y nueve.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- ARMANDO LOPEZ NOGALES.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- MIGUEL ANGEL MURILLO AISPURO.- RUBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 10 DE FEBRERO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Deporte para el Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado de Sonora, Número 4, Sección IV, del día 12 de julio de 1999, así como todas aquellas disposiciones que se contrapongan a la presente ley.
+
+###### ARTÍCULO TERCERO.
+
+El reglamento de la presente ley deberá expedirse dentro de un plazo no mayor a noventa días hábiles siguientes a la fecha en que ésta entre en vigor.
