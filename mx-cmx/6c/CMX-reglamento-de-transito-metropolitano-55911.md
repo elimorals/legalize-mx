@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transito-metropolitano-55911"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-20"
-last_updated: "2007-06-20"
+last_updated: "2009-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55911&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-06-19"
 
 REGLAMENTO DE TRANSITO METROPOLITANO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE FEBRERO DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 20 de junio de 2007.
 
@@ -42,9 +42,13 @@ REGLAMENTO DE TRÁNSITO METROPOLITANO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 1º.
 
-El presente Reglamento tiene por objeto establecer las normas relativas al tránsito de vehículos en el Distrito Federal y a la seguridad vial.
+El presente Reglamento tiene por objeto establecer las normas relativas al tránsito peatonal y de vehículos en el Distrito Federal y a la seguridad vial.
 
 ###### Artículo 2º.
 
@@ -58,7 +62,11 @@ I. La cortesía y precaución en la conducción de vehículos;
 
 II. El respeto al agente de vialidad;
 
-III. La protección a los peatones, personas con capacidades diferentes y ciclistas;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+III. La protección a los peatones, personas con discapacidad y ciclistas;
 
 IV. La prevención de accidentes; y
 
@@ -88,9 +96,23 @@ IX. Vía pública, todo espacio de uso común destinado al tránsito de peatones
 
 X. Vía de Acceso controlado, aquella que presenta dos o más secciones, centrales y laterales, en un sólo sentido con separador central y accesos y salidas sin cruces a nivel controlados por semáforos;
 
-XI. Vía primaria, aquella que por su anchura, longitud, señalización y equipamiento, posibilita un amplio volumen de tránsito vehicular; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-XII. Vía secundaria, aquella que permite la circulación al interior de las colonias, barrios y pueblos.
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+XI. Vía primaria, aquella que por su anchura, longitud, señalización y equipamiento, posibilita un amplio volumen de tránsito vehicular;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+XII. Vía secundaria, aquella que permite la circulación al interior de las colonias, barrios y pueblos; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+XIII. Persona con discapacidad, todo ser humano que padece temporal o permanentemente una disminución en sus facultades físicas, mentales o sensoriales que le impide realizar una actividad normal.
 
 ### CAPÍTULO II. DE LAS NORMAS GENERALES DE CIRCULACIÓN
 
@@ -104,7 +126,11 @@ II. Portar la tarjeta de circulación original del vehículo;
 
 III. Obedecer los señalamientos de tránsito y las indicaciones de los agentes o personal de apoyo vial;
 
-IV. Circular en el sentido que indique la vialidad,
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+IV. Circular en el sentido que indique la vialidad; tratándose de vialidades reversibles, respetar los tramos y horarios que determine la autoridad competente;
 
 V. Respetar los límites de velocidad establecidos, de acuerdo a lo siguiente:
 
@@ -114,9 +140,23 @@ b) En vías secundarias la velocidad máxima será de 40 kilómetros por hora;
 
 c) En zonas escolares, peatonales, de hospitales, de asilos, de albergues y casas hogar, la velocidad máxima será de 20 kilómetros por hora.
 
-VI. Ajustarse el cinturón de seguridad y asegurarse que los demás pasajeros también se lo ajusten.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+VI. Ajustarse el cinturón de seguridad y asegurarse que los demás pasajeros también se lo ajusten. Cuando se trate de menores de 12 años o personas con discapacidad, deberán ser transportados utilizando los sistemas de retención pertinentes; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+VII. Tratándose de vehículos con placas de matrícula extranjera, portar los documentos oficiales en los que se describan las características del vehículo y se acredite la legal estancia en el país.
 
 El incumplimiento de las obligaciones dispuestas en este artículo, se sancionará con base en la siguiente tabla:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
 
 Fracción Sanción con multa equivalente en
 
@@ -124,13 +164,11 @@ días del salario mínimo general
 
 vigente en el Distrito Federal
 
-III IV, V incisos a) y b),
-
-y VI 5 días
+III, IV, V incisos a) y b) y VI 5 días
 
 V inciso c) 10 días
 
-I y II 10 días y remisión del vehículo
+I, II y VII 10 días y remisión del vehículo
 
 al depósito
 
@@ -138,7 +176,11 @@ al depósito
 
 Se prohíbe a los conductores:
 
-I. Circular sobre banquetas, camellones, andadores, ciclovías, así como en las vías peatonales;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+I. Circular sobre banquetas, camellones, andadores, ciclovías y vías peatonales;
 
 II. Circular en carriles de contraflujo y carriles confinados;
 
@@ -158,15 +200,37 @@ IX. Transportar menores de 12 años en los asientos delanteros;
 
 X. Transportar personas en la parte exterior de la carrocería, se exceptúa el transporte de cargadores o estibadores cuando la finalidad del transporte requiera de ellos y en número y en condiciones tales que garanticen la integridad física de los mismos;
 
-XI. Utilizar teléfonos celulares o audífonos mientras se conduzca;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+XI. Sujetar aparatos de telecomunicación u otros objetos que representen un distractor para la conducción segura del vehículo;
 
 XII. Entorpecer la marcha de columnas militares, escolares, desfiles cívicos y similares;
 
-XIII. Utilizar o instalar sistemas antirradares o detector de radares de velocidad; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-XIV. Ofender, insultar o denigrar a los agentes o personal de apoyo vial en el desempeño de sus labores.
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+XIII. Utilizar o instalar sistemas antirradares o detector de radares de velocidad;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+XIV. Ofender, insultar o denigrar a los agentes o personal de apoyo vial en el desempeño de sus labores; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+XV. Dar vuelta a la izquierda, derecha o en “U” cuando se interfiera los corredores del “Metrobús”, salvo que exista señalamiento que lo permita.
 
 La infracción a las prohibiciones dispuestas en este artículo, se sancionarán con base en la siguiente tabla:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
 
 Fracción Sanción con multa equivalente en
 
@@ -180,11 +244,7 @@ VII, IX, X y XIII 10 días
 
 V y XIV 20 días
 
-II y VI 20 días y remisión del vehículo al
-
-depósito los días y horas
-
-correspondientes.
+II, VI y XV 40 días y remisión del vehículo al depósito
 
 ###### Artículo 7º.
 
@@ -200,7 +260,11 @@ c) Los de transporte escolar;
 
 d) Las carrozas y transporte de servicios funerarios;
 
-e) Los de servicio particular para personas con capacidades diferentes con la autorización correspondiente;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2009)</small>
+
+e) Los de servicio particular que transporten o que sean conducidos por personas con discapacidad que acrediten la autorización o cuenten con calcomanía o distintivo expedidos por la autoridad competente;
 
 f) Aquellos en que sea manifiesta o que se acredite una emergencia médica; y
 
@@ -208,9 +272,11 @@ g) Los demás que determinen las disposiciones jurídicas y administrativas apli
 
 El incumplimiento de lo dispuesto en este artículo, se sancionará con base en la siguiente tabla:
 
-Sanción con multa equivalente en días del salario
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-mínimo general vigente en el Distrito Federal
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 16 DE FEBRERO DE 2009)</small>
+
+Sanción con multa equivalente en días del salario mínimo general vigente en el Distrito Federal
 
 20 días y remisión del vehículo al depósito
 
@@ -278,21 +344,37 @@ vigente en el Distrito Federal
 
 I, II, III, IV, V y VI 10 días
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 10º.
 
-Los peatones deben:
+Los peatones y personas con discapacidad deben:
 
 I. Cruzar las vías por las esquinas o zonas marcadas para tal efecto, excepto en las calles locales o domiciliarias cuando sólo exista un carril para la circulación;
 
-II. Utilizar los puentes o pasos peatonales a desnivel para cruzar la vía pública dotada para ello;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+II. Utilizar los puentes, pasos peatonales a desnivel o rampas especiales para cruzar la vía pública dotada para ello;
 
 III. Tomar las precauciones necesarias en caso de no existir semáforo; y
 
 IV. Obedecer las indicaciones de los agentes, promotores voluntarios de seguridad vial y las señales de tránsito.
 
-Los peatones que no cumplan con las obligaciones de este Reglamento, serán amonestados verbalmente por los agentes y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-Las autoridades correspondientes tomarán las medidas que procedan para garantizar la integridad física y el tránsito seguro de los peatones por la banqueta. Asimismo, realizarán las acciones necesarias para garantizar que las banquetas se encuentren libres de obstáculos que impidan el tránsito peatonal y el desplazamiento de personas con capacidades diferentes.
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2009)</small>
+
+Los peatones y personas con discapacidad que no cumplan con las obligaciones de este Reglamento, serán amonestados verbalmente por los agentes y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2009)</small>
+
+Las autoridades correspondientes tomarán las medidas que procedan para garantizar la integridad física y el tránsito seguro de los peatones por la banqueta, en particular, de las personas con discapacidad. Asimismo, realizarán las acciones necesarias para garantizar que las banquetas y rampas especiales, se encuentren libres de obstáculos que impidan el tránsito peatonal y el desplazamiento de personas con discapacidad.
 
 ###### Artículo 11.
 
@@ -322,7 +404,11 @@ I. En las vías primarias;
 
 II. En zonas o vías públicas identificadas con la señalización respectiva;
 
-III. En las vías públicas en doble o más filas;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+III. En las vías públicas en doble o más filas y en batería, salvo que el señalamiento lo permita;
 
 IV. En lugares donde se obstruya la visibilidad de señales de tránsito;
 
@@ -330,11 +416,19 @@ V. En lugares destinados al estacionamiento momentáneo de vehículos de traslad
 
 VI. En los carriles exclusivos para transporte colectivo de pasajeros;
 
-VII. En zonas autorizadas para carga y descarga;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+VII. En zonas autorizadas para carga y descarga, cuando éste no sea su fin;
 
 VIII. En accesos y salidas, áreas de circulación y zonas de ascenso y descenso de pasaje en las terminales del transporte colectivo Metro;
 
-IX. Sobre las banquetas, camellones, andadores, retornos, isletas u otras vías y espacios reservados a peatones;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+IX. Sobre las banquetas, camellones, andadores, retornos, isletas u otras vías y espacios reservados a peatones y ciclistas;
 
 X. Frente a:
 
@@ -344,9 +438,17 @@ b) Hidrantes para uso de los bomberos;
 
 c) Entradas y salidas de ambulancias y vehículos de emergencia;
 
-d) Rampas especiales para personas con capacidades diferentes, ocupando u obstruyendo los espacios destinados al estacionamiento de sus vehículos; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-e) Rampas de entrada de vehículos, excepto cuando se trate de la del propio domicilio del conductor.
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2009)</small>
+
+d) Rampas especiales para personas con discapacidad;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2009)</small>
+
+e) Rampas de entrada de vehículos, salvo que se trate de las del domicilio del propio conductor, siempre y cuando no se obstruya el paso peatonal o el tránsito de personas con discapacidad;
 
 XI. Fuera de un cajón de estacionamiento, o invadiendo u obstruyendo otro;
 
@@ -356,11 +458,29 @@ XIII. En un tramo:
 
 a) Menor a 5 metros de la entrada de una estación de bomberos y de vehículos de emergencia; y en un espacio de 25 metros a cada lado del eje de entrada en la acera opuesta a ella.
 
-b) Menor a 10 metros de cualquier cruce ferroviario; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-XIV. En los demás lugares que la Secretaría y Seguridad Pública determinen.
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2009)</small>
+
+b) Menor a 10 metros de cualquier cruce ferroviario;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+XIV. En lugares o cajones destinados al estacionamiento de vehículos que transporten o sean conducidos por personas con discapacidad, identificados con la señalización respectiva; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+XV. En los demás lugares que la Secretaría y Seguridad Pública determinen.
 
 La infracción a las prohibiciones dispuestas en este artículo, se sancionará con base en la siguiente tabla:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
 
 Fracción Sanción con multa equivalente en
 
@@ -368,11 +488,15 @@ días del salario mínimo general
 
 vigente en el Distrito Federal
 
-I, II, III, IV, V, VI, VII, 5 días y remisión del vehículo
+I, II, III, IV, V, VI, VII, VIII, 5 días y remisión del
 
-VIII, IX, X, XI, XII, XIII al depósito
+IX, X incisos a), b), c) y e); vehículo al depósito
 
-y XIV
+XI, XII, XIII y XV
+
+X inciso d) y XIV 10 días y remisión del
+
+vehículo al depósito
 
 ###### Artículo 13.
 
@@ -396,7 +520,11 @@ En las vías públicas está prohibido:
 
 I. Efectuar reparaciones a vehículos, salvo en casos de emergencia;
 
-II. Colocar señalamientos o cualquier otro objeto que obstaculicen o afecten la vialidad;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+II. Colocar señalamientos o cualquier otro objeto que obstaculicen o afecten la vialidad, salvo que se trate de mecanismos o artefactos colocados momentáneamente para facilitar el ascenso o descenso de las personas con discapacidad o señalamientos de advertencia de accidentes o emergencias;
 
 III. Arrojar, depositar o abandonar objetos o residuos que puedan entorpecer la libre circulación o estacionamiento de vehículos;
 
@@ -409,6 +537,10 @@ VI. Organizar o participar en competencias vehiculares de alta velocidad o “ar
 VII. Cerrar u obstruir la circulación con vehículos, plumas, rejas o cualquier otro objeto.
 
 La infracción de las prohibiciones dispuestas en este artículo, se sancionará con base en la siguiente tabla:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 16 DE FEBRERO DE 2009)</small>
 
 Fracción Sanción con multa equivalente en
 
@@ -446,7 +578,11 @@ Los conductores deben cerciorarse de que su vehículo esté provisto de:
 
 I. Combustible suficiente para su buen funcionamiento;
 
-II. Faros delanteros, que emitan luz blanca, dotados de un mecanismo para cambio de intensidad;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+II. Faros delanteros, que cumplan con las Normas Oficiales Mexicanas, dotados de un mecanismo para cambio de intensidad;
 
 III. Luces:
 
@@ -462,11 +598,19 @@ e) Direccionales de destello intermitente, delanteras y traseras; y
 
 f) Que iluminen la placa posterior;
 
-IV. Cuartos delanteros, de luz amarilla y cuartos traseros, de luz roja;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+IV. Cuartos delanteros, de luz amarilla o blanca y cuartos traseros de luz roja;
 
 V. Llantas en condiciones que garanticen la seguridad;
 
-VI. Llanta de refacción y la herramienta adecuada para el cambio de la misma;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+VI. Extintor, señalamientos reflejantes, llanta de refacción y la herramienta adecuada para el cambio o reparación de la misma;
 
 VII. Al menos dos espejos retrovisores, interior y lateral del conductor;
 
@@ -481,6 +625,10 @@ XI. Dispositivo de Geolocalización o de Georeferenciación Satelital Radioeléc
 Cuando disminuya sensiblemente la visibilidad por cualquier factor natural, ambiental o debido a la infraestructura vial, se deben encender las luces, evitando deslumbrar a quienes transitan en sentido opuesto.
 
 El incumplimiento de las obligaciones dispuestas en este artículo, se sancionará con base en la siguiente tabla:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 16 DE FEBRERO DE 2009)</small>
 
 Fracción Sanción con multa equivalente en
 
@@ -498,7 +646,11 @@ IX, X y XI 5 días
 
 Los vehículos automotores sólo pueden circular con:
 
-I. Placas de matrícula o permiso provisional vigentes, o en su defecto, la copia certificada de la denuncia de la pérdida de las placas de matrícula ante el agente del Ministerio Público, mismos que deberán:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE FEBRERO DE 2009)</small>
+
+I. Placas de matrícula o permiso provisional vigentes, o en su defecto, la copia certificada de la denuncia de la pérdida de las placas de matrícula ante el agente del Ministerio Público o la constancia de hechos ante el Juez Cívico, la cual no deberá exceder del término de 10 días hábiles a partir de la fecha de su expedición; mismos que deberán:
 
 a) Estar colocadas en el lugar destinado por el fabricante del vehículo,
 
@@ -508,11 +660,21 @@ c) Coincidir con la calcomanía permanente de circulación, con la tarjeta de ci
 
 d) Tener la dimensión y características que especifique la Norma Oficial Mexicana respectiva.
 
-II. La calcomanía de circulación permanente; y
+II. La calcomanía de circulación permanente; y (sic)
 
-III. El holograma de verificación vehicular vigente.
+III. El holograma de verificación vehicular vigente;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+IV. En el caso de vehículos que transporten o sean conducidos por personas con discapacidad, contar con la autorización, calcomanía o distintivo expedido por la autoridad competente.
 
 El incumplimiento de las obligaciones señaladas en este artículo, se sancionarán con base en la siguiente tabla:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
 
 Fracción Sanción con multa equivalente en
 
@@ -520,7 +682,7 @@ días del salario mínimo general
 
 vigente en el Distrito Federal
 
-I, II y III 20 días y remisión del vehículo al depósito
+I, II, III y IV 20 días y remisión del vehículo al depósito
 
 ###### Artículo 18.
 
@@ -546,17 +708,33 @@ I. Cromáticas iguales o similares a las del transporte público de pasajeros ma
 
 II. Dispositivos similares a los utilizados por vehículos policiales o de emergencia;
 
-III. Faros deslumbrantes que pongan en riesgo la seguridad de conductores o peatones;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+III. Faros deslumbrantes que no cumplan con las Normas Oficiales Mexicanas y pongan en riesgo la seguridad de conductores o peatones;
 
 IV. Luces de neón alrededor de las placas de matrícula;
 
 V. Anuncios publicitarios no autorizados;
 
-VI. Televisor o pantalla de proyección de cualquier tipo de imágenes en la parte interior delantera del vehículo; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-VII. Vidrios polarizados, obscurecidos o aditamentos que obstruyan la visibilidad del conductor al interior del vehículo, salvo cuando éstos vengan instalados de fábrica, de acuerdo con las normas expedidas por la autoridad federal correspondiente, o cuando así se requiera por razones médicas, debidamente acreditadas ante la Secretaría y, cualquiera de estas circunstancias se indique en la tarjeta de circulación.
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+VI. Televisor o pantalla de proyección de imágenes de entretenimiento en la parte delantera del habitáculo del vehículo. Tratándose de dispositivos de apoyo a la conducción como mapas y navegadores GPS, cualquier manipulación o consulta deberá hacerse con el vehículo debidamente estacionado; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+VII. Películas de seguridad, control solar (polarizado) u oscurecimiento de vidrios en un porcentaje del 5% o 20% en parabrisas o vidrios de puertas delanteras, salvo que vengan instalados de fábrica, de acuerdo a las normas Oficiales Mexicanas correspondiente o cuando así se requiera por razones médicas, debidamente acreditadas ante la Secretaría, mismas que deberán constar en la tarjeta de circulación.
 
 La infracción a las prohibiciones dispuestas en este artículo, se sancionará con base en la siguiente tabla:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
 
 Fracción Sanción con multa equivalente en
 
@@ -566,13 +744,39 @@ vigente en el Distrito Federal
 
 III, IV, y V 5 días
 
-I y II 5 días y remisión del vehículo al depósito
-
 VI y VII 10 días
+
+I y II 10 días y remisión del vehículo
+
+al depósito
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 20.
 
-Sólo pueden circular por carriles exclusivos o de contraflujo los vehículos de transporte público de pasajeros que cuenten con la autorización respectiva, debiendo circular con las luces encendidas, también los destinados a la prestación de servicios de emergencia médica, los de protección civil que presten auxilio en caso de emergencia, siniestro o desastre, las motocicletas de apoyo vial, los vehículos de bomberos y los de la policía, cuando estén atendiendo alguna emergencia, en cuyo caso deben circular con las luces encendidas y la sirena abierta.
+Sin perjuicio de lo dispuesto en el Capítulo VII del presente Reglamento, en caso de emergencia, siniestro o desastre, los vehículos destinados a la prestación de servicios de emergencia médica, de protección civil, de rescate, motocicletas de apoyo vial, bomberos y de la policía pueden:
+
+I. Estacionarse o detenerse en lugar prohibido;
+
+II. Circular por carriles de contraflujo, confinados y exclusivos para el transporte público de pasajeros;
+
+III. Proseguir con la luz roja del semáforo o señal de alto, reduciendo la velocidad;
+
+IV. Exceder los límites de velocidad permitidos; y
+
+V. Desatender los señalamientos de tránsito.
+
+En todo momento deben circular con las luces encendidas y la sirena abierta. Los conductores de los vehículos deben conducir con la debida precaución para salvaguardar la integridad física de las personas y los bienes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, G.O. 16 DE FEBRERO DE 2009)</small>
+
+###### Artículo 20 Bis.
+
+Sólo pueden circular por carriles exclusivos para el transporte público de pasajeros, confinados o de contraflujo los vehículos de transporte público de pasajeros que cuenten con la autorización respectiva, debiendo circular con las luces encendidas.
 
 ###### Artículo 21.
 
@@ -584,11 +788,19 @@ Es responsabilidad del conductor del vehículo de transporte escolar tomar las d
 
 ### CAPÍTULO III. DE LA CIRCULACIÓN DEL TRANSPORTE PÚBLICO DE PASAJEROS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 22.
 
-Los conductores de vehículos de transporte público de pasajeros deben:
+Además de lo dispuesto en el Capítulo II del presente Reglamento, los conductores de vehículos de transporte público de pasajeros deben:
 
-I. Conducir con licencia - tarjetón, portar placas de matrícula o el permiso provisional vigentes;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+I. Conducir con licencia - tarjetón, la cual debe estar a la vista del pasajero; portar placas de matrícula o el permiso provisional vigentes, así como el engomado de la concesión;
 
 II. Circular por el carril de la extrema derecha;
 
@@ -598,11 +810,33 @@ IV. Realizar maniobras de ascenso o descenso de pasajeros, en el carril de la ex
 
 V. Permitir el ascenso o descenso de pasajeros sólo cuando el vehículo esté sin movimiento;
 
-VI. Circular con las luces interiores encendidas cuando obscurezca; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-VII. Hacer base o estacionar su vehículo en lugar autorizado.
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+VI. Circular con las luces blancas interiores encendidas cuando obscurezca;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+VII. Hacer base o estacionar su vehículo en lugar autorizado; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+VIII. Tratándose de bicicletas adaptadas además deberán:
+
+a) Portar el permiso expedido por autoridad correspondiente; y
+
+b) Circular en zonas o vialidades autorizadas por la Secretaría.
 
 El incumplimiento de las obligaciones dispuestas en este artículo, se sancionará con base en la siguiente tabla, sin perjuicio de lo dispuesto por la Ley de Transporte y Vialidad y el Reglamento de Transporte:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
 
 Fracción Sanción con multa equivalente en
 
@@ -613,6 +847,8 @@ vigente en el Distrito Federal
 II, III, V y VI 10 días
 
 IV 80 a 130 días
+
+VIII 40 a 60 días y remisión al depósito
 
 VII 80 a 130 días y remisión del vehículo al depósito
 
@@ -688,13 +924,21 @@ II 10 días
 
 I 50 días
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 25.
 
-Los conductores de vehículos de transporte de carga deben:
+Además de lo dispuesto en el Capítulo II del presente Reglamento, los conductores de vehículos de transporte de carga deben:
 
 I. Circular por el carril de la extrema derecha y usar el izquierdo sólo para rebasar o dar vuelta a la izquierda;
 
-II. Sujetarse a los horarios y a las vialidades establecidas mediante aviso de la Secretaría;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+II. Sujetarse a los días, horarios y a las vialidades establecidas mediante aviso de la Secretaría;
 
 III. Estacionar el vehículo o contenedor en el lugar de encierro correspondiente;
 
@@ -702,11 +946,35 @@ IV. Circular con placas de matrícula o con permiso provisional vigente;
 
 V. Conducir con licencia vigente;
 
-VI. Circular sin tirar objetos o derramar sustancias que obstruyan el tránsito o pongan en riesgo la integridad física de las personas; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-VII. Realizar maniobras de carga y descarga sin afectar o interrumpir el tránsito vehicular.
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+VI. Circular sin tirar objetos o derramar sustancias que obstruyan el tránsito o pongan en riesgo la integridad física de las personas;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+VII. Realizar maniobras de carga y descarga sin afectar o interrumpir el tránsito vehicular; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+VIII. Abalizar con elementos reflejantes el perímetro de la carga cuando ésta sobresalga de las dimensiones del vehículo y cuente con la autorización correspondiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, G.O. 16 DE FEBRERO DE 2009)</small>
+
+Los vehículos que transporten perecederos no serán remitidos al depósito, de acuerdo a lo dispuesto en el artículo 46 del presente Reglamento.
 
 El incumplimiento de las obligaciones dispuestas en este artículo, se sancionará con base en la siguiente tabla, sin perjuicio de lo dispuesto por la Ley de Transporte y Vialidad y el Reglamento de Transporte:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
 
 Fracción Sanción con multa equivalente en
 
@@ -716,7 +984,7 @@ vigente en el Distrito Federal
 
 I, II, IV 10 días
 
-VI 40 a 60 días y remisión del vehículo al depósito
+VI y VII 40 a 60 días y remisión del vehículo al depósito
 
 V 60 a 80 días y remisión del vehículo al depósito
 
@@ -752,11 +1020,29 @@ I. Llevar a bordo personas ajenas a su operación;
 
 II. Arrojar al piso o descargar en las vialidades, así como ventear innecesariamente cualquier tipo de sustancias tóxicas o peligrosas;
 
-III. Estacionar los vehículos en la vía pública o en la proximidad de fuente de riesgo, independientemente de la observancia de las condiciones y restricciones impuestas por las autoridades federales en materia ambiental y de transporte; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-IV. Realizar maniobras de carga y descarga en lugares inseguros y no destinados para tal fin.
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+III. Estacionar los vehículos en la vía pública o en la proximidad de fuente de riesgo, independientemente de la observancia de las condiciones y restricciones impuestas por las autoridades federales en materia ambiental y de transporte;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+IV. Realizar maniobras de carga y descarga en lugares inseguros y no destinados para tal fin; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+V. Circular por carriles centrales.
 
 La infracción a las prohibiciones dispuestas en este artículo, se sancionará con base en la siguiente tabla, sin perjuicio de lo dispuesto por la Ley de Transporte y Vialidad y el Reglamento de Transporte:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
 
 Fracción Sanción con multa equivalente en
 
@@ -766,19 +1052,29 @@ vigente en el Distrito Federal
 
 I 10 días
 
-IV 80 a 130 días y remisión del vehículo al depósito
+V 50 días
 
-II 400 a 600 días y remisión del vehículo al depósito
+IV 80 a 130 días
 
-III 500 a 600 días y remisión del vehículo al depósito
+II 400 a 600 días
+
+III 500 a 600 días
 
 ###### Artículo 28.
 
 Cuando por alguna circunstancia de emergencia se requiera estacionar el vehículo que transporte sustancias tóxicas o peligrosas en la vía pública u otra fuente de riesgo, el conductor deberá asegurarse de que la carga esté debidamente protegida y señalizada, a fin de evitar que personas ajenas a la transportación manipulen el equipo o la carga.
 
-Cuando lo anterior suceda en horario nocturno, el conductor deberá colocar triángulos de seguridad tanto en la parte delantera como trasera de la unidad, a una distancia que permita a otros conductores tomar las precauciones necesarias.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2009)</small>
+
+Cuando lo anterior suceda en horario nocturno, el conductor deberá colocar triángulos de seguridad o señalamientos de advertencia tanto en la parte delantera como trasera de la unidad, a una distancia que permita a otros conductores tomar las precauciones necesarias.
 
 El incumplimiento de la obligación dispuesta en este artículo, se sancionará con base en la siguiente tabla:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 16 DE FEBRERO DE 2009)</small>
 
 Sanción con multa equivalente en días del salario
 
@@ -798,7 +1094,11 @@ II. Circular en el sentido de la vía;
 
 III. Llevar a bordo sólo al número de personas para el que exista asiento disponible;
 
-IV. Usar casco. Los acompañantes también deberán portarlo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+IV. Usar casco de motociclista o ciclista, según sea el caso, que cumpla con las Normas Oficiales Mexicanas. Los acompañantes también deberán portarlo;
 
 V. Utilizar un sólo carril de circulación;
 
@@ -816,6 +1116,10 @@ Los ciclistas que no cumplan con las obligaciones de este Reglamento, serán amo
 
 El motociclista que incumpla lo dispuesto en este artículo, se sancionará con base en la siguiente tabla:
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 16 DE FEBRERO DE 2009)</small>
+
 Fracción Sanción con multa equivalente en
 
 días del salario mínimo general
@@ -830,7 +1134,11 @@ II y III 10 días
 
 Se prohíbe a los ciclistas y motociclistas:
 
-I. Circular por los carriles centrales o interiores de las vías primarias y en donde así lo indique el señalamiento de las vías de acceso controlado, salvo cuando mediante aviso publicado en la Gaceta Oficial, la Secretaría y Seguridad Pública determinen horarios y días permitidos en dichas vialidades;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+I. Circular por los carriles centrales o interiores de las vías primarias y en donde así lo indique el señalamiento de las vías de acceso controlado, salvo cuando mediante aviso publicado en la Gaceta Oficial, la Secretaría y Seguridad Pública determinen las condiciones, los horarios y días permitidos en dichas vialidades;
 
 II. Circular entre carriles;
 
@@ -850,6 +1158,10 @@ Los ciclistas que no cumplan con las obligaciones de este Reglamento, serán amo
 
 El motociclista que incumpla lo dispuesto en este artículo, se sancionará con base en la siguiente tabla:
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 16 DE FEBRERO DE 2009)</small>
+
 Fracción Sanción con multa equivalente en
 
 días del salario mínimo general
@@ -864,23 +1176,45 @@ I y III 20 días
 
 ### CAPÍTULO VI. DE LA CONDUCCIÓN DE VEHÍCULOS BAJO LOS EFECTOS DEL ALCOHOL Y NARCÓTICOS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 31.
 
-Ninguna persona puede conducir vehículos por la vía pública, si tiene una cantidad de alcohol en la sangre superior a 0.8 gramos por litro o de alcohol en aire expirado superior a 0.4 miligramos por litro o bajo el influjo de narcóticos.
+Queda prohibido conducir vehículos por la vía pública, cuando se tenga una cantidad de alcohol en la sangre superior a 0.8 gramos por litro o de alcohol en aire expirado superior a 0.4 miligramos por litro o bajo el influjo de narcóticos.
 
-Los operadores de vehículos destinados al servicio de transporte de pasajeros, de transporte de carga o de transporte de sustancias tóxicas o peligrosas, no deben presentar ninguna cantidad de alcohol en la sangre o en aire expirado, o síntomas simples de aliento alcohólico o de estar bajo los efectos de narcóticos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2009)</small>
+
+Los conductores de vehículos destinados al servicio de transporte de pasajeros, de transporte de carga o de transporte de sustancias tóxicas o peligrosas, no deben presentar ninguna cantidad de alcohol en la sangre o en aire expirado, o síntomas simples de aliento alcohólico o de estar bajo los efectos de narcóticos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, G.O. 16 DE FEBRERO DE 2009)</small>
+
+Los conductores deben someterse a las pruebas de detección de ingestión de alcohol o de narcóticos cuando lo solicite la autoridad competente.
 
 El incumplimiento de lo dispuesto en este artículo se sancionará con base en la siguiente tabla:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 16 DE FEBRERO DE 2009)</small>
 
 Sanción
 
 Arresto administrativo inconmutable de 20 a 36 horas
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 32.
 
-Todos los conductores de vehículos a quienes se les encuentre cometiendo actos que violen las disposiciones del presente Reglamento y muestren síntomas de que conducen en estado de ebriedad o bajo el influjo de narcóticos, están obligados a someterse a las pruebas para la detección del grado de intoxicación por el Médico del Juzgado Cívico ante el cual sean presentados o por personal autorizado para tal efecto.
+Los conductores de vehículos a quienes se les encuentre cometiendo actos que violen las disposiciones del presente Reglamento y/o muestren síntomas de que conducen en estado de ebriedad o bajo el influjo de narcóticos, están obligados a someterse a las pruebas necesarias con el Médico Legista ante el cual sean presentados o por personal autorizado para tal efecto. En caso de que se certifique que el conductor se encuentra en estado de ebriedad o de intoxicación de narcóticos, será aplicable la sanción del artículo anterior.
 
-Los agentes pueden detener la marcha de un vehículo cuando Seguridad Pública establezca y lleve a cabo programas de control y preventivos de ingestión de alcohol o de narcóticos, para conductores de vehículos. Estos programas deben ser publicados en la Gaceta Oficial del Distrito Federal.
+Sin perjuicio de lo dispuesto en el artículo 39 del presente Reglamento, los agentes pueden detener la marcha de un vehículo cuando Seguridad Pública establezca y lleve a cabo programas de control y preventivos de ingestión de alcohol o de narcóticos, para conductores de vehículos. Estos programas deben ser publicados en la Gaceta Oficial del Distrito Federal.
 
 ###### Artículo 33.
 
@@ -940,9 +1274,17 @@ Las sanciones en materia de tránsito, señaladas en este Reglamento y demás di
 
 I. Fundamento Jurídico:
 
-a) Artículos que prevén la infracción cometida de la Ley o el presente Reglamento; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-b) Artículos que establecen la sanción impuesta de la Ley o el presente Reglamento.
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2009)</small>
+
+a) Artículos de la Ley o del presente Reglamento que prevén la infracción cometida; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2009)</small>
+
+b) Artículos de la Ley o del presente Reglamento que establecen la sanción impuesta.
 
 II. Motivación:
 
@@ -986,7 +1328,11 @@ II. Centros autorizados para este fin; o
 
 III. Con el agente que impuso la infracción en caso de que cuente con tecnología que le permita emplear una terminal de cobro con impresora.
 
-El infractor tendrá un plazo de treinta días naturales contados a partir de la fecha de emisión de la boleta de sanción para realizar el pago, teniendo derecho a que se le descuente un 50% del monto de la misma, vencido dicho plazo sin que se realice el pago, deberá cubrir los demás créditos fiscales que establece el Código Financiero del Distrito Federal.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2009)</small>
+
+El infractor tendrá un plazo de treinta días naturales contados a partir de la fecha de emisión de la boleta de sanción para realizar el pago, teniendo derecho a que se le descuente un 50% del monto de la misma, con excepción de la sanción que establece el artículo 13 del presente Reglamento; vencido dicho plazo sin que se realice el pago, deberá cubrir los demás créditos fiscales que establece el Código Financiero del Distrito Federal.
 
 ###### Artículo 41.
 
@@ -1008,13 +1354,25 @@ Tratándose de menores de edad, el agente o el Ministerio Público que tenga con
 
 Las licencias de conducir se cancelarán al acumular doce puntos de penalización.
 
-La Secretaría realizará el cómputo de los puntos de penalización con base en copias de las boletas de sanción expedidas por Seguridad Pública.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2009)</small>
+
+La Secretaría realizará el cómputo de los puntos de penalización con base en las boletas de sanción expedidas por Seguridad Pública.
 
 Los puntos de penalización se acumularán de la siguiente manera:
 
-I. Seis puntos por infringir el presente Reglamento en sus artículos 5, fracción V, 6 fracciones I, II y VI, 14, fracción VI y 31;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-II. Tres puntos por infringirlo en sus artículos 5 fracción III y 6 fracción IX;
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+I. Seis puntos por infringir el presente Reglamento en sus artículos 5 fracción V, 6 fracciones I, II, VI y XV, 14 fracción VI, 31 y 32;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+
+II. Tres puntos por infringirlo en sus artículos 5 fracción III, 6 fracción IX y 12 fracción XIV; y
 
 III. Un punto por infringirlo en cualquier artículo distinto de los señalados en las dos fracciones anteriores.
 
@@ -1026,13 +1384,21 @@ Los puntos de penalización tendrán una vigencia de un año a partir de la fech
 
 La reexpedición de una licencia que se haya extinguido por penalización procederá sólo después de transcurridos tres años.
 
-Las personas cuya licencia haya sido cancelada, y conduzcan algún vehículo en el lapso a que se refiere el párrafo anterior, serán sancionadas con la remisión del vehículo al depósito y una multa de ciento ochenta días de salario mínimo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2009)</small>
+
+Las personas cuya licencia haya sido cancelada, y conduzcan algún vehículo en el lapso a que se refiere el párrafo anterior, serán sancionadas con la remisión del vehículo al depósito y una multa de noventa a ciento ochenta días de salario mínimo.
 
 ###### Artículo 45.
 
 En los casos en que proceda la remisión del vehículo al depósito, y previamente a que se haya iniciado el proceso de arrastre, los agentes deben sellarlo para garantizar la guarda y custodia de los objetos que en él se encuentren.
 
-Procederá la remisión del vehículo al depósito aún cuando esté el conductor a bordo. Si se encontrare persona ostensiblemente menor de 16 años, mayor de 65 años o con capacidades diferentes, el agente levantará la infracción que corresponda y esperará hasta que llegue el conductor o persona responsable para proceder en forma inmediata a la remisión del vehículo al depósito.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2009)</small>
+
+Procederá la remisión del vehículo al depósito aún cuando esté el conductor a bordo. Si se encontrare persona ostensiblemente menor de 16 años, mayor de 65 años o con discapacidad, el agente levantará la infracción que corresponda y esperará hasta que llegue el conductor o persona responsable para proceder en forma inmediata a la remisión del vehículo al depósito, salvo que se encuentre dentro de los supuestos previstos en el artículo 46 de este Reglamento.
 
 Si el conductor o la persona responsable se opusiere a la remisión del vehículo y/o se negare a salir de él, será puesto a disposición del Juez Cívico competente del lugar de los hechos, para la aplicación de la sanción correspondiente en términos de la Ley de Cultura Cívica para el Distrito Federal.
 
@@ -1042,9 +1408,15 @@ Seguridad Pública puede auxiliarse de terceros para la remisión de vehículos 
 
 Para la devolución del vehículo en los depósitos, será indispensable la comprobación de su propiedad o legal posesión, el pago previo de las multas adeudadas y derechos que procedan, exhibición de la licencia de conducir, una copia de la misma y portar las llaves del vehículo. Asimismo, se deberá comprobar la no existencia de créditos por concepto del Impuesto sobre Tenencia o Uso de Vehículos, federal o local, según corresponda y derechos por servicios de control vehicular, del ejercicio fiscal anterior al de la devolución del vehículo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 46.
 
-Los vehículos que transporten perecederos, sustancias tóxicas o peligrosas no podrán ser remitidos al depósito por violación a lo establecido en el presente Reglamento. En todo caso, el agente llenará la boleta de sanción correspondiente, permitiendo que el vehículo continúe su marcha.
+Los vehículos que transporten perecederos, sustancias tóxicas o peligrosas o que cuenten con la autorización, calcomanía o distintivo expedido por la autoridad competente para el traslado o conducción de personas con discapacidad, no podrán ser remitidos al depósito por violación a lo establecido en el presente Reglamento, excepto cuando el conductor muestre síntomas de estar en estado de ebriedad o bajo el influjo de narcóticos.
+
+En todo caso, el agente llenará la boleta de sanción correspondiente, permitiendo que el vehículo continúe su marcha.
 
 ### CAPÍTULO X. DE LOS MEDIOS DE IMPUGNACIÓN Y DEFENSA DE LOS PARTICULARES FRENTE A LOS ACTOS DE AUTORIDAD
 
@@ -1069,3 +1441,11 @@ TERCERO.- Lo dispuesto en la fracción XI del artículo 16 referente al Disposit
 CUARTO.- Los propietarios de vehículos particulares que porten placas de matrícula del Distrito Federal anteriores a las vigentes, deberán reemplazarlas en un plazo de 30 días hábiles contados a partir del inicio de vigencia del presente Reglamento.
 
 Dado en la Residencia Oficial del Jefe del Gobierno del Distrito Federal, en la Ciudad de México, el día diecinueve de junio de dos mil siete. EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, ADOLFO JOEL ORTEGA CUEVAS.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, RAÚL ARMANDO QUINTERO MARTÍNEZ.- FIRMA.- EL SECRETARIO DE FINANZAS, MARIO MARTÍN DELGADO CARRILLO.- FIRMA.- LA SECRETARIA DE MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 16 DE FEBRERO DE 2009.
+
+PRIMERO. - Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. - El presente decreto entrará en vigor diez días naturales después de su publicación en la Gaceta Oficial del Distrito Federal.
