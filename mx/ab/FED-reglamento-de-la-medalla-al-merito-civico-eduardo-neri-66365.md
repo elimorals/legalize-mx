@@ -1,0 +1,232 @@
+---
+title: "REGLAMENTO DE LA MEDALLA AL MERITO CIVICO \"EDUARDO NERI, LEGISLADORES DE 1913\""
+identifier: "FED-reglamento-de-la-medalla-al-merito-civico-eduardo-neri-66365"
+country: "mx"
+rank: "reglamento"
+publication_date: "2009-02-17"
+last_updated: "2009-02-17"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66365&Vig=1&TPub=6"
+department: "Diario Oficial de la Federación"
+scjn_id: "66365"
+scjn_status: "DEROGADO (A)"
+gazette: "Diario Oficial de la Federación"
+original_category: "REGLAMENTO"
+original_gazette_section: "11 PRIMERA SECCION"
+reform_count: "4"
+scjn_last_update: "2020-12-22"
+issue_date: "2009-02-12"
+---
+# REGLAMENTO DE LA MEDALLA AL MERITO CIVICO "EDUARDO NERI, LEGISLADORES DE 1913"
+
+REGLAMENTO DE LA MEDALLA AL MERITO CIVICO "EDUARDO NERI, LEGISLADORES DE 1913"
+
+TEXTO ORIGINAL.
+
+Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 17 de febrero de 2009.
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Cámara de Diputados del Congreso de la Unión.
+
+LA CÁMARA DE DIPUTADOS CON FUNDAMENTO EN LA FRACCIÓN I, DEL ARTÍCULO 77 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A :
+
+SE EXPIDE EL REGLAMENTO DE LA MEDALLA AL MÉRITO CÍVICO "EDUARDO NERI, LEGISLADORES DE 1913"
+
+###### Artículo 1.
+
+Este Reglamento tiene por objeto establecer los órganos, requisitos y procedimientos, para la entrega de la Medalla al Mérito Cívico "Eduardo Neri, Legisladores de 1913", de la Cámara de Diputados.
+
+###### Artículo 2.
+
+Para los efectos de este Reglamento se entenderá por:
+
+Comisión: Comisión de Régimen, Reglamentos y Prácticas Parlamentarias.
+
+Medalla: Medalla al Mérito Cívico "Eduardo Neri, Legisladores de 1913".
+
+Mesa Directiva: Mesa Directiva de la Cámara de Diputados.
+
+Presidente o Presidencia: Presidente o Presidencia de la Mesa Directiva de la Cámara de Diputados.
+
+Reglamento: Reglamento de la Medalla al Mérito Cívico “Eduardo Neri, Legisladores de 1913”.
+
+Secretario: Secretario de la Mesa Directiva de la Cámara de Diputados.
+
+###### Artículo 3.
+
+La Medalla, se otorgará al ciudadano o ciudadana cuyos actos cívicos o políticos se distingan por servir a la colectividad nacional y a la República.
+
+###### Artículo 4.
+
+La Medalla tiene un solo grado y se otorgará, de acuerdo con el Decreto de su creación, en sesión solemne de la Cámara, el día 9 de octubre del último año de ejercicio de cada legislatura. La Cámara podrá acordar que la sesión solemne para entregar la Medalla se celebre un día distinto, pero siempre deberá ser en el mes de octubre del año señalado en este artículo.
+
+###### Artículo 5.
+
+La Comisión, de acuerdo a la facultad que le otorga el artículo 40 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, será la que elabore el dictamen por el que la Cámara premiará al ciudadano o ciudadana mexicana que por sus méritos se haga acreedor a la Medalla.
+
+###### Artículo 6.
+
+La Comisión, en sus decisiones, se guiará por los más altos criterios para evaluar los actos o hechos éticos, políticos y de valor cívico, en cualquier ámbito, que tengan o hayan tenido repercusión nacional, de aquellos mexicanos y mexicanas que puedan ser distinguidos.
+
+###### Artículo 7.
+
+La Cámara deberá expedir la convocatoria respectiva, a través de su Mesa Directiva, en el segundo periodo ordinario de sesiones, del segundo año de ejercicio de cada legislatura.
+
+###### Artículo 8.
+
+La recepción de candidaturas estará comprendida, entre el último día hábil del segundo periodo ordinario de sesiones, del segundo año de ejercicio de la legislatura y el último día hábil del segundo año de ejercicio de la legislatura que corresponda.
+
+###### Artículo 9.
+
+La convocatoria estará dirigida a la Cámara de Senadores, a la Suprema Corte de Justicia de la Nación, a la Presidencia de la República y las secretarías de estado, a los gobiernos de las entidades federativas, a los organismos autónomos, a las universidades nacionales públicas y privadas, a las asociaciones civiles técnicas, científicas y culturales, y demás instituciones representativas de la sociedad, para que propongan candidatos con méritos suficientes para recibir la presea.
+
+###### Artículo 10.
+
+La convocatoria deberá contener los requisitos, las fechas y los datos que les permitan a los ciudadanos conocer con claridad el desarrollo del proceso.
+
+###### Artículo 11.
+
+La Mesa Directiva dispondrá lo necesario para que la convocatoria sea publicada en la Página de Internet de la Cámara, en la Gaceta Parlamentaria de la Cámara y, en al menos tres diarios de circulación nacional. Asimismo, procurará que se difunda de manera oportuna en el Canal del Congreso, y en los medios electrónicos de cobertura nacional.
+
+###### Artículo 12.
+
+Las propuestas deberán presentarse por escrito, a través de una carta dirigida a los Secretarios de la Mesa Directiva. La carta deberá estar firmada por el titular o los titulares de la institución o instituciones que propongan a un candidato y deberá contener lo siguiente:
+
+I. Datos generales de la institución promovente:
+
+a) Nombre;
+
+b) Domicilio para recibir y oír notificaciones;
+
+c) Teléfono, y
+
+d) Dirección de correo electrónico y página de Internet, en caso de contar con ellos.
+
+II. Datos generales del candidato:
+
+a) Nombre;
+
+b) Edad;
+
+c) Profesión o actividad que desempeña;
+
+d) Domicilio para recibir y oír notificaciones;
+
+e) Teléfono, y
+
+f) Dirección de correo electrónico y página de Internet, en caso de contar con ellos.
+
+III. Motivos por los que se promueve la candidatura.
+
+###### Artículo 13.
+
+Los documentos que deberán anexarse a la carta de propuesta son los siguientes:
+
+I. Acta de nacimiento original;
+
+II. Currículum vite;
+
+III. Copia de comprobante del último grado de estudios, y
+
+IV. Documentos o pruebas fehacientes que avalen los motivos de la candidatura.
+
+###### Artículo 14.
+
+Sólo podrán registrar candidatos las instituciones convocadas o las personas físicas, siempre y cuando, sean por lo menos tres las que propongan a algún ciudadano.
+
+###### Artículo 15.
+
+Serán aceptadas las propuestas que se envíen por correo certificado o mensajería, con acuse de recibo, siempre y cuando lleguen a las oficinas de la Mesa Directiva, antes de que concluya el plazo establecido en la convocatoria.
+
+###### Artículo 16.
+
+Las candidaturas que se envíen a la Comisión por mensajería, serán remitidas a la Mesa Directiva, con el fin de que cursen el proceso legal, y el acuse de recibo será enviado en forma simultánea a la institución proponente y al candidato, por los medios que disponga la Mesa Directiva.
+
+###### Artículo 17.
+
+El Presidente designará al Secretario que hará la revisión de los documentos y el registro correspondiente. El Secretario dará cuenta a la Presidencia de las propuestas aceptadas e inmediatamente las remitirá a la Comisión para su examen y dictamen correspondiente.
+
+###### Artículo 18.
+
+El Secretario tendrá cinco días hábiles, a partir de la fecha de recepción de la propuesta, para revisar si cumple los requisitos que establece el Reglamento.
+
+###### Artículo 19.
+
+Si el expediente no cumple los requisitos, el Secretario hará una advertencia al promotor para que subsane, corrija o complete el expediente, dentro de los cinco días hábiles posteriores a la recepción, apercibido de que en caso de no atender la notificación, el registro quedará sin efecto.
+
+###### Artículo 20.
+
+La advertencia a que se refiere el artículo anterior, se hará a través de medios escritos, por correo electrónico y por estrados, señalando el motivo de la advertencia. Si el Secretario no formula ninguna advertencia dentro de ese término, la inscripción y el registro quedarán firmes y el expediente pasará a la Comisión.
+
+###### Artículo 21.
+
+Si el expediente es subsanado, corregido o completado dentro de este término, la inscripción y el registro quedarán firmes y pasará a la Comisión; si no, la inscripción y el registro quedarán sin efecto.
+
+###### Artículo 22.
+
+Los expedientes cuya inscripción y registro hayan quedado sin efecto, en términos del artículo anterior, no podrán volver a presentarse para registro e inscripción durante esa legislatura.
+
+###### Artículo 23.
+
+El procedimiento señalado en los artículos 18, 19, 20 y 21 de este Reglamento se aplicará solamente a los expedientes que reciba el Secretario, cuando menos cinco días antes de que se venza el plazo de inscripción de candidaturas.
+
+###### Artículo 24.
+
+Los expedientes que reciba el Secretario, con menos de cinco días antes de que venza el plazo de inscripción de candidaturas, pasarán directamente a la etapa de examen de cumplimiento de requisitos sin derecho a que se subsane, corrija o complete.
+
+###### Artículo 25.
+
+El Secretario puede admitir como documentos y pruebas fehacientes que avalen los motivos de la candidatura, los expedidos por las autoridades de este país: fotografías, audio, video, notas periodísticas, archivos privados y, en general, todo aquel que documente tiempo, modo y lugar de las acciones del candidato propuesto.
+
+###### Artículo 26.
+
+Los documentos originales serán devueltos por la Comisión, al Secretario, y éste a su vez, al proponente o al candidato, dentro de los 30 días hábiles siguientes a la entrega de la Medalla, aún sin que medie solicitud, pero la Comisión guardará una copia que anexará a los informes correspondientes.
+
+###### Artículo 27.
+
+Los expedientes cuya inscripción y registro queden firmes pasarán a la etapa de resolución en la Comisión, donde los diputados que la integran elegirán mediante votación, en reunión plenaria, al candidato merecedor de la Medalla.
+
+###### Artículo 28.
+
+A los candidatos que pasen a la etapa de resolución y no resulten electos para recibir la Medalla se les reconocerá su participación en el proceso, a través de un documento por escrito. La Mesa Directiva podrá organizar un evento en el que se les entregue el reconocimiento y serán invitados a la sesión solemne en la que se otorgará la Medalla.
+
+###### Artículo 29.
+
+La Medalla que entregue la Cámara, se otorgará por acuerdo tomado en sesión pública, durante el primer periodo ordinario de sesiones, del tercer año de ejercicio de la legislatura, en atención al dictamen que presente la Comisión.
+
+###### Artículo 30.
+
+Cada legislatura, durante el mes de septiembre, del último año de ejercicio, la Mesa Directiva encargará a la Casa de Moneda de la Nación la elaboración de dos ejemplares de la Medalla que vaya a entregarse. Uno de los ejemplares será el que se entregue al homenajeado y el otro será para el acervo histórico de la Cámara.
+
+###### Artículo 31.
+
+El Decreto que acredita el otorgamiento de la Medalla estará autorizado con las firmas del Presidente y los Secretarios de la Cámara.
+
+###### Artículo 32.
+
+La Medalla, el Pergamino con el dictamen de la Comisión, un ejemplar original del Decreto de la Cámara y la suma de dinero respectivos, serán entregados en sesión solemne que celebre la Cámara de Diputados para tal efecto, en la fecha prevista en el artículo 4 de este Reglamento.
+
+I. En la sesión podrán hacer uso de la palabra un diputado miembro de la Comisión, la persona homenajeada y el Presidente de la Mesa Directiva.
+
+II. La Junta de Coordinación Política propondrá al Pleno un acuerdo que señale los tiempos y el orden en que intervendrán los oradores.
+
+III. La Mesa Directiva determinará el protocolo de la sesión.
+
+###### Artículo 33.
+
+El Decreto de la Cámara de Diputados por el que se otorga la Medalla será publicado en el Diario Oficial de la Federación, así como en, al menos tres diarios de circulación nacional. El Presidente dispondrá lo conducente, a efecto de cumplir con lo que señala el presente artículo.
+
+###### Artículo 34.
+
+La resolución que apruebe el Pleno de la Cámara será inatacable.
+
+## TRANSITORIOS
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El presente Reglamento abroga el Reglamento de la Medalla al Mérito Cívico "Eduardo Neri, Legisladores de 1913", de la H. Cámara de Diputados, publicado en el Diario Oficial de la Federación el 7 de mayo del 2002.
+
+Tercero.- El presente Reglamento abroga el Acuerdo de la Mesa Directiva de la Comisión de Régimen, Reglamentos y Prácticas Parlamentarias, que detalla el procedimiento de entrega de la Medalla al Mérito Cívico "Eduardo Neri, Legisladores de 1913", publicado en la Gaceta Parlamentaria de la Cámara de Diputados, el 4 de agosto de 2008.
+
+Cuarto.- El presente Reglamento no puede ser modificado, derogado o abrogado, en ningún caso, por acuerdos parlamentarios. Cuando surja un hecho o acto no previsto por este Reglamento, la Mesa Directiva podrá acordar lo conducente para dar certeza al proceso.
+
+SALON DE SESIONES DE LA CAMARA DE DIPUTADOS DEL HONORABLE CONGRESO DE LA UNION.- México, D.F., a 12 de febrero de 2009.- Dip. César Horacio Duarte Jáquez, Presidente.- Dip. Rosa Elia Romero Guzman, Secretaria.- Rúbricas.
