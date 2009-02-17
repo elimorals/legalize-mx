@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-heroico-cuerpo-de-bomberos-del-distrito-federal-12825"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-24"
-last_updated: "2008-10-31"
+last_updated: "2009-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12825&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-11-06"
 
 LEY DEL HEROICO CUERPO DE BOMBEROS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE FEBRERO DE 2009.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 24 de diciembre de 1998.
 
@@ -716,6 +716,12 @@ V. Los derechos, rendimientos, recuperaciones, intereses y demás ingresos que s
 
 VI. Los derechos que en su caso y en los términos del Código Financiero del Distrito Federal se establezcan por la emisión de los dictámenes a que se refiere el artículo 60 de esta Ley;
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 17 DE FEBRERO DE 2009)</small>
+
+VI Bis. Los derechos por la prestación de servicios de prevención de incendios o de atención de emergencias con motivo de eventos masivos con fines lucrativos, así como aquellos de asesoría y capacitación a la iniciativa privada, en los términos que establezca el Reglamento de la presente Ley;
+
 > <small>(REFORMADA, G.O. 10 DE ENERO DE 2005)</small>
 
 VII. Todas aquellas aportaciones que haga el Patronato, y;
@@ -1407,3 +1413,11 @@ SEGUNDO.- Las presentes modificaciones de ley entrarán en vigor 90 días despu�
 CUARTO.- A partir de la entrada en vigor de la presente ley, en la aprobación del presupuesto de egresos del 2009, se incluirá un apartida especial para el Heroico cuerpo de Bomberos del Distrito Federal, para la construcción de las Estaciones y subestaciones de Bomberos Forestales, así como para los recursos materiales, humanos y financieros que se requieren para el establecimiento de la policía ambiental.
 
 ...
+
+G.O. 17 DE FEBRERO DE 2009.
+
+PRIMERO. Publíquese en la Gaceta del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO. El presente decreto entrará en vigor a los 30 días siguientes de su publicación.
+
+TERCERO. El Reglamento de la Ley del Heroico Cuerpo de Bomberos del Distrito Federal, deberá actualizarse dentro de los 30 días siguientes a la publicación de las modificaciones a esta Ley.
