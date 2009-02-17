@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2009-01-26"
+last_updated: "2009-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE FEBRERO DE 2009.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -1444,11 +1444,13 @@ La Administración Pública del Distrito Federal contará con órganos político
 
 Los titulares de los Organos Político-Administrativo de cada demarcación territorial serán elegidos en forma universal, libre, secreta y directa en los términos establecidos en la legislación aplicable y se auxiliarán para el despacho de los asuntos de su competencia de los Directores Generales, Directores de Area, Subdirectores y Jefes de Unidad Departamental, que establezca el Reglamento Interior.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE AGOSTO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 39.
 
-Corresponde a los titulares de los Órganos Políticos Administrativos de cada demarcación territorial:
+Corresponde a los titulares de los órganos Político-Administrativos de cada demarcación territorial:
 
 I. Legalizar las firmas de sus subalternos, y certificar y expedir copias y constancias de los documentos que obren en los archivos de la Delegación;
 
@@ -1460,7 +1462,11 @@ IV. Expedir, en coordinación con el Registro de los Planes y Programas de Desar
 
 V. Otorgar autorizaciones para la instalación de anuncios en vía pública y en construcciones y edificaciones en los términos de las disposiciones jurídicas aplicables;
 
-VI. Otorgar permisos para el uso de la vía pública, sin que se afecte la naturaleza y destino de la misma en los términos de las disposiciones jurídicas aplicables;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2009)</small>
+
+VI. Otorgar permisos para el uso de la vía pública, sin que se afecte la naturaleza y destino de la misma en los términos de las disposiciones jurídicas aplicables; excepto en las disposiciones contenidas en las Leyes de Filmaciones y de Fomento al Cine Mexicano, ambas para el Distrito Federal;
 
 VII. Autorizar los horarios para el acceso a las diversiones y espectáculos públicos, vigilar su desarrollo y, en general, el cumplimiento de disposiciones jurídicas aplicables;
 
@@ -2119,3 +2125,21 @@ La Delegación, por conducto de la Ventanilla Única, cotejara la copia certific
 El uso del suelo que se deberá acreditar es el correspondiente al giro mercantil principal, de conformidad con la Ley de Desarrollo Urbano del Distrito Federal y sus disposiciones reglamentarias.
 
 .
+
+G.O. 17 DE FEBRERO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el 1 de abril de 2009. Para su mayor difusión, publíquese en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+La Asamblea Legislativa del Distrito Federal, la Secretaría de Finanzas y la Oficialía Mayor, en su respectivo ámbito de competencias, dotarán a la Comisión del personal técnico y administrativos (sic), así como de los recursos necesarios para cumplir con sus atribuciones.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Se otorga al Jefe de Gobierno del Distrito Federal un plazo de 60 días naturales a partir de la publicación del presente decreto a efecto de que emita el Reglamento, los lineamientos y los formatos correspondientes que permitan la operatividad de la presente Ley.
