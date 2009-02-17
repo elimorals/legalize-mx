@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-medalla-al-merito-civico-eduardo-neri-24623"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-07"
-last_updated: "2002-05-07"
+last_updated: "2009-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24623&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2002-04-29"
 
 REGLAMENTO DE LA MEDALLA AL MERITO CIVICO "EDUARDO NERI, LEGISLADORES DE 1913"
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA MEDALLA AL MERITO CIVICO "EDUARDO NERI, LEGISLADORES DE 1913", PUBLICADO EN EL D.O.F. DE 17 DE FEBRERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 7 de mayo de 2002.
 
@@ -108,3 +110,15 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- La convocatoria y registro de postulaciones correspondientes a la LVIII Legislatura se realizarán a partir del día 1o. de junio de 2002.
 
 SALON DE SESIONES DE LA CAMARA DE DIPUTADOS DEL HONORABLE CONGRESO DE LA UNION.- México, D.F., a 29 de abril de 2002.- Diputada Presidenta, Beatriz Elena Paredes Rangel.- Rúbrica.- Diputado Secretario, Rodolfo Dorador Pérez Gavilán.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 17 DE FEBRERO DE 2009.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El presente Reglamento abroga el Reglamento de la Medalla al Mérito Cívico "Eduardo Neri, Legisladores de 1913", de la H. Cámara de Diputados, publicado en el Diario Oficial de la Federación el 7 de mayo del 2002.
+
+Tercero.- El presente Reglamento abroga el Acuerdo de la Mesa Directiva de la Comisión de Régimen, Reglamentos y Prácticas Parlamentarias, que detalla el procedimiento de entrega de la Medalla al Mérito Cívico "Eduardo Neri, Legisladores de 1913", publicado en la Gaceta Parlamentaria de la Cámara de Diputados, el 4 de agosto de 2008.
+
+Cuarto.- El presente Reglamento no puede ser modificado, derogado o abrogado, en ningún caso, por acuerdos parlamentarios. Cuando surja un hecho o acto no previsto por este Reglamento, la Mesa Directiva podrá acordar lo conducente para dar certeza al proceso.
