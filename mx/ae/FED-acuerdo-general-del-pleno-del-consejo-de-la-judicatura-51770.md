@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2008-07-15"
+last_updated: "2009-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE FEBRERO DE 2009
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -148,6 +148,12 @@ El ingreso y promoción a las categorías de Juez de Distrito y Magistrado de Ci
 ###### Artículo 12.
 
 La Comisión, con el auxilio del Instituto y de los órganos que el Pleno determine, llevará a cabo los concursos de oposición a que se refiere el artículo 112 de la Ley, conforme a las bases que para tal efecto se emitan, en las que se señalen los elementos del perfil que deba reunir cada uno de los cargos concursados.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE FEBRERO DE 2009)</small>
+
+###### Artículo 12 Bis.
+
+Todas las evaluaciones que se generen con motivo de los concursos de oposición para la designación de jueces de Distrito y magistrados de Circuito, se resguardarán por el Instituto.
 
 ###### Artículo 13.
 
@@ -280,6 +286,12 @@ Los dictámenes que emita el Pleno respecto de adscripción o readscripción, co
 ###### Artículo 24.
 
 Los dictámenes que sobre adscripción o readscripción apruebe el Pleno, deberán notificarse a todos los interesados, para los efectos del Título Séptimo, Capítulo III, de la Ley.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE FEBRERO DE 2009)</small>
+
+###### Artículo 24 Bis.
+
+Los dictámenes que sobre adscripción o readscripción apruebe el Pleno, serán resguardados en la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos y deberán remitirse en copia certificada a la Dirección General de Recursos Humanos, acorde a lo dispuesto en los Acuerdos Generales 28/2000 y 59/2004 del Pleno del Consejo de la Judicatura Federal.
 
 ###### Artículo 25.
 
@@ -527,9 +539,11 @@ El Director General de Recursos Humanos levantará, con seis meses de antelació
 
 El Magistrado de Circuito o Juez de Distrito podrá hacer del conocimiento de cualquiera de dichos Secretarios Ejecutivos, el vencimiento del plazo, con la oportunidad mencionada.
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 47.
 
-El Secretario Ejecutivo dará cuenta con la certificación a que se refiere el artículo anterior al Presidente, quien emitirá un acuerdo en el que se decretará la procedencia o improcedencia del procedimiento de ratificación.
+El Secretario Ejecutivo dará cuenta con la certificación a que se refiere el artículo anterior, al Presidente, quien emitirá un acuerdo en el que se decretará la procedencia o improcedencia del procedimiento de ratificación.
 
 De estimarse improcedente el inicio del procedimiento de ratificación, el Presidente ordenará la devolución del expediente a Recursos Humanos.
 
@@ -545,9 +559,13 @@ IV. Requerirá al Contralor del Poder Judicial de la Federación para que remita
 
 V. Ordenará recabar la información estadística sobre la actividad del funcionario a ratificar;
 
-VI. Solicitará a la Secretaría Ejecutiva de Disciplina los resultados de las visitas de inspección, de los informes circunstanciados y de los procedimientos administrativos disciplinarios formulados en contra del servidor público; y
+VI. Solicitará a la Secretaría Ejecutiva de Disciplina los resultados de las visitas de inspección, de los informes circunstanciados y de los procedimientos administrativos disciplinarios formulados en contra del servidor público; y (sic)
 
-VII. Turnará el expediente a un Consejero a fin de que elabore el dictamen correspondiente para someterlo al Pleno.
+VII. Turnará el expediente a un Consejero a fin de que elabore el dictamen correspondiente para someterlo al Pleno;
+
+> <small>(ADICIONADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE FEBRERO DE 2009)</small>
+
+VIII. El original del dictamen que al efecto se elabore, así como los documentos a que hacen referencia las fracciones II y III de este artículo, deberán enviarse al expediente personal del servidor público que obra en Recursos Humanos.
 
 ###### Artículo 48.
 
@@ -655,6 +673,10 @@ Los exámenes de aptitud serán aplicados por el Instituto, de conformidad con l
 
 Los exámenes de aptitud para secretario se practicarán, previa convocatoria, a las personas que propongan los titulares o que demuestren haber acreditado el Curso para Actuario y que reúnan los requisitos previstos en los artículos 51 y 52 de este Acuerdo.
 
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE FEBRERO DE 2009)</small>
+
+La documentación que se genere al respecto, quedará en resguardo del Instituto.
+
 ###### Artículo 61.
 
 Los exámenes de aptitud para actuario se practicarán, previa convocatoria, a las personas que reúnan los requisitos previstos en el artículo 50 de este Acuerdo.
@@ -670,6 +692,10 @@ En el caso de que una persona reprobara el examen tres veces, no podrá presenta
 ###### Artículo 63.
 
 El acreditamiento de la Especialidad y del Curso para Secretarios, recibidos en la modalidad presencial, se homologan a la aprobación del examen de aptitud para secretario.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE FEBRERO DE 2009)</small>
+
+La documentación que se genere al respecto, quedará en resguardo del Instituto.
 
 ### Capítulo II. De las Licencias a Magistrados de Circuito y Jueces de Distrito Para que Asistan a Eventos Académicos Nacionales o Extranjeros
 
@@ -1466,5 +1492,13 @@ D.O.F. 15 DE JULIO DE 2008.
 PRIMERO.- El presente acuerdo entrará en vigor el veinticinco de junio del año en curso.
 
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar, de inmediato, el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Carrera Judicial y las Condiciones de los Funcionarios Judiciales.
+
+D.O.F. 17 DE FEBRERO DE 2009.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar, de inmediato, el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Carrera Judicial y las Condiciones de los Funcionarios Judiciales.
