@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-unidad-de-acceso-a-la-informacion-publica-5771
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-13"
-last_updated: "2007-11-13"
+last_updated: "2009-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE DOLORES HIDALGO, CUNA DE LA INDEPENDENCIA NACIONAL, GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 2009.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 13 de noviembre de 2007.
 
@@ -39,9 +39,13 @@ REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PUBLICA PARA EL MUNICIPIO DE
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 1.
 
-El presente reglamento tiene por objeto regular la estructura y el funcionamiento de la Unidad de Acceso a la Información Pública del Municipio de Dolores Hidalgo, Cuna de la Independencia Nacional, Guanajuato.
+El presente reglamento tiene por objeto regular la estructura y el funcionamiento de la Unidad de Acceso a la Información Pública del Municipio de Dolores Hidalgo, Cuna de la Independencia Nacional, Guanajuato; así como garantizar el acceso a toda persona a la información pública que se generen en el seno del Ayuntamiento, de sus Dependencias, Entidades o cualquier otro organismo municipal.
+
+En la interpretación de este reglamento se deberá favorecer el principio de máxima publicidad.
 
 ###### ARTICULO 2.
 
@@ -55,7 +59,13 @@ III.- INSTITUTO.- El Instituto de Acceso a la Información Pública del Estado d
 
 IV.- UNIDAD DE ACCESO.- Unidad de Acceso a la Información Pública para el Municipio de Dolores Hidalgo Cuna de la Independencia Nacional, Guanajuato.
 
-V.- DEPENDENCIA O UNIDAD DE ENLACE.- Áreas de Administración Pública Municipal.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2009)</small>
+
+V.- UNIDADES ADMINISTRATIVAS.- A las Dependencias, Entidades y cualquier otro organismo de la Administración Publica del Municipio de Dolores Hidalgo Cuna de la Independencia Nacional, Guanajuato.
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2009)</small>
+
+VI.- MÁXIMA PUBLICIDAD.- Principio que orienta la forma de interpretar y aplicar la norma para que en caso de duda razonable, se opte por la publicidad de la información.
 
 ###### ARTICULO 3.
 
@@ -125,7 +135,9 @@ DE LAS OBLIGACIONES DE LA UNIDAD DE ACCESO.
 
 La Unidad de Acceso, tendrá las obligaciones:
 
-I.- Difundir la información publica;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2009)</small>
+
+I.- Difundir y actualizar en el botón transparencia de la pagina web del Municipio, la información pública señalada en el artículo 10 de la Ley; incluyendo: las sesiones del Ayuntamiento que no sean de materia secretas de conformidad con el artículo 59 de la Ley Orgánica Municipal para el Estado de Guanajuato; así como los bandos de policía y buen gobierno, reglamentos, circulares y disposiciones administrativas de observancia general que apruebe el Ayuntamiento;
 
 II.- Recibir y despachar las solicitudes de acceso a la información publica;
 
@@ -223,13 +235,17 @@ En cada área de la dependencia se acondicionará el espacio adecuado para el de
 
 DEL PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN PUBLICA.
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 16.
 
-La solicitud de acceso a la información deberá formularse mediante formato que para el efecto proporcionará la Unidad de Acceso, derivado del manual que se labore.
+Cualquier persona, sin necesidad de acreditar interés alguno o justificar su utilización, podrá solicitar ante la Unidad de Acceso la información pública por correo electrónico.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 17.
 
-El formato deberá contener cuando menos:
+La solicitud de información pública que no se haga por medio (sic) correo electrónico, deberá formularse mediante el formato que proporcione la Unidad de Acceso, el cual deberá contener, cuando menos:
 
 I.- Número de folio;
 
@@ -259,19 +275,27 @@ La información publicada en el portal de Internet de cada sujeto obligado, podr
 
 Una vez recibida la solicitud respectiva en la Unidad de Acceso, ésta procederá al análisis de la misma, y en su caso:
 
-I.- Si del análisis de la solicitud se determina que los datos proporcionados en la misma no son suficientes para localizar los documentos o son erróneos, procederá en los términos señalados en el articulo 39 de la Ley, dentro de los dos días hábiles siguientes al de recepción de la solicitud.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2009)</small>
 
-El término de veinte días hábiles establecidos en el artículo 42 de la Ley, para proporcionar la información, se interrumpe, hasta en tanto el solicitante satisfaga el requerimiento de aclaración.
+I.- Si los datos proporcionados por el solicitante no bastaren para localizar los documentos o aquellos son erróneos, la Unidad de Acceso deberá requerir al solicitante, por una vez y dentro de los diez días siguientes a la presentación de la solicitud, para que indique los elementos necesarios o corrija los datos. En caso de que no de cumplimiento al requerimiento, se desechará la solicitud.
 
-En caso de modificación sustancial de la solicitud de acceso presentada como respuesta al requerimiento comenzará a correr un nuevo plazo de veinte días hábiles.
+Este requerimiento interrumpirá el plazo establecido en el artículo 42 de la Ley.
 
 II.- Cuando la solicitud de información contenga los datos necesarios para darte trámite, se requerirá al titular de la dependencia que corresponda dentro de los tres días hábiles siguientes al en que se haya recibido la solicitud, la información respectiva.
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 21.
 
-El titular de la dependencia procederá a revisar la petición de la Unidad de Acceso a efecto de determinar si se cuenta con la información; en su caso, deberá remitirla a la Unidad de Acceso dentro de los diez días hábiles siguientes, a fin de que se clasifique y si ésta es pública, reservada o confidencial y le de el trámite correspondiente.
+El titular dé la Unidad Administrativa procederá a revisar la petición de la Unidad de Acceso a efecto de determinar si cuenta con la información requerida; en su caso, deberá remitirla a la Unidad de Acceso dentro de cinco días hábiles siguientes, a fin de que se clasifique y se le dé el trámite correspondiente.
 
-Si no existe respuesta de la dependencia, el titular de la Unidad de Acceso la requerirá a fin de que dé contestación a la petición en el plazo de dos días hábiles.
+Si no existe la contestación de la Unidad Administrativa, el titular de la Unidad de Acceso ampliará el plazo hasta diez días más para dar respuesta a la solicitud, y requerirá nuevamente a la Unidad Administrativa a fin de que ésta responda a la petición en el plazo de tres días hábiles.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2009)</small>
+
+###### ARTICULO 21 Bis.
+
+La falta de respuesta a un requerimiento de la Unidad de Acceso en el plazo previsto en este Reglamento, dará lugar a responsabilidad administrativa del servidor público que negare la información, en los términos de la legislación aplicable.
 
 ###### ARTICULO 22.
 
@@ -289,9 +313,11 @@ En el supuesto que en la información solicitada se detecte que existen datos pe
 
 Si el titular de los datos personales dentro del término de cinco días hábiles no dá contestación al requerimiento se entenderá que no desea que se conozca tal información.
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 25.
 
-Cuando la información solicitada contenga datos clasificados como reservados o confidenciales, se eliminarán las partes o secciones que contengan dichos datos, siempre y cuando se puedan eliminar del documento sin alterarlo en su totalidad, señalando las partes o secciones que fueron eliminadas.
+Cuando la información solicitada contenga datos clasificados tanto públicos como reservados o confidenciales, la Unidad de Acceso deberá proporcionar la de carácter público, eliminando las partes o secciones clasificadas como reservadas o confidenciales. En tal caso, deberá señalar las partes o secciones que fueron eliminadas.
 
 ### CAPITULO VI.
 
@@ -412,3 +438,11 @@ Presidente Municipal.
 Lic. Arturo Barajas Olvera.
 
 Secretario del Ayuntamiento.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 17 DE FEBRERO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente acuerdo entrará en vigor, al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno de Estado de Guanajuato.
