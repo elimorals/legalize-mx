@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2008-12-10"
+last_updated: "2009-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2009.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -75,15 +75,19 @@ Principio del bien jurídico y de la antijuridicidad material
 
 Para que la acción o la omisión sean consideradas delictivas, se requiere que lesionen o pongan en peligro, sin causa justa, al bien jurídico tutelado por la ley penal.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 5.
 
-Principio de culpabilidad
+Principio de culpabilidad y proporcionalidad.
 
-No podrá aplicarse pena alguna, si la acción o la omisión no han sido realizadas culpablemente. La medida de la pena estará en relación directa con el grado de culpabilidad del sujeto respecto del hecho cometido, así como de la gravedad de éste.
+No podrá aplicarse pena alguna, si la acción o la omisión no han sido realizadas culpablemente.
 
 Igualmente se requerirá la demostración de la culpabilidad del sujeto para la aplicación de una medida de seguridad a imputables, si ésta se impone accesoriamente a la pena, y su duración estará en relación directa con el grado de aquélla.
 
-Para la imposición de medidas de seguridad para inimputables será necesaria la existencia, al menos, de un hecho típico y antijurídico, siempre que de acuerdo con las condiciones personales del autor, hubiera necesidad de su aplicación en atención a los fines de prevención del delito que con aquéllas pudieran alcanzarse.
+Para la imposición de medidas de seguridad para inimputables, será necesaria la existencia, al menos, de un hecho típico y antijurídico, siempre que de acuerdo con las condiciones personales del autor, hubiera necesidad de su aplicación en atención a los fines de prevención del delito que con aquéllas pudieran alcanzarse.
+
+Toda pena y medida de seguridad deberán ser proporcionales al delito que sancione, al grado de culpabilidad del sujeto y al bien jurídico afectado.
 
 ###### Artículo 6.
 
@@ -805,7 +809,9 @@ Cuando la ley establece una pena se entiende que la impone a los autores o part�
 
 Criterios de individualización
 
-La autoridad judicial, al dictar sentencia condenatoria, determinará la pena y medida de seguridad establecida para cada delito y las individualizará dentro de los límites señalados, con base en la gravedad del ilícito y el grado de culpabilidad del agente, tomando en cuenta:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE FEBRERO DE 2009)</small>
+
+La autoridad judicial, al dictar sentencia condenatoria, determinará la pena y medida de seguridad establecida para cada delito y las individualizará dentro de los límites señalados, en proporción a la gravedad del ilícito, al grado de culpabilidad del agente, y al bien jurídico afectado, tomando en cuenta:
 
 I. La naturaleza de la acción u omisión y los medios empleados para ejecutarla;
 
@@ -3494,3 +3500,9 @@ P.O. 10 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE FEBRERO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
