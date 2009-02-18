@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-en-materia-de-transparencia-y-acceso-a-la-56030"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-04-11"
-last_updated: "2009-01-14"
+last_updated: "2009-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL INSTITUTO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 11 de abril de 2007.
 
@@ -74,8 +74,6 @@ Por lo anteriormente expuesto y de conformidad a los artículos 19, de la Consti
 Acuerdo
 
 Primero.- Se aprueba en todos sus términos el "Reglamento en Materia de Transparencia y Acceso a la Información Pública del Instituto Estatal Electoral de Chiapas", que a la letra dice:
-
-> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO POR EL QUE SE REFORMAN, MODIFICAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL PRESENTE ORDENAMIENTO, CON EXCEPCIÓN DE LOS ARTÍCULOS 5°, 6° Y 9°, DA COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL; DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. DE 14 DE ENERO DE 2009.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE FEBRERO DE 2008)</small>
 
@@ -703,7 +701,7 @@ VI.- Elaborar las propuestas de clasificación de la información pública que p
 
 El Comité es el órgano normativo interno, con carácter permanente, encargado de instrumentar las acciones necesarias para cumplir con la Ley, los criterios y lineamientos que emita el Instituto de Acceso a la Información Pública de la Administración Pública Estatal y el presente reglamento.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 42.
 
@@ -713,17 +711,17 @@ I.- El Presidente del Instituto, quien será su Presidente;
 
 II.- El titular de la Secretaría Ejecutiva, quien será vocal;
 
-III.- El Consejero Electoral, Presidente de la Comisión Especial de Reglamentos del Consejo General del Instituto de Elecciones y Participación Ciudadana, quien será vocal;
+III.- El Consejero Electoral, que para tal efecto designe el Consejo General, quien será vocal;
 
 IV.- El titular de la Unidad de Asuntos Jurídicos, quién será vocal;
 
-V.- El titular de la Controlaría, quien será vocal; y,
+V.- El titular de la Controlaría, quien será vocal; y
 
 VI.- El titular de la Unidad de Acceso fungirá como Secretario Técnico del Comité y únicamente tendrá voz.
 
 El Consejero Presidente del Instituto podrá designar a quién lo sustituya como Presidente del Comité, y este podrá nombrar un suplente, sin perjuicio de que el Consejero Presidente del Instituto pueda actuar por si mismo.
 
-El Presidente del Comité, deberá convocar a sesiones en tiempo y forma remitiendo. La documentación respectiva a los demás integrantes para su participación en las mismas, con una anticipación de veinticuatro horas, indicando fecha, hora y lugar en que se llevará a cabo. En su ausencia lo hará el Secretario Técnico del Comité.
+El Presidente del Comité, deberá convocar a sesiones en tiempo y forma remitiendo la documentación respectiva a los demás integrantes para su participación en las mismas, con una anticipación de veinticuatro horas, indicando fecha, hora y lugar en que se llevará a cabo. En su ausencia lo hará el Secretario Técnico del Comité.
 
 > <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
@@ -1412,3 +1410,15 @@ Segundo.- El presente acuerdo entrará en vigor a partir de la fecha de su aprob
 Tercero.- En términos de lo dispuesto por los artículos 391 y 395 del Código de Elecciones y Participación Ciudadana, notifíquese el contenido del presente acuerdo a los representantes de los partidos políticos acreditados ante el Consejo General de éste organismo electoral.
 
 Cuarto.- Publíquese en el Periódico Oficial del Estado.
+
+P.O. 18 DE FEBRERO DE 2009.
+
+SE TRANSCRIBEN LOS PUNTO DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE REGLAMENTO.
+
+SEGUNDO.- La presente modificación entrará en vigor a partir de su aprobación por el Consejo General.
+
+TERCERO.- El Consejo General del Instituto de Elecciones y Participación Ciudadana de Chiapas, será el órgano facultado para realizar las reformas, adiciones y derogaciones al presente Reglamento, cuando así lo considere pertinente.
+
+CUARTO.-Aprobado el presente acuerdo, el Consejo General deberá designar al Consejero Electoral que deberá fungir como Vocal del Comité de Transparencia y Acceso a la Información Pública de este organismo electoral.
+
+QUINTO.- El Secretario Ejecutivo del Instituto proveerá lo necesario para que el presente acuerdo se publique en el Periódico Oficial de Gobierno del Estado, se circule y se le dé amplia difusión para los efectos correspondientes.
