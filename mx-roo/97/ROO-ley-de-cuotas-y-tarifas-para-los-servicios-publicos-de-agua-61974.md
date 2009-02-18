@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-cuotas-y-tarifas-para-los-servicios-publicos-de-agua-619
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-02"
-last_updated: "2008-07-02"
+last_updated: "2009-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61974&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE CUOTAS Y TARIFAS PARA LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO, TRATAMIENTO Y DISPOSICION DE AGUAS RESIDUALES DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2009.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 2 de julio de 2008.
 
@@ -119,9 +119,13 @@ XXXV. Uso en servicios generales a la comunidad: el empleo que se hace del agua 
 
 XXXVI. Usuario: las personas físicas o morales que reciban los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, según corresponda;
 
-XXXVII. Vivienda de interés social o popular: Es aquella vivienda con una construcción mayor a 40 M2, destinada a sectores de la población de menores recursos; y
+XXXVII. Vivienda de interés social o popular: Es aquella vivienda con una construcción mayor a 40 M2, destinada a sectores de la población de menores recursos; y (sic)
 
-XXXVIII. Vivienda progresiva: Es la vivienda que tiene como máximo una construcción de 40 M2 y es destinada a personas con ingresos menores o igual a dos salarios mínimos vigentes en la zona.
+XXXVIII. Vivienda progresiva: Es la vivienda que tiene como máximo una construcción de 40 M2 y es destinada a personas con ingresos menores o igual a dos salarios mínimos vigentes en la zona;
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2009)</small>
+
+XXXIX. Subsidio: El beneficio que recibirá el usuario doméstico de los servicios públicos de agua potable y alcantarillado, respecto de la diferencia entre el precio real conforme al costo de producción del servicio y el precio real que se cobre al usuario.
 
 Aquellos términos no definidos tendrán el significado atribuido en la Ley de Agua Potable y Alcantarillado del Estado de Quintana Roo.
 
@@ -212,6 +216,10 @@ Los usuarios de los servicios de agua potable, alcantarillado y tratamiento de a
 Las tarifas y cuotas en todo caso, deberán ser suficientes para cubrir los costos derivados de la operación, el mantenimiento y la administración de los servicios; la rehabilitación, conservación y el mejoramiento de la infraestructura existente; las inversiones necesarias para la expansión de la infraestructura; la amortización de las inversiones realizadas, y los gastos financieros de los pasivos.
 
 En orden a lo anterior, las cuotas y tarifas podrán incrementarse en términos reales o reestructurarse mediante estudios técnicos y financieros que realice la Comisión, que lo justifique, los cuales deberá presentar a la Legislatura del Estado, para que, en su caso, apruebe lo conducente.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2009)</small>
+
+Para el caso de los usuarios del servicio doméstico de agua potable y alcantarillado, se faculta al Consejo Directivo de la Comisión para aplicar subsidio a la tarifa que por dicho servicio deban pagar los usuarios, sin afectar los costos a que se refiere el párrafo primero del presente artículo.
 
 ###### Artículo 10.
 
@@ -678,3 +686,11 @@ LIC. FÉLlX ARTURO GONZÁLEZ CANTO
 LA SECRETARIA DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 ROSARIO ORTÍZ YELADAQUI
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE FEBRERO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones de igual o de menor jerarquía que se opongan a las previstas en el presente Decreto.
