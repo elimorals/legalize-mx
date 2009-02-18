@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-ministerio-publico-del-estado-de-chihuahua-514
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-08-09"
-last_updated: "2007-10-13"
+last_updated: "2009-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 9 de agosto de 2006.
 
@@ -339,6 +339,12 @@ V. En los lugares donde sólo haya un Agente del Ministerio Público, su ausenci
 
 Los funcionarios y empleados de la Procuraduría General de Justicia serán estimulados por el eficiente desempeño de su trabajo, en los términos del Reglamento que establezca las Bases para la Organización, Funcionamiento y Desarrollo del Servicio Civil y Profesional de Carrera en la Procuración de Justicia del Estado.
 
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2009)</small>
+
+###### Artículo 26 Bis.
+
+El personal al servicio de la Procuraduría gozará de los beneficios de seguridad social que establezcan las leyes.
+
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 27.
@@ -407,6 +413,12 @@ La interposición del recurso de inconformidad a que alude el artículo 29, inte
 
 La amonestación verbal o escrita podrá imponerla el superior jerárquico del infractor. Cuando la falta sea leve, se haya cometido por primera vez y se trate de hechos que no tengan relevancia penal, administrativamente o civil, el superior podrá abstenerse de sancionarlo.
 
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2009)</small>
+
+###### Artículo 32 Bis.
+
+Los agentes del Ministerio Público, los peritos y los agentes ministeriales de la Agencia Estatal de Investigación, podrán ser separados de sus cargos si no cumplen con los requisitos que las leyes vigentes, en el momento del acto, señalen para permanecer en dichas instituciones, o removidos por incurrir en responsabilidad en el desempeño de sus funciones. Si la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, el Estado sólo estará obligado a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
+
 > <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2007)</small>
 
 ### CAPÍTULO VII. De la incompatibilidad y excusas
@@ -474,6 +486,12 @@ LIC. FERNANDO RODRIGUEZ MORENO.
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 13 DE OCTUBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE FEBRERO DE 2009.
 
 ###### ARTÍCULO ÚNICO.
 
