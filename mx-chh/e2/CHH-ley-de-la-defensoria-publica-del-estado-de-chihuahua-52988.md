@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-la-defensoria-publica-del-estado-de-chihuahua-52988"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-09"
-last_updated: "2006-12-09"
+last_updated: "2009-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2009.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 9 de diciembre de 2006.
 
@@ -187,9 +187,11 @@ V.- Los demás que señale el Reglamento de la Carrera Profesional.
 
 Corresponde al Director el nombramiento de los Defensores Públicos y del personal auxiliar atendiendo a las plazas autorizadas en el presupuesto y conforme a los procedimientos de la Carrera Profesional.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 13.
 
-La Carrera Profesional de la Defensoría Pública del Estado garantizará la igualdad de oportunidades laborales, así como la estabilidad, permanencia, remuneración adecuada, capacitación y garantías de seguridad social para el servidor público integrante de la Defensoría Pública del Estado, en los términos que el Reglamento establezca.
+La Carrera Profesional de la Defensoría Pública del Estado garantizará la igualdad de oportunidades laborales, así como la estabilidad, permanencia, remuneración adecuada, capacitación y garantías de seguridad social para el servidor público integrante de la Defensoría Pública del Estado, en los términos que el Reglamento establezca. Las percepciones de los defensores públicos no podrán ser inferiores a las que correspondan a los agentes del Ministerio Público que les sean equivalentes.
 
 ###### Artículo 14.
 
@@ -314,3 +316,11 @@ LIC. JOSE REYES BAEZA TERRAZAS.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO RODRIGUEZ MORENO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE FEBRERO DE 2009.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
