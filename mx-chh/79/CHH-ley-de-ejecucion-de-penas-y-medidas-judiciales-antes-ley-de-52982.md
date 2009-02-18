@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ejecucion-de-penas-y-medidas-judiciales-antes-ley-de-529
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-09"
-last_updated: "2007-10-13"
+last_updated: "2009-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2009.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 9 de diciembre de 2006.
 
@@ -1393,6 +1393,8 @@ Estos derechos quedan a salvo, aun cuando la autoridad judicial no tome las medi
 
 ### CAPÍTULO I. DE LA PREVENCIÓN
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
+
 #### SECCIÓN PRIMERA. VIGILANCIA DE LA AUTORIDAD
 
 ###### Artículo 123.
@@ -1441,7 +1443,7 @@ Durante la ejecución de la medida, se informará periódicamente al Juez de Eje
 
 Bases del proceso de reinserción.
 
-La Dirección organizará los establecimientos penitenciarios e instituciones del Sistema, vigilando que el proceso de reinserción de los internos esté basado en el trabajo, la capacitación para el mismo y la educación.
+La Dirección organizará los establecimientos penitenciarios e instituciones del Sistema, vigilando que el proceso de reinserción de los internos esté basado en el trabajo, la capacitación para el mismo, la educación, la salud y el deporte.
 
 ###### Artículo 128.
 
@@ -1910,5 +1912,11 @@ LIC. FERNANDO RODRÍGUEZ MORENO.
 P.O. 13 DE OCTUBRE DE 2007.
 
 ###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE FEBRERO DE 2009.
+
+###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
