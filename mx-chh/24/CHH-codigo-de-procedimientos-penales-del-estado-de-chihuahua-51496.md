@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-penales-del-estado-de-chihuahua-51496"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-08-09"
-last_updated: "2008-07-30"
+last_updated: "2009-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA
 
-CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA
+CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 276/08 II P.O. SE EXPIDE LA DECLARATORIA DE INCORPORACIÓN DEL NUEVO SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. 30 DE JULIO DE 2008, LA CUAL ENTRARÁ EN VIGOR A PARTIR DE LAS CERO HORAS: 1.- EN EL DISTRITO JUDICIAL MORELOS, DEL 1o. DE ENERO DE 2007; 2.- EN EL DISTRITO JUDICIAL BRAVOS, DEL 1o. DE ENERO DE 2008; 3.- EN EL RESTO DE LOS DISTRITOS JUDICIALES DEL ESTADO, DEL 1o. DE JULIO DE 2008.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2009.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado Chihuahua, el miércoles 9 de agosto de 2006.
 
@@ -113,7 +113,9 @@ Cuando el imputado esté privado de su libertad, el encargado de custodiarlo com
 
 Defensa técnica.
 
-Desde la práctica de cualquier actuación policial, ministerial o judicial, que señale a una persona como posible autor o participe de un hecho punible, y hasta el fin de la ejecución de la sentencia que imponga una pena o medida de seguridad, el imputado tendrá derecho a ser asistido y defendido por un perito en derecho, autorizado en los términos de la ley de Profesiones del Estado de Chihuahua, con independencia, en su caso, de que se haya nombrado a una persona de confianza.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
+
+Toda persona, desde el momento de su detención o comparecencia y a partir de la realización de cualquier diligencia ante el Ministerio Público o autoridad judicial, con el carácter de posible autor o partícipe de un hecho punible, y hasta el fin de la ejecución de la sentencia que imponga una pena o medida de seguridad, tendrá derecho a una defensa adecuada por licenciado en derecho con cédula profesional debidamente registrada.
 
 Para tales efectos, podrá elegir a un defensor particular debidamente autorizado; de no hacerlo, se le asignará un defensor público.
 
@@ -1111,7 +1113,9 @@ La excusa o la recusación serán resueltas por el Procurador General de Justici
 
 Función de los cuerpos de seguridad pública.
 
-Los integrantes de los cuerpos de seguridad pública, distintos a la policía ministerial, recabarán la información necesaria de los hechos delictuosos de que tengan noticia, dando inmediato aviso al Ministerio Público; impedirán que los hechos se lleven a consecuencias ulteriores; detendrán en flagrancia a quien realice un hecho que pueda constituir un delito; identificarán y aprehenderán, por mandamiento judicial o ministerial, a los imputados.
+REFORMADO, P.O. 18 DE FEBRERO DE 2009)
+
+Los integrantes de los cuerpos de seguridad pública, distintos a la policía ministerial, recabarán la información necesaria de los hechos delictuosos de que tengan noticia, dando inmediato aviso al Ministerio Público; impedirán que los hechos se lleven a consecuencias ulteriores; detendrán en flagrancia a quien realice un hecho que pueda constituir un delito y asentarán en el registro de detenciones el aseguramiento de personas; identificarán y aprehenderán, por mandamiento judicial o ministerial, a los imputados.
 
 En los casos de violencia familiar y delitos contra la libertad y seguridad sexuales deberán aplicar los protocolos o disposiciones especiales que emita la Secretaría de Seguridad Pública para el adecuado resguardo de los derechos de las víctimas.
 
@@ -1127,7 +1131,9 @@ Facultades y obligaciones de la policía ministerial.
 
 La policía ministerial tendrá las siguientes facultades y obligaciones:
 
-I. Recibir noticias de los hechos presuntamente constitutivos del delito y recopilar información sobre los mismos. En estos casos, la policía deberá informar al Ministerio Público inmediatamente;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2009)</small>
+
+I. Recibir noticias de los hechos presuntamente constitutivos del delito y recopilar información sobre los mismos, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos. En estos casos, la policía deberá informar al Ministerio Público inmediatamente;
 
 II. Confirmar la información que reciba, cuando ésta provenga de una fuente no identificada, y hacerla constar en un registro destinado a tales fines, en el que se asentarán el día, la hora, el medio y los datos del servidor público interviniente;
 
@@ -1247,9 +1253,15 @@ IX. Solicitar la reapertura de la investigación cuando se haya decretado el arc
 
 X. Apelar del sobreseimiento;
 
-XI. No ser objeto de información por los medios de comunicación o presentado ante la comunidad sin su consentimiento; y
+XI. No ser objeto de información por los medios de comunicación o presentado ante la comunidad sin su consentimiento; y (sic)
 
-XII. Los demás que en su favor establezcan las leyes la víctima u ofendido será informado sobre sus derechos, en su primera intervención en el procedimiento.
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2009)</small>
+
+XII. Solicitar de manera directa, la reparación del daño en los casos que sea procedente;
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2009)</small>
+
+XIII. Las demás que establezcan las leyes.
 
 La víctima u ofendido será informado sobre sus derechos, en su primera intervención en el procedimiento.
 
@@ -1277,19 +1289,25 @@ Derechos del imputado.
 
 Además de los previstos en la Constitución General de la República, los Tratados Internacionales ratificados por el Estado Mexicano y otras leyes secundarias que de aquéllas emanen, el imputado tendrá los siguientes derechos:
 
-I. Conocer desde el inicio la causa o el motivo de su privación de libertad y el servidor público que la ordenó, exhibiéndosele, según corresponda, la orden emitida en su contra;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2009)</small>
+
+I. Conocer desde el inicio, la causa o el motivo de su privación de libertad y el servidor público que la ordenó;
 
 II. Conocer su derecho a no declarar, y de ser advertido de que todo lo que en su caso diga, podrá ser usado en su contra;
 
 III. Tener una comunicación inmediata y efectiva con la persona, asociación, agrupación o entidad a la que desee comunicar su captura;
 
-IV. Ser asistido, desde el primer acto del procedimiento, por el defensor que designe él, sus parientes o la agrupación a la que se comunicó su captura y, en defecto de ésta, por un defensor público, así como a reunirse con su defensor en estricta confidencialidad;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2009)</small>
+
+IV. Ser asistido, desde el momento de su detención o comparecencia y a partir de la realización de cualquier diligencia ante el Ministerio Público o autoridad judicial, por el defensor que designe él, sus parientes o la agrupación a la que se comunicó su captura y, en defecto de ésta, por un defensor público, así como a reunirse con su defensor en estricta confidencialidad;
 
 V. Ser asistido gratuitamente por un traductor o intérprete, si no comprende o no habla el idioma castellano;
 
 VI. Ser presentado al Ministerio Público o al Juez de Garantía, inmediatamente después de ser detenido, para ser informado y enterarse de los hechos que se le imputan;
 
-VII. Tomar la decisión de declarar con asistencia de su defensor, y a entrevistarse previamente con él, y a que su defensor esté presente en el momento de rendir su declaración, y en otras diligencias en las cuales se requiera su presencia;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2009)</small>
+
+VII. Tomar la decisión de declarar; en caso positivo, lo hará con asistencia de su defensor; a entrevistarse previamente con él, y a que el mismo se encuentre presente en otras diligencias en las cuales se requiera su presencia;
 
 VIII. No ser sometido a técnicas ni métodos que induzcan o alteren su libre voluntad o atenten contra su dignidad;
 
@@ -1391,7 +1409,9 @@ Si el imputado ha sido aprehendido, se le deberá recibir la declaración inmedi
 
 El imputado tendrá derecho a no declarar o a declarar cuantas veces quiera, siempre que su declaración sea pertinente y no constituya una medida dilatoria del proceso.
 
-En todos los casos, la declaración del imputado sólo tendrá validez si es prestada voluntariamente ante el Ministerio Público o un Juez y asistido por su defensor.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
+
+En todos los casos, la declaración del imputado sólo tendrá validez si es prestada voluntariamente ante el Ministerio Público o un Juez y asistido por su defensor. La confesión rendida sin la asistencia de defensor carecerá de todo valor probatorio.
 
 En caso de que el imputado manifieste su derecho a declarar ante el Ministerio Público, éste la hará saber detalladamente cuál es el hecho que se le atribuye, con todas las circunstancias de tiempo, lugar y modo de comisión, en la medida conocidas, incluyendo aquéllas que fueran de importancia para su calificación jurídica, las disposiciones legales que resultaren aplicables, y los antecedentes que arroje la investigación en su contra.
 
@@ -1445,11 +1465,13 @@ El imputado tendrá el derecho de elegir un defensor de su preferencia o a una p
 
 La intervención del defensor no menoscabará el derecho del imputado a formular solicitudes y observaciones por sí mismo.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 140.
 
 Habilitación profesional.
 
-Sólo podrán ser defensores los peritos en derecho autorizados por las leyes respectivas para ejercer la profesión.
+Sólo podrán ser defensores los licenciados en derecho con cédula profesional debidamente registrada para ejercer la profesión.
 
 ###### Artículo 141.
 
@@ -1635,27 +1657,33 @@ El imputado contra quien se hubiere emitido la orden de aprehensión, podrá ocu
 
 Detención por orden judicial.
 
-Cuando exista denuncia o querella, se encuentre acreditado el cuerpo del delito y la probable responsabilidad del imputado, se trate de delitos que tuviesen necesariamente pena privativa de la libertad, y la comparecencia del imputado pudiera verse demorada o dificultada, el Juez, a solicitud del Ministerio Público, podrá ordenar la aprehensión del imputado para ser conducido a su presencia, sin previa citación, a fin de formularle la imputación.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
+
+Cuando exista denuncia o querella, de un hecho que la ley señale como delito, sancionado con pena privativa de libertad y obren datos que establezcan que se ha cometido ese hecho y que exista la probabilidad de que el imputado lo cometió o participó en su comisión, y la comparecencia del mismo pudiera verse demorada o dificultada, el Juez, a solicitud del Ministerio Público, podrá ordenar la aprehensión del imputado para ser conducido a su presencia, sin previa citación, a fin de formularle la imputación.
 
 También se decretará la aprehensión de imputado cuya presencia en una audiencia judicial fuere condición de ésta y que, legalmente citado, no compareciere sin causa justificada, siempre y cuando se reúnan los requisitos previstos en el párrafo anterior, salvo el último de los ahí mencionados.
 
-Los agentes policiales que ejecuten una orden judicial de aprehensión, conducirán inmediatamente al detenido ante la presencia del Juez que hubiere expedido la orden, debiendo entregar al imputado copia de la misma. Una vez que el aprehendido por orden judicial sea puesto a disposición del Juez de Garantía, éste convocará de inmediato a una audiencia para que le sea formulada la imputación.
+> <small>(REFORMADO, P.O.18 DE FEBRERO DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2007)</small>
+Los agentes policiales que ejecuten una orden judicial de aprehensión informarán al imputado las razones de su detención y lo conducirán sin dilación alguna ante el Juez de Garantía, quien convocará de inmediato a la audiencia de formulación de imputación.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 162.
 
 Solicitud de aprehensión del imputado.
 
-El representante del Ministerio Público, al solicitar, por escrito o por comparecencia, el libramiento de orden de aprehensión del imputado, formulará una relación precisa de los hechos que le atribuya, sustentada en los registros correspondientes, los que presentará ante la autoridad judicial, ante quien expondrá las razones que pudieran justificar su pretensión.
+El representante del Ministerio Público, al solicitar el libramiento de orden de aprehensión del imputado, por cualquier medio que garantice su autenticidad, expondrá ante la autoridad judicial las razones que sustenten su pretensión, en términos del primer párrafo del artículo 161 de este Código.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 163.
 
 Resolución sobre solicitud de orden de aprehensión.
 
-El Juez, dentro de las veinticuatro horas de recibida la solicitud de orden de aprehensión, resolverá en audiencia privada con el Ministerio Público sobre la misma, debiendo pronunciarse sobre cada uno de los elementos planteados en la solicitud, pudiendo el Juez dar una clasificación jurídica distinta a los hechos que en ella se plantean, o a la participación que tuvo el imputado en los mismos.
+El Juez, dentro de las veinticuatro horas de recibida la solicitud de orden de aprehensión, resolverá por escrito sobre la misma. De estimarlo necesario, lo hará en audiencia privada con el Ministerio Público, debiendo pronunciarse sobre cada uno de los elementos planteados en la solicitud. El Juez podrá dar una clasificación jurídica distinta a los hechos que en ella se plantean, o a la participación que tuvo el imputado en los mismos.
 
-En caso de que la solicitud de orden de aprehensión no reúna alguno de los requisitos previstos en el Artículo que antecede, el Juez, de oficio, prevendrá en esta audiencia al Ministerio Público para que los precise o aclare. No procederá la prevención cuando el Juez considere que los hechos que cita el Ministerio Público en su solicitud resultan atípicos.
+En caso de que la solicitud de orden de aprehensión no reúna alguno de los requisitos previstos en el Artículo que antecede, el Juez, de oficio, prevendrá al Ministerio Público para que los precise o aclare. No procederá la prevención cuando el Juez considere que los hechos que cita el Ministerio Público en su solicitud resultan atípicos.
 
 ###### Artículo 164.
 
@@ -1671,19 +1699,15 @@ El Ministerio Público podrá dejar sin efecto la detención u ordenar que el de
 
 En todos los casos, el Ministerio Público debe examinar inmediatamente después de que la persona es traída a su presencia, las condiciones en las que se realizó la detención. Si ésta no fue conforme a las disposiciones de la ley, dispondrá la libertad inmediata de la persona y, en su caso, velará por la aplicación de las sanciones disciplinarias o penales que correspondan.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 165.
 
 Supuestos de flagrancia.
 
-Se encuentra en situación de flagrancia respecto a un hecho delictivo:
+Se encuentra en situación de flagrancia respecto a un hecho delictivo, quien fuere sorprendido al cometerlo o fuere detenido inmediatamente después de la comisión del mismo, tomando en cuenta para ello el tiempo en que ocurrieron los hechos, el lugar y las circunstancias del caso; si existe persecución, aun en los casos de ocultamiento.
 
-I. Quien fuere sorprendido al cometerlo o momentos después de perpetrarlo.
-
-II. Quien fuere detenido dentro de las cuarenta y ocho horas siguientes al hecho, si fue identificado, por alguien que lo hubiere presenciado, como quien huyó después de intervenir materialmente en la perpetración.
-
-III. Quien, dentro de las cuarenta y ocho horas siguientes a la realización del delito, fuere detenido con objetos procedentes del mismo, o con instrumentos que se hubieran empleado en la comisión o con señales en su persona que lo involucran en su ejecución.
+Para el efecto del presente artículo, la comisión del hecho delictivo se entenderá en relación con las formas de consumación del delito en los términos de los artículos 17 y 19 del Código Penal del Estado.
 
 ###### Artículo 166.
 
@@ -1705,7 +1729,9 @@ Detención en caso urgente.
 
 De actualizarse los supuestos previstos en el artículo anterior, el Ministerio Público podrá ordenar por escrito la detención del imputado, debiendo expresar en dicha orden los antecedentes de la investigación y los indicios que motivan su proceder.
 
-Los agentes de policía que ejecuten una orden de detención por caso urgente, deberán presentar inmediatamente al imputado ante el Ministerio Público que haya emitido dicha orden. El Ministerio Público deberá dejar sin efecto la detención cuando no pretenda solicitar prisión preventiva, sin perjuicio de que pueda fijarle una caución a fin de garantizar su comparecencia ante el Juez. En caso contrario, ordenará que el detenido sea conducido ante el Juez dentro del plazo a que se refiere el párrafo séptimo del artículo 16 de la Constitución Federal, contado desde que la detención se hubiere practicado.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
+
+Los agentes de policía que ejecuten una orden de detención por caso urgente, deberán presentar inmediatamente al imputado ante el Ministerio Público que haya emitido dicha orden. El Ministerio Público deberá dejar sin efecto la detención cuando no pretenda solicitar prisión preventiva, sin perjuicio de que pueda fijarle una caución a fin de garantizar su comparecencia ante el Juez. En caso contrario, ordenará que el detenido sea conducido ante el Juez dentro del plazo a que se refiere el párrafo noveno del artículo 16 de la Constitución Federal, contado desde que la detención se hubiere practicado.
 
 ###### Artículo 168.
 
@@ -1821,17 +1847,15 @@ I. Destruirá, modificará, ocultará o falsificará elementos de prueba; o
 
 II. Si es razonable entender que tratará de influir en lo que declararán algunos de los órganos de prueba.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 173.
 
 Prisión preventiva.
 
-Además de las circunstancias generales exigibles para la imposición de las medidas cautelares personales, la prisión preventiva sólo es aplicable cuando no pueda evitarse razonablemente la sustracción a la acción de la justicia del imputado, la obstaculización de la investigación o del proceso, el riesgo para la víctima y ofendido o que incurra en una conducta delictiva similar a la que se le atribuye, mediante la imposición de una o varias de aquellas que resulten menos gravosas para el imputado.
+Además de las circunstancias generales exigibles para la imposición de las medidas cautelares personales, la prisión preventiva sólo es aplicable cuando no pueda evitarse razonablemente la sustracción a la acción de la justicia del imputado, la obstaculización de la investigación o del proceso, el riesgo para la victima u ofendido, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso, o que incurra en una conducta delictiva similar a la que se le atribuye, mediante la imposición de una o varias de aquellas que resulten menos gravosas para el imputado.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
-
-En todos los casos, se considerará que hay necesidad de imponer la presente medida cautelar, por la importancia del daño a resarcir y la magnitud de las penas o medidas de seguridad que pudieran corresponder al imputado, en los términos de las fracciones II y IV, inciso A) del Artículo 172 del referido Código Procesal, cuando se trate de los siguientes delitos: homicidio simple y calificado, secuestro, desaparición forzada de personas, tortura, violación, trata de personas, robo previsto en la fracción II del Artículo 212 y el robo de vehículos a que se refieren la fracción IX del Artículo 211 y la fracción III del Artículo 212, todos del Código Penal del Estado de Chihuahua; por lo que habrá lugar a la prisión preventiva del imputado por el peligro de sustracción a la acción de la justicia.
+El Ministerio Público solicitará invariablemente prisión preventiva y el Juez de Garantía no podrá dejar de imponerla en los casos de homicidio doloso; violación; secuestro; delitos cometidos con medios violentos como armas y explosivos; así como en los siguientes delitos que atentan contra el libre desarrollo de la personalidad: delitos contra la formación de las personas menores de edad y protección integral de personas que no tienen la capacidad para comprender el significado del hecho, en el supuesto de los artículos 181, segundo párrafo y 184; pornografía con personas menores de edad o que no tienen la capacidad para comprender el significado del hecho; y trata de personas, en el supuesto previsto en el artículo 198, tercer párrafo, todos del Código Penal del Estado de Chihuahua.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2007)</small>
 
@@ -2047,6 +2071,10 @@ Definición.
 
 Se entiende por acuerdo reparatorio el pacto entre la víctima u ofendido y el imputado que lleva como resultado la solución del conflicto a través de cualquier mecanismo idóneo que tiene el efecto de concluir el procedimiento.
 
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2009)</small>
+
+El pacto no podrá generar obligaciones para personas que no hayan otorgado su consentimiento en el acuerdo y versará sobre bienes respecto de los que tengan disposición legal los intervinientes.
+
 ###### Artículo 197.
 
 Procedencia.
@@ -2081,13 +2109,15 @@ El juzgador no aprobará los acuerdos reparatorios cuando tenga fundados motivos
 
 Efectos.
 
-El Juez aprobará los acuerdos, los cuales se registrarán de un modo fidedigno.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
+
+El Juez aprobará los acuerdos, los cuales se registrarán de un modo fidedigno. Las partes informarán en caso de notorio incumplimiento al Juez.
 
 El plazo fijado para el cumplimiento de las obligaciones pactadas suspenderá el trámite del proceso y la prescripción de la acción penal.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
-Si el imputado incumple sin justa causa las obligaciones pactadas dentro del término que fijen las partes o, en caso de no establecerlo, dentro de seis meses contados a partir del día siguiente de la ratificación del acuerdo, el proceso continuará como si no se hubiera arribado a acuerdo alguno.
+Si el imputado incumple sin justa causa las obligaciones pactadas durante el término que fijen las partes o, en caso de no establecerlo, dentro de seis meses contado a partir del día siguiente de la ratificación del acuerdo, el proceso continuará como si no se hubiera arribado a acuerdo alguno.
 
 El cumplimiento de lo acordado impedirá el ejercicio de la acción penal o, en su caso, extinguirá la ya iniciada.
 
@@ -2313,7 +2343,9 @@ Cuando el Ministerio Público tenga conocimiento de la existencia de un hecho qu
 
 En los casos en los que exista la posibilidad de aplicar una solución alterna, el Ministerio Público deberá canalizar el asunto al Centro de Justicia Alternativa.
 
-El denunciante, querellante, o el imputado, podrán acudir en queja ante los superiores del Ministerio Público que determine la Ley Orgánica por su inactividad injustificada durante la investigación, o cuando omita tomar una determinación respecto de la misma, a pesar de que cuenta con los antecedentes necesarios para ello.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
+
+El denunciante, querellante, o el imputado, podrán acudir en queja ante Juez de Garantía por inactividad injustificada del Ministerio Público durante la investigación, o cuando éste omita tomar una determinación respecto de la misma, a pesar de que cuenta con los antecedentes necesarios para ello.
 
 ###### Artículo 224.
 
@@ -2323,9 +2355,9 @@ En tanto no se formule la imputación, el Ministerio Público podrá archivar te
 
 En los delitos contra la libertad y seguridad sexuales y de violencia familiar, se deberá verificar la aplicación de los protocolos y disposiciones especializadas emitidos por la Procuraduría General de Justicia del Estado.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
-La victima u ofendido podrá solicitar al Ministerio Público la reapertura del procedimiento y la realización de diligencias de investigación, y de ser denegada ésta petición, podrá reclamarla ante el Procurador General de Justicia del Estado, o ante el servidos publico en quien delegue esta función.
+La víctima u ofendido podrá solicitar al Ministerio Público la reapertura del procedimiento y la realización de diligencias de investigación y, de ser denegada esta petición, podrá reclamarla ante el Juez de Garantía.
 
 No obstante lo anterior, en cualquier tiempo y siempre que no haya prescrito la acción penal, el Ministerio Público podrá ordenar oficiosamente la reapertura de las diligencias, si aparecieren nuevos elementos de convicción que así lo justifiquen.
 
@@ -2347,7 +2379,9 @@ Cuando antes de formulada la imputación, el Ministerio Público cuente con los 
 
 Control judicial.
 
-Las decisiones del Ministerio Público sobre el archivo temporal, abstenerse de investigar y no ejercicio de la acción penal, podrán ser impugnadas por la víctima u ofendido ante el Juez de Garantía. En este caso, el Juez convocará a una audiencia para decidir en definitiva, citando al efecto a la víctima u ofendido, al Ministerio Público y, en su caso, al imputado y a su defensor En caso de incomparecencia de la víctima, el ofendido o sus representantes legales a la audiencia, a pesar de haber sido debidamente citados, el Juez de Garantía declarará sin materia la impugnación y confirmará la resolución de archivo temporal, abstenerse de investigar o no ejercicio de la acción penal.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
+
+Las decisiones del Ministerio Público sobre el archivo temporal, abstenerse de investigar y no ejercicio de la pretensión punitiva u omisiones en la investigación, podrán ser impugnadas por la víctima u ofendido ante el Juez de Garantía, dentro de los diez días posteriores a la notificación, con respecto a los tres primeros y el último hasta antes del cierre de la investigación. En estos casos, el Juez convocará a una audiencia para decidir en definitiva, citando al efecto a la víctima u ofendido, al Ministerio Público y, en su caso, al imputado y a su defensor. En caso de incomparecencia de la víctima, el ofendido o sus representantes legales a la audiencia, a pesar de haber sido debidamente citados, el Juez de Garantía declarará sin materia la impugnación.
 
 El Juez podrá dejar sin efecto la decisión del Ministerio Público y ordenarle reabrir la investigación o continuar con la persecución penal, sólo cuando considere que no se está en presencia de los supuestos que la ley establece para disponer alguna de las decisiones mencionadas en el párrafo anterior.
 
@@ -2427,17 +2461,23 @@ Sí podrán ser invocadas como elementos para fundar cualquier resolución previ
 
 #### SECCIÓN 5. MEDIOS DE INVESTIGACIÓN
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 237.
 
 Cateo de recintos particulares.
 
-El cateo en recintos particulares, como domicilios, despachos, o establecimientos comerciales, previa autorización judicial, se realizará personalmente por el Ministerio Público con el auxilio de la policía, cuando se considere necesario.
+El cateo en recintos particulares, como domicilios, despachos, o establecimientos comerciales, previa autorización judicial, a solicitud del Ministerio Público, se realizará personalmente por éste con el auxilio de la policía, cuando se considere necesario.
+
+La solicitud y la orden de cateo se transmitirán por cualquier medio que garantice su autenticidad. El documento respaldo de la autorización podrá enviarse simultáneamente o de forma diferida para constancia.
 
 ###### Artículo 238.
 
 Cateo de otros locales.
 
-Para el cateo de oficinas públicas, locales públicos, establecimientos militares, templos o sitios religiosos, establecimientos de reunión o recreo, mientras estén abiertos al público y no estén destinados para habitación, podrá prescindirse de la orden judicial, con el consentimiento expreso y libre de las personas a cuyo cargo estuvieren los locales. Si ello fuere perjudicial para el resultado procurado con el acto, se requerirá el consentimiento al superior jerárquico en el servicio o al titular del derecho de exclusión. De no ser otorgado el consentimiento o no ser posible recabarlo, se requerirá la orden de cateo.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
+
+Para el cateo de oficinas públicas, locales públicos, establecimientos militares, templos o sitios religiosos, establecimientos de reunión o recreo, mientras estén abiertos al público y no estén destinados para habitación, podrá prescindirse de la orden judicial, con el consentimiento expreso y libre de las personas a cuyo cargo estuvieren los locales. Si ello fuere perjudicial para el resultado procurado con el acto, se requerirá el consentimiento al superior jerárquico en el servicio o al titular del derecho de exclusión. De no ser otorgado el consentimiento o no ser posible recabarlo, el Ministerio Público solicitará la orden de cateo correspondiente.
 
 Quien haya prestado el consentimiento será invitado a presenciar el acto.
 
@@ -2449,7 +2489,9 @@ La resolución judicial que ordena el cateo deberá contener:
 
 I. El nombre y cargo del Juez que autoriza el cateo y la identificación del procedimiento en el cual se ordena;
 
-II. La determinación concreta del lugar o los lugares que habrán de ser cateados y lo que se espera encontrar como resultado de éste; y
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2009)</small>
+
+II. El lugar o lugares que habrán de ser cateados, la persona o personas que hayan de aprehenderse y los objetos que se buscan; y
 
 III. El motivo del cateo, debiéndose indicar o expresar los indicios de los que se desprenda como posible (sic) que se encuentran en el lugar la persona o personas que hayan de aprehenderse o los objetos que se buscan.
 
@@ -2457,13 +2499,17 @@ III. El motivo del cateo, debiéndose indicar o expresar los indicios de los que
 
 Formalidades para el cateo.
 
-Una copia de la resolución que autoriza el cateo será entregada a quien habite, posea o custodie el lugar donde se efectúe o, cuando esté ausente, a su encargado y, a falta de éste, a cualquier persona mayor de edad que se halle en el lugar. Cuando no se encuentre a alguien, ello se hará constar en el acta y se hará uso de la fuerza pública para ingresar. Al terminar, se cuidará que los lugares queden cerrados y, de no ser ello posible, inmediatamente se asegurará que otras personas no ingresen en el lugar, hasta lograrlo.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
+
+Una constancia de la autorización del cateo se mostrará a quien habite, posea o custodie el lugar donde se efectúe o, cuando esté ausente, a su encargado y, a falta de éste, a cualquier persona mayor de edad que se halle en el lugar. Cuando no se encuentre a alguien, ello se hará constar en el acta y se hará uso de la fuerza pública para ingresar. Al terminar, se cuidará que los lugares queden cerrados y, de no ser ello posible, inmediatamente se asegurará que otras personas no ingresen en el lugar, hasta lograrlo.
 
 Practicada la inspección, en el acta se consignará el resultado, con expresión de los pormenores del acto y de toda circunstancia útil para la investigación.
 
 La diligencia se practicará procurando afectar lo menos posible la privacidad de las personas.
 
-En el acta deberá constar el nombre y la firma del agente del Ministerio Público, de los demás concurrentes, así como de dos testigos propuestos por el ocupante del lugar cateado o, en su ausencia o negativa, por la autoridad que practique la diligencia; el acta no podrá sustituirse por otra forma de registro.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
+
+En el acta circunstanciada, deberá constar el nombre y la firma del agente del Ministerio Público, de los demás concurrentes, así como de dos testigos propuestos por el ocupante del lugar cateado o, en su ausencia o negativa, por la autoridad que practique la diligencia; el acta no podrá sustituirse por otra forma de registro.
 
 ###### Artículo 241.
 
@@ -2495,7 +2541,7 @@ II. Se denuncie que personas extrañas han sido vistas mientras se introducen en
 
 > <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2007)</small>
 
-III. Lo solicite quien habita un domicilio, bajo la creencia de que está en peligro su seguridad; o
+III. Lo solicite quien habita un domicilio, bajo la creencia de que esta en peligro su seguridad; o
 
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2007)</small>
 
@@ -2829,6 +2875,8 @@ Si con posterioridad a la formulación de la imputación el Ministerio Público 
 
 #### SECCIÓN 9. VINCULACIÓN DEL IMPUTADO A PROCESO
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 280.
 
 Requisitos para vincular a proceso al imputado.
@@ -2839,15 +2887,11 @@ I. Que se haya formulado la imputación.
 
 II. Que el imputado haya rendido su declaración preparatoria o manifestado su deseo de no declarar.
 
-III. De los antecedentes de la investigación expuestos por el Ministerio Público, se desprenda la existencia del cuerpo del delito y la probable responsabilidad del imputado en el delito de que se trate.
+III. De los antecedentes de la investigación expuestos por el Ministerio Público, se desprendan los datos que establezcan que se ha cometido un hecho que la ley señale como delito y la probabilidad de que el imputado lo cometió o participó en su comisión.
 
 IV. No se encuentre demostrada, más allá de toda duda razonable, una causa de extinción de la acción penal o una excluyente de incriminación.
 
-Se entenderá por cuerpo del delito al hecho en que se manifiesten los elementos objetivos o externos descritos en el tipo penal, así como los elementos normativos y subjetivos, cuando la figura típica de que se trate lo requiera. Cuando un hecho delictivo se castigue en función de la causación de un daño físico a personas o cosas, el cuerpo del delito se tendrá por demostrado si se acredita tal resultado y que su producción es atribuible a persona diversa de la víctima; el dolo o la culpa del imputado se valorará en el ámbito de su responsabilidad.
-
-El auto de vinculación a proceso únicamente podrá dictarse por los hechos que fueron motivo de la formulación de la imputación, pero el Juez podrá otorgarles una clasificación jurídica diversa a la asignada por el Ministerio Público al formular la imputación.
-
-Se entenderá que se ha dictado auto de formal prisión o sujeción a proceso para los efectos del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, cuando se resuelva la vinculación del imputado a proceso.
+El auto de vinculación a proceso únicamente podrá dictarse por los hechos que fueron motivo de la formulación de la imputación, pero el Juez podrá otorgarles una clasificación jurídica diversa a la asignada por el Ministerio Público al formular la imputación. En dicho auto deberá establecerse el lugar, tiempo y circunstancias de ejecución de tales hechos.
 
 ###### Artículo 281.
 
@@ -2861,9 +2905,13 @@ El auto de no vinculación del imputado a proceso no impide que el Ministerio P�
 
 Plazos para resolver sobre la vinculación a proceso.
 
-Inmediatamente después de que el Juez resuelva sobre las medidas cautelares personales solicitadas, en su caso, por el Ministerio Público cuestionará al imputado respecto a si renuncia al plazo de setenta y dos horas para que se resuelva sobre su vinculación a proceso, o si solicita la duplicación de dicho plazo.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
-En caso de que el imputado renuncie al plazo de setenta y dos horas, el Ministerio Público deberá solicitar y motivar la vinculación del imputado a proceso, exponiendo en la misma audiencia los antecedentes de la investigación con los que considera se acreditan el cuerpo del delito y la probable responsabilidad del imputado. El Juez resolverá lo conducente después de escuchar al imputado.
+El Juez de Garantía, cuestionará al imputado respecto a si renuncia al plazo de setenta y dos horas para que se resuelva sobre su vinculación a proceso, o si solicita la duplicación de dicho plazo.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
+
+En caso de que el imputado renuncie al plazo de setenta y dos horas, el Ministerio Público deberá solicitar y motivar la vinculación del imputado a proceso, exponiendo en la misma audiencia los antecedentes de la investigación con los que considera se acreditan que se ha cometido un hecho que la ley señale como delito y la probabilidad de que el imputado lo cometió o participó en su comisión. El Juez resolverá lo conducente después de escuchar al imputado.
 
 Si el imputado no renuncia al plazo de las setenta y dos horas para que se resuelva sobre su vinculación o no a proceso, o solicita la duplicación de dicho plazo, el Juez citará a una audiencia en la que resolverá lo conducente. Dicha audiencia deberá celebrarse, según sea el caso, dentro de las setenta y dos o ciento cuarenta y cuatro horas siguientes a que el imputado detenido fue puesto a su disposición o que el imputado compareció a la audiencia de formulación de la Imputación. Si el imputado requiere del auxilio judicial para citar testigos o peritos a la audiencia de vinculación a proceso, deberá solicitarlo al menos con cuarenta y ocho horas de anticipación a la hora y fecha señaladas para la celebración de la audiencia. En caso contrario, deberá presentar sus medios de prueba a la audiencia de vinculación a proceso.
 
@@ -3055,7 +3103,9 @@ I. Se haya rendido en presencia de su defensor;
 
 II. Haya sido video grabada;
 
-III. El Ministerio Público haya acreditado que se rindió en forma libre, voluntaria e informada, y que se informó previamente al imputado su derecho a no declarar;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2009)</small>
+
+III. Se haya rendido en forma libre, voluntaria e informada, y que se informó previamente al imputado su derecho a no declarar;
 
 IV. El imputado no se encontrase ilícitamente detenido al momento de rendirla; y
 
@@ -3521,13 +3571,15 @@ Las personas que no puedan concurrir al Tribunal, por estar físicamente impedid
 
 Estos procedimientos especiales deberán llevarse a cabo sin afectar el derecho a la confrontación y a la defensa.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 342.
 
-Protección a los testigos.
+Protección a las víctimas, testigos y demás sujetos procesales.
 
-El Tribunal, en casos graves y calificados, podrá disponer medidas especiales destinadas a proteger la seguridad del testigo. Dichas medidas durarán el tiempo razonable que el Tribunal dispusiere y podrán ser renovadas cuantas veces fuere necesario.
+En los términos previstos por la Ley de Protección a Víctimas, Testigos y Demás Sujetos Procesales, el Tribunal, en casos graves y calificados, podrá disponer medidas especiales destinadas a proteger la seguridad del testigo. Dichas medidas durarán el tiempo razonable que el Tribunal dispusiere y podrán ser renovadas cuantas veces fuere necesario.
 
-De igual forma, el Ministerio Público adoptará las medidas que fueren procedentes para conferir al testigo, antes o después de prestadas sus declaraciones, la debida protección.
+De igual forma, el Ministerio Público adoptará las medidas que fueren procedentes para conferir a las víctimas, los testigos y a los demás sujetos procesales, la debida protección antes o después de prestadas sus declaraciones.
 
 #### SECCIÓN 7. PERITAJES
 
@@ -3608,6 +3660,12 @@ Lo anterior no es óbice para aquellos casos en que resulte indispensable la pre
 Otros elementos de prueba.
 
 Además de los previstos en este Código, podrán utilizarse otros medios probatorios distintos, siempre que no supriman las garantías y facultades de las personas, ni afecten el sistema institucional. La forma de su incorporación al proceso se adecuará al medio de prueba más análogo a los previstos en este Código.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2009)</small>
+
+Artículo 352 bis.- Comunicaciones Privadas.
+
+Las comunicaciones privadas podrán utilizarse como medios probatorios cuando sean aportadas de forma voluntaria por algunos de los particulares que participen en ellas. El Juez valorará el alcance de éstas siempre y cuando contengan información relacionada con un hecho delictivo. En ningún caso se admitirán comunicaciones que violen el deber de confidencialidad que establezca la ley.
 
 ###### Artículo 353.
 
@@ -3825,11 +3883,15 @@ Redacción de la sentencia.
 
 La sentencia será siempre redactada por uno de los miembros del Tribunal Colegiado, designado por éste, en tanto la disidencia será redactada por su autor. La sentencia señalará el nombre de su redactor y el del que lo sea de la disidencia.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 377.
 
 Plazo para redacción de la sentencia absolutoria.
 
-Al pronunciarse sobre la absolución, el Tribunal podrá diferir la redacción del fallo hasta por un plazo de cinco días, la que será comunicada a las partes.
+Al pronunciarse sobre la absolución, el Tribunal podrá diferir la redacción del fallo hasta por un plazo de cinco días, fijando la fecha de la audiencia en que tendrá a lugar su lectura y notificando de ello a las partes.
+
+En caso de que la fecha y hora fijada para la audiencia de lectura de sentencia absolutoria no asista a la sala de audiencia persona alguna se dispensará la lectura de la misma.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2007)</small>
 
@@ -3913,7 +3975,9 @@ En lo no previsto y siempre que no se opongan a las primeras, se aplicarán las 
 
 Procedencia.
 
-El procedimiento abreviado se tramitará únicamente a solicitud del Ministerio Público, en los casos en que el imputado admita el hecho que le atribuyera aquél en su escrito de acusación, consienta en la aplicación de este procedimiento y el acusador coadyuvante, en su caso, no presente oposición fundada.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
+
+El procedimiento abreviado se tramitará únicamente a solicitud del Ministerio Público, en los casos en que el imputado admita el hecho y sus modalidades, que le atribuyera aquél en su escrito de acusación, consienta en la aplicación de este procedimiento y el acusador coadyuvante, en su caso, no presente oposición fundada.
 
 La existencia de coimputados no impide la aplicación de estas reglas a alguno de ellos. Se escuchará a la víctima u ofendido de domicilio conocido, a pesar de que no se haya constituido como acusador coadyuvante, pero su criterio no será vinculante. La incomparecencia injustificada de la víctima u ofendido a la audiencia no impedirá que se resuelva sobre la apertura del procedimiento abreviado y, en su caso, se dicte la sentencia respectiva.
 
@@ -3941,7 +4005,9 @@ II. Conociere su derecho a exigir un juicio oral, y que renunciare voluntariamen
 
 III. Entendiere los términos del acuerdo y las consecuencias que éste pudiera implicarle; y
 
-IV. Acepta los hechos materia de la acusación en forma inequívoca y de manera libre y espontánea.
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2009)</small>
+
+IV. Acepta los hechos materia de la acusación y sus modalidades en forma inequívoca y de manera libre y espontánea.
 
 ###### Artículo 390.
 
@@ -4488,6 +4554,12 @@ D E C L A R A T O R I A
 > <small>N. DE E. SE TRANSCRIBE EL ARTÍCULO TRANSITORIO DEL DECRETO NÚMERO 276/08 II P.O. QUE EXPIDE LA DECLARATORIA DE INCORPORACIÓN DEL NUEVO SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE CHIHUAHUA.</small>
 
 T R A N S I T O R I O
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O.18 DE FEBRERO DE 2009.
 
 ###### ARTÍCULO ÚNICO.
 
