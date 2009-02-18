@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-las-comisiones-del-consejo-general-del-35540"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-10"
-last_updated: "2003-12-10"
+last_updated: "2009-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ESTATAL ELECTORAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO DE ELECCIONES Y PARTICIPACION CIUDADANA, PUBLICADO EN EL P.O. DE 18 DE FEBRERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 10 de diciembre de 2003.
 
@@ -405,7 +407,7 @@ XII.- LLEVAR EL ARCHIVO DE LA COMISION, Y
 
 XIII.- LAS DEMAS QUE LES ENCOMIENDEN LOS PRESIDENTES DE LAS COMISIONES.
 
-TRANSITORIO (SIC)
+## TRANSITORIO
 
 PRIMERO.- EL PRESENTE REGLAMENTO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU APROBACION POR EL CONSEJO GENERAL.
 
@@ -426,3 +428,15 @@ QUE LAS PRESENTES COPIAS FOTOSTATICAS, CONSTANTES DE CUATRO FOJAS UTILES RELATIV
 LO QUE SE HACE CONSTAR PARA LOS EFECTOS LEGALES QUE HAYA LUGAR.- EN LA CIUDAD DE TUXTLA GUTIERREZ, CHIAPAS, A LOS DOS DIAS DEL MES DE DICIEMBRE DEL AÑO 2003, DOS MIL TRES.- DOY FE.
 
 EL SECRETARIO EJECUTIVO. LIC. ARTEMIO MOLINA UTRILLA.- RUBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE FEBRERO DE 2009.
+
+Primero.- El presente Reglamento entrará en vigor a partir de su aprobación por el Consejo General, abrogándose el Reglamento de las Comisiones del Consejo General del Instituto Estatal Electoral aprobado en sesión de fecha 28 de noviembre del año 2003.
+
+Segundo.- La divulgación y distribución de este Reglamento se hará extensiva a todo el personal del Instituto.
+
+Tercero.- El Secretario Ejecutivo adoptará las medidas necesarias a efecto de que se imprima el número de ejemplares que sean necesarios para la consecución de lo dispuesto en el artículo que antecede.
+
+Cuarto.- El Consejo General será el órgano facultado para realizar las reformas, adiciones y derogaciones a este Reglamento, cuando así lo considere pertinente.
