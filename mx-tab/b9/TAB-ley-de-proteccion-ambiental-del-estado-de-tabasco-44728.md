@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-proteccion-ambiental-del-estado-de-tabasco-44728"
 country: "mx"
 rank: "ley"
 publication_date: "2005-04-20"
-last_updated: "2005-04-20"
+last_updated: "2009-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE PROTECCION AMBIENTAL DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 20 de abril de 2005.
 
@@ -43,13 +43,17 @@ LEY DE PROTECCIÓN AMBIENTAL DEL ESTADO DE TABASCO
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto proteger el medio ambiente, el cual es considerado un bien jurídico de titularidad colectiva. Esta protección comprende el establecimiento y aplicación de los instrumentos de política ambiental, necesarios para prevenir afectaciones a dicho bien jurídico, así como de los instrumentos necesarios cuando el mismo ha sido dañado.
+La presente Ley es de orden público e interés social y tiene por objeto proteger el ambiente, el cual es considerado un bien jurídico de titularidad colectiva. Esta protección comprende el establecimiento y aplicación de los instrumentos de política ambiental, necesarios para prevenir afectaciones a dicho bien jurídico, así como de los instrumentos necesarios cuando el mismo ha sido dañado.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 2.
 
-Son elementos de base del medio ambiente el aire, el agua, el suelo y la diversidad biológica, los cuales pueden formar parte del dominio público, privado o común, de conformidad con lo que dispongan la Constitución Política y las leyes del Estado de Tabasco.
+Son elementos de base del ambiente el aire, el agua, el suelo y la diversidad biológica, los cuales pueden formar parte del dominio público, privado o común, de conformidad con lo que dispongan la Constitución Política y las leyes del Estado de Tabasco.
 
 ###### ARTÍCULO 3.
 
@@ -67,7 +71,9 @@ V. En la prevención, regulación y control de las actividades consideradas como
 
 VI. En la evaluación y autorización del impacto ambiental de obras y actividades que de conformidad con lo que establece la Ley General del Equilibrio Ecológico y la Protección al Ambiente, no sean de competencia federal; y
 
-VII. Las demás que se determinen en otras disposiciones aplicables en materia de protección del medio ambiente.
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2009)</small>
+
+VII. Las demás que se determinen en otras disposiciones aplicables en materia de protección del ambiente.
 
 ###### ARTÍCULO 4.
 
@@ -491,9 +497,11 @@ La ejecución, evaluación y modificación del Programa Estatal de Protección a
 
 ### CAPÍTULO III. De los Programas de Ordenamiento Ecológico Estatal y Municipal
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 28.
 
-El ordenamiento ecológico es un instrumento de política ambiental que tiene por objeto contribuir a la definición de usos del suelo, de los recursos naturales y de las actividades productivas, para hacer compatible la conservación de la biodiversidad y del medio ambiente con el desarrollo regional. Este instrumento es de carácter obligatorio en el Estado y servirá de base para la elaboración de los programas y proyectos de desarrollo que se pretendan ejecutar.
+El ordenamiento ecológico es un instrumento de política ambiental que tiene por objeto contribuir a la definición de usos del suelo, de los recursos naturales y de las actividades productivas, para hacer compatible la conservación de la biodiversidad y del ambiente con el desarrollo regional. Este instrumento es de carácter obligatorio en el Estado y servirá de base para la elaboración de los programas y proyectos de desarrollo que se pretendan ejecutar.
 
 ###### ARTÍCULO 29.
 
@@ -1409,7 +1417,9 @@ I. Para acciones de adiestramiento y capacitación de personal encargado del com
 
 II. Cuando con esta medida se evite un riesgo mayor a la comunidad o los elementos naturales, y medie recomendación de alguna autoridad de atención a emergencias; y
 
-III. Cuando no se causen daños graves al medio ambiente o la atmósfera, a juicio de la Secretaría o del Municipio correspondiente.
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2009)</small>
+
+III. Cuando no se causen daños graves al ambiente o la atmósfera, a juicio de la Secretaría o del Municipio correspondiente.
 
 La Secretaría, o en su caso el Municipio, otorgará la autorización respectiva, en la que se establecerán las condicionantes y medidas de seguridad que deberán de observarse.
 
@@ -1669,9 +1679,11 @@ A pesar de que un generador transfiera sus residuos a una empresa de servicios a
 
 Quedan exentos de esta disposición los usuarios del servicio público de recolección municipal, teniendo la responsabilidad directa los municipios de contar con transporte y sitios de disposición final autorizados.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 148.
 
-Quienes resulten responsables de la contaminación de un sitio, estarán obligados a reparar el daño causado al medio ambiente, así como los daños a la salud generados como consecuencia de ésta, conforme a las disposiciones legales correspondientes. Los propietarios o poseedores de predios cuyos suelos se encuentren contaminados, serán responsables solidarios para realizar las medidas de remediación.
+Quienes resulten responsables de la contaminación de un sitio, estarán obligados a reparar el daño causado al ambiente, así como los daños a la salud generados como consecuencia de ésta, conforme a las disposiciones legales correspondientes. Los propietarios o poseedores de predios cuyos suelos se encuentren contaminados, serán responsables solidarios para realizar las medidas de remediación.
 
 ###### ARTÍCULO 149.
 
@@ -1843,9 +1855,11 @@ El Reglamento de ésta Ley y las normas ambientales estatales, establecerán la 
 
 Para el establecimiento de esta clasificación, se deberá tomar en cuenta la opinión de las autoridades competentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 164.
 
-Corresponderá a los municipios incluir en los planes y programas de usos del suelo, las zonas en las que se permita el establecimiento de industrias, comercios o servicios, que de conformidad con esta Ley o con la Ley General, sean considerados riesgosas o altamente riesgosas, por la gravedad de los efectos que puedan generar en los ecosistemas o en el medio ambiente, tomando en consideración:
+Corresponderá a los municipios incluir en los planes y programas de usos del suelo, las zonas en las que se permita el establecimiento de industrias, comercios, o servicios, que de conformidad con esta Ley o con la Ley General, sean considerados riesgosas o altamente riesgosas, por la gravedad de los efectos que puedan generar en los ecosistemas o en el ambiente, tomando en consideración:
 
 I. Las condiciones topográficas, meteorológicas, climatológicas, geológicas y sísmicas de las zonas;
 
@@ -1885,9 +1899,11 @@ IV. Tomar las medidas preventivas necesarias para evitar contingencias ambiental
 
 Corresponde a los municipios establecer restricciones a los usos de suelo urbano para garantizar la seguridad de la comunidad vecina a actividades riesgosas o altamente riesgosas y, establecer en los programas de desarrollo urbano las prohibiciones a los usos habitacionales, comerciales u otros que pongan en riesgo a la población. Asimismo, les corresponde promover ante las autoridades competentes, el establecimiento de zonas intermedias y de salvaguarda.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 168.
 
-Las autoridades competentes declararán contingencia ambiental cuando se presente una concentración de contaminantes o un riesgo ambiental, derivado de actividades humanas o fenómenos naturales, que puedan afectar al medio ambiente, de acuerdo con las normas ambientales y/o elementos técnicos aplicables.
+Las autoridades competentes declararán contingencia ambiental cuando se presente una concentración de contaminantes o un riesgo ambiental, derivado de actividades humanas o fenómenos naturales, que puedan afectar al ambiente, de acuerdo con las normas ambientales y/o elementos técnicos aplicables.
 
 La declaratoria y las medidas que se aplicarán deberán darse a conocer a través de los medios de comunicación masiva y de los instrumentos que se establezcan para tal efecto. Estas medidas entrarán en vigor y se instrumentarán en los términos que se precisen en el Reglamento de esta Ley y en los respectivos Programas de Contingencia Ambiental.
 
@@ -2293,7 +2309,9 @@ IV. Arresto administrativo hasta por treinta y seis horas.
 
 Para la imposición de las sanciones por infracciones a esta Ley, se tomará en cuenta:
 
-I. La gravedad de la infracción, considerando los siguientes criterios: impacto a la salud pública, generación de desequilibrios ecológicos, impacto al medio ambiente, los niveles en que se hubieran rebasado los límites establecidos en las normas oficiales mexicanas y las normas ambientales estatales;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2009)</small>
+
+I. La gravedad de la infracción, considerando los siguientes criterios: impacto a la salud pública; generación de desequilibrios ecológicos, impacto al ambiente, los niveles en que se hubiera rebasado los límites establecidos en las normas oficiales mexicanas y las normas ambientales estatales;
 
 II. Las condiciones económicas del infractor; y
 
@@ -2488,3 +2506,11 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE FORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE FEBRERO DE 2009.
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
