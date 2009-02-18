@@ -4,7 +4,7 @@ identifier: "MOR-acuerdo-mediante-el-cual-se-establecen-las-unidades-de-35396"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-11-28"
-last_updated: "2008-06-25"
+last_updated: "2009-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 ACUERDO MEDIANTE EL CUAL SE ESTABLECEN LAS UNIDADES DE INFORMACION PUBLICA Y SE CREAN LOS CONSEJOS DE INFORMACION CLASIFICADA DE LA SECRETARIA DE SALUD DEL GOBIERNO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2009.
 
 Acuerdo publicado en el Periódico Oficial del Estado de Morelos, el viernes 28 de noviembre de 2003.
 
@@ -45,13 +45,7 @@ ACUERDO MEDIANTE EL CUAL SE ESTABLECEN LAS UNIDADES DE INFORMACIÓN PÚBLICA Y S
 
 ###### Artículo 1.
 
-Se establece la Unidad de Información Pública de la Secretaría de Salud del Gobierno del Estado de Morelos y se designan a sus integrantes:
-
-I. El Secretario Particular del Secretario de Salud, como jefe de la Unidad de Información Pública;
-
-II. Los Directores de cada una de las áreas, y
-
-III. El Asesor Jurídico de la Secretaría.
+(DEROGADO POR TRANSITORIO SEGUNDO DEL ACUERDO MEDIANTE EL CUAL, SE ESTABLECE LA UNIDAD DE INFORMACION PUBLICA Y SE CREA EL CONSEJO DE INFORMACION CLASIFICADA DE LA SECRETARIA DE SALUD DEL GOBIERNO DEL ESTADO DE MORELOS, P.O. 18 DE FEBRERO DE 2009)
 
 ###### Artículo 2.
 
@@ -71,15 +65,9 @@ I. El Secretario Técnico de la COESAMOR como jefe de la Unidad de Información 
 
 II. Los Directores de cada una de las áreas.
 
-Artículo 6 (sic). Se crea el Consejo de Información Clasificada de la Secretaría de Salud del Gobierno del Estado de Morelos, el cual estará integrado por los siguientes miembros:
+###### Artículo 5.
 
-I. El Secretario de Salud, como Presidente del Consejo;
-
-II. El Subsecretario de Coordinación Sectorial como Coordinador del Consejo;
-
-III. El Director de Coordinación y Supervisión como Secretario Técnico, y
-
-IV. El Contralor de la Secretaría de Salud.
+(DEROGADO POR TRANSITORIO SEGUNDO DEL ACUERDO MEDIANTE EL CUAL, SE ESTABLECE LA UNIDAD DE INFORMACION PUBLICA Y SE CREA EL CONSEJO DE INFORMACION CLASIFICADA DE LA SECRETARIA DE SALUD DEL GOBIERNO DEL ESTADO DE MORELOS, P.O. 18 DE FEBRERO DE 2009)
 
 ###### Artículo 7.
 
@@ -150,3 +138,11 @@ RÚBRICAS.
 P.O. 25 DE JUNIO DE 2008.
 
 ÚNICO. El presente Acuerdo entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 18 DE FEBRERO DE 2009.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDO. Se derogan los artículos 1 y 5 del Acuerdo mediante el cual se establecen las Unidades de Información Pública y se crean los Consejos de Información Clasificada de la Secretaría de Salud del Gobierno del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad" número cuatro mil doscientos noventa y dos de fecha veintiocho de noviembre del dos mil tres.
+
+TERCERO. La Secretaría de Salud deberá instalar la Unidad de Información Pública y el Consejo de Información Clasificada dentro de los treinta días siguientes a la vigencia del presente Acuerdo, en tanto se instalen seguirán funcionando los creados mediante el Acuerdo que se deroga.
