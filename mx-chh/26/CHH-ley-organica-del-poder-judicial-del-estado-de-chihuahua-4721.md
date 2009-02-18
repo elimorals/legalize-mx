@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "2008-03-29"
+last_updated: "2009-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2009.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -1993,13 +1993,13 @@ ARTICULO 145 y.- El Personal que integre la Unidad de Información tendrá la ob
 
 ### CAPITULO I. DE LOS JUZGADOS DE PRIMERA INSTANCIA Y ESPECIALIZADOS PARA ADOLESCENTES INFRACTORES
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 146.
 
-Los juzgados de primera instancia podrán ser de los ramos civil, familiar, penal o mixtos. Tales juzgados, al igual que los Especializados para adolescentes infractores, tendrán jurisdicción en todo su distrito y residirán en la cabecera de éste, salvo determinación del Pleno en sentido diverso. Cuando haya dos o más de la misma materia, se les denominará en forma ordinal señalando su ramo.
+Los Juzgados de Primera Instancia podrán ser de los ramos civil, familiar o penal o mixtos. Tendrán jurisdicción en todo el distrito y residirán en su cabecera, salvo determinación del Pleno en sentido diverso. Cuando haya dos o más de la misma materia, se les denominará en forma ordinal señalando su ramo.
 
-La jurisdicción de primera instancia en materia penal y la especializada para adolescentes infractores estará a cargo de jueces, en los términos de la legislación procesal correspondiente.
+La Jurisdicción de primera instancia en materia penal está a cargo de los jueces de garantía y de los tribunales de juicio oral, en los términos de la legislación procesal. Los jueces de garantía tienen a su cargo el ejercicio de las atribuciones de control judicial establecidas en el artículo 16, párrafo decimotercero, de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
 
@@ -3316,3 +3316,9 @@ P.O. 29 DE MARZO DE 2008.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE FEBRERO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
