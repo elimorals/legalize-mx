@@ -4,7 +4,7 @@ identifier: "SON-reglamento-que-regula-el-funcionamiento-del-consejo-estatal-517
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-11"
-last_updated: "2006-09-11"
+last_updated: "2009-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51730&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "SON"
 ---
 # REGLAMENTO QUE REGULA EL FUNCIONAMIENTO DEL CONSEJO ESTATAL ELECTORAL, SUS COMISIONES, LOS CONSEJOS DISTRITALES ELECTORALES Y CONSEJOS MUNICIPALES ELECTORALES -ANTES REGLAMENTO QUE REGULA EL FUNCIONAMIENTO DEL CONSEJO ESTATAL ELECTORAL, SUS COMISIONES Y LOS CONSEJOS LOCALES ELECTORALES-
 
-REGLAMENTO QUE REGULA EL FUNCIONAMIENTO DEL CONSEJO ESTATAL ELECTORAL, SUS COMISIONES Y LOS CONSEJOS LOCALES ELECTORALES
+REGLAMENTO QUE REGULA EL FUNCIONAMIENTO DEL CONSEJO ESTATAL ELECTORAL, SUS COMISIONES, LOS CONSEJOS DISTRITALES ELECTORALES Y CONSEJOS MUNICIPALES ELECTORALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE FEBRERO DE 2009.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el lunes 11 de septiembre de 2006.
 
 ACUERDO NÚMERO 411
 
-POR EL QUE SE APRUEBA EL REGLAMENTO QUE REGULA EL FUNCIONAMIENTO DEL CONSEJO ESTATAL ELECTORAL, SUS COMISIONES Y LOS CONSEJOS LOCALES ELECTORALES.
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 19 DE FEBRERO DE 2009)</small>
+
+REGLAMENTO QUE REGULA EL FUNCIONAMIENTO DEL CONSEJO ESTATAL ELECTORAL, SUS COMISIONES, LOS CONSEJOS DISTRITALES ELECTORALES Y CONSEJOS MUNICIPALES ELECTORALES.
 
 CONSIDERANDO
 
@@ -75,9 +77,11 @@ REGLAMENTO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 1.
 
-El presente ordenamiento es de observancia general y tiene por objeto normar y cumplimentar lo relativo a las atribuciones y funcionamiento del Consejo Estatal Electoral, de las comisiones ordinarias y especiales, así como de los Consejos Locales Electorales, de conformidad con lo dispuesto por el Código Electoral para el Estado de Sonora.
+El presente ordenamiento es de observancia general y tiene por objeto normar y cumplimentar lo relativo a las atribuciones y funcionamiento del Consejo Estatal Electoral, de las comisiones ordinarias y especiales, así como de los Consejos Distritales Electorales y los Consejos Municipales Electorales, de conformidad con lo dispuesto por el Código Electoral para el Estado de Sonora.
 
 ###### ARTÍCULO 2.
 
@@ -91,6 +95,8 @@ En todo lo no previsto en el presente Reglamento, se estará a lo que dispone el
 
 Las reformas, adiciones o derogaciones de las normas contenidas en este Reglamento, se harán mediante acuerdo del Consejo Estatal Electoral, en ejercicio de las atribuciones concedidas en el Código Electoral para el Estado de Sonora.
 
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 5.
 
 Para los efectos de (sic) presente Reglamento se entiende por:
@@ -101,47 +107,55 @@ II.- CONSTITUCIÓN FEDERAL: La Constitución Política de los Estados Unidos Mex
 
 III.- CONSTITUCIÓN LOCAL: La Constitución Política del Estado de Sonora;
 
-IV.- COMISIONADO: Los Comisionados de los partidos políticos, alianzas, coaliciones o representante de candidatos independientes registrados ante los Consejos;
+IV.- COMISIONADO: Los Comisionados de los partidos políticos, alianzas o coaliciones registrados ante los Consejos;
 
-V.- CONSEJEROS: Los Consejeros electorales del Consejo Estatal Electoral;
+V.- CONSEJEROS: Los Consejeros electorales del Consejo Estatal
+
+Electoral;
 
 VI.- CONSEJO: El Consejo Estatal Electoral;
 
-VII.- CONSEJEROS LOCALES: Los Consejeros de los Consejos Locales Electorales;
+VII.- CONSEJO DISTRITAL O CONSEJOS DISTRITALES: El o los Consejos Distritales Electorales;
 
-VIII.- CONSEJOS LOCALES: Los Consejos Locales Electorales;
+VIII.- CONSEJO MUNICIPAL O CONSEJOS MUNICIPALES: El o los Consejos Municipales Electorales;
 
 IX.- PRESIDENTE: El Presidente del Consejo Estatal Electoral;
 
 X.- PLENO: Sesión pública validamente instalada de los integrantes del Consejo Estatal Electora (sic) que se celebra para la toma de acuerdos y resoluciones;
 
-X.- SECRETARIO: El Secretario del Consejo Estatal Electoral;
+XI.- SECRETARIO: El Secretario del Consejo Estatal Electoral;
 
-XI.- ÓRGANO INTERNO: El Órgano Interno de cada uno de los partidos políticos, encargado de registro y administración del financiamiento público y privado, así como de la elaboración de los informes financieros previstos por el Código;
+XII.- ÓRGANO INTERNO: El Órgano Interno de cada uno de los partidos políticos, encargado de registro y administración del financiamiento público y privado, así como de la elaboración de los informes financieros previstos por el Código;
 
-XII.- INFORMES SEMESTRALES: Los informes de ingresos y egresos y de situación patrimonial correspondientes a los periodos de enero a junio y de julio a diciembre de cada año que deban de presentar los partidos políticos;
+XIII.- INFORMES SEMESTRALES: Los informes de ingresos, egresos y de situación patrimonial correspondientes a los periodos de enero a junio y de julio a diciembre de cada año que deban de presentar los partidos políticos;
 
-XIII.- CONGRESO: El Congreso del Estado de Sonora;
+XIV.- CONGRESO: El Congreso del Estado de Sonora;
 
-XIV.- PARTIDOS: Los Partidos Políticos Estatales o Nacionales registrados o acreditados conforme a las disposiciones del Código;
+XV.- PARTIDOS: Los Partidos Políticos Estatales o Nacionales registrados o acreditados conforme a las disposiciones del Código;
 
-XV.- TRIBUNAL: El Tribunal Estatal Electoral y de Transparencia Informativa del Estado de Sonora;
+XVI.- TRIBUNAL: El Tribunal Estatal Electoral y de Transparencia Informativa del Estado de Sonora;
 
-XVI.- COMISIONES ORDINARIAS: Aquellas que por disposición del Código deben funcionar en forma permanente para el cumplimiento de diversos fines;
+XVII.- COMISIONES ORDINARIAS: Aquellas que por disposición del Código deben funcionar en forma permanente para el cumplimiento de diversos fines;
 
-XVII.- COMISIONES ESPECIALES: Aquellas que el Consejo integre exclusivamente para el cumplimiento de un fin específico, y solo estarán en funciones mientras dure el objeto para el que fueron creadas;
+XVIII.- COMISIONES ESPECIALES: Aquellas que el Consejo integre exclusivamente para el cumplimiento de un fin específico, y solo estarán en funciones mientras dure el objeto para el que fueron creadas;
 
-XVIII.- ACUERDO ADMINISTRATIVO: Son aquellos que se emiten por unanimidad o mayoría de los Consejeros en reuniones de trabajo y comisiones para resolver los asuntos de su competencia; y
+XIX.- ACUERDOS ADMINISTRATIVOS: Son aquellos que se emiten por unanimidad o mayoría de los Consejeros en reuniones de trabajo y comisiones para resolver los asuntos de su competencia; y
 
-XIX.- ACUERDO DE TRÁMITE: Son aquellos que se emiten por el Presidente y Secretario en el trámite de los medios de impugnación y en los procedimientos administrativos por actos violatorios al Código, así como por los Presidentes y secretarios de los Consejos Locales, en el trámite de los medios de impugnación, hasta ponerlos en estado de resolución.
+XX.- ACUERDOS DE TRÁMITE: Son aquellos que se emiten por el Presidente y Secretario en el trámite de los medios de impugnación y procedimientos administrativos sancionadores por presuntos actos violatorios del Código, hasta ponerlos en estado de resolución, sin perjuicio de las facultades de los Consejeros para decretar medidas precautorias o provisionales en el trámite de dichos procedimientos, así como por los Presidentes y Secretarios de los Consejos Distritales y Municipales, en el trámite de los medios de impugnación, hasta ponerlos en estado de resolución;
+
+XXI.- REGLAMENTO: El Reglamento que Regula el Funcionamiento del Consejo, sus Comisiones, los Consejos Distritales Electorales y los Consejos Municipales Electorales.
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 6.
 
-El Consejo y los Consejos Locales tendrán las funciones que se señalan en el Código, la Constitución Local y el presente Reglamento.
+El Consejo, los Consejos Distritales y los Consejos Municipales tendrán las funciones que se señalan en el Código, la Constitución Local y el presente Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 7.
 
-El personal del Consejo y de los Consejos Locales que tenga la calidad de funcionario electoral, rendirá formal protesta ante el Presidente del Consejo respectivo antes de encargarse de sus funciones. Dicha protesta será rendida en la forma siguiente:
+El personal del Consejo y de los Consejos Distritales y Municipales que tenga la calidad de funcionario electoral rendirá formal protesta ante el Presidente del Consejo respectivo antes de encargarse de sus funciones. Dicha protesta será rendida en la forma siguiente:
 
 El Presidente del organismo electoral correspondiente dirá: ¿Protestáis guardar y hacer guardar la Constitución de los Estados Unidos Mexicanos, la Constitución del Estado, el Código Electoral para el Estado de Sonora y las disposiciones que de ellos emanen, atendiendo siempre los principios de certeza, legalidad, independencia, imparcialidad y objetividad, como fórmula institucional de Justicia Electoral y de Democracia Representativa, y cumplir patrióticamente el cargo de ………. que se le ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado ?.
 
@@ -165,11 +179,19 @@ III.- La Secretaría del Consejo;
 
 IV.- Los Consejeros;
 
-V.- Las Comisiones Ordinarias y Comisiones Especiales.
+V.- Las Comisiones Ordinarias y Comisiones Especiales;
 
-VI.- Los Consejos Locales; y
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
 
-VII.- De las Mesas Directivas de Casilla.
+VI.- Los Consejos Distritales;
+
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+VII.- Los Consejos Municipales; y
+
+> <small>(ADICIONADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+VIII.- Las Mesas Directivas de Casilla.
 
 ### CAPITULO III. DEL PLENO DEL CONSEJO
 
@@ -191,7 +213,9 @@ IV.- Las demás que le confieren la Constitución Local, el Código, el presente
 
 Además de las que le corresponden en términos del artículo 100 del Código, el Presidente tendrá las atribuciones siguientes:
 
-I.- Representar protocolariamente al Consejo ante toda clase de autoridades, tribunales y organismos públicos de los tres niveles de gobierno, así como establecer los vínculos ante organismos electorales, con el fin de garantizar el desarrollo del proceso electoral, atendiendo a lo que establece la Constitución Política del Estado de Sonora, el Código y demás leyes relativas aplicables. Asimismo, para ejercer, las más amplias facultades de dominio, administración y pleitos y cobranzas, con todas las facultades que requieran cláusula especial conforme a la Ley, así como otorgar poderes generales y especiales, sustituir y revocar poderes generales y especiales en uno o más apoderados; y, para emitir, avalar y negociar títulos de crédito; formular querellas y otorgar perdón; ejercitar y desistirse de acciones judiciales, inclusive del juicio de amparo;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+I.- Representar Legalmente al Consejo ante toda clase de autoridades, tribunales y organismos públicos de los tres niveles de gobierno, así como establecer los vínculos ante organismos electorales, con el fin de garantizar el desarrollo del proceso electoral, atendiendo a lo que establece la Constitución Local, el Código y demás leyes relativas aplicables. Asimismo, para ejercer, las más amplias facultades de dominio, administración y pleitos y cobranzas, con todas las facultades que requieran cláusula especial conforme a la Ley, así como otorgar poderes generales y especiales, sustituir y revocar poderes generales y especiales en uno o más apoderados; y, para emitir, avalar y negociar títulos de crédito; formular querellas y otorgar perdón; ejercitar y desistirse de acciones judiciales, inclusive del juicio de amparo;
 
 II.- Aprobar los nombramientos del personal técnico del propio Consejo en términos del artículo 101, fracción VI del Código y las del personal ejecutivo;
 
@@ -201,7 +225,9 @@ IV.- Substanciar con el Secretario los recursos de apelación, queja, o los medi
 
 V.- Convocar a los Consejeros, cuando el caso lo amerite, para los asuntos que sean de trámite. Son de trámite los asuntos administrativos o internos que no requieren de su aprobación en sesión pública;
 
-VI.- Substanciar con el Secretario los procedimientos por actos violatorios del Código, hasta ponerlos en estado de resolución, sin perjuicio de las facultades de los Consejeros para intervenir en el trámite de dichos procedimientos.
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+VI.- Substanciar con el Secretario los procedimientos administrativos sancionadores por presuntos actos violatorios del Código, hasta ponerlos en estado de resolución, sin perjuicio de las facultades de los Consejeros para decretar medidas precautorias o provisionales en el trámite de dichos procedimientos;
 
 VII.- Solicitar oficialmente a cualquier funcionario, oficinas o archivos del Estado, de la Federación o de los Ayuntamientos información o copias certificadas que estimen necesarias para el mejor resultado de los asuntos del Pleno y los encomendados a las comisiones; y
 
@@ -221,11 +247,17 @@ II.- Asignar a las actas, los acuerdos y resoluciones del Consejo una clave de c
 
 III.- Autorizar libros de gobierno para el control de recepción de los documentos;
 
-IV.- Formular y firmar los informes circunstanciados de los medios de impugnación que en contra de los acuerdos y resoluciones del Consejo interpongan los partidos políticos, alianzas, Coaliciones, candidatos independientes, y en su caso, los ciudadanos;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
 
-V.- Acordar con el Presidente del Consejo, los asuntos a que se refieren las fracciones III y IV y VI del artículo 6 de este Reglamento; y
+IV.- Formular y firmar los informes circunstanciados de los medios de impugnación que en contra de los acuerdos y resoluciones del Consejo interpongan los partidos políticos, Asociaciones Políticas Estatales, alianzas, Coaliciones, y en su caso, los ciudadanos;
 
-VI.- Notificar los acuerdos administrativos, acuerdos de trámite, las resoluciones y los acuerdos del Consejo o aquellos que éste le encomiende.
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+V.- Acordar con el Presidente del Consejo, los asuntos a que se refieren las fracciones III, IV y VI del artículo 11 de este Reglamento;
+
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+VI.- Notificar los acuerdos administrativos, acuerdos de trámite, las resoluciones y los acuerdos del Consejo o aquellos que éste le encomiende; y
 
 VII.- Las demás que se señalen en el presente Reglamento.
 
@@ -393,9 +425,11 @@ VII.- Las demás que le encomiende la comisión.
 
 ### CAPITULO IX. DE LA COMISION ORDINARIA DE FISCALIZACIÓN
 
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 25.
 
-La Comisión de Fiscalización, en términos de lo dispuesto por el Código, tiene como funciones principales, precisamente la fiscalización de los recursos que reciben los partidos políticos para sus actividades ordinarias permanentes y para actividades tendientes a la obtención del voto y precampañas electorales, así como los que reciban para este último efecto las alianzas, coaliciones y candidatos independientes; asimismo le corresponde substanciar los procedimientos de fiscalización correspondientes, así como los relacionados con las denuncias que se presenten por irregularidades sobre el origen, aplicación y destino de los recursos utilizados en precampañas electorales, y presentar al pleno los proyectos de dictamen respectivos.
+La Comisión de Fiscalización, en términos de lo dispuesto por el Código, tiene como funciones principales, precisamente la fiscalización de los recursos que reciben los partidos políticos para sus actividades ordinarias permanentes y para actividades tendientes a la obtención del voto y precampañas electorales, así como los que reciban para este último efecto las alianzas y coaliciones; asimismo le corresponde substanciar los procedimientos de fiscalización correspondientes, así como los relacionados con las denuncias que se presenten por irregularidades sobre el origen, aplicación y destino de los recursos utilizados en precampañas electorales, y presentar al pleno los proyectos de dictamen respectivos.
 
 ###### ARTÍCULO 26.
 
@@ -403,17 +437,29 @@ La Comisión de Fiscalización, además de las que se señalan en el artículo a
 
 En materia de fiscalización de recursos de partidos:
 
-I.- Recibir en las fechas señaladas en el Código los informes semestrales de ingresos y egresos, de situación patrimonial y de origen y aplicación de los recursos por transferencia de dirigencias nacionales, así como los informes financieros del ejercicio del año anterior auditados por contador público certificado y el informe general de campañas y precampañas, en la parte relativa al monto, origen, aplicación y destino de recursos de precampaña, junto con la relación de aportantes que presenten los partidos, alianzas, coaliciones y candidatos independientes;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+I.- Recibir en las fechas señaladas en el Código los informes semestrales de ingresos y egresos, de situación patrimonial y de origen y aplicación de los recursos por transferencia de dirigencias nacionales, así como los informes financieros del ejercicio del año anterior auditados por contador público certificado y el informe general de campañas y precampañas, en la parte relativa al monto, origen, aplicación y destino de recursos de precampaña, junto con la relación de aportantes que presenten los partidos, alianzas y coaliciones;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], B.O. 19 DE FEBRERO DE 2009)</small>
 
 II.- Verificar y revisar los informes señalados en la fracción anterior, dentro de los plazos y conforme el procedimiento previsto por el Código;
 
-III.- Tomar en cuenta los informes de la Comisión de Monitoreo de Medios Masivos de Comunicación sobre la utilización que partidos, alianzas, coaliciones, sus candidatos o precandidatos o, en su caso, candidatos independientes, hicieren de tales medios;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
 
-IV.- Requerir a los partidos, alianzas, coaliciones o, en su caso, a los candidatos independientes, por la presentación de aclaraciones, rectificaciones o documentos, cuando se advierta alguna irregularidad en los informes;
+III.- Tomar en cuenta los informes de la Comisión de Monitoreo de Medios de Comunicación sobre la utilización que partidos, alianzas, coaliciones, sus candidatos o precandidatos, hicieren de tales medios;
 
-V.- Recibir de los partidos, alianzas, coaliciones o candidatos independientes la solventación de las observaciones requeridas;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
 
-VI.- Ordenar la práctica de auditorias cuando algún partido, alianza, coalición o candidato independiente omita la presentación de algún informe o cuando lo estime necesario, observando criterios objetivos emanados de las normas y procedimientos de auditoria, las que podrán ser parciales o totales, o de manera muestral en uno o varios rubros;
+IV.- Requerir a los partidos, alianzas o coaliciones por la presentación de aclaraciones, rectificaciones o documentos, cuando se advierta alguna irregularidad en los informes;
+
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+V.- Recibir de los partidos, alianzas o coaliciones la solventación de las observaciones requeridas;
+
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+VI.- Ordenar la práctica de auditorias cuando algún partido, alianza o coalición omita la presentación de algún informe o cuando lo estime necesario, observando criterios objetivos emanados de las normas y procedimientos de auditoria, las que podrán ser parciales o totales, o de manera muestral en uno o varios rubros;
 
 VII.- Llevar el procedimiento para las investigaciones de las quejas o denuncias que se presenten sobre el origen y la aplicación de los recursos de los partidos políticos, asociaciones políticas y coaliciones, en su caso;
 
@@ -421,13 +467,17 @@ VIII.- Elaborar y aprobar el dictamen que presentará a la consideración del Co
 
 IX.- Proponer las fechas de visitas de verificación a los partidos políticos con el fin de comprobar el cumplimiento de sus obligaciones y la veracidad de sus informes; a efecto de que en acuerdo administrativo se resuelva lo conducente.
 
-X.- Someter al Consejo, para su aprobación, lineamientos con bases técnicas para la presentación de los informes sobre el origen, montos, ingresos y egresos que realicen los partidos, alianzas, coaliciones, candidatos o precandidatos o, en su caso, candidatos independientes, relacionados con sus actividades ordinarias y las tendientes a la obtención del voto;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+X.- Someter al Consejo, para su aprobación, lineamientos con bases técnicas para la presentación de los informes sobre el origen, montos, ingresos y egresos que realicen los partidos, alianzas, coaliciones, candidatos o precandidatos, relacionados con sus actividades ordinarias y las tendientes a la obtención del voto;
 
 XI.- Diseñar y elaborar los formatos, instructivos, catálogo de cuentas y guía contabilizadora que deberá observarse para la presentación de los informes previstos por el Código y el presente Reglamento, con el fin de unificar criterios;
 
 XII.- Inscribir a las personas morales civiles mexicanas, con cláusula de exclusión de extranjeros, que en su objeto social tengan la autorización para aportar recursos para y durante las precampañas y campañas electorales;
 
-XIII.- Solicitar a las personas físicas y morales civiles que hayan extendido comprobantes de ingresos o egresos a los partidos, alianzas, coaliciones, precandidatos o candidatos independientes, que confirmen o rectifiquen las operaciones amparadas en dichos comprobantes;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+XIII.- Solicitar a las personas físicas y morales civiles que hayan extendido comprobantes de ingresos o egresos a los partidos, alianzas, coaliciones, precandidatos o candidatos, que confirmen o rectifiquen las operaciones amparadas en dichos comprobantes;
 
 XIV.- Recibir los informes del origen y aplicación de recursos que anualmente deben presentar las asociaciones políticas estatales;
 
@@ -439,15 +489,25 @@ XVII.- Hacer efectiva la garantía de audiencia al titular del órgano interno d
 
 XVIII.- En términos de la Ley de Acceso a la Información Pública del Estado de Sonora, solicitar a las unidades Administrativas y de Enlace del Consejo, la publicación de los informes presentados por los partidos políticos, así como el resultado de las auditorias y verificaciones que ordene sobre el manejo y la distribución de recursos públicos de los partidos, al concluir el proceso de fiscalización;
 
-XIX.- Recibir, anexo a los informes financieros en que se registre el gasto, las copias de los contratos que celebren los partidos, alianzas, coaliciones y candidatos independientes con los medios masivos de comunicación;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+XIX.- Recibir, anexo a los informes financieros en que se registre el gasto, las copias de los contratos que celebren los partidos, alianzas o coaliciones con los medios masivos de comunicación;
 
 XX.- Someter al Consejo, para su aprobación, la determinación de productos, actos y servicios que se considerarán gastos de campaña;
 
-XXI.- Las demás que le confiera el Código, el presente Reglamento y el Pleno del Consejo.
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+XXI.- Coordinarse con el Instituto Federal Electoral, mediante convenio público, en materia de fiscalización de las finanzas de los partidos, en los términos del penúltimo párrafo de la Base V del artículo 41 de la Constitución Federal;
+
+> <small>(ADICIONADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+XXII.- Las demás que le confiera el Código, el presente Reglamento y el Pleno del Consejo.
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 27.
 
-La Comisión de Fiscalización podrá proponer al Consejo, con base en la experiencia de las fiscalizaciones realizadas, las modificaciones, adecuaciones o reformas pertinentes a los lineamientos generales para el control y vigilancia del origen y aplicación de los recursos de los partidos políticos, alianzas, coaliciones, precandidatos, candidatos y candidatos independientes.
+La Comisión de Fiscalización podrá proponer al Consejo, con base en la experiencia de las fiscalizaciones realizadas, las modificaciones, adecuaciones o reformas pertinentes a los lineamientos generales para el control y vigilancia del origen y aplicación de los recursos de los partidos políticos, alianzas, coaliciones, precandidatos y candidatos.
 
 ###### ARTÍCULO 28.
 
@@ -457,11 +517,15 @@ Para el ejercicio de sus funciones, durante el proceso electoral y para la revis
 
 En las sesiones ordinarias del Consejo o reuniones de trabajo de la Comisión de Fiscalización, el Titular de la Dirección de Control Interno y Fiscalización y/o el auditor externo podrán participar, cuando sean requeridos por el pleno o la Comisión, para explicar asuntos técnicos.
 
-### CAPITULO X. DE LA COMISION ORDINARIA DE MONITOREO DE MEDIOS MASIVOS DE COMUNICACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 19 DE FEBRERO DE 2009)</small>
+
+### CAPITULO X. DE LA COMISION ORDINARIA DE MONITOREO DE MEDIOS DE COMUNICACIÓN
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 30.
 
-La Comisión de Monitoreo de los Medios Masivos de Comunicación tendrá como funciones principales, vigilar el cumplimiento de las disposiciones legales en materia de acceso y uso de los medios masivos de comunicación públicos y privados, por los partidos, alianzas, coaliciones, precandidatos, candidatos y candidatos independientes; y coadyuvar con la Comisión de Fiscalización en la cuantificación de los gastos relativos a la propaganda electoral en los medios masivos de comunicación.
+La Comisión de Monitoreo de los Medios de Comunicación tendrá como funciones principales, vigilar el cumplimiento de las disposiciones legales en materia de acceso y uso de los medios masivos de comunicación públicos y privados, por los partidos, alianzas, coaliciones, precandidatos y candidatos; y coadyuvar con la Comisión de Fiscalización en la cuantificación de los gastos relativos a la propaganda electoral en los medios masivos de comunicación.
 
 ###### ARTÍCULO 31.
 
@@ -473,23 +537,39 @@ II.- Someter al Consejo, para su aprobación, los lineamientos a que se sujetar�
 
 III.- Proponer la Convocatoria publica de licitación en coordinación con la Comisión de Administración, para contratación de empresas auxiliares externas; a efecto de que en acuerdo administrativo se resuelva lo conducente.
 
-IV.- Someter al Consejo, para su aprobación, los lineamientos que deberán observarse en los monitoreos de medios masivos de comunicación públicos y privados, tanto electrónicos como prensa escrita;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
 
-V.- Vigilar el cumplimiento de las disposiciones legales relacionadas con el acceso equitativo de los partidos a los medios masivos de comunicación en las modalidades de radio, televisión y prensa, así como el acceso proporcional a los medios masivos de comunicación públicos;
+IV.- Someter al Consejo, para su aprobación, los lineamientos que deberán observarse en los monitoreos de medios masivos de comunicación con influencia en el Estado, así como el monitoreo de sitios de internet, pantallas electrónicas y análogas, de igual forma el monitoreo de propagandas en vallas publicitarias, espectaculares y cualquier medio análogo;
 
-VI.- Proponer el proyecto de convenio a celebrarse con los medios masivos de comunicación públicos, a fin de acordar el tiempo y espacios de que dispondrán los partidos, alianzas, coaliciones, precandidatos, candidatos y candidatos independientes, determinando en anexos técnicos los horarios de transmisión; a efecto de que en acuerdo administrativo se resuelva lo conducente.
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
 
-VII.- Proponer los mecanismos a los que se sujetará el sorteo de asignación de tiempos y espacios de los partidos, alianzas, coaliciones, precandidatos, candidatos y candidatos independientes en medios masivos de comunicación públicos, procurando su instrumentación de acuerdo a la calendarización que previamente aprueben;
+V.- Vigilar el cumplimiento de lo dispuesto en la Base III del apartado B del artículo 41 de la Constitución Federal para el acceso a radio y televisión por los partidos políticos y el Consejo;
 
-VIII.- Revisar, verificar y dar cumplimiento a los convenios con los medios públicos de comunicación, que propicien mayor equidad y apertura en la contratación de espacios y cobertura informativa.
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+VI.- Celebrar convenios de colaboración con el Instituto Federal Electoral, para administrar, fiscalizar o monitorear el tiempo y espacios en radio y televisión de que dispondrán los partidos, alianzas o coaliciones como parte de sus prerrogativas.
+
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+VII.- Celebrar convenios con el Instituto Federal Electoral con la finalidad de acceder a espacios en radio y televisión, para la difusión de sus actividades;
+
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+VIII.- Verificar que el acceso a los medios públicos de comunicación, se de en los términos que señala el Código;
 
 IX.- Informar al Pleno del uso efectivo de tiempos y espacios dispuestos;
 
-X.- Informar a los partidos, alianzas, coaliciones precandidatos, candidatos y candidatos independientes, sobre los contenidos, características y tiempos de transmisión de sus programas;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
 
-XI.- Vigilar el cumplimiento de lo dispuesto por el Código, en todo lo relacionado a la propaganda electoral que desarrollen los partidos, alianzas, coaliciones, sus candidatos o precandidatos o, en su caso, candidatos independientes, con el fin de determinar los tiempos y espacios contratados y sus costos en los medios masivos de comunicación;
+X.- Informar a los partidos, alianzas, coaliciones precandidatos y candidatos, sobre los contenidos, características y tiempos de transmisión de sus programas;
 
-XII.- Formular las recomendaciones que estime convenientes para garantizar que partidos, alianzas, coaliciones, precandidatos, candidatos y candidatos independientes, al realizar la propaganda electoral, eviten cualquier difamación o calumnia que denigre a cualquiera de ellos, a instituciones o a terceros; y
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+XI.- Vigilar el cumplimiento de lo dispuesto por el Código, en todo lo relacionado a la propaganda electoral que desarrollen los partidos, alianzas, coaliciones, sus candidatos o precandidatos, con el fin de determinar los tiempos y espacios contratados y sus costos en los medios masivos de comunicación;
+
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+XII.- Formular las recomendaciones que estime convenientes para garantizar que partidos, alianzas, coaliciones, precandidatos y candidatos, al realizar la propaganda electoral, eviten cualquier difamación o calumnia que denigre cualquiera de ellos, a instituciones o a terceros; y
 
 XIII.- Las demás que le confiera el Código, el presente Reglamento y el Pleno del Consejo.
 
@@ -499,9 +579,11 @@ Para el ejercicio de sus funciones, durante el proceso electoral, la Comisión d
 
 ### CAPITULO XI. DE LA COMISIÓN DE ORGANIZACIÓN Y CAPACITACIÓN ELECTORAL
 
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 33.
 
-La Comisión de Organización y Capacitación Electoral tiene como funciones principales, la organización, funcionamiento y vigilancia de los Consejos Locales y las mesas directivas de casilla, a fin de procurar el adecuado desarrollo del proceso electoral en los municipios y secciones electorales del Estado; de la capacitación de los funcionarios electorales y de fomento de la participación y difusión de la cultura democrática electoral.
+La Comisión de Organización y Capacitación Electoral tiene como funciones principales, la organización, funcionamiento y vigilancia de los Consejos Distritales, Consejos Municipales y las mesas directivas de casilla, a fin de procurar el adecuado desarrollo del proceso electoral en los distritos, municipios y secciones electorales del Estado; de la capacitación de los funcionarios electorales y de fomento de la participación y difusión de la cultura democrática electoral.
 
 ###### ARTÍCULO 34.
 
@@ -511,9 +593,13 @@ I.- Proponer el plan integral para el proceso electoral; a efecto de que en acue
 
 II.- Vigilar que se cumplan las políticas y programas de la Dirección Ejecutiva de Organización y Logística Electoral;
 
-III.- Proponer, al Pleno, para su aprobación, previo acuerdo administrativo, la integración de los Consejos Locales;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
 
-IV.- Dar seguimiento a la integración y funcionamiento de los Consejos Locales, para que cumplan eficazmente con las disposiciones del Código;
+III.- Proponer, al Pleno, para su aprobación, previo acuerdo administrativo, la integración de los Consejos Distritales y los Consejos Municipales;
+
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+IV.- Dar seguimiento a la integración y funcionamiento de los Consejos Distritales y Municipales, para que cumplan eficazmente con las disposiciones del Código;
 
 V.- Generar e impulsar estrategias y propuestas que contribuyan a mejorar los procedimientos logísticos de organización electoral;
 
@@ -521,7 +607,9 @@ VI.- Someter al Consejo, para su aprobación, en coordinación con la Dirección
 
 VII.- Promover la actualización permanente de los sistemas de información electoral;
 
-VIII.- Recabar de los Consejos Locales copias certificadas de las actas de sesiones que celebren y de los demás documentos relacionados con el proceso electoral;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+VIII.- Recabar de los Consejos Distritales y Municipales, copias certificadas de las actas de sesiones que celebren y de los demás documentos relacionados con el proceso electoral;
 
 IX.- Proponer los contenidos y procedimientos necesarios para la elaboración de las estadísticas de las elecciones; a efecto de que en acuerdo administrativo se resuelva lo conducente.
 
@@ -541,9 +629,13 @@ III.- Supervisar y vigilar que se cumplan las políticas y programas de la Subdi
 
 IV.- Elaborar y rendir al Consejo los dictámenes derivados del ejercicio de sus funciones y someterlos a su aprobación.
 
-V.- Proponer la convocatoria, procedimientos y lineamientos para la selección y contratación de capacitadores y/o auxiliares electorales de los Consejos Locales; a efecto de que en acuerdo administrativo se resuelva lo conducente.
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
 
-VI.- Proponer la lista de capacitadores y auxiliares electorales que apoyarán a los Consejos Locales; a efecto de que en acuerdo administrativo se resuelva lo conducente.
+V.- Proponer la convocatoria, procedimientos y lineamientos para la selección y contratación de capacitadores y/o auxiliares electorales de los Consejos Distritales y Municipales; a efecto de que en acuerdo administrativo se resuelva lo conducente;
+
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+VI.- Proponer la lista de capacitadores y auxiliares electorales que apoyarán a los. Consejos Distritales y Municipales; a efecto de que en acuerdo administrativo se resuelva lo conducente;
 
 VII.- Proponer la realización de estudios para conocer las necesidades en materia de cultura político-electoral, a fin de instrumentar políticas, lineamientos y criterios de capacitación electoral y educación cívica; a efecto de que en acuerdo administrativo se resuelva lo conducente.
 
@@ -725,33 +817,47 @@ XI.- Las demás que le confieran las disposiciones legales aplicables y las que 
 
 En materia de Fiscalización le corresponde:
 
-I.- Elaborar programa anual de auditorias, revisiones a partidos, alianzas, coaliciones, precandidatos, candidatos y candidatos independientes y someterlas a consideración de la Comisión de Fiscalización;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+I.- Elaborar programa anual de auditorias, revisiones a partidos, alianzas, coaliciones, precandidatos y candidatos y someterlas a consideración de la Comisión de Fiscalización;
 
 II.- Establecer las bases generales para la realización de auditorias y someterla a autorización de la Comisión de Fiscalización;
 
-III.- Recibir semestralmente dentro de los plazos establecidos en el Código los informes que presenten los partidos, alianzas, coaliciones, precandidatos, candidatos y candidatos independientes;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
 
-IV.- Vigilar mediante la practica de de (sic) auditorias, que los partidos, alianzas, coaliciones, precandidatos, candidatos y candidatos independientes den cumplimiento a las disposiciones del Código en materia de origen, montos, ingresos y egresos del financiamiento público y privado que realicen con motivo de la operación ordinaria, así como por los procesos electorales en que participen;
+III.- Recibir semestralmente dentro de los plazos establecidos en el Código los informes que presenten los partidos, alianzas, coaliciones, precandidatos y candidatos;
+
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+IV.- Vigilar mediante la práctica de auditorias, que los partidos, alianzas, coaliciones, precandidatos y candidatos den cumplimiento a las disposiciones del Código en materia de origen, montos, ingresos y egresos del financiamiento público y privado que realicen con motivo de la operación ordinaria, así como por los procesos electorales en que participen;
 
 V.- Coordinarse con la Comisión de Monitoreo y Medios de Comunicación con el propósito de verificar el ejercicio del gasto que los partidos realicen en tales medios;
 
-VI.- Realizar las observaciones, sugerencias y recomendaciones a los partidos, alianzas, coaliciones, precandidatos, candidatos y candidatos independientes; con motivo de las auditorias y revisiones realizadas;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+VI.- Realizar las observaciones, sugerencias y recomendaciones a los partidos, alianzas, coaliciones, precandidatos y candidatos; con motivo de las auditorias y revisiones realizadas;
 
 VII.- Elaborar informe de resultado de auditorias realizadas y presentarlo a la Comisión de Fiscalización;
 
-VIII.- Requerir cuando sea necesario a los partidos, alianzas, coaliciones y candidatos independientes por la presentación de aclaraciones, rectificaciones o documentos, presentados para su revisión;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+VIII.- Requerir cuando sea necesario a los partidos, alianzas y coaliciones por la presentación de aclaraciones, rectificaciones o documentos presentados para su revisión;
 
 IX.- Analizar en Coordinación con la Comisión de Fiscalización las quejas o denuncias que se presenten sobre el origen y la aplicación de los recursos de los partidos políticos, asociaciones políticas y coaliciones, en su caso;
 
 X.- Elaborar el informe y el dictamen y turnarlo a la Comisión de Fiscalización para que esta lo presente a la consideración de (sic) pleno, de ser el caso mismo que deberá contener el resultado y las conclusiones de la revisión, proponiendo las sanciones que procedan;
 
-XI.- Emitir en coordinación con la Comisión de Fiscalización los lineamientos con bases técnicas para la presentación de los informes sobre el origen, montos, ingresos y egresos que realicen los partidos, alianzas, coaliciones, precandidatos y candidatos independientes, con motivo de la operación ordinaria, así como por los procesos electorales en que participen;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+XI.- Emitir en coordinación con la Comisión de Fiscalización los lineamientos con bases técnicas para la presentación de los informes sobre el origen, montos, ingresos y egresos que realicen los partidos, alianzas, coaliciones, precandidatos y candidatos, con motivo de la operación ordinaria, así como por los procesos electorales en que participen;
 
 XII.- Elaborar los formatos, instructivos, catálogo de cuentas y guía contabilizadora que deberá observarse para la presentación de informes previstos por el Código y el presente Reglamento, con el fin de unificar criterios;
 
 XIII.- Llevar un registro de las personas morales civiles mexicanas, con cláusula de exclusión de extranjeros, que en su objeto social tengan la autorización para aportar recursos para y durante las precampañas y campañas electorales;
 
-XIV.- Realizar las compulsas que sean necesarias, a personas físicas y morales civiles que hayan extendido comprobantes de ingresos o egresos a los partidos, alianzas, coaliciones, precandidatos o candidatos independientes, que confirmen o rectifiquen las operaciones amparadas en dichos comprobantes;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+XIV.- Realizar las compulsas que sean necesarias, a personas físicas y morales civiles que hayan extendido comprobantes de ingresos o egresos a los partidos, alianzas, coaliciones, precandidatos o candidatos, que confirmen o rectifiquen las operaciones amparadas en dichos comprobantes;
 
 XV.- Verificar que se reciban los informes del origen y aplicación de recursos que anualmente deben presentar las asociaciones políticas estatales;
 
@@ -763,9 +869,11 @@ XVIII.- Recibir en audiencia al titular del órgano interno de los partidos cuan
 
 XIX.- Verificar que las unidades Administrativas y de Enlace del Consejo, lleven a cabo la publicación de los informes presentados por los partidos políticos, así como el resultado de las auditorias y verificaciones que ordene sobre el manejo y la distribución de recursos públicos de los partidos, al concluir el proceso de fiscalización;
 
-XX.- Coordinarse con la Comisión de Fiscalización con el propósito de proponer, el monto del financiamiento público que se otorgue a los partidos políticos, y candidatos independientes, en su caso, así como los topes a los gastos de campaña para cada elección;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
 
-XXI.-Elaborar las medidas de carácter general y resolver los asuntos particulares de la Dirección que se presenten; y
+XX.- Coordinarse con la Comisión de Fiscalización con el propósito de proponer, el monto del financiamiento público que se otorgue a los partidos políticos, así como los topes a los gastos de campaña para elección;
+
+XXI.- Elaborar las medidas de carácter general y resolver los asuntos particulares de la Dirección que se presenten; y
 
 XXII.- Las demás que le confiera el presente Reglamento, otras disposiciones y el Pleno del Consejo.
 
@@ -797,17 +905,23 @@ VIII.- Asistir al Secretario en el resguardo e integración de los expedientes d
 
 IX.- Elaborar las certificaciones que expida el Secretario, cuando éste lo solicite;
 
-X.- Formular, Revisar y dar, en su caso, el visto bueno jurídico a los proyectos de contratos y demás documentos remitidos por las comisiones, direcciones ejecutivas y demás áreas del Consejo;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+X.- Formular, Revisar y dar, en su caso, la opinión jurídica de los proyectos de contratos y demás documentos remitidos por las comisiones, direcciones ejecutivas y demás áreas del Consejo;
 
 XI.- Conocer de los actos preparatorios y de las sesiones del Consejo, así como de la propia sesión y los acuerdos que ahí se tomen;
 
-XII.- Asesorar a los Presidentes y secretarios de los Consejos Locales, en los asuntos jurídicos que le competan;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+XII.- Asesorar a los Presidentes y secretarios de los Consejos Distritales y Municipales, en los asuntos jurídicos que le competan;
 
 XIII.- Avocarse a la tramitación y sustanciación de peticiones, consultas, quejas y denuncias relativas a la integración y funcionamiento de los organismos electorales, al desarrollo del proceso electoral y demás asuntos de competencia del Consejo;
 
 XIV.- Colaborar con las comisiones, direcciones ejecutivas y demás áreas del Consejo en la elaboración de informes, estudios, dictámenes y proyectos de acuerdos que sean sometidos a su consideración por el Secretario;
 
-XV.- Llevar el libro de registro de la Secretaría de los partidos políticos, sus directivos, sus comisionados ante los Consejos Locales y de los precandidatos, candidatos y candidatos independientes;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+XV.- Llevar el libro de registro de la Secretaría de los partidos políticos, sus directivos, sus comisionados ante los Consejos Distritales y Municipales y de los precandidatos y candidatos;
 
 XVI.- Coadyuvar con el Pleno, la Presidencia y la Secretaría del Consejo en el ejercicio de la representación legal del Consejo;
 
@@ -841,15 +955,23 @@ La Dirección Ejecutiva de Organización y Logística Electoral, tendrá en mate
 
 I.- Formular y proponer a la Comisión de Organización y Capacitación Electoral el plan integral para el proceso electoral que corresponda;
 
-II.- Planear, dirigir y supervisar los Programas de Organización Electoral, así como coordinar a través de los Consejeros electorales, los Consejos Locales y las actividades de Organización Electoral;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+II.- Planear, dirigir y supervisar los Programas de Organización Electoral, así como coordinar a través de los Consejeros electorales, los Consejos Distritales y Municipales, las actividades de Organización Electoral;
 
 III.- Dar cabal cumplimiento a las políticas y programas que por su competencia le sean asignadas por el Consejo y la Comisión de Organización y Capacitación Electoral;
 
-IV.- Auxiliar y dar cumplimiento a los programas y políticas ordenadas por el Consejo para la integración y funcionamiento de los Consejos Locales, verificando que cumplan eficazmente las disposiciones del Código;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
 
-V.- Coadyuvar con la Comisión de Organización y Capacitación Electoral, en la elaboración de los estudios sobre el establecimiento de oficinas municipales del Consejo para someter a la consideración y aprobación del Consejo;
+IV.- Auxiliar y dar cumplimiento a los programas y políticas ordenadas por el Consejo para la integración y funcionamiento de los Consejos Distritales y Municipales, verificando que cumplan eficazmente las disposiciones del Código;
 
-VI.- Formular y someter a autorización el programa de visitas de supervisión a los Consejos locales de los municipios de la entidad;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+V.- Coadyuvar con la Comisión de Organización y Capacitación Electoral, en la elaboración de los estudios sobre el establecimiento de oficinas distritales y municipales del Consejo para someter a la consideración y aprobación del Consejo;
+
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+VI.- Formular y someter a autorización el programa de visitas de supervisión a los Consejos Distritales y Municipales de la entidad;
 
 VII.- Generar, proponer e impulsar estrategias y propuestas que contribuyan a mejorar los procedimientos logísticos de organización electoral;
 
@@ -857,15 +979,23 @@ VIII.- Elaborar en coordinación con la Dirección Ejecutiva de Asuntos Jurídic
 
 IX.- Promover la actualización permanente de los sistemas de información electoral;
 
-X.- Supervisar y coordinar a través del Presidente de la Comisión de Organización y Capacitación Electoral las actividades en materia de Organización Electoral de las oficinas municipales que se establezcan;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
 
-XI.- Recabar de los Consejos Locales copias certificadas de las actas de sesiones que celebren y de los demás documentos relacionados con el proceso electoral;
+X.- Supervisar y coordinar a través del Presidente de la Comisión de Organización y Capacitación Electoral las actividades en materia de Organización Electoral de las oficinas distritales y municipales que se establezcan;
+
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+XI.- Recabar de los Consejos Distritales y Municipales copias certificadas de las actas de sesiones que celebren y de los demás documentos relacionados con el proceso electoral;
 
 XII.- Elaborar, recabar e integrar los contenidos y procedimientos necesarios para la formulación de la estadística de resultados electorales;
 
-XIII.- Recabar, en su caso, de los Consejos Locales la documentación relacionada con el proceso electoral;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
 
-XIV.- Elaborar el Programa calendarizado de actividades y eventos relacionados con el proceso electoral en los municipios de la entidad;
+XIII.- Recabar, en su caso, de los Consejos Distritales y Municipales la documentación relacionada con el proceso electoral;
+
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+XIV.- Elaborar el Programa calendarizado de actividades y eventos relacionados con el proceso electoral en los distritos y municipios de la entidad;
 
 XV.- Proponer a la Comisión de Organización y Capacitación Electoral y al Consejo el programa de resultados electorales preliminares de las elecciones; y
 
@@ -893,7 +1023,9 @@ VI.- Las demás que le sean encomendadas por la Comisión de Organización y Cap
 
 La Dirección Ejecutiva de Capacitación y Educación Cívica, tendrá las siguientes funciones:
 
-I.- Elaborar, supervisar y vigilar que se cumplan las políticas y programas de la de la (sic) Dirección Ejecutiva de Capacitación y Educación Cívica relativas a los programas aprobados en acuerdo administrativo;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+I.- Elaborar, supervisar y vigilar que se cumplan las políticas y programas de la de la Dirección Ejecutiva de Capacitación y Educación Cívica relativas a los programas aprobados en acuerdo administrativo;
 
 II.- Elaborar el material didáctico y los instructivos electorales, así como los programas de promoción del voto y de capacitación;
 
@@ -905,7 +1037,9 @@ V.- Elaborar y proponer al Pleno los lineamientos a que se sujetará el proceso 
 
 VI.- Elaborar y proponer a la Comisión de Organización y Capacitación Electoral, la convocatoria, procedimientos y lineamientos para la selección y contratación de capacitadores y auxiliares electorales que se requieran en los procesos electorales; para el efecto de que en acuerdo administrativo se resuelva lo conducente;
 
-VII.- Proponer a la Comisión de Organización y Capacitación Electoral, la lista de capacitadores y auxiliares electorales que apoyarán a los Consejos Locales; a efecto de que en acuerdo administrativo se resuelva lo conducente;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+VII.- Proponer a la Comisión de Organización y Capacitación Electoral, la lista de capacitadores y auxiliares electorales que apoyarán a los Consejos Distritales y Municipales; a efecto de que en acuerdo administrativo se resuelva lo conducente;
 
 VIII.- Proponer a la Comisión de Organización y Capacitación Electoral, la realización de estudios para conocer las necesidades en materia de cultura político-electoral y así tener la posibilidad de sugerir políticas, lineamientos y criterios de capacitación electoral y educación cívica; a efecto de que en acuerdo administrativo se resuelva lo conducente;
 
@@ -929,7 +1063,9 @@ II.- Integrar el anteproyecto y proyecto de presupuesto de egresos del Consejo, 
 
 III.- Vigilar el ejercicio del presupuesto autorizado al Consejo, de conformidad con las normas y lineamientos establecidos y por la Comisión de Administración;
 
-IV.- Proponer a la Comisión de Administración a la (sic) Analizar las modificaciones y transferencias presupuéstales que sean necesarias;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+IV.- Proponer a la Comisión de Administración las modificaciones y transferencias presupuéstales que sean necesarias;
 
 V.- Integrar y evaluar la información mensual y trimestral del avance de metas de los programas a cargo del Consejo y de los recursos presupuéstales asignados;
 
@@ -955,7 +1091,9 @@ XV.- Operar un sistema de control de disponibilidades de fondos, cuidando la cap
 
 XVI.- Dar cumplimiento oportuno de las obligaciones de pago a cargo del Consejo en materia de gasto conforme al presupuesto de egresos;
 
-XVII.- Verificar que las aportaciones que el financiamiento público que el Consejo deba ministrar a los partidos políticos, alianzas, coaliciones, candidatos independientes o para la realización de obras y programas, se hagan de acuerdo a los lineamientos emitidos o a los convenios que celebre el Consejo;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+XVII.- Verificar que las aportaciones que el financiamiento público que el Consejo deba ministrar a los partidos políticos, alianzas o coaliciones, o para la realización de obras y programas, se hagan de acuerdo a los lineamientos emitidos o a los convenios que celebre el Consejo;
 
 XVIII.- Controlar los movimientos necesarios con las instituciones bancarias relativos a traspasos, retiros de inversiones, depósitos y otros, con base en los requerimientos y políticas dictadas por la Comisión de Administración;
 
@@ -1029,11 +1167,15 @@ V.- Una vez recabada la votación, el Secretario dará cuenta con el resultado, 
 
 VI.- Llevada a cabo la designación se procederá a tomar la protesta de Ley, procediendo de inmediato a iniciar el ejercicio de sus funciones.
 
-### CAPITULO XXI. PROCEDIMIENTO DE INTEGRACIÓN, ELECCION DEL PRESIDENTE Y DESIGNACION DEL SECRETARIO Y DE LOS CONSEJOS LOCALES
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 19 DE FEBRERO DE 2009)</small>
+
+### CAPITULO XXI. PROCEDIMIENTO DE INTEGRACIÓN, ELECCION DEL PRESIDENTE Y DESIGNACION DEL SECRETARIO Y DE LOS CONSEJOS DISTRITALES Y MUNICIPALES
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 59.
 
-Corresponde al Consejo la designación de los Consejeros de los Consejos Locales, debiendo observar los principios de paridad y alternancia de género en su integración con base a lo que establecen los artículos 22 de la Constitución Local, y 98 fracción XVIII y 99 del Código.
+Corresponde al Consejo la designación de los Consejeros de los Consejos Distritales y Municipales, debiendo observar los principios de paridad y alternancia de género en su integración con base a lo que establecen los artículos 22 de la Constitución Local, y 98 fracción XVIII y 99 del Código.
 
 ###### ARTÍCULO 60.
 
@@ -1047,47 +1189,69 @@ III.- Una vez recibidas las solicitudes, el Consejo realizará una auscultación
 
 IV.- Una vez realizado el procedimiento a que se refieren las fracciones anteriores, el Consejo, dará a conocer con cinco días de anticipación a su designación las propuestas, con la finalidad de que los partidos políticos a través de sus comisionados, dentro de dicho término, puedan formular las objeciones que estimen pertinentes.
 
-V.- Una vez formuladas las objeciones correspondientes, el Consejo resolverá lo conducente y procederá en términos del artículo 99 del Código a la designación de los Consejeros que integraran los Consejos Locales para lo cual deberá convocar a sesión.
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
 
-Hecha la designación, se publicará (sic) los nombres de los Consejeros Locales designados, en los medios de comunicación que se estimen pertinentes.
+V.- Una vez formuladas las objeciones correspondientes, el Consejo resolverá lo conducente y procederá en términos del artículo 99 del Código a la designación de los Consejeros que integraran los Consejos Distritales y Municipales para lo cual deberá convocar a sesión.
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
+
+Hecha la designación, se publicará (sic) los nombres de los Consejeros Distritales y Municipales designados, en los medios de comunicación que se estimen pertinentes.
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 61.
 
-El Presidente del Consejo convocará a los Consejeros Locales designados, para que, previa a la instalación formal del organismo, y una vez que se les haya tomado la protesta de ley, procedan a la elección del Presidente en términos del artículo 104 del Código.
+El Presidente del Consejo convocará a los Consejeros Distritales y Municipales designados, para que, previa a la instalación formal del organismo, y una vez que se le haya tomado la protesta de ley, procedan a la elección del Presidente en términos de los artículos 101 bis, y 103 del Código.
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 62.
 
-De conformidad con el artículo 108 del Código Electoral los Consejos Locales deberán instalarse a más tardar el 15 de febrero del año de la elección.
+De conformidad con los artículos 101 bis 6 y 108 del Código Electoral los Consejos Distritales y Municipales deberán instalarse a más tardar el 15 de febrero del año de la elección.
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 63.
 
-Una vez instalado formalmente el Consejo Local, el Presidente electo en ejercicio de la atribución señalada en el artículo 112 fracción VI del Código, propondrá inmediatamente al Consejo una terna para la designación del Secretario.
+Una vez instalados formalmente los Consejos Distritales y Municipales, el Presidente electo en cada organismo en ejercicio de la atribución señalada en los artículos 101 bis 9, fracción VI y 112 fracción VI del Código, propondrá inmediatamente al Consejo una terna para la designación del Secretario.
 
-### CAPITULO XXII. DE LA SUSTITUCIÓN DE LOS CONSEJEROS LOCALES
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 19 DE FEBRERO DE 2009)</small>
+
+### CAPITULO XXII. DE LA SUSTITUCIÓN DE LOS CONSEJEROS DISTRITALES Y MUNICIPALES
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 64.
 
-Los Consejeros Locales Propietarios, solo pueden ser sustituidos por fallecimiento, incapacidad física o mental, remoción o renuncia, por los Consejeros suplentes comunes, en la forma y términos que determine el Consejo.
+Los Consejeros Distritales o Municipales Propietarios, solo pueden ser sustituidos por fallecimiento; incapacidad física o mental, remoción o renuncia, por los Consejeros suplentes comunes, en la forma y términos que determine el Consejo.
 
-Lo anterior, deberá de notificarse por conducto del Secretario al Consejo Local.
+Lo anterior, deberá de notificarse por conducto del Secretario al Consejo Distrital o Municipal correspondiente.
 
 ### CAPITULO XXIII. DE LAS SESIONES
 
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 65.
 
-Las sesiones del Consejo y de los Consejos Locales serán públicas, las cuales podrán ser de carácter ordinarias y extraordinarias, tal y como lo establece el articulo 82 del Código.
+Las sesiones del Consejo y de los Consejos Distritales y Municipales serán públicas, las cuales podrán ser de carácter ordinarias y extraordinarias, tal y como lo establece el articulo 82 del Código.
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 66.
 
-El Consejo y los consejos electorales no podrán realizar sus sesiones sin la concurrencia de la mayoría de sus Consejeros, en la forma y términos establecida en el Código.
+El Consejo y los consejos Distritales y Municipales no podrán realizar sus sesiones sin la concurrencia de la mayoría de sus Consejeros, en la forma y términos establecida en el Código.
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ### CAPITULO XXIV
 
-DE LAS ATRIBUCIONES EN LAS SESIONES, DEL PRESIDENTE, DEL PRESIDENTE DEL CONSEJO LOCAL, DE LOS CONSEJEROS, DE LOS CONSEJEROS LOCALES, DE LOS COMISIONADOS Y DEL SECRETARIO Y DEL SECRETARIO DEL CONSEJO LOCAL
+DE LAS ATRIBUCIONES EN LAS SESIONES, DEL PRESIDENTE, DEL PRESIDENTE DEL CONSEJO DISTRITAL O MUNICIPAL, DE LOS CONSEJEROS, DE LOS CONSEJEROS DISTRITALES O MUNICIPALES, DE LOS COMISIONADOS Y DEL SECRETARIO Y DE LOS SECRETARIOS DE LOS CONSEJOS DISTRITALES Y MUNICIPALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 67.
 
-Durante la sesión respectiva, el Presidente y el Presidente del Consejo Local, tendrán las siguientes atribuciones:
+Durante la sesión respectiva, el Presidente y los Presidentes de los Consejos Distritales y Municipales, tendrán siguientes atribuciones:
 
 I.- Presidir y participar en las sesiones;
 
@@ -1099,7 +1263,9 @@ IV.- Conceder el uso de la palabra, de acuerdo a este reglamento;
 
 V.- Consultar si los temas del orden del día han sido suficientemente discutidos;
 
-VI.- Ordenar al Secretario o al Secretario del Consejo Local, según sea el caso, que someta a votación los proyectos de acuerdos y resoluciones;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+VI.- Ordenar al Secretario o al Secretario del Consejo Distrital o Municipal, según sea el caso, que someta a votación los proyectos de acuerdos y resoluciones;
 
 VII.- Garantizar el orden en las sesiones;
 
@@ -1109,31 +1275,43 @@ IX.- Tomar las previsiones necesarias y dar seguimiento al cumplimiento de los a
 
 X.- Ejercer voto de calidad cuando se produzca un empate en las votaciones.
 
-XI.- Ordenar al Secretario o al Secretario del Consejo Local, según sea el caso, que expida las certificaciones que soliciten los partidos, alianza, coaliciones o en su caso candidatos independientes en su caso.
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+XI.- Ordenar al Secretario o al Secretario del Consejo Distrital o Municipal, según sea el caso, que expida las certificaciones que soliciten los partidos, alianzas o coaliciones;
 
 XII.- Proponer, para su aprobación, la ampliación del tiempo de duración de la sesión; y
 
 XIII.- Las demás que le otorgue el Código y este reglamento, o las que se deriven de la naturaleza de sus funciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 68.
 
-Los Consejeros y Consejeros Locales, en el desarrollo de las sesiones respectivas, tendrán las siguientes atribuciones:
+Los Consejeros y Consejeros Distritales o Municipales en el desarrollo de las sesiones respectivas, tendrán las siguientes atribuciones:
 
 I.- Concurrir, participar en las deliberaciones y votar en las sesiones.
 
-II.- Integrar el pleno del Consejo o del Consejo Local, según sea el caso, para resolver colegiadamente los asuntos de su competencia;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
 
-III.- Solicitar al Secretario o al Secretario del Consejo Local, según sea el caso, de conformidad con las reglas establecidas en este reglamento, la inclusión de algún asunto en el orden del día;
+II.- Integrar el pleno del Consejo o del Consejo Distrital o Municipal, según sea el caso, para resolver colegiadamente los asuntos de su competencia;
+
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+III.- Solicitar al Secretario o al Secretario del Consejo Distrital o Municipal, según sea el caso, de conformidad con las reglas establecidas en este reglamento, la inclusión de algún asunto en el orden del día;
 
 IV.- Integrar las comisiones del Consejo en ejercicio de sus atribuciones conforme al Código y este reglamento; y
 
 V.- Las demás que le otorgue el Código y este Reglamento, o las que se deriven de la naturaleza de sus funciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 69.
 
-Los Comisionados de los partidos Políticos, alianzas y coaliciones o en su caso, de los candidatos independientes, tendrán las siguientes atribuciones:
+Los Comisionados de los partidos Políticos, alianzas y coaliciones, tendrán las siguientes atribuciones:
 
-I.- Integrar el Consejo o el Consejo Local, según sea el caso:
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+I.- Integrar el Consejo o el Consejo Distrital o Municipal, según sea el caso;
 
 II.- Presentar propuestas o iniciativas, las que deberán ser resueltas conforme a las disposiciones del Código;
 
@@ -1147,97 +1325,141 @@ VI.- Formar parte de las comisiones especiales que se determine integrar por el 
 
 VII.- Las demás que le otorgue el Código Electoral y este Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 70.
 
-El Secretario y el Secretario del Consejo Local, según sea el caso, tendrán en las sesiones respectivas, las siguientes atribuciones:
+El Secretario y el Secretario del Consejo Distrital o Municipal, según sea el caso, tendrán en las sesiones respectivas, las siguientes atribuciones:
 
 I.- Preparar el orden del día de las sesiones;
 
-II.- Cuidar que se reproduzcan y circulen con toda oportunidad entre los integrantes del Consejo o del Consejo Local, según sea el caso, los documentos y anexos necesarios para el estudio y discusión de los asuntos contenidos en el orden del día; salvo los proyectos de resolución, los cuales serán distribuidos hasta el momento de su desahogo, durante el desarrollo de la sesión de que se trate.
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
 
-III.- Verificar la asistencia de los integrantes del Consejo o del Consejo Local, según sea el caso, y llevar el registro de ella;
+II.- Cuidar que se reproduzcan y circulen con toda oportunidad entre los integrantes del Consejo, del Consejo Distrital o Municipal, según sea el caso, los documentos y anexos necesarios para el estudio y discusión de los asuntos contenidos en el orden del día; salvo los proyectos de resolución, los cuales serán distribuidos hasta el momento de su desahogo, durante el desarrollo de la sesión de que se trate;
+
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+III.- Verificar la asistencia de los integrantes del Consejo, del Consejo Distrital o Municipal, según sea el caso, y llevar el registro de ella;
 
 IV.- Declarar la existencia del quórum legal;
 
-V.- Levantar el acta de la sesión y someterla a la aprobación del Consejo o del Consejo Local, según sea el caso. La cual será elaborada con base en la grabación del audio o video de la sesión correspondiente, en su caso, tomando en cuenta las observaciones realizadas. El acta contendrá los acuerdos que se hayan tomado y una síntesis de las distintas intervenciones;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
 
-VI.- Dar cuenta con los escritos presentados al Consejo o al Consejo Local, según sea el caso;
+V.- Levantar el acta de la sesión y someterla a la aprobación del Consejo, del Consejo Distrital o Municipal, según sea el caso. La cual será elaborada con base en la grabación del audio o video de la sesión correspondiente, en su caso, tomando en cuenta las observaciones realizadas. El acta contendrá los acuerdos que se hayan tomado y una síntesis de las distintas intervenciones;
+
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+VI.- Dar cuenta con los escritos presentados al Consejo, al Consejo Distrital o Municipal, según sea el caso;
 
 VII.- Tomar las votaciones y dar a conocer el resultado de las mismas;
 
-VIII.- Informar sobre el cumplimiento de los acuerdos y resoluciones que emita el Consejo o del Consejo Local, según sea el caso;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
 
-IX.- Firmar, junto con el Presidente, todos los acuerdos y resoluciones que emita el Consejo o del Consejo Local, según sea el caso;
+VIII.- Informar sobre el cumplimiento de los acuerdos y resoluciones que emita el Consejo, o bien los Consejos Distritales o Municipales, según sea el caso;
 
-X.- Llevar el archivo del Consejo o del Consejo Local, según sea el caso, y el registro de las actas, acuerdos y resoluciones aprobados;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+IX. Firmar, junto con el Presidente, todos los acuerdos y resoluciones que emita el Consejo o los Consejos Distritales o Municipales, según sea el caso;
+
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+X.- Llevar el archivo del Consejo o de los Consejos Distritales o Municipales, según sea el caso, y el registro de las actas, acuerdos y resoluciones aprobados;
 
 XI.- Dar fe de lo actuado en las sesiones;
 
-XII.- Expedir las certificaciones que le soliciten los partidos políticos, alianzas, coaliciones, o en su caso candidatos independientes, por conducto de sus comisionados; y
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+XII.- Expedir las certificaciones que le soliciten los partidos políticos, alianzas y coaliciones, por conducto de sus comisionados;
 
 XIII.- Las demás que le otorgue el Código, este Reglamento, el Consejo o su Presidente.
 
 ### CAPITULO XXV. DE LOS TIPOS DE SESIONES, SU DURACIÓN Y LUGAR
 
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 71.
 
-Las sesiones del Consejo o del Consejo Local, según sea el caso, podrán ser ordinarias o extraordinarias.
+Las sesiones del Consejo o de los Consejos Distritales o Municipales, según sea el caso, podrán ser ordinarias o extraordinarias.
 
-I.- Son ordinarias aquellas sesiones que de acuerdo con los artículos 96 y 108 del Código, deben celebrarse por lo menos una vez al mes, desde la instalación del Consejo o del Consejo Local, según sea el caso.
+I.- Son ordinarias aquellas sesiones que de acuerdo con los artículos 96,101 bis 6 y 108 del Código, deben celebrarse por lo menos una vez al mes, desde la instalación del Consejo o de los Consejos Distritales o Municipales, según sea el caso.
 
-II.- Son extraordinarias aquellas que se celebren con tal carácter y que por la urgencia deban de celebrarse antes de las fechas de las sesiones ordinarias, para lo cual el Presidente o el Presidente del Consejo Local, según sea el caso, deberá de convocar cuando menos con seis horas de anticipación a su celebración.
+II.- Son extraordinarias aquellas que se celebren con tal carácter y que por la urgencia deban de celebrarse antes de las fechas de las sesiones ordinarias, para lo cual el Presidente o el Presidente del Consejo Distrital o Municipal, según sea el caso, deberá de convocar cuando menos con seis horas de anticipación a su celebración.
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 72.
 
-Duración de las sesiones. El tiempo límite para la duración de las sesiones será de tres horas. No obstante, los Consejeros o Consejeros Local (sic), podrán decidir sin debate, al concluir el punto respectivo, prolongarlas con el acuerdo de la mayoría. En su caso, después de cada tres horas de prolongada la sesión, al concluir el punto respectivo, los Consejeros o Consejeros Locales, podrán decidir su continuación, siguiendo el mismo procedimiento. Aquellas sesiones que sean suspendidas serán citadas para su continuación dentro de las 24 horas siguientes a su suspensión, sin perjuicio de que se acuerde otro plazo para su reanudación.
+Duración de las sesiones. El tiempo límite para la duración de las sesiones será de tres horas. No obstante, los Consejeros o Consejeros Distritales o Municipales, podrán decidir sin debate, al concluir el punto respectivo, prolongarlas con el acuerdo de la mayoría. En su caso, después de cada tres horas de prolongada la sesión, al concluir el punto respectivo, los Consejeros o Consejeros Distritales o Municipales, podrán decidir su continuación, siguiendo el mismo procedimiento. Aquellas sesiones que sean suspendidas serán citadas para su continuación dentro de las 24 horas siguientes a su suspensión, sin perjuicio de que se acuerde otro plazo para su reanudación.
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 73.
 
-Sesión permanente. El Consejo o el Consejo Local, se declarará en sesión permanente en los casos previstos por el Código y cuando así lo estime pertinente. En las sesiones permanentes no operará el límite de tiempo establecido en el párrafo anterior y el Presidente o el Presidente del Consejo Local, previa consulta con los Consejeros o Consejeros Locales, podrá declarar las suspensiones o recesos que fueren necesarios.
+Sesión permanente. El Consejo o los Consejos Distritales o Municipales, se declararán en sesión permanente en los casos previstos por el Código y cuando así lo estime pertinente. En las sesiones permanentes no operará el límite de tiempo establecido en el párrafo anterior y el Presidente o los Presidentes de los Consejos Distritales o Municipales, previa consulta con los Consejeros o Consejeros Distritales o Municipales, podrá declarar las suspensiones o recesos que fueren necesarios.
 
-###### ARTICULO 74.
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
-Lugar de celebración de las sesiones. Las sesiones se llevarán a cabo en las oficinas del Consejo o Consejo Local, salvo que por causas de fuerza mayor o caso fortuito, en la convocatoria correspondiente se señale un lugar distinto para su celebración. Por las mismas causas podrá continuarse en distinto lugar la sesión que hubiere sido suspendida.
+###### ARTÍCULO 74.
+
+Lugar de celebración de las sesiones. Las sesiones se llevarán a cabo en las oficinas del Consejo o Consejo Distrital o Municipal, salvo que por causas de fuerza mayor o caso fortuito, en la convocatoria correspondiente se señale un lugar distinto para su celebración. Por las mismas causas podrá continuarse en distinto lugar la sesión que hubiere sido suspendida.
 
 ### CAPITULO XXVI. DE LA CONVOCATORIA DE LAS SESIONES
 
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 75.
 
-Celebración de las sesiones ordinarias. Para la celebración de las sesiones ordinarias del Consejo o Consejo Local, el Presidente o Presidente del Consejo Local, deberá convocar por escrito a cada uno de los Consejeros o Consejeros Locales y comisionados por lo menos con veinticuatro horas de anticipación a la fecha y hora que se fije para la celebración de la sesión.
+Celebración de las sesiones ordinarias. Para la celebración de las sesiones ordinarias del Consejo o Consejos Distritales o Municipales, el Presidente o Presidente de los Consejos Distritales o Municipales, deberá convocar por escrito a cada uno de los Consejeros o Consejeros Distritales o Municipales y comisionados por lo menos con veinticuatro horas de anticipación a la fecha y hora que se fije para la celebración de la sesión.
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 76.
 
-Convocatoria sesión extraordinaria. Tratándose de las sesiones extraordinarias, la convocatoria mencionada en el párrafo anterior, deberá realizarse por lo menos con seis horas de anticipación. Sin embargo, en aquellos casos que el Presidente o el Presidente del Consejo Local, considere de extrema urgencia o gravedad, podrá convocar a sesión extraordinaria fuera del plazo señalado.
+Convocatoria sesión extraordinaria. Tratándose de las sesiones extraordinarias, la convocatoria mencionada en el párrafo anterior, deberá realizarse por lo menos con seis horas de anticipación. Sin embargo, en aquellos casos que el Presidente o el Presidente de los Consejos Distritales o Municipales, considere de extrema urgencia o gravedad, podrá convocar a sesión extraordinaria fuera del plazo señalado.
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 77.
 
-Notificación de la convocatoria. Los integrantes del Consejo o Consejo Local, deberán designar un domicilio para recibir notificaciones dentro de la capital del Estado, en el caso del Consejo Estatal, y en la cabecera municipal correspondiente, en el caso de los Consejos locales. Asimismo, deberán proporcionar su número de fax o dirección electrónica, en caso de contar con dichos medios. La notificación de la convocatoria se realizará en el domicilio señalado, entendiéndose la diligencia con cualquiera persona que se encuentre en el domicilio. En caso de que el domicilio señalado por los integrantes del Consejo o Consejo Local, para recibir notificaciones no exista o el funcionario encargado de la notificación -que podrá ser cualquiera que decida el Presidente o Presidente del Consejo Local- sea informado por los ocupantes del mismo, que no corresponde al integrante que lo señaló, se levantará constancia y la notificación se realizará solamente por estrados. En caso de que el domicilio se encuentre cerrado, se dejará cédula que se colocará en la entrada principal del lugar, levantándose constancia.
+Notificación de la convocatoria. Los integrantes Consejo o Consejos Distritales o Municipales, deberán designar un domicilio para recibir notificaciones dentro de la capital del Estado, en el caso del Consejo Estatal, y en la cabecera distrital o municipal correspondiente.
 
-###### ARTICULO 78.
+Asimismo, deberán proporcionar su número de fax o dirección electrónica, en caso de contar con dichos medios. La notificación de la convocatoria se realizará en el domicilio señalado, entendiéndose la diligencia con cualquiera persona que se encuentre en el domicilio. En caso de que el domicilio señalado por los integrantes del Consejo o Consejos Distritales o Municipales, para recibir notificaciones no exista o el funcionario encargado de la notificación que podrá ser cualquiera que decida el Presidente o Presidente del Consejo Distrital o Municipal sea informado por los ocupantes del mismo, que no corresponde al integrante que lo señaló, se levantará constancia y la notificación se realizará solamente por estrados. En caso de que el domicilio se encuentre cerrado, se dejará cédula que se colocará en la entrada principal del lugar, levantándose constancia.
+
+###### ARTÍCULO 78.
 
 Contenido de la convocatoria y del orden del día.
 
-I.- La convocatoria a sesión deberá contener la fecha, hora y lugar en que deba celebrarse, la mención de ser ordinaria o extraordinaria, así como el orden del día. De ser posible, a dicha convocatoria se acompañarán los documentos y anexos necesarios para el análisis de los puntos a tratarse en la sesión correspondiente, para que los integrantes del Consejo o Consejo Local cuenten con información suficiente y oportuna. Salvo los proyectos de resolución, los cuales serán distribuidos, durante el desarrollo de la sesión de que se trate.
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
 
-II.- En las sesiones ordinarias, los Consejeros, Consejeros Locales, y Comisionados podrán solicitar al Presidente tratar en "Asuntos Generales" la discusión de puntos que no requieran examen previo de documentos, o que sean de obvia y urgente resolución. El Presidente o el Presidente del Consejo Local, consultará a los Consejeros o Consejeros Locales, inmediatamente después de la aprobación del último punto del orden del día, si existen "Asuntos Generales", solicitando en ese segundo momento se indique el tema correspondiente, a fin de que, una vez registrados, el Secretario o el Secretario del Consejo Local, dé cuenta de ellos al Consejo o Consejo Local. El Presidente o Presidente del Consejo Local, someterá dichas solicitudes a la aprobación de los Consejeros o Consejeros Locales, para que decidan, sin debate, sobre su aprobación.
+I.- La convocatoria a sesión deberá contener la fecha, hora y lugar en que deba celebrarse, la mención de ser ordinaria o extraordinaria, así como el orden del día. De ser posible, a dicha convocatoria se acompañarán los documentos y anexos necesarios para el análisis de los puntos a tratarse en la sesión correspondiente, para que los integrantes del Consejo o Consejos Distritales o Municipales, cuenten con información suficiente y oportuna. Salvo los proyectos de resolución, los cuales serán distribuidos, durante el desarrollo de la sesión de que se trate.
+
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+II.- En las sesiones ordinarias, los Consejeros, Consejeros Distritales o Municipales, y Comisionados podrán solicitar al Presidente tratar en "Asuntos Generales" la discusión de puntos que no requieran examen previo de documentos, o que sean de obvia y urgente resolución. El Presidente o el Presidente del Consejo Distrital o Municipal, consultará a los Consejeros o Consejeros Distritales o Municipales, inmediatamente después de la aprobación del último punto del orden del día, si existen "Asuntos Generales", solicitando en ese segundo momento se indique el tema correspondiente, a fin de que, una vez registrados, el Secretario o el Secretario del Consejo Distrital o Municipal, dé cuenta de ellos al Consejo o Consejo Distrital o Municipal. El Presidente o Presidente del Consejo Distrital o Municipal, someterá dichas solicitudes a la aprobación de los Consejeros o Consejeros Distritales o Municipales, para que decidan, sin debate, sobre su aprobación.
 
 ### CAPITULO XXVII. DE LA INSTALACIÓN Y DESARROLLO DE LA SESIÓN
 
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 79.
 
-Instalación de la sesión. El día fijado para la sesión se reunirán en el lugar destinado para tal efecto y tomarán lugar en la mesa los integrantes del Consejo o Consejo Local. El Presidente o Presidente del Consejo Local, declarará instalada la sesión, previa verificación de asistencia y certificación de la existencia del quórum legal por parte del Secretario o Secretario del Consejo Local.
+Instalación de la sesión. El día fijado para la sesión se reunirán en el lugar destinado para tal efecto y tomarán lugar en la mesa los integrantes del Consejo, Consejo Distrital o Municipal. El Presidente o Presidente del Consejo Distrital o Municipal, declarará instalada la sesión, previa verificación de asistencia y certificación de la existencia del quórum legal por parte del Secretario o Secretario del Consejo Distrital o Municipal.
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 80.
 
-Quórum. Para que el Consejo o Consejo Local pueda sesionar, es necesario que esté presente la mayoría de los Consejeros o Consejeros Locales, entre los que deberá estar el Presidente o Presidente del Consejo Local. El Presidente o Presidente del Consejo Local, será suplido en sus ausencias momentáneas por el Consejero o Consejero Local que él mismo designe.
+Quórum. Para que el Consejo, Consejo Distrital o Municipal pueda sesionar, es necesario que esté presente la mayoría de los Consejeros o Consejeros Distritales o Municipales, entre los que deberá estar el Presidente o Presidente del Consejo Distrital o Municipal. El Presidente o Presidente del Consejo Distrital o Municipal, será suplido en sus ausencias momentáneas por el Consejero o Consejero Distrital o Municipal que él mismo designe.
 
-En caso de que no se reúna la mayoría a que se refiere el párrafo anterior, la sesión extraordinaria tendrá lugar dentro de las veinticuatro horas siguientes con los Consejeros o Consejeros Locales que asistan, entre los que deberá estar el Presidente o Presidente del Consejo Local.
+En caso de que no se reúna la mayoría a que se refiere el párrafo anterior, la sesión extraordinaria tendrá lugar dentro de las veinticuatro horas siguientes con los Consejeros o Consejeros Distritales o Municipales que asistan, entre los que deberá estar el Presidente o Presidente del Consejo Distrital o Municipal.
 
-Si en el transcurso de la sesión se ausentaran definitivamente de ésta, alguno o algunos de los Consejeros o Consejeros Locales, y con ello no se alcanzare el quórum legal para continuar con la misma, el Presidente o Presidente del Consejo Local, previa instrucción al Secretario o Secretario de Consejo Local para verificar esta situación, deberá suspenderla y citar para su continuación dentro de las veinticuatro horas siguientes, sin perjuicio de que el propio Consejo o Consejo Local decida otro plazo para su continuación, la que continuará con los Consejeros o Consejeros Locales que se presenten. El Secretario o Secretario del Consejo Local, informará por escrito sobre la reanudación de la sesión a que se refiere este párrafo.
+Si en el transcurso de la sesión se ausentaran definitivamente de ésta, alguno o algunos de los Consejeros o Consejeros Distritales o Municipales, y con ello no se alcanzare el quórum legal para continuar con la misma, el Presidente o Presidente del Consejo Distrital o Municipal, previa instrucción al Secretario o Secretario de Consejo Distrital o Municipal para verificar esta situación, deberá suspenderla y citar para su continuación dentro de las veinticuatro horas siguientes, sin perjuicio de que el propio Consejo, consejo Distrital o Municipal decida otro plazo para su continuación, la que continuará con los Consejeros o Consejeros Distritales o Municipales que se presenten. El Secretario o Secretario del Consejo Distrital o Municipal, informará por escrito sobre la reanudación de la sesión a que se refiere este párrafo.
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 81.
 
-El Consejo o Consejo Local, puede sesionar sin su Presidente, a menos de que se encuentren presente (sic) cuatro Consejeros o Consejeros Locales, debiendo decidir quien presida dicha sesión.
+El Consejo, Consejo Distrital o Municipal, puede sesionar sin su Presidente; a menos de que se encuentren presente (sic) cuatro Consejeros o Consejeros Distritales o Municipales, debiendo decidir quien presida dicha sesión.
 
 ###### ARTÍCULO 82.
 
@@ -1247,7 +1469,9 @@ I.- Las sesiones serán públicas;
 
 II.- El público asistente deberá guardar el debido orden en el recinto donde se celebren las sesiones, permanecer en silencio y abstenerse de cualquier manifestación;
 
-III.- Para garantizar el orden, el Presidente o Presidente del Consejo Local, podrá tomar cualquiera de las siguientes medidas:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE FEBRERO DE 2009)</small>
+
+III.- Para garantizar el orden, el Presidente o Presidente del Consejo Distrital o Municipal, podrá tomar cualquiera de las siguientes medidas:
 
 a. Exhortar a guardar el orden;
 
@@ -1255,59 +1479,85 @@ b. Conminar a abandonar el local; y
 
 c. Solicitar el auxilio de la fuerza pública para restablecer el orden y decretar la salida de quienes lo hayan alterado y
 
-IV.- Las sesiones podrán suspenderse por grave alteración del orden en el salón de sesiones, en tal caso deberán reanudarse antes de veinticuatro horas, salvo que el Consejo o Consejo Local, decida otro plazo para su continuación.
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+IV.- Las sesiones podrán suspenderse por grave alteración del orden en el salón de sesiones, en tal caso deberán reanudarse antes de veinticuatro horas, salvo que el Consejo, Consejo Distrital o Consejo Municipal, decida otro plazo para su continuación.
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 83.
 
-Orden de discusión de los asuntos. Los asuntos contenidos en el orden del día serán discutidos y, en su caso, votados, salvo cuando con base en consideraciones fundadas, el propio Consejo o Consejo Local, acuerde, mediante votación, posponer la discusión o votación de algún asunto en particular.
+Orden de discusión de los asuntos. Los asuntos contenidos en el orden del día serán discutidos y, en su caso, votados, salvo cuando con base en consideraciones fundadas, el propio Consejo, Consejo Distrital o Municipal, acuerde, mediante votación, posponer la discusión o votación de algún asunto en particular.
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 84.
 
-Dispensa de lectura de documentos. Se consultará en votación económica si se dispensa la lectura de los documentos que hayan sido previamente circulados. Sin embargo, los Consejeros o Consejeros Locales, podrán decidir sin debate, proceder a su lectura en forma completa o parcial, para mejor ilustrar sus argumentaciones.
+Dispensa de lectura de documentos. Se consultará en votación económica si se dispensa la lectura de los documentos que hayan sido previamente circulados. Sin embargo, los Consejeros o Consejeros Distritales o Municipales, podrán decidir sin debate, proceder a su lectura forma completa o parcial, para mejor ilustrar sus argumentaciones.
 
-###### ARTICULO 85.
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
-Observaciones, sugerencias o propuestas. Los integrantes del Consejo o Consejo Local, que tengan interés en realizar observaciones, sugerencias o propuestas de modificaciones a los proyectos de acuerdo o resolución del propio órgano de dirección, deberán presentarlas por escrito al Secretario o Secretario del Consejo Local, de manera previa al desarrollo de la sesión, sin perjuicio de que durante la discusión del punto correspondiente puedan presentar nuevas observaciones verbales o escritas.
+###### ARTÍCULO 85.
+
+Observaciones, sugerencias o propuestas. Los integrantes del Consejo, Consejo Distrital o Municipal, que tengan interés en realizar observaciones, sugerencias o propuestas de modificaciones a los proyectos de acuerdo o resolución del propio órgano de dirección, deberán presentarlas por escrito al Secretario o Secretario del Consejo respectivo, de manera previa al desarrollo de la sesión, sin perjuicio de que durante la discusión del punto correspondiente puedan presentar nuevas observaciones verbales o escritas.
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 86.
 
-Uso de la palabra. Los integrantes del Consejo o Consejo Local, sólo podrán hacer uso de la palabra con la autorización previa de su Presidente o indicando el asunto que se tratará. Sólo se podrán tratar los asuntos del orden del día.
+Uso de la palabra. Los integrantes del Consejo, Consejo Distrital o Municipal, sólo podrán hacer uso de la palabra con la autorización previa de su Presidente o indicando el asunto que se tratará. Sólo se podrán tratar los asuntos del orden del día.
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 87.
 
-Conducción provisional de las sesiones por un Consejero o Consejero Local. En el caso de que el Presidente o Presidente del Consejo Local, se ausente momentáneamente de la mesa de deliberaciones, designará a un Consejero o Consejero Local, para que lo auxilie en la conducción de la sesión con el propósito de no interrumpir su desarrollo.
+Conducción provisional de las sesiones por un Consejero o Consejero Distrital o Municipal. En el caso de que el Presidente o Presidente del Consejo Distrital o Municipal, se ausente momentáneamente de la mesa de deliberaciones, designará a un Consejero o Consejero Distrital o Municipal, para que lo auxilie en la conducción de la sesión con el propósito de no interrumpir su desarrollo.
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 88.
 
-Ausencias del Secretario o Secretario del Consejo Local, de la sesión. En caso de ausencia del Secretario o Secretario del Consejo Local, a la sesión, sus funciones serán realizadas por alguno de los funcionarios del órgano electoral respectivo, que al efecto se designe por los Consejeros o Consejeros Locales a propuesta del Presidente o Presidente del Consejero Local.
+Ausencias del Secretario o Secretario del Consejo Distrital o Municipal, de la sesión. En caso de ausencia del Secretario o Secretario del Consejo Distrital o Municipal, a la sesión, sus funciones serán realizadas por alguno de los funcionarios del órgano electoral respectivo, que al efecto se designe por los Consejeros o Consejeros Distritales o Municipales a propuesta del Presidente o Presidente del Consejo Distrital o Municipal respectivo.
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 89.
 
-Mecanismos para la discusión en las sesiones. En la discusión de cada punto del orden del día, el Presidente o Presidente del Consejo Local, concederá el uso de la palabra a los miembros del Consejo o Consejo Local que quieran hacer uso de ese derecho para ese asunto en particular. Los miembros del Consejo o Consejo Local, podrán intervenir en el orden en que lo soliciten por una sola vez en esta ronda. Los oradores podrán hacer uso de la palabra por diez minutos como máximo. En todo caso, el Presidente de la Comisión del Consejo o el integrante del Consejo o del Consejo Local, que proponga el punto tendrán (sic) preferencia de iniciar la primera ronda si así lo solicita.
+Mecanismos para la discusión en las sesiones. En la discusión de cada punto del orden del día, el Presidente o Presidente del Consejo o Consejo Distrital o Municipal, concederá el uso de la palabra a los miembros del Consejo o Consejos Distritales o Municipales que quieran hacer uso de ese derecho para ese asunto en particular. Los miembros del Consejo o Consejo Distrital o Municipal, podrán intervenir en el orden en que lo soliciten por una sola vez en esta ronda. Los oradores podrán hacer uso de la palabra por diez minutos como máximo. En todo caso, el Presidente de la Comisión del Consejo o el integrante del Consejo o del Consejo Distrital o Municipal, que proponga el punto tendrán preferencia de iniciar la primera ronda si así lo solicita.
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 90.
 
-Forma de discusión de los asuntos de segunda ronda. Después de haber intervenido todos los oradores que así desearon hacerlo en la primera ronda, el Presidente o Presidente del Consejo Local, preguntará si el punto está suficientemente discutido y, en caso de no ser así, se realizará una segunda ronda de debates. Bastará que un solo integrante del Consejo o Consejo Local, pida la palabra para que la segunda ronda se lleve a cabo. En la segunda ronda los oradores participarán de acuerdo con las reglas fijadas para la primera, pero sus intervenciones no podrán exceder de cinco minutos. Concluida la segunda ronda se procederá a la votación.
+Forma de discusión de los asuntos de segunda ronda. Después de haber intervenido todos los oradores que así desearon hacerlo en la primera ronda, el Presidente o Presidente del Consejo Distrital o Municipal, preguntará si el punto está suficientemente discutido y, en caso de no ser así, se realizará una segunda ronda de debates. Bastará que un solo integrante del Consejo o Consejo Distrital o Municipal, pida la palabra para que la segunda ronda se lleve a cabo. En la segunda ronda los oradores participarán de acuerdo con las reglas fijadas para la primera, pero sus intervenciones no podrán exceder de cinco minutos. Concluida la segunda ronda se procederá a la votación.
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 91.
 
-Intervención del Secretario o Secretario del Consejo Local, en el debate. El Secretario o Secretario del Consejo Local, podrá solicitar el uso de la palabra en cada uno de los puntos tratados, en el orden en que se inscribiere en la lista de oradores. Lo anterior no obsta para que en el transcurso del debate el Presidente o Presidente del Consejo Local o alguno de los Consejeros o Consejeros Locales, le pida que informe o aclare alguna cuestión, cuantas veces sea necesario.
+Intervención del Secretario o Secretario del Consejo Distrital o Municipal, en el debate. El Secretario o Secretario del Consejo Distrital o Municipal, podrá solicitar el uso de la palabra en cada uno de los puntos tratados, en el orden en que se inscribiere en la lista de oradores. Lo anterior no es impedimento para que en el transcurso del debate el Presidente o Presidente del Consejo Distrital o Municipal o alguno de los Consejeros o Consejeros Distritales o Municipales, le pida que informe o aclare alguna cuestión, cuantas veces sea necesario.
 
 ###### ARTÍCULO 92.
 
 Procedimiento cuando nadie pide la palabra. Cuando nadie pida la palabra, se procederá de inmediato a la votación, en los asuntos que así corresponda o a la simple conclusión del punto, según sea el caso.
 
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 93.
 
-Prohibición de diálogos y alusiones personales. En el curso de las deliberaciones, los integrantes del Consejo o Consejo Local, se abstendrán de entablar polémicas o debates en forma de diálogo con otro miembro del Consejo o Consejo Local, así como de realizar alusiones personales que pudiesen generar controversias o discusiones ajenas a los asuntos agendados en el orden del día que en su caso se discutan. En dicho supuesto, el Presidente o Presidente del Consejo Local, podrá interrumpir las manifestaciones de quien cometa las referidas conductas, con el objeto de conminarlo a que se conduzca en los términos previstos en el presente reglamento.
+Prohibición de diálogos y alusiones personales. En el curso de las deliberaciones, los integrantes del Consejo o Consejo Distrital o Municipal, se abstendrán de entablar polémicas o debates en forma de diálogo con otro miembro del Consejo o Consejo Distrital o Municipal, así como de realizar alusiones personales que pudiesen generar controversias o discusiones ajenas a los asuntos agenciados en el orden del día que en su caso se discutan. En dicho supuesto, el Presidente o Presidente del Consejo Distrital o Municipal, podrá interrumpir las manifestaciones de quien cometa las referidas conductas, con el objeto de conminarlo a que se conduzca en los términos previstos en el presente reglamento.
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 94.
 
-Prohibición de interrumpir a los oradores. Los oradores no podrán ser interrumpidos, salvo por medio de una moción siguiendo las reglas establecidas en siguiente capítulo XVII de este reglamento o por la intervención del Presidente o Presidente del Consejo Local, para conminarlo a que se conduzca dentro de los supuestos previstos por el presente ordenamiento.
+Prohibición de interrumpir a los oradores. Los oradores no podrán ser interrumpidos, salvo por medio de una moción siguiendo las reglas establecidas en (sic) siguiente capítulo XVII de este reglamento o por la intervención del Presidente o Presidente del Consejo Distrital o Municipal, para conminarlo a que se conduzca dentro de los supuestos previstos por el presente ordenamiento.
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 95.
 
-Desvío del asunto en debate por parte del orador. Si el orador se aparta de la cuestión en debate o hace referencia que ofenda a cualquiera de los integrantes del Consejo o Consejo Local el Presidente o el Presidente del Consejo Local, le advertirá. Si el orador es reiterativo en su conducta, el Presidente o el Presidente del Consejo Local, le podrá retirar el uso de la palabra.
+Desvío del asunto en debate por parte del orador. Si el orador se aparta de la cuestión en debate o hace referencia que ofenda a cualquiera de los integrantes del Consejo o Consejo Distrital o Municipal, el Presidente o el Presidente del Consejo Distrital o Municipal, le advertirá. Si el orador es reiterativo en su conducta, el Presidente o el Presidente del Consejo Distrital o Municipal, le podrá retirar el uso de la palabra.
 
 ### CAPITULO XXVIII. DE LAS MOCIONES
 
@@ -1323,67 +1573,91 @@ III.- Solicitar la resolución sobre un aspecto del debate en lo particular;
 
 IV.- Suspender la sesión por alguna de las causas establecidas en este reglamento;
 
-V.- Pedir la suspensión de una intervención que no se ajuste al orden, que se aparte del punto a discusión o que sea ofensiva o calumniosa para algún miembro del Consejo o Consejo Local;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+
+V.- Pedir la suspensión de una intervención que no se ajuste al orden, que se aparte del punto a discusión o que sea ofensiva o calumniosa para algún miembro del Consejo o Consejo Distrital o Municipal;
 
 VI.- Ilustrar la discusión con la lectura breve de algún documento; y
 
 VII.- Pedir la aplicación del reglamento.
 
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 97.
 
-Toda moción de orden deberá dirigirse al Presidente o Presidente Local, quien la aceptará o la negará. En caso de que la acepte tomará las medidas pertinentes para que se lleve a cabo; de no ser así, la sesión seguirá su curso. De estimarlo conveniente o a solicitud de algún integrante del Consejo o Consejo Local, distinto de aquel a quien se dirige la moción, el Presidente o Presidente del Consejo Local, podrá someter a votación la moción de orden solicitada, quien sin discusión decidirá su admisión o rechazo.
+Toda moción de orden deberá dirigirse al Presidente o Presidente del Consejo Distrital o Municipal, quien la aceptará o la negará. En caso de que la acepte tomará las medidas pertinentes para que se lleve a cabo; de no ser así, la sesión seguirá su curso. De estimarlo conveniente o a solicitud de algún integrante del Consejo o Consejo Distrital o Municipal, distinto de aquel a quien se dirige la moción, el Presidente o Presidente del Consejo Distrital o Municipal, podrán someter a votación la moción de orden solicitada, quien sin discusión decidirá su admisión o rechazo.
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 98.
 
-Cualquier miembro del Consejo o Consejo Local, podrá realizar mociones al orador que esté haciendo uso de la palabra, con el objeto de hacerle una pregunta o solicitarle una aclaración sobre algún punto de su intervención.
+Cualquier miembro del Consejo o Consejo Distrital o Municipal, podrá realizar mociones al orador que esté haciendo uso de la palabra, con el objeto de hacerle una pregunta o solicitarle una aclaración sobre algún punto de su intervención.
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 99.
 
-Las mociones al orador deberán dirigirse al Presidente o Presidente del Consejo Local y contar con la anuencia de aquel a quien se hacen. En caso de ser aceptadas, la intervención del solicitante de la moción no podrá durar más de dos minutos.
+Las mociones al orador deberán dirigirse al Presidente o Presidente del Consejo Distrital o Municipal y contar con la anuencia de aquel a quien se hacen. En caso de ser aceptadas, la intervención del solicitante de la moción no podrá durar más de dos minutos.
 
 ### CAPITULO XXIX. DE LAS VOTACIONES
 
-###### ARTICULO 100.
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
-Forma de tomar acuerdos y resoluciones. Los acuerdos y resoluciones se tomarán por mayoría simple de votos de los Consejeros o Consejeros Locales, salvo en los casos que la ley disponga una mayoría distinta.
+###### ARTÍCULO 100.
+
+Forma de tomar acuerdos y resoluciones. Los acuerdos y resoluciones se tomarán por mayoría simple de votos de los Consejeros o Consejeros Distritales o Municipales, salvo en los casos que la ley disponga una mayoría distinta.
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 101.
 
-Votación en lo general y en lo particular, la votación se hará en lo general y en lo particular, siempre y cuando así lo solicite algún Consejero o Consejero Local.
+Votación en lo general y en lo particular, la votación se hará en lo general y en lo particular, siempre y cuando así lo solicite algún Consejero o Consejero Distrital o Municipal.
 
 ###### ARTÍCULO 102.
 
 Forma de tomar la votación. La votación se tomará contando el número de votos a favor, el número de votos en contra y, en su caso, las abstenciones. El sentido de la votación quedará asentado en el acta.
 
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 103.
 
-Procedimiento para la votación. Los Consejeros o Consejeros Locales, votarán de viva voz para que el Secretario o Secretario del Consejo Local, tome nota del sentido de su voluntad. En caso de la aprobación del acta de la sesión anterior, se dará por aprobada en caso de no haber objeciones o comentarios, sin necesidad de levantar votación formal.
+Procedimiento para la votación. Los Consejeros o Consejeros Distritales o Municipales, votarán de viva voz para que el Secretario o Secretario del Consejo Distrital o Municipal, tome nota del sentido de su voluntad. En caso de la aprobación del acta de la sesión anterior, se dará por aprobada en caso de no haber objeciones o comentarios, sin necesidad de levantar votación formal.
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 104.
 
-Caso de empate. El Presidente o Presidente del Consejo Local, tendrá voto de calidad en caso de empate.
+Caso de empate. El Presidente o Presidente del Consejo Distrital o Municipal, tendrá voto de calidad en caso de empate.
 
 ### CAPITULO XXX. DE LAS ACTAS DE LAS SESIONES
 
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 105.
 
-Grabación en audio de la sesión. De cada sesión, de ser posible, se efectuará una grabación en audio, y en video, que servirá de base para la formulación del acta que deberá someterse a la aprobación del Consejo o Consejo Local, en la siguiente sesión que se celebre.
+Grabación en audio de la sesión. De cada sesión, de ser posible, se efectuará una grabación en audio, y en video, que servirá de base para la formulación del acta que deberá someterse a la aprobación del Consejo, Consejo Distrital o Municipal, en la siguiente sesión que se celebre.
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 106.
 
-Integración del acta de la sesión. El acta contendrá íntegramente los datos de identificación de la sesión, la fecha y hora de su inicio y conclusión, la lista de asistencia, los puntos del orden del día, el sentido de las intervenciones de los integrantes del Consejo o Consejo Local y el sentido de su voto, así como los acuerdos y resoluciones aprobadas.
+Integración del acta de la sesión. El acta contendrá íntegramente los datos de identificación de la sesión, la fecha y hora de su inicio y conclusión, la lista de asistencia, los puntos del orden del día, el sentido de las intervenciones de los integrantes del Consejo, Consejo Distrital o Municipal y el sentido de su voto, así como los acuerdos y resoluciones aprobadas.
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 107.
 
-Entrega del acta de la sesión. El Secretario o Secretario del Consejo Local, deberá poner a disposición de los miembros del Consejo o Consejo Local, en la sede del mismo, el proyecto de acta de sesión ordinaria veinticuatro horas antes y de sesión extraordinaria seis horas antes de celebrarse la sesión que la apruebe. De ser posible, el Secretario o Secretario del Consejo Local, entregará a los miembros del Consejo o Consejo Local, en el domicilio que hayan fijado para tal efecto, el proyecto de acta de cada sesión anterior juntamente con la convocatoria de nueva sesión. En el caso de que así lo autoricen los integrantes del Consejo o Consejo Local, el proyecto de acta podrá enviarse por fax o por correo electrónico, recabándose el recibo correspondiente por el mismo medio.
+Entrega del acta de la sesión. El Secretario o Secretario del Consejo Distrital o Municipal, deberá poner a disposición de los miembros del Consejo, Consejo Distrital o Municipal, en la sede del mismo, el proyecto de acta de sesión ordinaria veinticuatro horas antes y de sesión extraordinaria seis horas antes de celebrarse la sesión que la apruebe. De ser posible, el Secretario o Secretario del Consejo Distrital o Municipal, entregará a los miembros del Consejo o Consejo Distrital o Municipal, en el domicilio que hayan fijado para tal efecto, el proyecto de acta de cada sesión anterior juntamente con la convocatoria de nueva sesión. En el caso de que así lo autoricen los integrantes del Consejo, Consejo Distrital o Municipal, el proyecto de acta podrá enviarse por fax o por correo electrónico, recabándose el recibo correspondiente por el mismo medio.
 
 ###### ARTÍCULO 108.
 
 Aprobación de la última acta del proceso electoral. El acta de la última sesión, deberá someterse a la aprobación durante esa misma sesión, integrándose en términos de lo señalado en el artículo 104 del presente Reglamento.
 
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 109.
 
-Firma de actas. Las actas deberán ser firmadas por el Presidente, el Secretario y los Consejeros o por el Presidente, Secretario y Consejeros del Consejo Local.
+Firma de actas. Las actas deberán ser firmadas por el Presidente, el Secretario y los Consejeros o por el Presidente, Secretario y Consejeros de los Consejos Distritales o Municipales.
 
 ### CAPÍTULO XXXI. DE LA INTEGRACIÓN Y CONTROL DEL ARCHIVO ELECTORAL
 
@@ -1476,3 +1750,15 @@ Consejera Propietaria
 LIC. RAMIRO RUIZ MOLINA
 
 Secretario
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 19 DE FEBRERO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas al Reglamento que regula el funcionamiento del Consejo Estatal Electoral, sus Comisiones, los Consejos Distritales Electorales y los Consejos Municipales Electorales, entrarán en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a la aplicación del presente reglamento.
