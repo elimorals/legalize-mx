@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-el-funcionamiento-de-la-comision-de-26770"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-11-15"
-last_updated: "2002-11-15"
+last_updated: "2009-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO PARA EL FUNCIONAMIENTO DE LA COMISION DE FISCALIZACION DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 2009.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de noviembre de 2002.
 
@@ -63,25 +63,43 @@ III.- Consejo: Consejo General del Instituto Electoral del Estado de Guanajuato;
 
 IV.- Informes anuales: Informes anuales de los Partidos Políticos;
 
-V.- Informes de campaña: Informes de campaña de los Partidos Políticos;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
-VI.- Instituto: Instituto Electoral del Estado de Guanajuato;
+V.- Informes de precampaña: Informes de precampaña de los Partidos Políticos;
 
-VII.- Integrantes de la Comisión: Un Consejero Ciudadano del Instituto Electoral del Estado de Guanajuato quien la presidirá, el Secretario Ejecutivo, el Director de Procedimientos Electorales y los dos Auditores designados por el Consejo;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
-VIII.- Órgano Interno: Órgano Interno de los Partidos Políticos encargado de la recepción y administración de los recursos, así como de la presentación de los informes correspondientes;
+VI.- Informes de campaña: Informes de campaña de los Partidos Políticos;
 
-IX.- Partido Político: Los nacionales y estatales en los términos de los artículos 19 y 29 del Código; y
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
-X.- Sesión: Reunión formal de los Integrantes de la Comisión, en la que tomarán decisiones definitivas para el ejercicio de las facultades que el Código y demás ordenamientos le confieren y cuyo resultado quedará plasmado en una acta que firmarán los integrantes.
+VII.- Instituto: Instituto Electoral del Estado de Guanajuato;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+VIII.- Integrantes de la Comisión: Un Consejero Ciudadano del Instituto Electoral del Estado de Guanajuato quien la presidirá, el Secretario Ejecutivo, el Director de Procedimientos Electorales y los dos Auditores designados por el Consejo;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+IX.- Órgano Interno: Órgano Interno de los Partidos Políticos encargado de la recepción y administración de los recursos, así como de la presentación de los informes correspondientes;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+X.- Partido Político: Los nacionales y estatales en los términos de los artículos 19 y 29 del Código;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE FEBRERO DE 2009)</small>
+
+XI.- Sesión: Reunión formal de los Integrantes de la Comisión, en la que tomarán decisiones definitivas para el ejercicio de las facultades que el Código y demás ordenamientos le confieren y cuyo resultado quedará plasmado en una acta que firmarán los integrantes.
 
 ###### ARTÍCULO 4.
 
 En el ejercicio de sus atribuciones de conformidad con las disposiciones legales aplicables, y para fines administrativos, la interpretación del presente Reglamento corresponderá, en su ámbito, a la Comisión y al Consejo.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 5.
 
-La Comisión tendrá como objeto revisar los informes que los Partidos Políticos presenten sobre el origen y uso de todos sus recursos y vigilar que el financiamiento que reciban los Partidos Políticos por las modalidades a que se refiere el artículo 43 del Código se apliquen exclusivamente para el sostenimiento de sus actividades ordinarias o especificas y para sufragar sus gastos de campaña, así como vigilar el cumplimiento del acuerdo emitido por el Consejo en términos del artículo 193, fracción VI del Código.
+La Comisión tendrá como objeto revisar los informes que los Partidos Políticos presenten sobre el origen y uso de todos sus recursos, y vigilar que el financiamiento que reciban los Partidos Políticos por las modalidades a que se refiere el artículo 43 del Código se apliquen exclusivamente para el sostenimiento de sus actividades ordinarias o específicas y para sufragar sus gastos de precampaña y campaña, así como vigilar el cumplimiento del acuerdo emitido por el Consejo en términos del artículo 193 del Código.
 
 ### CAPÍTULO II. ATRIBUCIONES DE LA COMISIÓN
 
@@ -105,29 +123,55 @@ VII.- Revisar que los Partidos Políticos presenten, conjuntamente con el inform
 
 VIII.- Proveer lo necesario para que el Consejo determine el monto del financiamiento público a que tienen derecho los Partidos Políticos conforme a las disposiciones establecidas en el artículo 43 Bis, fracciones I y IX del Código;
 
-IX.- Proponer al Consejo los criterios para vigilar el cumplimiento del acuerdo que establezca los topes de gastos de campaña, así como informar de su incumplimiento por parte de los Partidos Políticos con base en el artículo 193, fracción VI del Código;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
-X.- Solicitar al Presidente del Consejo su intervención ante los entes jurídicos a que se refiere la fracción II del artículo 43 del Código, a efecto de verificar que se cumpla con lo establecido en esta disposición;
+IX.- Proponer al Consejo los criterios para vigilar el cumplimiento del acuerdo que establezca los topes de gastos de campaña, así como informar de su incumplimiento por parte de los Partidos Políticos con base en el artículo 174 Bis 3 del Código;
 
-XI.- Solicitar al Consejo la contratación de despachos externos para apoyar las actividades de la Comisión;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
-XII.- Solicitar a los Órganos del Instituto remitan a la Comisión la información que se les requiera, necesaria para el cumplimiento de su objeto y atribuciones;
+X.- Proponer al Consejo los criterios para vigilar el cumplimiento del acuerdo que establezca los topes de gastos de campaña, así como informar de su incumplimiento por parte de los Partidos Políticos con base en el artículo 193 del Código;
 
-XIII.- Elaborar el Informe anual de sus actividades y presentarlo ante el Consejo;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
-XIV.- Proponer al Consejo modificaciones a este Reglamento; y
+XI.- Solicitar al Presidente del Consejo su intervención ante los entes jurídicos a que se refiere la fracción II del artículo 43 del Código, a efecto de verificar que se cumpla con lo establecido en esta disposición;
 
-XV.- Las demás que le confieran el Código y el Consejo.
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+XII.- Solicitar al Consejo la contratación de despachos externos para apoyar las actividades de la Comisión;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+XIII.- Solicitar a los Órganos del Instituto remitan a la Comisión la información que se les requiera, necesaria para el cumplimiento de su objeto y atribuciones;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+XIV.- Elaborar el Informe anual de sus actividades y presentarlo ante el Consejo;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+XV.- Solicitar al Instituto Federal Electoral, a través del Consejo General, la información bancaria, fiduciaria o fiscal que a su juicio sea relevante para el cumplimiento de sus atribuciones y funciones con base en el artículo 44 Bis 1, fracción X, del Código;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE FEBRERO DE 2009)</small>
+
+XVI.- Proponer al Consejo modificaciones a este Reglamento; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE FEBRERO DE 2009)</small>
+
+XVII.- Las demás que le confieran el Código y el Consejo.
 
 ### CAPÍTULO III. FUNCIONAMIENTO DE LA COMISIÓN
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 7.
 
-La Comisión contará con el plazo de 60 días naturales para que culmine el análisis y estudio de los informes anuales y de 120 días naturales para los informes de campaña de los Partidos Políticos.
+La Comisión contará con el plazo de 60 días naturales para que culmine el análisis y estudio de los informes anuales y de precampaña y de 120 días naturales para los informes de campaña de los Partidos Políticos.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 8.
 
-La Comisión tendrá en todo momento la facultad de solicitar a los Partidos Políticos, a través del responsable del órgano interno, la documentación que considere necesaria para complementar, aclarar o comprobar la veracidad de lo reportado en los informes anuales y en los informes de campaña.
+La Comisión tendrá en todo momento la facultad de solicitar a los Partidos Políticos, a través del responsable del órgano interno, la documentación que considere necesaria para complementar, aclarar o comprobar la veracidad de lo reportado en los informes anuales, en los informes de precampaña y en los informes de campaña.
 
 ###### ARTÍCULO 9.
 
@@ -314,3 +358,15 @@ PRESIDENTE DEL CONSEJO
 C. LIC. JESÚS BADILLO LARA
 
 SECRETARIO DEL CONSEJO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE FEBRERO DE 2009.
+
+Único.- Las presentes reformas entrarán en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL REGLAMENTO.
+
+SEGUNDO.- Notifíquese por estrados.
+
+TERCERO.- Publíquese este acuerdo en el Periódico Oficial del Gobierno del Estado de Guanajuato.
