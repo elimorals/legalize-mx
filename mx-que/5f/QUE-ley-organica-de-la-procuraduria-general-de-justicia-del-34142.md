@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-procuraduria-general-de-justicia-del-34142"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-09-24"
-last_updated: "2008-09-26"
+last_updated: "2009-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34142&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE QUERETARO, PUBLICADO EN EL P.O. DE 20 DE FEBRERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 24 de septiembre de 2003.
 
@@ -1464,3 +1466,11 @@ P.O. 26 DE SEPTIEMBRE DE 2008.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. Se derogan todas las disposiciones legales o reglamentarias que se opongan a la presente.
+
+P.O. 20 DE FEBRERO DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número cincuenta y ocho, de fecha veinticuatro de septiembre de dos mil tres.
+
+Artículo Tercero. El Poder Ejecutivo del Estado emitirá las normas reglamentarias que resulten necesarias para la aplicación de la presente Ley, mientras tanto seguirán aplicables las normas reglamentarias emitidas con anterioridad a la entrada en vigor de la presente Ley.
