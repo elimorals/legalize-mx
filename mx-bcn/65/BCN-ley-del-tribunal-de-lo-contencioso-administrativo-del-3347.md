@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-tribunal-de-lo-contencioso-administrativo-del-3347"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-31"
-last_updated: "2009-02-13"
+last_updated: "2009-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3347&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el martes 31 de enero de 1989.
 
@@ -501,7 +501,13 @@ Antes de iniciar el período de vacaciones, el Presidente designará al personal
 
 Los juicios que se promuevan ante el Tribunal de lo Contencioso Administrativo, se sustanciarán y resolverán con arreglo al procedimiento que determina este Título.
 
-A falta de disposición expresa, se aplicará supletoriamente, el Código de Procedimientos Civiles del Estado, siempre que se refiera a Instituciones previstas en esta Ley y que la disposición supletoria se avenga al procedimiento contencioso que la misma establece.
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+En el procedimiento contencioso administrativo, no procederá la suplencia de la deficiencia de la queja; salvo las excepciones expresas contenidas en los artículos 45 último párrafo, 83 último párrafo, 99 fracción lll, de la presente ley cuando y el promovente sea persona menor o incapaz.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+A falta de disposición expresa, se aplicarán supletoriamente, el Código Civil y el Código de Procedimientos Civiles del Estado, siempre que se refiera a Instituciones previstas en esta Ley o la que rija el acto impugnado; y que la disposición supletoria se avenga al procedimiento contencioso.
 
 ###### ARTICULO 31.
 
@@ -659,7 +665,7 @@ III.- Que hayan sido materia de sentencia de fondo pronunciada por el Tribunal, 
 
 > <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2009)</small>
 
-IV.- Respecto de las cuales hubiere consentimiento expreso o tácito, entendiéndose por este último cuando no se promovió medio de defensa en los términos de las Leyes respectivas o juicio ante el Tribunal de lo Contencioso Administrativo, en los plazos de la Ley;
+IV.- Respecto de las cuales hubiere consentimiento expreso o tácito, entendiéndose por este último cuando no se promovió medio de defensa en los términos de las Leyes respectivas o juicio ante el Tribunal de lo Contencioso Administrativo, en los plazos de la Ley.
 
 Se considera que existe consentimiento tácito respecto del contenido de un acuerdo de expropiación, cuando el particular opte por el juicio pericial previsto por el artículo 18 de la Ley de Expropiación para el Estado de Baja California;
 
@@ -741,13 +747,25 @@ La demanda deberá formularse por escrito y presentarse directamente ante la Sal
 
 La entrega de una resolución, por escrito al particular, se considera como notificación, aunque no se utilice este término por la autoridad.
 
-En los casos de negativa ficta, el interesado podrá interponer la demanda en cualquier tiempo mientras no se dicte resolución expresa, y siempre que haya transcurrido el término en que la autoridad debió dictar la resolución. A falta de término establecido, el silencio de las autoridades administrativas se considerará resolución negativa cuando transcurran sesenta días naturales.
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
-Las autoridades podrán deducir la acción de lesividad de sus actos y resoluciones en favor de los particulares, dentro de los cinco años siguientes a la fecha en que se le hayan notificado éstos, salvo que dicha resolución haya producido efectos de tracto sucesivo, caso en el cual la autoridad podrá demandar la nulidad en cualquier época sin exceder de los cinco años del último efecto producido.
+Los efectos de la presentación de la demanda ante el Tribunal, son interrumpir la prescripción de los derechos del demandante, así como de las facultades de la autoridad responsable, si no lo están por otros medios y señalar el principio de la instancia. La prescripción referida, comenzará a correr una vez que la sentencia respectiva, haya causado ejecutoria.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE AGOSTO DE 2007)</small>
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
-Cuando se trate de créditos fiscales que no rebasen los cien salarios mínimos o multas indeterminadas, podrá presentarse la demanda a través de formatos apropiados y gratuitos para que el interesado solo llene los espacios en blanco, pudiendo operar en estos casos la suplencia de la queja, así mismo se tendrá como excepción hecha a la representación a que hace referencia el articulo 33 de esta ley, que en este caso el interesado podrá optar ser representado por el profesionista señalado o por persona de su confianza la cual tendrá las mismas facultades.
+En los casos de negativa ficta, el interesado podrá interponer la demanda en cualquier tiempo mientras no se dicte resolución expresa, y siempre que haya transcurrido el término en que esta autoridad debió dictar resolución. A falta de término establecido, el silencio de las autoridades administrativas se considerará resolución negativa cuando transcurran sesenta días naturales.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+Las autoridades podrán deducir la acción de lesividad de sus actos o resoluciones que hayan resultando (sic) a favor de los particulares, dentro de los cinco años siguientes a la fecha en que se hayan notificado los mismos, salvo que dichos actos o resoluciones hayan producido efectos de tracto sucesivo, caso en el cual la autoridad podrá demandar la nulidad en cualquier época sin exceder de los cinco años del último efecto producido.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+La autoridad que deduce la acción de lesividad; podrá invocar para tal efecto, la incompetencia de quién emitió los actos o resoluciones, la indebida fundamentación y motivación de los mismos, derivada del error de quién emitió el acto o resolución, el dolo del particular beneficiado, el pago de lo indebido, el reconocimiento u otorgamiento de los derechos que no correspondan, así como el indebido ejercicio de facultades discrecionales.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+Cuando se trate de créditos fiscales que no rebasen los cien salarios mínimos o multas indeterminadas, podrá presentarse la demanda a través de formatos apropiados y gratuitos para que el interesado solo llene los espacios en blanco, pudiendo operar en estos casos la suplencia de la queja, así mismo se tendrá como excepción hecha a la representación a que hace referencia el artículo 33 de esta ley, que en este caso el interesado podrá optar ser representado por el profesionista señalado o por persona de su confianza la cual tendrá las mismas facultades.
 
 ###### ARTICULO 46.
 
@@ -815,7 +833,9 @@ Si al examinarse la demanda, se advierte que ésta es obscura o irregular, o cua
 
 La demanda se admitirá dentro de los tres días siguientes al de su presentación. En el mismo auto se aceptará o rechazará la intervención del tercero y se señalará fecha para que tenga verificativo la audiencia dentro de los cuarenta y cinco días siguientes a la admisión de la demanda.
 
-La admisión o desechamiento de las pruebas que se ofrezcan, así como las providencias necesarias para su desahogo, se podrán acordar en el auto que admita la demanda o hasta que haya quedado fijada la controversia.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+En el acuerdo que admita la demanda, se tendrán por ofrecidas las pruebas del actor, mismas que se admitirán o desecharán hasta que se fije la litis.
 
 ###### ARTICULO 50.
 
@@ -840,6 +860,10 @@ Si no se produce la contestación en tiempo, o ésta no se refiere a todos los h
 La parte demandada, en su contestación, se referirá a cada uno de los hechos señalados en el escrito de demanda, citará los fundamentos legales que considere aplicables al caso y ofrecerá las pruebas que estime pertinentes. Asimismo, deberá anexarse el documento en que se acredite la personalidad, cuando el demandado sea un particular y no gestione en nombre propio.
 
 Los demandados deberán acompañar una copia de la contestación de la demanda y de los documentos anexos a ella para cada una de las partes, y en su defecto, el Magistrado de la Sala requerirá al demandado para que exhiba las copias necesarias en el plazo de tres días, apercibiéndole de que tendrá por no contestada en caso de incumplimiento.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+Una vez fijada la litis se emitirá el acuerdo en el que se admitan o desechen las pruebas de las partes, y se ordenen las diligencias correspondientes para el desahogo.
 
 ###### ARTICULO 53.
 
@@ -1131,6 +1155,18 @@ El Tribunal podrá hacer valer de oficio, al momento de resolver, cualquiera de 
 
 Para salvaguardar el derecho del afectado, la sentencia que declare fundada la pretensión del actor dejará sin efectos el acto o resolución impugnada. Fijará, además, los términos de la resolución que en su caso deba dictar la autoridad demandada y, tratándose de sentencia de condena, se ordenará también a la autoridad demandada el hacer, el no hacer o el dar que correspondan, como consecuencia de la nulidad del acto o resolución impugnada.
 
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+La declaratoria de nulidad del acto o resolución impugnada, por violaciones a las formalidades esenciales del procedimiento, debe ser para el efecto de que la autoridad responsable reponga el procedimiento administrativo de que se trate y determine en definitiva con plenitud de facultades.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+La resolución que decrete injustificada la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio de un Miembro de las Instituciones Policiales, la autoridad responsable sólo estará obligada a pagar la indemnización y demás prestaciones a que tenga derecho el afectado.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+En ningún caso procede la reincorporación al servicio, cualesquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
+
 CAPITULO DECIMOSEGUNDO
 
 DEL CUMPLIMIENTO DE LA SENTENCIA
@@ -1171,9 +1207,11 @@ CAPITULO DECIMOTERCERO
 
 DE LOS RECURSOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 90.
 
-El recurso de reclamación, es procedente contra las resoluciones de los Magistrados que desechen la demanda, la contestación o las pruebas; que rechacen la intervención de terceros, o aquéllas que nieguen la suspensión del acto reclamado.
+Las partes podrán interponer el recurso de reclamación en contra de las resoluciones de los Magistrados que desechen la demanda o la contestación; o admitan o desechen las pruebas; que rechacen la intervención de terceros, o aquéllas que nieguen o concedan la suspensión del acto reclamado.
 
 El recurso deberá interponerse ante la Sala de adscripción del Magistrado que hubiere dictado el acto recurrido, dentro del plazo de cinco días siguientes a su notificación, expresando los agravios que le cause.
 
@@ -1187,7 +1225,13 @@ Interpuesto el recurso a que se refiere el artículo anterior, la Sala dará vis
 
 El recurso de queja es procedente contra actos de las autoridades demandadas, por exceso o defecto de la ejecución del auto en que se haya concedido la suspensión del acto reclamado, así como por exceso o defecto en la ejecución de la sentencia definitiva que haya declarado fundada la pretensión del actor.
 
-El recurso deberá interponerse por escrito ante la Sala que hubiese conocido del juicio, dentro de un plazo de cinco días siguientes a la notificación de la resolución que se pretenda recurrir, acompañando una copia del escrito del recurso para cada una de las partes.
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+Los actos ejecutados por la autoridad responsable en vías de cumplimiento del auto o de la sentencia definitiva no son impugnables hasta en tanto la Sala correspondiente pronuncie la resolución que corresponda.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+El recurso deberá interponerse por escrito ante la Sala que hubiese conocido el juicio, dentro de un plazo de cinco días siguientes a la notificación de la resolución que se pretenda recurrir, acompañando una copia del escrito del recurso para cada una de las partes.
 
 ###### ARTICULO 93.
 
@@ -1382,3 +1426,9 @@ P.O. 13 DE FEBRERO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE FEBRERO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
