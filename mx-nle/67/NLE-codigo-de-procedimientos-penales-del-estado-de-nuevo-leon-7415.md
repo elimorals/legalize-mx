@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2009-01-14"
+last_updated: "2009-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -2395,7 +2395,7 @@ De las diligencias se levantará acta circunstanciada, que firmarán los que en 
 
 ###### ARTICULO 261.
 
-El funcionario que practique una diligencia de inspección deberá cumplir, en lo conducente con las reglas contenidas en los capítulos I, y II del Título Tercero de este código.
+El funcionario que practique una diligencia de inspección deberá cumplir, en lo conducente con las reglas contenidas en los capítulos I, y II del Titulo Tercero de este código.
 
 ###### ARTICULO 262.
 
@@ -3983,6 +3983,12 @@ Si se pronuncia auto de formal prisión o de sujeción a proceso, el Juez suspen
 
 El procedimiento especial a que se refiere el artículo anterior, constará de dos etapas, y en ellas se dará plena intervención a las partes. La representación legal del indiciado o probable responsable, correrá a cargo del defensor designado en autos y del tutor especial, que para tal caso deberá designar inmediatamente el Juez del proceso.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+Tratándose de los casos establecidos en el Artículo 553 de este Código, el Juez de Preparación de lo Penal practicará las actuaciones correspondientes a la primera etapa y en el plazo previsto en este capítulo dictará la resolución. Procederá de igual forma en lo relativo a la segunda etapa del procedimiento especial en caso de que la resolución determine que el sujeto es inimputable.
+
 ###### ARTICULO 490.
 
 La primera etapa tiene por objeto recabar todas las pruebas necesarias y las que ofrezcan las partes, para que el Juez esté en aptitud de resolver si se está ante un enfermo mental por psicosis, retraso mental o ante un sordomudo.
@@ -3993,7 +3999,11 @@ Se procederá a la declaratoria de apertura del procedimiento especial a que se 
 
 Desahogadas las pruebas, el Juez pronunciará resolución dentro de los quince días siguientes a la recepción de la última prueba. La resolución del Juez resolverá exclusivamente sobre la imputabilidad.
 
-Si la resolución del Juez es en el sentido de que el sujeto es imputable, cerrará el procedimiento especial. Las pruebas ofrecidas y desahogadas en esta primera etapa, podrán ser valoradas al dictarse la sentencia en el procedimiento común.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+Si la resolución del Juez es en el sentido de que el sujeto es imputable, cerrará el procedimiento especial. Con excepción de los casos previstos en el Artículo 553 de este Código, las pruebas ofrecidas y desahogadas en esta primera etapa, podrán ser valoradas al dictarse la sentencia en el procedimiento común.
 
 En caso de que la resolución determine que se está en presencia de un inimputable, el Juez dictará un auto en el que declare la apertura de la segunda etapa del procedimiento especial. Esta declaratoria de apertura se notificará a las partes y al tutor. El juez abrirá el período de pruebas, para precisar si el inculpado realizó o no la conducta que se le atribuye, y para tal efecto se abrirá un período de ofrecimiento y desahogo de pruebas para las partes y el tutor, plazo que será de cinco días comunes.
 
@@ -4497,13 +4507,17 @@ Las normas contenidas en el presente Capítulo serán aplicables para el procesa
 
 I. Los cometidos por culpa;
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II. Los de querella previstos en los artículos 189, 262, 280, 282, 284, 285, 291, 300 en relación con el artículo 301 fracción I, 300 en relación con el artículo 301 fracción II, 338, 342, 344, 360, 381 en relación con el 382 fracción I, 383 en relación con el 382 fracción I, 384 en relación con el 382 fracción I, 385 fracción I, 402 en relación con el 367 fracción I, y 402 en relación con el 367 fracción II;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
+II .Los de querella previstos en los Artículos 189, 235, 236, 262, 271 bis, 280, 282, 284, 285, 291, 300 en relación con el Artículo 301 fracción I, 300 en relación con el Artículo 301 fracción II, 338, 342, 344, 360, 381 en relación con el 382 fracción I, 382 fracción II, 383 en relación con el 382 fracción I, 383 en relación al 382 fracción II, 384 en relación con el 382 fracción I, 384 en relación al 382 fracción II, 385 fracción I, 385 fracción II, 386 en relación al 385 fracción I, 386 en relación al 385 fracción II, 392, 402 en relación con el 367;
 
-III. Los de oficio previstos en los artículos 166 fracción I, 168, 171, 172 primer párrafo, 178, 180, 182, 183, 184, 198, 205, 215 en relación con el 216 fracción I, 217 en relación con el 218 fracción I, 220 en relación con el 221 segundo párrafo, 222, 253, 255, 274, 276, 278, 287 bis, 287 bis 2, 295, 300 en relación con el artículo 301 fracción II, 323, 332, 336, 353 bis, 364 en relación con el 367 fracción I, 364 en relación con el 367 fracción II, 373, 402 en relación con el 367 fracción I y 402 en relación con el 367 fracción II.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+III. Los de oficio previstos en los Artículos 166 fracción I, 168, 171, 172 primer párrafo, 178, 180, 180 bis, 182, 183, 184, 196, 197, 197 bis, 198, 201 bis 1, 201 bis 2, 203, 205, 215 en relación con el 216 fracción I, 217 en relación con el 218 fracción I, 220 en relación con el 221 segundo párrafo, 222, 232, 233, 253, 255, 259, 260 bis, 271 bis 2, 274, 276, 278, 280 bis, 287 bis, 287 bis 2, 288, 289, 290, 295, 300 en relación con el Artículo 30; fracción II, 300 en relación con el Artículo 301 fracción II, 323, 329, 330, 332, 335, 336, 336 bis, 337, 353 bis, 364 en relación con el 367 fracción I, 364 en relación con el 367 fracción II, 373, 377, 378, 379, 380, 402 en relación con el 367 y 402 bis.
 
 Este procedimiento ante los Órganos Jurisdiccionales será preponderantemente Oral, se realizará sobre la base de la acusación y se regirá por los principios de oralidad, inmediación, concentración, continuidad, contradicción y publicidad, salvo las excepciones previstas en este Código y las Leyes aplicables. En lo no previsto por este capítulo, se aplicarán supletoriamente las normas comunes de este Código, siempre que las mismas no contravengan los citados principios.
 
@@ -5580,3 +5594,9 @@ P.O. 31 DE DICIEMBRE DE 2008.
 P.O. 14 DE ENERO DE 2009.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE FEBRERO DE 2009.
+
+PRIMERO.- El presente Decreto entrara en vigor el día 1 de julio de 2009.
+
+SEGUNDO.- Las disposiciones del presente Decreto no serán aplicables a los procedimientos jurisdiccionales iniciados con anterioridad a la vigencia del mismo.
