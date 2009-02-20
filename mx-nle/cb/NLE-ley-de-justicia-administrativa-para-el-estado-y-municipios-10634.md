@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-justicia-administrativa-para-el-estado-y-municipios-1063
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2008-12-31"
+last_updated: "2009-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de febrero de 1997.
 
@@ -59,17 +59,23 @@ Todas las sesiones del Pleno serán públicas, con excepción de los casos en qu
 
 ### CAPITULO II. DE LA INTEGRACION DEL TRIBUNAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 5o.
 
-El Tribunal de lo Contencioso Administrativo estará integrado por tres salas unitarias, de las cuales una será la Sala Superior a cargo del Presidente del Tribunal, y dos Salas Ordinarias, primera y segunda, a cargo de cada uno de los dos Magistrados restantes; y contará, además, para el debido cumplimiento de sus funciones con:
+El Tribunal de lo Contencioso Administrativo estará integrado por cuatro salas unitarias, de las cuales una será la Sala Superior a cargo del Presidente del Tribunal, tres Salas Ordinarias, a cargo de cada uno de los tres Magistrados restantes, pudiendo cualquiera de ellas conocer del juicio oral; y contará, además, para el debido cumplimiento de sus funciones con:
 
-I.- Un Secretario General de Acuerdos;
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
-II.- Secretarios de Estudio y Cuenta;
+I.- Un Director de Orientación y Consulta Ciudadana;
 
-III.- Actuarios, y
+II.- Un Secretario General de Acuerdos;
 
-IV.- Personal técnico administrativo.
+III.- Secretarios de Estudio y Cuenta;
+
+IV.- Actuarios, y
+
+V.- Personal técnico administrativo.
 
 ###### Artículo 6o.
 
@@ -123,9 +129,11 @@ Para ser Secretario General de Acuerdos, Secretario de Estudio y Cuenta, y Actua
 
 Tratándose del Secretario General de Acuerdos y de los Secretarios de Estudio y Cuenta, ellos deberán contar, además, con por lo menos dos años de ejercicio profesional o práctica jurisdiccional por el mismo lapso en el Tribunal de lo Contencioso Administrativo o en algún otro órgano jurisdiccional.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 15.
 
-Los Secretarios y Actuarios del Tribunal serán nombrados por el Pleno.
+Los Secretarios, Actuarios y Escribientes del Tribunal tendrán el carácter de empleados de confianza.
 
 ###### Artículo 16.
 
@@ -161,7 +169,9 @@ VI.- Que determinen responsabilidad administrativa en contra de los servidores p
 
 VII.- (DEROGADA, P.O. 2 DE NOVIEMBRE DE 2007)
 
-VIII.- Que se refieran a la interpretación, cumplimiento o incumplimiento de contratos administrativos, en los que sean parte el Estado o los Municipios, o sus entidades paraestatales o paramunicipales;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+VII (SIC).- Que se refieran a la interpretación, cumplimiento o incumplimiento de convenios y contratos administrativos, en los que sean parte el Estado o los Municipios, o sus entidades paraestatales o paramunicipales;
 
 IX.- Los relativos a la responsabilidad patrimonial extracontractual reclamada al Estado, a los Municipios, o a las entidades paraestatales o municipales;
 
@@ -171,7 +181,15 @@ XI.- Los que se promuevan en contra de las resoluciones dictadas por las autorid
 
 XII.- Los que promuevan las autoridades estatales o municipales o los titulares de sus entidades paraestatales o municipales, para que sean nulificadas las resoluciones administrativas o fiscales dictadas por ellas mismas, favorables a los particulares;
 
-XIII.- Los que se promuevan en contra de las resoluciones negativas fictas, configuradas por el silencio de la autoridad para dar respuesta a la instancia de un particular en el plazo que la Ley fije o a falta de término de cuarenta y cinco días;
+XIII.- Los que se promuevan en contra de las resoluciones negativas fictas, configuradas por el silencio de la autoridad para dar respuesta a la instancia de un particular en el plazo que la Ley fije o a falta de término de cuarenta y cinco días.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+Cuando por disposición de las leyes o reglamentos, el silencio de la autoridad administrativa para dar respuesta a la instancia de un particular en el plazo que se señale en ellos, para tal efecto, implique la configuración de una afirmativa ficta, la autoridad ante la que se hubiere formulado tendrá el plazo de diez días hábiles para reconocer de manera expresa tal circunstancia y las consecuencias legales que de su omisión se desprendan. De no acontecer así, o si el particular considera que el reconocimiento que se haga no satisface la pretensión deducida en la instancia no resuelta de manera expresa, el juicio contencioso administrativo procederá en contra de la omisión de reconocer la configuración de la afirmativa ficta o, en su caso, del reconocimiento que se haga al respecto, en la parte que afecte su interés jurídico.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+En cualquier caso en que la afirmativa ficta implique la afectación de un derecho de terceros, la contravención de disposiciones de orden público o cause un perjuicio al interés social, la misma se tendrá por no configurada;
 
 XIV.- Los demás que se promuevan en contra de actos o resoluciones que por su naturaleza o por disposición de otras leyes se consideren como competencia del Tribunal.
 
@@ -219,13 +237,19 @@ III.- Calificar las excusas o impedimentos de los Magistrados del Tribunal y, en
 
 IV.- Establecer las reglas para la distribución de los asuntos entre los Magistrados;
 
-V.- Conocer del cumplimiento de las sentencias que dicte y en su caso ejecutarlas;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
-VI.- Aplicar los medios de apremio para hacer cumplir las resoluciones del Tribunal;
+V.- Conocer y resolver los conflictos de competencia suscitados entre las Salas Ordinarias del Tribunal de lo Contencioso Administrativo;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+VI.- Aplicar los medios de apremio para hacer cumplir las resoluciones del Tribunal en los asuntos de su competencia;
 
 VII.- Conocer de las denuncias o quejas que se presenten en contra de los Magistrados y demás personal del Tribunal, así como de las irregularidades que cometieran en el ejercicio de sus funciones, y acordar la aplicación de sanciones; previa audiencia del denunciado;
 
-VIII.- Resolver las contradicciones que se susciten entre las sentencias de los Magistrados;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+VIII.- Resolver las contradicciones que se susciten entre las resoluciones que pongan fin al juicio dictadas por los Magistrados de las Sala Ordinarias;
 
 IX.- Representar al Tribunal ante toda clase de autoridades;
 
@@ -243,7 +267,9 @@ XV.- Firmar, conjuntamente con el Secretario General de Acuerdos, los engroses d
 
 XVI.- Rendir al Pleno del Tribunal un informe dentro de los primeros quince días del mes de enero de cada año, dando cuenta de la marcha del Tribunal y de los principales criterios de interpretación adoptados;
 
-XVII.- Designar al personal administrativo; y
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+XVII.- Nombrar al personal necesario para las funciones del Tribunal; y
 
 XVIII.- Los demás asuntos de carácter ordinario no reservados al Pleno.
 
@@ -305,19 +331,33 @@ II.- Practicar las diligencias que les encomiende la Sala y levantar las actas r
 
 III.- Las demás que le atribuyan las disposiciones legales, o disponga el Presidente del Tribunal.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 23 Bis.
 
-En el Tribunal de lo Contencioso Administrativo habrá una Dirección de Orientación y Consulta Ciudadana que tendrá como atribuciones proporcionar información sobre los medios de defensa administrativos y cuyo Titular será nombrado por el Pleno del Tribunal, cumplidos los requisitos que éste último determine mediante acuerdo, contará con el personal de acuerdo al presupuesto autorizado.
+En el Tribunal de lo Contencioso Administrativo habrá una Dirección de Orientación y Consulta Ciudadana que tendrá como atribuciones proporcionar de oficio o a petición de parte orientación y asesoría a los ciudadanos, ésta puede incluir adicionalmente la correspondiente a los métodos alternos para la solución de los conflictos cuando exista sometimiento expreso a los mismos, y en su caso será la responsable de la prestación del servicio relativo conforme a lo dispuesto en esta Ley y en la Ley de Métodos Alternos para la Solución de Conflictos del Estado de Nuevo León.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 Ésta Dirección tendrá las siguientes atribuciones:
 
 I. Orientar sobre los medios de defensa administrativos.
 
-II. Fungir como enlace entre los ciudadanos, y la autoridad administrativa que corresponda, procurando la solución al conflicto administrativo planteado. Al efecto, dicha Dirección podrá gestionar lo precedente, en tanto ello no implique intervención en el procedimiento contencioso, y no se afecten derechos de terceros, y
+II.- (DEROGADA, P.O. 20 DE FEBRERO DE 2009)
 
-III. Las demás que le atribuya esta Ley, el Reglamento Interior del Tribunal de lo Contencioso Administrativo o le encomiende el Pleno del Tribunal.
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+III.- Prestar los servicios de métodos alternos para la prevención y en su caso, la solución de conflictos, en los términos de las disposiciones legales aplicables.
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+IV.- Opinar por escrito, en caso de que se lo soliciten los Magistrados de las Salas, si los actos impugnados en el juicio contencioso sometidos a su conocimiento son susceptibles de Convenio, siempre y cuando no alteren el orden público, no contravengan alguna disposición legal expresa y no afecten derechos de terceros, en los términos establecidos en el artículo 3° de la Ley de Métodos Alternos para la Solución de Conflictos del Estado.
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+V. Las demás que le atribuya esta Ley, el Reglamento Interior del Tribunal de lo Contencioso Administrativo, o le encomiende el Pleno del Tribunal.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 Este servicio será prestado de acuerdo con los lineamientos que establezca el Pleno.
 
@@ -327,27 +367,35 @@ El personal del Tribunal tendrá cada año los días inhábiles y los períodos 
 
 Antes de iniciar un período de receso, el Presidente del Tribunal designará al personal que provea los trámites de asuntos urgentes durante el receso.
 
-## TITULO SEGUNDO. DEL PROCEDIMIENTO
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE FEBRERO DE 2009)</small>
+
+## TITULO SEGUNDO. DEL PROCEDIMIENTO ORDINARIO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 25.
 
-Los Magistrados de las Salas Ordinarias conocerán indistintamente de los juicios que se promuevan ante el Tribunal de lo Contencioso Administrativo, en los casos a que se refieren las fracciones I a XIV del Artículo 17, así como de los recursos de queja que se interpongan con motivo de sus resoluciones, quienes los substanciarán y resolverán con arreglo al procedimiento que señala esta Ley; a falta de disposición expresa y en cuanto no se oponga a lo que prescribe este ordenamiento, se estará a lo dispuesto en el Código de Procedimientos Civiles para el Estado de Nuevo León.
+Los Magistrados de las Salas Ordinarias conocerán indistintamente de los juicios que se promuevan ante el Tribunal de lo Contencioso Administrativo, en los casos a que se refieren las fracciones I a XIV del Artículo 17 de esta Ley, del cumplimiento de las sentencias pronunciadas, así como de los recursos de queja que se interpongan con motivo de sus resoluciones, quienes los substanciarán y resolverán con arreglo al procedimiento que señala esta Ley; a falta de disposición expresa y en cuanto no se oponga a lo que prescribe este ordenamiento, se estará a lo dispuesto en el Código de Procedimientos Civiles para el Estado de Nuevo León.
 
 ###### Artículo 26.
 
 Toda promoción deberá estar firmada por quien la formule, requisito sin el cual se tendrá por no presentada. Cuando el promovente no sepa o no pueda firmar, lo hará otra persona en su nombre y el interesado imprimirá su huella digital.
 
-Ante el Tribunal no procederá la gestión oficiosa; quien promueva a nombre de otro deberá acreditar su personalidad mediante carta poder ratificada ante Notario Público o ante el Secretario o mediante poder notarial que conste en escritura pública, salvo que acredite tener reconocida su personalidad por la autoridad demandada.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 20 DE FEBRERO DE 2009)</small>
+
+En la tramitación del juicio contencioso administrativo impera el principio de impulso procesal de las partes. En tal virtud, quien promueva a nombre de otro deberá acreditar su personalidad mediante carta poder ratificada ante Notario Público o ante el Secretario o mediante poder notarial que conste en escritura pública, salvo que acredite tener reconocida su personalidad por la autoridad demandada.
 
 ###### Artículo 27.
 
 Las demandas, contestaciones, ocursos, informes y, en general, toda clase de actuaciones deberán redactarse en castellano. Los documentos que se presentaren en idioma extranjero deberán ser acompañados con la correspondiente traducción.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 28.
 
-Las diligencias que deban practicarse fuera del recinto del Tribunal, se encomendarán a los Actuarios o a los Secretarios. Las que deban practicarse fuera del Area Metropolitana de Monterrey se harán a solicitud de parte interesada, mediante exhorto que se envíe al Juez de Primera Instancia competente que corresponda, por conducto del Tribunal Superior de Justicia.
+Las diligencias que deban practicarse fuera del recinto del Tribunal, se encomendarán a los Actuarios o a los Secretarios. Las que deban practicarse fuera del Estado se hará mediante exhorto que se envíe al Órgano Jurisdiccional Administrativo Competente, o en su defecto, a la autoridad judicial respectiva, con residencia en aquel lugar, quien actuará conforme lo ordene su legislación.
 
 ###### Artículo 29.
 
@@ -357,17 +405,61 @@ Las audiencias serán públicas, salvo los casos en que la moral, el interés p�
 
 Cuando las leyes o reglamentos establezcan algún recurso o medio de defensa administrativo, será optativo para el particular agotarlo o intentar directamente el juicio ante el Tribunal. Ejercitada la acción ante éste, se extinguirá el derecho para ocurrir a otro medio de defensa administrativo. Contra la resolución dictada en el recurso administrativo procede el juicio ante el Tribunal.
 
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+Cuando la resolución recaída a un recurso administrativo no satisfaga el interés jurídico del recurrente y este la controvierta en juicio ante el Tribunal, siempre que ésta se haya pronunciado en el fondo, se entenderá que simultáneamente impugna la resolución recurrida, pudiendo hacer valer agravios no planteados en el recurso, en caso contrario, será requisito que primero se pronuncie sobre la procedencia del recurso, para que el juicio proceda contra la resolución objeto del recurso.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 31.
 
-El Tribunal para hacer cumplir sus determinaciones o para imponer el orden durante las actuaciones, podrá hacer uso, indistintamente, de los siguientes medios de apremio:
+Los Magistrados de oficio o a petición de parte, para hacer cumplir sus determinaciones podrán hacer uso, indistintamente, de los siguientes medios de apremio:
 
 I.- Amonestación;
 
-II.- Multa equivalente al monto de cinco a sesenta días de salario mínimo vigente en la ciudad de Monterrey;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
-III.- Arresto hasta por veinticuatro horas;
+II.- Multa equivalente al monto de sesenta y cinco a quinientas cuotas de salario mínimo vigente en el área geográfica del lugar de residencia del Tribunal. En caso de persistir el incumplimiento podrá aplicarse hasta el doble de la multa máxima antes referida;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+III.- Arresto hasta por treinta y seis horas; y
 
 IV.- Auxilio de la fuerza pública.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 31 Bis 1.
+
+Los Magistrados tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y consideración debidos, tanto a ellos, como a los demás servidores públicos del Tribunal de lo Contencioso Administrativo del Estado, sancionando, en el acto, las faltas que se cometieren, con multas que podrán ser de cinco a ciento veinte cuotas, observando lo dispuesto por los artículos 21 y 22 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Una cuota será el salario mínimo general diario que rija en el área geográfica del lugar de residencia del Tribunal.
+
+Pueden emplear también el uso de la fuerza pública.
+
+Si las faltas pudieren a (sic) constituir delitos, se procederá contra quienes las cometieren, con arreglo a lo dispuesto en la legislación Penal del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 31 Bis 2.
+
+Podrá el Magistrado imponer, por resolución escrita y fundada, correcciones disciplinarias a los abogados, apoderados de las partes, así como de los directores, secretarios y demás personal del Tribunal de lo Contencioso Administrativo, por las faltas que cometan en el desempeño de su actividad.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 31 Bis 3.
+
+Se entenderá por corrección disciplinaria:
+
+I.- El apercibimiento o prevención.
+
+II.- La multa que se duplicará en caso de reincidencia y cuyo monto se fijará de acuerdo con el artículo 31 Bis 1 de esta ley.
+
+III.- La suspensión sin goce de sueldo por un término de hasta ocho días, tratándose de servidores públicos del Tribunal de lo Contencioso Administrativo.
+
+IV.- Arresto hasta por un término de seis horas.
+
+V.- El desalojo de la Sala de Audiencia.
 
 ###### Artículo 32.
 
@@ -389,17 +481,31 @@ b) El particular a quien favorezca la resolución cuya modificación o nulidad p
 
 III.- Siempre será parte la Dependencia del Ejecutivo del Estado a quien determine la Ley, si la resolución o acto impugnado es de naturaleza administrativa estatal; y el Secretario de Finanzas y Tesorero General del Estado, si es de naturaleza fiscal estatal. En caso de que la resolución o acto impugnado provenga de una autoridad municipal, la representación de ésta corresponderá al Síndico del Ayuntamiento, observándose lo previsto en la Ley Orgánica de la Administración Pública Municipal del Estado.
 
-IV.- Los terceros. Tienen este carácter:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
 
-a) Cualquier persona cuyos intereses jurídicos sean o puedan ser afectados por las resoluciones del Tribunal; o
+IV.- Los terceros perjudicados. Tienen este carácter:
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+a) La persona que pudiera ser afectada de manera directa la esfera jurídica de sus derechos por la resolución del Tribunal al tener un derecho incompatible con las pretensiones deducidas por el demandante; o
 
 b) Quien se apersone en el juicio como coadyuvante de las autoridades administrativas o fiscales, con un interés jurídico directo en la modificación o anulación de un acto favorable a un particular, o en la confirmación de uno que le es desfavorable.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 34.
 
-Los particulares podrán autorizar para oír y recibir notificaciones en su nombre a Licenciados en Derecho que tengan cédula profesional registrada ante el Tribunal. Las personas autorizadas quedan facultadas para intervenir en todas las etapas del proceso, interponer recursos, ofrecer y rendir pruebas y alegar en la audiencia respectiva.
+Los particulares podrán autorizar para tener acceso a los expedientes en su nombre a la persona que para tal efecto designen.
 
-Siempre que dos o más personas ejerciten una misma acción u opongan la misma excepción, deberán litigar unidas y bajo una misma representación. El representante común estará facultado para actuar en los términos del párrafo anterior.
+Para oír y recibir notificaciones en su nombre o bien, para el efecto de imponerse de autos, deberá acreditarse a Licenciados en Derecho que tengan cédula profesional registrada ante el Tribunal. De igual modo, cuando se trate de estar facultados para intervenir en todas las etapas del proceso, interponer recursos, ofrecer, rendir pruebas y alegar en la audiencia respectiva.
+
+Tratándose del representante que participe en los métodos alternos para la solución de los conflictos, no se requerirá mayor requisito que el que expresamente esté autorizado para tal efecto y con poder suficiente para suscribir convenios.
+
+Las autoridades que participen en juicio podrán acreditar en cualquier momento delegados para los mismos fines.
+
+Siempre que dos o más personas ejerciten una misma acción u opongan la misma excepción, deberán litigar bajo una misma representación común. El representante común estará facultado para actuar en los términos del párrafo segundo de este artículo.
+
+En el caso de que no obstante el requerimiento efectuado por la Sala, no se designare el representante común, el Magistrado Instructor lo designará en rebeldía.
 
 ### CAPITULO III. DE LAS NOTIFICACIONES Y DE LOS TERMINOS
 
@@ -411,9 +517,11 @@ Las resoluciones serán notificadas, personalmente, dentro del tercer día hábi
 
 Desde el primer escrito que presenten, los particulares deberán señalar domicilio en cualquier municipio del área metropolitana de Monterrey, comunicando el cambio del mismo para que se hagan las notificaciones personales indicadas en esta Ley. En caso de que los particulares no cumplan con las anteriores prevenciones, las notificaciones que deban ser personales se harán en la forma prevista en la fracción IV del Artículo 38 de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 37.
 
-Para los efectos de esta Ley, son días hábiles todos los del año menos los sábados y domingos; el 1o. de enero, el 5 de febrero, el 21 de marzo, el 1o. y 5 de mayo, el 16 de septiembre, el 12 de octubre, el 20 de noviembre, el 25 de diciembre así como aquéllos en los que se suspendan las labores por acuerdo del Tribunal o por determinación de otras disposiciones legales.
+Para los efectos de esta Ley, son días hábiles todos los del año excepto los sábados y domingos; el 1° de enero, el primer lunes de febrero en conmemoración del 5 de febrero, el tercer lunes de marzo en conmemoración del 21 de marzo, el 1° y 5 de mayo, el 16 de septiembre, el 12 de octubre, el tercer lunes de noviembre en conmemoración del 20 de noviembre, el 25 de diciembre así como aquéllos en los que se suspendan las labores por acuerdo del Tribunal o por determinación de otras disposiciones legales.
 
 Son horas hábiles las comprendidas de las ocho a las diecinueve horas. Las horas de oficina del Tribunal se comprenderán de las ocho a las quince horas.
 
@@ -423,7 +531,9 @@ El Tribunal podrá habilitar los días y horas inhábiles, cuando lo juzgue nece
 
 Las notificaciones se harán:
 
-I.- A las autoridades por oficio, o personalmente a sus delegados o representantes si estuvieren presentes en el Tribunal;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+I.- A las autoridades por oficio, correo certificado con acuse de recibo o personalmente a sus delegados o representantes si estuvieren en el Tribunal, en los casos a que se refiere la fracción II de este artículo.
 
 II.- A los particulares personalmente cuando:
 
@@ -433,15 +543,29 @@ b) Se dejare de actuar durante más de dos meses consecutivos;
 
 c) Se trate de prevenciones, requerimientos y apercibimientos;
 
-d) Se trate de la resolución definitiva o interlocutoria; y
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
-e) El Tribunal lo estime urgente o necesario;
+d) Se trate de la resolución definitiva o interlocutoria;
 
-III.- Por lista o por correo certificado con acuse de recibo cuando no sea la notificación personal;
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+e) El Tribunal lo estime urgente o necesario; y
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+f) Se trate de la reanudación o reactivación del procedimiento para que se impongan de ello.
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+III.- Por lista o por correo certificado con acuse de recibo cuando la notificación no sea de las previstas en las fracciones anteriores;
 
 IV.- Fuera de los casos señalados en las fracciones anteriores, las notificaciones se harán personalmente en el Tribunal a los particulares, si se presentaren dentro de las veinticuatro horas siguientes al día en que se haya dictado la resolución; en caso contrario, por medio de listas autorizadas por el Actuario, que se fijarán a las trece horas en el tablero de avisos del Tribunal.
 
 Cuando el servicio postal devuelva por cualquier causa un oficio de notificación, ésta se hará personalmente y cuando fehacientemente no fuere posible, por lista.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+Salvo lo dispuesto en el artículo 36 de esta Ley, la primera notificación a la persona cuyo lugar de residencia, domicilio o habitación se ignore, se le hará por medio de edictos a cargo de la parte que lo señale, los cuales serán publicados por una ocasión en un periódico de los de mayor circulación en la entidad a juicio del Magistrado y, en el Periódico Oficial del Estado. La notificación hecha de esta manera surtirá sus efectos a los diez días contados a partir del día siguiente de la publicación. Las demás notificaciones se le harán por lista, si el notificado no compareciera.
 
 ###### Artículo 39.
 
@@ -465,7 +589,9 @@ Cuando el afectado se haga sabedor de una providencia cuya notificación fue omi
 
 El cómputo de los términos se sujetará a las reglas siguientes:
 
-I.- Comenzarán a correr desde el día hábil siguiente al en que se realice la notificación; serán improrrogables y se incluirá en ellos el día del vencimiento; y
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+I.- Comenzarán a correr desde el día hábil siguiente al en que surta efectos la notificación respectiva; serán improrrogables y se incluirá en ellos el día del vencimiento; y
 
 II.- Se contarán por días hábiles.
 
@@ -477,21 +603,33 @@ Son causas de ilegalidad y por tanto de anulación de los actos impugnados, los 
 
 I.- Incompetencia de la autoridad;
 
-II.- Incumplimiento u omisión de las formalidades del procedimiento o de la resolución combatida;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
-III.- Aplicación indebida o falta de aplicación de la disposición debida;
+II.- Incumplimiento u omisión de las formalidades del procedimiento o de la resolución combatida que afecten las defensas del particular o trasciendan al sentido de la resolución impugnada, inclusive la falta de motivación y fundamentación o ausencia de firma autógrafa del servidor público emisor del acto.
 
-IV.- Indebida o inadecuada fundamentación y motivación y ausencia de firma autógrafa del servidor público emisor del acto;
+III.- (DEROGADA, P.O. 20 DE FEBRERO DE 2009)
 
-V.- La falta de contestación a una petición del particular dentro del término de cuarenta y cinco días hábiles, salvo los términos más reducidos que fije la ley de la materia;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+IV.- Cuando se aprecie que los hechos que motivaron el acto impugnado no se realizaron, fueron distintos o se apreciaron en forma equivocada, o bien se dictó en contravención de las disposiciones aplicadas o dejó de aplicar las debidas, en cuanto al fondo del asunto.
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+V.- La falta de contestación a una petición del particular dentro del término de cuarenta y cinco días hábiles, salvo los términos más reducidos que fije la ley de la materia; excepto cuando se trate de una negativa ficta.
 
 VI.- Arbitrariedad, desproporción, desigualdad, desvío de poder, injusticia manifiesta o cualquier otra causa similar, tratándose de imposición de sanciones o la aplicación de facultades discrecionales.
 
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+Por ser de orden público el Tribunal podrá hacer valer la incompetencia de la autoridad que emitió la resolución impugnada o para ordenar o tramitar el procedimiento del que deriva así como en el supuesto de ausencia total de fundamentación y motivación en dicha resolución.
+
 ### CAPITULO V. DE LA DEMANDA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 45.
 
-La demanda deberá formularse por escrito y presentarse directamente ante el Tribunal, o por correo certificado cuando el actor tenga su domicilio fuera del área metropolitana de Monterrey, en cuyo caso se tomará como fecha de presentación de la demanda, la del depósito de la misma ante la oficina de correos.
+La demanda deberá formularse por escrito y presentarse directamente ante la Oficialía de Partes del Tribunal de lo Contencioso Administrativo, o por correo certificado cuando el actor tenga su domicilio fuera de los municipios de Apodaca, Juárez, General Escobedo, García, Guadalupe, Monterrey, San Pedro Garza García, San Nicolás de los Garza y Santa Catarina, Nuevo León, quienes integran el área metropolitana de Monterrey, en cuyo caso se tomará como fecha de presentación de la demanda, la del depósito de la misma ante la oficina de correos.
 
 La demanda deberá llenar los siguientes requisitos:
 
@@ -503,25 +641,67 @@ III.- El acto, el procedimiento o la resolución que se impugnen;
 
 IV.- La fecha de notificación o en la que se tuvo conocimiento de la existencia del acto impugnado;
 
-V.- El nombre y domicilio del tercero perjudicado;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
-VI.- Los hechos en que apoye la demanda, y los agravios que le causa el acto, el procedimiento o la resolución impugnados;
+V.- Nombre y domicilio del tercero perjudicado justificando razonadamente su interés jurídico.
 
-VII.- Las pruebas que el actor ofrezca y que sustentan la demanda; y
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
-VIII.- La pretensión que se deduce.
+VI.- Los hechos en que apoye la demanda, y los agravios que le causa el acto, el procedimiento o la resolución impugnados.
+
+Tratándose de la redacción de los agravios, no será necesario emplear formalismo alguno, basta tan solo que se cite la causa de pedir.
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+VII.- Las pruebas que el actor ofrezca y que sustenten la demanda, expresando la relación de la prueba ofrecida con la litis planteada, precisando claramente el hecho o hechos que se pretende acreditar.
+
+Adicionalmente cuando se ofrezcan las pruebas de inspección, pericial o testimonial, se precisarán los hechos sobre los que deban versar, y en el caso de las dos últimas, se señalarán los nombres y domicilios del perito o de los testigos. Tratándose de la prueba de reconocimiento o inspección, se señalará el lugar en el que deba practicarse, así como el fin específico de la misma.
+
+En el caso de pruebas documentales, se deberá mencionar la foja y el párrafo del instrumento donde conste la información con la que pretende demostrar los hechos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE FEBRERO DE 2009)</small>
+
+VIII.- La pretensión que se deduce; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE FEBRERO DE 2009)</small>
+
+IX.- La manifestación de someterse o no a algún método alterno para la solución de conflictos, observando para tal efecto lo dispuesto en el artículo 3° de la Ley de Métodos Alternos para la Solución de Conflictos del Estado.
 
 Cuando se omitan estos requisitos, el Magistrado que conozca del asunto requerirá mediante notificación personal al demandante para que los proporcione en un plazo de cinco días, apercibiéndolo de que de no hacerlo, se tendrá por no presentada la demanda. Cuando no obstante el apercibimiento omitiere ofrecer o acompañar pruebas, solamente se le tendrá por perdido el derecho de ofrecerlas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 46.
 
-El término para interponer la demanda será de treinta días hábiles, contados desde el día siguiente al en que se haya notificado al afectado la resolución, el procedimiento o el acuerdo que reclama, o al en que haya tenido conocimiento de ellos o de su ejecución, o al en que se hubiere ostentado sabedor de los mismos.
+El plazo para interponer la demanda será de treinta días hábiles, contados desde el día siguiente al en que haya surtido efectos la notificación de la resolución realizada al afectado, el procedimiento o el acuerdo que reclama, o al en que haya tenido conocimiento de ellos o de su ejecución, o al en que se hubiere ostentado sabedor de los mismos.
 
 Cuando la autoridad promueva la nulidad de una resolución favorable a un particular, la demanda podrá presentarse dentro de los cinco años siguientes a la fecha en que haya sido notificada la resolución, salvo que la misma haya originado efectos de tracto sucesivo, caso en el cual la autoridad podrá demandar su nulidad en cualquier tiempo; pero los efectos de la sentencia, en este último caso, si se declaran nulos, solo se retrotraerán hasta los cinco años anteriores a la presentación de la demanda.
 
-Cuando se trate de negativa ficta, el derecho a demandar nace al transcurrir cuarenta y cinco días después de que el particular presentó su petición, salvo que haya términos más reducidos en la ley de la materia, en cuyo caso el plazo iniciará al día siguiente al que haya concluido el plazo legal previsto por la ley de la materia.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
-En los casos de negativa ficta, el demandante tendrá el derecho de ampliar la demanda dentro de los treinta días hábiles siguientes a aquel en que surta efectos la notificación de la contestación de la misma.
+Cuando se trate de negativa ficta, el derecho a demandar nace al transcurrir cuarenta y cinco días después de que el particular presentó su petición, salvo que haya términos más reducidos en la ley de la materia, en cuyo caso la demanda se podrá interponer en cualquier tiempo posterior a dicho plazo, mientras no se notifique la resolución.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+Tratándose de la afirmativa ficta, la demanda de nulidad podrá promoverse en cualquier tiempo una vez transcurrido el plazo concedido a la autoridad ante quien se planteó la instancia no resuelta para expedir la constancia y términos de su configuración, y esto se omita; pero si se expide la constancia de reconocimiento y el particular estima que la misma no satisface su pretensión, el término para promover la demanda será el previsto en el primer párrafo del presente artículo.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+Las disposiciones administrativas de carácter general deberán impugnarse simultáneamente con el primer acto de aplicación sujetándose a los plazos previstos en este artículo.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+El demandante tendrá el derecho de ampliar la demanda dentro de los quince días hábiles siguientes a aquél en que surta efectos la notificación de la contestación de la misma, en los siguientes casos:
+
+I.- Cuando se impugne una negativa ficta;
+
+II.- Contra el acto principal del que derive la resolución impugnada en la demanda, así como su notificación, cuando se den a conocer en la contestación;
+
+III.- Cuando el actor manifieste Bajo Protesta de Decir Verdad que no conoce el contenido de la resolución que pretende impugnar y así lo exprese en su demanda, debiendo señalar la autoridad a quien le atribuye, su notificación o su ejecución. En este caso al contestar la demanda la autoridad acompañará constancia de la resolución administrativa y de su notificación.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+En el escrito de ampliación de demanda se deberán adjuntar las copias necesarias para el traslado, las pruebas y documentos que en su caso se presenten, aplicándose en lo conducente lo previsto en los Artículos 45, 47 y demás relativos de esta Ley.
 
 ###### Artículo 47.
 
@@ -529,11 +709,17 @@ El demandante deberá adjuntar a su demanda:
 
 I.- El documento que acredite su personalidad cuando no gestione a nombre propio, a menos que compruebe que dicha personalidad le fue reconocida por la autoridad demandada dentro del procedimiento del que emanó el acto impugnado;
 
-II.- El documento en que conste el acto impugnado, así como el acta de su notificación. Copia de la instancia no resuelta por la autoridad demandada, cuando se impugne la negativa ficta;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
-III.- Las pruebas documentales que ofrezca. Cuando las pruebas no obren en poder del actor o cuando no hubiere podido obtenerlas y las tenga alguna autoridad, bastará con que señale el lugar donde se encuentran y que demuestre que las solicitó oportunamente, para que el Tribunal solicite su remisión;
+II.- El documento en que conste el acto impugnado, así como el acta de su notificación. Copia de la instancia no resuelta por la autoridad demandada, cuando se impugne la negativa ficta o la omisión de expedir la constancia de reconocimiento de la afirmativa ficta, así como cuando se impugne dicha constancia por no satisfacer la pretensión del particular;
 
-IV.- El cuestionario que deba desahogar el perito o el interrogatorio que deberán contestar los testigos, debidamente firmados por el oferente, asimismo señalará los nombres y domicilios de los peritos y testigos. Cuando el actor amplíe la demanda, al escrito de ampliación deberán acompañarse los documentos y pruebas a que se refiere este Artículo en lo conducente; y
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+III.- Las pruebas documentales que ofrezca. Cuando las pruebas documentales no obren en poder del demandante o cuando no obstante sus gestiones no hubiera podido obtenerlas a pesar de tratarse de documentos que legalmente debieran estar a su disposición, éste deberá señalar el archivo o lugar en que se encuentren para que a su costa el Magistrado ordene expedir copia certificada de ellos o requiera su remisión, cuando ésta sea legalmente posible. Para este efecto el demandante deberá identificar con toda precisión los documentos, dependencia u oficina, y para tener por cumplido éste requisito, bastará con que se acompañe copia de la solicitud sellada de recibido o acredite fehacientemente haber realizado la gestión por lo menos cinco días antes de la interposición de la demanda;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+IV.- El pliego de posiciones, en sobre cerrado, conforme al cual se desahogará la prueba confesional; el cuestionario que deba desahogar el perito o el interrogatorio que deberán contestar los testigos, todos ellos debidamente firmados por el oferente, asimismo señalará los nombres y domicilios de los peritos y testigos. Cuando el actor amplíe la demanda, al escrito de ampliación deberán acompañarse los documentos y pruebas a que se refiere este artículo en lo conducente; y
 
 V.- Una copia de la demanda y de los documentos anexados a ella, para cada una de las partes, siempre que éstos no pasen de veinticinco fojas, pues si se exceden, los documentos quedarán en la Secretaría para que se impongan de ellos las partes.
 
@@ -547,47 +733,107 @@ I.- Si encontrare motivo manifiesto o indudable de improcedencia; y
 
 II.- Si fuera obscura o irregular y habiéndose prevenido al actor para subsanarla, éste no lo hiciere en el plazo de cinco días.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 49.
 
-No encontrándose irregularidades en la demanda o subsanadas éstas, se admitirá y correrá traslado de ella a la parte demandada y a los terceros, emplazándolos para que la contesten dentro del término de treinta días hábiles, apercibiéndolos de que de no hacerlo se presumirán ciertos los hechos expresados en la demanda. Si se estima prudente, en el mismo acuerdo se citará para la audiencia del juicio que deberá celebrarse en plazo no mayor de diez días, contados a partir de que concluya el término del emplazamiento, y se dictarán las demás providencias que procedan con arreglo a la Ley.
+No encontrándose irregularidades en la demanda o subsanadas éstas, se admitirá y correrá traslado de ella a la parte demandada y a los terceros, emplazándolos para que la contesten dentro del término de treinta días hábiles, apercibiéndolos de que de no hacerlo se presumirán ciertos los hechos que el actor le impute de manera precisa al demandado, salvo prueba en contrario, o que por hechos notorios resulten desvirtuados. Si se estima prudente, en el mismo acuerdo se citará para la audiencia del juicio que deberá celebrarse en plazo no mayor de quince días, contados a partir de que concluya el término del emplazamiento, y se dictarán las demás providencias que procedan con arreglo a la Ley.
+
+Desde el auto en que admita la demanda, y en cualquier otro momento del juicio hasta antes de dictar sentencia, el Magistrado instructor impulsará la conciliación entre las partes, para lo cual se procederá de la siguiente forma:
+
+I.- Cuando alguna de las partes del juicio manifieste su deseo de resolver la controversia a través de algún procedimiento previsto en la Ley de Métodos Alternos para la Solución de Conflictos del Estado, el Magistrado emitirá un acuerdo en el que dará vista a la Dirección de Orientación y Consulta Ciudadana, remitiendo al efecto copia de las constancias necesarias del expediente para que proceda el titular de dicha Dirección en los términos de lo previsto en el artículo 23 Bis fracción IV de esta Ley.
+
+Una vez que el Magistrado reciba la opinión del titular de la Dirección de Orientación en el sentido de que el acto impugnado, es susceptible de convenio conforme a la naturaleza jurídica del asunto, citará a las partes a una audiencia para la cual fijará fecha y hora para su celebración, no debiendo exceder de un plazo de diez días siguientes a la fecha en que se notifique el mencionado acuerdo.
+
+II. En caso de que en el plazo fijado las partes citadas no comparezcan, se levantará un acta circunstanciada en la que se asentará la incomparecencia de éstas y su desinterés en conciliar la controversia.
+
+III. Si las partes comparecieren en la fecha fijada para la Audiencia de conciliación, el Magistrado levantará el acta correspondiente en la que se hará constar su deseo de someterse a un método alterno de solución de conflictos y solicitará la intervención de la Dirección de Orientación y Consulta Ciudadana de este Tribunal para el efecto de que se reciba la asistencia procedente.
+
+Las partes podrán comparecer a la audiencia optativamente en forma personal, por medio de representante o de abogado autorizado. Los autorizados invariablemente deberán contar con facultades expresas para someter la solución del conflicto a un método alterno, y suscribir en su caso el convenio correspondiente.
+
+Las personas morales comparecerán por medio de sus representantes legales. Los mayores incapaces y los menores comparecerán por conducto de sus representantes legales o tutores, en éstos casos el Magistrado proveerá de oficio lo necesario a efecto de no dejarlos en estado de indefensión con motivo del acreditamiento de los mismos.
+
+Las autoridades que sean parte del juicio comparecerán por sí o a través de cualquiera de los Delegados acreditados en los términos del artículo 34 de la presente Ley. A éstos delegados, deberán conferírsele por escrito las mismas facultades que correspondan a los representantes legales o abogados autorizados de los particulares para la sujeción a los métodos alternos.
+
+IV.- La etapa de conciliación a que se refiere el presente artículo no suspenderá el procedimiento, salvo que las partes manifiesten su conformidad para someter el conflicto o controversia a un método alterno de solución, caso en el cual procederá la suspensión, por una sola vez, hasta por un término improrrogable de treinta días naturales.
+
+V. Vencido el plazo a que se refiere el artículo anterior, si las partes no concretizan el Convenio correspondiente en el que pongan fin a la controversia; deberán hacerlo del conocimiento de la Sala, solicitando la reanudación del juicio en la etapa en que se haya quedado. El titular de la Dirección de Orientación y Consulta Ciudadana comunicará por escrito el resultado de la conciliación haciéndolo saber a la Sala de la instrucción, devolviendo la copia del expediente recibido.
+
+VI. Si se realiza el Convenio correspondiente en el que consten los acuerdos a los que llegaron las partes, la Dirección de Orientación y Consulta Ciudadana remitirá el citado Convenio a la Autoridad demandada, para efecto de notificar al actor para que en un término de cinco días hábiles ratifique ante ésta el contenido del citado Convenio y se realice la validación correspondiente. La Autoridad demandada tendrá un plazo de cinco días hábiles para informar al Magistrado, sobre la validación del Convenio, para que éste proceda a dar por concluido el juicio. En caso de que las partes no validen el Convenio, se continuará de oficio el juicio contencioso, una vez que el Magistrado se cerciore de lo anterior. En todo caso la Dirección de Orientación y Consulta Ciudadana dará a conocer al Magistrado de los pormenores del asunto.
+
+Será nulo de pleno derecho el Convenio que se celebre cuando con motivo del mismo, se contravengan disposiciones del orden público, o se afecten derechos de tercero, de acuerdo a lo previsto en la Ley de Métodos Alternos para la Solución de Conflictos del Estado de Nuevo León.
+
+En caso de incumplimiento del Convenio validado por la autoridad, se aplicarán en lo conducente, las reglas que para la ejecución de sentencia se establecen en la presente Ley, previo derecho de audiencia de las partes.
+
+Si la parte actora no da cumplimiento a un Convenio validado, la autoridad demandada, tendrá expedita su facultad para realizar los actos que considere pertinentes, y sin menoscabo de solicitar su ejecución forzosa.
 
 ### CAPITULO VI. DE LA CONTESTACION
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 50.
 
-El término para contestar la demanda, así como la ampliación de ésta, será de treinta días hábiles y correrá individualmente a partir del día siguiente al de la notificación.
+El plazo para contestar la demanda será de treinta días hábiles, y para la ampliación de ésta, será de quince días hábiles y correrá individualmente a partir del día siguiente al en que surta efectos la notificación.
 
-Los demandados y el tercero perjudicado, en su contestación, se referirán a cada uno de los puntos contenidos en el escrito de demanda, expondrán los fundamentos legales que consideren aplicables al caso y a las pruebas que ofrezcan.
+Los demandados y el tercero perjudicado expresarán en la contestación de demanda y en la ampliación de ésta lo siguiente:
 
-En los casos de resolución negativa ficta, en la contestación de la demanda se expresarán los hechos y los fundamentos jurídicos que pudieran existir en apoyo de la misma.
+I. Los incidentes de previo y especial pronunciamiento a que haya lugar;
+
+II. Las causales de improcedencia y sobreseimiento que conozcan;
+
+III. Se referirá concretamente a cada uno de los hechos que el demandante le impute de manera expresa, afirmándolos, negándolos, expresando que los ignora por no ser propios o exponiendo como ocurrieron según sea el caso; si no produce contestación a todos los hechos, se tendrán por ciertos los que el actor les impute de manera precisa, salvo que por las pruebas rendidas o por hechos notorios resulten desvirtuados;
+
+IV. Los argumentos por medio de los cuales se demuestra la ineficacia de los conceptos de agravio; y
+
+V. Las pruebas que ofrezca, expresando claramente el hecho o hechos que trata de acreditar con las mismas, así como las razones por las que considera que demostrarán sus afirmaciones.
+
+Tratándose de pruebas documentales, se deberá precisar la foja y el párrafo del instrumento donde conste la información con la que demostrará los hechos que pretende probar.
+
+En caso de que se ofrezcan las pruebas de inspección, pericial o testimonial, se precisarán los hechos sobre los que deben versar y en el caso de las últimas, se señalarán los nombres y domicilio del perito o de los testigos. Tratándose de la prueba de inspección se señalará el lugar en que deba practicarse, así como los puntos que la provoquen.
+
+Las pruebas que no cumplan con los señalamientos precisados en esta fracción se tendrán por no ofrecidas.
 
 ###### Artículo 51.
 
 Al escrito de contestación se deberán acompañar:
 
-I.- El documento justificativo de la personalidad del demandado cuando sea un particular y no actúe en nombre propio. Tratándose de servidores públicos acompañarán copia del documento que certifique o contenga su nombramiento, designación o delegación de facultades;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
-II.- Las pruebas documentales que ofrezca;
+I.- El documento justificativo de la personalidad del demandado cuando sea un particular y no actúe en nombre propio;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+II.- Las pruebas documentales que ofrezca, cuando las pruebas no obren en poder de la parte oferente, aplicará en lo conducente lo previsto en la fracción III del artículo 47;
 
 III.- El cuestionario que deban desahogar los peritos y el interrogatorio que deberán contestar los testigos, debidamente firmados por el demandado, expresando los nombres y domicilios de los mismos, y
 
-IV.- Una copia de la contestación de la demanda y sus anexos para cada una de las otras partes. En caso de que éstos excedan de veinticinco fojas, quedarán en la Secretaría a disposición de las partes. Cuando no se adjunten estos documentos, el Magistrado los requerirá mediante notificación personal para que los presenten dentro de un plazo de cinco días, apercibiéndolos de que de no hacerlo en tiempo, se tendrá por no contestada la demanda.
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+IV.- Una copia de la contestación de la demanda y sus anexos para el actor y en su caso para el tercero perjudicado. En caso de que éstos excedan de veinticinco fojas, quedarán en la Secretaría a disposición de las partes.
+
+Cuando no se adjunten los documentos, cuestionarios e interrogatorios a que se refiere este artículo, el Magistrado los requerirá para que los presenten dentro del plazo de 5 días, apercibiéndolos que en caso de no hacerlo en tiempo se tendrá por no contestada la demanda si se trata de las referidas en las fracciones I y IV de este artículo; pero tratándose de las señaladas en las fracciones II y III, se tendrán por no ofrecidas las pruebas.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 52.
 
-El tercero perjudicado podrá ser señalado por las partes o comparecer por sí mismo al juicio e interponer defensas y excepciones, aportar las pruebas que considere pertinentes y formular alegatos.
+El tercero perjudicado podrá ser señalado por las partes o comparecer por sí mismo al juicio e interponer defensas y excepciones, aportar las pruebas que considere pertinentes y formular alegatos. En todo caso deberá acreditar el interés jurídico que le asiste.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 53.
 
-Si la parte demandada no contesta la demanda dentro del término legal, el Tribunal tendrá por admitidos los hechos controvertidos.
+Si la parte emplazada no contesta la demanda dentro del término legal, el Tribunal tendrá por admitidos los hechos que el actor le atribuya en forma precisa a la contraparte, salvo prueba en contrario, o que por hechos notorios resulten desvirtuados.
 
 ###### Artículo 54.
 
 No obstante existir tercero perjudicado, los demandados podrán allanarse a la demanda, en cuyo caso se dictará la resolución correspondiente sin mayor trámite.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 55.
 
-En el auto en que se admita la contestación de la demanda o se tenga por no contestada, se señalará fecha para la audiencia de pruebas y alegatos, la cual se celebrará dentro de un plazo que no excederá de diez días.
+En el auto en que se admita la contestación de la demanda o se tenga por no contestada, se podrá señalar, si se estima pertinente, fecha para la audiencia de pruebas y alegatos, la cual se celebrará dentro de un plazo que no excederá de quince días.
 
 ### CAPITULO VII. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
 
@@ -677,6 +923,10 @@ III.- El de suspensión del juicio por causa de muerte del actor, o del demandad
 
 Los incidentes se promoverán ante los magistrados instructores que conozcan del juicio respectivo.
 
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+Cuando esta Ley no prevea plazo específico para la interposición del incidente respectivo, se considerará el de cinco días hábiles contados a partir del siguiente al en que se tuvo conocimiento de los hechos que motivaron el mismo.
+
 ###### Artículo 63.
 
 La acumulación de dos o más juicios es procedente en los siguientes casos:
@@ -696,6 +946,10 @@ La acumulación se tramitará ante el Magistrado que esté conociendo el juicio 
 Una vez decretada la acumulación, el Magistrado que conozca del juicio más reciente, deberá enviar los autos al que conoció del primer juicio, en un plazo que no excederá de tres días hábiles.
 
 No procede la acumulación cuando en alguno de los juicios ya se hubiere celebrado la audiencia o se encuentre en diversa instancia.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+Decretada la acumulación, se suspenderá el curso del juicio que estuviere más próximo a su término, hasta que el otro se encuentre en el mismo estado, a fin de que ambos se decidan en una misma sentencia.
 
 ###### Artículo 65.
 
@@ -717,13 +971,25 @@ Cuando los actos materia de impugnación hubieran sido ejecutados temporal o pro
 
 La suspensión podrá ser revocada por el magistrado instructor en cualquier etapa del juicio, si varían las condiciones por las cuales se otorgó.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 68.
 
-Cuando a juicio del Magistrado fuera necesario garantizar el interés fiscal, la suspensión del acto reclamado se concederá previo aseguramiento del mismo, en cualesquiera de las formas que establecen las disposiciones relativas, a menos que se demuestre que la garantía se constituyó con antelación ante la autoridad demandada.
+Cuando a juicio del Magistrado fuera necesario garantizar el interés fiscal, la suspensión del acto reclamado se concederá previo aseguramiento del mismo, mediante certificado de depósito expedido por la Secretaría de Finanzas y Tesorería General del Estado, o con fianza otorgada por institución autorizada.
+
+Sin perjuicio de lo preceptuado en el párrafo anterior, el Magistrado podrá eximir el otorgamiento de garantía del adeudo fiscal, en los siguientes casos:
+
+I. Siempre que previamente se haya constituido la garantía del interés fiscal ante la autoridad demandada;
+
+II. Cuando se trate de persona distinta del obligado directamente al pago;
+
+III. Cuando de acuerdo a la apreciación del Magistrado y tratándose del cobro de sumas, éstas excedan de la posibilidad del quejoso.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 69.
 
-En los casos en que proceda la suspensión y pueda ocasionar daños o perjuicios a terceros, se concederá si el actor otorga garantía bastante para reparar el daño e indemnizar los perjuicios que con aquélla se causaren, si no se obtiene sentencia favorable en el juicio.
+En los casos en que proceda la suspensión y pueda ocasionar daños o perjuicios a terceros, se concederá si el actor otorga garantía bastante, en las formas previstas en el artículo anterior, para reparar el daño e indemnizar los perjuicios que con aquélla se causaren, si no se obtiene sentencia favorable en el juicio.
 
 La suspensión quedará insubsistente si el tercero a su vez otorga caución bastante para que las cosas se mantengan en el estado en que se encontraban en el momento que ésta fue concedida y a cubrir los daños que sobrevengan en perjuicio del actor, en caso de que éste obtenga sentencia favorable.
 
@@ -731,19 +997,41 @@ Para que surta efectos la caución que ofrezca el tercero conforme al párrafo a
 
 No se admitirá la contragarantía cuando, de ejecutarse el acto demandado, quede sin materia el juicio.
 
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+En todos los casos, el Magistrado podrá requerir al interesado o a las partes en el juicio, los informes que considere necesarios para estimar el monto de los daños y perjuicios objeto de garantía o contragarantía, y fijará discrecionalmente el monto de los mismos cuando no sean estimables en dinero.
+
 ###### Artículo 70.
 
 Para hacer efectivas las garantías otorgadas con motivo de la suspensión, el interesado deberá solicitarlo dentro de los treinta días siguientes a que cause ejecutoria la sentencia; si no lo hiciere dentro de ese término, se procederá a la devolución o cancelación de la garantía. La solicitud correspondiente se tramitará en la vía incidental.
 
 ### CAPITULO XI. DE LAS PRUEBAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 71.
 
-En el juicio contencioso administrativo son admisibles todas las pruebas que tengan relación directa con los hechos controvertidos, excepto la confesional por posiciones a cargo de la autoridad y las que fueren contrarias a la moral o al derecho.
+En el juicio contencioso administrativo son admisibles todas las pruebas que tengan relación directa con los hechos controvertidos, excepto la confesional por posiciones a cargo de la autoridad y la petición de informes salvo que éstos se limiten a hechos que consten en documentos que obren en poder de las autoridades y las que fueren contrarias a la moral o al derecho.
 
 Aquellas pruebas que se hubieren rendido ante las autoridades demandadas deberán ponerse a disposición del magistrado instructor con el expediente relativo, a petición de parte.
 
 Las pruebas supervinientes podrán presentarse hasta antes de dictarse sentencia.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+Las partes en ningún momento podrán citar o incorporar como prueba, al juicio, antecedente alguno que tenga relación con la proposición, discusión, aceptación o rechazo, procedencia o revocación de un método alterno que en su caso se hubiere hecho valer.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+Cuando se ofrezcan las pruebas de inspección y pericial, el propietario, poseedor u ocupante del bien en el cual se deban desahogar las citadas probanzas, tendrá la obligación de permitir el acceso al mismo a fin de que se cumpla tal objetivo.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+Una vez admitida la prueba de inspección o pericial, el Magistrado de la Sala Ordinaria, prevendrá al propietario, poseedor u ocupante referido en el párrafo que antecede, a fin de que cumpla con dicha obligación, bajo los siguientes apercibimientos:
+
+a) Cuando sea el oferente quien deba permitir el acceso, se le apercibirá que de no hacerlo así se tendrá por desierta la probanza de que se trate.
+
+b).- Para el caso de que sea algunas de las contrapartes del oferente de la prueba, la que deba permitir el acceso, se le apercibirá que de no cumplir con tal obligación se tendrán por ciertos los hechos que se pretendan acreditar con la prueba ofrecida.
 
 ###### Artículo 72.
 
@@ -773,9 +1061,11 @@ Las pruebas que lo ameriten se desahogarán en la audiencia del juicio. Si no fu
 
 Cuando el desahogo de las pruebas deba realizarse fuera del Area Metropolitana de Monterrey, el Magistrado de la causa por conducto del Tribunal Superior de Justicia lo solicitará al Juez de Primera Instancia más próximo al de la localidad referida, girándole el exhorto correspondiente, acompañando los documentos, interrogatorios o cuestionarios correspondientes, debidamente calificados.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 78.
 
-La prueba pericial tendrá lugar en las cuestiones relativas a alguna ciencia o arte; los peritos deberán tener título en la especialidad a que pertenezca el asunto sobre el que habrán de dictaminar, si estuviera legalmente reglamentada; si no lo estuviera, o si estándolo no fuera posible designar un perito titulado, podrán ser nombrados al efecto personas entendidas en la ciencia o arte, a juicio del Magistrado instructor.
+La prueba pericial tendrá lugar en las cuestiones relativas a alguna ciencia o arte; admitida que fuera la prueba pericial se fijará un mismo plazo de diez días hábiles para que las demás partes designen al perito de su intención, así como para que todas las partes presenten a sus peritos, personalmente o por escrito, a fin de que comprueben si reúnen los requisitos legales, manifiesten que no tienen impedimento legal para emitir su dictamen y acepten el cargo, con el apercibimiento que de no hacerlo solo se considerará el peritaje de quien haya cumplido; en la inteligencia de que los peritos deberán tener título en la especialidad a que pertenezca el asunto sobre el que habrán de dictaminar, si estuviera legalmente reglamentada; si no lo estuviera, o si estándolo no fuera posible designar un perito titulado, podrán ser nombrados al efecto personas entendidas en la ciencia o arte que deberán dictaminar.
 
 ###### Artículo 79.
 
@@ -819,9 +1109,37 @@ III.- Recibir los alegatos que se formulen por escrito.
 
 La falta de asistencia de las partes no impedirá la celebración de la audiencia.
 
+(ADICIONADO, P.O. 20 DE FEBRERO DE 2009) (F. DE E., P.O. 20 DE MARZO DE 2009)
+
+###### Artículo 82 Bis.
+
+La audiencia de pruebas y alegatos deberá celebrarse en la hora y fecha señaladas para tal efecto y únicamente podrá diferirse en los supuestos siguientes:
+
+I.- Que no se realice la notificación en tiempo para alguna de las partes la notificación del auto que señale la fecha y hora para la celebración de la audiencia y siempre que no esté presente en la misma;
+
+II.- En caso fortuito o de fuerza mayor; y
+
+III.- Cuando las partes lo soliciten con cuarenta y ocho horas de anticipación siempre y cuando sea por causa grave, plenamente justificada y acordada favorablemente.
+
 ###### Artículo 83.
 
 Abierta la audiencia el día y hora señalados para ello, el Secretario actuante procederá al desahogo de la misma en el orden citado, para lo cual llamará a los litigantes, peritos, testigos y demás personas que por disposición de la Ley deban intervenir en el juicio y se determinará quiénes deban permanecer en la sala en que se celebra y quiénes en lugar separado para ser introducidos en su oportunidad.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+Quienes asistan a la audiencia deberán permanecer respetuosamente y en silencio mientras no estén autorizados para exponer o deban responder a las preguntas que se le formulen. No podrán provocar molestia, ofensa o adoptar comportamiento intimidatorio o provocativo contrario al decoro, ni producir disturbios o expresar de modo alguno manifestaciones o sentimientos.
+
+(ADICIONADO, P.O. 20 DE FEBRERO DE 2009) (F. DE E., P.O. 20 DE MARZO DE 2009)
+
+###### Artículo 83 Bis.
+
+La audiencia del juicio una vez iniciada sólo podrá suspenderse en los siguientes casos:
+
+I.- Conforme a lo previsto en los artículos 75, 76 y 84 de esta Ley;
+
+II.- En caso fortuito o de fuerza mayor; y
+
+III.- Cuando el Magistrado Instructor lo estime pertinente, sin perjuicio de las partes.
 
 ###### Artículo 84.
 
@@ -829,25 +1147,35 @@ Respecto de las pruebas, la audiencia se sujetará a las siguientes reglas:
 
 I.- Se admitirán o desecharán las supervinientes que se ofrezcan, procediéndose, en el primer caso, a su desahogo;
 
-II.- Si se ofrece prueba pericial, en el auto que recaiga a la contestación o ampliación de ésta, se fijará plazo de 10 días para que las partes presenten a sus peritos, a fin de que comprueben si reúnen los requisitos legales, manifiesten que no tienen impedimento legal para emitir su dictamen y acepten el cargo, con el apercibimiento de que de no hacerlo solo se considerará el peritaje de quien haya cumplido.
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
-El dictamen pericial podrá rendirse antes de la celebración de la audiencia, o a más tardar durante la misma, perdiendo el derecho de hacerlo con posterioridad. El Tribunal nombrará perito tercero en discordia en los casos en que los dictámenes periciales de las partes sean contradictorios, suspendiendo la audiencia en este caso. Los honorarios de este perito correrán por cuenta de las partes. Las partes y el Magistrado podrán formular observaciones a los peritos y hacerles las preguntas que estimen pertinentes en relación con los puntos sobre los que dictaminen;
+II.- El dictamen pericial podrá rendirse antes de la celebración de la audiencia, o a más tardar durante la misma, perdiendo las partes el derecho de hacerlo con posterioridad. El Tribunal nombrará perito tercero en discordia en los casos en que los dictámenes periciales de las partes sean contradictorios, suspendiendo la audiencia en este caso. Los honorarios de este perito correrán por cuenta de las partes cuyos dictámenes estén en contradicción. Los peritos deberán asistir y ratificar su dictamen en la Audiencia, en caso contrario se desestimará el mismo cuando se trate de los peritos ofrecidos por las partes; por lo que hace al perito tercero en discordia se hará uso de los medios de apremio. Las partes y el Magistrado podrán formular observaciones a los peritos y hacerles las preguntas que estimen pertinentes en relación con los puntos sobre los que dictaminen.
 
-III.- Las preguntas y las repreguntas que pudieran formular las otras partes a los testigos, deberán tener relación directa con los puntos controvertidos y estar concebidas en términos claros y precisos, procurando que en una sola no se comprenda más de un hecho. El Magistrado deberá calificar los interrogatorios, desechando las preguntas o repreguntas improcedentes. La protesta y examen de los testigos se hará en presencia de las partes. El Magistrado podrá hacer las preguntas que considere necesarias. El oferente de la prueba podrá formular preguntas adicionales, que deberán contestar los testigos previa calificación; y
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
-IV.- Si alguna de las partes objetare de falso un documento, el Magistrado suspenderá la audiencia para continuarla dentro de los cinco días siguientes, cuando se podrán presentar pruebas y contrapruebas en relación con la autenticidad del documento objetado.
+III.- Las preguntas y las repreguntas que pudieran formular las partes a los testigos, deberán tener relación directa con los puntos controvertidos y estar concebidas en términos claros y precisos, procurando que en una sola no se comprenda más de un hecho. El Magistrado deberá calificar los interrogatorios, desechando las preguntas o repreguntas improcedentes. La protesta y examen de los testigos se hará en presencia de las partes. El Magistrado podrá hacer las preguntas que considere necesarias.
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+IV.- Si alguna de las partes objetare de falso un documento o firma, el Magistrado suspenderá la audiencia y en vía incidental continuarla dentro de los cinco días siguientes, cuando se podrán presentar pruebas y contrapruebas en relación con la autenticidad del documento o firma objetados.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+Tratándose de la prueba pericial, testimonial, confesional por absolución de posiciones, o cualquiera otra que requiera de especial desahogo, la audiencia podrá suspenderse cuando medie causa justificada que impida su desahogo.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 85.
 
-No habiendo pruebas que deban desahogarse en la audiencia o desahogadas las procedentes, se recibirán los alegatos que formulen las partes. Las promociones que presenten las partes en la audiencia, así como sus oposiciones contra los acuerdos que en ella se dicten, se resolverán de plano.
+No habiendo pruebas que deban desahogarse en la audiencia o desahogadas las procedentes, se recibirán los alegatos que formulen las partes.
 
 ### CAPITULO XIII. DE LA SENTENCIA
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 86.
 
-El Magistrado deberá dictar sentencia dentro de un plazo no mayor a diez días hábiles, contados a partir de la fecha en que se hubiere concluido la audiencia.
-
-Cuando el Magistrado no dicte sentencia dentro del plazo señalado en el párrafo anterior, las partes podrán formular excitativa de justicia, por escrito, ante el Presidente del Tribunal, para su conocimiento y resolución.
+El Magistrado deberá dictar sentencia dentro de un plazo no mayor a veinte días hábiles, contados a partir de la fecha en que se hubiere concluido la audiencia.
 
 ###### Artículo 87.
 
@@ -861,7 +1189,17 @@ II.- El análisis de los conceptos de agravio consignados en la demanda;
 
 III.- Los fundamentos en que se apoyen para declarar fundada o infundada la pretensión para reconocer la validez o nulidad del acto impugnado; para absolver o para condenar y, en su caso, para determinar los efectos de la sentencia; y
 
-IV.- Los puntos resolutivos en los que se expresarán los actos cuya validez se reconozca o cuya nulidad se declare; la reposición del procedimiento que se ordene; los términos de la modificación del acto impugnado o en su caso la condena que se decrete.
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+IV.- Los puntos resolutivos en los que se expresarán los actos cuya validez se reconozca o cuya nulidad se declare; la declaratoria de inaplicabilidad de una disposición administrativa de carácter general respecto del demandante; la reposición del procedimiento que se ordene; los términos de la modificación del acto impugnado o en su caso la condena que se decrete. Cuando se trate de omisiones o resoluciones que tengan relación con una afirmativa ficta, se deberá cuidar que los términos en que se decrete su configuración o la condena correspondiente nunca afecte derechos de terceros, se contravengan disposiciones de orden público o se cause un perjuicio al interés social.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+Los Magistrados podrán corregir los errores u omisiones que adviertan en la cita de los preceptos que se consideren violados.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+En la sentencia se podrán examinar en su conjunto los agravios, causales de improcedencia a fin de resolver conforme a derecho la legalidad o ilegalidad del acto en lo que se dirime o resuelva el fallo, teniendo la facultad de invocar hechos notorios.
 
 ###### Artículo 88.
 
@@ -875,7 +1213,21 @@ III.- Declarar la nulidad de la resolución o acto impugnados para determinados 
 
 El Tribunal deberá precisar con claridad la forma y términos en que la autoridad debe cumplirla.
 
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+Cuando se impugne una disposición administrativa de carácter general y el concepto de agravio relativo resulte fundado y suficiente, la declaratoria de nulidad que corresponda se circunscribirá al acto concreto de aplicación y por lo que hace a la disposición administrativa se hará la determinación de inaplicabilidad de la misma al demandante.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
 Si se interpuso el recurso de revisión en el caso previsto en la fracción V del artículo 90 de esta Ley, se suspenderá el efecto de la sentencia hasta que se dicte la resolución o se ponga fin a la controversia.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 88 Bis.
+
+Las partes podrán formular Excitativa de Justicia ante el Presidente del Tribunal cuando el Magistrado Instructor no dicte sentencia dentro del plazo señalado en la ley.
+
+Recibida la Excitativa de Justicia, el Presidente del Tribunal solicitará el informe al Magistrado de que se trate, quien deberá rendirlo en un plazo de 5 días. Si se encuentra fundada la excitativa se otorgará un plazo que no excederá de 15 días para que el Magistrado dicte la sentencia correspondiente.
 
 ### CAPITULO XIV. DE LOS RECURSOS
 
@@ -886,6 +1238,10 @@ Contra los acuerdos y resoluciones dictados por los magistrados del Tribunal de 
 I.- Revisión;
 
 II.- Queja.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+Quienes promuevan algunos de los recursos, deberán estar legitimados para su interposición y de ser necesario acreditarlo ante el Magistrado que lo resuelva, salvo que lo hayan hecho previamente en el juicio principal. De no cumplir con este requisito se hará la prevención que corresponda aplicando en lo conducente lo previsto en los artículos 47 y 51 de esta Ley; y de no cumplir se tendrá por no interpuesto el recurso.
 
 ###### Artículo 90.
 
@@ -907,9 +1263,11 @@ VII.- Por violaciones procesales cometidas durante el juicio, siempre que afecte
 
 VIII.- Por violaciones cometidas en las propias resoluciones o sentencias.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 91.
 
-El recurso de revisión deberá ser interpuesto por escrito con expresión de agravios, dentro del plazo de diez días hábiles siguientes al en que surta efectos la notificación de la resolución que se impugna. Se presentará ante el Magistrado del que emane la resolución combatida, y éste correrá traslado a las demás partes en el juicio y las emplazará para que dentro de igual término expongan ante la Sala Superior del Tribunal lo que a su derecho convenga.
+El recurso de revisión deberá ser interpuesto por escrito con expresión de agravios, dentro del plazo de diez días al en que surta efectos la notificación de la resolución que se impugna. Se presentará ante el Magistrado del que emane la resolución combatida con las copias necesarias para que éste corra traslado a las demás partes en el juicio y las emplazará para que dentro de igual término expongan ante la Sala Superior del Tribunal lo que a su derecho convenga. Cuando no se presenten las copias a que hace referencia este artículo, el Magistrado formulará requerimiento al recurrente para que las exhiba en un plazo de 3 días, si no obstante el requerimiento no se presentaren las copias requeridas, el Magistrado remitirá el escrito del recurso a la Sala Superior quien lo tendrá por no interpuesto.
 
 Emplazadas las partes, se remitirá el escrito del recurso y el expediente correspondiente a la Sala Superior del Tribunal para su resolución. Vencido el término para alegar, el Presidente del Tribunal deberá dictar su resolución en un plazo no mayor a cinco días hábiles.
 
@@ -917,15 +1275,21 @@ Emplazadas las partes, se remitirá el escrito del recurso y el expediente corre
 
 El recurso de Queja es competencia de los Magistrados de las Salas Ordinarias y es procedente:
 
-I.- Por incumplimiento, exceso o defecto en la ejecución del auto en que se haya concedido la suspensión del acto o procedimiento impugnado;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
-II.- Por incumplimiento, exceso o defecto en la ejecución de la sentencia del Magistrado, que haya declarado fundada la pretensión del actor;
+I.- Por exceso o defecto en la ejecución del auto en que se haya concedido la suspensión del acto o procedimiento impugnado;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+II.- Por exceso o defecto en la ejecución de la sentencia del Magistrado, que haya declarado fundada la pretensión del actor;
 
 III.- Contra actos de las autoridades demandadas tendientes a repetir el acto o procedimiento anulado; y
 
 IV.- Cuando las autoridades demandadas no provean sobre la suspensión del acto combatido dentro del término legal, nieguen o rechacen la garantía ofrecida o reinicien la ejecución. En estos casos, al promoverse el recurso deberá de acompañarse el documento en que conste la solicitud de la suspensión, el ofrecimiento de la garantía o el reinicio de la ejecución.
 
-El recurso deberá interponerse por escrito ante el Magistrado instructor que conozca o hubiere conocido del juicio, dentro de cinco días hábiles contados a partir del siguiente al en que haya surtido efectos la notificación de la resolución recurrida, acompañando una copia del recurso para cada una de las partes.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+El recurso deberá interponerse por escrito ante el Magistrado instructor que conozca o hubiere conocido del juicio, dentro de diez días hábiles contados a partir del día hábil siguiente al en que haya surtido efectos la notificación de la resolución recurrida, o tenga conocimiento del acto u omisión de que se duele, acompañando una copia del recurso para cada una de las partes.
 
 Admitido el recurso, el Magistrado requerirá a la autoridad contra la que se hubiere interpuesto para que rinda informe justificado sobre la materia de la queja, dentro del plazo de cinco días hábiles, y dentro de los cinco días hábiles siguientes dictará la resolución que proceda. La falta de los informes establece la presunción de ser ciertos los hechos respectivos y hará incurrir a las autoridades omisas en una multa de cinco a sesenta días del salario mínimo vigente en la ciudad de Monterrey, que impondrá de plano el Magistrado que conozca de la queja al resolver el recurso.
 
@@ -937,25 +1301,57 @@ Interpuesto el recurso y a solicitud de parte, el Magistrado mandará suspender 
 
 Causan ejecutoria:
 
-I.- Las sentencias consentidas expresamente por las partes, sus representantes legítimos o sus mandatarios con poder bastante; y
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
-II.- Las sentencias no impugnadas o de las que habiéndolo sido, se haya declarado desierto o improcedente el medio de impugnación o el promovente se haya desistido de él, o no se continuare el recurso en el término legal.
+I.- La sentencias consentidas expresamente por las partes, sus representantes legítimos o sus mandatarios con poder bastante;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+II.- Las sentencias no impugnadas o de las que habiéndolo sido, se haya declarado desierto o improcedente el medio de impugnación o el promovente se haya desistido de él, o no se continuare el recurso en el término legal; y
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+III.- Las pronunciadas en revisión.
 
 No será necesario hacer declaración alguna para que las resoluciones causen ejecutoria en los términos del Artículo anterior.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 94.
 
-Cuando haya causado ejecutoria una sentencia favorable a un particular, el Tribunal lo comunicará por oficio y sin demora alguna a las autoridades demandadas para su debido cumplimiento, previniéndolas para que informen sobre el cumplimiento que den a la sentencia respectiva.
+Cuando haya causado ejecutoria una sentencia en que se haya declarado la nulidad, el Magistrado de la Sala Ordinaria lo comunicará por oficio y sin demora alguna a las autoridades que hayan dictado, ejecutado, tratado de ejecutar el acto impugnado o sustituido a la autoridad que lo hizo, así como a cualquier otra autoridad que, por sus funciones, tenga que intervenir en la ejecución, para su debido cumplimiento, previniéndolas para que informen, dentro del término de quince días sobre el cumplimiento que den a la sentencia respectiva.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 95.
 
-Si dentro de los quince días siguientes al en que haya causado ejecutoria la sentencia, ésta no se cumpliere, el Tribunal de oficio o a petición de parte, aplicará los medios de apremio previstos por esta Ley.
+En aquellos casos en que la sentencia decrete la nulidad del acto reclamado y dicha nulidad implique la cuantificación de alguna prestación económica para resarcir al accionante en su derecho violentado con el acto nulificado, la cuantificación de tales prestaciones deberá de tramitarse mediante un incidente de liquidación promovido a instancia de parte e incluso de oficio.
+
+Al incidente de referencia la parte actora deberá de adjuntar la propuesta detallada de la liquidación correspondiente y los elementos de prueba que soporten las cantidades propuestas.
+
+Para el caso de que el actor no cuente con los elementos de prueba necesarios para la elaboración de su propuesta, deberá hacer por escrito mención de dicha circunstancia, señalando las documentales e informes que requiere para tal efecto, así como la autoridad que cuenta con los mismos, a fin de que el Magistrado de la Sala Ordinaria requiera a ésta última para que remita tal información, en un término de hasta 10-diez días hábiles a partir de que surta efectos la notificación del requerimiento realizado, bajo el apercibimiento de que en caso de no acatarlo se aplicarán en su contra los medios de apremio que establece esta ley.
+
+Una vez que obre en autos la información requerida se le dará vista al accionante para que en un término de 5-cinco días formule la propuesta de liquidación correspondiente.
+
+Formulada que haya sido la propuesta de liquidación, se le dará vista a la parte demandada para que dentro del término de 5-cinco días hábiles formule las objeciones que considere pertinentes a la misma, aportando las probanzas que apoyen su oposición. Una vez desahogada la vista anterior, o bien transcurrido que haya sido el término concedido para ello, el Magistrado resolverá de plano el incidente dentro de los 5-cinco días siguientes.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 96.
 
-En el supuesto de que la autoridad o el servidor público persistiera en no dar cumplimiento a la sentencia, el Tribunal ordenará su cumplimiento si la ejecución consiste en la realización de un acto material; promoverá la aplicación de la ley o del reglamento que corresponda y si el acto solo puede ser ejecutado por la autoridad demandada, solicitará al titular de la dependencia estatal o municipal, a quien se encuentre subordinada dicha autoridad, para que conmine a ésta a cumplir con la sentencia.
+Si dentro del término de los quince días siguientes al en que haya causado ejecutoria una sentencia que declare la nulidad, ésta no se cumpliere, el Magistrado de oficio o a petición de parte requerirá a las autoridades señaladas en el artículo 94 que informen dentro de los cinco días siguientes, respecto al cumplimiento de la sentencia.
 
-Si no obstante los requerimientos anteriores no se da cumplimiento a la resolución, el Tribunal podrá decretar la destitución del servidor público que incumplió, excepto que se trate de una autoridad de elección, en cuyo caso se procederá en los términos de la Ley de Responsabilidades de los Servidores Públicos para el Estado de Nuevo León.
+Concluido el término anterior, con informe o sin él, el Magistrado decidirá si hubo incumplimiento injustificado de la sentencia, resolviendo lo conducente. En caso de que resuelva la existencia de un incumplimiento injustificado procederá como sigue:
+
+I. Impondrá a la autoridad que deba cumplir una multa de trescientas a mil veces el salario mínimo vigente en la Ciudad de Monterrey, tomando en cuenta la gravedad del incumplimiento y las consecuencias que ello hubiese ocasionado, informándose al Titular de la dependencia estatal o municipal, a quien se encuentre subordinada dicha autoridad.
+
+II. En el supuesto de que la autoridad o el servidor público persistiera en no dar cumplimiento a la sentencia, el Magistrado de la Sala Ordinaria requerirá al titular de la dependencia estatal o municipal, a quien se encuentre subordinada dicha autoridad, para que, en un plazo de cinco días hábiles, conmine a ésta a cumplir con la sentencia y proporcione el informe correspondiente, imponiéndosele, en caso de no cumplir con ello, una multa de trescientas a mil veces el salario mínimo vigente en la Ciudad de Monterrey.
+
+III. De persistir el incumplimiento el Magistrado de la Sala podrá decretar la destitución de la autoridad que deba llevar a cabo el cumplimiento de la sentencia, excepto que se trate de una autoridad de elección, en cuyo caso se procederá en los términos de la Ley de Responsabilidades de los Servidores Públicos para el Estado y Municipios de Nuevo León.
+
+IV. Una vez agotado lo anterior, y cuando la naturaleza del acto lo permita, el Magistrado de la Sala podrá comisionar al funcionario jurisdiccional que por la índole de sus funciones estime más adecuado para que dé cumplimiento a la sentencia.
+
+Ante el incumplimiento de la sentencia por parte de las autoridades administrativas obligadas a ello, el Magistrado dará vista al Ministerio Público de los hechos acontecidos, para los efectos legales a que haya lugar.
 
 ###### Artículo 97.
 
@@ -977,9 +1373,687 @@ Cuando los Magistrados del Tribunal sustenten tesis contradictorias, cualesquier
 
 La resolución que se dicte en estos casos no afectará las situaciones jurídicas concretas derivadas de las sentencias contradictorias que fueron pronunciadas.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 101.
 
-Los criterios de interpretación que sustente el Pleno, así como aquéllos que constituyan precedente y se considere de importancia, se publicarán en el Organo Oficial de difusión del Tribunal.
+Los criterios de interpretación que sustente el Pleno, así como aquéllos que constituyan precedente y se considere de importancia, se publicarán para su vigencia en el Periódico Oficial del Estado o en el Órgano Oficial de difusión del Tribunal.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+
+## TITULO TERCERO. DEL PROCEDIMIENTO ORAL
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+
+### CAPITULO I. Disposiciones generales
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 102.
+
+La Sala Ordinaria que conozca el juicio oral, substanciará y resolverá, conforme a las normas que regulan el procedimiento oral, las controversias a que se refiere el artículo 1° de esta Ley, y que versen sobre sanciones no corporales por infracción a Leyes y Reglamentos Estatales y Municipales en materia de: Ecología y protección al medio ambiente; de servicios públicos de limpia, recolección y traslado de residuos sólidos; protección civil; prevención, combate, abuso, consumo y comercialización de bebidas alcohólicas; espectáculos; anuncios; comercio y de vialidad y tránsito.
+
+En los casos en que el Magistrado advierta de la demanda la impugnación de diversos actos y que contra algunos de ellos no proceda el procedimiento oral, la controversia se sujetará a lo previsto en el Título Segundo de la presente ley.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 103.
+
+El procedimiento oral se realizará fundamentalmente con base en los principios de oralidad, inmediación, abreviación, publicidad, contradicción, concentración y continuidad. En lo no previsto en este Título, y en cuanto no se oponga a lo dispuesto por el mismo, se aplicarán las disposiciones comunes de esta Ley, y de forma supletoria lo dispuesto en el Código de Procedimientos Civiles del Estado de Nuevo León.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 104.
+
+Las resoluciones de carácter jurisdiccional pronunciadas en las audiencias se tendrán por notificadas, sin necesidad de formalidad alguna, a quienes estén presentes o debieron haber estado.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 105.
+
+El escrito de la demanda y de la contestación se ajustarán a las formalidades previstas, respectivamente, en los capítulos V y VI del Título Segundo de esta Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 106.
+
+Contestada la demanda, o transcurrido el plazo para hacerlo, el Magistrado fijará la fecha y hora para la Audiencia Preliminar, ordenando notificarla con copia de ésta, a las partes por lo menos cinco días antes de dicha audiencia, apercibiéndolos de las consecuencias previstas en el artículo 104 de esta Ley para el caso de no comparecer.
+
+Si en el escrito de contestación se hiciere valer alguna cuestión incidental, el Magistrado proveerá lo conducente en el auto respectivo, otorgándole el término de tres días a la contraparte del incidentista para que manifieste lo que a su derecho convenga, mandando en su caso, preparar las pruebas ofrecidas que así lo requieran.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 107.
+
+La recusación será admisible hasta antes de la calificación de las pruebas en la Audiencia Preliminar.
+
+Si la recusación se declara fundada, será nulo lo actuado a partir del momento en que se interpuso la recusación.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+
+### CAPÍTULO II. REGLAS COMUNES PARA LAS AUDIENCIAS
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 108.
+
+Las audiencias serán presididas por el Magistrado bajo pena de nulidad; serán públicas, salvo las excepciones previstas en el artículo 29 de ésta Ley y en la Ley de Acceso a la Información Pública del Estado; y se desarrollarán oralmente en lo relativo a toda intervención de quienes participen en ellas.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 109.
+
+Salvo lo dispuesto en este Título, las promociones de las partes deberán formularse oralmente durante las audiencias.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 110.
+
+El Magistrado proveerá, en el momento y oralmente, toda cuestión que le sea planteada durante el desarrollo de las audiencias, con excepción de lo dispuesto en este Título.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 111.
+
+Se negará el acceso a cualquier persona que se presente en forma incompatible con la seriedad y los propósitos de la audiencia. Se prohibirá el ingreso a personas armadas. Así mismo no está permitido la introducción de equipo de video grabación, audio o cualquier otro medio de reproducción, incluidos los teléfonos celulares.
+
+El Magistrado que preside el debate podrá limitar el ingreso del público a una cantidad determinada de personas.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 112.
+
+El Magistrado ejercerá el poder de policía y disciplina de la audiencia, pudiendo ordenar el desalojo de personas por razones de orden, higiene, decoro o eficacia del debate, pudiendo solicitar en su caso el auxilio de la fuerza pública.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 113.
+
+Quienes asistan a la audiencia deberán permanecer respetuosamente y en silencio mientras no estén autorizados para exponer o deban responder a las preguntas que se le formulen.
+
+No podrán provocar molestia, ofensa o adoptar comportamiento intimidatorio o provocativo contrario al decoro, ni producir disturbios ó expresar de cualquier modo manifestaciones o sentimientos.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 114.
+
+Las partes podrán comparecer a la audiencia en forma personal, a través de un representante legal o abogado autorizado a que se refiere el artículo 34 de esta Ley, quienes deberán contar con facultades expresas para someter la solución del conflicto a un método alterno, conciliar ante el Magistrado, y suscribir, en su caso, el convenio correspondiente.
+
+Las personas morales comparecerán por medio de sus representantes legales o por abogado autorizado. Los mayores incapaces y los menores comparecerán por conducto de sus representantes legales o tutores, en éstos casos el Magistrado proveerá de oficio lo necesario a efecto de no dejarlos en estado de indefensión con motivo del acreditamiento de los mismos.
+
+Las autoridades que sean parte del juicio podrán comparecer por sí mismas o a través de cualquiera de los Delegados acreditados en los términos del artículo 34 de la presente Ley. A éstos delegados, deberán conferírsele por escrito las mismas facultades que correspondan a los representantes legales o abogados autorizados de los particulares para la sujeción a los métodos alternos.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 115.
+
+El Magistrado, al ordenar la citación para las audiencias, hará saber a las partes su obligación de asistir a las audiencias del procedimiento, apercibiéndolas de las consecuencias previstas en esta Ley, para el caso de no comparecer.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 116.
+
+El Magistrado determinará el inicio y la conclusión de cada una de las etapas de las audiencias conforme a las reglas establecidas en esta ley, se tendrán por precluídos los derechos procesales que debieron ejercitarse en las anteriores, cuando no se hayan ejercitado en tiempo.
+
+La parte que asista tardíamente a una audiencia se incorporará al procedimiento en la etapa en que ésta se encuentre.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 117.
+
+La fecha y hora de las audiencias se deberá fijar con la mayor proximidad posible para procurar la continuidad del procedimiento.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 118.
+
+El procedimiento se desarrollará en audiencia continua y podrá prolongarse en sesiones sucesivas, hasta su conclusión. Si por la hora o por la naturaleza de las pruebas ofrecidas se determina la suspensión de la audiencia, ésta se reanudará al día siguiente hábil, continuando durante los días consecutivos que fueren necesarios hasta su conclusión.
+
+El Magistrado podrá disponer la suspensión de la audiencia, hasta por diez días, en los siguientes casos:
+
+I.- Para resolver alguna cuestión incidental que no pueda, por su naturaleza resolverse inmediatamente, en los términos de lo dispuesto en el artículo 165 de esta Ley.
+
+II.- Para practicar un acto fuera de la sala de audiencia, cuando así se estime necesario para el desahogo de alguna prueba.
+
+III.- Cuando se trate de testigo o intérprete contumaz que fueren oportuna y debidamente citados, a los que incluso deberá hacérseles comparecer por medio de la fuerza pública.
+
+Si la suspensión tiene como causa el consentimiento de las partes para someter la controversia a un método alterno de solución de conflictos, la audiencia se suspenderá, por una sola vez, por un término improrrogable de veinte días hábiles.
+
+En todos estos casos, el Magistrado decidirá la suspensión y anunciará el día y la hora en que continuará la audiencia; ello valdrá como citación para todos los intervinientes.
+
+Cuando exista causa de fuerza mayor en el funcionamiento del Tribunal, el Pleno razonará el período de la suspensión de las audiencias en trámite y publicará el período de suspensión y la fecha de reanudación en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 119.
+
+Las audiencias se registrarán por video grabación, audio grabación o cualquier medio idóneo, a juicio del Magistrado, para dar fe pública, haciendo posible garantizar la fidelidad e integridad de la información, la conservación y reproducción de su contenido, y su acceso al mismo de quienes de acuerdo a la Ley tuvieren derecho a ello.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 120.
+
+Al inicio de cada audiencia el secretario hará constar oralmente en el registro a que hace referencia el artículo anterior, la fecha, hora y el lugar de realización, el nombre del Magistrado y los demás servidores públicos de la Sala y personas que intervendrán.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 121.
+
+Las partes que intervengan en el desarrollo de las audiencias deberán rendir previamente protesta de que se han conducido y se conducirán con verdad durante el procedimiento; para tal efecto, el secretario dará lectura íntegra de las disposiciones del Código Penal que tipifican y sancionan el delito de falsedad en declaraciones y en informes dados a una autoridad, apercibiéndolos de las penas que se imponen a quienes declaran con falsedad; igualmente les hará saber que en caso de conducirse con falsedad, el Magistrado procederá de oficio a dar vista al Ministerio Público, a fin de que inicie la averiguación correspondiente.
+
+La protesta así rendida surtirá efectos en todas las intervenciones que realice quien protestó durante las actuaciones del procedimiento.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 122.
+
+Durante el desarrollo de las audiencias el Magistrado deberá imponer el orden y, en su caso, las correcciones disciplinarias a que se refiere el artículo 31 Bis 3 de esta Ley, oyendo en ese mismo acto en defensa a las personas a quienes se les impongan, resolviendo enseguida el confirmar, modificar o dejar sin efecto dicha medida.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 123.
+
+El secretario deberá certificar mediante acta el medio óptico o magnético en donde se encuentre grabada la audiencia respectiva, así como identificar dicho medio con el número de expediente. Asimismo, deberá tomar las medidas necesarias para evitar que pueda alterarse.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 124.
+
+Las partes podrán solicitar copia simple o certificada, de las actas o los registros, o parte de ellos, que obren en el procedimiento, la que deberá ser certificada mediante acta que para tal efecto se levante.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 125.
+
+La conservación de los registros estará a cargo de la Sala Ordinaria que los haya generado. Cuando por cualquier causa se dañe el soporte material del registro afectando su contenido, el Magistrado ordenará reemplazarlo, en todo o en parte, por una copia fiel, que obtendrá de quien la tuviere si no dispone de ella directamente.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 126.
+
+La nulidad de una actuación deberá reclamarse en la misma audiencia y a más tardar en la audiencia subsecuente bajo pena de quedar validada de pleno derecho. La producida en la Audiencia de Juicio deberá reclamarse durante ésta, antes de que el Magistrado pronuncie la sentencia definitiva.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 127.
+
+El Magistrado tendrá, durante la celebración de las audiencias la facultad de decretar un receso por el tiempo que estime conveniente, para solucionar los problemas técnicos que para el registro electrónico del juicio se presenten, así como para solventar cualquiera otra contingencia que se llegare a suscitar.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+
+### CAPÍTULO III. DE LA AUDIENCIA PRELIMINAR
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 128.
+
+La Audiencia Preliminar se llevará a cabo con o sin la asistencia de las partes, sancionando a quien no acuda en los términos de lo previsto en el diverso 104 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 129.
+
+La audiencia preliminar no podrá suspenderse o diferirse, salvo en los casos previstos en los artículos 118 y 164 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 130.
+
+La Audiencia Preliminar tendrá por objeto:
+
+I.- Promover la solución del conflicto a través de la aplicación de cualquiera de los Métodos Alternos disponibles, una vez que se haya realizado el alegato de apertura.
+
+II.- Analizar y resolver las causales de improcedencia y sobreseimiento propuestas, así como las que se adviertan de oficio.
+
+III.- Conocer y resolver las cuestiones incidentales planteadas por las partes.
+
+IV.- Establecer los acuerdos probatorios y calificar las pruebas ofrecidas por las partes relativas al fondo de la controversia planteada, y, en su caso, ordenar la preparación de las pruebas para su desahogo en la Audiencia de Juicio.
+
+V.- Fijar fecha y hora para la Audiencia de Juicio.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 131.
+
+Al inicio de la audiencia preliminar, una vez que el secretario lleve a cabo lo referido en el artículo 120 de esta Ley, cada parte expondrá a manera de alegato de apertura una síntesis de su pretensión y las consideraciones en las que se sustenta, iniciando el actor, continuando las demás partes en el orden que precise el Magistrado.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 132.
+
+Si asisten las partes, el Magistrado les propondrá someterse a un método alterno de solución de conflictos, y únicamente si están de acuerdo con esta vía, se procederá conforme a la Ley de Métodos Alternos para la Solución de Conflictos suspendiéndose en este momento la audiencia, solicitando a la Dirección de Orientación y Consulta Ciudadana su intervención con forme (sic) a lo dispuesto en los artículos 23 Bis fracción IV y 49 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 133.
+
+Si las partes no llegan a un convenio que establezca la solución total del conflicto, a través de un método alterno o de conciliación ante el Magistrado, se procederá, aún de oficio, a establecer la procedencia o improcedencia del juicio, para lo cual calificará, en su caso, las pruebas relativas a las causales de improcedencia y sobreseimiento a que se refieren los artículos 56 y 57 de esta Ley.
+
+En caso de que las pruebas no requieran diligencia especial, se escucharán los alegatos, primero, del actor y, de existir, del tercero perjudicado y posteriormente, del demandado. Si con motivo de las causales de improcedencia y sobreseimiento, el juicio se sobreseyere total o parcialmente, el Magistrado dará a conocer dentro de los tres días siguientes la sentencia interlocutoria correspondiente y ordenará que ésta se engrose con las consideraciones sostenidas en la audiencia, dentro de los tres días siguientes, la cual deberá ser notificada a las partes en los términos del artículo 38 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 134.
+
+En caso de que resulten infundadas total o parcialmente las causales de improcedencia y sobreseimiento o si no se propone o advierte alguna, el Magistrado procederá a desahogar las pruebas relacionadas con las cuestiones incidentales que en su caso las partes hubieren planteado; para posteriormente escuchar sus alegatos, y, en su oportunidad, dictar la resolución correspondiente al incidente de que se trate, en los términos previstos en el artículo anterior.
+
+Si el incidente de que se trata tiene relación con las pruebas que atañen al fondo del asunto planteado en el juicio principal, las pruebas que en su caso se hayan admitido dentro de dicho incidente, se desahogarán después de que hayan sido calificadas las del principal.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 135.
+
+Depurado el procedimiento tanto de las causales de improcedencia como de las cuestiones incidentales planteadas por las partes, el Magistrado podrá formular proposiciones a las partes para que concreticen acuerdos probatorios.
+
+Las partes podrán solicitar al Magistrado que tenga por acreditados ciertos hechos. Los acuerdos probatorios no podrán ser discutidos posteriormente.
+
+Una vez efectuado lo anterior, el Magistrado precisará los acuerdos probatorios a los que hayan llegado las partes, fijará el objeto del procedimiento y los hechos controvertidos.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 136.
+
+Una vez que hayan sido fijados los hechos controvertidos que no hayan sido materia de un acuerdo probatorio previo, el Magistrado procederá a calificar únicamente las pruebas ofrecidas por las partes que se refieran al fondo de la controversia, admitiendo, para su trámite, las que considere pertinentes de acuerdo con los artículos 71 y 72 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 137.
+
+Si no hay pruebas que requieran de diligencia especial para su desahogo o habiéndolas se puedan desahogar en la propia audiencia, el Magistrado dará por concluida la Audiencia Preliminar, y de ser posible iniciará de inmediato la Audiencia de Juicio. En caso contrario, mandará preparar aquéllas que requieran de diligencia especial, y una vez hecho lo anterior, fijará la fecha y hora para la Audiencia de Juicio, a la que deberán concurrir las partes, así como los testigos y peritos, en caso de que se hayan ofrecido y admitido las pruebas respectivas.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 138.
+
+Dentro de la etapa de preparación de las pruebas, podrá desahogarse la inspección judicial y la pericial, así como solicitarse los informes y enviar los exhortos para el desahogo de aquellas probanzas que lo requieran.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+
+### CAPÍTULO IV. DE LA AUDIENCIA DE JUICIO ORAL
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 139.
+
+La Audiencia de Juicio tendrá por objeto:
+
+I.- Proponer a las partes la solución del conflicto a través de los métodos alternos disponibles;
+
+II.- Conocer y resolver las cuestiones incidentales que en dicha Audiencia surjan;
+
+III.- Desahogar en términos de esta Ley, las pruebas que, debidamente ofrecidas y admitidas, así lo requieran;
+
+IV.- Escuchar los alegatos que verbalmente formulen las partes del juicio; y
+
+V.- Fijar los puntos resolutivos de la sentencia.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 140.
+
+La Audiencia de Juicio se llevará a cabo con o sin la asistencia de las partes, sancionando a quien no acuda en los términos de lo previsto en esta Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 141.
+
+La Audiencia de juicio se sujetará a las siguientes reglas:
+
+I.- El día y hora fijados para la audiencia, el Magistrado verificará la presencia de las personas que hubieren sido citadas y declarará abierto el debate.
+
+II.- El Magistrado advertirá a los presentes sobre la importancia y significado de lo que va a ocurrir y dispondrá que los peritos y los testigos abandonen la sala de la audiencia, hasta que sean llamados a declarar. Asimismo, otorgará a las partes nuevamente la oportunidad para que solucionen la controversia a través de cualquiera de los métodos alternos previstos en la Ley de la materia.
+
+III.- El debate será oral, tanto en lo relativo a los alegatos y argumentos de todos los intervinientes, como en todo lo referente a las declaraciones, las pruebas y, en general, a toda intervención de quienes participen en él.
+
+IV.- Las decisiones de trámite del Magistrado serán dictadas preponderantemente de forma oral, con expresión de sus fundamentos, quedando los presentes notificados por su emisión y debiendo constar en el registro del juicio. Quienes no puedan hablar o no lo puedan hacer en el idioma castellano, formularán sus preguntas o contestaciones por escrito o por medio de un intérprete, leyéndose o relatándose las preguntas o las contestaciones de la audiencia.
+
+V.- El Magistrado ordenará la práctica de las pruebas, dirigirá el debate y exigirá el cumplimiento de las solemnidades que correspondan y moderará la discusión.
+
+VI.- El Magistrado deberá impedir que las alegaciones se desvíen hacia aspectos no pertinentes o inadmisibles pero sin coartar los derechos de las partes. También podrá limitar el tiempo de uso de la palabra a las partes que debieren intervenir durante el juicio, fijando límites máximos igualitarios para todas ellas o interrumpiendo a quienes hicieren uso manifiestamente abusivo de su facultad, también aplicará las correcciones disciplinarias, a que se refiere el artículo 31 Bis 3 de esta Ley, para mantener el orden y el decoro durante el debate y garantizar la eficaz realización del mismo.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 142.
+
+Dentro de la Audiencia de Juicio se desahogarán las pruebas y las partes formularán su alegato de clausura en forma oral, hecho lo cual, quedará el negocio en estado de sentencia, dictándose el fallo dentro de los cinco días hábiles siguientes, notificándose a las partes en los términos del artículo 38 de esta Ley.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+
+### CAPÍTULO V. REGLAS GENERALES PARA LAS PRUEBAS
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 143.
+
+Las partes no podrán invocar, leer, ni incorporar como prueba al procedimiento oral, antecedente alguno relacionado con la proposición, discusión, aceptación o rechazo, procedencia, o revocación de un método alterno hecho valer.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 144.
+
+Las diligencias de desahogo de pruebas que deban verificarse fuera de la oficina de la Sala Ordinaria de Juicio Oral, podrán ser realizadas por el Magistrado Instructor o por el funcionario del Tribunal que éste designe, videograbadas por personal técnico adscrito al Tribunal de lo Contencioso Administrativo del Estado y certificadas de conformidad con lo dispuesto para el desarrollo de las audiencias en la Sala.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 145.
+
+El ofrecimiento, la admisión, el desahogo y la valoración de las pruebas, se sujetará a las reglas establecidas para ello en esta Ley, salvo lo dispuesto en este Título.
+
+Las pruebas serán valoradas por el Magistrado según la sana crítica, pero no podrá contradecir reglas de la lógica, los conocimientos científicos y las máximas de la experiencia.
+
+La valoración de la prueba en la sentencia requerirá el señalamiento del o de los medios de prueba mediante los cuales se dieren por acreditados cada uno de los hechos y circunstancias que se dieren por probados. Esta motivación deberá permitir la reproducción del razonamiento utilizado para alcanzar las conclusiones a que llegare la sentencia.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+
+### CAPÍTULO VI. DE LA PRUEBA CONFESIONAL
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 146.
+
+La prueba confesional por posiciones deberá sujetarse a lo dispuesto en el artículo 71 de esta Ley, misma que deberá ser ofrecida desde el escrito de demanda o contestación, exhibiéndose el pliego por duplicado cada uno de ellos en un sobre cerrado; en caso de incumplimiento se procederá en los términos de la última parte del artículo 47 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 147.
+
+Llegado el momento para el desahogo de la prueba confesional, estando presentes las partes, la oferente formulará, en forma oral, únicamente las posiciones a que se refiere el artículo anterior y oyendo previamente a la parte absolvente, el Magistrado procederá a la calificación individual de las posiciones en el acto mismo en que se formulen, procediendo el absolvente a responder las posiciones calificadas de legales.
+
+En caso de que la absolvente no asista, el Magistrado abrirá el pliego y la tendrá por confesa de las posiciones calificadas de legales.
+
+En el supuesto de que el oferente de la prueba confesional no comparezca a la audiencia de juicio, en forma personal o a través de representante legal o abogado autorizado, en los supuestos a que se refiere el artículo 113 de esta Ley, no se desahogará la prueba confesional, perdiendo el derecho de hacerlo con posterioridad.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+
+### CAPÍTULO VII. DE LA PRUEBA TESTIMONIAL
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 148.
+
+Al ofrecerse la prueba testimonial, no será necesario acompañar interrogatorio escrito. El desahogo de la prueba testimonial se sujetará a las siguientes formalidades:
+
+I.- La declaración de los testigos se sujetará al interrogatorio oral de las partes y en su caso del Magistrado.
+
+II.- Interrogará, en primer lugar, la parte que hubiere ofrecido la respectiva prueba y luego la contraparte podrá contra interrogar al testigo.
+
+III.- Durante el contra interrogatorio las partes podrán confrontar al testigo con sus propios dichos u otras versiones de los hechos presentados.
+
+IV.- El Magistrado, solamente por objeción fundada de parte, manifestada oralmente, podrá desechar las preguntas impertinentes o inconducentes para los fines del procedimiento, así como las no claras o que ofusquen la razón, las que encierran diferentes significados, capciosas, las sugestivas planteadas en el interrogatorio por el oferente de la prueba, las que contienen más de un hecho y las ya contestadas.
+
+Antes de resolver sobre la objeción planteada, el Magistrado escuchará a la parte que formula la pregunta y determinará en ese momento si es fundada o infundada. Dicha resolución no admite recurso alguno.
+
+V.- La omisión de objeción se entenderá como renuncia al derecho de objetar la formulación de una pregunta y deberá formularse al testigo.
+
+VI.- Una vez concluido el interrogatorio de las partes, el Magistrado podrá, si así lo considera pertinente, dirigir al testigo todas aquellas preguntas destinadas a obtener aclaraciones o adiciones a su dicho.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 149.
+
+Los testigos deberán ser presentados a la audiencia por la parte oferente; y únicamente cuando ésta manifieste su imposibilidad para hacerlo, lo comunicará oralmente al Magistrado, razonando su dicho, en la audiencia preliminar, resolviendo el Magistrado, en ese momento, lo procedente.
+
+Cuando se trate de testigos que deban ser citados por el Magistrado, la citación se hará por lo menos con tres días de anticipación al día en que deban declarar, mediante el auto en el que se les apercibirá que en caso de desobediencia se les aplicarán las correcciones disciplinarias previstas en el artículo 31 Bis 3 de esta Ley, independientemente de que se les haga comparecer por medio de la fuerza pública.
+
+No obstante lo anterior, si no fuera posible hacer que el testigo comparezca a rendir su declaración, la prueba testimonial no será desahogada, declarándose deserta la misma.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 150.
+
+Una vez que el testigo rinda su declaración, sólo podrá ausentarse del recinto oficial cuando el Magistrado lo autorice.
+
+En la audiencia, los testigos no podrán comunicarse entre sí, ni ver, oír o ser informados de lo que ocurriere.
+
+La comparecencia del testigo a la audiencia a que fuere citado, constituirá justificación cuando su presencia fuere requerida simultáneamente para dar cumplimiento a obligaciones laborales, educativas o de otra naturaleza y no le ocasionará consecuencias jurídicas adversas bajo circunstancia alguna.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 151.
+
+En el procedimiento oral no existirán testigos inhábiles.
+
+Sin perjuicio de ello, las partes podrán formular al testigo preguntas tendientes a demostrar su credibilidad o falta de ella, la existencia de vínculos con alguna de las partes que afecten o pudieren afectar su imparcialidad, o algún otro defecto de idoneidad.
+
+Todo testigo dará razón pormenorizada de los hechos sobre los cuales declarare, expresando si los hubiere presenciado, si los dedujere de antecedentes que le fueren conocidos o si los hubiere oído referir a otras personas.
+
+La declaración de una sola persona se valorará, en lo conducente conforme a las reglas previstas en esta Ley.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+
+### CAPÍTULO VIII. DE LA PRUEBA INSTRUMENTAL
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 152.
+
+Es instrumento público el registro del procedimiento oral; probará el modo en que se desarrolló la audiencia o diligencia correspondiente, la observancia de las formalidades, las personas que hubieran intervenido, las resoluciones pronunciadas por el Magistrado y los actos que se llevaron a cabo; y tendrá valor probatorio para los efectos del procedimiento, de los recursos y requerimientos que correspondan, excepto si se prueba que fue alterado.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 153.
+
+Los documentos que presenten las partes podrán ser impugnados vía incidental en los términos previstos en los artículos 164 y 165 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 154.
+
+La prueba instrumental se desahogará de la siguiente manera: las partes darán lectura y mostrarán en la audiencia, a través de la cámara de evidencias, únicamente la parte de los documentos que tengan relación con los puntos controvertidos del juicio.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+
+### CAPÍTULO IX. DE LA PRUEBA PERICIAL
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 155.
+
+La prueba pericial se desahogará con la intervención del perito nombrado por la parte oferente.
+
+La designación de perito por la parte oferente deberá efectuarse desde la demanda o en la contestación, con la obligación de mencionar nombre, apellidos y domicilio; anexando título o cédula profesional, y los documentos que acrediten los requisitos exigidos por el artículo 78 de esta Ley.
+
+Admitida la prueba pericial, en la Audiencia Preliminar, las demás partes podrán, sin ser obligatorio, designar el perito de su intención, para que rinda el dictamen por separado.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 156.
+
+De no cumplirse los requisitos del artículo anterior, se tendrá por no hecha la designación del perito, precluyendo el derecho para hacerla posteriormente y por lo tanto será desestimada la prueba.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 157.
+
+Los peritos designados por las partes deberán comparecer a aceptar el cargo conferido, en un plazo de tres días hábiles, contados a partir del día siguiente al en que se tenga por admitida dicha prueba.
+
+De no cumplirse con lo anterior, se tendrá por no hecha la designación del perito, precluyendo el derecho para nombrar otro con posterioridad.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 158.
+
+Sin perjuicio del deber del perito o peritos de concurrir a declarar ante el Magistrado acerca de su dictamen, éste deberá entregarse por escrito, con la finalidad de ponerlo en conocimiento de la parte contraria, por lo menos diez días antes de la celebración de la audiencia de juicio.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 159.
+
+Los peritos se sujetarán a las disposiciones establecidas en los artículos 149 y 151 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 160.
+
+Los peritos no podrán ser inhabilitados.
+
+No obstante, durante la audiencia podrán dirigírseles preguntas orientadas a determinar su objetividad e idoneidad, así como el rigor técnico o científico de sus conclusiones.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 161.
+
+Si a la audiencia mencionada en el artículo anterior los peritos designados por las partes, que habiendo aceptado el cargo, no asisten o no rinden su dictamen en el plazo fijado, se tendrá por no ofrecido dicho dictamen.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 162.
+
+No será aplicable al procedimiento oral lo dispuesto en el artículo 84, fracción II de esta Ley.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+
+### CAPÍTULO X. DE LOS INCIDENTES
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 163.
+
+Son cuestiones incidentales todas aquellas que, no constituyendo una causal de improcedencia o de sobreseimiento, en los términos de los artículos 56 y 57 de esta Ley, son accesorias del litigio principal y constituyen un obstáculo cuya previa resolución es indispensable para posteriormente resolver la controversia en cuanto al fondo.
+
+Ningún incidente suspenderá el procedimiento principal y todos se substanciarán en la misma pieza de autos.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 164.
+
+Cuando se trate de cuestiones, hechos o circunstancias que pudieran llegar a constituir materia de un incidente y que puedan advertirse desde la notificación de la demanda o de la contestación, deberán necesariamente plantearse en el escrito de contestación de demanda, tratándose de las autoridades demandadas o del tercero perjudicado; y dentro del término de tres días siguientes al de la notificación del auto en que se tenga por contestada la demanda y se fije fecha y hora para la Audiencia Preliminar, por lo que corresponde al demandante.
+
+Cuando el demandante interpusiere una cuestión incidental, y la proximidad de la fecha y hora señaladas para la celebración de la Audiencia Preliminar no permitiera el desahogo de la vista correspondiente o la preparación de las pruebas que requieran un especial desahogo, el Magistrado podrá diferir dicha Audiencia para los efectos mencionados, por el tiempo estrictamente necesario para ello.
+
+En el escrito en el que se interponga el incidente de que se trate, deberán ofrecerse y acompañarse las pruebas que se estimen pertinentes, a fin de acreditar los hechos materia del mismo.
+
+La parte contraria tendrá el término de tres días siguientes al de la notificación del auto que admita el incidente respectivo para exponer, por escrito ante el Magistrado lo que a su derecho convenga, ofreciendo y acompañando las pruebas correspondientes.
+
+El procedimiento para el desahogo de las cuestiones incidentales a que se refiere el primer párrafo del presente artículo, será el siguiente:
+
+I.- Desahogada la vista a que se refiere el cuarto párrafo del presente artículo, o transcurrido el término concedido para tal efecto, el Magistrado procederá, en su caso, a calificar las pruebas ofrecidas por las partes.
+
+II.- En caso de que alguna de las pruebas admitidas dentro del incidente requiera especial desahogo, se iniciará una etapa previa de preparación, a fin de que en la Audiencia Preliminar las mismas puedan ser desahogadas sin dilación alguna.
+
+En la etapa a que se refiere el párrafo anterior, el Magistrado instructor mandará preparar, exclusivamente, aquéllas pruebas que hayan sido ofrecidas y admitidas en el incidente respectivo.
+
+III.- Las pruebas admitidas deberán desahogarse en la Audiencia Preliminar, dentro de la etapa relativa a las cuestiones incidentales, debiendo observarse en su caso, lo previsto en el segundo párrafo del artículo 135 de esta Ley. Concluido el desahogo de dichas pruebas, el Magistrado escuchará los alegatos de las partes, en el orden que determine. Enseguida dictará la resolución correspondiente si fuere posible; en caso contrario, citará a las partes para dictarla dentro del término de tres días.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 165.
+
+Cuando dentro del desarrollo de las Audiencias se susciten cuestiones, hechos o circunstancias, distintas de las previstas en el primer párrafo del artículo anterior, y que ameriten la interposición de un incidente, se procederá como sigue:
+
+I.- El interesado deberá interponer el incidente respectivo, verbalmente, dentro de la Audiencia correspondiente;
+
+II.- La parte contraria deberá contestar, de igual forma, en la propia Audiencia lo que a su derecho convenga;
+
+III.- Las partes interesadas deberán ofrecer en el acto, las pruebas que, en su caso, estimen pertinentes;
+
+IV.- El Magistrado procederá en ese momento a calificar la pertinencia de las mismas, admitiendo sólo las que tengan relación con la materia del incidente. En caso de que algunas de las pruebas admitidas requieran de especial desahogo, ordenará la suspensión de la Audiencia de que se trate, mandando preparar las pruebas que así lo requieran; y
+
+V.- Desahogadas las pruebas, el Magistrado escuchará los alegatos de las partes y hecho esto, dictará la resolución que corresponda, de ser posible, en la misma Audiencia; en caso contrario, citará a las partes para dictarla dentro del término de tres días.
+
+Las cuestiones incidentales planteadas por las partes, notoriamente dilatorias, frívolas e improcedentes, se desecharán de plano y además se sancionará con multa de cincuenta a trescientas cuotas.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 166.
+
+Si se opone la incompetencia de la Sala Ordinaria que, en su caso, conozca, del Juicio Oral, alegando que quien debe conocer del asunto lo es una de las otras Salas Ordinarias, el Magistrado turnará al Presidente del Tribunal el escrito respectivo para que éste proceda en los términos de lo previsto en el artículo 20 fracción V de esta Ley.
+
+El Presidente del Tribunal dictará resolución, en un término de diez días, en la que determinará cuál de las Salas Ordinarias es la competente para conocer del asunto.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 167.
+
+En caso de que se haga valer la acumulación de juicios, o ésta se advierta de oficio, el Magistrado informará de inmediato al Magistrado que conoce del procedimiento que se pretende acumular, para efecto de que no se pronuncie sentencia definitiva, en tanto no quede resuelta la misma.
+
+Cuando dentro del incidente de acumulación, se advierta que uno de los juicio (sic), respecto de los cuales se invoque la conexidad de causa, no corresponda a la competencia de la Sala Ordinaria que, en su caso, conozca del Juicio Oral, y de proceder dicho incidente se ordenará que se acumule al juicio que se sigue en forma escrita.
+
+> <small>(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+
+## TITULO CUARTO. DEL TRIBUNAL VIRTUAL ADMINISTRATIVO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+
+### CAPITULO ÚNICO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 168.
+
+Se entenderá por Tribunal Virtual Administrativo el sistema de procesamiento de información, electrónico o virtual, que permite la substanciación de asuntos jurisdiccionales ante el Tribunal de lo Contencioso Administrativo del Estado; conforme a los lineamientos de operación establecidos por el Pleno del Tribunal, a través del reglamento que para tal efecto se emita.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 169.
+
+El promovente, al presentar su demanda, podrá hacer la solicitud expresa de substanciar el procedimiento mediante el Tribunal Virtual Administrativo.
+
+Las partes podrán solicitar la autorización por sí o persona autorizada en los términos del artículo 34 de esta Ley, el acceso a la página electrónica que para tal efecto tiene el Tribunal de lo Contencioso Administrativo del Estado, debiendo proporcionar el nombre del usuario previamente registrado en la base de datos, con la cual ingresará al Tribunal Virtual Administrativo, lo que les permitirá consultar en forma completa el expediente electrónico. También podrá solicitarse la autorización para presentar promociones en vía electrónica a través de la página de internet del Tribunal Virtual Administrativo. Igualmente, si así lo desean, podrán las partes autorizar que se les realicen notificaciones en vía electrónica, que implicará, en este último caso, la aceptación expresa del solicitante en el sentido de que todas las notificaciones, aún las de carácter personal, ordenadas con posterioridad a la fecha en que se le otorgue este tipo de autorización, se tendrán por legalmente practicadas y surtirán sus efectos en los términos de lo previsto por los artículos 40 y 43 de esta Ley. La consulta de expedientes electrónicos, el envío de promociones y notificación por este medio, se ajustarán a los lineamientos de operación para el uso del Tribunal Virtual Administrativo que se establezcan por el Tribunal Contencioso Administrativo del Estado a través del reglamento que para tal efecto se emita. Se excluye de la anterior forma de notificación el emplazamiento a juicio, además de las que el Magistrado considere necesarias.
+
+De igual manera el demandado y en su caso los terceros perjudicados, al contestar su demanda, podrán hacerlo mediante el Tribunal Virtual Administrativo con la reserva antes enunciada. Las partes se reservarán la posibilidad de presentar en cualquier momento algún otro tipo de promoción por escrito ante la autoridad que conozca el asunto.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 170.
+
+Para efectos de presentar cualquier tipo de promoción mediante el Tribunal Virtual Administrativo se deberán observar los siguientes requisitos:
+
+I. Presentar escrito dirigido a la autoridad que conoce del asunto, debiendo señalar el nombre del usuario y nombre completo con el cual se registró en el Tribunal Virtual Administrativo, firmada por el representante legal o por cualquiera de las partes;
+
+II. Manifestar claramente su solicitud de presentar promociones vía electrónica y ser notificado de igual forma, como lo indica el artículo 169 de esta Ley;
+
+III. Hacer mención expresa del número de expediente en el cual solicita la autorización;
+
+IV. Tratándose de varios interesados se deberá señalar sus respectivos nombres de usuarios, siempre y cuando estén autorizados en el expediente para oír y recibir notificaciones; y
+
+V. Deberá presentarse una solicitud por expediente.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 171.
+
+Para efecto de la presente Ley, se deberán tomar en cuenta las siguientes definiciones:
+
+Promoción Electrónica: es una promoción redactada y enviada a través del sistema Tribunal Virtual Administrativo.
+
+Usuario: es una clave elegida por el interesado en el proceso de su registro para acceder e interactuar en el sistema Tribunal Virtual Administrativo que será la identificación del interesado en el sistema.
+
+Contraseña: es una clave elegida por el interesado en el proceso de su registro con la que en combinación con el usuario dará acceso a la información establecida y autorizada en el sistema Tribunal Virtual Administrativo.
+
+Firma Electrónica: es la información en forma electrónica consignada en un mensaje de datos, adjuntados o lógicamente asociados al mismo por cualquier tecnología, que son utilizados para identificar al firmante en relación con el mensaje y que produce los mismos efectos jurídicos que la firma autógrafa, siendo admisible como prueba en juicio.
+
+Página Electrónica: son las pantallas de acceso de los sistemas computacionales que mediante Internet publica el Tribunal de lo Contencioso Administrativo.
+
+Acción Electrónica: es cualquier consulta, envío de información o interacción que se realicen en las páginas electrónicas del Tribunal Virtual Administrativo del Tribunal de lo Contencioso Administrativo.
+
+Notificación Electrónica: proceso mediante el cual se dan a conocer las actuaciones jurisdiccionales realizadas dentro del juicio contencioso administrativo a los usuarios del Tribunal Virtual Administrativo que así lo hayan solicitado.
+
+Expediente Electrónico: Es el conjunto de documentos digitalizados, promociones electrónicas y resoluciones realizadas en los sistemas del Tribunal de lo Contencioso Administrativo, almacenados en sus bases de datos siendo una copia fiel del expediente físico.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 172.
+
+Las actuaciones jurisdiccionales que se archiven electrónicamente, serán autentificadas mediante dispositivo físico o digital que provean las autoridades jurisdiccionales con respecto de los mismos.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 173.
+
+Las promociones que se presenten por las partes a través del Tribunal Virtual Administrativo en días u horas inhábiles, se tendrán por recibidas al momento hábil siguiente, exceptuándose de lo anterior, las promociones sujetas a término legal.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 174.
+
+Las copias certificadas de constancias jurisdiccionales, obtenidas del Tribunal Virtual Administrativo, serán autorizadas por el secretario que las expida.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 175.
+
+Los registros electrónicos generados y publicados en el Tribunal Virtual Administrativo, harán fe una vez cotejados los mismos con los que obren en el expediente electrónico del cual se refiera haber sido obtenidos por el oferente.
 
 T R A N S I T O R I O S
 
@@ -1040,3 +2114,11 @@ Artículo Segundo.- Los procedimientos actualmente en trámite en el Tribunal de
 P.O. 31 DE DICIEMBRE DE 2008.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE FEBRERO DE 2009.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El funcionamiento integral para la aplicación del Título Tercero "Del Procedimiento Oral", de la Ley de Justicia Administrativa para el Estado de Nuevo León, estará supeditado a la suficiencia presupuestal con motivo del requerimiento de ampliación de personal, instalaciones, equipamiento y capacitación. Su aplicación gradual se hará conforme lo determine el Pleno del Tribunal de lo Contencioso Administrativo.
+
+Tercero.- Los juicios que se encuentren en trámite pendientes de resolución, continuarán su substanciación conforme a las disposiciones vigentes en el momento de su inicio, excepto cuando voluntariamente las partes se sometan a los métodos alternos para la solución de conflictos.
