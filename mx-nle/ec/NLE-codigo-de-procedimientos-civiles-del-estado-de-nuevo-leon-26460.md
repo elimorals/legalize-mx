@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2009-01-21"
+last_updated: "2009-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -6495,13 +6495,19 @@ Los actos de que tratan los Capítulos siguientes se sujetarán a las reglas que
 
 En los negocios de menores e incapacitados, intervendrán el juez de primera instancia y los demás funcionarios que determina el Código Civil.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 913.
 
-Los actos de jurisdicción voluntaria a que haga mención este Código, se sujetarán a lo dispuesto en este Capítulo.
+Los actos de jurisdicción voluntaria a que haga mención este Código se sujetarán a lo dispuesto en este capítulo y en lo conducente al procedimiento oral.
 
 ### CAPITULO III
 
 DE LA ENAJENACION DE BIENES DE MENORES O INCAPACITADOS Y TRANSACCION ACERCA DE SUS DERECHOS.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 914.
 
@@ -6625,71 +6631,65 @@ Cuando del examen de la cuenta resulten motivos graves para sospechar dolo, frau
 
 Los tutores y curadores no pueden ser removidos por actos de jurisdicción voluntaria.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+
 ### CAPITULO IV
 
 DE LA ADOPCION.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 927.
 
-Será necesaria licencia judicial para la venta de los bienes que pertenezcan exclusivamente a menores o incapacitados y correspondan a las clases siguientes:
+(DEROGADO, P.O. 20 DE FEBRERO DE 2009)
 
-I.- Bienes raíces;
-
-II.- Derechos reales sobre muebles;
-
-III.- Alhajas y muebles preciosos;
-
-IV.- Acciones de compañías industriales y mercantiles, cuyo valor exceda de cinco mil pesos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 928.
 
-Para decretar la venta de los bienes se necesita que al pedirse se expresen el motivo de la enajenación y el objeto a que debe aplicarse la suma que se obtenga y que se justifique la absoluta necesidad o la evidente utilidad de la enajenación.
+(DEROGADO, P.O. 20 DE FEBRERO DE 2009)
 
-Si fuere el tutor quien solicitare la venta, debe proponer al hacer la promoción las bases del remate en cuanto a la cantidad que deba darse de contado, el plazo, interés y garantías del remanente.
-
-> <small>(REFORMADO, P.O.28 DE ABRIL DE 2004)</small>
-
-La solicitud del tutor se substanciará con el curador y el Ministerio Público. La sentencia que se dicte es apelable en ambos efectos.
-
-Los peritos que se designen para hacer el avalúo serán nombrados por el juez.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 929.
 
-Respecto de las alhajas y muebles preciosos, el juez determinará si conviene o no la subasta atendiendo en todo a la utilidad que resulte al menor; si se decreta se hará por conducto de un comisionista o casa de comercio que expenda artículos similares, observándose en lo conducente lo dispuesto por el artículo 560.
+(DEROGADO, P.O. 20 DE FEBRERO DE 2009)
 
-> <small>(REFORMADO, P.O.28 DE ABRIL DE 2004)</small>
-
-La venta de los inmuebles que se ordene en remate, se realizará conforme a lo dispuesto en el Capítulo II, Título Décimo, Libro Primero del presente Código, y en ella no podrá admitirse postura inferior de las dos terceras partes del avalúo pericial o que no se ajuste a los términos de la autorización judicial.
-
-Si en la primera almoneda no hubiere postor el juez convocará a solicitud del tutor, curador o del Consejo de Tutelas a una junta dentro del tercer día, para ver si son de modificarse o no las bases del remate, señalándose nuevamente las almonedas que fueren necesarias.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 930.
 
-Para la venta de acciones y títulos de renta se concederá la autorización sobre la base de que no se haga por menor valor del que se cotice en la plaza el día de la venta y por conducto de comisionista o de comerciante establecido y acreditado.
+(DEROGADO, P.O. 20 DE FEBRERO DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 931.
 
-El precio de lo (sic) venta se entregará al tutor si las firmas o garantías prestadas son suficientes para responder de él. De otra manera se depositará en el establecimiento destinado al efecto.
+(DEROGADO, P.O. 20 DE FEBRERO DE 2009)
 
-El juez señalará un término prudente al tutor para que justifique la inversión del precio de la enajenación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 932.
 
-Para la venta de los bienes inmuebles o de los muebles preciosos de hijos, requerirán los que ejercen la patria potestad la autorización judicial en los mismos términos que los señalados en el artículo 928. El incidente se substanciará con el Ministerio Público y con un tutor especial que para el efecto nombre el juez desde las primeras diligencias.
+(DEROGADO, P.O. 20 DE FEBRERO DE 2009)
 
-En este caso, la venta se llevará a cabo fuera de remate a un precio que no baje de las cuatro quintas partes del avalúo.
-
-Bajo las mismas condiciones podrán gravar los padres los bienes inmuebles de sus hijos o consentir la extinción de derechos reales.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 933.
 
-Para recibir dinero prestado en nombre del menor o incapacitado, necesita el tutor la conformidad del curador y del Consejo de Tutelas y después de la autorización judicial.
+(DEROGADO, P.O. 20 DE FEBRERO DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 934.
 
-Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenación de los bienes de ausentes así como a la transacción y arrendamiento por más de cinco años de bienes de ausentes, menores o incapacitados.
+(DEROGADO, P.O. 20 DE FEBRERO DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ### CAPITULO V
 
@@ -6699,61 +6699,31 @@ DE LAS INFORMACIONES AD-PERPETUAM.
 
 ###### Artículo 935.
 
-El que pretenda adoptar deberá acreditar las exigencias del artículo 390 y demás relativos del Código Civil debiéndose observar lo siguiente:
+(DEROGADO, P.O. 20 DE FEBRERO DE 2009)
 
-I.- En la promoción inicial se deberá manifestar el nombre, apellidos, nacionalidad, edad y domicilio del menor que se pretende adoptar, y el nombre, nacionalidad, edad, estado civil y domicilio de quienes ejerzan sobre él la patria potestad o la tutela o de la institución de asistencia o beneficencia que lo haya acogido; así como el nombre, nacionalidad, edad, estado civil y domicilio del o los adoptantes; y el nombre, nacionalidad y domicilio de los padres del o los adoptantes. En caso de querer variar el nombre del adoptado, se expresará en dicha promoción, el nuevo nombre que se pretende asignar.
-
-II.- Si la adopción se hizo con anterioridad y faltaren datos del o los adoptantes o de los padres de éstos, se acreditarán por resolución pronunciada en jurisdicción voluntaria, o en procedimiento administrativo ante la Dirección del Registro Civil.
-
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1999)</small>
-
-III.- Cuando el menor hubiere sido acogido por institución pública o privada, el adoptante recabará constancia del tiempo de la exposición, para los efectos de la fracción VI del artículo 444 del Código Civil.
-
-Si hubieren transcurrido menos de tres meses de la exposición se decretará el depósito del menor con el presunto adoptante, entre tanto se consuma dicho plazo.
-
-Si el menor expósito no hubiere sido acogido por institución pública o privada, se decretará el depósito con el presunto adoptante, por el término de tres meses para los mismos efectos.
-
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1999)</small>
-
-IV.- En los casos a que se refiere el artículo 732 Bis de este Código, deberá acreditarse la pérdida de la patria potestad de quienes por disposición de ley la tienen.
-
-> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2009)</small>
-
-V.- Deberá contar con la opinión del Consejo Estatal (sic) Adopciones.
-
-> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 1999)</small>
-
-Tratándose de adopciones de menores abandonados o expósitos acogidos en Instituciones públicas o privadas, la asesoría de las instituciones oficiales en la tramitación de las mismas, se hará sin costo alguno para los interesados.
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 936.
 
-Rendidas las justificaciones que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deban darlo conforme a los artículos 394 y 395 del Código Civil, el tribunal remitirá dentro del término de tercer día, el expediente respectivo al Consejo Estatal de Adopciones, para que éste emita en igual término la opinión correspondiente, efectuado lo anterior con informe o sin él en caso de no haberlo remitido dentro del término fijado, el Juez resolverá lo conducente dentro del tercer día.
+(DEROGADO, P.O. 20 DE FEBRERO DE 2009)
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 937.
 
-Cuando el adoptante o adoptantes soliciten la conversión de la adopción semiplena a plena, y reunidos los requisitos de ésta, el juez los citará a una audiencia verbal dentro de los ocho días siguientes con la intervención del Ministerio Público, en la que resolverá lo conducente.
+(DEROGADO, P.O. 20 DE FEBRERO DE 2009)
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 938.
 
-Cuando el adoptante y el adoptado pidan que la adopción semiplena sea revocada, el juez los citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo dispuesto en el primer párrafo del artículo 407 del Código Civil.
+(DEROGADO, P.O. 20 DE FEBRERO DE 2009)
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
-
-Si el adoptado fuere menor de edad, no se decretará la revocación sin oír al representante del Ministerio Público y de la Procuraduría de la Defensa del Menor y la Familia.
-
-Para acreditar cualquier hecho relativo a la conveniencia de la revocación, en los casos del artículo 936, pueden rendirse toda clase de pruebas.
-
-> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 938 Bis.
 
-La impugnación de la adopción y su revocación, en los casos de los artículos 401 y 405 fracciones II y III del Código Civil, no pueden promoverse en diligencias de jurisdicción voluntaria.
+(DEROGADO, P.O. 20 DE FEBRERO DE 2009)
 
 ### CAPITULO VI
 
@@ -7373,9 +7343,29 @@ Se sujetarán al procedimiento oral:
 
 I.- Las controversias que se susciten con motivo de arrendamientos;
 
-II.- Las controversias que se susciten con motivo de alimentos, y convivencia y posesión interina de menores, cuando éstas constituyan el objeto de la acción principal; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- Las solicitudes de divorcio por mutuo consentimiento.
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+II.- Las controversias que se susciten con motivo de alimentos, y convivencia y posesión interina de menores, cuando éstas constituyan el objeto de la acción principal;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+III.- Las solicitudes de divorcio por un mutuo consentimiento;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+IV.- Los actos de jurisdicción que versen sobre enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos, adopción y del cambio de régimen de matrimonio; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+V.- Las acciones de divorcio establecidas en las fracciones I, XI y XII del Artículo 267 del Código Civil, siempre que no se hagan valer con alguna diversa de éstas.
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
@@ -7797,6 +7787,12 @@ Corresponderá seguir el procedimiento respectivo, si la cuestión planteada es 
 
 El demandado, al tiempo de contestar la demanda, podrá proponer la reconvención. Si se admite por el Juez, se correrá traslado de la misma al actor, a fin de que la conteste por escrito en un plazo de cinco días.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+Si en la reconvención se hace valer causal de divorcio diversa de las establecidas en las fracciones I, XI y XII del Artículo 267 del Código Civil, cesará de inmediato el juicio oral para que se continúe en la vía ordinaria.
+
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 1046.
@@ -7840,6 +7836,12 @@ Al inicio de la Audiencia Preliminar, una vez que el secretario del juzgado llev
 Si asisten las partes, el Juez les propondrá someterse a un método alterno, y si están de acuerdo con esta vía, se procederá conforme a la Ley de Métodos Alternos para la Solución de Conflictos del Estado.
 
 No acordando las partes someter el conflicto a un método alterno, el Juez procurará la conciliación, haciéndoles saber las conveniencias de llegar a un convenio, y proponiéndoles soluciones a todos o algunos de los puntos controvertidos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+Si del resultado de la conciliación en las acciones de divorcio, las partes convienen en disolver su vínculo matrimonial en los términos del Artículo 1082 de este código, se suspenderá el proceso contencioso por un plazo no mayor a treinta días, debiendo presentarse la solicitud respectiva ante el juzgado que conoce del negocio. Decretado el divorcio en esa forma, se ordenará el archivo del primer proceso como asunto concluido.
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
@@ -7933,7 +7935,7 @@ Se exceptúa de lo anterior, la apelación en contra de las resoluciones que dec
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-### CAPITULO UNICO
+### CAPITULO PRIMERO
 
 DIVORCIO POR MUTUO CONSENTIMIENTO.
 
@@ -8097,7 +8099,17 @@ La sentencia se ejecutará, si así se solicita, sin necesidad de fianza, reserv
 
 PROCEDIMIENTOS ORALES ESPECIALES.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA SU NUMERACION, P.O. 20 DE FEBRERO DE 2009)</small>
+
+### CAPITULO SEGUNDO
+
+DE LA JURISDICCIÓN VOLUNTARIA.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 1082.
 
@@ -8178,6 +8190,224 @@ La sentencia que decrete el divorcio por mutuo consentimiento es apelable en el 
 ###### Artículo 1089.
 
 Ejecutoriada la sentencia de divorcio, el Juez mandará remitir copia de ésta al oficial del registro civil de su jurisdicción, al del lugar en que el matrimonio se efectuó y al del nacimiento de los divorciados, para los efectos de los artículos 114, 116 y 291 del Código Civil para el Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+
+#### SECCION PRIMERA
+
+PROCEDIMIENTO.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 1090.
+
+La solicitud se presentará por escrito y reunirá los requisitos de los Artículos 612 y 614 de este código, los correspondientes al acto de jurisdicción voluntaria que se promueva y cualquier otro requisito que el juez considere prudente según las circunstancias del caso.
+
+Si no se reúnen las exigencias previstas en el párrafo anterior, el juez concederá al promovente un término de tres días para completarlas. En caso de que no se cumpla esa prevención, se desechará de plano su solicitud.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 1091.
+
+Cumplidas las exigencias, el juez señalará el día, hora y lugar para una audiencia que se celebrará dentro del plazo de quince días, citando a los promoventes, al Ministerio Público y terceros que deban comparecer.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 1092.
+
+En la audiencia a que se refiere el Artículo anterior, los promoventes ratificarán su solicitud; en caso de no hacerlo, ésta quedará sin efectos. Ratificada la solicitud, se desahogarán las pruebas que requieran diligencia especial en el orden que el juez determine, hecho lo cual, el procedimiento quedará en estado de sentencia, misma que se dictará en el acto si fuere posible. En caso contrario, citará a las partes para dictarla dentro del término de tres días.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+
+#### SECCION SEGUNDA
+
+DE LA ENAJENACION DE BIENES DE MENORES O INCAPACITADOS Y TRANSACCION ACERCA DE SUS DERECHOS.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 1093.
+
+Será necesaria licencia judicial para la venta de los bienes que pertenezcan exclusivamente a menores o incapacitados y correspondan a las clases siguientes:
+
+I. Bienes raíces;
+
+II. Derechos reales sobre muebles;
+
+III. Alhajas y muebles preciosos;
+
+IV. Acciones de compañías industriales y mercantiles, cuyo valor exceda de cinco mil pesos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 1094.
+
+Para decretar la venta de los bienes se necesita que al pedirse, se expresen el motivo de la enajenación y el objeto a que debe aplicarse la suma que se obtenga y que se justifique la absoluta necesidad o la evidente utilidad de la medida.
+
+Si fuere le (sic) autor quien solicitare la venta, al hacer la promoción debe proponer las bases del remate en cuanto a la cantidad que deba darse de contado, el plazo, interés y garantías del remanente.
+
+La solicitud del tutor se substanciará con el curador y el Ministerio Público. La sentencia que se dicte es apelable en ambos efectos.
+
+Los peritos que se designen para hacer el avalúo serán nombrados por el juez.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 1095.
+
+Respecto de las alhajas y muebles preciosos, el juez determinará si conviene o no la subasta, atendiendo en todo a la utilidad que resulte al menor. Si se decreta, se hará por conducto de un comisionista o casa de comercio que expenda Artículos similares, observándose en lo conducente lo dispuesto por el Artículo 560.
+
+La venta de los inmuebles que se ordene en remate, se realizará conforme a lo dispuesto en el Capítulo II, Título Décimo, Libro Primero del presente código, y en ella no podrá admitirse postura interior de las dos terceras partes del avalúo pericial o que no se ajuste a los términos de la autorización judicial.
+
+Si en la primera almoneda no hubiere postor, a solicitud del tutor, curador o del Consejo de Tutelas, el juez convocará a una junta dentro del tercer día, para ver si son de modificarse o no las bases del remate, señalándose nuevamente las almonedas que fueren necesarias.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 1096.
+
+Para la venta de acciones y títulos de renta, se concederá la autorización sobre la base de que no se haga por menor valor del que se cotice en la plaza el día de la venta y por conducta (sic) de comisionista o de comerciante establecido y acreditado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 1097.
+
+El precio de la venta se entregará al tutor si las firmas o garantías prestadas son suficientes para responder de él. De otra manera se depositará en el establecimiento destinado al efecto.
+
+El juez señalará un término prudente al tutor para que justifique la inversión del precio de la enajenación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 1098.
+
+Para la venta de los bienes inmuebles o de los muebles preciosos de hijos, requerirán los que ejercen la patria potestad la autorización judicial en los mismos términos que los señalados en el Artículo 1094. El incidente se substanciará con el Ministerio Público y con un tutor especial que para el efecto nombre el juez desde las primeras diligencias.
+
+En este caso, la venta se llevará a cabo fuera de remate a un precio que no baje de las cuatro quintas partes de avalúo.
+
+Bajo las mismas condiciones, los padres podrán gravar los bienes inmuebles de sus hijos o consentir la extinción de derechos reales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 1099.
+
+Para recibir dinero prestado en nombre del menor o incapacitado, el tutor necesitará la conformidad del curador y del Consejo de Tutelas y después de la autorización judicial.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 1100.
+
+Lo dispuesto en los Artículos que preceden se aplicará al gravamen y enajenación de los bienes de ausentes, así como a la transacción y arrendamiento por más de cinco años de bienes de ausentes, menores o incapacitados.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+
+#### SECCION TERCERA
+
+DE LA ADOPCION.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 1101.
+
+El que pretenda adoptar deberá acreditar las, exigencias del Artículo 390 y demás relativos del Código Civil debiéndose observar lo siguiente:
+
+I. En la promoción inicial se deberá manifestar el nombre, apellidos, nacionalidad, edad y domicilio del menor que se pretende adoptar, y el nombre, nacionalidad, edad, estado civil y domicilio de quienes ejerzan sobre él la patria potestad o la tutela o de la institución de asistencia o beneficencia que lo haya acogido; así como el nombre, nacionalidad, edad, estado civil y domicilio del o los adoptantes; y el nombre, nacionalidad y domicilio de los padres o del o los adoptantes. En caso de querer variar el nombre del o los adoptados, en dicha promoción se expresará el nuevo nombre que se pretende asignar.
+
+II. El otorgamiento del consentimiento de las personas que deban darlo, conforme a los Artículos 394 y 395 del Código Civil.
+
+III. Si la adopción se hizo con anterioridad y faltaren datos del o los adoptantes o de los padres de éstos, se acreditarán por resolución pronunciada en jurisdicción voluntaria, o en procedimiento administrativo ante la Dirección del Registro Civil.
+
+IV. Cuando el menor hubiere sido acogido por institución pública o privada, el adoptante recabará constancia del tiempo de la exposición, para los efectos de la fracción VI del Artículo 444 del Código Civil.
+
+Si hubieren transcurrido menos de tres meses de la exposición, se decretará el depósito del menor con el presunto adoptante, entre tanto se consuma dicho plazo.
+
+Si el menor expósito no hubiere sido acogido por institución pública o privada, se decretará el depósito con el presunto adoptante, por el término de tres meses para los mismos efectos.
+
+V. En los casos a que se refiere el Artículo 732 Bis de este Código, deberá acreditarse la pérdida de la patria potestad de quienes por disposición de la Ley la tienen.
+
+Tratándose de adopciones de menores abandonados o expósitos acogidos en instituciones públicas o privadas, la asesoría de las instituciones oficiales en la tramitación de las mismas se hará sin costo alguno para los interesados.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 1102.
+
+No procederá fijar fecha y hora para la celebración de la audiencia a que se refiere el Artículo 1091 de este código, hasta en tanto transcurra el término que señala el Artículo 394 del Código Civil.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 1103.
+
+Cuando el adoptante o adoptantes soliciten la conversión de la adopción semiplena a plena, y reunidos los requisitos de ésta, el juez los citará a una audiencia dentro de los ocho días siguientes con la intervención del Ministerio Público, en la que resolverá lo conducente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 1104.
+
+Cuando el adoptante y el adoptado pidan que la adopción semiplena sea revocada, el juez lo citará a una audiencia para dentro de los tres días siguientes, en la que resolverá conforme a lo dispuesto en el primer párrafo del Artículo 407 del Código Civil.
+
+Si el adoptado fuere Menor de edad, para poder decretar la revocación se deberá oír al representante del Ministerio Público y a la Procuraduría de la Defensa del menor y la Familia.
+
+Para acreditar cualquier hecho relativo a la conveniencia de la revocación, pueden rendirse toda clase de pruebas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 1105.
+
+La impugnación de la adopción y su revocación en los casos de los Artículos 401 y 405 fracciones II y III del Código Civil no pueden promoverse en diligencias de jurisdicción voluntaria.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+#### SECCION CUARTA
+
+CAMBIO DE REGIMEN DE MATRIMONIO.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### Artículo 1106.
+
+Los consortes que pretendan variar el régimen matrimonial deberán cumplir con los siguientes requisitos:
+
+I. Allegar el acta de matrimonio; y
+
+II. Acompañar el convenio en los términos que señala el Código Civil.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -9228,3 +9458,9 @@ Cuarto.- El Ejecutivo del Estado a través de la Secretaría de Finanzas y Tesor
 P.O. 21 DE ENERO DE 2009.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE FEBRERO DE 2009.
+
+Primero.- El presente Decreto entrará en vigor el día1 de julio de 2009.
+
+Segundo.- Las disposiciones del presente Decreto no serán aplicables a los procedimientos jurisdiccionales iniciados con anterioridad a la vigencia del mismo.
