@@ -4,7 +4,7 @@ identifier: "COA-codigo-fiscal-para-el-estado-de-coahuila-de-zaragoza-37936"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-01-02"
-last_updated: "2004-01-02"
+last_updated: "2009-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37936&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 2 de enero de 2004.
 
@@ -139,9 +139,17 @@ c) En los demás casos, el lugar en que se encuentren los bienes o el lugar en q
 
 II. Tratándose de personas morales:
 
-a) El local en que esté la administración principal de los negocios.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
-b) En los demás casos, el lugar en que encuentren los bienes o el lugar en que se realicen los actos o actividades objeto del gravamen.
+a) Cuando sean residentes en el país, el local en que este la administración principal de los negocios.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+b) Si se trata de establecimientos de personas morales residentes en el extranjero, dicho establecimiento; en el caso de varios establecimientos, el local en donde se encuentre la administración principal del negocio en el país, o en su defecto el que designen.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+Cuando el contribuyente no designe un domicilio fiscal estando obligado a ello, o hubiera designado como domicilio fiscal un lugar distinto al que le corresponda de acuerdo con lo dispuesto en este precepto o cuando hayan manifestado un domicilio ficticio, las autoridades fiscales podrán practicar diligencias en cualquier lugar en el que realice sus actividades o en el lugar que conforme a este artículo se considere su domicilio.
 
 ###### ARTICULO 12.
 
@@ -149,9 +157,11 @@ Cuando las leyes fiscales establezcan que las contribuciones se calcularán por 
 
 Cuando las leyes fiscales establezcan que las contribuciones se calculen por mes, se entenderá que corresponde al mes de calendario.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 13.
 
-En los plazos fijados en días no se contarán los sábados, los domingos ni el 1o. de Enero; el 5 de Febrero; el 21 de Marzo; el 1o. y 5 de Mayo; el 16 de Septiembre; el 12 de Octubre; el 20 de Noviembre; el 1o. de Diciembre de cada seis años, cuando corresponda a la transmisión del poder Ejecutivo Federal; el 1° de diciembre de cada seis años cuando corresponda a la transmisión del poder Ejecutivo Estatal y el 25 de Diciembre.
+En los plazos fijados en días no se contarán los sábados, los domingos ni el 1o. de Enero; el primer lunes de febrero en conmemoración del 5 de Febrero; el tercer lunes de marzo en conmemoración del 21 de Marzo; el 1o. y 5 de Mayo; el 16 de Septiembre; el 12 de Octubre; el tercer lunes de noviembre en conmemoración del 20 de Noviembre; el 1o. de Diciembre de cada seis años, cuando corresponda a la transmisión del poder Ejecutivo Federal; el 1º de diciembre de cada seis años cuando corresponda a la transmisión del poder Ejecutivo Estatal y el 25 de Diciembre.
 
 Tampoco se contará en dichos plazos, los días en que tengan vacaciones generales las autoridades fiscales estatales. No son vacaciones generales si se llegan a otorgar en forma escalonada.
 
@@ -202,6 +212,22 @@ b) En el acto en el que el fideicomitente ceda sus derechos si entre éstos se i
 VIII. La transmisión de dominio de un bien tangible o del derecho para adquirirlo que se efectúe a través de enajenación de títulos de crédito o de la cesión de derechos que los representen.
 
 Tratándose de vehículos automotores, se presumirá que el propietario es la persona a cuyo nombre se obtuvo el registro vehicular y las placas metálicas con numero identifica torio (sic) correspondiente.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### ARTICULO 15-A.
+
+El monto de las contribuciones, aprovechamientos, así como de las devoluciones a cargo del fisco estatal, se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo entre el citado índice correspondiente al mes anterior al más antiguo de dicho periodo. Las contribuciones, los aprovechamientos, así como las devoluciones a cargo del fisco estatal, no se actualizarán por fracciones de mes.
+
+En los casos en que el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del período, no haya sido publicado por el Banco de México, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
+
+Cuando el resultado de la operación a que se refiere el primer párrafo de este artículo sea menor a 1, el factor de actualización que se aplicará al monto de las contribuciones, aprovechamientos y devoluciones a cargo del fisco federal, así como a los valores de bienes u operaciones de que se traten, será 1.
+
+Las cantidades en moneda nacional que se establezcan en este Código, se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio a aquél en el que se haya dado dicho incremento. Para la actualización mencionada se considerará el periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el porcentaje citado. Para estos efectos, el factor de actualización se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes inmediato anterior al más reciente del período entre el Índice Nacional de Precios al Consumidor correspondiente al mes anterior al más antiguo de dicho periodo. La Secretaría de Finanzas del Estado de Coahuila realizará las operaciones aritméticas previstas en este artículo y publicará el factor de actualización así como las cantidades actualizadas en el Periódico Oficial del Estado de Coahuila.
+
+Para determinar el monto de las cantidades a que se refiere el párrafo anterior, se considerarán, inclusive, las fracciones de peso; no obstante lo anterior, dicho monto se ajustará para que las cantidades de 0.01 a 5.00 pesos en exceso de una decena, se ajusten a la decena inmediata anterior y de 5.01 a 9.99 pesos en exceso de una decena, se ajusten a la decena inmediata superior.
+
+Cuando de conformidad con las disposiciones fiscales se deban realizar operaciones aritméticas, con el fin de determinar factores o proporciones, las mismas deberán calcularse hasta el diezmilésimo.
 
 ### CAPITULO II. DE LOS MEDIOS ELECTRONICOS
 
@@ -387,9 +413,19 @@ Las personas que de acuerdo con las disposiciones fiscales estén obligadas a ll
 
 I. Llevarán los sistemas y registro contables que se requieran conforme a la naturaleza de la contribución a pagar.
 
-II. Llevarán la contabilidad en el domicilio fiscal declarado ante las autoridades correspondientes.
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+II. Llevarán la contabilidad en el domicilio fiscal declarado ante las autoridades correspondientes. Los contribuyentes podrán procesar a través de medios electrónicos, datos e información de su contabilidad en lugar distinto a su domicilio fiscal, sin que por ello se considere que se lleva la contabilidad fuera del domicilio mencionado.
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+III. Los asientos en la contabilidad serán analíticos, y deberán efectuarse dentro de los dos meses siguientes a la fecha en que se realicen las actividades respectivas.
 
 Cuando las autoridades fiscales en ejercicio de sus facultades de comprobación mantengan en su poder la contabilidad de la persona por un plazo mayor de un mes, ésta deberá continuar llevando su contabilidad cumpliendo con los requisitos respectivos.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+Quedan incluidos en la contabilidad los registros y cuentas especiales a que obliguen las disposiciones fiscales, los que lleven los contribuyentes aun cuando no sean obligatorios y los libros y registros sociales a que obliguen otras leyes.
 
 En los casos en que las demás disposiciones de este Código hagan referencia a la contabilidad, se entenderá que la misma se integra por los sistemas y registros contables a que se refiere la fracción I de este artículo, por los registros, cuentas especiales, libros y registros sociales, así como por la documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con las disposiciones fiscales.
 
@@ -524,6 +560,10 @@ Cuando la omisión sea de una declaración de las que se conozca de manera fehac
 Si el contribuyente o responsable solidario presenta la declaración omitida antes de que se le haga efectiva la cantidad resultante conforme a lo previsto en esta fracción, queda liberado de hacer el pago determinado provisionalmente. Si la declaración se presenta después de haberse efectuado el pago provisional determinado por la autoridad, éste se ajustará conforme al importe que se tenga que pagar con la declaración que se presente.
 
 III. Imponer la multa que corresponda en los términos de este Código y requerir la presentación del documento omitido en un plazo de seis días. Si no se atiende el requerimiento se impondrá multa por cada requerimiento no atendido. La autoridad en ningún caso formulará más de tres requerimientos por una misma omisión.
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+III-A. Embargar precautoriamente los bienes o la negociación cuando el contribuyente haya omitido presentar declaraciones en los últimos tres ejercicios o cuando no atienda tres requerimientos de la autoridad en los términos de la fracción IV de este Artículo por una misma omisión, salvo tratándose de declaraciones, en que bastará con no atender un requerimiento. El embargo quedará sin efecto cuando el contribuyente cumpla con el requerimiento o dos meses después de practicado si no obstante el incumplimiento las autoridades fiscales no inician el ejercicio de sus facultades de comprobación.
 
 IV. Elaborar una liquidación provisional de la contribución por el equivalente a la más alta de las tres últimas declaraciones presentadas por dicha contribución.
 
@@ -918,6 +958,36 @@ I. De 10 a 20 días de salario mínimo vigente en la Entidad a la comprendida en
 II. De 5 a 10 días de salario mínimo vigente en la Entidad a la comprendida en la fracción II.
 
 III. De 20 a 30 días de salario mínimo vigente en la Entidad a la comprendida en la fracción III.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### ARTICULO 73-A.
+
+Son infracciones relacionadas con la obligación de llevar contabilidad, siempre que sean descubiertas en el ejercicio de las facultades de comprobación, las siguientes:
+
+I. No llevar contabilidad.
+
+II. No llevar algún libro o registro especial a que obliguen las leyes fiscales.
+
+III. Llevar la contabilidad en forma distinta a como las disposiciones de este Código o de otras leyes señalan o llevarla en lugares distintos a los señalados en dichas disposiciones.
+
+IV. No hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos, inexactos o fuera de los plazos respectivos.
+
+V. No conservar la contabilidad a disposición de las autoridades por el plazo que establezcan las leyes fiscales.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+###### ARTICULO 73-B.
+
+A quien cometa las infracciones relacionadas con la obligación de llevar contabilidad a que se refiere el Artículo 83 de este Código, se impondrán las siguientes sanciones:
+
+I. De $940.00 a $9,340.00, a la comprendida en la fracción I.
+
+II. De $200.00 a $4,670.00, a las establecidas en las fracciones II y III.
+
+III. De $200.00 a $3,740.00, a la señalada en la fracción IV.
+
+IV. De $570.00 a $7,470.00, a la señalada en la fracción V.
 
 ###### ARTICULO 74.
 
@@ -1423,23 +1493,21 @@ En caso de negativa o violación a la suspensión del procedimiento administrati
 
 #### SECCION I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 127.
 
-Las autoridades fiscales exigirán el pago de los créditos fiscales que no hubieren sido cubiertos o garantizados dentro de los plazos señalados por la ley, mediante el procedimiento administrativo de ejecución.
+Las autoridades fiscales exigirán el pago de los créditos fiscales que no hubieren sido cubiertos o garantizados dentro de los plazos señalados por la Ley, mediante procedimiento administrativo de ejecución.
 
-Se podrá practicar embargo precautorio, sobre los bienes o la negociación del contribuyente, para asegurar el interés fiscal, cuando:
+Se podrá practicar embargo precautorio, sobre los bienes o la negociación del contribuyente, para asegurar el interés fiscal, cuando el crédito fiscal no sea exigible pero haya sido determinado por el contribuyente o por la autoridad en el ejercicio de sus facultades de comprobación, cuando a juicio de ésta exista peligro inminente de que el obligado realice cualquier maniobra tendiente a evadir su cumplimiento. En este caso, la autoridad trabará el embargo.
 
-I. El contribuyente se oponga u obstaculice la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales o no se pueda notificar su inicio por haber desaparecido o por ignorarse su domicilio.
+La autoridad que practique el embargo precautorio levantará acta circunstanciada en la que precise las razones del embargo.
 
-II. Después de iniciadas las facultades de comprobación, el contribuyente desaparezca o exista riesgo inminente de que oculte, enajene o dilapide sus bienes.
+El embargo precautorio practicado antes de la fecha en que el crédito fiscal sea exigible, se convertirá en definitivo al momento de la exigibilidad de dicho crédito fiscal y se continuará el procedimiento administrativo de ejecución.
 
-III. El contribuyente se niegue a proporcionar la contabilidad que acredite el cumplimiento de las disposiciones fiscales, a que se está obligado.
+Si el particular garantiza el interés fiscal en los términos del artículo 123 de este Código, se levantará el embargo.
 
-IV. El crédito fiscal no sea exigible pero haya sido determinado por el contribuyente o por la autoridad en el ejercicio de sus facultades de comprobación, cuando a juicio de ésta exista peligro inminente de que el obligado realice cualquier maniobra tendiente a evadir su cumplimiento. En este caso, la autoridad trabará el embargo precautorio hasta por un monto equivalente al de la contribución o contribuciones determinadas, incluyendo sus accesorios. Si el pago se hiciera dentro de los plazos legales, el contribuyente no estará obligado a cubrir los gastos que origine la diligencia y se levantará el embargo.
-
-El embargo quedará sin efecto si la autoridad no emite, dentro del plazo de seis meses contados desde la fecha en que fue practicado, resolución en la que determine créditos fiscales. Si dentro del plazo señalado la autoridad los determina, el embargo precautorio se convertirá en definitivo y se proseguirá procedimiento administrativo de ejecución conforme a las disposiciones de este Capítulo, debiendo dejar constancia de la resolución y de la notificación de la misma en el expediente de ejecución. Si el particular garantiza el interés fiscal en los términos del artículo 123, se levantará el embargo.
-
-En ningún caso se aplicará el procedimiento administrativo de ejecución para cobrar créditos derivados de productos.
+Son aplicables al embargo precautorio a que se refiere este artículo y al previsto por el artículo 41, fracción III de este Código, las disposiciones establecidas para el embargo y para la intervención en el procedimiento administrativo de ejecución que, conforme a su naturaleza, le sean aplicables.
 
 ###### ARTICULO 128.
 
@@ -1914,3 +1982,11 @@ LIC. JOSE JESUS RAUL SIFUENTES GUERRERO
 EL SECRETARIO DE FINANZAS
 
 LIC. JAVIER GUERRERO GARCIA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE FEBRERO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
