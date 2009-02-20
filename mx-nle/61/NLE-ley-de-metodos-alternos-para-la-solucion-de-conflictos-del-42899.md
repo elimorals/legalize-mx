@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-metodos-alternos-para-la-solucion-de-conflictos-del-4289
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-14"
-last_updated: "2006-09-10"
+last_updated: "2009-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE METODOS ALTERNOS PARA LA SOLUCION DE CONFLICTOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 14 de enero de 2005.
 
@@ -57,7 +57,9 @@ IV. Cláusula Compromisoria: Manifestación de la voluntad que consta en forma e
 
 V. Convenio del Método Alterno: Acto voluntario que pone fin al conflicto total o parcialmente y tiene respecto a los participantes la misma eficacia y autoridad que la cosa juzgada o, en su caso, que la sentencia ejecutoriada, previo su trámite ante el órgano jurisdiccional conforme a lo dispuesto por esta Ley y las disposiciones jurídicas aplicables.
 
-VI. Centro Estatal: Centro Estatal de Métodos Alternos para la Solución de Conflictos, a que se refiere la Ley Orgánica del Poder Judicial del Estado.
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+VI. Centro Estatal: Centro Estatal de Métodos Alternos para la Solución de Conflictos, a que se refiere la Ley Orgánica del Poder Judicial del Estado; así como la Dirección de Orientación y Consulta Ciudadana en los términos previstos en la Ley de Justicia Administrativa.
 
 VII. Centros de Métodos Alternos: Todas aquellas instituciones públicas o privadas que presten servicios de Métodos Alternos, distintos del Centro Estatal.
 
@@ -80,6 +82,10 @@ Los derechos y obligaciones pecuniarios de los menores o incapaces, podrán some
 Tratándose de conductas delictivas se estará sujeto a lo dispuesto en los Códigos Penal y de Procedimientos Penales; no obstante, el pago de la reparación del daño, como consecuencia jurídica del delito, podrá sujetarse a los Métodos Alternos en cualquier etapa del procedimiento.
 
 En los asuntos del orden civil o familiar que se encuentren en ejecución de sentencia se estará a lo dispuesto por el Capítulo I del Título Noveno del Libro Primero del Código de Procedimientos Civiles del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+Por lo que se refiere a los asuntos de carácter administrativos, en ellos no será aplicable el arbitraje ni la amigable composición como un método alterno de solución de conflictos.
 
 Tratándose de extranjeros, se estará a lo dispuesto por las leyes aplicables.
 
@@ -105,11 +111,21 @@ II. La Constitución Política del Estado de Nuevo León, lo dispuesto en esta L
 
 III. Lo dispuesto en el Código Civil y en el Código de Procedimientos Civiles del Estado, con respecto a los asuntos del orden familiar y del orden civil y a la ejecución de las sentencias;
 
-IV. Lo dispuesto en el Código Penal y en el Código de Procedimientos Penales del Estado, con respecto a los asuntos del orden penal;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
-V. La jurisprudencia, los principios generales del derecho, los usos y costumbres aplicables; y
+IV. Lo previsto en la Ley de Justicia Administrativa del Estado de Nuevo León, tratándose de los asuntos del orden administrativo y a la ejecución de las sentencias.
 
-VI. El acuerdo voluntario entre los participantes.
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+V. Lo dispuesto en el Código Penal y en el Código de Procedimientos Penales del Estado, con respecto a los asuntos del orden penal;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+VI. La jurisprudencia, los principios generales del derecho, los usos y costumbres aplicables; y
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+VII. El acuerdo voluntario entre los participantes.
 
 ###### Artículo 6º.
 
@@ -119,9 +135,13 @@ I. Un compromiso asumido antes del surgimiento del conflicto;
 
 II. Un compromiso asumido después del surgimiento del conflicto;
 
-III. Un acuerdo voluntario para someterse a un Método Alterno, derivado de una sugerencia del Ministerio Público, de una Autoridad Jurisdiccional o directamente de los participantes en conflicto, dentro del desarrollo de una averiguación previa o un procedimiento judicial, en tanto éste no haya sido resuelto judicialmente en forma definitiva y la sentencia no haya sido cumplida en sus términos, sin que esto implique una etapa de dicha averiguación o procedimiento.
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
-El acuerdo asumido conforme a la fracción III implicará someterse al Método Alterno y solicitar al Ministerio Público o Autoridad Jurisdiccional, según corresponda, si así lo acuerdan voluntariamente los participantes, la suspensión de la averiguación o procedimiento judicial, para intentar resolver el conflicto por una vía alterna y de que, tratándose de asuntos Civiles o Familiares, no opere la caducidad de la instancia a que se refiere el Código de Procedimientos Civiles del Estado. En caso de que los participantes no deseen continuar con el Método Alterno elegido, excepto en el Arbitraje, conjuntamente podrá optarse por otro, o solicitarse de manera unilateral o conjunta la reanudación de la averiguación o procedimiento judicial suspendido.
+III. Un acuerdo voluntario para someterse a un Método Alterno, derivado de una sugerencia del Ministerio Público, de una Autoridad Jurisdiccional o directamente de los participantes en conflicto, dentro del desarrollo de una averiguación previa o un procedimiento jurisdiccional, en tanto éste no haya sido resuelto en forma definitiva y la sentencia no haya sido cumplida en sus términos, sin que esto implique una etapa de dicha averiguación o procedimiento.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+El acuerdo asumido conforme a la fracción III implicará someterse al Método Alterno y solicitar al Ministerio Público o Autoridad Jurisdiccional, según corresponda, si así lo acuerdan voluntariamente los participantes, la suspensión de la averiguación o procedimiento jurisdiccional, para intentar resolver el conflicto por una vía alterna y de que, tratándose de asuntos Civiles o Familiares, no opere la caducidad de la instancia a que se refiere el Código de Procedimientos Civiles del Estado; lo anterior también resulta aplicable tratándose de las controversias a que se refiere el artículo 102 de la Ley de Justicia Administrativa del Estado, a fin de que no opere la caducidad prevista en esta última Ley. En caso de que los participantes no deseen continuar con el Método Alterno elegido, excepto en el Arbitraje, conjuntamente podrá optarse por otro, o solicitarse de manera unilateral o conjunta la reanudación de la averiguación o procedimiento jurisdiccional suspendido.
 
 ###### Artículo 7º.
 
@@ -137,9 +157,11 @@ Los Métodos Alternos son de carácter confidencial, implicando que toda persona
 
 Los prestadores de servicios de Métodos Alternos serán personas físicas y podrán ejercer esta función dentro del Centro Estatal, de Centros de Métodos Alternos, o desarrollar su actividad en forma independiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 10.
 
-Los prestadores de servicios de Métodos Alternos podrán certificarse ante el Centro Estatal, debiendo cumplir los requisitos siguientes:
+Los prestadores de servicios de Métodos Alternos podrán certificarse ante el Centro Estatal del Poder Judicial del Estado, debiendo cumplir los requisitos siguientes:
 
 I. Estar en pleno ejercicio de los derechos civiles;
 
@@ -173,15 +195,19 @@ VII. Desarrollar su función de manera imparcial y neutral, propiciando la igual
 
 VIII. Capacitarse en la materia;
 
-IX. Rendir al Centro Estatal los informes estadísticos que se les requieran, salvo si desempeñan sus actividades en un Centro de Métodos Alternos certificado, por cuyo conducto se remitieran. En todos los casos deberá respetarse la confidencialidad de los participantes y de los pormenores de cada caso atendido; y
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+IX. Rendir al Centro Estatal del Poder Judicial del Estado los informes estadísticos que se les requieran, salvo si desempeñan sus actividades en un Centro de Métodos Alternos certificado, por cuyo conducto se remitieran. En todos los casos deberá respetarse la confidencialidad de los participantes y de los pormenores de cada caso atendido; y
 
 X. Las demás que se deriven de las disposiciones legales.
 
 Los prestadores de servicios de Métodos Alternos que no estén certificados, se encontrarán obligados a cumplir con lo dispuesto en las fracciones I a VII y X del presente artículo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 12.
 
-Los Centros de Métodos Alternos deberán certificarse ante el Centro Estatal, debiendo cumplir los requisitos siguientes:
+Los Centros de Métodos Alternos deberán certificarse ante el Centro Estatal del Poder Judicial del Estado, debiendo cumplir los requisitos siguientes:
 
 I. Acreditar jurídicamente su constitución, existencia y representación;
 
@@ -199,7 +225,9 @@ Los Centros de Métodos Alternos, certificados, están obligados a:
 
 I. Verificar que las personas que prestan servicios de Métodos Alternos dentro de su organización, cumplan con los requisitos y obligaciones que establece esta Ley;
 
-II. Rendir al Centro Estatal los informes que se les requieran. En todos los casos deberá respetarse la confidencialidad de los participantes y de los pormenores de cada caso atendido; y
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
+II. Rendir al Centro Estatal del Poder Judicial del Estado los informes que se les requieran. En todos los casos deberá respetarse la confidencialidad de los participantes y de los pormenores de cada caso atendido; y
 
 III. Las demás que se deriven de la presente Ley.
 
@@ -347,9 +375,13 @@ I. Por convenio que establezca la solución total del conflicto; o
 
 II. Por convenio que establezca la solución parcial del conflicto.
 
-Respecto de la fracción I, no se admitirá recurso alguno y previa la observancia de las disposiciones aplicables, a instancia de parte se podrá elevar a cosa juzgada o sentencia ejecutoriada y en consecuencia proceder a su ejecución. Una vez cumplida la ejecución, y salvo los casos en que haya obligaciones de tracto sucesivo, el Juez ordenará el archivo del asunto como totalmente concluido.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
-Respecto a la fracción II y en relación con la parte del conflicto en que sí se hubiere logrado un convenio, se procederá en los términos de lo dispuesto en el párrafo anterior. Tratándose de derechos sobre los cuales no se hubiere llegado a un Convenio, quedarán a salvo a fin de obtener una solución a través de algún otro Método Alterno o por la vía judicial.
+Respecto de la fracción I, no se admitirá recurso alguno y previa la observancia de las disposiciones aplicables, a instancia de parte se podrá elevar a cosa juzgada o sentencia ejecutoriada y en consecuencia proceder a su ejecución. Una vez cumplida la ejecución, y salvo los casos en que haya obligaciones de tracto sucesivo, el Juez o el Magistrado del Tribunal de lo Contencioso, según corresponda, ordenará el archivo del asunto como totalmente concluido.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+Respecto a la fracción II y en relación con la parte del conflicto en que sí se hubiere logrado un convenio, se procederá en los términos de lo dispuesto en el párrafo anterior. Tratándose de derechos sobre los cuales no se hubiere llegado a un Convenio quedaran a salvo a fin de obtener una solución a través de algún otro Método Alterno o por la vía jurisdiccional.
 
 ###### Artículo 30.
 
@@ -373,17 +405,19 @@ VIII. Contener el nombre, la firma o huella digital, según sea el caso, del pre
 
 ### CAPÍTULO IV. DE LA RATIFICACIÓN, LA CERTIFICACIÓN, EL RECONOCIMIENTO Y LA EJECUCIÓN DE LOS CONVENIOS DE MÉTODOS ALTERNOS
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 31.
 
-El Convenio del Método Alterno, en el supuesto de que el mecanismo alterno para la solución del conflicto haya tenido lugar en el desarrollo de un procedimiento jurisdiccional, deberá ser presentado ante la autoridad judicial que conozca sobre dicho procedimiento, para el efecto de que si no contraviene lo dispuesto por el artículo tercero de la presente Ley, sea reconocido y se le den efectos de cosa juzgada o, en su caso, de sentencia ejecutoriada, en los términos del Código Civil y del Código de Procedimientos Civiles del Estado de Nuevo León.
+El Convenio del Método Alterno, en el supuesto de que el mecanismo alterno para la solución del conflicto haya tenido lugar en el desarrollo de un procedimiento jurisdiccional deberá ser presentado ante la autoridad jurisdiccional que conozca sobre dicho procedimiento, para el efecto de que si no contraviene lo dispuesto por el artículo tercero de la presente Ley, sea reconocido y se le den efectos de cosa juzgada o, en su caso, de sentencia ejecutoriada, en los términos del Código Civil, del Código de Procedimientos Civiles del Estado de Nuevo León, o en su caso de la Ley de Justicia Administrativa del Estado.
 
 ###### Artículo 32.
 
 El Convenio del Método Alterno obtenido, cuando el mecanismo para la solución del conflicto se haya tramitado antes del inicio de cualquier procedimiento jurisdiccional, satisfaciéndose los requisitos de esta ley, podrá ser ratificado ante el Director del Centro Estatal, la autoridad competente de la Procuraduría General de Justicia, o el Notario Público que los participantes de común acuerdo designen, quien extenderá la certificación correspondiente. En caso de no existir alguno de los anteriores, se hará ante el síndico del lugar.
 
-Posteriormente, en caso de que el cumplimiento del Convenio no se realice voluntariamente o en los términos acordados, o cuando los participantes así lo deseen, se requerirá su presentación ante la autoridad judicial competente para conocer del conflicto materia del Método Alterno, con el fin de que aquélla constate que se haya observado lo dispuesto por el artículo 3º de la presente Ley. Hecho lo anterior, se reconocerá judicialmente y se le darán efectos de cosa juzgada o sentencia ejecutoriada, pudiendo realizarse su ejecución en los términos que prevé el Código de Procedimientos Civiles para el Estado de Nuevo León, con respecto a la ejecución de las sentencias.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
+Posteriormente, en caso de que el cumplimiento del Convenio no se realice voluntariamente o en los términos acordados, o cuando los participantes así lo deseen, se requerirá su presentación ante la autoridad jurisdiccional competente para conocer del conflicto materia del Método Alterno, con el fin de que aquélla constate que se haya observado lo dispuesto por el artículo 3º de la presente Ley. Hecho lo anterior se reconocerá jurisdiccionalmente y se le darán efectos de cosa Juzgada o sentencia ejecutoriada, pudiendo realizarse su ejecución en los términos que prevé el Código de Procedimientos Civiles para el Estado de Nuevo León o en su caso la Ley de Justicia Administrativa del Estado de Nuevo León, con respecto a la ejecución de las sentencias.
 
 ###### Artículo 33.
 
@@ -428,3 +462,11 @@ Artículo Primero.- El presente Decreto entrará en vigor una vez que inicie la 
 Artículo Segundo.- A los procedimientos judiciales que estén tramitándose con anterioridad a la vigencia de este Decreto, no les serán aplicables las disposiciones que en éste se prevén, con excepción de lo dispuesto en el Artículo 77, que aplicará para todo caso.
 
 Artículo Tercero.- Los procedimientos iniciados a partir de la vigencia de este Decreto, podrán ser acumulados a aquellos que se encuentren en trámite bajo la regulación anterior, en los términos del Capítulo II, del Título Undécimo, del Libro Primero, del Código de Procedimientos Civiles del Estado, no siendo aplicable lo dispuesto en el Artículo 570 fracción III del mismo.
+
+P.O. 20 DE FEBRERO DE 2009.
+
+Primero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El funcionamiento integral para la aplicación del Título Tercero "Del Procedimiento Oral", de la Ley de Justicia Administrativa para el Estado de Nuevo León, estará supeditado a la suficiencia presupuestal con motivo del requerimiento de ampliación de personal, instalaciones, equipamiento y capacitación. Su aplicación gradual se hará conforme lo determine el Pleno del Tribunal de lo Contencioso Administrativo.
+
+Tercero.- Los juicios que se encuentren en trámite pendientes de resolución, continuarán su substanciación conforme a las disposiciones vigentes en el momento de su inicio, excepto cuando voluntariamente las partes se sometan a los métodos alternos para la solución de conflictos.
