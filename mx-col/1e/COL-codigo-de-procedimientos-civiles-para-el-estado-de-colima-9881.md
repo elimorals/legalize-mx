@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2008-09-27"
+last_updated: "2009-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 2009.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -3893,11 +3893,21 @@ ART. 668.- Cuando se presenten tres o más acreedores que hicieren oposición, s
 
 ART. 673.- Cuando ambos consortes convengan en divorciarse, en los términos del último párrafo del artículo 272 del Código Civil, deberán ocurrir al tribunal competente presentando el convenio que se exige en el artículo 273 del Código citado, así como una copia certificada del acta de matrimonio y de las de nacimiento de los hijos menores.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 674.- Hecha la solicitud citará el Juez a los cónyuges y al representante del Ministerio Público a una junta en la que se identificarán plenamente, que se efectuará después de los 8 y antes de los 15 días siguientes, y si asistieren los interesados los exhortará para procurar su reconciliación, si no logra avenirlos, aprobará provisionalmente, oyendo al representante del Ministerio Público, los puntos del convenio relativos a la situación de los hijos menores o incapacitados, a la separación de los cónyuges y a los alimentos de aquéllos y de los que un cónyuge deba dar a otro mientras dure el procedimiento dictando las medidas necesarias de aseguramiento.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
-ART. 675.- Si insistieren los cónyuges en su propósito de divorciarse, citará el tribunal a una segunda junta que se efectuará después de los ocho y antes de los quince días de solicitada; y en ella volverá a exhortar a aquéllos con el propio fin que en la anterior. Si tampoco se lograre la reconciliación, y en el convenio quedaren bien garantizados los derechos de los hijos menores o incapacitados, el tribunal, oyendo el parecer del representante del Ministerio Público sobre este punto, dictará sentencia en que quedará disuelto el vínculo matrimonial, y decidirá sobre el convenio presentado.
+ART. 674.- Hecha la solicitud, el Juez citará a los cónyuges y al representante del Ministerio Público a una junta que se efectuará antes de los 15 días siguientes, en la cual se identificarán plenamente si asistieren los interesados, los exhortará para procurar su reconciliación y si no logra avenirlos, aprobará provisionalmente, oyendo al representante del Ministerio Público, los puntos del convenio relativos a la situación de los hijos menores, a los alimentos de aquéllos y de los que un cónyuge deba dar a otro mientras dure el procedimiento, dictando las medidas necesarias de aseguramiento.
+
+Si los cónyuges no asisten a la junta, se dará por terminada la instancia, salvo causa justificada.
+
+Si se logró el avenimiento, el Juez archivará el asunto como concluido.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2009)</small>
+
+ART. 675.- Si el convenio no contiene todos los puntos enumerados en el artículo 273 del Código Civil o no están expresados claramente, al admitir la solicitud el juez prevendrá a los solicitantes que los precisen y aclaren en un término prudente que concederá al efecto, el que en ningún caso excederá de cinco días, apercibiéndolos de que si no lo hacen de común acuerdo, se les tendrá por desistidos de su solicitud de divorcio.
 
 ART. 676.- El cónyuge menor de edad necesita de un tutor especial para poder solicitar el divorcio por mutuo consentimiento.
 
@@ -3905,17 +3915,31 @@ ART. 677.- Los cónyuges no pueden hacerse representar por procurador en las jun
 
 ART. 678.- En cualquier caso en que los cónyuges dejaren pasar más de tres meses sin continuar el procedimiento, el tribunal declarará sin efecto la solicitud y mandará archivar el expediente.
 
-ART. 679.- En caso de que el Ministerio Público se oponga a la aprobación del convenio, por considerar que viola los derechos de los hijos o que no quedan bien garantizados, propondrá las modificaciones que estime procedentes y el tribunal lo hará saber a los cónyuges para que dentro de tres días, manifiesten si aceptan las modificaciones.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-En caso de que no las acepten, el tribunal resolverá en la sentencia lo que proceda con arreglo a la ley, cuidando de que en todo caso, queden debidamente garantizados los derechos de los hijos.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
-Cuando el convenio no fuere de aprobarse, no podrá decretarse la disolución del matrimonio.
+ART. 679.- El Ministerio Público podrá oponerse al divorcio por mutuo consentimiento en los siguientes casos:
+
+I. Porque la solicitud se haya hecho en contravención a lo dispuesto por el Código Civil;
+
+II. Porque el convenio que en este caso deben presentar los cónyuges, viole los derechos de los hijos; y
+
+III. Porque los derechos de los hijos no queden bien garantizados.
+
+La oposición deberá presentarse por escrito dentro de los 3 días siguientes al en que se le notifique el auto que admitió la solicitud de divorcio, dando vista a los cónyuges, para que dentro del plazo de tres días manifiesten lo que a su derecho convenga. Una vez cumplidas las exigencias del representante de la sociedad o cuando ambos esposos insistan en su solicitud por estimarla arreglada a la ley, siempre y cuando se haya celebrado la audiencia de conciliación, el juez traerá los autos a la vista y resolverá en sentencia si es o no fundada la oposición, aprobando o denegando la aprobación del convenio. En este último caso, declarará también improcedente la solicitud de divorcio.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
 ART. 680.- La sentencia que decrete el divorcio por mutuo consentimiento, es apelable en el efecto devolutivo. La que lo niegue es apelable en efecto suspensivo.
 
-ART. 681.- Ejecutoriada la sentencia de divorcio, el tribunal mandará remitir copia de ella al oficial del Registro Civil de su jurisdicción, al del lugar en que el matrimonio se efectuó, y al del nacimiento de los divorciados, para los efectos de los artículos 114, 116 y 291 del Código Civil.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2009)</small>
+
+ART. 681.- Ejecutoriada la sentencia de divorcio, el tribunal ordenará de oficio la remisión de la copia de ésta al Oficial del Registro Civil ante quien se celebró el matrimonio, para los efectos de los artículos 114 y 291 del Código Civil.
+
+Cuando la sentencia haya causado ejecutoria las ulteriores solicitudes de modificación del convenio o de las medidas judiciales, se plantearán ante el mismo juzgador y se tramitarán en forma incidental.
 
 TITULO DECIMOSEGUNDO
 
@@ -5826,3 +5850,11 @@ P.O. 19 DE JULIO DE 2008.
 P.O. 27 DE SEPTIEMBRE DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 21 DE FEBRERO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor a los 60 días después de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Los procedimientos iniciados con anterioridad a la entrada en vigor del presente decreto, serán concluidos conforme a las disposiciones vigentes con anterioridad a éste.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a la presente reforma, modificaciones y adiciones.
