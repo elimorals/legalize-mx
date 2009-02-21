@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-penales-para-el-estado-de-colima-12358
 country: "mx"
 rank: "codigo"
 publication_date: "1997-08-02"
-last_updated: "2008-09-27"
+last_updated: "2009-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 2009.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -628,6 +628,12 @@ Si no se hace esa designación, bastará notificar a cualquiera de los defensore
 ###### ARTICULO 75.
 
 Las personas que intervengan en un proceso designarán en la primera diligencia un domicilio ubicado en el lugar del mismo para recibir notificaciones. Si por cualquier circunstancia no hacen esa designación, cambian de domicilio sin dar aviso al Juzgador o señalan uno falso, las notificaciones, aún las personales, se les harán por lista.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
+
+Las personas que impugnen resoluciones judiciales a través de la apelación, la queja, la denegada apelación o la revisión extraordinaria, deberán señalar domicilio para oír y recibir notificaciones en segunda instancia, en la ciudad de Colima, Colima. Si por cualquier circunstancia no hacen esa designación, las notificaciones, aun las personales, se les harán por lista.
 
 ###### ARTICULO 76.
 
@@ -3254,3 +3260,7 @@ P.O. 19 DE JULIO DE 2008.
 P.O. 27 DE SEPTIEMBRE DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 21 DE FEBRERO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor a los 60 días después de su publicación en el Periódico Oficial "El Estado de Colima".
