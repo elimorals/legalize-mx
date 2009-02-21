@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-judicial-del-estado-de-colima-13039"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-10-08"
-last_updated: "2006-10-07"
+last_updated: "2009-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 2009.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 8 de octubre de 1988.
 
@@ -111,13 +111,19 @@ El Ejecutivo del Estado facilitará el ejercicio de las funciones a que se refie
 
 El Estado de Colima, se divide para los efectos de esta Ley, en los siguientes partidos judiciales:
 
-I.- El Primero, con residencia en la Ciudad de Colima, comprende los Municipios de Colima, Cuauhtémoc Y Coquimatlán;
+I.- El Primero, con residencia en la Ciudad de Colima, comprende los Municipios de Colima, Cuauhtémoc y Coquimatlán;
 
 II.- El Segundo, con residencia en la Ciudad de Tecomán, comprende los Municipios de Tecomán, Armería e Ixtlahuacán;
 
 III.- El Tercero, con residencia en la Ciudad de Manzanillo, comprende el Municipio de Manzanillo; y
 
 IV.- El Cuarto, con residencia en la Población de Villa de Alvarez, comprende los Municipios de Villa de Alvarez, Comala, y Minatitlán.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
+
+No será necesario librar exhortos, requisitorias o despachos para que los tribunales establecidos en el primero y cuarto partido judicial realicen emplazamientos, requerimientos, embargos, notificaciones y citaciones a terceros, ejecución de sentencias, así como cualquier diligencia encaminadas al cumplimiento de mandatos judiciales en ambos partidos judiciales. Las partes están obligadas a señalar domicilio procesal en el lugar del juicio.
 
 ## TITULO TERCERO. ORGANIZACION DE LOS TRIBUNALES
 
@@ -1005,6 +1011,10 @@ Para ser perito se requiere ser mexicano, tener buenos antecedentes de moralidad
 
 ### CAPITULO VI. BOLETIN JUDICIAL
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 89.
 
 Para la administración de los recursos humanos, materiales y de las actividades de la Administración de Justicia, el Supremo Tribunal contará con las siguientes dependencias:
@@ -1189,15 +1199,23 @@ VII.- Las demás que le prescriban las leyes, reglamentos respectivos y los acue
 
 ###### ARTICULO 109.
 
-Se publicará semestralmente un Boletín Judicial, como órgano de información del Poder Judicial del Estado, que tendrá por objeto dar a conocer:
+Se publicará un Boletín Judicial, como órgano de información del Poder Judicial del Estado, que tendrá por objeto dar a conocer:
 
-I.- Los fallos sobresalientes que sobre cualquier materia se pronuncien por los diversos tribunales del fuero común;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Las monografías sobre investigaciones jurídicas que lo ameriten a juicio del Consejo Editorial;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2009)</small>
 
-III.- Los informes de la Presidencia; y
+II (SIC).- Los fallos sobresalientes que sobre cualquier materia se pronuncien por los diversos tribunales del fuero común;
 
-IV.- Las efemérides del Poder Judicial.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2009)</small>
+
+III.- Los trabajos de investigación en materia jurídica que lo amerite, a juicio del Consejo Editorial;
+
+IV.- Los informes de la Presidencia; y
+
+V.- Las efemérides del Poder Judicial.
 
 ###### ARTICULO 110.
 
@@ -1369,6 +1387,12 @@ La protesta de los servidores públicos del Poder Judicial, se otorgará ante qu
 
 De toda protesta de los servidores públicos del Poder Judicial, se levantará acta con el número de copias necesarias, una de las cuales se remitirá a la Unidad de Apoyo Administrativo, para ser agregada a la hoja de servicios correspondientes.
 
+### CAPITULO I. DE LA INTEGRACION DE LA JURISPRUDENCIA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 138.
 
 Ningún servidor público de la Administración de Justicia, podrá tener ocupación que lo constituya en estado de dependencia moral o económica de alguna corporación o persona particular.
@@ -1390,6 +1414,12 @@ No podrá recaer ningún nombramiento de la Administración de Justicia en indiv
 Ningún servidor público de la Administración de Justicia podrá desempeñar otro puesto, ni ser Notario, Corredor, Comisionista, Apoderado Judicial, Tutor, Curador, Albacea, Depositario, Síndico, Administrador, Interventor de Concurso ni ejercer la abogacía sino en causa propia. Se exceptúa de lo dispuesto anteriormente a los Magistrados Suplentes y Supernumerarios que sólo reciben sueldo del erario durante su ejercicio.
 
 ## TITULO TERCERO. RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION DE JUSTICIA
+
+### CAPITULO II. DE LA OBLIGATORIEDAD DE LA JURISPRUDENCIA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 142.
 
@@ -1434,6 +1464,12 @@ Si el responsable de resolver una queja no lo hiciere dentro del plazo a que se 
 ###### ARTICULO 150.
 
 La declaración de responsabilidades por faltas producirá el efecto de inhibir al servidor público en el conocimiento del negocio en que se hubieren cometido. Además, se ordenará anotación en el expediente personal del servidor público y se le aplicará una sanción de tres a seis veces el salario diario que perciba.
+
+### CAPITULO III. DE LA INTERRUPCION DE LA JURISPRUDENCIA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 151.
 
@@ -1527,6 +1563,12 @@ En los casos de este y del anterior artículo, al Servidor Público que cometa p
 
 Todas las disposiciones contenidas en este Capítulo serán aplicables, sin perjuicio de lo que previene la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
+### CAPITULO IV. DE LA COMPILACION Y SISTEMATIZACION DE LA JURISPRUDENCIA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 160.
 
 Las faltas a que se refieren los Artículos 153, 154, 155 y 156 de esta Ley, serán sancionadas por los Jueces o Magistrados respectivos.
@@ -1588,6 +1630,210 @@ La clasificación de los Peritos Valuadores, la expedición de los peritajes y e
 ###### ARTICULO 172.
 
 (DEROGADO, P.O. 26 DE AGOSTO DE 1995)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE LIBRO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 2009)</small>
+
+# LIBRO TERCERO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 2009)</small>
+
+## TITULO UNICO. DISPOSICIONES GENERALES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
+
+###### ARTICULO 173.
+
+El Pleno y la Sala del Supremo Tribunal de Justicia del Estado podrán crear jurisprudencia en los términos que dispone este Libro Tercero, el cual es reglamentario de la fracción XII del artículo 74 de la Constitución Política del Estado Libre y Soberano de Colima.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
+
+###### ARTICULO 174.
+
+El pleno del Supremo Tribunal de Justicia formará jurisprudencia cuando la mayoría de los Magistrados:
+
+I.- Sustente el mismo criterio en cinco resoluciones no interrumpidas por otra en contrario, y
+
+II.- Fije el criterio que deba prevalecer o regir cuando exista contradicción entre las tesis emitidas por las salas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
+
+###### ARTICULO 175.
+
+Las Salas del Supremo Tribunal de Justicia formarán jurisprudencia cuando:
+
+I.- Sustenten el mismo criterio en cinco resoluciones no interrumpidas por otra en contrario, y
+
+II.- Existe declaración de confirmación o modificación de un criterio.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
+
+###### ARTICULO 176.
+
+Cuando las partes invoquen la existencia de una jurisprudencia deberán expresarlo por escrito, identificando claramente su fuente, rubro y tesis. En todo caso, la autoridad judicial deberá revisar la existencia de la jurisprudencia por medio del órgano de publicación oficial de la jurisprudencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 2009)</small>
+
+###### ARTICULO 177.
+
+Una vez que se cumplan los requisitos para la integración de la jurisprudencia por reiteración, el Pleno o las Salas harán la declaratoria correspondiente, aprobarán la tesis y ordenarán su publicación en el Boletín Judicial, el Periódico Oficial del Estado y, en su caso, el órgano oficial de difusión del Poder Judicial del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
+
+###### ARTICULO 178.
+
+La jurisprudencia del Pleno del Supremo Tribunal de Justicia por contradicción se conformará de acuerdo con el procedimiento siguiente:
+
+I.- La contradicción de tesis deberá denunciarse por escrito ante el Pleno del Supremo Tribunal de Justicia, señalándose las Salas que incurren en contradicción y en que consiste ésta; el nombre del denunciante y su relación con el asunto.
+
+II.- La contradicción de tesis podrá ser denunciada por las Salas que intervengan en ella o cualquiera de los magistrados que la integren; las partes del juicio donde ésta surja o sus legítimos representantes; los jueces del Estado cuando después de haber dictado la resolución en el asunto de su competencia, adviertan la contradicción; el Procurador General de Justicia del Estado, cuando considere que se afecta el interés de la sociedad; y el Director del Centro de Estudios Judiciales.
+
+III.- La denuncia de contradicción se presentará ante el Pleno, y éste, mediante oficio, mandará dar vista al Procurador de Justicia de la denuncia, para que dentro de los quince días siguientes manifieste su opinión. Transcurrido dicho plazo, con o sin opinión, el Pleno acordará la ponencia en estricto turno a uno de los Magistrados adscritos a la Sala de la materia sobre lo que verse prevalentemente la contradicción, poniendo a su disposición el expediente respectivo, La ponencia se deberá formular dentro de los sesenta días siguientes, con inclusión de los que sean inhábiles o festivos. De la misma se dará cuenta al Pleno por conducto de la Presidencia para su discusión y aprobación;
+
+IV.- El Pleno, en un plazo no mayor de cien días contados a partir de la fecha en que fuera presentada la denuncia, deberá determinar la procedencia de la contradicción y, en su caso, precisar el criterio que debe prevalecer o regir, así como aprobar la tesis de jurisprudencia para su debida publicación, según el caso. La contradicción podrá ser resuelta por unanimidad o por mayoría de votos de los magistrados y estos podrán fijar un criterio distinto a los que sean materia de la contradicción.
+
+V.- Cuando la denuncia de contradicción se refiera a criterios sustentados exclusivamente en materia civil, familiar, penal y en la votación para resolver sobre ellas exista empate, tendrá calidad el sentido en que hayan votado la mayoría de los Magistrados de la Sala.
+
+VI.- La tesis del Pleno que resuelva la contradicción tendrá el carácter de jurisprudencia y su observancia será obligatoria en los términos previstos en los artículos 180, 181 y 182 de esta Ley.
+
+VII.- La resolución que dirima la controversia no afectará por ningún motivo las situaciones jurídicas concretas definidas en juicio con anterioridad a la misma.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
+
+###### ARTICULO 179.
+
+El Pleno o las Salas enviarán copia certificada de las tesis de jurisprudencias aprobadas, a la Presidencia del Supremo Tribunal de Justicia, a la Sala o Salas que no hubiesen intervenido en su elaboración, a todos los Jueces del Poder Judicial ya las demás autoridades del Estado, para su inmediata observancia obligatoria.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 2009)</small>
+
+###### ARTICULO 180.
+
+La jurisprudencia por reiteración o por contradicción que pronuncie el Pleno del Supremo Tribunal de Justicia tendrá observancia obligatoria para las Salas, los Juzgados del Poder Judicial, el Centro Estatal de Justicia Alternativa y las autoridades del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
+
+###### ARTICULO 181.
+
+La jurisprudencia que pronuncien las Salas del Supremo Tribunal de Justicia tendrá observancia obligatoria para los Juzgados del Poder Judicial; el Centro Estatal de Justicia Alternativa y las autoridades del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
+
+###### ARTICULO 182.
+
+La observancia de la jurisprudencia será obligatoria al día siguiente de que se publique en el Boletín Judicial o en el Periódico Oficial del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 2009)</small>
+
+###### ARTICULO 183.
+
+La interrupción de la jurisprudencia tendrá como consecuencia que deje de surtir sus efectos de obligatoriedad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
+
+###### ARTICULO 184.
+
+El Pleno o las Salas estarán facultados para interrumpir su jurisprudencia solo en los casos y bajo las condiciones que establece este capítulo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
+
+###### ARTICULO 185.
+
+La jurisprudencia por reiteración o por contradicción que emane del Pleno o de las Salas, según el caso, se interrumpirá por otra en contrario, según corresponda, siempre y cuando:
+
+I.- Si se trata del Pleno, la mayoría de los Magistrados aprueben una resolución en contrario y la interrupción de la jurisprudencia; y
+
+II.- Si se trata de las Salas, los Magistrados aprueben por unanimidad una resolución en contrario y la interrupción de la jurisprudencia.
+
+En todos los casos, en la ejecutoria que se pronuncie deberán expresarse las razones en que se apoye la interrupción, las cuales se referirán a las que se tuvieron en consideración para establecer la jurisprudencia que se interrumpió.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
+
+###### ARTICULO 186.
+
+El Pleno o las Salas estarán facultados para modificar su jurisprudencia, señalando en todo caso las razones fundadas para hacerlo. Es necesario que exista pronunciamiento previo de una resolución en un caso concreto para modificar la jurisprudencia, observándose las mismas reglas establecidas en esta ley para su formación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
+
+###### ARTICULO 187.
+
+Las Salas y los Magistrados que los integren, con motivo de un caso concreto del cual conozcan, podrán pedir al Pleno que modifique la jurisprudencia que tuviese establecida. De igual manera, los Jueces y el Director del Centro Estatal de Justicia Alternativa podrán solicitar a las Salas que modifiquen la jurisprudencia que han sustentado, con motivo de un caso concreto que conozcan.
+
+El Pleno o la Sala correspondiente resolverán si modifican o no la jurisprudencia, sin que su resolución afecte las situaciones jurídicas concretas que se deriven de los juicios en los cuales se sostuvieron los criterios en que se sustentó la jurisprudencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
+
+###### ARTICULO 188.
+
+La jurisprudencia dejará de tener carácter obligatorio sin necesidad de declaratoria judicial cuando:
+
+I.- Exista jurisprudencia en contrario de la Suprema Corte de Justicia de la Nación exactamente aplicable;
+
+II.- Exista jurisprudencia de alguno de los Tribunales Colegiados del Circuito exactamente aplicable;
+
+III.- Por nueva disposición constitucional o legal aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 2009)</small>
+
+###### ARTICULO 189.
+
+La Presidencia del Supremo Tribunal de Justicia o el órgano que el Pleno determine, realizará la compilación, sistematización y publicación de la jurisprudencia y tesis relevantes que dicten los órganos competentes del Poder Judicial del Estado, a fin de garantizar su adecuada difusión.
+
+El Pleno del Supremo Tribunal de Justicia emitirá los acuerdos generales bajo las (sic) cuales se formularán, depurarán y glosarán las jurisprudencias o las tesis aisladas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
+
+###### ARTICULO 190.
+
+El Pleno y las Salas deberán remitir mensualmente a la Presidencia del Supremo Tribunal de justicia o el órgano que el Pleno determine, las tesis que contengan jurisprudencia, mencionando esta circunstancia; o criterios que estimen relevante y se hayan sustentado en las resoluciones dictadas en los procesos concretos que conocieren.
+
+La Presidencia del Supremo Tribunal de Justicia o el órgano que el Pleno determine, depurará y compilará las tesis, los criterios o acuerdos relevantes para ser publicados.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
+
+###### ARTICULO 191.
+
+La Presidencia del Tribunal publicará mensualmente en el Boletín de Judicial del Estado y en su caso, en el órgano oficial de difusión del Poder Judicial, las tesis de jurisprudencia por reiteración, contradicción o declaración y los criterios relevantes emitidos por el Pleno y las Salas.
 
 TRANSITORIOS:
 
@@ -1666,3 +1912,21 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 P.O. 7 DE OCTUBRE DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 21 DE FEBRERO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 60 días después de su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+Para los efectos de formar jurisprudencia se tomarán en cuenta aquellos criterios que se sustenten en las resoluciones que se dicten a partir del inicio de vigencia de estas reformas, en relación a criterios aplicables sostenidos en resoluciones pronunciadas dentro de los cinco últimos años, anteriores al año del inicio de vigencia de estas reformas.
+
+###### ARTÍCULO TERCERO.
+
+Para los efectos de formar jurisprudencia obligatoria, las denuncias de contradicción de criterios sólo podrán versar sobre las contradicciones que surjan por resoluciones que se pronuncien a partir de que inicien su vigencia estas reformas.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan a las presentes reformas, modificaciones y adiciones.
