@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-el-sistema-integral-de-justicia-para-51739"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-09"
-last_updated: "2007-09-08"
+last_updated: "2009-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51739&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE ESTABLECE EL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COLlMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 2009.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 9 de septiembre de 2006.
 
@@ -445,7 +445,11 @@ Solo cuando lo solicite el menor o su defensor podrán celebrarse careos constit
 
 Cuando se trate de delitos graves, el Juez ordenará la apertura del procedimiento sumario en el mismo auto de sujeción a proceso.
 
-En el procedimiento sumario las pruebas ofrecidas por las partes, así como las ordenadas de oficio por el juzgador, deben ofrecerse y desahogarse en el término perentorio de treinta días quien, al declarar agotada la instrucción, otorgará un plazo de tres días para ofrecer pruebas adicionales que puedan desahogarse en los diez días siguientes. El ofendido solo puede exhibir las pruebas con que cuenta. Concluido el plazo o desahogadas las pruebas el Juez, de oficio, declarará cerrada la instrucción y citará a las partes a una audiencia que habrá de realizarse en un término no menor a diez ni mayor de veinte días, a la que podrán asistir el menor, su representante y el ofendido.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2009)</small>
+
+En el procedimiento sumario las partes deben ofrecer pruebas dentro de término de diez días. Estas pruebas y las que ordene de oficio el juzgador deberán desahogarse dentro del término perentorio de 20 días. El ofendido sólo puede exhibir las pruebas con que cuenta. Concluido el plazo o desahogadas las pruebas el Juez, de oficio, declarará cerrada la instrucción y citará a las partes a una audiencia que habrá de realizarse en un término no menor a diez ni mayor de veinte días, a la que podrán asistir el menor, su representante y el ofendido.
 
 En la audiencia de vista el Ministerio Público y la defensa presentarán sus conclusiones, pudiendo ser oído el menor o su representante, si lo solicitan, debiendo dictarse la resolución que corresponda dentro de los cinco días siguientes.
 
@@ -549,21 +553,31 @@ Al admitir la apelación, el Juez deberá señalar sus efectos y remitir, en el 
 
 Contra el auto que admita la apelación no procede recurso alguno. El que la declare improcedente la remitirá de oficio al Supremo Tribunal de Justicia, con las constancias necesarias, para que resuelva sobre la admisión y sus efectos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 64.
 
-En cualquier caso, recibido el expediente, la Secretaría General de Acuerdos del Supremo Tribunal de Justicia dictará auto de radicación en el que se ratificará la admisión y los efectos de la apelación o se admitirá cuando, siendo procedente, se haya negado, fijando igualmente sus efectos.
+En cualquier caso, recibido el expediente, la Sala Especializada dictará auto de radicación, en el cual se ratificará o no la admisión y los efectos de la apelación o se admitirá cuando, siendo procedente, se haya negado, fijando igualmente sus efectos.
 
 Si se declara mal admitida o se ratifica el auto que declara improcedente la apelación, se devolverán los autos al inferior. Si se revoca o modifica la calificación de sus efectos o se admite, cuando se haya negado en la primera instancia, se notificará de inmediato al Juez de la causa para que remita las constancias necesarias.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 65.
 
-Admitido el recurso en el caso de sentencias definitivas, la Sala Especializada otorgará al recurrente, cuando se trate del menor o de su defensor, un término de tres días para ofrecer pruebas que puedan desahogarse en un período de diez días, pudiendo rechazar las que resulten inconducentes o excesivas en número, procurando facilitar el derecho de defensa en esta fase.
+El apelante deberá expresar los agravios que le cause la resolución apelada, dentro de los diez días siguientes de notificada la radicación. A su escrito acompañará copias simples para que se corra traslado personalmente a las demás partes, por el plazo de cinco días, a fin de que produzcan su contestación.
 
-El apelante deberá expresar los agravios que le cause la resolución apelada, dentro de los diez días siguientes de notificada la radicación, en la apelación de autos, o de concluido el término probatorio, en el caso de sentencias. A su escrito acompañará copias simples para que se corra traslado personalmente a las demás partes, por el plazo de cinco días, a fin de que produzcan su contestación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 66.
 
-Cuando el recurrente sea el Ministerio Público, no podrá ofrecer pruebas y si no presenta sus agravios dentro del término antes señalado, se declarará desierto el recurso y firme la resolución impugnada. En este caso, se devolverán enseguida las actuaciones al Juzgador de primera instancia, a no ser que exista apelación del inculpado o su defensor.
+Cuando el recurrente sea el Ministerio Público y no presente sus agravios dentro del término antes señalado, se declarará desierto el recurso y firme la resolución impugnada. En este caso, se devolverán enseguida las actuaciones al Juzgador de primera instancia, a no ser que exista apelación del inculpado o su defensor.
 
 ###### Artículo 67.
 
@@ -611,11 +625,19 @@ X. En casos análogos, a juicio de la Sala competente, cuando afecten el princip
 
 La reposición del procedimiento obliga al Juez de la primera instancia a repetir la diligencia nula, a realizar la prueba o el acto omitido, dejando sin efecto todo lo actuado con posterioridad, excepto las pruebas que no sean consecuencia del acto u omisión impugnados.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 73.
 
-El procedimiento para menores, a partir del auto de sujeción a proceso, incluyendo la segunda instancia, no puede prolongarse por más de seis meses, excepto en los casos en que se haya suspendido por causa legal, que el menor solicite su ampliación para mejorar su defensa o cualquier dilación procesal no imputable al juzgador.
+El procedimiento para menores no podrá exceder de cuatro meses en la primera instancia, contados a partir del auto de sujeción a proceso y de tres meses en la segunda, contados a partir del auto de radicación, excepto en los (sic) causas siguientes:
 
-Cuando se cumpla el término para juzgar y el menor se encuentre recluido, el Juez o la sala correspondiente ordenará, a solicitud de parte, que se le otorgue la libertad bajo protesta, cualquiera que sea el delito cometido, sin perjuicio de continuar el procedimiento y resolver con la premura que resulte posible, además de exigir la responsabilidad que resulte al juzgador.
+I. Que el procedimiento se haya suspendido por causa legal,
+
+II. Que el menor solicite su ampliación para mejorar su defensa, o
+
+III. Exista cualquier dilación procesal que no sea no imputable al juzgador.
 
 ## TÍTULO CUARTO. DE LOS INCIDENTES EN EL PROCEDIMIENTO PARA MENORES
 
@@ -1050,3 +1072,9 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. 
 P.O. 8 DE SEPTIEMBRE DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor a (sic) día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 21 DE FEBRERO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor a los 60 días después de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Los procedimientos iniciados con anterioridad a la entrada en vigor del presente decreto, serán concluidos conforme a las disposiciones vigentes con anterioridad a éste.
