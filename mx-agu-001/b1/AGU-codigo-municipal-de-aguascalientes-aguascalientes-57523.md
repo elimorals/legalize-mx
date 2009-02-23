@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2009-01-12"
+last_updated: "2009-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: P.O. 23 DE FEBRERO DE 2009.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1231,7 +1231,9 @@ Departamento de Reingeniería.
 
 Departamento de Auditoría Administrativa y Operativa.
 
-XIII.- SECRETARÍA DE DESARROLLO HUMANO
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
+
+XIII.- SECRETARÍA DE DESARROLLO SOCIAL
 
 Coordinación Administrativa:
 
@@ -1239,11 +1241,13 @@ Departamento de Seguimiento y Control de Gestión.
 
 Departamento de Recursos Humanos y Control Presupuestal.
 
-Dirección de Educación y Cultura: Departamento de Cultura.
+Dirección de Educación.
 
 Departamento de Educación.
 
-Dirección de Servicio Deportivo Municipal: Departamento de Cultura Física y Deporte.
+Dirección de Servicio Deportivo Municipal:
+
+Departamento de Cultura Física y Deporte.
 
 Departamento de Gestión y Apoyos Deportivos.
 
@@ -1259,23 +1263,9 @@ Departamento de Programas Federales y Municipales.
 
 Departamento de Programas Especiales.
 
-Dirección de Desarrollo Económico y Turismo:
+Dirección de Desarrollo Económico:
 
 Departamento de Bolsa de Trabajo y Capacitación.
-
-Departamento de Proyectos Productivos.
-
-Departamento de Turismo.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE MARZO DE 2008)</small>
-
-Dirección de Desarrollo Económico.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE MARZO DE 2008)</small>
-
-Departamento de Bolsa de Trabajo y Capacitación.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE MARZO DE 2008)</small>
 
 Departamento de Proyectos Productivos.
 
@@ -1907,11 +1897,13 @@ VI. Diseñar y aplicar procedimientos técnicos administrativos en la realizaci�
 
 VII. Participar en el Consejo de Desarrollo Municipal como Secretario Técnico.
 
-VIII. Coordinar la prestación de los servicios de educación, cultura, deporte y recreación que la Presidencia Municipal proporciona a la ciudadanía.
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
+
+VIII. Coordinar la prestación de los servicios de educación, deporte y recreación que la Presidencia Municipal proporciona a la ciudadanía.
 
 IX. Fortalecer los valores cívicos y humanos a través de programas en los niveles de educación básica y media dentro del Municipio, así como realizar actividades en apoyo a niños y jóvenes dentro de la red de bibliotecas públicas municipales.
 
-X. Promover la cultura popular y artística de la población a través de la realización de presentaciones y la organización de eventos en colonias y en los principales puntos de reunión en el Municipio.
+X. (DEROGADA, P.O. 23 DE FEBRERO DE 2009)
 
 XI. Organizar, difundir y realizar anualmente los festejos relativos al Aniversario de la Fundación de la Ciudad.
 
@@ -18850,3 +18842,13 @@ SEGUNDO.- Todos los permisos para prestar el servicio de estacionamiento otorgad
 TERCERO.- Todos los permisionarios o concesionarios que soliciten por primera vez o renueven su permiso para el año de 2009, deberán cumplir con todas las disposiciones del presente Reglamento a más tardar el día 31 de marzo del año 2009.
 
 CUARTO.- Se derogan los articulas 807, 808, 809, 811, 812, 813, 819, 820, 821, 822, 824, 825, 1401, 1402., 1403, 1404 del Código Municipal de Aguascalientes.
+
+P.O. 23 DE FEBRERO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente decreto, el personal y los recursos materiales y financieros del Departamento de Cultura, dependiente de la Secretaria de Desarrollo Social, pasarán a formar parte del Instituto Municipal Aguascalentense para la Cultura.
