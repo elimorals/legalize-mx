@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidades-de-los-servidores-publicos-del-22753"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-12"
-last_updated: "2008-07-14"
+last_updated: "2009-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2001.
 
@@ -71,7 +71,9 @@ I.- El servidor público tendrá como atributo primordial el de la honestidad;
 
 II.- La integridad de los servidores públicos, debe reflejarse en sus actos públicos, que serán susceptibles de cada prueba y sometidos a juicio permanente de la ciudadanía a la que se deben;
 
-III.- Los servidores públicos en el ejercicio de sus labores se abstendrán de afectar o lesionar la dignidad de sus superiores jerárquicos así como la de sus subordinados o a la de la sociedad en general;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
+
+III.- Los servidores públicos en el ejercicio de sus labores se abstendrán de afectar o lesionar la dignidad de sus superiores jerárquicos, así como la de sus subordinados o a la de la sociedad en general y deberán evitar cualquier acto discriminatorio;
 
 IV.- La verdad, sinceridad y franqueza deberán ser actitudes distintivas de los servidores públicos en todos sus actos y expresiones que realicen en el ejercicio de sus funciones;
 
@@ -563,9 +565,15 @@ XXVIII.- Proporcionar, en su caso, en tiempo y forma ante las dependencias compe
 
 XXIX.- Proporcionar el apoyo, asistencia y atención que requiera el órgano de control interno de la dependencia, organismo auxiliar, fideicomiso o municipio, a efecto de que pueda cumplir con las atribuciones que le señalen las leyes, reglamentos y demás disposiciones aplicables;
 
-XXX.- Abstenerse de tramitar o intervenir como abogado, representante, apoderado o en cualquier otra forma semejante, en la atención de asuntos de los que haya tenido conocimiento, tramitado o que se encuentren en el área en la cual se desempeñó como servidor público. Esta prevención es aplicable hasta un año después de que el servidor público se haya retirado del empleo, cargo o comisión; y
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
 
-XXXI.- Las demás que les impongan las leyes y disposiciones reglamentarias o administrativas.
+XXX.- Abstenerse de tramitar o intervenir como abogado, representante, apoderado o en cualquier otra forma semejante, en la atención de asuntos de los que haya tenido conocimiento, tramitado o que se encuentren en el área en la cual se desempeñó como servidor público. Esta prevención es aplicable hasta un año después de que el servidor público se haya retirado del empleo, cargo o comisión;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2009)</small>
+
+XXXI.- Abstenerse de realizar cualquier acto que implique distinción, exclusión o restricción que, basada en el origen étnico o nacionalidad, género, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas; y
+
+XXXII.- Las demás que les impongan las leyes y disposiciones reglamentarias o administrativas.
 
 ###### ARTICULO 71.
 
@@ -1102,3 +1110,9 @@ P.O. 14 DE JULIO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE FEBRERO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
