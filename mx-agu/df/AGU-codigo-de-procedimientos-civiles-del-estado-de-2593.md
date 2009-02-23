@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "2008-07-28"
+last_updated: "2009-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2009.
 
 Código publicado en el Suplemento al Número. 29 del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
@@ -3243,7 +3243,9 @@ VI.- El acreedor podrá cesar en la administración de la finca, cuando lo crea 
 
 En el remate de bienes muebles se observarán las disposiciones siguientes:
 
-I.- El avalúo se practicará por un perito nombrado por el juez;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
+
+I.- El avalúo se practicará por un perito nombrado por el juez, sin perjuicio de que cada parte pueda designar también un perito que corra a su costa, para que se asocie al nombrado por el juez o rinda dictamen por separado. Invariablemente, el avalúo se tendrá por desahogado con la presentación del dictamen emitido por el perito nombrado por el juez;
 
 II.- Se anunciará su venta por medio de edictos que se publicarán fijándose diariamente, y durante tres días consecutivos, en los estrados del juzgado, a menos que cualquiera de las partes pida que a su costa se haga también la publicación por algún otro medio;
 
@@ -5782,6 +5784,12 @@ La Dirección General de Servicios Periciales de la Procuraduría General de Jus
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 P.O. 28 DE JULIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE FEBRERO DE 2009.
 
 ###### ARTÍCULO ÚNICO.
 
