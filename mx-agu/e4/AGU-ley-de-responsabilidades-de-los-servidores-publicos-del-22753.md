@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidades-de-los-servidores-publicos-del-22753"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-12"
-last_updated: "2008-07-14"
+last_updated: "2009-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,27 +21,99 @@ state: "AGU"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
+LEY DE EJECUCION DE SANCIONES PARA EL ESTADO DE VERACRUZ- LLAVE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2008.
+TEXTO ORIGINAL.
 
-Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2001.
+Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 1 de febrero de 1992.
 
-FELIPE GONZALEZ GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
+Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz-Llave.
 
-Que por el H. Congreso del Estado, se me ha comunicado lo siguiente:
+DANTE DELGADO, Gobernador del Estado Libre y Soberano de Veracruz- Llave, a sus habitantes sabed:
 
-El H. Congreso del Estado en sesión extraordinaria celebrada hoy, tuvo a bien expedir el siguiente Decreto:
+Que la H. Legislatura del Estado se ha servido expedir la siguiente:
 
-"NUMERO 199
+LEY
 
-La H. LVII Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le conceden los Artículos 27, fracción I, 32 y 35 de la Constitución Política Local, en nombre del pueblo decreta:
+Al margen un sello con el Escudo Nacional que dice: "Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz- Llave.
 
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
+La Honorable Quincuagésima Quinta Legislatura del Estado Libre y Soberano de Veracruz- Llave, en uso de la facultad que le conceden los artículos 68 fracción I y 71 fracción I, ambos de la Constitución Política del Estado; 47, 49 y 50 de la Ley Orgánica del Poder Legislativo del Estado de Veracruz y 57, 58, 59, 60, 61 y 64 del Reglamento Interior del Poder Legislativo y en nombre del pueblo, expide la siguiente:
 
-## TITULO PRIMERO
+LEY N° 350
 
-### CAPITULO PRIMERO. Disposiciones Generales
+DE EJECUCION DE SANCIONES PARA EL ESTADO DE VERACRUZ- LLAVE
+
+## TITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
+
+###### ARTICULO 1°.
+
+Esta Ley tiene por objeto la prevención de las conductas ilícitas y la ejecución de las sanciones correspondientes a los delitos establecidos por el Código Penal del Estado y otros ordenamientos, para alcanzar la readaptación social de los sentenciados, así como evitar la desadaptación social de los procesados.
+
+###### ARTICULO 2°.
+
+La aplicación de esta Ley, le corresponde al Ejecutivo del Estado, a través de la Dirección General de Prevención y Readaptación Social.
+
+Es facultad exclusiva del Gobernador:
+
+I.- Celebrar con la Federación, Entidades Federativas, Municipios y las Instituciones Públicas y Privadas, convenios para la prevención de la delincuencia y la readaptación social en el Estado.
+
+II.- Celebrar con la Federación y las Entidades Federativas, convenios a fin de que los reos sentenciados extingan sus condenas en establecimientos dependientes del Ejecutivo Federal o Estatal.
+
+###### ARTICULO 3°.
+
+Los cuerpos de Seguridad Pública del Estado, están obligados a brindar el auxilio y apoyo necesario a la Dirección General de Prevención y Readaptación Social, para el cumplimiento de sus determinaciones, en materia de ejecución de las sanciones privativas de la libertad.
+
+### Capítulo I. De la Dirección General de Prevención y Readaptación Social
+
+###### ARTICULO 4°.
+
+La Dirección General de Prevención y Readaptación Social, será el órgano responsable de la aplicación de esta Ley y disposiciones que de ella emanen, tendrá bajo su mando a los Centros de Readaptación Social y estará a cargo de un Director General, quien deberá estar titulado en la Ciencia del Derecho, con experiencia profesional de cuando menos cinco años y no tener antecedentes penales.
+
+Así mismo, la Dirección contará con el personal técnico, administrativo y de supervisión y custodia que determine el presupuesto.
+
+###### ARTICULO 5°.
+
+La Dirección General de Prevención y Readaptación Social, tendrá las atribuciones siguientes:
+
+I.- Elaborar y ejecutar los planes y programas relacionados con el Sistema de Prevención y Readaptación Social del Estado.
+
+II.- Proponer al Ejecutivo las medidas convenientes para la prevención y la disminución de la delincuencia.
+
+III.- Coadyuvar con los demás órganos de la Administración Pública Estatal en la ejecución de la política criminológica que implemente el Ejecutivo.
+
+IV.- Realizar investigaciones criminológicas para implementar la política que en la materia dicte el Gobernador.
+
+V.- Auxiliar a las víctimas de los delitos.
+
+VI.- Cuidar de la operación y administración de los Centros de Readaptación Social existentes en el Estado y previo acuerdo del Secretario General de Gobierno, designar sus Directores.
+
+VII.- Proponer al Secretario General de Gobierno, los criterios generales, los reglamentos internos y las normas administrativas y técnicas de los Centros de Readaptación, para aplicar los tratamientos con base al respeto a la dignidad humana, la capacitación para el trabajo, la educación, la convivencia familiar y las medidas de readaptación social necesarias.
+
+VIII.- Ordenar y supervisar que en los Centros de Readaptación Social, se imparta a los internos educación especial, con la orientación de las autoridades del ramo.
+
+IX.- Establecer y administrar en los Centros, unidades industriales, artesanales o de trabajo, destinadas a la capacitación de los internos, así como para proporcionarles estímulos e ingresos que mejoren su economía familiar y en su caso, les permita reparar el daño causado.
+
+X.- Aprobar y vigilar el funcionamiento de los sistemas de supervisión y custodia de los Centros.
+
+XI.- Implementar medidas para mejorar el funcionamiento administrativo y técnico de los Centros, así como atender las necesidades de los internos y las sugerencias o quejas de sus familiares o defensores.
+
+XII.- Dictar medidas de selección, capacitación y promoción del personal dependiente de la Dirección.
+
+XIII.- Llevar estadísticas para determinar los factores criminógenos, con fines de prevención social en el Estado.
+
+XIV.- Proponer los convenios que deba celebrar el Ejecutivo, cuidando de su cumplimiento.
+
+XV.- Otorgar los beneficios de Libertad Condicional, Remisión Parcial de la Pena y Preliberación y autorizar el traslado de los internos que estén a disposición del Ejecutivo.
+
+XVI.- Vigilar, controlar y administrar los Consejos Tutelares y los Centros de Observación y de Adaptación Social de los menores infractores en el Estado.
+
+XVII.- Cuidar que en los Centros de Readaptación Social del Estado, se respeten los derechos de los internos.
+
+XVIII.- Coordinarse con las dependencias o instituciones públicas o privadas, para mejorar la prestación de los servicios de la Dirección.
+
+XIX.- Llevar el Casillero Judicial del Estado, proporcionar a las autoridades que lo soliciten los antecedentes penales y facilitar igualmente la identificación judicial de los mismos.
+
+XX.- Las demás que le atribuyan otras Leyes y Reglamentos o que le confiera el Ejecutivo o el Secretario General de Gobierno.
 
 ###### ARTICULO 1o.
 
@@ -129,545 +201,519 @@ Son delitos graves del orden común los así considerados por la Legislación Pe
 
 ###### ARTICULO 10.
 
-Los procedimientos para la aplicación de las sanciones a que se refiere esta Ley y las responsabilidades penales o de carácter civil que dispongan otros ordenamientos, se desarrollan autónomamente según su naturaleza y por la vía procesal que corresponda, debiendo las autoridades que por sus funciones conozcan o reciban denuncias, turnar éstas a quien deba conocer de ellas; no podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
+Las medidas para la Prevención Social comprenderán:
 
-## TITULO SEGUNDO. PROCEDIMIENTOS ANTE EL CONGRESO DEL ESTADO EN MATERIA DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA
+I.- Planear, programar, supervisar, evaluar y difundir la ejecución de las políticas que en materia de Prevención del Delito y respeto absoluto a los Derechos Humanos, dicte el Ejecutivo del Estado.
 
-### CAPITULO I. Sujetos, Causas y Sanciones del Juicio Político
+II.- Proponer la formación de Comisiones Intersecretariales que coadyuven al logro de los objetivos de la Prevención del Delito.
+
+III.- Establecer mecanismos de coordinación con diferentes instituciones oficiales y privadas involucradas en la comisión de posibles hechos delictuosos.
+
+IV.- Organizar y celebrar eventos nacionales e internacionales relacionados con las causas y prevención del delito.
+
+V.- Difundir las causas que influyen en la comisión de los delitos, así como, proponer y aplicar sus recomendaciones al respecto.
+
+VI.- Fomentar la salud mental y física en la educación de la niñez y de la juventud veracruzana.
+
+VII.- Investigar y estudiar las causas que influyen en la ejecución de un hecho delictuoso en el ámbito estatal.
+
+VIII.- Coordinar, promover y apoyar el desarrollo de la investigación de las distintas disciplinas que intentan explicar el fenómeno delictivo.
+
+IX.- Organizar la capacitación criminológica.
+
+X.- Apoyar la tramitación de los beneficios en favor de los sentenciados y asesorar jurídicamente a los dependientes de los sujetos del delito.
+
+## TITULO SEGUNDO. DE LOS ORGANOS ENCARGADOS DE LA PREVENCION Y READAPTACION SOCIAL
+
+### Capítulo II. Del Consejo Técnico Interdisciplinario
+
+###### ARTICULO 6°.
+
+La Dirección General de Prevención y Readaptación Social, contará con un Consejo Técnico Interdisciplinario, con funciones consultivas, para la prevención de las conductas ilícitas, la aplicación individual del sistema de tratamiento, la ejecución de medidas preliberacionales y la concesión de los beneficios de libertad previstos en esta Ley.
+
+###### ARTICULO 7°.
+
+El Consejo Técnico se integrará con los especialistas en Criminología, Psiquiatría, Derecho, Trabajo Social, Psicología, Pedagogía, Sociología y Supervisión y Custodia, que sean designados por el Director General, quien además podrá invitar a las sesiones del Consejo Técnico, como observadores, a representantes de las instituciones.
+
+###### ARTICULO 8°.
+
+El Consejo será presidido por el Director General de Prevención y Readaptación Social, celebrará sesiones ordinarias, con la asistencia de la mayoría de sus integrantes, cada quince días y extraordinarias, cuando sea convocado por el Director. Tomará sus decisiones con el voto de la mayoría de los asistentes, teniendo el Director General, voto de calidad en caso de empate.
 
 ###### ARTICULO 11.
 
-Podrán ser sujetos de Juicio Político: el Titular del Poder Ejecutivo del Estado; los Diputados de la Legislatura Local; los Magistrados del Poder Judicial del Estado; los Secretarios de Despacho del Poder Ejecutivo; el Procurador General de Justicia; los Regidores y los Síndicos de los Ayuntamientos.
+Los Centros de Readaptación Social dependerán de la Dirección General de Prevención y Readaptación Social, se destinarán al internamiento de los indiciados o procesados y a la ejecución de las sanciones privativas de libertad impuestas por los tribunales y serán: Regionales y de Sentenciados.
 
 ###### ARTICULO 12.
 
-Es procedente el Juicio Político, cuando los actos u omisiones de los servidores públicos a que se refiere el artículo anterior, redunden en perjuicio de los intereses públicos fundamentales del Estado o de su buen despacho.
+Los Centros de Readaptación Social Regionales, estarán situados en las cabeceras de los distritos judiciales y se destinarán al internamiento de indiciados, procesados y sentenciados a sanción de prisión que no exceda de tres años.
 
 ###### ARTICULO 13.
 
-Redundan en perjuicio de los intereses públicos fundamentales y de su buen despacho:
+Los Centros de Readaptación Social para Sentenciados, se ubicarán donde el Ejecutivo del Estado considere idóneo, dentro del territorio de la Entidad y se destinarán a la ejecución de las sanciones privativas de libertad mayores de tres años.
 
-I.- El ataque que perturbe la vida jurídica y el buen funcionamiento de las instituciones democráticas establecidas y reguladas por la Constitución Política de los Estados Unidos Mexicanos y por la Constitución Política del Estado de Aguascalientes;
-
-II.- Los actos u omisiones encaminados a alterar la forma de gobierno republicano, representativo y popular establecida por la Constitución Política de los Estados Unidos Mexicanos y por la Constitución Política del Estado de Aguascalientes;
-
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2008)</small>
-
-III.- Las violaciones a las garantías individuales o sociales;
-
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2008)</small>
-
-IV.- Los actos u omisiones que contravengan la Constitución local o las leyes que de ella emanen o los reglamentos, cuando causen daños patrimoniales graves al Estado, al municipio o a la sociedad, o motiven algún trastorno grave en el funcionamiento normal de sus instituciones;
-
-> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2008)</small>
-
-V.- Los actos que contravengan la Constitución Política de los Estados Unidos Mexicanos, la Constitución local y las leyes que de ellas emanen, cuando apliquen recursos públicos que estén bajo su responsabilidad para influir en la competencia entre los partidos políticos; y
-
-> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2008)</small>
-
-VI.- Los actos que contravengan la Constitución Política de los Estados Unidos Mexicanos, la Constitución local y las leyes que de ellas emanen cuando difundan bajo cualquier modalidad de comunicación social, en radio, televisión, prensa o internet, su nombre, imagen, voz o símbolos que impliquen promoción personalizada con cualquier fin.
-
-El ataque, la violación, el daño o trastorno al que se refieren las fracciones anteriores, debe ser cierto y existir prueba de haberse producido como consecuencia directa e inmediata del acto u omisión del servidor público.
-
-No procederá en ningún caso el Juicio Político, por ataques, violaciones, daños o trastornos futuros o inciertos, ni cuando se actúe en cumplimiento de ejecución de las leyes.
-
-Para determinar la gravedad de la violación, el daño o el trastorno, se deberá considerar la intencionalidad, la perturbación del servicio, el posible atentado a la dignidad del servicio, la reiteración o la reincidencia.
-
-En todos los casos, para establecer los criterios que determinen la gravedad de la responsabilidad del servidor público se considerarán los dictámenes o resoluciones precedentes emitidos en casos similares por la Comisión respectiva o el Pleno del Congreso, en su caso.
+Así mismo albergarán a los sentenciados a menos de tres años de prisión, cuya estancia en los Centros Regionales resulte peligrosa, a juicio de la Dirección General de Prevención y Readaptación Social, o para evitar la sobrepoblación en los Centros que carezcan de capacidad instalada suficiente para albergarlos.
 
 ###### ARTICULO 14.
 
-El Titular del Poder Ejecutivo del Estado, los Diputados Locales, los Magistrados del Poder Judicial y, en su caso, los miembros del Consejo de la Judicatura local, sólo podrán ser sujetos de juicio político en los términos del Titulo Cuarto de la Constitución Política de los Estados Unidos Mexicanos por violaciones graves a la misma y a las leyes federales que de ella emanen, así como por el manejo indebido de fondos y recursos federales, pero en este caso la resolución del Congreso de la Unión será únicamente declarativa y se comunicará al Congreso del Estado para que, en ejercicio de sus atribuciones proceda en términos de lo previsto en la presente Ley.
+Las mujeres serán internadas en secciones especiales de los Centros, pero siempre separadas de los hombres.
+
+Las mujeres con hijos, podrán tenerlos consigo hasta que éstos cumplan la edad determinada en los reglamentos, a cuyo término, si no se ha procedido legalmente a su guarda y custodia, serán enviados a Instituciones Asistenciales
 
 ###### ARTICULO 15.
 
-No procede el Juicio Político por la mera expresión de ideas.
+Los Centros de Readaptación Social, estarán a cargo de un Director, que será designado por el Director General, previo acuerdo del Secretario General de Gobierno y contarán con el personal directivo, técnico, administrativo y de supervisión y custodia necesario para su funcionamiento, en base al presupuesto del que dispongan.
 
 ###### ARTICULO 16.
 
-Si la resolución que se dicte en el Juicio Político es condenatoria, se sancionará al servidor público con destitución, si se encuentra en activo, e inhabilitación desde uno hasta quince años para desempeñar empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
+Los Directores serán responsables del funcionamiento de los Centros, cuidarán de la aplicación del Reglamento y adoptarán las medidas necesarias para el cumplimento de esta Ley.
 
-### CAPITULO II. Procedimiento en el Juicio Político
+### Capítulo I. Clasificación
 
 ###### ARTICULO 17.
 
-El Juicio Político sólo podrá iniciarse durante el tiempo en que el servidor público desempeñe su empleo, cargo o comisión, y dentro de un año después de la conclusión de sus funciones. Las sanciones respectivas se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
+La supervisión y custodia de las secciones destinadas a mujeres, estará a cargo de personal femenino.
 
 ###### ARTICULO 18.
 
-Cualquier ciudadano bajo su más estricta responsabilidad y presentando los elementos de prueba correspondientes, podrá formular por escrito denuncia, ante el Congreso del Estado por las conductas a que se refiere el artículo 12 de la presente Ley.
+Los Directores de los Centros, residirán en la población donde se encuentre ubicado el Centro a que estén adscritos, en caso de ausencia, serán sustituidos según determinen los reglamentos respectivos.
 
 ###### ARTICULO 19.
 
-Corresponde al Pleno del Poder Legislativo instruir el procedimiento relativo al Juicio Político y erigido en Gran Jurado declarará sobre la culpabilidad o inculpabilidad del denunciado. El Supremo Tribunal de Justicia en éste caso, impondrá la sanción.
+En cada Centro de Readaptación Social, funcionará un Consejo Técnico Interdisciplinario, integrado por los profesionistas que indique el Reglamento respectivo y tendrá, en el establecimiento, las funciones que a nivel estatal le corresponden al Consejo de la Dirección General.
 
 ###### ARTICULO 20.
 
-Se dará inicio al procedimiento previa denuncia presentada por escrito, que deberá reunir los siguientes requisitos:
-
-I.- Nombre y domicilio del denunciante;
-
-II.- Nombre del servidor público denunciado e indicación del cargo que desempeña o desempeñó;
-
-II (sic).- Relación sucinta de los hechos;
-
-III.- Acompañar los elementos de prueba en que se apoya la denuncia;
-
-IV.- Firma del denunciante; y
-
-V.- Fecha de presentación.
+Para la designación del personal directivo, administrativo, técnico y de supervisión y custodia de los centros, se considerará la vocación, aptitudes, preparación académica y antecedentes profesionales de los candidatos. El personal, queda sujeto a la obligación de asistir a los cursos de formación y actualización que se impartan.
 
 ###### ARTICULO 21.
 
-La denuncia debe ser presentada ante el Secretario General del Poder Legislativo y ratificada en un plazo no mayor de tres días hábiles a su presentación.
-
-Cuando la denuncia adolezca de alguno de los requisitos establecidos en las fracciones I, II, III y VI del artículo que antecede, sea obscura o confusa, se prevendrá al denunciante para que en un plazo de cinco días hábiles aporte los requisitos omitidos o aclare los hechos denunciados.
-
-Si en el plazo otorgado el denunciante no cumple con las prevenciones que se le formulen se tendrá por no presentada la denuncia.
-
-A falta del requisito establecido en la fracción V del artículo 20 de esta Ley, se desechará de plano la denuncia.
-
-En caso de que se hubiera omitido acompañar a la denuncia las pruebas en que se apoya, se requerirá al denunciante para que dentro del término de cinco días hábiles las exhiba, apercibido, que de no hacerlo se tendrán por no ofrecidas.
-
-Cuando la denuncia no sea ratificada dentro del plazo previsto, se tendrá como no interpuesta.
-
-Una vez ratificada la denuncia, no procede el desistimiento.
+El régimen de readaptación se basará en la individualización del tratamiento, la educación, el trabajo y la capacitación para el mismo.
 
 ###### ARTICULO 22.
 
-Una vez formado el expediente, el Secretario General del Poder Legislativo lo remitirá inmediatamente al Presidente del Congreso o al Presidente de la Diputación Permanente, quien lo turnará sin demora alguna a la Comisión de Justicia para que emita un dictamen, el cual deberá incluir, en caso de existir, los votos particulares de los disidentes. Formulado que fuere, la Comisión de Justicia enviará el dictamen en un plazo de veinte días hábiles al Congreso para que éste, en Pleno, lo discuta.
-
-En caso de que la Comisión de Justicia emita dictamen negativo, declarará la improcedencia del Juicio Político y mandará archivar el expediente como asunto concluido.
-
-En todo momento, la Comisión de Justicia tendrá la facultad de solicitar los informes que juzgue oportunos a toda clase de autoridades, así como copias certificadas de los documentos que obren en oficinas y archivos públicos, pudiendo además apersonarse en dichas oficinas, de manera colegiada o individual, para examinar expedientes, libros o constancias de cualquier especie, para la comprobación de la conducta o hecho materia de la denuncia; estableciendo las características o circunstancias del caso, precisando la intervención que haya tenido el servidor público denunciado.
+En el tratamiento de los internos estará prohibido el uso de violencia, tortura o maltrato corporal, que menoscabe su dignidad, así como, exigir gabela o contribución alguna.
 
 ###### ARTICULO 23.
 
-Una vez discutido el dictamen en el Pleno del Congreso, éste podrá declarar:
-
-I.- La improcedencia del Juicio Político, en cuyo caso mandará archivar en forma definitiva; o
-
-II.- La procedencia del Juicio Político, en cuyo caso nombrará la Comisión Instructora que estará integrada en términos de lo dispuesto en la Ley Orgánica del Poder Legislativo.
+La finalidad de la educación, el trabajo y la capacitación para el mismo, será la de modificar las tendencias e inclinaciones antisociales de los internos, así como facilitar la adquisición de conocimientos que puedan serles útiles en su vida libre.
 
 ###### ARTICULO 24.
 
-La Comisión Instructora, dentro de los tres días siguientes de la fecha en que hubiera recibido el expediente, hará llegar al denunciado copia de la denuncia y de las constancias que lo integren; emplazándole para que en un término de siete días hábiles siguientes a la notificación, en uso de su garantía de audiencia, conteste por escrito sobre la materia de la denuncia, ofrezca pruebas y designe defensor si lo desea.
+La clasificación de los internos, se hará como resultado de los estudios aplicados y atendiendo a criterios criminológicos de índice de peligrosidad, edad, salud mental y física, grado cultural y tipo de delito, de conformidad con los lineamientos que determine la Dirección General de Prevención y Readaptación Social.
 
 ###### ARTICULO 25.
 
-Concluido el término de contestación de la denuncia, la Comisión Instructora procederá a la calificación, admisión y desahogo de las pruebas ofrecidas dentro de un período de treinta días hábiles; pudiendo allegarse las demás que estime necesarias.
-
-Si al concluir el termino señalado no hubiese sido posible desahogar las pruebas admitidas o es preciso allegarse de otras, la Comisión Instructora podrá ampliarlo en la medida que resulte necesario.
+Las comunicaciones de los internos con el exterior de los Centros de Readaptación no podrá ser objeto de censura. El reglamento establecerá los mecanismos de supervisión para la revisión de los sobres y objetos que se envíen a los internos.
 
 ###### ARTICULO 26.
 
-Concluido el desahogo de las pruebas, se pondrá el expediente a la vista del denunciado por diez días hábiles para que formule por escrito sus alegatos.
+Los servicios médicos de los Centros de Readaptación Social, otorgarán a los internos asistencia médica, sin perjuicio de que se les permita a su costo, atención médica particular. Igualmente, se les proporcionará asistencia psicológica y psiquiátrica.
 
 ###### ARTICULO 27.
 
-Transcurrido el término de alegatos, la Comisión Instructora formulará sus conclusiones dentro de los tres días hábiles siguientes, por las que propondrá:
+El ingreso a los Centros de Readaptación Social, se hará únicamente:
 
-I.- Si está o no legalmente comprobada la conducta o hecho materia de la denuncia;
+I.- Por consignación del Ministerio Público, ante la autoridad judicial competente.
 
-II.- Si existe o no probable responsabilidad del enjuiciado; y
+II.- Por resolución judicial.
 
-III.- La sanción que en su caso amerite imponerse;
+III.- En cumplimiento de los convenios a que se refiere el artículo 2° de esta Ley.
 
-De igual manera deberán asentarse en las conclusiones las circunstancias que hubieren concurrido en los hechos.
+Inmediatamente al ingreso, el interno será examinado a fin de conocer su estado físico y mental, grado de instrucción, su habilidad y capacidad física para el trabajo y cualquier otro dato de su personalidad.
 
 ###### ARTICULO 28.
 
-Una vez emitidas las conclusiones a que se refiere el artículo anterior, la Comisión Instructora las entregará en un término de tres días hábiles al Secretario del Congreso para que dé cuenta al Presidente, quien las someterá al Gran Jurado en un término de cinco días hábiles para que resuelva sobre la imputación, y en su caso, solicite la imposición de la sanción u ordene su archivo.
+Para efectos de control del interno, se le formará un expediente personal que contendrá entre otros datos:
+
+I.- Nombre, sexo, edad, el lugar de origen, domicilio, estado civil, profesión u oficio.
+
+II.- Fecha y hora de ingreso y salida.
+
+III.- Los que se refieran a las causas que originaron la privación de la libertad.
+
+IV.- Identificación dactiloscópica y antropométrica.
+
+V.- Identificación fotográfica de frente y perfil.
 
 ###### ARTICULO 29.
 
-Si el Gran Jurado resuelve que el denunciado es inocente, mediante la resolución de las dos terceras partes del total de sus miembros, éste continuará en el ejercicio de su cargo. Si encuentra que es culpable, quedará inmediatamente separado de él.
+A todo interno se le formará expediente clínico- criminológico, que contendrá el resultado de los estudios practicados, enviándose informe a la Dirección General de Prevención y Readaptación social y se dividirá en las siguientes secciones:
 
-En caso de ilícitos oficiales de los Magistrados adscritos al Poder Judicial del Estado, las causas se llevarán hasta su fin ante el Congreso, el cual dictará sentencia.
+I.- De conducta, donde se harán constar los antecedentes sobre su comportamiento, sanciones disciplinarias, estímulos, recompensas y todo lo que se relacione con el régimen disciplinario interior.
+
+II.- Médica y psiquiátrica, en donde se consignarán los estudios que se realicen sobre el estado de salud física y mental del interno.
+
+III.- Psicológica, en donde se incluirá el estudio de personalidad, situación emocional y elementos psicocriminológicos.
+
+IV.- Educativa, donde se indicará el grado inicial de instrucción, así como los progresos y calificaciones obtenidas durante el internamiento.
+
+V.- Ocupacional, en donde se indicará el grado inicial de aptitud para el trabajo, labores desempeñadas y el grado de capacitación para el mismo; en esta sección se pondrá especial cuidado en precisar los días trabajados para los efectos de la Remisión Parcial de la Pena.
+
+VI.- Trabajo Social, que contendrá la situación sociocriminológica del interno y las orientaciones para conducirse en el lugar a donde vaya a radicar.
+
+VII.- Jurídica, que contendrá: las fichas antropométrica y dactiloscópica, la boleta de ingreso, el Auto de Formal Prisión y las sentencias de primera y segunda instancia y de amparo.
+
+VIII.- Preliberacional, en donde constará el control de presentaciones del interno en el centro, así como la modalidad de tratamiento.
+
+Los datos consignados en las fracciones I, IV, V y VIII se consignarán en cada expediente cuando menos una vez por mes. Los mencionados en las fracciones II, III, VI y VII, serán consignados cada tres meses por lo menos.
 
 ###### ARTICULO 30.
 
-Todo el procedimiento, desde la recepción de la denuncia hasta la fecha en que el Congreso en pleno resuelva, deberá agotarse dentro de su período ordinario de sesiones, o bien, dentro del extraordinario a que se convoque.
+El régimen de tratamiento para los internos, tendrá carácter progresivo y técnico y constará de los períodos de estudio, diagnóstico y tratamiento, teniendo este último, las fases de clasificación y preliberación. El tratamiento se sujetará a las siguientes reglas:
+
+I.- Durante el período de estudio y diagnóstico, el personal técnico del Centro realizará el estudio integral del interno, desde los puntos de vista médico, psicológico, psiquiátrico, social, pedagógico y ocupacional, para determinar entre otros datos:
+
+a) El origen remoto y la causa próxima del delito.
+
+b) El estado físico, mental y funcional del interno.
+
+c) Su valor social y profesional.
+
+En el primer período de tratamiento, el interno será objeto de observación y no deberá exceder de 30 días.
+
+II.- Transcurrido el período de estudio, inmediatamente se iniciará el diagnóstico y con el resultado de los estudios aplicados, se hará la clasificación de los internos, atendiendo a criterios criminológicos, así como la edad, salud mental y física, capacidad, índice de peligrosidad, tipo de delito y término de la sanción impuesta.
+
+III.- El período de tratamiento, se basará en la educación, el trabajo y la capacitación para el mismo y tendrá por objeto la reincorporación social del interno.
+
+IV.- El tratamiento preliberacional se aplicará en el período de un año a tres meses anteriores, a la fecha de obtención de la libertad y comprenderá:
+
+a) Formación, orientación especial y diálogo con el interno y sus familiares, sobre los aspectos personales y prácticos de la vida en libertad.
+
+b) Concesión de mayor libertad dentro del centro.
+
+c) Aplicación de técnicas socioterapéuticas, psicoterapias colectivas y de todas aquéllas que coadyuven a lograr una mayor integración social.
+
+d) Aplicación de las modalidades del régimen de prelibertad, como:
+
+1.- Salida de fin de semana, con regreso el domingo o el lunes siguiente.
+
+2.- Salida diaria de lunes a viernes, con reclusión nocturna.
+
+3.- Salida diaria incluyendo el fin de semana, con reclusión nocturna todos los días.
+
+4.- Salida en días hábiles con reclusión de fin de semana.
+
+Cuando el interno sentenciado no cumpla las modalidades que le sean impuestas, al concedérsele la preliberación, le será revocado el beneficio.
 
 ###### ARTICULO 31.
 
-Recibida la resolución y petición del Gran Jurado por la Oficialía Mayor del Supremo Tribunal de Justicia, su Presidente lo declarará erigido en Jurado de Sentencia dentro de las setenta y dos horas siguientes a la recepción de los documentos mencionados, procediendo la Secretaría de dicho órgano jurisdiccional a citar al acusado y a su defensor.
+Durante el régimen de tratamiento, los internos se sujetarán a las medidas que se consideren más adecuadas a juicio del Consejo Técnico del Centro.
+
+Todo interno devuelto al centro del que procediere, por habérsele revocado la libertad condicional o preliberacional que disfrutaba, se ubicará en el primer período de tratamiento, pudiéndose aumentar la duración del mismo hasta dos meses.
 
 ###### ARTICULO 32.
 
-El día y hora señalado para la audiencia, el Presidente del Supremo Tribunal de Justicia declarará abiertos los trabajos de la misma y procederá conforme a las siguientes normas:
+En los Centros de Readaptación Social, la enseñanza primaria es obligatoria para todos los internos. Asimismo, se procurará establecer la enseñanza secundaria, preparatoria y profesional o su equivalente, en su modalidad abierta, conforme a los planes y programas oficiales.
 
-I.- La Secretaría dará lectura a las conclusiones formuladas por el Gran Jurado;
-
-II.- Acto continuo, se concederá la palabra al servidor público o a su defensor, o a ambos, para que formulen sus pedimentos en proposiciones concretas; y
-
-III.- A continuación, el Jurado de Sentencia, por medio del Presidente del Supremo Tribunal de Justicia, citará a las partes para sentencia y dará por concluida la sesión. La sentencia se pronunciará dentro de los tres días hábiles siguientes.
+La educación de los internos, será elemento básico para su readaptación, procurando afirmar el respeto a los valores humanos, a las instituciones y símbolos nacionales.
 
 ###### ARTICULO 33.
 
-Todas las audiencias que se celebren en el Juicio Político, tanto del Gran Jurado como el de Sentencia, se llevarán a cabo en sesiones públicas, excepto cuando las buenas costumbres o el interés general requieran que sean secretas, lo que determinará, respectivamente, el Presidente del Congreso o el Presidente del Supremo Tribunal de Justicia del Estado.
+En los Centros de Readaptación, las actividades educativas serán desarrolladas por personal de las instituciones de enseñanza. También podrán intervenir, los internos que hubieran demostrado aptitudes y la preparación académica para el desempeño de estas funciones.
+
+La supervisión y evaluación de las labores escolares de cada interno, la efectuará el área técnica o equivalente del Centro de Readaptación. El interno que realice actividades de enseñanza merecerá mención especial en su expediente personal.
 
 ###### ARTICULO 34.
 
-Las resoluciones dictadas por el Gran Jurado y por el Supremo Tribunal de Justicia tendrán el carácter de definitivas.
+A los internos analfabetos se les proporcionará enseñanza primaria obligatoria, conforme al método existente en las escuelas públicas del Estado. A los demás internos se les facilitará los estudios superiores adecuados a su vocación y aptitud si así lo solicitaren y fuere posible, así como la práctica de actividades culturales, deportivas y recreativas, que se organicen en los centros.
+
+Con autorización de la Dirección y atendiendo el tratamiento de los internos, la sección educativa del área técnica o equivalente, organizará conferencias, veladas literarias, representaciones teatrales, conciertos musicales, eventos deportivos y otros actos análogos que tiendan a elevar el nivel cultural del interno.
 
 ###### ARTICULO 35.
 
-Para efectos de lo dispuesto por el Artículo 14 de la presente Ley, la resolución declarativa dictada por la Cámara de Diputados del Congreso de la Unión, surtirá efectos de denuncia ratificada y en ese caso, se observará el procedimiento establecido por este capítulo, a partir de la integración de la Comisión Instructora.
+Los Centros contarán con una biblioteca cuando menos y los internos podrán hacer uso del servicio, respetando los horarios y disposiciones que se dicten por la Dirección.
 
 ###### ARTICULO 36.
 
-Si durante la tramitación de alguno de los procedimientos en que interviene el Congreso del Estado, éste entrara en receso, se suspenderán los términos que estuvieren transcurriendo, los cuales continuarán al iniciarse el siguiente período de sesiones, excepto si el propio Congreso estima necesario prorrogarlo o abrir un período extraordinario.
+El trabajo y capacitación para el mismo, en los Centros de Readaptación es obligatorio para sentenciados y voluntario para procesados e indispensable para el cumplimiento del régimen de tratamiento y para el otorgamiento de la Remisión Parcial de la Pena.
 
-### CAPITULO III. Procedimiento Para la Declaratoria de Procedencia
+Para la asignación de las labores correspondientes, se atenderá la aptitud física y mental y las circunstancias personales del interno, en correlación con las fuentes ocupacionales que ofrezca cada centro.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
+### Capítulo II. De la Dirección de los Centros
 
 ###### ARTICULO 37.
 
-La comisión de delitos, por parte de cualquier servidor público de los mencionados en el artículo 74 de la Constitución Política del Estado, será perseguida y sancionada en los términos de lo establecido por la Legislación Penal para el Estado de Aguascalientes, previa declaratoria de procedencia de conformidad con lo que establece la presente Ley y el artículo 535 de la referida legislación penal.
+Están exceptuados de la obligación de trabajar:
 
-Si se contraviene lo anterior, el Presidente de Congreso librará oficio al Tribunal que conozca de la causa, a fin de que suspenda su tramitación en tanto se resuelve si ha lugar a proceder, ordenando la inmediata libertad del servidor público si éste se encontrare detenido.
+I.- Los que padecieren alguna enfermedad o incapacidad que los imposibilite para el trabajo o que en razón de su edad no puedan hacerlo.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+II.- Las mujeres en estado grávido, durante las seis semanas anteriores y posteriores al parto o según dictamen del área médica del Centro.
+
+Las personas comprendidas en estos casos y que voluntariamente desearan trabajar, podrán dedicarse a la ocupación que elijan, siempre que no fuere perjudicial a su salud e incompatible con su tratamiento.
 
 ###### ARTICULO 38.
 
-La inmunidad de que están investidos los servidores públicos conocida como fuero constitucional, es la prerrogativa indispensable para la existencia y funcionamiento de las instituciones, protegiendo su independencia y autonomía al otorgarles la facultad de no comparecer ante la autoridad jurisdiccional, quien tiene la obligación de respetarla con relación directa al ejercicio de la acción penal, no a la facultad-deber que tiene la institución del Ministerio Público para investigar los hechos punibles que puedan ser probablemente constitutivos de delito, hasta en tanto el Congreso del Estado declare que ha lugar a proceder en su contra, satisfaciéndose de este modo, la condición previa de procedibilidad, que no constituye una excluyente de responsabilidad, sino un impedimento legal para que aquellos que gocen de esa prerrogativa, no queden sometidos a la potestad judicial.
+Los productos que se obtuvieren de las industrias, talleres o explotación agrícola, propiedad del establecimiento, serán destinados en primer término, a satisfacer las necesidades interiores del mismo, los demás se venderán a las dependencias públicas y a los particulares que lo solicitaren.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+Los particulares con la autorización de la Dirección General de Prevención y Readaptación Social, podrán establecer dentro de los Centros industrias o talleres, y los productos que se obtuvieren podrán comercializarse a juicio del industrial o inversionista.
 
 ###### ARTICULO 39.
 
-La denuncia que se formule en contra de alguno de los servidores públicos que gocen de fuero, se presentará ante el Procurador General de Justicia del Estado, quien mandará practicar las diligencias necesarias para la integración de la averiguación previa correspondiente.
+Los internos coadyuvarán a su sostenimiento con cargo a la percepción que reciban como resultado del trabajo que desempeñen. El resto del producto de trabajo se distribuirá, por regla general del modo siguiente:
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+I.- Un 15% para el pago de la sanción pecuniaria.
+
+II.- Un 50% para el sostenimiento de sus dependientes económicos.
+
+III.- Un 10% para la constitución del fondo de ahorro.
+
+IV.- Un 15% para el pago de la reparación del daño.
+
+V.- Un 10% para sus gastos menores.
+
+En caso de que no hubiese condena a reparación del daño o éste ya se hubiere cubierto, no tenga dependientes económicos o haya pagado la multa, los porcentajes inaplicables se distribuirán entre los conceptos que subsistan, en la proporción que corresponda, a excepción del destinado a gastos menores del interno, que será inalterable en el 10% señalado.
+
+Lo dispuesto en este artículo se aplicará aun cuando el interno trabaje en una actividad cuyos ingresos, por su naturaleza, no estén sujetos a control directo.
 
 ###### ARTICULO 40.
 
-En el supuesto de que la denuncia sea en contra del Procurador General de Justicia, aquella se presentará ante el titular del Poder Ejecutivo del Estado, quien designará a un Agente del Ministerio Público Especial para el solo efecto de que integre la averiguación previa respectiva.
-
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+La organización y administración del trabajo en los Centros, corresponderá a la Dirección General de Prevención y Readaptación Social, en coordinación con la Dirección del establecimiento respectivo y se realizará de acuerdo con el mercado de mano de obra regional, procurando siempre lograr la autosuficiencia en cada Centro.
 
 ###### ARTICULO 41.
 
-En los casos mencionados en los dos artículos anteriores, la averiguación previa se substanciará conforme a lo establecido en la Legislación Penal para el Estado de Aguascalientes.
+Los internos estarán obligados a cuidar las herramientas y utensilios de trabajo y capacitación y serán responsables de las pérdidas, destrucción o deterioro que en forma dolosa les causen, debiendo pagar el importe de los mismos, descontándoseles de su fondo de ahorro, previa investigación y dictamen del Consejo Técnico Interdisciplinario de la Dirección General de Prevención y Readaptación Social.
 
 ###### ARTICULO 42.
 
-Concluida la averiguación previa y satisfechos los requisitos para el ejercicio de la acción penal, la remitirá al Congreso del Estado, el que la turnará a su Comisión de Justicia.
+El Ejecutivo del Estado, de acuerdo a sus posibilidades proporcionará a los internos, la capacitación y formación técnica necesaria para desarrollar sus actividades y aptitudes, a juicio de las áreas técnicas de los Centros, de tal modo, que puedan dedicarse a un oficio, arte o actividad productiva en su vida de libertad.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+Las condiciones, horarios, remuneraciones y demás disposiciones procedentes, para el trabajo de los internos, se determinarán por el reglamento interior respectivo.
 
 ###### ARTICULO 43.
 
-Recibida la averiguación previa, la Comisión de Justicia, dentro de los tres días hábiles siguientes, citará al Procurador General de Justicia o al Agente del Ministerio Público Especial, según corresponda, así como al servidor público denunciado, para que declaren lo que a sus intereses convenga.
+En los Centros de Readaptación Social las medidas disciplinarias, los estímulos y recompensas, serán impuestas u otorgadas por los Directores, atendiendo a los lineamientos del Consejo Técnico.
 
-La Comisión de Justicia, al momento de citar al servidor público involucrado, le dará a conocer el contenido de la averiguación previa y le informará que tendrá derecho a designar Defensor, para que lo asista en la audiencia correspondiente.
+Los internos sólo podrán ser sancionados por un hecho que constituya falta a la disciplina y que expresamente esté previsto en el Reglamento Interior del Centro.
 
 ###### ARTICULO 44.
 
-Si a juicio de la Comisión de Justicia la imputación fuese notoriamente improcedente, lo hará saber de inmediato al pleno del Congreso para que éste resuelva si se continúa o no con el procedimiento.
+En el Reglamento Interior de los Centros de Readaptación Social, se señalarán las faltas y las medidas disciplinarias a que se hagan acreedores los internos; así como los hechos que merezcan estímulos y recompensas.
 
 ###### ARTICULO 45.
 
-La Comisión de Justicia deberá rendir su dictamen en un plazo no mayor de treinta días naturales y lo turnará al Secretario de la Mesa Directiva en funciones, para que éste dé cuenta al Presidente.
+El Director del establecimiento, impondrá las correcciones disciplinarias a los internos infractores atendiendo a la gravedad de la falta y después de haber cumplido con la garantía de audiencia.
 
 ###### ARTICULO 46.
 
-Recibido el dictamen, el Presidente de la Mesa Directiva en funciones del Congreso convocará a sesión dentro de los siguientes cinco días hábiles, citando a la misma al Procurador General de Justicia o al Agente del Ministerio Público Especial según corresponda, así como al denunciado y a su defensor, el día y hora que para tal efecto se señale, a fin de que si así lo desean, comparezcan a esa sesión.
+Los internos, estarán obligados a observar las normas de conducta necesarias para mantener el orden y la disciplina de cada Centro, conforme a lo establecido en esta Ley y el reglamento interior; deberán presentarse puntualmente a las listas ordinarias y extraordinarias, quedando sujetos a registros que se efectuarán sin hacer uso de violencia y sin atentar a la dignidad humana.
+
+Sólo cuando resulte indispensable para restablecer el orden o la seguridad, se usará la fuerza estrictamente necesaria.
 
 ###### ARTICULO 47.
 
-En la sesión a que se refiere el artículo anterior, el Presidente de la Mesa Directiva en funciones del Congreso, hará la declaratoria de que éste se erige en Gran Jurado; acto seguido la Secretaría dará lectura al dictamen de la Comisión de Justicia y se concederá la palabra al Procurador General de Justicia o al Agente del Ministerio Público Especial, según corresponda, y al denunciado o a su defensor, o a ambos si así lo solicitan para que aleguen lo que a su derecho convengan. Las partes podrán replicar y contrarreplicar por una sola vez y hecho lo anterior, se retirarán del recinto.
+Todas las resoluciones del Director, en materia disciplinaria, se harán constar en la sección de conducta del expediente personal de cada interno, comunicándolas a la Dirección General de Prevención y Readaptación Social.
 
-Retiradas las partes, el Gran Jurado declarará por consenso de las dos terceras partes del total de los Diputados si ha lugar a proceder en contra del denunciado.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
+## TITULO SEXTO. DE LAS SANCIONES IMPUESTAS POR LOS TRIBUNALES
 
 ###### ARTICULO 48.
 
-Si el Congreso del Estado declara que ha lugar a proceder contra el servidor público denunciado, éste quedará inmediatamente separado de su cargo, devolviendo la averiguación previa junto con la declaratoria de procedencia relativa a la Procuraduría General de Justicia o al Agente del Ministerio Público Especial para que ejercite la acción penal correspondiente, sobre la que resolverá la autoridad jurisdiccional en términos de ley.
-
-Si se emite declaratoria de improcedencia, el servidor público continuará en el desempeño de su cargo y no habrá lugar a procedimiento ulterior por los mismos hechos, en tanto no concluyan sus funciones.
+La Dirección General de Prevención y Readaptación Social, deberá de resolver en los casos a que se refiere el artículo 57 del Código Penal.
 
 ###### ARTICULO 49.
 
-El titular del Poder Ejecutivo del Estado sólo será sujeto al procedimiento de declaratoria de procedencia, tratándose de delitos graves del orden común así considerados por la Legislación Penal vigente en el Estado.
-
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+La Dirección General tomará todas las medidas concernientes al cumplimiento de las sanciones que se le impusieren a las personas morales, de acuerdo con lo establecido por el artículo 73 del Código Penal.
 
 ###### ARTICULO 50.
 
-Para proceder contra los jueces por la comisión de hechos punibles que puedan ser tipificados en términos de las figuras establecidas en la Legislación Penal para el Estado de Aguascalientes, el Supremo Tribunal de Justicia emitirá declaración en el sentido de que ha lugar a formación de causa. Por virtud de esta declaración, aquellos quedarán suspendidos de sus cargos y sometidos al procedimiento penal correspondiente, conforme a las reglas establecidas en la referida legislación penal.
+Comunicados los términos de la sanción pecuniaria a la Dirección General, ésta auxiliará a la autoridad fiscal correspondiente, para que realice el cobro en los términos de la Ley que reglamente la facultad económico coactiva y se haga correcta aplicación de dicho cobro en los términos del Capítulo VI del Título III del Libro Primero, del Código Penal.
 
 ###### ARTICULO 51.
 
-Tratándose de delitos del orden federal cuya comisión se impute al titular del Poder Ejecutivo del Estado, a los Diputados locales, a los Magistrados adscritos al Poder Judicial o a los miembros del Consejo de la Judicatura local, una vez recibida por el Congreso del Estado la Declaratoria de Procedencia por la Comisión de Delitos dictada por la Cámara de Diputados del Congreso de la Unión, la Legislatura Local procederá en lo pertinente conforme a lo previsto en la presente Ley.
-
-El servidor público quedará a disposición de las autoridades competentes para que procedan conforme a la legislación aplicable, debiendo comunicar a la Cámara de Diputados del Congreso de la Unión la resolución que se dicte.
+Cuando el sancionado alegue que no puede cumplir alguna de las modalidades de la sanción que le fue impuesta, por ser incompatible con su edad, sexo, salud o constitución física, la Dirección General, previo estudio del caso dictará la resolución que corresponda.
 
 ###### ARTICULO 52.
 
-Las declaraciones y resoluciones que dicte el Congreso del Estado, son definitivas y no admiten medio de impugnación alguno.
+En los casos a que se refiere el artículo 74 del Código Penal, el Ejecutivo del Estado, oyendo a la Dirección General, resolverá lo que estime pertinente.
 
 ###### ARTICULO 53.
 
-En los juicios del orden civil, no hay fuero ni inmunidad para servidor público alguno.
+La Dirección General de Prevención y Readaptación Social, tendrá a su cargo la orientación y vigilancia de las personas a quienes se les haya concedido la libertad bajo tratamiento, la semilibertad o la suspensión condicional, en los términos del Código Penal. La vigilancia será ejercida con toda discreción.
 
-### CAPITULO IV. Disposiciones Comunes para los Capítulos II y III del Título Segundo
+### Capítulo I. Disposiciones Generales
 
 ###### ARTICULO 54.
 
-Cuando la Comisión de Justicia del Congreso del Estado estime necesaria la comparecencia personal del acusado, será citado por conducto de quien la presida para que acuda el día y hora que sea señalado para el desahogo de tal diligencia, apercibiéndolo que de no hacerlo sin causa legal justificada, se presumirá que contesta en sentido afirmativo los cuestionamientos que se realicen, mismos que se harán constar en el acta de la sesión respectiva.
+El interno que intente fugarse o que habiéndolo conseguido sea reaprehendido, perderá el derecho a libertad condicional y a la remisión parcial por los días trabajados antes de la fuga o el intento.
 
 ###### ARTICULO 55.
 
-Se entenderá que el acusado ha contestado en sentido afirmativo cuando habiéndolo requerido el Presidente de la Comisión de Justicia del Congreso del Estado, para que informe por escrito sobre uno o varios hechos que se le imputen, no lo hiciere dentro del plazo que se le fije.
+Cuando un sentenciado a confinamiento salga del lugar que se le haya fijado como sitio de residencia, antes de que concluya el término, será internado en un Centro de Readaptación, por el tiempo que le falte para extinguir el confinamiento.
 
 ###### ARTICULO 56.
 
-El Presidente de la Comisión de Justicia del Congreso del Estado practicará todas las diligencias necesarias para la integración del expediente y la acreditación de los hechos materia del procedimiento.
+La Dirección General de Prevención y Readaptación Social informará al tribunal que haya conocido del caso, cuando un interno sometido a vigilancia de la autoridad no ministre a ésta los informes que se le piden sobre su conducta.
 
 ###### ARTICULO 57.
 
-Las comunicaciones y citaciones oficiales que deban girarse para la práctica de diligencias, se entregarán personalmente o se enviarán por correo certificado y con acuse de recibo.
+La Dirección General de Prevención y Readaptación Social comunicará al Ministerio Público, cuando advierta que un sentenciado ha incurrido en quebrantamiento de la sanción de privación, suspensión o inhabilitación de derechos que le fue impuesta.
 
 ###### ARTICULO 58.
 
-Cuando esta Ley no señale término para la práctica de alguna diligencia, acto administrativo o para el ejercicio de algún derecho, se tendrá por señalado el de cinco días hábiles.
+La Dirección General comunicará a los tribunales de los casos en que éstos deban conocer para los efectos del artículo 80 del Código Penal.
 
 ###### ARTICULO 59.
 
-El Presidente de la Comisión de Justicia del Congreso del Estado, cuando se trate de diligencias que deban efectuarse fuera del lugar de residencia de éste, solicitará al Supremo Tribunal de Justicia que gire el exhorto correspondiente al juez competente, a cuyo efecto se remitirá al citado Tribunal el testimonio de las constancias recabadas.
-
-El juez exhortado practicará las diligencias que se le encomienden al respecto, con estricta sujeción a las determinaciones que le comunique el Supremo Tribunal de Justicia en auxilio del Congreso del Estado.
+La sanción privativa de libertad, se extingue por el cumplimiento de la misma, muerte del sentenciado, resolución de la autoridad judicial, indulto o amnistía y prescripción, en los términos del Título V del Libro Primero, del Código Penal.
 
 ###### ARTICULO 60.
 
-Tanto el acusado como el denunciante, podrán solicitar de las oficinas o establecimientos públicos copias certificadas de documentos que pretendan ofrecer como prueba ante la Comisión de Justicia.
-
-Las autoridades estarán obligadas a expedir dichas copias sin demora, y si no lo hicieren, el Presidente de la Comisión de Justicia del Congreso del Estado, a instancia del interesado, señalará a la autoridad omisa, un plazo razonable para que las expida, bajo apercibimiento de imponerle una multa de diez a cien veces el salario mínimo diario general vigente en el Estado, tomando en consideración lo dispuesto por las fracciones I y V del Artículo 82 de la presente Ley, sanción que se hará efectiva si la autoridad no las expidiere. Si resultase falso que el interesado hubiere solicitado las constancias, la multa se hará efectiva en su contra.
-
-Por su parte, el Presidente de la Comisión de Justicia del Congreso del Estado solicitará las copias certificadas de constancias que estime necesarias para el procedimiento, y si la autoridad de quien las solicitasen no las remite dentro del plazo que se le señale, se le impondrá la multa a que se refiere el párrafo anterior.
+El Director del Centro de Readaptación, en que se encuentre internada cualquier persona sujeta a sanción privativa de libertad, ordenará su liberación al cumplirse el término de la misma, previa computación hecha por la Dirección General de Prevención y Readaptación Social, salvo el caso que el interno deba continuar detenido por encontrarse sujeto a otro procedimiento.
 
 ###### ARTICULO 61.
 
-El Presidente de la Comisión de Justicia del Congreso del Estado podrá solicitar por sí o a instancia de los interesados, los documentos o expedientes originales ya concluidos y, la autoridad de quien se soliciten tendrá la obligación de remitirlos. En caso de incumplimiento se aplicará la multa establecida en el artículo anterior.
+Al liberarse a un interno, se le hará entrega de su boleta o acuerdo de libertad, la cantidad que le corresponda por saldo de su fondo de ahorro y, si lo solicitare, una constancia de la conducta que haya observado y de su aptitud para el trabajo.
 
-Dictada la resolución definitiva en el procedimiento, los documentos y expedientes mencionados deberán ser devueltos a la oficina de su procedencia, debiendo dejarse copia certificada de las constancias que la Comisión de Justicia del Congreso del Estado estime pertinentes.
+En caso de que el liberado lo necesite, se le facilitará un pasaje de transporte para trasladarse al lugar en que haya fijado su residencia dentro del territorio del Estado; y cuando lo fijare fuera de él, hasta los límites de la Entidad.
 
 ###### ARTICULO 62.
 
-No podrán votar en ningún caso los Diputados que hubiesen presentado la imputación contra el servidor público, ni aquellos que hayan aceptado el cargo de defensor, aún cuando lo renuncien después de haber comenzado a ejercerlo.
+Todo interno que quede en libertad, será examinado previamente por el médico de la institución y si resultare que se encuentra padeciendo alguna enfermedad que requiera hospitalización y carece de recursos para atenderse en forma particular, será remitido inmediatamente por cuenta del Estado al establecimiento que corresponda.
+
+## TITULO SEPTIMO. DE LOS BENEFICIOS QUE PUEDE OTORGAR EL EJECUTIVO
+
+### Capítulo I. De la Remisión Parcial de la Pena
 
 ###### ARTICULO 63.
 
-En todo lo no previsto en el Título Segundo de esta Ley, con relación a las discusiones y votaciones se observarán, en lo aplicable, las reglas que establecen la Constitución Política del Estado y la Ley Orgánica del Poder Legislativo del Estado, para discusión y votación de las leyes. En todo caso, las votaciones deberán ser nominales para formular, aprobar o reprobar las conclusiones o dictámenes de la Comisión, y para resolver incidental o definitivamente en el procedimiento.
+En concordancia con el Capítulo V del Título Quinto de esta Ley, por cada dos días de trabajo se hará remisión de un día de internamiento, siempre y cuando el interno satisfaga los requisitos siguientes:
+
+I.- Haya observado buena conducta durante su internamiento y participado regularmente en las actividades educativas.
+
+II.- Que individualmente o formando parte de un grupo no haya alterado el orden del Centro de Readaptación, para cualquier fin.
+
+III.- No revele peligrosidad social.
+
+Este último criterio será en todo caso factor determinante para la concesión o negación de la remisión parcial de la pena.
 
 ###### ARTICULO 64.
 
-Cuando en el curso del procedimiento incoado a un servidor público se presentare nueva denuncia en su contra, se procederá respecto de ella con arreglo a esta Ley, hasta agotar la instrucción de los diversos procedimientos, procurando, de ser posible, la acumulación procesal.
-
-Si la acumulación fuese procedente, la Comisión de Justicia del Congreso del Estado formulará en un solo documento sus conclusiones, que comprenderán el resultado de los diversos procedimientos.
+Para el cómputo de los días trabajados, en su caso, se estará a lo dispuesto por el artículo 54 de esta Ley.
 
 ###### ARTICULO 65.
 
-El Presidente de la Comisión de Justicia del Congreso del Estado podrá disponer las medidas de apremio que fueren procedentes mediante acuerdo de la mayoría de sus miembros presentes en la sesión respectiva.
+A los internos que por falta de ocupación laboral asistan regularmente a la escuela, les serán tomadas en cuenta esas actividades para el efecto de la remisión parcial de la pena.
 
 ###### ARTICULO 66.
 
-Las declaraciones o resoluciones aprobadas por el Congreso del Estado con arreglo a esta Ley, se comunicarán al Presidente del Supremo Tribunal de Justicia del Estado si se tratase de alguno de los integrantes del Poder Judicial Estatal; y en todo caso al Ejecutivo Local para su conocimiento y posterior publicación en el Periódico Oficial del Gobierno del Estado.
+La remisión de la pena se concederá sin perjuicio de cualquier otro beneficio de libertad concedido por esta Ley.
+
+### Capítulo II. De la Libertad Condicional
 
 ###### ARTICULO 67.
 
-Recibida por el Congreso del Estado la notificación de la declaratoria de la Cámara de Diputados del Congreso de la Unión relativa al titular del Poder Ejecutivo del Estado, Diputados Locales, Magistrados adscritos al Poder Judicial del Estado y miembros del Consejo de la Judicatura Local a que se refiere el Artículo 111 de la Constitución General de la República, se procederá como lo dispone la presente Ley.
+La libertad condicional se otorgará a los sancionados con penas privativas de libertad, siempre y cuando el interno satisfaga los requisitos siguientes:
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+I.- No sea reincidente.
 
-###### ARTÍCULO 68.
+II.- Haya cumplido las tres quintas partes de la pena corporal impuesta, si se tratara de delitos dolosos o preterintencionales o la mitad de la misma en el caso de delitos culposos.
 
-En todo lo no previsto en los procedimientos que se contemplan en los títulos Segundo y Cuarto de esta Ley, así como en la apreciación y valoración de las pruebas, se observarán, en lo conducente, las disposiciones contenidas en la Legislación Penal para el Estado de Aguascalientes.
+III.- Haya observado buena conducta durante su internamiento y participado regularmente en las actividades educativas.
 
-## TITULO TERCERO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
+IV.- Que individualmente o formando parte de un grupo no haya alterado el orden del Centro de Readaptación para cualquier fin.
 
-### CAPITULO UNICO. De las Obligaciones
+V.- No revele peligrosidad social.
+
+VI.- Ofrezca y se dedique en el plazo que la resolución determine a un oficio, arte, industria, profesión o cualquier otro medio honesto de vivir.
+
+VII.- Se comprometa a residir en un lugar determinado, durante el período de libertad condicional, del cual no podrá ausentarse, sin el permiso de la Dirección General de Prevención y Readaptación Social.
+
+VIII.- Que alguna persona, con reconocida solvencia moral, honrada y de arraigo se obligue a supervisar y a cuidar que el liberado cumpla con las obligaciones que contraiga para obtener el beneficio.
+
+IX.- Que no haya incurrido en cualquiera de las conductas a que se refiere el artículo 54 de esta Ley.
+
+###### ARTICULO 68.
+
+Los individuos que disfruten de libertad condicional, quedarán sujetos a la vigilancia discreta de la Dirección General de Prevención y Readaptación Social, por el tiempo que les falte para cumplir su sanción, vigilancia que será ejercida por los medios convenientes, observando su conducta y actuación en todos los órdenes de la vida, y realizando cuantas gestiones fueren necesarias para la protección, mejoramiento y readaptación social del liberado.
+
+## TITULO TERCERO. DE LA PREVENCION SOCIAL
+
+###### ARTICULO 9°.
+
+El Sistema de Prevención Social se basará en las medidas que para la prevención de la delincuencia, la investigación criminológica y el auxilio a las víctimas del delito dicte la política criminológica el Estado.
+
+### Capítulo II. Del Ingreso y Clasificación
 
 ###### ARTICULO 69.
 
-Son sujetos de responsabilidad administrativa, los servidores públicos y todas aquellas personas a que se refiere el Artículo 2° de esta Ley.
+El Director General de Prevención y Readaptación Social, revocará la libertad condicional y el infractor extinguirá toda la parte de la pena que le falte por cumplir, cuando el liberado deje de cumplir alguna de las condiciones conforme a las cuales le fue concedida.
+
+### Capítulo III. Del Procedimiento para Otorgar los Beneficios
 
 ###### ARTICULO 70.
 
-Los servidores públicos para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que han de observarse en el servicio público, independientemente de las obligaciones específicas que correspondan a su empleo, cargo o comisión, tendrán las siguientes:
+Los beneficios de remisión parcial de la pena y de libertad condicional serán concedidos por el Ejecutivo del Estado a través del Director General de Prevención y Readaptación Social.
 
-I.- Cumplir con la máxima diligencia el servicio que le sea encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio, o implique abuso o ejercicio indebido de un empleo, cargo o comisión;
-
-II.- Formular y ejecutar los planes, programas y presupuestos correspondientes a su competencia, y cumplir con las leyes y otras normas que determinen el manejo de recursos públicos.
-
-III.- Utilizar exclusivamente para los fines a que estén afectos, los recursos que tengan asignados para el desempeño de su empleo, cargo o comisión, las facultades que le sean atribuidas, o la información confidencial que obtengan con motivo de sus funciones;
-
-IV.- Custodiar y cuidar valores, documentación e información que por razón de su empleo, cargo o comisión, estén bajo su cuidado, o a la cual tenga acceso, impidiendo o evitando el uso, sustracción, destrucción, ocultamiento o inutilización indebida de aquéllos;
-
-V.- Proporcionar con oportunidad los informes y otorgar irrestrictamente las facilidades y apoyo que les soliciten las autoridades u órganos de control en el ejercicio de sus facultades;
-
-VI.- Observar buena conducta en su empleo, cargo o comisión, tratando con respeto, diligencia, imparcialidad y rectitud a las personas con las que tenga relación con motivo de aquéllos;
-
-VII.- Tratar digna y respetuosamente a sus subalternos;
-
-VIII.- Respetar a sus superiores, cumpliendo las disposiciones que éstos dicten en el ejercicio de sus atribuciones;
-
-IX.- Comunicar por escrito al titular de la dependencia o entidad en la que presta sus servicios, el incumplimiento de las obligaciones establecidas en este artículo o las dudas fundadas que le suscite la procedencia de las órdenes que reciba;
-
-X.- Abstenerse de ejercer las funciones de su empleo, cargo o comisión después de concluido el período para el cual se le asignó o después de haber cesado, por cualquier otra causa, en el ejercicio de sus funciones, debiendo en todo caso entregar a quien su superior jerárquico designe o a quien legalmente deba sustituirlo, todos los recursos que haya tenido a su disposición, así como los documentos y asuntos relacionados con sus funciones en un término no mayor de cinco días hábiles, contados a partir de la fecha de su separación, debiendo levantarse acta administrativa circunstanciada ante el órgano de control que corresponda;
-
-XI.- Abstenerse de ocupar más de una plaza presupuestal o desempeñar algún otro empleo, cargo o comisión públicos por el que se disfrute de sueldo o que la Ley le prohiba, con excepción del ramo de la instrucción;
-
-XII.- Abstenerse de autorizar a sus subordinados a no asistir sin causa justificada a sus labores por más de tres días continuos o quince discontinuos en un año, así como de otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones, cuando no estén justificadas;
-
-XIII.- Abstenerse de seleccionar, contratar, nombrar o designar como servidor público a quien se encuentre inhabilitado por resolución firme de la autoridad competente para desempeñar un empleo, cargo o comisión en el servicio público; o a quien se encuentre sujeto a un procedimiento administrativo de responsabilidad.
-
-XIV.- Excusarse de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquéllos de los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
-
-XV.- Informar por escrito al jefe inmediato o en su caso al superior jerárquico sobre la atención, trámite o resolución de los asuntos a los que se refiere la fracción anterior y que sean de su conocimiento; y observar sus instrucciones por escrito sobre esos asuntos cuando el servidor público no pueda abstenerse de intervenir en ellos;
-
-XVI.- Desempeñar su empleo, cargo o comisión sin obtener o pretender obtener para sí o para las personas a que se refiere la fracción XIV, beneficios adicionales a las contraprestaciones que el Estado le otorgue por el desempeño de su función;
-
-XVII.- Abstenerse de intervenir, participar o proponer la selección, nombramiento, designación, contratación o promoción de las personas mencionadas en la fracción XIV;
-
-XVIII.- Abstenerse, durante el ejercicio de sus funciones, de solicitar, aceptar o recibir, por sí o por interpósita persona, dinero, bienes muebles o inmuebles, mediante enajenación a su favor, en precio notoriamente inferior al que tenga el bien de que se trate en el mercado ordinario, o cualquier donación, empleo, cargo o comisión para sí o las personas a que se refiere la fracción XIV y que procedan de cualquier persona física o moral, cuyas actividades profesionales, comerciales o industriales que se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público de que se trate en el desempeño de su empleo, cargo o comisión y que implique intereses en conflicto. Esta prevención es aplicable hasta un año después de que se haya retirado del empleo, cargo o comisión;
-
-XIX.- Presentar con oportunidad y veracidad la declaración de situación patrimonial ante la Contraloría General del Estado en los términos que señala la Ley;
-
-XX.- Informar al superior jerárquico todo acto u omisión de los servidores públicos sujetos a su dirección, que pueda implicar inobservancia de las obligaciones a que se refieren las fracciones de este artículo.
-
-Cuando el planteamiento que formule el servidor público a su superior jerárquico deba comunicarse a la Contraloría General del Estado, el superior procederá a hacerlo sin demora bajo su estricta responsabilidad;
-
-XXI.- Abstenerse de cualquier acto u omisión que implique incumplimiento de alguna disposición jurídica relacionada con el servicio público;
-
-XXII.- Abstenerse de tener colaboradores en el desempeño de su empleo, cargo o comisión, que no sean servidores públicos, salvo aquellos que colaboren con motivo de programas de servicio social o prácticas profesionales;
-
-XXIII.- Velar por la expedita administración pública, evitando en todo caso procedimientos innecesarios;
-
-XXIV.- Atender con diligencia las instrucciones y resoluciones de la Contraloría General del Estado dictadas conforme a las disposiciones del presente ordenamiento;
-
-XXV.- Abstenerse de impedir, por sí o por interpósita persona, utilizando cualquier medio, la formulación de quejas y denuncias; o que con motivo de las mismas, realice cualquier conducta injusta u omita una justa y debida, que lesione los intereses de los quejosos o denunciantes;
-
-XXVI.- Proporcionar en forma oportuna y veraz, la información y datos solicitados por la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos, a efecto de que ésta pueda cumplir con sus atribuciones;
-
-XXVII.- Abstenerse, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar pedidos o contratos relacionados con adquisiciones, enajenaciones, arrendamientos y mantenimiento de bienes muebles e inmuebles y la contratación de servicios y de obra pública, con quien desempeñe un empleo, cargo o comisión en el servicio público, o bien con las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Contraloría General del Estado, conforme a las disposiciones legales aplicables al titular de la dependencia o entidad de que se trate.
-
-Por ningún motivo podrá celebrarse pedido o contrato alguno con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
-
-XXVIII.- Proporcionar, en su caso, en tiempo y forma ante las dependencias competentes, la documentación comprobatoria de la aplicación de recursos económicos federales, estatales o municipales, asignados a través de los planes y programas respectivos;
-
-XXIX.- Proporcionar el apoyo, asistencia y atención que requiera el órgano de control interno de la dependencia, organismo auxiliar, fideicomiso o municipio, a efecto de que pueda cumplir con las atribuciones que le señalen las leyes, reglamentos y demás disposiciones aplicables;
-
-XXX.- Abstenerse de tramitar o intervenir como abogado, representante, apoderado o en cualquier otra forma semejante, en la atención de asuntos de los que haya tenido conocimiento, tramitado o que se encuentren en el área en la cual se desempeñó como servidor público. Esta prevención es aplicable hasta un año después de que el servidor público se haya retirado del empleo, cargo o comisión; y
-
-XXXI.- Las demás que les impongan las leyes y disposiciones reglamentarias o administrativas.
+Para este efecto, la Dirección General llevará un control de los expedientes de los internos a fin de precisar las fechas en que se deberá iniciar el procedimiento para resolver sobre la procedencia de los beneficios.
 
 ###### ARTICULO 71.
 
-Los servidores públicos que no cumplan con una o más de las obligaciones descritas en el artículo anterior, incurren en responsabilidad administrativa, motivando la instrucción de los procedimientos administrativos disciplinario o resarcitorio, ante los órganos correspondientes y la aplicación de las sanciones que en esta Ley se establecen.
+Al cumplirse la fecha a que se refiere el segundo párrafo del artículo anterior, se seguirá el procedimiento siguiente:
 
-## TITULO CUARTO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
+I.- Con base en el expediente de cada interno, de oficio, se solicitará al Director del Centro de Readaptación donde se encuentre el interno, que en un plazo no mayor de diez días hábiles integre el expediente relativo a la tramitación de los beneficios de que se trate y lo remita a la Dirección General.
 
-### CAPITULO I. De la Responsabilidad Administrativa Disciplinaria
+II.- Recibido el expediente en la Dirección General, ésta dictará la resolución que corresponda en un plazo no mayor de cinco días hábiles.
+
+III.- Para el caso de que el Director General considere incompleto el expediente u oscuro en cualquier parte, ordenará la integración y aclaración del mismo en un plazo que no exceda de setenta y dos horas, ampliándose el término para resolver.
+
+## TITULO CUARTO. DE LOS CENTROS DE READAPTACION SOCIAL
+
+### Capítulo III. Del Régimen de Tratamiento
 
 ###### ARTICULO 72.
 
-La Responsabilidad Administrativa Disciplinaria, tiene por objeto regular y sancionar las conductas de los servidores públicos que infrinjan alguna de las disposiciones administrativas contenidas en el Artículo 70 de esta Ley, sin perjuicio de la existencia de otra de cualquier naturaleza; inclusive de la administrativa resarcitoria.
+Para concederse la libertad condicional, la Dirección General de Prevención y Readaptación Social, recabará la información necesaria sobre la solvencia e idoneidad del fiador propuesto y resolverá si es o no de admitirse.
 
-Se incurre en dicha responsabilidad, por el incumplimiento de cualesquiera de las obligaciones a que se refiere el Artículo 70 de esta Ley, dando lugar a la instrucción del procedimiento administrativo ante los órganos disciplinarios y a la aplicación de las sanciones contenidas en la presente Ley.
-
-### CAPITULO II. Sanciones Disciplinarias y Procedimiento Administrativo para Aplicarlas
+### Capítulo IV. Del Régimen Educacional
 
 ###### ARTICULO 73.
 
-En las dependencias, entidades y organismos auxiliares de la Administración Pública Estatal, así como en los Municipios y órganos autónomos que reciban o administren fondos del Estado, se establecerán módulos específicos a los que el público tenga fácil acceso, para que cualquier interesado pueda presentar quejas o denuncias por incumplimiento de las obligaciones de los servidores públicos, con las que se iniciará, en su caso, el procedimiento disciplinario correspondiente.
+Toda resolución que se pronuncie contendrá las observaciones y antecedentes relacionados con la conducta del recluso durante su internamiento, su estado de salud y cuantos más datos demuestren que el sujeto se encuentra en condiciones de ser reintegrado a la vida social y que ha desaparecido su peligrosidad.
 
-Dichas quejas o denuncias se remitirán en un plazo que no exceda de cuarenta y ocho horas a los órganos de control interno competente o a la Contraloría General del Estado, según corresponda, para que las quejas o denuncias del público sean atendidas y resueltas.
-
-Lo propio harán, en la esfera de su competencia, los Poderes Legislativo y Judicial a través de sus órganos de control interno competentes.
+Así mismo, serán notificadas al Director del Centro de Readaptación y al interno.
 
 ###### ARTICULO 74.
 
-El órgano de control interno competente o la Contraloría General del Estado, el superior jerárquico y todos los servidores públicos, tienen la obligación de respetar y hacer respetar el derecho a la formulación de quejas y denuncias a que se refiere el artículo anterior, y evitar que con motivo de las mismas se causen molestias indebidas a quién las formule.
+Los Directores de los Centros, recibidas las resoluciones en que se otorguen los beneficios, deberán cumplirlas en un plazo no mayor de veinticuatro horas.
 
 ###### ARTICULO 75.
 
-La queja o denuncia deberá constar por escrito y reunir los siguientes requisitos:
+Las resoluciones que se dicten durante el trámite para la concesión de los beneficios de remisión parcial de la pena y de libertad condicional, incluso la que en su caso, los niegue, serán inimpugnables.
 
-I.- Nombre y domicilio de quien la formula;
-
-II.- Hechos en que se funde;
-
-III.- Pruebas que acrediten los hechos si obran en poder del quejoso o denunciante, o en su caso, señalar el lugar donde presuntamente se encuentran;
-
-IV.- Fecha de su interposición; y
-
-V.- Firma de quien la formula.
+## TITULO OCTAVO. DEL CASILLERO JUDICIAL
 
 ###### ARTICULO 76.
 
-Para los efectos de esta Ley, se entenderá por queja, la presentada por el particular directamente afectado; y por denuncia, aquella que se presenta por cualquier tercero que tenga conocimiento del incumplimiento de las obligaciones previstas en la presente Ley.
+En el Casillero Judicial del Estado, se llevará el registro y control de los antecedentes penales.
 
 ###### ARTICULO 77.
 
-Los servidores públicos deberán denunciar por escrito ante la Contraloría General del Estado o al órgano de control interno competente, los hechos que a su juicio impliquen incumplimiento de obligaciones de los servidores públicos sujetos a su dirección.
-
-La Contraloría General del Estado de oficio o a petición fundada del correspondiente órgano de control interno, podrá conocer de las infracciones que por su interés y trascendencia así lo ameriten.
-
-La Contraloría General del Estado informará al titular de la dependencia o entidad correspondiente, el inicio del procedimiento, a efecto de que nombre un representante ante la propia Contraloría a fin de que coadyuve con ésta durante la substanciación del mismo.
-
-Tratándose de denuncias contra los servidores públicos de los Poderes Legislativo y Judicial, de los órganos autónomos que reciban o administren fondos del Estado, o de los Municipios, las mismas se presentarán ante sus respectivos órganos de control interno competentes para determinar la responsabilidad e imponer la sanción que proceda.
+Para los efectos de la Ley, se consideran antecedentes penales, los datos registrales circunscritos a las sanciones que en sentencia definitiva imponga la autoridad judicial a las personas físicas, como consecuencia de los delitos que hayan cometido.
 
 ###### ARTICULO 78.
 
-Son autoridades competentes para substanciar el procedimiento de Responsabilidad Administrativa Disciplinaria e imponer las sanciones correspondientes las siguientes:
+Sólo a las autoridades que lo soliciten en el ejercicio de sus atribuciones, se proporcionarán los datos contenidos en el Casillero Judicial.
 
-I.- En el Poder Ejecutivo: La Contraloría General del Estado, los órganos de control internos de cada una de las dependencias o entidades o de los organismos auxiliares, los cuáles podrán identificar, investigar y determinar las responsabilidades de los servidores públicos, así como para imponer las sanciones disciplinarias a que se refiere el Artículo 80 de esta Ley;
-
-II.- En el Poder Legislativo: El órgano competente de conformidad con su Ley Orgánica, respecto a sus servidores públicos, quien además podrá identificar, investigar y determinar la responsabilidad de Presidentes Municipales, Regidores y Síndicos para imponer y aplicar las sanciones disciplinarias que correspondan en los términos de esta Ley;
-
-III.- En el Poder Judicial: El Consejo de la Judicatura Estatal, o el órgano competente de conformidad con su Ley Orgánica, quienes podrán identificar, investigar y determinar las responsabilidades de sus servidores públicos, derivadas del incumplimiento de las obligaciones a que se refiere el Artículo 70 de la presente Ley, así como imponer y aplicar las sanciones contempladas en el presente capítulo;
-
-IV.- En los órganos autónomos que reciban o administren fondos del Estado: El órgano de control interno competente; y
-
-V.- En los Municipios: El órgano de control interno municipal competente.
+Se prohibe proporcionar esta información a particulares, con excepción de quienes soliciten datos sobre su persona.
 
 ###### ARTICULO 79.
 
-Los servidores públicos de la Contraloría General del Estado o del órgano de control interno competente, que incurran en responsabilidad administrativa, serán sancionados conforme al presente capítulo por quien disponga su reglamento interior.
+Procederá la cancelación de un registro del Casillero Judicial, cuando:
+
+I.- Se dicte sentencia absolutoria definitiva.
+
+II.- A partir de la fecha en que se dé cumplimiento a la sentencia, transcurra un término de diez años y no se haya cometido otro delito durante el período.
+
+Para la cancelación del registro, se requerirá solicitud del interesado en la que acredite su procedencia.
+
+## TITULO NOVENO. DEL PATRONATO DE AYUDA PARA LA REINTEGRACION SOCIAL
 
 ###### ARTICULO 80.
 
-Las sanciones por Responsabilidad Administrativa Disciplinaria consistirán en:
+Se crea el Patronato de Ayuda para la Reintegración Social que tendrá por objeto prestar asistencia jurídica, moral, económica, médica, social y laboral a las personas que gocen de alguno de los beneficios de libertad establecidos en esta Ley o hayan obtenido su libertad absoluta. Su organización, administración y funcionamiento se regirán por el Reglamento Interno respectivo.
 
-I.- Amonestación privada o pública;
+El Patronato se integrará con el Director General de Prevención y Readaptación Social o por la persona que designe, quien lo presidirá, y con representantes de los sectores social y privado que deseen coadyuvar en estas acciones.
 
-II.- Suspensión en el empleo, cargo o comisión;
-
-III.- Destitución en el empleo, cargo o comisión;
-
-IV.- Sanción económica; e
-
-V.- Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
-
-La suspensión en el empleo, cargo o comisión no podrá ser menor de tres días, ni mayor de treinta.
-
-Tratándose de servidores públicos de base, la destitución se aplicará en los términos del Estatuto Jurídico de los Trabajadores al Servicios (sic) de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados o cualquier otro ordenamiento que la regule.
-
-La inhabilitación temporal para ejercer un empleo, cargo o comisión dentro del servicio público no podrá ser inferior a tres meses, ni mayor de quince años.
-
-Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro al servidor público o cause daños o perjuicios a la administración pública, será de uno a cinco años si el monto de los daños o perjuicios no excede de doscientas veces el salario mínimo diario general vigente en el Estado; de cinco a diez años si el monto de aquellos excede de doscientas veces el salario mínimo diario general vigente en el Estado pero no de quinientas; y de diez a quince años si excede de éste último límite.
-
-La inhabilitación y la destitución podrán imponerse conjuntamente con la sanción económica.
-
-Para que una persona que hubiere sido inhabilitada en términos de esta Ley, pueda desempeñar nuevamente un empleo, cargo o comisión en el servicio público una vez transcurrido el plazo de la inhabilitación impuesta, se requerirá que el superior jerárquico competente solicite autorización a la Contraloría General del Estado.
-
-La contravención a lo dispuesto por el párrafo que antecede, será causa de responsabilidad administrativa para el superior jerárquico en términos de esta Ley, quedando sin efecto el nombramiento o contrato que en su caso, se haya realizado.
+## TRANSITORIOS
 
 ###### ARTICULO 81.
 
@@ -813,7 +859,7 @@ II.- Auxilio de la fuerza pública.
 
 Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que prevenga la Legislación Penal.
 
-### CAPITULO III. De las Responsabilidades Administrativas Resarcitorias
+### Capítulo V. Del Régimen de Trabajo
 
 ###### ARTICULO 96.
 
@@ -855,7 +901,7 @@ I.- Se hubiere cometido la infracción, a partir de la existencia de la Responsa
 
 II.- Se levante el acta que contenga el pliego preventivo de responsabilidad.
 
-### CAPITULO IV. Del Recurso de Revocación
+### Capítulo VI. Del Régimen Disciplinario
 
 ###### ARTICULO 101.
 
@@ -889,7 +935,7 @@ c) Que la suspensión no traiga como consecuencia la consumación o continuació
 
 La resolución que ponga fin al recurso de revocación no admitirá instancia administrativa alguna.
 
-### CAPITULO V. De la Caducidad
+### Capítulo I. De su Cumplimiento
 
 ###### ARTICULO 105.
 
@@ -905,7 +951,7 @@ En todos los casos la caducidad a que alude este artículo se interrumpirá medi
 
 III.- El derecho de los particulares a solicitar la indemnización por reparación de daños y perjuicios, prescribirá en un año, contado a partir de la notificación que se le haga al particular de la resolución administrativa en donde se haya determinado la sanción por la responsabilidad administrativa del servidor público.
 
-### CAPITULO VI. De la Prescripción
+### Capítulo II. De su Quebrantamiento
 
 ###### ARTICULO 106.
 
@@ -927,9 +973,9 @@ De estos actos, gestiones o notificaciones, deberá existir una constancia escri
 
 En estos casos, el nuevo plazo comenzará a contarse a partir de la fecha en que cese la interrupción.
 
-## TITULO QUINTO. DEL REGISTRO PATRIMONIAL DE LOS SERVIDORES PUBLICOS
+## TITULO QUINTO. DEL REGIMEN DE READAPTACION SOCIAL
 
-### CAPITULO UNICO. De la Declaración de Situación Patrimonial
+### Capítulo III. De la Extinción
 
 ###### ARTICULO 108.
 
@@ -1102,3 +1148,19 @@ P.O. 14 DE JULIO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor a los treinta días siguientes de su publicación en la "Gaceta Oficial" del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de Ejecución de Sanciones para el Estado de Veracruz- Llave, de fecha doce de diciembre de mil novecientos cuarenta y siete y se derogan todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTICULO TERCERO.
+
+La obligación de los Municipios derivada de lo dispuesto por el artículo 75 de la Ley de Ejecución de Sanciones que con esta Ley se abroga, subsistirá, hasta en tanto se establecen por parte del Estado, las partidas presupuestales necesarias; correspondiendo a las Secretarías General de Gobierno y de Finanzas y Planeación, cuidar el estricto cumplimiento de esta disposición.
+
+DADA en el salón de sesiones de la H. Legislatura del Estado, en la ciudad de Xalapa- Enríquez, Veracruz, a los veintitrés días del mes de enero de mil novecientos noventa y dos.- PROFR. GERARDO VELASCO TOLEDO.- Rúbrica.- Diputado Presidente.- ING. FAUSTO AMADOR MIXTEGA.- Rúbrica.- Diputado Secretario".
+
+En cumplimiento de lo dispuesto por la fracción I del artículo 87 de la Constitución Política del Estado Libre y Soberano de Veracruz- Llave, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Estatal, en la ciudad de Xalapa- Enríquez, Veracruz, a los veintinueve días del mes de enero de mil novecientos noventa y dos. DANTE DELGADO.- Rúbrica.- Gobernador del Estado.- LIC. MIGUEL A. DIAZ PEDROZA.- Rúbrica.- Secretario General de Gobierno.- GERARDO POO ULIBARRI.- Rúbrica.- Secretario de Finanzas y Planeación.
