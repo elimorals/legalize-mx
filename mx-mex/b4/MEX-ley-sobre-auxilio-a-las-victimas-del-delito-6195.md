@@ -4,7 +4,7 @@ identifier: "MEX-ley-sobre-auxilio-a-las-victimas-del-delito-6195"
 country: "mx"
 rank: "ley"
 publication_date: "1969-08-20"
-last_updated: "1969-08-20"
+last_updated: "2009-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 LEY SOBRE AUXILIO A LAS VICTIMAS DEL DELITO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEPTIMO DE LA LEY DE PROTECCION A VICTIMAS DEL DELITO PARA EL ESTADO DE MEXICO, PUBLICADA EN LA G.G. DE 23 DE FEBRERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADA.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el 20 de agosto de 1969.
 
@@ -92,3 +94,21 @@ LIC. JUAN FERNANDEZ ALBARRAN.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 LIC. GUSTAVO A. BARRERA GRAF.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 23 DE FEBRERO DE 2009.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- El Ejecutivo del Estado preverá lo necesario para la creación, instalación, operación y funcionamiento del Sistema Integral de Protección a las Víctimas y Ofendidos del Delito, dentro del plazo de sesenta días hábiles contados a partir de la fecha en que entre en vigor.
+
+CUARTO.- El Ejecutivo del Estado instruirá la creación del Fondo para la Protección a las Víctimas y Ofendidos del Delito, dentro del presupuesto de egresos para el ejercicio fiscal del año 2010.
+
+QUINTO.- El Ejecutivo del Estado expedirá el Reglamento Interno del Órgano Rector, a que se refiere esta Ley, dentro del plazo de noventa días hábiles contados a partir de la fecha en que entre en vigor la presente Ley.
+
+SEXTO.- En tanto quede instalado el Sistema Integral de Protección a las Víctimas y Ofendidos del Delito, así como el Órgano Rector respectivo, las funciones que conforme a esta Ley sean de competencia de las dependencias, unidades administrativas y organismo autónomo que los conforman, las continuarán ejerciendo, conforme a los procedimientos que actualmente establezcan las leyes.
+
+SÉPTIMO.- Se abroga la Ley sobre Auxilio a las Víctimas del Delito publicada el 20 de agosto de 1969 y se derogan odas las disposiciones que se opongan a la presente Ley.
