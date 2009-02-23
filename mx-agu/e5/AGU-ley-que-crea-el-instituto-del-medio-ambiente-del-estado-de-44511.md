@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-el-instituto-del-medio-ambiente-del-estado-de-4451
 country: "mx"
 rank: "ley"
 publication_date: "2005-04-11"
-last_updated: "2005-04-11"
+last_updated: "2009-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44511&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY QUE CREA AL INSTITUTO DEL MEDIO AMBIENTE DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 11 de abril de 2005.
 
@@ -117,7 +117,9 @@ I.- Un Consejo Directivo; y
 
 II.- El Director General.
 
-En el Reglamento que se expida se establecerán los órganos auxiliares del órgano de gobierno que sean necesario para su eficaz desempeño.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2009)</small>
+
+En el Reglamento que se expida se establecerán los órganos auxiliares del órgano de gobierno que sean necesarios para su eficaz desempeño, en los que se deberá incluir una dirección o unidad administrativa equivalente, que se encargue de realizar todas las acciones en materia de biodiversidad.
 
 ###### ARTICULO 5.
 
@@ -294,3 +296,15 @@ Luis Armando Reynoso Femat
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 Lic. Jorge Mauricio Martínez Estebanez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE FEBRERO DE 2009.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+En un plazo que no excederá de treinta días naturales posteriores a la entrada en vigencia de este Decreto, se deberá adecuar el Reglamento Interior del Instituto del Medio Ambiente del Estado de Aguascalientes, para establecer la unidad administrativa que se encargará de realizar todas las facultades que en materia de biodiversidad se le confieren a dicho Instituto.
