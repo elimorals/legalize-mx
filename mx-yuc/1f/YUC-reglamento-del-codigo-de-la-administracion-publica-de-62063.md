@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2008-07-07"
+last_updated: "2009-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DEL CODIGO DE LA ADMINISTRACION PUBLICA DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE FEBRERO DE 2009.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -789,7 +789,7 @@ II. Subsecretaría de Gobierno y Desarrollo Político:
 
 a) Dirección de Gobierno;
 
-b) Procuraduría Local de la Defensa del Trabajo;
+b) (DEROGADO, D.O. 23 DE FEBRERO DE 2009)
 
 c) Dirección de Transporte;
 
@@ -821,9 +821,11 @@ II. El Centro Estatal de Desarrollo Municipal, el cual coordinará sus funciones
 
 III. La Oficina del Secretario Ejecutivo del Consejo Estatal de Seguridad Pública, la cual coordinará sus funciones con la Subsecretaría de Prevención y Seguridad Pública;
 
+> <small>(F. DE E., D.O. 26 DE FEBRERO DE 2009)</small>
+
 IV. El Centro Especializado en la Aplicación de Medidas para Adolescentes, el cual coordinará sus funciones con la Subsecretaría de Prevención y Seguridad Pública, y
 
-V. La Junta Local de Conciliación y Arbitraje del Estado.
+V. (DEROGADA, D.O. 23 DE FEBRERO DE 2009) (F. DE E., D.O. 26 DE FEBRERO DE 2009)
 
 ###### Artículo 39.
 
@@ -861,7 +863,9 @@ Apartado B. Delegables.
 
 I. Expedir, por acuerdo del Gobernador del Estado, las licencias, concesiones y permisos que no estén asignados específicamente a otras dependencias del Poder Ejecutivo;
 
-II. Conducir las relaciones del Ejecutivo del Estado con la Junta Local de Conciliación y Arbitraje, con el Tribunal de lo Contencioso Administrativo y con el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado, y
+> <small>(REFORMADA, D.O. 23 DE FEBRERO DE 2009)</small>
+
+II. Conducir las relaciones del Ejecutivo del Estado con el Tribunal de lo Contencioso Administrativo, y
 
 III. Guardar la relación que conforme a las normas jurídicas aplicables deba tener el Poder Ejecutivo del Estado o esta Secretaría con las autoridades especializadas en justicia para adolescentes.
 
@@ -945,7 +949,9 @@ VIII. Formular planes y programas, en materia agraria, competencia de la Secreta
 
 IX. Vigilar, en el ámbito de competencia de la Secretaría General de Gobierno, la aplicación de las disposiciones legales en materia electoral y de los convenios relativos;
 
-X. Auxiliar al Secretario General en la conducción de las relaciones del Poder Ejecutivo del Estado, con la Junta Local de Conciliación y Arbitraje del Estado, con el Tribunal de lo Contencioso Administrativo y con el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado, y
+> <small>(REFORMADA, D.O. 23 DE FEBRERO DE 2009)</small>
+
+X. Auxiliar al Secretario General en la conducción de las relaciones del Poder Ejecutivo del Estado, con el Tribunal de lo Contencioso Administrativo del Estado, y
 
 XI. Las demás que le encomienden otras disposiciones normativas aplicables.
 
@@ -975,19 +981,11 @@ X. Las demás que le encomienden otras disposiciones normativas aplicables.
 
 ###### Artículo 47.
 
-Al Procurador Local de la Defensa del Trabajo le corresponde el despacho de los siguientes asuntos:
-
-I. Conciliar los intereses de las partes obrera y patronal en las juntas de avenio que se realicen fuera de proceso, de las que deberá levantar actas que serán suscritas por los interesados;
-
-II. Representar o asesorar gratuitamente a los trabajadores y a sus sindicatos, siempre que lo soliciten, ante cualquier autoridad, en las cuestiones que se relacionen con la aplicación de las normas de trabajo;
-
-III. Interponer los recursos ordinarios y extraordinarios procedentes para la defensa del trabajador o sindicato, y
-
-IV. Las demás que le confieran la Ley Federal del Trabajo, y otras disposiciones normativas aplicables.
+(DEROGADO, D.O. 23 DE FEBRERO DE 2009)
 
 ###### Artículo 48.
 
-La Junta Local de Conciliación y Arbitraje del Estado tendrá las atribuciones que le confieren la Ley Federal del Trabajo y demás disposiciones legales aplicables.
+(DEROGADO, D.O. 23 DE FEBRERO DE 2009)
 
 ###### Artículo 49.
 
@@ -7687,7 +7685,7 @@ IV. Dirección de Administración y Finanzas;
 
 V. Dirección Jurídica, y
 
-VI. El Servicio Nacional de Empleo, Yucatán con carácter de Organismo Desconcentrado.
+VI. (DEROGADA, D.O. 23 DE FEBRERO DE 2009)
 
 ###### Artículo 475.
 
@@ -8017,11 +8015,11 @@ Los directores de esta Secretaría podrán participar en la elaboración y ejecu
 
 ###### Artículo 488.
 
-El Servicio Nacional de Empleo, Yucatán, tendrá las atribuciones que le confiere su Decreto de creación y las que establezcan otras disposiciones legales aplicables.
+(DEROGADO, D.O. 23 DE FEBRERO DE 2009)
 
 ###### Artículo 489.
 
-El Titular del Servicio Nacional de Empleo, Yucatán dependerá administrativamente del Secretario de Fomento Económico o del Subsecretario que el Titular de esta Secretaría determine, sin perjuicio de lo dispuesto en este Reglamento.
+(DEROGADO, D.O. 23 DE FEBRERO DE 2009)
 
 ## TÍTULO XV. SECRETARÍA DE FOMENTO TURÍSTICO
 
@@ -10455,9 +10453,293 @@ III. Dictar las medidas necesarias para que las Direcciones Generales y demás �
 
 IV. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
 
-## TÍTULO ÚNICO. DE LA INTEGRACIÓN Y FUNCIONAMIENTO DEL ÓRGANO DE GOBIERNO DE LOS ORGANISMOS DESCENTRALIZADOS
+> <small>(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, D.O. 23 DE FEBRERO DE 2009)</small>
 
-### CAPÍTULO I. Disposiciones generales
+## TÍTULO XX. SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 23 DE FEBRERO DE 2009)</small>
+
+### CAPÍTULO ÚNICO. De la organización y atribuciones De la Secretaría del Trabajo y Previsión Social
+
+> <small>(ADICIONADO, D.O. 23 DE FEBRERO DE 2009)</small>
+
+###### Artículo 562 Bis.
+
+Para el ejercicio de las atribuciones que le confiere el Código y el despacho de los asuntos de su competencia, la Secretaría del Trabajo y Previsión Social contará con la siguiente estructura administrativa:
+
+I. Unidad de Administración y Finanzas;
+
+II. Unidad de Previsión Social;
+
+III. Unidad Jurídica y de Inspección del Trabajo;
+
+IV. Unidad de Estadística Laboral e Informática;
+
+V. Unidad de Empleo y Productividad Laboral;
+
+VI. Procuraduría Local de la Defensa del Trabajo, y
+
+VII. Organismos desconcentrados:
+
+a) Servicio Nacional de Empleo, Yucatán, y
+
+b) Junta Local de Conciliación y Arbitraje.
+
+> <small>(ADICIONADO, D.O. 23 DE FEBRERO DE 2009)</small>
+
+###### Artículo 562 Ter.
+
+Los titulares de las unidades de la Secretaría, en lo general, tendrán las facultades y obligaciones siguientes:
+
+I. Emitir los dictámenes, opiniones, estudios e informes sobre los asuntos de su competencia, así como los que le encomiende el Titular;
+
+II. Expedir, conforme a las políticas establecidas por el Titular, certificaciones de constancias que obren en los expedientes relativos a los asuntos de su competencia;
+
+III. Someter a la consideración del Titular las propuestas de modificación a la organización, estructura administrativa, plantillas de personal, facultades y demás aspectos que permitan mejorar el funcionamiento de la Dirección a su cargo;
+
+IV. Atender y formular el proyecto de resolución de los recursos administrativos que se interpongan en asuntos de su competencia;
+
+V. Formular, para aprobación superior, los programas, anteproyectos de presupuesto y proyectos de acuerdos y resoluciones de la Dirección a su cargo, así como los lineamientos para su ejecución;
+
+VI. Proponer y, en su caso, implementar los programas de desarrollo y capacitación del personal a su cargo;
+
+VII. Coadyuvar en la ejecución de los programas de modernización, desconcentración y simplificación administrativa;
+
+VIII. Colaborar en la formulación de los anteproyectos de iniciativas de ley, reglamentos, decretos y acuerdos, que correspondan al ámbito de su competencia;
+
+IX. Establecer los procedimientos para la organización, registro, recopilación, control, clasificación y manejo eficiente de la información administrativa y contable existente en los archivos de su área;
+
+X. Integrar el archivo de las áreas a su cargo, las bases de información y los sistemas de seguimiento de proyectos o programas conforme a las normas vigentes establecidas;
+
+XI. Participar en la integración de la cuenta pública e informe de gobierno, así como los reportes y evaluaciones especiales que les corresponda, y
+
+XII. Las demás que le señalen este Reglamento y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O. 23 DE FEBRERO DE 2009)</small>
+
+###### Artículo 562 Quáter.
+
+El Secretario tendrá las siguientes facultades y obligaciones:
+
+I. Dirigir y coordinar la instalación y funcionamiento de las comisiones que se formen para regular las relaciones obrero patronales, así como vigilar su funcionamiento, en los términos establecidos por la legislación aplicable;
+
+II. Conducir las relaciones del Ejecutivo del Estado con la Junta Local de Conciliación y Arbitraje y con el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado;
+
+III. Conocer y someter a la consideración del Titular del Poder Ejecutivo del Estado, los programas estatales de empleo, capacitación, productividad y competitividad, y disponer lo necesario para su cumplimiento;
+
+IV. Conducir y evaluar la política estatal en materia de empleo y previsión social en el Estado;
+
+V. Participar en la integración y funcionamiento del respectivo Consejo Consultivo Estatal de Capacitación y Adiestramiento;
+
+VI. Participar en la integración y funcionamiento de la correspondiente Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo;
+
+VII. Intervenir en la ejecución de las medidas que se adopten para sancionar las violaciones que cometan los patrones en materia de seguridad e higiene y de capacitación y adiestramiento, y para corregir las irregularidades en las empresas o establecimientos sujetos a jurisdicción local, en términos de la Ley Federal del Trabajo y demás normatividad aplicable;
+
+VIII. Promover la congruencia de los programas, estrategias y acciones del sector trabajo, con los objetivos, políticas y líneas de acción establecidas en el Plan Estatal de Desarrollo;
+
+IX. Establecer mecanismos de coordinación con dependencias y organismos estatales y federales, así como con organizaciones de los sectores laboral y empresarial, a fin de desarrollar programas tendientes a elevar los niveles de empleo, y de la calidad y productividad del aparato productivo;
+
+X. Impulsar la realización de estudios e investigaciones orientadas a incrementar la competitividad del sector productivo de la entidad;
+
+XI. Emitir, de conformidad con las atribuciones de la Secretaría, las políticas, procedimientos y reglas de carácter técnico que deban observar las unidades administrativas adscritas a esta dependencia;
+
+XII. Promover la modernización administrativa, mejora regulatoria y gestión de la calidad en los trámites y servicios que ofrece la Secretaría;
+
+XIII. Desempeñar las comisiones y funciones que el Gobernador del Estado le confiera y mantenerlo informado sobre su desarrollo y cumplimiento, y
+
+XIV. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O. 23 DE FEBRERO DE 2009)</small>
+
+Artículo 562 Quintus. Al Titular de la Unidad de Administración y Finanzas le corresponde el despacho de los siguientes asuntos:
+
+I. Programar, organizar y controlar el suministro y aplicación de los recursos humanos, materiales, financieros y técnicos, así como los servicios generales necesarios para el funcionamiento de las unidades administrativas de la Secretaría;
+
+II. Integrar, en coordinación con las demás unidades administrativas, los anteproyectos de presupuesto de ingresos y egresos de la Secretaría y someterlos a la consideración del Secretario, así como realizar la calendarización de los recursos del presupuesto autorizado;
+
+III. Cumplir y hacer cumplir las normas y políticas aplicables en materia de administración de recursos humanos, materiales y financieros;
+
+IV. Apoyar, en el ámbito de su competencia, la elaboración de los programas de trabajo de las unidades administrativas de la Secretaría;
+
+V. Administrar los recursos humanos, materiales y financieros de la Secretaría, conforme a las normas contables y disposiciones legales aplicables;
+
+VI. Coordinar, consolidar y controlar la información sobre el ejercicio del gasto de la Secretaría e informar al Secretario sobre el comportamiento del mismo;
+
+VII. Promover y coordinar las actividades de capacitación, adiestramiento y motivación de los servidores públicos de la Secretaría, e integrar un archivo del historial del personal;
+
+VIII. Participar en el Comité de Adquisiciones y Servicios de la Secretaría e impulsar el cumplimiento de sus funciones, de acuerdo con la normatividad aplicable;
+
+IX. Coordinar y, en su caso, ejecutar los procesos para la adquisición de bienes y contratación de servicios que requiera la Secretaría, de acuerdo con la normatividad aplicable;
+
+X. Integrar el programa anual de adquisiciones, arrendamientos y servicios de la Secretaría, en coordinación con las unidades administrativas competentes;
+
+XI. Realizar el registro de los bienes muebles e inmuebles de la Secretaría y promover su mantenimiento y conservación;
+
+XII. Diseñar y proponer instrumentos técnico-administrativos para mejorar la administración de los recursos asignados a la Secretaría;
+
+XIII. Integrar y mantener actualizados, con la participación de las demás unidades administrativas, los manuales administrativos de la Secretaría, y
+
+XIV. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O. 23 DE FEBRERO DE 2009)</small>
+
+Artículo 562 Sextus. Al Titular de la Unidad de Previsión Social le corresponde el despacho de los siguientes asuntos:
+
+I. Promover, en el Estado, acciones para el bienestar físico, social y cultural de los trabajadores y sus familias, en los renglones de orientación ocupacional, y recreación, cultura y deporte, de acuerdo a los lineamientos establecidos en materia de previsión social en la legislación aplicable;
+
+II. Colaborar con las autoridades federales competentes, en materia de previsión social, de acuerdo a las disposiciones legales y al convenio de colaboración que, en su caso, se suscriba;
+
+III. Proporcionar asesoría en los rubros de previsión social, normas reguladoras del trabajo y ocupación de la mujer y de los adolescentes mayores de catorce años y menores de dieciséis años, así como de los trabajadores del campo;
+
+IV. Promover la constitución, registro y funcionamiento de las comisiones de seguridad e higiene, capacitación y adiestramiento, cuando se trate de empresas o establecimientos con circunscripción local, la capacitación de sus integrantes y proporcionar asesoría a dichas comisiones para el adecuado desempeño de sus funciones;
+
+V. Promover cursos de capacitación para personal profesional y técnico en materia de seguridad e higiene en el trabajo;
+
+VI. Recibir y turnar a la Unidad Jurídica y de Inspección del Trabajo, a la de Estadística Laboral e Informática de la Secretaría y a la Delegación Federal del Trabajo, la documentación relativa a las comisiones de seguridad e higiene;
+
+VII. Llevar a cabo programas de difusión y orientación para el debido cumplimiento de la normatividad laboral en materia de seguridad e higiene y medio ambiente en el trabajo y resolver las consultas que en el ámbito de su competencia le sean formuladas;
+
+VIII. Participar en la Semana Estatal de Seguridad e Higiene, y promover encuentros regionales para integrantes de comisiones, así como seminarios por ramo industrial para analizar los riesgos de trabajo;
+
+IX. Participar en la vigilancia de los centros de trabajo de competencia local, a fin de que éstos cumplan con las disposiciones de la Ley Federal del Trabajo en materia de capacitación y adiestramiento y de seguridad e higiene en el trabajo y con la demás normatividad que resulte aplicable;
+
+X. Facilitar información técnica y asesorar a los trabajadores y a los patrones sobre la manera más efectiva de cumplir las normas de trabajo;
+
+XI. Promover convenios de concertación con las organizaciones de trabajadores y de patrones, para instrumentar programas y campañas en materia de prevención de accidentes y enfermedades de trabajo;
+
+XII. Recibir y turnar a la Delegación Federal del Trabajo la documentación relativa a las solicitudes de registro, modificaciones y actualización de comisiones; planes y programas de capacitación y adiestramiento; solicitudes de registro de agentes capacitadores y documentación relativa a constancias de habilidades laborales, así como orientar a los particulares sobre los programas generales de capacitación y adiestramiento, y
+
+XIII. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O. 23 DE FEBRERO DE 2009)</small>
+
+Artículo 562 Séptimus. Al Titular de la Unidad Jurídica y de Inspección del Trabajo le corresponde el despacho de los siguientes asuntos:
+
+I. Acordar con el Secretario y mantenerlo permanentemente informado de los asuntos que por disposición legal le correspondan, así como del desempeño de las comisiones y funciones especiales que le confieran;
+
+II. Otorgar, conforme a lo dispuesto en la legislación aplicable, autorizaciones para el trabajo u ocupación para los adolescentes, previa verificación de:
+
+a) El certificado médico de aptitud física para el trabajo u ocupación;
+
+b) La solicitud de practica de exámenes médicos periódicos, y
+
+c) La constancia de estudios;
+
+III. Elaborar los proyectos de creación, modificación o desaparición de unidades administrativas de la Secretaría;
+
+IV. Elaborar y, en su caso, revisar los convenios, contratos y en general todo tipo de actos jurídicos en que participen las diversas unidades administrativas de la Secretaria, y fungir como asesor del comité de adquisiciones, arrendamientos y servicios de la Dependencia;
+
+V. Colaborar con las autoridades federales competentes, en materia de inspección del trabajo, de acuerdo a las disposiciones legales y al convenio de colaboración que, en su caso, se suscriba;
+
+VI. Vigilar el cumplimiento de las normas del trabajo, dentro del ámbito de su competencia;
+
+VII. Revisar las actas de inspección y, en su caso, calificar las violaciones detectadas a efecto de instaurar el procedimiento administrativo para aplicar las sanciones que correspondan;
+
+VIII. Poner en conocimiento de la Unidad de Previsión Social las necesidades obrero-patronales detectadas en las empresas o establecimientos en materia de seguridad e higiene, capacitación y adiestramiento y, en general, sobre condiciones laborales, y
+
+IX. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O. 23 DE FEBRERO DE 2009)</small>
+
+Artículo 562 Octavus. Al Titular de la Unidad Estadística Laboral e Informática le corresponde el despacho de los siguientes asuntos:
+
+I. Actualizar permanentemente la información estadística que le competa a la Secretaría;
+
+II. Coordinar, promover y evaluar el desarrollo y actualización del sistema integral de estadísticas del trabajo, de acuerdo con las disposiciones aplicables y los lineamientos generales que establezca la autoridad competente;
+
+III. Normar, coordinar, supervisar y ejecutar las tareas de recopilación, clasificación, procesamiento, análisis y divulgación de las estadísticas, con base en los registros resultantes del ejercicio de las facultades que tienen las diferentes áreas de la Secretaría, así como dependencias e instituciones vinculadas con el entorno laboral;
+
+IV. Coordinar y evaluar el diseño y la ejecución de encuestas por muestreo, a fin de captar información de interés para el sector laboral, de conformidad con las disposiciones aplicables y los lineamientos generales establecidos por la Dependencia competente, así como promover su utilización;
+
+V. Vigilar el cumplimiento de las normas establecidas para la captación, procesamiento, análisis y difusión de la información estadística laboral;
+
+VI. Evaluar en forma permanente las tendencias y evolución del mercado de trabajo del Estado en coordinación con la Unidad de Empleo y Productividad Laboral de la Secretaría;
+
+VII. Elaborar y difundir, previa autorización del Secretario, periódicamente la información sobre la situación que guarda el empleo y la ocupación en el Estado, con indicadores que contribuyan a la toma de decisiones estratégicas en materia de política laboral;
+
+VIII. Coordinar y proporcionar a las unidades administrativas responsables, informes estadísticos sobre la situación de entorno económico que influya en el ámbito laboral a nivel estatal y sectorial, así como las previsiones y proyecciones en la materia, en apoyo a sus actividades y procesos de evaluación;
+
+IX. Participar en reuniones, foros o grupos de trabajo interinstitucionales, cuyo fin sea la generación de estadísticas e indicadores que proporcionen un conocimiento amplio de la situación del empleo en el Estado;
+
+X. Implementar los sistemas y programas de operación computacional para el mejoramiento de las funciones de la Secretaría;
+
+XI. Supervisar y evaluar la eficacia de los sistemas y programas computacionales en relación con los resultados y actualizarlos con la debida oportunidad;
+
+XII. Proporcionar la asistencia técnica que requieran las áreas de trabajo de la Secretaría y dar el mantenimiento adecuado a los equipos de cómputo;
+
+XIII. Proponer las modificaciones en materia de informática que procuren el incremento en la eficacia de todas la áreas de la Secretaría de conformidad con las normas, estándares, políticas, lineamientos, procedimientos que establezca la Dirección General de Tecnologías de la Información de la Oficialía Mayor, y
+
+XIV. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O. 23 DE FEBRERO DE 2009)</small>
+
+Artículo 562 Novenus. Al Titular de la Unidad de Empleo y Productividad Laboral le corresponde el despacho de los siguientes asuntos:
+
+I. Investigar, desarrollar y divulgar métodos, técnicas y sistemas dirigidos al examen, diagnóstico y mejoramiento de los niveles de calidad y productividad de los centros de trabajo;
+
+II. Coadyuvar con las demás unidades de la Secretaría en el diseño, promoción e instrumentación de cursos y programas dirigidos a la formación especializada de recursos humanos para la organización y ejecución del proceso capacitador y para el mejoramiento de la calidad y productividad de los centros de trabajo;
+
+III. Establecer criterios para la ejecución del programa en materia de fomento al empleo, productividad e innovación laboral;
+
+IV. Coadyuvar con las unidades que correspondan en el diseño, promoción, organización e impartición de cursos de formación y capacitación de administración del trabajo, cultura laboral, calidad y productividad en la micro, pequeñas y medianas empresas;
+
+V. Promover y apoyar las evaluaciones de impacto, operación consistencia y resultados del programa en materia de empleo, productividad e innovación laboral;
+
+VI. Compilar, difundir y promover las mejores prácticas del programa en materia de empleo, productividad e innovación laboral;
+
+VII. Fomentar la colaboración con instituciones de educación superior, organismos y entidades de los sectores público, privado y social, para el análisis y estudio de temas laborales de interés general, con el fin de fomentar la productividad, la innovación laboral, la calidad y el empleo;
+
+VIII. Promover y dar seguimiento a los acuerdos generados a través de las instancias de dialogo y concertación con los sectores productivos, para fomentar el empleo, la productividad y la innovación laboral;
+
+IX. Coadyuvar con las demás unidades de la Secretaría en la modernización de las organizaciones sindicales, a través del desarrollo y ejecución de programas de formación sindical que promuevan la nueva cultura laboral y propicien la productividad y la competitividad;
+
+X. Propiciar la celebración de convenios de concertación con las organizaciones de la sociedad civil, en los ámbitos educativo, académico, productivo y gremial, entre otros, con objeto de promover la productividad en el trabajo;
+
+XI. Participar en las acciones de análisis sobre la ejecución de los programas sujetos a reglas de operación, en materia de empleo, productividad e innovación laboral y, en su caso, sugerir la adopción de las medidas que mejoren su desempeño;
+
+XII. Vincular al sector académico con los sectores productivos para el desarrollo de investigaciones y programas tendientes a fomentar la normalización y certificación de competencia laboral, la innovación tecnológica, la productividad, y la competitividad de las empresas, en coordinación con los organismos, instancias y centros de investigación científicos y tecnológicos involucrados en estas materias;
+
+XIII. Intercambiar información con organismos empresariales y consejos dedicados a la investigación del empleo, la productividad y desarrollo científico y tecnológico, tendiente a mejorar la competitividad en el Estado;
+
+XIV. Elaborar y operar, de manera conjunta con el Servicio Nacional de Empleo, Yucatán los programas de capacitación de trabajadores;
+
+XV. Organizar, promover, supervisar y brindar asesoría en materia de capacitación y adiestramiento de los trabajadores en activo y grupos en situación de vulnerabilidad laboral;
+
+XVI. Identificar perfiles de capacidad laboral para diseñar, promover, instrumentar y evaluar cursos y programas de capacitación y adiestramiento dirigidos al desarrollo del capital humano;
+
+XVII. Diseñar, promover, instrumentar, impartir, evaluar y dar seguimiento a cursos y programas dirigidos a la formación especializada de instructores para la organización y ejecución de procesos de capacitación y adiestramiento en las empresas;
+
+XVIII. Desarrollar políticas públicas orientadas a mejorar las relaciones y ambiente aborales, a través del diseño, promoción y difusión de modelos y programas de innovación laboral y someterlas a consideración del Secretario;
+
+XIX. Elaborar y promover estrategias para apoyar al sector productivo en su organización interna, procesos y en el desarrollo del capital humano;
+
+XX. Promover estrategias que impulsen en las empresas la generación de acciones de innovación, que aprovechen el potencial creativo de los integrantes de la plantilla laboral, su conocimiento y experiencia acumulada;
+
+XXI. Desarrollar y proponer a las organizaciones empresariales y a las universidades e instituciones de educación técnica y superior, modelos de vinculación que facilite la empleabilidad de sus egresados;
+
+XXII. Dar seguimiento a las acciones de vinculación educación-empresa, a fin de medir su impacto en la inserción laboral, y
+
+XXIII. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O. 23 DE FEBRERO DE 2009)</small>
+
+Artículo 562 Décimus. La Junta Local de Conciliación y Arbitraje del Estado y el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado, dependerán administrativamente de la Secretaría, sin perjuicio de su autonomía jurisdiccional y tendrán las atribuciones que les confieren la Ley Federal del Trabajo y la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán, respectivamente, y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O. 23 DE FEBRERO DE 2009)</small>
+
+Artículo 562 Undécimus. El Servicio Nacional de Empleo, Yucatán, tendrá las atribuciones que le confiere su Decreto de creación y las que establezcan otras disposiciones legales aplicables, en los términos que le señalen el Titular de la Secretaría, con base en el Código de la Administración Pública de Yucatán. Su Titular dependerá administrativamente del Secretario.
+
+> <small>(ADICIONADO, D.O. 23 DE FEBRERO DE 2009)</small>
+
+Artículo 562 Duodécimus. A la Procuraduría Local de la Defensa del Trabajo le corresponde el despacho de los siguientes asuntos:
+
+I. Conciliar los intereses de las partes obrera y patronal en las juntas de avenio que se realicen fuera de proceso, de las que deberá levantar actas que serán suscritas por los interesados;
+
+II. Representar o asesorar gratuitamente a los trabajadores y a sus sindicatos, siempre que lo soliciten, ante cualquier autoridad, en las cuestiones que se relacionen con la aplicación de las normas de trabajo;
+
+III. Interponer los recursos ordinarios y extraordinarios procedentes para la defensa del trabajador o sindicato, y
+
+IV. Las demás que le confieran la Ley Federal del Trabajo, y otras disposiciones normativas aplicables.
 
 ###### Artículo 563.
 
@@ -10609,7 +10891,9 @@ V. Las demás que establezcan este Reglamento y otras disposiciones legales apli
 
 Corresponde al Director General de la entidad o su equivalente, elaborar y presentar al Órgano de Gobierno en la primera sesión del año, el proyecto de calendario para la celebración de las sesiones ordinarias de los Órganos de Gobierno.
 
-### CAPÍTULO II. De la integración del Órgano de Gobierno
+## TÍTULO ÚNICO. DE LA INTEGRACIÓN Y FUNCIONAMIENTO DEL ÓRGANO DE GOBIERNO DE LOS ORGANISMOS DESCENTRALIZADOS
+
+### CAPÍTULO I. Disposiciones generales
 
 ###### Artículo 574.
 
@@ -10689,7 +10973,7 @@ La lista de los miembros asistentes, en la que se registrará el nombre completo
 
 Para la validez de las reuniones del Órgano de Gobierno se requiere de un quórum de asistencia de, por lo menos, la mitad más uno de sus miembros.
 
-### CAPÍTULO III. De la Suplencia de los miembros propietarios del Órgano de Gobierno
+### CAPÍTULO II. De la integración del Órgano de Gobierno
 
 ###### Artículo 585.
 
@@ -10797,7 +11081,7 @@ La extinción de los fideicomisos se formalizará mediante la firma del convenio
 
 En el caso de que el Comité Técnico no hubiere sesionado durante el año anterior a la fecha en que se autorice la extinción del fideicomiso, la Dependencia Coordinadora de Sector, con base en las propuestas que formule la fiduciaria someterá a la aprobación de la Secretaría de Planeación y Presupuesto como fideicomitente único de la Administración Pública Estatal, las acciones que deba adoptar con respecto a la extinción del fideicomiso.
 
-### CAPÍTULO IV. De las atribuciones del Órgano de Gobierno
+### CAPÍTULO III. De la Suplencia de los miembros propietarios del Órgano de Gobierno
 
 ###### Artículo 596.
 
@@ -10866,6 +11150,8 @@ III. El número de folio registral que le corresponda, y
 IV. La firma del Director del Registro de Organismos Descentralizados del Estado.
 
 # LIBRO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
+
+### CAPÍTULO IV. De las atribuciones del Órgano de Gobierno
 
 ### CAPÍTULO V. De las facultades y obligaciones del Presidente del Órgano de Gobierno
 
@@ -11062,3 +11348,11 @@ SECRETARIO DE LA CONTRALORÍA GENERAL
 C. JESÚS RIVERO COVARRUBIAS
 
 COORDINADOR GENERAL DE COMUNICACIÓN SOCIAL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O. 23 DE FEBRERO DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+SEGUNDO. Se derogan las disposiciones de igual o menor rango que se opongan a lo dispuesto por este Decreto.
