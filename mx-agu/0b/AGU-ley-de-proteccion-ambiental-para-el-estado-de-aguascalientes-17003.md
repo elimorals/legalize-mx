@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2009-02-09"
+last_updated: "2009-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCION AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2009.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -43,35 +43,45 @@ LEY DE PROTECCION AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
 ### CAPITULO I
 
-###### ARTICULO 1º.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
-La presente Ley regula la preservación y restauración del ambiente en el territorio del Estado de Aguascalientes. Sus disposiciones son de orden público e interés social y tienen por objeto:
+###### ARTÍCULO 1º.
+
+La presente Ley es de orden público, interés social y de observancia obligatoria en el Estado de Aguascalientes y tiene como objeto proteger el ambiente, conservar el patrimonio natural y propiciar el desarrollo sustentable del Estado, así como:
 
 I. Establecer los mecanismos para otorgar a los habitantes en el Estado el derecho a un ambiente adecuado para su bienestar y desarrollo;
 
 II. Garantizar que el desarrollo estatal sea integral y sustentable;
 
-III. Definir los principios mediante los cuales se habrá de formular, conducir y evaluar la política ambiental en el Estado, así como los instrumentos y procedimientos para su aplicación;
+III. Definir los principios mediante los cuales se habrá de formular, conducir y evaluar la política ambiental en el Estado, así como los instrumentos y procedimiento para su aplicación;
 
-IV. Establecer las facultades de las autoridades estatales y municipales en materia de preservación y restauración del ambiente, protección de los ecosistemas y prevención de daños al ambiente;
+IV. Establecer las facultades de las autoridades estatales y municipales en materia de conservación, preservación, restauración y protección de los ecosistemas y del ambiente, así como tratándose de la prevención de daños a los mismos;
 
-V. Preservar y restaurar, así como prevenir daños al ambiente, de manera que sea compatible la obtención de beneficios económicos y las actividades de la sociedad con la preservación de los ecosistemas;
+V. Conservar y preservar el ambiente, así como restaurar y prevenir los daños que le hayan sido o puedan serle ocasionados, de manera que tales acciones y medidas sean compatibles con la obtención de beneficios económicos, las actividades de la sociedad y la sustentabilidad de los ecosistemas;
 
-VI. Preservar y proteger la diversidad biológica, establecer, regular y administrar las áreas naturales protegidas de competencia del Estado y los Municipios, así como manejar y vigilar las que se asuman por convenio con la Federación;
+VI. Conservar, preservar y proteger la diversidad biológica;
 
 VII. Prevenir y controlar la contaminación atmosférica, del agua y del suelo en las áreas que no sean competencia de la Federación;
 
-VIII. Establecer las medidas de control, de seguridad y las sanciones administrativas y penales que correspondan, para garantizar el cumplimiento y la aplicación de esta Ley y de las disposiciones que de ella se deriven; y
+VIII. Prevenir, reducir, mitigar y, en su caso, compensar los efectos adversos o alteraciones de carácter antropogénico que se ocasionen o pudieran ocasionarse al ambiente y sus recursos, mediante el establecimiento de requisitos, especificaciones, condiciones, procedimientos, metas, parámetros y límites permisibles que deberán observarse tanto en el aprovechamiento de los recursos naturales y en el desarrollo de las diferentes actividades económicas, como en el uso y el destino de los bienes, insumos y residuos de los diferentes procesos a través de los cuales se realizan;
 
-IX. Regular la responsabilidad por daños al ambiente y establecer los mecanismos adecuados para garantizar la internalización de los costos ambientales en los procesos productivos.
+IX. Establecer las medidas de control, de seguridad y las sanciones administrativas que correspondan, para garantizar el cumplimiento y la aplicación de esta Ley y de las disposiciones que de ellas se deriven;
+
+X. Regular la responsabilidad por daños al ambiente y establecer los mecanismos adecuados para garantizar la internalización de las costos ambientales en los procesos productivos; y
+
+XI. Establecer medidas y mecanismos para crear conciencia en la población aguascalentense sobre la importancia de la participación ciudadana para contribuir a la solución de la problemática ambiental.
 
 ###### ARTICULO 2°.
 
 Se consideran de utilidad pública:
 
-I. El ordenamiento ecológico del territorio estatal en los casos previstos por esta Ley y demás leyes aplicables; y
+I. El ordenamiento ecológico del territorio estatal en los casos previstos por esta Ley y demás leyes aplicables; y (sic)
 
-II. El establecimiento, protección y preservación de las áreas naturales protegidas de interés estatal y municipal.
+II. El establecimiento, protección y preservación de las áreas naturales protegidas de interés estatal y municipal;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2009)</small>
+
+III. Promover y fomentar actividades de investigación científica para la exploración, estudio, protección y utilización de los recursos biológicos tendientes a conservar los ecosistemas del Estado y a generar su manejo racional.
 
 ###### ARTICULO 3°.
 
@@ -137,11 +147,17 @@ XXVI. REUSO: Es la acción de aprovechar un residuo sin un proceso previo de tra
 
 XXVII. VERIFICACION VEHICULAR: Es la medición de la cantidad de contaminantes atmosféricos emitidos por las fuentes móviles;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
 
-XXVIII. PROCURADURÍA: Procuraduría Estatal de Protección al Ambiente; y
+XXVIII. PROCURADURÍA: Procuraduría Estatal de Protección al Ambiente;
 
-XXIX. TRATAMIENTO: Acción de transformar los residuos, por medio de la cual se cambian sus características.
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
+
+XXIX. TRATAMIENTO: Acción de transformar los residuos, por medio de la cual se cambian sus características; y
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2009)</small>
+
+XXX. BIODIVERSIDAD: la variedad de ecosistemas, especies presentes y pasadas y su variabilidad genética, así como la variedad de plantas domesticadas por el hombre y sus parientes silvestres.
 
 Las definiciones contenidas en la Ley General, la Ley de Aguas Nacionales, Ley Forestal, sus reglamentos y demás leyes aplicables, serán consideradas en los casos no previstos por esta Ley.
 
@@ -249,17 +265,37 @@ XXV. Ejercer todas aquellas acciones tendientes a la preservación y restauraci�
 
 XXVI. Instalar y coordinar el Consejo Consultivo Estatal de Gestión Ambiental;
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
 
-XXVII. Vigilar el manejo adecuado de los residuos sólidos municipales, verificando en todo momento el cumplimiento de la prohibición de incineración de éstos;
+XXVII. Vigilar y promover el cumplimiento de esta Ley y los demás ordenamientos aplicables;
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
 
-XXVIII. Vigilar y promover el cumplimiento de esta Ley y los demás ordenamientos aplicables; y
+XXVIII. Generar, compilar y manejar información para el establecimiento de un programa sobre los inventarios biológicos y paleontológicos del Estado que aporten elementos para conocer cualitativa y cuantitativamente la distribución de las diversas especies de flora y fauna presentes y pasadas en todo el territorio del Estado;
 
-> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE FEBRERO DE 2009)</small>
 
-XXIX. Las demás atribuciones que conforme a esta u otras leyes o disposiciones reglamentarias le correspondan.
+XXIX. Sintetizar la información relativa a los recursos biológicos y paleontológicos del Estado, en un banco de datos que deberá mantenerse permanentemente actualizado;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2009)</small>
+
+XXX. Promover el desarrollo de proyectos concernientes al uso potencial de los recursos biológicos convencionales y no convencionales;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2009)</small>
+
+XXXI. Asesorar en aspectos técnicos y de investigación aplicada tanto a los organismos gubernamentales como a los sectores social y privado, en relación con la utilización y la conservación de los recursos biológicos y paleontológicos;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2009)</small>
+
+XXXII. Difundir a nivel nacional y regional la riqueza biológica y paleontológica del Estado, sus diversas formas de utilización y aprovechamiento para el ser humano, así como realizar la más amplia divulgación respecto a las medidas que se propongan para evitar el deterioro y la destrucción de estos recursos;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2009)</small>
+
+XXXIII. Generar conocimientos que contribuyan al aprovechamiento racional y la conservación de la biodiversidad, vestigios paleontológicos y demás recursos naturales; y
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2009)</small>
+
+XXXIV. Las demás atribuciones que conforme a ésta u otras leyes o disposiciones reglamentarias le correspondan.
 
 > <small>(ADICIONADO, P.O. 23 DE JULIO DE 2007)</small>
 
@@ -739,7 +775,9 @@ El desarrollo de la auditoría ambiental es de carácter estrictamente voluntari
 
 El Instituto tendrá a su cargo la administración de un fondo ambiental, el cual será creado de conformidad con la legislación ambiental respectiva, cuyos recursos se destinarán a:
 
-I. La realización de acciones de preservación y restauración de la biodiversidad;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
+
+I. La realización de acciones en materia de biodiversidad para promover y fomentar actividades de investigación científica, con fines de exploración, estudio, protección y utilización de los recursos biológicos, para conservar los ecosistemas del Estado, su restauración y manejo racional;
 
 II. El desarrollo de programas vinculados con inspección y vigilancia en las materias a que se refiere esta Ley; y
 
@@ -2270,3 +2308,13 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 P.O. 9 DE FEBRERO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE FEBRERO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo que no excederá de treinta días naturales posteriores a la entrada en vigencia de este Decreto, se deberá adecuar el Reglamento Interior del Instituto del Medio Ambiente del Estado de Aguascalientes, para establecer la unidad administrativa que se encargará de realizar todas las facultades que en materia de biodiversidad se le confieren a dicho Instituto.
