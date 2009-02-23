@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-comite-de-control-y-evaluacion-de-52157"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-10-25"
-last_updated: "2006-10-25"
+last_updated: "2009-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION DE SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE FEBRERO DE 2009.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el miércoles 25 de octubre se 2006.
 
@@ -61,7 +61,9 @@ El Comité de SEIEM se integrará de la siguiente forma:
 
 I. Presidente - Director General
 
-II. Vocal - Director de Control y Evaluación de Educación Básica y Cultura de la Secretaría de la Contraloría
+> <small>(REFORMADA, G.G. 23 DE FEBRERO DE 2009)</small>
+
+II. Vocal - Director General de Control y Evaluación “A” de la Secretaría de la Contraloría
 
 III. Vocal - Coordinador de Operación Educativa
 
@@ -102,6 +104,10 @@ Cada integrante propietario del Comité, con excepción del Presidente y del Sec
 Los miembros titulares y suplentes del Comité tendrán voz y voto, con excepción del Comisario, y el Jefe de la Unidad de Asuntos Jurídicos quienes únicamente tendrán voz.
 
 Los miembros del Comité durarán en su cargo entre tanto conserven el carácter por el cual forman parte del mismo.
+
+> <small>(ADICIONADO, G.G. 23 DE FEBRERO DE 2009)</small>
+
+En caso de que cambie de denominación alguna o algunas de las unidades administrativas que integran este Comité, la de nueva creación sustituirá a la que corresponda de acuerdo a sus funciones, sin que se haga necesaria la reforma de este reglamento.
 
 ###### Artículo 4.
 
@@ -145,15 +151,19 @@ X. Analizar y evaluar la formulación y ejercicio del presupuesto y de las dispo
 
 XI. Emitir opinión sobre los asuntos que el Consejo Directivo y/o el Director General le encomiende.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 23 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 8.
 
-El Comité deberá sesionar semestralmente en forma ordinaria y de manera extraordinaria en términos del artículo 24 de este reglamento y de acuerdo a lo siguiente:
+El Comité deberá celebrar al menos cuatro sesiones ordinarias, una por trimestre y de manera extraordinaria en términos del artículo 24 de éste reglamento y de acuerdo a lo siguiente:
 
 I. En la última sesión del Comité del ejercicio de que se trate, deberán fijarse las fechas en las que se efectuarán las sesiones ordinarias del siguiente ejercicio presupuestal.
 
 II. Las sesiones ordinarias se realizarán previa convocatoria suscrita por el Secretario, quien la remitirá a los integrantes del Comité por lo menos con cinco días hábiles de anticipación, dando a conocer el orden del día, acompañado con la documentación complementaria de los asuntos a tratar.
 
-III. Las sesiones extraordinarias se realizarán previa convocatoria suscrita por el Secretario, a solicitud de cualquier integrante del Comité en los términos del artículo 24 del presente ordenamiento, quien la remitirá a los integrantes por lo menos con tres días hábiles de anticipación, dando a conocer el orden del día, acompañado con la documentación complementaria de los asuntos a tratar.
+> <small>(REFORMADA, G.G. 23 DE FEBRERO DE 2009)</small>
+
+III. Las sesiones extraordinarias se realizaran previa convocatoria suscrita por el Secretario, a solicitud de cualquier integrante del Comité en los términos del artículo 24 del presente ordenamiento, quien remitirá a los integrantes por lo menos con tres días hábiles de anticipación, dando a conocer el orden del día, acompañado con la documentación complementaria de los asuntos a tratar.
 
 IV. El Secretario, previo acuerdo con el Presidente del Comité, con base en el artículo 9 del presente reglamento, podrá convocar sólo a los integrantes del comité que tengan injerencia en los asuntos a tratar en el orden del día, sin prejuicio de que sí considera necesaria la presencia de otros integrantes, estos sean convocados.
 
@@ -416,3 +426,13 @@ Lic. Rogelio Tinoco García
 Director General de SEIEM y Secretario del Consejo Directivo
 
 (Rúbrica).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 23 DE FEBRERO DE 2009.
+
+PRIMERO: Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO: El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO: Se derogan las disposiciones de igual o menor rango que se opongan al presente Acuerdo.
