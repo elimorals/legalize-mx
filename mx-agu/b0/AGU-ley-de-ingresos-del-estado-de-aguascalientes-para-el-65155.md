@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-estado-de-aguascalientes-para-el-65155"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2008-12-31"
-last_updated: "2008-12-31"
+last_updated: "2009-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65155&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 
 LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2009
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2009.
 
-Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el miércoles 31 de diciembre de 2008.
+Ley publicada en la Primera Sección al Periódico Oficial del Estado de Aguascalientes, el miércoles 31 de diciembre de 2008.
 
 LUIS ARMANDO REYNOSO FEMAT, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
 
@@ -29631,6 +29631,50 @@ A) IDEA
 
 a) Renta Auditorio Jesús Reyes Héroles por evento 500
 
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2009)</small>
+
+b) Examen deportivo para selectivos
+
+1) Niños de 5 a 12 años 170
+
+2) Otros 280
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2009)</small>
+
+c) Inscripciones y reinscripciones para selectivos
+
+1) Niños de 5 a 12 años 580
+
+2) Otros 690
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2009)</small>
+
+d) Por servicios deportivos a selectivos durante el mes de agosto
+
+1) Niños de 5 a 12 años 490
+
+2) Otros 690
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2009)</small>
+
+e) Por servicios deportivos a selectivos, cada mes
+
+1) Niños de 5 a 12 años 980
+
+2) Otros 1,370
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2009)</small>
+
+f) Evaluación extraordinaria para selectivos 120
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2009)</small>
+
+g) Constancia para selectivos 30
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2009)</small>
+
+h) Reposición de credencial para selectivos 30
+
 B) IV CENTENARIO
 
 a) Entrada General por persona 4
@@ -30686,3 +30730,11 @@ Luis Armando Reynoso Femat.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Juan Ángel José Pérez Talamantes.
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.
+
+P.O. 23 DE FEBRERO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
