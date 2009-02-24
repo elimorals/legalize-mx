@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-prevenir-la-violencia-en-los-espectaculos-50293"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-03"
-last_updated: "2008-10-03"
+last_updated: "2009-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50293&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2006-04-11"
 
 LEY PARA PREVENIR LA VIOLENCIA EN LOS ESPECTACULOS DEPORTIVOS EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE FEBRERO DE 2009.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 3 de mayo de 2006.
 
@@ -242,9 +242,9 @@ VII.- Resarcir, de conformidad con las leyes aplicables, a quien sufra daños, l
 
 VIII.- Instalar un sistema de sonido con capacidad y alcance en el interior y en las entradas del Recinto Deportivo;
 
-> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 24 DE FEBRERO DE 2009)</small>
 
-IX.- Instalar cámaras de video con circuito cerrado al interior del Recinto Deportivo, suficientes para cubrir todos los espacios del recinto, así como pasillos, entradas y salidas, conservando las grabaciones y en su caso, entregarlas a la Procuraduría previa petición;
+IX.- Instalar cámaras de video con circuito cerrado al interior del Recinto Deportivo, suficientes para cubrir todos los espacios del recinto, así como pasillos, entradas y salidas conservando las grabaciones y en su caso entregarlas a la Procuraduría previa petición de ésta en los casos de violencia para que en términos de la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal sea utilizada en los procedimientos judiciales o administrativos como medio de prueba;
 
 X.- Difundir las medidas de seguridad, así como los riesgos del recinto deportivo;
 
@@ -376,6 +376,10 @@ Las sanciones económicas deberán fijarse entre el mínimo y el máximo estable
 
 Las sanciones establecidas en la presente Ley, se aplicarán sin perjuicio de las previstas en otros ordenamientos aplicables.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 24 DE FEBRERO DE 2009)</small>
+
+Cuando en los procedimientos que establece esta Ley, obren pruebas obtenidas por Seguridad Pública con equipos y sistemas tecnológicos, las mismas se apreciarán y valorarán en términos de la Ley que Regula el Uso de Tecnología para la Seguridad Pública del Distrito Federal.
+
 ###### Artículo 20.
 
 Las sanciones aplicables previstas por el incumplimiento de las disposiciones de la presente Ley, serán:
@@ -463,3 +467,9 @@ Primero.- El presente decreto se publicará en la Gaceta Oficial del Distrito Fe
 Segundo.- Iniciará su vigencia a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Tercero.- Publíquese en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 24 DE FEBRERO DE 2009.
+
+PRIMERO.- El presente decreto iniciará su vigencia a partir del día siguiente de su publicación.
+
+SEGUNDO.- Se deroga toda disposición que se oponga al presente decreto.
