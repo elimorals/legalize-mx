@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2008-12-25"
+last_updated: "2009-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2009.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -801,9 +801,9 @@ VII. Fijar las bases para que el Ejecutivo Estatal lleve a cabo la contratación
 
 VIII. Fijar las bases, mediante la expedición de la ley correspondiente, para que el Ejecutivo Estatal lleve a cabo la celebración de contratos de servicios o de obras en los cuales se afecten en garantía tanto las participaciones que en ingresos federales le correspondan al Estado, como los ingresos estatales que sean susceptibles de afectación;
 
-> <small>(REFORMADA, P.O. 14 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2009)</small>
 
-IX. Autorizar la enajenación y gravamen de los bienes muebles e inmuebles del Estado y de los Municipios, conforme a la ley. La venta de los bienes muebles se verificará en pública subasta, siempre que éstos hayan sido declarados inútiles a juicio del Congreso;
+IX. Autorizar la enajenación de los bienes inmuebles del Estado y de los Municipios conforme a la ley, así como el gravamen de los bienes del dominio privado, cuando dicho acto implique una duración mayor al período para el cual hubieren sido electos;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -817,9 +817,9 @@ XII. Conceder permisos y decretar honores por servicios eminentes prestados a la
 
 XIII. Expedir leyes para la jubilación de los maestros de instrucción pública que lo merezcan en atención a la antigüedad y eficacia de sus servicios;
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2009)</small>
 
-XIV. Decretar pensiones en favor de las familias de los que hayan prestado servicios eminentes al Estado y a los empleados del mismo por jubilación;
+XIV. Decretar pensiones en favor de las familias de quienes hayan prestado servicios eminentes al Estado; a los empleados del mismo por jubilación, y al cónyuge supérstite e hijos de los servidores públicos pertenecientes a las instituciones policiales y de procuración de justicia del Estado que hayan perdido la vida en cumplimiento de su deber;
 
 XV. Iniciar ante el Congreso General las leyes y decretos que sean de la competencia del Poder Legislativo de la Federación, así como la (sic) reformas o derogación de unas y otras, y secundar cuando lo estime conveniente, las iniciativas hechas por las Legislaturas de otros Estados;
 
@@ -2435,6 +2435,10 @@ El Gobernador Provisional convocará a elecciones, no pudiendo ser electo para e
 
 Todos los servidores públicos al entrar en funciones, deberán rendir protesta de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y la del Estado, obligándose a desempeñar leal y patrióticamente el cargo conferido.
 
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2009)</small>
+
+Los servidores públicos estatales o municipales que manejen fondos públicos, caucionarán su manejo a juicio del Ejecutivo Estatal o del Ayuntamiento, según se trate.
+
 ###### Art. 159.
 
 Ningún ciudadano podrá desempeñar dos cargos de elección popular en el Estado o Municipio, debiendo elegir el que quisiere desempeñar; pero una vez que hubiere hecho la elección, perderá el derecho de desempeñar el otro.
@@ -2445,11 +2449,27 @@ Ningún ciudadano podrá desempeñar dos cargos de elección popular en el Estad
 
 Ningún servidor público percibirá más de un sueldo, excepción hecha de los cargos de Instrucción Pública y Beneficencia.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2009)</small>
 
 ###### Art. 161.
 
-Los servidores públicos que manejen fondos públicos, caucionarán su manejo a juicio del Ejecutivo.
+Los recursos económicos de que dispongan el Estado y los municipios se administrarán con eficiencia, eficacia, economía, transparencia, imparcialidad y honradez para satisfacer los objetivos a los que estén destinados.
+
+Los resultados del ejercicio de dichos recursos serán evaluados por la Auditoría Superior del Estado, con el objeto de propiciar que los recursos económicos se asignen en los respectivos presupuestos en los términos del párrafo anterior. Lo anterior, sin menoscabo de lo dispuesto en el segundo párrafo de la fracción VI del artículo 58 y en el artículo 76 de esta Constitución.
+
+Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realicen, se adjudicarán o llevarán a cabo a través de licitaciones públicas mediante convocatoria pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+
+Cuando las licitaciones a que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
+
+El manejo de recursos económicos estatales por parte de los municipios se sujetará a las bases de este artículo y a las leyes. La evaluación sobre el ejercicio de dichos recursos se realizará por la Auditoría Superior del Estado.
+
+Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del Título XI de esta Constitución.
+
+Los servidores públicos del Estado y los municipios tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
+
+La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente del Estado o los municipios, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+
+Las leyes garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
 
@@ -3516,3 +3536,19 @@ Artículo Décimo Primero.- Dentro de los 30 días siguientes a que concluya el 
 Artículo Décimo Segundo.- En ejercicio de las facultades que le otorga la fracción II del artículo 20 de la Constitución Política del Estado de Tamaulipas reformado mediante este decreto, el Instituto Electoral de Tamaulipas deberá realizar los trabajos de establecimiento y revisión de las demarcaciones de los distritos electorales, a efecto de que la LXI Legislatura del Congreso del Estado de Tamaulipas se integre como lo ordena el artículo 26 de la Constitución Política del Estado de Tamaulipas reformado mediante este decreto. Dichos trabajos deberán concluirse en un plazo máximo de 9 meses después de que se realicen las adecuaciones legislativas a que se refiere el Artículo Segundo Transitorio de este Decreto.
 
 Artículo Décimo Tercero.- El Congreso del Estado deberá tomar las previsiones presupuestales necesarias a efecto de que los órganos electorales cuenten con los recursos necesarios y suficientes para su adecuada integración y funcionamiento.
+
+P.O. 24 DE FEBRERO DE 2009.
+
+DECRETO No. LX-476, POR EL QUE SE REFORMA EL ARTICULO 58 DE LA CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE FEBRERO DE 2009.
+
+DECRETO No. LX-477, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 58, 158 Y 161 DE LA CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
