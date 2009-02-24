@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-proteccion-y-fomento-a-las-artesanias-del-estado-de-2328
 country: "mx"
 rank: "ley"
 publication_date: "1989-07-04"
-last_updated: "1989-07-04"
+last_updated: "2009-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE PROTECCION Y FOMENTO A LAS ARTESANIAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 4 de julio de 1989.
 
@@ -42,6 +42,18 @@ LEY DE PROTECCION Y FOMENTO A LAS ARTESANIAS.
 El objeto de esta Ley es la protección de las artesanías guerrerenses y su fomento, comprendiendo la producción, distribución y comercialización; y la creación del Sistema Estatal de Artesanías.
 
 La Ley de Fomento a la Cultura es supletoria de esta Ley.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2009)</small>
+
+ARTICULO 1 bis.- Para los efectos de esta ley se entenderá por:
+
+I.- LEY: Ley de Protección y Fomento a las Artesanías;
+
+II.- Centro: Centro Guerrerense de Artesanías;
+
+III.- Artesano: Toda persona que usando ingenio y destreza, transforme manualmente materias en productos que reflejen la belleza en su sentido más amplio, auxiliándose de herramientas e instrumentos de cualquier naturaleza y que no sean equiparables al sector industrial; y
+
+IV.- Producto Artesanal: La obra creada mediante la intervención del trabajo manual del artesano, que es considerada como una manifestación cultural y tradicional, que no forma parte de producciones en serie equiparables a las del sector industrial.
 
 ###### ARTICULO 2o.
 
@@ -71,9 +83,9 @@ El Gobierno del Estado llevará a cabo la protección de la actividad artesanal 
 
 I. Administrar el Centro Guerrerense de Artesanías;
 
-II. Crear y operar establecimientos de producción, distribución o comercialización de artesanías;
+II. (DEROGADA, P.O. 24 DE FEBRERO DE 2009)
 
-III. Estimular que los artesanos y los sectores social y privado creen los establecimientos a los que se refiere la fracción anterior;
+III. (DEROGADA, P.O. 24 DE FEBRERO DE 2009)
 
 IV. Operar fondos financieros que proporcionen apoyo crediticio a los artesanos;
 
@@ -85,9 +97,9 @@ VII. Coordinar sus acciones con el Gobierno Federal y los Ayuntamientos;
 
 VIII. Realizar investigaciones sobre la actividad artesanal;
 
-IX. Levantar y actualizar inventarios sobre las artesanías y los artesanos;
+IX. (DEROGADA, P.O. 24 DE FEBRERO DE 2009)
 
-X. Hacer reconocimientos de excelencia a los artesanos; y
+X. (DEROGADA, P.O. 24 DE FEBRERO DE 2009)
 
 XI. Las demás que sean necesarias para el ejercicio de las anteriores.
 
@@ -135,19 +147,23 @@ El Gobierno del Estado integrará una colección oficial de trajes típicos, reg
 
 ### CAPITULO III. DEL CENTRO GUERRERENSE DE ARTESANIAS
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 12.
 
-Se crea el Centro Guerrerense de Artesanías como órgano administrativo desconcentrado de la Secretaría de Desarrollo Económico y Trabajo, con autonomía técnica, y cuyo objeto será la protección y fomento de las artesanías guerrerenses, con la intervención que corresponda a la Secretaría de Desarrollo Social.
+Se crea el Centro Guerrerense de Artesanías como órgano administrativo desconcentrado de la Secretaría de Desarrollo Económico, con autonomía técnica cuyo objeto será la protección y fomento de las artesanías guerrerenses.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 13.
 
-Para su administración y vigilancia, el Centro contará con un Consejo Técnico, un Director General, y un Comisario. Asimismo, el Centro contará con un Consejo Consultivo.
+Para su administración, el Centro contará con un Consejo Técnico y un Director General. Asimismo, el Centro contará con un Consejo Consultivo.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 14.
 
-El Consejo Técnico se integrará por el Secretario de Desarrollo Económico y Trabajo, quien lo presidirá; el Secretario de Planeación y Presupuesto; el Secretario de Finanzas; la Secretaria de la Mujer; el Secretario de Desarrollo Social; el Secretario de Fomento Turístico; el Procurador Social de la Montaña; el Director General del Instituto para el Desarrollo de las Empresas del Sector Social; y el Director General del Centro Guerrerense de la Cultura.
-
-Se podrá invitar a las sesiones del Consejo Técnico a delegados federales y a representantes de organizaciones de artesanos.
+El Consejo Técnico se integrara por el Secretario de Desarrollo Económico, quién lo Presidirá, Secretario de Finanzas y Administración, Secretario de Fomento Turístico, Secretario de Desarrollo Social, Secretario de Desarrollo Rural, Secretario de Educación Guerrero, Secretaria de la Mujer, Director del Instituto Guerrerense de la Cultura y el Director General del Centro Guerrerense de Artesanías.
 
 ###### ARTICULO 15.
 
@@ -161,7 +177,9 @@ III. Prestar servicios de defensa de los derechos de los artesanos guerrerenses 
 
 IV. Promover, con la participación de la Secretaría de Desarrollo Social, investigaciones sobre los aspectos económicos, sociales y culturales de los artesanos y de la actividad artesanal;
 
-V. Expedir Certificados de autenticidad y de origen de piezas artesanales;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2009)</small>
+
+V. Ejecutar continuamente operativos de revisión de calidad de productos artesanales y expedir certificados de autenticidad de origen de piezas artesanales;
 
 VI. Levantar y actualizar permanentemente un padrón de artesanos de excelencia, y un inventario de recursos artesanales;
 
@@ -173,7 +191,9 @@ IX. Otorgar reconocimientos a artesanos;
 
 X. Fomentar la capacitación, adiestramiento y ejecución continua de artesanos junto con el Instituto Guerrerense de la Cultura;
 
-XI. Promover, con la participación del Instituto Guerrerense de la Cultura, espacios museográficos y de exposiciones de artesanías;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2009)</small>
+
+XI. Promover con la participación de dependencias afines de Gobierno del Estado y los Municipios, espacios de exposición de artesanías;
 
 XII. Actuar como conciliador o árbitro en conflictos en los que intervengan artesanos cuando éstos lo designen;
 
@@ -181,9 +201,37 @@ XIII. Formular recomendaciones para la asignación de recursos financieros o mat
 
 XIV. Actuar como mecanismo de coordinación entre las Secretarías de Desarrollo Económico y Trabajo, de Desarrollo Social y de Fomento Turístico, así como entre éstas y otras dependencias y entidades públicas, y los ayuntamientos;
 
-XV. El Centro Guerrerense de las Artesanías promoverá ante la Secretaría de Hacienda y Crédito Público del Gobierno Federal y ante la Secretaría de Finanzas del Gobierno del Estado, los convenios necesarios que procedan de acuerdo con las leyes fiscales, a fin de obtener los beneficios tributarios que le correspondan por las actividades realizadas por las Asociaciones o Uniones de Artesanos en la producción, distribución o comercialización de primera mano de artesanías; y
+XV. El Centro Guerrerense de las Artesanías promoverá ante la Secretaría de Hacienda y Crédito Público del Gobierno Federal y ante la Secretaría de Finanzas del Gobierno del Estado, los convenios necesarios que procedan de acuerdo con las leyes fiscales, a fin de obtener los beneficios tributarios que le correspondan por las actividades realizadas por las Asociaciones o Uniones de Artesanos en la producción, distribución o comercialización de primera mano de artesanías; y (sic)
 
-XVI. Las demás que sean afines a las anteriores y contribuyan a la realización y objeto de la presente Ley.
+XVI. Las demás que sean afines a las anteriores y contribuyan a la realización y objeto de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2009)</small>
+
+XVII. Fomentar y apoyar la celebración de eventos estatales, regionales y Municipales que promocionen los productos artesanales guerrerenses; y
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2009)</small>
+
+XVIII. Las demás que sean afines a las anteriores y contribuyan a la realización y objeto de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2009)</small>
+
+ARTICULO 15 bis.- El Centro Guerrerense de Artesanías, será el encargado de elaborar, actualizar y operar el Padrón de Artesanos del Estado de Guerrero, el cual contendrá la siguiente información:
+
+I.- Las ramas artesanales que se producen en el Estado;
+
+II.- El número de artesanos económicamente activos;
+
+III.- Las Organizaciones Artesanales constituidas conforme a las disposiciones aplicables;
+
+IV.- Los tipos y localización por región de los productos artesanales que permitan su clasificación;
+
+V.- Las instituciones públicas o privadas que otorgan capacitación artesanal;
+
+VI.- Las instituciones públicas o privadas encargadas de difundir las artesanías guerrerenses y aquellos que se dedican a la comercialización de los productos; y,
+
+VII.- En general, la información que se requiera para identificar el universo de individuos dedicados a esta actividad, los tipos de productos, su origen, el entorno cultural artesanal y las tradiciones artesanales en la Entidad.
+
+El Padrón de Artesanos del Estado de Guerrero, será un instrumento auxiliar del Centro Guerrerense de Artesanías para la integración y ejecución de sus políticas y en general para el cumplimiento de sus objetivos.
 
 ###### ARTICULO 16.
 
@@ -211,9 +259,15 @@ X. Aprobar la estructura orgánica del Centro y el reglamento interior; y
 
 XI. Las que sean necesarias para el ejercicio de las anteriores.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 17.
 
-El Consejo Técnico celebrará sesiones ordinarias trimestralmente y las extraordinarias a las que convoque su Presidente.
+El Consejo Técnico celebrará bimestralmente reuniones ordinarias de trabajo, y extraordinarias cuando convoque su Presidente o lo solicite el Consejo de Vigilancia.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2009)</small>
+
+ARTICULO 17 bis.- La convocatoria deberá ser enviada a los miembros del Consejo Técnico y de Vigilancia con no (sic) menos de cinco días hábiles de anticipación, acompañado del Orden del Día, la información y documentación que permita el conocimiento de los asuntos que se vayan a tratar, para el adecuado ejercicio de sus funciones. Para sesionar, el quórum se formará con la mitad más uno e sus integrantes y los acuerdos se tomarán por mayoría de votos. En caso de empate, el Presidente tendrá voto de calidad.
 
 ###### ARTICULO 18.
 
@@ -221,11 +275,57 @@ El Consejo Consultivo estará integrado por las personalidades y expertos que de
 
 El Consejo Consultivo estará presidido por el Secretario de Desarrollo Económico y Trabajo, fungiendo como Secretario del mismo el Director General del Centro.
 
-### CAPITULO IV. DEL FONDO DE GARANTIA Y CREDITO PARA LOS ARTESANOS
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE FEBRERO DE 2009)</small>
+
+### CAPITULO III BIS. DEL CONSEJO DE VIGILANCIA
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2009)</small>
+
+ARTICULO 18 bis.- El Concejo de Vigilancia es el órgano encargado de vigilar y supervisar el funcionamiento interno del Centro Guerrerense de Artesanías y de la actuación de los integrantes del Consejo Técnico.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2009)</small>
+
+ARTICULO 18 bis 1.- El Consejo de Vigilancia se integrará por un Presidente, Un Secretario y dos Vocales, quienes deberán ser electos de entre las Asociaciones u Organizaciones de Artesanos registrados en el Padrón, a excepción de los Vocales quien serán el Presidente de la Comisión de Artesanías del Congreso del Estado y el Comisario designado por la Contraloría General del Estado.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2009)</small>
+
+ARTICULO 18 bis 2.- Para la elección del Presidente y Secretario, el Consejo Técnico expedirá la convocatoria respectiva, debiendo proponer los candidatos las Asociaciones y organizaciones de artesanos registrados en el Padrón de Artesanos, quienes serán designados por mayoría de votos de los presentes el día de la elección, los integrantes del Consejo de Vigilancia, durarán en su encargo tres años, pudiendo ser ratificados; la Vocalía será renovada de acuerdo al cambio de Legislatura.
+
+Los integrantes del Consejo de Vigilancia, no tendrán el carácter de servidores públicos.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2009)</small>
+
+ARTICULO 18 bis 3.- El Consejo de Vigilancia tendrá las siguientes funciones y atribuciones:
+
+I.- Supervisar que se realice el programa anual de actividades que llevará acabo el Centro Guerrerense de Artesanías;
+
+II.- Vigilar que los integrantes del Consejo Técnico, no violenten las disposiciones de la presente Ley, los acuerdos emitidos por el Centro Guerrerense de Artesanías o del propio Consejo Técnico;
+
+III.- Vigilar las labores del Consejo Técnico y del Director del Centro Guerrerense de Artesanías, para cuyo fin, tendrá libre acceso a los libros y documentos del Centro Guerrerense de Artesanías;
+
+IV.- Podrá solicitar al Consejo Técnico que convoque a reunión extraordinaria, según sea el caso o necesidades;
+
+V.- Investigar las quejas y observaciones, que respecto hagan los artesanos, de los actos de los integrantes del Consejo Técnico y de servidores del Centro Guerrerense de Artesanías;
+
+VI.- Asistir a las reuniones de trabajo y a las extraordinarias, del Consejo Técnico del Centro Guerrerense de Artesanías. Los integrantes del Consejo de Vigilancia, tendrán voz y voto en dichas reuniones;
+
+VII.- Participar en la elaboración del Padrón de Artesanos y supervisar que se elabore de conformidad a lo dispuesto en la presente Ley;
+
+VIII.- Dictaminar los estudios financieros del Centro;
+
+IX.- Practicar auditorias y realizar estudios contables, financieros, administrativos y técnicos sobre el Centro;
+
+X.- Coadyuvar al mejoramiento de la organización y funcionamiento del Centro; y
+
+XI.- Las demás que le sean necesarias para el ejercicio de las anteriores.
+
+(REUBICADO, P.O. 24 DE FEBRERO DE 2009)
 
 ###### ARTICULO 19.
 
 El Director General será nombrado y removido libremente por el Gobernador del Estado, debiendo ser ciudadano mexicano con antecedentes de honorabilidad.
+
+(REUBICADO, P.O. 24 DE FEBRERO DE 2009)
 
 ###### ARTICULO 20.
 
@@ -243,29 +343,73 @@ V. Actuar como representante legal del Centro con poder general para pleitos y c
 
 VI. Las demás que sean necesarias para el ejercicio de las anteriores o que le sean delegadas por el Consejo Técnico.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE FEBRERO DE 2009)</small>
+
+### CAPITULO III BIS1. DE LA PROMOCION ARTESANAL EN LA EDUCACION
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2009)</small>
+
+ARTICULO 20 bis.- El Gobernador del Estado a través de la Secretaría de Educación Guerrero, considerará que en sus planes y programas de estudio, se establezcan asignaturas que promuevan el conocimiento y la preservación de las tradiciones artesanales en la Entidad, con la finalidad de dignificar social y culturalmente esa actividad. Asimismo, el Centro Guerrerense de Artesanías promoverá la adopción de lo establecido en el párrafo anterior, entre las demás instituciones educativas del sector público y privado, en todos los niveles.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2009)</small>
+
+ARTICULO 20 bis 1.- El Presidente del Consejo Técnico podrá invitar a los representantes de las instituciones educativas de la Entidad, a participar en las sesiones del mismo, con la finalidad de que informen sobre la actualización de sus planes y programas de estudio.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE FEBRERO DE 2009)</small>
+
+### CAPITULO III BIS 2. DE LA PROMOCION TURISTICA ARTESANAL
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2009)</small>
+
+ARTICULO 20 bis 2.- El Gobernador del Estado por conducto de la Secretaría de Fomento Turístico, promoverá que en cada desarrollo turístico de la Entidad, se ubique un espacio permanente para la venta y exhibición de artesanías guerrerenses, preferentemente de la localidad o región de que se trate. Para lo cual, se celebrarán convenios con las organizaciones o con los artesanos en lo particular, cuya finalidad será brindar todas las facilidades y apoyos para este efecto.
+
+El Centro Guerrerense de Artesanías, proporcionará la asesoría, capacitación y apoyo logístico necesario para montar los espacios de exhibición y venta de artesanías, asimismo gestionará lo propio, en su caso, ante los Ayuntamientos y demás autoridades que correspondan.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2009)</small>
+
+ARTICULO 20 bis 3.- La Secretaría de Fomento Turístico del Estado, con apoyo del Centro Guerrerense de Artesanías, propiciará que sin excepción, en cada evento de promoción turística de los atractivos estatales, se enaltezcan y promocionen las tradiciones artesanales guerrerenses y, en su caso, se coadyuve en la comercialización de los productos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE FEBRERO DE 2009)</small>
+
+### CAPITULO III BIS 3. DE LA ACTIVIDAD ARTESANAL Y EL ENTORNO ECOLOGICO
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2009)</small>
+
+ARTICULO 20 bis 4.- El Centro Guerrerense de Artesanías, promoverá entre las organizaciones y los artesanos, en lo particular, el aprovechamiento sustentable de los recursos naturales susceptibles de ser utilizados como materias primas para la elaboración de artesanías. Para tal efecto solicitará el apoyo de las dependencias, entidades competentes y Ayuntamientos, a fin de crear una cultura ecológica en el sector.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2009)</small>
+
+ARTICULO 20 bis 5.- El Centro Guerrerense de Artesanías, en coordinación con las dependencias, entidades competentes y Ayuntamientos, fomentarán la utilización de insumos artesanales alternos en las zonas en que, de conformidad con los criterios ecológicos, disposiciones administrativas, normas oficiales y/o disposiciones jurídicas aplicables, ya no sea posible la explotación de recursos naturales.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2009)</small>
+
+ARTICULO 20 bis 6.- Para el caso en que los productos artesanales sean elaborados a base de maderas o plantas, el Centro Guerrerense de Artesanías, las dependencias afines y los Ayuntamientos, proveerán de apoyo técnico a las organizaciones de artesanos para la promoción de campañas permanentes para la siembra y cultivo de árboles y plantas que serán utilizadas como materiales primarios.
+
 ###### ARTICULO 21.
 
-El Comisario será designado y removido libremente por el Secretario de Desarrollo Administrativo y Control Gubernamental, y tendrá las siguientes facultades:
+(DEROGADO Y REUBICADO, P.O. 24 DE FEBRERO DE 2009)
 
-I. Dictaminar los estudios financieros del Centro;
-
-II. Practicar auditorías y realizar estudios contables, financieros, administrativos y técnicos sobre el Centro;
-
-III. Coadyuvar al mejoramiento de la organización y funcionamiento del Centro; y
-
-IV. Las demás que sean necesarias para el ejercicio de las anteriores.
+(REUBICADO, P.O. 24 DE FEBRERO DE 2009)
 
 ###### ARTICULO 22.
 
 El Centro propiciará la organización de los artesanos para la representación de sus intereses; y para su participación eficaz en la producción, distribución y comercialización de sus productores (sic).
 
+(REUBICADO, P.O. 24 DE FEBRERO DE 2009)
+
 ###### ARTICULO 23.
 
 Las relaciones del Centro con sus trabajadores se sujetarán a la Ley del Trabajo de los Servidores Públicos, quienes serán protegidos en los términos de la Ley de Seguridad Social de los Servidores Públicos del Estado.
 
+> <small>(DEROGADO, P.O. 24 DE FEBRERO DE 2009)</small>
+
+### CAPITULO IV. DEL FONDO DE GARANTIA Y CREDITO PARA LOS ARTESANOS
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 24.
 
-Se crea el Fondo de Garantía y Crédito para los Artesanos, que será administrado por el Instituto para el Desarrollo de las Empresas del Sector Social.
+Para el otorgamiento de financiamientos, créditos y garantías de financiamientos para los artesanos y organizaciones de artesanos del Estado de Guerrero, se estará a lo señalado en la Ley de Fomento Económico, inversión y Desarrollo del Estado de Guerrero.
 
 ###### ARTICULO 25.
 
@@ -332,3 +476,23 @@ Rúbrica.
 El Secretario de Gobierno.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE FEBRERO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto surtirá sus efectos a partir de la fecha de su expedición.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo de Vigilancia, se integrará y entrará en funciones en un término no mayor de sesenta días después de entrado en vigor el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Comuníquese el presente Decreto (sic) la Contraloría General del Estado y a los 81 Ayuntamientos Municipales que conforman el Estado de Guerrero, para su conocimiento y efectos legales conducentes.
