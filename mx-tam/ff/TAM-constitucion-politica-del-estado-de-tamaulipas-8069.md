@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2008-12-25"
+last_updated: "2009-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2009.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -801,9 +801,9 @@ VII. Fijar las bases para que el Ejecutivo Estatal lleve a cabo la contratación
 
 VIII. Fijar las bases, mediante la expedición de la ley correspondiente, para que el Ejecutivo Estatal lleve a cabo la celebración de contratos de servicios o de obras en los cuales se afecten en garantía tanto las participaciones que en ingresos federales le correspondan al Estado, como los ingresos estatales que sean susceptibles de afectación;
 
-> <small>(REFORMADA, P.O. 14 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2009)</small>
 
-IX. Autorizar la enajenación y gravamen de los bienes muebles e inmuebles del Estado y de los Municipios, conforme a la ley. La venta de los bienes muebles se verificará en pública subasta, siempre que éstos hayan sido declarados inútiles a juicio del Congreso;
+IX. Autorizar la enajenación de los bienes inmuebles del Estado y de los Municipios conforme a la ley, así como el gravamen de los bienes del dominio privado, cuando dicho acto implique una duración mayor al período para el cual hubieren sido electos;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -817,9 +817,9 @@ XII. Conceder permisos y decretar honores por servicios eminentes prestados a la
 
 XIII. Expedir leyes para la jubilación de los maestros de instrucción pública que lo merezcan en atención a la antigüedad y eficacia de sus servicios;
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2009)</small>
 
-XIV. Decretar pensiones en favor de las familias de los que hayan prestado servicios eminentes al Estado y a los empleados del mismo por jubilación;
+XIV. Decretar pensiones en favor de las familias de quienes hayan prestado servicios eminentes al Estado; a los empleados del mismo por jubilación, y al cónyuge supérstite e hijos de los servidores públicos pertenecientes a las instituciones policiales y de procuración de justicia del Estado que hayan perdido la vida en cumplimiento de su deber;
 
 XV. Iniciar ante el Congreso General las leyes y decretos que sean de la competencia del Poder Legislativo de la Federación, así como la (sic) reformas o derogación de unas y otras, y secundar cuando lo estime conveniente, las iniciativas hechas por las Legislaturas de otros Estados;
 
@@ -2439,6 +2439,10 @@ El Gobernador Provisional convocará a elecciones, no pudiendo ser electo para e
 
 Todos los servidores públicos al entrar en funciones, deberán rendir protesta de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y la del Estado, obligándose a desempeñar leal y patrióticamente el cargo conferido.
 
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2009)</small>
+
+Los servidores públicos estatales o municipales que manejen fondos públicos, caucionarán su manejo a juicio del Ejecutivo Estatal o del Ayuntamiento, según se trate.
+
 ###### Art. 159.
 
 Ningún ciudadano podrá desempeñar dos cargos de elección popular en el Estado o Municipio, debiendo elegir el que quisiere desempeñar; pero una vez que hubiere hecho la elección, perderá el derecho de desempeñar el otro.
@@ -2449,11 +2453,27 @@ Ningún ciudadano podrá desempeñar dos cargos de elección popular en el Estad
 
 Ningún servidor público percibirá más de un sueldo, excepción hecha de los cargos de Instrucción Pública y Beneficencia.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2009)</small>
 
 ###### Art. 161.
 
-Los servidores públicos que manejen fondos públicos, caucionarán su manejo a juicio del Ejecutivo.
+Los recursos económicos de que dispongan el Estado y los municipios se administrarán con eficiencia, eficacia, economía, transparencia, imparcialidad y honradez para satisfacer los objetivos a los que estén destinados.
+
+Los resultados del ejercicio de dichos recursos serán evaluados por la Auditoría Superior del Estado, con el objeto de propiciar que los recursos económicos se asignen en los respectivos presupuestos en los términos del párrafo anterior. Lo anterior, sin menoscabo de lo dispuesto en el segundo párrafo de la fracción VI del artículo 58 y en el artículo 76 de esta Constitución.
+
+Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realicen, se adjudicarán o llevarán a cabo a través de licitaciones públicas mediante convocatoria pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+
+Cuando las licitaciones a que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
+
+El manejo de recursos económicos estatales por parte de los municipios se sujetará a las bases de este artículo y a las leyes. La evaluación sobre el ejercicio de dichos recursos se realizará por la Auditoría Superior del Estado.
+
+Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del Título XI de esta Constitución.
+
+Los servidores públicos del Estado y los municipios tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
+
+La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente del Estado o los municipios, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+
+Las leyes garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
 
@@ -3521,203 +3541,21 @@ Artículo Décimo Segundo.- En ejercicio de las facultades que le otorga la frac
 
 Artículo Décimo Tercero.- El Congreso del Estado deberá tomar las previsiones presupuestales necesarias a efecto de que los órganos electorales cuenten con los recursos necesarios y suficientes para su adecuada integración y funcionamiento.
 
+P.O. 24 DE FEBRERO DE 2009.
+
+DECRETO No. LX-476, POR EL QUE SE REFORMA EL ARTICULO 58 DE LA CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS.
+
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor el día 31 de diciembre de 1999.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-D.O.F. 31 DE DICIEMBRE DE 1994.
+P.O. 24 DE FEBRERO DE 2009.
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto en los artículos Octavo y Noveno siguientes.
+DECRETO No. LX-477, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 58, 158 Y 161 DE LA CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS.
 
-SEGUNDO.- Los actuales Ministros de la Suprema Corte de Justicia de la Nación concluirán sus funciones a la entrada en vigor del presente Decreto. Recibirán una pensión igual a la que para casos de retiro forzoso prevé el "Decreto que establece las Causas de Retiro Forzoso o Voluntario de los Ministros de la Suprema Corte de Justicia de la Nación".
+###### ARTICULO UNICO.
 
-A los Ministros citados en el párrafo anterior, no les serán aplicables los impedimentos a que se refieren el último párrafo del artículo 94 y el tercer párrafo del artículo 101, reformados por virtud del presente Decreto.
-
-De regresar al ejercicio de sus funciones, de conformidad con el procedimiento previsto en el artículo 96 reformado por virtud del presente Decreto, se suspenderá el derecho concedido en el primer párrafo de este artículo, durante el tiempo en que continúen en funciones.
-
-TERCERO.- Para la nominación y aprobación de los primeros ministros que integrarán la Suprema Corte de Justicia de la Nación, conforme a las reformas previstas en el presente Decreto, el titular del Ejecutivo Federal propondrá ante la Cámara de Senadores, a 18 personas, de entre las cuales dicha Cámara aprobará, en su caso, los nombramientos de 11 ministros, con el voto de las dos terceras partes de sus miembros.
-
-CUARTO.- Para los efectos del primer párrafo del artículo 97 de este Decreto de Reformas, la ley que reglamente la selección, ingreso, promoción o remoción de los miembros del Poder Judicial Federal, distinguirá los casos y procedimientos que deban resolverse conforme a las fracciones I, II y III del artículo 109 de la Constitución.
-
-La Cámara de Senadores, previa comparecencia de las personas propuestas, emitirá su resolución dentro del improrrogable plazo de treinta días naturales.
-
-El período de los Ministros, vencerá el último día de noviembre del año 2003, del 2006, del 2009 y del 2012, para cada dos de ellos y el último día de noviembre del año 2015, para los tres restantes. Al aprobar los nombramientos, el Senado deberá señalar cuál de los períodos corresponderá a cada Ministro.
-
-Una vez aprobado el nombramiento de, por lo menos, siete Ministros, se realizará una sesión solemne de apertura e instalación, en la cual se designará al Presidente de la Suprema Corte de Justicia de la Nación.
-
-QUINTO.- Los magistrados de Circuito y el Juez de Distrito electos la primera vez para integrar el Consejo de la Judicatura Federal, serán Consejeros por un período que vencerá el último día de noviembre del año 2001. El período de uno de los Consejeros designados por el Senado y el designado por el Ejecutivo, vencerá el último día de noviembre de 1999 y el correspondiente al Consejero restante, el último día de noviembre del año 1997. El Senado y el Ejecutivo Federal deberán designar a sus representantes dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto e indicarán cuál de los períodos corresponde a cada Consejero.
-
-El Consejo quedará instalado una vez designados cinco de sus miembros, siempre y cuando uno de ellos sea su Presidente.
-
-SEXTO.- En tanto quedan instalados la Suprema Corte de Justicia de la Nación y el Consejo de la Judicatura Federal, en términos de los transitorios Tercero y Quinto anteriores, la última Comisión de Gobierno y Administración de la propia Corte, ejercerá las funciones de ésta y atenderá los asuntos administrativos del Poder Judicial de la Federación. En esa virtud, lo señalado en el artículo segundo transitorio será aplicable, en su caso, a los miembros de la citada Comisión, una vez que haya quedado formalmente instalada la Suprema Corte de Justicia, en términos de lo dispuesto en el presente Decreto.
-
-Corresponde a la propia Comisión convocar a la sesión solemne de apertura e instalación a que se refiere el artículo Tercero transitorio, así como tomar las medidas necesarias para que la primera insaculación de los Magistrados de Circuito y del Juez de Distrito que serán Consejeros, se haga en los días inmediatos siguientes a la entrada en vigor del presente Decreto.
-
-La Comisión dejará de funcionar una vez que haya dado cuenta de los asuntos atendidos conforme a los párrafos anteriores, a la Suprema Corte o al Consejo de la Judicatura Federal, según corresponda, cuando estos últimos se encuentren instalados.
-
-SEPTIMO.- El Magistrado, el Juez de Primera Instancia y el Juez de Paz electos la primera vez para integrar el Consejo de la Judicatura del Distrito Federal, serán Consejeros por un período que vencerá el último día de noviembre del año 2001. El período de uno de los Consejeros designados por la Asamblea de Representantes del Distrito Federal y el designado por el Jefe del Departamento del Distrito Federal vencerá el último día de noviembre de 1999, y el correspondiente al Consejero restante, el último día de noviembre de 1997. La Asamblea y el Jefe del Departamento deberán designar a sus representantes dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto e indicarán cuál de los períodos corresponde a cada Consejero.
-
-El Consejo quedará instalado una vez designados cinco de sus miembros.
-
-El Pleno del Tribunal Superior de Justicia continuará a cargo de los asuntos administrativos, hasta en tanto quede constituido el Consejo. Asimismo, tomará las medidas necesarias para que la elección del Magistrado y del Juez de Primera Instancia que serán Consejeros, se haga en los días inmediatos siguientes a la entrada en vigor del presente Decreto.
-
-OCTAVO.- Las reformas al artículo 105, entrarán en vigor en la misma fecha en que entre en vigor la ley reglamentaria correspondiente.
-
-NOVENO.- Los procesos a que aluden los artículos que se reforman, iniciados con anterioridad continuarán tramitándose conforme a las disposiciones vigentes al entrar en vigor el presente Decreto.
-
-Las reformas a la fracción XVI del artículo 107, entrarán en vigor en la misma fecha en que entren en vigor las reformas a la ley reglamentaria de los artículos 103 y 107 constitucionales.
-
-DECIMO.- Los conflictos de carácter laboral entre el Poder Judicial de la Federación y sus servidores, iniciados con anterioridad, continuarán tramitándose conforme a las disposiciones vigentes, al entrar en vigor el presente Decreto, ante el Consejo de la Judicatura Federal o la Suprema Corte de Justicia, según corresponda, una vez integrados conforme a los artículos Tercero y Quinto transitorios anteriores.
-
-DECIMO PRIMERO.- En tanto se expidan las disposiciones legales, reglamentarias y acuerdos generales a que se refieren los preceptos constitucionales que se reforman por el presente Decreto, seguirán aplicándose los vigentes al entrar en vigor las reformas, en lo que no se opongan a éstas.
-
-DECIMO SEGUNDO.- Los derechos laborales de los servidores públicos del Poder Judicial de la Federación serán respetados íntegramente.
-
-D.O.F. 2 DE MARZO DE 1995.
-
-UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 3 DE JULIO DE 1996.
-
-UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 22 DE AGOSTO DE 1996.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo previsto en los artículos siguientes.
-
-SEGUNDO. Las adiciones contenidas en la fracción II del artículo 105 del presente Decreto, únicamente por lo que se refiere a las legislaciones electorales de los Estados, que por los calendarios vigentes de sus procesos la jornada electoral deba celebrarse antes del primero de abril de 1997, entrarán en vigor a partir del 1o. de enero de 1997.
-
-Para las legislaciones electorales federal y locales que se expidan antes del 1o. de abril de 1997 con motivo de las reformas contenidas en el presente Decreto, por única ocasión, no se aplicará el plazo señalado en el párrafo cuarto de la fracción II del artículo 105.
-
-Las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma de carácter general electoral y la Constitución, que se ejerciten en los términos previstos por el Artículo 105 fracción II de la misma y este Decreto, antes del 1o. de abril de 1997, se sujetarán a las siguientes disposiciones especiales:
-
-a) El plazo a que se refiere el segundo párrafo de la fracción II del artículo mencionado, para el ejercicio de la acción, será de quince días naturales; y
-
-b) La Suprema Corte de Justicia de la Nación deberá resolver la acción ejercida en un plazo no mayor a quince días hábiles, contados a partir de la presentación del escrito inicial.
-
-Las reformas al artículo 116 contenidas en el presente Decreto no se aplicarán a las disposiciones constitucionales y legales de los Estados que deban celebrar procesos electorales cuyo inicio haya ocurrido u ocurra antes del 1o. de enero de 1997. En estos casos, dispondrán de un plazo de un año contado a partir de la conclusión de los procesos electorales respectivos, para adecuar su marco constitucional y legal al precepto citado.
-
-Todos los demás Estados, que no se encuentren comprendidos en la excepción del párrafo anterior, deberán adecuar su marco constitucional y legal a lo dispuesto por el artículo 116 modificado por el presente Decreto, en un plazo que no excederá de seis meses contado a partir de su entrada en vigor.
-
-TERCERO. A más tardar el 31 de octubre de 1996 deberán estar nombrados el consejero Presidente y el Secretario Ejecutivo del Consejo General del Instituto Federal Electoral, así como los ocho nuevos consejeros electorales y sus suplentes, que sustituirán a los actuales Consejeros Ciudadanos, quienes no podrán ser reelectos. En tanto se hacen los nombramientos o se reforma la ley de la materia, el Consejo General del Instituto Federal Electoral seguirá ejerciendo las competencias y funciones que actualmente le señala el Código Federal de Instituciones y Procedimientos Electorales.
-
-CUARTO. En la elección federal de 1997 se elegirán, a la Quincuagésima Séptima Legislatura, treinta y dos senadores según el principio de representación proporcional, mediante el sistema de listas votadas en una sola circunscripción plurinominal nacional, y durarán en funciones del 1o. de noviembre de 1997 a la fecha en que concluya la señalada Legislatura. La asignación se hará mediante una fórmula que tome en cuenta el cociente natural y el resto mayor; y se hará en orden decreciente de las listas respectivas. Se deroga el segundo párrafo del Artículo Tercero de los Artículos Transitorios del Decreto de fecha 2 de septiembre de 1993, publicado en el Diario Oficial de la Federación el 3 del mismo mes y año, por el que se reformaron los Artículos 41, 54, 56, 60, 63, 74 y 100 de esta Constitución.
-
-QUINTO. Los nuevos Magistrados Electorales deberán designarse a más tardar el 31 de octubre de 1996 y, por esta ocasión, requerirán para su elección del voto de las tres cuartas partes de los miembros presentes de la Cámara de Senadores.
-
-SEXTO. En tanto se expiden o reforman las leyes correspondientes, el Tribunal Federal Electoral seguirá ejerciendo las competencias y funciones que actualmente le señala el Código Federal de Instituciones y Procedimientos Electorales.
-
-SÉPTIMO. El Jefe de Gobierno del Distrito Federal se elegirá en el año de 1997 y ejercerá su mandato, por esta única vez, hasta el día 4 de diciembre del año 2000.
-
-OCTAVO. La norma que determina la facultad para expedir las disposiciones que rijan las elecciones locales en el Distrito Federal señalada en el inciso f) de la fracción V del apartado C del artículo 122 de este Decreto, entrará en vigor el 1o. de enero de 1998. Para la elección en 1997 del Jefe de Gobierno y los diputados a la Asamblea del Distrito Federal, se aplicará el Código Federal de Instituciones y Procedimientos Electorales.
-
-NOVENO. El requisito a que se refiere el párrafo segundo de la fracción I de la BASE SEGUNDA, del apartado C del artículo 122, que prohibe acceder a Jefe de Gobierno si se hubiese desempeñado tal cargo con cualquier carácter, debe entenderse aplicable a todo ciudadano que haya sido titular de dicho órgano, aunque lo haya desempeñado bajo distinta denominación.
-
-DÉCIMO. Lo dispuesto en la fracción II de la BASE TERCERA, del apartado C del artículo 122, que se refiere a la elección de los titulares de los órganos político-administrativos en las demarcaciones territoriales del Distrito Federal, entrará en vigor el 1o. de enero del año 2000; en 1997, se elegirán en forma indirecta, en los términos que señale la ley.
-
-DECIMOPRIMERO. La norma que establece la facultad de la Asamblea Legislativa del Distrito Federal para legislar en materias civil y penal para el Distrito Federal entrará en vigor el 1o. de enero de 1999.
-
-DECIMOSEGUNDO. Continuarán bajo jurisdicción federal los inmuebles sitos en el Distrito Federal, que estén destinados al servicio que prestan los Poderes Federales, así como cualquier otro bien afecto al uso de dichos poderes.
-
-DECIMOTERCERO. Todos los ordenamientos que regulan hasta la fecha a los órganos locales en el Distrito Federal seguirán vigentes en tanto no se expidan por los órganos competentes aquellos que deban sustituirlos conforme a las disposiciones y las bases señaladas en este Decreto.
-
-D.O.F. 20 DE MARZO DE 1997.
-
-PRIMERO.- El presente Decreto entrará en vigor al año siguiente de su publicación en el Diario Oficial de la Federación.
-
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2004)</small>
-
-SEGUNDO.- Quienes hayan perdido su nacionalidad mexicana por nacimiento, por haber adquirido voluntariamente una nacionalidad extranjera y si se encuentran en pleno goce de sus derechos, podrán beneficiarse de lo dispuesto en el artículo 37, apartado A), constitucional, previa solicitud que hagan a la Secretaría de Relaciones Exteriores, en cualquier tiempo.
-
-> <small>(REFORMADO, D.O.F. 26 DE FEBRERO DE 1999)</small>
-
-TERCERO.- Las disposiciones vigentes con anterioridad a la entrada en vigor de este Decreto, seguirán aplicándose a los nacidos o concebidos durante su vigencia, únicamente en todo aquello que les favorezca, sin perjuicio de los beneficios que les otorga la reforma contenida en el presente decreto.
-
-CUARTO.- En tanto el Congreso de la Unión emita las disposiciones correspondientes en materia de nacionalidad, seguirá aplicándose la Ley de Nacionalidad vigente, en lo que no se oponga al presente Decreto.
-
-QUINTO.- El último párrafo del apartado C) del artículo 37, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 26 DE FEBRERO DE 1999.
-
-UNICO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 8 DE MARZO DE 1999.
-
-Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 11 DE JUNIO DE 1999.
-
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Los actuales Consejeros de la Judicatura Federal, con excepción del Presidente del Consejo, concluirán sus funciones a la entrada en vigor del presente decreto.
-
-El Pleno de la Suprema Corte de Justicia, el Senado y el Ejecutivo Federal deberán designar a los Consejeros de la Judicatura Federal, de conformidad con el artículo 100 constitucional reformado, a más tardar dentro de los treinta días naturales siguientes a la entrada en vigor del presente decreto.
-
-Por única vez, el período de los Consejeros designados por la Suprema Corte de Justicia vencerá el último día de noviembre de 2002, de 2004 y de 2006; el de los designados por el senado el último día de noviembre de 2003 y 2007; y el designado por el Ejecutivo Federal, el último día de noviembre de 2005. Al designar Consejeros, se deberá señalar cual de los períodos corresponderá a cada uno.
-
-TERCERO.- En tanto queda instalado el Consejo de la Judicatura Federal, en términos del transitorio que antecede, funcionará una comisión temporal compuesta por el Presidente del Consejo y por los funcionarios que dependan directamente del propio Consejo. Dicha comisión proveerá los trámites y resolverá los asuntos administrativos de notoria urgencia que se presenten, salvo los relacionados con nombramientos, adscripción, ratificación y remoción de jueces y magistrados. Una vez instalado el Consejo, dará cuenta al pleno de las medidas tomadas, a fin de que éste acuerde lo que proceda.
-
-CUARTO.- Los procesos a que aluden los artículos que se reforman, iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose conforme a las disposiciones vigentes en el momento en que fueron iniciados.
-
-D.O.F. 28 DE JUNIO DE 1999.
-
-DECRETO QUE ADICIONA LA FRACCIÓN XXIX-J AL ARTÍCULO 73.
-
-PRIMERO.- La presente adición entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Se fija como plazo máximo para la expedición de la ley reglamentaria de las atribuciones de la Federación en materia de deporte, el de un año.
-
-D.O.F. 28 DE JUNIO DE 1999.
-
-DECRETO QUE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 4 Y REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 25.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 28 DE JUNIO DE 1999.
-
-DECRETO QUE REFORMA LA FRACCIÓN XXIX-H Y ADICIONA LA FRACCIÓN XXIX-I AL ARTÍCULO 73.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 29 DE JULIO DE 1999.
-
-Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 30 DE JULIO DE 1999.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los siguientes transitorios.
-
-SEGUNDO.- La entidad de fiscalización superior de la Federación iniciará sus funciones el 1 de enero del año 2000. La revisión de la Cuenta Pública y las funciones de fiscalización a que se refieren las fracciones I a IV del artículo 79 reformado por este Decreto, se llevarán a cabo, en los términos del propio Decreto, a partir de la revisión de la Cuenta Pública correspondiente al año 2001.
-
-La entidad de fiscalización superior de la Federación revisará la Cuenta Pública de los años 1998, 1999 y 2000 conforme a las disposiciones vigentes antes de la entrada en vigor de este Decreto.
-
-Las referencias que se hacen en dichas disposiciones a la Contaduría Mayor de Hacienda de la Cámara de Diputados, se entenderán hechas a la entidad de fiscalización superior de la Federación.
-
-TERCERO.- En tanto la entidad de fiscalización superior de la Federación no empiece a ejercer las atribuciones a que se refiere este Decreto, la Contaduría Mayor de Hacienda continuará ejerciendo las atribuciones que actualmente tiene conforme al artículo 74, fracción IV, de la Constitución, su Ley Orgánica y demás disposiciones jurídicas aplicables vigentes hasta antes de la entrada en vigor del presente Decreto.
-
-Los servidores públicos de la Contaduría Mayor de Hacienda no serán afectados en forma alguna en sus derechos laborales con motivo de la entrada en vigor de este Decreto y de las leyes que en consecuencia se emitan.
-
-Una vez creada la entidad de fiscalización superior de la Federación, todos los recursos humanos, materiales y patrimoniales en general de la Contaduría Mayor de Hacienda, pasarán a formar parte de dicha entidad.
-
-CUARTO.- El Contador Mayor de Hacienda será titular de la entidad de fiscalización superior de la Federación hasta el 31 de diciembre de 2001; podrá ser ratificado para continuar en dicho encargo hasta completar el período de ocho años a que se refiere el artículo 79 de esta Constitución.
-
-D.O.F. 13 DE SEPTIEMBRE DE 1999.
-
-PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Los actuales integrantes del Consejo Consultivo de la Comisión Nacional de Derechos Humanos, continuarán en su encargo hasta concluir el período para el que fueron designados, pudiendo, en su caso, ser propuestos y elegidos para un segundo período en los términos de lo dispuesto por el quinto párrafo del apartado B del Artículo 102 que se reforma por este Decreto.
-
-TERCERO.- En un plazo máximo de sesenta días, la Cámara de Senadores o, en su caso, la Comisión Permanente del Congreso de la Unión, deberá elegir al Presidente de la Comisión Nacional de los Derechos Humanos, conforme al procedimiento dispuesto por el apartado B del Artículo 102 que se reforma por este Decreto. Para tal efecto, se observarán las siguientes reglas:
-
-A.- La Comisión correspondiente de la Cámara de Senadores procederá a realizar una amplia auscultación entre las organizaciones sociales representativas de los distintos sectores de la sociedad, así como entre los organismos públicos y privados promotores o defensores de los Derechos Humanos.
-
-B.- Con base en la auscultación antes señalada, la Comisión podrá proponer la ratificación de la actual Titular de la Comisión Nacional de Derechos Humanos o, en su caso, integrar una terna de candidatos.
-
-CUARTO.- En tanto el Congreso de la Unión expide las reformas a la Ley de la Comisión Nacional de Derechos Humanos, ésta ejercerá sus atribuciones y competencias conforme a lo dispuesto por el presente Decreto y la ley reglamentaria vigente hasta dicha expedición.
-
-QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-D.O.F. 23 DE DICIEMBRE DE 1999.
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO PRIMERO.
 
