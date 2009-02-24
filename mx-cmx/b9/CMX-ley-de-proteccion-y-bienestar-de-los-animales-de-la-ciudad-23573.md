@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-y-bienestar-de-los-animales-de-la-ciudad-2357
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-26"
-last_updated: "2008-11-28"
+last_updated: "2009-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23573&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-01-08"
 
 LEY DE PROTECCION A LOS ANIMALES DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE FEBRERO DE 2009.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 26 de febrero de 2002.
 
@@ -1286,6 +1286,10 @@ Los padres o los tutores de los menores de edad, son responsables, por las falta
 
 La imposición de las sanciones previstas por la presente Ley, no excluye la responsabilidad civil o penal y la eventual indemnización o reparación del daño que pudiera corresponder y recaer sobre el sancionado.
 
+> <small>(ADICIONADO, G.O. 24 DE FEBRERO DE 2009)</small>
+
+Cuando en los procedimientos que establece esta Ley, obren pruebas obtenidas por la Secretaría de Seguridad Pública del Distrito Federal con equipos y sistemas tecnológicos, las mismas se apreciarán y valorarán en términos de la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal.
+
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 63.
@@ -1457,3 +1461,9 @@ SEGUNDO.- Se Derogan todas aquellas disposiciones que contravengan lo dispuesto 
 TERCERO.- El Jefe de Gobierno del Distrito Federal, expedirá el Reglamento correspondiente dentro de los ciento veinte días naturales a la fecha de entrada en vigor el presente Decreto.
 
 CUARTO.- El Jefe de Gobierno del Distrito Federal, destinará en el Presupuesto de Egresos 2009, una partida especial que se otorgará como subsidio a las Asociaciones Protectoras de Animales, debidamente legitimadas, para que se apliquen a la prevención, curación, atención y vacunación de las especies que están bajo su cuidado y asistencia, así como para el mantenimiento y conservación de sus instalaciones.
+
+G.O. 24 DE FEBRERO DE 2009.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que se opongan a la presente.
