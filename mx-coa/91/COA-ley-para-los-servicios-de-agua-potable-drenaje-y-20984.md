@@ -4,7 +4,7 @@ identifier: "COA-ley-para-los-servicios-de-agua-potable-drenaje-y-20984"
 country: "mx"
 rank: "ley"
 publication_date: "1993-02-09"
-last_updated: "2006-11-07"
+last_updated: "2009-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY PARA LOS SERVICIOS DE AGUA POTABLE, DRENAJE Y ALCANTARILLADO EN LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA., PUBLICADA EN EL P.O. DE 24 DE FEBRERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 9 de febrero de 1993.
 
@@ -956,3 +958,19 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a este decreto.
 P.O. 7 DE NOVIEMBRE DE 2006.
 
 ÚNICO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE FEBRERO DE 2009.
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley para la Prestación de los Servicios de Agua Potable, Drenaje y Alcantarillado en los Municipios del Estado de Coahuila.
+
+TERCERO. Los organismos descentralizados previstos al amparo de la Ley anterior, continuarán su operación, contando los Ayuntamientos respectivos con un plazo de seis meses para el envío al Congreso de la Iniciativa de reforma a sus decretos de creación; al término de este plazo, los decretos que crean a los mismos, vigentes a la fecha, quedarán abrogados.
+
+En todo caso, serán sistemas intermunicipales los que administren y operen los servicios materia de esta ley en los municipios de Múzquiz, San Juan de Sabinas y Sabinas; Monclova y Frontera; Torreón rural, Matamoros y Viesca, así como San Pedro y Francisco I. Madero.
+
+En todo caso, los decretos deberán prever que los derechos laborales de los trabajadores de los sistemas, no se verán afectados.
+
+CUARTO. La iniciativa de reforma prevista en el anterior artículo, determinará la forma específica en que deberá componerse su Consejo. El Presidente Municipal correspondiente hará la convocatoria para su integración inicial.
+
+QUINTO. En tanto el Consejo Directivo del organismo operador respectivo no establezca las cuotas en los términos de esta Ley, se seguirán cobrando las cuotas o tarifas vigentes.
