@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-seguridad-privada-para-la-ciudad-de-mexico-antes-ley-425
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-24"
-last_updated: "2005-01-24"
+last_updated: "2009-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42556&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-12-14"
 
 LEY DE SEGURIDAD PRIVADA PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE FEBRERO DE 2009.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 24 de enero de 2005.
 
@@ -194,7 +194,11 @@ V. Celebrar convenios con las autoridades federales, estatales y municipales com
 
 VI. Determinar e imponer las sanciones correspondientes por violaciones a la presente ley y su reglamento, en lo que se refiere a la prestación de los servicios o realización de actividades de seguridad privada;
 
-VII. Actualizar permanentemente el registro de la seguridad privada, que incluya en forma enunciativa los rubros de prestadores de servicios, autorizados, e Instituciones Oficiales, personal, vehículos, infraestructura y modalidades de seguridad privada; autorizaciones, licencias, permisos y constancias de registro; sanciones y delitos; accionistas, socios, gestores, representantes, apoderados y mandatarios legales y demás registros que sean necesarios a juicio de la Secretaría;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 24 DE FEBRERO DE 2009)</small>
+
+VII. Actualizar permanentemente el registro de la seguridad privada, que incluya en forma enunciativa los rubros de prestadores de servicios, autorizados, e Instituciones Oficiales, personal, vehículos, infraestructura y modalidades de seguridad privada; autorizaciones, licencias, permisos y constancias de registro; sanciones y delitos; accionistas, socios, gestores, representantes, apoderados y mandatarios legales; equipos y sistemas tecnológicos que se utilicen así como las autorizaciones que se obtengan para su instalación y utilización, de conformidad con la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal y la Ley de Protección de Datos Personales para el Distrito Federal y demás registros que sean necesarios a juicio de la Secretaría;
 
 VIII. Realizar la evaluación, certificación, verificación y supervisión de los servicios y actividades de seguridad privada en el Distrito Federal; así como substanciar y resolver los procedimientos administrativos para la caducidad, cancelación, clausura, revocación y suspensión de los permisos, autorizaciones, licencias y constancias de registro, cuando proceda conforme a la Ley y las disposiciones reglamentarias;
 
@@ -314,7 +318,9 @@ a) De operaciones, el cual refiera:
 
 b) Manual de Capacitación y Adiestramiento, el cual invariablemente deberá contener lo establecido en el Reglamento y sus Normas Técnicas.
 
-III. Inventario de Bienes Muebles e Inmuebles que en su caso se utilicen para la prestación del servicio, incluyendo vehículos, equipos de seguridad y de radiocomunicación, así como también los aparatos transceptores que utilice el personal y otros semejantes o equivalentes;
+> <small>(REFORMADA, G.O. 24 DE FEBRERO DE 2009)</small>
+
+III. Inventario de Bienes Muebles e Inmuebles que en su caso se utilicen para la prestación del servicio, incluyendo vehículos, equipos de seguridad y de radiocomunicación los aparatos transceptores que utilice el personal y otros semejantes o equivalentes así como equipos y sistemas tecnológicos que se utilicen así como las autorizaciones que se obtengan para su instalación y utilización, de conformidad con la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal;
 
 IV. En su caso, relación del armamento que utilice en el servicio de seguridad privada, describiendo clase, marca, calibre, modelo y matrícula, así como aditamentos tales como: chalecos antibalas, fornitura, gas lacrimógeno, porta gas, silbato, máscara antigas, tolete y otros;
 
@@ -544,11 +550,21 @@ VIII. Accionistas, socios, gestores, representantes legales, mandatarios y apode
 
 IX. Sanciones administrativas y penales;
 
-X. Armamento, y
+X. Armamento, y (sic)
 
-XI. Los demás que sean necesarias a juicio de la Secretaría.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-El registro a que se refiere la fracción II, III, VII y VIII, comprenderá la filiación, fotografía, huellas digitales, registro fonético, así como los demás datos que determine la Secretaría.
+> <small>(ADICIONADA, G.O. 24 DE FEBRERO DE 2009)</small>
+
+XI. Los equipos y sistemas tecnológicos que se utilicen así como las autorizaciones que se obtengan para su instalación y utilización, de conformidad con la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal; y
+
+XII. Los demás que sean necesarias a juicio de la Secretaría.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 24 DE FEBRERO DE 2009)</small>
+
+El registro a que se refieren las fracciones II, III, VII y VIII, comprenderá la filiación, fotografía, huellas digitales, registro fonético, así como los demás datos que determine la Secretaría.
 
 ###### Artículo 25.
 
@@ -632,9 +648,13 @@ IX. Aportar a la Secretaría de manera oportuna y con la periodicidad que determ
 
 X. Vigilar que su personal cumpla con las obligaciones que le fijan esta Ley y demás ordenamientos jurídicos en la materia;
 
-XI. Aplicar anualmente exámenes médicos, psicológicos y toxicológicos a sus elementos operativos, en institución autorizada para el efecto, y presentar el resultado de los mismos en un plazo de diez días hábiles posteriores a su práctica, y
+XI. Aplicar anualmente exámenes médicos, psicológicos y toxicológicos a sus elementos operativos, en institución autorizada para el efecto, y presentar el resultado de los mismos en un plazo de diez días hábiles posteriores a su práctica, y (sic)
 
-XII. Proporcionar con la periodicidad que determine el Reglamento, la capacitación y adiestramiento a sus elementos de apoyo y operativos, de conformidad a la modalidad en que presten el servicio o realicen la actividad de seguridad privada.
+XII. Proporcionar con la periodicidad que determine el Reglamento, la capacitación y adiestramiento a sus elementos de apoyo y operativos, de conformidad a la modalidad en que presten el servicio o realicen la actividad de seguridad privada;
+
+> <small>(ADICIONADA, G.O. 24 DE FEBRERO DE 2009)</small>
+
+XIII. A las obligaciones que les impone la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal, su Reglamento y otras disposiciones vigentes.
 
 ###### Artículo 36.
 
@@ -990,9 +1010,13 @@ II. Establecer y consolidar un sistema administrativo en materia de intercambio 
 
 III. Celebrar acuerdos de colaboración en materia de prevención, control y solución de problemas derivados de los servicios o actividades de seguridad privada en la zona metropolitana del valle de México, e igualmente promover la unificación de las legislaciones en esta materia;
 
-IV. Convocar y coordinar reuniones periódicas con las autoridades competentes en las entidades de la zona metropolitana del valle de México, a fin de establecer mecanismos y medidas necesarias para el mejor control gubernamental de los servicios de seguridad privada, y
+IV. Convocar y coordinar reuniones periódicas con las autoridades competentes en las entidades de la zona metropolitana del valle de México, a fin de establecer mecanismos y medidas necesarias para el mejor control gubernamental de los servicios de seguridad privada, y (sic)
 
-V. El apoyo permanente a fin de aplicar sanciones administrativas a infractores de la Ley, Reglamento y otras disposiciones de la materia y cuyos responsables se localicen en territorio distinto al Distrito Federal.
+V. El apoyo permanente a fin de aplicar sanciones administrativas a infractores de la Ley, Reglamento y otras disposiciones de la materia y cuyos responsables se localicen en territorio distinto al Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 24 DE FEBRERO DE 2009)</small>
+
+VI. El suministro o intercambio de información obtenida con el uso de equipos y sistemas tecnológicos así como los productos de inteligencia derivados de la misma con la Federación, Estados y Municipios del país o con prestatarios de servicios de seguridad privada, en términos de la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal.
 
 ## TRANSITORIOS
 
@@ -1013,3 +1037,15 @@ SÉPTIMO.- Las persona físicas y morales que a la entrada en vigor de esta Ley 
 Recinto de la Asamblea Legislativa del Distrito Federal, a los treinta días del mes de noviembre del año dos mil cuatro.- POR LA MESA DIRECTIVA.- DIP. IRMA ISLAS LEÓN, PRESIDENTA.- DIP. MARÍA TERESITA DE JESUS AGUILAR MARMOLEJO, SECRETARIA.- DIP. HÉCTOR GUIJOSA MORA, SECRETARIO.- (Firmas)
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67 fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los catorce días del mes de diciembre de dos mil cuatro.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, JOEL ORTEGA CUEVAS.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 24 DE FEBRERO DE 2009.
+
+PRIMERO.- El presente decreto iniciará su vigencia a partir del día siguiente de su publicación, con excepción de las reformas a los artículos 10 y 24, relativas al Registro de Servicios de Seguridad Privada, que entrarán en vigor a los noventa días de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Los procedimientos para la obtención de autorización, aviso de registro o permiso para la prestación de servicios de seguridad privada que se encuentren en trámite al momento de la entrada en vigor del presente decreto de reformas, se resolverán conforme a los lineamientos vigentes al momento de su inicio.
+
+TERCERO.- Se deroga toda disposición que se oponga al presente decreto.
+
+CUARTO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para mayor difusión.
