@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-fiscal-del-estado-de-tamaulipas-59020"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2007-12-31"
+last_updated: "2009-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2009.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -181,7 +181,9 @@ I. El Fondo de Fiscalización se distribuirá trimestralmente tomando como base 
 
 II. El Fondo de Extracción de Hidrocarburos se distribuirá en un 60 por ciento a partes iguales entre los municipios productores o extractores de petróleo o gas en el Estado y en el 40 por ciento restante entre los demás municipios en partes iguales.
 
-III. El 9/11 de la Cuota a la Venta Final de Gasolinas y Diesel que se recaude en el Estado, se distribuirá en un 70 por ciento atendiendo al número de habitantes por municipio y el 30 por ciento se distribuirá tomando como base el crecimiento porcentual de la recaudación del Impuesto Predial y de los Derechos de Agua de cada uno de los Municipios, comparando los dos ejercicios fiscales anteriores al actual, se determinará la sumatoria de los porcentajes, se dividirá el porcentaje de cada municipio entre la sumatoria para obtener el coeficiente de distribución de este fondo. Dichos recursos deberán destinarse exclusivamente a infraestructura vial, urbana y rural, hidráulica, básica, sanitaria y de conservación del medio ambiente. Corresponde a la Auditoría Superior del Congreso del Estado proporcionar la información de dicho fondo, a más tardar el día último del mes de febrero del año siguiente al que se tomará en cuenta para la distribución del mencionado fondo. Si la Secretaría de Finanzas no recibe la información citada en el plazo señalado, estará facultada para considerar el 50 por ciento de la recaudación con que se efectuó el último cálculo de los coeficientes. El Estado aplicará los nuevos coeficientes a las cantidades que hubiera determinado provisionalmente y efectuará a más tardar el 30 de junio, las liquidaciones o descuentos que procedan.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE FEBRERO DE 2009)</small>
+
+III. El 9/11 de la Cuota a la Venta Final de Gasolinas y Diesel que se recaude en el Estado, se distribuirá en un 70 por ciento atendiendo al número de habitantes por municipio y el 30 por ciento se distribuirá tomando como base el crecimiento porcentual de la recaudación del Impuesto Predial y de los Derechos de Agua de cada uno de los Municipios. Al respecto, mediante la comparación de los dos ejercicios fiscales anteriores al presente, se determinará la sumatoria de los porcentajes, y se dividirá el porcentaje de cada Municipio entre la sumatoria para obtener el coeficiente de distribución de este fondo. Corresponde a la Auditoría Superior del Congreso del Estado proporcionar la información de dicho Fondo, a más tardar el día último del mes de febrero del año siguiente al que se tomará en cuenta para la distribución del propio Fondo. Si la Secretaría de Finanzas no recibe la información citada en el plazo señalado, estará facultada para considerar el 50 por ciento de la recaudación con que se efectuó el último cálculo de los coeficientes. El Estado aplicará los nuevos coeficientes a las cantidades que hubiera determinado provisionalmente y efectuará a más tardar el 30 de junio, las liquidaciones o descuentos que procedan.
 
 La Secretaría de Finanzas enviará dicha información al Comité de Vigilancia de Participaciones de Ingresos Federales del Sistema Nacional de Coordinación Fiscal, mismo que la validará durante el mes de junio de cada año. Dicha información sustentará la distribución de los Fondos antes señalados.
 
@@ -265,9 +267,11 @@ Los recursos de este Fondo se destinarán exclusivamente a la satisfacción de s
 
 Respecto de las aportaciones que reciban con cargo a este Fondo, los municipios tendrán las mismas obligaciones a que se refiere la Ley de Coordinación Fiscal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 24.
 
-Las aportaciones con cargo a los Fondos señalados en este capítulo, no serán embargables, no podrán gravarse ni afectarlas en garantía, ni destinarse a fines distintos de los expresados en la Ley de Coordinación Fiscal; serán cubiertas en efectivo y no podrán ser objeto de deducciones, salvo lo dispuesto en el artículo 9° de la Ley de Coordinación Fiscal.
+Las aportaciones con cargo a los Fondos señalados en este Capítulo, no serán embargables, no podrán gravarse ni afectarlas en garantía, ni destinarse a fines distintos de los expresados en la Ley de Coordinación Fiscal; serán cubiertas en efectivo y no podrán ser objeto de deducciones, salvo lo dispuesto en el artículo 9 de la Ley de Coordinación Fiscal y 37 de esta ley.
 
 Los recursos que por concepto de aportaciones federales reciban los municipios, serán administrados y ejercidos conforme a la aplicación de sus propias leyes, por tanto, deberán registrarlos como ingresos propios, destinados específicamente a los fines establecidos en la Ley de Coordinación Fiscal.
 
@@ -329,6 +333,26 @@ Cuando un municipio no cumpla con lo señalado en algún Convenio de Colaboraci�
 
 En caso de que el incumplimiento sea por parte del Gobierno del Estado o entre los municipios, el municipio afectado podrá presentar su inconformidad al Congreso, quien deberá emitir resolución a los 30 días naturales siguientes de recibida.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 24 DE FEBRERO DE 2009)</small>
+
+### CAPITULO SEXTO. DE LAS GARANTIAS O FUENTE DE PAGO
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2009)</small>
+
+###### ARTICULO 37.
+
+Las aportaciones con cargo al Fondo a que se refiere la fracción I del artículo 17 de esta ley que correspondan a los Municipios, podrán afectarse para garantizar obligaciones en caso de incumplimiento, o servir como fuente de pago de las obligaciones que contraigan con la Federación, el Estado, las instituciones de crédito que operen en territorio nacional o con personas físicas o morales de nacionalidad mexicana, siempre que cuenten con autorización del Congreso del Estado y se inscriban a petición de los Municipios, según corresponda, ante la Secretaría de Hacienda y Crédito Público en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios, así como en el registro único de obligaciones y empréstitos a que se refiere el tercer párrafo del artículo 9 de la Ley de Coordinación Fiscal del Congreso General.
+
+Los financiamientos que den origen a las obligaciones a que hace referencia el párrafo anterior, únicamente podrán destinarse a los fines establecidos en el artículo 19 de esta ley y a lo señalado en la Ley de Coordinación Fiscal del Congreso General.
+
+Los Municipios que contraigan obligaciones al amparo de este artículo, no podrán destinar más del 25% de los recursos que anualmente les correspondan por concepto del Fondo de Aportaciones para la Infraestructura Social Municipal, para servir dichas obligaciones.
+
+Tratándose de obligaciones pagaderas en dos o más ejercicios fiscales, para cada año podrá destinarse al servicio de las mismas lo que resulte mayor entre aplicar el porcentaje a que se refiere el párrafo anterior a los recursos correspondientes al año de que se trate o a los recursos correspondientes al año en que las obligaciones hayan sido contratadas.
+
+Las obligaciones de los Municipios a que se refiere el segundo párrafo de este artículo se inscribirán en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios, cuando cuenten con la garantía del Gobierno del Estado, salvo cuando a juicio de la Secretaría de Hacienda y Crédito Público tengan suficientes aportaciones con cargo al Fondo a que se refiere la fracción I del artículo 17 de esta ley, para responder a sus compromisos.
+
+Los Municipios efectuarán los pagos de las obligaciones contraídas en los términos de este artículo, con cargo a las aportaciones que les correspondan del Fondo de Aportaciones para la Infraestructura Social Municipal, a través de mecanismos de garantía o de fuente de pago, sin perjuicio de los instrumentos y sistemas de registro establecidos en la Ley de Deuda Pública Estatal y Municipal de Tamaulipas.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -350,3 +374,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los siete días del mes de diciembre del año dos mil siete.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE FEBRERO DE 2009.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
