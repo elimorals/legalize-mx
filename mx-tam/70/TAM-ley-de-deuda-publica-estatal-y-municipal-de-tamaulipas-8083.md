@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-deuda-publica-estatal-y-municipal-de-tamaulipas-8083"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-30"
-last_updated: "2007-12-27"
+last_updated: "2009-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DEUDA PUBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 30 de diciembre de 1995.
 
@@ -117,7 +117,9 @@ I.- Solicitar los informes necesarios para analizar y aprobar en su caso, las so
 
 II.- Aprobar los montos de endeudamiento neto anual a que se refieren las Leyes de Ingresos del Estado y Municipios. El Presupuesto de Egresos del Estado debe incluir las cantidades necesarias para atender el servicio de la deuda previamente contraída.
 
-III.- Autorizar en los términos de la fracción anterior la afectación en garantía de pago, tanto de las participaciones en ingresos federales que correspondan al Estado o Municipios, como las estatales en el caso de los Municipios, así como los bienes muebles e inmuebles y los derechos de cobro propiedad de Las Entidades Públicas.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE FEBRERO DE 2009)</small>
+
+III.- Autorizar en los términos de la fracción anterior la afectación en garantía de pago, tanto de las participaciones en ingresos federales que correspondan al Estado o Municipios, de los Fondos de Aportaciones para la Infraestructura Social Municipal y Estatal, como las estatales en el caso de los Municipios, así como los bienes muebles e inmuebles y los derechos de cobro propiedad de las entidades públicas.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -147,7 +149,9 @@ II.- Celebrar los contratos para la obtención de créditos y demás operaciones
 
 III.- Reestructurar los créditos contratados como deudor directo o responsable solidario.
 
-IV.- Afectar en garantía de pago de las obligaciones contraídas directamente o como avalista, las participaciones que en ingresos federales correspondan al Estado, así como los bienes muebles e inmuebles y los derechos de cobro propiedad del Estado.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE FEBRERO DE 2009)</small>
+
+IV.- Afectar en garantía de pago de las obligaciones contraídas directamente o como avalista, las participaciones que en ingresos federales correspondan al Estado, de los Fondos de Aportaciones para la Infraestructura Social Estatal, así como los bienes muebles e inmuebles y los derechos de cobro propiedad del Estado.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
@@ -333,11 +337,11 @@ Para la modificación del registro efectuado, deberán cumplirse los requisitos 
 
 Para la cancelación del registro efectuado, deberá comprobarse fehacientemente el pago total de las obligaciones que fueron materia de registro.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 28.
 
-La inscripción de las obligaciones a cargo de los Municipios confiere a los acreditantes el derecho a que se (sic) sus créditos, en caso de incumplimiento, se cubran con cargo a las participaciones afectadas en garantía, deduciendo su importe de las que correspondan a aquéllos. Para este efecto, el acreditante deberá presentar su solicitud de pago ante la Secretaría de Finanzas del Estado, comunicándolo simultáneamente a la entidad pública deudora; la Secretaría confirmará la mora existente y, en su caso, efectuará el pago respectivo con cargo a las participaciones afectadas, informándolo al Municipio correspondiente.
+La inscripción de las obligaciones a cargo de los Municipios confiere a los acreditantes el derecho a que sus créditos, en caso de incumplimiento, se cubran con cargo a las participaciones y al Fondo de Aportaciones para la Infraestructura Social Municipal afectados en garantía, deduciendo su importe de las que correspondan a aquéllos. Para este efecto, el acreditante deberá presentar su solicitud de pago ante la Secretaría de Finanzas del Estado, comunicándolo simultáneamente a la entidad pública deudora; la Secretaría confirmará la mora existente y, en su caso, efectuará el pago respectivo con cargo a las participaciones y al Fondo de Aportaciones para la Infraestructura Social Municipal afectados, informándolo al Municipio correspondiente.
 
 T R A N S I T O R I O S
 
@@ -384,6 +388,12 @@ P.O. 6 DE SEPTIEMBRE DE 2006.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 27 DE DICIEMBRE DE 2007.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE FEBRERO DE 2009.
 
 ###### ARTICULO UNICO.
 
