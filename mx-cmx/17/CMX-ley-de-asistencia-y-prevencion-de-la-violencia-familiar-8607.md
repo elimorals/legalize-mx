@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-asistencia-y-prevencion-de-la-violencia-familiar-8607"
 country: "mx"
 rank: "ley"
 publication_date: "1996-07-08"
-last_updated: "2007-05-15"
+last_updated: "2009-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8607&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-06-26"
 
 LEY DE ASISTENCIA Y PREVENCION DE LA VIOLENCIA FAMILIAR
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE FEBRERO DE 2009.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 8 de julio de 1996 y republicada en la Primera Sección del Diario Oficial de la Federación, el martes 9 de julio de 1996.
 
@@ -194,9 +194,11 @@ El personal de las instituciones a que se refieren los dos artículos anteriores
 
 Dicho personal deberá participar en los procesos de selección, capacitación y sensibilización que la misma Secretaría establezca, a fin de que cuente con el perfil y aptitudes adecuadas.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 12.
 
-Corresponde a las Delegaciones:
+Corresponde a las delegaciones, a través de la unidad de atención:
 
 I. Llevar constancias administrativas de aquellos actos que de conformidad con la presente Ley, se consideren violencia intrafamiliar y que sean hechos de su conocimiento;
 
@@ -214,7 +216,7 @@ VI. Elaborar convenios entre las partes involucradas cuando así lo soliciten;
 
 VII. Imponer las sanciones administrativas que procedan en los casos de infracciones a la Ley; sin perjuicio de las sanciones que se contemplen en otros ordenamientos;
 
-VIII. Atender las solicitudes de las personas que tengan conocimiento de la violencia intrafamiliar, en virtud de la cercanía con el receptor de dicha violencia.
+VIII. Atender las solicitudes de las personas que tengan conocimiento de la violencia intrafamiliar, en virtud de la cercanía con el receptor de dicha violencia;
 
 > <small>(ADICIONADA, G.O. 2 DE JULIO DE 1998)</small>
 
@@ -222,7 +224,11 @@ IX. Emitir opinión o informe o dictamen con respecto al asunto que se le requie
 
 > <small>(ADICIONADA, G.O. 2 DE JULIO DE 1998)</small>
 
-X. Avisar al Juez de lo Familiar y en su caso al Ministerio Público para que intervenga de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores, de alimentos y de cuestiones relacionadas con violencia familiar, a fin de que se dicten las medidas precautorias que corresponden.
+X. Avisar al Juez de lo Familiar y en su caso al Ministerio Público para que intervenga de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores, de alimentos y de cuestiones relacionadas con violencia familiar, a fin de que se dicten las medidas precautorias que corresponden;
+
+> <small>(ADICIONADA, G.O. 24 DE FEBRERO DE 2009)</small>
+
+XI. Solicitar a la Secretaría de Seguridad Pública del Distrito Federal información que sea captada con equipos o sistemas tecnológicos, de conformidad con la Ley que Regula el Uso de Tecnología para la Seguridad Pública del Distrito Federal, y que se ofrezca en el procedimiento establecido en el artículo 28 de esta Ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE JULIO DE 1998)</small>
 
@@ -440,6 +446,10 @@ La reincidencia se sancionará con arresto administrativo inconmutable por 36 ho
 
 Para la acreditación de las infracciones o de la reincidencia a que hacen mención los artículos anteriores, se citará nuevamente a las partes para que éstas manifiesten lo que a su derecho convenga, antes de que el amigable componedor sancione dicho incumplimiento, sin mayor justificación.
 
+> <small>(ADICIONADO, G.O. 24 DE FEBRERO DE 2009)</small>
+
+Cuando en dicho procedimiento obren pruebas obtenidas por la Secretaría de Seguridad Pública del Distrito Federal con equipos y sistemas tecnológicos, las mismas se apreciarán y valorarán en términos de la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal.
+
 ### CAPÍTULO III. MEDIOS DE IMPUGNACIÓN
 
 ###### ARTÍCULO 29.
@@ -481,3 +491,9 @@ G.O. 15 DE MAYO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial.
+
+G.O. 24 DE FEBRERO DE 2009.
+
+PRIMERO.- El presente decreto iniciará su vigencia a partir del día siguiente de su publicación.
+
+SEGUNDO.- Se deroga toda disposición que se oponga al presente decreto.
