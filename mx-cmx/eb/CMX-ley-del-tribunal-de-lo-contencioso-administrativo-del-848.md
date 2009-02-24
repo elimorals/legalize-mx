@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-tribunal-de-lo-contencioso-administrativo-del-848"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-19"
-last_updated: "2007-07-18"
+last_updated: "2009-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=848&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1995-12-14"
 
 LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE FEBRERO DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 19 de diciembre de 1995.
 
@@ -730,6 +730,10 @@ Los testigos, que no podrán exceder de tres por cada hecho, deberán ser presen
 
 En caso de que el señalamiento de domicilio de algún testigo resulte inexacto o de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se impondrá al promovente una multa equivalente hasta treinta días de salario mínimo general diario vigente en el Distrito Federal, en el momento de imponerse la misma, debiendo declararse desierta la prueba testimonial.
 
+> <small>(ADICIONADO, G.O. 24 DE FEBRERO DE 2009)</small>
+
+ARTICULO 71 BIS.- Cuando en juicio obren pruebas obtenidas por la Secretaría de Seguridad Pública del Distrito Federal con equipos y sistemas tecnológicos, las mismas se apreciarán y valorarán en términos de la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal.
+
 > <small>(REFORMADA SU NUMERACION, G.O. 29 DE ENERO DE 2004)</small>
 
 ### CAPITULO VIII. De la Improcedencia y Sobreseimiento
@@ -1017,3 +1021,9 @@ G.O. 18 DE JULIO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 24 DE FEBRERO DE 2009.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que se opongan a la presente.
