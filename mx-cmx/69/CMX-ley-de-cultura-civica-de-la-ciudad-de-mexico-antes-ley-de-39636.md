@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-cultura-civica-de-la-ciudad-de-mexico-antes-ley-de-39636
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-31"
-last_updated: "2008-03-13"
+last_updated: "2009-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39636&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-19"
 
 LEY DE CULTURA CIVICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE FEBRERO DE 2009.
 
 Ley publicada en el Número Bis de la Gaceta Oficial del Distrito Federal, el lunes 31 de mayo de 2004.
 
@@ -673,6 +673,10 @@ Los procedimientos que se realicen ante los Juzgados, se iniciarán con la prese
 ###### Artículo 40.
 
 El Código de Procedimiento Penales para Distrito Federal será de aplicación supletoria a las disposiciones de este título.
+
+> <small>(ADICIONADO, G.O. 24 DE FEBRERO DE 2009)</small>
+
+Cuando en los procedimientos que establece esta Ley obren pruebas obtenidas por la Secretaría con equipos y sistemas tecnológicos, las mismas se apreciarán y valorarán en términos de la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal.
 
 ###### Artículo 41.
 
@@ -1447,3 +1451,9 @@ TERCERO.- Las personas que hayan sufrido únicamente daños causados culposament
 SEXTO.- El Jefe de Gobierno del Distrito Federal deberá emitir los ordenamientos administrativos necesarios para instrumentar el presente Decreto, para que entren en vigor el mismo día que este instrumento.
 
 ...
+
+G.O. 24 DE FEBRERO DE 2009.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que se opongan a la presente.
