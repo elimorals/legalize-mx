@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-justicia-para-adolescentes-para-el-distrito-federal-5749
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-14"
-last_updated: "2007-11-14"
+last_updated: "2009-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57497&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-10-25"
 
 LEY DE JUSTICIA PARA ADOLESCENTES PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE FEBRERO DE 2009.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 14 de noviembre de 2007.
 
@@ -709,6 +709,10 @@ V. Los medios de prueba no tendrán valor si han sido obtenidos por un medio il�
 VI. La confesión debe ser rendida ante el Ministerio Público o bien ante el Juez, sin coacción ni violencia física o moral; sobre hechos propios; asistido por su defensor y representante legal; que esté el adolescente debidamente enterado del procedimiento; y que no existan otros medios de prueba o presunciones que la hagan inverosímil, a juicio del Ministerio Público o del Juez. Ninguna confesión o información que haya sido obtenida mediante tortura podrá invocarse como medio de prueba.
 
 VII. Tratándose de los Procesos Orales las pruebas serán valoradas por el Juez según la sana crítica, observando las reglas de la lógica, los conocimientos científicos y las máximas de la experiencia; y tratándose de los Procesos Escritos, se estará a lo establecido por las reglas de valoración previstas en este artículo.
+
+> <small>(ADICIONADA, G.O. 24 DE FEBRERO DE 2009)</small>
+
+VIII. Cuando obren pruebas obtenidas por la Secretaría de Seguridad Pública del Distrito Federal con equipos y sistemas tecnológicos, las mismas se apreciarán y valorarán en términos de la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal.
 
 ### CAPÍTULO IX. DE LA CONCILIACIÓN
 
@@ -1561,3 +1565,11 @@ POR LA MESA DIRECTIVA.- DIP. FERNANDO ESPINO ARÉVALO, PRESIDENTE.- DIP. HUMBERT
 Firmas.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, base segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veinticinco días del mes de octubre del año dos mil siete. EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 24 DE FEBRERO DE 2009.
+
+PRIMERO.- El presente decreto iniciará su vigencia a partir del día siguiente de su publicación.
+
+SEGUNDO.- Se deroga toda disposición que se oponga al presente decreto.
