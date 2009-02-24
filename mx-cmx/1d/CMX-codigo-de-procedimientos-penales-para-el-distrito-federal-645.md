@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "2008-10-03"
+last_updated: "2009-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE FEBRERO DE 2009.
 
 Código publicado en el Diario Oficial de la Federación, el sábado 29 de agosto de 1931.
 
@@ -2079,6 +2079,10 @@ Ninguna confesión o información que haya sido obtenida mediante tortura podrá
 ###### ARTICULO 250.
 
 Los instrumentos públicos harán prueba plena, salvo el derecho de las partes para redargüirlos de falsedad y para pedir su cotejo con los protocolos, o con los originales existentes en los archivos.
+
+> <small>(ADICIONADO, G.O. 24 DE FEBRERO DE 2009)</small>
+
+La información a la que se refiere la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal, hará prueba plena, únicamente cuando cumpla los requisitos establecidos en dicha Ley.
 
 ###### ARTICULO 251.
 
@@ -5905,3 +5909,9 @@ El presente decreto se publicará en la Gaceta Oficial del Distrito Federal y en
 ###### ARTÍCULO SEGUNDO.
 
 El presente decreto entrará en vigor 180 días hábiles después de su publicación en la Gaceta Oficial del Distrito Federal, lapso en que la Procuraduría General de Justicia del Distrito Federal realizará las adecuaciones administrativas para la aplicación de la presente reforma.
+
+G.O. 24 DE FEBRERO DE 2009.
+
+PRIMERO.- El presente decreto iniciará su vigencia a partir del día siguiente de su publicación.
+
+SEGUNDO.- Se deroga toda disposición que se oponga al presente decreto.
