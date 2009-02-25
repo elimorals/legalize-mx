@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-consejeria-juridica-del-gobernador-69
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-16"
-last_updated: "2008-07-16"
+last_updated: "2009-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69286&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL GOBERNADOR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE LA CONSEJERIA JURIDICA Y DE ASISTENCIA LEGAL, PUBLICADO EN EL P.O. DE 25 DE FEBRERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 16 de julio de 2008.
 
@@ -398,3 +400,19 @@ Artículo Cuarto.- En cumplimiento a lo dispuesto por el artículo 8°, de la Le
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los ocho días del mes de julio del año dos mil ocho.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Juan Gabriel Coutiño Gómez, Consejero Jurídico del Gobernador.- Rúbricas.
+
+N. DE .E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
+
+P.O. 25 DE FEBRERO DE 2009.
+
+Artículo Primero.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Consejería Jurídica del Gobernador, publicado en el Periódico Oficial, número 104, Segunda Sección, Tomo III, de fecha dieciséis de julio del año dos mil ocho, así como la normatividad que de el emane, y se derogan las disposiciones que se opongan al contenido del presente ordenamiento jurídico.
+
+Artículo Tercero.- En los casos no previstos en el presente Reglamento Interior, y en los que se presente controversia en cuanto a su interpretación, aplicación y observancia, el Consejero Jurídico resolverá lo conducente.
+
+Artículo Cuarto.- Para las cuestiones no previstas en este Reglamento, respecto de las funciones de los diversos órganos administrativos y demás actividades del personal, se estará a lo dispuesto por los Manuales de Organización y Procedimientos de este Instituto.
+
+Artículo Quinto.- En tanto se actualizan los Manuales Administrativos respectivos, el Consejero Jurídico resolverá las incidencias de procedimiento y operación, que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Sexto.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente reglamento en el Periódico Oficial del Estado.
