@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-transporte-del-estado-de-morelos-57923"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-12"
-last_updated: "2008-10-29"
+last_updated: "2009-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE TRANSPORTE DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 12 de diciembre de 2007.
 
@@ -273,7 +273,7 @@ Son atribuciones del Director General de Control Vehicular:
 
 I. Expedir las placas metálicas, tarjetas de circulación, calcomanías, autorizaciones y permisos del servicio particular;
 
-lI. Expedir, suspender y cancelar licencias y permisos de conducir de uso particular;
+II. Expedir, suspender y cancelar licencias y permisos de conducir de uso particular;
 
 III. Controlar y resguardar las placas metálicas, tarjetas de circulación, calcomanías, autorizaciones, permisos y licencias de conducir de uso particular;
 
@@ -745,7 +745,7 @@ V.- Modalidad y especificaciones del servicio, cuando proceda, así como jurisdi
 
 VI.- Vigencia de la Concesión;
 
-VIl.- Características y antigüedad de los vehículos con los que se prestará el servicio, así como los datos del vehículo para la explotación del servicio;
+VII.- Características y antigüedad de los vehículos con los que se prestará el servicio, así como los datos del vehículo para la explotación del servicio;
 
 VIII.- En caso de personas morales, los vehículos que ampara la concesión;
 
@@ -861,7 +861,7 @@ Cumplidos los requisitos señalados en el artículo anterior a satisfacción de 
 
 Los permisos contendrán según la naturaleza del servicio:
 
-I.- Tipo de Permiso;
+l.- Tipo de Permiso;
 
 II.- Motivación y fundamento legal;
 
@@ -1069,7 +1069,7 @@ Cuando el gafete de identificación sea cancelado, la Dirección General de Tran
 
 La Dirección General de Transportes, está facultada para suspender en forma temporal a los operadores del servicio de transporte público, el uso del gafete de identificación para operador de vehículos de servicio de transporte público, por un término de tres a doce meses, en cualquiera de los casos siguientes:
 
-I.- Si acumula tres infracciones a la presente Ley o su Reglamento en el transcurso de un año contado a partir de la primera infracción;
+l.- Si acumula tres infracciones a la presente Ley o su Reglamento en el transcurso de un año contado a partir de la primera infracción;
 
 II.- Si acumula tres infracciones en materia de transito local en el transcurso de un año contado a partir de la primera infracción, y
 
@@ -1439,7 +1439,9 @@ Los concesionarios y permisionarios que infrinjan lo previsto en esta Ley y su R
 
 I.- Apercibimiento por escrito;
 
-II.- Multa de veinte a cuatrocientos días de salario mínimo vigente en la Entidad, de conformidad con el tabulador que establezca la Secretaría, mismo que deberá ser publicado en el Periódico Oficial del Estado;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2009)</small>
+
+II.- Multa de cinco a cien días de salario mínimo vigente en la Entidad, de conformidad con el tabulador que establezca la Secretaría, mismo que deberá ser publicado en el Periódico Oficial “Tierra y Libertad” del Estado. Al realizar el pago de la multa dentro de los primeros diez días hábiles tendrán el descuento del cincuenta por ciento;
 
 III.- Suspensión temporal de hasta noventa días de la prestación del servicio de transporte público de transporte de que se trate;
 
@@ -1652,3 +1654,17 @@ TERCERO.- Los recursos humanos, financieros y materiales de las unidades adminis
 CUARTO.- Los asuntos que con motivo de este Decreto deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la dependencia que señale este Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables, que serán resueltos por la dependencia que tenga el asunto a su cargo.
 
 QUINTO.- La Ley de Ejecución de Sanciones y Medidas de Seguridad, Privativas y Restrictivas de la Libertad para el Estado de Morelos, deberá interpretarse conforme al presente ordenamiento, en lo que se oponga al mismo.
+
+P.O. 25 DE FEBRERO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Aprobado que sea el presente, remítase al Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales o reglamentarias que se opongan al presente Decreto.
