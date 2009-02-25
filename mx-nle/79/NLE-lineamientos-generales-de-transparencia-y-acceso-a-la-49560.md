@@ -4,7 +4,7 @@ identifier: "NLE-lineamientos-generales-de-transparencia-y-acceso-a-la-49560"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2006-03-03"
-last_updated: "2006-03-03"
+last_updated: "2009-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "NLE"
 ---
 # LINEAMIENTOS GENERALES DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA LA COMISION ESTATAL ELECTORAL Y LAS COMISIONES MUNICIPALES ELECTORALES DEL ESTADO DE NUEVO LEON
 
-LINEAMIENTOS GENERALES DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA LA COMISION ESTATAL ELECTORAL Y LAS COMISIONES MUNICIPALES ELECTORALES DEL ESTADO DE NUEVO LEON
+LINEAMIENTOS GENERALES DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA LA COMISIÓN ESTATAL ELECTORAL Y LAS COMISIONES MUNICIPALES ELECTORALES DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA COMISIÓN ESTATAL ELECTORAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 25 DE FEBRERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Lineamientos publicados en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de marzo de 2006.
 
@@ -489,3 +491,15 @@ Segundo Vocal
 Mtra. Liliana Zandra Tijerina González
 
 Tercer Vocal
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE FEBRERO DE 2009.
+
+PRIMERO: El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Quedan abrogados los lineamientos Generales de Transparencia y Acceso a la Información Pública para la Comisión Estatal Electoral y las Comisiones Municipales Electorales del Estado de Nuevo León y cualquier otro que en materia de transparencia se haya aprobado con anterioridad.
+
+TERCERO: Los Partidos Políticos tendrán un término de ciento veinte días hábiles a partir de la entrada en vigor del presente Reglamento, para aportar a la Comisión la información pública de los Partidos Políticos que establece el artículo 52 BIS 1 de la Ley Electoral del Estado para su publicación en el portal de Internet de la Comisión.
+
+CUARTO: La Comisión tendrá un plazo de cuarenta y cinco días hábiles a partir del vencimiento del plazo mencionado en el transitorio tercero del presente Reglamento, para publicar en el portal de la página de Internet de la Comisión la información que los Partidos Políticos aportaron.
