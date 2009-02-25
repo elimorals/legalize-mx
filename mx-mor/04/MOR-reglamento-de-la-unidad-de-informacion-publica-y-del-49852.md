@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-unidad-de-informacion-publica-y-del-49852"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-22"
-last_updated: "2006-03-22"
+last_updated: "2009-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # REGLAMENTO DE LA UNIDAD DE INFORMACION PUBLICA Y DEL CONSEJO DE INFORMACION CLASIFICADA DE LA JUNTA EJECUTIVA ESTATAL DE MORELOS DEL PARTIDO POLITICO NUEVA ALIANZA
 
-REGLAMENTO DE LA UNIDAD DE INFORMACION PUBLICA Y DEL CONSEJO DE INFORMACION CLASIFICADA DE LA JUNTA EJECUTIVA ESTATAL DE MORELOS DEL PARTIDO POLITICO NUEVA ALIANZA
+REGLAMENTO DE LA UNIDAD DE INFORMACIÓN PÚBLICA Y DEL CONSEJO DE INFORMACIÓN CLASIFICADA DE LA JUNTA EJECUTIVA ESTATAL DE MORELOS DEL PARTIDO POLÍTICO NUEVA ALIANZA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. ACTUALIZADO POR ACUERDO MEDIANTE EL CUAL SE MODIFICA LA UNIDAD DE INFORMACIÓN PÚBLICA Y EL CONSEJO DE INFORMACIÓN CLASIFICADA DEL PARTIDO NUEVA ALIANZA, P.O. 25 DE FEBRERO DE 2009.</small>
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 22 de marzo de 2006.
 
@@ -47,7 +47,13 @@ La Unidad de Información Pública se constituye como un organismo integrante de
 
 Dicha Coordinación será la responsable de dotar de personal y apoyo técnico a la Unidad de Información Pública, con el fin de atender las necesidades de la ciudadanía en el acceso a la información.
 
-Será titular de la Unidad de Información Pública quien ostente la titularidad de la Coordinación Ejecutiva de Vinculación y durará en ella el mismo tiempo que dure su encargo.
+> <small>N. DE E. MODIFICADO POR NUMERAL I DEL ACUERDO MEDIANTE EL CUAL SE MODIFICA LA UNIDAD DE INFORMACIÓN PÚBLICA Y EL CONSEJO DE INFORMACIÓN CLASIFICADA DEL PARTIDO NUEVA ALIANZA, P.O. 25 DE FEBRERO DE 2009.</small>
+
+Se designa como titular de la Unidad de la Información Pública del Partido Nueva Alianza, al Coordinador de Administración y Finanzas de la Junta Ejecutiva Estatal, lo anterior de conformidad con el artículo 68 de la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos.
+
+> <small>N. DE E. MODIFICADO POR NUMERAL I DEL ACUERDO MEDIANTE EL CUAL SE MODIFICA LA UNIDAD DE INFORMACIÓN PÚBLICA Y EL CONSEJO DE INFORMACIÓN CLASIFICADA DEL PARTIDO NUEVA ALIANZA, P.O. 25 DE FEBRERO DE 2009.</small>
+
+La unidad mencionada en líneas anteriores se auxiliará por todas y cada una de las unidades administrativas que integran éste instituto.
 
 ###### Artículo 3.
 
@@ -117,19 +123,21 @@ IX. Elaborar el informe anual que el partido deberá enviar al Instituto Morelen
 
 X. Atender a los procedimientos que la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos establecen para el ejercicio de sus funciones.
 
+> <small>N. DE E. MODIFICADO POR NUMERAL I DEL ACUERDO MEDIANTE EL CUAL SE MODIFICA LA UNIDAD DE INFORMACIÓN PÚBLICA Y EL CONSEJO DE INFORMACIÓN CLASIFICADA DEL PARTIDO NUEVA ALIANZA, P.O. 25 DE FEBRERO DE 2009.</small>
+
 ###### Artículo 9.
 
-El Consejo de Información Clasificada se integrará por:
+El Consejo de Información Clasificada del Partido Nueva Alianza, estará integrado por los siguientes miembros:
 
-I. El Presidente de la Junta Ejecutiva Estatal, quien a su vez presidirá dicho Consejo.
+I.- El Presidente de la Junta Ejecutiva Estatal, como Presidente del Consejo.
 
-II. Un miembro del Consejo Estatal, designado por el Presidente de la Junta Ejecutiva Estatal.
+II.- El Secretario General de la Junta Ejecutiva Estatal, como Coordinador del Consejo.
 
-III. Un Secretario Técnico, designado por el Presidente de la Junta Ejecutiva Estatal de entre los integrantes de la Comisión Estatal de la Defensa de los Derechos de los Afiliados.
+III.- El Asesor Jurídico de la Junta Ejecutiva Estatal, como Secretario Técnico del Consejo.
 
-IV. El titular de la Unidad de Información Pública.
+IV.- El titular de la Unidad de Información Pública.
 
-V. El titular de la Contraloría Interna, designado por el Coordinador de Administración y Finanzas.
+V.- El representante del Partido Nueva Alianza ante el Instituto Estatal Electoral.
 
 ###### Artículo 10.
 
@@ -210,3 +218,9 @@ SAHID BENÍTEZ GONZÁLEZ
 CONSEJERO ESTATAL
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE FEBRERO DE 2009.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 7 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MORELOS.
