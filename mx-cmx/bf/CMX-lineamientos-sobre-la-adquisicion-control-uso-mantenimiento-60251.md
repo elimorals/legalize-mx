@@ -4,7 +4,7 @@ identifier: "CMX-lineamientos-sobre-la-adquisicion-control-uso-mantenimiento-602
 country: "mx"
 rank: "lineamientos"
 publication_date: "2008-03-31"
-last_updated: "2008-03-31"
+last_updated: "2009-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60251&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-01-10"
 
 LINEAMIENTOS SOBRE LA ADQUISICION, CONTROL, USO, MANTENIMIENTO Y RESGUARDO DEL PARQUE VEHICULAR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE FEBRERO DE 2009.
 
 Lineamientos publicados en la Gaceta Oficial del Distrito Federal, el lunes 31 de marzo de 2008.
 
@@ -30,35 +30,29 @@ EL PLENO DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL, EN EJERCICIO DE LA FACULTA
 
 LINEAMIENTOS SOBRE LA ADQUISICIÓN, CONTROL, USO, MANTENIMIENTO Y RESGUARDO DEL PARQUE VEHÍCULAR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL.
 
-DISPOSICIONES GENERALES
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 2009)</small>
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 1.
 
 Los presentes Lineamientos son de observancia obligatoria para los servidores públicos que tengan asignados o usen vehículos propiedad del Tribunal Electoral del Distrito Federal.
 
-La Secretaría Administrativa vigilará el cumplimiento de los presentes Lineamientos. El Presidente o el Pleno pueden intervenir en cualquier momento en los asuntos que se regulan en el presente ordenamiento.
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 2009)</small>
+
+La Secretaría Administrativa vigilará el cumplimiento de los presentes Lineamientos.
+
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 2.
 
-Los presentes Lineamientos aplican para las áreas del Tribunal siguientes:
+Los presentes Lineamientos aplican para las áreas del Tribunal a las que se asigne temporal o definitivamente vehículos de servicio.
 
-a) Presidencia.
-
-b) Ponencias de Magistrados.
-
-c) Secretaría General.
-
-d) Secretaría Administrativa.
-
-e) Contraloría Interna.
-
-f) Dirección General Jurídica.
-
-g) Titulares de las áreas.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 3.
 
-Para el debido cumplimiento de estos Lineamientos, la Secretaría Administrativa estará facultada para:
+Para el debido cumplimiento de los presentes Lineamientos, la Secretaría Administrativa estará facultada para:
 
 I. Establecer el formato para requisitar datos del personal al que se asigne o use unidades del Tribunal, con el que se delimitarán las responsabilidades acordes a estos lineamientos;
 
@@ -68,21 +62,49 @@ III. Realizar de manera conjunta con la Dirección General Jurídica, los trámi
 
 IV. Realizar en forma oportuna y conveniente, las gestiones referentes a la obtención de placas de circulación, refrendos, pagos del impuesto sobre la tenencia y uso de vehículos y demás trámites similares, ante las autoridades competentes;
 
-V. Enviar el reporte a los resguardantes de los casos de uso indebido de los vehículos del Tribunal, y dar vista a la Contraloría, en su caso;
+> <small>(REFORMADA, G.O. 25 DE FEBRERO DE 2009)</small>
 
-VI. Guardar y controlar todos los vehículos de servicio, los que estén en proceso de reasignación y los que se encuentren en trámite de baja;
+V. Realizar en forma oportuna y conveniente, las gestiones referentes a la obtención del seguro para los vehículos de servicio propiedad del Tribunal;
 
-VII. Autorizar la baja de los vehículos por deterioro o uso normal, siniestro, robo, incosteabilidad de su reparación o venta, atendiendo a lo dispuesto en los Lineamientos para la Administración de Bienes Muebles del Tribunal Electoral del Distrito Federal;
+> <small>(REFORMADA, G.O. 25 DE FEBRERO DE 2009)</small>
 
-VIII. Expedir resguardos de los vehículos asignados como instrumento de trabajo y los de servicios;
+VI. Enviar el reporte a los resguardantes de los vehículos de servicio, en caso de uso indebido de ellos, y dar vista a la Contraloría, en su caso;
 
-IX. Cuidar que siempre se tenga dentro de los vehículos del Tribunal, la póliza de seguro vigente y una lista de ajustadores correspondiente;
+> <small>(REFORMADA, G.O. 25 DE FEBRERO DE 2009)</small>
 
-X. Tramitar oportunamente, el pago de las obligaciones fiscales, el cumplimiento del programa de verificación vehicular y otros que resulten;
+VII. Guardar y controlar todos los vehículos de servicio, los que estén en proceso de reasignación y los que se encuentren en trámite de baja;
 
-XI. Abrir un expediente por cada vehículo propiedad del Tribunal; y
+> <small>(REFORMADA, G.O. 25 DE FEBRERO DE 2009)</small>
 
-XII. Las demás que le señalan estos Lineamientos y los demás ordenamientos internos vigentes y aplicables en la materia.
+VIII. Autorizar la baja de los vehículos de servicio por deterioro o uso normal, siniestro, robo, incosteabilidad de su reparación o venta, atendiendo a lo dispuesto en este ordenamiento y en los Lineamientos para la Administración de Bienes Muebles del Tribunal Electoral del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 25 DE FEBRERO DE 2009)</small>
+
+IX. Expedir resguardos de los vehículos de servicio;
+
+> <small>(REFORMADA, G.O. 25 DE FEBRERO DE 2009)</small>
+
+X. Proveer lo necesario para que siempre se tenga dentro de los vehículos de servicio del Tribunal, la póliza de seguro vigente y una lista de los ajustadores correspondientes;
+
+> <small>(REFORMADA, G.O. 25 DE FEBRERO DE 2009)</small>
+
+XI. Tramitar oportunamente, el pago de las obligaciones fiscales, el cumplimiento del programa de verificación vehicular y otros que resulten;
+
+> <small>(REFORMADA, G.O. 25 DE FEBRERO DE 2009)</small>
+
+XII. Abrir un expediente por cada vehículo propiedad del Tribunal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 25 DE FEBRERO DE 2009)</small>
+
+XIII. Asignar de manera temporal los vehículos de servicio a las áreas del Tribunal, a efecto de garantizar los requerimientos operativos e institucionales de cada una de ellas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 25 DE FEBRERO DE 2009)</small>
+
+XIV. Asignar los vehículos de servicio, previo requerimiento que realicen las áreas; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 25 DE FEBRERO DE 2009)</small>
+
+XV. Las demás que le señalan estos Lineamientos y los ordenamientos internos vigentes y aplicables en la materia.
 
 ###### Artículo 4.
 
@@ -96,9 +118,11 @@ c) Datos de la licencia de manejo del resguardante; y
 
 d) Descripción del estado físico del vehículo.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 5.
 
-El expediente que abra la Secretaría Administrativa por cada vehículo, deberá contener por lo menos:
+El expediente que elabore la Secretaría Administrativa por cada vehículo, deberá contener por lo menos:
 
 a) La factura de la unidad;
 
@@ -110,17 +134,25 @@ d) El documento que contenga el diagnóstico del estado físico del vehículo, e
 
 e) Copia de la tarjeta de circulación.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 6.
 
-Para los efectos de aplicación e interpretación de los presentes Lineamientos, se entenderá lo siguiente:
+El Pleno, el Presidente, la Secretaría Administrativa y la Contraloría, estarán facultados para interpretar estos lineamientos. En todo caso, se entenderá lo siguiente:
 
-I. Áreas del Tribunal: Presidencia, Ponencias de Magistrados, Secretaría General, Secretaría Administrativa, Contraloría Interna, Dirección General Jurídica, Coordinaciones de Área y Centro de Capacitación Judicial Electoral.
+> <small>(REFORMADA, G.O. 25 DE FEBRERO DE 2009)</small>
+
+I. Áreas del Tribunal: Presidencia, Ponencias de Magistrados, Secretaría General, Secretaría Administrativa, Contraloría, Dirección General Jurídica, Coordinaciones de Área, Centro de Capacitación Judicial Electoral y Dirección de Tecnologías de la Información.
 
 II. Bitácora: Documento a través del cual se realice el control sobre el uso de los vehículos de servicio.
 
-III. Contraloría Interna: La Contraloría Interna del Tribunal Electoral del Distrito Federal.
+> <small>(REFORMADA, G.O. 25 DE FEBRERO DE 2009)</small>
 
-IV. Titulares de las Áreas: Los titulares de las áreas de Comunicación Social y Relaciones Públicas; de Documentación y Difusión y del Centro de Capacitación Judicial Electoral del Tribunal Electoral del Distrito Federal.
+III. Contraloría: La Contraloría General del Tribunal Electoral del Distrito Federal.
+
+> <small>(REFORMADA, G.O. 25 DE FEBRERO DE 2009)</small>
+
+IV. Titulares de las Áreas: Los titulares de las áreas de Presidencia, Ponencias, Secretaría General, Secretaría Administrativa, Contraloría, Dirección General Jurídica, Coordinaciones de Área, Centro de Capacitación Judicial Electoral y Dirección de Tecnologías de la Información.
 
 V. Dirección de Recursos Materiales y Servicios: La Dirección de Recursos Materiales y Servicios adscrita a la Secretaría Administrativa del Tribunal Electoral del Distrito Federal.
 
@@ -134,7 +166,9 @@ IX. Parque vehicular: Todos los vehículos propiedad del Tribunal Electoral del 
 
 X. Presidente: El Magistrado Presidente del Tribunal Electoral del Distrito Federal.
 
-XI. Resguardante: Servidor público al que se asignó un vehículo propiedad del Tribunal, para que cumpla con las funciones propias de su encargo o las de carácter institucional.
+> <small>(REFORMADA, G.O. 25 DE FEBRERO DE 2009)</small>
+
+XI. Resguardante: Servidor público que tenga asignado un vehículo de servicio para el desempeño de las actividades institucionales del Tribunal.
 
 XII. Secretaría Administrativa: La Secretaría Administrativa del Tribunal Electoral del Distrito Federal.
 
@@ -146,41 +180,41 @@ XV. Subdirección: La Subdirección de Recursos Materiales y Servicios adscrita 
 
 XVI. Tribunal: El Tribunal Electoral del Distrito Federal.
 
-XVII. Vehículos asignados como instrumento de trabajo: Los vehículos propiedad del Tribunal Electoral del Distrito Federal, asignados a determinados servidores públicos para el desempeño de sus labores.
+XVII. (REFORMADA [N. DE E. DEROGADA], G.O. 25 DE FEBRERO DE 2009)
 
 XVIII. Vehículo de servicio: Los vehículos propiedad del Tribunal Electoral del Distrito Federal, que se utilizan para el desempeño de actividades institucionales.
 
 XIX. Vales: Los vales de gasolina asignados por la Secretaría Administrativa a los servidores públicos previamente autorizados.
 
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 7.
 
-Únicamente se adquirirán nuevas unidades cuando se trate de sustituir los vehículos siniestrados y dictaminados como pérdida total por la compañía aseguradora, los que proceda su baja, de acuerdo con los criterios que establecen los Lineamientos para la Administración de Bienes Muebles del Tribunal, y para ampliar el parque vehicular.
+Conforme a las disponibilidades presupuestales se adquirirán nuevas unidades cuando se trate de sustituir los vehículos de servicio siniestrados y dictaminados como pérdida total por la compañía aseguradora; los que proceda su baja de acuerdo con los criterios que establecen los Lineamientos para la Administración de Bienes Muebles del Tribunal; y para ampliar el parque vehicular.
 
-Las adquisiciones de vehículos que se lleven a cabo, no deberán incluir los clasificados como de lujo, asimismo, no se autorizará arrendamiento de vehículos.
+Las adquisiciones de vehículos de servicio que se lleven a cabo, no deberán incluir los clasificados como de lujo. En ningún caso, se autorizará el arrendamiento de vehículos de servicio.
 
 ###### Artículo 8.
 
 La adquisición de vehículos nuevos, deberá ajustarse a las condiciones que para tal efecto establezcan los Lineamientos en Materia de Adquisiciones, Arrendamientos y Prestación de Servicios del Tribunal.
 
-En todo caso, dicha adquisición se sujetará a las políticas de austeridad que fije para ello el Tribunal, así como a los recursos con que cuente; excepto en el caso de que los vehículos sean adquiridos con recursos que provengan de partidas o proyectos específicos o similares y que establezcan particularidades en la compra de los mismos.
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 2009)</small>
+
+En todo caso, dicha adquisición se sujetará a las políticas de austeridad que fije para ello el Tribunal, así como a los recursos disponibles; excepto en el caso de que los vehículos de servicio sean adquiridos con recursos que provengan de partidas o proyectos específicos o similares y que establezcan particularidades en la compra de los mismos.
 
 ###### Artículo 9.
 
 En el caso de las donaciones de vehículos, el Tribunal deberá expresar su formal aceptación, una vez que la Secretaría Administrativa analice la conveniencia de integrar el vehículo al patrimonio del Tribunal y emita por escrito su dictamen.
 
-ASIGNACIÓN Y RESGUARDO
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 2009)</small>
+
+### CAPÍTULO II. ASIGNACIÓN Y RESGUARDO DE LOS VEHÍCULOS DE SERVICIO
+
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 10.
 
-En todo caso, para autorizar el uso de vehículos deberán tomarse en cuenta, las funciones y los requerimientos operativos de las áreas del Tribunal.
-
-La asignación de vehículos se realizará en dos formas:
-
-1 Como instrumento de trabajo para el ejercicio del cargo de los servidores públicos señalados en el artículo 12 de estos Lineamientos; y
-
-II (SIC). Para el cumplimiento de las funciones operativas e institucionales de las áreas del Tribunal.
-
-Los vehículos asignados como instrumento de trabajo, quedarán estrictamente bajo el resguardo de los servidores públicos señalados en el presente ordenamiento.
+En todo caso, para autorizar el uso de vehículos de servicio, deberán tomarse en cuenta las funciones y los requerimientos operativos e institucionales de las áreas del Tribunal.
 
 ###### Artículo 11.
 
@@ -188,161 +222,31 @@ La reasignación de vehículos por sustitución o que no resulten útiles o func
 
 ###### Artículo 12.
 
-Los servidores públicos a los que se les asignará vehículo como instrumento de trabajo para el desempeño de su cargo, serán los siguientes:
+(REFORMADO [N. DE E. DEROGADO], G.O. 25 DE FEBRERO DE 2009)
 
-a. Magistrados;
-
-b. Secretario General;
-
-c. Secretario Administrativo;
-
-d. Contralor Interno;
-
-e. Director General Jurídico; y
-
-f. Titulares de las Áreas;
-
-A estos servidores públicos, la Subdirección les dotará mensualmente de un block de vales para realizar las actividades propias de su encargo, cuyo monto a asignar por este concepto, será el especificado en el siguiente cuadro:
-
-Cargo Vehículos Tipo de vehículo Dotación diaria
-
-asignados de gasolina
-
-expresado
-
-en litros
-
-Magistrado 1 por cada Sedán 4 puertas, 12
-
-Magistrado hasta de 6
-
-cilindros, equipado
-
-Secretario 1 Sedán 4 puertas, 12
-
-General hasta de 6
-
-cilindros, equipado
-
-Secretario 1 Sedán 4 puertas, 12
-
-Administrativo hasta de 6
-
-cilindros, equipado
-
-Contralor 1 Sedán 4 puertas, 12
-
-Interno hasta de 6
-
-cilindros, equipado
-
-Director 1 Sedán 4 puertas,
-
-General hasta de 6
-
-Jurídico cilindros, equipado 12
-
-Titulares de 1 por cada Sedán 4 puertas, 12
-
-las Áreas Titular hasta de 6
-
-Titular cilindros, equipado
-
-Los vales que por algún motivo no sean utilizados por los servidores públicos descritos anteriormente, serán devueltos a la Secretaría Administrativa para su reasignación o ser utilizados en los vehículos de servicio.
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 13.
 
-Los vehículos de servicio como automóviles, camionetas, motocicletas propiedad del Tribunal, serán destinados únicamente para el cumplimiento de las actividades sustantivas del área a la que están asignados, siendo las siguientes:
+Los vehículos de servicio como automóviles, camionetas, motocicletas propiedad del Tribunal, serán destinados únicamente para el cumplimiento de las actividades sustantivas del área a la que están asignados.
 
-Área Número de vehículos Tipo de vehículo
+La asignación de vehículos de servicio se realizará por conducto del titular de la Dirección de Recursos Materiales y Servicios, previo requerimiento que mediante oficio realicen las áreas.
 
-de servicio
+La asignación de vehículos de servicio se realizará en dos formas:
 
-Presidencia 1 1 sedán 4 puertas
+a) Permanente.- Serán proporcionados a las áreas que, para el correcto cumplimiento de sus actividades sustantivas, requieran de manera constante de la utilización del vehículo; y
 
-4 cilindros compacto
+b) Temporal.- Serán proporcionados a las áreas que de manera eventual requieran de la utilización del vehículo, en los términos señalados en el artículo 16 de los presentes Lineamientos.
 
-austero
-
-Secretaría 2 2 sedán 4 puertas
-
-General 4 cilindros compacto
-
-austero
-
-Secretaría 6 1 camioneta tipo pick
-
-Administrativa up 8 cilindros
-
-2 camionetas para
-
-pasajeros
-
-3 sedán 4 puertas
-
-4 cilindros compacto
-
-austero
-
-Dirección 1 1 sedán 4 puertas
-
-General Jurídica 4 cilindros compacto
-
-austero
-
-Los vehículos de servicio bajo el resguardo de la Secretaría Administrativa, serán destinados única y exclusivamente a las actividades sustantivas de esa área y a satisfacer las necesidades institucionales de otras áreas, cuando así se requiera.
-
-Cuando menos, uno de los vehículos de servicio tipo sedán bajo el resguardo de la Secretaría Administrativa, estará destinado a sustituir los vehículos asignados a los Magistrados, al Secretario General y al Secretario Administrativo, cuando éstos sean enviados a reparación y/o al servicio.
+Los vehículos de servicio bajo el resguardo de la Dirección de Recursos Materiales y Servicios de la Secretaría Administrativa, serán destinados única y exclusivamente a las actividades sustantivas de esa área y a satisfacer las necesidades institucionales de otras áreas del Tribunal cuando así lo requieran.
 
 Todo vehículo de servicio deberá portar en lugar visible de su exterior el logotipo que lo identifique como tal.
 
-La Secretaría Administrativa será la responsable de proporcionar a los resguardantes de los vehículos de servicio, vales para la realización de sus actividades, conforme al cuadro siguiente:
+La Secretaría Administrativa será la responsable de proporcionar a las áreas por conducto de los resguardantes de los vehículos de servicio asignados temporalmente, vales para la realización de sus actividades ordinarias por el equivalente a $1,000.00 mensuales y la cantidad de $2,000.00 adicionales durante un proceso electoral o de participación ciudadana para garantizar los requerimientos operativos e institucionales que no puedan ser atendidos por la Dirección de Recursos Materiales y Servicios. Las cantidades anteriores no podrán ser rebasadas y en su caso, los excesos en que se incurran no serán objeto de reintegro.
 
-Área Número de Tipo de vehículo Vales que le
+Las cantidades anteriores podrán ser actualizadas periódicamente por la Secretaría Administrativa conforme al comportamiento del costo de los combustibles y las disponibilidades presupuestales.
 
-vehículos de corresponde
-
-servicio por kilómetros
-
-recorridos
-
-Presidencia 1 1 sedán 4 puertas 1 litro x cada
-
-4 cilindros 8 kilómetros
-
-compacto austero recorridos
-
-Secretaria 2 2 sedán 4 puertas 1 litro x cada
-
-General 4 cilindros 8 kilómetros
-
-compacto austero recorridos
-
-Dirección 1 1 sedán 4 puertas 1 litro x cada
-
-General 4 cilindros 8 kilómetros
-
-Jurídica compacto austero recorridos
-
-Secretaría 3 3 sedán 4 puertas 1 litro x cada
-
-Administrativa 4 cilindros 8 kilómetros
-
-compacto austero recorridos
-
-Secretaría 1 1 camioneta tipo 1 litro x cada
-
-Administrativa pick up 8 cilindros 4 kilómetros
-
-recorridos
-
-Secretaría 2 2 camionetas 1 litro x cada
-
-Administrativa para pasajeros 6 kilómetros
-
-recorridos
-
-Estos vales serán entregados previa revisión física de los vehículos y las bitácoras de los mismos.
+A los servidores que tengan vehículos de servicio resguardados por asignación temporal en términos del artículo 16 de estos Lineamientos, se les proporcionarán vales de gasolina conforme a la bitácora que al efecto se elabore.
 
 ###### Artículo 14.
 
@@ -350,11 +254,13 @@ La Secretaría Administrativa no proporcionará un vehículo de servicio, si no 
 
 ###### Artículo 15.
 
-Los resguardantes de los vehículos asignados como instrumento de trabajo serán los responsables de mantenerlos en adecuadas condiciones de uso, por lo que deberán presentar la unidad para su revisión y mantenimiento periódicamente, según lo disponga la Secretaría Administrativa, la cual realizará la programación, registro y control de los servicios y reparaciones que deban realizarse a cada vehículo.
+(REFORMADO [N. DE E. DEROGADO], G.O. 25 DE FEBRERO DE 2009)
+
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 16.
 
-Cuando así lo requieran las necesidades institucionales, los titulares de las diversas áreas del Tribunal que no tengan asignados vehículos de servicio, podrán solicitar, para el desempeño de actividades del organismo y previa justificación, un vehículo de servicio de los señalados en el artículo 13, mediante la requisición de los formatos que se exijan para tal efecto y oficio dirigido al titular de la Secretaría Administrativa. Este oficio deberá contener el concepto del servicio o la actividad a realizar, el periodo a utilizar especificando la fecha y horario, y la ruta a seguir, en caso de que sea fuera del Distrito Federal se estará a lo que el artículo 22 dispone.
+Cuando así lo exijan las necesidades institucionales, los titulares de las áreas del Tribunal que no tengan asignado vehículo de servicio de manera permanente, podrán solicitar la asignación temporal de una unidad de los vehículos de servicio bajo resguardo de la Dirección de Recursos Materiales y Servicios para el desempeño de las actividades institucionales a su cargo, mediante los formatos dispuestos para el efecto y previo oficio dirigido al titular de la Secretaría Administrativa. Este oficio deberá contener el concepto del servicio o actividad a realizar, el periodo a utilizar especificando la fecha y horario, y la ruta a seguir, en caso de que de que (sic) sea fuera del Distrito Federal se estará a lo que dispone el artículo 22.
 
 ###### Artículo 17.
 
@@ -366,23 +272,29 @@ En los casos a que se refiere el artículo 16, la Secretaría Administrativa ser
 
 ###### Artículo 19.
 
-La Secretaría Administrativa omitirá el oficio de solicitud, cuando haya realizado el trámite de reparación y/o servicio de alguno de los vehículos asignados como instrumento de trabajo, contemplados en el artículo 12 de los presentes Lineamientos.
+(REFORMADO [N. DE E. DEROGADO], G.O. 25 DE FEBRERO DE 2009)
 
 ###### Artículo 20.
 
 La Secretaría Administrativa deberá llevar un registro actualizado del parque vehicular del Tribunal y una bitácora de los vehículos de servicio. Anexo 1.
 
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 21.
 
-Los vehículos de servicio podrán usarse solamente para fines institucionales, y concentrarse en el estacionamiento del Tribunal, una vez concluido el horario de trabajo o cumplidas las comisiones especiales para los que sean utilizados. De igual forma, los fines de semana deberán permanecer bajo resguardo en el Tribunal.
+Los vehículos de servicio podrán usarse solamente para fines institucionales, y concentrarse en el estacionamiento del Tribunal, una vez concluido el horario de trabajo o cumplidas las comisiones especiales para los que sean utilizados. De igual forma, los fines de semana deberán permanecer bajo resguardo en el Tribunal, excepto por causas de trabajo.
+
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 22.
 
-Los vehículos de servicio no podrán circular fuera de los límites del Distrito Federal, salvo por razones de servicio y mediante autorización expresa del titular de la Secretaría Administrativa. La violación de esta disposición será motivo de responsabilidad administrativa, independientemente de otras que se deriven de las leyes respectivas.
+Los vehículos de servicio no podrán circular fuera de los límites del Distrito Federal, salvo por razones de servicio y mediante autorización expresa del titular del área de trabajo. La violación de esta disposición será motivo de responsabilidad administrativa, independientemente de otras que se deriven de las leyes respectivas.
+
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 23.
 
-En caso de que se compruebe mediante el kilometraje reportado en la bitácora, que los usuarios de vehículos de servicio salieron fuera del Distrito Federal, sin mediar comisión oficial, la Secretaría Administrativa lo hará del conocimiento de la Contraloría Interna, a fin de que ésta proceda de acuerdo a sus atribuciones.
+En caso de que se compruebe que los usuarios de vehículos de servicio transitaron fuera del Distrito Federal sin mediar comisión oficial, el titular del área lo hará del conocimiento de la Contraloría, a fin de que ésta proceda de acuerdo a sus atribuciones.
 
 ###### Artículo 24.
 
@@ -392,9 +304,11 @@ Por ningún motivo los servidores públicos que tengan bajo su resguardo vehícu
 
 Los usuarios de vehículos del Tribunal tendrán la obligación de respetar el Reglamento de Tránsito vigente; de igual forma, si le fuese levantada una infracción, ésta deberá ser cubierta por el servidor.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 26.
 
-Los servidores públicos que tengan asignados o utilicen vehículos del Tribunal, bajo ninguna circunstancia podrán ceder el uso de los mismos a personas ajenas al organismo. Además dichos servidores públicos deberán cumplir con las siguientes obligaciones:
+Los servidores públicos que tengan asignados o utilicen vehículos de servicio, bajo ninguna circunstancia podrán ceder el uso de los mismos a personas ajenas al organismo. Además dichos servidores públicos deberán cumplir con las siguientes obligaciones:
 
 I. Establecer las medidas de cuidado, uso racional y economía de los vehículos, procurando salvaguardar los intereses del Tribunal.
 
@@ -456,11 +370,13 @@ Para efectos de pago en cuanto a la reparación de daños y perjuicios de los ve
 
 ###### Artículo 33.
 
-En atención a que el vehículo asignado a los servidores públicos a que se refiere el artículo 12 de estos Lineamientos, se otorga como un instrumento de trabajo para el desempeño de su cargo, no están sujetos a las disposiciones contenidas en los artículos 20, 23 y 24.
+(REFORMADO [N. DE E. DEROGADO], G.O. 25 DE FEBRERO DE 2009)
+
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 34.
 
-Quienes infrinjan los presentes Lineamientos, incurrirán en responsabilidad administrativa haciéndose acreedores a las sanciones a que haya lugar.
+Los servidores públicos que infrinjan los presentes Lineamientos, incurrirán en responsabilidad administrativa haciéndose acreedores a las sanciones correspondientes.
 
 ## TRANSITORIOS
 
@@ -479,3 +395,13 @@ Que el presente documento constante de tres fojas útiles por el anverso y rever
 Lo que certifico en ejercicio de la facultad prevista en los artículos 188, inciso k) del Código Electoral del Distrito Federal, y 23, fracción XVII del Reglamento Interior de este Tribunal.
 
 México, Distrito Federal, a once de enero de dos mil ocho. DOY FE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LOS PRESENTES LINEAMIENTOS.</small>
+
+G.O. 25 DE FEBRERO DE 2009.
+
+PRIMERO. Las presentes reformas a los Lineamientos sobre la Adquisición, Control, Uso, Mantenimiento y Resguardo del Parque Vehicular del Tribunal Electoral del Distrito Federal entrarán en vigor al día hábil siguiente de su publicación en los estrados del Tribunal.
+
+SEGUNDO. Se abrogan y se derogan todas aquellas disposiciones que se opongan a las presentes reformas a los Lineamientos sobre la Adquisición, Control, Uso, Mantenimiento y Resguardo del Parque Vehicular del Tribunal Electoral del Distrito Federal.
+
+TERCERO. Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados y en el sitio de Internet del Tribunal.
