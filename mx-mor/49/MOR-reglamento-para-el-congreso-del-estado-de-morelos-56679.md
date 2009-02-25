@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-el-congreso-del-estado-de-morelos-56679"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-25"
-last_updated: "2009-02-11"
+last_updated: "2009-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 25 de julio de 2007
 
@@ -641,6 +641,8 @@ Los comités tendrán las atribuciones que se establecen en la ley y para su fun
 
 ### CAPÍTULO SEGUNDO. DE LAS SESIONES DEL PLENO
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 72.
 
 El proceso legislativo es el conjunto de actos y etapas formales a través de las cuales se inicia, discute, aprueba, sanciona e inicia su vigencia una ley, decreto o acuerdo parlamentarios.
@@ -677,9 +679,7 @@ XI. Constancia del periódico oficial respectivo.
 
 ###### ARTÍCULO 74.
 
-Se entenderá por sesión, a la reunión plenaria de los diputados legalmente convocados, con la asistencia del quórum legal celebrada en el salón de sesiones del recinto legislativo del Congreso o en el lugar así declarado por éste, en los casos previstos en la Constitución, en la Ley y en este Reglamento.
-
-El Congreso sesionará por lo menos una vez a la semana, salvo en casos fortuitos o de fuerza mayor, calificados por la Conferencia.
+Se entenderá por sesión, a la reunión plenaria de los diputados legalmente convocados, con la asistencia del quórum legal celebrada en el salón de sesiones del recinto legislativo del Congreso o en el lugar así declarado por éste, en los casos previstos en la Constitución, en la Ley y en este Reglamento. El Congreso sesionará por lo menos una vez cada quince días, salvo en aquellos casos determinados por la Conferencia.
 
 ###### ARTÍCULO 75.
 
@@ -1831,7 +1831,7 @@ LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO</small>
 
 P.O. 26 DE SEPTIEMBRE DE 2007.
 
@@ -1866,6 +1866,16 @@ Primero.- Una vez aprobado que sea el presente Decreto, entrará en vigor el mis
 Segundo.- Para efectos de su difusión, publíquese en la Gaceta Legislativa de este Congreso del Estado y en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 P.O. 11 DE FEBRERO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor el mismo día de su aprobación por el Pleno del Congreso.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase la presente reforma al Titular del Poder Ejecutivo del Estado, para su publicación inmediata en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, para su divulgación.
+
+P.O. 25 DE FEBRERO DE 2009.
 
 ###### ARTÍCULO PRIMERO.
 
