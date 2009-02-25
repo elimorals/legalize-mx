@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2009-02-11"
+last_updated: "2009-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -555,7 +555,9 @@ La Conferencia para la Dirección y Programación de los Trabajos Legislativos, 
 
 El Presidente de la Mesa Directiva del Congreso del Estado, será quien presida la Conferencia y supervise el cumplimiento de sus acuerdos a través del Secretario del Congreso y del Secretario de Administración y Finanzas.
 
-La Conferencia deberá quedar integrada a más tardar al día siguiente de que se haya constituido la Junta Política y de Gobierno. Se reunirá por lo menos una vez a la semana en periodos ordinarios de sesiones y cuando así lo determine durante los recesos; en ambos casos, a convocatoria de su Presidente o a solicitud de los coordinadores de por lo menos dos grupos parlamentarios.
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2009)</small>
+
+La Conferencia deberá quedar integrada a más tardar al día siguiente de que se haya constituido la Junta Política y de Gobierno. Se reunirá por lo menos una vez cada quince días en períodos ordinarios de sesiones, salvo en aquellos casos que la misma determine, y durante los recesos, con la periodicidad que la misma acuerde; en ambos casos, a convocatoria de su Presidente o a solicitud de los coordinadores de por lo menos dos grupos parlamentarios.
 
 La Conferencia adoptará sus resoluciones por consenso; en caso de no alcanzarse éste, se tomarán por mayoría calificada mediante el sistema de voto ponderado de los coordinadores de los grupos parlamentarios.
 
@@ -1043,7 +1045,7 @@ IV. Propiciar el reconocimiento de condiciones equitativas e igualdad de oportun
 
 V. Contribuir a la creación de espacios de expresión de quienes trabajan por la igualdad de las mujeres y contra la violencia hacia ellas;
 
-VI. Dictaminar, en unión con las comisiones legislativas respectivas, sobre la legislación, así como su reforma, modificación o. adición, que se relacione con la equidad de género;
+VI. Dictaminar, en unión con las comisiones legislativas respectivas, sobre la legislación, así como su reforma, modificación o adición, que se relacione con la equidad de género;
 
 VII. La atención de asuntos relativos a la discriminación o maltrato de la mujer, por razón de raza, edad, ideología política, creencia religiosa o situación socioeconómica, entre otros;
 
@@ -1618,6 +1620,16 @@ Primero.- Una vez aprobado que sea el presente Decreto, entrará en vigor el mis
 Segundo.- Para efectos de su difusión, publíquese en la Gaceta Legislativa de este Congreso del Estado y en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 P.O. 11 DE FEBRERO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor el mismo día de su aprobación por el Pleno del Congreso.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase la presente reforma al Titular del Poder Ejecutivo del Estado, para su publicación inmediata en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, para su divulgación.
+
+P.O. 25 DE FEBRERO DE 2009.
 
 ###### ARTÍCULO PRIMERO.
 
