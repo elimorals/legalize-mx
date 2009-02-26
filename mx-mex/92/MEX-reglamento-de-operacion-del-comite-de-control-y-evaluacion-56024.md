@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-operacion-del-comite-de-control-y-evaluacion-5602
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-06"
-last_updated: "2007-06-06"
+last_updated: "2009-02-26"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MEX"
 
 REGLAMENTO DE OPERACION DEL COMITE DE CONTROL Y EVALUACION DE LA SECRETARIA DE DESARROLLO SOCIAL DEL GOBIERNO DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE FEBRERO DE 2009.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el miércoles 6 de junio de 2007.
 
@@ -38,9 +38,11 @@ REGLAMENTO DE OPERACIÓN DEL COMITÉ DE CONTROL Y EVALUACIÓN DE LA SECRETARÍA 
 
 ### CAPITULO PRIMERO. DE LA INTEGRACIÓN DEL COMITÉ
 
+> <small>(REFORMADO, G.G. 26 DE ENERO DE 2009)</small>
+
 ###### Artículo 1.
 
-Las disposiciones del presente reglamento, tienen por objeto, reglamentar la organización y funcionamiento del Comité de Control y Evaluación de la Secretaría de Desarrollo Social.
+Las disposiciones del presente Reglamento, tienen por objeto, reglamentar la integración, organización y funcionamiento del Comité de Control y Evaluación de la Secretaría de Desarrollo Social.
 
 ###### Artículo 2.
 
@@ -48,9 +50,23 @@ Para los efectos de este reglamento se entenderá por:
 
 I. SEDESEM: Secretaría de Desarrollo Social.
 
-II. Comité: Al Comité de Control y Evaluación.
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2009)</small>
+
+II. Comité o COCOE: Al Comité de Control y Evaluación de la Secretaria de Desarrollo Social.
 
 III. Reglamento: Al Reglamento de Operación del Comité de Control y Evaluación.
+
+> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
+
+IV. Instancias Fiscalizadoras La Secretaría de la Contraloría del Gobierno del Estado de Internas México y la Contraloría Interna de la SEDESEM.
+
+> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
+
+V. Instancias Fiscalizadoras: La Auditoría Superior de la Federación, la Secretaría de la Externas Función Pública del Gobierno Federal, el Órgano Superior de Fiscalización del Estado de México y los despachos de Auditoría Externa.
+
+> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
+
+VI. MICI: Al Modelo Integral de Control Interno.
 
 ###### Artículo 3.
 
@@ -68,9 +84,11 @@ V. Hoja de firmas y rúbricas de los integrantes del Comité; y
 
 VI. Sello de la dependencia, en su caso.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE ENERO DE 2009)</small>
+
 ###### Artículo 4.
 
-El Comité se integrará de la forma siguiente:
+El COCOE se integrará de la forma siguiente:
 
 I. Un Presidente, que será el Secretario de Desarrollo Social del Gobierno del Estado de México;
 
@@ -94,15 +112,21 @@ g) Unidad de Información, Planeación, Programación y Evaluación;
 
 h) Coordinación de Administración y Finanzas.
 
+> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
+
+IV. El Director General de Control y Evaluación, de la Secretaría de la Contraloría, con carácter de Vocal.
+
 ###### Artículo 5.
 
 El Comité podrá convocar a invitados especiales, cuando se estime que puedan hacer aportaciones sustantivas para el desarrollo de los trabajos del mismo.
 
 El Secretario de la Contraloría, será invitado permanente del Comité y podrá asistir a las sesiones cuando así lo decida.
 
+> <small>(REFORMADO, G.G. 26 DE ENERO DE 2009)</small>
+
 ###### Artículo 6.
 
-Todos los integrantes tendrán derecho a voz y voto, a excepción del Secretario Técnico y los Invitados Especiales, quienes tendrán derecho a voz, pero no a voto; en caso de empate, el Presidente tendrá voto de calidad.
+Todos los integrantes del Comité tendrán derecho a voz y voto, a excepción del Vocal representado por el Director General de Control y Evaluación, del Secretario Técnico y los Invitados Especiales, quienes tendrán derecho a voz, pero no a voto; en caso de empate, el Presidente tendrá voto de calidad.
 
 ###### Artículo 7.
 
@@ -114,31 +138,73 @@ Los integrantes del Comité tendrán la misma responsabilidad, jerarquía y facu
 
 ### CAPITULO SEGUNDO. DEL FUNCIONAMIENTO DEL COMITÉ
 
+> <small>(REFORMADO, G.G. 26 DE ENERO DE 2009)</small>
+
 ###### Artículo 9.
 
-El Comité será un Órgano Colegiado de apoyo, consulta y asesoría en materia de control y evaluación, de las unidades administrativas que integran la Secretaría, así como de los organismos auxiliares sectorizados, sin perjuicio de las responsabilidades de aquéllas instancias que por ley o normatividad deban realizar tareas de control.
+El COCOE es un órgano colegiado de análisis y evaluación, para fortalecer el control interno de las Unidades Administrativas que integran la SEDESEM así como de los Organismos Auxiliares sectorizados, sin perjuicio de las responsabilidades de aquéllas instancias que por ley o normatividad deban realizar tareas de control y tiene como objetivos:
+
+I. Coadyuvar al cumplimiento de los objetivos y metas interinstitucionales mediante la implementación de actividades que fortalezcan el control interno de la SEDESEM.
+
+II. Impulsar la eficiencia, eficacia, transparencia y legalidad en la actuación de la SEDESEM, a través del control interno.
 
 ###### Artículo 10.
 
 El funcionamiento del Comité será de carácter permanente, teniendo como ámbito de competencia la actuación de las unidades administrativas que conforman a la SEDESEM, y de los organismos auxiliares sectorizados, en términos de la normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE ENERO DE 2009)</small>
+
 ###### Artículo 11.
 
-De manera enunciativa y no limitativa, el Comité tendrá las funciones siguientes:
+De manera enunciativa y no limitativa, el COCOE tendrá las funciones siguientes:
 
 I. Contribuir con la transparencia de la gestión y rendición de cuentas, mediante la generación de instrumentos y mecanismos de control;
 
-II. Promover la eficiencia, eficacia y congruencia en la operación de la SEDESEM, a través de un adecuado control interno;
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2009)</small>
+
+II. Formular e implementar acciones específicas para fortalecer los mecanismos de control interno de la SEDESEM y darles seguimiento;
 
 III. Auxiliar a las unidades administrativas en el seguimiento de acuerdos sobre los asuntos de control, auditoría y evaluación, procurando agilidad, contenido técnico y objetividad en la toma de decisiones;
 
-IV. Comprobar que las solicitudes y recomendaciones efectuadas por la Secretaría de la Contraloría o el Órgano de Control Interno o alguna otra entidad Fiscalizadora, en el ámbito de su competencia, se cumplan en sus términos;
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2009)</small>
 
-V. Coordinar acciones de control y evaluación de todas aquellas instancias que intervienen en la toma de decisiones, a fin de agilizar la solución de los asuntos de su competencia;
+IV. Conocer el seguimiento realizado a las observaciones y recomendaciones emitidas por instancias fiscalizadoras, para establecer, en su caso, las medidas y acuerdos necesarios para su atención;
 
-VI. Dar seguimiento permanente y promover el cumplimiento de los acuerdos tomados o de los trabajos solicitados, que sean competencia del Comité;
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2009)</small>
 
-VII. Aprobar el Reglamento de Operación del Comité, y en su caso las modificaciones al mismo.
+V. Orientar acciones en materia de control interno, previo análisis del diagnóstico que se elabore para tal efecto, a fin de agilizar la solución de los asuntos de su competencia;
+
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2009)</small>
+
+VI. Dar seguimiento al cumplimiento y avance de los compromisos gubernamentales, procesos de mejoramiento de la calidad, y otros programas vinculados a la actividad institucional;
+
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2009)</small>
+
+VII. Aprobar el Reglamento de Operación del Comité, y en su casó las modificaciones, reformas o adiciones al mismo;
+
+> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
+
+VIII. Planear, programar y coordinar la implementación y operación del MICI, cuya ejecución podrá efectuarse por medio de grupos de trabajo o en equipos necesarios;
+
+> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
+
+IX. Crear comisiones de atención de actividades específicas en materia de Control. Interno;
+
+> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
+
+X. Establecer mecanismos de autoevaluación y analizar los resultados que se obtengan;
+
+> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
+
+XI. Promover el desarrollo de herramientas y mecanismos orientados al cumplimiento de las disposiciones de racionalidad, austeridad y disciplina presupuestal;
+
+> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
+
+XII. Autorizar la participación de invitados a las sesiones del COCOE; y
+
+> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
+
+XIII. Las demás necesarias para el logro de los objetivos del COCOE.
 
 ###### Artículo 12.
 
@@ -214,11 +280,15 @@ Son atribuciones del Secretario Técnico:
 
 I. Preparar y organizar las sesiones ordinarias y extraordinarias del Comité;
 
-II. Convocar en los términos fijados en los artículos 32, 33, 34, 35 y 36 de este Reglamento, a los integrantes e invitados del Comité;
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2009)</small>
+
+II. Convocar a los integrantes e invitados del COCOE, haciéndoles llegar el orden del día y la información relativa de los asuntos a tratar;
 
 III. Proponer y vigilar que se ejecuten las medidas específicas para la aplicación de las acciones aprobadas en cada sesión del Comité;
 
-IV. Durante las votaciones será responsable del escrutinio;
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2009)</small>
+
+IV. Fungir como responsable del escrutinio en los asuntos que sean sometidos a votación;
 
 V. Preparar la documentación soporte de los asuntos que se van a tratar en las sesiones del Comité;
 
@@ -244,6 +314,22 @@ XII. Presentar en cada sesión ordinaria del Comité, un informe de los asuntos 
 
 - Evaluación de los logros alcanzados y relación de los asuntos que se encuentren pendientes de atender.
 
+> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
+
+XIII. Elaborar la propuesta de orden del día y someterla a consideración del Presidente;
+
+> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
+
+XIV. Pasar lista de asistencia y declarar el quórum, en su caso; anunciar la segunda convocatoria cuando no se cuente con la asistencia requerida;
+
+> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
+
+XV. Conocer el informe de resultados del MICI y presentarlos al Comité para su análisis; y
+
+> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
+
+XVI. Presentar una evaluación anual de los logros alcanzados a través del Comité.
+
 ###### Artículo 24.
 
 Los vocales se constituirán dentro del Comité en una instancia técnica de consulta y apoyo con relación al ámbito de sus funciones, por lo que deberán asesorar, emitir las opiniones que el mismo les requiera e implementar las medidas necesarias para el cumplimiento de los acuerdos.
@@ -252,7 +338,9 @@ Los vocales se constituirán dentro del Comité en una instancia técnica de con
 
 Son atribuciones de los vocales:
 
-I. Hacer las sugerencias necesarias que aseguren el fortalecimiento del funcionamiento del Comité;
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2009)</small>
+
+I. Proponer medidas que fortalezcan las funciones del Comité;
 
 II. Opinar y presentar argumentos suficientes y necesarios que permitan al Comité tomar decisiones sobre los asuntos de la materia y votar en las sesiones;
 
@@ -260,7 +348,31 @@ III. Actuar como consultores competentes a cualquier problema y/o situación der
 
 IV. Vigilar el cumplimiento de los acuerdos tomados por el Comité en el ámbito de su competencia;
 
-V. Promover en las áreas de su competencia, la atención a las observaciones determinadas en las auditorías internas y externas.
+V. Promover en las áreas de su competencia, la atención a las observaciones determinadas en las auditorías internas y externas;
+
+> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
+
+VI. Coadyuvar en la planeación, programación, y coordinación del MICI, así como integrar y presentar ante el Comité sus resultados;
+
+> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
+
+VII. Dar seguimiento, en las áreas de su competencia, a las observaciones o recomendaciones determinadas en las auditorías practicadas por las instancias fiscalizadoras internas y externas;
+
+> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
+
+VIII. Las demás necesarias para el logro de los objetivos del Comité.
+
+> <small>(ADICIONADO, G.G. 26 DE ENERO DE 2009)</small>
+
+###### Articulo 25 Bis.
+
+Son atribuciones del Director General de Control y Evaluación en su carácter de Vocal:
+
+II. Asesorar al COCOE sobre la implementación y funcionamiento del MICI.
+
+II. Opinar en materia de control y evaluación, respecto a la forma en que se conducen las actividades de la SEDESEM, conforme al Programa Sectorial.
+
+III. Proponer la mejora continua en el Programa de Desarrollo y Calidad Institucional.
 
 ### CAPITULO QUINTO. DE LA PARTICIPACIÓN DE LOS INVITADOS
 
@@ -298,11 +410,21 @@ Son obligaciones de los miembros del Comité:
 
 I. Asistir puntualmente y con carácter obligatorio a las sesiones del Comité;
 
-II. Cumplir con oportunidad las actividades que le confiera el Comité;
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2009)</small>
+
+II. Dar cumplimiento y seguimiento a los acuerdos tomados durante las sesiones del Comité proporcionando oportuna y adecuadamente la información y documentación solicitada por éste, a través del Secretario Técnico;
 
 III. Proporcionar la información y documentación que le sean solicitadas sobre los asuntos que integran el orden del día y el seguimiento de los acuerdos;
 
-IV. Efectuar, en el ámbito de su competencia, las gestiones que se requieran para la atención de las observaciones determinadas en las auditorías internas y externas.
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2009)</small>
+
+IV. Efectuar de forma pronta y expedita, en el ámbito de su competencia, las gestiones que se requieran para la atención de las observaciones determinadas en las auditorías internas y externas.
+
+> <small>(ADICIONADO, G.G. 26 DE ENERO DE 2009)</small>
+
+###### Artículo 31 Bis.
+
+El titular de la Unidad de Información, Planeación, Programación y Evaluación, deberá presentar en cada sesión ordinaria la evaluación sobre los avances programáticos presupuestales.
 
 ### CAPITULO SEPTIMO. DE LAS CONVOCATORIAS
 
@@ -360,17 +482,9 @@ En caso de no reunirse el quórum requerido, el Secretario Técnico levantará e
 
 En las sesiones del Comité, los integrantes procederán a informar el avance y estado que guardan los asuntos que les hayan sido encomendados por acuerdo del Comité, centrando los trabajos en la presentación, revisión y análisis de los problemas sustantivos de la SEDESEM y que competan al Comité.
 
+(REUBICADO [N. DE E. ANTES ARTICULO 43], G.G. 26 DE ENERO DE 2009)
+
 ###### Artículo 42.
-
-El Secretario Técnico, hará llegar a cada uno de los miembros, en un plazo no mayor a cinco días hábiles contados a partir de la fecha de reunión, copia del acta.
-
-Los integrantes del Comité, en su caso, harán las observaciones que consideren pertinentes al acta, para lo cual tendrán un plazo no mayor a tres días hábiles contados a partir de la fecha de recepción de la misma para devolverla al Secretario Técnico, anexando sus comentarios.
-
-En caso de no recibirse observaciones al acta en el plazo establecido, se entenderá tácitamente aprobada.
-
-Las actas del Comité se firmarán en la sesión inmediata posterior a la de su fecha, previa lectura de la misma.
-
-###### Artículo 43.
 
 Los acuerdos del Comité se aprobarán por mayoría de votos, el miembro del Comité que vote en contra, deberá fundamentar su opinión por escrito, lo cual se hará constar en el acta y anexar a la misma.
 
@@ -380,15 +494,31 @@ En caso de empate, los miembros del Comité que tengan injerencia en el asunto t
 
 Ningún miembro del Comité podrá ser interrumpido mientras tenga la palabra, a menos que se trate de una moción de orden.
 
-###### Artículo 44.
+(REUBICADO [N. DE E. ANTES ARTICULO 44], G.G. 26 DE ENERO DE 2009)
+
+###### Artículo 43.
 
 Las sesiones del Comité no podrán exceder de tres horas, salvo que por mayoría de votos de sus integrantes se constituyan en sesión permanente para concluir la discusión o resolución de los asuntos pendientes.
 
-###### Artículo 45.
+(REUBICADO [N. DE E. ANTES ARTICULO 45], G.G. 26 DE ENERO DE 2009)
+
+###### Artículo 44.
 
 En cada sesión del Comité se levantará un acta, en la que se indicarán los acuerdos tomados y aprobados, así como el seguimiento de los acuerdos de sesiones anteriores hasta su conclusión.
 
 Los miembros del Comité firmarán el acta de dicha sesión, aceptando con ello el cumplimiento de los compromisos contraídos.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 42], G.G. 26 DE ENERO DE 2009)
+
+###### Artículo 45.
+
+El Secretario Técnico, hará llegar a cada uno de los miembros, en un plazo no mayor a cinco días hábiles contados a partir de la fecha de reunión, copia del acta.
+
+Los integrantes del Comité, en su caso, harán las observaciones que consideren pertinentes al acta, para lo cual tendrán un plazo no mayor a tres días hábiles contados a partir de la fecha de recepción de la misma para devolverla al Secretario Técnico, anexando sus comentarios.
+
+En caso de no recibirse observaciones al acta en el plazo establecido, se entenderá tácitamente aprobada.
+
+Las actas del Comité se firmarán en la sesión inmediata posterior a la de su fecha, previa lectura de la misma.
 
 ###### Artículo 46.
 
@@ -517,3 +647,11 @@ SECRETARIO DE DESARROLLO SOCIAL Y
 PRESIDENTE DEL COMITÉ DE CONTROL Y EVALUACION DE LA SECRETARIA
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+G.G. 26 DE ENERO DE 2009.
+
+PRIMERO.- El presente Acuerdo entra en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a las establecidas en el presente Acuerdo.
