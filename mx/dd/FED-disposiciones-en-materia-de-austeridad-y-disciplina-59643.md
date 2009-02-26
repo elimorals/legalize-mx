@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-en-materia-de-austeridad-y-disciplina-59643"
 country: "mx"
 rank: "otro"
 publication_date: "2008-02-27"
-last_updated: "2008-02-27"
+last_updated: "2009-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-02-13"
 
 DISPOSICIONES EN MATERIA DE AUSTERIDAD Y DISCIPLINA PRESUPUESTARIA DEL CONSEJO DE LA JUDICATURA FEDERAL PARA EL EJERCICIO FISCAL DOS MIL OCHO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DEL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION POR EL QUE SE ESTABLECEN LAS MEDIDAS DE CARACTER GENERAL DE RACIONALIDAD Y DISCIPLINA PRESUPUESTAL PARA EL EJERCICIO FISCAL 2009, PUBLICADO EN EL D.O.F. DE 26 DE FEBRERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: DEROGADO.
 
 Disposiciones publicadas en la Primera Sección del Diario Oficial de la Federación, el miércoles 27 de febrero de 2008.
 
@@ -188,3 +190,13 @@ PRIMERO.- Publíquense las presentes disposiciones en el Diario Oficial de la Fe
 SEGUNDO.- Lo no previsto y la interpretación de las presentes Disposiciones en Materia de Austeridad y Disciplina Presupuestaria para el Ejercicio Fiscal Dos Mil Ocho, para el Consejo de la Judicatura Federal, será resuelto por el propio Pleno.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que estas Disposiciones en Materia de Austeridad y Disciplina Presupuestaria del Consejo de la Judicatura Federal para el Ejercicio Fiscal dos mil ocho, fueron aprobadas por el Pleno del Consejo de la Judicatura Federal, en sesión de trece de febrero de dos mil ocho, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, María Teresa Herrera Tello, Indalfer Infante Gonzales y Jorge Moreno Collado.- México, Distrito Federal, a diecinueve de febrero de dos mil ocho.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 26 DE FEBRERO DE 2009.
+
+PRIMERO. El presente Acuerdo General entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan las disposiciones de observancia general respecto de las medidas en materia de disciplina presupuestaria y racionalidad emitidas por la Suprema Corte de Justicia de la Nación, el Consejo de la Judicatura Federal y el Tribunal Electoral del Poder Judicial de la Federación previas al presente Acuerdo General.
+
+TERCERO. Publíquese este Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
