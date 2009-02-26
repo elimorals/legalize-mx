@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51772"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2008-12-12"
+last_updated: "2009-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE FEBRERO DE 2009.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -1491,9 +1491,17 @@ XII. Coadyuvar con la Comisión de Vigilancia, Información y Evaluación, en la
 
 XIII. Las que en materia de transparencia y acceso a la información pública gubernamental le correspondan, de conformidad con el acuerdo general respectivo;
 
-XIV. Coordinar las tareas tendentes al establecimiento, desarrollo y mantenimiento del Sistema Computarizado para el Registro Unico de Profesionales del Derecho ante los tribunales de circuito y juzgados de distrito; y
+> <small>(ADICIONADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 26 DE FEBRERO DE 2009)</small>
 
-XV. Las demás que determinen el Pleno y la Comisión de Vigilancia, Información y Evaluación.
+XIV. Apoyar el desarrollo de las acciones dirigidas a la protección de datos personales;
+
+> <small>(ADICIONADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 26 DE FEBRERO DE 2009)</small>
+
+XV. Coadyuvar con el Comité de Acceso a la Información y Protección de Datos Personales del Consejo de la Judicatura Federal en la organización y supervisión del desarrollo de las funciones de la Unidad de Enlace, para su correcto funcionamiento administrativo;
+
+XVI. Coordinar las tareas tendentes al establecimiento, desarrollo y mantenimiento del Sistema Computarizado para el Registro Unico de Profesionales del Derecho ante los tribunales de circuito y juzgados de distrito; y
+
+XVII. Las demás que determinen el Pleno y la Comisión de Vigilancia, Información y Evaluación.
 
 ###### Artículo 86.
 
@@ -3640,3 +3648,11 @@ PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del propio Consejo.
+
+D.O.F. 26 DE FEBRERO DE 2009.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Para su difusión, publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en los medios electrónicos de consulta pública.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar, de inmediato, el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del propio Consejo.
