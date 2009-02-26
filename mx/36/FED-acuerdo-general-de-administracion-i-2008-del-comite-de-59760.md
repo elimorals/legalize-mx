@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-i-2008-del-comite-de-59760"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-02-29"
-last_updated: "2008-02-29"
+last_updated: "2009-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59760&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-02-27"
 
 ACUERDO GENERAL DE ADMINISTRACION I/2008, DEL VEINTISIETE DE FEBRERO DE DOS MIL OCHO, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE DETERMINAN LOS LINEAMIENTOS DE CARACTER GENERAL EN MATERIA DE RACIONALIDAD, AUSTERIDAD Y DISCIPLINA PRESUPUESTARIA PARA EL EJERCICIO FISCAL DEL 2008
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DEL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION POR EL QUE SE ESTABLECEN LAS MEDIDAS DE CARACTER GENERAL DE RACIONALIDAD Y DISCIPLINA PRESUPUESTAL PARA EL EJERCICIO FISCAL 2009, PUBLICADO EN EL D.O.F. DE 26 DE FEBRERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: DEROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de febrero de 2008.
 
@@ -160,3 +162,13 @@ Así lo acordaron y firman los señores Ministros Guillermo I. Ortiz Mayagoitia,
 El Ministro Presidente, Guillermo I. Ortiz Mayagoitia.- Rúbrica.- Los Ministros: Juan N. Silva Meza, José Fernando Franco González Salas.- Rúbricas.
 
 LICENCIADO RAFAEL COELLO CETINA, SECRETARIO EJECUTIVO DE ASUNTOS JURIDICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia del "ACUERDO GENERAL DE ADMINISTRACION 1/2008 (SIC), DEL VEINTISIETE DE FEBRERO DE DOS MIL OCHO, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE DETERMINAN LOS LINEAMIENTOS DE CARACTER GENERAL EN MATERIA DE RACIONALIDAD, AUSTERIDAD Y DISCIPLINA PRESUPUESTARIA PARA EL EJERCICIO FISCAL DEL 2008", constante de nueve fojas útiles, concuerda fiel y exactamente con su original que obra en esta Secretaría Ejecutiva y se certifica para la difusión correspondiente. México, Distrito Federal, a veintisiete de febrero de dos mil ocho.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 26 DE FEBRERO DE 2009.
+
+PRIMERO. El presente Acuerdo General entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan las disposiciones de observancia general respecto de las medidas en materia de disciplina presupuestaria y racionalidad emitidas por la Suprema Corte de Justicia de la Nación, el Consejo de la Judicatura Federal y el Tribunal Electoral del Poder Judicial de la Federación previas al presente Acuerdo General.
+
+TERCERO. Publíquese este Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
