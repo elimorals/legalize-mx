@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-procuraduria-general-de-justicia-del-45760"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-07-24"
-last_updated: "2006-09-03"
+last_updated: "2009-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 26 DE FEBRERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 24 de julio del 2005.
 
@@ -2642,3 +2644,17 @@ OCTAVO.- A partir de la entrada en vigor del presente decreto el Procurador dete
 NOVENO.- A partir de la entrada en vigor del presente decreto la denominación del Subprocurador A, será la de Subprocurador General de Justicia; y la del Subprocurador B, será la de Subprocurador de Justicia de la Región Laguna.
 
 DÉCIMO.- El Gobernador Constitucional del Estado, dentro de un plazo de ciento veinte días a partir de la entrada en vigor del presente decreto, designará al Subprocurador de Derechos Humanos, de acuerdo a lo establecido en este decreto y en los artículos 83 y 84 de la Constitución. Política del Estado.
+
+P.O. 26 DE FEBRERO DE 2009.
+
+Artículo Primero.- La presente ley entrará en vigor el día primero de mayo de dos mil nueve, debiendo efectuarse su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Artículo Segundo.- Se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado de Durango, publicada en el Periódico Oficial del Estado No. 7, de fecha veinticuatro de Julio de dos mil cinco y se derogan sus reformas y adiciones, así como todas aquellas disposiciones legales y reglamentarias que se opongan a la presente ley.
+
+Artículo Tercero.- El Gobernador del Estado expedirá el reglamento de esta ley dentro de los noventa días naturales contados a partir del día de inicio de su vigencia; en tanto, seguirá aplicándose en el municipio de Durango la reglamentación vigente en todo lo que no se oponga a las disposiciones del presente ordenamiento; respecto a los demás municipios del Estado continuará en vigor conforme a lo dispuesto por las fracciones II y III del artículo primero transitorio del Código Procesal Penal del Estado de Durango.
+
+Artículo Cuarto.- Los acuerdos, circulares y demás disposiciones administrativas dictadas por el Procurador General de Justicia, con fundamento en la Ley Orgánica que se abroga mediante el presente decreto, continuarán en vigor en lo que no se oponga a la presente ley hasta que aquél dicte las normas administrativas que correspondan.
+
+Artículo Quinto.- La reglamentación correspondiente a las Direcciones, Unidades. Contraloría Interna, e Instituto de Ciencias Penales y Formación Policial, contempladas en el artículo 6 de la presente, serán expedidos por el Titular del Poder Ejecutivo Estatal dentro de los noventa días naturales contados a partir del día de inicio de la vigencia de la presente ley.
+
+Artículo Sexto.- El cumplimiento de los requisitos previstos por la presente para el personal que se designe para laborar en el Municipio de la Capital, en virtud de la implementación del Sistema de Justicia .Penal regulado por el Código Procesal Penal del Estado de Durango, serán dispensados por única ocasión.
