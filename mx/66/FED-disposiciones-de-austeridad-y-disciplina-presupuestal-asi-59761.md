@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-de-austeridad-y-disciplina-presupuestal-asi-59761
 country: "mx"
 rank: "otro"
 publication_date: "2008-02-29"
-last_updated: "2008-02-29"
+last_updated: "2009-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59761&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-02-20"
 
 ACUERDO POR EL QUE SE AUTORIZA LA PUBLICACION EN EL DIARIO OFICIAL DE LA FEDERACION DE LAS DISPOSICIONES DE AUSTERIDAD Y DISCIPLINA PRESUPUESTAL, ASI COMO MEJORA Y MODERNIZACION DE LA GESTION PUBLICA DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION PARA EL EJERCICIO FISCAL 2008
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DEL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION POR EL QUE SE ESTABLECEN LAS MEDIDAS DE CARACTER GENERAL DE RACIONALIDAD Y DISCIPLINA PRESUPUESTAL PARA EL EJERCICIO FISCAL 2009, PUBLICADO EN EL D.O.F. DE 26 DE FEBRERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: DEROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de febrero de 2008.
 
@@ -182,3 +184,13 @@ Artículo Décimo Séptimo. Estas disposiciones de austeridad, mejora y moderniz
 Unico. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y permanecerá vigente durante el ejercicio fiscal 2008.
 
 Las presentes medidas fueron aprobadas en la segunda Sesión Ordinaria celebrada el 20 de febrero de 2008, por el Pleno de la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación.- México, D.F., a 22 de febrero de 2008.- El Secretario Administrativo y de la Comisión de Administración, Diego Gutiérrez Morales.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 26 DE FEBRERO DE 2009.
+
+PRIMERO. El presente Acuerdo General entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan las disposiciones de observancia general respecto de las medidas en materia de disciplina presupuestaria y racionalidad emitidas por la Suprema Corte de Justicia de la Nación, el Consejo de la Judicatura Federal y el Tribunal Electoral del Poder Judicial de la Federación previas al presente Acuerdo General.
+
+TERCERO. Publíquese este Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
