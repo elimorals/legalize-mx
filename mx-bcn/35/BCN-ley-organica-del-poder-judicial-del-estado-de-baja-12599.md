@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2008-11-19"
+last_updated: "2009-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 2009.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -775,7 +775,11 @@ VI.- De las diligencias preliminares de consignación, cuando el valor de la cos
 
 VII.- De los juicios sucesorios cualquiera que sea su cuantía.
 
-VIII.- De los demás asuntos que les encomienden las leyes.
+> <small>(REFORMADA, N. DE E. ADICIONADA], P.O. 27 DE FEBRERO DE 2009)</small>
+
+VIII.- De las órdenes de protección, exceptuando los asuntos de derecho familiar.
+
+IX.- De los demás asuntos que les encomienden las leyes.
 
 ###### ARTICULO 74.
 
@@ -879,6 +883,10 @@ V.- De las diligencias de exhortos, suplicatorias, requisitorias y despachos, re
 
 VI.- De las cuestiones relativas a los asuntos que afecten en sus derechos de persona a los menores e incapacitados así como, en general, todas las cuestiones familiares que reclamen la intervención judicial.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE FEBRERO DE 2009)</small>
+
+VII.- De la expedición de las órdenes de protección de naturaleza familiar.
+
 ###### ARTICULO 79.
 
 En los juzgados de lo familiar se llevará un registro en que conste los discernimientos que se hicieren de los cargos de tutor o curador.
@@ -895,9 +903,13 @@ Los jueces de lo Penal tendrán las siguientes atribuciones:
 
 I.- Conocer de todos los asuntos de carácter penal que no estén encomendados por esta Ley a la jurisdicción de los jueces de Paz.
 
-II.- Designar al personal que durante los períodos vacacionales deban quedar de guardia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE FEBRERO DE 2009)</small>
 
-III.- Las demás que les confieren las leyes.
+II.- Conocer de las órdenes de protección.
+
+III.- Designar al personal que durante los períodos vacacionales deban quedar de guardia.
+
+IV.- Las demás que les confieren las leyes.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA LA LEY.</small>
 
@@ -3592,3 +3604,7 @@ SEGUNDO.- El Tribunal de Justicia Electoral del Poder Judicial del Estado, de co
 TERCERO.- Quienes se encuentren ejerciendo el cargo de Secretario General y Secretarios al momento de la entrada en vigor del presente Decreto, pasarán a ser el Secretario General de Acuerdos y los Secretarios de Estudio y Cuenta a que se refiere la presente reforma, según corresponda, conservando sus derechos laborales adquiridos.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2009.
+
+ÚNICO.- Las presentes reformas entrarán en vigor, una vez que sean publicadas en el Periódico Oficial del Estado de Baja California y cobren vigencia las reformas a las disposiciones normativas requeridas para la aplicación de las órdenes de protección y de restricción.
