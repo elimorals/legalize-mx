@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2008-12-26"
+last_updated: "2009-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 2009.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -237,7 +237,9 @@ VI.- Dirigirse con respeto y cortesía a los demás Diputados durante las sesion
 
 VII.- Votar a favor o en contra tanto en las votaciones del Pleno del Congreso, como de las Comisiones que formare parte, en caso de abstención deberá fundar la misma;
 
-VIII.- Formular al término de cada ejercicio anual, un informe por escrito sobre sus intervenciones en el Pleno del Congreso y su resultado;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2009)</small>
+
+VIII.- Formular al término de cada ejercicio anual, un informe por escrito que deberá contener sus intervenciones en el Pleno del Congreso y su resultado, las gestorías y el trabajo comunitario realizados en los términos de esta ley, de igual forma podrá establecer las razones que motivaron el sentido de los votos emitidos como consecuencia de los procedimientos legislativos;
 
 IX.- Auxiliar a sus representados y a las comunidades del Estado, de conformidad con el último párrafo del Artículo 14 de la Constitución Local;
 
@@ -1948,3 +1950,9 @@ PRIMERO.- Córrase el trámite que señala el artículo 112 de la Constitución 
 SEGUNDO.- Agotado el trámite y pronunciada la declaratoria señalada en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítanse las presentes reformas a los artículos 27 y 49 de la Constitución Política del Estado de Baja California, artículo 8° de la Ley Orgánica de la Procuraduría General de Justicia del Estado y fracción VI del párrafo Cuarto del artículo 59 y fracción XIII del artículo 62 de la Ley Orgánica del Poder Legislativo del Estado de Baja California, por parte de la Presidencia de este Congreso al Poder Ejecutivo para su publicación.
 
 TERCERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE FEBRERO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
