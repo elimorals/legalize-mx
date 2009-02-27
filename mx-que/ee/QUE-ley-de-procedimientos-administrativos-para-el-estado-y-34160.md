@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-procedimientos-administrativos-para-el-estado-y-34160"
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-29"
-last_updated: "2008-02-29"
+last_updated: "2009-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO Y MUNICIPIOS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE FEBRERO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 27 DE FEBRERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 29 de septiembre de 2003.
 
@@ -1058,3 +1060,9 @@ P.O. 29 DE FEBRERO DE 2008.
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga".
 
 SEGUNDO. Se derogan todas las disposiciones legales o reglamentarias que se opongan a la presente.
+
+P.O. 27 DE FEBRERO DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley de Procedimientos Administrativos para el Estado y Municipios, publicada el veintinueve de septiembre de dos mil tres, en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
