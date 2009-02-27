@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-procuraduria-general-de-justicia-del-12238"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-04-17"
-last_updated: "2008-12-26"
+last_updated: "2009-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 2009.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes17 de abril de 1998.
 
@@ -61,7 +61,9 @@ III.- Proteger los derechos e intereses de las personas menores de dieciocho añ
 
 IV.- Ejercer las atribuciones que le corresponden en el ámbito de su competencia en el caso de conductas calificadas como delitos por las leyes estatales cometidas por adolescentes, conforme a los principios que establece el artículo 18 de la Constitución Política de los Estados Unidos Mexicanos y de conformidad con lo establecido con la Ley en materia de justicia para adolescentes del Estado;
 
-V.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE FEBRERO DE 2009)</small>
+
+V.- Aplicar e implementar, de acuerdo a las disposiciones procesales aplicables, las órdenes de protección, emergentes y preventivas;
 
 VI.- Proporcionar atención a las víctimas u ofendidos por la comisión de algún delito, y facilitar su coadyuvancia;
 
@@ -107,9 +109,13 @@ VII.- Asesorar al ofendido, asegurando el goce de sus derechos;
 
 VIII.- Ordenar la detención de los indiciados cuando estén satisfechas las exigencias contenidas en el artículo 16 de la Constitución General de la República;
 
-IX.- Solicitar del órgano jurisdiccional la aplicación de las medidas precautorias de arraigo y las órdenes de cateo, en los términos establecidos en la Constitución General de la República y en el Código de Procedimientos Penales para el Estado;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2009)</small>
 
-X.- Promover la conciliación de las partes en los delitos perseguibles por querella, o en los que sean competencia de los Juzgados Penales de Paz; con la finalidad de que lleguen a un convenio satisfactorio para ambas partes, y concluir el asunto por vía conciliatoria;
+IX.- Solicitar del órgano jurisdiccional la aplicación de las medidas precautorias de arraigo y las órdenes de cateo y de protección, en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos y en el Código de Procedimientos Penales para el Estado;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2009)</small>
+
+X.- Promover la conciliación de las partes en los delitos perseguibles por querella, a excepción de los que se refieran a mujeres víctimas de algún tipo o modalidad de violencia; o en los que sean competencia de los Juzgados Penales de Paz; con la finalidad de que lleguen a un convenio satisfactorio para ambas partes, y concluir el asunto por vía conciliatoria;
 
 XI.- Conceder la libertad provisional al indiciado en los términos establecidos en los artículos 108 y 122 del Código de Procedimientos Penales para el Estado de Baja California;
 
@@ -217,11 +223,17 @@ I.- Proporcionar orientación y asesoría legal, así como propiciar su eficaz c
 
 II.- Promover que se garantice y se haga efectiva la reparación del daño;
 
-III.- Concertar acciones con instituciones de asistencia médica y social, públicas o privadas, para efectos de cumplimentar el último párrafo del artículo 20 de la Constitución General de la República;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE FEBRERO DE 2009)</small>
 
-IV.- Promover en instituciones públicas o privadas, atención psicológica a sujetos pasivos del delito, y
+III.- Brindar asesoría a las mujeres víctimas de violencia en lo que concierne a la obtención de una orden de protección, ya sea emergente o preventiva;
 
-V.- Dictar las medidas y providencias pertinentes para proporcionar ayuda y auxilio a las víctimas de los delitos.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2009)</small>
+
+IV.- Concertar acciones con instituciones de asistencia médica y social, públicas o privadas, para efectos de cumplimentar el último párrafo del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos;
+
+V.- Promover en instituciones públicas o privadas, atención psicológica a sujetos pasivos del delito, y
+
+VI.- Dictar las medidas y providencias pertinentes para proporcionar ayuda y auxilio a las víctimas de los delitos.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE OCTUBRE DE 2006)</small>
 
@@ -577,7 +589,9 @@ VII.- Las demás que señale el Reglamento Interior de esta Ley.
 
 La Dirección de Atención a Víctimas del Delito, tendrá las siguientes atribuciones:
 
-I.- Proporcionar orientación y asesoría legal, a víctimas del delito, así como propiciar su eficaz coadyuvancia en los procesos penales;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2009)</small>
+
+I.- Proporcionar orientación y asesoría legal, a víctimas del delito, así como propiciar su eficaz coadyuvancia en los procesos penales, y en la obtención de las órdenes de protección;
 
 II.- Promover que se garantice y se haga efectiva la reparación del daño;
 
@@ -897,7 +911,9 @@ Son atribuciones de los Agentes del Ministerio Público del orden común las sig
 
 A) De los titulares de las Agencias del Ministerio Público investigadoras de delitos, Iniciadoras conciliadoras y por razón de la materia:
 
-I.- Recibir las denuncias de hechos que presuntivamente constituyen uno o más delitos;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2009)</small>
+
+I.- Recibir las denuncias de hechos que presuntivamente constituyen uno o más delitos, así como las solicitudes de expedición de las órdenes de protección;
 
 II.- Practicar las diligencias necesarias para comprobar si los hechos denunciados constituyen o no, uno o más delitos, y para establecer o no la probable responsabilidad de los indiciados;
 
@@ -927,7 +943,9 @@ XI.- Rendir los informes necesarios para su intervención en los juicios de ampa
 
 XII.- Disponer en casos necesarios, de los cuerpos de seguridad pública estatales o municipales para el ejercicio de sus funciones;
 
-XIII.- Restituir al ofendido en forma provisional, siempre y cuando la medida se justifique legalmente, en el goce de sus derechos, de oficio o a petición de parte, y de ser necesario se otorgue garantía suficiente para asegurar el pago de los daños y perjuicios que pudieran ocasionarse a terceros o al probable responsable;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2009)</small>
+
+XIII.- Restituir al ofendido en forma provisional, siempre y cuando la medida se justifique legalmente, en el goce de sus derechos, incluyendo las órdenes de protección aplicables, de oficio o a petición de parte, y de ser necesario se otorgue garantía suficiente para asegurar el pago de los daños y perjuicios que pudieran ocasionarse a terceros o al probable responsable;
 
 XIV.- Asegurar los bienes, instrumentos, objetos y valores relacionados con los hechos delictivos en los casos que corresponda, para ponerlos a disposición del órgano jurisdiccional o de la autoridad que compete;
 
@@ -1616,3 +1634,7 @@ PRIMERO.- Córrase el trámite que señala el artículo 112 de la Constitución 
 SEGUNDO.- Agotado el trámite y pronunciada la declaratoria señalada en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítanse las presentes reformas a los artículos 27 y 49 de la Constitución Política del Estado de Baja California, artículo 8° de la Ley Orgánica de la Procuraduría General de Justicia del Estado y fracción VI del párrafo Cuarto del artículo 59 y fracción XIII del artículo 62 de la Ley Orgánica del Poder Legislativo del Estado de Baja California, por parte de la Presidencia de este Congreso al Poder Ejecutivo para su publicación.
 
 TERCERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE FEBRERO DE 2009.
+
+ÚNICO.- Las presentes reformas entrarán en vigor, una vez que sean publicadas en el Periódico Oficial del Estado de Baja California y cobren vigencia las reformas a las disposiciones normativas requeridas para la aplicación de las órdenes de protección y de restricción.
