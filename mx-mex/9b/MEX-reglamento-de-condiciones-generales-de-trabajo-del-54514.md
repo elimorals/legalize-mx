@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-condiciones-generales-de-trabajo-del-54514"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-12"
-last_updated: "2007-02-12"
+last_updated: "2009-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54514&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO DE CONDICIONES GENERALES DE TRABAJO DEL INSTITUTO MATERNO INFANTIL DEL ESTADO DE MEXICO
 
-REGLAMENTO DE CONDICIONES GENERALES DE TRABAJO DEL INSTITUTO MATERNO INFANTIL DEL ESTADO DE MEXICO
+REGLAMENTO DE CONDICIONES GENERALES DE TRABAJO DEL INSTITUTO MATERNO INFANTIL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE FEBRERO DE 2009.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 12 de febrero de 2007.
 
@@ -69,9 +69,11 @@ El Organismo tratará con la representación sindical los asuntos que afecten lo
 
 Los Servidores Públicos Generales y los representantes sindicales tratarán los asuntos de carácter laboral con la Dirección de Administración y Finanzas, a través de la Subdirección de Administración.
 
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 5.
 
-Los Servidores Públicos de Confianza y los considerados como eventuales y honorarios no serán sujetos del presente Reglamento.
+Los Servidores Públicos considerados como eventuales y/o contratados por honorarios no serán sujetos del presente Reglamento.
 
 ###### ARTÍCULO 6.
 
@@ -99,7 +101,15 @@ VII. Reunir los conocimientos técnicos, profesionales y académicos, establecid
 
 VIII. No estar inhabilitado para el ejercicio del servicio público;
 
-IX. No tener antecedentes penales por delitos intencionales.
+IX. No tener antecedentes penales por delitos intencionales;
+
+> <small>(ADICIONADA, G.G. 27 DE FEBRERO DE 2009)</small>
+
+X. Acreditar, cuando proceda, el cumplimiento de la Ley del Servicio Militar Nacional;
+
+> <small>(ADICIONADO, G.G. 27 DE FEBRERO DE 2009)</small>
+
+Se prohíbe el ingreso de personal con carácter de meritorio.
 
 ###### ARTÍCULO 8.
 
@@ -353,11 +363,13 @@ IV. Acumulada, es la que comprende entre las siete horas a las veinte treinta ho
 
 La jornada normal de trabajo dependerá del turno en que se encuentre designado el Servidor Público y por las necesidades del servicio, puede ser turno matutino, vespertino, nocturno y jornada acumulada.
 
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 21.
 
-La jornada, turnos y horarios fijados a los Servidores Públicos, se respetarán y sólo serán modificados por el Instituto mediante la conformidad de los mismos o por las necesidades del servicio.
+La jornada, turnos y horarios fijados a los Servidores públicos, se respetarán y sólo serán modificados por el Instituto mediante la conformidad del Servidor Público o por las necesidades del servicio, si por esta modificación surgiera alguna inconformidad por parte de Servidores Públicos Sindicalizados se turnará para su conciliación al Sindicato.
 
-Así mismo, tratándose de Servidores Públicos Sindicalizados, cuando exista inconformidad será turnado el caso para conciliación con el Sindicato.
+Así mismo, los trabajadores de las diferentes áreas de los Hospitales gozarán de dos cambios de guardia por mes, afectando para esto el estímulo de puntualidad y asistencia.
 
 DEL HORARIO OFICIAL
 
@@ -509,9 +521,13 @@ El pago de los sueldos se efectuará, en días laborales del Servidor Público, 
 
 El Instituto cubrirá los sueldos devengados por los Servidores Públicos, los días 13 y 28 de cada mes, o a la víspera si no fueran laborables esas fechas. Al personal de fin de semana se le cubrirá dentro de su jornada en los mismos términos de este artículo.
 
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 44.
 
 Los Servidores Públicos tendrán derecho a percibir sueldo por los días de descanso semanal, de descanso obligatorio, aquellos en los que se suspendan las labores, durante vacaciones, por disfrute de licencia con goce de sueldo o por días económicos, quinquenios y por los demás casos, con las modalidades que señale la Ley y este Reglamento.
+
+Los Servidores Públicos que presten sus servicios durante el día domingo, tendrán derecho al pago adicional de un 25% sobre el monto de su sueldo base presupuestal de los días ordinarios de trabajo.
 
 ###### ARTÍCULO 45.
 
@@ -558,6 +574,10 @@ Cuando el sueldo base del servidor público exceda del doble del salario mínimo
 Esta prima se pagará, igualmente, en caso de muerte o resición (sic) de la relación laboral por causas no imputables al servidor público, cualquiera que sea su antigüedad.
 
 En caso de muerte del servidor público, la prima se pagará a sus beneficiarios, en el orden de prelación en que formalmente hayan sido designados ante el Instituto de Seguridad Social del Estado de México y Municipios. En caso de no existir esa designación dicha prima se pagará conforme a la prelación que establece la Ley de Seguridad Social para los Servidores Públicos del Estado y Municipios.
+
+> <small>(ADICIONADO, G.G. 27 DE FEBRERO DE 2009)</small>
+
+Así mismo, los Servidores Públicos gozarán de una gratificación especial al separarse del Instituto, consistente en un mes de sueldo base por cada cinco años de servicio prestados.
 
 ###### ARTÍCULO 55.
 
@@ -807,9 +827,11 @@ Son días de descanso obligatorio, los considerados como oficiales:
 
 DEL PAGO DE LOS DÍAS DE DESCANSO OBLIGATORIOS
 
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 2009)</small>
+
 ###### ARTÍCULO 83.
 
-Los Servidores Públicos que presten sus servicios en los casos del artículo anterior, tendrán derecho a que se les pague independientemente del salario que les corresponda por el descanso obligatorio, un salario doble por el servicio prestado, cuando éstos tengan horario de lunes a viernes en turno matutino o discontinuo, se exceptúa de esta disposición a los trabajadores que laboran en jornada nocturna o acumulada.
+Los Servidores Públicos que presten sus servicios en los casos del artículo anterior, tendrán derecho a que se les pague independientemente del salario que les corresponda por el descanso obligatorio, un salario doble por el servicio prestado, cuando estos tengan un horario de lunes a viernes en turno matutino, nocturno o discontinuo, se exceptúa de esta disposición a los trabajadores que laboran en jornada acumulada.
 
 DE LA SUSPENSIÓN DE LABORES
 
@@ -1119,7 +1141,9 @@ I. Los retardos que se registran entre el minuto once y el minuto veinte del hor
 
 II. Si el retardo ocurre entre el minuto 21 y el minuto treinta del horario establecido al trabajador, será un retardo mayor; si el Servidor Público incurre en tres de ellos en un término de quince días, no se le pagará el sueldo correspondiente a un día de sueldo base presupuestal.
 
-III. Si el retardo excede del minuto treinta y uno a partir de la hora de entrada no se le permitirá laborar al trabajador; salvo autorización expresa del Titular de la Unidad, considerándose como falta.
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 2009)</small>
+
+III. Se considerará como falta cuando el retardo exceda del minuto treinta, a partir de la hora de entrada, no se le permitirá laborar al trabajador, salvo autorización expresa del titular de la Unidad.
 
 SANCIONES MAYORES
 
@@ -1300,3 +1324,13 @@ P.L.C.P. y A.P. MIGUEL ÁNGEL GONZÁLEZ LARA
 JEFE DEL DEPARTAMENTO DE RECURSOS HUMANOS
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+G.G. 27 DE FEBRERO DE 2009.
+
+PRIMERO. Quedan sin efecto todas aquellas disposiciones sobre esta materia que contravengan lo establecido en las presentes modificaciones al Reglamento de Condiciones Generales de Trabajo del Instituto Materno Infantil del Estado de México.
+
+SEGUNDO. Las presentes modificaciones y adiciones al Reglamento de Condiciones Generales de Trabajo del Instituto Materno Infantil del Estado de México, son de aplicación obligatoria para los servidores públicos generales del Instituto Materno Infantil del Estado de México.
+
+TERCERO.- Publíquese el presente Acuerdo en periódico oficial "Gaceta del Gobierno".
