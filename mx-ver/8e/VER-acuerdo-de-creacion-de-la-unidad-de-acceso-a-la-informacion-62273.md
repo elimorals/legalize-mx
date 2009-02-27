@@ -4,7 +4,7 @@ identifier: "VER-acuerdo-de-creacion-de-la-unidad-de-acceso-a-la-informacion-622
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-07-24"
-last_updated: "2008-07-24"
+last_updated: "2009-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 ACUERDO DE CREACION DE LA UNIDAD DE ACCESO A LA INFORMACION Y DEL COMITE DE INFORMACION DE ACCESO RESTRINGIDO DEL INSTITUTO DE LA JUVENTUD VERACRUZANA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE FEBRERO DE 2009.
 
 Acuerdo publicado en el Número Extraordinario 239 de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el jueves 24 de julio de 2008.
 
@@ -43,13 +43,47 @@ He tenido a bien expedir el siguiente:
 
 A C U E R D O
 
-Primero. Se crea la Unidad de Acceso a la Información Pública del Instituto de la Juventud Veracruzana, cuyo titular tendrá las funciones prescritas en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2009)</small>
+
+Primero. Se crea la Unidad de Acceso a la Información Pública del Instituto de la Juventud Veracruzana, cuyo titular tendrá las funciones prescritas en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave
 
 Segundo. La Unidad de Acceso a la Información Pública estará integrada por un Jefe y personal de apoyo administrativo. El Jefe de la Unidad de Acceso a la Información Pública será nombrado mediante oficio del Titular del Instituto, mientras que el personal de apoyo administrativo será seleccionado de entre el personal que actualmente labore en el Organismo, por el Director General. Ninguno de los integrantes de la Unidad percibirá remuneración adicional por el cumplimiento de su cargo. La Unidad será responsable de:
 
 a) Vigilar la actualización permanentemente del Apartado de Transparencia en el sitio Web del Instituto de la Juventud Veracruzana; y
 
 b) Recibir las solicitudes de información que realicen los particulares y gestionar su atención por parte de las unidades administrativas del Instituto, cumpliendo con lo señalado al respecto en la Ley.
+
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2009)</small>
+
+c) Entregar o negar la información requerida, fundando y motivando su resolución en los términos de Ley.
+
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2009)</small>
+
+d) Recopilar la información a que se refiere el artículo 8 de la Ley de la materia, con veracidad, oportunidad, confiabilidad y demás principios que se establezcan en la Ley y los Lineamientos correspondientes;
+
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2009)</small>
+
+e) Elaborar los manuales de organización y procedimientos de la Unidad de Acceso a su cargo y someterlos a la aprobación del titular y de la Junta de Gobierno del Instituto.
+
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2009)</small>
+
+f) Remitir a más tardar en los meses de enero y julio de cada ano, un informe semestral de las actividades que realice, relativas a la información que le sea solicitada.
+
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2009)</small>
+
+g) Solicitar la capacitación necesaria en materia de disposiciones legales aplicables en materia de transparencia y acceso a la información.
+
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2009)</small>
+
+h) Preparar versiones públicas de los expedientes que forman el archivo de la Institución en los cuáles exista documentación debidamente clasificada y catalogada como reservada o confidencial.
+
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2009)</small>
+
+i) Elaborar el Proyecto del Reglamento de Operación de la Unidad de Acceso a la Información Pública y del Comité de Información de Acceso Restringido y presentarlo a la consideración del titular del Instituto, para que debidamente integrado, sea sometido a la aprobación de la Junta de Gobierno.
+
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2009)</small>
+
+j) Las demás que específicamente señalen los artículos 8 y 29 de la Ley (sic) transparencia y Acceso a la Información Pública del Estado de Veracruz de Ignacio de la Llave.
 
 Para el despacho de los asuntos de su competencia, así como para recibir solicitudes de información, la Unidad de Acceso a la Información Pública tendrá el siguiente domicilio:
 
@@ -75,33 +109,33 @@ a) El Director General del Instituto de la Juventud Veracruzana, en su carácter
 
 b) El Titular de la Unidad de Acceso a la Información Pública, como vocal.
 
-c) El Subdirector de Desarrollo Productivo, vocal, según lo dispone el lineamiento vigésimo segundo inciso c), de los Lineamientos Generales que deberán Observar los Sujetos Obligados por la Ley de transparencia y Acceso a la Información Pública para el Estado de Veracruz, de Ignacio de la Llave.
+> <small>(REFORMADO, G.O. 27 DE FEBRERO DE 2009)</small>
 
-d) El Subdirector de Coordinación y Evaluación en calidad de vocal.
+c) El Subdirector de Coordinación y Evaluación como vocal, según lo dispone el lineamiento vigésimo segundo inciso c), de los Lineamientos Generales que deberán Observar los Sujetos Obligados por la Ley de transparencia y Acceso a la Información Pública para el Estado de Veracruz para reglamentar la operación de las unidades de acceso a la información.
+
+> <small>(REFORMADO, G.O. 27 DE FEBRERO DE 2009)</small>
+
+d) El Subdirector de Desarrollo Productivo en calidad de vocal.
 
 e) El Jefe de Departamento de Administración y Finanzas como vocal.
 
-f) La Consultora Jurídica quien realizará las funciones de Secretario, quien contará con voz pero sin voto.
+> <small>(REFORMADO, G.O. 27 DE FEBRERO DE 2009)</small>
+
+f) El Consultor Jurídico quien realizará las funciones de Secretario, contando con voz pero sin voto.
 
 Sexto. Los miembros del Comité y los invitados permanentes podrán nombrar suplentes que los representen en las sesiones, quienes deberán tener la jerarquía inmediata inferior y asumirán la responsabilidad de su representado.
 
 El Comité podrá invitar a otras personas que coadyuven con sus funciones.
 
-Séptimo. El Comité de Información de Acceso Restringido, como cuerpo colegiado, tiene las siguientes atribuciones:
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 27 DE FEBRERO DE 2009)</small>
 
-I. Emitir el acuerdo que determine la clasificación de la Información Institucional como reservada o confidencial y sus respectivas modificaciones, cuando lo amerite la nueva documentación que se genere en el Instituto.
+Séptimo.- El Comité de Información de Acceso Restringido, como cuerpo colegiado, tiene las siguientes atribuciones:
 
-II. Determinar el plazo de reserva de la información en su caso, pudiendo prorrogarlo por una sola vez, fundando y motivando la clasificación, destacando la relación causa-efecto de que el daño que pueda producir la liberación de la información, sea mayor que el interés público de conocerla.
+I.- Emitir el acuerdo que determine la clasificación de la Información Institucional como reservada o confidencial y sus respectivas modificaciones, cuando lo amerite la nueva documentación que se genere en el Instituto.
 
-III. Supervisar que la operación de la Unidad Interna de Acceso a la Información, se ajuste a lo dispuesto por el capítulo primero del título segundo de la Ley de Transparencia y Acceso a la Información pública para el Estado de Veracruz de Ignacio de la Llave.
+II.- Determinar el plazo de reserva de la información en su caso, pudiendo prorrogarlo por una sola vez, fundando y motivando la clasificación, destacando la relación causa-efecto de que el daño que pueda producir la liberación de la información, sea mayor que el interés público de conocerla
 
-IV. Autorizar el reglamento de operación de la Unidad Interna de Acceso a la Información, que se elabore por el titular de la propia Unidad, u ordenar su publicación en la gaceta Oficial del Estado.
-
-V. Autorizar los manuales de organización y procedimientos de la Unidad de Acceso a la Información que elabore dicha dependencia y someterlos a la aprobación de la Junta de Gobierno, por conducto del titular del Instituto.
-
-VI. Revisar que la Unidad Interna de Acceso a la Información, aplique los criterios y lineamientos prescritos por el Instituto Veracruzano de Acceso a la Información en materia de ordenamiento, manejo, clasificación y conservación de los documentos, registros y archivos institucionales.
-
-VII. Las demás que le atribuya la Ley de Transparencia y Acceso a la Información para el Estado de Veracruz, así como los lineamientos que en esta materia de (sic) publiquen.
+III.- Las que señalen los lineamientos generales que deberán observar los sujetos obligados para clasificar información como reservada y confidencial.
 
 Octavo. El Comité sesionará con periodicidad cuatrimestral en forma ordinaria, y tendrá las sesiones extraordinarias que convoque su Presidente o la mayoría de sus integrantes. En la última sesión ordinaria de cada año, el Comité acordará, el calendario de sesiones ordinarias para el ejercicio fiscal posterior.
 
@@ -146,3 +180,15 @@ Director General del Instituto de la Juventud Veracruzana
 Rúbrica.
 
 LA PRESENTE HOJA CORRESPONDE A LA FIRMA DEL ACUERDO DE CREACIÓN DE LA UNIDAD DE ACCESO A LA INFORMACIÓN Y DEL COMITÉ DE CLASIFICACIÓN DE LA INFORMACIÓN DE ACCESO RESTRINGIDO DEL INSTITUTO DE LA JUVENTUD VERACRUZANA, DE FECHA DOS DE JUNIO DEL 2008.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 27 DE FEBRERO DE 2009.
+
+ARTÍCULOS TRANSITORIOS DE LA MODIFICACIÓN DEL 23 DE OCTUBRE DEL 2008.
+
+Primero.- El presente acuerdo de modificación entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo.- Con fundamento en lo dispuesto por el numeral 28 de la Ley de Transparencia y Acceso a la Información del Estado de Veracruz, se ordena elaborar el Reglamento de Operación tanto de la Unidad de Acceso a la Información como del Comité de Información de Acceso Restringido, documento que oportunamente deberá ser sometido a la aprobación de la Junta de Gobierno de este Instituto y publicado en la Gaceta Oficial del Estado.
+
+Tercero.- Sométase el presente acuerdo a la aprobación de la Junta de Gobierno de este Instituto en la primera sesión que se celebre, para todos los efectos del artículo 12 del Código de Procedimientos Administrativos del Estado.
