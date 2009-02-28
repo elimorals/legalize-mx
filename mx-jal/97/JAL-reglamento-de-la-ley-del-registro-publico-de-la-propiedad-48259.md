@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-del-registro-publico-de-la-propiedad-48259
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-08-02"
-last_updated: "2006-01-19"
+last_updated: "2009-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48259&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,7 +21,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2009.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 2 de agosto de 2001.
 
@@ -63,37 +63,41 @@ IV.- Autoridad Certificadora.- Es la autoridad administrativa encargada de exped
 
 V.- Forma Precodificada.- Documento que contiene los datos esenciales sobre un acto registrable, necesarios para su calificación y en su caso inscripción electrónica.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 3.
 
-Para los efectos del artículo 6 fracción II de la Ley, la circunscripción de las Oficinas Registrales será la siguiente:
+Para los efectos del artículo 6° fracción II de la Ley, la circunscripción de las Oficinas Registrales será la siguiente:
 
-Con sede en Guadalajara: Que comprende los municipios de Guadalajara, Tlaquepaque, Tonalá, Juanacatlán, Zapotlanejo, El Salto, Tala, Zapopan, San Cristóbal de la Barranca y Tlajomulco.
+I. Con sede en Guadalajara: que .comprende los municipios de Guadalajara, Tlaquepaque, Tonalá, Juanacatlán, Zapotlanejo. El Salto, Tala, Zapopan, San Cristóbal de la Barranca y Tlajomulco de Zuñiga;
 
-Con sede en Ameca: Que comprende los municipios de Ameca, Guachinango, San Martín Hidalgo, Tecolotlán, Juchitlán, Ahualulco de Mercado, Amatitán, San Juanito de Escobedo, El Arenal, Cocula, Etzatlán, Hostotipaquillo, Magdalena, San Marcos, Tequila y Teuchitlán.
+II. Con sede en Ameca: que comprende los municipios de Ameca, Guachinango, San Martín Hidalgo, Tecolotlán, Juchitlán, Ahualulco de Mercado, San Juanito de Escobedo, Cocula, Etzatlán, San Marcos y Teuchitlán;
 
-Con sede en Arandas: Que comprende los municipios de Arandas, Jesús María y Degollado.
+III. Con sede en Arandas: que comprende los municipios de Arandas, Jesús María, Degollado y San Ignacio Cerro Gordo;
 
-Con sede en Atotonilco el Alto: Que comprende los municipios de Atotonilco el Alto, Tototlán y Ayotlán.
+IV. Con sede en Atotonilco el Alto: que comprende los municipios de Atotonilco el Alto, Tototlán y Ayotlán;
 
-Con sede en Autlán de Navarro: Que comprende los municipios de Autlán de Navarro, El Limón, El Grullo, Casimiro Castillo, Villa Purificación, Atengo, Cuautla, Tenamaxtlán, Unión de Tula, Ayutla, Cihuatlán, La Huerta y Cuautitlán de García Barragán.
+V. Con sede en Autlán de Navarro: que comprende los municipios de Autlán de Navarro, El Limón, El Grullo, Casimiro Castillo, Villa Purificación, Atengo, Cuautla, Tenamaxtlán, Unión de Tula, Ayutla, Cihuatlán, La Huerta, Cuautitlán de García Barragán y Ejutla;
 
-Con sede en Zapotlán el Grande: Que comprende los municipios de Zapotlán el Grande, Quitupan, Valle de Juárez, Concepción de Buenos Aires, Mazamitla, La Manzanilla de la Paz, Tamazula de Gordiano, Santa María del Oro, Jilotlán de los Dolores, Tecalitlán, Pihuamo, Zapotiltic, Gómez Farias, Tuxpan, Tonila, Sayula, Ameca, Tapalpa, Atoyac, Techaluta de Montenegro, San Gabriel, Chiquilistlán, Tonaya, Tuxcacuesco, Tolimán y Zapotitlán de Vadillo.
+VI. Con sede en Zapotlán el Grande: que comprende los municipios de Zapotlán el Grande, Quitupan, Valle de Juárez, Concepción de Buenos Aires, Mazamitla, La Manzanilla de la Paz, Tamazula de Gordiano, Santa María del Oro, Jilotlán de los Dolores, Tecalitlán, Pihuamo, Zapotiltic, Gómez Farias, Tuxpan, Tonila, Sayula, Tapalpa, Atoyac, Techaluta de Montenegro, San Gabriel, Chiquilistlán, Tonaya, Tuxcacuesco, Tolimán, Zapotitlán de Vadillo y Amacueca;
 
-Con sede en Colotlán: Que comprende los municipios de Colotlán, Huejuquilla el Alto, Mezquitic, Huejúcar, Santa María de los Angeles, Villa Guerrero, Totatiche, Bolaños, Chimaltitán y San Martín de Bolaños.
+VII. Con sede en Colotlán: que comprende los municipios de Colotlán, Huejuquilla el Alto, Mezquitic, Huejúcar, Santa María de los Angeles, Villa Guerrero, Totatiche, Bolaños, Chimaltitán y San Martín de Bolaños;
 
-Con sede en Chapala: Que comprende los municipios de Chapala, Ixtlahuacán de los Membrillos, Jocotepec, Tizapán el Alto, Tuxcueca, Zacoalco de Torres, Teocuitatlán de Corona, Acatlán de Juárez, Villa Corona y Atemajac de Brizuela.
+VIII. Con sede en Chapala: que comprende los municipios de Chapala, Ixtlahuacán de los Membrillos, Jocotepec, Tizapán el Alto, Tuxcueca, Zacoalco de Torres, Teocuitatlán de Corona, Acatlán de Juárez, Villa Corona y Atemajac de Brizuela;
 
-Con sede en Lagos de Moreno: Que comprende los municipios de Lagos de Moreno, Ojuelos de Jalisco, Unión de San Antonio, San Diego de Alejandría, Encarnación de Díaz, San Juan de los Lagos, San Julián, Villa Hidalgo, y Teocaltiche.
+IX. Con sede en lagos de Moreno: que comprende los municipios de Lagos de Moreno, Ojuelos de Jalisco, Unión de San Antonio, San Diego de Alejandría, Encarnación de Díaz, San Juan de los Lagos, San Julián, Villa Hidalgo y Teocaltiche:
 
-Con sede en La Barca: Que comprende el municipio de La Barca.
+X. Con sede en La Barca: que comprende el municipio de La Barca;
 
-Con sede en Mascota: Que comprende los municipios de Mascota, San Sebastián del Oeste, Talpa, Atenguillo y Mixtlán.
+XI. Con sede en Mascota: que comprende los municipios de Mascota, San Sebastián del Oeste, Talpa de Allende, Atenguillo yMixtlán;
 
-Con sede en Ocotlán: Que comprende los municipios de Ocotlán, Poncitlán, Jamay, y Zapotlán del Rey.
+XII. Con sede en Ocotlán: que comprende los municipios de Ocotlán, Poncitlán, Jamay y Zapotlán del Rey;
 
-Con sede en Puerto Vallarta: Que comprende los municipios de Puerto Vallarta, Cabo Corrientes, y Tomatlán.
+XIII. Con sede en Puerto Vallarta: que comprende los municipios de Puerto Vallarta, Cabo Corrientes y Tomatlán;
 
-Con sede en Tepatitlán: Que comprende los municipios de Tepatitlán, San Miguel el Alto, Jalostotitlán, Valle de Guadalupe, Acatic, Cañadas de Obregón, Mexticacán, Yahualica de González Gallo, y Cuquío.
+XIV. Con sede en Tepatitlán de Morelos: que comprende los municipios de Tepatitlán de Morelos, San Miguel el Alto, Jalostotitlán, Valle de Guadalupe, Acatic, Cañadas de Obregón, Mexticacán, Yahualica dé González Gallo, Cuquio e Ixtlahuacán del Río; y
+
+XV. Con sede en Tequila: que comprende los municipios de Tequila, Amatitán, El Arenal, Hostotipaquillo y Magdalena.
 
 ###### Artículo 4.
 
@@ -782,3 +786,7 @@ HECTOR PEREZ PLAZOLA.
 P.O. 19 DE ENERO DE 2006.
 
 Único.- El presente acuerdo entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 28 DE FEBRERO DE 2009.
+
+ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
