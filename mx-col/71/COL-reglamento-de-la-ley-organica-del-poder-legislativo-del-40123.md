@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2008-11-01"
+last_updated: "2009-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2009.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -503,7 +503,9 @@ Las Comisiones del Congreso, serán las siguientes:
 
 I.- Justicia, Gobernación y Poderes;
 
-II.- Desarrollo Rural y Fomento Pesquero;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2009)</small>
+
+II.- Desarrollo Rural, Fomento Pesquero y Asuntos indígenas;
 
 III.- Educación, Cultura, y Deportes;
 
@@ -763,7 +765,7 @@ V.- Analizar y dictaminar, conjuntamente con la Comisión de Justicia, Gobernaci
 
 VI.- Apoyar los convenios que beneficien a los Migrantes Colimenses;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA](ADICIONADA, P.O. 30 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2006)</small>
 
 VII.- Coadyuvar con las autoridades competentes en la búsqueda de instrumentos adecuados para atender las causas que generan la Migración;
 
@@ -1443,6 +1445,8 @@ Si la comisión estimare necesario hacer modificaciones a la iniciativa que le f
 
 ### CAPITULO XIV. DE LA DISPENSA DE TRÁMITES
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 135.
 
 Las copias de los dictámenes deberán ser entregadas a los miembros del Congreso, al inicio de la sesión en que sean presentados.
@@ -1489,7 +1493,7 @@ VIII.- Las proposiciones suspensivas serán puestas a debate luego que se presen
 
 ###### Artículo 141.
 
-En caso de notoria urgencia calificada por mayoría absoluta, puede la Asamblea dispensar los trámites que para cada asunto determina este Reglamento, salvo lo dispuesto por el artículo 145 de este ordenamiento.
+En caso de notaria urgencia calificada por mayoría de votos de los Diputados presentes, puede la Asamblea dispensar los trámites que para cada asunto determine este Reglamento, sin que se omita en ningún caso el traslado al Ejecutivo, salvo lo dispuesto por el artículo 145 de este ordenamiento.
 
 ###### Artículo 142.
 
@@ -1509,7 +1513,7 @@ Formulada la proposición, será puesta a discusión inmediatamente, pudiendo ha
 
 Se necesita el voto de los dos tercios de los Diputados presentes para:
 
-I.- Dispensar todos los trámites de cualquier proyecto de Ley, excepto el de traslado al Ejecutivo;
+I.- (DEROGADA, P.O. 28 DE FEBRERO DE 2009)
 
 II.- Dispensar el que pase a Comisión un asunto devuelto con observaciones por el Ejecutivo;
 
@@ -2228,3 +2232,7 @@ SEGUNDO.- La Comisión de Desarrollo Rural, Fomento Pesquero y Asuntos Indígena
 P.O. 1 DE NOVIEMBRE DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
+
+P.O. 28 DE FEBRERO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
