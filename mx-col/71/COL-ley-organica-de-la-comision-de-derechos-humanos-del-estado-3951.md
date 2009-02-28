@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-comision-de-derechos-humanos-del-estado-3951
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-05-30"
-last_updated: "2003-01-11"
+last_updated: "2009-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 30 de mayo de 1992.
 
@@ -197,9 +197,21 @@ XI.- Elaborar y ejecutar programas preventivos en materia de derechos humanos;
 
 XII.- Supervisar el respeto a los derechos humanos en el sistema penitenciario del Estado;
 
-XIII.- Cumplir en el territorio del Estado con los Tratados, Convenios y Acuerdos Internacionales signados y ratificados por el Gobierno Mexicano en materia de derechos humanos; y
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2009)</small>
 
-XIV.- Los demás que le otorguen la presente Ley y otros ordenamientos legales.
+XIII.- Cumplir en el territorio del Estado con los Tratados, Convenios y Acuerdos Internacionales signados y ratificados por el Gobierno Mexicano en materia de derechos humanos;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2009)</small>
+
+XIV.- Formular denuncias y quejas ante la autoridad respectiva, salvo tratándose de asuntos del orden electoral, laboral y jurisdiccional, en los términos establecidos por el artículo 102, apartado B, de la Constitución Política de los Estados Unidos Mexicanos, cuando tenga conocimiento de actos ilícitos o presuntamente delictivos, ejecutados por servidores públicos estatales o municipales, que violen los derechos humanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE FEBRERO DE 2009)</small>
+
+XV.- Plantear Acciones de Inconstitucionalidad ante la Suprema Corte de Justicia de la Nación en contra de leyes expedidas por el Poder Legislativo del Estado cuando a juicio de la Comisión exista posible contradicción entre tales normas y la Constitución Política de los Estados Unidos Mexicanos, que vulneren los derechos humanos considerados en ésta; y;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE FEBRERO DE 2009)</small>
+
+XVI.- Las demás que le otorguen la presente Ley u otros ordenamientos legales.
 
 ### CAPITULO IV
 
@@ -273,9 +285,17 @@ VII.- Aprobar, en su caso, las recomendaciones y acuerdos que resulten de las in
 
 VIII.- Formular las propuestas generales conducentes a una mejor protección de los derechos humanos en el Estado;
 
-IX.- Elaborar el anteproyecto de presupuesto anual de egresos de la Comisión y el respectivo informe sobre su ejercicio para presentarse al Consejo de la misma; y
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2009)</small>
 
-X.- Las demás que le señale la presente Ley, el Reglamento Interior y los acuerdos del Consejo.
+IX.- Elaborar el anteproyecto de presupuesto anual de egresos de la Comisión y el respectivo informe sobre su ejercicio para presentarse al Consejo de la misma;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2009)</small>
+
+X.- Ejercer a nombre de la Comisión las atribuciones previstas por las fracciones XIV y XV del artículo 19 de esta Ley; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE FEBRERO DE 2009)</small>
+
+XI.- Las demás que señale la presente Ley, el Reglamento Interior y los acuerdos del Consejo.
 
 ###### ARTICULO 24.
 
@@ -604,3 +624,7 @@ P.O. 16 DE JUNIO DE 2001.
 P.O. 11 DE ENERO DE 2003.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 28 DE FEBRERO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
