@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-crea-la-comision-estatal-de-conciliacion-y-22802"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-23"
-last_updated: "2001-11-23"
+last_updated: "2009-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY QUE CREA LA COMISION ESTATAL DE CONCILIACION Y ARBITRAJE EN LA PRESTACION DE SERVICIOS DE SALUD DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DE LA COMISION DE ARBITRAJE MEDICO DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN LA P.O. DE 2 DE MARZO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 23 de noviembre de 2001.
 
@@ -916,3 +918,45 @@ EUGENIO ELORDUY WALTHER.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 BERNARDO BORBON VILCHES.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE MARZO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a los treinta días siguientes a su publicación en el Periódico Oficial del Estado, y abroga la Ley que Crea la Comisión Estatal de Conciliación y Arbitraje en la Prestación de Servicios de Salud del Estado de Baja California, publicada en el Periódico Oficial del Estado el día veintitrés de Noviembre de 2001.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Consejeros señalados en el artículo 17 de esta Ley, serán designados, por única ocasión conforme a lo siguiente:
+
+a).- Dentro de los quince días siguientes a la publicación de la presente ley, el Ejecutivo estatal publicará convocatoria en por lo menos uno de los diarios de mayor circulación estatal, para los interesados en ocupar el cargo de Consejero, sin perjuicio de que dicha convocatoria pueda ser difundida por otros medios;
+
+b).- La convocatoria indicará por lo menos el término y condiciones para la presentación de propuestas, los requisitos que deberán acreditar los aspirantes al cargo, la fecha y lugar en que tendrá verificativo el proceso de elección, así como las formalidades a observar;
+
+c).- La fecha señalada en el inciso anterior, no podrá exceder de quince días siguientes al vencimiento del plazo para la presentación de las propuestas.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los diez días siguientes a la fecha en que los Consejeros fueren electos, el Comisionado en su carácter de Presidente del Consejo, deberá convocar a sus integrantes al acto de instalación formal de dicho órgano.
+
+###### ARTÍCULO CUARTO.
+
+Por esta única ocasión, y a efecto de integrar la Junta Directiva, el Comisionado designará de entre los Consejeros electos, a quien deba desempeñarse como representante del Consejo, dentro de dilo órgano de gobierno.
+
+###### ARTÍCULO QUINTO.
+
+Una vez realizado lo señalado en los artículos que anteceden, el Secretario de Salud deberá convocar dentro de un término de 30 días, a los integrantes de la Junta Directiva al acto de instalación formal de dicho órgano de gobierno.
+
+###### ARTÍCULO SEXTO.
+
+Los procedimientos pendientes de resolución antes de la entrada en vigor de las presentes reformas, serán resueltos y substanciados por el Comisionado conforme a las disposiciones que se encontraban vigentes al momento del inicio del procedimiento.
+
+###### ARTÍCULO SÉPTIMO.
+
+Hasta en tanto se hagan las reformas correspondientes al Reglamento Interno de la Comisión Estatal de Conciliación y Arbitraje en la Prestación de Servicios de Salud del Estado de Baja California, se aplicará éste en lo que no se contraponga a dicha Ley.
+
+###### ARTÍCULO OCTAVO.
+
+A partir de la entrada en vigor de esta Ley, el Ejecutivo Estatal tendrá un plazo de 90 días para expedir el Reglamento de la presente Ley.
