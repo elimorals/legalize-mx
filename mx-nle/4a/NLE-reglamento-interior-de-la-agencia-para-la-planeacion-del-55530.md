@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-agencia-para-la-planeacion-del-55530"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-05-11"
-last_updated: "2007-05-11"
+last_updated: "2009-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA AGENCIA PARA LA PLANEACION DEL DESARROLLO URBANO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de mayo de 2007.
 
@@ -160,6 +160,16 @@ b) Dirección de Fomento y Gestión Urbana Sustentable:
 3. Coordinación de Políticas de Fomento.
 
 4. Coordinación de Programas y Proyectos.
+
+> <small>(ADICIONADO, P. O. 2 DE MARZO DE 2009)</small>
+
+c) Dirección de Áreas Urbanas Protegidas:
+
+1. Coordinación de Operación y Mantenimiento.
+
+2. Coordinación de Seguimiento de Proyectos.
+
+3. Coordinación de Difusión y Promoción.
 
 IV. Dirección Jurídica:
 
@@ -503,6 +513,10 @@ I. Dirección de Proyectos Urbanos.
 
 II. Dirección de Fomento y Gestión Urbana Sustentable.
 
+> <small>(ADICIONADA, P. O. 2 DE MARZO DE 2009)</small>
+
+III. Dirección de Áreas Urbanas Protegidas.
+
 ###### Artículo 27.
 
 La Dirección de Proyectos Urbanos es competente para:
@@ -566,6 +580,40 @@ XIV. Promover la cultura urbana, a través de políticas e instrumentos de difus
 XV. Realizar estudios, establecer lineamientos, definir planes y programas en materia de seguridad urbana; y
 
 XVI. Las demás que le sean conferidas por el Presidente Ejecutivo, por su superior jerárquico o por disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P. O. 2 DE MARZO DE 2009)</small>
+
+###### Artículo 28 Bis.
+
+La Dirección de Áreas Urbanas Protegidas es competente para:
+
+I. En materia del Área Natural Protegida en categoría de Parque Urbano Lineal en el cauce del Río Santa Catarina:
+
+a) Diseñar, proponer y en su caso, ejecutar políticas y programas para la difusión, promoción y gestión de actividades para fomentar la utilización del Área Natural Protegida denominada Parque Urbano Lineal;
+
+b) Promover y auxiliar al Consejo Técnico Asesor en las acciones de coordinación necesarias con las autoridades u organismos federales, estatales y municipales, así como con los concesionarios o particulares que realicen o implementen diversas actividades en el Parque;
+
+c) Proponer e implementar las disposiciones necesarias para regular el diseño y la operación interna del Parque Urbano Lineal, en cuanto a construcción, mobiliario urbano, señalización, componentes de seguridad, iluminación, forestación, manejo de agua y de la basura;
+
+d) Coordinar y supervisar el mantenimiento y funcionamiento de los sistemas de riego, jardinería, iluminación, vigilancia, señalización o cualquier otro servicio requerido para óptima operación de la ciclopista y vitapista ejecutada por el Gobierno del Estado;
+
+e) Vigilar el mantenimiento y funcionamiento del Parque Urbano Lineal, a fin de que en caso de detectar alguna irregularidad hacerlo del conocimiento de la autoridad competente;
+
+f) Realizar actividades de revisión y mantenimiento preventivo de las instalaciones físicas, paisajísticas y de obra civil en la ciclopista y vitapista ejecutada por el Gobierno del Estado;
+
+g) Supervisar la protección del entorno natural del Parque Urbano Lineal Río Santa Catarina;
+
+h) Proponer, gestionar o implementar las acciones, proyectos, modificaciones o mejoras del Parque Urbano Lineal, y
+
+i) Participar en el ámbito de competencia en el Programa de Manejo del Área Natural Protegida denominada Parque Urbano Lineal.
+
+II. En materia de zonas protegidas, en las que la Agencia para la Planeación del Desarrollo Urbano del Estado forme parte de la Junta de Protección y Conservación de conformidad a la Ley de Patrimonio Cultural del Estado de Nuevo León:
+
+a) Verificar y llevar el seguimiento del cumplimiento de las obligaciones derivadas de los Decretos o declaratorias de zonas protegidas, y
+
+b) Dar seguimiento a los acuerdos de las Juntas de Protección y Conservación de las Zonas Protegidas de los cascos y entornos urbanos históricos.
+
+III. Las demás que le sean conferidas por el Presidente Ejecutivo, por el Consejo Técnico Asesor del Área Natural Protegida denominada Parque Urbano Lineal o por las disposiciones jurídicas aplicables.
 
 #### SECCIÓN V. DE LA DIRECCIÓN JURÍDICA
 
@@ -724,3 +772,9 @@ EL C. PRESIDENTE EJECUTIVO DE LA AGENCIA PARA LA PLANEACIÓN DEL DESARROLLO URBA
 LUIS DAVID ORTIZ SALINAS
 
 Hoja de firmas que corresponde a la orden de publicación del Reglamento Interior de la Agencia para la Planeación del Desarrollo Urbano de Nuevo León, aprobado en la Tercera Sección de la Junta de Gobierno de ese Organismo, celebrada el 12 de febrero de 2007.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 2 DE MARZO DE 2009.
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
