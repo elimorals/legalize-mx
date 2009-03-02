@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2009-02-09"
+last_updated: "2009-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2009.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -2077,7 +2077,9 @@ Los funcionarios policiales serán auxiliares del Ministerio Público en la inte
 
 La policía, por orden del Ministerio Público, deberá investigar los hechos punibles que se le encomienden, impedir que los atentados o cometidos sean llevados a consecuencias ulteriores, individualizar a los presuntos responsables y reunir los elementos de prueba útiles para dar base al ejercicio de la acción penal.
 
-La policía podrá solicitar información a cualquier persona y rendir informes, pero no obtener confesiones; si lo hace, éstas carecerán de todo valor probatorio.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2009)</small>
+
+La policía podrá solicitar información a cualquier persona y deberá rendir informe previo al Ministerio Público, sobre el resultado de sus investigaciones, dentro de los primeros cinco días, a partir de haber recibido la solicitud de auxilio y el informe definitivo a más tardar dentro de los quince días siguientes; pero no obtener confesiones, si lo hace, éstas carecerán de todo valor probatorio.
 
 ###### Artículo 156.
 
@@ -5543,10 +5545,18 @@ P.O. 8 DE SEPTIEMBRE DE 2008.
 
 DECRETO NUMERO 134, POR EL QUE SE REFORMAN LAS FRACCIONES XXIV Y XXV Y SE ADICIONA LA FRACCION XXVI AL ARTICULO 481; Y UN ARTICULO 43 B A LA LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES.
 
-ARTICÍULO ÚNICO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 9 DE FEBRERO DE 2009.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia a los noventa días naturales contados a partir de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 2 DE MARZO DE 2009.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
