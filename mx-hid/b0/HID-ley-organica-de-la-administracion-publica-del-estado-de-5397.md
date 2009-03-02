@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-del-estado-de-5397"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-06-13"
-last_updated: "2008-12-01"
+last_updated: "2009-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 13 de junio de 1994.
 
@@ -413,9 +413,43 @@ XXXVI.- (DEROGADA, P.O. 31 DE MARZO DE 2005)
 
 XXXVII.- (DEROGADA, P.O. 31 DE MARZO DE 2005)
 
-XXXVIII.- Administrar la intendencia, los almacenes generales y la oficialía de partes del Poder Ejecutivo, y fijar las bases de sistematización en materia de correspondencia y archivo; y
+XXXVIII.- Administrar la intendencia, los almacenes generales y la oficialía de partes del Poder Ejecutivo, y fijar las bases de sistematización en materia de correspondencia y archivo; y (sic)
 
-XXXIX.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2009)</small>
+
+XXXIX.- Diseñar, establecer y actualizar un sistema de programación del gasto público, incluido el de inversión, acorde con los objetivos del Plan Estatal de Desarrollo, los programas sectoriales, regionales y especiales, así como de las necesidades de la Administración Pública del Estado;
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2009)</small>
+
+XL.- Elaborar con la participación de las Dependencias y Entidades de la Administración Pública del Estado, los programas de Inversión y por delegación del Titular del Ejecutivo, definir el establecimiento de prioridades para la asignación, autorización, aplicación y evaluación de estos recursos en los Municipios y proponer las adecuaciones que se requieran para el eficaz cumplimiento de los objetivos y metas programados;
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2009)</small>
+
+XLI.- Coordinar, programar, autorizar y evaluar los recursos destinados a los programas de inversión de las Dependencias y Entidades de la Administración Pública del Estado y establecer los mecanismos de colaboración y coordinación con los Municipios para estos propósitos;
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2009)</small>
+
+XLII.- Otorgar a los Municipios, cuando así lo soliciten, la asesoría y el apoyo técnico necesario para la formulación de programas, proyectos y acciones del gasto de inversión;
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2009)</small>
+
+XLIII.- Vigilar y evaluar en coordinación con la Secretaría de Contraloría, que los programas de inversión de las Dependencias y Entidades del Ejecutivo, se realicen conforme a los objetivos y metas programados;
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2009)</small>
+
+XLlV.- Establecer y operar un sistema de información, para el seguimiento de los recursos Federales y estatales de gasto de inversión, conforme a la Legislación vigente aplicable a la materia;
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2009)</small>
+
+XLV.- Vigilar el cumplimiento de la normatividad establecida para el gasto federalizado en materia de programación, presupuestación y evaluación;
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2009)</small>
+
+XLVI.- Dar seguimiento y evaluar la aplicación de los recursos Federales aprobados en el Presupuesto de Egresos de la Federación al Estado a fin de lograr un aprovechamiento integral, eficaz y eficiente de los mismos; y
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2009)</small>
+
+XLVII.- Las demás que señalen las Leyes y Reglamentos vigentes en el Estado.
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2005)</small>
 
@@ -531,13 +565,15 @@ V.- Promover estrategias de desconcentración y descentralización hacia las Reg
 
 Para el cumplimiento de estos propósitos, se coordinarán, concertarán y ejecutarán las obras públicas que les sean encomendadas y aquellas que obedezcan al cumplimiento de los propósitos del desarrollo de los habitantes de la Entidad, señalados en los programas que con base en las facultades y atribuciones asignadas, correspondan a las Áreas Administrativas de la Secretaría ubicadas en las Regiones y Subregiones establecidas en el Plan Estatal de Desarrollo;
 
-VI.- Establecer los lineamientos que sirvan de base para elaboración de los programas sectoriales, regionales y especiales, así como la programación del gasto de inversión;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2009)</small>
 
-VII.- Definir por delegación del Titular del Poder Ejecutivo, el establecimiento de prioridades en la aplicación de los recursos para los diversos programas en los Municipios y proponer las adecuaciones que se requieran para el eficaz cumplimiento de los objetivos y metas programados;
+VI.- Establecer los lineamientos que sirvan de base para elaboración de los programas sectoriales, regionales y especiales;
+
+VII.- (DEROGADA, P.O. 2 DE MARZO DE 2009)
 
 VIII.- Elaborar estudios y proyectos regionales y municipales que permitan apoyar a las comunidades en su desarrollo y productividad;
 
-IX.- Vigilar y evaluar en coordinación con la Secretaría de Contraloría, que los programas de inversión de las Dependencias y Entidades del Ejecutivo, se realicen conforme a los objetivos, metas del Plan y los Programas de Desarrollo Regional, Sectorial y Especial;
+IX.- (DEROGADA, P.O. 2 DE MARZO DE 2009)
 
 X.- Coordinar la vinculación de los Municipios, con las Dependencias Estatales y Federales, en el establecimiento de infraestructura, unidades de servicio y acciones que impulsen el desarrollo regional;
 
@@ -1420,3 +1456,7 @@ La Secretaría de Finanzas y la Secretaría de Administración del Gobierno del 
 ###### ARTÍCULO SEXTO.
 
 Todos los asuntos de la Dirección General de Seguridad Pública y Tránsito del Estado y de la Dirección General de la Policía Ministerial que se encuentren en trámite, pasarán a la competencia de la Secretaría de Seguridad Pública del Estado, quien deberá desahogarlos y concluirlos de acuerdo con las disposiciones legales aplicables.
+
+P.O. 2 DE MARZO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente, al de su Publicación en el Periódico Oficial del Estado.
