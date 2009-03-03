@@ -4,7 +4,7 @@ identifier: "ROO-ley-estatal-de-medios-de-impugnacion-en-materia-electoral-25781
 country: "mx"
 rank: "ley"
 publication_date: "2002-08-27"
-last_updated: "2003-10-30"
+last_updated: "2009-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ESTATAL DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 27 de agosto de 2002
 
@@ -875,19 +875,21 @@ En las sentencias que se dicten en los juicios de nulidad, el Tribunal podrá es
 
 Cuando al resolver los juicios de nulidad de una o varias casillas, el Tribunal advierta que se actualizan los supuestos de nulidad de elección previstos en esta Ley, procederá a declarar ésta aún cuando no le haya sido demandada.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
 ###### Artículo 93.
 
 Los juicios de nulidad deberán ser resueltos a más tardar:
 
-I. El 7 de marzo del año de la elección, en caso de que se impugnen los cómputos distritales de la elección de gobernador; y el 10 de marzo, cuando se impugne el cómputo estatal de esa elección;
+I. El 7 de agosto del año de la elección, en caso de que se impugnen los cómputos distritales de la elección de Gobernador; y el 10 de agosto, cuando se impugne el cómputo estatal de esa elección.
 
-II. El 2 de marzo del año de la elección, en caso de que se impugne la de diputados de mayoría relativa;
+II. El 2 de agosto del año de la elección, en caso de que se impugne la de Diputados de mayoría relativa;
 
-III. El 12 de marzo del año de la elección, en caso de que se impugne la de miembros de los ayuntamientos;
+III. El 12 de agosto del año de la elección, en caso de que se impugne la de Miembros de los Ayuntamientos;
 
-IV. El 5 de marzo del año de la elección en caso de que se impugne el cómputo o la asignación de diputados por el principio de representación proporcional;
+IV. El 5 de agosto del año de la elección, en caso de que se impugne el cómputo o la asignación de Diputados por el principio de representación proporcional;
 
-V. El 15 de marzo del año de la elección en caso de que se impugnen los cómputos y asignaciones de regidores por el principio de representación proporcional.
+V. El 15 de agosto del año de la elección, en caso de que se impugnen los cómputos y asignaciones de Regidores por el principio de representación proporcional.
 
 ## TITULO SEPTIMO. DEL JUICIO PARA LA PROTECCION
 
@@ -968,3 +970,27 @@ Las presentes reformas entrarán en vigor al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que contravengan a la presente.
+
+P.O. 3 DE MARZO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Excepcionalmente para el proceso electoral a celebrarse en el año 2011, los juicios de nulidad a que se refiere el Artículo 93 de la Ley Estatal de Medios de Impugnación en Materia Electoral, deberán ser resueltos a más tardar:
+
+I. El 7 de marzo del año de la elección, en caso de que se impugnen los cómputos distritales de la elección de Gobernador; y el 10 de marzo, cuando se impugne el cómputo estatal de esa elección;
+
+II. El 2 de marzo del año de la elección, en caso de que se impugne la de Diputados de mayoría relativa;
+
+III. El 12 de marzo del año de la elección, en caso de que se impugne la de Miembros de los Ayuntamientos;
+
+IV. El 5 de marzo del año de la elección en caso de que se impugne el cómputo o la asignación de los Diputados por el principio de representación proporcional;
+
+V. El 15 de marzo del año de la elección en caso de que se impugnen los cómputos y asignaciones de Regidores por el principio de representación proporcional.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
