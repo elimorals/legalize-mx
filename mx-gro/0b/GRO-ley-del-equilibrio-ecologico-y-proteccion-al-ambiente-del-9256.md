@@ -4,7 +4,7 @@ identifier: "GRO-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-9256"
 country: "mx"
 rank: "ley"
 publication_date: "1991-03-19"
-last_updated: "2005-11-08"
+last_updated: "2009-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NUMERO 878 DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 3 DE MARZO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Alcance Número 24 del Periódico Oficial del Estado de Guerrero, el martes 19 de marzo de 1991.
 
@@ -1704,3 +1706,17 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se deroga el Capítulo VI del Título VI que contiene los Artículos 159, 160, 161, 162, 163 y 164 de la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado de fecha 19 de Marzo de 1991.
 
 SEGUNDO.- Se derogan los Artículos 74 y 75 contenidos en el Capítulo II del Título Quinto de la Ley de Protección a los Animales, publicada en el Periódico Oficial del Gobierno del Estado de fecha 8 de Marzo de 1991.
+
+P.O. 3 DE MARZO DE 2009.
+
+PRIMERO.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.-Se abroga la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado número 24 alcance de fecha 19 de marzo de 1991, y se derogan todas las disposiciones legales que contravengan a las disposiciones de la presente Ley.
+
+TERCERO.- Las autoridades estatales y municipales, en el ámbito de su competencia, emitirán o adecuarán los reglamentos necesarios para la debida aplicación de esta Ley, en un plazo no mayor de 90 días naturales posteriores a la entrada en vigor de la presente ley
+
+CUARTO.- Hasta en tanto los Municipios dicten los bandos y reglamentos para regular las materias cuyo conocimiento les corresponda, conforme a las disposiciones del presente ordenamiento, corresponderá a la SEMAREN aplicar esta Ley en coordinación con los propios Municipios.
+
+QUINTO.- Los procedimientos y recursos administrativos relacionados con las materias de competencia local, iniciados con anterioridad a la entrada en vigor de la presente Ley, se tramitarán y resolverán conforme a las disposiciones vigentes en el momento que les dieron origen.
+
+SEXTO.- Las autorizaciones, permisos, licencias y concesiones otorgadas con anterioridad a la fecha de entrada en vigor de la presente Ley, seguirán vigentes hasta su vencimiento y, en su caso, su prórroga se sujetará a las disposiciones de la presente Ley.
