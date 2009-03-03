@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-unidad-de-acceso-a-la-informacion-publica-4034
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-30"
-last_updated: "2004-07-30"
+last_updated: "2009-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40341&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE SALAMANCA, GUANAJUATO
 
-REGLAMENTO INTERNO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE SALAMANCA, GUANAJUATO
+REGLAMENTO INTERNO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE SALAMANCA GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 2009.
 
 Reglamento publicado en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 30 de julio de 2004.
 
@@ -183,7 +183,7 @@ I. Ser ciudadano Mexicano;
 
 II. No haber sido condenado por delito doloso;
 
-III. Tener cuando menos treinta años cumplidos al día de su designación; y
+III. (DEROGADO, P.O. 3 DE MARZO DE 2009)
 
 IV. Gozar de reconocido prestigio personal y profesional.
 
@@ -474,3 +474,11 @@ ING. GENARO CARREÑO MURO
 EL SECRETARIO DEL H. AYUNTAMIENTO
 
 LIC. JOEL ROJAS NAVARRETE
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 3 DE MARZO DE 2009.
+
+Artículo Primero.- El presente entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente.
