@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2008-07-02"
+last_updated: "2009-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -649,9 +649,9 @@ La ciudad de Chetumal es la capital del Estado y la residencia oficial de los Po
 
 El Supremo Poder del Estado se divide para su ejercicio en Legislativo, Ejecutivo y Judicial.
 
-> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
-Los poderes Legislativo y Ejecutivo del Estado se depositan en ciudadanos electos mediante sufragio universal, libre, secreto y directo, conforme a las leyes correspondientes.
+Los Poderes Legislativo y Ejecutivo del Estado se depositan en ciudadanos electos mediante sufragio universal, libre, secreto y directo, conforme a las leyes correspondientes. La jornada electoral tendrá lugar el primer domingo de julio del año que corresponda.
 
 > <small>(REFORMADO, P.O. 17 DE JULIO DE 2002)</small>
 
@@ -665,79 +665,123 @@ I.- El sufragio constituye la expresión soberana de la voluntad popular. Los ci
 
 II.- La preparación, organización, desarrollo y vigilancia de los procesos para las elecciones de Gobernador, Diputados a la Legislatura del Estado y Ayuntamientos, así como la instrumentación de las formas de participación ciudadana que señale la Ley, son una función estatal que se realizará a través del organismo público denominado Instituto Electoral de Quintana Roo, de cuya integración serán corresponsables el Poder Legislativo, los partidos políticos y los ciudadanos en los términos que disponga esta Constitución y la Ley. Este organismo será autoridad en la materia, tendrá personalidad jurídica y patrimonio propios, plena autonomía en su funcionamiento e independencia en sus decisiones, con el carácter de permanente y profesional en su desempeño.
 
-El Instituto Electoral de Quintana Roo, tendrá a su cargo en forma integral y directa, además de las que determine la Ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, derechos, prerrogativas y fiscalización del financiamiento a las agrupaciones políticas estatales y partidos políticos, impresión de material y documentación electorales, preparación de la jornada electoral, cómputos, la calificación de las elecciones y entrega de las constancias de mayoría o asignación respectivas en los términos que señale la Ley, así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
+El Instituto Electoral de Quintana Roo, tendrá a su cargo en forma integral y directa, además de las que determine la Ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, derechos, prerrogativas y fiscalización del financiamiento a las agrupaciones políticas estatales y partidos políticos, impresión de material y documentación electorales, preparación de la jornada electoral, cómputos, la calificación de las elecciones y entrega de las constancias de mayoría o asignación respectivas en los términos que señale la Ley, así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales. El Instituto Electoral de Quintana Roo, por acuerdo de las dos terceras partes de los integrantes de su Consejo General, podrá convenir con el Instituto Federal Electoral que éste se haga cargo de las elecciones locales. Asimismo, el Instituto Electoral de Quintana Roo, deberá coordinarse con la autoridad administrativa electoral federal para la fiscalización de las finanzas de los partidos políticos, en términos del penúltimo párrafo de la Base V del Artículo 41 de la Constitución Federal, y de conformidad a las bases obligatorias que se prevengan en la Ley. De igual forma, el Instituto Electoral de Quintana Roo podrá suscribir convenios con autoridades municipales, estatales y federales, que tengan el propósito de coadyuvar con éste en la función estatal encomendada.
 
 De igual forma, el Instituto Electoral de Quintana Roo, podrá coadyuvar en la organización de las elecciones para elegir a los integrantes de las Alcaldías, Delegaciones y Subdelegaciones Municipales, en los términos que señale la Ley de los Municipios.
 
-El Instituto Electoral de Quintana Roo, contará en su estructura con órganos de dirección, ejecutivos y técnicos. El Consejo General será su órgano máximo de dirección y responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar por que las actividades del Instituto se guíen por los principios rectores de la función estatal electoral; se integrará por un Consejero Presidente y seis Consejeros Electorales con voz y voto, y concurrirán, con voz pero sin voto, un representante de cada partido político y un Secretario General. Así mismo habrá cuatro Consejeros Electorales Suplentes, en orden de prelación. La Ley determinará las reglas para la organización y funcionamiento de sus órganos, así como las relaciones de mando entre éstos. Las disposiciones de la Ley y del Estatuto del Servicio Profesional Electoral, que con base en ella apruebe el Consejo General, regirán las relaciones de trabajo de los servidores del organismo público. Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
+El Instituto Electoral de Quintana Roo, contará en su estructura con órganos de dirección, ejecutivos y técnicos. El Consejo General será su órgano máximo de dirección y responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar por que las actividades del Instituto se guíen por los principios rectores de la función estatal electoral de certeza, legalidad, independencia, imparcialidad, objetividad, equidad y transparencia; se integrará con siete Consejeros Electorales con voz y voto, uno de los cuales fungirá como Presidente, y concurrirán, con voz pero sin voto, un representante de cada partido político y un Secretario General. Así mismo habrá cuatro Consejeros Electorales Suplentes, en orden de prelación, que deberán ser renovados cada seis años. La Ley determinará las reglas para la organización y funcionamiento de sus órganos, así como las relaciones de mando entre éstos. Las disposiciones de la Ley y del Estatuto del Servicio Profesional Electoral, que con base en ella apruebe el Consejo General, regirán las relaciones de trabajo de los servidores del organismo público. Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral. El Instituto contará con una Contraloría Interna que tendrá a su cargo, con autonomía técnica y de gestión, la fiscalización de todos los ingresos y egresos del mismo. La Contraloría será un órgano adscrito administrativamente al Consejo General.
 
 Las sesiones de todos los órganos colegiados de dirección serán públicas, en los términos que señale la Ley.
 
-El Tribunal Electoral de Quintana Roo, tendrá personalidad jurídica y patrimonio propios, autonomía en su funcionamiento e independencia en sus decisiones y será la máxima autoridad jurisdiccional en la materia, y tendrá el carácter de permanente; tendrá competencia y organización para funcionar en pleno y sus sesiones serán públicas. Las resoluciones del Tribunal serán emitidas con plenitud de jurisdicción en una sola instancia y sus fallos serán definitivos. Estará integrado por tres Magistrados Numerarios, uno de los cuales fungirá como Presidente, y durante los procesos electorales, además, por dos Magistrados Supernumerarios que harán las veces de jueces instructores.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2003)</small>
+El Tribunal Electoral del (sic) Quintana Roo, tendrá personalidad jurídica y patrimonio propios, autonomía en su funcionamiento e independencia en sus decisiones y será la máxima autoridad jurisdiccional en la materia y tendrá el carácter de permanente; tendrá competencia y organización para funcionar en pleno y sus sesiones serán públicas. Las resoluciones del Tribunal serán emitidas con plenitud de jurisdicción en una sola instancia y sus fallos serán definitivos. Estará integrado por tres Magistrados Numerarios, unos (sic) de los cuales fungirá como Presidente. Así mismo habrá dos Magistrados Electorales Suplentes, en orden de prelación, que deberán ser renovados cada seis años. El Tribunal contará con una Contraloría Interna que tendrá a su cargo, con autonomía técnica y de gestión, la fiscalización de todos los ingresos y egresos del mismo.
 
-El Consejero Presidente y los Consejeros Electorales del Instituto Electoral de Quintana Roo, así como el Magistrado Presidente y los magistrados del Tribunal Electoral de Quintana Roo, serán elegidos por el voto de las dos terceras partes de los miembros de la Legislatura del Estado o de la Diputación Permanente, en los recesos de ésta, de entre las propuestas que formulen los grupos parlamentarios, en los términos que disponga la Ley. El Consejero Presidente, los Consejeros Electorales y los Magistrados Numerarios durarán en su encargo seis años y podrán ser ratificados de manera individual, hasta por un periodo mas de tres años con la misma votación requerida para su nombramiento.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
+Los Consejeros Electorales, propietarios y suplentes, y el Contralor Interno del Instituto Electoral de Quintana Roo, así como los Magistrados Numerarios, propietarios y Suplentes, y el Contralor Interno del Tribunal Electoral de Quintana Roo, serán elegidos por el voto de las dos terceras partes de los miembros de la Legislatura del Estado o de la Diputación Permanente, en los recesos de ésta, de entre las propuestas que formulen los grupos parlamentarios, en los términos que disponga la Ley. Los Consejeros Electorales y los Magistrados Electorales, así como los Contralores Internos del Instituto y del Tribunal, durarán en su encargo seis años.
 
 El Secretario General del Instituto Electoral de Quintana Roo, será electo por las dos terceras partes del Consejo General, a propuesta de su Consejero Presidente y durará en su encargo el tiempo que determine la Ley.
 
-La Ley establecerá los requisitos que deban reunir para la designación del Consejero Presidente, los Consejeros Electorales y el Secretario General del Instituto Electoral de Quintana Roo, así como el Magistrado Presidente y los Magistrados Numerarios y Supernumerarios del Tribunal Electoral de Quintana Roo, los que estarán sujetos al régimen de responsabilidades públicas previsto por esta Constitución para los servidores públicos del Estado.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
+La Ley establecerá los requisitos que deban reunir para la designación de los Consejeros Electorales, propietarios y suplentes, el Contralor Interno y el Secretario General del Instituto Electoral de Quintana Roo, así como los Magistrados Numerarios, propietarios y suplentes, y el Contralor Interno del Tribunal Electoral de Quintana Roo, los que estarán sujetos al régimen de responsabilidades públicas previsto por esta Constitución para los servidores públicos del Estado.
 
 Los funcionarios señalados en el párrafo que antecede, no podrán, durante su ejercicio, desempeñar ningún otro empleo, cargo o comisión oficial y sólo podrán recibir percepciones derivadas de actividades profesionales, regalías, derechos de autor o publicaciones siempre que no se afecte la independencia, imparcialidad y equidad que debe regir el ejercicio de su función; también podrán ejercer cargos no remunerados en asociaciones científicas, literarias o de beneficencia.
 
-La retribución que perciban el Consejero Presidente y los Consejeros Electorales, así como el Magistrado Presidente y los Magistrados Electorales Numerarios y Supernumerarios, será la prevista en el presupuesto de egresos del Instituto Electoral de Quintana Roo y del Tribunal Electoral de Quintana Roo, respectivamente. Durante los intervalos entre los procesos electorales estarán obligados a realizar tareas de investigación y difusión acerca de temas electorales.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
+La retribución que perciban los Consejeros Electorales, así como los Magistrados Electorales, propietarios, será la prevista en el presupuesto de egresos del Instituto Electoral de Quintana Roo y del Tribunal Electoral de Quintana Roo, respectivamente. Durante los intervalos entre los procesos electorales estarán obligados a realizar tareas de investigación y difusión acerca de temas electorales. La retribución de los Contralores Internos será la misma que se señale para los Consejeros y Magistrados Electorales, propietarios, según corresponda.
 
 El Instituto Electoral de Quintana Roo y el Tribunal Electoral de Quintana Roo, presentarán sus respectivos presupuestos de egresos ante la instancia correspondiente para su inclusión en el Presupuesto de Egresos del Estado, del año que corresponda.
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
 
-III.- Los partidos políticos son entidades de interés público que tienen como fin promover la vida democrática, contribuir a la integración de la representación popular y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al poder público, de acuerdo con los programas, principios e ideas que postulan; su participación en los procesos electorales estará garantizada y determinada por la Ley. Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos. La Ley reconocerá y regulará otras formas de organización política.
+III. Los partidos políticos son entidades de interés público que tienen como fin promover la vida democrática, contribuir a la representación popular y, como organizaciones de ciudadanos, hacer posible el acceso de estos al poder público, de acuerdo con los programas, principios e ideas que postulan; su participación en los procesos electorales, estará garantizada y determinada por ley. Sólo podrán ser constituidos por ciudadanos, sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa. La ley reconocerá y regulará otras formas de organización política. Los partidos políticos para poder conservar su registro deberán haber obtenido al menos el dos por ciento de la votación total emitida en la elección de Diputados según el principio de mayoría relativa inmediata anterior.
 
-La Ley determinará los fines, derechos, prerrogativas, obligaciones y responsabilidades que con tal carácter les correspondan a los partidos políticos como entidades de interés público, así como las formas específicas de su intervención en los procesos electorales estatales.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
+La Ley determinará los fines, derechos, prerrogativas, obligaciones y responsabilidades que con tal carácter les correspondan a los partidos políticos como entidades de interés público, así como las formas específicas de su intervención en los procesos electorales estatales. Las autoridades electorales solo intervendrán en los asuntos internos de los partidos políticos en los términos que expresamente se señalen en la Ley.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2002)</small>
 
 Los partidos políticos nacionales derivado de su participación en las elecciones locales gozarán de los mismos derechos y prerrogativas y tendrán las mismas obligaciones y responsabilidades dispuestos en la Ley para los partidos políticos estatales.
 
-Los partidos políticos promoverán y garantizarán en los términos que señale la Ley, la igualdad de oportunidades y la equidad entre mujeres y hombres en la vida política del Estado, a través de postulaciones a cargos de elección popular, tanto de mayoría relativa como de representación proporcional.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
-En todo caso, será obligación de los partidos políticos postular candidatos de ambos géneros, cuidando que ninguno de éstos tenga una representación mayor al 70 por ciento. Quedan exceptuadas las candidaturas de mayoría relativa que sean resultado de un proceso de elección mediante voto directo.
+Los partidos políticos promoverán y garantizarán en los términos que señale la Ley, la igualdad de oportunidades y la equidad entre mujeres y hombres en la vida política del Estado, a través de postulaciones a cargo de elección popular, tanto de mayoría relativa como de representación proporcional. Corresponde, única y exclusivamente a los partidos políticos, el derecho de solicitar el registro de candidatos a cargos (sic) elección popular por ambos principios.
 
-La Ley garantizará que los partidos políticos cuenten de manera equitativa y gratuita con elementos para llevar a cabo sus actividades, por lo tanto, tendrán derecho al uso de los medios de comunicación social propiedad del Estado, de acuerdo a las formas, procedimientos y tiempos que establezca la misma. Además, la Ley señalará las reglas a que se sujetará el financiamiento de los partidos políticos y sus campañas electorales.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
+En todo caso, será obligación de los partidos políticos postular candidatos de ambos géneros, cuidando que ninguno de éstos tenga una representación mayor al 60 por ciento. Quedan exceptuadas las candidaturas de mayoría relativa que sean resultado de un proceso de elección mediante voto directo.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
+La Ley garantizará que los partidos políticos cuenten de manera equitativa y gratuita con elementos para llevar a cabo sus actividades, por lo tanto, tendrán derecho al uso de los medios de comunicación propiedad del Estado permanentemente y, accederán a la radio y la televisión, de acuerdo a las normas establecidas por el apartado B de la base III del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos. Además, la ley señalará las reglas a que se sujetará el financiamiento de los partidos políticos y sus campañas electorales.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2002)</small>
 
 El financiamiento público para los partidos políticos se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales y se otorgará conforme a las siguientes bases:
 
-1.- El financiamiento público ordinario para el sostenimiento de sus actividades permanentes, se fijará cada año por el Instituto Electoral de Quintana Roo al elaborar su presupuesto. El monto total se determinará multiplicando el cuarenta por ciento de un salario mínimo general vigente en el Estado, por el número de ciudadanos inscritos en el padrón electoral de la entidad, con corte al mes de octubre del año anterior. La cantidad que resulte se otorgará conforme a las siguientes disposiciones:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+
+1.- El financiamiento público ordinario para el sostenimiento de sus actividades permanentes, se fijará cada año por el Instituto Electoral de Quintana Roo al elaborar su presupuesto. El monto total se determinará multiplicando el sesenta por ciento de un salario mínimo general vigente en el Estado, por el número de ciudadanos inscritos en el padrón electoral de la entidad, con corte al mes de octubre del año anterior. La cantidad que resulte se otorgará conforme a las siguientes disposiciones:
 
 a) El treinta por ciento del monto total del financiamiento público estatal se distribuirá en partes iguales, y
 
 b) El setenta por ciento restante se distribuirá según el porcentaje de la votación estatal que hubiese obtenido cada uno de los partidos políticos, en la elección de diputados inmediata anterior.
 
-2.- El financiamiento público extraordinario para las actividades tendientes a la obtención del voto se otorgará al inicio de las campañas electorales y consistirá en una cantidad igual a la que corresponda por concepto de financiamiento ordinario.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
-3.- El financiamiento público ordinario y extraordinario, se otorgará entre los partidos que hubiesen obtenido al menos el dos punto cinco por ciento de la votación válida emitida en la elección de diputados inmediata anterior, salvo lo dispuesto en la base siguiente.
+2.- El financiamiento público extraordinario para las actividades tendientes a la obtención del voto se otorgará al inicio de las campañas electorales y durante el año en que se elijan Gobernador, Diputados y miembros del Ayuntamiento equivaldrá al ochenta por ciento del financiamiento público que les corresponda a cada partido político por actividades ordinarias en ese mismo año; cuando solo se elijan Diputados y miembros del Ayuntamiento equivaldrá al sesenta por ciento de dicho financiamiento por actividades ordinarias.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
+3.- El financiamiento público ordinario y extraordinario, se otorgará entre los partidos que hubiesen obtenido al menos el dos por ciento de la votación válida emitida en la elección de diputados inmediata anterior, salvo lo dispuesto en la base siguiente.
 
 4.- Los partidos políticos nacionales y estatales que hubiesen obtenido su registro ante el Instituto Electoral de Quintana Roo, con fecha posterior a la última elección, recibirán financiamiento público, otorgándose a cada uno de ellos, a partir del mes de enero del año siguiente al que hayan obtenido su registro, para el sostenimiento de sus actividades ordinarias, el dos por ciento del monto total que en forma igualitaria corresponda distribuir al conjunto de los partidos políticos, así como una cantidad igual adicional para gastos de campaña durante los procesos electorales.
 
 5.- Se reintegrará hasta el setenta y cinco por ciento de los gastos anuales que eroguen los partidos políticos por concepto de actividades relativas a educación, capacitación, investigación socioeconómica y política, así como a tareas editoriales, con base en lo que disponga la Ley.
 
-6.- El financiamiento público prevalecerá sobre el privado; por lo tanto, las aportaciones que los partidos reciban de sus militantes y simpatizantes no podrán exceder del monto total de recursos que reciban por concepto de financiamiento público ordinario.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
-La ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales, así como los tiempos de éstas, además establecerá los montos máximos que tendrán las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten; asimismo, señalará las sanciones que deban imponerse por incumplimiento de estas disposiciones.
+6. El financiamiento público prevalecerá sobre el privado. Las aportaciones que realicen los simpatizantes, en conjunto, no podrá exceder del diez por ciento del tope de gastos de campaña que se determine para la elección de gobernador.
 
-Los partidos políticos fijarán reglas claras que habrán de regir sus precampañas, así como determinar el tope máximo de gastos en las mismas.
+La Ley fijara los criterios para establecer los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos.
+
+Los partidos políticos observarán las disposiciones que se establezcan para las precampañas y campañas electorales; en todo caso, la duración de las campañas no podrán exceder de noventa días para la elección de Gobernador, ni de sesenta días cuando sólo se elijan diputados a la Legislatura y miembros de los Ayuntamientos; las precampañas no podrán durar más de las dos terceras partes del tiempo previsto para las campañas.
+
+La Ley establecerá las sanciones en caso de incumplimiento de los supuestos previstos en la presente base.
+
+La ley establecerá los procedimientos para la liquidación de los partidos políticos que pierdan su registro y el destino de sus bienes y remanentes.
 
 > <small>(REFORMADA, P.O. 17 DE JULIO DE 2002)</small>
 
 IV.- Las agrupaciones políticas estatales son formas de asociación ciudadana que coadyuvarán al desarrollo de la vida democrática y de la cultura política; su constitución, financiamiento y funcionamiento quedarán regulados en la Ley.
 
-> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
 
-V.- La Ley establecerá un sistema de medios de impugnación, para garantizar que los actos de los organismos electorales se ajusten invariablemente al principio de legalidad y a lo dispuesto por esta Constitución.
+V.- La Ley establecerá un sistema de medios de impugnación para que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad. Asimismo, en la Ley se establecerán los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos parciales o totales de la votación.
 
-Dicho sistema fijará los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales. De las impugnaciones conocerán el Instituto Electoral de Quintana Roo y el Tribunal Electoral de Quintana Roo. En materia electoral la interposición de los medios de impugnación legales no producirán efectos suspensivos sobre la resolución o el acto impugnado.
+Dicho sistema fijará los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votados y de asociación, en los términos de esta Constitución. De las impugnaciones conocerán el Instituto Electoral de Quintana Roo y el Tribunal Electoral de Quintana Roo. En materia electoral la interposición de los medios de impugnación legales no producirán efectos suspensivos sobre la resolución o el acto impugnado.
 
-> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2002)</small>
+La Ley deberá estipular las causales de nulidad de las elecciones de Gobernador, diputados a la Legislatura y miembros de los Ayuntamientos.
 
-VI.- La Ley respectiva tipificará los delitos y determinará las faltas y responsabilidades en materia electoral, así como las sanciones que por ellos deban imponerse.
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+VI.- La Ley respectiva tipificará los delitos y determinará las faltas y responsabilidades en materia electoral, así como las sanciones que por ellos deban imponerse;
+
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2009)</small>
+
+VII.- La Ley respectiva tipificará los delitos y determinará las faltas y responsabilidades en materia electoral, así como las sanciones que por ellos deban imponerse;
+
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2009)</small>
+
+VIII.- La propaganda impresa deberá ser reciclable y deberá elaborarse con materiales reciclados o biodegradables que no contengan sustancias tóxicas ni materiales que produzcan riesgos a la salud de las personas. Los partidos políticos y coaliciones estarán obligados a retirar su propaganda y llevarla a un centro de reciclaje.
 
 ###### ARTICULO 50.
 
@@ -807,9 +851,9 @@ La elección de los diez Diputados según el principio de representación propor
 
 I.- Para obtener el registro de sus listas de candidatos a Diputados por el principio de representación proporcional, el Partido Político que lo solicite deberá acreditar que participa con candidatos a Diputados por mayoría relativa en cuando menos ocho de los distritos electorales, y
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 1998)</small>
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
 
-II.- Tendrá derecho a participar en la asignación de Diputados electos según el principio de representación proporcional, todo aquel partido que haya alcanzado por lo menos el dos punto cinco por ciento de la votación total emitida en el territorio del Estado.
+II.- Tendrá derecho a participar en la asignación de Diputados electos según el principio de representación proporcional, todo aquel partido que haya alcanzado por lo menos el dos por ciento de la votación total emitida en el territorio del Estado;
 
 > <small>(ADICIONADA, P.O. 17 DE JULIO DE 2002)</small>
 
@@ -885,11 +929,11 @@ Los diputados que incumplan con las obligaciones contenidas en las fracciones II
 
 #### SECCION SEGUNDA. De las Sesiones
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 61.
 
-La Legislatura tendrá durante el año dos períodos ordinarios de sesiones que comenzarán, el primero, el 26 de marzo y el segundo, el 20 de septiembre. El primero no podrá prolongarse sino hasta el 26 de junio y el segundo hasta el 15 de diciembre, del mismo año.
+La Legislatura tendrá durante el año dos periodos ordinarios de sesiones que comenzarán, el primero, el 17 de septiembre y el segundo, el 26 de marzo. El primero no podrá prolongarse sino hasta el 17 de diciembre y el segundo hasta el 26 de junio.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
 
@@ -915,11 +959,19 @@ Incurrán (sic) en responsabilidad y se harán acreedores a las sanciones que la
 
 También incurrirán en responsabilidad, sancionada por la misma Ley, los partidos políticos que habiendo postulado candidatos en una elección, acuerden que sus miembros electos no se presenten a desempeñar sus funciones.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1981)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 66.
 
-El Gobernador del Estado asistirá a la apertura del primer Período Ordinario de Sesiones, en la que presentará un informe por escrito exponiendo la situación que guarde la administración pública del Estado. Podrá asistir también, cuando lo solicite, para informar sobre asuntos de su competencia y así lo acuerde la Legislatura.
+En la apertura del primer período de sesiones de cada año de ejercicio de la Legislatura, el Gobernador del Estado de Quintana Roo presentará un informe por escrito, en el que manifieste el estado general que guarda la administración pública del Estado.
+
+La Legislatura realizará el análisis del informe y podrá solicitar al Gobernador del Estado de Quintana Roo ampliar la información mediante pregunta por escrito y citar a los titulares de las dependencias y entidades paraestatales de la Administración Pública del Estado, quienes comparecerán y rendirán informes bajo protesta de decir verdad.
+
+La Legislatura podrá convocar a los titulares de las dependencias y entidades paraestatales, así como a los titulares de los órganos públicos autónomos, para que informen bajo protesta de decir verdad, cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades o para que respondan a interpelaciones o preguntas.
+
+La Legislatura podrá requerir información o documentación al Gobernador del Estado de Quintana Roo, y a los titulares de las dependencias y entidades paraestatales, mediante pregunta o solicitud por escrito, la cual deberá ser respondida o entregada en un término no mayor a 15 días naturales a partir de su recepción.
+
+La Ley Orgánica del Poder Legislativo de Quintana Roo, regulará el ejercicio de estas facultades.
 
 ###### ARTICULO 67.
 
@@ -1017,9 +1069,9 @@ X.- Conceder a los diputados y magistrados del Tribunal Superior de Justicia, li
 
 XI.- Decidir sobre las solicitudes de renuncia que formule (sic) los diputados y Gobernador del Estado para separarse definitivamente de sus cargos.
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
 
-XII.- Designar mediante el procedimiento previsto en esta Constitución y en las leyes respectivas, al Consejero Presidente, a los Consejeros Electorales del Consejo General del Instituto Electoral de Quintana Roo, así como a los Magistrados del Tribunal Electoral de Quintana Roo y tomarles la protesta de ley;
+XII.- Designar mediante el procedimiento previsto en esta Constitución y en las leyes respectivas, a los Consejeros Electorales, propietarios y suplentes, del Consejo General del Instituto Electoral de Quintana Roo, al igual que al Contralor Interno del mismo, así como a los Magistrados Numerarios, propietarios y suplentes, y al Contralor Interno del Tribunal Electoral de Quintana Roo y tomarles la protesta de Ley;
 
 XIII.- Cambiar la sede de los poderes del Estado.
 
@@ -1071,9 +1123,11 @@ XXVII.- Aprobar o rechazar las concesiones otorgadas por el ejecutivo.
 
 XXVIII.- Nombrar y remover, conforme al procedimiento previsto en esta Constitución o en la Ley correspondiente, a los titulares de las dependencias del Poder Legislativo, así como al Titular del Organo Superior de Fiscalización del Estado;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
 
-XXIX.- Examinar y aprobar, en su caso, la cuenta pública del Gobierno del Estado, correspondiente al año anterior, que será presentada a más tardar en los 10 días siguientes a la apertura del primer período ordinario de sesiones.
+XXIX.- Examinar y aprobar, en su caso, la cuenta pública del Gobierno del Estado, correspondiente al año anterior, que será presentada a más tardar el 5 de abril posterior al año del ejercicio fiscal que corresponda.
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
 
 Para la revisión de la cuenta pública, la Legislatura se apoyará en el Organo Superior de Fiscalización del Estado.
 
@@ -1165,7 +1219,9 @@ X.- Recibir la protesta de Ley y aprobar o rechazar el nombramiento de Procurado
 
 XI.- Designar mediante el procedimiento que la Ley determine, al Presidente y a los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Quintana Roo, así como recibirles la protesta de Ley;
 
-XII.- Designar mediante el procedimiento previsto en esta Constitución y en las leyes respectivas, al Consejero Presidente, a los consejeros Electorales del Consejo general del Instituto Electoral de Quintana Roo, así como a los Magistrados del Tribunal Electoral de Quintana Roo y tomarles la protesta de Ley:
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+XII.- Designar mediante el procedimiento previsto en esta Constitución y en las leyes respectivas, a los Consejeros Electorales, propietarios y suplentes, del Consejo General del Instituto Electoral de Quintana Roo, al igual que al Controlar Interno del mismo, así como a los Magistrados Numerarios, propietarios y suplentes, y al Controlar Interno del Tribunal Electoral de Quintana Roo y tomarles la protesta de Ley;
 
 XIII.- Las demás que le confiera expresamente esta Constitución.
 
@@ -1187,11 +1243,13 @@ El Organo Superior de Fiscalización del Estado tendrá a su cargo:
 
 I.- Revisar y fiscalizar en forma posterior la cuenta pública que los Gobiernos, Estatal y Municipales le presenten sobre su gestión financiera, a efecto de comprobar que la recaudación, manejo, custodia y aplicación de los ingresos y egresos durante un ejercicio fiscal, se ejercieron con apego a los criterios y disposiciones legales aplicables y determinar el grado de cumplimiento de los objetivos contenidos en los planes y programas aprobados conforme a la ley. La fiscalización también procederá respecto a la recaudación, administración, manejo o ejercicio de los recursos públicos que realice cualquier persona física o moral, pública o privada.
 
-II.- Entregar a la Legislatura Estatal el informe del resultado de la revisión y fiscalización de la Cuenta Pública, a más tardar en los diez días siguientes a la apertura del segundo período ordinario de sesiones del mismo año de su presentación. El informe del resultado tendrá el carácter público e incluirá los dictámenes de la revisión y el apartado correspondiente a la fiscalización del cumplimiento de los objetivos de los planes y programas aprobados. El Organo Superior de Fiscalización del Estado tendrá obligación de guardar reserva respecto a sus actuaciones e informaciones hasta la fecha en que entregue a la Legislatura estatal el propio informe.
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
 
-III.- Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos estatales y municipales y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros y documentos indispensables para realizar sus investigaciones, sujetándose a las leyes respectivas y a las formalidades prescritas para los cateos;
+II.- Entregar a la Legislatura Estatal el informe de resultados de la revisión y fiscalización de la Cuenta Pública, a más tardar el 27 de septiembre del mismo año de su presentación al Órgano Superior de Fiscalización. El informe de resultado tendrá el carácter de público e incluirá los dictámenes de la revisión y el apartado correspondiente a la fiscalización del cumplimiento de los objetivos de los planes y programas aprobados. El Órgano Superior de Fiscalización del Estado tendrá la obligación de guardar reserva respecto de sus actuaciones e informaciones hasta la fecha en que se entregue a la Legislatura Estatal el propio informe.
 
-IV.– Determinar los daños y perjuicios que afecten la Hacienda Pública o al Patrimonio de los Poderes del Estado o de los Municipios, o al patrimonio de los entes públicos estatales y municipales y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades, incluyendo las referidas en el título Octavo de esta Constitución y presentar las denuncias o querellas penales, en los términos y con las formalidades que señale la ley.
+III.- Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos estatales y municipales y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros y documentos indispensables para realizar sus investigaciones, sujetándose a las leyes respectivas y a las formalidades prescritas para los cateos.
+
+IV.- Determinar los daños y perjuicios que afecten la Hacienda Pública o al Patrimonio de los Poderes del Estado o de los Municipios, o al patrimonio de los entes públicos estatales y municipales y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades, incluyendo las referidas en el título Octavo de esta Constitución y presentar las denuncias o querellas penales, en los términos y con las formalidades que señale la ley.
 
 Los Poderes del Estado, los Municipios y demás entes públicos que deban ser fiscalizados facilitarán los auxilios que requiera el Organo Superior de Fiscalización del Estado para el ejercicio de sus funciones.
 
@@ -1243,9 +1301,11 @@ VII.- No estar comprendido en alguna de las prohibiciones establecidas por el ar
 
 VIII.- No ser Consejero Presidente, Consejero Electoral, Secretario General o Funcionario del Instituto Electoral de Quintana Roo o Magistrado Electoral, a menos que se separe de su cargo tres años antes de la fecha de la elección.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 81.
 
-El Gobernador del Estado durará en su cargo 6 años, e iniciará el ejercicio de sus funciones el día 5 de abril.
+El Gobernador del Estado durará en su cargo 6 años, e iniciará el ejercicio de sus funciones el día 25 de septiembre del año que corresponda.
 
 ###### ARTICULO 82.
 
@@ -1369,7 +1429,9 @@ V.- Facilitar al Poder Judicial el auxilio que requiera para el ejercicio de sus
 
 VI.- Mantener la administración pública en constante perfeccionamiento, adecuándola a las necesidades técnicas y humanas de la entidad.
 
-VII.- Presentar a la Legislatura antes del día 1° de diciembre de cada año las iniciativas de Ley de Ingresos y Presupuestos de Egresos del Estado, que deberán regir en el año inmediato siguiente.
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+VII.- Presentar a la Legislatura antes del 16 de Noviembre de cada año las iniciativas de Ley de Ingresos del Estado, que deberán regir en el año inmediato siguiente.
 
 VIII.- Gestionar ante las dependencias federales la aplicación de las medidas conducentes, a efecto de que se cumplan cabalmente en el Estado las leyes que emanen de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -1823,9 +1885,11 @@ La administración de la hacienda pública estará a cargo del Ejecutivo por con
 
 La ley determinará la organización y funcionamiento de las oficinas de hacienda en el Estado.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 118.
 
-Anualmente, durante el mes de noviembre, el Ejecutivo presentará a la Legislatura el proyecto de Presupuesto de Egresos.
+Anualmente, a más tardar el 15 de noviembre, el Ejecutivo presentará a la Legislatura el proyecto de Presupuesto de Egresos.
 
 ###### ARTICULO 119.
 
@@ -2159,7 +2223,9 @@ La extensión y límites de las cabeceras, alcaldías, delegaciones y subdelegac
 
 Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, que se renovara cada tres años y residirá en la Cabecera Municipal. La competencia que esta Constitución otorga al Gobierno Municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el Gobierno del Estado.
 
-Los Ayuntamientos deberán tomar posesión el día 10 del mes de Abril del año de la elección, mediante ceremonia pública y solemne.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
+Los Ayuntamientos deberán tomar posesión el día 30 de septiembre del año que corresponda, mediante ceremonia pública y solemne.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -2175,19 +2241,25 @@ II. En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, 
 
 Se elegirá un suplente para cada integrante del Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 135.
 
-Los miembros del Ayuntamiento se elegirán por sufragio universal directo, libre y secreto de los ciudadanos quintanarroenses en ejercicio de sus derechos, mediante el sistema electoral mixto de mayoría relativa y de representación proporcional conforme a las bases siguientes:
+Los miembros del Ayuntamiento se elegirán por sufragio universal, libre, secreto y directo de los ciudadanos quintanarroenses en ejercicio de sus derechos, en jornada electoral que tendrá lugar el primer domingo de julio del año que corresponda, mediante el sistema electoral mixto de mayoría relativa y de representación proporcional conforme a las bases siguientes:
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2008)</small>
 
 I. En los Municipios de Othón P. Blanco y Benito Juárez, cada partido político postulará una lista de once personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores.
 
 En los Municipios de Felipe Carrillo Puerto, José Maria Morelos, Cozumel, Lázaro Cárdenas, Isla Mujeres, Solidaridad, y Tulum, cada partido político postulará una lista de ocho personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores.
 
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2008)</small>
+
 II. El Partido Político que obtenga mayoría de votos acreditará a sus miembros en los cargos para los que fueron postulados.
 
-III. Los cargos de Regidores electos según el principio de representación proporcional, se asignarán a los Partidos Políticos que hayan obtenido por lo menos el cuatro por ciento del total de votos válidos emitidos en los Municipios donde hubiere participado, excepto el Partido Político que haya obtenido mayoría de votos.
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+III. Los cargos de Regidores electos según el principio de representación proporcional, se asignarán a los Partidos Políticos que hayan obtenido por los (sic) menos el tres por ciento del total de votos válidos emitidos en los Municipios donde hubiere participado, excepto el Partido Político que haya obtenido mayoría de votos.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -2369,7 +2441,9 @@ Los Municipios administrarán libremente su hacienda conforme a las siguientes b
 
 I. Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos o bien por quien ellos autoricen, conforme a la Ley.
 
-II. La Legislatura del Estado discutirá y aprobará, en su caso, las leyes de ingresos de cada Municipio, conforme a la iniciativa que oportunamente envíe cada uno de ellos, en los términos de la presente Constitución y de la Ley de Hacienda que al efecto se expida.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2009)</small>
+
+II. La Legislatura del Estado discutirá y aprobará, en su caso, las Leyes de Ingresos de cada Municipio, conforme a la Iniciativa que éstos presenten a más tardar el 15 de noviembre de cada año, en los términos de la presente Constitución y de la Ley Hacendaria que al efecto se expida.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO PUBLICADO EN EL P.O. DE 2 DE DICIEMBRE DE 2003.]</small>
 
@@ -2393,7 +2467,7 @@ IV. Las leyes no establecerán exenciones o subsidios en favor de persona o inst
 
 V. Los Presupuestos de Egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles.
 
-VI. La Deuda Pública Municipal se sujetará a lo que disponga la Ley e invariablemente requerirá de la aprobación de la Legislatura del Estado;
+VI. La Deuda Pública Municipal se sujetará a lo que disponga la Ley e invariablemente requerirá de la aprobación de la Legislatura del Estado.
 
 VII. La Legislatura del Estado, revisará y fiscalizará la Cuenta Pública de cada uno de los Municipios, previa aprobación de los Ayuntamientos, en los términos de las disposiciones aplicables.
 
@@ -2572,6 +2646,14 @@ El Gobernador del Estado, los Secretarios del Despacho, el Procurador General de
 ###### ARTICULO 166.
 
 Ninguna autoridad impondrá préstamos forzosos, ni se hará gasto alguno que no esté determinado en los presupuestos de egresos o que no sea aprobado por la Legislatura. Incurrirán en responsabilidad los servidores públicos que así lo ordenen.
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2009)</small>
+
+ARTICULO 166 BIS.- Los servidores públicos del Estado y los Municipios, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
+
+La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los tres órdenes de gobierno, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+
+Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -3138,3 +3220,79 @@ El presente Decreto entrará en vigor el día de su publicación en el Periódic
 ###### ARTÍCULO SEGUNDO.
 
 El Consejo de la Judicatura del Poder Judicial del Estado deberá continuar en su conformación actual, hasta en tanto se venza el período por el que fueron elegidos cada uno de sus integrantes.
+
+P.O. 3 DE MARZO DE 2009.
+
+DECRETO NO. 099, POR EL QUE SE REFORMA EL ARTICULO 66 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+ÚNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 3 DE MARZO DE 2009.
+
+DECRETO NO. 100, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DE LA CONSTITUCION POLITICA DEL ESTADO DE QUINTANA ROO.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo, observándose las previsiones contenidas en los artículos siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Por esta única ocasión, el proceso electoral ordinario para renovar al actual titular del Poder Ejecutivo, a los Diputados a la Legislatura que se encuentran en funciones, así como de los integrantes de los Ayuntamientos que están desempeñando el cargo, iniciará el primero de octubre del año 2010.
+
+La Jornada Electoral tendrá verificativo el primer domingo de febrero del año 2011 y quienes resulten electos tomarán posesión de la siguiente forma:
+
+a).- Los Diputados a la Legislatura el día 24 de Marzo del año 2011 y estarán en funciones hasta que se instale la siguiente Legislatura, que lo hará el 14 de septiembre del año 2013;
+
+b).- El Titular del Poder Ejecutivo, el día 5 de Abril del año 2011 y estará en funciones hasta la toma de posesión del siguiente titular del Poder Ejecutivo, que lo hará el 25 de septiembre del año 2016; y
+
+c).- Los Miembros de los Ayuntamientos, el día 10 de Abril del año 2011 y estarán en funciones hasta la toma de posesión de los siguientes Ayuntamientos, que lo harán el 30 de septiembre del año 2013. El Instituto Electoral de Quintana Roo y el Tribunal Electoral de Quintana Roo quedan autorizados para ajustar los actos que deban desarrollarse en cada una de las etapas del proceso electoral, así como los relativos a los medios de impugnación, debiendo observar las disposiciones constitucionales y legales aplicables, de acuerdo con el calendario electoral de transición que se señala.
+
+###### ARTÍCULO TERCERO.
+
+El cuarto, quinto y sexto informes, que sobre el estado que guarda la Administración Pública de la Entidad, debe rendir el actual Gobernador del Estado de Quintana Roo, por excepción, los realizará el 26 de marzo de los años 2009, 2010 y 2011, respectivamente, en la apertura del periodo que corresponda a la Legislatura.
+
+El Gobernador del Estado de Quintana Roo que resulte electo en el año 2011, rendirá su primer informe, que sobre el estado que guarda la Administración Pública de la Entidad, el día 17 de Septiembre de 2012.
+
+###### ARTÍCULO CUARTO.
+
+La adecuación de la normatividad conforme a las disposiciones del presente Decreto, deberán realizarse a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+El nombramiento de los Contralores Internos, tanto del Instituto Electoral como del Tribunal Electoral de Quintana Roo, deberá ocurrir a más tardar en los treinta días posteriores a la entrada en vigor del presente Decreto, y durarán en el encargo hasta el 31 de enero de 2015, fecha en la que deberán de renovarse.
+
+###### ARTÍCULO SEXTO.
+
+El nombramiento de los Magistrados electorales suplentes del Tribunal Electoral de Quintana Roo, deberá ocurrir a más tardar en los treinta días posteriores a la entrada en vigor del presente Decreto, y durarán en el encargo hasta el 31 de enero de 2015, fecha en la que deberán de renovarse.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los actuales Consejeros suplentes del Instituto Electoral de Quintana Roo, durarán en el encargo hasta el 31 de enero de 2015, fecha en la que deberán renovarse.
+
+###### ARTÍCULO OCTAVO.
+
+Las cuentas públicas correspondientes al ejercicio fiscal 2008 deberán ser entregadas al Órgano Superior de Fiscalización a más tardar el día 5 de abril del 2009.
+
+El informe del resultado de la revisión y fiscalización de las cuentas públicas mencionadas con antelación, se deberá presentar a más tardar el 27 de septiembre del 2009.
+
+El examen y aprobación de las cuentas públicas correspondiente al ejercicio fiscal 2008, deberán concluirse a más tardar el 26 de junio del 2010.
+
+Similar proceso se seguirá con las cuentas públicas de los ejercicios fiscales subsecuentes, independientemente de la denominación que en vía de excepción reciban los periodos ordinarios de sesiones de la Legislatura en funciones.
+
+###### ARTÍCULO NOVENO.
+
+Para efectos únicamente de identificación, en vía de excepción, los periodos ordinarios de la Legislatura que se instale el 24 de marzo de 2011, se les denominará de la siguiente forma:
+
+a) El período ordinario de sesiones que inicie el 26 de marzo de 2011, se le reputará periodo único ordinario, del primer año de ejercicio constitucional.
+
+b) El período ordinario de sesiones que inicie el 17 de septiembre de 2011, se le denominará primer periodo ordinario de sesiones, del segundo año de ejercicio constitucional.
+
+c) El período ordinario de sesiones que inicie el 26 de marzo de 2012, se le denominará segundo periodo ordinario de sesiones, del segundo año de ejercicio constitucional.
+
+d) El período ordinario de sesiones que inicie el 17 de septiembre de 2012, se le denominará primer periodo ordinario de sesiones, del tercer año de ejercicio constitucional.
+
+e) El período ordinario de sesiones que inicie el 26 de marzo de 2013, se le denominará segundo período ordinario de sesiones, del tercer año de ejercicio constitucional.
+
+###### ARTÍCULO DÉCIMO.
+
+Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
