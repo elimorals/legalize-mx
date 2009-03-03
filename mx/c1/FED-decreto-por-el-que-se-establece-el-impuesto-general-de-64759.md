@@ -4,7 +4,7 @@ identifier: "FED-decreto-por-el-que-se-establece-el-impuesto-general-de-64759"
 country: "mx"
 rank: "decreto"
 publication_date: "2008-12-24"
-last_updated: "2008-12-24"
+last_updated: "2009-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64759&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,7 +19,9 @@ issue_date: "2008-12-22"
 ---
 # DECRETO POR EL QUE SE ESTABLECE EL IMPUESTO GENERAL DE IMPORTACION PARA LA REGION FRONTERIZA Y LA FRANJA FRONTERIZA NORTE
 
-DECRETO POR EL QUE SE ESTABLECE EL IMPUESTO GENERAL DE IMPORTACION PARA LA REGION FRONTERIZA Y LA FRANJA FRONTERIZA NORTE
+> <small>[N. DE E. PARA CONSULTAR LOS DECRETOS DE ACTUALIZACIONES AL "DECRETO POR EL QUE SE ESTABLECE EL IMPUESTO GENERAL DE IMPORTACIÓN PARA LA REGIÓN FRONTERIZA Y LA FRANJA FRONTERIZA NORTE", SE SUGIERE DESPLEGAR LOS ARCHIVOS ANEXOS (ACROBAT READER) UBICADOS EN LA CRONOLOGÍA DEL PRESENTE ORDENAMIENTO.]</small>
+
+DECRETO POR EL QUE SE ESTABLECE EL IMPUESTO GENERAL DE IMPORTACIÓN PARA LA REGIÓN FRONTERIZA Y LA FRANJA FRONTERIZA NORTE
 
 TEXTO ORIGINAL.
 
@@ -176,3 +178,7 @@ Lo dispuesto en el párrafo anterior no aplica para las personas morales que tri
 TERCERO.- Se abrogan todas las disposiciones que se opongan al presente Decreto.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintidós de diciembre de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.
+
+CRONOLOGÍA DE LOS DECRETOS DE ACTUALIZACIONES.
+
+> <small>[N. DE E. A CONTINUACIÓN SE LISTAN DE MODO CRONOLÓGICO Y ANEXAN LOS DECRETOS DE ACTUALIZACIONES AL "DECRETO POR EL QUE SE ESTABLECE EL IMPUESTO GENERAL DE IMPORTACIÓN PARA LA REGIÓN FRONTERIZA Y LA FRANJA FRONTERIZA NORTE".]</small>
