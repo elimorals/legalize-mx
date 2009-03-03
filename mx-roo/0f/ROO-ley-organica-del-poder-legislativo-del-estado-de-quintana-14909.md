@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-14909
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-25"
-last_updated: "2008-06-06"
+last_updated: "2009-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de octubre de 1995.
 
@@ -83,11 +83,11 @@ Esta Ley, sus reformas y adiciones no necesitarán de promulgación del Gobernad
 
 ### CAPITULO UNICO. DE LA INSTALACION DE LA LEGISLATURA Y DE LA ELECCION DE LA MESA DIRECTIVA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
 
-###### Artículo 7°.
+###### ARTICULO 7.
 
-Para la instalación de la Legislatura, la Diputación Permanente saliente convocará a los Diputados entrantes que cuenten con la constancia expedida por el órgano electoral competente a asistir en la sede del Poder Legislativo del Estado el día 24 de marzo del año que corresponde a partir de las once horas, a efecto de llevar a cabo la Junta Preparatoria que será presidida por la propia Diputación Permanente y que se desarrollará conforme al siguiente procedimiento:
+Para la instalación de la Legislatura, la Diputación Permanente saliente convocará a los Diputados entrantes que cuenten con la constancia expedida por el Órgano Electoral competente, a asistir en la sede del Poder Legislativo del Estado el día 14 de Septiembre del año que corresponde a partir de las once horas, a efecto de llevar a cabo la Junta Preparatoria que será presidida por la propia Diputación Permanente y que se desarrollará conforme al siguiente procedimiento:
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -129,23 +129,25 @@ En todo caso, cada uno de los Diputados a que se refiere el párrafo anterior, e
 
 ### CAPITULO I. DE LOS PERIODOS DE SESIONES Y DE RECESOS
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 10.
 
-La Legislatura se reunirá a partir del 26 de marzo de cada año, para celebrar un primer período de sesiones ordinarias, y a partir del 20 de septiembre de cada año para celebrar un segundo período de sesiones ordinarias.
-
-En estos períodos la Legislatura se ocupará del estudio, discusión y votación de las iniciativas de ley o de decreto que se le presenten y de la resolución de los demás asuntos que le correspondan conforme a la Constitución Política del Estado y la presente Ley.
+La Legislatura se reunirá a partir del día 17 de septiembre de cada año, para celebrar un primer período de sesiones ordinarias, y a partir del 26 de marzo de cada año para celebrar un segundo período de sesiones ordinarias.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
+En estos períodos la Legislatura se ocupará del estudio, discusión y votación de las iniciativas de ley o de decreto que se le presenten y de la resolución de los demás asuntos que le correspondan conforme a la Constitución Política del Estado y la presente Ley.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 11.
 
-Cada período de sesiones ordinarias durará el tiempo necesario para tratar todos los asuntos mencionados en el artículo anterior. El primer período no podrá prolongarse sino hasta el 26 de junio del mismo año. El segundo período no podrá prolongarse más allá del 15 de diciembre del mismo año.
+Cada período de sesiones ordinarias durará el tiempo necesario para tratar todos los asuntos mencionados en el artículo anterior. El primer período no podrá prolongarse sino hasta el 17 de diciembre del mismo año. El segundo período no podrá prolongarse más allá del día 26 de junio del mismo año.
 
 ###### ARTICULO 12.
 
-La Legislatura, a convocatoria de la Diputación Permanente, por sí o a solicitud del Gobernador del Estado, celebrará sesiones extraordinarias en períodos cuya duración será el tiempo que requiera la atención del asunto o asuntos que las motivare.
+La Legislatura, a convocatoria de la Diputación Permanente, por si, o a solicitud del Gobernador del Estado, celebrará sesiones extraordinarias en períodos cuya duración será el tiempo que requiera la atención del asunto o asuntos que las motivare.
 
 ###### ARTICULO 13.
 
@@ -225,7 +227,9 @@ XXVI.- Aprobar o rechazar las concesiones otorgadas por el Ejecutivo.
 
 XXVII.- Nombrar y remover libremente a sus empleados y a los de la Contaduría Mayor de Hacienda.
 
-XXVIII.- Examinar y aprobar, en su caso, la cuenta pública del año anterior que será presentada dentro de los primeros 10 días de la apertura de sesiones.
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+XXVIII.- Examinar y aprobar, en su caso, la cuenta pública del año anterior que será presentada a más tardar el día 5 de abril, posterior al año del ejercicio fiscal que corresponda.
 
 XXIX.- Aprobar las Leyes de Ingresos Municipal y Estatal y el presupuesto de egresos del Estado, determinando en cada caso, las partidas correspondientes para cubrirlas.
 
@@ -293,11 +297,9 @@ Diez días antes de la apertura de cada período de sesiones ordinarias, con exc
 
 En la última sesión de cada primer o segundo mes, la Legislatura elegirá para el siguiente mes, al Presidente y al Vicepresidente, quienes asumirán sus cargos en la sesión siguiente a aquélla en que hubieren sido electos.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
-
 ###### ARTICULO 20.
 
-Cuando el segundo período de sesiones ordinarias se prolongue por más de dos meses, la Mesa Directiva electa para el segundo mes continuará en funciones hasta la clausura del periodo.
+(DEROGADO, P.O. 3 DE MARZO DE 2009)
 
 ###### ARTICULO 21.
 
@@ -1888,3 +1890,13 @@ Artículo Cuarto. Hasta en tanto no se de cumplimiento a los artículos transito
 P.O. 6 DE JUNIO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 3 DE MARZO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
