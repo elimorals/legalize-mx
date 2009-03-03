@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-gobierno-municipal-del-estado-de-baja-57967"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-10-10"
-last_updated: "2008-03-11"
+last_updated: "2009-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 3 DE MARZO DE 2009.
 
 Ley publicada en el Extraordinario Número 45-Bis al Boletín Oficial del Estado de Baja California Sur, el miércoles 10 de octubre de 2007.
 
@@ -633,7 +633,17 @@ XXII.- Coadyuvar con las autoridades federales y estatales en el ejercicio de su
 
 XXIII.- Vigilar que se integren y funcionen en forma legal las dependencias, unidades administrativas y organismos desconcentrados o descentralizados y fideicomisos que formen parte de la estructura administrativa;
 
-XXIV.- Las demás que le señalen esta Ley y demás disposiciones legales aplicables.
+> <small>(REFORMADA, B.O. 3 DE MARZO DE 2009)</small>
+
+XXIV.- Expedir constancias de posesión y explotación de terrenos nacionales y terrenos que se encuentren dentro de las reservas territoriales del Municipio, previa consulta a Catastro, Registro Público de la Propiedad y del Comercio y a la autoridad Delegacional o Subdelegacional Municipal que corresponda, quienes deberán levantar un acta circunstanciada misma que será integrada al expediente, según sea el caso de la zona donde se encuentre ubicado el predio señalado por el o la solicitante.
+
+Al realizar la solicitud de las constancias a que refiere el párrafo que antecede, los y las solicitantes deberán presentar dos testigos quienes bajo protesta de decir verdad, harán constar el nombre de la o el posesionario, superficie, colindancia y tiempo de la posesión y explotación del predio, y deberán presentar identificación oficial con fotografía.
+
+La vigencia de la constancia será de un año, contado a partir de la fecha de su expedición;
+
+> <small>(ADICIONADA, B.O. 3 DE MARZO DE 2009)</small>
+
+XXV.- Las demás que le señalen esta Ley y demás disposiciones legales aplicables.
 
 ###### Artículo 54.
 
@@ -2322,3 +2332,9 @@ B.O. 10 DE MARZO DE 2008.
 B.O. 11 DE MARZO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 3 DE MARZO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
