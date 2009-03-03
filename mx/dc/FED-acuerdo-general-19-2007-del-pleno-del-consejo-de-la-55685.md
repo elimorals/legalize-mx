@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-19-2007-del-pleno-del-consejo-de-la-55685"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-05-30"
-last_updated: "2007-05-30"
+last_updated: "2009-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55685&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-05-16"
 
 ACUERDO GENERAL 19/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE CONDICIONES PARA LA ACTIVIDAD JURISDICCIONAL CONTINUA EN LOS TRIBUNALES COLEGIADOS DE CIRCUITO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE MARZO DE 2009.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 30 de mayo de 2007.
 
@@ -61,11 +61,17 @@ ACUERDO
 
 PRIMERO.- Con fundamento en lo dispuesto por los artículos 160 de la Ley Orgánica del Poder Judicial de la Federación y 102, segundo párrafo, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Carrera Judicial y las Condiciones de los Funcionarios Judiciales, se establecen como periodos vacacionales de los tribunales colegiados de Circuito, los siguientes: para el correspondiente al primer semestre del año, la primera quincena de julio, la segunda quincena de julio y la primera quincena de agosto; para el correspondiente al segundo semestre, la primera quincena de diciembre, la segunda quincena de diciembre y la primera quincena de enero del siguiente año.
 
-SEGUNDO.- En las poblaciones donde existan dos o más tribunales colegiados de Circuito mixtos, los magistrados acordarán de manera conjunta, en cuál de las quincenas autorizadas disfrutarán vacaciones; en la inteligencia de que siempre deberá permanecer el número suficiente de órganos jurisdiccionales que permita la continuidad en el servicio.
+> <small>N. DE E. EN RELACION CON LOS EFECTOS DEL PRESENTE PUNTO, VER TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Tratándose de tribunales colegiados de Circuito especializados por materia se requerirá que, en la misma población, existan dos o más de la misma especialidad para que opere la regla anterior.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 3/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE MARZO DE 2009)</small>
 
-De no existir acuerdo, de conformidad con lo dispuesto por el artículo 52, fracción XXI, del Acuerdo General del Pleno del Consejo de la Judicatura Federal que Reglamenta la Organización y Funcionamiento del Propio Consejo, corresponderá a la Comisión de Carrera Judicial o, en su caso, a la Comisión de Receso, determinar la quincena en que deban tomarse los periodos vacacionales.
+SEGUNDO.- En las poblaciones donde existan dos o más tribunales colegiados de Circuito mixtos, los magistrados acordarán de manera conjunta, cuál de ellos continuará sus labores en los períodos a que se refiere el artículo 159 de la Ley Orgánica del Poder Judicial de la Federación, es decir, durante la segunda quincena de julio y la segunda quincena de diciembre de cada año.
+
+Tratándose de tribunales colegiados de Circuito especializados se requerirá que, en la misma sede, existan dos o más, para que opere la regla anterior, aunque sólo será necesario que la continuidad en el servicio se preste por un tribunal colegiado por cada sede, el cual estará dotado de competencia temporal mixta para conocer de los recursos de queja a que se refiere la fracción XI del artículo 95 de la Ley de Amparo; con excepción de los tribunales colegiados en Materia Administrativa del Primer Circuito, en el que permanecerán dos de esos órganos como mínimo y atenderán, adicionalmente a sus asuntos normales, los referidos medios de impugnación de su especialidad.
+
+El número de los órganos jurisdiccionales podrá aumentar, cuando resulte necesario por cuestiones excepcionales y debidamente justificadas.
+
+De no existir acuerdo, de conformidad con lo dispuesto por el artículo 52, fracción XXI, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del Propio Consejo, corresponderá a la Comisión de Carrera Judicial o, en su caso, a la Comisión de Receso, determinar la quincena en que deban tomarse los períodos vacacionales.
 
 TERCERO.- Los magistrados de Circuito integrantes de los tribunales colegiados de Circuito comunicarán, cuando menos con quince días de anticipación, al titular de la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos, los términos acordados para el disfrute de sus periodos vacacionales, para que informe a la Comisión de Carrera Judicial, y lleve el control de las autorizaciones.
 
@@ -90,3 +96,13 @@ SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, y par
 TERCERO.- Este acuerdo surtirá efectos a partir del periodo vacacional correspondiente al segundo semestre de dos mil siete.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 19/2007, del Pleno del Consejo de la Judicatura Federal, que Establece Condiciones para la Actividad Jurisdiccional Continua en los Tribunales Colegiados de Circuito, fue aprobado por el Pleno del Propio Consejo, en sesión de dieciséis de mayo de dos mil siete, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, María Teresa Herrera Tello, Miguel A. Quirós Pérez y Oscar Vázquez Marín.- México, Distrito Federal, a dieciséis de mayo de dos mil siete.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 3 DE MARZO DE 2009.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su publicación y surtirá efectos a partir del período vacacional correspondiente al primer semestre de dos mil nueve.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar, de inmediato, el texto de esta reforma, al Acuerdo General 19/2007, del Pleno del Consejo de la Judicatura Federal, que Establece las Condiciones para la Actividad Jurisdiccional Continua de los Tribunales Colegiados de Circuito.
