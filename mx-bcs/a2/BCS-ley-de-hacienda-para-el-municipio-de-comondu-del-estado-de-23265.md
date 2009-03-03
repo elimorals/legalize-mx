@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-comondu-del-estado-de-2326
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2006-02-15"
+last_updated: "2009-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COMONDU DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 15 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 3 DE MARZO DE 2009.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 5 de noviembre de 2001.
 
@@ -1419,7 +1419,9 @@ Los derechos por legalización de firmas, expedición de constancias, certificad
 
 TARIFA
 
-I. Legalización de firmas 1 día salario mínimo
+> <small>(REFORMADA, B.O. 3 DE MARZO DE 2009)</small>
+
+I. Legalización de firmas, expedición de certificados, expedición de constancias, copias certificadas y certificaciones. 1 salario mínimo
 
 II. Expedición de certificados de algún hecho ocurrido en presencia de la autoridad, por cada hoja 1 día salario mínimo
 
@@ -2846,3 +2848,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 B.O. 15 DE FEBRERO DE 2006.
 
 Artículo Único.- El Presente Decreto entrar en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 3 DE MARZO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El Presente Decreto entrar en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
