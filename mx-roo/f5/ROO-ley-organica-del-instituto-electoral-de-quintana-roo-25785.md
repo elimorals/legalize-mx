@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-instituto-electoral-de-quintana-roo-25785"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-08-27"
-last_updated: "2007-06-29"
+last_updated: "2009-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DEL INSTITUTO ELECTORAL DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 27 de agosto de 2002.
 
@@ -105,13 +105,15 @@ VII. Las demás que señale la Ley.
 
 Las actividades del Instituto, se regirán por los principios de constitucionalidad, certeza, legalidad, independencia, imparcialidad y objetividad.
 
-(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 27 DE JULIO DE 2007)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
 
 ###### Artículo 7.
 
-Para el cumplimiento de sus fines, el Instituto contará permanentemente con un Consejo General; una Junta General, una Secretaria General; las Direcciones de: Organización, Capacitación Electoral, Jurídica, de Partidos Políticos, y de Administración; las Unidades Técnicas de: Contraloría Interna, Comunicación Social, Informática y Estadística y el Centro de Información Electoral. Cada Órgano tendrá las atribuciones que señala el presente ordenamiento; su estructura y organización será establecida en el Reglamento Interno del Instituto y en los Manuales de Organización que al efecto apruebe y expida el Consejo General a propuesta de la Junta General.
+Para el cumplimiento de sus fines, el Instituto contará permanentemente con un Consejo General, una Junta General, una Secretaría General, una Contraloría Interna, las Direcciones de: Organización, Capacitación Electoral, Jurídica, de Partidos Políticos, y de Administración; las Unidades Técnicas de: Comunicación Social, Informática y Estadística y el Centro de Información Electoral. Cada órgano tendrá las atribuciones que señale la Ley Electoral y el presente ordenamiento; su estructura y organización será establecida en el Reglamento Interno del Instituto y en los Manuales de Organización que al efecto apruebe y expida el Consejo General a propuesta de la Junta General, con excepción de lo relativo a la Contraloría Interna.
 
-En los procesos electorales, el Instituto se integrará además, con los Consejos Distritales, Juntas Distritales Ejecutivas y Mesas Directivas de Casilla.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
+En los procesos electorales, el Instituto Electoral se integrará además, con los Consejos Municipales, Juntas Municipales Ejecutivas, Consejos Distritales, Juntas Distritales Ejecutivas y Mesas Directivas de Casilla.
 
 Para el mejor funcionamiento del Instituto y para el cumplimiento de sus responsabilidades, el Consejo General podrá crear temporalmente unidades técnicas de acuerdo a las necesidades del servicio y la disponibilidad presupuestal.
 
@@ -127,9 +129,11 @@ El Instituto tendrá su domicilio en la capital del Estado y ejercerá sus funci
 
 El Consejo General del Instituto es el Organo Superior de Dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, de promover la cultura política y democrática, así como de velar porque los principios de certeza, legalidad, independencia, imparcialidad y objetividad guíen todas las actividades del Instituto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+
 ###### Artículo 10.
 
-El Consejo General se integrará con un Consejero Presidente y seis Consejeros Electorales con voz y voto; concurrirán, además, con voz pero sin voto: un representante de cada uno de los partidos políticos y el Secretario General del Instituto. Asimismo habrá cuatro Consejeros Electorales suplentes en orden de prelación.
+El Consejo General se integrará con siete Consejeros Electorales con voz y voto, uno de los cuales fungirá como Presidente; concurrirán, además, con voz pero sin voto: un representante de cada uno de los partidos políticos y el Secretario General del Instituto. Asimismo habrá cuatro Consejeros Electorales suplentes en orden de prelación, que deberán reunir los mismos requisitos. En la primera sesión que celebren en el mes de Febrero, los Consejeros Electorales elegirán a uno de ellos, como Presidente del Instituto, quien lo será por un período de tres años, pudiendo ser reelecto para un período igual.
 
 > <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2007)</small>
 
@@ -147,37 +151,29 @@ En todos los asuntos que les encomienden, las comisiones deberán presentar un i
 
 Los Directores y/o Jefes de Unidad de las áreas correspondientes fungirán como Secretarios Técnicos de las Comisiones.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
 ###### Artículo 11.
 
-El Consejero Presidente y los Consejeros Electorales del Consejo General serán elegidos por el voto de las dos terceras partes de los miembros de la Legislatura del Estado o de la Diputación Permanente, en los recesos de ésta, de entre las propuestas que formulen los grupos parlamentarios.
+Los Consejeros Electorales, propietarios y suplentes, del Consejo General serán elegidos por el voto de las dos terceras partes de los miembros de la Legislatura del Estado o de la Diputación Permanente, en los recesos de ésta, de entre las propuestas que formulen los grupos parlamentarios. Para ser Consejero Electoral del Consejo General, deberán reunirse los siguientes requisitos:
 
-Para ser Consejero Presidente o Consejero Electoral del Consejo General, deberán reunirse los siguientes requisitos:
+a).- Ser mexicano por nacimiento, sin tener o adquirir otra nacionalidad, ciudadano quintanarroense, además de estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-I. Ser mexicano por nacimiento, sin tener otra nacionalidad y ciudadano quintanarroense en pleno ejercicio de sus derechos políticos y civiles;
+b).- Estar inscrito en el Registro Federal de Electores y contar con credencial para votar;
 
-II. Estar inscrito en el padrón electoral y contar con credencial para votar;
+c).- Tener más de veinticinco años de edad, el día de la designación;
 
-III. Tener mas de veinticinco años de edad;
+d).- Poseer al día de la designación, título y cédula profesional de nivel licenciatura;
 
-IV. Poseer título profesional expedido por Institución de Educación Superior legalmente facultada para ello, y preferentemente cédula, en algún área del conocimiento;
+e).- Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
 
-V. Gozar de buena reputación, no estar sujeto a proceso penal y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional;
+f).- Tener una residencia efectiva en el Estado durante los últimos diez años, y haber sido vecino en alguno de los Municipios de la Entidad en los cinco años previos a su designación;
 
-VI. Tener residencia efectiva en la entidad durante los diez años y cinco años de vecindad en algún Municipio del Estado, anteriores a la fecha de designación;
+g).- No haber sido registrado como candidato a cargo alguno de elección popular en los últimos diez años anteriores a la designación;
 
-VII. No tener, ni haber tenido cargo alguno de elección popular, ni haber sido postulado como candidato de algún Partido Político, Coalición o agrupación política en los diez años anteriores a la designación;
+h).- No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político ó agrupación política, o representante ante el Consejo General, los Consejos Municipales y los Consejos Distritales del Instituto Electoral de Quintana Roo, así como en los Órganos del Instituto Federal Electoral, en los últimos diez años anteriores a la designación; y
 
-VIII. No desempeñar, ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido político, o de dirigente de organismos, instituciones, colegios o agrupaciones ciudadanas afiliadas a algún partido político, en los diez años anteriores a la fecha de su designación;
-
-IX. No desempeñar o haber desempeñado el cargo de Representante de partido o coalición ante los Organos Electorales de la entidad, de otros Estados o de la Federación, en los diez años anteriores a la fecha de su designación;
-
-X. No desempeñar o haber desempeñado el cargo de Magistrado Electoral, Consejero Ciudadano, Consejero Electoral, Secretario Técnico o Secretario Ejecutivo ante los Organos Electorales de la entidad, de otros Estados o sus equivalentes a nivel Federal, en los diez años anteriores a la fecha de su designación;
-
-XI. No ser, ni haber sido ministro de culto religioso, en los últimos cinco años anteriores a la fecha de designación;
-
-XII. Tener conocimiento en la materia política electoral, preferentemente; y
-
-XIII. No desempeñar o haber desempeñado el cargo de Secretario, Procurador General de Justicia del Estado u Oficial Mayor en la Administración Pública Estatal, en los dos últimos años anteriores a la fecha de su designación.
+i).- No ser secretario, ni procurador general de justicia, subsecretario u oficial mayor en la administración pública estatal, a menos que se separe de su encargo con cuatro años de anticipación al día de su nombramiento.
 
 ###### Artículo 12.
 
@@ -195,21 +191,31 @@ V. Cumplir y hacer cumplir, en el ámbito de su competencia, las disposiciones c
 
 VI. Las demás que le otorgue la Constitución Particular, la presente Ley y demás ordenamientos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+
 ###### Artículo 13.
 
-El procedimiento para la designación del Consejero Presidente y de los Consejeros Electorales del Consejo General, se sujetará al trámite siguiente:
+El procedimiento para la designación de los Consejeros Electorales, propietarios y suplentes, y del Contralor Interno, se sujetará al trámite siguiente:
 
-I. La Presidencia de la Mesa Directiva de la Legislatura, o de la Diputación Permanente, en su caso, convocará a los grupos parlamentarios, a presentar dos candidatos para cada cargo a designar, ante la Comisión de Puntos Legislativos.
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+I. La Presidencia de la Mesa Directiva de la Legislatura, o de la Diputación Permanente, en su caso, convocará a los grupos parlamentarios, a presentar hasta dos candidatos para cada cargo a designar, ante la Comisión de Puntos Legislativos;
 
 II. Los grupos parlamentarios presentaran sus propuestas por escrito, anexando a cada una de ellas el currículum vitae con documentación que sustente el mismo; la documentación deberá presentarse en original y copia para compulsa, o bien certificadas. Dichas propuestas deberán realizarse en un término máximo de diez días naturales, contados a partir de la fecha en que fueron notificados.
 
 III. La Comisión de Puntos Legislativos, una vez vencido el plazo señalado en la fracción que antecede, se reunirá para revisar si las propuestas cumplen con los requisitos de ley, y elaborará el dictamen correspondiente, mismo que contendrá la relación de los nombres de las personas propuestas que satisficieron los requisitos legales.
 
-IV. El citado dictamen se presentará en sesión plenaria de la Legislatura o la Diputación Permanente, según corresponda, para efecto de que los legisladores designen, de entre las propuestas que cumplieron con los requisitos, al Consejero Presidente y los Consejeros Electorales.
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
 
-V. La designación del Consejero Presidente y los consejeros Electorales del Instituto se mandará a publicar en el Periódico Oficial del Gobierno del Estado.
+IV. El citado Dictamen se presentará, a más tardar en los tres días siguientes al vencimiento del plazo señalado en la fracción II del presente artículo, en sesión plenaria de la Legislatura o la Diputación Permanente, según corresponda, para efecto de que los legisladores designen, de entre las propuestas que cumplieron con los requisitos, a los Consejeros Electorales y al Contralor Interno del Instituto;
 
-VI. Los designados deberán comparecer ante la propia Legislatura o la Diputación Permanente, a rendir la Protesta de Ley.
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+V. La designación de los Consejeros Electorales y el Contralor Interno del Instituto, se mandará a publicar en el Periódico Oficial del Estado;
+
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+VI. Los designados deberán comparecer ante la propia Legislatura o la Diputación Permanente, a rendir la Protesta de Ley. En el caso de que un Consejero Suplente tenga que entrar en funciones, éste deberá rendir la protesta ante el Consejo General.
 
 ###### Artículo 14.
 
@@ -223,17 +229,17 @@ I. Expedir los reglamentos internos y estatutos que sean necesarios para el buen
 
 Aprobar su anteproyecto de Presupuesto de Egresos, el Programa Anual de Actividades, los programas operativos correspondientes a los procesos electorales y los de trabajo, investigación, de educación cívica y de estudio, que le presente la Junta General a través del Consejero Presidente, quien ordenará lo conducente para que dichos documentos se integren en tiempo y forma; asimismo vigilará y evaluará su cumplimiento;
 
-(REFORMADA, P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 9 DE JULIO DE 2007)
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
 
-II. Designar, de las ternas que proponga el Consejero Presidente, al Secretario General, a los directores de área y a los titulares de las unidades técnicas de Contraloría Interna. Comunicación Social, Informática y Estadística, y del Centro de Información Electoral del Instituto, en los términos de la presente Ley;
+II. Designar, de las ternas que proponga el Consejero Presidente, al Secretario General, a los directores de área y a los titulares de la unidades técnicas de Comunicación Social, Informática y Estadística, y del Centro de Información del Instituto, en los términos de la presente Ley;
 
 (REFORMADA, P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 9 DE JULIO DE 2007)
 
 III. Remover a propuesta del Consejero Presidente, con la aprobación de las dos terceras partes de los integrantes del Consejo General, a los funcionarios antes señalados cuando dejen de reunir los requisitos para su designación, falten a la probidad o eficiencia o violenten los principios rectores de la función electoral, en todo caso se les otorgará la garantía de audiencia. Podrán ser removidos de su cargo, en los términos y condiciones previstas en esta Ley;
 
-(REFORMADA, P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 9 DE JULIO DE 2007)
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
 
-IV. Designar entre las propuestas, de al menos el doble por cargo, que al efecto realice la Junta General, a los Consejeros Presidentes y Consejeros Electorales Propietarios y Suplentes, así como a los Vocales de los Consejos Distritales del Instituto;
+IV.- Designar entre las propuestas, de al menos el doble por cargo, que al efecto realice la Junta General, a los Consejeros Presidentes y Consejeros Electorales Propietarios y Suplentes, así como a los Vocales de los Consejos Municipales y los Distritales del Instituto;
 
 > <small>(F. DE E., P.O. 9 DE JULIO DE 2007)</small>
 
@@ -251,7 +257,9 @@ X. Aprobar los convenios que se celebren con el Instituto Federal Electoral y ot
 
 XI. Aprobar los topes de gastos de campaña que puedan efectuar los partidos políticos o coaliciones en términos de la Ley Electoral;
 
-XII. (DEROGADA, P.O. 29 DE JUNIO DE 2007)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE MARZO DE 2009)</small>
+
+XII. Coordinarse con el Instituto Federal Electoral para efecto de la fiscalización de los recursos económicos otorgados a los Partidos Políticos;
 
 XIII. Aprobar los lineamientos en materia de encuestas o sondeos de opinión que formule la Junta General;
 
@@ -289,7 +297,9 @@ XXIX. Requerir a la Junta General que investigue por los medios a su alcance, he
 
 XXX. Crear nuevas unidades técnicas en los términos que dispone la presente Ley; y
 
-XXXI. Remover al Consejero Presidente, Consejeros Electorales y Vocales de los Consejos Distritales, cuando éstos incurran en causas graves, previamente calificadas;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+XXXI. Remover a los Consejeros Presidentes, Consejeros Electorales y a los Vocales de los Consejos Municipales y los Distritales, cuando éstos incurran en causas graves, previamente calificadas;
 
 XXXII. Proponer a la Legislatura modificaciones a la legislación electoral, con base a las experiencias obtenidas durante los procesos electorales;
 
@@ -321,9 +331,11 @@ XL.- Dictar los acuerdos necesarios para hacer efectivas las anteriores atribuci
 
 En las elecciones ordinarias, el funcionamiento del Consejo General se ajustará a los plazos y términos establecidos en la Ley Electoral, en la Ley de Medios y en el presente ordenamiento. Tratándose de elecciones extraordinarias, se ajustará a los plazos que establezca la convocatoria respectiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+
 ###### Artículo 16.
 
-Para la preparación de los procesos electorales ordinarios, el Consejo General hará la declaratoria de inicio el día 1° de octubre del año anterior al de la elección, a fin de realizar los actos correspondientes.
+Para la preparación de los procesos electorales ordinarios, el Consejo General hará la declaratoria de inicio el día primero de marzo del año de la elección, a fin de realizar los actos correspondientes.
 
 Durante el proceso electoral, el Consejo General deberá sesionar en forma ordinaria por lo menos dos veces al mes y en forma extraordinaria a convocatoria del Consejero Presidente cuando lo estime necesario o a petición de la mayoría de los Consejeros Electorales o de los representantes de los partidos políticos.
 
@@ -363,11 +375,11 @@ Las resoluciones o acuerdos del Consejo General serán aprobados por mayoría de
 
 El Consejo General ordenará la publicación en el Periódico Oficial del Gobierno del Estado de los acuerdos y resoluciones que expresamente se ordenen en la presente Ley, así de como aquellos que se consideren pertinentes.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
 ###### Artículo 21.
 
-El Consejero Presidente y los Consejeros Electorales del Instituto, durarán en su encargo seis años y, podrán ser ratificados de manera individual, hasta por un periodo más de tres años, con la misma votación requerida para su nombramiento.
+Los Consejeros Electorales del Instituto, durarán en su encargo seis años.
 
 ###### Artículo 22.
 
@@ -393,9 +405,11 @@ Para suplir a los Consejeros Electorales en sus ausencias temporales, el Conseje
 
 Cuando los Consejeros Electorales no asistan a tres sesiones consecutivas, ordinarias y/o extraordinarias, sin causa justificada o sin previa licencia, se entenderá que renuncian al cargo. Para tal efecto, el Consejero Presidente convocará a los suplentes en orden de prelación conforme a su designación para que se integren de manera definitiva, comunicando tal circunstancia a la Legislatura del Estado o a la Diputación Permanente, en su caso, para que acuerde lo procedente.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
 ###### Artículo 27.
 
-La Legislatura del Estado o en su caso, la Diputación Permanente, con el voto de las dos terceras partes de sus integrantes, podrán revocar el cargo al Consejero Presidente o a los Consejeros Electorales del Consejo General, cuando dejen de reunir alguno de los requisitos de elegibilidad, violenten los principios rectores de la función electoral o incurran en responsabilidad, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+La Legislatura del Estado o en su caso, la Diputación Permanente, con el voto de las dos terceras partes de sus integrantes, podrán revocar el cargo a los Consejeros Electorales del Consejo General, cuando dejen de reunir alguno de los requisitos de elegibilidad, violenten los principios rectores de la función electoral o incurran en responsabilidad, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
 ### Capítulo Segundo. Del Consejero Presidente
 
@@ -421,7 +435,9 @@ V. Rendir un informe anual al Consejo General sobre las actividades del Institut
 
 VI. Con el auxilio del Secretario General, recibir de los partidos políticos y coaliciones las solicitudes de registro de candidatos a Gobernador del Estado, así como la lista de candidatos a Diputados por el principio de Representación Proporcional; y, de manera supletoria, las de candidatos a Diputados por el Principio de Mayoría Relativa y Miembros de los Ayuntamientos, sometiéndolas a la consideración del Consejo General para que determine sobre su procedencia;
 
-VII. Vigilar la instalación y funcionamiento de los Consejos Distritales;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+VII. Vigilar la instalación y funcionamiento de los Consejos Municipales y los Distritales;
 
 VIII. Remitir, oportunamente, al titular del Poder Ejecutivo, el Proyecto de Presupuesto de Egresos del Instituto que prepare la Junta General, una vez que haya sido aprobado por el Consejo General, a fin de que sea incluido en el Proyecto de Presupuesto del Estado.
 
@@ -457,9 +473,11 @@ En las ausencias del Consejero Presidente del Consejo General, deberá estarse a
 
 I. En las ausencias que no excedan de quince días, será suplido por el Secretario General del Instituto;
 
-II. En caso de ausencia definitiva, el Consejo General solicitará a la Legislatura del Estado el nombramiento del Consejero Presidente Sustituto; en caso de que ésta se encuentre en receso, el nombramiento lo hará la Diputación Permanente; y
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
 
-III. La Legislatura del Estado o la Diputación Permanente, en su caso, hará el nombramiento a que se refiere la fracción anterior en un término no mayor de quince días.
+II. En caso de ausencia definitiva, el Consejo General nombrará de entre ellos, a un nuevo Consejero Presidente, y convocará al Consejero Suplente que en orden de prelación corresponda para cubrir la consejería vacante; y
+
+III. (DEROGADA, P.O. 3 DE MARZO DE 2009)
 
 ### Capítulo Tercero. De la Junta General
 
@@ -515,11 +533,11 @@ La Junta General se reunirá por lo menos una vez al mes en sesiones ordinarias 
 
 Del Secretario General.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
 ###### Artículo 35.
 
-El Secretario General es el Secretario de Acuerdos del Consejo General. El Secretario General, cuando así lo determine el Consejero Presidente orientará a los Consejos Distritales y las Juntas Distritales Ejecutivas con el Órgano Superior de Dirección para el cumplimiento de sus acuerdos.
+El Secretario General es el Secretario de Acuerdos del Consejo General. El Secretario General, cuando así lo determine el Consejero Presidente, orientará a los Consejos Municipales, los Distritales, las Juntas Municipales Ejecutivas y las Juntas Distritales Ejecutivas con el Órgano Superior de Dirección para el cumplimiento de sus acuerdos.
 
 ###### Artículo 36.
 
@@ -551,13 +569,17 @@ I. Actuar como Secretario General del Consejo General, con voz pero sin voto, au
 
 II. Preparar el orden del día de las sesiones del Consejo General previo acuerdo del Consejero Presidente, declarar la existencia del quórum, dar fe de lo actuado, levantar el acta correspondiente y someterla a la aprobación en la sesión subsecuente;
 
-III. En el ámbito de su competencia, informar al Consejero Presidente, sobre el cumplimiento, en los Consejos Distritales, de los acuerdos y resoluciones del Consejo General;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+III. En el ámbito de su competencia, informar al Consejero Presidente, sobre el cumplimiento, en los Consejos Municipales y los Distritales, de los acuerdos y resoluciones del Consejo General;
 
 IV. Sustanciar, con el auxilio de la Dirección Jurídica, el procedimiento de otorgamiento o pérdida de registro de las Agrupaciones Políticas, Partidos políticos locales o de las coaliciones, así como sobre la acreditación de los Partidos Políticos Nacionales, hasta dejarlos en estado de resolución;
 
 V. Presentar a la consideración del Consejo General, previa revisión de la Junta General, el proyecto de resolución respecto al otorgamiento y pérdida de registro de las agrupaciones políticas estatales, de los partidos políticos locales o coaliciones, así como de la acreditación de los Partidos Políticos Nacionales una vez concluido el procedimiento respectivo;
 
-VI. Recibir copias de los expedientes de todas las elecciones y dar cuenta al Consejo General de los informes que sobre ellos reciba de los Consejos Distritales del Instituto, para los efectos procedentes;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+VI. Recibir copia de los expedientes de todas las elecciones y dar cuenta al Consejo General de los informes que sobre ellos reciba de los Consejos Municipales y los Distritales del Instituto, para los efectos procedentes;
 
 VII. Integrar los expedientes con las actas de cómputo para la asignación de Diputados y Regidores por el principio de Representación Proporcional y presentarlas oportunamente al Consejo General;
 
@@ -605,9 +627,9 @@ Son atribuciones ejecutivas del Secretario General del Instituto, las siguientes
 
 I. Cumplir los acuerdos del Consejo General y de la Junta General;
 
-(REFORMADA, P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 27 DE JULIO DE 2007)
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
 
-II. Auxiliará al Consejero Presidente en la coordinación del desarrollo y avance de las actividades a cargo de las direcciones, unidades y del Centro de Información Electoral, así como el cumplimiento de los acuerdos del Consejo General y de la Junta General en las Vocalías Ejecutivas Distritales, por conducto de sus respectivos Vocales Ejecutivos;
+II. Auxiliará al Consejero Presidente en la coordinación del desarrollo y avance de las actividades a cargo de las direcciones, unidades y del Centro de Información Electoral, así como el cumplimiento de los acuerdos del Consejo General y de la Junta General en las Vocalías Ejecutivas Municipales y las Distritales, por conducto de sus respectivos Vocales Ejecutivos;
 
 III. (DEROGADA, P.O. 29 DE JUNIO DE 2007)
 
@@ -661,11 +683,15 @@ Podrán ser removidos de su cargo, en los términos y condiciones previstas en e
 
 La Dirección de Organización tendrá las siguientes atribuciones:
 
-I. Apoyar y vigilar la integración, instalación y funcionamiento de los Consejos Distritales y las Juntas Ejecutivas Distritales del Instituto;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+I. Apoyar y vigilar la integración, instalación y funcionamiento de los Consejos Municipales, los Distritales, las Juntas Municipales Ejecutivas y las Juntas Distritales Ejecutivas del Instituto;
 
 II. Elaborar los formatos de la documentación electoral, de acuerdo a lo establecido en la presente Ley, para someterlos, por conducto de la Junta General, a la aprobación del Consejo General;
 
-III. Recabar de los Consejos Distritales del Instituto, copias de las actas de sus sesiones y demás documentos relacionados con el proceso electoral;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+III. Recabar de los Consejos Municipales y los Distritales del Instituto, copia de las actas de sus sesiones y demás documentos relacionados con el proceso electoral;
 
 IV. Recabar la documentación necesaria e integrar los expedientes, a fin de que el Consejo General efectúe los cómputos que conforme a la Ley Electoral debe realizar;
 
@@ -761,15 +787,15 @@ V. Coordinar las acciones para sustanciar el procedimiento de otorgamiento o pé
 
 VI. Llevar a cabo los trámites necesarios para que los partidos políticos nacionales o locales, así como las coaliciones, puedan disponer o hacer efectivas las prerrogativas a las que tienen derecho;
 
-VII. Llevar el libro de registro de los integrantes de los órganos directivos de las agrupaciones políticas estatales, partidos políticos y de sus representantes acreditados ante los Consejos General o Distritales del Instituto, en su caso;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+VII. Llevar el libro de registro de los integrantes de los órganos directivos de las agrupaciones políticas estatales, partidos políticos y de sus representantes acreditados ante los Consejos General, Municipales o Distritales, en su caso;
 
 VIII. Llevar los libros de registro de los candidatos a los cargos de elección popular;
 
 IX. Vigilar que los contenidos de la propaganda y de la difusión de los partidos políticos y coaliciones en medios de comunicación, se encuentren apegados a los requisitos exigidos por la Ley Electoral;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-X. Organizar los programas de radio y televisión a que tienen derecho los partidos políticos en los medios de comunicación propiedad del Estado;
+X. (DEROGADA, P.O. 3 DE MARZO DE 2009)
 
 XI. Elaborar propuestas para la organización de debates entre candidatos;
 
@@ -987,35 +1013,65 @@ Los Consejos Distritales Electorales que residan en los Distritos Electorales cu
 
 En aquellos Municipios que comprendan dos o más Distritos Electorales, la preparación, desarrollo y vigilancia de elecciones de Ayuntamientos recaerá en aquel Consejo Distrital que resida en el Distrito Electoral de número más bajo.
 
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2009)</small>
+
+Los Consejos Distritales del Instituto, se integrarán por un Consejero Presidente y cuatro Consejeros electorales, con voz y voto; concurrirán, además, con voz pero sin voto: un representante por cada uno de los Partidos Políticos con registro o acreditación, según el caso, ante el Consejo General y los Vocales, Secretario de Organización, y de capacitación de la Junta Distrital Ejecutiva.
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2009)</small>
+
+Para el Consejero Presidente y los Consejeros Electorales se elegirán tres Consejeros Suplentes comunes en orden de prelación. En caso de que los primeros faltasen en tres ocasiones sin causa justificada a las sesiones, los suplentes entrarán en funciones.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
 ###### Artículo 61.
 
-Los Consejos Distritales del Instituto, se integrarán por un Consejero Presidente y cuatro Consejeros Electorales, con voz y voto; concurrirán, además, con voz pero sin voto: un Representante por cada uno de los Partidos políticos con registro o acreditación, según el caso, ante el Consejo General y los Vocales, Secretario de Organización, y de Capacitación de la Junta Distrital Ejecutiva.
+Los Consejos Municipales son órganos desconcentrados del Instituto, encargados de la preparación, desarrollo y vigilancia de los procesos electorales en los Municipios del Estado, en los supuestos que previene el actual artículo. Residirán en la cabecera municipal.
 
-Para el Consejero Presidente y los Consejeros Electorales se elegirán tres Consejeros Suplentes comunes en orden de prelación. En caso de que los primeros faltasen en tres ocasiones sin causa justificada a las sesiones, los Suplentes entrarán en funciones.
+Cuando en el territorio de un distrito electoral uninominal existan dos o más Municipios, se instalaran los Consejos Municipales para conocer del proceso electoral para renovar los Ayuntamientos de aquellos en donde no sean cabecera distrital.
+
+Los Consejos Municipales solo funcionarán durante los procesos electorales y serán apoyados técnica y administrativamente por una Junta Municipal Ejecutiva.
+
+Los Consejos Municipales se integrarán por un Consejero Presidente y cuatro Consejeros electorales, con voz y voto; concurrirán, además, con voz pero sin voto: un representante por cada uno de los Partidos Políticos con registro o acreditación, según el caso, ante el Consejo General y los Vocales, Secretario de Organización, y de capacitación de la Junta Municipal Ejecutiva.
+
+Para el Consejero Presidente y los Consejeros Electorales se elegirán tres Consejeros Suplentes comunes en orden de prelación. En caso de que los primeros faltasen en tres ocasiones sin causa justificada a las sesiones, los suplentes entrarán en funciones.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
 ###### Artículo 62.
 
-Los Consejeros Presidentes y Electorales de los Consejos Distritales, así como los Vocales de las Juntas Distritales Ejecutivas, deberán satisfacer los mismos requisitos señalados para los Consejeros Electorales del Consejo General, con excepción del nivel académico, que será el de bachillerato. La residencia efectiva será por cinco años en el Distrito Electoral de que se trate.
+Los Consejeros Presidentes y Electorales de los Consejos Municipales y los Distritales, así como los Vocales de las Juntas Municipales y las Distritales Ejecutivas, deberán satisfacer los mismos requisitos señalados para los Consejeros Electorales del Consejo General, con excepción del nivel académico, que será el de bachillerato. La residencia efectiva será por cinco años en el Municipio o en el Distrito Electoral de que se trate, según corresponda.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
 
 ###### Artículo 63.
 
-El procedimiento de selección y designación de los Consejeros Presidentes y de los Consejeros Electorales de los Consejos Distritales, así como los Vocales de las Juntas Distritales Ejecutivas, se ajustará a lo siguiente:
+El procedimiento de selección de los Consejeros Presidentes y de los Consejeros Electorales de los Consejos Municipales y los Distritales, así como los Vocales de las Juntas Municipales Ejecutivas y las Juntas Distritales Ejecutivas, se ajustará a lo siguiente:
 
 I. El Consejo General emitirá una convocatoria en la que se establecerán los requisitos que deberán cubrir los aspirantes, así como el procedimiento de su capacitación, de acuerdo al programa previamente aprobado;
 
 II. Recepcionadas las solicitudes, se revisará quienes cumplen con los requisitos de Ley, y quienes los cumplan, tomaran un curso de capacitación organizado para tal efecto, y al término del mismo presentarán una evaluación;
 
-III. Concluida la etapa de capacitación, la Junta General elaborará una lista con los nombres de todos los aspirantes por Distrito que hayan asistido al curso de capacitación y las remitirá al Pleno del Consejo General del Instituto, juntamente con las evaluaciones obtenidas;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
 
-IV. El Consejo General designará, de entre las personas mencionadas en la lista a que refiere la fracción anterior, con base en el perfil curricular y la evaluación obtenida en el curso que se menciona en la fracción II del presente artículo, a los ciudadanos que ocuparán los cargos de Consejeros Electorales Propietarios y Suplentes de los Consejos Distritales, a más tardar el día 31 de octubre del año anterior de la elección.
+III. Concluida la etapa de capacitación, la Junta General elaborará una lista con los nombres de todos los aspirantes, por Municipio y por Distrito según sea el caso, que hayan asistido al curso de capacitación y las remitirá al Pleno del Consejo General del Instituto, juntamente con las evaluaciones obtenidas;
+
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+IV. El Consejo General designará, de entre las personas mencionadas en la lista que refiere la fracción anterior, con base en el perfil curricular y la evaluación obtenida en el curso que se menciona en la fracción, (sic) de presente artículo, a los ciudadanos que ocuparán los cargos de Consejeros Presidentes y los Consejeros Electorales, propietarios y suplentes, de los Consejos Municipales y los Distritales, a más tardar el 31 de marzo del año de la elección.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
 
 ###### Artículo 64.
 
-Los Consejos Distritales del Instituto, se instalarán en la primera semana de noviembre del año anterior de la elección.
+Los Consejos Municipales y los Distritales del Instituto, se instalarán en la primera semana del mes de abril del año de la elección.
 
-A partir de su instalación y hasta la conclusión del proceso electoral, los Consejos Distritales del Instituto sesionarán por lo menos una vez al mes.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
-Para poder iniciar a sesionar validamente deberán estar presentes la mayoría de los Consejeros del Consejo Distrital, con derecho a voz y voto, entre los que deberá estar el Consejero Presidente y la mayoría de los representantes de los partidos políticos o los de coalición, en su caso.
+A partir de su instalación y hasta la conclusión del proceso electoral, los Consejos Municipales y los Distritales del Instituto sesionarán por lo menos una vez al mes.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
+Para poder iniciar a sesionar válidamente deberán estar presentes la mayoría de los Consejeros de los Consejos Municipales y los Distritales, con derecho a voz y voto, entre los que deberá estar el Consejero Presidente y la mayoría de los representantes de los partidos políticos o los de la coalición, en su caso.
 
 Cuando no se reúna el quórum establecido en el párrafo anterior, la sesión se realizará dentro de las veinticuatro horas siguientes con los Consejeros y representantes de los partidos políticos o de coalición que asistan, debiendo estar presente el Consejero Presidente.
 
@@ -1093,9 +1149,11 @@ XXVIII.- Recibir, revisar y verificar los contenidos de los paquetes electorales
 
 XXIX.- Las demás que le confiera el presente ordenamiento, la Ley Electoral, la Ley de Medios, el Consejo General y la Junta General.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+
 ###### Artículo 66.
 
-Los Consejos Distritales que tengan a su cargo la preparación, desarrollo y vigilancia de las elecciones de Ayuntamientos, tendrán adicionalmente las siguientes atribuciones:
+Los Consejos Distritales que tengan a su cargo la preparación, desarrollo y vigilancia de las elecciones de Ayuntamientos, tendrán además de las que prevenga la Ley Electoral para cada uno de ellos, las siguientes atribuciones:
 
 I. Registrar las planillas para elegir Ayuntamientos en los términos establecidos en la Ley Electoral;
 
@@ -1107,83 +1165,141 @@ IV. Expedir la constancia de mayoría y validez a la planilla de candidatos que 
 
 V. Las demás que le confiere el presente ordenamiento, la Ley Electoral, la Ley de Medios, el Consejo General y Junta General.
 
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2009)</small>
+
+A los Consejos Municipales les será (sic) aplicables, en lo conducente y en su esfera de competencia, las atribuciones conferidas a los Consejos Distritales.
+
 ### Capítulo Segundo. Del Consejero Presidente
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
 ###### Artículo 67.
 
-El Consejero Presidente de los Consejos Distritales del Instituto, será además en consecuencia, el Vocal Ejecutivo de la Junta Distrital Ejecutiva y tendrá las siguientes atribuciones:
+El Consejero Presidente de los Consejos Municipales y los Distritales, será además en consecuencia, el Vocal Ejecutivo de la Junta Municipal Ejecutiva y de la Junta Distrital Ejecutiva.
 
-I. Convocar y conducir las sesiones del Consejo Distrital;
+A). El Presidente de los Consejos Municipales tendrá las siguientes atribuciones:
 
-II. Recibir las solicitudes de registro de candidaturas a Diputados por el Principio de Mayoría Relativa, y en su caso, las solicitudes de registro de planillas de candidatos para Miembros del Ayuntamiento respectivo;
+I.- Convocar y conducir las sesiones del Consejo Municipal;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+II.- Recibir las solicitudes de registro de planillas de candidatos para Miembros del Ayuntamiento respectivo;
 
-III. Dar cuenta al Consejero Presidente del Instituto, del desarrollo de las elecciones y de los medios de impugnación interpuestos ante el Consejo que preside, dentro de los plazos establecidos en la Ley Electoral y de Medios;
+III.- Dar cuenta al Consejero Presidente del Consejo General del Instituto, del desarrollo de las elecciones y de los medios de impugnación interpuestos ante el Consejo que preside, dentro de los plazos establecidos en la Ley Electoral y de Medios;
 
-IV. Expedir la constancia de mayoría a la fórmula de candidatos a Diputados por el Principio de Mayoría Relativa, en los términos establecidos en la Ley Electoral;
+IV.- Expedir la constancia de mayoría a la planilla de candidatos de los Ayuntamientos, en los términos establecidos en la Ley Electoral;
 
-V. Expedir, en su caso, la constancia de mayoría a la planilla de candidatos de los Ayuntamientos, en los términos establecidos en la Ley Electoral;
+V.- Dar a conocer, mediante avisos colocados en el exterior del local del Consejo Municipal respectivo, los resultados de los cómputos municipales;
 
-VI. Entregar a los Presidentes de las Mesas Directivas de Casilla, en presencia de los integrantes del Consejo Distrital que así lo deseen, la documentación y útiles necesarios para el debido cumplimiento de sus funciones;
+VI.- Vigilar el cumplimiento de los acuerdos o resoluciones tomadas por el propio Consejo Municipal o el Consejo General;
 
-VII. Dar a conocer, mediante avisos colocados en el exterior del local del Consejo Distrital respectivo, los resultados de los cómputos distritales y municipales, en su caso;
+VII.- Proveer de toda la información y documentación necesaria y que le sea solicitada por los Consejeros, y los representantes de los partidos políticos o coaliciones, relacionados estrictamente con las etapas del proceso electoral, se exceptúa el aspecto administrativo y las demás que señale la Ley;
 
-VIII. Vigilar el cumplimiento de los acuerdos o resoluciones tomadas por el propio Consejo Distrital o el Consejo General;
+VIII.- Distribuir entre los Miembros del Consejo Municipal, copias de los documentos recibidos de los Órganos Centrales del Instituto; y
 
-IX. Proveer de toda la información y documentación necesaria y que le sea solicitada por los Consejeros, y los representantes de los partidos políticos o coaliciones, relacionado estrictamente con las etapas del proceso electoral, se exceptúa el aspecto administrativo y los demás que señale la ley.
+IX.- Las demás que le confiere el presente ordenamiento, la Ley Electoral, el Consejo General y la Junta General.
 
-X. Distribuir entre los Miembros del Consejo Distrital, copias de los documentos recibidos de los Organos Centrales del Instituto; y
+B). El Presidente de los Consejos Distritales tendrá las siguientes atribuciones:
 
-XI. Las demás que le confiere el presente ordenamiento, la Ley Electoral, el Consejo General y la Junta General.
+I.- Convocar y conducir las sesiones del Consejo Distrital;
+
+II.- Recibir las solicitudes de registro de candidaturas a Diputados por el Principio de Mayoría Relativa, y en su caso, las solicitudes de registro de planillas de candidatos para Miembros del Ayuntamiento respectivo;
+
+III.- Dar cuenta al Consejero Presidente del Consejo General del Instituto, del desarrollo de las elecciones y de los medios de impugnación interpuestos ante el Consejo que preside, dentro de los plazos establecidos en la Ley Electoral y de Medios;
+
+IV.- Expedir la constancia de mayoría a la fórmula de candidatos a Diputados por el Principio de Mayoría Relativa, en los términos establecidos en la Ley Electoral;
+
+V.- Expedir, en su caso, la constancia de mayoría a la planilla de candidatos de los Ayuntamientos, en los términos establecidos en la Ley Electoral;
+
+VI.- Entregar a los Presidentes de las Mesas Directivas de Casilla, en presencia de los integrantes del Consejo Distrital que así lo deseen, la documentación y útiles necesarios para el debido cumplimiento de sus funciones;
+
+VII.- Dar a conocer, mediante avisos colocados en el exterior del local del Consejo Distrital respectivo, los resultados de los cómputos distritales y municipales, en su caso;
+
+VIII.- Vigilar el cumplimiento de los acuerdos o resoluciones tomadas por el propio Consejo Distrital o el Consejo General;
+
+IX.- Proveer de toda la información y documentación necesaria y que le sea solicitada por los Consejeros, y los representantes de los partidos políticos o coaliciones, relacionados estrictamente con las etapas del proceso electoral, se exceptúa el aspecto administrativo y las demás que señale la Ley;
+
+X.- Distribuir entre los Miembros del Consejo Distrital, copias de los documentos recibidos de los Órganos Centrales del Instituto; y
+
+XI.- Las demás que le confiere el presente ordenamiento, la Ley Electoral, el Consejo General y la Junta General.
 
 ### Capítulo tercero. De las Juntas Distritales Ejecutivas
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+
 ###### Artículo 68.
 
-La Junta Distrital Ejecutiva se integra por el Consejero Presidente quien fungirá como Vocal Ejecutivo, el Vocal Secretario del Consejo Distrital y, los Vocales de Organización y de Capacitación; sesionará por lo menos una vez al mes durante los procesos electorales y le serán aplicables, en lo conducente, los mismos lineamientos que esta Ley dispone para la Junta General.
+Las Juntas Municipales y Distritales Ejecutivas, se integran por el Consejero Presidente quien fungirá como Vocal Ejecutivo, el Vocal Secretario del Consejo Distrital y, los Vocales Organización y de Capacitación; sesionarán por lo menos una vez al mes durante los procesos electorales y le serán aplicables, en lo conducente, los mismos lineamientos que esta Ley dispone para la Junta General.
 
 Las funciones del Vocal Ejecutivo, serán las siguientes:
 
-I. Presidir la Junta distrital ejecutiva;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+I. Presidir la Junta Municipal o Distrital Ejecutiva, según corresponda;
 
 II. Coordinar las vocalías y distribuir entre ellas los asuntos que les correspondan;
 
-III. Vigilar en su jurisdicción, que se ejecuten los programas de capacitación electoral;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
 
-IV. Verificar que se publique la integración y ubicación de las Mesas Directivas de Casilla, en los términos de la ley electoral, e informar de la publicación al Consejo Distrital;
+III. Vigilar en su jurisdicción, que se ejecuten los programas de capacitación electoral, en su caso;
+
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+IV. Verificar que se publique la integración y ubicación de las Mesas Directivas de Casilla, en los términos de la ley electoral, e informar de la publicación al Consejo Distrital, en su caso;
 
 V. Gestionar y, en su caso, proveer a las Vocalías, los elementos necesarios para el cumplimiento de las tareas encomendadas;
 
-VI. Informar al Consejo Distrital sobre el desarrollo de sus actividades, y someter a consideración del mismo los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
 
-VII. Las demás que le confiere el Consejo General, el Consejo Distrital y la Ley.
+VI. Informar al Consejo Municipal o Distrital, según corresponda, sobre el desarrollo de sus actividades, y someter a consideración del mismo los asuntos de su competencia; y
+
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+VII. Las demás que le confiere el Consejo General, el Consejo al que pertenezcan y la Ley.
 
 ### Capítulo Cuarto. De los Vocales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+
 ###### Artículo 69.
 
-El Vocal Secretario de las Juntas Distritales Ejecutivas del Instituto, tendrá las siguientes atribuciones:
+El Vocal Secretario de las Juntas Municipales y las Distritales Ejecutivas del Instituto, tendrá las siguientes atribuciones:
 
-I. Auxiliar al Consejo Distrital y a su Presidente en el ejercicio de sus atribuciones;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
 
-II. Preparar el orden del día de las sesiones del Consejo Distrital, declarar la existencia del quórum, dar fe de lo actuado, levantar el acta correspondiente y someterla a la aprobación del propio Consejo;
+I. Auxiliar al Consejo Municipal o Distrital, y a su Presidente, en el ejercicio de sus atribuciones;
 
-III. Informar sobre el cumplimiento de los acuerdos del Consejo Distrital;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
 
-IV. Recibir, tramitar y turnar, los medios de impugnación que se interpongan en contra de los actos o resoluciones del Consejo Distrital, en los términos que señala la Ley de Medios;
+II. Preparar el orden del día de las sesiones del Consejo Municipal o Distrital, declarar la existencia del quórum, dar fe de lo actuado, levantar el acta correspondiente y someterla a la aprobación del propio Consejo;
 
-V. Informar al Consejo Distrital de las resoluciones dictadas por el Tribunal;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+III. Informar sobre el cumplimiento de los acuerdos del Consejo Municipal o Distrital;
+
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+IV. Recibir, tramitar y turnar, los medios de impugnación que se interpongan en contra de los actos o resoluciones del Consejo Municipal o Distrital, en los términos que señala la Ley de Medios;
+
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+V. Informar al Consejo Municipal o Distrital de las resoluciones dictadas por el Tribunal;
 
 VI. Expedir los documentos que acrediten la personalidad de los Consejeros y de los representantes de los partidos políticos y coaliciones;
 
-VII. Certificar toda la documentación que obre en los archivos del Consejo Distrital y la Junta Distrital;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
 
-VIII. Llevar el archivo del Consejo Distrital y remitirlo a la Junta General, al concluir el proceso electoral;
+VII. Certificar toda la documentación que obre en los archivos del Consejo Municipal o Distrital y la Junta Municipal o Distrital, según corresponda;
 
-IX. Firmar, junto con el Consejero Presidente, los acuerdos y resoluciones que emita el Consejo Distrital; y
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
 
-X. Las demás que le sean conferidas por el presente ordenamiento, la Ley Electoral, la Ley de Medios, el Consejo General, la Junta General y el Presidente del Consejo Distrital.
+VIII. Llevar el archivo del Consejo Municipal o Distrital y remitirlo a la Junta General, al concluir el proceso electoral;
+
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+IX. Firmar, junto con el Consejero Presidente, los acuerdos y resoluciones que emita el Consejo Municipal o Distrital; y
+
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+X. Las demás que le sean conferidas por el presente ordenamiento, la Ley Electoral, la Ley de Medios, el Consejo General, la Junta General y el Presidente del Consejo Municipal o Distrital según corresponda.
 
 ###### Artículo 70.
 
@@ -1200,6 +1316,10 @@ III. Distribuir el material didáctico y los instructivos electorales aprobados 
 IV. Informar durante la etapa de preparación del proceso electoral al Consejo Distrital sobre los avances y resultados de la capacitación a los ciudadanos insaculados;
 
 V. Las demás que se le confiera.
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2009)</small>
+
+Los vocales de Organización y de Capacitación de las Juntas Municipales Ejecutivas tendrán las atribuciones que les confiera la Ley Electoral y los Consejos Municipales, siempre y cuando no invadan las conferidas a los de las Juntas Distritales Ejecutivas.
 
 b).- El Vocal de Organización:
 
@@ -1245,21 +1365,25 @@ Los Consejos Distritales del Instituto, tomarán las medidas necesarias a fin de
 
 El procedimiento para la integración de las Mesas Directivas de Casilla, será el siguiente:
 
-I. Del 1º al 10 de noviembre del año anterior a la elección, el Consejo General procederá a elegir por sorteo el mes que servirá de base para la insaculación de los integrantes de las Mesas Directivas de Casilla.
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+I. Del 1º al 10 de abril del año de la elección, el Consejo General procederá a elegir por sorteo el mes que servirá de base para la insaculación de los integrantes de las Mesas Directivas de Casilla;
 
-II. Del 11 al 15 de noviembre del año anterior de la elección, el Instituto en coordinación con el Registro Federal de Electores, y en presencia de los representantes de los partidos políticos o coaliciones que así lo deseen, procederán a extraer de las listas nominales de electores formuladas con corte al 31 de Agosto del año anterior de la elección, a cuando menos un 10% de ciudadanos por cada sección electoral, sin que en ningún caso, el número de ciudadanos de insaculados sean menor a 50. En caso necesario, se seleccionará los nacidos en los meses siguientes hasta alcanzar el mínimo;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+II. Del 11 al 15 de abril del año de la elección, el Instituto en coordinación con el Registro Federal de Electores, y en presencia de los representantes de los partidos políticos o coaliciones que así lo deseen, procederán a extraer de las listas nominales de electores formuladas con corte al 31 de enero del año de la elección, a cuando menos un 10% de ciudadanos por cada sección electoral, sin que en ningún caso, el número de ciudadanos de insaculados sea menor a 50. En caso necesario, se seleccionará los nacidos en los meses siguientes hasta alcanzar el mínimo;
 
 III. El Consejo General verificará que los ciudadanos que resultaron sorteados cumplan con los requisitos que exige el presente ordenamiento, no pudiendo ser ciudadanos nacidos en el mismo mes con respecto a la insaculación del proceso local electoral inmediato anterior; y
 
-IV. Los Consejos Distritales notificarán del 16 al 30 de noviembre del año anterior de la elección a los ciudadanos insaculados, y además, les impartirán un curso de capacitación a los que cumplan con los requisitos. Dicho curso contendrá los temas y la información que el Consejo General apruebe mediante el programa de capacitación y los materiales didácticos a utilizar.
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
 
-(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 27 DE JULIO DE 2007)
+IV. Los Consejos Distritales notificarán del 16 al 30 de abril del año de la elección a los ciudadanos insaculados, y además, les impartirán un curso de capacitación a los que cumplan con los requisitos. Dicho curso contendrá los temas y la información que el Consejo General apruebe mediante el programa de capacitación y los materiales didácticos a utilizar.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
 
 ###### Artículo 75.
 
-Durante el mes de noviembre del ano anterior al de la elección, los Consejos Distritales procederán a una segunda insaculación, la cual se realizará de la siguiente forma:
+Durante el mes de abril del año de la elección, los Consejos Distritales procederán a una segunda insaculación, la cual se realizará de la siguiente forma:
 
 I. Se presentará a los integrantes del Consejo, un listado de los ciudadanos capacitados y que cumplan con los requisitos establecidos por este ordenamiento, siendo ordenado el listado de manera alfabética y por sección electoral;
 
@@ -1291,7 +1415,9 @@ IV. Permanecer en la casilla desde su instalación hasta su clausura;
 
 V. Llenar las actas correspondientes, de conformidad con la Ley Electoral;
 
-VI. Integrar en los paquetes electorales, la documentación correspondiente a cada elección para entregarla en los plazos señalados por la Ley Electoral, al Consejo Distrital respectivo; y
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+VI. Integrar en los paquetes electorales, la documentación correspondiente a cada elección para entregarla en los plazos señalados por la Ley Electoral, al Consejo Municipal y Distrital, según corresponda; y
 
 VII. Las demás que les confiera esta Ley y la Ley Electoral.
 
@@ -1307,7 +1433,9 @@ III. Identificar a los electores que se presenten a sufragar, con su credencial 
 
 IV. Mantener el orden en el interior y en el exterior de la casilla, con auxilio de la fuerza pública si fuese necesario;
 
-V. Suspender la votación temporalmente en caso de alteración del orden, que se presenten condiciones que impidan la emisión libre y secreta del voto, o que atenten contra la seguridad personal de los electores, de los representantes de los partidos políticos o coaliciones, o de los miembros de la Mesa Directiva de Casilla debiendo notificar de esta circunstancia al Consejo Distrital Electoral que corresponda;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+V. Suspender la votación temporalmente en caso de alteración del orden, que se presenten condiciones que impidan la emisión libre y secreta del voto, o que atenten contra la seguridad personal de los electores, de los representantes de los partidos políticos o coaliciones, o de los miembros de la Mesa Directiva de Casilla, debiendo notificar de esta circunstancia al Consejo Municipal y Distrital que corresponda en su caso;
 
 VI. Retirar de la casilla a cualquier persona que incurra en alteración grave del orden o realice actos que lleven la intención manifiesta de retardar la votación o el escrutinio y cómputo, y asentar los hechos en las hojas de incidentes;
 
@@ -1315,7 +1443,9 @@ VII. Supervisar el escrutinio y cómputo, con auxilio del Secretario y ante los 
 
 VIII. Fijar en lugar visible al exterior de la casilla los resultados del cómputo de cada una de las elecciones;
 
-IX. Turnar oportunamente al Consejo Distrital, los paquetes electorales y las copias de la documentación respectiva en los términos de Ley Electoral;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+IX. Turnar oportunamente al Consejo Municipal y al Distrital, en su caso, los paquetes electorales y las copias de la documentación respectiva en los términos de la Ley Electoral;
 
 X. Identificar, mediante cotejo de nombramiento y credencial para votar, a los representantes de los partidos políticos, coaliciones y a los observadores electorales; y (sic)
 
@@ -1359,9 +1489,11 @@ IV. Las demás que les confiera el presente ordenamiento y la Ley Electoral.
 
 ### Capítulo Único. De los Representantes ante los Organos del Instituto
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+
 ###### Artículo 81.
 
-Cada partido político o coalición con registro contará con un representante propietario y su respectivo suplente ante el Consejo General y Distritales del Instituto, quienes concurrirán a sus sesiones con voz pero sin voto.
+Cada partido político o coalición con registro contará con un representante propietario y su respectivo suplente ante el Consejo General, los Consejos Municipales y los Consejos Distritales del Instituto, quienes concurrirán con voz pero sin voto.
 
 Los partidos políticos o coaliciones, que hubieren registrado a sus candidatos, fórmulas y planillas tendrán el derecho a nombrar representantes ante las Mesas Directivas de Casilla.
 
@@ -1379,107 +1511,127 @@ Los representantes de los partidos o coaliciones ante las Mesas Directivas de Ca
 
 Los representantes de los partidos políticos deberán registrarse y obtener su acreditación ante el Consejo General, dentro de los nueve días anteriores del inicio del proceso electoral y podrán ser sustituidos en cualquier tiempo por el partido político que los registró mediante escrito presentado ante la autoridad electoral correspondiente.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
 ###### Artículo 83.
 
-Los partidos políticos o coaliciones deberán registrar en la Dirección de Partidos Políticos y obtener de ésta, la acreditación de sus representantes ante los Consejos Distritales del Instituto, a más tardar el día 31 de octubre del año anterior de la elección.
+Los partidos políticos o coaliciones deberán registrar en la Dirección de Partidos Políticos y obtener de ésta, la acreditación de sus representantes ante los Consejos Municipales y los Distritales del Instituto, a más tardar el día 31 de marzo del año anterior de la elección.
 
-En este caso, los representantes de los partidos políticos y coaliciones, deberán presentar ante los Consejos Distritales del Instituto, la acreditación expedida por la Dirección de Partidos Políticos.
+En este caso, los representantes de los partidos políticos y coaliciones, deberán presentar ante los Consejos Municipales y los Distritales del Instituto, la acreditación expedida por la Dirección de Partidos Políticos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
 
 ###### Artículo 84.
 
-Los partidos políticos o coaliciones no tendrán representantes en los Consejos General y Distritales y no formarán parte de los mismos, en el proceso electoral de que se trate, cuando:
+Los partidos políticos o coaliciones no tendrán representantes en los Consejos General, Municipales y Distritales y no formarán parte de los mismos, en el proceso electoral de que se trate, cuando:
 
 I. El registro o acreditación de los representantes no se realice en los plazos y términos previstos en los Artículos anteriores; y
 
 II. El representante propietario, y en su caso, el suplente, no asistan sin causa justificada por tres veces consecutivas a las sesiones del Organo Electoral ante el cual se encuentran acreditados.
 
-En el caso de la fracción anterior a la primera falta, por conducto del Consejero Presidente del Consejo General o Distrital, según corresponda, se requerirá al representante para que concurra a la siguiente sesión y se dará aviso al representante legal del partido político o coalición, a fin de que se compela a asistir a su representante. En todo caso, tratándose de los Consejos Distritales, informarán por escrito al Consejo General del Instituto, con el propósito de que se entere al Pleno de dicha situación.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
-El Consejo General deberá emitir la resolución que corresponda y la comunicará al partido político o coalición. En los Consejos Distritales, cuando se acumulare la tercera inasistencia sin causa justificada, el Consejero Presidente solicitará al Consejo General que emita la resolución que amerite el caso.
+En el caso de la fracción anterior a la primera falta, por conducto del Consejero Presidente del Consejo General, Municipal o Distrital, según corresponda, se requerirá al representante para que concurra a la siguiente sesión y se dará aviso al representante legal del partido político o coalición, a fin de que se compela a asistir a su representante. En todo caso, tratándose de los Consejos Municipales y los Distritales, informarán por escrito al Consejo General del Instituto, con el propósito de que se entere al Pleno de dicha situación.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
+El Consejo General deberá emitir la resolución que corresponda y la comunicará al partido político o coalición. En los Consejos Municipales y los Distritales, cuando se acumulare la tercera inasistencia sin causa justificada, el Consejero Presidente solicitará al Consejo General que emita la resolución que amerite el caso.
 
 ## TÍTULO QUINTO. DE LA CONTRALORÍA INTERNA Y DE LAS RESPONSABILIDADES
 
 ### Capítulo Primero. De la Contraloría Interna
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
 ###### Artículo 85.
 
-La Unidad Técnica de Contraloría Interna del Instituto es la unidad administrativa encargada de la fiscalización, vigilancia y control del uso, manejo y destino de los recursos del Instituto; y del desempeño de los órganos y servidores electorales. Estará adscrita al Consejo General, bajo la coordinación del Consejero Presidente, y gozará de autonomía en el ejercicio de sus atribuciones.
+La Contraloría Interna del Instituto es la encargada de la fiscalización, vigilancia y control del uso, manejo y destino de los recursos del Instituto; y del desempeño de los órganos, funcionarios y servidores electorales. Estará adscrita administrativamente al Consejo General, sin que esto se traduzca en subordinación alguna, pues gozará de autonomía técnica y de gestión en el ejercicio de sus atribuciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
 ###### Artículo 86.
 
-El titular de la Unidad Técnica de Contraloría Interna del Instituto, deberá satisfacer los siguientes requisitos:
+El Titular de la Contraloría Interna del Instituto, deberá satisfacer los mismos requisitos que se exigen para ser Consejero Electoral del Consejo General; sus estudios deberán ser contabilidad, administración, economía y finanzas, o derecho.
 
-I. Ser mexicano por nacimiento, sin tener otra nacionalidad, y ser ciudadano quintanarroense con una residencia efectiva de diez años en la entidad y cinco años de vecindad en cualquiera de los Municipios del Estado, anteriores a la designación, por lo menos;
-
-II. Estar en pleno ejercicio de sus derechos políticos y civiles, no estar sujeto a proceso penal y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
-
-III. Tener más de veinticinco años de edad;
-
-IV. Poseer título y cédula profesional preferentemente, en áreas o disciplinas vinculadas con la función que habrá de desempeñar;
-
-V. Contar con experiencia en el área correspondiente, preferentemente;
-
-VI. Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter culposo; y
-
-VII. No haber estado sujeto a procedimiento de responsabilidad.
-
-Además, deberán cumplir con los requisitos señalados en las fracciones II, V, VI, VII, VIII, IX, X, XI, XII y XIII del Artículo 11 de la presente Ley.
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
 ###### Artículo 87.
 
-El titular de la Unidad Técnica de Contraloría Interna del Instituto, será nombrado y removido por las dos terceras partes del Consejo General, a propuesta del Consejero Presidente. Sus ausencias temporales serán cubiertas por el servidor electoral, designado por el Consejero Presidente de entre los que le sigan en jerarquía.
+El Contralor Interno del Instituto, será elegido por el voto de las dos terceras partes de los miembros de la Legislatura del Estado o la Diputación Permanente, en los recesos de ésta, de entre las propuestas que formulen los grupos parlamentarios, mediante el proceso establecido en el artículo 13 de la presente ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2007)</small>
+El Contralor Interno del Instituto durará en su encargo seis años.
+
+La retribución del Contralor Interno será la misma que se señale para los Consejeros Electorales del Instituto.
+
+Sus ausencias temporales serán cubiertas por el servidor electoral, designado por el Consejo General, de entre los que le sigan en jerarquía.
+
+El Contralor Interno no podrá tener otro empleo, cargo o comisión, con excepción de aquéllos en que actúe en representación del órgano al que pertenece y del que desempeñe en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, siempre y cuando no sea remunerado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
 
 ###### Artículo 88.
 
-La Unidad Técnica de Contraloría del Instituto, tendrá las siguientes atribuciones:
+La Contraloría Interna del Instituto, tendrá las siguientes atribuciones:
 
-I. Proponer al Consejo General o a la Junta General, en su caso, los contenidos del Programa Anual de Auditoría Interna del Instituto;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
 
-II. Ordenar la ejecución y supervisión del Programa Anual de Auditoría Interna, e informar al Consejo General o la Junta General, en su caso;
+I. Aprobar los contenidos del Programa Anual de Auditoría Interna del Instituto;
+
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+II. Ordenar la ejecución y supervisión del Programa Anual de Auditoría Interna del Instituto;
 
 III. Autorizar los programas específicos de auditoría interna que practique;
 
 IV. Vigilar la correcta ejecución de cada una de las auditorías internas, estableciendo la extensión y profundidad que las mismas requieran;
 
-V. Informar al Consejo General respecto de los resultados de las revisiones;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+V. Requerir al servidor o funcionario electoral que corresponda, por sí o a través de su superior jerárquico, el cumplimiento de las observaciones, que con motivo de los resultados de la auditoría, se hayan formulado;
 
 VI. Aplicar, y en su caso, promover ante las instancias correspondientes las acciones administrativas y legales que deriven de los resultados de las auditorías;
 
 VII. Revisar en la ejecución de las auditorías internas, que el ejercicio del gasto se haya realizado de conformidad con las disposiciones legales, normas y lineamientos que regulan su ejercicio; que las operaciones financieras se registren contable y presupuestalmente en forma oportuna; la calidad de los controles administrativos para proteger el patrimonio institucional y evaluar desde el punto de vista programático las metas y objetivos de los programas a cargo del Instituto y, en su caso, determinar las desviaciones de los mismos y las causas que les dieron origen;
 
-VIII. Recibir, investigar y elaborar el proyecto de resolución, que en su caso apruebe el Consejo General, respecto de las quejas y denuncias que se presenten en contra de los integrantes de la Junta General y de los Consejeros y Vocales de las Juntas Distritales Ejecutivas; de los titulares de las unidades técnicas, de los directores, los subdirectores, los jefes de departamento y el personal de apoyo, así como otros servidores electorales del Instituto, en los términos de la normatividad que para tal efecto establezca el Consejo General;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
 
-IX. Establecer mecanismos para difundir la obligación de presentar ante la propia Contraloría, la declaración de situación patrimonial por parte de los integrantes del Consejo General, la Junta General, titulares de las unidades técnicas, directores y jefes de departamento;
+VIII. Recibir, investigar y emitir la resolución que conforme a la Ley proceda, respecto de las quejas y denuncias que se presenten en contra del Consejero Presidente, Consejeros Electorales y el Secretario General del Consejo General, integrantes de la Junta General, de los Consejeros Presidente y Electorales de los Consejos Municipales y Distritales, así como de los Vocales de las Juntas Municipales y Distritales Ejecutivas, de los titulares de las Unidades Técnicas, los Directores, Subdirectores, los Jefes de Departamentos y de todo funcionario o servidor del Instituto, en los términos de la normatividad que el propio titular de la Contraloría Interna expida y mande a publicar en el Periódico Oficial del Estado;
+
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+IX. Establecer mecanismos para difundir la obligación de presentar ante la propia Contraloría Interna, la declaración de situación patrimonial por parte de los servidores y funcionarios del Instituto que estén obligados, de acuerdo con la normatividad que el propio titular de la Contraloría Interna expida y mande a publicar en el Periódico Oficial del Estado;
 
 X. Participar en los actos de entrega-recepción de los servidores electorales del Instituto de mandos medios y superiores, con motivo de su separación del cargo, en los términos de la normatividad aplicable;
 
-XI. Rendir un informe trimestral y anual de sus actividades al Consejo General;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+XI. Remitir un informe a la sociedad, de periodicidad mensual, y uno global del ejercicio en el mes de enero, mismos que se difundirán en la página electrónica del Instituto;
 
 XII. Emitir observaciones y recomendaciones a los titulares de las áreas auditadas;
 
-> <small>(F. DE E., P.O. 27 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
 
-XIII.- Emitir opinión sobre las normas de contabilidad y de control en materia de programación; presupuestación; administración de recursos humanos, materiales, financieros y servicios, que elabore la Dirección de Administración, al Consejo General;
+XIII. Remitir recomendaciones sobre las normas de contabilidad y de control en materia de programación, presupuestación, administración de recursos humanos, materiales, financieros y servicios, que elabore la Dirección de Administración. Las recomendaciones serán vinculatorias;
 
 XIV. Verificar el cumplimiento de la normatividad relativa a la adquisición de bienes y servicios;
 
-XV. Acordar con el Consejero Presidente los asuntos de su competencia; y
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
 
-XVI. Las demás que le confiera el presente ordenamiento, el Consejo General y la Ley.
+XV. Determinar y aplicar las sanciones previstas en el artículo 91 de la presente Ley, así como expedir toda la normatividad inherentes a la función otorgada, debiéndose mandar a publicar en el Periódico Oficial del Estado; y
+
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+XVI. Las demás que le confiera la Ley.
 
 ### Capítulo Segundo. De las Responsabilidades
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
 ###### Artículo 89.
 
-Los integrantes del Consejo General, de la Junta General los Consejeros de los Consejos Distritales; los titulares de las unidades técnicas; el titular de la Contraloría; los jefes de departamento; los Vocales de las Juntas Distritales; el personal de apoyo y en general los servidores electorales y administrativos del Instituto, podrán ser sancionados en la forma, términos y por las causas de responsabilidad administrativa previstas en el presente Capítulo y en el Reglamento Interno que apruebe el Consejo General.
+El Consejero Presidente, los Consejeros Electorales y el Secretario General del Consejo General, los integrantes de la Junta General, los Consejeros Presidente y Electorales de los Consejos Municipales y Distritales, así como los Vocales de las Juntas Municipales y Distritales Ejecutivas, los titulares de las Unidades Técnicas, los Directores, Subdirectores, los Jefes de Departamento y todo funcionario o servidor del Instituto, podrán ser sancionados en la forma, términos y por las causas de responsabilidad administrativa revistas en el presente capítulo y en las que se prevengan en el reglamento que al efecto expida la Contraloría Interna.
+
+El Titular de la Contraloría Interna del Instituto sólo será sancionado por la Legislatura o la Diputación Permanente, en su caso. Podrá ser removido de su cargo con la misma votación que se necesitó para su nombramiento, cuando dejen de reunir alguno de los requisitos de elegibilidad, violente los principios rectores de su función o incurra en responsabilidad, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
 ###### Artículo 90.
 
@@ -1519,35 +1671,37 @@ IV. Destitución del cargo; e
 
 V. Inhabilitación para ocupar un cargo en los Organos del Instituto.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
 ###### Artículo 92.
 
-Para los casos de las fracciones IV y V del artículo anterior, la sanción será aplicada por el Consejo General, conforme al proyecto de resolución que le presente la Unidad Técnica de Contraloría Interna del Instituto. En todo caso, serán determinadas tomando en consideración la gravedad de la falta, la incidencia o reincidencia de la misma y el comportamiento del servidor durante el desempeño de sus funciones.
+Las sanciones previstas en las fracciones IV y V del artículo anterior, no le serán aplicables al Consejero Presidente y los Consejeros Electorales. Sin embargo, cuando se les aplique cualquier otra sanción, el titular de la Contraloría Interna del Instituto remitirá un duplicado del expediente a la Legislatura o a la Diputación Permanente, en su caso, para los fines a que haya lugar.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+Las sanciones serán determinadas y aplicadas tomando en consideración la gravedad de la falta, la incidencia o reincidencia de la misma y el comportamiento del servidor o funcionario del Instituto durante el desempeño de sus funciones.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
 ###### Artículo 93.
 
-La Unidad Técnica de Contraloría Interna del Instituto, iniciará el procedimiento disciplinario para identificar, investigar y determinar las responsabilidades administrativas en que pudieron haber incurrido los servidores del Instituto, con motivo de las denuncias o quejas que se presenten o de la revisión de los asuntos de su competencia.
+La Contraloría Interna del Instituto, de oficio, por denuncia o queja recibida, iniciará el procedimiento disciplinario para identificar, investigar y determinar las responsabilidades administrativas en que pudieran haber incurrido los servidores y funcionarios del Instituto.
 
 ###### Artículo 94.
 
 Las denuncias o quejas que se formulen, deberán presentarse por escrito con los elementos probatorios para establecer la presunción de responsabilidad del servidor de que se trate.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
 ###### Artículo 95.
 
-Para la determinación de las responsabilidades a que se refiere el presente capitulo, la Unidad Técnica de Contraloría Interna del Instituto, deberá otorgarle al servidor respectivo, la garantía de audiencia, corriéndole traslado del escrito de denuncia o queja para que en el término de tres días hábiles manifieste lo que a su derecho corresponda, y ofrezca pruebas de descargo.
+Para la determinación de las responsabilidades a que se refiere el presente capítulo, la Contraloría Interna del Instituto, deberá otorgarle al servidor o funcionario respectivo, la garantía de audiencia, corriéndole traslado del escrito de denuncia o queja, o bien del acta que contenga las razones por las que de oficio se haya iniciado el procedimiento, para que en el término de tres días hábiles manifieste lo que a su derecho corresponda, y ofrezca pruebas de descargo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
 
 ###### Artículo 96.
 
-Al concluir el procedimiento a que se refiere el artículo anterior, la Unidad Técnica de Contraloría Interna del Instituto, de ser el caso, dentro del plazo de tres días, mediante resolución que emita, aplicará las sanciones previstas en las fracciones.
+Al concluir el procedimiento a que se refiere el artículo anterior, la Contraloría Interna del Instituto, emitirá su resolución a fin de determinar si el servidor o funcionario incurrió o no en falta administrativa, y en su caso, determinar y aplicar las sanciones previstas en el presente capítulo. Contra la determinación de las sanciones no existirá ningún medio de impugnación interno.
 
-Para el caso de las sanciones contempladas en las fracciones IV y V del artículo antes citado, la Contraloría Interna del Instituto elaborará el proyecto de resolución que corresponda, dentro del plazo de cinco días hábiles y lo remitirá al Consejo General, para que lo resuelva en definitiva en sesión extraordinaria que deberá celebrarse dentro de los diez días siguientes a aquél que reciba el proyecto de resolución. Se notificará al servidor en forma personal y al denunciante o quejoso personalmente o por estrados, según corresponda.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
 
 ## TÍTULO SEXTO. DE LAS RELACIONES Y CONTROVERSIAS LABORALES
 
@@ -1622,3 +1776,21 @@ P.O. 29 DE JUNIO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE MARZO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+La adecuación de la normatividad que resulte necesaria efectuar conforme a las disposiciones del presente Decreto, deberá realizarse a partir de la entrada en vigor del mismo.
+
+###### ARTICULO TERCERO.
+
+La primera elección del Consejero Presidente, en términos del artículo 10 primer párrafo, se efectuará en la primera sesión que celebre el Consejo General en el mes de febrero del año 2012.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
