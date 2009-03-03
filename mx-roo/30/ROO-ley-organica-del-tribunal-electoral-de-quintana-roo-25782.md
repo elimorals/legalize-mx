@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-tribunal-electoral-de-quintana-roo-25782"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-08-27"
-last_updated: "2003-12-16"
+last_updated: "2009-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DEL TRIBUNAL ELECTORAL DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 27 de agosto de 2002.
 
@@ -97,15 +97,23 @@ El patrimonio del Tribunal se integra con los bienes muebles e inmuebles que se 
 
 Para el ejercicio de sus atribuciones, el Tribunal se integrará permanentemente con tres Magistrados Numerarios, entre ellos el Presidente; un Secretario General de Acuerdos; los Jefes de las Unidades de Legislación y Jurisprudencia, Comunicación y Difusión, Informática y Documentación, y de Administración. Asimismo, contará con una Contraloría Interna, y el personal administrativo que se considere necesario.
 
-En los procesos electorales, el Tribunal se integrará además, con dos Magistrados Supernumerarios quienes harán las veces de jueces instructores, un Secretario Auxiliar de Acuerdos; y con los proyectistas, notificadores, integrantes de oficialía de partes y el personal administrativo que se considere necesario para el desahogo de los asuntos jurisdiccionales.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
+En los procesos electorales, el Tribunal se integrará además, con un Secretorio Auxiliar de Acuerdos; y con los proyectistas, notificadores, integrantes de oficialía de partes y el personal administrativo que se considere necesario para el desahogo de los asuntos jurisdiccionales.
 
 ###### Artículo 9.
 
 El Presidente del Tribunal tomará las medidas que sean necesarias para cubrir las ausencias temporales o definitivas de sus servidores públicos y podrá designar provisionalmente a los sustitutos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
 ###### Artículo 10.
 
-El Tribunal funcionará siempre en Pleno y sus resoluciones se tomarán por unanimidad o por mayoría de votos.
+El Tribunal Electoral del Estado de Quintana Roo funcionará siempre de forma permanente en Tribunal Pleno y sus resoluciones se tomarán por unanimidad o por mayoría de votos.
 
 ###### Artículo 11.
 
@@ -115,41 +123,45 @@ El personal jurídico del Tribunal rendirá la protesta de su cargo ante el Plen
 
 ### Capítulo Tercero. De los Magistrados
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
 ###### Artículo 12.
 
-Para ser Magistrado del Tribunal, se requiere cumplir con los siguientes requisitos:
+Para ser Magistrado Numerario, propietario y Suplente, del Tribunal, deberán reunirse los siguientes requisitos:
 
-I. Ser mexicano por nacimiento sin tener otra nacionalidad y ciudadano quintanarroense en pleno ejercicio de sus derechos políticos y civiles;
+a).- Ser mexicano por nacimiento, sin tener o adquirir otra nacionalidad, ciudadano quintanarroense, además de estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-II. Estar inscrito en el padrón electoral y contar con credencial para votar;
+b).- Estar inscrito en el Registro federal de Electores y contar con credencial para votar;
 
-III. Tener más de treinta años de edad;
+c).- Tener más de treinta años de edad, el día de su designación;
 
-IV. Poseer título profesional de Licenciado en Derecho expedido por Institución de Educación Superior legalmente facultada para ello, con una antigüedad mínima de cinco años, así como la cédula profesional correspondiente;
+d).- Poseer al día de la designación, con antigüedad mínima de cinco años, título y cédula profesional de Licenciado en Derecho;
 
-V. Gozar de buena reputación, no estar sujeto a proceso penal y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional;
+e).- Gozar de buena reputación, no estar sujeto a proceso penal y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter culposo;
 
-VI. Tener residencia en la entidad durante diez años y cinco años de vecindad efectiva en algún municipio del Estado, anteriores a la fecha de designación;
+f).- Tener una residencia efectiva en el Estado durante los últimos diez años, y haber sido vecino en alguno de los Municipios de la Entidad en los cinco años previos a su designación;
 
-VII. No tener, ni haber tenido cargo alguno de elección popular, ni haber sido postulado como candidato de algún partido político o coalición en los diez años anteriores a la designación;
+g).- No haber sido registrado como candidato a cargo alguno de elección popular en los últimos diez años anteriores a la designación;
 
-VIII. No desempeñar, ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido político, o de dirigente de organismos, instituciones, colegios o agrupaciones ciudadanas afiliadas a algún partido político, en los diez años anteriores a la fecha de su designación;
+h).- No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político o agrupación política, o representante ante el Consejo General, los Consejos Municipales y los Consejos Distritales del Instituto Electoral de Quintana Roo, así como en los Órganos del Instituto Federal Electoral, en los últimos diez años anteriores a lo designación; y
 
-IX. No desempeñar o haber desempeñado el cargo de representante de partido o coalición ante los órganos electorales de la entidad, de otros Estados o de la Federación, en los diez años anteriores a la fecha de su designación;
+i).- No ser secretario, ni procurador general de justicia, subsecretario u oficial mayor en lo administración pública estatal, a menos que se separe de su encargo con cuatro años de anticipación al día de su nombramiento.
 
-X. No desempeñar o haber desempeñado el cargo de Magistrado Electoral, Consejero Ciudadano, o Consejero Electoral, Secretario Técnico o Secretario Ejecutivo, ante los Organos Electorales de la Entidad, de otros Estados o sus equivalentes a nivel Federal, en los diez años anteriores a la fecha de su designación;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XI. No ser ni haber sido ministro de culto religioso en los últimos cinco años anteriores a la fecha de designación;
-
-XII. Tener conocimiento en la materia político electoral, preferentemente; y
-
-XIII. No desempeñar o haber desempeñado el cargo de Secretario, Procurador General de Justicia del Estado u Oficial Mayor, en la Administración Pública Estatal, en los dos últimos años anteriores a la fecha de su designación.
-
-Los Magistrados Supernumerarios, además de los requisitos anteriores, deberán tener conocimientos y experiencia jurisdiccional en materia electoral, preferentemente.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
 
 ###### Artículo 13.
 
-Los Magistrados del Tribunal serán elegidos por el voto de las dos terceras partes de los miembros de la Legislatura del Estado o de la Diputación Permanente, en su caso, de entre las propuestas que formulen los grupos parlamentarios, de acuerdo con el siguiente procedimiento:
+Los Magistrados Numerarios y los Magistrados Suplentes del Tribunal serán elegidos por el voto de las dos terceras partes de los miembros de la Legislatura del Estado o de la Diputación Permanente, en su caso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+
+El procedimiento para la designación de los Magistrados Numerarios y los Magistrados Suplentes, se sujetará al trámite siguiente:
 
 I. La Presidencia de la Mesa Directiva de la Legislatura, o de la Diputación Permanente, en su caso, convocará a los grupos parlamentarios, a presentar hasta el doble de propuestas respecto de los cargos a designar, ante la Comisión de Justicia.
 
@@ -157,35 +169,63 @@ II. Los grupos parlamentarios presentarán sus propuestas por escrito, presentan
 
 III. La Comisión de Justicia, una vez vencido el plazo señalado en la fracción que antecede, se reunirá para revisar si las propuestas cumplen con los requisitos de ley, y elaborará el dictamen correspondiente, mismo que contendrá la relación de los nombres de las personas propuestas que satisficieron los requisitos legales.
 
-IV. El citado dictamen se presentará en sesión plenaria de la Legislatura o la Diputación Permanente, según corresponda, para efecto de que los legisladores designen, de entre las propuestas que cumplieron con los requisitos, a los Magistrados del Tribunal.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V. La designación de los Magistrados se mandará a publicar en el Periódico Oficial del Gobierno del Estado.
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
 
-VI. Los designados deberán comparecer ante la propia Legislatura o la Diputación Permanente, a rendir la protesta de ley.
+IV. El citado Dictamen se presentará, a más tardar en los tres días siguientes al vencimiento del plazo señalado en la fracción II del presente artículo, en sesión plenaria de la Legislatura o la Diputación Permanente, según corresponda, para efecto de que los legisladores designen, de entre las propuestas que cumplieron con los requisitos, a los Magistrados y al Contralor Interno del Tribunal;
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+V. La designación de los Magistrados electorales y el Contralor Interno del Tribunal, se mandará a publicar en el Periódico Oficial del Estado;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+VI. Los designados deberán comparecer ante la propia Legislatura o la Diputación Permanente, a rendir la protesta de ley. En el caso de que un Magistrado suplente tenga que entrar en funciones, éste deberá rendir la protesta ante el Pleno del Tribunal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
 ###### Artículo 14.
 
-Los Magistrados Numerarios durarán en su encargo seis años, y podrán ser ratificados de manera individual, hasta por un periodo más de tres años, con la misma votación requerida para su nombramiento.
+Los Magistrados Numerarios durarán en su encargo seis años.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 15.
 
-Los Magistrados Supernumerarios ejercerán sus funciones únicamente durante el proceso electoral para el que fueron electos. Serán designados a más tardar en la segunda semana del mes de agosto previo a la elección, mediante el mismo procedimiento previsto en el Artículo 13 de ésta Ley, y tomarán posesión el primer día hábil del mes de septiembre siguiente.
+(DEROGADO, P.O. 3 DE MARZO DE 2009)
 
 ###### Artículo 16.
 
 El Pleno podrá otorgar a los Magistrados Numerarios, licencia para ausentarse temporalmente de sus funciones, hasta por treinta días fuera de los procesos electorales. La licencia que exceda de ese término y hasta noventa días deberá ser otorgada por la Legislatura del Estado. La ausencia de los magistrados que exceda los plazos otorgados en la licencia, será considerada como definitiva. Las solicitudes de licencia deben estar debidamente justificadas.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+
 ###### Artículo 17.
 
-Para suplir a los Magistrados Numerarios en sus ausencias temporales, el Pleno del Tribunal podrá convocar a las personas que fungieron en el último proceso electoral como magistrados supernumerarios, en el orden de su nombramiento. En caso de ausencia definitiva, la Legislatura del Estado procederá a realizar el nombramiento de un magistrado por el tiempo necesario para concluir el periodo.
+Para suplir a los Magistrados Numerarios en sus ausencias temporales, el Pleno del Tribunal convocará al Magistrado Electoral suplente que en orden de prelación corresponda. En caso de ausencia definitiva, éste asumirá el cargo por el tiempo necesario para concluir el período.
 
 Para los efectos del párrafo anterior, se entiende por ausencia definitiva cuando al vencimiento de la licencia otorgada, el magistrado no se presentase sin justificación al desempeño de sus funciones.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
 ###### Artículo 18.
 
-Los Magistrados, no podrán, durante su ejercicio, desempeñar ningún otro empleo, cargo o comisión oficial y sólo podrán recibir percepciones derivadas de actividades profesionales, regalías, derechos de autor o publicaciones siempre que no se afecte la independencia, imparcialidad y equidad que debe regir el ejercicio de su función; también podrán ejercer cargos no remunerados en asociaciones científicas, literarias o de beneficencia.
+Los Magistrados Electorales se sujetarán de forma particular a las siguientes reglas:
+
+I.- Desempeñarán su función con independencia y probidad; y
+
+II.- Durante el periodo de su ejercicio, no podrán, desempeñar ningún otro empleo, cargo o comisión oficial y sólo podrán recibir percepciones derivadas de actividades profesionales, regalías, derechos de autor o publicaciones siempre que no se afecte la independencia, imparcialidad y equidad que debe regir el ejercicio de su función; también podrán ejercer cargos no remunerados en asociaciones científicas, literarias o de beneficencia.
 
 ###### Artículo 19.
 
@@ -199,9 +239,13 @@ En las hipótesis previstas en el artículo anterior, invariablemente se otorgar
 
 ### Capítulo Primero. Del Pleno
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+
 ###### Artículo 21.
 
-El Pleno del Tribunal funcionará y se integrará con los magistrados numerarios, y tendrá las siguientes atribuciones:
+El Pleno del Tribunal funcionará y se integrará con los Magistrados Numerarios, y tendrá las siguientes atribuciones:
 
 I. Resolver los medios de impugnación en los plazos y términos previstos en la Ley de Medios;
 
@@ -233,13 +277,25 @@ XIV. Conocer y resolver las controversias laborales entre el Instituto y sus ser
 
 XV. Aprobar los planes y programas de capacitación jurídico electoral;
 
-XVI. Aprobar los planes y programas que contribuyan a la promoción de la cultura política y democrática en el Estado; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XVII. Las demás que le confiera la Constitución Particular, esta Ley y los ordenamientos electorales.
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+XVI. Aprobar los planes y programas que contribuyan a la promoción de la cultura política y democrática en el Estado;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2009)</small>
+
+XVII. Aprobar la estructura de los órganos y áreas del Tribunal, conforme a las necesidades del servicio y los recursos presupuesta les autorizados; y
+
+XVIII. Las demás que le confiera la Constitución Particular, esta Ley y los ordenamientos electorales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 22.
 
-Durante los procesos electorales los magistrados supernumerarios podrán concurrir a las sesiones del Pleno, a convocatoria de su Presidente, cuando se discutan los proyectos de sentencia de los asuntos en que hayan intervenido. En todo caso tendrán voz y no voto.
+(DEROGADO, P.O. 3 DE MARZO DE 2009)
 
 ###### Artículo 23.
 
@@ -281,9 +337,13 @@ VII. En las sesiones públicas sólo podrán participar y hacer uso de la palabr
 
 ### Capítulo Segundo. De la Presidencia
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+
 ###### Artículo 27.
 
-El primer día hábil de septiembre, los Magistrados Numerarios elegirán a uno de ellos, como Presidente del Tribunal, quien lo será por un período de dos años, pudiendo ser reelecto para un período igual.
+En la primera sesión que celebren en el mes de febrero, los Magistrados Numerarios elegirán a uno de ellos, como Presidente del Tribunal, quien lo será por un período de tres años, pudiendo ser reelecto para un período igual.
 
 Las ausencias temporales del Presidente del Tribunal serán suplidas por el Magistrado Numerario de mayor antigüedad en el cargo, o en su caso, siguiendo el orden del nombramiento.
 
@@ -323,9 +383,31 @@ XV. Vigilar que el Tribunal cuente con los recursos humanos, materiales y financ
 
 XVI. Acordar con los titulares de las unidades, los asuntos competencia de éstas;
 
-XVII. Designar las comisiones de magistrados que sean necesarias para la coordinación y desarrollo de las actividades del Tribunal; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XVIII. Las demás que sean necesarias para el correcto funcionamiento del Tribunal y las que le confiera esta Ley y los demás ordenamientos electorales.
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+XVII. Designar las comisiones de magistrados que sean necesarias para la coordinación y desarrollo de las actividades del Tribunal;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2009)</small>
+
+XVIII. Coordinar los trabajos de los órganos y áreas del Tribunal, aplicando los programas, políticas y procedimientos institucionales, informando de ello al Pleno;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2009)</small>
+
+XIX. Dictar y ejecutar las medidas necesarias para el despacho pronto y expedito de los asuntos propios del Tribunal;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2009)</small>
+
+XX. Vigilar que se cumplan las disposiciones de esta Ley y del Reglamento Interior del Tribunal; y
+
+XXI. Las demás que sean necesarias para el correcto funcionamiento del Tribunal y las que le confiera esta ley y los demás ordenamientos electorales.
 
 ### Capítulo Tercero. De la Secretaría General de Acuerdos
 
@@ -337,9 +419,13 @@ Para la recepción y tramitación de los medios de impugnación previstos en la 
 
 La unidad a que se refiere el artículo anterior, se integrará durante los procesos electorales con un Secretario General y el Auxiliar de Acuerdos, notificadores, oficiales de partes y encargados del archivo Jurisdiccional, en el número que determine en cada caso, el Pleno del Tribunal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+
 ###### Artículo 31.
 
-Los Secretarios General y Auxiliar de Acuerdos deberán ser mayores de veinticinco años, contar con título profesional de Licenciado en Derecho y la cédula correspondiente, legalmente registrados. Deberán, además, tener conocimiento y experiencia jurisdiccional en materia electoral, preferentemente, y cumplir con los requisitos señalados en las fracciones I, II, V, VI, VII, VIII, IX, X, XI y XIII, del Artículo 12 de la presente ley. Respecto de las fracciones VI, VII, VIII, IX y X antes señaladas, el plazo será de cinco años anteriores a la fecha de su designación.
+Los Secretarios General y Auxiliar de Acuerdos deberán ser mayores de veinticinco años, contar con título profesional de Licenciado en Derecho y la cédula correspondiente, legalmente registrados. Deberán, además, tener conocimiento y experiencia jurisdiccional en materia electoral, preferentemente, y cumplir con los requisitos señalados en los incisos a), b), f), g), h), e i), del artículo 12 de la presente ley.
 
 Los notificadores y el personal de Oficialía de Partes deberán reunir los mismos requisitos que se señalan en el párrafo anterior, con excepción de la edad que será de veintiún años y del título profesional, por lo cual bastará que acrediten tener la calidad de pasante de la licenciatura en derecho, con documento expedido por una institución legalmente reconocida.
 
@@ -467,7 +553,11 @@ IV. Gozar de buena reputación, no estar sujeto a proceso penal y no haber sido 
 
 V. Estar inscritos en el padrón electoral y contar con credencial para votar.
 
-Además de lo anterior, deberán cumplir los requisitos señalados en las fracciones VI, VII, VIII, IX y XI, del Artículo 12 de la presente Ley. Respecto de las fracciones VI; VII, VIII y IX antes señaladas, el plazo será de cinco años anteriores a la fecha de su designación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
+Además de lo anterior, deberán cumplir los requisitos señalados en los incisos b), f), g), h), e i), del artículo 12 de la presente ley.
 
 Asimismo, durante el desempeño de su cargo, los Jefes de Unidad, estarán sujetos a lo dispuesto en el Artículo 18 de este ordenamiento.
 
@@ -553,39 +643,49 @@ IX. Las demás que le encomiende el Presidente del Tribunal y la Ley.
 
 ### Capítulo Primero. De la Contraloría Interna
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
 ###### Artículo 49.
 
-La Contraloría Interna del Tribunal es la unidad administrativa encargada de la fiscalización, vigilancia y control del uso, manejo y destino de los recursos del Tribunal; y del desempeño de su estructura. Estará adscrita al Pleno, bajo la coordinación del Magistrado Presidente, y gozará de autonomía en el ejercicio de sus atribuciones.
+La Contraloría Interna del Tribunal es la responsable de la fiscalización, vigilancia y control del uso, manejo y destino de los recursos del Tribunal; y del desempeño de los órganos, funcionarios y servidores electorales. Estará adscrita administrativamente al Pleno sin que esto se traduzca en subordinación alguna, pues gozará de autonomía técnica y de gestión en el ejercicio de sus atribuciones.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
 ###### Artículo 50.
 
-El titular de la Contraloría Interna del Tribunal, deberá satisfacer los siguientes requisitos:
+El titular de la Contraloría Interna del Tribunal, deberá satisfacer los mismos requisitos que se exigen para ser Magistrado del Tribunal, con la diferencia de que sus estudios podrán ser en contabilidad, administración, economía y finanzas, o derecho.
 
-I. Ser mexicano por nacimiento, sin tener otra nacionalidad, y ser ciudadano quintanarroense con una residencia efectiva de diez años en la entidad y vecindad de cinco años en algún Municipio del Estado, anteriores a la designación;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. Estar en pleno ejercicio de sus derechos políticos y civiles;
-
-III. Tener más de veinticinco años de edad;
-
-IV. Poseer título y cédula profesional, en áreas o disciplinas vinculadas con la función que habrá de desempeñar;
-
-V. Contar con experiencia en el área correspondiente, preferentemente;
-
-VI. Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter culposo; y
-
-VII. No haber estado sujeto a procedimiento de responsabilidad administrativa o penal.
-
-Además, deberán cumplir con los requisitos señalados en las fracciones II, VI, VII, VIII, IX y XI del Artículo 12 de la presente ley.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
 ###### Artículo 51.
 
-El titular de la Contraloría Interna del Tribunal, será nombrado y removido por el pleno, a propuesta del Magistrado Presidente. Sus ausencias temporales serán cubiertas por el servidor electoral, designado por el Magistrado Presidente de entre los que le sigan en jerarquía.
+El Contralor Interno del Tribunal, será elegido por el voto de las dos terceras partes de los miembros de la Legislatura del Estado o la Diputación Permanente, en los recesos de ésta, de entre las propuestas que formulen los grupos parlamentarios, mediante el proceso establecido en el artículo 13 de la presente Ley.
+
+El Contralor Interno del Tribunal durará en su encargo seis años.
+
+La retribución del Contralor Interno será la misma que se señale para los Magistrados Numerarios del Tribunal.
+
+Sus ausencias temporales serán cubiertas por el servidor electoral, designado por el Pleno, de entre los que le sigan en jerarquía.
+
+El Contralor Interno no podrá tener otro empleo cargo o comisión, con excepción de aquellos en que actúe en representación del órgano al que pertenece y del que desempeñe en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, siempre y cuando no sea remunerado.
+
+La Legislatura del Estado, o en su caso, la Diputación Permanente, con el voto de las dos terceras partes de sus integrantes, podrán revocar de su cargo al Contralor Interno, cuando deje de reunir alguno de los requisitos de elegibilidad, violente los principios rectores de su función o incurra en responsabilidad, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
 ###### Artículo 52.
 
 La Contraloría interna del Tribunal, tendrá las siguientes atribuciones:
 
-I. Proponer al pleno, los contenidos del programa anual de auditoría interna del Tribunal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+I. Aprobar los contenidos del Programa Anual de Auditoria Interna del Tribunal;
 
 II. Ordenar la ejecución y supervisión del programa anual de auditoria interna, e informar al pleno;
 
@@ -593,35 +693,69 @@ III. Autorizar los programas específicos de auditoría interna que practique;
 
 IV. Vigilar la correcta ejecución de cada una de las auditorías internas, estableciendo la extensión y profundidad que las mismas requieran;
 
-V. Informar al Pleno respecto de los resultados de las revisiones;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+V. Requerir al servidor o funcionario electoral que corresponda, por sí o a través de su superior jerárquico, el cumplimiento de las observaciones, que con motivo de los resultados de la auditoría, se hayan formulado;
 
 VI. Aplicar, y en su caso, promover ante las instancias correspondientes las acciones administrativas y legales que deriven de los resultados de las auditorias;
 
 VII. Revisar en la ejecución de las auditorias internas, que el ejercicio del gasto se haya realizado de conformidad con las disposiciones legales, normas y lineamientos que regulan su ejercicio; que las operaciones financieras se registren contable y presupuestalmente en forma oportuna; la calidad de los controles administrativos para proteger el patrimonio institucional y evaluar desde el punto de vista programático las metas y objetivos de los programas a cargo del Tribunal y, en su caso, determinar las desviaciones de los mismos y las causas que les dieron origen;
 
-VIII. Recibir, investigar y emitir la resolución, en su caso, respecto de las quejas y denuncias que se presenten en contra de los Magistrados, Secretarios General y Auxiliar de Acuerdos, de Estudio, Proyectista, Jefes de Unidad, notificadores, personal administrativo, jurídico y de apoyo del Tribunal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IX. Establecer mecanismos para difundir la obligación de presentar ante la propia Contraloría, la declaración de situación patrimonial por parte de los integrantes del Pleno, personal administrativo, jurídico, y demás personal de apoyo, desde el nivel de Jefe de Departamento o equivalente;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+VIII. Recibir, investigar y emitir la resolución que conforme a la Ley proceda, respecto de las quejas y denuncias que se presenten en contra de los Magistrados, secretario general y auxiliar de acuerdos, de estudio, proyectista, jefes de unidad, notificadores, personal administrativo, jurídico y de apoyo, del Tribunal, en los términos de la normatividad que el propio Titular de la Contraloría Interna expida y mande a publicar en el Periódico Oficial del Estado;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+IX. Establecer mecanismos para difundir la obligación de presentar ante la propia Contraloría Interna, la declaración de situación patrimonial por parte de los servidores y funcionarios del Tribunal que estén obligados, de acuerdo con la normatividad que el propio Titular de la Contraloría Interna expida y mande a publicar en el Periódico Oficial del Estado;
 
 X. Participar en los actos de entrega-recepción de los servidores electorales del Tribunal de mandos medios y superiores, con motivo de su separación del cargo, en los términos de la normatividad aplicable;
 
-XI. Rendir un informe trimestral y anual de sus actividades al Pleno;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+XI. Remitir un informe a la sociedad, de periodicidad mensual, y uno global del ejercicio en el mes de enero, mismos que se difundirán en la página electrónica del Tribunal;
 
 XII. Emitir observaciones y recomendaciones a los titulares de las áreas auditadas;
 
-XIII. Emitir opinión sobre las normas de contabilidad y de control en materia de programación; presupuestación; administración de recursos humanos, materiales, financieros y servicios, que se elaboren en el Tribunal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+XIII. Emitir observaciones sobre las normas de contabilidad y de control en materia de programación, presupuestación, administración de recursos humanos, materiales, financieros y servicios que se elaboren en el Tribunal;
 
 XIV. Verificar el cumplimiento de la normatividad relativa a la adquisición de bienes y servicios;
 
-XV. Acordar con el Magistrado Presidente los asuntos de su competencia; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XVI. Las demás que le confiera el presente ordenamiento, el Pleno y la Ley.
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+XV. Determinar y aplicar las sanciones previstas en el artículo 55 de la presente ley, así como expedir toda la normatividad inherentes a la función otorgada, debiéndose mandar publicar en el Periódico Oficial del Estado; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+XVI. Las demás que le confiera la Ley.
 
 ### Capítulo Segundo. De las Responsabilidades
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
 ###### Artículo 53.
 
-Los Magistrados, Secretarios General y Auxiliar de Acuerdos, de Estudio, Proyectista, Jefes de Unidad, Titular de la Contraloría Interna, notificadores, personal administrativo, jurídico y de apoyo del Tribunal, podrán ser sancionados en la forma, términos y por las causas de responsabilidad administrativa previstas en el presente Capítulo y en la demás legislación aplicable.
+Los Magistrados, Secretario General y Auxiliar de Acuerdos, de Estudio, Proyectista, Jefes de Unidad, notificadores, personal administrativo, jurídico y de apoyo del Tribunal, podrán ser sancionados en la forma, términos y por las causas previstas en la presente Ley y en las que se prevengan en el reglamento que al efecto expida la Contraloría Interna.
+
+El Titular de la Contraloría Interna del Tribunal sólo será sancionado por la Legislatura o la Diputación Permanente, en su caso. Podrá ser removido de su cargo con la misma votación que se necesitó para su nombramiento, siempre y cuando, incurra en violaciones graves a la Ley a juicio de la Legislatura o la Diputación Permanente, según corresponda, o por dejar de reunir los requisitos de elegibilidad.
 
 ###### Artículo 54.
 
@@ -661,17 +795,25 @@ IV. Destitución del cargo; e
 
 V. Inhabilitación para ocupar un cargo en los Organos del Tribunal.
 
-Las sanciones derivadas de la comisión de faltas administrativas, serán aplicadas por la Contraloría Interna, a excepción de la destitución del cargo o inhabilitación que será facultad exclusiva del Pleno. No podrá aplicarse a los Magistrados Electorales las sanciones referidas en las fracciones II, IV y V de este Artículo. Las sanciones serán determinadas tomando en consideración la gravedad de la falta, la incidencia o reincidencia de la misma y el comportamiento del servidor durante el desempeño de sus funciones.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
+Las sanciones previstas en las fracciones IV y V del presente artículo, no le serán aplicables a los Magistrados del Tribunal. Sin embargo, cuando se les aplique cualquier otra sanción, el titular de la Contraloría Interna del Tribunal remitirá un duplicado del expediente a la Legislatura o a la Diputación Permanente, en su caso, para los fines a que haya lugar. Las sanciones serán determinadas y aplicadas tomando en consideración la gravedad de la falta, la incidencia o reincidencia de la misma y el comportamiento del servidor o funcionario del Tribunal durante el desempeño de sus funciones.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
 ###### Artículo 56.
 
-La Contraloría Interna del Tribunal, iniciará el procedimiento disciplinario para identificar, investigar y determinar las responsabilidades administrativas en que pudieron haber incurrido los servidores del Tribunal, con motivo de las denuncias o quejas que se presenten o de la revisión de los asuntos de su competencia.
+La Contraloría Interna del Tribunal, de oficio, por denuncia o queja recibida, iniciará el procedimiento disciplinario para identificar, investigar, determinar las responsabilidades administrativas en que pudieran haber incurrido los servidores y funcionarios del Tribunal.
 
-Las denuncias o quejas que se formulen, deberán presentarse por escrito con los elementos probatorios para establecer la presunción de responsabilidad del servidor de que se trate.
+Las denuncias o quejas que se formulen, deberán presentarse por escrito los elementos probatorios para establecer la presunción de responsabilidad del servidor o funcionario de que se trate.
 
-Para la determinación de las responsabilidades a que se refiere el presente Capítulo, la Contraloría Interna, o en su caso, el Pleno del Tribunal, deberá otorgarle al servidor respectivo, la garantía de audiencia, corriéndole traslado del escrito de denuncia o queja para que en el término de tres días hábiles manifieste lo que a su derecho corresponda, y ofrezca pruebas de descargo.
+Para la determinación de las responsabilidades a que se refiere el presente Capítulo, la Contraloría Interna, deberá otorgarle al servidor o funcionario respectivo, la garantía de audiencia, corriéndole traslado del escrito de denuncia o queja o bien del acta que contenga las razones por las que de oficio se haya iniciado el procedimiento, para que en el término de tres días hábiles manifieste lo que a su derecho corresponda, y ofrezca pruebas de descargo.
 
-Al concluir el procedimiento a que se refiere el párrafo anterior, la Contraloría Interna o el Pleno del Tribunal, emitirá la resolución que corresponda, la cual notificará dentro de un plazo de cinco días hábiles al servidor en forma personal y al denunciante o quejoso, personalmente o por estrados, según corresponda. De ser el caso, dentro del plazo de tres días hábiles siguientes a la notificación, hará efectivas las sanciones impuestas.
+Al concluir el procedimiento a que se refiere el artículo anterior, la Contraloría Interna del Tribunal emitirá su resolución a fin de determinar si el servidor o funcionario incurrió o no en falta administrativa, y en su caso, determinar y aplicar las sanciones previstas en el presente capítulo. Contra la determinación de las sanciones no existirá ningún medio de impugnación interno.
 
 ## TÍTULO CUARTO. DE LAS RELACIONES LABORALES
 
@@ -830,3 +972,21 @@ Artículo Primero.- Las presentes reformas entrarán en vigor al día siguiente 
 Artículo Segundo.- El Consejero Presidente y los Consejeros Electorales Propietarios y Suplentes del Consejo General del Instituto Electoral de Quintana Roo, así como los Magistrados Numerarios del Tribunal Electoral de Quintana Roo, que fueron electos el 31 de enero de 2003, durarán en su encargo seis años, contados a partir de esa propia fecha.
 
 Artículo Tercero.- Se derogan todas aquellas disposiciones que contravengan a la presente.
+
+P.O. 3 DE MARZO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor una vez que las reformas constitucionales en materia electoral relacionadas con el mismo, se encuentren vigentes.
+
+###### ARTÍCULO SEGUNDO.
+
+La adecuación de la normatividad de carácter reglamentaria que resulte necesaria efectuar conforme a las disposiciones del presente Decreto, deberá realizarse a partir de la entrada en vigor del mismo.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+ARTÍCULO TRANSITORIO:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
