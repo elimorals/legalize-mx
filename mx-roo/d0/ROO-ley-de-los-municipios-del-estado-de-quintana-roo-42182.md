@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2008-07-02"
+last_updated: "2009-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 2009.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -111,7 +111,9 @@ XVIII. Las demás que impongan las leyes federales y estatales, así como las qu
 
 Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, que se renovará cada tres años y residirá en la Cabecera Municipal. La competencia que la Constitución Política del Estado, otorga al Gobierno Municipal, se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el Gobierno del Estado.
 
-Los Ayuntamientos deberán tomar posesión el día 10 del mes de Abril del año de la elección, mediante ceremonia pública y solemne.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
+Los Ayuntamientos deberán tomar posesión el día 30 del mes de septiembre del año de la elección, mediante ceremonia pública y solemne.
 
 ###### ARTÍCULO 8.
 
@@ -493,9 +495,11 @@ II. Aprobar la supresión de los Municipios y sus Ayuntamientos solicitantes y l
 
 ### Capítulo Único. Formalidades de la Instalación
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+
 ###### ARTÍCULO 48.
 
-Los Ayuntamientos electos se instalarán en ceremonia pública y solemne el día 10 de abril del año de la elección.
+Los Ayuntamientos electos se instalarán en ceremonia pública y solemne el día 30 del mes de septiembre del año de la elección.
 
 Para tal efecto, en la última sesión ordinaria del mes inmediato anterior a la fecha de terminación del período constitucional del Ayuntamiento que concluye, se nombrará una comisión instaladora, integrada por tres regidores, con el objeto de acordar con el Ayuntamiento electo, lo conducente respecto a la sesión de instalación.
 
@@ -733,7 +737,9 @@ i) Decretar la cancelación de las concesiones de servicios públicos que hayan 
 
 IV. En Materia de Hacienda Pública Municipal:
 
-a) Presentar, a más tardar en el mes de noviembre de cada año, ante la Legislatura del Estado, la Iniciativa de Ley de Ingresos del Municipio, para su respectiva aprobación;
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
+a) Presentar, a más tardar el 15 de noviembre de cada año, ante la Legislatura del Estado, la Iniciativa de Ley de Ingresos del Municipio, para su respectiva aprobación;
 
 b) Aprobar el presupuesto de egresos para el ejercicio fiscal correspondiente con base en los ingresos disponibles, asimismo autorizar la ampliación, transferencia y supresión de partidas del presupuesto de egresos;
 
@@ -937,7 +943,9 @@ IX. Proponer al Ayuntamiento, los nombramientos del Secretario General del Ayunt
 
 X. Nombrar y remover a los servidores públicos municipales cuya designación no sea facultad exclusiva del Ayuntamiento;
 
-XI. Rendir al Ayuntamiento, dentro de los primeros 10 días hábiles del mes de abril de cada año, un informe detallado sobre el estado que guarda la Administración Pública Municipal. Dicha sesión será pública y solemne;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+XI. Rendir al Ayuntamiento, entre el 20 7 el 29 de septiembre de cada año, un informe detallado sobre el estado que guarda la Administración Pública Municipal. Dicha sesión será pública y solemne;
 
 XII. Proponer al Ayuntamiento, el número y composición de las diversas Comisiones que deberán constituirse en el Ayuntamiento;
 
@@ -2385,7 +2393,9 @@ Los Municipios administrarán libremente su hacienda conforme a las siguientes b
 
 I. Los recursos que integran la Hacienda Municipal serán ejercidos en forma directa por los Ayuntamientos o bien por quien ellos autoricen, conforme a la Ley.
 
-II. La Legislatura del Estado discutirá y aprobará, en su caso, las leyes de ingresos de cada Municipio, conforme a la iniciativa que a más tardar en el mes de noviembre de cada año envíe cada uno de ellos, en los términos de la Constitución Política del Estado y de la Ley de Hacienda que al efecto se expida.
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+
+II. La Legislatura del Estado discutirá y aprobará, en su caso, las leyes de ingresos de cada Municipio, conforme a la iniciativa que a más tardar el 15 de noviembre de cada año envíe cada uno de ellos, en los términos de la Constitución Política del Estado y de la Ley de Hacienda que al efecto se expida.
 
 III. Los Ayuntamientos propondrán a la Legislatura del Estado, a mas tardar en el mes de octubre de cada año, con arreglo a los principios de equidad, proporcionalidad, racionalidad y capacidad contributiva, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en el ejercicio fiscal inmediato siguiente.
 
@@ -2668,3 +2678,17 @@ P.O. 2 DE JULIO DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Los escudos que se exhiban en los edificios públicos, escuelas o en otras instituciones, deberán ajustarse a la reforma del Artículo 6° de la Ley sobre las Características y el Uso del Escudo del Estado de Quintana Roo, establecida en el presente decreto. Se exceptúan los escudos esculpidos en edificios o en centros históricos que se encuentren ubicados en el Estado de Quintana Roo, que constituyan por su valor cultural o trascendencia social, parte indisoluble de la peculiaridad del pueblo quintanarroense.
+
+P.O. 3 DE MARZO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo, de acuerdo con las modalidades previstas en el artículo siguiente.
+
+###### ARTÍCULO SEGUNDO.
+
+Los presidentes Municipales que se encuentran en funciones, rendirán su primer, segundo y tercer informe sobre el estado que guarda la Administración Pública Municipal, en los primeros diez días del mes de abril de los años 2009, 2010 y 2011, respectivamente.
+
+TRANSITORIO:
+
+ÚNICO.- Publíquese el decreto que en su caso se expida en el Periódico Oficial del Estado de Quintana Roo.
