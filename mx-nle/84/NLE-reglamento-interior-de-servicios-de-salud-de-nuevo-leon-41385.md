@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-servicios-de-salud-de-nuevo-leon-41385"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-12"
-last_updated: "2006-05-12"
+last_updated: "2009-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE "SERVICIOS DE SALUD DE NUEVO LEON" ORGANISMO PUBLICO DESCENTRALIZADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el martes 12 de octubre de 2004.
 
@@ -91,7 +91,9 @@ V. Dirección de Jurisdicciones Sanitarias;
 
 VI. Dirección de Hospitales;
 
-VII. Dirección de Innovación y Calidad;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2009)</small>
+
+VII. Dirección de Enseñanza, Investigación en Salud y Calidad;
 
 VIII. Dirección Sectorial de Salud y Bienestar Social;
 
@@ -99,9 +101,13 @@ VIII. Dirección Sectorial de Salud y Bienestar Social;
 
 IX. Dirección del Régimen de Protección Social en Salud;
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2006)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2009)</small>
 
-X. Unidades Desconcentradas:
+X. Dirección de Salud Mental y Adicciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2009)</small>
+
+XI. Unidades Desconcentradas:
 
 - Jurisdicciones Sanitarias
 
@@ -109,9 +115,9 @@ X. Unidades Desconcentradas:
 
 - Centros de Especialidad, y
 
-> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2006)</small>
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2009)</small>
 
-X. Las demás Unidades que a propuesta del "Director" apruebe la "Junta".
+XII. Las demás Unidades que a propuesta del Director General apruebe la "Junta".
 
 ###### Artículo 6.
 
@@ -197,9 +203,15 @@ VII. Delegar en sus subalternos aquellas funciones que respondan al objetivo del
 
 VIII. En coordinación con el "Director", la Dirección Administrativa y la Dirección Jurídica, responderán a los requerimientos de información de acuerdo a las leyes y la normatividad vigente;
 
-IX. Coordinarse con las demás unidades del "Organismo" para el mejor desempeño de los asuntos de su competencia; y
+IX. Coordinarse con las demás unidades del "Organismo" para el mejor desempeño de los asuntos de su competencia; y (sic)
 
-X. Desempeñar las funciones y comisiones que el "Director" del "Organismo" le delegue o encomiende.
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2009)</small>
+
+X. Analizar, elaborar· y contestar las solicitudes de información de su competencia presentadas al "Organismo por la ciudadanía en su calidad de peticionarios, a través de la Coordinación de Convenios y Transparencia que fungirá como enlace del "Organismo" en los términos y formas contempladas en la Ley de Transparencia y Acceso a la Informaci6n del Estado de Nuevo León, y
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2009)</small>
+
+XI. Desempeñar las funciones y comisiones que el "Director" del "Organismo' le delegue o le encomiende.
 
 ###### Artículo 16.
 
@@ -297,31 +309,73 @@ XVIII. Instrumentar con el apoyo de la Dirección Jurídica, los procedimientos 
 
 XIX. Coordinar programas que el "Organismo" acuerde con el Gobierno Federal, en los términos de las disposiciones aplicables;
 
-XX. Las demás que le correspondan de acuerdo a la normatividad aplicable.
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2009)</small>
+
+XX. Recopilar, integrar y mantener actualizada la Información Pública en los medios autorizados para su publicación como responder a nombre del “Organismo” a través de la Coordinación de Convenios y Transparencia los diversos requerimientos de información solicitados por la ciudadanía a sus diferentes unidades, en los términos de la Ley .de Transparencia y Acceso a la Información del Estado de Nuevo León, y
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2009)</small>
+
+XXI. Las demás que le correspondan de acuerdo a la normatividad aplicable.
 
 ###### Artículo 20.
 
 El Director de Planeación, tendrá las siguientes atribuciones:
 
-I. Integrar y acordar con el "Director" el Programa Operativo Anual y los especiales que se requieran, de conformidad con la normatividad aplicable;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2009)</small>
 
-II. Integrar y colaborar con la Subsecretaría de Prevención y Control de Enfermedades de la Secretaría de Salud en el Estado, en la formulación del Programa de Atención a la Salud de la Población Abierta y procurar su permanente actualización;
+I. Integrar y acordar el Programa operativo Anual y los programas especiales que se requieran con el "Director", en coordinación con las áreas relacionada.
 
-III. Asesorar y apoyar técnicamente a las unidades centrales y a las unidades desconcentradas, en materia de planeación y programación de servicios de salud;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2009)</small>
 
-IV. Organizar, operar y coordinar los sistemas de información y telecomunicación requeridos para el funcionamiento del "Organismo", con base en la normatividad aplicable;
+II. Formular, integrar y evaluar en coordinación con las áreas relacionadas, la instalación y operación del Modelo Integrador de Atención a la Salud para la población objetivo del "Organismo";
 
-V. Participar, en la integración y formulación del Anteproyecto de Presupuesto Anual del "Organismo";
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2009)</small>
 
-VI. Proponer, promover, y supervisar los mecanismos de evaluación y seguimiento a los programas y proyectos especiales, para optimizar la asignación de recursos y la racionalización de la tecnología de las unidades operativas, emitiendo los informes de resultados que apoyen la toma de decisiones;
+III. Vigilar y evaluar en coordinación con la Dirección de Jurisdicciones Sanitarias, los avances en materia de ampliación de cobertura a través de las redes de servicios de salud;
 
-VII. Integrar, supervisar y evaluar, en coordinación con la Dirección Administrativa, los programas estratégicos, de inversión y de operación de los servicios, así como el Plan Estatal Maestro de Infraestructura en Salud para Población Abierta, y la actualización de los mismos conforme a las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2009)</small>
 
-VIII. Promover la observancia de las normas que emitan las autoridades competentes en materia de informática, vigilando su cumplimiento en las unidades del "Organismo", estableciendo los ajustes correspondientes dentro de un marco integral de modernización administrativa;
+IV. Asesorar y apoyar técnicamente a las unidades administrativas y a las desconcentradas del "Organismo", en materia de planeación y programación de servicios de salud;
 
-IX. Participar en la elaboración de los informes que el "Organismo" presente al Congreso del Estado y a la Secretaría de Finanzas y Tesorería General del Estado;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2009)</small>
 
-X. Las demás que le sean encomendadas por el "Director".
+V. Organizar, operar y coordinar la informática médica, así como las tecnologías de información y los sistemas de telecomunicación requeridos para el funcionamiento del "Organismo";
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2009)</small>
+
+VI. Coordinar los procedimientos de captación, supervisión, evaluación y difusión de información estadística en materia de salud, conforme a las disposiciones de la Ley General de Salud y de la Ley de Información, Estadística y Geográfica;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2009)</small>
+
+VII. Participar en la integración y formulación del Anteproyecto de Presupuesto y del plan Anual de Trabajo del "Organismo" en coordinación con las áreas relacionadas;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2009)</small>
+
+VIII. Integrar, supervisar, evaluar y actualizar en coordinación con la Dirección Administrativa, los proyectos especiales locales, el Plan Maestro de Infraestructura Física en Salud y el Plan Maestro de Equipamiento, conforme a las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2009)</small>
+
+IX. Fungir como enlace entre las unidades administrativas del "Organismo" y las autoridades federales, en la implementación de programas estratégicos, de inversión y de operación de los servicios, vigilando el apego a las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2009)</small>
+
+X. Participar en la elaboración del Programa Estatal de Salud, así como de los informes que el “Organismo" presente a las dependencias, de los diversos niveles de gobierno facultadas para requerirlos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2009)</small>
+
+XI. Proponer, promover y supervisar los mecanismos de evaluación y seguimiento a los programas y proyectos especiales, con el fin de optimizar la asignación de recursos y racionalizar el uso de la tecnología en las unidades operativas, emitiendo los informes de resultados que apoyen la toma de decisiones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2009)</small>
+
+XII. Coordinar en conjunto con la Dirección de Hospitales y la Dirección de Enseñanza, Investigación en Salud y Calidad, el desarrollo, instrumentación, supervisión y evaluación de las actividades del programa de Telemedicina;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2009)</small>
+
+XIII. Participar en la integración y actualización anual de los Tabuladores de Costos de Servicios Medico-Asistenciales para población abierta del "Organismo", así como de los Tabuladores de Costos que formen parte integral de los Convenios de Servicios Subrogados que celebre el "Organismo" con otras instituciones, en coordinación con las áreas relacionadas; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2009)</small>
+
+XIV. las demás que le sean encomendadas por el "Director".
 
 ###### Artículo 21.
 
@@ -359,29 +413,35 @@ XV. Certificar las constancias que obren en los archivos del "Organismo" para se
 
 XVI. Difundir la legislación en materia de la competencia del "Organismo" en las unidades administrativas del mismo;
 
-XVII. Difundir los criterios de interpretación jurídica y de aplicación de la legislación sanitaria; y
+XVII. Difundir los criterios de interpretación jurídica y de aplicación de la legislación sanitaria; y (sic)
 
-XVIII. Las demás funciones que le sean encomendadas; (sic)
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2009)</small>
 
-###### Artículo 22.
+XVIII. Proponer al "Director" los nombramientos de los responsables de las unidades jurídicas de las Unidades Desconcentradas, Unidades Hospitalarias y Centros de Especialidad del "Organismo", así como su remoción;
 
-El Director de Innovación y Calidad tendrá las siguientes atribuciones:
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2009)</small>
 
-I. Elaborar de acuerdo a los lineamientos de la Subsecretaria de Innovación y Calidad de la Secretaría de Salud Federal, un programa de calidad para todo el "Organismo";
+XIX. las demás funciones que le sean encomendadas.
 
-II. Establecer las metas a alcanzar en el Programa de Calidad de acuerdo a los lineamientos que sobre la materia emita la Secretaría de Salud Federal, su Subsecretaría de Innovación y Calidad y el "Director";
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2009)</small>
 
-III. Implementar en conjunto con las unidades administrativas el programa de calidad del "Organismo", y darle seguimiento;
+###### Articulo 22.
 
-IV. Llevar a cabo sesiones técnicas de capacitación a personal sobre hábitos que faciliten la comprensión y adopción de una cultura de calidad;
+El Director de Enseñanza. Investigación en Salud y Calidad tendrá las siguientes atribuciones:
 
-V. Vigilar que en la elaboración de los manuales de procedimientos y operación se incorporen las diferentes observaciones para el mejor desempeño del personal;
+I. Ejecutar los programas de investigación y enseñanza para la salud, en términos de la legislación sanitaria federal y local, acuerdos, convenios y demás disposiciones jurídicas aplicables;
 
-VI. Definir y operar un sistema para el seguimiento de las estadísticas resultado de las encuestas de salida para verificar la calidad de la atención médica y la actitud del personal, que permita elaborar planes de mejoramiento en conjunto con las unidades administrativas del "Organismo";
+II. Elaborar, implementar y realizar las acciones necesarias para el buen seguimiento del Programa de Calidad estatal, que incluya metas e indicadores, de conformidad con los lineamientos en la materia de la Secretaría de Salud Federal y con las directrices que le indique el "Director";
 
-VII. Definir en conjunto con las unidades administrativas del "Organismo" y de acuerdo a los resultados del Programa de Calidad, los planes y estrategias para una mejora continua; y
+III. Verificar la calidad de la atención médica y la actitud de servicio del personal a fin de elaborar planes de mejoramiento en conjunto con las áreas correspondientes del "Organismo";
 
-VIII. Las demás que le confieran las disposiciones legales aplicables, y el "Director" del "Organismo".
+IV. Ejecutar, supervisar y evaluar los programas y actividades de capacitación, adiestramiento y de servicio social de los profesionales, técnicos y auxiliares para la salud;
+
+V. Establecer y mantener actualizado el registro de investigación en salud que se realiza en la entidad y vigilar que se cumplan las disposiciones jurídicas aplicables;
+
+VI. Proponer al "Director" y promover las acciones con las diversas instancias en materia del ejercicio y fomento profesional, técnico y auxiliar para la prestación de servicios de salud con calidad, en los términos de las disposiciones jurídicas aplicables; y
+
+VII. Las demás que en materia de enseñanza, investigación y calidad en salud le confieran otras disposiciones legales o le encomiende el "Director".
 
 ###### Artículo 23.
 
@@ -419,11 +479,15 @@ V. Instrumentar, vigilar, supervisar y evaluar que se cumpla el Sistema de Refer
 
 VI. Coordinar el desarrollo, instrumentación, supervisión, evaluación de los programas y actividades de capacitación, adiestramiento y de servicio social del personal de salud, así como operar el sistema de educación continua en los Hospitales y Centros de Especialidad del "Organismo";
 
-VII. Promover y apoyar estrategias de calidad total en la ejecución de los programas y servicios de salud en los Hospitales y Centros de Especialidad;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2009)</small>
+
+VII. Promover y apoyar estrategias de calidad total en· la ejecución de los programas y servicios de salud en los Hospitales y Centros de Especialidad para que logren su acreditación;
 
 VIII. Informar al "Director" las acciones que realice en el cumplimiento de sus funciones;
 
-IX. Formular, promover y apoyar, en conjunto con la Dirección de Innovación y Calidad, la incorporación gradual de sistemas innovadores de gestión, en las Unidades Hospitalarias y Centros de Especialidad adscritos al "Organismo";
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2009)</small>
+
+IX. Formular, promover y apoyar la incorporación gradual de los sistemas innovadores de gestión, en la (sic) unidades Hospitalarias y centros de Especialidad adscritos al "Organismo";
 
 X. Coordinar las acciones médicas, técnicas y administrativas de los Hospitales y Centros de Especialidad adscritos al "Organismo";
 
@@ -443,7 +507,9 @@ XVII. Coordinarse con la Subsecretaría de Prevención y Control de Enfermedades
 
 XVIII. Definir las necesidades de abasto de los medicamentos y materiales para la operación de las Unidades del "Organismo", que estén bajo su responsabilidad;
 
-XIX. Apoyar y ejecutar en conjunto con la Dirección de Innovación y Calidad, todas las acciones tendientes a mejorar los servicios de salud, la atención y la satisfacción de la población;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2009)</small>
+
+XIX. Apoyar y ejecutar todas las acciones tendientes· a mejorar los servicios de salud, la atención y la satisfacción de la población;
 
 XX. Emitir los lineamientos técnicos y administrativos a los que deberán sujetarse los Hospitales y Centros de Especialidad del "Organismo";
 
@@ -475,7 +541,9 @@ IX. Coordinarse con la Subsecretaría de Prevención y Control de Enfermedades y
 
 X. Definir las necesidades de abasto de los medicamentos y materiales para la operación de las unidades del "Organismo", que estén bajo su responsabilidad;
 
-XI. Apoyar y ejecutar en conjunto con la Dirección de Innovación y Calidad, todas las acciones tendientes a mejorar los servicios de salud, la atención y la satisfacción de la población;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2009)</small>
+
+XI. Apoyar y ejecutar todas las acciones tendientes a mejorar los servicios de salud, la atención y la satisfacción de la población;
 
 XII. Informar al "Director" las acciones que realice en el cumplimiento de sus funciones;
 
@@ -507,11 +575,43 @@ VIII. Difundir, a través del "Organismo", toda la información relacionada con 
 
 IX. Las atribuciones contenidas en el artículo 15 de este reglamento, las que le confieran otras disposiciones jurídicas y aquellas que le encomiende el "Director".
 
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2009)</small>
+
+###### Artículo 25 Bis 1.
+
+El Director de Salud Mental y Adicciones tendrá las siguientes funciones:
+
+I. Coordinar las estrategias de prevención y atención en salud mental a fin de que la población carente de algún esquema de seguridad social en salud, pueda acceder con facilidad;
+
+II. Generar y dar el seguimiento a los datos sobre las enfermedades mentales y las adicciones para la propuesta de políticas públicas que tengan como fin su erradicación;
+
+III. Brindar asistencia especializada y oportuna a víctimas, sus familiares y perpetradores de violencia familiar para su óptima reinserción a la sociedad;
+
+IV. Realizar actividades en materia de investigación científica de las causas y efectos del abuso en el consumo de los distintos fármacos, así como el seguimiento y la evaluación de los programas;
+
+V. Realizar acciones de prevención del abuso y dependencia de tabaco, alcohol y sustancias ilegales, así como la atención integral de intoxicaciones a través de clínicas especificas;
+
+VI. Coordinarse con las instituciones· u organismos para brindar tratamiento contra el abuso de fármacos, así como contar con el registro de las mismas, el cual estará disponible para quien lo solicite;
+
+VII. Coordinar la impartición de los tratamientos para inhibir el abuso en el consumo del alcohol cuando se haya decretado como sanción por alguna autoridad competente;
+
+VIII. Promover programas de capacitación en materia de adicciones, dirigidos a personas cuya actividad se encuentre relacionada con la venta, expendio y consumo de bebidas alcohólicas;
+
+IX. Valorar la constancia que acredite que la persona sancionada cumplió con su obligación de someterse al tratamiento correspondiente, y hacerlo del conocimiento de la autoridad encargada de expedir las licencias de conducir;
+
+X. Realizar gestiones en beneficio de quienes sufren algún padecimiento de salud mental o de adicción a cualquier sustancia, para su rehabilitación y reinserción social;
+
+XI. Consolidar los Centros de Salud Mental Comunitaria, así como el programa de atención psiquiátrica y demás centros especializados en redes de atención para la salud mental que utilice el sistema de referencia;
+
+XII. Las demás que le confieran otras disposiciones jurídicas.
+
 ### Capítulo VI. De las Jurisdicciones Sanitarias, Unidades Hospitalarias y Los Centros de Especialidad
 
-###### Artículo 26.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 2009)</small>
 
-Para la más eficaz atención y eficiente despacho de los asuntos de la competencia del "Organismo", éste contará con Unidades Administrativas Desconcentradas por territorio y función, que le estarán jerárquicamente subordinadas.
+###### Articulo 26.
+
+Para la más eficaz atención y eficiente despacho de los asuntos de la competencia del “Organismo", éste contará con unidades administrativas desconcentradas por territorio y función, que le estarán jerárquicamente subordinadas y que deberán realizar acciones conjuntas para la implementación de las redes de servicio a través del sistema de referencia contrarreferencia.
 
 Son unidades administrativas desconcentradas por territorio, las Jurisdicciones Sanitarias, y por función, las Unidades Hospitalarias y los Centros de Especialidad.
 
@@ -545,7 +645,9 @@ II. Coordinar y operar el sistema de referencia y contrarreferencia de usuarios 
 
 III. Supervisar y asesorar técnicamente a las unidades de salud adscritas a su jurisdicción, realizando evaluaciones permanentes;
 
-IV. Gestionar los trámites administrativos y llevar el control del personal adscrito a la jurisdicción, de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2009)</small>
+
+IV. Gestionar los trámites administrativos y llevar el control de los recursos humanos, financieros, materiales, servicios generales y obra pública, de conformidad con la normatividad aplicable;
 
 V. Integrar el proyecto anual de abastecimiento de los bienes e insumos que requieran las unidades aplicativas de su adscripción, sujetándose al presupuesto autorizado y al cuadro básico de insumos y sujetarlo a la aprobación de las Unidades Administrativas Centrales;
 
@@ -571,11 +673,17 @@ XIV. Las demás funciones que le sean encomendadas.
 
 Las Unidades Hospitalarias son las que otorgan los servicios de segundo nivel de atención médica, en las áreas urbana y rural, conforme al Estudio de Regionalización Operativa, siendo los siguientes:
 
-1. Hospital Regional.- Hospital Metropolitano "Dr. Bernardo Sepúlveda";
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2009)</small>
 
-2. Hospitales Estatales.- Hospital Infantil, Hospital de Ginecobstetricia y Hospital Psiquiátrico; y
+1. Hospitales Regionales.- Hospital Metropolitano "Dr. Bernardo Sepúlveda", Hospital Regional de Alta Especialidad Materno Infantil;
 
-3. Hospitales Generales.- Hospital General de Sabinas Hidalgo, Hospital General de Cerralvo, Hospital General de Montemorelos, Hospital General de Galeana y Hospital General de Dr. Arroyo.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2009)</small>
+
+2. Hospital Estatal.- Hospital Infantil;
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2009)</small>
+
+3. Hospitales Generales.- Hospital General de sabinas Hidalgo, Hospital General de Cerralvo. Hospital General de Montemorelos. Hospital General de Linares, Hospital General de Galeana, Hospital General de Dr. Arroyo.
 
 ###### Artículo 30.
 
@@ -621,11 +729,27 @@ XVIII. Las demás funciones que le sean encomendadas.
 
 Los Centros de Especialidad realizan actividades de atención médica en las áreas de especialidad que le competen, siendo los siguientes:
 
-1. El Centro de Rehabilitación Física y Ortopedia;
+1. El centro de Rehabilitación Física y Ortopedia;
 
-2. El Centro de Especialidades Dentales; y
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2009)</small>
 
-3. El Centro Antirrábico.
+2. El Centro de Especialidades Dentales;
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2009)</small>
+
+3. El Centro antirrábico;
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2009)</small>
+
+4. El Centro Estatal de la Transfusión Sanguínea;
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2009)</small>
+
+5. La Unidad de Rehabilitación Psiquiátrica, y
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2009)</small>
+
+6. El laboratorio Estatal.
 
 ###### Artículo 32.
 
@@ -653,11 +777,47 @@ X. Integrar su proyecto de programa-presupuesto conforme a las normas y lineamie
 
 XI. Administrar el almacén, conforme al sistema de control de inventarios, así como vigilar y realizar el control de calidad y los procesos de recepción y distribución de los bienes y recursos materiales que se le asignen, de acuerdo con las disposiciones aplicables;
 
-XII. Realizar tratándose de la Escuela de Enfermería, los trámites académicos, administrativos, expedición de cartas de pasante y demás constancias que se requieran, así como expedir conjuntamente con el "Director" los títulos a los alumnos que concluyan la carrera de enfermería general;
+XII. (DEROGADA, P.O. 4 DE MARZO DE 2009)
 
 XIII. Colaborar en los programas y actividades de capacitación, adiestramiento y de servicio social de los profesionales, técnicos y auxiliares para la salud, que se lleven a cabo en la Unidad a su cargo; y
 
 XIV. Las demás funciones que le sean encomendadas.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2009)</small>
+
+###### Artículo 32 Bis.
+
+Además de las atribuciones del artículo 32, el Centro Estatal de la Transfusión Sanguínea, tendrá las siguientes:
+
+I. Realizar acciones de promoción y difusión de las campanas para la donación altruista de sangre, plasma, células progenitoras hematopoyéticas y demás componentes sanguíneos con fines terapéuticos;
+
+II. Materializar las acciones del Plan Nacional de Acción de la Organización Panamericana de la Salud para la Seguridad Hematológica, y manejar la información relativa a los donadores de sangre y plasma;
+
+III. Establecer los mecanismos para la obtención o disposición de sangre y sus componentes, así como analizar y realzar las pruebas disponibles para garantizar la seguridad del producto;
+
+IV. Promover los proyectos de investigación relacionados con la hematología en el Estado, en coordinación con el Centro Nacional de la Transfusión Sanguínea;
+
+V. Captar, procesar y almacenar sangre y sus componentes, así como proveer a los establecimientos de salud, públicos o privados, de sangre y sus componentes en el Estado;
+
+VI. Coordinar las acciones de optimización de la sangre con los organismos e instituciones prestadores de servicios de atención médica en la entidad, y
+
+VII. Las demás que le sean conferidas dentro del marco legal.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2009)</small>
+
+###### Artículo 32 Bis 1.
+
+Además de las atribuciones del artículo 32, el Laboratorio Estatal, tendrá las siguientes:
+
+I. Realizar los análisis microbiológicos, bacteriológicos, fisicoquímicos y especializados que le soliciten las diversas áreas del sector salud, así como aquéllos para el cumplimiento de los programas y proyectos del Sistema Federal Sanitario;
+
+II. Expedir dictámenes que le soliciten las autoridades competentes;
+
+III. Prestar servicio en las áreas de su competencia a instituciones de los sectores público, social y privado;
+
+IV. Evaluar y supervisar los laboratorios de análisis clínicos a solicitud de la Subsecretaría de regulación y Fomento Sanitario de la Secretaría de Salud, y
+
+V. Las demás que le confiera otras disposiciones legales aplicables.
 
 ### Capítulo VII. De la Suplencia de los Titulares
 
@@ -714,3 +874,9 @@ GILBERTO MONTIEL AMOROSO
 P.O. 12 DE MAYO DE 2006.
 
 Único. Las modificaciones al Reglamento Interior de Servicios de Salud de Nuevo León, Organismo Público Descentralizado, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MARZO DE 2009.
+
+Primero: Las presentes reformas y modificaciones al Reglamento Interior de Servicios de Salud de Nuevo León, Organismo Público Descentralizado, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo: Los recursos humanos, financieros y materiales asignados al Laboratorio Estatal y al Centro Estatal de la Transfusión Sanguínea en la Secretaría de Salud, deberán transferirse a Servicios de Salud de Nuevo León, O. P. D. de conformidad con el presente Reglamento y de conformidad con las disposiciones aplicables.
