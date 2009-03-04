@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-la-sustanciacion-de-quejas-administrativas-6476
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-30"
-last_updated: "2008-12-30"
+last_updated: "2009-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64769&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-12-19"
 
 REGLAMENTO PARA LA SUSTANCIACION DE QUEJAS ADMINISTRATIVAS DEL IEDF
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DIATRITO FEDERAL: 4 DE MARZO DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 30 de diciembre de 2008.
 
@@ -206,7 +206,9 @@ Para promover, bastará que se acredite interés simple en la causa, siempre y c
 
 La facultad para fincar responsabilidades por infracciones administrativas prescribe en el término de cinco años.
 
-I. El término de la prescripción se empezará a contar a partir de la fecha en que se haya tenido conocimiento de los presuntos hechos conculcatorios de la normativa electoral local.
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2009)</small>
+
+I. El término de la prescripción se empezará a contar a partir de la fecha en que se hayan cometido los presuntos hechos conculcatorios de la norma electoral local.
 
 II. La presentación de una queja o el inicio oficioso de un procedimiento sancionador por parte de esta autoridad, interrumpe el cómputo de la prescripción.
 
@@ -843,3 +845,19 @@ SEGUNDO. Todos aquellos procedimientos que se encuentren en sustanciación o res
 TERCERO. Se abrogan todas las disposiciones administrativas de menor rango que se opongan a las disposiciones del presente Reglamento.
 
 CUARTO. Para su mayor difusión, publíquese el presente Reglamento en los estrados de las oficinas centrales y de las cuarenta sedes distritales, así como a través de la página de Internet de este Instituto.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 4 DE MARZO DE 2009.
+
+LA MODIFICACION EMITIDA POR EL PLENO DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.
+
+DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LOS PUNTOS RESOLUTIVOS DE LA MODIFICACION AL PRESENTE ORDENAMIENTO.
+
+RESUELVE
+
+PRIMERO. Se MODIFICA el Reglamento para la Sustanciación de Quejas Administrativas del Instituto Electoral del Distrito Federal para quedar en los términos dictados en la presente resolución.
+
+SEGUNDO. Se deja intocado el Reglamento indicado, en todo aquello no fue materia de impugnación.
+
+TERCERO. Se ORDENA al Consejo General del Instituto Electoral del Distrito Federal publicar los asuntos resolutivos del presente fallo, así como la modificación al Reglamento para la Sustanciación de Quejas Administrativas del Instituto electoral del Distrito Federal prevista en el resolutivo PRIMERO de esta sentencia, en la Gaceta Oficial del Distrito Federal, en los estrados del propio Instituto y en su pagina de Internet y una vez hecho lo anterior informe a este Tribunal sobre su cumplimiento.
