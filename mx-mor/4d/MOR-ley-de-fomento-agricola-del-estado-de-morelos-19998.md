@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-fomento-agricola-del-estado-de-morelos-19998"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-27"
-last_updated: "2000-09-27"
+last_updated: "2009-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DE FOMENTO AGRICOLA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE MORELOS, PUBLICADA EN P.O. DE 4 DE MARZO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de septiembre de 2000.
 
@@ -1088,3 +1090,17 @@ SECRETARIO GENERAL DE GOBIERNO.
 VÍCTOR MANUEL SAUCEDO PERDOMO.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE MARZO DE 2009.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial '"Tierra y Libertad" del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se abroga la Ley de Fomento Agrícola del Estado de Morelos publicada en el Periódico Oficial '"Tierra y Libertad" del 27 de septiembre del 2000 y se derogan todas las disposiciones que contravengan a la presente Ley.
+
+TERCERO.- El Titular del Poder Ejecutivo Estatal expedirá dentro de los ciento veinte días siguientes a la publicación de esta Ley, los reglamentos fundamentales que previene este cuerpo normativo y las demás disposiciones administrativas necesarias; asimismo, establecerá las adecuaciones de carácter orgánico, estructural y funcional para su debido cumplimiento.
+
+CUARTO.- Todos los convenios y acuerdos a los que se refiere esta Ley, serán celebrados dentro de los ciento ochenta días posteriores a su publicación.
+
+QUINTO.- El organismo descentralizado denominado Centro Estatal de Agro negocios, estará sectorizado a la Secretaría de Desarrollo Agropecuario y entrará en funciones a partir de un año contado a partir de la publicación de la presente Ley.
