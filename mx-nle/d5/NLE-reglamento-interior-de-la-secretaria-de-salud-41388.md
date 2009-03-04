@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-salud-41388"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-12"
-last_updated: "2004-10-12"
+last_updated: "2009-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el martes 12 de octubre de 2004.
 
@@ -79,45 +79,53 @@ a) Dirección de Salud Pública;
 
 b) Dirección de Promoción a la Salud;
 
-c) Dirección de Enseñanza e Investigación;
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2009)</small>
 
-d) Dirección de Información y Estadística en Salud; y
+c) Dirección de Enfermería;
+
+d) (DEROGADO, P.O. 4 DE MARZO DE 2009)
 
 e) Dirección Sectorial entre las Dependencias de Salud, Gestoría y Atención Ciudadana.
 
 III. Subsecretaría de Regulación y Fomento Sanitario, que se integrará por:
 
-a) Dirección de Control Sanitario;
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2009)</small>
 
-b) Dirección de Fomento y Calidad Sanitaria;
+a) Dirección de Control;
 
-c) Dirección de Oficinas Regionales de Regulación Sanitaria;
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2009)</small>
 
-d) Dirección del Centro Estatal de Sanidad;
+b) Dirección de Fomento y Calidad;
+
+c) (DEROGADO, P.O. 4 DE MARZO DE 2009)
+
+d) (DEROGADO, P.O. 4 DE MARZO DE 2009)
 
 e) Coordinación de Enlace y Seguimiento; y
 
 f) Coordinación de Procedimientos de Regulación Sanitaria.
 
-Asimismo, la Secretaría contará con las siguientes unidades administrativas desconcentradas:
+> <small>(ADICIONADA [N. DE E. ANTES SEGUNDO PARRAFO], P.O. 4 DE MARZO DE 2009)</small>
 
-I. Por territorio:
+IV. La Secretaría contará con las siguientes unidades administrativas desconcentradas:
 
-a) Oficinas Regionales de Regulación Sanitaria; y
+a) Por territorio:
 
-b) Jefaturas de Jurisdicción Sanitaria.
+1. Las Oficinas Regionales de Regulación Sanitaria.
 
-II. Por función:
+b) Por función:
 
-a) El Centro Estatal de la Transfusión Sanguínea;
+1. El Centro de Protección y Prevención de Salud Sexual;
 
-b) El Consejo Estatal para la Prevención y Control del Síndrome de la Inmunodeficiencia Adquirida (COESIDA);
+2. El Consejo Estatal para la Prevención y Control del Síndrome de la Inmunodeficiencia Adquirida (COESIDA);
 
-c) El Laboratorio Estatal; y
+3. La Comisión Estatal de Arbitraje Médico (COESAMED), y
 
-d) La Comisión Estatal de Arbitraje Médico.
+4. La Coordinación de Prevención y Control de Accidentes.
 
-Las unidades administrativas desconcentradas, dependerán funcionalmente de la Secretaría en los términos de las disposiciones jurídicas aplicables. Las Oficinas Regionales de Regulación Sanitaria, el Centro Estatal de la Transfusión Sanguínea y el Laboratorio Estatal estarán adscritos a la Subsecretaría de Regulación y Fomento Sanitario, mientras que la Subsecretaría de Prevención y Control de Enfermedades tendrá bajo su organización el Consejo Estatal para la Prevención y Control del Síndrome de la Inmunodeficiencia Adquirida (COESIDA) y se coordinará con las jurisdicciones sanitarias para la aplicación de los programas.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2009)</small>
+
+Las unidades administrativas desconcentradas dependen funcionalmente de la Secretaría en los términos de las disposiciones jurídicas aplicables. Las Oficinas Regionales de Regulación Sanitaria estarán adscritas a la Subsecretaría de Regulación y Fomento Sanitario, mientras que la Subsecretaría de Prevención y Control de Enfermedades tendrá bajo su organización el Centro de Protección y Prevención de Salud Sexual, el Consejo Estatal para la Prevención y Control del Síndrome de la Inmunodeficiencia Adquirida (COESIDA) y la Coordinación de Prevención y Control de Accidentes. La Comisión Estatal de Arbitraje Médico (COESAMED) contará con plena autonomía técnica para emitir sus opiniones, acuerdos y laudos; sus funciones y estructura atenderán a lo establecido en su decreto de creación y reglamento interno propios.
 
 El Ejecutivo del Estado podrá crear otras unidades administrativas que sean necesarias para el cumplimiento de las funciones de la Secretaría.
 
@@ -395,39 +403,29 @@ VI. Las demás que le confiera otras disposiciones legales aplicables o le encom
 
 ###### Artículo 17.
 
-El Titular de la Dirección de Enseñanza e Investigación tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 4 DE MARZO DE 2009)
 
-I. Ejecutar los programas de investigación y enseñanza para la salud, en términos de la legislación sanitaria federal y local, acuerdos, convenios y demás disposiciones jurídicas aplicables;
-
-II. Ejecutar, supervisar y evaluar los programas y actividades de capacitación, adiestramiento y de servicio social de los profesionales, técnicos y auxiliares para la salud;
-
-III. Establecer y mantener actualizado el registro de investigación en salud que se realiza en la entidad, y vigilar que se cumplan las disposiciones aplicables;
-
-IV. Proponer al Subsecretario y promover acciones en materia del ejercicio de las actividades profesionales técnicas y auxiliares para la salud, en los términos de las disposiciones jurídicas aplicables;
-
-V. Promover acciones de coordinación con las autoridades sanitarias y educativas federales y estatales para el fomento y desarrollo de las actividades científicas y tecnológicas en el campo de la salud, en los términos de las disposiciones jurídicas aplicables, y
-
-VI. Las demás que le confiera otras disposiciones legales aplicables o le encomiende el Secretario.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2009)</small>
 
 ###### Artículo 18.
 
-El Titular de la Dirección de Información y Estadística en Salud tendrá las siguientes atribuciones:
+El titular de la Dirección de Enfermería tendrá las siguientes atribuciones:
 
-I. Realizar los procedimientos de captación y difusión de la información estadística en materia de salud, conforme a las disposiciones de la Ley General de Salud y de la Ley de Información Estadística y Geográfica;
+I. Participar y coordinar las políticas que emita el Secretario en materia de enfermería para prevención y atención a la salud, en apego a la legislación correspondiente;
 
-II. Establecer y coordinar el Sistema de Información Básica en materia de Salud, que permita el control y evaluación del Programa Estatal de Salud y de la coordinación programática de las Instituciones del Sistema Estatal de Salud;
+II. Planear, desarrollar, dirigir y evaluar los servicios de enfermería que se proporcionen en el Estado que hayan sido puestos a su consideración de conformidad con la legislación correspondiente;
 
-III. Colaborar en la formulación del Programa Estatal de Salud;
+III. Coordinar el Sistema de información de Enfermería en el Estado;
 
-IV. Apoyar la coordinación programática de las dependencias y entidades que integran el Sistema Estatal de Salud;
+IV. Promover las actividades científicas y tecnológicas en el campo de enfermería, así como su actualización;
 
-V. Solicitar y recabar la información que deban rendir los prestadores de servicios de salud de los sectores público, social y privado, en términos de las disposiciones aplicables, y en su caso notificar a la Subsecretaría de Regulación y Fomento Sanitario los incumplimientos para que se apliquen las sanciones que correspondan;
+V. Coordinar y vigilar las actividades de la Comisión Estatal Interinstitucional de Enfermería, así como aquellas que le sean conferidas con instituciones de los sectores público, privado y social para la ejecución de acciones en materia de enfermería;
 
-VI. Coordinarse con el Sistema para el Desarrollo Integral de la Familia y demás dependencias competentes, para establecer el Sistema de Información integral en materia de asistencia social;
+VI. Participar en la certificación del personal de enfermería en el Estado, tanto técnica como profesional, así como coadyuvar en los trámites académicos y administrativos requeridos, de conformidad con la normatividad aplicable, y
 
-VII. Coordinar los comités de información y estadística sectoriales en materia de salud, y
+VII. Las demás que le confiera otras disposiciones legales aplicables o le encomiende el Secretario.
 
-VIII. Las demás que le confiera otras disposiciones legales aplicables o le encomiende el Secretario.
+VIII. (DEROGADA, P.O. 4 DE MARZO DE 2009)
 
 ###### Artículo 19.
 
@@ -467,7 +465,9 @@ VII. Vigilar que los establecimientos prestadores de atención médica de los se
 
 VIII. Promover la creación del Sistema Estatal de Fármacodependencia; vigilar e integrar la información de reacciones adversas de medicamentos;
 
-IX. Coordinar las actividades del Centro Estatal de la Transfusión Sanguínea y el Laboratorio Estatal, en materia de regulación, control y fomento sanitario;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2009)</small>
+
+IX. Habilitar los laboratorios que participarán en los procesos de control sanitario y vincularse con el Laboratorio Estatal de Servicios de Salud para tal fin;
 
 X. Colaborar con las Dependencias competentes en la regulación y control de la transferencia de tecnología en el área de salud;
 
@@ -479,15 +479,19 @@ XIII. Aplicar las medidas de seguridad e imponer sanciones, así como resolver l
 
 XIV. Las demás que le confiera otras disposiciones legales aplicables o le encomiende el Secretario.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 2009)</small>
+
 ###### Artículo 21.
 
-El Titular de La Dirección de Control Sanitario tendrá las siguientes atribuciones:
+El Titular de la Dirección de Control tendrá las siguientes atribuciones:
 
 I. Ejercer acciones de vigilancia y control sanitario en el Estado, previo acuerdo con el Subsecretario, en las áreas de salubridad general exclusiva, salubridad general concurrente y salubridad local; con el objetivo fundamental de evitar riesgos a la salud de la población, aplicando para ello la legislación sanitaria vigente;
 
-II. Previo acuerdo con el Subsecretario, ordenar, programar y realizar visitas de verificación; dictar y aplicar, en su caso, las medidas de seguridad a que haya lugar, autorizando a los verificadores para ejecutarlas, de conformidad con la legislación sanitaria vigente;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2009)</small>
 
-III. Acordar con la Dirección de Oficinas Regionales de Regulación Sanitaria, las acciones de tipo operativo, de orientación y educación a la población, además de atención de problemas específicos, ejecutando las acciones que se requieran en el área de salubridad general;
+II. Ordenar, programar y realizar visitas de verificación; dictar y aplicar, en su caso, las medidas de seguridad a que haya lugar, autorizando a los verificadores para ejecutarlas, de conformidad con la legislación sanitaria vigente;
+
+III. (DEROGADA, P.O. 4 DE MARZO DE 2009)
 
 IV. Difundir y realizar en el ámbito de su competencia, las acciones sobre regulación y fomento sanitario de los servicios de sanidad internacional, tanto las de carácter migratorio como las relacionadas con las aduanas, los aeropuertos, las poblaciones fronterizas y los demás lugares legalmente autorizados para el tránsito internacional de personas y carga;
 
@@ -495,13 +499,17 @@ V. Proponer los métodos y realizar los procedimientos sobre regulación y fomen
 
 VI. Coordinarse con otras dependencias de nivel federal, estatal y municipal para la detección de problemas específicos en las áreas de competencia de la Subsecretaría de su adscripción;
 
-VII. Expedir los dictámenes sanitarios correspondientes de las actas de verificación que se realicen; y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2009)</small>
+
+VII. Expedir los dictámenes sanitarios para mejor proveer dentro de aquellos procesos de control sanitario que así lo ameriten, y
 
 VIII. Las demás que le confiera otras disposiciones legales aplicables o le encomiende el Secretario.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 2009)</small>
+
 ###### Artículo 22.
 
-El Titular de la Dirección de Fomento y Calidad Sanitaria tendrá las siguientes atribuciones:
+El Titular de la Dirección de Fomento y Calidad tendrá las siguientes atribuciones:
 
 I. Elaborar un programa de fomento y calidad sanitaria que coadyuve a la modificación de los patrones culturales que determinen hábitos inadecuados, costumbres y actitudes relacionados con la salud y con el uso de los servicios que se prestan en beneficio de la salud de la población;
 
@@ -523,35 +531,11 @@ IX. Las demás que le confiera otras disposiciones legales aplicables o le encom
 
 ###### Artículo 23.
 
-El Titular de la Dirección de Oficinas Regionales de Regulación Sanitaria tendrá las siguientes atribuciones:
-
-I. Coordinar la operación y supervisar las acciones realizadas por las diferentes oficinas regionales de Regulación Sanitaria;
-
-II. Acordar con las oficinas regionales de Regulación Sanitaria las acciones de tipo operativo, de orientación y educación a la población, además de la atención a los asuntos específicos de cada oficina regional;
-
-III. Dar seguimiento a las acciones realizadas por las oficinas regionales tendientes a cumplir con los programas que se señalan a nivel estatal, regional y federal;
-
-IV. Realizar los programas de orientación al público que faciliten el cumplimiento de la legislación sanitaria y eviten riesgos de daño a la salud;
-
-V. Dar continuidad a las acciones que en materia de descentralización de las funciones de regulación, control y de fomento sanitario se programen a los municipios, y
-
-VI. Las demás que le confiera otras disposiciones legales aplicables o le encomiende el Secretario.
+(DEROGADO, P.O. 4 DE MARZO DE 2009)
 
 ###### Artículo 24.
 
-El Titular de la Dirección del Centro Estatal de Sanidad tendrá las siguientes atribuciones:
-
-I. Realizar diagnósticos de la problemática de salud relacionados con las patologías ocasionadas por las infecciones de transmisión sexual, dentro del grupo de personas que ejerzan la prostitución, en coordinación con las diferentes dependencias relacionadas en la materia;
-
-II. Realizar las actividades necesarias tendientes a la celebración de acuerdos de coordinación con los municipios, para transferir la ejecución de funciones en materia de control y fomento sanitario de la prostitución, y en su caso, establecer y aplicar mecanismos de seguimiento;
-
-III. Elaborar censos de los establecimientos donde se ejerza la prostitución;
-
-IV. Aplicar la legislación sanitaria vigente a quien ejerza la actividad de prostitución e infrinja lo dispuesto en la misma;
-
-V. Promover, en coordinación con la Dirección de Fomento y Calidad Sanitaria, programas de educación sobre las infecciones y enfermedades de transmisión sexual, y
-
-VI. Las demás que le confiera otras disposiciones legales aplicables o le encomiende el Secretario.
+(DEROGADO, P.O. 4 DE MARZO DE 2009)
 
 ###### Artículo 25.
 
@@ -573,7 +557,9 @@ VI. Las demás que le confiera otras disposiciones legales aplicables o le encom
 
 El Titular de la Coordinación de Procedimientos de Regulación Sanitaria tendrá las siguientes atribuciones:
 
-I. Asesorar a las unidades administrativas adscritas a la Subsecretaría, para la aplicación e interpretación de la legislación sanitaria en materia de bienes y servicios, salubridad local, saneamiento básico, salud ambiental y ocupacional, insumos para la salud, servicios de salud y publicidad;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2009)</small>
+
+I. Asesorar a las unidades administrativas adscritas a la Subsecretaría, para la aplicación de la legislación sanitaria en materia de salubridad general y local;
 
 II. Asesorar al Subsecretario, en la instrumentación de las diligencias necesarias para el trámite de los recursos administrativos que se interpongan en contra de las resoluciones de la Subsecretaría y de las unidades adscritas a ésta;
 
@@ -587,13 +573,17 @@ VI. Las demás que le confiera otras disposiciones legales aplicables o le encom
 
 ### CAPÍTULO VIII. DE LAS UNIDADES ADMINISTRATIVAS DESCONCENTRADAS
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2009)</small>
+
 ###### Artículo 27.
 
-La circunscripción territorial de las Oficinas Regionales de Regulación Sanitaria y de las Jefaturas de Jurisdicción Sanitaria, será determinada por el Secretario, mediante Acuerdo que se publicará en el Periódico Oficial del Estado.
+La circunscripción territorial de las Oficinas Regionales de Regulación Sanitaria es determinada mediante acuerdo secretarial publicado en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 2009)</small>
 
 ###### Artículo 28.
 
-El Titular de las Oficinas Regionales de Regulación Sanitaria tendrá las siguientes atribuciones:
+Cada titular de las Oficinas Regionales de Regulación Sanitaria tendrá las siguientes atribuciones:
 
 I. Ejercer las funciones de regulación, control y fomento sanitario en materia de salubridad local y general, conforme a la legislación sanitaria y demás disposiciones aplicables;
 
@@ -601,7 +591,9 @@ II. Vigilar el cumplimiento de la Ley General de Salud, la Ley Estatal de Salud,
 
 III. Realizar las acciones de los programas de orientación al público, que faciliten el cumplimiento de la legislación sanitaria y eviten riesgos de daño a la salud;
 
-IV. Programar y realizar visitas de verificación a los establecimientos, locales, vehículos, así como el muestreo de productos y aplicación de las medidas de seguridad que procedan, en las materias de salubridad general y local, informando a la Dirección de Oficinas Regionales de Regulación Sanitaria, el resultado de las actas que se instrumenten al efecto y en su caso, ejecutar las sanciones que imponga la Subsecretaría;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2009)</small>
+
+IV. Programar y realizar visitas de verificación a los establecimientos, locales, vehículos, así como el muestreo de productos y aplicación de las medidas de seguridad que procedan, en las materias de salubridad general y local, informando al Subsecretario, el resultado de las actas que se instrumenten al efecto y en su caso, ejecutar las sanciones correspondientes;
 
 V. Integrar y llevar el control de expedientes administrativos correspondientes a la circunscripción territorial de la oficina;
 
@@ -613,61 +605,35 @@ VIII. Las demás que le confiera otras disposiciones legales aplicables o le enc
 
 ###### Artículo 29.
 
-El Titular de las Jefaturas de Jurisdicción Sanitaria tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 4 DE MARZO DE 2009)
 
-I. Prestar los servicios de atención médica a población abierta, conforme al Programa de Atención a la Salud a Población Abierta, en los términos de la normatividad técnica y administrativa que se expida en materia de atención médica, salud pública, enseñanza e investigación para la salud;
-
-II. Instrumentar y operar el sistema de referencia y contrarreferencia de usuarios de los servicios de salud a población abierta;
-
-III. Supervisar y asesorar técnicamente a las unidades de salud adscritas a su jurisdicción, realizando evaluaciones permanentes;
-
-IV. Gestionar los trámites administrativos y llevar el control del personal adscrito a la jurisdicción, de conformidad con las disposiciones aplicables;
-
-V. Integrar el proyecto anual de abastecimiento de los bienes e insumos que requieran las unidades aplicativas de su adscripción, sujetándose al presupuesto autorizado y al cuadro básico de insumos y sujetarlo a la aprobación de las unidades administrativas centrales;
-
-VI. Integrar el anteproyecto de programa presupuesto jurisdiccional, conforme a las normas y lineamientos correspondientes;
-
-VII. Llevar el control de ingresos y de las cuotas de recuperación que se obtengan en las unidades aplicativas adscritas a su jurisdicción, de conformidad con el sistema de cuotas de recuperación;
-
-VIII. Proporcionar a la Dirección de Administración los estados contables y financieros de la jurisdicción;
-
-IX. Operar el Sistema de Información Básica en Salud, de conformidad con la normatividad aplicable y enviar los reportes correspondientes para su integración a la Dirección de Información y Estadística en Salud;
-
-X. Mantener actualizado el inventario de muebles e inmuebles de las unidades aplicativas de su jurisdicción;
-
-XI. Mantener en buen estado de funcionamiento la planta física y vehicular de las unidades aplicativas de su responsabilidad;
-
-XII. Administrar los almacenes, conforme al sistema de control de inventarios, así como vigilar y realizar el control de calidad y los procesos de recepción y distribución de los bienes y recursos materiales que se le asignen, de acuerdo con las disposiciones aplicables;
-
-XIII. Realizar las acciones que le sean desconcentradas, y
-
-IX. Las demás que le confiera otras disposiciones legales aplicables o le encomiende el Secretario.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2009)</small>
 
 ###### Artículo 30.
 
-El Titular del Centro Estatal de la Transfusión Sanguínea tendrá las siguientes atribuciones:
+El titular del Centro de Protección y Prevención de Salud Sexual tendrá las siguientes atribuciones:
 
-I. Realizar acciones de promoción y difusión de las campañas para la donación altruista de sangre y plasma;
+I. Promover, ejecutar y coordinar acciones, programas y proyectos para la prevención y protección de la salud sexual, así como formular diagnósticos sobre el ejercicio del sexo servicio y promover entre la población de alto riesgo, campanas de fomento sanitario tendentes a la prevención y atención de infecciones de transmisión sexual;
 
-II. Concentrar y manejar la información relativa a los donadores de sangre y plasma;
+II. Participar en el sistema estatal de vigilancia epidemiológica y promover con las instancias correspondientes la atención médica ambulatoria y hospitalaria a la comunidad en materia sexual y el apoyo psicológico a los sujetos de los delitos sexuales;
 
-III. Capacitar y formar recursos humanos en la materia;
+III. Promover la equidad de género y fomentar un estilo de vida saludable en la comunidad, y
 
-IV. Realizar el control y vigilancia sanitaria de los establecimientos dedicados a la obtención, recolección, análisis, fraccionamiento, conservación, distribución y aplicación de la sangre humana y sus componentes;
+IV. Las demás que le confiera otras disposiciones legales aplicables o le encomiende el Secretario.
 
-V. Programar y realizar visitas de verificación, así como el muestreo de productos y aplicación de las medidas de seguridad que procedan y en su caso, ejecutar las sanciones que imponga la Subsecretaría, conforme a la Ley General de Salud, sus reglamentos, convenios y acuerdos que se celebren con el Gobierno Federal y las demás disposiciones aplicables;
+V. (DEROGADA, P.O. 4 DE MARZO DE 2009)
 
-VI. Tramitar, en materia de regulación, control y fomento sanitario las solicitudes de autorizaciones sanitarias para establecimientos y responsables de bancos de sangre y/o servicios de transfusión, conforme a la Ley General de Salud, convenios y acuerdos que se celebren con el Gobierno Federal y las demás disposiciones aplicables;
+VI. (DEROGADA, P.O. 4 DE MARZO DE 2009)
 
-VII. Establecer los mecanismos para la obtención o disposición de sangre y sus componentes, así como analizar y realizar las pruebas disponibles para garantizar la seguridad del producto;
+VII. (DEROGADA, P.O. 4 DE MARZO DE 2009)
 
-VIII. Promover los proyectos de investigación relacionados con la hematología en el Estado, en coordinación con el Centro Nacional de la Transfusión Sanguínea;
+VIII. (DEROGADA, P.O. 4 DE MARZO DE 2009)
 
-IX. Captar, procesar y almacenar sangre y sus componentes, así como proveer a los establecimientos de salud, públicos o privados de sangre y sus componentes en el Estado;
+IX. (DEROGADA, P.O. 4 DE MARZO DE 2009)
 
-X. Coordinar las acciones de optimización de la sangre con los organismos e instituciones prestadoras de servicios de atención médica en la entidad, y
+X. (DEROGADA, P.O. 4 DE MARZO DE 2009)
 
-XI. Las demás que le confiera otras disposiciones legales aplicables o le encomiende el Secretario.
+XI. (DEROGADA, P.O. 4 DE MARZO DE 2009)
 
 ###### Artículo 31.
 
@@ -687,19 +653,27 @@ VI. Coordinar los esfuerzos de las distintas dependencias tanto del Gobierno Fed
 
 VII. Las demás que le confiera otras disposiciones legales aplicables o le encomiende el Secretario.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2009)</small>
+
 ###### Artículo 32.
 
-El Titular del Laboratorio Estatal tendrá las siguientes atribuciones:
+El titular de la Coordinación de Prevención y Control de Accidentes, tendrá las siguientes funciones:
 
-I. Realizar los análisis microbiológicos, bacteriológicos, fisicoquímicos y especializados, que le soliciten las Unidades Administrativas de la Secretaría;
+I. Proponer y desarrollar, en el ámbito de su competencia, las políticas y acciones conducentes a prevenir accidentes y aminorar las lesiones que por los mismos se sufran;
 
-II. Expedir los dictámenes que le soliciten las autoridades competentes;
+II. Propiciar la disminución en la magnitud y trascendencia de daños a la salud por accidentes, atenuando las lesiones por causa externa no intencionales, así como de la morbi-mortalidad atribuibles a los mismos en la población neoleonesa;
 
-III. Prestar servicio en las áreas de su competencia a instituciones de los sectores público, social y privado;
+III. Participar en el Consejo Estatal para la Prevención de Accidentes a fin de establecer la coordinación de acciones con instituciones públicas, sociales y privadas;
 
-IV. Evaluar y supervisar los laboratorios de análisis clínicos que le señale el Subsecretario de Regulación y Fomento Sanitario, y
+IV. Crear una base de datos con reportes de lesiones por accidentes así como fortalecer sus sistemas de información para el uso oportuno;
 
-V. Las demás que le confiera otras disposiciones legales aplicables o le encomiende el Secretario.
+V. Coordinarse con los demás programas que se desarrollen en los distintos niveles de gobierno para potencializar las acciones en materia de prevención de accidentes;
+
+VI. Desarrollar instrumentos de educación para la salud y comunicación social para la prevención de accidentes;
+
+VII. Implementar campañas, simulacros y capacitaciones para la concientización y aprendizaje de métodos de prevención contra accidentes, y
+
+VIII. Las demás que le encomienden sus superiores jerárquicos.
 
 ###### Artículo 33.
 
@@ -804,3 +778,21 @@ RUBÉN EDUARDO MARTÍNEZ DONDÉ
 EL C. SECRETARIO DE SALUD DEL ESTADO
 
 GILBERTO MONTIEL AMOROSO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE MARZO DE 2009.
+
+PRIMERO: Las presentes reformas al Reglamento Interior de la Secretaría de Salud, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Los recursos humanos, financieros y materiales de la estructura de la organización con los que cuenta actualmente la Secretaría de Salud se ajustarán de acuerdo a las modificaciones del presente Reglamento, a más tardar a los 90 días naturales de que entre en vigor por las áreas correspondientes.
+
+La Dirección de Enfermería contará copn los recursos que correspondían al Departamento de Enfermería.
+
+Los recursos de la Dirección del Centro Estatal de Sanidad pasarán al Centro de Protección y Prevención de Salud Sexual.
+
+La Coordinación de Prevención y Control de Accidentes contará con los recursos que se allegue por motivo de trasferencias (sic) federales y/o disposiciones estatales.
+
+Los recursos de la Dirección de Enseñanza e Investigación, de las Jefaturas de Jurisdicciones, así como las del Laboratorio Estatal y las del Centro Estatal de la Transfusión Sanguínea se transferirán al Organismo Público Descentralizado denominado Servicios de Salud de Nuevo León.
+
+TERCERO: El Reglamento Interior de Servicios de Salud de Nuevo León, Organismo Público Descentralizado deberá modificarse para ajustarse a las presentes reformas en un período que no exceda de 15 días hábiles a partir de la publicación del presente Reglamento.
