@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-proteccion-al-ambiente-y-del-equilibrio-47982"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-15"
-last_updated: "2005-12-15"
+last_updated: "2009-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "YUC"
 
 REGLAMENTO DE PROTECCION AL AMBIENTE Y DEL EQUILIBRIO ECOLOGICO DEL MUNICIPIO DE MERIDA, YUCATAN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCIÓN AL AMBIENTE Y DEL EQUILIBRIO ECOLÓGICO DEL MUNICIPIO DE MÉRIDA, PUBLICADO EN LA G.M. DE 4 DE MARZO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 15 de diciembre de 2005.
 
@@ -1458,3 +1460,15 @@ PRESIDENTE MUNICIPAL
 C. LEANDRO MARTÍNEZ GARCÍA
 
 SECRETARIO MUNICIPAL
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE MARZO DE 2009.
+
+PRIMERO.- El presente Reglamento entrara en vigor el día siguiente de su publicación en la Gaceta Municipal del Ayuntamiento de Mérida.
+
+SEGUNDO.- Se abroga el Reglamento de Protección al Ambiente del Municipio de Mérida, publicado en el Diario Oficial del Gobierno del Estado el 15 de diciembre del 2005 y se derogan las disposiciones reglamentarias y administrativas de igual o menor rango que se opongan al presente Reglamento.
+
+TERCERO.- A las personas físicas y morales, se les concede un plazo de sesenta días a partir de la fecha en que entre en vigor el presente reglamento para que puedan ajustarse a las disposiciones del mismo.
+
+CUARTO.- El Ayuntamiento de Mérida creará el Consejo Consultivo de Protección al Medio Ambiente en un término no mayor de sesenta días hábiles a partir de la publicación del presente reglamento en la Gaceta Municipal del Ayuntamiento de Mérida.
