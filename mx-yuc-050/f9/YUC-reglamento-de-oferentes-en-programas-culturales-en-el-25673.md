@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-oferentes-en-programas-culturales-en-el-25673"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-20"
-last_updated: "2002-08-20"
+last_updated: "2009-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 ---
 # REGLAMENTO DE OFERENTES EN PROGRAMAS CULTURALES EN EL MUNICIPIO DE MERIDA
 
-REGLAMENTO DE OFERENTES EN PROGRAMAS CULTURALES EN EL MUNICIPIO DE MERIDA
+REGLAMENTO DE OFERENTES EN PROGRAMAS CULTURALES EN EL MUNICIPIO DE MÉRIDA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DE OFERENTES EN PROGRAMAS PARA LA PROMOCIÓN ECONÓMICA, ARTESANAL Y TURÍSTICA DEL MUNICIPIO DE MÉRIDA, PUBLICADO EN LA G.M. DE 4 DE MARZO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: ABROGADO.
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el martes 20 de agosto de 2002.
 
@@ -316,3 +318,15 @@ PRESIDENTA MUNICIPAL
 C.P. JOSÉ PERFECTO PINTO MATOS
 
 SECRETARIO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.M. 4 DE MARZO DE 2009.
+
+PRIMERO.- Se abroga el Reglamento de Oferentes en Programas Culturales en el Municipio de Mérida, publicado en el Diario Oficial del Gobierno del Estado de fecha veinte de agosto de dos mil dos.
+
+SEGUNDO.- El presente Reglamento entrará en vigor a partir del día siguiente al de su publicación en la Gaceta Municipal.
+
+TERCERO.- Los asuntos que estuvieren pendientes de resolver en la fecha en que entre en vigor este Reglamento, se seguirán tramitando y se concluirán conforme a las disposiciones del Reglamento de Oferentes en Programas Culturales en el Municipio de Mérida, publicado en el Diario Oficial del Gobierno del Estado de fecha veinte de agosto de dos mil dos.
+
+CUARTO.- A las personas físicas o morales, se les concede un plazo de treinta días hábiles contados a partir de la fecha en que entre en vigor el presente Reglamento para que puedan ajustarse a las disposiciones del mismo.
