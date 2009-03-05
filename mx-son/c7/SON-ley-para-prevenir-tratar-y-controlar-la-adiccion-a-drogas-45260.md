@@ -4,7 +4,7 @@ identifier: "SON-ley-para-prevenir-tratar-y-controlar-la-adiccion-a-drogas-45260
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-23"
-last_updated: "2005-06-23"
+last_updated: "2009-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45260&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY PARA PREVENIR, TRATAR Y CONTROLAR LA ADICCION A DROGAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PREVENCION, TRATAMIENTO, REHABILITACION Y CONTROL DE ADICCIONES DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 5 DE MARZO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en la Tercera Sección del Boletín Oficial del Estado de Sonora, el jueves 23 de junio de 2005.
 
@@ -332,3 +334,19 @@ El reglamento y los lineamientos a que se refiere esta Ley deberán ser expedido
 COMUNIQUESE AL TITULAR DEL PODER EJECUTIVO PARA SU PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.- AL MARGEN CENTRAL DERECHO UN SELLO CON EL ESCUDO NACIONAL QUE DICE: ESTADOS UNIDOS MEXICANOS.- H. CONGRESO DEL ESTADO DE SONORA.- SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- HERMOSILLO, SONORA, 9 DE JUNIO DE 2005.- DIPUTADO PRESIDENTE.- C. FRUCTUOSO MENDEZ VALENZUELA.- RUBRICA.- DIPUTADO SECRETARIO.- C. JUAN BAUTISTA VALENCIA DURAZO.- RUBRICA.- DIPUTADO SECRETARIO.- C. FRANCISCO VILLANUEVA SALAZAR.- RUBRICA.
 
 POR TANTO, MANDO SE PUBLIQUE EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DE EL DEBIDO CUMPLIMIENTO.- DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS DIEZ DIAS DEL MES DE JUNIO DEL AÑO DOS MIL CINCO.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- EDUARDO BOURS CASTELO.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- ROBERTO RUIBAL ASTIAZARAN.- RUBRICA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 5 DE MARZO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley para Prevenir, Tratar y Controlar la Adicción a Drogas.
+
+###### ARTÍCULO TERCERO.
+
+El reglamento de esta ley deberá ser expedido a más tardar en ciento veinte días naturales contados a partir de la entrada en vigor del presente ordenamiento. Los lineamientos deberán emitirse treinta días naturales a partir de la entrada en vigor del reglamento.
