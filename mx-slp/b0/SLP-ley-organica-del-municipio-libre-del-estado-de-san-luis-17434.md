@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2008-10-04"
+last_updated: "2009-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2009.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1327,13 +1327,17 @@ XII. Desarrollo Rural y Asuntos Indígenas;
 
 XIII. Cultura, Recreación y Deporte;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2009)</small>
 
-XIV. Servicios, y
+XIV. Servicios;
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2009)</small>
 
-XV. De Atención a Grupos Vulnerables.
+XV. De Atención a Grupos Vulnerables, y
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2009)</small>
+
+XVI. De Derechos Humanos.
 
 ###### ARTICULO 90.
 
@@ -2083,7 +2087,7 @@ Lo tendrá entendido el Ejecutivo del Estado y lo hará publicar, circular y obe
 
 DADO en el Salón de Sesiones del H. Congreso del Estado, el día veintinueve del mes de junio de dos mil.
 
-Diputado Presidente: Eugenio Guadalupe Govea Arcos, Diputado Secretario: Santos Gonzalo Guzmán Salinas, Diputado Secretario: Jorge Ricardo Domínguez Casanova (Rúbricas).
+Diputado presidente: Eugenio Guadalupe Govea Arcos, Diputado Secretario: Santos Gonzalo Guzmán Salinas, Diputado Secretario: Jorge Ricardo Domínguez Casanova (Rúbricas).
 
 Por tanto, mando se cumpla y ejecute el presente decreto y que todas las autoridades lo hagan cumplir y guardar y al efecto se imprima, publique y circule a quienes corresponda.
 
@@ -2202,3 +2206,9 @@ P.O. 4 DE OCTUBRE DE 2008.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones legales y administrativas que se opongan a este Decreto.
+
+P.O. 5 DE MARZO DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Cada uno de los ayuntamientos de la Entidad, conforme sus facultades, tomará las determinaciones conducentes para la conformación de la Comisión de Derechos Humanos; contando para tal fin con un término de treinta días a partir de la entrada en vigencia del presente Decreto.
