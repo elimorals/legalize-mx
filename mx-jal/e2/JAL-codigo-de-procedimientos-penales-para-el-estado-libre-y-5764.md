@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "2009-02-07"
+last_updated: "2009-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -3183,7 +3183,7 @@ En toda recusación se oirá al Ministerio Público. Las excusas y recusaciones 
 
 ###### Art. 403.
 
-En todo juicio criminal, el procesado podrá recusar sin causa, una sola vez, en cada instancia, a un Juez o Magistrado. Interpuesta la recusación en tiempo y forma será admitida de plano.
+(DEROGADO, P.O. 5 DE MARZO DE 2009)
 
 ### CAPITULO VI. Suspensión del Procedimiento
 
@@ -3884,3 +3884,7 @@ P.O. 7 DE FEBRERO DE 2009.
 PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Hasta en tanto se cuente con suficiencia presupuestal las funciones encomendadas a la Subprocuraduría de Servicios Jurídicos Asistenciales se podrán realizar por conducto de auxiliaries (sic) sociales comisionados o adscritos a ésta.
+
+P.O. 5 DE MARZO DE 2009.
+
+ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
