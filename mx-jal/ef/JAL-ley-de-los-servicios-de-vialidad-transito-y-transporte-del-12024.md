@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2008-05-24"
+last_updated: "2009-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2009.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -2453,6 +2453,12 @@ V. Por moverse de lugar en un accidente de colisión, salvo en caso de llegar a 
 
 VI. No disponer de un seguro que cubra los posibles daños a terceros, dicha sanción será conmutada si el infractor presenta dentro de los primeros 20 días la póliza de seguro contra daños a terceros a la dependencia del Ejecutivo del Estado competente en materia de vialidad, tránsito y transporte o la que señale el reglamento de la Ley de los Servicios de Vialidad, Tránsito y Transporte del Estado de Jalisco.
 
+> <small>(ADICIONADO. P.O. 5 DE MARZO DE 2009)</small>
+
+###### Artículo 166 Bis.
+
+Se sancionará con multa de doscientos a cuatrocientos días de salario mínimo general, vigente en la zona económica donde se cometa la infracción, a quien se estacione o circule por corredores exclusivos para el transporte público.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Artículo 167.
@@ -2489,7 +2495,7 @@ VII. Al conductor que maneje en sentido contrario o, al que injustificadamente i
 
 Se sancionará con multa equivalente a veinte días de salario mínimo general, vigente en la zona económica donde se cometa la infracción, al conductor de servicio de transporte público que realice servicio distinto al autorizado, en vehículos destinados al servicio público.
 
-(ADICIONADO, P.O. 12 DE ENERO DE 2006) (F.DE E., P.O. 6 DE ABRIL DE 2006)
+(ADICIONADO, P.O. 12 DE ENERO DE 2006) (F. DE E., P.O. 6 DE ABRIL DE 2006)
 
 Artículo 168 BIS.- Se sancionará con multa equivalente a treinta días de salario mínimo general, vigente en la zona económica en donde se cometa la infracción, a la persona que conduzca un vehículo de motor y se le detecten de cien a ciento cincuenta miligramos de alcohol por cien mililitros de sangre o bajo el influjo de estupefacientes o psicotrópicos, cuando cometa además cualquier otra infracción a esta ley o su reglamento.
 
@@ -3040,3 +3046,7 @@ DECRETO NUMERO 21742/LVII/06
 P.O. 24 DE MAYO DE 2008.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 5 DE MARZO DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
