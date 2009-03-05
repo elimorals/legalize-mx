@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2008-06-26"
+last_updated: "2009-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE MARZO DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -1436,9 +1436,11 @@ XXX. Turismo.
 
 1. Las Comisiones contarán con un presidente y dos secretarios.
 
+> <small>(REFORMADO, D.O.F. 5 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 92.
 
-1. Durante su encargo, el Presidente, los Vicepresidentes y los Secretarios de la Cámara, no actuarán en ninguna comisión ordinaria o especial.
+1. Durante su encargo, el Presidente y los Vicepresidentes de la Cámara, no formarán parte de ninguna comisión ordinaria o especial.
 
 ###### ARTICULO 93.
 
@@ -1596,13 +1598,61 @@ g) Las demás que esta Ley, el Reglamento y los acuerdos de la Mesa Directiva le
 
 1. La Cámara tendrá una contraloría interna, cuyo titular será designado por mayoría de los senadores presentes en el Pleno a propuesta de la Junta de Coordinación Política. El contralor podrá ser removido de su cargo por causa grave, calificada por el voto de la mayoría de los senadores presentes en el Pleno.
 
+> <small>(ADICIONADO, D.O.F. 5 DE MARZO DE 2009)</small>
+
+2. Las ausencias temporales del contralor interno mayores de treinta días naturales, serán suplidas por el titular de la subcontraloría que corresponda, en el orden de prelación que señala el párrafo 2 del artículo 113, quien fungirá como encargado del despacho.
+
+> <small>(ADICIONADO, D.O.F. 5 DE MARZO DE 2009)</small>
+
+3. En su caso, el encargado del despacho realizará las funciones que esta ley y demás ordenamientos aplicables determinen para el titular de la Contraloría Interna.
+
+> <small>(REFORMADO, D.O.F. 5 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 113.
 
-1. La Contraloría tendrá a su cargo la auditoría interna del ejercicio del presupuesto de egresos de la Cámara, incluyendo los recursos asignados a los grupos parlamentarios, los que deberán presentar a la Contraloría un informe semestral con la debida justificación del uso y destino de los recursos que la Cámara les otorgue. La Contraloría auditará a los grupos parlamentarios respecto del ejercicio de los recursos que les sean asignados por la Cámara.
+1. La Contraloría Interna, tendrá las siguientes atribuciones:
 
-2. La Contraloría presentará al Pleno, por conducto de la Mesa Directiva, un informe semestral sobre el ejercicio del presupuesto de egresos de la Cámara, el cual, una vez aprobado, será remitido por el Presidente de la Cámara a la entidad de fiscalización superior de la Federación para los efectos legales conducentes.
+a) Realizar la auditoría interna del ejercicio del presupuesto de egresos de la Cámara. También auditará a los grupos parlamentarios respecto del ejercicio de los recursos que les sean asignados por la Cámara, para lo cual deberán presentar un informe semestral;
 
-3. Las resoluciones del Contralor se darán a conocer previamente a la Mesa Directiva.
+b) Presentar al Pleno por conducto de la Mesa Directiva un informe semestral sobre el resultado de la auditoría al ejercicio del presupuesto de egresos de la Cámara, el cual, una vez aprobado, será remitido por el Presidente de la misma a la Auditoría Superior de la Federación para los efectos legales conducentes;
+
+c) Evaluar la gestión de las unidades de apoyo técnico, administrativo y parlamentario de la Cámara, para medir la eficiencia, eficacia, economía y calidad en su desempeño, así como los resultados e impacto de los programas y recursos ejercidos, presentando ante los órganos de gobierno correspondientes los informes de resultados;
+
+d) Proporcionar asesoría a los servidores públicos de la Cámara y coordinar la recepción de sus declaraciones de situación patrimonial, así como vigilar su registro y dar seguimiento a la evolución patrimonial, en términos de lo previsto en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+
+e) Recibir y dar trámite a las quejas y denuncias que se formulen con motivo del presunto incumplimiento de las obligaciones administrativas de los servidores públicos de la Cámara, establecidas en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+
+f) Iniciar y desahogar los procedimientos administrativos derivados de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, en contra de los servidores públicos de la Cámara por incumplimiento de las obligaciones establecidas en dicha ley, e imponer las sanciones correspondientes;
+
+g) Admitir, desahogar y resolver los recursos que se interpongan en contra de sus resoluciones;
+
+h) Intervenir en los procesos licitatorios de la Cámara, en el ámbito de sus atribuciones, conforme a la normatividad que la rige, respecto de la adquisición, arrendamiento, prestación de servicios, obras públicas y enajenación de bienes muebles e inmuebles;
+
+i) Admitir, desahogar y resolver las inconformidades o conciliaciones que se presenten con motivo de los procesos licitatorios, en términos de la normatividad aplicable;
+
+j) Participar conforme a sus atribuciones en los actos de entrega-recepción, así como en las actas administrativas en las que soliciten su intervención los órganos directivos, comisiones y comités del Senado, o las dependencias de la propia Cámara;
+
+k) Realizar la defensa jurídica de las resoluciones que emita, cuando sean impugnadas ante los tribunales federales competentes;
+
+l) Expedir con la intervención de su titular, la certificación de los documentos que obren en sus archivos cuando así se requiera;
+
+m) Emitir las normas administrativas internas, en el ámbito de sus atribuciones, que estime convenientes para regular su funcionamiento, las cuales deberán ser previamente sancionadas por la Mesa Directiva, y
+
+n) Las demás que determine la Mesa Directiva.
+
+2. La Contraloría Interna se auxiliará de las áreas que a continuación se enlistan, cuyas funciones se organizarán y desarrollarán en los ordenamientos administrativos y manuales correspondientes:
+
+a) Subcontraloría de Auditoría;
+
+b) Subcontraloría de Responsabilidades, Quejas y Denuncias;
+
+c) Subcontraloría de Evaluación de la Gestión Administrativa;
+
+d) Subcontraloría de Evaluación de la Gestión Parlamentaria, y
+
+e) Coordinación de Auditoría a Grupos Parlamentarios.
+
+3. Las resoluciones del contralor interno se darán a conocer previamente a la Mesa Directiva por conducto de su Presidente.
 
 ###### ARTICULO 114.
 
@@ -2145,3 +2195,15 @@ Artículo Segundo. Para los efectos de lo dispuesto por el Artículo Séptimo Tr
 D.O.F. 26 DE JUNIO DE 2008.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE MARZO DE 2009.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 92 DE LA LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE MARZO DE 2009.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTICULOS 112 Y 113 DE LA LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
