@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-bioseguridad-de-organismos-60020"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-19"
-last_updated: "2008-03-19"
+last_updated: "2009-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60020&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-03-14"
 
 REGLAMENTO DE LA LEY DE BIOSEGURIDAD DE ORGANISMOS GENETICAMENTE MODIFICADOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MARZO DE 2009.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 19 de marzo de 2008.
 
@@ -1009,9 +1009,65 @@ La resolución administrativa que se dicte, señalará, además de las infraccio
 
 ### Capítulo Único
 
+> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2009)</small>
+
 ###### Artículo 65.
 
-El régimen de protección especial del maíz se conformará por las disposiciones jurídicas relativas a la bioseguridad que establezca la autoridad.
+Las actividades relacionadas con el maíz genéticamente modificado se sujetarán al presente Título, a las demás disposiciones generales aplicables a los OGM, así como a lo previsto en otros instrumentos que establezca la autoridad.
+
+> <small>(ADICIONADO, D.O.F. 6 DE MARZO DE 2009)</small>
+
+###### Artículo 66.
+
+Los particulares, al realizar las solicitudes de permiso de liberación experimental de maíz genéticamente modificado, adicionalmente a lo establecido en el artículo 16 del presente Reglamento, deberán proporcionar lo siguiente:
+
+I. Los materiales de referencia que permitan la detección, identificación y cuantificación del maíz genéticamente modificado que pretenda liberarse, y
+
+II. La información que les requieran las autoridades para determinar la procedencia de etapas de liberación subsecuentes.
+
+> <small>(ADICIONADO, D.O.F. 6 DE MARZO DE 2009)</small>
+
+###### Artículo 67.
+
+No se permitirá la experimentación ni la liberación al ambiente de maíz genéticamente modificado que contenga características que impidan o limiten su uso o consumo humano o animal, o bien su uso en procesamiento de alimentos para consumo humano.
+
+> <small>(ADICIONADO, D.O.F. 6 DE MARZO DE 2009)</small>
+
+###### Artículo 68.
+
+La SAGARPA, previo al otorgamiento del permiso de liberación experimental, deberá verificar que para el organismo que se pretende liberar no exista una variedad convencional alternativa. En caso afirmativo, la SAGARPA llevará a cabo el análisis comparativo entre las diferentes opciones tecnológicas. El resultado de este análisis deberá ser elemento adicional al estudio de evaluación del riesgo para resolver la solicitud de permiso.
+
+> <small>(ADICIONADO, D.O.F. 6 DE MARZO DE 2009)</small>
+
+###### Artículo 69.
+
+En aquellos casos en que se considere que el desarrollo tecnológico propuesto por los particulares, mediante una solicitud de permiso de liberación, sea contrario al artículo 2 de la Ley Federal de Competencia Económica o que pudiera facilitar la realización de las prácticas prohibidas por los artículos 8, 9 y 10 del mismo ordenamiento legal, se deberá informar dicho suceso, de manera puntual y oportuna, a la Comisión Federal de Competencia, para los efectos legales a que haya lugar.
+
+> <small>(ADICIONADO, D.O.F. 6 DE MARZO DE 2009)</small>
+
+###### Artículo 70.
+
+La SAGARPA y la SEMARNAT deberán promover la conservación in situ de razas y variedades de maíces criollos y sus parientes silvestres a través de los programas de subsidio u otros mecanismos de fomento para la conservación de la biodiversidad, sin que ello implique autorización alguna para el cambio del uso de suelo de forestal a agrícola.
+
+Las dependencias señaladas en el párrafo anterior deberán fomentar el uso de semillas de maíces criollos en proyectos estratégicos que destinen su producción a mercados específicos y a la atención de oportunidades comerciales.
+
+> <small>(ADICIONADO, D.O.F. 6 DE MARZO DE 2009)</small>
+
+###### Artículo 71.
+
+Las autoridades competentes en materia de bioseguridad promoverán el desarrollo de laboratorios para la detección, identificación y cuantificación de maíz genéticamente modificado.
+
+> <small>(ADICIONADO, D.O.F. 6 DE MARZO DE 2009)</small>
+
+###### Artículo 72.
+
+En los casos en que las autoridades determinen la presencia no permitida de material genéticamente modificado en razas, variedades y parientes silvestres de maíz, deberán establecer medidas para eliminar, controlar o mitigar dicha presencia. Para el caso de las razas y variedades, la atribución corresponderá a la SAGARPA, y para el caso de los parientes silvestres, a la SEMARNAT.
+
+> <small>(ADICIONADO, D.O.F. 6 DE MARZO DE 2009)</small>
+
+###### Artículo 73.
+
+Las actividades relacionadas con la protección especial del maíz contarán con un apartado específico en el Sistema Nacional de Información sobre Bioseguridad.
 
 ## TRANSITORIOS
 
@@ -1023,7 +1079,9 @@ TERCERO. Los titulares de SALUD, la SEMARNAT y la SAGARPA, publicarán en el Dia
 
 CUARTO. Para dar cabal cumplimiento a lo dispuesto en el artículo 51, fracción III, inciso b) y 52, fracción III, de este Reglamento, la SEMARNAT deberá incorporar en el sistema informático que determine la Secretaría Ejecutiva, la información referente a las áreas naturales protegidas creadas hasta el día en que entre en vigor el presente Reglamento. Para tal efecto, contará con un plazo de tres meses contados a partir del día siguiente al que entre en vigor este Reglamento.
 
-QUINTO. Sin perjuicio de lo previsto en el artículo octavo transitorio de este Reglamento, las solicitudes de permisos presentadas con antelación a su entrada en vigor y aquellas que se presenten en tanto no se emitan los acuerdos a que se refiere el artículo 86 de la Ley, deberán ser resueltas por la Secretaría competente previa consulta con las instituciones señaladas en el citado artículo.
+> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2009)</small>
+
+QUINTO. Las solicitudes de permisos presentadas con antelación a la entrada en vigor del presente Reglamento y aquéllas que se presenten en tanto no se emitan los acuerdos a que se refiere el artículo 86 de la Ley, deberán ser resueltas por la Secretaría competente previa consulta con las instituciones señaladas en el citado artículo.
 
 SEXTO. En tanto se expidan los Acuerdos a que se refiere el artículo 78 de la Ley, los formatos oficiales deberán contener lo siguiente:
 
@@ -1049,14 +1107,16 @@ El aviso deberá ser presentado en los casos establecidos en los artículos 79 y
 
 SÉPTIMO. Las acciones derivadas del presente Reglamento se ejecutarán con cargo al presupuesto aprobado para las Dependencias y Entidades responsables de su aplicación.
 
-OCTAVO. Dentro de los sesenta días siguientes a la entrada en vigor de este Reglamento, la SEMARNAT y la SAGARPA deberán emitir las disposiciones jurídicas relativas a la bioseguridad que conformen el régimen de protección especial, a que se refiere el artículo 2, fracción XI de la Ley, que sean necesarias para resolver las solicitudes de permiso de liberación de maíz.
-
-La SEMARNAT y la SAGARPA podrán solicitar opinión a la CIBIOGEM respecto de la formulación de las disposiciones jurídicas señaladas en el párrafo anterior.
-
-Las solicitudes de permiso de liberación de maíz serán resueltas por las secretarías competentes conforme a lo señalado en el párrafo primero de este artículo.
+OCTAVO. (DEROGADO, D.O.F. 6 DE MARZO DE 2009)
 
 NOVENO. Los integrantes de la CIBIOGEM establecerán, dentro del año siguiente a la entrada en vigor de este Reglamento, políticas públicas para la protección, utilización, desarrollo y aprovechamiento sustentable de especies de las que México sea centro de origen y de diversidad genética.
 
 DÉCIMO. Se derogan todas las disposiciones que se opongan al presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los catorce días del mes de marzo de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, Juan Rafael Elvira Quesada.- Rúbrica.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Alberto Cárdenas Jiménez.- Rúbrica.- La Secretaria de Educación Pública, Josefina Eugenia Vázquez Mota.- Rúbrica.- El Secretario de Salud, José Ángel Córdova Villalobos.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 6 DE MARZO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
