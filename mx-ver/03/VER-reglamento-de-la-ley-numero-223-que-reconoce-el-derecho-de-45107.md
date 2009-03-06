@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-la-ley-numero-223-que-reconoce-el-derecho-de-4510
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-24"
-last_updated: "2005-02-24"
+last_updated: "2009-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45107&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO DE LA LEY NUMERO 223 QUE RECONOCE EL DERECHO DE LAS PERSONAS FISICAS, MAYORES DE SETENTA AÑOS DE EDAD, QUE NO TENGAN INGRESO ALGUNO Y SIN LA PROTECCION DE LOS SISTEMAS DE SEGURIDAD SOCIAL O DEL ESTADO O DE LA FEDERACION, A RECIBIR UNA PENSION ALIMENTICIA DEL GOBIERNO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE MARZO DE 2009.
 
 Reglamento publicado en el Alcance de la Gaceta Oficial del Estado de Veracruz, el jueves 24 de febrero de 2005.
 
@@ -53,11 +53,11 @@ DIF Estatal: el Sistema para el Desarrollo Integral de la Familia del Estado de 
 
 DIF Municipal: el Comité Municipal del Sistema para el Desarrollo Integral de la Familia del Estado de Veracruz.
 
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2009)</small>
+
 ###### Artículo 2.
 
-La pensión alimenticia se otorgará mensualmente en moneda nacional, en un monto que equivalga a la mitad del salario mínimo vigente en la ciudad de Xalapa, Veracruz de Ignacio de la Llave, y se entregará de manera conjunta por el DIF Estatal, el DIF Municipal y la Secretaría de Salud y Asistencia, con el auxilio de la dependencia de la Administración Pública estatal que el Consejo de Administración determine, de manera personal y en caso necesario en el domicilio del beneficiado.
-
-El importe de la pensión alimenticia se redondeará en pesos, de modo que la entrega de sumas no tenga terminaciones en centavos.
+El importe mensual de la pensión alimentaria equivaldrá a la mitad del salario mínimo, vigente en la ciudad de Xalapa de Enríquez, Veracruz de Ignacio de la Llave, entregándose a los beneficiarios a trimestre vencido y de manera conjunta por el DIF Estatal, el DIF Municipal y la Secretaría de Salud del Estado de Veracruz, con el auxilio de la dependencia de la Administración Pública Estatal que el Consejo de Administración determine, en forma personal y en caso necesario en el domicilio del beneficiado.
 
 ###### Artículo 3.
 
@@ -177,15 +177,25 @@ XI (SIC). Las demás que le señalen las disposiciones legales y le confieran el
 
 ### CAPÍTULO IV. DE LA SOLICITUD Y DEL RECIBO DE PENSIÓN ALIMENTICIA
 
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2009)</small>
+
 ###### Artículo 15.
 
-La solicitud que deberán llenar las personas mayores de 70 años será dirigida al Gobierno del Estado de Veracruz de Ignacio de la Llave y deberá contener:
+La solicitud que deberán llenar las personas mayores de 70 años será dirigida al Gobierno del Estado de Veracruz de Ignacio de la Llave y contendrá: nombre, fecha y lugar de nacimiento, edad, sexo, estado civil, domicilio, fecha de la solicitud y firma o huella dactilar del beneficiado.
 
-Nombre, fecha y lugar de nacimiento, edad, sexo, estado civil, domicilio, constancia de residencia expedida gratuitamente por la autoridad municipal. A la solicitud se deberá anexar copia certificada de nacimiento y de credencial con fotografía; firma del solicitante y fecha de la solicitud. Los formatos serán entregados en forma gratuita por el DIF Estatal o Municipal.
+Se le anexará la siguiente documentación:
 
-En caso de que el solicitante no pudiese firmar la solicitud, estampará en ella las huellas dactilares de lo (sic) pulgares, o al menos de uno de ellos; pero de no contar con manos, o no poder hacerlo, autorizar a quien a su ruego y encargo lo haga en su lugar. En este último caso firmarán como testigos conjuntamente el presidente y el Director del DIF Municipal.
+I. Copia certificada del acta de nacimiento o copia certificada de la fe de bautizo;
 
-Los formatos serán entregados en forma gratuita por el DIF Estatal o Municipal.
+II. Constancia de residencia certificada expedida por la autoridad municipal, e
+
+III. Identificación con fotografía.
+
+El solicitante que carezca de alguno de los documentos antes señalados, podrá sustituirlo por los siguientes documentos:
+
+I. A falta del requisito señalado en el número I se presentará constancia de apreciación clínica de edad expedida por alguna institución del sector salud, y
+
+II. A falta del requisito señalado en el número III se presentará constancia de residencia con fotografía expedida por la autoridad municipal.
 
 ###### Artículo 16.
 
@@ -209,13 +219,37 @@ Los beneficiarios deberán otorgar recibo al momento de recibir la pensión alim
 
 Para el caso de entregar la pensión alimenticia en el domicilio o en otro lugar en que se hallare el beneficiario, el DIF Municipal levantará acta circunstanciada que deberá contener los siguientes datos: lugar, fecha, domicilio donde se realiza, persona comisionada para realizar la entrega de la pensión alimenticia y la firma de dos testigos de asistencia o circunstanciales.
 
-### CAPÍTULO V. SANCIONES Y RESPONSABILIDADES
+> <small>(ADICIONADO, G. O. 6 DE MARZO DE 2009)</small>
+
+### CAPÍTULO V. DE LA POBLACIÓN ADULTA MAYOR EN ASILOS, ESTANCIAS Y CASA HOGAR
+
+> <small>(ADICIONADO, G. O. 6 DE MARZO DE 2009)</small>
 
 ###### Artículo 21.
 
-El incumplimiento de las disposiciones de la Ley y el presente Reglamento por las autoridades estatales y municipales es motivo de responsabilidad y serán sancionadas de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Veracruz.
+Los adultos mayores internos en asilos, estancias y casa hogar legalmente constituidas y reconocidas por el DIF Estatal recibirán los beneficios de la Ley 223 y este Reglamento, para lo cual deberán cumplir con los requisitos y la entrega de la documentación establecida para este fin.
+
+> <small>(ADICIONADO, G. O. 6 DE MARZO DE 2009)</small>
 
 ###### Artículo 22.
+
+El Sistema para el Desarrollo Integral de la Familia del Estado de Veracruz de Ignacio de la Llave y los DIF Municipales en los lugares donde se encuentren ubicadas las instituciones señaladas en el artículo anterior serán corresponsables de la entrega, seguimiento y evaluación de los recursos que reciban los adultos mayores internos en estas instituciones.
+
+Los mecanismos de ingreso, control y evaluación, se llevarán a cabo conforme a lo establecido en las reglas de operación del programa.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], G.O. 6 DE MARZO DE 2009)</small>
+
+### CAPÍTULO V (SIC). SANCIONES Y RESPONSABILIDADES
+
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES ARTICULO 21], G.O. 6 DE MARZO DE 2009)</small>
+
+###### Artículo 23.
+
+El incumplimiento de las disposiciones de la Ley y el presente Reglamento por las autoridades estatales y municipales es motivo de responsabilidad y serán sancionadas de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Veracruz.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES ARTICULO 22], G.O. 6 DE MARZO DE 2009)</small>
+
+###### Artículo 24.
 
 El incumplimiento de las disposiciones de la Ley y el presente Reglamento por parte de personas u organizaciones, será motivo de sanción de conformidad con lo señalado por la ley aplicable.
 
@@ -242,3 +276,15 @@ FIDEL HERRERA BELTRÁN
 GOBERNADOR DEL ESTADO
 
 RÚBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 6 DE MARZO DE 2009.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+Tercero. El Consejo de Administración celebrará su primera sesión con la brevedad posible después de que entre en vigor el presente decreto.
+
+Cuarto. Las reglas de operación señaladas en el artículo 22 de este decreto, deberán de expedirse en un plazo no mayor de noventa días naturales, contados a partir de que entre en vigor el presente decreto.
