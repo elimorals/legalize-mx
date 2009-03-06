@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-justicia-para-adolescentes-del-estado-de-baja-52215"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-27"
-last_updated: "2006-10-27"
+last_updated: "2009-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2009.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 27 de octubre de 2006.
 
@@ -61,7 +61,7 @@ IV.- Proteger y salvaguardar los derechos fundamentales de los adolescentes que 
 
 ###### Artículo 3.
 
-Son sujetos de la presente Ley;
+Son sujetos de la presente Ley:
 
 I.- Las personas de entre doce años cumplidos y menos de dieciocho años de edad, denominados adolescentes, a quienes se les atribuya o compruebe la realización de una conducta tipificada como delito por las leyes estatales;
 
@@ -99,7 +99,7 @@ XI.- Subsecretaría.- A la Subsecretaría del Sistema Estatal Penitenciario, de 
 
 ###### Artículo 5.
 
-En caso de no existir certeza en la edad de las personas a las que se refiere la fracción primera del artículo tercero, se podrá comprobar la misma a través del acta de nacimiento expedida por el Registro Civil correspondiente; si a través de ella no se pudiera acreditar la edad del adolescente o no existiera dicha documental, ésta se acreditará por medio de dictamen médico rendido por los peritos que para el efecto designe la autoridad correspondiente.
+En caso de no existir certeza en la edad de las personas a las que se refiere la fracción primera del artículo tercero, se podrá comprobar la misma a través del acta de nacimiento expedida por el Registro Civil correspondiente; si a través de ella no se pudiera acreditar la edad del adolescente o no existiera dicha documental, esté se acreditará por medio de dictamen médico rendido por los peritos que para el efecto designe la autoridad correspondiente.
 
 Cuando exista duda de si se trata de una persona mayor o menor de dieciocho años de edad se presumirá que es adolescente. Cuando exista la duda de si se trata de una persona mayor o menor de doce años, se presumirá niña o niño. Cuando exista duda de si se trata de una persona mayor o menor de catorce años, se presumirá que es menor de catorce años de edad.
 
@@ -241,7 +241,7 @@ XIV.- Ser defendidos en igualdad de circunstancias respecto de su acusador;
 
 XV.- Los medios de difusión se abstendrán de publicar la identidad del adolescente sujeto al procedimiento, así como las medidas de orientación, protección o tratamiento;
 
-XVI.- En ningún caso, ser sujetos de medidas cautelares o. definitivas que no estén establecidas en esta Ley;
+XVI.- En ningún caso, ser sujetos de medidas cautelares o definitivas que no estén establecidas en esta Ley;
 
 XVII.- Que la autoridad, defensa, víctima u ofendido del delito no divulguen la identidad del adolescente sujeto a investigación, proceso o ejecución de medidas en los casos en que no sea público el proceso. Las autoridades competentes deberán garantizar que la información que brinden no contravenga el principio de confidencialidad ni el derecho a la privacidad consagrado en la Ley; y
 
@@ -931,7 +931,7 @@ Nunca se podrán incorporar como medio de prueba, o dar lectura, a las actas o d
 
 ###### Artículo 86.
 
-Terminada la recepción de las pruebas, el Juez para Adolescentes concederá sucesivamente la palabra al representante del Ministerio Público para Adolescentes y luego al defensor, para que, en ese orden, emitan sus alegatos conclusivos.
+Terminada la recepción de las pruebas, el Juez para Adolescentes concederá sucesivamente la palabra al representante del Ministerio Público para Adolescentes y luego al defensor, para que, en ese orden emitan sus alegatos conclusivos.
 
 En caso de manifiesto abuso de la palabra, el Juez para Adolescentes llamará la atención a la parte y si ésta persiste, podrá limitar racionalmente el tiempo del alegato, según la naturaleza y complejidad de los hechos en examen, las pruebas recibidas y las cuestiones a resolver.
 
@@ -1615,7 +1615,9 @@ I.- Los requerimientos de tratamiento y el grado de desadaptación social del ad
 
 II.- La naturaleza de los hechos y el grado de afectación al bien jurídicamente tutelado.
 
-La duración de esta medida en ningún caso podrá exceder de siete años.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
+
+La duración de esta medida en ningún caso podrá exceder de diez años.
 
 ###### Artículo 161.
 
@@ -2226,3 +2228,9 @@ EUGENIO ELORDUY WALTHER
 SECRETARIO GENERAL DE GOBIERNO.
 
 BERNARDO H. MARTINEZ AGUIRRE
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE MARZO DE 2009.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente su publicación en el Periódico Oficial del Estado de Baja California.
