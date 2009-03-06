@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-santiago-647
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-01"
-last_updated: "2008-12-01"
+last_updated: "2009-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64791&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE SANTIAGO, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 1 de diciembre de 2008.
 
@@ -715,7 +715,9 @@ XVI Reducir la velocidad ante cualquier concentración de peatones y/o vehículo
 
 Los conductores de vehículos tienen prohibido lo siguiente:
 
-I Conducir en estado de ebriedad o de ineptitud para conducir, así como cuando sus facultades físicas o mentales se encuentren alteradas por el influjo de drogas o estupefacientes o medicamentos. La Autoridad Municipal determinará los medios que se utilizarán para la detección de estos casos.
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
+I Conducir en estado de ebriedad completa o de ineptitud para conducir, así como cuando sus facultades físicas o mentales se encuentren alteradas por el influjo de drogas o estupefacientes o medicamentos. La Autoridad Municipal determinará los medios que se utilizarán para la detección de estos casos.
 
 II Llevar entre su cuerpo y los dispositivos de manejo del vehículo, personas, animales u objetos que dificulten la normal conducción del mismo o le reduzcan su campo de visión, audición y libre movimiento.
 
@@ -774,6 +776,14 @@ XXVIII Conducir el vehículo con un aparato de televisión encendido, ubicado en
 XXIX Poseer en el área de pasajeros de un vehículo, una botella, lata u otro envase que contenga una bebida alcohólica que ha sido abierta o tiene sellos rotos o el contenido parcialmente consumido.
 
 XXX No se considerará como área de pasajeros, aquella sección del vehículo habilitada para carga, aún si le han sido acondicionados asientos.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2009)</small>
+
+ARTICULO 40 BIS.- Conducir con aliento alcohólico.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2009)</small>
+
+ARTICULO 40 BIS 1.- Conducir en estado de ebriedad incompleta.
 
 ###### ARTICULO 41.
 
@@ -2893,9 +2903,29 @@ servicio que presta
 
 licencia vencida
 
-125 Manejar en estado 40 I 30 a 200
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
 
-de ebriedad
+125 Manejar en estado 40 I 30 a 100
+
+de ebriedad completa
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2009)</small>
+
+125 Conducir con 40 BIS 10 a 20
+
+BIS aliento
+
+alcoholico
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2009)</small>
+
+125 Conducir en 40 BIS 1 15 a 30
+
+BIS estado de
+
+1 ebriedad
+
+incompleta
 
 126 Manejar en estado 40 I 30 a 200
 
@@ -2903,19 +2933,13 @@ de ineptitud para
 
 conducir
 
-126 Conducir en 40 I 100 a 300
+126 (DEROGADO, P.O. 6 DE MARZO DE 2009)
 
-BIS estado de ineptitud
+BIS
 
-o de ebriedad y
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
 
-cometer cualquier
-
-infracción
-
-administrativa
-
-126 Conducir en 40 I 200 a 600
+126 Conducir en 40 I 30 a 100
 
 BIS estado de ineptitud
 
@@ -2923,79 +2947,9 @@ BIS estado de ineptitud
 
 forma reincidente
 
-127 Poseer, en el área 40 XXIX 30 a 200
+127 (DEROGADO, P.O. 6 DE MARZO DE 2009)
 
-de pasajeros de
-
-un vehículo, una
-
-botella, lata u otro
-
-envase que
-
-contenga una
-
-bebida alcohólica
-
-que ha sido
-
-abierta o tiene
-
-sellos rotos, o el
-
-contenido
-
-parcialmente
-
-consumido; en el
-
-caso de que el
-
-infractor sea
-
-menor de edad.
-
-No se considerara
-
-como área de
-
-pasajeros aquella
-
-con asientos abatibles
-
-habilitada para carga
-
-128 Poseer en el área 40 XXIX 10 a 15
-
-de pasajeros del
-
-vehículo una
-
-botella, lata u otro
-
-envase que contenga
-
-una bebida alcohólica
-
-que ha sido abierta
-
-o tiene sellos rotos
-
-o el contenido
-
-parcialmente
-
-consumido.
-
-No se considerara
-
-como área de
-
-pasajeros aquella
-
-con asientos abatibles
-
-habilitada para carga
+128 (DEROGADO, P.O. 6 DE MARZO DE 2009)
 
 129 Conducir sin 28 10 a 15
 
@@ -3832,3 +3786,9 @@ SÍNDICO PRIMERO
 C. LIC. HUMBERTO MIGUEL DE LA ROSA HERNÁNDEZ
 
 SÍNDICO SEGUNDO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 6 DE MARZO DE 2009.
+
+Único: El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial.
