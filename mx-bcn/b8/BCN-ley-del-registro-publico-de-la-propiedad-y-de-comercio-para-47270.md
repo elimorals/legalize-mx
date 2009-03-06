@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-registro-publico-de-la-propiedad-y-de-comercio-para-472
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2005-12-02"
+last_updated: "2009-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DE COMERCIO PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 2 de diciembre de 2005.
 
@@ -43,9 +43,11 @@ LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DE COMERCIO PARA EL ESTADO DE BAJA C
 
 La presente Ley es de orden público, de observancia obligatoria en el Estado de Baja California, y tiene por objeto establecer las disposiciones legales que regularán la actividad registral, que al efecto ejecute el Registro Público de la Propiedad y de Comercio.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
+
 ###### ARTÍCULO 2.
 
-El Registro Público de la Propiedad y de Comercio es la institución responsable de realizar la actividad registral en el Estado, tiene como función dar publicidad a los actos jurídicos que así lo requieran, para que surtan eficacia ante terceros en los términos de ley, haciendo constar de manera veraz y exacta aquellos que se inscriban, asienten o anoten en sus archivos, por lo que podrán ser materia de registro los actos, convenios y contratos relacionados con derechos reales o personales, en cuanto a su constitución, transmisión, modificación, afectación y extinción, así como la constitución de personas morales, y todos aquellos que deban inscribirse en materia de comercio.
+El Registro Público de la Propiedad y de Comercio es la institución responsable de realizar la actividad registral en el Estado, que tiene como función dar publicidad a los actos jurídicos que así lo requieran para que surta eficacia ante terceros en los términos de ley, haciendo constar de manera veraz y exacta aquellos que se inscriban, asienten o anoten en su archivo, utilizando las formas precodificadas e imágenes que la Dirección autorice, por lo que podrán ser materia de registro los actos, convenios y contratos relacionados con derechos reales o personales, en cuanto a su constitución, transmisión, modificación, afectación y extinción, así como la constitución de personas morales, y todos aquellos que deban inscribirse en materia de comercio.
 
 ###### ARTÍCULO 3.
 
@@ -73,11 +75,37 @@ X. Partida.- Es el número de identificación único asignado por el registrador
 
 XI. Registro Público.- La Dirección del Registro Público de la Propiedad y de Comercio, institución a que hace referencia el Código;
 
-XII. Reglamento.- Reglamento Interno de la Dirección del Registro Público de la Propiedad y de Comercio del Estado de Baja California;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
+XII. Reglamento Interno.- Reglamento Interno de la Dirección del Registro Público de la Propiedad y de Comercio del Estado de Baja California;
 
 XIII. Sistema de Información Registral.- Es el programa informático, tecnológico, que se utiliza para recibir, capturar, archivar, custodiar, enviar, intercambiar, reproducir, verificar o procesar información relacionada con los actos registrales realizados y contenidos en el acervo documental del Registro Público;
 
-XIV. Título.- Es el documento público o privado por el que se adquiere, modifica, transmite, extingue, limita o grava, el derecho real o personal, en el cual funde su derecho la persona a cuyo favor deba hacerse la inscripción.
+XIV. Título.- Es el documento público o privado por el que se adquiere, modifica, transmite, extingue, limita o grava, el derecho real o personal, en el cual funde su derecho la persona a cuyo favor deba hacerse la inscripción;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE MARZO DE 2009)</small>
+
+XV. Fondo.- Fondo para la Modernización del Registro Público;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE MARZO DE 2009)</small>
+
+XVI. Portal.- Página electrónica del Registro Público de la Propiedad y de Comercio en el Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE MARZO DE 2009)</small>
+
+XVII. Número de control.- El número de volante indicado en el recibo de pago, en función del cual se determina la trazabilidad del trámite;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE MARZO DE 2009)</small>
+
+XVIII. Recurso.- Procedimiento de inconformidad seguido por un particular ante el Director por habérsele negado el registro o anotación de un título, la cancelación de una inscripción, o la expedición de certificación alguna;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE MARZO DE 2009)</small>
+
+XIX. Reglamento.- Reglamento de la Ley del Registro Público de la Propiedad y de Comercio del Estado de Baja California, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE MARZO DE 2009)</small>
+
+XX. Archivo Registral.- Es el acervo histórico integrado por las bases de datos correspondientes a cada una de las circunscripciones municipales, mismo que se integrará con las inscripciones, sus imágenes, avisos, anotaciones y demás información presentada por los usuarios.
 
 ###### ARTÍCULO 4.
 
@@ -85,37 +113,27 @@ Los registradores y subregistradores tendrán fe para hacer constar de manera ve
 
 ### CAPÍTULO SEGUNDO. DE LA ORGANIZACIÓN
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
+
 ###### ARTÍCULO 5.
 
-El Registro Público en Baja California es único y está a cargo de la Dependencia del Poder Ejecutivo denominado Dirección del Registro Público de la Propiedad y de Comercio, con sede en la Capital del Estado.
+El Registro Público en Baja California es único y está a cargo de la Dependencia del Poder Ejecutivo denominada Dirección del Registro Público de la Propiedad y de Comercio, con sede en la Capital del Estado. El titular de esta Dirección será designado por el Gobernador del Estado.
 
-El titular del Registro Público será el Director de la Dependencia, que además se integrará con el Subdirector, Registradores y Subregistradores y demás personal administrativo.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
 
 ###### ARTÍCULO 6.
 
-Por cada Municipio habrá los registradores que el ejecutivo estime convenientes, mismos que actuarán dentro de su circunscripción municipal y que podrán expedir certificaciones de las inscripciones y constancias de los archivos registrales de cualquier parte del Estado.
+Los registradores y subregistradores tendrán a su cargo la función registral en el Estado de Baja California, consistente en examinar y certificar bajo su responsabilidad los documentos que se presenten para su posterior inscripción, así como la emisión de las certificaciones que establecen el Código Civil y la Ley, asesorando en todo momento a los usuarios respecto de los trámites que se realicen ante esta Dependencia.
 
-El Ejecutivo queda facultado, conforme las condiciones demográficas y económicas que se presenten, para crear circunscripciones adscritas a los Registradores respectivos.
-
-Los registradores para el desempeño de sus funciones, se auxiliarán de:
-
-I. Los Subregistradores asignados a su circulación municipal;
-
-II. Jefes de departamento de control administrativo y técnico;
-
-III. Encargados de sección;
-
-IV. Analistas; y
-
-V. El demás personal necesario.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
 
 ###### ARTÍCULO 7.
 
-El Director será nombrado por el Gobernador del Estado. El Subdirector, Registradores y Subregistradores, serán designados por el Gobernador del Estado a propuesta del Director.
+Los Registradores y Subregistradores deberán cumplir con los siguientes requisitos:
 
-El Director designará al personal necesario para la ejecución y control de las actividades propias de la Dirección, así como para garantizar que los servicios prestados serán apegados a derecho.
+I.- Ser licenciado en derecho con título profesional y cédula personal con efectos de patente; y
 
-El Reglamento establecerá las obligaciones del personal de la dependencia.
+II.- Acreditar al menos dos años de experiencia en la materia registral, inmobiliaria, notarial o de correduría pública.
 
 ###### ARTÍCULO 8.
 
@@ -143,13 +161,33 @@ VII. Desempeñar las comisiones y funciones que le confiera el Ejecutivo del Est
 
 VIII. Promover, organizar, vigilar y controlar el funcionamiento del Registro Público, observando las disposiciones legales y administrativas conducentes;
 
-IX. Proponer al Gobernador del Estado los proyectos de iniciativa de ley, reglamentos, lineamientos y acuerdos sobre los asuntos de competencia de la Dirección;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
-X. Proponer al Gobernador del Estado el nombramiento de quienes fungirán como Registradores y Subregistradores;
+IX. Proponer al Gobernador del Estado los proyectos de iniciativa de ley, reglamentos y acuerdos sobre los asuntos de la competencia del Registro Público;
 
-XI. Proponer los lineamientos generales para la asignación, control y suspensión de la firma electrónica prevista en la presente Ley; y
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
-XII. Las demás que le confiera esta Ley y demás leyes, reglamentos en la materia.
+X. Designar y remover a quienes fungirán como Subdirector, Registradores, Subregistradores y demás personal necesario para la ejecución y control de las actividades propias del Registro Público, así como para garantizar que los servicios prestados estén apegados a Derecho;
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
+XI. Elaborar los manuales operativos de la dependencia, así como formular los lineamientos generales para la asignación, control y suspensión de la firma electrónica prevista en la presente Ley;
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
+XII. Promover las acciones y figuras jurídico-económicas tendientes a la modernización del Registro Público;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE MARZO DE 2009)</small>
+
+XIII. Conocer del recurso interpuesto por los usuarios, y en caso de emitir resolución favorable, llevar a cabo la inscripción, anotación, cancelación o la expedición del certificado correspondiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE MARZO DE 2009)</small>
+
+XIV. Registrar las patentes de los Notarios Públicos en el Estado, y salvaguardar los libros destinados para ello; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE MARZO DE 2009)</small>
+
+XV. Las demás que le confiera esta Ley y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 10.
 
@@ -179,7 +217,9 @@ X. Las demás que al efecto establezca el reglamento y demás disposiciones lega
 
 Son facultades y obligaciones de los Registradores, las siguientes:
 
-I. Revisar la cuantificación de los derechos que causen las inscripciones;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
+I. Supervisar que la cuantificación y liquidación de los derechos que se causen por los servicios prestados por el Registro Público sean de conformidad con lo establecido en la Ley de Ingresos vigente;
 
 II. Inscribir por riguroso turno, según el orden de presentación de los documentos;
 
@@ -187,19 +227,33 @@ III. Autorizar con su firma todas las inscripciones, inscripciones preventivas, 
 
 IV. Suministrar a la Dirección todos los datos que solicite para el ejercicio de su función;
 
-V. Revisar que las inscripciones se asienten correctamente en los archivos registrales, así mismo, cuidar de la exactitud y concordancia de los antecedentes de propiedad que se citen en los títulos y los que obren en los archivos registrales y electrónicos. En los términos del Código, el Código de Comercio, esta Ley y las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
+V. Revisar que las inscripciones se asienten correctamente, asimismo, cuidar de la exactitud y concordancia de los antecedentes de propiedad que se citen en los titulos y los que obren en el archivo registral, en los términos del Código, el Código de Comercio, esta Ley y las demás disposiciones legales aplicables;
 
 VI. Expedir las certificaciones de los datos y documentos que obren en los archivos registrales, que legalmente le correspondan;
 
-VII Facilitar al público la información que solicite de los asientos registrales, así como de los documentos relacionados que obren en los archivos públicos;
+VII. Facilitar al público la información que solicite de los asientos registrales, así como de los documentos relacionados que obren en los archivos públicos;
 
 VIII. Informar al Subregistrador y personal a su cargo, todas aquellas disposiciones de carácter legal, administrativo, fiscal y de operatividad, determinadas por la Dirección como obligatorias para el procedimiento registral;
 
 IX. Dar aviso a la Secretaría de Planeación y Finanzas cuando exista omisión en el cumplimiento a las disposiciones fiscales, debiendo abstenerse de realizar trámite alguno mientras exista esa situación;
 
-X. Supervisar que la liquidación de los derechos que se causen por inscripción, expedición de certificaciones o cualquier otro servicio prestado por el Registro Público se efectúe conforme lo que establezca la Ley de Ingresos del año fiscal correspondiente; y
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
-XI. Las demás que le confieran ésta Ley y demás disposiciones legales aplicables a la materia.
+X. Tener bajo su guarda y cuidado el archivo registral correspondiente a la circunscripción municipal de su adscripción;
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
+XI. Cancelar de manera total o parcial del archivo registral las inscripciones cuando así resulte procedente conforme a lo dispuesto por el Código, esta Ley y su Reglamento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE MARZO DE 2009)</small>
+
+XII. Crear y mantener actualizado un padrón de usuarios autorizados para la utilización del Sistema Integral de Información Registral en su circunscripción municipal; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE MARZO DE 2009)</small>
+
+XIII. Las demás que le confieran esta Ley y demás disposiciones legales aplicables a la materia.
 
 ###### ARTÍCULO 12.
 
@@ -211,7 +265,9 @@ II. Realizar las funciones registrales que le encomiende el Registrador;
 
 III. Suplir al Registrador en sus funciones en caso de ausencia temporal;
 
-IV. Expedir y certificar las constancias de riesgo obrantes en los archivos de la dependencia;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
+IV. Expedir y certificar las constancias de registro obrantes en el archivo registral;
 
 V. Autorizar con su firma todas las inscripciones, inscripciones preventivas, anotaciones, avisos preventivos, ratificaciones, rectificaciones, cancelaciones y certificaciones de los libros de registro y las constancias que deben ponerse al calce de los títulos registrales;
 
@@ -220,6 +276,12 @@ VI. Proporcionar atención y asesoría jurídica al personal a su cargo y al pú
 VII. Representar al registrador en las reuniones de trabajo convocadas por los organismos oficiales relacionados con el sector que pertenece; y
 
 VIII. Las demás que le confiera esta Ley, el reglamento y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2009)</small>
+
+ARTÍCULO 12 BIS.- El registrador o subregistrador se excusará de ejercer la función de calificar y autorizar el registro de actos, cuando él, su cónyuge, sus parientes por consanguinidad o afinidad en línea recta sin limitación de grado, los consanguíneos en línea colateral hasta el cuarto grado y aquellos por afinidad en línea colateral hasta el segundo grado, tengan algún interés directo o indirecto en el asunto sobre el que verse el acto a calificar, exista amistad o enemistad manifiesta entre el registrador y las personas físicas o morales interesadas directamente en el asunto, o bien, se encuentre en una situación que pueda afectar su imparcialidad de manera análoga o más grave que las antes mencionadas.
+
+En este caso, la calificación de la inscripción, anotación, cancelación o expedición de la certificación se hará por el registrador que designe el responsable de la oficina del Registro Público.
 
 ## TÍTULO SEGUNDO. DE LA ACTIVIDAD REGISTRAL
 
@@ -293,15 +355,23 @@ XXIX. Los títulos de crédito en la que constituya garantía prendaría, por di
 
 XXX. Los contratos de mandato, los poderes generales y especiales; y
 
-XXXI. Los demás contratos o actos jurídicos de carácter civil o mercantil, que conforme a las leyes deben registrarse.
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
+XXXI. Los demás contratos o actos jurídicos que conforme a las normas aplicables deban registrarse.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE MARZO DE 2009)</small>
+
+No podrán incorporarse al Registro datos que hagan referencia a ideología, religión o creencias, raza, preferencia sexual, afiliación sindical, estado de salud y toda aquella que no tenga relación directa con la identificación del acto presentado a inscripción.
 
 ###### ARTÍCULO 15.
 
 Los actos o contratos otorgados en otra Entidad Federativa, sólo se inscribirán si tienen el carácter de registrables, conforme a las disposiciones de esta ley, el Código, el Código de Comercio y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
+
 ###### ARTÍCULO 16.
 
-Las inscripciones se podrán solicitar en cualquiera de las oficinas del Registro Público del Estado y la misma se efectuará en los archivos correspondientes a la circunscripción municipal que pertenezca.
+Las inscripciones podrán solicitarse en cualquiera de las oficinas del Registro Público, efectuándose éstas en el archivo registral de la circunscripción municipal que corresponda.
 
 ###### ARTÍCULO 17.
 
@@ -309,9 +379,7 @@ La inscripción hace que el acto jurídico inscrito sea oponible a terceros, en 
 
 ###### ARTÍCULO 18.
 
-Serán objeto de inscripción preventiva, los avisos preventivos, así como los títulos o actos jurídicos presentados ante el Registro Público que sean de los que deban de registrarse y cuya inscripción haya sido denegada o rechazada.
-
-Si el registro definitivo se hiciere en su oportunidad, surtirá efectos desde la fecha en que se realizó la inscripción preventiva.
+(DEROGADO, P.O. 6 DE MARZO DE 2009)
 
 ###### ARTÍCULO 19.
 
@@ -319,27 +387,29 @@ Todo trámite que se realice ante el Registro Público, causará los derechos qu
 
 ### CAPÍTULO SEGUNDO. DEL REGISTRO
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
+
 ###### ARTÍCULO 20.
 
-Para el registro de documentos públicos o privados se estará a lo siguiente:
+Para el registro de documentos públicos o privados deberá exhibirse su original o copia certificada.
 
-I. Tratándose de documentos públicos deberá exhibirse en original y copia, agregándose al libro de copias correspondiente;
+En el caso de los documentos privados, las firmas deberán estar ratificadas ante las autoridades que establece el artículo 2878 fracción III del Código.
 
-II. Tratándose de documentos privados, deberán exhibirse dos tantos en original con firmas debidamente ratificadas ante las autoridades que establece el artículo 2878 fracción II del Código, agregándose un ejemplar al libro de copias correspondiente y el otro se devolverá al interesado con la razón de registros; y
+Cuando la inscripción se realice por medios electrónicos bastará con el envío de la forma precodificada autorizada por el Registro Público, siempre y cuando ésta sea firmada electrónicamente y se ajuste a lo dispuesto por el Reglamento.
 
-III. Tratándose de providencias y resoluciones judiciales, deben acompañarse en copias debidamente certificadas.
-
-En todos los casos previstos por este artículo, deberán acompañarse de los documentos exigidos por esta ley para su inscripción.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
 
 ###### ARTÍCULO 21.
 
-Los documentos públicos o privados que se presenten y apruebe para su inscripción, se incorporarán al sistema de reproducción digital y al libro de copias correspondiente.
+Los documentos que se presenten y aprueben para su inscripción se incorporarán al sistema de reproducción digital.
 
 ###### ARTÍCULO 22.
 
 El procedimiento para la inscripción de títulos en el Registro Público será el siguiente:
 
-I. Recepción física o electrónica de un mensaje de datos de solicitud de registro, acompañada del instrumento en el que conste el acto a inscribir, pago de los derechos, generación de una boleta de ingreso y del número de control progresivo correspondiente e invariable de cada acto;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
+I. Recepción física o electrónica de la solicitud de registro, acompañada del instrumento en el que conste el acto a inscribir, pago de los derechos, generación de una boleta de ingreso y del número de control progresivo correspondiente e invariable de cada acto;
 
 II. Análisis de la información y verificación de la existencia o inexistencia de antecedentes registrales, y en su caso la captura en el Sistema de Información;
 
@@ -357,7 +427,7 @@ Cuando conforme a la ley, algún acto o contrato deba inscribirse en el Registro
 
 ###### ARTÍCULO 25.
 
-Las copias de los diversos documentos que se registren deberán encuadernarse conservándose el orden de numeración consecutiva de las partidas registrales.
+(DEROGADO, P.O. 6 DE MARZO DE 2009)
 
 ###### ARTÍCULO 26.
 
@@ -389,9 +459,11 @@ Las resoluciones judiciales dictadas por los jueces o tribunales de otra Entidad
 
 Los actos ejecutados, los contratos otorgados y las resoluciones judiciales pronunciadas en otro país, sólo se inscribirán concurriendo las circunstancias a las que se refiere el artículo 2872 del Código.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
+
 ###### ARTÍCULO 33.
 
-Las inscripciones que se generen en la sección correspondiente, contendrá (sic) en forma genérica lo siguiente:
+Las inscripciones que se generen en la sección correspondiente, contendrá en forma genérica lo siguiente:
 
 I. Número de partida;
 
@@ -411,21 +483,21 @@ VIII. Nombre de los otorgantes;
 
 IX. Objeto;
 
-X. Antecedente registral; y
+X. Antecedente registral;
 
-XI. Sello de la oficina, nombre y firma del Registrador.
+XI. Nombre y firma del Registrador; y
 
-Además de los requisitos anteriores, deberán expresarse las circunstancias establecidas por el artículo 2882 del Código. Tratándose de los actos de comercio, se estará a lo previsto por el Código de Comercio y demás disposiciones aplicables.
+XII. Sello de la oficina, cuando la inscripción sea física.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
 
 ###### ARTÍCULO 34.
 
-El Registrador resolverá la procedencia o improcedencia del registro de los documentos, dentro del plazo de cinco días hábiles.
+El Registrador resolverá la procedencia o improcedencia del registro de documentos dentro del plazo de cinco días hábiles, a partir de la fecha de su recepción.
 
-De resultar procedente la inscripción, deberá generarse la partida respectiva que contenga las formalidades a que se refiere el artículo anterior;
+De resultar procedente la inscripción, deberá generarse la partida respectiva que contenga las formalidades a que se refiere el artículo anterior. En tal caso el registro surtirá efectos desde la fecha en que se realizó la inscripción preventiva. Si se califica de improcedente, se hará del conocimiento del interesado o en su caso a la autoridad que lo solicite, mediante un reporte.
 
-Si se califica de improcedente, se producirá una inscripción preventiva y se hará del conocimiento del interesado o en su caso a la autoridad que lo solicite, mediante un reporte de improcedencia.
-
-El registrador, no juzgará de la orden judicial o administrativa que decrete un registro, pero si a su juicio concurre alguna circunstancia por la que legalmente no debe practicarse el registro, lo hará saber así a la autoridad respectiva. Si a pesar de ello ésta insistiere en el registro, se hará el mismo.
+El Registrador no juzgará de la orden judicial o administrativa que decrete un registro, pero si a su juicio concurre una circunstancia por la que legalmente no debe practicarse, lo hará saber así a la autoridad respectiva. Si a pesar de ello ésta insistiere, se hará el mismo.
 
 ###### ARTÍCULO 35.
 
@@ -434,6 +506,8 @@ Cuando la función registral se vea interrumpida por circunstancias extraordinar
 ###### ARTÍCULO 36.
 
 Los actos que consignen cuantías en moneda extranjera, unidades de inversión o cualquier tipo de moneda distinta a la de curso legal y que conforme a las leyes deba registrarse, causarán el pago de derechos conforme a las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
 
 ###### ARTÍCULO 37.
 
@@ -447,15 +521,19 @@ III. Fecha de inscripción;
 
 IV. Fecha y hora en que fueron cubiertos los derechos correspondientes;
 
-V. Oficina Registral; y
+V. Oficina Registradora;
 
-VI. Sello de la oficina, nombre y firma del Registrador.
+VI. Nombre y firma del Registrador; y
+
+VII. Sello de la oficina, cuando el documento sea físico.
 
 ### CAPÍTULO TERCERO. DEL REGISTRO INMOBILIARIO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MARZO DE 2009)</small>
+
 ###### ARTÍCULO 38.
 
-Para el registro de documentos públicos o privados por virtud de los cuales se transmita, adquiera o modifique la propiedad de bienes inmuebles, deberá acompañarse la siguiente documentación:
+Para el registro de documentos por virtud de los cuales se transmita, adquiera o modifique la propiedad de bienes inmuebles, deberá acompañarse la siguiente documentación:
 
 I. Deslinde catastral, debidamente autorizado por el Catastro Municipal, con excepción de los terrenos destinados a la donación a favor del Estado o de o de los municipios, en estos casos bastará la exhibición del plano autorizado por la Secretaría de Infraestructura y Desarrollo Urbano o Dirección de Catastro Municipal correspondiente;
 
@@ -539,9 +617,11 @@ VI. Señalar el predio o titular según corresponda; y,
 
 VII. Indicar el periodo que deberá comprender la certificación.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
+
 ###### ARTÍCULO 44.
 
-El registrador o los Subregistradores, expedirán el certificado autorizado con su firma y sello de la Oficina, en un plazo que no exceda de cinco días.
+El Registrador o los Subregistradores expedirán el certificado autorizándolo con su firma, en un plazo que no excederá de cinco días hábiles. En los casos en que el certificado expedido sea físico, deberá plasmarse el sello de la Oficina Registral.
 
 ###### ARTÍCULO 45.
 
@@ -565,13 +645,19 @@ Para la ratificación de documentos privados, se observará el siguiente procedi
 
 I. Se hará ante la presencia del Registrador o Subregistrador;
 
-II. Se presentarán tres tantos originales del documento materia de ratificación;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
-III. Los otorgantes deberán presentar a los testigos del otorgamiento del documento privado;
+II. Se presentarán dos tantos originales del documento materia de ratificación;
 
-IV. Los otorgantes del documento y los testigos deberán presentar al Registrador identificación oficial emitida por las autoridades federales, estatales o municipales, en original y copia; y
+III. (REFORMADA [N. DE E. DEROGADA], P.O. 6 DE MARZO DE 2009)
 
-V. En caso de que alguno de los otorgantes comparezca en representación de otro, deberá exhibir además, poder o mandato en original y copia donde conste la personalidad con la que comparece.
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
+IV. Los otorgantes del documento deberán comparecer ante el Registrador presentando identificación oficial emitida por las autoridades federales, estatales o municipales, en original y copia;
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
+V. En caso de que alguno de los otorgantes comparezca en representación de otro deberá exhibir además poder o mandato en original o copia certificada donde conste la personalidad con la que comparece.
 
 ###### ARTÍCULO 47.
 
@@ -589,25 +675,31 @@ El procedimiento de ratificación de documentos privados, se ajustará a las reg
 
 Serán objeto de inscripción preventiva:
 
-I. Las demandas relativas a la propiedad y derechos reales de bienes inmuebles o a la constitución, declaración, modificación o extinción de cualquier derecho real sobre aquellos;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
-II. El mandamiento y el acta de embargo que se haya hecho efectivo en bienes inmuebles del deudor;
+I. Los mandamientos judiciales relativos a bienes inmuebles o a derechos reales sobre los mismos, y
 
-III. Las demandas promovidas para exigir el cumplimiento de contratos preparatorios o para dar forma legal al acto o contrato concertado, cuando tenga por objeto inmuebles o derechos reales sobre los mismos;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
-IV. Las providencias judiciales que ordenen el secuestro o prohíban la enajenación de bienes inmuebles o derechos reales;
+II. Los títulos o actos jurídicos recibidos en el Registro Público que sean de los que deban de registrarse hasta en tanto se efectúe la inscripción definitiva.
 
-V. Las resoluciones judiciales en materia de amparo que ordene la suspensión provisional o definitiva, en relación con bienes inscritos en el Registro Público;
+III. (REFORMADA [N. DE E. DEROGADA], P.O. 6 DE MARZO DE 2009)
 
-VI. Las ratificaciones de contratos privados;
+IV. (REFORMADA [N. DE E. DEROGADA], P.O. 6 DE MARZO DE 2009)
 
-VII. Cuando sea rechazada la inscripción por faltar alguno de los requisitos exigidos por esta Ley; y,
+V. (REFORMADA [N. DE E. DEROGADA], P.O. 6 DE MARZO DE 2009)
 
-VIII. Las demás que conforme a las leyes deban registrarse.
+VI. (REFORMADA [N. DE E. DEROGADA], P.O. 6 DE MARZO DE 2009)
+
+VII. (REFORMADA [N. DE E. DEROGADA], P.O. 6 DE MARZO DE 2009)
+
+VIII. (REFORMADA [N. DE E. DEROGADA], P.O. 6 DE MARZO DE 2009)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MARZO DE 2009)</small>
 
 ###### ARTÍCULO 50.
 
-Las inscripciones preventivas a que se refieren las fracciones I, II, III, IV y V del artículo que antecede, se practicarán mediante mandamiento de autoridad competente y contendrán:
+En el caso de la fracción I del artículo anterior deberá observarse que se reúnan los siguientes elementos:
 
 I. Autoridad remitente;
 
@@ -621,15 +713,17 @@ V. Resolución a cumplimentar;
 
 VI. En su caso, suerte principal y accesorios legales;
 
-VII. Descripción específica, tratándose de bienes muebles en los términos del artículo 40 de esta Ley.
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
-En el caso de inmuebles, descripción que contenga número de lote, manzana, colonia o fraccionamiento, superficie, medidas y colindancias y datos del registro del bien sobre el que recae la inscripción; y,
+VII. Descripción específica, en los términos de los artículos 38, 39 y 40 de esta Ley;
 
 VIII. Indicaciones de los efectos de la inscripción.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MARZO DE 2009)</small>
+
 ###### ARTÍCULO 51.
 
-Las inscripciones preventivas previstas por la fracción V del artículo 49 de esta Ley, que ordenen la suspensión provisional o definitiva, contendrán:
+Tratándose de las resoluciones judiciales en materia de amparo que ordenen la suspensión provisional o definitiva, se observará que contengan los siguientes elementos:
 
 I. El juzgado o tribunal que las haya dictado;
 
@@ -649,17 +743,13 @@ VIII. Las demás circunstancias relativas al incidente respectivo, cuando así l
 
 ###### ARTÍCULO 52.
 
-Las inscripciones preventivas previstas en las fracciones VI, VII y VIII del artículo 49 de esta Ley contendrán:
+(DEROGADO, P.O. 6 DE MARZO DE 2009)
 
-I. Las partes que intervienen en el acto o derecho inscrito;
-
-II. Descripción general del bien, o la característica del acto o derecho inscrito; y
-
-III. Descripción específica, tratándose de bienes muebles en los términos del artículo 40 de esta Ley. En el caso de inmuebles, descripción que contenga número de lote, manzana, colonia o fraccionamiento, superficie, medidas y colindancias y datos del registro del bien sobre el que recae la inscripción.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
 
 ###### ARTÍCULO 53.
 
-Si las inscripciones preventivas establecidas en los artículos anteriores no reúnen todos los requisitos previstos por los mismos, o dichos datos estuvieren equivocados, no se hará ésta y se dejará a disposición del interesado para que subsane las omisiones.
+Cuando las inscripciones preventivas no reúnan todos los requisitos previstos por los artículos anteriores, o dichos datos estuvieren equivocados, se harán éstas siempre y cuando pueda identificarse de manera indubitable la partida que se afecta, informando lo conducente al interesado.
 
 ###### ARTÍCULO 54.
 
@@ -675,9 +765,11 @@ RECTIFICACIÓN, REPOSICIÓN Y CANCELACIÓN DE LAS INSCRIPCIONES REGISTRALES.
 
 La rectificación de las inscripciones por causa de error material o de concepto, sólo procede cuando exista discrepancia entre el título y la inscripción.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
+
 ###### ARTÍCULO 56.
 
-Es error material cuando se escriban palabras por otras, se omita la expresión de alguna circunstancia o se equivoquen los nombres, predios o las cantidades al asentarlas en el archivo registral documental y electrónico del Registro Público, sin cambiar por ello el sentido general de la inscripción, ni el de algunos de sus conceptos, la rectificación procede a petición de parte interesada.
+Es error material cuando se escriban palabras por otras, se omita la expresión de alguna circunstancia o se equivoquen los nombres, predios o las cantidades al asentarlas en el archivo registral, sin cambiar por ello el sentido general de la inscripción, ni el de alguno de sus conceptos. La rectificación procede a petición de parte interesada.
 
 ###### ARTÍCULO 57.
 
@@ -699,9 +791,11 @@ Se repondrán las inscripciones registrales, cuando sea imposible establecer su 
 
 La reposición se hará sólo con vista de los documentos que dieron origen a los asientos y por solicitud de la parte interesada o de oficio, levantándose acta circunstanciada de ésta.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
+
 ###### ARTÍCULO 61.
 
-Las inscripciones podrán cancelarse por consentimiento de las partes o por decisión judicial. La cancelación podrá ser total o parcial.
+Las inscripciones podrán cancelarse por consentimiento de las partes, por decisión judicial o a petición de parte interesada cuando así proceda. La cancelación podrá ser total o parcial.
 
 ###### ARTÍCULO 62.
 
@@ -729,29 +823,33 @@ III. Por mandato de autoridad judicial; y,
 
 IV. Cuando sea procedente la cancelación parcial, de acuerdo a lo establecido por esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
+
 ###### ARTÍCULO 64.
 
-El Registrador o Subregistrador en su caso procederá a cancelar de manera total o parcial del archivo registral documental y electrónico del Registro Público, cuando se presenten los supuestos previstos por los artículos que anteceden, debiéndose atender además lo previsto por el Código y demás leyes aplicables.
-
-La cancelación se hará de tal manera, que siempre permita consultar la partida e imagen o copia del documento cuya inscripción haya sido materia de cancelación.
+La cancelación se hará de tal manera, que siempre permita consultar la partida e imagen del documento y sus anexos materia de la cancelación.
 
 ### CAPÍTULO NOVENO. DEL ARCHIVO
 
 ###### ARTÍCULO 65.
 
-El Registro Público contará con un archivo registral documental y electrónico que se integrará por los libros que contienen las inscripciones, avisos preventivos, anotaciones, copias de documentos de la sección correspondiente, y demás información electrónica o documental presentada por los usuarios.
+(DEROGADO, P.O. 6 DE MARZO DE 2009)
 
 ###### ARTÍCULO 66.
 
-Los registradores y subregistradores en su caso, tendrán bajo su guarda y cuidado los libros, apéndices y demás registros contenidos en los dispositivos de almacenamiento electrónico.
+(DEROGADO, P.O. 6 DE MARZO DE 2009)
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
 
 ###### ARTÍCULO 67.
 
-Las personas podrán obtener del Registro Público, copias simples de las inscripciones y anotaciones que conforman el archivo, mediante el sistema de cómputo que se adopte, así como copia certificada de las inscripciones, constancias y demás documentos contenidos en los libros que integran el archivo registral documental y electrónico del Registro Público.
+Los usuarios que así lo soliciten, podrán obtener del Registro Público copia simple o certificada de las inscripciones, anotaciones y demás constancias que obren en el archivo registral.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MARZO DE 2009)</small>
 
 ###### ARTÍCULO 68.
 
-El Registro Público, contará con medios de consulta documental y electrónica, la consulta podrá realizarse por:
+El Registro Público contará con medios de consulta, la cual podrá realizarse por:
 
 I. Número de partida;
 
@@ -759,7 +857,9 @@ II. Lote, manzana y Colonia, predio o local;
 
 III. Nombre del titular;
 
-IV. Razón o denominación social; y,
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
+IV. Razón o denominación social; y
 
 V. Las demás que los avances de la tecnología permitan.
 
@@ -823,17 +923,93 @@ El uso de la firma electrónica para los efectos del artículo anterior, deberá
 
 ### CAPÍTULO TERCERO. DEL REGISTRO ELECTRÓNICO
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
+
 ###### ARTÍCULO 80.
 
 Para la inscripción de títulos en forma electrónica, se estará a lo dispuesto en el artículo 22 de esta Ley y a lo siguiente:
 
-I. El mensaje de datos deberá contener la firma electrónica, del fedatario o usuario autorizado; y,
+I. El mensaje de datos deberá contener la firma electrónica del fedatario público o usuario autorizado, y
 
-II. Efectuada la recepción se expedirá una constancia con efectos de aviso preventivo con el número progresivo, fecha y hora en la que se recibió la solicitud.
+II. Efectuada la recepción se expedirá una constancia con el número progresivo, fecha y hora en la que se recibió la solicitud.
 
 ###### ARTÍCULO 81.
 
 Una vez firmado electrónicamente e inscrito el acto en la base de datos de la oficina del Registro Público, emitirá el número de partida de inscripción, la que será entregada al interesado previa presentación de la boleta de ingreso, o podrá verificarla e imprimirla si el notario o corredor público presentó el acto a inscribir, usando medios electrónicos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE MARZO DE 2009)</small>
+
+## TÍTULO CUARTO. DEL RECURSO
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE MARZO DE 2009)</small>
+
+###### ARTÍCULO 82.
+
+Cuando la inscripción, cancelación, anotación o expedición de la certificación sea rechazada, el usuario podrá interponer recurso en contra de dicha determinación dentro de los tres días hábiles siguientes a aquél en que haya surtido efectos la notificación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE MARZO DE 2009)</small>
+
+###### ARTÍCULO 83.
+
+Para tal efecto el interesado deberá de presentar un escrito dirigido al Director del Registro Público en el que manifieste lo siguiente:
+
+I.- Nombre, firma y domicilio del promovente;
+
+II.- Número de control del trámite;
+
+III.- Fecha de recepción del documento por la Oficina Registral;
+
+IV.- Fecha en que fue notificado el rechazo;
+
+V.- Descripción del título de propiedad o acto jurídico rechazado; y
+
+VI.- Razones y fundamento jurídico en el cual sustente la procedencia de la inscripción, cancelación, anotación o expedición de certificación.
+
+Dicho escrito deberá ser acompañado de los documentos en que sustente su dicho.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE MARZO DE 2009)</small>
+
+###### ARTÍCULO 84.
+
+El Director resolverá el recurso en un término que no exceda de los cinco días hábiles siguientes contados a partir de la fecha de su presentación.
+
+Si la resolución es favorable, se llevará a cabo la inscripción, cancelación, anotación o expedición de la certificación, según corresponda. En caso contrario, el Director confirmará el rechazo.
+
+La resolución será notificada al interesado dentro de los tres días hábiles siguientes al en que se dicte.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE MARZO DE 2009)</small>
+
+###### ARTÍCULO 85.
+
+Las notificaciones podrán realizarse por lista en la Oficina Registral del municipio que corresponda o en la sección correspondiente del portal, surtiendo efectos dentro de los cinco días hábiles siguientes al de su publicación.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE MARZO DE 2009)</small>
+
+## TÍTULO QUINTO. DEL FONDO PARA LA MODERNIZACIÓN DEL REGISTRO PÚBLICO
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE MARZO DE 2009)</small>
+
+###### ARTÍCULO 86.
+
+El Fondo se integrará con los derechos que se determinen en la Ley de Ingresos vigente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE MARZO DE 2009)</small>
+
+###### ARTÍCULO 87.
+
+Los recursos del Fondo serán destinados a:
+
+I.- La adquisición de nuevas tecnologías y del equipo necesario para la implementación de las mismas;
+
+II.- El desarrollo de nuevos mecanismos y dinámicas tendentes a la eficientización en la prestación de los servicios registrales;
+
+III.- El diseño y elaboración de sistemas de información encaminados a la captación, desarrollo, recuperación, almacenamiento y explotación de información de los procesos considerados en el Registro Público;
+
+IV.- La capacitación y profesionalización del personal;
+
+V.- La difusión de los mecanismos señalados en la fracción I, así como aquellos preexistentes; y
+
+VI.- El impulso de mecanismos de coordinación con los Ayuntamientos en el Estado.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -852,3 +1028,15 @@ PRESIDENTA
 DIP. ELÍAS LÓPEZ MENDOZA
 
 SECRETARIO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE MARZO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan en lo conducente, todas las disposiciones normativas que se opongan a la presente reforma.
