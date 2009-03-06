@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-que-establece-las-normas-que-rigen-los-59523"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-25"
-last_updated: "2008-01-25"
+last_updated: "2009-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO QUE ESTABLECE LAS NORMAS QUE RIGEN LOS MECANISMOS, PROCEDIMIENTOS Y CRITERIOS DE EVALUACION DE MAGISTRADOS Y CONSEJEROS DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2009.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 25 de enero del 2008.
 
@@ -179,6 +179,10 @@ IV).- Número de amparos solicitados, concedidos, negados o sobreseídos.
 
 V).- Número de resoluciones sin amparo interpuesto.
 
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2009)</small>
+
+Para efectos de las fracciones II y III se deberá considerar el estado procesal de los asuntos al momento de emitir el acuerdo o resolución correspondiente.
+
 ###### Artículo 17.
 
 Las auditorías que tengan por objeto obtener información para la evaluación del desempeño de los Consejeros, necesariamente deben ocuparse de lo siguiente:
@@ -191,25 +195,63 @@ A).- El número de proyectos emitidos y aprobados en los procedimientos discipli
 
 B).- El número de proyectos de dictámenes emitidos y aprobados que le hayan sido turnados con motivo de las auditorías practicadas por la Visitaduría Judicial;
 
-C).- El cumplimiento de las comisiones encomendadas por el Consejo; y,
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
 
-D).- El número de visitas practicadas a los juzgados, sedes de justicia alternativa del Estado o cualquier otro órgano que pertenezca al Poder Judicial.
+C).- El cumplimiento de las comisiones en actividades internas del Poder Judicial que le fueren encomendadas por el Consejo;
 
-III).- Se examinarán en forma aleatoria como mínimo veinte procedimientos disciplinarios, con el fin de verificar su legalidad; sin embargo, podrá examinarse un número mayor de expedientes, cuando esto se considere necesario para cumplir con el objeto de la auditoría.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
 
-Se revisará el contenido jurídico de las resoluciones y acuerdos para verificar si han sido dictados y cumplidos oportunamente. Asimismo, si las notificaciones y diligencias se efectuaron en los plazos legales.
+D).- El cumplimiento de las comisiones de representación o participación en órganos colegiados en los que algún miembro del Consejo de el Poder Judicial sea integrante, encomendadas por el Consejo o por la Presidencia del Supremo Tribunal de Justicia del Estado y del Consejo del Poder Judicial; y
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2009)</small>
+
+E).- Las visitas practicadas a los juzgados, sedes de justicia alternativa del Estado o cualquier otro órgano que pertenezca al Poder Judicial;
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
+III).- Las audiencias concedidas a la ciudadanía y a los servidores públicos del Poder Judicial;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2009)</small>
+
+IV).- Se examinarán en forma aleatoria como mínimo veinte procedimientos disciplinarios, con el fin de verificar su legalidad; sin embargo, podrá examinarse un número mayor de expedientes, cuando esto se considere necesario para cumplir con el objeto de la auditoria.
+
+Se revisará el contenido jurídico de las resoluciones y acuerdos para verificar si han sido dictados y cumplidos oportunamente. Asimismo, si las notificaciones y diligencias se efectuaron en los plazos legales;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2009)</small>
+
+V).- Las asistencias y proyectos de acuerdos presentados en el Comité de Contrataciones y Adquisiciones del Poder Judicial;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2009)</small>
+
+VI).- El cumplimiento de obligaciones sobre declaraciones patrimoniales;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2009)</small>
+
+VII).- El uso adecuado de los recursos humanos y materiales puestos a su disposición para la realización del servicio;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2009)</small>
+
+VIII).- La realización de cursos de especialización, maestrías, doctorados, etcétera, así como la publicación de artículos, impartición de clases, preferentemente en materia jurídica.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
 
 ###### Artículo 18.
 
-Las auditorías que tengan por objeto obtener información para la evaluación del desempeño del Presidente del Supremo Tribunal de Justicia del Estado y del Consejo del Poder Judicial, necesariamente deben ocuparse de lo siguiente:
+· Las auditorías que tengan por objeto obtener información para la evaluación del desempeño del Presidente del Supremo Tribunal de Justicia y del Consejo del Poder Judicial del Estado, necesariamente deben ocuparse de lo siguiente:
 
-I).- Actividades y decisiones adoptadas para vigilar que la impartición de justicia se realice de manera pronta, completa, imparcial y gratuita, incluyendo los acuerdos y circulares, dándole cuenta al Pleno y al Consejo;
+I.- Actos en los que ejerza la representación del Poder Judicial del Estado y naturaleza de los mismos;
 
-II).- Propuestas de acuerdos y circulares presentadas al Pleno y al Consejo para vigilar que la impartición de justicia se realice de manera pronta, completa, imparcial y gratuita;
+II.- Actividades y decisiones adoptadas para vigilar que la impartición de justicia se realice de manera pronta, completa, imparcial y gratuita, incluyendo los acuerdos y circulares, dándole cuenta al Pleno del Supremo Tribunal de Justicia y al Consejo del Poder Judicial;
 
-III).- Número y tipo de asuntos tramitados de la competencia del Pleno hasta ponerlos en estado de resolución;
+III.- Propuestas de acuerdos y circulares presentadas al Pleno del Supremo Tribunal de Justicia y al Consejo del Poder Judicial para vigilar que la impartición de justicia se realice de manera pronta, completa, imparcial y gratuita;
 
-IV).- Los cargos que ocupe en organizaciones locales o nacionales en representación del Poder Judicial del Estado.
+IV.- Número y tipo de sesiones ordinarias o extraordinarias en las que participe en el Pleno del Supremo Tribunal de Justicia, Consejo del Poder Judicial, Comisión de Evaluación de Magistrados y Consejeros y Comité de Contrataciones y Adquisiciones del Poder Judicial;
+
+V.- Número y tipo de asuntos tramitados, de la competencia del Pleno del Supremo Tribunal de Justicia, hasta ponerlos en estado de resolución;
+
+VI.- La rendición del informe anual sobre la impartición de justicia y sobre la administración del Poder Judicial, durante el tiempo de su encargo; y
+
+VII.- Actos en que participó con ponencias o conferencias, las publicaciones realizadas así como los cargos que ocupó en organizaciones locales o nacionales en representación del Poder Judicial del Estado.
 
 ###### Artículo 19.
 
@@ -271,6 +313,10 @@ Lo asentado por el Comisionado Visitador como ocurrido en la práctica de las au
 
 Al finalizar la auditoría y antes del cierre del acta, el Comisionado Visitador permitirá que el Evaluado se imponga de su contenido, con el objeto de que manifieste lo que a su derecho convenga y podrá hacerlo verbalmente en ese momento, o por escrito ante el Comisionado Visitador, dentro de los cinco días siguientes al cierre del acta; manifestaciones que serán consideradas al realizar el dictamen correspondiente.
 
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2009)</small>
+
+El acta deberá contener los datos de identificación de los expedientes, resoluciones y acuerdos que se consideren extemporáneos, así como de los amparos concedidos.
+
 ###### Artículo 30.
 
 Concluido el término a que se refiere el artículo anterior, el Comisionado Visitador entregará al Presidente el acta de auditoría dentro de los diez días siguientes, acompañada del expediente integrado y con un dictamen sobre el resultado de la misma, que será sometido a consideración de la Comisión para su aprobación, en su caso.
@@ -313,43 +359,43 @@ II).- La oportunidad en el dictado de las resoluciones conforme a los plazos leg
 
 III).- La calidad de las resoluciones.
 
-La calidad de las resoluciones se medirá teniendo en cuenta el número de las pronunciadas en el periodo que comprenda la evaluación, la cantidad de aquellas contra las que no se promovió amparo, el número de amparos promovidos, concedidos y negados.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
 
-Para obtener el puntaje que a este rubro corresponde, en tratándose de las Salas Civiles, se aplicará la siguiente fórmula:
+La calidad de las resoluciones se determinará tomando como referencia el grado de asertividad y la puntuación a obtener.
 
-Puntaje= 20.8 - (0.4*SE) - (0.4*SI)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE MARZO DE 2009)</small>
 
-Donde:
+El porcentaje de asertividad se obtendrá teniendo en cuenta el número de resoluciones pronunciadas por la Sala en relación al número de amparos concedidos, en el periodo que comprenda la evaluación. Para ello se multiplica la cantidad de amparos concedidos por el puntaje máximo que se otorga a esta fracción, y el resultado que arroje dicha operación se divide entre la cantidad de tocas resueltos.
 
-20.8 es una cifra de referencia para acotar los puntajes entre 0 cero y 20 veinte, la cual está en función de la determinación de los puntos a que se refiere la fracción tercera de la tabla contenida en el siguiente artículo.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
 
-0.4, en los dos casos, es el valor que representa cada punto porcentual en la calificación de cero a veinte.
+Para obtener el puntaje que a este rubro corresponde, tratándose de Salas Civiles y Penales, se aplicará la siguiente fórmula:
 
-Ambas referencias numéricas han sido precisadas en base a promedios históricos del desempeño de las Salas Civiles.
+25
 
-SE: Es el porcentaje de amparos concedidos, con respecto al número de apelaciones resueltas. Para obtener este porcentaje se multiplica 100 por el número de amparos concedidos, dividiendo el resultado entre el número de apelaciones resueltas.
+Puntaje: AC * -------
 
-SI: Es el porcentaje de amparos concedidos con respecto al número de amparos promovidos. Este porcentaje se obtiene de multiplicar 100 por el número de amparos concedidos, dividiendo el resultado entre el número de amparos promovidos.
-
-El asterisco (*) indica multiplicación.
-
-Para las Salas Penales, la fórmula será:
-
-Puntaje= 21.6 - (0.4*SE) - (0.4*SI)
+TR
 
 Donde:
 
-21.6 es una cifra de referencia para acotar los puntajes entre 0 cero y 20 veinte, la cual está en función de la determinación de los puntos a que se refiere la fracción tercera de la tabla contenida en el siguiente artículo.
+AC: Son los amparos concedidos que haya tenido el Evaluado durante el periodo de la evaluación.
 
-0.4, en los dos casos, es el valor que representa cada punto porcentual en la calificación de cero a veinte.
+TR: Son los tocas resueltos por el Evaluado durante el periodo de su evaluación.
 
-Ambas referencias numéricas han sido precisadas en base a promedios históricos del desempeño de las Salas Penales.
-
-SE: Es el porcentaje de amparos concedidos, con respecto al número de apelaciones resueltas. Para obtener este porcentaje se multiplica 100 por el número de amparos concedidos, dividiendo el resultado entre el número de apelaciones resueltas.
-
-SI: Es el porcentaje de amparos concedidos con respecto al número de amparos promovidos. Este porcentaje se obtiene de multiplicar 100 por el número de amparos concedidos, dividiendo el resultado entre el número de amparos promovidos.
+25: Es el puntaje máximo que otorga a esta fracción el artículo 36 del Reglamento.
 
 El asterisco (*) indica multiplicación.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
+
+La cantidad obtenida de dicha operación se restará al puntaje máximo que otorga esta fracción (25 puntos), y la cantidad que se obtenga será el puntaje del evaluado por lo que ve a esta fracción; así tenemos:
+
+25
+
+Puntaje: 25 - [ AC* ------ ]
+
+TR
 
 IV).- La oportunidad en el dictado de acuerdos, conforme a la ley.
 
@@ -367,9 +413,13 @@ B).- Sean por lo menos iguales las salidas a las entradas.
 
 C).- Cuando aunque (sic) sean mayores las entradas que las salidas, esto se deba a que el estado procesal de los asuntos no permita resolverlos.
 
-VIII).- Sobresalir en el comparado de existencias mensuales entre la Sala evaluada y sus pares, de acuerdo al informe mensual de la Contraloría.
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
-El resultado de la comparación será positivo a partir de que el Evaluado ocupe, en promedio entre sus pares, del primero al quinto lugar, y dependiendo del lugar que ocupe será el puntaje que le corresponda.
+VIII).- Sobresalir en el comparado de equilibrio estadístico entre la Sala evaluada y sus pares, de acuerdo con lo que se derive de la fracción anterior.
+
+El resultado de la comparación otorgará al evaluado que ocupe del primero al tercer lugar los puntos a que se refiere la fracción VIII del artículo 36, y a los demás evaluados se les asignará, de manera proporcional, dependiendo del lugar que ocupen, de manera descendente el puntaje que les corresponda.
+
+En las evaluaciones anuales no se otorgará puntuación al evaluado que no haya mantenido equilibrio estadístico cuando menos en 6 seis meses durante el periodo del año evaluado.
 
 IX).- El cumplimiento de obligaciones sobre declaraciones patrimoniales.
 
@@ -377,7 +427,9 @@ X).- El uso adecuado de los recursos humanos y materiales puestos a su disposici
 
 XI).- La realización de cursos de especialización, maestrías, doctorados, etcétera, así como la publicación de artículos, impartición de clases, todo ello en cuestiones jurídicas.
 
-XII).- El trabajo en comisiones permanentes encomendadas por el Pleno.
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
+XII).- Las asistencias y comisiones realizadas en el Pleno.
 
 ###### Artículo 36.
 
@@ -385,9 +437,13 @@ Los aspectos a que se refieren los incisos del I) al XIl) del artículo anterior
 
 I) 5 puntos
 
-II) 20 puntos
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
-III) 20 puntos
+II) 16 puntos
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
+III) 25 puntos
 
 IV) 5 puntos
 
@@ -395,21 +451,33 @@ V) 10 puntos
 
 VI) 10 puntos
 
-VII) 16 puntos
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
-VIII) 10 puntos
+VII) 12 puntos
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
+VIII) 5 puntos
 
 IX) 1 punto
 
 X) 1 punto
 
-XI) 1 punto
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
-XII) 1 punto
+XI) 5 puntos
 
-El puntaje señalado en la tabla anterior, en los incisos del I) al VIII), excepto el III), corresponde a lo correcto del universo de los datos a que se refiere cada inciso, y esa calificación irá disminuyendo y se determinará mediante la aplicación de una regla de tres.
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
-Respecto a los incisos del IX) al XII), se determinará si se han realizado o no conductas tendientes a la satisfacción de los supuestos ahí contemplados y en consecuencia se otorgará o no el punto señalado.
+XII) 10 puntos
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
+
+El puntaje señalado en la tabla anterior, en los incisos del I) al VIII), corresponde a lo correcto del universo de los datos a que se refiere cada inciso, y esa calificación irá disminuyendo y se determinará mediante la aplicación de una regla de tres.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
+
+Respecto a los incisos del IX) al XII), se determinará si se han realizado o no conductas tendientes a la satisfacción de los supuestos ahí contemplados y en consecuencia se otorgará el puntaje señalado.
 
 Las calificaciones obtenidas en cada uno de los incisos del I) al XII) se sumarán y el resultado representará la calificación individual del desempeño del Evaluado.
 
@@ -453,9 +521,11 @@ Tampoco se considerarán como adversos los que se hayan concedido contra criteri
 
 Los supuestos comprendidos en este artículo sólo serán tomados en cuenta por la Comisión a instancia del evaluado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MARZO DE 2009)</small>
+
 ###### Artículo 40.
 
-La calidad de los proyectos de resolución en negocios de la competencia del Pleno, se medirá atendiendo a si fueron acogidos o no. Sólo se considerarán como aspectos negativos aquellos casos en que el proyecto no haya sido aprobado.
+La calidad de los proyectos de resolución en negocios de la competencia del Pleno, se medirá atendiendo a si fueron acogidos o no. Para efectos del presente Reglamento, se considerará que no fueron acogidos, sólo aquellos proyectos que no hayan obtenido cuando menos la mayoría de los votos de los Magistrados presentes.
 
 En lo conducente será aplicable lo previsto en el artículo precedente.
 
@@ -477,45 +547,77 @@ La Comisión, para emitir el dictamen de evaluación anual de Consejeros, tenien
 
 Emitirá una calificación de 0 cero a 100 cien puntos.
 
-Los aspectos a que se refieren los incisos del I) al lII) del artículo 17 de este reglamento se evaluarán conforme a la siguiente tabla:
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
+
+Los aspectos a que se refieren los incisos del I) al VIII) del artículo 17 de este reglamento se evaluarán conforme a la siguiente tabla:
 
 I) 10 puntos
 
-II) A) 20 puntos
+II) A) 15 puntos
 
-II) B) 20 puntos
+II) B) 15 puntos
 
-II) C) 10 puntos
+II) C) 15 puntos
 
-II) D) 20 puntos
+II) D) 10 puntos
 
-III) 20 puntos
+II) E) 5 puntos
 
-El puntaje señalado en la tabla anterior, en los incisos del I) al III), corresponde a lo correcto del universo de los datos a que se refiere cada inciso, y esa calificación irá disminuyendo y se determinará mediante la aplicación de una regla de tres.
+III) 3 puntos
 
-Las calificaciones obtenidas en cada uno de los incisos del I) al III) se sumarán y el resultado representará la calificación individual del desempeño del Evaluado.
+IV) 15 puntos
+
+V) 5 puntos
+
+VI) 1 punto
+
+VII) 1 punto
+
+VIII) 5 puntos
+
+(REFORMADO, P.O. 6 DE MARZO DE 2009) (F. DE E., P.O. 6 DE MARZO DE 2009)
+
+El puntaje señalado en la tabla anterior, en los incisos II), III) y IV) corresponde a lo correcto del universo de los datos a que se refiere cada inciso, y esa calificación irá disminuyendo y se determinará mediante la aplicación de una regla de tres.
+
+(REFORMADO, P.O. 6 DE MARZO DE 2009) (F. DE E., P.O. 6 DE MARZO DE 2009)
+
+Las calificaciones obtenidas en cada uno de los incisos del I) al VIII) se sumarán y el resultado representará la calificación individual del desempeño del Evaluado.
 
 Con la evaluación de los aspectos a que se refiere este artículo se determina si el desempeño del Evaluado cumple con los principios de eficiencia, eficacia, diligencia, celeridad, competencia y excelencia profesional.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MARZO DE 2009)</small>
+
 ###### Artículo 45.
 
-La Comisión, para emitir el dictamen de evaluación anual del Presidente del Supremo Tribunal de Justicia y del Consejo del Poder Judicial, teniendo en cuenta la información objetiva que se desprenda de los informes y auditorías practicadas, se sujetarán a los siguientes lineamientos:
+La Comisión, para emitir la evaluación anual del Presidente del Supremo Tribunal de Justicia y del Consejo del Poder Judicial del Estado, teniendo en cuenta la información objetiva que se desprenda de los informes y auditorías practicadas, se sujetará a los siguientes lineamientos.
 
 Emitirá una calificación de 0 cero a 100 cien puntos.
 
-Para fijar la calificación de evaluación del Presidente del Supremo Tribunal de Justicia y del Consejo del Poder Judicial, la Comisión atenderá los siguientes parámetros:
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
 
-Los aspectos a que se refieren los incisos del I) al IV) del artículo 18 de este reglamento se evaluarán conforme a la siguiente tabla:
+Para fijar la calificación de la evaluación del Presidente del Supremo Tribunal de Justicia y del Consejo del Poder Judicial del Estado, la Comisión atenderá a los siguientes parámetros:
 
-I) 25 puntos
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
 
-II) 25 puntos
+Los aspectos a que se refieren los incisos del I) al VII) del artículo 18 de este reglamento se evaluarán conforme a la siguiente tabla:
 
-III) 25 puntos
+I) 15 puntos
 
-IV) 25 puntos
+II) 15 puntos
 
-Las calificaciones obtenidas en cada uno de los incisos del I) al IV) se sumarán y el resultado representará la calificación individual del desempeño del Evaluado.
+II) 15 puntos
+
+IV) 15 puntos
+
+V) 15 puntos
+
+VI) 20 puntos
+
+VII) 5 puntos
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
+
+Las calificaciones obtenidas en cada uno de los incisos del I) al VII) se sumarán y el resultado representará la calificación individual del desempeño del Evaluado.
 
 Con la evaluación de los aspectos a que se refiere este artículo se determina si el desempeño del Evaluado cumple con los principios de eficiencia, eficacia, diligencia, celeridad, competencia y excelencia profesional.
 
@@ -542,3 +644,11 @@ Lo anterior, se asienta para debida constancia, a los 22 veintidós días del me
 El Secretario de la comisión.
 
 Consejero Víctor Federico Pérez Hernández.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 6 DE MARZO DE 2009.
+
+Primero.- Las reformas y adiciones al presente reglamento entrarán en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Las reformas y adiciones contenidas en el presente, se aplicarán a partir de las evaluaciones que se realicen en el año 2009.
