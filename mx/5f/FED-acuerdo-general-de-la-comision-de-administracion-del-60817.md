@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-la-comision-de-administracion-del-60817"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-05-13"
-last_updated: "2009-01-30"
+last_updated: "2009-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60817&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-04-17"
 
 ACUERDO GENERAL DE LA COMISION DE ADMINISTRACION DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE MODIFICAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL NUMERO 22-05E DE LA PROPIA COMISION, QUE FIJA LAS BASES PARA QUE LAS ADQUISICIONES, ARRENDAMIENTOS, PRESTACION DE SERVICIOS Y OBRA PUBLICA EN EL TRIBUNAL ELECTORAL, SE AJUSTEN A LOS CRITERIOS PREVISTOS EN EL ARTICULO 134 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO ESPECIFICO DE LA COMISION DE ADMINISTRACION DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION, QUE DETERMINA LAS INSTANCIAS Y SERVIDORES PUBLICOS FACULTADOS PARA APLICAR LAS DISPOSICIONES DEL ACUERDO GENERAL QUE ESTABLECE LAS BASES PARA QUE EN EL PODER JUDICIAL DE LA FEDERACION, LAS ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES, PRESTACION DE SERVICIOS, OBRA PUBLICA Y LOS SERVICIOS RELACIONADOS CON LA MISMA, SE AJUSTEN A LOS CRITERIOS CONTEMPLADOS EN EL ARTICULO 134 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE 30 DE ENERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO ESPECIFICO DE LA COMISION DE ADMINISTRACION DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION, QUE DETERMINA LAS INSTANCIAS Y SERVIDORES PUBLICOS FACULTADOS PARA APLICAR LAS DISPOSICIONES DEL ACUERDO GENERAL QUE ESTABLECE LAS BASES PARA QUE EN EL PODER JUDICIAL DE LA FEDERACION, LAS ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES, PRESTACION DE SERVICIOS, OBRA PUBLICA Y LOS SERVICIOS RELACIONADOS CON LA MISMA, SE AJUSTEN A LOS CRITERIOS CONTEMPLADOS EN EL ARTICULO 134 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE 30 DE ENERO DE 2009 Y REPUBLICADO EN EL D.O.F. DE 6 DE MARZO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
@@ -212,3 +212,7 @@ PRIMERO.- El presente Acuerdo Específico entrará en vigor a partir del primero
 SEGUNDO.- Se abrogan los Acuerdos Generales 22-05E y 025/S60, y se derogan todas las disposiciones, acuerdos, lineamientos, manuales de organización y procedimientos que se contrapongan a este acuerdo.
 
 TERCERO.- Los procedimientos de adjudicación iniciados con anterioridad a la entrada en vigor del presente acuerdo, deberán seguirse conforme a las disposiciones vigentes al momento de su inicio.
+
+D.O.F. 6 DE MARZO DE 2009.
+
+UNICO.- La presente reforma entrará en vigor el día siguiente de su publicación, debiéndose publicar íntegramente en el Diario Oficial de la Federación el reformado Acuerdo Específico de la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, que determina las instancias y servidores públicos facultados para aplicar las disposiciones del Acuerdo General que establece las Bases para que en el Poder Judicial de la Federación, las adquisiciones, arrendamiento de bienes muebles, prestación de servicios, obra pública y los servicios relacionados con la misma, se ajusten a los criterios contemplados en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos.
