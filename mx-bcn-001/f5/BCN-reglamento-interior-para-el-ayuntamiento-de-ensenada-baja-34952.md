@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2008-11-14"
+last_updated: "2009-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -1279,9 +1279,9 @@ XII.- Comercio y Espectáculos;
 
 XIII.- Delegaciones;
 
-> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2008)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 18 DE JULIO DE 2008)</small>
 
-XIV.- Comisión de Asuntos Indígenas; y
+XIV.- Asuntos Indígenas;
 
 > <small>(ADICIONADA, P.O. 18 DE JULIO DE 2008)</small>
 
@@ -1485,13 +1485,27 @@ III.- Supervisar el desempeño de los Delegados Municipales y coadyuvar en la pr
 
 IV.- Vigilar que el funcionamiento de las Juntas de Mejoramiento Moral, Cívico y Material, cumplan con lo establecido en la normatividad respectiva y con los planes y programas del Gobierno Municipal.
 
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2009)</small>
+
+ARTÍCULO 127 BIS.- Atribuciones:
+
+I.- Dictaminar sobre proyectos de Reglamentos, disposiciones normativas de observancia general en materia de Asuntos Indígenas.
+
+II.- Proponer al Ayuntamiento:
+
+a).- Programas y acciones a favor del desarrollo y la integración de la comunidad indígena del Municipio.
+
+b).- Los mecanismos y acciones necesarias para mejorar la atención a la Comunidad Indígena en las dependencias y entidades de la Administración Pública Municipal y resolver sus necesidades o problemas;
+
+III.- Promover acciones tendientes a incentivar la participación de los miembros de la comunidad indígena del Municipio en los programas y actividades del Gobierno Municipal.
+
 > <small>(ADICIONADA SU DENOMINACION, P.O. 18 DE JULIO DE 2008)</small>
 
 COMISION DE PESCA Y ACUACULTURA SUSTENTABLES.
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2008)</small>
 
-ARTICULO 127 Ter (SIC).- Atribuciones:
+ARTÍCULO 127 TER.- Atribuciones:
 
 I.- Analizar y dictaminar los proyectos de Reglamento y disposiciones normativas de observancia general relacionados con la Pesca y la Acuacultura;
 
@@ -1660,3 +1674,13 @@ QUINTO.- La Comisión de Pesca y Acuacultura Sustentables de Ayuntamiento de Ens
 P.O. 14 DE NOVIEMBRE DE 2008.
 
 UNICO.- Una vez aprobado el presente punto de acuerdo, publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE MARZO DE 2009.
+
+PRIMERO.- Siendo aprobada la presente iniciativa, incorpórese en el libro de actas y publíquese en el periódico oficial del Gobierno del Estado de Baja California, para efectos de iniciar la vigencia en todo el territorio del Municipio.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones reglamentarias que se opongan a contenido (sic) de la presente reforma.
+
+TERCERO.- El Ayuntamiento designara a propuesta del presidente municipal, a los Regidores integrantes de la Nueva Comisión de Asuntos Indígenas, así como al Regidor Coordinador, un Secretario y un Vocal.
+
+CUARTO.- La Comisión de Asuntos Indígenas del Ayuntamiento de Ensenada, deberá instalarse a mas tardar, dentro de los treinta días siguientes a la publicación del presente acuerdo.
