@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-especifico-de-la-comision-de-administracion-del-65755"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-01-30"
-last_updated: "2009-01-30"
+last_updated: "2009-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65755&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,13 +21,17 @@ issue_date: "2009-01-30"
 
 ACUERDO ESPECIFICO DE LA COMISION DE ADMINISTRACION DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION, QUE DETERMINA LAS INSTANCIAS Y SERVIDORES PUBLICOS FACULTADOS PARA APLICAR LAS DISPOSICIONES DEL ACUERDO GENERAL QUE ESTABLECE LAS BASES PARA QUE EN EL PODER JUDICIAL DE LA FEDERACION, LAS ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES, PRESTACION DE SERVICIOS, OBRA PUBLICA Y LOS SERVICIOS RELACIONADOS CON LA MISMA, SE AJUSTEN A LOS CRITERIOS CONTEMPLADOS EN EL ARTICULO 134 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MARZO DE 2009.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de enero de 2009.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Tribunal Electoral del Poder Judicial de la Federación.- Comisión de Administración.- Secretaría.
 
+> <small>N. DE E. LAS REFORMAS APROBADAS POR LA COMISION DE ADMINISTRACION DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION, MODIFICO DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DEL ACUERDO, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL; Y SI BIEN DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN EL D.O.F. DE 6 DE MARZO DE 2009.</small>
+
 ACUERDO ESPECIFICO DE LA COMISION DE ADMINISTRACION DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION, QUE DETERMINA LAS INSTANCIAS Y SERVIDORES PUBLICOS FACULTADOS PARA APLICAR LAS DISPOSICIONES DEL ACUERDO GENERAL QUE ESTABLECE LAS BASES PARA QUE EN EL PODER JUDICIAL DE LA FEDERACION, LAS ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES, PRESTACION DE SERVICIOS, OBRA PUBLICA Y LOS SERVICIOS RELACIONADOS CON LA MISMA, SE AJUSTEN A LOS CRITERIOS CONTEMPLADOS EN EL ARTICULO 134 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.
+
+> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2009)</small>
 
 ARTICULO 1
 
@@ -35,15 +39,13 @@ OBJETO
 
 El presente acuerdo tiene por objeto determinar las instancias y servidores públicos del Tribunal Electoral del Poder Judicial de la Federación, facultados para aplicar las disposiciones del Acuerdo General que establece las bases para que en el Poder Judicial de la Federación, las adquisiciones, arrendamiento de bienes muebles, prestación de servicios, obra pública y los servicios relacionados con la misma, se ajusten a los criterios contemplados en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(F. DE E., D.O.F. 4 DE FEBRERO DE 2009)</small>
-
 DEFINICIONES
 
 Para los efectos de este Acuerdo Específico, se entenderá por:
 
 I. Area de Adquisiciones: La Dirección General de Recursos Materiales del Tribunal Electoral del Poder Judicial de la Federación;
 
-II. Acuerdo: Acuerdo General que Establece las bases para que en el Poder Judicial de la Federación, las adquisiciones, arrendamiento de bienes muebles, prestación de servicios, obra pública y los servicios relacionados con la misma, se ajusten a los criterios contemplados en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos;
+II. Acuerdo: Acuerdo General que establece las Bases para que en el Poder Judicial de la Federación, las adquisiciones, arrendamiento de bienes muebles, prestación de servicios, obra pública y los servicios relacionados con la misma, se ajusten a los criterios contemplados en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos;
 
 III. Acuerdo Específico: Acuerdo Específico de la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, que determina las instancias y servidores públicos facultados para aplicar las disposiciones del Acuerdo General que Establece las bases para que en el Poder Judicial de la Federación, las adquisiciones, arrendamiento de bienes muebles, prestación de servicios, obra pública y los servicios relacionados con la misma, se ajusten a los criterios contemplados en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -61,25 +63,31 @@ IX. Contraloría: La Contraloría Interna del Tribunal Electoral del Poder Judic
 
 X. Contratista: La persona física o moral con la que se celebren contratos de obra pública, de servicios relacionados con la misma o de cualquier naturaleza, según corresponda;
 
-XI. Día hábil: Todos los días del año, con excepción de los previstos en el artículo 163 de la Ley Orgánica del Poder Judicial de la Federación, así como los que determine la Sala Superior, a través de sus acuerdos generales, o la Comisión de Administración;
+XI. Coordinación de Adquisiciones: La Coordinación de Adquisiciones, Servicios y Obra Pública del Tribunal Electoral del Poder Judicial de la Federación;
 
-XII. Finanzas: La Coordinación Financiera del Tribunal Electoral del Poder Judicial de la Federación;
+XII. Día hábil: Todos los días del año, con excepción de los previstos en el artículo 163 de la Ley Orgánica del Poder Judicial de la Federación, así como los que determine la Sala Superior, a través de sus acuerdos generales, o la Comisión de Administración;
 
-XIII. Integrantes: Integrantes del Comité de Adquisiciones, Arrendamientos, Prestación de Servicios y Obra Pública;
+XIII. Finanzas: La Coordinación Financiera del Tribunal Electoral del Poder Judicial de la Federación;
 
-XIV. Organo: El Tribunal Electoral del Poder Judicial de la Federación;
+XIV. Integrantes: Integrantes del Comité de Adquisiciones, Arrendamientos, Prestación de Servicios y Obra Pública;
 
-XV. Prestador de Servicios: La persona física o moral que otorgue servicios de cualquier naturaleza, salvo los relacionados con obra pública;
+XV. Organo: El Tribunal Electoral del Poder Judicial de la Federación;
 
-XVI. Proveedor: La persona física o moral que suministre, arriende bienes muebles o preste servicios, y
+XVI. Prestador de Servicios: La persona física o moral que otorgue servicios de cualquier naturaleza, salvo los relacionados con obra pública;
 
-XVII. Secretario Administrativo: El titular de la Secretaría Administrativa del Tribunal Electoral del Poder Judicial de la Federación.
+XVII. Proveedor: La persona física o moral que suministre, arriende bienes muebles o preste servicios, y
+
+XVIII. Secretario Administrativo: El titular de la Secretaría Administrativa del Tribunal Electoral del Poder Judicial de la Federación.
+
+> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2009)</small>
 
 ARTICULO 2
 
 INSTANCIAS COMPETENTES PARA LA INTERPRETACION
 
 La interpretación y aplicación del Acuerdo y del presente Acuerdo Específico, corresponderá a la Comisión, el Comité y el Secretario Administrativo, en el ámbito de sus respectivas competencias.
+
+> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2009)</small>
 
 ARTICULO 3
 
@@ -99,9 +107,11 @@ V. Resolver con carácter de inatacable las inconformidades, y
 
 VI. Las demás que le atribuye expresamente el Acuerdo.
 
+> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2009)</small>
+
 ARTICULO 4
 
-DE LA INTEGRACION DEL COMITE DE ADQUISICIONES, ARRENDAMIENTOS, PRESTACION DE SERVICIOS Y OBRA PUBLICA
+DEL COMITE DE ADQUISICIONES, ARRENDAMIENTOS, PRESTACION DE SERVICIOS Y OBRA PUBLICA
 
 El Comité tendrá carácter permanente y estará integrado en los términos siguientes:
 
@@ -123,19 +133,17 @@ Asesor
 
 Permanente: El Coordinador de Asuntos Jurídicos;
 
-Invitado
-
-Permanente: El Contralor Interno;
+Invitado Permanente: El Contralor Interno;
 
 Invitados: Titulares de las diversas áreas del Organo, cuya intervención considere necesaria el Presidente, para aclarar aspectos técnicos o administrativos relacionados con los asuntos sometidos a la consideración del Comité, y
 
-Secretario
+Secretario Técnico: El Jefe de la Unidad de Adquisiciones dependiente de la Dirección General de Recursos Materiales.
 
-Técnico: El Jefe de la Unidad de Adquisiciones dependiente de la Dirección General de Recursos Materiales.
-
-El Coordinador de Adquisiciones, Servicios y Obra Pública suplirá las ausencias del Presidente del Comité, los integrantes con derecho a voz y voto podrán designar por escrito, en caso de ausencia debidamente justificada, a sus respectivos suplentes los cuales participarán con las mismas funciones que tiene asignadas el titular.
+El Coordinador de Adquisiciones, Servicios y Obra Pública suplirá las ausencias del Presidente del Comité. Los integrantes con derecho a voz y voto podrán designar por escrito, en caso de ausencia debidamente justificada, a sus respectivos suplentes los cuales participarán con las mismas funciones que tiene asignadas el titular.
 
 Las sesiones no podrán llevarse a cabo, sin la presencia del Presidente o, en su caso, del Coordinador de Adquisiciones, Servicios y Obra Pública, como Presidente suplente.
+
+> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2009)</small>
 
 ARTICULO 5
 
@@ -161,7 +169,7 @@ VIII. Invariablemente deberá incluirse en el orden del día un apartado corresp
 
 IX. En la primera sesión del año deberá presentarse a consideración de los miembros del Comité, el calendario de sesiones ordinarias, los Programas Anuales de Ejecución de Adquisiciones, Arrendamientos, Prestación de Servicios y Obra Pública, así como los montos que regirán para los distintos procedimientos licitatorios, en el ejercicio de que se trate, los cuales se someterán a consideración de la Comisión;
 
-X. El contenido de la información y documentación de los asuntos sometidos a la consideración del Comité por las áreas que los presenten, será bajo la total y absoluta responsabilidad de éstas;
+X. El contenido de la información y documentación de los asuntos sometidos a la consideración del Comité por las áreas que los presenten, será bajo la total y absoluta responsabilidad de éstas.
 
 La responsabilidad de cada integrante del Comité quedará limitada al voto o comentario que emita u omita, en lo particular, respecto al asunto sometido a su consideración, con base en la documentación que le sea presentada.
 
@@ -179,13 +187,13 @@ d) Documentación que se anexa;
 
 e) Lugar y condiciones de entrega, y
 
-f) El tipo de contrato y de precio;
+f) El tipo de contrato y de precio.
 
-XII. En este formato el Secretario Técnico anotará el acuerdo emitido por el Comité, el cual dará lectura antes de recabar las firmas correspondientes.
+XII. En este formato el Secretario Técnico anotará el acuerdo emitido por el Comité, al cual dará lectura antes de recabar las firmas correspondientes.
+
+> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2009)</small>
 
 ARTICULO 6
-
-DEL COMITE
 
 Conforme a lo previsto en el Acuerdo al Comité corresponde:
 
@@ -197,11 +205,11 @@ III. Someter a la consideración de la Comisión, por conducto del Presidente de
 
 IV. Aprobar la adquisición de bienes muebles remanufacturados o reconstruidos;
 
-V. Autorizar la contratación de seguros cuando por su naturaleza o el tipo de riesgo, el costo de aseguramiento represente una erogación que no guarde relación directa con el beneficiario que se obtuvo;
+V. Autorizar la contratación de seguros cuando por su naturaleza o el tipo de riesgo, el costo de aseguramiento represente una erogación que no guarde relación directa con el beneficio que se obtuvo;
 
 VI. Autorizar el pago anticipado de suscripciones, seguros o de otros servicios, en los que no sea posible pactar que su costo sea cubierto después de que la prestación del servicio se realice;
 
-VII. Autorizar la reducción de los plazos establecidos en el procedimiento de licitación pública o de invitación a cuando menos tres proveedores o contratistas cuando este justificada la urgencia de contar con los bienes, servicios y obra pública;
+VII. Autorizar la reducción de los plazos establecidos en el procedimiento de licitación pública o de invitación a cuando menos tres proveedores o contratistas cuando esté justificada la urgencia de contar con los bienes, servicios u obra pública;
 
 VIII. Autorizar la contratación de asesorías técnicas externas;
 
@@ -221,11 +229,11 @@ XIV. Determinar al proveedor, contratista o prestador de servicios a quien se le
 
 XV. Aprobar el programa de aseguramiento de los bienes patrimoniales del Organo y vigilar que las pólizas de seguros se contraten conforme a las necesidades del mismo;
 
-XVI. Establecer criterios conforme los cuales las áreas operativas contarán con los elementos necesarios, para los casos en los que deba emitirse la descalificación de aquéllas propuestas que se consideren insolventes;
+XVI. Establecer criterios conforme los cuales las áreas operativas contarán con los elementos necesarios, para los casos en los que deba emitirse la descalificación de aquellas propuestas que se consideren insolventes;
 
 XVII. En materia de adquisición y arrendamiento de bienes inmuebles;
 
-a) Conocer y emitir opinión respecto a los dictámenes, avalúos y demás documentos que acrediten la propiedad, el uso de suelo y factibilidad de los inmuebles que se requieran adquirir para la instalación o reubicación de áreas jurisdiccionales, de apoyo técnico y administrativas del Organo conforme a los lineamientos expedidos en la materia;
+a) Conocer y emitir opinión respecto de los dictámenes, avalúos y demás documentos que acrediten la propiedad, el uso de suelo y factibilidad de los inmuebles que se requieran adquirir para la instalación o reubicación de áreas jurisdiccionales, de apoyo técnico y administrativas del Organo conforme a los lineamientos expedidos en la materia;
 
 b) Someter a la consideración de la Comisión, por conducto del Presidente del Comité, la adquisición de bienes inmuebles;
 
@@ -255,6 +263,8 @@ XXIV. Establecer Subcomités específicos para la revisión de bases o atender a
 
 XXV. Las demás que le señale la Comisión, y que le atribuye expresamente el Acuerdo.
 
+> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2009)</small>
+
 ARTICULO 7
 
 DEL PRESIDENTE
@@ -283,9 +293,11 @@ X. Cumplir y hacer cumplir las disposiciones establecidas en la Ley Orgánica de
 
 XI. Las demás funciones que le sean encomendadas por la Comisión y el propio Comité.
 
+> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2009)</small>
+
 ARTICULO 8
 
-DE LOS VOCALES
+DE LOS VOCALES.
 
 Los vocales tendrán las funciones siguientes:
 
@@ -303,11 +315,13 @@ VI. Cumplir con las disposiciones establecidas en la Ley Orgánica del Poder Jud
 
 VII. Las demás funciones que le sean encomendadas por el Comité.
 
+> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2009)</small>
+
 ARTICULO 9
 
 DEL SECRETARIO TECNICO
 
-El Comité se auxiliará en lo administrativo con un Secretario Técnico, que será el Jefe de la Unidad de Adquisiciones del Area de Adquisiciones, se encargará de lo siguiente:
+El Comité se auxiliará en lo administrativo con un Secretario Técnico, que será el Jefe de la Unidad de Adquisiciones del Area de Adquisiciones, quien se encargará de lo siguiente:
 
 I. Elaborar y someter a la autorización del Presidente del Comité la convocatoria y el orden del día de la sesión correspondiente;
 
@@ -319,7 +333,7 @@ IV. Suscribir los oficios cuya expedición haya acordado el Comité;
 
 V. Elaborar los comunicados mediante los cuales se les notifica a las distintas áreas los acuerdos del Comité, respecto de los asuntos resueltos por las mismas;
 
-VI. Elaborar las actas en las sesiones que se someterán a la aprobación del Comité e integrarlas al expediente respectivo;
+VI. Elaborar las actas de las sesiones que se someterán a la aprobación del Comité e integrarlas al expediente respectivo;
 
 VII. Certificar las copias de las actas que se generen en las sesiones, así como los demás documentos que obren en los archivos del propio Comité, cuando proceda su expedición;
 
@@ -333,19 +347,41 @@ XI. Cumplir y hacer cumplir las disposiciones establecidas en la Ley Orgánica d
 
 XII. Las demás funciones que le sean encomendadas por la Comisión o el Presidente del Comité.
 
+> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2009)</small>
+
 ARTICULO 10
 
 DEL SECRETARIO ADMINISTRATIVO
 
 Conforme a lo previsto en el Acuerdo al Secretario Administrativo corresponde:
 
-I. Presidir, dirigir y moderar las sesiones del Comité, así como emitir su voto respecto de los asuntos puestos a consideración del Comité;
+I. Autorizar las adjudicaciones directas conforme a los lineamientos que establezca el Comité, exceptuando las que se realicen al amparo de los artículos 29 y 77 del Acuerdo.
 
-II. Determinar la rescisión administrativa de las relaciones contractuales que autorice, y
+Los Delegados Administrativos de las Salas Regionales del Tribunal Electoral del Poder Judicial de la Federación autorizarán adjudicaciones directas que deban formalizarse mediante órdenes de trabajo o de servicio, pedidos, requisición u otro similar, de conformidad con los lineamientos que al efecto se expidan;
 
-III. Autorizar la modificación a los contratos en materia de obra cuando el monto a autorizar rebase el dieciséis por ciento y hasta el veinticinco por ciento.
+II. Suscribir los contratos que se deriven de las adjudicaciones;
+
+III. Determinar la rescisión administrativa de las relaciones contractuales que autorice, y
+
+IV. Autorizar la modificación a los contratos en materia de obra cuando el monto a autorizar rebase el dieciséis por ciento y hasta el veinticinco por ciento del monto contratado.
+
+> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2009)</small>
 
 ARTICULO 11
+
+DE LA COORDINACION DE ADQUISICIONES, SERVICIOS Y OBRA PUBLICA
+
+Conforme a lo previsto en el Acuerdo al Coordinador de Adquisiciones corresponde:
+
+I. Autorizar las adjudicaciones que deban formalizarse a través de órdenes de trabajo o de servicios, pedido, requisición u otro similar, conforme a los lineamientos que al efecto se emitan;
+
+II. Coordinar con las áreas operativas, la elaboración de los Programas Anuales de Ejecución de Adquisiciones, Arrendamientos y Prestación de Servicios, y de Obra Pública, y
+
+III. Presentar al Comité los Programas Anuales de Ejecución de Adquisiciones, Arrendamientos y Prestación de Servicios, y de Obra Pública.
+
+> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2009)</small>
+
+ARTICULO 12
 
 DE LA COORDINACION DE ASUNTOS JURIDICOS
 
@@ -353,67 +389,105 @@ Conforme a lo previsto en el Acuerdo a Asuntos Jurídicos corresponde:
 
 I. Presentar al Comité opinión fundada y motivada respecto de la declaratoria de impedimento para contratar;
 
-II. Elaborar el dictamen resolutivo legal que determine la solvencia de las propuestas;
+II. Elaborar el dictamen resolutivo legal que dispone el artículo 39 del Acuerdo;
 
-III. Emitir opinión respecto del anticipo no amortizado, y
+III. Emitir opinión respecto del anticipo no amortizado;
 
-IV. Las demás que le atribuye expresamente el Acuerdo.
+IV. Solicitar a los proveedores y contratistas las fianzas que correspondan y sus modificaciones, y
 
-ARTICULO 12
+V. Las demás que le atribuye expresamente el Acuerdo.
+
+> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2009)</small>
+
+ARTICULO 13
 
 DE LA COORDINACION FINANCIERA
 
 Conforme a lo previsto en el Acuerdo a Finanzas corresponde:
 
-I. Elaborar el dictamen resolutivo financiero, y
+I. Elaborar el dictamen resolutivo financiero que dispone el artículo 39 del Acuerdo;
 
-II. Las demás que le atribuye expresamente el Acuerdo.
+II. Coadyuvar en la elaboración de los Programas Anuales de Ejecución de Adquisiciones, Arrendamientos y Prestación de Servicios, y de Obra Pública, y
 
-ARTICULO 13
+III. Las demás que le atribuye expresamente el Acuerdo.
+
+> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2009)</small>
+
+ARTICULO 14
 
 DE LAS AREAS DE ADQUISICIONES Y DE OBRAS
 
 Conforme a lo previsto en el Acuerdo a las Areas de Adquisiciones y de Obras corresponde:
 
-I. Rendir informe trimestralmente al Comité del cumplimiento del avance de los programas anuales y sus modificaciones;
+I. Elaborar los anteproyectos de los Programas Anuales de Ejecución de Adquisiciones, Arrendamientos y Prestación de Servicios, y de Obra Pública, según corresponda y presentarlos al Coordinador de Adquisiciones;
 
-II. Solicitar al Comité cuando así se requiera la contratación de asesorías técnicas, incluyendo investigación de mercado, verificación de precios, pruebas de calidad y demás actividades relacionadas;
+II. Suscribir en calidad de testigo, los contratos que se adjudiquen mediante procedimiento de licitación pública, invitación a cuando menos tres proveedores o contratistas, adjudicación directa o mediante un procedimiento diverso;
 
-III. Informar trimestralmente al Comité de los procedimientos adjudicatarios que se lleven a cabo;
+III. Rendir informe trimestralmente al Comité del cumplimiento del avance de los Programas Anuales de Ejecución y sus modificaciones;
 
-IV. Llevar en forma coordinada un padrón del Poder Judicial de la Federación de proveedores y contratistas que hayan incurrido en alguna causa de impedimento;
+IV. Solicitar al Comité cuando así se requiera la contratación de asesorías técnicas, incluyendo investigación de mercado, verificación de precios, pruebas de calidad y demás actividades relacionadas;
 
-V. Elaborar o solicitar en su caso el dictamen resolutivo técnico que determine la solvencia de las propuestas;
+V. Informar trimestralmente al Comité de los procedimientos adjudicatarios que se lleven a cabo;
 
-VI. Elaborar el dictamen resolutivo económico;
+VI. Llevar en forma coordinada un padrón del Poder Judicial de la Federación de proveedores y contratistas que hayan incurrido en alguna causa de impedimento;
 
-VII. Solicitar al área operativa la justificación de adquisición de equipos en los que éstos sólo operen con insumos específicos de la marca del mismo equipo;
+VII. Elaborar o solicitar en su caso el dictamen resolutivo técnico que determine la solvencia de las propuestas;
 
-VIII. Presidir el acto de apertura de propuestas según corresponda;
+VIII. Elaborar el dictamen resolutivo económico que dispone el artículo 41 del Acuerdo;
 
-IX. Establecer el procedimiento de adjudicación;
+IX. Solicitar al área operativa la justificación de adquisición de equipos en los que éstos sólo operen con insumos específicos de la marca del mismo equipo;
 
-X. Elaborar el informe ejecutivo;
+X. Presidir el acto de apertura de propuestas según corresponda;
 
-XI. Presentar al Comité un informe mensual de las operaciones realizadas al amparo del artículo 75 del Acuerdo;
+XI. Establecer el procedimiento de adjudicación;
 
-XII. Administrar un portal en Internet del Organo, que en su caso, se utilizará para las subastas electrónicas a la inversa;
+XII. Elaborar el informe ejecutivo que dispone los artículos 60 y 71 del Acuerdo;
 
-XIII. Revisar y actualizar de manera sistemática el catálogo de bienes y servicios específicos, que podrán ser objeto del procedimiento de subasta a la inversa como un procedimiento alterno a los demás procedimientos de adjudicación, autorizado por el Comité. Dicho catálogo se debe dar a conocer en el portal de Internet del Organo en forma permanente;
+XIII. Presentar al Comité un informe mensual de las operaciones realizadas al amparo del artículo 75 del Acuerdo;
 
-XIV. Realizar el procedimiento de adjudicación en casos urgentes, informando de inmediato al Comité señalando los motivos que originaron la urgencia, la identidad del proveedor o contratista y el monto del contrato;
+XIV. Administrar un portal en Internet del Organo, que en su caso, se utilizará para las subastas electrónicas a la inversa;
 
-XV. Plantear la conveniencia de garantizar el sostenimiento de oferta de la propuesta que se formule;
+XV. Revisar y actualizar de manera sistemática el catálogo de bienes y servicios específicos, que podrán ser objeto del procedimiento de subasta a la inversa como un procedimiento alterno a los demás procedimientos de adjudicación, autorizado por el Comité. Dicho catálogo se debe dar a conocer en el portal de Internet del Organo en forma permanente;
 
-XVI. Elaborar el finiquito correspondiente para dar por concluidos parcial o totalmente los contratos, entendiéndose por finiquito en materia de adquisiciones lo referente a la recepción de conformidad del bien o servicio;
+XVI. Realizar el procedimiento de adjudicación directa en casos urgentes, informando de inmediato al Comité señalando los motivos que originaron la urgencia, la identidad del proveedor o contratista y el monto del contrato;
 
-XVII. Elaborar un informe respecto del anticipo no amortizado el cual deberá contener la opinión de Asuntos Jurídicos a fin de someterlo al Comité para efectos del cobro de la garantía;
+XVII. Plantear la conveniencia de garantizar el sostenimiento de oferta de la propuesta que se formule;
 
-XVIII. Serán responsables del control y supervisión del catálogo de proveedores, prestadores de servicios y contratistas, por lo que resguardarán la documentación e información que les sea presentada, llevando un registro documental y electrónico de éstos, y
+XVIII. Elaborar el finiquito correspondiente para dar por concluidos parcial o totalmente los contratos, entendiéndose por finiquito en materia de adquisiciones lo referente a la recepción de conformidad del bien o servicio;
 
-XIX. Las demás que le atribuye expresamente el Acuerdo.
+XIX. Elaborar un informe respecto del anticipo no amortizado el cual deberá contener la opinión de Asuntos Jurídicos a fin de someterlo al Comité para efectos del cobro de la garantía;
 
-ARTICULO 14
+XX. Serán responsables del control y supervisión del catálogo de proveedores, prestadores de servicios y contratistas, por lo que resguardarán la documentación e información que les sea presentada, llevando un registro documental y electrónico de éstos;
+
+XXI. Elaborar las actas circunstanciadas de la junta de apertura de propuestas, y de la junta de aclaraciones y en su caso expedir las constancias que corresponda;
+
+XXII. Notificar por escrito el fallo de adjudicación a los participantes, en caso de no celebrarse sesión pública;
+
+XXIII. Solicitar oportunamente la elaboración de los contratos a Asuntos Jurídicos, de conformidad con las adjudicaciones aprobadas, y
+
+XXIV. Las demás que le atribuye expresamente el Acuerdo.
+
+> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2009)</small>
+
+ARTICULO 15
+
+DEL AREA OPERATIVA, TECNICA O SOLICITANTE
+
+Conforme a lo previsto en el Acuerdo al Area Operativa, Técnica o Solicitante corresponde:
+
+I. Presentar a las Areas de Adquisiciones y de Obras, la información necesaria para la integración de los Programas Anuales de Ejecución de Adquisiciones, Arrendamientos y Prestación de Servicios, y de Obra Pública;
+
+II. Informar bimestralmente del cumplimiento y avance de los Programas Anuales de Ejecución y sus modificaciones a las Areas de Adquisiciones y de Obras según corresponda;
+
+III. Firmar las órdenes de trabajo o de servicios, pedido, requisición u otro similar, por medio del cual se adjudiquen los trabajos o servicios solicitados;
+
+IV. Elaborar el dictamen técnico que dispone el artículo 40 del Acuerdo, y
+
+V. Notificar a Asuntos Jurídicos de forma oportuna la conclusión de los trabajos en materia de obra que señala el artículo 117 del Acuerdo, a fin de solicitar la cancelación de las garantías de cumplimiento y requerir la garantía por defectos y vicios ocultos, cuando proceda.
+
+> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2009)</small>
+
+ARTICULO 16
 
 DE LA DIRECCION GENERAL DE LA UNIDAD DE SISTEMAS
 
@@ -423,29 +497,33 @@ I. Publicar en la página de Internet del Organo los Programas Anuales de Ejecuc
 
 II. Las demás que le atribuye expresamente el Acuerdo.
 
-ARTICULO 15
+> <small>(ADICIONADO, D.O.F. 6 DE MARZO DE 2009)</small>
+
+ARTICULO 17
 
 DE LA CONTRALORIA INTERNA
 
-Conforme a lo previsto en el Acuerdo a la Contraloría Interna corresponde:
+Conforme a lo previsto en el Acuerdo a la Contraloría corresponde:
 
 I. Intervenir en las reuniones del Comité, con el carácter de invitado permanente con derecho a voz pero sin voto;
 
 II. Analizar los documentos que le sean turnados por el Comité;
 
-III. En caso de ser requerido, dar opinión respecto de los asuntos puestos a consideración del Comité y proponer medidas preventivas en los casos que lo amerite;
+III. En caso de ser requerido por el Comité, dar opinión respecto de los asuntos puestos a consideración del Comité y proponer medidas preventivas en los casos que lo amerite;
 
-IV. Presentar a la Comisión dictamen respecto de las inconformidades, y
+IV. Sustanciar el procedimiento de inconformidad y presentar a la Comisión el dictamen de resolución respectivo, y
 
 V. Las demás que le atribuye expresamente el Acuerdo.
 
-ARTICULO 16
+> <small>(ADICIONADO, D.O.F. 6 DE MARZO DE 2009)</small>
+
+ARTICULO 18
 
 DE LAS ETAPAS DEL PROCEDIMIENTO DE INCONFORMIDAD
 
 El procedimiento de inconformidad se llevará a cabo conforme a lo siguiente:
 
-I. El promovente cuenta con el plazo de 5 días hábiles para presentar la inconformidad, mismos que se cuentan a partir de que se tiene conocimiento del hecho motivo de la inconformidad;
+I. El promovente cuenta con el plazo de 5 días hábiles para presentar la inconformidad ante la Contraloría, mismos que se cuentan a partir de que se tiene conocimiento del hecho motivo de la inconformidad;
 
 II. Se emitirá acuerdo de admisión, prevención o desechamiento, de forma inmediata a la presentación del escrito de inconformidad, previo visto bueno del Secretario Administrativo;
 
@@ -453,11 +531,11 @@ III. Se notificará de la admisión, prevención o desechamiento al Inconforme, 
 
 IV. Se podrá decretar la suspensión o no del procedimiento adjudicatario con base en la opinión que emita el área operativa, observando en todo momento, que con la suspensión no se cause perjuicio al interés social o se contravengan disposiciones de interés público y previa opinión del Secretario Administrativo;
 
-V. Se solicitará el informe, respecto de los hechos señalados en el escrito de inconformidad, el cual se deberá rendir en un término de 2 días hábiles a partir de la fecha de emisión del acuerdo de admisión en su caso;
+V. Se solicitará el informe al área implicada, respecto de los hechos señalados en el escrito de inconformidad, el cual se deberá rendir en un término de 2 días hábiles a partir de la fecha de emisión del acuerdo de admisión en su caso;
 
 VI. Se solicitará informe al tercero Interesado, en un término de 2 días hábiles contados a partir de la admisión del escrito de inconformidad;
 
-Para dar cumplimiento a las etapas anteriores se contará con un término de 10 días hábiles contados a partir de la admisión del escrito de inconformidad respectivo;
+Para dar cumplimiento a las etapas anteriores se contará con un término de 10 días hábiles contados a partir del acuerdo de admisión del escrito de inconformidad respectivo;
 
 VII. Emitir y hacer del conocimiento de la Comisión, la opinión respecto de la procedencia o improcedencia de la inconformidad presentada, una vez dictado el acuerdo de cierre de instrucción;
 
@@ -465,7 +543,7 @@ VIII. Evaluar y analizar en un término de 10 días hábiles contados a partir d
 
 IX. Una vez analizadas las constancias en el término señalado anteriormente se emitirá resolución la cual se presentará a la Comisión en la sesión ordinaria inmediata siguiente para su valoración, y
 
-X. Una vez aprobada la resolución por la Comisión se notificará a las partes que intervinieron en el proceso al día siguiente hábil, contado a partir de la fecha de la resolución dictada.
+X. Una vez aprobada la resolución por la Comisión se notificará a las partes que intervinieron en el proceso al día siguiente hábil.
 
 TRANSITORIOS:
 
@@ -478,3 +556,9 @@ TERCERO.- Los procedimientos de adjudicación iniciados con anterioridad a la en
 La Magistrada Presidenta, María del Carmen Alanis Figueroa.- Rúbrica.- Los Comisionados: Consejera, María Teresa Herrera Tello.- Rúbrica.- Consejero, Indalfer Infante Gonzales.- Rúbrica.- Magistrado, Constancio Carrasco Daza.- Rúbrica.- El Secretario de la Comisión de Administración, Diego Gutiérrez Morales.- Rúbrica.
 
 EL SUSCRITO, MAESTRO DIEGO GUTIERREZ MORALES, SECRETARIO DE LA COMISION DE ADMINISTRACION DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION, PREVIA AUTORIZACION DE LA PRESIDENTA DE LA COMISION DE ADMINISTRACION, CON FUNDAMENTO EN LO DISPUESTO EN EL ARTICULO 33, FRACCION VIII, DEL REGLAMENTO INTERNO DEL CITADO ORGANO JURISDICCIONAL, CERTIFICA: Que el presente documento, en 16 fojas útiles, incluyendo la presente, corresponden al Acuerdo Específico de la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, que determina las instancias y servidores públicos facultados para aplicar las disposiciones del Acuerdo General que establece las Bases para que en el Poder Judicial de la Federación, las adquisiciones, arrendamiento de bienes muebles, prestación de servicios, obra pública y los servicios relacionados con la misma, se ajusten a los criterios contemplados en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, aprobado por la Comisión de Administración, en la Primera Sesión Ordinaria celebrada el 21 de enero de 2009, mediante acuerdo 10/S1(21-I-2009), que obra en los archivos de esta Secretaría Administrativa. Doy fe.- México, Distrito Federal, 27 de enero de 2009.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 6 DE MARZO DE 2009.
+
+UNICO.- La presente reforma entrará en vigor el día siguiente de su publicación, debiéndose publicar íntegramente en el Diario Oficial de la Federación el reformado Acuerdo Específico de la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, que determina las instancias y servidores públicos facultados para aplicar las disposiciones del Acuerdo General que establece las Bases para que en el Poder Judicial de la Federación, las adquisiciones, arrendamiento de bienes muebles, prestación de servicios, obra pública y los servicios relacionados con la misma, se ajusten a los criterios contemplados en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos.
