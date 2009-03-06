@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-procedimiento-para-los-actos-de-la-administracion-36590
 country: "mx"
 rank: "ley"
 publication_date: "2004-01-02"
-last_updated: "2004-01-02"
+last_updated: "2009-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL PROCEDIMIENTO PARA LOS ACTOS DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 2 de enero de 2004.
 
@@ -41,7 +41,9 @@ LEY DEL PROCEDIMIENTO PARA LOS ACTOS DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO D
 
 Las disposiciones de esta Ley son de orden e interés públicos, y se aplicarán a los actos, procedimientos y resoluciones de la Administración Pública Centralizada y Paraestatal del Poder Ejecutivo del Estado de Baja California.
 
-Quedan excluidos de la aplicación de ésta Ley, los actos, procedimientos y resoluciones relacionados con las materias siguientes: de carácter estrictamente financiero, fiscal y judicial; seguridad pública, salud, educación, laboral, electoral, participación ciudadana; así como actuaciones de: Ministerio Público en ejercicio de sus funciones legales, de la Dirección de Control y Evaluación Gubernamental del Poder Ejecutivo en lo relativo a la determinación de responsabilidades de los servidores públicos y, de la Procuraduría de los Derechos Humanos y Protección Ciudadana en cuanto a las denuncias que reciba y recomendaciones que formule.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
+
+Quedan excluidos de la aplicación de ésta Ley, los actos, procedimientos y resoluciones relacionados con las materias siguientes: de carácter estrictamente financiero, fiscal y judicial; seguridad pública, salud, educación, laboral, electoral, participación ciudadana y registral; así como actuaciones de: Ministerio Público en ejercicio de sus funciones legales, de la Dirección de Control y Evaluación Gubernamental del Poder Ejecutivo en lo relativo a la determinación de responsabilidades de los servidores públicos y, de la Procuraduría de los Derechos Humanos y Protección Ciudadana en cuanto a las denuncias que reciba y recomendaciones que formule.
 
 ###### ARTÍCULO 2.
 
@@ -1038,3 +1040,15 @@ EUGENIO ELORDUY WALTHER.
 SECRETARIO GENERAL DE GOBIERNO
 
 BERNARDO H. MARTINEZ AGUIRRE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE MARZO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan en lo conducente, todas las disposiciones normativas que se opongan a la presente reforma.
