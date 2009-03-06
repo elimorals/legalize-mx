@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2008-07-04"
+last_updated: "2009-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2009.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -15527,9 +15527,11 @@ No podrán inscribirse mediante información posesoria, las servidumbres continu
 
 Las inscripciones no se extinguen en cuanto a tercero, sino por su cancelación, o por el registro de la transmisión del dominio, o derecho real inscrito a otra persona.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 2897.
 
-Las inscripciones pueden cancelarse por consentimiento de las partes o por decisión judicial.
+Las inscripciones pueden cancelarse por consentimiento de las partes, por decisión judicial o a petición de parte interesada en los casos previstos en la fracción VI, del artículo 2899.
 
 ###### ARTICULO 2898.
 
@@ -15962,3 +15964,13 @@ P.O. 4 DE JULIO DE 2008.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- En todos los artículos del presente ordenamiento en que se haga alusión a la Procuraduría para la Defensa de las Personas Menores de Dieciocho Años de Edad y la Familia en el Estado, se entenderá referida la Procuraduría para la Defensa de los Menores y la Familia en el Estado.
+
+P.O. 6 DE MARZO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan en lo conducente, todas las disposiciones normativas que se opongan a la presente reforma.
