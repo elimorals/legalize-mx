@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48144"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2008-12-27"
+last_updated: "2009-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48144&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLlMA Y VILLA DE ALVAREZ EN EL ESTADO DE COLlMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 2009.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre del 2005.
 
@@ -1086,6 +1086,14 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO- Para el ejercicio fiscal 2009, la tarifa de saneamiento aplicable se calculará con base al salario mínimo del ejercicio fiscal 2007, más el ajuste derivado del porcentaje autorizado para el salario mínimo del 2009.
 
 TERCERO.- Para el ejercicio fiscal 2009, los usuarios obtendrán un subsidio del 40 % en el servicio de saneamiento, siempre y cuando realicen el pago oportuno de los derechos de los servicios públicos que se le proporcionen, sea bimestral o anualmente adelantado.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2009)</small>
+
+CUARTO.- Para el ejercicio fiscal 2009, el beneficio a que se refiere el artículo 37 de esta Ley, se amplía hasta el 30 de abril del citado año, además de no generar los recargos correspondientes en dicha prórroga.
+
+P.O. 7 DE MARZO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día de su aprobación, y deberá publicarse en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTICULO UNICO.
 
