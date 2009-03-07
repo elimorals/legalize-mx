@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48157"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2008-03-22"
+last_updated: "2009-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS, PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE MINATITLAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 2009.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -381,11 +381,11 @@ TRANSITORIOS:
 
 El presente Decreto entrará en vigor el 1º de Enero de 2006, previa su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2009)</small>
 
 ###### ARTÍCULO SEGUNDO.
 
-Para el ejercicio fiscal 2008, el beneficio a que se refiere el artículo 17 de esta Ley, se amplía hasta el 30 de abril del citado año, además de no generar los recargos correspondientes en dicha prórroga.
+Para el ejercicio fiscal 2009, el beneficio a que se refiere el artículo 17 de esta ley, se amplía hasta el 30 de abril del citado año, además de no generar los recargos correspondientes en dicha prórroga.
 
 El Gobernador del Estado dispondrá se publique, circule y observe."
 
@@ -418,6 +418,10 @@ P.O. 17 DE MARZO DE 2007.
 P.O. 22 DE MARZO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 7 DE MARZO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor el día (sic) su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTICULO UNICO.
 
