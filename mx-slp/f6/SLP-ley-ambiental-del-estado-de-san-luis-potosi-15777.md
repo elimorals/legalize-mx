@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2006-09-19"
+last_updated: "2009-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 2009.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -140,6 +140,10 @@ XXII. Fauna Silvestre: Las especies animales que subsisten sujetas a los proceso
 XXIII. Flora Silvestre: Las especies vegetales, así también los hongos, que subsisten con sujeción a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones o especímenes de estas especies que se encuentren bajo controles de cultivo;
 
 XXIV. Impacto Ambiental: La modificación del ambiente ocasionado por la acción del hombre o de la naturaleza;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2009)</small>
+
+XXIV BIS. Incineración: todo tratamiento térmico con o sin la recuperación de calor producido por la combustión, incluyendo pirolisis, gasificación, plasma y cualquier otro proceso que genere dioxinas y furanos como subproductos;
 
 XXV. Licencia de Uso del Suelo: La autorización que otorguen los municipios o el Estado, en el ámbito de sus respectivas competencias, a las personas físicas o morales que lo soliciten, para ocupar o explotar un predio en los casos en que esta ley y otros ordenamientos lo exijan, establecen para un predio determinado en su uso general, las intensidades máximas de aprovechamiento y de ocupación del suelo, señalando asimismo restricciones federales y estatales que pudieren afectarlo;
 
@@ -1397,9 +1401,17 @@ IV. La instalación de cualquier tipo de equipamiento en las áreas antes señal
 
 V. La disposición final de lodos provenientes de procesos industriales y de plantas de tratamiento, así como de residuos industriales no peligrosos en los rellenos sanitarios municipales autorizados, salvo el caso de que dicho relleno sanitario cuente con celdas técnica y normativamente apropiadas para su disposición final y previa autorización de la SEGAM;
 
-VI. El vertido directo de lodos provenientes de procesos industriales y de las plantas de tratamiento de aguas residuales, que no se consideren como residuos peligrosos, a cuerpos receptores de jurisdicción estatal o en los sistemas de drenaje y alcantarillado municipal, y
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2009)</small>
 
-VII. La circulación de vehículos en áreas urbanas o consideradas como tales, según los respectivos planes o programas de desarrollo urbano y ordenamiento ecológico y conforme al respectivo reglamento, cuando su carga contenga sustancias peligrosas, ya fueren materias primas, productos, subproductos, desechos o residuos.
+VI. El vertido directo de lodos provenientes de procesos industriales y de las plantas de tratamiento de aguas residuales, que no se consideren como residuos peligrosos, a cuerpos receptores de jurisdicción estatal o en los sistemas de drenaje y alcantarillado municipal;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2009)</small>
+
+VII. La circulación de vehículos en áreas urbanas o consideradas como tales, según los respectivos planes o programas de desarrollo urbano y ordenamiento ecológico y conforme al respectivo reglamento, cuando su carga contenga sustancias peligrosas, ya fueren materias primas, productos, subproductos, desechos o residuos, y
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2009)</small>
+
+VIII. La incineración de residuos sólidos urbanos y de residuos de manejo especial en el Estado.
 
 ###### ARTICULO 108.
 
@@ -2328,3 +2340,9 @@ TERCERO. Los ayuntamientos deberán adecuar sus áreas de administración urbana
 CUARTO. En tanto los ayuntamientos no cuenten con la estructura administrativa adecuada, podrán acordar con la SEDUVOP que se lleve a cabo la asesoría correspondiente.
 
 QUINTO. El Titular del Ejecutivo del Estado expedirá el Reglamento de la Ley de Desarrollo Urbano, y los demás que fueren necesarios con relación a la misma, antes del treinta y uno de mayo del año dos mil siete.
+
+P.O. 7 DE MARZO DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Quincuagésima Octava legislatura del Honorable Congreso del Estado de San Luis Potosí, se adhiere al Acuerdo emanado de la Sexagésima Segunda Legislatura del Honorable Congreso del Estado de Chihuahua, en el que se exhorta a las legislaturas del país, para que dentro de su marco competencial, se pronuncien en contra de la apertura de empresas dedicadas a la incineración de desechos, que pretendan establecerse dentro del territorio nacional.
