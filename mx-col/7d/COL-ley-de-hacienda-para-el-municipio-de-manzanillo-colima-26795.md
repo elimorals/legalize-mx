@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-manzanillo-colima-26795"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2008-03-22"
+last_updated: "2009-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 2009.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -3963,11 +3963,11 @@ II.- El 80 por ciento para predios urbanos baldíos;
 
 III.- Los estímulos de referencia serán otorgados hasta que dichas zonas, sean incorporadas a el Área Urbana del Municipio.
 
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2009)</small>
 
 ###### ARTÍCULO NOVENO.
 
-Para el Ejercicio fiscal 2007, el plazo a que se refieren los artículos 80, párrafo segundo y 81, último párrafo de esta Ley se amplía hasta el 31 de marzo.
+Para el Ejercicio fiscal 2009, el plazo a que se refieren los artículos 80, párrafo segundo y 81, último párrafo de ésta Ley se amplía hasta el 31 de marzo.
 
 El Gobernador del Estado dispondrá se imprima, publique, circule y observe.
 
@@ -4048,3 +4048,7 @@ TERCERO.- Para el ejercicio fiscal 2008, el plazo a que se refieren el segundo p
 P.O. 22 DE MARZO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 7 DE MARZO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
