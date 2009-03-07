@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48147"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2008-03-22"
+last_updated: "2009-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE COMALA, COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 2009.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -409,11 +409,11 @@ T R A N S I T O R I O S :
 
 El presente Decreto entrará en vigor el 1º de Enero de 2006, previa su publicación en el Periódico Oficial "El Estado de Colima".
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2009)</small>
 
 ###### ARTÍCULO SEGUNDO.
 
-Para el ejercicio fiscal 2008, el beneficio a que se refiere el artículo 19, fracción II de esta Ley se amplía hasta el 30 de abril del citado año. Dicho plazo se aplicará de igual manera en el caso de la fracción V, con una tasa del 8%, no generando los recargos correspondientes en dichas prórrogas inclusive los especificados en las fracciones III y IV de ese mismo artículo.
+Para el ejercicio fiscal 2009, el beneficio a que se refiere el artículo 19, fracción II de ésta ley, se amplía hasta el 30 de abril del citado año. Dicho plazo se aplicará de igual manera en el caso de la fracción V, con una tasa del 8%, no generando los recargos correspondientes en dichas prórrogas inclusive los especificados en las fracciones III y IV de ese mismo artículo.
 
 El Gobernador del Estado dispondrá se publique, circule y observe."
 
@@ -446,6 +446,10 @@ P.O. 17 DE MARZO DE 2007.
 P.O. 22 DE MARZO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 7 DE MARZO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor el día (sic) su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTICULO UNICO.
 
