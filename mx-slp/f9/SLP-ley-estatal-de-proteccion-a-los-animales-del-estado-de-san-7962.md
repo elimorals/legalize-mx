@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-de-proteccion-a-los-animales-del-estado-de-san-7962
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-17"
-last_updated: "2006-07-08"
+last_updated: "2009-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ESTATAL DE PROTECCION A LOS ANIMALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 17 de marzo de 1995.
 
@@ -51,11 +51,11 @@ La presente ley es de interés público y observancia general, y tiene por objet
 
 I. Proteger la vida y el crecimiento de los animales;
 
-II. Favorecer el respeto y buen trato a los animales;
+II. Favorecer el respeto y buen trato de los animales;
 
 III. Erradicar y sancionar los actos de crueldad con los animales, y
 
-IV. Promover actitudes responsables y humanitarias hacia los animales.
+IV. Promover actives responsables y humanitarias hacia los animales.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2006)</small>
 
@@ -71,9 +71,29 @@ Para efectos de la presente Ley se entenderá por:
 
 I. Animal: todas aquellas especies y subespecies clasificadas dentro de este reino, destinadas para cualquier uso y aprovechamiento por el hombre;
 
-II. Trato compasivo: toda medida para evitar dolor innecesario a los animales desde su gestación, nacimiento, captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento, confinamiento y sacrificio, y
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2009)</small>
 
-III. Protección a los animales: no solamente su buen trato, sino todas aquellas acciones encaminadas a brindarles un aceptable estado de salud físico y psicológico.
+II. Hostigar: dar golpes o causar molestias a los animales por cualquier medio o instrumento; o realizar acciones que cambien la conducta normal de los animales;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2009)</small>
+
+III. Maltrato: todo acto u omisión que ocasione dolor o sufrimiento innecesario, que afecte el bienestar animal, ponga en peligro la vida o afecte gravemente la salud, así como la sobreexplotación de su trabajo;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2009)</small>
+
+IV. Protección a los animales: todas aquellas acciones encaminadas a brindarles un aceptable estado de salud física y psicológica;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2009)</small>
+
+V. Sacrificio: matanza de animales, especialmente para el consumo humano, o que se requiera para evitar sufrimiento innecesario al mismo; utilizando métodos físicos o químicos que produzcan mínimo dolor, efectuado por personal capacitado y atendiendo a la normatividad aplicable para tal efecto;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2009)</small>
+
+VI. Tortura a los animales: ocasionar grave dolor físico infligido con métodos o utensilios diversos, con el fin de obtener de éste una acción, o como medio de castigo, y
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2009)</small>
+
+VII. Trato compasivo: toda medida para evitar dolor innecesario a los animales desde su gestación, nacimiento, captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento, confinamiento y sacrificio.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2006)</small>
 
@@ -211,7 +231,9 @@ El trato y protección a los animales utilizados en espectáculos públicos, ser
 
 I.- Los animales de circos nacionales o extranjeros, que se establezcan en el Estado y que representen peligro para el público asistente, deberán estar confinados en jaulas seguras; y
 
-II.- Antes o después del desempeño de un acto, en que participen animales, no deberán ser hostigados.
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2009)</small>
+
+II. Antes o después del desempeño de un acto en que participen animales, no deberán ser hostigados, maltratados o torturados.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2006)</small>
 
@@ -219,7 +241,9 @@ II.- Antes o después del desempeño de un acto, en que participen animales, no 
 
 Las autoridades previstas en el artículo 67 de esta Ley vigilaran que los circos que se instalen, mantengan espacio suficiente que les permita a los animales libertad y amplitud de movimientos; y durante su traslado no sean inmovilizados en un aposición que les ocasione lesiones o sufrimiento. Además, vigilarán que los animales tengan condiciones adecuadas de higiene y medidas de seguridad, tanto para la protección de ellos, como del público espectador.
 
-Asimismo, no se deberán autorizar espectáculos como peleas de animales o aquellos en que se maltrate a los mismos; a excepción de los eventos autorizados por disposición de la Secretaría de Gobernación de la administración pública federal.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2009)</small>
+
+Asimismo, no se deberán autorizar espectáculos como peleas de animales, o aquéllos en que se hostigue, maltrate o torture a los mismos; a excepción de los eventos autorizados por disposición de la Secretaría de Gobernación de la Administración Pública Federal.
 
 ###### ARTICULO 26.
 
@@ -651,9 +675,17 @@ Se sancionará con multa de uno hasta cien días de salario mínimo a quienes co
 
 I.- Ocasionar la muerte intencional por cualquier medio no autorizado por esta Ley y que produzca una prolongada agonía al animal, causándole un sufrimiento innecesario;
 
-II.- La mutilación del animal sin las medidas indoloras necesarias; y
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2009)</small>
 
-III.- Privar de aire, luz, alimento, espacio suficiente al animal en forma negligente e irresponsable.
+II.- La mutilación del animal sin las medidas indoloras necesarias;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2009)</small>
+
+III.- Privar de aire, luz, alimento, espacio suficiente al animal en forma negligente e irresponsable, y
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2009)</small>
+
+IV. Hostigue, maltrate o torture a cualquier animal.
 
 ###### ARTICULO 84.
 
@@ -734,3 +766,7 @@ P.O. 8 DE JULIO DE 2006.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan a este Decreto.
+
+P.O. 7 DE MARZO DE 2009.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
