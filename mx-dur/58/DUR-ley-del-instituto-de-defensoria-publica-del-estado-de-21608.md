@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-instituto-de-defensoria-publica-del-estado-de-21608"
 country: "mx"
 rank: "ley"
 publication_date: "2001-05-27"
-last_updated: "2001-05-27"
+last_updated: "2009-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DEL INSTITUTO DE DEFENSORIA PUBLICA DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DEL INSTITUTO DE DEFENSORIA PUBLICA DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O DE 8 DE MARZO DE 2009, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO HASTA EN TANTO SE PUBLIQUEN E INICIEN SU VIGENCIA, LAS REFORMAS QUE EN LA MATERIA SE EFECTUEN A LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 2009.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 27 de mayo de 2001.
 
@@ -480,3 +482,37 @@ POR TANTO MANDO SE IMPRIMA, PUBLIQUE, CIRCULE Y COMINIQUESE A QUIENES CORRESPOND
 DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO. A LOS VEINTITRES DIAS DEL MES DE MAYO DEL DOS MIL UNO.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. ANGEL SERGIO GUERRERO MIER.- EL SECRETARIO GENERAL DE GOBIERNO. LIC. JOSE MIGUEL CASTRO CARRILLO.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O 8 DE MARZO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor una vez que se publiquen en el Periódico Oficial del Gobierno Constitucional del Estado de Durango e inicien su vigencia, las reformas que en la materia se efectúen a la Constitución Política del Estado Libre y Soberano de Durango.
+
+Hasta que se de cumplimiento a lo dispuesto en el párrafo anterior , se abrogará la Ley del Instituto de Defensoría Pública del Estado, contenida en el Decreto No. 403, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango No. 42, de fecha 27 de mayo del 2001.
+
+###### ARTÍCULO SEGUNDO.
+
+La presente Ley, se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO TERCERO.
+
+En tanto entre en vigor la presente Ley, el Director General, el Subdirector y el Coordinador de Defensores Públicos y Asesores Jurídicos, tendrán la misma competencia prevista en la Ley del Instituto de Defensoría Pública del Estado de Durango.
+
+A la entrada en vigor de la presente Ley, la permanencia y atribuciones de los servidores públicos del Instituto de Defensoría Pública, se ajustarán a las siguientes prevenciones:
+
+I. El Director General, permanecerá en el cargo por el período que haya sido designado o ratificado, según sea el caso;
+
+II. Los puestos de Subdirector y de Coordinador de Defensores Públicos y Asesores Jurídicos, tendrán el carácter, denominación, atribuciones y período de encargo, que esta Ley le establece al Subdirector Operativo y al Coordinador General de los Servicios de Defensoría Pública respectivamente; los actuales titulares, podrán ser ratificados en los términos de la presente Ley.
+
+Para efectos del cumplimiento de esta ley, se entenderá que la Unidad Administrativa, asume las facultades y atribuciones conferidas a la Dirección Administrativa. Su titular podrá ser designado en los términos de la presente ley, una vez que se publique la misma en el Periódico Oficial del Gobierno Constitucional del Estado de Durango. En la readscripción de los empleados y trabajadores del Instituto de Defensoría Pública, del Poder Ejecutivo al Poder Judicial, se respetarán sus derechos adquiridos. .
+
+###### ARTÍCULO CUARTO.
+
+Con motivo de la entrada en vigor del nuevo sistema de justicia penal a que alude el artículo primero transitorio del Código Procesal Penal del Estado de Durango, aprobado mediante decreto 232, en fecha 4 de diciembre de 2008 y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 Extraordinario, en fecha 5 de diciembre de 2008; y de conformidad con las previsiones presupuestales respectivas se seleccionara, capacitaran y designaran a los servidores públicos que se requieran para la implementación de dicha reforma. Asimismo, se designaran a los profesionistas de los servicios auxiliares que se requieran,
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones legales que se opongan a la presente.
