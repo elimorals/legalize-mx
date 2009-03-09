@@ -4,7 +4,7 @@ identifier: "CMX-acuerdo-general-numero-23-03-2009-emitido-por-el-pleno-del-6593
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-02-04"
-last_updated: "2009-02-04"
+last_updated: "2009-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65933&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2009-03-09"
 
 ACUERDO GENERAL NUMERO 23-03/2009, EMITIDO POR EL PLENO DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL, EN SESION DE FECHA CATORCE DE ENERO DE DOS MIL NUEVE, PARA EL ESTABLECIMIENTO Y OPERACION DEL SISTEMA INTEGRAL DE INFORMACION Y MODERNIZACION DE PROCESOS DEL TRIBUNAL SUPERIOR DE JUSTICIA Y DEL CONSEJO DE LA JUDICATURA, DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE MARZO DE 2009.
 
 Acuerdo publicado en la Gaceta Oficial del Distrito Federal, el miércoles 4 de febrero de 2009.
 
@@ -233,29 +233,39 @@ Se integrará por:
 
 I. Un Presidente del Comité que será un Consejero;
 
-II. Un Secretario Ejecutivo que será el Director Ejecutivo de Planeación;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2009)</small>
+
+II. Un Secretario Ejecutivo que será el Oficial Mayor;
 
 III. Un Secretario Técnico que será el Subdirector de Estadística;
 
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2009)</small>
+
 IV. Vocales, que serán los titulares de las siguientes áreas:
 
-1) Oficial Mayor;
+1) Coordinación Administrativa del Consejo;
 
-2) Coordinación Administrativa del Consejo;
+2) Instituto de Estudios Judiciales;
 
-3) Instituto de Estudios Judiciales;
+3) Dirección Ejecutiva de Informática;
 
-4) Dirección Ejecutiva de Informática;
+4) Consignaciones Penales;
 
-5) Consignaciones Penales;
+5) Oficialía de Partes Común;
 
-6) Oficialía de Partes Común;
+6) Dirección de Información Pública del Tribunal; y
 
-7) Dirección de Información Pública del Tribunal; y
+7) Oficina de Información Pública del Consejo;
 
-8) Oficina de Información Pública del Consejo;
+V. Invitados: que serán los titulares convocados por el Presidente del Comité, cuando los asuntos a tratar sean del ámbito de su competencia, o a solicitud expresa del titular del área interesada;
 
-V. Invitados: que serán los titulares convocados por el Presidente del Comité, cuando los asuntos a tratar sean del ámbito de su competencia, o a solicitud expresa del titular del área interesada.
+> <small>(ADICIONADA, G.O. 9 DE MARZO DE 2009)</small>
+
+VI. Un invitado permanente que será el Director Ejecutivo de Planeación;
+
+> <small>(ADICIONADA, G.O. 9 DE MARZO DE 2009)</small>
+
+VII. Un Asesor, que será la Contraloría del Tribunal; (sic)
 
 ###### Artículo 13.
 
@@ -346,3 +356,13 @@ LA SECRETARIA GENERAL DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 (Firma)
 
 LIC. MARÍA DEL SOCORRO RAZO ZAMORA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 9 DE MARZO DE 2009.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.
+
+SE TRANSCRIBE UNICAMENTE EL PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA EL PRESENTE ORDENAMIENTO.
+
+SEGUNDO.- Por considerarse que este acuerdo es de interés general, publíquese la parte conducente por una sola vez en la Gaceta Oficial del Distrito Federal, así como en el Boletín Judicial del H. Tribunal.
