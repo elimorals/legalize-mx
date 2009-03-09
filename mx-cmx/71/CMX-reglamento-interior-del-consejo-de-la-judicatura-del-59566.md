@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-consejo-de-la-judicatura-del-59566"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-25"
-last_updated: "2009-01-21"
+last_updated: "2009-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59566&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-11-28"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE MARZO DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 25 de febrero de 2008.
 
@@ -1382,9 +1382,11 @@ De igual forma le corresponderá la resolución en primera instancia de todos lo
 
 La interposición de recursos de revisión en materia de amparo y cumplimiento de ejecutorias de juicios de garantías le corresponderán al Consejero que hubiere sido ponente en el procedimiento administrativo de origen.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE MARZO DE 2009)</small>
+
 ###### Artículo 116.
 
-Con independencia de la integración y funcionamiento de la Comisión de Disciplina Judicial, en los términos de la Ley Orgánica, los Consejeros, a excepción del Presidente, desahogarán semanalmente y por orden alfabético el trámite de las quejas y procedimientos de oficio hasta ponerlos en estado de resolución, turnándolas al Consejero Ponente de la Sección que corresponda.
+Con independencia de la integración y funcionamiento de la Comisión de Disciplina Judicial, en los términos de la Ley Orgánica, los Consejeros, a excepción del Presidente, desahogarán semanalmente y por orden numérico de ponencia el trámite de las quejas y procedimientos de oficio hasta ponerlos en estado de resolución, turnándolas al Consejero Ponente de la Sección que corresponda.
 
 Correspondiendo al Consejero Semanero acordar todos los escritos, oficios y documentos que se hubieren recibido en la Oficialía de Partes de la Comisión de Disciplina Judicial durante la semana que le corresponde.
 
@@ -1871,3 +1873,7 @@ Quinto. Para realizar las acciones de certificación a que se refiere el Reglame
 Sexto. Con la participación que corresponda a la Coordinación de Comunicación Social se diseñará y ejecutará una campaña permanente de difusión y publicidad para que la ciudadanía se entere de la existencia del Centro, su ubicación y los servicios que proporciona.
 
 Séptimo. La actual Jefatura de Unidad Departamental de Apoyo Operativo y Administrativo se transformará en la Unidad de Gestión y Seguimiento del Centro.
+
+G.O. 9 DE MARZO DE 2009.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.
