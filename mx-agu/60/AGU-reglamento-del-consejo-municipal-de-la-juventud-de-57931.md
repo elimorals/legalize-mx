@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-consejo-municipal-de-la-juventud-de-57931"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-12-31"
-last_updated: "2007-12-31"
+last_updated: "2009-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DEL CONSEJO MUNICIPAL DE LA JUVENTUD DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 2009.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 31 de diciembre de 2007.
 
@@ -101,25 +101,31 @@ II. Un Presidente Ejecutivo, que será elegido por el Consejo;
 
 III. Un Secretario Técnico que será el responsable del área de Atención a la Juventud Municipal;
 
-IV. Un representante del H. Ayuntamiento, que será el Regidor del ramo; y
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2009)</small>
 
-V. Vocales de diversas organizaciones juveniles, mismos que deberán ser aprobados por el Cabildo, los cuales no podrán ser menos de cinco ni más de ocho, tendrán derecho a voz y voto, designándose preferentemente a los siguientes:
+IV. Un representante del H. Ayuntamiento, que será elegido por dicho Cuerpo Colegiado;
 
-- Un representante de los estudiantes de nivel medio, medio superior y superior;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2009)</small>
 
-- Un representante de organismos empresariales juveniles;
+V. Un representante del H. Ayuntamiento, que será el Regidor del ramo;
 
-- Un representante de partidos y organizaciones políticas;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MARZO DE 2009)</small>
 
-- Un representante de colegios de profesionistas;
+VI. Un representante del Órgano de Enlace de la Administración Municipal;
 
-- Un representante de agrupaciones dedicadas a la labor social, conciencia y participación ciudadana;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MARZO DE 2009)</small>
 
-- Un representante de organizaciones de mujeres;
+VII. Vocales de diversas organizaciones juveniles, mismos que deberán ser aprobados por el Cabildo, los cuales no podrán ser menos de cinco, tendrán derecho a voz y voto, designándose preferentemente a los siguientes:
 
-- Un representante de agrupaciones religiosas; y
+1.- Cuatro representantes de los estudiantes de nivel medio superior;
 
-- Un representante de agrupaciones de culturas populares y barrios.
+2.- Seis representantes de los estudiantes de nivel superior;
+
+3.- Un representante de organismos empresariales juveniles;
+
+4.- Un representante de agrupaciones dedicadas a la labor social, conciencia y participación ciudadana y;
+
+5.- Un representante de agrupaciones de culturas populares y barrios; (sic)
 
 ###### Artículo 7°.
 
@@ -127,7 +133,9 @@ Para poder ocupar cualquier cargo dentro del Consejo Municipal de la Juventud de
 
 I. Ser vecino con domicilio en el municipio;
 
-II. Tener entre 15 y 33 años de edad;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2009)</small>
+
+II. Tener entre quince y veintinueve años de edad;
 
 III. Destacar o participar en cualquiera de las carteras siguientes en el municipio de Aguascalientes:
 
@@ -197,37 +205,57 @@ Para poder ser Presidente Ejecutivo del Consejo Municipal de la Juventud no debe
 
 El Secretario Técnico del Consejo atenderá los asuntos siguientes:
 
-- Convocar a los miembros del Consejo Municipal de la Juventud a sesiones ordinarias y extraordinarias;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2009)</small>
 
-- Coordinar y supervisar las funciones y comisiones de los miembros del Consejo;
+I. Convocar a los miembros del Consejo Municipal de la Juventud a Sesiones Ordinarias y Extraordinarias;
 
-- Solicitar al pleno la remoción de un vocal, por inasistencia reiterada, que consistirá en tres faltas consecutivas o cinco faltas sin justificación dentro de un período de un año, a fin de eficientar la labor del Consejo;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2009)</small>
 
-- Realizar las funciones del Presidente Ejecutivo cuando este no pueda llevarlas a cabo;
+II. Solicitar al pleno del Consejo la remoción de un vocal por inasistencia reiterada, que consistirá en tres faltas consecutivas o cinco faltas sin justificación dentro de un periodo de un año, a fin de optimizar la labor del consejo;
 
-- Levantar actas de sesión del Consejo y firmar junto con el Presidente Ejecutivo los acuerdos e informes rendidos;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2009)</small>
 
-- Presentar los programas juveniles al pleno del Consejo a fin de proponer un plan de trabajo del mismo;
+III. Realizar las funciones del presidente Ejecutivo cuando éste no pueda llevarlas a cabo;
 
-- Tener bajo su cargo la conservación y control de la correspondencia y documentación;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2009)</small>
 
-- Enviar los acuerdos e informar a los miembros del Consejo, de las sesiones llevadas a cabo, dentro de las 72 horas siguientes de celebradas las mismas;
+IV. Levantar Actas de Sesión del Consejo y firmar junto con el Presidente Ejecutivo los acuerdos e informes rendidos;
 
-- Las demás que el Consejo le encomiende.
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2009)</small>
+
+V. Presentar los programas juveniles al pleno del Consejo a fin de proponer un plan de trabajo del mismo; tener bajo su cargo la conservación y control de la correspondencia y documentación;
+
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2009)</small>
+
+VI. Enviar los acuerdos e informar a los miembros del Consejo, de las Sesiones llevadas a cabo dentro de las 72 horas siguientes de celebradas las mismas y;
+
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2009)</small>
+
+VII. Las demás que el Consejo le encomiende.
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2009)</small>
 
 ###### Artículo 14.
 
-El Representante del H. Ayuntamiento, atenderá los asuntos siguientes:
+El Representante del H. Ayuntamiento atenderá los asuntos siguientes:
 
-- Todo lo correspondiente a la gestión del Consejo ante la máxima autoridad municipal;
+I. Todo lo correspondiente a la gestión del Consejo ante la máxima Autoridad Municipal;
 
-- Analizar, discutir y presentar ante la Comisión de Cabildo respectiva, las propuestas que el Consejo le encomiende;
+II. Analizar, discutir y presentar ante la Comisión de Cabildo respectiva las propuestas que el Consejo le encomiende;
 
-- Presentar ante el H. Ayuntamiento las propuestas relacionadas con los trabajos del Consejo y el Área de Atención a la Juventud;
+III. Presentar ante el H. Ayuntamiento las propuestas relacionadas con los Trabajos del Consejo y el área de atención a la Juventud;
 
-- Supervisar el desempeño del Consejo y servir de enlace entre éste y la máxima autoridad municipal;
+IV. Las demás que el H. Ayuntamiento, el Consejo o el Código Municipal le encomiende.
 
-- Las demás que el H. Ayuntamiento, el Consejo o el Código Municipal le encomienden.
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2009)</small>
+
+Artículo 14 BIS.- El Órgano de Enlace de la Administración Municipal estará conformado por cinco servidores públicos de la Administración Pública Municipal, designados por el Presidente Municipal, que cumplan los requisitos del artículo 7° del presente Reglamento y atenderá los asuntos siguientes:
+
+I. Supervisar el desempeño del Consejo y coadyuvar con las gestiones del Consejo ante la máxima Autoridad Municipal;
+
+II. Coordinar y supervisar las funciones y comisiones de los miembros del Consejo y;
+
+III. Presentar y gestionar las propuestas y proyectos emanados del Consejo ante las instancias de la Administración Pública Municipal.
 
 ###### Artículo 15.
 
@@ -358,3 +386,27 @@ Por lo que tiene el honor de comunicarlo, para su conocimiento y efectos legales
 En cumplimiento a lo ordenado por el Presidente Municipal de Aguascalientes, con fundamento en los artículos 120, fracción VII de la Ley Municipal par (sic) el Estado de Aguascalientes; 107, fracción IX del Código Municipal de Aguascalientes, tengo a bien solicitar la publicación del presente.
 
 El Secretario del H. Ayuntamiento y Director General de Gobierno.-M. en D. Gabriel Ochoa Amador.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE MARZO DE 2009.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, quedan revocados los nombramientos hechos por el Honorable Ayuntamiento de Aguascalientes dentro de la Sesión Extraordinaria de Cabildo de fecha diez de octubre del dos mil siete a favor de los ciudadanos designados para integrar el Órgano Consultivo en mención.
+
+###### ARTICULO TERCERO.
+
+El Honorable Ayuntamiento de Aguascalientes tendrá treinta días naturales a partir de la entrada en vigor del presente Decreto para emitir la convocatoria correspondiente, misma que determinará las bases y lineamientos para integrar al Consejo Municipal de la Juventud de Aguascalientes, misma que deberá ser publicada en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO CUARTO.
+
+Una vez integrado el Consejo Municipal de la Juventud de Aguascalientes, se les deberá hacer la toma de protesta dentro de Sesión de Cabildo del Ayuntamiento de Aguascalientes para su instalación y para todos los efectos legales a que haya lugar.
+
+###### ARTICULO QUINTO.
+
+Una vez instalado el Consejo Municipal de la Juventud de Aguascalientes, este durará en funciones hasta el treinta y uno de diciembre del año dos mil diez.
