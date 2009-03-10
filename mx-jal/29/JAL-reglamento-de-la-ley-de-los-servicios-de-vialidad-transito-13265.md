@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-los-servicios-de-vialidad-transito-1326
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-03"
-last_updated: "2003-08-16"
+last_updated: "2009-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2003
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2009.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 3 de diciembre de 1998.
 
@@ -68,77 +68,145 @@ VI.- CEIT: El Centro Estatal de Investigación de la Vialidad y el Transporte;
 
 VII.- Conductor: Toda persona en el acto de manejar o conducir un vehículo;
 
-VIII.- Consejo Estatal: El Consejo Consultivo Estatal de Vialidad, Tránsito y Transporte;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MARZO DE 2009)</small>
 
-IX.- Crucero o intersección: Superficie común entre dos o más calles en donde se realizan los movimientos direccionales del tránsito en forma directa o canalizados por isletas;
+VIII.- Corredor Exclusivo de Transporte Público: Vía pública sobre la que circulan unidades de transporte público confinadas a un carril exclusivo para el traslado masivo de pasajeros;
 
-X.- Derecho de vía: Se entiende como tal, la zona afecta o una vía pública en ambos lados; en zonas urbanas y suburbanas, el derecho de vía lo establecerá el Ayuntamiento o Ayuntamientos respectivos, conforme a los planes parciales si los hubiere, de común acuerdo con la Secretaría de Vialidad y Transporte, y la Secretaría de Desarrollo Urbano, atendiendo a las disposiciones del Reglamento de Zonificación del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
 
-XI.- Derrotero: Es la descripción de un recorrido;
+IX.- Consejo Estatal: El Consejo Consultivo Estatal de Vialidad, Tránsito y Transporte;
 
-XII.- Ejecutivo: El titular del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
 
-XIII.- Faja separadora o isleta: Superficie pintada en el piso o a diferente nivel que sirve para refugio de peatones y para separar las trayectorias del tránsito;
+X.- Crucero o intersección: Superficie común entre dos o más calles en donde se realizan los movimientos direccionales del tránsito en forma directa o canalizados por isletas;
 
-XIV.- Itinerario: Es el recorrido al cual está sujeto una unidad de transporte público colectivo para dar servicio en un área determinada, ya sea urbana, suburbana o foránea, el cual contiene el conjunto de puntos geográficos de origen y destino;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
 
-XV.- Ley: La Ley de los Servicios de Vialidad, Tránsito y Transporte del Estado de Jalisco;
+XI.- Derecho de vía: Se entiende como tal, la zona afecta o una vía pública en ambos lados; en zonas urbanas y suburbanas, el derecho de vía lo establecerá el Ayuntamiento o Ayuntamientos respectivos, conforme a los planes parciales si los hubiere, de común acuerdo con la Secretaría de Vialidad y Transporte, y la Secretaria de Desarrollo Urbano, atendiendo a las disposiciones del Reglamento de Zonificación del Estado de Jalisco;
 
-XVI.- Norma Ecológica: La prevista para la materia, en la Ley Estatal del Equilibrio Ecológico y Protección al Ambiente y su Reglamento;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
 
-XVII.- Norma General de Carácter Técnico: Las disposiciones complementarias emitidas por el Ejecutivo, con la finalidad de darle eficiencia y actualidad a los objetivos y fines previstos en la Ley de los Servicios de Vialidad, Tránsito y Transporte y su Reglamento;
+XII.- Derrotero: Esla descripción de un recorrido;
 
-XVIII.- Organismo Coordinador: El Organismo Coordinador de la Operación Integral del Servicio del Transporte Público del Estado;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
 
-XIX.- Par vial: Funcionamiento de dos vías paralelas y relativamente cercanas entre sí, cada una con sentido único de circulación, pero diferente entre ellas;
+XIII.- Ejecutivo: El titular del Poder Ejecutivo del Estado;
 
-XX.- Peatón: Persona que transita en la vía pública sin vehículo;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
 
-XXI.- Periférico: Vialidad primaria con faja separadora central, física o pintada, o con camellón que circunda la periferia de una zona urbana.
+XIV.- Faja separadora o isleta: Superficie pintada en el piso o a diferente nivel que sirve para refugio de peatones y para separar las trayectorias del tránsito;
 
-XXII.- Policía de vialidad y tránsito: El servidor público perteneciente al área operativa de La Secretaría o el Ayuntamiento correspondiente;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
 
-XXIII.- Registro Estatal: El Registro Estatal de los Servicios Públicos de Tránsito y Transporte;
+XV.- Itinerario: Es el recorrido al cual está sujeto una unidad de transporte público colectivo para dar servicio en un área determinada, ya sea urbana, suburbana o foránea, el cual contiene el conjunto de puntos geográficos de origen y destino;
 
-XXIV.- Reglamento: El Reglamento de la Ley de los Servicios de Vialidad, Tránsito y Transporte;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
 
-XXV.- Ruta: El número o codificación que se le asigna a un itinerario;
+XVI.- Ley: La Ley de los Servicios de Vialidad, Tránsito y Transporte del Estado de Jalisco;
 
-XXVI.- Secretaría: La Dependencia del Ejecutivo del Estado competente en materia de Vialidad, Tránsito y Transporte o aquélla que asuma las funciones de ésta;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
 
-XXVII.- Secretario: El Secretario de Vialidad y Transporte;
+XVII.- Norma Ecológica: La prevista para la materia, en la Ley Estatal del Equilibrio Ecológico y Protección al Ambiente y su Reglamento;
 
-XXVIII.- Servicio Público de Transporte; Actividad regulada, controlada y dirigida por el Estado consistente en la prestación del servicio de traslado de personas y/o cosas en las vías públicas de jurisdicción Estatal y Municipal a través del uso de vehículos;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
 
-XXIX.- Servicios Conexos: Aquellos servicios concesionados o autorizados, que sin ser indispensables para la comunicación o el transporte, sean incidentales o conexos con el mismo;
+XVIII.- Norma General de Carácter Técnico: Las disposiciones complementarias emitidas por el Ejecutivo, con la finalidad de darle eficiencia y actualidad a los objetivos y fines previstos en la Ley de los Servicios Vialidad, Tránsito y Transporte y su Reglamento;
 
-XXX.- Tránsito: Acción o efecto de trasladarse de un lugar a otro por la vía pública;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
 
-XXXI.- Usuario: Persona física que utiliza el servicio público de transporte en cualquiera de sus modalidades;
+XIX.- Organismo Coordinador: El Organismo Coordinador de la Operación Integral del Servicio del Transporte Público del Estado;
 
-XXXII.- Vehículo: Medio de transporte terrestre que funciona a base de motor o cualquier otra forma de propulsión, destinado a la transportación de personas o cosas;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
 
-XXXIII.- Viaducto: Las calles con amplitud de avenidas, con o sin camellón o faja separadora y sin cruceros a nivel;
+XX.- Par vial: Funcionamiento de dos vías paralelas y relativamente cercanas entre sí, cada una con sentido único de circulación, pero diferente entre ellas.
 
-XXXIV.- Vialidad: Conjunto de servicios relacionados con las vías públicas, así como las infraestructuras que las componen, que son utilizados por vehículos o personas para transitar de un lugar a otro;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
 
-XXXV.- Vialidad Primaria: Aquella vía principal para el movimiento de grandes volúmenes de tránsito entre las áreas que forman parte del sistema de red vial en un centro de población;
+XXI.- Peatón: Persona que transita en la vía pública sin vehículo;
 
-XXXVI.- Vialidad Secundaria: Son las que permiten el movimiento del tránsito entre áreas o partes de la ciudad y que dan servicio directo a las vías primarias;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
 
-XXXVII.- Vía Rápida: Vialidad que permite la libre circulación de vehículos con intersecciones a desnivel con otras vías de circulación;
+XXII.- Periférico: Vialidad primaria con faja separadora central, física o pintada, o con camellón que circunda la periferia de una zona urbana.
 
-XXXVIII.- Vías Públicas: Superficie del dominio público que se utilizan para el tránsito de personas, semovientes y vehículos;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
+
+XXIII.- Policía de vialidad y tránsito: El servidor público perteneciente al área operativa de a Secretaria o el Ayuntamiento correspondiente;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
+
+XXIV.- Registro Estatal: El Registro Estatal de los Servicios Públicos de Tránsito y
+
+Transporte;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
+
+XXV.- Reglamento: El Reglamento de la ley de los Servicios de Vialidad, Tránsito y Transporte;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
+
+XXVI.- Ruta: El número o codificación que se le asigna a un itinerario;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
+
+XXVII.- Secretaría: La Dependencia del Ejecutivo del Estado competente en materia de Vialidad, Tránsito y Transporte o aquélla que asuma las funciones de ésta;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
+
+XXVIII.- Secretaría: El Secretario de Vialidad y Transporte;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
+
+XXIX.- Servicio Público de Transporte; Actividad regulada, controlada y dirigida por el Estado consistente en la prestación del servicio de traslado de personas y/o cosas en las vías públicas de jurisdicción Estatal y Municipal a través del uso de vehículos;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
+
+XXX.- Servicios Conexos: Aquellos servicios concesionados o autorizados, que sin ser indispensables para la comunicación o el transporte, sean incidentales o conexos con el mismo;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
+
+XXXI.- Tránsito: Acción o efecto de trasladarse de un lugar a otro por la vía pública;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
+
+XXXII.- Usuario: Persona física que utiliza el servicio público de transporte en cualquiera de sus modalidades;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
+
+XXXIII.- Vehículo: Medio de transporte terrestre que funciona a base de motor o cualquier otra forma de propulsión, destinado a la transportación de personas o cosas;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
+
+XXXIV.- Viaducto: las calles con amplitud de avenidas, con o sin camellón o faja separadora y sin cruceros a nivel;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
+
+XXXV.- Vialidad: Conjunto de servicios relacionados con las vías públicas, así como las infraestructuras que las componen, que son utilizados por vehículos o personas para trasladar de un lugar a otro;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
+
+XXXVI.- Vialidad Primaria: Aquella vía principal para el movimiento de grandes volúmenes de tránsito entre las áreas que forman parte del sistema de red vial en un centro de población;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
+
+XXXVII.- Vialidad Secundaria: Son las que permiten el movimiento del tránsito entre áreas o partes de la ciudad y que dan servicio directo a las vías primarias;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
+
+XXXVIII.- Vía Rápida: Vialidad que permite la libre circulación de vehículos con intersecciones a desnivel con otras vías de circulación;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
+
+XXXIX.- Vías Públicas: Superficie del dominio público que se utilizan para el tránsito de personas, semovientes y vehículos; y
 
 > <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2003)</small>
 
-XXXIX.- Zona Prohibida para vehículos pesados:
+XL.- Zona Prohibida para vehículos pesados:
 
-a) Los carriles centrales de las avenidas.
+a) Los carriles centrales de las avenidas;
 
-b) El tercer carril del lado izquierdo.
+b) El tercer carril del lado izquierdo;
 
-c) El segundo carril cuando no sea usado exclusivamente para rebasar.
+c) El segundo carril cuando no sea usado exclusivamente para rebasar; y
 
 d) Los lugares en donde se encuentren señalamientos prohibitivos de circulación a vehículos pesados.
 
@@ -426,6 +494,14 @@ VII.- Los conductores que sufran algún deterioro o desperfecto de sus vehículo
 
 VIII.- Mantener una distancia de seguridad con el vehículo de adelante, suficiente para poder frenar ante una emergencia y evitar el impacto.
 
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2009)</small>
+
+Artículo 35 bis.- Los vehículos de emergencia o de seguridad pública que estando en servicio lleven encendidos códigos y sirenas podrán, de ser necesario para la prestación del mismo, utilizar el Corredor Exclusivo de Transporte Público.
+
+> <small>(F. DE E., P.O. 2 DE ABRIL DE 2009)</small>
+
+A las (sic) conductores de los vehículos a que se refiere el presente artículo que hagan un uso indebido de esta excepción se harán acreedores a la sanción prevista en el artículo 166 bis la Ley.
+
 ###### Artículo 36.
 
 Los conductores de vehículos de tracción animal, bicicletas, triciclos, bicimotos, triciclos automotores y motonetas de menos de 250 centímetros cúbicos de cilindrada, al circular en la vía pública tendrán las siguientes obligaciones:
@@ -476,9 +552,15 @@ Para los efectos del artículo 50 de la Ley, el permiso provisional para circula
 
 ### CAPÍTULO IV. DE LA VELOCIDAD EN LAS VÍAS PÚBLICAS
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2009)</small>
+
 ###### Artículo 40.
 
-La velocidad máxima en las arterias de las ciudades, será de cincuenta kilómetros por hora en donde no se encuentre señalamiento alguno; a excepción de aquellas en donde se autorice una mayor o se restrinja a una menor y se encuentre debidamente señalado. Ninguna persona conducirá su vehículo a una velocidad tan baja que entorpezca la circulación, sin justificación alguna, en el Periférico, Viaductos, Vialidades Primarias, Vialidades Secundarias y Vías Rápidas, excepto cuando sea necesario por razones de seguridad o en cumplimiento a lo dispuesto por este Reglamento o por la Norma General de Carácter Técnico aplicable.
+La velocidad máxima en las arterias de las ciudades, será de cincuenta kilómetros por hora en donde no se encuentre señalamiento alguno; a excepción de los corredores exclusivos de transporte público o de aquellas en donde se autorice una mayor o se restrinja a una menor y se encuentre debidamente señalado. Ninguna persona conducirá su vehículo a una velocidad tan baja que entorpezca la circulación, sin justificación alguna, en el Periférico, Viaductos, Vialidades Primarias, Vialidades Secundarias y Vías Rápidas, excepto cuando sea necesario por razones de seguridad o en cumplimiento a lo dispuesto por este Reglamento o por la Norma General de Carácter Técnico aplicable.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2009)</small>
+
+Artículo 40 bis.- Las unidades de transporte público que circulen sobre corredores exclusivos tendrán el límite de velocidad que para tales efectos establezca la Secretaría.
 
 ###### Artículo 41.
 
@@ -497,6 +579,10 @@ III.- Las empresas, a que se refiere la fracción I de este artículo deberán i
 IV.- Los prestadores de servicios antes mencionados, deberán instalar anuncios en el interior de las unidades que a la letra digan: “Este vehículo cuenta con dispositivo regulador de velocidad máxima permitida de cincuenta kilómetros por hora; cualquier irregularidad en la operación del servicio favor de reportarla a los siguientes teléfonos: (los que así indique la Secretaría)”; y
 
 V.- Las disposiciones de las fracciones I, II, III y IV del presente artículo no aplican al transporte público de pasajeros que circule por el periférico y los caminos y autopistas, así como los que presten el servicio público de transporte de pasajeros suburbano, autorizados por la Secretaría.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE MARZO DE 2009)</small>
+
+Las unidades de transporte público que circulen sobre corredores exclusivos estarán a lo dispuesto en el artículo 40 bis del presente Reglamento.
 
 ### CAPÍTULO V. DEL ESTACIONAMIENTO EN LAS VÍAS PÚBLICAS
 
@@ -648,7 +734,7 @@ I. Ligeros: Aquellos que tienen una capacidad de carga de hasta tres mil kilogra
 
 > <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2003)</small>
 
-II. Pesados: Aquellos que tienen una capacidad de carga superior a los tres mil kilogramos de peso correspondiendo a esta categoría los siguientes: autobús, minibús, midibus, volteo, revolvedora, pipa, estacas, tubular, torton, trailer, remolque y doble semi-remolque, trilladoras, trascabos, montacargas, grúas, vehículos agrícolas y camiones con remolque.
+II. Pesados: Aquellos que tienen una capacidad de carga superior a los tres mil kilogramos de peso correspondiendo a esta categoría los siguientes: autobus, minibús, midibús, volteo, revolvedora, pipa, estacas, tubular, torton, trailer, remolque y doble semi-remolque, trilladoras, trascabos, montacargas, grúas, vehículos agrícolas y camiones con remolque.
 
 Se entiende por peso bruto vehicular el peso real del vehículo expresado en kilogramos, sumado al de su máxima capacidad de carga conforme a las especificaciones del fabricante y al del tanque de combustible lleno a su capacidad.
 
@@ -1723,3 +1809,7 @@ P.O. 16 DE AGOSTO DE 2003.
 PRIMERO.- Se derogan las disposiciones reglamentarias y administrativas que se opongan a lo previsto en el presente acuerdo.
 
 SEGUNDO.- El presente acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco.
+
+P.O. 10 DE MARZO DE 2009.
+
+ÚNICO. El presente Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco".
