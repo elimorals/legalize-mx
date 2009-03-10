@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-educacion-21887"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-30"
-last_updated: "2006-09-19"
+last_updated: "2009-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2009.
 
 Reglamento publicado en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el sábado 30 de junio de 2001.
 
@@ -115,9 +115,15 @@ a.- Dirección de Actualización Académica
 
 b.- Coordinación de Gestión Educativa
 
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2009)</small>
+
+c.- Dirección de Acciones Compensatorias
+
 3.- Dirección General de Innovación y Mejora
 
-a.- Unidad de Innovación Pedagógica
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2009)</small>
+
+a.- Dirección de Formación Integral
 
 b.- Dirección de Medios y Métodos Educativos
 
@@ -139,15 +145,23 @@ a.- Dirección de Planeación
 
 b.- Dirección de Evaluación
 
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2009)</small>
+
+c.- Dirección de Programación de la Atención Educativa
+
 7.- Dirección General de Profesiones y Servicios Escolares
 
 a.- Dirección de Profesiones
 
 b.- Dirección de Servicios Escolares
 
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2009)</small>
+
+c. Dirección de Incorporaciones
+
 B).- Para el Desarrollo Humano
 
-1.- Unidad de Estrategias en Política laboral
+1.- (DEROGADO, P.O. 10 DE MARZO DE 2009)
 
 2.- Dirección General de Desarrollo de Personal
 
@@ -164,6 +178,10 @@ a.- Coordinación de Prestaciones y Servicios
 b.- Dirección de Control de Plazas Federalizadas
 
 c.- Dirección de Control de Plazas Estatales
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2009)</small>
+
+d.- Dirección de Seguridad Social
 
 C).- De Recursos Financieros y Materiales
 
@@ -195,13 +213,15 @@ A).- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
 B).- De Comunicación
 
-1.- (DEROGADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2006)
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
-a.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
+1.- Dirección General de Comunicación:
 
-b.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
+a.- Dirección de Comunicación Interna
 
-c.- Dirección de Comunicación Interna
+b.- Dirección de Comunicación Social
+
+c.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
 C).- De Consejería Legal
 
@@ -211,15 +231,17 @@ C).- De Consejería Legal
 
 3.- Dirección de lo Contencioso
 
-D).- De Sistemas y Tecnología
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2009)</small>
 
-1.- Dirección General de Sistemas y Tecnología
+D).- De Sistemas y Tecnologías de Información
 
-a.- Dirección de Ingeniería de Programas
+1. Dirección General de Sistemas y Tecnologías de Información
 
-b.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
+a.- Dirección de Ingeniería de Sistemas de Información
 
-c.- Dirección de Integración de Tecnologías de Información
+b.- Dirección de Infraestructura Tecnológica y Conectividad
+
+c.- Dirección de Estrategia y Vinculación Tecnológica
 
 d.- Dirección de Sistemas de Nómina y Personal
 
@@ -675,6 +697,34 @@ X.- Establecer vínculos con otras instituciones que desarrollen proyectos y pro
 
 XI.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
 
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2009)</small>
+
+###### Artículo 19 Bis.
+
+La Dirección de Acciones Compensatorias, tendrá las siguientes atribuciones:
+
+I.- Instrumentar conjuntamente con las delegaciones regionales los ejes de desarrollo institucional de los programas de Educación Inicial y Básica para la población rural e indígena;
+
+II.- Asegurar la aplicación de la normatividad y lineamientos establecidos por la SEG y el Consejo Nacional de Fomento Educativo;
+
+III.- Supervisar la correcta aplicación, seguimiento y evaluación de los apoyos didácticos para las escuelas y agentes educativos y el recurso económico de procedencia federal para la operación de las acciones compensatorias;
+
+IV.- Diseñar, operar y evaluar estrategias y proyectos de intervención pedagógica, uso de auxiliares didácticos, de formación, desarrollo profesional y asesoría académica, para escuelas de preescolar alternativo, primaria y telesecundaria en desventaja educativa;
+
+V.- Desarrollar y evaluar propuestas metodológicas y de gestión para atender y fortalecer las escuelas primarias rurales multigrado;
+
+VI.- Proponer lineamientos, criterios y estrategias para la valoración del desempeño docente y de la supervisión escolar a partir del logro educativo de los alumnos de escuelas primarias rurales multigrado;
+
+VII.- Promover la participación de los padres de familia en el mejoramiento de los espacios educativos y las condiciones de aprendizaje de sus hijos, a través de la administración de recursos económicos asignados y de la asesoría permanente para colaborar corresponsablemente con la escuela, en el ámbito de su competencia;
+
+VIII.- Aplicar los lineamientos para la promoción de la contraloría social en programas federales de Desarrollo Social, a través de la integración de comités de contralorías sociales en las localidades atendidas, su capacitación y asesoría para realizar actividades de verificación del destino y uso de los apoyos compensatorios asignados;
+
+IX.- Aplicar estrategias para el seguimiento y evaluación de los objetivos y metas de las acciones compensatorias; así como proporcionar el apoyo e información en las evaluaciones realizadas por instancias externas;
+
+X.- Establecer la coordinación con las áreas de la SEG que coadyuvan al desarrollo de las acciones compensatorias para la educación básica y garantizar su cumplimiento conforme a los compromisos establecidos; y
+
+XI.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que le confiera el Secretario.
+
 ###### Artículo 20.
 
 La Dirección General de Innovación y Mejora, tendrá las siguientes atribuciones:
@@ -707,31 +757,27 @@ XIII.- Investigar, en coordinación con las Delegaciones Regionales, plataformas
 
 XIV.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2009)</small>
+
 ###### Artículo 21.
 
-La Unidad de Innovación Pedagógica, tendrá las siguientes atribuciones:
+La Dirección de Formación Integral, tendrá las siguientes atribuciones:
 
-l.- Promover innovaciones pedagógicas que respondan a las necesidades educativas regionales;
+I.- Diseñar, promover y evaluar un modelo de formación humana para los alumnos de los diversos niveles educativos que, de manera integral, tome en cuenta todas sus áreas de crecimiento;
 
-II.- Diseñar programas que impulsen el desarrollo de competencias, el fortalecimiento de la autoestima, la creatividad, la responsabilidad, la formación cultural y de valores;
+II.- Coadyuvar en el desarrollo humano de maestros y padres de familia, impulsando la corresponsabilidad y la participación social en la educación;
 
-III.- Proponer modelos y estrategias de evaluación de los proyectos de innovación pedagógica;
+III.- Promover innovaciones en el desarrollo curricular de competencias y habilidades para el aprendizaje;
 
-IV.- Establecer, mecanismos para la vinculación de los diferentes niveles educativos, a través de proyectos de innovación;
+IV.- Diseñar, impulsar y evaluar la aplicación de un modelo de desarrollo humano para los docentes de todos los niveles responsables de la formación docente y autoridades educativas;
 
-V.- Coadyuvar para que la educación en valores humanos incida en educandos, docentes, padres de familia y sociedad en general;
+V.- Adecuar a las características de cada una de las regiones del Estado, nuevas propuestas educativas del país y el mundo, así como difundirlas;
 
-VI.- Establecer vínculos con otras instancias para desarrollar proyectos de innovación pedagógica que fortalezcan la educación integral y continua;
+VI.- Proponer estrategias que propicien la vivencia de valores humanos con el fin de que los educandos construyan un proyecto de vida viable, justo y solidario;
 
-VII.- Adecuar a las características de cada una de las regiones del Estado, nuevas propuestas educativas del país y el mundo y difundirlas;
+VII.- Formar un banco de proyectos educativos innovadores, a partir de las experiencias exitosas de las escuelas, y ponerlas a disposición de la comunidad educativa; y
 
-VIII.- Proponer estrategias que propicien la vivencia de valores humanos con el fin de que los educandos construyan un proyecto de vida viable, justo y solidario;
-
-IX.- Revisar y proponer la adaptación regional de la currícula para responder a las necesidades socio educativas del desarrollo integral de los educandos;
-
-X.- Formar un banco de proyectos educativos innovadores, a partir de las experiencias exitosas de las escuelas, y ponerlas a disposición de la comunidad educativa; y
-
-XI.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
+VIII.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquéllas que le asigne su superior.
 
 ###### Artículo 22.
 
@@ -911,6 +957,8 @@ XIV.- Promover y coordinar las acciones para la rendición de cuentas del sector
 
 XV.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2009)</small>
+
 ###### Artículo 28.
 
 La Dirección de Planeación, tendrá las siguientes atribuciones:
@@ -919,25 +967,19 @@ I.- Proponer las políticas educativas estatales con base en los estudios de los
 
 II.- Establecer un sistema de planeación estratégica, táctica y operativa que permita orientar el quehacer de la SEG;
 
-III.- Orientar el diseño e implantación de proyectos estratégicos que respondan a las necesidades y políticas educativas;
+III.- Coordinar los procesos de planeación en educación básica;
 
-IV.- Coordinar los procesos de planeación del sector educativo;
+IV.- Orientar el diseño e implantación de proyectos estratégicos que respondan a las necesidades y políticas educativas;
 
-V.- Evaluar y dar seguimiento a las metas educativas realizando las propuestas de mejora correspondientes;
+V.- Coordinar la capacitación y asesoría en materia de planeación y programación a las delegaciones regionales y demás unidades administrativas de la SEG;
 
-VI.- Integrar los resultados de los procesos de atención a la demanda educativa que realizan las Delegaciones Regionales y efectuar los estudios de oferta-demanda que garanticen el crecimiento del Sistema Educativo Estatal con equidad;
+VI.- Coordinar conjuntamente con la Subsecretaría de Recursos Financieros y Materiales el proceso de planeación, programación y presupuestación de la SEG;
 
-VII.- Proponer estrategias que orienten los procesos de atención a la demanda educativa procurando la optimización de recursos;
+VII.- Evaluar y dar seguimiento a las metas educativas, realizando las propuestas de mejora correspondientes; y
 
-VIII.- Definir las necesidades de plazas de personal directivo, docente y de apoyo a la educación, hacer la gestión correspondiente y supervisar que se aplique según la programación correspondiente;
+VIII.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquéllas que le asigne su superior.
 
-IX.- Coordinar con la Promotora de Infraestructura Educativa del Estado Guanajuato la consolidación, construcción y equipamiento de espacios educativos acordes con las necesidades de las Delegaciones Regionales;
-
-X.- Coordinar la capacitación y asesoría en materia de planeación y programación a las Delegaciones Regionales y demás unidades administrativas de la SEG;
-
-XI.- Coordinar conjuntamente con la Subsecretaría de Recursos Financieros y Materiales el proceso de planeación, programación y presupuestación de la SEG; y
-
-XII.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2009)</small>
 
 ###### Artículo 29.
 
@@ -945,135 +987,175 @@ La Dirección de Evaluación, tendrá las siguientes atribuciones:
 
 I.- Coordinar el Sistema Estatal de Evaluación y de información educativa en el Estado e integrar los resultados al SIIEG;
 
-II.- Definir los estándares de los indicadores de impacto de proceso y de resultados del Sistema Educativo Estatal e identificar áreas de oportunidad para mejorar el servicio educativo;
+II.- Apoyar la integración de los diagnósticos para la planeación en el sector educativo;
 
-III.- Apoyar la integración de los diagnósticos para la planeación en el sector educativo;
+III.- Promover la difusión de los resultados del Sistema Educativo para apoyar la toma de decisiones;
 
-IV.- Promover la difusión de los resultados del Sistema Educativo para apoyar la toma de decisiones;
+IV.- Promover y apoyar el desarrollo de proyectos de evaluación e información educativa en el Estado;
 
-V.- Evaluar el impacto de proyectos educativos para determinar su pertinencia y sugerir acciones;
+V.- Coordinar la capacitación y asesoría a las instancias del sector educativo en materia de evaluación y de uso de información;
 
-VI.- Promover y apoyar el desarrollo de proyectos de evaluación e información educativa en el Estado;
+VI.- Promover en el sector educativo la evaluación como un instrumento necesario para mejorar los programas y proyectos educativos;
 
-VII.- Coordinar la capacitación y asesoría a las instancias del sector educativo en materia de evaluación y de uso de información;
+VII.- Establecer mecanismos y proponer acuerdos de vinculación con otras instancias gubernamentales y no gubernamentales, en lo relativo a información y evaluación educativa;
 
-VIII.- Promover en todo el sector educativo, la evaluación como un. Instrumento necesario para mejorar los programas y proyectos educativos;
+VIII.- Identificar experiencias nacionales e internacionales en materia de evaluación e información educativa para su implementación en el sector educativo;
 
-IX.- Establecer mecanismos y proponer acuerdos de vinculación con otras instancias gubernamentales y no gubernamentales, en lo relativo a información y evaluación educativa;
+IX.- Coordinar el acopio y difusión de la información estratégica de la SEG; y
 
-X.- Identificar experiencias nacionales e internacionales en materia de evaluación e información educativa para su implementación en el sector educativo;
+X.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquéllas que le asigne su superior.
 
-XI.- Coordinar el acopio y difusión de la información estratégica de la SEG; y
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2009)</small>
 
-XII.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
+###### Artículo 29 Bis.
+
+La Dirección de Programación de la Atención Educativa, tendrá las siguientes atribuciones:
+
+I.- Integrar los resultados de los procesos de atención a la demanda educativa que realizan las delegaciones regionales y efectuar los estudios de oferta-demanda que garanticen el crecimiento del Sistema Educativo Estatal con equidad;
+
+II.- Proponer y verificar el cumplimiento de los criterios para la asignación y aplicación de plazas y su seguimiento correspondientes al personal docente, de apoyo y asistencia a la educación, así como las directivas y de supervisión;
+
+III.- Proponer estrategias que orienten los procesos de atención a la demanda educativa;
+
+IV.- Definir las necesidades de plazas de personal directivo, docente y de apoyo a la educación, hacer la gestión correspondiente y supervisar que se aplique según la programación correspondiente;
+
+V.- Coordinarse con el Instituto de Infraestructura Física Educativa para el Estado de Guanajuato, para la consolidación, construcción y equipamiento de espacios educativos acordes con las necesidades de las Delegaciones Regionales;
+
+VI.- Proponer estrategias para la regularización y optimización de las estructuras ocupacionales en educación básica y definir criterios para casos especiales;
+
+VII.- Coordinar la integración de la programación detallada y la microplaneación;
+
+VIII.- Proponer estrategias para atender a las necesidades de infraestructura educativa; y
+
+IX.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquéllas que le asigne su superior.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2009)</small>
 
 ###### Artículo 30.
 
 La Dirección General de Profesiones y Servicios Escolares, tendrá las siguientes atribuciones:
 
-I.- Coordinar los procesos de servicios escolares en todo el Sistema Educativo Estatal;
+I.- Coordinar los procesos de administración de servicios escolares de las instituciones educativas pertenecientes al Sistema Educativo Estatal;
 
-II.- Realizar las protestas de creación y adecuación de la normatividad que regula los servicios escolares y de incorporación, así como proponer las políticas para la mejora y agilización de estos procesos, de conformidad con las disposiciones legales aplicables;
+II.- Realizar las propuestas de creación y adecuación de la normatividad en materia de profesiones, servicios escolares e incorporación de estudios, así como garantizar el cumplimiento de ésta;
 
-III.- Coordinar los procesos de certificación de estudios en las escuelas oficiales e incorporadas al Sistema Educativo Estatal, dentro del ámbito de competencia de la SEG;
+III.- Implementar mecanismos para la mejora y agilización de los procesos en materia de incorporación de estudios y servicios escolares;
 
-IV.- Aprobar el dictamen para el otorgamiento de revalidación y equivalencia de estudios para los educandos de los diversos niveles educativos;
+IV.- Dirigir los procesos de certificación y acreditación de estudios en las instituciones educativas oficiales e incorporadas al Sistema Educativo Estatal dentro del ámbito de competencia de la SEG;
 
-V.- Aprobar el dictamen de procedencia de registro, autorización y reconocimiento de validez oficial de estudios de todos los niveles educativos y remitir al Secretario el Acuerdo Secretarial para la firma correspondiente;
+V.- Expedir los certificados de reconocimiento oficial a los profesionistas que hayan acreditado el proceso de certificación profesional o su refrendo;
 
-VI.- Garantizar el adecuado uso y destino de documentos de servicio escolar, constancias, certificados y títulos en el Sistema Educativo Estatal;
+VI.- Coordinar la capacitación y asesoría en materia de servicios escolares, registro, autorización y reconocimiento de validez oficial de estudios;
 
-VII.- Coordinar la capacitación y asesoría en materia de servicios escolares, registro, autorización y reconocimiento de validez oficial de estudios de todos los niveles educativos, así como en lo relativo a Colegios de Profesionistas, a las Delegaciones Regionales, organismos descentralizados y desconcentrados;
+VII.- Determinar la instauración de los procedimientos administrativos con motivo de infracciones a la normatividad en materia de profesiones y los correspondientes a las instituciones educativas particulares incorporadas a la SEG, así como, en su caso, aplicar las sanciones que resulten aplicables;
 
-VIII.- Proponer la normatividad en materia de otorgamiento de becas para instituciones educativas particulares incorporadas a la SEG;
+VIII.- Coordinar el proceso para el otorgamiento de becas por parte de las instituciones educativas particulares incorporadas a la SEG, conforme a la normatividad aplicable;
 
-IX.- Coordinar el registro de egresados de carreras técnicas, técnicas superiores universitarias, licenciaturas y postgrados para la emisión de cédulas profesionales;
+IX.- Fungir como vínculo entre el Sistema Educativo Estatal y el Sistema Educativo Nacional, en materia de acreditación, autorización y reconocimiento de validez oficial de estudios de todos los niveles educativos, así como en lo relativo a equivalencia de estudios, revalidación y ejercicio profesional;
 
-X.- Promover la constitución, registro y funcionamiento de los Colegios de Profesionistas en el Estado;
+X.- Promover la integración al Sistema Educativo Estatal de las iniciativas que contribuyan a la mejor prestación del servicio educativo por parte de los particulares;
 
-XI.- Ser vínculo entre el Sistema Educativo Estatal y el Sistema Educativo Nacional, en materia de acreditación, registro, autorización y reconocimiento de validez oficial de estudios de todos los niveles educativos, así como en lo relativo a equivalencia de estudios, revalidación y profesiones;
+XI.- Definir e implementar mecanismos para garantizar el cumplimiento de la normatividad en la prestación del servicio educativo por parte de los particulares;
 
-XII.- Proponer al superior inmediato la actualización permanente del marco jurídico en materia de profesiones;
+XII.- Autorizar las inspecciones y supervisiones a las instituciones educativas particulares, y, en su caso, la imposición de sanciones;
 
-XIII.- Proponer la operación y evaluación de un Sistema Estatal de Mejoramiento Profesional, involucrando en él a todos los Colegios de Profesionistas, universidades, centros de enseñanza superior e institutos de investigación en el Estado;
+XIII.- Suscribir el dictamen de revalidación y equivalencia de estudios, de conformidad con la normatividad aplicable;
 
-XIV.- Cancelar el registro de los títulos de los profesionistas sancionados judicialmente a inhabilitación en el ejercicio profesional, y promover la publicación de dicho acto;
+XIV.- Suscribir el dictamen de procedencia o no de las solicitudes de registro, autorización y reconocimiento de validez oficial de estudios; y
 
-XV.- Promover la integración al Sistema Educativo Estatal de las iniciativas que contribuyan a la mejor prestación del servicio educativo por parte de los particulares;
+XV.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquéllas que le asigne su superior.
 
-XVI.- Definir mecanismos para garantizar el cumplimiento de la normatividad en la prestación del servicio educativo por parte de los particulares;
-
-XVII.- Acordar con las instancias correspondientes las sanciones aplicables a los particulares por incumplimiento a la normatividad en la prestación del servicio educativo, así como elaborar y notificar a los infractores el dictamen respectivo;
-
-XVIII.- Acordar con las instancias correspondientes, previo a la emisión del dictamen oficial, la validación técnica de las propuestas de oferta educativa de cada nivel y modalidad presentadas por los particulares;
-
-XIX.- Elaborar y notificar los Acuerdos Secretariales de imposición de sanción a los particulares por motivo del incumplimiento de la normatividad en la prestación del servicio educativo;
-
-XX.- Participar, dentro del ámbito de competencia de la SEG, con las instancias públicas y privadas en el proceso de certificación de competencias laborales; y
-
-XXI.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2009)</small>
 
 ###### Artículo 31.
 
 La Dirección de Profesiones, tendrá las siguientes atribuciones:
 
-I.- Hacer cumplir en el Estado los ordenamientos jurídicos relacionados con las diversas profesiones;
+I.- Promover acciones de reconocimientos a los profesionistas que se distingan por su desempeñe dentro del colegio al que pertenezcan;
 
-II.- Vigilar que la práctica profesional se realice en los términos de la ética y con apego a la Ley;
+II.- Proponer y verificar el cumplimiento de los planes estatales de servicio profesional de índole social y de mejoramiento continuo;
 
-III.- Propiciar la creación de Colegios de Profesionistas;
+III.- Tramitar la expedición de cédulas profesionales con efectos de patente de conformidad con lo dispuesto por la normatividad aplicable;
 
-IV.- Llevar el registro de los títulos profesionales expedidos en el Estado por las autoridades competentes, de conformidad con las leyes aplicables;
+IV.- Analizar las propuestas presentadas por el Consejo de Profesionistas del Estado de Guanajuato, respecto de los contenidos sobre los que versará la certificación profesional y sus correspondientes refrendos;
 
-V.- Suscribir la documentación relativa al registro de los títulos profesionales señalados en la fracción anterior;
+V.- Coordinar la práctica de visitas de verificación del cumplimiento de la normatividad en materia de ejercicio profesional;
 
-VI.- Llevar la hoja de servicio de cada profesionista cuyo título se registre, y anotar en el expediente las sanciones que se impongan al profesionista, por mandato de la autoridad legalmente facultada para ello;
+VI.- Autorizar a las instancias evaluadoras que pretendan participar en el proceso de certificación profesional en los términos de la normatividad aplicable;
 
-VII.- Registrar a los Colegios de Profesionistas existentes en la Entidad, determinando la sede y la forma en que deberán prestar el servicio social a la comunidad;
+VII.- Coordinar la elaboración, publicación y cumplimiento de la convocatoria en la que se establezcan las bases generales del proceso de certificación profesional y sus correspondientes refrendos;
 
-VIII.- Tramitar la expedición de las cédulas profesionales con efectos de patente para el ejercicio profesional en el Estado;
+VIII.- Coordinar la elaboración de los certificados de reconocimiento oficial a los profesionistas que hayan acreditado el proceso de certificación profesional o su refrendo;
 
-IX.- Registrar los títulos profesionales y grados académicos otorgados a extranjeros por las instituciones educativas en el Estado;
+IX.- Brindar asesoría a las instituciones educativas para llevar a cabo su registro ante la Dirección General de Profesiones de la SEP;
 
-X.- Registrar los títulos profesionales y grados académicos, otorgados a los nacionales en el extranjero, de conformidad a lo dispuesto por las leyes aplicables;
+X.- Proponer al superior jerárquico la creación o modificación de las disposiciones jurídicas en materia de profesiones; y
 
-XI.-Tramitar la expedición de autorizaciones a los pasantes de las diversas profesiones para ejercer las prácticas respectivas, de conformidad con las leyes aplicables;
+XI.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquéllas que le asigne su superior.
 
-XII.- Tramitar las autorizaciones para la creación de los Colegios de Profesionistas;
-
-XIII.- Proponer la suscripción de convenios que en materia de profesiones se pretendan realizar con la Federación, con los Estados, los Municipios o con los particulares;
-
-XIV.- Publicar en el mes de enero de cada año, la lista de los profesionistas titulados en los planteles de preparación profesional durante el año anterior;
-
-XV.- Proporcionar a los interesados informes en asuntos que sean competencia de la Dirección;
-
-XVI.- Denunciar ante las autoridades competentes las violaciones a la Ley que regula la materia de profesiones en el Estado; y
-
-XVII.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2009)</small>
 
 ###### Artículo 32.
 
 La Dirección de Servicios Escolares, tendrá las siguientes atribuciones:
 
-I.- Apoyar a las Delegaciones Regionales en el desarrollo y mejora de los procesos de servicios escolares en el Sistema Educativo Estatal;
+I.- Coordinar, conjuntamente con las USAE, la ejecución de los procesos de administración escolar del Sistema Educativo Estatal;
 
-II.- Proponer la creación y adecuación de la normatividad aplicable a los procesos de servicios escolares;
+II.- Supervisar, dentro del ámbito de competencia de la SEG, que los procesos de certificación de estudios en las escuelas oficiales e incorporadas al Sistema Educativo Estatal, se realicen adecuadamente y en congruencia con la normatividad correspondiente;
 
-III.- Supervisar, dentro del ámbito de competencia de la SEG, que los procesos de certificación de estudios en las escuelas oficiales e incorporadas al Sistema Educativo Estatal, se realicen adecuadamente y en congruencia con la normatividad correspondiente;
+III.- Garantizar el adecuado uso y destino de documentos de servicio escolar, constancias, certificados y títulos en el Sistema Educativo Estatal;
 
-IV.- Dictaminar la procedencia para el otorgamiento de revalidación y equivalencia de estudios para los alumnos de los diversos niveles educativos;
+IV.- Capacitar y asesorar, en coordinación con las USAE, a las instituciones educativas en materia de servicios escolares;
 
-V.- Elaborar propuestas de dictamen y de Acuerdo Secretarial para la procedencia de registro, autorización y reconocimiento de validez oficial de estudios de todos los niveles educativos;
+V.- Vigilar el cumplimiento de la normatividad y proponer las adecuaciones pertinentes en materia de otorgamiento de becas, en los distintos niveles educativos, por parte de las instituciones educativas particulares incorporadas a la SEG;
 
-VI.- Supervisar el adecuado uso y destino de documentos de servicio escolar, constancias, certificados y títulos en el Sistema Educativo Estatal;
+VI.- Coordinar el uso del sistema de control escolar de la SEG y proponer innovaciones y mejoras;
 
-VII.- Capacitar y asesorar a las Delegaciones Regionales en materia de servicios escolares, registro, autorización y reconocimiento de validez oficial de estudios de todos los niveles educativos;
+VII.- Proponer al superior jerárquico las disposiciones normativas de operación relativos a procesos de control escolar para todos los niveles educativos;
 
-VIII.- Supervisar el cumplimiento de la normatividad, y proponer las adecuaciones pertinentes, en materia de otorgamiento de becas por las instituciones educativas particulares incorporadas en los distintos niveles educativos;
+VIII.- Autenticar los certificados y títulos profesionales y demás documentación relativa a los procesos de servicio escolar;
 
-IX.- Coordinar con las Delegaciones Regionales la verificación del cumplimiento de la normatividad en la prestación del servicio educativo por parte de los particulares; y
+IX.- Proponer al superior jerárquico mecanismos de coordinación con instituciones educativas para optimizar la expedición de títulos;
 
-X.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
+X.- Administrar en coordinación con las USAE, los procesos relativos al control escolar de instituciones oficiales e incorporadas al Sistema Educativo Estatal;
+
+XI.- Resguardar la información relativa a los antecedentes escolares de los educandos del Sistema Educativo Estatal;
+
+XII.- Elaborar los dictámenes relativos a las solicitudes de revalidación y equivalencia de estudios para los educandos de los diversos niveles educativos;
+
+XIII.- Coadyuvar con la Dirección de Incorporaciones en el desahogo de los procedimientos de investigación que se determinen instaurar a las instituciones educativas particulares con motivo de infracciones a la normatividad aplicable;
+
+XIV.- Expedir en apoyo de la Dirección General de Profesiones y Servicios Escolares, las certificaciones de títulos profesionales;
+
+XV.- Proponer la creación y adecuación de la normatividad aplicable a los procesos de servicios escolares; y
+
+XVI.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquéllas que le asigne su superior.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2009)</small>
+
+###### Artículo 32 Bis.
+
+La Dirección de Incorporaciones, tendrá las siguientes atribuciones:
+
+I.- Elaborar el dictamen de procedencia o no de las solicitudes de registro, autorización y reconocimiento de validez oficial de estudios, así como de la actualización de expedientes y elaborar, en su caso, el proyecto de Acuerdo Secretarial para la firma correspondiente;
+
+II.- Desahogar los procedimientos de investigación que se determinen instaurar a las instituciones educativas particulares con motivo de infracciones a la normatividad aplicable;
+
+III.- Coordinar el proceso de inspección a las instituciones educativas particulares;
+
+IV.- Coordinar el proceso de incorporación de estudios de particulares y realizar las propuestas a las diferentes unidades administrativas que en él intervienen, a fin de que se lleven a cabo en forma eficaz;
+
+V.- Proponer al superior jerárquico las modificaciones a la normatividad en materia de registro, autorización o reconocimiento de validez oficial de estudios de planteles educativos particulares;
+
+VI.- Mantener actualizada la relación de las instituciones particulares incorporadas, así como de las que han sido dadas de baja o cuyo acuerdo ha sido revocado para su difusión y publicación;
+
+VII.- Resguardar la información relativa a los expedientes de registro, autorización y reconocimiento de validez oficial de estudios de las instituciones educativas particulares;
+
+VIII.- Determinar el monto y características de sanción derivados de procedimientos administrativos;
+
+IX.- Verificar, en coordinación con las delegaciones regionales, el cumplimiento de la normatividad en la prestación del servicio educativo por parte de los particulares; y
+
+X.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquéllas que le asigne su superior.
 
 #### SECCIÓN SEGUNDA. SUBSECRETARÍA PARA EL DESARROLLO HUMANO
 
@@ -1121,33 +1203,19 @@ XVIII.- Las demás que le señalen las disposiciones legales y reglamentarias, a
 
 ###### Artículo 34.
 
-La Unidad de Estrategias en Política Laboral, tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 10 DE MARZO DE 2009)
 
-I. Realizar estudios e investigaciones en materia laboral;
-
-II.- Participar en las negociaciones del pliego petitorio formulado por las representaciones sindicales, evaluando las propuestas y planteamientos, y dar seguimiento a los acuerdos suscritos;
-
-III.- Coordinar las acciones de planeación prospectiva en el ámbito laboral que permitan ubicar los diferentes escenarios que impacten a la SEG;
-
-IV.- Generar proyectos y propuestas que orienten la relación y negociación laboral con las representaciones sindicales;
-
-V.- Priorizar la atención de las áreas de oportunidad en materia laboral, privilegiando las líneas de acción;
-
-VI.- Asesorar a los funcionarios de la SEG en los procesos de atención y negociación laboral con las representaciones del SNTE en el Estado; y
-
-VII.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2009)</small>
 
 ###### Artículo 35.
 
 La Dirección General de Desarrollo de Personal, tendrá las siguientes atribuciones:
 
-I.- Coordinar y supervisar los procesos de reclutamiento, selección, capacitación y profesionalización del personal de la SEG;
+I.- Coordinar y supervisar los procesos de reclutamiento y selección del personal de confianza de la SEG, así como capacitar y profesionalizar al personal de la institución;
 
-II.- Coordinar y administrar la bolsa de trabajo de la SEG;
+II.- Coordinar y administrar la bolsa de trabajo del personal de confianza de la SEG;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
-
-III.- Asegurar que la selección del personal de la SEG responda a la normatividad vigente y a las políticas definidas por la Subsecretaría para el Desarrollo Educativo;
+III.- Asegurar que la selección del personal de confianza de la SEG responda a la normatividad vigente;
 
 IV.- Promover el desarrollo integral del personal de la SEG;
 
@@ -1155,15 +1223,25 @@ V.- Proponer las políticas en materia de capacitación para el personal de la S
 
 VI.- Promover la certificación de competencias laborales para el personal de la SEG;
 
-VII.- Establecer el servicio civil de carrera de los servidores públicos de la SEG, de conformidad con la normatividad establecida;
+VII.- Coordinar el servicio civil de carrera de los servidores públicos de la SEG, de conformidad con la normatividad establecida;
 
 VIII.- Coordinar el sistema de evaluación del desempeño del personal de la SEG;
 
-IX.- Coordinar las acciones en materia de desarrollo de personal, carrera magisterial y seguridad social, asesorando a las Delegaciones Regionales en estos procesos;
+IX.- Coordinar las acciones en materia de desarrollo de personal y carrera magisterial, asesorando a las delegaciones regionales en estos procesos;
 
-X.- Proponer estrategias que permitan valorar, estimular y conservar el talento humano en la SEG; y
+X.- Proponer estrategias que permitan valorar, estimular y conservar el talento humano en la SEG;
 
-XI.- Las demás que le señalen las disposiciones legales y reglamentarías, así como aquellas que le asigne su superior.
+XI.- Establecer mecanismos para la adecuación de la organización que responda a la política educativa;
+
+XII.- Supervisar que la estructura esté en función de los propósitos institucionales;
+
+XIII.- Coordinar la elaboración y actualización del manual de organización;
+
+XIV.- Coordinar la evaluación institucional y desempeño individual;
+
+XV.- Coordinar las estrategias para fortalecer la identidad del personal con la SEG; y
+
+XVI.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquéllas que le asigne su superior.
 
 ###### Artículo 36.
 
@@ -1205,9 +1283,15 @@ VI.- Elaborar el Plan de Capacitación y Formación del personal de la SEG;
 
 VII.- Coordinar el desarrollo y operación de los Programas de Capacitación y Formación del Personal;
 
-VIII.- Diseñar estrategias que permitan valorar, estimular y conservar el talento humano en la SEG; y
+VIII.- Diseñar estrategias que permitan valorar, estimular y conservar el talento humano en la SEG; y (sic)
 
-IX.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
+
+IX.- Coordinar la adecuación estructural de la organización que responda a la política educativa; y
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2009)</small>
+
+X.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
 
 ###### Artículo 38.
 
@@ -1225,81 +1309,131 @@ V.- Representar a la SEG ante la Comisión Paritaria SEG-SNTE de Carrera Magiste
 
 VI.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2009)</small>
+
 ###### Artículo 39.
 
 La Dirección General de Administración de Recursos Humanos, tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+I.- Cubrir las necesidades de personal en la SEG, acorde a lo establecido por la Subsecretaría para el Desarrollo de la Educación Básica, conforme a los perfiles de puesto;
 
-I.- Cubrir las necesidades de personal de la SEG, acorde a lo establecido por la Subsecretaría para el Desarrollo Educativo, conforme a los perfiles de puesto, así como coadyuvar en la solución de conflictos laborales de manera conjunta con la Unidad de Apoyo de Consejería Legal;
+II.- Coadyuvar en la solución de conflictos laborales de manera conjunta con la Unidad de Apoyo de Consejería Legal;
 
-II.- Cumplir con los acuerdos, convenios y la normatividad aplicable a los procesos de cambios, comisiones, basificaciones y escalafón del personal docente y administrativo de la SEG;
+III.- Cumplir con los acuerdos, convenios y la normatividad aplicable a los procesos de cambios, comisiones, basificaciones y escalafón del personal docente y de apoyo y asistencia a la educación de la SEG;
 
-III.- Coordinar y supervisar los procesos inherentes a la contratación de personal;
+IV.- Coordinar y supervisar los procesos inherentes a la contratación de personal, así como los relativos a la terminación de la relación laboral;
 
-IV.- Vigilar la adecuada afectación de los movimientos al sistema de nómina del personal docente y administrativo de la SEG;
+V.- Supervisar la adecuada afectación de los movimientos al sistema de nómina del personal de la SEG;
 
-V.- Coordinar y supervisar la expedición de nombramientos del personal de la SEG;
+VI.- Supervisar la expedición de nombramientos del personal de la SEG;
 
-VI.- Representar a la SEG ante el SNTE en materia de cambios, basificaciones y permutas, proponiendo la suscripción de los acuerdos necesarios de conformidad con la normatividad establecida;
+VII.- Representar a la SEG ante el SNTE en materia de cambios, basificaciones y permutas, proponiendo la suscripción de los acuerdos necesarios de conformidad con la normatividad establecida;
 
-VII.- Realizar el costeo de las propuestas y planteamientos realizados en el pliego petitorio de las representaciones sindicales, así como dar seguimiento a los acuerdos tomados;
+VIII.- Realizar el costeo de las propuestas y planteamientos realizados en el pliego petitorio por las representaciones sindicales, así como dar seguimiento a los acuerdos suscritos;
 
-VIII.- Coordinar y supervisar la expedición de constancias diversas a los servidores públicos de la SEG;
+IX.- Coordinar la expedición de documentos oficiales que deriven de la relación laboral entre la SEG y sus trabajadores;
 
-IX.- Coordinar y supervisar el control operativo de plazas autorizadas;
+X.- Coordinar y supervisar el control de plazas autorizadas;
 
-X.- Autorizar la captura de información en los casos de nómina complementaria;
+XI.- Autorizar la captura de movimientos de nómina complementaria;
 
-XI.- Coordinar el proceso de cancelación-creación de plazas de acuerdo a los lineamientos establecidos por la Secretaría de Finanzas y Administración; y
+XII.- Coordinar el proceso de cancelación-creación de plazas de acuerdo a los lineamientos establecidos por la Secretaría de Finanzas y Administración;
 
-XII.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
+XIII.- Suscribir los informes de movimientos de alta, baja y promoción del personal de la SEG, obligados a rendir declaración de situación patrimonial;
+
+XIV.- Proponer las políticas para el adecuado cumplimiento de las licencias por humanidad, así como validar la procedencia de las mismas; y
+
+XV.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquéllas que le asigne su superior.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2009)</small>
 
 ###### Artículo 40.
 
 La Coordinación de Prestaciones y Servicios, tendrá las siguientes atribuciones:
 
-I. Coordinar la validación de expedientes del personal de la SEG, así como la actualización de los documentos de éste;
+I.- Garantizar el resguardo e integración de los expedientes del personal de la SEG, así como la actualización de los mismos;
 
-II.- Coordinar y supervisar la expedición de documentos oficiales que solicite el trabajador inherentes a su relación laboral;
+II.- Validar los documentos de los trabajadores de la SEG inherentes a su relación laboral;
 
-III.- Dar cumplimiento a las sanciones impuestas a los trabajadores que impliquen afectación en el sistema de nómina;
+III.- Efectuar los descuentos a los salarios de los trabajadores que deriven de las sanciones o medidas disciplinarias impuestas a los mismos, errores en pagos, inasistencias, además del cumplimiento de las órdenes judiciales por concepto de pensión alimenticia y de las deudas contraídas con la SEG, así como de aquellos que tengan soporte en las disposiciones jurídicas correspondientes;
 
-IV.- Vigilar que en las Delegaciones Regionales se respeten las prestaciones laborales de los trabajadores de la SEG; y
+IV.- Automatizar los procesos para la mejora de los servicios concernientes a la relación laboral de la SEG con sus trabajadores;
 
-V.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
+V.- Elaborar y preparar para su firma las convocatorias que se deriven del otorgamiento de prestaciones laborales a los trabajadores de la SEG;
+
+VI.- Preparar para su suscripción los criterios, en materia salarial y fiscal, de pago para la afectación a nómina del personal de la SEG; y
+
+VII.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquéllas que le asigne su superior.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2009)</small>
 
 ###### Artículo 41.
 
 La Dirección de Control de Plazas Federalizadas, tendrá las siguientes atribuciones:
 
-I.- Llevar el control operativo de plazas autorizadas;
+I.- Llevar el control operativo de plazas autorizadas mediante el sistema de nómina;
 
-II.- Supervisar el control de los movimientos de personal y actualización de su plantilla, así como las afectaciones a la nómina, de conformidad con la normatividad y acuerdos suscritos con el SNTE;
+II.- Supervisar el control de los movimientos de personal, así como las afectaciones a la nómina, de conformidad con la normatividad y acuerdos suscritos con el SNTE;
 
-III.- Elaborar para su suscripción los documentos relativos a nombramientos, cambios y permutas;
+III.- Suscribir los nombramientos que deriven de los procesos de cambios, permutas y contratación del personal sindicalizado;
 
-IV.- Realizar los procesos de contratación y elaboración de movimientos de nómina;
+IV.- Suscribir o en su caso, emitir los nombramientos para trabajadores de confianza de la SEG, atendiendo a los criterios emitidos que expresamente establezca el titular de la Subsecretaria para el Desarrollo Humano;
 
-V.- Coordinarse con la Subsecretaría de Recursos Financieros y Materiales y la Unidad de Sistemas y Tecnología para la operación eficiente del Sistema de Nómina; y
+V.- Realizar los procesos de contratación, cambios de adscripción, permutas, comisiones y elaboración de movimientos de nómina;
 
-VI.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
+VI.- Coordinarse con la Subsecretaría de Recursos Financieros y Materiales, la Subsecretaría para el Desarrollo Educativo y la Dirección General de Sistemas y Tecnologías de Información para la operación eficiente del sistema de nómina;
+
+VII.- Atender y resolver las incidencias que deriven de los procesos de contratación, cambios de adscripción, permutas, comisiones y elaboración de movimientos de nómina; y
+
+VIII.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquéllas que le asigne su superior.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2009)</small>
 
 ###### Artículo 42.
 
 La Dirección de Control de Plazas Estatales, tendrá las siguientes atribuciones:
 
-I.- Llevar el control operativo de plazas autorizadas;
+I.- Llevar el control operativo de plazas autorizadas mediante el sistema de nómina;
 
-II.- Supervisar el control de los movimientos de personal y actualización de su plantilla, así como, las afectaciones a la nómina, de conformidad con la normatividad y acuerdos suscritos con el SNTE;
+II.- Supervisar el control de los movimientos de personal, así como las afectaciones a la nómina, de conformidad con la normatividad y acuerdos suscritos con el SNTE;
 
-III.- Elaborar para su suscripción los documentos relativos a nombramientos, cambios y permutas;
+III.- Suscribir los nombramientos que deriven de los procesos de cambios, permutas y contratación del personal sindicalizado;
 
-IV.- Realizar los procesos de contratación y elaboración de movimientos de nómina;
+IV.- Suscribir o en su caso, emitir los nombramientos para trabajadores de confianza de la SEG, atendiendo a los criterios emitidos que expresamente establezca el titular de la Subsecretaría para el Desarrollo Humano;
 
-V.- Coordinarse con la Subsecretaría de Recursos Financieros y Materiales y la Unidad de Sistemas y Tecnología para la operación eficiente del Sistema de Nómina; y
+V.- Realizar los procesos de contratación, cambios de adscripción, permutas, comisiones y elaboración de movimientos de nómina;
 
-VI.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
+VI.- Coordinarse con la Subsecretaría de Recursos Financieros y Materiales, la Subsecretaría para el Desarrollo Educativo y la Dirección General de Sistemas y Tecnologías de Información para la operación eficiente del Sistema de Nómina;
+
+VII.- Atender y resolver las incidencias que deriven de los procesos de contratación, cambios de adscripción, permutas, comisiones y elaboración de movimientos de nómina; y
+
+VIII.- Las demás que le señalen las disposiciones legales y reglamentarías, así como aquéllas que le asigne su superior.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2009)</small>
+
+###### Artículo 42 Bis.
+
+La Dirección de Seguridad Social, tendrá las siguientes atribuciones:
+
+I.- Coordinar la integración, funcionamiento y seguimiento de las comisiones mixtas en materia de seguridad e higiene, de conformidad con la normatividad establecida;
+
+II.- Proponer y dar seguimiento a los criterios para la atención de los compromisos adquiridos con terceros institucionales y otras personas físicas o morales que impliquen afectación de salarios de los trabajadores de la SEG;
+
+III.- Difundir la normatividad en materia de seguridad social a los trabajadores de la SEG y brindar la asesoría requerida en la materia;
+
+IV.- Vincularse con las instancias competentes para el desarrollo de las acciones en materia de prevención de riesgos de trabajo, enfermedades profesionales y generales para los trabajadores de la SEG;
+
+V.- Emitir y suscribir los documentos derivados de la relación laboral de los trabajadores en materia de seguridad social, de conformidad con la normatividad aplicable;
+
+VI.- Coordinar el registro y control de licencias médicas en el Sistema Integral de Administración de Personal de la SEG, para su aplicación correspondiente;
+
+VII.- Garantizar el envío de los movimientos afiliatorios del personal de la SEG a las instituciones de seguridad social;
+
+VIII.- Verificar el cumplimiento de los compromisos de la SEG en materia de seguridad social que impliquen afectación al pago de los salarios de los trabajadores;
+
+IX.- Establecer mecanismos de vinculación y coordinación con los organismos institucionales en materia de seguridad social para dar cumplimiento a las obligaciones que en esta materia la SEG tenga conferidas; y
+
+X.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquéllas que le asigne su superior.
 
 #### SECCIÓN TERCERA. SUBSECRETARÍA DE RECURSOS FINANCIEROS Y MATERIALES
 
@@ -1599,37 +1733,109 @@ IX.- Las demás que le señalen las disposiciones legales y reglamentarias, así
 
 #### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL DE COMUNICACIÓN
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE MARZO DE 2009)</small>
+
 ###### Artículo 60.
 
-(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
+La Dirección General de Comunicación, tendrá las siguientes atribuciones:
+
+I.- Establecer directrices en materia de comunicación para la SEG, con base en los criterios que marque la Coordinación General de Comunicación Social del Gobierno del Estado;
+
+II.- Asesorar en materia de comunicación al Secretario de Educación y demás funcionarios de la SEG;
+
+III.-Vincular las acciones de comunicación de las delegaciones regionales, así como los organismos descentralizados sectorizados a la SEG;
+
+IV.- Generar alianzas estratégicas y nuevos canales de comunicación con los sectores social, económico, privado y medios de comunicación para favorecer la educación y las acciones de la SEG;
+
+V.- Establecer estrategias y directrices de comunicación que faciliten la vinculación entre los integrantes del Sistema Educativo;
+
+VI.- Proponer y coordinar la ejecución de estrategias para conocer periódicamente las expectativas, necesidades y opiniones de la comunidad educativa y la sociedad sobre el Sistema Educativo;
+
+VII.- Proponer los lineamientos en materia de comunicación para la SEG, delegaciones regionales y organismos descentralizados sectorizados a la SEG;
+
+VIII.- Fortalecer la comunicación y posicionamiento de la SEG y del Programa Educativo Estatal con el fin de consolidar los objetivos establecidos en el mismo;
+
+IX.- Analizar el entorno político y social para establecer estrategias proactivas en materia de comunicación, en apoyo a los programas y proyectos de la SEG;
+
+X.- Evaluar el impacto de la información que se difunda en los medios de comunicación respecto del sector educativo e informar a las unidades administrativas de la SEG para la atención oportuna correspondiente;
+
+XI.- Elaborar y verificar la ejecución del Plan de Comunicación de la SEG;
+
+XII.- Coadyuvar con las acciones de atención a la ciudadanía en materia de educación;
+
+XIII.- Establecer estrategias para conocer periódicamente las expectativas, necesidades y opiniones de la sociedad sobre el Sistema Educativo, que permita la toma de decisiones;
+
+XIV.- Acordar con las áreas de la SEG la difusión de la información educativa de relevancia que se genere y determinar los medios que resulten más adecuados para ello;
+
+XV.- Coordinar de manera integral la atención de las necesidades de comunicación interna y social de la SEG e implementar las acciones necesarias para tal efecto;
+
+XVI.- Verificar el cumplimiento de la normatividad establecida en materia de comunicación para la SEG; y
+
+XVII.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquéllas que le asigne su superior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE MARZO DE 2009)</small>
 
 ###### Artículo 61.
 
-(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
+La Dirección de Comunicación Interna, tendrá las siguientes atribuciones:
+
+I.- Verificar el cumplimiento de las directrices en materia de comunicación interna para la SEG, con base a los criterios que marque la Coordinación General de Comunicación Social del Gobierno del Estado;
+
+II.- Asesorar en materia de comunicación interna a las áreas de la SEG y el sector educativo para facilitar la toma de decisiones, unificar criterios y lineamientos y fortalecer la imagen de la dependencia;
+
+III.- Establecer; en coordinación con las áreas administrativas de la SEG, los canales, estrategias de comunicación y difusión de información al interior de la dependencia y del sector educativo;
+
+IV.- Establecer mecanismos de vinculación en materia de comunicación interna con las delegaciones regionales, organismos descentralizados sectorizados ala SEG y el sector educativo;
+
+V.- Proponer y coordinar la difusión interna de los objetivos, programas y acciones de la SEG hacia la comunidad educativa;
+
+VI.- Proponer y coordinar la ejecución de estrategias para conocer periódicamente las expectativas, necesidades y opiniones de la comunidad educativa sobre el Sistema Educativo;
+
+VII.- Proponer los lineamientos en materia de comunicación interna para la SEG, delegaciones regionales y organismos descentralizados sectorizados a la SEG;
+
+VIII.- Establecer, organizar y coordinar la comunicación interna de la SEG para fortalecer la comunicación y su posicionamiento y del Programa Educativo Estatal;
+
+IX.- Generar canales y propuestas de atención de las necesidades de información de la ciudadanía en materia de educación;
+
+X.- Aplicar en el sector educativo el Programa Educativo Estatal y el Plan General de Comunicación de la SEG;
+
+XI.- Coordinar de manera integral la atención de las necesidades de comunicación interna de la SEG e implementar las acciones necesarias para tal efecto; y
+
+XII.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquéllas que le asigne su superior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE MARZO DE 2009)</small>
 
 ###### Artículo 62.
 
-(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
+La Dirección de Comunicación Social, tendrá las siguientes atribuciones:
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+I.- Verificar el cumplimiento de las directrices en materia de comunicación social para la SEG, con base en los criterios que marque la Coordinación General de Comunicación Social del Gobierno del Estado;
+
+II.- Asesorar en materia de comunicación a las áreas de la SEG y al sector educativo para facilitar la toma de decisiones, unificar criterios y lineamientos y fortalecer la imagen de la dependencia;
+
+III.- Establecer, en coordinación con las áreas administrativas de la SEG, las delegaciones regionales y organismos descentralizados los canales y estrategias de comunicación social;
+
+IV.- Generar alianzas estratégicas con los medios de comunicación social para optimizar la difusión y cobertura de los programas, proyectos, acciones y logros educativos;
+
+V.- Proponer y coordinar la difusión a la sociedad de los objetivos, programas y acciones de la SEG, sus avances y logros;
+
+VI.- Proponer y coordinar la ejecución de estrategias para conocer periódicamente las expectativas, necesidades y opiniones de la sociedad sobre el Sistema Educativo;
+
+VII.- Proponer los lineamientos en materia de comunicación social para la SEG, delegaciones regionales y organismos descentralizados sectorizados a la SEG;
+
+VIII.- Establecer, organizar y coordinar la comunicación social de la SEG para fortalecer la comunicación y posicionamiento y del Programa Educativo Estatal;
+
+IX.- Analizar la información de impacto que se difunda en los medios de comunicación respecto del sector educativo a fin de realizar propuestas para la atención oportuna por parte de las unidades administrativas;
+
+X.- Aplicar el Programa Educativo. Estatal y el Plan General de Comunicación de la SEG en materia de comunicación social;
+
+XI.- Coordinar de manera integral la atención de las necesidades de comunicación social de la SEG e implementar las acciones necesarias para tal efecto; y
+
+XII.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquéllas que le asigne su superior.
 
 ###### Artículo 63.
 
-La Dirección de Comunicación Interna estará directamente adscrita al Secretario y tendrá las siguientes atribuciones:
-
-I.- Planear, organizar y coordinar la comunicación interna de la SEG;
-
-II.- Coadyuvar en la difusión de los programas y avances del sistema educativo;
-
-III.- Atender los requerimientos de información relacionados con el servicio educativo;
-
-IV.- Instrumentar métodos y sistemas que permitan la más eficaz intercomunicación entre los servidores públicos que laboran en la SEG;
-
-V.- Coadyuvar en la observancia de las políticas de la imagen institucional de la SEG;
-
-VI.- Revisar y autorizar la difusión de la información que generen las unidades administrativas de la SEG y determinar los medios que resulten más adecuados para ello; y
-
-VII.- Coordinar la cobertura informativa y logística de los eventos de la SEG.
+(DEROGADO, P.O. 10 DE MARZO DE 2009)
 
 #### SECCIÓN TERCERA. DE LA DIRECCIÓN GENERAL DE CONSEJERÍA LEGAL
 
@@ -1731,95 +1937,115 @@ XII.- Notificar y ejecutar las sanciones dictaminadas por la Secretaría de la C
 
 XIII.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le confiera su superior.
 
-#### SECCIÓN CUARTA. DE LA DIRECCIÓN GENERAL DE SISTEMAS Y TECNOLOGÍA
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE MARZO DE 2009)</small>
+
+#### SECCIÓN CUARTA. DE LA DIRECCIÓN GENERAL DE SISTEMAS Y TECNOLOGIAS DE INFORMACIÓN
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2009)</small>
 
 ###### Artículo 67.
 
-La Dirección General de Sistemas y Tecnología, tendrá las siguientes atribuciones:
+La Dirección General de Sistemas y Tecnologías de Información, tendrá las siguientes atribuciones:
 
-I.- Verificar que el uso de la tecnología informática atienda las necesidades de la SEG;
+I.- Definir de forma integral las tendencias que deberán seguirse en lo concerniente a tecnologías de información y de comunicación en el sector educativo;
 
-II.- Implementar los mecanismos para que los organismos sectorizados a la SEG cuenten con plataformas tecnológicas compatibles con las del Gobierno del Estado y la SEG;
+II.- Diseñar y elaborar los proyectos de las tecnologías de información y de comunicación en el sector educativo con las áreas de la SEG;
 
-III.- Vigilar el cumplimiento de los estándares y políticas generales para la adquisición, uso y aprovechamiento de los recursos y servicios informáticos, de acuerdo a la normatividad establecida;
+III.- Verificar el uso de las tecnologías de información y de las demás que le señalen las disposiciones legales y reglamentarias, así como aquéllas que le asigne su superior;
 
-IV.- Apoyar mediante el diseño, mantenimiento y mejora de sistemas informáticos, la conformación y desarrollo del SIIEG, garantizando la seguridad de la información;
+IV.- Establecer comunicación en el sector educativo para atender de manera adecuada los requerimientos de la SEG;
 
-V.- Asesorar y capacitar al personal en el manejo del equipo de cómputo, sistemas y telecomunicaciones, para incrementar sus competencias;
+V.- Generar instrumentos basados en las tecnologías de información y de comunicación en el sector educativo, que proporcionen información estratégica para la toma de decisiones del sector educativo;
 
-VI.- Garantizar la legalidad de los productos informáticos que se utilicen en la SEG;
+VI.- Impulsar la utilización de las tecnologías de información y de comunicación en el sector educativo, con el fin de impactar en el servicio a los alumnos y personal docente;
 
-VII.- Establecer las políticas para el mantenimiento preventivo y correctivo de sistemas, equipo de cómputo y de comunicaciones locales y remotas de la SEG, así como proporcionar a éstos el servicio de mantenimiento en oficinas centrales de ésta Dependencia;
+VII.- Implementar los mecanismos para que los organismos descentralizados sectorizados a la SEG, cuenten con plataformas tecnológicas compatibles con las del Gobierno del Estado y la SEG;
 
-VIII.- Proporcionar servicios de redes locales y remota de computadoras y equipos independientes de cómputo;
+VIII.- Establecer las directrices generales en lo referente a las tecnologías de información y de comunicación en el sector educativo, así como vigilar el cumplimiento de las mismas en la SEG y en el sector educativo;
 
-IX.- Concretar proyectos que permitan la sistematización y automatización de los procesos administrativos y educativos de la SEG;
+IX.- Apoyar mediante el diseño, mantenimiento y mejora de sistemas informáticos, la conformación y desarrollo del SIIEG, proponiendo al Secretario el mecanismo de regulación de éste;
 
-X.- Asesorar a las oficinas centrales y Delegaciones Regionales en materia de tecnología informática y telecomunicaciones para elevar la eficiencia operativa de la SEG;
+X.- Establecer los mecanismos y acciones necesarias para formar y capacitar al personal de la SEG, en el uso apropiado de las tecnologías de información y de comunicación en el sector educativo, así como atender sus requerimientos en la materia;
 
-XI.- Garantizar que la SEG cuente con un sistema de información que asegure la oportunidad, pertinencia, seguridad y confiabilidad de la misma; y
+XI.- Establecer directrices para que los productos informáticos que se utilicen en la SEG, se ajusten a las disposiciones legales aplicables;
 
-XII.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
+XII.- Asegurar la operación de las redes de comunicación, servicios de telecomunicaciones y conectividad de los usuarios de la SEG;
+
+XIII.- Coordinar la automatización de los procesos de trabajo en la SEG;
+
+XIV.- Proporcionar a la SEG sistemas que aseguren oportunidad, pertinencia, seguridad y confiabilidad de la información;
+
+XV.- Fungir como Unidad de Enlace de Acceso a la Información Pública de la SEG, de conformidad con la normatividad aplicable;
+
+XVI.- Coordinar los servicios relacionados con tecnologías de información y de comunicación en el sector educativo en las delegaciones regionales, USAE y las áreas administrativas de oficinas centrales de la SEG, para la estandarización de los procesos y proyectos que se requieran dentro de la Secretaría; y
+
+XVII.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquéllas que le asigne su superior.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2009)</small>
 
 ###### Artículo 68.
 
-La Dirección de Ingeniería de Programas, tendrá las siguientes atribuciones:
+La Dirección de Ingeniería de Sistemas de Información, tendrá las siguientes atribuciones:
 
-I.- Desarrollar y proponer la adquisición de programas informáticos para automatizar y sistematizar la información de los procesos administrativos y educativos, de conformidad con la normatividad establecida;
+I.- Desarrollar y evaluar sistemas de información que optimicen procesos de la SEG, de conformidad con la normatividad establecida;
 
-II.- Incorporar las necesidades de información de las Delegaciones Regionales y organismos sectoriales al SIIEG de la SEG;
+II.- Dar mantenimiento a los sistemas de información de la SEG;
 
-III.- Coordinar y evaluar el mantenimiento de los sistemas informáticos existentes;
+III.- Diseñar y elaborar proyectos de sistemas de información, conjuntamente con las áreas de la SEG y el sector educativo;
 
-IV.- Vigilar la capacitación técnica de los usuarios respecto de los sistemas desarrollados y adquiridos;
+IV.- Conformar y desarrollar el SIIEG;
 
-V.- Supervisar la elaboración, actualización y utilización de los manuales técnicos y de usuario de los sistemas informáticos desarrollados;
+V.- Automatizar los sistemas y procesos de trabajo de la SEG; y
 
-VI.- Vigilar la funcionalidad de las bases de datos de los sistemas informáticos implantados en la SEG; y
+VI.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquéllas que le asigne su superior.
 
-VII.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE MARZO DE 2009)</small>
 
 ###### Artículo 69.
 
-(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
+La Dirección de Infraestructura Tecnológica y Conectividad, tendrá las siguientes atribuciones:
+
+I.- Vigilar y evaluar el cumplimiento de las tendencias establecidas en materia de infraestructura tecnológica y conectividad de la SEG y sector educativo, así como realizar propuestas de innovación en la materia;
+
+II.- Administrar y mantener en operación los servicios de la infraestructura tecnológica y conectividad de la SEG;
+
+III.- Proponer y administrar herramientas de colaboración relacionadas con tecnologías de información y de comunicación en el sector educativo para la SEG;
+
+IV.- Proporcionar seguridad de acceso a las aplicaciones, infraestructura tecnológica y de conectividad de la SEG;
+
+V.- Coordinar el mantenimiento, respaldo y recuperación de las bases de datos de la SEG; y
+
+VI.- Las demás que le señalen las disposiciones legales y reglamentarias, asi como aquéllas que le asigne su superior.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2009)</small>
 
 ###### Artículo 70.
 
-La Dirección de Integración de Tecnologías de Información, tendrá las siguientes atribuciones:
+La Dirección de Estrategia y Vinculación Tecnológica, tendrá las siguientes atribuciones:
 
-I.- Diseñar y coordinar la infraestructura de redes y telecomunicaciones;
+I.- Establecer y controlar los mecanismos para garantizar la calidad de los bienes y servicios de las tecnologías de información y de comunicación en el sector educativo de la SEG y organismos descentralizados del sector educativo;
 
-II.- Garantizar el servicio de la red privada de telefonía de la SEG;
+II.- Proporcionar información estratégica, oportuna y confiable que apoye la toma de decisiones integrando al sector educativo y otras dependencias;
 
-III.- Autorizar el trámite de conexión de servicios de correo electrónico e Internet;
+III.- Fomentar y coordinar la formación del personal administrativo de la SEG en materia de las tecnologías de información y de comunicación en el sector educativo;
 
-IV.- Diseñar y coordinar los programas de capacitación del personal técnico en materia de redes y telecomunicaciones;
+IV.- Establecer los mecanismos necesarios para generar la documentación de los proyectos y procesos de la SEG;
 
-V.- Emitir la opinión técnica relativa a contratación de servicios de telefonía e instalación de nuevos enlaces y existentes;
+V.- Colaborar con las áreas de la SEG y organismos descentralizados en el proceso de validación de bienes y servicios informáticos para su adquisición;
 
-VI.- Garantizar el mantenimiento de los servicios e infraestructura de redes y telecomunicaciones;
+VI.- Proponer metodologías de administración de proyectos y mejores prácticas implementando mecanismos de evaluación y seguimiento;
 
-VII.- Vigilar la asignación de direcciones de red, la administración de las bases de datos distribuidas, sistemas operativos, redes y servidores de aplicaciones;
+VII.- Elaborar y proponer las directrices generales en lo referente a las tecnologías de información y de comunicación en el sector educativo y verificar el cumplimiento de las mismas;
 
-VIII.- Garantizar la seguridad de accesos en los sistemas multiusuarios compartidos en la red estatal de información; y
+VIII.- Coadyuvar en el cumplimiento de las funciones de la Unidad de Enlace de Acceso a la Información Pública de la SEG;
 
-IX.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
+IX.- Administrar las solicitudes de servicio de las áreas de la SEG, en lo referente a las tecnologías de información y de comunicación en el sector educativo; y
+
+X.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquéllas que le asigne su superior.
 
 ###### Artículo 71.
 
-La Dirección de Sistemas de Nómina y Personal, tendrá las siguientes atribuciones:
-
-I.- Proponer e implementar mejoras informáticas y tecnológicas al Sistema Integral de Administración del Personal de la SEG;
-
-II.- Coordinar el mantenimiento de programas y equipos informáticos, para asegurar la operación eficiente del Sistema Integral de Administración del Personal de la SEG;
-
-III.- Planear y .desarrollar la capacitación técnica que permita incrementar las competencias para la utilización adecuada del Sistema Integral de Administración del Personal de la SEG;
-
-IV.- Garantizar la elaboración, actualización y utilización de los manuales técnicos y de usuario del Sistema Integral de Administración del Personal de la SEG;
-
-V.- Dar seguimiento a servicios de asesoría y soporte técnico sobre problemas de equipo y programas del Sistema Integral de Administración del Personal de la SEG; y
-
-VI.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
+(DEROGADO, P.O. 10 DE MARZO DE 2009)
 
 ### CAPÍTULO QUINTO. DE LA ORGANIZACIÓN Y ATRIBUCIONES DE LAS DELEGACIONES REGIONALES
 
@@ -2394,3 +2620,7 @@ Artículo Segundo.- La Dirección para la Formación de Profesionales de la Educ
 P.O. 19 DE SEPTIEMBRE DE 2006.
 
 Artículo Único.- El presente Decreto Gubernativo iniciará su vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE MARZO DE 2009.
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
