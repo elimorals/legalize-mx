@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-fideicomiso-publico-considerado-61581"
 country: "mx"
 rank: "estatuto"
 publication_date: "2008-06-24"
-last_updated: "2008-06-24"
+last_updated: "2009-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61581&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,13 +21,55 @@ issue_date: "2008-01-30"
 
 ESTATUTO ORGANICO DEL FIDEICOMISO PUBLICO CONSIDERADO ENTIDAD PARAESTATAL DENOMINADO PROMEXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGANICO DE PROMEXICO, PUBLICADO EN EL D.O.F. DE 10 DE MARZO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 24 de junio de 2008.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.- ProMéxico Inversión y Comercio.
 
 El Comité Técnico del Fideicomiso Público ProMéxico, con fundamento en el Decreto por el que se ordena la constitución del Fideicomiso Público considerado Entidad Paraestatal denominado ProMéxico publicado en el Diario Oficial el 13 de junio del año 2007, así como, atendiendo a lo dispuesto por los artículos 40, párrafo segundo y 58, fracción VIII de la Ley Federal de las Entidades Paraestatales, y
+
+CONSIDERANDO
+
+Que el Plan Nacional de Desarrollo 2007-2012 reconoce que el desarrollo humano sustentable es la premisa básica para el desarrollo integral del país, el cual consiste en crear una atmósfera en que todos puedan aumentar su capacidad y las oportunidades puedan ampliarse para las generaciones presentes y futuras;
+
+Que contar con una economía competitiva y generadora de empleos, constituyen el eje 2 del referido Plan, mediante el cual se pretende lograr una mayor competitividad e incrementar la inversión, generando en consecuencia una mayor creación de empleos que permitan a los individuos elevar sus niveles de bienestar económico; así como la creación de condiciones favorables para el desarrollo de las empresas, especialmente las micro, pequeñas y medianas, y
+
+Que el objetivo número 5 de dicho Plan, consiste en potenciar la productividad y competitividad de la economía mexicana para lograr un crecimiento económico sostenido, para lo cual el Plan establece en su estrategia 5.6 aprovechar el entorno internacional para potenciar el desarrollo de la economía mexicana, mediante estrategias tales como:
+
+Promover reformas que denotan la atracción de inversiones mediante instrumentos modernos de promoción y regulación de la actividad económica, y
+
+Concentrar todos los esfuerzos del Gobierno Federal en materia de promoción de exportaciones así como de atracción de inversión extranjera directa, con la finalidad de ser más eficientes las operaciones en la materia.
+
+Que el Plan reconoce a la sustentabilidad ambiental como su 4o. eje rector, la cual será un criterio rector en el fomento de las actividades productivas, por lo que, en la toma de decisiones sobre inversión, producción y políticas públicas, se incorporarán consideraciones de impacto y riesgo ambientales, así como de uso eficiente y racional de los recursos naturales. Asimismo, se promoverá una mayor participación de todos los órdenes de gobierno y de la sociedad en su conjunto en este esfuerzo.
+
+Que el objetivo número 5 de ese instrumento, mediante el cual se observa al eje descrito en el párrafo anterior, consiste en integrar la conservación del capital natural del país con el desarrollo social y económico, el cual plantea al patrimonio natural del país como la base del desarrollo económico, por lo que se requiere un desarrollo económico basado en el uso eficiente de los recursos naturales, la generación de valor agregado y en el desarrollo de capacidades que ofrezcan más y mejores oportunidades para todos los mexicanos.
+
+Por ello, los programas y estrategias de las distintas dependencias y organismos de la Administración Pública Federal serán diseñados tomando en cuenta los tres elementos indispensables para alcanzar el desarrollo sustentable, esto es, el beneficio social, el desarrollo económico y el cuidado del medio ambiente y los recursos naturales.
+
+En concordancia con el Plan Nacional de Desarrollo 2007-2012, el Programa Sectorial de Economía 2007-2012 plantea objetivos, indicadores y metas, debidamente estructurados en cuatro ejes rectores. El eje 3 del referido Programa consiste en fomentar el comercio exterior y la inversión extranjera directa.
+
+Dentro de los objetivos rectores del citado eje, se consideran: 3.1. Fortalecer el proceso de integración de México en la economía mundial, así como 3.2. Incrementar la participación de México en los flujos de comercio mundial y en la atracción de inversión extranjera directa.
+
+Para lograr los referidos objetivos el Programa se plantea líneas estratégicas, de entre las cuales corresponde a ProMéxico coadyuvar con la Secretaría de Economía en la atención de las siguientes:
+
+3.1.1. Optimizar la red de acuerdos comerciales internacionales y de inversión existentes. Para lograrlo se ejecutarán acciones que permitan potenciar los beneficios de los referidos acuerdos.
+
+3.1.4. Impulsar el desarrollo de un sistema multilateral de comercio sólido que dé mayor certeza al intercambio comercial y a los flujos de inversión extranjera directa. Participando activamente en distintos foros multilaterales y regionales.
+
+3.2.1. Conducir las políticas generales de comercio exterior y de inversión extranjera directa. Para ello, se impulsarán actividades tales como: Armonizar las acciones que en materia de promoción al comercio exterior y atracción de inversión extranjera directa realizan las Dependencias y Entidades de la Administración Pública Federal.
+
+3.2.2. Promover y apoyar la actividad exportadora y la internacionalización de las empresas mexicanas. Lo anterior, mediante acciones como: Organizar y apoyar la participación de empresas y productores en misiones, ferias y exposiciones comerciales, que se realicen en el extranjero para difundir los productos nacionales y promover el establecimiento de centros de distribución de dichos productos en otras naciones.
+
+3.2.3. Incrementar los flujos de inversión extranjera directa. A través de acciones consistentes en: Promover y coordinar las actividades tendientes a la atracción de la inversión extranjera directa que llevan a cabo las Dependencias y Entidades de la Administración Pública Federal, así como, apoyar a las Entidades Federales, a la ubicación de la inversión extranjera directa en el territorio nacional, así como, enfocar los esfuerzos de promoción en los sectores económicos de mayor potencial de exportaciones y de atracción de inversión extranjera directa.
+
+En concordancia con los ejes, objetivos, estrategias y acciones del Plan y Programa Sectorial antes citado con fecha 1 de junio del año 2007, el Titular del Ejecutivo Federal emitió el Decreto por el que se ordena la constitución del fideicomiso público considerado Entidad Paraestatal, denominado ProMéxico, el cual fue publicado en el Diario Oficial de la Federación el día 13 de junio del mismo año.
+
+Por lo expuesto y con el propósito de dotar a ProMéxico del marco de referencia necesario para su organización y operación, con el objeto de propiciar la consecución de sus fines de manera eficaz y eficiente, el Comité Técnico de la Entidad ha tenido a bien expedir el siguiente:
+
+ESTATUTO ORGANICO DEL FIDEICOMISO PUBLICO CONSIDERADO ENTIDAD PARAESTATAL DENOMINADO PROMEXICO
 
 CONSIDERANDO
 
@@ -562,3 +604,15 @@ Igual procedimiento de suplencia se seguirá tratándose de los demás a las Uni
 Unico.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 México, D.F., a 30 de enero de 2008.- El Coordinador de Asuntos Jurídicos del Fideicomiso Público ProMéxico, Alfonso Cervantes Sánchez Navarro.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 10 DE MARZO DE 2009.
+
+PRIMERO.- Este Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico del Fideicomiso Público considerado Entidad Paraestatal denominado ProMéxico, publicado en el Diario Oficial de la Federación el día 24 de junio de 2008, y se derogan todas aquellas disposiciones administrativas que se opongan al presente Estatuto Orgánico.
+
+TERCERO.- Los asuntos en trámite a la entrada en vigor de este Estatuto serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente en el presente Estatuto.
+
+CUARTO.- Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Estatuto, sea asignado de una unidad administrativa a otra, se respetarán conforme a la ley. La Unidad de Administración y Finanzas deberá realizar las acciones necesarias para que se emitan los nombramientos acordes con las nuevas denominaciones de las unidades administrativas que corresponda.
