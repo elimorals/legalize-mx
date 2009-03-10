@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-consejo-de-honor-y-justicia-de-seguridad-29260"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-28"
-last_updated: "2007-09-18"
+last_updated: "2009-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29260&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DEL CONSEJO DE HONOR Y JUSTICIA DE SEGURIDAD PUBLICA PARA EL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2009.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 28 de febrero de 2003.
 
@@ -205,9 +205,15 @@ XII.- Proponer acciones, medidas o proyectos para mejorar el funcionamiento de l
 
 XIII.- (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2007)
 
-XIV.- Comunicar al titular del Cuerpo de Seguridad Pública, su resolución respecto a la probable comisión de delitos o faltas graves cometidos por elementos en activo de la corporación; y
+XIV.- Comunicar al titular del Cuerpo de Seguridad Pública, su resolución respecto a la probable comisión de delitos o faltas graves cometidos por elementos en activo de la corporación; y (sic)
 
-XV.- Las demás que le asigne el presente Reglamento y otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
+
+XV.- Determinar sobre la remoción de los elementos de los Cuerpos de Seguridad Pública del Estado por no obtener una calificación satisfactoria en las Evaluaciones para la Permanencia o del Desempeño o por negarse a someterse a las mismas; y
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2009)</small>
+
+XVI.- Las demás que le asigne el presente Reglamento y otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 15.
 
@@ -271,13 +277,17 @@ X.- Vigilar que se anexen al expediente del Cuerpo de Seguridad, las resolucione
 
 XI.- Vigilar el cumplimiento de los acuerdos del Consejo en el ámbito de su competencia; y (sic)
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
 
-XII.- Requerir o solicitar información a cualquier área de la Secretaría de Seguridad Pública, así como de cualquier dependencia o entidad para el cumplimiento de sus funciones en cualquier etapa del desarrollo de los procedimientos administrativos respectivos; y
+XII.- Requerir o solicitar información a cualquier área de la Secretaría de Seguridad Pública, así como de cualquier dependencia o entidad para el cumplimiento de sus funciones en cualquier etapa del desarrollo de los procedimientos administrativos respectivos;
 
-> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
 
-XIII.- Las demás que le confiera el presente Reglamento y otras disposiciones legales aplicables.
+XIII.- Instruir el procedimiento para la remoción de los elementos de los Cuerpos de Seguridad Pública del Estado por no obtener una calificación satisfactoria en las Evaluaciones para la Permanencia o del Desempeño o por negarse a someterse a las mismas, poniendo el expediente en estado de resolución ante el Consejo para su deliberación y resolución correspondiente; y
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2009)</small>
+
+XIV.- Las demás que le confiera el presente Reglamento y otras disposiciones legales aplicables.
 
 El Secretario Técnico, podrá participar y emitir opiniones durante la substanciación del procedimiento, sin embargo, durante la deliberación tendrá sólo voz informativa, pero no voto.
 
@@ -377,9 +387,11 @@ X.- El Secretario Técnico notificará al elemento o a los elementos Investigado
 
 Las faltas son aquellas conductas a cargo de los elementos de Seguridad Pública del Estado contrarias al cumplimiento de las obligaciones y deberes establecidos en los ordenamientos legales, que deben ser observados dentro y fuera del servicio, por lo que todo elemento que incurra en éstas, será sancionado en los términos del presente Reglamento. Si la infracción, además de una falta administrativa constituyere un delito, se hará del conocimiento de las autoridades competentes.
 
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO 102, LA PRIMERA PARTE DEL PRESENTE PARRAFO PASA A FORMAR PARTE DEL ARTICULO 66 A.</small>
 
-A efecto de poder permanecer en el servicio, los integrantes de los cuerpos de seguridad pública deberán cumplir con los requisitos de permanencia previstos en el artículo 63 D de la Ley de Seguridad Pública del Estado y con los demás que se establezcan en otros ordenamientos. En el caso de la evaluación al desempeño de la función, se considerará que un elemento no cumple con dichos requisitos de permanencia en el supuesto de que cometa una de las faltas graves previstas en este reglamento y que a juicio del Consejo de Honor y Justicia de Seguridad Pública para el Estado amerite la destitución o cese.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2009)</small>
+
+En el caso de la evaluación al desempeño de la función, se considerará que un elemento no cumple con dichos requisitos de permanencia en el supuesto de que cometa una de las faltas graves previstas en este reglamento y que a juicio del Consejo de Honor y Justicia de Seguridad Pública para el Estado amerite la destitución o cese.
 
 ###### ARTÍCULO 28.
 
@@ -769,7 +781,29 @@ Si se hubieran ofrecido pruebas supervenientes, el Secretario Técnico las desah
 
 Las resoluciones derivadas del recurso interpuesto, se agregarán al expediente u hoja de servicio correspondiente.
 
-## TÍTULO QUINTO. DE LOS RECONOCIMIENTOS
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 10 DE MARZO DE 2009)</small>
+
+## TÍTULO QUINTO. DE LA REMOCIÓN POR INCUMPLIMIENTO A LOS REQUISITOS DE PERMANENCIA O DEL DESEMPEÑO
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 10 DE MARZO DE 2009)</small>
+
+### CAPÍTULO ÚNICO. REMOCIÓN POR INCUMPLIMIENTO A LOS REQUISITOS DE PERMANENCIA O DEL DESEMPEÑO
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2009)</small>
+
+ARTÍCULO 66 A.- A efecto de poder permanecer en el servicio, los integrantes de los Cuerpos de Seguridad Pública del Estado deberán cumplir con los requisitos de permanencia previstos en el artículo 63 D de la Ley de Seguridad Pública del Estado y con los demás que se establezcan en otros ordenamientos.
+
+En caso de que un elemento de los Cuerpos de Seguridad Pública del Estado no obtenga una calificación satisfactoria en las Evaluaciones para la Permanencia o del Desempeño, o se negara a someterse a las mismas, procederá su remoción, sin que proceda su reinstalación o restitución cualquiera que fuera el juicio o medio de defensa para combatirla; y, en su caso, sólo se estará obligado a pagar la indemnización en términos del artículo 123 apartado B, fracción XIII de la Constitución Política de los Estados Unidos Mexicanos.
+
+En el supuesto anterior, la Coordinación Operativa del Servicio Policial de Carrera lo hará del conocimiento del Consejo.
+
+Durante la instauración del procedimiento para la remoción de los elementos de los Cuerpos de Seguridad Pública del Estado se observarán en lo conducente las formalidades señaladas en este Reglamento en cuanto al procedimiento para la aplicación de las medidas disciplinarias, incluido el recurso de reconsideración.
+
+Una vez determinada la remoción del elemento del Cuerpo de Seguridad Pública por el Consejo, se hará la anotación correspondiente en el Registro Estatal de Servicios Policiales en términos de la Ley de Seguridad Pública del Estado.
+
+(REUBICADO [N. DE E. ANTES QUINTO], P.O. 10 DE MARZO DE 2009)
+
+## TÍTULO SEXTO. DE LOS RECONOCIMIENTOS
 
 ### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO PARA OTORGAR RECONOCIMIENTOS
 
@@ -883,7 +917,7 @@ SECRETARIO DE SEGURIDAD PÚBLICA
 
 FELIPE ARTURO CAMARENA GARCÍA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
 
 P.O. 18 DE SEPTIEMBRE DE 2007.
 
@@ -902,3 +936,13 @@ El Consejo de Honor y Justicia de Seguridad Pública para el Estado con su nueva
 ###### ARTÍCULO CUARTO.
 
 En tanto inicia su vigencia el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato, continuará aplicándose de manera supletoria en lo relativo al procedimiento el Código de Procedimientos Civiles para el Estado de Guanajuato.
+
+P.O. 10 DE MARZO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los asuntos que actualmente estén pendientes de resolver ante el Consejo de Honor y Justicia de Seguridad Pública para el Estado, se tramitarán con base en los dispositivos con que se iniciaron hasta su debida conclusión.
