@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-registro-publico-de-la-propiedad-del-52339"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-24"
-last_updated: "2006-11-24"
+last_updated: "2009-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52339&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2006-11-08"
 
 REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE MARZO DE 2009.
 
 Reglamento publicado en el Número Bis de la Gaceta Oficial del Distrito Federal, el viernes 24 de noviembre de 2006.
 
@@ -60,13 +60,31 @@ V. Boletín Registral, a la Sección Boletín Registral, de la Gaceta Oficial de
 
 VI. SIR, al Sistema de Información Registral;
 
-VII. Unidad Jurídica, a la Unidad Administrativa de Apoyo Técnico Operativo en materia jurídica, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-VIII. Hoja de seguridad, al papel oficial en que se practican los asientos y se expiden las certificaciones.
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2009)</small>
+
+VII. Dirección Jurídica, a la Unidad Administrativa de Apoyo Técnico Operativo en materia jurídica;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2009)</small>
+
+VIII. Hoja de seguridad, al papel oficial en que se practican los asientos y se expiden las certificaciones; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2009)</small>
+
+IX. Custodia: Resguardo administrativo de documentos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2009)</small>
 
 ###### Artículo 4.
 
-El Registro Público estará a cargo de un Director General, quien se auxiliará de registradores, la Unidad Jurídica, y las demás que sean necesarias para su funcionamiento, autorizadas conforme a las disposiciones aplicables.
+El Registro Público estará a cargo de un Director General, quien se auxiliará de Registradores, de la Dirección Jurídica y demás unidades administrativas que sean necesarias para su funcionamiento, autorizadas conforme a las disposiciones aplicables.
 
 ###### Artículo 5.
 
@@ -104,23 +122,65 @@ El Director General podrá representar al Registro Público en los juicios y pro
 
 En su caso, podrá delegar mediante oficio en servidores públicos de la propia institución, la facultad de representación a que se refiere el párrafo que antecede, así como revocar dichas delegaciones.
 
-### CAPÍTULO II. DE LA UNIDAD JURÍDICA
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 11 DE MARZO DE 2009)</small>
+
+### CAPÍTULO II. DE LA DIRECCIÓN JURÍDICA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2009)</small>
 
 ###### Artículo 8.
 
-El titular de la Unidad Jurídica, deberá reunir los mismos requisitos que se exigen para ser Director General.
+El titular de la Dirección Jurídica deberá reunir los mismos requisitos que se exigen para ser Director General.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2009)</small>
 
 ###### Artículo 9.
 
-Son atribuciones del titular de la Unidad Jurídica:
+Son atribuciones del titular de la Dirección Jurídica:
 
 I. Intervenir en representación del Registro Público en todos los juicios en que la institución sea parte y en aquéllos en que aparezca como autoridad responsable, en los términos de la Ley de Amparo, reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
 
-II. Conocer de los asuntos que le turnen las unidades del Registro Público, en los casos de suspensión o denegación del servicio;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-III. Confirmar, modificar o revocar las determinaciones suspensivas o denegatorias de los registradores, y
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2009)</small>
 
-IV. Proporcionar asistencia técnica al personal de la institución y orientación jurídica a los usuarios del servicio en el orden registral y fiscal.
+II. Colaborar con la Dirección General en la sustanciación y resolución de los recursos de inconformidad;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2009)</small>
+
+III. Proporcionar asistencia jurídica al personal de la institución;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2009)</small>
+
+IV. Brindar apoyo jurídico en la toma de decisiones de los Registradores en su proceso de calificación;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2009)</small>
+
+V. Proponer a la Consejería Jurídica del Gobierno del Distrito Federal las propuestas de adecuación al marco jurídico a través de la Dirección General;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2009)</small>
+
+VI. Efectuar auditorías a la función de Calificación de los Registradores; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2009)</small>
+
+VII. Analizar y resolver la procedencia, improcedencia y liberación de la custodia de los documentos que se encuentran en el acervo, así como su consulta.
 
 ### CAPÍTULO III. DE LOS REGISTRADORES
 
@@ -148,15 +208,41 @@ Los registradores ejercerán la función registral en auxilio del Director Gener
 
 Son atribuciones de los registradores:
 
-I. Realizar la calificación integral de los documentos que les sean turnados para determinar la procedencia de su Registro, según resulte de su forma y contenido, así como de su legalidad, en función de los asientos registrales preexistentes, del sistema informático y de los ordenamientos aplicables;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-II. Determinar en cantidad líquida, con estricto apego a las disposiciones aplicables, el monto de los derechos a cubrir;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2009)</small>
 
-III. Dar cuenta a su inmediato superior, de los fundamentos y resultados de la calificación;
+I. Realizar la calificación de los documentos que les sean turnados para determinar la procedencia de la anotación o inscripción, según resulte de su forma y contenido, en función de los asientos registrales preexistentes, del sistema informático y de los ordenamientos aplicables;
 
-IV. Practicar, bajo su estricta responsabilidad, los asientos correspondientes; mismos que autorizará con su firma, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-V. Cumplir con las demás disposiciones legales aplicables, así como con las instrucciones que les transmita el Director General.
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2009)</small>
+
+II. Inscribir, anotar, suspender o denegar el servicio registral según corresponda;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2009)</small>
+
+III. Determinar en cantidad líquida, con estricto apego a las disposiciones aplicables, el monto de los derechos a cubrir;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2009)</small>
+
+IV. Dar cuenta a su inmediato superior, de los fundamentos y resultados de la calificación;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2009)</small>
+
+V. Practicar, bajo su estricta responsabilidad, los asientos, mismos que autorizará con su firma; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2009)</small>
+
+VI. Cumplir con las disposiciones aplicables, las instrucciones que emita el Director General y las demás que le otorga el presente reglamento.
 
 ###### Artículo 14.
 
@@ -226,7 +312,11 @@ VIII. Resolución del Recurso, y
 
 IX. Entregado.
 
-Tratándose de las etapas a que se refieren las fracciones III, V, VI y VIII, la determinación correspondiente se publicará en el boletín registral.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2009)</small>
+
+Tratándose de las etapas a que se refieren las fracciones III, IV, V, VI y VIII, la determinación correspondiente se publicará en el boletín registral.
 
 ###### Artículo 19.
 
@@ -256,9 +346,13 @@ El registrador practicará los asientos mediante la captura de datos en el SIR y
 
 Autorizados los asientos, el registrador ordenará su impresión en hojas de seguridad. En esta condición, los asientos serán digitalizados e incorporados al folio correspondiente, lo que dará por terminado el procedimiento registral.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2009)</small>
+
 ###### Artículo 23.
 
-Para garantizar la integridad de las bases de datos registrales, el sistema informático contará con los respaldos correspondientes. Su custodia y acceso, se llevarán a cabo conforme a las autorizaciones y procedimientos que al efecto establezca la autoridad competente.
+Para garantizar la integridad, confidencialidad y disponibilidad de la información registral, el sistema informático contará con las medidas de seguridad necesarias, autorizaciones y procedimientos que determine el Director General.
 
 ### CAPÍTULO III. DE LA SOLICITUD DE ENTRADA Y TRÁMITE
 
@@ -408,27 +502,45 @@ Las anotaciones de los avisos a que se refiere el artículo 3016 del Código, se
 
 Si durante la vigencia de los avisos preventivos y en relación con la misma finca o derechos, se presentare otro documento contradictorio para su registro o anotación, éste será objeto de una anotación preventiva a fin de que adquiera la prelación que corresponda, de operar la cancelación o caducidad de alguna anotación anterior. En caso contrario, las anotaciones preventivas de dichos documentos quedarán sin efecto.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2009)</small>
+
 ###### Artículo 38.
 
-Turnado un documento al registrador, procederá a su calificación integral en un plazo de hasta cinco días hábiles, para determinar sobre su registro conforme a la prelación que le corresponda, de acuerdo con las disposiciones legales vigentes.
+Turnado un documento al Registrador, procederá a su calificación en un plazo de hasta quince días hábiles, conforme a la prelación que le corresponda, de acuerdo a la fecha de su ingreso y las disposiciones legales vigentes.
 
-Si de la calificación fundada y motivada el registrador suspende o deniega el registro del documento, lo turnará a la Unidad Jurídica a fin de que, a partir de su publicación en el Boletín Registral, el interesado cuente con diez días hábiles para en su caso subsanar las irregularidades señaladas. Procederá la suspensión en los casos de omisiones o defectos subsanables y la denegación por causas insubsanables.
+Si mediante calificación fundada y motivada el Registrador suspende o deniega la inscripción o anotación, mandará a publicar dicha circunstancia en el Boletín Registral. En el caso de suspensión, a partir de la mencionada publicación el interesado contará con quince días hábiles para en su caso subsanar las irregularidades señaladas. Procederá la suspensión en los casos de omisiones o defectos subsanables y la denegación por causas insubsanables.
 
-En caso de suspensión del trámite, si en el término señalado no se subsanan las causas que la originaron, la Unidad Jurídica denegará el registro y publicará su determinación en el boletín registral; momento a partir del cual el documento estará a disposición del interesado.
+En caso de suspensión del trámite, si en el término señalado no se subsanan las causas que la originaron, el Registrador denegará la inscripción o anotación y publicará su determinación en el Boletín Registral con el estatus de “Denegado”; momento a partir del cual el documento estará a disposición del interesado.
 
-Los documentos que no sean retirados en un término de treinta días naturales siguientes a la notificación por el Boletín Registral, se remitirán al archivo del Distrito Federal.
+En ambos supuestos de denegación procederá el Recurso de Inconformidad ante el Director General.
+
+Los documentos que no sean retirados en un término de treinta días hábiles siguientes a la notificación de la denegación por el Boletín Registral, se remitirán al archivo del Distrito Federal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2009)</small>
 
 ###### Artículo 39.
 
-Si el registrador deniega la inscripción y la Unidad Jurídica confirma, se publicará de inmediato esa determinación en el Boletín Registral, quedando el documento a disposición del interesado.
+Cuando el Registrador deniegue la inscripción o anotación, se publicará de inmediato esa determinación en el Boletín Registral, quedando el documento a disposición del interesado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2009)</small>
 
 ###### Artículo 40.
 
-En caso de suspensión o denegación del servicio, si el interesado se allana a los resultados de la calificación publicados por la Unidad Jurídica, se pondrán los documentos a su disposición.
+En caso de suspensión o denegación del servicio, si el interesado se allana a los resultados de la calificación publicados por el Registrador, se pondrán los documentos a su disposición.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2009)</small>
 
 ###### Artículo 41.
 
-Si la Unidad Jurídica revoca o modifica la determinación del registrador en sentido favorable a las pretensiones del interesado, se ordenará la inmediata reposición del procedimiento registral.
+Si se subsanan los defectos y procede la anotación o inscripción, cambiará el estatus del trámite a “Subsanado” y continuará inmediatamente el procedimiento registral.
 
 ###### Artículo 42.
 
@@ -716,9 +828,11 @@ Se entenderá que se comete error de concepto cuando al expresar en la inscripci
 
 Rectificado un asiento, se rectificarán todos los que estén relacionados e incurran en el mismo error.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
 ###### Artículo 80.
 
-Si de la calificación fundada y motivada el registrador se rehusare a practicar alguna rectificación, turnará el documento y anexos a la Unidad Jurídica para que resuelva lo conducente.
+(DEROGADO, G.O. 11 DE MARZO DE 2009)
 
 ###### Artículo 81.
 
@@ -868,9 +982,13 @@ Los términos previstos en este Reglamento, salvo disposiciones en contrario, se
 
 ### CAPÍTULO VII. DEL RECURSO DE INCONFORMIDAD
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2009)</small>
+
 ###### Artículo 109.
 
-Podrá interponerse el recurso de inconformidad, contra la calificación del registrador que suspenda o deniegue el servicio registral.
+Podrá interponerse el recurso de inconformidad, contra la calificación del Registrador que deniegue la inscripción o anotación.
 
 ###### Artículo 110.
 
@@ -878,9 +996,25 @@ El recurso de inconformidad, se sustanciará ante el Director General en la form
 
 En lo no previsto en este Reglamento, para la substanciación y resolución del recurso de inconformidad se aplicará en lo conducente la Ley de Procedimiento Administrativo del Distrito Federal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2009)</small>
+
 ###### Artículo 111.
 
-El recurso de inconformidad deberá interponerse por escrito, en un plazo no mayor de 15 días hábiles contados a partir de la publicación de la denegación del servicio por parte de la Unidad Jurídica. El Director General resolverá el recurso, dando por terminada la instancia.
+El recurso de inconformidad deberá interponerse por escrito, en un plazo no mayor de 15 días hábiles contados a partir de la publicación de la denegación por parte del Registrador en el Boletín Registral. El Director General resolverá el recurso, dando por terminada la instancia.
+
+El recurso de inconformidad será desechado de plano en los siguientes casos:
+
+a) Cuando falte la firma del interesado.
+
+b) Ante la falta de legitimidad del recurrente.
+
+c) Cuando se hagan valer los mismos motivos que aquellos que se hicieron durante la subsanación.
+
+d) Cuando no se haya subsanado mediante los documentos idóneos.
+
+e) Cuando haya salida sin registro a petición de parte una vez calificado.
 
 ###### Artículo 112.
 
@@ -907,3 +1041,13 @@ CUARTO. Se derogan todas las disposiciones administrativas que se opongan al pre
 QUINTO. Se abroga el Reglamento del Registro Público de la Propiedad del 17 de septiembre de 1987, publicado en el Diario Oficial de la Federación el 5 de agosto de 1988.
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los ocho días del mes de noviembre de dos mil seis. EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ALEJANDRO DE JESÚS ENCINAS RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE GOBIERNO, RICARDO RUÍZ SUÁREZ.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 11 DE MARZO DE 2009.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente decreto entrará en vigor a partir del 1º de abril de 2009.
+
+TERCERO. Los documentos que hayan sido calificados y se encuentren suspendidos, antes de la entrada en vigor del presente decreto, se substanciarán hasta su conclusión conforme a las disposiciones vigentes al momento de su calificación.
