@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2008-11-14"
+last_updated: "2009-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -1111,13 +1111,17 @@ La elección de Gobernador del Estado se realizará de acuerdo con lo establecid
 
 La Legislatura del Estado expedirá el Bando Solemne para dar a conocer en toda la Entidad la declaración de Gobernador electo que hubiere hecho el Instituto Electoral de Tlaxcala, de acuerdo con los resultados de la votación.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 59.
 
-El Gobernador entrará a ejercer su encargo el día quince de enero inmediato posterior a su elección, rendirá protesta ante el Congreso el mismo día y durará en él seis años.
+El Gobernador entrará a ejercer su encargo el día primero de enero inmediato posterior a su elección, rendirá protesta ante el Congreso el mismo día y durará en él seis años.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
 El ciudadano que haya desempeñado el cargo de Gobernador, cuyo origen haya sido la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo, podrá volver a ocupar ese cargo, ni aún con el carácter de Interino, Provisional, Sustituto o encargado del despacho.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
 Nunca podrán ser electos para el período inmediato:
 
@@ -1821,9 +1825,9 @@ IV. Un profesional del derecho de reconocido prestigio académico o que haya des
 
 V. Un profesional del derecho de reconocido prestigio académico o que haya destacado en el ejercicio de la profesión designado por el Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2009)</small>
 
-El presidente del Consejo de la Judicatura deberá informar por escrito al Tribunal Superior de Justicia y al Congreso del Estado, semestralmente, sobre el estado que guarda la administración del Poder Judicial y cuantas veces sea requerido por el Congreso del Estado.
+El presidente del Consejo de la Judicatura, deberá informar semestralmente por escrito al pleno del Tribunal Superior de Justicia sobre el estado que guarda la administración del Poder Judicial.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -3076,3 +3080,17 @@ Con fundamento en lo dispuesto por el artículo 96 fracción I de la Ley Orgáni
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido de este Decreto.
+
+P.O. 11 DE MARZO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+En términos de lo previsto por el artículo 120 de la Constitución Política del Estado Libre y Soberano de Tlaxcala, remítase el presente Decreto de reformas y adiciones a la Constitución a los sesenta municipios del Estado, para el debido cumplimiento de este precepto.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto de reformas a la Constitución en términos generales entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
