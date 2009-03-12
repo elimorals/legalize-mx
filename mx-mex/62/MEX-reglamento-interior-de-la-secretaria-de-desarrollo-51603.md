@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-desarrollo-51603"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-08-21"
-last_updated: "2006-08-21"
+last_updated: "2009-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51603&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO AGROPECUARIO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE MARZO DE 2009.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 21 de agosto de 2006.
 
@@ -51,31 +51,37 @@ Cuando en el presente Reglamento se haga referencia al Gobernador del Estado, se
 
 Para el estudio, planeación y despacho de los asuntos de su competencia, así como para atender las funciones de control y evaluación que le corresponden, la Secretaría contará con un Secretario, quien se auxiliará de las unidades administrativas básicas siguientes:
 
-I. Dirección General de Desarrollo Rural y Comercialización.
+> <small>(ADICIONADA, G.G. 12 DE MARZO DE 2009)</small>
 
-II. Dirección General de Agricultura.
+I. Subsecretaría de Desarrollo Agropecuario.
 
-III. Dirección General Pecuaria.
+II. Dirección General de Desarrollo Rural y Comercialización.
 
-IV. Coordinación de Delegaciones Regionales de Desarrollo Agropecuario.
+III. Dirección General de Agricultura.
 
-V. Dirección General de Infraestructura Rural.
+IV. Dirección General Pecuaria.
 
-VI. Dirección de Sanidad Agropecuaria.
+V. Coordinación de Delegaciones Regionales de Desarrollo Agropecuario.
 
-VII. Delegaciones Regionales de Desarrollo Agropecuario.
+VI. Dirección General de Infraestructura Rural.
 
-VIII. Unidad Jurídica.
+VII. Dirección de Sanidad Agropecuaria.
 
-IX. Coordinación de Administración y Finanzas.
+VIII. Delegaciones Regionales de Desarrollo Agropecuario.
 
-X. Contraloría Interna.
+IX. Unidad Jurídica.
+
+X. Coordinación de Administración y Finanzas.
+
+XI. Contraloría Interna.
 
 La Secretaría contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en el Manual General de Organización de esta dependencia; asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con el presupuesto, estructura orgánica y normatividad aplicable.
 
+> <small>(REFORMADO, G.G. 12 DE MARZO DE 2009)</small>
+
 ###### Artículo 4.
 
-La Secretaría, Direcciones Generales, Coordinaciones, Dirección, Delegaciones Regionales, Unidad Jurídica, Contraloría Interna y demás unidades administrativas que integran a esta dependencia, conducirán sus actividades en forma programada, con base en el Plan de Desarrollo del Estado de México, así como en los programas regionales, sectoriales, especiales y otros a su cargo o en los que participe, de acuerdo con la normatividad en la materia.
+La Secretaría, Subsecretaría, Direcciones Generales, Coordinaciones, Dirección, Delegaciones Regionales, Unidad Jurídica, Contraloría Interna y demás unidades administrativas que integran a esta dependencia, conducirán sus actividades en forma coordinada y programada, con base en lo señalado en el Plan de Desarrollo del Estado de México, así como en los programas regionales, sectoriales, especiales y otros a su cargo o en los que participe, de acuerdo con la normatividad aplicable.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES DEL SECRETARIO
 
@@ -127,7 +133,9 @@ XIX. Establecer normas, políticas, criterios, sistemas y procedimientos de car�
 
 XX. Planear, coordinar, supervisar, controlar y evaluar, en términos de la legislación aplicable, el funcionamiento de los organismos auxiliares del Poder Ejecutivo del Estado que se encuentren adscritos sectorialmente a la Secretaría.
 
-XXI. Acordar con el Gobernador del Estado el nombramiento, licencia y remoción de los Directores Generales o equivalentes de la Secretaría.
+> <small>(REFORMADA, G.G. 12 DE MARZO DE 2009)</small>
+
+XXI. Acordar con el Gobernador del Estado el nombramiento de los servidores públicos de mando superior de la Secretaría.
 
 XXII. Promover la simplificación administrativa, mejora regulatoria y gestión de la calidad en los trámites y servicios que presta la Secretaría.
 
@@ -137,31 +145,101 @@ XXIV. Resolver las dudas que se susciten con motivo de la interpretación o apli
 
 XXV. Las demás que le confieren otras disposiciones legales y las que le señale el Gobernador del Estado.
 
-### CAPÍTULO III. DE LAS ATRIBUCIONES DE LOS DIRECTORES GENERALES, COORDINADORES Y DIRECTOR
+> <small>(REFORMADA SU DENOMINACION, G.G. 12 DE MARZO DE 2009)</small>
+
+### CAPÍTULO III. DEL SUBSECRETARIO, DIRECTORES GENERALES, COORDINADOR Y DIRECTOR
+
+> <small>(ADICIONADO, G.G. 12 DE MARZO DE2009)</small>
+
+###### Artículo 6 Bis.
+
+Al frente de la Subsecretaría habrá un Subsecretario, quien tendrá las atribuciones genéricas siguientes:
+
+I. Planear, dirigir, coordinar, controlar y evaluar las funciones de las unidades administrativas a su cargo.
+
+II. Validar y proponer al Secretario programas, normas y políticas en materia de desarrollo agropecuario.
+
+III. Coordinar la realización de estudios y proyectos en materia de desarrollo agropecuario e informar lo conducente al Secretario.
+
+IV. Vigilar la ejecución de los programas y atribuciones encomendadas a las unidades administrativas a su cargo y disponer las acciones necesarias para su cumplimiento.
+
+V. Coordinar la integración del programa anual de actividades y de los anteproyectos de presupuesto que le correspondan, con base en las estrategias y prioridades de la Secretaría.
+
+VI. Acordar con el Secretario el despacho de los asuntos a su cargo que requieran de su intervención.
+
+VII. Suscribir acuerdos y convenios, así como los contratos que requiera para el cumplimiento de sus atribuciones, previa autorización del Secretario.
+
+VIII. Apoyar al Secretario en el desempeño de las funciones que tenga encomendadas como coordinador de sector, respecto de los organismos auxiliares sectorizados a la Secretaría.
+
+IX. Formular y proponer al Secretario modificaciones jurídicas y administrativas que contribuyan a modernizar la organización y el funcionamiento de la Secretaría.
+
+X. Promover que las funciones de las unidades administrativas adscritas a la Subsecretaría se realicen de manera coordinada.
+
+XI. Establecer criterios, sistemas y procedimientos de carácter técnico que rijan el funcionamiento de las unidades administrativas a su cargo.
+
+XII. Someter a la consideración del Secretario los nombramientos, licencias y remociones de los titulares de las unidades administrativas bajo su adscripción.
+
+XIII. Formular los dictámenes, opiniones, estudios e informes que le sean solicitados por el Secretario o los que le correspondan en razón de sus atribuciones.
+
+XIV. Desempeñar las comisiones que el Secretario le encomiende e informarle de su cumplimiento.
+
+XV. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por delegación o los que le correspondan por suplencia.
+
+XVI. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Secretario.
+
+> <small>(ADICIONADO, G.G. 12 DE MARZO DE 2009)</small>
+
+###### Artículo 6 Ter.
+
+Quedan adscritas a la Subsecretaría de Desarrollo Agropecuario:
+
+I. Dirección General de Desarrollo Rural y Comercialización.
+
+II. Dirección General de Agricultura.
+
+III. Dirección General Pecuaria.
+
+IV. Coordinación de Delegaciones Regionales de Desarrollo Agropecuario.
+
+V. Dirección General de Infraestructura Rural.
+
+VI. Dirección de Sanidad Agropecuaria.
+
+VII. Delegaciones Regionales de Desarrollo Agropecuario.
 
 ###### Artículo 7.
 
 Al frente de cada Dirección General, Coordinación y Dirección habrá un Director General, un Coordinador y un Director, respectivamente, quienes se auxiliarán de los directores, subdirectores, jefes de unidad y de departamento y demás servidores públicos que las necesidades del servicio requieran, de acuerdo con la organización interna autorizada y con el presupuesto de egresos correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 12 DE MARZO DE 2009)</small>
+
 ###### Artículo 8.
 
-Corresponden a los Directores Generales, Coordinadores y Director, las atribuciones, siguientes:
+Corresponden a los Directores Generales, Coordinador de Delegaciones Regionales y Director, las atribuciones siguientes:
 
 I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones encomendadas a la unidad administrativa a su cargo.
 
-II. Acordar con el Secretario el despacho de los asuntos a su cargo que requieran de su intervención.
+> <small>(REFORMADA, G.G. 12 DE MARZO DE 2009)</small>
 
-III. Suscribir los acuerdos y convenios de su competencia, previa autorización del Secretario, así como los contratos que requiera para el cumplimiento de sus atribuciones.
+II. Acordar con el Subsecretario el despacho de los asuntos a su cargo que requieran de su intervención.
+
+> <small>(REFORMADA, G.G. 12 DE MARZO DE 2009)</small>
+
+III. Suscribir, previa autorización del Subsecretario, acuerdos y convenios en los asuntos de su competencia, así como los contratos que requieran para el cumplimiento de sus atribuciones.
 
 IV. Emitir los dictámenes, resoluciones, opiniones, estudios e informes que les sean solicitados por su superior inmediato o los que les correspondan en razón de sus atribuciones.
 
 V. Formular y proponer los anteproyectos de programas anuales de actividades y de presupuestos de la unidad administrativa a su cargo.
 
-VI. Proponer al Secretario modificaciones jurídicas y administrativas que tiendan a mejorar el funcionamiento de la unidad administrativa a su cargo.
+> <small>(REFORMADA, G.G. 12 DE MARZO DE 2009)</small>
+
+VI. Proponer al Subsecretario modificaciones jurídicas y administrativas que tiendan a mejorar el funcionamiento de las unidades administrativas a su cargo.
 
 VII. Colaborar con el Secretario, cuando así lo solicite, en el desempeño de las funciones que tenga encomendadas como coordinador de sector, respecto a los organismos auxiliares del Poder Ejecutivo Estatal sectorizados a la Secretaría.
 
-VIII. Delegar en funcionarios subalternos el ejercicio de sus atribuciones, previa autorización del Secretario, a fin de mejorar la prestación de los trámites y servicios de su competencia.
+> <small>(REFORMADA, G.G. 12 DE MARZO DE 2009)</small>
+
+VIII. Delegar el ejercicio de sus atribuciones en funcionarios subalternos, previa autorización del Subsecretario, a fin de mejorar la prestación de los trámites y servicios de su competencia, excepto aquellas que por disposición de ley deban ejercer directamente.
 
 IX. Coordinar sus actividades con los titulares de las demás unidades administrativas de la Secretaría, cuando la ejecución de los programas, proyectos o acciones a su cargo así lo requieran.
 
@@ -169,17 +247,23 @@ X. Proponer y coordinar las acciones de simplificación administrativa, mejora r
 
 XI. Promover la elaboración, actualización y aplicación de los manuales administrativos y demás disposiciones que rijan la organización y el funcionamiento de la unidad administrativa a su cargo.
 
-XII. Proponer al Secretario el ingreso, licencia, promoción, remoción y cese de los titulares de las unidades administrativas a su cargo.
+> <small>(REFORMADA, G.G. 12 DE MARZO DE 2009)</small>
+
+XII. Someter a la consideración del Subsecretario el ingreso, licencia y promoción del personal de la unidad administrativa a su cargo.
 
 XIII. Expedir constancias o certificar copias de documentos existentes en los archivos de la Secretaría, cuando se refieran a asuntos de su competencia.
 
 XIV. Asesorar y apoyar técnicamente, en asuntos de su competencia, a los servidores públicos que lo soliciten.
 
-XV. Desempeñar las comisiones y funciones que el Secretario les encomiende y mantenerlo informado respecto a su desarrollo y cumplimiento.
+> <small>(REFORMADA, G.G. 12 DE MARZO DE 2009)</small>
+
+XV. Desempeñar las comisiones y funciones que les encomiende el Secretario o el Subsecretario y mantenerlos informados de su cumplimiento.
 
 XVI. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que les correspondan por delegación o suplencia en términos de este Reglamento.
 
-XVII. Las demás que les confieren otras disposiciones legales y aquellas que les señale el Secretario.
+> <small>(REFORMADA, G.G. 12 DE MARZO DE 2009)</small>
+
+XVII. Las demás que les confieren otros ordenamientos legales y aquellas que les encomiende el Secretario y el Subsecretario.
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES, COORDINACIONES, DIRECCION Y UNIDAD JURIDICA
 
@@ -229,7 +313,9 @@ XX. Promover, en coordinación con las Delegaciones Regionales de Desarrollo Agr
 
 XXI. Sustanciar los procedimientos administrativos correspondientes para imponer las sanciones que establece el Código Administrativo del Estado de México y la reglamentación aplicable.
 
-XXII. Las demás que le confieren otras disposiciones legales y las que le señale el Secretario.
+> <small>(REFORMADA, G.G. 12 DE MARZO DE 2009)</small>
+
+XXII. Las demás que le confieren otras disposiciones legales y las que le señale el Secretario y el Subsecretario.
 
 ###### Artículo 10.
 
@@ -259,7 +345,9 @@ XI. Promover y participar en la realización de exposiciones, ferias, concursos 
 
 XII. Sustanciar el procedimiento administrativo correspondiente para imponer las sanciones que establece el Código Administrativo del Estado de México y la reglamentación aplicable.
 
-XIII. Las demás que le confieren otras disposiciones legales y las que le señale el Secretario.
+> <small>(REFORMADA, G.G. 12 DE MARZO DE 2009)</small>
+
+XIII. Las demás que le confieren otras disposiciones legales y las que le señale el Secretario y el Subsecretario.
 
 ###### Artículo 11.
 
@@ -301,7 +389,9 @@ XVII. Promover y participar en la realización de exposiciones, ferias, concurso
 
 XVIII. Sustanciar el procedimiento administrativo correspondiente para imponer las sanciones que establece el Código Administrativo del Estado de México y la reglamentación aplicable.
 
-XIX. Las demás que le confieren otras disposiciones legales y las que le señale el Secretario.
+> <small>(REFORMADA, G.G. 12 DE MARZO DE 2009)</small>
+
+XIX. Las demás que le confieren otras disposiciones legales y las que le señale el Secretario y el Subsecretario.
 
 ###### Artículo 12.
 
@@ -321,7 +411,9 @@ VI. Proponer y ejecutar, con la participación de las unidades administrativas c
 
 VII. Fomentar, a través de las Delegaciones Regionales de Desarrollo Agropecuario, la cultura de producción en el sector rural, así como la autonomía de gestión de los productores y sus organizaciones.
 
-VIII. Las demás que le confieren otras disposiciones legales y las que le señale el Secretario.
+> <small>(REFORMADA, G.G. 12 DE MARZO DE 2009)</small>
+
+VIII. Las demás que le confieren otras disposiciones legales y las que le señale el Secretario y el Subsecretario.
 
 ###### Artículo 13.
 
@@ -381,7 +473,9 @@ XXVI. Apoya a las Delegaciones Regionales de Desarrollo Agropecuario para que su
 
 XXVII Celebrar convenios de préstamo de maquinaria con municipios u organizaciones campesinas, principalmente, para la ejecución de las obras de infraestructura rural, previa autorización del Secretario.
 
-XXVIII. Las demás que le confieren otras disposiciones legales y las que le señale el Secretario.
+> <small>(REFORMADA, G.G. 12 DE MARZO DE 2009)</small>
+
+XXVIII. Las demás que le confieren otras disposiciones legales y las que le señale el Secretario y el Subsecretario.
 
 ###### Artículo 14.
 
@@ -419,7 +513,9 @@ XV. Fomentar la producción de alimentos inocuos en el sector agropecuario.
 
 XVI. Promover y coordinar acciones para la certificación de unidades de producción agropecuarias y acuícolas en el uso de buenas prácticas de manejo y manufactura.
 
-XVII. Las demás que le confieren otras disposiciones legales y las que le señale el Secretario.
+> <small>(REFORMADA, G.G. 12 DE MARZO DE 2009)</small>
+
+XVII. Las demás que le confieren otras disposiciones legales y las que le señale el Secretario y el Subsecretario.
 
 ###### Artículo 15.
 
@@ -627,7 +723,9 @@ XXI. Acordar con el Coordinador de Delegaciones Regionales la atención de los a
 
 XXII. Expedir constancias o certificar copias de documentos existentes en los archivos de la Delegación a su cargo.
 
-XXIII. Las demás que le confieren otras disposiciones legales y las que le señale el Secretario y el Coordinador de Delegaciones Regionales.
+> <small>(REFORMADA, G.G. 12 DE MARZO DE 2009)</small>
+
+XXIII. Las demás que le confieren otras disposiciones legales y las que le señale el Secretario, el Subsecretario y el Coordinador de Delegaciones Regionales.
 
 ###### Artículo 22.
 
@@ -635,13 +733,17 @@ Las Delegaciones Regionales de Desarrollo Agropecuario podrán contar con Subdel
 
 ### CAPÍTULO VII. DE LA SUPLENCIA DE LOS TITULARES
 
+> <small>(REFORMADO, G.G. 12 DE MARZO DE 2009)</small>
+
 ###### Artículo 23.
 
-El Secretario será suplido en sus ausencias temporales hasta por 15 días, por el Director General que aquel designe. En las mayores de 15 días, por quien designe el Gobernador del Estado.
+El Secretario será suplido en sus ausencias temporales hasta por 15 días hábiles, por el Subsecretario. En las mayores de 15 días hábiles, por quien designe el Gobernador del Estado.
+
+> <small>(REFORMADO, G.G. 12 DE MARZO DE 2009)</small>
 
 ###### Artículo 24.
 
-Los Directores Generales y los Coordinadores serán suplidos en sus ausencias temporales hasta por 15 días, por el Director o el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por quien designe el Secretario.
+El Subsecretario los Directores Generales y el Coordinador de Delegaciones Regionales serán suplidos en sus ausencias temporales hasta por 15 días hábiles, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días hábiles, por quien designe el Secretario.
 
 ###### Artículo 25.
 
@@ -674,3 +776,13 @@ SECRETARIO GENERAL DE GOBIERNO
 DR. VÍCTOR HUMBERTO BENÍTEZ TREVIÑO
 
 (RÚBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 12 DE MARZO DE 2009.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que sean contrarias a lo dispuesto en el presente Acuerdo.
