@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-sistema-de-radio-y-television-40841"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-24"
-last_updated: "2004-08-24"
+last_updated: "2009-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40841&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL SISTEMA DE RADIO Y TELEVISION MEXIQUENSE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE MARZO DE 2009.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 24 de agosto de 2004.
 
 EL CONSEJO DIRECTIVO DEL SISTEMA DE RADIO Y TELEVISIÓN MEXIQUENSE, EN EJERCICIO DE LA ATRIBUCIÓN QUE LE CONFIERE EL ARTICULO 10 FRACCIÓN VI, DEL DECRETO DEL EJECUTIVO DEL ESTADO POR EL QUE SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SISTEMA DE RADIO Y TELEVISIÓN MEXIQUENSE, EN SESIÓN ORDINARIA CELEBRADA EL DIA VEINTINUEVE DE JULIO DE DOS MIL CUATRO; Y
 
-C O N S I D E R A N D O
+C O N S I D E R A N D O...
 
 En mérito de lo anterior, ha tenido a bien expedir el siguiente:
 
@@ -129,19 +129,31 @@ V. Dirección de Planeación y Concertación.
 
 VI. Dirección de Administración y Finanzas.
 
-VII. Contraloría Interna.
+> <small>(REFORMADA, G.G. 12 DE MARZO DE 2009)</small>
+
+VII. Unidad Jurídica.
+
+> <small>(ADICIONADA, G.G. 12 DE MARZO DE 2009)</small>
+
+VIII. Contraloría Interna.
 
 El Director General contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en el Manual General de Organización del Sistema; asimismo, se auxiliará de los servidores públicos que las necesidades del servicio requieran, de acuerdo con la normatividad aplicable y con el presupuesto de egresos respectivo.
 
-### CAPÍTULO IV. DE LOS DIRECTORES
+> <small>(REFORMADA SU DENOMINACION, G.G. 12 DE MARZO DE 2009)</small>
+
+### CAPITULO IV. DE LOS DIRECTORES Y JEFE DE UNIDAD
+
+> <small>(REFORMADO, G.G. 12 DE MARZO DE 2009)</small>
 
 ###### Artículo 12.
 
-Al frente de cada dirección habrá un titular, quien se auxiliará de los subdirectores, jefes de departamento y demás servidores públicos que las necesidades del servicio requieran, de acuerdo con la organización interna aprobada y con presupuesto de egresos respectivo.
+Al frente de cada Dirección y de la Unidad habrá un titular, quien se auxiliará de los subdirectores, jefes de departamento y demás servidores públicos que las necesidades del servicio requieran, de acuerdo con la organización interna aprobada y con el presupuesto de egresos respectivo.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 12 DE MARZO DE 2009)</small>
 
 ###### Artículo 13.
 
-Corresponde a los directores:
+Corresponde a los Directores y Jefe de Unidad:
 
 I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones encomendadas a la unidad administrativa a su cargo.
 
@@ -161,7 +173,9 @@ VIII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aque
 
 IX. Las demás que les confieran otras disposiciones legales y aquellas que les establezca el Director General.
 
-### CAPÍTULO V. DE LAS DIRECCIONES Y DE LA CONTRALORIA INTERNA
+> <small>(REFORMADA SU DENOMINACION, G.G. 12 DE MARZO DE 2009)</small>
+
+### CAPITULO V. DE LAS DIRECCIONES, DE LA UNIDAD JURIDICA Y DE LA CONTRALORIA INTERNA
 
 ###### Artículo 14.
 
@@ -235,13 +249,17 @@ XIII. Las demás que le señalen otros ordenamientos legales y las que le encomi
 
 Corresponde a la Dirección de Radio:
 
-I. Diseñar la estructura programática radiofónica para la producción y transmisión de programas, series, cápsulas, promocionales y demás formatos.
+> <small>(REFORMADA, G.G. 12 DE MARZO DE 2009)</small>
+
+I. Diseñar la estructura programática radiofónica para la producción y transmisión de programas, series, cápsulas informativas, promocionales y demás contenidos que integran la barra programática de la red de radiodifusoras del Sistema.
 
 II. Prestar los servicios de grabación, producción, postproducción, copiado y transmisión que se realicen en los estudios y cabinas a su cargo, así como los de fonoteca para la realización de programas, cápsulas y promocionales.
 
 III. Coordinar la realización de programas, series, cápsulas y promocionales radiofónicos y verificar que su contenido sea congruente con el objetivo del Sistema.
 
-IV. Integrar la estructura de la programación radiofónica diaria y semanal a trasmitir.
+> <small>(REFORMADA, G.G. 12 DE MARZO DE 2009)</small>
+
+IV. Integrar la estructura de la programación radiofónica diaria, semanal y mensual a transmitir en la red de radiodifusoras del Sistema.
 
 V. Coordinar y supervisar la producción, transmisión y continuidad de los programas radiofónicos.
 
@@ -255,7 +273,13 @@ IX. Operar los sistemas de catalogación, conservación y control del material f
 
 X. Evaluar y calificar proyectos externos presentados para su producción y transmisión.
 
-XI. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Director General.
+> <small>(REFORMADA, G.G. 12 DE MARZO DE 2009)</small>
+
+XI. Establecer las políticas y lineamientos que regulan la producción y transmisión de los contenidos de la red de radiodifusoras del Sistema.
+
+> <small>(ADICIONADA, G.G. 12 DE MARZO DE 2009)</small>
+
+XII. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Director General.
 
 ###### Artículo 18.
 
@@ -345,6 +369,26 @@ XXIV. Integrar el padrón de proveedores del Organismo.
 
 XXV. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Director General.
 
+> <small>(ADICIONADO, G.G. 12 DE MARZO DE 2009)</small>
+
+###### Articulo 19 Bis.
+
+Corresponde a la Unidad Jurídica:
+
+I. Representar al Sistema en los asuntos jurisdiccionales, con los poderes específicos que le otorgue el Director General.
+
+II. Atender y promover las demandas, amparos, juicios, citatorios y demás requerimientos de autoridades diversas, que se emitan o se instauren con relación y en contra del Sistema y su personal, a fin de proteger su interés jurídico y patrimonio.
+
+III. Compilar y divulgar los ordenamientos jurídicos que regulen la organización y el funcionamiento del Sistema.
+
+IV. Asistir jurídicamente al personal del Sistema en las diligencias de carácter judicial, cuando se traten asuntos inherentes al Organismo.
+
+V. Asesorar al personal del Sistema respecto a los ordenamientos jurídicos que se vinculen con el desarrollo de sus funciones.
+
+VI. Revisar y, en su caso, elaborar los proyectos de instrumentos jurídicos y administrativos que pretenda suscribir el Sistema.
+
+VII. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Director General.
+
 ### CAPÍTULO VI. DE LA SUPLENCIA DE LOS TITULARES
 
 ###### Artículo 20.
@@ -369,9 +413,11 @@ VII. Las demás que le señalen otros ordenamientos legales.
 
 El Director General será suplido en sus ausencias temporales hasta por 15 días, por el Director que aquél designe. En las mayores de 15 días, por quien designe el Gobernador del Estado.
 
+> <small>(REFORMADO, G.G. 12 DE MARZO DE 2009)</small>
+
 ###### Artículo 22.
 
-Los directores, subdirectores y jefes de departamento serán suplidos en sus ausencias temporales hasta por 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por el servidor público que designe el Director General.
+Los Directores, Subdirectores y Jefes de Unidad y de Departamento serán suplidos en sus ausencias temporales hasta por 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por el servidor público que designe el Director General.
 
 T R A N S I T O R I O S
 
@@ -402,3 +448,13 @@ DIRECTOR GENERAL DEL SISTEMA DE RADIO Y TELEVISIÓN MEXIQUENSE Y SECRETARIO DEL 
 LUIS ERNESTO PI OROZCO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 12 DE MARZO DE 2009.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igualo menor jerarquía que se opongan al presente Acuerdo.
