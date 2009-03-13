@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-28-2005-del-pleno-del-consejo-de-la-45657"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-08-12"
-last_updated: "2008-11-14"
+last_updated: "2009-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45657&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-07-13"
 
 ACUERDO GENERAL 28/2005, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE MARZO DE 2009.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 12 de agosto de 2005.
 
@@ -93,11 +93,17 @@ XIII. Pensión Complementaria: Es la retribución mensual vitalicia que otorga e
 
 XIV. Pensión total por jubilación: Es la retribución mensual que se integra con la pensión del ISSSTE más la pensión complementaria;
 
-XV. Plan: El Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito del Poder Judicial de la Federación, y
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2009)</small>
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 20/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MARZO DE 2006)</small>
+XV. Plan: El Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito del Poder Judicial de la Federación;
 
-XVI. Fondo: La cantidad de dinero de la que se dispone para el financiamiento del Plan, mediante el fideicomiso de inversión constituido para tal efecto o, de existir, la partida presupuestal correspondiente.
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2009)</small>
+
+XVI. Fondo: La cantidad de dinero de la que se dispone para el financiamiento del Plan, mediante el fideicomiso de inversión constituido para tal efecto o, de existir, la partida presupuestal correspondiente; y
+
+> <small>(ADICIONADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2009)</small>
+
+XVII. Comité Técnico del Fideicomiso: El órgano creado por el Consejo como fideicomitente en el contrato de fideicomiso de inversión constituido para tal efecto.
 
 > <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 37/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2007)</small>
 
@@ -373,6 +379,10 @@ No obstante lo previsto en el artículo 4 de este acuerdo, el Pleno podrá incre
 
 Para recibir la pensión complementaria a que se refiere este Acuerdo, será necesario que el beneficiario interesado lo solicite mediante escrito dirigido a la Comisión, el que deberá ser presentado en la Oficina de Correspondencia del Consejo, directamente o por correo certificado.
 
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2009)</small>
+
+El plazo para solicitar las pensiones complementarias generadas y no reclamadas prescribirá en un año, contado a partir de la fecha en que se genere el derecho a recibir la pensión complementaria.
+
 > <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 37/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 17.
@@ -431,7 +441,9 @@ En contra de la resolución que decida sobre el recurso de reconsideración no p
 
 El derecho a recibir la pensión complementaria, para los beneficiarios a que se refiere la fracción I del artículo 3 de este Acuerdo, se origina a partir del día siguiente a la fecha de baja en el cargo del que se retire el servidor público de que se trate, siempre y cuando la solicitud de pensión complementaria sea procedente.
 
-El pago de las pensiones complementarias que sean procedentes, en su caso, se realizará dentro de los últimos tres días del mes vencido; tratándose del primer pago, éste se hará retroactivo a partir de la fecha de baja del servidor público.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2009)</small>
+
+El pago de las pensiones complementarias que sean procedentes, en su caso, se realizará dentro de los últimos tres días del mes vencido; tratándose del primer pago, éste se hará retroactivo a partir de la fecha de baja del servidor público, salvo lo dispuesto en el segundo párrafo del artículo 16 de este Acuerdo, en cuyo caso el pago se hará a partir de la fecha de presentación de la solicitud.
 
 > <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
 
@@ -443,11 +455,11 @@ El pago de este anticipo se realizará, según corresponda, conforme a las regla
 
 Cuando el ISSSTE cuantifique la pensión a su cargo, Servicios al Personal realizará los ajustes pertinentes al monto definitivo de la pensión complementaria y pagará, en su caso, los remanentes a favor del beneficiario, lo cual deberá informarse a la Comisión.
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2009)</small>
 
 ###### Artículo 27.
 
-Tratándose de los beneficiarios a que se refieren las fracciones II y III del artículo 3 de este acuerdo, el pago de la pensión complementaria se realizará a partir del día siguiente de la fecha de fallecimiento del servidor público beneficiado por el Plan.
+Tratándose de los beneficiarios a que se refieren las fracciones II y III del artículo 3 de este Acuerdo, el derecho a recibir la pensión complementaria se origina a partir del día siguiente a la fecha de fallecimiento del servidor público beneficiado por el Plan, salvo lo dispuesto en el segundo párrafo del artículo 16 de este Acuerdo, en cuyo caso el pago se hará a partir de la fecha de presentación de la solicitud.
 
 En los casos en que el fallecimiento del titular de la pensión complementaria ocurra antes de que transcurra el periodo por el cual ya se hubiese realizado el pago, el excedente será compensado del monto de la pensión que corresponda al beneficiario.
 
@@ -461,9 +473,11 @@ El pago de las pensiones complementarias que sean procedentes, en su caso, se re
 
 En caso de fallecimiento de un beneficiario de la pensión complementaria, la devolución del excedente que en su caso se hubiera pagado, será resuelta por la Comisión, previo informe que al respecto rinda el titular de Servicios al Personal.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2009)</small>
+
 ###### Artículo 29.
 
-Una vez otorgada la pensión complementaria por la Comisión o el Pleno, en su caso, se girarán instrucciones conducentes al Comité Técnico de Inversión del Fideicomiso respectivo, para que proceda a su pago.
+Una vez otorgada la pensión complementaria por la Comisión o el Pleno, en su caso, se girarán instrucciones conducentes al Comité Técnico del Fideicomiso para la autorización del pago correspondiente.
 
 > <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
 
@@ -578,3 +592,11 @@ PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar, de inmediato, el texto de esta reforma al Acuerdo General 28/2005, del Pleno del Consejo de la Judicatura Federal, que Regula el Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito.
+
+D.O.F. 13 DE MARZO DE 2009.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, el texto de esta reforma, al Acuerdo General 28/2005, del Pleno del Consejo de la Judicatura Federal, que Regula el Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito.
