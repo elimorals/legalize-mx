@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-ley-de-fomento-a-la-inversion-y-al-empleo-5732
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-12"
-last_updated: "2007-10-12"
+last_updated: "2009-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE LA LEY DE FOMENTO A LA INVERSION Y AL EMPLEO EN EL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2009
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 12 de octubre de 2007.
 
@@ -77,7 +77,9 @@ Así como los demás términos a que se refiere el artículo 3 de la Ley.
 
 ###### Artículo 4.
 
-En términos del artículo 6 y demás relativos de la Ley, el Consejo Estatal de Promoción a la Inversión es un organismo auxiliar, plural, incluyente y honorifico que desempeña las funciones consultivas, de seguimiento y de evaluación que determina la Ley. Los representantes de los sectores a que se refiere el artículo 6, fracción IV de la Ley, duraran en su encargo tres años, pudiendo continuar por un periodo adicional a invitación del Presidente del Consejo.
+En términos del artículo 6 y demás relativos de la Ley, el Consejo Estatal de Promoción a la Inversión es un organismo auxiliar, plural, incluyente y honorifico que desempeña las funciones consultivas, de seguimiento y de evaluación que determina la Ley.
+
+Los representantes de los sectores a que se refiere el artículo 6, fracción IV de la Ley, duraran en su encargo tres años, pudiendo continuar por un periodo adicional a invitación del Presidente del Consejo.
 
 ###### Artículo 5.
 
@@ -133,7 +135,9 @@ Para que los Consejos Regionales puedan sesionar se requiere que estén presente
 
 ###### Artículo 13.
 
-Los acuerdos de los Consejos Regionales deberán tomarse por mayoría de votos de los presentes, en caso de empate el Presidente o su suplente tendrá voto de calidad. Todos los integrantes de los Consejos Regionales tendrán derecho a voz y voto en la (sic) sesiones.
+Los acuerdos de los Consejos Regionales deberán tomarse por mayoría de votos de los presentes, en caso de empate el Presidente o su suplente tendrá voto de calidad.
+
+Todos los integrantes de los Consejos Regionales tendrán derecho a voz y voto en la (sic) sesiones.
 
 ###### Artículo 14.
 
@@ -157,7 +161,13 @@ II. Resolver sobre el otorgamiento de incentivos, especificando el tipo, monto, 
 
 III. Recomendar sobre la cancelación, revocación o modificación a los incentivos que haya otorgado;
 
-IV. Las demás que establezca la Ley, este Reglamento y otros ordenamientos legales aplicables.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2009)</small>
+
+IV. Diseñar, operar, evaluar y mejorar el proceso de otorgamiento de incentivos, para lo cual podrán implantar el uso de tecnologías de la información, sistemas digitales o medios electrónicos para la recepción, evaluación y resolución de las solicitudes de incentivos y en general de todo el proceso de otorgamiento de incentivos incluidas las comunicaciones entre las partes;
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2009)</small>
+
+V. Las demás que establezca la Ley, este Reglamento y otros ordenamientos legales aplicables.
 
 ###### Artículo 18.
 
@@ -173,15 +183,15 @@ La Secretaría participará en la celebración de todos los convenios que suscri
 
 Todas las solicitudes de incentivos deberán presentarse ante la Secretaría en los siguientes términos:
 
-I.- Entregar por escrito la solicitud de incentivos donde se especifique el nombre, firma, domicilio, nacionalidad y personalidad con que comparece el solicitante.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2009)</small>
 
-II.- Entregar por escrito la carta compromiso, bajo protesta de decir verdad, en la que especifique:
+I.- Entregar por escrito, bajo protesta de decir verdad, solicitud de incentivos donde se especifique el nombre, firma, domicilio, nacionalidad y personalidad con que comparece el solicitante, así como:
 
 1. Nombre, denominación o razón social, domicilio y nacionalidad del inversionista;
 
 2. Número de empleos directos por generar;
 
-3. Remuneración promedio en SMG de los empleos directos a generar;
+3. Remuneración promedio de los empleos directos a generar;
 
 4. Actividad empresarial a la que se pretende dedicar;
 
@@ -189,13 +199,13 @@ II.- Entregar por escrito la carta compromiso, bajo protesta de decir verdad, en
 
 6. Municipio o municipios donde le interesa invertir;
 
-7.1. Cuenta con patentes propias, ¿Cuáles?,
+7. Cuenta con patentes propias, ¿Cuáles?,
 
-7.2. Cuenta con procesos que no existen en la entidad, ¿Cuáles?, y
+7.1. Cuenta con procesos que no existen en la entidad, ¿Cuáles?, y
 
-7.3. Genera productos que nos se originan en la entidad, ¿Cuáles?;
+7.2. Genera productos que no se originan en la entidad, ¿Cuáles?;
 
-8. Monto en SMG de inversión directa por empleo generado;
+8. Monto de Inversión Directa por empleo generado;
 
 9. Programa calendarizado de la creación de los nuevos empleos;
 
@@ -203,7 +213,7 @@ II.- Entregar por escrito la carta compromiso, bajo protesta de decir verdad, en
 
 11. Porcentaje del costo de producción que se eroga con proveedores locales;
 
-12. Volumen de exportación esperado en SMG;
+12. Volumen anual de exportación esperado;
 
 13. Cuenta con un programa de capacitación orientado preferentemente a: profesionistas, técnicos y operarios o similares;
 
@@ -213,11 +223,29 @@ II.- Entregar por escrito la carta compromiso, bajo protesta de decir verdad, en
 
 16. Los demás aspectos que el inversionista considere relevantes acerca del impacto de la inversión en la entidad.
 
-III.- Entregar aquellos otros elementos que en el caso concreto a juicio de la Secretaría se consideren necesarios para conocer y evaluar el proyecto de inversión.
+El solicitante podrá señalar adicionalmente una dirección electrónica a fin de que por ese medio se efectúen las notificaciones y comunicados derivados del procedimiento, eximiendo en tal caso a la Secretaría de realizarlas por otro medio.
 
-La Secretaría podrá realizar las acciones que considere necesarias para verificar la información presentada en los documentos anteriores.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2009)</small>
+
+II.- Entregar aquellos otros elementos que en el caso concreto a juicio de la Secretaría se consideren necesarios para conocer y evaluar el proyecto de inversión.
+
+III.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 2004)
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2009)</small>
+
+En la solicitud de incentivos la Información monetaria deberá expresarse en pesos de los Estados Unidos Mexicanos. La documentación que presente el solicitante en otro idioma distinto al español, deberá ser acampanada de su respectiva traducción oficial.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2009)</small>
+
+En cualquier tiempo y durante todo el procedimiento la Secretaría podrá realizar las acciones que considere necesarias para solicitar y verificar la información presentada por el solicitante.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2009)</small>
 
 Cuando los interesados no proporcionen completa la información a que se refiere este artículo, al momento de realizar el dictamen de evaluación y recomendación se asignará cero puntos al criterio correspondiente.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2009)</small>
+
+En ningún caso se otorgaran incentivos a proyectos de inversión concluidos con anterioridad a la presentación de la solicitud de incentivos a que se refiere este artículo.
 
 ###### Artículo 21.
 
@@ -255,7 +283,7 @@ Monto de la inversión directa Hasta 8 puntos
 
 Ubicación del proyecto de inversión y
 
-Descentralización Hasta 10 puntos
+descentralización Hasta 10 puntos
 
 Contribución de la inversión a la innovación, al
 
@@ -277,7 +305,9 @@ Fortalecimiento de la proveeduría de
 
 empresas locales Hasta 3 puntos
 
-Volumen de exportación esperado en SMG Hasta 2 puntos
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2009)</small>
+
+Volumen anual de exportación esperado Hasta 2 puntos
 
 Programa de capacitación y desarrollo de
 
@@ -287,9 +317,9 @@ Consumo y tratamiento del agua Hasta 2 puntos
 
 Uso de tecnologías que permitan la
 
-protección y el mejoramiento del medio
+protección y el mejoramiento del medio Hasta 2 puntos
 
-ambiente Hasta 2 puntos
+ambiente
 
 Total Hasta 100 puntos
 
@@ -327,9 +357,15 @@ Corresponde a los sectores
 
 estratégicos
 
-Fabricante de productos termi-
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2009)</small>
 
-nados o proveedor de primer 20 Puntos
+Fabricante de productos termi- 20 Puntos
+
+nados
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2009)</small>
+
+Proveedor de primer 15 Puntos
 
 nivel
 
@@ -375,7 +411,7 @@ uno de los siguientes elementos:
 
 • Proceso (s) que no existe en la
 
-entidad
+Entidad
 
 • Producto (s) que no se generan
 
@@ -535,6 +571,10 @@ Empresas con un nivel medio de contaminación 1 Punto
 
 Empresas con un nivel alto de contaminación 0 Puntos
 
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2009)</small>
+
+Si la inversión corresponde al sector estratégico de Tecnologías de la Información, recibirá 10 puntos por el criterio de ubicación geográfica de la inversión, independientemente de la región en que se localice.
+
 ###### Artículo 25.
 
 Para efectos de la evaluación de los proyectos de inversión y su correspondiente asignación de puntos conforme a las tablas anteriores, se atenderá lo siguiente:
@@ -545,15 +585,23 @@ II. Los salarios de los dos primeros niveles de mayor rango en la empresa no ser
 
 III. Solo será considerada la inversión directa aplicada durante los primeros dos años a partir del inicio de la ejecución del proyecto de inversión;
 
-IV. Será considerado como parte de la inversión el valor presente del contrato de arrendamiento del inmueble donde se asiente la empresa; y
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2009)</small>
 
-V. Solo serán considerados los empleos generados durante los primeros dos años a partir del inicio de la ejecución del proyecto de inversión.
+IV. Será considerado como parte de la inversión el valor presente del contrato de arrendamiento del inmueble donde se asiente la empresa, para esos efectos se tomará como tasa de descuento la Tasa de Interés lnterbancaria dé Equilibrio (Tasa TIIE) más cinco puntos;
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2009)</small>
+
+V. Solo serán considerados los empleos directos formales generados durante los primeros dos años a partir del inicio de operaciones de la empresa.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2009)</small>
 
 ###### Artículo 26.
 
-El Titular de la Secretaría, auxiliado por el Titular de la Subsecretaría, notificará al interesado el proyecto de dictamen de evaluación y recomendación, dentro de los siguientes 10 días hábiles a la notificación referida en el artículo 22 de este Reglamento, a fin de que en forma preliminar conozca la propuesta de puntos asignados al proyecto de inversión y su equivalencia en recursos económicos.
+En caso de que la solicitud de incentivos se encuentre debidamente integrada, el Titular de la Secretaría, auxiliado por el Titular de la Subsecretaría, notificará al interesado el proyecto de dictamen de evaluación y recomendación, dentro de los 10 días hábiles siguientes a la recepción de la solicitud a fin de que en forma preliminar conozca la propuesta de puntos asignados al proyecto de inversión y su equivalencia en recursos económicos.
 
-El interesado procederá a informar por escrito a la Secretaría su propuesta de aprovechamiento de incentivos, especificando el tipo, monto, plazo, términos y condiciones de los mismos, a partir de esta fecha comenzará a correr el término de los 30 días hábiles para resolver la solicitud de conformidad con el artículo 27 de la Ley.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2009)</small>
+
+Dentro de los 20 días hábiles siguientes a la notificación a que se refiere el párrafo anterior, el interesado procederá a informar por escrito a la Secretaría su propuesta de aprovechamiento de incentivos, especificando el tipo, monto y plazo de los mismos, a partir de esta fecha comenzará a correr el término de los 30 días hábiles para resolver la solicitud de conformidad con el artículo 27 de la Ley. En caso de no recibir la propuesta de aprovechamiento de incentivos se dará por concluido el procedimiento.
 
 El interesado en la propuesta de aprovechamiento de incentivos a que se refiere este artículo deberá incluir al menos un 30% de la totalidad de los mismos, en los incentivos a que se refieren las fracciones II y IV del artículo 17 de la Ley.
 
@@ -565,9 +613,15 @@ La proposición a que se refiere este artículo quedará sujeta a la resolución
 
 Una vez que se reciba del interesado su proposición de aprovechamiento de incentivos el Titular de la Secretaría, auxiliado por el Titular de la Subsecretaría, analizará el fondo del asunto y procederá a elaborar el dictamen final de evaluación y recomendación.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2009)</small>
+
 ###### Artículo 28.
 
-Los incentivos que se otorguen al inversionista en los términos del artículo 24 del presente reglamento, podrán ser hasta el 5 % del valor total del monto de inversión. Por cada punto asignado al proyecto se podrán otorgar incentivos equivalentes al 0.05% del valor total del monto de inversión.
+Los incentivos que se otorguen al inversionista en los términos del artículo 24 del presente reglamento, podrán ser hasta el 5% del valor total del monto de inversión, atendiendo a lo siguiente:
+
+I.- Si la inversión corresponde a los sectores estratégicos para el desarrollo económico del Estado o el proyecto de inversión se ubica en un Municipio de la región Norte, Citrícola o Sur, por cada punto asignado al proyecto se podrán otorgar incentivos equivalentes al 0.05% del valor total del monto de inversión.
+
+II.- Si la inversión no corresponde a los sectores y proyectos estratégicos de inversión para el desarrollo económico del Estado por cada punto asignado al proyecto se podrán otorgar incentivos equivalentes al 0.005% del valor total del monto de inversión.
 
 ###### Artículo 29.
 
@@ -601,7 +655,9 @@ La Secretaría y el Consejo, en el ámbito de su competencia, podrán destinar r
 
 ###### Artículo 36.
 
-Anualmente se aportará al Fondo la cantidad equivalente al incremento real de la recaudación entre los dos ejercicios fiscales anteriores respecto al Impuesto Sobre Nóminas. Para este efecto la Tesorería informará a la Secretaría y al Consejo la situación que guarda la recaudación del Impuesto Sobre Nóminas, haciendo referencia comparativa a lo recaudado en los dos años anteriores.
+Anualmente se aportará al Fondo la cantidad equivalente al incremento real de la recaudación entre los dos ejercicios fiscales anteriores respecto al Impuesto Sobre Nóminas.
+
+Para este efecto la Tesorería informará a la Secretaría y al Consejo la situación que guarda la recaudación del Impuesto Sobre Nóminas, haciendo referencia comparativa a lo recaudado en los dos años anteriores.
 
 Adicionalmente la Tesorería informará a la Secretaría y al Consejo acerca de la aportación al Fondo que se contempla en el proyecto de Presupuesto de Egresos a enviar al H. Congreso del Estado.
 
@@ -689,17 +745,37 @@ VII. Dar cuenta al Consejo Ciudadano Asesor cuando se den cambios de titulares o
 
 VIII. Las demás que le otorgue el Presidente Honorario, el Presidente Ejecutivo, el Consejo Ciudadano Asesor y las que señalen otras disposiciones legales.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2009)</small>
+
 ###### Artículo 43.
 
-Todos los cargos de los Consejos Ciudadanos Asesores serán de carácter honorífico, siendo a título de colaboración ciudadana y se regirán por principios de buena fe e interés general. Únicamente el cargo de Director del Consejo Ciudadano Asesor podrá ser remunerado si así lo acuerda el mismo Consejo.
+Todos los cargos de los Consejos Ciudadanos Asesores serán de carácter honorífico, siendo a título de colaboración ciudadana y se regirán por principios de buena fe e interés general. Únicamente el cargo de Director del Consejo Ciudadano Asesor podrá ser remunerado si así lo acuerda el mismo Consejo. Las funciones del Director del Consejo Ciudadano Asesor serán las siguientes:
+
+I. Planear, programar, ejecutar y controlar las acciones relativas a la operación y administración del Consejo Ciudadano Asesor, previo acuerdo del Presidente Ejecutivo;
+
+II. Convocar, coordinar, elaborar la minuta y dar seguimiento a los acuerdos de las reuniones del Consejo Ciudadano Asesor y sus comités de trabajo;
+
+III. Auxiliar al Presidente Ejecutivo y al Secretario Técnico del Consejo Ciudadano Asesor en el desarrollo de las sesiones;
+
+IV. Proponer y dar seguimiento a proyectos, programas y estrategias que fomenten la competitividad del sector;
+
+V. Gestionar recursos para el financiamiento de proyectos del Consejo Ciudadano Asesor;
+
+VI. Llevar el registro, estadística y documentación relativa a la operación y funcionamiento del Consejo Ciudadano Asesor y sus comités;
+
+VII. Facilitar, promover y vincular al Consejo Ciudadano Asesor con instancias públicas y privadas para el desarrollo del sector; y
+
+VIII. Las demás que le asigne el Presidente Ejecutivo y el Secretario Técnico del Consejo Ciudadano Asesor.
 
 ###### Artículo 44.
 
 Los vocales a que se refiere el artículo 39 del presente Reglamento durarán al igual que el Presidente dos años en su cargo, pudiendo ser designados nuevamente al término del periodo correspondiente cuantas veces se considere necesario para el adecuado cumplimiento de los fines del Consejo Ciudadano Asesor.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2009)</small>
+
 ###### Artículo 45.
 
-Los Consejos Ciudadanos Asesores sesionarán conforme el calendario que aprueben. Las sesiones ordinarias se realizarán al menos trimestralmente. Las sesiones extraordinarias se efectuarán en cualquier momento, previa convocatoria a solicitud al Presidente Honorario, del Presidente Ejecutivo o del Secretario Técnico de los Consejos Ciudadanos Asesores.
+Los Consejos Ciudadanos Asesores sesionarán conforme el calendario que aprueben. Las sesiones ordinarias se realizarán al menos trimestralmente. Las sesiones extraordinarias se efectuarán en cualquier momento, previa convocatoria a solicitud al Presidente Honorario, del Presidente Ejecutivo o del Secretario Técnico de los Consejos Ciudadanos Asesores. Las convocatorias a las sesiones podrán realizarse por medios electrónicos.
 
 Las convocatorias deberán ser realizadas, cuando menos, con cinco días hábiles antes para las sesiones ordinarias, y para el caso de las extraordinarias, con la anticipación que sea necesaria. En las convocatorias deberá indicarse la fecha, hora, lugar y orden del día, y serán acompañadas de la información documental que se considere pertinente.
 
@@ -711,9 +787,13 @@ Las sesiones de los Consejos Ciudadanos Asesores en primera convocatoria, serán
 
 Los acuerdos de los Consejos Ciudadanos Asesores se tomarán por mayoría simple de los presentes, y en caso de empate el Presidente Honorario tendrá el voto de calidad; en su ausencia, el Presidente Ejecutivo será quien cuente con el voto de calidad. De cada sesión se formulará por el Secretario Técnico el acta correspondiente, que firmarán todos los asistentes.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2009)</small>
+
 ###### Artículo 48.
 
-La Tesorería, en coordinación con la Secretaría, promoverán en el Proyecto de Presupuesto de Egresos, la asignación de una partida para apoyar el desarrollo de los programas operativos que impulsen los Consejos Ciudadanos Asesores.
+El Titular del Poder Ejecutivo del Estado, considerando la disponibilidad presupuestal, deberá destinar en el proyecto de Presupuesto de Egresos que envíe al H. Congreso una partida presupuestal de al menos 25,000 SMG para cada uno de los Consejos Ciudadanos Asesores e incluso para los que hayan adoptado la forma de Asociaciones Civiles o cualquier otra forma jurídica, que se encuentren formalmente establecidos y reconocidos en términos de la Ley, a fin de apoyarlos en su funcionamiento y logro de sus objetivos, mismos que en su caso serán entregados previa la firma del convenio de colaboración correspondiente.
+
+Independientemente de lo previsto en el párrafo anterior, el Gobierno del Estado podrá destinar recursos para el apoyo de proyectos estratégicos de los agrupamientos empresariales.
 
 ### CAPÍTULO SEXTO. DEL PROCEDIMIENTO ADMINISTRATIVO Y LAS SANCIONES
 
@@ -837,7 +917,7 @@ La Subsecretaría será responsable de actualizar permanentemente el registro a 
 
 La Subsecretaría publicará el registro a que se refiere el artículo 65 de este Reglamento en la red mundial de información conocida como Internet, asegurando su actualización mensual.
 
-TRANSITORIOS (SIC)
+## TRANSITORIOS
 
 Artículo Único.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
@@ -862,3 +942,15 @@ EL C. SECRETARIO DE DESARROLLO ECONÓMICO
 ALEJANDRO ALBERTO CARLOS PAÉZ Y ARAGÓNE
 
 LA PRESENTE HOJA DE FIRMAS CORRESPONDE AL REGLAMENTO DE LA LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO EN EL ESTADO DE NUEVO LEÓN DE FECHA 04 DE OCTUBRE DE 2007.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 13 DE MARZO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las solicitudes de incentivos recibidas con anterioridad a la entrada en vigor del presente acuerdo serán atendidas conforme al Reglamento vigente al momento de su presentación.
