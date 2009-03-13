@@ -4,7 +4,7 @@ identifier: "COA-ley-de-la-comision-de-los-derechos-humanos-del-estado-de-56012"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-05"
-last_updated: "2007-12-28"
+last_updated: "2009-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2009.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 5 de junio de 2007.
 
@@ -411,15 +411,23 @@ III. Contar con buena reputación en la sociedad;
 
 IV. No haber sido condenado por delito doloso que amerite pena de prisión de más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, quedaría inhabilitado para el cargo cualquiera que haya sido la pena;
 
-V. Contar con título profesional de Licenciado en Derecho y acreditar un ejercicio profesional de cuando menos cinco años;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2009)</small>
+
+V. Contar con título y cédula profesional legalmente expedidos a nivel licenciatura, así como con amplio conocimiento en materia de derechos humanos;
 
 VI. No desempeñar, ni haber desempeñado, cargo de elección popular federal, estatal o municipal, durante el año anterior a su designación;
 
-VII. No desempeñar ningún cargo o comisión como servidor público;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2009)</small>
+
+VII. No desempeñar ningún cargo o comisión como servidor público, al momento de rendir protesta;
 
 VIII. No desempeñar, ni haber desempeñado, cargo de dirección nacional, estatal o municipal en algún partido político, nacional o estatal, durante el año anterior a su designación;
 
-IX. No ser Secretario de Estado, ni Procurador General de Justicia del Estado, Subsecretario o Director en la Administración Pública Federal, Estatal o Municipal, a menos que se separe de su encargo con un año de anticipación al día de su nombramiento;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2009)</small>
+
+IX. No ser Secretario o Subsecretario de la Administración Pública Estatal, debiendo separarse del cargo cuando menos 60 días antes a la fecha de designación.
+
+Asimismo, no ser funcionario público Federal, Estatal o Municipal con mando policial, debiendo separarse del cargo cuando menos 90 días antes a la fecha de la designación;
 
 X. Haber cumplido en todos sus términos, con el procedimiento de designación previsto en esta ley; y,
 
@@ -437,9 +445,13 @@ Para la designación del Presidente de la Comisión, el Gobernador del Estado re
 
 Quien haya sido designado como Presidente de la Comisión rendirá la protesta de ley ante el Pleno del Congreso, o en sus recesos, ante la Diputación Permanente.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2009)</small>
+
 ###### ARTÍCULO 35.
 
-Para determinar sobre la ratificación o no del Presidente y de los Consejeros de la Comisión, cuando proceda, la Junta de Gobierno, veinte días naturales anteriores a la fecha en que concluya el período, designará una comisión de diputados a efecto de que, con base en los informes que ante el Congreso hubiere presentado la Comisión, evalúe el ejercicio de su titular y de los Consejeros.
+Para determinar sobre la ratificación o no del Presidente y de los Consejeros de la Comisión, cuando proceda, el Pleno del Congreso o, en su caso, la Diputación Permanente, veinte días naturales anteriores a la fecha en que concluya el período, designará una comisión de diputados a efecto de que, con base en los informes que ante el Congreso hubiere presentado la Comisión, evalúe el ejercicio de su titular y de los Consejeros.
+
+El procedimiento de ratificación o no del Presidente y de los Consejeros de la Comisión procederá siempre y cuando lo solicite previamente el Gobernador del Estado. En caso de que este procedimiento no sea solicitado hasta un día antes de la fecha en que deba iniciar el mismo, se procederá al trámite de designación previsto en esta ley.
 
 ###### ARTÍCULO 36.
 
@@ -1516,3 +1528,11 @@ P.O. 28 DE DICIEMBRE DE 2007.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan al presente decreto.
+
+P.O. 13 DE MARZO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Los requisitos y el procedimiento para la designación de quien funja como Presidente de la Comisión de Derechos Humanos del Estado de Coahuila, se regirá conforme a lo dispuesto por el presente decreto.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
