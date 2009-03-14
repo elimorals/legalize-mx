@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-ordenamiento-sustentable-del-territorio-del-estado-48657
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-28"
-last_updated: "2005-12-28"
+last_updated: "2009-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48657&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE ORDENAMIENTO SUSTENTABLE DEL TERRITORIO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2009.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 28 de diciembre de 2005.
 
@@ -2131,7 +2131,9 @@ IV. Vías sub-colectoras y vías locales; y
 
 V. Vías peatonales.
 
-Ninguna vía podrá ser cerrada a la circulación general.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2009)</small>
+
+Ninguna vía podrá ser cerrada a la circulación general, salvo en el supuesto de los fraccionamientos industriales y como medida de seguridad quedará restringido el acceso al público en general, sin embargo las autoridades municipales, estatales y federales podrán acceder al fraccionamiento libremente.
 
 ###### Artículo 177.
 
@@ -2275,11 +2277,15 @@ Será nulo de pleno derecho cualquier acto, contrato o convenio contrario a esta
 
 Se entiende por fraccionamiento, toda división de un terreno en manzanas y lotes, que requieran la apertura de una o más vías públicas, así como la ejecución de obras de urbanización, que le permitan la dotación de infraestructura, equipamiento y servicios urbanos, de conformidad a la clasificación de fraccionamientos previstos en esta Ley.
 
-El fraccionador es responsable de prever, proveer o donar al municipio o a la comunidad las vías públicas y los espacios requeridos para los servicios de equipamiento urbano, así como ejecutar las obras necesarias para el saneamiento y las instalaciones o servicios públicos municipales de infraestructura;
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2009)</small>
 
-En ningún momento, el desarrollo de fraccionamientos promoverá e implantará la segregación social y espacial.
+El fraccionador es responsable de prever y proveer al municipio o a la comunidad las vías públicas y los espacios requeridos para los servicios y equipamiento urbano, así como ejecutar las obras necesarias para el saneamiento y las instalaciones o servicios públicos municipales e infraestructura.
 
-Queda prohibido interrumpir la continuidad de las vías públicas, mediante la construcción de bardas, cercas o instalación de plumas.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 14 DE MARZO DE 2009)</small>
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2009)</small>
+
+Queda prohibido interrumpir la continuidad de las vías mediante la construcción de bardas, cercas o instalación de plumas, salvo por seguridad de bienes o personas consideradas en el proyecto respectivo.
 
 ###### Artículo 195.
 
@@ -2318,6 +2324,10 @@ Para construir un fraccionamiento, será indispensable obtener la autorización 
 En ningún caso se admitirán solicitudes de proyectos que se ubiquen en áreas naturales protegidas, zonas arboladas y de valores naturales, zonas y monumentos del patrimonio cultural, ni cuando se afecten las medidas de los lotes tipo autorizados en la zona, el equilibrio de la densidad de población y de los coeficientes de construcción, así como la zonificación primaria y secundaria establecidas por los programas de desarrollo urbano.
 
 Queda prohibido el establecimiento de fraccionamientos en lugares no aptos para el desarrollo urbano, o en zonas insalubres, inundables o con pendientes mayores del quince por ciento a menos que se realicen las obras necesarias de saneamiento o protección, de regulación de la tenencia de la tierra, previa autorización y supervisión del Ayuntamiento o Concejo Municipal correspondiente.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2009)</small>
+
+En el caso de los fraccionamientos industriales se deberá incluir en el proyecto los requisitos y especificaciones que se prevén en la Norma Oficial Mexicana para Parques Industriales que al momento de la presentación de la solicitud de autorización esté en vigor.
 
 ###### Artículo 198.
 
@@ -2380,6 +2390,10 @@ VIII. Carta de aceptación de los Directores Responsables de Obras (D. R. O) y
 IX. Autorización en su caso, de la Comisión Nacional del Agua y del Ayuntamiento o Concejo Municipal correspondiente, respecto al aprovechamiento de la fuente de abastecimiento de agua potable.
 
 Cuando el Ayuntamiento o Concejo Municipal lo considere necesario, requerirá del interesado que acompañe la constancia judicial o administrativa de apeo o deslinde del predio que se pretendan fraccionar.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2009)</small>
+
+Cuando se trate de los fraccionamientos industriales deberá a estarse a lo que estipula el último párrafo del artículo 176 de la Ley.
 
 ###### Artículo 204.
 
@@ -3634,3 +3648,15 @@ GOBERNADOR DEL ESTADO DE TABASCO
 LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE MARZO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
