@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-los-municipios-del-estado-de-tabasco-35393"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-12-03"
-last_updated: "2008-12-24"
+last_updated: "2009-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2009.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de diciembre de 2003.
 
@@ -1171,7 +1171,9 @@ Las dependencias administrativas municipales que establece la presente Ley, no p
 
 El presidente municipal podrá crear, con la autorización del Ayuntamiento, las coordinaciones, los órganos administrativos desconcentrados, así como los organismos paramunicipales, tales como las empresas de participación municipal mayoritaria y los fideicomisos públicos; que sean necesarios para el desarrollo y la prestación de los servicios públicos.
 
-Los titulares de las dependencias, coordinaciones, organismos paramunicipales y demás a que se refiere el párrafo anterior, podrán ser nombrados y removidos libremente por el presidente municipal, con las excepciones contempladas en la presente Ley.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2009)</small>
+
+Los titulares de las dependencias, coordinaciones, organismos paramunicipales y demás a que se refiere el párrafo anterior, podrán ser nombrados y removidos libremente por el presidente municipal, con las excepciones contempladas en la presente Ley y en los respectivos acuerdos de creación, cuando se trate de la coordinación que en su caso apruebe el cabildo para atender y regular lo relacionado con los fraccionamientos industriales.
 
 El presidente municipal podrá establecer oficinas en las villas y poblados que estime conveniente, para que la ciudadanía pueda realizar gestiones en relación con los servicios públicos que presta el Ayuntamiento.
 
@@ -2313,9 +2315,11 @@ Los servicios públicos prestados directamente por el Ayuntamiento, serán admin
 
 Los ayuntamientos prestarán los servicios públicos a su cargo pero podrán concesionar los que no afectan la estructura y organización municipal, a personas físicas o jurídicas colectivas, prefiriendo en igualdad de circunstancias a vecinos del Municipio. Asimismo podrán celebrar contratos con particulares sobre administración de obras, así como sobre prestación de servicios públicos que generen ingresos. En este supuesto, sin perjuicio de lo previsto en esta Ley, aplicarán en lo conducente, las disposiciones previstas para las licitaciones públicas, debiendo además publicar en el Periódico Oficial del Estado, el acto administrativo por el que determinan la concesión o el contrato respectivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 2009)</small>
+
 ###### Artículo 130.
 
-Sólo con la aprobación de las dos terceras partes de los integrantes del Ayuntamiento, podrán ser objeto de contrato o concesión los servicios públicos municipales enumerados en esta Ley, que excedan del período constitucional; salvo los relativos a seguridad pública, tránsito, alumbrado público y calles, que en ningún caso serán objeto de dichos actos jurídicos.
+Sólo con la aprobación de las dos terceras partes de los integrantes del Ayuntamiento, podrán ser objeto de contrato o concesión los servicios públicos municipales enumerados en esta Ley, que excedan del período constitucional; salvo los relativos a seguridad pública, tránsito y alumbrado público, que en ningún caso serán objeto de dichos actos jurídicos.
 
 Los servicios públicos municipales concesionados o concertados mediante contrato a particulares se sujetarán a las disposiciones de esta Ley, las reglamentarias aplicables y las determinadas en la propia concesión.
 
@@ -3580,3 +3584,13 @@ Los Ayuntamientos de los Municipios del Estado, deberán realizar los ajustes ad
 P.O. 24 DE DICIEMBRE DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+P.O. 14 DE MARZO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
