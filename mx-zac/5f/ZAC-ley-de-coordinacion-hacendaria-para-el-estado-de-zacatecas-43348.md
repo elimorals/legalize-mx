@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-coordinacion-hacendaria-para-el-estado-de-zacatecas-4334
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-01"
-last_updated: "2005-01-01"
+last_updated: "2009-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43348&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE COORDINACION HACENDARIA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2009.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 1 de enero de 2005.
 
@@ -469,6 +469,10 @@ A los Municipios les será liquidado por la Secretaría en los primeros diez mes
 
 Los recursos que perciban los Municipios por concepto del Fondo, a que hace referencia el artículo anterior, se destinarán exclusivamente al financiamiento de obras y acciones sociales básicas y a las inversiones que beneficien directamente a sectores de su población que se encuentren en condiciones de rezago social y de pobreza extrema, en los siguientes rubros: agua potable, alcantarillado, drenaje y letrinas, urbanización municipal, electrificación rural y de colonias pobres, infraestructura básica de salud, infraestructura básica educativa, mejoramiento de vivienda, caminos rurales e infraestructura productiva rural.
 
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2009)</small>
+
+Sin perjuicio de lo dispuesto en el párrafo que antecede, los Municipios podrán, en el ámbito de su respectiva competencia, afectar los recursos provenientes de los fondos a que se refiere la fracción III del artículo 25 de la Ley de Coordinación Fiscal, con la finalidad de garantizar obligaciones en caso de incumplimiento o servir como fuente de pago de las mismas, siempre que hayan sido contraídas con la Federación o las instituciones de crédito que operen en el territorio nacional; con personas físicas o morales de nacionalidad mexicana y cuenten con autorización de la Legislatura del Estado y se inscriban ante la Secretaría de Hacienda y Crédito Público a través del Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios, así como en el Registro Estatal de Deuda Pública; cumpliendo además con los requisitos del articulo 59 de la Ley de Coordinación Fiscal.
+
 ###### Artículo 51.
 
 El fondo de aportaciones para la Infraestructura Social Municipal será distribuido entre los Municipios, considerando criterios de pobreza extrema, conforme a la fórmula y procedimientos que se establecen en el artículo 35 de la Ley de Coordinación.
@@ -476,6 +480,48 @@ El fondo de aportaciones para la Infraestructura Social Municipal será distribu
 ###### Artículo 52.
 
 A los Municipios les será liquidado mensualmente por la Secretaría en doce entregas iguales, el importe proveniente de la Recaudación Federal Participable por concepto del Fondo de Aportaciones para el Fortalecimiento Municipal que sea asignado en el Presupuesto de Egresos de la Federación para cada ejercicio fiscal, previo cumplimiento de los requisitos establecidos en las bases de coordinación que para ese efecto hayan sido convenidas las cuales estarán comprendidas en el documento denominado Lineamientos Generales de Operación del Ramo General 33.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2009)</small>
+
+En términos de lo dispuesto en el artículo 51 de la Ley de Coordinación Fiscal, los recursos que correspondan a los Municipios, pertenecientes al Fondo de Aportaciones a que se refiere el presente artículo, podrán retenerse por parte del Gobierno del Estado a través de la Secretaría de Finanzas, previa solicitud por escrito de la Comisión Nacional del Agua y después de acreditar fehacientemente los incumplimientos de cada Municipio, en calidad de garantía de pago de los adeudos ya sean derechos y/o aprovechamientos que por concepto de agua aquéllos tengan con la federación.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2009)</small>
+
+Los adeudos a los que se refiere el párrafo anterior, serán los que se generen a partir del ejercicio fiscal 2008 y los recursos que sean embargados necesariamente se aplicarán a los adeudos corrientes, es decir, no a adeudos históricos.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2009)</small>
+
+Los montos máximos de retención de los recursos embargables para cada Municipio serán los siguientes:
+
+- Para el ejercicio fiscal 2008 un 40%
+
+- Para el ejercicio fiscal 2009 un 55%
+
+- Para el ejercicio fiscal 2010 un 70%
+
+- Para el ejercicio fiscal 2011 un 85%
+
+- De2012 en adelante un 100%
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2009)</small>
+
+Para los efectos del párrafo segundo del presente artículo, la Comisión Estatal de Agua Potable y Alcantarillado entregará a la Comisión Nacional del Agua, dentro de los primeros diez días de cada mes, la relación de los volúmenes de agua que se entregaron a cada Municipio, así como la relación de los adeudos en los que incurra cada uno de ellos dentro de los primeros cinco días posteriores a la fecha de cobro correspondiente. En caso de que el Organismo Estatal no entregue esta relación, no podrán embargarse los recursos que correspondan a cada Municipio por concepto del Fondo de Aportaciones de que trata el presente artículo.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2009)</small>
+
+De acuerdo al artículo 51 de la Ley de Coordinación Fiscal, el Organismo Estatal de agua podrá ceder o transferir los recursos embargados a los Municipios a fideicomisos o a alguna otra figura jurídica constituida para financiar la construcción de infraestructura hidráulica.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2009)</small>
+
+La aplicación de este mecanismo de condonación se realizará conforme a la normatividad y las directrices que para su efecto emita el gobierno federal.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2009)</small>
+
+Los recursos que correspondan a los municipios, pertenecientes al Fondo de Aportaciones para el Fortalecimiento Municipal, podrán retenerse por parte del Gobierno del Estado a través de la Secretaria de Finanzas, previa solicitud por escrito de la Comisión Federal de Electricidad, después de acreditar fehacientemente los incumplimientos de cada municipio, en calidad de garantía de pago de los adeudos por concepto de suministro de energía eléctrica, para 10 cual la empresa paraestatal federal deberá de acreditar al Estado el documento en que conste el compromiso de pago y el incumplimiento por parte del municipio de que se trate.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2009)</small>
+
+Para los efectos de este artículo sólo podrá solicitarse la retención y pago señalados cuando el adeudo tenga una antigüedad mayor a 90 días naturales.
 
 ###### Artículo 53.
 
@@ -724,3 +770,13 @@ LIC. TOMAS TORRES MERCADO.
 EL SECRETARIO DE FINANZAS
 
 L.C. NICOLÁS CASTAÑEDA TEJEDA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE MARZO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Los pagos corrientes que se realicen de manera oportuna por parte de los municipios o sus organismos operadores, deberán acreditarse, por parte de la Comisión Federal de Electricidad, por el total del monto de dicho pago, contra los adeudos históricos que tengan con dicha empresa paraestatal en los términos de la Ley de Ingresos de la Federación. Para ello, los municipios deberán solicitar por escrito a la Comisión Federal de Electricidad su interés en participar en este mecanismo de condonación.
+
+TERCERO.- Los pagos corrientes que se realicen de manera oportuna por los municipios o sus organismos operadores, deberán acreditarse por parte de la Comisión Estatal de Agua Potable y Alcantarillado, por el total del monto de dicho pago, contra los adeudos históricos que tengan con el organismo estatal o con la Comisión Nacional del Agua. Para ello, los municipios deberán solicitar por escrito a la Comisión Nacional del Agua su interés en participar en este mecanismo de condonación. En dicho escrito deberá reconocer el monto de sus adeudos históricos.
