@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-tribunal-electoral-del-estado-de-tabasco-26867
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-11-29"
-last_updated: "2008-12-12"
+last_updated: "2009-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el viernes 29 de noviembre de 2002.
 
@@ -77,9 +77,17 @@ Constitución Local: La Constitución Política del Estado Libre y Soberano de T
 
 Instituto: El Instituto Electoral y de Participación Ciudadana de Tabasco.
 
-Juicio: El juicio para la protección de los derechos político-electorales de los ciudadanos.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2009)</small>
 
-Ley de Medios de Impugnación: Ley General del Sistema de Medios de Impugnación en Materia Electoral para el Estado de Tabasco.
+Juicio: El Juicio para la Protección de los Derechos Político-electorales del Ciudadano.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2009)</small>
+
+Ley Electoral: Ley Electoral del Estado de Tabasco.
+
+> <small>(REFORMADO [N. DE E., ADICIONADO], P.O. 14 DE MARZO DE 2009)</small>
+
+Ley de Medios de Impugnación: Ley de Medios de Impugnación en Materia Electoral del Estado de Tabasco.
 
 Ley Orgánica: Ley Orgánica del Tribunal Electoral de Tabasco.
 
@@ -87,13 +95,17 @@ Partidos Políticos: Los nacionales y locales, constituidos y registrados confor
 
 Tribunal: El Tribunal Electoral de Tabasco.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2009)</small>
+
 ###### Artículo 4.
 
-El Tribunal, es la máxima autoridad jurisdiccional en materia electoral en la entidad; es un órgano permanente, autónomo, dotado de personalidad jurídica y patrimonio propio, sujetará sus actos y resoluciones a lo establecido en la Constitución Federal, la Constitución local, la Ley de Medios de Impugnación, el Código, las particulares de esta Ley, y demás leyes aplicables.
+El Tribunal, es la máxima autoridad jurisdiccional en materia electoral en la entidad; es un órgano permanente, autónomo, dotado de personalidad jurídica y patrimonio propio, sujetará sus actos y resoluciones a lo establecido en la Constitución Federal, la Constitución local, la Ley de Medios de Impugnación, la Ley Electoral, esta Ley, y demás leyes aplicables.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2009)</small>
 
 ###### Artículo 5.
 
-El Tribunal, al resolver los asuntos de su competencia, garantizará que los actos y resoluciones electorales se sujeten al principio de legalidad.
+El Tribunal, al resolver los asuntos de su competencia, garantizará que los actos y resoluciones electorales se sujeten al principio de legalidad; podrá resolver la no aplicación de normas en materia electoral, que contravengan a la Constitución Local en cuyo caso, las resoluciones que se dicten en ejercicio de esta función se limitarán al caso concreto planteado en el juicio de que se trate.
 
 ###### Artículo 6.
 
@@ -105,15 +117,21 @@ El Tribunal funcionará siempre en Pleno; sus sesiones de resolución jurisdicci
 
 ### CAPÍTULO SEGUNDO. DE SU INTEGRACIÓN
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2009)</small>
+
 ###### Artículo 8.
 
-El Tribunal, se integrará con tres magistrados numerarios, designados de acuerdo al procedimiento establecido por el artículo 63 bis de la Constitución local. Durarán en su cargo 7 años, mismo que puede ser prorrogado por el Congreso del Estado, hasta por un período similar.
+El Tribunal se integrará con tres magistrados numerarios permanentes, y dos magistrados supernumerarios designados de acuerdo al procedimiento establecido por el artículo 63 bis de la Constitución local.
 
-De la misma forma, se designarán dos magistrados suplentes, quienes suplirán las ausencias temporales o definitivas de los propietarios.
+De la misma forma se designarán tres magistrados suplentes generales, quienes suplirán las ausencias temporales o definitivas de los propietarios y en su caso de los supernumerarios.
 
-Los Magistrados Electorales designados rendirán protesta ante el Congreso del Estado, en los términos que establece el artículo 58 de la Constitución local. El Secretario General de Acuerdos, los Jueces Instructores, los Actuarios y demás personal otorgarán la protesta ante el Pleno del Tribunal.
+Los magistrados supernumerarios sólo fungirán al inicio del proceso electoral hasta su conclusión, debiendo reintegrarse a las funciones que venían realizando en el Poder Judicial del Estado.
 
-Los Magistrados Electorales, una vez concluido el período de su nombramiento, deberán reintegrarse a las funciones que venían realizando en el Poder Judicial del Estado, salvo que el Congreso del Estado prorrogue su nombramiento en cuyo caso la reintegración se hará al concluir el período respectivo.
+Los Magistrados electorales designados rendirán protesta ante el Congreso del Estado, en los términos que establece el artículo 58 de la Constitución local. El Secretario General de Acuerdos, los Jueces Instructores, los Actuarios y demás personal otorgarán la protesta ante el Pleno del Tribunal.
+
+Los magistrados durarán en su cargo siete años, y podrán ser reelectos por un período más.
+
+Los magistrados, concluido el período de su nombramiento deberán reintegrarse a las funciones que venían realizando en el Poder Judicial del Estado.
 
 ###### Artículo 9.
 
@@ -169,7 +187,9 @@ III. Designar, a propuesta del Presidente del Tribunal, al Secretario General de
 
 IV. Aprobar y, en su caso, modificar el Reglamento Interior del Tribunal con base en el proyecto que le presente el Presidente del Tribunal ordenando su publicación en el Periódico Oficial del Estado;
 
-V. Nombrar, a propuesta del Presidente del Pleno, a los Jueces Instructores, Secretarios, Actuarios y al titular del Órgano de Control y Evaluación del Tribunal;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2009)</small>
+
+V. Nombrar, a propuesta del Presidente del Pleno, a los Jueces Instructores, Secretarios, Actuarios, al titular del Órgano de Control y Evaluación del Tribunal y al titular de la Unidad de Enlace y Acceso a la Información Pública;
 
 VI. Solicitar al Presidente del Tribunal, cuando proceda, la suspensión, remoción o cese de los servidores públicos a que hace mención la fracción inmediata anterior, del Secretario General de Acuerdos, así como del personal adscrito o que dependa directamente de la Presidencia del Tribunal;
 
@@ -185,13 +205,19 @@ X. Las demás que le confieran las leyes.
 
 El Pleno, en materia jurisdiccional, es competente para:
 
-I. Sustanciar y resolver en forma definitiva, los recursos a que se refiere la Ley de Medios de Impugnación, sometidos a su jurisdicción y competencia, así como proveer lo necesario para la ejecución de las resoluciones que pronuncie;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2009)</small>
 
-II. El juicio para la protección de los derechos político-electorales de los ciudadanos;
+I. Resolver en forma definitiva, los recursos y juicios a que se refiere la Ley de Medios de Impugnación, sometidos a su jurisdicción y competencia, así como proveer lo necesario para la ejecución de las resoluciones que pronuncie;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2009)</small>
+
+II. Aprobar previa propuesta del Presidente del Tribunal, la lista de Jueces Instructores para participar en la elección del magistrado numerario correspondiente;
 
 III. Resolver las impugnaciones que se presenten respecto de la celebración y resultados de los procesos de plebiscito, referéndum y de iniciativa popular, en términos de la ley de la materia;
 
-IV. Desechar, sobreseer, tener por no interpuestos, o por no presentados, cuando proceda, los recursos o los escritos de terceros interesados o de coadyuvantes;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2009)</small>
+
+IV. Desechar, sobreseer, tener por no interpuestos, o por no presentados, cuando proceda, los recursos, juicios o los escritos de terceros interesados o de coadyuvantes;
 
 V. Calificar y resolver sobre las excusas que presenten los Magistrados;
 
@@ -201,15 +227,19 @@ VII. Determinar la fecha y hora de sus sesiones;
 
 VIII. Establecer los criterios definidos conforme a lo establecido en la Ley de Medios (sic) Impugnación;
 
-IX. Determinar y, en su caso, aplicar las sanciones previstas en el Código y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2009)</small>
 
-X. Aplicar las medidas de apremio y correcciones disciplinarias para hacer cumplir sus determinaciones, en términos de esta Ley y demás disposiciones aplicables;
+IX. Determinar y, en su caso, aplicar las sanciones, las medidas de apremio y correcciones disciplinarias, previstas en la Ley Electoral, en esta ley y demás disposiciones aplicables;
+
+X. (DEROGADA, P.O. 14 DE MARZO DE 2009)
 
 XI. Acordar, a propuesta del Presidente, la continuación de la sesión en privado en los casos a que se refiere el artículo 18, fracción II, de esta Ley;
 
-XII. Resolver los conflictos laborales entre el Instituto Electoral y de Participación Ciudadana y sus servidores públicos; así como los que surjan entre el Tribunal Electoral y sus servidores públicos, en términos de las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2009)</small>
 
-XIII. Imponer sanciones derivadas de la comisión de infracciones a las leyes electorales, en términos de esta Ley y el Código; y
+XII. Resolver los Juicios para Dirimir los Conflictos o Diferencias Laborales entre el Instituto y sus servidores públicos; así como los que surjan entre el Tribunal y sus servidores públicos, en términos de las disposiciones aplicables;
+
+XIII. (DEROGADA, P.O 14 DE MARZO DE 2009)
 
 XIV. Las demás que le señale la Constitución Federal, la particular del Estado, esta Ley y las demás disposiciones aplicables.
 
@@ -225,7 +255,9 @@ II. Integrar el Pleno para resolver colegiadamente los asuntos de su competencia
 
 III. Formular los proyectos de resolución de los expedientes que les sean turnados para tal efecto;
 
-IV. Exponer en sesión, personalmente o por conducto de un Secretario, sus proyectos de resolución, señalando las consideraciones jurídicas y los preceptos en que se funden;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2009)</small>
+
+IV. Exponer en sesión, personalmente o a través de un Juez Instructor, sus proyectos de resolución, señalando las consideraciones jurídicas y los preceptos en que se funden;
 
 V. Discutir y votar los proyectos de resolución que sean sometidos a su consideración en las sesiones públicas;
 
@@ -249,9 +281,11 @@ Durante el tiempo que ejerzan las funciones de su cargo, los Magistrados no podr
 
 ### CAPÍTULO PRIMERO. DEL PRESIDENTE DEL TRIBUNAL
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2009)</small>
+
 ###### Artículo 17.
 
-El Presidente del Tribunal será electo por el Pleno en los términos del artículo 14 fracción I, de esta Ley y durará en el cargo un año, pudiendo ser reelecto.
+El Presidente del Tribunal será electo por el Pleno en los términos del artículo 13, fracción I, de esta Ley y durará en el cargo un año, pudiendo ser reelecto por una sola ocasión.
 
 ###### Artículo 18.
 
@@ -261,11 +295,17 @@ I. Representar al Tribunal, celebrar convenios, otorgar todo tipo de poderes y r
 
 II. Presidir y conducir las sesiones del Pleno, así como conservar el orden durante las mismas. Cuando los asistentes no guarden la compostura debida, podrá ordenar el desalojo de los presentes y proponer al Pleno la continuación de la sesión en privado;
 
-III. Proponer al Pleno el nombramiento del Secretario General de Acuerdos, de los Jueces, Instructores, Secretarios y Actuarios, que hayan aprobado los exámenes y satisfechos los demás requisitos exigidos, suscribiendo sus nombramientos, una vez aprobados;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2009)</small>
 
-IV. Designar al Secretario Administrativo, a los coordinadores y al demás personal del Tribunal;
+III. Proponer al Pleno el nombramiento del Secretario General de Acuerdos, Secretario Administrativo, Coordinadores, Jueces Instructores, Secretarios Proyectistas, Actuarios y demás personal, que hayan aprobado los exámenes y satisfacer los requisitos exigidos, suscribiendo sus nombramientos, una vez aprobados;
 
-V. Cubrir, a través de los suplentes, las ausencias temporales de los Magistrados por acuerdo del Pleno;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2009)</small>
+
+IV. Proponer al Pleno la lista de 5 Jueces Instructores del Tribunal y previa aprobación remitirla al Presidente del Tribunal Superior de Justicia, para integrarse a la lista que deberá remitir al Congreso del Estado para la elección del magistrado numerario correspondiente;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2009)</small>
+
+V. Proponer al Pleno el Magistrado suplente que cubrirá la ausencia temporal del Magistrado propietario;
 
 VI. Vigilar que se cumplan, según corresponda, las determinaciones del Pleno y de los Jueces Instructores;
 
@@ -303,7 +343,9 @@ XXII. Apercibir, amonestar, e imponer multas de diez a cien días, el importe de
 
 XXIII. Conocer de las responsabilidades de los servidores públicos del Tribunal, con excepción de los Magistrados, y aplicar las sanciones a que se refiere la presente Ley;
 
-XXIV. Las demás que señale esta Ley, el Código y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2009)</small>
+
+XXIV. Las demás que señale esta Ley, y demás disposiciones aplicables.
 
 ### CAPÍTULO SEGUNDO. DEL SECRETARIO GENERAL DE ACUERDOS DEL TRIBUNAL ELECTORAL
 
@@ -315,13 +357,17 @@ I. Apoyar al Presidente del Tribunal en las tareas que le encomiende;
 
 II. Dar cuenta, tomar las votaciones y formular el acta respectiva en las sesiones del Pleno;
 
-III. Llevar el control del turno de los Magistrados;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2009)</small>
+
+III. Llevar el control del turno de los Magistrados; y Jueces Instructores;
 
 IV. Llevar el registro de las sustituciones de los Magistrados;
 
 V. Supervisar el debido funcionamiento de la Oficialía de Partes del Tribunal;
 
-VI. Supervisar que se hagan en tiempo y forma las notificaciones del Pleno;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2009)</small>
+
+VI. Supervisar que se hagan en tiempo y forma las notificaciones de los acuerdos del Pleno, Presidente, Comisión Sustanciadora y de los Jueces Instructores;
 
 VII. Supervisar el debido funcionamiento de los archivos jurisdiccionales y en su momento, su concentración y preservación;
 
@@ -331,13 +377,17 @@ IX. Autorizar con su firma las actuaciones del Pleno;
 
 X. Llevar el registro de las tesis de jurisprudencia que se adopten;
 
-XI. Dar cuenta en las sesiones públicas con los expedientes que no sean de ponencia de los Magistrados;
+XI. (DEROGADA, P.O. 7 DE FEBRERO DE 2009)
 
-XII. Auxiliar en la revisión del engrose de las resoluciones aprobadas por el Pleno;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2009)</small>
+
+XII. Revisar los engroses de las resoluciones aprobadas por el Pleno;
 
 XIII. Remitir a los Jueces Instructores los recursos de apelación, el de inconformidad, los que deriven de los procesos de plebiscito, referéndum o de iniciativa popular y el juicio, de acuerdo con el turno que les corresponda, llevando el control respectivo; autorizando con su firma las actuaciones de los mismos;
 
-XIV. Coordinar, de conformidad con los lineamientos que dicte el Pleno a los Jueces Instructores;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2009)</small>
+
+XIV. Coordinar, de conformidad con los lineamientos que dicte el Pleno a los Jueces Instructores y a los Secretarios Proyectistas;
 
 XV. Expedir las certificaciones y constancias que se requieran; y
 
@@ -365,21 +415,33 @@ El Secretario General de Acuerdos, percibirá la remuneración prevista en el Pr
 
 ### CAPÍTULO TERCERO. DE LOS JUECES INSTRUCTORES
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2009)</small>
+
 ###### Artículo 21.
 
-El Pleno del Tribunal Electoral contará, en años no electorales hasta con tres Jueces Instructores, mismos que en los años electorales podrán aumentarse a juicio del Pleno, sin que puedan exceder de quince.
+El Pleno del Tribunal Electoral contará, en años no electorales con tres Jueces Instructores; en los años electorales deberán ser cinco, mismos que podrán aumentarse a juicio del Pleno, sin que puedan exceder de quince.
+
+Para integrar la lista a que se refiere la fracción IV del artículo 18 de esta Ley, se tomará preferentemente de los Jueces Instructores en funciones, en caso de no contar con el número suficiente, los que falten serán designados del personal que integre el servicio profesional de carrera, previo examen de selección que presenten ante el Pleno del Tribunal.
 
 ###### Artículo 22.
 
 Son atribuciones y obligaciones de los Jueces Instructores:
 
-I. Admitir los recursos de apelación, el de inconformidad, los que deriven de los procesos de plebiscito, referéndum o de iniciativa popular, y el juicio, así como los escritos de los coadyuvantes y de los terceros interesados, cuando cumplan con los requisitos establecidos en la Ley de Medios de Impugnación y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2009)</small>
 
-II. Someter al Pleno los acuerdos de desechamiento de los recursos y el juicio a que se refiere la fracción anterior, cuando, en los términos de esta Ley y demás disposiciones aplicables, sean notoriamente improcedentes o evidentemente insustanciales;
+I. Admitir los recursos de apelación, el de inconformidad, los que deriven de los procesos de plebiscito, referéndum o de iniciativa popular, y el Juicio, así como los escritos de los coadyuvantes y de los terceros interesados, cuando cumplan con los requisitos establecidos en la Ley de Medios de Impugnación y demás disposiciones aplicables;
 
-III. Someter a la consideración del Pleno el acuerdo de tener por no interpuestos los recursos de apelación, el de inconformidad, los que deriven de los procesos de plebiscito, referéndum o de iniciativa popular, y el juicio; así como por no presentados los escritos de los coadyuvantes y de los terceros interesados, cuando no reúnan los requisitos establecidos en la Ley de Medios de Impugnación y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2009)</small>
 
-IV. Someter al Pleno el acuerdo que ordene archivar como asunto total y definitivamente concluido, el recurso de inconformidad;
+II. Someter al Pleno el proyecto de sentencia por el que se desechen de plano los recursos y el juicio a que se refiere la fracción anterior, cuando, en los términos de esta Ley y demás disposiciones aplicables, sean notoriamente improcedentes o evidentemente insustanciales;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2009)</small>
+
+III. Someter a la consideración del Pleno el proyecto de sentencia de tener por no interpuestos los recursos de apelación, el de inconformidad, los que deriven de los procesos de plebiscito, referéndum o de iniciativa popular, y el Juicio; así como por no presentados los escritos de los coadyuvantes y de los terceros interesados, cuando no reúnan los requisitos establecidos en la Ley de Medios de Impugnación y demás disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2009)</small>
+
+IV. Dictar el acuerdo que ordene archivar como asunto total y definitivamente concluido, los recursos previstos en la Ley de Medios de Impugnación;
 
 V. Determinar y acordar, cuando proceda, la acumulación de los recursos y del juicio a que se refiere la fracción I de este artículo, así como determinar la procedencia de la conexidad de la causa de acuerdo con lo dispuesto por la Ley de Medios de Impugnación y demás disposiciones aplicables;
 
@@ -387,7 +449,9 @@ VI. Formular los requerimientos necesarios para la sustanciación de los expedie
 
 VII. Girar exhortos a los juzgados estatales encomendándoles la realización de alguna diligencia o en el ámbito de su competencia, efectuar por sí mismos las que deban practicarse fuera de las oficinas del Juzgado;
 
-VIII. Desempeñar las demás tareas que le encomienden el Presidente y los Magistrados del Tribunal, en el ámbito de su competencia, para la buena marcha y funcionamiento del mismo; y
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2009)</small>
+
+VIII. Desempeñar las demás tareas que le encomienden el Presidente, Magistrados y Secretario General de Acuerdos del Tribunal, en el ámbito de su competencia, para la buena marcha y funcionamiento del mismo; y
 
 IX. Las que le confieren las demás leyes aplicables.
 
@@ -427,9 +491,11 @@ VI. No haber sido condenado por delito con sanción privativa de libertad mayor 
 
 VII. Las demás que el Pleno determine.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 2009)</small>
+
 ###### Artículo 27.
 
-Los actuarios deberán satisfacer los requisitos señalados en el artículo anterior, con excepción de la fracción III, que puede ser sustituida por carta de pasante.
+Los actuarios deberán satisfacer los requisitos señalados en el artículo anterior, con excepción de la fracción II que deberá contar por lo menos con veintiún años al momento de la designación, y fracción III, que puede ser sustituida por carta de pasante.
 
 Los demás servidores públicos del Tribunal deberán reunir los requisitos que se indiquen en el Reglamento Interior del Tribunal y los que el Pleno determine.
 
@@ -557,7 +623,9 @@ a) Las renuncias solamente procederán por causas graves y serán comunicadas po
 
 b) Las ausencias temporales que no excedan de un mes serán cubiertas por acuerdo del Pleno, por el magistrado suplente de que se trate;
 
-c) Las ausencias por defunción o por cualquier otra causa de separación definitiva serán cubiertas por el Congreso del Estado o la Comisión Permanente, con la elección en términos legales, de un nuevo magistrado electoral; y
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2009)</small>
+
+c) Las vacantes definitivas serán cubiertas por el Congreso del Estado o la Comisión Permanente, con la designación de un nuevo magistrado que saldrá de los magistrados suplentes, cuyo nombramiento durará el tiempo restante de la vacante correspondiente;
 
 d) Ninguna licencia podrá exceder del término de un año durante la vigencia del nombramiento.
 
@@ -595,9 +663,11 @@ Las responsabilidades de todos los miembros del Tribunal, se regirán por lo est
 
 Los Magistrados del Tribunal sólo podrán ser removidos de sus cargos en los términos de los artículos 68 y 69 de la Constitución local.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2009)</small>
+
 ###### Artículo 42.
 
-Los Magistrados Electorales, el Secretario General de Acuerdos, los Jueces Instructores, Secretarios proyectistas, Actuarios, Coordinadores, secretarios particulares y los demás servidores públicos que el Pleno determine, en los términos de la Ley de Responsabilidades de los Servidores Públicos, cumplirán sus obligaciones respecto a la declaración de situación patrimonial, presentándola ante la Contraloría Interna del Tribunal, quien a su vez lo hará del conocimiento del Órgano Superior de Fiscalización del Congreso, en términos de lo señalado en la ley mencionada.
+Los Magistrados Electorales, el Secretario General de Acuerdos, los Jueces Instructores, Secretarios proyectistas, Actuarios, Secretario Administrativo, Coordinadores, secretarios particulares y los demás servidores públicos que el Pleno determine, en los términos de la Ley de Responsabilidades de los Servidores Públicos, cumplirán sus obligaciones respecto a la declaración de situación patrimonial, presentándola ante la Contraloría Interna del Tribunal, quien a su vez lo hará del conocimiento del Órgano Superior de Fiscalización del Congreso, en términos de lo señalado en la ley mencionada.
 
 ###### Artículo 43.
 
@@ -781,85 +851,75 @@ Cuando se presenten quejas o denuncias en contra del titular de la Contraloría 
 
 De igual manera, en caso de impedimento legal o ausencia del titular de la Contraloría Interna, el Presidente del Tribunal, será competente en lo que corresponda para investigar, tramitar, sustanciar y resolver los procedimientos y recursos correspondientes.
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 14 DE MARZO DE 2009)</small>
 
-## TÍTULO SEXTO. DE LAS CONTROVERSIAS LABORALES
+## TÍTULO SEXTO. DEL SERVICIO PROFESIONAL DE CARRERA
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE MARZO DE 2009)</small>
 
-### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
+### CAPÍTULO PRIMERO. GENERALIDADES
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2009)</small>
 
 ###### Artículo 57.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
+El Servicio Profesional de Carrera, es un sistema institucional para el ingreso, formación y permanencia de los servidores públicos del Tribunal y de quienes aspiren a pertenecer a este.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2009)</small>
 
 ###### Artículo 58.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
+El Servicio comprende el proceso de reclutamiento, selección, incorporación, designación, capacitación, actualización, formación, evaluación y promoción, el cual tendrá como principios rectores: la excelencia, el profesionalismo, la objetividad, la imparcialidad, la equidad, la independencia y la antigüedad.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2009)</small>
 
 ###### Artículo 59.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
+El Servicio se organizará y desarrollará a través de la Coordinación de Capacitación, Investigación, Documentación y Difusión, de conformidad con las disposiciones de esta ley, del Reglamento, así como de los acuerdos y demás disposiciones que emitan el Pleno y el Presidente en el ámbito de su respectiva competencia.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2009)</small>
 
 ###### Artículo 60.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
+El Servicio estará integrado por los cargos o funciones establecidos por la estructura orgánica del Tribunal, aprobada por el Pleno.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2009)</small>
 
 ###### Artículo 61.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
+El Tribunal, promoverá el Servicio a través de la celebración de convenios con Instituciones Académicas, Universidades, Organismos Electorales Federales, Estatales o Municipales, éstos tendrán por objeto la realización de estudios de posgrado, congresos, simposium, diplomados, seminarios, cursos de capacitación y de práctica judicial y fomentará todas aquellas acciones que puedan contribuir a la formación de servidores públicos honestos y capaces.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2009)</small>
 
 ###### Artículo 62.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
+El aspirante que se incorpore a cualquiera de los cargos o funciones de la estructura orgánica del Tribunal, entregará a la Secretaría Administrativa, dentro del plazo de quince días hábiles contados a partir de la fecha de su nombramiento, copia certificada de los documentos que acrediten los requisitos exigidos por esta Ley y el Reglamento Interior del Tribunal, así como los contenidos en el Estatuto, con objeto de integrar el expediente personal.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2009)</small>
 
 ###### Artículo 63.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
+Para efectos del Servicio, la antigüedad del servidor público del Tribunal, se computará a partir de la fecha de su incorporación al mismo.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)</small>
-
-### CAPÍTULO SEGUNDO. DE LA SUSTANCIACIÓN
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2009)</small>
 
 ###### Artículo 64.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
+La antigüedad de los servidores públicos del Tribunal, que hayan sido contratados en plazas de adscripción temporal, se tomará en cuenta para el otorgamiento de la permanencia, siempre que la designación se haga en una plaza vacante adscrita de manera definitiva al Tribunal.
+
+No se considerará plaza vacante aquella en la cual exista una persona con derechos sobre la misma, en razón de licencia o comisión que se encuentre vigente, ni tampoco las que se encuentren autorizadas por el Tribunal por tiempo determinado, para la atención de cargas extraordinarias de trabajo.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2009)</small>
 
 ###### Artículo 65.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
+Las categorías de los servidores públicos del Tribunal, son independientes de los cargos o funciones de la estructura orgánica del Tribunal, aprobadas por el Pleno.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2009)</small>
 
 ###### Artículo 66.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
-
-###### Artículo 67.
-
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
-
-###### Artículo 68.
-
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
-
-###### Artículo 69.
-
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
-
-###### Artículo 70.
-
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
-
-###### Artículo 71.
-
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
-
-###### Artículo 72.
-
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
-
-###### Artículo 73.
-
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
+Los servidores públicos del Tribunal, serán dados de baja del Servicio, cuando incurran en faltas graves a las disposiciones establecidas en esta Ley, el Reglamento Interior del Tribunal y el Estatuto.
 
 ## TRANSITORIOS
 
@@ -926,3 +986,17 @@ Se derogan las disposiciones relativas a la controversia laboral prevista en la 
 ###### ARTÍCULO TERCERO.
 
 Los casos radicados en el Tribunal Electoral antes de la entrada en vigor de este Decreto serán sustanciados y resueltos por la misma conforme a las normas vigentes al momento de su interposición.
+
+P.O. 14 DE MARZO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Pleno del Tribunal Electoral de Tabasco, deberá aprobar su nuevo Reglamento Interior a más tardar a los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
