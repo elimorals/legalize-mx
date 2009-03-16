@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-jesus-maria-aguascalientes-22849"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-24"
-last_updated: "2009-01-05"
+last_updated: "2009-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE JESUS MARIA, AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 2009.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de diciembre de 2001.
 
@@ -944,15 +944,17 @@ de Construcción; y
 
 d).- Departamento de Ecología y Medio Ambiente.
 
-XII.- DIRECCIÓN DE OBRAS PÚBLICAS
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2009)</small>
 
-a).- Departamento de Proyectos, Costos y
+XII.- DIRECCIÓN DE OBRAS PÚBLICAS.
 
-Licitaciones;
+a).- Subdirección de Obras Públicas;
 
-b).- Departamento de Construcción y Conservación; y
+b).- Departamento de Proyectos, Costos y Licitaciones;
 
-c).- Departamento de Supervisión y Control de Calidad.
+c).- Departamento de Construcción y Conservación; y
+
+d).- Departamento de Supervisión y Control de Calidad.
 
 XIII.- DIRECCION DE DESARROLLO HUMANO Y SOCIAL
 
@@ -1001,6 +1003,16 @@ f).- Departamento de Atención a las Personas de la Senectud; y
 g).- Departamento de Desarrollo Infantil.
 
 XVII.- CRONISTA DEL MUNICIPIO.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2009)</small>
+
+XVIII.- DIRECCION DE ECOLOGIA Y DESARROLLO SUSTENTABLE.
+
+a).- Departamento Operativo Técnico;
+
+b).- Departamento de Gestión Ambiental; y
+
+c).- Departamento de Cultura Ambiental.
 
 > <small>(ADICIONADO, P.O. 17 DE MARZO DE 2003)</small>
 
@@ -1666,6 +1678,8 @@ El Ayuntamiento podrá convenir con los Ayuntamientos de cualesquiera de los mun
 
 En el caso de que desaparezca la necesidad de coordinación o colaboración para la prestación de un servicio público, el Ayuntamiento podrá dar por terminado el convenio a que se refiere el Artículo 150 o convenir la remunicipalización del servicio público en cuestión.
 
+> <small>N. DE E. DE CONFORMIDAD CON LA REFORMA AL CODIGO, PUBLICADA EN EL P.O. DE 16 DE MARZO DE 2009, EL PRESENTE CAPITULO ES MODIFICADO EN CUANTO A SU ESTRUCTURA, QUEDANDO INTEGRADO DE LA SIGUIENTE FORMA.</small>
+
 ### CAPITULO PRIMERO. De las Bebidas Alcohólicas
 
 ###### ARTICULO 153.
@@ -1676,263 +1690,219 @@ Para efectos de este ordenamiento, se consideran bebidas alcohólicas los líqui
 
 Sólo podrán venderse al público bebidas alcohólicas en los establecimientos y locales que el Ayuntamiento autorice, previa licencia de venta expedida y de funcionamiento del establecimiento o local emitidas por la Presidencia Municipal, así como la correspondiente licencia sanitaria expedida por la Dirección de Salud, además de la licencia de uso de suelo.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 155.
 
-La expedición de la licencia para el funcionamiento de un establecimiento o local corresponde a la Presidencia Municipal previa aprobación del cabildo.
+Para el otorgamiento de las licencias a que se refiere este ordenamiento, los interesados deberán presentar solicitud por escrito, dirigida al Secretario del Ayuntamiento y Director de Gobernación, con los anexos correspondientes, y en la que se refiera lo siguiente:
+
+I.- Nombre, nacionalidad, domicilio y registro federal de contribuyentes del solicitante. Si se trata de no nacional, este deberá comprobar su legal residencia en el país, y que además está autorizado, por la autoridad federal competente, para dedicarse a la actividad que propone. Si se trata de persona moral, su representante legal acompañara copia del testimonio notarial, debidamente certificada, para el efecto de acreditar debidamente su personalidad;
+
+II.- Domicilio que se propone para la ubicación del giro correspondiente a desarrollar;
+
+III.- Clase de giro, nombre o denominación del mismo;
+
+IV.- Autorización sanitaria y autorización de uso de suelo, a nombre del solicitante, expedidas por las autoridades competentes; y
+
+V.- El titulo de propiedad del inmueble donde pretende ubicarse el giro, o copia del contrato que corresponda, con el que se acredite el derecho de uso y goce de aquel, por el solicitante.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 156.
 
-Para el otorgamiento de las licencias a que se refiere este ordenamiento, los interesados deberán presentar solicitud por escrito ante la autoridad municipal, cumpliendo con las disposiciones siguientes:
+Recibida la solicitud de licencia, con los anexos necesarios y cumpliendo con la totalidad de los requisitos a que se refiere el articulo anterior, la autoridad municipal ordenará, que en un plazo no mayor de cinco días hábiles, se realicen visitas por el personal autorizado de las áreas de seguridad y protección civil, para verificar que efectivamente el establecimiento o local propuestos, reúne las condiciones físicas manifestadas en la solicitud respectiva. Realizado lo anterior y sin que exista impedimento alguno para su funcionamiento, se canalizará la solicitud al Cabildo del Ayuntamiento, en un plazo no mayor de 10 días hábiles, para que se decida sobre su autorización final. Aprobada que sea, se expedirá la licencia, previo el pago de los derechos correspondientes, a nombre del solicitante, la cual tendrá una vigencia por el año fiscal que corresponde, haciendo los ajustes de cobro necesarios, en relación con la fecha de expedición.
 
-I.- Nombre, domicilio, registro federal de contribuyentes y nacionalidad. Si es extranjero deberá renunciar a la protección de las leyes de su país, deberá comprobar además que está autorizado por la Secretaría de Gobernación para dedicarse a la actividad respectiva, renunciar a la ley de su país. Si se trata de persona moral, su representante legal acompañará copia del testimonio debidamente certificado, de la escritura constitutiva con la que acreditará la personalidad con que se ostenta.
-
-II.- Ubicación del local donde pretende establecerse.
-
-III.- Clase de giro o giros, nombre y denominación del mismo;
-
-IV.- Autorización sanitaria y uso de suelo;
-
-V.- El título de propiedad del inmueble o copia del contrato con el que se acredite el derecho de uso y goce del mismo.
-
-VI.- La licencia para la venta en caso de solicitar la renovación.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 157.
 
-Recibida la solicitud de licencia que cumpla con los requisitos a que se refiere el artículo anterior, la autoridad municipal deberá proceder en un plazo máximo de 15 días hábiles y previo el pago de los derechos correspondientes, a expedir la licencia respectiva. La autoridad municipal podrá dentro del plazo señalado, realizar visitas para verificar que el establecimiento o local reúna las condiciones manifestadas en la solicitud respectiva.
+En el caso de que la solicitud no se acompañe con todos los documentos descritos, ni se satisfagan los requisitos a que se refiere el artículo 155 de este ordenamiento; o que de la visita a que se refiere el articulo anterior, resulte que no se cumplieron las condiciones manifestadas en la solicitud, la autoridad municipal concederá un plazo de cinco días naturales para que los interesados subsanen tales omisiones. En caso de no hacerlo, se tendrá como no presentada la solicitud, lo que no impide su posterior trámite.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 158.
 
-En el caso de que la solicitud no cuente con todos los documentos, ni se satisfagan todos los requisitos a que se refiere el Artículo 156 de este ordenamiento; o que de la visita a que se refiere el artículo anterior, resulte que no se cumplieron las condiciones manifestadas en la solicitud, la autoridad municipal concederá un plazo de cinco días naturales para que los interesados cumplan con los mismos. En caso contrario, se tendrá como no presentada la solicitud y el pago de los derechos quedarán a favor del erario municipal.
+Las licencias deberán revalidarse dentro de los primeros sesenta días naturales del año que corresponda por el titular de la misma, mediante solicitud que por escrito formule a la Oficina encargada del Control de Licencias. Una vez analizada tal petición, se ordenará su revalidación, si no existen violaciones graves al ordenamiento municipal de parte del interesado, debidamente documentadas por la autoridad reglamentaria correspondiente, y que hayan ocurrido durante el año anterior de vigencia. En caso de autorización de revalidación, se ordenará se haga el pago de los derechos correspondientes por el interesado, para que continué en vigencia tal licencia por el término del año fiscal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 159.
 
-Las licencias deberán revalidarse durante los meses de enero y febrero de cada año; para ese efecto los interesados deberán presentar la solicitud acompañada de la licencia original y dos copias de las mismas.
+Si concluida la vigencia de la licencia o de su revalidación, el interesado no formula petición de revalidación dentro del término señalado, concluido éste, la autoridad municipal requerirá por escrito al titular de la licencia, para que manifieste si es su deseo o no, que siga surtiendo sus efectos o los de su revalidación. En caso afirmativo, se estará a lo ordenado en el artículo anterior. Si no hay respuesta en el término que se le fije para el efecto, o ésta es en el sentido de no querer seguir operando la licencia, se procederá a su cancelación definitiva y se ordenará la clausura del local, o de la actividad no renovada.
 
-Durante los trámites de revalidación, deberá quedar copia de la licencia en el establecimiento o local correspondiente, así como comprobante de la solicitud de revalidación.
-
-> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2007)</small>
-
-Las licencias que están operando y que no hayan sido revalidadas en el plazo señalado no podrán seguir operando, y para el caso de que la licencia no se haya revalidado en dos años consecutivos será cancelada de oficio a manera definitiva del padrón que se lleva al efecto en la dirección de finanzas.
-
-> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2007)</small>
-
-Para el caso de las licencias que no estén operando no se pagará resello, siempre y cuando el titular de la misma dé aviso por escrito a la Dirección de Finanzas dentro del plazo de revalidación, para lo cual deberá de rendirse una “TARJETA INFORMATIVA” por parte del Departamento de Reglamentos a fin de que resuelva dicha dirección sobre el particular.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 160.
 
-Una vez recibida la solicitud a que se refiere el artículo anterior, la autoridad municipal en un plazo no mayor de diez días autorizará la revalidación solicitada; siempre y cuando las condiciones en las que fue otorgada no hayan cambiado.
-
-###### ARTICULO 161.
-
-En el caso de traspaso, se autorizará éste, siempre y cuando no contravengan lo establecido en el Artículo 193 de este ordenamiento.
+Toda licencia que se expida, será de carácter estrictamente personal, intransferible, inalienable e inembargable, por lo que en consecuencia, se encuentra prohibido su traspaso o cesión a terceras personas. Si el titular de la licencia, decide no obstante cederla o traspasarla a terceras personas, tal acto no obliga a la autoridad municipal para tener como titular de aquella al adquirente de tal licencia.
 
 APARTADO PRIMERO
 
 DE LOS ESTABLECIMIENTOS PARA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
 
-###### ARTICULO 162.
+###### ARTICULO 161.
 
 Los lugares destinados a la venta y consumo de bebidas alcohólicas se clasifican en:
 
-I.- Establecimientos destinados específicamente a la venta y consumo de bebidas alcohólicas: bares, cervecerías, centros nocturnos, salones familiares y merenderos.
+A).- Establecimientos para venta de bebidas alcohólicas en envase cerrado: Depósitos, Expendios, Abarrotes, supermercados y Minisupers;
 
-II.- Establecimientos en que en forma accesoria se pueden vender v consumir bebidas alcohólicas: restaurantes, centros turísticos, hoteles, moteles, baños públicos, centros sociales, discotecas, cenadurías, marisquerías, billares.
+B).- Establecimientos para venta y consumo de bebidas alcohólicas: Cervecerías, Bares o Cantinas, Merenderos y Centros Nocturnos;
 
-III.- Lugares donde se puede autorizar la venta y consumo de bebidas alcohólicas en forma eventual y transitoria: kermesses, ferias, espectáculos, bailes públicos, salones de banquetes y fiestas públicas.
+C).- Establecimientos en los que en forma accesoria se puede establecer la venta y consumo de bebidas alcohólicas: Restaurantes, Centros Turísticos, Centros Sociales y Billares; y
 
-IV.- Establecimientos en donde pueden venderse bebidas alcohólicas sólo en envase cerrado: depósitos, expendios, tiendas de abarrotes, minisuper, supermercados, misceláneas, vinaterías y tienda de conveniencia.
+D).- Establecimientos en donde se puede autorizar la venta y consumo de bebidas alcohólicas, en forma eventual y transitoria: Ferias, Espectáculos Artísticos y/o Deportivos, Bailes Públicos y Salones de Fiestas.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
+
+###### ARTICULO 162.
+
+Atendiendo a sus características, categoría y a los servicios que presten los establecimientos destinados a la venta y consumo de bebidas alcohólicas, sólo podrán funcionar en los días y horarios que se establecen en el presente Código.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 163.
 
-Las bebidas alcohólicas sólo podrán expenderse al público y consumirse en establecimientos y lugares autorizados para tal fin.
+Los establecimientos destinados a la venta y consumo de bebidas alcohólicas, deberán contar con las instalaciones adecuadas para tal efecto, con servicios sanitarios, higiénicos e independientes para ambos sexos, con los utensilios suficientes para sus servicios, así como contar con las correspondientes vías de acceso, estacionamientos y salidas de emergencia, y solo con el personal suficiente, debidamente identificado, para atender las necesidades del establecimiento.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 164.
 
-El Ayuntamiento podrá permitir el funcionamiento de nuevos establecimientos para la venta y consumo de bebidas alcohólicas, a aquellos que por su ubicación y características puedan ser considerados como centros turísticos, siempre y cuando cumplan con los requisitos a que se refiere el Artículo 156 de este ordenamiento.
+Las obligaciones de los titulares de las licencias de los establecimientos destinados a la venta y consumo de bebidas alcohólicas, o de sus encargados o empleados, son:
 
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+a).- Mostrar la licencia correspondiente a los verificadores, cuando sean requeridos legalmente para ello, así como tenerla a la vista del público;
 
-El H. Cabildo mediante declaratoria que se publique en el Periódico Oficial del Gobierno del Estado, puede decretar el establecimiento de zonas comerciales, y que consistirán en lugares determinados en los cuáles para el fomento de la actividad comercial, se eximirá del cumplimiento del Artículo 193 de este ordenamiento.
+b).- Retirar a las personas que se encuentren en evidente estado de ebriedad, dentro o fuera del establecimiento, y que estén provocando escándalo. En caso necesario, podrán solicitar el auxilio de la fuerza pública;
+
+c).- Pagar los impuestos, derechos y contribuciones que les corresponden, respecto del giro autorizado, dentro de los plazos establecidos en la norma aplicable;
+
+d).- Contar con su reglamento interior de trabajo;
+
+e).- Exhibir, en lugar visible al público, y con caracteres legibles, la lista de los precios autorizados que correspondan a cada uno de los productos que expendan, o de los servicios que proporcionen; y
+
+f).- Impedir que en sus establecimientos se manifiesten conductas tendientes a la realización de actividades propias de la mendicidad y de la prostitución.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 165.
 
-Atendiendo a sus características, categoría y a los servicios que presten los establecimientos destinados a la venta y consumo en los mismos de bebidas alcohólicas, sólo podrán funcionar cumpliendo escrupulosamente con los días y horarios que establece el presente Código.
+A los titulares de las licencias de los establecimientos destinados a la verita y consumo de bebidas alcohólicas, o a sus encargados o empleados, se les prohíbe lo siguiente:
+
+a).- Realizar la venta de las bebidas alcohólicas, fuera del local o establecimiento autorizado para el efecto;
+
+b).- Permitir la entrada a los locales o establecimientos autorizados, a personas en evidente estado de ebriedad;
+
+c).- Realizar la venta y permitir el consumo de bebidas alcohólicas a personas que se encuentren en evidente estado de ebriedad, o a personas menores de 18 anos de edad;
+
+d).- Permitir la realización de juegos prohibidos, o que se crucen apuestas, en los establecimientos a su cargo;
+
+e).- Obsequiar o realizar la venta de bebidas alcohólicas a personas con uniforme oficial, o a los verificadores del área de reglamentos;
+
+f).- Usar para promoción de sus establecimientos, al interior o fuera de los mismos, de nombres, retratos o logotipos relativos a personas, instituciones o valores nacionales, sin autorización del titular del derecho, así como todo tipo de imágenes que atenten contra el orden social, la moral y las buenas costumbres;
+
+g).- Ocupar para la atención de los consumidores, a personas menores de 18 años de edad;
+
+h).- El realizar la proyección de películas o reproducciones de discos, casetes, o cintas grabadas, que atenten contra las instituciones y valores nacionales, así como el orden social, la moral y las buenas costumbres;
+
+i).- Permitir que los consumidores en sus establecimientos, permanezcan en su interior, después de la hora señalada para su cierre;
+
+j).- Realizar la venta de bebidas en envases abiertos, vasos o copas, o permitir el consumo en el interior de sus establecimientos, si solo se cuenta con licencia para la venta de bebidas alcohólicas en envase cerrado;
+
+k).- Que el personal que labora en el establecimiento, vista en forma adecuada y de acuerdo a la actividad que realizan; y
+
+l).- Permitir a cualquier persona que se encuentre dentro de los establecimientos, a realizar actos de carácter obsceno, o que con ellos se atente contra la moral y buenas costumbres.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 166.
 
-Los establecimientos en donde se venden bebidas alcohólicas, que tengan la licencia correspondiente, deberán contar con las instalaciones adecuadas para tal efecto, así como servicios sanitarios, higiénicos e independientes para ambos sexos, cocinas, mantelería y utensilios suficientes para sus servicios, así como contar con salida de emergencia.
+En ningún caso se permitirá que los empleados de los establecimientos, alternen y se sienten a consumir con los clientes o consumidores, en las mesas o lugares interiores. Para el efecto, el encargado del establecimiento informará por escrito a la autoridad municipal, los nombres del total de los empleados que tenga a su cargo, sus funciones a desarrollar o actividades, así como los horarios de su entrada y salida.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 167.
 
-Todo cambio de propietario o de reubicación de un establecimiento de los que señala el presente ordenamiento deberá ser comunicado a la Presidencia Municipal en un plazo de ocho a quince días, previo a la fecha en que pretenda realizarse, a efecto de recabar la autorización que según el caso pudiera proceder, previo cumplimiento de los requisitos de ley. Para el caso de cambio de propietario se tomará en cuenta la solvencia moral del adquirente.
+Queda a su vez prohibida, la existencia en los establecimientos, de botellas cuyo contenido original haya sido adulterado.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 168.
 
-Las obligaciones de los dueños, encargados y empleados de los establecimientos donde se expenden bebidas alcohólicas son:
+Queda prohibida también la venta y consumo de bebidas alcohólicas, en planteles o instituciones educativas, templos, cementerios, circos y centros de trabajo.
 
-a).- Mostrar la licencia a los inspectores, cuando sean requeridos para ello, así como tenerla a la vista del público.
-
-b). Retirar a las personas que se encuentren en estado de ebriedad dentro o fuera del establecimiento y que no guarden compostura; en caso necesario se podrá solicitar el auxilio de la fuerza pública.
-
-c).- Impedir los escándalos en el interior del establecimiento.
-
-d).- Pagar las contribuciones correspondientes dentro del plazo que exige la ley.
-
-e).- Contar con licencia sanitaria vigente.
-
-f).- Contar con su reglamento interior de trabajo.
-
-g).- Exhibir en lugar visible al público y con carácter legible la lista de precios autorizados correspondientes a cada uno de los productos que expendan o servicios que proporcionen, así como exhibir a los clientes la carta que contenga la lista de todas las bebidas y/o alimentos que expendan con sus respectivos precios; y
-
-h).- Prohibir en sus establecimientos las conductas que tiendan a la mendicidad y a la prostitución.
-
-APARTADO SEGUNDO
-
-DE LAS CANTINAS, BARES, CERVECERIAS, RESTAURANTE, RESTAURANT-BAR
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 169.
 
-Bar es todo establecimiento dedicado específicamente a la venta y consumo de bebidas alcohólicas incluyendo botanas, en ellas podrán también expenderse bebidas no embriagantes, tabaco, refrescos, cerillos, sandwiches, tortas, tacos y similares.
+Todos los establecimientos autorizados para la venta y consumo de bebidas alcohólicas, deberán operar en una distancia que sea mayor a los 150 metros, de donde se encuentra ubicada una escuela, templo, centro deportivo, centro de trabajo o farmacia; así como lugares de reunión para niños y jóvenes.
 
-El bar funcionará con un horario de 8:00 a.m. a 23:00 p.m.
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE MARZO DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+APARTADO SEGUNDO
+
+CLASIFICACION
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 170.
 
-En los Bares se podrá:
+Cervecería es el establecimiento en el que, de manera exclusiva se vende cerveza envasada o de barril, para su consumo inmediato, venta que podrá incluir botanas o alimentos similares.
 
-a).- Permitir la entrada a personas mayores de edad;
-
-b).- Jugar ajedrez, damas, dominó y cubilete, sin apuestas; e
-
-c).- Instalar aparatos de radio, televisión, fono electromecánicos y similares, siempre que funcionen a un volumen de sonido moderado, que no constituyan molestias para el vecindario y que cumplan las disposiciones que establezcan las leyes y reglamentos que norman el funcionamiento de aparatos de sonido, estando a su elección el libre trabajo a los trovadores y músicos que cuenten con el permiso correspondiente.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 171.
 
-Se entiende por bar, el lugar en que expenden bebidas alcohólicas en botella o en copas, de cualquier graduación, acompañadas de botanas, sin la venta de alimentos.
+Bar o Cantina es todo establecimiento dedicado a la venta y consumo de bebidas alcohólicas incluyendo botanas y alimentos similares, y en el que podrán también venderse bebidas no embriagantes, sin venta de alimentos. Se podrá además en su interior, jugar ajedrez, damas, dominó o cubilete, sin apuestas; y se autoriza la instalación de aparatos de radio, televisión, reproductores de sonido y similares, siempre que funcionen a volumen moderado, que no constituyan molestias para el vecindario y que cumplan las disposiciones que establezcan las leyes y reglamentos que norman el funcionamiento de aparatos de sonido, estando a su elección el libre trabajo de trovadores y músicos, que cuenten con los permisos correspondientes.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 172.
 
-En los hoteles podrán funcionar bares dependientes de la administración, previas licencias estatal y municipal, y dentro de los horarios que se señalen a éstos establecimientos.
+Merendero es todo establecimiento destinado a la venta y consumo de bebidas alcohólicas, que incluye botanas y alimentos similares, y en el que podrán también venderse bebidas no embriagantes, sin venta de alimentos, y a los que podrán ingresar personas menores de 18 años de edad, en compañía de sus familiares mayores de edad, estando a su elección el libre trabajo de trovadores y músicos, que cuenten con los permisos correspondientes.
 
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-Se entiende por Hotel el edificio acondicionado para albergar a las personas temporalmente y en los que se proveen a los huéspedes de servicios adicionales tales como: Restaurant-bar y Bar previas licencias estatal y municipal.
-
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-El hotel funcionará con un horario de veinticuatro horas, pero el horario de venta y consumo de bebidas alcohólicas en el Restaurant-bar y Bar será de las 11:00 a.m. a 23:00 p.m.
-
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-Motel es un alojamiento turístico, caracterizado por estar próximo a carreteras y ofrecer alojamiento y garaje o aparcamiento independiente para estancias de corta duración y en los cuales se proveen a los huéspedes de servicios adicionales tales como Bar.
-
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-El motel funcionará con un horario de veinticuatro horas, pero el horario de venta y consumo de bebidas alcohólicas en el Restaurant-bar y Bar será de las 12:00 horas a las 23:00 p.m.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 173.
 
-Cervecería es el establecimiento en el que de manera exclusiva se vende cerveza envasada o de barril para su consumo inmediato, la que podrá estar acompañada de botanas.
+Centro Nocturno es todo establecimiento destinado a la venta y consumo de bebidas alcohólicas, que pueden contar con algún espectáculo o variedad, donde existe un espacio para que los asistentes puedan bailar, y exista música de manera permanente, sea grabada o a cargo de grupo, conjunto y orquesta.
 
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-El horario de servicio será de las 14:00 p.m. a 21:00 p.m.
-
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-###### ARTICULO 173 Bis.
-
-Restaurant-Bar es todo establecimiento público donde se vende comida y bebida, para ser consumidos en el mismo local, con un horario de 09:00 a.m. a 23:00 p.m.
-
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-###### ARTICULO 173 Ter.
-
-Merendero es todo establecimiento destinado de manera primordial a la venta y consumo de bebidas al capeo y que de manera secundaria ofrecen al público comida y/o botana s preparadas con un horario de las 12:00 horas a a.m. a 01 :00 a.m.
-
-APARTADO TERCERO
-
-DE LOS SALONES FAMILIARES, CENTROS NOCTURNOS Y CABARETS
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 174.
 
-Se entiende por salón familiar el establecimiento en el que se ingieran bebidas alcohólicas en botella o en copas, de cualquier graduación, acompañadas de botanas y/o con alimentos o antojitos regionales, donde las personas adultas pueden concurrir acompañados de sus familiares, incluyendo menores de edad, los cuales solamente podrán consumir alimentos y bebidas no alcohólicas. Estos establecimientos deberán tener una área para el esparcimiento de los menores de edad.
+Restaurante es todo establecimiento donde se vende cualquier clase de alimento y bebidas alcohólicas, para ser consumidos en el mismo local, y se autoriza en ellos la instalación de aparatos de radio, televisión, reproductores de sonido y similares, siempre que funcionen a volumen moderado, que no constituyan molestias para el vecindario y que cumplan las disposiciones que establezcan las leyes y reglamentos que norman el funcionamiento de aparatos de sonido, estando a su elección el libre trabajo de trovadores y músicos, que cuenten con los permisos correspondientes.
 
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-El horario de servicio será de las 14:00 p.m. a 1:00 a.m.
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 175.
 
-Se entiende por centro nocturno el local para diversión que reúna las condiciones siguientes: Que expendan bebidas alcohólicas en botella o en copas, cuenten con conjunto musical u orquesta permanente, o algún espectáculo de los denominados variedad y espacio para que bailen los concurrentes, pudiendo contar con servicio de restaurante.
+Centro Turístico es aquel establecimiento ubicado en lugares que, por su belleza natural, adaptaciones arquitectónicas, tradición, folklore, decorado y otras circunstancias semejantes, constituyen sitios de esparcimiento y atracción para turistas, en el que se podrán vender alimentos típicos regionales, acompañados con cerveza, vino de mesa y bebidas alcohólicas.
 
-Se prohíbe a cualquier persona dentro del establecimiento realizar actos obscenos que atenten en contra de la moral y las buenas costumbres, tales como realizar bailes o danzas eróticas, bailes de barra, baile privado, tocamientos físicos, luchas de barro, camisetas mojadas u otros similares o análogos, desnudarse o semidesnudarse. El centro nocturno funcionará con un horario de 20:00 p.m. a las 01:00 a.m.
+> <small>(REFORMADO [N. DE E. ADICIONADO] Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 176.
 
-(DEROGADO, P.O. 19 DE NOVIEMBRE DE 2007)
+Centro Social es aquél establecimiento que opera o se sostiene con la cooperación de las cuotas de sus socios, y funciona para su recreación y la de sus invitados, y en donde se pueden consumir bebidas alcohólicas y alimentos.
 
-APARTADO CUARTO
-
-DELOS (SIC) RESTAURANTES, FONDAS, LONCHERIAS Y COCTELERIAS
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 177.
 
-En los restaurantes, restaurant-bar y marisquerías, previa autorización podrán consumirse cervezas, vinos de mesa y licores con alimento, en un horario de las 13:00 p.m. a las 23:00 p.m.
+Salones de Fiestas son aquellos lugares donde se celebran festividades de orden privado, y en los que se podrán consumir bebidas alcohólicas, previa autorización y vigilancia de la autoridad municipal, y que pueden instalarse en forma independiente, en hoteles o centros sociales.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 178.
 
-Todos los establecimientos enumerados en el artículo anterior y que cuenten con licencias para vender bebidas alcohólicas, sólo podrán hacerlo cuando el servicio se preste con alimentos; no se consideran como alimentos las botanas, antojitos o golosinas que sirvan con la bebida.
+En los hoteles podrán funcionar bares o cantinas dependientes de la administración, sin que varíen los requisitos para su funcionamiento. En los moteles, además de ofrecer alojamiento y garaje, para estancias de corta duración, se proveerá a los huéspedes de los servicios adicionales venta de bebidas alcohólicas, durante el momento de la estancia.
 
-APARTADO QUINTO
-
-DE LOS CENTROS TURISTICOS, CENTROS SOCIALES Y DISCOTECAS
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 179.
 
-Son centros turísticos aquellos establecimientos ubicados en los lugares que por su belleza natural, adaptaciones arquitectónicas, tradición, folklore, decorado y otras circunstancias semejantes, constituyen sitios de esparcimiento y atracción para turistas, y a juicio de la autoridad municipal podrán vender alimentos típicos regionales, acompañados con cervezas, vinos de mesa y bebidas alcohólicas, previo cumplimiento de los requisitos.
-
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-El horario de servicio será de las 9:00 a.m. a 23:00 p.m.
-
-###### ARTICULO 180.
-
-Se entienden por centros sociales, círculos o clubes de servicio u otros lugares similares, aquellos establecimientos que se sostienen con la cooperación de sus socios y funcionan para su recreación.
-
-En estos lugares podrán autorizarse el funcionamiento de un espacio o local en donde se expendan y consuman bebidas alcohólicas en botella o en copas, siempre que este servicio se preste únicamente a los socios y a sus invitados dentro de los días y horarios que fije el Ayuntamiento.
-
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-El horario de servicio será de las 10:00 a.m. a 22:00 p.m.
-
-###### ARTICULO 181.
-
-Discoteca es el establecimiento donde se ofrece al público diversión mediante música grabada, con ambientación de luces y otros decorados de corte moderno, donde eventualmente se podrá utilizar música viva, debiendo contar con pista de baile y que en forma accesoria pueda vender y consumir bebidas alcohólicas.
-
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-El horario de servicio será de las 20:00 p.m. a 1:00 a.m., cuando cuenten con autorización para vender bebidas alcohólicas; y de 17:00 p.m. a 24:00 p.m., cuando no cuenten con autorización para vender bebidas alcohólicas.
-
-APARTADO SEXTO
-
-KERMESSES, FERIAS Y BAILES PUBLICOS
-
-###### ARTICULO 182.
-
-En las kermesses, ferias y bailes públicos, previo permiso del Municipio, se podrá permitir la venta y consumo de bebidas alcohólicas, para tal efecto, el interesado deberá presentar cuando menos con quince días hábiles anteriores a la fecha de la celebración, solicitud por escrito que contendrá los requisitos siguientes:
+En ferias, Espectáculos Artísticos, Bailes Públicos, Espectáculos Deportivos y Salones de Fiestas, se podrá permitir la venta y consumo de bebidas alcohólicas, previo permiso de la autoridad municipal. Para tal efecto, el interesado deberá presentar, cuando menos con 15 días hábiles anteriores a la fecha de la celebración, solicitud por escrito, al Secretario del Ayuntamiento y Director de Gobernación, que contendrá lo siguiente:
 
 I.- Nombre y firma del organizador responsable;
 
@@ -1940,103 +1910,101 @@ II.- Clase de festividad;
 
 III.- Ubicación del lugar donde se realizará el evento;
 
-IV.- Fecha de iniciación, terminación y horario del mismo;
+IV.- Fecha de realización; y
 
-V.- Permiso del Municipio.
+V.- Horario de inicio y terminación del evento.
 
-APARTADO SEPTIMO
+La autoridad municipal, expedirá el acuerdo correspondiente 5 días hábiles antes de la fecha en que pretenda realizarse el evento.
 
-SALONES DE BANQUETES, SALAS O SALONES DE FIESTAS ANEXAS A HOTELES Y CENTROS SOCIALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE MARZO DE 2009)</small>
+
+APARTADO TERCERO
+
+HORARIOS
+
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
+
+###### ARTICULO 180.
+
+Las ferias, espectáculos artísticos, bailes públicos, espectáculos deportivos y salones de fiestas, se sujetarán al horario que autorice la autoridad municipal, en cada caso.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
+
+###### ARTICULO 181.
+
+Los Abarrotes y similares con Venta de Cerveza, Vinos y Licores, tendrán un horario de 09:00 a 22:00 Horas.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
+
+###### ARTICULO 182.
+
+Los Depósitos o Expendios de Cerveza tendrán un horario de las 10:00 a las 22:00 Horas.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 183.
 
-En los salones de banquetes y salas de fiestas anexas a hoteles, centros sociales u otro tipo de establecimiento, cuando en el mismo se celebren festividades públicas o privadas, con el ánimo de lucro o beneficencia podrá permitirse la venta y consumo de bebidas alcohólicas reuniendo los requisitos señalados en el Artículo 182 de este ordenamiento. Cuando en estos establecimientos se realicen festividades o celebraciones privadas, podrá permitirse el consumo que gratuitamente se proporciona a los invitados de bebidas alcohólicas.
+Los Expendios de Vinos y Licores tendrán un horario de 09:00 a 22:00 Horas.
 
-APARTADO OCTAVO
-
-ESTABLECIMIENTOS EN DONDE PUEDEN VENDERSE BEBIDAS ALCOHOLICAS EN ENVASE CERRADO
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 184.
 
-La venta de bebidas alcohólicas en botella, o en envase cerrado podrá ser realizada por: depósitos de cerveza, expendios de vinos y licores, tiendas de abarrotes, tiendas de conveniencia, que cuenten con licencia de funcionamiento municipal, así como la correspondiente licencia sanitaria, expedida por la Dirección de Salud: así mismo la constancia que autorice el uso de suelo. Queda prohibido a estos establecimientos la venta de bebidas alcohólicas a los menores de 18 años de edad, así como la ingesta de bebidas alcohólicas dentro de los lugares señalados por este artículo, ni en un radio de 30 metros a la redonda. El horario de venta de bebidas alcohólicas será de 9:00 a.m. a 21 :00 p.m.
+Los Billares con venta de cerveza tendrán un horario de las 10:00 a las 24:00 Horas.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 185.
 
-Queda estrictamente prohibido a todas las empresas y establecimientos que cuenten con licencia o permiso para vender bebidas alcohólicas lo siguiente:
+Las Cervecerías tendrán un horario de las 10:00 a las 22:00 Horas.
 
-a).- Utilizar en su nombre o razón social términos en idioma extranjero tales como: grin, pub, ladies, etc.
-
-b.- Vender licores fuera del establecimiento autorizado;
-
-c).- Permitir la entrada a personas en estado de embriaguez;
-
-d).- Vender vinos y licores a personas que se encuentren en estado de embriaguez o menores de edad.
-
-e).- Permitir juegos prohibidos en su establecimiento o que se crucen apuestas.
-
-f).- Obsequiar o vender vinos y licores a personas con uniforme oficial o a los inspectores del ramo.
-
-g).- Usar para promoción en interiores o exteriores nombres, retratos o logotipos de personas, instituciones o valores nacionales sin autorización del titular del derecho, así como todo tipo de imágenes que atenten contra la moral y las buenas costumbres.
-
-h).- Ocupar para la atención de los clientes, menores de edad.
-
-i).- La proyección de películas, así como reproducciones de discos, casetes, o cintas grabadas que atenten contra las instituciones y valores nacionales, así como el orden, la moral y las buenas costumbres.
-
-j).- Permitir que los concurrentes a los establecimientos donde se vendan bebidas alcohólicas, permanezcan en su interior después de la hora señalada para el cierre.
-
-k).- Expender bebidas en envases abiertos, vasos o copas, o permitir el consumo en su interior, a los establecimientos con licencia para vender bebidas alcohólicas en envase cerrado.
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-L) (sic).- Que las personas que atiendan al público vistan en tal forma que atenten contra la moral.
-
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-LL).- Permitir a cualquier persona que se encuentre dentro del establecimiento, a realizar actos obscenos o que atenten contra la moral y buenas costumbres, tales como realizar bailes o danzas impúdicas o tocamientos físicos, luchas de barro y/o camisetas mojadas u otras de similitud, y de igual manera no se deberá permitir desnudarse o semidesnudarse a toda persona en general.
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 186.
 
-Queda estrictamente prohibido la entrada a bares y centros nocturnos a menores de dieciocho años de edad, y la venta y consumo de bebidas alcohólicas a los mismos en restaurantes, marisquerías y similares. También queda prohibida la entrada a menores a discotecas en las que se expendan bebidas embriagantes.
+Las Cantinas o Bares tendrán un horario de las 10:00 a las 24:00 Horas.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 187.
 
-En ningún caso se permitirá que los empleados alternen y se sienten a consumir con los clientes en las mesas o lugares interiores de los establecimientos. Así mismo se prohíbe que estos o clientes del lugar lleven a cabo bailes eróticos, bailes de mesa, baile de barra, baile privado u otros análogos que atenten en contra de la moral o las buenas costumbres.
+Los Merenderos tendrán un horario de las 12:00 a las 24:00 Horas.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 188.
 
-Queda estrictamente prohibida la venta y consumo de bebidas alcohólicas a menores de edad en los giros autorizados conforme a este Código.
+El Centro Nocturno tendrá un horario de las 21:00 a las 02:00 Horas.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 189.
 
-En los bares, centros nocturnos, discotecas, cervecerías y marisquerías se prohíbe dar un uso distinto a los reservados o locales interiores con adaptaciones de mesas, sillas y aire acondicionado aparentemente independiente, pero comunicados con el salón principal.
+El Restaurante tendrá un horario de las 07:00 a las 24:00 Horas.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 190.
 
-Queda prohibida la existencia en el establecimiento de botellas que representen huellas de violación, así como adulteraciones en su contenido original.
+El Centro Turístico tendrá un horario de las 09:00 a las 22:00 Horas.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 191.
 
-No se permitirá la venta de vinos, licores y cervezas sin el consumo de alimentos en los casos que así lo establece este Código.
+El Centro Social tendrá un horario de las 14:00 a las 24:00 Horas.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 192.
 
-Queda prohibida la venta y consumo de cervezas, y bebidas alcohólicas en los planteles educativos, templos, cementerios, carpas, circos, cinematógrafos y centros de trabajo.
+El Secretario del Ayuntamiento y Director General de Gobierno, podrá autorizar la ampliación de horario en fechas conmemorativas o celebraciones especiales, hasta por dos horas más, previo pago de los derechos correspondientes.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 193.
 
-Todos los establecimientos que expendan bebidas alcohólicas y que están comprendidos en este Código deberán operar en un radio de acción que supere los ciento cincuenta metros de distancia de escuelas, templos, casa de asilo, centros deportivos, centros de trabajo, farmacias y zonas residenciales, colonias proletarias y otros lugares de reunión para niños y jóvenes, tampoco se autorizara traspasos dentro de las limitaciones marcadas anteriormente aún cuando se invoquen causas de fuerza mayor; esta disposición es aplicable para la apertura de nuevos establecimientos.
-
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+La venta de bebidas alcohólicas en los lugares autorizados para el efecto, se suspenderá los días y horas que así lo establezca la autoridad municipal, lo que se comunicará con anticipación por los medios de comunicación.
 
 ###### ARTICULO 193 Bis.
 
@@ -2044,17 +2012,11 @@ Queda estrictamente prohibido la autorización de centros o conjunto de establec
 
 ###### ARTICULO 194.
 
-Se prohíbe a los propietarios; administradores o dependientes de los establecimientos mercantiles con licencia para la venta de bebidas alcohólicas en envase cerrado:
-
-I. Expender bebidas alcohólicas al copeo o permitir su consumo dentro del local.
-
-II. Permitir que los clientes permanezcan en el interior de los locales después del horario autorizado, así como expender bebidas alcohólicas a puerta cerrada o a través de la ventanilla; y
-
-III. Expender bebidas alcohólicas a menores de edad o a personas en estado de ebriedad evidente.
+(DEROGADO, P.O. 16 DE MARZO DE 2009)
 
 ###### ARTICULO 195.
 
-Las Quermeses, ferias, bailes públicos, espectáculos, salones de banquetes, salas de fiestas anexas a hoteles a centros sociales y similares, se sujetarán al horario que autorice la Presidencia Municipal en cada caso.
+(DEROGADO, P.O. 16 DE MARZO DE 2009)
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -2064,13 +2026,15 @@ La Secretaria del H. Ayuntamiento y Dirección General de Gobierno podrá autori
 
 ###### ARTICULO 196.
 
-La venta de bebidas alcohólicas se suspenderá los días que así lo establezca la autoridad municipal. Se consideran días de cierre obligatorio los de las actividades electorales y aquellos días y horarios que en forma especial determinen las autoridades.
+(DEROGADO, P.O. 16 DE MARZO DE 2009)
 
 ###### ARTICULO 197.
 
-Los establecimientos a los que no se hubiere señalado horario en el presente ordenamiento, por no estar considerada su existencia a la fecha de su expedición, se regirán por los horarios y los días que se establezcan en la licencia que autorice su funcionamiento, pero en todo caso, estarán en el presupuesto del Artículo 195 de este Código.
+(DEROGADO, P.O. 16 DE MARZO DE 2009)
 
 ### CAPITULO SEGUNDO. De las Prohibiciones
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 198.
 
@@ -2263,8 +2227,6 @@ Los introductores y matanceros deben colaborar con la administración de acuerdo
 Queda estrictamente prohibida la matanza de animales en casas o domicilios particulares cuando las carnes sean destinadas al consumo público; si la carne y demás productos se destinan al consumo familiar, el Ayuntamiento concederá permiso para el sacrificio del ganado menor a domicilio, dicho permiso será concedido bajo la condición de que el animal y sus carnes sean inspeccionadas por dicha autoridad.
 
 ### CAPITULO TERCERO. De los Horarios
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 221.
 
@@ -5218,7 +5180,7 @@ Los promotores voluntarios de educación vial, serán auxiliares de tránsito pa
 
 ###### ARTICULO 585.
 
-Los conductores de transporte escolar cuando se detengan en la vía pública para el asenso (sic) y descenso de los escolares, deberán poner en funcionamiento las luces intermitentes de advertencia de la operación.
+Los conductores de transporte escolar cuando se detengan en la vía pública para el asenso y descenso de los escolares, deberán poner en funcionamiento las luces intermitentes de advertencia de la operación.
 
 ###### ARTICULO 586.
 
@@ -5604,7 +5566,7 @@ IV.- Cuando resulten personas fallecidas no se deberán mover los cuerpos, ni el
 
 V.- Colocar señalamientos preventivos para evitar otro accidente;
 
-VI.- Cooperar con el representante de la autoridad con los informes, que solicité y con el retiro del los (sic) vehículo accidentados, si se encuentran en condiciones físicas para ello; y
+VI.- Cooperar con el representante de la autoridad con los informes, que solicité y con el retiro del los vehículo accidentados, si se encuentran en condiciones físicas para ello; y
 
 VII.- Solicitar el auxilio de conductores de otros vehículos y peatones que circulen por el lugar del accidente. La responsabilidad civil de los involucrados será independientemente de la responsabilidad penal que pudiera resultar.
 
@@ -14427,5 +14389,25 @@ SEGUNDO.- Las reformas aprobadas, entrarán en vigor al día siguiente de su pub
 P.O. 5 DE ENERO DE 2009.
 
 ....
+
+SEGUNDO.- Las reformas aprobadas, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE MARZO DE 2009.
+
+SE REFORMAN Y DEROGAN DIVERSOS ARTICULOS DEL CODIGO MUNICIPAL DE JESUS MARIA, AGUASCALIENTES.
+
+...
+
+TERCERO.- Las presentes reformas entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+CUARTO.- La autoridad municipal cuenta con un término de 120 días, contados a partir de la entrada en vigencia de las presentes reformas, para que proceda a la regularización de la totalidad de las licencias expedidas para la autorización de la venta y consumo de bebidas alcohólicas, rindiendo al H. Cabildo, informe pormenorizado del resultado de aquella, para emitir los acuerdos e instrucciones a que haya lugar.
+
+QUINTO.- El H. Cabildo, y una vez que se tenga el resultado del procedimiento de regularización ordenado en el punto anterior, procederá a instalar, en un término no mayor de 30 días, el Consejo Municipal de Giros Restringidos sobre Venta y Consumo de Bebidas Alcohólicas, previsto en la Ley que regula la Venta y consumo de Bebidas Alcohólicas en el Estado de Aguascalientes, para que asuma las funciones previstas en tal norma.
+
+P.O. 16 DE MARZO DE 2009.
+
+SE REFORMA EL ARTICULO 96 DEL CODIGO MUNICIPAL JESUS MARIA, AGUASCALIENTES.
+
+...
 
 SEGUNDO.- Las reformas aprobadas, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
