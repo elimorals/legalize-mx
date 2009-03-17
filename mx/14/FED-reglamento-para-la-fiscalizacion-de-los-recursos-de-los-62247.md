@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-fiscalizacion-de-los-recursos-de-los-62247"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-19"
-last_updated: "2008-08-19"
+last_updated: "2009-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62247&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-07-10"
 
 REGLAMENTO PARA LA FISCALIZACION DE LOS RECURSOS DE LOS PARTIDOS POLITICOS NACIONALES QUE FORMEN COALICIONES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MARZO DE 2009.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 19 de agosto de 2008.
 
@@ -159,7 +159,9 @@ m) Salario mínimo: Salario mínimo general vigente en el Distrito Federal.
 
 1.5 Para el manejo de los recursos destinados a sufragar los gastos que se efectúen en las campañas políticas de una coalición para la fórmula de candidatos a Senadores de la República por el principio de mayoría relativa, deberá abrirse una cuenta bancaria única para cada campaña, la cual se identificará como CBSR-(siglas de la coalición)-(número)-(estado).
 
-1.6 En el caso de las campañas políticas para Diputados Federales por el principio de mayoría relativa de una coalición, deberán abrirse cuentas bancarias para efectuar las erogaciones cuando la suma de recursos en efectivo que la coalición haya asignado para efectuar tales gastos de campaña, más la suma de recursos que el candidato haya recibido conforme al artículo 1.10 del Reglamento, rebase el monto equivalente a un cinco por ciento del tope de gastos de campaña que haya establecido el Consejo para esa elección. La Unidad de Fiscalización realizará los cálculos correspondientes, los notificará por oficio a las coaliciones y a los partidos, y ordenará su publicación en el Diario Oficial, dentro de los quince días siguientes a aquél en que el Consejo fije el tope de gasto de campaña. Estas cuentas se identificarán como CBDMR-(siglas de la coalición)-(distrito)-(estado). En todo caso, deberá respetarse lo establecido en el artículo 3.3 del presente Reglamento.
+> <small>(REFORMADO, D.O.F. 17 DE MARZO DE 2009)</small>
+
+1.6 En el caso de las campañas políticas para Diputados Federales por el principio de mayoría relativa de una coalición, deberán abrir cuentas bancarias únicas para cada campaña. Estas cuentas se identificarán como CBDMR-(siglas de la coalición)-(distrito)-(estado). En todo caso, deberá respetarse lo establecido en el artículo 3.3 del presente Reglamento.
 
 1.7 Las cuentas bancarias a que se refiere el presente artículo deberán abrirse a nombre del Partido que conforme al convenio de coalición respectivo sea designado como responsable del manejo de los recursos, de conformidad con el artículo 3.1, inciso b), del Reglamento, y serán manejadas mancomunadamente por las personas que designe cada candidato y que autorice el órgano de finanzas de la coalición. Los estados de cuenta respectivos deberán conciliarse mensualmente y remitirse a la autoridad electoral cuando lo solicite. La Unidad de Fiscalización podrá requerir al partido responsable del órgano de finanzas de la coalición que presente los documentos que respalden los movimientos bancarios que se deriven de sus estados de cuenta. En cualquier caso, las fichas de depósito con sello del banco en original o las copias de los comprobantes impresos de las transferencias electrónicas con el número de autorización emitido por el banco deberán conservarse anexas a los recibos expedidos por el partido y a las pólizas de ingresos correspondientes, observando los requisitos previstos en los artículos 1.8 y 1.9 del Reglamento de Partidos.
 
@@ -179,7 +181,15 @@ Ingresos y Generalidades
 
 2.2 Para documentar las cuotas voluntarias y personales que los candidatos podrán aportar exclusivamente para sus campañas, deberá extenderse un recibo que cumpliendo con las reglas establecidas en los artículos 3.5, 3.10, 3.11 y 3.12 del Reglamento de Partidos, y según el formato "RM-COA" que se incluye en el presente Reglamento.
 
-2.3 Los ingresos obtenidos mediante colectas realizadas en mítines o en la vía pública para sufragar los gastos de la coalición deberán contabilizarse y registrarse en un control por separado para cada una de las colectas que se realicen. En todo caso este tipo de ingresos deberá sujetarse a lo establecido en el artículo 5.2 del Reglamento de Partidos.
+> <small>(REFORMADO, D.O.F. 17 DE MARZO DE 2009)</small>
+
+2.3 Los ingresos obtenidos mediante colectas realizadas en mítines o en la vía pública para sufragar los gastos de la coalición deberán contabilizarse y registrarse en un control por separado para cada una de las colectas que se realicen. En los informes preliminares que se refiere el artículo 83, párrafo 1, inciso d), fracción II, del Código Federal de Instituciones y Procedimientos Electorales, se adicionará un reporte sobre las actividades a realizarse para obtener ingresos por colectas públicas durante el resto de la campaña. En todo caso este tipo de ingresos deberá sujetarse a lo establecido en el artículo 5.2 del Reglamento de Partidos.
+
+En lo relativo al autofinanciamiento, en el caso de los espectáculos y eventos culturales, las coaliciones notificarán a la Unidad de Fiscalización sobre su celebración con al menos setenta y dos horas de anticipación. En estos dos casos, la Unidad podrá designar auditores para el efecto de que asistan a los mismos, con el objeto de llevar a cabo una visita de verificación, para la cual se deberá establecer y comunicar los propósitos de la misma. Sobre el documento que establezca dichos propósitos, se remitirá copia a la coalición.
+
+En todo caso, las coaliciones entregarán a la Unidad de Fiscalización los elementos de convicción sobre la legalidad del espectáculo o evento cultural referido.
+
+Los ingresos por autofinanciamiento estarán apoyados en un control por cada evento, que deberá precisar la naturaleza, la fecha en que se realice, así como contener número consecutivo, tipo de evento, forma de administrarlo, fuente de ingresos, control de folios, números y fechas de las autorizaciones legales para su celebración, modo de pago y su estimación, importe total de los ingresos brutos obtenidos, importe desglosado de los gastos, ingreso neto y, en su caso, la pérdida obtenida, y nombre y firma del responsable por cada evento. Este control pasará a formar parte del sustento documental del registro del ingreso del evento.
 
 2.4 Se consideran ingresos por rendimientos financieros aquéllos a los que hace referencia el artículo 7.2 del Reglamento de Partidos. Estos ingresos estarán sustentados con los estados de cuenta que les remitan las instituciones bancarias.
 
@@ -193,7 +203,9 @@ Gastos y Generalidades
 
 3.1 Para el manejo de sus recursos, las coaliciones podrán:
 
-a) Constituir un gastos (sic), cumpliendo con las siguientes reglas:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MARZO DE 2009)</small>
+
+a) Constituir un fideicomiso, cumpliendo con las siguientes reglas:
 
 I. Los partidos integrantes de la coalición, en su calidad de fideicomitentes, convendrán en destinar parte de su patrimonio, en la proporción señalada al efecto en el convenio de coalición, para sufragar los gastos que hayan de ser utilizados en determinadas campañas electorales, encomendando a una institución fiduciaria que administre, custodie y entregue al órgano de finanzas de la coalición, y a sus candidatos, los recursos necesarios para realizar las erogaciones correspondientes, de acuerdo con las instrucciones que le gire el comité técnico que al efecto se integre;
 
@@ -250,6 +262,10 @@ e) En el caso del hospedaje, el reporte diario indicará fecha, lugar, nombre y 
 Dichos reconocimientos deberán estar soportados por recibos foliados que especifiquen el nombre y firma de la persona a quien se efectuó el pago, su domicilio particular, clave de elector y teléfono, la campaña electoral correspondiente, así como el distrito electoral o fórmula a la que se benefició, el monto y la fecha del pago, el tipo de actividades de apoyo Político proporcionado a la coalición, y el período durante el cual se realizaron. Los recibos deberán estar firmados por el funcionario que autorizó el pago. Adicionalmente, se deberá anexar copia fotostática legible por ambos lados de la credencial para votar con fotografía de la persona que recibió el pago correspondiente. Estas erogaciones contarán para los efectos de los topes de gasto de las campañas correspondientes.
 
 Tratándose de menores de edad, para salvar el requisito de la clave de elector, se deberá consignar algún otro dato que permita identificar plenamente a quien se le otorga el correspondiente recibo, como puede ser la clave única del registro de población (CURP), el número de pasaporte vigente, los datos de la credencial vigente expedida por alguna institución educativa oficial o el número de credencial o identificación de alguna institución pública de seguridad social. En todo caso, se deberá anexar copia fotostática legible del documento de identificación correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MARZO DE 2009)</small>
+
+Durante el procedimiento de revisión de los informes, la Unidad de Fiscalización seguirá técnicas muestrales de auditoría para solicitar por oficio, que las personas que hayan recibido reconocimiento por actividades políticas, confirmen o rectifiquen las operaciones amparadas en dichos recibos. De los resultados de dichas prácticas se informará en el dictamen consolidado correspondiente, considerando el derecho de audiencia contemplado en el procedimiento de revisión de informes respectivo.
 
 3.10 Respecto de las erogaciones a que se refiere el párrafo anterior, resultarán aplicables las reglas de comprobación y los límites establecidas en el artículo 15, en específico los numerales 15.2 y 15.4 del Reglamento de Partidos. Deberán expedirse los recibos correspondientes de conformidad con el formato "REPAP-COA" y elaborar el control de folios "CF-REPAP-COA", incluidos en el presente Reglamento.
 
@@ -325,9 +341,13 @@ Contabilidad y Proveedores
 
 6.5 El órgano de finanzas de la coalición será responsable de verificar que los comprobantes que le expidan los proveedores de bienes o servicios sean expedidos a nombre del partido responsable de la coalición y ajustarse a lo dispuesto en el Capítulo III del Título I del Reglamento de Partidos.
 
-6.6 El órgano de finanzas de la coalición deberá formular una relación de los proveedores y prestadores de servicios con los cuales realice operaciones que superen los mil días de salario mínimo durante el periodo de campaña, en la cual deberá precisar el nombre comercial de cada proveedor, así como el nombre asentado en las facturas que expida; su clave del Registro Federal de Contribuyentes; su domicilio fiscal completo; los montos de las operaciones realizadas y los bienes o servicios obtenidos. Esta relación deberá presentarse a solicitud de la autoridad electoral en hoja de cálculo Excel de forma impresa y en medio magnético.
+> <small>(REFORMADO, D.O.F. 17 DE MARZO DE 2009)</small>
 
-6.7 El órgano de finanzas de la coalición deberá formular una relación de los proveedores y prestadores de servicios con los cuales realice operaciones que superen los diez mil días de salario mínimo durante el periodo de campaña, en la cual deberá conformar y conservar un expediente por cada uno de ellos, que presentará a la autoridad electoral cuando le sea solicitado. Dicha relación deberá presentarse en hoja de cálculo Excel de forma impresa y en medio magnético. El expediente de cada proveedor deberá incluir:
+6.6 El órgano de finanzas de la coalición deberá formular una relación de los proveedores y prestadores de servicios con los cuales realice operaciones que superen los quinientos días de salario mínimo durante el periodo de campaña, en la cual deberá precisar el nombre comercial de cada proveedor, así como el nombre asentado en las facturas que expida; su clave del Registro Federal de Contribuyentes; su domicilio fiscal completo; los montos de las operaciones realizadas y los bienes o servicios obtenidos. Esta relación deberá presentarse a solicitud de la autoridad electoral en hoja de cálculo Excel de forma impresa y en medio magnético
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MARZO DE 2009)</small>
+
+6.7 El órgano de finanzas de la coalición deberá formular una relación de los proveedores y prestadores de servicios con los cuales realice operaciones que superen los cinco mil días de salario mínimo durante el periodo de campaña, en la cual deberá conformar y conservar un expediente por cada uno de ellos, que presentará a la autoridad electoral cuando le sea solicitado. Dicha relación deberá presentarse en hoja de cálculo Excel de forma impresa y en medio magnético. El expediente de cada proveedor deberá incluir:
 
 a) Nombre o denominación social, Registro Federal de Contribuyentes, domicilio completo y número de teléfono;
 
@@ -335,9 +355,13 @@ b) Los montos de las operaciones realizadas y los bienes o servicios obtenidos;
 
 c) Copia fotostática del alta ante la Secretaría de Hacienda y Crédito Público, así como de la Cédula de Identificación Fiscal;
 
-d) Copia fotostática del acta constitutiva en caso de tratarse de una persona moral, que cuente sello de inscripción en el Registro Público de la Propiedad y de Comercio que corresponda; y
+d) Copia fotostática del acta constitutiva en caso de tratarse de una persona moral, que cuente sello (sic) de inscripción en el Registro Público de la Propiedad y de Comercio que corresponda; y
 
 e) Nombre del o de los representantes o apoderados legales, en su caso.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MARZO DE 2009)</small>
+
+En los casos de los incisos d) y e), la Unidad de Fiscalización podrá coadyuvar para la obtención de dichos requisitos, siempre y cuando la coalición acredite la imposibilidad de obtener la mencionada información.
 
 ARTICULO 7
 
@@ -420,3 +444,13 @@ Unico. El presente Reglamento entrará en vigor a partir del día siguiente de s
 SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
 
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 10 de julio de dos mil ocho.- El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 17 DE MARZO DE 2009.
+
+SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE REGLAMENTO.
+
+SEGUNDO. La modificación al Reglamento para la Fiscalización de los Recursos de los Partidos Políticos Nacionales que formen Coaliciones entrará en vigor a partir del día siguiente de su aprobación por el Consejo General.
+
+TERCERO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
