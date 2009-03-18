@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2008-09-15"
+last_updated: "2009-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,33 +18,329 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO POR EL QUE SE DAN A CONOCER LAS MODIFICACIONES A LAS REGLAS DE PROCEDIMIENTO DEL ARTICULO 1904 DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
+DECRETO POR EL QUE SE MODIFICA EL ARTICULO 1 DEL DECRETO POR EL QUE SE ESTABLECE LA TASA APLICABLE DURANTE 2003, DEL IMPUESTO GENERAL DE IMPORTACION, PARA LAS MERCANCIAS ORIGINARIAS DE AMERICA DEL NORTE, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 31 DE DICIEMBRE DE 2002, POR LO QUE RESPECTA A LOS ARANCELES APLICABLES A LAS MERCANCIAS ORIGINARIAS DE LOS ESTADOS UNIDOS DE AMERICA
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 15 de septiembre de 2008.
+Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 18 de marzo de 2009.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-GERARDO RUIZ MATEOS, Secretario de Economía, con fundamento en los artículos 1904 del Tratado de Libre Comercio de América del Norte; 34 fracción XXXI de la Ley Orgánica de la Administración Pública Federal; 5o., fracción X de la Ley de Comercio Exterior; 5, fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131, de la propia Constitución; 2019 del Tratado de Libre Comercio de América del Norte; 31 y 34 de la Ley Orgánica de la Administración Pública Federal, y 2o., 4o., fracción I y 14 de la Ley de Comercio Exterior, y
 
 CONSIDERANDO
 
-Que el 17 de diciembre de 1992 los Gobiernos de México, Canadá y los Estados Unidos de América suscribieron el Tratado de Libre Comercio de América del Norte (TLCAN), mismo que fue aprobado por el Senado de la República el 22 de noviembre de 1993, publicado en el Diario Oficial de la Federación el 20 de diciembre de ese mismo año, y que entró en vigor el 1 de enero de 1994;
+Que el Tratado de Libre Comercio de América del Norte (TLCAN) fue aprobado por el Senado de la República el 22 de noviembre de 1993, según decreto publicado en el Diario Oficial de la Federación el 8 de diciembre del mismo año, cuyo decreto de promulgación fue publicado en ese órgano informativo el 20 de diciembre del mismo año y entró en vigor el 1 de enero de 1994;
 
-Que el artículo 1904, párrafo primero del TLCAN dispone que la revisión que lleve a cabo un panel binacional establecido conforme a dicho artículo reemplazará la revisión judicial interna de las resoluciones definitivas sobre cuotas antidumping y compensatorias;
+Que los artículos 1108 y 1206, así como el Anexo I “Reservas en relación con medidas existentes y compromisos de liberalización” del TLCAN establecen la apertura de los servicios de transporte de carga en los estados fronterizos de México y de los Estados Unidos de América a partir del 18 de diciembre de 1995, y en todo el territorio de ambos países a partir del 1 de enero de 2000;
 
-Que el artículo 1904, párrafo catorce del TLCAN establece que las Partes adoptarán reglas de procedimiento que regularán el proceso de revisión que lleva a cabo un panel binacional;
+Que de conformidad con el Capítulo XX del TLCAN, que establece las disposiciones aplicables a los procedimientos para la solución de controversias, el 2 de febrero de 2000 se integró el panel arbitral solicitado por México con el objeto de determinar el incumplimiento de los Estados Unidos de América a las obligaciones del Anexo I a que se refiere el considerando anterior; así como a las de trato nacional y trato de la nación más favorecida previstas en los artículos 1102, 1103, 1202 y 1203 de dicho Tratado, en materia de servicios de transporte transfronterizo;
 
-Que el 20 de junio de 1994 la Secretaría de Comercio y Fomento Industrial (hoy Secretaría de Economía) publicó en el Diario Oficial de la Federación las Reglas de Procedimiento del artículo 1904 y las Reglas de Procedimiento del Comité de Impugnación Extraordinaria del Tratado de Libre Comercio de América del Norte;
+Que el 6 de febrero de 2001 el panel arbitral emitió su informe final en el que determinó el incumplimiento de los Estados Unidos de América a las obligaciones señaladas en el considerando anterior, y recomendó a dicho país llevar a cabo las acciones necesarias para cumplir con los compromisos establecidos en el TLCAN;
 
-Que el 20 de marzo de 1996 la entonces Secretaría de Comercio y Fomento Industrial publicó en el Diario Oficial de la Federación aclaraciones a las Reglas de Procedimiento del artículo 1904 y a las Reglas de Procedimiento del Comité de Impugnación Extraordinaria del Tratado de Libre Comercio de América del Norte;
+Que a partir de la fecha señalada en el considerando que antecede los gobiernos de México y los Estados Unidos de América realizaron diversas gestiones con objeto de lograr la apertura de los servicos (sic) de transporte transfronterizo prevista en el TLCAN, sin obtener los resultados deseados;
 
-Que el artículo 2001 del TLCAN estableció la Comisión de Libre Comercio como un órgano integrado por representantes de cada Parte a nivel de Secretaría de Estado, encargado de supervisar la puesta en práctica del tratado, vigilar su ulterior desarrollo y adoptar cualquier acción para el ejercicio de sus funciones según acuerden las Partes;
+Que como parte de las gestiones mencionadas, el 27 de abril de 2007, los gobiernos de México y de los Estados Unidos de América acordaron la implementación de un Programa Demostrativo de acceso al autotransporte de carga (Programa Demostrativo) con vigencia de un año, prorrogado por acuerdo de ambos países hasta 2010, el cual permitiría a un número limitado de empresas de los dos países prestar los servicios de transporte transfronterizo;
 
-Que la Comisión de Libre Comercio del TLCAN adoptó, mediante intercambio de cartas efectuado entre las Partes el 28 de febrero de 2008, modificaciones a las Reglas de Procedimiento del artículo 1904 del TLCAN, acordando que éstas entrarán en vigor a partir de su publicación en los respectivos medios oficiales de cada Parte, y
+Que con motivo de la aprobación de la Ley Omnibus de Asignaciones para el año fiscal de 2009, el Congreso de los Estados Unidos de América prohibió a su Departamento de Transporte utilizar fondos para establecer o mantener el Programa Demostrativo y, como consecuencia, dicho Departamento ha dejado de operarlo;
 
-Que a fin de dar cumplimiento a la decisión de la Comisión de Libre Comercio del TLCAN, he tenido a bien expedir el siguiente:
+Que la cancelación del Programa Demostrativo evidencia que los Estados Unidos de América y México no han logrado alcanzar una solución mutuamente satisfactoria a la controversia en materia de transporte transfronterizo en los términos de los artículos 2018 y 2019 del TLCAN, y que el citado país continúa sin dar cumplimiento tanto a sus obligaciones internacionales conforme al TLCAN como a las recomendaciones del panel arbitral antes referido;
 
-ACUERDO POR EL QUE SE DAN A CONOCER LAS MODIFICACIONES A LAS REGLAS DE PROCEDIMIENTO DEL ARTICULO 1904 DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
+Que el párrafo 1 del artículo 2019 del TLCAN establece la posibilidad de que en caso de que el panel arbitral resuelva en una controversia que una medida es incompatible con las obligaciones de dicho Tratado, si la Parte demandada no ha llegado a un acuerdo mutuamente satisfactorio con la Parte reclamante esta última podrá suspender la aplicación de beneficios de efecto equivalente a la Parte demandada hasta el momento en que alcancen un acuerdo sobre la resolución de la controversia;
+
+Que en virtud de lo anterior, resulta procedente suspender beneficios de efecto equivalente a los Estados Unidos de América, por lo que se considera conveniente eliminar los aranceles preferenciales que prevé el Tratado de mérito a las importaciones de determinados bienes originarios del citado país;
+
+Que para los efectos del párrafo anterior, es necesario modificar el Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002 y que fue modificado por los diversos dados a conocer en el mismo medio informativo el 17 de agosto de 2005, el 12, 13 y 29 de septiembre de 2006, y el 8 de mayo y 30 de junio de 2007, y
+
+Que conforme a lo dispuesto en la Ley de Comercio Exterior, el presente Decreto cuenta con opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente
+
+DECRETO
+
+Artículo Único.- Se modifica el artículo 1 del Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002, por lo que respecta a los aranceles aplicables a las mercancías originarias de los Estados Unidos de América clasificadas en las siguientes fracciones arancelarias:
+
+Fracción Descripción Arancel de
+
+Importación
+
+0604.91.02 Árboles de navidad. 20%
+
+0703.10.01 Cebollas. 10%
+
+0705.11.01 Repolladas. 10%
+
+0802.12.01 Sin cáscara. 20%
+
+0804.10.01 Frescos. 20%
+
+0804.10.99 Los demás. 20%
+
+0806.10.01 Frescas. 45%
+
+0808.20.01 Peras. 20%
+
+0809.10.01 Chabacanos (damascos,
+
+albaricoques). 20%
+
+0809.20.01 Cerezas. 20%
+
+0810.10.01 Fresas (frutillas). 20%
+
+0813.50.01 Mezclas de frutas u otros
+
+frutos, secos, o de frutos
+
+de cáscara de este Capítulo. 20%
+
+1902.19.99 Las demás. 10%
+
+2004.10.01 Papas (patatas). 20%
+
+2005.40.01 Chícharos (guisantes,
+
+arvejas) (Pisum sativum). 20%
+
+2008.11.01 Sin cáscara. 20%
+
+2008.11.99 Los demás. 20%
+
+2008.19.01 Almendras. 20%
+
+2008.19.99 Los demás. 20%
+
+2008.60.01 Cerezas. 20%
+
+2009.80.01 Jugo de cualquier otra
+
+fruta o fruto, u hortaliza. 20%
+
+2009.90.01 Que contengan únicamente
+
+jugo de hortaliza. 20%
+
+2009.90.99 Los demás. 20%
+
+2103.10.01 Salsa de soja (soya). 20%
+
+2103.90.99 Los demás. 20%
+
+2104.10.01 Preparaciones para sopas,
+
+potajes o caldos; sopas,
+
+potajes o caldos, preparados. 10%
+
+2106.90.06 Concentrados de jugos de
+
+una sola fruta, legumbre u
+
+hortaliza, enriquecidos con
+
+minerales o vitaminas. 15%
+
+2106.90.07 Mezclas de jugos
+
+concentrados de frutas,
+
+legumbres u hortalizas,
+
+enriquecidos con minerales
+
+o vitaminas. 15%
+
+2106.90.08 Con un contenido de sólidos
+
+lácteos superior al 10%,
+
+en peso. 15%
+
+2201.10.01 Agua mineral. 20%
+
+2204.10.99 Los demás. 20%
+
+2204.21.02 Vinos tinto, rosado,
+
+clarete o blanco, cuya
+
+graduación alcohólica sea
+
+hasta de 14% Alc. Vol.
+
+a la temperatura de 20ºC
+
+(equivalente a 14 grados
+
+centesimales Gay-Lussac a
+
+la temperatura de 15°C), en
+
+vasijería de barro, loza o vidrio. 20%
+
+2206.00.99 Las demás. 20%
+
+2306.30.01 De semillas de girasol. 15%
+
+2306.49.99 Los demás. 15%
+
+2309.10.01 Alimentos para perros
+
+o gatos, acondicionados
+
+para la venta al por menor. 10%
+
+3213.10.01 Colores en surtidos. 15%
+
+3304.30.01 Preparaciones para manicuras
+
+y pedicuros. 15%
+
+3304.99.99 Las demás. 15%
+
+3305.10.01 Champúes. 15%
+
+3305.30.01 Lacas para el cabello. 15%
+
+3305.90.99 Las demás. 15%
+
+3306.10.01 Dentífricos. 15%
+
+3306.20.01 De filamento de nailon. 15%
+
+3306.20.99 Los demás. 15%
+
+3306.90.99 Los demás. 15%
+
+3307.10.01 Preparaciones para afeitar
+
+o para antes o después
+
+del afeitado. 15%
+
+3307.20.01 Desodorantes corporales y
+
+antitraspirantes. 15%
+
+3924.10.01 Vajilla y demás artículos
+
+para el servicio de mesa o
+
+de cocina. 20%
+
+3924.90.99 Los demás. 20%
+
+3926.40.01 Estatuillas y demás artículos
+
+de adorno. 20%
+
+4816.20.01 Papel autocopia. 10%
+
+4818.10.01 Papel higiénico. 10%
+
+4820.20.01 Cuadernos. 10%
+
+4901.99.99 Los demás. 20%
+
+4911.10.99 Los demás. 20%
+
+4911.99.02 Boletos o billetes de
+
+rifas, loterías, espectáculos,
+
+ferrocarriles u otros servicios
+
+de transporte. 20%
+
+4911.99.03 Impresos con claros para escribir. 20%
+
+4911.99.05 Tarjetas plásticas para
+
+identificación y para crédito,
+
+sin cinta magnética. 20%
+
+4911.99.99 Los demás. 20%
+
+5511.10.01 De fibras sintéticas discontinuas
+
+con un contenido de estas
+
+fibras superior o igual al
+
+85% en peso. 15%
+
+5511.30.01 De fibras artificiales discontinuas. 15%
+
+5704.90.99 Los demás. 20%
+
+5705.00.99 Los demás. 20%
+
+7013.49.03 De vidrio calizo. 20%
+
+7113.19.99 Los demás. 20%
+
+8302.41.01 Herrajes para cortinas venecianas. 20%
+
+8302.41.02 Cortineros. 20%
+
+8302.41.04 Cerraduras sin llave,
+
+picaportes o pasadores. 20%
+
+8302.41.99 Los demás. 20%
+
+8304.00.99 Los demás. 20%
+
+8418.10.99 Los demás. 15%
+
+8418.21.01 De compresión. 20%
+
+8419.81.01 Cafeteras. 20%
+
+8421.39.99 Las demás. 10%
+
+8422.11.01 De tipo doméstico. 15%
+
+8450.12.01 De uso doméstico. 20%
+
+8450.12.99 Las demás. 20%
+
+8516.79.99 Los demás. 20%
+
+8517.11.01 Teléfonos de auricular
+
+inalámbrico combinado con
+
+micrófono. 20%
+
+8548.10.01 Desperdicios y desechos
+
+de pilas, baterías de pilas o
+
+acumuladores, eléctricos;
+
+pilas, baterías de pilas
+
+y acumuladores, eléctricos,
+
+inservibles. 20%
+
+9004.10.01 Gafas (anteojos) de sol. 15%
+
+9403.20.99 Los demás. 15%
+
+9504.30.99 Los demás. 15%
+
+9608.10.01 De metal común. 20%
+
+9608.10.99 Los demás. 20%
+
+9608.20.01 Rotuladores y marcadores con
+
+punta de fieltro u otra punta
+
+porosa. 20%
+
+9608.99.99 Los demás. 20%
+
+9609.10.01 Lápices. 20%
 
 ###### ARTICULO UNICO.
 
@@ -524,13 +820,11 @@ III.- La Comunidad Europea, que califiquen como originarias conforme a la Decisi
 
 (VEASE ARCHIVO ANEXO)
 
-## TRANSITORIOS
+## TRANSITORIO
 
-PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-SEGUNDO.- Los procedimientos de revisión en los que la correspondiente solicitud de establecimiento de panel conforme al artículo 1904 (2) del Tratado de Libre Comercio de América del Norte se haya presentado con anterioridad a la entrada en vigor de este Acuerdo, se seguirán conforme a las Reglas de Procedimiento publicadas en el Diario Oficial de la Federación el 20 de junio de 1994, y su aclaración, dada a conocer en el mismo medio informativo el 20 de marzo de 1996.
-
-México, D.F., a 26 de agosto de 2008.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diecisiete de marzo de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.
 
 ## TRANSITORIOS
 
