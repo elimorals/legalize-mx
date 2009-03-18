@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-organizacion-del-poder-judicial-del-estado-de-57942"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-24"
-last_updated: "2007-10-24"
+last_updated: "2009-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57942&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 CODIGO DE ORGANIZACION DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL CODIGO DE ORGANIZACION DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O DE 18 DE MARZO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Código publicado en la Segunda Sección en el Periódico Oficial del Estado de Chiapas, el miércoles 24 de octubre de 2007.
 
@@ -3728,3 +3730,27 @@ Dado en el Salón de Sesiones del Honorable del (sic) Congreso del Estado de Chi
 De conformidad con la fracción I, del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veinte días del mes de octubre del año dos mil siete.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O 18 DE MARZO DE 2009.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+
+Segundo.- A partir, de la entrada en vigor del presente Decreto, se abroga el Código de Organización del Poder Judicial, publicado en el Periódico Oficial del Estado Número 054, Segunda Sección, de fecha 24 de Octubre del 2007.
+
+Tercero.- Las disposiciones relativas al Centro Estatal de Justicia Alternativa, entrarán en vigor a mas tardar el día 16 del mes de mayo del año 2010, término en el que el Consejo de la Judicatura del. Poder Judicial del Estado, procederá a la instalación y funcionamiento del Centro.
+
+Cuarto.- Las Subdirecciones Regionales del Centro Estatal de Justicia Alternativa se instalarán gradualmente, conforme a las necesidades y al presupuesto del Poder judicial del Estado.
+
+Quinto.- Los Magistrados y Jueces, así como demás personal jurisdiccional con intervención en actuaciones judiciales que actualmente forman parte del Poder Judicial, asumirán las mismas competencias y funciones asignadas originalmente y las que resulten conforme a este Decreto, por lo que continuarán con los trámites puestos a su conocimiento, previa razón en cada uno de ellos.
+
+Sexto.- Las menciones que otros ordenamientos jurídicos hagan a la Magistratura Superior del Estado y a los funcionarios de ésta, se entenderán referidas al Tribunal Superior de Justicia del Estado.
+
+Las menciones que otros ordenamientos jurídicos hagan al Consejo de la Magistratura y a los funcionarios de éste, se entenderán referidas al Consejo de la Judicatura.
+
+Séptimo.- Dentro del plazo de sesenta días contados a partir de la publicación del presente Decreto, deberán llevarse a cabo las reformas a los ordenamientos legales, a fin de adecuarlas a Io previsto en este Código.
+
+Octavo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+Noveno.- El Ejecutivo del Estado, dispondrá que el presente Decreto se publique, circule y proveerá sobre su debido cumplimiento.
