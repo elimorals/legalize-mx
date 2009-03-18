@@ -4,7 +4,7 @@ identifier: "FED-ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-9"
 country: "mx"
 rank: "ley"
 publication_date: "1936-01-10"
-last_updated: "2009-01-15"
+last_updated: "2009-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-12-30"
 
 LEY DE AMPARO, REGLAMENTARIA DE LOS ARTICULOS 103 Y 107 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE MARZO DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 10 de enero de 1936.
 
@@ -159,11 +159,11 @@ III.- Contra las resoluciones del Ministerio Público que confirmen el no ejerci
 
 Es autoridad responsable la que dicta, promulga, publica, ordena, ejecuta o trata de ejecutar la ley o el acto reclamado.
 
-> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 16 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 12.
 
-Los órganos legislativos federales, de los Estados y del Distrito Federal, podrán ser representados directamente en el juicio por conducto de los titulares de sus respectivas oficinas de asuntos jurídicos o representantes legales, respecto de los actos que se les reclamen.
+Los órganos legislativos federales, de los Estados y del Distrito Federal, así como los Gobernadores y Jefe de Gobierno de éstos podrán ser representados directamente en el juicio por conducto de los titulares de sus respectivas oficinas de asuntos jurídicos o representantes legales, respecto de los actos que se les reclamen.
 
 > <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 1976)</small>
 
@@ -2936,3 +2936,7 @@ D.O.F. 15 DE ENERO DE 2009.
 Primero. El presente decreto iniciará su vigencia el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la entrada en vigor del presente decreto, el Consejo de la Judicatura Federal deberá implantar las acciones necesarias para la realización de las grabaciones de las sesiones de los tribunales colegiados de circuito, en un plazo no mayor a 90 días hábiles.
+
+D.O.F. 18 DE MARZO DE 2009.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
