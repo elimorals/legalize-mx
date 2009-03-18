@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-41958"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-11-30"
-last_updated: "2008-09-12"
+last_updated: "2009-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 2009.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2004.
 
@@ -247,7 +247,9 @@ XXV.- Expedir, previo acuerdo del Gobernador del Estado, las licencias, autoriza
 
 XXVI.- Compilar y archivar la legislación vigente en el Estado;
 
-XXVII.- Publicar el Periódico Oficial del Estado;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2009)</small>
+
+XXVII.- Administrar los Talleres Gráficos del Gobierno del Estado y publicar el Periódico Oficial del Estado;
 
 XXVIII.- Establecer anualmente el calendario oficial que regirá en el Estado;
 
@@ -439,7 +441,7 @@ IX.- Emitir las normas y disposiciones de la Administración Pública, para la a
 
 X.- Dirigir el Archivo General del Poder Ejecutivo;
 
-XI.- Administrar los Talleres Gráficos del Gobierno del Estado;
+XI.- (DEROGADA, P.O. 18 DE MARZO DE 2009)
 
 XII.- Administrar los Almacenes Generales del Gobierno del Estado;
 
@@ -1242,3 +1244,9 @@ CUARTO.- Los recursos humanos y materiales de la Secretaria de Protección Ciuda
 QUINTO.- En todos los asuntos, juicios, procesos y procedimientos en trámite en que sea parte la Secretaría de Protección Ciudadana, con la presente reforma quedan a cargo de la Secretaria de Seguridad Pública, en los términos del presente Decreto.
 
 SEXTO.- El Gobernador, del Estado expedirá el Reglamento Interior de la Secretaría de Seguridad Pública, dentro del plazo de noventa días a partir de la publicación del presente Decreto.
+
+P.O. 18 DE MARZO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los bienes muebles e inmuebles propiedad del Gobierno del Estado, asignados a los Talleres Gráficos del Gobierno del Estado, pasarán a formar parte de los bienes asignados a la Secretaría General de Gobierno del Estado, de la misma forma, los recursos humanos adscritos a dichos talleres.
