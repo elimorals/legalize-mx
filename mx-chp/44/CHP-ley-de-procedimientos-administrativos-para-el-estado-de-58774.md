@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-procedimientos-administrativos-para-el-estado-de-58774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-28"
-last_updated: "2008-05-28"
+last_updated: "2009-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 28 de diciembre de 2007.
 
@@ -1035,7 +1035,9 @@ Una notificación omitida o irregular se entenderá legalmente hecha a partir de
 
 Las diligencias de notificación o, en su caso, de desahogo de alguna prueba, que deban practicarse en lugar distinto de la correspondiente a la sede de las Salas, deberán tramitarse vía exhorto.
 
-Para diligenciar el exhorto el magistrado del Tribunal podrá solicitar el auxilio de la Sala Civil del Consejo de la Magistratura, o del Juez Civil o Mixto de Primera Instancia de la localidad donde haya de diligenciarse el exhorto.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2009)</small>
+
+Para diligenciar el exhorto el magistrado del Tribunal podrá solicitar el auxilio de la Sala Civil del Poder Judicial, o del Juez Civil o Mixto de Primera Instancia de la localidad donde haya de diligenciarse el exhorto.
 
 ###### Artículo 119.
 
@@ -1803,11 +1805,11 @@ Existiendo resolución administrativa definitiva, si la Sala considera que la qu
 
 ## Título III (sic). Del Recurso de Revisión
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2009)</small>
 
 ###### Artículo 173.
 
-El Recurso de Revisión procederá en contra de las resoluciones o sentencias de las Salas que admitan, desechen o tengan por no presentada la demanda, la contestación, la ampliación de ambas o alguna prueba; las que decreten o nieguen el sobreseimiento del juicio antes del cierre de instrucción; aquellas que admitan o rechacen la intervención del tercero interesado y las resoluciones que concedan o nieguen la suspensión definitiva.
+El Recurso de Revisión procederá en contra de las resoluciones o sentencias definitivas de las Salas que admitan, desechen o tengan por no presentada la demanda, la contestación, la ampliación de ambas o alguna prueba; las que decreten o nieguen el sobreseimiento del juicio antes del cierre de instrucción; aquellas que admitan o rechacen la intervención del tercero interesado y las resoluciones que concedan o nieguen la suspensión definitiva.
 
 La revisión se interpondrá ante la Sala dentro de los diez días siguientes a aquel en que surta efectos la notificación de que se trate.
 
@@ -1904,3 +1906,7 @@ Juan Sabines Guerrero, Gobernador del Estado, Jorge Antonio Morales Messner, Sec
 P.O. 28 DE MAYO DE 2008.
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+P.O. 18 DE MARZO DE 2009.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
