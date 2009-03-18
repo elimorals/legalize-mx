@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-4203"
 country: "mx"
 rank: "ley"
 publication_date: "1991-07-31"
-last_updated: "1999-02-24"
+last_updated: "2009-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4203&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY DE EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 1999.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY AMBIENTAL PARA EL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 18 DE MARZO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Chiapas, el miércoles 31 de julio de 1991.
 
@@ -1410,3 +1412,25 @@ TERCERO.- LOS ORGANISMOS A QUE ALUDEN LOS INCISOS C Y D DEL ARTICULO 6°, ASI CO
 CUARTO.- EL EJECUTIVO DEL ESTADO, POR SI O POR CONDUCTO DE LA SECRETARIA DE ECOLOGIA, RECURSOS NATURALES Y PESCA Y DE AGRICULTURA Y GANADERIA, EMITIRA LOS LINEAMIENTOS TECNICO NORMATIVOS DE APLICACION OPERATIVA QUE ESTIME CONVENIENTES PARA LA CORRECTA APLICACION DE LA PRESENTE LEY, QUE DEBERAN SER PUBLICADOS EN EL PERIODICO OFICIAL DEL ESTADO.
 
 QUINTO.- LAS DEPENDENCIAS DE LA ADMINISTRACION PUBLICA ESTATAL PROVEERAN, EN LA ESFERA DE SUS RESPECTIVAS ATRIBUCIONES, LO NECESARIO PARA EL CORRECTO CUMPLIMIENTO DE ESTE ORDENAMIENTO.
+
+P.O. 18 DE MARZO DE 2009.
+
+Artículo Primero.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- La Secretaría de Medio Ambiente y Vivienda, en un término no mayor de ciento ochenta días hábiles, contados a partir de la entrada en vigor de esta ley deberá someter a la consideración del Titular del Poder Ejecutivo del Estado el proyecto del Reglamento de la misma, para efectos de su expedición y publicación correspondiente.
+
+Artículo Tercero.- Se abroga la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Chiapas, publicada en el Periódico Oficial de fecha 31 de julio de 1991. Se derogan las demás disposiciones legales y reglamentarias que se opongan a la presente.
+
+Artículo Cuarto.- El Gobierno del Estado podrá ejercer las facultades de que disponen los municipios en las materias que les correspondan, a petición expresa de éstos, participando como coadyuvantes en los procedimientos que establece la presente ley, hasta en tanto cuenten con sus respectivos Reglamentos o adecuen sus Bandos de Policía y Buen Gobierno.
+
+Artículo Quinto.- Las autorizaciones, permisos; licencias y concesiones otorgadas con anterioridad a la fecha de entrada en vigor de la presente ley, seguirán vigentes por el término en que fueron otorgados y su prórroga se sujetará a las disposiciones de este ordenamiento.
+
+Artículo Sexto.- Todos los procedimientos y recursos administrativos relacionados con las materias de esta ley, que se hubieren iniciado bajo la vigencia de la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Chiapas, se tramitarán y resolverán conforme a las disposiciones de dicha ley que se abroga.
+
+Artículo Séptimo.- El manejo, administración y operación de las áreas naturales protegidas de jurisdicción estatal quedan a cargo de la Secretaría y sin considerar la categoría bajo la cual fueron decretadas, las áreas naturales protegidas de jurisdicción estatal a que hace referencia, son las siguientes: Bosque de Coníferas Chanal, Municipios de Chanal y Las Margaritas; La Concordia-Zaragoza; Municipio de La Concordia; El Zapotal, Municipio de Tuxtla Gutiérrez; La Primavera, Municipio de Comitán de Domínguez; Santa Felicitas, Municipio de Ocosingo; Cerro Mactumatzá, Municipio de Tuxtla Gutiérrez; La Lluvia, Municipio de Villaflores; Cerro Meyapac, Municipio de Ocozocoautla; El Canelar, - Municipio de Acala; La Pera, Municipio de Berriozábal; Laguna Bélgica, Municipio de Ocozocoautla de Espinoza; El Recreo, Municipio de Teopisca; Huitepec-Los Alcanfores, Municipio de San Cristóbal de las Casas; Humedales de Montaña La Kisst, Municipio de San Cristóbal de las Casas; Humedales de Montaña María Eugenia, Municipio de San Cristóbal de las Casas; Rancho Nuevo, Municipio de San Cristóbal de las Casas; Gertrude Duby, Municipio de San Cristóbal de las Casas; Cordón Pico El Loro-Paxtal, Municipio de Escuintla, Síltepec, El Porvenir, Angel Albino Corzo, Motozintla, Acacoyagua y Mapastepec; Finca Santa Ana, Municipio de Pichucalco; Tzama Cun Pümy, Municipio de Tapalapa; Humedales La Libertad, Municipio de Palenque; Sistema Lagunar Catazajá, Municipio de Catazajá; Calbido Amatal, Municipio de Tapachula y Mazatán; Gancho Murillo, Municipio de Suchiate y Tapachula; y Volcán Tacaná, Municipio de Tapachula, Unión Juárez y Cacahoatán.
+
+Artículo Octavo.- La Secretaría, mediante acuerdo, publicará en el Periódico Oficial del Estado la categoría de área natural protegida que corresponda conforme a lo dispuesto en esta Ley.
+
+Artículo Noveno.- Tratándose de Áreas Naturales y Típicas, Reservas Estatales, Centros Ecológicos Recreativos, Zona Sujetas a Conservación Ecológica y parques Estatales, la Secretaría deberá realizar los estudios y análisis técnicos que sean necesarios para determinar si las condiciones que dieron lugar a su establecimiento no se han modificado y si cumple con los propósitos previstos en el instrumento que dieron lugar a su establecimiento.
+
+En caso de que conforme a los estudios y análisis técnicos que se lleve a cabo, sea necesario modificar vértices, superficie y/o polígono general, la Secretaría promoverá ante el Ejecutivo Estatal, la expedición del Decreto que corresponda.
