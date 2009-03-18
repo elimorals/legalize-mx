@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-establece-el-sistema-integral-de-justicia-para-55157"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-07"
-last_updated: "2007-10-03"
+last_updated: "2009-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY QUE ESTABLECE EL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES EN EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 7 de marzo de 2007.
 
@@ -105,9 +105,9 @@ V. Código, la normatividad interna que rige al Poder Judicial del Estado de Chi
 
 VI. Ley, a la Ley que Establece el Sistema Integral de Justicia para Adolescentes en el Estado de Chiapas;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2009)</small>
 
-VII. Adolescentes, a las personas que tengan entre 12 años cumplidos a 18 años cumplidos;
+VII. Adolescentes a las personas que tengan 12 años cumplidos y menos de 18 años;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
@@ -673,9 +673,25 @@ Las sanciones para adolescentes son las siguientes:
 
 I. Sanciones generales:
 
-a) Amonestación y apercibimiento, y,
+a) Amonestación y apercibimiento, y, (sic)
 
-b) Prestación de servicios en beneficio de la comunidad.
+b) Prestación de servicios en beneficio de la comunidad;
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2009)</small>
+
+c) La prestación de los servicios en beneficio de la comunidad se hará en Instituciones Públicas, Educativas, e instituciones Privadas Asistenciales;
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2009)</small>
+
+d) El servicio en beneficio de la comunidad se hará preferentemente los sábados y domingos o en jornadas distintas del horario escolar o de trabajo del sujeto sancionado;
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2009)</small>
+
+e) Cuando el servicio en beneficio de la comunidad sea en sustitución de las sanciones restrictivas y/o privativas de la libertad, mediante convenio con los Ayuntamientos, se procurará que estos determinen la naturaleza, lugar y modo en que habrá que prestarse aquel; y,
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2009)</small>
+
+f) Por ningún motivo la prestación del servicio en beneficio de la comunidad se desarrollará en forma que resulte degradante o humillante para el beneficiario.
 
 II. Sanciones pecuniarias:
 
@@ -3500,3 +3516,9 @@ P.O. 3 DE OCTUBRE DE 2007.
 Artículo Primero.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del estado.
 
 Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE MARZO DE 2009.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
