@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-15059"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-07-01"
-last_updated: "2007-12-20"
+last_updated: "2009-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15059&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 1 de julio de 1999.
 
@@ -1023,21 +1023,21 @@ Para abrir los períodos de sesiones del Congreso, una vez cubierto el procedimi
 
 De lo anterior, deberá darse conocimiento a los Titulares de los Poderes Ejecutivo y Judicial del Estado, por medio de oficio. Lo mismo deberá hacerse a las Cámaras del Poder Legislativo Federal, a los Poderes Legislativos de las otras Entidades Federativas, y a los Ayuntamientos del Estado.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2009)</small>
 
 ###### ARTÍCULO 126.
 
-El día 12 de Septiembre de cada año, el Gobernador del Estado se presentará ante el Congreso para rendir por escrito un informe de la situación que guarda la Administración Pública.
+La glosa del informe de gobierno se efectuará de conformidad con el Acuerdo que para el efecto apruebe el Pleno a propuesta de los Grupos Parlamentarios y representantes de partido, atendiendo las prevenciones generales contenidas en los artículos 48, 55 fracción XXXVII y 70 fracción XII de la Constitución Política del Estado Libre y Soberano de Durango, el cual contendrá cuando menos lo siguiente:
 
-Estando presente el Gobernador del Estado, hará uso de la palabra un diputado por cada uno de los partidos políticos representados en el Congreso, para fijar su postura respecto a la situación imperante en el Estado. Estas intervenciones se realizarán en orden creciente, en razón del número de diputados de cada grupo partidista y no excederá de quince minutos. Esta sesión será solemne y no tendrá más objeto que el indicado, durante la cual no procederán intervenciones o interrupciones por parte de los legisladores.
+I. La relación de los servidores públicos que habrán de ser citados con motivo de la glosa;
 
-En la sesión, el Ejecutivo dirigirá un mensaje con motivo del informe, en cuyo caso, el Presidente del Congreso hará las apreciaciones correspondientes.
+II. La instancia y calendario de las comparecencias;
 
-Previo a cada informe anual que rinda el Ejecutivo del Estado, el Presidente del Congreso designará la comisión legislativa encargada de coordinar el análisis de dicho informe y evaluar el cumplimiento de los objetivos y metas fijadas en el Plan Estatal de Desarrollo.
+III El número y orden de las intervenciones por grupo parlamentario y representaciones de partido que integren la Legislatura; y
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2005)</small>
+IV. La mecánica de la comparecencia.
 
-Los Secretarios del Despacho del Ejecutivo, el Procurador General de Justicia y los titulares de los Organismos Públicos Descentralizados de la Administración Pública Estatal que sean citados por el Congreso con motivo de la glosa del informe, comparecerán ante el Pleno o ante las comisiones legislativas correspondientes y la comisión legislativa encargada de coordinar el análisis del informe de gobierno, deberá rendir el informe respectivo.
+Las Comisiones rendirán ante el Pleno, un informe del análisis sobre los resultados de la glosa que se integrará a la memoria que al efecto elabore la Mesa Directiva, de las comparecencias que se efectúen en el Pleno.
 
 ## TÍTULO SEGUNDO. DE LAS INICIATIVAS Y LOS DICTÁMENES
 
@@ -1954,3 +1954,9 @@ P.O. 20 DE DICIEMBRE DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE MARZO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+Se derogan todas las disposiciones legales que se opongan al presente decreto.
