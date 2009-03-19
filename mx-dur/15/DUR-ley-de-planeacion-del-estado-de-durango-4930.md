@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-planeacion-del-estado-de-durango-4930"
 country: "mx"
 rank: "ley"
 publication_date: "1987-02-01"
-last_updated: "2004-12-23"
+last_updated: "2009-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY DE PLANEACION DEL ESTADO DE DURANGO
 
-LEY DE PLANEACION DEL ESTADO DE DURANGO
+LEY DE PLANEACIÓN DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 1 de febrero de 1987.
 
@@ -105,7 +105,7 @@ El Sistema Estatal de planeación democrática estructurará los esfuerzos de la
 
 Forman parte del sistema, las dependencias y entidades u organismos de la administración pública estatal y los ayuntamientos, a través de sus unidades administrativas que tengan asignadas las funciones de planeación; con el apoyo de la participación ciudadana.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 9o.
 
@@ -275,11 +275,11 @@ De conformidad con las atribuciones y obligaciones derivadas de la presente Ley 
 
 El resultado de dichas revisiones será sometido a la consideración del Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 30o.
 
-El jefe del Ejecutivo se referirá expresamente, en el texto del informe anual que rinda ante el Congreso del Estado acerca de la situación que guarda la Administración Pública a las decisiones tomadas en materia de planeación y de la actividad programática.
-
-Antes que concluya el segundo período ordinario de sesiones de cada año el titular del Ejecutivo remitirá a la Legislatura del Estado un informe sobre las acciones y resultados de la ejecución del Plan y los Programas del año inmediato anterior.
+En el informe anual que envíe por escrito al Congreso del Estado sobre la situación que guarda la administración pública, el Gobernador del Estado se referirá expresamente a las decisiones tomadas en materia de planeación y de la actividad programática.
 
 ###### ARTICULO 31o.
 
@@ -417,7 +417,7 @@ Las acciones concertadas se formalizarán por medio de los contratos, convenios 
 
 Las controversias o desacuerdos que se susciten con motivo de la interpretación e incumplimiento de los convenios, contratos o acuerdos, serán resueltos administrativamente por las partes, o, en su caso, por los órganos judiciales competentes.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO SEPTIMO. Del Comité de Planeación para el Desarrollo del Estado de Durango
 
@@ -591,7 +591,7 @@ EL Gobernador Constitucional del Estado Lic. José Ramírez Gamero.- Rúbrica.
 
 El Secretario General de Gobierno Lic. Gustavo Rivera Ramos.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 23 DE DICIEMBRE DE 2004.
 
@@ -602,3 +602,13 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE MARZO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
