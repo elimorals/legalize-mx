@@ -4,7 +4,7 @@ identifier: "CMX-lineamientos-sobre-la-adquisicion-control-uso-mantenimiento-602
 country: "mx"
 rank: "lineamientos"
 publication_date: "2008-03-31"
-last_updated: "2009-02-25"
+last_updated: "2009-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60251&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-01-10"
 
 LINEAMIENTOS SOBRE LA ADQUISICION, CONTROL, USO, MANTENIMIENTO Y RESGUARDO DEL PARQUE VEHICULAR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE MARZO DE 2009.
 
 Lineamientos publicados en la Gaceta Oficial del Distrito Federal, el lunes 31 de marzo de 2008.
 
@@ -246,7 +246,7 @@ La Secretaría Administrativa será la responsable de proporcionar a las áreas 
 
 Las cantidades anteriores podrán ser actualizadas periódicamente por la Secretaría Administrativa conforme al comportamiento del costo de los combustibles y las disponibilidades presupuestales.
 
-A los servidores que tengan vehículos de servicio resguardados por asignación temporal en términos del artículo 16 de estos Lineamientos, se les proporcionarán vales de gasolina conforme a la bitácora que al efecto se elabore.
+> <small>(DEROGADO ULTIMO PARRAFO, G.O. 19 DE MARZO DE 2009)</small>
 
 ###### Artículo 14.
 
@@ -405,3 +405,9 @@ PRIMERO. Las presentes reformas a los Lineamientos sobre la Adquisición, Contro
 SEGUNDO. Se abrogan y se derogan todas aquellas disposiciones que se opongan a las presentes reformas a los Lineamientos sobre la Adquisición, Control, Uso, Mantenimiento y Resguardo del Parque Vehicular del Tribunal Electoral del Distrito Federal.
 
 TERCERO. Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados y en el sitio de Internet del Tribunal.
+
+G.O. 19 DE MARZO DE 2009.
+
+PRIMERO.- La presente reforma a los Lineamientos sobre la Adquisición, Control, Uso, Mantenimiento y Resguardo del Parque Vehicular del Tribunal Electoral del Distrito Federal, entrará en vigor al día siguiente de su publicación en los estrados del organismo.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados y en el sitio de Internet del Tribunal.
