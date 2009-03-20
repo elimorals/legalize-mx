@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-establece-las-bases-para-la-entrega-recepcion-16089"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-24"
-last_updated: "2007-07-27"
+last_updated: "2009-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16089&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY QUE ESTABLECE LAS BASES PARA LA ENTREGA RECEPCION ADMINISTRATIVA EN EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE ENTREGA RECEPCION DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 20 DE MARZO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 24 de marzo del 2000.
 
@@ -520,3 +522,11 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Per
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+P.O. 20 DE MARZO DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Los manuales de normatividad y procedimientos para los procesos de entrega recepción, emisión de lineamientos, determinación de criterios, formatos autorizados y demás disposiciones administrativas que a la entrada en vigor de la presente Ley resulten aplicables conforme a la Ley que Establece las Bases para la Entrega Recepción Administrativa en el Estado de Querétaro, deberán entenderse aplicables a esta Ley, hasta en tanto la Secretaría de la Contraloría, el Consejo de la Judicatura, así como los órganos internos de control del Poder Legislativo, organismos públicos autónomos y de los ayuntamientos de los municipios del Estado, determinen la reglamentación normativa del proceso de entrega recepción.
+
+Artículo Tercero. Se abroga la Ley que Establece las Bases para la Entrega Recepción Administrativa en el Estado de Querétaro publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número 12, de fecha 24 de marzo de 2000.
