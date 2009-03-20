@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-federalismo-hacendario-del-estado-de-puebla-11372"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-28"
-last_updated: "2004-04-05"
+last_updated: "2009-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY PARA EL FEDERALISMO HACENDARIO DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE COORDINACION HACENDARIA DEL ESTADO DE PUEBLA Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 20 DE MARZO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el miércoles 28 de enero de 1998.
 
@@ -1308,3 +1310,21 @@ P.O. 5 DE ABRIL DE 2004.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE MARZO DE 2009.
+
+PRIMERO.- La presente Ley deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se abroga la Ley para el Federalismo Hacendario del Estado de Puebla, publicada en el Periódico Oficial del Estado de fecha 28 de enero de 1998.
+
+TERCERO.- Se derogan las disposiciones del Reglamento de la Ley para el Federalismo Hacendario del Estado de Puebla, publicado en el Periódico Oficial del Estado el 13 de marzo de 1998, que se opongan a la presente Ley.
+
+CUARTO.- En tanto no se emitan los lineamientos a que se refiere la fracción VIII del artículo 136 de la presente Ley, los Comités de Planeación para el Desarrollo Municipal o la instancia de participación social que constituyan los Municipios, observarán en lo conducente, lo previsto en el Reglamento de la Ley para el Federalismo Hacendario del Estado de Puebla, publicado en el Periódico Oficial del Estado del 13 de marzo de 1998.
+
+QUINTO.- Para efectos del artículo 114 de de esta Ley, los Municipios que decidan acogerse a los beneficios previstos en las Reglas para la aplicación del Artículo Segundo, fracción II, de las Disposiciones Transitorias de la Ley de Coordinación Fiscal contenidas en el Decreto por el que se reforman, adicionan, derogan y abrogan diversas disposiciones de la Ley de Coordinación Fiscal, de la Ley del Impuesto sobre Tenencia o Uso de Vehículos y de la Ley del Impuesto Especial sobre Producción y Servicios, publicadas en el Diario Oficial de la Federación del 28 de marzo de 2008, así como sus reformas publicadas en el citado órgano de difusión oficial del 12 de diciembre de 2008, de manera previa al reconocimiento de sus adeudos históricos, deberán conocer el importe total a que ascienden los mismos para cada ejercicio fiscal, el mecanismo empleado para su determinación, así como las constancias que acrediten que no han prescrito y son legalmente exigibles.
+
+SEXTO.- La retención de recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios a que se refiere el tercer párrafo del artículo 114 de esta Ley, sólo procederá para los adeudos que se hayan generado a partir del 1 de enero de 2008.
+
+SÉPTIMO.- Aquellos Municipios que realicen el pago de derechos y aprovechamientos por concepto de agua con cargo a recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios, gestionarán ante la Comisión Nacional del Agua o en su caso, ante el organismo que preste los servicios correspondientes, el que se ejecuten obras y acciones de infraestructura en materia de abastecimiento de agua potable, drenaje o saneamiento de aguas residuales en su circunscripción territorial.
+
+OCTAVO.- Se derogan todas aquellas disposiciones de carácter legal y administrativa que se opongan a la presente Ley.
