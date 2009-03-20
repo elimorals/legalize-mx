@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2009-02-06"
+last_updated: "2009-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO PENAL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2009.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -2223,7 +2223,7 @@ VII.- Registre o haga registrar un divorcio o nulidad de matrimonio que no hubie
 
 VIII.- Declare falsamente el fallecimiento de una persona en el acta respectiva.
 
-### CAPITULO I. CORRUPCION Y EXPLOTACION DE MENORES E INCAPACES, PORNOGRAFIA INFANTIL Y PROSTITUCION DE MENORES
+### CAPITULO I. CORRUPCION Y EXPLOTACION DE MENORES E INCAPACES, PORNOGRAFIA INFANTIL, PROSTITUCION DE MENORES Y TURISMO SEXUAL
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
@@ -2447,7 +2447,7 @@ Las mismas penas se aplicarán al que sin tener título o autorización para eje
 
 ## TITULO CUARTO. DELITOS CONTRA LA MORAL PUBLICA
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE MARZO DE 2009)</small>
 
 ### CAPITULO IV. ABUSO DE AUTORIDAD
 
@@ -2500,6 +2500,12 @@ ARTICULO 274 BIS C.- Si en la comisión de los delitos previstos en este capítu
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ARTICULO 274 BIS D.- Al que teniendo conocimiento directo de la comisión de alguna de las conductas de corrupción o explotación de menores, de pornografía infantil o de prostitución de menores tipificadas en el presente capítulo, no las denuncie ante las autoridades preventivas o investigadoras de los delitos, se les impondrán de tres meses a un año de prisión o de cincuenta a doscientos días multa.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2009)</small>
+
+ARTICULO 274 BIS E.- Comete el delito de turismo sexual quien financie, promueva, publicite, invite, facilite o gestione por cualquier medio para que una persona viaje al interior o exterior del territorio del Estado, con la finalidad de que realice cualquier tipo de actos sexuales reales o simulados con una o varias personas menores de dieciocho años de edad o que no tengan la capacidad de comprender el significado del hecho. Al autor de este delito se le impondrá una pena de siete a doce años de prisión y de ochocientos a dos mil días multa.
+
+A quien realice cualquier tipo de actos sexuales reales o simulados con una o varias personas menores de dieciocho años de edad o persona que no tenga la capacidad de comprender el significado del hecho o de persona que no tiene capacidad de resistir la conducta, en virtud de las conductas antes descritas, se le impondrá una pena de doce a dieciséis años de prisión y de dos mil a tres mil días multa.
 
 ### CAPITULO V. INTIMIDACION
 
@@ -3596,3 +3602,9 @@ P.O. 6 DE FEBRERO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 20 DE MARZO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
