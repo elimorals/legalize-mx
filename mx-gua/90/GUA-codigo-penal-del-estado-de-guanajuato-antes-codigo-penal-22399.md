@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2007-06-12"
+last_updated: "2009-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO PENAL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2009.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -1375,6 +1375,8 @@ Si se hiciere uso de violencia la sanción será de seis meses a tres años de p
 
 ### CAPÍTULO I. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA FAMILIAR
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
 ### CAPÍTULO II. DELITOS CONTRA LA FILIACIÓN Y EL ESTADO CIVIL
 
 ### CAPÍTULO III. BIGAMIA
@@ -1639,9 +1641,13 @@ Tratándose de delitos patrimoniales que se persigan por querella no se aplicar�
 
 ###### Artículo 215.
 
-A quien injustificadamente deje de satisfacer obligaciones alimentarias, no suministrando a otro los recursos necesarios para que subsista, se le aplicará prisión de seis meses a tres años y de diez a treinta días multa, así como el pago de los alimentos caídos en los términos de la ley civil.
+A quien injustificadamente deje de satisfacer obligaciones alimentarias, se le impondrá una pena de prisión de seis meses a tres años y de diez a treinta días multa, además del pago de las obligaciones no cumplidas.
 
-Este delito sólo se perseguirá por querella. Si la persona ofendida fuere menor de edad o incapaz, podrá ser formulada por institución de asistencia familiar o de atención a víctimas del delito.
+La acción penal se ejercerá independientemente de que haya iniciado o no algún procedimiento civil.
+
+Este delito se perseguirá por querella. Si la persona ofendida fuere menor de edad, incapaz o adulto mayor, la querella podrá ser formulada por institución de asistencia familiar o de atención a víctimas del delito.
+
+El perdón procederá sólo cuando se hayan cubierto las obligaciones omitidas y se otorgue garantía para su futuro cumplimiento hasta cuando menos por un año.
 
 A quien se coloque dolosamente en estado de insolvencia con el propósito de eludir el cumplimiento de sus obligaciones alimentarias, se le aplicará de uno a cuatro años de prisión.
 
@@ -2522,3 +2528,11 @@ El presente Decreto entrará en vigencia el 12 doce de septiembre del año 2006 
 P.O. 12 DE JUNIO DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor el quince de junio de dos mil siete, previa su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 20 DE MARZO DE 2009.
+
+Artículo Primero. El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Las reformas y adiciones relativas al Código de Procedimientos Civiles para el Estado de Guanajuato, sobre el juicio sumario de pago o aseguramiento de alimentos, sólo serán aplicables a los nuevos procedimientos que se inicien a partir de la entrada en vigor del presente decreto.
+
+Artículo Tercero. Los juicios actualmente en trámite que tengan por objeto el pago o aseguramiento de alimentos continuarán tramitándose en la vía en que hayan sido admitidos.
