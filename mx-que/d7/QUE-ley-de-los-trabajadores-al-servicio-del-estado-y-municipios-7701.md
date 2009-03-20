@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-trabajadores-al-servicio-del-estado-y-municipios-770
 country: "mx"
 rank: "ley"
 publication_date: "1987-08-27"
-last_updated: "2006-07-19"
+last_updated: "2009-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7701&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LOS TRABAJADORES DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 20 DE MARZO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley Publicada en el Periódico Oficial del Estado de Querétaro, el jueves 27 de agosto de 1987.
 
@@ -1730,3 +1732,17 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Per
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+P.O. 20 DE MARZO DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley de Trabajadores al Servicio del Estado y Municipios, publicada el día 27 de agosto de 1987, en el Periódico Oficial del Gobierno del Estado (No. 35), "La Sombra de Arteaga".
+
+Artículo Tercero. La promulgación de esta Ley de ninguna manera implica que los trabajadores pierdan sus derechos adquiridos con anterioridad.
+
+Artículo Cuarto. Las disposiciones contenidas en esta Ley no impiden que los trabajadores adquieran con posterioridad conquistas sindicales que impliquen mejorar las prestaciones socio-económicas y condiciones de trabajo; como también revisar y subsanar su contenido en favor de los trabajadores. Lo anterior podrá realizarse mediante convenios entre Sindicato y el Gobierno y demás entidades.
+
+Artículo Quinto. Los acuerdos, convenios, reglamentos, costumbres, prerrogativas y en general los derechos que estén establecidos en favor de los trabajadores, superiores a los que en esta Ley concede, continuarán surtiendo sus efectos en todo aquello que les beneficie.
+
+Artículo Sexto. Las designaciones y denominación del cargo a que hace referencia el artículo 159 de la presente ley se realizarán en la fecha que corresponda al término de la vigencia de los nombramientos de los actuales integrantes de las salas y del Tribunal de Conciliación y Arbitraje.
