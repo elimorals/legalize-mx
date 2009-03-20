@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "2008-06-13"
+last_updated: "2009-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2009.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -2697,13 +2697,23 @@ III.- Custodia de menores; y
 
 IV.- Separación de cónyuges.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
 ###### Art. 402.
 
-La medida a que se refiere la fracción I del artículo anterior, se concederá a solicitud del interesado, quien deberá fijar el importe de la demanda, si aun no se instaura el juicio. La resolución que conceda la medida fijará el importe de la cantidad que deba asegurarse.
+La medida a que se refiere la fracción I del artículo anterior, se concederá a solicitud del interesado, quien deberá fijar el importe de la demanda, si aún no se instaura el juicio. La resolución que conceda la medida fijará el importe de la cantidad que deba asegurarse.
 
-Si la medida se refiere a alimentos provisionales, deberá acreditarse la necesidad de los mismos y la posibilidad de quien deba darlos, y la resolución que los ordene fijará la cantidad que periódicamente deba ministrarse y ordenará que se otorgue la correspondiente garantía de que se ministrarán, y, en caso de no otorgarse, que se embarguen bienes suficientes para garantizarlos.
+Si la medida se refiere a alimentos provisionales, bastará que el acreedor alimentario demuestre su derecho a recibir alimentos, debiendo manifestar además, si el deudor alimentario trabaja en alguna empresa pública o privada, tiene un negocio propio, trabaja por su cuenta o si cuenta con bienes de su propiedad.
 
-Al solicitarse la medida debe comprobarse el derecho con que se piden los alimentos.
+El juez despachará sin más trámite la medida precautoria, fijando en la resolución que la ordene la cantidad que periódicamente deba ministrarse y ordenará que se otorgue la correspondiente garantía de que se ministrarán, requiriéndose al deudor alimentario del pago inmediato de la pensión provisional y, en caso de no otorgarse, que se le embarguen bienes suficientes de su propiedad para garantizarlos.
+
+Cuando se trate de un asalariado, el juez podrá fijar la pensión provisional de manera proporcional a los ingresos que recibe el deudor alimentario. Si trabaja por su cuenta o tiene un negocio propio y no se tiene información de sus ingresos, por lo menos otorgará un salario mínimo correspondiente a la actividad del deudor.
+
+La medida se notificará de inmediato a la persona física o moral de quien reciba ingresos el deudor alimentario, ordenándole para que se haga entrega de la pensión provisional al que exige alimentos.
+
+Para el caso de incumplimiento de la cantidad fijada para ministrarse periódicamente, se manifestará así al juez del conocimiento, quién dará vista por el término de tres días en forma personal al obligado, a fin de que acredite con prueba documental su pago, en caso contrario se procederá a hacer entrega de los frutos, productos, ganancias o ingresos que generen los bienes embargados o intervenidos y, en caso de no darse, se procederá al remate de dichos bienes, aplicándose en lo conducente las disposiciones del Capítulo VII, Título Sexto, Libro Segundo, de este Código.
+
+Contra la resolución en que se otorguen los alimentos provisionales, no habrá recurso alguno y contra la que los deniegue procederá la apelación.
 
 ###### Art. 403.
 
@@ -5353,9 +5363,13 @@ Se tramitarán en la vía sumaria:
 
 I.- Los juicios de rectificación de las actas del estado civil;
 
-II.- La consignación ordenada por el artículo 1592 del Código Civil; y
+II.- La consignación ordenada por el artículo 1592 del Código Civil; y (sic)
 
-III.- Los juicios en materia de arrendamiento inmobiliario.
+III.- Los juicios en materia de arrendamiento inmobiliario;
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2009)</small>
+
+IV.- Los juicios que versen sobre el pago o aseguramiento de alimentos.
 
 > <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1971)</small>
 
@@ -5544,6 +5558,56 @@ La audiencia se desahogará concurran o no las partes.
 ###### Art. 769.
 
 Desahogada la audiencia a que se refiere el artículo anterior, el Juez señalará día y hora para la recepción de las probanzas aportadas por las partes, dando curso al procedimiento.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2009)</small>
+
+### CAPÍTULO SEXTO (SIC). Del pago o aseguramiento de alimentos
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2009)</small>
+
+###### Art. 770.
+
+Para decretar alimentos en favor de quien tenga derecho de exigirlos, bastará acreditar el mismo, con los siguientes documentos: testamento, los documentos comprobantes de parentesco o de matrimonio, el convenio o la ejecutoria en que conste la obligación de dar alimentos.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2009)</small>
+
+###### Art. 771.
+
+Presentada la demanda, se correrá traslado al deudor alimentario por un término de tres días para que produzca su contestación.
+
+Las pruebas deberán anunciarse o presentarse junto con los escritos de demanda y de contestación de la misma, según corresponda.
+
+En el auto que admita la demanda y cuando no se haya decretado en una medida precautoria, el juez fijará de oficio una pensión provisional, contra la cual no se admitirá recurso alguno. Para la determinación de la pensión provisional, se observará lo establecido en el artículo 402 de este Código.
+
+Dentro de los tres días siguientes, agotado el plazo para formular la contestación, se celebrará una audiencia de desahogo de pruebas y formulación de alegatos, citándose a las partes conforme a las reglas de las notificaciones personales, con las prevenciones y apercibimientos que legalmente se requieran.
+
+Cuando las partes tengan que rendir prueba testimonial, deberán anunciarla mencionando los nombres de los testigos.
+
+Si las partes solicitan el envío de oficio para pedir informes sobre el ingreso o bienes del deudor alimentario se ordenará que aquéllos se envíen de inmediato, con los apercibimientos de ley, para que puedan tenerse a la vista en la audiencia de desahogo de pruebas y formulación de alegatos.
+
+Concluida la audiencia de desahogo de pruebas y formulación de alegatos, la sentencia se pronunciará dentro de los cinco días siguientes.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2009)</small>
+
+###### Art. 772.
+
+La sentencia que decrete los alimentos, fijará la pensión correspondiente que deberá ministrarse siempre por adelantado. La sentencia respectiva, indicará siempre en sus partes considerativa y resolutiva, que el monto de la pensión podrá modificarse en su cuantía, previo el procedimiento respectivo, para que esté ajustada permanentemente a las necesidades del acreedor alimentario y a las posibilidades del obligado a proporcionar alimentos; esta circunstancia, deberá hacerse personalmente del conocimiento de las partes, al ser notificada la sentencia respectiva.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2009)</small>
+
+###### Art. 773.
+
+Notificada la sentencia se comunicará sin demora a la persona física o moral de quien perciba el ingreso el deudor alimentario, para que se haga entrega de la misma al que exige los alimentos.
+
+El embargo trabado para garantizar el pago de la pensión provisional, se tendrá por definitivo, pudiendo ampliarse el mismo y procederse, de ser el caso, al remate para cubrirse el pago de las pensiones provisionales adeudadas y de la fijada en la sentencia y subsecuentes.
+
+La pensión provisional se seguirá otorgando hasta en tanto no se haga efectiva la sentencia condenatoria.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2009)</small>
+
+###### Art. 774.
+
+La sentencia en que se nieguen los alimentos será apelable en ambos efectos y la que los concede sólo en el efecto devolutivo.
 
 ## TRANSITORIOS.
 
@@ -5789,13 +5853,13 @@ Conforme a las previsiones presupuestales para el ejercicio fiscal de 1997, cont
 
 Una vez que se instale el Juzgado mixto de primera instancia de nueva creación, los juzgados civil y penal de primera instancia de San Miguel de Allende le remitirán los expedientes de su competencia por territorio.
 
-P.O. 1 DE ABRIL DE 1997.
+P.O. 11 DE FEBRERO DE 1997.
 
 ###### ARTICULO UNICO.
 
 EL PRESENTE DECRETO ENTRARA EN VIGOR AL CUARTO DIA SIGUIENTE AL DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
 
-P.O. 17 DE JUNIO DE 1997.
+P.O. 1 DE ABRIL DE 1997.
 
 ###### ARTICULO PRIMERO.
 
@@ -5807,7 +5871,7 @@ El presente Decreto entrará en vigor el cuarto día siguiente al de su publicac
 
 Para los efectos de los artículos 23 del Código de Procedimientos Civiles y 295 y 351 del Código de Procedimientos Penales reformados, los asuntos que se encuentren en trámite al momento de entrada en vigor del presente Decreto, continuarán substanciándose ante el Juzgado que esté conociendo de los mismos.
 
-P.O. 11 DE FEBRERO DE 1997.
+P.O. 17 DE JUNIO DE 1997.
 
 ###### ARTICULO UNICO.
 
@@ -5856,3 +5920,11 @@ P.O. 13 DE JUNIO DE 2008.
 Artículo Primero. El presente decreto entrará en vigor al cuarto día siguiente a la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Segundo. Los juicios de adopción que estén en trámite, se continuarán substanciando conforme a las reglas vigentes al momento de su promoción.
+
+P.O. 20 DE MARZO DE 2009.
+
+Artículo Primero. El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Las reformas y adiciones relativas al Código de Procedimientos Civiles para el Estado de Guanajuato, sobre el juicio sumario de pago o aseguramiento de alimentos, sólo serán aplicables a los nuevos procedimientos que se inicien a partir de la entrada en vigor del presente decreto.
+
+Artículo Tercero. Los juicios actualmente en trámite que tengan por objeto el pago o aseguramiento de alimentos continuarán tramitándose en la vía en que hayan sido admitidos.
