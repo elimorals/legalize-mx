@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-la-regularizacion-de-los-asentamientos-humanos-56228"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-20"
-last_updated: "2007-07-20"
+last_updated: "2009-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY PARA LA REGULARIZACION DE LOS ASENTAMIENTOS HUMANOS IRREGULARES DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA REGULARIZACION DE LOS ASENTAMIENTOS HUMANOS IRREGULARES DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 20 DE MARZO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de julio de 2007.
 
@@ -522,3 +524,21 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE MARZO DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley para la Regularización de los Asentamientos Humanos Irregulares del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número 46, de fecha veinte de julio de dos mil siete.
+
+Artículo Tercero. La vigencia de la presente Ley será de 3 años, contados a partir de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Cuarto. Al término de la vigencia de esta Ley, los procedimientos que no cuenten con el acuerdo de procedencia de regularización emitida por el ayuntamiento respectivo, se tendrán por no regularizados.
+
+Artículo Quinto. Los programas de regularización iniciados con anterioridad a la publicación de la presente Ley, seguirán su curso normal, conforme a lo establecido en ellos y no les será aplicable este ordenamiento legal, salvo en disposiciones no contenidas en ellos, que no afecten intereses de los particulares
+
+Artículo Sexto. La aplicación de esta Ley, es independiente de lo previsto en los Códigos Penal y de Procedimientos Penales del Estado de Querétaro, respecto de los delitos que se hayan cometido o se cometan contra la seguridad y el orden en el desarrollo urbano.
+
+Artículo Séptimo. Para efectos de lo dispuesto en el artículo 22 de la presente Ley, se tiene por constituida y en funciones a la Comisión Estatal para la Regularización de los Asentamientos Humanos Irregulares y por reconocidos aquellos actos ejercidos dentro de los procesos de regularización que en uso de facultades haya realizado o se encuentren en trámite con motivo de esta Ley.
