@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-administracion-publica-para-el-municipio-60268
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2008-02-22"
+last_updated: "2009-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2009.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de febrero de 2008.
 
@@ -1607,9 +1607,13 @@ XIII.- Las demás que expresamente le encomienden las leyes y reglamentos o le i
 
 Para el cumplimiento de sus obligaciones, la Secretaría de Desarrollo Social, tendrá a su cargo las siguientes áreas:
 
-I.- Dirección De Servicios Médicos; y
+I.- Dirección De Servicios Médicos; y (sic)
 
-II.- Dirección de Educación; (sic)
+II.- Dirección de Educación;
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2009)</small>
+
+III.- Unidad de atención a Grupos Vulnerables (Discapacitados y Comunidad Sorda).
 
 ###### ARTÍCULO 87.
 
@@ -2000,3 +2004,9 @@ PRESIDENTE MUNICIPAL DEL XIX AYUNTAMIENTO DE ENSENADA, B.C.
 MARIO ALBERTO GARCIA SALAIZA
 
 SECRETARIO FEDATARIO DEL XIX AYUNTAMIENTO DE ENSENADA, B.C.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 20 DE MARZO DE 2009.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
