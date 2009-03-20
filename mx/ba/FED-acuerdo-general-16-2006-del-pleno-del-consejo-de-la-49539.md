@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-16-2006-del-pleno-del-consejo-de-la-49539"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-03-10"
-last_updated: "2006-06-30"
+last_updated: "2009-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49539&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-02-28"
 
 ACUERDO GENERAL 16/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE OTORGA LA PRESTACION DEL FONDO DE RESERVA INDIVIDUALIZADO PARA EL PERSONAL DE NIVEL OPERATIVO DE LOS ORGANOS JURISDICCIONALES FEDERALES Y DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE MARZO DE 2009.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 10 de marzo de 2006.
 
@@ -95,9 +95,11 @@ El Fondo se constituirá con las aportaciones que al efecto realicen los servido
 
 El Pleno, con la opinión de la Comisión, determinará la Institución que deberá operar y administrar el Fondo y autorizará el contrato de servicios respectivo, con la intervención técnica del Comité de Inversión de Recursos Financieros del Consejo.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 7/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 20 DE MARZO DE 2009)</small>
+
 ###### Artículo 7.
 
-Los servidores públicos podrán realizar aportaciones voluntarias al Fondo por un importe equivalente al 2% de su sueldo integrado, con cargo a su salario a través del sistema de nómina, y el Consejo también pagará un importe al Fondo equivalente al porcentaje que el servidor público aporte, el cual cubrirá por cuenta y en nombre de éste.
+Los servidores públicos podrán realizar aportaciones voluntarias al Fondo por un importe equivalente al 2, 5 y 10% de su sueldo integrado a elección del servidor público, con cargo a su salario a través del sistema de nómina, y el Consejo también pagará un importe al Fondo equivalente al porcentaje que el servidor público aporte, el cual cubrirá por cuenta y en nombre de éste.
 
 ###### Artículo 8.
 
@@ -198,3 +200,11 @@ D.O.F. 30 DE JUNIO DE 2006.
 PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 20 DE MARZO DE 2009.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, el texto de esta reforma, al Acuerdo General 16/2006, del Pleno del Consejo de la Judicatura Federal, por el que se Otorga la Prestación del "Fondo de Reserva Individualizado" para el Personal de Nivel Operativo de los Organos Jurisdiccionales Federales y del Consejo de la Judicatura Federal.
