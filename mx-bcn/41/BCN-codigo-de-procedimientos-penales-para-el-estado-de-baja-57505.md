@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-57505"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-19"
-last_updated: "2007-10-19"
+last_updated: "2009-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
 > <small>N. DE E. EN RELACION A LA ENTRADA EN VIGENCIA DEL PRESENTE ORDENAMIENTO, VEASE, SEGUN CORRESPONDA EL PARTIDO JUDICIAL DEL ESTADO, VER ARTICULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2007.</small>
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2009.
 
 Código publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -2095,7 +2095,7 @@ La solicitud de desahogo de prueba anticipada podrá plantearse desde que se pre
 
 ###### Artículo 267.
 
-Audiencia.- En los casos previstos en el artículo precedente, el Juez deberá citar a todos aquellos que tuvieren derecho a asistir a la audiencia de debate de juicio oral, quienes tendrán todas las facultades previstas para su participación en el mismo. En caso de que todavía no exista imputado se designará un defensor público para que intervenga en la audiencia. Cuando exista extrema urgencia, las partes podrán requerir verbalmente la intervención del Juez, quien practicará el acto con prescindencia de las citaciones previstas, designando, en su caso, un defensor público. Se dejará constancia de los motivos que fundaron la urgencia.
+Audiencia.- En los casos previstos en el artículo precedente, el Juez deberá citar a todos aquellos que tuvieren derecho a asistir a la audiencia de debate de juicio oral, quienes tendrán todas las facultades previstas para su participación en el mismo. En caso de que todavía no exista imputado se designará un defensor público para que intervenga en la audiencia. Cuando exista extrema urgencia, las partes podrá requerir verbalmente la intervención del Juez, quien practicará el acto con prescindencia de las citaciones previstas, designando, en su caso, un defensor público. Se dejará constancia de los motivos que fundaron la urgencia.
 
 La audiencia en la que se desahogue el testimonio anticipado deberá video grabarse.
 
@@ -2643,7 +2643,7 @@ V. Desalojo público de la sala de audiencia.
 
 Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
 
-Si el infractor fuese el Ministerio Público, el imputado, su defensor, la víctima u ofendido, o el acusador coadyuvante, y fuere necesario expulsarlos de la sala de audiencia, se aplicarán las reglas conducentes para el caso de su ausencia.
+Si el infractor fuere el Ministerio Público, el imputado, su defensor, la víctima u ofendido, o el acusador coadyuvante, y fuere necesario expulsarlos de la sala de audiencia, se aplicarán las reglas conducentes para el caso de su ausencia.
 
 En caso de que, a pesar de las medidas adoptadas, no pueda reestablecerse el orden, quien preside la audiencia la suspenderá hasta en tanto se encuentren reunidas las condiciones que permitan continuar con su curso normal.
 
@@ -3413,11 +3413,13 @@ Rechazo.- El rechazo de la solicitud de revisión no impedirá la interposición
 
 T R A N S I T O R I O S
 
-Artículo Primero.- Inicio de Vigencia.- El presente Código entrará en vigor a las cero horas de día primero de junio del año dos mil nueve en el partido judicial de Mexicali y en forma sucesiva y anual, en los demás partidos judiciales del Estado, conforme al siguiente orden:
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
-I. Ensenada, a partir de las cero horas del día primero de junio del año dos mil diez.
+Artículo Primero.- El presente Código entrará en vigor a las cero horas de día primero de febrero del año dos mil diez en el partido judicial de Mexicali y en forma sucesiva y anual, en los demás partidos judiciales del Estado, conforme al siguiente orden:
 
-II. Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día primero de junio del año dos mil once.
+I. Ensenada, a partir de las cero horas del día primero de febrero del año dos mil once.
+
+II. Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día primero de febrero del año dos mil doce.
 
 Artículo Segundo.- Abrogación. El Código de Procedimientos Penales promulgado el veinte de agosto de mil novecientos ochenta y nueve seguirá rigiendo, en lo conducente, en los procedimientos iniciados con anterioridad a la aplicación del presente ordenamiento, y quedará abrogado en la medida en que aquellos queden agotados.
 
@@ -3427,17 +3429,7 @@ Artículo Cuarto.- Delitos Permanentes y Continuados. El procedimiento penal rel
 
 Artículo Quinto.- Prohibición de Acumulación de Procesos. No procederá la acumulación de procesos sobre hechos delictuosos, cuando alguno de ellos esté sometido al presente Código y otro al abrogado.
 
-Artículo Sexto.- Eficacia Retroactiva.- Ninguna norma del presente ordenamiento se podrá aplicar a los procesos que deban continuar tramitándose conforme al Código de Procedimientos Penales para el Estado de Baja California, promulgado en el año de mil novecientos ochenta y nueve, salvo lo que se dispone a continuación: A) La facultad de archivo y la aplicación de los criterios de oportunidad en el ejercicio de la acción penal, excepto cuando se trate de los delitos de asociación delictuosa, los calificados como graves y el de delincuencia organizada previsto por la ley de la materia, B) Los acuerdos reparatorios y la suspensión del proceso a prueba, C) El procedimiento abreviado y D) El recurso de revisión.
-
-Las facultades que el presente Código concede al Juez de garantía, serán ejercidas, para efectos de este artículo, por el Juez de primera instancia penal, mixta o Juez de paz, según corresponda.
-
-Para la aplicación de los institutos procesales previstos en el presente ordenamiento al proceso regulado por el Código de Procedimientos Penales para el Estado de Baja California de mil novecientos ochenta y nueve, se estará a las siguientes normas de éste último.
-
-I. Los acuerdos reparatorios podrán celebrarse hasta antes de la celebración de la audiencia a que se refiere su artículo 291;
-
-II. La suspensión de proceso a prueba podrá decretarse hasta antes de que se cierre la instrucción, conforme lo dispone su artículo 285;
-
-III. El procedimiento abreviado se tramitará conforme a los dispuesto en el tercer párrafo de su artículo 284 bis, y podrá solicitarse hasta antes de que se desahoguen las pruebas ofrecidas por las partes, en este caso, éstas deberán desistirse de las probanzas pendientes de desahogo. Los hechos que el imputado deberá reconocer, son aquellos materia del auto de formal prisión o de sujeción a proceso.
+Artículo Sexto.- (REFORMADO [N. DE E. DEROGADO], P.O. 20 DE MARZO DE 2009)
 
 Artículo Séptimo.- Legislación de Transición.- Antes de la entrada en vigencia de este Código, deberán reformarse las leyes que regulen la competencia y estructura de los órganos judiciales, de la Defensoría de Oficio, del Ministerio Público, de los Cuerpos de Seguridad Pública, así como la legislación penitenciaria y en general, toda aquella que sea necesaria para su implementación.
 
@@ -3468,3 +3460,9 @@ EUGENIO ELORDUY WALTHER.
 SECRETARIO GENERAL DE GOBIERNO
 
 BERNARDO H. MARTINEZ AGUIRRE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 20 DE MARZO DE 2009.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA ENTRADA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL FEDERAL VIGENTE.
