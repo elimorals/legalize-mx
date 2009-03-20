@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2009-02-13"
+last_updated: "2009-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
 > <small>N. DE E. EL PRESENTE ORDENAMIENTO SERA ABROGADO PROGRESIVAMENTE, SEGUN CORRESPONDA EL PARTIDO JUDICIAL DEL ESTADO, POR LOS ARTICULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2007.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2009.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -3697,11 +3697,13 @@ P.O. 19 DE OCTUBRE DE 2007.
 
 DECRETO NUMERO 444
 
-Artículo Primero.- Inicio de Vigencia.- El presente Código entrará en vigor a las cero horas del día primero de junio del año dos mil nueve en el partido judicial de Mexicali y en forma sucesiva y anual, en los demás partidos judiciales del Estado, conforme al siguiente orden:
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
-I. Ensenada, a partir de las cero horas del día primero de junio del año dos mil diez.
+Artículo Primero.- El presente Código entrará en vigor a las cero horas del día primero de febrero del año dos mil diez en el partido judicial de Mexicali y en forma sucesiva y anual, en los demás partidos judiciales del Estado, conforme al siguiente orden:
 
-II. Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día primero de junio del año dos mil once.
+I. Ensenada, a partir de las cero horas del día primero de febrero del año dos mil once.
+
+II. Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día primero de febrero del año dos mil doce.
 
 Artículo Segundo.- Abrogación. El Código de Procedimientos Penales promulgado el veinte de agosto de mil novecientos ochenta y nueve seguirá rigiendo, en lo conducente, en los procedimientos iniciados con anterioridad a la aplicación del presente ordenamiento, y quedará abrogado en la medida en que aquellos queden agotados.
 
@@ -3711,17 +3713,7 @@ Artículo Cuarto. Delitos Permanentes y Continuados. El procedimiento penal rela
 
 Artículo Quinto. Prohibición de Acumulación de Procesos. No procederá la acumulación de procesos sobre hechos delictuosos, cuando alguno de ellos esté sometido al presente Código y otro al abrogado.
 
-Artículo Sexto. Eficacia Retroactiva.- Ninguna norma del presente ordenamiento se podrá aplicar a los procesos que deban continuar tramitándose conforme al Código de Procedimientos Penales para el Estado de Baja California, promulgado en el año de mil novecientos ochenta y nueve, salvo lo que se dispone a continuación: A) La facultad de archivo y la aplicación de los criterios de oportunidad en el ejercicio de la acción penal, excepto cuando se trate de los delitos de asociación delictuosa, los calificados como graves y el de delincuencia organizada previsto por la ley de la materia, B) Los acuerdos reparatorios y la suspensión del proceso a prueba, C) El procedimiento abreviado y D) El recurso de revisión.
-
-Las facultades que el presente Código concede al Juez de garantía, serán ejercidas, para efectos de este artículo, por el Juez de primera instancia penal, mixta o Juez de paz, según corresponda.
-
-Para la aplicación de los institutos procesales previstos en el presente ordenamiento al proceso regulado por el Código de Procedimientos Penales para el Estado de Baja California de mil novecientos ochenta y nueve, se estará a las siguientes normas de éste último.
-
-I. Los acuerdos reparatorios podrán celebrarse hasta antes de la celebración de la audiencia a que se refiere su artículo 291;
-
-II. La suspensión de proceso a prueba podrá decretarse hasta antes de que se cierre la instrucción, conforme lo dispone su artículo 285;
-
-III. El procedimiento abreviado se tramitará conforme a los dispuesto en el tercer párrafo de su artículo 284 bis, y podrá solicitarse hasta antes de que se desahoguen las pruebas ofrecidas por las partes, en este caso, éstas deberán desistirse de las probanzas pendientes de desahogo. Los hechos que el imputado deberá reconocer, son aquellos materia del auto de formal prisión o de sujeción a proceso.
+Artículo Sexto. (REFORMADO [N. DE E. DEROGADO], P.O. 20 DE MARZO DE 2009)
 
 Artículo Séptimo.- Legislación de Transición.- Antes de la entrada en vigencia de este Código, deberán reformarse las leyes que regulen la competencia y estructura de los órganos judiciales, de la Defensoría de Oficio, del Ministerio Público, de los Cuerpos de Seguridad Pública, así como la legislación penitenciaria y en general, toda aquella que sea necesaria para su implementación.
 
@@ -3744,3 +3736,7 @@ P.O. 19 DE SEPTIEMBRE DE 2008.
 P.O. 13 DE FEBRERO DE 2009.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE MARZO DE 2009.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA ENTRADA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL FEDERAL VIGENTE.
