@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-29867
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-26"
-last_updated: "2005-03-16"
+last_updated: "2009-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el miércoles 26 de marzo de 2003.
 
@@ -107,9 +107,9 @@ No estarán sujetas a las disposiciones de esta Ley, las obras que deban ejecuta
 
 Para efectos de la presente Ley, se entenderá por:
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
 
-I.- Convocante: La Secretaría de Desarrollo Urbano y Obras Públicas y el Comité de Obra Municipal en el ámbito municipal, según corresponda;
+I.- Convocante: La Secretaría de Desarrollo Urbano y Obras Públicas, las Dependencias y Entidades Paraestatales que de conformidad con la Ley Orgánica de la Administración Pública del Estado, su Decreto de creación, Reglamentos Interiores y demás disposiciones aplicables, según sea el caso, cuenten con facultades para ejecutar obra, así como el Comité de Obra Municipal en el ámbito municipal, según corresponda;
 
 II.- Contraloría.- La Secretaría de Desarrollo, Evaluación y Control de la Administración Pública Estatal o su similar Municipal;
 
@@ -181,13 +181,17 @@ IX.- Los estudios de apoyo tecnológico, incluyendo los de desarrollo y transfer
 
 X.- Todos aquellos de naturaleza análoga.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2009)</small>
 
 ###### ARTÍCULO 6.
 
-Corresponde en la Administración Pública del Estado a la Secretaría la realización de los procedimientos de adjudicación en todas sus fases, conforme a lo previsto en la presente Ley.
+Corresponde en la Administración Pública del Estado, a la Secretaría, así como a las Dependencias y Entidades Paraestatales que de conformidad con la Ley Orgánica de la Administración Pública del Estado, su Decreto de creación, Reglamentos Interiores y demás disposiciones aplicables, según sea el caso, cuenten con facultades para ejecutar obra, la realización de los procedimientos de adjudicación en todas sus fases, conforme lo previsto en la presente Ley.
 
-Solo por excepción las dependencias y entidades bajo su responsabilidad podrán adjudicar en forma directa los contratos en los términos de lo previsto en la presente Ley.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
+Sólo por excepción las demás Dependencias y Entidades bajo su responsabilidad, podrán adjudicar en forma directa los contratos en los términos de lo previsto en la presente Ley.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
 
 Por lo que respecta a la Administración Pública Municipal, la instrumentación de los procedimientos de adjudicación en todas sus fases, correrá a cargo de los Comités de Obra Pública que constituya cada Ayuntamiento. En el supuesto que no cuenten con los recursos necesarios para tal efecto, podrán celebrar convenio de colaboración administrativa con el Estado a través de la Secretaría, para que ésta realice los procedimientos de adjudicación de las obras públicas y servicios relacionados con la misma.
 
@@ -707,9 +711,11 @@ El escrito a que se refiere el primer párrafo del presente artículo, deberá s
 
 Posterior a la aprobación de la Secretaría, las dependencias y entidades podrán formalizar el contrato correspondiente.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MARZO DE 2009)</small>
+
 ###### ARTÍCULO 45.
 
-(DEROGADO, P.O. 16 DE MARZO DE 2005)
+Las Dependencias y Entidades Paraestatales que en términos de la presente Ley cuenten con facultades para realizar procedimientos de adjudicación en todas sus fases, no estarán sujetas a lo dispuesto en los párrafos penúltimo y último del artículo 44 de esta Ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
@@ -1564,3 +1570,17 @@ NOVENO.- Las erogaciones que deriven de la aplicación del presente Decreto, est
 DÉCIMO.- Los bienes muebles, los recursos humanos, materiales con los que a la fecha de la entrada en vigor del presente Decreto, correspondían al Comité Estatal de Obra Pública y Servicios Relacionados, pasarán a formar parte de la Secretaría de Desarrollo Urbano y Obras Públicas y a la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, según corresponda de acuerdo con las atribuciones que cada una adquiere en virtud del presente Decreto.
 
 UNDÉCIMO.- Quedan sin efecto todas aquellas disposiciones que contravengan a lo dispuesto en el presente Decreto.
+
+P.O. 20 DE MARZO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos que a la fecha de entrada en vigor del presente Decreto se encuentren en trámite, continuarán substanciándose por la Secretaría de Desarrollo Urbano y Obras Públicas del Estado hasta su total conclusión.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
