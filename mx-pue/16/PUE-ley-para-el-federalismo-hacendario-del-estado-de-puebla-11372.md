@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-federalismo-hacendario-del-estado-de-puebla-11372"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-28"
-last_updated: "2004-04-05"
+last_updated: "2009-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,47 +21,97 @@ state: "PUE"
 ---
 # LEY PARA EL FEDERALISMO HACENDARIO DEL ESTADO DE PUEBLA
 
-ACUERDO NÚMERO 80 DEL H. CONGRESO DEL ESTADO.- DECLARA QUE HA LUGAR A PROCEDER PENALMENTE EN CONTRA DEL C. GERARDO OCTAVIO VARGAS LANDEROS CONFORME LA CARPETA DE INVESTIGACIÓN CON LA QUE SE HA INTEGRADO EL EXPEDIENTE FGE/FECC/09/2024/CI DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DE LA FISCALÍA GENERAL DEL ESTADO DE SINALOA Y CONFORME A LA SOLICITUD DE DECLARATORIA DE PROCEDENCIA REALIZADA POR LA TITULAR DE LA FISCALÍA GENERAL DEL ESTADO DE SINALOA
+LEY PARA EL FEDERALISMO HACENDARIO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE COORDINACION HACENDARIA DEL ESTADO DE PUEBLA Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 20 DE MARZO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Acuerdo publicado en el número 57 Edición Vespertina del Periódico Oficial del Estado de Sinaloa, el viernes 9 de mayo de 2025.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
-El H. Congreso del Estado Libre y Soberano de Sinaloa, representado por su Sexagésima Quinta Legislatura, ha tenido a bien expedir el siguiente:
+Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el miércoles 28 de enero de 1998.
 
-ACUERDO NÚMERO: 80
+Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- H. Congreso del Estado.- Puebla.
 
-###### ARTÍCULO PRIMERO.
+MANUEL BARTLETT DIAZ, Gobernador Constitucional del Estado Libre y Soberano de Puebla, a sus habitantes sabed:
 
-El H. Congreso del Estado de Sinaloa, representado por su LXV Legislatura, con fundamento en lo previsto en los artículos 43 fracción XX de la Constitución Política y del 32 al 45 de la Ley de Responsabilidades de los Servidores Públicos ambas del Estado de Sinaloa, declara que ha lugar a proceder penalmente en contra del C. GERARDO OCTAVIO VARGAS LANDEROS conforme la carpeta de investigación con la que se ha integrado el Expediente FGE/FECC/09/2024/CI de la Fiscalía Especializada en Combate a la Corrupción de la Fiscalía General del Estado de Sinaloa y conforme a la solicitud de declaratoria de procedencia realizada por la Titular de la Fiscalía General del Estado de Sinaloa.
+Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
-###### ARTÍCULO SEGUNDO.
+EL HONORABLE QUINCUAGESIMO TERCER CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-Como consecuencia de los efectos mencionados en el numeral anterior, en los términos previstos por el artículo 33 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa, se declara la insubsistencia del fuero constitucional del que está investido el C. GERARDO OCTAVIO VARGAS LANDEROS, como Presidente del Municipio de Ahome, Sinaloa, con la finalidad de que se pueda ejercitar la acción penal por parte de la Fiscalía General del Estado y quede el ciudadano a disposición, en su caso, de los órganos jurisdiccionales competentes con el objeto de que pueda ser juzgado conforme a derecho.
+C O N S I D E R A N D O
 
-###### ARTÍCULO TERCERO.
+Que en Sesión Pública Ordinaria de esta fecha, Vuestra Soberanía tuvo a bien aprobar el Dictamen con Minuta de Ley para el Federalismo Hacendario del Estado de Puebla, emitida por las Comisiones Unidas de Gobernación, Justicia y Puntos Constitucionales y de Hacienda Pública y Patrimonio Estatal y Municipal del H. Congreso del Estado, presentada por la fracción parlamentaria del Partido Revolucionario Institucional del H. Congreso del Estado y por el Ejecutivo del Estado.
 
-Por los efectos de la Declaratoria de Procedencia relativa a la Comisión de Delitos, en los términos de lo dispuesto por los artículos 111 de la Constitución Política de los Estados Unidos Mexicanos; 136 de la Constitución Política del Estado de Sinaloa; y 41 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa, el C. GERARDO OCTAVIO VARGAS LANDEROS queda separado de manera inmediata del cargo de Presidente del Municipio de Ahome, Sinaloa por el que fue electo para el período 2024-2027.
+I. ANTECEDENTES
 
-###### ARTÍCULO CUARTO.
+1. Conforme a lo dispuesto en los artículos 115 fracción IV inciso b) y 124 de la Constitución General de la República, 57 fracción I y 103 de la Constitución Política del Estado Libre y Soberano de Puebla, el Congreso del Estado tiene facultades para legislar en la presente materia.
 
-Con la separación inmediata del cargo de Presidente Municipal de Ahome, Sinaloa del C. GERARDO OCTAVIO VARGAS LANDEROS, se declara la vacante de este cargo, debiéndose proceder por parte del Congreso del Estado, en los términos previstos en la fracción XV del artículo 43 de la Constitución Política del Estado de Sinaloa a nombrar al ciudadano o ciudadana que ocupará la titularidad de la Presidencia Municipal en calidad de sustituto.
+2. En este marco, con fecha 22 de enero de 1998, el Gobernador Constitucional del Estado y la fracción parlamentaria del Partido Revolucionario Institucional de la LIII Legislatura del H. Congreso del Estado, en uso de las facultades que les confiere el artículo 63 fracciones I y II, respectivamente de la Constitución Política del Estado Libre y Soberano de Puebla, presentaron a esta Legislatura, la "Iniciativa de Ley para el Federalismo Hacendario del Estado de Puebla".
 
-###### ARTÍCULO QUINTO.
+3. La presidenta de la mesa directiva acordó turnar la iniciativa en cuestión a las Comisiones Unidas de Gobernación, Justicia y Puntos Constitucionales; y de Hacienda Pública y Patrimonio Estatal y Municipal a efecto de dictaminar lo procedente sobre la iniciativa en estudio.
 
-Remítase el Expediente FGE/FECC/09/2024/CI de la Fiscalía Especializada en Combate a la Corrupción a la C. Mtra. Claudia Zulema Sánchez Kondo, Fiscal General del Estado de Sinaloa para que proceda al ejercicio de la acción penal correspondiente.
+II. CONSIDERACIONES
 
-###### ARTÍCULO SEXTO.
+Nuestro sistema federal surge con la concepción de ser una forma de organización política y económica de la sociedad organizada conforme a él, pero la propia evolución de la sociedad mexicana ha propiciado la necesidad de precisar los instrumentos concretos que se requieren a efecto de que constituya un sistema eficaz, moderno y actual para el mejoramiento integral de todos los mexicanos.
 
-Notifíquese el presente Acuerdo al H. Ayuntamiento del Municipio de Ahome, Sinaloa: al C. GERARDO OCTAVIO VARGAS LANDEROS, y a la Fiscalía General del Estado de Sinaloa, para todos los efectos legales a que haya lugar.
+Como todo Estado Federal, el mexicano tiene un orden jurídico supremo expresión de la soberanía popular, la Constitución, que crea a su vez dos tipos de órdenes jurídicos: el de la Federación y el de los Estados miembros de la misma. La Constitución es la norma suprema aplicable en la totalidad del territorio; es en razón de ella que tienen validez las reglas de distribución de competencias entre Federación y Estados.
 
-###### ARTÍCULO SÉPTIMO.
+Los dos órdenes derivados de la Constitución son "coextensos", es decir que aunque distintos en cuanto a su competencia son iguales entre sí en el sentido en que ambos están subordinados, en la misma medida, a la propia Constitución. Por tanto, no existe primacía formal alguna del orden federal sobre el orden estatal. Ambos deben de actuar de acuerdo con lo que previamente les ha sido definido por la norma suprema.
 
-El Presente Acuerdo surtirá efectos a partir de la fecha de su aprobación por el Pleno.
+Precisamente, el fortalecimiento de nuestro sistema federal sólo se concibe a partir del respeto a la autonomía estatal, que encuentra su límite en las normas constitucionales federales, pero que se rige por lo que disponga la Constitución particular del Estado, como lo ordena el artículo 41 de nuestra norma suprema, y con la prohibición de que las constituciones particulares no deben contravenir las estipulaciones del Pacto Federal, para garantizar el principio de supremacía constitucional establecido en el artículo 133. La competencia residual a favor del orden de Gobierno Estatal contenida en el artículo 124, completa y fortalece a nuestro sistema federal.
 
-###### ARTÍCULO OCTAVO.
+La autonomía estatal consiste en la facultad que la Constitución reconoce a los Estados miembros de la Federación para crear su derecho, dentro de los límites que el orden constitucional señala, puesto que desde su origen etimológico es capacidad de autorregularse, es decir, responsabilidad de darse un orden de ser.
 
-Dese por concluido el presente proceso de Declaración de Procedencia por la Comisión de Delitos y archívese el expediente.
+En materia tributaria, existen contribuciones exclusivas para la Federación y los Municipios establecidas en la Constitución General de la República, pero también existe una concurrencia competencial fiscal entre la Federación y Estados, por lo que en el pasado se provocó el fenómeno de la doble imposición, que la Suprema Corte de Justicia de la Nación determinó, en diversas jurisprudencias, que no era inconstitucional en virtud de que no existía precepto constitucional alguno que lo prohibiera, aun cuando no dejó de reconocer que era conveniente evitar la doble tributación para realizar una auténtica justicia fiscal, señalando que diversos países han celebrado convenios y acuerdos de índole administrativa para evitar la doble tributación.
+
+Por las razones constitucionales mencionadas que generan concurrencia de la Federación y de los Estados, en facultades impositivas diversas a las exclusivas de la Federación, y con el propósito de evitar la doble tributación que, si bien es constitucional, no propicia la justicia fiscal, se ha generado el Sistema Nacional de Coordinación Fiscal, que constituye un instrumento del Federalismo Fiscal y Hacendario.
+
+La coordinación fiscal es un instrumento para dar armonía en el ejercicio de las facultades impositivas y en las relaciones fiscales entre la Federación y los Estados, puesto que los Estados tienen competencia impositiva coincidente con la Federación en todas aquellas materias que no le estén reservadas a la Federación en forma exclusiva.
+
+Esta coordinación fiscal tiene, en primer término, que cumplir con el mandato del último párrafo de la fracción XXIX del artículo 73 de la Constitución Federal, en el sentido de que la Federación participe a los Estados en el rendimiento de los gravámenes exclusivos de ella, y en segundo término en los rendimientos de los gravámenes de competencia impositiva concurrente que obtenga la Federación y respecto de los cuales los Estados no pueden establecer doble imposición. Pero la naturaleza de la primera clase de participaciones es distinta de la segunda, pues la primera constituye participación a los Estados de recursos federales exclusivos, en tanto que la segunda es la entrega por la Federación de recursos estatales - por existir facultad impositiva a favor de los congresos locales - que la Federación recauda por la coordinación fiscal establecida.
+
+La coordinación fiscal como mecanismo de fortalecimiento del Federalismo, debe entenderse hoy en día como coordinación hacendaria y como instancia para la ampliación de la capacidad de decisión de las legislaturas locales, en tanto que el diálogo entre las autoridades del gobierno Federal y Estatales no se limita solamente a aspectos de ingresos, sino comprende una perspectiva más amplia y más profunda, que permite lograr que los Estados y Municipios contribuyan eficazmente al desarrollo del país, ampliándose el diálogo a las potestades y responsabilidades de gasto y destino que permitan que ambos niveles de Gobierno coordinen sus acciones con eficiencia y eficacia, cada uno en su ámbito de competencia constitucional.
+
+El Federalismo Hacendario puede permitir importantes avances en materia de descentralización de gasto, al transferir programas y recursos federales hacia Estados y Municipios, para que los Gobiernos locales puedan cumplir con su responsabilidad de atender, más cercanamente, los problemas de la población. El Gobierno Federal ha venido realizando importantes esfuerzos para transferir a los Gobiernos Estatales un conjunto de competencias y funciones, que fortalecen la presencia de las autoridades locales y mejoran su capacidad de respuesta a las necesidades de la población, al tiempo que se logra una auténtica corresponsabilidad en las áreas en donde existe concurrencia en el gasto, esfuerzos que son reconocidos por la sociedad y que se dan en las materias de educación básica y normal, de los servicios de salud, desarrollo rural, protección ecológica, comunicaciones y transportes y seguridad pública, entre otros.
+
+Es así como el Sistema Nacional de Coordinación Fiscal sirve al Nuevo Federalismo Mexicano.
+
+El Nuevo Federalismo Mexicano contribuye a fortalecer la unidad nacional a partir de reivindicar la función compensatoria del Pacto Federal; vigorizar la autonomía política de los estados con base en relaciones intergubernamentales sustentadas en los principios de cooperación y coordinación y mediante una profunda redistribución de facultades, funciones, responsabilidades y recursos del Gobierno Federal hacia los Gobiernos Estatales y los Municipios, con la finalidad de generar un mayor desarrollo político, económico, regional y administrativo, con nuevos espacios de participación social en todos los órdenes de Gobierno.
+
+El Nuevo Federalismo Mexicano reconoce que nuestra patria nunca podrá ser una Nación fuerte con Estados y Municipios débiles. El Federalismo debe servir de sustento al fortalecimiento de la autonomía de las Entidades Federativas y al fortalecimiento y equidad Municipales, para lograr un mayor desarrollo político, económico, regional y administrativo de la nación que propicie una mayor y más comprometida participación social.
+
+En este esquema constitucional y político, es que la Cámara de Diputados del Honorable Congreso de la Unión expidió el 13 de diciembre de 1997 el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal de 1998, publicado en el Diario Oficial de la Federación del 29 de diciembre de 1997, y ello en ejercicio de la atribución exclusiva establecida en la fracción IV del artículo 74 de nuestra Constitución Federal; y dentro de este mismo esquema el H. Congreso de la Unión expidió el decreto por el que se Adiciona y Reforma la Ley de Coordinación Fiscal, publicada en la misma fecha y en el mismo órgano.
+
+Dichos ordenamientos jurídicos institucionalizan el apoyo que la Federación ofrece como complemento a los recursos que a las Entidades Federativas y a los Municipios les corresponden como participación en la recaudación federal. Así pues, en adición a las participaciones federales, la Ley de Coordinación Fiscal, da permanencia a los recursos que la Federación aporta para el mejor desarrollo de actividades que se han descentralizado a las Entidades en los últimos años.
+
+El nuevo Capítulo V de la Ley de Coordinación Fiscal con sustento en el ramo 33 del Presupuesto de Egresos de la Federación, descentraliza los recursos en los fondos de aportaciones federales para los rubros de educación básica y normal; servicios de salud; infraestructura social; construcción de escuelas; asistencia social; y apoyo prioritario para el pago de obligaciones financieras y necesidades de seguridad pública de los Municipios.
+
+Por esta razón la presente Ley cuyo título acredita la amplitud y profundidad de su contenido: Ley para el Federalismo Hacendario del Estado de Puebla, dado que integra un conjunto armónico de disposiciones que sirven de fundamento a una eficaz y eficiente coordinación hacendaria y que concentra en un mismo ordenamiento jurídico, las normas que regulan los conceptos de ingreso, gasto, deuda pública, patrimonio y coordinación fiscal en materia administrativa.
+
+Precisamente, la Ley que se propone, tiene como propósito hacer realidad el espíritu de la Ley de Coordinación Fiscal, y en particular lo referente al fondo de Infraestructura Social Municipal; en efecto, el artículo 35 de la citada Ley establece que la fórmula para distribuir los recursos a los Municipios debe enfatizar el carácter redistributivo de las aportaciones hacia aquellos Municipios con mayor magnitud y profundidad de pobreza extrema.
+
+Las comisiones dictaminadoras consideraron que la Ley tiene los siguientes objetivos:
+
+Primero. Proteger los programas sociales en rubros tales como de agua potable, drenaje y alcantarillado, letrinas, electrificación rural, infraestructura básica en educación y salud, mejoramiento de vivienda, caminos rurales e infraestructura productiva rural.
+
+Segundo. Asegurar que los recursos que regula esta Ley, sean aplicados en programas de amplia participación social.
+
+Tercero. Garantizar que ningún Municipio reciba menos recursos que en el año fiscal inmediato anterior.
+
+Cuarto. Mantener y asegurar la ejecución de las obras públicas incluidas en los programas de desarrollo en todo el Estado.
+
+Quinto. Aumentar los recursos destinados a la seguridad pública en todos los Municipios del Estado.
+
+Sexto. Aplicar estos recursos para combatir la marginación urbana y rural.
+
+Séptimo. Asegurar que el destino de los recursos establecidos en esta Ley, sea transparente.
+
+Todo lo anteriormente señalado justifica plenamente que los poderes del Estado actúen de común acuerdo para que todos los recursos públicos, sean manejados con productividad, racionalidad y transparencia, así como destinados a los objetivos que contribuyan al desarrollo municipal, regional, estatal y nacional.
+
+Las Comisiones Unidas de Gobernación, Justicia y Puntos Constitucionales; y de Hacienda Pública y Patrimonio Estatal y Municipal, consideraron que de ser aprobada, esta Ley sienta las bases para que el Estado ejerza sus facultades para atender las necesidades de su población y dar el marco jurídico que regule las bases en que los Ayuntamientos fundamentarán la recepción, manejo y comprobación de los ingresos estatales del ramo 33, destinados a los Municipios; define los instrumentos para lograr el fortalecimiento de las haciendas públicas municipales y la distribución equitativa de los recursos públicos, que permita a los Municipios que presentan mayor rezago social superar en el menor tiempo posible las carencias que los afectan y lograr así una auténtica justicia social.
+
+III. CONTENIDO DE LA INICIATIVA Y CAMBIOS REALIZADOS POR LAS COMISIONES UNIDAS DICTAMINADORAS
+
+La Ley consta de seis títulos, 104 artículos y seis transitorios. Los títulos que la conforman son: disposiciones generales; de la planeación y la participación social; del fortalecimiento y la equidad municipal; de la coordinación hacendaria; de los fondos de aportaciones federales y de las responsabilidades y sanciones. Las comisiones dictaminadoras consideraron modificar la iniciativa para quedar en 98 artículos y seis transitorios, con el mismo número de títulos. A continuación se hace referencia al contenido general de cada uno de ellos.
 
 ## Título I, Disposiciones generales:
 
@@ -1067,9 +1117,11 @@ Para la aplicación de los recursos a que se refiere la fracción III del artíc
 
 Los municipios deberán reportar al Gobierno del Estado a través de la Secretaría de Finanzas al inicio de cada ejercicio presupuestal y de manera permanente, la deuda directa y contingente a cargo de su Ayuntamiento y de sus organismos públicos descentralizados, con el objeto de programar el saneamiento de su deuda, estableciendo el tiempo y formas de pago.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 85.
 
-Los recursos a que se refiere la fracción II del artículo 81 de esta Ley, deberán aplicarse al desarrollo de los subsistemas de información y atención a la ciudadanía, al equipamiento de corporaciones, la formación policial, la capacitación especializada, la ampliación de la infraestructura penitenciaria y la dignificación de la ya existente.
+Los recursos a que se refiere la fracción II del artículo 81 de esta Ley, deberán aplicarse preferentemente a las estregabais y acciones en los ejes de profesionalización, capacitación especializada, dotaciones complementarias y prestaciones al personal activo registrado en el Sistema Nacional de Información Policial, equipamiento, sistemas de información y telecomunicaciones, infraestructura penitenciaria, operación y dignificación de la ya existente y participación de la comunidad en materia de seguridad pública.
 
 ###### ARTICULO 86.
 
@@ -1223,20 +1275,56 @@ En caso de que los Ayuntamientos no ministren los recursos que conforme a esta L
 
 Las autoridades estatales y municipales que incurran en responsabilidades civiles y penales con motivo de la desviación de los recursos a que se refiere esta Ley, serán sancionados (sic) en términos de la legislación aplicable.
 
-## ARTÍCULO TRANSITORIO
+## ARTICULOS TRANSITORIOS
 
-ÚNICO. Publíquese el presente Acuerdo en el Periódico Oficial “El Estado de Sinaloa”.
+PRIMERO.- La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
-Es dado en el Palacio del Poder Legislativo del Estado, en la ciudad de Culiacán Rosales, Sinaloa, al segundo día del mes de mayo del año dos mil veinticinco.
+SEGUNDO.- Se abroga la Ley de Coordinación Fiscal del Estado de Puebla de fecha 20 de marzo de 1991, publicada en el Periódico Oficial del Estado el 22 del mismo mes y año.
 
-C. YERALDINE BONILLA VALVERDE
+TERCERO.- Se abroga el Decreto del H. Congreso del Estado, que aprueba el Sistema para la Distribución de Participaciones a los Municipios del Estado, publicado en el Periódico Oficial el 26 de diciembre de 1995.
 
-DIPUTADA PRESIDENTA
+CUARTO.- Los porcentajes de los fondos participables a que se refiere esta Ley que se modifiquen en las disposiciones legales federales, serán dados a conocer mediante Acuerdo que publique el Ejecutivo Estatal en el Periódico Oficial del Estado.
 
-C. CÉSAR ISMAEL GUERRERO ALARCÓN
+QUINTO.- Los acuerdos, decretos, convenios y sus anexos, así como las demás disposiciones reglamentarias derivados de la Ley de Coordinación Fiscal del Estado de Puebla, permanecerán vigentes hasta en tanto no se emitan o celebren otros que los dejen sin efectos. Lo anterior sin perjuicio de lo dispuesto en el Artículo Tercero Transitorio de esta Ley.
 
-DIPUTADO SECRETARIO
+SEXTO.- Se derogan las disposiciones que se opongan a lo dispuesto por la presente Ley.
 
-C. ANTONIO MENÉNDEZ DE LLANO BERMÚDEZ
+EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los veintisiete días del mes de enero del mil novecientos noventa y ocho. Diputada Presidenta.- BLANCA ALCALA RUIZ.- Rúbrica.- Diputado Secretario.- JOSE LUIS MARQUEZ MARTINEZ.- Rúbrica.- Diputado Secretario.- BERNABE FELIX FORTUNATO MARMOLEJO OREA.- Rúbrica.
 
-DIPUTADO SECRETARIO
+Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Ciudad de Puebla de Zaragoza, a los veintisiete días del mes de enero de mil novecientos noventa y ocho.- El Gobernador Constitucional del Estado.- LICENCIADO MANUEL BARTLETT DIAZ.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO CARLOS MANUEL MEZA VIVEROS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE FEBRERO DE 2000.
+
+PRIMERO.- Para efectos de lo previsto en el artículo 97 de la presente Ley, las dependencias estatales encargadas de la programación y ejecución de los recursos, deberán considerar que los recursos para complementar las dotaciones de los Agentes del Ministerio Público, los policías judiciales o sus equivalentes, los policías preventivos y de custodia y los peritos de la Procuraduría General de Justicia del Estado, tendrán el carácter de no regularizables para los Presupuestos de Egresos de la Federación de ejercicios subsecuentes, considerando que las responsabilidades laborales que deriven de tales recursos estarán a cargo del Gobierno del Estado.
+
+SEGUNDO.- Para efectos del artículo 71 de esta Ley, el Gobierno del Estado y los Municipios publicarán en el Periódico Oficial del Estado, el monto de los recursos invertidos en las obras y acciones realizadas, así como su ubicación y beneficiarios.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE ABRIL DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE MARZO DE 2009.
+
+PRIMERO.- La presente Ley deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se abroga la Ley para el Federalismo Hacendario del Estado de Puebla, publicada en el Periódico Oficial del Estado de fecha 28 de enero de 1998.
+
+TERCERO.- Se derogan las disposiciones del Reglamento de la Ley para el Federalismo Hacendario del Estado de Puebla, publicado en el Periódico Oficial del Estado el 13 de marzo de 1998, que se opongan a la presente Ley.
+
+CUARTO.- En tanto no se emitan los lineamientos a que se refiere la fracción VIII del artículo 136 de la presente Ley, los Comités de Planeación para el Desarrollo Municipal o la instancia de participación social que constituyan los Municipios, observarán en lo conducente, lo previsto en el Reglamento de la Ley para el Federalismo Hacendario del Estado de Puebla, publicado en el Periódico Oficial del Estado del 13 de marzo de 1998.
+
+QUINTO.- Para efectos del artículo 114 de de esta Ley, los Municipios que decidan acogerse a los beneficios previstos en las Reglas para la aplicación del Artículo Segundo, fracción II, de las Disposiciones Transitorias de la Ley de Coordinación Fiscal contenidas en el Decreto por el que se reforman, adicionan, derogan y abrogan diversas disposiciones de la Ley de Coordinación Fiscal, de la Ley del Impuesto sobre Tenencia o Uso de Vehículos y de la Ley del Impuesto Especial sobre Producción y Servicios, publicadas en el Diario Oficial de la Federación del 28 de marzo de 2008, así como sus reformas publicadas en el citado órgano de difusión oficial del 12 de diciembre de 2008, de manera previa al reconocimiento de sus adeudos históricos, deberán conocer el importe total a que ascienden los mismos para cada ejercicio fiscal, el mecanismo empleado para su determinación, así como las constancias que acrediten que no han prescrito y son legalmente exigibles.
+
+SEXTO.- La retención de recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios a que se refiere el tercer párrafo del artículo 114 de esta Ley, sólo procederá para los adeudos que se hayan generado a partir del 1 de enero de 2008.
+
+SÉPTIMO.- Aquellos Municipios que realicen el pago de derechos y aprovechamientos por concepto de agua con cargo a recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios, gestionarán ante la Comisión Nacional del Agua o en su caso, ante el organismo que preste los servicios correspondientes, el que se ejecuten obras y acciones de infraestructura en materia de abastecimiento de agua potable, drenaje o saneamiento de aguas residuales en su circunscripción territorial.
+
+OCTAVO.- Se derogan todas aquellas disposiciones de carácter legal y administrativa que se opongan a la presente Ley.
