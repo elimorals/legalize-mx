@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-procuraduria-general-de-justicia-del-25906"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-08-23"
-last_updated: "2007-05-23"
+last_updated: "2009-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25906&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE MAYO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MEXICO, PUBLICADA EN LA G.G. DE 20 DE MARZO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADA.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de agosto del 2002.
 
@@ -1786,3 +1788,17 @@ G.G. 23 DE MAYO DE 2007.
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 20 DE MARZO DE 2009.
+
+PRIMERO.- Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" el 23 de agosto de 2002.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en la presente ley.
+
+CUARTO.- En tanto se expide el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de México, el cual deberá expedirse en un plazo no mayor de ciento ochenta días naturales a partir de la entrada en vigor de esta ley, se aplicará el Reglamento publicado en el Periódico Oficial "Gaceta del Gobierno" el 6 de marzo de 2003, en todo aquello que no se oponga a las disposiciones de la presente ley.
+
+QUINTO.- El Instituto de Servicios Periciales del Estado de México, como órgano desconcentrado de la Procuraduría General de Justicia del Estado de México, continuará en funcionamiento, en los términos de la ley en que se establece su creación.
+
+SEXTO.- Los criterios de oportunidad a que se refiere esta ley serán aplicables a las averiguaciones previas y procesos penales en curso al momento de su entrada en vigor.
