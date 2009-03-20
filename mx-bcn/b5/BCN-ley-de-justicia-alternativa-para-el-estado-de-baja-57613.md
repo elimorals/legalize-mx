@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-justicia-alternativa-para-el-estado-de-baja-57613"
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-19"
-last_updated: "2007-10-19"
+last_updated: "2009-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2009.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -443,19 +443,25 @@ La intervención del mediador suspende la prescripción de las acciones de los a
 
 T R A N S I T O R I O S:
 
-PRIMERO.- Esta Ley entrará en vigor dieciocho meses después de su publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
+PRIMERO.- Las disposiciones normativas contenidas en esta Ley entrarán en vigor en las fechas y conforme al orden que a continuación se señala:
+
+I. El día 20 de abril de 2009, en el Partido Judicial de Mexicali.
+
+II. El día 20 de abril de 2010, en el Partido Judicial de Tijuana.
+
+III. El día 20 de abril de 2011, en el Partido Judicial de Ensenada.
+
+IV. Tratándose de los medios alternativos en materia penal, las normas que se contienen en esta Ley, se comenzarán a aplicar el día primero de febrero del año dos mil diez en el Partido Judicial de Mexicali; el día primero de febrero del año dos mil once en el Partido Judicial de Ensenada y el día primero de febrero del año dos mil doce en los municipios de Tijuana, Tecate y Playas de Rosarito.
 
 SEGUNDO.- El Consejo de la Judicatura por conducto del Instituto de la Judicatura, en un plazo que no exceda de ciento ochenta días naturales a partir de la publicación de esta Ley, deberá elaborar e implementar un programa de capacitación con certificación de perito o especialista en teoría y técnicas de mediación y conciliación, de acuerdo a los principios y procedimientos contenidos en la Ley de la materia, programa que será permanente y público.
 
 TERCERO.- El Reglamento deberá ser expedido por el Consejo de la Judicatura del Estado a más tardar dentro de los sesenta días naturales siguientes a la entrada en vigor del presente ordenamiento.
 
-CUARTO.- El Consejo de la Judicatura deberá establecer dentro del Proyecto de Presupuesto de Egresos del Poder Judicial para el año en que esta Ley entra en vigor, la partida presupuestal que permita la integración y funcionamiento del Centro Estatal de Justicia Alternativa.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
-Así mismo, se asignará una partida presupuestal para el establecimiento de las oficinas regionales en forma sucesiva y anual, conforme al siguiente orden:
-
-1.- Tijuana
-
-2.- Ensenada.
+CUARTO.- El Consejo de la Judicatura deberá establecer dentro de los Proyectos de Presupuesto de Egresos del Poder Judicial para los próximos ejercicios fiscales, las partidas presupuestales que permitan la integración y funcionamiento del Centro Estatal de Justicia Alternativa, acorde a lo previsto en el artículo primero transitorio.
 
 QUINTO.- Los Poderes Ejecutivo y Legislativo, en el ámbito de sus respectivas competencias, asignarán los recursos para la integración y cumplimiento del Centro de Justicia Alternativa.
 
@@ -482,3 +488,9 @@ EUGENIO ELORDUY WALTER.
 SECRETARIO GENERAL DE GOBIERNO.
 
 BERNARDO H. MARTINEZ AGUIRRE.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE MARZO DE 2009.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
