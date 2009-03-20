@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-antes-ley-23560"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-05-25"
-last_updated: "2007-12-10"
+last_updated: "2009-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "QUE"
 ---
 # LEY ORGANICA MUNICIPAL DEL ESTADO DE QUERETARO -ANTES LEY PARA LA ORGANIZACION POLITICA Y ADMINISTRATIVA DEL MUNICIPIO LIBRE DEL ESTADO DE QUERETARO-
 
-LEY PARA LA ORGANIZACION POLITICA Y ADMINISTRATIVA DEL MUNICIPAL LIBRE DEL ESTADO DE QUERETARO
+LEY ORGANICA MUNICIPAL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 25 de mayo del 2001.
 
 ING. IGNACIO LOYOLA VERA, Gobernador Constitucional del Estado Libre y Soberano de Querétaro Arteaga, a los habitantes del mismo, sabed que:
 
-LEY ORGANICA MUNICIPAL DEL ESTADO DE QUERETARO
+(REFOMADA SU DENOMINACION, P.O. 20 DE MARZO DE 2009)
+
+LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO
 
 LA QUINCUAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE LOS ARTICULOS 35 FRACCIONES V Y VII, 36, 41 FRACCIÓN I Y 57 FRACCIÓN I, DE LA CONSTITUCIÓN POLÍTICA LOCAL.
 
@@ -37,9 +39,9 @@ LA QUINCUAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO
 
 Que por lo anterior, el Pleno de la Legislatura ha tenido a bien expide la siguiente:
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE MARZO DE 2009)</small>
 
-LEY PARA LA ORGANIZACIÓN POLÍTICA Y ADMINISTRATIVA DEL MUNICIPAL LIBRE DEL ESTADO DE QUERÉTARO
+LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 21 DE OCTUBRE DE 2005)</small>
 
@@ -47,9 +49,11 @@ LEY PARA LA ORGANIZACIÓN POLÍTICA Y ADMINISTRATIVA DEL MUNICIPAL LIBRE DEL EST
 
 ### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto establecer las bases generales para la organización del ámbito municipal de gobierno conforme a lo señalado tanto en la Constitución Política de los Estados Unidos Mexicanos como en la propia de Estado Libre y Soberano de Querétaro Arteaga.
+La presente Ley es de orden público e interés social. Tiene por objeto establecer las bases generales para la organización del ámbito municipal de gobierno, conforme a lo señalado tanto en la Constitución Política de los Estados Unidos Mexicanos como en la Constitución Política del Estado de Querétaro.
 
 ###### ARTICULO 2.
 
@@ -57,15 +61,19 @@ Cada Municipio será gobernado por un Ayuntamiento de elección popular directa.
 
 Dentro de los límites de su territorio tiene la potestad para normar las materias, procedimientos, funciones y servicios públicos de su competencia, así como para establecer las autoridades y sus órganos de gobierno de conformidad con el orden constitucional y la presente Ley.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 3.
 
-Los municipios están investidos de personalidad jurídica y dotados de patrimonio propio. La representación legal corresponde al propio ayuntamiento, quien la ejercerá a través de uno o varios síndicos, asimismo podrá delegarla en el Presidente Municipal o en cualquiera de sus miembros a propuesta de aquel, por reglamento o mediante acuerdo expreso. La representación también podrá delegarse a favor de terceros para asuntos de carácter legal o jurisdiccional. El reglamento o acuerdo mediante el cual se haga la delegación de representación tendrá naturaleza de documento público y hará prueba plena en cualquier procedimiento de carácter administrativo o jurisdiccional, sin necesidad de ser inscrito en el Registro Público.
+Los municipios están investidos de personalidad jurídica y dotados de patrimonio propio. La representación legal corresponde al Ayuntamiento, quien la ejercerá a través del síndico o delegándola a favor de terceros, mediante acuerdo expreso del Ayuntamiento. La representación también podrá delegarse para asuntos de carácter legal o jurisdiccional. El reglamento o acuerdo mediante el cual se haga la delegación de representación tendrá naturaleza de documento público y hará prueba plena en cualquier procedimiento de carácter administrativo o jurisdiccional, sin necesidad de ser inscrito en el Registro Público de la Propiedad y del Comercio.
 
 ### CAPÍTULO SEGUNDO. DE LA ORGANIZACIÓN TERRITORIAL
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 4.
 
-Los Municipios conservarán los límites que tengan a la fecha de expedición de la presente Ley, según sus respectivos decretos de creación o los reconocimientos que al efecto existieren o bien los convenios que celebraren entre ellos y que hubieren sido ratificados por la Legislatura de conformidad con lo establecido en el inciso a) de la fracción XXXIII del Artículo 41 de la Constitución Local.
+Los municipios conservarán los límites que para tal efecto señale la ley de la materia.
 
 ###### ARTICULO 5.
 
@@ -119,31 +127,51 @@ De forma temporal y de manera extraordinaria, mediante acuerdo de las dos tercer
 
 Los centros de población de los municipios podrán tener las denominaciones de ciudad, villa, pueblo, ranchería y caserío, según el grado de concentración demográfica e importancia y eficiencia de los servicios públicos de los mismos.
 
-I. Se entenderá Ciudad aquel centro de población que sea cabecera municipal o aquél cuyo censo arroje un número mayor a 30,000 habitantes y tenga los servicios de agua potable y alcantarillado, energía eléctrica y alumbrado público, limpia y recolección de basura, mercados, panteones, rastros, calles pavimentadas, parques y jardines, autoridad de seguridad pública, tránsito y transporte, unidad deportiva, servicios de salud, hospital, servicios asistenciales públicos, cárcel, planteles educativos de preescolar, primaria, secundaria y media superior;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
 
-II. Se denominará Villa aquel centro de población que tenga más de 7,000 y hasta 30,000 habitantes y los servicios de agua potable y alcantarillado, energía eléctrica y alumbrado público, calles pavimentadas, servicios médicos, mercado, panteón, lugar de recreo y para la práctica del deporte cárcel y planteles educativos de preescolar, primaria, secundaria y media superior;
+I.- Se entenderá por Ciudad, aquel centro de población que sea cabecera municipal o aquél cuyo censo arroje un número mayor a treinta mil habitantes y tenga los servicios de agua potable y alcantarillado, energía eléctrica y alumbrado público, limpia y recolección de basura, mercados, panteones, rastros, calles pavimentadas, parques y jardines, autoridad de seguridad pública, tránsito y transporte, unidad deportiva, servicios de salud, hospital, servicios asistenciales públicos, cárcel, planteles educativos de educación básica y media superior;
 
-III. Se denominará Pueblo al centro de población cuyo censo arroje un número mayor de 2,000 habitantes y hasta 7,000 y tenga los servicios de agua potable y alcantarillado, energía eléctrica y alumbrado público, mercados, panteones, policía, lugares de recreo y para la práctica del deporte, y centro de educación preescolar, primaria y secundaria;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
 
-IV. Se denominará Ranchería aquel centro de población cuyo censo arroje un número superior a 500 y hasta 2,000 habitantes y cuente con servicios de agua potable y/o alcantarillado, energía eléctrica, camino vecinal y escuela primaria; y
+II.- Se denominará Villa, a aquel centro de población que tenga más de siete mil y hasta treinta mil habitantes, así como los servicios de agua potable y alcantarillado, energía eléctrica y alumbrado público, calles pavimentadas, servicios médicos, mercado, panteón, lugar de recreo y para la práctica del deporte, cárcel y planteles educativos de educación básica y media superior;
 
-V. Se denominará Caserío al centro de población de hasta 500 habitantes en zona rural.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
 
-El Ayuntamiento de cada municipio reglamentará el procedimiento para las declaratorias de las categorías políticas a que se refiere este artículo, debiendo publicar la resolución correspondiente en el periódico oficial del Gobierno del Estado.
+III.- Se denominará Pueblo, al centro de población cuyo censo arroje un número mayor de dos mil habitantes y hasta siete mil, y tenga los servicios de agua potable y alcantarillado, energía eléctrica y alumbrado público, mercados, panteones, policía, lugares de recreo y para la práctica del deporte y centros de educación básica;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+
+IV.- Se denominará Ranchería, al centro de población cuyo censo arroje un número superior a quinientos y hasta dos mil habitantes y cuente con servicios de agua potable y/o alcantarillado, energía eléctrica, camino vecinal y escuela primaria; y
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+
+V.- Se denominará Caserío, al centro de población de hasta quinientos habitantes en zona rural.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
+El Ayuntamiento de cada municipio reglamentará el procedimiento para las declaratorias de las categorías políticas a que se refiere este artículo, debiendo publicar la resolución correspondiente en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
 
 ### CAPÍTULO TERCERO. DE LA POBLACIÓN
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 8.
 
-Son habitantes de un municipio las personas que tengan vecindad habitual o transitoria dentro de su territorio. Tendrán las prerrogativas, derechos y obligaciones señaladas en la Constitución Política del Estado y en los reglamentos municipales.
+Son habitantes de un municipio, las personas que tengan vecindad habitual o transitoria dentro de su territorio. Tendrán las prerrogativas, derechos y obligaciones señaladas en la Constitución Política del Estado de Querétaro y en los reglamentos municipales.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 9.
 
-Se considera vecino de un municipio a toda persona que establezca domicilio en su territorio, y se reconocerá como residente cuando su domicilio permanezca en él por más de seis meses.
+Se considera vecino de un municipio, a toda persona que establezca domicilio en su territorio.
+
+Se considerarán como avecindados aquellas personas que residan por más de seis meses en el Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 10.
 
-La calidad de residente se pierde por:
+La residencia se pierde por:
 
 I. Renuncia expresa ante la autoridad municipal;
 
@@ -151,17 +179,33 @@ II. Establecer su domicilio, por más de seis meses, fuera de su territorio muni
 
 III. Declaración de Ausencia o Presunción de Muerte legalmente declarada.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 11.
 
-No se perderá la residencia cuando la persona se traslade a residir a otro lugar para desempeñar un cargo de elección popular; una comisión de carácter oficial no permanente o con motivo de estudios, actividades científicas, técnicas, artísticas y de trabajo, cuando estas no impliquen la intención de radicarse en el lugar en que se desempeñen.
+No se perderá la residencia cuando la persona se traslade a residir a otro lugar para desempeñar un cargo de elección popular, una comisión de carácter oficial no permanente o con motivo de estudios, actividades científicas, técnicas, artísticas y de trabajo, cuando estas no impliquen la intención de radicarse en el lugar en que se desempeñen.
 
-Para los casos en que la residencia se considere un requisito de procedencia, ésta se probará ante la Secretaría del Ayuntamiento mediante documentos que acrediten la intención de la persona de establecer su domicilio en los términos de la legislación común y será esta autoridad quien expida las constancias correspondientes.
+El interesado podrá tramitar ante la Secretaría del Ayuntamiento que corresponda, la expedición de constancia de residencia, para lo cual deberá presentar los siguientes documentos:
+
+a) Copia de la credencial de elector, con domicilio en el Municipio donde se pretenda acreditar la residencia y exhibir para su cotejo, el original de la misma.
+
+b) Original y copia del último comprobante de pago de servicios, que coincida con el lugar en el que se quiere acreditar la residencia.
+
+c) Manifestar por escrito, bajo protesta de decir verdad, su ocupación actual.
+
+d) Escritos en los que, bajo protesta de decir verdad, dos vecinos del lugar manifiesten que el interesado radica en dicho domicilio.
+
+Durante los dos meses previos al inicio y durante el proceso electoral local los secretarios de los ayuntamientos tendrán la obligación de expedir las constancias de residencias que les sean solicitadas, en un plazo no mayor a dos días hábiles, contados a partir de la solicitud.
+
+En caso de no ser entregada la constancia en el plazo referido, se tendrá por cierto que la persona cumple con el tiempo de residencia establecido en la solicitud.
 
 ### CAPÍTULO CUARTO. DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 12.
 
-En los municipios donde se encuentren asentados pueblos y comunidades indígenas, los ayuntamientos promoverán el desarrollo de sus lenguas, cultura, usos, costumbres, recursos naturales y sus formas específicas de organización social, atendiendo a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables.
+En los municipios donde se encuentren asentados pueblos y comunidades indígenas, los ayuntamientos promoverán el desarrollo de sus lenguas, cultura, usos, costumbres, recursos naturales y sus formas específicas de organización social, atendiendo a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Querétaro y las leyes aplicables.
 
 Asimismo, promoverán que la educación básica que se imparta, sea tanto en idioma español como en la lengua indígena correspondiente.
 
@@ -177,13 +221,25 @@ Los planes de desarrollo municipal, deberán contener programas y acciones tendi
 
 ### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
+(NOTA: EL 16 DE ABRIL DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO TRIGÉSIMO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 40/2009, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ABRIL DE 2012, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 14.
 
-Además de las facultades y obligaciones establecidas en el artículo 41 de la Constitución Política del Estado y su ley reglamentaria, la Legislatura conocerá y resolverá sobre las siguientes cuestiones de orden municipal:
+LA LEGISLATURA CONOCERÁ Y RESOLVERÁ SOBRE LAS SIGUIENTES CUESTIONES DE ORDEN MUNICIPAL:
 
 I. Creación y fusión de municipios;
 
-II. Ratificación de los convenios sobre límites de territorios municipales;
+(NOTA: EL 16 DE ABRIL DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO TRIGÉSIMO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 40/2009, DECLARÓ LA INVALIDEZ DE ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ABRIL DE 2012, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+
+II. RATIFICACIÓN DE LOS CONVENIOS SOBRE LÍMITES DE TERRITORIOS MUNICIPALES, CONFORME A LO DISPUESTO EN LA LEY DE LA MATERIA;
 
 III. Cambios de residencia de las cabeceras municipales; y
 
@@ -191,7 +247,13 @@ IV. Supresión de municipios cuando por insuficiencia de sus medios económicos 
 
 En la resolución del caso derivado de la fracción II del presente artículo, se requiere la aprobación de las dos terceras partes de los diputados integrantes de la Legislatura.
 
-En la resolución de los casos derivados de las fracciones I, III y IV, el procedimiento respectivo se ajustará a lo que establece el artículo 103 de la Constitución Política del Estado.
+(NOTA: EL 16 DE ABRIL DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO TRIGÉSIMO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 40/2009, DECLARÓ LA INVALIDEZ DE ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ABRIL DE 2012, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
+EN LA RESOLUCIÓN DE LOS CASOS DERIVADOS DE LAS FRACCIONES I, III Y IV, EL PROCEDIMIENTO RESPECTIVO SE AJUSTARÁ A LO QUE ESTABLECE EL ARTÍCULO 39 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO.
 
 ### CAPÍTULO SEGUNDO. DE LA CREACIÓN DE LOS MUNICIPIOS
 
@@ -205,9 +267,21 @@ II. Disponer de los medios y recursos necesarios para cubrir las erogaciones que
 
 III. Contar con los servicios públicos municipales suficientes para la satisfacción de las necesidades de la comunidad en donde se pretende erigir el nuevo municipio.
 
-Previamente a la resolución respectiva, el municipio o municipios cuyos territorios resultaren afectados por la creación de uno nuevo, expresarán por medio de sus ayuntamientos, la opinión fundada que convenga a sus intereses, la que harán por escrito ante la Legislatura en un término no mayor de sesenta días naturales, contados a partir de que recibieren la notificación correspondiente.
+(NOTA: EL 16 DE ABRIL DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO TRIGÉSIMO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 40/2009, DECLARÓ LA INVALIDEZ DE ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ABRIL DE 2012, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-Ante la creación de un nuevo Municipio sus autoridades serán electas en los próximos comicios de conformidad a la Ley Electoral del Estado. Durante el tiempo que transcurra entre la resolución que constituye el Municipio y la elección del Ayuntamiento, se elegirá un Consejo Municipal en los términos del párrafo cuarto del artículo anterior.
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
+PREVIAMENTE A LA RESOLUCIÓN RESPECTIVA, EL MUNICIPIO O MUNICIPIOS CUYOS TERRITORIOS RESULTAREN AFECTADOS POR LA CREACIÓN DE UNO NUEVO, EXPRESARÁN POR MEDIO DE SUS AYUNTAMIENTOS, LA OPINIÓN FUNDADA QUE CONVENGA A SUS INTERESES, LA QUE HARÁN POR ESCRITO ANTE LA LEGISLATURA DEL ESTADO, EN UN TÉRMINO NO MAYOR DE SESENTA DÍAS NATURALES, CONTADOS A PARTIR DE QUE RECIBIEREN LA NOTIFICACIÓN CORRESPONDIENTE.
+
+(NOTA: EL 16 DE ABRIL DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO TRIGÉSIMO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 40/2009, DECLARÓ LA INVALIDEZ DE ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ABRIL DE 2012, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
+ANTE LA CREACIÓN DE UN NUEVO MUNICIPIO, SUS AUTORIDADES SERÁN ELECTAS EN LOS PRÓXIMOS COMICIOS, DE CONFORMIDAD A LA LEY ELECTORAL DEL ESTADO DE QUERÉTARO. DURANTE EL TIEMPO QUE TRANSCURRA ENTRE LA RESOLUCIÓN QUE CONSTITUYE EL MUNICIPIO Y LA ELECCIÓN DEL AYUNTAMIENTO, SE ELEGIRÁ UN CONCEJO MUNICIPAL, EN LOS TÉRMINOS DEL ARTÍCULO 39 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO.
 
 ### CAPÍTULO TERCERO. DE LA ASOCIACIÓN DE MUNICIPIOS
 
@@ -259,7 +333,13 @@ Una vez recibida la solicitud a que se refiere el Artículo anterior, la Legisla
 
 I. Que se tome en cuenta la opinión ciudadana de los habitantes de los municipios que pretendan fusionarse;
 
-II. Que se tome en cuenta la opinión, expresada por escrito a la Legislatura por el Ejecutivo del Estado y de los ayuntamientos colindantes a los que pretendan fusionarse; quienes deberán emitirla dentro de los sesenta días naturales siguientes a la fecha en la que se les comunique la solicitud;
+(NOTA: EL 16 DE ABRIL DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO TRIGÉSIMO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 40/2009, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ABRIL DE 2012, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+
+II. QUE SE TOME EN CUENTA LA OPINIÓN QUE POR ESCRITO EXPRESE EL TITULAR DEL PODER EJECUTIVO DEL ESTADO Y DE LOS AYUNTAMIENTOS COLINDANTES A LOS QUE PRETENDAN FUSIONARSE; QUIENES DEBERÁN EMITIRLA A LA LEGISLATURA DEL ESTADO DENTRO DE LOS SESENTA DÍAS NATURALES SIGUIENTES A LA FECHA EN LA QUE SE LES COMUNIQUE LA SOLICITUD;
 
 III. Que los municipios fusionantes presenten el proyecto de liquidación de pasivos y obligaciones a su cargo o bien se exprese el compromiso de cumplirlos y la forma para hacerlo; y
 
@@ -269,17 +349,39 @@ IV. Que se establezca formalmente la transmisión de las obligaciones de caráct
 
 Verificados los requisitos a que se refieren los artículos anteriores, la Legislatura, previa valoración de la conveniencia de la fusión solicitada, procederá, en su caso, a decretar la desaparición de los Municipios y sus ayuntamientos solicitantes y la creación del nuevo municipio, señalando cuál será su cabecera municipal y el nombre correspondiente.
 
-Asimismo procederá a designar conforme a la Constitución Política del Estado al Consejo Municipal que concluirá el periodo constitucional iniciado por los ayuntamientos fusionados.
+(NOTA: EL 16 DE ABRIL DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO TRIGÉSIMO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 40/2009, DECLARÓ LA INVALIDEZ DE ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ABRIL DE 2012, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
+ASIMISMO, PROCEDERÁ A DESIGNAR, CONFORME A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO, AL CONCEJO MUNICIPAL QUE CONCLUIRÁ EL PERIODO CONSTITUCIONAL INICIADO POR LOS AYUNTAMIENTOS FUSIONADOS.
+
+(NOTA: EL 16 DE ABRIL DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO TRIGÉSIMO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 40/2009, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ABRIL DE 2012, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 21.
 
-La Legislatura podrá por sí misma, decretar la fusión de dos o más municipios cuando lo considere conveniente, con base a las atribuciones que le otorga la Constitución Política del Estado, debiendo consultar en todo caso a los ciudadanos de los municipios afectados.
+La Legislatura podrá, por sí misma, decretar la fusión de dos o más municipios cuando lo considere conveniente, debiendo consultar en todo caso a los ciudadanos de los municipios afectados.
 
 ### CAPÍTULO QUINTO. DE LA SUPRESIÓN DE MUNICIPIOS
 
+(NOTA: EL 16 DE ABRIL DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO TRIGÉSIMO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 40/2009, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ABRIL DE 2012, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 22.
 
-El Titular del Poder Ejecutivo del Estado, el Ayuntamiento o los diputados locales podrán solicitar a la Legislatura la supresión de un municipio cuando exista probada incapacidad económica para el sostenimiento de su administración o la notoria disminución de sus habitantes.
+El titular del Poder Ejecutivo del Estado, el Ayuntamiento o los diputados locales, podrán solicitar a la Legislatura del Estado la supresión de un municipio, cuando exista probada incapacidad económica para el sostenimiento de su administración o la notoria disminución de sus habitantes.
+
+(NOTA: EL 16 DE ABRIL DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO TRIGÉSIMO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 40/2009, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ABRIL DE 2012, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
 
 ###### ARTICULO 23.
 
@@ -293,23 +395,33 @@ De la misma forma, en el acuerdo respectivo deberá establecerse a quien corresp
 
 ### CAPÍTULO PRIMERO. DE LA RENOVACIÓN E INSTALACIÓN DE LOS AYUNTAMIENTOS
 
+> <small>[N. DE E. VÉASE LA LITERALIDAD DE LA LEY PUBLICADA EN EL P.O. DE 20 DE MARZO DE 2009, PÁGINA 2328.]</small>
+
 ###### ARTICULO 24.
 
 Los ayuntamientos se renovarán en su totalidad cada tres años y entrarán en funciones el primero de octubre.
 
-En sesión ordinaria del año que corresponda, el Ayuntamiento saliente nombrará una comisión plural de regidores que fungirá como Comisión Instaladora del Ayuntamiento electo.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
+En sesión ordinaria del año que corresponda, el Ayuntamiento saliente nombrará una comisión plural de entre sus integrantes que fungirá como Comisión de Entrega al Ayuntamiento electo.
 
 La comisión designada convocará a los integrantes del Ayuntamiento electo para que acudan a la sesión de instalación formal del mismo.
 
-La Comisión Instaladora del Ayuntamiento electo, deberá citar a los integrantes propietarios del mismo con por lo menos 15 días de anticipación.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
-El Ayuntamiento se instalará con la presencia del Presidente y, cuando menos, la mitad de los Regidores Propietarios.
+La Comisión de Entrega al Ayuntamiento electo, deberá citar a los integrantes propietarios del mismo, con por lo menos quince días naturales de anticipación.
 
-En caso de que a la sesión de instalación no acuda cualquiera de los miembros del ayuntamiento electo, los presentes llamarán a los ausentes para que se presenten en el improrrogable plazo de tres días; sino se presentaren, se citará en igual plazo a los suplentes y se entenderá que los propietarios renuncian a su cargo. De no darse la mayoría exigida, los suplentes ausentes sufrirán los mismos efectos y se procederá en los términos del Artículo 30 fracción XVI y del párrafo segundo del Artículo 43 de esta Ley.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
-Si por el motivo que fuera la Comisión Instaladora no realizara su función, el Ayuntamiento Electo formará una de entre sus miembros para el mismo efecto. Si tampoco esta pudiera conformarse la Legislatura resolverá conforme a la legislación aplicable.
+El Ayuntamiento se instalará con la presencia de la mayoría de sus integrantes, debiendo considerarse entre ellos al Presidente Municipal electo.
 
-De la sesión de instalación se levantará el acta correspondiente.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
+En caso de que a la sesión de instalación no acuda cualquiera de los miembros del Ayuntamiento electo, los presentes podrán llamar a los ausentes para que se presenten en el improrrogable plazo de tres días; si no se presentaren, se citará en igual plazo a los suplentes y se entenderá que los propietarios renuncian a su cargo. De no darse la mayoría exigida, los suplentes ausentes sufrirán los mismos efectos y se procederá en los términos del párrafo segundo del artículo 43 de esta Ley. Si por el motivo que fuera la Comisión de Entrega no realizara su función, el Ayuntamiento electo formará una de entre sus miembros para el mismo efecto. Si tampoco ésta pudiera conformarse, la Legislatura resolverá conforme a la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
+En la sesión de instalación del Ayuntamiento, así como en el respectivo informe anual por parte del Presidente Municipal, se contará con la intervención de un representante de cada uno de los grupos o fracciones de dicho Ayuntamiento que quieran hacerlo.
 
 ###### ARTICULO 25.
 
@@ -321,9 +433,11 @@ La protesta que el Presidente Municipal Electo debe realizar será la siguiente:
 
 El Presidente Municipal una vez que haya rendido la protesta preguntará el texto anterior a los miembros del Ayuntamiento, a lo que deberán contestar: "SI, PROTESTO".
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 26.
 
-Al término de su gestión, las administraciones municipales deberán entregar los recursos humanos, financieros, materiales y técnicos a quienes los releven en sus cargos, en los términos de la Ley que Establece las Bases para la Entrega Recepción Administrativa en el Estado de Querétaro.
+Al término de su gestión, las administraciones municipales deberán entregar los recursos humanos, financieros, materiales y técnicos a quienes los releven en sus cargos, en los términos de la Ley de Entrega Recepción del Estado de Querétaro.
 
 ### CAPÍTULO SEGUNDO. FUNCIONAMIENTO Y COMPETENCIA DE LOS AYUNTAMIENTOS Y LA ORGANIZACIÓN ADMINISTRATIVA MUNICIPAL
 
@@ -399,7 +513,9 @@ VIII. Solicitar a través del Presidente Municipal la comparecencia de los servi
 
 IX. Solicitar al Ejecutivo del Estado la expropiación de bienes por causa de utilidad pública.
 
-X. Formular la iniciativa de Ley de Ingresos del municipio para cada año fiscal y remitirla, para su estudio y aprobación, a la Legislatura.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+
+X. Formular la iniciativa de Ley de ingresos del municipio para cada año fiscal y remitirla, para su estudio y aprobación, a la Legislatura del Estado;
 
 XI. Formular y aprobar el Presupuesto de Egresos del municipio para cada año fiscal, con base en sus ingresos disponibles y sujetándose para ello a las normas contenidas en ésta y las demás leyes aplicables;
 
@@ -409,17 +525,25 @@ XII. Administrar el patrimonio del municipio conforme a la Ley y vigilar, a trav
 
 XIII. Remitir a la Entidad Superior de Fiscalización del Estado, la Cuenta Pública Municipal, en los términos que señala la Ley de Fiscalización Superior del Estado de Querétaro;
 
-XIV. Organizar el Registro Civil, de conformidad con las bases dictadas por la dependencia estatal del ramo y lo previsto en la legislación de la materia;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+
+XIV. Conocer de la renuncia de los Regidores del Ayuntamiento y citar a los suplentes para que los sustituyan en sus funciones;
 
 XV. Conocer de la solicitud de licencia de los miembros del ayuntamiento;
 
-XVI. Designar, de entre los regidores propietarios, a quien deba suplir al Presidente Municipal en sus ausencias temporales y definitiva, en los términos del artículo 82 de la Constitución Política del Estado;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
 
-XVII. Citar a los Regidores Suplentes para que, en caso de ausencia temporal o definitiva de los propietarios, substituyan a éstos en sus funciones;
+XVI. Designar, de entre los regidores propietarios, a quien deba suplir al Presidente Municipal en sus faltas temporales o absolutas, en los términos de la Constitución Política del Estado de Querétaro;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+
+XVII. Citar a los Regidores Suplentes o al Síndico Suplente, según sea el caso, para que, en caso de falta temporal o absoluta de los propietarios, sustituyan a éstos en sus funciones;
 
 XVIII. Celebrar en los términos que señala esta ley, convenios con otros municipios, con el Estado y con los particulares, a fin de coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan, o para cualquier otro aspecto de índole administrativo, que requiera de auxilio técnico u operativo;
 
-XIX. Vigilar que se imparta la instrucción cívica y militar ordenada en la fracción II del artículo 31 de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+
+XIX. Vigilar que se imparta la instrucción cívica y militar que los mantenga aptos en el ejercicio de los derechos de ciudadano, diestros en el manejo de las armas y conocedores de la disciplina militar;
 
 XX. Participar con la Federación y el Estado, en la impartición de la educación primaria y secundaria, en los términos del Artículo 3º de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -439,7 +563,9 @@ XXVII. Promover el bienestar social y cultural de la población municipal median
 
 XXVIII. Proponer a la Legislatura del Estado, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejora y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
 
-XXIX. Iniciar leyes en materia municipal;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+
+XXIX. Presentar ante la Legislatura del Estado, iniciativas de leyes o decretos;
 
 XXX. Promover la participación de los habitantes del municipio en el ejercicio del gobierno municipal;
 
@@ -449,7 +575,9 @@ XXXII. Nombrar y remover a los Titulares de las Dependencias administrativas pre
 
 XXXIII. Las demás previstas en la Constitución Política de los Estados Unidos Mexicanos, en la del Estado y en las leyes que de ambas se deriven.
 
-Los acuerdos, bandos, circulares y reglamentos municipales deberán ser aprobados por mayoría absoluta de los miembros del Ayuntamiento de conformidad con el reglamento respectivo. Para su entrada en vigor y correspondiente publicidad deberán ser publicados en la gaceta municipal correspondiente. En caso de que el municipio no cuente con gaceta municipal; se dará cumplimiento a esta disposición a través de Periódico Oficial del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
+Los acuerdos, bandos, circulares y reglamentos municipales, deberán ser aprobados por mayoría absoluta de los miembros del Ayuntamiento, de conformidad con el reglamento respectivo. Para su entrada en vigor y respectiva difusión, deberán ser publicados en la gaceta municipal correspondiente; en caso de que el Municipio no cuente con ella, se dará cumplimiento a esta disposición a través del Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
 
 En su caso, si el ayuntamiento lo juzga conveniente para informar a la población y fomentar la participación de los ciudadanos, podrán publicarse también los proyectos de reglamentos, una vez que éstos le hayan sido presentados y existan condiciones para recibir las opiniones que vierta la ciudadanía.
 
@@ -479,7 +607,9 @@ IX. Vigilar y verificar la actuación de las dependencias municipales para cerci
 
 X. Determinar las políticas para autorizar las órdenes de pago en los términos del Presupuesto de Egresos;
 
-XI. Rendir a los habitantes del municipio, dentro de los últimos diez días del mes de septiembre en sesión pública y solemne del Ayuntamiento, el informe anual sobre el estado que guarda la administración pública municipal;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+
+XI. Informar en sesión pública y solemne sobre, el estado que guarda la administración pública municipal;
 
 XII. Tener bajo su mando los cuerpos de seguridad pública y tránsito municipal en los términos que establezcan las leyes y dictar las medidas administrativas tendientes para mejorar su organización y funcionamiento, en los términos del reglamento correspondiente;
 
@@ -525,43 +655,53 @@ VII. Abstenerse de realizar funciones ejecutivas en la administración municipal
 
 VIII. Las demás establecidas por el presente ordenamiento y reglamento respectivos.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 33.
 
-Los Síndicos tendrán las siguientes facultades y obligaciones:
+El Síndico tendrá las siguientes facultades y atribuciones:
 
-I. Procurar la defensa y promoción de los intereses municipales;
+I.- Asistir puntualmente a las sesiones que celebre el Ayuntamiento, con voz y voto;
 
-II. Representar legalmente al municipio ante toda clase de tribunales federales y estatales y delegar esta representación, por acuerdo del Ayuntamiento en los casos en que el Municipio tenga un interés;
+II.- Informar a éste de los resultados de sus trabajos y proponer las medidas que estime pertinentes;
 
-III. Asistir con la representación del Ayuntamiento a los remates públicos en los que tenga interés el municipio;
+III.- Concurrir a las ceremonias cívicas y demás actos oficiales;
 
-IV. Vigilar con la Cuenta Pública Municipal se integre en la forma y términos previstos en las disposiciones aplicables y se remita en tiempo a la Legislatura del Estado;
+IV.- Abstenerse de aceptar cargo, empleo o comisión del gobierno federal o de los estados, a excepción de los académicos, honorarios y asistenciales;
 
-V. Realizar visitas de inspección a las dependencias y entidades municipales y, en su caso, proponer al Ayuntamiento las medidas necesarias para su mejor funcionamiento;
+V.- Procurar la defensa y promoción de los intereses municipales;
 
-VI. Intervenir, cada vez que el ayuntamiento lo juzgue conveniente, en la formulación y verificación del inventario general de los bienes muebles e inmuebles propiedad del municipio;
+VI.- Representar legalmente al municipio ante toda clase de tribunales federales y estatales y delegar esta representación, por acuerdo del Ayuntamiento en los casos en que el municipio tenga un interés;
 
-VII. Promover la regularización de la propiedad de los bienes municipales;
+VII.- Asistir con la representación del Ayuntamiento a los remates públicos en los que tenga interés el municipio;
 
-VIII. Vigilar que los actos del Presidente Municipal y del Ayuntamiento se ejecuten en términos de estricta legalidad;
+VIII.- Vigilar que la cuenta pública municipal se integre en la forma y términos previstos en las disposiciones aplicables y se remita en tiempo a la Entidad Superior de Fiscalización;
 
-IX. Presentar al Ayuntamiento, para su autorización y sellado en un plazo no mayor de quince días, contados a partir del inicio de su administración, los libros o registros electrónicos en donde se consignen los movimientos contables de la propia administración;
+IX.- Realizar visitas de inspección a las dependencias y entidades municipales y, en caso, proponer al Ayuntamiento las medidas necesarias para su mejor funcionamiento;
 
-X. Verificar que los servidores públicos obligados a ello presenten sus respectivas declaraciones patrimoniales de manera oportuna y vigilar la ejecución de las sanciones correspondientes;
+X.- Intervenir, cada vez que el Ayuntamiento lo juzgue conveniente, en la formulación y verificación del inventario general de los bienes muebles e inmuebles propiedad del municipio;
 
-XI. Exigir al Titular de la Dependencia Encargada de las Finanzas Públicas y demás servidores públicos municipales que manejen fondos, el otorgamiento de fianzas previamente al inicio del desempeño de sus funciones;
+XI.- Promover la regularización de la propiedad de los bienes municipales;
 
-XII. Asumir las funciones auxiliares de Ministerio Público en los términos de la ley de la materia;
+XII.- Vigilar que los actos del Presidente Municipal y del Ayuntamiento se ejecuten en términos de estricta legalidad;
 
-XIII. Solicitar y obtener de los titulares de las dependencias y organismos municipales la información y demás documentación relativa a la gestión municipal, necesaria para el cumplimiento de sus funciones;
+XIII.- Presentar al Ayuntamiento, para su autorización y sellado, en un plazo no mayor de quince días, contados a partir del inicio de su administración, los libros o registros electrónicos en donde se consignen los movimientos contables de la propia administración;
 
-XIV. Las demás que les señale la Ley, los reglamentos municipales y el propio Ayuntamiento.
+XIV.- Verificar que los servidores públicos obligados a ello, presenten sus respectivas declaraciones patrimoniales de manera oportuna y vigilar la ejecución de las sanciones correspondientes;
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2006)</small>
+XV.- Exigir al titular de la dependencia encargada de las finanzas públicas y demás servidores públicos municipales que manejen fondos, el otorgamiento de fianzas previamente al inicio del desempeño de sus funciones;
+
+XVI.- Asumir las funciones auxiliares de Ministerio Público, en los términos de la ley de la materia;
+
+XVII.- Solicitar y obtener de los titulares de las dependencias y organismos municipales la información y demás documentación relativa a la gestión municipal, necesaria para el cumplimiento de sus funciones; y
+
+XVIII.- Las demás que le señalen la Ley, los reglamentos municipales y el propio Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 34.
 
-La representación conferida a los Síndicos, se entiende sin más limitaciones que las consignadas en esta Ley y las que resulten de considerar dicha representación legal; sólo con las facultades del mandatario general para pleitos y cobranzas, con cláusulas para absolver posiciones e interponer o desistirse del juicio de amparo, en los términos del primer párrafo del artículo 2433 y demás relativos y aplicables del Código Civil para el Estado de Querétaro y la Ley de Amparo vigente. Los Síndicos no pueden desistirse, transigir, comprometer en árbitros ni hacer cesión de bienes municipales, salvo autorización expresa que en cada caso otorgue el ayuntamiento.
+La representación conferida a los Síndicos, se entiende sin más limitaciones que las consignadas en esta Ley y las que resulten de considerar dicha representación legal sólo con las facultades del mandatario general para pleitos y cobranzas, con cláusula para absolver posiciones e interponer o desistirse del juicio de amparo, en los términos del Código Civil del Estado de Querétaro, la Ley de Amparo y demás disposiciones legales vigentes. Los Síndicos no pueden desistirse, transigir, comprometer en árbitros ni hacer cesión de bienes municipales, salvo autorización expresa que en cada caso otorgue el Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2006)</small>
 
@@ -639,9 +779,11 @@ Los miembros de las comisiones carecerán de facultades ejecutivas.
 
 ### CAPÍTULO CUARTO. DE LA INHABILITACIÓN, REVOCACIÓN Y SUSPENSIÓN DE LOS MIEMBROS DEL AYUNTAMIENTO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 41.
 
-Para los efectos de lo establecido en la fracción XX del Artículo 41 de la Constitución del Estado, el Ayuntamiento dará aviso a la Legislatura cuando la conducta de alguno de sus miembros encuadre en alguno de los casos siguientes:
+Para la inhabilitación, revocación y suspensión de alguno de los miembros del Ayuntamiento, éste dará aviso a la Legislatura cuando la conducta de alguno de ellos encuadre en alguno de los supuestos siguientes:
 
 I. Por abandono de sus funciones, sin causa justificada, por un período de treinta días consecutivos;
 
@@ -653,9 +795,13 @@ IV. Cuando por resolución de autoridad competente le sean suspendidos sus derec
 
 V. Por quebrantar los principios del régimen federal y los de la Constitución Política del Estado;
 
-VI. Por violar sistemáticamente las garantías individuales y sociales establecidas en la Constitución Política de los Estados Unidos Mexicanos y en la del Estado;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
 
-VII. Por promover o pretender adoptar formas de gobierno o bases de organización política distintas a las estipuladas en la Constitución General de la República y la del Estado;
+VI. Por violar sistemáticamente las garantías individuales y sociales establecidas en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado de Querétaro;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+
+VII. Por promover o pretender adoptar formas de gobierno o bases de organización política distintas a las estipuladas en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Querétaro;
 
 VIII. Por conductas que alteren el orden público y la paz social;
 
@@ -1013,9 +1159,11 @@ V. Un sistema de plan de salarios y tabulador de puestos; y
 
 VI. Un sistema de capacitación, actualización y desarrollo de personal.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 66.
 
-La institucionalización del Servicio Civil de Carrera será responsabilidad de la Dependencia Encargada de la Administración de Servicios, Recursos Humanos, Materiales y Técnicos del Municipio, a la cual estará adscrita una comisión integrada por quien el Ayuntamiento designe conforme al Artículo 68 de esta Ley.
+La institucionalización del Servicio Civil de Carrera, será responsabilidad de la dependencia encargada de la administración de servicios, recursos humanos, materiales y técnicos del municipio, a la cual estará adscrita una comisión integrada por quien el Ayuntamiento designe conforme a la Ley de los Trabajadores del Estado de Querétaro.
 
 ###### ARTICULO 67.
 
@@ -1035,9 +1183,11 @@ VI. Evaluar periódicamente los resultados de las acciones orientadas a la instr
 
 VII. Las demás que señale el Ayuntamiento, que le sean necesarias para el cumplimiento de su objeto.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 68.
 
-En la aplicación del presente capítulo, se atenderá en lo conducente, lo dispuesto por la Ley de los Trabajadores al Servicio del Estado y Municipios.
+En la aplicación del presente Capítulo, se atenderá, en lo conducente, lo dispuesto por la Ley de los Trabajadores del Estado de Querétaro.
 
 ### CAPÍTULO NOVENO. DEL SISTEMA DE CONSEJOS MUNICIPALES DE PARTICIPACIÓN SOCIAL
 
@@ -1045,9 +1195,15 @@ En la aplicación del presente capítulo, se atenderá en lo conducente, lo disp
 
 El Sistema de Consejos Municipales de Participación Social es el mecanismo que promueve e integra la participación plural y democrática de la sociedad, así como los esfuerzos de la administración pública en las acciones inherentes al Gobierno Municipal.
 
+(NOTA: EL 16 DE ABRIL DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO TRIGÉSIMO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 40/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA, DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ABRIL DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 70.
 
-Los Consejos Municipales de Participación Social, tendrán como objetivo fundamental establecer espacios de participación de la comunidad para su propio desarrollo y la propuesta, validación y evaluación de los programas de acción que realice la administración municipal. Atenderán a la estructura sectorial, territorial e institucional y deberán integrar a miembros de las diversas organizaciones y agrupaciones civiles representativas de la comunidad y ciudadanos interesados; serán la instancia de participación a nivel local que presenta propuestas integrales de desarrollo comunitario ante el COPLADEM. Su integración y funcionamiento se regirán por los reglamentos que al efecto se emitan.
+Los Consejos Municipales de Participación Social, tendrán como objetivo fundamental establecer espacios de participación de la comunidad para su propio desarrollo, elaboración de propuestas, VALIDACIÓN y evaluación de los programas de acción que realice la administración municipal. Atenderán a la estructura sectorial, territorial e institucional y deberán integrar a miembros de las diversas organizaciones agrupaciones civiles representativas de la comunidad y ciudadanos interesados; serán la instancia de participación a nivel local que presenta propuestas integrales de desarrollo comunitario, ante el Comité de Planeación para el Desarrollo Municipal. Su integración y funcionamiento se regirán por los reglamentos que al efecto se emitan.
 
 ###### ARTICULO 71.
 
@@ -1081,19 +1237,31 @@ El ayuntamiento podrá encomendar a los consejeros las recaudaciones económicas
 
 ### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 73.
 
-Son elementos y requisitos del acto administrativo:
+Los actos administrativos de las autoridades municipales deberán estar a lo dispuesto por la Ley de Procedimientos Administrativos del Estado de Querétaro y deberán reunir los siguientes requisitos:
 
-I. Ser expedido por órgano competente a través de un servidor público legalmente facultado, el cual deberá reunir las formalidades que establece esta Ley para emitirlo;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
 
-II. Tener objeto que pueda ser materia del mismo; determinado o determinable; preciso en cuanto a las circunstancias de tiempo y lugar;
+I. Ser expedido por órgano y servidor público competentes;
 
-III. Cumplir con la finalidad de interés público regulado por las normas en que se concreta sin que puedan perseguirse otros fines distintos;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
 
-IV. Hacerse constar por escrito y con la firma autógrafa de quien lo expida, salvo en los casos en el que el Reglamento respectivo autorice otras formas de expedición;
+II. Tener objeto que pueda ser materia del mismo, determinado o determinable y ser preciso en cuanto a las circunstancias de tiempo y lugar;
 
-V. Estar fundado y motivado
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+
+III. Cumplir con la finalidad de interés público regulado por las normas en que se concrete, sin que puedan perseguirse otros fines distintos;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+
+IV. Hacerse constar por escrito, con la firma autógrafa de la autoridad que lo expida, salvo en los casos en el que el reglamento respectivo autorice otras formas de expedición;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+
+V. Estar fundado y motivado de manera suficiente, precisa y clara;
 
 VI. Ser expedido sin que medie error sobre el objeto, causa o motivo, o sobre el fin del acto;
 
@@ -1105,65 +1273,81 @@ IX. Ser expedido sin que medie error en la identificación del expediente, docum
 
 X. Señalar lugar y fecha de expedición;
 
-XI. Tratándose de los actos administrativos que deban notificarse, hacerse mención de la oficina en que se encuentran para que pueda ser consultado el expediente respectivo;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+
+XI. Tratándose de actos administrativos que deban notificarse, se hará mención de la oficina en que se encuentra para que pueda ser consultado el expediente respectivo;
 
 XII. Tratándose de actos administrativos recurribles, deberá hacerse mención de los recursos que procedan; y
 
 XIII. Ser expedido decidiendo expresamente todos los puntos propuestos por las partes o establecidos por la Ley.
 
-### CAPÍTULO SEGUNDO. DE LA NULIDAD Y ANULABILIDAD DEL ACTO ADMINISTRATIVO
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MARZO DE 2009)</small>
+
+Los actos administrativos de carácter general, deberán publicarse en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”, para que puedan producir sus efectos jurídicos.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE MARZO DE 2009)</small>
+
+### CAPÍTULO SEGUNDO. DE LA NULIDAD DEL ACTO ADMINISTRATIVO
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 74.
 
-La omisión o irregularidad en los elementos y requisitos exigidos por el artículo 73 de esta Ley, producirán según sea el caso nulidad o anulabilidad del acto administrativo.
+La omisión o irregularidad de cualquiera de los elementos o requisitos establecidos en la presente Ley, podrán resultar en la nulidad del acto administrativo.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 75.
 
-La omisión o irregularidad de cualesquiera de los requisitos establecidos en las fracciones I a VIII del artículo 73 de la presente Ley, producirá la nulidad del acto administrativo, la cual deberá ser decretada en el dictamen del recurso que corresponda.
-
-El acto administrativo que se declare jurídicamente nulo será inválido; no se presumirá legítimo ni ejecutable; no será subsanable. Los particulares no tendrán obligación de cumplirlo, y los servidores públicos deberán hacer constar su oposición a ejecutarlo fundando y motivando tal negativa.
+El acto administrativo que se declare jurídicamente nulo será inválido y por lo tanto, no se presumirá legítimo ni ejecutable pero sí subsanable, sin perjuicio de que pueda expedirse uno nuevo. En caso de un acto nulo los particulares no tendrán la obligación de cumplirlo y los servidores públicos deberán hacer constar su oposición a ejecutarlo, fundando y motivando tal negativa.
 
 La declaración de nulidad producirá efectos retroactivos.
 
-En caso de que el acto se hubiere consumado, o bien sea de hecho o de derecho imposible de retrotraer sus efectos, sólo dará lugar a responsabilidad del servidor público que lo hubiere emitido u ordenado de conformidad con lo que estipula la ley aplicable.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 76.
 
-La omisión o irregularidad de los elementos o requisitos señalados en las fracciones IX a XIII del artículo 73 de la presente Ley producirá la anulabilidad del acto administrativo, la cual deberá decretarse en la resolución del recurso correspondiente.
-
-El acto declarado anulable se considerará válido, gozará de presunción de procedibilidad y ejecutabilidad. Será subsanable por el órgano administrativo que lo emitió. Tanto de los servidores públicos como los particulares tendrán la obligación de cumplirlo.
-
-El saneamiento del acto anulable producirá efectos retroactivos y el acto se considerará como si siempre hubiera sido válido.
+En caso de que el acto se hubiere consumado y fuera imposible retrotraer sus efectos, sólo dará lugar a la responsabilidad del servidor público que lo hubiere emitido u ordenado, así como la reparación del daño si hubiere lugar a ella.
 
 ### CAPÍTULO TERCERO. DE LA EFICACIA DEL ACTO ADMINISTRATIVO
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 77.
 
-El acto administrativo se presume válido en tanto su invalidez no haya sido resuelta.
+El acto administrativo será válido en tanto su invalidez no haya sido declarada por autoridad competente.
+
+El acto administrativo no surtirá efectos hasta que se dé el supuesto de la condición o término suspensivos.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 78.
 
-El acto administrativo válido será exigible a partir de que surta efectos la notificación legalmente efectuada, en los términos que establece el Código de Procedimientos Civiles del Estado de Querétaro.
+El acto administrativo que afecte los derechos del particular o de algún grupo social determinado o determinable, será eficaz y exigible a partir de que surta efectos su legal notificación.
 
-Se exceptúa de lo dispuesto en el párrafo anterior, el acto administrativo por el cual se otorgue un beneficio al particular, caso en el cual su cumplimiento será exigible por éste al órgano administrativo que lo emitió desde la fecha en que se dictó o aquella que tenga señalada para iniciar su vigencia; así como los casos en virtud de los cuales se realicen actos de inspección, investigación o vigilancia conforme a las disposiciones de esta Ley y sus reglamentos, los cuales son exigibles a partir de la fecha en que la administración pública municipal los efectúe.
+El cumplimiento del acto que otorgue beneficios a un particular o un grupo social determinado o determinable, será exigible al órgano administrativo desde la fecha en que lo emitió.
+
+Si el acto administrativo requiere aprobación de órganos o autoridades distintos de aquel que lo emite, de conformidad con las disposiciones legales aplicables, no tendrá eficacia sino hasta que aquella se produzca y se notifique, a menos que se trate de un acto que otorgue beneficios a un particular o a un grupo social determinado o determinable, en cuyo caso será eficaz desde el momento en que sea aprobado.
 
 ### CAPÍTULO CUARTO. DE LA EXTINCIÓN DEL ACTO ADMINISTRATIVO
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 79.
 
-El acto administrativo de carácter individual se extingue por las siguientes causas:
+El acto administrativo se extingue por las siguientes causas:
 
-I. Cumplimiento de su finalidad;
+I.- Cumplimiento de su finalidad;
 
-II. Expiración del plazo;
+II.- Conclusión de vigencia;
 
-III. Cuando la formación del acto administrativo está sujeta a una condición o término suspensivo y éste no se realice dentro del plazo señalado en el propio acto;
+III.- Acaecimiento de una condición resolutoria;
 
-IV. Acaecimiento de una condición resolutoria;
+IV.- Renuncia del interesado, cuando el acto hubiere sido dictado en exclusivo beneficio de éste y no sea en perjuicio del interés público;
 
-V. Renuncia del interesado, cuando el acto hubiere sido dictado en exclusivo beneficio de éste y no sea en perjuicio del interés público; y
+V.- Por revocación fundada y motivada de manera suficiente, precisa y clara, cuando así lo exija el interés público, de acuerdo con la ley de la materia; y
 
-VI. Por revocación cuando ésta se determine.
+VI.- Por resolución administrativa o judicial.
 
 ### CAPÍTULO QUINTO. DE LOS CONTRATOS ADMINISTRATIVOS
 
@@ -1183,17 +1367,21 @@ V. Celebrar contratos de administración de obras y de prestación de servicios 
 
 VI. En general cualquier acto que implique obligaciones que deban ser cumplidas después de concluida la gestión municipal de que se trate.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 81.
 
-La enajenación de bienes muebles e inmuebles propiedad de los municipios siempre se efectuará en subasta pública, siguiendo el procedimiento de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro y, en su caso, respetando el derecho del tanto.
+La enajenación de bienes muebles e inmuebles propiedad de los municipios, siempre se efectuará siguiendo el procedimiento de la Ley de Adquisiciones, Enajenaciones, Arrendamiento y Contratación de Servicios del Estado de Querétaro y en el reglamento respectivo, debiendo, en su caso, respetar el derecho del tanto.
 
 ###### ARTICULO 82.
 
 En las solicitudes para cambio de destino o desafectación de bienes de uso común o de servicio público, se expresarán los motivos que para ello tenga el municipio solicitante, agregando el dictamen técnico correspondiente.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 83.
 
-Los ayuntamientos están obligados, preferentemente, a adquirir predios circundantes a los centros de población de su Municipio, a fin de integrar el área de reserva urbana destinada a satisfacer las necesidades de expansión y desarrollo de éstos; lo anterior, sin perjuicio de poder solicitar su expropiación, para cuyo efecto las anteriores circunstancias serán consideradas como causas de utilidad pública.
+Los ayuntamientos procurarán adquirir predios circundantes a los centros de población de su Municipio, a fin de integrar el área de reserva urbana destinada a satisfacer las necesidades de expansión y desarrollo de éstos; lo anterior, sin perjuicio de poder solicitar su expropiación, para cuyo efecto las anteriores circunstancias serán consideradas como causas de utilidad pública.
 
 ###### ARTICULO 84.
 
@@ -1369,7 +1557,9 @@ VII. Otros adquiridos por procedimientos de derecho público.
 
 Son bienes del dominio privado de los municipios los siguientes:
 
-I. Inmuebles cuyo poseedor no sea el posesionario legítimo o carezca del Título de propiedad y se encuentren comprendidos dentro del fundo legal de las poblaciones, aprobadas por la Legislatura y debidamente inscritos junto con el plano respectivo, en el Registro Público de la Propiedad, los cuales se destinarán preferentemente a la solución de necesidades sociales de vivienda;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+
+I. Inmuebles cuyo poseedor no sea el posesionario legítimo o carezca del título de propiedad y se encuentren comprendidos dentro del fundo legal de las poblaciones, aprobadas por la Legislatura del Estado y debidamente inscritos junto con el plano respectivo, en el Registro Público de la Propiedad y del Comercio, los cuales se destinarán preferentemente a la solución de necesidades sociales de vivienda;
 
 II. Los bienes muebles al servicio de las dependencias y oficinas municipales que no sean de uso común; y
 
@@ -1417,9 +1607,11 @@ I. Ordinarios: impuestos, derechos, productos, aprovechamientos, contribuciones 
 
 II. Extraordinarios: todos aquellos cuya percepción se autorice excepcionalmente para cubrir gastos eventuales o el importe de determinadas obras públicas, siempre y cuando estén previstas por la ley. Dentro de esta categoría quedan comprendidos los empréstitos o financiamientos adicionales.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 105.
 
-La Dependencia Encargada de las Finanzas Públicas, efectuará la determinación, liquidación y recaudación de los ingresos municipales, de conformidad con lo establecido en la presente Ley, la General de Hacienda de los Municipios de Querétaro, el Código Fiscal del Estado y demás ordenamientos legales aplicables.
+La dependencia encargada de las finanzas públicas, efectuará la determinación, liquidación y recaudación de los ingresos municipales, de conformidad con lo establecido en la presente Ley, la Ley de Hacienda de los Municipios del Estado de Querétaro, el Código Fiscal del Estado de Querétaro y demás ordenamientos legales aplicables.
 
 ### CAPÍTULO TERCERO. DE LA LEY DE INGRESOS Y PRESUPUESTO DE EGRESOS
 
@@ -1433,19 +1625,21 @@ El titular de la dependencia encargada de las finanzas públicas es el responsab
 
 Para la elaboración de la Ley de Ingresos, el titular de la dependencia encargada de las finanzas públicas presentará al Ayuntamiento, a más tardar el día veinte de noviembre, un proyecto de iniciativa de Ley, en el cual hará acopio de la información económica y contable del ejercicio anterior, así como de los factores generales que reflejen la situación económica del municipio y la región.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 108.
 
-El Ayuntamiento deberá formular la iniciativa de Ley de Ingresos correspondiente, la cual se turnará a más tardar el 30 de Noviembre a la Legislatura. El Ayuntamiento que incumpla esta disposición será sancionado de conformidad con lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro.
+El Ayuntamiento deberá formular anualmente la iniciativa de Ley de ingresos correspondiente, la cual se turnará, a más tardar el treinta de noviembre, a la Legislatura del Estado. El Ayuntamiento que incumpla esta disposición será sancionado de conformidad con lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro.
 
-La Legislatura del Estado resolverá lo conducente a más tardar el 15 de diciembre.
+La Legislatura del Estado resolverá lo conducente, a más tardar el quince de diciembre.
 
 ###### ARTICULO 109.
 
 La estructura de la iniciativa de Ley de Ingresos para el municipio, contendrá:
 
-I. Clasificación de los ingresos municipales, siguiendo lo previsto en la Ley General de Hacienda de los Municipios;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+
+I. Clasificación de los ingresos municipales, siguiendo lo previsto en la Ley de Hacienda de los Municipios del Estado de Querétaro;
 
 II. La determinación de la estimación de los ingresos por cada rubro y concepto en forma global;
 
@@ -1463,9 +1657,11 @@ Las diferentes dependencias y oficinas del gobierno municipal, previa solicitud 
 
 El ayuntamiento por conducto de su Secretario, tan pronto reciba el Proyecto de Presupuesto de Egresos, lo turnará a la Comisión de Hacienda Patrimonio y Cuenta Pública para que, en un plazo de ocho días, lo estudie y emita el dictamen respectivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 112.
 
-En la formulación del Presupuesto de Egresos podrá observarse, en lo aplicable, las normas relativas de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado o los lineamientos siguientes:
+En la formulación del Presupuesto de Egresos podrá observarse, en lo aplicable, las normas relativas de la Ley de Hacienda de los Municipios del Estado de Querétaro o los lineamientos siguientes:
 
 I. La presupuestación del gasto público municipal deberá sujetarse a los objetivos y prioridades que señale el Plan de Desarrollo Municipal y sus programas atendiendo a los principios de racionalidad, austeridad y disciplina;
 
@@ -1499,9 +1695,11 @@ El presupuesto de egresos será aprobado por el Ayuntamiento con base en sus ing
 
 ### CAPÍTULO PRIMERO. DEL DESARROLLO MUNICIPAL
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 116.
 
-Para el cumplimiento de sus fines y aprovechamiento de sus recursos, los ayuntamientos formularán sus respectivos Planes Municipales de Desarrollo y sus programas sectoriales, territoriales y especiales, de acuerdo con lo dispuesto por la Ley de Planeación, el Código Urbano y los demás ordenamientos aplicables.
+Para el cumplimiento de sus fines y aprovechamiento de sus recursos, los ayuntamientos formularán sus respectivos planes municipales de desarrollo y sus programas sectoriales, territoriales y especiales, de acuerdo con lo dispuesto por la Ley de Planeación del Estado de Querétaro, el Código Urbano del Estado de Querétaro y los demás ordenamientos aplicables.
 
 ###### ARTICULO 117.
 
@@ -1619,9 +1817,11 @@ III. Además, detallará el sistema considerado más adecuado para evaluar las a
 
 Para la formulación del Plan de Desarrollo Urbano Municipal, el ayuntamiento deberá organizar los mecanismos de concertación que considere necesarios a efecto de incorporar las propuestas de la sociedad civil.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 127.
 
-Los planes y programas de desarrollo urbano serán inscritos en el Registro Público de la Propiedad en la forma en que lo establezca su reglamento. A partir de su inscripción la autoridad municipal expedirá licencias de construcción, reconstrucción, ampliación o cualquiera otra relacionada con las áreas y predios previstos en el Plan de Desarrollo Urbano Municipal, a fin de que las obras se ejecuten en congruencia con las disposiciones de dicho Plan.
+Los planes y programas de desarrollo urbano serán inscritos en el Registro Público de la Propiedad y del Comercio, en la forma en que lo establezca su reglamento. A partir de su inscripción, la autoridad municipal expedirá licencias de construcción, reconstrucción, ampliación o cualquiera otra relacionada con las áreas y predios previstos en el Plan de Desarrollo Municipal, a fin de que las obras se ejecuten en congruencia con las disposiciones de dicho Plan.
 
 ###### ARTICULO 128.
 
@@ -1693,95 +1893,153 @@ Los jueces determinarán sus sanciones de conformidad con lo que establece el Ca
 
 Las obligaciones de los jueces cívicos y el funcionamiento interno de sus oficinas se regirán por reglamentos internos que al efecto emitan los ayuntamientos.
 
-### CAPÍTULO SEGUNDO. DE LOS MEDIOS DE DEFENSA DE LOS PARTICULARES
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE MARZO DE 2009)</small>
+
+### CAPÍTULO SEGUNDO. DEL RECURSO DE REVISIÓN
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
 ### CAPÍTULO PRIMERO. DE LA FACULTAD REGLAMENTARIA
 
 ###### ARTICULO 135.
 
-Los actos administrativos del Presidente u otras autoridades municipales podrán ser impugnados mediante los recursos de reconsideración y revisión.
+Los actos administrativos del Presidente Municipal u otras autoridades municipales, podrán ser impugnados mediante el recurso de revisión.
 
-El recurso de reconsideración es procedente contra actos administrativos emitidos por el Presidente Municipal u otras autoridades municipales; el de revisión contra la resolución dictada con motivo del recurso de reconsideración.
+El plazo para interponer el recurso de revisión será de veinte días, contados a partir del día siguiente a aquél en que hubiere surtido efectos la notificación de la resolución que se recurra.
 
-Ambos se interpondrán y resolverán en los términos establecidos en esta Ley, sin perjuicio de que el afectado pueda hacer valer cualquier otro recurso previsto por las demás leyes aplicables a la materia del acto que se impugna.
+Lo no previsto en la presente Ley, respecto al recurso de revisión, se estará a lo dispuesto por la Ley de Procedimientos Administrativos del Estado de Querétaro.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 136.
 
-Los actos o acuerdos dictados por el Presidente u otras autoridades municipales serán recurribles cuando existan cualquiera de las siguientes circunstancias:
+La oposición a los actos de trámite en un procedimiento administrativo, deberá alegarse por los particulares durante el mismo para que sea tomada en consideración al dictarse resolución que ponga fin al procedimiento, sin perjuicio que la oposición a tales actuaciones de la autoridad se haga valer al impugnar la resolución definitiva.
 
-I. Falta de competencia para dictarlos;
-
-II. Incumplimiento de las formalidades legales que deban revestir; y
-
-III. La inexacta aplicación de la disposición o disposiciones en que se fundamenten.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 137.
 
-Los recursos se desecharán de plano cuando:
+El escrito de interposición del recurso de revisión deberá presentarse ante la autoridad que emitió el acto impugnado y será resuelto por el superior jerárquico, salvo que el acto impugnado provenga del titular de una dependencia, en cuyo caso será resuelto por él mismo. Dicho escrito deberá expresar:
 
-I. Se interpongan fuera del plazo previsto por esta Ley;
+I.- El órgano administrativo a quien se dirige;
 
-II. No se acredite la personalidad de quien los promueve;
+II.- El nombre del recurrente y del tercero perjudicado si lo hubiere, así como el lugar que señale para efectos de notificaciones y las personas autorizadas para tales efectos;
 
-III. Quien lo interponga no acredite el interés jurídico o el legítimo y en el caso de que el promovente sea un miembro del ayuntamiento, no haya votado en contra de la resolución atacada; y
+III.- El acto que se recurre y fecha en que se le notificó o tuvo conocimiento del mismo;
 
-IV. El documento mediante el que se promueva no esté firmado por el recurrente, a menos que se exhiba antes del vencimiento del término para su interposición, en cuyo caso, la autoridad conocedora de la impugnación de que se trate prevendrá al recurrente para que firme dicho documento.
+IV.- Los agravios que se le causan;
+
+V.- En su caso, copia de la resolución o acto que se impugna y de la notificación correspondiente. Tratándose de actos que por no haberse resuelto en tiempo se entiendan negados, deberá acompañarse el escrito de iniciación del procedimiento, en que conste el acuse de recibo; y
+
+VI.- Las pruebas que ofrezca, debidamente relacionadas.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 138.
 
-El recurso de reconsideración deberá promoverse por escrito dentro del plazo de diez días hábiles siguientes al de la notificación o al en que se tenga conocimiento del acto impugnado, ante la autoridad que dictó el mismo, quien deberá resolver sobre dicha impugnación en un plazo máximo de tres días.
+La ejecución del acto reclamado se suspenderá siempre que concurran los siguientes requisitos:
+
+I.- Lo solicite expresamente el recurrente;
+
+II.- Sea admisible el recurso y esté interpuesto en tiempo;
+
+III.- No se siga perjuicio al interés social o se contravengan disposiciones de orden público;
+
+IV.- No se ocasionen daños o perjuicios a terceros, a menos que se garanticen éstos para el caso de no obtener resolución favorable; y
+
+V.- Se garantice el interés fiscal conforme a la Ley de Hacienda de los Municipios del Estado de Querétaro, el Código Fiscal del Estado de Querétaro y demás disposiciones aplicables.
+
+La autoridad administrativa deberá acordar, en su caso, la suspensión o la denegación de la suspensión dentro de los cinco días siguientes a su interposición, en cuyo defecto se entenderá otorgada la suspensión.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 139.
 
-El recurso de revisión deberá interponerse por escrito ante el Ayuntamiento, dentro de los diez días hábiles siguientes al de la notificación de la resolución recaída a la reconsideración, quien resolverá en un término máximo de diez días hábiles siguientes al en que se promovió el recurso.
+El recurso se tendrá por no interpuesto y se desechará cuando:
+
+I.- Se presente fuera de plazo;
+
+II.- El promovente no cumpla con los requisitos de esta Ley y los requerimientos a que hubiere lugar; y
+
+III.- No se encuentre firmado el escrito en que se interponga.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 140.
 
-El escrito mediante el cual se interponga el recurso deberá contener:
+Se desechará por notoria improcedencia el recurso:
 
-I. La autoridad ante la que se promueva;
+I.- Contra actos que sean materia de otro recurso y que se encuentre pendiente de resolución, promovido por el mismo recurrente y por el mismo acto impugnado;
 
-II. Nombre del recurrente o representante legal, si lo hubiere;
+II.- Contra actos que no afecten los intereses legítimos del promovente;
 
-III. El documento que acredite la personalidad del promovente o representante legal;
+III.- Contra actos consumados de un modo irreparable;
 
-IV. Domicilio para oír notificaciones, ubicado dentro del Municipio;
+IV.- Contra actos consentidos; y
 
-V. El acto impugnado y los hechos en que se base el recurso respectivo;
+V.- Cuando se esté tramitando ante los tribunales algún recurso o defensa legal interpuesto por el promovente, que pueda tener por efecto modificar, revocar o nulificar el acto respectivo.
 
-VI. Exposición sucinta de los motivos de inconformidad; y
-
-VII. Relación de pruebas que ofrezca para justificar los hechos en que se apoya el recurso.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 141.
 
-De no cumplirse con cualesquiera de los requisitos señalados en el artículo anterior, se prevendrá al recurrente para que en el plazo de tres días hábiles siguientes al de la notificación, cumpla con tal requerimiento y, en su caso de no hacerlo, se le desechará de plano el recurso intentado.
+Será sobreseído el recurso cuando:
+
+I.- El promovente se desista expresamente del recurso;
+
+II.- El interesado fallezca o se extinga, en el caso de personas morales;
+
+III.- Durante el procedimiento sobrevenga alguna de las causas de improcedencia a que se refiere el artículo anterior;
+
+IV.- Cuando hayan cesado los efectos del acto administrativo impugnado;
+
+V.- Por falta de objeto o materia del acto impugnado; y
+
+VI.- No se probare la existencia del acto reclamado.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 142.
 
-Las notificaciones podrán hacerse personalmente, por cédula o por edicto, en los términos del Código de Procedimientos Civiles en el Estado.
+Desahogado el período probatorio y transcurrido el plazo para los alegatos de las partes, la autoridad administrativa citará para resolución definitiva y resolverá en el plazo de diez días hábiles:
+
+I.- Desechándolo por improcedente o sobreseyéndolo;
+
+II.- Confirmando el acto impugnado;
+
+III.- Reconociendo su inexistencia o declarando la nulidad del acto administrativo;
+
+IV.- Revocando total o parcialmente la resolución impugnada; y
+
+V.- Modificando u ordenando la rectificación del acto administrativo impugnado o dictando u ordenando expedir uno nuevo.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 143.
 
-El ayuntamiento deberá tomar en cuenta para la resolución de los recursos, las pruebas que se aporten en los términos del Código de Procedimientos Civiles y los argumentos expuestos por el inconforme en la promoción respectiva.
+La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo la autoridad administrativa expedita su facultad de invocar hechos notorios; pero, cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado bastará con el examen de dicho punto.
 
-Si por naturaleza de las pruebas el término para la resolución del recurso interpuesto resulta insuficiente, se podrá ampliar en el lapso que se estime necesario, únicamente para el efecto de desahogar las pruebas sin que este pueda ser mayor a quince días hábiles.
+La autoridad, en beneficio del recurrente, podrá corregir los errores que advierta en la cita de los preceptos legales que se consideren violados, así como podrá examinar en su conjunto los agravios y los demás razonamientos del recurrente, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en el recurso.
+
+Igualmente, deberá dejar sin efectos legales los actos administrativos impugnados cuando advierta una ilegalidad manifiesta, aun cuando los agravios sean insuficientes, pero deberá fundar cuidadosamente los motivos por los que consideró ilegal el acto y precisar el alcance en la resolución.
+
+Si la resolución ordena realizar un determinado acto o iniciar la reposición del procedimiento, deberá cumplirse en un plazo de tres días hábiles, contados a partir de la fecha en que haya quedado firme la resolución dictada por la autoridad administrativa.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 144.
 
-Las resoluciones dictadas por la autoridad municipal respecto de los recursos que conozca, deberán ser exhaustivas y se notificarán por escrito al interesado en el domicilio para ello señalado o, en su defecto, en lugar visible de las oficinas municipales.
+No se podrán revocar o modificar los actos administrativos en la parte no impugnada por el recurrente.
+
+La resolución expresará con claridad los actos que se modifiquen y si la modificación es parcial, se precisará ésta.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 145.
 
-La interposición de los recursos de reconsideración o de revisión suspende la ejecución de la resolución, siempre y cuando:
+La autoridad podrá dejar sin efectos un requerimiento o una sanción, de oficio o a petición de parte interesada, cuando se trate de un error manifiesto o el particular demuestre que ya había dado cumplimiento con anterioridad.
 
-I. Lo solicite al agraviado;
-
-II. Los daños y perjuicios que pudieran causarse con motivo de la aplicación de la resolución, sean de difícil reparación;
-
-III. No causen daños y perjuicios a terceros, a juicio del ayuntamiento a menos que se garanticen éstos por el monto que fije la autoridad administrativa; y
-
-IV. En los casos de multas se garantice el pago o asegure el interés fiscal ante la Dependencia Encargada de las Finanzas Públicas o cualesquiera autoridad competente del municipio, conforme a las disposiciones de la Ley General de Hacienda de los Municipios del Estado de Querétaro y del Código Fiscal del Estado.
+La tramitación de lo anterior no constituirá recurso, ni suspenderá el plazo para la interposición de éste y tampoco suspenderá la ejecución del acto.
 
 ## TÍTULO IX. DE LA NORMATIVIDAD MUNICIPAL
 
@@ -1795,7 +2053,9 @@ Los ayuntamientos están facultados para organizar su funcionamiento y estructur
 
 Para la aprobación y expedición de los reglamentos, decretos, acuerdos, y demás documentos que contengan disposiciones administrativas de observancia general, los Ayuntamientos deben sujetarse a las disposiciones del presente Título y a las siguientes Bases Generales:
 
-I. Que los ordenamientos respeten las garantías individuales y sociales, consagradas en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+
+I. Que los ordenamientos respeten las garantías individuales y sociales consagradas en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado de Querétaro;
 
 II. Que los ordenamientos sean congruentes y no contravengan o invadan disposiciones o competencias federales y estatales;
 
@@ -1829,9 +2089,11 @@ XV. Las demás que sean necesarias para cumplir con las disposiciones aplicables
 
 En la medida que se modifiquen las condiciones socioeconómicas de los Municipios, en virtud de su crecimiento demográfico, surgimiento y desarrollo de actividades productivas, modificación de las condiciones políticas y múltiples aspectos de la vida comunitaria, los ayuntamientos deberán adecuar su reglamentación municipal, con el fin de preservar su autoridad institucional y propiciar el desarrollo armónico de la sociedad.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 149.
 
-Las disposiciones normativas municipales de observancia general aprobadas en los términos del artículo 30 de esta Ley, serán promulgadas por el Presidente Municipal y publicadas en la Gaceta y lugares visibles del Palacio Municipal. En su caso, el Presidente remitirá dentro de los 5 días siguientes a su aprobación copia certificada de las disposiciones municipales de observancia general al Ejecutivo para su publicación en el Periódico Oficial del Gobierno del Estado.
+Las disposiciones normativas municipales de observancia general, aprobadas por el Ayuntamiento conforme a la presente Ley, serán promulgadas por el Presidente Municipal, quien remitirá, dentro de los quince días siguientes a su aprobación, copia certificada de las mismas al Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
 
 ###### ARTICULO 150.
 
@@ -1875,7 +2137,9 @@ Las infracciones administrativas que establezcan los municipios en sus Reglament
 
 I. Amonestación;
 
-II. Multa que se establecerá en días de salario mínimo general vigente al día de la infracción;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+
+II. Multa;
 
 III. Arresto hasta por treinta y seis horas;
 
@@ -1889,9 +2153,11 @@ VII. Inhabilitación temporal o definitiva para ejercer licencia, permiso o conc
 
 La aplicación de la sanción se hará en función de la gravedad de la infracción cometida conforme, lo establezca el reglamento respectivo.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 157.
 
-Por cuanto ve a la fracción II del artículo anterior, si el infractor fuere jornalero, obrero, campesino o indígena, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día; y tratándose de trabajadores y estudiantes no asalariados, la multa no excederá del equivalente a un día de salario mínimo.
+Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día; tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
 
 ###### ARTICULO 158.
 
@@ -1901,17 +2167,23 @@ La aplicación de las sanciones corresponderá al Presidente Municipal y a las a
 
 ### CAPÍTULO SEGUNDO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS MUNICIPALES
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 159.
 
 Los servidores públicos municipales podrán solicitar licencia al ayuntamiento para separarse temporal o definitivamente del ejercicio de sus funciones, siendo en el primer caso por un lapso no mayor de 90 días.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 160.
 
-Las faltas temporales o definitiva del Presidente Municipal serán suplidas de acuerdo con lo previsto en el artículo 82 de la Constitución Política del Estado.
+Las faltas temporales o absolutas del Presidente Municipal, serán suplidas por el regidor propietario que nombre el Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 161.
 
-Para cubrir las faltas absolutas de los miembros del Ayuntamiento, también serán llamados los suplentes respectivos. Y si faltare el suplente para cubrir la vacante correspondiente, la Legislatura designará a los substitutos, a propuesta del Ejecutivo.
+Para cubrir las faltas absolutas de los miembros del Ayuntamiento, serán llamados los suplentes respectivos y si faltare el suplente para cubrir la vacante correspondiente, la Legislatura del Estado designará a los sustitutos, a propuesta del titular del Poder Ejecutivo.
 
 ###### ARTICULO 162.
 
@@ -1919,35 +2191,27 @@ Las faltas temporales y definitiva de las autoridades auxiliares municipales ser
 
 ### CAPÍTULO TERCERO. DE LA ACCIÓN POPULAR
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 163.
 
-Los servidores públicos de los municipios serán responsables de los actos u omisiones constitutivos de delito o infracciones administrativas en que incurran durante el desempeño de su encargo, según lo establecido en la Ley de Responsabilidades de Servidores Públicos del Estado de Querétaro y las demás normas de igual jerarquía.
-
-El Municipio será responsable solidario por los daños y perjuicios causados por los servidores públicos municipales en el ejercicio de sus facultades.
-
-En caso de que la conducta o el acto administrativo se hubieran consumado o bien sea imposible de hecho o de derecho retrotraer sus efectos, la reparación de daño o la indemnización por los perjuicios sufridos estará a cargo del Municipio de manera inmediata en un plazo máximo de tres días, a que se haya determinado la responsabilidad del servidor público, independientemente de que el Municipio pueda repetir en su contra.
-
-Alternativamente, según lo determine el reglamento respectivo, en los casos establecidos en el párrafo anterior, los procedimientos para la reparación del daño, así como para la indemnización por los perjuicios ocasionados, cualquiera que sea su denominación, podrán substanciarse ante el Ayuntamiento.
-
-De entre sus miembros se formará una comisión de análisis integrada por regidores de diferente afiliación partidista, la cual dará al quejoso la oportunidad, en una audiencia que deberá fijarse dentro de los tres días siguientes a la fecha en que ésta haya sido nombrada, de expresar oralmente sus alegatos y presentar las pruebas en las que funde la exigencia de sus intereses. En el improrrogable plazo de 5 días hábiles la comisión dictaminará la procedencia de la indemnización o el monto de la reparación del daño según corresponda.
-
-Dada la naturaleza de las probanzas la Comisión podrá determinar un plazo para su análisis que no exceda de 15 días naturales.
-
-Contra las resoluciones de la Comisión no podrá ejercitarse el recurso de revisión y se estará a los que establecen las leyes locales y federales.
+Tratándose de responsabilidad patrimonial a cargo de los municipios, deberán aplicarse las disposiciones y procedimientos señalados en la Ley de Responsabilidad Patrimonial del Estado de Querétaro.
 
 ###### ARTICULO 164.
 
 Las responsabilidades en que incurran los servidores públicos municipales serán exigibles en los términos previstos por las leyes de la materia.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 165.
 
-Por las infracciones cometidas a esta Ley, a los reglamentos municipales y a las demás disposiciones relativas, los servidores públicos municipales serán sometidos a lo que para tal efecto establece la Ley de Responsabilidades de los Servidores Públicos del Estado, debiendo, en su caso, cumplirse con el requisito de procedibilidad previsto en la Constitución Política del Estado.
+Por las infracciones cometidas a esta Ley, a los reglamentos municipales y a las demás disposiciones relativas, los servidores públicos municipales serán sometidos a lo que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro.
 
 ### CAPÍTULO PRIMERO. DE LA ASESORÍA Y LOS CONVENIOS
 
 ###### ARTICULO 166.
 
-Cualquier persona tiene el derecho y la obligación de denunciar ante el ayuntamiento de su domicilio, todo hecho, acto u omisión que cause o pueda causar daños a la administración pública o a terceros, derivado del incumplimiento a lo dispuesto en la presente Ley y sus reglamentos. Por consiguiente, la acción popular es el instrumento jurídico de la ciudadanía para evitar contravención a las disposiciones de esta Ley y sus reglamentos.
+Cualquier persona tiene el derecho y la obligación de denunciar ante el Ayuntamiento que le corresponda, según su domicilio, todo hecho, acto u omisión que cause o pueda causar daños a la administración pública o a terceros, derivado del incumplimiento a lo dispuesto en la presente Ley y sus reglamentos. Por consiguiente, la acción popular es el instrumento jurídico de la ciudadanía para evitar contravención a las disposiciones de esta Ley y sus reglamentos.
 
 ###### ARTICULO 167.
 
@@ -1995,9 +2259,11 @@ Por acuerdo de los ayuntamientos, los municipios podrán celebrar convenios de c
 
 En los convenios que se celebren entre cualquiera de las dependencias o entidades de la administración pública estatal y los municipios, deberán establecerse las formas de resolución de conflictos derivados de su incumplimiento o interpretación, las cuales deberán establecerse de forma tal que por su objetividad sea suficiente la participación de las partes.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 177.
 
-Los conflictos derivados de la relación entre municipios de la entidad, entre alguno de ellos y el Estado o de varios de ellos con la entidad federativa serán resueltos por el Pleno del Tribunal Superior de Justicia en los términos del Artículo 70 de la Constitución Local.
+Los conflictos derivados de la relación entre municipios de la Entidad, entre alguno de ellos y el Estado o de varios de ellos con la entidad federativa, serán resueltos por el Pleno del Tribunal Superior de Justicia del Estado, en los términos de la Constitución Política del Estado de Querétaro.
 
 ## TÍTULO XII. DEL PATRIMONIO CULTURAL DE LOS MUNICIPIOS
 
@@ -2164,3 +2430,37 @@ Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
 ###### ARTÍCULO SEXTO.
 
 Publíquese esta Ley en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 20 DE MARZO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+A la entrada en vigor de la presente Ley, los síndicos en funciones conservarán las atribuciones que venían desempeñando o aquellas que hasta el término de su encargo les determinen expresamente los ayuntamientos.
+
+###### ARTÍCULO CUARTO.
+
+La elección de síndicos cuya entrada en funciones esté considerada para el día primero de octubre de 2009, se hará de conformidad con lo dispuesto en la Ley Electoral del Estado de Querétaro y demás disposiciones legales vigentes.
+
+###### ARTÍCULO QUINTO.
+
+La integración, funcionamiento y operación del Registro Civil, estará a lo dispuesto por el Código Civil del Estado de Querétaro en su parte relativa, así como por las demás disposiciones legales aplicables.
+
+(NOTA: EL 16 DE ABRIL DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO Y DÉCIMO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 40/2009, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ABRIL DE 2012, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+###### ARTÍCULO SEXTO.
+
+LOS LÍMITES TERRITORIALES DE LOS MUNICIPIOS SE CONSERVARÁN EN LOS TÉRMINOS QUE LOS DECRETOS, RECONOCIMIENTOS Y CONVENIOS RATIFICADOS POR LA LEGISLATURA DEL ESTADO SUBSISTAN, HASTA EN TANTO SE CREA LA LEY DE LA MATERIA.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los Ayuntamientos de los municipios del Estado de Querétaro, deberán ajustar su marco normativo a las disposiciones de la presente Ley, así como expedir la reglamentación respectiva en los casos que corresponda y exclusivamente en el ámbito de su competencia.
