@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2008-06-13"
+last_updated: "2009-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2009.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -1015,7 +1015,7 @@ I. Cuando en las actas existan errores mecanográficos u ortográficos que no af
 
 II. Cuando existan discordancias entre el nombre asentado con los datos contenidos en el acta;
 
-III. En el caso de ilegibilidad de caracteres;
+III. En caso de ilegibilidad de caracteres;
 
 IV. Cuando exista omisión en los datos de localización del documento;
 
@@ -2236,6 +2236,22 @@ El deudor alimentista no podrá pedir que se incorpore a su familia el que debe 
 ###### Art. 365.
 
 Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a la necesidad del que debe recibirlos.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2009)</small>
+
+Determinados por convenio o sentencia, los alimentos tendrán una actualización automática mínima equivalente al aumento porcentual anual correspondiente al salario mínimo general vigente, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2009)</small>
+
+En este caso, la actualización en los alimentos se ajustará al que realmente hubiese obtenido el deudor. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2009)</small>
+
+###### Art. 365-A.
+
+Los menores, las personas con discapacidad, los sujetos a estado de interdicción y el cónyuge que se dedique al hogar, gozan de la presunción de necesitar alimentos.
+
+Cuando no sean comprobables el salario o los ingresos del deudor alimentario, el Juez de la causa resolverá con base en la capacidad económica y nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en los dos últimos años.
 
 ###### Art. 366.
 
@@ -5509,7 +5525,7 @@ El derecho del tanto se pierde por el solo transcurso de los quince días, si no
 
 ###### Art. 944.
 
-Cuando se consume la enajenación de la parte alícuota de un condueño, a persona extraña a la comunidad de bienes, sin que se haya hecho la notificación a que se refiere el artículo anterior, los demás copartícipes gozarán del derecho de retracto, en virtud del cual pueden subrogarse, con las mismas condiciones estipuladas en el contrato, en lugar del que había adquirido dicha parte, reembolsándole la cantidad que hubiere pagado y los gastos legales originados por la transmisión.
+Cuando se consume la enajenación de la parte alícuota de un condueño, a persona extraña a la comunidad de bienes, sin que se haya hecho la notificación a que se refiere el artículo anterior, los demás copartícipes gozarán del derecho de retracto, en virtud del cual pueden subrogarse, con las mismas condiciones estipuladas en el contrato, en lugar del que habÍa adquirido dicha parte, reembolsándole la cantidad que hubiere pagado y los gastos legales originados por la transmisión.
 
 El término para ejercer el retracto es de quince días contados a partir de la fecha en que el retrayente haya tenido conocimiento de la enajenación.
 
@@ -6575,7 +6591,7 @@ Si el usufructo comprende cosas que no pueden usarse sin consumirse, el usufruct
 
 ###### Art. 1092.
 
-Si el usufructo se constituye sobre capitales impuestos a réditos, el usufructuario sólo hace suyos éstos y no aquellos, y aun cuando el capital se redima, debe volverse a imponer a satisfacción del usufructuario y propietario.
+Si el usufructo se constituye sobre capitales impuestos a réditos, el usufructuario sólo hace suyos éstos y no aquellos, y aun cuando el capital se redima; debe volverse a imponer a satisfacción del usufructuario y propietario.
 
 ###### Art. 1093.
 
@@ -11185,7 +11201,7 @@ El incapaz que acepte el depósito, solamente queda obligado a restituir la cosa
 
 ###### Art. 2030.
 
-Cuando la incapacidad no fuere obsoluta, podrá el depositario ser condenado al pago de daños y perjuicios, si hubiere procedido con dolo o mala fe.
+Cuando la incapacidad no fuere absoluta, podrá el depositario ser condenado al pago de daños y perjuicios, si hubiere procedido con dolo o mala fe.
 
 ###### Art. 2031.
 
@@ -15007,7 +15023,7 @@ En el caso del artículo que precede, no tendrá validez el testamento mientras 
 
 ###### Art. 2763.
 
-Se prohíbe a los Notarios y a cualquiera otra persona que hayan de redactar disposiciones de última voluntad, dejar espacios en blanco y servirse de abreviaturas o cifras, bajo la pena de quinientos pesos de multa a los Notarios y de la mitad a los que no lo fueren.
+Se prohÍbe a los Notarios y a cualquiera otra persona que hayan de redactar disposiciones de última voluntad, dejar espacios en blanco y servirse de abreviaturas o cifras, bajo la pena de quinientos pesos de multa a los Notarios y de la mitad a los que no lo fueren.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 1997)</small>
 
@@ -16702,3 +16718,11 @@ Artículo Tercero. Los asuntos a que se refiere el Título Duodécimo denominado
 Artículo Cuarto. El patrimonio familiar constituido antes de la entrada en vigor del presente decreto, continuará rigiéndose por la ley bajo la que se constituyó, ello sin perjuicio de la posibilidad de actualizar la constitución de su patrimonio familiar conforme a lo establecido por el presente decreto.
 
 Artículo Quinto. Se deroga cualquier disposición que se oponga al presente decreto.
+
+P.O. 20 DE MARZO DE 2009.
+
+Artículo Primero. El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Las reformas y adiciones relativas al Código de Procedimientos Civiles para el Estado de Guanajuato, sobre el juicio sumario de pago o aseguramiento de alimentos, sólo serán aplicables a los nuevos procedimientos que se inicien a partir de la entrada en vigor del presente decreto.
+
+Artículo Tercero. Los juicios actualmente en trámite que tengan por objeto el pago o aseguramiento de alimentos continuarán tramitándose en la vía en que hayan sido admitidos.
