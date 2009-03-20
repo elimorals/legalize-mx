@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-57-2008-del-pleno-del-consejo-de-la-63568"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-10-13"
-last_updated: "2009-01-02"
+last_updated: "2009-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63568&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-09-17"
 
 ACUERDO GENERAL 57/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE JUECES DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE MARZO DE 2009.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 13 de octubre de 2008.
 
@@ -617,7 +617,9 @@ La evaluación relativa al perfil del concursante, le será entregada en la fech
 
 El perfil podrá ser consultado a partir de ese mismo día, en la página web del Instituto.
 
-A partir de la entrega de la evaluación de los factores del desempeño y su publicación, el sustentante contará con un plazo de cinco días hábiles, para hacer alguna aclaración ante la Comisión; en el entendido de que, para que proceda alguna modificación, únicamente se tomarán en cuenta aquellas constancias que se encuentren agregadas al expediente personal de la Dirección General de Recursos Humanos del Consejo, de la Corte o del Tribunal Electoral, hasta la fecha de la inscripción.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 10/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 20 DE MARZO DE 2009)</small>
+
+A partir de la entrega de la evaluación de los factores del desempeño y su publicación, el sustentante contará con un plazo de cinco días hábiles, para hacer alguna aclaración ante la Comisión; en el entendido de que, para que proceda alguna modificación, únicamente se tomarán en cuenta aquellas constancias que se encuentren agregadas al expediente personal de la Dirección General de Recursos Humanos del Consejo, de la Corte o del Tribunal Electoral, hasta la fecha de publicación de la convocatoria al concurso en el Diario Oficial de la Federación.
 
 El resultado de la solicitud de aclaración, se hará del conocimiento del interesado.
 
@@ -630,6 +632,10 @@ La puntuación que se obtenga del promedio del caso práctico y examen oral, as�
 ###### Artículo 47.
 
 Recibida en la Comisión la lista de los concursantes y la puntuación final que hubieren alcanzado, se enviará al Pleno del Consejo para que, en la sesión correspondiente, designe a los que ocuparán el cargo de Juez.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 10/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 20 DE MARZO DE 2009)</small>
+
+En el supuesto de que en la calificación final del concurso exista empate en la puntuación, el Pleno del Consejo de la Judicatura Federal procederá, primero, a comparar las evaluaciones que hayan obtenido en la etapa de oposición (caso práctico y examen oral), como segunda opción y en la circunstancia de que continuara el empate, acudirá a la puntuación final obtenida en los factores generales y, de persistir la hipótesis de igualdad, comparará cada uno de los factores a que se refiere el artículo 42 del acuerdo general de mérito.
 
 ###### Artículo 48.
 
@@ -696,3 +702,11 @@ PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta, así como en la página web del Consejo de la Judicatura Federal y del Tribunal Electoral.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar, de inmediato, el texto de esta reforma, a los Acuerdos Generales 30/2008 y 57/2008, del Pleno del Consejo de la Judicatura Federal, que Reglamentan el Capítulo I del Título Séptimo de la Ley Orgánica del Poder Judicial de la Federación, por el que se Establecen los Lineamientos Generales para la Celebración de Concursos Internos de Oposición para la Designación de Magistrados de Circuito y Jueces de Distrito, respectivamente.
+
+D.O.F. 20 DE MARZO DE 2009.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en la página web del Consejo de la Judicatura Federal, de la Corte y del Tribunal Electoral.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, el texto de esta reforma, al Acuerdo General 57/2008, del Pleno del Consejo de la Judicatura Federal, que Reglamenta el Capítulo I del Título Séptimo de la Ley Orgánica del Poder Judicial de la Federación, por el que se Establecen los Lineamientos Generales para la Celebración de Concursos Internos de Oposición para la Designación de Jueces de Distrito.
