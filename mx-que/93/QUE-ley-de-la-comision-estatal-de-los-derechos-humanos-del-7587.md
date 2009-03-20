@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-comision-estatal-de-los-derechos-humanos-del-7587"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-24"
-last_updated: "2007-01-12"
+last_updated: "2009-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7587&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 20 DE MARZO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 24 de diciembre de 1992.
 
@@ -656,3 +658,15 @@ Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente.
+
+P.O. 20 DE MARZO DE 2009.
+
+Artículo Primero. Esta Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley de la Comisión Estatal de Derechos Humanos del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número cincuenta y tres, de fecha veinticuatro de diciembre de mil novecientos noventa y dos.
+
+Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Cuarto. Para los efectos del artículo 22 de la presente Ley, el Poder Legislativo, por única ocasión, nombrará seis Consejeros, de los cuales tres durarán en su encargo seis años y los tres restantes durarán en su encargo tres años.
+
+Artículo Quinto. El Presidente de la Comisión de Derechos Humanos, gestionará y aplicará los recursos necesarios para el cumplimiento de la presente Ley.
