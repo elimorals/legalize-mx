@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-deuda-publica-del-estado-de-queretaro-7647"
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-07"
-last_updated: "1995-12-28"
+last_updated: "2009-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1995.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DEUDA PUBLICA DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 20 DE MARZO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley Publicada en el Periódico Oficial del Estado de Querétaro, el jueves 7 de enero de 1988.
 
@@ -266,3 +268,17 @@ Se derogan todas las disposiciones legales y reglamentarias que se opongan a la 
 ###### ARTICULO TERCERO.
 
 Esta Ley entrará en vigor el 1º de enero de 1996.
+
+P.O. 20 DE MARZO DE 2009.
+
+> <small>(F. DE E., P.O. 31 DE JULIO DE 2009)</small>
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+> <small>(F. DE E., P.O. 31 DE JULIO DE 2009)</small>
+
+Artículo Segundo. Se abroga la Ley de Deuda Pública del Estado de Querétaro, publicada el siete de enero de mil novecientos ochenta y ocho, en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Cuarto. La deuda pública contratada con anterioridad a la entrada en vigor de la presente Ley, se regirá con las disposiciones que se encontraban vigentes al momento de su contratación. Los contratos o convenios que se hubieren suscrito con anterioridad a la entrada en vigor de la presente Ley, deberán cumplir con lo previsto en el Capítulo Cuarto de este ordenamiento legal.
