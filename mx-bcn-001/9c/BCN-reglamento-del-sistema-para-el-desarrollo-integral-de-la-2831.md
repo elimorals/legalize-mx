@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-sistema-para-el-desarrollo-integral-de-la-2831"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-05-13"
-last_updated: "2006-12-22"
+last_updated: "2009-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "BCN"
 
 REGLAMENTO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 13 de mayo de 1994.
 
@@ -70,9 +70,13 @@ b. Fomentar la educación para la integración social;
 
 c. Impulsar el sano crecimiento físico y mental de la niñez;
 
-d. Realizar estudios e investigaciones sobre los problemas de la familia, de los menores, de los ancianos y de los discapacitados;
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
-e. Prestar servicios de asistencia jurídica y de orientación social a la Familia, a los menores, a los ancianos y discapacitados sin recursos;
+d. Realizar estudios e investigaciones sobre los problemas de la familia, de los menores, y de los ancianos;
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+
+e. Prestar servicios de asistencia jurídica y de orientación social a la Familia, a los menores y a los ancianos;
 
 f. Promover y prestar servicios de asistencia social;
 
@@ -473,3 +477,7 @@ P.O. 22 DE DICIEMBRE DE 2006.
 > <small>(F. DE E., P.O. 16 DE MARZO DE 2007)</small>
 
 UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE MARZO DE 2009.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
