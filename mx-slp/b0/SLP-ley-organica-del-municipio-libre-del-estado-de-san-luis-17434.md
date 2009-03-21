@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2009-03-05"
+last_updated: "2009-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 2009.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -263,11 +263,11 @@ Los ciudadanos del municipio tendrán las obligaciones y prerrogativas que estab
 
 ### CAPITULO I. De la Integración de los Ayuntamientos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 12.
 
-En cada Municipio habrá un Ayuntamiento de elección popular directa, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado. Para los efectos de esta Ley, por Cabildo se entiende los miembros del Ayuntamiento, reunidos en sesión y como cuerpo colegiado de gobierno.
+En cada municipio habrá un ayuntamiento de elección popular directa, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado. Para los efectos de esta Ley, por Cabildo se entiende los miembros del Ayuntamiento, reunidos en sesión y como un cuerpo colegiado de gobierno; y por Ayuntamiento se entiende el órgano de gobierno del Municipio, a través del cual sus ciudadanos realizan su voluntad política y la autogestión de los intereses de la comunidad.
 
 La competencia que otorga al gobierno municipal la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de San Luis Potosí, la presente Ley y demás ordenamientos, se ejercerá por el Ayuntamiento de manera exclusiva.
 
@@ -1145,11 +1145,11 @@ XIX. Las demás que le señalen las leyes y reglamentos municipales.
 
 ### CAPITULO V. De la Tesorería
 
-> <small>(F. DE E., P.O. 4 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 79.
 
-Para el control del erario municipal cada Ayuntamiento contará con un Tesorero, mismo que no deberá guardar parentesco con ninguno de los integrantes del Ayuntamiento conforme a lo establecido por la fracción XVII del artículo 51 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+Para el control del erario municipal cada ayuntamiento contará con un Tesorero, mismo que no deberá guardar parentesco con ninguno de los integrantes del ayuntamiento, conforme a lo establecido por la legislación de responsabilidades de los servidores públicos aplicable.
 
 El Tesorero y todos los empleados que manejen fondos y valores estarán obligados a caucionar su manejo, en la forma y términos previstos por el Reglamento Interior Municipal.
 
@@ -1251,13 +1251,17 @@ II. Fiscalizar el ingreso y ejercicio del gasto público municipal, y su congrue
 
 III. Vigilar que los recursos y aportaciones federales y estatales asignados al municipio, se apliquen en los términos estipulados en las leyes, reglamentos y convenios respectivos;
 
-IV. Coordinarse con la Contraloría del Gobierno del Estado y la Contaduría Mayor de Hacienda del Congreso del Estado para el cumplimiento de sus atribuciones;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2009)</small>
+
+IV. Coordinarse con la Contraloría del Gobierno del Estado, y la Auditoría Superior del Estado, para el cumplimiento de sus atribuciones;
 
 V. Establecer la calendarización y las bases generales reglamentarias para la realización de auditorías internas e inspecciones;
 
 VI. Participar en la entrega recepción de las unidades administrativas de las dependencias y entidades del Municipio, conjuntamente con el Síndico y el Oficial Mayor;
 
-VII. Dictaminar los estados financieros de la Tesorería municipal y verificar que los informes sean remitidos en tiempo y forma a la Contaduría Mayor de Hacienda del Congreso del Estado; verificando que los mismos sean publicados en la forma que establece la presente Ley;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2009)</small>
+
+VII. Dictaminar los estados financieros de la Tesorería municipal y verificar que los informes sean remitidos en tiempo y forma a la Auditoría Superior del Estado;
 
 VIII. Participar en la elaboración y actualización de los inventarios generales de bienes muebles e inmuebles propiedad del Ayuntamiento;
 
@@ -1265,7 +1269,7 @@ VIII. Participar en la elaboración y actualización de los inventarios generale
 
 IX. Apoyar al Presidente Municipal en la substanciación de los procedimientos administrativos disciplinarios y resarcitorios, determinando o no, la existencia de responsabilidades administrativas, por incumplimiento de las obligaciones de los servidores públicos municipales no sujetos a responsabilidad por parte del Congreso del Estado, pudiendo aplicar las sanciones disciplinarias correspondientes, por acuerdo de Cabildo;
 
-X. Informar oportunamente a los servidores públicos municipales acerca de la obligación de manifestar sus bienes, verificando que tal declaración se presente en los términos de ley, y
+X. Informar oportunamente a los servidores públicos municipales acerca de la obligación de manifestar sus bienes, verificando que tal declaración se presente en los términos de ley, y (sic)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE ABRIL DE 2007)</small>
 
@@ -1359,9 +1363,11 @@ En las delegaciones municipales la autoridad será ejercida por un Delegado Muni
 
 El Delegado Municipal será auxiliado en sus funciones por un Secretario nombrado por él, quién tendrá en lo conducente las obligaciones y atribuciones que señala el artículo 78 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 94.
 
-Las ausencias del Delegado Municipal serán cubiertas por el Secretario de la Delegación, en los términos de la fracción IV del artículo 42 de esta Ley.
+Las ausencias del Delegado Municipal serán cubiertas por el Secretario de la Delegación, en los términos de la fracción IV del artículo 43 de esta Ley.
 
 ###### ARTICULO 95.
 
@@ -2013,9 +2019,25 @@ II. Multa;
 
 Si el infractor fuere jornalero, obrero o trabajador, sólo podrá ser sancionado con una multa que no excederá del importe de un salario mínimo diario vigente en la Entidad; en el caso de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso;
 
-III. Arresto hasta por 36 horas. Esta sanción podrá ser sustituida por multa en los términos de la fracción anterior, a opción del infractor, y
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2009)</small>
 
-IV. Suspensión temporal o cancelación del permiso o licencia en su caso.
+III. Clausura;
+
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2009)</small>
+
+IV. Suspensión de obra;
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2009)</small>
+
+V. Arresto hasta por 36 horas. Esta sanción podrá ser sustituida por multa, en los términos de la fracción II del presente artículo, a opción del infractor;
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2009)</small>
+
+VI. Suspensión temporal o cancelación del permiso o licencia en su caso, y
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2009)</small>
+
+VIII. Reparación o resarcimiento del daño.
 
 ## TITULO DECIMO. DE LOS SERVIDORES PUBLICOS MUNICIPALES
 
@@ -2055,9 +2077,11 @@ La declaración de situación patrimonial deberá presentarse en los plazos y t�
 
 En caso de incumplimiento de las obligaciones consignadas en los artículos de este Título, el Cabildo exhortará al omiso para que, en un término de veinte días cumpla con su obligación. Si transcurrido dicho término no cumple, se determinará su destitución en el empleo, cargo o comisión.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 166.
 
-Para efectos de registro y control, el Cabildo remitirá a la Contaduría Mayor de Hacienda del Congreso del Estado, un tanto de las declaraciones de situación patrimonial que le sean presentadas.
+Para efectos de registro y control, el Cabildo remitirá a la Auditoría Superior del Estado, un tanto de las declaraciones de situación patrimonial que le sean presentadas.
 
 ###### ARTICULO 167.
 
@@ -2087,7 +2111,7 @@ Lo tendrá entendido el Ejecutivo del Estado y lo hará publicar, circular y obe
 
 DADO en el Salón de Sesiones del H. Congreso del Estado, el día veintinueve del mes de junio de dos mil.
 
-Diputado presidente: Eugenio Guadalupe Govea Arcos, Diputado Secretario: Santos Gonzalo Guzmán Salinas, Diputado Secretario: Jorge Ricardo Domínguez Casanova (Rúbricas).
+Diputado Presidente: Eugenio Guadalupe Govea Arcos, Diputado Secretario: Santos Gonzalo Guzmán Salinas, Diputado Secretario: Jorge Ricardo Domínguez Casanova (Rúbricas).
 
 Por tanto, mando se cumpla y ejecute el presente decreto y que todas las autoridades lo hagan cumplir y guardar y al efecto se imprima, publique y circule a quienes corresponda.
 
@@ -2212,3 +2236,9 @@ P.O. 5 DE MARZO DE 2009.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Cada uno de los ayuntamientos de la Entidad, conforme sus facultades, tomará las determinaciones conducentes para la conformación de la Comisión de Derechos Humanos; contando para tal fin con un término de treinta días a partir de la entrada en vigencia del presente Decreto.
+
+P.O. 21 DE MARZO DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales y administrativas que se opongan a este Decreto.
