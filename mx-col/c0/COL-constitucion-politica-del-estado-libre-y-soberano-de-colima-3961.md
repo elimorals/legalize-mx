@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2008-09-27"
+last_updated: "2009-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 2009.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -1951,11 +1951,13 @@ El Estado de Colima reconoce, protege y garantiza a toda persona, el goce de sus
 
 Esta Constitución, para todos los efectos legales a que diere lugar, cuando haga referencia a los vocablos persona, individuo u hombre, incluyendo en su respectivo plural, así como, a la calidad de su función, se entenderá indistintamente al género femenino o masculino. De igual forma, cuando sea el caso de denominaciones a cargos públicos, se enunciarán en el género femenino o masculino que corresponda con el propio de quienes los ocupen o desempeñen.
 
-Con respecto a la libertad, igualdad y seguridad jurídica, se establecen las siguientes declaraciones:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2009)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MAYO DE 2000)</small>
+Con respecto a la vida, la libertad, igualdad y seguridad jurídica, se establecen las siguientes declaraciones:
 
-I.- La familia constituye la base fundamental de la sociedad. El Estado fomentará su organización y desarrollo, por la misma razón; el hogar y, particularmente, los niños serán objeto de especial protección por parte de las autoridades. Toda medida o disposición protectora de la familia y de la niñez, se considerarán de orden público. El niño tiene derecho desde su nacimiento a que se le inscriba en el Registro Civil y a tener un nombre.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2009)</small>
+
+I.- La vida es un derecho inherente a todo ser humano. El Estado protegerá y garantizará este derecho desde el momento de la concepción. La familia constituye la base fundamental de la sociedad. El Estado fomentará su organización y desarrollo, por la misma razón; el hogar y, particularmente, los niños serán objeto de especial protección por parte de las autoridades. Toda medida o disposición protectora de la familia y de la niñez, se considerarán de orden público. El niño tiene derecho desde su nacimiento a que se le inscriba en el Registro Civil y a tener un nombre.
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2000)</small>
 
@@ -2774,6 +2776,10 @@ P.O. 27 DE SEPTIEMBRE DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- El Quinto Informe de Gobierno que rinda el Titular del Poder Ejecutivo del Estado, previsto para el1° de octubre de éste año, deberá rendirse el 18 de diciembre de 2008.
+
+P.O. 21 DE MARZO DE 2009.
+
+UNICO.- El presente Decreto entrara en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTÍCULO ÚNICO.
 
