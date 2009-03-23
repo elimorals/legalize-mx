@@ -4,7 +4,7 @@ identifier: "FED-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-1529
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-04"
-last_updated: "2008-11-28"
+last_updated: "2009-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15293&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAASSP"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MARZO DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 4 de enero de 2000.
 
@@ -284,7 +284,9 @@ II. Dictaminar, previamente a la iniciación del procedimiento, sobre la procede
 
 III. Proponer las políticas, bases y lineamientos en materia de adquisiciones, arrendamientos y servicios, así como autorizar los supuestos no previstos en éstos, informándolo al titular de la dependencia o al órgano de gobierno en el caso de las entidades y posteriormente, en su caso, someterlo a su consideración para su inclusión en las ya emitidas.
 
-Los comités establecerán en dichas políticas, bases y lineamientos, los aspectos de sustentabilidad ambiental que deberán observarse en las adquisiciones, arrendamientos y servicios, con el objeto de optimizar y utilizar de forma sustentable los recursos para disminuir costos financieros y ambientales;
+> <small>(REFORMADO, D.O.F. 23 DE MARZO DE 2009)</small>
+
+Los comités establecerán en dichas políticas, bases y lineamientos los aspectos de sustentabilidad ambiental, incluyendo la evaluación de las tecnologías que permitan la reducción de la emisión de gases de efecto invernadero y la eficiencia energética, que deberán observarse en las adquisiciones, arrendamientos o servicios con el objeto de optimizar y utilizar de forma sustentable los recursos para disminuir costos financieros y ambientales;
 
 IV. Analizar trimestralmente el informe de la conclusión de los casos dictaminados conforme a la fracción II anterior, así como de las licitaciones públicas que se realicen y, los resultados generales de las adquisiciones, arrendamientos y servicios y, en su caso, recomendar las medidas necesarias para evitar el probable incumplimiento de alguna disposición jurídica o administrativa;
 
@@ -378,23 +380,37 @@ La Secretaría de la Función Pública pondrá a disposición pública, a travé
 
 Las licitaciones públicas podrán llevarse a cabo a través de medios electrónicos, en los términos que se establezcan en el Reglamento de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE MARZO DE 2009)</small>
 
 ###### Artículo 27.
 
-Las adquisiciones, arrendamientos y servicios se adjudicarán, por regla general, a través de licitaciones públicas, mediante convocatoria pública, para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad, eficiencia energética, uso responsable del agua, optimización y uso sustentable de los recursos, y demás circunstancias pertinentes, de acuerdo con lo que establece la presente Ley.
+Las adquisiciones, arrendamientos y servicios se adjudicarán, por regla general, a través de licitaciones públicas, mediante convocatoria pública, para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad, eficiencia energética, uso responsable del agua, optimización y uso sustentable de los recursos, así como la protección al medio ambiente y demás circunstancias pertinentes, de acuerdo con lo que establece la presente Ley.
+
+> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
 
 Tratándose de adquisiciones de madera, muebles y suministros de oficina de este material, deberán requerirse certificados otorgados por terceros, previamente registrados ante la Secretaría de Medio Ambiente y Recursos Naturales, que garanticen el manejo sustentable de los bosques de donde proviene la madera de dichas adquisiciones. Para las adquisiciones de papel para uso de oficina, se deberá requerir un mínimo de 50% de fibras de material reciclado y blanqueado libre de cloro. En caso de incumplimiento, se estará a lo dispuesto por la presente Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
+
 El sobre a que hace referencia el primer párrafo de este artículo podrá entregarse, a elección del licitante, en el lugar de celebración del acto de presentación y apertura de proposiciones; o bien, si así lo establece la convocante, enviarlo a través del servicio postal o de mensajería, o por medios remotos de comunicación electrónica, conforme a las disposiciones administrativas que establezca la Secretaría de la Función Pública.
+
+> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
 
 Las unidades administrativas de las dependencias y entidades que se encuentren autorizadas por la Secretaría de la Función Pública para realizar licitaciones públicas mediante el uso de medios remotos de comunicación electrónica, estarán obligadas a realizar todos sus procedimientos de licitación mediante dicha vía, salvo en los casos justificados que autorice la Secretaría de la Función Pública. Lo anterior, sin perjuicio de que los licitantes puedan optar por presentar sus propuestas por escrito durante el acto de presentación y apertura de propuestas.
 
+> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
+
 En el caso de las proposiciones presentadas por medios remotos de comunicación electrónica el sobre será generado mediante el uso de tecnologías que resguarden la confidencialidad de la información de tal forma que sea inviolable, conforme a las disposiciones técnicas que al efecto establezca la Contraloría.
+
+> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
 
 Las proposiciones presentadas deberán ser firmadas autógrafamente por los licitantes o sus apoderados; en el caso de que éstas sean enviadas a través de medios remotos de comunicación electrónica, se emplearán medios de identificación electrónica, los cuales producirán los mismos efectos que las leyes otorgan a los documentos correspondientes y, en consecuencia, tendrán el mismo valor probatorio.
 
+> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
+
 La Secretaría de la Función Pública operará y se encargará del sistema de certificación de los medios de identificación electrónica que utilicen las dependencias, entidades o los licitantes y será responsable de ejercer el control de estos medios, salvaguardando la confidencialidad de la información que se remita por esta vía.
+
+> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
 
 La Secretaría de la Función Pública deberá aceptar la certificación de medios de identificación electrónica que realicen las dependencias y entidades, las entidades federativas y el Distrito Federal, así como terceros facultados por autoridad competente en la materia, cuando los sistemas de certificación empleados se ajusten a las disposiciones que emita la Secretaría de la Función Pública.
 
@@ -1441,3 +1457,7 @@ D.O.F. 28 DE NOVIEMBRE DE 2008.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Se abrogan o derogan todas las demás disposiciones que se opongan a lo establecido en esta Ley.
+
+D.O.F. 23 DE MARZO DE 2009.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
