@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-acceso-a-una-vida-libre-de-violencia-para-las-57213"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-12"
-last_updated: "2007-09-12"
+last_updated: "2009-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57213&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY DE ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 23 DE MARZO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 12 de septiembre de 2007.
 
@@ -808,3 +810,17 @@ Dado en el salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los veintinueve días del mes de agosto del año dos mil siete.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE MARZO DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga la Ley de Acceso a una Vida Libre de Violencia para las Mujeres en el Estado de Chiapas, publicado en el Periódico Oficial número 045, de fecha 12 de septiembre de 2007, mediante decreto número 271.
+
+Artículo Tercero.- Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Cuarto.- El Consejo Estatal, para garantizar el Derecho de las Mujeres a una Vida Libre de Violencia, propondrá al Ejecutivo, dentro de los ciento ochenta días, siguientes a la publicación de la presente Ley, el proyecto del Reglamento de la misma.
+
+Artículo Quinto.- En cumplimiento a lo previsto en el artículo 8º; de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente decreto en el Periódico Oficial.
