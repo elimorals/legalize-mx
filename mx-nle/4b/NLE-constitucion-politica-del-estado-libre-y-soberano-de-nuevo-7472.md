@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2008-07-11"
+last_updated: "2009-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -605,11 +605,11 @@ XLII.- Elevar las Villas a la categoría de Ciudades por iniciativa de aquéllas
 
 XLIII.- Expedir leyes relativas al trabajo digno y socialmente útil, que rijan las relaciones de trabajo entre el Estado, los Municipios o las entidades paraestatales y sus trabajadores, así como las prestaciones de seguridad social de dichos trabajadores.
 
-> <small>(ADICIONADA, P.O. 27 DE MAYO DE 1983)</small>
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 1983)</small>
 
 La jornada diaria máxima de trabajo diurna y nocturna, será de ocho y siete horas, respectivamente.
 
-> <small>(ADICIONADA, P.O. 27 DE MAYO DE 1983)</small>
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 1983)</small>
 
 A trabajo igual corresponderá salario igual sin tener en cuenta el sexo.
 
@@ -1437,11 +1437,11 @@ La Ley determinará los casos y las circunstancias en los que se deba sancionar 
 
 Se concede acción popular para formular denuncias ante el Congreso del Estado, respecto de las conductas a que se refiere el artículo que antecede, debiendo presentarse por escrito y fundarse con elementos de prueba que hagan presumir la ilicitud de la conducta del servidor público.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2009)</small>
 
 ###### Art. 110.
 
-Podrán ser sujetos de Juicio Político los Diputados al Congreso del Estado, los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Comisionados de la Comisión de Acceso a la Información Pública, los Magistrados del Tribunal Electoral del Estado, los Magistrados del Tribunal Superior de Justicia, el Presidente de la Comisión Estatal de Derechos Humanos, los Consejeros de la Judicatura del Estado, los Magistrados del Tribunal de lo Contencioso Administrativo, los Jueces, el Procurador General de Justicia, los Secretarios del Despacho del Ejecutivo, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos; así como los Presidentes Municipales, Regidores y Síndicos.
+Podrán ser sujetos a Juicio Político los Diputados al Congreso del Estado, Los (sic) Comisionados Ciudadanos de la Comisión Estatal Electoral, Los (sic) Comisionados de la Comisión de Acceso a la Información Pública, los Magistrados del Tribunal Electoral del Estado, los Magistrados del Tribunal Superior de Justicia, el Presidente de la Comisión Estatal de Derechos Humanos, el Auditor General del Estado, los Consejeros de la Judicatura del Estado, los Magistrados del Tribunal de lo Contencioso Administrativo, los Jueces, el Procurador General de Justicia, los Secretarios del Despacho del Ejecutivo, los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal Mayoritaria, Sociedades y Asociaciones Asimiladas a éstas y Fideicomisos Públicos; así como los Presidentes Municipales, Regidores y Síndicos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 2003)</small>
 
@@ -2565,13 +2565,13 @@ P.O. 1 DE ENERO DE 1979.
 
 DECRETO NÚMERO 204
 
-UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+UNICO:- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
 
 P.O. 1 DE ENERO DE 1979.
 
 DECRETO NÚMERO 205.
 
-UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 3 DE ENERO DE 1979.
 
@@ -2595,7 +2595,7 @@ UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicaci�
 
 P.O. 25 DE ENERO DE 1980.
 
-UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+UNICO:- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 30 DE ENERO DE 1980.
 
@@ -3156,3 +3156,7 @@ P.O. 11 DE JULIO DE 2008.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE MARZO DE 2009.
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
