@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-sistema-para-el-desarrollo-integral-351
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-24"
-last_updated: "2009-01-19"
+last_updated: "2009-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 24 de noviembre de 2003.
 
@@ -883,6 +883,10 @@ c) Coordinación de Protección a Menores;
 
 d) Departamento de Psicología;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE MARZO DE 2009)</small>
+
+1. Unidad de Psicología;
+
 e) Departamento de Casa DIF;
 
 f) Departamento de Tutelas;
@@ -908,6 +912,14 @@ a) Departamento Administrativo:
 4. Unidad de Servicios Generales;
 
 5. Unidad de Oficialía de Partes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE MARZO DE 2009)</small>
+
+6. Unidad de control de activos;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE MARZO DE 2009)</small>
+
+7. Unidad de comunicación interna;
 
 b) Departamento de Finanzas:
 
@@ -937,13 +949,19 @@ b) Departamento de Atención a la Familia:
 
 2. Unidad Centro Indígena.
 
-c) Departamento de Atención al Adolescente;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE MARZO DE 2009)</small>
 
-d) Departamento del Centro de Atención Integral a la Mujer:
+3. Unidad Centro de Atención Integral a la Mujer;
 
-1.- Unidad de Trabajo Social;
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2009)</small>
 
-2.- Unidad de Psicología.
+c) Departamento de Atención al Adolescente y Valores;
+
+d) (REFORMADO [N. DE E. DEROGADO], P.O. 23 DE MARZO DE 2009)
+
+1.- (REFORMADO [N. DE E. DEROGADO], P.O. 23 DE MARZO DE 2009)
+
+2.- (REFORMADO [N. DE E. DEROGADO], P.O. 23 DE MARZO DE 2009)
 
 IV.- DIRECCIÓN DE PROGRAMAS INSTITUCIONALES y DESARROLLO COMUNITARIO:
 
@@ -959,6 +977,14 @@ a) Departamento de Atención y Mejoras Nutricionales:
 
 5. Unidad de Almacén de Alimentos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE MARZO DE 2009)</small>
+
+6. Unidad de Orientación alimentaria;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE MARZO DE 2009)</small>
+
+7. Unidad de información y proyectos especiales;
+
 b) Departamento de Programas de Desarrollo Comunitarios:
 
 1. Unidad de Comunidad Diferente.
@@ -971,7 +997,9 @@ a) Departamento de la Coordinación de Informática:
 
 1. Derogado;
 
-2. Unidad de Informática del CRIS.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2009)</small>
+
+2. Programador analista
 
 b) Departamento de Enlace con Comités Municipales e Instituciones Privadas:
 
@@ -979,7 +1007,7 @@ b) Departamento de Enlace con Comités Municipales e Instituciones Privadas:
 
 c) Unidad del Centro de Información en Asistencia Social;
 
-d) Unidad de Investigación y Estudios;
+d) (REFORMADO [N. DE E. DEROGADO], P.O. 23 DE MARZO DE 2009)
 
 e) Unidad de Estadística y Evaluación;
 
@@ -1009,27 +1037,31 @@ VII.- DIRECCIÓN DE ATENCIÓN Y DESARROLLO A PERSONAS ADULTAS MAYORES:
 
 a) Departamento de Estancia de Día:
 
-1. Unidad Médico Nutricional;
+1. (REFORMADO [N. DE E. DEROGADO], P.O. 23 DE MARZO DE 2009)
 
-2. Servicios generales.
+2. (REFORMADO [N. DE E. DEROGADO], P.O. 23 DE MARZO DE 2009)
 
 b) Departamento del Centro Gerontológico:
 
-1. Unidad de Cultura;
+1. (REFORMADO [N. DE E. DEROGADO], P.O. 23 DE MARZO DE 2009)
 
-2. Unidad Social.
+2. (REFORMADO [N. DE E. DEROGADO], P.O. 23 DE MARZO DE 2009)
 
 c) Departamento del Centro de Atención Integral al Adulto Mayor:
 
-1. Unidad Médica.
+1. (REFORMADO [N. DE E. DEROGADO], P.O. 23 DE MARZO DE 2009)
 
 VIII.- COORDINACIÓN DE GIRAS Y EVENTOS:
 
-a) Coordinador de Logística;
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2009)</small>
 
-b) Encargado de Sonido;
+a) Unidad de logística;
 
-c) Encargado de Apoyo Técnico.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2009)</small>
+
+b) Unidad de sonido;
+
+c) (REFORMADO [N. DE E. DEROGADO], P.O. 23 DE MARZO DE 2009)
 
 IX.- COORDINACIÓN DEL VOLUNTARIADO ESTATAL:
 
@@ -1345,43 +1377,59 @@ Para promover la credencialización se exigirá que a toda persona con discapaci
 
 El Comité Técnico rendirá informes, sobre las acciones realizadas, al Comité Coordinador, con una periodicidad máxima de tres meses.
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MARZO DE 2009)</small>
 
-#### SECCIÓN SEGUNDA. Del Consejo Estatal de Personas con Discapacidad
+#### SECCIÓN SEGUNDA. Del Consejo Estatal de Integración para Personas con Discapacidad
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MARZO DE 2009)</small>
 
 ###### Artículo 69.
 
-El Consejo Estatal de Personas con Discapacidad al que hace referencia el Artículo octavo, inciso k) de la Ley de Integración Social y Productiva de Personas con Discapacidad se integra de la siguiente manera:
+El Consejo Estatal de Integración para Personas con Discapacidad al que hace referencia el artículo octavo, inciso k) de la Ley de Integración Social y Productiva de Personas con Discapacidad se integra de la siguiente manera:
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2008)</small>
 
 I.- Un presidente que será el Director General del DIF Estatal;
 
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2008)</small>
+
 II.- Un secretario que será el Director de Servicios Médicos del DIF Estatal;
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2008)</small>
 
 III.- Un representante del Comité Coordinador de Integración Social y Productiva de las Personas con Discapacidad;
 
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2008)</small>
+
 IV.- Un representante del Comité Técnico de Integración Social y Productiva para Personas con Discapacidad;
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2008)</small>
 
 V.- Un representante de la Comisión de Valoración de las Personas con Discapacidad;
 
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2008)</small>
+
 VI.- El Director de atención y desarrollo a personas adultas mayores; y
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2008)</small>
 
 VII.- Dos representantes de las instituciones de beneficencia privada que podrán ser asociaciones o fundaciones constituidas conforme al capitulo IV del Título Segundo de la Ley del Sistema Estatal de Asistencia Social y de Integración Familiar del estado de Aguascalientes y que se encuentren debidamente acreditadas mediante la declaratoria correspondiente por parte del Consejo Técnico para la Beneficencia Privada, cuyo objeto social sea el brindar apoyos o servicios a personas con discapacidad y que serán nombrados a propuesta del Director General del Sistema para el Desarrollo Integral de la Familia al Consejo referido, en virtud de su reconocimiento y representatividad en el Estado, los cuales tendrán el cargo de Vocal.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 Cada uno de los integrantes deberá designar a un suplente quien los representará en caso de ausencia.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2009)</small>
 
 ###### Artículo 70.
 
-El Consejo Estatal de Personas con Discapacidad es un órgano de consulta y apoyo en el análisis de los programas que se pretendan implementar a favor de las personas con discapacidad, promoverán la participación de la sociedad en apoyo a los programas que se emprendan.
+El Consejo Estatal de Integración para Personas con Discapacidad es un órgano de consulta y apoyo en el análisis de los programas que se pretendan implementar a favor de las personas con discapacidad, promoverán la participación de la sociedad en apoyo a los programas que se emprendan.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2009)</small>
 
 ###### Artículo 71.
 
-El Consejo Estatal de Personas con Discapacidad sesionará tres veces al año de forma ordinaria y podrán realizar el número de sesiones extraordinarias que se requieran, mediante convocatoria que realice el secretario del Consejo. Los acuerdos que se tomen serán por mayoría.
+El Consejo Estatal de Integración para Personas con Discapacidad sesionará tres veces al año de forma ordinaria y podrán realizar el número de sesiones extraordinarias que se requieran, mediante convocatoria que realice el secretario del Consejo. Los acuerdos que se tomen serán por mayoría.
 
 Las sesiones se convocarán con al menos cinco días de anticipación, en caso de que no haya quórum se podrá convocar nuevamente dentro de los siguientes tres días y la sesión se celebrará con los miembros asistentes.
 
@@ -1599,13 +1647,11 @@ d).- Un representante del Instituto de Educación del Estado;
 
 e).- Un representante de la Secretaría de Desarrollo Social del Estado;
 
-f).- Uh representante de la Secretaría de Desarrollo Social Federal, en su caso;
+f).- (REFORMADO [N. DE E. DEROGADO], P.O. 23 DE MARZO DE 2009)
 
-g).- Un Representante del Sistema para el Desarrollo Integral de la Familia del Municipio de Aguascalientes, en su caso;
+g).- (REFORMADO [N. DE E. DEROGADO], P.O. 23 DE MARZO DE 2009)
 
-.
-
-h).- Un representante de la Secretaría de Desarrollo Social del Municipio de Aguascalientes, en su caso;
+h).- (REFORMADO [N. DE E. DEROGADO], P.O. 23 DE MARZO DE 2009)
 
 i).- Un representante de la Procuraduría General de Justicia del Estado; y
 
@@ -1934,5 +1980,9 @@ P.O. 22 DE SEPTIEMBRE DE 2008.
 LAS MODIFICACIONES CON ANTELACION CITADAS, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS REFORMADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 19 DE ENERO DE 2009.
+
+Único.- Las presentes disposiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE MARZO DE 2009.
 
 Único.- Las presentes disposiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
