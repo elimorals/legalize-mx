@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "2008-07-01"
+last_updated: "2009-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MARZO DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -2690,17 +2690,15 @@ Asimismo, cada institución de banca de desarrollo deberá publicar trimestralme
 
 ### CAPITULO II. De las Operaciones Pasivas
 
+> <small>(REFORMADO, D.O.F. 23 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 56.
 
-El titular de las operaciones a que se refieren las fracciones I y II del artículo 46 de esta Ley, así como de depósitos bancarios en administración de títulos o valores a cargo de instituciones de crédito, podrá en cualquier tiempo designar o sustituir beneficiarios, así como, modificar en su caso, la proporción correspondiente a cada uno de ellos.
+El titular de las operaciones a que se refieren las fracciones I y II del artículo 46 de esta Ley, así como de depósitos bancarios en administración de títulos o valores a cargo de instituciones de crédito, deberá designar beneficiarios y podrá en cualquier tiempo sustituirlos, así como modificar, en su caso, la proporción correspondiente a cada uno de ellos.
 
-En caso de fallecimiento del titular, la institución de crédito entregará el importe correspondiente a los beneficiarios que el titular haya designado expresamente y por escrito para tal efecto, sin exceder el mayor de los límites siguientes:
+En caso de fallecimiento del titular, la institución de crédito entregará el importe correspondiente a quienes el propio titular hubiese designado, expresamente y por escrito, como beneficiarios, en la proporción estipulada para cada uno de ellos.
 
-I. El equivalente a veinte veces el salario mínimo general diario vigente en el Distrito Federal elevado al año, por operación, o
-
-II. El equivalente al setenta y cinco por ciento del importe de cada operación.
-
-Si existiere excedente, deberá entregarse en los términos previstos por la legislación común.
+Si no existieren beneficiarios, el importe deberá entregarse en los términos previstos en la legislación común.
 
 > <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
@@ -5893,3 +5891,7 @@ Segundo. Los delitos previstos en los artículos 112 Bis de la Ley de Institucio
 D.O.F. 1 DE JULIO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE MARZO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
