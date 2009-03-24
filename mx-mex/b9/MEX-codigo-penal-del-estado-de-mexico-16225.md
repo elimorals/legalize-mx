@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2008-07-31"
+last_updated: "2009-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO PENAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE MARZO DE 2009.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -1307,9 +1307,11 @@ IV. Se atribuya funciones o comisiones distintas a las que legalmente tenga enco
 
 Al responsable de los delitos previstos en las fracciones I a III, se le impondrán de seis meses a dos años de prisión, de treinta a cien días multa e inhabilitación por veinte años para desempeñar empleo, cargo o comisión públicos. A quien cometa el delito previsto en la fracción IV, se le impondrán de uno a cinco años de prisión, de treinta a doscientos días multa y destitución definitiva e inhabilitación por veinte años para desempeñar empleo, cargo o comisión públicos.
 
+> <small>(REFORMADO, G.G. 24 DE MARZO DE 2009)</small>
+
 ###### Artículo 134.
 
-Al servidor público que sin causa justificada abandone sus funciones sin haber presentado su renuncia, o sin que se le haya aceptado, o al que habiéndole sido aceptada no entregue todo aquello que haya sido objeto de su responsabilidad, a la persona autorizada para recibirlo, siempre que se cause perjuicio a la buena marcha de la función a su cargo, se le impondrán de uno a cuatro años de prisión, multa de treinta a ciento cincuenta días multa e inhabilitación por veinte años para desempeñar empleo, cargo o comisión públicos.
+Al servidor público que sin causa justificada abandone sus funciones sin haber presentado licencia o renuncia, o sin que se le haya aceptado, al que habiéndole sido aceptada o concluido el periodo constitucional para el que fuera electo o designado, no cumpla con la entrega de índole administrativo del despacho, de toda aquella documentación inherente al cargo o no entregue todo aquello que haya sido objeto de su responsabilidad, a la persona autorizada para recibirlo, se le impondrán de uno a cuatro años de prisión, multa de treinta a ciento cincuenta días multa e inhabilitación por veinte años para desempeñar empleo, cargo o comisión públicos.
 
 ### CAPITULO XVI. DE LOS DELITOS COMETIDOS POR SERVIDORES PUBLICOS EN AGRAVIO DE LA HACIENDA PUBLICA ESTATAL O MUNICIPAL Y DE ORGANISMOS DEL SECTOR AUXILIAR
 
@@ -3115,7 +3117,7 @@ XIV. Cuando el robo se cometa al interior de un vehículo automotor particular o
 
 > <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2007)</small>
 
-XV. Si en las actos mencionados en las fracciones anteriores, participa algún servidor público que tenga a su cargo funciones de prevención, persecución, sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este articulo, se le aumentará la pena de prisión en una mitad más, destitución definitiva e inhabilitación hasta por veinte años para desempeñar cualquier empleo, cargo o comisión públicos.
+XV. Si en los actos mencionados en las fracciones anteriores, participa algún servidor público que tenga a su cargo funciones de prevención, persecución, sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este articulo, se le aumentará la pena de prisión en una mitad más, destitución definitiva e inhabilitación hasta por veinte años para desempeñar cualquier empleo, cargo o comisión públicos.
 
 ###### Artículo 291.
 
@@ -3475,7 +3477,7 @@ Al responsable, se le impondrán de cien a quinientos días multa o prisión de 
 
 A quien vote más de una vez en una misma elección se le aumentara hasta el doble de la pena señalada en este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 318.
 
@@ -3838,3 +3840,11 @@ G.G. 31 DE JULIO DE 2008.
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 24 DE MARZO DE 2009.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
