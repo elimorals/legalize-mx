@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-de-los-servidores-publicos-del-6118"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-11"
-last_updated: "2006-09-14"
+last_updated: "2009-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE MARZO DE 2009.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 11 de septiembre de 1990.
 
@@ -427,9 +427,9 @@ XXV. Abstenerse, en ejercicio de sus funciones o con motivo de ellas, de celebra
 
 Por ningún motivo podrá celebrarse pedido o contrato alguno con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público.
 
-> <small>(ADICIONADA, P.O. 5 DE ENERO DE 1994)</small>
+> <small>(REFORMADA, G.G. 24 DE MARZO DE 2009)</small>
 
-XXVI. Cumplir con la entrega del despacho a su cargo, en los términos que establezcan las disposiciones legales o administrativas que al efectos (sic) se señalen; y
+XXVI. Cumplir con la entrega de índole administrativo del despacho y de toda aquella documentación inherente a su cargo, en los términos que establezcan las disposiciones legales o administrativas que al efecto se señalen;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1998)</small>
 
@@ -461,7 +461,9 @@ XXXII. Las demás que le impongan las leyes, reglamentos o disposiciones adminis
 
 Se incurre en responsabilidad administrativa disciplinaria, por el incumplimiento de cualesquiera de las obligaciones a que se refiere el artículo anterior, dando lugar a la instrucción del procedimiento administrativo ante los órganos disciplinarios y a la aplicación de las sanciones que en esta ley se consignan, atendiendo a la naturaleza de la obligación que se transgreda.
 
-La responsabilidad administrativa disciplinaria, tiene por objeto disciplinar y sancionar las conductas de los servidores públicos que infrinjan alguna de las disposiciones administrativas contenidas en el artículo anterior, con independencia de otra responsabilidad de cualquier naturaleza; inclusive de la responsabilidad administrativa resarcitoria.
+> <small>(REFORMADO, G.G. 24 DE MARZO DE 2009)</small>
+
+La responsabilidad administrativa disciplinaria, tiene por objeto disciplinar y sancionar las conductas de los servidores públicos que infrinjan alguna de las disposiciones administrativas contenidas en el artículo anterior, con independencia de otra responsabilidad de cualquier naturaleza; inclusive de la responsabilidad administrativa resarcitoria o de índole penal.
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 1994)</small>
 
@@ -1188,3 +1190,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación.
 ###### ARTICULO TERCERO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.G. 24 DE MARZO DE 2009.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
