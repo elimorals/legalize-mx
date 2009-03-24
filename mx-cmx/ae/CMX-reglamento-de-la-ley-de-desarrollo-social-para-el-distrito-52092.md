@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-desarrollo-social-para-el-distrito-5209
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-01"
-last_updated: "2006-11-01"
+last_updated: "2009-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52092&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2006-09-29"
 
 REGLAMENTO DE LA LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE MARZO DE 2009.
 
 Reglamento publicado en el Número Bis de la Gaceta Oficial del Distrito Federal, el miércoles 1 de noviembre de 2006.
 
@@ -62,7 +62,11 @@ VII. Reglamento: El Reglamento de la Ley de Desarrollo Social para el Distrito F
 
 VIII. Sistema: El Sistema de Información del Desarrollo Social;
 
-IX. Unidad Territorial: La clasificación territorial del Distrito Federal que se realiza con base en la condición cultural, social, étnica, política, económica, geográfica, y demográfica de sus habitantes, que adopte el Gobierno del Distrito Federal con el objeto de desarrollar la política social.
+IX. Unidad Territorial: La clasificación territorial del Distrito Federal que se realiza con base en la condición cultural, social, étnica, política, económica, geográfica, y demográfica de sus habitantes, que adopte el Gobierno del Distrito Federal con el objeto de desarrollar la política social;
+
+> <small>(ADICIONADA, G.O. 24 DE MARZO DE 2009)</small>
+
+X. Consejo de Evaluación: El Consejo de Evaluación del Desarrollo Social del Distrito Federal.
 
 ###### ARTÍCULO 4.
 
@@ -638,13 +642,21 @@ XI. La articulación con otros programas sociales;
 
 En caso de que alguno de los programas no sufra modificaciones en sus lineamientos y mecanismos, deberá hacerse pública esta circunstancia.
 
+> <small>(ADICIONADO, G.O. 24 DE MARZO DE 2009)</small>
+
+Cuando el acceso a los programas sociales sea mediante convocatoria pública las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades de la Administración deberán publicarlas en la Gaceta Oficial, en el Sistema y, al menos, en periódicos de mayor circulación en el DF. Dichas convocatorias deberán incluir una síntesis de los lineamientos y mecanismos de operación del programa respectivo.
+
+> <small>(REFORMADO, G.O. 24 DE MARZO DE 2009)</small>
+
 ###### ARTÍCULO 51.
 
-Los lineamientos y mecanismos de operación de cada programa deberán incorporase (sic) en el Sistema, a más tardar el último día del mes de febrero de cada año, a fin de que cualquier persona pueda conocerlos. En el caso de programas cuya operación no coincida con el ejercicio fiscal, deberán incluirse en el Sistema antes de que se inicien las actividades del mismo o la ministración de recursos a los beneficiarios.
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades de la Administración deberán publicar en la Gaceta Oficial, a más tardar el 31 de enero de cada año, las reglas de operación de los programas sociales que tengan a su cargo a fin de que cualquier persona pueda conocerlas. En el caso de programas cuya operación no coincida con el ejercicio fiscal, deberán publicarse antes de que se inicien las actividades del mismo o la entrega de subsidios, ayudas, apoyos o servicios a los beneficiarios.
+
+> <small>(REFORMADO, G.O. 24 DE MARZO DE 2009)</small>
 
 ###### ARTÍCULO 52.
 
-Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades de la Administración que tengan a su cargo programas destinados al desarrollo social, serán responsables de hacer llegar a la Secretaría sus lineamientos y mecanismos de operación para ser publicados en el Sistema.
+Una vez publicadas en la Gaceta Oficial las reglas de operación de los programas sociales, la Secretaría las incorporará en el Sistema.
 
 ### CAPÍTULO V. DEL SISTEMA DE INFORMACIÓN DEL DESARROLLO SOCIAL
 
@@ -708,13 +720,19 @@ Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades de la Admin
 
 ### CAPÍTULO VI. DE LOS PADRONES DE BENEFICIARIOS
 
+> <small>(REFORMADO, G.O. 24 DE MARZO DE 2009)</small>
+
 ###### ARTÍCULO 56.
 
-Cuando la Administración Pública del Distrito Federal lleve a cabo programas de desarrollo social, que impliquen la transferencia de recursos financieros o materiales a personas físicas o morales, de conformidad con las disposiciones legales aplicables, la unidad administrativa responsable deberá integrar un padrón de beneficiarios por cada uno de los programas, el cual será incorporado en el Sistema.
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades de la Administración que tengan a su cargo programas sociales deberán integrar un padrón de beneficiarios por cada uno de ellos.
+
+> <small>(REFORMADO, G.O. 24 DE MARZO DE 2009)</small>
 
 ###### ARTÍCULO 57.
 
-Sin restricción alguna será pública la información de todos los programas sociales con respecto al número de beneficiarios, su distribución por sexo y grupo de edad, los recursos asignados y su distribución por unidades territoriales. Esta información se actualizará anualmente y estará disponible a través del Sistema. Lo anterior, sin perjuicio de lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal.
+Sin restricción alguna será pública la información de todos los programas sociales con respecto al número de participantes o beneficiarios, su distribución por sexo y grupos de edad, el monto de los recursos asignados y su distribución por unidades territoriales. Lo anterior, sin perjuicio de lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal.
+
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades de la Administración deberán presentar trimestralmente a la Asamblea Legislativa del Distrito Federal y al Sistema un informe analítico sobre el ejercicio de los recursos financieros destinados a cada uno de los programas sociales que tengan a su cargo.
 
 ###### ARTÍCULO 58.
 
@@ -742,11 +760,27 @@ X. Datos de los padres o tutores, en su caso, y
 
 XI. Clave Única de Registro de Población.
 
+> <small>(ADICIONADO, G.O. 24 DE MARZO DE 2009)</small>
+
+El manejo de los datos personales que se recaben de los participantes o beneficiarios, se realizará conforme lo establecido por la Ley de Protección de Datos Personales para el Distrito Federal y la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 24 DE MARZO DE 2009)</small>
+
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades de la Administración deberán publicar en la Gaceta Oficial y en el Sistema, a más tardar el 31 de marzo de cada año, una versión pública del padrón de beneficiarios de los programas sociales que tengan a su cargo con nombres, edad, sexo, unidad territorial y delegación, en el formato que al efecto expida el Consejo de Evaluación. La misma versión pública deberán enviarla en la misma fecha, de manera impresa y en archivo electrónico, a la Asamblea Legislativa del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 24 DE MARZO DE 2009)</small>
+
 ###### ARTÍCULO 59.
 
-La entidad o dependencia ejecutora del programa será responsable de la correcta integración y actualización del padrón de beneficiarios, así como de su uso y resguardo estricto para los fines establecidos en la Ley y este Reglamento.
+La entidad o dependencia ejecutora del programa será responsable de la correcta integración y actualización del padrón de beneficiarios, así como de su uso y resguardo estricto para los fines establecidos en la Ley y este Reglamento. Se prohíbe la utilización del Padrón de Beneficiarios con fines político - electorales, comerciales o de cualquier índole distinta a su objeto y fines señalados en la Ley y este Reglamento.
 
-Se prohíbe la utilización del Padrón de Beneficiarios con fines político-electorales, comerciales o de cualquier índole distinta a su objeto y fines señalados en la Ley y este Reglamento. Su uso indebido será sancionado en términos de la Ley Federal de Responsabilidades de los Servidores Públicos y demás disposiciones legales aplicables. La misma responsabilidad sobre el uso de los padrones se aplicará a los Órganos de control y fiscalización que en uso de sus atribuciones accedan a los mismos.
+La misma responsabilidad sobre el uso de los padrones se aplicará a los Órganos de control, fiscalización y verificación que en uso de sus atribuciones accedan a los mismos.
+
+El Consejo de Evaluación, en coordinación con la Contraloría General del Distrito Federal, establecerán un programa anual de verificación de los padrones de beneficiarios y de los datos contenidos en los informes trimestrales de los programas sociales emitidos por las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades de la Administración, quienes tendrán la obligación de proporcionar toda la información necesaria, incluyendo las bases de datos de los padrones de beneficiarios correspondientes.
+
+El Consejo de Evaluación, en coordinación con la Contraloría General del Distrito Federal, informará trimestralmente a la Asamblea Legislativa del Distrito Federal de los resultados del programa de verificación.
+
+El incumplimiento de las obligaciones establecidas en este capítulo, así como el uso indebido de los padrones de beneficiarios, será sancionado en términos de la Ley Federal de Responsabilidades de los Servidores Públicos y demás disposiciones legales aplicables.
 
 ###### ARTÍCULO 60.
 
@@ -855,3 +889,11 @@ T R A N S I T O R I O S
 UNICO. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Dado en la residencia oficial del Jefe de Gobierno del Distrito Federal, a los veintinueve días del mes de septiembre de dos mil seis.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, LIC. ALEJANDRO DE JESÚS ENCINAS RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE GOBIERNO, RICARDO RUÍZ SUÁREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, LIC. ENRIQUE PROVENCIO DURAZO.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 24 DE MARZO DE 2009.
+
+PRIMERO. - Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. - El presente Reglamento entrará en vigor al día siguiente de su publicación.
