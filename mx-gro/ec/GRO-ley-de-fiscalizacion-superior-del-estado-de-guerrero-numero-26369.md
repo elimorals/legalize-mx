@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-fiscalizacion-superior-del-estado-de-guerrero-numero-263
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-06"
-last_updated: "2008-07-18"
+last_updated: "2009-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE GUERRERO NUMERO 564
 
-LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE GUERRERO NUMERO 564
+LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUERRERO NÚMERO 564
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el miércoles 6 de noviembre de 2002.
 
@@ -277,7 +277,7 @@ XVII. Solicitar al Congreso a través de la Comisión de Presupuesto la autoriza
 
 Esta medida cesará cuando se corrijan las irregularidades cometidas o se haya resarcido el daño patrimonial causado;
 
-XVIII. Elaborar y publicar estudios relacionados con las materias de su competencia;
+XVIII.- (DEROGADA, P.O. 24 DE MARZO DE 2009)
 
 XIX. Celebrar Convenios o Acuerdos de Coordinación con la Auditoría Superior de la Federación y con Organismos de Fiscalización que cumplan funciones similares dentro y fuera del Estado, para el mejor cumplimiento de sus fines;
 
@@ -307,9 +307,9 @@ XXVII. Establecer los criterios y montos a los que debe sujetarse el otorgamient
 
 XXVIII. Apoyar al Comité de Administración en la evaluación del gasto público del Congreso;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2009)</small>
 
-XXIX. Presentar a la Comisión de Presupuesto los Informes de Resultados Anuales relativos a la presentación y revisión de las Cuentas Públicas de las Entidades Fiscalizadas, así como de aquellos que se desprendan de la fiscalización de los Informes Financieros cuatrimestrales;
+XXIX.- Presentar a las Comisiones de Presupuesto y de Vigilancia los Informes de Resultados Anuales relativos a la presentación y revisión de las Cuentas Públicas de las Entidades Fiscalizadas, así como de aquellos que se desprendan de la fiscalización de los Informes Financieros cuatrimestrales;
 
 > <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
 
@@ -323,9 +323,9 @@ XXXI. Elaborar su Reglamento;
 
 XXXII. Interpretar esta Ley para efectos administrativos, así como aclarar y resolver las consultas sobre la aplicación del Reglamento;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2009)</small>
 
-XXXIII. Evaluar el cumplimiento final de los objetivos y metas fijados en los programas estatales y municipales, a efecto de verificar el desempeño de los mismos y la legalidad en el uso de los recursos públicos;
+XXXIII.- Auditar y evaluar anualmente el cumplimiento de los objetivos y metas fijados en los programas estatales y municipales, a efecto de verificar el desempeño de los mismos y la legalidad en el uso de los recursos públicos;
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
@@ -417,9 +417,13 @@ IX. No ser ministro de culto religioso alguno.
 
 Una vez nombrado el Auditor General, éste no podrá desempeñar ningún otro empleo, cargo o comisión pública por el que se disfrute salario, excepción hecha de las actividades docentes o de beneficencia pública.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 12.
 
-El Auditor General durará en su encargo ocho años y podrá ser nombrado nuevamente por una sola ocasión. Asimismo, podrá ser removido del cargo por las causas a que se refiere el artículo 16 de esta Ley o por las causas y conforme a los procedimientos previstos en el Título Décimo Tercero de la Constitución Política del Estado.
+El Auditor General durará en su encargo siete años. Asimismo, podrá ser removido del cargo por las causas a que se refiere el artículo 16 de esta Ley o por las causas y conforme a los procedimientos previstos en el Título Décimo Tercero de la Constitución Política del Estado.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
@@ -433,7 +437,7 @@ Al Auditor General lo suplirá en sus ausencias temporales el Auditor Especial q
 
 Los Auditores Especiales y los Directores de Asuntos Jurídicos y de Administración y Finanzas serán nombrados a propuesta del Auditor General y con la opinión de la Comisión de Vigilancia, atendiendo lo dispuesto por los artículos 5 segundo párrafo y por el artículo 24 fracción VII de la presente Ley. Para ejercer el cargo de Auditor Especial se deberán cubrir los mismos requisitos exigidos para ser Auditor General. Los Directores de Asuntos Jurídicos y de Administración y Finanzas, deberán reunir los requisitos que al efecto establezca el Reglamento Interior de la Auditoría General del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 15.
 
@@ -473,21 +477,21 @@ VI. Sustraer, destruir, ocultar, difundir o utilizar indebidamente la documentac
 
 VII. Aceptar la injerencia de los miembros de los partidos políticos, en el ejercicio de sus funciones y de esta circunstancia conducirse con parcialidad en el proceso de revisión de la Cuenta Pública y en los procedimientos de fiscalización e imposición de sanciones a que se refiere esta Ley.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 17.
 
-El Congreso dictaminará sobre la existencia de los motivos de la remoción del Auditor General por las causas señaladas en esta Ley, dándoselas a conocer y otorgándole el derecho de audiencia. La remoción requerirá del voto de la mayoría de los Diputados presentes en la Sesión respectiva.
+El Congreso dictaminará sobre la existencia de los motivos de la remoción del Auditor General por las causas señaladas en esta Ley, dándoselas a conocer y otorgándole el derecho de audiencia. La remoción requerirá del voto de la mayoría calificada de los Diputados presentes en la Sesión respectiva.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
-
-Los Auditores Especiales, los Directores de Asuntos Jurídicos y de Administración y Finanzas, y demás servidores públicos podrán ser removidos por causa justificada, por el Auditor General contando con la opinión de la Comisión de Vigilancia, de acuerdo a lo establecido por los artículos 5 y 24 de la presente Ley.
+Los Auditores Especiales, los Directores de Asuntos Jurídicos y de Administración y Finanzas, y demás servidores públicos podrán ser removidos por causa justificada, por el Auditor General contando con la ratificación de la Comisión de Vigilancia, con base en lo establecido en los artículos 5, 24 capítulo III BIS de la presente Ley de la presente Ley (sic).
 
 ### CAPITULO III. DE SU FUNCIONAMIENTO
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 18.
 
-La Auditoría General del Estado elaborará su proyecto de presupuesto anual, mismo que contendrá de conformidad con las previsiones de gasto los recursos necesarios para cumplir a cabalidad con su función, el cual será remitido por el Auditor General, a través de la Comisión de Vigilancia, para su inclusión en el proyecto de Presupuesto de Egresos del Congreso. La Auditoría General del Estado ejercerá autónomamente su presupuesto aprobado, sujetándose a las disposiciones legales aplicables.
-
-La Secretaría ministrará mensualmente a la Auditoría General del Estado los recursos aprobados en su presupuesto para su funcionamiento respectivo.
+La Auditoría General del Estado elaborará su proyecto de presupuesto anual y su Programa Operativo Anual, mismos que contendrán, de conformidad con las previsiones de gasto, los recursos necesarios para cumplir a cabalidad con su función así como las metas a cumplir, los cuales serán remitidos por el Auditor General, a través de la Comisión de Vigilancia, para su inclusión en el proyecto de Presupuesto de Egresos del Congreso. La Auditoría General del Estado ejercerá autónomamente su presupuesto aprobado, sujetándose a las disposiciones legales aplicables.
 
 ###### ARTICULO 19.
 
@@ -501,7 +505,9 @@ II. Fungir como representante legal de la Auditoría General del Estado en las c
 
 III. Expedir certificaciones de los documentos que obren en los archivos de la Auditoría General del Estado a quienes acrediten su interés jurídico pudiendo delegar esta facultad al Director de Asuntos Jurídicos;
 
-IV. Presentar el proyecto de presupuesto anual de la Auditoría General del Estado;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2009)</small>
+
+IV. Presentar el proyecto de presupuesto anual y el Programa Operativo Anual de la Auditoría General del Estado;
 
 V. Administrar los bienes y recursos a cargo de la Auditoría General del Estado, resolver sobre la adquisición y enajenación de bienes muebles y la prestación de servicios; así como gestionar la incorporación, destino o desincorporación de bienes inmuebles, sujetándose a lo previsto en esta Ley, el Reglamento y demás disposiciones legales aplicables en la materia;
 
@@ -521,11 +527,13 @@ XI. Proponer al Congreso para su aprobación el Reglamento Interior de la Audito
 
 XII. Expedir los manuales de organización y de procedimientos administrativos necesarios para el funcionamiento de la Auditoría General del Estado;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2009)</small>
 
-XIII. Nombrar y remover, contando con la opinión de la Comisión de Vigilancia, a los Auditores Especiales, a los Directores de Asuntos Jurídicos y de Administración y Finanzas, mismos que serán seleccionados mediante concurso de méritos, atendiendo lo dispuesto por los artículos 5, 14, 17 y 24 de la presente Ley;
+XIII. Nombrar o remover, contando con la ratificación de la Comisión de Vigilancia, a los Auditores Especiales, a los Directores de Administración y Finanzas, mismos que serán seleccionados mediante concurso de méritos, atendiendo lo dispuesto por los artículos 5, 14, 17, 24 y Capítulo III de la presente Ley;
 
-XIV. Nombrar y remover al resto del personal técnico, administrativo y de apoyo de la Auditoría General del Estado;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2009)</small>
+
+XIV. Nombrar o remover por causa justificada, al resto del personal técnico, administrativo y de apoyo de la Auditoría General del Estado;
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -533,7 +541,9 @@ XV. Promover la capacitación al personal directivo, operativo, de base y de con
 
 XVI. Participar en foros, asambleas, congresos, cursos, talleres y demás reuniones que sean acordes con sus atribuciones;
 
-XVII. Entregar al Congreso por conducto de la Comisión de Vigilancia, dentro de los treinta días siguientes al término del ejercicio del año inmediato anterior, la comprobación del presupuesto ejercido por la Auditoría General del Estado;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2009)</small>
+
+XVII. Entregar al Congreso por conducto de la Comisión de Vigilancia, el último día del mes de febrero, la cuenta pública del presupuesto ejercido por la Auditoría General del Estado, correspondiente al ejercicio del año inmediato anterior;
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
@@ -565,9 +575,13 @@ XXVI. Solicitar a la autoridad competente la aplicación del procedimiento de ej
 
 XXVII. Promover las acciones de responsabilidad a que se refiere el Título Décimo Tercero de la Constitución Política del Estado y la ley de la materia;
 
-XXVIII. Presentar, en su caso, denuncias o querellas, siendo coadyuvante con el representante social en los casos de presuntas conductas delictivas de servidores públicos o de particulares, relacionadas con daños o perjuicios ocasionados al Estado o Municipios en sus haciendas públicas o al patrimonio de los Entes Públicos Estatales y Municipales;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2009)</small>
 
-XXIX. Formular denuncias de juicio político, de conformidad con lo señalado en el Título Décimo Tercero de la Constitución Política del Estado; y (sic)
+XXVIII. Presentar, en su caso, denuncias o querellas en términos de las leyes sustantivas y procedimientos aplicables, en los casos de presuntas conductas delictivas de servidores públicos o de particulares, relacionadas con daños o perjuicios ocasionados al Estado o Municipios en sus haciendas públicas o al patrimonio de los Entes Públicos Estatales y Municipales;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2009)</small>
+
+XXIX. Formular denuncias de juicio político, de conformidad con lo señalado en el Título Tercero de la Constitución Política del Estado y la Ley de Responsabilidades;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ABRIL DE 2006)</small>
 
@@ -619,7 +633,7 @@ XI. Promover, mediante dictamen técnico, previo acuerdo del Auditor General, an
 
 XII. Las demás que señalen esta Ley, el Reglamento y demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 21.
 
@@ -641,7 +655,7 @@ VI. Expedir los lineamientos de carácter jurídico para la elaboración de conv
 
 VII. Las demás que señalen esta Ley, el Reglamento y otras disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 22.
 
@@ -659,9 +673,9 @@ IV. Ejercer y contabilizar el ejercicio del presupuesto autorizado y elaborar la
 
 V. Establecer y mantener un sistema de contabilidad que permita registrar el conjunto de operaciones que requiera la administración; y (sic)
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2009)</small>
 
-VI. Administrar, con la autorización del Auditor General, los recursos económicos que se obtengan del Fondo para el Fortalecimiento de la Fiscalización de la Auditoría General del Estado; y
+VI.- Conforme lo establece el artículo 95 de la presente Ley, administrar los recursos económicos que se obtengan del Fondo para el Fortalecimiento de la Fiscalización de la Auditoría General del Estado;
 
 > <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
 
@@ -681,6 +695,14 @@ El Director de Administración y Finanzas antes de asumir el cargo, depositará 
 
 Para los efectos de lo dispuesto en la fracción XLVII del artículo 8 y 204 de la Ley Orgánica, el Congreso cuenta con la Comisión de Vigilancia que tendrá por objeto coordinar las relaciones entre éste y la Auditoria General del Estado, y constituir el enlace que permita garantizar la debida comunicación entre ambos órganos, así como vigilar y evaluar el desempeño de esta última.
 
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2009)</small>
+
+Para lo anterior, la Comisión de Vigilancia contará con una Unidad de Apoyo Técnico, cuyas atribuciones emanarán del Reglamento Interior de la misma unidad, en correlación con los artículos 24, 25 y 26 de la presente ley.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2009)</small>
+
+Para el ejercicio de las atribuciones conferidas a la Unidad de Apoyo Técnico, el Congreso del Estado proveerá los recursos económicos necesarios para su operación.
+
 ###### ARTICULO 24.
 
 La Comisión de Vigilancia tendrá las atribuciones siguientes:
@@ -693,19 +715,47 @@ II. Conocer el programa anual de actividades de la Auditoría General del Estado
 
 III. Citar al Auditor General para conocer en lo específico, algún Informe de Resultados de la revisión de la Cuenta Pública;
 
-IV. Recibir el proyecto de presupuesto anual de la Auditoría General del Estado para su inclusión en el proyecto de Presupuesto de Egresos del Congreso, así como conocer el informe anual de su ejercicio;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2009)</small>
 
-V. Evaluar si la Auditoría General del Estado cumple con las funciones que conforme a la Constitución Política del Estado y esta Ley le corresponden;
+IV. Conocer y analizar el proyecto de presupuesto anual y el Programa Operativo Anual de la Auditoría General del Estado para su inclusión en el Proyecto de Presupuesto de Egresos del Congreso, así como conocer el informe anual de su ejercicio;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2009)</small>
+
+V. Evaluar si la Auditoría General del Estado cumple con las funciones que conforme a la Constitución Política del Estado y esta Ley le corresponden, así como proveer lo necesario para garantizar su autonomía técnica y de gestión;
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
 VI. Proponer a la Auditoria General del Estado las medidas necesarias para su buen funcionamiento;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2009)</small>
 
-VII. Opinar sobre los nombramientos y remoción de los Auditores Especiales y los Directores de Asuntos Jurídicos y de Administración y Finanzas de la Auditoria General del Estado;
+VII. Ratificar sobre los nombramientos y remoción de los Auditores Especiales y los Directores de Asuntos Jurídicos y de Administración y Finanzas de la Auditoría General del Estado;
 
-VIII. Las demás que establezca esta Ley y otras disposiciones legales aplicables.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE MARZO DE 2009)</small>
+
+VIII. De acuerdo con las posibilidades presupuestales, contratar Asesores Externos para el adecuado cumplimiento de sus atribuciones;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2009)</small>
+
+IX. Recibir y dictaminar la cuenta pública del presupuesto ejercido por la Auditoría General del Estado;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2009)</small>
+
+X. Nombrar por mayoría de los integrantes de la Comisión de Vigilancia al Titular de la Unidad de Apoyo Técnico así como proveerle los recursos materiales, humanos y financieros para su funcionamiento;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2009)</small>
+
+XI. Aprobar por mayoría de los integrantes de la Comisión de Vigilancia, el programa anual de actividades de la Unidad de Apoyo Técnico;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2009)</small>
+
+XII. Aprobar por mayoría de los integrantes de la Comisión de Vigilancia, el Reglamento Interior de la Unidad de Apoyo Técnico.
+
+Las funciones de la Unidad estarán expresas en su Reglamento Interior; y
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2009)</small>
+
+XIII. Las demás que establezca la Ley y las disposiciones aplicables.
 
 ### CAPITULO II. DE LA VIGILANCIA Y EVALUACION
 
@@ -793,7 +843,7 @@ Forman parte de las Cuentas Públicas, los Informes Financieros cuatrimestrales 
 
 Cuando la Cuenta Pública se entregue sin apego a las normas establecidas en esta Ley o a los formatos y lineamientos establecidos por la Auditoría General del Estado, ésta será rechazada, imponiendo, en su caso, la sanción que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 30.
 
@@ -827,7 +877,7 @@ Los Informes Financieros concernientes al inicio y terminación de la Administra
 
 (DEROGADO, P.O. 28 DE ABRIL DE 2006)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 32.
 
@@ -841,7 +891,7 @@ Los Informes Financieros concernientes al inicio y terminación del Poder Legisl
 
 (DEROGADO, P.O. 28 DE ABRIL DE 2006)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 34.
 
@@ -867,7 +917,7 @@ La Fiscalización Superior de las Cuentas Públicas e Informes Financieros cuatr
 
 La Fiscalización Superior tiene carácter externo y, por lo tanto, se lleva a cabo de manera independiente y autónoma de cualquier otra forma de control o fiscalización interna de los Poderes del Estado, los Ayuntamientos y los Entes Públicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 38.
 
@@ -1143,7 +1193,7 @@ VII. Si la Auditoría General del Estado encontrara que los elementos con que cu
 
 La indemnización invariablemente deberá ser suficiente para cubrir los daños y perjuicios causados y se actualizará para efectos de su pago en la forma y términos que establecen los Códigos Fiscales Estatal o Municipal, en tratándose de contribuciones y aprovechamientos y la sanción pecuniaria consistirá en una multa de uno hasta tres tantos del monto de los daños y perjuicios causados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 70.
 
@@ -1169,7 +1219,7 @@ El importe de la sanción resarcitoria que se recuperen en los términos de esta
 
 La Auditoría General del Estado podrá abstenerse de sancionar al infractor por una sola vez cuando lo estime pertinente, justificando las causas de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de cien veces el salario mínimo general diario vigente en la Capital del Estado, en la fecha en que se cometa la infracción.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 2006)</small>
 
 ### CAPITULO III BIS. PROCEDIMIENTO ADMINISTRATIVO DISCIPLINARIO
 
@@ -1527,6 +1577,10 @@ III. Equipamiento; y
 
 IV. Incentivos al personal.
 
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2009)</small>
+
+La aplicación de los recursos del Fondo serán informados a la Comisión de Vigilancia a través de los Informes cuatrimestrales de la Auditoría General del Estado.
+
 ## TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor a partir del primero de enero del dos mil tres, a excepción de lo dispuesto en sus artículos 10, 11, 12 y 14 que tendrán vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
@@ -1577,7 +1631,7 @@ C. MARCELINO MIRANDA AÑORVE.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 28 DE ABRIL DE 2006.
 
@@ -1624,3 +1678,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales conducentes.
+
+P.O. 24 DE MARZO DE 2009.
+
+PRIMERO.- El Artículo 12 del presente Decreto entrará en vigor en la misma fecha que entre en vigor el Decreto por el que se reforma y adiciona el artículo respectivo de la Constitución Política del Estado Libre y Soberano de Guerrero.
+
+SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado para su conocimiento general.
