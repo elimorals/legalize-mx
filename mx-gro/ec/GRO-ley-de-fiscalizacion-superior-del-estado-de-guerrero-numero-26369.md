@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-fiscalizacion-superior-del-estado-de-guerrero-numero-263
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-06"
-last_updated: "2008-07-18"
+last_updated: "2009-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,621 +21,869 @@ state: "GRO"
 ---
 # LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE GUERRERO NUMERO 564
 
-REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN
+LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUERRERO NÚMERO 564
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2009.
 
-Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el jueves 11 de enero de 2001.
+Ley publicada en el Periódico Oficial del Estado de Guerrero, el miércoles 6 de noviembre de 2002.
 
-ARTURO MONTIEL ROJAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MEXICO, EN EJERCICIO DE LA FACULTAD QUE ME CONFIERE EL ARTICULO 77 FRACCION IV DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO, Y CON FUNDAMENTO EN LO DISPUESTO EN LOS ARTICULOS 2, 7 Y 8 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO; Y
+RENE JUAREZ CISNEROS, Gobernador Constitucional del Estado Libre y Soberano de Guerrero, a su habitantes, sabed
 
-C O N S I D E R A N D O.
+Que el H. Congreso Local, se ha servido comunicarme que,
 
-En mérito de lo expuesto, he tenido a bien expedir el siguiente:
+LA QUINCUAGESIMA SEXTA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN NOMBRE DEL PUEBLO QUE REPRESENTA, Y
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+CONSIDERANDO
 
-REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN
+Que la existencia de la Auditoría General del Estado deriva de lo previsto en los artículos 47 fracción XXXIV, 106 y 107 de la Constitución Política del Estado Libre y Soberano de Guerrero, así como en el artículo 204 de la Ley Orgánica del Poder Legislativo del Estado de Guerrero, número 286, teniendo como objeto el control y fiscalización superior de la administración hacendaría pública, para analizar los resultados de la gestión financiera, el cumplimiento de los criterios establecidos en los presupuestos de ingresos y egresos, así como el logro de los objetivos de los programas respectivos.
+
+Que las actividades de control y fiscalización de la hacienda pública encomendadas a la Contaduría Mayor se han realizado, hasta ahora, en términos de lo que la legislación vigente limitadamente le ha permitido. No obstante, dada la evolución permanente de la sociedad, existe la necesidad de perfeccionar los mecanismos de fiscalización, mediante la dotación a los órganos encargados de ejercer tan importante función, de las facultades necesarias que les permitan llevar a cabo una eficiente supervisión del manejo de las finanzas públicas, coadyuvando al mismo tiempo, a lograr una mayor eficiencia y transparencia en el ejercicio de la gestión pública por parte de los gobernantes, para rendir cuentas claras a la ciudadanía.
+
+Que a efecto de generar mayor confianza de la sociedad en sus gobernantes, es necesaria la existencia de mayor transparencia en la aplicación honesta, eficiente y oportuna de los recursos públicos por parte de quienes tienen a su cargo el ejercicio de los mismos, así como del establecimiento de los mecanismos legales, financieros y técnicos necesarios para la modernización de los organismos de fiscalización, función que conforme a la Ley le corresponderá ejercer, entre otros, a la Auditoría General del Honorable Congreso del Estado; por ello, se hace necesario estructurar y establecer el marco legal en el que con libertad de gestión y con autonomía técnica lleve a cabo de manera independiente los trabajos de fiscalización que se le encomienden.
+
+Que mediante Decreto publicado en el Diario Oficial de la Federación el treinta de julio de 1999, fueron reformados los artículos 73, 74 y 79 de la Constitución Política de los Estados Unidos Mexicanos; reformas que originaron la creación de la Entidad de Fiscalización Superior de la Federación, estableciéndose nuevos referentes y mecanismos legales para la supervisión del ejercicio y aplicación del gasto público federal.
+
+Que este antecedente sirve como referencia para comprender la necesidad urgente de reglamentar la materia de revisión de las Cuentas Públicas a través de un organismo superior de fiscalización y control gubernamental, con facultades análogas a las del ente federal que entró en funciones a partir de diciembre del año 2000.
+
+Que bajo esta nueva perspectiva y con el objeto de adecuar nuestro marco jurídico para hacerlo acorde con lo establecido en la Constitución Federal, este Honorable Congreso reformó y adicionó diversas disposiciones de la Constitución Política Local, mismas que previa la aprobación respectiva por los Honorables Ayuntamientos que integran la Entidad, y el cumplimiento del trámite legislativo correspondiente fueron debidamente ratificadas por el Pleno.
+
+Que la Contaduría Mayor de Hacienda, a través del cual este Honorable Congreso, ejerce la facultad de supervisión, control y evaluación de la hacienda pública, actualmente se rige por el capítulo XXI de la Ley Orgánica del Poder Legislativo número 181, de fecha 31 de mayo de 1985 y el capítulo IV del Título Décimo de la Ley Orgánica número 286, expedida el 29 de marzo de 1999, que abrogó a la Ley anterior, sin que hasta la fecha el órgano de fiscalización cuente con su ley orgánica.
+
+Que por los argumentos vertidos con anterioridad y por tratarse de un asunto impostergable que requiere de atención prioritaria, la Comisión de Presupuesto y Cuenta Pública, presentó iniciativa de Ley de Fiscalización Superior del Estado de Guerrero, con el objeto de dotar al órgano de fiscalización superior de una Ley que le otorgue las facultades y atribuciones necesarias que le permitan cumplir cabalmente con las funciones que tiene encomendadas, ordenamiento jurídico que tendrá por objeto fundamental cumplimentar el proceso para la creación de la Auditoría General del Estado y regular su organización, atribuciones y funcionamiento, para la supervisión, control y evaluación de la Hacienda Pública, misma que a este Honorable Congreso, le corresponde expedir en uso de la facultad que le confiere la fracción XLVII del artículo 47 de la Constitución Política Local y para el efecto de dar cumplimiento a lo estipulado en el segundo párrafo del artículo 204 y el artículo segundo transitorio de la Ley Orgánica del Poder Legislativo del Estado de Guerrero número 286.
+
+Que atendiendo a las reformas y adiciones efectuadas a la Constitución Política del Estado, mediante Decreto número 534, aprobado por el Pleno de este Honorable Congreso en sesión extraordinaria de fecha 21 de agosto del año en curso y ratificadas por Acuerdo Parlamentario de fecha 26 de septiembre de este año, se hace necesario que este Honorable Congreso en uso de la facultad que le confiere el artículo 47 fracción XLVII de la Constitución Política Local, expida la Ley del Organo de Fiscalización Superior de este Honorable Congreso.
+
+Que los integrantes de estas Comisiones Dictaminadoras, durante el proceso de análisis y discusión de la Iniciativa de Ley en comento, celebramos diversas reuniones de trabajo, en las que participaron profesionales y especialistas en la materia, quienes vertieron sus opiniones al respecto, además de consultar diversos ordenamientos jurídicos en materia de fiscalización vigentes en otras entidades federativas de la República Mexicana, teniendo como resultado la realización de modificaciones de forma y fondo a la gran mayoría de los preceptos de la Iniciativa de Ley.
+
+Que previo el trabajo deliberativo realizado, los integrantes de esta Legislatura, procedimos a la sistematización definitiva de la Ley de Fiscalización Superior del Estado de Guerrero, misma que responde a las necesidades y cumple cabalmente con las expectativas de la sociedad guerrerense, así como para que este Honorable Poder Legislativo rescate su importante función fiscalizadora respecto del ejercicio presupuestal y de la actuación de los órganos de la administración pública; es decir, el Poder Legislativo ejercerá con mayor rigor su función de supervisión, control y evaluación, misma que realizará a través de la Auditoría General del Estado, Organo de Fiscalización Superior que se regirá por la presente Ley, la que regula los procedimientos bajo los cuales este Poder Legislativo, como órgano de control, realizará su importante función fiscalizadora respecto del ejercicio presupuestal y de la actuación de los Poderes del Estado, Ayuntamientos y Entes Públicos Estatales y Municipales.
+
+Que la presente Ley de Fiscalización Superior del Estado de Guerrero, se integra por Ocho Títulos, Dieciocho Capítulos, Noventa Artículos y Seis Artículos Transitorios, los que a continuación se describen:
+
+EL TITULO PRIMERO DENOMINADO "DISPOSICIONES GENERALES", CAPITULO UNICO, integrado por los artículos 1 al 4, establece el carácter público y el objeto de la presente Ley que será de fijar las bases y términos para la competencia, organización, funcionamiento y procedimientos de la Auditoría General del Estado; así como de normar la fiscalización superior que realice y la rendición de cuentas de los Poderes del Estado, Ayuntamientos y Entes Públicos Estatales y Municipales.
+
+Asimismo con el fin de darle una mayor seguridad a la ciudadanía guerrerense en la transparencia del manejo de los recursos públicos, es importante destacar el establecimiento del procedimiento para determinar los daños y perjuicios que se causen a las Entidades Fiscalizadas en su hacienda o patrimonio, además de promover o fincar responsabilidades, indemnizaciones y sanciones pecuniarias a quienes resulten responsables de la comisión de los mismos, quienes contará con los medios de defensa correspondientes. Por otra parte, se señala en la Ley quienes son Sujetos de Fiscalización Superior.
+
+EL TITULO SEGUNDO DENOMINADO "DE LA AUDITORIA GENERAL DEL ESTADO" EN SU CAPITULO I, DE SU COMPETENCIA, integrado por los artículos 5 y 6, otorga a la Auditoría General del Estado autonomía financiera, técnica y de gestión para el ejercicio de sus atribuciones; lo anterior para ser congruentes y darle cumplimiento a la reforma constitucional aprobada por esta Legislatura.
+
+Igualmente, se precisan las atribuciones conferidas a la Auditoría General del Estado, las que son, entre otras, las siguientes: controlar y fiscalizar la Cuenta Pública; establecer criterios para la realización de auditorías, determinando los procedimientos, métodos y sistemas para la fiscalización; proporcionar a los Sujetos de Fiscalización Superior y a las Entidades Fiscalizadas, la asesoría y asistencia técnica que le requieran para la administración y control de sus recursos; verificar que las operaciones contables, financieras, presupuestarias, económicas y programáticas se hayan realizado con apego a la normatividad en la materia; emitir las recomendaciones y pliegos de observaciones procedentes; determinar los daños y perjuicios que afecten al Estado y Municipios en su hacienda pública o al patrimonio de sus Entes Públicos y fincar directamente a los responsables las indemnizaciones, sanciones pecuniarias y la responsabilidad resarcitoria correspondiente; recibir y resguardar las declaraciones de situación patrimonial inicial, anual y final que presenten los Diputados y Servidores Públicos del Poder Legislativo y los Ayuntamientos; requerir a los auditores externos y a los comisarios públicos la información que estime pertinente; requerir a terceros que hubieren contratado bienes o servicios con las Entidades Fiscalizadas, la información relacionada con documentación comprobatoria; verificar el otorgamiento de las fianzas de los servidores públicos que tengan a su cargo la custodia y administración de fondos públicos.
+
+EN EL CAPITULO II "DE SU INTEGRACION Y ORGANIZACION" comprende del artículo 7 al 17, en los que se especifican que la Auditoría General del Estado contará dentro de su estructura con un Auditor General, quien será el Titular; tres Auditores Especiales; Un Director General de Asuntos Jurídicos; y Un Director General de Administración y Finanzas, quienes para el ejercicio de sus atribuciones se auxiliarán del demás personal técnico y administrativo que se requiera y que señale el Reglamento; la obligación de promover el servicio civil de carrera con sujeción a los ordenamientos legales aplicables; el procedimiento para la designación del Titular de la Auditoría General del Estado, los requisitos que deberá cumplir, determinándose el tiempo máximo de duración en el encargo. Así también, se señala que al Auditor General lo suplirá en sus ausencias temporales el Auditor Especial que señale el Reglamento. Asimismo los Auditores Especiales serán nombrados por el Presidente de la Comisión de Gobierno, debiendo reunir los mismos requisitos exigidos para ser Auditor General. Por otra parte, se determinan las prohibiciones a que estarán sujetos durante el ejercicio de sus funciones y las causas graves por las que podrán ser removidos de sus encargos desde el Auditor General hasta el nivel de jefes de departamento.
+
+EN EL CAPITULO III "DE SU FUNCIONAMIENTO", integrado por los artículos 18 al 22, se especifican las facultades asignadas al Titular de la Auditoría General del Estado, de entre las que destacan: la representación legal de la Auditoría General del Estado y las diversas atribuciones administrativas, operativas y ejecutivas propias del Organo Técnico de Fiscalización Superior. A su vez, se desglosan las atribuciones específicas que tendrán los Auditores Especiales y los Titulares de las Unidades de Asuntos Jurídicos y de Administración y Finanzas.
+
+EL TITULO TERCERO DENOMINADO "DE LA COORDINACION, VIGILANCIA Y EVALUACION", CAPITULO I, "DE LA COORDINACION", comprende los artículos 23 al 26, establece que para los efectos de lo dispuesto en la Ley Orgánica del Poder Legislativo, las Comisiones de Presupuesto y Cuenta Pública y de Vigilancia del H. Congreso del Estado, tendrán por objeto coordinar las relaciones entre éste y la Auditoría General, así como vigilar y evaluar el desempeño de la Auditoría General y constituir el enlace que permita garantizar la debida coordinación entre ambos órganos. Así mismo, se señalan las atribuciones que tendrá la Comisión de Vigilancia, además de las previstas en la Ley Orgánica del Poder Legislativo, de entre las que destacan: ser el conducto de coordinación entre el Congreso y la Auditoría General del Estado; recibir el proyecto de presupuesto anual de la Auditoría General del Estado para su inclusión en el proyecto de Presupuesto de Egresos del Congreso, así como conocer el informe anual de su ejercicio.
+
+EL CAPITULO II "DE LA VIGILANCIA Y EVALUACION", integrado por los artículos 25 y 26, especifica que la función de la Comisión de vigilancia será la de vigilar y evaluar las actividades a cargo de los servidores públicos de la Auditoría General del Estado, aplicando, en su caso, las medidas disciplinarias y sanciones previstas en la Ley de la materia. Además de señalar la competencia que tendrá la citada Comisión.
+
+Cabe hacer mención, que con lo anterior se garantiza tanto a los sujetos de fiscalización como a la ciudadanía en general, que el Organo Técnico de Fiscalización realizará sus funciones con la debida transparencia y con estricto apego a la Ley.
+
+EL TITULO CUARTO DENOMINADO "DE LAS CUENTAS PUBLICAS, SU REVISION Y FISCALIZACION SUPERIOR", CAPITULO I, "DE LAS CUENTAS PUBLICAS", integrado por los artículos 27 al 35, especifica que las cuentas públicas estarán constituidas por los estados contables, financieros, presupuestarios, programáticos y demás información que muestre el registro de las operaciones derivadas de la aplicación de las respectivas leyes de ingresos y del ejercicio de los presupuestos de egresos estatal y municipales, los efectos o consecuencias de las mismas operaciones y de otras cuentas en el activo y pasivo totales y en su patrimonio neto, incluyendo el origen y aplicación de los recursos, así como el resultado de las operaciones de los Poderes del Estado, Ayuntamientos y Entes Públicos Estatales y Municipales, demás de los estados detallados de la deuda pública. Se establecen los términos cuatrimestrales para la entrega de la cuenta pública estatal, siendo el primero en la segunda quincena del mes de mayo; el segundo en la segunda quincena del mes de septiembre; y el tercero en la segunda quincena del mes de enero. De la misma forma, se establece la obligación y un término al Poder Judicial, al Consejo Estatal Electoral, al Tribunal Estatal para la Defensa de los Derechos Humanos, así como cualquier otro órgano de carácter autónomo que reciba recursos públicos para entregar al Congreso un informe cuatrimestral del ejercicio de sus recursos presupuestarios.
+
+Asimismo, contempla la obligación del Poder Legislativo de entregar a la Auditoría General del Estado el informe cuatrimestral del ejercicio de sus recursos; a su vez la forma en que deberán presentar su informe cuatrimestral los Ayuntamientos y sus Entes Públicos.
+
+Es importante destacar que también se establece que la Auditoría General del Estado conservará en su poder las Cuentas Públicas del Estado y Ayuntamientos de cada cuatrimestre y los informes de resultados de su revisión, en tanto no prescriban sus facultades para fincar las responsabilidades derivadas de las irregularidades que se detecten.
+
+EL CAPITULO II "DE LA REVISION Y FISCALIZACION SUPERIOR DE LAS CUENTAS PUBLICAS", comprende los artículos 36 al 48, establece que la revisión y fiscalización superior de las cuentas públicas tiene por objeto determinar, entre otros aspectos: si los recursos y programas se ajustaron a los términos y montos aprobados; si existen discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los montos aprobados en las partidas presupuestales; si los recursos provenientes del financiamiento se obtuvieron en los términos autorizados y si se aplicaron con la periodicidad y forma establecidas por las leyes y disposiciones aplicables; si la captación, recaudación, administración, custodia y aplicación de recursos estatales y municipales se ajustaron a la legalidad y si no se causaron daños o perjuicios en contra del Estado y Municipios en su hacienda pública o al patrimonio de los Entes Públicos. Así también, se especifican los mecanismos a seguir por parte de la Auditoría General del Estado para el ejercicio de sus facultades; la obligación de los Poderes del Estado, Ayuntamientos y demás Entes Públicos Estatales y Municipales de proporcionar la información que sea necesaria; así como a los Organos de Control Interno de las Entidades Fiscalizadas de colaborar con el Organo Técnico de Fiscalización Superior para garantizar el debido intercambio de información que se requiera.
+
+De la misma forma se les señala la obligación de guardar estricta reserva sobre la información y documentos que con motivo del ejercicio de las atribuciones que les confiere de esta Ley conozcan, así como de sus actuaciones y observaciones a los Servidores Públicos de la Auditoría General del Estado y, en su caso, los despachos contratados para la práctica de auditorías y los Diputados al Congreso.
+
+EL CAPITULO III "DEL INFORME DEL RESULTADO DE LA REVISION Y FISCALIZACION SUPERIOR DE LAS CUENTAS PUBLICAS", integrado por los artículos 49 al 51, contempla el plazo que tendrá la Auditoría General del Estado para realizar su examen y rendir al Congreso el Informe de Resultados de que se trate, debiendo resolver el Congreso en lo concerniente en cada una de las Cuentas Públicas de los procedimientos iniciados para el fincamiento de responsabilidades, de la imposición de las sanciones respectivas, así como de la promoción de otro tipo de responsabilidades y denuncias de hechos presuntamente delictivos, que realice de conformidad con lo dispuesto en esta Ley.
+
+EL TITULO QUINTO DENOMINADO "DE LA FISCALIZACION DE RECURSOS FEDERALES EJERCIDOS POR EL ESTADO, MUNICIPIOS Y PARTICULARES" CAPITULO UNICO, compuesto por los artículos 52 y 53, señala que es facultad de la Entidad de Fiscalización Superior de la Federación revisar lo referente a las situaciones excepcionales en que incurran las entidades fiscalizadas, vía convenios de coordinación en términos de la fracción I del artículo 79 de la Constitución Federal y de la Ley de Fiscalización Superior de la Federación.
+
+EL TITULO SEXTO DENOMINADO "DE LA PRESENTACION Y TRAMITE DE DENUNCIAS" CAPITULO I DE LA PRESENTACION, integrado por los artículos 54 al 56, contempla la presentación de denuncias contra Servidores Públicos o Particulares sobre irregularidades en el ejercicio de recursos federales, estatales o municipales, las cuales deberán ser acompañadas de los elementos probatorios fehacientes; el término que tiene la Auditoría General del Estado, para resolver sobre la procedencia o improcedencia de dicha denuncia; a su vez se otorgan a la Auditoría General facultades para practicar todas las diligencias necesarias para la comprobación de la conducta o hecho materia de la denuncia.
+
+EL CAPITULO II "DEL TRAMITE", que comprende los artículos 57 al 59, establece las diligencias que se practicarán una vez admitida la denuncia; los plazos que tendrán los denunciados para presentar un informe relacionado con las imputaciones que se les formulen; y en caso de resultar responsables, el procedimiento para fincar las responsabilidades que correspondan y las multas.
+
+Importante es destacar, que con lo anterior cualquier individuo puede interponer ante el Organo de Fiscalización Superior una denuncia, siempre que la misma vaya acompañada de evidencias sostenibles, con el fin de solicitar que se inicien las investigaciones sobre irregularidades en el ejercicio y aplicación de los recursos públicos y se sancione a quien resulte responsable.
+
+EL TITULO SEPTIMO DENOMINADO "DE LA DETERMINACION DE DAÑOS Y PERJUICIOS Y DEL FINCAMIENTO DE RESPONSABILIDADES", CAPITULO I "DE LA DETERMINACION DE DAÑOS Y PERJUICIOS", integrado por los artículos 60 y 61, establece el supuesto de que si de la revisión, denuncia o fiscalización de las cuentas públicas aparecieran irregularidades que presuman la existencia de hechos u omisiones que produzcan daños y perjuicios a las haciendas públicas estatal o municipales o al patrimonio de los Entes Públicos Estatales o Municipales, la Auditoría General del Estado establecerá la presunción de responsabilidades, el señalamiento de los presuntos responsables y la determinación del monto de los daños y perjuicios; así como fincar las indemnizaciones y sanciones pecuniarias a que haya lugar.
+
+EL CAPITULO II "DE LA RESPONSABILIDAD RESARCITORIA" integrado por los artículos 62 al 65, comprende los supuestos en los que pueden incurrir en responsabilidad los servidores públicos y los particulares, personas físicas o morales, destacando entre otros: los actos u omisiones que causen daño o perjuicio estimable en dinero a las haciendas públicas estatal o municipales, o al patrimonio de los Entes Públicos Estatales o Municipales. Además se señala que el objeto que tiene la responsabilidad que se finque, es el de resarcir al Estado, a los Municipios y a los Entes Públicos Estatales o Municipales, el monto de los daños y perjuicios estimables en dinero que se haya causado.
+
+EL CAPITULO III "DEL PROCEDIMIENTO PARA EL FINCAMIENTO DE RESPONSABILIDAD RESARCITORIA", integrado por los artículos 66 al 74, establece el procedimiento administrativo que fundamentalmente otorga la garantía de audiencia y legal defensa para llegar, en caso de acreditarse la responsabilidad, al fincamiento de las sanciones resarcitorias correspondientes. Para lo no previsto en este procedimiento, en la apreciación de las pruebas y el desahogo del recurso de reconsideración, se determina la aplicación supletoria de la Ley del Tribunal de lo Contencioso Administrativo del Estado. A las multas y sanciones resarcitorias se les otorga el carácter de créditos fiscales para hacerlos efectivos conforme al procedimiento administrativo de ejecución.
+
+EL CAPITULO IV "DE OTRAS RESPONSABILIDADES", comprende el artículo 75, señala la obligación que tiene la Auditoría General del Estado de promover ante las autoridades competentes el fincamiento de otras responsabilidades de acuerdo a la Legislación vigente, en el caso de que resulten, independientemente de la responsabilidad resarcitoria a que haya lugar.
+
+EL TITULO OCTAVO DENOMINADO "DE LOS MEDIOS DE DEFENSA Y DE LA PRESCRIPCION" CAPITULO I "DEL RECURSO DE RECONSIDERACION", integrado por los artículos 77 al 87, contempla que las sanciones y demás resoluciones que emita la Auditoría General del Estado, podrán ser impugnadas mediante el recurso de reconsideración o bien mediante juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Estado, estableciendo el procedimiento legal a seguir para la sustanciación de dicho recurso y la posibilidad de solicitar la suspensión del acto impugnado.
+
+EL CAPITULO II "DE LA PRESCRIPCION", integrado del artículo 88 al 90, menciona un plazo de cinco años para la prescripción de la facultad de la Auditoría General del Estado para imponer sanciones; exceptuando otras responsabilidades de carácter político, civil, administrativo o penal, mismas que prescribirán en la forma y tiempo que fijen las leyes aplicables.
+
+Que con base en las consideraciones anteriormente vertidas, los ciudadanos Diputados integrantes de estas Comisiones Unidas de Justicia y de Presupuesto y Cuenta Pública, aprobamos en todos sus términos el presente dictamen con proyecto de Ley; toda vez que constituye un ordenamiento de vanguardia, acorde con los cambios que estamos viviendo en el Estado y en el País; además de responder a las exigencias que actualmente demanda la sociedad guerrerense. En tal virtud y para los efectos de lo dispuesto por los artículos 137 párrafo primero y 138 de la Ley Orgánica del Poder Legislativo en vigor, lo sometemos a la consideración de la Plenaria para su aprobación definitiva, solicitando su voto favorable al mismo.
+
+Por lo anteriormente expuesto y con fundamento en lo dispuesto por los artículos 47 fracción I y 51 de la Constitución Política Local; 8o. fracción I y 127 párrafos primero y segundo de la Ley Orgánica del Poder Legislativo en vigor, este Honorable Congreso, tiene a bien expedir la siguiente:
+
+LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE GUERRERO NUMERO 564
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPITULO I. DE LA COMPETENCIA Y ORGANIZACIÓN DE LA SECRETARIA
+### CAPITULO UNICO
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+###### ARTICULO 1.
 
-###### Artículo 1.
+La presente Ley es de orden público y tiene por objeto además de reglamentar el artículo 107 de la Constitución Política del Estado Libre y Soberano de Guerrero:
 
-El presente ordenamiento tiene por objeto reglamentar la organización y el funcionamiento de la Secretaría de Educación.
+I. Fijar las bases y términos para la competencia, organización, funcionamiento y procedimientos de la Auditoría General del Estado;
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+II. Normar la fiscalización superior que realice la Auditoría General del Estado, así como la rendición de cuentas de los Poderes del Estado, Ayuntamientos y Entes Públicos Estatales y Municipales; y
 
-###### Artículo 2.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-La Secretaría de Educación, como dependencia del Poder Ejecutivo del Estado, tiene a su cargo el despacho de los asuntos que le encomiendan la Ley Orgánica de la Administración Pública del Estado de México, la Ley de Educación del Estado de México y otras leyes, así como los reglamentos, decretos, acuerdos y órdenes que expida el Gobernador del Estado de México.
+III. Establecer el procedimiento para fincar las responsabilidades administrativas previstas por esta Ley, derivadas de la fiscalización de las Cuentas Anuales de la Hacienda Pública Estatal y Municipales.
 
-Cuando este ordenamiento haga referencia a la Secretaría, se entenderá a la Secretaría de Educación y Secretario, al Secretario de Educación.
+###### ARTICULO 2.
 
-###### Artículo 3.
+Para efectos de la presente Ley se entenderá por:
 
-Para el estudio, planeación y despacho de los asuntos de su dependencia, así como para entender las funciones de control y evaluación que le corresponden, la Secretaría contará con las siguientes unidades administrativas:
+I. AUDITOR GENERAL: El Titular de la Auditoría General del Estado;
 
-I. Subsecretaría de Educación Básica y Normal;
+II. AUDITORIA GENERAL DEL ESTADO: El Órgano Técnico Auxiliar del Poder Legislativo;
 
-II. Subsecretaría de Educación Media Superior y Superior;
+III. AYUNTAMIENTOS: Los Organos de Gobierno de los Municipios;
 
-III. Subsecretaría de Planeación y Administración;
+IV. COMISION DE PRESUPUESTO: La Comisión de Presupuesto y Cuenta Pública del Congreso;
 
-IV. Dirección General de Educación Básica;
+V. COMISION DE VIGILANCIA: La Comisión de Vigilancia y Evaluación de la Auditoría General del Estado;
 
-V. Dirección General de Educación Normal y Desarrollo Docente;
+VI. CONGRESO: El Congreso del Estado;
 
-VI. Dirección General de Educación Media Superior;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2008)</small>
 
-VII. Dirección General de Educación Superior;
+VII. CUENTA PUBLICA: Se integra por los estados financieros, presupuestarios, Programáticos y demás información que muestre el registro de las operaciones derivadas de la aplicación de las respectivas leyes de ingresos y del ejercicio de los presupuestos de egresos estatal y municipales, los efectos o consecuencias de las mismas operaciones y de otras cuentas en el activo y pasivo totales de las haciendas públicas estatal y municipales, y en su patrimonio neto, incluyendo el origen y aplicación de los recursos, así como el resultado de las operaciones de la (sic) Entidades Fiscalizadas así como el desempeño cumplido de los Programas de carácter sectorial o especial y los operativos anuales; además de los estados detallados de la deuda pública estatal y municipal, y con el inventario actualizado de los bienes muebles e inmuebles, por el período comprendido del primero de enero al treinta y uno de diciembre de cada ejercicio fiscal.
 
-VIII. Dirección General de Planeación y Proyectos;
+VIII. ENTES PUBLICOS ESTATALES: Los organismos públicos autónomos, organismos públicos descentralizados, empresas de participación estatal y fideicomisos públicos estatales; las demás personas del derecho público de carácter estatal, autónomas por disposición legal, así como los órganos jurisdiccionales que determinen las leyes;
 
-IX. Dirección General de Administración y Finanzas;
+IX. ENTES PUBLICOS MUNICIPALES: Los organismos públicos autónomos municipales, organismos públicos descentralizados del municipio, empresas de participación municipal, fideicomisos públicos municipales y las demás personas de derecho público de carácter municipal;
 
-X. Coordinación Jurídica y de Legislación; y
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-XI. Contraloría Interna.
+X. ENTIDADES FISCALIZADAS: Los Poderes del Estado, Ayuntamientos, Entes Públicos Estatales y Municipales, el Consejo Estatal Electoral, el Tribunal Estatal Electoral, la Comisión de Defensa de los Derechos Humanos, la Universidad Autónoma de Guerrero, el Tribunal de lo Contencioso Administrativo, el Tribunal de Conciliación y Arbitraje, los Fideicomisos Públicos y Privados que hayan recibido por cualquier título recursos públicos y, en general, cualquier persona física o moral, pública o privada que reciba, recaude, administre, custodie o aplique recursos públicos;
 
-El Secretario contará con el número de asesores y órganos técnicos y administrativos necesarios para el cumplimiento de sus atribuciones, de acuerdo al presupuesto respectivo.
+XI. ESTADO: El Estado Libre y Soberano de Guerrero;
 
-###### Artículo 4.
+XII. FISCALIZACION SUPERIOR: La atribución que realiza el Congreso a través de la Auditoría General del Estado;
 
-La Secretaría, subsecretarias, direcciones generales y demás unidades administrativas que la integran, conducirán sus actividades en forma programada, con base en lo señalado en el Plan de Desarrollo del Estado de México, así como en los programas regionales, sectoriales, institucionales y especiales a cargo de la dependencia.
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2008)</small>
+
+XIII. INFORME FINANCIERO CUATRIMESTRAL: Para los efectos de la presente Ley, deberá entenderse como el conjunto de datos que se emiten de manera cuatrimestral, en relación con las actividades derivadas del uso y manejo de los recursos financieros asignados a una Entidad Fiscalizada; la información que muestra la relación entre los derechos y obligaciones de las Entidades Fiscalizadas, la composición y variación de su patrimonio así como el desempeño en el cumplimiento de los Programas de carácter sectorial o especial y los operativos anuales en el período que se informa, qué incluirá el inventario actualizado de los bienes muebles e inmuebles municipales y de los Entes Públicos Estatales y Municipales.
+
+XIV. LEY ORGANICA: La Ley Orgánica del Poder Legislativo del Estado de Guerrero;
+
+XV. LEY: La Ley de Fiscalización Superior del Estado de Guerrero;
+
+XVI. MUNICIPIOS: La denominación genérica de la organización política y administrativa del Estado, base de su división territorial;
+
+XVII. PODERES DEL ESTADO: Los Poderes Legislativo, Judicial y Ejecutivo del Estado; se comprenden en este último las Dependencias y Entidades de la Administración Pública Estatal, en términos de lo que establece su Ley Orgánica;
+
+XVIII. PROGRAMAS: Los que se derivan de los planes de desarrollo, de carácter sectorial o especial, así como los operativos anuales a los que se sujeta la gestión o actividad de los Poderes del Estado, Ayuntamientos y Entes Públicos Estatales y Municipales;
+
+XIX. REGLAMENTO: El Reglamento Interior de la Auditoría General del Estado;
+
+XX. SECRETARIA: La Secretaría de Finanzas y Administración del Poder Ejecutivo del Estado; y (sic)
+
+XXI. SERVIDORES PUBLICOS: Los que se consideran como tales en la Constitución Política del Estado Libre y Soberano de Guerrero;
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+XXII. LEY DE RESPONSABILIDADES: La Ley Número 674 de Responsabilidades de los Servidores Públicos del Estado de Guerrero;
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+XXIII. INFORME DE RESULTADOS: Es el medio por el cual la Auditoria General del Estado, informa al Congreso a través de la Comisión de Presupuesto, el resultado obtenido del examen y evaluación de la cuenta pública anual del Estado, de sus Entes Públicos y Ayuntamientos, conforme a los objetivos de fiscalización ordenados por esta Ley;
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+XXIV. PLIEGO DE OBSERVACIONES: Es el documento mediante el cual se da a conocer a las Entidades Fiscalizadas, las irregularidades de las operaciones contables, financieras, presupuestarias, programáticas y de obra pública derivadas del proceso de fiscalización, determinando en cantidad líquida el monto de la afectación y la presunta responsabilidad de los infractores.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+###### ARTICULO 3.
+
+Los Poderes del Estado, Ayuntamientos, Entes Públicos Estatales y Municipales, el Consejo Estatal Electoral, el Tribunal Estatal Electoral, la Comisión de Defensa de los Derechos Humanos, la Universidad Autónoma de Guerrero, el Tribunal de lo Contencioso Administrativo, el Tribunal de Conciliación y Arbitraje, los Fideicomisos Públicos y Privados que hayan recibido por cualquier titulo recursos públicos y, en general, cualquier persona física o moral pública o privada que reciba, recaude, administre, custodie o aplique recursos públicos son Entidades Fiscalizadas.
+
+También son sujetos de fiscalización, aquellas personas físicas o morales que celebren cualquier tipo de actos, civiles o mercantiles o de prestación de bienes o servicios con las Entidades Fiscalizadas señaladas en el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 4.
+
+A falta de disposición expresa en esta Ley se aplicarán en forma supletoria y en lo conducente, la Ley de Ingresos del Estado, la Ley del Presupuesto de Egresos, Contabilidad Gubernamental y Deuda Pública, los Códigos Fiscales del Estado de Guerrero y Municipal, el Código de Procedimientos Contenciosos Administrativos del Estado y, la Ley de Responsabilidades de los Servidores Públicos, así como las disposiciones relativas del Derecho común, sustantivo y procesal, sean estas estatales o federales.
 
 ## TITULO SEGUNDO. DE LA AUDITORIA GENERAL DEL ESTADO
 
-### CAPITULO II. DE LAS ATRIBUCIONES DEL SECRETARIO
+### CAPITULO I. DE SU COMPETENCIA
 
-###### Artículo 5.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
-El estudio, planeación, trámite y resolución de los asuntos que son competencia de la Secretaría, así como su representación, corresponden originalmente al Secretario, quien para su mejor atención y despacho, podrá delegar sus facultades en los servidores públicos subalternos, sin perder por ello la posibilidad de su ejercicio directo, excepto aquellas que por disposición de ley o de este reglamento, deban ser ejercidas en forma directa por él.
+###### ARTICULO 5.
 
-###### Artículo 6.
+El Honorable Congreso del Estado, a través de la Auditoría General del Estado, tendrá a su cargo la revisión de los Informes Financieros cuatrimestrales, así como de la Cuenta Anual de la Hacienda Pública de las Entidades Fiscalizadas señaladas en el artículo 2 fracción X de la presente Ley.
 
-El Secretario tendrá las siguientes atribuciones no delegables:
+La Auditoría General del Estado, gozará de autonomía financiera, técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y emisión de sus resoluciones de conformidad con las facultades que le confiere esta Ley.
 
-I. Fijar, dirigir y controlar la política general de la Secretaría;
+###### ARTICULO 6.
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+La Auditoría General del Estado será competente para:
 
-II. Planear, coordinar y evaluar, en los términos de la legislación aplicable, las actividades de los organismos auxiliares adscritos sectorialmente a la Secretaría. Para tal efecto, aprobará sus programas de conformidad con los objetivos, metas y políticas que determine el Gobernador del Estado.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-III. Desempeñar las comisiones y funciones especiales que el Gobernador del Estado le confiera y mantenerlo informado del desarrollo de las mismas;
+I. Fiscalizar los Informes Financieros y las Cuentas Públicas de las Entidades Fiscalizadas. La Fiscalización se llevará a cabo mediante la ejecución de la auditoria gubernamental;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-IV. Proponer al Ejecutivo del Estado los proyectos de leyes, reglamentos, decretos, acuerdos y convenios, sobre los asuntos de la competencia de la Secretaría, así como de los organismos auxiliares de su sector.
+II. Llevar a cabo auditorías, determinando los criterios, procedimientos, métodos y sistemas necesarios para la fiscalización de los Informes Financieros cuatrimestrales y de las Cuentas Públicas, verificando que se presenten en los términos de esta Ley y demás normatividad aplicable;
 
-V. Comparecer ante la Legislatura del Estado, en los términos de los artículos 52 y 77 fracción XXII de la Constitución Política del Estado, para informar de la situación que guarda su ramo o sector correspondiente, o bien cuando se discuta una ley o se estudie un asunto relacionado con sus actividades;
+III. Proporcionar a los Sujetos de Fiscalización Superior y a las Entidades Fiscalizadas, la asesoría y asistencia técnica que le requieran para la administración y control de sus recursos, así como para la integración de las Cuentas Públicas;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-VI. Aprobar la organización de la Secretaría y de los organismos auxiliares que le sean asignados sectorialmente, así como los manuales de organización, de procedimientos y de servicios al público, en coordinación con la Secretaría de Finanzas.
+IV. Diseñar y ejecutar programas de capacitación y actualización dirigidas a su personal, así como al de las Entidades Fiscalizadas, a efecto de homologar los conocimientos y garantizar el cumplimiento de la normatividad vigente;
 
-VII. Acordar con el Gobernador del Estado, los nombramientos de los titulares de las unidades administrativas que integran la Secretaría;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+V. Solicitar y obtener la información necesaria de las Entidades Fiscalizadas para el cumplimiento de sus funciones, atendiendo las disposiciones legales que al efecto sean aplicables;
 
-VIII. Aprobar los planes y programas de estudios para los diferentes tipos y niveles educativos, así como sus contenidos regionales, en términos de la legislación aplicable.
+VI. Revisar y evaluar la Cuenta Pública mediante visitas de inspección y la aplicación de procedimientos de auditoría, generando los informes correspondientes;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+VII. Verificar que las operaciones contables, financieras, presupuestarias, económicas y programáticas que realicen los Sujetos de Fiscalización Superior y las Entidades Fiscalizadas, sean acordes con las Leyes de Ingresos y los Presupuestos de Egresos del Estado y Municipios y se efectúen con apego a las disposiciones administrativas y demás normas jurídicas aplicables;
 
-IX. Celebrar, previo acuerdo del Ejecutivo del Estado, convenios de coordinación en materia educativa, cultural y deportiva con los gobiernos federal, estatales o municipales de la Entidad, o bien, con otras entidades públicas o privadas.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-X. Definir la participación y corresponsabilidad de la sociedad en el proceso educativo en el nivel y modalidad que le compete;
+VIII. Inspeccionar obras, bienes adquiridos y servicios contratados para comprobar si las inversiones y gastos autorizados a las Entidades Fiscalizadas se han aplicado legal y eficientemente al cumplimiento de las metas de los programas aprobados;
 
-XI. Dictar las políticas y lineamientos generales para normar y coordinar la actividad educativa básica, media superior y superior, en los subsistemas estatal y federalizado;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-XII. Aprobar, en su caso, los ajustes al calendario escolar para cada ciclo lectivo de educación básica y normal, con respecto del establecido por la autoridad educativa federal, y publicarlo en el periódico oficial "Gaceta del Gobierno";
+IX. Fiscalizar los subsidios que las Entidades Fiscalizadas hayan otorgado con cargo a su presupuesto a entidades particulares, o en general, a cualquier ente público o privado, cualesquiera que sean sus fines y destino, así como verificar su aplicación al objeto autorizado;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+X. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, custodia, administración y aplicación de fondos y recursos públicos;
 
-XIII. Establecer los lineamientos y políticas para el funcionamiento de los órganos de participación, coordinación o consulta del sector educación, cultura y deporte y vigilar el cumplimiento de las obligaciones que le impongan los ordenamientos legales correspondientes.
+XI. Efectuar visitas domiciliarias a particulares para solicitar la exhibición de la documentación comprobatoria, con la finalidad de realizar sus investigaciones, sujetándose a las leyes respectivas y a las formalidades prescritas en la ley de la materia;
 
-XIV. Proponer al Gobernador del Estado el sistema de estímulos y recompensas a la labor docente;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-XV. Definir las normas y políticas para el otorgamiento de becas y la prestación del servicio social en la entidad;
+XII. Emitir las recomendaciones y pliegos de observaciones que se deriven de la fiscalización de los Informes Financieros cuatrimestrales y de la Cuenta Anual de la Hacienda Pública Estatal y Municipales, así como los informes de Resultados y dictámenes de las auditorías practicadas;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-XVI. Certificar los documentos que correspondan al ejercicio de sus funciones.
+XIII. Determinar los daños y perjuicios que afecten a las Entidades Fiscalizadas en su patrimonio o hacienda pública, derivados de la auditoria de las Cuentas Públicas y fincar directamente a los responsables las sanciones administrativas previstas en esta Ley y en la Ley de Responsabilidades;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+XIV. Promover y notificar el fincamiento de las responsabilidades ante las autoridades e instancias competentes;
 
-XVII. Aprobar el anteproyecto de presupuesto anual de egresos de la Secretaría y de las comisiones que presida, remitiéndolo a la Secretaría de Finanzas para su revisión, así como sancionar el de los organismos auxiliares bajo su coordinación.
+XV. (DEROGADA, P.O. 28 DE ABRIL DE 2006)
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+XVI. Conocer y resolver sobre el recurso de reconsideración que se interponga en contra de las resoluciones y sanciones que aplique, así como condonar total o parcialmente las multas de acuerdo al Reglamento;
 
-XVIII. Crear, integrar y presidir las comisiones que sean necesarias para el buen funcionamiento de la Secretaría.
+XVII. Solicitar al Congreso a través de la Comisión de Presupuesto la autorización para requerir a la Secretaría la retención temporal de recursos financieros que ingresen a la Hacienda Estatal y que correspondan a las Dependencias y Entidades de la Administración Pública Estatal, con excepción de los recursos contemplados en la vigente Ley de Coordinación Fiscal y los destinados al pago de sueldos y salarios, cuando en el manejo de dichos recursos se hayan detectado desviaciones a los fines establecidos, conforme a las disposiciones mencionadas en esta Ley y a la normatividad aplicable.
 
-XIX. Determinar, con la Coordinación General de Comunicación Social, los lineamientos que habrán de regir la difusión de las actividades y funciones propias de las Secretaría;
+Esta medida cesará cuando se corrijan las irregularidades cometidas o se haya resarcido el daño patrimonial causado;
 
-XX. Proporcionar los datos de las labores desarrolladas por la Secretaría, para la formulación del informe de Gobierno;
+XVIII.- (DEROGADA, P.O. 24 DE MARZO DE 2009)
 
-XXI. Resolver las dudas que se susciten, con motivo de la interpretación o aplicación de este reglamento, así como los casos no previstos en el mismo; y
+XIX. Celebrar Convenios o Acuerdos de Coordinación con la Auditoría Superior de la Federación y con Organismos de Fiscalización que cumplan funciones similares dentro y fuera del Estado, para el mejor cumplimiento de sus fines;
 
-XXII. Las demás que le confieran las disposiciones aplicables y el titular del Poder Ejecutivo Estatal, en el ámbito de sus atribuciones.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-### CAPITULO III. DE LAS ATRIBUCIONES GENERICAS DE LOS SUBSECRETARIOS
+XX. Establecer los criterios para la entrega recepción de las Cuentas Públicas de las Entidades Fiscalizadas;
 
-###### Artículo 7.
+XXI. Recibir y resguardar las declaraciones de situación patrimonial inicial, anual y final, que deben presentar los Diputados y Servidores Públicos del Poder Legislativo del Estado, así como los de los Ayuntamientos, en los términos de la Ley Orgánica y de la Ley de Responsabilidades de los Servidores Públicos del Estado de Guerrero;
 
-Al frente de cada subsecretaría habrá un subsecretario, quien tendrá las siguientes atribuciones genéricas:
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-I. Acordar con el Secretario el despacho de los asuntos que le sean encomendados e informarle de las actividades que realicen las unidades administrativas a su cargo;
+XXII. Vigilar que los titulares de las Entidades Fiscalizadas cumplan oportunamente con el procedimiento de entrega-recepción al separarse del cargo;
 
-II. Formular y proponer al Secretario los proyectos de los programas anuales de actividades y el presupuesto que les corresponda, así como gestionar los recursos que sean necesarios para el eficaz desarrollo de sus funciones;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-III. Emitir los dictámenes, opiniones o informes que le sean solicitados por el Secretario;
+XXIII. Establecer en coordinación con las entidades fiscalizadas, la unificación de criterios en las normas, procedimientos, métodos y sistemas de contabilidad; así como en las normas de auditoría gubernamental y de archivo de libros y documentos justificativos y comprobatorios del ingreso y del gasto público;
 
-IV. Suscribir documentos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por delegación o que le correspondan por suplencia;
+XXIV. Requerir a los Auditores Externos de las Entidades Fiscalizadas copias de los informes o dictámenes de las auditorías y revisiones por ellos practicadas y las aclaraciones que se estimen pertinentes. A los Comisarios en su caso, les requerirá información necesaria con motivo del desempeño de sus funciones dentro de la Administración Pública Paraestatal;
 
-V. Proporcionar la información y el apoyo que le sean requeridos por otras dependencias del Ejecutivo del Estado, previo acuerdo del titular de la Secretaría;
+XXV. Requerir a terceros que hubieren contratado bienes o servicios mediante cualquier título legal con las Entidades Fiscalizadas y, en general, a cualquier Ente Público o Privado que haya ejercido o percibido recursos públicos la información relacionada con la documentación comprobatoria a efecto de realizar las compulsas correspondientes;
 
-VI. Representar al Secretario en los asuntos que este le encomiende;
+XXVI. Emitir dictamen técnico de opinión sobre la constitución y operación de los fondos y fideicomisos en los que intervengan el Estado, los Municipios o los Organismos Descentralizados;
 
-VII. Someter a la consideración del Secretario los nombramientos de los titulares de las unidades administrativas que correspondan a su área;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-VIII. Someter a la aprobación del Secretario los estudios, proyectos y acuerdos internos relacionados con el área de su responsabilidad;
+XXVII. Establecer los criterios y montos a los que debe sujetarse el otorgamiento de fianzas de los servidores públicos que tengan a su cargo la custodia y administración de fondos públicos, verificando su cumplimiento e (sic) efecto de garantizar el buen manejo de los recursos públicos;
 
-IX. Establecer, de acuerdo al ámbito de su competencia, las normas, políticas, criterios, sistemas y procedimientos de carácter técnico que deban regir el funcionamiento y operación de las unidades administrativas que tenga adscritas;
+XXVIII. Apoyar al Comité de Administración en la evaluación del gasto público del Congreso;
 
-X. Desempeñar las comisiones que el Secretario le encomiende, e informarle respecto de su desarrollo;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2009)</small>
 
-XI. Rendir por escrito los informes diario, semanal, mensual y anual de las actividades realizadas por la subsecretaría a su cargo, así como los que le sean requeridos eventualmente; y
+XXIX.- Presentar a las Comisiones de Presupuesto y de Vigilancia los Informes de Resultados Anuales relativos a la presentación y revisión de las Cuentas Públicas de las Entidades Fiscalizadas, así como de aquellos que se desprendan de la fiscalización de los Informes Financieros cuatrimestrales;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-XII. Certificar los documentos que correspondan al ejercicio de sus funciones.
+XXIX Bis.- Informar permanentemente a la ciudadanía, a través de medios electrónicos y escritos, acerca de su Programa de Trabajo, las acciones derivadas de éste y de los Informes de Resultados de la revisión de las Cuentas Públicas que haya turnado, respectivamente, a las Comisiones de Presupuesto y la de Vigilancia;
 
-> <small>(ADICIONADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-XIII. Las demás que le confieran las disposiciones aplicables y aquellas que le encomiende el titular de la Secretaría.
+XXX. Informar a las Comisiones de Presupuesto y de Vigilancia sobre la contratación y resultado de las actuaciones de los servicios de Auditores Externos para la práctica de auditorías;
 
-###### Artículo 8.
+XXXI. Elaborar su Reglamento;
 
-A la Subsecretaría de Educación Básica y Normal le corresponde planear, programar, dirigir, controlar y evaluar las funciones de educación básica y normal de los subsistemas estatal y federalizado, propiciar el desarrollo del magisterio que atiende a estos tipos educativos, así como coadyuvar con la Secretaría en la coordinación de los organismos auxiliares que le correspondan, con apego a las leyes, reglamentos y demás ordenamientos aplicables.
+XXXII. Interpretar esta Ley para efectos administrativos, así como aclarar y resolver las consultas sobre la aplicación del Reglamento;
 
-Quedan adscritas a la Subsecretaría de Educación Básica y Normal:
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2009)</small>
 
-I. Dirección General de Educación Básica; y
+XXXIII.- Auditar y evaluar anualmente el cumplimiento de los objetivos y metas fijados en los programas estatales y municipales, a efecto de verificar el desempeño de los mismos y la legalidad en el uso de los recursos públicos;
 
-II. Dirección General de Educación Normal y Desarrollo Docente.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+XXXIV. Solicitar el apoyo a las entidades y dependencias del Gobierno Federal, Estatal y/o Municipal, para el cumplimiento de los objetivos que establece esta Ley;
 
-###### Artículo 9.
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-A la Subsecretaría de Educación Media Superior y Superior le corresponde planear, programar, dirigir, controlar y evaluar las funciones de educación media superior y superior, propiciar el desarrollo del magisterio que atiende a estos tipos educativos, organizar y controlar la prestación del servicio social, así como coadyuvar con la Secretaría en la coordinación de los organismos auxiliares que le correspondan, con apego a las leyes, reglamentos y demás ordenamientos aplicables.
+XXXV. Reglamentar el registro y la contratación de despachos externos de auditores independientes para lograr el cumplimiento de sus objetivos;
 
-Quedan adscritas a la Subsecretaría de Educación Media Superior y Superior:
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-I. Dirección general de Educación Media Superior; y
+XXXVI. Expedir la reglamentación necesaria para el cumplimiento de la presente Ley;
 
-II. Dirección General de Educación Superior.
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+XXXVII. Verificar el Marco Integrado de Control Interno, para la organización y funcionamiento de las Entidades Fiscalizadas; y
 
-###### Artículo 10.
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-A la Subsecretaría de Planeación y Administración le corresponde proponer, coordinar y evaluar los planes, programas y proyectos del sector; coordinar y evaluar acciones en materia de equidad de género, seguro escolar, tecnologías de la información, desarrollo administrativo; atender a la administración de los recursos humanos, financieros y materiales de la Secretaría, así como coadyuvar con esta en la coordinación de los organismos auxiliares que le correspondan, con apego a las leyes, reglamentos y demás ordenamientos aplicables.
+XXXVIII. Las demás que le correspondan de acuerdo con esta Ley y su reglamento.
 
-Quedan suscritas a la Subsecretaría de planeación y Administración:
+### CAPITULO II. DE SU INTEGRACION Y ORGANIZACION
 
-I. Dirección General Planeación y Proyectos; y
+###### ARTICULO 7.
 
-II. Dirección General de Administración y Finanzas.
+La Auditoría General del Estado contará para el ejercicio de sus atribuciones con:
 
-###### Artículo 11.
+I. Un Auditor General;
 
-La Coordinación Jurídica y de Legislación y la Contraloría Interna quedan adscritas directamente a la Secretaría.
+II. Tres Auditores Especiales;
 
-###### Artículo 12.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-Al frente de cada dirección general, habrá un director general, quien se auxiliará de los directores de área, subdirectores, jefes de departamento y demás servidores públicos que las necesidades del servicio requieran, de acuerdo a la organización interna aprobada por el Secretario y al presupuesto de egresos correspondiente.
+III. Un Director de Asuntos Jurídicos;
 
-###### Artículo 13.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-Los directores generales ejercerán las atribuciones de su competencia, las que les señalen los ordenamientos aplicables y las funciones que acuerden con el Secretario o subsecretario correspondiente.
+IV. Un Director de Administración y Finanzas, y
 
-###### Artículo 14.
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-Corresponde a los titulares de las direcciones generales el ejercicio de las siguientes atribuciones genéricas:
+V. Los demás servidores públicos necesarios para el cumplimiento de sus objetivos, de conformidad con el presupuesto autorizado.
 
-I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones encomendadas a la dirección general a su cargo;
+Además, tendrá el apoyo de Directores, Subdirectores, Jefes de Departamento, Auditores, Supervisores y las unidades administrativas adscritas a los mismos, así como de los Servidores Públicos que al efecto señale el Reglamento, de conformidad con el presupuesto autorizado.
 
-II. Acordar con su superior inmediato, la atención de los asuntos cuya tramitación corresponda a la unidad administrativa a su cargo;
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
-III. Emitir los dictámenes, opiniones e informes que les sean solicitados por su superior inmediato;
+###### ARTICULO 8.
 
-IV. Formular y proponer a su superior inmediato los anteproyectos de programas anuales de actividades y de presupuesto que les corresponda, así como gestionar los recursos que les sean necesarios para el eficaz desarrollo de sus funciones;
+La Auditoria General del Estado establecerá el Servicio Civil de Carrera, cuya premisa básica será la profesionalización del servidor público de Carrera, a fin de garantizar la continuidad y funcionamiento eficaz y eficiente de los programas, planes y procesos sustantivos para la Auditoria General; asegurando que el desempeño de sus miembros se apegue a los principios de legalidad, honradez, imparcialidad y profesionalismo y otorgue permanencia, estabilidad y certeza jurídica a sus miembros.
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+###### ARTICULO 9.
 
-V. Someter a la consideración de su superior inmediato el ingreso, licencias, promociones, remociones y cese del personal administrativo de la dirección general a su cargo, conforme a las disposiciones legales aplicables.
+Los servidores públicos de la Auditoría General del Estado se clasifican como trabajadores de confianza y de base, se regirán por esta Ley y la Ley de Trabajo de los Servidores Públicos del Estado de Guerrero en vigor.
 
-VI. Proponer a su superior inmediato las modificaciones administrativas que tiendan a lograr el mejor funcionamiento de la dirección general a su cargo;
+###### ARTICULO 10.
 
-VII. Asesorar y apoyar técnicamente, en asuntos de su competencia, a los servidores públicos que lo soliciten;
+El Titular de la Auditoría General del Estado será el Auditor General nombrado por el Congreso bajo el procedimiento siguiente:
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+I. La Comisión de Gobierno del Congreso formulará la propuesta correspondiente al Pleno del mismo;
 
-VIII. Colaborar con el Subsecretario correspondiente en el desempeño de las funciones que el titular de la Secretaría tenga encomendadas como coordinador de sector, respecto a los organismos auxiliares del Poder Ejecutivo.
+II. El Congreso aprobará, en su caso, por el voto de la mayoría de sus integrantes el nombramiento del Auditor General, quien protestará su cargo ante el Pleno del mismo y entrará en funciones al siguiente día hábil de su nombramiento; y
 
-IX. Tramitar y resolver, en su caso, los recursos administrativos que se les presenten;
+III. En caso de que el candidato no obtenga la votación requerida, el Congreso instruirá a su Comisión de Gobierno a que presente una nueva propuesta.
 
-X. Proporcionar, previo acuerdo del Secretario o del subsecretario que corresponda, la información, datos o la cooperación técnica que les sean requeridos por otras dependencias del Poder Ejecutivo del Estado, conforme a las políticas establecidas a este respecto;
+El mismo procedimiento se seguirá para la ratificación del nombramiento de Auditor General.
 
-XI. Rendir por escrito a su superior inmediato los informes diario, semanal, mensual y anual de las actividades realizadas por la dirección general a su cargo, así como los requeridos eventualmente; y
+###### ARTICULO 11.
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+El nombramiento del Auditor General recaerá sobre la persona que cumpla los requisitos siguientes:
 
-XII. Certificar los documentos que correspondan al ejercicio de sus funciones.
+I. Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles;
 
-> <small>(ADICIONADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+II. Tener cuando menos treinta y cinco años cumplidos al día de su designación;
 
-XIII. Participar, en su caso, en los actos y procedimientos relacionados con el ingreso, promoción, permanencia y reconocimiento del personal docente conforme a las disposiciones legales aplicables.
+III. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo cualquiera que haya sido la pena;
 
-> <small>(ADICIONADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+IV. Haber residido en el Estado durante los dos años anteriores al día de su nombramiento;
 
-XIV. Las demás que les confieran las disposiciones legales aplicables y aquellas que les encomiende el titular de la Secretaría o de la Subsecretaría correspondiente.
+V. Contar al día de su designación con Titulo y cédula profesional en alguna de las siguientes profesiones: Contaduría Pública, Economía, Derecho o Administración, expedidos y registrados legalmente;
 
-###### Artículo 15.
+VI. Acreditar como mínimo cinco años de experiencia en el control o fiscalización de recursos públicos;
 
-Corresponde a la Dirección General de Educación Básica, el ejercicio de las siguientes atribuciones:
+VII. No haber sido titular de ninguna Dependencia o Entidad de la Administración Pública Estatal, Senador, Diputado Federal o Estatal, Presidente Municipal; tampoco dirigente de algún partido político ni haber sido postulado para cargo de elección popular dentro de los cuatro meses anteriores a la propia designación;
 
-I. Organizar, operar, desarrollar y supervisar los servicios de educación básica en el subsistema educativo estatal, conforme a las políticas, lineamientos y disposiciones aplicables;
+VIII. No tener parentesco consanguíneo o de afinidad hasta tercer grado, con los titulares de los Poderes del Estado o Secretarios de Despacho; y
 
-II. Participar en la formulación, actualización y difusión de los planes y programas de estudio en educación básica, de acuerdo con las normas institucionales vigentes;
+IX. No ser ministro de culto religioso alguno.
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+Una vez nombrado el Auditor General, éste no podrá desempeñar ningún otro empleo, cargo o comisión pública por el que se disfrute salario, excepción hecha de las actividades docentes o de beneficencia pública.
 
-III. Aplicar las normas pedagógicas, métodos, materiales didácticos, así como los instrumentos de evaluación del aprendizaje, que se requieran en el proceso educativo de tipo básico.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV. Promover y apoyar el establecimiento de instituciones de educación especial, destinadas a niños y jóvenes con requerimientos en esta modalidad educativa;
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2009)</small>
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+###### ARTICULO 12.
 
-V. Desarrollar los contenidos programáticos de educación física, artística y de salud, así como de computación y de idioma extranjero, e impartirlos en instituciones educativas de educación básica.
+El Auditor General durará en su encargo siete años. Asimismo, podrá ser removido del cargo por las causas a que se refiere el artículo 16 de esta Ley o por las causas y conforme a los procedimientos previstos en el Título Décimo Tercero de la Constitución Política del Estado.
 
-VI. Formular y proponer a su superior inmediato los estudios y proyectos de creación, expansión, fusión, suspensión o cancelación de planteles de educación básica en la entidad;
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
-VII. Coadyuvar en el fortalecimiento de la participación y corresponsabilidad de la sociedad en el proceso de educación básica;
+###### ARTICULO 13.
 
-VIII. Llevar a cabo la elaboración y actualización de publicaciones y otros materiales de apoyo didáctico para impartición de la educación básica en la entidad, de conformidad con los planes y programas de estudio autorizados;
+Al Auditor General lo suplirá en sus ausencias temporales el Auditor Especial que el mismo designe, siempre y cuando éstas no excedan de quince días hábiles. Si la ausencia por causas justificadas fuere mayor, se dará aviso a la Comisión de Gobierno del Congreso, para que el Auditor Especial continúe en el encargo. Tratándose de ausencia definitiva, se procederá a la selección y nombramiento del Auditor General, con base al procedimiento establecido en el artículo 10 de esta Ley, en el siguiente período ordinario de sesiones.
 
-IX. Llevar a cabo la acreditación, registro y certificación de los conocimientos y aptitudes adquiridas por los alumnos de educación básica, expidiendo, en su caso, los certificados o constancias correspondientes;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-X. Coadyuvar en la supervisión de la vigilancia del cumplimiento de las disposiciones y criterios que regulan las relaciones entre la Secretaría y los planteles particulares que impartan educación básica, con autorización o reconocimiento de validez oficial; y
+###### ARTICULO 14.
 
-XI. Las demás que les señalan otros ordenamientos aplicables y las que le encomiende el secretario o el Subsecretario de Educación Básica y Normal.
+Los Auditores Especiales y los Directores de Asuntos Jurídicos y de Administración y Finanzas serán nombrados a propuesta del Auditor General y con la opinión de la Comisión de Vigilancia, atendiendo lo dispuesto por los artículos 5 segundo párrafo y por el artículo 24 fracción VII de la presente Ley. Para ejercer el cargo de Auditor Especial se deberán cubrir los mismos requisitos exigidos para ser Auditor General. Los Directores de Asuntos Jurídicos y de Administración y Finanzas, deberán reunir los requisitos que al efecto establezca el Reglamento Interior de la Auditoría General del Estado.
 
-###### Artículo 16.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2006)</small>
 
-Corresponde a la dirección General de Educación Normal y Desarrollo Docente, el ejercicio de las siguientes atribuciones:
+###### ARTICULO 15.
 
-I. Organizar, operar, desarrollar, y supervisar los servicios de educación normal en el subsistema educativo estatal, conforme a las políticas, lineamientos y disposiciones aplicables;
+Los servidores públicos de la Auditoria General del Estado durante el ejercicio de su cargo tendrán prohibido:
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+I. Participar en actos políticos partidistas y hacer cualquier tipo de propaganda y promoción partidista en días y horas hábiles;
 
-II. Participar en la elaboración, actualización y difusión de los planes y programas de educación normal, de acuerdo con la normatividad aplicable.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+II. Desempeñar otro empleo o cargo en los sectores público, privado o social, salvo los de docencia, los no remunerados en asociaciones civiles en general y agrupaciones artísticas o de beneficencia;
 
-III. Aplicar las normas pedagógicas, métodos, materiales didácticos, así como los instrumentos de evaluación del aprendizaje que se requieran en la educación normal.
+III. Hacer del conocimiento de terceros o difundir de cualquier forma la información confidencial o reservada que tenga bajo su custodia la Auditoría General del Estado para el ejercicio de sus atribuciones, la cual deberá utilizarse sólo para los fines a que se encuentra afecta;
 
-IV. Formular y proponer a su superior inmediato los estudios y proyectos de creación, expansión, fusión, suspensión o cancelación de planteles de educación normal en la entidad;
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+IV. Omitir la formulación de observaciones sobre las situaciones irregulares que detecten, con motivo de la fiscalización de los Informes Financieros cuatrimestrales y de las Cuentas Públicas de las Entidades Fiscalizadas.
 
-V. Diseñar y desarrollar programas de actualización permanente, de superación y certificación académica para los docentes que laboren en el subsistema educativo estatal, de conformidad con las disposiciones legales aplicables.
+###### ARTICULO 16.
 
-VI. Organizar la elaboración y adecuación de publicaciones y otros materiales de apoyo didáctico, para la impartición de educación normal en la entidad, de conformidad con los planes y programas de estudio autorizados;
+Los Servidores Públicos señalados en el artículo anterior podrán ser removidos de su cargo cuando de manera fundada y motivada se acredite alguna de las causas siguientes:
 
-VII. Llevar a cabo la acreditación, registro y certificación de los conocimientos y aptitudes adquiridas por los alumnos de educación normal, expidiendo, en su caso, los certificados, títulos o grados correspondientes;
+I. Incurrir en alguno de los supuestos establecidos en el artículo 15 de esta Ley;
 
-VIII. Coadyuvar en la supervisión y vigilancia del cumplimiento de las disposiciones y criterios que regulan las relaciones entre la Secretaría y los planteles particulares que imparta educación normal, con autorización o reconocimiento de validez oficial;
+II. Utilizar en beneficio propio o de terceros la documentación e información confidencial en los términos de la presente Ley y sus disposiciones reglamentarias;
 
-IX. Desarrollar y operar el programa de carrera magisterial en el subsistema educativo estatal;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-X. (DEROGADA, G.G. 17 DE SEPTIEMBRE DE 2014)
+III. Sin causa justificada no fincar indemnizaciones, sanciones pecuniarias o responsabilidad resarcitoria en el ámbito de su competencia y en los casos previstos por la Ley y demás disposiciones reglamentarias, cuando esté debidamente comprobada la responsabilidad e identificado el responsable de aquellas Entidades Fiscalizadas que hayan sido sujetos a revisión, además de considerar los alcances de revisión de conformidad a las normas de auditoría generalmente aceptadas;
 
-XI. Las demás que le señalen otros ordenamientos aplicables y las que le encomiende el Secretario o el Subsecretario de Educación Básica y Normal.
+IV. Ausentarse de sus labores sin causa justificada por más de tres días hábiles en un período de treinta;
 
-###### Artículo 17.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-Corresponde a la Dirección General de Educación Media Superior, el ejercicio de las siguientes atribuciones:
+V. Abstenerse de presentar en los términos de la presente Ley, sin causa justificada, los Informes de Resultados de las revisiones de las Cuentas Públicas;
 
-I. Organizar, operar, desarrollar y supervisar los servicios de educación media superior, en el subsistema estatal, conforme a las políticas, lineamientos y disposiciones aplicables;
+VI. Sustraer, destruir, ocultar, difundir o utilizar indebidamente la documentación e información que por razón de su cargo tenga a su cuidado o que exista en la Auditoría General del Estado, con motivo del ejercicio de sus atribuciones; y
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+VII. Aceptar la injerencia de los miembros de los partidos políticos, en el ejercicio de sus funciones y de esta circunstancia conducirse con parcialidad en el proceso de revisión de la Cuenta Pública y en los procedimientos de fiscalización e imposición de sanciones a que se refiere esta Ley.
 
-II. Participar en la formulación, actualización y difusión de los planes y programas de estudio en el tipo medio superior, de acuerdo con la normatividad aplicable.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2009)</small>
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+###### ARTICULO 17.
 
-III. Aplicar las normas pedagógicas, métodos, materiales didácticos, así como instrumentos de evaluación del aprendizaje, que se requieran en el proceso educativo del tipo medio superior.
+El Congreso dictaminará sobre la existencia de los motivos de la remoción del Auditor General por las causas señaladas en esta Ley, dándoselas a conocer y otorgándole el derecho de audiencia. La remoción requerirá del voto de la mayoría calificada de los Diputados presentes en la Sesión respectiva.
 
-IV. Formular y proponer a su superior inmediato los estudios y proyectos de creación, expansión, fusión, suspensión o cancelación de instituciones o planteles de educación media superior en la entidad;
+Los Auditores Especiales, los Directores de Asuntos Jurídicos y de Administración y Finanzas, y demás servidores públicos podrán ser removidos por causa justificada, por el Auditor General contando con la ratificación de la Comisión de Vigilancia, con base en lo establecido en los artículos 5, 24 capítulo III BIS de la presente Ley de la presente Ley (sic).
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+### CAPITULO III. DE SU FUNCIONAMIENTO
 
-V. Diseñar, desarrollar y ejecutar programas de actualización permanente y de superación y certificación académica para los docentes que laboren en los planteles de educación media superior de conformidad con las disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2009)</small>
 
-VI. Coadyuvar en el fortalecimiento de la participación y corresponsabilidad de la sociedad y del sector productivo en el proceso educativo en el nivel medio superior;
+###### ARTICULO 18.
 
-VII. Llevar a cabo la acreditación, registro y certificación de los conocimientos y aptitudes adquiridas por los alumnos de educación media superior, expidiendo, en su caso, los certificados o títulos correspondientes;
+La Auditoría General del Estado elaborará su proyecto de presupuesto anual y su Programa Operativo Anual, mismos que contendrán, de conformidad con las previsiones de gasto, los recursos necesarios para cumplir a cabalidad con su función así como las metas a cumplir, los cuales serán remitidos por el Auditor General, a través de la Comisión de Vigilancia, para su inclusión en el proyecto de Presupuesto de Egresos del Congreso. La Auditoría General del Estado ejercerá autónomamente su presupuesto aprobado, sujetándose a las disposiciones legales aplicables.
 
-VIII. Coadyuvar en la supervisión y la vigilancia del cumplimiento de las disposiciones y criterios que regulan las relaciones entre la Secretaría y los planteles particulares que impartan educación media superior, con autorización o reconocimiento de validez oficial;
+###### ARTICULO 19.
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+El Auditor General tendrá las facultades siguientes:
 
-IX. Promover mecanismos y procedimientos de coordinación con instituciones que impartan la educación media superior en la Entidad y el país para concertar la planeación y mejoramiento de este tipo educativo.
+I. Representar legalmente a la Auditoría General del Estado ante las Entidades Fiscalizadas, las Autoridades Federales y Locales, las Entidades Federativas, los Ayuntamientos y demás personas físicas y morales;
 
-X. Las demás que le señalen otros ordenamientos aplicables y las que le encomiende el Secretario o el Subsecretario de Educación Media Superior y Superior.
+II. Fungir como representante legal de la Auditoría General del Estado en las controversias donde ésta sea parte, con facultades generales y especiales, pudiendo delegar dichas facultades, de acuerdo con lo establecido en las leyes aplicables;
 
-### CAPITULO IV. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS SUBSECRETARIAS Y DE LA ADSCRIPCION DE LAS UNIDADES ADMINISTRATIVAS
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+III. Expedir certificaciones de los documentos que obren en los archivos de la Auditoría General del Estado a quienes acrediten su interés jurídico pudiendo delegar esta facultad al Director de Asuntos Jurídicos;
 
-###### Artículo 18.
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2009)</small>
 
-Corresponde a la Dirección General de Educación Superior, el ejercicio de las siguientes atribuciones:
+IV. Presentar el proyecto de presupuesto anual y el Programa Operativo Anual de la Auditoría General del Estado;
 
-I. Coordinar, desarrollar y apoyar los servicios de educación superior, conforme a las políticas, lineamientos y disposiciones aplicables;
+V. Administrar los bienes y recursos a cargo de la Auditoría General del Estado, resolver sobre la adquisición y enajenación de bienes muebles y la prestación de servicios; así como gestionar la incorporación, destino o desincorporación de bienes inmuebles, sujetándose a lo previsto en esta Ley, el Reglamento y demás disposiciones legales aplicables en la materia;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+VI. Formular y ejecutar el programa anual de actividades de la Auditoría General del Estado;
 
-II. Participar en la elaboración, actualización y difusión de los planes y programas de estudio, así como de programas de investigación en el tipo superior, de acuerdo con las normas institucionales vigentes.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+VII. Requerir por escrito a las Entidades Fiscalizadas para que proporcionen en tiempo y forma toda la documentación o información necesaria para cumplir con los objetivos de la Auditoría General del Estado, imponiendo las medidas de apremio establecidas por esta Ley a quienes no cumplan;
 
-III. Diseñar y proponer las normas pedagógicas, métodos, materiales y auxiliares didácticos, así como los instrumentos de evaluación del aprendizaje, que se requieran en el proceso educativo de tipo superior.
+VIII. Autorizar las nóminas y movimientos del personal de la Auditoría General del Estado;
 
-IV. Desarrollar sistemas y procedimientos para normar la planeación, administración y evaluación de las instituciones de educación superior y de aquéllas orientadas a la investigación de la ciencia y la tecnología del sector;
+IX. Verificar que se hayan otorgado las garantías por quienes administren o custodien fondos públicos;
 
-V. Formular y proponer a su superior inmediato los estudios y proyectos, de creación, expansión, fusión, suspensión o cancelación de instituciones o planteles de educación superior en la entidad;
+X. Fijar las normas técnicas, metodologías y procedimientos a que deban sujetarse las visitas de inspección, de evaluación y de auditoría, las que se programarán y realizarán apoyándose preferentemente en los avances tecnológicos disponibles y aplicables;
 
-VI. Diseñar y proponer programas de actualización permanente y de superación y de certificación académica para los docentes que laboren en los planteles de educación superior;
+XI. Proponer al Congreso para su aprobación el Reglamento Interior de la Auditoría General del Estado. El cual deberá ser publicado en el Periódico Oficial del Gobierno del Estado;
 
-VII. Coadyuvar en el fortalecimiento de la participación y corresponsabilidad de la sociedad y del sector productivo en el proceso de educación superior;
+XII. Expedir los manuales de organización y de procedimientos administrativos necesarios para el funcionamiento de la Auditoría General del Estado;
 
-VIII. Coadyuvar en la supervisión y vigilancia del cumplimiento de las disposiciones y criterios que regulan las relaciones entre la Secretaría y los planteles particulares que impartan educación superior, con autorización o reconocimiento de validez oficial;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2009)</small>
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+XIII. Nombrar o remover, contando con la ratificación de la Comisión de Vigilancia, a los Auditores Especiales, a los Directores de Administración y Finanzas, mismos que serán seleccionados mediante concurso de méritos, atendiendo lo dispuesto por los artículos 5, 14, 17, 24 y Capítulo III de la presente Ley;
 
-IX. Promover mecanismos y procedimientos de coordinación con instituciones que impartan la educación superior en la Entidad y el país, para concertar la planeación, evaluación y el mejoramiento de este tipo educativo.
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2009)</small>
 
-X. Las demás que le señalen otros ordenamientos aplicables y las que le encomiende el Secretario o el Subsecretario de Educación Media Superior y Superior.
+XIV. Nombrar o remover por causa justificada, al resto del personal técnico, administrativo y de apoyo de la Auditoría General del Estado;
 
-###### Artículo 19.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-Corresponde a la Dirección General de Planeación y Proyectos, el ejercicio de las siguientes atribuciones:
+XV. Promover la capacitación al personal directivo, operativo, de base y de confianza, así como al personal que designen las Entidades Fiscalizadas con el propósito de impulsar una participación adecuada a los fines de la fiscalización; asimismo, procurar el desarrollo de los recursos humanos por medio de acciones específicas, diplomados, talleres y otras actividades análogas;
 
-I. Coordinar y apoyar la elaboración de los planes y programas del sector educativo;
+XVI. Participar en foros, asambleas, congresos, cursos, talleres y demás reuniones que sean acordes con sus atribuciones;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2009)</small>
 
-II. Verificar y evaluar el cumplimiento de los planes, programas, objetivos y metas de la Secretaría y de sus organismos auxiliares, informando al Subsecretario.
+XVII. Entregar al Congreso por conducto de la Comisión de Vigilancia, el último día del mes de febrero, la cuenta pública del presupuesto ejercido por la Auditoría General del Estado, correspondiente al ejercicio del año inmediato anterior;
 
-III. Dirigir y desarrollar el sistema de información relacionado con la planeación del sector educativo, así como elaborar y publicar las estadísticas del mismo;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-IV. Formular los estudios y proyectos especiales que requiera el sector y proponer los mecanismos para su instrumentación;
+XVIII. Establecer las reglas técnicas, procedimientos, métodos, sistemas de contabilidad y archivo de los libros y documentos justificativos y comprobatorios del ingreso y del gasto público, que deberán observar las Entidades Fiscalizadas;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+XIX. Solicitar a los Sujetos de Fiscalización Superior y a las Entidades Fiscalizadas la información y el auxilio que se requiera para el ejercicio de la función de fiscalización superior;
 
-V. Vincular los planes y programas del sector con el Plan de Desarrollo del Estado de México.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+XX. Ordenar la práctica de auditorías, así como la realización de visitas e inspecciones necesarias para la fiscalización de los Informes Financieros cuatrimestrales y de la cuenta pública;
 
-VI. Emitir los dictámenes y opiniones que le solicite el Secretario y las unidades administrativas y organismos auxiliares sectorizados a la Secretaría.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+XXI. Formular y entregar a la Comisión de Presupuesto los Informes Anuales del Resultado de la fiscalización de las Cuentas Públicas, dentro de los ciento veinte días hábiles posteriores a la fecha en que le fueron turnadas;
 
-VII. Proponer al Subsecretario los proyectos de acuerdos interinstitucionales, de coordinación con los municipios, así como de convenios con los sectores social y privado en los asuntos de su competencia y vigilar el cumplimiento de las obligaciones asumidas por la Secretaría en los convenios o acuerdos que suscriba.
+XXII. Formular informes y pliegos de observaciones sobre los daños y perjuicios que afecten a las haciendas públicas estatal y municipales o al patrimonio de los Entes Públicos;
 
-VIII. Las demás que le señalen otros ordenamientos aplicables y las que le encomiende el Secretario o el Subsecretario de Planeación y Administración.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-###### Artículo 20.
+XXIII. Fincar directamente a los responsables, según sea el caso, las indemnizaciones, multas y sanciones por las responsabilidades administrativas en que incurran, determinadas con motivo de la fiscalización de las cuentas públicas;
 
-Corresponde a la Dirección General de Administración y Finanzas, el ejercicio de las siguientes atribuciones:
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-I. Coordinar y controlar la administración de los recursos humanos, financieros y materiales de la Secretaría;
+XXIV. Celebrar convenios de coordinación o colaboración para el cumplimiento de sus objetivos con los Poderes Federal, Estatales, así como con los Gobiernos Municipales y organismos que agrupen a Entidades de Fiscalización Superior homólogas y con el sector privado;
 
-II. Integrar y someter a la consideración de su superior inmediato, los anteproyectos de presupuestos de egresos y de inversión del sector, y efectuar el control de su ejercicio, contabilidad y manejo de fondos;
+XXV. Conocer y resolver sobre el recurso de reconsideración que se interponga en contra de los actos o resoluciones de la Auditoría General del Estado;
 
-III. Llevar el control de los bienes muebles e inmuebles adscritos al sector;
+XXVI. Solicitar a la autoridad competente la aplicación del procedimiento de ejecución para el cobro de las multas y sanciones resarcitorias que se impongan en los términos de esta Ley;
 
-IV. Promover la capacitación y adiestramiento del personal administrativo de la Secretaría;
+XXVII. Promover las acciones de responsabilidad a que se refiere el Título Décimo Tercero de la Constitución Política del Estado y la ley de la materia;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2009)</small>
 
-V. Participar en el desarrollo de mecanismos y alternativas de eficiencia en los procesos y sistemas administrativos de trabajo.
+XXVIII. Presentar, en su caso, denuncias o querellas en términos de las leyes sustantivas y procedimientos aplicables, en los casos de presuntas conductas delictivas de servidores públicos o de particulares, relacionadas con daños o perjuicios ocasionados al Estado o Municipios en sus haciendas públicas o al patrimonio de los Entes Públicos Estatales y Municipales;
 
-VI. Instrumentar la operación de los programas de becas para los alumnos, en los diversos niveles educativos en la entidad;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2009)</small>
 
-VII. (DEROGADA, G.G. 17 DE SEPTIEMBRE DE 2014)
+XXIX. Formular denuncias de juicio político, de conformidad con lo señalado en el Título Tercero de la Constitución Política del Estado y la Ley de Responsabilidades;
 
-VIII. Las demás que le señalen otros ordenamientos aplicables y las que le encomiende el Secretario o el Subsecretario de Planeación y Administración.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ABRIL DE 2006)</small>
 
-###### Artículo 21.
+XXX. Imponer las medidas de apremio establecidas en la presente Ley;
 
-Corresponde a la Coordinación Jurídica y de Legislación, el ejercicio de las siguientes atribuciones:
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+XXXI. Imponer las sanciones administrativas al personal de la Auditoria General del Estado, por faltas a la presente Ley, a su reglamento, a la Ley de Responsabilidades y demás normatividad aplicable. Para este efecto, se observará en lo conducente el procedimiento establecido en el título séptimo de esta Ley; y
 
-I. Atender e intervenir en los asuntos de carácter jurídico que le correspondan a la Secretaría.
+> <small>(ADICIONADA (N. DE E. REUBICADA], P.O. 28 DE ABRIL DE 2006)</small>
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+XXXII. Las demás que señale esta Ley y otras disposiciones legales aplicables.
 
-II. Emitir opiniones respecto de las consultas jurídicas del Secretario, de las unidades administrativas de la Secretaría y de los organismos auxiliares sectorizados.
+###### ARTICULO 20.
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+Los Auditores Especiales tendrán las facultades siguientes:
 
-III. Atender las quejas y las recomendaciones de la Comisión de Derechos Humanos del Estado de México o de las instancias protectoras de derechos humanos, así como gestionar el cumplimiento de los requerimientos de la Comisión de Derechos Humanos del Estado de México o de las instancias protectoras de derechos humanos, al personal docente y administrativo de la Secretaría.
+I. Planear conforme a los programas aprobados por el Auditor General las actividades relacionadas con la revisión de las Cuentas Públicas y elaborar los análisis temáticos que sirvan de insumos para la preparación de los informes de resultados;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-IV. Elaborar y revisar los ordenamientos legales, decretos, acuerdos, reglamentos, contratos, convenios, lineamientos, relativos a los asuntos de la competencia de la Secretaría, así como revisar los que se relacionen con los organismos sectorizados.
+II. Revisar los Informes Financieros cuatrimestrales y las Cuentas Públicas que rindan las Entidades Fiscalizadas;
 
-V. Preparar los proyectos de resolución de los recursos administrativos que se interpongan en contra de actos emitidos por servidores públicos de la Secretaría;
+III. Requerir a los Sujetos de Fiscalización Superior, a las Entidades Fiscalizadas y a los terceros que hubieren celebrado operaciones con aquéllas, la información y documentación que sean necesarias para realizar la función de fiscalización;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+IV. Ordenar y realizar auditorías, visitas e inspecciones a los Poderes del Estado, Ayuntamientos y demás Entes Públicos Estatales y Municipales conforme al programa aprobado por el Auditor General;
 
-VI. Atender el cumplimiento de las resoluciones y requerimientos de las autoridades judiciales, administrativas o del Tribunal de lo Contencioso Administrativo que hagan a la Secretaría.
+V. Designar al personal encargado de practicar las visitas, inspecciones y auditorías a su cargo o, en su caso, sugerir al Auditor General sobre la celebración de los contratos de prestación de servicios profesionales a que se refiere esta Ley;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+VI. Revisar, analizar y evaluar la información incluida en las Cuentas Públicas;
 
-VII. Participar en la realización de los actos necesarios para regularizar los bienes inmuebles destinados a la prestación de servicios educativos o administrativos de la Secretaría.
+VII. Formular y someter al acuerdo del Auditor General las recomendaciones y los pliegos de observaciones que deriven de los resultados de su revisión de las auditorías, visitas o investigaciones, las que se remitirán a los Poderes del Estado, Municipios y demás Entidades Fiscalizadas según corresponda;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-VIII. Certificar los documentos que correspondan al ejercicio de sus funciones.
+VIII. Informar al Auditor General sobre las observaciones no solventadas, para la determinación de las responsabilidades establecidas en esta Ley;
 
-> <small>(ADICIONADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-IX. Las demás que le señalen otros ordenamientos aplicables y las que le encomiende el Secretario.
+IX. Recabar e integrar la documentación y comprobación necesaria, para que previo acuerdo del Auditor General, la Dirección de Asuntos Jurídicos promueva el ejercicio de las acciones legales o el fincamiento de responsabilidades en el ámbito que procedan, como resultado de las irregularidades que se detecten en las revisiones, auditorias o visitas que se practiquen a las Entidades Fiscalizadas;
 
-###### Artículo 22.
+X. Formular y presentar al Auditor General los proyectos de informes de resultados, así como los demás documentos que se les indiquen; y (sic)
 
-Corresponde a la Contraloría Interna, el ejercicio de las siguientes atribuciones:
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-I. Vigilar el cumplimiento de los programas y subprogramas de las unidades administrativas de la Secretaría y elaborar los reportes correspondientes;
+XI. Promover, mediante dictamen técnico, previo acuerdo del Auditor General, ante la Dirección de Asuntos Jurídicos el fincamiento de las responsabilidades en que incurran los servidores públicos, o quienes dejaron de serlo, los particulares personas físicas o morales, por actos u omisiones de los que resulte un daño o perjuicio estimable en dinero, que afecten al Estado o Municipios en sus haciendas públicas o al patrimonio de las Entidades Fiscalizadas conforme a los ordenamientos legales; y
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE ABRIL DE 2006)</small>
 
-II. Realizar las acciones de control y evaluación en el ámbito de su competencia, a fin de constatar que los servidores públicos, unidades administrativas, planteles educativos y órganos desconcentrados de la Secretaría observen las disposiciones aplicables en el ámbito de su actuación, así como en el ingreso, gasto y ejercicio de los recursos federales y estatales.
+XII. Las demás que señalen esta Ley, el Reglamento y demás disposiciones aplicables.
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-III. Verificar el adecuado ejercicio del presupuesto de la Secretaría, atendiendo a las medidas de austeridad y disciplina presupuestal que establece la normatividad en la materia.
+###### ARTICULO 21.
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+El Director de Administración y Finanzas tendrá las siguientes facultades:
 
-IV. Participar en los procesos de entrega y recepción de las unidades administrativas, de los planteles educativos y de los órganos desconcentrados de la Secretaría, verificando su apego a la normatividad aplicable.
+I. Actuar como órgano de consulta y asesoría jurídica de la Auditoría General del Estado;
 
-V. Recibir, tramitar y dar seguimiento a las quejas y denuncias por responsabilidad administrativa, que se interpongan en contra de los servidores públicos de la Secretaría;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+II. Instruir los procedimientos para el fincamiento de las responsabilidades administrativas a que se refiere esta Ley, por acuerdo del Auditor General;
 
-VI. Instruir, substanciar y resolver los procedimientos administrativos disciplinarios y resarcitorios que le correspondan de acuerdo con las disposiciones aplicables.
+III. Instruir el recurso de reconsideración previsto en esta Ley por acuerdo del Auditor General;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+IV. Ejercer por delegación del Auditor General la representación legal de la Auditoria General del Estado, con las más amplias facultades generales y las especiales que requieran cláusula especial conforme a la Ley, para pleitos y cobranzas; con autorización para sustituir o delegar su poder a terceros; así como para articular y absolver posiciones;
 
-VII. Instruir y resolver los recursos o medios de impugnación presentados en contra de las resoluciones del órgano de control interno y realizar, ante las diversas instancias jurisdiccionales, la defensa jurídica de las resoluciones que se emitan.
+V. Elaborar los documentos necesarios para que la Auditoría General del Estado formule y presente denuncias y querellas en el caso de conductas que pudieran constituir delitos en contra de las haciendas públicas estatal y municipales o del patrimonio de los demás Entes Públicos, así como para que se promueva ante las autoridades competentes el fincamiento de otras responsabilidades;
 
-VIII. Verificar la presentación oportuna de las declaraciones de situación patrimonial de los servidores públicos de la Secretaría;
+VI. Expedir los lineamientos de carácter jurídico para la elaboración de convenios, contratos, actas administrativas y demás instrumentos que procedan; y
 
-IX. Informar a la Secretaría de la Contraloría sobre el resultado de las acciones, comisiones o funciones que le encomiende;
+VII. Las demás que señalen esta Ley, el Reglamento y otras disposiciones aplicables.
 
-X. Difundir entre el personal de la Secretaría toda disposición en materia de control que incida en el desarrollo de sus labores; y
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-XI. Las demás que le señalen otros ordenamientos aplicables y las que le encomiende el Secretario.
+###### ARTICULO 22.
+
+El Director de Administración y Finanzas tendrá las siguientes facultades:
+
+I. Administrar los recursos financieros, humanos y materiales de conformidad con las disposiciones legales, reglamentarias y las políticas que emita en esta materia el Auditor General;
+
+II. Realizar previo acuerdo del Auditor General las adquisiciones, proporcionar los servicios y suministrar los recursos materiales que requieran las diversas áreas y el buen funcionamiento de los bienes e instalaciones de la Auditoría General del Estado, de conformidad con lo previsto en la ley de la materia;
+
+III. Elaborar e integrar el proyecto de presupuesto anual de la Auditoría General del Estado;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+IV. Ejercer y contabilizar el ejercicio del presupuesto autorizado y elaborar la cuenta comprobatoria de su aplicación, previa autorización del Auditor General;
+
+V. Establecer y mantener un sistema de contabilidad que permita registrar el conjunto de operaciones que requiera la administración; y (sic)
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2009)</small>
+
+VI.- Conforme lo establece el artículo 95 de la presente Ley, administrar los recursos económicos que se obtengan del Fondo para el Fortalecimiento de la Fiscalización de la Auditoría General del Estado;
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+VII. Las demás que le señale el Auditor General, las disposiciones legales y administrativas respectivas.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+El Director de Administración y Finanzas antes de asumir el cargo, depositará una fianza para garantizar los recursos que se le confíen.
 
 ## TITULO TERCERO. DE LA COORDINACION, VIGILANCIA Y EVALUACION
 
-### CAPITULO V. DE LAS ATRIBUCIONES GENERICAS DE LOS DIRECTORES GENERALES
+### CAPITULO I. DE LA COORDINACION
 
-###### Artículo 23.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
-La Comisión Interna de Modernización y Mejoramiento Integral de la Administración Pública es un mecanismo participativo de las diversas unidades administrativas de la Secretaría, que tiene por objeto evaluar los programas de la dependencia, así como los servicios que ésta ofrece, con el fin de elevar su eficiencia y eficacia.
+###### ARTICULO 23.
 
-###### Articulo 24.
+Para los efectos de lo dispuesto en la fracción XLVII del artículo 8 y 204 de la Ley Orgánica, el Congreso cuenta con la Comisión de Vigilancia que tendrá por objeto coordinar las relaciones entre éste y la Auditoria General del Estado, y constituir el enlace que permita garantizar la debida comunicación entre ambos órganos, así como vigilar y evaluar el desempeño de esta última.
 
-la Comisión Interna de Modernización y Mejoramiento Integral de la Administración Pública será presidida por el Secretario, y estará integrada por los titulares de las subsecretarias, direcciones generales y demás servidores públicos que él determine.
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2009)</small>
 
-### CAPITULO VI. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS DIRECCIONES GENERALES Y DEMAS UNIDADES ADMINISTRATIVAS
+Para lo anterior, la Comisión de Vigilancia contará con una Unidad de Apoyo Técnico, cuyas atribuciones emanarán del Reglamento Interior de la misma unidad, en correlación con los artículos 24, 25 y 26 de la presente ley.
 
-###### Artículo 25.
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2009)</small>
 
-la Comisión Interna de Modernización y Mejoramiento Integral de la Administración Pública realizará las siguientes funciones:
+Para el ejercicio de las atribuciones conferidas a la Unidad de Apoyo Técnico, el Congreso del Estado proveerá los recursos económicos necesarios para su operación.
 
-I. Implantar y supervisar el desarrollo del Programa de Modernización Administrativa del sector;
+###### ARTICULO 24.
 
-II. Coordinar los trabajos de programación de las actividades de la Secretaría;
+La Comisión de Vigilancia tendrá las atribuciones siguientes:
 
-III. Establecer un sistema de evaluación permanente acerca de las actividades de las unidades administrativas, organismos auxiliares y fideicomisos de la Secretaría; y
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-IV. Las demás que le encomiende el Secretario.
+I. Ser el conducto de coordinación y comunicación entre el Congreso y la Auditoria General del Estado;
 
-###### Artículo 26.
+II. Conocer el programa anual de actividades de la Auditoría General del Estado, así como sus modificaciones y evaluar su cumplimiento;
 
-La Comisión Interna de Modernización y Mejoramiento Integral de la Administración Pública llevará a cabo reuniones cuando menos cada dos meses, previa convocatoria del Secretario.
+III. Citar al Auditor General para conocer en lo específico, algún Informe de Resultados de la revisión de la Cuenta Pública;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2009)</small>
+
+IV. Conocer y analizar el proyecto de presupuesto anual y el Programa Operativo Anual de la Auditoría General del Estado para su inclusión en el Proyecto de Presupuesto de Egresos del Congreso, así como conocer el informe anual de su ejercicio;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2009)</small>
+
+V. Evaluar si la Auditoría General del Estado cumple con las funciones que conforme a la Constitución Política del Estado y esta Ley le corresponden, así como proveer lo necesario para garantizar su autonomía técnica y de gestión;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+VI. Proponer a la Auditoria General del Estado las medidas necesarias para su buen funcionamiento;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2009)</small>
+
+VII. Ratificar sobre los nombramientos y remoción de los Auditores Especiales y los Directores de Asuntos Jurídicos y de Administración y Finanzas de la Auditoría General del Estado;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE MARZO DE 2009)</small>
+
+VIII. De acuerdo con las posibilidades presupuestales, contratar Asesores Externos para el adecuado cumplimiento de sus atribuciones;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2009)</small>
+
+IX. Recibir y dictaminar la cuenta pública del presupuesto ejercido por la Auditoría General del Estado;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2009)</small>
+
+X. Nombrar por mayoría de los integrantes de la Comisión de Vigilancia al Titular de la Unidad de Apoyo Técnico así como proveerle los recursos materiales, humanos y financieros para su funcionamiento;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2009)</small>
+
+XI. Aprobar por mayoría de los integrantes de la Comisión de Vigilancia, el programa anual de actividades de la Unidad de Apoyo Técnico;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2009)</small>
+
+XII. Aprobar por mayoría de los integrantes de la Comisión de Vigilancia, el Reglamento Interior de la Unidad de Apoyo Técnico.
+
+Las funciones de la Unidad estarán expresas en su Reglamento Interior; y
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2009)</small>
+
+XIII. Las demás que establezca la Ley y las disposiciones aplicables.
+
+### CAPITULO II. DE LA VIGILANCIA Y EVALUACION
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+###### ARTICULO 25.
+
+La vigilancia y evaluación del desempeño de la Auditoria General del Estado, así como de las funciones a cargo de los Servidores Públicos de la misma, estarán a cargo de la Comisión de Vigilancia.
+
+La aplicación de medidas disciplinarias y sanciones a que haya lugar, se hará conforme a lo establecido en la presente Ley, la Ley de Responsabilidades de los Servidores Públicos y demás ordenamientos aplicables.
+
+###### ARTICULO 26.
+
+La Comisión de Vigilancia tendrá competencia para:
+
+I. Vigilar que el funcionamiento y los procedimientos, métodos y sistemas necesarios para la fiscalización de las cuentas públicas de la Auditoría General del Estado se apeguen en términos de lo dispuesto por esta Ley y demás disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+II. Citar a comparecer al Auditor General, cuando en el ejercicio de sus facultades de evaluación y seguimiento, as i se requiera;
+
+III. Evaluar el cumplimiento de los objetivos y metas del programa operativo anual de la Auditoría General del Estado, así como fiscalizar por sí o a través de servicios de auditoría externos, la debida aplicación de los recursos a cargo de ésta;
+
+IV. Planear, programar, ordenar y efectuar inspecciones o visitas a las diversas unidades administrativas que integran la Auditoría General del Estado, cumpliendo con las formalidades legales;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+V. Practicar por si o a través de Auditores Externos, auditorias para verificar y evaluar el desempeño, el cumplimiento de los objetivos y metas del programa anual de la Auditoria General del Estado, así como la debida aplicación de los recursos a cargo de ésta;
+
+VI. Iniciar el procedimiento correspondiente por las quejas y denuncias derivadas del incumplimiento de las obligaciones por parte de los Servidores Públicos de la Auditoría General del Estado, para determinar la probable responsabilidad administrativa y, en su caso, proponer a la autoridad competente las sanciones aplicables;
+
+VII. Presentar denuncias o querellas ante la autoridad competente, en caso de detectar conductas presumiblemente constitutivas de delito imputables a los Servidores Públicos de la Auditoría General del Estado;
+
+VIII. Llevar el registro y análisis de la situación patrimonial de los Servidores Públicos adscritos a la Auditoría General del Estado; y (sic)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ABRIL DE 2006)</small>
+
+IX. Rendir al Congreso un Informe cuatrimestral del seguimiento y evaluación del desempeño de la Auditoria General del Estado, en un plazo que no exceda los treinta días naturales al término del período que se informa;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE ABRIL DE 2006)</small>
+
+X. Las demás que le atribuyen expresamente las disposiciones legales y reglamentarias aplicables.
 
 ## TITULO CUARTO. DE LAS CUENTAS PUBLICAS, SU REVISION Y FISCALIZACION SUPERIOR
 
-### CAPITULO VII. DE LA COMISION INTERNA DE LA MODERNIZACION Y MEJORAMIENTO INTEGRAL DE LA ADMINISTRACION PUBLICA
+### CAPITULO I. DE LAS CUENTAS PUBLICAS
 
-###### Artículo 27.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
-Para la atención y eficiente despacho de los asuntos de su competencia, la Secretaría podrá contar con órganos administrativos desconcentrados, que le estarán jerárquicamente subordinados y a quienes otorgará las facultades específicas para resolver sobre ciertas materias o dentro del ámbito territorial que se determine en cada caso, conforme a lo dispuesto por el artículo 16 de la Ley Orgánica de la Administración Pública del Estado. Los acuerdos de desconcentración se publicarán en el periódico oficial "Gaceta del Gobierno".
+###### ARTICULO 27.
 
-###### Artículo 28.
+Las Cuentas Públicas estarán constituidas por los estados, financieros, presupuestarios, programáticos y demás información que muestre el registro de las operaciones derivadas de la aplicación de las respectivas leyes de ingresos y del ejercicio de los presupuestos de egresos estatal y municipales, los efectos o consecuencias de las mismas operaciones y de otras cuentas en el activo y pasivo totales de las haciendas públicas estatal y municipales, y en su patrimonio neto, incluyendo el origen y aplicación de los recursos, así como el resultado de las operaciones de las Entidades Fiscalizadas, además de los estados detallados de la deuda pública estatal y municipal. Dichas Cuentas Públicas deberán ser respaldadas en medios magnéticos en términos de los lineamientos que emita la Auditoría General del Estado.
 
-El Secretario será suplido en sus ausencias temporales menores de 15 días, por el Subsecretario que el designe. En las mayores de 15 días, por el Subsecretario que designe el Gobernador del Estado.
+En cumplimiento de lo dispuesto en el párrafo anterior, sin menoscabo de lo señalado en la Ley del Presupuesto de Egresos, Contabilidad Gubernamental y Deuda Pública, las Cuentas Públicas incluirán los siguientes temas en la secuencia señalada:
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+I. El panorama económico y social prevaleciente;
 
-###### Artículo 29.
+II. Los resultados presupuestarios;
 
-Los subsecretarios serán suplidos en sus ausencias hasta por quince días, por el Director General que ellos designen. En las mayores de quince días por el servidor público que designe el Secretario.
+III. Las políticas de ingreso y gasto;
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+IV. La orientación funcional del gasto;
 
-###### Artículo 30.
+V. La política de Deuda;
 
-Los directores generales o equivalentes serán suplidos en sus ausencias hasta por quince días por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de quince días por el servidor público que designe el Secretario.
+VI. Los estados financieros, presupuestarios y económicos; y
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+VII. Los apéndices estadísticos respectivos.
 
-###### Artículo 31.
+Las Cuentas Públicas deberán reportar la información presupuestaria y financiera, comparadas con lo aprobado por el Congreso del Estado, debiéndose desagregar conforme a una clasificación económica, administrativa, programática y por objeto del gasto; también deberán presentar las variaciones financieras y presupuestales detalladas y comentadas, que dan origen al presupuesto modificado al período que se informa.
 
-Los directores de área, subdirectores, jefes de departamento o equivalentes serán suplidos en sus ausencias hasta por quince días por el servidor público que ellos designen. En las mayores de quince días por el servidor público que designe su superior jerárquico.
+Para los efectos de lo señalado en el presente artículo, la Auditoría General del Estado remitirá a las Entidades Fiscalizadas, a más tardar el último día del mes de noviembre de cada año, los formatos, criterios y lineamientos correspondientes.
 
-T R A N S I T O R I O S
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+###### ARTICULO 28.
 
-SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Educación, Cultura y Bienestar Social, publicado en el periódico oficial "Gaceta del Gobierno" el 9 de septiembre de 1997.
+Los Ayuntamientos deberán remitir a la Auditoría General del Estado toda la documentación comprobatoria de sus Cuentas Públicas, para los efectos de su revisión y fiscalización. En relación con las demás Entidades Fiscalizadas señaladas en el artículo 2 fracción X de esta Ley, conservarán en custodia y a disposición de la Auditoría General del Estado su documentación comprobatoria.
 
-TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
-Dado en el Palacio del Poder Ejecutivo, en la cuidad de Toluca de Lerdo, capital del Estado de México, a los diez días del mes de enero de dos mil uno.
+###### ARTICULO 29.
 
-SUFRAGIO EFECTIVO. NO REELECCION
+Forman parte de las Cuentas Públicas, los Informes Financieros cuatrimestrales que rindan las Entidades Fiscalizadas, las cuales deberán estar integradas de acuerdo con los formatos, criterios y lineamientos que al efecto expida la Auditoría General del Estado, procurando mostrar las desagregaciones señaladas en el artículo 27 de la presente Ley.
 
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MEXICO
+Cuando la Cuenta Pública se entregue sin apego a las normas establecidas en esta Ley o a los formatos y lineamientos establecidos por la Auditoría General del Estado, ésta será rechazada, imponiendo, en su caso, la sanción que corresponda.
 
-ARTURO MONTIEL ROJAS
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-(RUBRICA).
+###### ARTICULO 30.
 
-EL SECRETARIO GENERAL DE GOBIERNO
+Las Entidades Fiscalizadas que al efecto señala el artículo 2 fracción X, así como cualquier otro órgano de carácter autónomo, deberán entregar al Congreso del Estado, a través de la Auditoría General del Estado, un Informe Financiero cuatrimestral del ejercicio de sus recursos presupuestarios a más tardar en la segunda quincena del siguiente mes al que concluya el cuatrimestre respectivo, con excepción del último cuatrimestre que se entregará en la segunda quincena del mes de febrero del año siguiente del Ejercicio Fiscal del que se informe. Los cuatrimestres comprenderán los períodos siguientes:
 
-MANUEL CADENA MORALES
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-(RUBRICA)
+Primer Cuatrimestre: Enero-Abril
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-G.G. 17 DE SEPTIEMBRE DE 2014.
+Segundo Cuatrimestre: Mayo-Agosto
 
-PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial “Gaceta del Gobierno”.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+Tercer Cuatrimestre: Septiembre-Diciembre
 
-TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente acuerdo.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-CUARTO. Cuando en los ordenamientos jurídicos estatales se haga referencia al Reglamento Interior de la Secretaría de Educación, Cultura y Bienestar Social se entenderá al Reglamento Interior de la Secretaría de Educación.
+La presentación de las Cuentas Anuales de la Hacienda Pública Estatal y Municipales, contendrán el Informe Financiero del tercer cuatrimestre del ejercicio fiscal que corresponda, consolidando el resultado de las operaciones de los ingresos y gastos que se hayan realizado, debiéndose presentar al Congreso del Estado, a través de la Auditoría General del Estado, a más tardar el último día del mes de febrero del año siguiente al Ejercicio Fiscal que se informe.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+Los Informes Financieros concernientes al inicio y terminación del Poder Ejecutivo Estatal, comprenderán los períodos de abril a agosto y enero a marzo, respectivamente; siendo los períodos de entrega al Congreso del Estado, a través de la Auditoría General del Estado, a más tardar el treinta de septiembre y el treinta y uno de marzo en forma correspondiente.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+Los Informes Financieros concernientes al inicio y terminación de la Administración Municipal, comprenderán los periodos de uno de enero al treinta de abril y del uno de septiembre al treinta y uno de diciembre, respectivamente; siendo los períodos de entrega al Congreso del Estado, a través de la Auditoria General del Estado, a más tardar las segundas quincenas de los meses de mayo y diciembre en forma correspondiente.
+
+###### ARTICULO 31.
+
+(DEROGADO, P.O. 28 DE ABRIL DE 2006)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 32.
 
-El Poder Legislativo del Estado deberá entregar a la Auditoria General del Estado un Informe Financiero cuatrimestral del ejercicio de sus recursos; y en los plazos y condiciones que esta Ley establece presentará su Cuenta Pública Anual; la Auditoria General del Estado deberá emitir un Informe de Resultados Anual correspondiente a la Comisión de Vigilancia del Congreso. El Informe Financiero cuatrimestral deberá remitirse a más tardar en la segunda quincena del siguiente mes al que concluya el cuatrimestre respectivo.
+El Poder Legislativo del Estado deberá entregar a la Auditoría General del Estado un Informe Financiero cuatrimestral del ejercicio de sus recursos; y en los plazos y condiciones que esta Ley establece presentará su Cuenta Pública Anual; la Auditoria General del Estado deberá emitir un Informe de Resultados Anual correspondiente a la Comisión de Vigilancia del Congreso. El Informe Financiero cuatrimestral deberá remitirse a más tardar en la segunda quincena del siguiente mes al que concluya el cuatrimestre respectivo, con excepción del último cuatrimestre que se entregará a más tardar en la segunda quincena del mes de febrero del año siguiente del ejercicio fiscal que se informe.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 Los Informes Financieros concernientes al inicio y terminación del Poder Legislativo Estatal comprenderán los periodos del quince de noviembre al treinta y uno de diciembre y del primero de septiembre al catorce de noviembre, respectivamente; siendo los periodos de entrega a la Auditoría General del Estado a más tardar la segunda quincena del mes de enero y la primera quincena de noviembre en forma correspondiente.
 
@@ -643,7 +891,7 @@ Los Informes Financieros concernientes al inicio y terminación del Poder Legisl
 
 (DEROGADO, P.O. 28 DE ABRIL DE 2006)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 34.
 
@@ -657,7 +905,9 @@ Los microfilmes y los archivos guardados mediante procesamiento electrónico a q
 
 La Auditoría General del Estado conservará en su poder las Cuentas Públicas e Informes Financieros cuatrimestrales de las Entidades Fiscalizadas, así como los Informes de Resultados de su fiscalización, mientras no prescriban sus facultades para fincar las responsabilidades derivadas de las irregularidades que se detecten; asimismo conservarán las copias autógrafas de las resoluciones en las que se finquen responsabilidades y documentos que contengan las denuncias o querellas que se hubieren formulado y presentado.
 
-### CAPITULO VIII. DE LA DESCONCENTRACION ADMINISTRATIVA
+### CAPITULO II. DE LA REVISION Y FISCALIZACION SUPERIOR DE LAS CUENTAS PUBLICAS
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 36.
 
@@ -667,7 +917,7 @@ La Fiscalización Superior de las Cuentas Públicas e Informes Financieros cuatr
 
 La Fiscalización Superior tiene carácter externo y, por lo tanto, se lleva a cabo de manera independiente y autónoma de cualquier otra forma de control o fiscalización interna de los Poderes del Estado, los Ayuntamientos y los Entes Públicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 38.
 
@@ -757,7 +1007,9 @@ Los Servidores Públicos de la Auditoría General del Estado y, en su caso, los 
 
 Los Servidores Públicos de la Auditoría General del Estado, cualquiera que sea su categoría y los despachos contratados para la práctica de auditorías, serán responsables en los términos de las disposiciones legales aplicables por violación a la reserva que señala el artículo anterior.
 
-### CAPITULO IX. DE LA SUPLENCIA DE LOS TITULARES
+### CAPITULO III. DEL INFORME DEL RESULTADO DE LA REVISION Y FISCALIZACION SUPERIOR DE LAS CUENTAS PUBLICAS
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 49.
 
@@ -941,7 +1193,7 @@ VII. Si la Auditoría General del Estado encontrara que los elementos con que cu
 
 La indemnización invariablemente deberá ser suficiente para cubrir los daños y perjuicios causados y se actualizará para efectos de su pago en la forma y términos que establecen los Códigos Fiscales Estatal o Municipal, en tratándose de contribuciones y aprovechamientos y la sanción pecuniaria consistirá en una multa de uno hasta tres tantos del monto de los daños y perjuicios causados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 70.
 
@@ -967,7 +1219,7 @@ El importe de la sanción resarcitoria que se recuperen en los términos de esta
 
 La Auditoría General del Estado podrá abstenerse de sancionar al infractor por una sola vez cuando lo estime pertinente, justificando las causas de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de cien veces el salario mínimo general diario vigente en la Capital del Estado, en la fecha en que se cometa la infracción.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 2006)</small>
 
 ### CAPITULO III BIS. PROCEDIMIENTO ADMINISTRATIVO DISCIPLINARIO
 
@@ -1325,6 +1577,10 @@ III. Equipamiento; y
 
 IV. Incentivos al personal.
 
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2009)</small>
+
+La aplicación de los recursos del Fondo serán informados a la Comisión de Vigilancia a través de los Informes cuatrimestrales de la Auditoría General del Estado.
+
 ## TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor a partir del primero de enero del dos mil tres, a excepción de lo dispuesto en sus artículos 10, 11, 12 y 14 que tendrán vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
@@ -1375,7 +1631,7 @@ C. MARCELINO MIRANDA AÑORVE.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 28 DE ABRIL DE 2006.
 
@@ -1412,3 +1668,21 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Remítase al Titular del Poder Ejecutivo del Estado para los efectos legales conducentes.
+
+P.O. 18 DE JULIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales conducentes.
+
+P.O. 24 DE MARZO DE 2009.
+
+PRIMERO.- El Artículo 12 del presente Decreto entrará en vigor en la misma fecha que entre en vigor el Decreto por el que se reforma y adiciona el artículo respectivo de la Constitución Política del Estado Libre y Soberano de Guerrero.
+
+SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado para su conocimiento general.
