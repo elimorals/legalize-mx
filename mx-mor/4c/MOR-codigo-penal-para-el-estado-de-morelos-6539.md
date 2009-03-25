@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2008-12-12"
+last_updated: "2009-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO PENAL PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2009.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1635,11 +1635,15 @@ I. Que se realice con violencia o se veje al ofendido;
 
 II. Que el ofendido sea menor de dieciséis o mayor de sesenta años, o por cualquier otra circunstancia esté en imposibilidad de resistir o en situación de inferioridad física con respecto al agente;
 
-> <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O.25 DE MARZO DE 2009)</small>
 
-III. Que el agente sea servidor público; o
+III. Que el agente sea servidor público;
 
-IV. Que la privación de libertad se prolongue por más de ocho días.
+IV. Que la privación de libertad se prolongue por más de ocho días;
+
+> <small>(ADICIONADA, P.O.25 DE MARZO DE 2009)</small>
+
+V. Que la privación de la libertad tenga el propósito de realizar un acto erótico o sexual.
 
 ###### ARTICULO 139.
 
@@ -1703,19 +1707,21 @@ V. Efectúe el cambio de moneda nacional por divisas, o el de éstas por moneda 
 
 VI. Intimide a la víctima, a sus familiares o a sus representantes o gestores, durante el secuestro o después de éste, para que no colaboren con las autoridades competentes.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE MARZO DE 2009)</small>
+
 ### CAPITULO VI. ASALTO
 
 ###### ARTICULO 143.
 
-Al que sustraiga o retenga por medio de la violencia física o moral a una persona, sin su consentimiento, contra éste o mediante engaño, para realizar un acto sexual o para casarse, se le impondrán de seis meses a cinco años de prisión.
+(DEROGADO, P.O. 25 DE MARZO DE 2009)
 
 ###### ARTICULO 144.
 
-Se elevará hasta en una tercera parte la sanción prevista en el artículo anterior, cuando la sustracción o retención realizada con los fines a que se refiere el mismo precepto, recaiga en una persona menor de doce años o que no tenga capacidad de comprender el hecho, o que por cualquier otra causa no pueda resistir.
+(DEROGADO, P.O. 25 DE MARZO DE 2009)
 
 ###### ARTICULO 145.
 
-Se procederá contra el raptor por querella de la persona ofendida o de su cónyuge o de la persona con quien esté unida en concubinato. Si aquélla es menor de edad o incapaz, se actuará por instancia del propio ofendido o de quien ejerza sobre éste la patria potestad, la tutela o la custodia.
+(DEROGADO, P.O. 25 DE MARZO DE 2009)
 
 ### CAPITULO VII. TRATA DE PERSONAS
 
@@ -3960,3 +3966,9 @@ P.O. 12 DE DICIEMBRE DE 2008.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Tierra y Libertad", órgano del Gobierno del Estado de Morelos.
 
 SEGUNDO.- Remítase el presente Decreto al titular del Poder Ejecutivo Estatal para los efectos constitucionales correspondientes.
+
+P.O. 25 DE MARZO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
