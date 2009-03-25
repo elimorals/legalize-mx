@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-procedimientos-penales-del-estado-de-morelos-57615"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-22"
-last_updated: "2008-11-12"
+last_updated: "2009-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el jueves 22 de noviembre de 2007.
 
@@ -2347,11 +2347,13 @@ Querella.
 
 Querella es la expresión de voluntad de la víctima u ofendido del delito, o de sus representantes, mediante la cual se manifiesta, expresa o tácitamente, su deseo de que se ejerza la acción penal.
 
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2009)</small>
+
 ###### Artículo 232.
 
 Delitos perseguibles por querella.
 
-Es necesaria la querella y sin ella no podrá procederse contra los responsables, cuando se trate de los delitos previstos en los artículos 121 fracción I, respecto a las lesiones, así como los previstos en las fracciones II, III y IV de éste mismo artículo, si fueron inferidas en forma culposa, y las ocasionadas al ascendiente o descendiente, en ambas líneas, hermano, cónyuge, concubina, concubinario, adoptante o adoptado de quien inflige las lesiones; el rapto previsto en los artículos 143 y 144; el allanamiento de morada previsto en artículo 149; el hostigamiento sexual párrafo primero del artículo 158; el estupro previsto en el artículo 159; la difamación prevista en el artículo 163; calumnia prevista en el artículo 167; los previstos en el título noveno delitos contra el patrimonio, como son robo del artículo 174 fracciones I y II, salvo que sean calificados, el despojo previsto en el artículo 184, abuso de confianza previsto en el artículo 186; fraude previsto en el artículo 188; administración fraudulenta previsto en el artículo 190; insolvencia fraudulenta en perjuicio de acreedores previsto en el artículo 192; daño previstos en los artículos 193 y 194; la usura prevista en el artículo 196; el encubrimiento por receptación previsto en el artículo 197; operaciones con recursos de procedencia ilícita prevista en el artículo 198, así mismo debiéndose atender a lo previsto en (sic) artículo 199 del Código Penal; incumplimiento de las obligaciones de asistencia alimentaria previsto en el artículo 201; sustracción o retención de menores incapaces previsto en el artículo 203; adulterio previsto en el artículo 209; ataques a las vías de comunicación y medios de transporte, previstos en los artículos 226, 227, 228, 230 y 231; ejercicio indebido del propio derecho previsto en el artículo 303; todos del Código Penal vigente en el Estado de Morelos.
+Es necesaria la querella y sin ella no podrá procederse contra los responsables, cuando se trate de los delitos previstos en los artículos 121 fracción I, respecto a las lesiones, así como los previstos en las fracciones II, III y IV de éste mismo artículo, si fueron inferidas en forma culposa, y las ocasionadas al ascendiente o descendiente, en ambas líneas, hermano, cónyuge, concubina, concubinario, adoptante o adoptado de quien inflige las lesiones; el allanamiento de morada previsto en artículo 149; el hostigamiento sexual párrafo primero del artículo 158; el estupro previsto en el artículo 159; la difamación prevista en el artículo 163; calumnia prevista en el artículo 167; los previstos en el título noveno delitos contra el patrimonio, como son robo del artículo 174 fracciones I y II, salvo que sean calificados, el despojo previsto en el artículo 184, abuso de confianza previsto en el artículo 186; fraude previsto en el artículo 188; administración fraudulenta previsto en el artículo 190; insolvencia fraudulenta en perjuicio de acreedores previsto en el artículo 192; daño previstos en los artículos 193 y 194; la usura prevista en el artículo 196; el encubrimiento por receptación previsto en el artículo 197; operaciones con recursos de procedencia ilícita prevista en el artículo 198, así mismo debiéndose atender a lo previsto en artículo 199 del Código Penal; incumplimiento de las obligaciones de asistencia alimentaria previsto en el artículo 201; sustracción o retención de menores incapaces previsto en el artículo 203: adulterio previsto en el artículo 209; ataques a las vías de comunicación y medios de transporte, previstos en los artículos 226, 227, 228, 230 y 231; ejercicio indebido del propio derecho previsto en el artículo 303; todos del Código Penal vigente en el Estado de Morelos.
 
 Tratándose del supuesto contemplado en el artículo 121 fracción I, respecto a las lesiones, así como los previstos en las fracciones II, III y IV de éste mismo artículo, si fueron inferidas en forma culposa, y las ocasionadas al ascendiente o descendiente, en ambas líneas, hermano, cónyuge, concubina, concubinario, adoptante o adoptado de quien inflige las lesiones, también se requerirá querella para la persecución de terceros que hubiesen participado en la ejecución del delito.
 
@@ -4464,3 +4466,9 @@ PRIMERO.- Este Decreto entrara en vigor de conformidad con las modalidades y en 
 SEGUNDO.- Se derogan todas las disposiciones de igualo menor rango que se opongan al presente Decreto.
 
 TERCERO.- Publíquese en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+P.O. 25 DE MARZO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
