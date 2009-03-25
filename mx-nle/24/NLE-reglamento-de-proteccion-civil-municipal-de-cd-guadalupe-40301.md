@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-proteccion-civil-municipal-de-cd-guadalupe-40301"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-26"
-last_updated: "2007-02-16"
+last_updated: "2009-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40301&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE PROTECCION CIVIL MUNICIPAL DE CD. GUADALUPE, N.L
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de julio de 2004.
 
@@ -219,13 +219,15 @@ a) El Presidente Municipal en funciones; como Presidente del Consejo.
 
 b) El Secretario del Ayuntamiento; como Secretario Ejecutivo.
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2009)</small>
 
-c) El Secretario de Seguridad Ciudadana y Tránsito, como Secretario Técnico.
+c) El Secretario de Seguridad.
 
 d) El Secretario de Desarrollo Social y Humano del Municipio; quien asistirá con carácter de vocal.
 
-e) El Secretario de Desarrollo Urbano y Obras Públicas; quien asistirá con carácter de vocal.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2009)</small>
+
+e) El Director del Centro de Desarrollo Urbano y Ecología; quien asistirá con carácter de vocal.
 
 f) El Director de Protección Civil Municipal; quien asistirá con carácter de vocal.
 
@@ -1110,3 +1112,9 @@ P.O. 16 DE FEBRERO DE 2007.
 PRIMERO.- Las presentes reformas de los reglamentos objeto de este Dictamen, entrarán en vigor a partir del día de su publicación en el Periódico Oficial del Estado, y deberá dársele difusión en la Gaceta Municipal del R. Ayuntamiento de Cd. Guadalupe, N.L.
 
 SEGUNDO.- Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y demás disposiciones administrativos (sic) que contravengan las presentes disposiciones.
+
+P.O. 25 DE MARZO DE 2009.
+
+PRIMERO.- Estas modificaciones entrarán en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se remita el presente Acuerdo al C. Encargado del Despacho de la Presidencia Municipal, a fin que de que tenga a bien instruir al C. Secretario del R. Ayuntamiento, para que proceda a su debida publicación en el Periódico Oficial del Estado y en la Gaceta Municipal.
