@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-que-crea-el-consejo-consultivo-de-desarrollo-48858"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-02-13"
-last_updated: "2006-02-13"
+last_updated: "2009-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48858&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO QUE CREA EL CONSEJO CONSULTIVO DE DESARROLLO URBANO DEL MUNICIPIO DE GUADALUPE, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 13 de febrero de 2006.
 
@@ -53,11 +53,15 @@ Para los efectos de este Reglamento y los acuerdos que de él deriven, El Consej
 
 El CCDU tendrá las siguientes facultades:
 
-I. Emitir opinión sobre iniciativas y proyectos urbanísticos que la Secretaría de Desarrollo Urbano y Obras Públicas estime necesarias para su consulta;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2009)</small>
+
+I. Emitir opinión sobre iniciativas y proyectos urbanísticos que el Centro de Desarrollo Urbano y Ecología estime necesarias para su consulta;
 
 II. Participar en la planeación del desarrollo urbano y el ordenamiento territorial, siendo uno de los instrumentos mediante el cual el público en general colabore en el desarrollo urbano municipal;
 
-III. Conocer de aquellos asuntos en los que la Secretaría de Desarrollo Urbano y Obras Públicas estime necesario recabar su opinión;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2009)</small>
+
+III. Conocer de aquellos asuntos en los que el Centro de Desarrollo Urbano y Ecología estime necesario recabar su opinión;
 
 IV. Coadyuvar con el municipio en la difusión de la cultura del desarrollo sustentable y sostenido, evitando se den fenómenos que impacten negativamente el medio ambiente, la estructura urbana o el tejido social del municipio;
 
@@ -69,7 +73,9 @@ V. Desarrollar mecanismos de consulta que garanticen la más amplia participaci�
 
 El Consejo Consultivo de Desarrollo Urbano se integrará por los representantes, de las siguientes entidades:
 
-I. Por parte de la Administración Municipal de Guadalupe, Nuevo León, el Secretario de Desarrollo Urbano y Obras Públicas, mismo que tendrá a cargo la Presidencia del Consejo;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2009)</small>
+
+I. Por parte de la Administración Municipal de Guadalupe, Nuevo León, el Director General del Centro de Desarrollo Urbano y Ecología, mismo que tendrá a cargo la Presidencia del Consejo;
 
 II. Un Secretario de Actas, el cual será nombrado por el Presidente del Consejo;
 
@@ -115,9 +121,11 @@ El nombramiento de los integrantes del CCDU tendrá el carácter honorífico, de
 
 Los representantes de los comités comunitarios serán electos democráticamente en asambleas comunitarias y renovadas periódicamente según lo establece el reglamento interno del Consejo de Desarrollo Municipal de Guadalupe, N. L.
 
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2009)</small>
+
 ###### Artículo 7.
 
-Para el desarrollo de sus funciones el CCDU, se auxiliará de la Dirección de Planeación Urbana, Unidad Administrativa dependiente de la Secretaría de Desarrollo Urbano y Obras Públicas.
+Para el desarrollo de sus funciones el CCDU, se auxiliará de la Dirección de Planeación Urbana, Unidad Administrativa dependiente del Centro de Desarrollo Urbano y Ecología.
 
 ### CAPÍTULO V. DE LAS FUNCIONES DE SUS INTEGRANTES
 
@@ -252,3 +260,15 @@ LIC. JUAN FRANCISCO RIVERA BEDOYA
 EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
 ING. IGNACIO RODRÍGUEZ ZUÑIGA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 25 DE MARZO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes modificaciones entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan el contenido de las presentes modificaciones.
