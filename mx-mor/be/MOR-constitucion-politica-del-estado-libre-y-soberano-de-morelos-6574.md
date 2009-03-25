@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2008-12-11"
+last_updated: "2009-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2009.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -1006,9 +1006,9 @@ Así mismo, examinar la cuenta pública que deberán presentar los Ayuntamientos
 
 XXIX.- Analizar y en su caso, aprobar la iniciativa de Ley de Ingresos Municipales acordada en la sesión de cabildo de cada Ayuntamiento, misma que deberá presentarse a más tardar el primero de octubre del ejercicio fiscal anterior, en términos del artículo 32, párrafo segundo de esta Constitución.
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2009)</small>
 
-XXX.- Conceder licencias para separarse de sus respectivos cargos a los funcionarios del H. Congreso del Estado, quienes, a su vez, podrán otorgar las mismas a sus subordinados en los términos que disponga la propia Ley Orgánica, la Ley del Servicio Civil y los reglamentos respectivos.
+XXX.- Conceder licencias para separarse de sus respectivos cargos a los diputados del Congreso del Estado, en los términos que disponga la Ley Orgánica del Congreso y su Reglamento.
 
 > <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2003)</small>
 
@@ -2272,7 +2272,7 @@ DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O.16 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2008)</small>
 
 Artículo 109 BIS.- La justicia administrativa estatal se deposita en un Tribunal de lo Contencioso Administrativo, dotado de plena jurisdicción y autonomía para dictar sus fallos. Este órgano jurisdiccional conocerá y resolverá las controversias de carácter administrativo y fiscal, que se susciten entre la administración pública estatal o municipal, sus organismos auxiliares estatales o municipales y los particulares. En ningún caso el Tribunal de lo Contencioso Administrativo será competente para conocer y resolver sobre los actos y resoluciones que dicte la Auditoría Superior de Fiscalización del Congreso del Estado.
 
@@ -3889,3 +3889,13 @@ TERCERO.- Por única ocasión, en los años dos mil ocho y dos mil nueve, el Gob
 P.O. 11 DE DICIEMBRE DE 2008.
 
 Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos, previa declaratoria de aprobación por parte del Congreso del Estado.
+
+P.O. 25 DE MARZO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial ''Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones jurídicas que se opongan a la presente reforma.
