@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-justicia-para-adolescentes-del-estado-libre-y-51868"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-11"
-last_updated: "2006-09-11"
+last_updated: "2009-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE JUSTICIA PARA ADOLESCENTES DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2009.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 11 de septiembre de 2006.
 
@@ -529,11 +529,15 @@ Son aplicables a la guarda, consulta, vista y reposición de los expedientes de 
 
 Los Jueces y Magistrados para hacer cumplir sus determinaciones, mantener el buen orden y exigir que les sean guardadas las consideraciones debidas, podrán imponer como medidas de apremio, multa cuyo importe será de tres a cien días de salario mínimo y el auxilio de la fuerza pública.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MARZO DE 2009)</small>
+
 ###### Artículo 51.
 
-Las providencias judiciales en materia de Justicia para Adolescentes se clasifican en resoluciones y autos y se rigen por las siguientes disposiciones:
+Las resoluciones en materia de justicia para adolescentes se clasifican en sentencias y autos y se rigen por las siguientes disposiciones:
 
-I.- Las resoluciones resuelven la cuestión controvertida y terminan las instancias en las que se dictan. Las demás providencias serán autos;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2009)</small>
+
+I.- La sentencia resuelve la situación controvertida y terminan las instancias en las que se dictan. Las demás resoluciones serán autos;
 
 II.- Las providencias serán dictadas por los Magistrados o Jueces, expresarán la fecha y lugar en que fueron dictadas, y serán firmadas por aquéllos y por el Secretario;
 
@@ -763,7 +767,15 @@ III.- Se le encuentren objetos o instrumentos directamente relacionados con los 
 
 En los casos de flagrancia, el Ministerio Público decretará bajo su responsabilidad, si procediere, la retención provisional del acusado hasta por un plazo de cuarenta y ocho horas, misma que podrá consistir en la detención preventiva en el Centro de Internamiento Especializado, en un centro médico, en un sitio seguro e independiente de los de detención para los mayores de edad o en su domicilio, con vigilancia de la policía competente para el caso, o en su caso, la remisión del adolescente al DIF, con el objeto de estar en posibilidad de realizar las investigaciones pertinentes y en su caso ordenar la remisión ante el Juez.
 
-Si el hecho ocurrió en un lugar en donde no haya Ministerio Público ni Juez Especializado, el Ministerio Público del lugar o la autoridad que en auxilio de él se aboque al conocimiento del hecho, con intervención del Defensor Social, iniciará inmediatamente la investigación del caso y dictará las providencias que sean necesarias, estableciendo la personalidad del menor, sus condiciones socio-familiares, la naturaleza de su conducta y las circunstancias que en ella concurrieron; además, proveerá lo necesario para el cuidado personal del adolescente detenido y su retención, la cual podrá realizarse en las áreas que para el efecto deberán destinar especialmente los Ayuntamientos, con el fin de evitar su internamiento en un establecimiento o centro penitenciario. Las actuaciones que se practiquen conforme a este párrafo, deberán enviarse a la autoridad competente, dentro de un plazo máximo de cuarenta y ocho horas, salvo casos urgentes en los que podrá hacer la remisión ante la autoridad judicial del lugar, la cual determinará lo procedente.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2009)</small>
+
+Si el hecho ocurrió en un lugar donde no haya Ministerio Público, ni Juez Especializado, deberá conocer el Ministerio Público del lugar o la autoridad que en auxilio de él se aboque al conocimiento del hecho, con la intervención del Defensor Social, iniciará inmediatamente la investigación del caso y dictará las providencias que sean necesarias, estableciendo la personalidad del menor, sus condiciones socio-familiares, la naturaleza de su conducta y las circunstancias que en ella concurrieron; además proveerá lo necesario para el cuidado personal del adolescente detenido y su retención, la cual podrá realizarse en las áreas que para el efecto deberán destinar especialmente los Ayuntamientos de las cabeceras distritales, con el fin de evitar su internamiento en un establecimiento o centro penitenciario. Las investigaciones ministeriales que se practiquen conforme a este párrafo, así como la remisión, deberán enviarse a la autoridad judicial del lugar donde se haya cometido la conducta dentro de un máximo de cuarenta y ocho horas, la cual deberá practicar las diligencias constitucionales urgentes en auxilio del Juez Especializado.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2009)</small>
+
+El Ministerio Público, la autoridad judicial y los Ayuntamientos que dejen de observar lo anterior, incurrirán en responsabilidad.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2009)</small>
 
 En caso de que las conductas sean de las que no ameritan la aplicación de medidas de internamiento o se determine que el acusado es menor de doce años, éste será entregado a sus representantes legales o parientes más cercanos, con el compromiso de presentarlo ante las autoridades competentes una vez que les sean remitidas las diligencias y éstas lo requieran. Tratándose de menores de doce años en situación de abandono o peligro, la autoridad que lo estuviere reteniendo provisionalmente, deberá ponerlo a disposición del Consejo General Interdisciplinario, el cual lo remitirá de inmediato al DIF, para que este último actúe conforme a su competencia.
 
@@ -1003,7 +1015,13 @@ VI.- Argumentos a partir de los cuales se decide si quedó o no acreditada la re
 
 VII.- La medida que en su caso llegue a imponerse, su duración y lugar de aplicación y ejecución, así como la medida de mayor gravedad que se impondría en el caso de incumplimiento;
 
-VIII.- Las medidas de menor gravedad por las que, en los términos de este Código, puede sustituirse la medida impuesta, así como el orden en que deben ser consideradas por el Director del Centro de Internamiento Especializado o el Juez; y
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2009)</small>
+
+VIII.- Argumentos a partir de los cuales se decide, si se otorgan o no medidas de menor gravedad por las que en términos de este Código, podrá sustituirse o conmutarse la medida impuesta
+
+En su caso, se deberá establecer el ordene en que deben ser consideradas por la Autoridad Ejecutora.
+
+El Juez o la Sala en resolución definitiva, de manera discrecional y razonada, podrán autorizar la conmutación de la medida de internamiento definitiva por multa o trabajo a favor de la comunidad, si el tiempo máximo de duración de la medida no excede de dos años de duración, y además dentro del expediente se haya acreditado que está apto para ser reintegrado a la sociedad, sea la primera vez que se le acusa por un delito grave y haya cubierto o garantizado la reparación del daño; o sólo por multa, cuando el término de duración rebase los dos años, pero no los cinco, y además se observen los requisitos anteriores;
 
 IX.- El monto de la reparación del daño a la víctima u ofendido, en su caso.
 
@@ -1034,6 +1052,10 @@ VIII.- El internamiento preventivo;
 IX.- El aseguramiento o detención preventiva en su domicilio, centro médico o instalaciones especializadas; y
 
 X.- La atribución de su custodia provisional o cuidado personal al pariente más cercano que se encuentre en condiciones de ejercerlos u otra persona o institución especializada, siempre que asegure su cuidado personal, provea a la atención de sus necesidades básicas o ponga fin a los peligros que amenacen su vida, su salud, su integridad física o su formación moral.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2009)</small>
+
+Incurran en el delito de desobediencia, la persona que conforme al presente artículo, se haya comprometido ante la autoridad judicial, al cuidado integral y vigilancia del adolescente, sujeto a medida cautelar de no internamiento, que deje de cumplir con sus obligaciones, sin causa justificada.
 
 ###### Artículo 109.
 
@@ -1135,11 +1157,17 @@ La segunda instancia solamente se abrirá a petición de parte o en el supuesto 
 
 Son apelables salvo disposición legal en contrario:
 
-I.- Las resoluciones de primera instancia que impongan una medida;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2009)</small>
 
-II.- Los autos que determinen negar la apertura del procedimiento;
+I.- Las sentencias de primera instancia;
 
-II.- Los autos que autoricen la internación preventiva;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2009)</small>
+
+II.- Los autos que nieguen la orden de aprehensión o de presentación, y los de libertad;
+
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2009)</small>
+
+III.- Los autos que impongan una medida cautelar;
 
 IV.- Los autos que ratifiquen la detención del adolescente cuando se realice la remisión del Ministerio Público, con detenido;
 
@@ -1439,9 +1467,11 @@ Se considera tiempo libre aquél durante el cual el adolescente no deba cumplir 
 
 El internamiento definitivo consiste en la privación de la libertad y se debe cumplir exclusivamente en los Centros de Internamiento, de los que podrán salir los adolescentes sólo mediante orden escrita de la autoridad de ejecución.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MARZO DE 2009)</small>
+
 ###### Artículo 162.
 
-El internamiento a que se refiere esta Sección, sólo se puede imponer a quienes tengan o hayan tenido, al momento de realizar la conducta, una edad de entre catorce años cumplidos y menos de dieciocho años no cumplidos, y se trate de alguna de las siguientes conductas tipificadas como graves en el Código de Procedimientos en Materia de Defensa Social del Estado Libre y Soberano de Puebla, que impliquen invariablemente violencia directa hacia la víctima o de la tentativa de éstas:
+El internamiento al que se refiere esta sección, sólo puede imponerse a quienes tengan o hayan tenido, al momento de realizar la conducta, una edad entre catorce años cumplidos y menos de dieciocho años no cumplidos, y se trate de alguna de las conductas tipificadas como graves en el Código de Procedimientos en Materia de Defensa Social del Estado Libre y Soberano de Puebla, o la tentativa de éstas:
 
 I.- Homicidio por culpa, previsto en los artículos 85 y 86;
 
@@ -1535,7 +1565,9 @@ Las formas alternativas de justicia se rigen por los principios de voluntariedad
 
 La aplicación de formas alternativas para la solución de conflictos, se rige por las siguientes disposiciones generales:
 
-I.- Sólo será procedente respecto de conductas que se persigan a petición de parte, o bien, de las que persiguiéndose de oficio, sean de carácter patrimonial o no ameriten medidas de internamiento, siempre que se garantice la reparación del daño;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2009)</small>
+
+I.- Sólo será procedente respecto de conductas que se persigan a petición de parte, o bien, de las que persiguiéndose de oficio, no ameriten medidas de internamiento, siempre que se garantice la reparación del daño;
 
 II.- A las audiencias de negociación, mediación y conciliación podrán asistir los padres, tutores o quienes ejerzan la custodia o representación legal del adolescente;
 
@@ -2836,3 +2868,11 @@ Las erogaciones que deriven de la aplicación de este ordenamiento, estarán suj
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los ocho días del mes de septiembre de dos mil seis.- Diputado Presidente.- ALEJANDRO OAXACA CARREÓN.- Rúbrica.- Diputado Vicepresidente.- JOSÉ RAYMUNDO FROYLÁN GARCÍA GARCIA.- Rúbrica.- Diputado Secretario.- RODOLFO HUERTA ESPINOSA.- Rúbrica. Diputado Secretario.- MARIANO HERNÁNDEZ REYES.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los ocho días del mes de septiembre de dos mil seis -El Gobernador Constitucional del Estado LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación LICENCIADO JAVIER LÓPEZ ZAVALA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 25 DE MARZO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
