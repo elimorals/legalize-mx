@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-panteones-y-servicios-funerarios-del-46608"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-05"
-last_updated: "2007-02-16"
+last_updated: "2009-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE PANTEONES Y SERVICIOS FUNERARIOS DEL MUNICIPIO DE GUADALUPE, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 5 de octubre de 2005.
 
@@ -291,9 +291,11 @@ Si se colocare un señalamiento en una fosa sin el permiso correspondiente o no 
 
 Del Establecimiento de Cementerios.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MARZO DE 2009)</small>
+
 ###### ARTÍCULO 14.
 
-Sólo se podrán establecer cementerios en las zonas que al efecto determine la Secretaría de Desarrollo Urbano y Obras Públicas Municipal.
+Sólo se podrán establecer cementerios en las zonas que al efecto determine el Centro Desarrollo Urbano y Ecología.
 
 Los predios que ocupen los cementerios deberán estar definidos por los lineamientos que fije dicha Secretaría.
 
@@ -375,7 +377,9 @@ Para realizar alguna obra dentro de un cementerio municipal se requerirá:
 
 I.- Demostrar con documentación fehaciente que es Titular o Usuario del lote de referencia;
 
-II.- Contar con el permiso de construcción correspondiente, otorgado por la administración del cementerio de que se trate y de la Secretaría de Desarrollo Urbano y Obras Públicas Municipal cumpliendo con los requisitos a que se hacen referencia en este Reglamento;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2009)</small>
+
+II.- Contar con el permiso de construcción correspondiente, otorgado por la administración del cementerio de que se trate y del Centro de Desarrollo Urbano y Ecología Municipal cumpliendo con los requisitos a que se hacen referencia en este Reglamento;
 
 III.- Cuando así se requiera, presentar los planos de la obra debidamente autorizados por la oficina de panteones competente, y
 
@@ -884,3 +888,9 @@ P.O. 16 DE FEBRERO DE 2007.
 PRIMERO.- Las presentes reformas de los reglamentos objeto de este Dictamen, entrarán en vigor a partir del día de su publicación en el Periódico Oficial del Estado, y deberán dárseles difusión en la Gaceta Municipal del R. Ayuntamiento de Cd. Guadalupe, N.L.
 
 SEGUNDO.- Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y demás disposiciones administrativos (sic) que contravengan las presentes disposiciones.
+
+P.O. 25 DE MARZO DE 2009.
+
+PRIMERO.- Estas modificaciones entrarán en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se remita el presente Acuerdo al C. Encargado del Despacho de la Presidencia Municipal, a fin de que tenga a bien instruir al C. Secretario del R. Ayuntamiento, para que proceda a su debida publicación en el Periódico Oficial del Estado y en la Gaceta Municipal.
