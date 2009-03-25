@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2008-12-31"
+last_updated: "2009-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2009.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -1513,7 +1513,7 @@ Cuando los miembros de la delincuencia organizada o participantes de la asociaci
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
-###### Artículo 186 Quáter.
+###### Artículo 186 Quater.
 
 El plazo de la prescripción de la acción y la sanción penal de las conductas delictivas se duplicará cuando se cometan por la delincuencia organizada.
 
@@ -2904,6 +2904,10 @@ II.- De seis meses a dos años de prisión y multa de diez a cincuenta días de 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 En ambos supuestos, sólo se procederá contra el agresor por querella de la parte ofendida.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2009)</small>
+
+Si las lesiones previstas por este artículo, constituyen el medio para la comisión de los delitos previstos por la Sección Cuarta del Capítulo Duodécimo del Libro Segundo de este Código, no se aplicará lo dispuesto en el párrafo anterior.
 
 ###### Artículo 307.
 
@@ -4502,6 +4506,12 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 
 P.O. 31 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE MARZO DE 2009.
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Puebla.
 
