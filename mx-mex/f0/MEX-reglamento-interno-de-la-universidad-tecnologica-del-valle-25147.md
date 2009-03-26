@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-universidad-tecnologica-del-valle-2514
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-06-14"
-last_updated: "2005-09-27"
+last_updated: "2009-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DE LA UNIVERSIDAD TECNOLOGICA DEL VALLE DE TOLUCA
 
-REGLAMENTO INTERNO DE LA UNIVERSIDAD TECNOLOGICA DEL VALLE DE TOLUCA
+REGLAMENTO INTERNO DE LA UNIVERSIDAD TECNOLÓGICA DEL VALLE DE TOLUCA, ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE SEPTIEMBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE MARZO DE 2009.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el viernes 14 de junio de 2002.
 
@@ -57,9 +57,11 @@ IV. Rector, al Rector de la Universidad Tecnológica del Valle de Toluca.
 
 La Universidad es un organismo público descentralizado de carácter estatal, con personalidad jurídica y patrimonio propios, que tiene a su cargo el despacho de los asuntos que le encomienda el Decreto y otras disposiciones aplicables.
 
+> <small>(REFORMADO, G.G. 26 DE MARZO DE 2009)</small>
+
 ###### Artículo 4.
 
-La Universidad se sujetará a lo dispuesto por la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y su reglamento, así como en los demás ordenamientos aplicables.
+La Universidad se sujetará a lo dispuesto por la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y su Reglamento, así como por lo que establezcan otros ordenamientos legales.
 
 ###### Artículo 5.
 
@@ -119,19 +121,39 @@ X. Presentar periódicamente al Consejo un informe sobre la aplicación de los c
 
 XI. Conceder licencias no mayores de quince días al personal de la Universidad;
 
-XII. Supervisar el ejercicio de las atribuciones de los titulares de las unidades administrativas de la Universidad; y
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2009)</small>
 
-XIII. Las demás que le confieran otras disposiciones y el Consejo.
+XII. Vigilar el cumplimiento de las atribuciones asignadas a los titulares de las unidades administrativas de la Universidad;
+
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2009)</small>
+
+XIII. Coordinar, controlar y evaluar los servicios escolares de la Universidad;
+
+> <small>(ADICIONADA, G.G. 26 DE MARZO DE 2009)</small>
+
+XIV. Dirigir las actividades de planeación y evaluación institucional de la Universidad, en términos de las disposiciones legales en la materia;
+
+> <small>(ADICIONADA, G.G. 26 DE MARZO DE 2009)</small>
+
+XV. Promover la realización de eventos culturales y deportivos que complementen los programas de estudio de la Universidad;
+
+> <small>(ADICIONADA, G.G. 26 DE MARZO DE 2009)</small>
+
+XVI. Las demás que le confieren otras disposiciones legales y aquellas que le establezca el Consejo.
 
 ###### Artículo 12.
 
 Para el estudio, planeación, programación, dirección y despacho de los asuntos de su competencia, así como para atender las acciones de control y evaluación que le corresponden, el Rector se auxiliará de las unidades administrativas básicas siguientes:
 
-I. Dirección de División de Procesos de Producción;
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2009)</small>
+
+I. Dirección de División de Procesos de Producción y Mecatrónica;
 
 II. Dirección de División de Mantenimiento Industrial;
 
-III. Dirección de División de Informática;
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2009)</small>
+
+III. Dirección de División de Tecnologías de la Información y Comunicación, Área Sistemas Informáticos;
 
 IV. Dirección de División de Tecnología Ambiental;
 
@@ -203,19 +225,25 @@ XVIII. Las demás que les confieran otras disposiciones y aquellas que les encom
 
 ### CAPITULO V. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS DIRECCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE MARZO DE 2009)</small>
+
 ###### Artículo 15.
 
-Corresponde a la Dirección de División de Procesos de Producción:
+Corresponde a la Dirección de División de Procesos de Producción y Mecatrónica:
 
 I. Diseñar y ejecutar los planes y programas de estudio de la División para el cumplimiento del proceso educativo, y someterlos a la consideración del Rector;
 
 II. Vigilar que los talleres y laboratorios de la Dirección se encuentren en óptimas condiciones, con el fin de apoyar las actividades académicas;
 
-III. Promover la superación académica, aplicando nuevas tecnologías en materia de procesos de producción;
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2009)</small>
+
+III. Promover la superación académica, aplicando nuevas tecnologías en materia de procesos de producción y mecatrónica;
 
 IV. Proponer al Rector los mecanismos y lineamientos para convocar y seleccionar mediante concursos de oposición al personal docente de la División;
 
-V. Realizar investigaciones en materia de procesos de producción que permitan conocer nuevas tecnologías aplicables en la División;
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2009)</small>
+
+V. Realizar investigaciones sobre procesos de producción y mecatrónica, así como promover el estudio de nuevas tecnologías en estas materias;
 
 VI. Evaluar la matrícula de la División, así como promover acciones de difusión;
 
@@ -223,7 +251,9 @@ VII. Proponer sistemas de admisión de alumnos a la Universidad, realizando el s
 
 VIII. Promover la coordinación con el sector productivo de la región, para que los alumnos de la División realicen prácticas profesionales;
 
-IX. Proponer la celebración de convenios de intercambio académico en materia de procesos de producción con instituciones educativas, así como con los sectores público, social y privado; y
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2009)</small>
+
+IX. Proponer al Rector la suscripción de acuerdos y convenios de intercambio académico en las materias de su competencia; y
 
 X. Las demás que le señalen otros ordenamientos y las que le encomiende el Consejo o el Rector.
 
@@ -251,9 +281,11 @@ IX. Promover la celebración de convenios de intercambio académico en materia d
 
 X. Las demás que le señalen otros ordenamientos y las que le encomiende el Consejo o el Rector.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE MARZO DE 2009)</small>
+
 ###### Artículo 17.
 
-Corresponde a la Dirección de División de Informática:
+Corresponde a la Dirección de División de Tecnologías de la Información y Comunicación, Área Sistemas Informáticos:
 
 I. Diseñar y ejecutar los planes y programas de estudio de la División para el cumplimiento del proceso educativo, y someterlos a la consideración del Rector;
 
@@ -261,11 +293,15 @@ II. Administrar los recursos y servicios informáticos de la División, cumplien
 
 III. Vigilar que los talleres y laboratorios de la Dirección se encuentren en óptimas condiciones, con el fin de apoyar las actividades académicas;
 
-IV. Promover la superación académica, aplicando nuevas tecnologías desarrolladas en materia de informática;
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2009)</small>
+
+IV. Promover la superación académica, aplicando nuevas tecnologías en los programas académicos a su cargo;
 
 V. Proponer al Rector los mecanismos y lineamientos para convocar y seleccionar mediante concursos de oposición al personal docente de la División;
 
-VI. Realizar investigaciones en materia de informática que permitan conocer tecnologías aplicables a la División;
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2009)</small>
+
+VI. Realizar investigaciones en materia de tecnologías de la información y comunicación que contribuyan al cumplimiento de los objetivos de la División;
 
 VII. Evaluar la matrícula de la División, así como promover las acciones de difusión;
 
@@ -273,7 +309,9 @@ VIII. Proponer sistemas de admisión de los alumnos a la Universidad, realizando
 
 IX. Promover la coordinación con el sector productivo de la región, para que los alumnos de la División realicen prácticas profesionales;
 
-X. Promover la celebración de convenios de intercambio académico en materia de informática con instituciones educativas, así como con los sectores público, social y privado; y
+> <small>(REFORMADA, G.G. 26 DE MARZO DE 2009)</small>
+
+X. Proponer al Rector la suscripción de acuerdos y convenios de intercambio académico en las materias de su competencia; y
 
 XI. Las demás que le señalen otros ordenamientos y las que le encomiende el Consejo o el Rector.
 
@@ -419,20 +457,62 @@ Aprobado por el Consejo Directivo de la Universidad Tecnológica del Valle de To
 
 ING. ALBERTO CURI NAIME
 
-SECRETARIO DE EDUCACION, CULTURA Y BIENESTAR SOCIAL Y PRESIDENTE DEL CONSEJO DIRECTIVO
+SECRETARIO DE EDUCACION, CULTURA Y BIENESTAR SOCIAL Y
+
+PRESIDENTE DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
 
 ING. JUAN MANUEL PRADO ESPINOSA
 
-RECTOR DE LA UNIVERSIDAD TECNOLOGICA DEL VALLE DE TOLUCA Y SECRETARIO DEL CONSEJO DIRECTIVO
+RECTOR DE LA UNIVERSIDAD TECNOLOGICA DEL VALLE DE TOLUCA Y
+
+SECRETARIO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+###### Artículo 22.
+
+El Rector será suplido en sus ausencias temporales por quien designe el Consejo. En las definitivas, por quien designe el Gobernador del Estado a propuesta del Consejo.
+
+###### Artículo 23.
+
+Los directores serán suplidos en sus ausencias temporales menores de 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por el servidor público de la jerarquía inmediata inferior que designe el Rector.
+
+T R A N S I T O R I O S
+
+PRIMERO.- Publíquese el presente Reglamento en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+Aprobado por el Consejo Directivo de la Universidad Tecnológica del Valle de Toluca, según consta en acta de su Segunda Sesión Ordinaria, en el municipio de Lerma, México, a los veinticuatro días del mes de abril de dos mil dos.
+
+ING. ALBERTO CURI NAIME
+
+SECRETARIO DE EDUCACION, CULTURA Y BIENESTAR SOCIAL Y
+
+PRESIDENTE DEL CONSEJO DIRECTIVO
+
+(RUBRICA).
+
+ING. JUAN MANUEL PRADO ESPINOSA
+
+RECTOR DE LA UNIVERSIDAD TECNOLOGICA DEL VALLE DE TOLUCA Y
+
+SECRETARIO DEL CONSEJO DIRECTIVO
+
+(RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 27 DE SEPTIEMBRE DE 2005.
 
 PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 26 DE MARZO DE 2009.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
