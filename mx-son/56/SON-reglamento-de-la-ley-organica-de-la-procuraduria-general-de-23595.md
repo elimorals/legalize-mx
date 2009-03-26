@@ -4,7 +4,7 @@ identifier: "SON-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-235
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-26"
-last_updated: "2007-03-22"
+last_updated: "2009-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 22 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE MARZO DE 2009.
 
 Reglamento publicado en la Sección III del Boletín Oficial del Estado Sonora, el lunes 26 de noviembre de 2001.
 
@@ -49,15 +49,17 @@ La Procuraduría General de Justicia del Estado de Sonora, como dependencia del 
 
 La Procuraduría General de Justicia del Estado de Sonora, cuyo titular será el Procurador General de Justicia del Estado, para el ejercicio de sus atribuciones y el despacho de los asuntos de su competencia, se integrará con unidades administrativas y órganos desconcentrados:
 
-l.- Unidades Administrativas:
+> <small>(REFORMADA, B.O. 26 DE MARZO DE 2009)</small>
+
+I.- Unidades Administrativas:
 
 - Procuraduría.
 
--Subprocuraduría de Averiguaciones Previas.
+- Subprocuraduría de Averiguaciones Previas.
 
--Subprocuraduría de Control de Procesos.
+- Subprocuraduría de Control de Procesos.
 
-- Dirección general de Averiguaciones Previas.
+- Dirección General de Averiguaciones Previas.
 
 - Dirección General de Servicios Periciales.
 
@@ -65,13 +67,17 @@ l.- Unidades Administrativas:
 
 - Dirección General de Sistemas de Información y Política Criminal.
 
-- Dirección General de Asuntos Jurídicos
+- Dirección General de Asuntos Jurídicos.
 
-- Dirección General de Policía Judicial.
+- Dirección General de Atención a Víctimas del Delito y Justicia Alternativa.
 
-- Visitaduria General.
+- Dirección General de la Policía Estatal Investigadora.
+
+- Visitaduría General.
 
 - Dirección General de Programación, Organización y Presupuesto.
+
+- Dirección General de Capacitación, Evaluación y Seguimiento.
 
 - Unidad Central de Agentes Especiales del Ministerio Público.
 
@@ -133,7 +139,9 @@ XII.- Aprobar los programas institucionales de las entidades agrupadas en el sec
 
 XIII.- Aprobar los anteproyectos de programas operativos anuales y de presupuestos de egresos por programas de la dependencia y someterlos a la consideración de la Secretaría de Hacienda, para su trámite posterior;
 
-XIV.- Autorizar con su firma los convenios, bases y otros instrumentos de coordinación, que la Procuraduría celebre con otras dependencias o entidades de la Administración Pública Estatal, así como suscribir los documentos relativos al ejercicio de sus atribuciones;
+> <small>(REFORMADA, B.O. 26 DE MARZO DE 2009)</small>
+
+XIV.- Intervenir en la elaboración de los convenios, acuerdos y anexos de ejecución, que en materia de su competencia, celebre el Gobernador del Estado. Asimismo, autorizar con su firma los convenios, bases y otros instrumentos de coordinación, que la Procuraduría celebre con otras dependencias o entidades de la administración pública estatal, así como suscribir los documentos relativos al ejercicio de sus atribuciones;
 
 XV.- Establecer los lineamientos, normas y políticas conforme a los cuales la Procuraduría proporcionará los informes, los datos y la cooperación técnica que le sean requeridos por otras dependencias de la Administración Pública Federal, Estatal y Municipal;
 
@@ -141,7 +149,7 @@ XV.- Establecer los lineamientos, normas y políticas conforme a los cuales la P
 
 XVI.- Dispensar los requisitos de ingreso para Agentes del Ministerio Público y Peritos, personas de amplia experiencia profesional, en los términos que establece la Ley Orgánica de la Procuraduría General de Justicia del Estado de Sonora y el presente ordenamiento;
 
-> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, B.O. 26 DE MARZO DE 2009)</small>
 
 XVII.- Proponer al Ejecutivo Estatal el nombramiento del personal de la Institución del Ministerio Público, así como el demás personal de la Procuraduría de conformidad con este ordenamiento y demás disposiciones legales aplicables. Asimismo, resolver sobre la remoción de los Agentes del Ministerio Público, Agentes o Jefes de Grupo de la Policía Estatal Investigadora y Peritos;
 
@@ -155,25 +163,33 @@ XX.- Emitir y desarrollar las normas de control y evaluación técnico-jurídica
 
 XXI.- Establecer los lineamientos para definir, coordinar y evaluar los programas de comunicación social, difusión de programas sociales y de relaciones públicas de la dependencia;
 
-XXII.- Proponer al Gobernador del Estado, por conducto de la Secretaría de la Contraloría General del Estado, las modificaciones a la estructura orgánica básica de la Procuraduría;
+> <small>(REFORMADA, B.O. 26 DE MARZO DE 2009)</small>
 
-XXIII.- Expedir, previa autorización del titular del Poder Ejecutivo, emitida por conducto de la Secretaría de la Contraloría General del Estado, el Manual de Organización de la dependencia, así como sus modificaciones, y solicitar la publicación respectiva en el Boletín del Gobierno del Estado;
+XXII.- Proponer al Gobernador del Estado, por conducto de la Secretaría de la Contraloría General, las modificaciones a la estructura orgánica básica de la Procuraduría, que deban reflejarse en su Reglamento, para su publicación en el Boletín Oficial del Gobierno del Estado;
 
-> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+XXIII.- (DEROGADA, B.O. 26 DE MARZO DE 2009)
 
-XXIV.- Expedir, previa autorización del Gobernador del Estado, los Manuales de Procedimientos, de organización y de Servicios al Público de la Procuraduría, necesarios para el funcionamiento de ésta y, en su caso, mantener permanentemente actualizados los mismos;
+> <small>(REFORMADA, B.O. 26 DE MARZO DE 2009)</small>
 
-> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+XXIV.- Expedir, previa validación de la Secretaría de la Contraloría General, los manuales de organización, de procesos y de servicios al público de la Procuraduría General de Justicia, así como sus modificaciones;
 
-XXV.- Someter al acuerdo del Gobernador del Estado la concesión de licencias a Agentes de la Policía Judicial, en los términos del artículo 29 de la Ley Orgánica de la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, B.O. 26 DE MARZO DE 2009)</small>
 
-> <small>(ADICIONADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+XXV.- Someter al acuerdo del Gobernador del Estado la concesión de licencias a Agentes de la Policía Estatal Investigadora, en los términos del artículo 29 de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Sonora;
 
-XXVI.- Coordinar la implementación de mecanismos que contribuyan a garantizar el acceso de los ciudadanos a la información de carácter público de la Procuraduría General de Justicia, dentro del marco de la Ley de Acceso a la Información Pública del Estado de Sonora; y
+> <small>(REFORMADA, B.O. 26 DE MARZO DE 2009)</small>
 
-> <small>(ADICIONADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+XXVI.- Coordinar la implementación de mecanismos que contribuyan a garantizar el acceso de los ciudadanos a la información de carácter público de la Procuraduría General de Justicia, dentro del marco de la Ley de Acceso a la Información Pública del Estado de Sonora;
 
-XXVII.- Las demás que con este carácter le confieran este ordenamiento y otras disposiciones legales, así como aquellas otras que le encomiende el Gobernador del Estado.
+> <small>(ADICIONADA, B.O. 26 DE MARZO DE 2009)</small>
+
+XXVII.- Implementar las acciones necesarias para el cumplimiento del Sistema Integral de Archivos de acuerdo a la normatividad en la materia;
+
+> <small>(ADICIONADA, B.O. 26 DE MARZO DE 2009)</small>
+
+XXVIII.- Definir, en el marco de las acciones de desarrollo administrativo y mejora regulatoria, las medidas técnicas y administrativas que estime convenientes para la mejor organización y funcionamiento de la Dependencia; y
+
+XXIX.- Las demás que con este carácter le confieran este ordenamiento y otras disposiciones legales, así como aquellas otras que le encomiende el Gobernador del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 22 DE MARZO DE 2007)</small>
 
@@ -271,13 +287,15 @@ XVI.- Promover, organizar e impartir cursos de capacitación, actualización y e
 
 XVII.- Unificar criterios legales;
 
-> <small>(ADICIONADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, B.O. 26 DE MARZO DE 2009)</small>
 
-XVIII.- Aplicar, previa delegación del titular de la dependencia, a los Agentes del Ministerio Público y Peritos oficiales las sanciones y correctivos disciplinarios previstos en la Ley Orgánica de la Procuraduría General de Justicia del Estado de Sonora, con excepción de la remoción por destitución; y
+XVIII.- Aplicar, previa delegación del titular de la dependencia, a los Agentes del Ministerio Público y Peritos Oficiales las sanciones y correctivos disciplinarios previstos en la Ley Orgánica de la Procuraduría General de Justicia del Estado de Sonora, con excepción de la remoción por destitución;
 
-> <small>(ADICIONADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(ADICIONADA, B.O. 26 DE MARZO DE 2009)</small>
 
-XIX.- Las demás que le confieran otras disposiciones legales o el Procurador.
+XIX.- Atender con la debida oportunidad las solicitudes de información sustentadas en la Ley de Acceso a la Información Pública del Estado de Sonora; y
+
+XX.- Las demás que le confieran otras disposiciones legales o el Procurador.
 
 ###### ARTICULO 9o.
 
@@ -315,7 +333,9 @@ XII.- Evaluar, sistemática y periódicamente, la relación que guarden los prog
 
 XIII.- Participar en la definición de los criterios e indicadores internos de evaluación de la eficacia y eficiencia en el cumplimiento de los objetivos y metas de la Procuraduría;
 
-XIV.- Formular los dictámenes, opiniones e informes que le sean encomendados por el superior jerárquico. Asimismo, participar en el ámbito de su competencia en la integración de los datos que serán proporcionados a la Secretaría de Planeación del Desarrollo y Gasto Público para la formulación del informe sobre el estado que guarda la administración pública, que deberá rendir anualmente el Gobernador del Estado;
+> <small>(REFORMADA, B.O. 26 DE MARZO DE 2009)</small>
+
+XIV.- Formular los dictámenes, opiniones e informes que le sean encomendados por el superior jerárquico. Asimismo, participar en el ámbito de su competencia en la integración de los datos que serán proporcionados a la Secretaría de Hacienda para la formulación del informe sobre el estado que guarda la administración pública, que deberá rendir anualmente el Gobernador del Estado;
 
 XV.- Vigilar la aplicación de las disposiciones, políticas y lineamientos relacionados con el funcionamiento de la unidad administrativa a su cargo;
 
@@ -337,13 +357,23 @@ XXII.- Formular y proponer bases específicas de concertación de acciones con l
 
 XXIII.- Suscribir los documentos relativos al ejercicio de sus funciones y aquéllos que les sean señalados por delegación;
 
-XXIV.- Vigilar que se haga buen uso del mobiliario, equipo y vehículos que asignen a la unidad administrativa a su cargo; y
+> <small>(REFORMADA, B.O. 26 DE MARZO DE 2009)</small>
 
-XXV.- Las demás que le señale el titular de la Procuraduría o le confieran otras disposiciones legales.
+XXIV.- Vigilar que se haga buen uso del mobiliario, equipo y vehículos que se asignen a la unidad administrativa a su cargo;
 
-> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(ADICIONADA, B.O. 26 DE MARZO DE 2009)</small>
 
-Los titulares de las Direcciones Generales de Averiguaciones Previas, de Procesos, de Asuntos Jurídicos y de la Visitaduría General, serán Agentes del Ministerio Público, para todos los efectos legales que correspondan.
+XXV.- Coadyuvar en el cumplimiento de la normatividad expedida para el control, organización, circulación y conservación de los documentos y archivos;
+
+> <small>(ADICIONADA, B.O. 26 DE MARZO DE 2009)</small>
+
+XXVI.- Atender con la debida oportunidad las solicitudes de información sustentadas en la Ley de Acceso a la Información Pública del Estado de Sonora; y
+
+XXVII.- Las demás que le señale el titular de la Procuraduría o le confieran otras disposiciones legales.
+
+> <small>(REFORMADO, B.O. 26 DE MARZO DE 2009)</small>
+
+Los titulares de las Direcciones Generales de Averiguaciones Previas, de Procesos, de Asuntos Jurídicos, de Atención a Víctimas del Delito y Justicia Alternativa y de la Visitaduría General, serán Agentes del Ministerio Público, para todos los efectos legales que correspondan.
 
 ### CAPITULO V. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS DIRECCIONES GENERALES Y DE LA VISITADURIA GENERAL
 
@@ -353,9 +383,9 @@ La Dirección General de Averiguaciones Previas estará adscrita a la Subprocura
 
 I.- Recibir denuncias o querellas, sobre actos u omisiones que puedan constituir delito, informando al denunciante o querellante acerca de la trascendencia jurídica del acto que realizan, sobre las penas en que incurre quien se conduce falsamente ante las autoridades y sobre las modalidades del procedimiento;
 
-> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, B.O. 26 DE MARZO DE 2009)</small>
 
-II.- Investigar los delitos del orden común, con el auxilio de la Policía Judicial, de los servicios periciales, de la Policía Estatal de Seguridad Pública y de las Policías Preventivas Municipales, en su caso, practicando las diligencias necesarias para la integración de la averiguación previa relativa y allegándose las pruebas que considere pertinentes, para demostrar el cuerpo del delito y hacer probable la responsabilidad de quienes en él hubieren intervenido, con el fin de ejercitar la acción penal;
+II.- Investigar los delitos del orden común, con el auxilio de la Policía Estatal Investigadora, de los servicios periciales, de la Policía Estatal de Seguridad Pública y de las Policías Preventivas Municipales, en su caso, practicando las diligencias necesarias para la integración de la averiguación previa relativa y allegándose las pruebas que considere pertinentes, para demostrar el cuerpo del delito y hacer probable la responsabilidad de quienes en él hubieren intervenido, con el fin de ejercitar la acción penal;
 
 III.- Recabar las pruebas pertinentes respecto a los daños y perjuicios causados en la comisión del delito y a la fijación del monto de su reparación;
 
@@ -397,9 +427,9 @@ XIX.- Auxiliar, en los términos de la Ley Orgánica de la Procuraduría General
 
 XX.- Ordenar la libertad del detenido, cuando el delito merezca pena alternativa y no privativa de libertad;
 
-> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, B.O. 26 DE MARZO DE 2009)</small>
 
-XXI.- Solicitar, en los casos respectivos, las órdenes de protección de conformidad con las disposiciones contenidas en la Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Sonora y su Reglamento;
+XXI.- Solicitar, en los casos respectivos, las órdenes de protección de conformidad con las disposiciones contenidas en la Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Sonora y su Reglamento. Así como expedir las órdenes de protección en los términos y condiciones que establece la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sonora;
 
 > <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
@@ -431,21 +461,13 @@ V.- Identificar a los procesados en los términos señalados en las disposicione
 
 VI.- Expedir los certificados que informen sobre .antecedentes penales;
 
-> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+VII.- (DEROGADA, B.O. 26 DE MARZO DE 2009)
 
-VII.- Brindar la atención médica y psicológica de urgencia a las víctimas de delitos, así como gestionar aquella que no estén en condiciones de proporcionar;
+VIII.- (DEROGADA, B.O. 26 DE MARZO DE 2009)
 
-> <small>(ADICIONADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+IX.- (DEROGADA, B.O. 26 DE MARZO DE 2009)
 
-VIII.- Otorgar asesoría jurídica gratuita a las víctimas y ofendidos de delitos;
-
-> <small>(ADICIONADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
-
-IX.- Elaborar y ejecutar programas para brindar protección y auxilio a víctimas de delitos en materia psicológica, jurídica, social y médica;
-
-> <small>(ADICIONADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
-
-X.- Brindar a las personas que lo soliciten la orientación jurídica, tutelar, asistencial, preventiva y educativa que requieran, y canalizarlas a las dependencias y entidades competentes; y
+X.- (DEROGADA, B.O. 26 DE MARZO DE 2009)
 
 > <small>(ADICIONADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
@@ -499,23 +521,31 @@ La Dirección General de Sistemas de Información y Política Criminal estará a
 
 I.- Recabar de las distintas unidades administrativas de la dependencia la información necesaria, a efecto de elaborar proyectos de política criminal tendientes a abatir la impunidad delictiva y el rezago en la solución de los asuntos de la competencia de la Procuraduría;
 
-II.- Integrar y sistematizar bancos de datos en materia de prevención e investigación de delitos del fuero común;
+> <small>(REFORMADA, B.O. 26 DE MARZO DE 2009)</small>
+
+II.- Integrar y sistematizar bancos de datos que coadyuven en la investigación de delitos del fuero común y en su prevención;
 
 III.- Planear, ordenar y vigilar las operaciones destinadas a la obtención de la información necesaria para prevenir y enfrentar la comisión de delitos del fuero común;
 
 IV.- Analizar y valorar la información disponible sobre la comisión de delitos, recomendando su empleo y canalizándola a las áreas correspondientes;
 
-> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, B.O. 26 DE MARZO DE 2009)</small>
 
-V.- Proponer estrategias específicas basadas en la operación de modelos estadísticos y la utilización de las tecnologías de información, para el combate de las diferentes manifestaciones y técnicas delictivas;
+V.- Proponer mecanismos e instrumentos específicos basados en la operación de modelos estadísticos y la utilización de las tecnologías de información, que coadyuven en el estudio y análisis del fenómeno delictivo y el desempeño institucional;
 
 VI.- Investigar, desarrollar y promover la aplicación de nuevos métodos, técnicas, procedimientos y equipos para coadyuvar a la efectiva prevención e investigación de los delitos;
 
 VII.- Formular propuestas para lograr la cooperación de diversos organismos públicos, sociales y privados, tanto municipales, estatales como nacionales, para fortalecer y consolidar los sistemas de información y estadística de la Institución;
 
+> <small>(REFORMADA, B.O. 26 DE MARZO DE 2009)</small>
+
 VIII.- Proporcionar la asesoría, el apoyo y los dictámenes técnicos que los servidores públicos y las unidades administrativas de la institución requieran en materia de adquisición, instalación, mantenimiento, desarrollo y operación de equipo y programas de cómputo;
 
-IX.- Las demás que le señalen las disposiciones legales o reglamentarias o le confieran sus superiores jerárquicos.
+> <small>(ADICIONADA, B.O. 26 DE MARZO DE 2009)</small>
+
+IX.- Investigar, desarrollar e implementar mecanismos innovadores para el intercambio de información, en cumplimiento a los convenios y otros instrumentos de coordinación y colaboración que la Procuraduría celebre con otras dependencias o entidades de la Administración Pública Federal, Estatal y Municipal; y
+
+X.- Las demás que le señalen las disposiciones legales o reglamentarias o le confieran sus superiores jerárquicos.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
@@ -535,7 +565,7 @@ V.- Formular proyectos de instructivos, acuerdos y circulares, para facilitar el
 
 VI.- Efectuar estudios de tipo jurídico respecto a la ejecución de programas y acciones relativos a la procuración e impartición de justicia;
 
-VII.- Expedir, conforme legalmente proceda, certificaciones de documentos que obren en los archivos de la dependencia;
+VII.- (DEROGADA, B.O. 26 DE MARZO DE 2009)
 
 VIII.- (DEROGADA, B.O. 17 DE NOVIEMBRE DE 2005)
 
@@ -547,29 +577,93 @@ XI.- Gestionar la publicación de las disposiciones jurídico-administrativas de
 
 XII.- Formular y revisar las bases de coordinación, convenios, contratos y acuerdos que celebre la Procuraduría con instituciones públicas o privadas;
 
-XIII.- Registrar, atender y tramitar los juicios de amparo que se interpongan en contra del titular de la dependencia; y
+> <small>(REFORMADA, B.O. 26 DE MARZO DE 2009)</small>
 
-XIV.- Las demás que le señalen las disposiciones legales o reglamentarias o le confieran sus superiores jerárquicos.
+XIII.- Registrar, atender y tramitar los juicios de amparo que se interpongan en contra del titular de la dependencia;
+
+> <small>(ADICIONADA, B.O. 26 DE MARZO DE 2009)</small>
+
+XIV.- Coordinar la Unidad de Enlace para la atención oportuna de las solicitudes de información de carácter público, en los términos señalados en la Ley de Acceso a la Información Pública del Estado de Sonora; y
+
+XV.- Las demás que le señalen las disposiciones legales o reglamentarias o le confieran sus superiores jerárquicos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 26 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 15.
 
-(DEROGADO, B.O. 17 DE NOVIEMBRE DE 2005)
+La Dirección General de Atención a Víctimas del Delito y Justicia Alternativa estará adscrita directamente al titular de la Procuraduría General de Justicia del Estado y le corresponden las atribuciones siguientes:
+
+I.- Vigilar los derechos de las víctimas del delito dentro del procedimiento penal a través de los asesores jurídicos, en aquellos asuntos en que intervengan;
+
+II.- Coordinar las acciones para proporcionar, cuando así lo solicite la víctima del delito, las medidas de atención y protección que señala la ley de la materia;
+
+III.- Elaborar y ejecutar, en su caso, el Programa de Atención y Protección a Víctimas del Delito, mismo que deberá comprender los datos que establece el artículo 45 de la Ley de Atención y Protección a Víctimas del Delito;
+
+IV.- Proporcionar, cuando así lo solicite la víctima del delito, la asesoría jurídica que se señala en el artículo 11 de la Ley de Atención y Protección a Víctimas del Delito;
+
+V.- Ordenar, implementar y tramitar las medidas necesarias para que la víctima del delito reciba, cuando así lo solicite, la atención médica, psicológica y psiquiátrica de urgencia, a las instituciones de salud correspondiente;
+
+VI.- Brindar, en su caso, la orientación y atención y gestionar los trámites correspondientes ante las autoridades competentes, para proporcionar a las víctimas del delito la asistencia social y las medidas de protección que se soliciten;
+
+VII.- Tramitar el apoyo económico, cuando así lo solicite la víctima del delito, siempre y cuando ésta no pueda solventar sus necesidades como consecuencia del delito, ante el Consejo Técnico del Fondo para la Protección de Justicia;
+
+VIII.- Emitir, por conducto de los especialistas en psicología, los dictámenes periciales de las víctimas del delito a efecto de determinar el daño emocional, las recomendaciones terapéuticas que sugieran los especialistas, valorar el riesgo para los receptores de violencia y otros indicadores que requiera el Ministerio Público;
+
+IX.- Promover el ingreso de recursos y previsiones presupuestales anualmente, con el objeto de apoyar a las víctimas del delito, impulsando donaciones y aportaciones públicas o privadas, las cuales serán recibidas y administradas por el Consejo Técnico del Fondo para la Procuración de Justicia;
+
+X.- Elaborar manuales, instructivos, formatos y modelos de intervención en atención a víctimas de delitos;
+
+XI.- Elaborar estudios victimológicos, en base a la información estadística generada por los Centros de Atención y Protección a Víctimas del Delito;
+
+XII.- Otorgar, a quien lo solicite, por conducto de los Centros de Justicia Alternativa, los mecanismos alternativos de solución de controversias, tales como la mediación, la conciliación y los demás que permitan a las personas dirimir conflictos;
+
+XIII.- Brindar servicios de información, orientación y de aplicación de los mecanismos alternativos de solución de controversias;
+
+XIV. Aplicar los principios rectores de los mecanismos alternativos de solución de controversias que se establecen en el artículo 6o. de la ley de la materia;
+
+XV.- Aplicar los mecanismos alternativos de solución de controversias, sólo respecto de las conductas tipificadas como delito en los cuales proceda el perdón o la manifestación de desinterés jurídico por la víctima, siempre y cuando no se afecte la moral, los derechos de terceros, ni se contravengan disposiciones de orden público.
+
+Fuera de los casos antes señalados, sólo procederán los mecanismos alternativos de solución de controversias con el objeto de que se repare el daño causado;
+
+XVI.- Elaborar un registro de todas aquellas instituciones públicas y privadas que presten servicios de aplicación de los mecanismos alternativos de solución de controversias;
+
+XVII.- Promover y fomentar la cultura de mecanismos alternativos de solución de controversias, así como realizar estudios de la aplicación de los mismos;
+
+XVIII.- Elaborar y llevar un registro de todos los convenios que se celebren en los Centros de Justicia Alternativa, expidiendo, en su caso, certificación de los mismos, así como de la documentación que obre en los archivos de la Dirección;
+
+XIX. Intercambiar conocimientos y experiencias con instituciones públicas y privadas, en materia de atención a víctimas del delito y mecanismos alternativos de solución de controversias;
+
+XX.- Elaborar y proponer ante el superior jerárquico el reglamento para el funcionamiento y operación de los Centros de Atención y Protección a Víctimas del Delito, así como de los Centros de Justicia Alternativa;
+
+XXI. Elaborar manuales, instructivos, formatos y modelos de aplicación de mecanismos alternos de solución de controversias;
+
+XXII.- Planear, Programar, organizar y elaborar estudios, formatos y protocolos de apoyo a la investigación ministerial;
+
+XXIII.- Ejercer y aplicar las demás atribuciones que a los Centros de Atención y Protección a Víctimas del Delito, así como a los Centros de Justicia Alternativa le otorguen las leyes en la materia; y
+
+XXIV.- Las demás atribuciones que le señalen las disposiciones legales o reglamentarias o le confieran sus superiores jerárquicos.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 16.
 
-La Dirección General de Policía Judicial, estará adscrita y dependerá directamente del Procurador General de Justicia del Estado, y tendrá las atribuciones, que serán ejercidas por los elementos que integran la misma, independientemente de sus cargos o jerarquías, siguientes:
+La Dirección General de la Policía Estatal Investigadora, estará adscrita y dependerá directamente del Procurador General de Justicia del Estado, y tendrá las atribuciones, que serán ejercidas por los elementos que integran la misma, independientemente de sus cargos o jerarquías, siguientes:
 
 I.- Investigar, por orden del Ministerio Público, la comisión de hechos que puedan constituir delitos, así como aquéllos de que tenga noticia directamente, debiendo en este caso hacerlo del conocimiento inmediato del Agente del Ministerio Público que corresponda;
 
 II.- Recabar las pruebas que ordene el Ministerio Público, tendientes a comprobar el cuerpo del delito y la probable responsabilidad de quienes en ellos participaron;
 
-III.- Dar cumplimiento a las órdenes de presentación, comparecencia, arresto, detención, arraigo, aprehensión, reaprehensión, y cateo, en la forma que corresponda conforme a la ley;
+> <small>(REFORMADA, B.O. 26 DE MARZO DE 2009)</small>
+
+III.- Dar cumplimiento a las órdenes de presentación, comparecencia, arresto, detención, arraigo, aprehensión, reaprehensión, protección y cateo, en la forma que corresponda conforme a la ley;
 
 IV.- Poner inmediatamente a disposición de la autoridad competente, en los términos legales correspondientes, a las personas detenidas en flagrancia y a las que deban ser presentadas por orden de autoridad ministerial o jurisdiccional, las que se efectuarán de conformidad con el artículo 16 de la Constitución Federal;
 
 V.- Recibir, en casos de urgencia, en los lugares donde no existan Agentes del Ministerio Público, ni quienes legalmente los suplan, denuncias sobre hechos que puedan constituir delitos del fuero común y practicar exclusivamente las diligencias urgentes que se requieran, debiendo dar cuenta de inmediato al Agente del Ministerio Público que corresponda, para que acuerde lo conducente;
 
-VI.- Llevar el registro, distribución, control y trámite de las órdenes de presentación, comparecencia, aprehensión, reaprehensión, cateo y arraigo, que giren los órganos jurisdiccionales, y las de presentación, protección, detención o investigación que despache el Ministerio Público, y en general de los demás servicios que en el ejercicio de sus atribuciones ejercen los miembros de la Policía Judicial;
+> <small>(REFORMADA, B.O. 26 DE MARZO DE 2009)</small>
+
+VI.- Llevar el registro, distribución, control y trámite de las ordenes de presentación, comparecencia, aprehensión, reaprehensión, protección, cateo y arraigo, que giren los órganos jurisdiccionales, y las de presentación, protección, detención o investigación que despache el Ministerio Público, y en general de los demás servicios que en el ejercicio de sus atribuciones ejercen los miembros de la Policía Estatal Investigadora;
 
 VII.- Rendir los informes necesarios para su intervención en los juicios de amparo;
 
@@ -583,17 +677,19 @@ XI.- Expedir gratuitamente, a quien lo solicite, la constancia de que en los arc
 
 XII.- Las demás que le señalen otras disposiciones legales o reglamentarias o les confieran sus superiores jerárquicos.
 
+> <small>(REFORMADO, B.O. 26 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 17.
 
-Las atribuciones que se especifican en el artículo anterior, deberán ser ejercidas por los miembros de la Policía Judicial del Estado, la cual estará al mando del Ministerio Público, sin admitirse en ningún caso delegación de funciones o apoyos de otras personas o corporaciones no solicitadas y autorizadas por dichos superiores, bajo la más estricta responsabilidad de éstos.
+Las atribuciones que se especifican en el artículo anterior, deberán ser ejercidas por los miembros de la Policía Estatal Investigadora, la cual estará al mando del Ministerio Público, sin admitirse en ningún caso delegación de funciones o apoyos de otras personas o corporaciones no solicitadas y autorizadas por dichos superiores, bajo la más estricta responsabilidad de éstos.
 
-La investigación y persecución policial se sujetará en todo momento al principio de respeto a los derechos humanos y se ejercerá con estricto apego a la legalidad. El Ministerio Público en cada caso concreto instruirá a la Policía Judicial sobre elementos o indicios que deban ser investigados o recabados para la comprobación del cuerpo del delito y la probable responsabilidad.
+La investigación y persecución policial se sujetará en todo momento al principio de respeto a los derechos humanos y se ejercerá con estricto apego a la legalidad. El Ministerio Público en cada caso concreto instruirá a la Policía Estatal Investigadora sobre elementos o indicios que deban ser investigados o recabados para la comprobación del cuerpo del delito y la probable responsabilidad.
 
-> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, B.O. 26 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 18.
 
-La Policía Judicial del Estado, en el desempeño de sus funciones y conforme a los lineamientos que al efecto expida el Procurador General de Justicia del Estado, se podrá coordinar con otros cuerpos de seguridad, en los términos que para tal efecto señala la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, la Ley de la Policía Federal Preventiva, la Ley de Seguridad Pública para el Estado de Sonora y este Reglamento.
+La Policía Estatal Investigadora, en el desempeño de sus funciones y conforme a los lineamientos que al efecto expida el Procurador General de Justicia del Estado, se podrá coordinar con otros cuerpos de seguridad, en los términos que para tal efecto señala la Ley General del Sistema Nacional de Seguridad Pública, la Ley de la Policía Federal Preventiva, la Ley de Seguridad Pública para el Estado de Sonora y este Reglamento.
 
 ###### ARTICULO 19.
 
@@ -601,15 +697,17 @@ La Visitaduría General, cuyo Director General se denominará Visitador General,
 
 I.- (DEROGADA, B.O. 17 DE NOVIEMBRE DE 2005)
 
-> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, B.O. 26 DE MARZO DE 2009)</small>
 
-II.- Practicar a las Agencias del Ministerio Público, a la Dirección General de Policía Judicial y bases operativas de la misma, a las unidades administrativas de la Procuraduría y a las Delegaciones Regionales, previo acuerdo del titular de la dependencia, visitas de inspección, supervisión, control y evaluación técnico-jurídicas, para comprobar que su actuación se inscribe en el marco jurídico sustantivo, adjetivo, orgánico y reglamentario que rige a la Institución y proponer al Procurador las medidas preventivas o correctivas necesarias;
+II.- Practicar a las Agencias del Ministerio Público, a la Dirección General de Policía Estatal Investigadora y bases operativas de la misma, a las unidades administrativas de la Procuraduría y a las Delegaciones Regionales, previo acuerdo del titular de la dependencia, visitas de inspección, supervisión, control y evaluación técnico-jurídicas, para comprobar que su actuación se inscribe en el marco jurídico sustantivo, adjetivo, orgánico y reglamentario que rige a la Institución y proponer al Procurador las medidas preventivas o correctivas necesarias;
 
 III.- Ejercer e instrumentar las normas que, en materia de control y evaluación técnico-jurídica, fije el Procurador General de Justicia;
 
 IV.- Verificar que el personal de la Procuraduría General de Justicia del Estado, en ejercicio de sus funciones, observe las obligaciones inherentes a su calidad de servidores públicos y ejerza sus atribuciones o funciones específicas con la diligencia necesaria para una pronta y eficaz procuración de justicia;
 
-V.- Verificar que los lineamientos de mando, jerarquías y relaciones de subordinación y coordinación en la Policía Judicial del Estado, sean las adecuadas para el ejercicio de sus atribuciones en materia de investigación de los hechos delictivos, así como para el cumplimiento de las órdenes de presentación, comparecencia, aprehensión, cateos y las demás que le giren los Jueces y el Ministerio Público en ejercicio de sus atribuciones;
+> <small>(REFORMADA, B.O. 26 DE MARZO DE 2009)</small>
+
+V.- Verificar que los lineamientos de mando, jerarquías y relaciones de subordinación y coordinación en la Policía Estatal Investigadora, sean las adecuadas para el ejercicio de sus atribuciones en materia de investigación de los hechos delictivos, así como para el cumplimiento de las órdenes de presentación, comparecencia, aprehensión, cateos y las demás que le giren los Jueces y el Ministerio Público en ejercicio de sus atribuciones;
 
 VI.- Comprobar con un enfoque técnico-jurídico el cumplimiento de los objetivos contenidos en los programas de las distintas unidades administrativas de la Procuraduría y proponer las medidas que tiendan a eficientar las operaciones de las mismas;
 
@@ -619,9 +717,9 @@ VIII.- Informar al titular de la Procuraduría sobre los resultados de sus activ
 
 IX.- Conocer y recibir quejas y denuncias contra servidores públicos de la Procuraduría, encausándolos cuando así proceda e informando de ello al Procurador;
 
-> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, B.O. 26 DE MARZO DE 2009)</small>
 
-X.- Atender y llevar a cabo el procedimiento que corresponda, de acuerdo con los artículo 31, 34 y demás relativos de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Sonora, de las denuncias de cualquier interesado o de los titulares de las unidades administrativas de la Procuraduría, respecto de la actuación de los Agentes del Ministerio Público, los Agentes y Jefes de Grupo de la Policía Judicial y de los Peritos oficiales; y
+X.- Atender y llevar a cabo el procedimiento que corresponda, de acuerdo con los artículo (sic) 31, 34 y demás relativos de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Sonora, de las denuncias de cualquier interesado o de los titulares de las unidades administrativas de la Procuraduría, respecto de la actuación de los Agentes del Ministerio Público, los Agentes y Jefes de Grupo de la Policía Estatal Investigadora y de los Peritos Oficiales; y
 
 XI.- Las demás que le señalen otras disposiciones o le confiera el Procurador General de Justicia.
 
@@ -671,13 +769,43 @@ XVII.- Ejercer las atribuciones que le confiere la Ley que Crea el Fondo para la
 
 XVIII.- Integrar y mantener constantemente actualizado el Registro de Antecedentes de Elementos Activos y Ex-elementos del Ministerio Público y sus Órganos Auxiliares;
 
-> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, B.O. 26 DE MARZO DE 2009)</small>
 
-XIX.- Recibir, registrar, custodiar, conservar y supervisar los bienes asegurados por el Ministerio Público; y
+XIX.- Recibir, registrar, custodiar, conservar y supervisar los bienes asegurados por el Ministerio Público;
 
-> <small>(ADICIONADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(ADICIONADA, B.O. 26 DE MARZO DE 2009)</small>
 
-XX.- Las demás que le señalen otras disposiciones o le confiera el Procurador General de Justicia.
+XX.- Expedir, conforme legalmente proceda, certificaciones de documentos administrativos que obren en los archivos de la dependencia; y
+
+XXI.- Las demás que le señalen otras disposiciones o le confiera el Procurador General de Justicia.
+
+> <small>(ADICIONADO, B.O. 26 DE MARZO DE 2009)</small>
+
+ARTICULO 20 BIS.- La Dirección General de Capacitación, Evaluación y Seguimiento, estará adscrita directamente al Procurador General de Justicia del Estado y tendrá las siguientes atribuciones:
+
+I.- Diseñar el Programa Anual de Capacitación de la Procuraduría General de Justicia;
+
+II.- Realizar las gestiones ante el representante del Fondo de Seguridad para el financiamiento de los eventos de capacitación;
+
+III.- Organizar y supervisar los eventos de capacitación programados en el año;
+
+IV.- Mantener relaciones con la Academia Nacional de Seguridad Pública y la Academia Regional de Seguridad Pública, Instituto Nacional de Ciencias Penales, Centro de Capacitación del Gobierno del Estado, Instituto Superior de Seguridad Pública del Estado y demás instituciones educativas para diseñar e implementar los cursos programados en el Programa Anual de Capacitación de la Procuraduría General de Justicia;
+
+V.- Promover el establecimiento de normas, políticas, lineamientos y procedimientos que permitan tener un sistema de profesionalización adecuado;
+
+VI.- Llevar un registro ordenado del personal que recibe la capacitación;
+
+VII.- Actualizar la información registrada en el Sistema de Gestión de Capital Intelectual de la Procuraduría General de Justicia del Estado;
+
+VIII.- Expedir y/o tramitar las constancias de participación en los eventos de capacitación;
+
+IX.- Evaluar la efectividad del cumplimiento de las metas y objetivos del Programa de Capacitación;
+
+X. Participar, en materia de capacitación, en los comités y/o comisiones a las que sea convocada;
+
+XI.- Desarrollar todas aquellas funciones inherentes al área de su competencia; y
+
+XII.- Las demás que le señalen otras disposiciones legales o reglamentarias o le confieran sus superiores jerárquicos.
 
 ### CAPITULO VI. DE LA UNIDAD CENTRAL DE AGENTES ESPECIALES DEL MINISTERIO PÚBLICO
 
@@ -713,9 +841,11 @@ II.- Delegación Regional de la Procuraduría General de Justicia del Estado, co
 
 III.- Delegación Regional de la Procuraduría General de Justicia del Estado, con sede en la Ciudad de Caborca, Sonora y jurisdicción en los Distritos Judiciales de Altar, Puerto Peñasco y San Luis Río Colorado.
 
+> <small>(REFORMADO, B.O. 26 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 23.
 
-Al frente de las Delegaciones Regionales habrá un Delegado Regional, Agente del Ministerio Público, quien representará al Procurador, en los términos de sus instrucciones. Dichas Delegaciones se integrarán por los Subdelegados, Agentes del Ministerio Público, elementos de la Policía Judicial y de los Servicios Periciales y por los servidores públicos que se le adscriban, en razón de los servicios que en cada caso se deban prestar.
+Al frente de las Delegaciones Regionales habrá un Delegado, Agente del Ministerio Público, quien representará al Procurador, en los términos de sus instrucciones. Dichas Delegaciones se integrarán por los Subdelegados, Agentes del Ministerio Público, elementos de la Policía Estatal Investigadora y de los servicios periciales y por los servidores públicos que se le adscriban, en razón de los servicios que en cada caso se deban prestar.
 
 ###### ARTICULO 24.
 
@@ -727,7 +857,9 @@ Los Delegados Regionales ejercerán aquellas atribuciones que expresamente les d
 
 I.- Planear, organizar, dirigir, controlar y evaluar la ejecución de los programas y acciones técnicas, jurídicas y administrativas encomendadas a las unidades que integren la Delegación a su cargo, y mantener informado al Procurador sobre su desarrollo;
 
-II.- Supervisar las actuaciones de los Subdelegados, Agentes del Ministerio Público, de los elementos de la Policía Judicial y de los Servicios Periciales y de todos aquellos servidores públicos adscritos a la Delegación, a fin de garantizar una estricta observancia de las leyes y la mayor eficacia en la prestación del servicio;
+> <small>(REFORMADA, B.O. 26 DE MARZO DE 2009)</small>
+
+II.- Supervisar las actuaciones de los Subdelegados, Agentes del Ministerio Público, de los elementos de la Policía Estatal Investigadora y de los Servicios Periciales y de todos aquellos servidores públicos adscritos a la Delegación, a fin de garantizar una estricta observancia de las leyes y la mayor eficacia en la prestación del servicio;
 
 III.- Concurrir e intervenir en las diligencias que se practiquen en los Tribunales Regionales de Circuito con residencia en la circunscripción territorial de la Delegación, con motivo de la interposición de recursos, así como estudiar los expedientes en los que se dé vista al Ministerio Público y expresar los agravios que correspondan a dicha Institución tanto en materia penal, civil y de lo familiar;
 
@@ -747,7 +879,9 @@ IX.- Las demás que le señalen otras disposiciones legales o le confiera el Pro
 
 ARTICULO 25 BIS.- La Procuraduría General de Justicia del Estado, contará con un órgano desconcentrado denominado Unidad Especializada en Procuración de Justicia para Adolescentes, a quien en lo sucesivo se le denominará la Unidad, que se encargará de la investigación y persecución de conductas tipificadas como delitos por las leyes penales, que se atribuyan a los adolescentes en los términos previstos por la Ley que Establece el Sistema Integral de Justicia para Adolescentes del Estado de Sonora.
 
-Al frente de esta Unidad habrá un Director General, quien será Agente del Ministerio Público para todos los efectos legales que correspondan y se integrará por los agentes del Ministerio Público, elementos de la Policía Judicial, de servicios periciales y los servidores públicos especializados que se le adscriban, en razón de los servicios que en cada caso se deban prestar.
+> <small>(REFORMADO, B.O. 26 DE MARZO DE 2009)</small>
+
+Al frente de esta Unidad habrá un Director General, quien será Agente del Ministerio Público para todos los efectos legales que correspondan y se integrará por los agentes del ministerio público, elementos de la Policía Estatal Investigadora, de servicios periciales y los servidores públicos especializados que se le adscriban, en razón de los servicios que en cada caso se deban prestar.
 
 La Unidad desarrollará sus actividades con autonomía técnica, ajustando su funcionamiento a los principios, normas y directrices establecidos en la materia, en los articulo 18 y 21 de la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, las leyes federal y estatal para la Protección de los Derechos de las Niños, Niñas y Adolescentes y en la Ley que Establece el Sistema Integral de Justicia para Adolescentes del Estado de Sonora.
 
@@ -757,7 +891,9 @@ ARTICULO 25 BIS A- El titular de la Unidad Especializada en Procuración de Just
 
 I.- Planear, dirigir, organizar, controlar y evaluar la ejecución de los programas y acciones técnicas, jurídicas y administrativas encomendadas a la Unidad a su cargo y mantener informado al Procurador sobre su desarrollo;
 
-II.- Supervisar las actuaciones de los Agentes del Ministerio Público, de los elementos de la Policía Judicial y de los servicios periciales y de Iodos aquellos servidores públicos adscritos a la Unidad, a fin de garantizar una estricta observancia de las leyes y la mayor eficacia y eficiencia en la prestación del servicio;
+> <small>(REFORMADA, B.O. 26 DE MARZO DE 2009)</small>
+
+II.- Supervisar las actuaciones de los Agentes del Ministerio Público, de los elementos de la Policía Estatal Investigadora y de los servicios periciales y de todos aquellos servidores públicos adscritos a la Unidad, a fin de garantizar una estricta observancia de las leyes y la mayor eficacia y eficiencia en la prestación del servicio;
 
 III.- Concurrir e intervenir en las diligencias que se practiquen en el Tribunal Unitario Regional de Circuito con motivo de la interposición de recursos, así como estudiar los expedientes en los que se dé vista al Ministerio Público y expresar los agravios que correspondan a dicha Unidad en la materia;
 
@@ -779,7 +915,9 @@ ARTICULO 25 BIS B.- La Unidad Especializada en Procuración de Justicia para Ado
 
 I.- Investigar y perseguir las conductas tipificadas como delito por las leyes penales atribuidas a los adolescentes, en los términos previstos en la Ley que Establece el Sistema Integral de Justicia para Adolescentes del Estado de Sonora y demás disposiciones aplicables;
 
-II.- Velar por que los agentes de la Policía Judicial del Estado que realicen la detención en flagrancia de un adolescente, lo pongan de inmediato en custodia en los Centros Especializados en la Atención, Tratamiento y Aplicación de Medidas a los Adolescentes, a los que se refiere la Ley que Establece el Sistema Integral de Justicia para Adolescentes del Estado de Sonora, haciendo constar mediante oficio la hora y fecha de esta circunstancia, así como la de su disposición ante el propio Agente del Ministerio Público;
+> <small>(REFORMADA, B.O. 26 DE MARZO DE 2009)</small>
+
+II.- Velar que los agentes de la Policía Estatal Investigadora que realicen la detención en flagrancia de un adolescente, lo pongan de inmediato en custodia en los Centros Especializados en la Atención, Tratamiento y Aplicación de Medidas a los Adolescentes, a los que se refiere la Ley que Establece el Sistema Integral de Justicia para Adolescentes del Estado de Sonora, haciendo constar mediante oficio la hora y fecha de esta circunstancia, así como la de su disposición ante el propio Agente del Ministerio Público;
 
 III.- Informar de inmediato al adolescente y a sus padres, tutores o personas que ejerzan la patria potestad, el motivo de su detención, en su caso, la persona que le atribuye la realización de la conducta tipificada como delito, la naturaleza y causa de la imputación y los derechos y garantías que le asisten;
 
@@ -807,9 +945,11 @@ XIV.- Las demás que le señalen las disposiciones legales o reglamentarias, o l
 
 ### CAPITULO VIII. DEL REGISTRO DE ANTECEDENTES DE ELEMENTOS ACTIVOS Y EX ELEMENTOS DEL MINISTERIO PUBLICO Y SUS AUXILIARES
 
+> <small>(REFORMADO, B.O. 26 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 26.
 
-El Registro de Antecedentes de Elementos Activos y Ex elementos del Ministerio Público y sus Auxiliares, tiene por objeto la inscripción de los datos que permitan identificar en forma individual a los elementos activos e inactivos del Ministerio Público, de la Policía Judicial y de los Servicios Periciales.
+El Registro de Antecedentes de Elementos Activos y Ex-elementos del Ministerio Público y sus Auxiliares, tiene por objeto la inscripción de los datos que permitan identificar en forma individual a los elementos activos e inactivos del Ministerio Público, de la Policía Estatal Investigadora y de los Servicios Periciales.
 
 ###### ARTICULO 27.
 
@@ -839,9 +979,11 @@ La información recopilada en el Registro será confidencial y únicamente se po
 
 ### CAPITULO IX. DEL SERVICIO CIVIL DE CARRERA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO
 
+> <small>(REFORMADO, B.O. 26 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 30.
 
-El Servicio Civil de Carrera se establece para dar cumplimiento a lo dispuesto en el artículo 18 de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Sonora, y comprende los requisitos y procedimientos para el reclutamiento, selección, ingreso, formación, capacitación, desarrollo, actualización, permanencia, otorgamiento de estímulos y promoción de los Agentes del Ministerio Público, Agentes de la Policía Judicial y Peritos, con la finalidad de lograr un adecuado desempeño de sus funciones y elevar la calidad de los servicios de la Institución del Ministerio Público hacia la comunidad.
+El Servicio Civil de Carrera se establece para dar cumplimiento a lo dispuesto en el artículo 18 de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Sonora, y comprende los requisitos y procedimientos para el reclutamiento, selección, ingreso, formación, capacitación, desarrollo, actualización, permanencia, otorgamiento de estímulos y promoción de los Agentes del Ministerio Público, Agentes de la Policía Estatal Investigadora y Peritos, con la finalidad de lograr un adecuado desempeño de sus funciones y elevar la calidad de los servicios de la Institución del Ministerio Público hacia la comunidad.
 
 ### CAPITULO X. DEL PROCEDIMIENTO DE RECLUTAMIENTO, SELECCION E INGRESO
 
@@ -867,7 +1009,9 @@ III.- Aplicación de exámenes:
 
 a).- Psicométrico;
 
-b).- De acondicionamiento físico, en los casos de Agentes de la Policía Judicial; y
+> <small>(REFORMADO, B.O. 26 DE MARZO DE 2009)</small>
+
+b).- De acondicionamiento físico, en los casos de Agentes de la Policía Estatal Investigadora; y
 
 c) Conocimientos básicos de acuerdo a la categoría a la que aspire.
 
@@ -875,7 +1019,9 @@ c) Conocimientos básicos de acuerdo a la categoría a la que aspire.
 
 Las personas que hayan resultado seleccionadas conforme el procedimiento anterior, ingresarán al curso inicial de formación básica, el cual versará sobre las siguientes áreas:
 
-I.- Área de acondicionamiento físico, tratándose de aspirantes a ingresar a la Policía Judicial;
+> <small>(REFORMADA, B.O. 26 DE MARZO DE 2009)</small>
+
+I.- Área de acondicionamiento físico, tratándose de aspirantes a ingresar a la Policía Estatal Investigadora;
 
 II.- Área legal;
 
@@ -893,11 +1039,11 @@ El curso inicial de formación básica tendrá como objetivo fundamental lograr 
 
 El desarrollo de los cursos mencionados en el párrafo anterior estará a cargo del Instituto Superior de Seguridad Pública del Estado de Sonora o de alguna otra Institución que la propia Procuraduría reconozca para tales efectos.
 
-> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, B.O. 26 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 34.
 
-Al concluir el curso inicial de formación básica, el aspirante presentará un examen de oposición, que será evaluado por el Instituto Superior de Seguridad Pública; dicha evaluación se integrará al expediente individual, el cual será remitido al Procurador General de Justicia del Estado, para la selección correspondiente. En el caso de aspirantes a Agentes de la Policía Judicial la evaluación se remitirá a la Junta de Honor, Selección y Promoción de la Policía Judicial, quien decidirá dicha selección.
+Al concluir el curso inicial de formación básica, el aspirante presentará un examen de oposición, que será evaluado por el Instituto Superior de Seguridad Pública; dicha evaluación se integrará al expediente individual, el cual será remitido al Procurador General de Justicia del Estado, para la selección correspondiente. En el caso de aspirantes a Agentes de la Policía Estatal Investigadora la evaluación se remitirá a la Junta de Honor, Selección y Promoción de la Policía Estatal Investigadora, la cual decidirá dicha selección.
 
 > <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
@@ -911,9 +1057,9 @@ Previo al inicio de los trámites de contratación, dicha Dirección General pro
 
 El personal de carrera será el que obtenga el nombramiento respectivo, en los términos de este Reglamento, previo el cumplimiento de los requisitos correspondientes a su ingreso o permanencia, y únicamente podrán ser separados de su cargo conforme a lo dispuesto por los ordenamientos legales aplicables.
 
-> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, B.O. 26 DE MARZO DE 2009)</small>
 
-Los ascensos del personal de carrera serán asignados por el Procurador General de Justicia del Estado, con excepción de los Agentes de la Policía Judicial que serán otorgados por la Junta de Honor, Selección y Promoción, previo dictamen que para tal efecto emita el Comité de Estímulos y Ascensos y de acuerdo con la legislación aplicable.
+Los ascensos del personal de carrera serán asignados por el Procurador General de Justicia del Estado, con excepción de los Agentes de la Policía Estatal Investigadora que serán otorgados por la Junta de Honor, Selección y Promoción, previo dictamen que para tal efecto emita el Comité de Estímulos y Ascensos y de acuerdo con la legislación aplicable.
 
 ###### ARTICULO 37.
 
@@ -1003,9 +1149,11 @@ II.- No ser menor de veintitrés años de edad el día de la solicitud; y
 
 III.- Los demás que señalen las leyes, reglamentos y la convocatoria que en su caso se expida, para aspirantes a ingresar como Secretario Auxiliar de Acuerdos.
 
-###### ARTICULO 46.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE MARZO DE 2009)</small>
 
-Para ser miembro de la Policía Judicial se requiere:
+###### ARTÍCULO 46.
+
+Para ser miembro de la Policía Estatal Investigadora se requiere:
 
 > <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
@@ -1033,11 +1181,13 @@ VII.- No estar suspendido ni haber sido destituido o inhabilitado por resolució
 
 VIII.- Aprobar los cursos de formación básica impartido por el Instituto Superior de Seguridad Pública del Estado de Sonora, o en alguna otra Institución que la Junta de Honor, Selección y Promoción reconozca para esos efectos; y
 
-IX.- Los demás que señalen las leyes y reglamentos y la convocatoria, que en su caso se expida, para aspirantes a ingresar como Agentes de la Policía Judicial.
+> <small>(REFORMADA, B.O. 26 DE MARZO DE 2009)</small>
 
-> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+IX.- Los demás que señalen las leyes y reglamentos y la convocatoria, que en su caso se expida, para aspirantes a ingresar como Agentes de la Policía Estatal Investigadora.
 
-Para ingresar como Agente de la Policía Judicial, deberán ser egresados del Instituto Superior de Seguridad Pública del Estado, o de alguna otra Institución equivalente que la Junta de Honor, Selección y Promoción reconozca para tales efectos.
+> <small>(REFORMADO, B.O. 26 DE MARZO DE 2009)</small>
+
+Para ingresar como Agente de la Policía Estatal Investigadora, deberán ser egresados del Instituto Superior de Seguridad Pública del Estado, o de alguna otra Institución equivalente que la Junta de Honor, Selección y Promoción reconozca para tales efectos.
 
 > <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
@@ -1117,11 +1267,11 @@ Es obligación de todos los servidores públicos de la Procuraduría someterse a
 
 #### SECCION PRIMERA. DEL COMITÉ DE ESTIMULOS Y ASCENSOS Y DE LA JUNTA DE HONOR, SELECCIÓN Y PROMOCIÓN
 
-> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, B.O. 26 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 53.
 
-El Comité de Estímulos y Ascensos será el órgano colegiado de la Procuraduría encargado del desarrollo del procedimiento de ascensos, estímulos, premios y recompensas del Servicio Civil de Carrera de la Institución, con excepción de los Agentes de la Policía Judicial, cuya atribución estará a cargo de la Junta de Honor, Selección y Promoción.
+El Comité de Estímulos y Ascensos será el órgano colegiado de la Procuraduría encargado del desarrollo del procedimiento de ascensos, estímulos, premios y recompensas del Servicio Civil de Carrera de la Institución, con excepción de los Agentes de la Policía Estatal Investigadora, cuya atribución estará a cargo de la Junta de Honor, Selección y Promoción.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
@@ -1143,9 +1293,9 @@ El Presidente tendrá voto de calidad, para el caso de empate en las determinaci
 
 De los acuerdos tomados en cada sesión, el Secretario Técnico será responsable de asentarlos en el libro de actas del Comité de Estímulos y Ascensos del personal de carrera de la Procuraduría, mismo que estará dividido en dos secciones: la de ascensos y la de estímulos, premios y recompensas.
 
-> <small>(ADICIONADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, B.O. 26 DE MARZO DE 2009)</small>
 
-ARTICULO 55 BIS.- La Junta de Honor, Selección y Promoción de la Policía Judicial será el órgano colegiado de la Procuraduría encargado del desarrollo de] procedimiento de ascensos por promoción de los agentes y jefes de grupo de la Policía Judicial, así como del otorgamiento de reconocimientos, premios y condecoraciones.
+ARTICULO 55 BIS.- La Junta de Honor, Selección y Promoción de la Policía Estatal Investigadora será el órgano colegiado de la Procuraduría encargado del desarrollo del procedimiento de ascensos por promoción de los agentes y jefes de grupo de la Policía Estatal Investigadora, así como del otorgamiento de reconocimientos, premios y condecoraciones.
 
 > <small>(ADICIONADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
@@ -1183,7 +1333,9 @@ a) Ministerio Público Titular.
 
 b) Secretario Auxiliar de Acuerdos.
 
-II.- Personal de la Policía Judicial:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE MARZO DE 2009)</small>
+
+II.- Personal de la Policía Estatal Investigadora:
 
 a) Jefe de Grupo.
 
@@ -1205,17 +1357,17 @@ b) Técnico.
 
 A cada categoría corresponderán las percepciones que determine el presupuesto relativo.
 
-> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, B.O. 26 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 59.
 
-El Comité de Estímulos y Ascensos del personal de carrera de la Procuraduría, tiene por objeto analizar, dictaminar y proponer con base en los criterios establecidos en el presente Reglamento a los miembros del Servicio Civil de Carrera de la Procuraduría que se hayan hecho acreedores a ascensos de categoría. Asimismo la Junta de Honor, Selección y Promoción deberá analizar y resolver, con base en los criterios que se señalan en este Reglamento, a los Agentes de la Policía Judicial que se hayan hecho acreedores a ascenso de categoría.
+El Comité de Estímulos y Ascensos del personal de carrera de la Procuraduría, tiene por objeto analizar, dictaminar y proponer con base en los criterios establecidos en el presente Reglamento a los miembros del Servicio Civil de Carrera de la Procuraduría que se hayan hecho acreedores a ascensos de categoría. Asimismo la Junta de Honor, Selección y Promoción deberá analizar y resolver, con base en los criterios que se señalan en este Reglamento, a los Agentes de la Policía Estatal Investigadora que se hayan hecho acreedores a ascenso de categoría.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE MARZO DE 2009)</small>
 
-###### ARTICULO 60.
+###### ARTÍCULO 60.
 
-El Comité de Estímulos y Ascensos del personal de carrera de la Procuraduría o la Junta de Honor, Selección y Promoción de la Policía Judicial, según sea el caso, para el otorgamiento de ascensos deberá tomar en cuenta los siguientes aspectos:
+El Comité de Estímulos y Ascensos del personal de carrera de la Procuraduría o la Junta de Honor, Selección y Promoción de la Policía Estatal Investigadora, según sea el caso, para el otorgamiento de ascensos deberá tomar en cuenta los siguientes aspectos:
 
 I.- Acreditación de los requisitos de la categoría en concurso;
 
@@ -1245,11 +1397,11 @@ El Comité de Estímulos y Ascensos o la Junta de Honor, Selección y Promoción
 
 Para acreditar la buena conducta y la capacidad profesional del personal de carrera de la Procuraduría, bastará con el informe que rinda el Director General de Programación, Organización y Presupuesto, el cual contendrá los antecedentes del servidor público que obren en su expediente y las constancias que le haya otorgado la Procuraduría respecto de los cursos que haya impartido el Instituto Superior de Seguridad Pública del Estado o una Institución educativa que la Procuraduría reconozca para tales efectos, y que hubiere aprobado el aspirante.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 62.
 
-Para realizar el dictamen de ascensos correspondientes al personal de la Policía Judicial, la Junta de Honor, Selección y Promoción deberá tomar en cuenta que el aspirante a la categoría de Jefe de Grupo reúna los requisitos siguientes:
+Para realizar el dictamen de ascensos correspondientes al personal de la Policía Estatal Investigadora, la Junta de Honor, Selección y Promoción deberá tomar en cuenta que el aspirante a la categoría de Jefe de Grupo reúna los requisitos siguientes:
 
 I.- Contar con antigüedad mínima de cinco años como Agente;
 
@@ -1295,27 +1447,29 @@ El Comité de Estímulos y Ascensos o la Junta de Honor, Selección y Promoción
 
 El concurso de oposición consistirá en examen escrito que versará sobre las principales áreas y los conocimientos básicos de la categoría que se concursa. El concurso de oposición tendrá un valor del cincuenta por ciento de la calificación total, y el cincuenta por ciento restante lo integrarán los factores curriculares así como los informes señalados en el presente Capítulo.
 
-> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, B.O. 26 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 66.
 
-En el caso del artículo anterior, el Secretario Técnico del Comité de Estímulos y Ascensos del personal de carrera de la Procuraduría presentará al Procurador General de Justicia los resultados obtenidos, para que éste otorgue los respectivos ascensos a quienes se hayan hecho acreedores a los mismos. Igualmente la Junta de Honor, Selección y Promoción de los resultados obtenidos otorgará los ascensos a los elementos de la Policía Judicial que se hayan hecho acreedores a los mismos.
+En el caso del artículo anterior, el Secretario Técnico del Comité de Estímulos y Ascensos del personal de carrera de la Procuraduría presentará al Procurador General de Justicia los resultados obtenidos, para que éste otorgue los respectivos ascensos a quienes se hayan hecho acreedores a los mismos. Igualmente la Junta de Honor, Selección y Promoción de los resultados obtenidos otorgará los ascensos a los elementos de la Policía Estatal Investigadora que se hayan hecho acreedores a los mismos.
 
-> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, B.O. 26 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 67.
 
-El personal de carrera de la Procuraduría podrá ascender de categoría por méritos extraordinarios, sin que se cubran los aspectos señalados en las fracciones II, V y VI del artículo 60 a propuesta del Procurador General de Justicia del Estado o de la Junta de Honor, Selección y Promoción, en el caso de los Agentes de la Policía Judicial.
+El personal de carrera de la Procuraduría podrá ascender de categoría por méritos extraordinarios, sin que se cubran los aspectos señalados en las fracciones II, V y VI del artículo 60 a propuesta del Procurador General de Justicia del Estado o de la Junta de Honor, Selección y Promoción, en el caso de los Agentes de la Policía Estatal Investigadora.
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 #### SECCION TERCERA. DE LOS ESTIMULOS, PREMIOS, RECOMPENSAS, RECONOCIMIENTOS Y CONDECORACIONES
 
-> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 68.
 
-Se establece el Programa de Estímulos, Premios y Recompensas a cargo del Comité de Estímulos y Ascensos, y el de Reconocimientos, Premios y Condecoraciones a cargo de la Junta de Honor, Selección y Promoción de la Policía Judicial, ambos con la finalidad de promover la participación, productividad, eficiencia, calidad e iniciativa, así como reconocer la lealtad y honestidad de los servidores públicos de la Institución para propiciar la satisfacción del empleo y el fortalecimiento del Servicio Civil de Carrera.
+Se establece el Programa de Estímulos, Premios y Recompensas a cargo del Comité de Estímulos y Ascensos, y el de Reconocimientos, Premios y Condecoraciones a cargo de la Junta de Honor, Selección y Promoción de la Policía Estatal Investigadora, ambos con la finalidad de promover la participación, productividad, eficiencia, calidad e iniciativa, así como reconocer la lealtad y honestidad de los servidores públicos de la Institución para propiciar la satisfacción del empleo y el fortalecimiento del Servicio Civil de Carrera.
+
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 Los órganos colegiados antes mencionados serán los encargados de desarrollar las actividades tendientes a incentivar los esfuerzos del personal del Servicio Civil de Carrera de la Procuraduría, mediante el establecimiento de mecanismos de calificación objetiva para el otorgamiento de estímulos, premios, recompensas, reconocimientos y condecoraciones.
 
@@ -1397,13 +1551,15 @@ El Órgano Colegiado correspondiente elegirá al servidor público del año, de 
 
 Los servidores públicos seleccionados a que se refiere el artículo anterior, se harán merecedores a los estímulos, premios, recompensas, reconocimientos y condecoraciones que en cada caso se determinen.
 
-###### ARTICULO 76.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE MARZO DE 2009)</small>
 
-El procedimiento para la selección del Agente del Ministerio Público, de la Policía Judicial y Perito del año, será el siguiente:
+###### ARTÍCULO 76.
 
-> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+El procedimiento para la selección del Agente del Ministerio Público, de la Policía Estatal Investigadora y Perito del año, será el siguiente:
 
-I.- Los superiores inmediatos de los Agentes del Ministerio Público, Agentes de la Policía Judicial y Peritos que consideren que uno de sus subalternos haya desempeñado una acción o conducta de gran beneficio para la Procuraduría o para la sociedad en general, podrán proponer al Comité de Estímulos y Ascensos o a la Junta de Honor, Selección y Promoción, en su caso, dentro de los quince días hábiles posteriores al acontecimiento, la candidatura del trabajador, la que irá acompañada de un informe y una evaluación de un máximo de tres cuartillas;
+> <small>(REFORMADA, B.O. 26 DE MARZO DE 2009)</small>
+
+I. Los superiores inmediatos de los Agentes del Ministerio Público, Agentes de la Policía Estatal Investigadora y Peritos que consideren que uno de sus subalternos haya desempeñado una acción o conducta de gran beneficio para la Procuraduría o para la sociedad en general, podrán proponer al Comité de Estímulos y Ascensos o a la Junta de Honor, Selección y Promoción, en su caso, dentro de los quince días hábiles posteriores al acontecimiento, la candidatura del trabajador, la que irá acompañada de un informe y una evaluación de un máximo de tres cuartillas;
 
 > <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
@@ -1449,17 +1605,21 @@ La permanencia en el cargo del personal del Servicio Civil de Carrera y el perso
 
 #### SECCION SEGUNDA. DE LAS NORMAS DE ACTUACIÓN
 
+> <small>(REFORMADO, B.O. 26 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 82.
 
-El respeto y observancia a los principios de constitucionalidad y legalidad, deberán ser el objetivo fundamental que guíe las actividades de todos y cada uno de los miembros del Ministerio Público, de la Policía Judicial y de los Servicios Periciales.
+El respeto y observancia a los principios de constitucionalidad y legalidad, deberán ser el objetivo fundamental que guíe las actividades de todos y cada uno de los miembros del Ministerio Público, de la Policía Estatal Investigadora y de los Servicios Periciales.
 
 ###### ARTICULO 83.
 
 En el orden institucional, todos los superiores jerárquicos son responsables de la conducta y actuación de sus subordinados en el desempeño de sus funciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 84.
 
-Para que la actuación de los integrantes del Ministerio Público, Policía Judicial y de los Servicios Periciales, se apegue a los principios constitucionales de legalidad, eficiencia, profesionalismo y honradez, se sujetarán como mínimo a los siguientes deberes:
+Para que la actuación de los integrantes del Ministerio Público, de la Policía Estatal Investigadora y de los Servicios Periciales, se apegue a los principios constitucionales de legalidad, eficiencia, profesionalismo y honradez, se sujetarán como mínimo a los siguientes deberes:
 
 I.- Conducirse siempre con apego al orden jurídico y respeto a los derechos humanos;
 
@@ -1505,17 +1665,23 @@ Además de las anteriores disposiciones, los miembros del Ministerio Público y 
 
 #### SECCION TERCERA. DE LAS NORMAS DE ETICA
 
+> <small>(REFORMADO, B.O. 26 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 85.
 
-Para los efectos del presente Reglamento, se entiende por Normas Éticas la conducta que todo miembro del Ministerio Público y de la Policía Judicial deben observar en el desempeño de sus actividades, a fin de cumplir con la Constitución Política de los Estados Unidos Mexicanos y de las leyes que de ella emanan y al mismo tiempo enaltecer los principios que rigen a la Institución.
+Para los efectos del presente Reglamento, se entiende por Normas Éticas la conducta que todo miembro del Ministerio Público y de la Policía Estatal Investigadora deben observar en el desempeño de sus actividades, a fin de cumplir con la Constitución Política de los Estados Unidos Mexicanos y de las leyes que de ella emanan y al mismo tiempo enaltecer los principios que rigen a la Institución.
+
+> <small>(REFORMADO, B.O. 26 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 86.
 
-Los miembros del Ministerio Público y de la Policía Judicial antepondrán a su interés personal la lealtad a su País, al Estado de Sonora y a las Instituciones, debiendo abstenerse de realizar actos en detrimento de estos valores; para tal efecto, deberán mantener y preservar un alto concepto del honor, la dignidad y la reputación profesional y personal.
+Los miembros del Ministerio Público y de la Policía Estatal Investigadora antepondrán a su interés personal la lealtad a su País, al Estado de Sonora y a las Instituciones, debiendo abstenerse de realizar actos en detrimento de estos valores; para tal efecto, deberán mantener y preservar un alto concepto del honor, la dignidad y la reputación profesional y personal.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 87.
 
-Los Agentes del Ministerio Público y elementos de la Policía Judicial del Estado, como servidores públicos encargados de hacer cumplir la ley están obligados a:
+Los Agentes del Ministerio Público y elementos de la Policía Estatal Investigadora, como servidores públicos encargados de hacer cumplir la ley están obligados a:
 
 I.- Investigar y perseguir los delitos, salvaguardando los derechos individuales de las personas y el respeto de su condición humana;
 
@@ -1535,7 +1701,9 @@ VIII.- Servir con integridad y eficiencia, realizando sus funciones con honestid
 
 IX.- Actuar con alto sentido de responsabilidad en el cumplimiento de sus deberes y de las órdenes que emita el Gobernador del Estado, el Procurador General de Justicia del Estado y demás superiores jerárquicos;
 
-X.- Abstenerse de participar en la comisión de hechos ilícitos o que contravengan las leyes, reglamentos, acuerdos, circulares y demás disposiciones en vigor, así como en cualquier otra actividad que vaya en detrimento del prestigio y honorabilidad de la Policía Judicial del Estado;
+> <small>(REFORMADA, B.O. 26 DE MARZO DE 2009)</small>
+
+X.- Abstenerse de participar en la comisión de hechos ilícitos o que contravengan las leyes, reglamentos, acuerdos, circulares y demás disposiciones en vigor, así como en cualquier otra actividad que vaya en detrimento del prestigio y honorabilidad de la Policía Estatal Investigadora;
 
 XI.- Abstenerse de atender o intervenir en asuntos oficiales que se ventilen ante la Institución, en las que tenga impedimento legal o razones personales, familiares o de negocios; en su caso, informarán inmediatamente por escrito a su superior; y
 
@@ -1543,25 +1711,35 @@ XII.- Las demás que le señalen otras disposiciones o le confiera el Procurador
 
 #### SECCION CUARTA. DE LAS NORMAS DE DISCIPLINA
 
+> <small>(REFORMADO, B.O. 26 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 88.
 
-Además de las anteriores disposiciones los elementos de la Policía Judicial deberán observar las Normas de Disciplina contenidas en la presente Sección.
+Además de las anteriores disposiciones los elementos de la Policía Estatal Investigadora deberán observar las Normas de Disciplina contenidas en la presente Sección.
+
+> <small>(REFORMADO, B.O. 26 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 89.
 
-Para los efectos de este Reglamento, se entenderá por Normas de Disciplina, el conjunto de reglas de observancia general y obligatoria para todos los integrantes de la Policía Judicial, tendientes a eficientar y prestigiar la actuación de los miembros de la Corporación.
+Para los efectos de este Reglamento, se entenderá por Normas de Disciplina, el conjunto de reglas de observancia general y obligatoria para todos los integrantes de la Policía Estatal Investigadora, tendientes a profesionalizar y prestigiar la actuación de los miembros de la Corporación.
+
+> <small>(REFORMADO, B.O. 26 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 90.
 
-Las normas de Disciplina, invariablemente tendrán como fundamento de procedibilidad, las disposiciones constitucionales, legales y reglamentarias que rigen la actuación policial, incluyendo las demás disposiciones que con ese propósito dicte el Procurador General de Justicia y el Director General de la Policía Judicial.
+Las normas de Disciplina, invariablemente tendrán como fundamento de procedibilidad, las disposiciones constitucionales, legales y reglamentarias que rigen la actuación policial, incluyendo las demás disposiciones que con ese propósito dicte el Procurador General de Justicia y el Director General de la Policía Estatal Investigadora.
+
+> <small>(REFORMADO, B.O. 26 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 91.
 
-Los miembros de la Policía Judicial, deberán tener un alto sentido del deber y de la subordinación, así como conocer dentro del marco jurídico que les es aplicable, el límite de sus atribuciones.
+Los miembros de la Policía Estatal Investigadora deberán tener un alto sentido del deber y de la subordinación, así como conocer dentro del marco jurídico que les es aplicable, el límite de sus atribuciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 92.
 
-Para cumplir con lo anterior, los miembros de la Policía Judicial, en el desempeño de sus funciones deberán:
+Para cumplir con lo anterior, los miembros de la Policía Estatal Investigadora, en el desempeño de sus funciones deberán:
 
 I.- Actuar con decisión en el cumplimiento de sus funciones, teniendo el legítimo derecho de autodefensa, absteniéndose de usar la fuerza, salvo cuando las circunstancias lo requieran para cumplir la misión encomendada. En todo caso tendrán la obligación de denunciar a sus superiores jerárquicos la inobservancia de esta disposición;
 
@@ -1692,3 +1870,9 @@ B.O. 22 DE MARZO DE 2007.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 26 DE MARZO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente ordenamiento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
