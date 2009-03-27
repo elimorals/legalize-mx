@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transporte-publico-para-el-municipio-de-26316"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-30"
-last_updated: "2009-01-02"
+last_updated: "2009-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26316&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSPORTE PUBLICO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 30 de agosto de 2002.
 
@@ -1829,7 +1829,11 @@ VI.- Carta de residencia;
 
 VII.- Indicar los elementos de que dispone para la explotación del servicio, así como acreditar la propiedad del vehículo; y
 
-VIII.- Recibo por pago de derechos correspondientes.
+VIII.- (DEROGADA, P.O. 27 DE MARZO DE 2009)
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2009)</small>
+
+ARTÍCULO 168 BIS.- Una vez autorizado el permiso, el Sistema lo notificará al interesado, quien deberá presentar ante el mismo Sistema el comprobante del pago de los derechos correspondientes en un plazo de diez días hábiles siguientes a la notificación. Transcurrido dicho plazo sin que se efectúe el pago, quedará sin efectos el permiso, debiéndose en su caso iniciar el trámite nuevamente.
 
 ###### ARTÍCULO 169.
 
@@ -3588,3 +3592,7 @@ P.O. 23 DE MAYO DE 2008.
 P.O. 2 DE ENERO DE 2009.
 
 ÚNICO: EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 27 DE MARZO DE 2009.
+
+Único.- El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
