@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2009-02-06"
+last_updated: "2009-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 25 de junio de 1999.
 
@@ -933,11 +933,11 @@ Para establecer el estado civil adquirido por los coahuilenses fuera de la Repú
 
 Los Oficiales del Registro Civil se suplirán unos a otros en sus faltas temporales en la forma que determinen las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2009)</small>
 
 ###### ARTÍCULO 161.
 
-La Dirección del Registro Civil velará por el buen funcionamiento de la institución y tendrá las atribuciones y obligaciones que determinen las disposiciones legales aplicables.
+La Dirección Estatal del Registro Civil velará por el buen funcionamiento de la institución y tendrá las atribuciones y obligaciones que determinen las disposiciones legales aplicables. Su titular estará facultado, además, para dar fe pública de los hechos jurídicos vinculados al estado civil de las personas.
 
 #### SECCIÓN SEGUNDA. DE LAS ACTAS DE NACIMIENTO
 
@@ -20542,3 +20542,13 @@ P.O. 6 DE FEBRERO DE 2009.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 27 DE MARZO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Dentro del plazo de 90 días hábiles siguientes a la entrada en vigor de esta ley, deberán realizarse las reformas a las leyes, reglamentos y demás disposiciones aplicables para adecuarlas a los términos del presente decreto.
+
+TERCERO. Cuando una ley, reglamento, decreto u otras disposiciones jurídicas o administrativas aludan al Oficial del Registro Civil, se entenderá hechas también al titular de la Dirección del Registro Civil del Estado de Coahuila, en lo que le sean aplicables.
+
+CUARTO. Se derogan las disposiciones que se opongan al presente decreto.
