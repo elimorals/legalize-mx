@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-asistencia-la-prevencion-y-la-atencion-de-la-45173"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2006-08-01"
+last_updated: "2009-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45173&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY PARA LA ASISTENCIA, LA PREVENCION Y LA ATENCION DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA EN EL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 27 DE MARZO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 10 de junio de 2005.
 
@@ -676,3 +678,43 @@ RICARDO TORRES ORIGEL
 P.O. 1 DE AGOSTO DE 2006.
 
 Artículo Único.- La presente modificación a la Ley para la Asistencia, la Prevención y la Atención de la Violencia Intrafamiliar del Estado de Guanajuato, entrará en vigencia el 12 doce de septiembre del año 2006 dos mil seis.
+
+P.O. 27 DE MARZO DE 2009.
+
+Inicio de Vigencia de la Ley
+
+Artículo Primero. La presente Ley entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación de la Ley para la Asistencia, la Prevención y la Atención de la Violencia Intrafamiliar
+
+Artículo Segundo. Se abroga la Ley para la Asistencia, la Prevención y la Atención de la Violencia Intrafamiliar del Estado de Guanajuato, contenida en el Decreto Número 182, expedida por la Quincuagésima Novena Legislatura del Estado, publicado en el Periódico Oficial del Gobierno del Estado número 92, Tercera Parte, de fecha 10 de junio de 2005.
+
+Plazo para la instalación del Consejo Estatal
+
+Artículo Tercero. El Consejo Estatal deberá instalarse en un plazo no mayor de noventa días contados a partir de que entre en vigencia la presente Ley.
+
+Por esta única ocasión la designación de los integrantes del Ayuntamiento se realizará por invitación del Titular del Poder Ejecutivo del Estado.
+
+Plazo para la conformación del Programa Estatal
+
+Artículo Cuarto. El Programa Estatal deberá estar concluido en un plazo no mayor de ciento ochenta días contados a partir de que se instale el Consejo Estatal.
+
+Plazo para las adecuaciones reglamentarias
+
+Artículo Quinto. El Titular del Poder Ejecutivo del Estado deberá expedir los reglamentos correspondientes en un plazo no mayor de ciento veinte días contados a partir de que se instale el Consejo Estatal.
+
+Los municipios deberán hacer las adecuaciones reglamentarias correspondientes para la aplicación de la Ley, en un término no mayor de ciento veinte días contados a partir de que entre en vigencia la Ley.
+
+Instalación de los CEMAIV
+
+Artículo Sexto. Los Centros para la Atención de la Violencia Intrafamiliar tendrán nueve meses contados a partir de la entrada en vigencia del presente Decreto para que se reestructuren como Centros Multidisciplinarios para la Atención Integral de la Violencia.
+
+Los CEMAJV se conformarán de los archivos, bienes muebles y expedientes de los Centros de Atención de la Violencia Intrafamiliar. Los procesos que se encuentren en trámite se regularizarán para continuar bajo el trámite que este Decreto prevé.
+
+.
+
+SE TRANSCRIBE EL TRANSITORIO DEL DECRETO No. 232, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
