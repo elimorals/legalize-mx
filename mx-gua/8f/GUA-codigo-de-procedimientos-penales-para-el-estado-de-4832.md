@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-penales-para-el-estado-de-4832"
 country: "mx"
 rank: "codigo"
 publication_date: "1959-04-02"
-last_updated: "2006-08-01"
+last_updated: "2009-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2009.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 2 de abril de 1959.
 
@@ -87,7 +87,9 @@ III.- Solicitar a la autoridad jurisdiccional las medidas precautorias de arraig
 
 IV.- Acordar la detención o retención de los indiciados cuando así proceda;
 
-V.- Dictar todas las medidas y providencias para proporcionar seguridad y auxilio a las víctimas;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2009)</small>
+
+V.- Dictar todas las medidas, providencias y órdenes de protección para proporcionar seguridad y auxilio a las víctimas;
 
 VI.- Determinar el archivo, la reserva o el ejercicio de la acción penal;
 
@@ -96,6 +98,24 @@ VII.- Conceder o revocar, cuando proceda, la libertad provisional del inculpado;
 VIII.- En caso procedente, promover la conciliación entre el inculpado y el ofendido; y
 
 IX.- Las demás que señalen las leyes.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2009)</small>
+
+Art. 3o bis.- En los casos de violencia intrafamiliar, el Ministerio Público podrá emitir órdenes de protección a favor de los receptores de violencia y de sus familiares, exponiendo las razones y los fundamentos que las justifiquen, las cuales tendrán una temporalidad no mayor de setenta y dos horas y deberán expedirse dentro de las veinticuatro horas siguientes al conocimiento de los hechos que las generen.
+
+Las órdenes de protección podrán ser:
+
+I.- La prohibición de ir a lugar determinado;
+
+II.- Abstenerse de realizar actos de perturbación o intimidación en contra de la victima, de sus bienes y familiares, en sus domicilios, lugares de trabajo, recreación o donde quiera que se encuentren;
+
+III.- Auxilio policíaco de reacción inmediata a favor de la persona receptora de violencia en el momento de solicitar el auxilio; y
+
+IV.- Mantenerse alejado a una distancia que considere pertinente según las circunstancias del caso.
+
+Las órdenes deberán ser notificadas de inmediato al generador de violencia y se dará cumplimiento a las mismas a través de las corporaciones policíacas de que se auxilie.
+
+En caso de que el inculpado quebrante las órdenes dictadas, se le sancionará en los términos de los artículos 255 y 256 del Código Penal para el Estado de Guanajuato.
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1994)</small>
 
@@ -4072,3 +4092,9 @@ Artículo Único.- El presente decreto entrará en vigor a los treinta días nat
 P.O. 1 DE AGOSTO DE 2006.
 
 Artículo Único.- Las presentes modificaciones al Código de Procedimientos Penales para el Estado de Guanajuato, entrará en vigencia el 12 doce del mes de septiembre del año 2006 dos mil seis.
+
+P.O. 27 DE MARZO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
