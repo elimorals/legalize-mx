@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2009-01-23"
+last_updated: "2009-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2009.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -277,7 +277,7 @@ En ejercicio de tal representación, podrá designar delegados o representantes 
 
 Podrá también nombrar uno o más apoderados especiales o generales, a fin de que actúen en representación del ayuntamiento ante los órganos jurisdiccionales y administrativos en los que se ventilen los litigios en que éste sea parte o tenga interés, otorgándoles facultades suficientes para la adecuada defensa de los intereses del mismo.
 
-### CAPITULO SEXTO. DEL NOMBRAMIENTO Y SUPLENCIA DE FUNCIONARIOS PUBLICOS
+### CAPITULO SEXTO. DEL NOMBRAMIENTO, SUPLENCIA Y EXCUSAS DE LOS SERVIDORES PUBLICOS
 
 ###### ARTICULO 24.
 
@@ -335,6 +335,8 @@ XXIII.- Presentar la Declaración Patrimonial, conforme lo establece la Ley de R
 
 La Declaración Patrimonial de los Titulares de las Dependencias de la Administración Pública Municipal Centralizada, de las Entidades Paramunicipales, la del Subdirector de Operación y Seguimiento de la Secretaría del Ayuntamiento y del Jefe del Departamento de Recursos Materiales de Oficialía Mayor se publicarán en el Periódico Oficial del Estado de Baja California, dentro de los 30 días siguientes a aquel en que concluyan los plazos señalados en el Artículo 78 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE MARZO DE 2009)</small>
+
 ### CAPITULO SEPTIMO. DE LAS COORDINACIONES ADMINISTRATIVAS
 
 ###### ARTICULO 25.
@@ -378,6 +380,16 @@ Para efectos de este artículo se considerará que el titular de una dependencia
 ###### ARTICULO 28.
 
 La suplencia del Presidente Municipal, de los titulares de las dependencias y de los jefes de departamentos (sic), en sesiones de gabinetes, comisiones, comités, órganos de gobierno de entidades, órganos desconcentrados y organismos similares, en los casos en que no exista disposición sobre el particular, se llevará a cabo por el funcionario que el mismo Presidente Municipal, el titular de la dependencia o el jefe de departamento determinen en cada caso.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2009)</small>
+
+ARTICULO 28 BIS.- Cuando un servidor público de la Administración Pública Municipal deba excusarse de conocer de algún asunto por virtud de un impedimento legal, procederá como sigue:
+
+I.- Lo comunicará a su superior jerárquico inmediato, quien designará al servidor público que conocerá del asunto, el que habrá de tener por lo menos la misma jerarquía del impedido, o el mismo superior substanciará y resolverá la cuestión;
+
+II.- Cuando quien se excuse sea el titular de una dependencia, el Presidente Municipal podrá proceder conforme a la fracción anterior, o encomendar la atención del asunto al servidor público que determine, aunque no tenga la misma jerarquía del impedido; y,
+
+III.- Cuando el superior jerárquico de un servidor público, tenga conocimiento que alguno de sus subalternos se encuentra impedido legalmente para conocer de algún asunto, le ordenará que proceda conforme a este artículo.
 
 ### CAPITULO PRIMERO. DE LAS DEPENDENCIAS Y ORGANOS QUE INTEGRAN LA ADMINISTRACION PUBLICA MUNICIPAL CENTRALIZADA
 
@@ -753,7 +765,7 @@ XIII.- Fomentar la cultura de protección civil, a través de la realización de
 
 > <small>(ADICIONADO, P.O. 25 DE ENERO DE 2008)</small>
 
-ARTICULO 41 QUARTER (SIC9.- Al Departamento para la Administración de Documentos, Públicos le corresponde recibir, despachar y resguardar toda la documentación que generen las dependencias y entidades, encargándose de:
+ARTICULO 41 QUARTER (SIC).- Al Departamento para la Administración de Documentos, Públicos le corresponde recibir, despachar y resguardar toda la documentación que generen las dependencias y entidades, encargándose de:
 
 I.- Aplicar y observar las disposiciones que le establecen los reglamentos municipales en materia de administración de documentos públicos, y archivo histórico;
 
@@ -3294,5 +3306,9 @@ ACUERDO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 91, 96 Y 96 TER AL REGL
 P.O. 23 DE ENERO DE 2009.
 
 ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE MARZO DE 2009.
+
+ÚNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 238, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL, DE LA LEY DE HACIENDA DEL ESTADO Y DE LA LEY PARA EL FOMENTO Y LA PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL PARA EL ESTADO DE SONORA”.]
