@@ -4,7 +4,7 @@ identifier: "COA-ley-del-registro-civil-para-el-estado-de-coahuila-de-33401"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-25"
-last_updated: "2007-12-28"
+last_updated: "2009-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 25 de julio de 2003.
 
@@ -144,6 +144,10 @@ La Dirección del Registro Civil tendrá su sede en la capital del Estado.
 ###### ARTÍCULO 16.
 
 El mando superior de la Dirección estará a cargo de un Director o de una Directora, quien deberá ejercer las atribuciones que le otorguen esta ley u otras disposiciones aplicables. En el desempeño de las funciones a su cargo, el Director o la Directora se podrá auxiliar de los titulares de las unidades administrativas que se determinen en el Reglamento Interior del Registro Civil.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2009)</small>
+
+El Director o Directora del Registro Civil, contara, además, con las atribuciones de un Oficial del Registro Civil, quedando facultado para dar fe pública de los hechos y actos jurídicos vinculados al estado civil de las personas.
 
 ###### ARTÍCULO 17.
 
@@ -1106,3 +1110,13 @@ P.O. 28 DE DICIEMBRE DE 2007.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 27 DE MARZO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Dentro del plazo de 90 días hábiles siguientes a la entrada en vigor de esta ley, deberán realizarse las reformas a las leyes, reglamentos y demás disposiciones aplicables para adecuarlas a los términos del presente decreto.
+
+TERCERO. Cuando una ley, reglamento, decreto u otras disposiciones jurídicas o administrativas aludan al Oficial del Registro Civil, se entenderá hechas también al titular de la Dirección del Registro Civil del Estado de Coahuila, en lo que le sean aplicables.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente decreto.
