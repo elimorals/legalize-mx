@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-ayuntamiento-de-mexicali-baja-23264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2008-07-11"
+last_updated: "2009-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2009.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -131,7 +131,13 @@ I.- Gozar de las mismas prerrogativas, participar en las discusiones y votacione
 
 II.- Solicitar la celebración de sesiones extraordinarias;
 
-III.- Proponer al Cabildo, los acuerdos necesarios para la buena marcha de la administración pública municipal.
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2009)</small>
+
+III.- Proponer al Cabildo, los acuerdos necesarios para la buena marcha de la administración pública municipal; y,
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2009)</small>
+
+IV.- Otorgar apoyos de orden social a los ciudadanos, conforme a las partidas autorizadas y a los lineamientos que se establezcan para tal efecto en la Norma Técnica de la materia.
 
 ###### ARTICULO 7.
 
@@ -213,7 +219,9 @@ V.- Votar a favor, en contra o abstenerse, en las sesiones de cabildo;
 
 VI.- Presentar su declaración sobre situación patrimonial, conforme lo establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
 
-#### SECCION III. DE LAS LICENCIAS, AUSENCIAS E INASISTENCIAS DE LOS INTEGRANTES DEL AYUNTAMIENTO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE MARZO DE 2009)</small>
+
+#### SECCION III. DE LAS LICENCIAS, AUSENCIAS, INASISTENCIAS Y EXCUSAS DE LOS INTEGRANTES DEL AYUNTAMIENTO
 
 ###### ARTICULO 11.
 
@@ -250,6 +258,14 @@ De las faltas de los integrantes del Ayuntamiento.- El Síndico Procurador o los
 ###### ARTICULO 17.
 
 De las faltas justificadas.- Solo se considerarán justificadas las faltas de los integrantes del Ayuntamiento cuando se encuentren en cumplimiento de una comisión asignada por el Cabildo o por problemas de Salud.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2009)</small>
+
+ARTICULO 17 BIS.- Cuando algún integrante del Ayuntamiento deba excusarse de conocer de algún asunto por virtud de un impedimento legal, se procederá como sigue:
+
+I.- Cuando se trate de asuntos que deba resolver el Cabildo o alguna Comisión del Ayuntamiento, se abstendrá de discutir y votar el acuerdo respectivo; y,
+
+II.- Si el impedimento es para la resolución de asuntos en órganos técnicos, de consulta, de gobierno de entidades, o de cualquier otro tipo en el que corresponda al integrante del Ayuntamiento participar, se excusará de conocer del mismo, o en su caso procederá conforme a la normatividad aplicable.
 
 ### CAPITULO TERCERO. DE LAS SESIONES DE CABILDO
 
@@ -867,7 +883,9 @@ X.- Desarrollo Rural;
 
 XI.- Salud, Deporte y Recreación;
 
-XII.- Educación y Cultura; y,
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2009)</small>
+
+XII.- Educación, Cultura y Asuntos Indígenas; y,
 
 XIII.- Asuntos Fronterizos.
 
@@ -1061,17 +1079,25 @@ IV.- Proponer al Cabildo la ejecución de obras para crear, mantener, conservar 
 
 V.- Las demás que el Ayuntamiento y este Reglamento le encomienden.
 
-> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 91.
 
-Comisión de Educación y Cultura.- La Comisión de Educación y Cultura tendrá las siguientes atribuciones:
+Comisión de Educación, Cultura y Asuntos Indígenas.- La Comisión de Educación, Cultura y Asuntos Indígenas, tendrá las siguientes atribuciones:
 
-I.- Dictaminar sobre proyectos de reglamentos, iniciativas de ley, decretos, y disposiciones normativas de observancia general en materia de educación y cultura.
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2009)</small>
+
+I.- Dictaminar sobre proyectos de reglamentos, iniciativas de ley, decretos, y disposiciones normativas de observancia general en materia de educación, cultura y asuntos indígenas;
+
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2008)</small>
 
 II.- Dictaminar sobre las propuestas encaminadas a incentivar los valores culturales, científicos e históricos en el Municipio;
 
-III.- Proponer al Cabildo los mecanismos e instrumentos necesarios para mejorar la prestación de servicios de educación en el Municipio; y,
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2009)</small>
+
+III.- Proponer al Cabildo los mecanismos e instrumentos necesarios para mejorar la prestación de servicios de educación y cultura en el municipio; así como las propuestas para la atención de los asuntos relativos a los pueblos indígenas residentes dentro de la circunscripción territorial del mismo; y,
+
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2008)</small>
 
 IV.- Las demás que el Ayuntamiento y este Reglamento le encomienden.
 
@@ -1366,3 +1392,21 @@ SEGUNDO.- Los reglamentos y acuerdos del Ayuntamiento que se refieran a cualquie
 P.O. 11 DE JULIO DE 2008.
 
 Artículo Único.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE MARZO DE 2009.
+
+ACUERDO QUE MODIFICA LA FRACCIÓN XII DEL ARTÍCULO 77, ASÍ COMO EL PRIMER PÁRRAFO Y LAS FRACCIONES I Y III DEL ARTÍCULO 91.
+
+Único.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE MARZO DE 2009.
+
+ACUERDO POR EL QUE SE REFORMAN Y ADICIONAN LAS FRACCIONES III Y IV DEL ARTÍCULO 6 AL REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI.
+
+ÚNICO: LA PRESENTE REFORMA ENTRARÁ EN VIGOR AL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 27 DE MARZO DE 2009.
+
+ACUERDO POR EL QUE SE MODIFICA LA DENOMINACION DE LA SECCION III DEL CAPITULO SEGUNDO DEL REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI, Y SE ADICIONA UN ARTICULO 17 BIS AL MISMO REGLAMENTO.
+
+ÚNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
