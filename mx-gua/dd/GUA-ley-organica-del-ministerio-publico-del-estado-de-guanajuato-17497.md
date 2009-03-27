@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-ministerio-publico-del-estado-de-guanajuato-17
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-09-29"
-last_updated: "2006-08-01"
+last_updated: "2009-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2009.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 29 de septiembre de 2000.
 
@@ -581,9 +581,13 @@ II.- Actualizar y profundizar los conocimientos respecto del orden jurídico, la
 
 III.- Proporcionar y desarrollar técnicas de análisis, argumentación e interpretación, que permitan valorar correctamente las pruebas aportadas en los procedimientos;
 
-IV.- Mejorar las técnicas administrativas en la función ministerial; y
+IV.- Mejorar las técnicas administrativas en la función ministerial; y (sic)
 
-V.- Contribuir al desarrollo de la vocación del servicio, así como al ejercicio de los valores y principios éticos inherentes a la función ministerial.
+V.- Contribuir al desarrollo de la vocación del servicio, así como al ejercicio de los valores y principios éticos inherentes a la función ministerial;
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2009)</small>
+
+VI.- Promover la capacitación del personal encargado de la procuración de justicia en temas relativos al respeto de los derechos humanos reconocidos y protegidos por el Estado Mexicano.
 
 ## TÍTULO CUARTO
 
@@ -605,7 +609,9 @@ I.- Actuar con la diligencia necesaria para la pronta, plena y debida procuraci�
 
 II.- Custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión, conserve bajo su cuidado o a la cual tenga acceso, impidiendo o evitando el uso, la sustracción, destrucción, ocultamiento e inutilización indebida de aquéllas;
 
-III.- Conducirse con el debido respeto y consideración hacia el público en general y personal de la institución y observar en el ejercicio de sus funciones las debidas reglas del trato;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2009)</small>
+
+III.- Conducirse con el debido respeto y consideración hacia el público en general y personal de la Institución y observar en el ejercicio de sus funciones las debidas reglas del trato; así como el respeto a los derechos humanos reconocidos y protegidos por el Estado Mexicano;
 
 IV.- Presentar con oportunidad y veracidad las declaraciones de su situación patrimonial;
 
@@ -780,3 +786,9 @@ Artículo Tercero.- La Secretaría de Finanzas y Administración instrumentará 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia el 12 doce de septiembre del año 2006 dos mil seis, excepción hecha de las modificaciones a la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, Ley Sobre el Sistema Estatal de Asistencia Social, Ley Orgánica del Ministerio Público del Estado de Guanajuato y Ley Orgánica del Poder Judicial del Estado de Guanajuato, que entrarán en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE MARZO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en .vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
