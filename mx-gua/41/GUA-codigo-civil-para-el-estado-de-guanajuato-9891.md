@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2009-03-20"
+last_updated: "2009-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2009.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -671,9 +671,13 @@ Este escrito deberá ser firmado por los solicitantes, y si alguno no pudiere o 
 
 Al escrito a que se refiere el artículo anterior, se acompañará:
 
-I. Copia certificada del acta de nacimiento de los pretendientes y en su defecto un dictamen médico que compruebe su edad, cuando por su aspecto no sea notorio que el varón es mayor de dieciséis años y la mujer de catorce;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2009)</small>
 
-II. La constancia de que prestan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los artículos 146 a 149;
+I. Copia certificada del acta de nacimiento de los pretendientes y en su defecto un dictamen médico que compruebe su edad, cuando por su aspecto no sea notorio que los solicitantes son mayores de edad;
+
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2009)</small>
+
+II. La constancia de que prestan su consentimiento para que el matrimonio se celebre, las personas a que se refiere el artículo 145 del presente Código;
 
 III. La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
 
@@ -729,7 +733,9 @@ II. Si son mayores o menores de edad;
 
 III. Los nombres, apellidos, nacionalidad, ocupación y domicilio de los padres;
 
-IV. El consentimiento de éstos, de los abuelos o tutores o el de las autoridades que deban suplirlos;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2009)</small>
+
+IV. El consentimiento de éstos o de los que sobre ellos ostenten la patria potestad;
 
 V. Que no hubo impedimento para el matrimonio o que éste se dispensó;
 
@@ -1071,35 +1077,31 @@ El matrimonio debe celebrarse ante los funcionarios que establece la ley y con l
 
 Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2009)</small>
+
 ###### Art. 145.
 
-Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce. El Juez de Primera Instancia de lo Civil, del domicilio del menor que no llegare a la edad que señala el párrafo anterior, podrá conceder dispensa de edad, por causas graves y justificadas.
+Para contraer matrimonio, es necesario que ambos contrayentes hayan cumplido dieciocho años. El Juez de Partido de lo Civil del domicilio del menor que no llegare a la edad que señala este artículo y que tenga menos de dieciocho años cumplidos y más de dieciséis, podrá conceder dispensa de edad, por causas justificadas. Requerirá además del consentimiento de quien o quienes ostenten la patria potestad.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1970)</small>
+Art.146. (DEROGADO, P.O. 27 DE MARZO DE 2009)
 
-###### Art. 146.
+Art.147. (DEROGADO, P.O. 27 DE MARZO DE 2009)
 
-El hijo o la hija que no hayan cumplido dieciocho años, no pueden contraer matrimonio sin consentimiento de su padre y de su madre, si vivieren ambos o del que sobreviva. Este derecho lo tiene la madre, aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos o del que sobreviva; a falta o por imposibilidad de los abuelos paternos, se requiere el consentimiento de los abuelos maternos, si los dos existieren o del que sobreviva.
+Art.148. (DEROGADO, P.O. 27 DE MARZO DE 2009)
 
-###### Art. 147.
+Art.149. (DEROGADO, P.O. 27 DE MARZO DE 2009)
 
-Faltando padres y abuelos, se necesita el consentimiento de los tutores; y faltando éstos el Presidente Municipal del domicilio del menor, suplirá el consentimiento.
-
-###### Art. 148.
-
-Si el Presidente Municipal, en el caso del artículo anterior, se niega a suplir el consentimiento para que se celebre un matrimonio, los interesados podrán ocurrir al Gobernador del Estado para que resuelva en definitiva.
-
-###### Art. 149.
-
-Los interesados pueden ocurrir al Gobernador del Estado cuando los ascendientes o tutores nieguen su consentimiento o revoquen el que hubieren otorgado. Dicho funcionario resolverá en definitiva.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2009)</small>
 
 ###### Art. 150.
 
-El ascendiente o tutor que ha prestado su consentimiento firmando la solicitud respectiva y ratificándola ante el Oficial del Registro Civil, no puede revocarlo después, a menos que haya justa causa para ello.
+Quien ostente la patria potestad y haya dado su consentimiento firmando la solicitud respectiva y ratificándola ante el Oficial del Registro Civil, no puede revocarlo después, a menos que haya justa causa para ello.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2009)</small>
 
 ###### Art. 151.
 
-Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio falleciere antes de que se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo, pero siempre que el matrimonio se verifique dentro del término fijado en el artículo 104.
+Si quien ostenta la patria potestad ha firmado o ratificado la solicitud de matrimonio falleciere antes de que se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo, pero siempre que el matrimonio se verifique dentro del término fijado en el artículo 104 del presente Código.
 
 ###### Art. 152.
 
@@ -1771,13 +1773,7 @@ La acción de nulidad que nace del error sólo puede deducirse por el cónyuge e
 
 ###### Art. 293.
 
-La menor edad de dieciséis años en el hombre y de catorce en la mujer, dejará de ser causa de nulidad:
-
-I. Cuando la mujer hubiere concebido, o
-
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 1970)</small>
-
-II. Cuando los cónyuges menores lleguen a la mayor edad y no hubieren intentado antes la acción de nulidad.
+(DEROGADO, P.O. 27 DE MARZO DE 2009)
 
 ###### Art. 294.
 
@@ -1793,7 +1789,7 @@ II. Si dentro de este término el ascendiente ha consentido expresamente en el m
 
 ###### Art. 296.
 
-La nulidad por falta de consentimiento del tutor o de las autoridades a que se refieren los artículos 147 a 149 podrá pedirse dentro del término de treinta días por cualquiera de los cónyuges o por el tutor; pero dicha causa de nulidad cesará si antes de presentarse demanda en forma sobre ella, se obtiene la ratificación del tutor o la autorización oficial, confirmando el matrimonio.
+(DEROGADO, P.O. 27 DE MARZO DE 2009)
 
 ###### Art. 297.
 
@@ -1953,9 +1949,9 @@ X. La declaración de ausencia legalmente hecha o la de la presunción de muerte
 
 XI. La sevicia, las amenazas o las injurias graves de un cónyuge para el otro, que hagan imposible la vida conyugal;
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2009)</small>
 
-XII. La negativa injustificada de los cónyuges de darse alimentos de acuerdo con lo dispuesto por el artículo 161;
+XII. La negativa injustificada de los cónyuges de darse alimentos de acuerdo con lo dispuesto por el artículo 161. También la negativa injustificada de los cónyuges a cumplir con las obligaciones alimentarias hacia sus hijos;
 
 XIII. La acusación calumniosa hecha por un cónyuge contra el otro por delito intencional, que merezca pena mayor de dos años de prisión;
 
@@ -2118,6 +2114,20 @@ Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes
 En los casos de divorcio, la mujer inocente tendrá derecho a alimentos mientras no contraiga nuevas nupcias y viva honestamente. El marido inocente sólo tendrá derecho a alimentos cuando esté imposibilitado para trabajar y no tenga bienes propios para subsistir. Además, cuando por el divorcio se originen daños y perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
 
 En el divorcio por mutuo consentimiento, salvo pacto en contrario, los cónyuges no tienen derecho a pensión alimenticia, ni a la indemnización que concede este artículo.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2009)</small>
+
+###### Art. 342-A.
+
+En la demanda de divorcio el cónyuge inocente podrá demandar al otro una compensación de hasta el cincuenta por ciento del valor de los bienes que se adquirieron durante el matrimonio, siempre que ocurran las siguientes circunstancias:
+
+I. Haber estado casado bajo el régimen de separación de bienes; y
+
+II. Que el demandante se haya dedicado en el lapso en que duró el matrimonio preponderantemente al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos.
+
+El Juez en la sentencia de divorcio habrá de resolver atendiendo al tiempo que duró el matrimonio, los bienes con que cuente el cónyuge inocente, la custodia de los hijos y las demás circunstancias especiales de cada caso.
+
+Se exceptúan de los bienes establecidos en este artículo, los que se adquieran por sucesión y donación.
 
 ###### Art. 343.
 
@@ -2969,7 +2979,7 @@ La patria potestad sobre los hijos de matrimonio se ejerce por el padre y la mad
 
 I. Cuando haya abuelos por ambas líneas, el juez los escuchará y decidirá lo que sea más conveniente a los menores, tomando en cuenta la mayor identificación afectiva, las condiciones físicas y morales de los abuelos, su estabilidad económica y siempre que fuere posible, la opinión del menor. El ejercicio de la acción respectiva corresponde a cualquiera de los abuelos y, en su defecto, al ministerio público.
 
-En cuanto tenga conocimiento del asunto, el juez tomará las medidas necesarias en relación a la custodia de los menores, mientras se decide sobre la patria potestad;
+En cuanto tenga conocimiento del asunto el juez tomará las medidas necesarias en relación a la custodia de los menores, mientras se decide sobre la patria potestad;
 
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
 
@@ -5525,7 +5535,7 @@ El derecho del tanto se pierde por el solo transcurso de los quince días, si no
 
 ###### Art. 944.
 
-Cuando se consume la enajenación de la parte alícuota de un condueño, a persona extraña a la comunidad de bienes, sin que se haya hecho la notificación a que se refiere el artículo anterior, los demás copartícipes gozarán del derecho de retracto, en virtud del cual pueden subrogarse, con las mismas condiciones estipuladas en el contrato, en lugar del que habÍa adquirido dicha parte, reembolsándole la cantidad que hubiere pagado y los gastos legales originados por la transmisión.
+Cuando se consume la enajenación de la parte alícuota de un condueño, a persona extraña a la comunidad de bienes, sin que se haya hecho la notificación a que se refiere el artículo anterior, los demás copartícipes gozarán del derecho de retracto, en virtud del cual pueden subrogarse, con las mismas condiciones estipuladas en el contrato, en lugar del que había adquirido dicha parte, reembolsándole la cantidad que hubiere pagado y los gastos legales originados por la transmisión.
 
 El término para ejercer el retracto es de quince días contados a partir de la fecha en que el retrayente haya tenido conocimiento de la enajenación.
 
@@ -8835,7 +8845,7 @@ Se considerará litigioso el derecho desde el secuestro, en el juicio ejecutivo;
 
 ###### Art. 1542.
 
-Si los derechos o créditos fueren litigiosos, no podrán ser cedidos en ninguna forma a las personas que desempeñen la judicatura, si esos derechos o créditos fueren disputados dentro de los límites a que se extienda la jurisdicción de los funcionarios referidos.
+Si los derechos o créditos fueren litigiosos, no podrán ser cedidos en ninguna forma a las personas que desempeñen la judicatura, si esos derechos o créditos fueren disputados dentro de los límites a que se extienda la jurisdicción de los funcionarios referidos
 
 ### Capítulo IV. De la cesión de contrato
 
@@ -11201,7 +11211,7 @@ El incapaz que acepte el depósito, solamente queda obligado a restituir la cosa
 
 ###### Art. 2030.
 
-Cuando la incapacidad no fuere absoluta, podrá el depositario ser condenado al pago de daños y perjuicios, si hubiere procedido con dolo o mala fe.
+Cuando la incapacidad no fuere obsoluta, podrá el depositario ser condenado al pago de daños y perjuicios, si hubiere procedido con dolo o mala fe.
 
 ###### Art. 2031.
 
@@ -12611,7 +12621,7 @@ Si el fiador, voluntariamente u obligado por el acreedor, hace por sí mismo la 
 
 ###### Art. 2316.
 
-El acreedor que, cumplidos los requisitos del artículo 2312, hubiere sido negligente en promover la excusión, queda responsable de los perjuicios que pueda causar al fiador, y éste libre de la obligación hasta la cantidad a que alcancen los bienes que hubiere designado para la excusión.
+El acreedor que, cumplidos los requisitos del artículo 2312, hubiere sido negligente en promover la excusión, queda responsable de los perjuicios que pueda causar al fiador, y este libre de la obligación hasta la cantidad a que alcancen los bienes que hubiere designado para la excusión.
 
 ###### Art. 2317.
 
@@ -14965,6 +14975,8 @@ El ordinario puede ser:
 
 I. Público abierto;
 
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
+
 II. Público cerrado;
 
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
@@ -15023,7 +15035,7 @@ En el caso del artículo que precede, no tendrá validez el testamento mientras 
 
 ###### Art. 2763.
 
-Se prohÍbe a los Notarios y a cualquiera otra persona que hayan de redactar disposiciones de última voluntad, dejar espacios en blanco y servirse de abreviaturas o cifras, bajo la pena de quinientos pesos de multa a los Notarios y de la mitad a los que no lo fueren.
+Se prohíbe a los Notarios y a cualquiera otra persona que hayan de redactar disposiciones de última voluntad, dejar espacios en blanco y servirse de abreviaturas o cifras, bajo la pena de quinientos pesos de multa a los Notarios y de la mitad a los que no lo fueren.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 1997)</small>
 
@@ -16621,7 +16633,7 @@ El presente decreto entrará en vigor a los sesenta días siguientes al de su pu
 
 ###### ARTICULO SEGUNDO.
 
-Las personas que hayan realizado el procedimiento de adopción, podrán optar por la adopción plena en los términos del presente decreto, siempre y cuando le soliciten al Juez competente el cambio de situación jurídica para que éste, sin más trámite, haga la declaratoria correspondiente.
+Las personas que hayan realizado el procedimiento de adopción, podrán optar por la adopción plena en los términos del presente decreto, siempre y cuando les soliciten al Juez competente el cambio de situación jurídica para que éste, sin más trámite, haga la declaratoria correspondiente.
 
 Para los efectos del artículo 458, en la declaratoria el Juez ordenará al Oficial del Registro Civil, la cancelación de las actas de nacimiento y adopción, así como para que levante el acta de nacimiento correspondiente.
 
@@ -16726,3 +16738,9 @@ Artículo Primero. El presente decreto entrará en vigor el cuarto día siguient
 Artículo Segundo. Las reformas y adiciones relativas al Código de Procedimientos Civiles para el Estado de Guanajuato, sobre el juicio sumario de pago o aseguramiento de alimentos, sólo serán aplicables a los nuevos procedimientos que se inicien a partir de la entrada en vigor del presente decreto.
 
 Artículo Tercero. Los juicios actualmente en trámite que tengan por objeto el pago o aseguramiento de alimentos continuarán tramitándose en la vía en que hayan sido admitidos.
+
+P.O. 27 DE MARZO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
