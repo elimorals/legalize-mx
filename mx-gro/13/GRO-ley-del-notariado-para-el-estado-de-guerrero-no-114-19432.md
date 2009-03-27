@@ -4,7 +4,7 @@ identifier: "GRO-ley-del-notariado-para-el-estado-de-guerrero-no-114-19432"
 country: "mx"
 rank: "ley"
 publication_date: "1967-09-06"
-last_updated: "1991-12-31"
+last_updated: "2009-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE GUERRERO NO. 114
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1991.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO PARA EL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. EL 27 DE MARZO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en los Periódicos Oficiales del Estado de Guerrero, el 6 de septiembre de 1967; el 13 de septiembre de 1967; el 20 de septiembre de 1967; y el 4 de octubre de 1967.
 
@@ -1252,3 +1254,21 @@ P.O. 31 DE DICIEMBRE DE 1991.
 ###### ARTICULO UNICO.
 
 El presente Decreto de reformas y adiciones entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE MARZO DE 2009.
+
+PRIMERO.- La presente Ley del Notariado para el Estado de Guerrero, entrará en vigor a los sesenta días naturales siguientes de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Se abroga la Ley del Notariado para el Estado de Guerrero número 114 publicada en el Periódico Oficial del Gobierno del Estado de fecha 4 de octubre de 1967.
+
+TERCERO.- El Colegio de Notarios del Estado de Guerrero, goza de un plazo de seis meses, contados a partir de la entrada en vigor de esta Ley, para presentar al Ejecutivo del Estado el proyecto de Arancel para el cobro de honorarios por la prestación de servicios de fe.
+
+CUARTO.- El Colegio de Notarios dispone de un plazo de seis meses a partir de la vigencia de esta Ley, para remitir a la Dirección los estatutos que deberán regir al Colegio, ajustados a las disposiciones de esta Ley.
+
+QUINTO.- Los Notarios, tendrán un plazo de tres meses a partir de la publicación de la presente Ley, para informar a la Dirección General de Asuntos Jurídicos, sobre los últimos números y folios utilizados de instrumentos y operaciones notariales realizadas en los libros o volúmenes en el protocolo cerrado utilizados al cierre del mes inmediato anterior, de entrada en vigor de la presente Ley.
+
+SEXTO.- Por cuanto a la utilización del elemento auxiliar del Notario para generar su función denominado protocolo, se concede un termino improrrogable de un año a partir de la entrada en vigor de la presente Ley, para que todos y cada uno de los Notarios de número del Estado de Guerrero dejen de generar sus funciones en el protocolo cerrado y utilicen el protocolo abierto.
+
+SÉPTIMO.- Los Jueces de Primera Instancia de los Distritos Judiciales que ejerzan funciones notariales, seguirán ejerciendo hasta en tanto el Ejecutivo del Estado designe al Notario de número que se haga cargo del servicio en ese Distrito Judicial.
+
+OCTAVO.- La actuación de los Notarios asociados, celebrada con antelación a la promulgación de ésta Ley, seguirán surtiendo sus efectos en los términos que se celebraron.
