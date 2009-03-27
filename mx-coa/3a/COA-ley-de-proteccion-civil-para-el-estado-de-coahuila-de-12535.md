@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-civil-para-el-estado-de-coahuila-de-12535"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-11"
-last_updated: "2008-01-15"
+last_updated: "2009-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROTECCION CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de junio de 1996.
 
@@ -975,6 +975,12 @@ Las multas se liquidarán por lo (sic) infractores en las oficinas recaudadoras 
 
 Se incurre en reincidencia cuando la misma persona cometa dos o más veces la misma infracción durante un período de seis meses, salvo disposición en contrario en esta Ley.
 
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2009)</small>
+
+ARTICULO 62 BIS.- Las multas que se impongan por concepto de violación a lo previsto en la presente Ley, podrán ser sustituidas por inversiones equivalentes en la adquisición e instalación de equipos que tengan por objeto evitar mayores daños o atenuar los que se hubiesen cometido, así como la aportación de bienes en especie que contribuyan a reparar el daño cometido o a la prestación de mejores servicios por parte de la autoridad, siempre y cuando se garanticen las obligaciones a que se sujetará el infractor.
+
+La sustitución de la multa operará a petición del infractor, la cual será analizada y, en su caso, aprobada por la autoridad correspondiente.
+
 ###### ARTICULO 63.
 
 En caso de incumplimiento cuando se hayan dispuesto medidas de seguridad conforme a esta ley, las autoridades competentes aplicarán las multas que correspondan atendiendo lo previsto por el presente capítulo.
@@ -1148,3 +1154,9 @@ SEGUNDO. Las dependencias y entidades que actualmente ejecutan funciones que med
 TERCERO. Se otorga un plazo de 30 días hábiles para que se lleven a cabo las reformas y adecuaciones a las disposiciones reglamentarias que correspondan.
 
 CUARTO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 27 DE MARZO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
