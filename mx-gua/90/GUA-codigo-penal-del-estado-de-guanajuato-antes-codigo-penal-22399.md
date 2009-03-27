@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2009-03-20"
+last_updated: "2009-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO PENAL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2009.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -129,7 +129,9 @@ VI.- Secuestro previsto por los artículos 173 y 174, excepto el caso atenuado p
 
 VII.- Violación previsto por los artículos 180, 181, 182 y 184, así como en grado de tentativa con relación al artículo 18.
 
-VIII.- Robo calificado previsto por el artículo 194 con relación a las fracciones III y IV del artículo 191.
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2009)</small>
+
+VIII.- Robo calificado previsto por el artículo 194 con relación a las fracciones III y IV del artículo 191; así como el previsto por las fracciones I y IV del artículo 194, con independencia de la cuantía del robo.
 
 IX.- Despojo previsto por el artículo 208.
 
@@ -1075,9 +1077,11 @@ En caso de tentativa de lesiones, cuando no fuere posible determinar el grado de
 
 Cuando las lesiones sean calificadas, se aumentará la punibilidad de la mitad del mínimo a la mitad del máximo de la que correspondería de acuerdo con los artículos anteriores.
 
-###### Artículo 151.
+> <small>(REFORMADO PARRAFO PRIMERO, P.O. 27 DE MARZO DE 2009)</small>
 
-Si el sujeto pasivo fuere ascendiente o descendiente o estuviere bajo la guarda del autor de las lesiones y éstas fueren causadas dolosamente, se aumentará de diez días a tres años de prisión a la sanción que correspondería con arreglo a los artículos precedentes.
+###### Articulo 151.
+
+Si el sujeto pasivo fuere ascendiente o descendiente consanguíneo en línea recta, colateral hasta el cuarto grado, pariente por afinidad con conocimiento de esa relación, cónyuge, concubinario o concubina, haya tenido una relación de matrimonio o concubinato, adoptante o adoptado, o estuviere bajo la guarda del autor de las lesiones, y éstas fueren causadas dolosamente, se aumentará de un mes a tres años de prisión a la sanción que correspondería con arreglo a los artículos precedentes.
 
 A quien ejerciendo la patria potestad o la tutela infiera lesiones a los menores o pupilos bajo su guarda, el tribunal podrá imponerle además suspensión o privación en el ejercicio de tales derechos.
 
@@ -1132,6 +1136,8 @@ El homicidio y las lesiones culposos no serán punibles cuando el sujeto pasivo 
 El homicidio y las lesiones culposos serán punibles cuando el activo hubiese obrado bajo el influjo de bebidas embriagantes, estupefacientes o sustancias psicotrópicas o abandone injustificadamente a la víctima.
 
 ### CAPÍTULO III. AMENAZAS
+
+> <small>(REFORMADO PARRAFO PRIMERO, P.O. 27 DE MARZO DE 2009)</small>
 
 ###### Artículo 156.
 
@@ -1281,9 +1287,9 @@ Se requerirá querella cuando el delito se cometa entre cónyuges, concubinos, a
 
 ### CAPÍTULO ÚNICO. DIFAMACIÓN Y CALUMNIA
 
-###### Artículo 176.
+###### Articulo 176.
 
-A quien intimide a otro con causarle daño en su persona o sus bienes jurídicos o en los de un tercero con quien se encuentre ligado por vínculos familiares o estrecha amistad, se le aplicará de un mes a dos años de prisión y de veinte a cien días multa.
+A quien intimide a otro con causarle daño en su persona o sus bienes jurídicos o en los de un tercero con quien se encuentre ligado por vínculos familiares, matrimonio, concubinato o estrecha amistad, se le aplicará de un mes a dos años de prisión y de veinte a cien días multa.
 
 Este delito se perseguirá por querella.
 
@@ -1947,6 +1953,8 @@ a.- Además de las sanciones impuestas a quienes incurran en los delitos descrit
 
 ### CAPÍTULO I. TORTURA
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2009)</small>
+
 ###### Artículo 240.
 
 A quien, explote el cuerpo de otra persona por medio del comercio camal u obtenga de él un lucro cualquiera, se le aplicará prisión de seis meses a tres años y de diez a cincuenta días multa.
@@ -2157,9 +2165,15 @@ Para los efectos de este Código, se reputarán como servidores públicos a los 
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
-###### Artículo 264.
+###### Articulo 264.
 
-Al servidor público que con motivo de sus funciones, por sí o valiéndose de otro, intencionalmente ejerza violencia sobre una persona, ya sea para obtener información o que constituya una forma ilícita de investigación, se le sancionará con prisión de dos a diez años, cien a doscientos días multa, privación de su empleo o cargo e inhabilitación permanente para el desempeño de la función u otra análoga.
+Al servidor público que con motivo de sus funciones, por sí o por medio de otra persona, inflija a una persona dolores o sufrimientos físicos o mentales, con el fin de obtener, de ella o de un tercero, información o una confesión, de investigación, de castigarla por un acto que haya cometido o se sospeche que ha cometido, de intimidar o coaccionar a esa persona o a otras para que realicen o dejen de realizar una conducta determinada, de medida preventiva o de anular la personalidad de la víctima o disminuir su capacidad física o mental, se le impondrá prisión de tres a diez años, cien a trescientos días multa, privación de su empleo o cargo e inhabilitación permanente para el desempeño de la función pública.
+
+Las mismas penas se impondrán al servidor público que, faltando a los deberes de su cargo, no impidiere que otras personas inflijan, con las finalidades descritas, los dolores o sufrimientos a que se refiere el párrafo anterior.
+
+No se considerarán causas excluyentes de responsabilidad del delito de tortura el cumplimiento de una orden superior, ni la existencia de circunstancias excepcionales como inestabilidad política interna, urgencia en las investigaciones, peligrosidad del detenido, inseguridad del establecimiento carcelario o penitenciario, o cualesquier otra circunstancia.
+
+No se considerarán tortura los dolores o sufrimientos que sean consecuencia únicamente de sanciones legítimas, o que sean inherentes o incidentes a éstas o a un acto legitimo de autoridad.
 
 ###### Artículo 265.
 
@@ -2536,3 +2550,9 @@ Artículo Primero. El presente decreto entrará en vigor el cuarto día siguient
 Artículo Segundo. Las reformas y adiciones relativas al Código de Procedimientos Civiles para el Estado de Guanajuato, sobre el juicio sumario de pago o aseguramiento de alimentos, sólo serán aplicables a los nuevos procedimientos que se inicien a partir de la entrada en vigor del presente decreto.
 
 Artículo Tercero. Los juicios actualmente en trámite que tengan por objeto el pago o aseguramiento de alimentos continuarán tramitándose en la vía en que hayan sido admitidos.
+
+P.O. 27 DE MARZO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
