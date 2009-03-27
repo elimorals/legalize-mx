@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-acceso-a-la-informacion-publica-del-municipio-645
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-18"
-last_updated: "2008-11-18"
+last_updated: "2009-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MIC"
 ---
 # REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE URUAPAN, MICHOACAN
 
-REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL AYUNTAMIENTO DE URUAPAN, MICHOACAN
+REGLAMENTO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL AYUNTAMIENTO DE URUAPAN, MICHOACÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2009.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Michoacán, el martes 18 de noviembre de 2008.
 
@@ -273,9 +273,11 @@ Es facultad de la Comisión, emitir las recomendaciones, sugerencias y acciones 
 
 ### CAPÍTULO V. DE LA UNIDAD DE ACCESO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2009)</small>
+
 ###### Artículo 18.
 
-El titular de la Unidad de Acceso, dependerá directamente de la Comisión, quien deberá contar con el perfil de Licenciado en Derecho con título y cédula profesional, expedidos por autoridades o instituciones legalmente facultadas para ello y tendrá las siguientes atribuciones:
+El titular de la Unidad de Acceso, dependerá directamente de la Comisión quien deberá contar con Título y Cedula Profesional, expedidos por autoridades o instituciones legalmente facultadas para ello, además de contar con experiencia en la materia y tendrá las siguientes atribuciones:
 
 I. Recabar y difundir la información de oficio a que se refiere la Ley y el presente Reglamento;
 
@@ -684,3 +686,9 @@ REGIDORES
 Ing. Guillermo Zamora, L.E. Araceli Ángeles Moraila Martínez, Lic. Everardo Rojas Soriano, C.P. Thelma Berenice González Montoya, Ing. Enrique David Sánchez Peña, Profra. María de Jesús Gallegos Espinoza, Lic. Julio Emmanuel Mollineda Ríos, Lic. Juan Daniel Manzo Rodríguez, M.V.Z. Libero Madrigal Sánchez, Profra. Ma. Teresa Gutiérrez Bojórquez, C.P. Jaime Heredia Paz, C. Moisés González Andrés. (Firmados).
 
 Lic. Agustín Aaguilar (sic) Gutiérrez, encargado de Despacho de la Secretaría del Ayuntamiento. (Firmado).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE MARZO DE 2009.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACÁN.
