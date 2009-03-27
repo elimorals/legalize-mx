@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-educacion-y-cultura-560
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-12"
-last_updated: "2007-06-12"
+last_updated: "2009-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION Y CULTURA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2009.
 
 Reglamento publicado en la Primera Sección al Periódico Oficial del Estado de Coahuila, el martes 12 de junio de 2007.
 
@@ -59,11 +59,21 @@ IV. Subsecretaría de Planeación Educativa
 
 V. Subsecretaría de Administración y Recursos Humanos
 
-VI. Coordinación General de Asuntos Jurídicos
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2009)</small>
 
-VII. Coordinación General de Vinculación con el Sector Social y Magisterial
+VI. Subsecretaria de Servicios Educativos en la Laguna
 
-VIII. Coordinación General de Bibliotecas, Publicaciones y Librerías.
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2009)</small>
+
+VII. Coordinación General de Asuntos Jurídicos
+
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2009)</small>
+
+VIII. Coordinación General de Vinculación con el Sector Social y Magisterial, y
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2009)</small>
+
+IX. Coordinación General de Bibliotecas, Publicaciones y Librerías.
 
 ###### ARTÍCULO 4.
 
@@ -119,6 +129,10 @@ g). Dirección de Servicio Social
 
 h). Dirección de Preparatoria Abierta
 
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2009)</small>
+
+i). Dirección General de EMSaD, Preparatorias Estatales y Servicio Social
+
 III. Unidades Administrativas adscritas a la Subsecretaría de Educación Superior:
 
 a). Dirección de Desarrollo, Trámite y Gestión
@@ -157,7 +171,17 @@ i). Dirección de Programas Compensatorios
 
 j). Dirección de Informática Educativa “Siglo XXI”
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2009)</small>
+
 k). Dirección Estatal de Becas
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2009)</small>
+
+l). Dirección de Participación Social
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2009)</small>
+
+m). Dirección del Seguro Escolar
 
 V. Unidades Administrativas adscritas a la Subsecretaría de Administración y Recursos Humanos:
 
@@ -177,45 +201,63 @@ g). Dirección de Recursos Materiales y Servicios
 
 h). Dirección de Recursos Financieros
 
-VI. Unidades Administrativas adscritas a la Coordinación General de Asuntos Jurídicos:
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2009)</small>
 
-a). Dirección de Desarrollo, Trámite y Gestión
+VI. Unidades Administrativas adscritas a la Subsecretaría de Servicios Educativos en la Laguna;
 
-b). Dirección de Normatividad
+a) Dirección de Desarrollo, Trámite y Gestión
 
-c). Dirección de lo Contencioso
+b) Dirección de Planeación y Control Escolar
 
-d). Dirección de Procedimientos Administrativos
+c) Dirección de Administración y Recursos Humanos
 
-e). Dirección de Análisis y Seguimiento
+d) Dirección de Operación y Servicios Educativos
 
-f). Dirección de Modernización y Mejora de Procesos
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2009)</small>
 
-VII. Unidades Administrativas adscritas a la Coordinación General de Vinculación con el Sector Social y Magisterial
+VII. Unidades Administrativas adscritas a la Coordinación General de Asuntos Jurídicos.
 
-a). Dirección de Vinculación con el Sector Educativo
+a) Dirección de Desarrollo, Trámite y Gestión
 
-b). Dirección de Vinculación con Organismos Sociales
+b) Dirección de Normatividad
 
-VIII. Unidades Administrativas adscritas a la Coordinación General de Bibliotecas, Publicaciones y Librerías
+c) Dirección de lo Contencioso
 
-a). Dirección de Librerías
+d) Dirección de Procedimientos Administrativos
 
-IX. Unidades Administrativas adscritas al Despacho del Titular de la Secretaría:
+e) Dirección de Análisis y Seguimiento
 
-a). Secretaría Particular
+f) Dirección de Modernización y Mejora de Procesos
 
-b). Secretaría Técnica
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2009)</small>
 
-c). Dirección de Atención Ciudadana y Asistencia Social
+VIII. Unidades Administrativas adscritas a la Coordinación General de Vinculación con el Sector Social y Magisterial.
 
-d). Dirección de Jubilados y Pensionados
+a) Dirección de Vinculación con el Sector Educativo
 
-e). Dirección de Producción de Medios Educativos
+b) Dirección de Vinculación con Organismos Sociales
 
-f). Dirección de Logística y Eventos Especiales
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2009)</small>
 
-Los manuales de organización precisarán la estructura orgánica y las funciones específicas de las áreas que conforman las unidades administrativas a que se refiere este artículo.
+IX. Unidades Administrativas adscritas a la Coordinación General de Bibliotecas, Publicaciones y Librerías.
+
+a) Dirección de Librerías
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2009)</small>
+
+X. Unidades Administrativas adscritas al despacho del Titular de la Secretaría.
+
+a) Secretaría Particular
+
+b) Secretaría Técnica
+
+c) Dirección de Atención Ciudadana y Asistencia Social
+
+d) Dirección de Pensionados y Jubilados
+
+e) Dirección de Producción de Medios Educativos
+
+f) Dirección de Logística y Eventos Especiales.
 
 ###### ARTÍCULO 5.
 
@@ -395,7 +437,13 @@ XVII. Cumplir con las disposiciones que emanen de la Unidad de Acceso a la Infor
 
 XVIII. Observar los criterios y normas que establece la Ley de Archivos Públicos para el Estado de Coahuila de Zaragoza en coordinación con las Unidades Administrativas competentes;
 
-XIX. Las demás que le confieran las disposiciones legales aplicables, el Secretario, Subsecretario y el Coordinador General de su adscripción dentro de la esfera de sus atribuciones.
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2009)</small>
+
+XIX. Certificar y expedir copias de los documentos que obran en los archivos de la Dirección a su cargo, previo pago de los derechos que resulten aplicables conforme a la ley de la materia, excepto cuando lo solicite alguna autoridad jurisdiccional o administrativa, y
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2009)</small>
+
+XX. Las demás que le con ti eran las disposiciones legales aplicables, el Secretario, Subsecretario o el Coordinador General de su adscripción dentro de la esfera de sus atribuciones.
 
 ### CAPÍTULO IV. DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -856,6 +904,32 @@ VIII. Organizar y ejecutar el proceso de aplicación de exámenes;
 IX. Actualizar el registro de calificaciones del alumno de preparatoria abierta y su historial académico;
 
 X. Vigilar y registrar el pago de exámenes y recuperaciones de los mismos e informar a las instancias competentes.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2009)</small>
+
+ARTÍCULO 28 BIS. Corresponde a la Dirección General de EMSaD, Preparatorias Estatales y Servicio Social:
+
+I. Proponer, coordinar, ejecutar y evaluar las políticas de la Secretaría en cualquiera de los subsistemas educativo (sic) de su competencia;
+
+II. Actuar como enlace entre la Secretaría y los centros educativos que apliquen cualquiera de los subsistemas educativos de su competencia;
+
+III. Proponer a su superior jerárquico disposiciones técnicas y administrativas para la organización, operación, desarrollo y supervisión de las direcciones a su cargo;
+
+IV. Representar legalmente a la Secretaría, previa autorización de su superior jerárquico inmediato, ante otras instancias de la administración pública federal, estatal, municipal y con organizaciones públicas y/o privadas que desarrollen actividades relacionadas con los asuntos de su competencia;
+
+V. Verificar que las normas pedagógicas, contenidos, planes y programas de estudio, métodos, materiales didácticos e instrumentos para la evaluación del aprendizaje aprobados para la educación a que se refiere este artículo, se cumplan en los centros educativos que apliquen cualquiera de los subsistemas de su competencia;
+
+VI. Coordinar la operación de los proyectos y programas relativos a su competencia;
+
+VII. Proponer a su superior jerárquico los proyectos de convenios y contratos que determinen la creación, planeación y presupuestación de los centros educativos que apliquen el programa de educación media superior a distancia en la entidad;
+
+VIII. Compilar y divulgar la documentación normativa de carácter general, técnico, particular y específico, relativos a su competencia en cualquiera de sus modalidades;
+
+IX. Establecer una comunicación constante y permanente con las direcciones adscritas al área de su competencia;
+
+X. Auxiliar y dirigir de manera coordinada con las instancias y unidades administrativas correspondientes, las acciones, actividades y tareas encomendadas, en materia de servicio social, facilitando la información y asesoría técnica solicitada, y
+
+XI. Desempeñar las tareas que le sean encomendadas por su superior jerárquico, presentando al término de las mismas, el informe correspondiente.
 
 #### SECCIÓN TERCERA. SUBSECRETARÍA DE EDUCACIÓN SUPERIOR
 
@@ -1363,6 +1437,50 @@ IX. Mantener la vinculación permanente con las Unidades Administrativas encarga
 
 Para el desahogo de sus funciones, el Titular de la Dirección Estatal de Becas podrá coordinarse con las Unidades Administrativas y órganos públicos correspondientes.
 
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2009)</small>
+
+ARTÍCULO 46 BIS. Corresponde a la Dirección de Participación Social:
+
+I. Mantener comunicación y atender las acciones encomendadas por el Consejo Nacional de Participación Social en la Educación;
+
+II. Difundir, constituir y asesorar, por conducto de la estructura estatal y regional de la Secretaría de Educación y Cultura, la constitución y funcionamiento de los Consejos de Participación Social en la Educación: Escolares, Municipales y Estatal;
+
+III. Proponer a su superior jerárquico la celebración de convenios de colaboración con empresarios, comerciantes, instituciones educativas superiores, dependencias de gobierno y organismos sindicales y sociales para resolver los requerimientos de materiales, reparaciones, infraestructura y equipamiento de las escuelas;
+
+IV. Realizar cursos, talleres, foros, congresos, entre otros eventos para los miembros de los Consejos de Participación Social y personal de los centros educativos para impulsar la calidad en el servicio educativo;
+
+V. Apoyar a los Consejos Escolares en su participación dentro del Programa de Escuelas de Calidad;
+
+VI. Proponer proyectos y/o programas educativos que sean operados entre las empresas y las escuelas de la entidad;
+
+VII. Colaborar con los planteles educativos en el ejercicio del proyecto escolar, mediante la vinculación y apoyo del sector empresarial y comercial de cada región del Estado;
+
+VIII. Coordinar entre los Consejos de Participación Social en la Educación: Escolares, Municipales y Estatal, las acciones de mejora continua en beneficio de la comunidad escolar;
+
+IX. Impulsar los eventos académicos, tecnológicos, culturales y deportivos, organizados por las instituciones y apoyados por la sociedad, e
+
+X. Implementar la participación de las escuelas en Premios de Calidad, para valorar el esfuerzo y la dedicación en la ampliación de la calidad educativa.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2009)</small>
+
+ARTÍCULO 46 TER. Corresponde a la Dirección del Seguro Escolar:
+
+I. Dirigir, operar, dar seguimiento y evaluar el desarrollo del Programa Seguro Escolar Coahuila y de las tareas que sean asignadas a la unidad administrativa a su cargo;
+
+II. Definir, dentro del marco normativo aplicable, las reglas de operación y criterios generales a los que se sujeta el Programa Seguro Escolar Coahuila;
+
+III. Cumplir con el marco normativo aplicable, las reglas de operación y criterios generales a los que se sujeta el Programa Seguro Estatal Coahuila.
+
+IV. Elaborar y presentar de manera oportuna a la Subsecretaría de su adscripción, el Plan Anual de Operación de la Dirección a su cargo;
+
+V. Coordinar la operación de los enlaces regionales del Programa Seguro Escolar Coahuila, a fin de hacer más eficiente la operación del mismo en cada una de las regiones;
+
+VI. informar, en coordinación con la Secretaría de Finanzas, de manera periódica al Comité Técnico del "Fideicomiso de Accidentes Escolares del Gobierno del Estado de Coahuila de Zaragoza", respecto del estado que guarden los bienes fideicomitidos;
+
+VII. Servir de enlace entre la institución fiduciaria y el prestador de servicios profesionales de riesgos de accidentes escolares y supervisar que su actuación sea apegada a las funciones asignadas como colaborador del Programa en el convenio firmado para tal efecto, y
+
+VIII. Dar seguimiento al comportamiento del "Fideicomiso de Accidentes Escolares del Gobierno del Estado de Coahuila de Zaragoza", mediante el análisis de los resultados relativos a las acciones realizadas, gastos generados y logros obtenidos, mismos que deberán ser reportados de manera periódica ante el Comité Técnico del Fideicomiso.
+
 #### SECCIÓN SEXTA. SUBSECRETARÍA DE ADMINISTRACIÓN Y RECURSOS HUMANOS
 
 ###### ARTÍCULO 47.
@@ -1569,9 +1687,151 @@ III. Elaborar e implementar el proceso de selección e inducción del personal, 
 
 IV. Promover, operar y supervisar las acciones de calidad relacionadas con el manejo de los recursos humanos y su aplicación.
 
-#### SECCIÓN SÉPTIMA. COORDINACIÓN GENERAL DE ASUNTOS JURÍDICOS
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 27 DE MARZO DE 2009)</small>
 
-#### SECCION OCTAVA. COORDINACIÓN GENERAL DE BIBLIOTECAS, PUBLICACIONES Y LIBRERÍAS
+#### SECCIÓN SEXTA BIS. SUBSECRETARÍA DE SERVICIOS EDUCATIVOS EN LA LAGUNA
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2009)</small>
+
+ARTÍCULO 54 A. A la Subsecretaría de Servicios Educativos en la Laguna, le corresponde el despacho de los siguientes asuntos:
+
+I. Observar y cumplir la normatividad educativa existente, así como cooperar y acatar las instrucciones giradas por las Subsecretarías y Coordinaciones Generales de la Secretaría de Educación y Cultura.
+
+II. Formular, promover y evaluar la política educativa en la región de acuerdo a las condiciones y características económicas, sociales y culturales;
+
+III. Blindar a la región apoyo técnico en materia educativa;
+
+IV. Elaborar en coordinación con las demás unidades administrativas de la Secretaría, los anteproyectos de manuales de organización y procedimientos y de servicios al público, que se refieran a la competencia de la Secretaría;
+
+V. Coadyuvar, en representación de la Secretaría y de sus unidades administrativas en la región, en las controversias de cualquier clase, investigaciones o procedimientos administrativos en que ella deba intervenir conforme a derecho;
+
+VI. Recibir, despachar y distribuir la correspondencia oficial de la Secretaría y sus unidades administrativas en la región, y
+
+VII. Coordinarse con la Secretaría de Desarrollo Regional de la Laguna, buscando la mayor eficiencia y eficacia en el uso de recursos y el máximo beneficio para la población de la región.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2009)</small>
+
+ARTICULO 54 B. Corresponde a la Dirección de Desarrollo, Trámite y Gestión:
+
+I. Aplicar las normas, políticas y procedimientos que en materia de administración emitan las direcciones correspondientes, conjuntamente con la Subsecretaría de Planeación Educativa y la Subsecretaría de Administración y Recursos Humanos;
+
+II. Formular, de conformidad con los lineamientos de las unidades administrativas competentes de la Secretaria, los proyectos de programas y presupuesto relativos a esta Subsecretaría;
+
+III. Atender y dar seguimiento a los asuntos turnados a esta Subsecretaría;
+
+IV. Establecer la coordinación necesaria con las demás direcciones dependientes de esta Subsecretaría, para el mejor despacho de los asuntos de su competencia;
+
+V. Apoyar y dar seguimiento a las áreas administrativas adscritas a esta Subsecretaría, en la realización de sus acciones programadas, conforme a diagnóstico y prioridades;
+
+VI. Atender, previo acuerdo con su superior jerárquico, los requerimientos administrativos de las áreas que integran esta Subsecretaría, de acuerdo con las políticas, normas, sistemas y procedimientos vigentes;
+
+VII. Vigilar el trámite y control de ministraciones, comprobantes de viáticos del personal de esta Subsecretaría y sus áreas adscritas;
+
+VIII. Prever, organizar, controlar y actualizar la administración de los recursos materiales y financieros asignados, así como la prestación de los servicios generales de la Subsecretaría;
+
+IX. Verificar que el personal que sea incorporado a la Subsecretaría, cuente con nombramiento autorizado con la firma del titular de la Dependencia. En caso contrario, deberá dar vista a su superior jerárquico;
+
+X. Gestionar, ante la Subsecretaría de Administración y Recursos Humanos, previo acuerdo con su superior jerárquico, los requerimientos de recursos humanos, asignaciones, cambios y bajas del personal docente y administrativo;
+
+XI. Articular los procesos administrativos de gestión, correspondencia y archivo entre las diversas áreas de esta Subsecretaría, y
+
+XII. Supervisar el proceso de entrega-recepción de las unidades administrativas adscritas a esta Subsecretaría.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2009)</small>
+
+ARTÍCULO 54 C. Corresponde a la Dirección de Planeación y Control Escolar:
+
+I. Detectar y canalizar la gestión para la atención de la demanda de servicios educativos, infraestructura y recursos humanos en la región, así como vigilar la correcta aplicación de las normas de inscripción, reinscripción, acreditación y certificación, apoyar en los procesos de evaluación y estadística del sistema educativo en la región;
+
+II. Realizar estudios de factibilidad para la creación de servicios educativos en la región;
+
+III. Supervisar la rehabilitación y/o construcción de edificios escolares de educación básica en la región, en coordinación con la Subsecretaría de Planeación Educativa;
+
+IV. Dar seguimiento a las obras a cargo del ayuntamiento, en edificios escolares cuya inversión sea con recursos municipales y/o estatales en la región;
+
+V. Distribuir oportunamente los documentos de normatividad federal y estatal escolar, sobre los procesos de inscripción, acreditación, incorporación y revalidación de estudios en la región;
+
+VI. Participar en las actividades de inscripción, reinscripción, movimientos de alumnos, acreditación, certificación, regularización en los niveles educativos en la región;
+
+VII. Elaborar duplicados de las boletas de calificaciones y certificados a petición;
+
+VIII. Tramitar la solicitud de asignación de claves de centros de trabajo de nueva creación, así como la autorización para asignación de nombres de instituciones de educación particular, de acuerdo a la normatividad vigente;
+
+IX. Proporcionar la información, datos y cooperación técnica, solicitados por dependencias educativas públicas y particulares, de conformidad con las instrucciones del Secretario y con los lineamientos de las unidades administrativas competentes de la Secretaría;
+
+X. Participar en los procesos de evaluación con normatividad estatal y federal, y
+
+XI. Participar en la distribución y recuperación de formatos de estadística del sector educativo en la región.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2009)</small>
+
+ARTÍCULO 54 D. Corresponde a la Dirección de Administración y Recursos Humanos:
+
+I. Atender las necesidades del personal de la Subsecretaría, en materia de servicios y prestaciones laborales, aplicando la normatividad federal y estatal;
+
+II. Elaborar y mantener actualizadas las plantillas de personal de la Subsecretaría, así como los centros de trabajo de la región;
+
+III. Recibir y organizar las nóminas de pago del personal de la región;
+
+IV. Distribuir, retener, liberar y cancelar cheques y nóminas de pago entre el personal habilitado de los centros de trabajo cuando proceda, según la normatividad establecida por la Secretaría de Educación y Cultura;
+
+V. Conciliar y devolver las nóminas a la Subdirección de Pagos de las oficinas centrales de la Secretaría de Educación y Cultura;
+
+VI. Tramitar reexpediciones de cheques, problemas de pago y reubicaciones de personal;
+
+VII. Realizar el pago de pensiones alimenticias del personal de los centros de trabajo, previa autorización de la unidad administrativa competente;
+
+VIII. Recibir, capturar y enviar a la Subsecretaría de Administración y Recursos Humanos, el reporte de inasistencias del personal de los centros de trabajo autorizados por la unidad administrativa competente;
+
+IX. Llevar control y capturar las licencias médicas y de permisos económicos, así como realizar los trámites para recuperación de reintegros por licencias médicas excedidas o cobros indebidos del personal en la región;
+
+X. Recibir, validar y enviar la documentación comprobatoria para el trámite de pago por interinatos de licencias médicas del personal en la región;
+
+XI. Tramitar ante el módulo del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado en la Secretaría de Educación y Cultura, las afiliaciones correspondientes de los trabajadores en la región;
+
+XII. Recibir solicitudes de nuevo ingreso y reingreso al Fondo de Retiro de los Trabajadores de la Educación y, en su caso, tramitar liquidaciones de los trabajadores en la región;
+
+XIII. Distribuir estados de cuenta del Fondo de Retiro de los Trabajadores de la Educación y comprobantes de aportación del Sistema de Ahorro para el Retiro al personal de los centros de trabajo, previa autorización de la unidad administrativa competente;
+
+XIV. Realizar el trámite de designación de beneficiarios por parte del personal respecto a las prestaciones extra-legales en la región;
+
+XV. Recibir y capturar reportes para el pago de estímulo de antigüedad, puntualidad y asistencia, así como apoyo de prestaciones de ayuda escolar y guardería al personal de los centros de trabajo, previa autorización de la unidad administrativa competente;
+
+XVI. Elaborar credenciales de identificación como trabajadores de la Secretaría de Educación y Cultura, constancias de servicios, así como percepciones y deducciones al personal de los centros de trabajo, previa autorización de la unidad administrativa competente;
+
+XVII. Diseñar y coordinar acciones de capacitación del personal de la Subsecretaría en coordinación con las demás Subsecretarías;
+
+XVIII. Ejecutar los procesos administrativos que logren que lo (sic) recursos presupuestales, financieros y materiales sean óptimos para la operación de las unidades administrativas de la Subsecretaría, de acuerdo con el presupuesto autorizado y con estricto apego a la normatividad aplicada;
+
+XIX. Elaborar anualmente el anteproyecto del presupuesto operativo anual de la Subsecretaría;
+
+XX. Ejercer y comprobar mensualmente los recursos asignados a la Subsecretaría ante la Subsecretaría de Administración y Recursos Humanos;
+
+XXI. Apoyar permanentemente en la comprobación de recursos asignados para programas estatales y federales donde se involucre a la Subsecretaría;
+
+XXII. Registrar los reportes de los centros de trabajo que se rigen por el sistema de ingresos propios en la región y enterarlos a la Subsecretaría de Administración y Recursos Humanos, y
+
+XXII. Apoyar a la Subsecretaría de Administración y Recursos Humanos, en el proceso de actualización de inventarios de materiales, mobiliario y equipo de los centros educativos en la región.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2009)</small>
+
+ARTÍCULO 54 E. Corresponde a la Dirección de Operación y Servicios Educativos:
+
+I. Brindar asesoría y servicios de gestión a los usuarios del Sistema Educativo Estatal;
+
+II. Dar seguimiento a las acciones de la Secretaría de Educación y Cultura en la región laguna, en coordinación con los niveles educativos y unidades administrativas centrales;
+
+III. Planear y llevar a cabo la entrega de beneficios de programas institucionales y de apoyo a la educación básica, con estricto cumplimiento a la normatividad estatal y federal vigente en coordinación con la estructura educativa competente;
+
+IV. Operar la entrega de beneficios de programas institucionales programados y autorizados por las áreas competentes de la Secretaría de Educación y Cultura en los centros de trabajo, previa autorización de la unidad administrativa competente y llevar el registro del padrón de beneficiarios;
+
+V. Participar y coadyuvar en acciones de beneficio social organizadas por las instancias gubernamentales, instituciones sociales y/o organizaciones no gubernamentales en los términos autorizados por el Secretario;
+
+VI. Monitorear la prestación de los servicios educativos en la región laguna con el fin de atender y/o canalizar la problemática detectada;
+
+VII. Comunicar en tiempo y forma a la Subsecretaría o Coordinación General competente, las incidencias presentadas por los centros de trabajo de la región.
+
+#### SECCIÓN SÉPTIMA. COORDINACIÓN GENERAL DE ASUNTOS JURÍDICOS
 
 ###### ARTÍCULO 55.
 
@@ -1651,7 +1911,9 @@ I. Representar legalmente al Secretario, a la Secretaría, a sus servidores púb
 
 II. Ejercer las acciones judiciales y contencioso-administrativas que competan a la Secretaría, presentar querellas y denunciar ante el Ministerio Público del orden común o de la federación, según, sea el caso, con motivo de los hechos que lo ameriten, otorgar perdones, presentar desistimientos y acordar conciliaciones en beneficio de la Secretaría, celebrar convenios, así como también representar al Titular de la Dependencia, ante toda clase de autoridades jurisdiccionales, administrativas y del trabajo y en los juicios y procedimientos laborales que se tramiten;
 
-III. Representar legalmente al Secretario, a la Secretaría, a sus servidores públicos y a sus Unidades Administrativas en los juicios laborales, contestar demandas laborales, formular posiciones, desistimientos o allanamientos, acordar conciliaciones y, en general, todas aquellas promociones que a dichos juicios se refieran;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2009)</small>
+
+III. Representar legalmente al Secretario, a la Secretaría, a sus servidores públicos y a sus unidades administrativas en los juicios laborales, contestar demandas laborales, formular y absolver posiciones, desistimientos o allanamientos, acordar conciliaciones y en general, todas aquellas promociones que a dichos juicios se refieran;
 
 IV. Previo acuerdo con el Coordinador General, solicitar ante los tribunales competentes la suspensión o terminación de los efectos del nombramiento de los trabajadores al servicio de la Secretaría;
 
@@ -1733,7 +1995,7 @@ X. Informar los resultados de auditorias internas y el seguimiento de los acuerd
 
 XI. Recibir, clasificar y analizar las sugerencias presentadas, así como orientar e informar el trámite a las quejas presentadas por particulares y servidores públicos.
 
-#### SECCIÓN NOVENA. COORDINACIÓN GENERAL DE VINCULACIÓN CON EL SECTOR SOCIAL Y MAGISTERIAL
+#### SECCION OCTAVA. COORDINACIÓN GENERAL DE BIBLIOTECAS, PUBLICACIONES Y LIBRERÍAS
 
 ###### ARTÍCULO 62.
 
@@ -1772,6 +2034,8 @@ III. Planear, organizar, llevar a cabo y promover eventos de carácter cultural 
 IV. Realizar la venta al público de las publicaciones dirigidas para ese cometido en las librerías a su cargo;
 
 V. Gestionar ante las empresas editoriales la entrega gratuita de libros.
+
+#### SECCIÓN NOVENA. COORDINACIÓN GENERAL DE VINCULACIÓN CON EL SECTOR SOCIAL Y MAGISTERIAL
 
 ###### ARTÍCULO 64.
 
@@ -1903,7 +2167,7 @@ X. Operar el Programa Alimentario Escolar y servir de enlace entre el DIF Coahui
 
 XI. Operar en coordinación con la Secretaría de Fomento Agropecuario el Programa Apoyo Alimenticio a Maestros Rurales;
 
-XII. Elaborar y presentar oportunamente a la Dirección de Planeación del Presupuesto el anteproyecto de los programas y presupuesto de egresos de la Unidad Administrativa a su cargo
+XII. Elaborar y presentar oportunamente a la Dirección de Planeación del Presupuesto el anteproyecto de los programas y presupuesto de egresos de la Unidad Administrativa a su cargo.
 
 ###### ARTÍCULO 69.
 
@@ -2052,3 +2316,11 @@ EL SECRETARIO DE LA FUNCIÓN PÚBLICA
 ING. ISMAEL E. RAMOS FLORES
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 27 DE MARZO DE 2009.
+
+PRIMERO. Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
