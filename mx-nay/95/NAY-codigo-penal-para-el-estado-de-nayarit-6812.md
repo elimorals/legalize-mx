@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "2008-12-24"
+last_updated: "2009-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 2009.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -265,7 +265,9 @@ ARTICULO 24 BIS.- Se perseguirán por querella de parte los siguientes delitos:
 
 I. Delitos de contagio sexual.
 
-II. Atentados al Pudor.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2009)</small>
+
+II. Atentados al Pudor, salvo que la victima sea impúber o persona privada de razón, en cuyo caso el delito será perseguido de oficio.
 
 III. Estupro.
 
@@ -813,7 +815,7 @@ La sanción a los delincuentes habituales no podrá ser menor de la que se les i
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-ARTICULO 80 bis.- En el caso de incremento de sanciones por aplicación de reglas de concursos, reincidencia o habitualidad, es facultad del juzgador imponer aún sin pedimento del representante social, la pena relativa a cada caso particular.
+ARTICULO 80 BIS.- En el caso de incremento de sanciones por aplicación de reglas de concursos, reincidencia o habitualidad, es facultad del juzgador imponer aún sin pedimento del representante social, la pena relativa a cada caso particular.
 
 ### CAPITULO I. EJECUCION DE LAS SANCIONES
 
@@ -1125,7 +1127,7 @@ La sanción consistente en privación de derechos civiles o políticos prescribi
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-ARTICULO 124 bis.- Los antecedentes penales prescribirán en un término de cinco años, contando a partir de que se cumpla la sentencia ejecutoriada, siempre y cuando en el transcurso de ese tiempo el sentenciado no cometa nuevo delito en forma dolosa y se resolverá de plano por el juez o por la Dirección General de Prevención y Readaptación Social de Gobierno del Estado, en consecuencia se girarán los oficios respectivos a las autoridades donde registren dichos antecedentes para que se dejen insubsistentes.
+ARTICULO 124 BIS.- Los antecedentes penales prescribirán en un término de cinco años, contando a partir de que se cumpla la sentencia ejecutoriada, siempre y cuando en el transcurso de ese tiempo el sentenciado no cometa nuevo delito en forma dolosa y se resolverá de plano por el juez o por la Dirección General de Prevención y Readaptación Social de Gobierno del Estado, en consecuencia se girarán los oficios respectivos a las autoridades donde registren dichos antecedentes para que se dejen insubsistentes.
 
 La regla anterior no será aplicable cuando el sentenciado cometa otro delito de la misma especie.
 
@@ -1536,6 +1538,12 @@ Si se efectuare el contagio en cualquiera de los casos de los dos artículos ant
 Se presumirá el conocimiento de la enfermedad, cuando el agente o el niño amamantado presenten lesiones o manifestaciones externas de aquélla, fácilmente apreciables.
 
 Cuando se trate de cónyuges o de personas en concubinato, sólo se procederá por querella del ofendido.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2009)</small>
+
+ARTICULO 192 BIS.- El que a sabiendas de que padece enfermedad venérea incurable, a través de relaciones sexuales o de cualquier otro medio contagie a otro, será sancionado con prisión de 10 a 15 años y multa de cien a cuatrocientos días de salario mínimo, sin perjuicio de las medidas de seguridad que se puedan decretar, a efecto de evitar posteriores contagios.
+
+La misma sanción se impondrá a quien sin padecerla, por cualquier medio y de manera dolosa contagie a otro.
 
 ###### ARTICULO 193.
 
@@ -2189,7 +2197,7 @@ Se sancionará con prisión de un mes a dos años y multa de uno a cinco días d
 
 ### CAPITULO III. VIOLACION
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 251.
 
@@ -2245,9 +2253,11 @@ Si se cometiera en impúber o en persona que por cualquier causa no pudiere resi
 
 Si con motivo de los actos eróticos o por cualquier otra causa se llegare a introducir en el pasivo ya sea por vía vaginal o rectal, algún objeto o cuerpo extraño o propio, las sanciones aplicables serán las mismas que para los casos que contempla el artículo 260 de este Código.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 257.
 
-El ilícito de atentados al pudor, solo se sancionarán a petición del ofendido o de su representante legítimo, a excepción de la forma de comisión señalada en el artículo anterior en el que será perseguible de oficio.
+El ilícito de atentados al pudor, solo se sancionarán a petición del ofendido o de su representante legítimo, a excepción de los supuestos referidos en el artículo anterior y en la fracción segunda del artículo 24 bis, en cuyos casos el delito será perseguible de oficio.
 
 ### CAPITULO III. SUSTRACCION Y TRAFICO DE INFANTES
 
@@ -2271,21 +2281,31 @@ No se procederá contra el estuprador, sino por queja de la mujer ofendida o de 
 
 ###### ARTICULO 260.
 
-Se sancionará con prisión de seis a quince años y multa de diez a ochenta días de salario, a quien por medio de la violencia física o moral tenga cópula con una persona cualquiera que sea su sexo.
+Se sancionará con prisión de seis a quince años y multa de cien a trescientos días de salario mínimo, a quien por medio de la violencia física o moral tenga cópula con una persona cualquiera que sea su sexo.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1991)</small>
 
 Se sancionará como violación al que tenga cópula con persona impúber o con persona privada de razón o de sentido, o cuando por enfermedad o por cualquiera otra causa no pueda resistir.
 
-Si la persona impúber fuere menor de once años, la sanción será de diez a treinta años de prisión y multa de diez a ochenta días de salario.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2009)</small>
 
-La violación de un ascendiente a su descendiente, o de éste a aquél, se sancionará con prisión de diez a treinta años y multa de diez a ochenta días de salario.
+Si la persona impúber fuere menor de once años, la sanción será de diez a treinta años de prisión y multa de cien a trescientos días de salario mínimo.
 
-La violación del padrastro a la hijastra o hijastro y la ejecutada por éste a su madrastra, o entre parientes adoptivos, se sancionará con prisión de diez a treinta años y multa de diez a ochenta días de salario.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2009)</small>
 
-(ADICIONADO, P.O. 7 DE AGOSTO DE 1996) (REPUBLICADO, P.O. 14 DE AGOSTO DE 1996)
+La violación de un ascendiente a su descendiente, o de éste a aquél, se sancionará con prisión de diez a treinta años y multa de cien a trescientos días de salario mínimo.
 
-La violación cometida por aquél que en ejercicio de sus funciones, valiéndose de su posición jerárquica, derivada de sus relaciones laborales, docentes, domésticas o cualquier otra que implique subordinación, se sancionará con prisión de diez a treinta años y multa de diez a ochenta días de salario mínimo.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2009)</small>
 
-Cuando en una violación intervengan tres o más personas, aún cuando sólo una de ellas, efectúe la cópula, se aplicarán a todas ellas de diez a treinta años de prisión y multa de diez a ochenta días de salario.
+La violación del padrastro a la hijastra o hijastro y la ejecutada por éste a su madrastra, o entre parientes adoptivos, se sancionará con prisión de diez a treinta años y multa de cien a trescientos días de salario mínimo.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2009)</small>
+
+La violación cometida por aquél que en ejercicio de sus funciones, valiéndose de su posición jerárquica, derivada de sus relaciones laborales, docentes, domésticas o cualquier otra que implique subordinación, se sancionará con prisión de diez a treinta años y multa de cien a trescientos días de salario mínimo.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2009)</small>
+
+Cuando en una violación intervengan tres o más personas, aún cuando sólo una de ellas, efectúe la cópula, se aplicarán a todas ellas de diez a treinta años de prisión y multa de cien a trescientos días de salario mínimo.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 22 DE NOVIEMBRE DE 2006)</small>
 
@@ -3750,3 +3770,7 @@ Artículo Quinto.- El Congreso del Estado deberá realizar las adecuaciones nece
 P.O. 24 DE DICIEMBRE DE 2008.
 
 Artículo Único.- El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
+
+P.O. 28 DE MARZO DE 2009.
+
+Artículo único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
