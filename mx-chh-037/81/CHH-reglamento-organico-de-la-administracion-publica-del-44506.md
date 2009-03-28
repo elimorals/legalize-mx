@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-organico-de-la-administracion-publica-del-44506"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-09"
-last_updated: "2009-01-17"
+last_updated: "2009-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE JUAREZ, ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 2009.
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 9 de febrero de 2005.
 
@@ -1041,9 +1041,7 @@ I.- Dirección Normativa Ambiental;
 
 II.- Unidad Municipal de Protección Civil;
 
-> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2006)</small>
-
-III.- Centro Regional de Información Ambiental y de Riesgos (CRIAR).
+III.- (DEROGADA, P.O. 28 DE MARZO DE 2009)
 
 ###### Artículo 68.
 
@@ -1107,35 +1105,9 @@ VI. Colaborar, en materia de rescate, con las autoridades federales, estatales y
 
 VII. Las demás que le señalen éste u otros ordenamientos legales.
 
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2006)</small>
-
 ###### Artículo 71 Bis.
 
-Son atribuciones del Director del Centro Regional de Información Ambiental y de Riesgos (CRIAR):
-
-I.- Contar con una base de datos permanentemente actualizada, con la información que se genere en las diferentes áreas relacionadas a la materia.
-
-II.- Producir la información creando una base de datos históricos, que permita conocer el estado del medio ambiente en el Municipio de Juárez, Chihuahua, con el fin de instrumentar políticas en beneficio de los habitantes del Municipio.
-
-III.- Implementación de un sistema de información geográfica (SIG), para la evaluación de circunstancias y toma de decisiones a fin de aminorar los riesgos que pudieran presentarse dentro del Municipio, el cual tendrá por objetivo integrar y mantener actualizada la información geográfica dentro del mismo.
-
-IV.- Homologación de estándares cartográficos internacionales a través del: The Federal Geographic Data Committee”.
-
-V.- Proporcionar información geoespacial en tiempo real a la Dirección General de Ecología y Protección Civil.
-
-VI.- Generar modelos tridimensionales para evaluar los riesgos geomorfológicos, con especial énfasis en las zonas identificadas de alto riesgo.
-
-VII.- Establecer una red de estaciones meteorológicas, la cual permitirá recopilar información meteorológica, para desarrollar modelos de pronóstico en tiempo real y evaluación de los riesgos dentro de la Sierra de Juárez, así como dentro de la mancha urbana.
-
-VIII.- Contar con un radar que mantenga la vigilancia continua de la atmósfera para identificar los fenómenos meteorológicos, pudiendo alertar así a la población sobre un posible acontecimiento destructivo que ocasione daños a la sociedad, sus bienes o entorno.
-
-IX.- Diseñar cartografía especializada para trazar rutas de evacuación con el fin de establecer lineamientos específicos que permitan hacer frente a los riesgos o emergencias presentadas en fenómenos naturales o antropogénicos y con ello aminorar sus efectos sobre la población ante cualquier posible riesgo, estimando tiempos de respuesta, esto como parte de los trabajos dentro de los Planes de Contingencia.
-
-X.- Diseñar rutas para el desplazamiento de todas las unidades de emergencia, por vías alternas en horario conflictivo y ante cualquier eventualidad o contingencia.
-
-XI.- Tener plenamente identificados todos los generadores de riesgo, estableciendo un estrecho vínculo con las Cámaras de la Industria y del Comercio, con la finalidad de que los planes de contingencia se actualicen y se coordinen con la Dirección de Protección Civil y la Dirección Normativa Ambiental.
-
-XII.- Identificar riesgos ambientales y antropogénicos en todos los sectores sociales.
+(DEROGADO, P.O. 28 DE MARZO DE 2009)
 
 DIRECCION GENERAL DE PROMOCION FINANCIERA Y ECONOMICA
 
@@ -1632,3 +1604,7 @@ P.O. 17 DE ENERO DE 2009.
 ACUERDO 005 QUE APRUEBA LA REFORMA DE LOS ARTICULOS 5, 39, 40, 41, 42, 43, 44 Y 45.
 
 ÚNICO.- La reforma del Reglamento Orgánico de la Administración Pública del Municipio de Juárez, Estado de Chihuahua, conforme a este acuerdo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
+
+P.O. 28 DE MARZO DE 2009.
+
+ÚNICO.- La presente modificación, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
