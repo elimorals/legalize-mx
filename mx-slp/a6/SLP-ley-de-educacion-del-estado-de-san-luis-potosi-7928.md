@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2008-09-02"
+last_updated: "2009-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACION DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 2009.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -635,9 +635,11 @@ La evaluación de los educandos comprenderá la medición en lo individual de lo
 
 Las instituciones educativas deberán informar periódicamente a los educandos y, en su caso, a los padres de familia o tutores, los resultados y calificaciones de los exámenes parciales y finales, así como las observaciones sobre el desempeño académico de los propios educandos que permitan mayor aprovechamiento.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MARZO DE 2009)</small>
+
 ## Título Tercero.
 
-Servicios Educativos, Culturales, Recreativos, Deportivos y de Extensión y Difusión Educativos.
+Servicios Educativos, Culturales, Recreativos, Deportivos, de Cultura Ecológica, de Extensión y Difusión Educativos.
 
 ### Capítulo I.
 
@@ -763,11 +765,15 @@ Las autoridades educativas estatal y municipal en el ámbito de su competencia r
 
 I.- Promover y apoyar programas deportivos y de recreación, para preservar la salud física y mental de la niñez y la juventud;
 
-II.- Coadyuvar en la construcción y mantenimiento de espacios deportivos y de recreación, evitando con ello la proliferación de centros de vicio;
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2009)</small>
 
-III.- Impulsar la participación en actividades y competencias deportivas y recreativas, nacionales e internacionales; y
+II.- Estimular la promoción de esquemas y acciones en los programas educativos, con el objetivo de fomentar la cultura ecológica en todos los integrantes de la comunidad educativa, con especial énfasis en nuestra niñez y juventud; haciendo obligatoria la siembra de árboles y el cuidado de los mismos, a fin de lograr la preservación del medio ambiente;
 
-IV.- Otorgar becas para alumnos y maestros destacados en el área deportiva.
+III.- Coadyuvar en la construcción y mantenimiento de espacios deportivos y de recreación, evitando con ello la proliferación de centros de vicio;
+
+IV.- Impulsar la participación en actividades y competencias deportivas y recreativas, nacionales e internacionales; y
+
+V.- Otorgar becas para alumnos y maestros destacados en el área deportiva.
 
 ### Capítulo IV.
 
@@ -1494,6 +1500,12 @@ SEGUNDO. El Ejecutivo del Estado tiene noventa días naturales, a partir de la p
 TERCERO. El Ejecutivo del Estado constituirá Consejo Estatal de Participación Social del Estado de San Luis Potosí, noventa días naturales después de la publicación de este decreto.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE MARZO DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 ## TRANSITORIOS
 
