@@ -4,7 +4,7 @@ identifier: "OAX-ley-por-la-que-se-crea-el-organismo-publico-descentralizado-200
 country: "mx"
 rank: "ley"
 publication_date: "1982-10-16"
-last_updated: "2005-03-22"
+last_updated: "2009-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "OAX"
 ---
 # LEY POR LA QUE SE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO INSTITUTO DE VIVIENDA DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE VIVIENDA PARA EL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 28 DE MARZO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE CREA EL INSTITUTO DE VIVIENDA DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2009 (ABROGADA).
 
-Ley publicada en el Periódico Oficial del Estado de Oaxaca, el Sábado 16 de octubre de 1982.
+Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 16 de octubre de 1982.
 
 DECRETO NUMERO 87
 
@@ -300,3 +302,23 @@ UNICO.- EL Presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 22 DE MARZO DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE MARZO DE 2009.
+
+## [N. DE E. TRANSITORIOS DE “DECRETO NUM. 836.- MEDIANTE EL CUAL SE APRUEBA LA LEY DE VIVIENDA PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- La presente Ley entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado; por lo que quedan derogadas las disposiciones de igual o menor rango en materia de vivienda que se encuentren en otros ordenamientos y que contravenga las disposiciones de la presente Ley.
+
+SEGUNDO.- Para proveer el exacto cumplimiento de esta Ley, el Ejecutivo del Estado expedirá el reglamento respectivo, en un término de ciento ochenta días naturales contados a partir de la entrada en vigor de la presente ley.
+
+TERCERO.- Se abroga el Decreto No. 87, publicado en el Periódico Oficial de (sic) estado de Oaxaca de fecha 16 de octubre de 1982, por el que se crea el Instituto de Vivienda de Oaxaca, y se dejan sin efecto todas las disposiciones de igual o menor rango que se opongan a esta Ley en materia de vivienda.
+
+Los bienes muebles e inmuebles, recursos financieros, presupuestarios y demás activos y pasivos del Instituto de Vivienda del Estado de Oaxaca, con la entrada en vigor del presente decreto pasarán a formar parte del Patrimonio de la Comisión Estatal de Vivienda, para cuyo efecto dentro del término de setenta días naturales contados a partir de la publicación del presente. La Comisión Estatal de Vivienda realizará las gestiones y tramites correspondientes.
+
+El personal adscrito al Instituto de Vivienda del Estado de Oaxaca, pasará a formar parte de la Comisión Estatal de Vivienda sin afectación alguna de sus derechos y prestaciones laborales y sus relaciones se regirán por las disposiciones vigentes y aplicables.
+
+Los acuerdos, convenios y cualquier acto jurídico que haya celebrado el Instituto de Vivienda de Oaxaca, serán continuados por la Comisión Estatal de Vivienda, hasta que se cumpla su objeto.
+
+CUARTO.- Se abrogan los Decretos números 366 y 398 publicados en el Periódico Oficial del Estado de Oaxaca, de fechas 15 de enero de 2007 y 10 de marzo de 2007, por el que se crea y adiciona el Consejo Consultivo de Vivienda para el Estado de Oaxaca, respectivamente.
+
+QUÍNTO.- La Coordinación General de Centros de Materiales para la Vivienda, reconocida por Decreto número 1 dictado por el Ejecutivo del Estado, publicado en el Periódico Oficial del Gobierno del Estado de fecha 11 de junio de 1988, seguirá operando y funcionando en los términos de su decreto de creación, coordinando sus acciones y funciones con la Comisión Estatal de Vivienda, en sustitución del Instituto de Vivienda del Estado de Oaxaca
