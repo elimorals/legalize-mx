@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2009-02-12"
+last_updated: "2009-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 2009.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -2077,9 +2077,23 @@ XIII. Se cometa con el empleo de cualquier medio para abrir cajas fuertes;
 
 XIV. Se cometa aprovechando las condiciones de confusión respecto de los bienes de personas heridas;
 
-XV. Se cometa en el interior de una unidad del servicio público de transporte de pasajeros o de cualquiera que preste similar, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-XVI. Se cometa utilizando de cualquier forma una unidad del servicio público de transporte de pasajeros o de cualquiera que preste un servicio similar.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2009)</small>
+
+XV. Se cometa en el interior de una unidad del servicio público de transporte de pasajeros o de cualquiera que preste servicio similar;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2009)</small>
+
+XVI. Se cometa utilizando de cualquier forma una unidad del servicio público de transporte de pasajeros o de cualquiera que preste un servicio similar, Y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2009)</small>
+
+XVII. El objeto robado sea un vehículo de motor.
 
 En los casos a que hace referencia este artículo, se aplicarán las sanciones correspondientes al robo simple, aumentadas en una mitad.
 
@@ -3410,5 +3424,11 @@ TERCERO. Todos los procedimientos, recursos administrativos y demás asuntos rel
 P.O. 12 DE FEBRERO DE 2009.
 
 PRIMERO. Este Decreto entrará en vigor el día treinta de marzo del año dos mil nueve, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE MARZO DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor el treinta de marzo del dos mil nueve, conjuntamente con el diverso legislativo No. 646, publicado en el Periódico Oficial del Estado el 12 de febrero del año en curso, en su edición extraordinaria; previa publicación en el precitado órgano de difusión oficial.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
