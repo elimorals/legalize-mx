@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-a-la-salud-de-las-personas-no-fumadoras-48371
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-27"
-last_updated: "2005-12-27"
+last_updated: "2009-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE PROTECCION A LA SALUD DE LAS PERSONAS NO FUMADORAS PARA EL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DE LA LEY ESTATAL DE PROTECCION A LA SALUD DE LAS PERSONAS NO FUMADORAS, PUBLICADA EN EL P.O. DE 28 DE MARZO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el martes 27 de diciembre de 2005.
 
@@ -396,3 +398,23 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE MARZO DE 2009.
+
+PRIMERO. Se abroga la Ley de Protección a la Salud de las Personas No Fumadoras para el Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el 27 de diciembre de 2005, mediante el Decreto Legislativo Número 404; y demás disposiciones que se opongan a la entrada en vigor de la presente ley.
+
+SEGUNDO. Esta Ley entrará en vigor a los quince días naturales siguientes de su publicación en el Periódico Oficial del Estado.
+
+TERCERO. El Ejecutivo del Estado deberá expedir el del Reglamento de la presente Ley, dentro de los noventa días naturales siguientes a la entrada en vigor de la misma.
+
+CUARTO. Se establece un plazo de noventa días naturales, contados a partir de la entrada en vigor de esta Ley, para que los municipios del Estado ajusten su reglamentación a lo establecido en la misma.
+
+QUINTO. La Secretaria de Salud, en coordinación con los Servicios de Salud, contará con un término de noventa días naturales, posteriores a la publicación de la Ley, para la elaboración y difusión del manual de señalamientos y avisos que deberán ser colocados en forma obligatoria, para los establecimientos, empresas, industrias y dependencias, entidades y órganos de los poderes del Estado y municipios, a que hace referencia la presente Ley; este mismo término aplicará para la creación de la línea telefónica de denuncias contemplada en el artículo 19 del presente Ordenamiento.
+
+SEXTO. En términos de lo dispuesto por los artículos 10 y 11 de esta Ley, los propietarios, administradores o responsables de los establecimientos que pretendan contar con zonas exclusivamente para fumar, deberán adecuar sus instalaciones conforme a las disposiciones aplicables en la materia.
+
+En caso de que los propietarios, administradores o responsables de los establecimientos referidos en el párrafo anterior, no cuenten con las posibilidades económicas o de infraestructura necesarias para llevar a cabo las modificaciones o adecuaciones señaladas, podrán recurrir a la Secretaria, dentro del periodo especificado en el párrafo anterior, a efecto de celebrar los convenios o instrumentos administrativos necesarios para llevar a cabo las modificaciones a los establecimientos de acuerdo con este Ordenamiento.
+
+SEPTIMO. Todos los procedimientos, recursos administrativos y demás asuntos relacionados con la materia a que refiere la presente Ley, iniciados con anterioridad a la entrada en vigor de de (sic) la misma, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.
