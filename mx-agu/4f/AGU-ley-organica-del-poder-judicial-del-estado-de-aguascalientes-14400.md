@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "2007-07-09"
+last_updated: "2009-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DEL PODER JUDICIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2009.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -211,7 +211,9 @@ III.- Llevar la correspondencia oficial del Tribunal;
 
 IV.- Visitar por sí o mandar visitar de acuerdo con las leyes relativas, los Juzgados y Centros de Readaptación Social del Estado, facultad que se podrá delegar en Magistrados Visitadores que él designará;
 
-V.- Informar al H. Congreso del Estado anualmente en la fecha que éste lo indique de las actividades realizadas en la administración de Justicia;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
+
+V.- Presentar anualmente y por escrito, ante el Pleno del Congreso del Estado a más tardar el 15 de enero, informe correspondiente al año inmediato anterior, sobre la actividad jurisdiccional de los tribunales respecto a sus resoluciones, sentencias y la ejecución de las mismas, así como de la Administración de los recursos financieros del Poder Judicial;
 
 VI.- Convocar, presidir y dirigir los debates y conservar el orden de las sesiones del Pleno;
 
@@ -1534,3 +1536,13 @@ El Consejo de la Judicatura, emitirá el acuerdo respectivo para determinar el n
 ###### ARTÍCULO SEGUNDO.
 
 La presente reforma entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 30 DE MARZO DE 2009.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+A más tardar el día 15 de enero del año 2010, el Poder Judicial del Estado deberá presentar al Poder Legislativo, el informe a que se refiere la Fracción V del Artículo 11 del presente Decreto, respecto a los años 2008 y 2009; a partir del año 2011 se regularizará la entrega de la información.
