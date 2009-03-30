@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-poder-judicial-del-estado-de-sinaloa-6639"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-10"
-last_updated: "2007-10-03"
+last_updated: "2009-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 10 de abril de 1995.
 
@@ -349,13 +349,19 @@ IV.- De los demás asuntos que en materia civil determinen las Leyes.
 
 La Cuarta Sala conocerá:
 
-I.- De los recursos que ante el superior concedan las Leyes contra las sentencias definitivas dictadas por los Jueces de Primera Instancia en los asuntos del orden familiar;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
 
-II.- De las recusaciones y excusas de los Jueces de Primera Instancia en asuntos del orden familiar;
+I.- De los recursos que ante el superior concedan las Leyes contra las sentencias definitivas dictadas por los Jueces de Primera Instancia en los asuntos del orden familiar, y en contra de las resoluciones dictadas por los Jueces Especializados en justicia para Adolescentes;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
+
+II.- De las recusaciones y excusas de los Jueces de Primera Instancia en asuntos del orden familiar y de justicia para adolescentes;
 
 III.- Ejercer la jurisdicción atrayente en asuntos del orden familiar de las Salas de Circuito, en los términos de Ley; y
 
-IV.- De los demás asuntos que en materia familiar señalen las Leyes.
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
+
+IV.- De los demás asuntos que en materia familiar y de justicia para adolescentes señalen las Leyes.
 
 ###### ARTICULO 32.
 
@@ -405,9 +411,7 @@ Los Actuarios de las Salas lo serán también del Pleno.
 
 Las Salas de Circuito serán competentes para conocer de los recursos que procedan en contra de las resoluciones distintas de sentencias definitivas que dicten los Jueces de Primera Instancia Penales, Civiles o Familiares, así como de los que se interpongan en contra de las resoluciones que dicten los Jueces de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito.
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
-
-La Sala de Circuito Especializada para Adolescentes conocerá de los recursos que la Ley de Justicia para Adolescentes conceda ante el superior, contra las resoluciones dictadas por los Jueces de Primera Instancia Especializada para Adolescentes.
+> <small>(DEROGADO PARRAFO SEGUNDO, P.O. 30 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 37.
 
@@ -529,11 +533,11 @@ Para ser Secretario y Actuario de Juzgado de Primera Instancia se requieren los 
 
 En cada Distrito Judicial habrá el número de Juzgados de Primera Instancia que determine el Pleno del Supremo Tribunal de Justicia, conforme a las necesidades del servicio judicial.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 52.
 
-El Pleno del Supremo Tribunal de Justicia fijará la competencia penal, civil, familiar, para adolescentes o de vigilancia de la ejecución de las consecuencias jurídicas del delito de dichos Juzgados. En los Distritos Judiciales en que haya un solo Juzgado de Primera Instancia, éste conocerá tanto de asuntos del orden penal, civil y familiar; los asuntos del orden de vigilancia de las consecuencias jurídicas del delito, sólo serán conocidos por los Juzgados de ese ramo. Los procesos que se sigan a adolescentes a quienes se atribuyan la comisión de una conducta tipificada como delito en las leyes penales, sólo serán conocidos por los Jueces especializados en esa materia.
+El Pleno del Supremo Tribunal de Justicia fijará la competencia penal, civil, familiar, para adolescentes o de vigilancia de la ejecución de las consecuencias jurídicas del delito de dichos Juzgados. En los Distritos Judiciales en que haya un solo Juzgado de Primera Instancia, éste conocerá tanto de asuntos del orden penal, civil y familiar.
 
 ###### ARTICULO 53.
 
@@ -685,7 +689,9 @@ Las faltas accidentales de los Actuarios y las temporales que no excedan de quin
 
 Cuando un Juez de Primera Instancia del orden civil tenga impedimento legal para conocer de un determinado negocio, conocerá del asunto el otro que ejerza jurisdicción en el mismo Ramo, en defecto de éste, el Juez del Ramo Familiar y a falta o impedimento de éste, el Juez de Primera Instancia del Ramo Penal, siguiendo siempre el orden numérico.
 
-Cuando un Juez de Primera Instancia del orden Familiar tenga impedimento legal para conocer determinado negocio, conocerá del asunto el otro que ejerza jurisdicción en el mismo Ramo; en defecto de éste, el Juez del Ramo Civil y a falta o impedimento de éste, el Juez de Primera Instancia del Ramo Penal, siguiendo siempre el orden numérico.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
+
+Cuando un Juez de Primera Instancia del orden Familiar tenga impedimento legal para conocer determinado negocio, conocerá del asunto el otro que ejerza jurisdicción en el mismo Ramo; en defecto de éste, el Juez del Ramo Civil y a falta o impedimento de éste, el Juez de Primera Instancia del Ramo Penal, siguiendo siempre el orden numérico; y en defecto de éstos, un Juez de Justicia para Adolescentes, de haberlo en el mismo distrito judicial.
 
 > <small>(F. DE E., P.O. 26 DE ABRIL DE 1995)</small>
 
@@ -696,6 +702,10 @@ Si persiste el impedimento, el competente será el Juez del Distrito Judicial a 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2004)</small>
 
 Cuando un Juez de Primera Instancia de Vigilancia de las Consecuencias Jurídicas del Delito tenga impedimento legal para conocer determinado negocio, conocerá del asunto un Juez de Primera Instancia del Ramo Penal del Distrito Judicial en que aquél tenga su asiento, siguiendo el orden numérico.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2009)</small>
+
+Cuando un Juez de Justicia para Adolescentes tenga impedimento legal para conocer de un determinado negocio, conocerá del asunto otro del mismo ramo, de existir en la misma jurisdicción territorial, y en su defecto, un Juez de Primera Instancia del Ramo Penal del distrito judicial donde aquél tenga su sede, atendiendo al orden numérico.
 
 ###### ARTICULO 63.
 
@@ -1218,3 +1228,9 @@ P.O. 3 DE OCTUBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial" El Estado de Sinaloa".
+
+P.O. 30 DE MARZO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entra en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa"
