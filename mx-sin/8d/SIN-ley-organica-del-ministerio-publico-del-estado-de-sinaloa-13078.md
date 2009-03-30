@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-ministerio-publico-del-estado-de-sinaloa-13078
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-11-16"
-last_updated: "2007-10-03"
+last_updated: "2009-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2009.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 16 de noviembre de 1998.
 
@@ -331,9 +331,7 @@ VII. Dirección de Planeación, Desarrollo y Atención Ciudadana;
 
 VIII. Dirección de Investigación Criminalística y Servicios Periciales;
 
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
-
-IX. Dirección Especializada en Justicia para Adolescentes;
+IX. (DEROGADA, P.O. 30 DE MARZO DE 2009)
 
 X. Dirección de Policía Ministerial;
 
@@ -563,9 +561,25 @@ V. Iniciar, integrar y resolver las averiguaciones previas que le encomiende el 
 
 VI. Llevar copia de los expedientes de averiguaciones previas que se practiquen por los Agentes del Ministerio Público en la entidad;
 
-VII. Proponer al Procurador General de Justicia la expedición de manuales, circulares u otros ordenamientos administrativos que se requieran para ordenar y agilizar la actuación de los Agentes del Ministerio Público; y
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2009)</small>
 
-VIII. Las demás que le confieran otras disposiciones legales y el Procurador General de Justicia.
+VII. Organizar, supervisar y verificar que los Agentes del Ministerio Público Especializados en Justicia para Adolescentes cumplan con las atribuciones que les confiere la Ley de Justicia para Adolescentes del Estado de Sinaloa;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2009)</small>
+
+VIII. Llevar y mantener un estricto control y seguimiento de los asuntos radicados en las Agencias Especializadas en Justicia para Adolescentes, así como de los procesos que se sigan ante los órganos judiciales especializados en sus diferentes instancias, incluida la ejecución de las medidas;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2009)</small>
+
+IX. Velar por el cumplimiento de las obligaciones a cargo de los agentes del Ministerio Público Especializados en Adolescentes;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2009)</small>
+
+X. Intervenir directamente, o a través de los agentes del Ministerio Público Especializados, en cuanto a la competencia de la institución del Ministerio Público, en los asuntos previstos en la Ley de Justicia para Adolescentes;
+
+XII. Proponer al Procurador General de Justicia la expedición de manuales, circulares u otros ordenamientos administrativos que se requieran para ordenar y agilizar la actuación de los Agentes del Ministerio Público; y
+
+XIII. Las demás que le confieran otras disposiciones legales y el Procurador General de Justicia.
 
 ### CAPITULO VI. DE LA DIRECCIÓN DE CONTROL DE PROCESOS
 
@@ -779,45 +793,13 @@ IX. Mantener actualizado el registro de antecedentes penales en el Estado; y
 
 X. Las demás que le sean encomendadas por el Procurador General de Justicia.
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
-
 ###### Artículo 45 Bis.
 
-Para ser Director Especializado de Justicia para Adolescentes se requiere:
-
-I. Ser ciudadano sinaloense en pleno goce de sus derechos;
-
-II. Ser Licenciado en Derecho con título legalmente expedido;
-
-III. Tener más de treinta años de edad;
-
-IV. Acreditar ejercicio profesional de cinco años, por lo menos;
-
-V. Ser de honradez y probidad notorias;
-
-VI. No haber sido condenado por delitos dolosos; y,
-
-VI. Contar con formación especializada en derechos de la infancia.
-
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+(DEROGADO, P.O. 30 DE MARZO DE 2009)
 
 ###### Artículo 45 Ter.
 
-Al Director Especializado de Justicia para Adolescentes le corresponde:
-
-I. Planear, organizar, programar, coordinar, vigilar y evaluar las actividades y el funcionamiento de las áreas y agencias del Ministerio Público especializado a su cargo;
-
-II. Acordar con el Subprocurador General de Justicia los asuntos de su competencia;
-
-III. Organizar, supervisar y verificar que los Agentes del Ministerio Público Especializado en Justicia para Adolescentes cumplan con las atribuciones que les confiere la Ley de Justicia para Adolescentes del Estado de Sinaloa;
-
-IV. Llevar y mantener un estricto control y seguimiento de los asuntos radicados en las Agencias Especializadas en Justicia para Adolescentes, así como de los procesos que se sigan ante los órganos judiciales especializados en sus diferentes instancias, incluida la ejecución de las medidas;
-
-V. Velar por el cumplimiento de las obligaciones a cargo de los agentes del Ministerio Público Especializado en Adolescentes;
-
-VI. Intervenir directamente, o a través de los agentes del Ministerio Público Especializado, en cuanto a la competencia de la institución del Ministerio Público, en los asuntos previsto en la Ley de Justicia para Adolescentes; y,
-
-VII. Las demás que le confieran otras disposiciones legales y el Procurador General de Justicia.
+(DEROGADO, P.O. 30 DE MARZO DE 2009)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 12 DE ABRIL DE 2000)</small>
 
@@ -1229,7 +1211,9 @@ a) Las previstas en la Ley de Justicia para Adolescentes del Estado de Sinaloa y
 
 b) Residir en el lugar de su adscripción;
 
-c) Dar aviso a la Dirección Especializada de Justicia para Adolescentes de la iniciación de investigaciones, del ejercicio de la acción de remisión, del archivo provisional o definitivo de la investigación, de las resoluciones dictadas por los órganos judiciales al resolver sobre la sujeción a proceso, de la resolución del juicio, de la interposición de recursos y, en general, de todas aquellas resoluciones que incidan sobre el desarrollo del proceso, dentro de las veinticuatro horas siguientes;
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
+
+c) Dar aviso a la Dirección de Averiguaciones Previas de la iniciación de investigaciones, del ejercicio de la acción de remisión, del archivo provisional o definitivo de la investigación, de las resoluciones dictadas por los órganos judiciales al resolver sobre la sujeción a proceso, de la resolución del juicio, de la interposición de recursos y, en general, de todas aquellas resoluciones que incidan sobre el desarrollo del proceso, dentro de las veinticuatro horas siguientes; y,
 
 d) Las demás que les confieran otras disposiciones legales y el Procurador General de Justicia.
 
@@ -1712,3 +1696,9 @@ P.O. 3 DE OCTUBRE DE 2007.
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 Artículo Segundo.- Los procedimientos administrativos que se encuentren en trámite para la imposición de sanciones por el Procurador General de Justicia del Estado, se seguirán por su parte hasta su total resolución.
+
+P.O. 30 DE MARZO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entra en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
