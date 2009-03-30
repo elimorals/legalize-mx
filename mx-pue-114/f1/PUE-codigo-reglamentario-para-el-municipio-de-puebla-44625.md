@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2008-12-31"
+last_updated: "2009-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -14683,7 +14683,7 @@ VII. Salidas, rampas, pasillos y escaleras.
 
 ###### Artículo 1108.
 
-La constancia de terminación de obra o construcción en inmuebles de reunión masiva requerirá la obtención previa de “Informe de autorización” expedido por la UOMPROCI según el caso, en el que se haga constar el cumplimiento de las disposiciones consignadas en este apartado.
+La constancia de terminación de obra o construcción en inmuebles de reunión masiva requerirá la obtención previa de "Informe de autorización" expedido por la UOMPROCI según el caso, en el que se haga constar el cumplimiento de las disposiciones consignadas en este apartado.
 
 ###### Artículo 1109.
 
@@ -22693,25 +22693,57 @@ Las disposiciones del presente Capítulo regulan los requisitos para la obtenci�
 
 Para efectos del presente Capítulo, se entenderá por:
 
-I. Estacionómetro: Aparato y/o sistema de medición y control que se utiliza para regular el uso de estacionamiento en vía pública a través del cobro de una tarifa;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
 
-II. Usuario: Persona que ubica temporalmente un vehículo automotor en un estacionamiento;
+I. Ayuntamiento: El Honorable Ayuntamiento del Municipio de Puebla;
 
-III. Prestador del servicio: Persona física o moral, pública o privada que presta el servicio público de estacionamiento en los términos del presente Capítulo;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
 
-IV. Licencia: Es el documento que avala la autorización correspondiente que expida el Ayuntamiento del Municipio para prestar el servicio público de estacionamiento;
+II. Estacionómetro: Aparato y/o sistema de medición y control que se utiliza para regular el uso de estacionamiento en vía pública a través del cobro de una tarifa;
 
-V. Tarifa: La cantidad autorizada para el cobro del estacionamiento que establezca el Ayuntamiento;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
 
-VI. Servicio de acomodadores de vehículos: Aquél cuyo fin es la recepción y devolución de vehículos, con el fin de estacionarlos o colocarlos transitoriamente en el lugar destinado para ello;
+III. Licencia: Es el documento que avala la autorización correspondiente que expida el Ayuntamiento del Municipio para prestar el servicio público de estacionamiento;
 
-VII. Tesorería: La Tesorería del H. Ayuntamiento del Municipio de Puebla;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+IV. Municipio: El Municipio de Puebla;
 
-VIII. Secretaría de Gestión: La Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
 
-IX. SSPTM: La Secretaría de Seguridad Pública y Tránsito Municipal.
+V. Presidente: El Presidente del Municipio de Puebla;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
+
+VI. Prestador del servicio: Persona física o jurídica, pública o privada que presta el servicio público de estacionamiento en los términos del presente Capítulo;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
+
+VII. Secretaría de Gestión: La Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
+
+VIII. Servicio de estacionamiento o estacionamiento: El servicio público de estacionamiento;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
+
+IX. Servicio de acomodadores de vehículos: Aquél cuyo fin es la recepción y devolución de vehículos, con el fin de estacionarlos o colocarlos transitoriamente en el lugar destinado para ello;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2009)</small>
+
+X. SSPTM: La Secretaría de Seguridad Pública y Tránsito Municipal;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2009)</small>
+
+XI. Tarifa: El monto que paga el usuario y que es determinado por el prestador del servicio;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2009)</small>
+
+XII. Tesorería: La Tesorería del Honorable Ayuntamiento del Municipio de Puebla; y
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2009)</small>
+
+XIII. Usuario: Persona que deja temporalmente un vehículo automotor en un estacionamiento.
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
@@ -22723,15 +22755,21 @@ DE LAS AUTORIDADES COMPETENTES
 
 Son autoridades competentes para la aplicación de las disposiciones del presente Capítulo:
 
-I. El H. Ayuntamiento del Municipio de Puebla;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
 
-II. El Presidente Municipal Constitucional del H. Ayuntamiento del Municipio de Puebla;
+I. El Ayuntamiento;
 
-III. La Tesorería del Ayuntamiento del Municipio de Puebla;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+II. El Presidente;
 
-IV. La Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable, o las autoridades administrativas que ejerzan las facultades previstas en el presente Capítulo;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
+
+III. La Tesorería;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
+
+IV. La Secretaría de Gestión;
 
 V. La SSPTM: y
 
@@ -22745,21 +22783,27 @@ Son facultades de las autoridades competentes, las siguientes:
 
 I. Del Ayuntamiento:
 
-a) Emitir los acuerdos y disposiciones para regular los términos, condiciones y modalidades sobre los cuales se podrá prestar el servicio público de estacionamiento;
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
 
-b) Aprobar y modificar las tarifas para el cobro por hora fijo, por pensión y cualquier otra que pudiera cobrar el prestador del servicio como contraprestación;
+a) Emitir los acuerdos y disposiciones para regular los términos, condiciones y modalidades sobre los cuales se podrá prestar el servicio público de estacionamiento, salvo aquellos casos, que de acuerdo con el presente capítulo, los determine el prestador del servicio;
+
+b) (DEROGADO, P.O. 30 DE MARZO DE 2009)
 
 c) Fijar el horario del servicio de estacionómetros, de acuerdo a las necesidades específicas de las vialidades municipales, así como la suspensión de la operación y cobro de los mismos en casos de fuerza mayor; y
 
 d) Las demás facultades que otros ordenamientos legales le confieran y que se relacionen con la regulación de la prestación del servicio público de estacionamiento.
 
-II. Del Presidente Municipal:
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
 
-a) Dictar en la esfera de su competencia las medidas administrativas para la eficiente prestación del servicio público de estacionamiento en el Municipio de Puebla.
+II. Del Presidente:
+
+a) Dictar en la esfera de su competencia las medidas administrativas para la eficiente prestación del servicio público de estacionamiento en el Municipio.
 
 III. De la Tesorería:
 
-a) Expedir revalidar y cancelar las licencias de prestación del servicio público de estacionamiento;
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
+
+a) Expedir, refrendar y revocar las licencias de prestación del servicio público de estacionamiento;
 
 b) Llevar a cabo las visitas de inspección y vigilancia a los prestadores del servicio;
 
@@ -22767,7 +22811,7 @@ c) Determinar las infracciones y aplicar sanciones administrativas que señala e
 
 d) Recaudar las multas que deriven de las sanciones impuestas a los prestadores del servicio, así como, iniciar en su caso los procedimientos administrativos de ejecución para la recuperación de créditos fiscales;
 
-e) Emitir opinión respecto a las tarifas que sean fijadas por el Ayuntamiento para el cobro del servicio público de estacionamiento;
+e) (DEROGADO, P.O. 30 DE MARZO DE 2009)
 
 f) Recibir las quejas que formulen los usuarios del servicio público de estacionamiento, contra actos relativos a la prestación del servicio, debiendo sustanciar el procedimiento de investigación correspondiente, para estar en posibilidad de aplicar, en su caso, las sanciones a que haya lugar, previstas en el presente Capítulo;
 
@@ -22775,9 +22819,9 @@ g) Vigilar el adecuado funcionamiento del servicio público de estacionamiento e
 
 h) Las facultades que le confiera el presente Capítulo y disposiciones normativas aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MARZO DE 2009)</small>
 
-IV. De la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable, en adelante, Secretaría de Gestión:
+IV. De la Secretaría de Gestión:
 
 a) Recibir las solicitudes de los interesados en obtener la licencia, para su trámite respectivo;
 
@@ -22811,219 +22855,145 @@ f) Las demás facultades que le confiera el presente Capítulo y disposiciones n
 
 Las dependencias y organismos municipales proporcionarán la información técnica necesaria y realizarán las acciones dentro de sus respectivos ámbitos de competencia, a fin de lograr que el Ayuntamiento pueda regular de forma óptima el servicio público de estacionamiento en el Municipio de Puebla.
 
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE MARZO DE 2009)</small>
 
-DE LA CLASIFICACIÓN DE LOS ESTACIONAMIENTOS
+DE LAS MODALIDADES DEL SERVICIO PÚBLICO DE ESTACIONAMIENTO
 
-> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
 
-###### Artículo 1678.
+###### Articulo 1678.
 
-Los estacionamientos que se encuentran en el Municipio de Puebla se clasifican en:
+El servicio de estacionamiento podrá tener las siguientes modalidades:
 
-1. Estacionamientos privados. Son aquellos espacios físicos en los que se presta el servicio de estacionamiento de unidades habitacionales, residenciales, fraccionamientos así como las dedicadas a cubrir las necesidades propias y las que se generen con motivo de las actividades de instituciones o empresas siempre que el servicio otorgado sea gratuito.
+I. De autoservicio: Es aquel en el que el cliente conduce su automóvil hasta el cajón en el que queda estacionado, conservando el usuario las llaves de su vehículo.
 
-2. Estacionamientos públicos. Son aquellos espacios físicos, a cargo del Ayuntamiento o de particulares destinados a la prestación del servicio al público en general, de recepción, guarda, protección y devolución de vehículos a cambio del pago de la tarifa autorizada.
+II. De depósito: Es aquel en el que, el cliente conduce su automóvil hasta algún cajón desocupado o al que se le señale, dejando las llaves dentro del vehículo o entregándolas a los empleados responsables de dicho estacionamiento.
 
-Éstos a su vez se subclasifican en:
-
-I. De acuerdo a sus instalaciones en:
-
-a. De primera clase: Es el estacionamiento que cuenta con instalaciones específicas para la prestación del servicio, que cuenta con techo, estructura y piso de concreto, así como, topes de contención en todos sus cajones.
-
-b. De segunda clase. Todo aquel predio o edificio adecuado para brindar el servicio, techado o no, bardeado en su totalidad, con piso de concreto o de asfalto.
-
-c. De tercera clase. Todo aquel predio que pueda ser utilizado como estacionamiento, techado o no, con piso de asfalto, concreto, empedrado o grava, cercado al menos con malla metálica.
-
-II. Atendiendo al fin para el que fue construido:
-
-a. Estacionamiento público prestado por particulares: Es aquél cuyo fin primordial es brindar el servicio de establecimiento al público en general, mediante el pago de una tarifa.
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2007)</small>
-
-b. Estacionamiento en Establecimientos o Centros Comerciales: Estacionamiento público que fue construido en cumplimiento de una obligación legal, por encontrarse anexo a las instalaciones de algún establecimiento o centro comercial, en beneficio de sus clientes o usuarios y, en el que puede cobrarse una tarifa de cobro fijo para su utilización.
-
-c. Estacionamiento en la Vía Pública: Todo espacio autorizado para tal fin, situado en las calles, avenidas, arroyos viales, los cuales podrán tener estacionómetros.
-
-III. Atendiendo al tipo de servicio:
-
-a. De autoservicio: Estacionamiento en el que, el cliente conduce su automóvil hasta el cajón en el que queda estacionado quedándose con la posesión de las llaves de su vehículo.
-
-b. De depósito: Estacionamiento en el que, el cliente conduce su automóvil hasta algún cajón desocupado o al que se le señale, dejando las llaves de su automóvil dentro del vehículo o entregándolas a cualquier empleado de dicho estacionamiento.
-
-c. De acomodadores de vehículos: Estacionamiento en el que el cliente conduce su automóvil hasta la entrada del estacionamiento con servicio al público, establecimiento o giro comercial al que se dirige y, entrega la posesión del automóvil a una persona que se encargará de su guarda, protección y devolución.
-
-IV. Atendiendo a su temporalidad:
-
-a. Permanentes: Estacionamiento autorizado que funcionará de forma continua durante la vigencia de su licencia.
-
-b. Eventuales: Estacionamiento autorizado que funciona únicamente para dar este tipo de servicio por tiempo determinado y en circunstancias específicas.
-
-c. De fin de semana: Cuando el servicio se presta sólo de viernes a domingo.
-
-d. De acomodadores eventuales: Estacionamiento con acomodadores, que funciona únicamente para dar este tipo de servicio en eventos especiales.
-
-V. Atendiendo a la cuota que cobrará:
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2007)</small>
-
-a. Cobro por hora o fracción: Estacionamientos que cobran por la primera hora de servicio y por las fracciones subsecuentes de quince minutos.
-
-b. Cobro fijo: Estacionamientos que cobran una tarifa fija sin considerar el tiempo que permanece el usuario o cliente en sus establecimientos o instalaciones.
-
-c. Cobro por pensión: Estacionamientos que cobran por pensión periódica su servicio y son:
-
-1. Pensión diurna de 9:00 a.m. a 21:00 horas.
-
-2. Pensión nocturna de 21:00 a.m. a 9:00 horas.
-
-3. Pensión completa durante las 24 horas.
-
-VI. Atendiendo a su construcción:
-
-a. Superficial: Estacionamientos que se encuentren construidos y ubicados sobre el nivel del suelo.
-
-b. Constituido por plantas, pisos o niveles: Estacionamiento que se encuentra construido sobre el nivel del suelo y que en su estructura arquitectónica incluye varios niveles o plantas.
-
-c. Subterráneo: Estacionamientos que se encuentran construidos bajo el nivel del suelo.
-
-d. Mixto: Estacionamientos que contemplan las características de las clasificaciones anteriores.
+III. De acomodadores de vehículos: Es aquel en el que el vehículo es recibido por el personal autorizado para estacionarlo en el cajón que corresponda, conservando las llaves hasta la entrega del vehículo al usuario.
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
 DE LA APERTURA Y MODIFICACIÓN DEL ESTACIONAMIENTO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
 
 ###### Artículo 1679.
 
-Para la apertura de un estacionamiento público, la persona que pretenda prestar el servicio o su representante, deberá presentar la solicitud de licencia ante la Secretaría de Gestión con los datos y documentos siguientes:
+Para la apertura de un estacionamiento público, la persona física o jurídica que pretenda prestar el servicio público de estacionamiento o su representante, deberá presentar la solicitud de licencia ante la Secretaría de Gestión.
 
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
+Además deberá acompañar la solicitud con los documentos que señala el Capítulo de Construcciones del presente Código Reglamentario, aplicable a cada caso concreto, para obtener licencia de uso de suelo específico, licencia de construcción y/o terminación de obra y los requisitos que señala el artículo 629 para la obtención de la licencia de funcionamiento.
 
-I. Nombre o razón social y domicilio del solicitante;
-
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
-
-II. Ubicación del estacionamiento;
-
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
-
-III. Testimonio notarial de la escritura pública del inmueble, en su caso, el contrato de arrendamiento actualizado e inscrito en el Registro Público de la Propiedad y del Comercio;
-
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
-
-IV. Si se trata de persona moral, original y copia del acta constitutiva;
-
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
-
-V. Poder notarial si el trámite se realiza en representación de una persona física o moral;
-
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
-
-VI. Original y copia de la constancia de la licencia de uso de suelo y de la licencia de construcción, en su caso;
-
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
-
-VII. Plano arquitectónico del establecimiento, especificando el número de cajones y servicios adicionales;
-
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
-
-VIII. Croquis de localización;
-
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
-
-IX. Copia de su cédula de inscripción en el Registro Federal de Contribuyentes;
-
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
-
-X. Fecha en que iniciará la operación;
-
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
-
-XI. El horario en que prestará el servicio;
-
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
-
-XII. Oficio firmado en el que describa el servicio que pretende prestar;
-
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2007)</small>
-
-XIII. La forma y términos en que responderá por los daños que sufran los vehículos estacionados de conformidad con el artículo 1679 ter fracción VIII del presente Capítulo;
-
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
-
-XIV. Expresar la existencia de servicios adicionales; y
-
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
-
-XV. Los datos y documentos que le solicite la autoridad municipal.
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
-
-Una vez que la SAUOPE integre el expediente correspondiente y lleve a cabo los trámites necesarios, turnará el mismo a la Tesorería.
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
-
-La Tesorería expedirá la licencia correspondiente en un término no mayor a diez días hábiles, en el que se determine lo relativo a su aprobación caso en el que, se establecerá como mínimo la clasificación, horario, licencia y tarifa autorizada.
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
+Una vez que la Secretaría de Gestión integre el expediente correspondiente y lleve a cabo los trámites necesarios, turnará el mismo a la Tesorería, quien a través del Departamento de Licencias y Padrón de Contribuyentes resolverá lo conducente respecto del otorgamiento o negación de la licencia, de acuerdo a lo establecido en el Capítulo de Establecimiento de Giros Comerciales Autorizados.
 
 En caso de ser negada la licencia, la Tesorería pondrá a disposición del solicitante la documentación que haya presentado, dejando a salvo sus derechos para formular nueva petición.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
 
 ###### Artículo 1679 Bis.
 
-La Secretaría de Gestión notificará a la SSPTM, las solicitudes de licencia o modificación de un estacionamiento y le dará aviso para que revise y apruebe su impacto en el tránsito municipal; dicha aprobación será un requisito indispensable para que los interesados obtengan la licencia de uso de suelo y, en su caso, la licencia de construcción y, finalmente la licencia expedida por la Tesorería.
+La Secretaría de Gestión notificará a la SSPTM, la solicitud de licencia o modificación de un estacionamiento y le dará aviso para que revise y apruebe el estudio de impacto vial; dicha aprobación será un requisito indispensable para que los interesados obtengan la licencia de uso de suelo específico, en su caso, la licencia de construcción y la licencia expedida por la Tesorería.
 
-Cuando con posterioridad a la apertura se modifiquen las características de un estacionamiento con servicio al público, el propietario o administrador deberá presentar ante la Secretaría de Gestión un escrito complementario en el que detalle los cambios realizados, a fin de mantener actualizado el registro de las licencias y, en caso necesario, reclasificar el estacionamiento.
+Cuando con posterioridad a la apertura se modifiquen las características de un estacionamiento con servicio al público, el prestador del servicio deberá presentar ante la Secretaría de Gestión un escrito complementario en el que detalle los cambios realizados, a fin de aprobarlos y mantener actualizado el registro de las licencias.
 
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MARZO DE 2009)</small>
 
 ###### Artículo 1679 Ter.
 
-Son obligaciones de los prestadores del servicio:
+Sin perjuicio de lo que establezcan las disposiciones federales y estatales, en forma enunciativa más no limitativa, son obligaciones de los prestadores de servicio:
+
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2007)</small>
 
 I. Entregar en tiempo y forma la documentación solicitada por las autoridades municipales para el otorgamiento de la licencia;
 
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2007)</small>
+
 II. Cumplir con lo dispuesto por la legislación laboral y la normatividad de protección al consumidor:
+
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2007)</small>
 
 III. Acatar estrictamente los términos en que se le otorgue la licencia;
 
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2007)</small>
+
 IV. Colaborar con las autoridades municipales, estatales y federales en el ejercicio de sus facultades con respecto a la inspección y vigilancia de la prestación del servicio, cumplimiento de la legislación aplicable y ejercicio de sus funciones cuando así lo requieran;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
 
-V. Comunicar a la Secretaría de Gestión y Tesorería la existencia de servicios adicionales al de estacionamiento;
+V. Comunicar a la Secretaría de Gestión y a la Tesorería la existencia de servicios adicionales al de estacionamiento;
+
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2007)</small>
 
 VI. Conservar las instalaciones del estacionamiento en condiciones de higiene y seguridad, incluyendo el servicio de baños;
 
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2007)</small>
+
 VII. Reservar cajones de estacionamiento para personas con capacidad diferente, los cuales deberán estar lo más cercanos posible a las puertas de ingreso del estacionamiento, asimismo, vigilar y controlar que sean exclusivamente utilizados por estas personas;
+
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2007)</small>
 
 VIII. Contar con póliza de seguro vigente contra robo total, daños y responsabilidad civil que apruebe el Ayuntamiento, además de que serán responsables de los objetos que se dejen en el interior del vehículo, siempre y cuando el usuario haya dejado constancia mediante inventario de esa situación;
 
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2007)</small>
+
 IX. Prestar el servicio a toda persona que lo solicite, respetando el cupo del estacionamiento mediante la colocación de un anuncio en la entrada cuando se encuentre completo, sin invadir la vía pública;
+
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2007)</small>
 
 X. Expedir boletos a los usuarios por cada vehículo, y cuando así lo soliciten, comprobante de pago o factura;
 
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2007)</small>
+
 XI. Tener a la vista la licencia expedida por la autoridad municipal y utilizar las instalaciones exclusivamente para la actividad autorizada;
 
-XII. Tener a la vista el reloj chocador, así como un reloj de pared, los cuales deberán estar sincronizados;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
+
+XII. Tener a la vista el reloj checador, así como un reloj de pared, los cuales deberán estar sincronizados;
+
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2007)</small>
 
 XIII. Impedir el acceso a sus instalaciones a personas en estado de ebriedad evidente o bajo el influjo de drogas o estupefacientes, así como impedir su consumo dentro de la negociación;
 
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2007)</small>
+
 XIV. Colocar en lugar visible los números telefónicos de la autoridad municipal para recibir quejas, así como un letrero que enumere las obligaciones del prestador del servicio;
+
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2007)</small>
 
 XV. Colocar en un lugar visible, un aviso al público en el que se comunique el término de la prestación del servicio de estacionamiento, cuando éste sea de forma definitiva;
 
-XVI. Comunicar con un mes de anticipación, a la Tesorería y a la SAUOPE, el término de la prestación de servicio de estacionamiento para la cancelación de la licencia respectiva; y
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
 
-XVII. Las que determine la autoridad municipal y contemplen las disposiciones legales aplicables.
+XVI. Comunicar con un mes de anticipación, a la Tesorería y a la Secretaría de Gestión, el término de la prestación de servicio de estacionamiento para la cancelación de la licencia respectiva;
 
-Las obligaciones enumeradas en este artículo deberán ser cumplidas por los prestadores del servicio de estacionamiento, independientemente de su clasificación, acatando adicionalmente, la normatividad específica que corresponda.
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
 
-Los estacionamientos clasificados como de primera y segunda clase, deberán contar con un sistema de vigilancia que conste de cámaras de circuito cerrado, con la finalidad de proporcionar mayor seguridad a los usuarios.
+XVII. Presentar ante la Secretaría de Gestión y la Tesorería la licencia de chofer vigente de las personas que, para el caso de estacionamiento público con acomodadores de vehículos, se encarguen del acomodo de vehículos, así como identificación oficial y constancia de no antecedentes penales vigente;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2009)</small>
+
+XVIII. Contar con un registro de su personal y vigilar que éstos porten uniforme y gafete de identificación visible al público, que contenga nombre completo, fotografía, cargo y razón social del estacionamiento público para el que trabaja;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2009)</small>
+
+XIX. Tener debidamente señalado que el servicio de acomodadores de vehículos es gratuito y que la propina es de carácter opcional;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2009)</small>
+
+XX. Cerciorarse de que sólo su personal maneje los vehículos y, bajo ninguna circunstancia los podrán utilizar para fines ajenos a la prestación del servicio público de estacionamiento;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2009)</small>
+
+XXI. Presentar denuncia ante la Procuraduría General de Justicia del Estado de Puebla, y remitir copia a la Secretaría de Gestión y Tesorería, en caso de robo o extravío de dichas credenciales; y
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2009)</small>
+
+XXII. Cumplir con las obligaciones que establece la Ley Federal de Protección al Consumidor y su Reglamento, el Contrato de Adhesión respectivo y las que determine la autoridad municipal conforme a las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
+
+Las obligaciones enumeradas en este artículo deberán ser cumplidas por los prestadores del servicio de estacionamiento, acatando la normatividad específica que corresponda
+
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 30 DE MARZO DE 2009)</small>
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
@@ -23045,9 +23015,9 @@ I. Nombre o razón social y domicilio del prestador del servicio de estacionamie
 
 II. Clave de Registro Federal de Contribuyentes;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
 
-III. La tarifa aplicable, atendiendo a la clasificación señalada en el artículo 1678 del presente Capítulo;
+III. La tarifa aplicable;
 
 IV. Número de folio;
 
@@ -23067,59 +23037,35 @@ Si los usuarios extravían el boleto, éstos, deberán comprobar la propiedad de
 
 El prestador de servicio podrá cobrar por concepto de movilización, hasta el equivalente a cinco horas de tarifa en caso de que el usuario extravíe o no deje en resguardo las llaves del vehículo.
 
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2009)</small>
+
+DEL REFRENDO Y DE LA CESIÓN DE DERECHOS
+
+(REUBICADO Y REFORMADO PRIMER PARRAFO, P.O. 30 DE MARZO DE 2009)
+
+###### Articulo 1680 Bis.
+
+El prestador del servicio refrendará anualmente la licencia de estacionamiento, y podrá ceder sus derechos sobre dicho servicio.
+
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
-
-###### Artículo 1680 Bis.
-
-El prestador del servicio revalidará anualmente la licencia de estacionamiento, y podrá ceder sus derechos sobre dicho servicio.
 
 Los interesados deberán presentar ante la Tesorería, dentro de los treinta días anteriores a la fecha de vencimiento de la licencia, su solicitud de revalidación acompañada de una fotocopia en donde conste que la póliza de seguro obligatoria estará vigente durante el año en que prestará el servicio.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
+
+En el caso de las concesiones para la explotación de bienes sobre los que opere un estacionamiento público, la vigencia de la licencia será multianual, atendiendo al número de años en que dure la misma debiendo refrendarla cada año cumpliendo con los requisitos señalados en el presente ordenamiento y cubriendo el monto del refrendo que para cada ejercicio se determine en la Ley de Ingresos.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2009)</small>
 
 Cuando se cedan los derechos sobre un estacionamiento con servicio al público, el adquirente o cesionario dará aviso por escrito a la Tesorería, quien a su vez comunicará a la Secretaría de Gestión y Tesorería, dentro de los quince días siguientes a la celebración del contrato correspondiente de las nuevas condiciones en las que prestará el servicio y, de la forma que responderá por robo o daños que sufran los vehículos durante el tiempo de guarda, acompañando copia certificada del documento de cesión de derechos.
 
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
+> <small>(DEROGADO, P.O. 30 DE MARZO DE 2009)</small>
 
 DE LOS ESTACIONAMIENTOS PÚBLICOS CON ACOMODADORES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
-
 ###### Artículo 1681.
 
-El prestador del servicio de estacionamiento o la persona que pretenda brindar el servicio de acomodadores de vehículos, deberá solicitar ante la Secretaría de Gestión, de modo que se le autorice para ello.
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
-
-La persona que pretenda brindar este servicio, deberá cumplir con las disposiciones aplicables para los prestadores del servicio de estacionamiento además de los siguientes requisitos:
-
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
-
-I. Presentar a la Secretaría de Gestión la licencia de chofer vigente de las personas que se encargarán del acomodo de los vehículos y copias de su identificación oficial y carta de antecedentes no penales;
-
-II. Los empleados deberán portar su gafete de identificación y el uniforme correspondiente que los ubique como personal autorizado. El citado gafete deberá contener los siguientes requisitos:
-
-a) Nombre completo.
-
-b) Fotografía.
-
-c) Clave de identificación.
-
-d) Cargo.
-
-e) Razón social del establecimiento autorizado en el servicio de acomodadores.
-
-III. En el reverso del boleto que se entregará al usuario, se deberán establecer las condiciones en que se presta el servicio de acomodador de vehículos;
-
-IV. En el caso de que los vehículos sean estacionados en la vía pública por el acomodador de vehículos en las zonas donde existan estacionómetros, el prestador del servicio estará obligado a depositar el importe correspondiente, además de ser responsable del vehículo estacionado como si estuviera dentro del inmueble para el cual tenga licencia de estacionamiento;
-
-V. Tener debidamente señalado que el servicio de acomodadores de vehículos es gratuito y que la propina es de carácter opcional;
-
-VI. Cerciorarse de que sólo su personal maneje los vehículos y, bajo ninguna circunstancia los podrán utilizar para fines ajenos a la prestación del servicio; y
-
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
-
-VII. Presentar denuncia ante la Procuraduría General de Justicia del Estado de Puebla, y remitir copia a la Secretaría de Gestión y Tesorería, en caso de robo o extravío de dichas credenciales.
+(DEROGADO, P.O. 30 DE MARZO DE 2009)
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
@@ -23171,25 +23117,27 @@ Se destinará en la vía pública por cada calle, avenida, calzada y demás arro
 
 Para hacer uso de estos cajones, los usuarios deberán portar las placas en su vehículo adecuadas al caso, expedidas por la autoridad estatal competente.
 
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
 
 ###### Artículo 1683 Ter.
 
-En caso de estacionamiento de vehículos de carga, para efecto de llevar a cabo las maniobras de carga y descarga de los mismos, deberán llevarse a cabo de acuerdo al reglamento de tránsito y vialidad municipal para no entorpecer la circulación en la vía pública.
+En caso de estacionamiento de vehículos de carga, para efecto de llevar a cabo las maniobras de carga y descarga de los mismos, deberán llevarse a cabo de acuerdo al Capítulo de Seguridad Vial y Tránsito Municipal del presente Código para no entorpecer la circulación en la vía pública.
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
 DE LOS VEHÍCULOS ABANDONADOS EN LA VÍA PÚBLICA Y EN LOS ESTACIONAMIENTOS PÚBLICOS
 
-> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
 
 ###### Artículo 1684.
 
-El Ayuntamiento, a través de SSPTM retirará de la vía pública los vehículos abandonados en un término de setenta y dos horas contadas a partir de que la autoridad municipal tenga conocimiento formal por medio de denuncia personal, telefónica o por escrito.
+El Ayuntamiento, a través de la SSPTM retirará de la vía pública los vehículos abandonados en un término de quince días naturales contados a partir de que la autoridad municipal tenga conocimiento formal por medio de denuncia personal, telefónica o por escrito.
 
-Inmediatamente dará aviso a la autoridad competente y cobrará a quien resulte responsable la cantidad devengada en el estacionómetro correspondiente.
+Inmediatamente dará aviso a la autoridad competente y cobrará quien resulte responsable la cantidad devengada por los derechos correspondientes de acuerdo a la Ley de Ingresos vigente, al momento de su determinación.
 
-En el caso de que los vehículos sean abandonados en estacionamientos públicos, los propietarios o administradores darán inmediato aviso a las autoridades competentes.
+Cuando los vehículos dados en guarda no sean reclamados por el usuario dentro de las setenta y dos horas siguientes a su ingreso y no se haya contratado el servicio de pensión, el propietario o representante legal del estacionamiento deberá presentar el vehículo, especificando sus características a la SSPTM.
+
+Los propietarios o representantes legales de los establecimientos donde se preste el servicio público de estacionamiento, podrán ejercitar las acciones legales que estimen convenientes en contra de los propietarios o poseedores de los vehículos para el cobro del servicio.
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
@@ -23203,7 +23151,9 @@ El Ayuntamiento podrá en cualquier tiempo ordenar y practicar las visitas de in
 
 Asimismo, vigilará el correcto cumplimiento de la normatividad en materia de estacionamientos públicos.
 
-Las personas físicas o morales, podrán denunciar ante la autoridad municipal competente por vía telefónica, mediante escrito o comparecencia, todo incumplimiento a lo dispuesto en el presente Capítulo.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
+
+Las personas físicas o jurídicas, podrán denunciar ante la autoridad municipal competente por vía telefónica, mediante escrito o comparecencia, todo incumplimiento a lo dispuesto en el presente Capítulo.
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
@@ -23219,9 +23169,13 @@ l. Preste el servicio de estacionamiento sin contar con las licencias respectiva
 
 II. Preste el servicio de estacionamiento incumpliendo los términos y condiciones establecidos en las licencias;
 
-III. Presente a las Secretarías competentes, información y/o documentación a que se refiere este ordenamiento que sea falsa, incluyendo la relativa a las características arquitectónicas y requisitos de protección civil que debe observar el inmueble en el que se presta el servicio;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
 
-IV. lncumpla la obligación de informar o hacer del conocimiento a las Secretarías, en los supuestos establecidos en esta Ley;
+III. Presente a las autoridades competentes, información y/o documentación apócrifa, a que se refiere este ordenamiento, incluyendo la relativa a las características arquitectónicas y requisitos de protección civil que debe observar el inmueble en el que se presta el servicio de estacionamiento;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
+
+IV. Incumpla la obligación de informar o hacer del conocimiento a las autoridades competentes, en los supuestos establecidos en el presente ordenamiento;
 
 V. Incumpla la normatividad de protección civil aplicable;
 
@@ -23229,7 +23183,9 @@ VI. Incumpla la normatividad cuya finalidad sea la protección del consumidor;
 
 VII. Impida o no colabore con las autoridades municipales, estatales y federales en los casos señalados en este Capítulo;
 
-VIII. Incumpla la obligación de adoptar e implementar los requisitos y medidas de seguridad determinadas por las Secretarías;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
+
+VIII. Incumpla la obligación de adoptar e implementar los requisitos y medidas de seguridad determinadas por las autoridades correspondientes;
 
 IX. Incumpla la obligación de contar con el seguro obligatorio que establece este Capítulo;
 
@@ -23277,7 +23233,9 @@ I. Multa de veinticinco a treinta y cinco días de salario mínimo vigente en el
 
 II. Multa de treinta y seis a cincuenta días de salario mínimo vigente en el Estado de Puebla al momento de determinar la infracción, a quien realice las conductas previstas en las fracciones VIII, XII, XIV, XV y XVI del artículo 1686, así como las fracciones II y III del artículo 1686 bis de este Capítulo;
 
-III. Multa de cincuenta y un a setenta días de salario mínimo vigente en el Estado de Puebla al momento de determinar la infracción, a quien realice las conductas previstas en las fracciones I, II, III, V, VII, IX, X y XI del artículo 1686, así como las fracciones IV y VI del artículo 1686 bis de este Capítulo;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
+
+III. Multa de cincuenta y un a setenta días de salario mínimo vigente en el Estado de Puebla al momento de determinar la infracción, a quien realice las conductas previstas en las fracciones I, II, III, V, VII, IX y X del artículo 1686, así como las fracciones IV y VI del artículo 1686 Bis de este Capítulo;
 
 IV. Clausura total o parcial, definitiva o temporal del estacionamiento; y
 
@@ -23297,7 +23255,9 @@ Para la imposición de las sanciones la autoridad competente tomará en cuenta l
 
 4. La reincidencia del infractor.
 
-En el caso de reincidencia, se duplicará el monto de la multa que corresponda. Para los efectos de este Capítulo, se considera reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones, en un periodo de un año, contados a partir de la fecha en que la Secretaría competente determine mediante una resolución definitiva la comisión de la primera infracción, y siempre que ésta no hubiese sido desvirtuada.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
+
+En el caso de reincidencia, se duplicará el monto de la multa que corresponda. Para los efectos de este Capítulo, se considera reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones, en un periodo de un año, contados a partir de la fecha en que la autoridad competente determine mediante una resolución definitiva la comisión de la primera infracción, y siempre que ésta no hubiese sido desvirtuada.
 
 La persona a quien se le determine por tercera vez una infracción, será sancionada con la clausura definitiva del estacionamiento y cancelación de la licencia respectiva.
 
@@ -30017,7 +29977,7 @@ II. Los que celebre un representante o promotor con una empresa, respecto a una 
 
 III. Los de exclusividad, celebrados por un promotor o representante con una empresa para el efecto de que el boxeador actúe bajo su promoción por un tiempo determinado, de acuerdo con las cláusulas en el contrato respectivo, o entre éstos y el boxeador directamente en condiciones especiales.
 
-Todos los contratos o convenios en materia de Box o Lucha Libre celebrados dentro del Municipio, deberán ser presentados por triplicado para el respectivo registro ante la Comisión, para los efectos administrativos y legales que corresponda, estando obligadas las partes a ratificarlos ante la propia Comisión, para los efectos administrativos y legales que corresponda, estando obligadas las partes a ratificarlos ante la propia Comisión, en un plazo no mayor de 3 días a partir de aquél en se hayan presentado para su registro; no podrán contener cláusulas Leoninas.
+Todos los contratos o convenios en materia de Box o Lucha Libre celebrados dentro del Municipio, deberán ser presentados por triplicado para el respectivo registro ante la Comisión, para los efectos administrativos y legales que corresponda, estando obligadas las partes a ratificarlos ante la propia Comisión, en un plazo no mayor de 3 días a partir de aquél en se hayan presentado para su registro; no podrán contener cláusulas Leoninas.
 
 Una vez registrado y autorizado el contrato, se entregará un tanto al representante, otro al boxeador y el restante quedará depositado en el archivo de la Comisión.
 
@@ -32172,3 +32132,9 @@ DICTAMEN
 PRIMERO.- Se aprueban las reformas, derogaciones y adiciones a diversas disposiciones del Código Reglamentario para el Municipio de Puebla, en los términos del considerando XX del presente Dictamen.
 
 SEGUNDO.- Se instruye al Secretario del Honorable Ayuntamiento para que realice los trámites necesarios a fin de que se publique por una sola vez en el Periódico Oficial del Estado, las reformas, derogaciones y adiciones a diversas disposiciones del Código Reglamentario para el Municipio de Puebla, que se aprueban mediante el presente Dictamen.
+
+P.O. 30 DE MARZO DE 2009.
+
+PRIMERO. Las presentes reformas, adiciones y derogaciones surtirán sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Dictamen.
