@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-20-2008-del-pleno-del-consejo-de-la-60696"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-04-25"
-last_updated: "2008-04-25"
+last_updated: "2009-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60696&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-04-16"
 
 ACUERDO GENERAL 20/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA UN ARTICULO 42 BIS AL DIVERSO ACUERDO GENERAL 75/2000, QUE FIJA LAS BASES PARA QUE LAS ADQUISICIONES, ARRENDAMIENTOS, PRESTACION DE SERVICIOS Y OBRA PUBLICA EN EL CONSEJO DE LA JUDICATURA FEDERAL SE AJUSTEN A LOS CRITERIOS CONTEMPLADOS EN EL ARTICULO 134 CONSTITUCIONAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL 6/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 30 DE MARZO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 25 de abril de 2008.
 
@@ -70,3 +72,21 @@ SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y, par
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de esta adición, al Acuerdo General 75/2000, del Pleno del Consejo de la Judicatura Federal, que Fija las Bases para que las Adquisiciones, Arrendamientos, Prestación de Servicios y Obra Pública en el Consejo de la Judicatura Federal se Ajusten a los Criterios Contemplados en el Artículo 134 Constitucional.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 20/2008, del Pleno del Consejo de la Judicatura Federal, que Adiciona un Artículo 42 Bis al Diverso Acuerdo General 75/2000, que Fija las Bases para que las Adquisiciones, Arrendamientos, Prestación de Servicios y Obra Pública en el Consejo de la Judicatura Federal se Ajusten a los Criterios Contemplados en el Artículo 134 Constitucional, fue aprobado por el Pleno del propio Consejo, en sesión de dieciséis de abril de dos mil ocho, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, Indalfer Infante Gonzales, Jorge Moreno Collado y Oscar Vázquez Marín.- México, Distrito Federal, a diecisiete de abril de dos mil ocho.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 30 DE MARZO DE 2009.
+
+PRIMERO. El presente Acuerdo entrará en vigor el uno de abril de dos mil nueve.
+
+SEGUNDO. Se abroga el Acuerdo General 75/2000, del Pleno del Consejo de la Judicatura Federal, que fija las Bases para que las Adquisiciones, Arrendamientos, Prestaciones de Servicios y Obra Pública en el Consejo de la Judicatura Federal, se ajusten a los criterios contemplados en el artículo 134 Constitucional, aprobado en sesión extraordinaria de diez de noviembre de dos mil; así como los diversos Acuerdos Generales 40/2004, 38/2005, 53/2005, 11/2006, 26/2007, 51/2007 y 20/2008, por los que se modificó el citado 75/2000. Cuando en las disposiciones normativas que a la fecha rigen a este Consejo de la Judicatura Federal, se haga referencia al mencionado acuerdo 75/2000, se entenderá que es aplicable, en lo conducente, lo dispuesto por el presente Acuerdo General que en esta fecha se expide.
+
+TERCERO. Se derogan todas las disposiciones emitidas por el Consejo que se opongan al presente Acuerdo.
+
+CUARTO.- Todos los procedimientos de contratación iniciados durante la vigencia del Acuerdo General 75/2000 y sus reformas, precisado en el transitorio segundo, que se encuentren pendientes de conclusión, se continuarán tramitando hasta que concluyan conforme a las disposiciones de dicho acuerdo.
+
+QUINTO.- Las personas físicas o morales que al día anterior a la entrada en vigor del presente acuerdo, tengan vigente su registro en los catálogos de proveedores y contratistas a que se refieren los artículos 114 a 119 del Acuerdo General 75/2000 precisado en el transitorio segundo, se considerarán inscritos en ellos, salvo que el Comité advierta que se encuentran en alguno de los supuestos de prohibición de ingreso al padrón correspondiente o de cancelación del registro.
+
+SEXTO.- Se instruye al Comité de Adquisiciones, Arrendamientos, Obra Pública y Servicios del Consejo de la Judicatura Federal para que en un término de treinta días naturales a partir de la entrada en vigor del presente Acuerdo someta a la consideración del Pleno los parámetros que establezcan los montos conforme a los cuales se realizarán los procedimientos de contratación.
+
+SEPTIMO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
