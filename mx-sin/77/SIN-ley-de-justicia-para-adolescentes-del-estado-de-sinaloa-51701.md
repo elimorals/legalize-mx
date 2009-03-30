@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-justicia-para-adolescentes-del-estado-de-sinaloa-51701"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-11"
-last_updated: "2007-08-22"
+last_updated: "2009-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51701&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2009.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 11 de septiembre de 2006.
 
@@ -1799,9 +1799,11 @@ El recurso de nulidad será interpuesto por escrito ante el juez que dictó la r
 
 Deberá indicarse, por separado, cada motivo con sus fundamentos. Fuera de esta oportunidad no podrá alegarse otro motivo.
 
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
+
 ###### Artículo 197.
 
-Interpuesto el recurso, el juez que dictó la sentencia emplazará a los interesados para que comparezcan ante la Sala Especializada competente para conocer del recurso de nulidad, observándose en lo que sigue el mismo trámite previsto para la apelación. Dentro del plazo mencionado, las partes también deberán fijar, si es necesario, un nuevo lugar o la forma para recibir notificaciones. Vencido el plazo sin que se produzcan adhesiones, se remitirán las diligencias al tribunal competente.
+Interpuesto el recurso, el juez que dictó la sentencia emplazará a los interesados para que comparezcan ante la Sala competente para conocer del recurso de nulidad, observándose en lo que sigue el mismo trámite previsto para la apelación. Dentro del plazo mencionado, las partes también deberán fijar, si es necesario, un nuevo lugar o la forma para recibir notificaciones. Vencido el plazo sin que se produzcan adhesiones, se remitirán las diligencias al tribunal competente.
 
 ###### Artículo 198.
 
@@ -1867,9 +1869,11 @@ I. El adolescente o su defensor; y,
 
 II. El Ministerio Público.
 
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
+
 ###### Artículo 206.
 
-La revisión se solicitará por escrito ante la Sala de Circuito Especializada para Adolescentes. Deberá contener la concreta referencia de los motivos en que se funda y las disposiciones legales aplicables. Junto con el escrito se ofrecerán las pruebas y se acompañarán las documentales.
+La revisión se solicitará por escrito ante la Sala competente. Deberá contener la concreta referencia de los motivos en que se funda y las disposiciones legales aplicables. Junto con el escrito se ofrecerán las pruebas y se acompañarán las documentales.
 
 ###### Artículo 207.
 
@@ -1978,3 +1982,9 @@ P.O. 22 DE AGOSTO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor el 12 de septiembre de 2007, previa su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 30 DE MARZO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entra en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
