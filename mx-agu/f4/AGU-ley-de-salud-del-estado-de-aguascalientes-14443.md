@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2008-06-16"
+last_updated: "2009-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2009.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 6 de junio de 1999.
 
@@ -1877,13 +1877,19 @@ I.- La prevención y el tratamiento de padecimientos originados por el tabaquism
 
 II.- La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos.
 
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
+
 ###### ARTICULO 161.
 
-Para poner en práctica las acciones contra el tabaquismo, se tendrá en cuenta los siguientes aspectos:
+Para poner en práctica las acciones contra el tabaquismo, se tendrán en cuenta los siguientes aspectos:
 
-I.- La investigación de las causas del tabaquismo y de las acciones para controlarlas; y
+I. La investigación de las causas del tabaquismo y de las acciones para controlarlas;
 
-II.- La educación a la familia para prevenir el consumo del tabaco por parte de niños y adolescentes.
+II. La educación a la familia para prevenir el consumo del tabaco por parte de niños y adolescentes;
+
+III. La prevención del tabaquismo, haciendo énfasis en la infancia y la adolescencia, con enfoque de género; y
+
+IV. El tratamiento del tabaquismo.
 
 ### CAPITULO IX. Baños Públicos
 
@@ -2880,3 +2886,9 @@ El presente Decreto entrará en vigencia a los treinta días naturales siguiente
 ###### ARTÍCULO SEGUNDO.
 
 El Instituto de Salud del Estado de Aguascalientes deberá emitir los programas nutricionales referidos en este Decreto, a más tardar a los siguientes 15 días naturales de su entrada en vigencia.
+
+P.O. 30 DE MARZO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
