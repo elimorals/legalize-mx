@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-de-los-no-fumadores-del-estado-de-52100"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-30"
-last_updated: "2006-10-30"
+last_updated: "2009-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA PROTECCION DE LOS NO FUMADORES DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 30 de octubre de 2006.
 
@@ -49,15 +49,23 @@ LEY PARA LA PROTECCION DE LOS NO FUMADORES DEL ESTADO DE AGUASCALIENTES
 
 La presente Ley es de orden público e interés general y su observancia es obligatoria en el Estado de Aguascalientes.
 
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
+
 ###### Artículo 2°.
 
 La presente Ley tiene por objeto:
 
-I. Proteger la salud de las personas no fumadoras de los efectos nocivos de la inhalación involuntaria de humo ambiental generado por la combustión del tabaco en cualquiera de sus formas, al convivir en espacios cerrados con fumadores;
+I. Proteger el derecho de las personas no fumadoras a no estar expuestas al humo del tabaco en los espacios cerrados de acceso público;
 
-II. Establecer mecanismos de coordinación entre todas las instancias públicas y privadas involucradas, así como las acciones tendientes al establecimiento de programas públicos que procuren prevenir y disminuir las consecuencias en la salud de las personas, derivadas de la inhalación voluntaria e involuntaria del humo ambiental generado por el consumo y combustión del tabaco en cualquiera de sus formas; y
+II. La orientación a la población para que evite empezar a fumar, y se abstenga de fumar en los lugares públicos donde se encuentre prohibido;
 
-III. Promover la difusión de las consecuencias nocivas para la salud en las personas, generadas por el consumo de productos del tabaco.
+III. La prohibición de fumar en los espacios cerrados públicos, privados y sociales que se señalan en esta Ley;
+
+IV. El apoyo a los fumadores, cuando lo soliciten, para abandonar el tabaquismo con los tratamientos correspondientes;
+
+V. La información a la población sobre los efectos nocivos del consumo de tabaco, de la exposición de su humo, los beneficios de dejar de fumar y la promoción de su abandono; y
+
+VI. Establecer mecanismos de coordinación entre todas las instancias públicas y privadas involucradas, así como las acciones tendientes al establecimiento de programas públicos para prevenir y disminuir las consecuencias en la salud de las personas, derivadas de la inhalación voluntaria e involuntaria del humo ambiental generado por el consumo y combustión del tabaco en cualquiera de sus formas.
 
 ###### Artículo 3°.
 
@@ -65,7 +73,9 @@ Para efectos de la presente Ley, se entiende por:
 
 I. Área abierta: Alos espacios que se encuentran ubicados al aire libre;
 
-II. Área cerrada: Al espacio de un establecimiento que se encuentra separado por bardas, techos o cualquier otro material que lo aísle del exterior;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
+
+II. Área cerrada: Al espacio de un establecimiento que se encuentra separado por bardas, techos o cualquier otro material que lo aísle del exterior, en el que hacia su interior no circula de manera libre el aire natural. Las ventanas, puertas, ventilas y demás orificios o perforaciones en delimitaciones físicas, no se consideran espacios para la libre circulación de aire natural;
 
 III. Bar: Al establecimiento donde se consumen preponderantemente bebidas alcohólicas, botanas y en menor medida algún alimento;
 
@@ -111,9 +121,17 @@ I. Los propietarios, poseedores o responsables y empleados de los establecimient
 
 II. Los concesionarios y operadores de los medios de transporte público en todas sus modalidades;
 
-III. Las autoridades, docentes, las asociaciones de padres de familia y personal administrativo de las instituciones educativas públicas y privadas en todos (sic) sus modalidades; y
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
 
-IV. Los órganos de control interno de las diferentes oficinas de los Gobierno (sic) Federal, Estatal y Municipal, así como de los órganos autónomos.
+III. Las autoridades, docentes, las asociaciones de padres de familia y personal administrativo de las instituciones educativas públicas y privadas en todas sus modalidades;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
+
+IV. Los órganos de control interno de las diferentes oficinas de los Gobiernos Federal, Estatal y Municipal, así como de los órganos autónomos; y
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2009)</small>
+
+V. Los usuarios de los espacios cerrados de acceso al público como oficinas, establecimientos mercantiles, industrias y empresas.
 
 ###### Artículo 5°.
 
@@ -165,9 +183,17 @@ XI. Aplicar y ejercer las medidas de control en el expendio de tabaco en cualqui
 
 XII. Vigilar el cumplimiento de la prohibición de fumar, en los lugares que señala el Artículo 12 de este ordenamiento;
 
-XIII. Suscribir convenios con los ayuntamientos para la observancia de la presente Ley; y
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
 
-XIV. Ejercer las demás atribuciones que determine la presente Ley y su Reglamento.
+XIII. Suscribir convenios con los ayuntamientos para la observancia de la presente Ley;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
+
+XIV. Establecer programas para las personas que quieran dejar de fumar; y
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2009)</small>
+
+XV. Ejercer las demás atribuciones que determine la presente Ley y su Reglamento.
 
 ###### Artículo 9°.
 
@@ -211,75 +237,95 @@ Para el procedimiento de la aplicación de las sanciones se sujetará a lo previ
 
 ### CAPITULO I. De los Lugares Donde se Prohíbe Fumar
 
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
+
 ###### Artículo 12.
 
 Queda prohibida la práctica de fumar en los siguientes lugares:
 
-I. En hospitales, guarderías, asilos o casas de reposo público y privado, clínicas, centros de salud, centros de atención médica públicos y privados; con excepción de aquellas áreas acondicionadas para fumar, delimitada por la propia Institución.
+I. En todas las áreas cerradas de acceso al público, oficinas, establecimientos mercantiles, industrias y empresas;
 
-En el caso de las cafeterías y restaurantes pertenecientes o anexos a estas unidades, se podrán instalar secciones de fumar debidamente delimitadas y señalizadas;
+II. En elevadores y escaleras interiores de cualquier edificación;
 
-II. En las áreas cerradas de oficinas bancarias, tiendas de autoservicio, departamentales y/o de servicios en los que se proporcione atención directa al público; con excepción de aquellas áreas acondicionadas para fumar, delimitada por la propia negociación;
+III. En los establecimientos particulares y públicos en los que se proporcione atención directa al público, tales como oficinas bancarias, financieras, comerciales o de servicios; tiendas de auto servicio, departamentales y/o de servicios en los que se proporcione atención directa al público; con excepción de aquellas áreas acondicionadas para fumar;
 
-III. En las áreas cerradas de bibliotecas, centros de información, hemerotecas, museos, casas de la cultura, centros públicos de cómputo, instalaciones educativas públicas y privadas ubicadas en el Estado, excepto en áreas ventiladas o acondicionadas de los centros educativos de nivel superior, que cuenten con la señalización respectiva, delimitada por la propia Institución;
+IV. En hospitales, guarderías, asilos o casas de reposo público y privado, clínicas, centros de salud, centros de atención médica públicos y privados; con excepción de aquellas áreas acondicionadas para fumar, delimitada por la propia institución;
 
-IV. En las oficinas Públicas de los Poderes Ejecutivo, Legislativo y Judicial, cualquier dependencia o entidad de la Administración Pública de los tres niveles de Gobierno y de sus órganos autónomos, oficinas administrativas, auditorios, módulos de atención, en los cuales deberán existir áreas acondicionadas para fumar;
+V. En las áreas cerradas de bibliotecas, centros de información, hemerotecas, museos, casas de la cultura, centros públicos de computación, instalaciones educativas públicas y privadas ubicadas en el Estado, excepto en áreas ventiladas o acondicionadas de los centros educativos de nivel superior, que cuenten con la señalización respectiva delimitada por la propia institución, auditorios, bibliotecas, escuelas y cualquier otro lugar cerrado de las instituciones de enseñanza;
 
-V. En las áreas cerradas de los cines, teatros, centros de entretenimiento y auditorios, centros comerciales, restaurantes, cafeterías, tiendas departamentales, a los que tenga acceso el público en general; con excepción de las secciones expresamente acondicionadas y señaladas para fumar;
+VI. En centros de educación inicial, básica, media superior y superior, incluyendo auditorios, bibliotecas, laboratorios, instalaciones deportivas, patios, salones de clase, pasillos y sanitarios;
 
-VI. Áreas cerradas donde se practique deporte, salvo que se habiliten espacios acondicionados para fumar;
+VII. En las oficinas públicas de los Poderes Ejecutivo, Legislativo y Judicial, cualquier dependencia o entidad de la Administración Pública Estatal y Municipal y de sus órganos autónomos, oficinas administrativas, auditorios, módulos de atención, excepto en las áreas acondicionadas para fumar;
 
-VII. En unidades destinadas al cuidado y atención de los niños, adolescentes, personas de la tercera edad y personas con discapacidad;
+VIII. En áreas cerradas de los cines, teatros, centros de entretenimiento y auditorios, centros comerciales, restaurantes, cafeterías, a los que tenga acceso el público en general; con excepción de las secciones expresamente acondicionadas para fumar;
 
-VIII. En los sanitarios de acceso público, baños públicos y sanitarios móviles;
+IX. Instalaciones deportivas;
 
-IX. En los vehículos de servicio de transporte público de pasajeros en todas sus modalidades que circulen en el Estado; y
+X. En unidades destinadas al cuidado y atención de los niños, adolescentes, personas de la tercera edad y personas con capacidades diferentes;
 
-X. Cualquier otra área cerrada, distinta a las señaladas en las fracciones anteriores, al que tenga acceso el público en general y no cuente con secciones para fumadores.
+XI. En los sanitarios de acceso público, baños públicos y sanitarios móviles;
+
+XII. En los establecimientos mercantiles dedicados al hospedaje, de conformidad a lo dispuesto en el Artículo 17 de esta Ley;
+
+XIII. En los establecimientos mercantiles y espacios cerrados donde se expendan al público alimentos y bebidas para su consumo en el lugar, con excepción de las secciones expresamente acondicionadas para fumar;
+
+XIV. En los vehículos de servicio de trasporte (sic) público de pasajeros en todas sus modalidades que circulen en el Estado;
+
+XV. En los vehículos de transporte escolar o transporte de personal;
+
+XVI. En espacios cerrados de trabajo y en sitios de concurrencia colectiva; y
+
+XVII. Cualquier otra área cerrada, distinta a las señaladas en las Fracciones anteriores, al que tenga acceso el público en general.
+
+Los propietarios, poseedores o responsables de los establecimientos mercantiles, oficinas, industrias y empresas en los cuales está prohibido fumar serán sancionados económicamente por permitir, tolerar o autorizar que se fume fuera de las áreas estrictamente acondicionadas para ello.
+
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
 
 ###### Artículo 13.
 
-Los menores de edad, no podrán ingresar a las secciones de fumar y los adultos que vayan acompañados de un menor obligatoriamente deberán ingresar a las secciones de no fumar.
+Los menores de edad, no podrán ingresar a las áreas acondicionadas para fumadores.
 
 ### CAPITULO II. De las Obligaciones
 
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
+
 ###### Artículo 14.
 
-En los restaurantes y cafeterías, los propietarios, administradores, responsables, empleados y/o encargados de los mismos, establecerán secciones de no fumar y de fumar.
+En los restaurantes y cafeterías, los propietarios, administradores, responsables, empleados y/o encargados de los mismos, tendrán la obligación de respetar la prohibición de no fumar en dichos lugares.
 
-La sección para no fumadores no podrá ser menor del 60% del espacio del establecimiento.
+Los usuarios están obligados a observar lo establecido en el párrafo anterior.
 
-Estas secciones deberán contar con los señalamientos o indicaciones suficientemente visibles para el público, que delimiten las áreas de fumar y de no fumar.
-
-Los responsables de los establecimientos cuya dimensión no exceda los 30 metros cuadrados de superficie para el servicio, o que no tengan más de cinco mesas para comensales no estarán sujetos a la obligación de delimitar secciones para fumar y no fumar y podrán libremente decidir si sus establecimientos cuentan o no con dichas secciones en función de su demanda.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
 
 ###### Artículo 15.
 
-En los bares, centros de entretenimiento para adultos y discotecas, los propietarios, responsables, empleados y/o encargados de los mismos, deberán delimitar secciones de fumar y no fumar.
+En los bares, centros de entretenimiento para adultos y discotecas, los propietarios, responsables, empleados y/o encargados de los mismos, tendrán la obligación de respetar la prohibición de no fumar en dichos lugares.
 
-En dichos establecimientos, la sección destinada para los no fumadores, no podrá ser menor del 30% del espacio total del establecimiento cerrado.
+Los usuarios están obligados a observar lo establecido en el párrafo anterior.
 
-Estas secciones deberán contar con los señalamientos o indicaciones suficientemente visibles para el público, que delimiten las áreas de fumar y de no fumar.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
 
 ###### Artículo 16.
 
-Las secciones para fumadores y no fumadores deberán quedar separadas una de la otra, preferentemente con un muro, contar con comodidades similares, esta identificadas permanentemente con señalamientos y avisos en lugares visibles al publico asistente incluyendo las mesas.
+Las áreas acondicionadas para fumadores deberán quedar separadas de las de no fumadores y contar con comodidades similares.
 
-Las secciones de fumar deberán contar por lo menos con una de las siguientes características:
+Las áreas acondicionadas para fumadores deben contar con las siguientes características:
 
-I. Tener ventilación hacia el exterior, o estar en un área abierta;
+I. Ubicarse en espacios al aire libre, o ubicarse en espacios interiores aislados que dispongan de mecanismos que eviten el traslado de partículas hacia los espacios de no fumadores y que no sea paso obligado de los no fumadores;
 
 II. Contar con un sistema de extracción o purificadores de aire que garantice la expulsión del humo producto de la combustión de tabaco y una mejor calidad del aire; y
 
-III. Estar aislada de las áreas de no fumadores presentemente con un muro y las adecuaciones arquitectónicas que garantice que el humo producido por la práctica de fumar tabaco, no se filtre a las áreas reservadas para no fumadores.
+III. Que existan letreros o carteles que provean de información sobre los riesgos y enfermedades que son causadas por el consumo de tabaco, de conformidad con lo que al efecto determine el ISEA.
 
 ###### Artículo 17.
 
 En los hoteles, los propietarios, administradores, responsables, empleados y/o encargados de los mismos, deberán delimitar como área de no fumar los espacios de uso común, debiéndose colocar los señalamientos que indiquen la prohibición de fumar.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MARZO DE 2009)</small>
+
 ###### Artículo 18.
 
-Los propietarios, poseedores o responsables de los locales cerrados con secciones de fumar y no fumar, coadyuvarán en forma solidaria con las autoridades correspondientes en la vigilancia de la restricción de no fumar.
+Los propietarios, poseedores o responsables de los locales cerrados, coadyuvarán en forma solidaria con las autoridades correspondientes en la vigilancia de la restricción de no fumar.
 
 El propietario o titular del establecimiento, o su personal, deberá exhortar, a quien se encuentre fumando fuera de las áreas autorizadas, a que se abstenga de hacerlo, o trasladarse a las áreas autorizadas para tal fin; en caso de negativa, se le invitará a abandonar las instalaciones; si el infractor se resiste a dar cumplimiento al exhorto, el titular o sus dependientes solicitarán el auxilio de la fuerza pública, afecto de que pongan al infractor a disposición del Juez Calificador competente.
 
@@ -313,7 +359,7 @@ Dichas secciones deberán ser acondicionadas de tal manera que eviten la inhalac
 
 ###### Artículo 22.
 
-Quedan excluidos de la obligación contenida en el Artículo anterior los propietarios, poseedores o responsables de los establecimientos que se instalen temporalmente hasta por 30 días.
+(DEROGADO, P.O. 30 DE MARZO DE 2009)
 
 ###### Artículo 23.
 
@@ -431,6 +477,18 @@ Lo no previsto en el presente Capítulo, se aplicará supletoriamente la Ley del
 
 Las contravenciones a los preceptos de esta Ley, serán sancionadas administrativamente por las autoridades competentes de acuerdo al lugar y naturaleza de la infracción, conforme a los supuestos establecidos en este mismo ordenamiento.
 
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2009)</small>
+
+Artículo 44 A.- Para la fijación de la multa, que deberá hacerse entre el mínimo y máximo establecido, se tomará en cuenta:
+
+I. La gravedad de la infracción concreta;
+
+II. Las condiciones económicas de la persona física o moral a la que se sanciona;
+
+III. La reincidencia; y
+
+IV. Las demás circunstancias que sirvan para individualizar la sanción.
+
 ###### Artículo 45.
 
 Las sanciones administrativas podrán consistir en:
@@ -441,27 +499,31 @@ II. Arresto hasta por 36 horas; o
 
 III. Clausura Temporal.
 
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
+
 ###### Artículo 46.
 
-Se sancionarán de conformidad a lo que señalen los Códigos Municipales y Bandos de Policía y Buen Gobierno las infracciones a lo dispuesto por la presente Ley en los siguientes términos:
+Se sancionarán de conformidad a lo que señalen los Códigos Municipales o Bandos de Policía y Buen Gobierno, las infracciones a lo dispuesto por la presente ley en los siguientes términos:
 
-I. Con multa de cinco a diez veces el salario mínimo diario general vigente en el Estado, a las personas que fumen en los lugares que prohíbe el presente ordenamiento;
+I. Con multa de diez hasta cien veces el salario mínimo general vigente en el Estado, a las personas que fumen en los lugares que prohíbe el presente ordenamiento;
 
-II. Con multa de diez a veinte veces el salario mínimo diario general vigente en el Estado, a las personas que:
+II. Con multa de diez hasta veinte veces el salario mínimo general vigente en el Estado a las personas que:
 
-a) Interfieran o se opongan al desahogo de la visita de inspección o verificación;
+A. Interfieran o se opongan al desahogo de la visita de inspección o verificación;
 
-b) Obstaculicen la imposición del estado de clausura temporal del local o establecimiento que hubiera decretado la autoridad competente; o
+B. Obstaculicen la imposición del estado de clausura temporal o definitiva del local o establecimiento que hubiera decretado la autoridad competente; o
 
-c) Con conocimiento del estado de clausura temporal del local o establecimiento haga caso omiso de la misma y proporcione el servicio al público, en contravención a lo ordenado en la resolución administrativa respectiva.
+C. Con conocimiento del estado de clausura temporal del local o establecimiento que haga caso omiso de la misma y proporcione el servicio al público, en contravención a lo ordenado en la resolución administrativa respectiva.
 
-III. Con multa de cincuenta a cien veces el salario mínimo diario general vigente en el Estado, a los propietarios, poseedores o responsables de los locales cerrados, establecimientos o medios de transporte, que permitan fumar en lugares prohibidos, o contravengan lo dispuesto en el Artículo 12 de la presente Ley.
+III. Con multa de cincuenta a cien veces el salario mínimo diario general vigente en el Estado, a los propietarios, poseedores o responsable de los locales cerrados, establecimientos o medios de transporte, que permitan fumar en lugares prohibidos o contravengan lo dispuesto en el Artículo 12 de la presente ley.
+
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
 
 ###### Artículo 47.
 
-En caso de reincidencia del infractor, se duplicará el monto de la multa que corresponda. Lo anterior sin perjuicio de la clausura temporal de los establecimientos, según sea el caso hasta que se subsane la irregularidad detectada.
+En caso de reincidencia del infractor, se duplicará el monto de la multa que corresponda. Lo anterior sin perjuicios de la clausura temporal o definitiva de los establecimientos, según sea el caso hasta que se subsane la irregularidad detectada.
 
-En caso de continuar con la reincidencia, independientemente de la clausura, se podrá imponer arresto en los términos de la fracción II del Artículo 45, a los propietarios o responsables de los establecimientos.
+En caso de continuar con la reincidencia, independientemente de la clausura, se podrá imponer arresto en los términos de la Fracción II del Artículo 45 de esta Ley, a los propietarios o responsables de los establecimientos.
 
 ###### Artículo 48.
 
@@ -548,3 +610,11 @@ Luis Armando Reynoso Femat,
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Jorge Mauricio Martínez Estebanez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE MARZO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
