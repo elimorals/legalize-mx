@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-secretaria-de-hacienda-44028"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-18"
-last_updated: "2006-06-21"
+last_updated: "2009-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44028&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2009.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado, el viernes 18 de febrero de 2005.
 
@@ -563,7 +563,9 @@ I. Organizar, controlar y evaluar el funcionamiento de las Direcciones Generales
 
 II. Coordinar la elaboración y proponer al Secretario los anteproyectos de Ley de Ingresos del Estado y participar en la formulación de las demás disposiciones en materia fiscal;
 
-III. Proponer al Secretario la condonación total o parcial de las multas;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
+
+III. Autorizar la condonación total o parcial de las multas, recargos y demás accesorios que se generen por el incumplimiento de las obligaciones fiscales por parte de los contribuyentes, así como aplicar los acuerdos y decretos del ejecutivo que concedan estímulos fiscales específicos en un ejercicio fiscal;
 
 IV. Vigilar el cumplimiento de los informes y obligaciones del Gobierno del Estado a la Federación derivados de los Acuerdos de Coordinación Fiscal, corroborando que el cálculo de los incentivos y trasferencias fiscales, se apeguen estrictamente a los términos de la Ley de Coordinación Fiscal y los acuerdos suscritos;
 
@@ -589,7 +591,11 @@ XIV. Proponer al Secretario, la autorización de prórrogas y pagos diferidos de
 
 XV. Conocer de las acciones de embargo, para asegurar el interés fiscal;
 
-XVI. Requerir por sí o a través de la unidad administrativa correspondiente a los contribuyentes, responsables solidarios y de terceros con ellos relacionados, así como solicitar a los contadores públicos autorizados que hayan formulado dictámenes o declaratorias para efectos fiscales, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones y avisos; los datos, otros documentos e informes y, en el caso de dichos contadores, que también exhiban sus papeles de trabajo, además recabar de los Servidores Públicos y de los fedatarios, los informes y datos que tengan con motivo de sus funciones; todo ello para comprobar el correcto cumplimiento de las disposiciones legales fiscales, así como autorizar la prorroga para su presentación;
+XVI. Requerir por sí o a través de la unidad administrativa correspondiente a los contribuyentes, responsables solidarios y de terceros con ellos relacionados, así como solicitar a los contadores públicos autorizados que hayan formulado dictámenes o declaratorias para efectos fiscales, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones y avisos; los datos, otros documentos e informes y, en el caso de dichos contadores, que también exhiban sus papeles de trabajo, además recabar de los Servidores Públicos y de los fedatarios, los informes y datos que tengan con motivo de sus funciones; todo ello para comprobar el correcto cumplimiento de las disposiciones legales fiscales, así como autorizar la prorroga para su presentación.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2009)</small>
+
+Así mismo, otorgar el registro a los contadores públicos para formular dictámenes sobre los estados financieros relacionados con las declaraciones fiscales de los contribuyentes o cualquier otro tipo de dictamen que tenga repercusión para efectos de impuestos estatales, así como otorgar el registro de despachos de contadores públicos; cuyos socios o integrantes sean contadores públicos, que hayan obtenido registro para formular dictámenes para efectos fiscales;
 
 XVII. Recabar por sí o a través de la unidad administrativa correspondiente, de los Servidores Públicos y de los fedatarios, los informes y datos que tengan con motivo de sus funciones; todo ello para proceder a su revisión a fin de comprobar el cumplimiento de las disposiciones legales en las materias señaladas en las fracciones VIII y XXIV, pudiendo efectuar los requerimientos a que esta fracción se refiere a los contribuyentes, responsables solidarios, terceros con ellos relacionados y a los mencionados contadores, con domicilio fuera de su circunscripción territorial, cuando tengan relación con los contribuyentes domiciliados en su propia circunscripción territorial; así como autorizar o negar prórrogas para su presentación; tratándose de las revisiones previstas en esta fracción, emitir los oficios de observaciones, el de conclusiones de la revisión y, en su caso, el de prórroga del plazo de la revisión;
 
@@ -745,7 +751,9 @@ V. Llevar a cabo por sí o a través de los subrecaudadores o de las unidades ad
 
 VI. Apremiar a los contribuyentes morosos;
 
-VII. Imponer las sanciones establecidas en las Leyes, Reglamentos, Códigos y Convenios vigentes en las materias estatales o federales de su competencia;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
+
+VII. Imponer las sanciones establecidas en las Leyes, Reglamentos, Códigos y Convenios vigentes en materia estatal o federal de su competencia, así como condonar hasta en un 50% las multas;
 
 VIII. Requerir y custodiar la garantía del interés fiscal, en términos del Código Fiscal Federal y del Código Fiscal del Estado, según corresponda;
 
@@ -769,7 +777,9 @@ XVII. Atender las consultas que presenten los contribuyentes y público en gener
 
 XVIII. Llevar a cabo la matriculación de vehículos en el Estado, así como expedir permisos para circular vehículos sin placa cuando así lo señalen las disposiciones correspondientes;
 
-XIX. Exigir la presentación de declaraciones, avisos y documentos; así como requerir la rectificación de errores u omisiones contenidos en las declaraciones, solicitudes, avisos y documentos;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
+
+XIX. Exigir la presentación de declaraciones, avisos, manifestaciones y demás documentación a que obliguen las disposiciones fiscales, así como requerir las mismas o su rectificación por errores u omisiones que contengan;
 
 XX. Notificar cuando corresponda, las resoluciones que determinan créditos fiscales, citatorios, requerimientos, solicitud de informes y otros actos administrativos;
 
@@ -861,9 +871,11 @@ XXXIII. Las demás que le señalen otras disposiciones legales y las que le conf
 
 Cuando la Dirección General de Auditoría Fiscal inicie facultades de comprobación, en materia de impuestos federales coordinados respecto de un sujeto de su competencia, éste lo continuará siendo por los ejercicios fiscales revisados, hasta la emisión del oficio respectivo que dé por concluidas las citadas facultades de comprobación, aun en el caso de que por la presentación de alguna declaración complementaria el contribuyente se ubique en los supuestos establecidos en la cláusula SÉPTIMA, segundo párrafo, incisos a), b) y c) y tercer párrafo del Convenio de Colaboración Administrativa en Materia Fiscal Federal, incluyendo el caso de la reposición de dichas facultades de comprobación, con motivo de una resolución favorable al particular que las haya dejado sin efecto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MARZO DE 2009)</small>
+
 ###### Artículo 29.
 
-La Dirección General de Auditoria Fiscal tendrá su sede en la Ciudad de Chetumal, Quintana Roo, ejercerá sus facultades en todo el territorio del Estado de Quintana Roo y estará a cargo de un Director General de Auditoria Fiscal, quien será auxiliado en el ejercicio de las facultades conferidas en este artículo por el Director de Auditoria Fiscal de la Zona Sur del Estado, Director de Auditoria Fiscal de la Zona Centro del Estado y Director de Auditoria Fiscal de la Zona Norte del Estado, Subdirectores, Jefes de Departamento, Auditores, Inspectores, personal para Verificación, Ayudantes de Auditor y personal para entrega de Notificaciones, así como por el personal que se requiera para satisfacer las necesidades del servicio. Las unidades administrativas auxiliares tendrán su sede y circunscripción territorial cada una conforme a lo siguiente:
+La Dirección General del (sic) Auditoria Fiscal tendrá su sede en la Ciudad de Cancún, Quintana Roo, ejercerá sus facultades en todo el territorio del Estado de Quintana Roo y estará a cargo de un Director General de Auditoria Fiscal, quien será auxiliado en el ejercicio de sus funciones y facultades conferidas en este artículo por el Director de Auditoria Fiscal de la Zona Sur del Estado, el Director de Auditoria Fiscal de la Zona Centro del Estado y el Director de Auditoria Fiscal de la Zona Norte del Estado, Subdirectores, Jefes de Departamento, Auditores, Notificadores, Verificadores, Ejecutores, así como por el personal que se requiera para satisfacer las necesidades del servicio y realizar las diversas funciones. Las unidades administrativas auxiliares tendrán su sede y circunscripción territorial cada una conforme a lo siguiente:
 
 a) Dirección de Auditoria Fiscal del Sur del Estado; con sede en la ciudad de Chetumal, Quintana Roo y con circunscripción territorial en los municipios de Othón Pompeyo Blanco, José María Morelos y Felipe Carrillo Puerto;
 
@@ -1638,3 +1650,9 @@ P.O. 21 DE JUNIO DE 2006.
 Primero. La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 Segundo. Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a los preceptos de la presente reforma.
+
+P.O. 30 DE MARZO DE 2009.
+
+PRIMERO.- Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
