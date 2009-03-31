@@ -4,7 +4,7 @@ identifier: "CMX-normas-generales-de-programacion-presupuesto-y-contabilidad-602
 country: "mx"
 rank: "norma"
 publication_date: "2008-03-31"
-last_updated: "2008-12-24"
+last_updated: "2009-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60249&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-03-31"
 
 NORMAS GENERALES DE PROGRAMACION, PRESUPUESTO Y CONTABILIDAD DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE MARZO DE 2009.
 
 Normas publicadas en la Gaceta Oficial del Distrito Federal, el lunes 31 de marzo de 2008.
 
@@ -54,7 +54,9 @@ V. Secretaría Administrativa: La Secretaría Administrativa del Tribunal Electo
 
 VI. Unidades Administrativas: Las Secretarías General y Administrativa; la Dirección General Jurídica; la Contraloría General; el Centro de Capacitación Judicial Electoral; así como las Coordinaciones de Documentación y Difusión y Comunicación Social y Relaciones Públicas del Tribunal Electoral del Distrito Federal, además de las descritas en el Reglamento Interior del Distrito Federal.
 
-VII. Dirección de Recursos Financieros: La Dirección de Recursos Financieros del Tribunal Electoral del Distrito Federal.
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2009)</small>
+
+VII. Dirección de Planeación y Recursos Financieros: La Dirección de Planeación y Recursos Financieros del Tribunal Electoral del Distrito Federal.
 
 VIII. Dirección de Recursos Humanos: La Dirección de Recursos Humanos del Tribunal Electoral del Distrito Federal.
 
@@ -65,6 +67,10 @@ X. Tribunal: El Tribunal Electoral del Distrito Federal.
 XI. Normas Generales: Las Normas Generales de Programación, Presupuesto y Contabilidad del Tribunal Electoral del Distrito Federal.
 
 XII. Secretaría: La Secretaría de Finanzas del Gobierno del Distrito Federal.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 31 DE MARZO DE 2009)</small>
+
+XIII. Contaduría: La Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal.
 
 ###### Artículo 3.
 
@@ -96,9 +102,11 @@ La Secretaría Administrativa será el área responsable de planear, programar, 
 
 Las operaciones contables y presupuestales que celebre el Tribunal se regirán por las presentes Normas Generales.
 
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2009)</small>
+
 ###### Artículo 8.
 
-Los recursos económicos asignados al Tribunal por disposición del Decreto de Presupuesto de Egresos del Distrito Federal, deberá concentrarse y manejarse mediante una institución del sistema bancario mexicano.
+Los recursos económicos asignados al Tribunal por disposición del Decreto de Presupuesto de Egresos del Distrito Federal, deberán concentrarse y operarse mediante una institución del sistema bancario mexicano.
 
 ###### Artículo 9.
 
@@ -108,37 +116,35 @@ La Contraloría será la encargada de fiscalizar el correcto manejo y aplicació
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2009)</small>
+
 ###### Artículo 10.
 
-Las Unidades Administrativas elaborarán sus respectivos programas operativos que serán la base para elaborar sus anteproyectos de presupuesto, que correspondan para cada ejercicio; dichos documentos servirán de referencia para la conformación de los proyectos anuales del Tribunal que la Secretaría Administrativa deba integrar.
+Las Unidades Administrativas elaborarán sus respectivos programas operativos que serán la base para elaborar sus anteproyectos de presupuesto, que correspondan para cada ejercicio; dichos documentos servirán de referencia para la conformación del anteproyecto de presupuesto del Tribunal que la Secretaría Administrativa deba integrar.
 
 ###### Artículo 11.
 
 Para la elaboración del Programa Operativo Anual y el anteproyecto de presupuesto, las Unidades Administrativas del Tribunal deberán observar y respetar los criterios generales y apertura programática por aplicar, que para tal efecto apruebe el Pleno, a propuesta de la Secretaría Administrativa.
 
-La Secretaría Administrativa enviará los criterios generales y apertura programática a las unidades administrativas por lo menos con quince días hábiles de anticipación a la fecha de integración del Programa Operativo Anual del Tribunal.
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2009)</small>
+
+La Secretaría Administrativa enviará los criterios generales para la planeación, programación y presupuestación y la apertura programática a las unidades administrativas por lo menos con veinte días hábiles de anticipación a la fecha de integración del Programa Operativo Anual del Tribunal.
 
 ###### Artículo 12.
 
 La Secretaría Administrativa será la responsable de integrar el Programa Operativo Anual y con base en él, formulará el anteproyecto de presupuesto del Tribunal, mismos que, por conducto del Presidente del Tribunal, serán presentados al Pleno para su consideración y, en su caso, aprobación.
 
-Dichos anteproyectos se entregarán al Pleno para su autorización el último día hábil de octubre o en su caso, conforme el siguiente calendario:
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2009)</small>
 
-I. De enero a marzo: formulación de escenarios de gasto y de programas;
-
-II. De enero a junio: etapa de programación;
-
-III. De junio a agosto: etapa de presupuesto;
-
-IV. En septiembre: Elaboración e integración del proyecto de Presupuesto de Egresos y del Programa Operativo Anual;
-
-V. En octubre: Procesos de aprobación por instancias competentes, autorización del Pleno y envío a la Secretaría.
+El Programa Operativo Anual y el anteproyecto de presupuesto del Tribunal se entregarán al Pleno para su autorización, a más tardar el último día hábil de octubre de cada año.
 
 ### Capítulo II. Del Programa Operativo Anual
 
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2009)</small>
+
 ###### Artículo 13.
 
-El Programa Operativo Anual es el instrumento que cuantifica los objetivos y metas concretas a desarrollar en el corto plazo, definiendo responsables, temporalidad y especialidad de acciones, para lo cual se asignan recursos en función de las disponibilidades y necesidades contenidas en los balances de recursos humanos, materiales y financieros. En este documento se identifican compromisos, se fijan directrices y se precisan los programas rectores del Tribunal que deben alcanzar las unidades administrativas que lo conforman y servirán como base para la elaboración del mismo así como del anteproyecto de presupuesto del ejercicio correspondiente.
+El Programa Operativo Anual es el instrumento que cuantifica los objetivos y metas concretas a desarrollar en el corto plazo, definiendo responsables, temporalidad y especialidad de acciones, para lo cual se asignan recursos humanos, materiales y financieros. En este documento se identifican compromisos, se fijan directrices y se precisan los programas rectores del Tribunal que deben alcanzar las unidades administrativas que lo conforman y servirán como base para la elaboración del mismo, así como del anteproyecto de presupuesto del ejercicio correspondiente.
 
 ###### Artículo 14.
 
@@ -154,7 +160,9 @@ a) Unidad responsable;
 
 b) Responsable operativo;
 
-c) Programa general;
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2009)</small>
+
+c) Programa;
 
 d) Subprograma y,
 
@@ -170,9 +178,11 @@ V. Las previsiones del gasto para cada uno de los proyectos, de acuerdo con el C
 
 ### Capítulo III. Del Proyecto de Presupuesto
 
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2009)</small>
+
 ###### Artículo 16.
 
-Para elaborar el Proyecto de Presupuesto del Tribunal deberá formularse el anteproyecto de presupuesto con la participación de todas las unidades administrativas del Tribunal, de conformidad con las directrices o líneas de acción, así como las actividades institucionales que al efecto dicte el Pleno y que determine como prioritarias.
+Para elaborar el Proyecto de Presupuesto del Tribunal deberá formularse el anteproyecto de presupuesto con la participación de todas las unidades administrativas del Tribunal, de conformidad con los criterios generales aprobados por el Pleno.
 
 ###### Artículo 17.
 
@@ -228,7 +238,9 @@ La Secretaría Administrativa deberá observar que el registro del ejercicio del
 
 I. Con cargo a los programas, subprogramas y proyectos de las unidades administrativas responsables señaladas en el presupuesto; y
 
-II. Con sujeción a los capítulos, partidas y conceptos del Clasificador por Objeto del Gasto del Tribunal aprobado por el Pleno.
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2009)</small>
+
+II. Con sujeción a los capítulos, partidas y conceptos del Clasificador por Objeto del Gasto del Tribunal.
 
 ###### Artículo 25.
 
@@ -236,19 +248,25 @@ Al contraer compromisos, las Unidades Administrativas del Tribunal deberán obse
 
 I. Que no impliquen obligaciones anteriores a la fecha en que se suscriban;
 
-II. Que no impliquen obligaciones con cargo a presupuestos de años anteriores ni posteriores;
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2009)</small>
+
+II. Que no impliquen obligaciones con cargo a presupuestos de años anteriores ni posteriores, salvo lo previsto en el artículo 27 de las presentes Normas Generales;
 
 III. Que se registren afectando las disponibilidades de los programas, subprogramas y partidas presupuestales correspondientes; y
 
-IV. Que no rebasen el monto de los programas, subprogramas y partidas presupuestales autorizados por el Pleno, salvo que exista previa autorización del Pleno.
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2009)</small>
+
+IV. Que no rebasen el monto de los programas, subprogramas y partidas presupuestales autorizados por el Pleno, salvo lo previsto en los artículos 41 y 42 de las presentes Normas Generales.
 
 ###### Artículo 26.
 
 Corresponderá a la Secretaría Administrativa comunicar con toda oportunidad a las Unidades Administrativas del Tribunal las fechas de cierre del ejercicio fiscal que corresponda, para cubrir los compromisos contraídos, con la finalidad de que al 31 de diciembre de cada año, queden totalmente devengados y contabilizados.
 
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2009)</small>
+
 ###### Artículo 27.
 
-El Pleno, a propuesta justificada de la Secretaría Administrativa, podrá autorizar la celebración de contratos que, por su naturaleza y características, comprendan más de un ejercicio presupuestal. El cumplimiento de los compromisos quedará sujeto a la disponibilidad presupuestal de los años en que continúe su ejecución. Las propuestas de este tipo de contratos, deberá presentarse al Pleno para su aprobación cuando menos con 30 días de anticipación a su posible formalización.
+El Pleno, a propuesta justificada de la Secretaría Administrativa, podrá autorizar la celebración de contratos que, por su naturaleza y características, comprendan más de un ejercicio presupuestal. El cumplimiento de los compromisos quedará sujeto a la disponibilidad presupuestal de los años en que continúe su ejecución.
 
 ###### Artículo 28.
 
@@ -296,9 +314,11 @@ El Secretario Administrativo elaborará y suscribirá los convenios y contratos 
 
 #### Sección II. Del Ejercicio del Presupuesto por los Servicios Personales
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE MARZO DE 2009)</small>
+
 ###### Artículo 34.
 
-Las erogaciones correspondientes al gasto en servicios personales, comprenderá:
+Las erogaciones correspondientes al gasto en servicios personales, comprenderán:
 
 I. Las remuneraciones que constitucionalmente y legalmente correspondan a los servidores públicos y honorarios con cargo al presupuesto de servicios personales y las erogaciones por concepto de obligaciones de carácter fiscal y de seguridad social inherentes a dichas remuneraciones;
 
@@ -332,9 +352,11 @@ La acción para exigir el pago de las remuneraciones prescribirá en un año, co
 
 ### Capítulo III. De las Adecuaciones y Traspasos de Recursos Presupuestales
 
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2009)</small>
+
 ###### Artículo 38.
 
-Corresponderá a la Secretaría Administrativa coordinar, compilar e integrar los trabajos de ajuste necesarios, los que una vez que hayan sido aprobadas por el Pleno serán presentados a la Secretaría por conducto del Presidente del Tribunal, dentro de los plazos que establezcan las leyes.
+Una vez que el presupuesto autorizado para el Tribunal, haya sido publicado en el Decreto de Presupuestos de Egresos del Distrito Federal para el ejercicio fiscal que corresponda y en caso de ser necesario, corresponderá a la Secretaría Administrativa coordinar, compilar e integrar los trabajos de ajuste necesarios, una vez aprobados por el Pleno serán presentados a la Secretaría por conducto del Presidente del Tribunal, dentro de los plazos que establezcan las leyes.
 
 ###### Artículo 39.
 
@@ -360,15 +382,19 @@ II. De las situaciones coyunturales, contingentes y extraordinarias que incidan 
 
 Cuando por motivos financieros exista un ajuste superior al 10% del presupuesto anual asignado a alguna Unidad Administrativa del Tribunal, la Secretaría Administrativa, en coordinación con el área involucrada, participará e integrará la propuesta de ajuste al contenido orgánico y/o financiero de los programas correspondientes. La Secretaría Administrativa deberá revisar y asegurarse que dicho ajuste cuente con la justificación que lo respalde, así como la relación pormenorizada del contenido y propósito del ajuste y presentarla al Pleno para su aprobación.
 
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2009)</small>
+
 ###### Artículo 42.
 
-La Secretaría Administrativa, durante el ejercicio del presupuesto del año correspondiente, podrá efectuar los traspasos de recursos presupuestales que se requieran para cumplir con los programas y proyectos del Tribunal, lo anterior, sin exceder del presupuesto del Tribunal e informando en los términos referidos en el artículo 58 de las presentes Normas Generales.
+La Secretaría Administrativa, durante el ejercicio del presupuesto del año correspondiente, podrá efectuar los traspasos de recursos presupuestales que se requieran para cumplir con los programas y proyectos del Tribunal, lo anterior, sin exceder del presupuesto del Tribunal.
 
 ### Capítulo IV. De los Pagos
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE MARZO DE 2009)</small>
+
 ###### Artículo 43.
 
-Será responsabilidad de la Secretaría Administrativa, que los pagos que se efectúen con cargo al presupuesto del Tribunal se realicen cumpliendo los requisitos siguientes:
+Será responsabilidad de cada unidad administrativa del Tribunal, en el ámbito de sus respectivas competencias, que los pagos que se efectúen con cargo al presupuesto del Tribunal a través de la Secretaría Administrativa, se realicen cumpliendo los requisitos siguientes:
 
 I. Que correspondan a compromisos efectivamente devengados en el ejercicio de aplicación, con excepción de los anticipos debidamente autorizados;
 
@@ -376,11 +402,15 @@ II. Que se efectúen apegándose a los calendarios financieros autorizados; y
 
 III. Que se encuentren debidamente justificados y comprobados con los documentos originales respectivos. Se entenderá por justificantes aquellos documentos legales que reúnan los requisitos establecidos en el artículo 33 de las presentes Normas Generales y determinen la obligación de hacer un pago; por comprobantes, los documentos que amparen la entrega de las sumas de dinero correspondientes.
 
-Concluida la vigencia del presupuesto, el Tribunal sólo podrá hacer pagos con cargo a él por obras públicas y servicios relacionados con las mismas, adquisiciones, servicios y demás conceptos que efectivamente se hayan realizado en el año que corresponda y siempre que la Dirección de Recursos Financieros hubiere contabilizado debida y oportunamente las operaciones correspondientes.
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2009)</small>
+
+Concluida la vigencia del presupuesto, el Tribunal sólo podrá hacer pagos con cargo a él por obras públicas y servicios relacionados con las mismas, adquisiciones, servicios y demás conceptos que efectivamente se hayan realizado en el año que corresponda y siempre que la Dirección de Planeación y Recursos Financieros hubiere contabilizado debida y oportunamente las operaciones correspondientes.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE MARZO DE 2009)</small>
 
 ###### Artículo 44.
 
-Para cubrir los compromisos de pago que no hubieran sido efectuados por el Tribunal al cierre de cada ejercicio, la Dirección de Recursos Financieros deberá considerar lo siguiente:
+Para cubrir los compromisos de pago que no hubieran sido efectuados por el Tribunal al cierre de cada ejercicio, la Dirección de Planeación y Recursos Financieros deberá considerar lo siguiente:
 
 I. Que los montos se encuentren debidamente contabilizados al 31 de diciembre del ejercicio que corresponda;
 
@@ -394,15 +424,19 @@ En caso de no cumplir con los requisitos señalados, los compromisos se cubrirá
 
 La Secretaría Administrativa realizará los pagos que correspondan con cargo al presupuesto, en función de sus disponibilidades y cubrirá los anticipos que estén debidamente soportados con la documentación respectiva. En caso de que se realice algún pago que cubra alguna adquisición de bienes, prestación de servicios, arrendamiento, curso, o algún concepto, cuyo beneficio se obtendrá hasta el año fiscal siguiente, requerirá la autorización del Pleno.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE MARZO DE 2009)</small>
+
 ###### Artículo 46.
 
-Todo pago que, por alguna obligación haya contraído el Tribunal, se efectuará mediante cheque nominativo o transferencia electrónica, expedido y/o realizado por la Dirección de Recursos Financieros.
+Todo pago que, por alguna obligación haya contraído el Tribunal, se efectuará mediante cheque nominativo o transferencia electrónica, expedido y/o realizado por la Dirección de Planeación y Recursos Financieros.
 
 El pago por concepto de fondos revolventes y el que corresponda a gastos por comprobar podrá realizarse a los titulares y/o al personal autorizado de las unidades administrativas.
 
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2009)</small>
+
 ###### Artículo 47.
 
-Los cheques que emita el Tribunal, deberán estar suscritos por dos de tres firmas facultadas de funcionarios, que serán, el Secretario Administrativo, el Director de Recursos Financieros y el Subdirector de Finanzas y Contabilidad.
+Los cheques que emita el Tribunal, deberán estar suscritos por dos de tres firmas facultadas de funcionarios, que serán, el Secretario Administrativo, el Director de Planeación y Recursos Financieros y el Subdirector de Contabilidad y Control.
 
 ###### Artículo 48.
 
@@ -420,9 +454,13 @@ Para la evaluación de un adecuado ejercicio presupuestal, el Pleno podrá autor
 
 La selección del despacho para la realización de la auditoria, se llevará a cabo por medio del procedimiento de contratación, cuya modalidad será definida de conformidad con lo establecido en los Lineamientos en Materia de Adquisiciones, Arrendamientos y Prestación de Servicios del Tribunal.
 
-La Secretaría Administrativa, previa solicitud de la Contraloría, podrá sin responsabilidad alguna, sustituir el despacho contratado para realizar la auditoria, cuando éste no pueda dar cumplimiento a las cláusulas contractuales.
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2009)</small>
 
-Una vez concluida la auditoria externa, el Contralor informará al Pleno los resultados de la misma.
+En caso de actualizarse alguno de los supuestos que prevé el artículo 101 de los Lineamientos en Materia de Adquisiciones, Arrendamientos y Prestación de Servicios de este Tribunal, la Secretaría Administrativa podrá llevar acabo la sustitución del auditor externo contratado.
+
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2009)</small>
+
+Una vez concluida la auditoria externa, el Secretario Administrativo informará al Pleno los resultados.
 
 ###### Artículo 51.
 
@@ -476,9 +514,11 @@ En cumplimiento a lo establecido en el Código Financiero, el Tribunal enterará
 
 El Tribunal, de conformidad con lo dispuesto en el Código Financiero, informará a la Secretaría, a más tardar el 15 de enero de cada año, el monto y características de su pasivo circulante al fin del año anterior al ejercicio fiscal de que se trate.
 
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2009)</small>
+
 ###### Artículo 60.
 
-El Tribunal, dando cumplimiento a lo dispuesto en el Código Financiero, remitirá a la Secretaría, dentro de los 15 días siguientes de concluido cada trimestre, el informe del avance programático-presupuestal, que contenga información cuantitativa y cualitativa sobre su Programa Operativo Anual y la evaluación del mismo, mediante los formatos debidamente requisitados que para tal efecto establezca dicha Secretaría.
+El Tribunal, dando cumplimiento a lo dispuesto en el Código Financiero, remitirá a la Secretaría, dentro de los plazos establecidos para tal efecto, el informe del avance programático-presupuestal, que contenga información cuantitativa y cualitativa sobre su Programa Operativo Anual y la evaluación del mismo, mediante los formatos debidamente requisitados que para tal efecto establezca dicha Secretaría.
 
 ### Capítulo IV. De la Cuenta Pública
 
@@ -486,7 +526,9 @@ El Tribunal, dando cumplimiento a lo dispuesto en el Código Financiero, remitir
 
 Con base en los estados financieros y demás información presupuestal y contable que emane de sus registros, el Tribunal remitirá al Jefe de Gobierno del Distrito Federal, en los formatos que para tal efecto establezca la Secretaría, la información necesaria para la integración de la Cuenta Pública Anual.
 
-Los estados financieros dictaminados, así como la información a que se refiere el párrafo anterior, se remitirán a más tardar dentro de los primeros tres días hábiles del mes de mayo.
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2009)</small>
+
+Los estados financieros dictaminados, así como la información a que se refiere el párrafo anterior, se remitirán a la Secretaría dentro de los plazos establecidos para tal efecto en el Código Financiero.
 
 ## TÍTULO QUINTO. DE LOS SISTEMAS DE CONTABILIDAD
 
@@ -496,9 +538,11 @@ Los estados financieros dictaminados, así como la información a que se refiere
 
 La contabilidad se llevará en base acumulativa. Para ello la Secretaría Administrativa establecerá la forma y términos en que deberán llevarse los registros de los activos, pasivos, capital o patrimonio, ingresos, costos y gastos, de tal forma que permitan medir la eficacia y eficiencia del gasto del Tribunal y medir los avances en la ejecución de los programas. La contabilidad deberá registrarse por cuentas de activo, pasivo, patrimonio, costos y gastos, así como cuentas de orden, mismos que deberán registrarse a detalle, de conformidad con el catálogo de cuentas del Tribunal.
 
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2009)</small>
+
 ###### Artículo 63.
 
-La contabilidad de las operaciones financieras y presupuestales deberá efectuarse dentro de los 20 días hábiles siguientes a la fecha de su realización y tendrá que estar respaldada por los documentos originales y comprobatorios justificantes correspondientes.
+El registro de las operaciones financieras y presupuestales deberá efectuarse dentro de los 20 días hábiles siguientes a la fecha de su realización y tendrá que estar respaldada por los documentos originales y comprobatorios justificantes correspondientes.
 
 ###### Artículo 64.
 
@@ -508,17 +552,23 @@ El registro de las operaciones y la preparación de los informes financieros del
 
 La contabilidad deberá llevarse en valores devengados, es decir, que el registro de las transacciones se efectúe conforme a la fecha de su realización, independientemente a la de su pago.
 
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2009)</small>
+
 ###### Artículo 66.
 
-La Secretaría Administrativa examinará periódicamente el funcionamiento del sistema y de contabilidad, el catálogo de cuentas del Tribunal y la guía contabilizadora y podrá realizar su modificación o simplificación.
+La Secretaría Administrativa examinará periódicamente el funcionamiento del sistema de contabilidad, el catálogo de cuentas del Tribunal y la guía contabilizadora y podrá realizar su modificación o simplificación.
+
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2009)</small>
 
 ###### Artículo 67.
 
-La Dirección de Recursos Financieros contabilizará las operaciones financieras y presupuestales mediante pólizas de diario, ingresos y egresos; emitirá auxiliares de cada una de las cuentas de mayor, balanza previa, balanza general, estado de ingresos y egresos y balance general, documentos que formarán los libros principales de contabilidad, que serán en su caso los denominados diario mayor e inventarios y balances.
+La Dirección de Planeación y Recursos Financieros contabilizará las operaciones financieras y presupuestales mediante pólizas de diario, ingresos y egresos; emitirá auxiliares de cada una de las cuentas de mayor, balanza de comprobación, balanza general, estado de ingresos y egresos y balance general, documentos que formarán los libros principales de contabilidad, que serán en su caso los denominados diario mayor e inventarios y balances.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE MARZO DE 2009)</small>
 
 ###### Artículo 68.
 
-La Dirección de Recursos Financieros llevará los registros contables, mediante los instrumentos, recursos y sistemas electrónicos que mejor convengan a la Secretaría Administrativa, los cuales deberán satisfacer como mínimo los requisitos que permitan:
+La Dirección de Planeación y Recursos Financieros llevará los registros contables, mediante los instrumentos, recursos y sistemas electrónicos que mejor convengan al Tribunal los cuales deberán satisfacer como mínimo los requisitos que permitan:
 
 A)
 
@@ -546,15 +596,21 @@ III. Las pólizas de diario, ingreso y egreso llevarán un folio consecutivo, el
 
 IV. Los libros de diario, mayor y balance, deberán integrarse dentro de los 90 días posteriores a la fecha de cierre del ejercicio contable correspondiente.
 
-La Dirección de Recursos Financieros llevará su contabilidad combinando los registros a que se refiere este artículo, así como los registros auxiliares que identifiquen la unidad ejecutora del gasto, el área responsable y el programa que muestren de manera sistemática los avances financieros, con el objeto de facilitar la evaluación en el ejercicio del presupuesto del Tribunal.
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2009)</small>
+
+La Dirección de Planeación y Recursos Financieros llevará su contabilidad combinando los registros a que se refiere este artículo, así como los registros auxiliares que identifiquen la unidad ejecutora del gasto, el área responsable y el programa que muestren de manera sistemática los avances financieros, con el objeto de facilitar la evaluación en el ejercicio del presupuesto del Tribunal.
+
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2009)</small>
 
 ###### Artículo 69.
 
-La Dirección de Recursos Financieros llevará la contabilidad en base acumulativa para facilitar la formulación, ejercicio y evaluación de la situación financiera del Tribunal, así como el ejercicio del presupuesto con base en la unidad responsable del gasto, el área ejecutora del gasto y el programa correspondiente. Para la contabilización de las operaciones con base acumulativa, cuando se trate de gastos que se devenguen en forma continua, como son, entre otros, servicios personales, alquileres y energía, se deberán registrar como un compromiso devengado.
+La Dirección de Planeación y Recursos Financieros llevará la contabilidad en base acumulativa para facilitar la formulación, ejercicio y evaluación de la situación financiera del Tribunal, así como el ejercicio del presupuesto con base en la unidad responsable del gasto, el área ejecutora del gasto y el programa correspondiente. Para la contabilización de las operaciones con base acumulativa, cuando se trate de gastos que se devenguen en forma continua, como son, entre otros, servicios personales, alquileres y energía, se deberán registrar como un compromiso devengado.
+
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2009)</small>
 
 ###### Artículo 70.
 
-La Dirección de Recursos Financieros deberá conservar, como parte integrante de su contabilidad, toda la documentación contable, la relativa al diseño y diagramas del registro contable electrónico, poniéndolas a disposición de la Contraloría, la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal, auditor externo o autoridad fiscal competente.
+La Dirección de Planeación y Recursos Financieros deberá conservar, como parte integrante de su contabilidad, toda la documentación contable, la relativa al diseño y diagramas del registro contable electrónico, poniéndolas a disposición de la Contraloría, la Contaduría, auditor externo o autoridad fiscal competente.
 
 ###### Artículo 71.
 
@@ -586,33 +642,49 @@ De acuerdo con las necesidades específicas del Tribunal, la Secretaría Adminis
 
 ### Capítulo II. De los Fondos y Valores
 
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2009)</small>
+
 ###### Artículo 73.
 
-Todos los ingresos que perciba y egresos que efectúe el Tribunal deberán realizarse a través de la Dirección de Recursos Financieros.
+Todos los ingresos que perciba y egresos que efectúe el Tribunal deberán realizarse a través de la Dirección de Planeación y Recursos Financieros.
 
 ###### Artículo 74.
 
 Los recursos económicos que tiene derecho a percibir el Tribunal conforme a las leyes, deberán concentrarse en instituciones del sistema bancario mexicano en el Distrito Federal.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE MARZO DE 2009)</small>
+
 ###### Artículo 75.
 
-Los fondos financieros disponibles del Tribunal podrán ser invertidos en las instituciones de crédito autorizadas. La Secretaría Administrativa, por medio de la Dirección de Recursos Financieros, podrá realizar las operaciones de inversión en valores de alto rendimiento y fácil realización.
+Los fondos financieros disponibles del Tribunal deberán de ser invertidos en las instituciones de crédito autorizadas. La Secretaría Administrativa, por medio de la Dirección de Planeación y Recursos Financieros, deberá realizar las operaciones de inversión en instrumentos libres de riesgo y de la más alta rentabilidad seleccionando las mejores alternativas que se ofrezcan en las instituciones financieras del país. Las inversiones deberán ser de la mayor cuantía y al mayor plazo posible, atendiendo a las necesidades de liquidez que en monto y tiempo señalen las obligaciones financieras del Tribunal.
 
-La Dirección de Recursos Financieros informará a la Secretaría Administrativa sobre los fondos financieros invertidos, para tal propósito procederá a:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE MARZO DE 2009)</small>
 
-I. Captar diariamente la información del ingreso y del egreso efectuada y contabilizada;
+La Dirección de Planeación y Recursos Financieros informará a la Secretaría Administrativa sobre los fondos financieros invertidos, para tal propósito procederá a:
 
-II. Vincular la contabilidad con la información que registren los movimientos de las cuentas que al efecto se lleven en instituciones de crédito; y
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2009)</small>
 
-III. Establecer y mantener los registros necesarios que provean la información para el análisis económico, financiero y de toma de decisiones.
+I. Llevar acabo la planeación financiera considerando las obligaciones de corto y mediano plazo, atendiendo a los requerimientos de la jefatura de departamento de caja y tesorería;
+
+II. Vincular la contabilidad con la información que registren los movimientos de las cuentas que al efecto se lleven en instituciones de crédito; y (sic)
+
+III. Establecer y mantener los registros necesarios que provean la información para el análisis económico, financiero y de toma de decisiones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 31 DE MARZO DE 2009)</small>
+
+IV. Analizar y comparar los diversos productos de inversión que ofrecen las instituciones financieras, sus rendimientos históricos y estimados de corto y mediano plazo.
+
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2009)</small>
 
 ###### Artículo 76.
 
-La Secretaría Administrativa deberá observar las normas y los procedimientos administrativos que en materia de inversión de fondos y valores establezca el Código Financiero para los Órganos Autónomos.
+La Secretaría Administrativa y la Dirección de Planeación y Recursos Financieros deberán observar las normas y los procedimientos administrativos que en materia de inversión de fondos y valores establezca el Código Financiero para los Órganos Autónomos.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE MARZO DE 2009)</small>
 
 ###### Artículo 77.
 
-La Dirección de Recursos Financieros será responsable de:
+La Dirección de Planeación y Recursos Financieros será responsable de:
 
 I. Dar cumplimiento a los lineamientos, instrucciones y recomendaciones de la Secretaría Administrativa;
 
@@ -646,7 +718,9 @@ I. La Secretaría Administrativa deberá grabar en discos ópticos o en cualquie
 
 II. La Secretaría Administrativa expedirá el manual para grabar en discos ópticos o en cualquier otro medio distinto al impreso en papel, toda la documentación comprobatoria de los actos o actividades que realicen, de los servicios que reciban y de las compras que efectúen, debiendo observar lo siguiente:
 
-a) Al efectuar la grabación, los titulares de la Secretaría Administrativa, de la Dirección de Recursos Financieros y los responsables de la información certificarán que los documentos grabados correspondan a los originales existentes en el archivo;
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2009)</small>
+
+a) Al efectuar la grabación, los titulares de la Secretaría Administrativa, de la Dirección de Planeación y Recursos Financieros y los responsables de la información certificarán que los documentos grabados correspondan a los originales existentes en el archivo;
 
 b) Grabar los documentos debiendo guardarlos, tanto los expedidos como los recibidos, por meses, en conjunto de documentos afines, clasificados por cuentas y subcuentas, conforme dieron origen a una póliza, de modo que los totales puedan ser confrontados con los contenidos en los sistemas, registros contables y documentación en archivo;
 
@@ -707,3 +781,11 @@ G.O. 24 DE DICIEMBRE DE 2008.
 PRIMERO.- Las presentes reformas a las Normas Generales de Programación, Presupuesto y Contabilidad del Tribunal Electoral del Distrito Federal entrarán en vigor al día siguiente de su publicación en los estrados del Tribunal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados y en el sitio de Internet del Tribunal.
+
+G.O. 31 DE MARZO DE 2009.
+
+PRIMERO.- Las presentes reformas a las Normas Generales de Programación, Presupuesto y Contabilidad del Tribunal Electoral del Distrito Federal entrarán en vigor al día siguiente de su publicación en los estrados del Tribunal.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a las presentes reformas.
+
+TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados y en el sitio de Internet del Tribunal.
