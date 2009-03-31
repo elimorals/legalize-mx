@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2007-12-31"
+last_updated: "2009-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -1231,9 +1231,9 @@ XXIII. Nombrar representantes del Estado para los negocios en los que éste teng
 
 XXIV. Cuidar de los distintos ramos de la administración, procurando que los caudales públicos estén siempre asegurados y se recauden e inviertan con arreglo a las Leyes;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2009)</small>
 
-XXV. Concurrir ante el H. Congreso el día primero de abril de cada año, para dar cuenta del estado que guardan los diversos ramos de la Administración Pública, excepto el último año del Ejercicio Constitucional, en el cual el informe se rendirá el día primero de marzo. Cuando por causas de fuerza mayor, no fuera posible rendirlo en éstas fechas, el H. Congreso expedirá el correspondiente Decreto, fijando día y hora para este acto;
+XXV. Presentar un informe por escrito al Congreso del Estado, el día primero de abril de cada año, para dar cuenta del estado que guardan los diversos ramos de la Administración Pública. El último año del Ejercicio Constitucional, el informe se enviará el primero de marzo. Cuando por causas de fuerza mayor, no fuera posible enviarlo en estas fechas, el Congreso expedirá el correspondiente Decreto, fijando el día para su presentación;
 
 > <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -1505,7 +1505,7 @@ Solo podrán ser removidos en los términos previstos por esta Constitución; po
 
 ###### Artículo 93.
 
-Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y Jueces del Fuero Común, en un Tribunal Fiscal Administrativo y en un Tribunal Electoral, en los términos de ésta Constitución y su Ley Orgánica.
+Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y Jueces del Fuero Común, en un Tribunal Fiscal Administrativo y en un Tribunal Electoral, en los términos de esta Constitución y su Ley Orgánica.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 1998)</small>
 
@@ -3066,3 +3066,7 @@ PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su Publ
 SEGUNDO.- Las adecuaciones legales reglamentarias pertinentes derivadas del presente Decreto, se llevarán dentro de los treinta días hábiles siguientes a la entrada en vigor del mismo.
 
 TERCERO.- La revisión de las Cuentas Públicas correspondientes al ejercicio fiscal 2007, deberán concluir en el año 2009.
+
+P.O. 31 DE MARZO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente, al de su Publicación en el Periódico Oficial del Estado.
