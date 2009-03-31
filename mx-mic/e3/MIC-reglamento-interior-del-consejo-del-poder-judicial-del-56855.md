@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-del-consejo-del-poder-judicial-del-56855"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-08-20"
-last_updated: "2007-08-20"
+last_updated: "2009-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DEL CONSEJO DEL PODER JUDICIAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2009.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Michoacán, el lunes 20 de agosto de 2007.
 
@@ -531,6 +531,24 @@ El Reglamento del Instituto de la Judicatura que expida el Consejo, determinará
 
 La Contraloría Interna auxiliará al Consejo en las funciones de vigilancia, control y evaluación administrativa del Poder Judicial. Además, llevará el registro y seguimiento de la situación patrimonial de los servidores públicos. Asimismo, vigilará que la administración del presupuesto del Poder Judicial sea eficaz, honesta y apegada a la normatividad aplicable, e informará al Consejo, por conducto del Presidente, del resultado de las auditorías y revisiones que practique.
 
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2009)</small>
+
+Artículo 51 bis.- El Contralor, cuando derivado del ejercicio de sus funciones, presuma la existencia de responsabilidad de los servidores públicos del Poder Judicial por no haberse rendido en tiempo y forma las declaraciones patrimoniales, lo informará a la Comisión de Administración a fin de que ésta determine si inicia o no procedimiento administrativo.
+
+Si la Comisión considera que existen elementos suficientes, lo hará del conocimiento del Contralor Interno, para que éste inicie la instrucción conforme a lo siguiente:
+
+a) Recibido el comunicado de la Comisión ordenando la instauración del procedimiento, el Contralor hará el registro en su oficina y procederá a ordenar que se emplace al servidor público, a través de su superior jerárquico, y si es el titular, por medio del órgano jurisdiccional más cercano a aquel en que desempeñe sus labores o área administrativa de su adscripción.
+
+Para tal efecto, el Contralor estará asistido de un Secretario Auxiliar, quien autentificará con su firma las actuaciones;
+
+b) En la notificación se citará al presunto responsable a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, el día y hora en que tendrá verificativo dicha audiencia, así como sus derechos tanto a ofrecer como a desahogar pruebas y a alegar, por sí o por medio de su defensor, lo que a sus intereses convenga. Si el servidor público es de base, podrá estar presente el representante sindical;
+
+c) Entre la fecha de la citación y la audiencia, deberá mediar un plazo no menor de cinco días ni mayor de quince días hábiles;
+
+d) Concluida la audiencia y no habiendo pruebas pendientes por desahogar, el procedimiento quedará en estado de resolución, y el Contralor enviará los autos a la Presidencia de la Comisión de Administración quien, por razón de turno, ordenará su remisión a la ponencia respectiva para que dentro de los quince días hábiles siguientes elabore el proyecto de resolución, hecho lo cual, se someterá a la consideración del Pleno del Consejo para discusión y, en su caso, aprobación; y,
+
+e) Resuelto el procedimiento, la Contraloría deberá estar atenta a la determinación del Pleno del Consejo en cuanto a la imposición de sanciones, para dar cumplimiento a la obligación a que se refiere el primer párrafo del artículo 51.
+
 ###### Artículo 52.
 
 Cuando el Contralor reciba, por conducto del Presidente del Consejo, la orden para la práctica de revisiones o auditorías a los órganos o dependencias del Poder Judicial, se sujetará al objeto materia de la misma, lugar en donde debe practicarse, los periodos que abarcará y los bienes y documentos que deben ser examinados. Para tal fin, dispondrá del personal profesional que le sea autorizado por la Comisión de Administración, a quienes podrá comisionar, mediante oficio, para cumplir con la encomienda.
@@ -576,3 +594,11 @@ Artículo Tercero. Lo no previsto en este Reglamento será normado mediante acue
 Artículo Cuarto. Los reglamentos de las Comisiones Permanentes de igual manera serán publicados para su observancia general.
 
 El Licenciado FLORENTINO ESPINOZA LÓPEZ, Secretario Ejecutivo del Consejo del Poder Judicial del Estado, CERTIFICA: Que este Reglamento Interior que tiene por objeto regular la organización y funcionamiento del Consejo para la administración, vigilancia y disciplina del Poder Judicial del Estado, fue aprobado en sesión del 8 ocho de agosto del 2007 dos mil siete, por unanimidad de votos de los Consejeros: Magistrado Presidente M. en D. Fernando Arreola Vega, Lic. María de los Ángeles Ruciles Gracián, Lic. Margarita Leal Torrez, Lic. Marco Antonio Flores Negrete y Lic. J. Jesús Sierra Arias. Morelia, Michoacán, a 17 diecisiete de agosto del 2007 dos mil siete.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 31 DE MARZO DE 2009.
+
+PRIMERO. Publíquese la presente adición en el Periódico Oficial del Estado y en el Sistema Morelos de Informática Judicial.
+
+SEGUNDO. La presente adición entrará en vigor al día siguiente hábil de su publicación en el Periódico Oficial del Estado.
