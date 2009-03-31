@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-finanzas-51391"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-07-05"
-last_updated: "2008-06-03"
+last_updated: "2009-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE JUNIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE MARZO DE 2009.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 5 de julio de 2006.
 
@@ -47,9 +47,11 @@ El presente Reglamento tiene por objeto regular la organización y el funcionami
 
 Cuando en el presente Reglamento se haga referencia a la Secretaría, se entenderá a la Secretaría de Finanzas y por Secretario, al Secretario de Finanzas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE MARZO DE 2009)</small>
+
 ###### Artículo 3.
 
-Para el despacho de los asuntos de su competencia, la Secretaría contará con un Secretario del Despacho, quien se auxiliará de las unidades administrativas básicas siguientes:
+Para el despacho de los asuntos de su competencia, la Secretaría contará con un Secretario del Despacho, quien se auxiliará de las unidades administrativas siguientes:
 
 I. Subsecretaría de Ingresos.
 
@@ -105,6 +107,10 @@ XXV. Coordinación Administrativa.
 
 XXVI. Coordinación de Gestión Gubernamental.
 
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2009)</small>
+
+XXVII. Instituto de Profesionalización de los Servidores Públicos del Poder Ejecutivo del Gobierno del Estado de México, órgano desconcentrado.
+
 > <small>(REFORMADO, G.G. 3 DE JUNIO DE 2008)</small>
 
 La Secretaría se auxiliará además, de las unidades administrativas necesarias para implementar programas prioritarios, así como Centros de Servicios Fiscales y Módulos de Atención al Contribuyente, cuyas jurisdicciones se establecen en el presente Reglamento, y las demás unidades administrativas y servidores públicos necesarios para el cumplimiento de sus atribuciones, conforme a su estructura autorizada y normatividad aplicable.
@@ -131,11 +137,11 @@ VI. Los titulares de los Centros de Servicios Fiscales y de los Módulos de Aten
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES DEL SECRETARIO
 
-> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2009)</small>
 
 ###### Artículo 5.
 
-La Secretaría, Subsecretarías, Procuraduría Fiscal, Direcciones Generales, Unidad de Apoyo a la Administración General, Coordinación Administrativa, Coordinación de Gestión Gubernamental y demás unidades administrativas que integran esta dependencia, conducirán sus actividades en forma coordinada y con sujeción a los objetivos, estrategias y prioridades del Plan de Desarrollo del Estado de México y de los planes y programas regionales, metropolitanos, sectoriales y especiales a cargo de la Secretaría.
+La Secretaría, Subsecretarías, Procuraduría Fiscal, Direcciones Generales, Unidad de Apoyo a la Administración General, Coordinación Administrativa, Coordinación de Gestión Gubernamental, demás unidades administrativas y el órgano desconcentrado, que integran esta dependencia, conducirán sus actividades en forma coordinada y con sujeción a los objetivos, estrategias y prioridades del Plan de Desarrollo del Estado de México y de los planes y programas regionales, metropolitanos, sectoriales y especiales a cargo de la Secretaría.
 
 ###### Artículo 6.
 
@@ -439,17 +445,17 @@ A) Centro de Servicios Fiscales de Ecatepec:
 
 2. Ecatepec de Morelos
 
-A.1 Módulo de Atención al Contribuyente Otumba:
+A.1. Módulo de Atención al Contribuyente Otumba:
 
 1. Axapusco
 
-2, Nopaltepec
+2. Nopaltepec
 
 3. Otumba
 
 4. San Martín de las Pirámides
 
-A.2 Módulo de Atención al Contribuyente Tecámac:
+A.2. Módulo de Atención al Contribuyente Tecámac:
 
 1. Tecámac
 
@@ -485,7 +491,7 @@ A) Centro de Servicios Fiscales de Naucalpan:
 
 1. Naucalpan de Juárez
 
-A.1 Módulo de Atención al Contribuyente Ciudad Satélite
+A.1. Módulo de Atención al Contribuyente Ciudad Satélite
 
 1. Naucalpan de Juárez
 
@@ -621,7 +627,7 @@ A). Centro de Servicios Fiscales de Atlacomulco:
 
 6. Temascalcingo
 
-A.1 Módulo de Atención al Contribuyente Ixtlahuaca:
+A.1. Módulo de Atención al Contribuyente Ixtlahuaca:
 
 1. Ixtlahuaca
 
@@ -631,7 +637,7 @@ A.1 Módulo de Atención al Contribuyente Ixtlahuaca:
 
 4. Morelos
 
-A.2 Módulo de Atención al Contribuyente Jilotepec:
+A.2. Módulo de Atención al Contribuyente Jilotepec:
 
 1. Aculco
 
@@ -657,7 +663,7 @@ B). Centro de Servicios Fiscales de Lerma:
 
 5. Xonacatlán
 
-B.1 Módulo de Atención al Contribuyente Tenango del Valle:
+B.1. Módulo de Atención al Contribuyente Tenango del Valle:
 
 1. Calimaya
 
@@ -673,7 +679,7 @@ B.1 Módulo de Atención al Contribuyente Tenango del Valle:
 
 7. Tenango del Valle
 
-B.2 Módulo de Atención al Contribuyente Ixtapan de la Sal
+B.2. Módulo de Atención al Contribuyente Ixtapan de la Sal
 
 1. Coatepec Harinas
 
@@ -695,7 +701,7 @@ B.3. Módulo de Atención al Contribuyente Santiago Tianguistenco
 
 6. Xalatlaco
 
-B.4 Módulo de Atención al Contribuyente Tenancingo
+B.4. Módulo de Atención al Contribuyente Tenancingo
 
 1. Malinalco
 
@@ -1647,7 +1653,9 @@ VII. Autorizar la creación de plazas de personal que soliciten las dependencias
 
 VIII. Autorizar de conformidad con la normatividad aplicable, las promociones, la ocupación de plazas de personal y demás movimientos a que se refieren los ordenamientos legales y conforme a los lineamientos que en su caso establezca el Secretario.
 
-IX. Impulsar la capacitación y desarrollo del personal al Servicio del Gobierno del Estado.
+> <small>(REFORMADA, G.G. 31 DE MARZO DE 2009)</small>
+
+IX. Validar los objetivos, normas y políticas concernientes a los programas y estrategias de capacitación, desarrollo y evaluación del desempeño de los servidores públicos del Poder Ejecutivo Estatal, previa autorización del Subsecretario de Administración.
 
 X. Autorizar los contratos por honorarios asimilables al salario, lista de raya y eventuales que requieran las dependencias, Procuraduría General de Justicia, unidades administrativas y tribunales administrativos de carácter estatal, conforme a los lineamientos que en su caso establezca el Secretario.
 
@@ -1675,6 +1683,10 @@ IV. Dirección General del Sistema Estatal de Informática.
 
 V. Coordinación de Servicios Aéreos.
 
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2009)</small>
+
+VI. Instituto de Profesionalización.
+
 ### CAPÍTULO III. DE LA DIRECCIÓN GENERAL DE RECURSOS MATERIALES
 
 ###### Artículo 31.
@@ -1695,7 +1707,9 @@ VI. Elaborar y someter a la consideración del Subsecretario de Administración,
 
 VII. Aplicar las disposiciones que norman la remuneración y prestaciones que deban otorgarse a los servidores públicos del Poder Ejecutivo del Gobierno del Estado, en concordancia con las estructuras orgánico funcionales y los catálogos de puestos aprobados.
 
-VIII. Aplicar las disposiciones legales en materia de reclutamiento, selección, inducción, capacitación, evaluación del desempeño y promoción escalafonaria de los servidores públicos con funciones operativas del sector central de la administración pública estatal, a través del Instituto de Profesionalización.
+> <small>(REFORMADA, G.G. 31 DE MARZO DE 2009)</small>
+
+VIII. Ejecutar las acciones relativas al reclutamiento, selección, inducción, promoción escalafonaria y evaluación del desempeño de los servidores públicos con funciones operativas del Poder Ejecutivo del Estado, con base en las disposiciones legales aplicables.
 
 IX. Proporcionar a los servidores públicos del sector central de la administración pública estatal y al personal de los tribunales administrativos, documentos para su identificación y constancias.
 
@@ -1717,13 +1731,23 @@ XVII. Registrar, procesar y validar los movimientos centralizados de los servido
 
 XVIII. Autorizar los finiquitos a que tengan derecho los servidores públicos de las dependencias del Poder Ejecutivo, conforme a lo dispuesto por la legislación aplicable.
 
-XIX. Promover la coordinación de acciones entre las unidades administrativas encargadas de la ejecución de proyectos de profesionalización de los servidores públicos del sector central del Poder Ejecutivo Estatal.
+> <small>(REFORMADA, G.G. 31 DE MARZO DE 2009)</small>
+
+XIX. Formular y aplicar las normas, políticas y procedimientos para el reclutamiento, selección, inducción, promoción escalafonaria y evaluación del desempeño de los servidores públicos con funciones operativas en las dependencias del Poder Ejecutivo del Estado y someterlas a la consideración del Subsecretario de Administración.
 
 XX. Fomentar, en coordinación con otras instituciones, actividades de recreación e integración familiar para los servidores públicos del sector central del Poder Ejecutivo del Gobierno del Estado.
 
 XXI. Mantener comunicación permanente con las organizaciones sindicales de los servidores públicos del Poder Ejecutivo del Gobierno del Estado.
 
-XXII. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario y el Subsecretario de Administración.
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2009)</small>
+
+XXII. Evaluar el desempeño de los servidores públicos del Poder Ejecutivo del Estado, con la participación que corresponda a las dependencias de la Administración Pública Estatal e informarles de los resultados que se obtengan al respecto.
+
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2009)</small>
+
+XXIII. Establecer y dar cumplimiento al sistema de ascenso escalafonario, en coordinación con las instancias competentes y en términos de la normatividad aplicable.
+
+XXIV. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario y el Subsecretario de Administración.
 
 ### CAPÍTULO IV
 
@@ -1863,7 +1887,7 @@ XIV. Elaborar criterios y guías para que las dependencias y organismos auxiliar
 
 > <small>(REFORMADO, G.G. 3 DE JUNIO DE 2008)</small>
 
-XV. Elaborar y aprobar, con el concurso de las dependencias sus manuales administrativos, así como aprobar o validar, según sea el caso, los que correspondan a los organismos auxiliares dél Poder Ejecutivo del Gobierno del Estado.
+XV. Elaborar y aprobar, con el concurso de las dependencias sus manuales administrativos, así como aprobar o validar, según sea el caso, los que correspondan a los organismos auxiliares del Poder Ejecutivo del Gobierno del Estado.
 
 XVI. Elaborar y proporcionar los servicios de orientación e información sobre el directorio de servidores públicos, trámites, servicios y oficinas gubernamentales.
 
@@ -1979,7 +2003,7 @@ XV. Las demás que le señalen otros ordenamientos legales y las que le encomien
 
 La Procuraduría Fiscal estará a cargo de un Procurador, quien ejercerá las atribuciones y funciones señaladas en este título, las cuales podrá delegar a los directores de: Consultoría Jurídica y Asistencia Legal, de lo Contencioso, y de Proyectos Legislativos y Estudios Tributarios; subdirectores, jefes de departamento, delegados de asuntos contenciosos, actuarios, notificadores y demás servidores públicos que se requieran para satisfacer las necesidades del servicio, de conformidad con la estructura autorizada y con el presupuesto de egresos respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE JUNIO DE 2008)</small>
 
 ###### Artículo 37.
 
@@ -2077,6 +2101,8 @@ XXII. Las demás que le señalen otros ordenamientos legales y las que le encomi
 
 ### CAPÍTULO ÚNICO. DE LA COORDINACIÓN DE GESTIÓN GUBERNAMENTAL
 
+> <small>(ADICIONADO, G.G. 3 DE JUNIO DE 2008)</small>
+
 ###### Artículo 39.
 
 La Unidad de Apoyo a la Administración General, es la unidad administrativa de la Secretaría, encargada de la realización de las giras de trabajo, audiencias y atención ciudadana del Titular del Ejecutivo del Gobierno del Estado y de los de las dependencias y organismos auxiliares de la administración pública estatal, de coadyuvar en las relaciones diplomáticas del Gobierno del Estado, con agencias y organismos internacionales, y responsable de proveer oportunamente los elementos necesarios que requiera para la realización de sus actividades, así como del manejo de los recursos a su cargo.
@@ -2157,11 +2183,11 @@ XVIII. Conocer y resolver los procedimientos sobre el incumplimiento en que incu
 
 XIX. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JUNIO DE 2008)</small>
 
-## TITULO IX BIS. DE LA COORDINACIÓN DE GESTIÓN GUBERNAMENTAL
+## TÍTULO IX BIS. DE LA COORDINACIÓN DE GESTIÓN GUBERNAMENTAL
 
-> <small>(ADICIONADO, G.G. 3 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JUNIO DE 2008)</small>
 
 ### CAPITULO II. DE LOS PRESUPUESTOS DE EGRESOS
 
@@ -2200,8 +2226,6 @@ X. Realizar estudios e investigaciones para valorar el comportamiento de los pro
 XI. Las demás que le señalen otros ordenamientos legales y las que le encomienden el Titular del Ejecutivo del Gobierno del Estado o el Secretario.
 
 ## TÍTULO X. DE LA SUPLENCIA DE LOS TITULARES
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JUNIO DE 2008)</small>
 
 ### CAPITULO III. DEL EJERCICIO DEL GASTO PUBLICO MUNICIPAL
 
@@ -2257,7 +2281,7 @@ DR. VÍCTOR HUMBERTO BENÍTEZ TREVIÑO
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.G. 7 DE MARZO DE 2007.
 
@@ -2280,6 +2304,14 @@ PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Las reformas, adiciones y derogaciones contenidas en el presente Acuerdo, entrarán en vigor al día siguiente de su publicación.
 
 TERCERO.- Las Unidades Administrativas directamente involucradas en las reformas, adiciones y derogaciones en el presente Acuerdo, deberán realizar las acciones y en su caso los trámites administrativos correspondientes para adecuar el Manual de Organización, dentro de los 120 días a partir de su publicación.
+
+G.G. 31 DE MARZO DE 2009.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que sean contrarias a las establecidas en el presente Acuerdo.
 
 ###### ARTICULO 45.
 
