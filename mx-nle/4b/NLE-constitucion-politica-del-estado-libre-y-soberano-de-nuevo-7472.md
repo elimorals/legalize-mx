@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2009-03-23"
+last_updated: "2009-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -333,9 +333,11 @@ I.- El Gobernador del Estado.
 
 II.- El Secretario de Gobierno y los otros Secretarios del Despacho del Ejecutivo.
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-III.- Los Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo, los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Magistrados del Tribunal Electoral del Estado, el Presidente de la Comisión Estatal de Derechos Humanos, los Consejeros de la Judicatura del Estado, los Comisionados de la Comisión de Acceso a la Información Pública y el Procurador General de Justicia;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2009)</small>
+
+III.- Los Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo, los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Magistrados del Tribunal Electoral del Estado, el Presidente de la Comisión Estatal de Derechos Humanos, los Consejeros de la Judicatura del Estado, los Comisionados de la Comisión de Transparencia y Acceso a la Información y el Procurador General de Justicia;
 
 > <small>(REFORMADA, P.O. 1o. DE FEBRERO DE 1975)</small>
 
@@ -489,6 +491,24 @@ IX.- Examinar y aprobar anualmente, a propuesta del Gobernador, el Presupuesto d
 
 Si terminado un año, por cualquier circunstancia no se hubiere aprobado la Ley de Egresos que deba aplicarse al siguiente ejercicio, mientras no haya aprobación expresa en diverso sentido seguirá vigente la misma del ejercicio que termina.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2009)</small>
+
+Autorizar en la Ley de Egresos del Estado las erogaciones plurianuales para aquellos proyectos de inversión en infraestructura que se determinen conforme a lo dispuesto en la misma Ley. Las erogaciones correspondientes deberán incluirse en las subsecuentes Leyes de Egresos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2009)</small>
+
+Dentro de la Ley de Egresos del Estado, se incluirán las partidas plurianuales necesarias para cumplir con las obligaciones contraídas para obras de infraestructura pública, encontrándose entre ellas las que se realicen bajo la modalidad de Proyecto de Prestación de Servicios.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2009)</small>
+
+La aprobación del establecimiento de compromisos plurianuales deberá hacerse siempre y cuando no se cause perjuicio a la viabilidad financiera del Estado y Municipios ni se modifiquen ramos, programas y proyectos prioritarios.
+
 > <small>(REFORMADA, P.O. 22 DE JULIO DE 2005)</small>
 
 X.- Fijar anualmente, a propuesta del Ejecutivo Estatal o de los Ayuntamientos, las contribuciones y demás ingresos que deberán formar la Hacienda Pública Estatal o Municipal respectivamente, procurando que sean suficientes para cubrir sus necesidades.
@@ -503,17 +523,23 @@ XI.- Dispensar Honores a la memoria de los Nuevoleoneses que hayan prestado serv
 
 XII.- Gestionar la solución de las demandas de los nuevoleoneses.
 
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-XIII.- Fiscalizar, revisar, vigilar, evaluar, aprobar o rechazar en su caso con el apoyo del Órgano de Fiscalización Superior del Estado de Nuevo León, las cuentas públicas del Estado y los municipios, previo informe que envíen el Gobernador y la representación legal de los municipios, respectivamente.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2009)</small>
 
-El Órgano de Fiscalización Superior del Estado de Nuevo León tendrá personalidad jurídica y autonomía financiera, técnica y de gestión.
+XIII. Fiscalizar, revisar, vigilar, evaluar, aprobar o rechazar en su caso con el apoyo de la Auditoría Superior del Estado, las Cuentas Públicas que presenten los Poderes del Estado, los Organismos Autónomos, los organismos descentralizados y desconcentrados y fideicomisos públicos de la administración pública del Estado, los Municipios y sus organismos descentralizados y desconcentrados, con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ajustaron a los criterios señalados en los presupuestos respectivos y verificar el cumplimiento de los objetivos contenidos en los programas, así como fiscalizar a las personas físicas o morales de derecho privado que hayan recibido recursos públicos.
 
-El Congreso del Estado coordinará y evaluará, sin perjuicio de la autonomía financiera, técnica y de gestión, el desempeño de las funciones del Órgano de Fiscalización Superior del Estado de Nuevo León, de acuerdo con la Ley de la Materia.
+La Auditoría Superior del Estado tendrá personalidad jurídica y autonomía financiera, técnica y de gestión.
 
-Para tal efecto deberá expedir la Ley que regule la creación organización y atribuciones del Órgano de Fiscalización Superior del Estado de Nuevo León, y emitir la convocatoria para elegir al Auditor General del Estado, el cual será electo por consenso, a falta de este por las dos terceras partes de los integrantes de la Legislatura, y de no alcanzarse dicha votación, se remitirá de nueva cuenta el dictamen a la Comisión correspondiente para que formule nueva convocatoria.
+El Congreso del Estado coordinará y evaluará, sin perjuicio de la autonomía financiera, técnica y de gestión, el desempeño de las funciones de la Auditoría Superior del Estado, de acuerdo con la Ley de la materia
 
-Si de la revisión practicada por el Órgano de Fiscalización Superior del Estado de Nuevo León, aparecieran discrepancias entre los ingresos o egresos o no existiera exactitud o justificación entre los ingresos o gastos realizados, se fincarán las responsabilidades de conformidad con las disposiciones aplicables.
+Para tal efecto, deberá expedir la Ley que regule la creación, organización y atribuciones de la Auditoría Superior del Estado, y emitir la convocatoria para elegir al Auditor General del Estado, el cual será electo por consenso, a falta de éste por las dos terceras partes de los integrantes de la Legislatura, y de no alcanzarse dicha votación, se remitirá de nueva cuenta el dictamen a la Comisión correspondiente para que formule nueva convocatoria.
+
+Si de la revisión practicada por la Auditoría Superior del Estado, aparecieran discrepancias entre los ingresos o egresos o no existiera exactitud o justificación entre los ingresos o gastos realizados, se fincarán las responsabilidades de conformidad con las disposiciones aplicables.
+
+El Congreso del Estado concluirá la revisión de las Cuentas Públicas a más tardar en los dos periodos ordinarios de sesiones siguientes a la fecha de recepción del Informe de Resultado correspondiente con base en el análisis de su contenido y en las conclusiones técnicas del informe de resultados emitido por la Auditoría Superior del Estado, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoría Superior del Estado seguirán su cursos en los términos de las Leyes aplicables.
+
+El Informe de Resultados de la revisión de la Cuenta Pública que rinda la Auditoría Superior del Estado, será de carácter público a partir de su presentación al Congreso del Estado así como los dictámenes de aprobación o rechazo.
 
 XIV.- Promover e impulsar la educación pública y el engrandecimiento de todos los ramos de prosperidad en general.
 
@@ -521,13 +547,17 @@ XIV.- Promover e impulsar la educación pública y el engrandecimiento de todos 
 
 XV.- Expedir el Bando Solemne para dar a conocer en todo el Estado la declaración de Gobernador Electo, que hubiere hecho la autoridad electoral correspondiente.
 
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-XVI.- Recibir del Gobernador, Diputados, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal de lo Contencioso Administrativo, Procurador General de Justicia, Consejeros de la Judicatura del Estado, Presidente de la Comisión Estatal de Derechos Humanos, Comisionados de la Comisión de Acceso a la Información Pública, Comisionados Ciudadanos de la Comisión Estatal Electoral, Auditor General del Estado y, Magistrados del Tribunal Electoral del Estado en su caso, la protesta de guardar y hacer guardar la Constitución Federal, la particular del Estado y las leyes que de ambas emanen.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+XVI.- Recibir del Gobernador, Diputados, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal de lo Contencioso Administrativo, Procurador General de Justicia, Consejeros de la Judicatura del Estado, Presidente de la Comisión Estatal de Derechos Humanos, Comisionados de la Comisión de Transparencia y Acceso a la Información, Comisionados Ciudadanos de la Comisión Estatal Electoral, Auditor General del Estado y, Magistrados del Tribunal Electoral del Estado en su caso, la protesta de guardar y hacer guardar la Constitución Federal, la particular del Estado y las Leyes que de ambas emanen.
 
-XVII.- Aceptar las renuncias del Gobernador, Diputados, Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo, Consejeros de la Judicatura del Estado, Comisionados Ciudadanos de la Comisión Estatal Electoral, Magistrados del Tribunal Electoral del Estado, Auditor General del Estado y Presidente de la Comisión Estatal de Derechos Humanos, cuando se funden en una imposibilidad justificada.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2009)</small>
+
+XVII.- Aceptar las renuncias del Gobernador, Diputados, Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo, Consejeros de la Judicatura del Estado, Comisionados Ciudadanos de la Comisión Estatal Electoral, Magistrados del Tribunal Electoral del Estado, Auditor General del Estado, Comisionados de la Comisión de Transparencia y Acceso a la Información, y Presidente de la Comisión Estatal de Derechos Humanos, cuando se funden en una imposibilidad justificada.
 
 XVIII.- Facultar al Ejecutivo para que celebre arreglos amistosos relativos a límites del Estado; aprobar éstos en su caso, y pedir al Congreso de la Unión su aprobación.
 
@@ -655,13 +685,31 @@ XLVII.- Remover a los Magistrados y Consejeros de la Judicatura del Estado cuand
 
 XLVIII.- Recibir del Tribunal Superior de Justicia y del Consejo de la Judicatura del Estado informe estadístico trimestral del Poder Judicial del Estado.
 
-> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-XLIX.- Aprobar o no la asociación de Municipios del Estado de Nuevo León con los de otros Estados, para coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les corresponden; y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2009)</small>
 
-> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 1998)</small>
+XLIX.- Aprobar o no la asociación de Municipios del Estado de Nuevo León con los de otros Estados, para coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les corresponden.
 
-L.- Ejercer las demás facultades que le otorgan esta Constitución y las Leyes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2009)</small>
+
+L.- Expedir Leyes en materia de revisión y fiscalización de la Cuenta Pública, evaluación del cumplimiento de los objetivos de los programas, indicadores de evaluación y desempeño, transparencia de la fiscalización, imposición de sanciones y verificación de su cumplimiento. Así como de la contabilidad gubernamental que regirá el control, la contabilidad pública y la presentación homogénea de información financiera, de ingresos y egresos, así como patrimonial, incluyendo deuda y pasivos contingentes, de todos los sujetos de fiscalización en relación a los recursos públicos propios y los que les sean transferidos o asignados de acuerdo con los criterios que establezca la Ley, a fin de garantizar su armonización y la generación de indicadores de gestión y desempeño.
+
+El Congreso del Estado establecerá los lineamientos para la operación de contralorías sociales como auxiliares del Congreso y de la Auditoría Superior del Estado, facilitando la participación de la ciudadanía en la denuncia, fiscalización y la evaluación del uso de los recursos públicos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2009)</small>
+
+LI.- Dictar los lineamientos generales de las instancias técnicas para la evaluación del uso de recursos, estatales y municipales aplicables a todos los sujetos de fiscalización por parte del Congreso del Estado. Estas funciones de evaluación serán ejercidas por la Auditoría Superior del Estado, sin perjuicio de que los sujetos de fiscalización establezcan sus propias Instancias de evaluación; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2009)</small>
+
+LII.- Ejercer las demás facultades que le otorguen esta Constitución y las Leyes.
 
 ###### Art. 64.
 
@@ -845,9 +893,11 @@ I.- Ser ciudadano mexicano por nacimiento, nativo del Estado o con vecindad en e
 
 II.- Tener cuando menos treinta años cumplidos el día de la elección.
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-III.- No desempeñar el cargo de Secretario del Despacho del Ejecutivo, Magistrado del Tribunal Superior de Justicia o del Tribunal de lo Contencioso Administrativo, Consejero de la Judicatura del Estado, Procurador General de Justicia, Presidente de la Comisión Estatal de Derechos Humanos, Comisionado Ciudadano de la Comisión Estatal Electoral, Magistrado del Tribunal Electoral del Estado, Comisionado de la Comisión de Acceso a la Información Pública, Servidor Público o Militar en servicio activo.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2009)</small>
+
+III.- No desempeñar el cargo de Secretario del Despacho del Ejecutivo, Magistrado del Tribunal Superior de Justicia o del Tribunal de lo Contencioso Administrativo, Consejero de la Judicatura del Estado, Procurador General de Justicia, Presidente de la Comisión Estatal de Derechos Humanos, Comisionado Ciudadano de la Comisión Estatal Electoral, Magistrado del Tribunal Electoral del Estado, Comisionado de la Comisión de Transparencia y Acceso a la Información, Servidor Público o Militar en servicio activo.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
@@ -889,9 +939,11 @@ III.- Nombrar y remover libremente a los titulares de las Dependencias que integ
 
 IV.- Auxiliar a los Tribunales del Estado para que la justicia se administre en forma pronta y expedita y para que se ejecuten las sentencias, prestando a aquéllos el apoyo que necesiten para el mejor ejercicio de sus funciones.
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-V.- Ejercer el Presupuesto de Egresos aprobado por el Congreso del Estado; previa Ley o Decreto del Congreso contratar créditos con las limitaciones que establece esta Constitución; garantizar las obligaciones que contraigan las Entidades Paraestatales y los Ayuntamientos del Estado, y descontar efectos de comercio que obren en la cartera de la Hacienda Pública. El Titular del Ejecutivo Estatal dará cuenta anualmente al Congreso del Estado de los términos en que ejerza las atribuciones anteriores.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2009)</small>
+
+V.- Ejercer el presupuesto asignado al Ejecutivo aprobado por el Congreso con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos del Estado a los que están destinados; contratar créditos previa Ley o Decreto del Congreso del Estado con las limitaciones que establece esta Constitución y las Leyes; garantizar las obligaciones que contraigan las entidades paraestatales y los Ayuntamientos del Estado. El titular del Ejecutivo dará cuenta al Congreso del Estado de los términos en que ejerza las atribuciones anteriores.
 
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2000)</small>
 
@@ -1437,11 +1489,13 @@ La Ley determinará los casos y las circunstancias en los que se deba sancionar 
 
 Se concede acción popular para formular denuncias ante el Congreso del Estado, respecto de las conductas a que se refiere el artículo que antecede, debiendo presentarse por escrito y fundarse con elementos de prueba que hagan presumir la ilicitud de la conducta del servidor público.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2009)</small>
 
 ###### Art. 110.
 
-Podrán ser sujetos a Juicio Político los Diputados al Congreso del Estado, Los (sic) Comisionados Ciudadanos de la Comisión Estatal Electoral, Los (sic) Comisionados de la Comisión de Acceso a la Información Pública, los Magistrados del Tribunal Electoral del Estado, los Magistrados del Tribunal Superior de Justicia, el Presidente de la Comisión Estatal de Derechos Humanos, el Auditor General del Estado, los Consejeros de la Judicatura del Estado, los Magistrados del Tribunal de lo Contencioso Administrativo, los Jueces, el Procurador General de Justicia, los Secretarios del Despacho del Ejecutivo, los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal Mayoritaria, Sociedades y Asociaciones Asimiladas a éstas y Fideicomisos Públicos; así como los Presidentes Municipales, Regidores y Síndicos.
+Podrán ser sujetos a Juicio Político los Diputados al Congreso del Estado, los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Comisionados de la Comisión de Transparencia y Acceso a la Información, los Magistrados del Tribunal Electoral del Estado, los Magistrados del Tribunal Superior de Justicia, el Presidente de la Comisión Estatal de Derechos Humanos, los Consejeros de la Judicatura del Estado, los Magistrados del Tribunal de lo Contencioso Administrativo, los Jueces, el Procurador General de Justicia, los Secretarios del Despacho del Ejecutivo, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos; así como los Presidentes Municipales, Regidores y Síndicos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 2003)</small>
 
@@ -1457,11 +1511,13 @@ Las declaraciones y resoluciones tanto del Congreso como del Tribunal Superior d
 
 Las sanciones consistirán en la destitución del servidor público y en su caso la inhabilitación temporal para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 2009)</small>
 
 ###### Art. 112.
 
-Para proceder penalmente contra el Gobernador del Estado, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, el Presidente de la Comisión Estatal de Derechos Humanos, los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Magistrados del Tribunal Electoral del Estado, los Comisionados de la Comisión de Acceso a la Información Pública, los Consejeros de la Judicatura, el Procurador General de Justicia, los Magistrados del Tribunal de lo Contencioso Administrativo, los Secretarios del Despacho del Ejecutivo, así como los Presidentes Municipales, Regidores y Síndicos por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría absoluta de sus integrantes y previa audiencia del indiciado, si ha o no lugar a proceder contra él.
+Para proceder penalmente contra el Gobernador del Estado, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, el Presidente de la Comisión Estatal de Derechos Humanos, los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Magistrados del Tribunal Electoral del Estado, los Comisionados de la Comisión de Transparencia y Acceso a la Información, el Auditor General del Estado, los Consejeros de la Judicatura, el Procurador General de Justicia, los Magistrados del Tribunal de lo Contencioso Administrativo, los Secretarios del Despacho del Ejecutivo, así como los Presidentes Municipales, Regidores y Síndicos por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría absoluta de sus integrantes y previa audiencia del indiciado, si ha o no lugar a proceder en contra de él.
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2003)</small>
 
@@ -1631,9 +1687,11 @@ Los Ayuntamientos, en los primeros días del mes de Noviembre de cada año, pres
 
 Los recursos que integran la Hacienda Municipal serán ejercidos en forma directa por las administraciones públicas municipales.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-Los presupuestos de egresos de los municipios serán aprobados por los Ayuntamientos con base en sus ingresos disponibles.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2009)</small>
+
+Los Presupuestos de Egresos de los Municipios serán aprobados por los Ayuntamientos con base en sus ingresos disponibles. Asimismo, podrán autorizar en dichos presupuestos, las erogaciones plurianuales para aquellos proyectos de inversión en infraestructura que se determinen por el propio Ayuntamiento, encontrándose entre ellas las que se realicen bajo la modalidad de Proyecto de Prestación de Servicios, las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos. Los recursos de la Hacienda Municipal serán ejercidos en forma directa por los Gobiernos Municipales; el ejercicio de los recursos se hará con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
 
@@ -1747,55 +1805,119 @@ De la Hacienda Pública del Estado.
 
 El Patrimonio del Estado se compone de todos los bienes y derechos que éste haya adquirido y adquiera por cualquier título, incluyendo sin limitación: las aguas que no siendo federales tampoco pertenezcan a particulares; las herencias y bienes vacantes, los créditos que tenga a su favor, sus propias rentas, los derechos sobre el patrimonio neto de los organismos descentralizados y empresas de participación estatal, sin perjuicio de los derechos de terceros, las obras públicas hechas con fondos estatales mientras no sean transferidas a otras entidades, las contribuciones que decrete el legislativo y de los demás ingresos que determinen las leyes fiscales o que se generen en su favor por cualquier causa legal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE ABRIL DE 2009)</small>
+
 ###### Art. 134.
 
-(DEROGADO, P.O. 16 DE OCTUBRE DE 2000)
+Será responsable de la Hacienda Pública del Estado, el Secretario de Finanzas y Tesorero General del Estado.
 
-> <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
+No podrá recaudar ninguna cantidad por concepto de impuestos o contribuciones que no estén basadas en una Ley o Decreto emanados del Congreso y sancionados por el Ejecutivo.
+
+No se efectuará ningún egreso que no esté previamente autorizado por Ley o Decreto del Congreso.
+
+El año fiscal correrá del primero de enero al 31 de diciembre.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2009)</small>
 
 ###### Art. 135.
 
-Será Jefe de la Hacienda Pública del Estado, el Secretario de Finanzas y Tesorero General del Estado.
+Una Ley determinará la organización y funcionamiento de todas las Oficinas de Hacienda en el Estado.
 
-No podrá recaudar ninguna cantidad por concepto de impuestos o contribuciones que no estén basados en la ley emanada del Congreso y sancionada por el Ejecutivo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2000)</small>
-
-No se efectuará ningún egreso que no este previamente autorizado por Ley o Decreto del Congreso.
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2009)</small>
 
 ## TITULO X.
+
+De la Fiscalización Superior del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO Y REUBICADO, P.O. 1 DE ABRIL DE 2009)</small>
+
+###### Art. 136.
+
+La Auditoría Superior del Estado es un órgano auxiliar del Congreso en la facultad de fiscalización sobre las cuentas públicas presentadas por los sujetos de fiscalización a los que se refiere el Artículo 63 fracción XIII de esta Constitución.
+
+Para tales efectos, la Auditoría Superior del Estado tendrá personalidad jurídica, patrimonio propio y autonomía financiera, técnica y de gestión. Además podrá decidir sobre su organización interna, funcionamiento y resoluciones. El presupuesto de operación de este órgano no podrá reducirse en términos reales al del ejercicio anterior y podrá definir y ejercer en forma autónoma sus partidas presupuestales, las que serán suficientes para atender adecuadamente el cumplimiento de su función.
+
+La función de fiscalización será ejercida conforme a los principios de posterioridad, anualidad, legalidad, definitividad, universalidad, imparcialidad y confiabilidad.
+
+Sin perjuicio del principio de anualidad, la Auditoría Superior del Estado podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o a la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago, diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas. Las observaciones y recomendaciones que, respectivamente, la Auditoría Superior del Estado emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
+
+Asimismo, sin perjuicio del principio de posterioridad, en las situaciones excepcionales que determine la Ley, derivado de denuncias, podrá requerir a los sujetos fiscalizados que procedan a la revisión, durante el ejercicio fiscal en curso, de los conceptos denunciados y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la Ley, se impondrán las sanciones previstas en la misma. La Auditoría Superior del Estado rendirá un informe específico al Congreso y, en su caso, fincará las responsabilidades correspondientes o promoverá otras responsabilidades ante las autoridades competentes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO Y REUBICADO, P.O. 1 DE ABRIL DE 2009)</small>
+
+###### Art. 137.
+
+La Cuenta Pública del ejercicio fiscal correspondiente deberá ser presentada al Congreso del Estado, a través de la Auditoría Superior del Estado, a más tardar el 31 de marzo del año siguiente.
+
+La Auditoría Superior del Estado entregará el Informe del Resultado de la Revisión de la Cuenta Pública al Congreso del Estado o a la Diputación Permanente dentro de los ciento treinta días hábiles siguientes a los de su presentación, el cual se someterá a la consideración del Pleno y tendrá carácter público.
+
+El Informe del Resultado de la Revisión de la Cuenta Pública deberá contener, como mínimo, una descripción de las auditorías practicadas, especificando su alcance; el dictamen resultado de la revisión relativa al manejo de recursos públicos por parte de los sujetos fiscalizados y de la verificación del desempeño en el cumplimiento de los objetivos de los programas estatales; así como las observaciones que haya efectuado la Auditoría Superior del Estado que incluya las justificaciones y aclaraciones que las entidades hayan presentado al respecto.
+
+De manera previa a la presentación del Informe del Resultado de revisión de la Cuenta Pública, se dará a conocer a los sujetos fiscalizados la parte que les corresponda de los resultados de su revisión, a efecto de que éstos en un plazo de treinta días naturales a partir de su notificación presenten las justificaciones y aclaraciones que correspondan, la Auditoria Superior del Estado comunicará para efecto informativo a los sujetos fiscalizados de aquellas justificaciones y aclaraciones que a juicio de esta resulten solventadas o no.
+
+La Auditoría Superior del Estado deberá guardar reserva de sus actuaciones y observaciones hasta que rinda el Informe del Resultado al Congreso del Estado.
+
+Si de la Revisión practicada por la Auditoría Superior del Estado, aparecieren discrepancias entre los ingresos o egresos, o se advierta cualquier otra irregularidad, procederá directamente a emitir las recomendaciones que estime convenientes, y en su caso, a fincar las responsabilidades administrativas o resarcitorias a que hubiere lugar en términos de la Ley correspondiente.
+
+Anualmente, la Auditoría Superior del Estado deberá entregar al Congreso del Estado en el Informe del Resultado, la situación que guardan las observaciones, recomendaciones y acciones promovidas por ésta.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ABRIL DE 2009)</small>
+
+###### Art. 138.
+
+La Auditoría Superior del Estado tendrá la facultad de fiscalizar directamente:
+
+I.- Los ingresos y egresos y las operaciones que tengan lugar dentro del erario, según los criterios establecidos en las Leyes y demás normatividad aplicable;
+
+II.- Los recursos públicos que se hayan destinado o ejercido por cualquier entidad, persona física o moral, pública o privada, y los transferidos, bajo cualquier título a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las Leyes; y
+
+III.- La situación de los bienes muebles e inmuebles y patrimonial de los sujetos fiscalizados.
+
+Así también la Auditoría Superior del Estado podrá fiscalizar a las personas físicas o morales de derecho privado que hayan sido destinatarias de recursos públicos, e incluso aquellas que hayan sido beneficiadas con incentivos fiscales; y éstas, a su vez, deberán proporcionar información y documentación que solicite la Auditoría Superior del Estado, de conformidad con los procedimientos establecidos en la Ley.
+
+En caso de no cumplir con los requerimientos de la Auditoría Superior del Estado u obstaculizar el proceso de fiscalización, los responsables serán sancionados en los términos que establezca la Ley.
+
+Los sujetos de fiscalización deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos que sean transferidos o asignados; asimismo, tendrán que asegurar su transparencia de acuerdo con los criterios que establezca la Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ABRIL DE 2009)</small>
+
+###### Art. 139.
+
+El Auditor General del Estado será designado mediante convocatoria pública que emitirá el Congreso, por consenso, en su defecto por las dos terceras partes de los integrantes de la Legislatura, de no alcanzarse dicha votación, se realizará nueva convocatoria.
+
+El Auditor General del Estado durará en el cargo ocho años.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO Y REUBICADO, P.O. 1 DE ABRIL DE 2009)</small>
+
+###### Art. 140.
+
+En caso de ausencia absoluta del Auditor General del Estado, el Congreso realizará nuevo nombramiento, siguiendo el proceso señalado en el Artículo anterior.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+(REUBICADO [N. DE E. ANTES TITULO X], P.O. 1 DE ABRIL DE 2009)
+
+## TITULO XI.
 
 Prevenciones Generales.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
-
-###### Art. 136.
-
-(DEROGADO, P.O. 16 DE OCTUBRE DE 2000)
-
-###### Art. 137.
-
-(DEROGADO, P.O. 16 DE OCTUBRE DE 2000)
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1928)</small>
-
-###### Art. 138.
-
-El año fiscal correrá del primero de enero al 31 de diciembre.
-
-###### Art. 139.
-
-Una ley determinará la organización y funcionamiento de todas las Oficinas de Hacienda en el Estado.
-
-###### Art. 140.
-
-(DEROGADO, P.O. 16 DE OCTUBRE DE 2000)
-
-## TITULO XI.
-
-De la Reforma de la Constitución.
-
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2003)</small>
 
 ###### Art. 141.
 
@@ -1833,11 +1955,15 @@ El Gobernador Provisional a que se refieren los dos artículos anteriores ejerce
 
 Si no pudieren cumplirse las prevenciones de los arts. 144 y 145, se estará a lo dispuesto en la fracción V del art. 76 de la Constitución Federal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+(REUBICADO [N. DE E. ANTES TITULO XI], P.O. 1 DE ABRIL DE 2009)
+
 ## TITULO XII.
 
-De la Supremacía e Inviolabilidad de la Constitución.
+De las Reformas de la Constitución.
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2003)</small>
 
 ###### Art. 148.
 
@@ -1861,7 +1987,15 @@ Para las adiciones o reformas a que se refieren los artículos anteriores se gua
 
 Las Leyes a que se refieren los Artículos 45, 63 Fracción XIII, 94, 95 y 118, son Constitucionales y en su reforma guardarán las mismas reglas que en las de cualquier Artículo de la Constitución, pudiendo ser discutidas y votadas en el mismo período en que sean propuestas, si así lo acordare el Congreso.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE JUNIO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+(REUBICADO [N. DE E. ANTES TITULO XII], P.O. 1 DE ABRIL DE 2009)
+
+## TITULO XIII.
+
+De la Supremacía e Inviolabilidad de la Constitución.
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
 
 ###### Art. 153.
 
@@ -2565,13 +2699,13 @@ P.O. 1 DE ENERO DE 1979.
 
 DECRETO NÚMERO 204
 
-UNICO:- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
+UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 1 DE ENERO DE 1979.
 
 DECRETO NÚMERO 205.
 
-UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 P.O. 3 DE ENERO DE 1979.
 
@@ -2595,7 +2729,7 @@ UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicaci�
 
 P.O. 25 DE ENERO DE 1980.
 
-UNICO:- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 30 DE ENERO DE 1980.
 
@@ -3160,3 +3294,11 @@ Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente
 P.O. 23 DE MARZO DE 2009.
 
 ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE ABRIL DE 2009.
+
+Primero.- Este Decreto entrará en vigor a los ciento veinte días naturales siguientes al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El actual Auditor General del Estado permanecerá en su cargo hasta la conclusión del plazo para el cual fue designado.
+
+Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
