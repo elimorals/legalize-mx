@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-prevencion-de-las-adicciones-tratamiento-57205"
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-03"
-last_updated: "2007-10-03"
+last_updated: "2009-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA PREVENCION DE LAS ADICCIONES, TRATAMIENTO, DISMINUCION DE DAÑO Y REINSERCION SOCIAL DE LAS PERSONAS CON ADICCION EN EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 3 de octubre de 2007.
 
@@ -405,7 +405,9 @@ e) Se encuentre en periodo de embarazo, postparto o lactancia.
 
 Lo anterior con la finalidad de tomar las previsiones necesarias para canalizar su adecuada atención médica.
 
-VIII. Obtener el consentimiento por escrito de quienes ejerzan la patria potestad o la tutela, cuando el usuario sea menor de edad o incapaz.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 2009)</small>
+
+VIII.- Obtener el consentimiento por escrito de quienes ejerzan la patria potestad o la tutela, cuando el usuario sea menor de edad o incapaz, salvo que el mismo sea internado por mandato judicial.
 
 Las personas a las que se refiere la presente fracción, sólo serán aceptadas cuando el centro de atención de adictos cuente con programas y espacios adecuados previamente autorizados por la Secretaría.
 
@@ -556,3 +558,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua., Palacio de Gobierno del Estado, a los cuatro días del mes de septiembre del año dos mil siete.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JOSE REYES BAEZA TERRAZAS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO INTERINO. LIC. HECTOR HUMBERTO HERNANDEZ VARELA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE ABRIL DE 2009.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
