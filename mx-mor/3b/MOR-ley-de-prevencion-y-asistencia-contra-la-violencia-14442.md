@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-prevencion-y-asistencia-contra-la-violencia-14442"
 country: "mx"
 rank: "ley"
 publication_date: "1999-01-20"
-last_updated: "1999-01-20"
+last_updated: "2009-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DE PREVENCION Y ASISTENCIA CONTRA LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA FAMILIAR EN EL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 1 DE ABRIL DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 20 de enero de 1999.
 
@@ -576,3 +578,17 @@ SECRETARIO DE BIENESTAR SOCIAL.
 CARLOS JAVIER MARTINEZ LEON.
 
 RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE ABRIL DE 2009.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado,
+
+SEGUNDO.- Se abroga la Ley de Prevención y Asistencia contra la Violencia Intrafamiliar publicada en el Periódico Oficial "Tierra y Libertad" de fecha 20 de enero del año 1999,
+
+TERCERO.- El -Reglamento de la presente ley deberá expedirse dentro de los 90 días hábiles siguientes a la fecha de su publicación.
+
+CUARTO.- La Procuraduría de la Defensa del Menor y la Familia, deberá expedir el Reglamento de Operación del Procedimiento de Mediación como Medio Alternativo en la Resolución de Violencia familiar en un plazo de 60 días naturales.
+
+QUINTO.- Las autoridades municipales, en un plazo no mayor a 60 días contados a partir de la publicación de esta Ley, deberán realizar las reformas legales, así como establecer los lineamientos correspondientes a la recaudación, aplicación y comprobación de los recursos que se originen por motivo de la aplicación de las sanciones económicas derivadas de la presente ley.
