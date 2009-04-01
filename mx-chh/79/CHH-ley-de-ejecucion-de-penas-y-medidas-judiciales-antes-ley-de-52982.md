@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ejecucion-de-penas-y-medidas-judiciales-antes-ley-de-529
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-09"
-last_updated: "2009-02-18"
+last_updated: "2009-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2009.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 9 de diciembre de 2006.
 
@@ -573,15 +573,11 @@ En todos los casos, se remitirá junto con el proveído los datos necesarios par
 
 #### SECCIÓN DÉCIMA PRIMERA. INTERNAMIENTO
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2009)</small>
+
 ###### Artículo 41.
 
-Ejecución de la medida.
-
-Al pronunciarse sobre la imposición de medidas cautelares, el Juez de Garantía podrá decretar el internamiento del imputado en centro de salud u hospital siquiátrico, cuando su estado de salud así lo amerite.
-
-De verificarse lo anterior, se remitirá la resolución a la Secretaría de Fomento Social, a cuyo cargo quedará la ejecución y vigilancia de la medida, en centros u hospitales públicos o privados, tomando en cuenta la elección del imputado o de sus representantes, y de acuerdo con las posibilidades económicas del mismo.
-
-Durante su ejecución, la Secretaría de Fomento Social informará periódicamente sobre la conveniencia de mantener, revisar, sustituir, modificar o cancelar la medida.
+Al pronunciarse sobre la imposición de medidas cautelares, el Juez de Garantía podrá decretar el internamiento del imputado en centro de salud, centro de atención a adictos u hospitales psiquiátricos, cuando su estado de salud así lo amerite. De verificarse lo anterior, se remitirá la resolución a la Secretaría de Fomento Social, a cuyo cargo quedará la ejecución y vigilancia de la medida, en centros u hospitales públicos o privados, tomando en cuenta la elección del imputado o de sus representantes, y de acuerdo con las posibilidades económicas del mismo.
 
 #### SECCIÓN DÉCIMA SEGUNDA. PRISIÓN PREVENTIVA
 
@@ -1916,6 +1912,12 @@ P.O. 13 DE OCTUBRE DE 2007.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 18 DE FEBRERO DE 2009.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE ABRIL DE 2009.
 
 ###### ARTICULO ÚNICO.
 
