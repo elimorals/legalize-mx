@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-penales-del-estado-de-chihuahua-51496"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-08-09"
-last_updated: "2009-02-18"
+last_updated: "2009-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 276/08 II P.O. SE EXPIDE LA DECLARATORIA DE INCORPORACIÓN DEL NUEVO SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. 30 DE JULIO DE 2008, LA CUAL ENTRARÁ EN VIGOR A PARTIR DE LAS CERO HORAS: 1.- EN EL DISTRITO JUDICIAL MORELOS, DEL 1o. DE ENERO DE 2007; 2.- EN EL DISTRITO JUDICIAL BRAVOS, DEL 1o. DE ENERO DE 2008; 3.- EN EL RESTO DE LOS DISTRITOS JUDICIALES DEL ESTADO, DEL 1o. DE JULIO DE 2008.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2009.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado Chihuahua, el miércoles 9 de agosto de 2006.
 
@@ -1663,7 +1663,7 @@ Cuando exista denuncia o querella, de un hecho que la ley señale como delito, s
 
 También se decretará la aprehensión de imputado cuya presencia en una audiencia judicial fuere condición de ésta y que, legalmente citado, no compareciere sin causa justificada, siempre y cuando se reúnan los requisitos previstos en el párrafo anterior, salvo el último de los ahí mencionados.
 
-> <small>(REFORMADO, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 Los agentes policiales que ejecuten una orden judicial de aprehensión informarán al imputado las razones de su detención y lo conducirán sin dilación alguna ante el Juez de Garantía, quien convocará de inmediato a la audiencia de formulación de imputación.
 
@@ -1781,7 +1781,9 @@ IX. La separación inmediata del domicilio, cuando se trate de agresiones a muje
 
 X. La suspensión de derechos, cuando exista riesgo fundado y grave de que el imputado reitere la misma conducta que fue motivo del auto de vinculación a proceso;
 
-XI. Internamiento en centro de salud u hospital psiquiátrico, en los casos en que el estado de salud del imputado así lo amerite; y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2009)</small>
+
+XI. Internamiento en el centro de salud, centro de atención a adictos u hospital psiquiátrico, en los casos en que el estado de salud del imputado así lo amerite; y
 
 XII. La prisión preventiva, a menos que el delito imputado tuviera señalada pena alternativa o no privativa de libertad.
 
@@ -1875,8 +1877,6 @@ El Juez valorará éstos elementos de prueba conforme a las reglas generales est
 
 En todos los casos la autoridad judicial deberá, antes de pronunciarse, convocar a una audiencia para oír a las partes y, en su caso, para recibir directamente la prueba.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2007)</small>
-
 ###### Artículo 175.
 
 Resolución.
@@ -1890,6 +1890,8 @@ II. La enunciación del hecho o hechos que se le atribuyen y su preliminar calif
 III. La indicación de la medida y las razones por las cuales el Juez estima que los presupuestos que la motivan concurren en el caso; y
 
 VI. La fecha en que vence el plazo máximo de vigencia de la medida y demás modalidades para su cumplimiento.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 176.
 
@@ -2541,7 +2543,7 @@ II. Se denuncie que personas extrañas han sido vistas mientras se introducen en
 
 > <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2007)</small>
 
-III. Lo solicite quien habita un domicilio, bajo la creencia de que esta en peligro su seguridad; o
+III. Lo solicite quien habita un domicilio, bajo la creencia de que está en peligro su seguridad; o
 
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2007)</small>
 
@@ -4559,8 +4561,14 @@ T R A N S I T O R I O
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O.18 DE FEBRERO DE 2009.
+P.O. 18 DE FEBRERO DE 2009.
 
 ###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE ABRIL DE 2009.
+
+###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
