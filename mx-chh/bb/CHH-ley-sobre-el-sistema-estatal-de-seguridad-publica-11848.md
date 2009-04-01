@@ -4,7 +4,7 @@ identifier: "CHH-ley-sobre-el-sistema-estatal-de-seguridad-publica-11848"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-27"
-last_updated: "2005-05-25"
+last_updated: "2009-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO NOVENO TRANSITORIO DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, PUBLICADA EN EL P.O. DE 1 DE ABRIL DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de junio de 1998.
 
@@ -1714,3 +1716,41 @@ Los agentes de la policía al Mando del Ministerio Público que se encuentren en
 ###### ARTÍCULO CUARTO.
 
 Los elementos de la Agencia Estatal de Investigación que hubiesen egresado de la Academia Estatal de Policía, deberán cumplir con los programas de profesionalización que precise el Centro de Estudios Penales y Forenses.
+
+P.O. 1 DE ABRIL DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo lo previsto en el siguiente artículo.
+
+###### ARTÍCULO SEGUNDO.
+
+Los perfiles y grados de estudios exigibles a los integrantes de las Instituciones Policiales, de las áreas de Reacción y Prevención; así como de aquellas de Investigación, entrarán en vigor a los tres años contados a partir de la publicación del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Reglamento de la presente Ley se deberá expedir en un término no mayor a ciento ochenta días, contados a partir del día siguiente de la publicación de la misma; en tanto, los protocolos en un término no mayor a ciento ochenta días contados a partir de la entrada en vigor del citado Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+El Estado y los municipios, en sus respectivos ámbitos de competencia, adecuarán sus ordenamientos legales conforme a las disposiciones de esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría de Seguridad Pública Estatal emitirá, en un término no mayor a ciento ochenta días a partir de la entrada en vigor de la presente Ley, el Modelo Policial, los perfiles de los integrantes de las instituciones y el programa de profesionalización.
+
+###### ARTÍCULO SEXTO.
+
+Cuando las funciones o atribuciones de alguna unidad administrativa, establecida con anterioridad a la vigencia de esta Ley, deban ser ejercidas por alguna otra unidad que ella misma cree o cuando se cambie de adscripción, del personal, mobiliario, archivo y, en general, el equipo que aquélla haya utilizado, pasarán a la unidad que previamente se determine dentro del Desarrollo Policial.
+
+###### ARTÍCULO SÉPTIMO.
+
+La homogenización a que se refiere el artículo 80, deberá completarse, a más tardar, seis meses después de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Se autoriza al Ejecutivo del Estado a realizar las transferencias presupuestales que sean necesarias para el cumplimiento de la presente Ley.
+
+###### ARTÍCULO NOVENO.
+
+Se abroga la Ley Sobre el Sistema Estatal de Seguridad Pública y se derogan las demás disposiciones que se opongan a la presente Ley.
