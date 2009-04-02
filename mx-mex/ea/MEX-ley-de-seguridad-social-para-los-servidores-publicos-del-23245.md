@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-social-para-los-servidores-publicos-del-23245"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-03"
-last_updated: "2007-05-29"
+last_updated: "2009-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO : 29 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE ABRIL DE 2009.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 3 de enero de 2002.
 
@@ -98,6 +98,10 @@ VI. Familiares y dependientes económicos del servidor público o del pensionado
 6. Los ascendientes en línea directa mayores de 60 años, siempre que dependan económicamente del servidor público o pensionado o que estén incapacitados física o mentalmente.
 
 7. Los dependientes económicos, siempre y cuando hayan vivido con el servidor público o pensionado, durante los cinco años que precedieron a su fallecimiento.
+
+> <small>(ADICIONADO, G.G. 2 DE ABRIL DE 2009)</small>
+
+8. Las hijas de ambos o de uno de ellos, que se encuentren embarazadas y en situación de ser madre soltera menor de 18 años, únicamente para efectos del artículo 59 de la presente ley.
 
 A las personas a que se refieren las fracciones III, IV, V y VI de este artículo, se les denominará derechohabientes.
 
@@ -687,15 +691,31 @@ XIV. Las demás acciones que determinen el sector salud, la Comisión Auxiliar M
 
 En caso de enfermedad no profesional, los derechohabientes tendrán derecho a recibir las prestaciones de atención médica de diagnóstico, tratamientos médico-quirúrgicos, hospitalización y de rehabilitación que sean necesarios y los medicamentos prescritos conforme a los cuadros básicos.
 
+> <small>(REFORMADO, G.G. 2 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 59.
 
-En caso de embarazo, a las cotizantes o cónyuge del cotizante se les otorgarán las siguientes prestaciones:
+Las prestaciones de maternidad comprenden:
 
-I. Asistencia médica a partir del día en que el Instituto certifique el estado de embarazo y se señale la fecha probable del parto;
+I. Asistencia médica a partir del día en que el Instituto certifique el estado de embarazo y señale la fecha probable del parto;
 
-II. Por prescripción médica, ayuda en especie para la lactancia, hasta por un lapso de seis meses, contemplados a partir del nacimiento;
+II. Por prescripción médica, ayuda en especie para la lactancia, hasta por un lapso de seis meses, contemplados a partir del nacimiento; y
 
 III. Una canastilla de maternidad.
+
+Las prestaciones de maternidad se otorgarán a:
+
+a) La cotizante;
+
+b) La cónyuge del cotizante;
+
+e) Las hijas del cotizante menores de edad solteras que dependan económicamente de éste;
+
+d) Las hijas del cotizante que se encuentren en el supuesto previsto en el numeral 4 de la fracción VI del artículo 5 de la presente ley; y
+
+e) Las hijas del cotizante mayores de edad con discapacidad, que dependan económicamente de éste.
+
+Para que las hijas del cotizante tengan derecho a las prestaciones que establece este artículo, será necesario que durante los seis meses anteriores al parto, se hayan mantenido vigentes sus derechos o los del cotizante del que derive el otorgamiento de estas prestaciones; así como acreditar la dependencia económica en términos del artículo 8 de la presente ley.
 
 ### CAPITULO II. DE LOS RIESGOS DE TRABAJO
 
@@ -867,9 +887,11 @@ El monto total para el financiamiento de pensiones de cada servidor público, es
 
 El sistema solidario de reparto es el régimen que otorga pensiones cuyo beneficio es determinado y su financiamiento y requisitos ajustables, por lo que sus fondos se constituirán en una reserva común y se destinará a cubrir las pensiones a que se hagan acreedores los servidores públicos que cumplan con los requisitos que señala la ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 2 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 86.
 
-Para calcular el monto diario de las pensiones, se determinará el promedio del sueldo sujeto a cotización del sistema solidario de reparto de los últimos 8 meses, siempre que el servidor público haya mantenido durante sus últimos 3 años el mismo nivel y rango. En caso de que el servidor público no cumpliera este supuesto, se promediará el sueldo sujeto a cotización del sistema solidario de reparto de los últimos 3 años, actualizado conforme al reglamento respectivo. En ambos casos el resultado de esta operación, será el sueldo de referencia, y este se multiplicará por la tasa de remplazo, señalada en cada supuesto.
+Para calcular el monto diario de las pensiones se determinará el promedio del sueldo sujeto a cotización del sistema solidario de reparto de los últimos 8 meses, siempre que el servidor público haya mantenido durante los últimos 3 años el mismo nivel y rango. En caso de que el servidor público no cumpliera este supuesto, se promediará el sueldo sujeto a cotización del sistema solidario de reparto de los últimos 3 años, actualizado conforme al reglamento respectivo. En ambos casos el resultado de esta operación será el sueldo de referencia. Si éste es mayor a doce salarios mínimos, se deberá establecer como tope este último monto y se multiplicará por la tasa de reemplazo señalada en cada supuesto de la presente ley.
 
 Para los servidores públicos que tengan ingreso por concepto de horas clase, siempre se tomará el promedio de los últimos 3 años del sueldo sujeto a cotización del sistema solidario de reparto, actualizado conforme al reglamento respectivo.
 
@@ -1529,7 +1551,7 @@ El otorgamiento de las pensiones cuya solicitud se encuentre en trámite al entr
 
 ###### ARTICULO VIGESIMO.
 
-Los requisitos para obtener una pensión por jubilación, edad y tiempo de servicio, edad avanzada, muerte e inhabilitación, serán aquellos que marcaba la normatividad vigente al momento de su último ingreso al servicio público, teniendo la opción a acogerse a los nuevos requisitos cuando le sea conveniente, a excepción del incremento en la tasa de reemplazo como estímulo por permanencia.
+(DEROGADO, G.G. 2 DE ABRIL DE 2009)
 
 ###### ARTICULO VIGESIMO PRIMERO.
 
@@ -1588,3 +1610,15 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" d
 ###### ARTÍCULO QUINTO.
 
 Este decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 2 DE ABRIL DE 2009.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de la publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los servidores públicos que dejen de prestar sus servicios por haber causado baja en alguna institución pública durante el año dos mil nueve, conservarán sus derechos durante los seis meses siguientes a la fecha de la baja, a recibir las prestaciones de servicios de salud establecidos en la ley, siempre y cuando hayan laborado ininterrumpidamente durante un mínimo de doce meses.
+
+CUARTO.- Los requisitos de edad y tiempo de cotización para obtener una pensión por jubilación, edad y tiempo de servicios, edad avanzada, muerte e inhabilitación, serán aquellos que marcaba la normatividad vigente al momento de su último ingreso al servicio público, teniendo la opción de acogerse a los nuevos requisitos, a excepción del incremento en la tasa de reemplazo como estímulo por permanencia. En todos los casos el monto diario de pensión se determinará conforme a lo establecido en los artículos 68, 86 y 87 de la Ley de Seguridad Social para los Servidores Públicos del Estado de México y Municipios.
+
+QUINTO.- El Ejecutivo del Estado realizará las adecuaciones al reglamento interior del instituto en un plazo no mayor de treinta días a partir de la entrada en vigor del presente decreto.
