@@ -4,7 +4,7 @@ identifier: "MEX-codigo-electoral-del-estado-de-mexico-5988"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-03-02"
-last_updated: "2008-09-10"
+last_updated: "2009-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ELECTORAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE ABRIL DE 2009.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el sábado 2 de marzo de 1996.
 
@@ -6309,10 +6309,18 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 CUARTO.- El Tribunal resolverá en su totalidad los juicios de inconformidad relacionados con las elecciones de miembros de los ayuntamientos a realizarse en el año 2009 a más tardar el cuatro de agosto de ese año.
 
-QUINTO.- Durante el segundo periodo ordinario de sesiones del tercer año del ejercicio de la LVI Legislatura del Estado, ésta designará al Consejero Presidente y a la totalidad de los Consejeros Electorales que ejercerán dicho cargo del cinco de septiembre de 2009 al treinta y uno de diciembre de 2013.
+> <small>(REFORMADO, G.G. 2 DE ABRIL DE 2009)</small>
+
+QUINTO.- Durante el tercer periodo ordinario de sesiones del tercer año del ejercicio de la "LVI" Legislatura del Estado de México, ésta designará al Consejero Presidente y a la totalidad de los Consejeros Electorales que ejercerán dicho cargo del cinco de septiembre de 2009 al treinta y uno de diciembre de 2013.
 
 SEXTO.- El Instituto y el Tribunal deberán realizar las adecuaciones a su normatividad interna, conforme a lo previsto en el presente decreto, a más tardar el treinta y uno de diciembre de 2008.
 
 SÉPTIMO.- Todos los procedimientos iniciados con anterioridad a la entrada en vigor del presente decreto, se resolverán conforme a las disposiciones vigentes antes de su expedición.
 
 OCTAVO.- El Instituto deberá emitir la convocatoria para la integración de sus órganos desconcentrados, a más tardar quince días naturales después de la entrada en vigor de este decreto.
+
+G.G. 2 DE ABRIL DE 2009.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
