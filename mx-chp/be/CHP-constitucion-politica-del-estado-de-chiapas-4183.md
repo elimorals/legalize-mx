@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2009-01-14"
+last_updated: "2009-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 2009.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -1459,9 +1459,9 @@ Dos por el Poder Ejecutivo, uno por el Tribunal Constitucional del Tribunal Supe
 
 El Presidente del Tribunal del Trabajo Burocrático, lo será el designado por el Poder Judicial.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2009)</small>
 
-La designación de los Magistrados nombrados por el Ejecutivo del Estado será directa. El Magistrado cuya propuesta provenga de los Ayuntamientos, deberá ser aprobado por el Congreso del Estado en términos del Código de Organización del Poder Judicial del Estado. Todos los Magistrados integrantes del Tribunal del Trabajo Burocrático deberán reunir los mismos requisitos que se exigen para ser Magistrado de las Salas Regionales del Tribunal Superior de Justicia del Estado; además deberán contar con experiencia en materia laboral acreditada por un periodo no menor de tres años. Durarán en el encargo cuatro años sin posibilidad de reelección.
+La designación de los Magistrados nombrados por el Ejecutivo del Estado será directa. El Magistrado cuya propuesta provenga de los Ayuntamientos, deberá ser aprobado por el Congreso del Estado en términos del Código de Organización del Poder Judicial del Estado. Todos los Magistrados integrantes del Tribunal del Trabajo Burocrático, deberán reunir los mismos requisitos que se exigen para ser Magistrado de las Salas Regionales del Tribunal Superior de Justicia del Estado; además deberán contar con experiencia en materia laboral acreditada por un periodo no menor de tres años. Durarán en sus funciones cuatro años, con posibilidad de ser reelectos en los términos de la Ley de la materia.
 
 El Tribunal del Trabajo Burocrático funcionará en Pleno y en Salas. La ley determinará sus respectivas competencias y la forma de su organización y funcionamiento.
 
@@ -3452,3 +3452,9 @@ P.O. 14 DE ENERO DE 2009.
 Artículo Primero.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial.
 
 Artículo Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 3 DE ABRIL DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
