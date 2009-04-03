@@ -4,7 +4,7 @@ identifier: "COA-ley-que-crea-el-organismo-publico-descentralizado-3494"
 country: "mx"
 rank: "ley"
 publication_date: "1993-08-31"
-last_updated: "2006-11-07"
+last_updated: "2009-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3494&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "COMISION ESTATAL DE AGUAS Y SANEAMIENTO DE COAHUILA"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 31 de agosto de 1993.
 
@@ -57,7 +57,9 @@ Podrá también auxiliar técnicamente a dichas dependencias y entidades en la d
 
 Para el cumplimiento de su objeto, el organismo tendrá las siguientes atribuciones:
 
-I.- Expedir las normas técnicas y de operación a que deberá sujetarse la prestación de los servicios públicos de agua potable, drenaje, alcantarillado y saneamiento en el Estado;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2009)</small>
+
+I.- Expedir las normas técnicas y de operación a que deberá sujetarse la prestación de los servicios públicos de agua potable, drenaje, alcantarillado y saneamiento en el Estado; así como resolver las controversias de carácter técnico derivadas de la interpretación de las leyes aplicables a esta materia, que pudieran surgir con los organismos operadores municipales del agua, para el otorgamiento de la factibilidad del servicio de agua potable y drenaje sanitario, así como la prestación de estos servicios, a solicitud de cualquiera de las partes;
 
 II.- Operar, conservar, mantener, rehabilitar y ampliar las obras, instalaciones, redes, equipos y demás bienes de su propiedad que sean necesarios para el cumplimiento de su objeto;
 
@@ -332,3 +334,9 @@ LIC. FELIPE A. GONZALEZ RODRIGUEZ
 P.O. 7 DE NOVIEMBRE DE 2006.
 
 ÚNICO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE ABRIL DE 2009.
+
+PRIMERO. Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
