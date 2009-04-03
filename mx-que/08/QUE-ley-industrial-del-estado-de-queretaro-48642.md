@@ -4,7 +4,7 @@ identifier: "QUE-ley-industrial-del-estado-de-queretaro-48642"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-03"
-last_updated: "2006-02-03"
+last_updated: "2009-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48642&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY INDUSTRIAL DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY INDUSTRIAL DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 3 DE ABRIL DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 3 de febrero de 2006.
 
@@ -632,3 +634,13 @@ LIC. JOSÉ ALFREDO BOTELLO MONTES
 SECRETARIO DE GOBIERNO
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE ABRIL DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley Industrial del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número 07, de fecha tres de febrero de dos mil seis, así como todas aquellas disposiciones legales posteriores que la reformaron.
+
+Artículo Tercero. El Poder Ejecutivo del Estado, emitirá las normas reglamentarias de la presente Ley, que resulten necesarias para su aplicación.
