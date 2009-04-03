@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-turismo-del-estado-de-baja-california-3354"
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-07"
-last_updated: "2006-08-25"
+last_updated: "2009-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3354&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE TURISMO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O DE. 3 DE ABRIL DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes7 de julio de 1995.
 
@@ -610,3 +612,29 @@ UNICO.- La presente reforma entrará en vigor al día siguiente al de su publica
 P.O. 25 DE AGOSTO DE 2006.
 
 ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE ABRIL DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Turismo del Estado de Baja California, publicada en el Periódico Oficial del Estado el día 7 de julio de 1995 y sus reformas, así como se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo Estatal expedirá las demás disposiciones reglamentarias que requiera esta Ley, en un término que no excederá noventa días a partir de su publicación en el periódico oficial del Estado; mientras tanto, seguirán vigentes los actuales Reglamentos en lo que no se opongan a la misma.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo Estatal deberá hacer los ajustes pertinentes al Acuerdo de Creación del Consejo Consultivo Estatal de Turismo.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos que se encuentren en trámite al momento de ser publicada la presente Ley, serán resueltos conforme a lo dispuesto por la Ley que se abroga.
+
+###### ARTÍCULO SEXTO.
+
+Las infracciones cometidas durante la vigencia de la Ley que se abroga, se sancionarán conforme a lo dispuesto en dicho ordenamiento, a menos que el interesado manifieste su voluntad de someterse a la presente Ley.
