@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-elecciones-y-participacion-ciudadana-64679"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-08-27"
-last_updated: "2008-08-27"
+last_updated: "2009-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2009.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 27 de agosto de 2008.
 
@@ -451,7 +451,9 @@ II. Con los datos obtenidos, se determina el porcentaje de representatividad de 
 
 III. Posteriormente, se resta al resultado de la fracción anterior, el número de Diputados de mayoría relativa que corresponden a cada partido coaligado en términos del respectivo convenio de coalición;
 
-IV. Se asignará a cada partido político total los Diputados de representación proporcional, conforme al número por unidad entera que haya resultado en la fracción anterior; y
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2009)</small>
+
+IV. Se asignarán a cada partido político, los Diputados de representación proporcional, conforme al número por unidad entera que haya resultado en la fracción anterior; y
 
 V. En el caso de quedar Diputados por asignar, se distribuirán entre los partidos coaligados que tuviesen la fracción restante mayor, siguiendo el orden decreciente.
 
@@ -477,9 +479,13 @@ I. Se aplicarán los principios de mayoría relativa y de representación propor
 
 II. Los Ayuntamientos se integrarán en términos del artículo 59 de la Constitución Particular y de la Ley Orgánica Municipal;
 
-III. Cada partido político deberá postular en planilla con fórmulas de propietarios y suplentes la totalidad de candidatos para los cargos a elegir. El candidato a Presidente Municipal ocupará el primer lugar en la lista de la planilla; el candidato a síndico ocupará el segundo lugar en dicha lista, y los restantes candidatos a regidor ocuparán los siguientes lugares hasta completar el número que corresponda de regidores por el principio de mayoría relativa;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2009)</small>
 
-IV. Para tener derecho a participar en la asignación de regidores según el principio de representación proporcional, se requiere que los partidos políticos o coaliciones obtengan al menos el 2% de la votación válida emitida en el municipio de que se trate;
+III. Cada partido político deberá postular en planilla la totalidad de candidatos para los cargos a elegir. El candidato a Presidente Municipal ocupará el primer lugar en la lista de la planilla; el candidato a Síndico ocupará el segundo lugar en dicha lista, y los restantes candidatos a Regidor ocuparán los siguientes lugares hasta completar el número que corresponda de Regidores por el principio de mayoría relativa;
+
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2009)</small>
+
+IV. Para tener derecho a participar en la asignación de Regidores según el principio de representación proporcional, se requiere que los partidos políticos obtengan al menos el 2% de la votación válida emitida en el municipio de que se trate;
 
 V. No podrá participar de la asignación de regidores por el principio de representación proporcional, el partido político que hubiere alcanzado la mayoría de votos en la elección municipal de que se trate;
 
@@ -1103,25 +1109,23 @@ III. El monto para gastos de campaña se otorgará a los partidos políticos en 
 
 El financiamiento correspondiente a gastos de campaña, será entregado en una sola ministración, una vez cumplidos los plazos para el registro de candidatos, y aprobadas que sean las candidaturas.
 
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2009)</small>
+
 ###### Artículo 93.
 
-El financiamiento que reciban los partidos políticos por actividades específicas como entidades de interés público, se determinará de la forma siguiente:
+El financiamiento que los partidos políticos destinen para actividades específicas como entidades de interés público, se aplicará a los rubros de educación y capacitación política, investigación socioeconómica y política, así como las tareas editoriales de los partidos políticos.
 
-I. La educación y capacitación política, investigación socioeconómica y política, así como las tareas editoriales de los partidos políticos, serán apoyadas mediante un tres por ciento del financiamiento público que corresponda en el mismo año para las actividades ordinarias; el monto total será distribuido en los términos establecidos en el citado numeral;
+La Comisión vigilará que los partidos políticos destinen el financiamiento a que se refiere el presente artículo exclusivamente a las actividades señaladas en el párrafo anterior.
 
-II. La Comisión vigilará que los partidos políticos destinen el financiamiento a que se refiere el presente artículo exclusivamente a las actividades señaladas en la fracción precedente; y
-
-III. Las cantidades que en su caso se determinen para cada partido, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente.
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2009)</small>
 
 ###### Artículo 94.
 
 Los partidos políticos que hubieren obtenido su registro o acreditación con fecha posterior a la última elección de Diputados de mayoría relativa, o aquellos que habiendo conservado su registro legal no cuenten con representación en el Congreso Estatal, tendrán derecho a que se les otorgue financiamiento público conforme con las siguientes bases:
 
-I. Se le otorgará a cada partido político el dos por ciento del monto que por financiamiento total les corresponda a los partidos políticos para el sostenimiento de sus actividades ordinarias permanentes a que se refiere el artículo 91 del presente ordenamiento, así como, en el año de la elección de que se trate, el financiamiento para gastos de campaña que corresponda con base en lo dispuesto por el artículo 92 de este Código;
+I. Se le otorgará a cada partido político el dos por ciento del monto que por financiamiento total les corresponda a los partidos políticos para el sostenimiento de sus actividades ordinarias permanentes a que se refiere el artículo 91 del presente ordenamiento, así como, en el año de la elección de que se trate, el financiamiento para gastos de campaña que corresponda con base en lo dispuesto por el artículo 92 de este Código.
 
-II. Participarán del financiamiento público para actividades específicas como entidades de interés público sólo en la parte que se distribuya en forma igualitaria; y,
-
-III. Las cantidades a que se refiere la fracción I anterior, serán entregadas por la parte proporcional que corresponda a la anualidad a partir de la fecha en que surta efectos el registro o la acreditación correspondiente, y tomando en cuenta el calendario presupuestal aprobado para el año.
+II. Las cantidades a que se refiere la fracción I anterior, serán entregadas por la parte proporcional que corresponda a la anualidad a partir de la fecha en que surta efectos el registro o la acreditación correspondiente, y tomando en cuenta el calendario presupuestal aprobado para el año.
 
 ###### Artículo 95.
 
@@ -3153,7 +3157,9 @@ IV. En los municipios cuyo número de ciudadanos inscritos en la lista nominal d
 
 V. Para todos los supuestos de las fracciones que anteceden, la lista nominal electoral que se tomará en cuenta será la que el Instituto utilice para el proceso electoral del año que corresponda.
 
-En todos los casos, las campañas políticas deberán culminar tres días antes del día de la jornada electoral.
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2009)</small>
+
+En todos los casos, el día de la elección y los tres que anteceden, no se permitirá la celebración de mítines, reuniones públicas ni cualquier otro acto de campaña, propaganda o de proselitismo político electoral.
 
 Las campañas electorales iniciarán sólo en los términos establecidos en este artículo para la elección de que se trate y una vez que se haya registrado la candidatura correspondiente; en todo caso, el Instituto, a través de sus órganos competentes, hará la declaratoria de inicio correspondiente.
 
@@ -3343,9 +3349,11 @@ II. Aprobar el proyecto de listas de ciudadanos que integrarán las mesas direct
 
 III. Ordenar la impresión de las listas de integración de las mesas directivas de casillas básicas, contiguas, extraordinarias y especiales y de los lugares de ubicación en el orden numérico progresivo de las secciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2009)</small>
+
 ###### Artículo 255.
 
-El Consejo Distrital o Municipal electoral, según la elección de que se trate, difundirá el primer domingo de abril del año de la elección ordinaria, en cada municipio, numeradas progresivamente, por primera vez, el número de casillas electorales y su ubicación, así como los nombres de sus integrantes.
+El Consejo Distrital o Municipal electoral, según la elección de que se trate, difundirá el segundo domingo de mayo del año de la elección ordinaria, en cada municipio, numeradas progresivamente, por primera vez, el número de casillas electorales y su ubicación, así como los nombres de sus integrantes.
 
 La difusión se hará fijando la lista correspondiente, en los edificios y lugares públicos más concurridos del Municipio o distrito según sea el caso.
 
@@ -3483,9 +3491,11 @@ En caso de cancelación de registro o sustitución de uno o más candidatos, si 
 
 A más tardar, quince días antes al de la elección, deberán estar en poder de los Consejos Distritales y Municipales electorales las boletas electorales, las que serán selladas al reverso por el Secretario del Consejo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2009)</small>
+
 ###### Artículo 269.
 
-Los Consejos Electorales entregarán a cada Presidente de casilla dentro de los tres días anteriores al de la elección, el siguiente material:
+Los Consejos Electorales entregarán a cada Presidente de casilla dentro de los cinco días anteriores al de la elección, el siguiente material:
 
 I. Lista nominal de electores de la sección;
 
@@ -3999,7 +4009,9 @@ Los Consejos Distritales deberán contar con los elementos humanos, materiales, 
 
 El cómputo distrital de la votación para Diputados se sujetará al procedimiento siguiente:
 
-I. Se realizarán las operaciones señaladas en las fracciones I a V del artículo 306 de este Código;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2009)</small>
+
+I. Se realizarán las operaciones señaladas en las fracciones I a IV del artículo 306 de este Código;
 
 II. La suma de los resultados, después de realizar las operaciones indicadas en la fracción anterior, constituirá el cómputo distrital de la elección de Diputados de mayoría relativa que se asentará en el acta correspondiente;
 
@@ -4021,7 +4033,9 @@ Concluido el cómputo y emitida la declaración de validez para la elección de 
 
 El cómputo distrital de la votación para la elección de Gobernador del Estado, se sujetará al procedimiento siguiente:
 
-I. Se harán las operaciones señaladas en las fracciones I a V y VII del artículo 306 de este Código;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2009)</small>
+
+I. Se harán las operaciones señaladas en las fracciones I a la IV del artículo 306 y VII del artículo 313 de este Código;
 
 II. Acto seguido, se procederá a extraer los expedientes de las casillas especiales relativos a la elección de Gobernador, y se realizarán las operaciones referidas en la fracción anterior;
 
@@ -4875,7 +4889,9 @@ VII. Nombre y datos de identificación de la persona a quien se realiza.
 
 El partido político o coalición cuyo representante haya estado presente en la sesión del órgano del Instituto que actuó o resolvió, se entenderá automáticamente notificado del acto o resolución correspondiente para todos los efectos legales, aún cuando sin haber concluido ésta se retire.
 
-Para que opere dicha notificación y pueda prevalecer sobre cualquier otra que hubiere ordenado la autoridad electoral, deberá estar acreditado que el partido político o coalición tuvo conocimiento pleno de los motivos y fundamentos que sustentan la resolución o acto reclamado, por haber recibido copia íntegra del mismo cuando menos cuarenta y ocho horas antes de la sesión correspondiente y durante la discusión no se haya modificado.
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2009)</small>
+
+Para que opere dicha notificación y pueda prevalecer sobre cualquier otra que hubiere ordenado la autoridad electoral, deberá estar acreditado que el partido político o coalición tuvo conocimiento pleno de los motivos y fundamentos que sustentan la resolución o acto reclamado, por haber recibido copia íntegra del mismo dentro del término que al respecto se detalle en la reglamentación interna del Instituto para el caso de la celebración de sesiones ordinarias y extraordinarias, según sea el caso, y que durante la discusión no se haya modificado.
 
 ###### Artículo 396.
 
@@ -5067,7 +5083,7 @@ Esta clase de pruebas podrán presentarse hasta antes de que se cierre la instru
 
 ###### Artículo 411.
 
-Son objeto de prueba los hechos controvertidos, no lo será el derecho, los hechos notorios o imposibles, ni aquellos que hayan sido reconocidos. El que afirma esta obligado a probar, también lo está el que niega cuando su negación implique la afirmación expresa de un hecho.
+Son objeto de prueba los hechos controvertidos, no lo será el derecho, los hechos notorios o imposibles, ni aquellos que hayan sido reconocidos. El que afirma está obligado a probar, también lo está el que niega cuando su negación implique la afirmación expresa de un hecho.
 
 ###### Artículo 412.
 
@@ -5387,7 +5403,9 @@ Cuando falte algún requisito de los señalados con anterioridad, acudir a las i
 
 El juicio para la protección de los derechos político-electorales de los ciudadanos se presentará, sustanciará y resolverá en los términos que establece este ordenamiento.
 
-En la etapa de cómputos y resultados, el candidato agraviado sólo podrá impugnar los resultados electorales a través del Juicio de Inconformidad, en los términos que se precisan en este ordenamiento.
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2009)</small>
+
+En la etapa de cómputos y resultados, el candidato agraviado sólo podrá impugnar los resultados electorales a través del Juicio de Nulidad Electoral, en los términos que se precisan en este ordenamiento.
 
 ## Título Quinto. Del juicio laboral entre el Instituto, la Comisión y el Tribunal Electoral con sus respectivos servidores
 
@@ -5451,9 +5469,11 @@ II. El Instituto, la Comisión o el Tribunal Electoral, quienes actuarán por co
 
 Presentado el escrito a que se refiere el artículo anterior, el Magistrado Presidente del Tribunal Electoral, enviará el expediente al Magistrado responsable de la instrucción que corresponda, para que dentro de los tres días hábiles siguientes al de su presentación, en su caso, ordene correr traslado en copia simple al organismo electoral demandado.
 
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2009)</small>
+
 ###### Artículo 452.
 
-El organismo electoral demandado deberá contestar dentro de los tres días hábiles siguientes al en que se notifique la presentación del escrito del promovente.
+El organismo electoral demandado deberá contestar dentro de los nueve días hábiles siguientes al en que se notifique la presentación del escrito del promovente.
 
 ###### Artículo 453.
 
@@ -6041,7 +6061,9 @@ III. La fecha y lugar en que habrá de realizarse la votación;
 
 IV. La pregunta o preguntas conforme a las que los electores expresarán su aprobación o rechazo;
 
-V. El periodo durante el cual los ciudadanos, las organizaciones de ciudadanos y los partidos políticos podrán realizar sus campañas a favor o en contra del acto o decisión que sea sujeto a plebiscito, así como las formas y contenidos de estas campañas, y
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2009)</small>
+
+V. El periodo durante el cual los ciudadanos y las organizaciones ciudadanas podrán realizar sus campañas a favor o en contra del acto o decisión que sea sujeto a plebiscito, así como las formas y contenidos de estas campañas, y
 
 VI. Los demás elementos de información que se estimen pertinentes.
 
@@ -6324,3 +6346,13 @@ Dado en el salón de Sesiones del Honorable Congreso del Estado de Chiapas, en l
 De conformidad con la fracción I, del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veintisiete días del mes de agosto del año dos mil ocho.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
+
+P.O. 3 DE ABRIL DE 2009.
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Por única ocasión, el proceso estatal electoral del año dos mil diez, dará inicio con la primera sesión que al efecto realice el Consejo General del Instituto de Elecciones y Participación Ciudadana, el 15 de enero de ese año, conforme al calendario que sea emitido por el propio órgano electoral.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan a este Decreto.
