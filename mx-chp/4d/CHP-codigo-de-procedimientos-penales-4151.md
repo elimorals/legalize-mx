@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-procedimientos-penales-4151"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-03-02"
-last_updated: "2007-09-12"
+last_updated: "2009-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CODIGO DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Chiapas, el 2 de marzo de 1938.
 
@@ -300,6 +300,10 @@ I.- INFORMAR AL REPRESENTANTE LEGAL DE LA VICTIMA U OFENDIDO DE LA GARANTIA QUE 
 II.- FORMULAR ANTE LA AUTORIDAD JUDICIAL LA OPOSICION CORRESPONDIENTE CON RELACION AL DESAHOGO DEL CAREO EN CASO DE QUE EL REPRESENTANTE LEGAL DE LA VICTIMA U OFENDIDO SE ACOJA AL BENEFICIO CONSTITUCIONAL AL QUE SE REFIERE LA FRACCION ANTERIOR, Y
 
 III.- EN EL SUPUESTO A QUE SE REFIERE LA FRACCION ANTERIOR SOLICITAR A LA AUTORIDAD JUDICIAL, QUE SE LLEVEN A CABO LAS DECLARACIONES EN LAS CONDICIONES QUE ESTABLEZCA LA LEY.
+
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2009)</small>
+
+DERECHO QUE EN LOS MISMOS TERMINOS, GOZARAN LOS MENORES DE DIECIOCHO AÑOS DE EDAD, QUE HAYAN SIDO VICTIMAS DEL DELITO DE TRATA DE PERSONAS.
 
 ### CAPITULO II. DE LA COMPETENCIA
 
@@ -1839,7 +1843,11 @@ SE CALIFICAN COMO DELITOS GRAVES, PARA TODOS LOS EFECTOS LEGALES, POR AFECTAR DE
 
 32) DELITOS CONTRA EL SANEAMIENTO DEL AMBIENTE Y LA ECOLOGIA DEL ESTADO PREVISTOS Y SANCIONADOS EN LOS ARTICULOS 456, 457, FRACCION I, II, III, IV, VI, VIII, X, XI; 458, FRACCIONES I, X, XI, Y 459;
 
-33) OPERACIONES CON RECURSOS DE PROCEDENCIA ILICITA, PREVISTO Y SANCIONADO POR EL ARTICULO 478.
+33) OPERACIONES CON RECURSOS DE PROCEDENCIA ILICITA, PREVISTO Y SANCIONADO POR EL ARTICULO 478;
+
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2009)</small>
+
+34) TRATA DE PERSONAS, PREVISTO Y SANCIONADO POR LA LEY PARA COMBATIR, PREVENIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE CHIAPAS.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 2007)</small>
 
@@ -1911,7 +1919,11 @@ ART. 269 BIS B.- EN LOS CASOS DE FLAGRANTE DELITO Y EN LOS URGENTES, NINGUN INDI
 
 32) DELITOS CONTRA EL SANEAMIENTO DEL AMBIENTE Y LA ECOLOGIA DEL ESTADO PREVISTOS Y SANCIONADOS EN LOS ARTICULOS 456, 457 FRACCION I, II, III, IV, VI, VIII, X, XI; 458 FRACCIONES I, X, XI, Y 459;
 
-33) OPERACIONES CON RECURSOS DE PROCEDENCIA ILICITA, PREVISTO Y SANCIONADO POR EL ARTICULO 478.
+33) OPERACIONES CON RECURSOS DE PROCEDENCIA ILICITA, PREVISTO Y SANCIONADO POR EL ARTICULO 478;
+
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2009)</small>
+
+34) TRATA DE PERSONAS, PREVISTO Y SANCIONADO POR LA LEY PARA COMBATIR, PREVENIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE CHIAPAS.
 
 > <small>(ADICIONADO, P.O. 08 DE ABRIL DE 1998)</small>
 
@@ -4052,3 +4064,17 @@ Artículo Primero.- El presente Decreto entrara en vigor, al día siguiente de s
 Artículo Segundo.- Los juicios en materia penal así como, la tramitación y resolución de las apelaciones pendientes a la entrada en vigor de estas reformas, se sujetaran a las disposiciones aplicables del Código de Procedimientos Penales vigentes al momento en que ocurrieron los hechos.
 
 Artículo Tercero.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 3 DE ABRIL DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- De conformidad con lo establecido en los artículos 7 y 8 del Código Penal para el Estado de Chiapas, se aplicarán las disposiciones de esta Ley, observando en lo conducente las disposiciones del Código Penal para el Estado de Chiapas.
+
+Artículo Tercero.- La Comisión Interinstitucional, así como sus Subcomisiones, deberán instalarse en los primeros sesenta días a partir de la vigencia de la presente Ley.
+
+Artículo Cuarto.- La Comisión Interinstitucional, una vez instalada, contará con un plazo de 60 días para elaborar el Programa Estatal para Combatir, Prevenir y Sancionar la Trata de Personas y Proteger a sus Víctimas.
+
+Artículo Quinto.- La Comisión Interinstitucional deberá emitir el Reglamento de la presente Ley, en el término de 60 días, a partir de su instalación.
+
+Artículo Sexto.- Se derogan aquellas disposiciones que se opongan al presente Decreto.
