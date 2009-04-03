@@ -4,7 +4,7 @@ identifier: "COA-ley-del-notariado-del-estado-de-coahuila-4636"
 country: "mx"
 rank: "ley"
 publication_date: "1979-02-06"
-last_updated: "2008-08-01"
+last_updated: "2009-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4636&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL NOTARIADO DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 6 de febrero de 1979.
 
@@ -323,7 +323,9 @@ VI.- Al expresar el domicilio no sólo debe hacerse constar la vecindad en gener
 
 VII.- Los Notarios consignarán el acto o contrato por medio de cláusulas redactadas con claridad y concisión, evitando toda palabra inútil, limitándose a expresar con precisión el contrato que se celebra o el acto que se autoriza;
 
-VIII.- Se designarán con exactitud, las cosas que formen el objeto de la disposición o convenio, de tal manera que no puedan ser confundidas con otras. Si se tratare de bienes inmuebles, determinará su naturaleza, ubicación, indicando el municipio, el distrito y la entidad federativa; sus colindancias; y en cuanto fuere posible sus límites topográficos y su extensión superficial; así como los antecedentes de propiedad y registro, exigiendo los documentos que comprueben que están cubiertos los impuestos prediales tanto municipales como estatales; que se encuentren libres, en su caso, de todo gravamen, y los planos y avalúos periciales de los inmuebles materia de la operación. Los documentos mencionados se agregarán al apéndice del protocolo respectivo, haciéndose una relación de ellos en la escritura e insertándolos o agregando copia autorizada en el testimonio respectivo;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2009)</small>
+
+VIII.- Se designarán con exactitud, las cosas que formen el objeto de la disposición o convenio, de tal manera que no puedan ser confundidas con otras. Si se tratare de bienes inmuebles, determinará su naturaleza, ubicación, indicando el municipio, el distrito y la entidad federativa; sus colindancias; y en cuanto fuere posible sus límites topográficos y su extensión superficial; así como los antecedentes de propiedad y registro, exigiendo los documentos que comprueben que estén cubiertos los impuestos prediales tanto municipales como estatales, debiendo exigir además el certificado de no adeudo del servicio de agua potable, emitido por el organismo operador que corresponda; que se encuentren libres, en su caso, de todo gravamen, y los planos y avalúos periciales de los inmuebles materia de la operación. Los documentos mencionados se agregarán al apéndice del protocolo respectivo, haciéndose una relación de ellos en la escritura e insertándolos o agregando copia autorizada en el testimonio respectivo;
 
 IX.- Se compulsará cualquier documento que se presente y del que deba hacerse inserción a la letra, remitiéndose a él, cotejándolo debidamente y dejándolo sellado y rubricado; y en su caso será agregado al legajo respectivo del apéndice. Cualquier inserción se hará literalmente;
 
@@ -1702,3 +1704,9 @@ P.O. 1 DE AGOSTO DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 3 DE ABRIL DE 2009.
+
+PRIMERO. Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
