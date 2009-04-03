@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asentamientos-humanos-y-desarrollo-urbano-del-estado-345
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-26"
-last_updated: "2008-06-06"
+last_updated: "2009-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 26 de julio de 1994.
 
@@ -1919,9 +1919,11 @@ En los fraccionamientos en que se requiera caseta de vigilancia, de acuerdo con 
 
 El fraccionador deberá adquirir la superficie necesaria para infraestructura y derechos de vía en las obras de liga, entre el predio en que se pretenda hacer un fraccionamiento y otras zonas urbanizadas, cuando dichas obras se estimen convenientes para el futuro crecimiento de esas (sic) zona, conforme a las previsiones de los planes y programas de desarrollo urbano.
 
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 162.
 
-Los proyectos y cálculos relativos a redes y sistemas de agua potable y alcantarillado, así como la perforación de pozos para agua potable y las descargas de aguas residuales, se regirán por las normas federales y estatales aplicables en la materia. La Secretaría y los municipios verificarán su cumplimiento previamente al otorgamiento de las autorizaciones, permisos y licencias a que se refiere esta ley.
+Los proyectos y cálculos relativos a redes y sistemas de agua potable y alcantarillado, así como la perforación de pozos para agua potable y las descargas de aguas residuales, se regirán por las normas federales y estatales aplicables en la materia. La Secretaría y los municipios verificarán su cumplimiento previamente al otorgamiento de las autorizaciones, permisos y licencias a que se refiere esta ley; garantizando que en todo momento, se cumplan (sic) con lo dispuesto en el artículo 61 de la Ley de Aguas para los Municipios del Estado de Coahuila de Zaragoza.
 
 ###### ARTICULO 163.
 
@@ -3240,3 +3242,9 @@ P.O. 6 DE JUNIO DE 2008.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 3 DE ABRIL DE 2009.
+
+PRIMERO. Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
