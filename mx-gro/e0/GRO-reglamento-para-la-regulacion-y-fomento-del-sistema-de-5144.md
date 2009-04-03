@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-para-la-regulacion-y-fomento-del-sistema-de-5144"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-06-17"
-last_updated: "1994-06-17"
+last_updated: "2009-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5144&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 REGLAMENTO PARA LA REGULACION Y FOMENTO DEL SISTEMA DE TIEMPO COMPARTIDO DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el viernes 17 de junio de 1994.
 
@@ -87,7 +87,25 @@ DISPOSICION 12.- Los acuerdos tomados por las autoridades a que se refiere la di
 
 DISPOSICION 13.- La Comisión vigilará, bajo su estricta responsabilidad, que se respeten los sitios autorizados por el H. Ayuntamiento sin que los comercializadores, promotores, vendedores o quienes realicen actividades análogas puedan realizar sus ofertas o promociones fuera de las áreas y las condiciones que hayan sido autorizadas.
 
-DISPOSICION 14.- Para los efectos de comercialización, el propietario o desarrollador del inmueble responde solidariamente por el comercializador que realice la venta, quien deberá contar con oficinas de representación o de información dentro del establecimiento donde se presta el servicio. En todo caso, el propietario del inmueble será solidario y responsable de los actos violatorios a la Ley y su Reglamento por parte de los administradores del servicio.
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2009)</small>
+
+DISPOSICION 14.- Para los efectos de comercialización, el propietario o desarrollador del inmueble responde solidariamente por el comercializador que realice la venta, quien deberá contar con oficinas de representación o de información dentro del establecimiento donde se presta el servicio. Asimismo los desarrolladores, promotores y vendedores sólo podrán comercializar portando el uniforme que los identifique con el desarrollo y la credencial expedida por la Comisión Técnica de Vigilancia del Sistema de Tiempo Compartido, previo pago ante la Secretaría de Finanzas y Administración del Estado de Guerrero, debiendo además cumplir con los requisitos siguientes:
+
+a).- Documento oficial con fotografía.
+
+b).- Registro Federal de Contribuyentes o CURP.
+
+c).- Dos fotografías recientes tamaño infantil a color.
+
+d).- Copia de un comprobante de domicilio.
+
+e).- Currículum Vitae.
+
+f).- Certificado Médico expedido por Institución Oficial.
+
+g).- Carta de No Antecedentes Penales.
+
+En todo caso, el propietario del inmueble será solidario y responsable de los actos violatorios a la Ley y del presente Reglamento por parte de los administradores del servicio.
 
 DISPOSICION 15.- El desarrollador, comercializador, promotor, vendedor o quien ofrezca venta del Sistema de Tempo Compartido, no podrá realizar anuncios, publicidad propaganda que induzca al error o confusión del comprador, por lo que todo engaño o exageración en la oferta, se sancionará hasta con una multa de 100 días de salario mínimo, además del resarcimiento del daño causado al comprador, así como el cumplimiento de la obligación contraída con el tiempocompartidario, independientemente de las sanciones que contemplen otros ordenamientos legales aplicables.
 
@@ -244,3 +262,9 @@ El Secretario de Fomento Turístico.
 C. CARLOS A. RULLAN DICHTER.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 3 DE ABRIL DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
