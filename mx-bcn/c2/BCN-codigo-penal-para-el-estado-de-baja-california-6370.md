@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2009-01-30"
+last_updated: "2009-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 2009.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1111,17 +1111,21 @@ III.- Desde el día en que se realizó la última conducta, tratándose de delit
 
 IV.- Desde la cesación de la consumación en el delito permanente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE ABRIL DE 2009)</small>
 
 ###### Artículo 114.
 
-Prescripción de la pretensión punitiva.- La pretensión punitiva prescribirá en un plazo igual al término medio aritmético de la pena privativa de libertad, señalada para el delito de que se trate, pero en ningún caso será menor a tres años.
+Prescripción de la pretensión punitiva.- La pretensión punitiva prescribirá en un plazo igual al término medio aritmético de la pena privativa de libertad, señalada para el delito de que se trate, salvo lo establecido en el artículo 114 Bis de este Código. En ningún caso el término de prescripción de la pretensión punitiva podrá ser menor a tres años.
 
 Si el delito sólo mereciere multa, la pretensión punitiva prescribirá en un año.
 
 Si además de la pena de prisión el delito mereciere otra accesoria o una alternativa, se atenderá a la prescripción de la pretensión punitiva de la pena privativa de libertad.
 
 En los demás casos, la pretensión punitiva prescribirá en dos años.
+
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2009)</small>
+
+Artículo 114 BIS.- En los delitos de homicidio, secuestro, violación, trata de personas y terrorismo, que refiere este Código, el plazo de la prescripción de la pretensión punitiva será el equivalente a la pena máxima señalada para el delito de que se trate.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -4524,3 +4528,7 @@ P.O. 30 DE ENERO DE 2009.
 ###### ARTICULO ÚNICO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE ABRIL DE 2009.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
