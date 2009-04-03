@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2008-08-28"
+last_updated: "2009-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CODIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 2009.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -702,6 +702,12 @@ VI. El comportamiento posterior del acusado con relación al delito cometido;
 VII. Las demás condiciones especiales y personales en que se encontraba el agente en el momento de la comisión del delito, siempre y cuando sean relevantes para determinar la posibilidad que tuvo de haber ajustado su conducta a las exigencias de la norma.
 
 Cuando el delito de que se trate tenga prevista pena alternativa, en la que se contemple pena de prisión, el Órgano Jurisdiccional podrá imponer, motivando su resolución, la sanción privativa de libertad sólo cuando ello sea ineludible para los fines de justicia, prevención general y prevención especial.
+
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2009)</small>
+
+###### Artículo 71 Bis.
+
+Cuando los sujetos pasivos del delito sean menores de edad, mujeres, personas con discapacidad y adultos mayores de sesenta y cuatro años, y en la ejecución del delito se emplee (sic) violencia moral, psicológica, verbal, económica o cualquier otro tipo de violencia, la pena establecida deberá aumentarse en una tercera parte de la que le corresponda del delito que se trate; y en una mitad más, cuando en la ejecución del delito se emplee (sic) violencia física.
 
 ###### Artículo 72.
 
@@ -4416,3 +4422,9 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las sentenciadas o procesadas, les serán aplicadas las disposiciones vigentes al momento de su comisión.
 
 Artículo Tercero.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 3 DE ABRIL DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
