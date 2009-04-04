@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-sesiones-del-consejo-estatal-del-instituto-47990"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-10"
-last_updated: "2005-12-10"
+last_updated: "2009-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47990&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO DE SESIONES DEL CONSEJO ESTATAL DEL INSTITUTO ELECTORAL DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE SESIONES DEL CONSEJO ESTATAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE TABASCO, PUBLICADO EN EL P.O. DE 4 DE ABRIL DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE SESIONES DEL CONSEJO ESTATAL DEL INSTITUTO ELECTORAL DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2009 (ABROGADO).
 
 Reglamento publicado en el Acuerdo CE/2005/009 al Periódico Oficial del Estado de Tabasco, el 10 de diciembre de 2005.
 
@@ -171,7 +173,7 @@ q) Llevar el archivo del consejo y un registro de las actas, acuerdos y resoluci
 
 r) Recibir las solicitudes de registro de candidatos a cargos de elección popular, en ausencia del presidente del consejo estatal;
 
-s) Elaborar el acta de las sesiones y someterla a la aprobación de los integrantes del consejo con derecho a voto, tomando en cuenta las observaciones realizadas por los consejeros y los representantes de los partidos políticos; y (sic)
+s) Elaborar el acta de las sesiones y someterla a la aprobación de los integrantes del consejo con derecho a voto, tomando en cuenta las observaciones realizadas por los consejeros y los representantes de los partidos políticos; y
 
 t) Elaborar las versiones estenográficas de las sesiones del Consejo;
 
@@ -470,3 +472,15 @@ EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, A LOS OCHO DÍAS DE
 LIC. DAVID CUBA HERRERA
 
 SECRETARIO EJECUTIVO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE ABRIL DE 2009.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE EXPIDE EL REGLAMENTO DE SESIONES DEL CONSEJO ESTATAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE TABASCO”.]
+
+Primero.- Este reglamento entrará en vigor en la siguiente sesión que celebre el Consejo Estatal o en su caso, alguna de sus comisiones.
+
+Segundo.- Se abroga el reglamento aprobado mediante acuerdo número CE/2005/009 de fecha 8 de diciembre del año de 2005.
+
+Tercero.- El Secretario dispondrá a la brevedad posible, la edición del número de ejemplares de este reglamento que estime necesarios para su adecuada difusión.
