@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2008-12-10"
+last_updated: "2009-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2009.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -305,7 +305,7 @@ LXVII.- VALLE DE ZARAGOZA; con cabecera en el pueblo del mismo nombre y las secc
 
 Las municipalidades, secciones municipales y comisarías de policía, comprenderán las haciendas, rancherías, ejidos, congregaciones y demás centros de población, que se encuentren enclavados dentro de sus respectivos límites, sancionados por la tradición y la costumbre. Las controversias por límites entre los Municipios serán resueltos por el Congreso del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 13.
 
@@ -1115,7 +1115,9 @@ I).- Recursos; y
 
 J).- Vigencia.
 
-El Ayuntamiento procurará expedir Reglamentos sobre las siguientes materias:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ABRIL DE 2009)</small>
+
+El Ayuntamiento procurará expedir reglamentos sobre las siguientes materias:
 
 I.- Interior del Municipio;
 
@@ -1141,9 +1143,15 @@ X.- Sobre Adquisiciones, Almacenamiento, Conservación y Mantenimiento de Bienes
 
 XI.- Interior de Trabajo de los Servidores Públicos del Municipio;
 
-XII.- Para el Catastro Municipal; y
+XII.- Para el Catastro Municipal; y (sic)
 
-XII (SIC).- En general, todos los demás que sean necesarios o que se encuentren previstos en otras leyes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE ABRIL DE 2009)</small>
+
+XlV (SIC).- En materia de Transparencia y Acceso a la Información Pública.
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2009)</small>
+
+XV.- En general todos los demás que sean necesarios o que se encuentren previstos en otras leyes.
 
 ###### ARTICULO 48.
 
@@ -1725,9 +1733,43 @@ II.- Promover la participación y colaboración de los habitantes y vecinos del 
 
 III.- Dar a conocer a la autoridad municipal los problemas que afectan a sus representados, proponer las soluciones pertinentes e informar a dichas autoridades sobre deficiencias en la ejecución de los programas de obras y servicios;
 
-IV.- Proponer a las autoridades municipales las medidas que estimen convenientes para el mejor aprovechamiento y aplicación de sus recursos y la adecuada prestación de los servicios públicos; y
+IV.- Proponer a las autoridades municipales las medidas que estimen convenientes para el mejor aprovechamiento y aplicación de sus recursos y la adecuada prestación de los servicios públicos; y (sic)
 
-V.- Las demás que les señalen las leyes y sus reglamentos.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2009)</small>
+
+V.- Bajo el principio de Subsidiariedad comunitaria, organizarse para coadyuvar con la autoridad municipal, en la prestación de los servicios municipales, de manera directa o indirecta.
+
+El principio de Subsidiariedad comunitaria, implica que ante la prestación parcial o deficiente de un servicio público municipal, la comunidad organizada lo preste o coadyuve a su prestación eficiente, recayendo en la autoridad municipal la obligación de facilitar la organización vecinal para alcanzar ese fin;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE ABRIL DE 2009)</small>
+
+VI.- Las demás que les señalen las leyes y sus reglamentos.
+
+> <small>(ADICIONADO], P.O. 4 DE ABRIL DE 2009)</small>
+
+ARTICULO 84 BIS.- Los comités de vecinos, podrán solicitar a la autoridad municipal competente, la instalación de casetas de acceso y vigilancia, bajo las siguientes bases:
+
+I.- Deberán estar constituidos y organizados en los términos previstos en este Código.
+
+II.- La solicitud deberá hacerse a la Dirección de Desarrollo Urbano, con los siguientes requisitos:
+
+a) Identificar el perímetro que quedará acordonado, adjuntando el plano respectivo.
+
+b) Adjuntar directorio de todos los vecinos que residan en la zona incluida dentro del perímetro, bastando señalar al propietario o poseedor de la casa habitación, su domicilio y teléfono.
+
+c) Carta de conformidad de todos los vecinos de la zona acordonada, para proceder a la instalación de los accesos restringidos.
+
+d) Señalar el lugar o lugares en donde se instalarán casetas de acceso, así como el proyecto arquitectónico para su construcción, que será a cargo y a costa de los vecinos.
+
+e) Adjuntar reglamento de operación de la caseta y servicios de vigilancia preventiva, suscrito por todos los vecinos, bastando un responsable por familia.
+
+III.- La Dirección de Desarrollo Urbano, deberá recabar certificación y dictamen de viabilidad de la autoridad de tránsito competente, a fin de que se constate que no existe impedimento vial para la instalación de las casetas de acceso.
+
+IV.- Sin que exista impedimento vial para la instalación de los accesos restringidos, la Dirección de Desarrollo Urbano deberá de conceder la autorización respectiva, en un plazo que no exceda de treinta días a partir de que fue recibida la solicitud debidamente requisitada, transcurrido el cual, sin que se expida, se aplicará la afirmativa ficta de la autoridad municipal.
+
+V.- La autoridad municipal, deberá firmar convenio de colaboración con los comités de vecinos en que se instalen casetas de acceso restringido, para dar mantenimiento de los parques y jardines que se encuentren dentro del perímetro resguardado, compartiendo el costo, sin que en ningún caso los vecinos absorban más del 50% del mismo.
+
+El establecimiento de accesos restringidos, no impide a las autoridades municipales y demás corporaciones policiales el ingreso al sector resguardado, con el propósito de realizar actividades propias de su función, por lo que los vecinos deberán estar pendientes de que no se obstaculicen sus actividades.
 
 ###### ARTICULO 85.
 
@@ -3906,3 +3948,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 10 DE DICIEMBRE DE 2008.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
+
+P.O. 4 DE ABRIL DE 2009.
+
+DECRETO No. 593/09 II P.O., POR EL QUE SE REFORMA Y ADICIONA LOS ARTICULOS 84 Y 84 BIS DEL CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE ABRIL DE 2009.
+
+DECRETO No. 594/09 II P.O., POR EL QUE SE REFORMA EL ARTICULO 47 DEL CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
