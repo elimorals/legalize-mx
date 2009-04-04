@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-coquimatlan-colima-26792"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2009-03-07"
+last_updated: "2009-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COQUIMATLAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2009.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -2887,17 +2887,17 @@ AÑO 2003 2004 2005 2006 2007
 
 BASE 60% 70% 80% 90% 100%
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO SEPTIMO.
 
-Para el ejercicio fiscal 2008, se amplia el plazo hasta el 30 de abril del citado año, para los casos a que se refiere el articulo 19 de la presente ley.
+Para el ejercicio fiscal 2009, se amplía el plazo hasta el 31 de mayo del citado año, para los casos a que se refiere el artículo 19 de la presente ley.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2009)</small>
 
-###### ARTICULO OCTAVO.
+###### ARTÍCULO OCTAVO.
 
-Para el Ejercicio fiscal 2009, el plazo a que se refieren los artículos 80, párrafo segundo y 81, último párrafo de ésta Ley se amplía hasta el 31 de marzo.
+Para el Ejercicio fiscal 2009, el plazo a que se refieren los artículos 80, párrafo segundo y 81, último párrafo de ésta Ley se amplía hasta el 31 de mayo.
 
 El Gobernador del Estado dispondrá se imprima, publique, circule y observe.
 
@@ -2982,3 +2982,7 @@ P.O. 22 DE MARZO DE 2008.
 P.O. 7 DE MARZO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 4 DE ABRIL DE 2009.
+
+UNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
