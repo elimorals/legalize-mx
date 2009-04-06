@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "2009-03-30"
+last_updated: "2009-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DEL PODER JUDICIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2009.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -563,9 +563,13 @@ Sección 1ª
 
 Disposiciones Generales
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-ARTICULO 33 H.- El Tribunal de lo Contencioso Administrativo del Estado de Aguascalientes, está dotado de plena autonomía para dictar sus fallos y es independiente de cualquier autoridad. Tiene a su cargo dirimir las controversias de carácter administrativo y fiscal, que se susciten entre las autoridades del Estado, de los Municipios y sus organismos descentralizados en funciones de autoridad, con los particulares. Contará para ello con la organización y atribuciones que esta Ley establece, y estará dotado de plena jurisdicción y del imperio suficiente para hacer cumplir sus determinaciones.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
+
+ARTICULO 33 H.- El Tribunal de lo Contencioso Administrativo del Estado de Aguascalientes, está dotado de plena autonomía para dictar sus fallos y es independiente de cualquier autoridad. Tiene a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten entre las autoridades del Estado, de los Municipios, sus Organismos Descentralizados y otras personas, en funciones de autoridad, con los particulares. Contará para ello con la organización y atribuciones que esta Ley establece, y estará dotado de plena jurisdicción y del imperio suficiente para hacer cumplir sus determinaciones.
+
+Se reputarán como otras personas, a los prestadores de servicios públicos municipales considerados como áreas estratégicas, que sean concesionados.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
@@ -605,7 +609,11 @@ De las atribuciones
 
 ARTICULO 33 L.- El Tribunal conocerá de los juicios que se inicien contra:
 
-I.- Las resoluciones definitivas emanadas de las autoridades dependientes del Poder Ejecutivo Estatal, de los Municipios y de los Organismos Descentralizados cuando éstos actúen como autoridades, que causen agravio a los particulares;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2009)</small>
+
+I.- Las resoluciones definitivas emanadas de las autoridades dependientes del Poder Ejecutivo Estatal, de los Municipios, de los Organismos Descentralizados y otras personas, cuando éstos actúen como autoridades, que causen agravio a los particulares;
 
 II.- Las resoluciones definitivas dictadas por cualquiera de las autoridades fiscales del Estado o Municipios, y de sus organismos fiscales autónomos, en las que se determine la existencia de una obligación fiscal, se fije ésta en cantidad líquida o se den las bases para su liquidación; nieguen la devolución de un ingreso indebidamente percibido, o cualquiera otra que cause agravio en materia fiscal;
 
@@ -1546,3 +1554,9 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTICULO SEGUNDO.
 
 A más tardar el día 15 de enero del año 2010, el Poder Judicial del Estado deberá presentar al Poder Legislativo, el informe a que se refiere la Fracción V del Artículo 11 del presente Decreto, respecto a los años 2008 y 2009; a partir del año 2011 se regularizará la entrega de la información.
+
+P.O. 6 DE ABRIL DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia a los sesenta días siguientes de su publicación en el Periódico Oficial del Estado.
