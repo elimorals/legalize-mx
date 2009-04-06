@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2008-10-27"
+last_updated: "2009-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2009.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -2501,11 +2501,11 @@ DE LA VIOLENCIA FAMILIAR.
 
 Los integrantes de la familia tienen derecho a que los demás miembros les respeten su integridad física y psíquica, con el objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contarán con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.
 
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE ABRIL DE 2009)</small>
 
 ###### Artículo 347 Ter.
 
-Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar. Por violencia familiar se considera el uso de la fuerza física o moral, así como las omisiones graves, que de manera reiterada ejerza un miembro de la familia en contra de otro integrante de la misma que atente contra su integridad física, psíquica o ambas, independientemente de que pueda producir o no lesiones; siempre y cuando el agresor y el agredido habiten en el mismo domicilio o exista relación de parentesco, matrimonio o concubinato.
+Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar. Por violencia familiar se entenderá todo acto u omisión, encaminado a dominar, someter, controlar o agredir física, verbal, psicológica, sexual o económicamente a cualquier integrante de la familia, que tenga por objeto causar daño, sufrimiento, dentro o fuera del domicilio familiar, por parte de quienes tengan parentesco, vínculo matrimonial, concubinato, o relación familiar o marital de hecho.
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -16328,6 +16328,12 @@ El Poder Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus atribuci
 P.O. 27 DE OCTUBRE DE 2008
 
 DECRETO NO. 147, POR EL CUAL SE REFORMA EL ARTICULO 74 DEL CODIGO CIVIL DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 6 DE ABRIL DE 2009.
 
 ###### ARTÍCULO ÚNICO.
 
