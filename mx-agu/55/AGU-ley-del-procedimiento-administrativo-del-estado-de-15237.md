@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-procedimiento-administrativo-del-estado-de-15237"
 country: "mx"
 rank: "ley"
 publication_date: "1999-02-14"
-last_updated: "2004-06-28"
+last_updated: "2009-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15237&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2009.
 
 Ley publicada en la Sección Segunda del Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 14 de febrero de 1999.
 
@@ -43,9 +43,15 @@ LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE AGUASCALIENTES
 
 ### CAPITULO UNICO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 1º.
 
-Las disposiciones de esta ley son de orden e interés públicos y se aplicarán a los actos, procedimientos y resoluciones de las Administraciones Públicas centralizadas y descentralizadas del Estado de Aguascalientes y de los Municipios que lo integran.
+Las disposiciones de esta ley son de orden e interés públicos y se aplicarán a los actos, procedimientos y resoluciones de las Administraciones Públicas centralizadas y descentralizadas del Estado de Aguascalientes, de los Municipios que lo integran, y de otras personas, cuando éstas actúen como autoridades.
+
+Se reputarán como otras personas, a los prestadores de servicios públicos municipales considerados como áreas estratégicas, que sean concesionados.
 
 El presente ordenamiento no será aplicable a las materias de: responsabilidades de los servidores públicos, electoral, justicias agrarias y laboral, así como al Ministerio Público en ejercicio de sus funciones constitucionales.
 
@@ -59,9 +65,13 @@ La presente ley se aplicará supletoriamente a las diversas leyes que regulan la
 
 ### CAPITULO I. Del Acto Administrativo
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 3º.
 
-Para los efectos de esta ley, se entenderá por acto administrativo, toda declaración unilateral de voluntad, externa, concreta y generalmente ejecutiva, emanada de la Administración Pública del Estado de Aguascalientes y de las de sus Municipios, en el ejercicio de las facultades que les son conferidas por los ordenamientos jurídicos en su carácter de potestad pública, teniendo por objeto crear, reconocer, transmitir, modificar, o extinguir derechos y obligaciones con la finalidad de satisfacer el interés general.
+Para los efectos de esta ley, se entenderá por acto administrativo, toda declaración unilateral de voluntad, externa, concreta y generalmente ejecutiva, emanada de la Administración Pública del Estado de Aguascalientes, de las de sus Municipios y de otras personas, en el ejercicio de las facultades que les son conferidas por los ordenamientos jurídicos en su carácter de potestad pública, teniendo por objeto crear, reconocer, transmitir, modificar o extinguir derechos y obligaciones con la finalidad de satisfacer el interés general.
 
 ###### ARTICULO 4º.
 
@@ -191,9 +201,13 @@ Se consideran medidas de seguridad las disposiciones que dicte la autoridad comp
 
 #### SECCION II. De las Autoridades
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 16.
 
-Para efectos de esta ley deberá entenderse por autoridad administrativa toda dependencia o entidad de las Administraciones Públicas Centralizadas y Descentralizadas del Estado y de sus Municipios, que estén facultades por los ordenamientos jurídicos para dictar, ordenar o ejecutar un acto administrativo; así como los funcionarios y servidores públicos de dichas administraciones, mediante los cuales se realicen los referidos actos administrativos.
+Para efectos de esta ley deberá entenderse por autoridad administrativa toda dependencia o entidad de las Administraciones Públicas Centralizadas y Descentralizadas del Estado, de sus Municipios y otras personas, que estén facultados por los ordenamientos jurídicos para dictar, ordenar o ejecutar un acto administrativo; así como los funcionarios y servidores públicos de dichas administraciones, mediante los cuales se realicen los referidos actos administrativos.
 
 ###### ARTICULO 17.
 
@@ -884,3 +898,9 @@ Lic. Abelardo Reyes Sahagún.
 P.O. 28 DE JUNIO DE 2004.
 
 UNICO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE ABRIL DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia a los sesenta días siguientes de su publicación en el Periódico Oficial del Estado.
