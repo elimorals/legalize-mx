@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2009-03-02"
+last_updated: "2009-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2009.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -729,7 +729,9 @@ c) Desde un Centro de Reeducación Social independientemente de la pena por la q
 
 III. 10 a 16 años de prisión y de 125 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, si se realiza por:
 
-a) Una asociación delictuosa;
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
+
+a) Una asociación delictuosa u ostentarse como miembro de ésta; para los efectos de este inciso, se entenderá como asociación delictuosa toda aquella agrupación o banda de tres o más personas con propósito de delinquir;
 
 b) Servidor público o ex servidor público; o
 
@@ -5558,5 +5560,11 @@ El presente Decreto entrará en vigencia a los noventa días naturales contados 
 P.O. 2 DE MARZO DE 2009.
 
 ###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE ABRIL DE 2009.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
