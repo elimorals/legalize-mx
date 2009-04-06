@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-transparencia-y-el-acceso-a-la-30841"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-12"
-last_updated: "2007-05-04"
+last_updated: "2009-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30841&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA LA TRANSPARENCIA Y EL ACCESO A LA INFORMACION PUBLICA DE LA H. CAMARA DE DIPUTADOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE MAYO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE TRANSPARENCIA, ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES DE LA CAMARA DE DIPUTADOS, PUBLICADO EN EL D.O.F. DE 6 DE ABRIL DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 12 de mayo de 2003.
 
@@ -446,3 +448,27 @@ SALON DE SESIONES DE LA CAMARA DE DIPUTADOS DEL HONORABLE CONGRESO DE LA UNION.-
 D.O.F. 4 DE MAYO DE 2007.
 
 Unico. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE ABRIL DE 2009.
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abrogan el Reglamento para la Transparencia y el Acceso a la Información Pública de la Cámara de Diputados publicado en el Diario Oficial de la Federación el 12 de mayo de 2003, así como el "Acuerdo de la Mesa Directiva de la Cámara de Diputados por el que se establecen los criterios de clasificación, desclasificación y custodia de la información reservada y confidencial", publicado en la Gaceta Parlamentaria No. 1323 del 29 de agosto de 2003.
+
+Tercero. La Cámara de Diputados, por conducto de la Secretaría General, deberá cumplir con las obligaciones de transparencia y acceso a la información pública relativas a las comisiones bicamerales por cuanto a los recursos proporcionados por esta Cámara, en tanto se emiten las disposiciones correspondientes.
+
+Cuarto. El Órgano Rector tendrá 180 días hábiles para presentar los lineamientos en materia de organización de la información, clasificación, desclasificación, integración, organización y conservación de la información y de accesibilidad y calidad de la información. Estos lineamientos deben ser publicados en la Gaceta Parlamentaria y en la sección de transparencia del portal de Internet de la Cámara de Diputados, dentro de los siete días posteriores a su creación.
+
+Quinto. El Órgano Rector, en un plazo de 50 días hábiles, contados a partir de su instalación, deberá emitir los lineamientos generales en materia de datos personales, donde se considerarán los niveles de seguridad que se deberán emplear en la Cámara.
+
+Sexto. La Junta de Coordinación Política de la Cámara de Diputados, por única vez, en un plazo no mayor de treinta días naturales contados a partir de la entrada en vigor de este Decreto, propondrá para su elección al pleno en un solo acto, una terna para elección de los consejeros fundadores del Consejo.
+
+Séptimo. El particular puede optar por sustanciar las solicitudes no resueltas a la entrada en vigor de este Reglamento, en términos del Reglamento anterior o de éste.
+
+Octavo. La Secretaría General y la de Servicios Administrativos y Financieros, harán las gestiones necesarias para proporcionar 2 asesores y 1 asistente por cada Consejero, así como del personal secretarial, los espacios físicos, el equipo y mobiliario necesarios para que el Consejo funcione.
+
+Noveno. La Secretaría General y las de Servicios Administrativos Financieros y Parlamentarios harán, en el ámbito de su respectiva competencia, las previsiones necesarias para permitir la integración y funcionamiento adecuado de la Unidad, el Órgano Rector, el Consejo y los sistemas electrónicos de archivo de la información, de procesamiento de solicitudes y de control interno de gestión.
+
+Décimo. La Secretaría General y las de Servicios Administrativos y Financieros y Parlamentarios tendrán un plazo de 6 meses, en días naturales, para poner en marcha los sistemas electrónicos que se mencionan.
+
+Décimo Primero.- Lo previsto por los artículos 46 y 51 del presente Reglamento, será implementado por los órganos obligados, una vez concluidos los plazos y condiciones a que hacen referencia los Artículos Cuarto y Décimo Transitorios.
