@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-diario-oficial-del-gobierno-del-estado-de-yucatan-12863
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-12"
-last_updated: "1995-06-12"
+last_updated: "2009-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12863&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY DEL DIARIO OFICIAL DEL GOBIERNO DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL DIARIO OFICIAL DEL GOBIERNO DEL ESTADO DE YUCATAN, PUBLICADA EN EL D.O. DE 6 DE ABRIL DE 2009. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Diario Oficial del Estado de yucatán, el lunes 12 de junio de 1995.
 
@@ -130,3 +132,35 @@ ING. FEDERICO GRANJA RICALDE
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. ALVARO LOPEZ SOBERANIS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 6 DE ABRIL DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor a los treinta días naturales siguientes al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor de esta Ley, se abroga la Ley del Diario Oficial del Gobierno del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán mediante Decreto número 107, el día doce de junio del año de mil novecientos noventa y cinco.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones legales y reglamentarias de igual o menor rango que se opongan a las contenidas en esta Ley.
+
+###### ARTÍCULO CUARTO.
+
+Los municipios que cuenten con gaceta municipal a la fecha de entrada en vigor de esta Ley, deberán cumplir con la obligación establecida en el artículo 31, en un plazo no mayor a 120 días.
+
+###### ARTÍCULO QUINTO.
+
+El Titular del Poder Ejecutivo del Estado de Yucatán deberá expedir el reglamento de esta Ley, en un término no mayor a sesenta días hábiles, contados a partir de la entrada en vigor de esta Ley.
+
+###### ARTÍCULO SEXTO.
+
+En tanto el Titular del Poder Ejecutivo del Estado de Yucatán expide el reglamento de esta Ley, la versión electrónica de los documentos cuya publicación se solicite deberá estar en un archivo electrónico de texto, ser compatible con el programa Microsoft Word; utilizar la fuente de letra tipo Arial de tamaño 12; y tener un interlineado sencillo.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Dirección del Diario, promoverá la elaboración y ejecución de un programa de archivo histórico que contemple la digitalización de los ejemplares del Diario que no se encuentren en archivos electrónicos, con base en el presupuesto que le asignen para tal fin.
