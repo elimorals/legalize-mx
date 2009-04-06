@@ -4,7 +4,7 @@ identifier: "AGU-arancel-de-abogados-del-estado-de-aguascalientes-24255"
 country: "mx"
 rank: "otro"
 publication_date: "1977-09-18"
-last_updated: "1977-09-18"
+last_updated: "2009-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 ARANCEL DE ABOGADOS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ARANCEL DE ABOGADOS Y AUXILIARES DE LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 6 DE ABRIL DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Arancel publicado en el Periódico Oficial del Estado de Aguascalientes, el 18 de septiembre de 1977.
 
@@ -292,3 +294,15 @@ J. Refugio Esparza Reyes.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Antonio Javier Aguilera García.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ARANCEL.</small>
+
+P.O. 6 DE ABRIL DE 2009.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia a los quince días hábiles contados a partir del día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Arancel de Honorarios para Abogados, Depositarios, Intérpretes, Peritos, Valuadores y Árbitros, emitido mediante el Decreto Número 202 de fecha 16 de junio de 1933, publicado en el Periódico Oficial del Estado Labor Libertaria del 20 de junio de 1933 y el Arancel de Abogados, publicado en el Periódico Oficial del Estado el 18 de septiembre de 1977.
