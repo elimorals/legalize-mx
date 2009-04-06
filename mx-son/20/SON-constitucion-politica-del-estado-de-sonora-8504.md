@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2007-02-22"
+last_updated: "2009-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 22 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE ABRIL DE 2009.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -37,13 +37,13 @@ Constitución Política del Estado de Sonora, que reforma la de 1º. de Noviembr
 
 ## TITULO PRELIMINAR.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 6 DE ABRIL DE 2009)</small>
 
-###### Artículo 1.
+###### Articulo 1.
 
-Los derechos del hombre son la base y el objeto de las instituciones sociales. En el Estado de Sonora todo individuo gozará de las garantías que otorga la Constitución Política de los Estados Unidos Mexicanos. En consecuencia, las autoridades, los funcionarios y empleados del Estado y Municipios tienen la ineludible obligación de respetar y hacer respetar, en la órbita de sus facultades, dichas garantías y las prerrogativas que esta Constitución Local concede.
+Los Derechos del Hombre son la base y el objeto de las instituciones sociales. En el Estado de Sonora todo individuo gozará de las garantías que otorga la Constitución Política de los Estados Unidos Mexicanos. El Estado de Sonora tutela el derecho a la vida, al sustentar que desde el momento de la fecundación de un individuo, entra bajo la protección de la ley y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural. Se exceptúa de este reconocimiento, el aborto causado por culpa de la mujer embarazada o cuando el embarazo sea resultado de una violación o cuando, de no provocarse el aborto, la mujer embarazada corra peligro de muerte a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora, así como los casos de donación de órganos humanos en los términos de las disposiciones legales aplicables.
 
-> <small>(ADICIONADO, B.O. 10 DE DICIEMBRE DE 1992)</small>
+Las autoridades, los funcionarios y empleados del Estado y Municipios tienen la ineludible obligación de respetar y hacer respetar, en la órbita de sus facultades, las garantías y las prerrogativas que esta Constitución Local concede.
 
 El Estado reconoce la composición pluricultural de su población, en particular la asentada en los grupos de nuestro origen, y proveerá lo necesario para asegurar el respeto a sus lenguas, culturas, usos, costumbres, recursos, formas específicas de organización social y garantizarles el efectivo acceso a la jurisdicción estatal, procurando consolidar los rasgos de nuestra nacionalidad.
 
@@ -759,7 +759,7 @@ a). Que la porción territorial de que se trate cuente con una población de die
 
 b). Que se compruebe debidamente ante el Congreso que tiene elementos bastantes para proveer a su existencia política.
 
-c). Que se conceda al ayuntamiento o ayuntamientos afectados el derecho de ser oído dentro del término o de dos meses, contados desde el día en que reciban la comunicación respectiva, sobre la conveniencia o inconveniencia de la nueva creación municipal.
+c). Que se conceda al ayuntamiento o ayuntamientos afectados el derecho de ser oído dentro del término de dos meses, contados desde el día en que reciban la comunicación respectiva, sobre la conveniencia o inconveniencia de la nueva creación municipal.
 
 d). Que igualmente se oiga sobre el particular al Ejecutivo del Estado. El informe de éste deberá rendirse dentro de los sesenta días de la fecha en que se hubiese solicitado.
 
@@ -3108,6 +3108,18 @@ El Supremo Tribunal de Justicia y el Consejo del Poder Judicial del Estado const
 Al instalarse el nuevo Consejo del Poder Judicial del Estado, asumirá las funciones que constitucional y legalmente le corresponden, en sustitución del Consejo que deje de funcionar.
 
 Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto que lleve a cabo el cómputo respectivo y en caso de resultar aprobada la presente Ley, por cuando menos, la mitad más uno de los ayuntamientos de los municipios de la Entidad, se remita al Titular del Poder Ejecutivo Estatal para su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 6 DE ABRIL DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado de Sonora.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que lleve el cómputo respectivo y la remita al Titular del Poder Ejecutivo en caso de resultar aprobada, para su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de un plazo de 90 días, contado a partir de la entrada en vigor de esta Ley, el Congreso del Estado deberá realizar las adecuaciones que resulten pertinentes, entre otras, a las leyes en materia de salud, educación y a la legislación civil, de tal manera que dichos ordenamientos sean congruentes con las disposiciones de esta reforma constitucional.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
