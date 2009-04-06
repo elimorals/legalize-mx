@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-procedimiento-contencioso-administrativo-para-el-28565"
 country: "mx"
 rank: "ley"
 publication_date: "1999-09-19"
-last_updated: "2006-04-10"
+last_updated: "2009-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2009.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 19 de septiembre de 1999.
 
@@ -51,7 +51,11 @@ Para los efectos de esta Ley se entenderá por Tribunal, el Tribunal de lo Conte
 
 El Tribunal conocerá de los siguientes asuntos:
 
-I.- De los juicios en contra de las resoluciones definitivas emanadas de las autoridades dependientes del Poder Ejecutivo Estatal, de los Municipios y de los Organismos Descentralizados cuando éstos actúen como autoridades, que causen agravio a los particulares;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2009)</small>
+
+I.- De los juicios en contra de las resoluciones definitivas emanadas de las autoridades dependientes del Poder Ejecutivo Estatal, de los Municipios, de los Organismos Descentralizados y otras personas, cuando éstos actúen como autoridades, que causen agravio a los particulares;
 
 II.- De los juicios en contra de las resoluciones definitivas dictadas por cualquiera de las autoridades fiscales del Estado o Municipales, y de sus organismos fiscales autónomos, en las que se determine la existencia de una obligación fiscal, se fije ésta en cantidad líquida o se den las bases para su liquidación; nieguen la devolución de un ingreso indebidamente percibido, o cualquiera otra que cause agravio en materia fiscal;
 
@@ -93,7 +97,11 @@ I.- El actor.- Tendrá ese carácter el particular o la autoridad que reclame la
 
 II.- El demandado.- Tendrá ese carácter:
 
-a).- La autoridad estatal, municipal u organismo descentralizado que dicte, ordene, ejecute o trate de ejecutar la resolución administrativa o fiscal, o tramite el procedimiento impugnado o aquélla que de manera legal la sustituya;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
+
+a).- La autoridad estatal, municipal, organismo descentralizado u otra persona, cuando actúe como autoridad, que dicte, ordene, ejecute o trate de ejecutar la resolución administrativa o fiscal, o tramite el procedimiento impugnado o aquélla que de manera legal la sustituya;
 
 b).- El particular a quien favorezca la resolución cuya nulidad pide la autoridad administrativa; y
 
@@ -125,9 +133,13 @@ Para las diligencias que deben practicarse fuera del local del Tribunal, podrá 
 
 Las que deben desahogarse fuera de la residencia del Tribunal, deberán encomendarse, mediante la requisitoria respectiva, a la autoridad judicial correspondiente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 10.
 
-Cuando las leyes o reglamentos de las distintas dependencias administrativas estatales, municipales y de sus órganos descentralizados, establezcan algún recurso o medio de defensa, será optativo para el particular agotarlo, o bien, intentar desde luego el juicio ante el Tribunal.
+Cuando las leyes o reglamentos de las distintas dependencias administrativas estatales, municipales, de sus órganos descentralizados o de otras personas, establezcan algún recurso o medio de defensa, será optativo para el particular agotarlo, o bien, intentar desde luego el juicio ante el Tribunal.
 
 ###### ARTICULO 11.
 
@@ -846,3 +858,9 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Los procedimientos que actualmente se encuentren en trámite, se sujetarán para su continuación, en lo conducente, a las disposiciones de este Decreto.
+
+P.O. 6 DE ABRIL DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia a los sesenta días siguientes de su publicación en el Periódico Oficial del Estado.
