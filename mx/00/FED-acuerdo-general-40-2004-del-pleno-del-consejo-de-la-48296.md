@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-40-2004-del-pleno-del-consejo-de-la-48296"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2004-06-23"
-last_updated: "2009-03-30"
+last_updated: "2009-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48296&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-06-16"
 
 ACUERDO GENERAL 40/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL ACUERDO GENERAL 75/2000 DEL PLENO, QUE FIJA LAS BASES PARA QUE LAS ADQUISICIONES, ARRENDAMIENTOS, PRESTACION DE SERVICIOS Y OBRA PUBLICA EN EL CONSEJO DE LA JUDICATURA FEDERAL, SE AJUSTEN A LOS CRITERIOS CONTEMPLADOS EN EL ARTICULO 134 CONSTITUCIONAL
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL 6/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 30 DE MARZO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 6 DE ABRIL DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
@@ -334,3 +334,13 @@ QUINTO.- Las personas físicas o morales que al día anterior a la entrada en vi
 SEXTO.- Se instruye al Comité de Adquisiciones, Arrendamientos, Obra Pública y Servicios del Consejo de la Judicatura Federal para que en un término de treinta días naturales a partir de la entrada en vigor del presente Acuerdo someta a la consideración del Pleno los parámetros que establezcan los montos conforme a los cuales se realizarán los procedimientos de contratación.
 
 SEPTIMO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 6 DE ABRIL DE 2009.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO.- Se pospone la entrada en vigor del acuerdo general 6/2009 a fin de que surta efectos a partir del primero de junio de dos mil nueve y se prorroga la vigencia del acuerdo general 75/2000.
+
+SEGUNDO.- El presente acuerdo entrará en vigor el día de hoy que se aprueba.
+
+TERCERO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
