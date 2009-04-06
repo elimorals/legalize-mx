@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-general-de-gobierno-59793"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-11"
-last_updated: "2008-02-11"
+last_updated: "2009-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2009.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 11 de febrero de 2008.
 
@@ -57,7 +57,9 @@ La Secretaría General de Gobierno es una dependencia centralizada del Poder Eje
 
 Para los efectos del presente Reglamento cuando se emplee la palabra Secretaría y Secretario, se refieren a la Secretaría General de Gobierno y al titular de la misma, respectivamente.
 
-###### ARTÍCULO 4º.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
+
+###### ARTICULO 4°.
 
 Para el trámite y resolución de los asuntos de su competencia, el Secretario se auxiliará de las Subsecretarías y Direcciones Generales que contarán con la estructura orgánica y el personal necesario para el cumplimiento de sus funciones, y que son las siguientes:
 
@@ -81,15 +83,17 @@ IX. Dirección General de la Coordinación Jurídica Gubernamental;
 
 X. Dirección General de Asuntos Jurídicos; y
 
-XI. Dirección General Administrativa.
+XI. Dirección General Administrativa;
 
 Asimismo la Secretaría contará con las demás unidades administrativas subalternas que figuren en el presupuesto anual respectivo, entre las que se encuentran:
 
 A) Secretariado Técnico del Consejo Estatal de Población;
 
-B) Coordinación de Asesores; y
+B) Coordinación de Asesores;
 
-C) Visitaduría de Notarías.
+C) Visitaduría de Notarías; y
+
+D) Unidad de Enlace Legislativo.
 
 ###### ARTÍCULO 5º.
 
@@ -941,21 +945,79 @@ XIX. Coadyuvar en el control de los libros que deban utilizar los notarios duran
 
 XX. Ejecutar las sanciones que establece la Ley del Notariado del Estado y que imponga el Secretario o el Gobernador del Estado, respecto de los fedatarios que infrinjan sus disposiciones en el ejercicio de su función.
 
-### CAPÍTULO XIX. De la Suplencia de los Servidores Públicos
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE ABRIL DE 2009)</small>
+
+### CAPÍTULO XIX. De la Unidad de Enlace Legislativo
 
 ###### ARTÍCULO 35.
 
 El Secretario será suplido en sus ausencias temporales o accidentales menores a 30 días por el Subsecretario de Gobierno. En ausencias mayores será suplido por quien designe el Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
+
 ###### ARTÍCULO 36.
 
-Los Subsecretarios serán suplidos en sus ausencias temporales o accidentales por el Director General que acuerde el Secretario.
+Al frente de la Unidad de Enlace legislativo habrá un Coordinador de Enlace legislativo, que dependerá orgánicamente del Secretario, para el estudio, planeación y despacho de los asuntos que le competen, se auxiliará del personal que le sea adscrito.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
 
 ###### ARTÍCULO 37.
 
-Los Directores Generales serán suplidos en sus ausencias temporales o accidentales menores a 30 días, por el Subdirector o el Servidor Público de la jerarquía inmediata inferior que ellos mismos designen, si la ausencia es mayor, será suplido por quien designe el Secretario.
+El Coordinador de Enlace Legislativo tendrá las mismas atribuciones genéricas señaladas para los Directores Generales en el presente Reglamento.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
+
+### CAPÍTULO XX. De la Suplencia de los Servidores Públicos
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2009)</small>
 
 ###### ARTÍCULO 38.
+
+Corresponde a la Unidad de Enlace Legislativo:
+
+I. Auxiliar al Secretario en la conducción de las relaciones políticas del Poder Ejecutivo que, con motivo de procesos legislativos, se susciten con los partidos y agrupaciones políticos nacionales, con las organizaciones civiles y demás instituciones sociales;
+
+II. En términos de lo que dispone la fracción anterior, diseñar mecanismos de enlace y diálogo permanente con los partidos y agrupaciones políticos nacionales;
+
+III. Instrumentar líneas de acción para promover consensos y acuerdos entre el Poder Ejecutivo y los partidos y agrupaciones políticos nacionales y locales, que puedan traducirse en acciones legislativas;
+
+IV. Auxiliar al Secretario en la conducción de las relaciones que, con motivo del desahogo de procedimientos legislativos, se susciten entre el Poder Ejecutivo y el Poder Legislativo y sus órganos o con la Comisión Permanente;
+
+V. En el ámbito de su competencia, establecer y desarrollar vínculos políticos institucionales con el Poder Legislativo, con sus órganos y con los grupos parlamentarios que lo integran;
+
+VI. Coadyuvar con la dependencia o entidad que corresponda, en el establecimiento de un programa integral y sistemático de los proyectos e iniciativas de carácter legislativo del Poder Ejecutivo, con el propósito de prever los tiempos adecuados para su presentación ante el Poder Legislativo;
+
+VII. Presentar ante el Congreso del Estado o ante su Comisión Permanente, en su caso, las iniciativas de ley o de decreto, en su caso, los nombramientos para su ratificación, así como las demás comunicaciones que suscriban el titular del Poder Ejecutivo o las dependencias y entidades de la Administración Pública Estatal;
+
+VIII. Auxiliar al Secretario en la conducción de las relaciones del Poder Ejecutivo con el Poder Legislativo, dando seguimiento y reportando al superior jerárquico sobre el desahogo de los procedimientos legislativos previstos en la Constitución y en las leyes, así como rindiendo informes oportunos sobre el desarrollo de las sesiones ordinarias y extraordinarias del Congreso del Estado, así como de la Comisión Permanente durante los recesos de aquél;
+
+IX. En los casos de reformas, adiciones o modificaciones a la Constitución Política del Estado de Aguascalientes, dar seguimiento, por lo que hace a los municipios del Estado, al procedimiento previsto por el artículo 94 constitucional;
+
+X. Recibir, atender, tramitar y dar respuesta a los citatorios, solicitudes, requerimientos, puntos de acuerdo, comunicaciones y demás actos que, en términos previstos en la Constitución Política del Estado de Aguascalientes y de las leyes aplicables, formulen el Congreso del Estado, sus órganos o sus comisiones e integrantes, al Gobernador del Estado o a los titulares de las dependencias y entidades de la Administración Pública Estatal;
+
+XI. Las demás que determine el Secretario, dentro de la esfera de sus facultades.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE ABRIL DE 2009)</small>
+
+###### ARTÍCULO 39.
+
+El Secretario será suplido en sus ausencias temporales o accidentales menores a 30 días por el Subsecretario de Gobierno. En ausencias mayores será suplido por quien designe el Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2009)</small>
+
+###### ARTÍCULO 40.
+
+Los Subsecretarios serán suplidos en sus ausencias temporales o accidentales por el Director General que acuerde el Secretario.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2009)</small>
+
+###### ARTÍCULO 41.
+
+Los Directores Generales serán suplidos en sus ausencias temporales o accidentales menores a 30 días, por el Subdirector o el Servidor Público de la jerarquía inmediata inferior que ellos mismos designen, si la ausencia es mayor, será suplido por quien designe el Secretario.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2009)</small>
+
+###### ARTÍCULO 42.
 
 Los Directores, Subdirectores, Jefes de Departamento y demás personal de la Secretaría, serán suplidos en sus ausencias temporales menores a 30 días por el servidor de la jerarquía inmediata inferior que ellos mismos señalen, si la ausencia es mayor, será suplido por quien designe el Secretario.
 
@@ -982,3 +1044,11 @@ Gobernador Constitucional del Estado.
 Lic. Juan Ángel José Pérez Talamantes,
 
 Secretario General de Gobierno.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 6 DE ABRIL DE 2009.
+
+###### ARTICULO ÚNICO.
+
+La presente reforma a este reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
