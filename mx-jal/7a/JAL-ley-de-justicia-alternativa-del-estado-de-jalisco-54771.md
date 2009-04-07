@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-alternativa-del-estado-de-jalisco-54771"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-30"
-last_updated: "2008-04-29"
+last_updated: "2009-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2009.
 
 Ley publicada en la Sección IX del Periódico Oficial del Estado de Jalisco, el martes 30 de enero de 2007.
 
@@ -397,11 +397,9 @@ Los mediadores, conciliadores y árbitros que operen en las instituciones que pr
 
 Las cámaras empresariales, los colegios de profesionistas y los organismos estatal y municipales del Sistema (sic) Desarrollo Integral de la Familia, podrán funcionar como centros de resolución de conflictos a través de los medios alternos, en las áreas de su actividad, previa acreditación otorgada en los términos del artículo 13, salvo aquellos que tengan dichas facultades por disposición de la ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2009)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE ABRIL DE 2008)</small>
-
-La Procuraduría Social desempeñará las funciones de mediación o conciliación conforme a lo previsto en su Ley Orgánica y la presente ley, sin necesidad de requerir acreditación ante el Instituto.
+La Secretaría General de Gobierno en materia notarial, la Procuraduría General de Justicia del Estado, la Procuraduría Social y demás autoridades que por disposición legal tengan atribuciones para ello, podrán desempeñar las funciones de mediación o conciliación conforme a lo previsto en la presente ley y demás disposiciones aplicables, sin requerir acreditación ante el Instituto para ejercerlas.
 
 ###### Artículo 16.
 
@@ -1266,3 +1264,7 @@ P.O. 27 DE DICIEMBRE DE 2007.
 P.O. 29 DE ABRIL DE 2008.
 
 ÚNICO. El decreto 21755 y el presente decreto entrarán en vigor simultáneamente el día 1. de enero de 2009, previa su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 7 DE ABRIL DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
