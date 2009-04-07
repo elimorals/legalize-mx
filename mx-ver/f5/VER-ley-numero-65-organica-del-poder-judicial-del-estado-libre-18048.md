@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-65-organica-del-poder-judicial-del-estado-libre-1804
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-26"
-last_updated: "2008-12-25"
+last_updated: "2009-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY NUM. 65 ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ 
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE ABRIL DE 2009.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 26 de julio de 2000.
 
@@ -287,11 +287,11 @@ El Congreso del Estado o, en sus recesos, la Diputación Permanente, resolverán
 
 En ningún caso se podrán conceder licencias con el carácter de indefinidas, ni tampoco por un tiempo mayor de noventa días naturales durante el período de un año; excepto cuando se trate de cursos de especialización en materia jurídica, cuya duración no exceda de seis meses.
 
-> <small>(REFORMADO, G.O. 11 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2009)</small>
 
 ###### Artículo 19.
 
-En sus ausencias o licencias temporales y para efectos de integrar Sala o Tribunal, los Magistrados serán suplidos por el Magistrado que designe el Pleno del Tribunal, de entre los que no se encuentren integrando Sala o Tribunal.
+En sus ausencias o licencias temporales y para efectos de integrar Sala o Tribunal, los magistrados serán suplidos por el magistrado que designe el Pleno del Tribunal, de entre los que no se encuentren adscritos a una u otro; a falta o imposibilidad de alguno de éstos, por el secretario de Acuerdos de la Sala respectiva, y a falta o imposibilidad de éste por un secretario de Estudio y Cuenta de la propia Sala, en cuyo caso no se exigirá el requisito previsto por el artículo 4 fracción II de esta Ley.
 
 ###### Artículo 20.
 
@@ -2506,3 +2506,9 @@ G.O. 25 DE DICIEMBRE DE 2008.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Artículo segundo. El Poder Judicial del Estado y la Secretaría de Finanzas y Planeación, acordarán el monto de los recursos que se requieran para poner en marcha y operar, a partir del próximo ejercicio fiscal, los Juzgados de Control, al efecto de que se solicite al H. Congreso del Estado, considerar tales erogaciones en el Presupuesto de Egresos para el año 2009.
+
+G.O. 7 DE ABRIL DE 2009.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan las disposiciones que se opongan al presente decreto.
