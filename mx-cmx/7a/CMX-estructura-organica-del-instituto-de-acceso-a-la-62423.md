@@ -4,7 +4,7 @@ identifier: "CMX-estructura-organica-del-instituto-de-acceso-a-la-62423"
 country: "mx"
 rank: "otro"
 publication_date: "2008-08-26"
-last_updated: "2008-08-26"
+last_updated: "2009-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62423&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2009-04-07"
 
 ESTRUCTURA ORGANICA DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE ABRIL DE 2009.
 
 Estructura publicada en la Gaceta Oficial del Distrito Federal, el martes 26 de agosto de 2008.
 
@@ -89,6 +89,10 @@ Departamento de Capacitación y Formación
 
 Departamento de Educación y Cultura
 
+> <small>N. DE E. EN RELACION CON LA ESTRUCTURA ORGANICA DE LA PRESENTE DIRECCION, VER G.O. DE 7 DE ABRIL DE 2009, PAGINA 266.</small>
+
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2009)</small>
+
 Dirección de Evaluación y Estudios
 
 Subdirección de Evaluación y Estudios
@@ -97,9 +101,9 @@ Departamento de Procesamiento y Análisis Estadístico
 
 Departamento de Vigilancia y Seguimiento
 
-Departamento de Asesoría Archivística y
+Departamento de Protección de Datos Personales
 
-Protección de Datos Personales
+Departamento de Registro de Datos Personales y Archivos
 
 Dirección de Vinculación con la Sociedad
 
@@ -140,3 +144,15 @@ José de Jesús Ramírez Sánchez
 Secretario Técnico
 
 Responsable de la Publicación
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 7 DE ABRIL DE 2009.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL ORDENAMIENTO.
+
+PRIMERO. Se aprueba la Modificación al Acuerdo 340/SO/13-08/2008 en lo relativo a la Estructura de la Dirección de Evaluación y Estudios del Instituto de Acceso a la Información Pública del Distrito Federal, conforme al documento que, como anexo, forma parte del presente Acuerdo.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+TERCERO. Se instruye al Secretario Técnico para que en el ámbito de sus atribuciones realice las gestiones necesarias para que el presente Acuerdo sea publicado en la Gaceta Oficial del Distrito Federal, en el portal de Internet y en los estrados del INFODF, respectivamente.
