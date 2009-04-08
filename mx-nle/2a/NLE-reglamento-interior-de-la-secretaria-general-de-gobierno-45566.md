@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-general-de-gobierno-45566"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-07-01"
-last_updated: "2008-03-14"
+last_updated: "2009-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 1 de julio de 2005.
 
@@ -441,9 +441,33 @@ XIII. Dar seguimiento en la conformación, acopio y actualización de los Manual
 
 XIV. Supervisar la planeación de los programas y proyectos que realizan las Unidades Administrativas, vinculados con el presupuesto acordes al Plan Estatal de Desarrollo;
 
-XV. Apoyar las acciones del Consejo de Seguridad Pública; y
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2009)</small>
 
-XVI. Las demás facultades que le confieran las disposiciones jurídicas aplicables y el Secretario.
+XV. Apoyar, en el ámbito de su competencia las acciones del Consejo de Coordinación del Sistema Integral de Seguridad Pública del Estado;
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2009)</small>
+
+XVI. Validar y en su caso, gestionar con base en los Acuerdos del Consejo Nacional de Seguridad Pública y en los Convenios que en el Marco del Sistema Nacional de Seguridad Pública anualmente se suscriban los Anexos Técnicos de éstos, las erogaciones para sufragar los costos de los programas de seguridad pública;
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2009)</small>
+
+XVII. Solicitar a la Secretaría de Finanzas y Tesorería General del Estado la ministración de los recursos aportados por el gobierno federal correspondientes al “Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal” (FASP), así como los correspondientes recursos estatales que se pacten en los convenios que en dicha materia anualmente se suscriben, para su aplicación en la realización de las acciones que en materia de seguridad pública se encuentran previstas en la referida Ley de Coordinación Fiscal y en los convenios que de ella emanen;
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2009)</small>
+
+XVIII. Validar las solicitudes de financiamiento de bienes, servicios e infraestructura, destinada a la seguridad pública, siempre que sean procedentes conforme a los programas de seguridad previstos en los Convenios y los Anexos Técnicos en materia de seguridad pública, cuyos costos serán sufragados con los recursos aportados por el Gobierno Federal correspondientes al “Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal” (FASP), así como los correspondientes recursos estatales que se pacten en los convenios que en dicha materia anualmente se suscriben;
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2009)</small>
+
+XIX. Dar seguimiento a los avances de los proyectos de inversión en los que están involucrados recursos correspondientes al "Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal” (FASP), así como los correspondientes recursos estatales que en la materia sean aportados;
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2009)</small>
+
+XX. Administrar y mantener actualizada la información requerida por el Sistema Nacional de Seguridad Pública; y colaborar con la Secretaría de Finanzas y Tesorería General del Estado en la elaboración y envío de información al Gobierno Federal conforme a las disposiciones de la Ley de Coordinación Fiscal; y
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2009)</small>
+
+XXI. Las demás facultades que le confieran las disposiciones jurídicas aplicables y el Secretario.
 
 ###### Artículo 20.
 
@@ -1206,3 +1230,9 @@ P.O. 14 DE MARZO DE 2008.
 PRIMERO.- Se instruye a la Secretaría de Finanzas y Tesorería General del Estado, y a la Oficialía Mayor de Gobierno para implementar las medidas de carácter financiero y administrativo necesarias para la debida ejecución del presente instrumento.
 
 SEGUNDO.- El presente Acuerdo entrará en vigor en la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ABRIL DE 2009.
+
+PRIMERO. El presente Acuerdo entrará en vigor en la fecha de su firma y deberá publicarse en el Periódico Oficial del Estado.
+
+SEGUNDO. Se instruye a la Secretaría General de Gobierno, a la Secretaría de Finanzas y Tesorería General del Estado y a la Oficialía Mayor de Gobierno, para que en el ámbito de sus respectivas competencias implementen las medidas de carácter administrativo conducentes a la ejecución del presente Acuerdo.
