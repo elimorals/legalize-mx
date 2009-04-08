@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-federal-de-acceso-a-la-55161"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-05-02"
-last_updated: "2007-05-02"
+last_updated: "2009-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55161&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-10-04"
 
 REGLAMENTO INTERIOR DEL INSTITUTO FEDERAL DE ACCESO A LA INFORMACION PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE ABRIL DE 2009.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 2 de mayo de 2007.
 
@@ -103,7 +103,7 @@ g) De Estudios e Investigación, y
 
 h) De Informática y Sistemas.
 
-VIII. Secretaría Técnica del Pleno;
+VIII. (DEROGADA, D.O.F. 8 DE ABRIL DE 2009)
 
 IX. Las demás unidades y personal técnico y administrativo que autorice el Organo de Gobierno a propuesta del Comisionado Presidente, de acuerdo con su presupuesto, y
 
@@ -617,33 +617,13 @@ VI. Coadyuvar con la unidad administrativa competente en la definición y ejecuc
 
 VII. Administrar las licencias de software y realizar su distribución entre las unidades administrativas que las requieran.
 
+> <small>(DEROGADO, D.O.F. 8 DE ABRIL DE 2009)</small>
+
 ### CAPITULO NOVENO. DISPOSICIONES FINALES
 
 ###### Artículo 35.
 
-Son atribuciones específicas de la Secretaría Técnica del Pleno:
-
-I. Coadyuvar en la entrega de los recursos documentales y materiales que los comisionados requieran para la toma de decisiones;
-
-II. Tomar nota de los acuerdos dictados por el Pleno y/o el Organo de Gobierno, así como de los temas que se deriven de éstos;
-
-III. Representar al Pleno en las comisiones, comités, subcomités y actos diversos que le ordene ese órgano colegiado;
-
-IV. Administrar la agenda y protocolo del Pleno y Organo de Gobierno del Instituto;
-
-V. Recabar la firma de las resoluciones de los recursos de revisión, de consideración, procedimientos de verificación de falta de respuesta y otros interpuestos ante el Instituto, acuerdos y actas de las sesiones del Pleno y Organo de Gobierno por parte de los comisionados, los secretarios y otros servidores públicos del Instituto;
-
-VI. Elaborar bases de datos que reflejen el estado que guardan tanto los recursos de revisión de revisión de consideración, procedimientos de verificación de falta de respuesta y otros, como los acuerdos del Pleno, en sus procesos de firma y cumplimiento, y emitir reportes y estadísticas al respecto;
-
-VII. Enviar información actualizada sobre asuntos pendientes de la Secretaría de Acuerdos y la Secretaría Ejecutiva;
-
-VIII. Identificar los asuntos pendientes y concluidos en las comisiones y los comités para mantener actualizados los sistemas correspondientes;
-
-IX. Archivar la documentación referente a las diversas tareas de su encargo, con objeto de que la información sea manejable y fácilmente localizable;
-
-X. Fungir como enlace entre los comisionados y las secretarías de Acuerdos y Ejecutiva para la notificación de instrucciones por acuerdo de éstos, y
-
-XI. Las demás que las disposiciones legales y administrativas le confieran, así como las que le encomiende el Pleno.
+(DEROGADO, D.O.F. 8 DE ABRIL DE 2009)
 
 ###### Artículo 36.
 
@@ -678,3 +658,11 @@ SEGUNDO. Se abroga el Reglamento Interior del Instituto Federal de Acceso a la I
 Así lo acordó el Pleno del Instituto Federal de Acceso a la Información Pública, en sesión celebrada el día 4 de octubre de dos mil seis, ante.- El Comisionado Presidente, Alonso Lujambio Irazábal.- Rúbrica.- Los Comisionados: Horacio Aguilar Alvarez de Alba, Alonso Gómez Robledo Verduzco, Juan Pablo Guerrero Amparán y María Marván Laborde.- Rúbricas.- El Secretario de Acuerdos, Francisco Ciscomani Freaner.- Rúbrica.
 
 El Comisionado Presidente, Alonso Lujambio Irazábal.- Rúbrica.- Los Comisionados, Horacio Aguilar Alvarez de Alba, Alonso Gómez Robledo Verduzco, Juan Pablo Guerrero Amparán, María Marván Laborde.- Rúbricas.- El Secretario de Acuerdos, Francisco Ciscomani Freaner.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 8 DE ABRIL DE 2009.
+
+PRIMERO. Las modificaciones al Reglamento Interior entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las atribuciones que tenía conferidas la Secretaría Técnica del Pleno, serán ejercidas por la Secretaría de Acuerdos o por la Secretaría Ejecutiva, según corresponda.
