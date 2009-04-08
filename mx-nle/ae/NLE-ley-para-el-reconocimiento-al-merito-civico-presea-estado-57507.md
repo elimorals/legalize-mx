@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-el-reconocimiento-al-merito-civico-presea-estado-57507
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-07"
-last_updated: "2007-11-07"
+last_updated: "2009-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA EL RECONOCIMIENTO AL MERITO CIVICO "PRESEA ESTADO DE NUEVO LEON"
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 7 de noviembre de 2007.
 
@@ -113,7 +113,9 @@ III. Un Secretario Técnico, que será el Notario Público que sea designado por
 
 IV. Un Tesorero, que será el Secretario de Finanzas y Tesorero General del Estado; y
 
-V. Los Vocales, que serán: un representante del Poder Legislativo y otro del Poder Judicial, un miembro de la Sociedad de Historia, Geografía y Estadística, así como hasta siete personas físicas y representantes de las diversas instituciones, organismos y grupos integrantes de los sectores privado y social, que serán nombrados por el Gobernador del Estado.
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2009)</small>
+
+V. Los Vocales, que serán: un representante del Poder Legislativo y otro del Poder Judicial, el Presidente Ejecutivo del Consejo Estatal para la Promoción de Valores y Cultura de la Legalidad, un miembro de la Sociedad de Historia, Geografía y Estadística, así como hasta siete personas físicas y representantes de las diversas instituciones, organismos y grupos integrantes de los sectores privado y social, que serán nombrados por el Gobernador del Estado.
 
 Los cargos mencionados serán desempeñados en forma honorífica y no podrán acordarse remuneración alguna para sus integrantes, quienes ejercerán el cargo por un año, pudiendo ser nuevamente designados para periodos subsecuentes.
 
@@ -332,3 +334,15 @@ RODRIGO MEDINA DE LA CRUZ
 EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 RUBÉN EDUARDO MARTÍNEZ DONDÉ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE ABRIL DE 2009.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Consejo Estatal para la Promoción de Valores y Cultura de la Legalidad, dentro de un plazo no mayor a noventa días naturales siguientes al de la entrada en vigor del presente Decreto, acordará la fecha de inicio del primer procedimiento para la selección de los personajes que se estimen merecedores del homenaje a que se refiere el presente Decreto.
+
+Tercero.- El Consejo Estatal para la Promoción de Valores y Cultura de la Legalidad, dentro de un plazo no mayor a noventa días naturales, contados a partir de la entrada en vigor del presente Decreto, deberá aprobar la ubicación y características del Recinto, para su remisión al Ejecutivo del Estado.
+
+Cuarto.- El Ejecutivo, a través de la Secretaria de Finanzas y Tesorería General del Estado, determinará la reasignación presupuestal que corresponda para la realización del Recinto de los Hombres y Mujeres Ilustres del Estado de Nuevo León dentro del ejercicio fiscal 2009.
