@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-transparencia-e-informacion-publica-del-46367"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-09-06"
-last_updated: "2005-09-06"
+last_updated: "2009-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 REGLAMENTO DE TRANSPARENCIA E INFORMACION PUBLICA DEL INSTITUTO ELECTORAL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DE TRANSPARENCIA E INFORMACION PUBLICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 9 DE ABRIL DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Jalisco, el martes 6 de septiembre de 2005.
 
@@ -496,3 +498,17 @@ La suscrita Encargada de Despacho de la Secretaría Ejecutiva del Instituto Elec
 Lic. Griselda Beatriz Rancel Juárez
 
 Encargada de Despacho de la Secretaría Ejecutiva
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE ABRIL DE 2009.
+
+PRIMERO. Se abroga el Reglamento de Transparencia e Información Pública del Instituto Electoral del Estado de Jalisco, publicado en el Periódico Oficial "El Estado de Jalisco" el día 06 seis de septiembre de 2005 dos mil cinco.
+
+SEGUNDO. El presente Reglamento entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+TERCERO. El tabulador del costo de los materiales que se utilicen en la reproducción de la información que se solicite, deberá emitirse en fecha posterior a aquella en que entre en vigor la Ley de Ingresos del Estado de Jalisco del ejercicio fiscal de que se trate.
+
+CUARTO. Lo dispuesto en el artículo 20, párrafo 2, deberá cumplirse dentro de los 10 diez días siguientes a la entrada en vigor de este Reglamento.
+
+QUINTO. Para efecto de lo dispuesto en el artículo 28, párrafo 2 de este Reglamento, para el año 2009, el cumplimiento de las obligaciones que tienen los partidos políticos para el mes de marzo, se deberán de realizar a más tardar el último día del mes de mayo.
