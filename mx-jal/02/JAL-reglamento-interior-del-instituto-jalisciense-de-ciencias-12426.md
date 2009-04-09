@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-instituto-jalisciense-de-ciencias-12426
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-08-13"
-last_updated: "1998-08-13"
+last_updated: "2009-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,504 +21,752 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES
 
-REGLAMENTO INTERIOR DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES
+ESTATUTO ORGÁNICO DEL INSTITUTO METROPOLITANO DE PLANEACIÓN DEL SUR DE TAMAULIPAS (IMEPLAN)
 
 TEXTO ORIGINAL.
 
-Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 13 de agosto de 1998.
+Estatuto publicado en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 5 de septiembre de 2013.
 
-Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
+El día 25 de febrero de 2013, en la Quincuagésima Segunda Sesión de la Junta de Gobierno del IMEPLAN se aprobó el:
 
-ACUERDO DEL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO.
-
-Guadalajara, Jalisco, Julio veinticuatro de mil novecientos noventa y ocho.
-
-Con fundamento en los artículos 50, fracción VIII, de la Constitución Política del Estado de Jalisco; 5 y 6 de la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco; 10 fracción XI de la Ley Orgánica del Instituto Jalisciense de Ciencias Forenses; y con base en la siguiente
-
-EXPOSICIÓN DE MOTIVOS...
-
-De conformidad con lo expuesto y con los fundamentos anteriormente citados, tengo a bien emitir el siguiente:
-
-ACUERDO:
-
-Unico.- Se expide el Reglamento Interior del Instituto Jalisciense de Ciencias Forenses, para quedar como sigue:
+ESTATUTO ORGÁNICO DEL INSTITUTO METROPOLITANO DE PLANEACIÓN DEL SUR DE TAMAULIPAS (IMEPLAN).
 
 ## TITULO I
 
-### CAPÍTULO ÚNICO. Disposiciones Generales
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### Artículo 1.
+###### Artículo 1°.
 
-El objeto del presente ordenamiento es reglamentar la estructura y funcionamiento del Instituto Jalisciense de Ciencias Forenses como un organismo público descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios, que tiene a su cargo las facultades que le encomiendan, la Ley Orgánica del Instituto Jalisciense de Ciencias Forenses, la Ley Orgánica de la Procuraduría General de Justicia del Estado, el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado y otras leyes, reglamentos, decretos, acuerdos y órdenes del Gobernador del Estado.
+Las disposiciones de éste Estatuto Orgánico tienen por objeto regular la administración y funcionamiento del Instituto Metropolitano de Planeación del Sur de Tamaulipas (IMEPLAN), así como las atribuciones que contempla en materia de Planeación para el desarrollo sustentable integral, urbano y de ordenamiento territorial, de aplicación y observancia en la Zona Conurbada de Tampico, Cd. Madero y Altamira para mejorar las condiciones de vida de sus habitantes; en congruencia con el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano y el Sistema Estatal de Planeación e Información geográfica para el desarrollo Urbano, y con fundamento en la Ley de Desarrollo Urbano del Estado de Tamaulipas y la Ley Orgánica en lo que corresponde a los Ayuntamientos, son de orden público e interés social; estableciendo con este ordenamiento, las bases e instrumentos idóneos para su consecución.
 
-###### Artículo 2.
+###### Artículo 2°.
 
-Para los efectos de este reglamento, se denominará:
+GLOSARIO, para los efectos de éste Estatuto Orgánico se entenderá por:
 
-I. Instituto: El Instituto Jalisciense de Ciencias Forenses.
+I.- DECRETO LIX-452 que crea el IMEPLAN.
 
-II. La Ley: La ley Orgánica del Instituto Jalisciense de Ciencias Forenses.
+II.- AYUNTAMIENTO: Es el Órgano de Gobierno del Municipio.
 
-III. El Reglamento: El Reglamento interior del Instituto Jalisciense de Ciencias Forenses.
+III.- CONSEJO CONSULTIVO CIUDADANO: Es el Órgano de orientación, consulta y opinión del Instituto.
 
-###### Artículo 3.
+IV.- CONURBACIÓN: Es el área de la cual el Congreso del Estado reconoce legalmente la continuidad física y demográfica que forman los municipios de Altamira, Cd. Madero y Tampico, con objeto de establecer la coordinación entre el Estado y esos Municipios en la toma de decisiones en materia de ordenamiento del territorio, considerándose como una sola unidad a todo el conjunto.
 
-Para el estudio, planeación, desarrollo y cumplimiento de las funciones y atribuciones que le competen, el Instituto contará con los órganos y estructura administrativa que establecen su ley y este reglamento.
+V.- DESARROLLO SUSTENTABLE: Es la capacidad de hacer que el desarrollo ocurra satisfaciendo las necesidades actuales, si perjudicar la posibilidad de las generaciones futuras de satisfacer las suyas.
 
-El Instituto contará asimismo, con las unidades subalternas que se establezcan por acuerdo de su titular, las que deberán contenerse y especificarse en el Manual General de Organización del Instituto.
+VI.- DESARROLLO URBANO: Es el proceso de planeación y ejecución de acciones de administración, ordenación, conservación, mejoramiento y crecimiento para los asentamientos humanos.
+
+VII.- ITAVU: Instituto Tamaulipeco de Vivienda y Urbanización.
+
+VIII.- INSTITUTO: Instituto Metropolitano de Planeación del Sur de Tamaulipas.
+
+IX.- JUNTA DE GOBIERNO: Órgano de conducción del Instituto.
+
+X.- LEY: Ley para el Desarrollo Urbano del Estado de Tamaulipas.
+
+XI.- PROGRAMA ESTATAL: Es el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano.
+
+XII.- ORDENAMIENTO TERRITORIAL: Es el conjunto de acciones concertadas emprendidas por el Estado y los municipios para orientar la transformación, ocupación y utilización del suelo.
+
+XIII.- SISTEMA ESTATAL: Es el Sistema Estatal de Planeación e información geográfica para el Desarrollo Urbano, integrado por el conjunto de programas de carácter estatal, sectorial, regional, municipal y parcial aprobados, y la información geográfica correspondiente.
+
+XIV.- SECRETARÍA: Secretaría de Desarrollo Urbano y Medio Ambiente.
+
+XV.- ZONA METROPOLITANA: Es el conjunto de dos o más municipios donde se localiza una Cd. de 50,000 habitantes o más, cuya área urbana, funciones y actividades rebasan el límite del Municipio que originalmente la contenía, incorporando como parte de sí misma o de su área de influencia directa a municipios vecinos predominantemente urbanos, con los que mantiene un alto grado de integración socioeconómica.
+
+###### Artículo 3°.
+
+Son autoridades las ya establecidas en la Ley vigente en la materia.
 
 ## TITULO II. De los Organos y Estructura Administrativa del Instituto
 
-### CAPÍTULO I. De la Integración
+### CAPÍTULO II. DE LAS AUTORIDADES EN MATERIA DE PLANEACIÓN PARA ZONAS CONURBADAS
 
-###### Artículo 4.
+###### Artículo 4°.
 
-El Instituto se conformará con los órganos siguientes:
+Son atribuciones y obligaciones de las autoridades, las establecidas en la Ley vigente de la materia.
 
-I. Junta de Gobierno
+###### Artículo 5°.
 
-II. Dirección General
+El Instituto, es un organismo público descentralizado de la administración pública Estatal, con participación de los Ayuntamientos de Altamira, Cd. Madero y Tampico, con personalidad jurídica y patrimonio propios. Creado por el Decreto LIX-452.
 
-III. Tesorería
+### CAPÍTULO III. DE LA PERSONALIDAD, OBJETO, ATRIBUCIONES Y DOMICILIO DEL INSTITUTO METROPOLITANO
 
-###### Artículo 5.
+###### Artículo 6°.
 
-El Instituto contará de manera enunciativa, mas no limitativa, con las siguientes Direcciones y Unidades Administrativas:
+El IMEPLAN funcionará permanentemente, teniendo su domicilio oficial o sede en cualquiera de las ciudades de Altamira, Cd. Madero y Tampico que designe su junta de Gobierno.
 
-I. Dirección de Dictaminación Pericial;
+###### Artículo 7°.
 
-II. Dirección de Investigación y Capacitación;
+Del Objeto:
 
-III. Dirección de Laboratorios;
+I. Fungir como ámbito para la reflexión de carácter técnico en materia de uso ordenado del territorio, e incorporación de políticas ambientales que contribuyan al logro del desarrollo urbano sustentable, a partir de la actuación de un Consejo Ciudadano que vincule a la sociedad y el gobierno en los procesos de planeación del territorio conurbado;
 
-IV. Dirección del Servicio Médico Forense;
+II. Ser órgano de consulta, asesoría y evaluación en temas urbanos, tanto para las entidades públicas y privadas, como para las personas en lo individual;
 
-V. Coordinación Administrativa;
+III. Promover procesos de planeación y garantizar su continuidad y eficiencia para que en la Zona Conurbada de Altamira, Ciudad Madero y Tampico se fortalezca el desarrollo sustentable mediante la aplicación de directrices que provengan de una visión de largo plazo.
 
-VI. Coordinación de Asesores y Apoyo Jurídico;
+El Instituto realizará sus funciones con base en los principios de Objetividad, visión de largo plazo, sustentabilidad, legalidad, calidad y eficiencia. Actuará con apego a lo dispuesto en el orden jurídico estatal, particularmente las disposiciones en materia de desarrollo urbano, así como en el Plan Estatal y los planes vigentes de ordenamiento territorial y desarrollo urbano de los municipios de Altamira, Ciudad Madero y Tampico, y en su caso, el plan integral y los planes parciales que en la materia se elaboren para la Zona Conurbada.
 
-VII. Unidad de Comunicación Social;
+Atribuciones:
 
-VIII. Unidades Desconcentradas y,
+###### Artículo 8°.
 
-IX. Delegaciones Regionales
+Atribuciones y Facultades:
 
-### CAPÍTULO II. De la Junta de Gobierno
+I. Realizar tareas de investigación geográfica, ambiental y urbana, así como, a solicitud expresa de los Ayuntamientos de Altamira, Ciudad Madero y Tampico, efectuar estudios en los campos económico, social y cultural, para dar sustento a la planeación estratégica;
 
-###### Artículo 6.
+II. Elaborar y mantener actualizado el Programa Metropolitano de Ordenamiento Territorial y Desarrollo Urbano para los municipios de Altamira, Ciudad Madero y Tampico; así como los demás planes que se requieran en la materia, proponiendo para ello, cuando lo estime procedente, los cambios que se estimen convenientes, o bien a través del análisis de las propuestas que realicen los gobiernos municipales en el seno de la Junta de Gobierno.
 
-La Junta de Gobierno como primera autoridad del Instituto, es un órgano colegiado que estará integrado conforme a lo establecido en el artículo 8 de la Ley y tiene los objetivos y atribuciones previstas en los artículos 5 y 10 del mismo ordenamiento.
+En todo caso, cada tres años, al finalizar el segundo año del periodo constitucional de los Ayuntamientos, por iniciativa propia, deberá presentar una propuesta de actualización integral del mismo.
 
-Podrá invitar a sus sesiones a representantes de diversas dependencias del Estado, la Federación o de las demás entidades federativas, instituciones privadas, nacionales o extranjeras que, sin formar parte de dicho órgano de gobierno, tienen encomendadas funciones en materia de ciencias forenses, cuando por la índole de los asuntos a tratar, considere conveniente o necesaria su participación.
+Elaboración de la investigación estratégica y la formulación de la propuesta de planes y programas de los ordenamientos territoriales, urbanos ecológicos ambientales y socioeconómicos de los municipios de la zona metropolitana así como de la elaboración de información básica.
 
-Los invitados solo tendrán derecho al uso de la voz y no podrán votar.
+III. Elaborar, por sí o por conducto de terceros, los proyectos estratégicos para el desarrollo urbano de la Zona Conurbada;
 
-###### Artículo 7.
+IV. Realizar, por sí o por conducto de terceros, estudios y proyectos en materias de ingeniería vial y transporte, movilidad urbana, medio ambiente, paisaje urbano y otros que se estimen convenientes o que le soliciten las autoridades municipales en el seno de la Junta de Gobierno;
 
-Cada miembro propietario propondrá un suplente que será aprobado por la Junta de Gobierno y contará con las mismas facultades que los propietarios, en los casos de ausencia de estos últimos.
+V. Prestar asistencia técnica en materia de planeación, estudios y proyectos a los organismos de la administración pública, a organismos no gubernamentales y a personas físicas o morales del sector privado, mediante contrato o convenio de prestación de servicios;
 
-###### Artículo 8.
+VI. Integrar, en coordinación de los Ayuntamientos de Altamira, Ciudad Madero y Tampico, un sistema de información sobre la propiedad inmobiliaria en la Zona Conurbada que contemple la situación jurídica de cada inmueble;
 
-La convocatoria de sesiones de la Junta de Gobierno, que deberá ser conforme a lo establecido en la Ley, contendrá el orden del día y deberá ser entregada y recibida por los miembros de la misma con una anticipación no menor de cinco días hábiles debiendo anexarse copia de la minuta del acta de la sesión anterior, así como de la información y documentación correspondiente.
+VII. Evaluar la utilidad de las áreas municipales de equipamiento, con objeto de emitir recomendaciones sobre el o los usos que para la comunidad se requieren en el futuro, y de señalar, con base en criterios urbanísticos y en las disposiciones legales vigentes, opinión en los casos en que el Ayuntamiento respectivo estime conveniente cambiar su uso o destino, para que la autoridad municipal determine lo procedente;
 
-###### Artículo 9.
+VIII. Promover la participación ciudadana organizada, en torno a propuestas de proyectos estratégicos, de modificaciones al Programa Metropolitano de Ordenamiento Territorial y Desarrollo Urbano para los municipios de Altamira, Ciudad Madero y Tampico, y de cambio específico de uso de suelo de predios, así como de otros asuntos que se estime justificado consultar, con objeto de conocer su opinión;
 
-Para que tengan validez las sesiones de la Junta de Gobierno, se requerirá la asistencia de la mitad más uno de sus miembros.
+IX. Promover, apoyar y llevar a cabo la capacitación y difusión didáctica de la planificación en instituciones educativas y en organizaciones de profesionales y técnicos en la materia;
 
-Las resoluciones de la Junta de Gobierno se tomarán por mayoría de votos, en caso de empate, el Presidente tendrá voto de calidad.
+X. Difundir y promover en los medios de comunicación la planificación y las políticas públicas vigentes en la materia, con la finalidad de crear conciencia de la importancia que tienen en el mejoramiento de la calidad de vida;
 
-###### Artículo 10.
+XI. Administrar el Sistema de Información Geográfica y Estadística de la Zona Conurbada con base en las disposiciones de la Ley de información Geográfica y Estadística. Al efecto, entre otras actividades, mantener actualizada la cartografía digital, registrando toda autorización que modifique los límites o tamaño de predios o sus edificaciones. La cartografía digitalizada y actualizada será proporcionada a las diferentes áreas de la administración municipal para las aplicaciones que se estimen convenientes, como el catastro, el organismo operador de los servicios de agua potable y alcantarillado, y otras que lo requieran;
 
-Las sesiones ordinarias de la Junta de Gobierno se celebrarán el primer lunes de cada trimestre, si por cualquier causa no se efectuase alguna de ellas, la misma tendrá lugar el lunes siguiente.
+Llevar a cabo y ejecutar las acciones necesarias para la generación, interpretación y manejo de la información técnica y de política de diseño urbano, infraestructura urbana así como de la generación de proyectos de diseño urbano que estén planteados en los distintos ordenamientos de planeación de los municipios metropolitanos.
 
-###### Artículo 11.
+XII. Integrar, actualizar y resguardar el catálogo del patrimonio arquitectónico edificado en la Zona Conurbada, y responsabilizarse de dictaminar sobre la conservación, restauración o eventual modificación de los edificios;
 
-Todos los acuerdos que se tomen en las sesiones de la Junta de Gobierno, serán asentados en el libro de actas, que firmarán, quien la haya presidido y el Secretario Técnico.
+XIII. Actuar como coadyuvante del Instituto Nacional de Antropología e Historia, y del Gobierno del Estado, a efecto de atender los asuntos que requieran coordinación en materia de patrimonio histórico público; y,
 
-###### Artículo 12.
+XIV. Las demás que el Decreto y otras disposiciones le confieran o le sean asignadas por los Ayuntamientos para el cumplimiento de su objeto en uso de sus facultades y atribuciones.
 
-El Presidente de la Junta de Gobierno, cuando estime que hay razones de importancia, podrá citar a los miembros a sesión extraordinaria con 48 horas de anticipación. Los miembros de la Junta de Gobierno podrán convocar a sesión extraordinaria, únicamente cuando lo soliciten seis de los vocales propietarios.
+###### Artículo 9°.
 
-###### Artículo 13.
+El patrimonio del Instituto estará constituido por:
 
-La Junta de Gobierno contará con un Secretario Técnico que será designado por el Director del Instituto, el que deberá ser aprobado por la Junta de Gobierno, su cargo será honorífico y tendrá las siguientes funciones:
+I. Los derechos que tenga sobre los bienes muebles e inmuebles o recursos que le transfieran los gobiernos federales, estatales o municipales;
 
-I. Proponer el proyecto de acta de las sesiones ordinarias y extraordinarias que celebre la Junta de Gobierno;
+II. Las aportaciones que le destinen el Gobierno del Estado y/o los Ayuntamientos de Altamira, Ciudad Madero y Tampico en sus presupuestos anuales de egresos, procurándose que dichas aportaciones sean equitativas y suficientes para satisfacer las necesidades de operación del Instituto;
 
-II. Por instrucción del Presidente de la Junta de Gobierno, remitir oportunamente a los vocales los citatorios, ordenes del día y material indispensable para realizar las sesiones ordinarias y extraordinarias;
+III. Las aportaciones, donaciones, legados y demás liberalidades análogas que reciba de los sectores social y privado;
 
-III. Llevar el control del libro de actas y firmarlo en compañía del Presidente y,
+IV. Los derechos que perciba como contraprestación de los servicios que preste;
 
-IV. Certificar y dar fe de los actos y acuerdos que emita la Junta de Gobierno.
+V. Los rendimientos, recuperaciones y demás ingresos que obtenga de la inversión de los recursos a que se refieren las fracciones anteriores;
 
-### CAPÍTULO III. Del Director General
+VI. En general, todos los bienes, derechos y obligaciones que entrañen utilidad económica o sean susceptibles de estimación pecuniaria y que se obtengan por cualquier título legal.
 
-###### Artículo 14.
+###### Artículo 10°.
 
-El Director General, como autoridad ejecutiva del Instituto, tendrá las siguientes atribuciones, sin perjuicio de las que la Ley le otorga:
+El Instituto administrará su patrimonio con sujeción a las disposiciones legales aplicables y lo destinará al cumplimiento de su objeto, de conformidad con lo establecido en el Decreto.
 
-I. Diseñar y establecer los requisitos mínimos indispensables que deben contener los dictámenes e informes de las diversas especialidades periciales;
+###### Artículo 11°.
 
-II. Diseñar los mecanismos, procedimientos y programas de supervisión y seguimiento de las actividades que realicen los peritos adscritos al Instituto;
+Los bienes del Instituto destinados al ejercicio de su función se considerarán bienes del dominio público en términos de la Ley de Bienes del Estado y Municipios de Tamaulipas. En la enajenación de los mismos deberán observarse las disposiciones aplicables en la materia para el Gobierno del Estado.
 
-III. Habilitar peritos cuando el Instituto no cuente con especialistas en una determinada disciplina, ciencia o arte, cuando se requiera o en casos urgentes;
+###### Artículo 12°.
 
-IV. Atender las peticiones de servicios periciales que formule el Ministerio Público y canalizarlas para su atención a los titulares de las diversas especialidades;
+El Instituto Metropolitano de Planeación del Sur de Tamaulipas estará integrado por:
 
-V. Designar a los peritos en las diferentes especialidades cuando sean requeridos por el Ministerio Público, Organo Jurisdiccional y demás autoridades;
+I. Una Junta de Gobierno;
 
-VI. Establecer los mecanismos, procedimientos de registro y control de atención a las peticiones de servicios periciales formuladas por los agentes del Ministerio Público, así como elaborar los informes y estadísticas correspondientes;
+II. Un Consejo Consultivo Ciudadano; y
 
-VII. Establecer y operar un sistema de supervisión permanente del personal técnico-científico de las diversas especialidades periciales, a efecto de garantizar que cumplan y observen las normas jurídico-administrativas vigentes en la materia;
+III. Una Dirección General.
 
-VIII. Proponer a la Junta de Gobierno el mecanismo de acreditación y evaluación para peritos del Estado que presten sus servicios de manera oficial o particular;
+#### SECCIÓN PRIMERA. DE LA JUNTA DE GOBIERNO
 
-IX. Proponer a la Junta de Gobierno, las normas y requisitos de acreditación, validación y certificación del desempeño profesional de los peritos oficiales y privados;
+Integración:
 
-X. Tener a su cargo el casillero de identificación criminalística;
+###### Artículo 13°.
 
-XI. Informar a la Junta de Gobierno sobre los programas de intercambio de experiencias, conocimientos y avances tecnológicos que mediante convenios y contratos celebre con las unidades de Servicios Periciales de la Procuraduría General de la República, de las Procuradurías Generales de los Estados y del Distrito Federal, así como con instituciones similares del extranjero, para lograr el mejoramiento y la modernización de sus funciones;
+La Junta de Gobierno es el órgano de conducción del Instituto y estará integrada de la siguiente forma:
 
-XII. Someter a aprobación de la Junta de Gobierno el costo que deberán pagar los particulares por los servicios periciales que preste el Instituto, para efecto de su inclusión en la Ley de Ingresos del Estado en el ejercicio fiscal que corresponda, previos los trámites de ley que para el caso se requieran;
+I. Un Presidente que será el Secretario de Desarrollo Urbano y Medio Ambiente;
 
-XIII. Ejercer el presupuesto del Instituto en forma solidaria y mancomunada con el Tesorero de la propia Institución y,
+II. Tres Vicepresidentes que serán los Presidentes Municipales de los Ayuntamientos de Altamira, Ciudad Madero y Tampico;
 
-XIV. Las demás que señalen las disposiciones aplicables y las que le confiera la Junta de Gobierno.
+III. Un Representante del Congreso del Estado, que será un Diputado integrante de la Comisión de Desarrollo Urbano, o residente de cualquiera de los Municipios que integran la Zona Conurbada; y,
 
-### CAPÍTULO IV. De la Tesorería
+IV. Cuatro vocales, que serán los titulares de cada una de las siguientes dependencias estatales:
 
-###### Artículo 15.
+a). La Secretaría de Finanzas;
 
-Al frente de la Tesorería habrá un titular que tendrá, sin perjuicio de las establecidas en la Ley Orgánica del Instituto Jalisciense de Ciencias Forenses, las atribuciones siguientes:
+b). La Secretaría de Obras Públicas;
 
-I. Diseñar y establecer los criterios y lineamientos a que debe apegarse el funcionamiento de la Institución en materia financiera y contable;
+c). La Secretaría de Desarrollo Social;
 
-II. Diseñar los programas, mecanismos y procedimientos de supervisión y seguimiento de las actividades financieras y contables que realicen las distintas unidades administrativas y servidores públicos del Instituto;
+d). La Secretaría de Desarrollo Económico y Turismo.
 
-III. Controlar y evaluar las actividades financieras y contables que realice la institución;
+Generalidades:
 
-IV. Establecer los mecanismos y procedimientos para la formulación de los estados financieros, balance anual e informes estadísticos y económicos de la Institución;
+La Junta de Gobierno contará con un Secretario de Actas, que será el Director General del Instituto.
 
-V. Mantener informado permanentemente del estado financiero y contable de la Institución al Director General;
+Los integrantes de la Junta de Gobierno nombrarán en forma oficial y por escrito a sus respectivos suplentes, excepto el representante del Congreso del Estado cuyo suplente será designado por el Pleno Legislativo.
 
-VI. Llevar el registro y control de las autorizaciones de títulos de crédito a cargo del Instituto;
+El Presidente de la Junta o el Secretario de la misma, por instrucciones de aquél, podrán invitar a las sesiones de la Junta a las personas físicas y morales de orden público, privado o social cuya presencia sea de interés para los asuntos que se ventilen al seno de dicho órgano.
 
-VII. Otorgar y suscribir títulos de crédito a cargo del Instituto hasta por 700 salarios mínimos vigentes en la zona, de manera mancomunada y solidaria con el responsable del área administrativa correspondiente y/o con el Director Administrativo del Instituto;
+Estas personas gozarán del derecho de voz pero no de voto.
 
-VIII. Llevar el control administrativo y contable de los instrumentos de crédito que se manejen por el Instituto;
+Los cargos como miembros de la junta tienen un carácter honorario y en consecuencia sus integrantes no recibirán retribución, emolumento o compensación alguna por el desempeño de sus funciones.
 
-IX. Operar el sistema institucional de control y valoración de los activos fijos del Instituto;
+La ausencia del Presidente y su representante a cualquier sesión, será suplida por uno de los integrantes de la Junta de Gobierno, elegido por ellos mismos.
 
-X. Informar al Director General de todas aquellas actividades y registros financieros y contables del Instituto;
+Atribuciones:
 
-XI. Conducir, en el ámbito de su competencia, el diseño y operación del presupuesto del Instituto, y
+### CAPÍTULO IV. DEL PATRIMONIO
 
-XII. Las demás que le señalen las disposiciones aplicables y las que le confiera la Junta de Gobierno y el Director General.
+###### Artículo 14°.
+
+De La Junta de Gobierno:
+
+I. Aprobar las políticas que en materia de desarrollo urbano deberá seguir el Instituto en congruencia con la planeación estratégica de la Zona Conurbada, las leyes y reglamentos de la materia y los planes de ordenamiento territorial;
+
+II. Aprobar el presupuesto de ingresos y egresos, así como los programas de trabajo del Instituto;
+
+III. Otorgar poderes para actos de administración y/o de dominio, así como para pleitos y cobranzas con todas las facultades generales o especialidades que requieran poder o cláusula especial conforme a la Ley, así como revocarlos o sustituirlos;
+
+IV. Aprobar y sancionar los actos de dominio que se efectúen a nombre y representación del Instituto;
+
+V. Evaluar el debido cumplimiento de los programas técnicos aprobados;
+
+VI. Vigilar la correcta aplicación de los recursos asignados al Instituto y autorizar, cuando lo estime conveniente, las erogaciones extraordinarias del Instituto;
+
+VII. Proponer la estructura orgánica del Instituto, así como las modificaciones que procedan, a la consideración del Ejecutivo del Estado, de acuerdo con las tareas a su cargo y la disponibilidad presupuestal;
+
+VIII. Analizar y aprobar, en su caso, los informes que rinda el Director General;
+
+IX. Aprobar el Estatuto Orgánico y el Manual de Organización del Instituto;
+
+X. Aprobar, con apego a las leyes aplicables, las políticas, bases y programas generales bajo los cuales el Instituto deba celebrar los convenios, contratos y acuerdos para el cumplimiento de su objeto;
+
+XI. Acordar las líneas de actuación que estimen procedente implementar para poner en práctica las recomendaciones y opiniones que le sean transmitidas por conducto del Vocal Presidente del Consejo Consultivo Ciudadano;
+
+XII. Las demás que le confieran las leyes, reglamentos y demás disposiciones normativas para el cumplimiento de los objetivos del Instituto.
+
+Atribuciones:
+
+### CAPÍTULO V. DE LA ORGANIZACIÓN Y EL FUNCIONAMIENTO
+
+###### Artículo 15°.
+
+De los integrantes de la Junta de Gobierno:
+
+I.- Del presidente de la Junta de Gobierno:
+
+a) Presidir y asistir a las sesiones de la Junta de Gobierno con voz y voto.
+
+b) Contar con el voto de calidad en caso de empate.
+
+c) Convocar a las sesiones ordinarias y extraordinarias de la Junta de Gobierno.
+
+d) Dar a conocer a los miembros de la Junta de Gobierno el orden del día para cada sesión.
+
+e) Dirigir los debates de las sesiones de la Junta de Gobierno.
+
+f) Aprobar con su firma las actas de las sesiones de la Junta de Gobierno, conjuntamente con el Secretario de actas.
+
+g) Vigilar que los acuerdos y disposiciones de la Junta de Gobierno se ejecuten en los términos aprobados.
+
+h) Ejercer la representación Oficial de la Junta de Gobierno ante cualquier autoridad o persona pública o privada.
+
+i) Las demás que le encomiende la Junta de Gobierno.
+
+II.- De los tres Vicepresidentes:
+
+a) Asistir a las sesiones de la Junta de Gobierno, con voz y voto.
+
+b) Ser conducto de los requerimientos del municipio para resolver la problemática relacionada con la zona metropolitana.
+
+c) Proponer o solicitar a la Junta de Gobierno las acciones y criterios que consideren pertinentes para el cumplimiento del objeto, planes y programas del IMEPLAN.
+
+d) Desempeñar las comisiones que les sean encomendadas por la Junta de Gobierno.
+
+e) Las demás atribuciones que les encomiende la Junta de Gobierno.
+
+III.- Del representante del Congreso del Estado
+
+a) Asistir personalmente o por medio de suplente designado por el Pleno del Congreso, a las sesiones de la Junta de Gobierno, con voz y voto.
+
+b) Dar cuenta a la Junta de Gobierno de la problemática relacionada con el desarrollo urbano de la zona metropolitana, que se manifieste o que le hagan llegar los habitantes por conducto del Congreso del Estado.
+
+c) Proponer o solicitar a la Junta de Gobierno las acciones y criterios que consideren pertinentes para el cumplimiento del objeto, planes y programas del IMEPLAN.
+
+d) Desempeñar las comisiones que les sean encomendadas por la junta de Gobierno.
+
+e) Las demás atribuciones que les encomiende la Junta de Gobierno.
+
+IV.- De los vocales:
+
+a) Asistir personalmente o por medio de suplente a las sesiones de la Junta de Gobierno, con voz y voto.
+
+b) Dar cuenta a la Junta de Gobierno, de la problemática que se manifieste en su área de competencia, relacionada con el desarrollo urbano de la zona metropolitana.
+
+c) Proponer o solicitar a la Junta de Gobierno las acciones y criterios que consideren pertinentes para el cumplimiento del objeto, planes y programas del IMEPLAN, en beneficio del desarrollo urbano de los 3 municipios.
+
+d) Desempeñar las comisiones que les sean encomendadas por la junta de Gobierno.
+
+e) Las demás atribuciones que les encomiende la Junta de Gobierno.
+
+V.- Del Secretario de actas:
+
+a) Asistir a las sesiones del Consejo Consultivo con voz sin voto.
+
+b) Elaborar la orden del día que se proporcionará a los asistentes al iniciar la reunión.
+
+c) Dar lectura a los estudios y/o dictámenes formulados los cuales serán sometidos en su caso a debate.
+
+d) De cada sesión asentará en el acta, la resolución acordada sobre cada uno de los puntos incluidos en el orden del día y un resumen de los dictámenes analizados. Y no será necesario, incluir la relatoría de los debates, sin embargo cualquiera de sus integrantes podrá solicitar que se asiente en ella sobre algún asunto analizado, en éste caso se requerirá la aprobación de la mayoría de los asistentes.
+
+e) Autorizar las actas de las reuniones celebradas, asentándolas en el libro correspondiente que llevará bajo su cuidado, debiendo recabar en cada una de ella la firma de cada miembro asistente.
+
+f) Encargarse de la correspondencia oficial.
+
+g) Citar cuando el presidente lo autorice a los miembros de la Junta de Gobierno a las sesiones ordinarias y extraordinarias.
+
+h) Supervisar o dar seguimiento al cumplimiento de los acuerdos emanados de la Junta de Gobierno.
+
+i) Y las demás que le indique la Junta de Gobierno.
+
+De las sesiones:
 
 ## TITULO III. De las Direcciones
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO VI. DE LA VIGILANCIA Y FISCALIZACIÓN
 
-###### Artículo 16.
+###### Artículo 16°.
 
-Sin perjuicio de las atribuciones genéricas que les señala la Ley Orgánica del Instituto, corresponde a los directores y coordinadores las siguientes:
+La Junta de Gobierno sesionará ordinariamente cuatro veces al año como mínimo, pudiendo además celebrar las sesiones extraordinarias que se requieran, mismas que serán convocadas por el Presidente.
 
-I. Auxiliar al Director General dentro de la esfera de su competencia;
+Sus resoluciones serán tomadas por mayoría de votos de los miembros presentes y, en caso de empate, el Presidente de la Junta tendrá el voto decisorio.
 
-II. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento y labores encomendadas a las unidades administrativas que le sean adscritas y coordinar las que se realicen con las demás direcciones del Instituto;
+Para que exista quórum legal, deberán estar presentes cuando menos la mitad más uno de sus miembros, siempre que la mayoría de los asistentes sean representantes de la Administración Pública Estatal.
 
-III. Acordar con el Director General el despacho de los asuntos encomendados a las unidades administrativas adscritas a su dirección e informarle oportunamente sobre los mismos;
+Para la celebración de las sesiones ordinarias deberá citarse cuando menos con cinco días naturales de anticipación, señalando la fecha y hora prevista para la reunión, el lugar en donde se celebrará, el orden del día, debiéndose notificar en los domicilios respectivos de los integrantes de la Junta de Gobierno.
 
-IV. Dar a conocer al Director General los dictámenes y estudios periciales que elaboren las unidades a su cargo;
+Las demás sesiones que celebre la Junta serán extraordinarias, convocadas por su Presidente o por solicitud al mismo, de cuando menos por 2 de los miembros.
 
-V. Vigilar que se cumplan estrictamente las disposiciones legales en todos los asuntos de su competencia;
+Respecto de la celebración de las sesiones extraordinarias el citatorio podrá hacerse el día anterior a su realización, cumpliendo las formalidades indicadas en párrafo (sic) anterior.
 
-VI. Someter a la autorización del Director General, los nombramientos del personal de su área, así como decidir sobre los movimientos de dicho personal, conforme a los lineamientos que establezcan y suscribir todos los documentos correspondientes;
+Por determinación del Presidente de la Junta de Gobierno, cuando se acerque la fecha en que deba celebrarse una sesión ordinaria y no existan asuntos en cartera que requieran ser analizados por la Junta de Gobierno, se notificará a sus integrantes esa situación y se cancelará la realización de la sesión correspondiente.
 
-VII. Formular los proyectos de programas y de partidas presupuestales que le correspondan;
+Cuando las sesiones no puedan celebrarse por falta de quórum se señalará nueva fecha y hora para que la misma tenga verificativo.
 
-VIII. Proponer las medidas necesarias para el mejoramiento administrativo de las unidades a su cargo, así como plantear su reestructuración;
+En caso de segunda convocatoria, la sesión será válida y se celebrará con los miembros presentes.
 
-IX. Suscribir los documentos relativos al ejercicio de sus funciones y aquellos que les sean señalados por delegación de facultades del Director General, asimismo, autorizar por escrito a los servidores públicos subalternos para que firmen correspondencia y documentación relacionados con los asuntos de su competencia;
+Los acuerdos que se tomen en el seno de la Junta de Gobierno serán obligatorios para las partes.
 
-X. Proporcionar la información que le sea requerida por las dependencias y entidades de la Administración Pública Estatal o por las Unidades Administrativas del propio Instituto, de acuerdo con las disposiciones legales aplicables y las políticas establecidas a este respecto, previa autorización del Director General, en su caso;
+De las votaciones:
 
-XI. Desempeñar las comisiones que le encomiende el Director General y realizar las actividades necesarias para el cumplimiento de las funciones a su cargo y,
+Las votaciones generalmente serán nominales, que consisten en preguntar personalmente a cada uno de los miembros de la Junta si aprueba o desaprueba, debiendo contestar si, o no, salvo lo dispuesto por la Junta de Gobierno.
 
-XII. Las demás que les confieran las disposiciones legales vigentes, el Director General y las que les correspondan a las unidades administrativas a su cargo.
+Una vez agotado el análisis de un asunto, se procederá a la votación del mismo, la cual se hará de manera nominal.
 
-### CAPÍTULO II. De la Dirección de Dictaminación Pericial
+Se podrá proponer y aprobar por la Junta de Gobierno que en determinado asunto se vote mediante el empleo de cédula cuando se requiera guardar reserva a cerca (sic) del sentido en que vota cada uno de sus integrantes.
 
-###### Artículo 17.
+#### SECCIÓN SEGUNDA. DEL CONSEJO CONSULTIVO CIUDADANO
 
-Al frente de la Dirección de Dictaminación Pericial habrá un Titular, quien tendrá las siguientes atribuciones:
+Integración:
 
-I. Programar y supervisar la elaboración de los dictámenes periciales en las diferentes especialidades que atienda el Instituto;
+### CAPÍTULO VII. DE LAS SANCIONES A LOS INTEGRANTES DEL IMEPLAN
 
-II. Coordinarse con las unidades administrativas correspondientes e institutos afines, a efecto de desarrollar conjuntamente la elaboración de proyectos de investigación y desarrollo de nuevas técnicas periciales;
+###### Artículo 17°.
 
-III. Someter a la consideración del Director General, la implantación de nuevas especialidades que sean requeridas por el Ministerio Público, el Organo Jurisdiccional y demás autoridades que lo soliciten;
+El Consejo Consultivo Ciudadano se integrará de la siguiente forma:
 
-IV. Proponer al Director General el establecimiento de programas permanentes de supervisión en todas las áreas del Instituto a nivel central y regional;
+I.- Un Presidente Honorario, que será el Gobernador del Estado;
 
-V. Proponer al Director General un sistema de control de calidad pericial que garantice un alto nivel de confiabilidad en los dictámenes periciales;
+II.- Cinco Consejeros Ciudadanos, designados por el titular del Ejecutivo;
 
-VI. Proponer, operar y supervisar sistemas y programas de coordinación interinstitucional, fundamentalmente entre las unidades administrativas del propio Instituto, con la Procuraduría General de Justicia del Estado, de la Procuraduría General de la República, del Organo Jurisdiccional y de los relativos de otras entidades federativas;
+III.- Cinco Consejeros Ciudadanos, designados por cada uno de los Ayuntamientos de entre los sectores de la comunidad involucrados en el desarrollo urbano y el ordenamiento territorial;
 
-VII. Coordinar y supervisar la entrega pronta y expedita de la elaboración de los dictámenes solicitados, a efecto de auxiliar eficazmente al Ministerio Público y al Organo Jurisdiccional y,
+IV.- Consejeros representantes de organizaciones e instituciones existentes en la Zona Conurbada, y que a continuación se enumeran:
 
-VIII. Las demás que le señalen las disposiciones aplicables, las que le confiera el Director General o la Junta de Gobierno y las que le correspondan a las unidades administrativas que se le adscriban.
+a).- Cámara Mexicana de la Industria de la Construcción;
 
-### CAPÍTULO III. De la Dirección de Investigación y Capacitación
+b).- Cámara Nacional de Comercio de cada uno de los Municipios Altamira, Ciudad Madero y Tampico;
 
-###### Artículo 18.
+c).- Colegio de Arquitectos;
 
-Al frente de la Dirección de Investigación y Capacitación habrá un Titular, quien tendrá las siguientes atribuciones:
+d).- Colegio de Notarios;
 
-I. Proponer, desarrollar, supervisar y operar nuevas técnicas de investigación en las diferentes áreas de la criminalística;
+e).- Hoteleros;
 
-Il. Atender las necesidades de investigación sobre asuntos específicos que le propongan las demás unidades administrativas;
+f).- Confederación Patronal de la República Mexicana;
 
-III. Establecer las normas, lineamientos y políticas técnicas y administrativas bajo las cuales deban desarrollarse las investigaciones;
+g).- Organismos Operadores de los Servicios de Agua Potable y Alcantarillado;
 
-IV. Desarrollar los protocolos particulares de investigación en cada una de las especialidades periciales;
+h).- Petróleos Mexicanos;
 
-V. Actualizar, en coordinación con las instituciones educativas competentes, los programas de estudio, así como tramitar ante ellas su reconocimiento y validez oficial;
+i).- Comisión Federal de Electricidad;
 
-VI. Desarrollar y ejecutar estrategias de capacitación y actualización de los servidores públicos del Instituto;
+j).- Consejo de Instituciones Empresariales del Sur de Tamaulipas;
 
-VII. Formular y establecer programas para: el ingreso, formación, evaluación, selección, reclutamiento, permanencia, especialización y promoción del personal docente;
+k).- Asociación de Industriales del Sur de Tamaulipas;
 
-VIII. Promover la celebración de los actos que sean necesarios ante las autoridades competentes, a fin de obtener los registros, autorizaciones y reconocimiento de los planes y programas de estudio;
+l).- Fideicomiso del Centro Histórico de Tampico;
 
-IX. Establecer la emisión de normas técnicas para el diseño, implantación y fortalecimiento de la capacitación, profesionalización y selección de todo el personal del Instituto, así como el Servicio Civil de Carrera y conducir a su desarrollo permanente, con el fin de lograr una conducta pericial basada en los principios de la legalidad, profesionalismo, eficiencia y honradez;
+m).- Administración Portuaria Integral de Tampico;
 
-X. Implantar los planes y programas de estudio e impartir los cursos necesarios de actualización y especialización del personal del Instituto;
+n).- Administración Portuaria Integral de Altamira;
 
-XI. Proponer la celebración de convenios, bases y otros instrumentos de coordinación con: instituciones similares nacionales e internacionales, para el desarrollo y capacitación del personal;
+ñ).- Colegio de Ingenieros Civiles de Tamaulipas;
 
-XII. Desarrollar una política de evaluación para el ingreso, adecuada al tipo de función y tipo de trabajo que se realiza dentro del Instituto;
+o).- Universidad Autónoma de Tamaulipas;
 
-XIII. Implantar y conducir la capacitación y profesionalización bajo los principios de ética, legalidad, honradez, eficiencia y profesionalismo;
+p).- Colegio de Planificadores del Desarrollo Urbano Sustentable de Tamaulipas, A.C; y
 
-XIV. Expedir las disposiciones académicas aplicables al personal docente y a los peritos y,
+q).- Comisión Nacional de Agua CONAGUA, a través de su Organismo de Cuenca Golfo Norte.
 
-XV. Las demás que le señalen las disposiciones aplicables, las que le confiera el Director General o la Junta de Gobierno y las que le correspondan a las unidades que se le adscriban.
+V.- Un Secretario nombrado por el Gobernador del Estado; y
 
-### CAPÍTULO IV. De la Dirección de Laboratorios
+VI.- Un secretario técnico.
 
-###### Artículo 19.
+Generalidades:
 
-Al frente de la Dirección de Laboratorios habrá un Titular, quien tendrá las siguientes atribuciones:
+Sólo el Presidente y los miembros a que se refiere la fracción IV tendrán suplente. Todos los miembros del Consejo, tendrán el carácter de vocales, desempeñarán su encargo de manera honorífica y durarán en los mismos tres años, pudiendo ser ratificados para un periodo inmediato.
 
-I. Programar, operar y supervisar el uso adecuado de los diferentes instrumentos, equipos y sistemas con que cuenta cada uno de los laboratorios a su cargo;
+Iniciarán el desempeño de sus funciones el día primero de julio del primer año del periodo constitucional de cada gobierno municipal.
 
-II. Proponer los contratos de mantenimiento preventivo y correctivo de los diferentes instrumentos, equipos y sistemas con que cuenten los laboratorios;
+Los Consejeros a que se refieren las fracciones II y III, no podrán ostentar cargo público alguno.
 
-III. Proponer la adquisición de los reactivos requeridos para el desarrollo adecuado de las técnicas de investigación criminalística;
+Los miembros del Consejo Consultivo forman parte del mismo por su perfil profesional y personal y por lo tanto, dentro del mismo no representan a organismos, colegios, sindicatos, asociaciones o a las organizaciones que los propusieron.
 
-IV. Proponer la adquisición de equipos, instalaciones y sistemas que representen un avance en materia de investigación tecnológica;
+Los cargos como miembros del Consejo Consultivo tienen un carácter honorario y en consecuencia sus integrantes no recibirán retribución, emolumento o compensación alguna por el desempeño de sus funciones.
 
-V. Participar, desarrollar, supervisar y dirigir programas tendientes a la conservación, actualización, modernización y mantenimiento de los laboratorios para un mejor desempeño de las labores encomendadas;
+Requisitos para ser nombrado miembro del Consejo Consultivo Ciudadano:
 
-VI. Vigilar, controlar y dirigir un sistema de seguridad y protección del personal del Instituto, de los equipos, instalaciones y sistemas de los laboratorios a su cargo;
+I.- Tener una residencia efectiva en la zona conurbada de por lo menos tres años al momento de la designación;
 
-VII. Diseñar, desarrollar, implantar y supervisar programas tendientes a la actualización permanente del personal que le sea adscrito en el manejo, operación y uso de instrumental pericial;
+II.- Tener cuando menos treinta años de edad al momento de su designación;
 
-VIII. Establecer y supervisar los procedimientos adecuados para la realización de las investigaciones procedentes dentro del área de su adscripción y,
+III.- Haber observado una conducta de reconocida probidad y no haber sido sentenciado por delito doloso;
 
-IX. Las demás que le señalen las disposiciones aplicables, las que le confiera el Director General o la Junta de Gobierno y las que le correspondan a las unidades administrativas que se le adscriban.
+IV.- No ocupar cargos, cualquiera que sea su denominación, en los Comités Directivos de algún partido.
 
-### CAPÍTULO V. De la Dirección del Servicio Médico Forense
+Atribuciones:
 
-###### Artículo 20.
+### CAPÍTULO VIII. DEL RÉGIMEN LABORAL
 
-Al frente de la Dirección del Servicio Médico Forense habrá un Titular, quien tendrá las siguientes atribuciones:
+###### Artículo 33°.
 
-I. Planear, operar y supervisar las actividades técnico-operativas del Servicio Médico Forense;
+Las relaciones de trabajo entre el Instituto y sus trabajadores se regirán por la Ley del Trabajo de los Servidores públicos del Estado de Tamaulipas.
 
-II. Supervisar la operación de los estudios necrológicos que se realicen dentro de las áreas de su adscripción;
+###### Artículo 18°.
 
-III. Supervisar los diferentes estudios patológicos que garanticen la confiabilidad de los dictámenes emitidos;
+Del Consejo Consultivo:
 
-IV. Proponer a la Dirección de Investigación y Capacitación, las actividades operativas y de docencia que se efectúen en el Servicio Médico Forense, así como las relaciones con las diferentes Instituciones educativas del Estado;
+I. Ser órgano de consulta y opinión para el análisis y diagnóstico, la aportación de estrategias y la evaluación de propuestas, instrumentos y acciones de planeación urbana;
 
-V. Llevar el control de la admisión y entrega de los cadáveres sujetos a estudio por el personal de la Dirección;
+II. Identificar los planteamientos y propuestas de los habitantes de la Zona Conurbada para diseñar la ciudad en la cual residen y dicha Zona, así como ser el conducto ante el Instituto para que esa visión figure en las directrices de la planeación urbana;
 
-VI. Establecer un mecanismo de atención a la ciudadanía con relación a la identificación de cadáveres;
+III. Incentivar la mecánica de la consulta ciudadana para evaluar los proyectos estratégicos y la elaboración o actualización de los planes relativos al objeto del Instituto, así como para crear o modificar leyes y reglamentos, y otras acciones que por su naturaleza deban de ser consultadas con la sociedad;
 
-VII. Proponer la adquisición de instrumental y equipos de investigación de alta tecnología en materia médico forense;
+IV. Establecer propuestas y proponer criterios de actuación al Instituto, por conducto de la Junta de Gobierno;
 
-VIII. Realizar el levantamiento y traslado de cadáveres conforme a las disposiciones aplicables;
+V. Proponer e impulsar los proyectos que identifiquen como necesarios para las ciudades de la Zona Conurbada;
 
-IX. Proponer los contratos de limpieza y mantenimiento de las instalaciones físicas, mobiliario e instrumental del Servicio Médico Forense;
+VI. Ser la instancia de análisis, evaluación, discusión, difusión, promoción, gestión, negociación y concertación para construir permanentemente un proyecto común y consensuado de la Zona Conurbada, que tenga como finalidad elevar la calidad de vida de sus habitantes, procurando para ello la gestación de un desarrollo urbano y social sustentable;
 
-X. Diseñar, desarrollar, implantar y supervisar los procedimientos adecuados por los cuales se realizarán las investigaciones que tenga a su cargo y,
+VII. Ser garante de la continuidad de los procesos de planeación y los programas estratégicos para que fructifiquen en beneficios tangibles para los habitantes en el mediano y largo plazos; y
 
-XI. Las demás que le señalen las disposiciones aplicables, las que le confiera el Director General o la Junta de Gobierno y las que le correspondan a las unidades administrativas que se le adscriban.
+VIII. Las demás que le confieran las leyes, reglamentos y demás disposiciones normativas para el adecuado ejercicio de su función.
+
+Atribuciones:
+
+### CAPÍTULO IX. DE LA EXTINCIÓN DEL INSTITUTO
+
+###### Artículo 34°.
+
+Para extinguir o liquidar el Instituto que se crea mediante el Decreto, se observarán las mismas formalidades que para su creación.
+
+###### Artículo 35°.
+
+Cuando el funcionamiento del Instituto se aparte de los principios básicos establecidos en el Decreto, los Ayuntamientos podrán proponer al Gobernador del Estado la extinción del Instituto, quien resolverá lo conducente en términos del artículo anterior.
+
+###### Artículo 19°.
+
+De los integrantes del Consejo Consultivo:
+
+I.- Del Presidente:
+
+a) Presidir y asistir a las sesiones del Consejo Consultivo.
+
+b) Contar con el voto de calidad en caso de empate.
+
+c) Convocar a las sesiones ordinarias y extraordinarias del Consejo Consultivo, en caso de ausencia del presidente o porque éste así lo requiera, por el Secretario o el Secretario Técnico.
+
+d) Dar a conocer a los miembros del Consejo Consultivo el orden del día para cada sesión.
+
+e) Dirigir los debates de las sesiones del Consejo Consultivo.
+
+f) Aprobar con su firma las actas de las sesiones del Consejo Consultivo, conjuntamente con el Secretario designado por el Gobernador.
+
+g) Vigilar que los acuerdos y disposiciones del Consejo Consultivo se ejecuten en los términos aprobados.
+
+h) Ejercer la representación Oficial del Consejo Consultivo ante cualquier autoridad o persona pública o privada.
+
+i) Las demás que le encomiende la Junta de Gobierno.
+
+II.- Del Suplente nombrado por Gobernador:
+
+a) Ser suplente del Presidente del Consejo Consultivo.
+
+b) Ejecutar en su ausencia las atribuciones que le competen.
+
+c) Coadyuvar al Presidente en el ejercicio de sus atribuciones.
+
+III.- De los consejeros ciudadanos mencionados en los incisos (sic) II, III Y IV del artículo 16 son las siguientes atribuciones:
+
+a) Asistir a las sesiones del Consejo Consultivo con voz y voto.
+
+b) Aportar su opinión verbal o por escrito de acuerdo a su conocimiento experiencia o competencia, sobre los acuerdos, planes, programas, proyectos, resolutivos etc. que le envíe la Junta de Gobierno; a más tardar en la próxima reunión de Consejo o que por su importancia o urgencia, lo requiera la Junta de Gobierno a la brevedad posible.
+
+c) Proceder de oficio y dar cuenta al Consejo en pleno a la brevedad posible en cuanto tenga conocimiento, a través de los medios de comunicación o la ciudadanía, de la problemática urbana relacionada con la zona conurbada.
+
+d) Guardar y respetar los acuerdos tomados en el Consejo.
+
+e) Manejar con discreción la información que obtengan dentro de las reuniones dentro del Consejo.
+
+f) Conducirse con verdad en participaciones, exposiciones, comentarios, y demás información, que viertan al Consejo.
+
+g) Actuar dentro del Consejo y fuera del mismo en asuntos relacionados con éste, con probidad, esmero y honradez.
+
+h) Procurar que no se comprometa la autonomía y postura del Consejo o del Instituto, por actuar con imprudencia o descuido inexcusable.
+
+IV.- Del Secretario:
+
+a) Asistir a las sesiones del Consejo Consultivo con voz y voto.
+
+b) Elaborar la orden del día que se proporcionará a los asistentes al iniciar la reunión.
+
+c) Autorizar las actas de las reuniones celebradas, asentándolas en el libro correspondiente que llevará bajo su cuidado, debiendo recabar en cada una de ellas la firma de cada miembro asistente.
+
+d) Encargarse de la correspondencia oficial.
+
+e) Verificar con su firma las comunicaciones que el presidente dirija, a nombre del Consejo Consultivo Ciudadano.
+
+f) Convocar a los integrantes, del Consejo Consultivo Ciudadano, a las sesiones ordinarias y extraordinarias al menos con cinco días de anticipación, informándoles del día, la hora, y el lugar para que tenga verificativo la reunión; con la excepción que se menciona en la fracción III de las atribuciones de los consejeros.
+
+g) Supervisar el cumplimiento de los acuerdos emanados del Consejo Consultivo.
+
+h) El Secretario Técnico del Consejo Consultivo Ciudadano, brindará apoyo a las funciones de la Secretaría.
+
+### CAPÍTULO X
+
+###### Artículo 20°.
+
+El Consejo Consultivo Ciudadano sesionará con la asistencia del Vocal Presidente; sus ausencias podrán ser cubiertas por su suplente.
+
+El Consejo Consultivo Ciudadano sesionará ordinariamente cada tres meses preferentemente en los meses de marzo, junio, septiembre y diciembre de cada año, pudiendo además celebrar las sesiones extraordinarias que se requieran, mismas que serán convocadas por el Vocal Presidente o, en su defecto, por cuando menos cinco vocales.
+
+Las resoluciones del Consejo serán tomadas por mayoría de votos de los miembros presentes.
+
+En caso de ausencia del Vocal Presidente y del Vocal Vicepresidente, los asistentes designarán por votación directa al Vocal que habrá de presidir la sesión.
+
+El Consejo Consultivo sesionará válidamente con los miembros que asistan.
+
+El Presidente del Consejo o el Secretario, por instrucciones del primero, podrán invitar a las sesiones del Consejo a las personas físicas y morales de orden público, privado o social cuya presencia sea de interés para los asuntos que se ventilen al seno del Consejo.
+
+Estas personas sólo gozarán del derecho de voz.
+
+El Director General del Instituto tendrá la función de Secretario Técnico del Consejo, y participará en sus sesiones únicamente con voz.
+
+De la forma de sesionar y votar del Consejo Consultivo Ciudadano:
+
+Las demás sesiones que celebre la Junta serán extraordinarias, convocadas por su Secretario, ya sea por decisión del Presidente del Consejo Consultivo o por solicitud de cuando menos 5 de sus miembros.
+
+El Consejo Consultivo sesionará válidamente con la asistencia de la mitad más uno de sus miembros, entre los cuales deberá estar el Presidente o su suplente.
+
+Sus acuerdos se tomarán por mayoría de votos de los asistentes, teniendo voto de calidad quien presida la cesión.
+
+Para la celebración de las sesiones ordinarias deberá citarse por parte del Secretario, cuando menos con cinco días naturales de anticipación, señalando la fecha y hora prevista para la reunión, el lugar en donde se celebrará, el orden del día, debiéndose notificar en los domicilios respectivos de los integrantes del Consejo Consultivo. Respecto de la celebración de las sesiones extraordinarias, el citatorio podrá hacerse el día anterior a su realización, cumpliendo las formalidades indicadas en el párrafo anterior, por parte del mismo Secretario.
+
+Por determinación del Presidente del Consejo Consultivo, cuando se acerque la fecha en que deba celebrarse una sesión ordinaria y no existan asuntos en cartera que requieran ser analizados por el Consejo Consultivo, se notificará a sus integrantes esa situación y se cancelará la realización de la sesión correspondiente.
+
+Cuando las sesiones no puedan celebrarse por falta de quórum, se señalará nueva fecha y hora para que la misma tenga verificativo.
+
+En caso de segunda convocatoria, la sesión será válida y se celebrará con los miembros presentes.
+
+De cada sesión el Secretario levantará precisamente un acta, en la cual se asentará la resolución acordada sobre cada uno de los puntos incluidos en el orden día y un resumen de los dictámenes analizados. Y no será necesario, incluir la relatoría de los debates, sin embargo cualquiera de sus integrantes podrá solicitar que se asiente en ella sobre algún asunto analizado, en éste caso se requerirá la aprobación de la mayoría de los asistentes.
+
+Los acuerdos que se tomen en el seno del Consejo Consultivo serán obligatorios para las partes.
+
+De las votaciones:
+
+El Secretario dará lectura a los estudios y/o dictámenes formulados los cuales serán sometidos en su caso a debate.
+
+Una vez agotado el análisis de un asunto, se procederá a la votación del mismo, la cual se hará de manera nominal.
+
+Posteriormente el Secretario computará los votos e informará al Presidente del Consejo Consultivo sobre el resultado.
+
+#### SECCIÓN TERCERA. DEL DIRECTOR GENERAL
+
+Del Perfil:
 
 ### CAPÍTULO VI. De la Coordinación Administrativa
 
-###### Artículo 21.
+###### Artículo 21°.
 
-El Titular de la Coordinación Administrativa tendrá las siguientes atribuciones:
+El Director General, quien deberá contar con experiencia profesional o académica en materia de desarrollo urbano o áreas afines, será designado por el Gobernador del Estado.
 
-I. Acordar con el Director General el despacho de los asuntos de su competencia y de las unidades administrativas a su cargo;
+Haber observado una conducta de reconocida probidad y no haber sido sentenciado por delito doloso.
 
-II. Desempeñar las funciones y comisiones que el Director General le delegue y encomiende, así como mantenerlo informado sobre el desarrollo de sus actividades;
+Tener una residencia efectiva en la zona metropolitana de por lo menos 5 años al momento del (sic) la designación.
 
-III. Establecer, con la aprobación de la Junta de Gobierno, las normas, sistemas y procedimientos para la administración de los recursos humanos, materiales y financieros del Instituto, en los términos de la normatividad aplicable;
+Atribuciones:
 
-IV. Establecer las normas y políticas generales que regirán en el Instituto en cuanto a selección, nombramientos, contratación, remuneraciones, desarrollo, control e incentivos del personal, así como sobre sanciones administrativas;
+I. Dar cumplimiento a los acuerdos de la Junta de Gobierno, los que atenderán a los objetivos del Instituto referidas en el Artículo 3° de este Decreto, debiendo informar periódicamente a la Junta de Gobierno acerca de su desempeño;
 
-V. Desarrollar los sistemas de premios, estímulos y recompensas, que determinen las Condiciones Generales de Trabajo y las disposiciones jurídicas aplicables;
+II. Administrar los recursos financieros, materiales y humanos del Instituto;
 
-VI. Conducir las relaciones laborales del Instituto conforme a los lineamientos que al efecto se establezcan, rigiéndose en todo caso por la Ley para los Servidores Públicos del Estado de Jalisco y sus municipios;
+III. Ejecutar los acuerdos y resoluciones que emita la Junta de Gobierno;
 
-VII. Acordar las reglas de actuación, así como la designación o remoción en su caso, de los representantes del Instituto ante el Sistema de Escalafón que se implemente y ante aquéllas otras comisiones que se integren;
+IV. Elaborar, presentar y ejecutar los programas de trabajo del Instituto;
 
-VIII. Participar en la organización, diseño, desarrollo y ejecución del Servicio Civil de Carrera, en los términos de las disposiciones legales aplicables;
+V. Efectuar actos de dominio sobre bienes muebles e inmuebles, previo poder especial que al efecto le otorgue la Junta de Gobierno, el cual no será delegable ni sustituible;
 
-IX. Planear y conducir la política de desarrollo del personal, definir los puestos tipo y establecer los perfiles y requerimientos de los mismos, así como las formas de identificación del personal;
+VI. Representar legalmente al Instituto como apoderado para pleitos y cobranzas y para actos de administración, con todas las facultades generales y las especiales que requieran cláusula especial, conforme a la legislación civil vigente en el Estado y las correlativas de las demás entidades de la República, por lo que enunciativa mas no limitativamente estará facultado para otorgar o revocar poderes dentro del rango conferido, interponer recursos, formular querellas, articular y absolver posiciones, ejercer y desistirse de acciones judiciales, administrativas, laborales, inclusive del juicio de amparo; además, contará con facultades cambiarias, pudiendo suscribir y endosar títulos de crédito, abrir y cerrar cuentas bancarias;
 
-X. Someter a la consideración del Director General el anteproyecto del presupuesto anual del Instituto, con base en los documentos que sean presentados por los servidores públicos correspondientes, así como autorizar las erogaciones, vigilar el ejercicio del presupuesto y llevar su contabilidad;
+VII. Expedir los nombramientos del personal;
 
-XI. Acordar la liquidación y pago de cualquier remuneración al personal del Instituto;
+VIII. Nombrar y remover a los servidores públicos del Instituto con la aprobación de la Junta de Gobierno, así como determinar su adscripción;
 
-XII. Proponer al Director General las medidas técnicas y administrativas que estime convenientes para la mejor organización y funcionamiento del Instituto, así corno la eficiente ejecución de la modernización administrativa interna;
+IX. Vigilar el cumplimiento del objeto del Instituto por el personal bajo su mando;
 
-XIII. Participar en los convenios y contratos en que intervenga el Instituto y que afecten su presupuesto, así como en los demás instrumentos jurídicos que impliquen actos de administración, conforme a los lineamientos que fije la Junta de Gobierno;
+X. Formular el proyecto de presupuesto anual de ingresos y egresos del Instituto y someterlo a la aprobación de la Junta de Gobierno; y presentarlo antes del 30 de Septiembre de cada año el proyecto de presupuesto anual para el IMEPLAN, con la finalidad de que ésta lo conozca, lo analice y en su caso lo apruebe;
 
-XIV. Planear, coordinar y evaluar el funcionamiento de las unidades administrativas a su cargo;
+XI. Presentar a la Junta de Gobierno, para su aprobación, los planes de trabajo, informes periódicos y anual de actividades, así como de cumplimiento de metas, y los estados financieros con la periodicidad que indique la ley correspondiente; y presentarlo antes del 30 de Noviembre de cada año, el Programa anual de trabajo del IMEPLAN, con el Objeto de que ésta lo conozca, lo analice, y en su caso lo apruebe;
 
-XV. Adquirir y proporcionar los bienes y servicios necesarios, así como la realización de las obras públicas y los servicios relacionados con las mismas para el desarrollo de los programas del Instituto, de conformidad con lo que establezcan las disposiciones jurídicas y administrativas aplicables y relativas del Gobierno del Estado;
+XII. Las demás que le confieran las leyes, reglamentos y demás disposiciones normativas para el cumplimiento de los objetivos del Instituto, o que le asigne la Junta de Gobierno, realizando las demás funciones que se requieran para el mejor desempeño de las anteriores facultades y atribuciones, así como de las que se le asignen en otras leyes y reglamentos, aplicables, o le encomiende expresamente la Junta de Gobierno;
 
-XVI. Establecer, controlar y evaluar el programa interno de protección civil para el personal, instalaciones, bienes e información del Instituto, así como emitir las normas necesarias para su operación, desarrollo y vigilancia, en los términos de las disposiciones aplicables;
+XIII. Con el visto bueno de la Junta de Gobierno, celebrar convenios con los tres niveles de Gobierno y sus Organismos descentralizados y desconcentrados, así como con las diversas personas e instituciones para establecer diversas acciones de coordinación a efectos de cumplir con los fines del IMEPLAN;
 
-XVII. Instrumentar el programa de desconcentración del Instituto, en sus aspectos administrativos, así como vigilar el cumplimiento de las normas de su competencia que deban aplicarse en el ámbito territorial;
+XIV. Coordinar la estructuración de los documentos que genere el IMEPLAN su diseño, edición y difusión así como el control de la información servicios venta de la misma a quien lo solicite y la logística general de las reuniones internas y externas del mismo Instituto;
 
-XVIII. Dirimir los conflictos de competencia que se presenten entre las unidades administrativas que le estén adscritas y,
+XV. Turnar a los Ayuntamientos de la zona metropolitana, para su conocimiento, los planes y programas municipales de Desarrollo elaborados;
 
-XIX. Las demás que le señalen las disposiciones aplicables, las que le confiera el Director General o la Junta de Gobierno y las que le correspondan a las unidades administrativas que se le adscriban.
+XVI. Coordinar las actividades del Consejo Consultivo Ciudadano.
+
+#### SECCIÓN CUARTA
+
+DE LAS ÁREAS OPERATIVAS DE LA DIRECCIÓN GENERAL.
 
 ### CAPÍTULO VII. De la Coordinación de Asesores y Apoyo Jurídico
 
-###### Artículo 22.
+###### Artículo 22°.
 
-Al frente de la Coordinación de Asesores y Apoyo Jurídico habrá un Titular, quien tendrá las siguientes atribuciones:
-
-I. Coordinar los servicios de asesoría técnica-jurídica al Director General, a los demás servidores públicos superiores del Instituto y a la Junta de Gobierno cuando lo requiera;
-
-II. Diseñar, operar y supervisar el acervo bibliográfico, hemerográfico e informático del Instituto y ver, que se mantenga actualizado y accesible a quienes prestan sus servicios en el Instituto y al público en general;
-
-III. Rendir opiniones y dictámenes técnico-jurídicos a las demás dependencias y entidades del sector público, cuando así lo requieran;
-
-IV. Intervenir en los asuntos de carácter legal en que tenga injerencia el Instituto y emitir opinión respecto a las consultas que en materia jurídica formulen los servidores públicos del propio Instituto;
-
-V. Representar jurídicamente al Instituto en los juicios de amparo que se interpongan en su contra, o de los servidores públicos del propio Instituto, relacionados con sus funciones en el mismo;
-
-VI. Representar jurídicamente, al Instituto, en los juicios de todo tipo, en los que sea parte, diligencias de jurisdicción voluntaria, trámites judiciales, administrativos, laborales y en aquellos que le encomiende el Director General;
-
-VII. Formular, en nombre del Instituto, las denuncias y querellas que legalmente procedan;
-
-VIII. Promover, por acuerdo superior, ante los tribunales federales o del fuero común, los asuntos legales del Instituto;
-
-IX. Substanciar los recursos administrativos que legalmente procedan contra actos de las diversas autoridades del Instituto;
-
-X. Sistematizar los criterios de interpretación y aplicación de las disposiciones legales que normen el funcionamiento del Instituto;
-
-XI. Participar en la celebración de acuerdos, contratos y convenios con entidades federativas, la Federación, dependencias y organismos estatales y federales, así como con los sectores social y privado, para el desarrollo y operación de los programas de intercambio de experiencias, conocimientos y avances tecnológicos nacionales y extranjeros;
-
-XII. Realizar auditorias legales a las Unidades Administrativas y Desconcentradas del Instituto y, (sic)
-
-XIII. Substanciar y resolver los procedimientos de responsabilidad administrativa en los términos del régimen aplicable de responsabilidades de los servidores públicos e imponer por acuerdo del Director las sanciones administrativas que correspondan;
-
-XIV. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Director General o la Junta de Gobierno.
+El Instituto para su operación y funcionamiento contará con un cuerpo técnico que estará integrado por un Director General del Instituto, las direcciones y jefaturas de departamentos de las áreas necesarias para cumplir con su objeto, así como por el personal asalariado del propio Instituto, cuyas atribuciones y denominaciones se contemplarán en el manual de organización del Instituto.
 
 ### CAPÍTULO VIII. De la Unidad de Comunicación Social
 
 ### CAPÍTULO IX. De las Unidades Desconcentradas
 
-###### Artículo 23.
+###### Artículo 23°.
 
-Al frente de la Unidad de Comunicación Social habrá un Jefe de Unidad, quien tendrá las siguientes atribuciones:
+Atribuciones del Cuerpo Técnico del Instituto:
 
-I. Planear, organizar, coordinar y ejecutar los programas de comunicación social, con sujeción a las disposiciones legales aplicables y a los lineamientos que establezca la Junta de Gobierno;
+I.- Recopilar, ordenar, sistematizar y difundir la información necesaria para generar planes, programas y demás instrumentos del IMEPLAN;
 
-II. Recabar de las distintas áreas del Organismo, informes y documentos necesarios para la elaboración de los proyectos de boletines informativos;
+II.- Conjuntar e integrar al IMEPLAN, las necesidades de la ciudadanía en materia de desarrollo urbano y medio ambiente para que sean evaluadas por la Junta de Gobierno y en su caso se incorporen a los planes o programas que se vayan a realizar o para llevar a cabo las modificaciones, en los ya existentes;
 
-III. Elaborar los boletines y documentos informativos especiales y distribuirlos entre los medios de comunicación;
+III.- Sintetizar las aportaciones efectuadas por la sociedad civil en documentos técnicos, planes, programas, reglamentos, proyectos, etc., que sirvan como soporte para el IMEPLAN en la toma de decisiones y la instrumentación de acciones;
 
-IV. Elaborar los materiales audiovisuales y publicaciones oficiales del Organismo para su difusión entre la comunidad, con base en los proyectos recabados de las distintas unidades administrativas, supervisando su impresión y distribución;
+IV.- Todas aquellas disposiciones establecidas por la Junta de Gobierno, el Consejo Consultivo o el Director General del Instituto, que sean necesarias para el correcto funcionamiento del mismo;
 
-V. Recopilar las informaciones relativas a las actividades del Organismo y otras que resulten de interés para la misma, haciéndolas llegar a las unidades técnicas y administrativas que las requieran;
+V.- Participar o conformar comisiones técnicas para el diseño de instrumentos que conlleven a lograr un desarrollo sustentable de la zona metropolitana;
 
-VI. Mantener un activo de las informaciones emitidas, así como de las recopilaciones de notas periodísticas, radiofónicas, televisivas, carteles, materiales audiovisuales y otras publicaciones oficiales de interés del Instituto para su consulta;
+VI.- Analizar y revisar los proyectos, estudios, planes y programas de desarrollo, así como las líneas de planeación para el desarrollo sustentable de la zona metropolitana, evaluar la propuesta técnica para su instrumentación y aportar ideas, comentarios, señalamientos, entre otras;
 
-VII. Elaborar y editar los análisis, resúmenes, compilaciones, documentos, notas, audiovisuales o gráficos relativos a las diversas acciones del Instituto o a los asuntos en que interviene, así como los que específicamente ordene el Director General;
-
-VIII. Atender a los representantes de los medios de comunicación, con sujeción a los lineamientos que establezca el Director General;
-
-IX. Mantener informada a la población sobre el desarrollo de los programas del Instituto y contribuir a la difusión homogénea de las actividades de procuración de justicia, de acuerdo a la normatividad de la materia;
-
-X. Realizar estudios y encuestas de opinión pública, que permitan estructurar o modificar el Programa de Comunicación Social del Instituto, para tener elementos de juicio y conocer su impacto en la sociedad;
-
-XI. Desarrollar mecanismos y estrategias que permitan obtener y coordinar la información generada por las diversas áreas del Instituto, a fin de darle el seguimiento que corresponda y,
-
-XII. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Director General o la Junta de Gobierno.
+VII.- Implementar estudios sobre situaciones y problemas específicos en materia de desarrollo sustentable, consultar a los expertos en la materia y emitir las propuestas de soluciones aplicables.
 
 ### CAPÍTULO X. De las Delegaciones Regionales
 
-###### Artículo 24.
+###### Artículo 24°.
 
-Para una eficaz atención y mejor despacho de los asuntos de su competencia, el Instituto podrá contar con Unidades Desconcentradas, las que tendrán atribuciones específicas para resolver sobre las materias de su competencia y dentro del ámbito territorial que se le determine en cada caso, de conformidad con las normas que para ello establezca el presente reglamento, los instrumentos jurídicos de creación de dichas Unidades y demás disposiciones aplicables.
+El órgano de vigilancia será representado por un Comisario, quien será nombrado por Gobernador (sic) del Estado, y tendrá las siguientes atribuciones:
+
+I. Vigilar el cumplimiento de las disposiciones legales, así como de las reglamentarias, administrativas y de política general y sectorial que emita el Ejecutivo Estatal o sus dependencias en relación con las entidades paraestatales;
+
+II. Vigilar el cumplimiento de las disposiciones y lineamientos relativos al sistema de control y evaluación gubernamental;
+
+III. Vigilar la instrumentación y funcionamiento de los sistemas de programación y presupuesto;
+
+IV. Vigilar que conduzcan sus actividades conforme al programa sectorial correspondiente, así como que cumplan con lo previsto en el programa institucional;
+
+V. Promover y vigilar que establezcan indicadores básicos de gestión en materia de operación, productividad, financieros y de impacto social, que permitan medir y evaluar su desempeño;
+
+VI. Con base en las autoevaluaciones de las entidades opinar sobre su desempeño general;
+
+VII. Evaluar aspectos específicos y hacer las recomendaciones procedentes;
+
+VIII. Vigilar y dar seguimiento a los procesos de desincorporación; fungir como representante de la Contraloría Gubernamental ante las dependencias, entidades e instancias que intervengan en estos procesos. Requerir a las instancias involucradas la información necesaria para el cumplimiento de las funciones a su cargo, así como recomendar las medidas que procedan tendientes a promover la conclusión de los procesos con estricto apego a las disposiciones aplicables;
+
+IX. Verificar la debida integración y funcionamiento de la Junta de Gobierno;
+
+X. Solicitar y verificar que se incluyan en el orden del día de las sesiones de la Junta de Gobierno, los asuntos que consideren necesarios;
+
+XI. Practicar la auditoría de los estados financieros y las de carácter técnico o administrativo al término del ejercicio o antes si así lo considera conveniente;
+
+XII. Rendir anualmente, en sesión ordinaria de la Junta de Gobierno, un informe respecto a la veracidad, suficiencia y responsabilidad de la información presentada por el Director General;
+
+XIII. Rendir anualmente a la Junta de Gobierno, un informe sobre los estados financieros, con base en el dictamen de los Auditores Externos;
+
+XIV. Asistir únicamente con voz a las sesiones de la Junta de Gobierno, mismas a las que deberá ser citado;
+
+XV. Las demás inherentes a su función y las que les señale expresamente la Contraloría Gubernamental, en el ámbito de su competencia.
 
 ### CAPÍTULO XI. De las suplencias
 
-###### Artículo 25.
+###### Artículo 25°.
 
-El Instituto contará con Delegaciones que tendrán el carácter de Unidades Desconcentradas, cuyos titulares estarán subordinados jerárquicamente al Director General.
+Corresponderá al Congreso del Estado, con la intervención de la Auditoría Superior, revisar y calificar la cuenta pública del Instituto en los términos de la ley en la materia.
 
-###### Artículo 26.
+###### Artículo 26°.
 
-Las Delegaciones tendrán atribuciones en materia de dictaminación y servicios periciales, así como administrativos en los términos que determine la Junta de Gobierno, mediante acuerdo que deberá publicarse en el Periódico Oficial del Estado, "El Estado de Jalisco".
+El incumplimiento a las obligaciones que les impone la normatividad del IMEPLAN a los integrantes de la Junta de Gobierno, deberá ser evaluado por el pleno de la Junta, quien deberá determinar acciones y/o sanciones correspondientes.
 
-###### Artículo 27.
+###### Artículo 27°.
 
-Las Delegaciones recibirán indicaciones en el aspecto técnico y administrativo de los directores y coordinadores en los términos del presente ordenamiento y las demás disposiciones aplicables.
+El incumplimiento a las obligaciones que le impone la normatividad del IMEPLAN a los miembros del Consejo Consultivo, deberá ser evaluado por la Junta de Gobierno a efecto de determinar las acciones a seguir, las cuales podrán ser desde una llamada de atención hasta la remoción del cargo por parte de la Junta de Gobierno, quien necesariamente deberá contar con el aval de las dos terceras partes de sus integrantes.
 
-###### Artículo 28.
+Para que proceda la remoción de un miembro del Consejo Consultivo, necesariamente éste debió haber incurrido en reincidencia al incumplimiento de sus obligaciones.
 
-Durante las ausencias temporales del Director General del Instituto, que no excedan de tres semanas, el despacho y resolución de los asuntos de su competencia, quedarán a cargo del Director de Dictaminación Pericial.
+###### Artículo 28°.
 
-###### Artículo 29.
+La inasistencia a tres sesiones del Consejo Consultivo por parte de alguno de sus miembros ya sea propietario o suplente sin existir causa justificada, será motivo para que la Junta de Gobierno determine la remoción de esa persona.
 
-Los Directores, Coordinadores y Delegados, serán suplidos en sus ausencias temporales por los servidores públicos de la jerarquía inmediata inferior de su respectiva adscripción, que designe el Director General.
+###### Artículo 29°.
 
-## TRANSITORIOS
+El Consejo Consultivo estará facultado para evaluar el desempeño del Director General, respecto de las obligaciones que tiene conforme a la normatividad del IMEPLAN.
 
-PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+En caso de que el Consejo Consultivo considere que el Director General no está cumpliendo con las obligaciones que le impone la normatividad mencionada, deberá emitir un dictamen debidamente sustentado, solicitando a la Junta de Gobierno analice el desempeño de ése servidor público.
 
-SEGUNDO. El Director General deberá proponer a la Junta de Gobierno el Manual de Organización, Procedimientos y Atención al Público del Instituto Jalisciense de Ciencias Forenses para su aprobación.
+Esa solicitud necesariamente tendrá que ser avalada por las dos terceras partes de los miembros del Consejo Consultivo.
 
-TERCERO. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+###### Artículo 30°.
 
-Así lo resolvió el Ciudadano Gobernador Constitucional del Estado ante el Secretario General de Gobierno y el C. Procurador General de Justicia del Estado, que autorizan y dan fe.
+Recibido el dictamen a que se refiere el artículo anterior la Junta de Gobierno será la única facultada para proceder a analizar esa documentación, así corno el desempeño del Director General del IMEPLAN a efecto de determinar si existen causas suficientes para solicitar su remoción.
 
-ATENTAMENTE
+###### Artículo 31°.
 
-"1998, AÑO DE LOS DERECHOS HUMANOS EN JALISCO"
+Una vez cumplidos los requisitos mencionados en los artículos anteriores 29° y 30°, para la remoción del Director General, en caso de considerarse procedente la solicitud del Consejo Consultivo por la Junta de Gobierno, ésta última turnará la documentación al C. Gobernador Constitucional del Estado, para que determine lo conducente.
 
-EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO
+###### Artículo 32°.
 
-ING. ALBERTO CÁRDENAS JIMÉNEZ
+Iniciado el desarrollo de la evaluación en su desempeño, por el Consejo Consultivo, el Director General en tanto no se resuelva su situación, no podrá ejercer sus atribuciones.
 
-EL C. SECRETARIO GENERAL DE GOBIERNO
+## TRANSITORIO
 
-LIC. FERNANDO A. GUZMÁN PÉREZ PELÁEZ
+###### ARTICULO ÚNICO
 
-EL PROCURADOR GENERAL DE JUSTICIA
+Este Estatuto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
 
-LIC. FELIX JAVIER LEDESMA MARTÍNEZ NEGRETE
-
-La presente hoja de firmas corresponde al Reglamento interior del Instituto Jalisciense de Ciencias Forenses, de fecha 24 de Julio de 1998.
+ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- DIRECTOR GENERAL DEL INSTITUTO METROPOLITANO DE PLANEACIÓN DEL SUR DE TAMAULIPAS. (IMEPLAN).- ING. JAIME ORGANISTA BARBA.- Rúbrica.
