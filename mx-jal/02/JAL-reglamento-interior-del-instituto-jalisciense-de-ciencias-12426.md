@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-instituto-jalisciense-de-ciencias-12426
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-08-13"
-last_updated: "1998-08-13"
+last_updated: "2009-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 2009.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 13 de agosto de 1998.
 
@@ -429,15 +429,53 @@ X. Sistematizar los criterios de interpretación y aplicación de las disposicio
 
 XI. Participar en la celebración de acuerdos, contratos y convenios con entidades federativas, la Federación, dependencias y organismos estatales y federales, así como con los sectores social y privado, para el desarrollo y operación de los programas de intercambio de experiencias, conocimientos y avances tecnológicos nacionales y extranjeros;
 
-XII. Realizar auditorias legales a las Unidades Administrativas y Desconcentradas del Instituto y, (sic)
+XII. (DEROGADA, P.O. 9 DE ABRIL DE 2009)
 
 XIII. Substanciar y resolver los procedimientos de responsabilidad administrativa en los términos del régimen aplicable de responsabilidades de los servidores públicos e imponer por acuerdo del Director las sanciones administrativas que correspondan;
 
 XIV. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Director General o la Junta de Gobierno.
 
-### CAPÍTULO VIII. De la Unidad de Comunicación Social
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE ABRIL DE 2009)</small>
 
-### CAPÍTULO IX. De las Unidades Desconcentradas
+### CAPÍTULO VIII. De la Coordinación de Contraloría Interna
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2009)</small>
+
+Artículo 22 A. Al frente de la Coordinación de la Contraloría Interna habrá un titular, quien tendrá las siguientes atribuciones:
+
+I. Realizar auditorías, visitas de inspección y verificación de las distintas áreas, unidades administrativas y desconcentradas del Instituto;
+
+II. Dar seguimiento a las recomendaciones u observaciones que realice con motivo de las auditorías y visitas practicadas;
+
+III. Proponer al director general, los proyectos de reglamento interior, acuerdos y demás disposiciones internas para el mejor funcionamiento del Instituto;
+
+IV. Designar auditores internos para el ejercicio de sus funciones;
+
+V. Opinar cuando se le solicite sobre los nombramientos y, en su caso, remoción de los empleados del Instituto;
+
+VI. Informar al director general del resultado de las auditorías, visitas de inspección y verificación realizadas;
+
+VII. Formar parte del Comité o Comisión de Adquisiciones del Instituto e intervenir en los procesos que se lleven a cabo;
+
+VIII. Por acuerdo del Director General, incoar los procedimientos de responsabilidad de los servidores públicos;
+
+IX. Llevar el registro de procedimientos disciplinarios;
+
+X. Requerir e informar a los empleados del instituto sobre la presentación u omisión de su declaración patrimonial;
+
+XI. Opinar, cuando se le solicite, sobre la celebración y ejecución de los convenios y contratos en que sea parte el Instituto;
+
+XII. Recibir, atender e investigar las quejas, denuncias y sugerencias que formule la ciudadanía, por el actuar de los empleados del Instituto y, en su caso, canalizarlas al área competente;
+
+XIII. Vigilar, verificar y evaluar el cumplimiento de las normas, políticas, lineamientos, planes, presupuestos, procedimientos y demás ordenamientos legales aplicables al Instituto;
+
+XIV. Atender las observaciones o recomendaciones que realice la Contraloría del Estado y/o los auditores externos; y
+
+XV. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el director general o la junta de gobierno.
+
+(REUBICADO [N. DE E. ANTES CAPITULO VIII], P.O. 9 DE ABRIL DE 2009)
+
+### CAPÍTULO IX. De la Unidad de Comunicación Social
 
 ###### Artículo 23.
 
@@ -467,13 +505,17 @@ XI. Desarrollar mecanismos y estrategias que permitan obtener y coordinar la inf
 
 XII. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Director General o la Junta de Gobierno.
 
-### CAPÍTULO X. De las Delegaciones Regionales
+(REUBICADO [N. DE E. ANTES CAPITULO IX], P.O. 9 DE ABRIL DE 2009)
+
+### CAPÍTULO X. De las Unidades Desconcentradas
 
 ###### Artículo 24.
 
 Para una eficaz atención y mejor despacho de los asuntos de su competencia, el Instituto podrá contar con Unidades Desconcentradas, las que tendrán atribuciones específicas para resolver sobre las materias de su competencia y dentro del ámbito territorial que se le determine en cada caso, de conformidad con las normas que para ello establezca el presente reglamento, los instrumentos jurídicos de creación de dichas Unidades y demás disposiciones aplicables.
 
-### CAPÍTULO XI. De las suplencias
+(REUBICADO [N. DE E. ANTES CAPITULO X], P.O. 9 DE ABRIL DE 2009)
+
+### CAPÍTULO XI. De las Delegaciones Regionales
 
 ###### Artículo 25.
 
@@ -486,6 +528,10 @@ Las Delegaciones tendrán atribuciones en materia de dictaminación y servicios 
 ###### Artículo 27.
 
 Las Delegaciones recibirán indicaciones en el aspecto técnico y administrativo de los directores y coordinadores en los términos del presente ordenamiento y las demás disposiciones aplicables.
+
+(REUBICADO [N. DE E. ANTES CAPITULO XI], P.O. 9 DE ABRIL DE 2009)
+
+### CAPÍTULO XII. De las suplencias
 
 ###### Artículo 28.
 
@@ -521,4 +567,10 @@ EL PROCURADOR GENERAL DE JUSTICIA
 
 LIC. FELIX JAVIER LEDESMA MARTÍNEZ NEGRETE
 
-La presente hoja de firmas corresponde al Reglamento interior del Instituto Jalisciense de Ciencias Forenses, de fecha 24 de Julio de 1998.
+La presente hoja de firmas corresponde al Reglamento interior del Instituto Jalisciense de Ciencias Forenses de fecha 24 de julio de 1998.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO</small>
+
+P.O. 9 DE ABRIL DE 2009.
+
+ÚNICO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
