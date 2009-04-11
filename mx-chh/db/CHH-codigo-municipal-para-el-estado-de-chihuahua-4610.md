@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2009-04-04"
+last_updated: "2009-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ABRIL DE 2009.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -473,9 +473,9 @@ Es obligación del Ayuntamiento celebrar una sesión solemne en el período que 
 
 Dentro de la misma sesión y rendido el informe por el Presidente Municipal, un Regidor representante de cada uno de los Partidos Políticos que conforman el Ayuntamiento, podrá plantear su posición política en torno al mismo.
 
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2009)</small>
 
-Una vez recibido el informe, el Ayuntamiento acordará la integración de una comisión especial que refleje la pluralidad política de este Organo, a fin de que dentro del término de cuarenta y cinco días emita una opinión al respecto. Las observaciones que se desprenden del análisis realizado por la comisión especial serán hechas del conocimiento del Presidente Municipal en sesión de cabildo, las que ningún caso serán vinculantes.
+Una vez recibido el Informe, el Ayuntamiento acordará la integración de una comisión especial que refleje la pluralidad política de este órgano, a fin de que dentro del término de cuarenta y cinco días emita una opinión al respecto. Así mismo, esta Comisión Especial tendrá a su cargo el análisis del Plan Municipal de Desarrollo, así como el seguimiento en forma semestral, presentando sus conclusiones al Cabildo, quien podrá acordar, a petición de la Comisión, que se remitan a los presentadores del informe las observaciones que estime pertinentes, las que, en ningún caso, serán vinculantes.
 
 ### CAPITULO II. DEL FUNCIONAMIENTO DE LOS AYUNTAMIENTOS
 
@@ -3960,6 +3960,12 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 4 DE ABRIL DE 2009.
 
 DECRETO No. 594/09 II P.O., POR EL QUE SE REFORMA EL ARTICULO 47 DEL CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE ABRIL DE 2009.
 
 ###### ARTÍCULO ÚNICO.
 
