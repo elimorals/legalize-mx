@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-celebracion-de-espectaculos-publicos-en-la-14213"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-13"
-last_updated: "2009-01-26"
+last_updated: "2009-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14213&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-12-27"
 
 LEY PARA LA CELEBRACION DE ESPECTACULOS PUBLICOS EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ABRIL DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 13 de enero de 1997.
 
@@ -107,6 +107,12 @@ XVI. Ventanilla única: Las ventanillas únicas instaladas en las Delegaciones.
 ###### Artículo 5o.
 
 Los sujetos de la Ley son los Titulares, quienes están obligados a observar y cumplir las disposiciones de la misma, así como a vigilar que sus empleados acaten lo señalado en sus preceptos.
+
+> <small>(ADICIONADO, G.O. 13 DE ABRIL DE 2009)</small>
+
+###### Artículo 5o
+
+bis.- Cuando en los procedimientos que establece esta Ley, obren pruebas obtenidas por la Secretaría de Seguridad Pública del Distrito Federal con equipos y sistemas tecnológicos, las mismas se apreciarán y valorarán en términos de la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal. Para lo conducente deberá observarse lo establecido en la Ley de Protección a los Datos Personales.
 
 ### CAPÍTULO II. De la Competencia
 
@@ -1291,3 +1297,9 @@ PRIMERO. Publíquese en el (sic) Gaceta Oficial del Distrito Federal y para su m
 SEGUNDO. El presente Decreto entrará en vigor a los treinta días siguientes a los de su publicación en la Gaceta Oficial del Distrito Federal.
 
 ...
+
+G.O. 13 DE ABRIL DE 2009.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que se opongan a la presente.
