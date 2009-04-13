@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transporte-y-vialidad-del-distrito-federal-26894"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-26"
-last_updated: "2008-09-30"
+last_updated: "2009-04-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26894&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-12"
 
 LEY DE TRANSPORTE Y VIALIDAD DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ABRIL DE 2009.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 26 de diciembre del 2002.
 
@@ -213,6 +213,10 @@ Son órganos auxiliares de consulta de la Secretaría en todo lo relativo a la a
 El Consejo Asesor de Transporte y Vialidad estará integrado por el Jefe de Gobierno, que será su Presidente, el Secretario de Transportes y Vialidad, que será el Secretario General, los Titulares de las Delegaciones, los integrantes de la mesa directiva de la Comisión de Vialidad y Tránsito Urbanos de la Asamblea Legislativa del Distrito Federal y un Pleno de Consejeros conformado en los términos de su instrumento de creación.
 
 En todo lo no previsto por esta Ley, serán aplicables de forma supletoria la Ley de Régimen Patrimonial y del Servicio Público del Distrito Federal, la Ley Ambiental del Distrito Federal, la Ley de Desarrollo Urbano, la Ley de Procedimiento Administrativo del Distrito Federal, el Código Penal para el Distrito Federal, el Código Civil para el Distrito Federal, el Código de Procedimientos Penales para el Distrito Federal y el Código de Procedimientos Civiles para el Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 13 DE ABRIL DE 2009)</small>
+
+Cuando en los procedimiento que establece esta Ley, obren pruebas obtenidas por Seguridad Pública con equipos y sistemas tecnológicos, las mismas se apreciarán y valorarán en términos de la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal.
 
 ###### Artículo 5.
 
@@ -2361,3 +2365,9 @@ Primero.- El presente decreto entrara en vigor al día siguiente de su publicaci
 Segundo.- Remítase al Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
 
 Tercero.- Quedan sin efecto todas aquellas disposiciones que se opongan al contenido del presente decreto.
+
+G.O. 13 DE ABRIL DE 2009.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que se opongan a la presente.
