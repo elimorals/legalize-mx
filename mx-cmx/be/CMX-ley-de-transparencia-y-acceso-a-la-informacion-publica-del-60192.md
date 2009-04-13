@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-6019
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-28"
-last_updated: "2008-03-28"
+last_updated: "2009-04-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60192&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-03-07"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ABRIL DE 2009.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 28 de marzo de 2008.
 
@@ -606,7 +606,9 @@ La información definida por la presente Ley como de acceso restringido, en sus 
 
 La información únicamente podrá ser clasificada como reservada mediante resolución fundada y motivada en la que, a partir de elementos objetivos o verificables pueda identificarse una alta probabilidad de dañar el interés público protegido.
 
-No podrá ser clasificada como información de acceso restringido aquella que no se encuentre dentro de las hipótesis que expresamente señala la presente Ley.
+> <small>(REFORMADO, G.O. 13 DE ABRIL DE 2009)</small>
+
+No podrá ser clasificada como información de acceso restringido aquella que no se encuentre dentro de las hipótesis que expresamente señala la presente Ley y en la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal.
 
 ###### Artículo 37.
 
@@ -826,9 +828,11 @@ Cuando no se dé respuesta en tiempo y forma a la solicitud de información, en 
 
 Si la respuesta a la solicitud de información fuese ambigua o parcial, a juicio del solicitante, podrá impugnar tal decisión en los términos de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE ABRIL DE 2009)</small>
+
 ###### Artículo 54.
 
-La obligación de dar acceso a la información se tendrá por cumplida cuando, a decisión del solicitante, la información se entregue por medios electrónicos, cuando se ponga a su disposición para consulta en el sitio en que se encuentra o bien mediante la entrega de copias simples o certificadas. En la medida de lo posible la información se entregará preferentemente por medios electrónicos.
+La obligación de dar acceso a la información se tendrá por cumplida cuando, a decisión del solicitante, la información se entregue por medios electrónicos, cuando se ponga a su disposición para consulta en el sitio en que se encuentra o bien mediante la entrega de copias simples o certificadas. Para el acceso, registro, clasificación y tratamiento de la información a que hace referencia la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal, se atenderán las disposiciones de dicha norma especial. En la medida de lo posible la información se entregará preferentemente por medios electrónicos.
 
 Sin perjuicio de lo anterior, cuando la información se encuentre disponible en Internet, la Oficina de Información se lo indicará al solicitante, precisando la dirección electrónica completa del sitio donde se encuentra la información requerida, sin que ello exima al Ente Público de proporcionar la información en la modalidad en que se solicite.
 
@@ -1477,3 +1481,11 @@ Recinto de la Asamblea Legislativa del Distrito Federal, a los veintiséis días
 > <small>(F. DE E., G.O. 31 DE MARZO DE 2008)</small>
 
 En cumplimiento de lo dispuesto por el artículo 122, Apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los siete días del mes de marzo de dos mil ocho.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, ARQ. JÉSUS ARTURO AISPURO CORONEL.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, JORGE ARGANIS DÍAZ LEAL.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE SALUD, MANUEL MONDRAGÓN Y KALB.- FIRMA.-EL SECRETARIO DE FINANZAS.- MARIO M. DELGADO CARRILLO.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, ARMANDO QUINTERO MARTÍNEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, JOEL ORTEGA CUEVAS.- FIRMA.- EL SECRETARIO DE TURISMO.- ALEJANDRO ROJAS DÍAZ DURÁN.- FIRMA.- LA SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.-. FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL.- ELÍAS MIGUEL MORENO BRIZUELA.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO.- BENITO MIRÓN LINCE.- FIRMA.- EL SECRETARIO DE EDUCACIÓN.- AXEL DIDRIKSSON TAKAYANAGUI.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES.- MARÍA ROSA MÁRQUEZ CABRERA.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 13 DE ABRIL DE 2009.
+
+PRIMERO.- El presente decreto iniciará su vigencia a partir del día siguiente de su publicación.
+
+SEGUNDO.- Se deroga toda disposición que se oponga al presente decreto.
