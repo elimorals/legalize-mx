@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2008-01-25"
+last_updated: "2009-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ABRIL DE 2009.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -16763,309 +16763,243 @@ Satisfechos los créditos a que se refieren las secciones anteriores, se pagará
 
 #### Sección Primera.- Disposiciones Generales
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
 ###### Artículo 2984.
 
 Con los bienes restantes serán pagados los créditos que no estén comprendidos en las disposiciones anteriores. El pago se hará a prorrata y sin atender a las fechas, ni al origen de los créditos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 13 DE ABRIL DE 2009)</small>
+
 ### CAPITULO VIGESIMO QUINTO.- REGISTRO PUBLICO DE LA PROPIEDAD
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 13 DE ABRIL DE 2009)</small>
 
 #### Sección Segunda.- Personas que pueden pedir la inscripción y modo de hacer el registro
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
 ###### Artículo 2985.
 
-En cada cabecera de Distrito Judicial del Estado, habrá una oficina que se denominará Registro Público de la Propiedad, y cuando en este capítulo la ley hable de Registro, se entenderá que se refiere al Registro Público de la Propiedad.
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1997)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 2986.
 
-El reglamento establecerá la organización y funcionamiento del Registro Público de la Propiedad, así como los requisitos que deban reunir los funcionarios responsables de la prestación del servicio registral, quienes necesariamente deberán ser Licenciados en Derecho.
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 2987.
 
-El registro será público y los encargados de él deben:
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
 
-I.- Permitir a las personas que lo soliciten, que se enteren de las inscripciones existentes en los libros del Registro y de los documentos que estén archivados, relacionados con las inscripciones;
-
-II.- Expedir copias certificadas de las inscripciones o constancias que figuren en los libros del Registro y de los documentos relativos;
-
-III.- Certificar por escrito que un bien determinado no está inscrito en la oficina a su cargo o que una persona, también determinada, no tiene inscrito a su nombre ningún bien, derecho o gravamen; y
-
-IV.- Expedir copias auténticas de las certificaciones a que se refiere la fracción anterior.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 2988.
 
-Se inscribirán en el Registro:
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
 
-I.- Las escrituras en las cuales conste la adquisición, transmisión, modificación, gravamen o extinción de la propiedad de inmuebles o derechos reales;
-
-II.- Las escrituras que reformen las mencionadas en la fracción anterior;
-
-III.- Los contratos de arrendamiento de bienes inmuebles por un período mayor de cinco años y aquéllos en que haya anticipos de rentas por más de tres;
-
-IV.- Las capitulaciones,
-
-V.- Los testamentos por efecto de los cuales se deje la propiedad de bienes raíces, o de derechos reales, haciéndose el registro después de la muerte del testador;
-
-VI.- El auto declaratorio de los herederos y el nombramiento de albacea definitivo, tanto en los intestados como en las testamentarias, y en su caso el auto de reconocimiento de legatarios.
-
-En los casos previstos en las dos fracciones anteriores, se tomará razón del acta de defunción del autor de la herencia.
-
-VII.- Las resoluciones judiciales en que se declare un concurso o se admita un ofrecimiento de bienes a los acreedores, en caso de insolvencia del deudor;
-
-VIII.- Las copias certificadas relativas a las actas de embargo, que recaigan sobre bienes inmuebles o derechos reales;
-
-IX.- Las escrituras constitutivas de personas jurídicas de derecho civil; y
-
-X.- Los demás títulos que la ley ordene expresamente que sean registrados.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 2989.
 
-Los actos jurídicos que conforme a la ley deben registrarse, no producirán efectos contra tercero si no están inscritos en la oficina correspondiente del Registro Público.
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 2990.
 
-Tercero es la persona que adquiera, a título particular y por acto entre vivos, la propiedad o derechos reales de quienes aparezcan en las inscripciones del Registro como titulares de aquélla o de estos derechos.
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 2991.
 
-Los actos ejecutados, los contratos otorgados y las resoluciones judiciales pronunciadas en país extranjero, que produzcan efectos en el Estado de Puebla, se inscribirán de acuerdo con las disposiciones legales que les sean aplicables.
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 2992.
 
-Si el acto o contrato inscrito es nulo, se aplicarán con relación a su inscripción, las siguientes disposiciones:
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
 
-I.- La inscripción no convalida el acto o contrato que sea nulo con arreglo a las leyes;
-
-II.- Los actos o contratos que se otorguen o celebren por personas que en el Registro aparezcan con derecho para ello, no se invalidarán en cuanto a tercero de buena fe, si fueren inscritos y la nulidad o rescisión posterior del derecho del causante, resulte de título anterior no inscrito o de causas que no aparezcan del mismo registro;
-
-III.- Lo dispuesto en la fracción anterior no se aplicará a los contratos gratuitos, ni a actos o contratos que se ejecuten u otorguen violando una ley prohibitiva o de interés público;
-
-IV.- Cuando antes de la adquisición se hubiere hecho alguna anotación en el Registro, respecto al carácter litigioso de los bienes, porque se haya reclamado la nulidad del título del otorgante, la rescisión o nulidad del acto traslativo del dominio, el adquirente sufrirá las consecuencias de la resolución ejecutoriada.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 2993.
 
-No podrá ejercitarse ninguna acción contradictoria del dominio de inmuebles o de derechos reales, sin que previamente o a la vez, se entable demanda de nulidad o cancelación de la inscripción en que conste dicho dominio o derecho.
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 2994.
 
-El embargo de un inmueble o derecho real, se cancelará inmediatamente que conste en los autos, por manifestación auténtica del Registro Público de la Propiedad, y sin necesidad de promover tercería, que el bien o bienes embargados están inscritos a favor de personas distintas del demandado, salvo que se hubiere dirigido contra ella la acción o aseguramiento de bienes, como causahabiente de quien aparece ser dueño en el Registro.
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 2995.
 
-No deben los bienes raíces o los derechos reales impuestos sobre los mismos, inscribirse a la vez en favor de dos o más personas distintas, a menos que estas sean copropietarios, o se trate de un desmembramiento de la propiedad.
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 13 DE ABRIL DE 2009)</small>
 
 #### Sección Tercera.- Extinción de las Inscripciones
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
 ###### Artículo 2996.
 
-La inscripción de los títulos en el Registro, puede pedirse por quien tenga interés legítimo en asegurar el derecho que se va a inscribir, o por el Notario que haya autorizado la escritura de que se trate.
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 2997.
 
-Se registrarán:
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
 
-I.- Los testimonios de escritura pública u otros documentos auténticos;
-
-II.- Las sentencias y providencias judiciales certificadas legalmente;
-
-III.- Los documentos privados que fueren válidos con arreglo a la ley, si al calce de los mismos, certifica un Notario la autenticidad de las firmas.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE FEBRERO DE 1997)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 2998.
 
-Cada inscripción contendrá por lo menos:
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
 
-I.- Los nombres de los contratantes o del causante y del causahabiente del derecho a que se refiere la inscripción;
-
-II.- El nombre de las personas jurídicas que intervengan en el acto inscripto y, en su caso, su razón social o denominación;
-
-III.- La naturaleza, situación y linderos de los inmuebles objeto de la inscripción, o a los cuales afecte el derecho que deba inscribirse;
-
-IV.- La superficie del inmueble a que se refiere la fracción anterior, nombre y número si constare en el título o la referencia al registro anterior en el que consten esos datos;
-
-V.- La mención, en su caso, de haberse agregado el plano o croquis al legajo respectivo;
-
-VI.- La naturaleza, extensión, condiciones y cargas del derecho que se constituya, trasmita, modifique o extinga;
-
-VII.- El valor de los bienes o derechos a que se refieren las fracciones anteriores, o que le fijen los interesados si el derecho no fuere de cantidad determinada;
-
-VIII.- Si se trata de hipotecas, la fecha en que podrá exigirse el pago garantizado, y si causare réditos la tasa o el monto de éstos y la fecha desde que deban correr;
-
-IX.- La naturaleza del acto o contrato;
-
-X.- La fecha del título y funcionario que lo haya autorizado;
-
-XI.- El día y hora de la presentación del título en el Registro; y
-
-XII.- El día y hora de la inscripción.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 2999.
 
-La primera inscripción de cada inmueble en el Registro será de dominio; pero el titular de cualquier derecho real, impuesto sobre un inmueble cuyo dueño no hubiere inscrito su dominio, podrá solicitar judicialmente la inscripción de éste y la de su derecho, debiendo acreditar el dominio de su causante.
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 3000.
 
-El Registrador hará la inscripción si encuentra que el título presentado es de los que deben inscribirse, llena la forma extrínseca exigida por la ley y contiene los datos a que se refiere el artículo 2998. En caso contrario, devolverá el título sin registrar, expresando por escrito la causa y fundando su negativa, siendo necesaria resolución judicial para que se haga el registro.
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 3001.
 
-En el caso de la parte final del artículo anterior, se aplicarán las siguientes disposiciones:
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
 
-I.- El Registrador deberá hacer una inscripción preventiva, que se retrotraerá en sus efectos a la fecha de presentación del título;
-
-II.- Si la autoridad judicial ordena que se registre el título rechazado, la inscripción definitiva surte sus efectos desde que se presentó el título;
-
-III.- Si el Juez aprueba la calificación hecha por el Registrador, se cancelará la inscripción preventiva;
-
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1997)</small>
-
-IV.- Transcurridos treinta días sin que la autoridad judicial comunique al Registrador la iniciación del procedimiento, para la calificación judicial del título presentado, o un año sin que se le comunique la calificación que de tal título haya hecho el Juez, en caso de haberse seguido tal procedimiento, a petición de parte interesada el Registrador cancelará la inscripción preventiva.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 3002.
 
-Las inscripciones se harán conforme lo establezca el Reglamento del Registro.
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 3003.
 
-El registro producirá sus efectos desde el día y la hora en que el documento se hubiere presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 3004.
 
-Las anotaciones preventivas se regirán por las siguientes disposiciones:
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
 
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1997)</small>
-
-I.- El Notario ante quien se pretende otorgar una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes raíces, o cualquier derecho real sobre los mismos, deberá solicitar del registrador certificado sobre los gravámenes que reporte el bien de que se trate;
-
-II.- Si el bien a que se refiere la fracción anterior es rústico, el Notario pedirá al Registrador constancia de no existir, respecto de dicho bien, solicitud de afectación agraria;
-
-III.- Cuando el bien objeto del contrato proyectado sea urbano, el Notario solicitará del Registrador constancia relativa a las declaratorias de provisiones, usos, reservas y destinos de áreas y predios, conforme a la legislación sobre asentamientos urbanos;
-
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1997)</small>
-
-IV.- En la solicitud, el Notario deberá indicar la operación que se proyecta, el inmueble objeto de ésta, los nombres de los futuros contratantes y el antecedente registral, mencionando partida, foja, tomo, libro, e índice respectivos, o en su caso, el folio correspondiente;
-
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1997)</small>
-
-V.- La solicitud mencionada, en la Fracción I, surtirá efectos de primer aviso preventivo y el registrador hará una notación, en la que se mencione la operación proyectada;
-
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1997)</small>
-
-VI.- La anotación a que se refiere la Fracción anterior, surtirá efectos durante sesenta días a partir de la fecha de su presentación;
-
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1997)</small>
-
-VII.- Después de firmada y autorizada una escritura relativa a la operación a que se refieren las Fracciones I y IV de este Artículo, el Notario que la autorice dará al registro un segundo preventivo, cuya vigencia será de noventa días a partir de su presentación;
-
-VIII.- En el segundo aviso preventivo constará el día y la hora del otorgamiento de la escritura, el bien de que se trate, la indicación de que se transmitió o modificó su dominio o que se constituyó, transmitió, modificó o extinguió un derecho real sobre él, los nombres de los interesados en la operación, el precio o importe de ésta, el número, fecha de la escritura y de la firma de ésta;
-
-IX.- El Registrador, con el segundo aviso del Notario, hará inmediatamente una segunda anotación preventiva, al margen de la inscripción de propiedad;
-
-X.- El Notario presentará al Registro el testimonio de la escritura a que se refiera el aviso preventivo, y para su inscripción definitiva, dentro de los sesenta días siguientes a la fecha en que le sea recibido el pago de la liquidación aprobada por la autoridad fiscal;
-
-XI.- Si el Notario cumple lo dispuesto en la fracción anterior, los efectos del registro definitivo se retrotraerán a la fecha de la solicitud mencionada en la fracción I de este artículo; en caso contrario la inscripción surtirá efectos desde la fecha de presentación del testimonio respectivo;
-
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1997)</small>
-
-XII.- Si transcurridos los términos de vigencia de los avisos preventivos, no se presenta el testimonio correspondiente para su inscripción, las anotaciones preventivas quedarán sin efecto y cualquier interesado podrá solicitar su cancelación;
-
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1997)</small>
-
-XIII.- Mientras no se cancelen las anotaciones preventivas no podrá hacerse ninguna o inscripción, que perjudique los derechos surgidos con motivo de la escritura protegida por aquellas anotaciones;
-
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1997)</small>
-
-XIV.- Las anotaciones deberán hacerse bajo la responsabilidad del Registrador, inmediatamente que reciban en el Registro la solicitud o el segundo aviso preventivo;
-
-XV.- (DEROGADA, P.O. 28 DE FEBRERO DE 1997)
-
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1997)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 3005.
 
-Los funcionarios y empleados del Registro son responsables, además de las penas en que puedan incurrir, de los daños y perjuicios que ocasionen;
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
 
-I.- Si rehusan sin motivo legal o retardan sin causa justificada, la inscripción de los documentos que le sean presentados;
-
-II.- Si no expiden dentro de los cinco días hábiles siguientes a la presentación de una solicitud, las certificaciones que en ella se pidan;
-
-III.- Si al extender una certificación omiten o alteran cualquiera de los datos contenidos en la misma;
-
-IV.- Si no inscriben o registran el documento presentado en un plazo de veinte días desde la fecha de su presentación, si es que la inscripción procede; y, en el caso de la negativa de inscripción a que se refiere el Artículo 3000, si no comunican de la calificación respectiva en el mismo plazo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 3006.
 
-Hecha la inscripción, se devolverán los documentos al interesado, con nota de haberse hecho el registro y los datos que identifiquen éste.
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1997)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 3007.
 
-El reglamento establecerá las atribuciones de los funcionarios y empleados del Registro, así como el sistema registral por medios electrónicos y manuales; la forma y modo de llevar a cabo las inscripciones y expedición de certificados.
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 13 DE ABRIL DE 2009)</small>
 
 #### Sección Primera.- Testamento en general
 
 ###### Artículo 3008.
 
-Las inscripciones se extinguen por su cancelación.
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 3009.
 
-Las inscripciones pueden cancelarse por consentimiento de las partes o por decisión judicial.
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 3010.
 
-Tratándose de derechos reales distintos de la propiedad, la cancelación podrá hacerse por declaración unilateral que haga el titular del derecho y que conste en documento auténtico.
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 3011.
 
-La cancelación de las inscripciones podrá ser total o parcial.
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 3012.
 
-Podrá pedirse judicialmente, y deberá ordenarse, en su caso, la cancelación total:
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
 
-I.- Cuando se extinga por completo el bien objeto de la inscripción;
-
-II.- Cuando se declare la nulidad del título en cuya virtud se haya hecho la inscripción;
-
-III.- Cuando se remate judicial o administrativamente el inmueble que reporte el gravamen;
-
-IV.- Cuando tratándose de un embargo hayan transcurrido tres años desde la fecha de la inscripción.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 3013.
 
-Podrá pedirse y deberá decretarse en su caso, la cancelación parcial:
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
 
-I.- Cuando se reduzca el inmueble objeto de la inscripción;
-
-II.- Cuando se reduzca el derecho inscrito a favor del dueño del inmueble gravado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 3014.
 
-Para que el registro pueda ser cancelado por consentimiento de las partes, se requiere que éstas sean legítimas, tengan capacidad para contratar y hagan constar su voluntad de manera auténtica.
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 3015.
 
-Si la cancelación del Registro depende de alguna condición, se requiere, además, el cumplimiento de ésta.
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 3016.
 
-Cuando se registre la propiedad o cualquier otro derecho real sobre inmuebles, en favor del que adquiere, se cancelará el Registro relativo al que enajene.
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 3017.
 
-Cuando se registre una sentencia que declare haber cesado los efectos de otra que esté registrada, se cancelará ésta.
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 3018.
 
-Los padres, como administradores de los bienes de sus hijos; los tutores de menores o incapacitados, y cualesquiera otros administradores, sólo pueden consentir en la cancelación del Registro hecho en favor de sus representados, en caso de pago o sentencia judicial.
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 3019.
 
-Las cancelaciones se harán en la forma que fije el Reglamento.
+(DEROGADO, P.O. 13 DE ABRIL DE 2009)
 
 # LIBRO SEXTO. SUCESIONES
 
@@ -19944,3 +19878,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los Notarios y las autoridades competentes a que se refiere el presente Decreto, tendrán un plazo de doce meses contados a partir de la entrada en vigor del mismo, para implementar o adecuar los equipos, redes y servicios informáticos que se requieran para el cumplimiento por vía electrónica de las obligaciones que el mismo establece. Durante este plazo, los avisos de testamento, las consultas y los reportes de búsqueda, se podrán formular y remitir de manera impresa.
 
 TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE ABRIL DE 2009.
+
+ÚNICO.- El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor a partir del día uno de julio de dos mil nueve.
