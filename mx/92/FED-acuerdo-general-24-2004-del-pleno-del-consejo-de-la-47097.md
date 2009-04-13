@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-24-2004-del-pleno-del-consejo-de-la-47097"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2004-04-23"
-last_updated: "2008-02-08"
+last_updated: "2009-04-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47097&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-04-14"
 
 ACUERDO GENERAL 24/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE FIJA LAS BASES PARA LA DESINCORPORACION DE TODA CLASE DE BIENES MUEBLES EN EL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ABRIL DE 2009.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 23 de abril de 2004.
 
@@ -135,15 +135,27 @@ PROCEDENCIA DE LA DESINCORPORACION.- Procederá la desincorporación de los bien
 
 I. Cuando los bienes muebles por sus cualidades técnicas ya no resulten útiles, funcionales o que no se requieran para el servicio al cual se les destinó o sea inconveniente seguirlos utilizando;
 
-II. Cuando los bienes muebles por su estado físico, derivado de accidentes, deterioro acelerado o terminación de su vida útil, no resulten útiles, funcionales o que no se requieran para el servicio al cual se les destinó o sea inconveniente seguirlos utilizando; y,
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 14/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ABRIL DE 2009)</small>
 
-III. También deberán desincorporarse aquellos bienes muebles que hayan sido robados, extraviados o dañados por siniestros, accidentes o deterioro acelerado.
+II. Cuando los bienes muebles por su estado físico, derivado de accidentes, deterioro acelerado o terminación de su vida útil, no resulten útiles, funcionales o que no se requieran para el servicio al cual se les destinó o sea inconveniente seguirlos utilizando;
+
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 14/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ABRIL DE 2009)</small>
+
+III. También deberán desincorporarse aquellos bienes muebles que hayan sido robados, extraviados o dañados por siniestros, accidentes o deterioro acelerado; y
+
+(ADICIONADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 14/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ABRIL DE 2009) (F. DE E., D.O.F. 23 DE ABRIL DE 2009)
+
+IV. Tratándose de vehículos de apoyo y equipos de cómputo portátiles y de escritorio asignados a los consejeros de la Judicatura Federal, podrán desincorporarse al término de su encargo.
 
 > <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 4.
 
 REASIGNACION, REHABILITACION O REAPROVECHAMIENTO.- La reasignación, rehabilitación o reaprovechamiento de los bienes, en el Distrito Federal y zona metropolitana corresponderán a las Direcciones Generales de Inmuebles y Mantenimiento, Informática y Recursos Materiales y Servicios Generales en el ámbito de sus atribuciones; en las demás Entidades Federativas corresponderá a la Dirección General de Administración Regional, por conducto de los Administradores Regionales y Delegados Administrativos, según se trate.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 14/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ABRIL DE 2009)</small>
+
+Los equipos de cómputo portátiles y de escritorio asignados a los consejeros de la Judicatura Federal, que al término de su encargo continúen como servidores públicos del Poder Judicial de la Federación, podrán ser reasignados directamente a éstos.
 
 Las Direcciones Generales de Recursos Materiales y Servicios Generales, Inmuebles y Mantenimiento y de Informática del Consejo de la Judicatura Federal, auxiliaran a las demás áreas del Consejo en la emisión de los dictámenes técnicos que les soliciten y en su caso realizando las altas y bajas que éstas le indiquen en los inventarios que tengan a su cargo
 
@@ -643,7 +655,11 @@ I. Los bienes muebles que no puedan ser reasignados o rehabilitados, se ofrecer�
 
 > <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 1/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE FEBRERO DE 2008)</small>
 
-Los vehículos de apoyo podrán ser enajenados directamente a los servidores públicos que los hayan tenido asignados, después de por lo menos cuatro años de uso, o bien, tratándose de aquéllos asignados a los consejeros de la Judicatura Federal, al término de su encargo, por cualquier causa, siempre que el vehículo haya sido adquirido al menos un año antes de la fecha de separación. Para tal efecto, se concede un plazo máximo de cinco días hábiles, a partir del ofrecimiento formal al asignatario, para que manifieste si se encuentra interesado en su adquisición, de acuerdo a la fórmula de valuación a que se refiere el artículo 34, fracción I, de este Acuerdo General;
+Los vehículos de apoyo podrán ser enajenados directamente a los servidores públicos que los hayan tenido asignados, después de por lo menos cuatro años de uso, o bien, tratándose de aquéllos asignados a los consejeros de la Judicatura Federal, al término de su encargo, por cualquier causa, siempre que el vehículo haya sido adquirido al menos un año antes de la fecha de separación. Para tal efecto, se concede un plazo máximo de cinco días hábiles, a partir del ofrecimiento formal al asignatario, para que manifieste si se encuentra interesado en su adquisición, de acuerdo a la fórmula de valuación a que se refiere el artículo 34, fracción I, de este Acuerdo General.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 14/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ABRIL DE 2009)</small>
+
+Los equipos de cómputo portátiles y de escritorio asignados a los consejeros de la Judicatura Federal podrán ser enajenados directamente a éstos al término de su encargo, por cualquier causa. Para tal efecto, se concede un plazo máximo de cinco días hábiles, a partir del ofrecimiento formal al asignatario, para que manifieste si se encuentra interesado en su adquisición;
 
 II. En caso de que existan varios interesados en el mismo bien, se dará preferencia al primero que haya presentado su solicitud de compra;
 
@@ -802,3 +818,11 @@ PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El texto de esta reforma deberá integrarse de inmediato al Acuerdo General 24/2004, del Pleno del Consejo de la Judicatura Federal, que Fija las Bases para la Desincorporación de Toda Clase de Bienes Muebles en el Consejo de la Judicatura Federal.
 
 TERCERO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE ABRIL DE 2009.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, el texto de esta reforma, al Acuerdo General 24/2004, del Pleno del Consejo de la Judicatura Federal, que Fija las Bases para la Desincorporación de Toda Clase de Bienes Muebles en el Consejo de la Judicatura Federal.
