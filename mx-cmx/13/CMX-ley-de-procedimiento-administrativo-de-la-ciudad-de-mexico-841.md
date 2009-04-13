@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-procedimiento-administrativo-de-la-ciudad-de-mexico-841"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2009-01-26"
+last_updated: "2009-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=841&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1995-12-14"
 
 LEY DE PROCEDIMIENTO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ABRIL DE 2009.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 21 de diciembre de 1995.
 
@@ -518,7 +518,11 @@ VI. Abstenerse de requerir documentos o solicitar información que no sean exigi
 
 VII. Proporcionar información y orientar acerca de los requisitos jurídicos o técnicos que las disposiciones jurídicas aplicables impongan a los proyectos, actuaciones o solicitudes que se propongan realizar;
 
-VIII. Permitir el acceso a sus registros y archivos en los términos previstos en ésta u otras leyes;
+VIII. Permitir el acceso a sus registros y archivos en los términos previstos en ésta u otras leyes.
+
+> <small>(ADICIONADO, G.O. 13 DE ABRIL DE 2009)</small>
+
+El acceso a los archivos y registros derivados de información obtenida con equipos y sistemas tecnológicos por la Secretaría de Seguridad Pública y sus productos de inteligencia para la prevención de los delitos, por su carácter relevante para la seguridad pública del Distrito Federal, deberá permitirse o restringirse y presentarse en los formatos que establece la Ley que regula el uso de tecnología para la Seguridad Pública y la Ley de Transparencia y Acceso a la Información Pública, ambas del Distrito Federal;
 
 IX. Tratar con respeto a los particulares y a facilitar el ejercicio de sus derechos y el cumplimiento de sus obligaciones;
 
@@ -635,6 +639,10 @@ II. Cuando la autoridad competente que esté conociendo de la tramitación de un
 En los procedimientos administrativos se admitirán toda clase de pruebas, excepto la confesional a cargo de la autoridad; y las que sean contrarias a la moral, al derecho o las buenas costumbres. Contra el desechamiento de pruebas no procederá recurso alguno, sin perjuicio de que esta circunstancia pueda alegarse al impugnarse la resolución administrativa.
 
 Las pruebas supervenientes podrán ofrecerse hasta antes de que se dicte resolución en el procedimiento administrativo.
+
+> <small>(ADICIONADO, G.O. 13 DE ABRIL DE 2009)</small>
+
+Cuando en el procedimiento obren pruebas obtenidas por la Secretaría de Seguridad Pública del Distrito Federal con equipos y sistemas tecnológicos, las mismas se recabarán, apreciarán y valorarán en términos de la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal.
 
 ###### Artículo 57.
 
@@ -1024,6 +1032,10 @@ IX. Nombre y firma de quienes intervinieron en la diligencia incluyendo los de q
 
 Los visitados a quienes se haya levantado acta de verificación podrán formular observaciones en el acto de la diligencia y ofrecer pruebas en relación a los hechos contenidos en ella, o bien lo podrán hacer por escrito, en un documento anexo, dentro de los diez días hábiles siguientes a la fecha en que se hubiere levantado el acta de visita de verificación.
 
+> <small>(ADICIONADO, G.O. 13 DE ABRIL DE 2009)</small>
+
+Cuando en el procedimiento, obren pruebas obtenidas por la Secretaría de Seguridad Pública del Distrito Federal con equipos y sistemas tecnológicos, las mismas se recavarán (sic), apreciarán y valorarán en términos de la Ley que Regula el Uso de la Tecnología para la Seguridad Pública del Distrito Federal.
+
 ###### Artículo 105.
 
 Las dependencias podrán, de conformidad con las disposiciones aplicables, verificar bienes, personas y vehículos de transporte con el objeto de comprobar el cumplimiento de las disposiciones legales, para lo cual se deberán cumplir, en lo conducente, las formalidades previstas para las visitas de verificación.
@@ -1357,3 +1369,9 @@ PRIMERO. Publíquese en el (sic) Gaceta Oficial del Distrito Federal y para su m
 SEGUNDO. El presente Decreto entrará en vigor a los treinta días siguientes a los de su publicación en la Gaceta Oficial del Distrito Federal.
 
 ...
+
+G.O. 13 DE ABRIL DE 2009.
+
+PRIMERO.- El presente decreto iniciará su vigencia a partir del día siguiente de su publicación.
+
+SEGUNDO.- Se deroga toda disposición que se oponga al presente decreto.
