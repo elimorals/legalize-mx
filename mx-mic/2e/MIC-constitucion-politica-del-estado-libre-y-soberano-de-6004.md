@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2008-09-11"
+last_updated: "2009-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 2009.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -627,7 +627,13 @@ XVI.- Crear y suprimir los empleos públicos, según lo exijan las necesidades d
 
 XVI bis.- Legislar en materia de políticas de sueldos, salarios y prestaciones, bajo los principios de racionalidad, austeridad, proporcionalidad, equidad, certeza y motivación, que eviten excesos y discrecionalidad de las autoridades, garantizando la participación de órganos colegiados en la definición de criterios, políticas y lineamientos en la materia. A lo que se sujetarán los poderes Legislativo, Ejecutivo y Judicial, órganos autónomos y entidades de la Administración Pública Paraestatal;
 
-XVII.- Conceder honores, premios y recompensas a las personas que presten servicios eminentes a la República o al Estado, y otorgar pensiones a ellas o a los familiares que comprueben encontrarse en difíciles condiciones económicas;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2009)</small>
+
+XVIl.- Conceder honores, premios y recompensas a las personas que presten servicios eminentes a la República o al Estado, con la aprobación de las dos terceras partes de los diputados presentes;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2009)</small>
+
+XVII bis.- Conceder pensiones, en casos de excepción, conforme a los procedimientos y formalidades que establezca la ley de la materia, con la aprobación de las dos terceras partes de los diputados presentes;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -3064,6 +3070,20 @@ Remítase a los ayuntamientos del Estado, el presente Decreto, para que en el t�
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 14 DE ABRIL DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, para su conocimiento general y efectos legales procedentes.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase a los ayuntamientos del Estado, el Proyecto de Decreto, para que, en los términos del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, después de recibido el Proyecto de Decreto, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación.
+
+###### ARTÍCULO TERCERO.
+
+Las comisiones de Gobernación y Puntos Constitucionales del Congreso del Estado contarán con un término de ciento ochenta días, a partir de la entrada en vigor del presente Decreto, para presentar ante el Pleno la Iniciativa con carácter de Dictamen de la Ley Reglamentaria en materia de pensiones previstas en la fracción XVII bis.
 
 ###### ARTÍCULO CUARTO.
 
