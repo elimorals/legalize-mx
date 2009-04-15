@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2008-08-20"
+last_updated: "2009-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 2009.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -297,53 +297,69 @@ En ningún caso podrán desempeñar los Ayuntamientos, como cuerpos colegiados, 
 
 Los Regidores y el Síndico podrán desempeñar funciones compatibles de control y vigilancia para el despacho de las dependencias municipales.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 35.
 
-En el desempeño de los cargos municipales, los integrantes de los Ayuntamientos atenderán a los principios de racionalidad, austeridad y disciplina del gasto público municipal, estando impedidos para desempeñar otro empleo, cargo o comisión pública de la federación o del estado por los que perciban remuneración, salvo que medie licencia debidamente autorizada por el Ayuntamiento, a partir de la cual quedarán separados de sus funciones. Se exceptúan de los impedimentos anteriores las actividades docentes, literarias, artísticas o de beneficencia.
+En el desempeño de los cargos municipales, los integrantes de los Ayuntamientos atenderán a los principios de racionalidad, austeridad y disciplina del gasto público, estando impedidos para desempeñar otro empleo, cargo o comisión pública de la federación o del estado por los que perciban remuneración, salvo que medie licencia debidamente autorizada en los términos del capítulo respectivo de esta ley, a partir de la cual quedarán separados de sus funciones. Se exceptúan de los impedimentos anteriores las actividades docentes, literarias, artísticas o de beneficencia.
 
 ### CAPÍTULO II. De la instalación de los Ayuntamientos
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 36.
 
-El día 17 de septiembre del año en que se verifiquen las elecciones ordinarias para la renovación de los gobiernos municipales, los Ayuntamientos salientes celebrarán Sesión Solemne de Cabildo a fin de ordenar los asuntos que habrán de entregarse a los nuevos gobiernos municipales. A esta sesión comparecerán el representante del H. Congreso que se designe y los ciudadanos que resultaron electos para ocupar los cargos de Presidente, Síndico y Regidores, a fin de rendir la protesta legal para asumir el ejercicio de sus funciones.
+Los ciudadanos que resultaron electos para desempeñar las funciones de Presidente, Síndico y Regidores, previa rendición de la protesta de ley, tomarán posesión de su cargo el día diecisiete de septiembre del año en que se verifiquen las elecciones ordinarias para la renovación de los gobiernos municipales.
 
-En la última sesión ordinaria del mes inmediato anterior a la fecha de terminación de actividades del Ayuntamiento saliente, éste nombrará una comisión plural de Regidores que fungirá como comisión instaladora del Ayuntamiento electo. La comisión designada convocará, con diez días de anticipación, a los integrantes del Ayuntamiento electo, para que acudan a la sesión de instalación formal del mismo.
+Los ayuntamientos que estén por concluir su gestión convocarán a una sesión solemne para los efectos de la instalación del Ayuntamiento electo, a la que se invitará a la comunidad en general. La invitación incluirá lugar, fecha y hora de la sesión, así como el orden del día correspondiente. A esta sesión acudirá un representante del Poder Legislativo, quien hará uso de la palabra cuando así lo solicite. Asimismo podrá asistir el titular del Poder Ejecutivo estatal, o enviar representante; en el primer caso si lo desea pronunciará un mensaje.
+
+Para ello, en la última sesión ordinaria del mes inmediato anterior al de terminación de actividades del Ayuntamiento saliente, se nombrará una Comisión plural integrada preferentemente por el Presidente, el Síndico y tres regidores quienes fungirán como Comisión Instaladora del Ayuntamiento electo. La Comisión designada convocará, con al menos diez días de anticipación, a los integrantes del nuevo Ayuntamiento, para que acudan a la sesión de instalación formal del mismo.
 
 ###### ARTICULO 37.
 
 Para los efectos del artículo anterior, los ciudadanos electos deberán acreditarse con la constancia de mayoría, de asignación y la declaratoria de validez expedidas por el órgano respectivo o, en su caso, con la resolución del órgano jurisdiccional en materia electoral a más tardar tres días antes de la sesión solemne de instalación. Las autoridades municipales darán cuenta y registro de dichas acreditaciones, y expedirán y distribuirán con toda anticipación las invitaciones y comunicaciones respectivas.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 38.
 
-La Sesión Solemne de Instalación se desarrollará conforme a las bases siguientes:
+La sesión solemne de instalación se desarrollará conforme a las bases siguientes:
 
-I.- Se iniciará la sesión en lugar y hora que se señale de ese día, con la asistencia de por lo menos la mitad más uno de los actuales miembros del Ayuntamiento, y comprobado el quórum legal se dará lectura al acta de la sesión anterior;
+I.- Para los efectos de declarar el quórum, la Comisión Instaladora por conducto de alguno de sus miembros registrará la asistencia de cuando menos la mayoría de los integrantes del Ayuntamiento electo.
 
-II.- Se anexará a dicha acta una memoria que describa pormenorizadamente el estado de los asuntos públicos municipales con manifestación expresa de la aplicación de los planes y programas y de los problemas aún no resueltos, así como las medidas que podrían aplicarse para su atención y solución;
+II.- Verificado el quórum, el Presidente de la Comisión Instaladora solicitará a los asistentes ponerse de pie para emitir la siguiente declaratoria: “Hoy 17 de septiembre (año que corresponda), se declara legal y solemnemente instalado el (número ordinal que corresponda) Ayuntamiento constitucional del (municipio que corresponda) para el período (el que corresponda).”
 
-III.- A continuación se declarará en receso la sesión, designándose las comisiones protocolarias que se requieran para trasladar y acompañar hasta el recinto a los integrantes del nuevo Ayuntamiento, así como a los representantes oficiales de los poderes constitucionales del estado;
+III.- Acto continuo, el Presidente de la Comisión Instaladora invitará al Presidente Municipal electo a que ocupe un lugar en el presídium a efecto de que rinda la protesta de ley.
 
-IV.- Reiniciada la sesión, los ciudadanos electos ocuparán lugares especiales, y ante la representación acreditada del Congreso del Estado rendirán la protesta de ley: primero el Presidente Municipal electo, y éste a su vez la tomará de inmediato a los demás miembros del nuevo Ayuntamiento. Si el Presidente Municipal electo no asistiere al acto, él Síndico tomará la protesta de ley a los miembros presentes. En ausencia de ambos, el Regidor que se designe rendirá la protesta de ley e inmediatamente después la tomará a los demás integrantes del Cabildo presentes;
+IV.- En seguida y continuando de pie toda la concurrencia, se procederá con la protesta de ley al tenor de las siguientes prescripciones:
 
-V.- Una vez rendida la protesta, el Presidente Municipal o, en su caso, el Síndico o Regidor que haya rendido primero la protesta de ley, hará la declaratoria formal de que ha quedado legal y legítimamente instalado el nuevo Ayuntamiento por el período comprendido del 18 de septiembre al 17 de septiembre del trienio que corresponda; dando lectura enseguida a su plan y programa de gobierno. Se concederá el uso de la palabra, si así lo solicitan, al representante del Poder Legislativo y al titular del Poder Ejecutivo, cuando asista;
+a) En primer término el Presidente Municipal electo se tomará la protesta a si mismo levantando su mano derecha a la altura del pecho y dirá: “PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO, Y LAS LEYES QUE DE ELLAS EMANEN, DESEMPEÑANDO LEAL Y PATRIOTICAMENTE EL CARGO DE PRESIDENTE MUNICIPAL QUE EL PUEBLO ME HA CONFERIDO, MIRANDO EN TODO MOMENTO POR EL BIEN Y PROSPERIDAD DEL MUNICIPIO, Y SI ASÍ NO LO HICIERE, QUE EL PUEBLO ME LO DEMANDE.
 
-VI.- Se clausurará la sesión nombrándose las comisiones protocolarias que se requieran para que acompañen a su salida del recinto a los representantes de los poderes constitucionales del Estado que asistieren; y
+b) Posteriormente, el Presidente Municipal tomará la protesta a los demás integrantes del Ayuntamiento preguntando lo siguiente: “¿PROTESTAN GUARDAR Y HACER GUARDAR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO, Y LAS LEYES QUE DE ELLAS EMANEN, DESEMPEÑANDO LEAL Y PATRIOTICAMENTE LOS CARGOS DE SÍNDICO Y REGIDORES QUE EL PUEBLO LES HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DEL MUNICIPIO?
 
-VII.- Al término de la sesión de instalación, el Ayuntamiento entrante procederá de inmediato a celebrar sesión ordinaria para atender los siguientes asuntos:
+Los miembros del Ayuntamiento, levantando la mano derecha a la altura del pecho contestarán: “SI PROTESTO”; en seguida el Presidente Municipal dirá entonces: “Y SI ASÍ NO LO HICIEREN, QUE EL PUEBLO SE LOS DEMANDE.”
+
+V.- En el supuesto de que el Presidente Municipal electo no compareciera, el Síndico o en ausencia de éste el Regidor que se designe, procederá con el desahogo de las protestas a que se refiere la fracción anterior.
+
+VI.- Previo a la clausura de la sesión de instalación, se nombrarán las comisiones protocolarias que se requieran para que acompañen a su salida del recinto a los miembros de la Comisión Instaladora y a los representantes de los poderes constitucionales del Estado que asistieren; y
+
+Al término de la sesión de instalación, el Ayuntamiento procederá de inmediato a celebrar sesión ordinaria para atender enunciativamente, los siguientes asuntos:
 
 a) Nombramiento del Secretario, Tesorero y Contralor; y
 
 b) Integración de las comisiones municipales.
 
+Concluida la sesión, los integrantes del nuevo Ayuntamiento formularán invitación especial para hacer un recorrido por las principales calles de la cabecera municipal, a efecto de dar a conocer, mediante bando, el anuncio público de la instalación del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 39.
 
-Concluida la ceremonia de instalación, el Ayuntamiento saliente hará entrega al entrante de todos los bienes que correspondan al patrimonio del municipio por medio de un inventario, el cual estará autorizado por el Síndico saliente.
-
-Concluida la entrega, los integrantes del nuevo Ayuntamiento formularán invitación especial para hacer un recorrido por las principales calles de la cabecera municipal, a efecto de dar a conocer, mediante bando, el anuncio público de la instalación del Ayuntamiento.
+Con anterioridad a la sesión de instalación, el Ayuntamiento saliente por conducto de la Comisión Instaladora, hará entrega al entrante a través del Presidente y el Síndico, de todos los bienes que correspondan al patrimonio del municipio por medio de un inventario, el cual estará autorizado por el Síndico saliente.
 
 Tanto el inventario como el informe serán verificados posteriormente para todos los efectos legales y administrativos que procedan, sujetándose invariablemente a las disposiciones normativas contenidas en las bases para la entrega-recepción de las administraciones municipales y en esta ley.
 
-Por lo que respecta a la transmisión del mando de las corporaciones de seguridad pública municipal, deberá hacerse de inmediato, previo acuerdo del Presidente entrante y el saliente, y de no existir tal, se hará a las 0:01 horas del día 18 de septiembre del año respectivo. El desacato u oposición de parte de los responsables de la corporación saliente será sancionada en los términos que establece el Código Penal del Estado.
+Por lo que respecta a la transmisión del mando de las corporaciones de seguridad pública municipal, deberá hacerse de inmediato, previo acuerdo del Presidente entrante y el saliente, y de no existir tal, se hará a las 0:01 horas del día 17 de septiembre del año respectivo. El desacato u oposición de parte de los responsables de la corporación saliente será sancionada en los términos que establece el Código Penal del Estado.
 
 ###### ARTICULO 40.
 
@@ -357,21 +373,31 @@ c) De todo lo anterior se levantará acta circunstanciada en la que se hará con
 
 Estas mismas reglas se aplicarán cuando se encuentren en funciones Consejos Municipales.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 41.
 
-Los ciudadanos Presidentes Municipales, saliente y entrante, podrán celebrar convenio para modificar o establecer la hora en que se celebre la Sesión Solemne de Instalación, la que en ningún caso será antes del diecisiete de septiembre ni después de las 16:00 horas de ese día.
+Los ciudadanos Presidentes Municipales, saliente y entrante, podrán celebrar convenio para establecer la hora en que se celebre la Sesión Solemne de Instalación, la cual deberá efectuarse el 17 de septiembre del año correspondiente entre las 10 y las 20 horas de ese día.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 42.
 
-Sólo en caso de no estar presentes la mayoría absoluta de los integrantes electos propietarios, quienes hayan rendido la protesta procederán a llamar a los suplentes de aquellos que no hubieren justificado su ausencia, para que entren en ejercicio.
+Si a la sesión de instalación no se presentara la totalidad de los integrantes del Ayuntamiento electo, quienes hayan rendido la protesta procederán a llamar a los que no hubieren asistido para que dentro del plazo de 24 horas se incorporen al ejercicio del cargo, previa protesta de ley.
 
-Cuando no exista la mayoría absoluta de los integrantes electos del Ayuntamiento, los presentes lo comunicarán al Congreso del Estado, para que se proceda a la declaración de desaparición del mismo.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 15 DE ABRIL DE 2009)</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 43.
 
-El Ayuntamiento instalado sin la totalidad de los miembros electos propietarios, procederá de inmediato a notificar a los ausentes para que asuman el cargo en un plazo no mayor de diez días naturales y si no se presentan, serán llamados los suplentes, quienes entrarán en ejercicio.
+En el supuesto de no acudir sin causa justificada dentro del plazo señalado en el artículo anterior, se llamará al suplente o en su caso al que siga en la lista, para que asuma funciones en calidad de propietario.
 
 Instalado el Ayuntamiento, se comunicará oficialmente su integración a los poderes Ejecutivo, Legislativo y Judicial.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2009)</small>
+
+En el supuesto de que aún con los suplentes no exista mayoría en la integración del Ayuntamiento, se comunicará al Congreso del Estado, a efecto de que éste, a la brevedad declare la desaparición del Ayuntamiento.
 
 ### CAPÍTULO III. Entrega-recepción de la administración municipal
 
@@ -387,7 +413,9 @@ El documento a que se refiere el articulo anterior deberá contener, por lo meno
 
 I.- Los libros de actas de las sesiones del Ayuntamiento saliente y la información sobre el lugar donde se encuentran los libros de las administraciones municipales anteriores;
 
-II.- La documentación relativa al estado de origen y aplicación de fondos y demás estados financieros correspondientes al ejercicio fiscal anterior, así como las copias de las cuentas públicas trimestrales del año en que se verifique el cambio de Ayuntamiento que se hubieren remitido al H. Congreso del Estado, y un informe con números al 15 de septiembre del mismo año, en el que se asienten los ingresos obtenidos, los montos ejercidos y los saldos que tuvieren de todas y cada una de las partidas autorizadas en el Presupuesto de Egresos que se encuentre en vigor, levantándose al efecto acta circunstanciada por el Secretario del Ayuntamiento entrante, firmada por quienes intervinieron en el acto;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+II.- La documentación relativa al estado de origen y aplicación de fondos, los estados financieros así como copia de los informes de avance de gestión financiera correspondientes al ejercicio fiscal en curso. Además de un informe con corte al treinta de agosto, en el que se asienten los ingresos obtenidos, los montos ejercidos y los saldos que tuvieren de todas y cada una de las partidas autorizadas en el presupuesto de egresos levantándose al efecto acta circunstanciada por el Secretario del Ayuntamiento entrante, firmada por quienes intervinieron en el acto;
 
 III.- La documentación relativa al estado que guarda la cuenta pública del municipio, así como los resultantes de las observaciones, requerimientos o apercibimientos emitidos por el Congreso del Estado;
 
@@ -433,11 +461,15 @@ La representación política, dirección administrativa, gestión social y ejecu
 
 El Ayuntamiento funcionará en períodos de tres años, iniciando cada ejercicio el día 17 de septiembre del año de la elección respectiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 50.
 
-Los Ayuntamientos deberán resolver los asuntos de su competencia de manera colegiada y, al efecto, celebrarán las sesiones siguientes:
+Los Ayuntamientos deberán resolver los asuntos de su competencia de manera colegiada y al efecto, celebrarán las sesiones siguientes:
 
-I.- Ordinarias, las veces que en su caso indique su reglamento interior, pero no podrán ser menos de una sesión pública al mes;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+I.- Ordinarias, las veces que indique su reglamento interior, mismas que no podrán ser menos de dos sesiones públicas al mes;
 
 II.- Extraordinarias, cuando la importancia o urgencia del asunto que se trate, lo requiera; y
 
@@ -457,9 +489,11 @@ IV.- Solemnes, las sesiones en que se instale el Ayuntamiento, se rinda el infor
 
 V.- Asimismo, el Ayuntamiento podrá celebrar sesiones de Cabildo abierto para realizar audiencias públicas, foros de consulta, cursos de capacitación municipal, reuniones de instrucción cívica o actos políticos cuya importancia coadyuve al desarrollo social, económico y cultural y fomente la participación de los habitantes del municipio.
 
+> <small>(REFORMADO, P. O. 15 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 51.
 
-Las sesiones del Ayuntamiento serán válidas con la asistencia de la mitad más uno de sus miembros, siendo presididas por el Presidente Municipal o, en su ausencia, por el regidor nombrado al inicio de la sesión.
+Las sesiones del Ayuntamiento serán válidas con la asistencia de la mitad más uno de sus miembros, siendo presididas por el Presidente Municipal y en caso de ausencia, por el regidor nombrado mediante mayoría simple al inicio de la misma.
 
 ###### ARTICULO 52.
 
@@ -583,7 +617,9 @@ i) Intervenir en la formulación y aplicación de programas de transporte públi
 
 III.- En materia administrativa, económica y social:
 
-a) Crear las dependencias administrativas centralizadas y constituir entidades paramunicipales;
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
+
+a) Crear las dependencias administrativas centralizadas y constituir entidades paraestatales;
 
 b) Nombrar, a propuesta del Presidente Municipal, al Secretario, Tesorero y titulares de las dependencias y entidades de la administración pública municipal, prefiriendo en igualdad de circunstancias a los habitantes del municipio;
 
@@ -621,7 +657,9 @@ j) Acordar y efectuar programas de capacitación destinados a los servidores pú
 
 k) Vigilar e inspeccionar el funcionamiento de las dependencias municipales, dictando las medidas que se requieran para proveer a su buena administración;
 
-l) Aprobar los estados financieros que comprenderán la balanza de su comprobación, el balance general y el estado de resultados que contenga el ejercicio presupuestario de ingresos y egresos correspondientes al último año de su gestión, y entregarlos al concluir sus funciones al Ayuntamiento entrante, de conformidad con lo establecido en las bases para la entrega-recepción de las administraciones municipales; conocer y evaluar las necesidades y la capacidad de endeudamiento de la administración municipal, llevando un registro pormenorizado de la deuda pública contratada;
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
+
+l) Aprobar anualmente al cierre de cada ejercicio fiscal los estados financieros que comprenderán el estado de origen y aplicación, el balance general y el estado de resultados que contenga el ejercicio presupuestario de ingresos y egresos correspondientes. En el año de cambio del gobierno municipal, dichos documentos serán aprobados parcialmente al mes de agosto; el acta correspondiente formará parte del acta de entrega recepción que deberá entregarse al Ayuntamiento entrante, de conformidad con lo establecido en las bases para la entrega recepción de las administraciones municipales. Asimismo, conocer y evaluar las necesidades y la capacidad de endeudamiento de la administración municipal, llevando un registro pormenorizado de la deuda pública contratada;
 
 m) En los términos de ley, autorizar la creación, ampliación y transferencia de las partidas del Presupuesto de Egresos;
 
@@ -707,9 +745,13 @@ VIII.- Cuidar el correcto desempeño de las funciones encomendadas a la policía
 
 IX.- Celebrar a nombre del municipio, en ejercicio de las facultades que la ley le confiera o en ejecución de los acuerdos de los Ayuntamientos, los actos y contratos necesarios para el desempeño de los negocios administrativos y la eficaz prestación de los servicios públicos municipales, dando cuenta al Ayuntamiento, en su caso, del resultado de las gestiones;
 
-X.- Conceder licencias por causa justificada, con goce de sueldo, a los funcionarios y empleados hasta por un termino de 15 días; las que excedan de ese tiempo solo el Ayuntamiento podrá autorizarlas;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
 
-XI.- Solicitar licencia al Ayuntamiento para ausentarse del municipio hasta por quince días, debiendo formular aviso para ausentarse por un término mayor;
+X.- Conceder licencias por causa justificada, con goce de sueldo, a los servidores públicos hasta por un término de 15 días; las que excedan de ese tiempo solo el Ayuntamiento por mayoría simple, podrá autorizarlas;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+XI.- Solicitar licencias en los términos y con las condiciones establecidas en la presente ley;
 
 XII.- Promover la conciliación y buscar la concertación en la solución de conflictos vecinales y jurisdiccionales con base en la búsqueda de la armonía de la vida comunitaria;
 
@@ -759,7 +801,9 @@ IX.- Informar por escrito dentro de los primeros diez días del mes de diciembre
 
 Dicho informe se publicará en la Gaceta Municipal;
 
-X.- Ejercer el presupuesto de egresos por conducto de la dependencia correspondiente y, en tal virtud, autorizar y enviar las ordenes de pago a la Tesorería Municipal que sean conforme a dicho presupuesto; asimismo ejercer el gasto de recursos provenientes de convenios de coordinación que celebre con el estado y la federación;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+X.- Manejar los recursos financieros que integran la hacienda pública municipal y los recursos provenientes de convenios de coordinación que celebre con el estado y la federación por conducto de la Tesorería Municipal, verificando a través de la Dirección de la Contraloría Municipal que los egresos municipales se ajusten al presupuesto de egresos municipal y demás legislación aplicable;
 
 XI.- Vigilar la recaudación en todas las ramas de la hacienda pública municipal, cuidando que la inversión de los fondos se haga con estricto apego al presupuesto y a las leyes correspondientes;
 
@@ -805,7 +849,9 @@ V.- Juzgar los asuntos relativos a la propiedad o posesión de bienes muebles o 
 
 VI.- Utilizar su autoridad o influencia oficial para hacer que los votos en las elecciones recaigan en determinado candidato o partido político, o distraer recursos del erario municipal para el financiamiento de campañas electorales;
 
-VII.- Ausentarse del municipio por más de quince días sin licencia del Cabildo, ni por un termino menor sin formular el aviso correspondiente;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+VII.- Ausentarse del municipio sin cumplir las formalidades señaladas en la presente ley;
 
 VIII.- Utilizar a los empleados adscritos al Ayuntamiento o a los integrantes de los cuerpos de seguridad publica para fines particulares;
 
@@ -863,7 +909,9 @@ II.- Formar parte de las comisiones ordinarias y especiales, de carácter perman
 
 III.- Informar al Ayuntamiento sobre cualquier deficiencia que notare en los diferentes ramos de la administración municipal y proponer las medidas convenientes para enmendarlas;
 
-IV.- Suplir al Presidente Municipal en sus faltas temporales en el orden previsto en esta ley;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+IV.- Suplir al Presidente Municipal en los términos de la presente ley;
 
 V.- Sujetarse a los acuerdos que dicte el Ayuntamiento y vigilar que se cumplan con base a la ley; y
 
@@ -903,13 +951,17 @@ El Síndico tendrá los siguientes deberes:
 
 I.- Representar legalmente al Ayuntamiento en los litigios o controversias en que éste fuere parte, haciéndolo por sí y nunca por interpósita persona;
 
-II.- Legalizar con su firma, junto con la del Presidente Municipal y la del Secretario, los contratos y convenios que celebre y autorice el Ayuntamiento, responsabilizándose de que los documentos se apeguen a la ley y a las bases señaladas por el Ayuntamiento;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+II.- Legalizar con su firma salvo excusa fundada y motivada, junto con la del Presidente Municipal y la del Secretario, los contratos y convenios que celebre y autorice el Ayuntamiento, responsabilizándose de que los documentos se apeguen a la ley y a las bases señaladas por el Ayuntamiento; los documentos que carezcan de alguna de estas firmas serán nulos, por lo tanto no se les podrá dar ningún trámite legal ni financiero;
 
 III.- Asistir a las sesiones del Ayuntamiento y participar en las discusiones con voz y voto;
 
 IV.- Presidir las comisiones para las cuales sea previamente designado y asociarse a las demás comisiones cuando se trate de dictámenes o resoluciones cuyas causas y efectos correspondan a los intereses generales del municipio;
 
-V.- Supervisar que se formule y actualice el inventario general de los bienes muebles e inmuebles propiedad del municipio, haciendo que se inscriban en un libro especial que estará bajo su custodia, especificando sus valores, características de identificación, su uso y destino. Dicho inventario se verificará cada vez que lo juzgue conveniente el propio Síndico o el Presidente Municipal, o cuando menos en los últimos 20 días del mes de agosto de cada año;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+V.- Formular y actualizar el inventario general de los bienes muebles e inmuebles propiedad del municipio, haciendo que se inscriban en un libro especial que estará bajo su custodia, especificando sus valores, características de identificación, su uso y destino. Dicho inventario se verificará cada vez que lo juzgue conveniente el propio Síndico, el Presidente Municipal, cuando lo soliciten las dos terceras partes de los integrantes del cabildo o cuando menos en los últimos 20 días del mes de agosto de cada año;
 
 VI.- Regularizar y custodiar la propiedad de los bienes municipales;
 
@@ -987,7 +1039,9 @@ El Presidente Municipal, regidores y Síndico de los Ayuntamientos tienen el deb
 
 I.- Se integrarán por regla general, no limitativa, por tres miembros, quienes fungirán como Presidente, Secretario y Vocal, respectivamente. En ninguna circunstancia el número de sus integrantes recaerá en número par;
 
-II.- Podrán formar parte hasta de tres comisiones, con independencia del cargo que ocupen, en los casos en que los integrantes de los Ayuntamientos no sean suficientes;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+II.- Preferentemente, los miembros del Ayuntamiento formarán parte de hasta tres comisiones, con independencia del cargo que en ellas ocupen. De ser necesaria su participación en un mayor número de comisiones se procurará que sea de manera equilibrada entre todos los integrantes del Ayuntamiento a fin de garantizar el trabajo efectivo de las mismas;
 
 III.- La competencia de las comisiones se derivará de su propia denominación, y en todo caso, de las que se les otorguen en el Reglamento de Gobierno Interior del propio Ayuntamiento pero sus miembros carecerán de facultades ejecutivas, conservando las de investigación, vigilancia y control que se les encomienden;
 
@@ -1001,75 +1055,171 @@ Cuando, por algún motivo grave, faltare uno o más miembros de alguna comisión
 
 Si uno o más integrantes de alguna comisión tuvieren interés personal o estuvieren impedidos legalmente en asuntos de su competencia, se dará cuenta al Ayuntamiento para que éste proceda a su sustitución, sólo para ese efecto.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO UNICO DEL DECRETO QUE MODIFICA LA LEY, SE REFORMA LA ESTRUCTURA DEL PRESENTE TITULO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
+
 ## TÍTULO SEXTO
 
-### CAPÍTULO ÚNICO. Prevenciones para los casos de ausencia de los integrantes del Ayuntamiento
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE ABRIL DE 2009)</small>
+
+### CAPÍTULO ÚNICO. Prevenciones para los casos de ausencias derivadas de comisiones, licencias, faltas y suplencias de los integrantes del Ayuntamiento
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+#### SECCIÓN PRIMERA. De las Comisiones
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 83.
 
-Los cargos de Presidente Municipal, Regidores y Síndico de un Ayuntamiento, son obligatorios pero no gratuitos, y su remuneración se fijará en los presupuestos de egresos correspondientes. Estos cargos sólo podrán ser excusables o renunciables por causa justificada que calificará el propio Ayuntamiento, y serán sustituidos por su suplente o se procederá con sujeción a esta ley. Únicamente cuando la ausencia del Presidente o de algún miembro del Ayuntamiento exceda de 30 días, el Congreso del Estado conocerá y proveerá lo necesario para cubrir la vacante.
+Para los efectos de esta ley se entenderá por comisión, las actividades oficiales a desarrollarse fuera del territorio del municipio por parte de los miembros del Ayuntamiento para el cumplimiento de funciones propias de su encargo. Consecuentemente, cuando éstas tengan lugar no procede que se llame al suplente.
+
+Las comisiones al interior del Estado se sujetarán a lo dispuesto en la presente ley, salvo que el Ayuntamiento resuelva en otro sentido para tales efectos.
+
+De toda comisión deberá rendirse un informe de sus resultados.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 84.
 
-Los presidentes municipales podrán separarse de sus funciones hasta por treinta días, observándose las siguientes disposiciones:
+Los presidentes municipales podrán ausentarse del territorio del Estado debido a comisiones, observando las siguientes disposiciones:
 
-I.- Si la ausencia excede de 8 días, el Presidente Municipal lo comunicará al Ayuntamiento; en este lapso el Secretario del Ayuntamiento resolverá los asuntos de mero trámite y aquellos que no admitan demora, de acuerdo con las instrucciones que reciba del Presidente Municipal;
+I.- Si el tiempo requerido para la comisión no excede de cinco días naturales, el Presidente Municipal lo comunicará por escrito al Ayuntamiento; el aviso se dará por conducto del secretario del ayuntamiento previamente a su realización.
 
-II.- Si la ausencia es mayor de 8 días sin exceder de 15, el Presidente Municipal requerirá la aprobación de la mitad más uno de los miembros del Ayuntamiento, debiendo designar al regidor que le suplirá como encargado del despacho con las atribuciones a que se refiere la fracción anterior; y
+II.- Si el tiempo requerido para la comisión es mayor de cinco días naturales sin exceder de diez, se requerirá la aprobación de la mayoría absoluta; y
 
-III.- Cuando la ausencia sea mayor de 15 días, sin exceder de 30, el Presidente Municipal requerirá de la autorización del Ayuntamiento aprobada por mayoría calificada, debiendo designar al Regidor que se encargue del despacho, de conformidad con las instrucciones que éste le indique.
+III.- Cuando el tiempo requerido para la comisión sea mayor de diez días naturales, se requerirá de la autorización del Ayuntamiento aprobada por mayoría calificada.
+
+En todos los supuestos a que se refiere este artículo, el Secretario del Ayuntamiento resolverá los asuntos de mero trámite y aquellos que no admitan demora, de acuerdo con las instrucciones que reciba del Presidente Municipal.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 85.
 
-Cuando el Presidente Municipal se ausente del municipio por un tiempo mayor de 30 días, cualesquiera que sean las causas que la motiven, el Congreso del Estado o la Diputación Permanente concederán la autorización de la licencia correspondiente, declarando, en su caso, que asuma las funciones el suplente, y si éste faltare, designará de entre los integrantes del Ayuntamiento un Presidente Municipal interino.
+Los demás miembros del Ayuntamiento podrán ausentarse del territorio del Estado en atención a comisiones, de conformidad a lo siguiente:
+
+I.- Si el tiempo requerido para la comisión no excede los cinco días, deberán ser autorizada (sic) directamente por el Presidente Municipal;
+
+II.- Cuando el tiempo requerido para la comisión exceda los cinco días, éstas deberán ser autorizadas por el Ayuntamiento.
+
+En todo caso, para el otorgamiento de comisiones deberá cuidarse no afectar el quórum requerido para que sesione el Ayuntamiento.
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+#### SECCIÓN SEGUNDA. De las Licencias
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 86.
 
-Cuando la ausencia del Presidente Municipal fuere por tiempo indefinido el Ayuntamiento lo comunicará al Congreso del Estado para que éste declare que asume las funciones el suplente; si éste faltare, se designará de entre los integrantes del Ayuntamiento un Presidente Municipal sustituto.
+Para efectos de esta ley se entenderá por licencia, la autorización a cualquier miembro del Ayuntamiento para separarse temporalmente del ejercicio de sus funciones.
+
+La solicitud de licencia deberá presentarse ante la Secretaría del Ayuntamiento o en su caso ante la Secretaría General del Congreso.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 87.
 
-El Congreso del Estado procederá a la designación de un Presidente Municipal interino o sustituto, además del supuesto del artículo anterior, en los siguientes casos:
+Para el otorgamiento de licencias de los miembros de los Ayuntamientos se estará a las siguientes disposiciones:
 
-I.- Por falta absoluta del Presidente Municipal electo;
+I.- Cuando la licencia solicitada no excedan (sic) de veinte días naturales, se requerirá para su autorización la aprobación del Ayuntamiento por mayoría simple.
 
-II.- Por declaración de procedencia, en cuyo caso el Presidente Municipal sustituto desempeñará la función durante el transcurso del juicio hasta que se dicte sentencia firme. Si ésta fuere condenatoria, el Presidente Municipal sustituto concluirá el periodo respectivo;
+II.- Cuando la licencia solicitada sea mayor a veinte días naturales pero menor de cuarenta, se requerirá para su autorización la aprobación del Ayuntamiento por mayoría absoluta.
 
-III.- Por revocación de mandato; y
+III.- Cuando la licencia solicitada exceda el término previsto en la fracción anterior, requerirá para su autorización la aprobación por mayoría simple del Congreso del Estado o de la Diputación Permanente en su caso.
 
-IV.- Por estado de interdicción declarado en sentencia judicial.
+El órgano correspondiente deberá dar respuesta a la solicitud de licencia dentro de un término que no exceda de cinco días naturales contados a partir del siguiente a la presentación de la misma; en caso contrario se entenderá que la concede.
+
+No se otorgarán licencias por más de un año; y ninguna se concederá con goce de sueldo.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 88.
 
-Las reglas aplicables a la sustitución de los demás miembros del Ayuntamiento se ajustarán a los supuestos que a continuación se mencionan:
+Cuando sea atribución del Ayuntamiento resolver sobre las solicitudes de licencias y por causas injustificadas se negaré a hacerlo, el Congreso del Estado o la Diputación Permanente en su caso, a petición del interesado conocerá, y previa valoración, resolverá lo conducente.
 
-I.- Se considera falta temporal aquella que no exceda a los ocho días naturales, requiriéndose dar aviso al Ayuntamiento por conducto del Presidente Municipal, sin necesidad de llamarse al suplente;
-
-II.- Cuando la falta exceda de los ocho días, pero no sea mayor de quince días naturales, deberá ser autorizada por la mitad más uno de los miembros del Ayuntamiento, debiendo ser llamado el suplente respectivo para que asuma el cargo en tanto dure la falta, sólo si dentro de dicho lapso sesionare el Ayuntamiento; y
-
-III.- Si la falta fuere mayor a los quince días, sin exceder de treinta días naturales, se concederá licencia con la aprobación de la mayoría calificada del Ayuntamiento y se llamará al suplente para que asuma el cargo mientras dure la falta, sólo si dentro de dicho lapso sesionare el Ayuntamiento.
-
-No se autorizarán licencias por más de un año; y, salvo las que obedezcan a ausencias justificadas, ninguna se autorizará con goce de sueldo.
-
-Se considerará falta absoluta cuando la ausencia exceda del término de treinta días naturales sin causa justificada, la cual tendrá el carácter de abandono definitivo del cargo, procediendo llamar al suplente en la sesión siguiente de conformidad con la ley. Tratándose de los Regidores asignados por el principio de representación proporcional sus faltas, serán cubiertas por la persona que siga en la lista acreditada por el partido político ante la autoridad electoral del estado.
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 89.
 
-Las inasistencias de los miembros del Ayuntamiento a las sesiones o al cumplimiento de sus funciones serán justificadas en los siguientes supuestos:
+En todos los supuestos que prevé esta sección deberá llamarse al suplente respectivo o al que siga en la lista.
 
-I.- Estar enfermo o impedido físicamente, acreditándose dicha circunstancia mediante comprobante médico expedido por una institución autorizada;
+En caso de que algún miembro del Ayuntamiento no cuente con suplente o éste no asuma las funciones, se procederá conforme a lo establecido en esta ley.
 
-II.- Cumpla comisión oficial conferida por el Presidente Municipal o el Ayuntamiento; y
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2009)</small>
 
-III.- Cuando exista motivo o circunstancia de gravedad calificada por el Ayuntamiento, aún cuando no se pida su justificación.
+#### SECCIÓN TERCERA. De las faltas absolutas
 
-En cualquier caso, los munícipes harán saber al Ayuntamiento, por conducto de su Secretario, las causas justificadas de su inasistencia.
-
-Los miembros del Ayuntamiento que no asistan a las sesiones o que incumplan sus funciones sin causa justificada dejarán de percibir la parte correspondiente a sus emolumentos.
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 90.
 
-Son causas para renunciar a los cargos de Presidente Municipal, Síndico y Regidores: ser nombrado para desempeñar otro cargo o empleo público del estado o de la federación; cuando resulte postulado candidato a algún cargo de elección popular del estado o de la federación, dentro de los plazos que señale la ley; y estar físicamente impedido o padecer enfermedad que no permita el cumplimiento directo y personal del cargo.
+Para efectos de esta ley se considerarán faltas absolutas, aquellas que encuadren en los supuestos normativos siguientes:
+
+I.- El fallecimiento del integrante del Ayuntamiento;
+
+II.- Cuando no asista sin causa debidamente justificada a cuatro sesiones consecutivas o seis discontinuas dentro de un periodo de seis meses contados a partir de la primer inasistencia; y
+
+III.- La renuncia debidamente valorada y aprobada por el Ayuntamiento respectivo.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2009)</small>
+
+ARTICULO 90 A.- Son causas de renuncia a los cargos de Presidente Municipal, Síndico y Regidores:
+
+I.- Desempeñar otro cargo o empleo público en los términos de esta ley;
+
+II.- El resultar electo a algún cargo de elección popular del Estado o de la Federación;
+
+III.- Estar físicamente impedido o padecer enfermedad que no permita el cumplimiento directo y personal del cargo; y;
+
+IV.- No residir en el municipio de que se trate.
+
+> <small>(ADICIONADO, P.O.15 DE ABRIL DE 2009)</small>
+
+ARTICULO 90 B.- Las inasistencias de los miembros del Ayuntamiento a las sesiones o al cumplimiento de sus funciones serán justificadas en los siguientes supuestos:
+
+I.- Estar enfermo o impedido físicamente por un periodo no mayor a sesenta días naturales, acreditándose dicha circunstancia mediante certificado médico expedido por una institución autorizada o profesionista debidamente registrado;
+
+Si las causas anteriores exceden el tiempo señalado, el Ayuntamiento deberá llamar al suplente o al que siga en la lista para que asuma funciones por el tiempo necesario.
+
+II.- Estar en el cumplimiento de una comisión oficial conferida por el Presidente Municipal o el Ayuntamiento; y
+
+III.- Cuando exista motivo o circunstancia de gravedad calificada por el Ayuntamiento, aún cuando no se pida su justificación.
+
+En cualquier caso harán saber por escrito al Ayuntamiento, por conducto del Secretario, las causas justificadas de su inasistencia.
+
+Los miembros del Ayuntamiento que no asistan a las sesiones o que incumplan sus funciones sin causa justificada dejarán de percibir la parte correspondiente a sus emolumentos.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 15 DE ABRIL DE 2009)</small>
+
+#### SECCIÓN CUARTA. De las reglas aplicables a la suplencia de los integrantes del Ayuntamientos (sic)
+
+> <small>(ADICIONADO, P.O.15 DE ABRIL DE 2009)</small>
+
+ARTICULO 90 C.- Sólo habrá lugar a la celebración de elecciones extraordinarias en los términos de la Ley Electoral del Estado, cuando la falta absoluta de alguno o algunos de los miembros del Ayuntamiento ocurra dentro de los primeros dieciocho meses del periodo constitucional, y la vacante no pueda ser cubierta por el suplente respectivo.
+
+Tratándose de falta absoluta del Presidente Municipal y del Síndico y de sus respectivos suplentes, mientras se verifica la elección, el Ayuntamiento por mayoría absoluta designará de entre sus integrantes a quien fungirá como Presidente o Síndico Interino.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2009)</small>
+
+ARTICULO 90 D.- Las licencias y las faltas absolutas del Presidente Municipal y del Síndico, deberán comunicarse al Congreso del Estado sólo para el efecto de su conocimiento.
+
+En todo caso, si se trata de licencias se llamará al suplente, y si éste no asumiera el encargo o estuviera impedido legalmente para ello, el Ayuntamiento por mayoría absoluta de votos designará al integrante que cubrirá la licencia, debiendo a su vez, entrar en funciones el suplente de éste.
+
+En las faltas absolutas se estará a las siguientes prevenciones:
+
+I.- Se llamará al suplente y si éste no asumiera el encargo o estuviera impedido legalmente para ello, se convocará a elecciones extraordinarias, si fuera procedente.
+
+II.- Si no fuera procedente realizar elecciones extraordinarias, el Ayuntamiento por mayoría simple de votos propondrá al Congreso o a la Diputación Permanente para su designación, al Regidor que fungirá como Presidente o Síndico Sustituto por el tiempo que restare.
+
+> <small>(ADICIONADO, P.O.15 DE ABRIL DE 2009)</small>
+
+ARTICULO 90 E.- En el caso de faltas absolutas de algún Regidor, se llamará a su suplente o al que siga en la lista, y si por cualquier causa el suplente no asumiera el cargo, ni fuera procedente convocar a elecciones, se declarará la vacante.
+
+> <small>(ADICIONADO, P.O.15 DE ABRIL DE 2009)</small>
+
+ARTICULO 90 F.- En todos los casos el suplente, o el designado, rendirá la protesta de ley ante la autoridad que otorgó la licencia o conoció de la falta absoluta, a menos que la situación política o social no fueran las propicias o el Ayuntamiento se negara a hacerlo, la rendirá ante el Congreso del Estado o en su caso, ante la Diputación Permanente.
 
 ## TÍTULO SÉPTIMO
 
@@ -1297,9 +1447,11 @@ Dos o más municipios vecinos podrán convenir en la designación de un cronista
 
 ### CAPÍTULO I. De la integración de la administración municipal
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O.15 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 108.
 
-El Ayuntamiento podrá crear dependencias que estén subordinadas administrativamente al Presidente Municipal, así como fusionar, modificar o suprimir las ya existentes atendiendo sus necesidades y capacidad financiera. Asimismo, podrá crear órganos desconcentrados, dependientes jerárquicamente de las dependencias, con las facultades y obligaciones específicas que fije el reglamento y acuerdo respectivos. También podrá crear entidades paramunicipales cuando el desarrollo económico y social lo haga necesario.
+La administración pública municipal será centralizada y paraestatal. El Ayuntamiento podrá crear dependencias que estén subordinadas administrativamente al Presidente Municipal, así como fusionar, modificar o suprimir las ya existentes atendiendo a sus necesidades y capacidad financiera. Asimismo, tendrá la facultad para crear órganos desconcentrados, subordinados jerárquicamente a las dependencias, con las facultades y obligaciones específicas que fije el reglamento y/o acuerdos respectivos.
 
 La administración municipal comprenderá esencialmente, de manera declarativa y no limitativa, las siguientes dependencias:
 
@@ -1321,13 +1473,27 @@ La administración municipal comprenderá esencialmente, de manera declarativa y
 
 9.- Dirección de Asuntos Indígenas, en los municipios que corresponda;
 
-10.- Dirección de Protección Civil; y
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
 
-11.- Dirección de Registro Civil.
+10.- Dirección de Protección Civil;
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
+
+11.- Dirección de Registro Civil;
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2009)</small>
+
+12.- Dirección de Asuntos Jurídicos.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2009)</small>
+
+La administración paraestatal de los municipios se integrará por los organismos públicos descentralizados, los fideicomisos y empresas de participación municipal que, a fin de dar cumplimiento a las funciones y servicios municipales de carácter prioritario y estratégico, determinen los propios Ayuntamientos mediante disposiciones de carácter general. A estos entes se les denominará genéricamente como entidades municipales.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 109.
 
-Las dependencias de la administración pública municipal tendrán la competencia que les otorguen las leyes y la que derive de los reglamentos que al efecto expida el Ayuntamiento.
+Las dependencias y entidades de la administración pública municipal tendrán la competencia que les otorguen las leyes, reglamentos y/o demás disposiciones de carácter general que al efecto expida el Ayuntamiento.
 
 ###### ARTICULO 110.
 
@@ -1339,9 +1505,15 @@ La solicitud de remoción o sustitución de los titulares de las dependencias, d
 
 La sustitución de los funcionarios, en las faltas que no excedan de 30 días, serán cubiertas por el funcionario que designe el Presidente Municipal, siguiendo el procedimiento establecido en el reglamento respectivo.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ABRIL DE 2009)</small>
+
+Las formalidades para el nombramiento de los titulares y el demás personal de las entidades municipales se sujetarán a lo que al efecto dispongan los reglamentos municipales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 111.
 
-Para ser titular de las dependencias administrativas del gobierno municipal, así como de sus departamentos, oficinas y unidades, deberán cumplir además de los requisitos previstos en la Constitución Política del Estado, los siguientes:
+Para ser titular de las dependencias y entidades municipales, así como de sus departamentos, oficinas y unidades, deberán cumplir además de los requisitos previstos en la Constitución Política del Estado, los siguientes:
 
 a) Ser mexicano por nacimiento y vecino del estado en pleno ejercicio de sus derechos políticos y civiles;
 
@@ -1349,11 +1521,23 @@ b) Acreditar experiencia y conocimiento de los asuntos municipales y su manejo;
 
 c) Contar con el perfil profesional o técnico adecuado para el encargo;
 
-d) No haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión;
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
 
-e) Tener un modo de vida honesto; y
+d) No haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión en los últimos cinco años;
 
-f) Caucionar el manejo de fondos, cuando corresponda al tipo de función a desempeñar.
+e) Tener un modo de vida honesto; y (sic)
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
+
+f) Caucionar el manejo de fondos, cuando corresponda al tipo de función a desempeñar; y
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2009)</small>
+
+g) No estar inhabilitado para ocupar cargo alguno en la administración pública federal, estatal ni municipal. Dicha condición se acreditará con las constancias correspondientes que emitan las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2009)</small>
+
+Del cumplimiento de estos requisitos se deberá dar cuenta en el expediente personal de cada uno de los servidores públicos referidos que deberá obrar en la Dirección de la Contraloría Municipal.
 
 ### CAPÍTULO II. De la Secretaría del Ayuntamiento
 
@@ -1369,9 +1553,11 @@ I.- En los municipios de hasta 50 mil habitantes, haber concluido la educación 
 
 II.- No estar inhabilitado para ocupar cargo alguno en la administración pública.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 114.
 
-Son facultades y obligaciones de la Secretaría del Ayuntamiento, las siguientes:
+Son facultades y obligaciones de la Secretaría del Ayuntamiento:
 
 I.- Citar, cuando se lo ordene el Presidente Municipal, o la mayoría calificada del Ayuntamiento, a todos y cada uno de los integrantes del consejo para la celebración de las sesiones de Cabildo. Dicha citación deberá ser personal y contener el objeto, lugar, día y hora de la sesión;
 
@@ -1399,7 +1585,9 @@ XII.- Recibir, controlar y tramitar la correspondencia oficial del Ayuntamiento,
 
 XIII.- Atender todo lo relativo a la remisión de acuerdos del Ayuntamiento que requieran la aprobación del Congreso o del Ejecutivo del estado;
 
-XIV.- Coadyuvar en la formulación del inventario general de bienes muebles e inmuebles propiedad del municipio, de los destinados a un servicio público y los de uso común, expresando en el mismo todas las características de identificación y registrarlos en el libro especial que para ese caso obre bajo custodia del Síndico municipal;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+XIV.- Coadyuvar con el Síndico Municipal en la formulación del inventario general de bienes muebles e inmuebles propiedad del municipio, de los destinados a un servicio público y los de uso común, expresando en el mismo todas las características de identificación y registrarlos en el libro especial que para ese caso obre bajo custodia del Síndico Municipal;
 
 XV.- Entregar al término de su gestión, los libros y documentos que integran el archivo municipal mediante acta circunstanciada al nuevo Ayuntamiento, conforme a los procedimientos establecidos; y
 
@@ -1431,13 +1619,19 @@ I.- Cobrar los impuestos, derechos, productos, aprovechamientos y contribuciones
 
 II.- Determinar, liquidar, recaudar, fiscalizar y administrar las contribuciones en los términos de los ordenamientos jurídicos aplicables y, en su caso, ejercitar el procedimiento administrativo de ejecución en los términos legales;
 
-III.- Llevar los registros contables, financieros y administrativos de los ingresos y egresos del Ayuntamiento;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
 
-IV.- Proporcionar oportunamente todos los datos necesarios para la formulación del presupuesto de egresos municipales;
+III.- Llevar los registros contables, financieros y administrativos de los ingresos y egresos del Ayuntamiento; así como de los bienes y derechos, del patrimonio y de las deudas y compromisos del Ayuntamiento;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+IV.- Presentar oportunamente al Presidente Municipal el proyecto de presupuesto de egresos municipales;
 
 V.- Presentar mensualmente informes de la situación financiera de la Tesorería Municipal;
 
-VI.- Proponer al Ayuntamiento la cancelación de cuentas incobrables;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+VI.- Proponer al Ayuntamiento cuando no exista impedimento legal, la cancelación de cuentas incobrables una vez que se hayan realizado las gestiones de cobro y que indubitablemente permitan determinar la imposibilidad de hacer efectivo el cobro de los créditos a favor del Ayuntamiento. Dicha circunstancia deberá documentarse para de (sic) dejar constancia de ello;
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2004)</small>
 
@@ -1445,21 +1639,25 @@ VII.- Elaborar y remitir al Presidente Municipal para los efectos legales corres
 
 a) El análisis de los recursos presupuestales que presenten las autoridades y organismos auxiliares del Ayuntamiento;
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
 
-b) La cuenta pormenorizada del manejo de la hacienda municipal así como los avances de gestión financiera;
+b) La cuenta pública y los informes de avance de gestión financiera del manejo de la hacienda municipal, en forma pormenorizada;
 
-c) El programa financiero del registro, manejo y administración de la deuda publica municipal; y
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
+
+c) El programa financiero del registro, manejo, administración y aplicación de la deuda pública municipal; y
 
 d) La tabla de valores unitarios de suelo y construcciones, en los términos de la ley.
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
 
-VIII.- Coadyuvar en la remisión, de las cuentas, informes contables y financieros al Congreso del Estado en los términos de ley;
+VIII.- Coadyuvar con el Presidente Municipal en la remisión, de la cuenta, informes contables y financieros al Congreso del Estado en los términos de ley;
 
 IX.- Intervenir para dar solución oportuna a las observaciones que haga el Organo de Fiscalización Superior respecto de los informes de la cuenta pública municipal;
 
-X.- Cuidar que las multas impuestas por las autoridades municipales ingresen a la Tesorería Municipal;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+X.- Instrumentar mecanismos a fin de que las multas impuestas por las autoridades municipales y las que le correspondan en participación por parte del Estado y la federación, ingresen a la Tesorería Municipal y que de ello se expidan los recibos oficiales correspondientes;
 
 XI.- Expedir copias certificadas de los documentos a su cargo cuando así lo acuerde el Ayuntamiento;
 
@@ -1469,23 +1667,37 @@ XIII.- Instrumentar las acciones y políticas necesarias para mantener actualiza
 
 XIV.- Ejercer la facultad económico-coactiva conforme a las disposiciones aplicables, por medio de la tesorería municipal;
 
-XV.- Tener al día los registros necesarios para la comprobación de los ingresos y egresos municipales;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+XV.- Tener al día los registros y la documentación relativa a la comprobación y justificación de todos los ingresos y egresos municipales, así como los del patrimonio municipal;
 
 XVI.- Elaborar y proponer los convenios de coordinación fiscal así como vigilar el cumplimiento de los ya existentes;
 
 XVII.- Activar de manera eficaz el cobro de las contribuciones, cuidando que los rezagos no aumenten;
 
-XVIII.- Realizar los pagos apegándose al presupuesto de egresos aprobado, citando partidas y ramo al que pertenece;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+XVIII.- Realizar los pagos ajustándose al presupuesto de egresos aprobado, citando el programas, la partidas y el ramo al que pertenece; responsabilizándose de que a ningún pago se le dé trámite si previamente no se cuenta con disponibilidad presupuestal y la documentación comprobatoria y justificatoria correspondiente. El sistema de control presupuestal deberá contener al menos el clasificador por objeto de gasto, el cual deberá ser aprobado por el Ayuntamiento junto con su presupuesto de egresos;
 
 XIX.- Realizar, junto con el Síndico, las gestiones oportunas de los asuntos que correspondan a la hacienda municipal;
 
 XX.- Vigilar y controlar las oficinas recaudadoras, estableciendo un sistema público de información y orientación fiscal del municipio;
 
-XXI.- Formular y presentar el corte de caja y el balance general autorizado, al término de la gestión, para ser entregados al Tesorero Municipal que haya sido designado, acompañando al inventario el archivo, libros y relación de pasivos y deudores, formándose para tal efecto cuatro tantos, mismos que serán entregados al Ayuntamiento, al Congreso del Estado, al archivo de la Tesorería y al Tesorero saliente, de manera respectiva;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
 
-XXII.- Elaborar el anteproyecto de Ley de Ingresos y el Presupuesto de Egresos anuales; y
+XXI.- Formular y presentar los estados financieros y complementarios y sus respetivos auxiliares, al término del periodo de gobierno municipal, para ser entregados al Presidente y Síndico, acompañando al inventario el archivo, libros y relación de pasivos y deudores, formándose para tal efecto cuatro tantos, mismos que serán entregados al Ayuntamiento, al Congreso del Estado, al archivo de la Tesorería y al Tesorero saliente, de manera respectiva;
 
-XXIII.- Las demás que le señalen las leyes y reglamentos municipales.
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+XXII.- Elaborar anualmente los anteproyecto (sic) de Ley de Ingresos y Presupuesto de Egresos; así como su clasificador por objeto de gasto;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+XXIII.- Informar mensualmente al Síndico y al Secretario de las afectaciones que se registren en el patrimonio municipal, así como de las adquisiciones e inversiones que se realicen con fondos municipales. El incumplimiento a los (sic) anterior será causa de responsabilidad grave y será sancionada en los términos que establece la Ley de Responsabilidades de los Servidores Públicos del Estado; y
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+XXIV.- Las demás que le señalen las leyes y reglamentos municipales.
 
 ### CAPÍTULO IV. De la Dirección de Contraloría y Desarrollo Administrativo
 
@@ -1497,11 +1709,15 @@ La Dirección de Contraloría y Desarrollo Administrativo es la dependencia del 
 
 Son atribuciones del Contralor Municipal:
 
-I.- Proponer y aplicar las normas y criterios en materia de organización, control y evaluación, que deban observar las dependencias centralizadas y paramunicipales;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+I.- Proponer y verificar la aplicación de las normas y criterios en materia de organización, control y evaluación, que deban observar las dependencias centralizadas y paraestatales;
 
 II.- Verificar el cumplimiento del Plan de Desarrollo Municipal y sus programas;
 
-III.- Realizar auditorías periódicamente a las dependencias y entidades de la administración municipal;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+III.- Realizar al menos una auditoría por año a cada una de las dependencias y entidades de la administración municipal; de sus resultados, cada año en el mes de enero se deberán remitir la documentación correspondiente al Órgano de Fiscalización Superior;
 
 IV.- Vigilar la correcta aplicación del gasto público;
 
@@ -1519,7 +1735,9 @@ X.- Establecer y operar un sistema de quejas, denuncias y sugerencias;
 
 XI.- Participar en la entrega-recepción de las dependencias y entidades de la administración municipal;
 
-XII.- Verificar los estados financieros de la Tesorería municipal, así como la remisión de la cuenta pública municipal al Órgano de Fiscalización Superior del Estado;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+XII.- Verificar los estados financieros de la Tesorería municipal, así como la remisión de la cuenta pública y los informes de avance de gestión financiera al Órgano de Fiscalización Superior del Estado;
 
 XIII.- Vigilar el comportamiento de la situación patrimonial de los servidores públicos municipales, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit;
 
@@ -1529,7 +1747,9 @@ XV.- Fincar las responsabilidades administrativas de los servidores públicos, c
 
 XVI.- Vigilar el desarrollo administrativo de las dependencias y entidades de la administración municipal, a fin de aplicar con eficiencia los recursos humanos y patrimoniales;
 
-XVII.- Proponer al personal que ha de ser contratado para auxiliarlo en el desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+XVII.- Requerir a las dependencias y entidades municipales la documentación e información necesaria para el cumplimiento de sus atribuciones;
 
 XVIII.- Promover la capacitación y actualización de los servidores públicos municipales para el mejor desempeño de sus funciones administrativas; y
 
@@ -2041,9 +2261,11 @@ Los capitales propios excedentes de los municipios, podrán ser empleados en los
 
 Las leyes no establecerán exenciones o subsidios a favor de persona o institución alguna respecto de dichas contribuciones. Sólo estarán exentos los bienes de dominio público de la federación, de los estados o los municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 164.
 
-La vigilancia de la hacienda pública municipal corresponderá, en primer término, al Ayuntamiento, y se hará por conducto del Presidente Municipal, del Síndico y del Tesorero; el Órgano de Fiscalización Superior del Congreso tendrá la intervención que le señalan las leyes.
+La vigilancia de la hacienda pública municipal corresponderá, en primer término, al Ayuntamiento a través de las comisiones competentes, al Presidente, al Síndico y al Contralor Municipal. El Órgano de Fiscalización Superior del Estado tendrá la intervención que le señalan las leyes.
 
 Se concede acción popular para denunciar ante el Congreso del Estado la indebida disposición de fondos de la hacienda pública o de los hechos ilícitos que cometieren los integrantes de los Ayuntamientos en el ejercicio de sus funciones.
 
@@ -2693,7 +2915,9 @@ Las disposiciones administrativas de observancia general serán aquellas que ten
 
 Las circulares y disposiciones administrativas de observancia general que expidan los Ayuntamientos, estarán formal y materialmente subordinadas a la presente ley y a los reglamentos.
 
-### CAPÍTULO ÚNICO. De las responsabilidades de los servidores públicos municipales
+### CAPÍTULO I. De las responsabilidades de los servidores públicos municipales en general
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 225.
 
@@ -2757,7 +2981,9 @@ Los reglamentos, circulares, disposiciones administrativas y acuerdos expedidos 
 
 TÍTULO DECIMOSEPTIMO
 
-### CAPÍTULO I. De la desaparición de Ayuntamientos
+### CAPÍTULO II. De los procedimientos para la desaparición, suspensión y revocación del mandato
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 235.
 
@@ -2767,211 +2993,301 @@ Los procedimientos y actos administrativos que dicten o ejecuten las autoridades
 
 Contra los actos y resoluciones administrativas que dicten o ejecuten las autoridades municipales, en aplicación del presente ordenamiento y los reglamentos que de él emanen, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio ante el Tribunal de Justicia Administrativa, conforme a las disposiciones de la Ley de Justicia y Procedimientos Administrativos para el Estado de Nayarit.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO UNICO DEL DECRETO QUE MODIFICA LA LEY, EL CONTENIDO DE LOS TITULOS DECIMO NOVENO Y VIGESIMO SE COMPACTAN EN EL PRESENTE TITULO, SUPRIMIENDOSE LOS ANTERIORES VIGESIMO Y VIGESIMOPRIMERO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
+
 TÍTULO DECIMOCTAVO
 
-### CAPÍTULO II. De la suspensión de Ayuntamientos, suspensión o revocación del mandato de alguno o algunos de sus miembros
+> <small>(REFORMADO [N. DE E. ANTES CAPITULO UNICO], P.O. 15 DE ABRIL DE 2009)</small>
+
+### CAPÍTULO III. De los Concejos Municipales
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
+
+#### SECCIÓN ÚNICA. Disposiciones Generales
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 237.
 
-Son servidores públicos municipales, los integrantes del Ayuntamiento, los titulares de las diferentes dependencias de la administración municipal y todos aquellos que desempeñen un empleo, cargo o comisión en la misma. Los servidores públicos municipales son responsables de los delitos y faltas oficiales que cometan durante su encargo.
+Son servidores públicos municipales, todos los integrantes del Ayuntamiento y de la administración pública municipal, sea ésta centralizada o paraestatal y todos aquellos que desempeñen un empleo, cargo o comisión en la misma, quienes serán responsables de los delitos y faltas que cometan con motivo del ejercicio de su encargo, las cuales serán exigibles de conformidad con la legislación aplicable.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 238.
 
-Para proceder penalmente contra los servidores públicos municipales por delitos del fuero común cometidos durante su encargo se observará lo que dispone la Constitución del Estado.
+La declaración de situación patrimonial deberá presentarse en los plazos y términos que se establecen en la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 239.
 
-Tienen obligación de presentar declaración de situación patrimonial, bajo protesta de decir verdad:
-
-I.- Los integrantes del Ayuntamiento;
-
-II.- Los titulares de las dependencias municipales; y
-
-III.- Los directores, jefes y subjefes de departamento, auditores e inspectores.
+El Contralor Municipal será el responsable del registro, control y custodia de las declaraciones patrimoniales de los servidores públicos obligados.
 
 ###### ARTICULO 240.
 
-La declaración de situación patrimonial deberá presentarse en los plazos y términos que al efecto señala la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit.
+(DEROGADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)
 
 ###### ARTICULO 241.
 
-En caso de que los servidores públicos municipales obligados no presentaren su declaración patrimonial en los plazos de ley, el Contralor Municipal los amonestará por escrito, y los comisionará para que la presenten dentro de un plazo de veinte días naturales, apercibidos que de no hacerlo se les impondrá una multa de hasta el cincuenta por ciento de sus percepciones como servidores públicos. La falta de requerimiento por parte del Contralor no exime al servidor público del cumplimiento de su obligación.
+(DEROGADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)
 
 ###### ARTICULO 242.
 
-El Contralor Municipal será el responsable del registro, control y custodia de las declaraciones patrimoniales, debiendo remitir una copia dentro de los veinte días naturales posteriores a su recepción al Congreso del Estado, por conducto del Órgano de Fiscalización Superior del Estado, para su resguardo; si el Contralor no enviara las respectivas declaraciones por causa imputable a él, se le impondrá una multa que podrá ser de cincuenta a cien días de salario mínimo y hasta la destitución de su cargo.
+(DEROGADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)
 
-Si no se presenta la declaración final, se impondrá al omiso una sanción pecuniaria, hasta por cien días del salario mínimo vigente en la zona económica a que corresponda el municipios (sic) y se dará vista al Ministerio Público para que practique las investigaciones necesarias en cuanto a la situación patrimonial del omiso y proceda conforme a derecho, independientemente de las demás responsabilidades a que diere lugar.
+> <small>(ADICIONADO CON LAS SECCIONES QUE LO INTEGRAN, P.O. 15 DE ABRIL DE 2009)</small>
 
-### CAPÍTULO III. Del procedimiento de suspensión y revocación
+### CAPÍTULO ÚNICO. Del procedimiento para la resolución de conflictos entre municipios, y entre los municipios y el Poder Ejecutivo
+
+#### SECCIÓN PRIMERA. De la desaparición de Ayuntamientos
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 243.
 
-Las responsabilidades oficiales en que incurran los servidores públicos municipales, serán exigibles durante el periodo de su ejercicio y dentro de un año después de concluido.
+La presente sección tiene por objeto establecer las causas graves por las que es procedente que el Congreso del Estado declare la desaparición de un Ayuntamiento, así como el procedimiento para ello.
 
-TÍTULO DECIMONOVENO
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 244.
 
-El presente título tiene por objeto regular el procedimiento para que el Congreso del Estado pueda declarar la desaparición o suspensión de Ayuntamientos; la suspensión o revocación del mandato de alguno o algunos de los miembros del Ayuntamiento en el estado de Nayarit.
+Son causas graves para declarar la desaparición de Ayuntamientos:
 
-En todo caso, en tramitación de estos procedimientos, deberá garantizarse a los miembros de los Ayuntamientos la oportunidad de rendir pruebas y hacer los alegatos que a su juicio convengan.
+I.- Cuando se actualice el supuesto previsto en el último párrafo del artículo 43 de esta ley;
+
+II.- Cuando exista falta absoluta de la mayoría de sus integrantes, incluyendo a los suplentes;
+
+III.- Cuando se decrete procedente la fusión de dos o más municipios; y
+
+IV.- Cuando no sea posible el ejercicio de sus funciones conforme al orden constitucional general o local.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 245.
 
-Es causa de desaparición de Ayuntamientos la falta absoluta de la mayoría de sus integrantes, o cuando se haga imposible el gobierno del municipio.
+El escrito donde se informe la actualización de alguna de las causas señaladas en el artículo anterior, podrá hacerlo cualquiera de los sujetos legitimados para solicitar la revocación o suspensión de mandato, a que se refiere el artículo 254 de la presente ley.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 246.
 
-Son causas de suspensión de Ayuntamientos:
+Una vez que el Congreso del Estado tenga conocimiento del escrito a que se refiere el artículo anterior, deberá encomendar a la Comisión o Comisiones competentes que investiguen los hechos denunciados y se alleguen de todos los elementos de prueba necesarios para acreditar fehacientemente que se ha actualizado alguna de las causales previstas en el artículo 244 y por ello es procedente declarar la desaparición del Ayuntamiento.
 
-I.- Cuando sus miembros no concurran al acto de toma de posesión, a menos que su ausencia se debiere a circunstancias que no les sean imputables;
+Una vez obtenidas las pruebas necesarias las comisiones referidas deberán emitir su dictamen correspondiente para la votación en el Pleno del Congreso.
 
-II.- Por quebrantar los principios del régimen jurídico, político o administrativo del municipio;
-
-III.- Por actos u omisiones que lesionen la integridad del territorio del estado, su soberanía, libertad y autonomía interior;
-
-IV.- Por actos u omisiones que violen las garantías individuales y sociales que otorga la Constitución General, en perjuicio de la población del municipio;
-
-V.- Por ejercer atribuciones que las leyes no les confieran o rehusar el cumplimiento de las obligaciones que les impone;
-
-VI.- Por promover o adoptar forma de gobierno o bases de organización política opuestas a las señaladas por el artículo 115 de la Constitución Federal y de los principios establecidos por la Constitución Política del Estado;
-
-VII.- Por responsabilidad colectiva en el ejercicio de sus funciones públicas; y
-
-VIII.- Por conflicto que se suscite entre los integrantes del Ayuntamiento, o entre éste y la comunidad, que haga imposible el cumplimiento de los fines del mismo, o el ejercicio de sus funciones.
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 247.
 
-Los miembros de los Ayuntamientos serán suspendidos:
+Cuando la petición se funde en las causales previstas en las fracciones II, en relación al numeral 90 fracción II, o en la IV, del artículo 244 de la presente ley, se deberán observar los requisitos, formalidades y procedimiento establecido en la Sección Cuarta del Presente Título.
 
-I.- Cuando se juzgue indispensable para la práctica de averiguación relacionada a sus funciones;
-
-II.- Cuando sin causa justificada dejaren de asistir a las sesiones del Ayuntamiento o dejaren de cumplir sus funciones dentro de un plazo de treinta días o más; y
-
-III.- Por virtud de averiguación criminal en su contra como presunto responsable de delitos no culposos ni leves.
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 248.
 
-Será revocado el mandato de alguno de los miembros del Ayuntamiento en los casos siguientes:
+Una vez decretada por el Congreso del Estado, la declaración de desaparición de un Ayuntamiento se deberá nombrar de forma inmediata un Concejo Municipal, en los términos previstos por esta ley.
 
-I.- Cuando no compareciere sin causa justificada al acto de toma de posesión;
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2009)</small>
 
-II.- Cuando se negare a rendir la protesta de ley;
+#### SECCIÓN SEGUNDA. De la suspensión de Ayuntamientos y suspensión de sus miembros
 
-III.- Cuando del resultado de una averiguación le resultare responsabilidad en el ejercicio de sus funciones;
-
-IV.- Cuando sobreviniere causa de ineligibilidad;
-
-V.- Por incapacidad física o legal permanente;
-
-VI.- Por no cumplir o cumplir falsamente con la presentación de la declaración patrimonial a que obliga la responsabilidad de los servidores públicos municipales; y
-
-VII.- Por realizar, en lo individual, cualquiera de los actos que sean causa de suspensión de Ayuntamientos.
+> <small>(REFORMADO Y REUBICADO, P. O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 249.
 
-Los procedimientos de desaparición o suspensión de Ayuntamientos, o suspensión o revocación del mandato de alguno o algunos integrantes del Ayuntamiento se iniciarán a solicitud de:
+La presente sección tiene por objeto establecer las causas graves en las que procede que el Congreso del Estado suspenda Ayuntamientos o suspenda o revoque el mandato a alguno o algunos de los miembros del Ayuntamiento, así como el procedimiento a seguir para tales efectos.
 
-I.- El Gobernador del estado;
-
-II.- Cualquiera de los diputados;
-
-III.- El Tribunal de Justicia Administrativa;
-
-IV.- Los vecinos del municipio, con residencia efectiva de no menos de cinco años, en el territorio del municipio, quienes actuarán bajo su más estricta responsabilidad; y
-
-V.- Cualquier miembro del Ayuntamiento si se trata de suspensión o revocación del mandato de alguno o algunos integrantes del mismo.
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 250.
 
-La petición deberá hacerse al Congreso del Estado o, en los recesos de éste, a la Diputación Permanente, quien convocará a sesión extraordinaria para conocer de la petición.
+Son causas graves de suspensión de Ayuntamientos:
 
-La petición deberá ser ratificada por el promovente dentro de los tres días siguientes a su presentación, en caso contrario se tendrá como no interpuesta.
+I.- Quebrantar los principios del régimen jurídico, político o administrativo del municipio;
+
+II.- Los actos u omisiones que lesionen la integridad del territorio del estado, su soberanía, libertad y autonomía interior;
+
+III.- Los actos u omisiones que violen los derechos fundamentales que reconocen la Constitución General de la República y la particular del Estado, en perjuicio de la población del municipio;
+
+IV.- Por ejercer atribuciones que las leyes no les confieran o rehusarse al cumplimiento de las obligaciones que les imponen;
+
+V.- Por responsabilidad colectiva en el ejercicio de sus funciones públicas; y
+
+VI.- Por conflicto que se suscite entre los integrantes del Ayuntamiento, o entre éste y la comunidad, que haga imposible el cumplimiento de los fines del mismo, o el ejercicio de sus funciones.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 251.
 
-La petición deberá presentarse por escrito y contendrá los siguientes requisitos:
+Son causas graves de suspensión de los miembros del Ayuntamiento, las siguientes:
 
-I.- Generales del promovente;
+I.- Cuando se juzgue indispensable para la práctica de investigaciones de naturaleza administrativa relacionada a sus funciones; y
 
-II.- Tipo de acción que se ejercita;
+II.- Cuando sin causa justificada dejaren de cumplir sus funciones dentro de un plazo de treinta días o más.
 
-III.- Nombre del municipio sobre el que recae la acción y nombre de los integrantes del Ayuntamiento;
-
-IV.- Causas que dan origen a la acción, debidamente fundadas y motivadas; y
-
-V.- En su caso, acompañar las pruebas, para demostrar las causas que se imputan.
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 252.
 
-Ratificada la petición, el Congreso la turnará a la Comisión de Justicia, para que dentro del término de cinco días emita un dictamen sobre la procedencia o improcedencia de iniciación del procedimiento respectivo.
+La suspensión de Ayuntamiento o de alguno o algunos de sus miembros nunca podrá ser menor de seis meses ni mayor a un año.
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+#### SECCIÓN TERCERA. De la revocación de mandato
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 253.
 
-Emitido el dictamen de la comisión competente que declare la iniciación del procedimiento, se observará lo siguiente:
+Será revocado el mandato de alguno o algunos de los miembros del Ayuntamiento cuando incurran en alguna de las siguientes causas graves:
 
-I.- Cuando se trate de petición de desaparición de un Ayuntamiento, la Comisión, de Justicia, de oficio, deberá investigar los hechos denunciados y se allegará deberá investigar, de oficio, (sic) los hechos denunciados y se allegará de todos los de todos los (sic) elementos de prueba necesarios para acreditar fehacientemente que ha desaparecido el Ayuntamiento; y
+I.- Cualquier infracción a la Constitución Política de los Estados Unidos Mexicanos, a la Constitución Política del Estado o a las leyes, reglamentos y decretos que de ellas emanen, cuando causen perjuicio a la población del Municipio, o motiven algún trastorno en el funcionamiento normal de las instituciones;
 
-II.- Cuando la petición se refiera a la suspensión de Ayuntamientos, o suspensión o revocación del mandato de alguno o algunos miembros del Ayuntamiento, la comisión deberá emplazar a los interesados a una audiencia que se celebrará en plazo no menor a quince días hábiles, en la que deberá darse contestación a los hechos imputados en la petición y ofrecer las pruebas y alegatos de su parte.
+II.- Cuando no compareciere sin causa justificada al acto de toma de posesión, en los términos del artículo 42 de la presente ley;
 
-La Comisión podrá allegarse, de oficio, de todos los elementos de prueba necesarios.
+III.- Cuando se actualice el supuesto de la fracción II del artículo 90 de esta ley;
 
-El emplazamiento deberá reunir las mismas formalidades que para el efecto establece el Código de Procedimientos Civiles del Estado.
+IV.- Cuando sobreviniere causa de inelegibilidad;
+
+V.- Por incapacidad física, mental o legal permanente;
+
+VI.- Por disponer indebidamente de bienes o recursos del erario público;
+
+VII.- Por incurrir en lo individual, en los actos señalados en la fracción VI del artículo 250.
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+#### SECCIÓN CUARTA. Procedimiento común para la suspensión y revocación de mandato
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 254.
 
-Tratándose del procedimiento de desaparición de Ayuntamientos, la Comisión presentará en la audiencia todos los elementos de prueba que haya obtenido en la investigación para demostrar la desaparición, las cuales serán valoradas por el pleno del Congreso, quien emitirá el fallo inmediatamente, después de desahogadas las pruebas.
+Los procedimientos de suspensión de Ayuntamientos, o suspensión o revocación del mandato de alguno o algunos integrantes del Ayuntamiento se iniciarán a solicitud de:
+
+I.- El Gobernador del Estado;
+
+II.- Cualquiera de los diputados;
+
+III.- El ocho por ciento de los ciudadanos del municipio correspondiente, quienes deberán nombrar un comité promotor integrado por cinco personas, nombrando entre ellas a un representante común;
+
+IV.- Cualquier miembro del Ayuntamiento.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 255.
 
-Cuando el procedimiento se refiera a la suspensión de Ayuntamientos o, suspensión o revocación del mandato de alguno o algunos de los miembros del Ayuntamiento, la audiencia se celebrará con los miembros del Ayuntamiento involucrado, en la que se desahogarán las pruebas ofrecidas por las partes.
+La petición deberá hacerse por escrito al Congreso del Estado o, en los recesos de éste, a la Diputación Permanente; debiendo ser ratificada personalmente por el promovente dentro de los tres días hábiles siguientes a su presentación, en caso contrario se tendrá como no interpuesta.
 
-En caso de no comparecer a la audiencia los miembros del Ayuntamiento, ésta se desahogará de cualquier forma.
+> <small>(REFORMADO Y REUBICADO, P. O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 256.
 
-Presentadas o no las pruebas o alegatos, la Comisión de Justicia formulará sus conclusiones dentro de los cinco días hábiles siguientes y las turnará al pleno del Congreso, para que éste, dentro del plazo de los diez días hábiles siguientes, emita el fallo correspondiente, en sesión pública.
+La petición deberá contener los siguientes requisitos:
+
+I.- Generales del promovente y la personalidad que ostente;
+
+II.- Tipo de acción que ejercita;
+
+III.- Nombre del municipio y de los integrantes del Ayuntamiento sobre los que recae la acción;
+
+IV.- Causas que dan origen a la acción, debiendo manifestar bajo protesta de decir verdad, cuales son los hechos u omisiones que le constan;
+
+V.- Ofrecer las pruebas para demostrar las causas que se imputan; y
+
+VI.- Firma del promovente.
+
+Los peticionarios deberán señalar domicilio para recibir notificaciones en la ciudad de Tepic, Nayarit, de no hacerlo, se realizarán en los estrados del Congreso del Estado.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 257.
 
-La resolución del Congreso deberá ser aprobada por al menos las dos terceras partes de los integrantes del Congreso.
+Ratificada la petición, la Asamblea Legislativa o a la Diputación Permanente en su caso, la turnará a la comisión o comisiones competentes, para que dentro del término de cinco días presenten el acuerdo de trámite debidamente fundado y motivado sobre la procedencia o improcedencia de la iniciación del procedimiento respectivo.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 258.
 
-Cuando el Congreso declare la desaparición o suspensión definitiva del Ayuntamiento, no procederá llamar a los suplentes, sino que se designará un Consejo Municipal.
+Emitido el acuerdo de trámite de la comisión o comisiones competentes que declare la iniciación del procedimiento, se observarán las siguientes disposiciones generales:
+
+I.- Los plazos comenzarán a correr al día siguiente al que surta sus efectos la notificación, incluyéndose en ellos el día del vencimiento;
+
+II.- Las resoluciones deberán notificarse al día siguiente en el que se hubieren pronunciado, mediante oficio o acuerdo entregado en el domicilio de las partes, por conducto de persona autorizada o por correo certificado con acuse de recibo. En casos urgentes se ordenará que la notificación se haga por vía telegráfica;
+
+III.- Las notificaciones surtirán sus efectos a partir del día siguiente al que hubieren quedado legalmente hechas;
+
+IV.- Los peticionarios podrán ofrecer todo tipo de pruebas, excepto la de posiciones y aquellas que sean contrarias a derecho. En cualquier caso, corresponderá a la Comisión desechar de plano aquellas pruebas que no guarden relación con la controversia o no influyan en el dictamen definitivo.
+
+La documental podrá admitirse con anterioridad, sin perjuicio de que se haga relación de ella en la propia audiencia y se tenga como recibida en ese acto. En ningún caso se admitirán más de dos testigos por cada hecho, narrando de manera espontánea sobre lo que sabe en relación al conflicto, pudiendo los integrantes de la Comisión interrogarlos ampliamente, no admitiendo las preguntas y repreguntas a las partes.
+
+A fin de que las partes puedan rendir sus pruebas, todas las autoridades tienen el deber de expedirles oportunamente las copias o documentos que soliciten y, en caso contrario, pedirán a la Comisión que requiera a los omisos;
+
+V.- La Comisión deberá notificar a los denunciados, para que dentro del término de cinco días expresen lo que a su interés legal convenga y ofrezcan pruebas.
+
+Para el emplazamiento deberá aplicarse supletoriamente lo dispuesto en el Código de Procedimientos Civiles del Estado;
+
+VI.- Habiendo trascurrido el plazo para los efectos de la fracción anterior, la Comisión señalará fecha para la audiencia de desahogo de pruebas, misma que deberá verificarse dentro de los quince días siguientes. La Comisión podrá ampliar el término de la celebración de la audiencia, cuando la importancia y trascendencia del asunto así lo amerite.
+
+La Comisión podrá allegarse de oficio, de todos los elementos de pruebas que considere necesarios para proveer de mejor manera;
+
+VII.- Desahogada en su totalidad las pruebas, se deberán presentar los alegatos por escrito dentro de los seis días contados a partir de que la comisión declare concluida la audiencia de desahogo de pruebas;
+
+VIII.- Presentadas o no las pruebas o alegatos, se procederá a formular las conclusiones dentro de los cinco días hábiles siguientes y se turnarán al pleno del Congreso, para que éste, dentro del plazo de los diez días hábiles siguientes, emita el fallo correspondiente, en sesión pública.
+
+En todas las cuestiones no previstas en este artículo, se aplicarán las disposiciones de la Ley de Justicia y Procedimientos Administrativos del Estado.
+
+> <small>(REFORMADO Y REUBICADO, P. O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 259.
 
-Cuando el Congreso declare la suspensión provisional del Ayuntamiento o revocación del mandato de alguno o algunos de los miembros del Ayuntamiento, el Congreso inmediatamente llamará a los suplentes para que ocupen el cargo respectivo.
+En términos de los artículos 115 de la Constitución General de la República, y 47, fracción I, inciso a), de la Constitución del Estado, las resoluciones del Congreso derivadas de los procedimientos señalados en este capítulo serán validas cuando se aprueben por al menos las dos terceras partes de sus integrantes.
 
-## TÍTULO VIGÉSIMO
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ### CAPÍTULO ÚNICO. De los Consejos Municipales
 
 ###### ARTICULO 260.
 
-Cuando el Congreso del Estado decretare la suspensión o desaparición de un Ayuntamiento, determinará la constitución de un Consejo Municipal, que tendrá la misma estructura orgánica, facultades y obligaciones que el Ayuntamiento al cual sustituye.
+El Congreso del Estado procederá a la constitución de un Concejo Municipal cuando por cualquier causa no se logre integrar al Ayuntamiento la mayoría de sus miembros. Dicho Concejo tendrá la misma estructura orgánica, facultades y obligaciones que el Ayuntamiento al cual sustituye, y en consecuencias quedarán sujetos a los procedimientos de responsabilidad respectivos.
+
+(REUBICADO, P.O. 15 DE ABRIL DE 2009)
 
 ###### ARTICULO 261.
 
 La designación de los miembros del Consejo Municipal será realizada por el Congreso del Estado o la Diputación Permanente en su caso, mediante una acuciosa selección e investigación de los habitantes y vecinos del municipio que reúnan los requisitos establecidos por la Constitución y esta ley y que se distingan además, por no haber participado ni tenido injerencia alguna en los conflictos que hayan provocado la suspensión o desaparición del Ayuntamiento. En todo caso, el Gobernador del estado podrá proponer a los ciudadanos que a su juicio puedan cumplir esa función, cuidando el cumplimiento de los requisitos legales.
 
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2009)</small>
+
+Invariablemente, los integrantes del Ayuntamiento desaparecido que no hayan tenido responsabilidad en la causa que originó la declaración de desaparición, deberán formar parte, con el cargo que ostentaban, del Concejo Municipal que se designe.
+
+(REUBICADO, P.O. 15 DE ABRIL DE 2009)
+
 ###### ARTICULO 262.
 
 Para la integración del Consejo Municipal, la Asamblea Legislativa cuidará que el nombramiento recaiga en personas que reúnan los requisitos constitucionales, como si se tratare de una elección. Desde el momento mismo de la designación, el Congreso determinará el nombramiento del Presidente del Consejo, que tendrá las atribuciones del Presidente Municipal, del Comisario que hará las veces del Síndico y de los consejeros que actuarán como Regidores, y con esa denominación actuarán.
 
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 263.
 
-Sólo habrá lugar a la integración del Consejo Municipal Permanente, cuando:
+Sólo habrá lugar a la integración del Concejo municipal provisional, cuando:
 
-I.- Hayan transcurrido seis meses desde que el Ayuntamiento desaparecido tomó posesión; en caso contrario se practicarán elecciones extraordinarias; y
+I.- Se suspenda el mandato al Ayuntamiento o a la mayoría de sus miembros;
 
-II.- Se revoque el encargo al Consejo designado para dar lugar a la integración de otro nuevo.
+II.- Se revoque el mandato a la mayoría o totalidad de los integrantes del Ayuntamiento, en tanto se celebran elecciones extraordinarias;
+
+III.- Se revoque el encargo al Concejo designado para dar lugar a la integración de otro nuevo; y
+
+IV.- Por cualquier causa no se logre mayoría en la integración del Ayuntamiento y sea procedente designar un concejo provisional.
 
 ###### ARTICULO 264.
 
-Sólo serán llamados los suplentes si se tratare de revocación o suspensión del mandato de alguno de sus miembros, pero no habrá lugar en tratándose de la totalidad de sus integrantes.
+(DEROGADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)
+
+(REUBICADO, P.O. 15 DE ABRIL DE 2009)
 
 ###### ARTICULO 265.
 
@@ -2981,11 +3297,15 @@ I.- Por no cumplir eficazmente sus funciones; y
 
 II.- Por haber concluido el término de suspensión impuesto al Ayuntamiento.
 
+(REUBICADO, P.O. 15 DE ABRIL DE 2009)
+
 ###### ARTICULO 266.
 
 Fuera de los casos señalados en las disposiciones anteriores, el Consejo Municipal durará en funciones hasta la conclusión del periodo respectivo.
 
-TÍTULO VIGESIMOPRIMERO
+(REUBICADO [N. DE E. ANTES TITULO VIGESIMOPRIMERO, P.O. 15 DE ABRIL DE 2009)
+
+TÍTULO DÉCIMONOVENO
 
 ### CAPÍTULO ÚNICO. Del procedimiento para la resolución de conflictos entre municipios, y entre los municipios y el Poder Ejecutivo
 
@@ -3152,3 +3472,11 @@ P.O. 20 DE AGOSTO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor a partir del 17 de septiembre del año 2008, y deberá publicarse en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 15 DE ABRIL DE 2009.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- Aquellos municipios que no cuenten con la Dirección Jurídica a la que se refiere la presente reforma, deberán de proceder a su conformación en un término que no exceda los noventa días naturales contados a partir de la entrada en vigor del presente decreto.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
