@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-135-sobre-el-regimen-de-propiedad-en-condominio-2670
 country: "mx"
 rank: "ley"
 publication_date: "1988-06-18"
-last_updated: "2003-03-18"
+last_updated: "2009-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY NUMERO 135 SOBRE EL REGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 541 QUE REGULA EL REGIMEN DE PROPIEDAD EN CONDOMINIO EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 15 DE ABRIL DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 18 de junio de 1988.
 
@@ -39,9 +41,7 @@ Al margen un sello con el Escudo Nacional que dice: "Estados Unidos Mexicanos.- 
 
 La Honorable Quincuagésima Cuarta Legislatura del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le concede la fracción I, del artículo 68, de la Constitución Política Local, y en nombre del pueblo expide la siguiente
 
-> <small>N. DE E. CONFORME AL ARTICULO CUARTO TRANSITORIO DEL DECRETO NUMERO 547 DE REFORMA CONSTITUCIONAL PUBLICADO EN LA GACETA OFICIAL DEL 18 DE MARZO DE 2003, LA DENOMINACIÓN ". ESTADO DE VERACRUZ LLAVE", DEBERA ENTENDERSE COMO ". ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".</small>
-
-> <small>(REFORMADA SU DENOMINACION, G.O. 18 DE MARZO DE 2003)</small>
+> <small>N. DE E. CONFORME AL ARTICULO CUARTO TRANSITORIO DEL DECRETO NUMERO 547 DE REFORMA CONSTITUCIONAL PUBLICADO EN LA GACETA OFICIAL DEL 18 DE MARZO DE 2003, LA DENOMINACIÓN ". ESTADO DE VERACRUZ LLAVE", DEBERA ENTENDERSE COMO ". ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".(REFORMADA SU DENOMINACION, G.O. 18 DE MARZO DE 2003)</small>
 
 LEY NUMERO 135:
 
@@ -634,3 +634,11 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SEPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 15 DE ABRIL DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo Segundo. Se abroga la Ley sobre Régimen de Propiedad en Condominio para el Estado de Veracruz-Llave, publicada en la Gaceta Oficial del estado, de fecha dieciocho de junio del año mil novecientos ochenta y ocho.
+
+Artículo Tercero. Se derogan todas las disposiciones que contravengan la presente Ley.
