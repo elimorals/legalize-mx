@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-la-funcion-publica-4481
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-27"
-last_updated: "2005-06-21"
+last_updated: "2009-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44813&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2005-05-24"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA FUNCION PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE JUNIO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE LA FUNCION PUBLICA, PUBLICADO EN EL D.O.F. DE 15 DE ABRIL DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 27 de mayo de 2005.
 
@@ -1928,3 +1930,25 @@ Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Dist
 D.O.F. 21 DE JUNIO DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación
+
+D.O.F. 15 DE ABRIL DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de la Función Pública publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, y se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+TERCERO.- Las unidades administrativas con denominación nueva o distinta que aparecen en el presente Reglamento y que tienen competencia en asuntos que anteriormente correspondían a otras unidades, se harán cargo de los mismos, continuarán su substanciación y dictarán las resoluciones respectivas.
+
+CUARTO.- Las referencias que se hacen y las atribuciones que se otorgan en reglamentos, decretos, acuerdos, manuales y demás disposiciones a las unidades administrativas que cambian de denominación o desaparecen por virtud del presente ordenamiento, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme a lo establecido en el mismo.
+
+QUINTO.- Las menciones que en los reglamentos interiores o estatutos orgánicos de las dependencias, las entidades y la Procuraduría se hagan a los artículos 66, 67, 68, 69 y 75 del Reglamento Interior de la Secretaría de la Función Pública que se abroga, se entenderán referidas a los artículos 79, 80, 81, 82 y 88, respectivamente, del presente ordenamiento.
+
+SEXTO.- Las modificaciones a la estructura orgánica de la Secretaría de la Función Pública que deriven de la entrada en vigor del presente Decreto serán realizadas mediante movimientos compensados, por lo que no aumentarán el presupuesto regularizable de la Secretaría.
+
+La Secretaría en los casos de creación y/o supresión de puestos deberá con sujeción a las disposiciones jurídicas aplicables determinar lo conducente, sin perjuicio de los derechos de los trabajadores.
+
+SÉPTIMO.- Continuarán en vigor los acuerdos que hayan sido expedidos por el Secretario, así como los demás instrumentos jurídicos que actualmente se encuentren vigentes en lo que no se opongan a las disposiciones del presente ordenamiento, en tanto no se modifiquen o dejen sin efectos.
+
+OCTAVO.- La Oficialía Mayor de la Secretaría de la Función Pública realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades o áreas que se modifican o desaparecen, sean transferidos a las unidades administrativas que correspondan, en los términos de presente ordenamiento y de conformidad con las normas aplicables y disponibilidad presupuestaria.
+
+NOVENO.- Los sistemas electrónicos con que cuenta la Secretaría seguirán siendo operados por la unidad administrativa competente hasta antes de la entrada en vigor de este Decreto, y hasta en tanto no se realicen las adecuaciones tecnológicas y se brinde la capacitación necesaria para su transferencia a las unidades administrativas que en virtud del presente ordenamiento estarían facultadas para operar los mismos.
