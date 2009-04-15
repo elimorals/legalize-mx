@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-de-administracion-y-avaluos-de-40584"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-02"
-last_updated: "2004-09-02"
+last_updated: "2009-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40584&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-08-31"
 
 REGLAMENTO DEL INSTITUTO DE ADMINISTRACION Y AVALUOS DE BIENES NACIONALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE ABRIL DE 2009.
 
 Reglamento publicado en la Sección Primera del Diario Oficial de la Federación, el jueves 2 de septiembre de 2004.
 
@@ -81,11 +81,15 @@ El INDAABIN tendrá las siguientes atribuciones:
 
 I. Proponer al Titular de la Secretaría y, en su caso, instrumentar la política inmobiliaria de la Administración Pública Federal, de conformidad con las disposiciones de la Ley;
 
-II. Proponer al Titular de la Secretaría las normas, lineamientos y políticas en las materias de la competencia del Instituto, recabando la opinión previa de la Unidad de Normatividad de Adquisiciones, Obras Públicas, Servicios y Patrimonio Federal cuando se trate de la materia inmobiliaria federal;
+> <small>(REFORMADA, D.O.F. 15 DE ABRIL DE 2009)</small>
+
+II. Proponer al Titular de la Secretaría las normas, lineamientos y políticas en las materias de la competencia del Instituto;
 
 III. Practicar los avalúos y justipreciaciones de rentas que soliciten las dependencias y entidades, así como todo tipo de trabajos valuatorios a nivel de consultoría que soliciten las instituciones públicas;
 
-IV. Expedir los procedimientos, criterios y metodologías de carácter técnico conforme a los cuales este Instituto, las instituciones de crédito y los especialistas en materia de valuación con cédula profesional expedida por autoridad competente, llevarán a cabo los avalúos que soliciten las dependencias y entidades, en los casos previstos por los artículos 143 y 144 de la Ley, así como aquéllos conforme a los cuales el propio Instituto practicará los servicios valuatorios a nivel de consultoría, sin perjuicio de las atribuciones que en materia de avalúos de bienes muebles correspondan a la Unidad de Normatividad de Adquisiciones, Obras Públicas, Servicios y Patrimonio Federal de la Secretaría;
+> <small>(REFORMADA, D.O.F. 15 DE ABRIL DE 2009)</small>
+
+IV. Expedir los procedimientos, criterios y metodologías de carácter técnico conforme a los cuales este Instituto, las instituciones de crédito y los especialistas en materia de valuación con cédula profesional expedida por autoridad competente, llevarán a cabo los avalúos que soliciten las dependencias y entidades, en los casos previstos por los artículos 143 y 144 de la Ley, así como aquéllos conforme a los cuales el propio Instituto practicará los servicios valuatorios a nivel de consultoría, sin perjuicio de las atribuciones que en materia de avalúos de bienes muebles correspondan a la Unidad de Normatividad de Contrataciones Públicas de la Secretaría;
 
 V. Poseer, vigilar, conservar, proteger, administrar y controlar por sí mismo o con el apoyo de las instituciones destinatarias que correspondan, los inmuebles federales competencia de la Secretaría, así como dictar las reglas específicas a que deberá sujetarse la vigilancia y aprovechamiento de los mismos;
 
@@ -173,9 +177,13 @@ II. Someter a la consideración del Oficial Mayor de la Secretaría para la apro
 
 III. Constituir comités internos en los que intervengan varias unidades administrativas del INDAABIN;
 
-IV. Proponer al Titular de la Secretaría, previa opinión de la Unidad de Normatividad de Adquisiciones, Obras Públicas, Servicios y Patrimonio Federal de la propia Dependencia, las normas y lineamientos de carácter general que se consideren necesarias para el adecuado cumplimiento de las disposiciones relacionadas con los inmuebles federales de la competencia de la Secretaría;
+> <small>(REFORMADA, D.O.F. 15 DE ABRIL DE 2009)</small>
 
-V. Expedir los procedimientos, criterios y metodologías de carácter técnico a que se refiere el artículo 142 de la Ley, conforme a los cuales se practicarán los avalúos, justipreciaciones de rentas y los demás trabajos valuatorios, sin perjuicio de las atribuciones que en materia de avalúos de bienes muebles correspondan a la Unidad de Normatividad de Adquisiciones, Obras Públicas, Servicios y Patrimonio Federal de la Secretaría;
+IV. Proponer al Titular de la Secretaría las normas y lineamientos de carácter general que se consideren necesarias para el adecuado cumplimiento de las disposiciones relacionadas con los inmuebles federales de la competencia de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 15 DE ABRIL DE 2009)</small>
+
+V. Expedir los procedimientos, criterios y metodologías de carácter técnico a que se refiere el artículo 142 de la Ley, conforme a los cuales se practicarán los avalúos, justipreciaciones de rentas y los demás trabajos valuatorios, sin perjuicio de las atribuciones que en materia de avalúos de bienes muebles correspondan a la Unidad de Normatividad de Contrataciones Públicas de la Secretaría;
 
 VI. Determinar las medidas para que, en forma programada y con la participación de las instituciones destinatarias, el valor de los inmuebles competencia de la Secretaría se registre en la contabilidad gubernamental;
 
@@ -659,7 +667,9 @@ El INDAABIN tendrá facultades para realizar los avalúos, justipreciaciones de 
 
 Asimismo, conforme a lo dispuesto por la fracción XVIII del artículo 143 de la Ley, el INDAABIN podrá determinar el valor de los bienes sujetos al régimen de dominio público de la Federación que usen, gocen o aprovechen las personas físicas o morales, cuando lo requiera la Secretaría de Hacienda y Crédito Público, de conformidad con las disposiciones jurídicas aplicables.
 
-Para efectos de lo dispuesto por el párrafo quinto del artículo 132 de la Ley, el INDAABIN practicará los avalúos necesarios a fin de determinar los valores mínimos de los desechos de bienes muebles que generen las dependencias y entidades, cuando así lo requiera la Unidad de Normatividad de Adquisiciones, Obras Públicas, Servicios y Patrimonio Federal de la Secretaría. En este caso, no será aplicable lo dispuesto en el artículo 28 de este Reglamento.
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 2009)</small>
+
+Para efectos de lo dispuesto por el párrafo quinto del artículo 132 de la Ley, el INDAABIN practicará los avalúos necesarios a fin de determinar los valores mínimos de los desechos de bienes muebles que generen las dependencias y entidades, cuando así lo requiera la Unidad de Normatividad de Contrataciones Públicas de la Secretaría. En este caso, no será aplicable lo dispuesto en el artículo 28 de este Reglamento.
 
 El INDAABIN podrá determinar el valor de las empresas, negociaciones o establecimientos industriales, comerciales o de servicios, o de sus bienes inmuebles, maquinaria, equipo y demás activos, sobre los que se pretenda constituir la garantía de créditos bancarios, cuando lo soliciten las instituciones de crédito.
 
@@ -818,3 +828,27 @@ OCTAVO.- Los derechos de los trabajadores de la Comisión de Avalúos de Bienes 
 NOVENO.- Los inmuebles federales destinados a la Secretaría para uso de la Comisión de Avalúos de Bienes Nacionales, continuarán destinados a esa dependencia para el servicio del Instituto de Administración y Avalúos de Bienes Nacionales.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de agosto de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de la Función Pública, Eduardo Romero Ramos.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 15 DE ABRIL DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de la Función Pública publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, y se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+TERCERO.- Las unidades administrativas con denominación nueva o distinta que aparecen en el presente Reglamento y que tienen competencia en asuntos que anteriormente correspondían a otras unidades, se harán cargo de los mismos, continuarán su substanciación y dictarán las resoluciones respectivas.
+
+CUARTO.- Las referencias que se hacen y las atribuciones que se otorgan en reglamentos, decretos, acuerdos, manuales y demás disposiciones a las unidades administrativas que cambian de denominación o desaparecen por virtud del presente ordenamiento, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme a lo establecido en el mismo.
+
+QUINTO.- Las menciones que en los reglamentos interiores o estatutos orgánicos de las dependencias, las entidades y la Procuraduría se hagan a los artículos 66, 67, 68, 69 y 75 del Reglamento Interior de la Secretaría de la Función Pública que se abroga, se entenderán referidas a los artículos 79, 80, 81, 82 y 88, respectivamente, del presente ordenamiento.
+
+SEXTO.- Las modificaciones a la estructura orgánica de la Secretaría de la Función Pública que deriven de la entrada en vigor del presente Decreto serán realizadas mediante movimientos compensados, por lo que no aumentarán el presupuesto regularizable de la Secretaría.
+
+La Secretaría en los casos de creación y/o supresión de puestos deberá con sujeción a las disposiciones jurídicas aplicables determinar lo conducente, sin perjuicio de los derechos de los trabajadores.
+
+SÉPTIMO.- Continuarán en vigor los acuerdos que hayan sido expedidos por el Secretario, así como los demás instrumentos jurídicos que actualmente se encuentren vigentes en lo que no se opongan a las disposiciones del presente ordenamiento, en tanto no se modifiquen o dejen sin efectos.
+
+OCTAVO.- La Oficialía Mayor de la Secretaría de la Función Pública realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades o áreas que se modifican o desaparecen, sean transferidos a las unidades administrativas que correspondan, en los términos de presente ordenamiento y de conformidad con las normas aplicables y disponibilidad presupuestaria.
+
+NOVENO.- Los sistemas electrónicos con que cuenta la Secretaría seguirán siendo operados por la unidad administrativa competente hasta antes de la entrada en vigor de este Decreto, y hasta en tanto no se realicen las adecuaciones tecnológicas y se brinde la capacitación necesaria para su transferencia a las unidades administrativas que en virtud del presente ordenamiento estarían facultadas para operar los mismos.
