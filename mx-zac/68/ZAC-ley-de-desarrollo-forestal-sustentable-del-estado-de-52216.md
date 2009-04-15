@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-desarrollo-forestal-sustentable-del-estado-de-52216"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-28"
-last_updated: "2006-10-28"
+last_updated: "2009-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52216&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 2009.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 28 de octubre de 2006.
 
@@ -117,9 +117,11 @@ IV. La protección y conservación de los ecosistemas que permiten mantener dete
 
 V. La protección y conservación de las zonas que sirvan de refugio a la fauna y flora en peligro de extinción.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
+
 ###### ARTÍCULO 4.
 
-La propiedad de los recursos forestales comprendidos dentro del Estado, corresponde a los ejidos, las comunidades, personas físicas y jurídicas, el Estado y los municipios que sean propietarios de los terrenos donde aquéllos se ubiquen. Los procedimientos establecidos por esta Ley no alterarán el régimen de propiedad de los terrenos.
+La propiedad de los recursos forestales comprendidos dentro del Estado, corresponde a los ejidos, a los fraccionamientos rurales, las comunidades, personas físicas y jurídicas, el Estado y los municipios que sean propietarios de los terrenos donde aquéllos se ubiquen. Los procedimientos establecidos por esta Ley no alterarán el régimen de propiedad de los terrenos.
 
 ###### ARTÍCULO 5.
 
@@ -273,7 +275,9 @@ XXIX. Realizar auditorias técnicas con la finalidad de promover e inducir el cu
 
 XXX. Asesorar y capacitar a los propietarios y poseedores forestales en la elaboración y ejecución de programas de manejo forestal y de plantaciones forestales comerciales, así como en la diversificación de las actividades forestales;
 
-XXXI. Asesorar y orientar a ejidatarios, comuneros, pequeños propietarios y otros productores forestales en el desarrollo de sus organizaciones, así como en la creación de empresas sociales forestales, propiciando la integración de cadenas productivas y los sistemas-producto del sector;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+XXXI. Asesorar y orientar a ejidatarios, fraccionistas rurales, comuneros, pequeños propietarios y otros productores forestales en el desarrollo de sus organizaciones, así como en la creación de empresas sociales forestales, propiciando la integración de cadenas productivas y los sistemas-producto del sector;
 
 XXXII. Participar de conformidad con los acuerdos y convenios que se celebren con la Federación, en la inspección y vigilancia forestal en la entidad, así como en las acciones de prevención y combate a la extracción ilegal y la tala clandestina de los recursos forestales,
 
@@ -329,7 +333,9 @@ V. Impulsar proyectos y acciones que contribuyan a la integración y competitivi
 
 VI. Orientar y capacitar en los términos que establezca el Reglamento, a los propietarios y poseedores de terrenos forestales, en la elaboración y ejecución de programas de manejo forestal y de plantaciones forestales comerciales, así como la diversificación de las actividades forestales;
 
-VII. Asesorar y orientar a ejidatarios, comuneros, pequeños propietarios, comunidades indígenas y otros productores forestales, en el desarrollo de su organización, así como en la creación de empresas sociales forestales, propiciando la integración de cadenas productivas y los sistemas producto del sector;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+VII. Asesorar y orientar a ejidatarios, fraccionistas rurales, comuneros, pequeños propietarios, comunidades indígenas y otros productores forestales, en el desarrollo de su organización, así como en la creación de empresas sociales forestales, propiciando la integración de cadenas productivas y los sistemas producto del sector;
 
 VIII. Participar de conformidad con los acuerdos y convenios que se celebren con la federación, en la inspección y vigilancia forestal en el Estado, así como en las acciones de prevención y combate a la extracción ilegal y la tala clandestina de los recursos forestales, y
 
@@ -480,6 +486,36 @@ Los programas indicarán los objetivos, estratégicos y líneas de acción prior
 ###### ARTÍCULO 23.
 
 El Programa Estatal forestal de largo plazo deberá ser elaborado por el Consejo Forestal y será revisado y en su caso actualizado, cada dos años.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2009)</small>
+
+ARTÍCULO23 BIS.- El Programa Estatal Forestal, tendrá como objetivos y metas:
+
+I. Promover el fomento y la adecuada planeación del desarrollo forestal sustentable;
+
+II. Tender a alcanzar una productividad óptima y sostenida de los recursos forestales, sin comprometer el rendimiento, equilibrio e integridad de los ecosistemas forestales;
+
+III. Promover el desarrollo de la industria forestal, generando condiciones de inversión para las grandes, medianas y pequeñas empresas;
+
+IV. Mejorar el ingreso y la calidad de vida de las personas que participan en la actividad forestal, y
+
+V. Promover la generación de valor agregado en las regiones forestales, diversificando las alternativas productivas y creando fuentes de empleo en el sector.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2009)</small>
+
+ARTÍCULO 23 TER.- Los objetivos y metas del Programa Estatal Forestal tendrán como criterios sociales, los siguientes:
+
+I. El respeto a la cultura, tradiciones y naturaleza de los pueblos y comunidades, así como promover su participación en la discusión, elaboración y ejecución de los programas que se apliquen en las zonas donde habiten;
+
+II. El fortalecimiento e impulso a la educación, la investigación y capacitación en la materia, con la finalidad de construir mayores oportunidades de empleo y desarrollo humano;
+
+III. Mejorar la calidad de vida en los centros de población, a través de actividades forestales que propicien la conservación del suelo, de los mantos acuíferos, la disminución de la contaminación ambiental y la construcción de mantos acuíferos, todo con la intención de crear una cultura de la sustentabilidad;
+
+IV. Construir una política de integración regional del manejo forestal, tendiente a conservar la biodiversidad de los ecosistemas, el manejo de las cuencas hidrológicas, suelos forestales, especies endémicas y en peligro de extinción;
+
+V. Combatir el tráfico, la extinción, apropiación y explotación ilegal de los recursos forestales en todas sus vertientes, y
+
+VI. Utilizar de manera racional los ecosistemas forestales para satisfacer las necesidades madereras tanto de la industria como de la población.
 
 ###### ARTÍCULO 24.
 
@@ -769,9 +805,11 @@ En la política de plantaciones forestales comerciales en terrenos temporalmente
 
 Las plantaciones forestales comerciales en terrenos temporalmente forestales o en predios con superficies menores o iguales a 800 hectáreas, requerirán únicamente del estudio de impacto ambiental y un aviso por escrito a la Secretaría cuyos requisitos se determinarán en el Reglamento.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
+
 ###### ARTÍCULO 60.
 
-Cuando la solicitud de una autorización de plantación forestal comercial sobre terrenos propiedad de un ejido comunidad sea presentada por un tercero, éste deberá acreditar el consentimiento del núcleo agrario mediante el acuerdo de asamblea que lo autorice, de conformidad con la Ley Agraria.
+Cuando la solicitud de una autorización de plantación forestal comercial sobre terrenos propiedad de un ejido, fraccionamiento rural o comunidad sea presentada por un tercero, éste deberá acreditar el consentimiento del núcleo agrario mediante el acuerdo de asamblea que lo autorice, de conformidad con la Ley Agraria o en los términos y condiciones establecidos en la Ley de Fraccionamientos Rurales, según corresponda.
 
 ###### ARTÍCULO 61.
 
@@ -1021,9 +1059,11 @@ El gobierno del Estado establecerá estímulos fiscales y creará los instrument
 
 Asimismo, garantizará mecanismos de apoyo para impulsar el desarrollo forestal sustentable, con el fin de alcanzar lo (sic) objetivos previstos en el artículo 139 de la Ley General.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
+
 ###### ARTÍCULO 103.
 
-El Gobierno del Estado promoverá e impulsará la empresa social forestal en los ejidos o comunidades con áreas forestales permanentes y bajo programas de manejo forestal.
+El Gobierno del Estado promoverá e impulsará la empresa social forestal en los ejidos, fraccionamientos rurales o comunidades con áreas forestales permanentes y bajo programas de manejo forestal.
 
 ###### ARTÍCULO 104.
 
@@ -1137,7 +1177,9 @@ V. Representantes de los siguientes sectores forestales:
 
 a. Académico y de investigación,
 
-b. Ejidos,
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
+
+b. Ejidos y fraccionamientos rurales,
 
 c. Industrial,
 
@@ -1420,3 +1462,11 @@ DADO en la Sala de Sesiones de la Honorable Quincuagésima Octava Legislatura de
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 DADO en el Despacho del Poder Ejecutivo del Estado, a los diecisiete días del mes de Octubre del año dos mil seis. "SUFRAGIO EFECTIVO. NO REELECIÓN" La Gobernadora del Estado: Amalia D. García Medina; El Secretario General de Gobierno: Luis Gerardo Romo Fonseca. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE ABRIL DE 2009.
+
+Artículo primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan las disposiciones que contravengan esta Ley.
