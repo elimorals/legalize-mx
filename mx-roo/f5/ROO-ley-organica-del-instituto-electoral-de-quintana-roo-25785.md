@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-instituto-electoral-de-quintana-roo-25785"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-08-27"
-last_updated: "2009-03-03"
+last_updated: "2009-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DEL INSTITUTO ELECTORAL DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 27 de agosto de 2002.
 
@@ -1511,7 +1511,7 @@ Los representantes de los partidos o coaliciones ante las Mesas Directivas de Ca
 
 Los representantes de los partidos políticos deberán registrarse y obtener su acreditación ante el Consejo General, dentro de los nueve días anteriores del inicio del proceso electoral y podrán ser sustituidos en cualquier tiempo por el partido político que los registró mediante escrito presentado ante la autoridad electoral correspondiente.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+REFORMADO, P.O. 3 DE MARZO DE 2009)
 
 ###### Artículo 83.
 
@@ -1787,10 +1787,18 @@ El presente Decreto entrará en vigor el mismo día de su publicación en el Per
 
 La adecuación de la normatividad que resulte necesaria efectuar conforme a las disposiciones del presente Decreto, deberá realizarse a partir de la entrada en vigor del mismo.
 
-###### ARTICULO TERCERO.
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
 
-La primera elección del Consejero Presidente, en términos del artículo 10 primer párrafo, se efectuará en la primera sesión que celebre el Consejo General en el mes de febrero del año 2012.
+###### ARTÍCULO TERCERO.
+
+La Primera elección del Consejero Presidente, en términos del Artículo 10 primer párrafo, se efectuará en la primera sesión que celebre el Consejo General en el mes de febrero del año que corresponda.
 
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 15 DE ABRIL DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
