@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2008-12-24"
+last_updated: "2009-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2009.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -297,13 +297,25 @@ Son derechos de los ciudadanos zacatecanos:
 
 I. Votar en las elecciones populares;
 
-II. Participar en los procesos de referéndum, de plebiscito, de iniciativa popular y de revocación del mandato a que se convoque en los términos de esta Constitución y sus leyes reglamentarias;
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+II. Participar en la preparación, desarrollo y vigilancia de los procesos electorales, en los términos establecidos por la ley;
+
+III. Participar en los procesos de referéndum, de plebiscito, de iniciativa popular y de revocación del mandato a que se convoque en los términos de esta Constitución y sus leyes reglamentarias;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE OCTUBRE DE 2003)</small>
 
-III. Ser votados para todos los cargos de elección popular y nombrados para cualquier otro empleo o comisión, siempre que reúnan las calidades que establece la ley. Para ocupar los cargos de diputado local o integrante de algún Ayuntamiento, no se requiere ser mexicano por nacimiento; y
+IV. Ser votados para todos los cargos de elección popular y nombrados para cualquier otro empleo o comisión, siempre que reúnan las calidades que establece la ley. Para ocupar los cargos de diputado local o integrante de algún Ayuntamiento, no se requiere ser mexicano por nacimiento; y (sic)
 
-IV. Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos concernientes al Estado o al Municipio
+V. Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos concernientes al Estado o al Municipio
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+VI. Constituir y afiliarse libre e individualmente a partidos políticos nacionales o estatales, y
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+VII. Ejercer el derecho de libertad de expresión y acceso a la información, en los términos de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes de la materia.
 
 ###### Artículo 15.
 
@@ -553,35 +565,49 @@ Corresponde al Estado garantizar la integración de los poderes públicos como l
 
 Los servidores públicos del Estado y de los Municipios, en el ámbito de sus competencias y con sujeción a la ley, garantizarán la libertad del sufragio y sancionarán la violación a las garantías individuales, el ataque a las instituciones democráticas y los actos que impidan la participación de los ciudadanos en la vida política, económica, cultural y social del Estado. El incumplimiento en que incurra cualquier servidor público dará lugar a la aplicación de las sanciones previstas por la ley penal.
 
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2009)</small>
+
+Los servidores públicos tendrán en todo momento la obligación de aplicar con imparcialidad los recursos públicos que estén bajo su responsabilidad y deberán abstenerse de participar para influir en la equidad de la competencia entre los partidos políticos.
+
 ###### Artículo 37.
 
 Los ciudadanos zacatecanos tienen el derecho de estar representados en todos los organismos que tengan a su cargo funciones electorales, así como de consulta a la población previstas por las leyes para el mejor desempeño de las atribuciones de los poderes públicos
 
-> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### Artículo 38.
 
-El Estado garantizará la certeza, legalidad, independencia, imparcialidad y objetividad de la función electoral y de consulta ciudadana. La organización, preparación y realización de los procesos electorales se sujetará a las reglas siguientes:
+El Estado garantizará la certeza, imparcialidad, independencia, legalidad y objetividad de la función electoral y de consulta ciudadana. La organización, preparación y realización de los procesos electorales, se sujetará a las reglas siguientes:
 
 I. Se ejercerá a través de un organismo público autónomo y de carácter permanente, denominado Instituto Electoral del Estado de Zacatecas, dotado de personalidad jurídica y patrimonio propios, en cuya integración intervienen el Poder Legislativo del Estado, los partidos políticos con registro y los ciudadanos zacatecanos, en los términos ordenados por esta Constitución y la ley de la materia;
 
-II. El Instituto Electoral del Estado es la autoridad en la materia, profesional en el desempeño de sus actividades e independiente en sus decisiones. Contará con los órganos directivos, ejecutivos, técnicos y de vigilancia que le sean indispensables para el desempeño de su función, los cuales se compondrán de personal calificado que preste el Servicio Profesional Electoral. Los órganos de vigilancia se integrarán en su mayoría por representantes de los partidos políticos nacionales y estatales;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+II. El Instituto Electoral del Estado de Zacatecas, es la autoridad en la materia, profesional en el desempeño de sus actividades e independiente en sus decisiones. Contará con los órganos directivos, ejecutivos, técnicos y de vigilancia que le sean indispensables para el desempeño de su función, los cuales se compondrán de personal calificado que preste el Servicio Profesional Electoral. Los órganos de vigilancia se integrarán en su mayoría por representantes de los partidos políticos nacionales y estatales. Podrá de acuerdo con la ley, introducir las modalidades y los avances tecnológicos para el ejercicio del sufragio popular, preservando su calidad de universal, libre, secreto y directo;
 
 III. El Consejo General es el órgano máximo de dirección y se integra con un Consejero Presidente, que lo será también del Instituto, y seis consejeros electorales. El Consejero Presidente y los consejeros electorales durarán en su cargo cuatro años y podrán ser ratificados para otro periodo. La ley determinará los requisitos de imparcialidad e independencia que deberán reunir los consejeros electorales y la retribución a que tienen derecho mientras duren en el cargo;
 
-IV. El Consejero Presidente y los consejeros electorales serán designados por la Legislatura del Estado con el voto de las dos terceras partes de sus miembros presentes, a propuesta de las fracciones legislativas;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+IV. El Consejero Presidente y los consejeros electorales serán designados por la Legislatura del Estado con el voto de las dos terceras partes de sus miembros presentes, a propuesta de los grupos parlamentarios;
 
 V. Al Consejo General concurrirán con voz pero sin voto, los consejeros representantes del Poder Legislativo, un representante de cada uno de los partidos políticos registrados y un Secretario Ejecutivo;
 
-VI. Los consejeros representantes del Poder Legislativo serán propuestos por las fracciones legislativas con afiliación de partido en la Legislatura. Sólo habrá un consejero por cada fracción legislativa. Salvo el Presidente del Consejo General del Instituto, los demás miembros deberán tener sus respectivos suplentes, quienes serán electos en la misma forma que los propietarios;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+VI. Los consejeros representantes del Poder Legislativo serán propuestos por los grupos parlamentarios con afiliación de partido en la Legislatura. Sólo habrá un consejero por cada grupo parlamentario. Salvo el Presidente del Consejo General del Instituto, los demás miembros deberán tener sus respectivos suplentes, quienes serán electos en la misma forma que los propietarios;
 
 VII. El Consejero Presidente propondrá al Consejo General una terna para la designación del Secretario Ejecutivo, que será elegido mediante el voto de las dos terceras partes de sus integrantes;
 
-VIII. Fungirán en el ámbito de su competencia, los Consejos Electorales Distritales y Municipales, los cuales se integran por un Consejero Presidente, un Secretario Ejecutivo con voz pero sin derecho a voto, cuatro consejeros electorales con sus respectivos suplentes, nombrados todos ellos por las dos terceras partes del Consejo General, el que podrá tomar en cuenta las propuestas que hagan los partidos políticos. Los partidos políticos estatales y nacionales podrán acreditar un representante en cada uno de los Consejos Distritales y Municipales, con derecho de voz pero no de voto; y
+VIII. Fungirán en el ámbito de su competencia, los Consejos Electorales Distritales y Municipales, los cuales se integran por un Consejero Presidente, un Secretario Ejecutivo con voz pero sin derecho a voto, cuatro consejeros electorales con sus respectivos suplentes, nombrados todos ellos por las dos terceras partes del Consejo General, el que podrá tomar en cuenta las propuestas que hagan los partidos políticos. Los partidos políticos estatales y nacionales podrán acreditar un representante en cada uno de los Consejos Distritales y Municipales, con derecho de voz pero no de voto; y (sic)
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2000)</small>
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
 
-IX. El Código Electoral señalará las atribuciones del Instituto Electoral del Estado, así como las de los Consejos General, Distritales y Municipales. Para los procesos de participación ciudadana se estará a lo dispuesto por la ley de la materia.
+IX. La ley señalará las atribuciones del Instituto Electoral del Estado de Zacatecas, así como las de los Consejos General, Distritales y Municipales. Para los procesos de participación ciudadana se estará a lo dispuesto por la ley de la materia, y
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+X. La ley establecerá las bases para que el Instituto Electoral del Estado de Zacatecas, pueda convenir con el Instituto Federal Electoral, para que éste se haga cargo de la organización de los procesos electorales.
 
 Las sesiones de estos órganos serán públicas, salvo los casos de excepción que la ley determine.
 
@@ -597,13 +623,15 @@ Las mesas directivas de las casillas encargadas de recibir la votación estarán
 
 La declaratoria de validez de las elecciones de Diputados por los principios de mayoría relativa y de representación proporcional, de Ayuntamientos y de Regidores de representación proporcional, es facultad de los organismos públicos previstos en el artículo 38 de esta Constitución, mediante los requisitos y procedimientos que establezca la ley electoral. Con base en la declaratoria de validez, los propios organismos otorgarán las constancias de acreditación a quienes favorezcan los resultados.
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ### CAPÍTULO SEGUNDO. DE LOS PARTIDOS POLÍTICOS
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
+
 ###### Artículo 42.
 
-Se establecerá un sistema de medios de impugnación contra actos o resoluciones, para garantizar la legalidad de los procesos, el cual dará definitividad en la instancia correspondiente. Serán competentes para conocer de los recursos que se interpongan, el Instituto Electoral del Estado y el Tribunal Estatal Electoral. En ningún caso la interposición de los medios de impugnación producirá efectos suspensivos respecto del acto, resolución o resultados que se hubiesen impugnado. La ley establecerá los requisitos y normas a que deban sujetarse la interposición y tramitación de los medios de impugnación en los procesos electorales y de consulta ciudadana.
+Se establecerá un sistema de medios de impugnación contra actos o resoluciones electorales, para garantizar los principios de legalidad y definitividad de los procesos. Será competente para conocer de los recursos que se interpongan, el Tribunal de Justicia Electoral del Estado de Zacatecas. En ningún caso la interposición de los medios de impugnación producirá efectos suspensivos respecto del acto, resolución o resultados que se hubiesen impugnado. La ley establecerá los requisitos y normas a que deban sujetarse la interposición y tramitación de los medios de impugnación en los procesos electorales y de consulta ciudadana.
 
 ### CAPÍTULO TERCERO. DEL REFERÉNDUM, PLEBISCITO E INICIATIVA POPULAR
 
@@ -611,27 +639,63 @@ Se establecerá un sistema de medios de impugnación contra actos o resoluciones
 
 ###### Artículo 43.
 
-Los partidos políticos estatales y nacionales son entidades de interés público y tienen derecho de participar en las elecciones constitucionales de los Poderes Legislativo y Ejecutivo y de los Ayuntamientos, así como al uso permanente de los medios de comunicación social, en la forma y términos que establezcan las leyes de la materia.
+Los partidos políticos son entidades de interés público y tienen derecho de participar en las elecciones constitucionales de los Poderes Legislativo y Ejecutivo y de los Ayuntamientos, así como al uso permanente de los medios de comunicación social y al acceso a los tiempos de radio y televisión, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, el Código Federal de Instituciones y Procedimientos Electorales y demás disposiciones aplicables.
+
+En la propaganda política o electoral que difundan los partidos o coaliciones deberán de abstenerse de expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas. La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los órdenes de gobierno federal, estatal o municipal, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+
+Durante el tiempo que comprendan las campañas electorales locales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes, como de los municipios y cualquier otro ente público de los tres órdenes de gobierno. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales o las necesarias para la protección civil en casos de emergencia. La ley dispondrá las sanciones que deberán imponerse por el incumplimiento de estas disposiciones, con independencia de las responsabilidades administrativas o penales que se deriven.
+
+Los partidos políticos sólo se constituirán por ciudadanos sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa. Asimismo se les reconoce el derecho exclusivo para solicitar el registro de candidatos a cargos de elección popular.
+
+Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos en los términos que expresamente señale la ley.
+
+La ley establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidatos a cargos de elección popular, así como las reglas para las precampañas y las campañas electorales, así como las sanciones para quienes las infrinjan.
+
+La ley determinará las normas y requisitos para su registro legal y las formas específicas de su intervención en el proceso electoral. Del mismo modo, establecerá el procedimiento para la liquidación de los partidos que pierdan su registro y el destino de sus bienes y remanentes.
+
+La ley establecerá las reglas para las precampañas y las campañas electorales de los partidos políticos, así como las sanciones para quienes las infrinjan. La duración de las campañas no deberá exceder de 90 días para la elección de Gobernador, ni de 60 días cuando sólo se elijan diputados locales o Ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
+
+La ley fijará las causales de nulidad de las elecciones para Gobernador, diputados locales y ayuntamientos, así como los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales. La ley tipificará los delitos y determinará las faltas en materia electoral y las sanciones que por ello deban imponerse. Asimismo, establecerá los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de los recuentos totales o parciales de votación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### Artículo 44.
 
-La ley garantizará que los partidos políticos nacionales y estatales cuenten de manera equitativa con elementos para llevar a cabo sus actividades.
+La ley garantizará que los partidos políticos cuenten de manera equitativa con elementos para llevar a cabo sus actividades y señalará las reglas a que se sujetará el financiamiento de los propios partidos y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado.
 
-Las donaciones de particulares que reciban los partidos políticos, no podrán ser mayores en ningún caso al equivalente de quince por ciento del total que a cada partido político le haya sido autorizado como financiamiento público en la anualidad correspondiente.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 15 DE ABRIL DE 2009)</small>
 
 Los partidos políticos rendirán informe público, una vez al año, de sus movimientos de ingresos y egresos realizados en ese lapso.
 
-El incumplimiento por parte de los partidos, de cualquiera de las disposiciones contenidas en los dos párrafos precedentes, será sancionado conforme a la ley.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 15 DE ABRIL DE 2009)</small>
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2009)</small>
+
+La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos, así como el monto máximo que tendrán las aportaciones de sus simpatizantes, cuya suma total no podrá exceder anualmente, para cada partido, el diez por ciento del tope de gastos establecido para la última campaña a Gobernador.
 
 El financiamiento público que reciban los partidos políticos que conserven su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales, y se otorgará conforme a las bases siguientes y a lo que disponga la ley:
 
-I. El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes lo fijará anualmente la Legislatura en el Presupuesto de Egresos del Estado, tomando en consideración el anteproyecto que le envíe el Instituto Electoral del Estado a más tardar el quince de noviembre de cada año, el cual deberá ponderar los costos mínimos de campaña, el número de Diputados y Ayuntamientos a elegir, el número de partidos políticos con representación en la Legislatura del Estado y la duración de las campañas electorales. Treinta por ciento de la cantidad total que resulte de acuerdo con lo señalado anteriormente se asignará a los partidos políticos en forma igualitaria, y el restante setenta por ciento se distribuirá entre los mismos de acuerdo con el porcentaje de votos que hubiesen obtenido en la elección de Diputados inmediata anterior;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
 
-II. El financiamiento público de los partidos políticos para las actividades tendientes a la obtención del voto durante los procesos electorales, será igual al monto del financiamiento público que les corresponda para actividades ordinarias en ese año; y
+I. El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes lo fijará anualmente la Legislatura en el Presupuesto de Egresos del Estado, tomando en consideración el anteproyecto que le envíe el Instituto Electoral del Estado a más tardar el quince de noviembre de cada año, el cual deberá ponderar los costos mínimos de campaña, el número de Diputados y Ayuntamientos a elegir, el número de partidos políticos con representación en la Legislatura del Estado y la duración de las campañas electorales. Treinta por ciento de la cantidad total que resulte de acuerdo con lo señalado anteriormente se asignará a los partidos políticos en forma igualitaria, y el restante setenta por ciento se distribuirá entre los mismos de acuerdo con el porcentaje de votos que hubiesen obtenido en la elección de Diputados inmediata anterior, siempre y cuando hubiesen obtenido como mínimo el 2.5% de la votación total emitida;
 
-III. Se reintegrará a los partidos políticos un porcentaje de los gastos anuales que eroguen por concepto de actividades de educación, capacitación, investigación socioeconómica y política y editoriales.
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
 
-De acuerdo con las bases señaladas en este artículo, la ley establecerá las reglas a que se sujetarán el financiamiento de los partidos; los procedimientos de control y vigilancia del origen y el uso de los recursos; los límites de erogaciones para la realización de tareas permanentes o de índole electoral en las campañas electorales, y las sanciones que deban imponerse por el incumplimiento de sus disposiciones.
+II. El financiamiento público de los partidos políticos para las actividades tendientes a la obtención del voto durante el año en que se elijan Gobernador del Estado, Diputados Locales y Ayuntamientos, equivaldrá al setenta por ciento del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese mismo año; cuando sólo se elijan Diputados Locales y Ayuntamientos, equivaldrá al cincuenta por ciento de dicho financiamiento por actividades ordinarias;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+III. El financiamiento público para actividades específicas, relativas a la educación, capacitación, equidad entre los géneros, investigación socioeconómica y política, así como a las tareas editoriales, equivaldrá al tres por ciento del monto total del financiamiento público que corresponda en cada año por actividades ordinarias. El treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+IV. La ley establecerá los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos y dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones, y
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+V. La ley establecerá las bases obligatorias para la coordinación entre el Instituto Federal Electoral y el Instituto Electoral del Estado de Zacatecas, en materia de fiscalización de las finanzas de los partidos políticos, en los términos de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(DEROGADO ULTIMO PÁRRAFO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ### CAPÍTULO PRIMERO. DEL PODER LEGISLATIVO
 
@@ -1347,7 +1411,7 @@ El Procurador y sus agentes se someterán estrictamente a las disposiciones de l
 
 ###### Artículo 90.
 
-El ejercicio del Poder Judicial del Estado se deposita en un Tribunal Superior de Justicia, en un Tribunal Estatal Electoral, en un Tribunal de lo Contencioso Administrativo, en un Tribunal Especializado en Justicia para Adolescentes, Juzgados de primera instancia y municipales.
+El ejercicio del Poder Judicial del Estado se deposita en un Tribunal Superior de Justicia, en un Tribunal de Justicia Electoral del Estado, en un Tribunal de lo Contencioso Administrativo, en un Tribunal Especializado en Justicia para Adolescentes, Juzgados de primera instancia y municipales.
 
 Corresponde a los tribunales del Estado la facultad de aplicar las leyes en asuntos del orden común, así como en materia federal cuando las leyes los faculten.
 
@@ -1377,7 +1441,7 @@ Los Magistrados y Jueces no podrán en ningún caso aceptar y desempeñar empleo
 
 #### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### Artículo 95.
 
@@ -1513,17 +1577,17 @@ VI. De los demás asuntos que las leyes sometan a su jurisdicción.
 
 ###### Artículo 102.
 
-El Tribunal Estatal Electoral es la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial del Estado. Se integra con una Sala, compuesta por cinco Magistrados electorales. Contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento. A los Magistrados electorales y al personal bajo su mando, se les podrán asignar, mediante acuerdo general, además de las que ya realizan, tareas jurisdiccionales o administrativas propias del Poder Judicial del Estado, según requieran las necesidades del servicio.
+El Tribunal de Justicia Electoral del Estado de Zacatecas, es la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial del Estado. Se integra con una Sala, compuesta por cinco Magistrados electorales. Contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento. A los Magistrados electorales y al personal bajo su mando, se les podrá asignar, mediante acuerdo del Pleno del Tribunal Superior de Justicia del Estado de Zacatecas, además de las que ya se realizan, tareas jurisdiccionales o administrativas propias del Poder Judicial del Estado, según requieran las necesidades del servicio.
 
-Los Magistrados del Tribunal Estatal Electoral serán designados por la Legislatura del Estado con voto de los dos tercios de sus miembros presentes, a propuesta que por ternas para cada magistratura formule el Pleno del Tribunal Superior de Justicia. Durarán en su cargo cuatro años y podrán ser ratificados. La ley determinará los casos en que tal encargo pueda suspenderse. Para ser Magistrado electoral se deberán satisfacer los requisitos exigidos para los del Tribunal Superior de Justicia.
+Los Magistrados del Tribunal de Justicia Electoral del Estado de Zacatecas, serán designados por la Legislatura del Estado con voto de los dos tercios de sus miembros presentes, a propuesta que por ternas para cada magistratura, formule el pleno del Tribunal Superior de Justicia. Durarán en su cargo cuatro años y podrán ser ratificados. La ley determinará los casos en que tal encargo pueda suspenderse. Para ser Magistrado electoral se deberán satisfacer los requisitos exigidos para los del Tribunal Superior de Justicia.
 
-En caso de falta definitiva de algún Magistrado del Tribunal Estatal Electoral, la Legislatura procederá a nombrarlo, en los términos de esta Constitución.
+En caso de falta definitiva de algún Magistrado del Tribunal de Justicia Electoral del Estado de Zacatecas, la Legislatura procederá a nombrarlo, en los términos de esta Constitución.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### Artículo 103.
 
-La ley determinará la organización, competencia y funcionamiento del Tribunal Estatal Electoral. Corresponde al mismo resolver, a través de su Sala en forma definitiva e inatacable:
+La ley determinará la organización, competencia y funcionamiento del Tribunal de Justicia Electoral del Estado de Zacatecas. Corresponde al mismo resolver, a través de su Sala en forma definitiva e inatacable:
 
 I. Las impugnaciones en las elecciones para Diputados locales y de Ayuntamientos;
 
@@ -1535,17 +1599,27 @@ La realización del cómputo final de la elección de Gobernador del Estado; una
 
 III. Las impugnaciones de actos y resoluciones de la autoridad electoral, distintas a las señaladas en las dos fracciones anteriores, que violen normas constitucionales o legales;
 
-III-A. (DEROGADA, P.O. 24 DE OCTUBRE DE 2001)
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2009)</small>
 
-IV. Los conflictos o diferencias laborales entre el Tribunal Estatal Electoral, los demás órganos electorales y sus respectivos servidores;
+III. A. Las impugnaciones de actos y resoluciones que violen los derechos político electorales de los ciudadanos de votar, ser votado y de afiliación libre y pacífica para tomar parte en los asuntos políticos concernientes al Estado. Para que un ciudadano pueda acudir a la jurisdicción del Tribunal de Justicia Electoral del Estado de Zacatecas, por violaciones a sus derechos por el partido político al que se encuentre afiliado, deberá agotar previamente las instancias de solución de conflictos previstas en sus normas internas, la ley establecerá las reglas y plazos aplicables;
 
-V. La determinación e imposición de sanciones en la materia; y
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
 
-VI. Las demás que señale la ley.
+IV. Los conflictos o diferencias laborales entre el Tribunal de Justicia Electoral del Estado de Zacatecas, los demás órganos electorales y sus respectivos servidores;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+V. La determinación e imposición de sanciones por parte del Instituto Electoral del Estado de Zacatecas a partidos políticos o personas físicas o morales, que infrinjan las disposiciones de esta Constitución y las leyes;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2009)</small>
+
+VI. El Tribunal de Justicia Electoral del Estado de Zacatecas, hará uso de los medios de apremio necesarios para hacer cumplir de manera expedita sus sentencias y resoluciones, en los términos que señale la ley, y
+
+VII. Las demás que señale la ley.
 
 #### SECCIÓN TERCERA. DEL TRIBUNAL ESTATAL ELECTORAL
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### Artículo 104.
 
@@ -2173,6 +2247,8 @@ El Ejecutivo del Estado y los Ayuntamientos ejercerán las atribuciones que en m
 
 ### CAPÍTULO PRIMERO. DE LAS RESPONSABILIDADES OFICIALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2009)</small>
+
 ###### Artículo 137.
 
 La hacienda pública se compone de los bienes y derechos que pertenecen al Estado; de los mostrencos y vacantes que estén dentro de su territorio; de los legados, herencias y donativos en su favor; de los créditos que se le otorguen; de las rentas y contribuciones que se decreten por la Legislatura; de las participaciones que la Federación le conceda, y de los recursos que por cualquier otro modo obtenga
@@ -2227,6 +2303,8 @@ Los servidores públicos serán responsables del cumplimiento de estas bases en 
 
 ### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE JUICIO POLÍTICO
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
+
 ###### Artículo 145.
 
 Los bienes que integran el patrimonio del Municipio pueden ser de dominio público y de dominio privado:
@@ -2259,7 +2337,7 @@ Asimismo, se integrará con los ingresos provenientes del impuesto sobre diversi
 
 ###### Artículo 147.
 
-Para los efectos de las responsabilidades a que se refiere este Título, se reputará como servidores públicos a los representantes de elección popular estatales y municipales; a los miembros del Poder Judicial del Estado; a los funcionarios y empleados de los Poderes Legislativo y Ejecutivo; a los Magistrados de otros tribunales, a los integrantes del Instituto Estatal Electoral y, en general, a toda persona que desempeñe algún empleo, cargo o comisión de cualquier naturaleza al servicio de la Administración Pública centralizada y paraestatal, municipal y paramunicipal, quienes serán responsables de los actos u omisiones en que incurran en el desempeño de sus funciones.
+Para los efectos de las responsabilidades a que se refiere este Título, se reputará como servidores públicos a los representantes de elección popular estatales y municipales; a los miembros del Poder Judicial del Estado; a los funcionarios y empleados de los Poderes Legislativo y Ejecutivo; a los Magistrados de otros tribunales, a los integrantes del Instituto Estatal Electoral y, en general, a toda persona que desempeñe algún empleo, cargo o comisión de cualquier naturaleza al servicio de la Administración Pública centralizada y paraestatal, municipal y paramunicipal, así como de los organismos públicos autónomos, quienes serán responsables de los actos u omisiones en que incurran en el desempeño de sus funciones.
 
 Son inatacables las declaraciones y resoluciones que de conformidad con lo dispuesto en este Título, expidan la Legislatura o el Tribunal Superior de Justicia del Estado.
 
@@ -2295,7 +2373,7 @@ Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la present
 
 ###### Artículo 151.
 
-Podrán ser sujetos de juicio político, los Diputados a la Legislatura del Estado; los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Tribunal de lo Contencioso Administrativo y del Tribunal de Conciliación y Arbitraje; el Procurador General de Justicia del Estado; los Consejeros Electorales; los Jueces del fuero común; los miembros de los Ayuntamientos; los Secretarios de despacho del Ejecutivo, y los directores generales, o sus equivalentes, de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones similares a éstas y fideicomisos públicos.
+Podrán ser sujetos de juicio político, los Diputados a la Legislatura del Estado; los Magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Electoral del Estado, del Tribunal de lo Contencioso Administrativo y del Tribunal de Conciliación y Arbitraje; el Procurador General de Justicia del Estado; el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Electoral del Estado de Zacatecas; los Jueces del fuero común; los miembros de los Ayuntamientos; los Secretarios de despacho del Ejecutivo, y los directores generales, o sus equivalentes, de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones similares a éstas y fideicomisos públicos.
 
 ###### Artículo 152.
 
@@ -2722,3 +2800,9 @@ Artículo quinto.- Se derogan las disposiciones que contravengan este Decreto.
 P.O. 24 DE DICIEMBRE DE 2008.
 
 ÚNICO.- El presente decreto entrará en vigor una vez que la Legislatura del Estado apruebe las reformas a la Ley Orgánica del Poder Legislativo y su Reglamento General, relacionadas con este Decreto.
+
+P.O. 15 DE ABRIL DE 2009.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
