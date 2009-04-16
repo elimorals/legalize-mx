@@ -4,7 +4,7 @@ identifier: "LAAM"
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-25"
-last_updated: "2004-06-25"
+last_updated: "2009-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39908&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAAM"
 
 LEY DE ASCENSOS DE LA ARMADA DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE ABRIL DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 25 de junio de 2004.
 
@@ -452,7 +452,9 @@ III.- Excedido de la edad límite en su jerarquía;
 
 IV.- Con prórroga o retenido en el servicio;
 
-V.- Sujeto a averiguación previa, proceso, prófugo o cumpliendo sentencia condenatoria del orden penal;
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2009)</small>
+
+V.- Sujeto a proceso, prófugo o cumpliendo sentencia condenatoria del orden penal;
 
 VI.- A disposición por resolución de organismo disciplinario;
 
@@ -503,3 +505,9 @@ El personal que al momento de entrar en vigor la presente Ley, ostente la catego
 México, D.F., a 28 de abril de 2004.- Dip. Juan de Dios Castro Lozano, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Amalín Yabur Elías, Secretaria.- Sen. Yolanda E. González Hernández, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de junio de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 16 DE ABRIL DE 2009.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
