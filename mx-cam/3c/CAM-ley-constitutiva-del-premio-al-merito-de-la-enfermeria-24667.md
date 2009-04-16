@@ -4,7 +4,7 @@ identifier: "CAM-ley-constitutiva-del-premio-al-merito-de-la-enfermeria-24667"
 country: "mx"
 rank: "ley"
 publication_date: "2002-05-03"
-last_updated: "2002-05-03"
+last_updated: "2009-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY CONSTITUTIVA DEL PREMIO "AL MERITO A LA ENFERMERIA CAMPECHANA"
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 3 de mayo de 2002.
 
@@ -43,9 +43,11 @@ LEY CONSTITUTIVA DEL PREMIO "AL MERITO A LA ENFERMERIA CAMPECHANA"
 
 El Premio al Mérito a la Enfermería Campechana es la más alta distinción que el Congreso del Estado de Campeche otorgará, para significar su reconocimiento, a los profesionales de la Enfermería que en la Entidad se distingan en el desempeño de esa profesión.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2009)</small>
+
 ###### Art. 2.
 
-El premio se concederá en una sola categoría y será entregado, en sesión solemne, en la fecha que determine el Congreso del Estado.
+El premio se concederá en dos categorías y será entregado en sesión solemne, en la fecha que determine el Congreso del Estado. Una categoría premiará los méritos en el área académica y otra en la de servicios.
 
 ###### Art. 3.
 
@@ -95,7 +97,7 @@ En la convocatoria se señalarán los requisitos que deberán satisfacer los can
 
 I.- Ser campechano por nacimiento o tener no menos de cinco años de residencia en el Estado;
 
-II.- Poseer título profesional de Enfermera (o) o de Licenciatura en Enfermería; y
+II.- Poseer título profesional de Enfermera (o) o de Licenciatura en Enfermería; y (sic)
 
 III.- Encontrarse en activo en alguna de las siguientes áreas:
 
@@ -105,9 +107,33 @@ b) Docencia; o
 
 c) Administración.
 
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2009)</small>
+
+IV.- En la categoría académica se solicitarán también los siguientes requisitos:
+
+a) Comprobar difusión del conocimiento o investigación;
+
+b) Publicaciones o investigaciones realizadas;
+
+c) Aportación científica a la disciplina; y
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2009)</small>
+
+V.- En la categoría de servicios y administración se deberán considerar adicionalmente los siguientes requisitos:
+
+a) Estar en activo en un área aplicativa;
+
+b) Aportaciones a la comunidad;
+
+c) Cursos de actualización.
+
 ###### Art. 11.
 
 Las propuestas de candidatos deberán provenir de la directiva de una agrupación de profesionales de la enfermería, de la representación legal de una institución pública de salud, o de un grupo de no menos de veinticinco enfermeros y/o enfermeras en activo. A toda propuesta deberá acompañarse el curriculum vitae del candidato, con la documentación que lo avale debidamente certificada por notario público o por la institución en la que preste sus servicios, según corresponda. En el escrito de propuesta deberán expresarse los motivos por los que los proponentes consideren que el candidato es merecedor del premio.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2009)</small>
+
+Las propuestas deberán señalar cual es la categoría en la que se inscribirá a los candidatos. Los candidatos sólo podrán participar en una categoría.
 
 ###### Art. 12.
 
@@ -138,3 +164,9 @@ En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII d
 Dado en el Palacio de Gobierno del Estado, en Campeche, a los Dos Días del Mes de Mayo del año Dos Mil Dos.-
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, L.A. JOSE ANTONIO GONZALEZ CURI.- EL SECRETARIO DE GOBIERNO,- LIC. CARLOS FELIPE ORTEGA RUBIO.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE ABRIL DE 2009.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
