@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2009-03-30"
+last_updated: "2009-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE ABRIL DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -5412,17 +5412,21 @@ X. Establecer la coordinación con las autoridades correspondientes, para determ
 
 XI. Impulsar el desarrollo del transporte escolar, de personal, y de turismo y todos aquellos sistemas de transporte que eviten la saturación de las vialidades y protejan el medio ambiente;
 
-XII. Realizar todas aquellas acciones tendientes a que los servicios públicos de transporte de pasajeros, privado y de carga, además de llevarse a cabo con eficiencia y eficacia, garanticen la seguridad de los usuarios y peatones y los derechos de los permisionarios y concesionarios; y
+XII. Realizar todas aquellas acciones tendientes a que los servicios públicos de transporte de pasajeros, privado y de carga, además de llevarse a cabo con eficiencia y eficacia, garanticen la seguridad de los usuarios y peatones y los derechos de los permisionarios y concesionarios; y (sic)
 
 XIII. Adoptar las medidas que tiendan a optimizar y satisfacer el transporte de pasajeros, privado y de carga y en su caso, coordinarse con las Dependencias y Entidades para este propósito;
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 17 DE ABRIL DE 2009)</small>
 
-XIV. Determinar los criterios para la actualización de las tarifas del servicio público de transporte; y
+XIV. Determinar los criterios para la actualización de las tarifas del servicio público de transporte;
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 17 DE ABRIL DE 2009)</small>
 
-XV. Regular, autorizar e inspeccionar la publicidad en el Servicio de Transporte, así como imponer las sanciones en caso de incumplimiento, de conformidad con las disposiciones jurídicas y administrativas correspondientes.
+XV. Regular, autorizar e inspeccionar la publicidad en el servicio de transporte, así como imponer las sanciones en caso de incumplimiento, de conformidad con las disposiciones jurídicas y administrativas correspondientes; y
+
+> <small>(ADICIONADA, G.O. 17 DE ABRIL DE 2009)</small>
+
+XVI. Establecer y administrar depósitos de vehículos que deban remitirse y custodiarse con motivo de infracciones a la Ley de Transportes y Vialidad del Distrito Federal y sus reglamentos.
 
 ###### Artículo 94.
 
@@ -12995,3 +12999,9 @@ CUARTO. - Los asuntos competencia de Dirección Ejecutiva de Apoyo Técnico, y q
 QUINTO. - Las Dependencias que por virtud de este decreto se modifican, deberán adecuar sus estructuras orgánicas y actualizar sus Manuales de Organización y Procedimientos en los plazos y condiciones que establezca la Contraloría General.
 
 SEXTO. - Las referencias hechas en ordenamientos e instrumentos administrativos a las dependencias y unidades administrativas que por virtud de este decreto hubieren dejado de tener competencia en la materia que regulan, se entenderán hechas a aquellas que cuenten con las facultades correspondientes.
+
+G.O. 17 DE ABRIL DE 2009.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
