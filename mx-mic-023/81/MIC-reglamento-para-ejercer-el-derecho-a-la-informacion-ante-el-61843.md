@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-para-ejercer-el-derecho-a-la-informacion-ante-el-618
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-30"
-last_updated: "2009-04-08"
+last_updated: "2009-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61843&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "MIC"
 ---
 # REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACION ANTE EL H. AYUNTAMIENTO DE CHAVINDA, MICHOACAN
 
-REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACION ANTE EL H. AYUNTAMIENTO DE CHAVlNDA, MICHOACAN
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACIÓN ANTE EL H. AYUNTAMIENTO DE CHAVINDA, MICHOACÁN, PUBLICADO EN EL P.O. DE 8 DE ABRIL DE 2009 Y REPUBLICADO EN EL P.O. DE 17 DE ABRIL DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACION ANTE EL H. AYUNTAMIENTO DE CHAVINDA, MICHOACAN, PUBLICADO EN EL P.O. DE 8 DE ABRIL DE 2009 Y REPUBLICADO EN EL P.O. DE 17 DE ABRIL DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACIÓN ANTE EL H. AYUNTAMIENTO DE CHAVINDA, MICH.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2009 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el lunes 30 de junio de 2008.
 
@@ -416,6 +416,16 @@ P.O. 8 DE ABRIL DE 2009.
 REPUBLICADO, P.O. 17 DE ABRIL DE 2009.
 
 Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo. Y para el conocimiento ciudadano publíquese en los estrados del Palacio Municipal y en los Jugares que el Ayuntamiento estime pertinente para su difusión.
+
+Segundo.- Se abroga el Reglamento de Acceso a la Información Pública ante el Ayuntamiento de Chavinda, Michoacán; publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo el 30 treinta de junio del 2008 dos mil ocho.
+
+Tercero.- Conforme a lo previsto en los artículos 145, 149 y sexto transitorio de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo, remítase un ejemplar con el texto íntegro al H. Congreso del Estado y al Titular del Poder Ejecutivo Estatal y al Consejero Presidente del Instituto para la Transparencia y Acceso a la Información Pública del Estado de Michoacán, para su conocimiento y efectos legales conducentes.
+
+P.O. 17 DE ABRIL DE 2009.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACIÓN ANTE EL H. AYUNTAMIENTO DE CHAVINDA, MICH".]
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo. Y para el conocimiento ciudadano publíquese en los estrados del Palacio Municipal y en los lugares que el Ayuntamiento estime pertinente para su difusión.
 
 Segundo.- Se abroga el Reglamento de Acceso a la Información Pública ante el Ayuntamiento de Chavinda, Michoacán; publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo el 30 treinta de junio del 2008 dos mil ocho.
 
