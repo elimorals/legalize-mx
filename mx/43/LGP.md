@@ -4,7 +4,7 @@ identifier: "LGP"
 country: "mx"
 rank: "ley_general"
 publication_date: "1974-01-07"
-last_updated: "2008-07-21"
+last_updated: "2009-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=636&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGP"
 
 LEY GENERAL DE POBLACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE ABRIL DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 7 de enero de 1974.
 
@@ -108,15 +108,17 @@ Para los efectos del artículo anterior, corresponde a las dependencias del Pode
 
 Se crea el Consejo Nacional de Población que tendrá a su cargo la planeación demográfica del país, con objeto de incluir a la población en los programas de desarrollo económico y social que se formulen dentro del sector gubernamental y vincular los objetivos de éstos con las necesidades que plantean los fenómenos demográficos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE JULIO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 6o.
 
-El Consejo Nacional de Población estará integrado por un representante de la Secretaría de Gobernación, que será el titular del ramo y que fungirá como Presidente del mismo, y un representante de cada una de las Secretarías de Relaciones Exteriores, Hacienda y Crédito Público, Programación y Presupuesto, Desarrollo Urbano y Ecología, Educación Pública, Salud, Trabajo y Previsión Social, Reforma Agraria, del Departamento del Distrito Federal y de los Institutos Mexicano del Seguro Social y de Seguridad y Servicios Sociales de los Trabajadores del Estado, que serán sus respectivos titulares o los Subsecretarios, Secretarios Generales o Subdirector General, según sea el caso, que ellos designen. Por cada representante propietario se designará un suplente que deberá tener el mismo nivel administrativo que aquél, o el inmediato inferior.
+El Consejo Nacional de Población se integra por un representante de la Secretaría de Gobernación, que será el titular del ramo y que fungirá como Presidente del mismo, y un representante de cada una de las Secretarías de Relaciones Exteriores, Hacienda y Crédito Público, Desarrollo Social, Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Economía, Medio Ambiente y Recursos Naturales, Educación Pública, Salud, Trabajo y Previsión Social, Reforma Agraria y de los Institutos Mexicano del Seguro Social, de Seguridad y Servicios Sociales de los Trabajadores del Estado, Nacional de las Mujeres y Nacional de Estadística y Geografía; así como de la Comisión Nacional de Desarrollo de los Pueblos Indígenas y del Sistema Nacional para el Desarrollo Integral de la Familia, que serán sus respectivos titulares o los Subsecretarios, Secretarios Generales o Subdirector General, según sea el caso, que ellos designen. Por cada representante propietario se designará un suplente que deberá tener el mismo nivel administrativo que aquél, o el inmediato inferior, y cuyas funciones muestren correspondencia e interacción con las políticas públicas en materia de población y desarrollo.
 
-Cuando se trate de asuntos de la competencia de otras dependencias u organismos del sector público, el Presidente del Consejo podrá solicitar de sus titulares que acudan a la sesión o sesiones correspondientes o nombren un representante para desahogar aquéllos.
+Cuando se trate de asuntos vinculados a los de la competencia de otras dependencias u organismos del sector público, el Presidente del Consejo podrá solicitar de sus titulares que acudan a la sesión o sesiones correspondientes o nombren un representante para desahogar aquéllos.
 
-El Consejo podrá contar con el auxilio de consultorías técnicas e integrar las unidades interdisciplinarias de asesoramiento que estime pertinentes, con especialistas en problemas de desarrollo y demografía.
+De la misma manera, cuando el Consejo lo considere procedente, podrá invitar a los titulares de las comisiones legislativas correspondientes del Congreso de la Unión, quienes participarán con voz pero sin voto.
+
+El Consejo podrá contar con el auxilio de consultorías técnicas e integrar las unidades interdisciplinarias de asesoramiento que estime pertinentes, con especialistas en problemas de desarrollo y demográfica.
 
 ### CAPITULO II. Migración
 
@@ -1353,5 +1355,9 @@ Las menciones a la Policía Fiscal Federal que aparezcan en cualquier ordenamien
 SÉPTIMO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 D.O.F. 21 DE JULIO DE 2008.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE ABRIL DE 2009.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
