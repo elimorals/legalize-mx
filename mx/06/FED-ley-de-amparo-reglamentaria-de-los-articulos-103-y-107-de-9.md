@@ -4,7 +4,7 @@ identifier: "FED-ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-9"
 country: "mx"
 rank: "ley"
 publication_date: "1936-01-10"
-last_updated: "2009-03-18"
+last_updated: "2009-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-12-30"
 
 LEY DE AMPARO, REGLAMENTARIA DE LOS ARTICULOS 103 Y 107 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE ABRIL DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 10 de enero de 1936.
 
@@ -209,23 +209,17 @@ En el caso previsto por el artículo anterior, si a pesar de las medidas tomadas
 
 Transcurrido un año sin que nadie se apersone en el juicio en representación legal del agraviado, se tendrá por no interpuesta la demanda.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE AGOSTO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 19.
 
-Salvo las excepciones previstas en el primer párrafo del artículo 12 de esta Ley y en el párrafo segundo del presente artículo, las autoridades responsables no pueden ser representadas en el juicio de amparo, pero sí podrán, por medio de simple oficio, acreditar delegados para que hagan promociones, concurran a las audiencias, rindan pruebas, formulen alegatos y promuevan los incidentes y recursos previstos en esta Ley.
+Las autoridades responsables podrán ser representadas en todos los trámites dentro del juicio de amparo en los términos de las disposiciones aplicables. Asimismo, por medio de oficio, podrán acreditar delegados para que hagan promociones, concurran a las audiencias, rindan pruebas, formulen alegatos y promuevan los incidentes y recursos previstos en esta Ley.
 
-> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1986)</small>
+El Presidente de la República será representado en todos los trámites establecidos por esta Ley en los términos que establezca en los acuerdos generales que al efecto se publiquen en el Diario Oficial de la Federación, por las Secretarías de Estado, por la Consejería Jurídica del Ejecutivo Federal y por la Procuraduría General de la República, según corresponda la atención del asunto de acuerdo con la distribución de competencias establecidas en la ley. Los reglamentos interiores correspondientes señalarán las unidades administrativas en las que recaerá la citada representación. En los citados acuerdos generales se señalará el mecanismo necesario para determinar la representación en los casos no previstos por los mismos.
 
-No obstante lo dispuesto en el párrafo anterior, el Presidente de la República podrá ser representado en todos los trámites establecidos por esta Ley, en los términos que determine el propio Ejecutivo Federal por el conducto del Procurador General de la República, por los Secretarios de Estado y Jefes de Departamento Administrativo a quienes en cada caso corresponda el Asunto, según la distribución de competencias establecidas en la Ley Orgánica de la Administración Pública Federal.
-
-> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1986)</small>
-
-En estos casos y en los juicios de amparo promovidos contra los titulares de las propias dependencias del Ejecutivo de la Unión, éstos podrán ser suplidos por los funcionarios a quienes otorguen esa atribución los Reglamentos interiores que se expidan conforme la citada Ley Orgánica.
-
-> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1986)</small>
-
-En los amparos relativos a los asuntos que correspondan a la Procuraduría General de la República, su titular podrá también representar al Presidente de los Estados Unidos Mexicanos, y ser suplido por los funcionarios a quienes otorgue esta atribución el Reglamento de la Ley Orgánica de dicha Procuraduría.
+Las autoridades podrán ser suplidas por los funcionarios a quienes otorguen esa atribución los reglamentos interiores que se expidan conforme a las leyes orgánicas respectivas.
 
 ###### ARTICULO 20.
 
@@ -315,15 +309,21 @@ Las resoluciones deben ser notificadas a más tardar dentro del día siguiente a
 
 El agraviado y el tercero perjudicado podrán autorizar para oír notificaciones en su nombre, a cualquier persona con capacidad legal, quien quedará facultada para interponer los recursos que procedan, ofrecer y rendir pruebas, alegar en las audiencias, solicitar su suspensión o diferimiento, pedir se dicte sentencia para evitar la consumación del término de caducidad o sobreseimiento por inactividad procesal y realizar cualquier acto que resulte ser necesario para la defensa de los derechos del autorizante, pero no podrá substituir o delegar dichas facultades en un tercero. En las materias civil, mercantil o administrativa, la persona autorizada conforme a la primera parte de este párrafo, deberá acreditar encontrarse legalmente autorizada para ejercer la profesión de abogado, y deberán proporcionarse los datos correspondientes en el escrito en que se otorgue dicha autorización; pero las partes podrán designar personas solamente autorizadas para oír notificaciones e imponerse de los autos, a cualquier persona con capacidad legal, quien no gozará de las demás facultades a que se refiere este párrafo.
 
-Las notificaciones al titular del Poder Ejecutivo se entenderán con el Secretario de Estado o Jefe de Departamento Administrativo que deba representarlo en el juicio de amparo, o, en su caso, con el Procurador General de la República, de acuerdo con lo dispuesto en el artículo 19 de esta ley, de manera que una vez que se haya cumplimentado tal disposición las subsecuentes notificaciones se harán directamente a los funcionarios designados, quienes igualmente intervendrán en las actuaciones procesales procedentes. Las notificaciones al Procurador General de la República le deberán ser hechas por medio de oficio dirigido a su residencia oficial.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2009)</small>
+
+Las notificaciones al titular del Poder Ejecutivo se entenderán con el titular de la Secretaría de Estado, con la Consejería Jurídica del Ejecutivo Federal o con la Procuraduría General de la República, que deba representarlo en el juicio de amparo o, en su caso, se estará a lo dispuesto en los acuerdos generales a los que se hace referencia en el artículo 19 de esta Ley. Las notificaciones a las que se hace referencia en este párrafo deberán ser hechas por medio de oficio dirigido a la residencia oficial que corresponda.
 
 ###### ARTICULO 28.
 
 Las notificaciones en los juicios de amparo de la competencia de los juzgados de Distrito, se harán:
 
-(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-I.- A las autoridades responsables y a las autoridades que tengan el carácter de terceros perjudicados, por medio de oficios que serán entregados en el domicilio de su oficina principal, en el lugar del juicio por el empleado del juzgado, quien recabará recibo en el libro talonario cuyo principal agregará a los autos, asentando en ellos la razón correspondiente; y fuera del lugar del juicio, por correo, en pieza certificada con acuse de recibo, el cual se agregará a los autos. Cuando no existiere el libro talonario, se recabará el recibo correspondiente;
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2009)</small>
+
+I.- A los representantes de las autoridades responsables y a las autoridades que tengan el carácter de terceros perjudicados, por medio de oficios que serán entregados en el domicilio de su oficina principal, en el lugar del juicio por el empleado del juzgado, quien recabará recibo en el libro talonario cuyo principal agregará a los autos, asentando en ellos la razón correspondiente; y fuera del lugar del juicio, por correo, en pieza certificada con acuse de recibo, el cual se agregará a los autos. Cuando no existiere el libro talonario, se recabará el recibo correspondiente;
 
 II.- Personalmente, a los quejosos privados de su libertad, ya sea en el local del juzgado o en el establecimiento en que se hallen recluidos, si radican en el lugar del juicio; o por medio de exhorto o despacho si se encontraren fuera de él.
 
@@ -401,9 +401,13 @@ Este incidente, que se considerará como de especial pronunciamiento, pero que n
 
 Las promociones de nulidad notoriamente infundadas se desecharán de plano y se impondrá al promovente una multa de quince a cien días de salario.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 33.
 
-Las autoridades responsables estarán obligadas a recibir los oficios que se les dirijan, en materia de amparo, ya sea en sus respectivas oficinas, en su domicilio o en el lugar en que se encuentren. La notificación surtirá todos sus efectos legales, desde que se entregue el oficio respectivo, ya sea a la propia autoridad responsable o al encargado de recibir la correspondencia en su oficina; y si se negaren a recibir dichos oficios, se tendrá por hecha la notificación y serán responsables de la falta de cumplimiento de la resolución que contenga. El actuario respectivo hará constar en autos el nombre de la autoridad o empleado con quien se entienda la diligencia, y, en su caso, si se niega a firmarla o a recibir el oficio.
+Los representantes de las autoridades responsables estarán obligados a recibir los oficios que se les dirijan en materia de amparo, ya sea en sus respectivas oficinas, en su domicilio o en el lugar en que se encuentren. La notificación surtirá todos sus efectos legales desde que se entregue el oficio respectivo, ya sea a la propia autoridad responsable, a su representante o al encargado de recibir la correspondencia en su oficina, y si se negaren a recibir dichos oficios se tendrá por hecha la notificación y serán responsables de la falta de cumplimiento de la resolución que ésta contenga. El actuario respectivo hará constar en autos el nombre de la autoridad o empleado con quien se entienda la diligencia y, en su caso, si se niega a firmarla o a recibir el oficio.
 
 ###### ARTICULO 34.
 
@@ -1042,6 +1046,12 @@ La interposición del recurso, en forma directa, ante la Suprema Corte de Justic
 Las autoridades responsables sólo podrán interponer recurso de revisión contra las sentencias que afecten directamente al acto que de cada una de ellas se haya reclamado; pero tratándose de amparos contra leyes, los titulares de los órganos de Estado a los que se encomiende su promulgación, o quienes los representen en los términos de esta Ley, podrán interponer, en todo caso, tal recurso.
 
 Se observará lo dispuesto en el párrafo anterior, en cuanto fuere aplicable, respecto de las demás resoluciones que admitan el recurso de revisión.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2009)</small>
+
+Las autoridades responsables podrán interponer el recurso de revisión a través de sus representantes, en los términos de las disposiciones aplicables.
 
 (REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
@@ -2940,3 +2950,7 @@ Segundo. A partir de la entrada en vigor del presente decreto, el Consejo de la 
 D.O.F. 18 DE MARZO DE 2009.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE ABRIL DE 2009.
+
+Único.- El presente Decreto entrará en vigor a los noventa días siguientes al de su publicación en el Diario Oficial de la Federación.
