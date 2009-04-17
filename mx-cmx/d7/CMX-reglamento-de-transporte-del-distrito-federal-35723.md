@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transporte-del-distrito-federal-35723"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-30"
-last_updated: "2003-12-30"
+last_updated: "2009-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35723&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-12-19"
 
 REGLAMENTO DE TRANSPORTE DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE ABRIL DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 30 de diciembre de 2003.
 
@@ -1276,6 +1276,12 @@ Cualquier otra violación a las condiciones establecidas en la concesión o perm
 
 En la comisión de las infracciones establecidas en este Reglamento, se considera solidariamente responsable, al titular de la Concesión o permiso de que se trate.
 
+> <small>(ADICIONADO, G.O. 17 DE ABRIL DE 2009)</small>
+
+###### Artículo 102 Bis.
+
+Los vehículos de transporte de pasajeros o de carga serán remitidos a los depósitos de guarda y custodia de vehículos administrados por la Secretaría, cuando con motivo de las visitas de inspección o verificación así se determine.
+
 ###### Artículo 103.
 
 Para los efectos de este Reglamento se entiende por salario mínimo, el salario mínimo general vigente en el Distrito Federal al momento de la comisión de la infracción.
@@ -1311,3 +1317,11 @@ Tercero.- La Secretaría instrumentará lo necesario para que los Manuales, Inst
 Cuarto.- Las cesiones de derechos efectuadas al amparo de la Ley de Transporte del Distrito Federal publicada en la Gaceta Oficial del Distrito Federal el 21 de diciembre de 1995, se formalizarán conforme al procedimiento que para el efecto establezca la Secretaría.
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los 19 días del mes de diciembre del año dos mil tres.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD.- FRANCISCO GARDUÑO YÁNEZ (SIC).- FIRMA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 17 DE ABRIL DE 2009.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
