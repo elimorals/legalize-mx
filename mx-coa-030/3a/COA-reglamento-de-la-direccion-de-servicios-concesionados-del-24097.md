@@ -4,7 +4,7 @@ identifier: "COA-reglamento-de-la-direccion-de-servicios-concesionados-del-24097
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-01-25"
-last_updated: "2003-04-01"
+last_updated: "2009-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "COA"
 ---
 # REGLAMENTO DE LA DIRECCION DE SERVICIOS CONCESIONADOS DEL MUNICIPIO DE SALTILLO, COAHUILA
 
-REGLAMENTO DE LA DIRECCION DE SERVICIOS CONCESIONADOS DEL MUNICIPIO DE SALTILLO, COAHUILA
+REGLAMENTO DE LA DIRECCIÓN DE SERVICIOS CONCESIONADOS DEL MUNICIPIO DE SALTILLO, COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 1 DE ABRIL DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA DIRECCIÓN DE SERVICIOS CONCESIONADOS DEL MUNICIPIO DE SALTILLO, COAHUILA, PUBLICADO EN EL P.O. DE 17 DE ABRIL DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de enero de 2002.
 
@@ -302,3 +304,9 @@ N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRET
 P.O. 1 DE ABRIL DE 2003.
 
 Estas reformas entrarán en vigor un día después de su publicación en el Periódico Oficial del Gobierno del Estado, independientemente que se haga lo propio en el órgano de difusión oficial del R. Ayuntamiento de Saltillo, Coahuila.
+
+P.O. 17 DE ABRIL DE 2009.
+
+PRIMERO.- El presente reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el reglamento publicado en la Gaceta Municipal en fecha 10 de diciembre de 2001 que fuera aprobado por el H. Cabildo en fecha 30 de noviembre del mismo año.
