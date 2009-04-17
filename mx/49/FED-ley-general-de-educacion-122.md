@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-educacion-122"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-13"
-last_updated: "2008-07-15"
+last_updated: "2009-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE ABRIL DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 13 de julio de 1993.
 
@@ -50,7 +50,9 @@ La función social educativa de las universidades y demás instituciones de educ
 
 Todo individuo tiene derecho a recibir educación y, por lo tanto, todos los habitantes del país tienen las mismas oportunidades de acceso al sistema educativo nacional, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
 
-La educación es medio fundamental para adquirir, transmitir y acrecentar la cultura; es proceso permanente que contribuye al desarrollo del individuo y a la transformación de la sociedad, y es factor determinante para la adquisición de conocimientos y para formar al hombre de manera que tenga sentido de solidaridad social.
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2009)</small>
+
+La educación es medio fundamental para adquirir, transmitir y acrecentar la cultura; es proceso permanente que contribuye al desarrollo del individuo y a la transformación de la sociedad, y es factor determinante para la adquisición de conocimientos y para formar a mujeres y a hombres, de manera que tengan sentido de solidaridad social.
 
 En el proceso educativo deberá asegurarse la participación activa del educando, estimulando su iniciativa y su sentido de responsabilidad social, para alcanzar los fines a que se refiere el artículo 7o.
 
@@ -74,9 +76,11 @@ La educación que el Estado imparta será laica y, por lo tanto, se mantendrá p
 
 La educación que el Estado imparta será gratuita. Las donaciones destinadas a dicha educación en ningún caso se entenderán como contraprestaciones del servicio educativo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 7o.
 
-La educación que impartan el Estado, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios tendrá, además de los fines establecidos en el segundo párrafo del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, los siguientes:
+La educación que imparta el Estado, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios tendrá, además de los fines establecidos en el segundo párrafo del artículo 3 de la Constitución Política de los Estados Unidos Mexicanos, los siguientes:
 
 I.- Contribuir al desarrollo integral del individuo, para que ejerza plenamente sus capacidades humanas;
 
@@ -118,13 +122,21 @@ XIII.- Fomentar los valores y principios del cooperativismo;
 
 > <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 2008)</small>
 
-XIV.- Fomentar la cultura de la transparencia y la rendición de cuentas, así como el conocimiento en los educandos de su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo.
+XIV.- Fomentar la cultura de la transparencia y la rendición de cuentas, así como el conocimiento en los educandos de su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2009)</small>
+
+XIV Bis.- Promover y fomentar la lectura y el libro;
+
+> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2009)</small>
+
+XV.- Difundir los derechos y deberes de niños, niñas y adolescentes y las formas de protección con que cuentan para ejercitarlos.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 8o.
 
-El criterio que orientará a la educación que el Estado y sus organismos descentralizados impartan -así como toda la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica que los particulares impartan- se basará en los resultados del progreso científico; luchará contra la ignorancia y sus causas y efectos; las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos y la discriminación, especialmente la ejercida en contra de las mujeres. Además:
+El criterio que orientará a la educación que el Estado y sus organismos descentralizados impartan -así como toda la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica que los particulares impartan- se basará en los resultados del progreso científico; luchará contra la ignorancia y sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia especialmente la que se ejerce contra las mujeres, niñas y niños, debiendo implementar políticas públicas de Estado orientadas a la transversalidad de criterios en los tres órdenes de gobierno.
 
 I.- Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
 
@@ -258,9 +270,11 @@ VI.- Otorgar, negar y revocar autorización a los particulares para impartir la 
 
 VII.- Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 14.
 
-Adicionalmente a las atribuciones exclusivas a que se refieren los artículos 12 y 13, corresponden a las autoridades educativas federal y locales, de manera concurrente, las atribuciones siguientes:
+Adicionalmente a las atribuciones exclusivas a las que se refieren los artículos 12 y 13, corresponde a las autoridades educativas federal y locales de manera concurrente, las atribuciones siguientes:
 
 I.- Promover y prestar servicios educativos, distintos de los previstos en las fracciones I y IV del artículo 13, de acuerdo con las necesidades nacionales, regionales y estatales;
 
@@ -282,15 +296,19 @@ VIII.- Impulsar el desarrollo de la enseñanza tecnológica y de la investigaci�
 
 IX.- Fomentar y difundir las actividades artísticas, culturales y físico-deportivas en todas sus manifestaciones;
 
+> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2009)</small>
+
+X.- Promover e impulsar en el ámbito de su competencia las actividades y programas relacionados con el fomento de la lectura y el libro, de acuerdo a lo establecido en la ley de la materia;
+
 > <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2006)</small>
 
-X.- Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias;
+XI.- Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias;
 
 > <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2006)</small>
 
-XI.- Promover prácticas cooperativas de ahorro, producción y consumo, de acuerdo a lo establecido en la ley de la materia y el Reglamento de Cooperativas Escolares, y
+XII.- Promover prácticas cooperativas de ahorro, producción y consumo, de acuerdo a lo establecido en la ley de la materia y el Reglamento de Cooperativas Escolares, y
 
-XII.- Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
+XIII.- Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
 
 El Ejecutivo Federal y el gobierno de cada entidad federativa podrán celebrar convenios para coordinar o unificar las actividades educativas a que se refiere esta Ley, con excepción de aquéllas que, con carácter exclusivo, les confieren los artículos 12 y 13.
 
@@ -418,6 +436,10 @@ Las instituciones educativas establecidas por el Estado, por sus organismos desc
 
 Para ello, proporcionarán oportunamente toda la información que se les requiera; tomarán las medidas que permitan la colaboración efectiva de alumnos, maestros, directivos y demás participantes en los procesos educativos; facilitarán que las autoridades educativas, incluida la Secretaría, realicen exámenes para fines estadísticos y de diagnóstico y recaben directamente en las escuelas la información necesaria.
 
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2009)</small>
+
+Sin menoscabo de lo señalado en los párrafos anteriores, las instituciones a que se refiere este artículo están obligadas a generar indicadores sobre su avance en la aplicación de métodos para prevenir y eliminar cualquier forma de discriminación y de violencia, con la finalidad de que sean sujetas a evaluación sobre la materia. Tales indicadores serán de dominio público y se difundirán por los medios disponibles.
+
 ###### ARTICULO 31.
 
 Las autoridades educativas darán a conocer a los maestros, alumnos, padres de familia y a la sociedad en general, los resultados de las evaluaciones que realicen, así como la demás información global que permita medir el desarrollo y los avances de la educación en cada entidad federativa.
@@ -428,7 +450,9 @@ Las autoridades educativas darán a conocer a los maestros, alumnos, padres de f
 
 Las autoridades educativas tomarán medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de cada individuo, una mayor equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso y permanencia en los servicios educativos.
 
-Dichas medidas estarán dirigidas, de manera preferente, a los grupos y regiones con mayor rezago educativo o que enfrenten condiciones económicas y sociales de desventaja.
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2009)</small>
+
+Dichas medidas estarán dirigidas, de manera preferente, a los grupos y regiones con mayor rezago educativo o que enfrentan condiciones económicas y sociales de desventaja en términos de lo dispuesto en los artículos 7o. y 8o. de esta Ley.
 
 ###### ARTICULO 33.
 
@@ -440,9 +464,9 @@ II.- Desarrollarán programas de apoyo a los maestros que realicen su servicio e
 
 III.- Promoverán centros de desarrollo infantil, centros de integración social, internados, albergues escolares e infantiles y demás planteles que apoyen en forma continua y estable el aprendizaje y el aprovechamiento de los alumnos;
 
-> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2009)</small>
 
-IV.- Prestarán servicios educativos para atender a quienes abandonaron el sistema regular, que faciliten la terminación de la educación preescolar, primaria y la secundaria;
+IV.- Prestarán servicios educativos para atender a quienes abandonaron el sistema regular, que faciliten la terminación de la educación preescolar, primaria y la secundaria, otorgando facilidades de acceso, reingreso, permanencia, y egreso a las mujeres;
 
 V.- Otorgarán apoyos pedagógicos a grupos con requerimientos educativos específicos, tales como programas encaminados a recuperar retrasos en el aprovechamiento escolar de los alumnos;
 
@@ -450,7 +474,9 @@ VI.- Establecerán sistemas de educación a distancia;
 
 VII.- Realizarán campañas educativas que tiendan a elevar los niveles culturales, sociales y de bienestar de la población, tales como programas de alfabetización y de educación comunitaria;
 
-VIII.- Desarrollarán programas para otorgar becas y demás apoyos económicos a educandos;
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2009)</small>
+
+VIII.- Desarrollarán programas con perspectiva de género para otorgar becas y demás apoyos económicos a educandos;
 
 IX.- Efectuarán programas dirigidos a los padres de familia, que les permitan dar mejor atención a sus hijos;
 
@@ -458,9 +484,13 @@ X.- Otorgarán estímulos a las asociaciones civiles y a las cooperativas de mae
 
 XI.- Promoverán mayor participación de la sociedad en la educación, así como el apoyo de los particulares al financiamiento y a las actividades a que se refiere este capítulo;
 
-XII.- Concederán reconocimientos y distinciones a quienes contribuyan a la consecución de los propósitos mencionados en el artículo anterior, y
+XII.- Concederán reconocimientos y distinciones a quienes contribuyan a la consecución de los propósitos mencionados en el artículo anterior, y (sic)
 
-XIII.- Realizarán las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos, y alcanzar los propósitos mencionados en el artículo anterior.
+XIII.- Realizarán las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos, y alcanzar los propósitos mencionados en el artículo anterior;
+
+> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2009)</small>
+
+XIV.- Apoyarán y desarrollarán programas destinados a que los padres y/o tutores apoyen en circunstancias de igualdad los estudios de sus hijas e hijos, prestando especial atención a la necesidad de que aquellos tomen conciencia de la importancia de que las niñas deben recibir un trato igualitario y que deben recibir las mismas oportunidades educativas que los varones.
 
 El Estado también llevará a cabo programas asistenciales, ayudas alimenticias, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
 
@@ -506,11 +536,11 @@ De acuerdo con las necesidades educativas específicas de la población, tambié
 
 La educación inicial tiene como propósito favorecer el desarrollo físico, cognoscitivo, afectivo y social de los menores de cuatro años de edad. Incluye orientación a padres de familia o tutores para la educación de sus hijos o pupilos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 41.
 
-La educación especial está destinada a individuos con discapacidades transitorias o definitivas, así como a aquéllos con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, con equidad social.
+La educación especial está destinada a individuos con discapacidades transitorias o definitivas, así como a aquellos con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, con equidad social incluyente y con perspectiva de género.
 
 > <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
 
@@ -601,6 +631,10 @@ Los planes y programas que la Secretaría determine en cumplimiento del presente
 ###### ARTICULO 49.
 
 El proceso educativo se basará en los principios de libertad y responsabilidad que aseguren la armonía de relaciones entre educandos y educadores y promoverá el trabajo en grupo para asegurar la comunicación y el diálogo entre educandos, educadores, padres de familia e instituciones públicas y privadas.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2009)</small>
+
+Además, estará sujeto a los fines y criterios dispuestos en los artículos 7 y 8 del presente ordenamiento, para lo cual se brindará capacitación al personal docente para que éste, a su vez, transmita esa información a los educandos, así como a los padres de familia.
 
 ###### ARTICULO 50.
 
@@ -864,7 +898,19 @@ X.- Ocultar a los padres o tutores las conductas de los alumnos que notoriamente
 
 XI.- Oponerse a las actividades de evaluación, inspección y vigilancia, así como no proporcionar información veraz y oportuna, e
 
-XII.- Incumplir cualesquiera de los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en ella.
+XII.- Incumplir cualesquiera de los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en ella;
+
+> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2009)</small>
+
+XIII.- Administrar a los educandos, sin previa prescripción médica y consentimiento informado de los padres o tutores, medicamentos que contengan sustancias psicotrópicas o estupefacientes;
+
+> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2009)</small>
+
+XIV.- Promover en los educandos, por cualquier medio, el uso de medicamentos que contengan sustancias psicotrópicas o estupefacientes, y
+
+> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2009)</small>
+
+XV.- Expulsar o negarse a prestar el servicio educativo a niñas, niños y adolescentes que presenten problemas de aprendizaje, condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos; presionar de cualquier manera a los padres o tutores para que acudan a médicos o clínicas específicas para la atención de problemas de aprendizaje de los educandos.
 
 Las disposiciones de este artículo no son aplicables a los trabajadores de la educación, en virtud de que, las infracciones en que incurran serán sancionadas conforme a las disposiciones específicas para ellos.
 
@@ -875,6 +921,10 @@ Las infracciones enumeradas en el artículo anterior se sancionarán con:
 I.- Multa hasta por el equivalente a cinco mil veces el salario mínimo general diario vigente en el área geográfica y en la fecha en que se cometa la infracción. Las multas impuestas podrán duplicarse en caso de reincidencia, o
 
 II.- Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondiente.
+
+> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2009)</small>
+
+III.- En el caso de incurrir en las infracciones establecidas en las fracciones XIII y XIV del artículo anterior, se aplicarán las sanciones establecidas en las fracciones I y II de este artículo, sin perjuicio de las penales y de otra índole que resulten.
 
 La imposición de la sanción establecida en la fracción II no excluye la posibilidad de que sea impuesta alguna multa.
 
@@ -1063,5 +1113,23 @@ DECRETO QUE REFORMA LA FRACCION X DEL ARTICULO 7o. DE LA LEY GENERAL DE EDUCACIO
 D.O.F. 15 DE JULIO DE 2008.
 
 DECRETO QUE ADICIONA LA FRACCION XIV AL ARTICULO 7o. DE LA LEY GENERAL DE EDUCACION.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE ABRIL DE 2009.
+
+DECRETO POR EL QUE SE ADICIONAN LAS FRACCIONES XIII, XIV Y XV AL ARTICULO 75 Y FRACCION III AL ARTICULO 76 DE LA LEY GENERAL DE EDUCACION.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE ABRIL DE 2009.
+
+DECRETO POR EL QUE SE ADICIONA LA FRACCION XIV BIS AL ARTICULO 7o. Y LA FRACCION X AL ARTICULO 14 DE LA LEY GENERAL DE EDUCACION.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE ABRIL DE 2009.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 2, 7, 30, 32, 33, 41 Y 49 DE LA LEY GENERAL DE EDUCACION.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
