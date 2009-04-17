@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-30022
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-04-21"
-last_updated: "2008-12-01"
+last_updated: "2009-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30022&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-04-09"
 
 ESTATUTO ORGANICO DE LA FINANCIERA RURAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE ABRIL DE 2009.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 21 de abril de 2003.
 
@@ -687,45 +687,45 @@ XII. Las demás que le encomiende el Director Ejecutivo de Coordinación y Evalu
 
 Corresponde a la Dirección Ejecutiva Fiduciaria:
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2009)</small>
 
-I. Emitir lineamientos para el desarrollo de la actividad fiduciaria y la relacionada con mandatos y comisiones en la Financiera;
+I. Emitir lineamientos para el desarrollo de la actividad fiduciaria, de avalúos y la relacionada con mandatos y comisiones en la Financiera;
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2009)</small>
 
-II. Dictar lineamientos para la contratación, administración y operación del servicio fiduciario, mandatos y comisiones;
+II. Dictar lineamientos para la contratación, administración y operación del servicio fiduciario, de avalúos, mandatos y comisiones;
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2009)</small>
 
-III. Emitir procedimientos en materia de promoción y contratación fiduciaria, mandatos y comisiones;
+III. Emitir procedimientos en materia de promoción y contratación fiduciaria, de avalúos, mandatos y comisiones;
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2009)</small>
 
-IV. Supervisar la atención que se proporcione a los usuarios de los servicios fiduciarios, mandatos y comisiones;
+IV. Supervisar la atención que se proporcione a los usuarios de los servicios fiduciarios, de avalúos, mandatos y comisiones;
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2009)</small>
 
-V. Emitir procedimientos de supervisión en el desarrollo de las actividades en materia fiduciaria, de mandatos y comisiones;
+V. Emitir procedimientos de supervisión en el desarrollo de las actividades en materia fiduciaria, de avalúos, mandatos y comisiones;
 
 > <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 VI. Supervisar el cumplimiento de los fines de los negocios fiduciarios a cargo de la Financiera;
 
-> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2009)</small>
 
-VII. Emitir lineamientos para la gestión y administración de mandatos y comisiones;
+VII. Emitir lineamientos para la gestión y administración de avalúos, mandatos y comisiones, así como de control de los peritos valuadores externos;
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2009)</small>
 
-VIII. Supervisar la ejecución de las disposiciones de la Comisión Nacional Bancaria y de Valores en materia de fideicomisos, mandatos y comisiones, y (sic)
+VIII. Supervisar la ejecución de las disposiciones de la Comisión Nacional Bancaria y de Valores en materia de fideicomisos, avalúos, mandatos y comisiones;
 
 > <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
 IX. Realizar la actividad de administración de fondos que deriven de las disposiciones aplicables y que le sean encomendadas; y
 
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2009)</small>
 
-X. Supervisar el cumplimiento de los lineamientos y procedimientos aplicables en materia de negocios fiduciarios, mandatos y comisiones.
+X. Supervisar el cumplimiento de los lineamientos y procedimientos aplicables en materia de negocios fiduciarios, avalúos, mandatos y comisiones.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -1972,3 +1972,7 @@ UNICO.- La presente Reforma al Estatuto y las modificaciones que en ella se comp
 D.O.F. 1 DE DICIEMBRE DE 2008.
 
 UNICO.- La presente reforma al Estatuto y las modificaciones que en ella se comprenden, deberán publicarse en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE ABRIL DE 2009.
+
+UNICO.- La presente reforma al Estatuto deberá publicarse en el Diario Oficial de la Federación.
