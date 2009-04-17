@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-interior-del-instituto-estatal-de-acceso-a-la-64224"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-24"
-last_updated: "2008-10-24"
+last_updated: "2009-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64224&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 17 DE ABRIL DE 2009.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 24 de octubre de 2008.
 
@@ -1425,45 +1425,49 @@ II. Se contarán por días hábiles, entendiéndose por estos los días a que se
 
 ### CAPÍTULO SEXTO. DE LA APLICACIÓN DE LOS MEDIOS DE APREMIO
 
-#### SECCIÓN PRIMERA. PROCEDIMIENTO PARA EL CUMPLIMIENTO DE LAS RESOLUCIONES DE LOS RECURSOS DE INCONFORMIDAD Y DE REVISIÓN
+> <small>(REFORMADA SU DENOMINACION, D.O. 17 DE ABRIL DE 2009)</small>
+
+#### SECCIÓN PRIMERA. PROCEDIMIENTO PARA VIGILAR EL CUMPLIMIENTO DE LAS RESOLUCIONES DE LOS RECURSOS DE INCONFORMIDAD Y DE REVISIÓN
+
+> <small>(REFORMADO, D.O. 17 DE ABRIL DE 2009)</small>
 
 ###### Artículo 135.
 
-Para la aplicación de los medios de apremio previstos en el artículo 56 de la Ley, en relación con el incumplimiento de las resoluciones de los recursos de inconformidad y de revisión, el Consejo tiene que sujetarse al procedimiento siguiente:
+Para la aplicación de los medios de apremio y sanciones previstos en el artículo 56 de la Ley, n relación con el incumplimiento de las resoluciones de los recursos de inconformidad y de revisión o de cualquier otra resolución emitida por el Pleno del Consejo General, esté tiene que sujetarse al procedimiento siguiente:
 
-I. El inicio del presente procedimiento se llevará a cabo a través de la vista que el Secretario Ejecutivo le dé al Consejo, en el caso del recurso de inconformidad, o de oficio, en el caso de recurso de revisión. Recibida la vista en cuestión, o de oficio por el Consejo, de manera inmediata se radicará, registrándolo bajo el número de expediente que le corresponda, en el libro de gobierno y creando el expediente respectivo;
+I. El inicio del presente procedimiento se llevará a cabo a través de la vista que el Secretario Ejecutivo le dé al Consejo, en el caso del recurso de inconformidad, o de oficio, en el caso de cualquier otra resolución del Consejo o bien del recurso de revisión. Recibida la vista en cuestión, o de oficio por el Consejo, de manera inmediata se radicará, registrándolo bajo el número de expediente que le corresponda, en el libro de gobierno y creando el expediente respectivo;
 
-II. El Consejo, una vez recibida la vista, o de oficio en su caso, dentro de los tres días hábiles siguientes acordará su inicio y correrá traslado con copia de la constancia al Titular de la Unidad de Acceso del sujeto obligado sobre la instauración del procedimiento de mérito, para que en el término de cinco días hábiles a partir del día siguiente de la notificación, rinda un informe acompañando las constancias o pruebas correspondientes;
+II. Cuando se trate del procedimiento de incumplimiento del recurso de inconformidad, el Consejo, una vez recibida la vista dentro de los tres días hábiles siguientes acordará su inicio y correrá traslado con copia de la constancia al Titular de la Unidad de Acceso del sujeto obligado sobre la instauración del procedimiento de mérito, para que en el término de tres días hábiles a partir del día siguiente de la notificación, acompañe las constancias o pruebas correspondientes que acredite su cumplimiento en tiempo de la resolución del recurso; si el incumplimiento recayere sobre una resolución dictada en el recurso de revisión o cualquier otra resolución del Consejo, esta se iniciará de oficio de manera inmediata y se aplicaran los medios de apremio correspondientes.
 
-El Titular de la Unidad de Acceso del sujeto obligado, solo puede ofrecer como prueba de su parte la documental, que en su caso, debe acompañar al informe a que se refiere en la fracción anterior;
+El Titular de la Unidad de Acceso del sujeto obligado, sólo puede ofrecer como prueba de su parte, la documental;
 
-III. Una vez recibido el informe con las constancias o pruebas, que en su caso, acompañe el Titular de la Unidad de Acceso del sujeto obligado, el Consejo designará ponente a uno de sus miembros en términos del párrafo cuarto del artículo 52 de la Ley, para que elabore el proyecto de resolución respectivo;
+III. Una vez recibidas las constancias o pruebas, que en su caso, acompañe el Titular de la Unidad de Acceso del sujeto obligado, o transcurrido el término a que se refiere la fracción anterior, el Consejo de inmediato designará ponente a uno de sus miembros en términos del párrafo cuarto del artículo 52 de la Ley, para que elabore el proyecto de resolución respectivo en un término no mayor de cinco días, mismo que será sometido al pleno al día siguiente;
 
-IV. Si el Titular de la Unidad de Acceso del sujeto obligado, cumpliere con la resolución por la cual se dio inicio al presente procedimiento y remitiere al Consejo las constancias respectivas, antes de que éste emita su resolución, se sobreseerá el presente procedimiento, remitiendo las constancias correspondientes, en su caso, al Secretario Ejecutivo;
+IV. Las resoluciones que recaigan con motivo del presente procedimiento, deben ser notificadas mediante oficio al Titular de la Unidad de Acceso del sujeto obligado, o en su caso, dar aviso al superior jerárquico, precisando la forma en que deben cumplirse, independientemente de la aplicación de los medios de apremio;
 
-V. El Consejero Ponente contará con un plazo de cinco días hábiles para formular el proyecto de resolución, mismo que se someterá al Consejo quien resolverá en un plazo de tres días hábiles, contados a partir de la recepción del proyecto;
+V. Las notificaciones de este procedimiento se llevarán a cabo en los mismos términos que establece el Capítulo Quinto del Título Cuarto del presente Reglamento.
 
-VI. Si el Titular de la Unidad de Acceso del sujeto obligado o bien la Unidad Administrativa o cualquier sujeto obligado incumple con la resolución emitida por el Consejo en el presente procedimiento, se deben aplicar los medios de apremio y en su caso, las sanciones, en el orden previsto en el artículo 56 de la Ley;
+> <small>(REFORMADA SE DENOMINACION, D.O. 17 DE ABRIL DE 2009)</small>
 
-VII. Las resoluciones que recaigan con motivo del presente procedimiento, deben ser notificadas mediante oficio al Titular de la Unidad de Acceso del sujeto obligado, o en su caso, dar aviso al superior jerárquico, precisando la forma en que deben cumplirse;
+#### SECCIÓN SEGUNDA. PROCEDIMIENTO PARA VIGILAR EL CUMPLIMIENTO DE LA LEY
 
-VIII. Las notificaciones de este procedimiento se llevarán a cabo en los mismos términos que establece el Capítulo Quinto del Título Cuarto del presente Reglamento.
-
-#### SECCIÓN SEGUNDA. PROCEDIMIENTO PARA EL CUMPLIMIENTO DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE YUCATÁN
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2009)</small>
 
 ###### Artículo 136.
 
-Para la aplicación de los medios de apremio previstos en el artículo 56 de la Ley, en relación con el incumplimiento de algún requerimiento realizado por el Instituto a los sujetos obligados, para la observancia de la Ley, el Consejo se sujetará al procedimiento siguiente:
+El inicio de este procedimiento se llevará a cabo a través del informe que presente algún Consejero o el Secretario Ejecutivo, al respecto, o una queja ya sea por escrito, vía telefónica, de manera verbal o bien por denuncia anónima, por cualquier persona.
 
-I. El inicio del presente procedimiento se llevará a cabo a través del informe o queja, que en su caso, se presente ante el Consejo, por el Secretario Ejecutivo, algún Consejero o cualquier ciudadano;
+El presente procedimiento se llevará a cabo de la siguiente forma:
 
-II. Si se tratare de un incumplimiento que se derive de las visitas que realice el Instituto a las Unidades de Acceso, para vigilar el cumplimiento del artículo 9 de la Ley, el Consejo de inmediato acordará la aplicación de los medios de apremio, en el orden previstos en el artículo 56 de la Ley;
+I. Recibido el informe o la queja por incumplimiento a la Ley, el Consejo dentro del término de dos días hábiles siguientes, iniciará el procedimiento ordenando una investigación al respecto, para lo cual verificará el incumplimiento por parte de la Unidad de Acceso reportada, a través del personal que estime conveniente.
 
-III. Si se tratare de un incumplimiento distinto al señalado en el párrafo anterior, recibido el informe o queja en cuestión, el Consejo iniciará una investigación al respecto, para lo cual verificará el incumplimiento por parte de la Unidad de Acceso reportada a través del personal que estime conveniente. Asimismo, el Consejo dará vista del informe o queja en cuestión, al Titular de la Unidad de Acceso del sujeto obligado, para que en el término de tres días hábiles a partir del día siguiente de que se le notifique la vista, rinda un informe al respecto;
+II. El Consejo dará vista del informe o queja en cuestión, al Titular de la Unidad de Acceso, a su superior jerárquico y en su caso al Titular del sujeto obligado, para que dentro del término de tres días hábiles contados a partir del día siguiente de que se le notifique la vista, manifieste lo que a su derecho corresponda.
 
-IV. En caso de resultar cierta la irregularidad reportada, distinta a las visitas, el Consejo de inmediato acordará la aplicación de los medios de apremio, en el orden previstos en el artículo 56 de la Ley;
+III. Una vez transcurrido el término establecido, el Consejo resolverá sobre dicha queja en un término no mayor de cinco días hábiles.
 
-V. Si subsistiera la irregularidad, se procederá a lo establecido en los artículos 56 y 57 de la Ley.
+IV. Las notificaciones que se realicen al Titular de la Unidad de Acceso, a su superior jerárquico y, en su caso, al Titular del sujeto obligado y al interesado o quejoso, derivadas de la queja en cuestión, se llevarán a cabo en los mismos términos, que establece el Capitulo Quinto del Titulo cuarto del presente Reglamento.
+
+V. Para hacer cumplir sus determinaciones, el Consejo podrá aplicar los medios de apremio que señala el artículo 56 de la Ley de Acceso a la Información Pública para el Estados y Municipios de Yucatán.
 
 ### CAPÍTULO SÉPTIMO. DE LAS RESPONSABILIDADES Y SANCIONES DE LOS SERVIDORES PÚBLICOS DEL INSTITUTO
 
@@ -1516,3 +1520,11 @@ CONSEJERO
 LIC. PABLO LORÍA VÁZQUEZ
 
 SECRETARIO EJECUTIVO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O. 17 DE ABRIL DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
