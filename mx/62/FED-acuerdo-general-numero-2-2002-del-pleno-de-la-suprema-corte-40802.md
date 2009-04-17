@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-2-2002-del-pleno-de-la-suprema-corte-408
 country: "mx"
 rank: "acuerdo"
 publication_date: "2002-01-31"
-last_updated: "2002-01-31"
+last_updated: "2009-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40802&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-01-24"
 
 ACUERDO GENERAL NUMERO 2/2002, DEL VEINTICUATRO DE ENERO DE DOS MIL DOS, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA MODIFICACION DEL PUNTO OCTAVO DE SU ACUERDO NUMERO 6/1998 DEL NUEVE DE NOVIEMBRE DE MIL NOVECIENTOS NOVENTA Y OCHO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE ABRIL DE 2009.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 31 de enero de 2002.
 
@@ -45,11 +45,7 @@ ACUERDO
 
 UNICO. Se modifica el punto Octavo del Acuerdo General número 6/1998 emitido por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación el nueve de noviembre de mil novecientos noventa y ocho, que regula el trámite de los incidentes de inejecución, las inconformidades y las denuncias de repetición del acto reclamado, para quedar como sigue:
 
-“OCTAVO. Cuando la Secretaría General de Acuerdos reciba un proyecto de resolución en el que se proponga aplicar la sanción prevista en la fracción XVI del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos, de inmediato se deberá:
-
-1.- Hacer llegar a todos los señores Ministros copia del proyecto, de manera que el Tribunal Pleno pueda resolver el asunto dentro de los diez días hábiles siguientes; y
-
-2.- Notificar personalmente a las autoridades responsables respecto de las cuales se concedió el amparo y a quienes, de acuerdo con las propuestas del proyecto, deban tener alguna participación, con la finalidad de que en el caso de que estuviera cumplida la sentencia, procedan a acreditarlo directamente ante la Suprema Corte de Justicia de la Nación.”
+“OCTAVO.- (DEROGADO POR EL PUNTO UNICO DEL ACUERDO 3/2009 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. DE 17 DE ABRIL DE 2009)”
 
 ## TRANSITORIOS
 
@@ -58,3 +54,17 @@ PRIMERO. Este Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que este Acuerdo General número 2/2002, relativo a la modificación del punto Octavo de su Acuerdo número 6/1998 del nueve de noviembre de mil novecientos noventa y ocho, que regula el trámite de los incidentes de inejecución, las inconformidades y las denuncias de repetición del acto reclamado, fue emitido por el Tribunal Pleno en Sesión Privada celebrada el veinticuatro de enero de dos mil dos, por unanimidad de nueve votos de los señores Ministros Sergio Salvador Aguirre Anguiano, Mariano Azuela Güitrón, Juventino V. Castro y Castro, Juan Díaz Romero, José Vicente Aguinaco Alemán, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayagoitia, Olga Sánchez Cordero de García Villegas y Juan N. Silva Meza.- México, Distrito Federal, a veinticuatro de enero de dos mil dos.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 17 DE ABRIL DE 2009.
+
+PRIMERO. Este Acuerdo General entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. En los incidentes de inejecución que a la entrada en vigor de este Acuerdo General se encuentren pendientes de resolución en la Suprema Corte de Justicia de la Nación, en los que no se haya acreditado el cumplimiento del respectivo fallo protector, la notificación a la que se refiere el punto Octavo del Acuerdo General Plenario 6/1998, modificado mediante el diverso 2/2002, se entenderá realizada mediante la publicación del presente Acuerdo General en el Diario Oficial de la Federación.
+
+TERCERO. Una vez transcurridos diez días hábiles después de la publicación de este Acuerdo General en el Diario Oficial de la Federación, el Pleno de este Alto Tribunal resolverá los incidentes a los que se refiere el punto transitorio anterior y, en su caso, aplicará las sanciones señaladas en la fracción XVI del artículo 107 constitucional, con base en las constancias que obren en los expedientes respectivos al momento de celebrar la sesión correspondiente, conforme a la certificación que al efecto expida el Subsecretario General de Acuerdos de esta Suprema Corte de Justicia de la Nación.
+
+CUARTO. El procedimiento relativo a los incidentes de inejecución que se remitan a la Suprema Corte de Justicia de la Nación a partir de la entrada en vigor del presente Acuerdo General se substanciará conforme a lo previsto en el artículo 105 de la Ley de Amparo, en la jurisprudencia de este Alto Tribunal, en el Acuerdo General Plenario 6/1998, salvo lo dispuesto en su punto Octavo derogado mediante este Acuerdo General, y en las diversas disposiciones generales que en su momento expida este Tribunal Pleno.
+
+QUINTO. Publíquese este Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
