@@ -4,7 +4,7 @@ identifier: "COA-ley-de-planeacion-del-estado-de-coahuila-de-zaragoza-17322"
 country: "mx"
 rank: "ley"
 publication_date: "1987-09-08"
-last_updated: "2001-03-20"
+last_updated: "2009-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DE PLANEACION DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PLANEACION DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 17 DE ABRIL DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 8 de septiembre de 1987.
 
@@ -584,3 +586,11 @@ El presente decreto entrará en vigor el día de su publicación en el Periódic
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas las disposiciones en contrario que se opongan al presente Decreto.
+
+P.O. 17 DE ABRIL DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley de Planeación del Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado en fecha 8 de septiembre de 1987.
+
+TERCERO. Quedan vigentes todas las leyes, reglamentos y demás disposiciones legales en materia de planeación, en cuanto no se opongan a la presente Ley.
