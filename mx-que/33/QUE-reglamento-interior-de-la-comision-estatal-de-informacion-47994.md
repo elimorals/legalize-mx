@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-comision-estatal-de-informacion-47994
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-01-13"
-last_updated: "2006-01-13"
+last_updated: "2009-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "QUE"
 
 REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE INFORMACION GUBERNAMENTAL EN EL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE INFORMACION GUBERNAMENTAL DEL ESTADO DE QUERETARO, PUBLICADO EN EL P.O. DE 17 DE ABRIL DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el lunes 13 de enero de 2006.
 
@@ -819,3 +821,19 @@ L.A.E. ALBERTO ESQUIVEL MACEDO
 COMISIONADO
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 17 DE ABRIL DE 2009.
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Segundo. Se abroga el Reglamento Interior de la Comisión Estatal de Información Gubernamental en el Estado de Querétaro, publicado en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" el 13 de enero de 2006.
+
+Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+
+Cuarto. Las referencias que otras disposiciones normativas hagan respecto al Secretario Ejecutivo de la Comisión se entenderán hechas a favor de la Dirección Jurídica en tanto el Comisionado Ejecutivo no determine otra situación.
+
+Quinto. La reestructura funcional y administrativa surtirá efectos a partir de la emisión del presente Reglamento, sin menoscabo que los procedimientos que se hayan iniciado en términos de la Ley Estatal de Acceso a la Información Gubernamental en el Estado de Querétaro publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" el 27 de septiembre de 2002 y del Reglamento referido en el artículo transitorio segundo sean desahogados o concluidos por los funcionarios que asumen las funciones que establece el presente Reglamento en términos de la legislación aplicable en cada caso.
+
+Sexto. El Comisionado Ejecutivo emitirá los nombramientos que conforme al presente Reglamento procedan.
