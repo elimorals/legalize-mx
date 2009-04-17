@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2009-01-05"
+last_updated: "2009-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE ABRIL DE 2009.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -755,6 +755,30 @@ Para los efectos de esta Ley, se considera usuario de servicios de salud a toda 
 ###### ARTICULO 51.
 
 Los usuarios tendrán derecho a obtener prestaciones de salud oportunas y de calidad idónea y a recibir atención profesional y éticamente responsable, así como trato respetuoso y digno de los profesionales, técnicos y auxiliares.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 17 DE ABRIL DE 2009)</small>
+
+Los usuarios tendrán el derecho de elegir, de manera libre y voluntaria, al médico que los atienda de entre los médicos de la unidad del primer nivel de atención que les corresponda por domicilio, en función del horario de labores y de la disponibilidad de espacios del médico elegido y con base en las reglas generales que determine cada institución. En el caso de las instituciones de seguridad social, sólo los asegurados podrán ejercer este derecho, a favor suyo y de sus beneficiarios.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2009)</small>
+
+###### ARTICULO 51 Bis 1.
+
+Los usuarios tendrán derecho a recibir información suficiente, clara, oportuna, y veraz, así como la orientación que sea necesaria respecto de su salud y sobre los riesgos y alternativas de los procedimientos, diagnósticos terapéuticos y quirúrgicos que se le indiquen o apliquen.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2009)</small>
+
+###### ARTICULO 51 Bis 2.
+
+Los usuarios tienen derecho a decidir libremente sobre la aplicación de los procedimientos diagnósticos y terapéuticos ofrecidos. En caso de urgencia o que el usuario se encuentre en estado de incapacidad transitoria o permanente, la autorización para proceder será otorgada por el familiar que lo acompañe o su representante legal; en caso de no ser posible lo anterior, el prestador de servicios de salud procederá de inmediato para preservar la vida y salud del usuario, dejando constancia en el expediente clínico.
+
+Los usuarios de los servicios públicos de salud en general, contarán con facilidades para acceder a una segunda opinión.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2009)</small>
+
+###### ARTICULO 51 Bis 3.
+
+Las quejas que los usuarios presenten por la atención médica recibida, deberán ser atendidas y resueltas en forma oportuna y efectiva por los prestadores de servicios de salud o por las instancias que las instituciones de salud tengan definidas para tal fin, cuando la solución corresponda a su ámbito de competencia.
 
 ###### ARTICULO 52.
 
@@ -5724,21 +5748,21 @@ Se sancionará con multa hasta dos mil veces el salario mínimo general diario v
 
 Se sancionará con multa de dos mil hasta seis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 75, 121, 142, 147, 153, 198, 200, 204, 241, 259, 260, 265, 267, 304, 307, 341, 348, segundo y tercer párrafo, 349, 350 bis, 350 bis 2, 350 bis 3 y 373 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 421.
 
 Se sancionará con una multa equivalente de seis mil hasta doce mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 67, 101, 125, 127, 149, 193, 210, 212, 213, 218, 220, 230, 232, 233, 237, 238, 240, 242, 243, 247, 248, 251, 252, 255, 256, 258, 266, 306, 308, 309, 315, 317, 330, 331, 332, 334, 335, 336, 338, último párrafo, 342, 348, primer párrafo, 350 bis 1, 365, 367, 375, 376, 400, 411 y 413 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 421 Bis.
 
 Se sancionará con multa equivalente de doce mil hasta dieciséis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 100, 122, 126, 146, 166 Bis 19, 166 Bis 20, 205, 235, 254, 264, 281, 289, 293, 298, 325, 327 y 333 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 422.
 
@@ -6475,3 +6499,9 @@ Artículo Primero.- La Secretaría de Salud deberá emitir los reglamentos y Nor
 Artículo Segundo.- La Secretaría de Salud tendrá 180 días naturales para expedir el Reglamento respectivo de este Título, contados a partir de la entrada en vigor del presente Decreto.
 
 Artículo Tercero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE ABRIL DE 2009.
+
+Artículo Primero.- El derecho al que se refiere el artículo 51 podrá ser ejercido por los asegurados del Sistema Nacional de Salud una vez que transcurran 12 meses a partir de la entrada en vigor del presente Decreto, a efecto de que dichos organismos efectúen la reorganización que corresponda en los ámbitos médicos y administrativos.
+
+Artículo Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
