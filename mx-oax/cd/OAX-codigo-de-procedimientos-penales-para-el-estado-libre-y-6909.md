@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-penales-para-el-estado-libre-y-6909"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2008-11-21"
+last_updated: "2009-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO EN LOS TERMINOS DEL TRANSITORIO PRIMERO DEL NUEVO CODIGO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2009.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -3003,9 +3003,23 @@ Todos los habitantes del Estado que no tengan excusa legal, están obligados a a
 
 No se obligará a declarar al cónyuge, tutor, curador o pupilo del inculpado, ni a sus parientes por consanguinidad o afinidad en la línea recta ascendente o descendente sin limitación de grados; en la colateral consanguínea hasta dentro del cuarto grado y en la de afinidad hasta el segundo inclusive, ni a los que están ligados con él por amor, respeto, cariño o estrecha amistad; pero si estas personas tuvieran voluntad de declarar espontáneamente después de que el funcionario que practique la diligencia les advierta que pueden abstenerse de hacerlo, se les recibirá su declaración haciéndose constar esta circunstancia en el acta correspondiente.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2009)</small>
+
 ###### Art. 410.
 
-Las personas que están obligadas a guardar el secreto profesional no podrán ser apremiadas a declarar acerca de los hechos que bajo aquél conozcan, sin previo y espontáneo consentimiento de las personas respecto de quienes tengan aquella obligación. No obstante que hayan obtenido dicho consentimiento podrán abstenerse de declarar si así lo estimaren justo; pero tanto en uno como en otro caso, quedan obligados a declarar sobre hechos que, aunque se relacionen con los que fueren materia del secreto, no estén amparados por él.
+Las personas o servidores públicos que desempeñen cualquier empleo, cargo, oficio o profesión, en virtud del cual la ley les reconozca el deber de guardar reserva o secreto profesional, no están obligadas a declarar sobre la información que reciban, conozcan o tengan en su poder. Sin embargo, estas personas no podrán negar su testimonio cuando sean liberadas por el interesado del deber de guardar secreto; pero tanto en uno como en otro caso, quedan obligados a declarar sobre hechos que, aunque se relacionen con los que fueren materia del secreto, no estén amparados por él.
+
+Quedan comprendidas en esta excepción
+
+I. Los abogados respecto de los asuntos, en los cuales hubieran intervenido y tengan información que deban reservarse por el ejercicio de su profesión;
+
+II. Los ministros de cualquier culto, con motivo de las confesiones que hubieran recibido en ejercicio del ministerio que presten;
+
+Ill. Los periodistas; respecto de los nombres o las grabaciones, registros telefónicos, apuntes, archivos documentales y digitales y todo aquello que de manera directa o indirecta pudiera llevar a la identificación de las personas que, con motivo del ejercicio de su actividad, les proporcionen como información de carácter reservada, en la cual sustenten cualquier publicación o comunicado; y
+
+IV. Los médicos y psicólogos clínicos, respecto de la información concerniente a la salud de sus pacientes, que conozcan con motivo de su ejercicio profesional.
+
+En caso de ser citadas, deberán comparecer y explicar el motivo del cual surge la obligación de guardar secreto y abstenerse de declarar.
 
 ###### Art. 411.
 
@@ -4254,3 +4268,7 @@ P.O. 31 DE AGOSTO DE 2007.
 P.O. 21 DE NOVIEMBRE DE 2008.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE ABRIL DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
