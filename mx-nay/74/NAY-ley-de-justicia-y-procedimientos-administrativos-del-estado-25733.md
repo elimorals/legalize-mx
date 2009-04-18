@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-justicia-y-procedimientos-administrativos-del-estado-257
 country: "mx"
 rank: "ley"
 publication_date: "2002-08-17"
-last_updated: "2002-09-28"
+last_updated: "2009-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el sábado 17 de agosto de 2002
 
@@ -91,9 +91,13 @@ PROCESO ADMINISTRATIVO
 
 Las promociones y actuaciones deben escribirse en lengua española. Cuando las promociones no se presenten escritas en español, se acompañarán de su correspondiente traducción; en caso de que no se exhiba ésta, la autoridad administrativa o el Tribunal la obtendrán, de manera oficiosa, de traductor adscrito, preferentemente, a las dependencias públicas.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ABRIL DE 2009)</small>
+
 ###### Artículo 6o.
 
-Las promociones y actuaciones del procedimiento y proceso administrativo se presentarán o realizarán en forma escrita. Cuando una diligencia se practique de manera oral, deberá documentarse inmediatamente su desarrollo.
+Las promociones y actuaciones del procedimiento y proceso administrativo se presentarán en forma escrita o a través de cualquier otro medio electrónico, óptico o de cualquier otra tecnología. Cuando una diligencia se practique de manera oral, deberá documentarse inmediatamente su desarrollo.
 
 Para documentar el procedimiento y proceso administrativo podrán utilizarse impresos que estén legalmente autorizados, así como los elementos incorporables a un sistema de compilación y reproducción, mecánico o electrónico, que garantice su conservación y recuperación completa y fidedigna.
 
@@ -101,11 +105,35 @@ Para documentar el procedimiento y proceso administrativo podrán utilizarse imp
 
 En las actuaciones se escribirán con letra las fechas y cantidades. No se emplearán abreviaturas ni se enmendarán las frases equivocadas, sobre las que sólo se pondrá una línea delgada que permita la lectura, salvándose con toda precisión el error cometido.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2009)</small>
+
 ###### Artículo 8o.
 
-Toda promoción deberá contener la firma autógrafa de quien la formule, requisito sin el cual no se le dará curso. Cuando el promovente no sepa o no pueda firmar, estampará su huella digital.
+En los procedimientos y procesos administrativos, se recibirán las promociones o solicitudes que los particulares presenten por escrito, sin perjuicio de que dichos documentos puedan presentarse a través de medios electrónicos en las etapas que las propias autoridades así lo determinen mediante reglas generales. En estos últimos casos se emplearán, en sustitución de la firma autógrafa, medios de identificación electrónica.
 
-En caso de duda sobre la autenticidad de la firma, la autoridad administrativa o el Tribunal podrán llamar al interesado, dándole un plazo de tres días, para que en su presencia ratifique la firma y el contenido de la promoción. Si el interesado negare la firma o el contenido del escrito, se rehusare a contestar o no compareciere, se tendrá por no presentada la promoción.
+Es un medio electrónico el mensaje de datos enviado a través de un documento digital. Para los efectos del párrafo anterior se entenderá como firma electrónica certificada, la que se genere al utilizar la clave de seguridad que la autoridad le proporcione al particular.
+
+La clave de seguridad será personal, intransferible y de uso confidencial, por lo que el particular será responsable del uso que dé a la misma para abrir el documento digital que le hubiera sido enviado.
+
+En caso de duda sobre la autenticidad de la firma, la autoridad administrativa o el Tribunal podrán llamar al interesado, para que dentro del término de tres días ratifique la firma y el contenido de la promoción. Si el interesado negare la firma o el contenido del escrito, se rehusare a contestar o no compareciere, se tendrá por no presentada la promoción.
+
+El uso de medios electrónicos será optativo para el interesado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2009)</small>
+
+###### Artículo 8o. Bis.
+
+Los documentos presentados por medios electrónicos producirán los mismos efectos que las leyes otorgan a los documentos firmados autógrafamente y, en consecuencia, tendrán el mismo valor probatorio que las disposiciones aplicables les otorgan a éstos.
+
+La certificación de los medios de identificación electrónica del promovente, así como la verificación de la fecha y hora de recepción de las promociones o solicitudes y de la autenticidad de las manifestaciones vertidas en las mismas, deberán hacerse por las autoridades bajo su responsabilidad, y de conformidad con las disposiciones legales aplicables.
+
+Las autoridades podrán hacer uso de los medios electrónicos para realizar notificaciones, citatorios o requerimientos de documentación e información a los particulares, en términos de lo dispuesto en el artículo 26 de esta Ley.
+
+Cuando los particulares remitan un documento digital, recibirán el acuse de recibo que contenga el sello digital. El que acreditará que un documento digital fue recibido por la autoridad correspondiente y estará sujeto a la misma regulación aplicable al uso de una firma electrónica avanzada. En este caso, dicho sello identificará a la dependencia que recibió el documento y se presumirá, salvo prueba en contrario, que el documento digital fue recibido en la hora y fecha que se consignen en el acuse de recibo mencionado.
 
 ###### Artículo 9o.
 
@@ -215,7 +243,13 @@ Las notificaciones se efectuarán, a más tardar, el día siguiente al en que se
 
 Las notificaciones se harán:
 
-I. Personalmente a los particulares y por oficio a las autoridades administrativas, en su caso, cuando se trate de citaciones, requerimientos y demás resoluciones o actos que puedan ser impugnados. También podrán efectuarse por correo certificado con acuse de recibo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2009)</small>
+
+I. Personalmente, por correo certificado o mensaje de datos con acuse de recibo, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos y por oficio a las autoridades.
+
+En el caso de notificaciones por documento digital, podrán realizarse en la página de internet de la dependencia u organismo descentralizado o mediante correo electrónico, conforme la normatividad que para tales efectos se establezca;
 
 II. Por edicto que se publique por una sola vez en el Periódico Oficial, Órgano del Gobierno del Estado, o en la Gaceta Municipal respectiva cuando se trate de autoridades municipales y en uno de los periódicos de mayor circulación en el ámbito estatal o municipal, según corresponda, tratándose de citaciones, requerimientos y demás resoluciones o actos que puedan impugnarse, cuando el particular a quien deba notificarse hubiere desaparecido, se ignore su domicilio, se encuentre fuera del territorio estatal sin haber dejado representante legal en el mismo o hubiere fallecido y no se conozca al albacea de la sucesión;
 
@@ -243,7 +277,11 @@ Las notificaciones surtirán sus efectos:
 
 I. Las personales, a partir del día siguiente hábil de la fecha en que fueren practicadas;
 
-II. Las que se efectúen por oficio o correo certificado, desde el día siguiente hábil a aquel en que se reciban, salvo disposición legal en contrario;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2009)</small>
+
+II. Las que se efectúen por oficio o correo certificado o mensaje de datos con acuse de recibo desde el día siguiente hábil posterior a aquel en que se reciban, salvo disposición en contrario;
 
 III. Las que se hagan por edicto, desde el día hábil posterior al de la publicación; y
 
@@ -331,7 +369,11 @@ I. Autoridad a la que se dirige;
 
 II. Nombre del peticionario y, en su caso, de quien promueva en su nombre, adjuntando el documento con que este último acredite su personalidad;
 
-III. Domicilio para oír notificaciones y recibir toda clase de documentos en el lugar de residencia de la autoridad a la que se dirige la petición;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2009)</small>
+
+III. Domicilio para oír y recibir toda clase de notificaciones y documentos en el lugar de residencia de la autoridad a la que se dirige la petición o dirección de correo electrónico para ese efecto;
 
 IV. Los planteamientos y peticiones concretas que se hagan;
 
@@ -349,9 +391,13 @@ En las peticiones en las que se formulen denuncias o quejas que se presenten ant
 
 Cuando el escrito de petición carezca de alguno de los datos o documentos que se indican en el artículo 43 del presente ordenamiento, la autoridad administrativa requerirá al promovente para que, en un plazo de tres días, los proporcione, apercibiéndole, según corresponda, en el caso de que no los presentare.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ABRIL DE 2009)</small>
+
 ###### Artículo 46.
 
-Los escritos dirigidos a las autoridades administrativas deberán presentarse directamente en sus oficinas o en las oficialías de partes u otras autorizadas para tales efectos, o enviarse mediante correo certificado o mensajería con acuse de recibo, salvo el escrito inicial del recurso administrativo de inconformidad. Los escritos enviados por estos medios se considerarán presentados en las fechas que indique el sello o instrumento fechador de cuando fueron recibidos por el correo o por la empresa de mensajería .
+Los escritos dirigidos a las autoridades administrativas deberán presentarse directamente en sus oficinas o en las oficialías de partes u otras autorizadas para tales efectos, o enviarse mediante correo electrónico con firma electrónica, correo certificado o mensajería con acuse de recibo, incluso el escrito inicial del recurso administrativo de inconformidad. Los escritos enviados por estos medios se considerarán presentados en las fechas que indique el sello impreso o digital o instrumento fechador de cuando fueron recibidos por el correo o por la empresa de mensajería.
 
 No podrán ser rechazados los escritos que se presenten en las oficinas de las autoridades administrativas. Los servidores públicos asignados a estas oficinas harán constar mediante sellos fechadores, o anotaciones firmadas, la recepción de los documentos que se les presenten en la copia que para tales efectos exhiba el interesado.
 
@@ -923,7 +969,11 @@ El escrito de interposición del recurso deberá presentarse ante la autoridad a
 
 El escrito de interposición del recurso deberá llenar los siguientes requisitos formales:
 
-I. El nombre y domicilio del recurrente para recibir notificaciones y, en su caso, de quien promueva en su nombre;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2009)</small>
+
+I. El nombre y domicilio del recurrente o dirección de correo electrónico para recibir notificaciones o de quien promueva en su nombre;
 
 II. La resolución impugnada;
 
@@ -969,7 +1019,11 @@ Cuando sea procedente el recurso, se dictará acuerdo sobre su admisión, en el 
 
 La autoridad administrativa competente desechará el recurso, cuando:
 
-I. El escrito de interposición no contenga la firma autógrafa o huella digital del promovente;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2009)</small>
+
+I. El escrito de interposición no contenga la firma autógrafa o huella digital del promovente, o bien cuando la firma electrónica no esté debidamente certificada;
 
 II. Si encontrare motivo manifiesto e indubitable de improcedencia; y
 
@@ -1341,7 +1395,11 @@ c)Cuando, con motivo de la contestación, se introduzcan cuestiones que no sean 
 
 La demanda y, en lo conducente, su ampliación, deberá contener los siguientes requisitos formales:
 
-I. El nombre y domicilio del actor para recibir notificaciones y, en su caso, de quien promueva en su nombre;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2009)</small>
+
+I. El nombre y domicilio del actor o en su caso la dirección de correo electrónico para recibir notificaciones o de quien promueva en su nombre;
 
 II. El acto o la disposición general que se impugna;
 
@@ -1405,7 +1463,11 @@ El magistrado instructor, antes de desechar cualquier prueba, deberá prevenir a
 
 La Sala desechará la demanda, cuando:
 
-I. No contenga la firma autógrafa o huella digital del promovente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2009)</small>
+
+I. No contenga la firma autógrafa o huella digital del promovente, o bien cuando la firma electrónica no esté debidamente certificada;
 
 II. Prevenido el actor para que la subsane, no lo hiciere;
 
@@ -2214,3 +2276,9 @@ Lic. Adán Meza Barajas.
 P.O. 28 DE SEPTIEMBRE DE 2002
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 18 DE ABRIL DE 2009.
+
+Artículo Primero.- El presente decreto entrara en vigor a los 180 días naturales siguientes a la fecha de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- En el plazo planteado en el artículo primero transitorio del presente Decreto, el Gobernador del Estado, el Tribunal de Justicia Administrativa y los Ayuntamientos, en el ámbito de sus respectivas competencias, deberán expedir los reglamentos y/o lineamientos necesarios para poner en funcionamiento los procedimientos de carácter electrónico y su reconocimiento, asignando competencias y facultades según corresponda, para lograr su mejor aplicación.
