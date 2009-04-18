@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-civiles-para-el-estado-de-nayarit-6808
 country: "mx"
 rank: "codigo"
 publication_date: "1992-11-21"
-last_updated: "2007-12-15"
+last_updated: "2009-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2009.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 21 de noviembre de 1992.
 
@@ -1687,9 +1687,27 @@ II.- El dictamen de perito;
 
 III.- La declaración de testigos;
 
-IV.- La presunción humana; y
+IV.- La presunción humana; y (sic)
 
 V.- Las fotografías, copias fotostáticas y demás medios que produzcan convicción.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2009)</small>
+
+VI.- La información difundida que conste en medios electrónicos, ópticos o en cualquier otra tecnología.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2009)</small>
+
+###### ARTICULO 239 Bis.
+
+Se reconoce como prueba la información difundida que conste en medios electrónicos, ópticos o en cualquier otra tecnología.
+
+La información a que se refiere el párrafo anterior, será valorada al prudente arbitrio del juez, estimando primordialmente la fiabilidad del método en que haya sido generada, comunicada, recibida o archivada y, en su caso, si es posible atribuir a las personas obligadas el contenido de la información relativa y ser accesible para su ulterior consulta.
+
+Cuando la ley requiera que un documento sea conservado y presentado en su forma original, ese requisito quedará satisfecho si se acredita que la información generada, comunicada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología, se ha mantenido íntegra e inalterada a partir del momento en que se generó por primera vez en su forma definitiva y ésta pueda ser accesible para su ulterior consulta.
 
 ###### ARTICULO 240.
 
@@ -3545,7 +3563,9 @@ En cualquier estado del juicio el Juez podrá ordenar que la custodia de los hij
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
-ARTÍCULO 507 bis.- Podrá ejercitarse acción para retener o recuperar la posesión de derechos paterno-filiales.
+###### ARTICULO 507 Bis.
+
+Podrá ejercitarse acción para retener o recuperar la posesión de derechos paterno-filiales.
 
 > <small>(F. DE E., P.O. 10 DE ENERO DE 2001)</small>
 
@@ -4876,3 +4896,7 @@ P.O. 15 DE DICIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 18 DE ABRIL DE 2009.
+
+Artículo Único.- El presente decreto entrara en vigor a los 180 días naturales siguientes a la fecha de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
