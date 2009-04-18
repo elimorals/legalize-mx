@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2008-03-12"
+last_updated: "2009-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2009.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -6905,9 +6905,13 @@ Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir
 
 Del consentimiento.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2009)</small>
+
 ###### Artículo 1176.
 
-El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por ley o por convenio la voluntad deba manifestarse expresamente.
+El consentimiento puede ser expreso o tácito. Será expreso cuando la voluntad se manifiesta verbal, por escrito, o mediante cualquier recurso tecnológico o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o permitan presumirlo, excepto en los casos en que por ley o por convenio la voluntad deba manifestarse expresamente.
 
 ###### Artículo 1177.
 
@@ -6917,7 +6921,11 @@ Toda persona que propone a otra la celebración de un contrato fijándole un pla
 
 Cuando la oferta se haga a una persona presente, sin fijación de plazo para aceptarla, el autor de la oferta queda desligado si la aceptación no se hace inmediatamente.
 
-La misma regla se aplicará a la oferta hecha por teléfono.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2009)</small>
+
+La misma regla se aplicará a la oferta hecha por teléfono o a través de cualquier otro medio electrónico, óptico o de cualquier otra tecnología que permita la expresión de la oferta y la aceptación de ésta en forma inmediata.
 
 ###### Artículo 1179.
 
@@ -6942,6 +6950,12 @@ El proponente quedará libre de su oferta cuando la respuesta que reciba no sea 
 ###### Artículo 1184.
 
 La propuesta y aceptación por telégrafo producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar y si los originales de los respectivos telegramas contienen las firmas de los contratantes y los signos convencionales establecidos entre ellos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE ABRIL DE 2009)</small>
+
+Tratándose de la propuesta y aceptación hechas a través de medios electrónicos o de cualquier otra tecnología no se requerirá de estipulación previa entre los contratantes para que produzca efectos.
 
 Vicios del Consentimiento.
 
@@ -15970,3 +15984,7 @@ El presente decreto entrará en vigor el día de su publicación en el Periódic
 ###### ARTÍCULO SEGUNDO.
 
 Comuníquese el presente decreto a la Suprema Corte de Justicia de la Nación.
+
+P.O. 18 DE ABRIL DE 2009.
+
+Artículo Único.- El presente decreto entrara en vigor a los 180 días naturales siguientes a la fecha de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
