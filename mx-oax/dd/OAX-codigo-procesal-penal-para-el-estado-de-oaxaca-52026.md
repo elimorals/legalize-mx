@@ -4,7 +4,7 @@ identifier: "OAX-codigo-procesal-penal-para-el-estado-de-oaxaca-52026"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-09"
-last_updated: "2007-08-31"
+last_updated: "2009-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR SUCESIVAMENTE EN LOS TERMINOS SEÑALADOS EN EL PROPIO TRANSITORIO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2009.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de septiembre de 2006.
 
@@ -3443,7 +3443,9 @@ Deberá informarse a las personas mencionadas de la facultad de abstención ante
 
 Deber de guardar secreto
 
-Es inadmisible el testimonio de personas que, respecto del objeto de su declaración, tengan el deber de guardar secreto con motivo del conocimiento en razón del oficio o profesión, tales como los ministros religiosos, abogados, notarios, médicos, psicólogos, farmacéuticos, enfermeros y demás auxiliares de las ciencias médicas, así como los funcionarios públicos sobre información que no es susceptible de divulgación según las leyes de la materia.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ABRIL DE 2009)</small>
+
+Es inadmisible el testimonio de personas que, respecto del objeto de su declaración, tengan el deber de guardar secreto con motivo del conocimiento en razón del oficio o profesión, tales como los ministros religiosos, abogados, notarios, periodistas, médicos, psicólogos, farmacéuticos, enfermeros y demás auxiliares de las ciencias médicas, así como los funcionarios públicos sobre información que no es susceptible de divulgación según las leyes de la materia.
 
 Sin embargo, estas personas no podrán negar su testimonio cuando sean liberadas por el interesado del deber de guardar secreto.
 
@@ -4876,3 +4878,7 @@ Rúbrica.
 P.O. 31 DE AGOSTO DE 2007.
 
 ÚNICO: El presente Decreto entrará en vigor a partir del día nueve de septiembre del año 2007. Publíquese previamente en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE ABRIL DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
