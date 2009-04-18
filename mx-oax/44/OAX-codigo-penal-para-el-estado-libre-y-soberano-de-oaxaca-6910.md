@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2008-11-21"
+last_updated: "2009-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2009.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -1713,17 +1713,23 @@ XL.- Cuando las autoridades de policía o cualesquiera otras, no den al Minister
 
 Los delitos a que se refiere este artículo producen acción popular.
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2009)</small>
 
 XLI.- Cuando teniendo funciones de seguridad pública detente o posea, enajene o trafique con vehículo robado o se dedique al desmantelamiento, comercialización de sus partes, brinde protección a los grupos o bandas dedicadas a la alteración, modificación de los datos o partes de identificación de vehículos o de la documentación que los identifique o acredite su propiedad.
 
-La posesión y detentación, no será sancionada en las excepciones previstas por la Ley.
+La posesión y detentación, no será sancionada en las excepciones previstas por la Ley; y
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2009)</small>
+
+XLII.- Obligue a declarar a las personas que se mencionan en el artículo 410 del Código de Procedimientos Penales para el Estado Libre y Soberano de Oaxaca, acerca de la información obtenida con motivo del desempeño de su actividad.
 
 > <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1982)</small>
 
 209.- Se aplicará destitución de empleo e inhabilitación para obtener otro cargo por un término de un año y multa de cinco mil a veinticinco mil pesos, a quienes cometan la violación de que habla la fracción XXII del Artículo anterior.
 
-Se aplicará prisión de seis meses a tres años, multa de cinco mil a veinticinco mil pesos, destitución de empleo, cargo, o comisión e inhabilitación por un año para ocupar otro, a quienes cometan las infracciones a que se refieren las fracciones III, VI, X, XII, XIII, XV, XVI, XVII, XXV, XXVI, XXVII, XXXII, XXXIV, XXXV, XXXVI y XXXVII, del Artículo que precede.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2009)</small>
+
+Se aplicará prisión de seis meses a tres años, multa de cinco mil a veinticinco mil pesos, destitución de empleo, cargo, o comisión, e inhabilitación por un año para ocupar otro, a quienes cometan las infracciones a que se refieren las fracciones III, VI, X, XII, XIII, XV, XVI, XVII, XXV, XXVI, XXVII, XXXII, XXXIV, XXXV, XXXVI, XXXVII y XLII, del artículo que precede.
 
 Se aplicará prisión de seis meses a seis años, multa de cinco mil a veinticinco mil pesos, destitución de empleo, cargo o comisión, inhabilitación por dos años para ocupar otro, a los que cometan los delitos señalados en las Fracciones I, IV, V, VII, VIII, IX, XIV, XVIII, XIX, XX, XXI, XXVIII, XXIX, XXX y XXXI del Artículo anterior.
 
@@ -1757,9 +1763,17 @@ IV.- Cuando se niegue bajo cualquier pretexto, aunque sea el de obscuridad o sil
 
 V.- Cuando ordene indebidamente la libertad de alguna persona que se encuentre a disposición de otras autoridades o presione a éstas para que ordene esa libertad indebida;
 
-VI.- Cuando se abstenga de promover por morosidad o por cualquiera otro motivo la investigación de los delitos de que tuviere conocimiento, si la ley le impone esa obligación; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2009)</small>
 
-VII.- Aprovechar el poder, el empleo o el cargo para satisfacer indebidamente algún interés propio.
+VI.- Cuando se abstenga de promover por morosidad o por cualquiera otro motivo la investigación de los delitos de que tuviere conocimiento, si la ley le impone esa obligación;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2009)</small>
+
+VII.- Aprovechar el poder, el empleo o el cargo para satisfacer indebidamente algún interés propio; y
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2009)</small>
+
+VIII.- Obligar a declarar a las personas que se mencionan en el artículo 410 del Código de Procedimientos Penales para el Estado Libre y Soberano de Oaxaca, acerca de la información obtenida con motivo del desempeño de su actividad.
 
 ### CAPITULO IV.
 
@@ -2537,91 +2551,55 @@ IV.- Los Jueces podrán, además, declarar a los infractores, sujetos a la vigil
 
 329.- (DEROGADO, P.O. 19 DE ABRIL DE 1997)
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2009)</small>
+
 ### CAPITULO II.
 
 Injurias y difamación.
 
-330.- El delito de injurias se castigará con tres días a un año de prisión o multa de cien a mil pesos, o ambas sanciones, a juicio del Juez.
+330.- (DEROGADO, P.O. 18 DE ABRIL DE 2009)
 
-Injuria es toda expresión hecha en forma verbal o escrita o toda acción ejecutada para manifestar desprecio a otro o con el fin de hacerle una ofensa.
+331.- (DEROGADO, P.O. 18 DE ABRIL DE 2009)
 
-331.- Cuando las injurias fueren recíprocas, el Juez podrá, según las circunstancias, declarar exentas de sanción a las dos partes o a alguna de ellas, o exigirles caución de no ofender.
+332.- (DEROGADO, P.O. 18 DE ABRIL DE 2009)
 
-332.- La difamación será sancionada con prisión de seis meses a cinco años y multa de quinientos a mil pesos.
+333.- (DEROGADO, P.O. 18 DE ABRIL DE 2009)
 
-La difamación consiste en comunicar dolosamente a una o a más personas, la imputación que se hace a otra persona física o moral, en los casos previstos por la Ley, de un hecho cierto o falso, determinado o indeterminado, que pueda causarle deshonra, descrédito, perjuicio o exponerlo al desprecio de alguien.
+334.- (DEROGADO, P.O. 18 DE ABRIL DE 2009)
 
-333.- Al acusado de difamación se le admitirá prueba de su imputación en los dos casos siguientes:
+335.- (DEROGADO, P.O. 18 DE ABRIL DE 2009)
 
-I.- Cuando la imputación se haya hecho a un depositario o agente de la autoridad, o a cualquier otra persona que haya obrado con carácter público, si la imputación fuere relativa al ejercicio de sus funciones; y,
+336.- (DEROGADO, P.O. 18 DE ABRIL DE 2009)
 
-II.- Cuando el hecho imputado esté declarado cierto por sentencia irrevocable, y el acusado obre por motivo de interés público o por interés privado, pero legítimo, y sin ánimo de dañar.
+337.- (DEROGADO, P.O. 18 DE ABRIL DE 2009)
 
-En estos casos se librará de toda sanción al acusado, si probare su imputación.
-
-334.- No se aplicará sanción alguna como infractor de difamación ni de injurias:
-
-I.- Al que manifieste técnicamente su parecer sobre alguna producción literaria, artística, científica o industrial;
-
-II.- Al que manifieste su juicio sobre la capacidad, instrucción, aptitud o conducta de otro, si probare que obró en cumplimiento de un deber o por interés público, o con la debida reserva lo hizo por humanidad, por prestar un servicio a una persona con quien tenga parentesco o amistad, o dando informes que se le hubieren pedido, si no lo hiciere a sabiendas calumniosamente; y
-
-III.- Al autor de un escrito presentado o de un discurso pronunciado en los tribunales, pues si hiciere uso de alguna expresión difamatoria o injuriosa, los Jueces según la gravedad del caso le aplicarán alguna de las correcciones disciplinarias que permita la Ley.
-
-335.- Lo prevenido en la Fracción última del Artículo anterior, no comprende el caso en que la imputación sea calumniosa, o se extienda a personas extrañas al litigio, o envuelva hechos que no se relacionen con el negocio de que se trata. Si así fuere, se aplicarán las sanciones de la injuria, de la difamación o de la calumnia.
-
-336.- El injuriado o difamado a quien se impute un delito determinado que no se pueda perseguir de oficio, podrá quejarse de injuria, de difamación o de calumnia, según le conviniere.
-
-Cuando el delito sea de los que se persiguen de oficio, solamente podrá acusarse por calumnia.
-
-Cuando la queja fuere de calumnia, se permitirá al responsable ofrecer pruebas de su imputación, y si ésta quedare probada, se librará aquél de toda sanción, excepto en el caso del artículo 337 de éste Código.
-
-337.- No servirá de excusa de la difamación ni de la calumnia que el hecho imputado sea notorio, o que el infractor no haya hecho más que reproducir lo ya publicado en la República o en otro País.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2009)</small>
 
 ### CAPITULO III.
 
 Calumnia.
 
-338.- El delito de calumnia se castigará con prisión de seis meses a cinco años y multa de cien a quinientos pesos:
+338.- (DEROGADO, P.O. 18 DE ABRIL DE 2009)
 
-I.- Al que impute a otro un hecho determinado y calificado como delito por la Ley, si este hecho es falso, o es inocente la persona a quien se impute;
+339.- (DEROGADO, P.O. 18 DE ABRIL DE 2009)
 
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2000)</small>
+340.- (DEROGADO, P.O. 18 DE ABRIL DE 2009)
 
-II.- Al que presente denuncia o quejas calumniosas, entendiéndose por tales, aquéllas en que su autor impute un delito o persona determinada sabiendo que ésta es inocente o que aquél no se ha cometido; y
+341.- (DEROGADO, P.O. 18 DE ABRIL DE 2009)
 
-III.- Al que, para hacer que un inocente aparezca como autor de un delito, ponga sobre la persona del calumniado, en su casa o en otro lugar adecuado para ese fin, una cosa que pueda dar indicios o presunciones de responsabilidad.
-
-En los casos de las dos últimas Fracciones, si el calumniado es condenado por sentencia irrevocable, se impondrá al calumniador, la pena que a aquél se le hubiere impuesto.
-
-339.- Aún cuando se acredite la inocencia del calumniador o que son falsos los hechos en que se apoya la denuncia, la queja o la acusación, no se castigará como calumniador al que las hizo, si probare plenamente haber tenido causas bastantes para incurrir en error.
-
-Tampoco se aplicará sanción alguna al autor de una denuncia, queja o acusación, si los hechos que en ella se imputan son ciertos, aunque no constituya un delito, y él, errónea o falsamente, les haya atribuido ese carácter.
-
-340.- No se admitirá prueba alguna de su imputación al acusado de calumnia, ni se librará de la sanción correspondiente, cuando exista una sentencia irrevocable que haya absuelto al calumniado del mismo delito que aquél le impute.
-
-341.- Cuando haya pendiente un juicio, en averiguación de un delito imputado a alguien calumniosamente, se suspenderá el ejercicio de la acción de calumnia hasta que dicho juicio termine.
-
-En este caso la prescripción comenzará a correr cuando termine el juicio.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2009)</small>
 
 ### CAPITULO IV.
 
 Disposiciones comunes para los capítulos procedentes.
 
-342.- No se podrá proceder contra el autor de una injuria, difamación o calumnia, sino por queja de la persona ofendida excepto en los casos siguientes:
+342.- (DEROGADO, P.O. 18 DE ABRIL DE 2009)
 
-I.- Si el ofendido ha muerto y la injuria, la difamación o la calumnia, fueren posteriores a su fallecimiento, sólo se podrá proceder en virtud de queja del cónyuge, de los ascendientes, los descendientes o de los hermanos.
+343.- (DEROGADO, P.O. 18 DE ABRIL DE 2009)
 
-Cuando la injuria, la difamación o la calumnia, sean anteriores al fallecimiento del ofendido, no se atenderá la queja de las personas mencionadas, si aquél hubiere permitido la ofensa a sabiendas de que se le había inferido, no hubiere presentado en vida su queja pudiendo hacerlo, ni prevenido que lo hicieren sus herederos;
+344.- (DEROGADO, P.O. 18 DE ABRIL DE 2009)
 
-II.- Cuando la ofensa sea contra el Estado.
-
-343.- En casos de injuria, difamación o calumnia contra la Legislatura del Estado, contra el Tribunal Superior o contra cualquier otro Cuerpo Colegiado o Institución Oficial, se castigarán conforme a las reglas de este Título, sin perjuicio de lo dispuesto por el Artículo 188 de este Código.
-
-344.- Los escritos, estampas pinturas o cualquier otra cosa que hubiere servido de medio para la injuria, la difamación o la calumnia, se recogerán y se inutilizarán, a menos que se trate de algún documento público o de uno privado que importe obligación, liberación o transmisión de derechos. En tal caso, se hará en el documento una anotación sumaria, de la sentencia pronunciada contra el acusado.
-
-345.- Siempre que sea el condenado el autor de una injuria, de una difamación o de una calumnia, si lo solicita la persona ofendida, se publicará la sentencia en dos periódicos, a costa de aquél.
-
-Cuando el delito se cometa por medio de algún periódico, los dueños, gerentes o directores de éste, tengan o no responsabilidad penal, estarán obligados a publicar el fallo, imponiéndoseles multa de cien pesos por cada día que pase sin hacerlo, después de aquél en que se les notifique la sentencia. El importe de la multa no podrá exceder de diez mil pesos.
+345.- (DEROGADO, P.O. 18 DE ABRIL DE 2009)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 1 DE ABRIL DE 2002)</small>
 
@@ -3628,3 +3606,7 @@ P.O. 16 DE AGOSTO DE 2008.
 P.O. 21 DE NOVIEMBRE DE 2008.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE ABRIL DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
