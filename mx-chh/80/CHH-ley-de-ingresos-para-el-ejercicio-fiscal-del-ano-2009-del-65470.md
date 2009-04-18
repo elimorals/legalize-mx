@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ingresos-para-el-ejercicio-fiscal-del-ano-2009-del-65470
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2008-12-27"
-last_updated: "2008-12-27"
+last_updated: "2009-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65470&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE INGRESOS PARA EL EJERCICIO FISCAL DEL AÑO 2009
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2009.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 2008.
 
@@ -346,6 +346,18 @@ El pago de los derechos que se generen por la prestación de los servicios corre
 ###### ARTÍCULO DUODÉCIMO.
 
 Se condona el pago de los derechos que se generen por la expedición de los certificados de inexistencia de registro de nacimiento y la multa que se aplica por concepto del registro extemporáneo a todas las personas que se inscriban al programa "Chihuahua todos Registrados"; de igual manera, se condona el pago de los derechos a las personas que se inscriban al programa "Matrimonios Colectivos", que promueva la Dirección del Registro Civil durante el año 2009.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2009)</small>
+
+Se establece con carácter general un programa de condonaciones en los siguientes Derechos estatales:
+
+I.- Un 100 por ciento de condonación en el pago por los derechos que se causen por los servicios prestados por la Dirección del Registro Civil, en la expedición de copias certificadas de actas de nacimiento, defunción y matrimonio.
+
+II.- Un 100 por ciento de condonación en el pago por los derechos que se causen por los servicios prestados por la Procuraduría General de Justicia en el Estado, en la expedición de las constancias relativas a antecedentes penales.
+
+III.- Un 50 por ciento de condonación en el pago por los derechos que se causen por los servicios prestados por la Dirección de Vialidad y Protección Civil, en la reposición y canje de licencias de conducir.
+
+IV.- Un 100 por ciento de condonación en el pago por los derechos que se causen por los servicios prestados por la Dirección del Registro Público de la Propiedad y del Notariado, por la inscripción del patrimonio familiar.
 
 ARTÍCULO DECIMOTERCERO.- Se autoriza al Ejecutivo del Estado para que, por conducto de la Secretaría de Finanzas y Administración, directamente o a través de un fideicomiso, celebre la contratación de financiamiento, empréstitos y otras formas de crédito público, en las mejores condiciones que el mercado crediticio ofrezca y en los términos de la ley de Deuda Pública para el Estado de Chihuahua y sus Municipios, de hasta 2,350 millones de pesos, más intereses, gastos, comisiones, impuestos o derechos y demás accesorios financieros de la contratación, pagaderos en moneda nacional y en nuestro territorio.
 
@@ -2522,3 +2534,15 @@ LIC. JOSÉ REYES BAEZA TERRAZAS.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. SERGIO GRANADOS PINEDA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE ABRIL DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las condonaciones que con carácter general se establecen en el presente Decreto, tendrán vigencia durante el año calendario de 2009, con efectos a partir del 20 de enero de 2009.
