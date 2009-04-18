@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-adquisiciones-arrendamientos-contratacion-de-10975"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-13"
-last_updated: "2007-06-30"
+last_updated: "2009-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CHH"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA “LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA”, PUBLICADA EN EL P.O. EL 23 DE DICIEMBRE DE 2000, SE DEROGAN TODAS LAS DISPOSICIONES REFERENTES A LA OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA CONTENIDOS EN LA “LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA DEL ESTADO DE CHIHUAHUA”, PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DEL 13 DE SEPTIEMBRE DE 1997 Y SUS POSTERIORES REFORMAS.]</small>
+> <small>[N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA "LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA", PUBLICADA EN EL P.O. EL 23 DE DICIEMBRE DE 2000, SE DEROGAN TODAS LAS DISPOSICIONES REFERENTES A LA OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA CONTENIDOS EN LA "LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA DEL ESTADO DE CHIHUAHUA", PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DEL 13 DE SEPTIEMBRE DE 1997 Y SUS POSTERIORES REFORMAS.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2009.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 13 de septiembre de 1997.
 
@@ -659,11 +659,13 @@ XI. Las demás que por cualquier causa se encuentren impedidas para ello por dis
 
 Para los supuestos previstos en las fracciones IV, V, VI, VII y VIII, se estará a lo dispuesto en el artículo 109 de esta ley.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2009)</small>
+
 ###### Artículo 43.
 
-En los procedimientos que lleven a cabo los Entes Públicos para la contratación de adquisiciones, arrendamientos y servicios, así como de obra pública, se preferirá, en igualdad de condiciones, el empleo de recursos humanos del Estado y la utilización de los bienes o servicios de origen local y los propios de la región. En su caso, las bases de licitación podrán establecer un porcentaje diferencial a favor de los mismos, en una proporción que nunca podrá ser superior al cinco por ciento.
+En los procedimientos que lleven a cabo los entes públicos para la contratación de adquisiciones, arrendamientos y servicios, se preferirá, en igualdad de condiciones, el empleo de recursos humanos del Estado y la utilización de los bienes o servicios de origen local y los propios de la región.
 
-En igualdad de condiciones, deberá adquirirse cuando menos el 50% de los insumos de bienes y servicios provenientes de la micro, pequeña y mediana empresa local.
+Existiendo igualdad de condiciones, el pedido o contrato se asignará en todo caso a proveedores con domicilio fiscal en el Estado, considerándose que existe igualdad de condiciones, cuando haya como máximo una diferencia del 8% con relación al mejor precio ofertado, siempre y cuando éste haya sido presentado por un proveedor foráneo o que sólo cuente con sucursales en el Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
@@ -807,7 +809,7 @@ Los entes públicos estarán obligados a mantener los bienes adquiridos o arrend
 
 Para ello, en los actos o contratos de adquisiciones, arrendamientos o servicios, deberán estipular las condiciones que garanticen su correcta operación y funcionamiento; el aseguramiento del bien o bienes de que se trate para garantizar su integridad hasta el momento de su entrega y, en caso de ser necesario, la capacitación del personal que operará los equipos.
 
-> <small>[N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA “LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA”, PUBLICADA EN EL P.O. EL 23 DE DICIEMBRE DE 2000, SE DEROGAN TODAS LAS DISPOSICIONES REFERENTES A LA OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA CONTENIDOS EN LA “LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA DEL ESTADO DE CHIHUAHUA”, PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DEL 13 DE SEPTIEMBRE DE 1997 Y SUS POSTERIORES REFORMAS.]</small>
+> <small>[N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA "LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA", PUBLICADA EN EL P.O. EL 23 DE DICIEMBRE DE 2000, SE DEROGAN TODAS LAS DISPOSICIONES REFERENTES A LA OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA CONTENIDOS EN LA "LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA DEL ESTADO DE CHIHUAHUA", PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DEL 13 DE SEPTIEMBRE DE 1997 Y SUS POSTERIORES REFORMAS.]</small>
 
 ### Capítulo III. De los Procedimientos y Contratos de Obra Pública
 
@@ -1482,3 +1484,9 @@ Lo mismo se observará respecto a la intervención que otorgan a la ya inexisten
 ###### ARTÍCULO SEXTO.
 
 Cuando en cualquier otro ordenamiento legal, acuerdo, convenio o contrato de la naturaleza que fuere, se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración o a la Secretaría de Finanzas, se entenderá citada a la Secretaría de Finanzas y Administración; de igual manera, se entenderá citada ésta cuando se haga mención a la Oficialía Mayor, a la Dirección General de Administración o a la Secretaría de Administración.
+
+P.O. 18 DE ABRIL DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
