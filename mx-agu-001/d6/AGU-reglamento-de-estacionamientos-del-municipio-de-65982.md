@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-estacionamientos-del-municipio-de-65982"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-12"
-last_updated: "2009-01-12"
+last_updated: "2009-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 12 de enero de 2009.
 
@@ -569,7 +569,9 @@ La Secretaría del H. Ayuntamiento y Dirección General de Gobierno, podrá otor
 
 I. Presentar la solicitud correspondiente, por escrito, ante la Dirección de Mercados, Estacionamientos y Áreas Comerciales. Dicha solicitud deberá ser presentada con un mínimo de cinco días hábiles de anticipación a la fecha del evento especial y quince días hábiles antes del comienzo de la Feria Nacional de San Marcos en caso de que quiera operar durante ésta, en donde precisará los días de duración del mismo, así como la cantidad de cajones que habilitará dentro del estacionamiento público eventual;
 
-II. Presentar una fianza o póliza de seguro que cubra siniestros, robo total, daños y responsabilidad civil, al menos por una cantidad equivalente a 5,000 días de salario mínimo general vigente en el Estado de Aguascalientes por automóvil;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2009)</small>
+
+II. Presentar una fianza o póliza de seguro de responsabilidad civil de estacionamientos, que cubra siniestros, robo total y/o daños a unidades o vehículos, al menos por el diez por ciento de los cajones autorizados al estacionamiento y determinando un sublímite de cobertura por el monto equivalente a 2,000 días de salario mínimo general vigente en el Estado de Aguascalientes por cajón;
 
 III. Presentar la documentación que acredite la posesión o propiedad del inmueble que se pretenda habilitar para funcionar como estacionamiento público eventual;
 
@@ -944,3 +946,11 @@ Ing. Francisco Gabriel Arellano Espinosa, Presidente Municipal de Aguascalientes
 Por lo que tiene el honor de comunicarlo, para su conocimiento y efectos legales conducentes. En tal ver, promulga y ordena se dé publicidad para su debido cumplimiento. 6 de enero de 2009.- Ing. Francisco Gabriel Arellano Espinosa.- Rúbrica.
 
 El Secretario del H. Ayuntamiento y Director General de Gobierno.- Lic. Adrián Ventura Dávila.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 20 DE ABRIL DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
