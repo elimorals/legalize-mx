@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2009-02-23"
+last_updated: "2009-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DEL CODIGO DE LA ADMINISTRACION PUBLICA DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ABRIL DE 2009.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -3623,23 +3623,7 @@ VII. Las demás que le otorguen este Reglamento y otras disposiciones normativas
 
 ###### Artículo 153.
 
-El Director de Atención a Migrantes tendrá las siguientes facultades y obligaciones:
-
-I. Contribuir al diseño de políticas públicas en materia de atención a migrantes, independientemente de su condición étnica;
-
-II. Diseñar, proponer y ejecutar programas y acciones en materia de cooperación internacional, para el desarrollo de los municipios con población migrante;
-
-III. Desarrollar programas de atención a migrantes en los diferentes escenarios geográficos en los que se encuentre, ya sean estatales, nacionales o internacionales;
-
-IV. Promover proyectos productivos que propicien condiciones para el retorno de la población migrante;
-
-V. Promover campañas de sensibilización en torno a la problemática del sector migrante, en instituciones públicas y del sector social del Estado;
-
-VI. Canalizar y dar seguimiento a las demandas de la población migrante yucateca y de sus comunidades ante otras instancias gubernamentales;
-
-VII. Promover la investigación sobre la problemática de la población migrante, que permita desarrollar políticas públicas en la materia, y
-
-VIII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+(DEROGADO POR TRANSITORIO SEGUNDO DEL DECRETO NUMERO 189 QUE CREA LA OFICINA DE ASUNTOS INTERNACIONALES DE YUCATAN, D.O. 21 DE ABRIL DE 2009)
 
 ###### Artículo 154.
 
@@ -4769,7 +4753,7 @@ II. Divulgar entre el personal a su cargo los criterios normativos que sustentan
 
 III. Establecer los mecanismos para preservar y custodiar las evidencias de un hecho delictivo;
 
-IV. Coordinar al personal que se encuentre bajo su mando para prevenir la comisión de delitos, así como para garantizar, mantener y reestablecer (sic) la paz y el orden publico;
+IV. Coordinar al personal que se encuentre bajo su mando para prevenir la comisión de delitos, así como para garantizar, mantener y reestablecer (sic) la paz y el orden público;
 
 V. Vigilar y dar seguimiento a los operativos que realice el personal a su cargo;
 
@@ -5413,7 +5397,7 @@ II. Realizar las investigaciones que se requieran para proponer señales y semá
 
 III. Elaborar un estudio que determine la necesidad de instalación y retiro de semáforos y señales preventivas, con sustento en el Reglamento de Vialidad en el Estado;
 
-IV. Elaborar proyectos de planificación para el ordenamiento, modificación y adecuación de todo lo relacionado al transito y el uso de las vialidades;
+IV. Elaborar proyectos de planificación para el ordenamiento, modificación y adecuación de todo lo relacionado al tránsito y el uso de las vialidades;
 
 V. Diseñar las modificaciones viales y geométricas, tanto de intersecciones como a todo lo largo de las vialidades, dentro del área de jurisdicción;
 
@@ -5531,7 +5515,7 @@ I. Salvaguardar los bienes encomendados bajo su estricta responsabilidad;
 
 II. Supervisar las entradas y salidas de los vehículos del depósito vehicular;
 
-III. Verificar que todas las entradas y salidas de los vehículos, sean registradas en el Sistema Automatizado de Control Vehícular;
+III. Verificar que todas las entradas y salidas de los vehículos, sean registradas en el Sistema Automatizado de Control Vehicular;
 
 IV. Coordinarse con el área de cobro de la Secretaría de Hacienda para el efecto del registro y aplicación de pagos por conceptos de infracciones, grúas y estadía de los vehículos;
 
@@ -5881,7 +5865,7 @@ XII. Suscribir las actas en las que se documente cualquier acto jurídico o admi
 
 XIII. Certificar documentos y las copias de éstos que obren en los archivos de esta Secretaría, sus direcciones y departamentos;
 
-XIV. Calificar el tipo de sanción administrativa o pecuniaria de los detenidos en la cárcel pública de esta Secretaría, así como disponer de su arresto hasta por treinta y seis horas y aplicarles, en su caso, el pago de multa a favor del erario o remitirlos oportunamente a la autoridad competente en caso de la comisión de delito. Tratándose de adolescentes se dispondrá de sitio aparte para su arresto y en caso de remisión, que ésta sea en los términos que dispone la Ley de Justicia para Adolescentes del Estado de Yucatán. Si el detenido presentare lesión se dispondrá su curación e internación en hospitales oficiales, previa opinión del medico de guardia;
+XIV. Calificar el tipo de sanción administrativa o pecuniaria de los detenidos en la cárcel pública de esta Secretaría, así como disponer de su arresto hasta por treinta y seis horas y aplicarles, en su caso, el pago de multa a favor del erario o remitirlos oportunamente a la autoridad competente en caso de la comisión de delito. Tratándose de adolescentes se dispondrá de sitio aparte para su arresto y en caso de remisión, que ésta sea en los términos que dispone la Ley de Justicia para Adolescentes del Estado de Yucatán. Si el detenido presentare lesión se dispondrá su curación e internación en hospitales oficiales, previa opinión del médico de guardia;
 
 XV. Intervenir, de manera específica, en representación de la Secretaría y, en su caso, del Secretario, en las audiencias de conciliación celebradas ante la Comisión Estatal de los Derechos Humanos, Tribunales de Trabajo, de lo Contencioso-Administrativo, Juzgados Civiles, Penales, y de Justicia para Adolescentes;
 
@@ -11356,3 +11340,11 @@ D.O. 23 DE FEBRERO DE 2009.
 PRIMERO. Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 SEGUNDO. Se derogan las disposiciones de igual o menor rango que se opongan a lo dispuesto por este Decreto.
+
+D.O. 21 DE ABRIL DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+SEGUNDO. Se deroga el artículo 153 del Reglamento del Código de la Administración Pública de Yucatán.
+
+TERCERO. Se derogan las disposiciones de igual o menor rango en cuanto se opongan a lo establecido en este Decreto.
