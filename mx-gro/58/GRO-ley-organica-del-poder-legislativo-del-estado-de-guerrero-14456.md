@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-14456
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-06-11"
-last_updated: "2007-08-10"
+last_updated: "2009-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUMERO 286
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 11 de junio de 1999.
 
@@ -441,17 +441,23 @@ Corresponde a la Mesa Directiva, bajo la autoridad de su Presidente, preservar l
 
 La Mesa Directiva del Congreso del Estado estará integrada por un Presidente, dos Vicepresidentes, primero y segundo, dos Secretarios propietarios y dos Secretarios suplentes.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2009)</small>
+
 ###### Artículo 25.
 
-La elección de la Mesa Directiva se llevará a cabo en la última sesión de cada mes y entrará en funciones en la primera sesión del mes siguiente.
+La Mesa Directiva ejercerá sus funciones por un año legislativo, conformado éste por los tres periodos ordinarios y los recesos que en el año del ejercicio constitucional correspondiente transcurran. El Presidente no podrá ser reelecto para el siguiente año del ejercicio constitucional.
 
-La elección de la Mesa Directiva del primer mes de los períodos ordinarios y de los períodos extraordinarios de sesiones se hará en una junta preparatoria. Dicha junta será presidida por la Mesa Directiva de la Comisión Permanente en funciones.
+La Comisión de Gobierno cuidará qué las propuestas para la integración y designación de los cargos de la Mesa Directiva, sea conformada en proporción a la representación de las Fracciones Parlamentarias y de las Representaciones de Partido al interior del Congreso del Estado.
+
+En el caso de que dos o más Fracciones Parlamentarias con el mayor número de Diputados al interior del Congreso, estén integradas por el mismo número de representantes populares, la Presidencia de la Mesa Directiva deberá alternase con la Presidencia de la Comisión de Gobierno sólo entre los Coordinadores de estas Fracciones Parlamentarias, evitando que la misma Fracción Parlamentaria ocupe ambas Presidencias en el mismo año del ejerció constitucional.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2009)</small>
 
 ###### Artículo 26.
 
-La Mesa Directiva durará en su cargo un mes. El Presidente no podrá ser reelecto durante el mismo período de sesiones.
+La elección de la Mesa Directiva se llevará a cabo en la última sesión del tercer periodo ordinario de sesiones del correspondiente año del ejercicio constitucional y entrará en funciones en la primera sesión del primer periodo ordinario del siguiente año del ejercicio constitucional.
 
-La Comisión de Gobierno considerará en su propuesta la rotación de las fracciones parlamentarias en los cargos de la Mesa Directiva.
+La Mesa Directiva electa para el correspondiente año del ejercicio constitucional, será la misma que dirigirá los trabajos de la Comisión Permanente en los recesos del año en que transcurra su función, debiendo integrare a la Diputación Permanente, para ser electa en los términos y plazos señalados en el artículo 48 de la Constitución Política del Estado Libre y Soberano de Guerrero.
 
 ###### Artículo 27.
 
@@ -763,35 +769,37 @@ IV. De Gestoría, Información y Quejas, y
 
 V. Del Instituto de Estudios Parlamentarios "Eduardo Neri".
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2009)</small>
+
 ###### Artículo 51.
 
-La Comisión de Gobierno la integrarán los Diputados Coordinadores de las fracciones parlamentarias y los de las representaciones de partido, todos con derecho a voz y voto.
+La Comisión de Gobierno estará integrada por los Coordinadores de las Fracciones Parlamentarias y los de las Representaciones del Partido, todo con derecho a voz y voto.
 
-El Coordinador de la fracción parlamentaria que constituya la mayoría en la Legislatura, será el Presidente de la Comisión. Los acuerdos que emita la Comisión se tomarán por mayoría; el voto de los Coordinadores de las fracciones parlamentarias y de las representaciones de partido equivaldrá al número de Diputados con que cuente cada una de ellas en la Legislatura.
+El Coordinador de la Fracción Parlamentaria con mayor número de Diputados en la Legislatura, será el Presidente de la Comisión dé Gobierno. Los acuerdos que emita la comisión se tomarán por mayoría; el voto de los Coordinadores de las Fracciones Parlamentarias y de las Representaciones de Partido equivaldrá al número de Diputados con que cuenta cada una de ellas en la Legislatura.
 
-La Comisión fungirá como órgano de coordinación a fin de optimizar el ejercicio de las funciones legislativas, políticas, administrativas y en general de todas aquéllas que se estimen necesarias para la buena marcha del Congreso del Estado y se reunirá cuantas veces se estime necesario, a convocatoria de su Presidente y tendrá las siguientes atribuciones:
+En el caso de que dos o más Fracciones Parlamentarias con el mayor numero de Diputados al interior del Congreso, estén integradas por el mismo número de Representantes Populares, la Presidencia de la Comisión de Gobierno deberá alternarse con la Presidencia de la Mesa Directiva sólo entre los Coordinadores de estas Fracciones Parlamentarias, evitando que la misma Fracción Parlamentaria ocupe ambas Presidencias en el mismo año de ejercicio.
 
-I. Suscribir acuerdos relativos a los asuntos que se desahoguen en el Pleno, a la Agenda Legislativa, así como para presentar a éste proyectos de acuerdo para el funcionamiento de los órganos del Congreso;
+La Comisión fungirá como órgano a fin de optimizar el ejercicio de las funciones legislativas, políticas, administrativas y en general de todas aquéllas que se estimen necesarias para la buena marcha del Congreso del Estado y se reunirá cuantas veces se estime necesario, a convocatoria de su Presidente y tendrá las siguientes atribuciones:
+
+I. Suscribir acuerdos relativos a los asuntos que se desahoguen en el Pleno, a la Agenda Legislativa, así como para presentar a esté proyecto de acuerdo para el funcionamiento de los órganos del congreso;
 
 II. Proponer a los integrantes de las Comisiones Ordinarias y Especiales;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+III. Proponer al Pleno del H. Congreso los nombramientos del Oficial Mayor, Auditor General del Estado, del Director de Administración, del Director de Comunicación Social y del Director del Instituto de Estudios Parlamentarios “Eduardo Neri”;
 
-III. Proponer al Pleno del H. Congreso los nombramientos del Oficial Mayor, Auditor General del Estado, del Director de Administración, del Director de Comunicación Social y del Director del Instituto de Estudios Parlamentarios "Eduardo Neri";
-
-IV. Elaborar y presentar el anteproyecto de presupuesto de egresos del Congreso, así como establecer los criterios para otorgar apoyo a las fracciones parlamentarias, a las representaciones de partido, a las Comisiones y a los Comités;
+IV. Elaborar y presentar el anteproyecto de Presupuesto de Egresos del Congreso, así como establecer los criterios para otorgar apoyo a las fracciones parlamentarias, a las representaciones de partido, a las Comisiones y a los Comités;
 
 V. Proponer al Pleno una lista de candidatos para la designación de los Magistrados del Tribunal Electoral del Estado;
 
-VI. Proponer al Pleno una lista de candidatos para la designación de los Consejeros Electorales que deban integrar el Consejo Estatal Electoral;
+VI. Proponer al Pleno una lista de candidatos para la designación de los Consejeros Electorales que deban integrar el Consejo General del Instituto Estatal Electoral;
 
-VII. Formular la propuesta para la designación de Gobernador interino o sustituto, en los casos previstos por la Constitución Política del Estado;
+VII. Formular la propuesta para la designación de Gobernador Interino o Sustituto, en los casos previstos por la Constitución Política del Estado;
 
-VIII. De las propuestas de los servidores públicos que deban ser nombrados o ratificados por el Congreso, y que su trámite no esté expresamente reservado a otras Comisiones legislativas;
+VIII. De las propuestas de los servidores públicos que deban ser nombrados o ratificados por el Congreso, y que su trámite no este expresamente reservado a otras comisiones, legislativas;
 
 IX. Coordinarse con la Mesa Directiva para organizar y conducir los trabajos camarales;
 
-X. Conocer de las solicitudes de información hechas por las Comisiones o Comités, así como las de comparecencia ante dichos órganos de los servidores públicos estatales y municipales;
+X. Conocer de las solicitudes de información, hechas por las Comisiones o Comités, así corno las de comparecencia ante dichos órganos de los servidores públicos estatales y municipales;
 
 XI. Impulsar la política editorial del Congreso y promover actividades de fomento a la cultura, y
 
@@ -949,7 +957,7 @@ VI. Los demás que a juicio del Presidente del Congreso o de la Comisión Perman
 
 A la Comisión de Atención a Migrantes le corresponde conocer de los asuntos siguientes:
 
-I:- Los relativos en materia de Migración;
+I.- Los relativos en materia de Migración;
 
 II.- Aquellos relacionados con los movimientos migratorios y la procuración de beneficios para el Estado, derivados de los Tratados Internacionales suscritos por el Ejecutivo Federal con aprobación del Senado;
 
@@ -2488,3 +2496,13 @@ P.O. 10 DE AGOSTO DE 2007.
 Primero.- El presente Decreto entrará en vigor a los cinco días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero y en los medios electrónicos de que disponga a fin de que sea del conocimiento general.
+
+P.O. 21 DE ABRIL DE 2009.
+
+PRIMERO.- El presente Decreto de reformas y adiciones a la Ley Orgánica del Poder Legislativo del Estado de Guerrero Número 286, entrará en vigor el día de su expedición.
+
+SEGUNDO.- La Mesa Directiva en funciones en la fecha de la emisión del presente decreto, seguirá en funciones hasta el 14 de noviembre del 2009.
+
+TERCERO.- Los Presidentes de la Mesa Directiva y de la Comisión de Gobierno en funciones a la fecha de aprobación del presente Decreto, fungirán en dicho cargo hasta el 14 de noviembre del 2009.
+
+CUARTO.- Comuníquese el presente Decreto al Gobernador del Estado, en términos de los (sic) dispuesto en la fracción III del artículo 47 de la Constitución Política del Estado Libre y Soberano de Guerrero, para su conocimiento; así también para que proceda con su publicación en el Periódico Oficial del Gobierna del Estado, para conocimiento general.
