@@ -4,7 +4,7 @@ identifier: "MOR-acuerdo-mediante-el-cual-se-establece-la-unidad-de-59881"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-02-20"
-last_updated: "2008-02-20"
+last_updated: "2009-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # ACUERDO MEDIANTE EL CUAL SE ESTABLECE LA UNIDAD DE INFORMACION PUBLICA Y SE CREA EL CONSEJO DE INFORMACION CLASIFICADA DE LA SECRETARIA DE LA CONTRALORIA DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE MORELOS
 
-ACUERDO MEDIANTE EL CUAL SE ESTABLECE LA UNIDAD DE INFORMACION PUBLICA Y SE CREA EL CONSEJO DE INFORMACION CLASIFICADA DE LA SECRETARIA DE LA CONTRALORIA DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE MORELOS
+ACUERDO MEDIANTE EL CUAL SE ESTABLECE LA UNIDAD DE INFORMACIÓN PÚBLICA Y SE CREA EL CONSEJO DE INFORMACIÓN CLASIFICADA DE LA SECRETARÍA DE LA CONTRALORÍA DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2009.
 
 Acuerdo publicado en el Periódico Oficial del Estado de Morelos, el miércoles 20 de febrero de 2008.
 
@@ -47,7 +47,9 @@ Por lo anteriormente expuesto y fundado tengo a bien expedir el siguiente:
 
 ACUERDO MEDIANTE EL CUAL SE ESTABLECE LA UNIDAD DE INFORMACIÓN PÚBLICA Y SE CREA EL CONSEJO DE INFORMACIÓN CLASIFICADA DE LA SECRETARÍA DE LA CONTRALORÍA DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE MORELOS.
 
-PRIMERO. Se establece la Unidad de Información Pública de la Secretaría de la Contraloría del Poder Ejecutivo del Gobierno del Estado de Morelos, y se designa como responsable de la misma al titular de la Dirección General de Asuntos Jurídicos y Situación Patrimonial, con domicilio sito en la calle Francisco I. Madero número 500, Colonia Miraval, en Cuernavaca Morelos, con un horario de atención de las 08:00 a.m. a 17:00 p.m., y teléfono 777 3 29 22 00 extensiones 1918 y 1937.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2009)</small>
+
+PRIMERO. Se establece la Unidad de Información Pública de la Secretaría de la Contraloría del Poder Ejecutivo del Gobierno del Estado de Morelos, y se designa como responsable de la misma al Titular de la Dirección General de Asuntos Jurídicos y Situación Patrimonial, con domicilio en calle Francisco Leyva número 11, Colonia Centro de la Ciudad de Cuernavaca, Morelos, C.P. 62000, con un horario de atención de las 8:00 a las 17:00 horas y con número telefónico 777 329 22 00 extensiones 1918 y 1937.
 
 SEGUNDO. Se crea el Consejo de Información Clasificada de la Secretaría de la Contraloría del Poder Ejecutivo del Gobierno del Estado de Morelos, el cual estará integrado por los siguientes miembros:
 
@@ -69,11 +71,17 @@ VIII. El Contralor Interno de Desarrollo Económico Sustentable;
 
 IX. El Contralor Interno de Seguridad y Procuración de Justicia;
 
-X. El Contratar Interno de Infraestructura y Desarrollo Social;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2009)</small>
 
-XI. El Contralor Interno de Desarrollo y Modernización de la Administración Pública; y
+X. Contralor Interno de Infraestructura y Asistencia;
 
-XII. El Contralor Interno de la Secretaría de la Contraloría.
+XI. El Contralor Interno de Desarrollo y Modernización de la Administración Pública; y (sic)
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2009)</small>
+
+XII. Contralor Interno del Trabajo y Desarrollo Humano, y
+
+XIII. El Contralor Interno de la Secretaría de la Contraloría.
 
 ## TRANSITORIOS
 
@@ -86,3 +94,9 @@ TERCERO. La Secretaría de la Contrataría deberá instalar su Unidad de Informa
 Dado en la residencia del Poder Ejecutivo del Estado Libre y Soberano de Morelos, a los diez días de enero de dos mil ocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS MTRO. MARCO ANTONIO ADAME CASTILLO EL SECRETARIO DE GOBIERNO LIC. SERGIO ALVAREZ MATA LA SECRETARIA DE LA CONTRALORÍA LIC. PATRICIA MARISCAL VEGA RÚBRICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE ABRIL DE 2009.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
