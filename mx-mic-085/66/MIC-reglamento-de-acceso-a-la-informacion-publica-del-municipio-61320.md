@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-acceso-a-la-informacion-publica-del-municipio-613
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-05-30"
-last_updated: "2008-05-30"
+last_updated: "2009-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE TANGANCICUARO, MICHOACAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 2009.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el viernes 30 de mayo de 2008.
 
@@ -155,11 +155,15 @@ REGLAMENTO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE TANGANCÍCUARO,
 
 El presente Reglamento es de orden público e interés social, que tiene por objeto establecer el órgano y unidades administrativas, criterios y procedimientos institucionales para proporcionar a las personas el derecho de acceder a la información de los poderes públicos del Municipio de Tangancícuaro, Michoacán.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ABRIL DE 2009)</small>
+
 ###### Artículo 2.
 
-Para los efectos del presente Reglamento se atenderá además de las definiciones contenidas en la Ley de Acceso a la Información Pública del Estado de Michoacán de Ocampo, las siguientes:
+Para los efectos del presente Reglamento se atenderá además de las definiciones contenidas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Michoacán de Ocampo, las siguientes:
 
-LEY: Ley de Acceso a la Información Pública del Estado de Michoacán de Ocampo.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2009)</small>
+
+LEY: Ley de Transparencia y Acceso a la Información Pública del Estado de Michoacán de Ocampo.
 
 REGLAMENTO: El Reglamento de Acceso a la Información Pública del Municipio de Tangancícuaro, Michoacán.
 
@@ -303,9 +307,11 @@ La información de oficio debe ser sistematizada para facilitar su acceso, su pu
 
 ### Capítulo IV. Información de Acceso Restringido
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2009)</small>
+
 ###### Artículo 15.
 
-El ejercicio del derecho de acceso a la información será restringido en los términos dispuestos por la Ley de Acceso a la Información Pública, mediante las figuras de reserva o confidencialidad de información, y no podrá ser divulgada bajo ninguna circunstancia, bajo las excepciones señaladas en la Ley aludida.
+El ejercicio del derecho de acceso a la información será restringido en los términos dispuestos por la Ley de Transparencia y Acceso a la Información Pública del Estado de Michoacán de Ocampo, mediante las figuras de reserva o confidencialidad de información, y no podrá ser divulgada bajo ninguna circunstancia, bajo las excepciones señaladas en la Ley aludida.
 
 ###### Artículo 16.
 
@@ -512,3 +518,15 @@ Alejandro Barrón Rodríguez
 Regidor
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE ABRIL DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Conforme a lo dispuesto por el artículo 145, segundo párrafo de la Ley Orgánica Municipal, se ordena su debida publicación para su observancia en el Periódico Oficial del Estado.
