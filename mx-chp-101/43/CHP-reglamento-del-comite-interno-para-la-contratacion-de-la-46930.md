@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-del-comite-interno-para-la-contratacion-de-la-46930"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-05"
-last_updated: "2005-10-05"
+last_updated: "2009-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 REGLAMENTO DEL COMITÉ INTERNO PARA LA CONTRATACIÓN DE LA OBRA PÚBLICA DEL AYUNTAMIENTO DE TUXTLA GUTIÉRREZ, CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 5 de octubre de 2005.
 
@@ -41,33 +41,49 @@ Reglamento del Comité Interno para la Contratación de la Obra Pública del Ayu
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2009)</small>
+
 ###### Artículo 1º.
 
-El Comité Interno para la contratación de la Obra Pública del Honorable Ayuntamiento de Tuxtla Gutiérrez, es un Órgano creado por acuerdo del mismo Ayuntamiento dando cumplimiento a lo dispuesto en el artículo 45, de la Ley de Obra Pública del Estado de Chiapas y supletoriamente la Ley de Obras Públicas y servicios relacionados con las mismas y su reglamento del ámbito federal, y tiene por objeto vigilar, coordinar y sancionar la contratación de la obra pública que el Honorable Ayuntamiento de Tuxtla Gutiérrez debe ejecutar; a fin de asegurar las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+El presente reglamento interno regula la organización y funcionamiento del Comité de Obra Pública del Municipio de Tuxtla Gutiérrez Chiapas; es reglamentario del Capítulo II del Título Tercero y demás relativos de la Ley de Obra Pública del Estado de Chiapas y tiene por objeto garantizar la legalidad y transparencia en la adjudicación de los contratos de obra pública del Municipio en cualesquiera de las modalidades que señala el artículo 39 del referido ordenamiento.
+
+La obra pública que realice el Municipio con cargo total o parcial a los fondos federales, se sujetará, además, a las disposiciones establecidas en la Ley de Obras Públicas y Servicios Relacionados con las Mismas y su reglamento, la Ley Federal de Presupuesto y Responsabilidad Hacendaría y demás normatividad federal aplicable.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2009)</small>
 
 ###### Artículo 2º.
 
-El Presente Reglamento regula la organización y funcionamiento del Comité Interno para la Contratación de la Obra Pública del Honorable Ayuntamiento de Tuxtla Gutiérrez, las obligaciones y facultades de los miembros del mismo.
+En cumplimiento a lo dispuesto en el artículo 45 de la Ley de Obra Pública del Estado de Chiapas, se crea el Comité de Obra Pública del Municipio de Tuxtla Gutiérrez, Chiapas, cuya integración, atribuciones y funcionamiento señala el presente reglamento, a fin de asegurar que la contratación de la obra pública se realiza considerando las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes para su realización.
+
+El Comité, tendrá como domicilio legal las instalaciones ubicadas en el primer piso del edificio de la Presidencia Municipal de Tuxtla Gutiérrez, sito en la 2a. Avenida Norte Oriente esquina con Calle Central S/N., en la ciudad de Tuxtla Gutiérrez, Chiapas.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2009)</small>
 
 ###### Artículo 3º.
 
-Para los efectos de este reglamento, se entenderá por:
+Para los efectos del presente reglamento, se entenderá por:
 
-I. Ley: la Ley de Obra Pública del Estado de Chiapas; así como la Ley de Obras Públicas y servicios relacionados con las mismas, en su caso;
+I. Ley: la Ley de Obra Pública del Estado de Chiapas;
 
-II. Comité: El Comité Interno para la Contratación de la Obra Pública del Honorable Ayuntamiento; y,
+II. Comité: El Comité de Obra Pública del Municipio de Tuxtla Gutiérrez, Chiapas.
 
-III. Reglamento del comité: El Reglamento del Comité Interno para la Contratación de la Obra Pública del Honorable Ayuntamiento.
+III. Dependencia Ejecutora: La Secretaría de Obras Públicas y Desarrollo Urbano.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2009)</small>
 
 ###### Artículo 4º.
 
-El Comité, tendrá como domicilio legal las instalaciones ubicadas en el primer piso del edificio de la Presidencia Municipal de Tuxtla Gutiérrez, sito en la 2ª. Avenida Norte Oriente esquina con Calle Central S./N., en la Ciudad de Tuxtla Gutiérrez.
+En lo no previsto por el presente reglamento se aplicará supletoriamente la Ley de Obra Pública del Estado de Chiapas.
 
-### Capítulo II. De los Miembros del Comité Interno
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE ABRIL DE 2009)</small>
+
+### Capítulo II. De la Integración del Comité y las Atribuciones de sus Integrantes
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ABRIL DE 2009)</small>
 
 ###### Artículo 5º.
 
-Para el cumplimiento de sus funciones, el Comité estará integrado de la siguiente forma:
+Para el cumplimiento de sus funciones, el Comité estará conformado de la siguiente manera:
 
 I. Presidente: El titular del H. Ayuntamiento.
 
@@ -292,3 +308,13 @@ Dado en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 28 días del mes de febre
 De conformidad con el artículo 150, de la Ley Orgánica Municipal del Estado de Chiapas, y para su observancia, « (sic) Promulgo el Presente: Reglamento del Comité Interno para la contratación de la Obra Pública del Ayuntamiento de Tuxtla Gutiérrez, Chiapas.
 
 Lic. Blanca Ruth Esponda Espinosa, Secretaria General del Ayuntamiento.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE ABRIL DE 2009.
+
+Primero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chiapas.
+
+Segundo.- A partir de la fecha de entrada en vigor del presente reglamento, se abroga el Reglamento del Comité Interno para la Contratación de la Obra Pública del Ayuntamiento de Tuxtla Gutiérrez, Chiapas, aprobado a los 28 días del mes de febrero del año dos mil cinco.
+
+Tercero.- Para su debido conocimiento publíquese el presente Reglamento en la Gaceta Municipal, y remítase al Director del Periódico Oficial del Estado para su publicación.
