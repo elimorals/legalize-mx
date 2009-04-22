@@ -4,7 +4,7 @@ identifier: "ZAC-estatuto-organico-de-la-comision-estatal-para-el-acceso-a-45152
 country: "mx"
 rank: "estatuto"
 publication_date: "2005-05-25"
-last_updated: "2005-10-01"
+last_updated: "2009-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45152&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 ESTATUTO ORGANICO DE LA COMISION ESTATAL PARA EL ACCESO A LA INFORMACION PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 2009.
 
 Estatuto publicado en el Periódico Oficial del Estado de Zacatecas, el miércoles 25 de mayo de 2005.
 
@@ -83,11 +83,17 @@ IV. Secretario Ejecutivo;
 
 V. Departamento de Comunicación Social;
 
-VI. Departamento de Promoción de la Cultura del Derecho de Acceso a la Información Pública;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2009)</small>
 
-VII. Departamento Jurídico;
+VI. Departamento de Promoción de la Cultura y Capacitación;
 
-VIII. Departamento Administrativo; y
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2009)</small>
+
+VII. Departamento Jurídico; y (sic)
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2009)</small>
+
+VIII. Departamento Administrativo;
 
 IX. Departamento de Informática.
 
@@ -113,9 +119,9 @@ Para el debido cumplimiento de sus obligaciones y la elaboración de su informe 
 
 Las determinaciones de la Comisión tendrán el carácter de:
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2009)</small>
 
-I. Resoluciones, las que serán aquellas que se dicten y decidan sobre las cuestiones planteadas en el recurso de revisión que contempla la Ley, siendo éstas sobre el fondo; y
+I. Resoluciones, serán aquellas que se dicten y decidan sobre las cuestiones planteadas en los recursos de revisión y queja que contempla la Ley, siendo éstas sobre el fondo; y
 
 II. Acuerdos, los que recaigan a las solicitudes de clasificación de reserva y todas las demás determinaciones.
 
@@ -139,7 +145,9 @@ I. Resolver los casos de efectos administrativos en caso de duda, confusión o d
 
 II. Difundir el derecho de acceso a la información pública y la protección de datos personales;
 
-III. Aprobar la versión pública de los acuerdos y resoluciones que tome y ordenar su publicación en el Periódico Oficial, órgano del Gobierno del Estado, así como de aquellos que por su naturaleza sean de observancia pública y obligatoria;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2009)</small>
+
+III. Aprobar la versión pública de los acuerdos y resoluciones que tome y ordenar su publicación en la página electrónica oficial de la Comisión y en estrados, así como de aquellos que por su naturaleza sean de observancia pública y obligatoria;
 
 IV. Celebrar convenios, acuerdos, bases de colaboración y mecanismos de coordinación con las dependencias y órganos de los Poderes Ejecutivo, Legislativo y Judicial, así como los municipios u otras personas físicas o morales que sean sujetos obligados para el óptimo cumplimiento de la Ley;
 
@@ -181,11 +189,17 @@ XXII. Solicitar a los sujetos obligados, la rendición de los informes que se co
 
 XXIII. Resolver sobre las solicitudes de licencia que presenten los Comisionados y demás servidores públicos de la Comisión;
 
-XXIV. Conocer y resolver el recurso de revisión interpuesto por los particulares, conforme a la Ley y el presente Estatuto Orgánico;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2009)</small>
+
+XXIV. Conocer y resolver los recursos de revisión y queja interpuestos por los particulares, conforme a la Ley y el presente Estatuto Orgánico;
 
 XXV. Establecer criterios de interpretación de la Ley y del presente Estatuto Orgánico, así como resolver aquellas situaciones no previstas;
 
-XXVI. Las demás que señale la ley, este Estatuto Orgánico o cualquier otra disposición aplicable.
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2009)</small>
+
+XXVI. Nombrar uno o más representantes legales, para casos específicos; y
+
+XXVII. Las demás que señale la ley, este Estatuto Orgánico o cualquier otra disposición aplicable.
 
 ###### Artículo 11.
 
@@ -225,7 +239,9 @@ V. Remitir a la Secretaria de Finanzas, el proyecto de presupuesto de egresos de
 
 VI. Revisar con el Secretario Ejecutivo y los jefes de departamento, el conjunto de los diversos asuntos de su área;
 
-VII. Sustanciar, a través del departamento jurídico, el recurso de revisión previsto por la Ley;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2009)</small>
+
+VII. Sustanciar, a través del departamento jurídico, los recursos de revisión y queja previstos por la Ley;
 
 VIII. Someter a consideración del Pleno, las normas, lineamientos y demás ordenamientos necesarios para el cumplimiento de las atribuciones de la Comisión;
 
@@ -299,21 +315,21 @@ Las sesiones ordinarias deberán convocarse por lo menos con cuarenta y ocho hor
 
 Cuando se trate de aprobar cuestiones relativas al ejercicio presupuestal o envío de informes financieros a la Legislatura del Estado, la Convocatoria habrá de circularse con cuatro días de anticipación a la sesión, cuando esta sea ordinaria y en cualquier tiempo si se tratara de extraordinaria.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2009)</small>
 
 ###### Artículo 22.
 
 Las sesiones deberán de desarrollarse bajo la siguiente estructura:
 
-I. Orden del día;
+I. Verificación del quórum;
 
-II. Verificación del quórum y declaración de instalación de la sesión;
+II. Declaración de instalación de la sesión;
 
 III. Aprobación del orden del día;
 
-IV. Asuntos Generales, tratándose de sesiones ordinarias; y
+IV. Aprobación del Acta de Sesión ordinaria anterior; y
 
-V. Aprobación del Acta de Sesión, firmada al calce por los Comisionados.
+V. Asuntos Generales, tratándose de sesiones ordinarias.
 
 ###### Artículo 23.
 
@@ -334,6 +350,10 @@ El voto, consistirá únicamente en levantar la mano quienes estén a favor.
 ###### Artículo 27.
 
 Es obligación indelegable de los Comisionados asistir a las sesiones del Pleno, sin embargo, bastará la asistencia del Presidente y de alguno de los dos comisionados restantes, para que sus acuerdos sean legítimos.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2009)</small>
+
+En caso de ausencia del Comisionado Presidente, podrán sesionar de manera ordinaria o extraordinaria los Comisionados, presidiéndolas de forma alternada cada uno de ellos; cuyas resoluciones, para ser válidas, deberán ser tomadas por unanimidad.
 
 ###### Artículo 28.
 
@@ -391,17 +411,25 @@ VIII. Coordinar a los departamentos de la Comisión vigilando el buen ejercicio 
 
 IX. Auxiliar al Presidente en el trámite de la ejecución de las resoluciones y expedir las certificaciones cuando así lo solicite el Pleno;
 
-X. Recibir y despachar oportunamente la correspondencia de la Comisión;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2009)</small>
 
-XI. Elaborar el anteproyecto de prevención para subsanar los errores que contengan los escritos del recurso de revisión;
+X. Recibir la correspondencia de la Comisión;
 
-XII. Llevar a cabo las notificaciones de las resoluciones y acuerdos que emita Pleno;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2009)</small>
+
+XI. Elaborar el anteproyecto de prevención para subsanar los errores que contengan los escritos de los recursos de revisión y queja;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2009)</small>
+
+XII. L levar a cabo las notificaciones de las resoluciones y acuerdos que emita el Pleno o en su defecto, instruir y habilitar a. quien corresponda para tal fin, verificando el cumplimiento del mismo;
 
 XIII. Realizar en coordinación con el Pleno los anteproyectos de informes sobre presuntas infracciones a la Ley;
 
 XIV. Atender y asesorar al público en general, elaborando y ejecutando los planes y programas de orientación, respecto a la interpretación de la ley;
 
-XV. Expedir copias de las actas de sesión del Pleno, que obren en el archivo de la Comisión, a petición de parte o autoridad competente;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2009)</small>
+
+XV. Expedir copias simples o certificadas de los documentos que la Comisión conserve y que obren en sus archivos a petición de parte o autoridad competente, bajo las restricciones que la Ley dispone; y (sic)
 
 XVI. Compilar y registrar las resoluciones de la Comisión;
 
@@ -411,69 +439,61 @@ XVIII. Mantener estrecha relación con los titulares de todas las unidades de en
 
 XIX. Las demás que señalen la ley, el presente Estatuto y otras disposiciones aplicables, o que mediante acuerdo de delegación le otorguen el Pleno o el Presidente.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE ABRIL DE 2009)</small>
+
 ### Capítulo VII. Del Departamento de Comunicación social
 
 ###### Artículo 33.
 
-El departamento de comunicación social es el área técnica operativa de la Comisión, que tendrá como función primordial la difusión ante los diferentes medios de comunicación en el Estado, de todas y cada una de las actividades de la Comisión.
+(DEROGADO, P.O. 22 DE ABRIL DE 2009)
 
 ###### Artículo 34.
 
-Para ser titular del departamento de comunicación social se requiere:
+(DEROGADO, P.O. 22 DE ABRIL DE 2009)
 
-I. Ser ciudadano mexicano;
+###### Articulo 35.
 
-II. Tener Título Profesional de Licenciatura en Comunicación y experiencia en el área de al menos dos años; y
+(DEROGADO, P.O. 22 DE ABRIL DE 2009)
 
-III. No estar inhabilitado para el servicio público.
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE ABRIL DE 2009)</small>
 
-###### Artículo 35.
+### Capítulo VIII
 
-Son atribuciones del titular del departamento de comunicación social:
+Del Departamento de Promoción de la Cultura y Capacitación.
 
-I. Crear campañas publicitarias para informar a la ciudadanía, acerca de las funciones que realiza la Comisión;
-
-II. Fungir como enlace entre la Comisión y los medios de comunicación impresos y electrónicos, dando a conocer las actividades realizadas por este organismo autónomo;
-
-III. Organizar ruedas de prensa para dar a conocer las reuniones del Pleno con cualquier sujeto obligado y cuando los Comisionados requieran la presencia de los medios de comunicación para informar respecto a sus actividades;
-
-IV. Estar en contacto directo con el Secretario Ejecutivo, para informarle el avance y desempeño de sus funciones;
-
-V. Crear programas de relaciones públicas entre la Comisión, los sujetos obligados y los medios de comunicación;
-
-VI Cubrir los eventos y actividades que realice la Comisión, para difundir la información a través de boletines enviados a los medios de comunicación;
-
-VII. Realizar un monitoreo a los medios de comunicación impresos y electrónicos a nivel estatal y nacional, sobre la información generada por la Comisión; y
-
-VIII. Las demás que señale la Ley y el presente Estatuto Orgánico, o que le encomiende el Pleno.
-
-### Capítulo VIII. Del Departamento de Promoción de la Cultura del Derecho de Acceso a la Información
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2009)</small>
 
 ###### Artículo 36.
 
-El Departamento de Promoción de la Cultura del Derecho de Acceso a la Información, es el área técnica operativa, que ejecutará sus funciones en términos de lo dispuesto por el Capitulo Tercero de la Ley.
+El Departamento de Promoción de la Cultura y Capacitación, es el área técnica operativa, que ejecutará sus funciones en términos de lo dispuesto por el Capítulo Tercero de la Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ABRIL DE 2009)</small>
 
 ###### Artículo 37.
 
-Para ser titular del Departamento de Promoción de la Cultura del Derecho de Acceso a la Información se requiere:
+Para ser titular del Departamento de Promoción de la Cultura y Capacitación se requiere:
 
 I. Ser ciudadano mexicano;
 
 II. Tener Titulo Profesional de Licenciatura en Comunicación, en el área de Ciencias Sociales o en docencia;
 
-III. Experiencia de al menos dos años; y
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2009)</small>
+
+III. Experiencia de al menos dos años referida al conocimiento de la cultura del derecho de acceso a la información pública; y
 
 IV. No estar inhabilitado para el servicio público.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ABRIL DE 2009)</small>
+
 ###### Artículo 38.
 
-Son atribuciones del titular del departamento de promoción de la cultura del derecho de acceso a la información:
+Son atribuciones del titular del Departamento de Promoción de la Cultura y Capacitación:
 
 I. Vincular el derecho a saber con los distintos sectores sociales, a través de la divulgación de materiales sobre la influencia que tiene el derecho a la información, con la finalidad de contribuir y consolidar el sistema democrático;
 
-II. En coordinación con los sujetos obligados organizar cursos, talleres, y ejecutará seminarios y toda otra forma de enseñanza para capacitar y educar en
+II. En coordinación con los sujetos obligados organizar cursos, talleres, y ejecutará seminarios y toda otra forma de enseñanza para capacitar y educar en;
 
-III. Organizar cursos, talleres, seminarios y cualquier otra forma de enseñanza que permita la socialización del conocimiento del derecho a saber
+III. Organizar cursos, talleres, seminarios y cualquier otra forma de enseñanza que permita la socialización del conocimiento del derecho a saber;
 
 IV. Elaborar programas de educación continua para la capacitación del personal Comisión;
 
@@ -481,11 +501,15 @@ V. Elaborar en coordinación con las autoridades educativas competentes, la prop
 
 VI. Promover en coordinación con las autoridades universitarias públicas y privadas la realización de actividades académicas sobre la importancia del derecho de acceso a la información pública dentro de la sociedad;
 
-VII. Preparar propuestas por proyecto para gestionar y recibir fondos de organismos nacionales e internacionales que coadyuven el mejor cumplimiento y ejecución de la Ley;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2009)</small>
 
-VIII. En coordinación con el departamento de comunicación social, difundir las funciones de la Comisión y su papel en una sociedad democrática, además de orientar a las personas para que puedan ejercer el derecho de acceso a la información pública y el Hábeas Data; y
+VII. Llevar a cabo campañas de difusión a través de medios de publicidad existentes, con el fin de dar a conocer el derecho a la información pública entre la sociedad;
 
-IX. Las demás que señale la Ley, este Estatuto y otras disposiciones aplicables o que le encomiende el Pleno.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2009)</small>
+
+VIII. Diseñar y publicar convocatorias de concursos o certámenes, dirigidos hacia la sociedad con el fin de promover la participación ciudadana en la cultura de la transparencia y el derecho a la información; y
+
+IX. Las demás que señale la Ley, este Estatuto y otras disposiciones aplicables o que el encomiende el Pleno.
 
 ### Capítulo IX. Del Departamento Jurídico
 
@@ -511,17 +535,21 @@ Son atribuciones del titular del departamento Jurídico:
 
 I. Representar a la Comisión en toda clase de procedimientos legales;
 
-II. Admitir a trámite, el recurso de revisión interpuesto ante la Comisión y en su caso desechar los notoriamente improcedentes, todo esto en coordinación con el Secretario Ejecutivo y el Pleno;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2005)</small>
+II. Admitir a trámite los recursos de revisión o queja interpuestos ante la Comisión y en su caso desechar los notoriamente improcedentes, todo esto en coordinación con el Secretario Ejecutivo y el Pleno;
 
-III. Conocer, sustanciar y proveer lo necesario para la debida resolución de los recursos de revisión interpuestos ante la Comisión, conforme- a lo previsto por la Ley, en coordinación, tanto con el Comisionado Ponente en turno, como con el Secretario Ejecutivo;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2009)</small>
+
+III. Conocer, sustanciar y proveer lo necesario para la debida resolución de los recursos de revisión y queja interpuestos ante la Comisión, conforme a lo previsto por la Ley, en coordinación tanto con el Comisionado Ponente en turno, como con el Secretario Ejecutivo;
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2005)</small>
 
 IV. Elaborar los proyectos de resolución que presentará al Pleno, en coordinación, tanto con el Comisionado Ponente en turno, como con el Secretario Ejecutivo;
 
-V. Auxiliar al Secretario Ejecutivo en todo proceso jurisdiccional en el que la Comisión sea parte y representarla en los mismos procedimientos por acuerdo del Pleno;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2009)</small>
+
+V. Llevar el libro de registro de los recursos de revisión y queja interpuestos ante la Comisión, así como las solicitudes de reserva;
 
 VI. Elaborar la propuesta de disposición interna sobre el deber de confidencialidad respecto al uso y manejo de la información que el personal de la Comisión conozca como resultado de su encargo, y someterla a consideración del Pleno;
 
@@ -575,7 +603,9 @@ I. Elaborar en coordinación con el Comisionado Presidente, el proyecto de presu
 
 II. Realizar en apego al artículo 28 de la ley, el cobro de derechos por reproducción de información propia de la Comisión;
 
-III. Diseñar bases para la selección, permanencia, promoción, capacitación y actualización del personal de la Comisión;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2009)</small>
+
+III. Recabar los documentos para la contratación, capacitación y actualización del personal y en su caso, para la suspensión de las relaciones laborales;
 
 IV. Integrar mensual y anualmente informes sobre los movimientos financieros realizados por la Comisión;
 
@@ -597,71 +627,63 @@ XII. Administrar el pago de salarios y demás prestaciones;
 
 XIII. Realizar el pago de impuestos y llevar la contabilidad de la Comisión;
 
-XIV. Recibir facturas pendientes de pago para su revisión y realizar los pagos correspondientes;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2009)</small>
+
+XIV. Recibir facturas para su revisión y realizar en su caso, los pagos correspondientes;
 
 XV. Realizar los trámites necesarios para las adquisiciones de los activos fijos de la Comisión;
 
 XVI. Formalizar los actos relativos a la determinación y suspensión de relaciones laborales;
 
-XVII. Las demás que señale la Ley, el presente Estatuto Orgánico y otras disposiciones aplicables o aquellas funciones que le encomiende el Pleno.
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2009)</small>
+
+XVII. Proponer al Pleno los cambios de partidas del presupuesto ejercido; y
+
+XVIII. Las demás que señale la Ley, el presente Estatuto Orgánico y otras disposiciones aplicables o aquellas funciones que le encomiende el Pleno.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE ABRIL DE 2009)</small>
 
 ### Capítulo XI. Del Departamento de Informática
 
-###### Artículo 45.
+###### Articulo 45.
 
-El Departamento de Informática es el área técnica operativa, encargada de elaborar y sistematizar los programas mediante los cuales, la Comisión resguardará la información que le proporcionen los sujetos obligados.
+(DEROGADO, P.O. 22 DE ABRIL DE 2009)
 
 ###### Artículo 46.
 
-Para ser titular del departamento de Informática se requiere:
-
-I. Ser ciudadano mexicano;
-
-II. Tener Titulo Profesional de licenciatura en Sistemas Computacionales y experiencia en el área de al menos dos años;
-
-III. No estar inhabilitado para el servicio público.
+(DEROGADO, P.O. 22 DE ABRIL DE 2009)
 
 ###### Artículo 47.
 
-El departamento de informática tendrá las siguientes funciones:
+(DEROGADO, P.O. 22 DE ABRIL DE 2009)
 
-I. Apoyar a los diversos departamentos de la Comisión, en el diseño y creación de bases de datos que permita almacenar, actualizar y proporcionar información confiable y oportuna;
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE ABRIL DE 2009)</small>
 
-II. Realizar programas informáticos que requiera la Comisión para su óptimo funcionamiento;
+### Capítulo XII. De los Procedimientos de los Recursos de Revisión y Queja
 
-III. Analizar las necesidades de sistemas para las diferentes áreas de la Comisión;
-
-IV. Diseñar programas de control de información y seguimiento de la misma;
-
-V. Supervisar periódicamente el mantenimiento preventivo y correctivo a los sistemas, controles informáticos y equipo de la Comisión;
-
-VI. Capacitar al personal en el conocimiento de la informática;
-
-VII. Formular reportes al secretario ejecutivo, cuando el equipo de cómputo de la comisión requiera algún servicio;
-
-VIII. Vigilar el funcionamiento de los archivos y programas de la Comisión;
-
-IX. Diseñar y actualizar el portal de Internet de la Comisión donde se informará de las facultades y obligaciones de la Comisión; y
-
-X. Las demás que señale la Ley, el presente Estatuto y otras disposiciones aplicables o aquellas que le encomiende el Pleno.
-
-### Capítulo XII. Del Procedimiento del Recurso de Revisión
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2009)</small>
 
 ###### Artículo 48.
 
-La Comisión tiene plena jurisdicción para conocer, tramitar y resolver el recurso de revisión interpuesto en los términos de la Ley.
+La Comisión tiene plena jurisdicción para conocer, tramitar y resolver los recursos de revisión y queja, interpuestos en los términos de la Ley.
 
-###### Artículo 49.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2009)</small>
 
-Acreditada la presunta responsabilidad en la investigación del recurso presentado a petición de parte por violaciones a la Ley, la Comisión remitirá el expediente a la autoridad competente para su sustanciación y resolución conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Zacatecas.
+###### Articulo 49.
+
+Acreditada la presunta responsabilidad en la investigación de los recursos de revisión o queja presentados a petición de parte por violaciones a la Ley, la Comisión remitirá el expediente a la autoridad competente para su sustanciación y resolución conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Zacatecas.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2009)</small>
 
 ###### Artículo 50.
 
-Los procedimientos que se sigan ante la Comisión deberán ser presentados en términos de lo establecido en el Capitulo Octavo de la ley y este Estatuto. Para tal efecto, esta Comisión expedirá los formatos necesarios para que los interesados puedan interponer el recurso de revisión.
+Los procedimientos que se sigan ante la Comisión deberán ser presentados en términos de lo establecido en el Capítulo Octavo de la Ley y este Estatuto. Para tal efecto, esta Comisión expedirá los formatos necesarios para que los interesados puedan interponer los recursos de revisión o queja.
 
-###### Artículo 51.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ABRIL DE 2009)</small>
 
-De recibirse dos o más recursos de revisión de la misma entidad o sujeto obligado, se acordará su acumulación en un solo expediente.
+###### Articulo 51.
+
+De recibirse dos o más recursos de revisión o queja de la misma entidad o sujeto obligado, se podrá acordar su acumulación en un solo expediente.
 
 Dicha acumulación podrá decretarse al inicio o durante la sustanciación del recurso.
 
@@ -671,11 +693,11 @@ Dicha acumulación podrá decretarse al inicio o durante la sustanciación del r
 
 Presentado el recurso, el departamento jurídico dará cuenta al Comisionado Presidente, quien a su vez, lo turnará al Comisionado ponente, para que siga su procedimiento y en su oportunidad elabore el proyecto de resolución que será discutido en el Pleno.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ABRIL DE 2009)</small>
 
 ###### Artículo 53.
 
-Iniciado el procedimiento se requerirá al sujeto obligado, para que en un término de ocho días hábiles siguientes a la notificación, rinda su informe correspondiente, mismo que deberá contener respuesta a los cuestionamientos particulares, así como las pruebas en que funde y motive su dicho, presentando también dentro de dicho término, los alegatos correspondientes.
+Iniciado el procedimiento en el recurso de revisión, se requerirá al sujeto obligado, para que en un término de ocho días hábiles siguientes a la notificación, rinda su informe correspondiente, mismo que deberá contener respuesta a los cuestionamientos particulares así como las pruebas en que funde y motive su dicho, presentando también dentro de dicho término, los alegatos correspondientes. En caso del recurso de queja el término será de cuatro días hábiles.
 
 > <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2005)</small>
 
@@ -687,7 +709,9 @@ La Comisión, cuando lo estime pertinente, solicitará el informe respectivo por
 
 El Pleno de la Comisión podrá ampliar por una vez y hasta por un periodo igual, los plazos establecidos en las fracciones en I y V del artículo 52 de la Ley.
 
-### Capítulo XIII. De las Notificaciones
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE ABRIL DE 2009)</small>
+
+### Capítulo XIV (SIC). De las Notificaciones
 
 ###### Artículo 55.
 
@@ -697,9 +721,13 @@ I. Personalmente;
 
 II. Por estrados;
 
-III. Por oficio dirigido al sujeto obligado; y
+III. Por oficio dirigido al sujeto obligado; y (sic)
 
-IV. Por cualquier otro medio que estime pertinente la Comisión.
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2009)</small>
+
+II (SIC). Por vía electrónica; y
+
+III. Por cualquier otro medio que estime pertinente la Comisión.
 
 Surtirán efecto al día siguiente al que se practiquen y al segundo día, si se practicó a través de estrados.
 
@@ -775,9 +803,11 @@ Son días hábiles todos los días del año, excepto, los sábados y domingos, a
 
 Lo anterior, sin perjuicio de que los sujetos obligados registren ante la Comisión su calendario oficial, en cuyo caso, se estará a lo que señalen los respectivos calendarios, para efectos del cómputo de los plazos a que se refiere la ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2009)</small>
+
 ###### Artículo 65.
 
-El horario de labores de la Comisión para la atención al público y desarrollo de las actividades inherentes a sus funciones, será de las 8:00 a las 16:00 horas todos los días hábiles, sin perjuicio de que pueda ser modificado en caso de que sea necesario por acuerdo del Pleno.
+El horario de labores para el personal de la Comisión, será el que de conformidad con lo establecido en la Ley del Servicio Civil del Estado de Zacatecas, determine el Pleno.
 
 ###### Artículo 66.
 
@@ -848,3 +878,9 @@ P.O. 1 DE OCTUBRE DE 2005.
 PRIMERO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación, en el Periódico Oficial, órgano del Gobierno del Estado.
 
 SEGUNDO.- Como consecuencia de la expedición de las presentes reformas y adiciones al "Estatuto Orgánico de la Comisión Estatal para el Acceso a la Información Pública", quedan sin efecto cualquier otra disposición que se oponga a las presentes.
+
+P.O. 22 DE ABRIL DE 2009.
+
+Primero.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación, en el Periódico Oficial Órgano de Gobierno del Estado.
+
+Segundo.- Se derogan las disposiciones administrativas que contravengan este Estatuto Orgánico.
