@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-del-archivo-general-del-poder-ejecutivo-del-9041"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-07-02"
-last_updated: "1994-07-02"
+last_updated: "2009-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 REGLAMENTO DEL ARCHIVO GENERAL DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LOS ARCHIVOS DEL PODER EJECUTIVO DEL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 22 DE ABRIL DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 2 de julio de 1994.
 
@@ -230,3 +232,17 @@ EL SECRETARIO DE ADMINISTRACION
 LIC. JORGE BUSTAMANTE GARCIA
 
 (RUBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE ABRIL DE 2009.
+
+ARTÍCULO RIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Reglamento del Archivo General del Poder Ejecutivo del Estado de Oaxaca publicado en el Periódico Oficial del Gobierno del Estado de fecha 2 de julio de 1994.
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones contenidas en el presente Reglamento, prevalecerán sobre cualquier otra disposición de igual o menor rango que se le opongan.
