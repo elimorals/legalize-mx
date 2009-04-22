@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-la-administracion-publica-municipal-del-h-66660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-14"
-last_updated: "2009-01-14"
+last_updated: "2009-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL H. AYUNTAMIENTO DE TUXTLA GUTIERREZ
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 14 de enero de 2009.
 
@@ -1087,7 +1087,9 @@ II. Asegurar la aplicación y supervisión del programa municipal de desarrollo 
 
 III. Supervisar el desarrollo y vigilar las actividades encaminadas a la atención integral de la población en general que se encuentran marginados de los beneficios sociales, económicos y culturales en el Municipio.
 
-IV. Analizar la demanda, integrar el presupuesto, contactar con los diferentes proveedores, diseñar el programa de supervisión de la entrega-distribución y elaborar estadísticas en materia de desayunos escolares; y,
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2009)</small>
+
+IV. Analizar la demanda, integrar el presupuesto, promover y apoyar el desarrollo de programas de vivienda popular, promoviendo la suscripción de convenios de coordinación de acciones en esta materia con las instancias competentes; y,
 
 V. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Desarrollo Social dentro del ámbito de su competencia.
 
@@ -2882,5 +2884,15 @@ Artículo Tercero.- Para su debido conocimiento, publíquese el presente reglame
 Dado en la sala de sesiones de Cabildo del Honorable Ayuntamiento de Tuxtla Gutiérrez, Chiapas; a los ocho días del mes de diciembre de dos mil ocho.
 
 C. Jaime Valls Esponda, Presidente Municipal Constitucional.- C. Jorge Flores Rincón, Síndico Municipal.-·C. Jesús Alfredo Galindo Albores, Secretario General del Ayuntamiento.- C. Flor de María Coello Trejo, Regidora.- C. Leonardo Omar León Alcázar, Regidor.- C. Bersaín Miranda Borraz, Regidor.- C. Jorge Isaac Sánchez Malda Regidor.- C. Alejandro Francisco Herrán Aguirre, Regidor.- C. Juan Carlos Gordillo Culebro, Regidor.- C. José del Carmen Guzmán Bermúdez, Regidor.- C. Ruperto Hernández Pereyra. Regidor.- C. Rosalinda Ovando Corzo, Regidora.- C. Sergio Antonio Rayo Cruz, Regidor.- C. Alexis Sánchez Santiago, Regidor.- C. Luvia Aceituno Espinosa, Regidora.- C. Danyt Martínez Grajales. Regidora.-·Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE ABRIL DE 2009.
+
+Primero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chiapas.
+
+Segundo.- Quedan derogadas todas aquellas disposiciones que se opongan al presente acuerdo.
+
+Tercero.- Para su debido conocimiento publíquese el presente Reglamento en la Gaceta Municipal, y remítase al Director del Periódico Oficial del Estado para su publicación.
 
 ## Título VI. Sanciones y Medios de Defensa
