@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-austeridad-para-el-gobierno-del-distrito-federal-35289"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-30"
-last_updated: "2003-12-30"
+last_updated: "2009-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35289&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2003-12-24"
 
 LEY DE AUSTERIDAD PARA EL GOBIERNO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DE LA LEY DE AUSTERIDAD Y GASTO EFICIENTE PARA EL GOBIERNO DEL DISTRITO FEDERAL, PUBLICADA EN LA G.O. DE 23 DE ABRIL DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 30 de diciembre de 2003.
 
@@ -99,3 +101,15 @@ TRANSITORIOS (SIC)
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintidós días del mes de diciembre del año dos mil tres.- POR LA MESA DIRECTIVA.- DIP. LORENA VILLAVICENCIO AYALA, PRESIDENTA SECRETARIA, DIP. GABRIELA GONZÁLEZ MARTÍNEZ.- SECRETARIO, DIP. JUVENTINO RODRÍGUEZ RAMOS.- (Firmas).
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b) de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67 fracción II y 90 del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los veinticuatro días del mes de diciembre de dos mil tres.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA. LAURA ITZEL CASTILLO JUÁREZ.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, JENNY SALTIEL COHEN.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, CLAUDIA SHEINBAUM PARDO.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, CÉSAR BUENROSTRO HERNÁNDEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, RAQUEL SOSA ELÍZAGA.- FIRMA.- LA SECRETARIA DE SALUD, ESA EBBA CHRISTINA LAURELL.- FIRMA.- EL SECRETARIO DE FINANZAS, GUSTAVO PONCE MELÉNDEZ.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, FRANCISCO GARDUÑO YAÑEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MARCELO EBRARD CASAUBÓN.- FIRMA.- LA SECRETARIA DE TURISMO, JULIA RITA CAMPOS DE LA TORRE.- FIRMA.- EL SECRETARIO DE CULTURA, ENRIQUE SEMO CALEV.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 23 DE ABRIL DE 2009.
+
+PRIMERO: Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO: El Presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO: Se Abroga la Ley de Austeridad para el Gobierno del Distrito Federal, Publicada el 30 de diciembre de 2003 en la Gaceta Oficial del Gobierno del Distrito Federal,
+
+CUARTO: Se derogan todas aquellas disposiciones que se contrapongan a la presente Ley.
