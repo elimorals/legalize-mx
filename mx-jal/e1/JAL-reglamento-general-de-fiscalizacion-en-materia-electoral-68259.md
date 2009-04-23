@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-general-de-fiscalizacion-en-materia-electoral-68259"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-09"
-last_updated: "2009-04-09"
+last_updated: "2009-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68259&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO GENERAL DE FISCALIZACION EN MATERIA ELECTORAL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2009.
 
 Reglamento publicado en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 9 de abril de 2009.
 
@@ -459,9 +459,11 @@ Financiamiento de la militancia y de simpatizantes
 
 2. El financiamiento de simpatizantes estará conformado por las aportaciones o donativos, en dinero o en especie, hechas a los partidos en forma libre y voluntaria por las personas físicas o morales con residencia en el país, que no estén comprendidas en el párrafo 2 del artículo 89 del Código. En todos los casos deberá cumplirse con lo dispuesto en los artículos 17.8 y 17.9 de este Reglamento.
 
-3. La suma que cada partido puede obtener anualmente de los recursos provenientes de las aportaciones obligatorias ordinarias y extraordinarias de sus afiliados, de sus organizaciones sociales, de las cuotas voluntarias y personales que los candidatos aporten exclusivamente para sus campañas, de sus actividades de autofinanciamiento, y los obtenidos mediante colectas, realizadas en mítines o en la vía publica, no podrá ser mayor al diez por ciento anual del monto establecido como tope de gasto de campaña para la elección de Gobernador del Estado inmediata anterior, de conformidad con lo establecido en el artículo 90, párrafo 4 del Código.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2009)</small>
 
-4. Además de la cantidad que resulte de lo establecido en el párrafo precedente, ningún partido podrá recibir anualmente aportaciones, en dinero o en especie, de afiliados y simpatizantes por una cantidad superior al diez por ciento del monto establecido como tope de gastos para la campaña de Gobernador del Estado inmediata anterior, de conformidad con lo establecido en el artículo 90, párrafo 3, fracción III, inciso a) del Código.
+3. La suma que cada partido puede obtener anualmente de los recursos provenientes de aportaciones o donativos, en dinero o en especie, hechas a los partidos políticos en forma libre y voluntaria por simpatizantes; las aportaciones obligatorias ordinarias y extraordinarias de sus afiliados, de sus organizaciones sociales, de las cuotas voluntarias y personales que los candidatos aporten exclusivamente para sus campañas, de sus actividades de autofinanciamiento, y los obtenidos mediante colectas realizadas en mítines que en la vía pública, no podrá ser mayor al diez por ciento anual del monto establecido como tope de gasto de campaña para la elección de Gobernador del Estado inmediata anterior.
+
+4. (DEROGADO, P.O. 23 DE ABRIL DE 2009)
 
 5. Las aportaciones en dinero que realice cada persona física o moral facultada para ello, tendrán un límite anual equivalente al 0.5% del monto total del tope de gastos fijado para la campaña Gobernador del Estado. Las aportaciones podrán realizarse en parcialidades y en cualquier tiempo, pero el monto total aportado durante un año por una persona física o moral no podrá rebasar el límite anteriormente señalado, de conformidad con lo establecido en el artículo 90, párrafo 3, fracción III, inciso c) del Código.
 
@@ -1637,7 +1639,9 @@ II. Convenir en que uno de los partidos que integran la coalición será el resp
 
 2. Todos los egresos que realicen la coalición y sus candidatos deberán registrarse contablemente y estar soportados con la documentación original que expida la persona a quien se efectuó el pago, la cual deberá cumplir con los requisitos que exige el capítulo III del título I del libro segundo del presente Reglamento. En los egresos que realice la coalición se deberá señalar de cada erogación la justificación, destino, beneficiarios, condición del beneficiario y firma de autorización del responsable del órgano de administración del partido representante de la coalición o de los funcionarios autorizados por éste.
 
-3. Todo pago que efectúen las coaliciones que rebase la cantidad equivalente a cien días de salario mínimo deberá sujetarse a lo establecido en los artículos 24.6, 24.7, 24.8 y 24.9 de este Reglamento. Las pólizas de los cheques deberán conservarse anexas a la documentación comprobatoria correspondiente.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2009)</small>
+
+3. Todo pago que efectúen las coaliciones que rebase la cantidad equivalente a doscientos cincuenta días de salario mínimo deberá sujetarse a lo establecido en los artículos 24.6, 24.7, 24.8 y 24.9 de este Reglamento. Las pólizas de los cheques deberán conservarse anexas a la documentación comprobatoria correspondiente.
 
 4. Los gastos de campaña centralizados y las erogaciones que involucren dos o más campañas de una coalición de cualquier tipo, serán distribuidos o prorrateados entre las distintas campañas de la siguiente forma:
 
@@ -2590,3 +2594,17 @@ El suscrito Secretario Ejecutivo del Instituto Electoral y de Participación Ciu
 Carlos Oscar Trejo Herrera
 
 Secretario Ejecutivo
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE ABRIL DE 2009.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL DEL ESTADO DE JALISCO.
+
+SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO. Se aprueban las modificaciones al Reglamento General de Fiscalización en Materia Electoral del Estado de Jalisco, en los términos del ANEXO que se acompaña al presente acuerdo como parte integral del mismo.
+
+SEGUNDO. Notifíquese con copia simple del presente acuerdo y su ANEXO a los partidos políticos acreditados ante este instituto electoral.
+
+TERCERO. Publíquese el presente acuerdo y su ANEXO en el Periódico Oficial "El Estado de Jalisco", así como en el portal de internet oficial de este organismo electoral.
