@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-34232"
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-18"
-last_updated: "2008-03-29"
+last_updated: "2009-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE TRANSPORTE PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE TRANSPORTE PUBLICO DEL ESTADO DE SAN LUIS POTOSI, PUBLICADA EN EL P.O. DE 23 DE ABRIL DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de septiembre de 2003.
 
@@ -1426,3 +1428,21 @@ CUARTO. El requisito establecido en la fracción VIII del artículo 61 de la Ley
 P.O. 29 DE MARZO DE 2008.
 
 UNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE ABRIL DE 2009.
+
+PRIMERO. Esta Ley entrará en vigor sesenta días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Transporte Público del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el dieciocho de septiembre de 2003; y se derogan las demás disposiciones legales y reglamentarias que se opongan a la presente Ley.
+
+TERCERO. El Ejecutivo del Estado tendrá un plazo de noventa días, contados a partir de la entrada en vigor de esta Ley, para emitir y publicar el Reglamento de la misma.
+
+CUARTO. Para la debida integración del Consejo Estatal de Transporte, el Ejecutivo del Estado contará con un plazo de cuarenta y cinco días contados a partir de la entrada en vigor de esta Ley.
+
+QUINTO. Las disposiciones de esta Ley, relativas a la integración y funcionamiento de los consejos municipales de transporte, entrarán en vigor el día uno de octubre de 2009 y, a partir de esa fecha, los ayuntamientos de los municipios del Estado contarán con un plazo de cuarenta y cinco días para integrar sus respectivos consejos.
+
+SEXTO. Para los efectos de lo dispuesto por el segundo párrafo del artículo 44 de esta Ley, el Ejecutivo del Estado dispondrá lo necesario en la esfera de su competencia para asegurar que cada año, a partir de su entrada en vigor, un diez por ciento de las unidades de cada ruta reúnan las especificaciones a que se refiere el párrafo primero del propio artículo, hasta abarcar, en diez años, la totalidad de las unidades que presten el servicio de transporte público colectivo.
+
+SEPTIMO. Lo dispuesto por el artículo 101 de esta Ley en relación con la prohibición de fijar propaganda electoral en vehículos de transporte público y en los servicios auxiliares, entrará en vigor una vez que, de acuerdo con las disposiciones de la Ley Electoral del Estado de San Luis Potosí, el proceso electoral iniciado el mes de agosto de 2008 se encuentre concluido.
+
+OCTAVO. Los asuntos que se encuentren en trámite a la entrada en vigor de la presente Ley, serán resueltos por las autoridades competentes, en los términos del ordenamiento que se abroga.
