@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-control-vehicular-y-de-licencias-y-56672"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-17"
-last_updated: "2007-09-17"
+last_updated: "2009-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56672&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2007-09-14"
 ---
 # REGLAMENTO PARA EL CONTROL VEHICULAR Y DE LICENCIAS Y PERMISOS PARA CONDUCIR EN EL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY DE MOVILIDAD DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 15 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO PARA EL CONTROL VEHICULAR Y DE LICENCIAS Y PERMISOS PARA CONDUCIR EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE ABRIL DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 17 de septiembre de 2007.
 
@@ -50,53 +52,105 @@ La aplicación e interpretación del presente Reglamento es competencia de la Se
 
 Para efectos del presente Reglamento, además de lo que señala la Ley, se entiende por:
 
-Apoyo Vial: Conjunto de acciones implementadas por la Secretaría de Transportes y Vialidad para la organización, administración y mejoramiento de las vías de afluencia vehicular en el Distrito Federal.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 23 DE ABRIL DE 2009)</small>
 
-Autos Antiguos: Vehículos que tienen un mínimo de treinta años contados a partir de la fecha de su fabricación, que conserven sus características originales o cuenten con al menos un ochenta por ciento de sus partes originales y cumplan con las disposiciones normativas vigentes para circular en el Distrito Federal.
+I. Anulación: Constituye en la anulación de puntos de penalización acumulados en la licencia para conducir.
 
-Bicicletas Adaptadas: Vehículo ligero no motorizado, modificado para ofrecer el servicio de transporte de pasajeros o carga en cualquiera de sus modalidades.
+> <small>(REFORMADA [N. DE E. ADICIONADA, ANTES PARRAFO PRIMERO], G.O. 23 DE ABRIL DE 2009)</small>
 
-Boleta de Sanción: Documento expedido por la Secretaría de Seguridad Pública, a través de la cual un elemento de la policía preventiva del Distrito Federal, aplica y hace constar la imposición de las sanciones establecidas por infringir el Reglamento de Tránsito Metropolitano.
+II. Apoyo Vial: Conjunto de acciones implementadas por la Secretaría de Transportes y Vialidad para la organización, administración y mejoramiento de las vías de afluencia vehicular en el Distrito Federal.
 
-Calcomanía de Circulación: Aditamento plástico de identificación y clasificación, expedido por la Secretaría de Transportes y Vialidad, indispensable para la circulación, coincidente con la Placa de Matricula y la Tarjeta de Circulación, que debe ser colocado al interior del vehículo y claramente visible al exterior del mismo.
+> <small>(REFORMADA [N. DE E. ADICIONADA, ANTES PARRAFO SEGUNDO], G.O. 23 DE ABRIL DE 2009)</small>
 
-Cancelación: Acto de autoridad por virtud del cual la Secretaría de Transportes y Vialidad determina dejar sin validez una licencia o permiso para conducir al actualizarse cualquiera de los supuestos que señala la Ley de Transporte y Vialidad del Distrito Federal, el Reglamento de Transporte del Distrito Federal, el Reglamento de Tránsito Metropolitano o el presente Reglamento.
+III. Autos Antiguos: Vehículos que tienen un mínimo de treinta años contados a partir de la fecha de su fabricación, que conserven sus características originales o cuenten con al menos un ochenta por ciento de sus partes originales y cumplan con las disposiciones normativas vigentes para circular en el Distrito Federal.
 
-Control Vehicular: Conjunto ordenado de datos, archivos y registros catalogados y clasificados que conllevan la aplicación de manuales de operación, formatos, procesos y procedimientos específicos, relativos a los propietarios de los vehículos y sus respectivas formas de autorización para la circulación, a las licencias y permisos para conducir, así como a las cualidades, condiciones, características y modalidades de los vehículos que circulan en el Distrito Federal.
+> <small>(REFORMADA [N. DE E. ADICIONADA, ANTES PARRAFO TERCERO], G.O. 23 DE ABRIL DE 2009)</small>
 
-Ley: La Ley de Transporte y Vialidad del Distrito Federal vigente.
+IV. Bicicletas Adaptadas: Vehículo ligero no motorizado, modificado para ofrecer el servicio de transporte de pasajeros o carga en cualquiera de sus modalidades.
 
-Padrón Vehicular: Relación nominal de datos, registros y archivos sistematizados, por la Secretaría de Transportes y Vialidad, del control vehicular del Distrito Federal.
+> <small>(REFORMADA [N. DE E. ADICIONADA, ANTES PARRAFO CUARTO], G.O. 23 DE ABRIL DE 2009)</small>
 
-Persona con Discapacidad: Toda persona que presenta temporal o permanentemente una disminución en sus facultades físicas que limitan su capacidad para conducir un vehículo automotor.
+V. Boleta de Sanción: Documento expedido por la Secretaría de Seguridad Pública, a través de la cual un elemento de la policía preventiva del Distrito Federal, aplica y hace constar la imposición de las sanciones establecidas por infringir el Reglamento de Tránsito Metropolitano.
 
-Placa de Matrícula: Aditamento de metal indispensable para la circulación, identificación y clasificación del vehículo, expedida por la Secretaría de Transportes y Vialidad, coincidente con la Calcomanía y Tarjeta de Circulación, que debe portarse en los lugares destinados para ello conforme al diseño de los vehículos.
+> <small>(REFORMADA [N. DE E. ADICIONADA, ANTES PARRAFO QUINTO], G.O. 23 DE ABRIL DE 2009)</small>
 
-Placa de Matricula Demostradora: Aditamento de metal indispensable para la circulación, identificación y clasificación del vehículo, otorgado por la Secretaría, que debe ser colocado al exterior del vehículo en la parte frontal y posterior, que se asigna con el objeto de que las agencias automotrices puedan trasladar vehículos nuevos de la propia agencia a cualquier sitio dentro de la zona metropolitana.
+VI. Calcomanía de Circulación: Aditamento plástico de identificación y clasificación, expedido por la Secretaría de Transportes y Vialidad, indispensable para la circulación, coincidente con la Placa de Matricula y la Tarjeta de Circulación, que debe ser colocado al interior del vehículo y claramente visible al exterior del mismo.
 
-Propietario del Vehículo: Persona física o moral, que mediante documento legal idóneo acredite la posesión de un vehículo, con pleno ejercicio de uso y disposición del mismo, sin más limitaciones que las contenidas en los ordenamientos legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA, ANTES PARRAFO SEXTO], G.O. 23 DE ABRIL DE 2009)</small>
 
-Punto de Penalización: Elemento contabilizado por la Secretaría de Transportes y Vialidad que constituye una unidad de registro en la licencia para conducir, asociado al incumplimiento y gravedad de las violaciones al Reglamento de Tránsito Metropolitano.
+VII. Cancelación: Acto de autoridad por virtud del cual la Secretaría de Transportes y Vialidad determina dejar sin validez una licencia o permiso para conducir al actualizarse cualquiera de los supuestos que señala la Ley de Transporte y Vialidad del Distrito Federal, el Reglamento de Transporte del Distrito Federal, el Reglamento de Tránsito Metropolitano o el presente Reglamento.
 
-Punto de Restitución: Elemento que constituye una unidad de registro en la licencia para conducir, que anula los puntos de penalización acumulados.
+> <small>(REFORMADA [N. DE E. ADICIONADA, ANTES PARRAFO SEPTIMO], G.O. 23 DE ABRIL DE 2009)</small>
 
-Reglamento: El Reglamento para el control vehicular y de licencias y permisos para conducir en el Distrito Federal.
+VIII. Control Vehicular: Conjunto ordenado de datos, archivos y registros catalogados y clasificados que conllevan la aplicación de manuales de operación, formatos, procesos y procedimientos específicos, relativos a los propietarios de los vehículos y sus respectivas formas de autorización para la circulación, a las licencias y permisos para conducir, así como a las cualidades, condiciones, características y modalidades de los vehículos que circulan en el Distrito Federal.
 
-Reglamento de Transporte: El Reglamento de Transporte del Distrito Federal.
+> <small>(REFORMADA [N. DE E. ADICIONADA, ANTES PARRAFO OCTAVO], G.O. 23 DE ABRIL DE 2009)</small>
 
-Reglamento de Tránsito: El Reglamento de Tránsito Metropolitano.
+IX. Ley: La Ley de Transporte y Vialidad del Distrito Federal vigente.
 
-Sanción: Pena establecida por el incumplimiento o falta de acatamiento a las disposiciones establecidas en el Reglamento de Tránsito y el presente Reglamento, integrada conjunta o separadamente por una multa determinada, la acumulación de puntos de penalización, la remisión del vehículo al deposito vehicular o el arresto.
+> <small>(REFORMADA [N. DE E. ADICIONADA, ANTES PARRAFO NOVENO], G.O. 23 DE ABRIL DE 2009)</small>
 
-Secretaría: La Secretaría de Transportes y Vialidad.
+X. Padrón Vehicular: Relación nominal de datos, registros y archivos sistematizados, por la Secretaría de Transportes y Vialidad, del control vehicular del Distrito Federal.
 
-Seguridad Pública: La Secretaría de Seguridad Pública.
+> <small>(REFORMADA [N. DE E. ADICIONADA, ANTES PARRAFO DECIMO], G.O. 23 DE ABRIL DE 2009)</small>
 
-Sistema de Registro de Puntos: Conjunto ordenado de datos relativo a la inscripción de las sanciones derivadas de la aplicación del Reglamento de Tránsito y traducidas en Puntos de Penalización y Puntos de Restitución.
+XI. Persona con Discapacidad: Toda persona que presenta temporal o permanentemente una disminución en sus facultades físicas que limitan su capacidad para conducir un vehículo automotor.
 
-Suspensión: Acto de autoridad por virtud del cual la Secretaría de Transportes y Vialidad determina dejar sin validez de manera temporal una licencia o permiso para conducir, por actualizarse cualquiera de los supuestos que señala la Ley, el Reglamento de Transporte, el Reglamento de Tránsito o el presente Reglamento.
+> <small>(REFORMADA [N. DE E. ADICIONADA, ANTES PARRAFO DECIMO PRIMERO], G.O. 23 DE ABRIL DE 2009)</small>
 
-Tarjeta de Circulación: Documento expedido por la Secretaría, indispensable para la circulación, coincidente con la Placa de Matricula y Calcomanía de Circulación, que contiene los datos específicos del propietario, así como las características del vehículo autorizado para circular.
+XII. Placa de Matrícula: Aditamento de metal indispensable para la circulación, identificación y clasificación del vehículo, expedida por la Secretaría de Transportes y Vialidad, coincidente con la Calcomanía y Tarjeta de Circulación, que debe portarse en los lugares destinados para ello conforme al diseño de los vehículos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA, ANTES PARRAFO DECIMO SEGUNDO], G.O. 23 DE ABRIL DE 2009)</small>
+
+XIII. Placa de Matricula Demostradora: Aditamento de metal indispensable para la circulación, identificación y clasificación del vehículo, otorgado por la Secretaría, que debe ser colocado al exterior del vehículo en la parte frontal y posterior, que se asigna con el objeto de que las agencias automotrices puedan trasladar vehículos nuevos de la propia agencia a cualquier sitio dentro de la zona metropolitana.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 23 DE ABRIL DE 2009)</small>
+
+XIV. Programa: Programa de anulación de puntos de penalización acumulados en la licencia para conducir.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA, ANTES PARRAFO DECIMO TERCERO], G.O. 23 DE ABRIL DE 2009)</small>
+
+XV. Propietario del Vehículo: Persona física o moral, que mediante documento legal idóneo acredite la posesión de un vehículo, con pleno ejercicio de uso y disposición del mismo, sin más limitaciones que las contenidas en los ordenamientos legales.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA, ANTES PARRAFO DECIMO CUARTO], G.O. 23 DE ABRIL DE 2009)</small>
+
+XVI. Punto de Penalización: Elemento contabilizado por la Secretaría de Seguridad Pública que constituye una unidad de registro en la licencia para conducir, derivado de las violaciones al Reglamento de Tránsito Metropolitano.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA, ANTES PARRAFO DECIMO SEXTO], G.O. 23 DE ABRIL DE 2009)</small>
+
+XVII. Reglamento: El Reglamento para el control vehicular y de licencias y permisos para conducir en el Distrito Federal.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA, ANTES PARRAFO DECIMO SEPTIMO], G.O. 23 DE ABRIL DE 2009)</small>
+
+XVIII. Reglamento de Transporte: El Reglamento de Transporte del Distrito Federal.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA, ANTES PARRAFO DECIMO OCTAVO], G.O. 23 DE ABRIL DE 2009)</small>
+
+XIX. Reglamento de Tránsito: El Reglamento de Tránsito Metropolitano.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA, ANTES PARRAFO DECIMO NOVENO], G.O. 23 DE ABRIL DE 2009)</small>
+
+XX. Sanción: Pena establecida por el incumplimiento o falta de acatamiento a las disposiciones establecidas en el Reglamento de Tránsito y el presente Reglamento, integrada conjunta o separadamente por una multa determinada, la acumulación de puntos de penalización, la remisión del vehículo al deposito vehicular o el arresto.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA, ANTES PARRAFO VIGESIMO], G.O. 23 DE ABRIL DE 2009)</small>
+
+XXI. Secretaría: La Secretaría de Transportes y Vialidad.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA, ANTES PARRAFO VIGESIMO PRIMERO], G.O. 23 DE ABRIL DE 2009)</small>
+
+XXII. Seguridad Pública: La Secretaría de Seguridad Pública.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA, ANTES PARRAFO VIGESIMO SEGUNDO], G.O. 23 DE ABRIL DE 2009)</small>
+
+XXIII. Sistema de Registro de Puntos: Conjunto ordenado de datos relativo a la inscripción de las sanciones derivadas de la aplicación del Reglamento de Tránsito y traducidas en Puntos de Penalización y Anulación de puntos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA, ANTES PARRAFO VIGESIMO TERCERO], G.O. 23 DE ABRIL DE 2009)</small>
+
+XXIV. Suspensión: Acto de autoridad por virtud del cual la Secretaría de Transportes y Vialidad determina dejar sin validez de manera temporal una licencia o permiso para conducir, por actualizarse cualquiera de los supuestos que señala la Ley, el Reglamento de Transporte, el Reglamento de Tránsito o el presente Reglamento.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA, ANTES PARRAFO VIGESIMO CUARTO], G.O. 23 DE ABRIL DE 2009)</small>
+
+XXV. Tarjeta de Circulación: Documento expedido por la Secretaría, indispensable para la circulación, coincidente con la Placa de Matricula y Calcomanía de Circulación, que contiene los datos específicos del propietario, así como las características del vehículo autorizado para circular.
 
 ###### Artículo 3º.
 
@@ -170,7 +224,9 @@ VI. Alta de bicicletas adaptadas;
 
 VII. Baja de vehículos del padrón vehicular;
 
-VIII. Reposición de tarjeta de circulación;
+> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2009)</small>
+
+VIII. Expedición, renovación y reposición de tarjeta de circulación;
 
 IX. Reposición de calcomanía de circulación permanente y de placas de matrícula;
 
@@ -274,19 +330,25 @@ II. Holograma de verificación vehicular vigente.
 
 Las calcomanías de vehículos de servicio particular, serán adheridas en un lugar visible en los cristales del vehículo.
 
-Tratándose de vehículos de servicio público de transporte de pasajeros o de carga, se colocarán en la parte superior derecha del parabrisas, debiendo ser retiradas y sustituidas por otras, cuando concluya su vigencia.
+> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2009)</small>
+
+Tratándose de vehículos de servicio público de transporte de pasajeros o de carga, y transporte escolar o de personal, se colocarán en la parte superior derecha del parabrisas, debiendo ser retiradas y sustituidas por otras, cuando concluya su vigencia.
 
 ### CAPÍTULO III.
 
 DE LA TARJETA DE CIRCULACIÓN.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE ABRIL DE 2009)</small>
+
 ###### Artículo 8º.
 
-La tarjeta de circulación podrá contener como mínimo los datos que se señalan a continuación, los cuales podrán variar, de conformidad con los criterios que para tales efectos establezca la Secretaría:
+La tarjeta de circulación debe contener como mínimo los datos que se señalan a continuación, los cuales podrán variar, de conformidad con los criterios que para tales efectos establezca la Secretaría:
 
 I. Nombre del propietario del vehículo;
 
-II. Domicilio del propietario del vehículo;
+> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2009)</small>
+
+II. Domicilio actual del propietario del vehículo;
 
 III. Las placas de matrícula, mismas que deben coincidir con la calcomanía permanente de circulación;
 
@@ -312,7 +374,9 @@ XIII. En el caso de vehículos de transporte de carga particular, la duración d
 
 XIV. La referencia de contar con dispositivo de geolocalización o de georeferenciación satelital radioeléctrico o de tecnología similar, y
 
-XV. Vigencia.
+> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2009)</small>
+
+XV. Vigencia, la cual no podrá ser mayor a tres años.
 
 El conductor del vehículo debe portar el original de la tarjeta de circulación a que este se refiere.
 
@@ -356,7 +420,9 @@ En los casos en que la Secretaría hubiere autorizado la realización de dichos 
 
 Tratándose del trámite de expedición de licencias o permisos para conducir, procederá su negativa definitiva, sin perjuicio de las sanciones que se impongan por su uso indebido y las que deriven de la denuncia que al efecto formule la autoridad competente ante el Ministerio Público.
 
-En los casos en que la Secretaría hubiere autorizado la expedición de licencias o permisos para conducir, procederá a su cancelación definitiva.
+> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2009)</small>
+
+En los casos en que la Secretaría hubiere autorizado la expedición de licencias o permisos para conducir, procederá a su cancelación definitiva y la licencia quedará en posesión de la Secretaria para su destrucción.
 
 ###### Artículo 13.
 
@@ -396,13 +462,17 @@ Para la conducción de vehículos en el Distrito Federal, se requiere licencia o
 
 La conducción de un vehículo que al efecto se realice sin contar con licencia o permiso para conducir o cuya vigencia se encuentre vencida, suspendida o cancelada, dará lugar a la imposición de las sanciones establecidas en el Reglamento de Tránsito y el presente Reglamento, así como a la remisión del vehículo al depósito vehicular correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE ABRIL DE 2009)</small>
+
 ###### Artículo 17.
 
-A la expedición de la licencia para conducir, le es inherente un Sistema de Registro de Puntos, los cuales pueden ser de Penalización o de Restitución, conforme a los siguientes casos:
+A la expedición de la licencia para conducir, le es inherente un Sistema de Registro de Puntos, los cuales pueden ser de Penalización o anulación, conforme a los siguientes casos:
 
 I. La acumulación de los puntos de penalización que conjuntamente con las multas, deriva de las sanciones impuestas por el incumplimiento y la gravedad de las violaciones cometidas al Reglamento de Tránsito y el presente Reglamento.
 
-II. Los puntos de restitución, derivan de la adhesión al Programa de Restitución de Puntos que al efecto implemente la Secretaría.
+> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2009)</small>
+
+II. La anulación de puntos, deriva de la adhesión al Programa que al efecto implemente la Secretaría.
 
 ###### Artículo 18.
 
@@ -418,7 +488,9 @@ III. Tipo C, para la conducción de vehículos de transporte público colectivo 
 
 IV. Tipo D, para la conducción de vehículos de transporte de carga, con una vigencia de dos a tres años y válida para conducir vehículos de carga que excedan de 3.5 toneladas. La licencia Tipo D, autoriza también la conducción de vehículos que requieren licencia Tipo A; y
 
-V. Tipo E, especial para la conducción de patrullas, ambulancias, vehículos de bomberos, de transporte de valores, de custodia y traslado de internos y demás que establezca la Secretaría, con una vigencia de dos a tres años. La licencia Tipo E, autoriza también la conducción de vehículos que requieren licencia Tipo A.
+> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2009)</small>
+
+V. Tipo E, especial para la conducción de patrullas, ambulancias, vehículos de bomberos, en las modalidades de transporte escolar, personal, turístico, de transporte de valores, de custodia y traslado de internos y demás que establezca la Secretaría, con una vigencia de dos a tres años. La licencia Tipo E, autoriza también la conducción de vehículos que requieren licencia Tipo A.
 
 ###### Artículo 19.
 
@@ -430,7 +502,9 @@ I. Comprobante de pago de los derechos establecidos en el Código Financiero del
 
 II. Identificación oficial en la cual conste su identidad y mayoría de edad; y
 
-III. Comprobante de domicilio.
+> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2009)</small>
+
+III. Comprobante de domicilio; en caso de cambio de domicilio tendrá 15 días hábiles para informar a esta Secretaria.
 
 En el caso de extranjeros, además deberán acreditar su legal estancia en el país, mediante la presentación del documento migratorio expedido por la autoridad competente.
 
@@ -444,15 +518,35 @@ I. Comprobante de pago de los derechos establecidos en el Código Financiero del
 
 II. Identificación Oficial;
 
-III. Comprobante de domicilio;
+> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2009)</small>
+
+III. Comprobante de domicilio; en caso de cambio de domicilio tendrá 15 días para informar a esta Secretaria;
 
 IV. Acreditación de la Evaluación Médica Integral, que incluya exámenes psicométrico; de consumo o ingesta de alcohol o enervantes, estupefacientes, o sustancias psicotrópicas; médico general, visual y auditivo, conforme lo establezca la Secretaría;
 
-V. Acreditación del curso de capacitación que autorice la Secretaría, conforme a la modalidad que corresponda; y
+> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2009)</small>
 
-VI. Acreditación de la Evaluación de Conocimientos y Desempeño que establezca la Secretaría.
+V. Acreditación del curso de capacitación que autorice la Secretaría, conforme a la modalidad que corresponda;
+
+> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2009)</small>
+
+VI. Acreditación de la Evaluación de Conocimientos y Desempeño que establezca la Secretaría; y
+
+> <small>(ADICIONADA, G.O. 23 DE ABRIL DE 2009)</small>
+
+VII. Comprobante de estudios, conforme lo establezca la Secretaría.
 
 Para la expedición de la licencia Tipo E, se requiere contar además de los requisitos anteriores, con la autorización o registro de la autoridad competente para operar el servicio especializado de que se trate.
+
+> <small>(ADICIONADO, G.O. 23 DE ABRIL DE 2009)</small>
+
+Para la expedición de la licencia Tipo E en su modalidad de transporte escolar o de personal se requiere contar, además de los requisitos anteriores, con:
+
+a) Constancia donde acredite como mínimo cinco años de experiencia prestando el servicio transportes escolar o de personal;
+
+b) Constancia de acreditación del curso de Capacitación en Primeros Auxilios; y
+
+c) Autorización y registro de la autoridad competente para operar el servicio de transporte escolar o de personal.
 
 ###### Artículo 21.
 
@@ -464,7 +558,9 @@ En los casos de robo o extravío, el interesado presentará la solicitud corresp
 
 La solicitud señalará en forma precisa nombre, domicilio para oír y recibir notificaciones y deberá acompañarse en original y copia, de los siguientes documentos:
 
-I. Acta Especial formulada ante el Ministerio Público o Comparecencia realizada ante el Juzgado Cívico.
+> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2009)</small>
+
+I. Acta Especial formulada ante el Ministerio Público;
 
 II. Comprobante de pago por concepto de derechos establecidos en el Código Financiero del Distrito Federal.
 
@@ -478,9 +574,39 @@ La solicitud señalará en forma precisa nombre, domicilio para oír y recibir n
 
 I. Comprobante de pago de los derechos establecidos en el Código Financiero del Distrito Federal;
 
-II. Acreditación de la Evaluación Médica Integral, que incluya exámenes psicométrico, de consumo o ingesta de alcohol o enervantes, estupefacientes o sustancias psicotrópicas, médico general, visual y auditivo, conforme lo establezca la Secretaría.
+> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2009)</small>
 
-Para la renovación de la licencia Tipo E, se requiere contar además de los requisitos anteriores, con la autorización o registro de la autoridad competente para operar el servicio especializado de que se trate.
+II. Identificación oficial vigente;
+
+> <small>(ADICIONADA, G.O. 23 DE ABRIL DE 2009)</small>
+
+III. Comprobante de domicilio actual;
+
+> <small>(ADICIONADA, G.O. 23 DE ABRIL DE 2009)</small>
+
+IV. Acreditación de Evaluación Médica Integral, que incluya exámenes psicométrico; de consumo o ingesta de alcohol o enervantes, estupefacientes, o sustancias psicotrópicas; médico general, visual y auditivo, conforme lo establezca la Secretaría;
+
+> <small>(ADICIONADA, G.O. 23 DE ABRIL DE 2009)</small>
+
+V. Acreditación del curso de capacitación que autorice la Secretaría, conforme a la modalidad que corresponda;
+
+> <small>(ADICIONADA, G.O. 23 DE ABRIL DE 2009)</small>
+
+VI. Acreditación de la Evaluación de Conocimientos y Desempeño que establezca la Secretaría;
+
+> <small>(ADICIONADA, G.O. 23 DE ABRIL DE 2009)</small>
+
+VII. Comprobante de estudios, conforme lo establezca la Secretaría.
+
+> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2009)</small>
+
+Para la renovación de la licencia Tipo E en su modalidad de transporte escolar o de personal se requiere contar, además de los requisitos anteriores, con:
+
+a) Constancia donde acredite como mínimo cinco años de experiencia prestando el servicio transporte escolar o de personal;
+
+b) Constancia de acreditación del curso de Capacitación en Primeros Auxilios; y
+
+c) Autorización y registro de la autoridad competente para operar el servicio de transporte escolar o de personal.
 
 La renovación se tramitará conforme a la información registrada en la base de datos de la Secretaría, siempre y cuando no medie solicitud de actualización alguna.
 
@@ -506,7 +632,9 @@ II. Restringen la conducción de un vehículo durante manifestaciones, caravanas
 
 III. De igual forma, restringen la conducción de un vehículo de transporte público, mercantil o privado de pasajeros o de carga en cualquiera de sus modalidades.
 
-El trámite para la obtención y reposición de permiso para conducir se realizará en las Delegaciones y Centros Autorizados.
+> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2009)</small>
+
+El trámite para la obtención y reposición de permiso para conducir se realizará en las Delegaciones y Centros Autorizados por la Secretaria. La vigencia de los permisos para conducir concluirá al cumplir el conductor la mayoría de edad.
 
 La vigencia de los permisos para conducir concluirá al cumplir el conductor la mayoría de edad.
 
@@ -524,45 +652,67 @@ III. Acta de nacimiento del menor que acredite la edad prevista en el artículo 
 
 IV. Credencial de identificación del menor;
 
-V. Carta Responsiva del padre, madre, tutor o quien ejerza la patria potestad, relativa al cumplimiento del pago de los daños que con motivo de la conducción del vehículo se lleguen a ocasionar; y
+> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2009)</small>
 
-VI. Constancia de curso de manejo impartido por un centro educativo autorizado por la Secretaría, que establezca la aptitud del menor para conducir.
+V. Carta Responsiva del padre, madre, tutor o quien ejerza la patria potestad, relativa al cumplimiento del pago de los daños que con motivo de la conducción del vehículo se lleguen a ocasionar;
+
+> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2009)</small>
+
+VI. Constancia de curso de manejo impartido por un centro educativo autorizado por la Secretaría, que establezca la aptitud del menor para conducir; y
+
+> <small>(ADICIONADA, G.O. 23 DE ABRIL DE 2009)</small>
+
+VII. Comprobante de domicilio; en caso de cambio de domicilio tendrá 15 días para informar a esta Secretaria.
 
 ### CAPÍTULO III.
 
 DE LA SUSPENSIÓN Y CANCELACIÓN.
 
+> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2009)</small>
+
 ###### Artículo 27.
 
-La Secretaría suspenderá temporalmente y, en su caso, cancelará de manera definitiva las licencias o permisos para conducir, de conformidad con lo previsto en la Ley, el Reglamento de Transporte, el Reglamento de Tránsito o el presente Reglamento.
+La Secretaría suspenderá y, en su caso, cancelará de manera definitiva las licencias o permisos para conducir, de conformidad con lo previsto en la Ley, el Reglamento de Transporte, el Reglamento de Tránsito o el presente Reglamento.
+
+> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2009)</small>
 
 ###### Artículo 28.
 
-El periodo de suspensión temporal a que hace referencia el artículo anterior, no podrá ser menor de seis meses ni mayor de doce.
+El periodo de suspensión a que hace referencia el artículo anterior, no podrá ser menor de seis meses ni mayor de doce, salvo lo estipulado por el artículo 64 bis de la Ley.
+
+> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2009)</small>
 
 ###### Artículo 29.
 
-La Secretaría deberá informar a Seguridad Pública, con la periodicidad que al efecto se establezca, los casos de suspensión temporal decretada y sobre el resultado de los procedimientos substanciados, cuya resolución haya declarado la cancelación de la licencia para conducir.
+La Secretaría deberá informar a Seguridad Pública, con la periodicidad que al efecto se establezca, los casos de suspensión decretada y sobre el resultado de los procedimientos substanciados, cuya resolución haya declarado la cancelación o suspensión de la licencia para conducir.
+
+> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2009)</small>
 
 ###### Artículo 30.
 
-En todo momento, la Secretaría y Seguridad Pública contarán con medios electrónicos de consulta, que permitan a los particulares verificar los datos relativos a las infracciones cometidas, así como al sistema de registro que contendrá el cómputo de los puntos de penalización o restitución que, según sea el caso, hayan sido aplicados a la licencia para conducir.
+En todo momento, la Secretaría y Seguridad Pública contarán con medios electrónicos de consulta, que permitan a los particulares verificar los datos relativos a las infracciones cometidas, así como al sistema de registro que contendrá el cómputo de los puntos de penalización o anulados que, según sea el caso, hayan sido aplicados a la licencia para conducir.
 
 ### CAPÍTULO IV.
 
 DEL SISTEMA DE REGISTRO DE PUNTOS.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE ABRIL DE 2009)</small>
+
 ###### Artículo 31.
 
-El sistema de registro de puntos se integrará con la información que al efecto emita Seguridad Pública, quien deberá remitir las Boletas de Sanción impuestas por infringir el Reglamento de Tránsito.
+El sistema de registro de puntos se integrará con la información que al efecto emita Seguridad Pública, quien deberá remitir las copias certificadas de las Boletas de Sanción impuestas por infringir el Reglamento de Tránsito.
 
 Con la información proporcionada por Seguridad Pública, se llevará a cabo la sumatoria de los puntos de penalización en el Sistema de Registro.
 
-Asimismo, dicho Sistema llevará el control de los puntos de restitución.
+> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2009)</small>
+
+Asimismo, dicho Sistema llevará el control de los puntos anulados.
+
+> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2009)</small>
 
 ###### Artículo 32.
 
-Los puntos de penalización o restitución, serán contabilizados durante el transcurso de un año por el Sistema de Registro, a partir de la fecha en que se expida la primera boleta de sanción y la misma no haya sido debidamente impugnada ante Seguridad Pública o en términos de lo dispuesto por el Artículo 108 de la Ley de Procedimiento Administrativo del Distrito Federal.
+Los puntos de penalización o anulación, serán contabilizados durante el transcurso de un año por el Sistema de Registro, a partir de la fecha en que se expida la primera boleta de sanción y la misma no haya sido debidamente impugnada ante la autoridad competente o en términos de lo dispuesto por el artículo 108 de la Ley de Procedimiento Administrativo del Distrito Federal.
 
 ###### Artículo 33.
 
@@ -576,29 +726,45 @@ DE LA RESTITUCIÓN DE PUNTOS.
 
 Los puntos de penalización acumulados serán anulados del Sistema de Registro, por las siguientes causas:
 
-I. Expiración de la vigencia de los puntos una vez transcurrido un año;
+> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2009)</small>
 
-II. Al haberse restituido en términos del Programa que al efecto implemente la Secretaría; y
+I. Expiración de la vigencia de los puntos; una vez transcurrido un año de la imposición de la boleta de sanción;
+
+> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2009)</small>
+
+II. Al haberse anulado en términos del Programa que al efecto implemente la Secretaría; y
 
 III. Por resolución judicial o administrativa que así lo determine.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE ABRIL DE 2009)</small>
+
 ###### Artículo 35.
 
-Los puntos de penalización acumulados podrán restituirse en el Sistema de Registro, conforme a lo siguiente:
+Los puntos de penalización acumulados podrán anularse en el Sistema de Registro, conforme a lo siguiente:
 
-I. Por acreditar un curso de manejo y sobre seguridad vial impartido por la Secretaría, con valor de tres puntos;
+> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2009)</small>
+
+I. Por acreditar un curso de educación vial y seguridad vial impartido por la Secretaria, con valor de tres puntos; el curso tendrá una duración aproximada entre 20 y 36 horas.
+
+El titular de la licencia solo tendrá una oportunidad por año para anular puntos mediante esta forma;
 
 II. Por realizar 36 horas trabajos en favor de la comunidad en materia seguridad y educación vial, con valor de tres puntos.
 
-Dichas actividades formarán parte integral del Programa de Restitución de Puntos que al efecto implemente la Secretaría.
+> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2009)</small>
+
+Dichas actividades formarán parte integral del Programa de anulación de Puntos que al efecto implemente la Secretaría.
+
+> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2009)</small>
 
 ###### Artículo 36.
 
-El titular de la licencia de conducir que pretenda anular el número de puntos de penalización contabilizado en el Sistema de Registro, podrá realizar en el transcurso de un año, cualquiera de las actividades referidas en el Artículo anterior.
+El titular de la licencia de conducir que pretenda anular puntos de penalización contabilizado en el Sistema de Registro, podrá realizar en el transcurso de un año, cualquiera de las actividades referidas en el Artículo anterior.
+
+> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2009)</small>
 
 ###### Artículo 37.
 
-El titular de la licencia para conducir que pretenda obtener los beneficios del Programa de Restitución de Puntos, deberá acreditar el cumplimiento de las multas impuestas en las Boletas de Sanción, mediante la exhibición del original del recibo de pago correspondiente.
+El titular de la licencia para conducir que pretenda obtener los beneficios del Programa de Anulación de Puntos, deberá acreditar el cumplimiento de las multas impuestas en las Boletas de Sanción, mediante la exhibición del original del recibo de pago correspondiente.
 
 ###### Artículo 38.
 
@@ -622,7 +788,9 @@ II. El titular de la misma haya causado algún daño derivado de la conducción 
 
 La Secretaría procederá a declarar la cancelación del permiso para conducir, cuando:
 
-I. El titular del permiso sea sancionado por segunda vez en el transcurso de un año, por conducir un vehículo en estado de ebriedad;
+> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2009)</small>
+
+I. El titular del permiso sea sancionado por conducir un vehículo en estado de ebriedad;
 
 II. El titular del permiso cometa alguna infracción a los ordenamientos legales vigentes y aplicables a la materia, bajo la influencia de estupefacientes, psicotrópicos u otras sustancias tóxicas;
 
@@ -632,9 +800,11 @@ IV. Se compruebe que la información proporcionada para su expedición sea falsa
 
 V. Cuando por motivo de su negligencia, impericia, falta de cuidado o irresponsabilidad, se causen lesiones que pongan en peligro la vida, seguridad e integridad física de las personas.
 
+> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2009)</small>
+
 ###### Artículo 41.
 
-Una vez ordenada la cancelación del permiso para conducir, no será procedente su expedición.
+Una vez ordenada la cancelación del permiso para conducir, no será procedente su expedición y deberá entregar el permiso que haya expedido a su favor con anterioridad.
 
 ### CAPÍTULO II.
 
@@ -644,13 +814,27 @@ DE LA SUSPENSIÓN Y CANCELACIÓN DE LA LICENCIA PARA CONDUCIR.
 
 La Secretaría procederá a declarar la suspensión de la licencia para conducir, en términos de lo que establece la Ley y el presente Reglamento, cuando:
 
-I. Se impongan al titular de la licencia tres o más infracciones en el transcurso de un año; o
+> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2009)</small>
 
-II. El titular de la misma, haya causado algún daño derivado de la conducción del vehículo y no cuente con póliza de seguro vigente o se abstenga de realizar la reparación correspondiente.
+I. El titular de la licencia para conducir sea sancionado por conducir un vehículo bajo los efectos del alcohol:
+
+a) La primera ocasión, por un periodo de un año, quedando obligado el infractor a someterse a un tratamiento de combate a las adicciones que determine su rehabilitación en una institución especializada pública o privada.
+
+b) La segunda ocasión, por un periodo de tres años, quedando obligado el infractor a someterse a un tratamiento de combate a las adiciones que determine su rehabilitación en una institución especializada pública o privada.
+
+> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2009)</small>
+
+II. Se impongan al titular de la licencia tres o más infracciones en el transcurso de un año; o
+
+> <small>(ADICIONADA, G.O. 23 DE ABRIL DE 2009)</small>
+
+III. El titular de la misma, haya causado algún daño derivado de la conducción del vehículo y no cuente con póliza de seguro vigente o se abstenga de realizar la reparación correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE ABRIL DE 2009)</small>
 
 ###### Artículo 43.
 
-La Secretaría podrá dejar sin efectos la suspensión temporal de la licencia para conducir, a que se refiere el artículo anterior, mediante declaratoria en la que se acredite que el infractor aprobó un curso de manejo y sobre seguridad vial impartido por la Secretaría y se compruebe, según sea el caso, la reparación del daño ocasionado.
+La Secretaría podrá dejar sin efectos la suspensión de la licencia para conducir, a que se refieren las fracciones II y III del artículo anterior, mediante declaratoria o constancia en la que acredite que el infractor aprobó un curso de manejo, educación vial y seguridad vial impartido por la Secretaría o se compruebe, según sea el caso, la reparación del daño ocasionado.
 
 Lo anterior, sin perjuicio del pago de las multas que al efecto se impongan por infringir el Reglamento de Tránsito.
 
@@ -660,7 +844,9 @@ La Secretaría procederá a declarar la cancelación de la licencia para conduci
 
 I. El titular de la licencia acumule doce puntos de penalización por infringir lo dispuesto en el Reglamento de Tránsito;
 
-II. El titular de la licencia sea sancionado por segunda vez en el transcurso de un año, por conducir un vehículo en estado de ebriedad;
+> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2009)</small>
+
+II. El titular de la licencia sea sancionado por tercera vez, por conducir un vehículo en estado de ebriedad;
 
 III. El titular de la licencia cometa alguna infracción a los ordenamientos legales vigentes y aplicables a la materia, bajo la influencia de estupefacientes, psicotrópicos u otras sustancias tóxicas;
 
@@ -674,29 +860,41 @@ VI. Cuando por motivo de su negligencia, impericia, falta de cuidado o irrespons
 
 La cancelación de la licencia para conducir se aplicará con independencia de las sanciones que al efecto establezca la Ley, el Reglamento de Transporte.
 
+> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2009)</small>
+
 ###### Artículo 46.
 
-Una vez ordenada la cancelación de la licencia para conducir, el titular de la misma deberá reintegrarla en un término de cinco días, contados a partir de la notificación de la Resolución Administrativa, independientemente del registro que al efecto se realice en el Sistema de Registro de Puntos, al concluir el procedimiento de cancelación.
+Una vez iniciado el procedimiento de cancelación o suspensión de la licencia para conducir, el titular de la misma deberá reintegrarla en el momento que se levante la Audiencia de Ley o en un término de cinco días, contados a partir de la notificación de la Resolución Administrativa, independientemente del registro que al efecto se realice en el Sistema de Registro de Puntos, al concluir el procedimiento de cancelación.
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 23 DE ABRIL DE 2009)</small>
 
 ### CAPÍTULO III.
 
-DEL PROCEDIMIENTO DE CANCELACIÓN.
+DEL PROCEDIMIENTO DE CANCELACIÓN O SUSPENSIÓN.
+
+> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2009)</small>
 
 ###### Artículo 47.
 
 Conforme a los resultados obtenidos por el Sistema de Registro de Puntos de Penalización, la Secretaría procederá a iniciar el procedimiento de cancelación de la licencia para conducir, al conductor que haya acumulado doce puntos de penalización.
 
+Cuando un conductor haya infringido el articulo 31 del Reglamento de Transito, la Secretaría procederá a iniciar el procedimiento de suspensión de la licencia para conducir.
+
 ###### Artículo 48.
 
 La Secretaría procederá a integrar el expediente correspondiente a la licencia para conducir, materia del procedimiento.
 
-El expediente se integrará con el reporte informativo que al efecto emita el Sistema de Registro de Puntos, así como con las boletas de sanción.
+> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2009)</small>
+
+El expediente se integrará con el reporte informativo que al efecto emita el Sistema de Registro de Puntos, así como con las copias certificadas de las boletas de sanción.
 
 Acto seguido, se procederá a su radicación y registro en el Libro de Gobierno y bajo el número que corresponda.
 
+> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2009)</small>
+
 ###### Artículo 49.
 
-La Secretaría será la encargada de notificar por escrito al titular de la licencia para conducir, los motivos que dieron origen al inicio del procedimiento de cancelación.
+La Secretaría será la encargada de notificar por escrito al titular de la licencia para conducir, los motivos que dieron origen al inicio del procedimiento de cancelación o suspensión, según corresponda.
 
 ###### Artículo 50.
 
@@ -706,6 +904,10 @@ Entre la fecha de notificación y la celebración de la Audiencia, no deberá tr
 
 A dicha Audiencia podrá acudir el titular de la licencia para conducir acompañado de abogado.
 
+> <small>(ADICIONADO, G.O. 23 DE ABRIL DE 2009)</small>
+
+La licencia para conducir quedara bajo resguardo de la Secretaria en el momento que su titular se presente a la Audiencia de Ley.
+
 ###### Artículo 51.
 
 La Audiencia de Ley, tendrá por objeto dar lugar a la Contestación, Ofrecimiento, Admisión, Desahogo de Pruebas, así como la recepción de los alegatos que al respecto formule el titular de la licencia para conducir.
@@ -714,7 +916,9 @@ La Audiencia de Ley, tendrá por objeto dar lugar a la Contestación, Ofrecimien
 
 Una vez concluido el periodo probatorio y de alegatos, la Secretaría procederá previa valoración, a dictar la Resolución Administrativa que en derecho proceda, dentro de los diez días hábiles siguientes.
 
-Dicha Resolución, deberá ser legalmente notificada y versará sobre la determinación de la cancelación de la licencia para conducir.
+> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2009)</small>
+
+Dicha Resolución, deberá ser legalmente notificada y versará sobre la determinación de la cancelación o suspensión, según corresponda, de la licencia para conducir.
 
 ###### Artículo 53.
 
@@ -722,11 +926,15 @@ La Resolución Administrativa, podrá ser recurrida en términos de lo que dispo
 
 La Secretaría procederá a su inscripción correspondiente en el sistema electrónico y documental existente, para que la misma surta sus efectos.
 
+> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2009)</small>
+
 ###### Artículo 54.
 
-En los casos en que haya sido declarada la cancelación de la licencia para conducir, la Secretaría no podrá expedir nuevamente ni reponer o renovar ésta, sino después de haber transcurrido tres años.
+En los casos en que haya sido declarada la cancelación de la licencia para conducir, la Secretaría no podrá expedir nuevamente ni reponer o renovar ésta, sino después de haber transcurrido tres años, la cual ya no podrá ser permanente.
 
-La Secretaría deberá informar periódicamente a Seguridad Pública, sobre el resultado de los Procedimientos substanciados, cuya Resolución haya declarado la cancelación de la licencia para conducir.
+En los casos en que haya sido declarada la suspensión de la licencia para conducir, la Secretaría no podrá expedir nuevamente ni reponer o renovar ésta, sino después de haber transcurrido el tiempo determinado en la Resolución, la cual ya no podrá ser permanente.
+
+La Secretaría deberá informar periódicamente a Seguridad Pública, sobre el resultado de los Procedimientos substanciados, cuya Resolución haya declarado o no la cancelación o suspensión de la licencia para conducir.
 
 ###### Artículo 55.
 
@@ -745,3 +953,11 @@ TERCERO. Se abroga el Reglamento de Transito del Distrito Federal, publicado en 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Reglamento.
 
 Dado en la residencia oficial del Jefe de Gobierno del Distrito Federal, a los catorce días del mes de septiembre del año dos mil siete. EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, ADOLFO JOEL ORTEGA CUEVAS.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, RAÚL ARMANDO QUINTERO MARTÍNEZ.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 23 DE ABRIL DE 2009.
+
+PRIMERO. - Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. - El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
