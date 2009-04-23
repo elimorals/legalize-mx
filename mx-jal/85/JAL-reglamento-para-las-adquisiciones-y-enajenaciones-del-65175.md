@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-las-adquisiciones-y-enajenaciones-del-65175"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-16"
-last_updated: "2008-12-16"
+last_updated: "2009-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65175&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO PARA LAS ADQUISICIONES Y ENAJENACIONES DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2009.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el martes 16 de diciembre de 2008.
 
@@ -387,31 +387,39 @@ IV. Emisión del fallo a favor de la propuesta que contenga el precio más bajo.
 
 ### Capítulo III. Excepciones a la licitación pública
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2009)</small>
+
 ###### Artículo 22.
 
-1. Cuando las adquisiciones de bienes y servicios deban realizarse mediante licitación pública, y ello no pueda efectuarse por caso fortuito o fuerza mayor, la Comisión dictaminará, de manera fundada y motivada, optar por celebrar contratos a través de los procedimientos de invitación o mediante adjudicación directa.
+1. Cuando las adquisiciones de bienes y servicios deban realizarse mediante licitación pública o invitación y ello no pueda efectuarse por caso fortuito o fuerza mayor, la Comisión dictaminará, de manera fundada y motivada, optar por celebrar contratos a través del procedimiento de adjudicación directa.
 
-2. La Comisión podrá dictaminará (sic) la procedencia de adquisiciones de bienes y servicios y arrendamientos, mediante los procedimientos de invitación o de adjudicación directa, cuando:
+2. La Comisión podrá dictaminar (dictaminará) la procedencia de adquisiciones de bienes y servicios, (y arrendamientos) mediante el procedimiento de adjudicación directa, cuando:
 
-I. Se trate de bienes y servicios para los cuales no existan sustitutos técnicamente adecuados y/o el contrato sólo pueda celebrarse con una determinada persona en virtud de que sea el titular o propietario exclusivo de patentes, derechos de autor u otros elementos de exclusividad;
+I. Se trate de bienes y servicios para los cuales no existan sustitutos técnicamente adecuados y/o el contrato sólo pueda celebrarse con una determinada persona en virtud de que sea el titular o propietario exclusivo de patentes, derechos de autor u otros elementos de exclusividad o sólo un proveedor pueda proporcionar los elementos técnicos requeridos;
 
-II. Existan circunstancias debidamente justificadas que puedan provocar pérdidas o costos adicionales importantes;
+Il. Existan circunstancias debidamente justificadas que puedan provocar pérdidas o costos adicionales importantes;
 
-III. Exista urgencia justificada y no sea posible obtener bienes o servicios mediante el procedimiento de licitación pública en el tiempo requerido para atender la eventualidad de que se trate. En este supuesto, las cantidades o conceptos deberán limitarse a lo estrictamente necesario para afrontarla;
+IIl. Exista urgencia justificada y no sea posible obtener bienes o servicios mediante los (el) procedimientos de licitación pública o invitación en el tiempo requerido para atender la eventualidad de que se trate. En este supuesto, las cantidades o conceptos deberán limitarse a lo estrictamente necesario para afrontarla;
 
-IV. Por causas imputables al proveedor, se hubiere rescindido el contrato resultante de la adjudicación. En estos casos, la Comisión podrá adjudicar el contrato al licitante que haya presentado la siguiente proposición solvente más baja;
+IV. Por causas imputables al proveedor, se hubiere rescindido el contrato resultante de la adjudicación. En estos casos, la Comisión podrá adjudicar el contrato al licitante o invitado que haya presentado la siguiente proposición solvente más baja;
 
 V. No se presenten o no existan dos o más proveedores del bien o servicio, previa justificación del área que lo solicite y la ponderación que realice la Comisión al respecto;
 
 VI. Existan razones debidamente justificadas por el área que lo solicite, para la adquisición o arrendamiento de bienes de marca y modelo determinados;
 
-VII. Se trate de adquisiciones de bienes usados; en cuyo caso, el precio de adquisición no podrá ser mayor al que se determine mediante avalúo que practiquen el Instituto Jalisciense de Ciencias Forenses o perito autorizado por el Supremo Tribunal de Justicia del Estado; y en su caso, alguna institución de crédito;
+VII. Se trate de adquisiciones de bienes usados; en cuyo caso, el precio de adquisición no podrá ser mayor al que se determine mediante avalúo que practiquen el Instituto Jalisciense de Ciencias Forenses, (o) perito autorizado por el Supremo Tribunal de Justicia del Estado o perito del Colegio de Corredores Públicos del Estado de Jalisco; y en su caso, alguna institución de crédito;
 
 VIII. Se trate de servicios profesionales prestados por una persona física, siempre que éstos sean realizados por ella misma; ó
 
-IX. El objeto del contrato sea el diseño y fabricación de un bien que sirva como prototipo para efectuar las pruebas que demuestren su funcionamiento. En estos casos la Comisión deberá pactar que los derechos sobre el diseño, uso o cualquier otro derecho exclusivo, se constituyan a favor del Instituto. De ser satisfactorias las pruebas, se formalizará el contrato para la producción.
+IX. El objeto del contrato sea el diseño y fabricación de un bien que sirva como prototipo para efectuar las pruebas que demuestren su funcionamiento. En estos casos la Comisión deberá pactar que los derechos sobre el diseño, uso o cualquier otro derecho exclusivo, se constituyan a favor del Instituto.
+
+De ser satisfactorias las pruebas, se formalizará el contrato para la producción.
 
 3. En cualquiera de los supuestos establecidos en el párrafo anterior, se tomarán en cuenta proveedores cuyas actividades comerciales o profesionales estén relacionadas con los bienes o servicios objeto del contrato a celebrarse y que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios, cualidades que podrán ser verificadas documental o físicamente por los integrantes de la Comisión.
+
+4. Cuando se lleve a cabo adjudicación directa de un bien o servicio en vía de excepción a la licitación pública, el dictamen que emita la Comisión en sometido a la consideración del Consejo para su aprobación.
+
+5. En caso de que se efectúe una adjudicación directa de un bien o servicio en vía de excepción al procedimiento de invitación, dicha adjudicación deberá ser hecha del conocimiento del Consejo a través del informe mensual que para tal efecto rinda.
 
 ### Capítulo IV. Garantías y Contratos
 
@@ -447,21 +455,27 @@ II. Cheque certificado o de caja a favor del Instituto.
 
 ### Capítulo V. Adquisiciones por Invitación
 
-###### Artículo 25.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2009)</small>
+
+###### Articulo 25.
 
 1. Cuando la adquisición de bienes o servicios no rebase el monto a que se refiere el artículo 16, párrafo 1, fracción II del presente ordenamiento, deberá efectuarse previa invitación a cuando menos tres de los proveedores registrados en el padrón del Instituto y/o en el del Gobierno del Estado.
 
-2. Cuando no existan proveedores suficientes en el padrón, y se requiera efectuar adquisiciones de algún bien o servicio, se aceptará la participación de proveedores no inscritos en él y se procederá de conformidad con lo siguiente:
+2. Cuando no existan proveedores eficientes en el padrón, y se requiera efectuar adquisiciones de algún bien o servicio, se aceptará la participación de proveedores no inscritos en él y se procederá de conformidad con lo siguiente:
 
 I. La Comisión podrá invitar a proveedores externos; y
 
-II. Si las propuestas de proveedores externos resultan adjudicadas, previo a la celebración del contrato respectivo, dichos proveedores deberán iniciar el procedimiento de su registro en el padrón, de conformidad con los requisitos establecidos en el presente Reglamento.
+II. Si las propuestas de proveedores externos resultan adjudicadas, previo a la celebración del contrato respectivo, dichos proveedores deberán iniciar el procedimiento de su registro, en el padrón, de conformidad con los requisitos establecidos en el presente Reglamento.
 
-3. En el caso de que el proveedor no inscrito incumpla con el contrato, se adjudicará la compra a la siguiente mejor opción.
+3. En el caso en que sólo se reciba una propuesta, la adquisición de los bienes o servicios se realizará mediante adjudicación directa al que la haya presentado, siempre y cuando reúna los requerimientos para ello.
 
-4. La invitación podrá realizarse vía fax o correo electrónico, anotándose la fecha límite para recibir ofertas, de las cuales se deberá recabar constancia. Los proveedores deberán presentar sus ofertas ante la Oficialía de Partes del Instituto en sobre cerrado que garantice su inviolabilidad, dirigido al Presidente de la Comisión, quien los turnará al Secretario.
+4. Si no se presenta ninguna propuesta, se declarará desierto el procedimiento de invitación y la adjudicación se realizará mediante adjudicación directa. Para este caso, la Comisión recabará tres cotizaciones como mínimo.
 
-5. Los sobres permanecerán bajo el resguardo del Secretario hasta la sesión de apertura, en la que dará cuenta de ellos.
+5. En el caso de que el proveedor (no inscrito) incumpla con el contrato, se adjudicará la compra a la siguiente mejor opción.
+
+6. La invitación podrá realizarse vía fax o correo electrónico, anotándose la fecha límite para recibir ofertas, de las cuales se deberá recabar constancia. Los proveedores deberán presentar sus ofertas ante la Oficialía de Partes del Instituto en sobre cerrado que garantice su inviolabilidad, dirigido al Presidente de la Comisión, quien los turnará al Secretario.
+
+7. Los sobres permanecerán bajo el resguardo del Secretario hasta la sesión de apertura, en la que dará cuenta de ellos.
 
 ###### Artículo 26.
 
@@ -481,9 +495,11 @@ IV. Las constancias de las invitaciones a los integrantes de la Comisión y el C
 
 ### Capítulo VI. Adquisiciones por Adjudicación Directa
 
-###### Artículo 28.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2009)</small>
 
-1. Los servicios de arrendamiento, telefonía, agua y suministro de energía eléctrica, dada su naturaleza, podrán adquirirse por adjudicación directa, sin perjuicio de que la Comisión revise los consumos y gastos que por dichos servicios se eroguen.
+###### Articulo 28.
+
+1. Los servicios de arrendamiento, telefonía, agua, (y) suministro de energía eléctrica y tinta indeleble para utilizarse en los procesos electorales (,) (sic) dada su naturaleza, podrán adquirirse por adjudicación directa, sin perjuicio de que la Comisión revise los consumos y gastos que por dichos servicios se eroguen.
 
 ### Capítulo VII. Fondos Revolventes
 
@@ -552,3 +568,17 @@ GUADALAJARA, JALISCO, A QUINCE DE DICIEMBRE DE 2008 DOS MIL OCHO
 Licenciado Carlos Oscar Trejo Herrera
 
 Secretario Ejecutivo del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE ABRIL DE 2009.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL ESTADO DE JALISCO.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL ORDENAMIENTO.
+
+PRIMERO. Se aprueban las modificaciones al Reglamento para las Adquisiciones y Enajenaciones del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, en los términos del ANEXO que se acompaña al presente acuerdo como parte integral del mismo.
+
+SEGUNDO. Notifíquese con copia simple del presente acuerdo y su ANEXO a los partidos políticos acreditados ante este organismo electoral.
+
+TERCERO. Publíquese el presente acuerdo y su ANEXO en el Periódico Oficial "El Estado de Jalisco", así como en el portal de internet oficial de este organismo electoral.
