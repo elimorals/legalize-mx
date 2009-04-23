@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2007-07-12"
+last_updated: "2009-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2009.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -3947,7 +3947,9 @@ Cada propietario podrá enajenar, hipotecar ó gravar en cualquier otra forma su
 
 El derecho de copropiedad sobre los elementos comunes del inmueble, solo será enajenable, gravable ó embargable por terceros, conjuntamente con el departamento, vivienda, casa o local de propiedad exclusiva, respecto del cual se considere anexo inseparable. La copropiedad sobre los elementos comunes del inmueble no es susceptible de división.
 
-Los derechos y obligaciones de los propietarios a que se refiere este precepto, se regirán por las escrituras en que se hubiera establecido el régimen de propiedad por las de compra-venta correspondiente, por el reglamento del condominio de que se trate, por la Ley sobre el Régimen de Propiedad en Condominio de Inmuebles para el Estado de Durango, por las disposiciones de éste Código y las demás leyes que fueren aplicables.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2009)</small>
+
+Los derechos y obligaciones de los propietarios a que se refiere este precepto, se regirán por las escrituras en que hubiere establecido el régimen de propiedad por las de compra-venta correspondiente, por el reglamento del condominio de que se trate, por la Ley General de Desarrollo Urbano para el Estado de Durango, por las disposiciones de este Código y las demás leyes que fueren aplicables.
 
 ART. 938.- Cuando haya constancia que demuestre quién fabricó la pared que divide los predios, el que la costeó es dueño exclusivo de ella; si constan que se fabricó por los colindantes, o no consta quién la fabricó, es de propiedad común.
 
@@ -6715,7 +6717,7 @@ ART. 1857.- En el caso del artículo anterior, si la eleccioón (sic) es del deu
 
 ART. 1858.- En los casos de los artículos que preceden, el acreedor está obligado al pago de los daños y perjuicios.
 
-ART. 1859.- Si el obligado a prestar una cosa o ejecutar un hecho se rehusare a hacer lo segundo y la elección es del acredeor ésta (sic) podrá exigir la cosa o la ejecución del hecho por un tercero en los términos del artículo 1908. Si la elección es del deudor, éste cumple entregando la cosa.
+ART. 1859.- Si el obligado a prestar una cosa o ejecutar un hecho se rehusare a hacer lo segundo y la elección es del acreedeor ésta (sic) podrá exigir la cosa o la ejecución del hecho por un tercero en los términos del artículo 1908. Si la elección es del deudor, éste cumple entregando la cosa.
 
 ART. 1860.- Si la cosa se pierde por culpa del deudor y la elección es del acreedor, éste podrá exigir el precio de la cosa, la prestación del hecho o la rescisión del contrato.
 
@@ -8581,7 +8583,7 @@ ART. 2479.- El mandante puede eixgir (sic) la devolución del instrumento o escr
 
 El mandante que descuide exigir los documentos que acrediten los poderes, del mandatario, responde de los daños que puedan resultar por esa causa a terceros de buena fe.
 
-ART. 3480 (SIC).- La constitución de un nuevo mandatario para un mismo asunto, importa la revocación del primero, desde el día en que se notifique a este el nuevo nombramiento.
+ART. 3480 (SIC.- La constitución de un nuevo mandatario para un mismo asunto, importa la revocación del primero, desde el día en que se notifique a este el nuevo nombramiento.
 
 ART. 2481.- Aunque el mandato termine por la muerte del mandante, debe el mandatario continuar en la administración, entre tanto los herederos proveen por sí mismos a los negocios, siempre que de lo contrario pueda resultar algún perjuicio.
 
@@ -10278,3 +10280,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- En tanto no cuenten con los equipos informáticos necesarios, las notarías públicas y las autoridades competentes a que se refieren las iniciativas, se podrán recibir los informes de aviso de testamento impreso en papel hasta por un periodo de doce meses contados a partir de la entrada en vigor del presente Decreto.
 
 TERCERO.- Quedan sin efecto todas las normas legales que se opongan al presente.
+
+P.O. 23 DE ABRIL DE 2009.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
