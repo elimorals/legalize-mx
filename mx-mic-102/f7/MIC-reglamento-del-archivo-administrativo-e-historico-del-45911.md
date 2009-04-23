@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-del-archivo-administrativo-e-historico-del-45911"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-07-20"
-last_updated: "2005-07-20"
+last_updated: "2009-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45911&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MIC"
 ---
 # REGLAMENTO DEL ARCHIVO ADMINISTRATIVO E HISTORICO DEL MUNICIPIO DE URUAPAN, MICHOACAN
 
-REGLAMENTO DEL ARCHIVO ADMINISTRATIVO E HISTORICO DEL MUNICIPIO DE URUAPAN, MICHOACAN
+REGLAMENTO DEL ARCHIVO ADMINISTRATIVO E HISTÓRICO DEL MUNICIPIO DE URUAPAN, MICHOACÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2009.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 20 de julio de 2005.
 
@@ -53,7 +53,11 @@ EL H. AYUNTAMIENTO DE URUAPAN, MICHOACÁN 2005-2007, DE CONFORMIDAD CON LO ESTAB
 
 REGLAMENTO DEL ARCHIVO ADMINISTRATIVO E HISTORICO DEL MUNICIPIO DE URUAPAN, MICHOACAN.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE ABRIL DE 2009)</small>
+
 ## TITULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE ABRIL DE 2009)</small>
 
 ### CAPITULO I. GLOSARIO Y DISPOSICIONES GENERALES
 
@@ -95,31 +99,41 @@ XV. Responsable de Archivo de Trámite: Director, Coordinador, Jefe de Departame
 
 El presente reglamento se expide con fundamento en los artículos 115, fracción III de la Constitución Política de los Estados Unidos Mexicanos; Artículo 123, fracción IV de la Constitución Política del Estado de Michoacán de Ocampo; Artículos 32 inciso a) fracción XIII y 149 de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo; Artículo Cuarto Transitorio de la Ley de Archivos Administrativos e Históricos del Estado de Michoacán de Ocampo y sus Municipios, y tiene por objeto regular la organización y funcionamiento de los archivos de trámite, de concentración e histórico de la administración pública municipal de Uruapan, Michoacán.
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2009)</small>
+
 ###### Artículo 3.
 
-La organización, funcionamiento y actualización de los Archivos municipales e Histórico, son atribuciones del Secretario del Ayuntamiento, quien podrá apoyarse para el manejo, control y custodia de los documentos del siguiente personal:
+La organización, conservación y depuración de los Archivos de Trámite es responsabilidad de los directores, coordinadores, y/o jefes de departamento, quienes podrán apoyarse con su personal administrativo, nombrando un responsable de Archivo de Trámite.
 
-I. Coordinador de Archivos (de Trámite, Concentración e Histórico).
+La organización, manejo, control y depuración de los Archivos de Concentración e Histórico, es responsabilidad de la Secretaría del Ayuntamiento, quien se apoyará con el siguiente personal:
 
-II. Encargado del Archivo de Concentración.
+I. Coordinador de Archivos Municipales (de Trámite; Concentración e Histórico);
 
-III. Auxiliares del Archivo de Concentración.
+II. Encargado del Archivo de Concentración;
 
-IV. Responsables de Archivos de Trámite.
+III. Auxiliares del Archivo de Concentración; y,
+
+IV. Encargado del Archivo Histórico.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2009)</small>
 
 ###### Artículo 4.
 
-El Coordinador de Archivos será nombrado por el H. Ayuntamiento, a propuesta del Presidente Municipal.
+El Coordinador de Archivos Municipales será nombrado por el Presidente Municipal.
 
 ###### Artículo 5.
 
 Cuando un servidor público deje de desempeñar su cargo, deberá entregar a quien lo sustituya, los Archivos de Trámite, debidamente relacionados, que tenga bajo su responsabilidad.
 
-### CAPITULO II. DE LAS FUNCIONES DEL COORDINADOR DE ARCHIVOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE ABRIL DE 2009)</small>
+
+### CAPITULO II. DE LAS FUNCIONES DEL COORDINADOR DE ARCHIVOS MUNICIPALES
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2009)</small>
 
 ###### Artículo 6.
 
-El Coordinador de Archivos tendrá las siguientes facultades y obligaciones:
+El Coordinador de Archivos Municipales tendrá las siguientes facultades y obligaciones:
 
 I. Proponer líneas de organización y control de documentos a los responsables de los archivos de trámite de las Direcciones, Coordinaciones, dependencias y/o departamentos y al Encargado del Archivo de Concentración;
 
@@ -137,37 +151,57 @@ VII. Investigar Tecnología Fílmica, computacional y/o de Archivo Digitalizado,
 
 VIII. Promover la creación y dirigir la edición de la Gaceta Oficial del Gobierno Municipal de Uruapan, Michoacán;
 
-IX. Recopilar una síntesis especial histórica de Uruapan, Mich., para editar y distribuir en las Bibliotecas del Municipio como estímulo a la lectura primordial de las raíces del Municipio;
+IX. Promover la edición de una síntesis especial histórica de Uruapan, Mich., para distribuir en las Bibliotecas municipales y escuelas primarias como estímulo a la lectura primordial de las raíces del Municipio;
 
-X. Promover el enriquecimiento de los Archivos de Concentración e Histórico, a través de campañas y gestiones tendientes a incrementar su acervo; y,
+X. Promover el enriquecimiento del Archivo Histórico, a través de campañas y gestiones tendientes a la donación de archivos privados para incrementar su acervo; y,
 
 XI. Entregar al Secretario del Ayuntamiento un informe mensual de actividades.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE ABRIL DE 2009)</small>
+
 ## TITULO II. DE LOS ARCHIVOS DE TRAMITE
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE ABRIL DE 2009)</small>
 
 ### CAPITULO I. DE LAS FUNCIONES DE LOS ARCHIVOS
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2009)</small>
+
 ###### Artículo 7.
 
-Todas y cada una de las direcciones, dependencias, departamentos, coordinaciones y oficinas deberán operar un Archivo de Trámite, reuniendo en él, clasificada, la documentación recibida o generada en el ejercicio de sus funciones.
+Todas y cada una de las direcciones, dependencias, departamentos, coordinaciones y oficinas del gobierno municipal deberán operar un Archivo de Trámite, reuniendo en él, clasificada, la documentación recibida o generada en el ejercicio de sus funciones.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2009)</small>
 
 ###### Artículo 8.
 
-Los directores y/o coordinadores podrán designar, de entre su personal, a un responsable de los Archivos de Trámite para la clasificación y conservación de documentos, informando al Secretario del Ayuntamiento el nombre de dicho responsable.
+Los directores, coordinadores y/o jefes de departamento designarán, de entre su personal, a un responsable del Archivo de Trámite para la clasificación y conservación de documentos, informando al Secretario del Ayuntamiento y al Coordinador de Archivos Municipales el nombre de dicho responsable.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2009)</small>
 
 ###### Artículo 9.
 
-Los directores y/o coordinadores deberán instruir al personal para comenzar a formar archivos magnéticos de oficios y/o documentos que generen, almacenando estos por número consecutivo y fecha.
+Los directores, coordinadores y/o jefes de departamento deberán instruir al personal para formar archivos magnéticos de oficios y/o documentos que generen, almacenando estos por número consecutivo y fecha.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2009)</small>
 
 ###### Artículo 10.
 
-Los Archivos de Trámite, físicos y magnéticos, recopilados de enero a diciembre de cada año, pasarán en los primeros tres meses del año siguiente al Archivo de Concentración, a excepción de aquellos que continúen vigentes o susceptibles de seguir siendo consultados.
+Los Archivos de Trámite, físicos y magnéticos, recopilados de enero a diciembre de cada año, pasarán en los primeros tres meses del año siguiente, en los términos del Artículo 15 de este Reglamento, al Archivo de Concentración.
+
+Los documentos que continúen vigentes o susceptibles de seguir siendo consultados y aquellos con alto valor fiscal y legal, deberán conservarse en los Archivos de Trámite el tiempo que sea necesario.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE ABRIL DE 2009)</small>
 
 ### CAPITULO II. DE SUS RESPONSABLES
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2009)</small>
+
 ###### Artículo 11.
 
-Los directores y jefes de departamentos, informarán al Secretario del Ayuntamiento y al Coordinador de Archivos el nombre y cargo de los responsables de los archivos de trámite.
+Los directores, coordinadores y/o jefes de departamentos, informarán a la Secretaría del Ayuntamiento y al Coordinador de Archivos el nombre y cargo de los responsables de los archivos de trámite.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2009)</small>
 
 ###### Artículo 12.
 
@@ -177,7 +211,7 @@ I. Considerar las líneas de organización y control de documentos en custodia, 
 
 II. Organizar, controlar y dirigir los archivos de trámite de su respectiva dirección o departamento, de acuerdo al principio de Procedencia y normas que se dicten al respecto;
 
-III. Mantener organizado y depurado su Archivo de Trámite. Para la depuración se procederá de acuerdo a lo señalado en el artículo 19 de este Reglamento;
+III. Mantener organizado y depurado su Archivo de Trámite. Para la depuración se procederá de acuerdo a lo señalado en el Capítulo II, artículos 21 y 22 de este Reglamento;
 
 IV. Impedir que se sustraigan documentos o se proporcione cualquier tipo de documentación para fines no oficiales o de consulta;
 
@@ -193,15 +227,31 @@ Los responsables de los Archivos de Trámite no deberán remitir al Archivo de C
 
 Los responsables de Archivos de Trámite solo podrán consultar o solicitar préstamo de los documentos que hayan sido por ellos remitidos al Archivo de Concentración. En caso de pretender consultar o solicitar en préstamo documentos de otras direcciones o dependencias deberán dirigir su solicitud, debidamente fundamentada, al Secretario del Ayuntamiento, quien tras analizarla determinará su procedencia.
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2009)</small>
+
 ###### Artículo 15.
 
-Los responsables de los Archivos de Trámite deberán remitir los documentos:
+Los responsables de los Archivos de Trámite deberán entregar sus documentos al Archivo de Concentración de la siguiente manera:
 
-I. Contenidos en cajas AM50 o AA40; y,
+I. En cajas especiales para Archivo, modelos AM 50 o AM 40;
 
-II. Relacionados, detallando expedientes y/o legajos, por caja, en original y copia. Una copia adicional deberá ir dentro de la caja.
+II. Relacionar los documentos, en original y dos copias, con la siguiente información:
+
+a) Expedientes, engargolados, libretas y/o legajos de acuerdo a su clasificación;
+
+b) Señalar la vigencia de los documentos, por expedientes, engargolados, libretas y/o legajos, de acuerdo a su catálogo de vigencia; y,
+
+c) Incluir en la relación, la clasificación de confidencial o reserva de los expedientes, engargolados, libretas y/o legajos en los términos de la Ley de Acceso a la Información Pública del Estado de Michoacán.
+
+III. Colocar dentro de la caja, adherida a la parte interior de la tapa una copia de esa relación; y,
+
+IV. Entregar al Encargado del Archivo de Concentración el original de la relación, recabando firma y sello de recibido.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE ABRIL DE 2009)</small>
 
 ## TITULO III. DEL ARCHIVO DE CONCENTRACION
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE ABRIL DE 2009)</small>
 
 ### CAPITULO I. DE SUS FUNCIONES
 
@@ -217,63 +267,85 @@ En las instalaciones del Archivo de Concentración se recibirán, custodiarán, 
 
 El Archivo de Concentración realizará sus actividades con base a políticas y lineamientos que se establezcan para el logro de la recepción, conservación, control y custodia de documentos.
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2009)</small>
+
 ###### Artículo 19.
 
-El encargado del Archivo de Concentración deberá conservar y custodiar los documentos recibidos durante un plazo que no excederá de doce años. Para su depuración deberá de apegarse a las normas de vigencia, vida útil administrativa y valoración documental, así como dictaminar su depuración y/o transferencia en coordinación con la instancia facultada.
+El encargado del Archivo de Concentración deberá conservar y custodiar los documentos recibidos durante un plazo que no excederá de doce años. Para la depuración se procederá de acuerdo a lo señalado en el Capítulo II, artículo 22 de este Reglamento.
 
 ###### Artículo 20.
 
 El Archivo de Concentración estará abierto, al servicio de consulta interna, durante el horario matutino de trabajo del personal de las dependencias municipales.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE ABRIL DE 2009)</small>
+
 ### CAPITULO II. DE LAS DEPURACIONES
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2009)</small>
 
 ###### Artículo 21.
 
-Los responsables de los Archivos de Trámite y Concentración deberán:
+Los responsables de los Archivos de Trámite deberán:
 
-I. Elaborar el catálogo de vigencia de los documentos a su cargo, que contendrá la determinación de vida útil de la información; el valor legal, fiscal e histórico de cada documento y los criterios de valoración de cada uno de los puntos anteriores;
+I. Elaborar y entregar al Coordinador de Archivos Municipales los catálogos de vigencia de sus documentos, mismos que deberán contener la determinación de su vida útil, de acuerdo a su valor legal, fiscal e histórico;
 
 II. Registrar el catálogo de vigencia de los documentos, en los términos del artículo 31 fracción III, de la Ley de Archivos Administrativos e Históricos del Estado de Michoacán de Ocampo y sus Municipios; y,
 
 III. Depurar los documentos que conforme a los criterios de valoración contenidos en el catálogo de vigencia no se considere deban incluirse al Archivo de Concentración o Histórico, según corresponda.
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2009)</small>
+
 ###### Artículo 22.
 
-Los documentos a depurar deberán de relacionarse, adjuntando esa relación al acta de depuración, que deberán firmar, en el caso de los Archivos de Trámite su responsable y el Coordinador o Director; y, en el caso del Archivo de Concentración, su Encargado, el Director o Coordinador de la dependencia de cuyos documentos se trate y el Secretario del Ayuntamiento.
+El encargado del Archivo de Concentración deberá revisar sistemáticamente los fondos documentales existentes y en aquellos en que no se encuentren catálogos de vigencia, deberá de notificarlo a las dependencias que los originaron, para que estos sean elaborados.
 
-### CAPITULO III. DEL ENCARGADO DEL ARCHIVO
+El Encargado del Archivo de Concentración, deberá depurar antes del plazo máximo de doce años los documentos que de acuerdo a los criterios de valoración contenidos en los catálogos de vigencia, vayan dejando de tener valor legal, fiscal o histórico. Para ello deberá enlistarlos, adjuntando esa relación al acta de depuración, que deberán firmar el(la) titular de la Secretaría del Ayuntamiento, el Coordinador de Archivos Municipales, el Encargado del Archivo de Concentración y el responsable de la dependencia y/o área de cuyos documentos se trate.
+
+El Encargado del Archivo de Concentración deberá depurar totalmente los archivos que hayan cumplido el periodo de doce años previsto en este Reglamento, conservando de ellos solamente los documentos con valor histórico, mismos que deberán transferirse al Archivo Histórico, para su conservación y consulta pública. El acta de depuración de Archivos que hayan cumplido doce años de haber sido generados será firmada por el (la) titular de la Secretaría del Ayuntamiento, el Coordinador de Archivos, el Encargado del Archivo de Concentración y el Síndico Municipal, como testigo.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE ABRIL DE 2009)</small>
+
+### CAPITULO III. DEL ENCARGADO DEL ARCHIVO DE CONCENTRACION
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2009)</small>
 
 ###### Artículo 23.
 
 El Encargado del Archivo de Concentración tendrá las siguientes facultades y obligaciones:
 
-I. Ejecutar las funciones correspondientes del Archivo de Concentración e Histórico, así como señalar las políticas generales de operación, funcionamiento y seguridad;
+I. Ejecutar las funciones correspondientes del Archivo de Concentración, así como observar las políticas generales de operación, funcionamiento y seguridad;
 
 II. Recibir y registrar los documentos que ingresen de los Archivos de Trámite, firmando de recibido en copia(s) de la relación(es) con la que se reciban;
 
 III. Apoyar y asesorar a los responsables de los Archivos de Trámite;
 
-IV. Clasificar y catalogar los documentos existentes en el Archivo de Concentración e Histórico;
+IV. Clasificar y catalogar los documentos existentes en el Archivo de Concentración, colocando en la parte inferior izquierda de un costado de las cajas una etiqueta adherida de 4 x 8 cms. con un número de identificación, y en otra etiqueta de 7 x·10 cms., adherida al centro del mismo costado, los datos de la dependencia que generó esos documentos, el año de generación y el contenido en número de legajos y/o expedientes;
 
-V. Apoyar y asesorar a los usuarios del Archivo Histórico;
+V. Depurar el Archivo de Concentración en los términos del artículo 22 de este Reglamento;
 
-VI. Compilar en el Archivo Histórico las Leyes federales y estatales y los periódicos oficiales que sean enviados al Archivo de Concentración;
+VI. Compilar en el Archivo Histórico las leyes federales y estatales y los periódicos oficiales que sean enviados al Archivo de Concentración;
 
 VII. Compilar en el Archivo Histórico los reglamentos, circulares, acuerdos y demás instrumentos legales promovidos y aprobados por el Ayuntamiento;
 
 VIII. Conservar y clasificar la versión en vídeo del desarrollo de cada uno de los Informes anuales municipales, de cada sesión del Ayuntamiento así como de los eventos cubiertos por la Coordinación de Comunicación Social; y,
 
-IX. Entregar al Secretario del Ayuntamiento un informe mensual de actividades y de servicios prestados a usuarios internos y externos de los Archivos de Concentración e Histórico.
+IX. Entregar a la Secretaría del Ayuntamiento un informe mensual de actividades y de servicios prestados a usuarios internos y externos del Archivo de Concentración.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE ABRIL DE 2009)</small>
 
 ## TITULO IV. DEL ARCHIVO HISTORICO
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE ABRIL DE 2009)</small>
+
 ### CAPITULO I. DE SUS FUNCIONES
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2009)</small>
 
 ###### Artículo 24.
 
 El Archivo Histórico permanecerá abierto al público, dentro del horario señalado en su exterior. Cualquier persona podrá consultar los documentos ahí existentes ajustándose a las siguientes normas:
 
-I. Presentar solicitud dirigida al Coordinador de Archivos, informando su nombre completo, dirección y descripción del documento a consultar, anexando una identificación vigente con fotografía, que será regresada al final de su consulta;
+I. Registrarse en el libro de consultas, entregando una identificación oficial vigente con fotografía, que será regresada al final de su consulta;
 
 II. Consultar el documento dentro del Archivo Histórico en el módulo asignado;
 
@@ -281,29 +353,49 @@ III. No ingresar alimentos y/o bebidas, ni objetos diferentes al de estudio y co
 
 IV. No dañar ni alterar los documentos facilitados, ni escribir sobre ellos.
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2009)</small>
+
 ###### Artículo 25.
 
-Se autorizará la reproducción en periódicos, revistas o libros de las copias de documentos obtenidos en el Archivo Histórico, siempre que se informe de su procedencia.
+El Encargado del Archivo Histórico tendrá las siguientes facultades y obligaciones:
+
+I. Apoyar y asesorar a los usuarios del Archivo Histórico;
+
+II. Compilar en el Archivo Histórico las leyes federales, estatales y los periódicos oficiales que sean enviados del Archivo de Concentración;
+
+III. Compilar en el Archivo Histórico los reglamentos, circulares, acuerdos y demás instrumentos legales promovidos y aprobados por el Ayuntamiento que sean enviados del Archivo de Concentración;
+
+IV. Autorizar la fotocopia de documentos del Archivo Histórico y/o respaldo en medios magnéticos, previo pago de los derechos municipales indicados en la Ley de Ingresos del Municipio de Uruapan, Michoacán; y,
+
+V. Autorizar la reproducción en periódicos, revistas o libros de las copias de documentos obtenidos en el Archivo Histórico, condicionado a que se informe de su procedencia.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE ABRIL DE 2009)</small>
 
 ## TITULO V. DEL CONTROL, VIGILANCIA Y SANCIONES
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE ABRIL DE 2009)</small>
+
 ### CAPITULO I. DEL CONTROL Y VIGILANCIA
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2009)</small>
 
 ###### Artículo 26.
 
-Son autoridades competentes para vigilancia y aplicación de este reglamento dentro de su jerarquía administrativa, las siguientes:
+Son autoridades competentes para la vigilancia y aplicación de este Reglamento dentro de su jerarquía administrativa, las siguientes:
 
 I. El H. Ayuntamiento;
 
 II. El C. Presidente Municipal;
 
-III. El Secretario del Ayuntamiento; y,
+III. El titular de la Secretaría del Ayuntamiento; y,
 
-IV. El Coordinador de Archivos.
+IV. El Coordinador de Archivos Municipales.
 
 ###### Artículo 27.
 
 Los casos no previstos en el presente Reglamento serán resueltos por el Secretario del Ayuntamiento y/o por las autoridades señaladas en el artículo anterior.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE ABRIL DE 2009)</small>
 
 ### CAPITULO II. DE LAS SANCIONES
 
@@ -311,11 +403,15 @@ Los casos no previstos en el presente Reglamento serán resueltos por el Secreta
 
 El incumplimiento de las disposiciones contenidas en el presente Reglamento será sancionado en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE ABRIL DE 2009)</small>
+
 ### CAPITULO III. DEL RECURSO DE INCONFORMIDAD
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2009)</small>
 
 ###### Artículo 29.
 
-Los particulares podrán interponer el Recurso de Inconformidad a que se refieren el Título Décimo de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo y el Título Décimo Segundo del Bando de Gobierno para el Municipio de Uruapan, Michoacán. La presentación, substanciación y resolución del Recurso de Inconformidad se sujetarán a las disposiciones de los ordenamientos mencionados.
+Los particulares podrán interponer los recursos establecidos en la Ley Orgánica Municipal del Estado de Michoacán de Ocampo, en el Bando de Gobierno para el Municipio de Uruapan, Michoacán y/o el Código de Justicia Administrativa del Estado. La presentación, substanciación y resolución de los recursos se sujetarán a las disposiciones de los ordenamientos mencionados.
 
 ## TRANSITORIOS
 
@@ -342,3 +438,21 @@ ING. FAUSTO F. MENDOZA MALDONADO
 SECRETARIO DEL AYUNTAMIENTO
 
 (Firmado)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE ABRIL DE 2009.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS Y ADICIONES AL REGLAMENTO DEL ARCHIVO ADMINISTRATIVO E HISTÓRICO DEL MUNICIPIO DE URUAPAN, MICHOACÁN”.]
+
+###### Artículo 1.
+
+Las reformas y adiciones al presente Reglamento entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo.
+
+###### Artículo 2.
+
+SIN CAMBIO (SIC)
+
+###### Artículo 3.
+
+Aprobado en sesión del Ayuntamiento de Uruapan, Michoacán, a los 26 días del mes de febrero del año 2009 dos mil nueve. Por lo tanto se ordena publicar en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, Presidente Municipal, C. Antonio González Rodríguez; Síndico del Ayuntamiento, Ing. José Moreno Salas; Secretario del Ayuntamiento, Lic. Luis Jaime Sandoval Sandoval. (Firmados).
