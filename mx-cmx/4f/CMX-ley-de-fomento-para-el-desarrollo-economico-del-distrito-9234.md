@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-para-el-desarrollo-economico-del-distrito-9234"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-26"
-last_updated: "2008-06-04"
+last_updated: "2009-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9234&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-12-18"
 
 LEY DE FOMENTO PARA EL DESARROLLO ECONOMICO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE ABRIL DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 26 de diciembre de 1996.
 
@@ -424,35 +424,21 @@ V. Agilizar y reducir trámites para el establecimiento y operación de las empr
 
 La administración pública, en el ámbito de su competencia, promoverá un marco regulatorio de apertura y funcionamiento de las empresas simplificado y transparente, con el propósito de que operen en condiciones competitivas.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE ABRIL DE 2009)</small>
+
 ### CAPITULO II. De las micro, pequeña y mediana empresas
 
 ###### Artículo 29.
 
-Se dará atención prioritaria a las empresas micro, pequeña y mediana en general, y por sectores y ramas de la actividad económica, con la finalidad de que utilicen óptima y eficientemente su capacidad instalada, el uso intensivo de mano de obra con menor inversión y desarrollen su capacidad de adaptación a los cambios tecnológicos.
+(DEROGADO, G.O. 23 DE ABRIL DE 2009)
 
 ###### Artículo 30.
 
-La Secretaría propiciará el desarrollo y la consolidación de las micro, pequeña y mediana empresas, por medio de las siguientes acciones:
-
-I. Impulsar su operación en economías de escala para mejorar su productividad y eficiencia;
-
-II. Promover su integración a los programas de conservación de empleo, protección de la planta productiva y de sustitución de importaciones; así como a las compras y necesidades del sector público con objeto de vincularlas al mercado interno.
-
-III. Difundir información sobre avances tecnológicos, oportunidades de comercialización y facilidades de financiamiento, que les permita fortalecer y aumentar sus ventajas competitivas;
-
-IV. Vincular sus necesidades con la oferta de tecnología adecuada;
-
-V. Promover la mayor participación de estas empresas en exportaciones directas e indirectas, con el objeto de hacer del comercio exterior un instrumento de desarrollo orientado a fortalecer y elevar la competitividad de la planta productiva local;
-
-VI. Promover ante las instituciones competentes la facilitación y simplificación de los mecanismos de apoyo y financiamiento competitivo para estas empresas, principalmente para las que cuenten con potencial exportador o que exportan directa o indirectamente al producir partes y componentes de bienes exportables;
-
-VII. Promover y facilitar la localización y el establecimiento de estas empresas en las zonas de fomento económico y su participación en proyectos de reciclamiento del suelo, de acuerdo con los programas de desarrollo urbano, y
-
-VIII. Promover instancias de atención especializada a las micro, pequeña y mediana empresas, con el objeto de proporcionarles servicios de consultoría, asesoría e información para la localización de mercados y oportunidades específicas de exportación o de coinversiones.
+(DEROGADO, G.O. 23 DE ABRIL DE 2009)
 
 ###### Artículo 31.
 
-Para que las micro, pequeña y mediana empresas eleven su rentabilidad, el aprovechamiento de sus recursos e incrementen el empleo, se promoverán instrumentos y mecanismos de fomento y otros apoyos financieros, mediante la coordinación y concertación con las instituciones competentes para la reconversión productiva, la capitalización, investigación y desarrollo tecnológico.
+(DEROGADO, G.O. 23 DE ABRIL DE 2009)
 
 ### CAPITULO III. De la promoción del empleo productivo
 
@@ -761,3 +747,13 @@ Artículo Segundo.- Se derogan todas las disposiciones legales, administrativas 
 Los procedimientos de adquisiciones iniciados con anterioridad a la entrada en vigor de las presentes reformas, atenderán hasta su total conclusión a la Ley en el momento de su inicio.
 
 Artículo Tercero.- El Jefe de Gobierno sesionará de manera conjunta con sus Gabinetes de Desarrollo Económico Sustentable y de Educación, Cultura y Ciencia y Tecnología; por lo menos dos veces por año fiscal.
+
+G.O. 23 DE ABRIL DE 2009.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+Artículo Primero. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor conocimiento en el Diario Oficial de la Federación.
+
+Artículo Segundo. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+...
