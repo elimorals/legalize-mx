@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sorteo-melate-revancha-de-pronosticos-para-31949
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2007-12-07"
+last_updated: "2009-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31949&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-19"
 
 REGLAMENTO DEL SORTEO MELATE-REVANCHA DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ABRIL DE 2009.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
@@ -49,9 +49,9 @@ Para los efectos de este reglamento, se entenderá por:
 
 1.- Agente autorizado.- La persona física o moral que haya celebrado contrato de comisión mercantil con Pronósticos y cuya función consistirá en aceptar quinielas del público en la forma y términos señalados en las disposiciones reglamentarias.
 
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 23 DE ABRIL DE 2009)</small>
 
-2.- Terminal.- Aparato electrónico cuya función consiste en captar los datos de la selección de números hecha por el participante, bien sea por solicitud del mismo en una asignación automática de ellos, por la lectura óptica del volante o por la digitación de los datos, para ser transmitidos al computador central para el registro de las participaciones, y expedir los boletos que comprueban la participación en el sorteo. Pronósticos podrá definir otras modalidades y conductos de venta transmitiendo los datos de las combinaciones vendidas al Registro General de combinaciones participantes para un sorteo determinado, previa verificación de que cumplen con los requisitos establecidos en este reglamento.
+2.- Terminal.- Aparato electrónico cuya función consiste en captar los datos de la selección de números hecha por el participante, bien sea por solicitud del mismo en una asignación vía Melático, por la lectura óptica del volante o por la digitación de los datos, para ser transmitidos al computador central para el registro de las participaciones, y expedir los boletos que comprueban la participación en el sorteo. Pronósticos podrá definir otras modalidades y conductos de venta transmitiendo los datos de las combinaciones vendidas al Registro General de combinaciones participantes para un sorteo determinado, previa verificación de que cumplen con los requisitos establecidos en este reglamento.
 
 > <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
@@ -95,13 +95,17 @@ Con excepción de las causas señaladas en el presente reglamento, no será posi
 
 13.- Ceremonia.- Acto oficial de selección al azar de la combinación ganadora.
 
+> <small>(ADICIONADO, D.O.F. 23 DE ABRIL DE 2009)</small>
+
+14.- Melático.- Selección automática y aleatoria efectuada por la Terminal.
+
 ### Capítulo II. De los procedimientos para participar
 
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 23 DE ABRIL DE 2009)</small>
 
 ###### Artículo 4o.
 
-Se podrá participar en el sorteo, utilizando los volantes oficiales emitidos por Pronósticos, por dictado del participante al agente, a través de una selección automática y aleatoria efectuada por la terminal (Melático), o por cualquier otro medio o dispositivo electrónico autorizado por Pronósticos.
+Se podrá participar en el sorteo, utilizando los volantes oficiales emitidos por Pronósticos, por dictado del participante al Agente autorizado, a través de Melático o, por cualquier otro medio o dispositivo electrónico autorizado por Pronósticos.
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2007)</small>
 
@@ -113,13 +117,27 @@ Combinación sencilla es la selección de 6 (seis) distintos números de los com
 
 Combinación múltiple es la selección de 7 (siete) a 10 (diez) números distintos entre el 1 (uno) y el 56 (cincuenta y seis) y que da lugar a varias combinaciones sencillas: 7 (siete) números a 7 (siete), 8 (ocho) números a 28 (veintiocho), 9 (nueve) números a 84 (ochenta y cuatro) y 10 (diez) números a 210 (doscientas diez).
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 23 DE ABRIL DE 2009)</small>
+
+Combinación Múltiple en Porción, es la selección vía Melático, de 8, 9 y 10 números distintos de los comprendidos entre el 1 y el 56, dando lugar a 28, 84 y 210 combinaciones sencillas respectivamente. De la selección de 8 números se podrán emitir hasta 5 boletos; de 9 números se podrán emitir hasta 6 boletos y de 10 números se podrán emitir hasta 7 boletos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 23 DE ABRIL DE 2009)</small>
+
+Coperacha, es la selección por dictado del participante o vía Melático, de 30 combinaciones sencillas, emitidas por la Terminal en 5 boletos físicos. Cada uno de los referidos boletos tendrá impresas las 30 combinaciones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 23 DE ABRIL DE 2009)</small>
+
+Todas las selecciones que se deriven de las Combinaciones múltiples, Combinaciones múltiples en porciones y en Coperacha, participarán en el sorteo para el que hayan sido adquiridos los boletos respectivos.
+
 > <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 6o.
 
 Pronósticos podrá facultar a sus agentes autorizados para registrar participaciones y captar la venta de Melate mediante el uso de:
 
-a) Terminales que por lectura óptica del volante llenado por el participante indicando su selección de números, mediante la digitación que haga el agente autorizado de estos datos en la terminal, o bien si el participante requiere una selección automática y aleatoria efectuada por la terminal (Melático), ésta imprima, numere y expida el boleto que, contra su pago será entregado al participante como comprobante de su participación, quedando almacenado el registro electrónico correspondiente en el sistema central de captación de transacciones en línea.
+> <small>(REFORMADO, D.O.F. 23 DE ABRIL DE 2009)</small>
+
+a) Terminales que por lectura óptica del volante llenado por el participante indicando su selección de números, mediante la digitación que haga el agente autorizado de estos datos en la Terminal, o bien si el participante requiere un Melático, ésta imprima, numere y expida el boleto que, contra su pago será entregado al participante como comprobante de su participación, quedando almacenado el registro electrónico correspondiente en el sistema central de captación de transacciones en línea.
 
 b) Medios electrónicos enlazados al sistema central de captación de transacciones en línea que permiten transmitir las participaciones al computador central en el cual queda almacenado el registro electrónico correspondiente.
 
@@ -263,6 +281,22 @@ Las participaciones en las que figuren menos números de los mencionados en el i
 
 Cada participación sencilla sólo puede obtener un premio en una de las categorías especificadas.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 23 DE ABRIL DE 2009)</small>
+
+Los boletos que hayan obtenido premio originado a través de una Combinación Múltiple en Porción de 8 (ocho), les corresponderá una quinta parte del total de dicho premio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 23 DE ABRIL DE 2009)</small>
+
+Los boletos que hayan obtenido premio originado a través de una Combinación Múltiple en Porción de 9 (nueve), les corresponderá una sexta parte del total de dicho premio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 23 DE ABRIL DE 2009)</small>
+
+Los boletos que hayan obtenido premio originado a través de una Combinación Múltiple en Porción de 10 (diez), les corresponderá una séptima parte del total de dicho premio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 23 DE ABRIL DE 2009)</small>
+
+Los boletos que hayan obtenido premio originado a través de una Combinación de Coperacha, les corresponderá una quinta parte del total de dicho premio.
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 19o.
@@ -379,9 +413,9 @@ El derecho para solicitar la devolución del importe del boleto que, por cualqui
 
 Sólo por fuerza mayor o caso fortuito, Pronósticos suspenderá o cancelará un sorteo en vías de realización, y quedará obligado a reembolsar a los participantes el valor de sus combinaciones previa entrega material y cancelación de los boletos, sin ulterior responsabilidad.
 
-> <small>(REFORMADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DE FUNCIONAMIENTO DE LOS SORTEOS INSTANTANEOS EN LINEA DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA, D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 23 DE ABRIL DE 2009)</small>
 
-En el caso de que el boleto contenga la participación dentro del sorteo Instantáneo en Línea únicamente se reembolsará el valor correspondiente al Melate, no así el de aquel.
+En el caso de que el boleto contenga la participación dentro de los Sorteos Instantáneos en Línea de Pronósticos, únicamente se reembolsará el valor correspondiente al Melate, no así el de aquél.
 
 > <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
@@ -648,6 +682,14 @@ Séptimo.- Los asuntos que se encuentren en trámite a la fecha de entrada en vi
 D.O.F. 7 DE DICIEMBRE DE 2007.
 
 Primero.- El presente acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
+
+Tercero.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente acuerdo, serán resueltos mediante las disposiciones que se encontraban vigentes al inicio de su trámite.
+
+D.O.F. 23 DE ABRIL DE 2009
+
+Primero.- El presente acuerdo entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
 
