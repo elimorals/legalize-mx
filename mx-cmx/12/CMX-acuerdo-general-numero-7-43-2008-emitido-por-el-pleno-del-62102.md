@@ -4,7 +4,7 @@ identifier: "CMX-acuerdo-general-numero-7-43-2008-emitido-por-el-pleno-del-62102
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-08-08"
-last_updated: "2008-08-08"
+last_updated: "2009-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62102&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-08-02"
 
 ACUERDO GENERAL NUMERO 7-43/2008, EMITIDO POR EL PLENO DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL, EN SESION DE FECHA DOS DE JULIO DE DOS MIL OCHO, QUE ESTABLECE LAS NORMAS PARA EL REGISTRO, CONTROL, DESTINO FINAL Y BAJA DE BIENES MUEBLES, ASI COMO PARA EL REGISTRO Y CONTROL DE BIENES INMUEBLES, QUE INTEGRAN EL ACTIVO DEL TRIBUNAL SUPERIOR DE JUSTICIA Y DEL CONSEJO DE LA JUDICATURA, DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE ABRIL DE 2009.
 
 Acuerdo publicado en la Gaceta Oficial del Distrito Federal, el viernes 8 de agosto de 2008.
 
@@ -472,9 +472,11 @@ III. Dicho programa anual deberá señalar la metodología a aplicar en el levan
 
 Si como resultado del levantamiento de los inventarios del activo fijo no se localizan bienes, la Oficialía Mayor o la Coordinación, procederán a levantar un acta administrativa, sin perjuicio de lo que derivado de ello resuelva la Contraloría.
 
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2009)</small>
+
 ###### Artículo 52.
 
-Además del inventario a que se refiere la fracción I del artículo anterior, la Oficialía Mayor y la Coordinación, con el apoyo de sus respectivas áreas de recursos materiales y financieros, realizarán la segunda quincena posterior al cierre de cada trimestre calendario, una conciliación físico-financiera que verifique que la totalidad de los recursos ejercidos mediante el Capítulo 2000 Materiales y Suministros hayan ingresado a los almacenes generales del Tribunal y del Consejo, incluyendo las entradas y salidas virtuales derivadas de los gastos realizados mediante los fondos revolventes autorizados.
+Además del inventario a que se refiere la fracción I del artículo anterior, la Oficialía Mayor y la Coordinación, con el apoyo de sus respectivas áreas de recursos materiales y financieros, realizarán en la segunda quincena posterior al cierre de cada trimestre calendario, una conciliación físico-financiera que verifique que la totalidad de los recursos ejercidos mediante el Capítulo 2000 Materiales y Suministros hayan ingresado a los almacenes generales del Tribunal y del Consejo, a excepción de las compras efectuadas por medio del fondo revolvente autorizados (sic).
 
 ###### Artículo 53.
 
@@ -1065,3 +1067,9 @@ LA SECRETARIA GENERAL DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 (Firma)
 
 LIC. MATILDE RAMÍREZ HERNÁNDEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS A LAS PRESENTES NORMAS.</small>
+
+G.O. 24 DE ABRIL DE 2009.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.
