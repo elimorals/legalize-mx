@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-desarrollo-34497"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-15"
-last_updated: "2003-09-15"
+last_updated: "2009-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO, EVALUACION Y CONTROL DE LA ADMINISTRACION PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 2009.
 
 Reglamento publicado en la Séptima Sección del Periódico Oficial del Estado de Puebla, el lunes 15 de septiembre de 2003.
 
@@ -155,7 +155,9 @@ IX.- Aprobar el anteproyecto de presupuesto de egresos de la Secretaría y, en s
 
 X.- Acordar con los Subsecretarios, los Coordinadores Generales, los Directores y, en su caso, con los demás servidores públicos de la Secretaría, los asuntos de su competencia; así como conceder audiencias al público;
 
-XI.- Designar, remover y en su caso, acordar las renuncias de los servidores públicos de la Secretaría;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2009)</small>
+
+XI.- Representar legalmente a la Secretaría en todas las controversias, trámites judiciales o administrativos y en los procedimientos, juicios o relaciones laborales en que ésta sea parte, así como designar, remover y en su caso, acordar las renuncias de los servidores públicos de la Dependencia;
 
 XII.- Integrar y proporcionar los datos relativos a las actividades desarrolladas por la Secretaría, para la formulación del Informe de Gobierno;
 
@@ -309,11 +311,11 @@ VIII.- Proporcionar a las Delegaciones y Subdelegaciones de la Secretaría y com
 
 IX.- Coordinar con las demás unidades administrativas de la Secretaría, los procedimientos que permitan proporcionar y obtener la información y la colaboración que deba establecerse con el Órgano de Fiscalización Superior del Estado;
 
-X.- Establecer la coordinación para el seguimiento, control y evaluación de las acciones que se concerten (sic) con el Gobierno Federal, otras Entidades Federativas, los Municipios del Estado; así como con los Poderes Legislativo y Judicial de la Entidad;
+X.- Establecer la coordinación para el seguimiento, control y evaluación de las acciones que se concerten con el Gobierno Federal, otras Entidades Federativas, los Municipios del Estado; así como con los Poderes Legislativo y Judicial de la Entidad;
 
 XI.- Proporcionar en el ámbito de su competencia, la información, asesoría, capacitación y apoyo técnico que le sea requerida por los Gobiernos Municipales, sobre las políticas, normas y aplicación de recursos del Ramo 33; y
 
-XII.- Las demás que le confiera el presente Reglamento, le otorgue el Secretario y así como las que competan a las unidades administrativas a su cargo.
+XlI.- Las demás que le confiera el presente Reglamento, le otorgue el Secretario y así como las que competan a las unidades administrativas a su cargo.
 
 ### CAPÍTULO V. DE LOS COORDINADORES GENERALES
 
@@ -467,7 +469,7 @@ II.- Establecer los lineamientos para la elaboración y presentación de solvent
 
 III.- Vigilar mediante, supervisiones, fiscalizaciones y auditorías, el cumplimiento por parte de las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, de las normas y disposiciones en materia de obra pública y adquisiciones, en el marco de los convenios y programas de inversión concertados entre el Gobierno del Estado con la Federación, otras Entidades Federativas y los Municipios;
 
-IV.- Comprobar por parte de las dependencias y entidades de la Administración Pública Estatal y de los Municipios, el cumplimiento de las obligaciones derivadas de las disposiciones en materia de planeación, programación, presupuestación, gasto público, inversión y deuda pública;
+IV.- Comprobar por parte de las dependencias y entidades de la Administración Publica Estatal y de los Municipios, el cumplimiento de las obligaciones derivadas de las disposiciones en materia de planeación, programación, presupuestación, gasto público, inversión y deuda pública;
 
 V.- Establecer los procedimientos y mecanismos para fiscalizar y auditar el ejercicio del gasto de inversión y de mantenimiento, así como su congruencia con los presupuestos de egresos, aportaciones, subsidios y transferencias que realice la Federación al Estado o a los Municipios;
 
@@ -595,7 +597,7 @@ XIII.- Coordinar la instrumentación de las políticas y procedimientos compleme
 
 XIV.- Coadyuvar con las demás unidades administrativas de la Secretaría, en la realización de actividades cuando deban intervenir los delegados, subdelegados y comisarios de la Secretaría, en las dependencias y entidades de la Administración Pública Estatal;
 
-XV.- Vigilar el cumplimiento por parte de los delegados, subdelegados y comisarios de la Secretaría, de las dependencias y entidades de la Administración Pública Estatal, así mismo coordinar la actuación de terceras personas contratadas por la Secretaría, para la realización de auditorías, evaluaciones, fiscalizaciones, inspecciones en las dependencias y entidades de la Administración Pública Estatal;
+XV.- Vigilar el cumplimiento por parte de los delegados, subdelegados y comisarios de la Secretaría, de las dependencias y entidades de la Administración Pública Estatal, asi mismo coordinar la actuación de terceras personas contratadas por la Secretaría, para la realización de auditorías, evaluaciones, fiscalizaciones, inspecciones en las dependencias y entidades de la Administración Pública Estatal;
 
 XVI.- Proporcionar apoyo a las unidades administrativas de la Secretaría, a fin de vigilar, evaluar y controlar, a través de las Delegaciones y Subdelegaciones de la Secretaría y comisarios, el cumplimiento, por parte de las dependencias y entidades de la Administración Pública Estatal, de las disposiciones vigentes de los programas y de las acciones en materia de desarrollo administrativo y calidad, evaluación y control;
 
@@ -629,7 +631,9 @@ IX.- Registrar los instrumentos normativos que emita el Secretario, así como la
 
 X.- Coadyuvar en la elaboración y difusión de los manuales de organización, procedimientos, normas y lineamientos jurídico-administrativos a que deberán sujetarse las unidades administrativas de la Secretaría;
 
-XI.- Representar legalmente a la Secretaría en todas las controversias y trámites judiciales o administrativos en que tenga interés jurídico o sea parte, con todas las facultades generales y especiales que se requieran, conforme a la ley;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2009)</small>
+
+XI.- Representar legalmente a la Secretaría en todas las controversias y trámites judiciales o administrativos y en los procedimientos, juicios o relaciones laborales en que tenga interés jurídico o sea parte, con todas las facultades generales y especiales que se requieran, conforme a la ley; pudiendo en todo momento delegar dicha atribución previo acuerdo del Secretario;
 
 XII.- Estudiar, proponer y substanciar la resolución que corresponde a los recursos administrativos que interpongan los particulares contra actos de la Secretaría, en términos de lo dispuesto por tos ordenamientos legales que resulten aplicables;
 
@@ -833,7 +837,7 @@ VI.- Establecer y difundir los lineamientos para la actualización y registro de
 
 VII.- Las demás que le confiera el Subsecretario de Desarrollo Administrativo y Evaluación, así como el Coordinador General.
 
-### CAPÍTULO XVI. DE LA DIRECCIÓN DE ANÁLISIS Y EVALUACIÓN DE PROGRAMAS OPERATIVOS ANUALES
+### CAPÍTULO XVI. DE LA DIRECCIÓN DE ANÁLISIS Y EVALUACIÓN DE PROGRAMAS OPERATlVOS ANUALES
 
 ### CAPÍTULO XVII. DE LA DIRECCIÓN DE EVALUACIÓN DE SERVICIOS PÚBLICOS
 
@@ -845,7 +849,7 @@ I.- Formular y sugerir políticas, normas y lineamientos en materia de evaluaci�
 
 II.- Elaborar y proponer los criterios de evaluación que permitan medir por sí o a través de las Delegaciones en las dependencias y Comisarías, el desempeño y cumplimiento a sus planes, programas, objetivos y metas;
 
-III.- Asesorar y coordinar a las dependencias y entidades de la Administración Pública Estatal, en la elaboración e implementación de indicadores de evaluación de la gestión pública que permitan conocer oportunamente, el impacto cualitativo y cuantitativo;
+III.- Asesorar y coordinar a las dependencias y entidades de la Administración Publica Estatal, en la elaboración e implementación de indicadores de evaluación de la gestión pública que permitan conocer oportunamente, el impacto cualitativo y cuantitativo;
 
 IV.- Establecer relaciones de coordinación con las Delegaciones, Subdelegaciones y Comisarías de la Secretaría, en materia de evaluación;
 
@@ -1221,7 +1225,9 @@ IV.- Intervenir en el ámbito de su competencia y en forma coordinada con otras 
 
 V.- Coadyuvar en la elaboración y difusión de los manuales de organización, procedimientos, normas y lineamientos jurídicos en materia de responsabilidades;
 
-VI.- Apoyar al Coordinador General Jurídico en las actividades de representación legal de la Secretaría, en todas las controversias y trámites judiciales o administrativos en que tenga interés jurídico o sea parte;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2009)</small>
+
+VI.- Apoyar al Coordinador General Jurídico en las actividades de representación legal de la Secretaría, en todas las controversias y trámites judiciales o administrativos y en los procedimientos, juicios o relaciones laborales en que tenga interés jurídico o sea parte;
 
 VIl.- Estudiar, proponer y substanciar la resolución que corresponda al recurso de revocación que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla;
 
@@ -1400,3 +1406,11 @@ Se derogan las disposiciones que se opongan al presente Reglamento.
 Las funciones de la Dirección Jurídica, de Responsabilidades y Situación Patrimonial establecida en el Reglamento que se abroga, serán ejercidas por la Coordinación General Jurídica, por lo que el personal, mobiliario, archivo y en general el equipo que aquella haya utilizado, pasarán a la unidad que la sustituye. Competerá a la Coordinación General Jurídica terminar la substanciación y dictar la resolución de los asuntos que se encuentren en trámite.
 
 Dado en la Heroica Puebla de Zaragoza, a los doce días del mes de septiembre del año dos mil tres.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- MAESTRO EN DERECHO CARLOS ARREDONDO CONTRERAS.- Rúbrica.- El Secretario de Desarrollo, Evaluación y Control de la Administración Pública.- LICENCIADO HÉCTOR JIMÉNEZ Y MENESES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO</small>
+
+P.O. 24 DE ABRIL DE 2009.
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor a partir del día siguiente de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
