@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-consejo-de-la-judicatura-del-59566"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-25"
-last_updated: "2009-03-09"
+last_updated: "2009-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59566&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-11-28"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE ABRIL DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 25 de febrero de 2008.
 
@@ -1260,11 +1260,15 @@ En las visitas de inspección, los Visitadores observarán las siguientes reglas
 
 I. Verificar la asistencia del personal con la lista correspondiente y, en caso de duda, podrán solicitar a los empleados su identificación, o adoptar cualquier otra medida para corroborar su identidad, esto es, para cerciorarse de que el servidor público que se encuentre presente es el mismo que está dado de alta en la Dirección Ejecutiva de Recursos Humanos del Tribunal; en caso de impuntualidad o de inasistencia del servidor público, el Visitador propondrá al Juez o Magistrado que tome las acciones necesarias para que se haga efectivo el descuento económico correspondiente, siempre que ese retardo o falta no estén justificados;
 
-II. Verificar el registro de ingreso y egreso de valores, y cotejar si la entrega de los mismos corresponde al registro asentado en el libro respectivo;
+> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2009)</small>
 
-III. Corroborar si los procesados que disfrutan del beneficio de la libertad provisional han cumplido con la obligación de presentarse a firmar la libreta correspondiente;
+II. Verificar el cumplimiento de las disposiciones emitidas por el Pleno del Consejo, a través de acuerdos plenarios comunicados mediante circulares; en caso de incumplimiento, se asentará en el acta, anexándose las constancias que lo acrediten y se dará vista a la Comisión de Disciplina Judicial;
 
-IV. Verificar en los juzgados penales que las consignaciones sin detenido se radiquen de inmediato o a más tardar dentro de los tres días siguientes de acuerdo con lo dispuesto por el segundo y cuarto párrafo del artículo 286 Bis del Código de Procedimientos Penales para el Distrito Federal; y que el pedimento del Ministerio Público relativo a la orden de aprehensión o comparecencia se resuelva dentro de los términos a que se refieren los párrafos quinto y sexto del mismo numeral, según se trate de delito no grave o grave.
+III. Verificar el registro de ingreso y egreso de valores, y cotejar si la entrega de los mismos corresponde al registro asentado en el libro respectivo;
+
+IV. Corroborar si los procesados que disfrutan del beneficio de la libertad provisional han cumplido con la obligación de presentarse a firmar la libreta correspondiente;
+
+V. Verificar en los juzgados penales que las consignaciones sin detenido se radiquen de inmediato o a más tardar dentro de los tres días siguientes de acuerdo con lo dispuesto por el segundo y cuarto párrafo del artículo 286 Bis del Código de Procedimientos Penales para el Distrito Federal; y que el pedimento del Ministerio Público relativo a la orden de aprehensión o comparecencia se resuelva dentro de los términos a que se refieren los párrafos quinto y sexto del mismo numeral, según se trate de delito no grave o grave.
 
 Revisar cuántas órdenes de aprehensión y comparecencia se encuentran para efecto del artículo 36 del Código de Procedimientos Penales para el Distrito Federal y supervisar que se haya notificado al Ministerio Público, para que pueda aportar nuevos elementos para reiterar su pedimento de orden de aprehensión o comparecencia; verificando que se haya decretado en los casos que proceda, la prescripción de la pretensión punitiva.
 
@@ -1274,41 +1278,41 @@ En los asuntos con detenido, se verificara que la consignación se haya radicado
 
 En las causas en instrucción, se verificará el tipo de procedimiento que se aperturó, para examinar que el desahogo de la pruebas, se efectúe dentro del término de ley, al igual que correctamente se haya declarado agotada y en su momento cerrada la instrucción, formuladas las conclusiones y dictado la sentencia definitiva en el tiempo correspondiente de acuerdo con el procedimiento de que se trate;
 
-V. Revisar el Libro de Gobierno y en caso de estimarlo necesario cotejar aleatoriamente los registros de la Oficialía de Partes del órgano jurisdiccional inspeccionado y los demás Libros de Control Administrativo, a efecto de verificar que se encuentren en orden, autorizados y foliados, y que lo que en ellos se contenga, se haya asentado en forma legible, ordenada, sin tachaduras o enmendaduras y, en caso de haber existido algún error, se hubiere salvado por el Secretario de Acuerdos encargado del despacho de los asuntos del juzgado;
+VI. Revisar el Libro de Gobierno y en caso de estimarlo necesario cotejar aleatoriamente los registros de la Oficialía de Partes del órgano jurisdiccional inspeccionado y los demás Libros de Control Administrativo, a efecto de verificar que se encuentren en orden, autorizados y foliados, y que lo que en ellos se contenga, se haya asentado en forma legible, ordenada, sin tachaduras o enmendaduras y, en caso de haber existido algún error, se hubiere salvado por el Secretario de Acuerdos encargado del despacho de los asuntos del juzgado;
 
-VI. Previa verificación de los Libros de Control Administrativo y de Gobierno, se hará constar en el acta de visita, el número de asuntos ingresados al órgano inspeccionado, durante el año judicial, y en el periodo comprendido del día de la visita anterior, hasta el día previo en que se esté efectuando la visita.
+VII. Previa verificación de los Libros de Control Administrativo y de Gobierno, se hará constar en el acta de visita, el número de asuntos ingresados al órgano inspeccionado, durante el año judicial, y en el periodo comprendido del día de la visita anterior, hasta el día previo en que se esté efectuando la visita.
 
 Se deberá registrar en el acta de visita, el número de asuntos en los que se hubiere interpuesto el recurso de apelación durante el año judicial, y en el periodo comprendido del día de la visita anterior, hasta el día previo en que se esté efectuando la visita;
 
-VII. Hacer constar, previa verificación de los Libros de Control Administrativo y de Gobierno, el número de asuntos ingresados al órgano inspeccionado durante el periodo comprendido del día de la visita anterior hasta el día previo en que se inicia la visita, relativa a los asuntos que ingresaron y los que se encuentran en trámite y para resolución;
+VIII. Hacer constar, previa verificación de los Libros de Control Administrativo y de Gobierno, el número de asuntos ingresados al órgano inspeccionado durante el periodo comprendido del día de la visita anterior hasta el día previo en que se inicia la visita, relativa a los asuntos que ingresaron y los que se encuentran en trámite y para resolución;
 
-VIII. Asentar el total de asuntos en los que se hubiere confirmado, modificado o revocado la resolución respectiva con motivo de los recursos de apelación y Juicios de Amparo promovidos;
+IX. Asentar el total de asuntos en los que se hubiere confirmado, modificado o revocado la resolución respectiva con motivo de los recursos de apelación y Juicios de Amparo promovidos;
 
-IX. Revisar y asentar en al (sic) acta respectiva las condiciones en que se archivan los expedientes y los libros de control, y en su caso, el espacio de trabajo, los recursos humanos y materiales que resulten notoriamente insuficientes, para tales efectos, la Comisión de Disciplina Judicial, en caso de considerarlo necesario, dará vista a la Comisión de Administración y Presupuesto para que tome las medidas que estime pertinentes;
+X. Revisar y asentar en al (sic) acta respectiva las condiciones en que se archivan los expedientes y los libros de control, y en su caso, el espacio de trabajo, los recursos humanos y materiales que resulten notoriamente insuficientes, para tales efectos, la Comisión de Disciplina Judicial, en caso de considerarlo necesario, dará vista a la Comisión de Administración y Presupuesto para que tome las medidas que estime pertinentes;
 
-X. Examinar los expedientes que estimen convenientes, o los que señale la Comisión de Disciplina Judicial, a fin de verificar que se encuentren debidamente foliados, rubricados y entre sellados, así como que las resoluciones y acuerdos hayan sido dictados, publicados y notificados dentro del término de Ley;
+XI. Examinar los expedientes que estimen convenientes, o los que señale la Comisión de Disciplina Judicial, a fin de verificar que se encuentren debidamente foliados, rubricados y entre sellados, así como que las resoluciones y acuerdos hayan sido dictados, publicados y notificados dentro del término de Ley;
 
-XI. Solicitar expedientes que hayan sido remitidos al Archivo Judicial por parte del órgano jurisdiccional inspeccionado, para verificar las causas por las cuales fueron archivados;
+XII. Solicitar expedientes que hayan sido remitidos al Archivo Judicial por parte del órgano jurisdiccional inspeccionado, para verificar las causas por las cuales fueron archivados;
 
-XII. Hacer constar, en caso de diferimiento de las audiencias, el motivo de ese aplazamiento, y se asentará si los autos, decretos, resoluciones o sentencias se emitieron dentro del término de ley;
+XIII. Hacer constar, en caso de diferimiento de las audiencias, el motivo de ese aplazamiento, y se asentará si los autos, decretos, resoluciones o sentencias se emitieron dentro del término de ley;
 
-XIII. Revisar si los exhortos fueron diligenciados oportunamente;
+XIV. Revisar si los exhortos fueron diligenciados oportunamente;
 
-XIV. Consultar al titular del órgano inspeccionado respecto de las actas administrativas que haya levantado con motivo de alguna irregularidad imputable al personal bajo su mando y, en caso afirmativo, anexar copia de la misma al acta de visita, con lo que se dará cuenta a la Comisión de Disciplina Judicial, para que determine lo procedente;
+XV. Consultar al titular del órgano inspeccionado respecto de las actas administrativas que haya levantado con motivo de alguna irregularidad imputable al personal bajo su mando y, en caso afirmativo, anexar copia de la misma al acta de visita, con lo que se dará cuenta a la Comisión de Disciplina Judicial, para que determine lo procedente;
 
-XV. En caso de que se adviertan presuntas irregularidades que pudieran ser constitutivas de incumplimiento o faltas administrativas, deberá acompañar las constancias correspondientes a efecto de que el Visitador General emita el proyecto correspondiente;
+XVI. En caso de que se adviertan presuntas irregularidades que pudieran ser constitutivas de incumplimiento o faltas administrativas, deberá acompañar las constancias correspondientes a efecto de que el Visitador General emita el proyecto correspondiente;
 
-XVI. Asentar en el acta aquellas circunstancias que se presenten en el transcurso en que se lleva a cabo la visita ajenos a los rubros de ésta; y en su caso, anexar las constancias respectivas a efecto de dar cuenta a la Comisión de Disciplina Judicial, para que determine lo procedente;
+XVII. Asentar en el acta aquellas circunstancias que se presenten en el transcurso en que se lleva a cabo la visita ajenos a los rubros de ésta; y en su caso, anexar las constancias respectivas a efecto de dar cuenta a la Comisión de Disciplina Judicial, para que determine lo procedente;
 
-XVII. Si durante el desarrollo de la visita se presenta alguna queja o denuncia por cualquier persona en contra del titular o demás servidores públicos del órgano de que se trate, el Visitador deberá levantarla en acta por separado, la que deberá remitir a la Comisión de Disciplina Judicial en forma independiente al acta de visita para los efectos de su competencia;
+XVIII. Si durante el desarrollo de la visita se presenta alguna queja o denuncia por cualquier persona en contra del titular o demás servidores públicos del órgano de que se trate, el Visitador deberá levantarla en acta por separado, la que deberá remitir a la Comisión de Disciplina Judicial en forma independiente al acta de visita para los efectos de su competencia;
 
-XVIII. Cualquier incidencia o dificultad que se presente durante el desarrollo de la visita, el Visitador la allanará prudentemente, en los supuestos en que así proceda, asentándola siempre en el acta correspondiente;
+XIX. Cualquier incidencia o dificultad que se presente durante el desarrollo de la visita, el Visitador la allanará prudentemente, en los supuestos en que así proceda, asentándola siempre en el acta correspondiente;
 
-XIX. Hacer constar en el acta las peticiones efectuadas por el titular del órgano visitado;
+XX. Hacer constar en el acta las peticiones efectuadas por el titular del órgano visitado;
 
-XX. Levantar de cada visita el acta respectiva en tres tantos, una para el titular del órgano o para el servidor público con quien se practicó la diligencia, otra para la Visitaduría Judicial, y una más para la Comisión de Disciplina Judicial; y
+XXI. Levantar de cada visita el acta respectiva en tres tantos, una para el titular del órgano o para el servidor público con quien se practicó la diligencia, otra para la Visitaduría Judicial, y una más para la Comisión de Disciplina Judicial; y
 
-XXI. Las demás que estimen pertinentes el Pleno o la Comisión de Disciplina Judicial, de conformidad con lo dispuesto en la Ley Orgánica y el Reglamento.
+XXII. Las demás que estimen pertinentes el Pleno o la Comisión de Disciplina Judicial, de conformidad con lo dispuesto en la Ley Orgánica y el Reglamento.
 
 #### SECCIÓN CUARTA. DE LAS COMISIONES ESPECIALES DE INVESTIGACIÓN
 
@@ -1875,5 +1879,9 @@ Sexto. Con la participación que corresponda a la Coordinación de Comunicación
 Séptimo. La actual Jefatura de Unidad Departamental de Apoyo Operativo y Administrativo se transformará en la Unidad de Gestión y Seguimiento del Centro.
 
 G.O. 9 DE MARZO DE 2009.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.
+
+G.O. 24 DE ABRIL DE 2009.
 
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.
