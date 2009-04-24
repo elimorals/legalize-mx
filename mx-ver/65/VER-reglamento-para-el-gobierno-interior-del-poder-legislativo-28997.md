@@ -4,7 +4,7 @@ identifier: "VER-reglamento-para-el-gobierno-interior-del-poder-legislativo-2899
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-17"
-last_updated: "2007-08-17"
+last_updated: "2009-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE ABRIL DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 17 de febrero de 2003.
 
@@ -1105,11 +1105,13 @@ Todo dictamen estará sujeto a una primera discusión en lo general y a una segu
 
 La duración de la discusión en lo general, no será mayor de dos horas, pero por decisión del Pleno, en votación económica, podrá prorrogarse por el tiempo que se acuerde.
 
-En el debate en lo general, se hará uso de la palabra en los siguientes términos:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE ABRIL DE 2009)</small>
+
+El presidente declarará abierto el debate en lo general y, en el mismo, se hará uso de la palabra en los términos siguientes:
 
 I. Cada grupo legislativo o diputados que no formen parte de éstos, dispondrán de hasta diez minutos para fijar su posición;
 
-II. Inmediatamente después, el Presidente abrirá el debate en lo general;
+II. (DEROGADA, G.O. 24 DE ABRIL DE 2009)
 
 III. Los oradores hablarán desde la tribuna conforme al orden que establezca el Presidente. Por cada orador en contra podrá hablar uno en pro, independientemente del grupo legislativo al que pertenezca, pero la intervención de cada uno no será mayor de diez minutos. No se permitirá el debate cuando un diputado haga uso de la tribuna para razonar su voto;
 
@@ -1576,3 +1578,9 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. En un plazo máximo de 90 días hábiles, posteriores a la entrada en vigor del presente Decreto, la Comisión Permanente de Equidad, Género y Familia, deberá presentar al Pleno o, en su caso, a la Diputación Permanente, el Proyecto de Reglamento del Parlamento de las Mujeres Veracruzanas para su aprobación.
+
+G.O. 24 DE ABRIL DE 2009.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
