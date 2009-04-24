@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-desarrollo-urbano-y-493
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-09-15"
-last_updated: "2005-09-15"
+last_updated: "2009-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49336&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO URBANO Y OBRAS PUBLICAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 2009.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de Puebla, el jueves 15 de septiembre de 2005.
 
@@ -181,7 +181,9 @@ XXXVIII.- Representar o en su caso designar a los representantes de la Secretar�
 
 XXXIX.- Participar en coordinación con las autoridades federales competentes, en los proyectos de desarrollo y las acciones competencia de la Secretaría, en los que concurra inversión extranjera;
 
-XL.- Intervenir en los procedimientos judiciales y administrativos en los que la Secretaría sea parte o tenga interés jurídico, así como resolver aquéllos que sean de su competencia;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2009)</small>
+
+XL.- Intervenir en los procedimientos judiciales y administrativos en los que la Secretaría sea parte o tenga interés jurídico, así como resolver aquéllos que sean de su competencia; asimismo, representar legalmente a la Dependencia en lo relativo a las relaciones laborales;
 
 XLI.- Imponer, modificar o cancelar los apercibimientos y sanciones por violaciones a las disposiciones dictadas por la Secretaría y a los ordenamientos legales aplicables en la materia;
 
@@ -407,11 +409,13 @@ X.- Asesorar a las entidades sectorizadas a la Secretaría, cuando lo soliciten,
 
 XI.- Coadyuvar en la elaboración y difusión de los manuales de organización, normas y lineamientos jurídico-administrativos a que deben sujetarse las unidades administrativas de la Secretaría, en relación con su funcionamiento;
 
-XII.- Coadyuvar con los Subsecretarios y demás Directores de la Secretaría, cuando así lo soliciten, a vigilar y procurar el cumplimiento de las normas y procedimientos jurídicos que rijan a las unidades administrativas que de ellos dependan;
+XlI.- Coadyuvar con los Subsecretarios y demás Directores de la Secretaría, cuando así lo soliciten, a vigilar y procurar el cumplimiento de las normas y procedimientos jurídicos que rijan a las unidades administrativas que de ellos dependan;
 
 XIII.- Substanciar los procedimientos administrativos, así como los medios de impugnación de cualquier naturaleza que interpongan los particulares contra actos de la Secretaría; y realizar el proyecto de resolución correspondiente, el cual se remitirá al Secretario;
 
-XIV.- Previo acuerdo del Secretario, representar a la Secretaría y a sus servidores públicos en todas las controversias de carácter judicial o administrativo en que sean parte o tengan interés jurídico;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2009)</small>
+
+XIV.- Previo acuerdo del Secretario, representar a la Secretaría y a sus servidores públicos en todas las controversias de carácter judicial o administrativo en que sean parte o tengan interés jurídico, así como en lo relativo a las relaciones laborales;
 
 XV.- Elaborar las promociones que contengan las contestaciones en los procedimientos judiciales o contenciosos-administrativos, ofrecimiento de pruebas, formulación de alegatos, interposición de incidentes, recursos, juicios de garantías, denuncias o querellas y demás que sean necesarios en la substanciación de los procedimientos respectivos;
 
@@ -870,3 +874,11 @@ Cuando las funciones de alguna unidad administrativa establecida con anteriorida
 Las unidades administrativas de la Secretaría, en un plazo que no excederá de 45 días naturales, contados a partir de la fecha en que entre en vigor el presente Reglamento, a fin de dar continuidad a los procedimientos que lleven a cabo, harán las adecuaciones necesarias a los sellos, formatos y demás documentos que utilice la Secretaría para el desempeño de sus funciones; por lo que, los actos y documentos realizados al amparo del Reglamento y su modificación abrogados, no perderán su validez por ese hecho, siempre y cuando hayan sido emitidos dentro del periodo señalado en el presente transitorio.
 
 Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los catorce días del mes de septiembre de dos mil cinco.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO JAVIER LÓPEZ ZAVALA.- Rúbrica.- El Secretario de Desarrollo Urbano y Obras Públicas.- INGENIERO JOSÉ JAVIER GARCÍA RAMÍREZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE ABRIL DE 2009.
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor a partir del día siguiente de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
