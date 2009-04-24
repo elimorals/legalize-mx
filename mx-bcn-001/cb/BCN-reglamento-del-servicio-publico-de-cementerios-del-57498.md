@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-servicio-publico-de-cementerios-del-57498"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-08-24"
-last_updated: "2007-08-24"
+last_updated: "2009-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DEL SERVICIO PUBLICO DE CEMENTERIOS DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 24 de agosto de 2007.
 
@@ -129,7 +129,9 @@ XIII. Inhumación: Enterramiento de un cadáver.
 
 XIV. Mascota domesticada: Aquellas especies de animales contenidas dentro del listado que para el efecto dicte la Dirección de Ecología del Municipio.
 
-XV. Nicho: El espacio destinado al depósito de restos humanos áridos o cremados.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2009)</small>
+
+XV. Nicho: El espacio destinado al depósito de restos humanos áridos o cremados y cadáveres.
 
 XVI. Osario: El lugar especialmente destinado para el depósito de restos humanos áridos.
 
@@ -163,7 +165,11 @@ IV. Contar como mínimo con sección jardín, sección de osarios y sección de 
 
 V. Cumplir las disposiciones relativas a Desarrollo Urbano y Ecología Estatal, Transporte y Vialidad, Uso del Suelo y demás ordenamientos Federales, Estatales y Municipales;
 
-VI. En el caso de cementerios horizontales, que el inmueble tenga una superficie mínima de cinco hectáreas. En el caso de cementerios exclusivos para mascotas, la superficie mínima será de dos hectáreas;
+VI. En el caso de cementerios horizontales, que el inmueble tenga una superficie mínima de cinco hectáreas. En el caso de cementerios exclusivos para mascotas, la superficie mínima será de dos hectáreas.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2009)</small>
+
+Para los efectos de establecimiento de cementerios verticales, para restos humanos áridos y cadáveres, el área debe ser compatible con los coeficientes de la Ley de Edificaciones y su Reglamento, y demás normatividad aplicable para edificaciones, contemplando las especificaciones de densidad y uso de suelo de zona comercial y/o habitacional y/o conforme a lo establecido en el Programa de Desarrollo Urbano Vigente y reglamentación correspondiente. Debiendo contener como mínimo el número de 20 gavetas y 20 nichos, para ser utilizadas al momento de su apertura. La capacidad para cementerios verticales podrá ser ampliada acorde a su necesidad, hasta llegar a la capacidad máxima del predio acorde a su infraestructura y factibilidad para la zona.
 
 VII. Contar con planos aprobados por la Dirección de Obras y Servicios Públicos Municipales
 
@@ -185,7 +191,9 @@ c) Faja perimetral;
 
 IV. Cumplir con las especificaciones de los distintos tipos de fosas, criptas y nichos que hubieran de construirse, indicando la profundidad máxima a que pueda excavarse y los procedimientos de construcción, previstos por la legislación aplicable;
 
-V. Las gavetas en cementerio vertical deberán estar impermeabilizadas en su interior y en los muros colindantes con las fachadas y pasillos de circulación; así como cumplir con las demás disposiciones legales aplicables y las especificaciones que dicte al respecto la Dirección de Ecología Municipal;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2009)</small>
+
+V. Las gavetas en cementerio vertical deberán estar impermeabilizadas en su interior y en los muros colindantes con las fachadas y pasillos de circulación; así como cumplir con las demás disposiciones legales aplicables y las especificaciones que dicte al respecto la Dirección de Ecología Municipal, estableciéndose los mecanismos de seguridad y salubridad para evitar la contaminación con la salida de gases conforme a lo establecido en las disposiciones sanitarias aplicables;
 
 VI. Instalar en la forma adecuada los servicios de agua potable, drenaje, energía eléctrica y alumbrado;
 
@@ -212,6 +220,10 @@ En los cementerios municipales, la limpieza, mantenimiento y conservación de la
 ###### ARTÍCULO 16.
 
 No se permitirán construcciones o edificaciones sobre las fosas. Serán únicamente identificadas con una placa de 40x60x8 cm. Que se colocará en la cabecera, y que contará con los datos de identidad de la persona sepultada.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2009)</small>
+
+Solo se permite el depósito de cadáveres sobre el nivel del suelo, cuando estos hubiesen sido embalsamados.
 
 ###### ARTÍCULO 17.
 
@@ -249,6 +261,10 @@ V.- Fijar anualmente las tarifas que deberán cobrarse por los servicios de inhu
 
 VI.- Cancelar la concesión otorgada a aquellos cementerios que violen los requisitos previstos en este Reglamento.
 
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2009)</small>
+
+ARTÍCULO 18 BIS.- La factibilidad de uso de suelo para cementerios, una vez reunidos los requisitos que marca el presente reglamento, se otorgara por la autoridad municipal de manera condicionada, a la aprobación o negativa que en su caso llegara a emitir el Ayuntamiento sobre el otorgamiento de la concesión.
+
 ### CAPÍTULO SEGUNDO. DE LA CLAUSURA Y EXTINCIÓN DE LOS CEMENTERIOS
 
 ###### ARTÍCULO 19.
@@ -259,19 +275,25 @@ Cuando exista la ocupación total de las áreas de los cementerios municipales, 
 
 Queda prohibido seguir realizando inhumaciones en los cementerios que las autoridades sanitarias hubiesen declarado saturados o cuando el Ayuntamiento ordene su clausura y extinción.
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2009)</small>
+
 ###### ARTÍCULO 21.
 
-Cuando sea necesario, con objeto de reordenar la urbanización de la ciudad o Delegación del Municipio de Ensenada, el ayuntamiento podrá ordenar la clausura de un cementerio y su extinción, previo el estudio correspondiente que formule la Dirección de Obras y Servicios Públicos Municipales en coordinación con la Dirección de Ecología Municipal.
+Cuando sea necesario, con objeto de reordenar la urbanización de la ciudad o Delegación del Municipio de Ensenada, el ayuntamiento podrá ordenar la clausura de un cementerio y/o su extinción parcial, previo estudio correspondiente que formule la Dirección de Obras y Servicios Públicos Municipales en coordinación con la Dirección de Ecología Municipal.
 
-En el caso del párrafo anterior, se procederá a retirar del servicio público el cementerio, y no se admitirá el refrendo de derechos sobre las fosas que se encuentren en el mismo.
+En el caso del párrafo anterior, se procederá a retirar del servicio público el cementerio o la extinción parcial del mismo por causas de utilidad pública y/o infraestructura que tenga como beneficio a la comunidad, y no se admitirá el refrendo de derechos sobre las fosas que se encuentren en el mismo.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2009)</small>
 
 ###### ARTÍCULO 22.
 
-Se requerirá la autorización de las autoridades sanitarias para efectuar las exhumaciones de los cadáveres que no hayan cumplido con la temporalidad mínima a partir de su inhumación.
+Se requerirá la autorización de las autoridades sanitarias para efectuar las exhumaciones de los cadáveres que no hayan cumplido con la temporalidad mínima a partir de su inhumación. En caso de extinción parcial del cementerio por causas de utilidad pública y/o infraestructura que tenga como beneficio a la comunidad, podrán ser reubicados los cadáveres en el mismo cementerio o en otro hasta que se concluya la temporalidad que se tenga convenida sobre el derecho de uso sobre fosas, gavetas o criptas, las reubicaciones serán publicadas con la misma formalidad que indica el artículo 23 del presente reglamento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ABRIL DE 2009)</small>
 
 ###### ARTÍCULO 23.
 
-La autoridad ordenará la publicación por tres veces, de 10 en 10 días en los periódicos diarios de la ciudad de Ensenada, la determinación del Ayuntamiento ordenando la clausura y extinción del cementerio, y otorgará un plazo de 3 meses después de la última publicación para que los deudos o familiares, o personas interesadas en los restos que van a ser exhumados, provea el traslado de dichos restos.
+La autoridad ordenará la publicación por tres veces, de 10 en 10 días en los periódicos diarios de la ciudad de Ensenada, la determinación del Ayuntamiento ordenando la clausura, y extinción parcial y extinción del cementerio, y otorgará un plazo de 3 meses después de la última publicación para que los deudos o familiares, o personas interesadas en los restos que van a ser exhumados, provea el traslado de dichos restos.
 
 Una vez transcurrido el plazo, los restos que no hayan sido reclamados, se trasladarán al osario de otro cementerio en donde permanecerán por dos meses, cumplido dicho término serán incinerados.
 
@@ -279,9 +301,11 @@ Una vez transcurrido el plazo, los restos que no hayan sido reclamados, se trasl
 
 Los restos áridos que sean reclamados se entregarán, con las precauciones sanitarias correspondientes, a las personas que lo hayan solicitado, para que procedan a su reinhumación.
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2009)</small>
+
 ###### ARTÍCULO 25.
 
-Los predios que hayan sido ocupados por un cementerio clausurado y extinguido, solo podrán dedicarse a parques públicos recreativos o deportivos.
+Los predios que hayan sido ocupados por un cementerio clausurado, extinguido, o extinguido parcial solo podrán dedicarse a parques públicos recreativos, deportivos, y albergar infraestructura por causas de utilidad pública que contenga beneficio en favor de la comunidad.
 
 ### CAPÍTULO TERCERO. DE LAS CONCESIONES
 
@@ -361,9 +385,11 @@ Vencido el plazo y el periodo de desahogo de pruebas si lo hubiere, el President
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2009)</small>
+
 ###### ARTÍCULO 34.
 
-El control sanitario de la disposición de órganos tejidos y cadáveres de seres humanos se sujetará a lo dispuesto en la Ley General de Salud y su reglamento.
+El control sanitario de la disposición de órganos tejidos, cadáveres y restos de seres humanos se sujetará a lo dispuesto en la Ley General de Salud y su reglamento.
 
 ###### ARTÍCULO 35.
 
@@ -394,6 +420,20 @@ II. Para infantes: 1.30 mts. De profundidad por 1.30 mts. de largo por 60 cm. De
 III. Para no natos: 65 cm. De profundidad por 65 cm. de largo por 30 cm. de ancho.
 
 IV. Para mascotas: Las medidas de las fosas deberán adecuarse a las reglas que para el efecto dicte la Dirección de Ecología del Municipio.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2009)</small>
+
+CEMENTERIOS VERTICALES
+
+###### Artículo 39 Bis.
+
+Las gavetas deben tener como dimensiones mínimas interiores 2.20 metros de largo, por 1.00 metro de ancho, por 0.90 centímetros de altura, y su construcción se sujetará a las siguientes reglas:
+
+a) Deben sujetarse a las especificaciones que señale la autoridad sanitaria correspondiente, ya sea que se trate de elementos colados en el lugar o pre construidos.
+
+b) En todos los casos, las losas deben estar a un mismo nivel por la cara superior, y en la parte inferior deberán tener un desnivel hacia el fondo con la finalidad de que los líquidos que pudieran escurrir, se canalicen por el drenaje que al efecto debe existir, hacia el subsuelo, en donde habrá una fosa séptica que lo reciba, de acuerdo con las especificaciones que determine la autoridad sanitaria.
+
+c) Los nichos para restos áridos a (sic) cremados y de cadáveres, tendrán como dimensiones mínimas: 0.50 por 0.50 centímetros de profundidad, y deberán construirse de acuerdo con las especificaciones que señale el reglamento de construcción y que determine la autoridad sanitaria.
 
 ###### ARTÍCULO 40.
 
@@ -461,9 +501,11 @@ V. Presentar comprobante del lugar en donde se encuentra inhumado el cadáver.
 
 La reinhumación de los restos exhumados será de inmediato, previo pago de los derechos por este servicio.
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2009)</small>
+
 ###### ARTÍCULO 53.
 
-Cuando las exhumaciones obedezcan al traslado de restos humanos a otra fosa del mismo cementerio, la reubicación se hará de inmediato previo el pago de los derechos.
+Cuando las exhumaciones obedezcan al traslado de restos humanos a otra fosa del mismo cementerio, la reubicación se hará de inmediato previo el pago de los derechos, exceptuando cuando sea por causas de utilidad pública y/o infraestructura que tenga como beneficio a la comunidad, donde dicho cargo será por cuenta del Ayuntamiento.
 
 ###### ARTÍCULO 54.
 
@@ -473,27 +515,35 @@ El traslado de cadáveres o de sus restos, se hará según lo dispuesto por la a
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2009)</small>
+
 ###### ARTÍCULO 55.
 
-En los cementerios municipales, el derecho de uso sobre fosas se proporcionará mediante temporalidades mínimas, máximas y a perpetuidad.
+En los cementerios municipales, el derecho de uso sobre fosa, gaveta, cripta o nicho, se proporcionará mediante temporalidades mínimas, máximas y a perpetuidad. Las temporalidades a que se refiere el párrafo anterior se convendrán entre los interesados y la administración municipal.
 
-Las temporalidades a que se refiere el párrafo anterior se convendrán entre los interesados y la administración municipal.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2009)</small>
 
 ###### ARTÍCULO 56.
 
-la temporalidad mínima confiere el derecho de uso sobre una fosa durante un periodo de siete años, transcurrido el cual, se podrá solicitar el refrendo para la temporalidad máxima, para perpetuidad o bien la exhumación de los restos.
+La temporalidad mínima confiere el derecho de uso sobre una fosa, gaveta, cripta o nicho, durante un periodo de siete años, transcurrido el cual, se podrá solicitar el refrendo para la temporalidad máxima, para perpetuidad o bien la exhumación de los restos.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2009)</small>
 
 ###### ARTÍCULO 57.
 
-La temporalidad máxima confiere el derecho de uso sobre una fosa durante un periodo de 14 años, pudiendo contratarse desde inicio o mediante el refrendo de la temporalidad mínima, transcurrido el cual se podrá solicitar la exhumación de los restos o bien solicitar la perpetuidad.
+La temporalidad máxima confiere el derecho de uso sobre una fosa, gaveta, cripta o nicho, durante un periodo de 14 años, pudiendo contratarse desde inicio o mediante el refrendo de la temporalidad mínima, transcurrido el cual se podrá solicitar la exhumación de los restos o bien solicitar la perpetuidad.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2009)</small>
 
 ###### ARTÍCULO 58.
 
-El sistema de uso a perpetuidad, que confiere el derecho sobre una fosa por tiempo indefinido, salvo lo establecido en el artículo 21 de este reglamento, podrá ser contratado ante la Dirección de Obras y Servicios Públicos Municipales, previo pago del derecho que corresponda a la Tesorería Municipal.
+El sistema de uso a perpetuidad, que confiere el derecho sobre una fosa, gaveta, cripta o nicho, por tiempo indefinido, salvo lo establecido en el artículo 21 de este reglamento, podrá ser contratado ante la Dirección de Obras y Servicios Públicos Municipales, previo pago del derecho que corresponda a la Tesorería Municipal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ABRIL DE 2009)</small>
 
 ###### ARTÍCULO 59.
 
-Durante la vigencia del convenio de uso, el titular del derecho sobre una fosa bajo el régimen de temporalidad máxima, podrá solicitar la inhumación de los restos de su cónyuge o de un familiar en línea directa en los siguientes casos:
+Durante la vigencia del convenio de uso, el titular del derecho sobre una fosa, gaveta, cripta o nicho, bajo el régimen de temporalidad máxima, podrá solicitar la inhumación de los restos de su cónyuge o de un familiar en línea directa en los siguientes casos:
 
 I. Cuando hubiere transcurrido el plazo que en su caso fije la autoridad sanitaria.
 
@@ -630,3 +680,9 @@ PRESIDENTE MUNICIPAL
 C. LIC. JULIO CESAR ARENAS RUIZ
 
 SECRETARIO FEDATARIO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE ABRIL DE 2009.
+
+ÚNICO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en el periódico Oficial del Estado de Baja California.
