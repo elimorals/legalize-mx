@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-comunicaciones-y-41097"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-23"
-last_updated: "2005-11-09"
+last_updated: "2009-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES Y TRANSPORTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 2009.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Puebla, el lunes 23 de agosto de 2004.
 
@@ -175,7 +175,9 @@ XXVIII.- Emitir los dictámenes técnicos que le sean solicitados por otras depe
 
 XXIX.- Asignar a las unidades administrativas de la Secretaría, las facultades no comprendidas en este Reglamento, necesarias para el cumplimiento de sus atribuciones;
 
-XXX.- Representar o en su caso designar a los representantes de la Secretaría, en las comisiones y entidades en las que deba intervenir;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2009)</small>
+
+XXX.- Representar legalmente a la Secretaría en todas las controversias de carácter judicial, contencioso-administrativo o del trabajo y relativo a las relaciones laborales, en que ésta sea parte o tenga interés jurídico, así como designar a los representantes de la Dependencia en las comisiones, entidades y demás asuntos que se deba intervenir;
 
 XXXI.- Solicitar a la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, la práctica de auditorías a las unidades administrativas de la Secretaría y a los órganos adscritos al sector de su competencia;
 
@@ -893,9 +895,13 @@ IX.- Coadyuvar en la elaboración y la difusión de los manuales de procedimient
 
 X.- Substanciar cuando así sea procedente, los procesos relativos a los recursos administrativos, que interpongan los particulares contra actos de la Secretaría, de conformidad con la normatividad aplicable y elaborar el proyecto de resolución correspondiente;
 
-XI.- Previo acuerdo del Secretario, representar a la Dependencia en todas las controversias de carácter judicial o administrativo en que ésta sea parte o tenga interés jurídico;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2009)</small>
 
-XII.- Elaborar las promociones que contengan las contestaciones en los procedimientos judiciales o contencioso-administrativos, ofrecimiento de pruebas, formulación de alegatos, interposición de incidentes, recursos, juicios de garantías, denuncias o querellas, y demás que sean necesarios en la substanciación de los procesos respectivos y en los que la Secretaría sea parte;
+XI.- Previo acuerdo del Secretario, representar legalmente a la Dependencia en todas las controversias de carácter judicial, contencioso-administrativo o del trabajo y/o relativas a las relaciones laborales en que ésta sea parte o tenga interés jurídico, quedando facultado para articular y absolver posiciones, recusar, desistirse de la instancia o de la acción sin perjuicio de los intereses de la Secretaría, interponer los recursos que procedan, ofrecer y rendir pruebas, alegar en las audiencias, solicitar su suspensión o diferimiento, pedir se dicte sentencia, presentar y ratificar denuncias o querellas, coadyuvar con el Ministerio Público y realizar cualquier acto que resulte necesario para la defensa de los intereses de la Dependencia, así como autorizar por escrito a servidores públicos subalternos para que realicen actos y suscriban documentos que formen parte del ejercicio de sus facultades delegables, excepto aquéllas que por disposición de la Ley o por acuerdo del Secretario deban ser ejecutadas directamente por él;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2009)</small>
+
+XII.- Elaborar las promociones que contengan las contestaciones de demanda en los procedimientos judiciales, contencioso-administrativos o del trabajo y/o relativos a las relaciones laborales, ofrecimiento de pruebas, formulación de alegatos, interposición de incidentes, recursos, juicios de garantías, denuncias o querellas y demás que sean necesarios en la substanciación de los procesos respectivos y en los que la Secretaría sea parte;
 
 XIII.- Formular los informes previos y justificados, así como toda clase de promociones y recursos que deban interponerse en los juicios de amparo, promovidos en contra de actos de autoridad del Secretario, coordinando la formulación de informes de los demás servidores públicos de la Dependencia;
 
@@ -1018,3 +1024,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE ABRIL DE 2009.
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor a partir del día siguiente de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
