@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-del-trabajo-y-49109"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-16"
-last_updated: "2005-12-16"
+last_updated: "2009-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49109&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO Y COMPETITIVIDAD
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO Y COMPETITIVIDAD
+DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO Y COMPETITIVIDAD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 2009.
 
 Reglamento publicado en la Séptima Sección del Periódico Oficial del Estado de Puebla, el viernes 16 de diciembre de 2005.
 
@@ -129,7 +129,9 @@ XI.- Emitir acuerdos, circulares, lineamientos y demás disposiciones en el ámb
 
 XII.- Determinar las comisiones y grupos de trabajo que sean necesarios para el mejor desempeño de los asuntos de la Secretaría y designar a los miembros de éstas;
 
-XIII.- Designar, remover y en su caso, acordar las renuncias, de los servidores públicos de la Secretaría, cuando ésta no sea una facultad reservada al Gobernador del Estado;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2009)</small>
+
+XIII.- Representar legalmente a la Secretaría en lo relativo a las relaciones laborales, así como designar, remover y en su caso, acordar las renuncias de los servidores públicos de la Dependencia, cuando ésta no sea una facultad reservada al Gobernador del Estado;
 
 XIV.- Proponer para el mejor desempeño de las actividades de la Secretaría, la creación de las Unidades Administrativas necesarias, con la competencia, circunscripción y sede que requieran las necesidades de operación con el personal administrativo y técnico que se determine, de acuerdo al volumen de trabajo a realizar, la normatividad aplicable y en la medida en que exista disponibilidad presupuestal;
 
@@ -417,7 +419,9 @@ XIII.- Las demás que en materia de su competencia se establezcan en este Reglam
 
 La Dirección de Asuntos Jurídicos, dependerá directamente del Secretario y tendrá además de las atribuciones previstas en el artículo 12 del presente Reglamento, las siguientes:
 
-I.- Representar a la Secretaría en todas las controversias y trámites de carácter legal, que sean de su competencia, así como en lo relativo a los litigios, iniciando o continuando acciones ante los órganos formal o materialmente jurisdiccionales, desistirse, interponer recursos, promover incidentes, ofrecer o rendir pruebas, alegar y seguir los juicios y procedimientos hasta ejecutar las resoluciones y en general, ejercer las mismas atribuciones que un mandatario con todas las facultades generales y las particulares que requieran cláusulas especiales conforme a la Ley;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2009)</small>
+
+I.- Representar a la Secretaría en todas las controversias y trámites de carácter legal, que sean de su competencia, así como en lo relativo a los litigios y a las relaciones laborales, iniciando o continuando acciones ante los órganos formal o materialmente jurisdiccionales, desistirse, interponer recursos, promover incidentes, ofrecer o rendir pruebas, alegar y seguir los juicios y procedimientos hasta ejecutar las resoluciones, y en general, ejercer las mismas atribuciones que un mandatario con todas las facultades generales y las particulares que requieran cláusulas especiales conforme a la ley;
 
 II.- Elaborar los proyectos mediante los cuales se rindan dentro de los plazos establecidos los informes previos y justificados, y demás solicitados por las autoridades competentes, cuando el Secretario o cualquiera de los titulares de las Unidades Administrativas de la Secretaría sean señalados conjunta o separadamente como autoridades responsables;
 
@@ -822,3 +826,11 @@ Cuando las funciones de alguna Unidad Administrativa establecida con anteriorida
 Se dejan sin efecto en lo que se opongan a este Reglamento, las disposiciones de carácter legal y administrativo.
 
 Dado en la Sede del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza, a los catorce días del mes de noviembre de dos mil cinco.- "Sufragio Efectivo. No Reelección".- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO JAVIER LÓPEZ ZAVALA.- Rúbrica.- El Secretario del Trabajo y Competitividad.- LICENCIADO JOSÉ ANTONIO LÓPEZ MALO CAPELLINI.- Rúbrica.
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
+
+P.O. 24 DE ABRIL DE 2009.
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor a partir del día siguiente de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
