@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2009-04-17"
+last_updated: "2009-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE ABRIL DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -204,9 +204,7 @@ A) La Subsecretaría de Proyectos Estratégicos.
 
 2. Dirección General de Servicios Urbanos;
 
-> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2008)</small>
-
-3. Dirección General del Proyecto Metro.
+3. (DEROGADO, G.O. 24 DE ABRIL DE 2009)
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 30 DE ABRIL DE 2008)</small>
 
@@ -223,6 +221,10 @@ A) La Subsecretaría de Proyectos Estratégicos.
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 30 DE ABRIL DE 2008)</small>
 
 7. Dirección General de la Planta de Asfalto.
+
+> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2009)</small>
+
+Asimismo, se le adscribe el Órgano Desconcentrado denominado Proyecto Metro del Distrito Federal.
 
 > <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
 
@@ -12382,11 +12384,17 @@ VII. Las demás que le confieran las disposiciones jurídicas y administrativas 
 
 > <small>(ADICIONADA, G.O. 30 DE MAYO DE 2005)</small>
 
-#### SECCION IV. (REUBICADA, G.O. 31 DE ENERO DE 2001)
+#### SECCION IV
+
+ADSCRITO A LA SECRETARIA DE OBRAS Y SERVICIOS.
+
+> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2009)</small>
 
 #### SECCION V
 
 ADSCRITOS A LA SECRETARIA DE DESARROLLO SOCIAL.
+
+(REUBICADA, G.O. 31 DE ENERO DE 2001)
 
 ###### Artículo 199.
 
@@ -12554,11 +12562,13 @@ XIII. Expedir copias cerificadas (sic), previo cotejo de los originales de los d
 
 XIV. Las demás que señalen las disposiciones normativas y, en general, todas aquellas funciones relativas al cumplimiento de los objetivos del Sistema de Aguas de la Ciudad de México, que sean afines con las funciones anteriores y que le encomiende el Director General.
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2009)</small>
 
 #### SECCION VI
 
 ADSCRITO A LA SECRETARIA DE TRANSPORTES Y VIALIDAD.
+
+(REUBICADA Y REFORMADA, G.O. 31 DE ENERO DE 2001)
 
 #### SECCION VII
 
@@ -12566,19 +12576,67 @@ ADSCRITAS A LA SECRETARIA DE TURISMO.
 
 ###### Artículo 205.
 
-(DEROGADO, G.O. 26 DE SEPTIEMBRE DE 2002)
+El Órgano Desconcentrado Proyecto Metro tendrá como objeto la construcción, equipamiento y ampliación de la red del Sistema de Transporte Colectivo y tendrá las siguientes atribuciones:
+
+I. Planear, programar, presupuestar y ejecutar los proyectos estratégicos a su cargo.
+
+II. Efectuar, en coordinación con el Sistema de Transporte Colectivo Metro, los estudios e investigaciones que se requieran con motivo de la ampliación de la red.
+
+III. Coordinar con el Sistema de Transporte Colectivo Metro, el proyecto ejecutivo, la construcción y equipamiento de las obras de ampliación de la red.
+
+IV. Elaborar los proyectos ejecutivos y de detalle para la construcción de las obras de ampliación del Sistema de Transporte Colectivo Metro, así como sus obras inducidas y complementarias.
+
+V. Llevar a cabo la adjudicación de las obras públicas y adquisiciones que se requieran para la construcción y equipamiento de instalaciones fijas para la ampliación de la red.
+
+VI. Celebrar los contratos y convenios de obras y adquisiciones que se requieran para la construcción y equipamiento de las instalaciones fijas para las ampliaciones de la red del Sistema de Transporte Colectivo “Metro”.
+
+VII. Construir y supervisar las obras e instalaciones fijas de las ampliaciones de la Red del Sistema de Transporte Colectivo Metro, incluyendo sus obras inducidas y complementarias; verificando que se hagan de acuerdo al proyecto, programa y presupuesto autorizados.
+
+VIII. Coordinar con las dependencias, unidades administrativas, delegaciones, órganos desconcentrados y entidades de la administración pública correspondiente, lo relativo a las obras de ampliación de red.
+
+VIII. Adquirir, transportar, suministrar e instalar los equipos y material de instalación fija que requieran las ampliaciones de la Red del Sistema de Transporte Colectivo “Metro”;
+
+X. Entregar las ampliaciones de la Red del Metro al organismo Sistema de Transporte Colectivo, así como sus obras inducidas y complementarias a las dependencias, órganos desconcentrados, delegaciones y entidades operadoras.
+
+XI. Efectuar las pruebas requeridas para poner en servicio las ampliaciones de la Red del Sistema de Transporte Colectivo “Metro”, garantizando la seguridad integral del servicio; y
+
+XII. Las demás que le atribuyan expresamente la normativa vigente.
+
+> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2009)</small>
 
 ###### Artículo 206.
 
-(DEROGADO, G.O. 19 DE ENERO DE 2007)
+Para el despacho de los asuntos que competan al órgano desconcentrado Proyecto Metro se le adscriben:
 
-(REUBICADA, G.O. 31 DE ENERO DE 2001)
+I. Dirección Ejecutiva de Operación;
+
+II. Dirección Ejecutiva de Administración;
+
+III. Dirección de Administración de Contratos;
+
+IV. Dirección de Diseño de Obras Civiles;
+
+V. Dirección de Diseño de Instalaciones Electromecánicas;
+
+VI. Dirección de Construcción de Obras Civiles;
+
+VII. Dirección de Construcción de Instalaciones Electromecánicas;
+
+VIII. Dirección de Obras Inducidas del Proyecto Metro; y
+
+IX. Las demás que requieran, en atención a la suficiencia presupuestal, y que se señalen en el dictamen de su estructura.
+
+Las atribuciones que les correspondan a cada unidad administrativa se establecerán en el Manual Administrativo correspondiente.
+
+> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2009)</small>
 
 ###### Artículo 207.
 
-(DEROGADO, G.O. 21 DE MAYO DE 2002)
+El órgano desconcentrado Proyecto Metro tendrá autonomía de gestión administrativa y financiera, a través de la Dirección Ejecutiva de Administración que se le adscriba.
 
-(REUBICADA Y REFORMADA, G.O. 31 DE ENERO DE 2001)
+> <small>N. DE E. LOS ARTICULOS QUE INTEGRABAN ESTA SECCION FUERON ADICIONADOS Y REUBICADOS A LA SECCION IV, G.O. 24 DE ABRIL DE 2009.</small>
+
+(REUBICADA, G.O. 31 DE ENERO DE 2001)
 
 ###### Artículo 208.
 
@@ -13005,3 +13063,13 @@ G.O. 17 DE ABRIL DE 2009.
 PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 24 DE ABRIL DE 2009.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Los recursos humanos, materiales, técnicos y financieros que actualmente corresponden a la Dirección General del Proyecto Metro pasarán íntegramente al órgano desconcentrado Proyecto Metro.
+
+CUARTO.- Con el objeto de que el Órgano Desconcentrado, creado en este Decreto, cuente con los recursos humanos, materiales, técnicos y financieros para su funcionamiento y operación, la Secretaria de Fianzas y la Oficialía Mayor realizarán las adecuaciones presupuestales y administrativas correspondientes.
