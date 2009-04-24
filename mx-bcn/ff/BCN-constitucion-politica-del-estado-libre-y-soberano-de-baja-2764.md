@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2008-12-26"
+last_updated: "2009-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -1381,17 +1381,25 @@ LAS RESOLUCIONES DEL CONSEJO SERÁN DEFINITIVAS E INATACABLES Y, POR LO TANTO, N
 
 El Consejo de la Judicatura del Estado elaborará el proyecto de presupuesto global del Poder Judicial, que comprenderá el del Tribunal Superior de Justicia y del Tribunal de Justicia Electoral, de los Juzgados y demás órganos judiciales; será elaborado por grupos y partidas presupuestales, y remitido por conducto de su presidente al titular del Poder Ejecutivo del Estado para el su (sic) inclusión en el Proyecto del Presupuesto de Egresos del Estado. El proyecto del Poder Judicial no podrá ser modificado por el titular del Poder Ejecutivo, pero el Congreso del Estado sí lo podrá modificar, en los términos señalados en (sic) artículo 90 de esta Constitución. El presupuesto estará vinculado a la aplicación del Plan de Desarrollo Judicial.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 66.
 
-Los Magistrados, Jueces, Consejeros de la Judicatura, Secretario General, Secretarios Auxiliares, de Estudio y Cuenta, del Poder Judicial del Estado, durante el tiempo de su encargo, aún cuando tengan carácter de Interinos o cuenten con licencia, no podrán aceptar ni desempeñar empleo o encargo en la Federación, Estado o Municipios ni de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia. Asimismo estarán impedidos para litigar ante cualquier instancia, salvo cuando se trate de causa propia.
+Los Magistrados Numerarios, Jueces, Consejeros de la Judicatura, Secretario General, Secretarios Auxiliares, de Estudio y Cuenta, del Poder Judicial del Estado, durante el tiempo de su encargo, aún cuando tengan carácter de Interinos, no podrán aceptar ni desempeñar empleo o encargo en la Federación, Estado o Municipios ni de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia. Asimismo estarán impedidos para litigar ante cualquier instancia, salvo cuando se trate de causa propia. Los Magistrados Supernumerarios, mientras no sean llamados para cubrir una falta temporal o absoluta, podrán desempeñar empleo o encargo en la Federación, Estado, Municipios o particulares.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
 
 Los Secretarios de Acuerdos y Actuarios del Poder Judicial del Estado, estarán sujetos a los mismos impedimentos a que alude el párrafo anterior, pero si podrán desempeñar cargos remunerados en asociaciones científicas, docentes, literarias o de beneficencia.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+
 La infracción a lo previsto en los párrafos anteriores, será sancionada con la pérdida o privación del respectivo cargo dentro del Poder Judicial del Estado, independientemente de las demás sanciones que las leyes prevean.
 
-Las personas que hayan ocupado el cargo de Magistrado del Poder Judicial o Consejero de la Judicatura, no podrán, dentro de los dos años siguientes a la fecha en que lo hayan dejado, ejercer la abogacía ante los órganos jurisdiccionales del Poder Judicial del Estado. Tampoco podrán actuar con tal calidad los jueces dentro del año siguiente a la fecha en que hayan dejado el cargo.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2009)</small>
+
+Quienes hayan ejercido los cargos a que se refiere este artículo estarán impedidos para desempeñarse como abogado patrono, procurador o cualquier género de representación en aquellos asuntos que haya conocido.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
 
 Todo servidor público del Poder Judicial que tenga conocimiento de la comisión de hechos posiblemente delictuosos que deban perseguirse de oficio o que pudieran constituir una responsabilidad administrativa, estará obligado a denunciarlos en los términos de las leyes respectivas. Corresponderá al Consejo de la Judicatura en ejercicio de sus facultades, investigar y determinar las responsabilidades de los servidores públicos del Poder Judicial, y formular en su caso denuncias o querellas por la comisión de delitos cometidos por los mismos, de acuerdo con lo previsto en las leyes.
 
@@ -2777,11 +2785,11 @@ TERCERO.- El Congreso del Estado resolverá, a más tardar el 31 de agosto del 2
 
 P.O. 14 DE SEPTIEMBRE DE 2001.
 
-PRIMERO.- Las presentes reformas y adiciones a la Constitución Política del Estado Libre y Soberano de Baja California, se remitirán de inmediato a los Ayuntamientos del Estado, a fin de dar cumplimiento a lo preceptuado por su Artículo 112.
+Primero.- Las presentes reformas y adiciones a la Constitución Política del Estado Libre y Soberano de Baja California, se remitirán de inmediato a los Ayuntamientos del Estado, a fin de dar cumplimiento a lo preceptuado por su Artículo 112.
 
-SEGUNDO.- Una vez cumplimentado el transitorio anterior, computados los votos de los Ayuntamientos en sentido aprobatorio, las presente reformas se declararán parte de esta Constitución, para que inicien su vigencia, a partir del próximo 1° de octubre del 2001, previa su publicación en el Periódico Oficial del Estado.
+Segundo.- Una vez cumplimentado el transitorio anterior, computados los votos de los Ayuntamientos en sentido aprobatorio, las presente reformas se declararán parte de esta Constitución, para que inicien su vigencia, a partir del próximo 1° de octubre del 2001, previa su publicación en el Periódico Oficial del Estado.
 
-TERCERO.- Los ordenamientos o Leyes que resulten afectadas por las reformas a esta Constitución, se modificarán y armonizarán en su texto por este Congreso, en un plazo que no exceda de 60 días, contados a partir de la iniciación de su vigencia.
+Tercero.- Los ordenamientos o Leyes que resulten afectadas por las reformas a esta Constitución, se modificarán y armonizarán en su texto por este Congreso, en un plazo que no exceda de 60 días, contados a partir de la iniciación de su vigencia.
 
 P.O. 7 DE DICIEMBRE DE 2001.
 
@@ -3070,3 +3078,13 @@ SEGUNDO.- Una vez cumplimentado el transitorio anterior, computados los votos de
 TERCERO.- Inicio de vigencia.- Las presentes reformas entrarán en vigor a las cero horas del día primero del mes de junio del año dos mil nueve, en el Partido Judicial de Mexicali, y en los partidos judiciales de Ensenada, a las cero horas del día primero del mes de junio del dos mil diez, y en los partidos judiciales de Tijuana, Tecate y Playas de Rosarito, a las cero horas del día primero del mes de junio del año dos mil once.
 
 CUARTO.- Las referencias que se hagan en otras disposiciones legales a la Defensoría de Oficio o al Defensor de Oficio, se entenderán hechas a la Defensoría Pública o al Defensor Público respectivamente.
+
+P.O. 24 DE ABRIL DE 2009.
+
+PRIMERO.- Aprobada que sea esta Iniciativa de reforma por esta Honorable Asamblea, envíese esta a los Ayuntamientos del Estado, con copia de las actas de los debates que hubiere provocado, en cumplimiento a lo previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Aprobado (sic) la iniciativa de reforma por los Ayuntamientos del Estado, pronúnciese la Declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, previo cumplimiento del procedimiento que prescribe el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+CUARTO.- La reforma al primer párrafo del artículo 17 de la Ley Orgánica del Poder Judicial del Estado de Baja California, entrará en vigor una vez cobre vigencia la reforma al artículo 66 de la Constitución Política del Estado Libre y Soberano de Baja California referida en los artículos transitorios antes citados.
