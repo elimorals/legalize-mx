@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2008-12-24"
+last_updated: "2009-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 24 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 24 DE ABRIL DE 2009.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -267,25 +267,37 @@ Natividad, San Roque, Asunción, Magdalena, Margarita y Creciente, situadas en e
 
 36.- La Soberanía del Estado reside esencial y originariamente en el pueblo sudcaliforniano, quien la ejerce por medio de los poderes constituidos en los términos de esta Ley fundamental. La renovación de los Poderes Legislativo y Ejecutivo, así como de los Ayuntamientos, se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
 
-> <small>(REFORMADA, B.O. 14 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADA, B.O. 24 DE ABRIL DE 2009)</small>
 
-I.- Los partidos políticos son entidades de interés público; la Ley determinará las formas específicas de su intervención en los procesos electorales. Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatales y municipales.
+I.- Los partidos políticos son entidades de interés público y tienen el derecho exclusivo para solicitar el registro de candidatos a cargos de elección popular. La Ley determinará las normas y requisitos para su registro legal y formas específicas de su intervención en los procesos electorales. Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatales y municipales.
 
-Los partidos políticos nacionales y estatales tienen como fin promover la participación del pueblo sudcaliforniano en la vida democrática, contribuir en la integración de la representación del Estado y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público en las esferas estatal y municipal y de acuerdo a los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos.
+Los partidos políticos nacionales y estatales tienen como fin promover la participación del pueblo sudcaliforniano en la vida democrática, contribuir en la integración de la representación del Estado, y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público en las esferas estatal y municipal, de acuerdo a los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto y directo. Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos, por tanto quedan prohibidas la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
+
+La ley establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidatos a cargos de elección popular, las reglas para las precampañas y las campañas electorales, así como los límites a las erogaciones para tales efectos.
+
+Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen esta constitución y la ley.
 
 > <small>(REFORMADA, B.O. 14 DE FEBRERO DE 1997)</small>
 
 II.- La Ley garantizará que en los procesos electorales estatales y municipales los partidos políticos cuenten de manera equitativa con los recursos para llevar a cabo sus actividades político electorales.
 
-De igual manera determinará condiciones de equidad para que los partidos políticos tengan acceso a los medios de comunicación social.
+> <small>(REFORMADO, B.O. 24 DE ABRIL DE 2009)</small>
 
-> <small>(REFORMADA, B.O. 14 DE FEBRERO DE 1997)</small>
+De igual manera determinará condiciones de equidad para que los partidos políticos tengan acceso a los medios de comunicación social, distintos a la radio y la televisión.
 
-III.- La Ley señalará las reglas a las que se sujetará el financiamiento de los partidos políticos y de sus campañas político electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado.
+> <small>(REFORMADA, B.O. 24 DE ABRIL DE 2009)</small>
 
-El financiamiento público para los partidos políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y a las que se produzcan durante los procesos políticos electorales, mismas que se otorgarán de acuerdo con las disponibilidades presupuestales y conforme a lo prescrito en la Ley.
+III.- La Ley señalará las reglas a las que se sujetará el financiamiento de los partidos políticos, de sus precampañas y campañas político electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado, asimismo establecerá la duración de dichas precampañas y campañas electorales.
 
-La Ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales; establecerá los montos máximos que tendrán las aportaciones pecunarias (sic) de sus simpatizantes y los procedimientos para el control y vigilancia del origen y el uso de todos los recursos con que cuenten y asimismo, señalará las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
+El financiamiento público para los partidos políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter especifico, mismas que se otorgarán de acuerdo con las disponibilidades presupuestales y conforme a lo prescrito en la Ley.
+
+La Ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en los procesos internos de selección de candidatos y campañas electorales. Asimismo establecerá los montos máximos que tendrán las aportaciones de sus simpatizantes cuyo monto total no excederá anualmente, por cada partido político, del diez por ciento del tope de gastos establecido para la última elección de gobernador.
+
+Igualmente fijará los procedimientos para el control y vigilancia del origen y el uso de todos los recursos con que cuenten, y señalará las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
+
+La Comisión de Fiscalización del Financiamiento de los Partidos Políticos, está facultada para solicitar la intervención de la Unidad de Fiscalización de los Recursos de los Partidos Políticos del Instituto Federal Electoral, a efecto de obtener información bancaria, fiduciaria o fiscal relacionada con las finanzas de los Partidos Políticos.
+
+La ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos políticos que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados al Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JUNIO DE 2000)</small>
 
@@ -2555,11 +2567,17 @@ DECRETO NUMERO 1732
 
 PRIMERO.- Publíquese el presente Decreto en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
-SEGUNDO.- Para efectos de dar cumplimiento a la reforma constitucional federal aprobada por el H. Congreso de la Unión y publicada en el Diario Oficial de la Federación, el día 13 de Noviembre de 2007, el gobernador electo el día 03 de febrero del año 2011, durará en su encargo del día 05 de abril del mismo año al 10 de septiembre del año 2015.
+> <small>(REFORMADO, B.O. 24 DE ABRIL DE 2009)</small>
 
-TERCERO.- Para efectos de dar cumplimiento a la reforma constitucional federal aprobada por el H. Congreso de la Unión y publicada en el Diario Oficial de la Federación, el día 13 de Noviembre de 2007, los integrantes de la legislatura local electos el día 03 de febrero del año 2011, durarán en su encargo del día 15 de marzo del mismo año hasta el día primero de septiembre del año 2015.
+SEGUNDO.- Para efectos de dar cumplimiento a la reforma Constitucional Federal aprobada por el H. Congreso de la Unión y publicada en el Diario Oficial de la Federación el día trece de noviembre de dos mil siete, el Gobernador electo el primer domingo de febrero del año dos mil once, durará en su encargo del día cinco de abril del mismo año al diez de septiembre del año dos mil quince.
 
-CUARTO.- Para efectos de dar cumplimiento a la reforma constitucional federal aprobada por el H. Congreso de la Unión y publicada en el Diario Oficial de la Federación, el día 13 de Noviembre de 2007, los integrantes de los ayuntamientos electos el día 03 de febrero del año 2011, ejercerán su función en los siguientes períodos:
+> <small>(REFORMADO, B.O. 24 DE ABRIL DE 2009)</small>
+
+TERCERO.- Para efectos de dar cumplimiento a la reforma Constitucional Federal aprobada por el H. Congreso de la Unión y publicada en el Diario Oficial de la Federación el día trece de noviembre de dos mil siete, los integrantes de la Legislatura Local electos el primer domingo de febrero del año dos mil once, durarán en su encargo del día quince de marzo del mismo año al primero de septiembre del año dos mil quince.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 24 DE ABRIL DE 2009)</small>
+
+CUARTO.- Para efectos de dar cumplimiento a la reforma Constitucional Federal aprobada por el H. Congreso de la Unión y publicada en el Diario Oficial de la Federación el día trece de noviembre de dos mil siete, los integrantes de los Ayuntamientos electos el primer domingo de febrero del año dos mil once, ejercerán su función en los siguientes periodos:
 
 El municipio de Mulegé iniciará su período el día 24 de abril de 2011 y concluirá el 24 de septiembre del 2015
 
@@ -2598,3 +2616,7 @@ El presente decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El Magistrado Presidente del H. Tribunal Superior de Justicia del Estado de Baja California Sur, deberá de redistribuir los Tocas en las Salas Unitarias que correspondan en razón de la materia, debiéndose publicar dicha redistribución en el Boletín Judicial del Poder Judicial del Estado de Baja California Sur para conocimiento de las partes interesadas en los Tocas respectivos.
+
+B.O. 24 DE ABRIL DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
