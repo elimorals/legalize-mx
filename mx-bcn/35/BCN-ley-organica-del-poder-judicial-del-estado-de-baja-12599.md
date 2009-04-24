@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2009-02-27"
+last_updated: "2009-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 2009.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -221,9 +221,11 @@ El retiro de los Jueces, Secretarios de Acuerdos y Actuarios, así como demás s
 
 ### CAPITULO III. DE LAS PROHIBICIONES, INCOMPATIBILIDADES E INCAPACIDADES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 17.
 
-Ningún servidor del Poder Judicial podrá tener ocupación que lo constituya en estado de dependiente moral o económico de alguna corporación o persona particular.
+Ningún servidor del Poder Judicial podrá tener ocupación que lo constituya en estado de dependiente moral o económico de alguna corporación o persona particular. Con excepción de los Magistrados Supernumerarios, mientras no sean llamados para cubrir una falta temporal o absoluta.
 
 Quedan exceptuados de esta disposición los cargos docentes cuyo desempeño no perjudique las funciones o labores propias que les competen como miembros de la Administración de Justicia.
 
@@ -3608,3 +3610,13 @@ CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 27 DE FEBRERO DE 2009.
 
 ÚNICO.- Las presentes reformas entrarán en vigor, una vez que sean publicadas en el Periódico Oficial del Estado de Baja California y cobren vigencia las reformas a las disposiciones normativas requeridas para la aplicación de las órdenes de protección y de restricción.
+
+P.O. 24 DE ABRIL DE 2009.
+
+PRIMERO.- Aprobada que sea esta Iniciativa de reforma por esta Honorable Asamblea, envíese esta a los Ayuntamientos del Estado, con copia de las actas de los debates que hubiere provocado, en cumplimiento a lo previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Aprobado (sic) la iniciativa de reforma por los Ayuntamientos del Estado, pronúnciese la Declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, previo cumplimiento del procedimiento que prescribe el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+CUARTO.- La reforma al primer párrafo del artículo 17 de la Ley Orgánica del Poder Judicial del Estado de Baja California entrará en vigor una vez cobre vigencia la reforma al artículo 66 de la Constitución Política del Estado Libre y Soberano de Baja California referida en los artículos transitorios antes citados.
