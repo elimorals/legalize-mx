@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-turismo-40712"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-06-07"
-last_updated: "2004-08-04"
+last_updated: "2009-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40712&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 2009.
 
 Reglamento publicado en la Octava Sección del Periódico Oficial del Estado de Puebla, el viernes 7 de junio de 1996.
 
@@ -133,7 +133,9 @@ X.- Determinar las comisiones y grupos de trabajo que sean necesarios para el me
 
 XI.- Acordar con los Subsecretarios, los Directores y en su caso, con los demás servidores públicos de la Secretaría, los asuntos de su respectiva competencia;
 
-XII.- Designar, remover y en su caso, acordar las renuncias de los servidores públicos de la Secretaría;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2009)</small>
+
+XII.- Representar legalmente a la Secretaría en lo relativo a las relaciones laborales, así como designar, remover y en su caso, acordar las renuncias de los servidores públicos de la Secretaría, de conformidad con la normatividad aplicable;
 
 XIII.- Proporcionar los datos relativos a las labores desarrolladas por la Secretaría, para la formulación del informe de Gobierno;
 
@@ -487,19 +489,23 @@ I.- Promover, coordinar y asesorar técnicamente la creación y operación de Co
 
 II.- Solicitar informes periódicos a los Consejos y Comités Municipales de Turismo, con relación al funcionamiento y operatividad de los mismos;
 
-III.- Establecer programas de capacitación tendientes a fomentar la cultura turística;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2009)</small>
+
+III.- Establecer programas de capacitación tendientes a fortalecer y elevar la calidad de los servicios turísticos;
 
 IV.- Promover la capacitación turística en empresas del ramo a través del fomento, apoyo y asesoría técnica;
 
 V.- Preparar diagnósticos sobre necesidades y requerimientos de capacitación en el sector;
 
-VI.- Concertar acciones para propiciar la creación de infraestructura y el equipo necesarios para el desarrollo de programas de capacitación;
+VI.- (DEROGADA, P.O. 24 DE ABRIL DE 2009)
 
 VII.- Proponer la suscripción de convenios, con la asesoría de la Dirección de Asuntos Jurídicos, con las cámaras, asociaciones y sindicatos del sector en materia de capacitación y adiestramiento turístico;
 
 VIII.- Coordinar los programas de capacitación destinados a servidores públicos estatales y municipales vinculados con la actividad turística;
 
-IX.- Organizar, acorde a la normatividad correspondiente, la capacitación de personas que busquen la acreditación de guías de turistas y emitir dictámenes relativos a su acreditación de conformidad con los grados de escolaridad y las evaluaciones que para el efecto se practiquen;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2009)</small>
+
+IX.- Organizar, acorde a la normatividad correspondiente, la capacitación de personas que busquen la acreditación de guías de turistas y emitir dictámenes relativos a su acreditación;
 
 X.- Llevar un registro completo y actualizado de los centros de enseñanza turística y difundirlo entre los prestadores de servicios turísticos;
 
@@ -511,21 +517,27 @@ XIII.- Instrumentar la participación de la Secretaría, en la reorientación de
 
 XIV.- Apoyar la investigación aplicada, promoviendo la vinculación con organismos especializados del país o del extranjero para mejorar la educación y capacitación en materia turística;
 
-XV.- Gestionar el apoyo técnico y financiero de organismos nacionales o extranjeros para fines de capacitación y promover el otorgamiento de becas, así como el intercambio académico profesional sobre el turismo;
+XV.- (DEROGADA, P.O. 24 DE ABRIL DE 2009)
 
 XVI.- Elaborar y difundir material didáctico y académico relativo a las actividades que sobre capacitación, educación y cultura turística lleve a cabo la Secretaría;
 
-XVII.- Apoyar logísticamente las giras de trabajo que el Titular de la Dependencia realice por el Estado;
+XVII.- (DEROGADA, P.O. 24 DE ABRIL DE 2009)
 
 XVIII.- Elaborar el calendario anual de cursos de capacitación y someterlo a consideración del Subsecretario de Desarrollo Turístico y Capacitación;
 
 XIX.- Coordinar el calendario de cursos de capacitación en conjunto con la Secretaría de Turismo de la Federación, a efecto de difundirlo entre los prestadores de servicios turísticos en el Estado;
 
-XX.- Diseñar estrategias para generar y propiciar la actualización de la cultura turística en el Estado;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2009)</small>
 
-XXI.- Propiciar la formalización de convenios de colaboración con Instituciones, dependencias, entidades y organizaciones, a fin de crear alianzas estratégicas para el correcto desarrollo de la cultura turística y profesionalismo en los servicios turísticos del Estado;
+XX.- Diseñar estrategias para fomentar y fortalecer la cultura turística en el Estado;
 
-XXII.- Organizar campañas para fomentar el cumplimiento de las Normas Oficiales Mexicanas en el sector turístico de la Entidad, y
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2009)</small>
+
+XXI.- Propiciar la formalización de convenios de colaboración con Instituciones, dependencias, entidades y organizaciones, a fin de crear alianzas estratégicas para el fortalecimiento de la cultura turística e incremento en la competitividad de los servicios turísticos del Estado;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2009)</small>
+
+XXII.- Difundir las Normas Oficiales Mexicanas en el sector turístico de la Entidad para fomentar su debido cumplimiento; y
 
 XXIII.- Realizar las funciones que las disposiciones legales le confieran a la Secretaria, que sean de naturaleza similar a las señaladas en las fracciones que anteceden y las que le encomiende el Secretario.
 
@@ -631,7 +643,9 @@ XII.- Dictaminar sobre las propuestas de imposición, reducción o cancelación 
 
 XIII.- Estudiar, proponer y substanciar la resolución que corresponda a los recursos administrativos, que interpongan los particulares contra actos de la Secretaría, en términos de lo dispuesto por los ordenamientos legales que resulten aplicables;
 
-XIV.- Previo acuerdo del Secretario, iniciar o continuar las acciones que correspondan a la Secretaría, desistirse, formular contestaciones, ofrecer o rendir pruebas, formular alegatos, promover incidentes, interponer recursos, así como realizar los demás actos procesales que correspondan a la Secretaría, y seguir los procedimientos hasta la ejecución de las resoluciones;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2009)</small>
+
+XIV.- Representar a la Secretaría en todas las controversias y trámites que sean de su competencia, así como en lo relativo a las relaciones laborales, asimismo, iniciar o continuar acciones ante los órganos formal o materialmente jurisdiccionales, desistirse, interponer recursos, promover incidentes, ofrecer o rendir pruebas, alegar y seguir los juicios y procedimientos hasta ejecutar las resoluciones y en general, ejercer las mismas atribuciones que un mandatario con todas las facultades generales y las particulares que requieran cláusulas especiales conforme a la ley, para el cumplimiento de los objetivos de la misma;
 
 XV.- Denunciar y presentar querellas ante el Ministerio Público, de los hechos ilícitos que así lo ameriten y que sean competencia de la Secretaría, o afecten al patrimonio de ésta;
 
@@ -731,9 +745,9 @@ La Unidad de Desarrollo Administrativo, Planeación e Informática, dependerá d
 
 I.- Promover el desarrollo administrativo e informático de la Secretaría y difundir la metodología adecuada para planear, programar e informar, supervisando su aplicación;
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2009)</small>
 
-II.- Representar a la dependencia ante las Secretarías de Finanzas y Administración y de Desarrollo, Evaluación y Control de la Administración Pública, coordinándose con las mismas para la planeación y ejecución integral de los programas de trabajo que se establezcan entre éstas;
+II.- Representar a la Dependencia ante las Secretarías de Finanzas y Administración y de Desarrollo, Evaluación y Control de la Administración Pública, y demás instancias que se requiera, coordinando acciones para la planeación y ejecución integral de los programas de trabajo que se establezcan entre éstas;
 
 III.- Apoyar las acciones de planeación de las demás unidades administrativas proponiendo, previa autorización del Secretario, la incorporación de los proyectos al Comité de Planeación para el Desarrollo del Estado de Puebla, para lo cual supervisará la elaboración de los programas operativos y de trabajo, así como la planeación interna, instrumentando los mecanismos de control que permitan determinar su integración, en congruencia con el presupuesto disponible y el Plan Estatal de Desarrollo;
 
@@ -751,33 +765,41 @@ IX.- Coordinarse con la Dirección Administrativa para realizar los diagnóstico
 
 X.- Previo acuerdo del Secretario, elaborar, directamente o a través de terceros, con el apoyo de la Dirección Administrativa y coordinadamente con las unidades administrativas, los manuales de organización, procedimientos y servicios al público de la Secretaría, de acuerdo a la normatividad establecida por la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, así como evaluar su aplicación de acuerdo a los resultados;
 
-XI.- Crear mecanismos, que faciliten el aprovechamiento de los sistemas computacionales, para que se conviertan en herramienta de apoyo en la operación de los procesos sustantivos y administrativos de la Secretaría;
+XI.- (DEROGADA, P.O. 24 DE ABRIL DE 2009)
 
 XII.- Diagnosticar y evaluar los flujos de información generados por los sistemas informáticos de las distintas unidades administrativas de la Secretaría para identificar los datos relevantes que deban ser integrados a estructuras informáticas, con el propósito de sustentar la gestión, modernización, simplificación de la administración y el apoyo a la planeación sectorial;
 
 XIII.- Normar y elaborar los formatos utilizados en la Secretaría, proponiendo métodos y procedimientos de trámite, control, resguardo y archivos más eficaces y adecuados;
 
-XIV.- Desarrollar programas para satisfacer las necesidades de las unidades administrativas de la Secretaría, apoyándolas en la operación de nuevos procedimientos computacionales para el análisis de la información;
+XIV.- (DEROGADA, P.O. 24 DE ABRIL DE 2009)
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2009)</small>
 
-XV.- Supervisar la instalación, mantenimiento y soporte técnico del equipo y programas de cómputo utilizados en los sistemas de la Secretaría, realizada directamente o a través de terceros, conforme a la normatividad que para el efecto establezca la Secretaría de Finanzas y Administración;
+XV.- Realizar la instalación y mantenimiento de cualquier tipo de software en la Secretaría; y en su caso, proporcionar soporte y mantenimiento a los equipos de Tecnología de la Información y Comunicación en el marco de las disposiciones que en la materia emita la Secretaría de Finanzas y Administración;
 
-XVI.- Vigilar que se cumplan con las medidas técnicas y de seguridad en las instalaciones, equipos y soporte de los sistemas informáticos de la Secretaría, conforme a los lineamientos establecidos;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2009)</small>
 
-XVII.- Coordinar con la dependencia competente el establecimiento, desarrollo y operación de una red de informática;
+XVI.- Coordinar el cumplimiento de los requerimientos técnicos y medidas de seguridad en las instalaciones donde se ubiquen equipos eléctricos y de Tecnología de la Información y Comunicación, conforme a los lineamientos establecidos;
 
-XVIII.- Proporcionar información sistematizada a las unidades administrativas de la Secretaría, así como a los organismos públicos y privados que la soliciten, previa autorización del Secretario;
+XVII.- (DEROGADA, P.O. 24 DE ABRIL DE 2009)
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2009)</small>
+
+XVIII.- Integrar información estadística de la actividad turística del Estado, con el fin de generar referencias que permitan orientar líneas de acción de la promoción turística de la Entidad;
 
 XIX.- Apoyar a las demás unidades administrativas para desarrollar, supervisar y mantener programas de orientación e información al público y en su caso, participar en las campañas de difusión de interés a la Secretaría;
 
 XX.- (DEROGADA, P.O. 4 DE AGOSTO DE 2004)
 
-XXI.- Normar, planear, diseñar, desarrollar y actualizar los sistemas informáticos y base de datos que requiera la Secretaría, incluyendo los recursos necesarios para tal fin, responsabilizándose de su correcto funcionamiento, así como de la capacitación de los usuarios que la utilicen;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2009)</small>
+
+XXI.- Planear y actualizar conjuntamente con la unidad administrativa correspondiente el uso de los sistemas informáticos necesarios para la Secretaría, así como coordinar el correcto funcionamiento de los mismos y en su caso, facilitar la capacitación de los usuarios que la utilicen;
 
 XXII.- Registrar y elaborar la información para fines estadísticos y de planeación que permitan determinar las condiciones de prestación de los servicios turísticos en la Entidad;
 
-XXIII.- Supervisar el funcionamiento del Sistema de Información Turística Estatal y coordinar su integración con los sistemas de los demás Estados;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2009)</small>
+
+XXIII.- Coordinar la operación del Sistema de Información Turística Estatal y alinearlo a los esquemas operativos similares formulados por la Secretaría de Turismo Federal;
 
 XXIV.- Supervisar el uso y aplicación de los servicios de Internet a fin de lograr el mejor aprovechamiento del mismo; y
 
@@ -842,3 +864,9 @@ Cuando las funciones de alguna unidad administrativa establecida con anteriorida
 ###### ARTÍCULO CUARTO.
 
 En tanto se expidan los manuales que este Reglamento menciona, el Titular de la Secretaría, solucionará las cuestiones que conforme a dichos manuales se deban regular.
+
+P.O. 24 DE ABRIL DE 2009.
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor a partir del día siguiente de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
