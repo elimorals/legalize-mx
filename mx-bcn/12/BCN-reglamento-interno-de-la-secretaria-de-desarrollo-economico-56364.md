@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-desarrollo-economico-563
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-20"
-last_updated: "2008-01-18"
+last_updated: "2009-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56364&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARIA DE DESARROLLO ECONOMICO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 20 de julio de 2007.
 
@@ -67,19 +67,25 @@ c. Departamento de Gestión Empresarial y Comercio Exterior.
 
 d. Departamento de Proyectos
 
-II. Subsecretaría de Promoción Económica.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2009)</small>
 
-A. Dirección de Promoción de Inversión.
+II. Subsecretaría de Promoción Económica Mexicali
 
-III. Dirección Administrativa.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2008)</small>
+III. Subsecretaría de Promoción Económica Zona Costa
 
-IV. Subsecretaría para atención a las Micros, Pequeñas y Medianas Empresas.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2009)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADA], P.O. 18 DE ENERO DE 2008)</small>
+IV. Subsecretaría para la Atención a las Micro, Pequeñas y Medianas Empresas.
 
-V. Delegación Ensenada y Delegación Tijuana.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2009)</small>
+
+V. Dirección Administrativa.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ABRIL DE 2009)</small>
+
+VI. Delegación Ensenada y Delegación Tijuana.
 
 ###### ARTICULO 4.
 
@@ -333,9 +339,11 @@ III. Coordinar la logística de los eventos relacionados con los programas de im
 
 IV. Los demás proyectos que se deriven de los programas de la Dirección.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 21.
 
-Corresponden a la Subsecretaría de Promoción Económica, las siguientes atribuciones:
+Corresponde a la Subsecretaría de Promoción Económica Mexicali y a la Subsecretaría de Promoción Económica Zona Costa, las siguientes atribuciones:
 
 I. Diseñar estrategias en conjunto con los organismos de promoción de los municipios del Estado, de acuerdo a las vocaciones del Estado, para la participación en las negociaciones comerciales, misiones empresariales y promocionales que el Estado lleve a cabo a nivel nacional y en el extranjero;
 
@@ -353,27 +361,55 @@ VII. Promover las exportaciones de los productos que se elaboran en Baja Califor
 
 VIII. Promover programas ante instituciones especializadas referentes a la capacitación y desarrollo empresarial para la promoción de la oferta exportable que impulse y mejore la productividad de las empresas;
 
-IX, Las demás que le señalen las leyes, reglamentos y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2009)</small>
+
+IX. Diseñar e instrumentar acciones para retener las inversiones y los empleos existentes en el Estado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ABRIL DE 2009)</small>
+
+X. Promover permanentemente al Estado en el ámbito internacional, mediante la representación de la Secretaría, en aquellos países con mayor potencial para consolidar inversiones en Baja California;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ABRIL DE 2009)</small>
+
+XI. Diseñar, proponer y operar programas para promover el establecimiento de empresas en el Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ABRIL DE 2009)</small>
+
+XII. Organizar, coordinar y participar en congresos, seminarios, exposiciones y misiones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ABRIL DE 2009)</small>
+
+XIII. Atender y orientar a los inversionistas que acudan a presentar proyectos de inversión a la Secretaría;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ABRIL DE 2009)</small>
+
+XIV. Promover los insumos en los diversos sectores productivos de la entidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ABRIL DE 2009)</small>
+
+XV. Promover las oportunidades de inversión en la infraestructura pública y privada;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ABRIL DE 2009)</small>
+
+XVI. Diseñar y coordinar acciones para posicionar a Baja California en el extranjero, en materia económica;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ABRIL DE 2009)</small>
+
+XVII. Las demás que le señalen las leyes, reglamentos y normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 22.
 
-Para cumplir con las atribuciones conferidas, la Subsecretaría de Promoción contará con el apoyo de la Dirección de Promoción de Inversión.
+La Subsecretaría de Promoción Económica Mexicali y la subsecretaría de Promoción Económica Zona Costa, contarán con los recursos humanos y materiales autorizados en el presupuesto de egresos correspondiente, para el cumplimiento de sus atribuciones.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 23.
 
-Corresponde a la Dirección de Promoción de Inversión, las siguientes atribuciones:
+La Subsecretaría de Promoción Económica Mexicali, ejercerá sus atribuciones dentro del ámbito territorial del Municipio de Mexicali.
 
-I. Diseñar, proponer y operar programas para promover el establecimiento de empresas en el estado;
-
-II. Organizar y participar en congresos, seminarios, exposiciones y misiones de carácter industrial;
-
-III. Atender y orientar a los inversionistas que acudan a presentar proyectos de inversión a la Secretaría;
-
-IV. Promover los insumos en la industria maquiladora;
-
-V. Promover la inversión privada en la infraestructura en Baja California;
-
-VI. Las demás que le señalen las leyes, reglamentos y otras disposiciones aplicables.
+La Subsecretaría de Promoción Económica Zona Costa, ejercerá sus atribuciones dentro del ámbito territorial de los municipios de Tecate, Tijuana, Playas de Rosarito y Ensenada.
 
 ###### ARTICULO 24.
 
@@ -490,3 +526,9 @@ SERGIO FRANCISCO TAGLIAPIETRA NASSRI
 P.O. 18 DE ENERO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE ABRIL DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se dejan sin efectos las disposiciones normativas expedidas por el titular del Poder Ejecutivo del Estado, que se opongan a lo dispuesto en el presente Decreto.
