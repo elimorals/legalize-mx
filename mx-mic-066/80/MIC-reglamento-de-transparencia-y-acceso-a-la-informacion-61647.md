@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-transparencia-y-acceso-a-la-informacion-61647"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-18"
-last_updated: "2008-06-18"
+last_updated: "2009-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MIC"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DE PATZCUARO, MICHOACAN -ANTES REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL H. AYUNTAMIENTO DE PATZCUARO, MICHOACAN-
 
-REGLAMENTO DE ACCESO A LA INFORMACION PUBLlCA DEL H. AYUNTAMIENTO DE PATZCUARO, MICHOACAN
+REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLlCA DE PATZCUARO, MICHOACAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 2009.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Michoacán, el miércoles 18 de junio de 2008.
 
@@ -95,7 +95,9 @@ ING. GERARDO TALAVERA GODÍNEZ
 
 (Firmado)
 
-REGLAMENTO DE ACCESO A LA INFORMACIÓN PÚBLlCA DEL H. AYUNTAMIENTO DE PATZCUARO, MICHOACÁN
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE ABRIL DE 2009)</small>
+
+REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLlCA DE PÁTZCUARO, MICHOACÁN
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -103,13 +105,17 @@ REGLAMENTO DE ACCESO A LA INFORMACIÓN PÚBLlCA DEL H. AYUNTAMIENTO DE PATZCUARO
 
 El presente Reglamento es de orden público e interés social y tiene por objeto establecer el órgano y unidades administrativas, criterios y procedimientos institucionales para proporcionar a las personas el Acceso a la Información Pública en el H. Ayuntamiento de Pátzcuaro, Michoacán.
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2009)</small>
+
 ###### Artículo 2°.
 
-En la aplicación de la Ley de Acceso a la Información Pública del Estado de Michoacán de Ocampo y el presente Reglamento, deben privilegiarse los principios de legalidad y publicidad de la información.
+En la aplicación de la Ley de Transparencia y Acceso a la Información Pública del Estado de Michoacán de Ocampo y el presente Reglamento, deben privilegiarse los principios de legalidad y publicidad de la información.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ABRIL DE 2009)</small>
 
 ###### Artículo 3°.
 
-Para los efectos del presente Reglamento, además de las definiciones contenidas en la Ley de Acceso a la Información Pública del Estado de Michoacán de Ocampo, se entenderá por:
+Para los efectos del presente Reglamento, además de las definiciones contenidas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Michoacán de Ocampo, se entenderá por:
 
 I. Clasificación: El acto por el cual se determina que la información que posee el H. Ayuntamiento y los organismos desconcentrados es reservada o confidencial;
 
@@ -129,7 +135,9 @@ VIII. Responsables de la atención a solicitudes de acceso a la información: Aq
 
 IX. Reglamento: El Reglamento de Acceso a la Información Pública del H. Ayuntamiento de Pátzcuaro; y,
 
-X. Ley: La Ley de Acceso a la Información Pública del Estado de Michoacán de Ocampo.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2009)</small>
+
+X. Ley: La Ley de Transparencia y Acceso a la Información Pública del Estado de Michoacán de Ocampo.
 
 ###### Artículo 4°.
 
@@ -229,9 +237,11 @@ IV. Las demás que le confiera este Reglamento y/o el H. Ayuntamiento de Pátzcu
 
 ### CAPÍTULO V. DEL FUNCIONAMIENTO DE LA SINDICATURA DEL H. AYUNTAMIENTO, COMO ÁREA RESPONSABLE DE ATENDER SOLICITUDES DE INFORMACIÓN PÚBLICA
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2009)</small>
+
 ###### Artículo 20.
 
-La Sindicatura del H. Ayuntamiento proporcionará la información en el estado en que se encuentre, en los términos de la Ley de Acceso a la Información Pública vigente en la Entidad, conforme a las formalidades previstas para tal efecto y con estricto apego a las garantías constitucionales y legales en la materia. La Sindicatura del H. Ayuntamiento no tiene la obligación de crear o producir información que no sea de su competencia, o proporcionarla en forma distinta a como existe.
+La Sindicatura del H. Ayuntamiento proporcionará la información en el estado en que se encuentre, en los términos de la Ley de Transparencia y Acceso a la Información Pública vigente en la Entidad, conforme a las formalidades previstas para tal efecto y con estricto apego a las garantías constitucionales y legales en la materia. La Sindicatura del H. Ayuntamiento no tiene la obligación de crear o producir información que no sea de su competencia, o proporcionarla en forma distinta a como existe.
 
 ###### Artículo 21.
 
@@ -281,9 +291,11 @@ La notificación por estrados procede cuando los interesados omitan señalar dom
 
 Los interesados afectados por los actos y resoluciones que se deriven por la aplicación del presente Reglamento que negaren o limitaren el acceso a la información, podrán interponer el recurso de inconformidad ante el Presidente Municipal, quien estará obligado a dar una resolución administrativa en un plazo máximo de diez días hábiles a partir de la fecha en que se registró la promoción de inconformidad.
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2009)</small>
+
 ###### Artículo 28.
 
-El recurso de inconformidad se substanciará conforme a las disposiciones de la Ley de Acceso a la Información Pública del Estado de Michoacán de Ocampo.
+El recurso de inconformidad se substanciará conforme a las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Estado de Michoacán de Ocampo.
 
 ### CAPÍTULO VIII. CLASIFICACIÓN DE LA INFORMACIÓN
 
@@ -397,9 +409,11 @@ Las personas pueden solicitar en cualquier momento les sea proporcionada su info
 
 ### CAPÍTULO IX. DEL PROCEDIMIENTO PARA EL EJERCICIO DEL DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2009)</small>
+
 ###### Artículo 45.
 
-Las solicitudes de Acceso a la Información Pública y de protección de datos personales deberán presentarse ante el Síndico Municipal, encargado de la (sic) aplicar la Ley de Acceso a la Información Pública.
+Las solicitudes de Acceso a la Información Pública y de protección de datos personales deberán presentarse ante el Síndico Municipal, encargado de la (sic) aplicar la Ley de Transparencia y Acceso a la Información Pública.
 
 ###### Artículo 46.
 
@@ -524,3 +538,9 @@ ING. GERARDO TALAVERA GODÍNEZ
 SECRETARIO DEL H. AYUNTAMIENTO
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE ABRIL DE 2009.
+
+LAS REFORMAS CON ANTELACION CITADAS CO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACAN.
