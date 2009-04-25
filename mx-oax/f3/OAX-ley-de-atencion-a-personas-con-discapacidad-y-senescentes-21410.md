@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-atencion-a-personas-con-discapacidad-y-senescentes-21410
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-15"
-last_updated: "2005-03-22"
+last_updated: "2009-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21410&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY DE PROTECCION A DISCAPACITADOS Y SENESCENTES PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE ATENCION A PERSONAS CON DISCAPACIDAD DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 25 DE ABRIL DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 15 de julio de 1995.
 
@@ -816,3 +818,13 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 22 DE MARZO DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE ABRIL DE 2009.
+
+PRIMERO.- Esta ley entrará en vigor a los treinta días siguientes a su publicación en el Periódico Oficial del Estado de Oaxaca.
+
+SEGUNDO.- Se deroga la Ley de Atención a Personas con Discapacidad y Senescentes para el Estado de Oaxaca, publicada en el Periódico Oficial, Órgano del Gobierno Constitucional del Estado Libre y Soberano de Oaxaca, el sábado 15 de julio de 1995.
+
+TERCERO.- El Consejo Estatal de las Personas con Discapacidad, se constituirá a más lardar a los treinta días de la entrada en vigor de la presente Ley.
+
+CUARTO.- El Consejo Estatal de las Personas con Discapacidad dispondrá de treinta días, contados a partir de su constitución para emitir su (sic) interior.
