@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-obras-publicas-y-servicios-relacionados-con-las-31555"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-31"
-last_updated: "2003-05-31"
+last_updated: "2009-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS, PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ABRIL DE 2009.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 31 de mayo de 2003.
 
@@ -73,7 +73,9 @@ IV. Dependencias: las del Poder Ejecutivo y los ayuntamientos, que de conformida
 
 V. Sector: el agrupamiento de entidades del Ejecutivo Estatal, coordinado por la dependencia que en cada caso designe el titular del mismo;
 
-VI. Contaduría: la Contaduría Mayor de Hacienda del Congreso del Estado;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2009)</small>
+
+VI. Auditoría: la Auditoría Superior del Estado de San Luis Potosí;
 
 VII. Comité: órgano colegiado consultivo de la obra pública y servicios relacionados con la misma, que en los ámbitos Estatal y municipal se constituya conforme a las disposiciones de esta Ley;
 
@@ -81,7 +83,9 @@ VIII. Organos de Control: tratándose de:
 
 a) El Ejecutivo del Estado: la Contraloría General del Estado.
 
-b) El Poder Legislativo: la Contaduría Mayor de Hacienda.
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2009)</small>
+
+b) El Poder Legislativo: la Auditoría Superior del Estado.
 
 c) El Poder Judicial: la Contraloría del Poder Judicial.
 
@@ -241,9 +245,11 @@ Los ayuntamientos y entidades que sean apoyadas presupuestalmente o que reciban 
 
 Las dependencias coordinadoras de sector, y en su caso, las entidades que no se encuentren agrupadas en sector alguno, enviarán a la Secretaría los programas y presupuestos mencionados, en la fecha que ésta determine para su examen, aprobación e inclusión en el proyecto de presupuesto de egresos correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 20.
 
-Las instituciones que pretendan realizar obra pública y servicios relacionados con la misma, pondrán a disposición de los interesados sus programas anuales de obra pública, a más tardar el 31 de marzo de cada año, a través de la Cámara y en los medios de publicación oficial que cada institución ofrezca a través de la red de información mundial conocida como internet.
+Las instituciones que pretendan realizar obra pública y servicios relacionados con la misma, pondrán a disposición de los interesados, sus programas anuales de obra pública, a más tardar el 31 de marzo de cada año, a través de los medios de publicación oficial que cada institución ofrezca, así como, por medio de la red de información mundial conocida como internet.
 
 El documento que contenga los programas será de carácter informativo, no implicará compromiso alguno de contratación y podrá ser adicionado, modificado, suspendido o cancelado sin responsabilidad alguna para la institución de que se trate.
 
@@ -279,7 +285,9 @@ I. Por licitación pública;
 
 II. Por invitación restringida a cuando menos tres contratistas, y
 
-III. Por adjudicación directa.
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2009)</small>
+
+III. Por adjudicación directa, previa cotización que se haga con al menos tres proveedores diferentes.
 
 Las instituciones tomando en cuenta la opinión del órgano de control, determinarán de acuerdo con lo dispuesto en el artículo 26 de esta Ley, el carácter estatal, nacional o internacional de los procedimientos de contratación, y los criterios para determinar el contenido nacional de los trabajos a contratar, en razón de las reservas, medida de transición u otros supuestos establecidos en los tratados.
 
@@ -287,7 +295,9 @@ Las instituciones tomando en cuenta la opinión del órgano de control, determin
 
 Las instituciones podrán convocar, adjudicar o llevar a cabo obra pública, solamente cuando cuenten con recursos disponibles dentro de su presupuesto aprobado en la partida correspondiente, además de cubrir los requisitos a que se refiere el artículo 26 de esta Ley.
 
-Se requerirá contar previamente con los estudios y proyectos, las normas y especificaciones de construcción, el programa de ejecución y, en su caso, el programa de suministro.
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2009)</small>
+
+Se requerirá contar previamente con los estudios y proyectos, anteproyectos, planos, memorias de cálculo, números generadores, tarjetas de precios unitarios, catálogo de conceptos, las normas y especificaciones de construcción, el programa de ejecución y, en su caso, el programa de suministro.
 
 ###### ARTICULO 25.
 
@@ -343,7 +353,9 @@ c) Declaración escrita y bajo protesta de decir verdad, de no encontrarse en lo
 
 d) La experiencia o capacidad técnica que se requiera para participar en la licitación, de acuerdo con las características de la obra y especificaciones de los servicios relacionados con la misma.
 
-e) Para el caso de que se trate de una licitación pública estatal, la cédula actualizada del Registro Estatal Unico de Contratistas. Será responsabilidad de los interesados recabar oportunamente su cédula de registro de contratistas en la Contraloría General del Estado, como requisito para participar en las convocatorias estatales, para cuyo efecto la mencionada dependencia llevará el Registro Estatal de Constructores.
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2009)</small>
+
+e) Para el caso de que se trate de una licitación pública estatal, la cédula actualizada del Registro Estatal Único de Contratistas. Será responsabilidad de los interesados, recabar oportunamente su cédula de registro de contratistas en la Auditoría Superior del Estado, como requisito para participar en las convocatorias estatales; para cuyo efecto la precitada institución llevará el Registro Estatal de Contratistas.
 
 La fecha a que se refiere esta fracción no podrá ser inferior a diez días hábiles contados a partir de la publicación de la convocatoria;
 
@@ -373,7 +385,9 @@ c) Fecha, hora y lugar de la junta de aclaraciones a las bases de licitación, s
 
 d) Fecha, hora y lugar para las presentaciones y apertura de proposiciones.
 
-e) Garantías.
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2009)</small>
+
+e) Garantías, que por ningún motivo podrán ser con cheque cruzado.
 
 f) Comunicación de fallo y firma del contrato.
 
@@ -451,7 +465,9 @@ h) Relación de contratos de obra que tenga celebrados con la administración p�
 
 II. La propuesta económica contendrá:
 
-a) Carta compromiso de la propuesta.
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2009)</small>
+
+a) Carta compromiso de la propuesta, acompañada con cheque de caja o certificado, para garantizar la seriedad o sostenimiento de su proposición.
 
 b) Catálogo de conceptos, unidades de medición, cantidades de trabajo, precios unitarios e importes parciales, y el total de la proposición.
 
@@ -473,9 +489,11 @@ La totalidad de la documentación de la propuesta técnica y económica, deberá
 
 El acto de presentación y apertura será presidido por el servidor público que designe la convocante, quien será la única autoridad facultada para aceptar o desechar cualquier proposición de las que se hubieren presentado en los términos de la presente Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 32.
 
-Quienes celebren los contratos a que se refiere esta Ley deberán garantizar:
+Quienes celebren los contratos a que se refiere esta Ley, deberán garantizar sin utilizar cheque cruzado:
 
 I. Los anticipos que en su caso reciban. Esta garantía deberá constituirse por el monto total del anticipo;
 
@@ -743,7 +761,9 @@ Las estimaciones por trabajos ejecutados previsto por los artículos 53 y 54 de 
 
 La contratista y la residencia de supervisión de obra tendrán hasta cinco días naturales para realizar la conciliación de los trabajos estimados. Las diferencias técnicas o numéricas que no puedan ser autorizadas dentro de dicho plazo, se resolverán e incorporarán en la siguiente estimación.
 
-Los contratistas deberán cubrir del importe de las estimaciones que se generen, el punto cinco por ciento sobre derechos de inspección y vigilancia; y el punto dos por ciento para la capacitación de los trabajadores de la industria de la construcción.
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2009)</small>
+
+Los contratistas deberán cubrir del importe de las estimaciones que se generen, el punto cinco por ciento, sobre derechos de inspección y vigilancia.
 
 ###### ARTICULO 53.
 
@@ -875,31 +895,75 @@ Para garantizar durante un plazo de doce meses el cumplimiento de las obligacion
 
 El contratista será el único responsable de la ejecución de los trabajos, y deberá sujetarse a todos los reglamentos y ordenamientos de las autoridades competentes en materia de construcción, seguridad y uso de la vía pública, así como a las disposiciones establecidas al efecto por la institución contratante. Las responsabilidades, así como los daños y perjuicios que resultaran por su inobservancia, serán a cargo del contratista.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 63.
 
-Cumplidos los requisitos establecidos en el artículo 24 de esta Ley, las instituciones podrán realizar obra pública por administración directa, siempre que posean la capacidad técnica y los elementos necesarios para tal efecto, consistentes en maquinaria, equipo de construcción y personal técnico capacitado que se requiera para el desarrollo de los trabajos respectivos, y deberán según el caso:
+Cumplidos los requisitos establecidos en el artículo 24 de esta Ley, las dependencias, entidades, municipios, o las instituciones, podrán realizar obra pública por administración directa, mismas que deberán estar comprendidas en el programa de inversión autorizado y aprobado por la obra pública en el presupuesto correspondiente, siempre que posean la capacidad técnica y los elementos necesarios para tal efecto, consistentes en maquinaria, equipo de construcción, y personal técnico capacitado que se requiera para el desarrollo adecuado, oportuno y menos gravoso de los trabajos respectivos y, deberán, según el caso:
 
-I. Utilizar la mano de obra local complementaria, lo que invariablemente deberá llevarse a cabo por obra determinada;
+I. Utilizar mano de obra local complementaria, lo que invariablemente deberá llevarse a cabo por obra determinada;
 
-II. Alquilar el equipo y maquinaria de construcción complementaria, y
+II. Alquilar equipo y maquinaria de construcción complementaria, y
 
-III. Utilizar los servicios de fletes y acarreos complementarios.
+III. Utilizar servicios de fletes y acarreos complementarios.
 
-En la ejecución de obra por administración directa, bajo ninguna circunstancia podrán participar terceros como contratistas, sean cuales fueren las condiciones particulares, naturaleza jurídica o modalidades que éstos adopten.
+En la ejecución de obra por administración directa, bajo ninguna circunstancia podrán participar terceros como contratistas, sea cuales fueren las condiciones particulares, naturaleza jurídica o modalidades que éstos adopten.
 
-Cuando se requieran equipos, instrumentos, elementos prefabricados terminados, materiales u otros bienes que deban ser instalados, montados, colocados o aplicados, su adquisición se regirá por las disposiciones correspondientes a tal materia.
+Cuando se requieran equipos, instrumentos, elementos prefabricados terminados, materiales u otros bienes que deban ser instalados, montados, colocados o aplicados, su adquisición se regirá por las disposiciones correspondientes a la ley en la materia.
 
-Los órganos internos de control de las instituciones, previamente a la ejecución de las obras por administración directa, verificarán que se cuente con los programas de ejecución, de utilización de recursos humanos, y de maquinaria y equipo de construcción.
+Los órganos internos de control de las dependencias, entidades, municipios o instituciones, previamente a la ejecución de las obras por administración directa, verificarán y deberán emitir acuerdo en el cual se haga constar que se cuente con los programas de ejecución, de utilización de recursos humanos, y de maquinaria y equipo de construcción.
 
-Previamente a la ejecución de la obra, el titular de la institución de que se trate emitirá el acuerdo respectivo, del cual formarán parte: la descripción pormenorizada de la obra que se deba ejecutar, los proyectos, planos, especificaciones, programas de ejecución y suministros, y el presupuesto correspondiente.
+Previo a la ejecución de la obra el titular de la institución de que se trate emitirá el acuerdo respectivo, del cual formarán parte: la descripción pormenorizada de la obra que se deba ejecutar, los proyectos, planos, especificaciones, programas de ejecución y suministros, así como el presupuesto correspondiente.
 
-Al término de la ejecución de las obras por administración se deberá dejar constancia detallada de los trabajos, así como los planos y especificaciones del proyecto realmente ejecutado, para efectos del cumplimiento del último párrafo del artículo 18 de esta Ley.
+IV. Los programas de ejecución, de utilización de recursos humanos, y de utilización de maquinaria y equipo de construcción de cada una de las obras que se realicen por administración directa, así como los dictámenes de laboratorio, deberán elaborarse conforme a lo siguiente:
 
-En la ejecución de obras por administración directa, las dependencias podrán ejercer hasta un veinte por cierto de su presupuesto anual autorizado para obra pública, además serán aplicables las disposiciones de esta Ley.
+a) El programa de ejecución se desglosará en etapas, conceptos y actividades, señalando fechas de iniciación y terminación de cada una de ellas; las cantidades de obra que se ejecutarán mensualmente, así como sus importes correspondientes, y el importe total de la producción mensual;
+
+b) El programa de utilización de recursos humanos deberá consignar la especialidad, categoría, número requerido y percepciones totales por día, semana o mes. El programa incluirá al personal técnico, administrativo y obrero, encargado directamente de la ejecución de los trabajos, y
+
+c) El programa de utilización de la maquinaria y equipo de construcción deberá consignar las características del equipo, capacidad, número de unidades y total de horas efectivas de utilización, calendarizadas por semana o mes. La residencia de supervisión será responsable directamente de la ejecución, supervisión, vigilancia, control y revisión de los trabajos.
+
+Al término de la ejecución de las obras por administración, se deberá dejar constancia detallada de los trabajos; así como los planos y especificaciones del proyecto realmente ejecutado, para efectos del cumplimiento del último párrafo del artículo 18 de esta Ley.
+
+En la ejecución de obras por administración directa, las dependencias podrán ejercer hasta un veinte por ciento de su presupuesto anual autorizado para obra pública; además, serán aplicables las disposiciones de esta Ley.
+
+V. El presupuesto de cada una de las obras que se realicen por administración directa, será el que resulte de aplicar a las cantidades de trabajo del catálogo de conceptos, los costos unitarios analizados y calculados con base en las especificaciones de ejecución, las normas de calidad de los materiales y los procedimientos de construcción previstos; este procedimiento se integrará además con los siguientes importes:
+
+a) De los equipos, mecanismos y accesorios de instalación permanente, los cuales incluirán los fletes, maniobras, almacenaje y todos aquellos cargos que se requerirán para transportarlos al sitio de los trabajos;
+
+b) De las instalaciones de construcción necesarias para la ejecución de los trabajos y, en su caso, de su desmantelamiento; así como los fletes y acarreos de la maquinaria y equipo de construcción, y los seguros correspondientes;
+
+c) De las construcciones, las pruebas de laboratorio e instalaciones provisionales, y del mobiliario y equipo necesarios para éstas;
+
+d) De los sueldos, salarios, viáticos o cualquier otra remuneración que reciba el personal técnico, administrativo y de servicios, encargados directamente en la ejecución de trabajos, de conformidad con el programa de utilización de recursos humanos, y
+
+e) De los equipos de transporte, con sus respectivos cargos por combustibles y lubricantes, y de los materiales de consumo en oficinas, calendarizados por mes.
+
+En el presupuesto a que se refiere el párrafo anterior, no podrán incluirse cargos adicionales por imprevistos, erogaciones adicionales o índole similar.
+
+Se entenderá por costo unitario por elemento, el correspondiente a la suma de cargos por concepto de materiales, mano de obra, y utilización de maquinaria y equipo de construcción.
+
+En la ejecución de obras por administración directa, serán aplicables en lo conducente, las disposiciones de esta Ley. No se considerará obra por administración directa, cuando dentro de un contrato de obra pública estén incluidos, o se incluyan como parte del propio objeto de la obra, algunos trabajos que por así requerirse, la dependencia o entidad ordene efectuar al contratista, cuya medición se realice por horas o jornales, cuando se trate de maquinaria, equipo o personal.
+
+Los órganos de control interno de las dependencias y entidades, verificarán que se dé estricto cumplimiento a la realización de las acciones señaladas para las obras por administración directa.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 64.
 
-Las instituciones que realicen obra pública por administración directa o mediante contrato, y los contratistas con quienes aquéllas contraten, observarán las disposiciones que en materia de construcción rijan en el ámbito estatal, municipal y federal.
+Las instituciones que realicen obra pública por administración directa, o mediante contrato, y los contratistas con quienes aquéllas contraten, observarán las disposiciones que en materia de construcción rijan en los ámbitos estatal, municipal y federal.
+
+Únicamente se podrán realizar este tipo de obras en los siguientes supuestos:
+
+I. Cuando se trate de obras públicas derivadas de un programa específico para beneficio de la comunidad, en los cuales los beneficiarios del lugar donde se ubique el sitio de los trabajos, sean partícipes en forma directa; para tales efectos, la dependencia, entidad o ayuntamiento, deberá formalizar un comité de obra en el cual se especificará la forma de participación de los beneficiarios;
+
+II. Cuando se trate de obra de mantenimiento y no sea posible conocer el catálogo de conceptos, y
+
+III. Ante la negativa de todos los contratistas inscritos en el padrón, a participar en cualquiera de las modalidades a que se hace referencia en esta Ley.
+
+En la obra por administración directa se origina la explosión de precios, ya que se requiere de un sin número de materiales e insumos para su ejecución; debido a esto, se tendrá que ajustar a las formalidades de la Ley de Adquisiciones del Estado.
+
+El incumplimiento a lo previsto en esta Ley, será motivo de responsabilidad en los términos de ley correspondientes.
 
 ## TITULO CUARTO. DE LA INFORMACION, VERIFICACION Y CONTROL
 
@@ -1088,3 +1152,11 @@ El Secretario General de Gobierno
 LIC. MARCO ANTONIO ARANDA MARTINEZ
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE ABRIL DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones y ordenamientos legales que se opongan al presente Decreto.
