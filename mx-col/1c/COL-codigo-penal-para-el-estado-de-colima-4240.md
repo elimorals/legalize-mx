@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2008-08-31"
+last_updated: "2009-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO PENAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ABRIL DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -2009,6 +2009,12 @@ III.- Al que exhume un cadáver sin observar los requisitos legales o con violac
 
 IV.- Al que sustraiga o esparza las cenizas de un cadáver o restos humanos ilegalmente.
 
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2009)</small>
+
+###### ARTICULO 162 Bis.
+
+Al que retarde, retenga, o niegue la entrega de un cadáver, sin autorización de autoridad, en perjuicio de los familiares consanguíneos, civiles, afines e inclusive cualquiera que haya vivido en concubinato con el difunto, se le impondrá prisión de seis meses a dos años y multa hasta por 150 unidades.
+
 ### CAPITULO IV.
 
 INCESTO.
@@ -3506,3 +3512,7 @@ P.O. 5 DE JULIO DE 2008.
 P.O. 31 DE AGOSTO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado Colima".
+
+P.O. 25 DE ABRIL DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor a (sic) día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
