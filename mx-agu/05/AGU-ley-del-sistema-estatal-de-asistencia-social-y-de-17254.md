@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-asistencia-social-y-de-17254"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-10"
-last_updated: "2000-04-10"
+last_updated: "2009-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACION FAMILIAR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 2009.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de abril de 2000.
 
@@ -53,9 +53,11 @@ El Gobierno del Estado en forma prioritaria proporcionará servicios de asistenc
 
 Para los efectos de lo mencionado en el párrafo anterior, el Gobierno del Estado procurará proporcionar a los beneficiarios de esta Ley los servicios básicos en materia de asistencia social de acuerdo a los recursos disponibles, para lo cual deberá observar la normatividad técnica que emita la Secretaría de Salud y por el Instituto de Salud del Estado de Aguascalientes, en el ámbito de sus respectivas competencias.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 3o.
 
-Para los efectos de esta Ley se entiende por asistencia social, al conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como a la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física o mental, tendiente a lograr su incorporación a una vida plena y productiva en sociedad.
+Para los efectos de esta Ley se entiende por asistencia social, al conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo, un desarrollo integral, así como a la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física, mental o por su condición migratoria tendiente a lograr su incorporación a una vida plena y productiva en sociedad, en cualquier lugar donde se encuentren.
 
 ###### ARTICULO 4o.
 
@@ -87,11 +89,27 @@ XII.- Víctimas de violencia intrafamiliar e institucional;
 
 XIII.- Familiares que dependen económicamente de quienes se encuentren detenidos por causas penales y que queden en estado de abandono;
 
-XIV.- Habitantes del medio rural o urbano marginados, que carezcan de lo indispensable para su subsistencia; y
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2009)</small>
 
-XV.- Personas afectadas por desastre o siniestro.
+XIV.- Habitantes del medio rural o urbano marginados, que carezcan de lo indispensable para su subsistencia;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2009)</small>
+
+XV.- Personas afectadas por desastre o siniestro;
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2009)</small>
+
+XVI.- Las madres o padres solteros, que tengan conferida la custodia, que sean jefes de familia, que carezcan de empleo, ingresos fijos o bienes suficientes para garantizar su supervivencia, y que sus hijos sean menores de 12 años; y
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2009)</small>
+
+XVII.- El cónyuge o los familiares en primer grado que dependan económicamente del migrante y que se encuentran en estado de abandono y extrema pobreza.
 
 Por violencia intrafamiliar se entiende todo acto u omisión que realiza un miembro de la familia en contra de otro integrante de la misma, independientemente del lugar donde se produzca, que atenta contra su dignidad, libertad, igualdad o integridad física, psicológica o sexual o que contra su patrimonio con independencia del resultado, siempre y cuando entre quien genere y quien reciba la violencia exista o haya existido una relación de parentesco, matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho. Por violencia institucional se entiende la que es ejercida en las instituciones de asistencia pública o privada, asociaciones civiles o cualquier otra organización, por un miembro de ésta en contra de otro integrante de la misma o de quien recibe un servicio.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2009)</small>
+
+En el caso de la Fracción XVI del presente Artículo, los servicios de asistencia social serán proporcionados siempre y cuando se cumplan con las condiciones señaladas, y sin que su otorgamiento pueda exceder de un año, contado a partir de la recepción de la primera asistencia.
 
 ###### ARTICULO 5o.
 
@@ -173,7 +191,9 @@ VI.- La realización de investigaciones sobre las causas y efectos de los proble
 
 VII.- El apoyo a la educación y capacitación para el trabajo de personas con carencias socio-económicas;
 
-VIII.- La prestación de servicios funerarios;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2009)</small>
+
+VIII.- La prestación de servicios funerarios, repatriación de cadáveres y traslado de enfermos aguascalentenses que se encuentren en el extranjero, cuyas condiciones económicas y de salud impidan su retorno al Estado de Aguascalientes;
 
 IX.- La prevención de discapacidades y su rehabilitación en centros especializados;
 
@@ -753,7 +773,7 @@ Corresponde al Organismo la defensa de los bienes destinados a la beneficencia, 
 
 ###### ARTICULO 64.
 
-Las instituciones de beneficencia privada son creadas por particulares, su finalidad se considera de utilidad pública, no lucrativa y el Estado las reconoce como auxiliares de la asistencia social con capacidad para poseer un patrimonio propio, destinado a la realización de sus objetivos. Se entenderán por acciones no lucrativas y de utilidad pública, los actos ejecutados por las instituciones de beneficencia con fondos particulares, sin objeto de especulación y con un fin humanitario.
+Las instituciones de beneficencia privada son creadas por particulares, su finalidad se considera de utilidad publica, no lucrativa y el Estado las reconoce como auxiliares de la asistencia social con capacidad para poseer un patrimonio propio, destinado a la realización de sus objetivos. Se entenderán por acciones no lucrativas y de utilidad pública, los actos ejecutados por las instituciones de beneficencia con fondos particulares, sin objeto de especulación y con un fin humanitario.
 
 Las instituciones de beneficencia privada pueden ser Fundaciones o Asociaciones.
 
@@ -1408,3 +1428,11 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+P.O. 27 DE ABRIL DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
