@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-transporte-41344"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-13"
-last_updated: "2004-10-13"
+last_updated: "2009-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE TRANSPORTE
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE TRANSPORTE
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE TRANSPORTE DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE TRANSPORTE, PUBLICADO EN LA G.G. DE 27 DE ABRIL DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 13 de octubre de 2004.
 
@@ -937,3 +939,19 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 27 DE ABRIL DE 2009.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interior de la Secretaría de Transporte, publicado en el Periódico Oficial "Gaceta del Gobierno" el 13 de octubre de 2004.
+
+CUARTO.- Se abroga el Acuerdo del Secretario de Transporte por el que se delega a los servidores públicos que en el mismo se precisan, la facultad para presentar querellas por el delito previsto en el artículo 148 del Código Penal del Estado de México, publicado el 20 de octubre de 2006 en el Periódico Oficial "Gaceta del Gobierno".
+
+QUINTO.- A partir de la entrada en vigor del presente Reglamento, cuando en otros ordenamientos se haga referencia a la Dirección General de Servicios al Autotransporte, se entenderá a la Dirección General del Registro Estatal de Transporte Público.
+
+SEXTO.- Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por el presente Reglamento.
