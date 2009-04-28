@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-electoral-del-distrito-60343"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-07"
-last_updated: "2008-04-07"
+last_updated: "2009-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60343&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-03-20"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE ABRIL DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 7 de abril de 2008.
 
@@ -96,7 +96,9 @@ XXV. Sesión (es): La o las sesiones públicas que lleve a cabo el Pleno para co
 
 XXVI. Sistema de medios de impugnación: El conjunto de procedimientos contenciosos establecidos en la Ley Procesal Electoral para el Distrito Federal, para garantizar la legalidad de los actos y resoluciones electorales;
 
-XXVII. Titular (es) de Área: El Presidente, los Magistrados Electorales, los Secretarios General y Administrativo, el Contralor General, el Director General Jurídico, los Coordinadores de Documentación y Difusión, y de Comunicación Social y Relaciones Públicas; y el Director del Centro de Capacitación Judicial Electoral, y
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2009)</small>
+
+XXVII. Titular (es) de Área: El Presidente, los Magistrados Electorales, los Secretarios General y Administrativo, el Contralor General, el Director General Jurídico, los Directores del Centro de Capacitación Judicial Electoral, y de la Coordinación de Documentación y Difusión; y los Coordinadores de Tecnologías de la Información y de Comunicación Social y Relaciones Públicas;
 
 XXVIII. Tribunal: El Tribunal Electoral del Distrito Federal.
 
@@ -144,13 +146,29 @@ III. Secretaría General.
 
 IV. Secretaría Administrativa.
 
-1. Dirección de Recursos Financieros.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE ABRIL DE 2009)</small>
 
-1.1. Subdirección de Finanzas y Contabilidad.
+1. Dirección de Planeación y Recursos Financieros.
+
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2009)</small>
+
+1.1. Subdirección de Contabilidad y Control.
 
 1.1.1. Jefatura de Departamento de Contabilidad.
 
-1.1.2. Jefatura de Departamento de Presupuesto.
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2009)</small>
+
+1.1.2. Jefatura de Departamento de Registro y Control Presupuestal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE ABRIL DE 2009)</small>
+
+1.2. Subdirección de Planeación y Presupuesto.
+
+1.2.1. Jefatura de Departamento de Planeación, Organización y Normatividad.
+
+1.2.2. Jefatura de Departamento de Programación y Presupuesto.
+
+1.2.3. Jefatura de Departamento de Caja y Tesorería.
 
 2. Dirección de Recursos Materiales y Servicios.
 
@@ -160,11 +178,15 @@ IV. Secretaría Administrativa.
 
 2.1.2. Jefatura de Departamento de Servicios Generales.
 
-2.1.3. Jefatura de Departamento Médico.
+2.1.3. (DEROGADO, G.O. 28 DE ABRIL DE 2009)
 
-2.2. Subdirección de Sistemas.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE ABRIL DE 2009)</small>
 
-2.2.1. Jefatura de Departamento de Atención a Usuarios.
+2.1.4. Jefatura de Departamento de Adquisiciones y Control Patrimonial.
+
+2.2. (DEROGADO, G.O. 28 DE ABRIL DE 2009)
+
+2.2.1. (DEROGADO, G.O. 28 DE ABRIL DE 2009)
 
 3. Dirección de Recursos Humanos.
 
@@ -172,43 +194,75 @@ IV. Secretaría Administrativa.
 
 3.1.1. Jefatura de Departamento de Registro y Control de Personal.
 
-3.1.2. Jefatura de Departamento de Nóminas.
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2009)</small>
 
-4. Dirección de Organización y Apoyo Institucional.
+3.1.2. Jefatura de Departamento de Nóminas e Impuestos.
 
-4.1. Subdirección de Organización y Apoyo Institucional.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE ABRIL DE 2009)</small>
 
-4.1.1. Jefatura de Departamento de Organización.
+3.1.3. Jefatura de Departamento de Prestaciones.
 
-4.1.2. Jefatura de Departamento de Apoyo Institucional.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE ABRIL DE 2009)</small>
+
+3.1.4. Jefatura de Departamento de Servicio Médico.
+
+4. (DEROGADO, G.O. 28 DE ABRIL DE 2009)
+
+4.1. (DEROGADO, G.O. 28 DE ABRIL DE 2009)
+
+4.1.1. (DEROGADO, G.O. 28 DE ABRIL DE 2009)
+
+4.1.2. (DEROGADO, G.O. 28 DE ABRIL DE 2009)
 
 V. Contraloría General.
 
-1. Subcontraloría.
+1. (DEROGADO, G.O. 28 DE ABRIL DE 2009)
 
 2. Dirección de Auditoría y Control.
 
-2.1. Jefatura de Departamento de Auditoría y Control.
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2009)</small>
+
+2.1. Jefatura de Departamento de Auditoría.
 
 3. Dirección de Responsabilidades y Atención a Quejas.
 
-3.1. Jefatura de Departamento de Responsabilidades y Atención a Quejas.
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2009)</small>
+
+3.1. Jefatura de Departamento de Responsabilidades.
 
 VI. Dirección General Jurídica.
 
-1. Dirección de lo Contencioso.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE ABRIL DE 2009)</small>
+
+1. Dirección de lo Contencioso, Consultivo y Normatividad.
 
 1.1. Jefatura de Departamento de lo Contencioso.
 
-2. Dirección Consultiva, de Normatividad y Transparencia.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE ABRIL DE 2009)</small>
 
-2.1. Jefatura de Departamento de Normatividad y Transparencia.
+1.2. Jefatura de Departamento de lo Consultivo y Normatividad.
 
-2.2. Jefatura de Departamento de lo Consultivo.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE ABRIL DE 2009)</small>
+
+2. Dirección de Contratos, Transparencia y Acceso a la Información Pública.
+
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2009)</small>
+
+2.1. Jefatura de Departamento de Transparencia.
+
+2.2. (DEROGADO, G.O. 28 DE ABRIL DE 2009)
 
 2.3. Jefatura de Departamento de Apoyo Informático.
 
 2.4. Jefatura de Departamento de Archivos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE ABRIL DE 2009)</small>
+
+2.5. Jefatura de Departamento de Administración de Datos Personales y Gestión Documental.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE ABRIL DE 2009)</small>
+
+2.6. Jefatura de Departamento de Adquisiciones y Contratos.
 
 VII. Coordinaciones.
 
@@ -233,6 +287,18 @@ VII. Coordinaciones.
 2.2.1. Jefatura de Departamento de Difusión.
 
 2.3. Subdirección de Enlace Institucional.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE ABRIL DE 2009)</small>
+
+3. Coordinación de Tecnologías de la Información.
+
+3.1. Subdirección de Tecnologías de la Información.
+
+3.1.1 Jefatura de Departamento de Soporte Técnico de Atención a Usuarios.
+
+3.1.2 Jefatura de Departamento de Administrador del Website.
+
+3.1.3 Jefatura de Departamento de Desarrollo de Sistemas.
 
 VIII. Centro de Capacitación Judicial Electoral.
 
@@ -768,7 +834,7 @@ III. Hacer las previsiones presupuestales para realizar las actividades establec
 
 IV. Obtener y consolidar la información administrativa y financiera que requieran el Pleno, el Presidente y los Magistrados;
 
-V. Definir y poner en práctica las políticas informáticas y las pautas para el diseño de las redes de cómputo y el desarrollo de sistemas, así como para la asignación de equipo y programas de cómputo;
+V. (REFORMADA [N. DE E. DEROGADA], G.O. 28 DE ABRIL DE 2009)
 
 VI. Informar al Presidente, permanentemente, respecto del funcionamiento del área a su cargo y del desahogo de los asuntos de su competencia, y
 
@@ -788,9 +854,11 @@ III. No encontrarse impedido para ocupar el cargo, de conformidad con el artícu
 
 IV. Contar con título profesional expedido legalmente en disciplina vinculada a las funciones del cargo, y con práctica profesional de, por lo menos, dos años al día de la designación.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE ABRIL DE 2009)</small>
+
 ###### Artículo 45.
 
-El Director de Recursos Financieros tendrá las atribuciones siguientes:
+El Director de Planeación y Recursos Financieros tendrá las atribuciones siguientes:
 
 I. Definir los sistemas administrativos y financieros necesarios para la elaboración de la Cuenta Pública;
 
@@ -820,9 +888,77 @@ XIII. Coordinar e integrar las propuestas relacionadas con la mejora continua, a
 
 XIV. Proponer los proyectos y actividades de la dirección para ser integrados en el Programa Operativo Anual, así como dar seguimiento a su cumplimiento;
 
-XV. Coordinar la elaboración de los informes trimestrales y anuales de las actividades del área, y
+XV. Coordinar la elaboración de los informes trimestrales y anuales de las actividades del área, y (sic)
 
-XVI. Las demás que deriven de las disposiciones aplicables y las que le encomienden, en el ámbito de sus atribuciones, el Presidente o el Secretario Administrativo.
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2009)</small>
+
+XVI. Elaborar el Programa Operativo Anual y Anteproyecto de Presupuesto del Tribunal del ejercicio fiscal que corresponda, conforme a los Criterios Generales que se aprueben para tal efecto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE ABRIL DE 2009)</small>
+
+XVII. Proponer la metodología para la elaboración e integración del Programa Operativo Anual y Anteproyecto de Presupuesto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE ABRIL DE 2009)</small>
+
+XVIII. Establecer comunicación con las áreas administrativas y financieras del Gobierno del Distrito Federal para planear y coordinar las adecuaciones al presupuesto autorizado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE ABRIL DE 2009)</small>
+
+XIX. Instrumentar el proceso de programación y presupuestación de cada unidad administrativa del Tribunal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE ABRIL DE 2009)</small>
+
+XX. Proponer la asignación de recursos presupuestales, a partir de los programas operativos anuales de cada unidad administrativa;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE ABRIL DE 2009)</small>
+
+XXI. Consolidar y evaluar el avance del ejercicio presupuestal, de acuerdo al presupuesto autorizado a las unidades responsables del gasto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE ABRIL DE 2009)</small>
+
+XXII. Proponer procedimientos de control presupuestal para optimizar su administración;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE ABRIL DE 2009)</small>
+
+XXIII. Coadyuvar con todas las áreas del Tribunal para la instrumentación de los procedimientos, normas y lineamientos que en materia presupuestal y financiera requieran de observancia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE ABRIL DE 2009)</small>
+
+XXIV. Apoyar y asesorar a las unidades administrativas del Tribunal, para la aplicación de los procedimientos, normas y lineamientos en materia presupuestal y financiera;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE ABRIL DE 2009)</small>
+
+XXV. Establecer vínculos de comunicación con autoridades locales y federales, para el cumplimiento de las disposiciones presupuestales, financieras y fiscales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE ABRIL DE 2009)</small>
+
+XXVI. Operar como enlace ante los órganos fiscalizadores;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE ABRIL DE 2009)</small>
+
+XXVII. Realizar las acciones para la atención de las recomendaciones de las autoridades fiscalizadoras;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE ABRIL DE 2009)</small>
+
+XXVIII. Proponer acciones relacionadas con la mejora continua a los trabajos y funciones administrativas del Tribunal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE ABRIL DE 2009)</small>
+
+XXIX. Elaborar los informes trimestrales y anuales del avance presupuestal de las unidades administrativas del Tribunal y presentarlos al Secretario Administrativo para los efectos conducentes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE ABRIL DE 2009)</small>
+
+XXX. Coadyuvar, en materia presupuestal y financiera, con el Secretario Administrativo en la comunicación con la Asamblea, Secretaría de Finanzas y demás áreas del Gobierno del Distrito Federal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE ABRIL DE 2009)</small>
+
+XXXI. Acordar con el Secretario Administrativo para dar cumplimiento a los acuerdos emitidos por el Pleno, el Presidente e instancias competentes; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE ABRIL DE 2009)</small>
+
+XXXII. Las demás que deriven de las disposiciones aplicables y las que le encomienden, en el ámbito de sus atribuciones, el Presidente o el Secretario Administrativo.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE ABRIL DE 2009)</small>
 
 ###### Artículo 46.
 
@@ -854,11 +990,11 @@ XII. Coordinar una adecuada comunicación con las unidades administrativas, a fi
 
 XIII. Planear y coordinar el manejo de la operación del almacén a fin de asegurar el resguardo de los bienes adquiridos por el Tribunal;
 
-XIV. Garantizar los servicios de informática y telecomunicaciones al personal del Tribunal;
+XIV. (REFORMADA [N. DE E. DEROGADA], G.O. 28 DE ABRIL DE 2009)
 
-XV. Brindar soporte técnico a los usuarios de equipo de cómputo;
+XV. (REFORMADA [N. DE E. DEROGADA], G.O. 28 DE ABRIL DE 2009)
 
-XVI. Garantizar el control, mantenimiento y conservación del equipo de cómputo;
+XVI. (REFORMADA [N. DE E. DEROGADA], G.O. 28 DE ABRIL DE 2009)
 
 XVII. Proponer los proyectos y actividades de la Dirección para ser integrados en el Programa Operativo Anual, así como dar seguimiento a su cumplimiento;
 
@@ -908,45 +1044,7 @@ XV. Las demás que se deriven de las disposiciones aplicables y las que le encom
 
 ###### Artículo 48.
 
-El Director de Organización y Apoyo Institucional tendrá las atribuciones siguientes:
-
-I. Elaborar el Programa Operativo Anual y Anteproyecto de Presupuesto del Tribunal del ejercicio fiscal que corresponda, conforme a los Criterios Generales que se aprueben para tal efecto;
-
-II. Definir los sistemas administrativos y financieros necesarios para la elaboración del Programa Operativo Anual y Anteproyecto de Presupuesto;
-
-III. Establecer una adecuada comunicación con funcionarios del Gobierno del Distrito Federal a fin de planear y coordinar las adecuaciones al presupuesto autorizado;
-
-IV. Planear, coordinar e integrar el proceso de programación y presupuestación de cada unidad administrativa del Tribunal;
-
-V. Coordinar la elaboración de las propuestas de distribución y asignación de recursos presupuestales, a partir de los programas operativos anuales de cada unidad administrativa;
-
-VI. Integrar, supervisar y analizar el avance del ejercicio presupuestal, de acuerdo al presupuesto autorizado a las unidades responsables del gasto;
-
-VII. Coordinar la elaboración de propuestas de mecanismos de control y funcionamiento normativo en materia administrativa;
-
-VIII. Coadyuvar con las demás direcciones de la Secretaría Administrativa, en la elaboración de procedimientos, normas y lineamientos en la materia para el buen funcionamiento del Tribunal;
-
-IX. Asistir a las unidades administrativas del Tribunal que lo requieran, para la elaboración de los procedimientos, normas y lineamientos que les sean aplicables;
-
-X. Coadyuvar en los procesos de comunicación del Tribunal con autoridades locales y, en su caso, federales, en sus respectivos ámbitos de competencia;
-
-XI. Fungir como enlace ante los órganos fiscalizadores;
-
-XII. Coordinar las acciones para la atención de las recomendaciones de las autoridades fiscalizadoras;
-
-XIII. Proponer acciones relacionadas con la mejora continua a los trabajos y funciones sustantivas del Tribunal;
-
-XIV. Proponer los proyectos y actividades de la dirección para ser integrados en el Programa Operativo Anual, así como dar seguimiento a su cumplimiento;
-
-XV. Coordinar la elaboración de los informes trimestrales y anuales de las actividades del área;
-
-XVI. Coordinar la integración de los informes trimestrales y anuales de actividades de las unidades administrativas del Tribunal y presentarlos al Secretario Administrativo para los efectos conducentes;
-
-XVII. Auxiliar al Secretario Administrativo en la comunicación administrativa entre el Tribunal y la Asamblea, Secretaría de Finanzas y demás áreas del Gobierno del Distrito Federal;
-
-XVIII. Acordar con el Secretario Administrativo para dar cumplimiento a los acuerdos emitidos por el Pleno, el Presidente e instancias competentes, y
-
-XIX. Las demás que se deriven de las disposiciones aplicables y las que le encomienden, en el ámbito de sus atribuciones, el Presiente o el Secretario Administrativo.
+(REFORMADO [N. DE E. DEROGADO], G.O. 28 DE ABRIL DE 2009)
 
 ### CAPÍTULO VIII. De la Contraloría
 
@@ -954,25 +1052,35 @@ XIX. Las demás que se deriven de las disposiciones aplicables y las que le enco
 
 El Tribunal contará con una Contraloría que dependerá del Pleno, cuyo titular será designado por la Asamblea en los términos del Código.
 
-Las ausencias temporales del Contralor, serán cubiertas por el Subcontralor, hasta que el Pleno determine lo conducente.
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2009)</small>
 
-En caso de ausencia definitiva del Contralor, el Pleno lo hará del conocimiento de la Asamblea por conducto del Presidente, para que esta última determine lo que corresponda.
+Las ausencias temporales del Contralor General, serán cubiertas por el Director de Responsabilidades y Atención a Quejas, hasta que el Pleno determine lo conducente.
+
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2009)</small>
+
+En caso de ausencia definitiva del Contralor General, el Pleno lo hará del conocimiento de la Asamblea por conducto del Presidente, para que esta última determine lo que corresponda.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE ABRIL DE 2009)</small>
 
 ###### Artículo 50.
 
-Para el ejercicio de las atribuciones que tiene conferidas en los artículos 191 y 193 del Código, el Contralor tendrá las funciones siguientes:
+Para el ejercicio de las atribuciones que tiene conferidas en los artículos 191 y 193 del Código, el Contralor General tendrá las funciones siguientes:
 
 I. Informar mensualmente al Pleno, el estado general del área, así como los avances del Programa Operativo Anual; en la reunión a la que sea convocado;
 
 II. Acordar con el Presidente las cuestiones administrativas del área;
 
-III. Coordinar las actividades del Subcontralor y de los titulares de las Direcciones de Área;
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2009)</small>
+
+III. Coordinar las actividades de las Direcciones de Área;
 
 IV. Coordinar, vigilar y supervisar el seguimiento a las labores de fiscalización del manejo, custodia y aplicación de los recursos del Tribunal, e informar de ello al Pleno;
 
 V. Coordinar, vigilar y supervisar el seguimiento a las observaciones, recomendaciones y demás acciones que deriven de las auditorías realizadas, debiendo informar periódicamente al Pleno sobre el estado que guardan;
 
-VI. Determinar las acciones legales que se deriven de los resultados de las auditorías, a propuesta que realice el Subcontralor;
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2009)</small>
+
+VI. Determinar las acciones legales que se deriven de los resultados de las auditorías e investigaciones;
 
 VII. Vigilar que los actos de entrega-recepción de los servidores públicos del Tribunal, se realicen en términos de la normatividad aplicable;
 
@@ -1010,7 +1118,9 @@ XXII. Las demás que le confieran las disposiciones aplicables y las que le enco
 
 Para el debido desempeño de sus funciones, la Contraloría contará con el apoyo de las áreas a que se refiere el artículo 3, fracción V de este Reglamento.
 
-Para ocupar los cargos de Subcontralor o Director de Área en la Contraloría, deberán cumplirse los requisitos siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE ABRIL DE 2008)</small>
+
+Para ocupar los cargos de Director de Área en la Contraloría, deberán cumplirse los requisitos siguientes:
 
 I. Ser ciudadano del Distrito Federal, en pleno ejercicio de sus derechos;
 
@@ -1018,53 +1128,21 @@ II. Gozar de buena reputación;
 
 III. No encontrarse impedido para ocupar el cargo, de conformidad con el artículo 198, párrafos quinto, octavo y noveno del Código, y
 
-IV. Contar con título profesional expedido legalmente en economía, contaduría o administración tratándose de la Dirección de Auditoría y Control; y de abogado o licenciado en derecho en el caso de la Dirección de Responsabilidades y Atención a Quejas, con práctica profesional de, por lo menos, dos años al día de la designación. El Subcontralor deberá contar con título de abogado o licenciado en derecho con práctica profesional de, por lo menos, tres años al día de la designación.
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2009)</small>
+
+IV. Contar con título profesional expedido legalmente en economía, contaduría actuaría, administración o carreras afines, tratándose de la Dirección de Auditoría y Control; y de abogado o licenciado en derecho en el caso de la Dirección de Responsabilidades y Atención a Quejas; en ambos casos, con práctica profesional de, por lo menos, dos años al día de la designación.
 
 ###### Artículo 52.
 
-El Subcontralor tendrá las atribuciones siguientes:
-
-I. Emitir opinión legal sobre las labores de fiscalización, custodia y aplicación de los recursos del Tribunal;
-
-II. Supervisar los aspectos jurídicos de las observaciones, recomendaciones y demás acciones que deriven de las auditorías realizadas;
-
-III. Proponer al Contralor las acciones legales que se deriven de los resultados de las auditorías;
-
-IV. Proponer al Contralor las acciones legales para el seguimiento al cumplimiento de las observaciones y recomendaciones realizadas por la Contaduría Mayor de Hacienda de la Asamblea;
-
-V. Revisar que los actos de entrega-recepción de los servidores públicos del Tribunal, se lleven a cabo en términos de la normatividad aplicable;
-
-VI. Supervisar que los procedimientos en materia de adquisiciones, arrendamientos, prestación de servicios y obra pública se lleven a cabo en términos de los ordenamientos aplicables;
-
-VII. Supervisar la atención a las quejas y denuncias que se formulen en materia de responsabilidades administrativas e instruir lo conducente a fin de realizar las investigaciones que procedan y, en su caso, turnar el expediente al área de responsabilidades, para determinar la probable responsabilidad administrativa;
-
-VIII. Supervisar que la sustanciación de los procedimientos de responsabilidad administrativa, se lleve a cabo en términos de la Ley Federal de Responsabilidades de los Servidores Públicos y su legislación supletoria;
-
-IX. Revisar y aprobar la propuesta de resolución derivada de los procedimientos de responsabilidad administrativa y, en su caso, la imposición de las sanciones administrativas;
-
-X. Supervisar que los recursos de revocación que presenten los servidores públicos del Tribunal, en contra de las resoluciones en las que la Contraloría les imponga sanciones administrativas, se sustancien en términos de la Ley Federal de Responsabilidades de los Servidores Públicos;
-
-XI. Revisar y aprobar la propuesta de resolución de los recursos de revocación que interpongan los servidores públicos en contra de las resoluciones de la Contraloría que les impongan sanciones administrativas;
-
-XII. Proponer al Contralor las acciones legales tendientes al cumplimiento de la aplicación de las sanciones impuestas con motivo de los procedimientos administrativos de responsabilidades;
-
-XIII. Proponer al Contralor las acciones legales que permitan a los servidores públicos del Tribunal, presentar su declaración de situación patrimonial, en términos de la normatividad aplicable;
-
-XIV. Supervisar que la sustanciación de las inconformidades que presenten los proveedores respecto a actos o fallos en los procedimientos de adquisiciones y contratación de arrendamientos, servicios y obra pública, se lleve a cabo en términos de la legislación aplicable;
-
-XV. Revisar y aprobar la propuesta de resolución de las inconformidades que presenten los proveedores respecto de actos o fallos en los procedimientos de adquisiciones y contratación de arrendamientos, servicios y obra pública;
-
-XVI. Supervisar que la sustanciación de los procedimientos sancionatorios a aquellos proveedores que incumplan los lineamientos en materia de adquisiciones, arrendamientos y prestación de servicios y los de obra pública del Tribunal, se lleve a cabo en términos de la legislación aplicable;
-
-XVII. Revisar y aprobar la propuesta de resolución de los procedimientos sancionatorios a aquellos proveedores que incumplan los lineamientos en materia de adquisiciones, arrendamientos y prestación de servicios y los de obra pública del Tribunal, y
-
-XVIII. Las demás que le confieran las disposiciones aplicables y las que le encomiende el Contralor.
+(REFORMADO [N. DE E. DEROGADO], G.O. 28 DE ABRIL DE 2009)
 
 ###### Artículo 53.
 
 El Director de Auditoría y Control tendrá las atribuciones siguientes:
 
-I. Proponer al Contralor los contenidos del Programa Anual de Auditoría, para su aprobación por el Pleno;
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2009)</small>
+
+I. Proponer al Contralor General los contenidos del Programa Anual de Auditoría, para su aprobación;
 
 II. Realizar los actos tendentes a la ejecución del Programa Anual de Auditoría;
 
@@ -1074,13 +1152,19 @@ IV. Realizar las labores de fiscalización relativas al manejo, custodia y aplic
 
 V. Realizar las acciones correspondientes al seguimiento de las observaciones, recomendaciones y demás acciones que deriven de las auditorías efectuadas;
 
-VI. Informar al Contralor sobre el avance en la ejecución del Programa Anual de Auditoría, así como de los resultados derivados de las auditorías;
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2009)</small>
 
-VII. Proponer al Contralor las acciones administrativas que se deriven de los resultados de las auditorías;
+VI. Informar al Contralor General sobre el avance en la ejecución del Programa Anual de Auditoría, así como de los resultados derivados de las auditorías;
+
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2009)</small>
+
+VII. Proponer al Contralor General las acciones administrativas que se deriven de los resultados de las auditorías;
 
 VIII. Atender las solicitudes de las áreas del Tribunal en los asuntos de su competencia, y
 
-IX. Las demás que le confieran las disposiciones aplicables o le encomienden el Contralor o el Subcontralor.
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2009)</small>
+
+IX. Las demás que le confieran las disposiciones aplicables o le encomiende el Contralor General.
 
 ###### Artículo 54.
 
@@ -1088,9 +1172,13 @@ El Director de Responsabilidades y Atención a Quejas, tendrá las atribuciones 
 
 I. Atender las quejas y denuncias que se formulen en materia de responsabilidades administrativas y realizar las investigaciones que procedan a fin de determinar, en su caso, la probable responsabilidad administrativa;
 
-II. Tramitar y sustanciar los procedimientos de responsabilidad administrativa y proponer al Contralor a través del Subcontralor la resolución atinente y, en su caso, la imposición de las sanciones que procedan en términos de la Ley Federal de Responsabilidades de los Servidores Públicos;
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2009)</small>
 
-III. Tramitar y sustanciar los recursos de revocación que presenten los servidores públicos del Tribunal, en contra de las resoluciones en las que la Contraloría les imponga sanciones administrativas, en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos y proponer al Contralor a través del Subcontralor la resolución que corresponda;
+II. Tramitar y sustanciar los procedimientos de responsabilidad administrativa y proponer al Contralor General la resolución atinente y, en su caso, la imposición de las sanciones que procedan en términos de la Ley Federal de Responsabilidades de los Servidores Públicos;
+
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2009)</small>
+
+III. Tramitar y sustanciar los recursos de revocación que presenten los servidores públicos del Tribunal, en contra de las resoluciones en las que la Contraloría les imponga sanciones administrativas, en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos y proponer al Contralor General la resolución que corresponda;
 
 IV. Llevar el registro de los servidores públicos que hayan sido sancionados administrativamente por la Contraloría, una vez que la resolución respectiva haya causado estado;
 
@@ -1098,19 +1186,29 @@ V. Verificar que se cumpla la aplicación de las sanciones impuestas con motivo 
 
 VI. Participar en los actos de entrega-recepción de los servidores públicos del Tribunal, en términos de la normatividad aplicable;
 
-VII. Recibir y requerir a los servidores públicos del Tribunal, su declaración de situación patrimonial, en el formato que para tal propósito se determine, integrar el padrón de servidores públicos obligados a presentarla, y proponer los mecanismos necesarios para difundir la obligación de su presentación. Asimismo resguardar dichas declaraciones conforme a las indicaciones del Contralor;
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2009)</small>
 
-VIII. Llevar el registro de la situación patrimonial de los servidores públicos del Tribunal; hacer el seguimiento de su evolución; proponer al Contralor a través del Subcontralor los sistemas que se requieran para tal propósito, así como las acciones legales que correspondan;
+VII. Recibir y requerir a los servidores públicos del Tribunal, su declaración de situación patrimonial, en el formato que para tal propósito se determine, integrar el padrón de servidores públicos obligados a presentarla, y proponer los mecanismos necesarios para difundir la obligación de su presentación. Asimismo resguardar dichas declaraciones conforme a las indicaciones del Contralor General;
 
-IX. Tramitar y sustanciar las inconformidades que presenten los proveedores respecto a actos o fallos en los procedimientos de adquisiciones y contratación de arrendamientos, servicios y obra pública, y proponer al Contralor a través del Subcontralor la resolución que corresponda;
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2009)</small>
 
-X. Tramitar y sustanciar los procedimientos sancionatorios a aquellos proveedores que incumplan los lineamientos en materia de adquisiciones, arrendamientos y prestación de servicios y los de obra pública del Tribunal y proponer al Contralor a través del Subcontralor la resolución que corresponda;
+VIII. Llevar el registro de la situación patrimonial de los servidores públicos del Tribunal; hacer el seguimiento de su evolución; proponiendo al Contralor General los sistemas que se requieran para tal propósito, así como las acciones legales que correspondan;
+
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2009)</small>
+
+IX. Tramitar y sustanciar las inconformidades que se presenten respecto a actos o fallos en los procedimientos de adquisiciones y contratación de arrendamientos, servicios y obra pública, y proponer al Contralor General la resolución que corresponda;
+
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2009)</small>
+
+X. Tramitar y sustanciar los procedimientos sancionatorios a aquellos proveedores que incumplan los lineamientos en materia de adquisiciones, arrendamientos y prestación de servicios y los de obra pública del Tribunal y proponer al Contralor General la resolución que corresponda;
 
 XI. Participar en los procedimientos en materia de adquisiciones, arrendamientos, prestación de servicios y obra pública para vigilar que se cumplan los ordenamientos aplicables;
 
 XII. Atender las solicitudes de las áreas del Tribunal en los asuntos de su competencia, y
 
-XIII. Las demás que le confieran las disposiciones aplicables o le encomienden el Contralor o el Subcontralor.
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2009)</small>
+
+XIII. Las demás que le confieran las disposiciones aplicables o le encomiende el Contralor General.
 
 ### CAPÍTULO IX. De la Dirección General Jurídica
 
@@ -1158,7 +1256,9 @@ XII. Apoyar al Pleno, en las acciones tendientes a prevenir y atender posibles c
 
 XIII. Asesorar y apoyar a la Secretaría Administrativa cuando ésta así lo solicite, en los procedimientos de licitación y en la elaboración y adjudicación de contratos;
 
-XIV. Supervisar el funcionamiento de la Oficina de Información Pública del Tribunal y el cumplimiento de las obligaciones derivadas de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2009)</small>
+
+XIV. Supervisar el funcionamiento de la Oficina de Información Pública del Tribunal y el cumplimiento de las obligaciones derivadas de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal; la Ley de Archivos del Distrito Federal y la Ley de Protección de Datos Personales para el Distrito Federal;
 
 XV. Representar al Tribunal con apoyo del personal adscrito a su área, en los conflictos que se establezcan entre éste y sus servidores, incluyendo a codemandados físicos que laboren para el Tribunal, de conformidad con lo dispuesto por el artículo 102 de la Ley Procesal Electoral;
 
@@ -1184,9 +1284,11 @@ III. No encontrarse impedido para ocupar el cargo, de conformidad con el artícu
 
 IV. Contar con título profesional de abogado o licenciado en derecho expedido legalmente y contar con experiencia en materia litigiosa o consultiva, según sea el caso, de por lo menos, dos años al día de la designación.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE ABRIL DE 2009)</small>
+
 ###### Artículo 58.
 
-El Director de lo Contencioso tendrá las atribuciones siguientes:
+El Director de lo Contencioso, Consultivo y Normatividad tendrá las atribuciones siguientes:
 
 I. Apoyar en la realización de todos los actos y diligencias inherentes a los procedimientos que el Tribunal tramite ante las autoridades administrativas, laborales o judiciales, ya sean locales o federales o en los que participe con la calidad de parte, a excepción de los asuntos relacionados con la materia electoral o de participación ciudadana;
 
@@ -1206,31 +1308,77 @@ VIII. Elaborar las contestaciones correspondientes a las demandas presentadas en
 
 IX. Asesorar y en su caso, apoyar a los funcionarios o empleados del Tribunal cuando, con motivo del ejercicio de su cargo, se vean involucrados en procedimientos ante autoridades administrativas o jurisdiccionales, ya sean locales o federales, diversas al Tribunal;
 
-X. Elaborar los estudios jurídicos y opiniones ordenados por el Pleno o el Presidente, vinculados a aspectos contenciosos o relacionados con ellos, y XI. Las demás que le confieran las disposiciones aplicables o le encomienden el Pleno, el Presidente o el Director General Jurídico.
+X. Elaborar los estudios jurídicos y opiniones ordenados por el Pleno o el Presidente, vinculados a aspectos contenciosos o relacionados con ellos, y XI. Las demás que le confieran las disposiciones aplicables o le encomienden el Pleno, el Presidente o el Director General Jurídico;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE ABRIL DE 2009)</small>
+
+XI. Apoyar en los trámites relativos a derechos de autor y registro de las publicaciones del Tribunal, así como a las publicaciones en el Diario Oficial de la Federación y en la Gaceta, de los documentos ordenados por el Pleno;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE ABRIL DE 2009)</small>
+
+XII. Apoyar en la redacción de proyectos de acuerdos e informes, cuando así lo soliciten el Pleno o el Presidente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE ABRIL DE 2009)</small>
+
+XIII. Auxiliar en la recopilación y sistematización de la información necesaria que permita la elaboración de los informes que el Presidente debe rendir en términos del artículo 187, incisos k) y s) del Código;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE ABRIL DE 2009)</small>
+
+XIV. Coadyuvar en la elaboración de los escritos de desahogo de consultas en materia jurídica formuladas por las áreas del Tribunal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE ABRIL DE 2009)</small>
+
+XV. Apoyar en la elaboración de la opinión relativa a determinar el alcance de las disposiciones contenidas en manuales, lineamientos, bases, políticas, y demás normas internas que haya emitido el Pleno, cuando éste así lo requiera;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE ABRIL DE 2009)</small>
+
+XVI. Coadyuvar en la realización de los estudios jurídicos ordenados por el Pleno o el Presidente, que tengan como finalidad el mejoramiento de las funciones del organismo, sobre asuntos concretos no relacionados con cuestiones jurisdiccionales electorales o de participación ciudadana;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE ABRIL DE 2009)</small>
+
+XVII. Apoyar en la elaboración de los escritos de opinión sobre proyectos de manuales, lineamientos, bases, políticas, y demás normas internas que corresponda emitir al Pleno, cuando así lo solicite éste; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE ABRIL DE 2009)</small>
+
+XVIII. Las demás que le confieran las disposiciones aplicables o le encomienden el Pleno, el Presidente o el Director General Jurídico.
+
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2009)</small>
 
 ###### Artículo 59.
 
-El Director Consultivo, de Normatividad y Transparencia, tendrá las atribuciones siguientes:
+El Director de Contratos, Transparencia y Acceso a la Información Pública tendrá las atribuciones siguientes:
 
-I. Elaborar los escritos de desahogo de consultas en materia jurídica formuladas por las áreas del Tribunal;
+I. Elaborar los proyectos de contratos y convenios en los que el Tribunal sea parte, así como los acuerdos, bases de coordinación y demás escritos y opiniones sobre aspectos jurídicos que le sean requeridos;
 
-II. Realizar los estudios jurídicos ordenados por el Pleno o el Presidente, que tengan como finalidad el mejoramiento de las funciones del organismo, sobre asuntos concretos no relacionados con cuestiones jurisdiccionales electorales o de participación ciudadana;
+II. Revisar los proyectos de bases de los procedimientos licitatorios que realice la Secretaría Administrativa;
 
-III. Elaborar los proyectos de contratos y convenios en los que el Tribunal sea parte, así como los acuerdos, bases de coordinación y demás escritos y opiniones sobre aspectos jurídicos que le sean requeridos;
+III. Elaborar los escritos de desahogo de consultas en materia de contratos y adquisiciones formuladas por las áreas del Tribunal;
 
-IV. Elaborar los escritos de opinión sobre proyectos de manuales, lineamientos, bases, políticas, y demás normas internas que corresponda emitir al Pleno, cuando así lo solicite éste;
+IV. Apoyar en las acciones tendientes a prevenir y atender posibles conflictos entre las normas internas relacionadas con la adquisición de recursos materiales y servicios;
 
-V. Elaborar la opinión relativa a determinar el alcance de las disposiciones contenidas en manuales, lineamientos, bases, políticas, y demás normas internas que haya emitido el Pleno, cuando éste así lo requiera;
+V. Vigilar el cumplimiento de las obligaciones establecidas en la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, su reglamento y las demás disposiciones que de ella emanen o le resulten aplicables así como supervisar el debido funcionamiento de la Oficina de Información Pública del Tribunal, recibiendo las peticiones ciudadanas, a cuya tutela estará el tramite de las mismas, conforme a los establecido en el reglamento de la ley de la materia;
 
-VI. Recopilar y sistematizar la información necesaria que permita la elaboración de los informes que el Presidente debe rendir en términos del artículo 187, incisos k) y s) del Código;
+VI. Supervisar la publicación, clasificación, disponibilidad y actualización de información en el portal de Internet en la sección de transparencia, en términos de la legislación aplicable;
 
-VII. Apoyar en la redacción de proyectos de acuerdos e informes, cuando así lo soliciten el Pleno o el Presidente;
+VII. Vigilar el cumplimiento de las obligaciones, principios, sistemas, medidas de seguridad, tratamientos, atribuciones, derechos, procedimientos, recursos y responsabilidades establecidas en la Ley de Protección de Datos Personales para el Distrito Federal;
 
-VIII. Apoyar en los trámites relativos a derechos de autor y registro de las publicaciones del Tribunal, así como a las publicaciones en el Diario Oficial de la Federación y en la Gaceta, de los documentos ordenados por el Pleno;
+VIII. Promover e intervenir en el cumplimiento de las obligaciones establecidas en la Ley de Archivos del Distrito Federal, realizando todas las acciones tendientes al enriquecimiento y conservación del acervo archivístico y documental del Tribunal;
 
-IX. Vigilar el cumplimiento de las obligaciones establecidas en la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, así como supervisar el debido funcionamiento de la Oficina de Información Pública del Tribunal, y
+IX. Asesorar, orientar y proveer todo tipo de asistencia respecto de los trámites para la elaboración, diligenciación y seguimiento de las solicitudes de información pública, previendo en todo momento el correcto y efectivo ejercicio del derecho de acceso a la misma;
 
-X. Las demás que le confieran las disposiciones aplicables o le encomienden el Pleno, el Presidente o el Director General Jurídico.
+X. Recopilar de las áreas correspondientes la información requerida, previendo en todo momento los plazos para responder de manera en tiempo y forma, asegurando la calidad, veracidad, oportunidad y confiabilidad de la información;
+
+XI. Registrar y actualizar el registro de las solicitudes de acceso a la información, así como sus trámites, costos y resultados;
+
+XII. Coadyuvar en la labor de fomentar la cultura de la transparencia y el libre ejercicio al derecho de la información pública;
+
+XIII. Suscribir las declaraciones de inexistencia de la información o de acceso restringido;
+
+XIV. Supervisar y ejecutar los criterios y lineamientos establecidos respecto a la información de acceso restringido;
+
+XV. Realizar las notificaciones previstas en la ley de la materia, con apoyo de la Secretaría General; y
+
+XVI. Las demás que le confieran las disposiciones aplicables o le encomienden el Pleno, el Presidente, el Director General Jurídico o el Comité de Transparencia del Tribunal.
 
 ###### Artículo 60.
 
@@ -1258,9 +1406,11 @@ VII. Las demás que le confieran las disposiciones aplicables o le encomienden e
 
 ### CAPÍTULO X. De las Coordinaciones
 
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2009)</small>
+
 ###### Artículo 62.
 
-De conformidad con lo dispuesto por el artículo 195 del Código y para el adecuado desempeño de las tareas que le están encomendadas, el Tribunal contará con coordinaciones para atender las funciones relativas a documentación, difusión, comunicación social y relaciones públicas, bajo la coordinación y supervisión del Presidente.
+Para el adecuado desempeño de las tareas que le están encomendadas, el Tribunal contará con coordinaciones para atender las funciones relativas a documentación, difusión, tecnologías de la información, comunicación social y relaciones públicas, bajo la coordinación y supervisión del Presidente.
 
 ###### Artículo 63.
 
@@ -1276,11 +1426,13 @@ IV. Contar con título profesional expedido legalmente, en alguna de las discipl
 
 Las ausencias de los Coordinadores serán cubiertas mediante acuerdo del Presidente, por cualquiera de los Subdirectores de Área, hasta que el Pleno determine lo conducente.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE ABRIL DE 2009)</small>
+
 ###### Artículo 64.
 
-El Coordinador de Documentación y Difusión tendrá las atribuciones siguientes:
+El Director de la Coordinación de Documentación y Difusión tendrá las atribuciones siguientes:
 
-I. Elaborar el proyecto de manual de organización y funcionamiento de la Coordinación, así como vigilar su cumplimiento y someterlo a la aprobación del Pleno por conducto del Presidente;
+I. (REFORMADA [N. DE E. DEROGADA], G.O. 28 DE ABRIL DE 2009)
 
 II. Apoyar las tareas del Centro de Capacitación;
 
@@ -1288,7 +1440,9 @@ III. Actualizar, incrementar y vigilar el acervo documental del Tribunal;
 
 IV. Promover la celebración, con instituciones afines, de convenios de préstamo interbibliotecario, canje o donación de material documental y bibliohemerográfico, previo acuerdo del Pleno;
 
-V. Coordinarse con la Secretaría Administrativa para el establecimiento de los programas de cómputo y el uso del equipo informático para el debido cumplimiento de sus funciones;
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2009)</small>
+
+V. Coordinarse con el área de Tecnologías de la Información para el oportuno establecimiento y actualización de los programas de cómputo y el uso del equipo técnico para el debido cumplimiento de sus funciones;
 
 VI. Elaborar material didáctico y de difusión, digitalización de imágenes y textos, así como presentaciones gráficas relacionadas con la organización y funcionamiento del Tribunal;
 
@@ -1310,17 +1464,25 @@ XIV. Fortalecer la imagen institucional, a través de la difusión intra e inter
 
 XV. Colaborar con la Dirección General Jurídica a transparentar las actividades que se llevan a cabo en el Tribunal, a través de la difusión y distribución de materiales y publicaciones;
 
-XVI. Revisar el diseño y contenido del portal de Intranet del Tribunal para fortalecer la difusión de las actividades institucionales, creando un espacio de mayor comunicación entre los servidores;
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2009)</small>
 
-XVII. Informar al Presidente, permanentemente, respecto del funcionamiento del área a su cargo y del desahogo de los asuntos de su competencia, y
+XVI. Administrar el contenido y diseño del sitio de Intranet del Tribunal y coordinar con las diferentes áreas del Tribunal, la publicación de la información de acuerdo a las leyes, reglamentos y normatividad que el Tribunal tiene que cumplir y difundir oportunamente; y coadyuvar con la Coordinación de Comunicación Social y Relaciones Públicas en la elaboración del diseño e imagen del sitio de Internet;
 
-XVIII. Las demás que le confieran las disposiciones aplicables o las que le encomienden el Pleno o el Presidente.
+XVII. Informar al Presidente, permanentemente, respecto del funcionamiento del área a su cargo y del desahogo de los asuntos de su competencia, y (sic)
+
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2009)</small>
+
+XVIII. Proponer los proyectos y actividades de la Coordinación para ser integradas en el Programa Operativo Anual, así como dar seguimiento a su cumplimiento; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE ABRIL DE 2009)</small>
+
+XIX. Las demás que le confieran las disposiciones aplicables o las que le encomienden el Pleno o el Presidente.
 
 ###### Artículo 65.
 
 El Coordinador de Comunicación Social y Relaciones Públicas tendrá las atribuciones siguientes:
 
-I. Elaborar el proyecto de manual de organización y funcionamiento de la coordinación, así como vigilar su cumplimiento, y someterlo a la aprobación del Pleno por conducto del Presidente;
+I. (REFORMADA [N. DE E. DEROGADA], G.O. 28 DE ABRIL DE 2009)
 
 II. Captar, analizar, procesar y, en su caso, difundir la información proveniente de los medios de comunicación, impresos y electrónicos, que resulten de interés para el Tribunal;
 
@@ -1338,11 +1500,15 @@ VIII. Apoyar las tareas del Centro de Capacitación en el ámbito de su competen
 
 IX. Informar al Presidente, permanentemente, respecto del funcionamiento del área a su cargo y del desahogo de los asuntos de su competencia;
 
-X. Coordinarse con la Secretaría Administrativa para la oportuna actualización de los programas de cómputo y del equipo técnico necesario para la adecuada realización de sus funciones;
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2009)</small>
 
-XI. Coordinarse con la Oficina de Información Pública del Tribunal para dar curso a las peticiones de información y sugerencias relacionadas con la información que se presenta en el portal de Internet, que se reciban a través de este medio;
+X. Coordinarse con el área de Tecnologías de la Información para el oportuno establecimiento y actualización de los programas de cómputo y del equipo técnico necesario para la adecuada realización de sus funciones;
 
-XII. Revisar que el diseño y contenido del portal de Internet del Tribunal coadyuve a la difusión de las actividades y fines institucionales;
+XI. (REFORMADA [N. DE E. DEROGADA], G.O. 28 DE ABRIL DE 2009)
+
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2009)</small>
+
+XII. Administrar el contenido del sitio de Internet del Tribunal y coordinar con las diferentes áreas del Tribunal, la publicación de la información de acuerdo a las leyes, reglamentos y normatividad que el Tribunal tiene que cumplir y difundir oportunamente;
 
 XIII. Fortalecer ante los medios de comunicación social, la imagen institucional del Tribunal mediante la difusión de sus objetivos, funciones y responsabilidades;
 
@@ -1350,9 +1516,79 @@ XIV. Atender oportunamente los requerimientos de información de los medios de c
 
 XV. Dar cobertura, cuando esto sea requerido, a los cursos, seminarios, talleres, foros, presentaciones de libros y demás actos relacionados con los órganos electorales o que involucren información de interés para el Tribunal;
 
-XVI. Promover convenios de colaboración interinstitucional a nivel nacional e internacional, a fin de contar con información actualizada sobre los acontecimientos de interés para el Tribunal, y
+XVI. Promover convenios de colaboración interinstitucional a nivel nacional e internacional, a fin de contar con información actualizada sobre los acontecimientos de interés para el Tribunal, y (sic)
 
-XVII. Las demás que le confieran las disposiciones aplicables o las que le encomienden el Pleno o el Presidente.
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2009)</small>
+
+XVII. Proponer los proyectos y actividades de la Coordinación para ser integradas en el Programa Operativo Anual, así como dar seguimiento a su cumplimiento; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE ABRIL DE 2009)</small>
+
+XVIII. Las demás que le confieran las disposiciones aplicables o las que le encomienden el Pleno o el Presidente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE ABRIL DE 2009)</small>
+
+Artículo 65 BIS. El Coordinador de Tecnologías de la Información tendrá las atribuciones siguientes:
+
+I. Conocer y difundir en el ámbito de su competencia, para su observancia y cumplimiento, la normatividad y disposiciones en la materia;
+
+II. Elaborar y proponer los procedimientos y lineamientos que deban regir el desarrollo, instrumentación, mantenimiento y administración de tecnologías de la información al interior del Tribunal, de acuerdo a las (sic) normatividad vigente;
+
+III. Dirigir la elaboración e integración del anteproyecto del presupuesto de inversión en los programas de cómputo, conforme a las normas establecidas y someterlo a consideración de las instancias correspondientes;
+
+IV. Proponer los proyectos y actividades de la Coordinación para ser integradas en el Programa Operativo Anual, así como dar seguimiento a su cumplimiento;
+
+V. Proponer las políticas y las pautas para el diseño de las redes de cómputo así como el desarrollo de sistemas requeridos por las áreas del Tribunal para el cumplimiento de sus funciones, y conjuntamente con la Secretaría Administrativa, establecer los criterios para la asignación de equipos, programas de cómputo y resguardo de los mismos;
+
+VI. Instalar el equipo de cómputo, periféricos, software, consumibles y accesorios, solicitados por las áreas usuarias y proporcionados por la Dirección de Recursos Materiales y Servicios; informando a ésta última, para que actualicen sus inventarios y generen los resguardos respectivos, de manera oportuna;
+
+VII. Elaborar y proponer los lineamientos técnicos para la adquisición de equipo de cómputo, telecomunicaciones, redes de datos y software; así como los aspectos técnicos para la contratación y/o renovación, de servicios electrónicos requeridos por el Tribunal, en coordinación con la Dirección de Recursos Materiales y Servicios, con el objeto de mantener en buenas condiciones de operación la infraestructura de cómputo del Tribunal;
+
+VIII. Revisar las bases de los procedimientos de licitación relacionados con la actividad informática, así como participar técnicamente en dichos procedimientos;
+
+IX. Participar junto con las áreas correspondientes a través de los dictámenes técnicos ante las autoridades competentes para la autorización de adquisición y actualización de los equipos de cómputo, redes de computadoras, telecomunicaciones, sistemas operativos, herramientas de oficina, software de desarrollo, antivirus, entre otros, requeridos por las diferentes áreas, para realizar sus actividades cotidianas, de acuerdo al Programa Operativo Anual y los que no estén contemplados, por tratarse de nuevas necesidades, antes, durante o después de los procesos electorales locales, de acuerdo a la normatividad vigente;
+
+X. Proporcionar asesorías, capacitación y soporte técnico especializado a los usuarios del Tribunal, en el manejo de las herramientas de oficina, sistemas operativos, antivirus y/o problemas técnicos de operación de los equipos de cómputo, acorde a sus necesidades de operación y manejo de la información de las áreas usuarias;
+
+XI. Dirigir e implementar el desarrollo de aplicaciones, sistemas de información y bancos de datos, requeridos por las áreas usuarias del Tribunal, para coadyuvar al desarrollo de las funciones que tienen asignadas, de acuerdo a los estándares y plataformas tecnológicas institucionales;
+
+XII. Proporcionar la información, reportes y opiniones técnicas, en el ámbito de su competencia, a las áreas del Tribunal que lo soliciten para el cumplimiento oportuno de las funciones que tienen asignadas;
+
+XIII. Administrar técnicamente los sitios de Internet e Intranet del Tribunal y coordinar con las diferentes áreas del Tribunal, la publicación de la información de acuerdo a las leyes, reglamentos y normatividad que el Tribunal tiene que cumplir y difundir oportunamente;
+
+XIV. Proporcionar los elementos y herramientas técnicas para que los titulares de área del Tribunal, puedan publicar directamente o con la asistencia de la propia Coordinación, en los portales de Internet o Intranet, información en casos urgentes o que en la premura así lo amerite;
+
+XV. Dirigir la formulación e integración del programa anual de trabajo de la Coordinación de Tecnologías de la Información, sometiéndolo a consideración de las instancias competentes y evaluar su ejecución;
+
+XVI. Coordinar la elaboración del programa institucional de desarrollo informático, para la ejecución de los proyectos a corto, mediano y largo plazo, en materia de tecnologías de la información, que guíen el rumbo informático del Tribunal;
+
+XVII. Administrar y mantener en óptimas condiciones de operación, los equipos de cómputo, conmutador, redes de datos, programas y bases de datos, así como las instalaciones del centro de cómputo, que brindan los servicios de electrónicos de voz y datos del Tribunal;
+
+XVIII. Mantener la integridad, disponibilidad y confidencialidad de la información almacenada en los servidores del centro de cómputo, implementando políticas de respaldo y mecanismos de seguridad física y lógica;
+
+XIX. Establecer los criterios técnicos para la integración y mantenimiento de las (sic) bancos y bases de de (sic) datos, de los sistemas de información jurídicos y administrativos requeridos por el Tribunal;
+
+XX. Proporcionar los servicios de Internet, Intranet y correo electrónico institucional al personal del Tribunal autorizado, para el desempeño de sus funciones, aplicando las políticas informáticas vigentes;
+
+XXI. Promover, dirigir e investigar permanentemente, el uso de nuevas tecnologías en materia de informática, que mantengan y garanticen la modernidad tecnológica, acorde a los estándares internacionales y aplicables al interior del Tribunal;
+
+XXII. Formular y/o actualizar los proyectos de manuales administrativos del área y supervisar su aplicación y cumplimiento previa gestión ante las instancias competentes de su validación y autorización;
+
+XXIII. Establecer los mecanismos de comunicación e intercambio de información en el ámbito de su competencia, con los diversos organismos electorales nacionales e internacionales, que le sean solicitados de acuerdo con la normatividad, reglamentos, acuerdos y convenios establecidos con el Tribunal;
+
+XXIV. Participar en la elaboración de trabajos oficiales de su área de adscripción, en las condiciones de tiempo y lugar que por necesidades de su trabajo se requieran;
+
+XXV. Coordinar con los titulares de las unidades administrativas de la Secretaría Administrativa, los procedimientos de automatización que se requieran para el desarrollo, implementación y mantenimiento de los sistemas administrativos;
+
+XXVI. Coordinar los mecanismos de transmisión de las sesiones públicas del Pleno, a través de diversos medios de comunicación, telecomunicaciones, videoconferencia, Internet e Intranet, que fortalezcan la transparencia de dichos eventos y amplíen su cobertura de difusión;
+
+XXVII. Validar los dictámenes, opiniones e informes de carácter técnico, que le sean requeridos por las áreas del Tribunal en el ámbito de su competencia;
+
+XXVIII. Atender las solicitudes de información pública que le correspondan, siguiendo los procedimientos establecidos;
+
+XXIX. Coordinar la transmisión de eventos especiales organizados por el Tribunal, a través de diversos medios de comunicación y tecnología con que cuente el Tribunal, para la difusión local, nacional e internacional; y
+
+XXX. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables, y las que le confiera, el Pleno o el Presidente del Tribunal.
 
 ### CAPÍTULO XI. Del Centro de Capacitación
 
@@ -1372,7 +1608,7 @@ IV. Contar con título profesional de abogado o licenciado en Derecho expedido l
 
 El Director del Centro de Capacitación tendrá las atribuciones siguientes:
 
-I. Elaborar el proyecto de manual para la organización y funcionamiento del Centro de Capacitación, así como vigilar su cumplimiento; y someterlo a la aprobación del Pleno por conducto del Presidente;
+I. (REFORMADA [N. DE E. DEROGADA], G.O. 28 DE ABRIL DE 2009)
 
 II. Elaborar el programa anual de capacitación e investigación del Centro de Capacitación y someterlo a la aprobación del Pleno por conducto Presidente (sic);
 
@@ -1444,13 +1680,17 @@ Conforme a los lineamientos que establezca el Magistrado al cual estén adscrito
 
 De conformidad con el artículo 191 del Código, en todo lo relativo a la responsabilidad administrativa de los servidores públicos del Tribunal, se estará a lo dispuesto en la Ley Federal de Responsabilidades de los Servidores Públicos y a las reglas particulares de este Capítulo.
 
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2009)</small>
+
 ###### Artículo 73.
 
-En aquellos procedimientos de investigación en que el probable responsable sea el Secretario General o el Secretario Administrativo, y a juicio del Contralor existan elementos suficientes para iniciar el procedimiento de responsabilidad administrativa, informará de ello al Pleno, a fin de que éste determine lo conducente, en términos de lo dispuesto en el artículo 182, fracción III, inciso i) del Código.
+En aquellos procedimientos de investigación en que el probable responsable sea el Secretario General o el Secretario Administrativo, y a juicio del Contralor General existan elementos suficientes para iniciar el procedimiento de responsabilidad administrativa, informará de ello al Pleno, a fin de que éste determine lo conducente, en términos de lo dispuesto en el artículo 182, fracción III, inciso i) del Código.
+
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2009)</small>
 
 ###### Artículo 74.
 
-Tratándose de quejas o denuncias por responsabilidad administrativa del Contralor, derivada de actos u omisiones presuntamente realizados en el ejercicio de sus atribuciones, el inferior jerárquico de aquél será el facultado para iniciar el procedimiento respectivo, en términos de lo dispuesto en la ley de la materia.
+Tratándose de quejas o denuncias por responsabilidad administrativa del Contralor General, derivada de actos u omisiones presuntamente realizados en el ejercicio de sus atribuciones, el inferior jerárquico de aquél será el facultado para iniciar el procedimiento respectivo, en términos de lo dispuesto en la ley de la materia.
 
 ###### Artículo 75.
 
@@ -1464,7 +1704,9 @@ El servidor público afectado por las resoluciones de la Contraloría, podrá a 
 
 La Contraloría llevará el registro y seguimiento de las Declaraciones de Situación Patrimonial de los servidores públicos del Tribunal, que se encuentren obligados a presentarla.
 
-Tienen la obligación de presentar Declaración de Situación Patrimonial los Magistrados, Secretarios General y Administrativo, Director General Jurídico, Contralor, Subcontralor, Secretarios de Estudio y Cuenta, Directores de Área, Secretarios Auxiliares, Subdirectores, Investigadores, Jefes de Departamento, Coordinadores de Gestión, Asesores y todos aquellos servidores públicos cuyos ingresos sean homólogos o superiores a los anteriores.
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2009)</small>
+
+Tienen la obligación de presentar Declaración de Situación Patrimonial los Magistrados, Secretarios General y Administrativo, Director General Jurídico, Contralor General, Subcontralor, Secretarios de Estudio y Cuenta, Directores de Área, Secretarios Auxiliares, Subdirectores, Investigadores, Jefes de Departamento, Coordinadores de Gestión, Asesores y todos aquellos servidores públicos cuyos ingresos sean homólogos o superiores a los anteriores.
 
 ### CAPÍTULO II. Del régimen laboral de los trabajadores del Tribunal
 
@@ -1590,7 +1832,7 @@ Los nombramientos de los trabajadores también podrán darse por terminados, sin
 
 En este caso, el superior jerárquico deberá comunicar por escrito al servidor de la fecha y causa o causas de la terminación y demás consecuencias legales. Si el trabajador se negare a recibir el aviso de rescisión, el superior jerárquico deberá hacerlo del conocimiento del Secretario General para que éste, por conducto de la Oficina de Actuarios, practique su notificación.
 
-Para estos efectos, se entenderá por superior jerárquico al titular de la ponencia o área a la que se encuentre adscrito el trabajador. Tratándose del Secretario General, Secretario Administrativo, Contralor y Director General Jurídico, el superior jerárquico será el Pleno, en tanto que respecto a los titulares de las Coordinaciones y del Centro de Capacitación, lo será el Presidente.
+> <small>(REFORMADO [N. DE E. DEROGADO] ULTIMO PARRAFO, G.O. 28 DE ABRIL DE 2009)</small>
 
 ###### Artículo 86.
 
@@ -1646,9 +1888,13 @@ El procedimiento para determinar la no interposición por la causal prevista en 
 
 I. Recibido el escrito de desistimiento, se turnará al Magistrado que conozca del asunto;
 
-II. El Magistrado requerirá a la parte actora para que en un plazo, que no excederá de setenta y dos horas, lo ratifique, bajo apercibimiento que, de no hacerlo, tendrá por no ratificado el desistimiento y se resolverá en consecuencia, y
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2009)</small>
 
-III. Una vez ratificado el desistimiento, el Magistrado propondrá tener por no interpuesto el medio de impugnación y lo someterá a la consideración del Pleno para que dicte la sentencia correspondiente.
+II. El Magistrado requerirá a la parte actora para que en un plazo, que no excederá de setenta y dos horas, lo ratifique, bajo apercibimiento que, de no comparecer, se le tendrá por ratificado el desistimiento y se resolverá en consecuencia, y
+
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2009)</small>
+
+III. Una vez que se tenga por ratificado el desistimiento, el Magistrado propondrá tener por no interpuesto el medio de impugnación y lo someterá a la consideración del Pleno para que dicte la sentencia correspondiente.
 
 El mismo procedimiento se observará para el caso del sobreseimiento a que se refiere la fracción I del artículo 24 de la Ley Procesal Electoral.
 
@@ -1829,3 +2075,13 @@ Lo que certifico en ejercicio de la facultad prevista en los artículos 188, inc
 México, Distrito Federal, a veintiocho de marzo de dos mil ocho. DOY FE.
 
 (Firma)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 28 DE ABRIL DE 2009.
+
+PRIMERO.- Las presentes reformas al Reglamento Interior del Tribunal Electoral del Distrito Federal entrarán en vigor al día siguiente de su publicación en los estrados del Tribunal.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a las presentes reformas.
+
+TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados y en el sitio de Internet del Tribunal.
