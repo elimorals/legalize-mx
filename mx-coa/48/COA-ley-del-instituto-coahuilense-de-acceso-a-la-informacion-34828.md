@@ -4,7 +4,7 @@ identifier: "COA-ley-del-instituto-coahuilense-de-acceso-a-la-informacion-34828"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-04"
-last_updated: "2007-12-28"
+last_updated: "2009-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL INSTITUTO COAHUILENSE DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 4 de noviembre de 2003.
 
@@ -41,9 +41,11 @@ LEY DEL INSTITUTO COAHUILENSE DE ACCESO A LA INFORMACIÓN PÚBLICA
 
 ### CAPÍTULO PRIMERO. BASES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2009)</small>
+
 ###### ARTÍCULO 1°.
 
-EL ÁMBITO DE VALIDEZ DE LA LEY. Esta ley es de orden público y de observancia obligatoria en todo el régimen interior del estado, en materia de organización y funcionamiento del Instituto Coahuilense de Acceso a la Información Pública.
+EL OBJETO DE LA LEY. Esta ley tiene por objeto establecer las bases y lineamientos para la organización y funcionamiento del Instituto Coahuilense de Acceso a la Información Pública.
 
 Para los efectos de esta ley, este órgano se identificará como el Instituto.
 
@@ -57,17 +59,25 @@ EL OBJETO DEL INSTITUTO. El Instituto tendrá por objeto:
 
 I. Contribuir al desarrollo de la vida democrática y al fortalecimiento de las convicciones humanistas, sociales y democráticas del estado constitucional de derecho.
 
-II. Promover, fomentar y preservar el fortalecimiento democrático del derecho a la información pública.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2009)</small>
 
-III. Establecer las garantías necesarias para la protección del derecho a la intimidad de las personas.
+II. Promover, fomentar y fortalecer el ejercicio democrático de la transparencia, del derecho de acceso a la información pública y el de la protección de los datos personales.
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2009)</small>
+
+III. Establecer las garantías necesarias para la protección de los datos personales.
 
 IV. (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE ARCHIVOS PUBLICOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 25 DE MAYO DE 2007)
 
-V. Llevar a cabo la cultura de la transparencia informativa.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2009)</small>
+
+V. Promover, fomentar y difundir la cultura de la transparencia.
 
 VI. Promover la participación comunitaria y ciudadana en la materia.
 
-VII. Instrumentar el sistema de estadística, encuestas y sondeos.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2009)</small>
+
+VII. Instrumentar y coordinar la realización de las estadísticas, encuestas y sondeos que se lleven a cabo en el Estado.
 
 ###### ARTÍCULO 4°.
 
@@ -99,9 +109,11 @@ LA AUTONOMÍA POLÍTICA. El Instituto es un organismo político autónomo frente
 
 La competencia del Instituto se ejercerá por sus órganos, conforme a esta ley y su reglamentación propia. En ningún caso, la autonomía podrá ser vulnerada o restringida por los gobiernos federal, estatal o municipal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2009)</small>
+
 ###### ARTÍCULO 10.
 
-EL INSTITUTO COMO DEPOSITARIO DE LA FUNCIÓN DE LA MATERIA. El Instituto es el depositario de la autoridad en la materia dentro del régimen interior del estado, responsable del libre acceso a la información pública, la protección del derecho a la intimidad de las personas, la documentación pública, así como del sistema de estadística, encuestas y sondeos, en los términos de las disposiciones legales.
+EL. INSTITUTO COMO DEPOSITARIO DE LA AUTORIDAD EN LA MATERIA. El Instituto es el depositario de la autoridad en la materia dentro del régimen interior del Estado, responsable de la transparencia, el acceso a la información pública y la protección de los datos personales, así como de la realización de estadísticas, encuestas y sondeos en el Estado, en los términos de las disposiciones legales.
 
 El Instituto como autoridad, también se encargará de la promoción, difusión e investigación sobre el derecho a la información pública.
 
@@ -115,13 +127,23 @@ Para el desempeño de sus funciones, el Instituto contará con el apoyo, el auxi
 
 LA LEGITIMIDAD DE LAS CONTROVERSIAS Y ACCIONES DE INCONSTITUCIONALIDAD LOCALES. El Instituto podrá promover controversias constitucionales y acciones de inconstitucionalidad locales, en los términos que establece la Constitución y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
+
 ###### ARTÍCULO 13.
 
-LA FACULTAD DE PRESENTAR INICIATIVAS EN LA MATERIA. El Instituto, a través del Consejo General, podrá presentar iniciativas de leyes o decretos al Congreso del Estado en materia de acceso a la información pública; de protección del derecho a la intimidad de las personas; y de administración, conservación y preservación de la documentación pública.
+LA FACULTAD DE PRESENTAR INICIATIVAS EN LA MATERIA. El Instituto, a través del Consejo General, podrá, en todo momento, presentar iniciativas de leyes o decretos al Congreso del Estado en materia de:
 
-Igualmente, podrá presentar anteproyectos de normas generales o particulares ante entidades públicas obligadas a proporcionar la información pública, para que éstas regulen la materia, en el ámbito de su competencia, según las bases legales y reglamentarias que expida el Instituto conforme a esta ley.
+I. Transparencia.
 
-La facultad de las entidades públicas de reglamentar en su ámbito de competencia la materia que corresponda conforme a la ley, no limita ni restringe la facultad reglamentaria del Instituto que vinculará a dichas entidades.
+II. Acceso a la información pública.
+
+III. Protección de datos personales.
+
+IV. Estadística, encuestas y sondeos.
+
+Igualmente, podrá presentar anteproyectos de normas generales o particulares ante los sujetos obligados a proporcionar la información pública, para que éstos regulen la materia en el ámbito de su competencia, según las bases legales y reglamentarias que expida el Instituto conforme a esta ley.
+
+La facultad de los sujetos obligados de reglamentar en el ámbito de su competencia la materia que corresponda conforme a la ley, no limita ni restringe la facultad reglamentaria del Instituto que vinculará a dichos sujetos.
 
 #### SECCIÓN SEGUNDA. LA AUTONOMÍA JURÍDICA Y ADMINISTRATIVA
 
@@ -129,9 +151,17 @@ La facultad de las entidades públicas de reglamentar en su ámbito de competenc
 
 LA AUTONOMÍA JURÍDICA. El Instituto, a través del Consejo General, tiene la facultad de expedir reglamentos, acuerdos, circulares, políticas o cualquier otra disposición general o particular que sea necesaria para el desempeño de sus funciones y el ejercicio de los derechos en la materia.
 
-Los reglamentos y demás normas de carácter general o particular, serán de observancia obligatoria para las entidades públicas obligadas a proporcionar la información pública.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
 
-Todas las decisiones del Instituto vincularan a las entidades públicas, en los términos de las disposiciones aplicables.
+Los reglamentos y demás normas de carácter general o particular, serán de observancia obligatoria para los sujetos obligados a proporcionar la información pública.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
+
+Todas las decisiones del Instituto vincularán a los sujetos obligados en los términos del artículo 139 de la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2009)</small>
+
+El Instituto, a través de su Consejo General, podrá emitir recomendaciones en materia de transparencia, acceso a la información pública y protección de datos personales a todos los sujetos obligados, en los términos de las disposiciones legales aplicables.
 
 ###### ARTÍCULO 15.
 
@@ -141,9 +171,13 @@ LA AUTONOMÍA ADMINISTRATIVA. El Instituto, a través del Consejo General, tiene
 
 EL SISTEMA DE COOPERACIÓN EN LA MATERIA. El Instituto mediante convenio que celebre con el Instituto Federal de Acceso a la Información Pública u otra entidad pública federal, estatal o municipal, podrá asumir las funciones o servicios que en la materia le sean transferidas o delegadas, según su capacidad administrativa y financiera.
 
-Igualmente, el Instituto podrá transferir o delegar funciones a las entidades públicas sujetas a la obligación de proporcionar la información pública, para el mejor ejercicio de la función en la materia.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
 
-La transferencia o la delegación de funciones o servicios deberán programarse de manera gradual, a efecto de que el Instituto o la entidad pública puedan asumir con responsabilidad la función o servicio de que se trate.
+Igualmente, el Instituto podrá transferir o delegar funciones a los sujetos obligados, para el mejor ejercicio de la función en la materia.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
+
+La transferencia o la delegación de funciones o servicios deberán programarse de manera gradual, a efecto de que el Instituto o el sujeto obligado pueda asumir con responsabilidad la función o servicio de que se trate.
 
 #### SECCIÓN TERCERA. LA AUTONOMÍA FINANCIERA Y PRESUPUESTAL
 
@@ -209,11 +243,13 @@ II. El control de revisión y fiscalización que ejerza el Congreso del Estado d
 
 III. El control social de las personas físicas o morales, a través del ejercicio de la participación ciudadana y comunitaria en la toma de decisiones públicas en la materia.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
+
 ###### ARTÍCULO 24.
 
-EL INFORME ANUAL. El Instituto, a través de su Consejero Presidente, deberá rendir un informe por escrito ante el Congreso del Estado, sobre los trabajos realizados por el Instituto, a más tardar el quince de diciembre de cada año.
+EL INFORME ANUAL. El Instituto, a través de su Consejero Presidente, deberá presentar, a más tardar el quince de diciembre de cada año, un informe por escrito ante el Congreso del Estado sobre los trabajos realizados.
 
-Este informe se ordenará publicar en el Periódico Oficial del Gobierno del Estado.
+Rendido el informe ante el Congreso del Estado, lo remitirá al Periódico Oficial del Gobierno del Estado para su publicación.
 
 ## TÍTULO SEGUNDO. LA ORGANIZACIÓN Y EL FUNCIONAMIENTO DEL INSTITUTO
 
@@ -255,9 +291,11 @@ El Servicio Profesional de Acceso a la Información, es la base del funcionamien
 
 #### SECCIÓN PRIMERA. EL CONSEJO GENERAL
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
+
 ###### ARTÍCULO 30.
 
-EL CONSEJO GENERAL COMO AUTORIDAD MÁXIMA. El Consejo General, es el órgano superior de dirección del Instituto.
+EL CONSEJO GENERAL COMO AUTORIDAD MÁXIMA. El Consejo General es el órgano superior del Instituto.
 
 ###### ARTÍCULO 31.
 
@@ -265,77 +303,83 @@ EL OBJETO DEL CONSEJO GENERAL. El Consejo General del Instituto tiene por objeto
 
 I. Vigilar el cumplimiento de las disposiciones en la materia, e interpretar y aplicar las mismas.
 
-II. Garantizar que toda entidad sujeta a la ley de la materia cumpla con los principios de constitucionalidad, legalidad, certeza, independencia, imparcialidad y objetividad.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2007)</small>
+II. Garantizar que todo sujeto obligado por la ley de la materia cumpla con los principios de constitucionalidad, legalidad, certeza, independencia, imparcialidad y objetividad.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
 
 ###### ARTÍCULO 32.
 
-LA INTEGRACIÓN DEL CONSEJO GENERAL. El Consejo General se integrará por tres consejeros propietarios y tres suplentes.
+LA INTEGRACIÓN DEL CONSEJO GENERAL. El Consejo General del Instituto se integrará por cinco consejeros, los cuales serán designados por el Congreso del Estado en los términos de la presente ley y demás disposiciones aplicables. Los consejeros durarán en su encargo siete años, contados a partir de que surta efectos su designación.
+
+El Congreso del Estado designará a un suplente por cada consejero, el cual entrará en funciones en caso de ausencia definitiva de éste. En caso de ausencia temporal, se estará a lo dispuesto por el artículo 46 de esta ley.
+
+El Pleno del Congreso del Estado o la Diputación Permanente, en su caso, con el voto de por lo menos las dos terceras partes de los diputados presentes, podrá ratificar a uno o más consejeros, por una sola vez y con ciento veinte días naturales de anticipación a la fecha de conclusión del cargo, en cuyo caso no se llevará a cabo el procedimiento de designación a que se refiere el artículo siguiente. Al ratificar a uno o más consejeros, se estará ratificando a su suplente.
+
+El procedimiento de ratificación previsto en el párrafo anterior, procederá siempre y cuando lo solicite el Consejo General del Instituto ante el Congreso del Estado, por medio del acuerdo correspondiente. En caso de que este procedimiento no sea solicitado hasta un día antes de la fecha en que deba iniciar el mismo, se procederá al trámite de designación previsto en esta ley.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
 
 ###### ARTÍCULO 33.
 
 LA DESIGNACIÓN DE LOS CONSEJEROS. La designación de los consejeros del Instituto, se realizará bajo el siguiente procedimiento:
 
-I. El Pleno del Congreso del Estado procederá a realizar una convocatoria pública para que todo interesado tenga el derecho a participar en el procedimiento de designación de consejeros, a partir de las reglas previstas en este artículo.
+I. El Consejo General del Instituto emitirá una convocatoria pública para que cualquier ciudadano que aspire al cargo de consejero, pueda registrarse dentro del plazo de diez días naturales posteriores a la expedición de la misma.
 
-II. Hecha la convocatoria del Congreso del Estado, el Instituto Electoral y de Participación Ciudadana de Coahuila instrumentará el procedimiento de selección conforme a las bases siguientes:
+II. Concluido el plazo para el registro de los aspirantes al cargo de consejero, el Instituto, dentro de los cinco días naturales siguientes, emitirá un dictamen en el que señale el número de aspirantes registrados y determine quiénes cumplieron cantos requisitos exigidos en la presente ley, mismos que continuarán con el procedimiento de selección.
 
-1. El Instituto Electoral y de Participación Ciudadana de Coahuila, a través de una comisión integrada por tres consejeros electorales, señalará el lugar, el plazo para la presentación de las solicitudes, los contenidos temáticos del examen y demás requisitos que todo interesado tendrá que cubrir para presentar su solicitud.
+III. Los aspirantes que hayan acreditado los requisitos, deberán someterse a un examen escrito, teórico y práctico de conocimientos en la materia, el cual será aplicado por una universidad pública, la cual evaluará cada examen y remitirá los resultados al Consejo General del Instituto.
 
-2. Se señalarán, a través de la comisión, los documentos idóneos para acreditar los requisitos de elegibilidad para ser consejero.
+El examen se efectuará dentro de los diez días naturales siguientes a la fecha en que haya sido emitido el dictamen señalado en la fracción anterior. Una vez presentado el examen por los aspirantes, la universidad pública del Estado encargada de aplicar los mismos, los calificará y enviará al Instituto para la publicación de los resultados en los medios de comunicación con los que cuente el Instituto.
 
-3. El Instituto Electoral y de Participación Ciudadana de Coahuila elaborará, aplicará y calificará, a través de la comisión, un examen sobre los temas básicos de la materia. Para tal efecto, dicha comisión autorizará los contenidos temáticos del examen, el lugar, fecha y hora de su aplicación. Una vez calificados los exámenes, la comisión los enviará al Consejo de la Judicatura conforme la fracción siguiente.
+IV. Conocidos los resultados, el Instituto remitirá al Congreso del Estado los expedientes de los aspirantes que hubieren aprobado el examen, a fin de que este órgano legislativo, dentro de los siguientes diez días naturales, los convoque a comparecer en audiencia pública ante la Comisión de Gobernación y Puntos Constitucionales.
 
-4. Hecho lo anterior, el Instituto Electoral y de Participación Ciudadana de Coahuila, a través de la comisión, sistematizará cada una de las solicitudes, integrará los exámenes y enviará toda la documentación al Consejo de la Judicatura.
+V. Concluido el periodo de comparecencias, la Comisión de Gobernación y Puntos Constitucionales realizará la propuesta de aquellos aspirantes que cumplan con el perfil necesario para ser designados como consejeros, mediante el dictamen correspondiente, y lo presentará al Pleno del Congreso del Estado para su discusión y, en su caso, aprobación.
 
-III. El Consejo de la Judicatura dentro de los treinta días hábiles siguientes a la recepción de las solicitudes, procederá a lo siguiente:
-
-1. Dictaminar la procedencia de los requisitos de elegibilidad de cada uno de los interesados, debiendo fundar y motivar su calificación, en cada una de las solicitudes.
-
-2. Enviar el dictamen al Pleno del Congreso del Estado sobre cada solicitud, en donde se determinará la calificación legal de cada expediente con sus documentos y el examen correspondiente calificado por la comisión respectiva del órgano electoral.
-
-IV. Las determinaciones de la comisión del órgano electoral y del Consejo de la Judicatura conforme al procedimiento a que se refieren las fracciones anteriores, serán definitivas e inatacables.
-
-V. Entre la lista de los aspirantes integrados conforme al dictamen del Consejo de la Judicatura, cada una de las fracciones parlamentarias realizará su propuesta de consejeros a la Comisión de Gobernación y Puntos Constitucionales del Congreso del Estado, dentro de los tres días hábiles siguientes de haber recibido dicho dictamen del Consejo de la Judicatura.
-
-VI. La Comisión de Gobernación y Puntos Constitucionales del Congreso del Estado, se reunirá para elaborar un dictamen en donde propondrá tres consejeros propietarios y tres consejeros suplentes.
-
-VII. El Congreso del Estado, con base en el dictamen de la Comisión de Gobernación y Puntos Constitucionales, designará a los consejeros mediante el voto de las dos terceras partes de los diputados integrantes del Congreso del Estado.
-
-VIII. En caso de que no se obtenga la votación calificada, el Congreso del Estado solicitará de nueva cuenta a la Comisión de Gobernación y Puntos Constitucionales, que elabore una nueva propuesta de dictamen, en forma parcial o total, según se acuerde.
-
-> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2007)</small>
-
-IX. El Congreso del Estado, podrá convocar al Instituto Electoral y de Participación Ciudadana para decidir, por el voto de las dos terceras partes de los diputados presentes, la posible ratificación de los consejeros que se encuentren en funciones, para lo cual tomará en consideración el desempeño durante el encargo.
+VI. Las dos terceras partes de los diputados presentes, aprobarán o rechazarán el dictamen que se les presente; en caso de no obtenerse la votación requerida, la Comisión de Gobernación y Puntos Constitucionales presentará nueva lista de candidatos hasta obtener la aprobación correspondiente.
 
 ###### ARTÍCULO 34.
 
 LOS REQUISITOS PARA SER CONSEJEROS. Para ser designado consejero del Instituto, se deberán cumplir los requisitos siguientes:
 
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2009)</small>
 
-II. Contar por lo menos con veinticinco años al día de la designación.
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles.
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2009)</small>
+
+II. Contar por lo menos con veintisiete años al día de la designación.
 
 III. Contar con título profesional de licenciatura en general.
 
-IV. De preferencia tener conocimientos y experiencia en la materia, de preferencia con estudios de posgrado.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2009)</small>
+
+IV. Tener conocimientos en materia de transparencia, acceso a la información, protección de datos personales o cualquier materia afín.
 
 V. No haber desempeñado un cargo de elección popular federal, estatal o municipal, durante los últimos cinco años inmediatos a la fecha de su designación.
 
-VI. No haber desempeñado el cargo de Secretario de la Administración Pública Estatal, Procurador General de Justicia o Director General de una entidad paraestatal, durante los últimos cinco años inmediatos a la fecha de su designación.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2009)</small>
+
+VI. No haber desempeñado el cargo de Secretario o Subsecretario de la Administración Pública Estatal, de Fiscal General o especializado, o de Director General de una entidad paraestatal o paramunicipal durante los últimos cinco años inmediatos a la fecha de su designación.
 
 VII. No haber sido dirigente de un comité directivo, ejecutivo o equivalente de un partido político a nivel nacional, estatal o municipal, ni ministro de ningún culto religioso, durante los últimos cinco años inmediatos a la fecha de su designación.
 
 VIII. No tener antecedentes de una militancia activa o pública y notoria en algún partido político, cuando menos cinco años antes de su designación.
 
-IX. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión de más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2007)</small>
+IX. No haber desempeñado el cargo de Magistrado del Poder Judicial del Estado ni el de Director General del Instituto de Especialización Judicial durante los últimos cinco años inmediatos a la fecha de su designación.
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2009)</small>
+
+X. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión de más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
 
 ###### ARTÍCULO 35.
 
-LA TOMA DE PROTESTA DE LOS CONSEJEROS. Los consejeros rendirán la protesta de ley ante el Congreso del Estado, o en sus recesos, ante la Diputación Permanente, y durarán en su encargo siete años a partir del día en que surta efectos su designación, podrán ser reelectos por una sola vez para un periodo igual, en los términos previstos por el artículo 33 de ésta ley.
+LA TOMA DE PROTESTA DE LOS CONSEJEROS. Los consejeros y sus suplentes rendirán la protesta de ley ante el Congreso del Estado o, en sus recesos, ante la Diputación Permanente.
 
 ###### ARTÍCULO 36.
 
@@ -353,17 +397,21 @@ LAS SESIONES ORDINARIAS Y EXTRAORDINARIAS. El Consejo General celebrará sesione
 
 EL DESARROLLO DE LAS SESIONES. Las sesiones del Consejo General se sujetarán a las reglas siguientes:
 
-I. Serán públicas.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2009)</small>
+
+I. Serán públicas, salvo aquellas en las que se ventilen asuntos que involucren la protección de datos personales, en cuyo caso, sólo deberán hacerse públicos los asuntos tratados cuando no contravengan las disposiciones en la materia.
 
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 2007)</small>
 
-II. Serán válidas cuando se integre el quórum con la mayoría de los Consejeros;
+II. Serán válidas cuando se integre el quórum con la mayoría de los Consejeros.
 
 III. Podrán concurrir, con voz pero sin voto, el Director General y el Secretario Técnico.
 
 IV. De toda sesión, se levantará el acta respectiva a través del Secretario Técnico. Las actas deberán contener una síntesis del asunto a tratar y el punto acordado. Las actas se resguardarán en el archivo del Instituto, por conducto de la Secretaría Técnica.
 
-V. El Secretario Técnico al inicio de cada sesión, leerá el acta de la sesión anterior para su aprobación. La misma deberá ser autorizada con las firmas del consejero presidente o de quien legalmente deba suplirlo y del propio Secretario Técnico.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2009)</small>
+
+V. El Secretario Técnico al inicio de cada sesión, leerá el acta de la sesión anterior para su aprobación. Una vez aprobada, deberá ser autorizada con las firmas del Consejero Presidente o de quien legalmente deba suplirlo y del propio Secretario Técnico.
 
 VI. Se dará curso a los asuntos listados en el orden del día o de aquellos que requieran la intervención del Consejo General.
 
@@ -395,21 +443,29 @@ I. En materia de administración y gobierno interno:
 
 3. Establecer la integración, organización, funcionamiento y atribuciones de las Comisiones del Instituto que establezca esta ley o que cree el Consejo General, para el debido funcionamiento del Instituto.
 
-4. Designar a los servidores públicos a su cargo, salvo el personal de la presidencia.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
 
-5. Elaborar el informe anual que rendirá ante el Pleno del Congreso del Estado.
+4. Designar a los servidores públicos del Instituto.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
+
+5. Aprobar el informe anual que deberá presentar por escrito el Consejero Presidente ante el Congreso del Estado.
 
 6. Establecer un sistema interno de rendición de cuentas claras, transparentes y oportunas, así como garantizar el acceso a la información pública dentro del Instituto en los términos de la ley.
 
-7. Requerir, recibir, analizar y sistematizar los informes que deberán enviarle las entidades públicas sobre la materia.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
 
-8. Fijar el orden de prelación de los consejeros suplentes para efectos de las ausencias definitivas o temporales de los propietarios.
+7. Requerir, recibir, analizar y sistematizar los informes que deberán enviarle los sujetos obligados sobre la materia.
+
+8. (DEROGADO, P.O. 28 DE ABRIL DE 2009)
 
 9. Dirimir cualquier tipo de conflicto competencial entre los órganos del Instituto, resolviendo en definitiva.
 
 10. Aprobar el proyecto de presupuesto anual de egresos del Instituto, a efecto de que el Consejero Presidente lo envíe al Ejecutivo del Estado para los efectos correspondientes.
 
-11. Ordenar publicar en el Periódico Oficial del Gobierno del Estado los reglamentos, acuerdos y demás actos que por su importancia requieran difusión.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
+
+11. Instruir al Secretario Técnico para que remita al Periódico Oficial del Gobierno del Estado los reglamentos, acuerdos y demás actos que de acuerdo a la ley o por su importancia requieran su publicación.
 
 12. Las demás que resulten necesarias para la administración y gobierno interno del Instituto.
 
@@ -417,35 +473,37 @@ II. En materia normativa:
 
 1. Vigilar el cumplimiento de las disposiciones constitucionales y legales en la materia, así como dictar las normas y previsiones destinadas a hacer efectivas tales disposiciones.
 
-2. Aprobar, a propuesta del presidente o de una comisión, los reglamentos siguientes:
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
 
-a) El Interior del Instituto.
+2. Aprobar, a propuesta del Presidente del Consejo General, de una Comisión, del Director General o del Secretario Técnico, los reglamentos, lineamientos, políticas y demás normas que resulten necesarias para el funcionamiento del Instituto y que sean de su competencia en términos de la presente ley.
 
-b) El de Acceso a la Información Pública.
+3. (DEROGADO, P.O. 28 DE ABRIL DE 2009)
 
-c) El de la Protección del Derecho a la Intimidad de las Personas.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
 
-d) (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE ARCHIVOS PUBLICOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 25 DE MAYO DE 2007)
+4. Tramitar y resolver los recursos que, en la materia, interpongan las personas.
 
-e) El de Medios de Impugnación en Materia de Acceso a la Información Pública.
+5. (DEROGADO, P.O. 28 DE ABRIL DE 2009)
 
-f) El del Servicio Profesional de Acceso a la Información Pública.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
 
-3. Expedir los demás reglamentos, normas generales o particulares, circulares o lineamientos generales en la materia, que serán de observancia obligatoria en el régimen interior del estado, para todas las entidades públicas y particulares.
+6. Vigilar y evaluar el cumplimiento de la garantía de la información pública mínima y demás obligaciones de transparencia, así como emitir las recomendaciones en la materia.
 
-4. Dar trámite y resolver las acciones y recursos que, en la materia, interpongan las personas, previa instrucción del consejero presidente, o en su defecto, de una comisión del Instituto.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
 
-5. Establecer las disposiciones necesarias para que las entidades sujetas a proporcionar información pública, realicen la clasificación, desclasificación, administración, archivo y resguardo de la información pública, reservada y confidencial que corresponda.
+7. Establecer las garantías necesarias para el acceso a la información pública, la protección de los datos personales y demás atribuciones en la materia.
 
-6. Vigilar y requerir el cumplimiento de la garantía de la información pública mínima, conforme a la ley de la materia.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
 
-7. Establecer las garantías necesarias para el acceso a la información pública, la protección del derecho a la intimidad de las personas, los archivos públicos y demás atribuciones en la materia.
-
-8. La definición de los grupos vulnerables para la protección prevalente del derecho a la intimidad.
+8. Definir los grupos vulnerables para la protección de los datos personales especialmente protegidos.
 
 9. Aprobar las iniciativas de leyes o decretos en la materia, para después presentarlas al Congreso por conducto de su Consejero Presidente.
 
 10. Promover controversias y acciones constitucionales locales en la materia.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2009)</small>
+
+11. Establecer los lineamientos básicos para la realización de encuestas y sondeos públicos o de participación gubernamental que garanticen la transparencia y legitimidad de los resultados.
 
 III. En materia de relaciones intergubernamentales:
 
@@ -459,7 +517,9 @@ III. En materia de relaciones intergubernamentales:
 
 5. Promover lo (sic) colaboración interinstitucional en la materia bajo los principios de fidelidad estatal y municipal.
 
-IV. En materia de acceso a la información pública:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2009)</small>
+
+IV. En materia de acceso a la información pública y transparencia:
 
 1. Dictar las providencias y medidas necesarias para salvaguardar el derecho de acceso a la información pública.
 
@@ -467,35 +527,59 @@ IV. En materia de acceso a la información pública:
 
 3. Cumplir y hacer cumplir los principios en la materia.
 
-4. Emitir las resoluciones, recomendaciones y políticas que correspondan para que las entidades públicas cumplan con el derecho ciudadano a acceder a la información pública.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
+
+4. Emitir las resoluciones y recomendaciones que correspondan para que los sujetos obligados cumplan con el derecho ciudadano a acceder a la información pública.
 
 5. Elaborar los formatos utilizados para el ejercicio del derecho de acceso a la información.
 
-6. Sancionar a los servidores públicos por violación al derecho de acceso a la información pública, en los términos de la ley de la materia.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
+
+6. Determinar y hacer del conocimiento de los órganos internos de control de los sujetos obligados, la posible existencia de alguna responsabilidad administrativa por violación a la ley de la materia.
 
 7. Ejercer las demás facultades previstas en la ley de la materia, para salvaguardar el acceso a la información pública.
 
-V. En materia de protección del derecho a la intimidad de las personas:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2009)</small>
 
-1. Establecer las normas y políticas para la administración, seguridad y resguardo de los datos personales en protección de las entidades públicas.
+V. En materia de protección de datos personales:
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
+
+1. Establecer las normas y políticas para la administración, seguridad y resguardo de los datos personales en posesión de los sujetos obligados.
 
 2. Cumplir y hacer cumplir los principios y normas en la materia.
 
-3. Elaborar los formatos utilizados para el ejercicio de la acción para proteger el derecho a la intimidad de las personas y demás acciones legales que correspondan en la materia.
+REFORMADO, P.O. 28 DE ABRIL DE 2009)
+
+3. Elaborar los formatos utilizados para el ejercicio de los derechos de acceso, rectificación, cancelación u oposición.
 
 4. Emitir las reglas, criterios o lineamientos necesarios para el adecuado tratamiento de los datos personales.
 
-5. Ejercer las demás facultades previstas en la ley de la materia, para la protección del derecho a la intimidad de las personas.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
+
+5. Resolver los recursos de revisión en materia de protección de datos personales.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2009)</small>
+
+6. Ejercer las demás facultades previstas en la ley de la materia, para la protección de los datos personales.
 
 VI. (DEROGADA POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE ARCHIVOS PUBLICOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 25 DE MAYO DE 2007)
 
-VII. En materia de cultura de la transparencia informativa:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2009)</small>
 
-1. Promover de manera permanente la cultura de la transparencia informativa.
+VII. En materia de cultura de la transparencia, acceso a la información y protección de datos personales:
 
-2. Promover la capacitación, actualización y habilitación de los servidores públicos responsables de la protección del derecho a la intimidad de las personas y de la documentación pública.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
 
-3. Elaborar guías que expliquen de manera sencilla, los procedimientos y trámites que de acuerdo con la presente ley, tengan que realizarse ante las entidades y el Instituto.
+1. Promover de manera permanente la cultura de la transparencia, del acceso a la información pública y de la protección de datos personales.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
+
+2. Promover la capacitación, actualización y habilitación de los servidores públicos en materia de transparencia, acceso a la información pública y protección de los datos personales.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
+
+3. Elaborar guías que expliquen de manera sencilla, los procedimientos y trámites que de acuerdo con la ley de la materia, tengan que realizarse ante los sujetos obligados y el Instituto.
 
 4. Promover que en los programas y planes de estudio, libros y materiales que se utilicen en las instituciones educativas de todos los niveles y modalidades, se incluyan contenidos y referencias a los derechos tutelados en la materia.
 
@@ -503,7 +587,9 @@ VII. En materia de cultura de la transparencia informativa:
 
 6. Orientar y auxiliar a las personas para ejercer los derechos en la materia.
 
-7. Las demás que resulten necesarias para fomentar la cultura de la transparencia informativa.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
+
+7. Las demás que resulten necesarias para fomentar la cultura de la transparencia, del acceso a la información pública y de la protección de datos personales.
 
 VIII. En materia de participación comunitaria y ciudadana:
 
@@ -517,9 +603,17 @@ VIII. En materia de participación comunitaria y ciudadana:
 
 IX. En materia de estadística, encuestas y sondeos:
 
-1. Establecer las normas para la realización de las estadísticas, sondeos y encuestas que se requieran, y que garanticen la imparcialidad, objetividad, transparencia, confiabilidad, periodicidad, oportunidad e independencia de las mismas.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
 
-2. Diseñar, instrumentar y evaluar el Sistema de Estadísticas, Sondeos y Encuestas.
+1. Establecer las normas para la realización de estadísticas, sondeos y encuestas de participación gubernamental, y que garanticen la imparcialidad, objetividad, transparencia, confiabilidad, periodicidad, oportunidad e independencia de las mismas.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
+
+2. Diseñar e instrumentar estadísticas, encuestas y sondeos dentro del Estado, conforme a las necesidades del servicio y los recursos presupuestales autorizados.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2009)</small>
+
+3. Colaborar y coordinar con otras instituciones públicas o privadas la elaboración de estadísticas, encuestas y sondeos en el Estado, conforme a las necesidades del servicio y los recursos presupuesta les autorizados.
 
 X. Las demás que le confiera esta ley u otras disposiciones legales aplicables.
 
@@ -527,9 +621,13 @@ X. Las demás que le confiera esta ley u otras disposiciones legales aplicables.
 
 LAS FACULTADES DE LOS CONSEJEROS. Los consejeros tendrán las siguientes atribuciones:
 
-I. Velar por la efectividad del derecho a la información pública, la protección del derecho a la intimidad de las personas y la documentación pública.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2009)</small>
 
-II. Promover, supervisar y participar en los programas de transparencia informativa.
+I. Velar por la efectividad del derecho de acceso a la información pública y el de la protección de los datos personales.
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2009)</small>
+
+II. Promover, supervisar y participar en los programas de cultura de la transparencia, del acceso a la información pública y de la protección de datos personales.
 
 III. Orientar a los ciudadanos en el ejercicio de sus derechos en la materia.
 
@@ -565,41 +663,49 @@ APARTADO TERCERO
 
 EL RÉGIMEN DE AUSENCIAS DEL CONSEJO GENERAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
 
 ###### ARTÍCULO 46.
 
-LAS AUSENCIAS TEMPORALES O DEFINITIVAS. En caso de ausencia temporal o definitiva de algún consejero, el Consejo General llamará al consejero suplente que corresponda, según el orden de prelación, para que desempeñe la función en forma temporal o definitiva, según se trate.
+LAS AUSENCIAS TEMPORALES O DEFINITIVAS. En caso de ausencia definitiva de algún consejero, el Consejo General llamará al consejero suplente que corresponda, para que desempeñe la función en forma definitiva. En el caso de ausencia temporal, el Consejo General decidirá sobre la procedencia o no de la suplencia.
 
-Por ausencia temporal se entenderá toda aquella que no exceda de quince días hábiles o por separación provisional de su cargo, previo permiso o licencia del Consejo General. Por ausencia definitiva se entenderá toda aquella que impida definitivamente que el consejero propietario pueda seguir ejerciendo su función, por renuncia, remoción definitiva del cargo, ausencia definitiva o cualquier otra causa grave justificada.
+Por ausencia definitiva se entenderá toda aquella que impida que el consejero pueda seguir ejerciendo su función, tales como la renuncia, remoción del cargo impuesta por autoridad competente, incapacidad mental permanente o muerte, o cuando sobrevenga una causa de las que impide la designación de consejeros.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2007)</small>
+Por ausencia temporal se entenderá toda aquella que impida al consejero ejercer su función por un plazo no mayor a un mes, o por un plazo mayor, cuando sea autorizada por el Consejo General y medie causa justificada.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
 
 ###### ARTÍCULO 47.
 
-LAS AUSENCIAS DEL PRESIDENTE. Las ausencias temporales del Consejero Presidente las suplirá el consejero propietario que designe el Consejo General.
+LAS AUSENCIAS DEL PRESIDENTE. Las ausencias temporales del consejero presidente las suplirá el consejero en funciones que designe el Consejo General, de conformidad con esta ley.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
 
 ###### ARTÍCULO 48.
 
-LA AUSENCIA DEFINITIVA. Se considerará ausencia definitiva, la inasistencia consecutiva y, sin causa justificada, de algún consejero propietario a tres sesiones agendadas y previamente notificadas.
+LA INASISTENCIA CONSECUTIVA A SESIONES DEL CONSEJO GENERAL. Se considerará también ausencia definitiva, la inasistencia consecutiva y sin causa justificada, de algún consejero a tres sesiones agendadas y previamente notificadas personalmente.
 
 #### SECCIÓN SEGUNDA. LA PRESIDENCIA DEL CONSEJO GENERAL
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2009)</small>
 
 ###### ARTÍCULO 49.
 
-EL PRESIDENTE DEL INSTITUTO. Los consejeros nombrarán por voto secreto y por mayoría de votos al Presidente del Consejo General, que lo será también del Instituto por el periodo de dos años, pudiendo ser ratificado por un periodo igual o en su caso, durante todo el tiempo reste de su periodo como consejero, en caso de ser menor a dos años.
+EL PRESIDENTE DEL INSTITUTO Y DEL CONSEJO GENERAL. Los consejeros nombrarán por voto secreto y por mayoría de votos al Presidente del Consejo General, que lo será también del Instituto por un periodo de dos años, pudiendo ser ratificado por un periodo igual. En caso de que el periodo que le reste al consejero sea menor de dos años, podrá ser elegido o ratificado, y durará como Presidente el tiempo que le reste como consejero.
 
 En caso de ausencia definitiva del Presidente, los consejeros nombrarán de nueva cuenta y de entre ellos mismos, a quien deba sustituirlo. Para la duración del encargo, se estará a lo previsto en el párrafo anterior.
 
 La designación del Consejero Presidente se comunicará de inmediato para su conocimiento a los Poderes del Estado y a los organismos públicos autónomos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2009)</small>
+
 ###### ARTÍCULO 50.
 
-LAS FACULTADES DEL PRESIDENTE DEL INSTITUTO. La Presidencia del Consejo General tendrá las atribuciones siguientes:
+LAS FACULTADES DEL PRESIDENTE DEL CONSEJO GENERAL. La Presidencia del Consejo General tendrá las atribuciones siguientes:
 
-I. Representar legalmente al Instituto ante cualquier autoridad federal, estatal o municipal.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2009)</small>
+
+I. Representar legalmente al Instituto ante cualquier entidad pública o privada.
 
 II. Velar por la unidad de las actividades de los órganos del Instituto.
 
@@ -607,13 +713,17 @@ III. Establecer los vínculos necesarios entre el Instituto y el Instituto Feder
 
 IV. Convocar y conducir las sesiones del Consejo General.
 
-V. Instruir los asuntos, procedimientos y recursos de competencia del Consejo General hasta ponerlos en estado de resolución.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2009)</small>
 
-VI. Dictar las medidas de salvaguarda para proteger el derecho a la intimidad de las personas, en caso de extrema urgencia.
+V. Vigilar, por conducto de la Secretaria Técnica, que los asuntos, procedimientos y recursos de la competencia del Consejo General, se tramiten hasta ponerlos en estado de resolución en los términos de las leyes respectivas.
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2009)</small>
+
+VI. Dictar las medidas de salvaguarda para proteger los datos personales, en caso de extrema urgencia.
 
 VII. Vigilar el cumplimiento de los acuerdos adoptados por el propio Consejo General.
 
-VIII. Proponer al Consejo General, el nombramiento del Director General y del Secretario Técnico del Instituto.
+VIII. (DEROGADA, P.O. 28 DE ABRIL DE 2009)
 
 IX. Proponer anualmente al Consejo General, el anteproyecto de presupuesto de egresos del Instituto para su aprobación.
 
@@ -625,39 +735,75 @@ XII. Ejercer, previo acuerdo del Consejo General, actos de dominio.
 
 XIII. Rendir los informes ante las autoridades competentes, en representación del Consejo General o del Instituto.
 
-XIV. Otorgar poderes generales y especiales para actos de administración y pleitos y cobranzas, de conformidad con la ley.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2009)</small>
 
-XV. Emitir los acuerdos necesarios para el funcionamiento interno de la presidencia.
+XIV. Otorgar poderes generales y especiales para pleitos y cobranzas y actos de administración, con todas las facultades generales y especiales, incluso las que requieran cláusula especial conforme a la ley. Para el otorgamiento de poderes generales o especiales para actos de dominio y con facultades cambiarias, deberá contar con la autorización del Consejo General del Instituto.
 
-XVI. Nombrar y remover libremente al personal de confianza y de base adscrito a la propia Presidencia, conforme a las disposiciones aplicables.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2009)</small>
+
+XV. Emitir los acuerdos que sean necesarios para la rápida y eficaz realización y desarrollo de sus atribuciones.
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2009)</small>
+
+XVI. Otorgar los nombramientos del personal del Instituto que el Consejo General designe.
 
 XVII. Las demás que le confiera esta ley u otras disposiciones aplicables.
 
-#### SECCIÓN TERCERA. LAS COMISIONES DEL CONSEJO GENERAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE ABRIL DE 2009)</small>
+
+#### SECCIÓN TERCERA. LAS COMISIONES DEL INSTITUTO
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
 
 ###### ARTÍCULO 51.
 
-LAS COMISIONES DEL CONSEJO GENERAL. El objeto de las comisiones radica en la función dictaminadora de los asuntos de su competencia, a efecto de someter su proyecto de dictamen al Consejo General, para que éste decida lo que proceda.
+LAS COMISIONES DEL INSTITUTO. El objeto de las Comisiones radica en la función dictaminadora de los asuntos de su competencia, a efecto de someter su proyecto de dictamen al Consejo General, para que éste decida lo que proceda.
+
+El Consejo General del Instituto contará con, cuando menos, las siguientes Comisiones:
+
+I. Comisión de Administración.
+
+II. Comisión de Asuntos Jurídicos.
+
+III. Comisión de Datos Personales.
+
+IV. Comisión de Promoción de la Cultura de la Transparencia.
+
+V. Comisión de Vigilancia, Evaluación y Disciplina.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
 
 ###### ARTÍCULO 52.
 
-LAS FACULTADES DE LAS COMISIONES DEL CONSEJO GENERAL. Las comisiones tendrán la integración, organización, competencia y las atribuciones que se establezcan en el reglamento u otras disposiciones generales aplicables.
+INTEGRACIÓN DE LAS COMISIONES DEL INSTITUTO. Las Comisiones descritas en el artículo anterior, se integrarán con:
 
-En todo caso, las comisiones se integrarán por lo menos con dos consejeros, el Director General o el Secretario Técnico, según lo acuerde el Consejo General.
+I. Dos Consejeros.
 
-El Consejo General podrá delegar funciones a las comisiones.
+II. El titular de la Dirección General o el Secretario Técnico, según lo acuerde el Consejo General.
+
+II. El titular de la Dirección o área correspondiente, según la Comisión de que se trate.
+
+Cada Comisión contará con un presidente, que será uno de los Consejeros que la integre, el cual tendrá voto de calidad. En el caso de la Comisión de Administración, el Presidente del Consejo General del Instituto deberá formar parte de la misma y ocupará el cargo de Presidente de dicha Comisión.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
 
 ###### ARTÍCULO 53.
 
-EL PERSONAL DE LAS COMISIONES. Las comisiones del Consejo General contarán con el auxilio del personal necesario para cumplir su función, previo acuerdo del Consejo General y con arreglo a la disponibilidad presupuestal del Instituto.
+FACULTADES DEL CONSEJO GENERAL PARA CREAR COMISIONES. El Consejo General del Instituto podrá crear y desintegrar las comisiones que juzgue conveniente para el eficaz cumplimiento de los objetivos del Instituto, dotándolas de las atribuciones que resulten necesarias.
 
-En todo caso, el personal que integre cada una de las comisiones deberá ser profesional y especializado en la materia u objeto de la comisión.
+El Consejo General determinará la integración, organización y competencia de cada comisión, sujetándose en todo momento a las reglas básicas que señala el presente ordenamiento para las comisiones del Instituto.
+
+Las comisiones contarán con el auxilio del personal necesario para cumplir su función, previo acuerdo del Consejo General, y con arreglo a la disponibilidad presupuestal del Instituto. En todo caso, el personal que integre cada una de las comisiones deberá ser profesional y especializado en la materia u objeto de la comisión.
+
+El Consejo General podrá delegar en las comisiones las funciones que estime pertinentes.
 
 #### SECCIÓN CUARTA. LA DIRECCIÓN GENERAL
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
+
 ###### ARTÍCULO 54.
 
-EL DIRECTOR GENERAL. El titular de la Dirección General será nombrado y removido libremente por el Consejo General del Instituto, a propuesta del consejero presidente.
+LA DIRECCIÓN GENERAL. El titular de la Dirección General será nombrado y removido libremente por el Consejo General del Instituto por mayoría de votos en términos de esta Ley, a propuesta de cualquiera de los miembros del Consejo General del Instituto.
 
 ###### ARTÍCULO 55.
 
@@ -671,11 +817,15 @@ III. Someter al conocimiento y, en su caso, a la aprobación del Consejo General
 
 IV. Ejecutar e implementar las providencias necesarias para la atención de aquellos asuntos del Instituto que, por su naturaleza o urgencia, así lo requieran. Cuando se trate de asuntos que correspondan a la competencia del Consejo General, lo hará del conocimiento inmediato del Consejero Presidente para que lo instruya al respecto.
 
-V. Proponer al Consejo General, previo acuerdo con el Consejero Presidente, la estructura de las comisiones y demás órganos administrativos del Instituto, conforme a las necesidades del servicio y los recursos presupuestales autorizados.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2009)</small>
+
+V. Proponer al Consejo General la designación o nombramiento de los servidores públicos del Instituto, con excepción del Secretario Técnico, así como la estructura de los órganos administrativos del Instituto, conforme a las necesidades del servicio y los recursos presupuestales autorizados.
 
 VI. Coordinar el funcionamiento técnico de los órganos del Instituto y supervisar el adecuado desarrollo de sus actividades.
 
-VII. Formular y presentar, previo acuerdo con el Consejero Presidente, a la aprobación del Consejo General, los proyectos de reglamentos y demás disposiciones generales o particulares.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2009)</small>
+
+VII. Formular y presentar, a la aprobación del Consejo General, los proyectos de reglamentos y demás disposiciones generales o particulares que considere necesarias para la buena administración del instituto.
 
 VIII. Llevar a cabo los programas de reclutamiento, selección, formación y desarrollo del personal profesional del Instituto.
 
@@ -687,13 +837,21 @@ XI. Proveer a los órganos del Instituto, los elementos necesarios para el cumpl
 
 XII. Elaborar, de conformidad con las disposiciones aplicables, el proyecto del presupuesto anual de egresos del Instituto, a fin de que el Consejero Presidente, una vez que lo haya autorizado el Consejo General, lo presente al titular del Ejecutivo del Estado, para que éste lo someta a la consideración y, en su caso, aprobación del Congreso Estatal.
 
-XIII. Las demás que le confiera esta ley u otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2009)</small>
+
+XIII. Ejercer, en coordinación con el Presidente del Consejo y las áreas internas del Instituto encargadas de la administración, las partidas presupuestales aprobadas.
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2009)</small>
+
+XIV. Las demás que le confiera esta ley u otras disposiciones aplicables.
 
 #### SECCIÓN QUINTA. LA SECRETARÍA TÉCNICA
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
+
 ###### ARTÍCULO 56.
 
-LA SECRETARÍA TÉCNICA. El titular de la Secretaría Técnica será nombrado y removido libremente por el Consejo General, a propuesta del Consejero Presidente.
+LA SECRETARÍA TÉCNICA. El titular de la Secretaría Técnica será nombrado y removido libremente por el Consejo General por mayoría de votos, en términos de esta Ley, a propuesta de cualquiera de los miembros del Consejo General del Instituto.
 
 ###### ARTÍCULO 57.
 
@@ -719,7 +877,9 @@ IX. Informar al Consejo General sobre el cumplimiento de los acuerdos que haya d
 
 X. Llevar el archivo del Instituto.
 
-XI. Expedir, previa autorización del consejero presidente, copias certificadas de las constancias que obren en los archivos del Instituto.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2009)</small>
+
+XI. Expedir certificaciones de las constancias que obren en los archivos del Instituto, siempre que no contravengan las disposiciones en materia de protección de datos personales.
 
 XII. Proveer lo necesario a fin de que se hagan oportunamente las publicaciones que ordena la ley correspondiente u otras disposiciones aplicables, así como las que disponga el Consejo General.
 
@@ -729,9 +889,17 @@ XIV. Elaborar los proyectos de dictámenes que la ley aplicable, el Consejo Gene
 
 XV. Recibir y tramitar en los términos de las disposiciones aplicables, los medios de impugnación que se interpongan en contra de los actos o resoluciones que emita el Instituto.
 
-XVI. Tramitar y dar causa, a las promociones, quejas o recursos presentados ante el Instituto en los términos establecidos en la ley de la materia.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2009)</small>
 
-XVII. Las demás que le confiera esta ley u otras disposiciones aplicables.
+XVI. Recibir, tramitar y dar causa a las promociones, quejas o recursos presentados ante el Instituto en los términos establecidos en la ley de la materia.
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2009)</small>
+
+XVII. Formular y presentar a la aprobación del Consejo General, los proyectos de reglamentos y demás disposiciones generales o particulares que considere necesarias para la buena administración del Instituto.
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2009)</small>
+
+XVIII. Las demás que le confiera esta ley u otras disposiciones aplicables.
 
 #### SECCIÓN SEXTA. LA COMISIÓN DE VIGILANCIA, EVALUACIÓN Y DISCIPLINA
 
@@ -739,7 +907,19 @@ XVII. Las demás que le confiera esta ley u otras disposiciones aplicables.
 
 LA COMISIÓN DE VIGILANCIA, EVALUACIÓN Y DISCIPLINA. La Comisión de Vigilancia, Evaluación y Disciplina es el órgano de control interno del Instituto encargado de inspeccionar, supervisar y sancionar la función de todo el personal del Instituto.
 
-Se integrará por dos consejeros y por el Director General. De entre ellos, elegirán a un presidente, que coordinará los trabajos de la comisión.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
+
+La Comisión de Vigilancia, Evaluación y Disciplina se integrará con:
+
+I. Dos Consejeros.
+
+II. El Director General.
+
+III. Un servidor público del Instituto designado por el Consejo General.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2009)</small>
+
+El Consejero Presidente no podrá, por ningún motivo, formar parte de esta comisión.
 
 ###### ARTÍCULO 59.
 
@@ -799,9 +979,11 @@ Las sanciones correspondientes se aplicarán en un período no mayor de un año,
 
 DE RESPONSABILIDAD PENAL
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
+
 ###### ARTÍCULO 66.
 
-LA DECLARATORIA DE PROCEDENCIA. Para proceder penalmente en contra de los consejeros propietarios del Consejo General del Instituto, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado deberá declarar, mediante resolución de las dos terceras partes del total de sus miembros, si ha lugar o no, a proceder contra el inculpado, sujetándose a la garantía de audiencia.
+LA DECLARATORIA DE PROCEDENCIA. Para proceder penalmente en contra de los consejeros del Instituto, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado deberá declarar, mediante resolución de las dos terceras partes del total de sus miembros, si ha lugar o no, a proceder contra el inculpado, sujetándose a la garantía de audiencia.
 
 ###### ARTÍCULO 67.
 
@@ -839,9 +1021,11 @@ II. Desintegrar sin motivo justificado, el quórum del Consejo General, una vez 
 
 III. Violar las normas que regulan su actuación.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
+
 ###### ARTÍCULO 71.
 
-RESPONSABILIDAD ADMINISTRATIVA DE LOS CONSEJEROS. Para determinar la responsabilidad administrativa de los consejeros propietarios, del Director General, del Secretario Técnico y de todo funcionario del Instituto de confianza o de base, se aplicará (sic) las faltas administrativas y el procedimiento respectivo que establece la ley de la materia para todo funcionario o servidor público del estado y de los municipios.
+RESPONSABILIDAD ADMINISTRATIVA. Para determinar la responsabilidad administrativa de los Consejeros, del Director General, del Secretario Técnico y de todo servidor público del Instituto, se aplicarán las faltas administrativas y el procedimiento respectivo que establece la ley de la materia o reglamento correspondiente para todo funcionario o servidor público del estado y de los municipios.
 
 ###### ARTÍCULO 72.
 
@@ -962,3 +1146,17 @@ P.O. 28 DE DICIEMBRE DE 2007.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan al presente decreto.
+
+P.O. 28 DE ABRIL DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Los actuales consejeros suplentes durarán con tal carácter hasta el treinta de junio de dos mil nueve.
+
+TERCERO. El Consejo General del Instituto deberá emitir a más tardar en el mes de abril de 2009, la convocatoria para la designación de los dos consejeros que corresponden de acuerdo a lo previsto por este decreto, a fin de que entren en funciones a más tardar el treinta de junio del dos mil nueve, en los términos a que se refiere el artículo 33 de esta ley. En dicha convocatoria se designarán también cinco suplentes, para los efectos correspondientes.
+
+CUARTO. El Consejo General elaborará y adecuará las disposiciones que reglamenten las materias previstas en esta ley, a más tardar seis meses contados a partir de la fecha de la entrada en vigor del presente decreto.
+
+QUINTO. El Congreso del Estado deberá considerar las partidas necesarias y suficientes, al momento de designar a los nuevos consejeros del Instituto para que éste, pueda llevar a cabo sus funciones de acuerdo a la estructura orgánica del Consejo General, prevista en este decreto.
+
+SEXTO. Se derogan las disposiciones que se opongan a lo previsto en el presente decreto.
