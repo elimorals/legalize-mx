@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-asistencia-social-para-el-estado-y-municipios-de-san-236
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-19"
-last_updated: "2008-12-18"
+last_updated: "2009-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2009.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de enero de 2002.
 
@@ -195,9 +195,13 @@ b) Las mujeres:
 
 c) Los adultos mayores en situación de maltrato físico o mental.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
 
-d) Los indigentes, y
+d) Los indigentes.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2009)</small>
+
+e) A las familias que se encuentren en situación de calle, por encontrarse en estado de desventaja social y que tengan a su encargo menores, personas con discapacidad o adultos mayores, y
 
 > <small>(ADICIONADA, P.O. 10 DE JULIO DE 2007)</small>
 
@@ -381,9 +385,15 @@ Las demás que sean necesarias para la mejor aplicación de los servicios asiste
 
 En la prestación de servicios y en la realización de acciones, el DIF Estatal actuará en coordinación con las dependencias y entidades de Gobierno del Estado y las municipales, según la competencia que a éstas otorgan las leyes.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 18.
 
-El DIF Estatal establecerá una vinculación sistemática entre los servicios de rehabilitación y asistencia social que preste, y los que proporcionen los establecimientos del sector salud y las instituciones de asistencia privada.
+La atención y rehabilitación de las personas con discapacidad, la brindará el DIF Estatal, a través de la Dirección de Integración Social de Personas con Discapacidad; la que tendrá por objeto coordinar y, en su caso, ejecutar los programas a que se refiere la Ley Estatal para las Personas con Discapacidad, esta Ley, su Reglamento, las Normas Oficiales Mexicanas y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2009)</small>
+
+ARTICULO 18 BIS. El DIF Estatal establecerá una vinculación sistemática entre los servicios de rehabilitación y asistencia social que preste, y los que proporcionen los establecimientos del sector salud y las instituciones de asistencia privada.
 
 ###### ARTICULO 19.
 
@@ -519,9 +529,13 @@ X. Las demás que establezca la legislación vigente en materia de adopciones.
 
 El Consejo para el mejor desempeño de sus funciones, contará con las subcomisiones que considere necesarias.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 22.
 
-La atención y rehabilitación de las personas con discapacidad la brindará el DIF Estatal a través de la Dirección de Integración Social de Personas con Discapacidad, la que tendrá por objeto coordinar y en su caso ejecutar los programas a que se refiere la Ley de Integración Social de Personas con Discapacidad para el Estado, esta Ley, su Reglamento, las Normas Oficiales Mexicanas y demás disposiciones legales aplicables.
+El DIF Estatal llevará a cabo programas y acciones con el objeto de reducir la situación de desventaja social, de aquellas personas y familias que se encuentren en condición de calle, proporcionándoles habilidades para el desarrollo laboral y psicosocial que les permitan la autosuficiencia económica.
+
+La coordinación de los programas y acciones a que refiere el párrafo anterior, se establecerá en el Reglamento Interno del DIF Estatal.
 
 ###### ARTICULO 23.
 
@@ -737,21 +751,27 @@ Los directores de los hospitales públicos o privados y médicos particulares, m
 
 La PRODEM contará con un centro especializado de atención integral a las personas que viven la violencia familiar, cuya organización interna y funcionamiento se determinará en el reglamento interior de la institución.
 
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2009)</small>
+
+ARTICULO 37 BIS. Para la asesoría jurídica en materia familiar, vinculación con los DIF municipales y, en general, para llevar a cabo los objetivos de la PRODEM establecidos en el artículo 34 de la presente Ley, dicho órgano contará con ocho delegados en el Estado.
+
 ###### ARTICULO 38.
 
 La PRODEM dictará las medidas pertinentes para garantizar la integridad física y moral de aquellos menores canalizados a los albergues públicos de asistencia social.
 
 ### CAPITULO II. De su Integración
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 39.
 
 La PRODEM se integrará de la siguiente forma:
 
-I. Un Procurador;
+I. Una Procuraduría;
 
-II. Un Subprocurador, y
+II. Una Subprocuraduría, y
 
-III. Las coordinaciones y el personal que sean necesarios para su buen funcionamiento.
+III. Las ocho personas delegadas en las regiones del Estado, para la representación de la PRODEM, las coordinaciones; y el personal que sean necesarios para su buen funcionamiento.
 
 Las funciones del personal de la PRODEM serán determinadas en el Reglamento Interior.
 
@@ -1270,3 +1290,11 @@ PRIMERO. Este Decreto entrará en vigor a los noventa días siguientes de su pub
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Todos los procedimientos, recursos administrativos y demás asuntos relacionados con la materia familiar a que refiere el Código Civil para el Estado de San Luis Potosí, iniciados con anterioridad a la entrada en vigor a este Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.
+
+P.O. 28 DE ABRIL DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, deberá asignar al Sistema para el Desarrollo Integral de la Familia, los recursos económicos necesarios para el pago de los honorarios de los delegados y demás recursos que requieran para su operación.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
