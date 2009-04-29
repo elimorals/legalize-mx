@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-educacion-del-estado-de-tabasco-10929"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-26"
-last_updated: "2008-12-24"
+last_updated: "2009-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE EDUCACION DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 26 de febrero de 1997.
 
@@ -107,17 +107,21 @@ XVI.- Fomentar actitudes solidarias y positivas hacia el trabajo, el ahorro y el
 
 XVII.- Formar al educando para incorporarse a la vida económica y social del Estado y del país, y en su oportunidad desarrollar una actividad productiva que permita asimismo al trabajador, estudiar;
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2009)</small>
 
-XVIII.- Promover una educación de amplia cobertura y calidad educativa, en favor de personas con discapacidad, que permita su integración social y evite la segregación; y (sic)
+XVIII.- Promover una educación de amplia cobertura y calidad educativa, en favor de personas con discapacidad, que permita su integración social y evite la segregación;
 
 > <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2008)</small>
 
 XIX.- Destacar la importancia de una alimentación completa, equilibrada, suficiente y variada para el desarrollo pleno del individuo;
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2009)</small>
 
-XIX (SIC).- Promover la difusión de información sobre los impactos, vulnerabilidad y medidas de adaptación al cambio climático, en el territorio tabasqueño.
+XX.- Promover la difusión de información sobre los impactos, vulnerabilidad y medidas de adaptación al cambio climático, en el territorio tabasqueño; y
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2009)</small>
+
+XXI.- Fomentar el hábito de la lectura entre los tabasqueños.
 
 Artículo 10 El criterio que orientará a la educación que proporcionen el Estado, los Municipios, los organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios, incluyendo la educación primaria, la secundaria, la normal y demás para la formación de docentes de educación básica, se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios, además:
 
@@ -181,7 +185,9 @@ XI.- Planear, programar, presupuestar, organizar, dirigir, operar, controlar y e
 
 XII.- Estudiar y ejecutar los convenios de coordinación o concertación que en materia educativa, investigación, deporte, difusión cultural, recreación y formación para el trabajo, suscriba el Ejecutivo del Estado con la Federación, Entidades Federativas, Municipios, organismos descentralizados, y sectores social y privado, en los términos de la legislación aplicable;
 
-XIII.- Distribuir, en forma oportuna y eficiente, los libros de texto gratuito y material didáctico que proporcione la Secretaría de Educación Pública y el propio Gobierno del Estado;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2009)</small>
+
+XIII.- Distribuir, en forma oportuna y eficiente, los libros de texto gratuito y material didáctico que proporcione la Secretaría de Educación Pública y el propio Gobierno del Estado, así como promover políticas, programas y acciones relacionadas con el fomento a la lectura y el libro;
 
 XIV.- Vigilar que la educación primaria, la secundaria y la normal, que proporcionen los particulares, sea conforme a los planes y programas autorizados. En cuanto a la educación inicial y preescolar, vigilar que cumplan con los requisitos técnico-pedagógicos que fije la autoridad educativa federal;
 
@@ -221,9 +227,17 @@ XII.- Expedir la cédula personal correspondiente para el ejercicio profesional;
 
 XIII.- Establecer premios, estímulos y recompensas en favor de aquellos docentes que se destaquen en el ejercicio de su profesión o por haber prestado servicios distinguidos a la educación, así como realizar actividades que demuestren mayor aprecio por la labor del docente;
 
-XIV.- Autorizar la constitución de los Colegios de Profesionistas, vigilar su ejercicio y coordinar el servicio social que deberán prestar sus colegiados; y
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2009)</small>
 
-XV.- Las demás que con tal carácter establezcan la Ley General de Educación y demás disposiciones aplicables.
+XIV.- Autorizar la constitución de los Colegios de Profesionistas, vigilar su ejercicio y coordinar el servicio social que deberán prestar sus colegiados;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2009)</small>
+
+XV.- Coordinar sus acciones con las instituciones del Gobierno Federal responsables de la aplicación de políticas, programas y acciones de fomento a la lectura y el libro; y
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2009)</small>
+
+XVI.- Las demás que con tal carácter establezcan la Ley General de Educación y demás disposiciones aplicables.
 
 Artículo 18 El Ejecutivo del Estado podrá celebrar convenios con el Ejecutivo Federal para coordinar o unificar las actividades educativas concurrentes que establece el artículo anterior.
 
@@ -235,7 +249,9 @@ En el caso de la educación primaria, la secundaria, la normal y demás para la 
 
 Asimismo, podrán realizar las siguientes actividades:
 
-I.- Editar libros y producir otros materiales didácticos, distintos a los libros de texto gratuito proporcionados por la Federación;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2009)</small>
+
+I.- Editar libros y producir otros materiales didácticos, distintos a los libros de texto gratuito, así como promover políticas, programas y acciones relacionadas con el fomento a la lectura y el libro;
 
 > <small>(F. DE E., P.O. 1 DE MARZO DE 1997)</small>
 
@@ -511,7 +527,9 @@ IV.- La educación preescolar, además de atender las particularidades geográfi
 
 Artículo 62 La educación primaria es obligatoria y tiene como finalidad promover el desarrollo integral y armónico de las facultades del educando, dotándolo de conocimientos y habilidades que fundamenten cualquier aprendizaje posterior que lo integre hacia una mejor convivencia social, crear el aprecio a la dignidad humana, la conciencia de la independencia, soberanía, democracia y justicia social, así como el amor a la patria, el respeto a la Constitución Federal y Local, y a los símbolos patrios nacionales.
 
-Artículo 63 La educación primaria fortalecerá en el educando su identidad individual y su integración plena a la familia, a la escuela y a la comunidad; fomentará en él, hábitos tendientes a la conservación y mejoramiento de su salud personal, le proporcionará conocimientos básicos para la preservación de su entorno ecológico y el ejercicio de sus derechos y de sus deberes cívico-sociales; también motivará en él una actitud de aprendizaje permanente que lo prepare para el trabajo útil a sí mismo, a su familia y a su comunidad.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2009)</small>
+
+Artículo 63 La educación primaria fortalecerá en el educando su identidad individual y su integración plena a la familia, a la escuela y a la comunidad; fomentará en él los hábitos de la lectura, la conservación y mejoramiento de su salud personal, le proporcionará conocimientos básicos para la preservación de su entorno ecológico y el ejercicio de sus derechos y de sus deberes cívico-sociales; también motivará en él una actitud de aprendizaje permanente que lo prepare para el trabajo útil a sí mismo, a su familia y a su comunidad.
 
 Artículo 64 La educación primaria regular estará dirigida a toda la población cuyas edades fluctúen entre los seis y catorce años.
 
@@ -541,9 +559,17 @@ II.- Contribuir a la formación del educando como futuro ciudadano mediante el c
 
 III.- Reafirmar en el educando los conocimientos sobre español, matemáticas, geografía e historia del Estado, nacional y universal; así como los conocimientos teóricos y experimentales de las ciencias biológicas y físico-química;
 
-IV.- Desarrollar la expresión artística del alumno e impulsar la educación física como disciplina básica para cultivar la salud del educando, fortaleciendo las habilidades que posea, a fin de brindar una educación integral de calidad; y
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2009)</small>
 
-V.- Promover la formación para el trabajo a través de talleres y laboratorios.
+IV.- Desarrollar la expresión artística del alumno e impulsar la educación física como disciplina básica para cultivar la salud del educando, fortaleciendo las habilidades que posea, a fin de brindar una educación integral de calidad;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2009)</small>
+
+V.- Promover la formación para el trabajo a través de talleres y laboratorios; y
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2009)</small>
+
+VI.- Fortalecer el hábito de la lectura, brindándole al alumno las herramientas necesarias para ello.
 
 #### Sección IV. DE LA EDUCACIÓN MEDIA SUPERIOR
 
@@ -1258,3 +1284,9 @@ P.O. 24 DE DICIEMBRE DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor a los tres días de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones contrarias al presente decreto.
+
+P.O. 29 DE ABRIL DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor a los tres días siguientes al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se derogan las disposiciones de observancia general que se opongan al correspondiente Decreto.
