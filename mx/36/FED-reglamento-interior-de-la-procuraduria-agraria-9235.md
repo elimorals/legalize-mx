@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-procuraduria-agraria-9235"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-12-28"
-last_updated: "1996-12-28"
+last_updated: "2009-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9235&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-12-20"
 
 REGLAMENTO INTERIOR DE LA PROCURADURIA AGRARIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE ABRIL DE 2009.
 
 Reglamento publicado en el Diario Oficial de la Federación el Sábado 28 de diciembre de 1996.
 
@@ -118,6 +118,8 @@ La Procuraduría establecerá la coordinación necesaria con las autoridades fed
 ###### Artículo 7o.
 
 La Procuraduría planeará y conducirá sus actividades con base en las políticas que establezca el Presidente de la República, para el logro de los objetivos y prioridades del Plan Nacional de Desarrollo y de los Programas a su cargo.
+
+> <small>N. DE E. EN RELACION CON LA ORGANIZACION DE LA PROCURADURIA AGRARIA, VEASE EL ACUERDO PUBLICADO EN LA PRIMERA SECCION DEL D.O.F. DE 29 DE ABRIL DE 2009, PAGINA 15.</small>
 
 ###### Artículo 8o.
 
@@ -986,3 +988,9 @@ Segundo.- Se abroga el Reglamento Interior de la Procuraduría Agraria publicado
 Tercero.- Los asuntos que se encuentren en trámite a la entrada en vigor de este Reglamento, serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente y bajo el procedimiento vigente al momento en que se presentó el asunto.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinte días del mes de diciembre de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de la Reforma Agraria, Arturo Warman Gryj.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 29 DE ABRIL DE 2009.
+
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
