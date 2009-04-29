@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2009-03-25"
+last_updated: "2009-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 2009.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -636,7 +636,7 @@ DEL PODER LEGISLATIVO.
 
 DE LA ELECCION Y CALIDAD DE LOS DIPUTADOS.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
+((REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)
 
 ###### Artículo 24.
 
@@ -2058,9 +2058,9 @@ VII.- Cumplir con los requisitos, criterios, procedimientos, e indicadores de ge
 
 Los nombramientos de los Magistrados deberán recaer preferentemente entre aquéllas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica, plenamente acreditados.
 
-> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2009)</small>
 
-VIII.- No podrán ser Magistrados las personas que hayan ocupado el cargo de Secretario o su equivalente, Procurador de Justicia o Diputado Local, durante el año previo al día de su designación.
+VIII.- No podrán ser Magistrados las personas que hayan ocupado el cargo de Secretario de Despacho del Poder Ejecutivo, Procurador General de Justicia o Diputado Local, durante el año previo al día de su designación.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
 
@@ -2736,9 +2736,13 @@ III.- Los planes y los programas de la Administración Pública, tendrán su ori
 
 En el Sistema de Planeación Democrática, el Congreso del Estado tendrá la intervención que señale la Ley.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2009)</small>
+
 ###### Artículo 120.
 
-El matrimonio es la unión voluntaria de un hombre y una mujer, sancionada por el Estado, para perpetuar la especie y ayudarse mutuamente. El divorcio disuelve el vinculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. El matrimonio y los demás actos del estado civil de las personas, son de la exclusiva competencia de los funcionarios y autoridades del orden civil, en los términos prevenidos por las leyes, y tendrán la fuerza y validez que las mismas les atribuyan.
+El matrimonio es la unión voluntaria de un hombre y una mujer, con igualdad de derechos y obligaciones con la posibilidad de procreación de hijos y de ayudarse mutuamente. La celebración, registro y certificación de los hechos y actos constitutivos, modificativos o extintivos del estado civil de las personas, son de exclusiva competencia del Registro Civil en los términos que establezcan las leyes de la materia y tendrán la fuerza y validez que las mismas les atribuyan.
+
+En el estado se garantizará el derecho a la identidad de las personas a través del registro de nacimiento gratuito.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
@@ -3897,5 +3901,33 @@ P.O. 25 DE MARZO DE 2009.
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial ''Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 ###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones jurídicas que se opongan a la presente reforma.
+
+P.O. 29 DE ABRIL DE 2009.
+
+DECRETO NO. 1208, POR EL QUE REFORMA LA FRACCION VIII DEL ARTICULO 90 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE ABRIL DE 2009.
+
+DECRETO NO. 1209, POR EL QUE REFORMA EL ARTICULO 120 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Aprobado que sea el presente decreto, remítase junto con los insertos necesarios que se hubiesen generado, a los Ayuntamientos del Estado de Morelos, para dar cumplimiento a lo establecido en el artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Aprobadas por la mayoría de los Ayuntamientos del Estado de Morelos, las reformas realizadas a la Constitución Política Local, remítase el Decreto correspondiente al Titular del Poder Ejecutivo del Estado de Morelos, para su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+El presente Decreto iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO CUARTO.
 
 Se derogan todas aquellas disposiciones jurídicas que se opongan a la presente reforma.
