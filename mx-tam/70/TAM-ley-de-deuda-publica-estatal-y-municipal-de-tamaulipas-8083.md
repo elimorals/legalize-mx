@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-deuda-publica-estatal-y-municipal-de-tamaulipas-8083"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-30"
-last_updated: "2009-02-24"
+last_updated: "2009-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DEUDA PUBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 30 de diciembre de 1995.
 
@@ -77,9 +77,9 @@ III.- Los pasivos contingentes relacionados con los actos mencionados en las dos
 
 IV.- Todas las operaciones de endeudamiento que impliquen obligaciones a plazo, así como las de naturaleza contingente derivadas de actos jurídicos, independientemente en la forma en la que se les documente.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2009)</small>
 
-No constituyen financiamientos crediticios para los efectos de esta ley, las obligaciones derivadas de la contratación de proyectos para la prestación de servicios. Estos se regirán por la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado de Tamaulipas.
+No constituyen financiamientos crediticios para los efectos de esta ley, las obligaciones derivadas de la contratación de proyectos para la prestación de servicios, los cuales se regirán por la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de servicios del Estado de Tamaulipas y tendrán el carácter de gasto corriente y la preferencia presupuestal que establece dicha ley y la Ley de Gasto Público del Estado.
 
 ###### ARTICULO 5.
 
@@ -398,3 +398,9 @@ P.O. 24 DE FEBRERO DE 2009.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE ABRIL DE 2009.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
