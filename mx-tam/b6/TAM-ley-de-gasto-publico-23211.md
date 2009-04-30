@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-gasto-publico-23211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-25"
-last_updated: "2007-12-27"
+last_updated: "2009-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE GASTO PUBLICO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de diciembre de 2001.
 
@@ -161,13 +161,17 @@ V.- Bienes muebles e inmuebles;
 
 VI.- Inversión pública;
 
-VII.- Participaciones de ingresos federales a los Municipios; y
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2009)</small>
 
-VIII.- Deuda pública.
+VII.- Participaciones de ingresos federales a los Municipios; o
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2009)</small>
 
-Así mismo, de acuerdo a la naturaleza de las obligaciones de pago con base en el gasto corriente, se incluirán en el rubro que corresponda las erogaciones derivadas de los proyectos para prestación de servicios, regulados por Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado de Tamaulipas.
+VIII.- Pagos de Obligaciones que constituyan deuda pública.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2009)</small>
+
+Las obligaciones de pago a cargo de las dependencias y entidades de la administración pública estatal derivadas de los proyectos para prestación de servicios, regulados por la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado de Tamaulipas tendrán el carácter de obligaciones preferentes en el presupuesto de gasto corriente y se incluirán en un rubro especial para cada contrato que celebren las dependencias y entidades conforme a dicha ley.
 
 ###### ARTICULO 19.
 
@@ -343,7 +347,9 @@ De los movimientos que se efectúen en los términos de los artículos 47, 48 y 
 
 Las asignaciones establecidas en el presupuesto de egresos, determinadas conforme a los artículos 47, 48 y 49 de la presente Ley, señalan el límite máximo de las erogaciones; el cual no podrán excederse, pero tampoco será necesario agotarlo si ello no fuese necesario, pues cuando sea posible se buscarán economías para el erario estatal, cancelándose al cierre del ejercicio del presupuesto los saldos no utilizados ni comprometidos.
 
-La Secretaría de Finanzas, previo acuerdo del titular del Ejecutivo, realizará las transferencias de gasto que correspondan en virtud de la economía del erario estatal, dentro de los importes aprobados.
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2009)</small>
+
+La Secretaría de Finanzas, previo acuerdo del titular del Ejecutivo, realizará las transferencias de gasto que correspondan en virtud de la economía del erario estatal, dentro de los importes aprobados. Los recursos asignados en materia de seguridad pública o procuración de justicia no podrán, bajo ninguna circunstancia, ser transferidos o utilizados con propósitos diversos a los de su objeto. En caso de trasferencias de recursos para la seguridad pública o la procuración de justicia, no podrá aplicarse a ninguna materia distinta a la que motivó esa reasignación.
 
 ###### ARTICULO 52.
 
@@ -528,6 +534,22 @@ P.O. 20 DE JUNIO DE 2006.
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
 
 P.O. 27 DE DICIEMBRE DE 2007.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE ABRIL DE 2009.
+
+DECRETO No. LX-565, POR EL QUE SE REFORMA EL ARTICULO 18 DE LA LEY DE GASTO PUBLICO DEL ESTADO.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE ABRIL DE 2009.
+
+DECRETO No. LX-566, POR EL QUE SE REFORMA EL SEGUNDO PARRAFO DEL ARTICULO 51 DE LA LEY DE GASTO PUBLICO DEL ESTADO.
 
 ###### ARTICULO UNICO.
 
