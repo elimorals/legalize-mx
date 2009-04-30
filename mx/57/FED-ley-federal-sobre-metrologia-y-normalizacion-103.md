@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-sobre-metrologia-y-normalizacion-103"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-07-01"
-last_updated: "2006-07-28"
+last_updated: "2009-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-06-30"
 
 LEY FEDERAL SOBRE METROLOGIA Y NORMALIZACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 1 de julio de 1992.
 
@@ -207,11 +207,13 @@ Para efectos de lo anterior, la Secretaría publicará en el Diario Oficial de l
 
 La Secretaría, así como las personas acreditadas por la misma, al verificar los instrumentos para medir, dejarán en poder de los interesados los documentos que demuestren que dicho acto ha sido realizado oficialmente. Esta verificación comprenderá la constatación de la exactitud de dicho instrumento dentro de las tolerancias y demás requisitos establecidos en las normas oficiales mexicanas y, en su caso, el ajuste de los mismos cuando cuenten con los dispositivos adecuados para ello.
 
-> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-###### ARTÍCULO 13.
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2009)</small>
 
-Los recipientes que, no siendo instrumentos para medir, se destinen reiteradamente a contener o transportar materias objeto de transacciones cuya masa se determine midiendo simultáneamente el recipiente y la materia, deberán ostentar visible e indeleblemente con caracteres legibles su tara, la que podrá verificarse en la forma y lugares que fije la Secretaría; así también, cuando su llenado reiterado y sistemático lo permita y requiera, previa expedición de la Norma Oficial Mexicana que corresponda, deberán contar en cada ocasión al llenado, con el sello de inviolabilidad que garantice la cantidad, cualidad y calidad de la materia.
+###### ARTICULO 13.
+
+Los recipientes que, no siendo instrumentos para medir, se destinen reiteradamente a contener o transportar materias objeto de transacciones cuya masa se determine midiendo simultáneamente el recipiente y la materia, deberán ostentar visible e indeleblemente con caracteres legibles su tara y su peso bruto, la que podrá verificarse en la forma y lugares que fije la Secretaría; así también, cuando su llenado reiterado y sistemático lo permita y requiera, previa expedición de la Norma Oficial Mexicana que corresponda, deberán contar en cada ocasión al llenado, con el sello de inviolabilidad que garantice la cantidad, cualidad y calidad de la materia.
 
 ###### ARTICULO 14.
 
@@ -863,7 +865,7 @@ VII. Proponer las medidas que se estimen oportunas para el fomento de la normali
 
 > <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
 
-VIII. Dictar los lineamientos para la organización de los comités consultivos nacionales de normalización y opinar respecto de aquellos aplicables a lo(sic) comités de evaluación; y
+VIII. Dictar los lineamientos para la organización de los comités consultivos nacionales de normalización y opinar respecto de aquellos aplicables a lo (sic) comités de evaluación; y
 
 IX. Todas aquellas que sean necesarias para la realización de las funciones señaladas.
 
@@ -1708,3 +1710,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 D.O.F. 28 DE JULIO DE 2006.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE ABRIL DE 2009.
+
+Artículo Primero. El presente Decreto entrará en vigor a los 210 días naturales siguientes de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo. Las disposiciones de este Decreto no serán aplicables a los recipientes que hayan sido construidos antes de la entrada en vigor del mismo.
