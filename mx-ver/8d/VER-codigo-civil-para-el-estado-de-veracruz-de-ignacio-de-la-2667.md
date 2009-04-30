@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2008-08-12"
+last_updated: "2009-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE ABRIL DE 2009.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -1553,9 +1553,11 @@ ARTICULO 261
 
 En todos los casos en que el marido tenga derecho de contradecir que el nacido es hijo de su matrimonio, deberá deducir su acción dentro de sesenta días, contados desde el nacimiento, si está presente; desde el día en que llegó al lugar, si estuvo ausente; o desde el día en que descubrió el fraude, si se le ocultó el nacimiento.
 
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2009)</small>
+
 ARTICULO 262
 
-Si el marido está bajo tutela por causa de demencia, imbecilidad u otro motivo que lo prive de inteligencia, este derecho puede ser ejecutado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento.
+Si el marido está bajo tutela por causa de discapacidad intelectual, este derecho puede ser ejecutado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento.
 
 ARTICULO 263
 
@@ -1647,9 +1649,13 @@ ARTICULO 279
 
 Los demás herederos del hijo podrán intentar la acción de que trata el artículo anterior:
 
-I.- Si el hijo ha muerto antes de cumplir veintidós años;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2009)</small>
 
-II.- Si el hijo cayó en demencia antes de cumplir los veintidós años, y murió después en el mismo estado.
+I.- Si el hijo ha muerto antes de alcanzar la mayoría de edad;
+
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2009)</small>
+
+II.- Si el hijo presenta discapacidad intelectual antes de alcanzar la mayoría de edad, y murió después en el mismo estado.
 
 ARTICULO 280
 
@@ -2359,7 +2365,9 @@ Tienen incapacidad natural y legal:
 
 I.- Los menores de edad;
 
-II.- Los mayores de edad privados de inteligencia por locura, idiotismo o imbecilidad, aun cuando tengan intervalos lúcidos;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2009)</small>
+
+II.- Los mayores de edad con discapacidad intelectual, aun cuando tengan intervalos lúcidos;
 
 III.- Los sordo mudos que no saben leer ni escribir;
 
@@ -2419,7 +2427,9 @@ Los tutores y curadores no pueden ser removidos de su cargo sin que previamente 
 
 ARTICULO 393
 
-El menor de edad que fuere demente, idiota, imbécil, sordomudo, ebrio consuetudinario o que habitualmente abuse de las drogas enervantes, estará sujeto a la tutela de menores, mientras no llega a la mayor edad.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE ABRIL DE 2009)</small>
+
+El menor de edad con discapacidad intelectual, sordomudo, ebrio consuetudinario o que habitualmente abuse de las drogas enervantes, estará sujeto a la tutela de menores, mientras no llega a la mayoría de edad.
 
 Si al cumplirse ésta continuare el impedimento, el incapaz se sujetará a nueva tutela, previo juicio de interdicción, en el cual serán oídos el tutor y el curador anteriores.
 
@@ -2427,9 +2437,11 @@ ARTICULO 394
 
 Los hijos menores de un incapacitado quedarán bajo la patria potestad del ascendiente que corresponda conforme a la ley, y no habiéndolo, se les proveerá de tutor.
 
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2009)</small>
+
 ARTICULO 395
 
-El cargo del tutor del demente, idiota, imbécil, sordo mudo, ebrio consuetudinario y de los que habitualmente abusen de las drogas enervantes, durará el tiempo que subsista la interdicción, cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge sólo tendrá obligación de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
+El cargo del tutor de la persona con discapacidad intelectual, sordomudo, ebrio consuetudinario y de los que habitualmente abusen de las drogas enervantes, durará el tiempo que subsista la interdicción cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge sólo tendrá obligación de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
 
 ARTICULO 396
 
@@ -2521,7 +2533,11 @@ ARTICULO 414
 
 La falta temporal del tutor legítimo, se suplirá en los términos establecidos en los dos artículos anteriores.
 
-### CAPITULO IV. De la tutela legítima de los dementes, idiotas, imbéciles, sordomudos, ebrios, y de los que habitualmente abusan de las drogas enervantes
+> <small>(REFORMADA SU DENOMINACION, G.O. 30 DE ABRIL DE 2009)</small>
+
+### CAPITULO IV
+
+De la tutela legítima de las personas con discapacidad intelectual, sordomudos, ebrios consuetudinarios, y de los que habitualmente abusan de las drogas enervantes
 
 ARTICULO 415
 
@@ -2685,13 +2701,17 @@ V.- El tutor que se encuentre en el caso previsto en el artículo 95;
 
 VI.- El tutor que permanezca ausente por más de seis meses, del lugar en que debe desempeñar la tutela.
 
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2009)</small>
+
 ARTICULO 435
 
-No pueden ser tutores ni curadores del demente los que hayan sido causa de la demencia, ni los que la hayan fomentado directa o indirectamente.
+No pueden ser tutores ni curadores de la persona con discapacidad intelectual los que hayan causado la misma, ni los que la hayan fomentado directa o indirectamente.
+
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2009)</small>
 
 ARTICULO 436
 
-Lo dispuesto en el artículo anterior se aplicará, en cuanto fuere posible, a la tutela de los idiotas, imbéciles, sordomudos, ebrios consuetudinarios y de los que abusan habitualmente de las drogas enervantes.
+Lo dispuesto en el artículo anterior se aplicará, en cuanto fuere posible, a la tutela de sordomudos, ebrios consuetudinarios, y de los que habitualmente abusan de las drogas enervantes.
 
 ARTICULO 437
 
@@ -6843,13 +6863,17 @@ I.- Los menores que no han cumplido dieciséis años de edad, ya sean hombres o 
 
 II.- Los que habitual o accidentalmente no disfrutan de su cabal juicio.
 
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2009)</small>
+
 ARTICULO 1240
 
-Es válido el testamento hecho por un demente en un intervalo de lucidez, con tal de que al efecto se observen las prescripciones de los artículos siguientes.
+Es válido el testamento hecho por una persona con discapacidad intelectual en un intervalo de lucidez, con tal de que al efecto se observen las prescripciones de los artículos siguientes.
+
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2009)</small>
 
 ARTICULO 1241
 
-Siempre que un demente pretenda hacer testamento en un intervalo de lucidez, el tutor y en defecto de éste, la familia de aquél, presentará por escrito una solicitud al Juez que corresponda. El Juez nombrará dos médicos, de preferencia especialistas en la materia, para que examinen al enfermo y dictaminen acerca de su estado mental. El Juez tiene obligación de asistir al examen del enfermo, y podrá hacerle cuantas preguntas estime convenientes, a fin de cerciorarse de su capacidad para testar.
+Siempre que una persona con discapacidad intelectual pretenda hacer testamento en un intervalo de lucidez, el tutor y en defecto de éste, la familia de aquél, presentará por escrito una solicitud al Juez que corresponda. El Juez nombrará dos médicos, de preferencia especialistas en la materia, para que examinen al enfermo y dictaminen acerca de su estado mental. El Juez tiene obligación de asistir al examen del enfermo, y podrá hacerle cuantas preguntas estimen convenientes, a fin de cerciorarse de su capacidad para testar.
 
 ARTICULO 1242
 
@@ -16050,3 +16074,9 @@ G.O. 12 DE AGOSTO DE 2008.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 30 DE ABRIL DE 2009.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
