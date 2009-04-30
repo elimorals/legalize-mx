@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2008-09-26"
+last_updated: "2009-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 2009.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -158,11 +158,9 @@ VII. Las universidades y las demás instituciones de educación superior a las q
 
 VIII. El Congreso de la Unión, con el fin de unificar y coordinar la educación en toda la República, expedirá las leyes necesarias, destinadas a distribuir la función social educativa entre la Federación, los Estados y los Municipios, a fijar las aportaciones económicas correspondientes a ese servicio público y a señalar las sanciones aplicables a los funcionarios que no cumplan o no hagan cumplir las disposiciones relativas, lo mismo que a todos aquellos que las infrinjan.
 
-###### Art. 4o.
-
-(DEROGADO PRIMER PARRAFO, D.O.F. 14 DE AGOSTO DE 2001)
-
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+###### Art. 4o.
 
 El varón y la mujer son iguales ante la ley. Esta protegerá la organización y el desarrollo de la familia.
 
@@ -193,6 +191,10 @@ Los ascendientes, tutores y custodios tienen el deber de preservar estos derecho
 (ADICIONADO, D.O.F. 7 DE ABRIL DE 2000) (F. DE E., D.O.F. 12 DE ABRIL DE 2000)
 
 El Estado otorgará facilidades a los particulares para que coadyuven al cumplimiento de los derechos de la niñez.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 2009)</small>
+
+Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa. La ley establecerá los mecanismos para el acceso y participación a cualquier manifestación cultural.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -1586,9 +1588,9 @@ XXIII.- Para expedir leyes que establezcan las bases de coordinación entre la F
 
 XXIV.- Para expedir la Ley que regule la organización de la entidad de fiscalización superior de la Federación y las demás que normen la gestión, control y evaluación de los Poderes de la Unión y de los entes públicos federales.
 
-> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2009)</small>
 
-XXV.- Para establecer, organizar y sostener en toda la República escuelas rurales, elementales, superiores, secundarias y profesionales; de investigación científica, de bellas artes y de enseñanza técnica, escuelas prácticas de agricultura y de minería, de artes y oficios, museos, bibliotecas, observatorios y demás institutos concernientes a la cultura general de los habitantes de la nación y legislar en todo lo que se refiere a dichas instituciones; para legislar sobre vestigios o restos fósiles y sobre monumentos arqueológicos, artísticos e históricos, cuya conservación sea de interés nacional; así como para dictar las leyes encaminadas a distribuir convenientemente entre la Federación, los Estados y los Municipios el ejercicio de la función educativa y las aportaciones económicas correspondientes a ese servicio público, buscando unificar y coordinar la educación en toda la República. Los Títulos que se expidan por los establecimientos de que se trata surtirán sus efectos en toda la República.
+XXV.- Para establecer, organizar y sostener en toda la República escuelas rurales, elementales, superiores, secundarias y profesionales; de investigación científica, de bellas artes y de enseñanza técnica, escuelas prácticas de agricultura y de minería, de artes y oficios, museos, bibliotecas, observatorios y demás institutos concernientes a la cultura general de los habitantes de la nación y legislar en todo lo que se refiere a dichas instituciones; para legislar sobre vestigios o restos fósiles y sobre monumentos arqueológicos, artísticos e históricos, cuya conservación sea de interés nacional; así como para dictar las leyes encaminadas a distribuir convenientemente entre la Federación, los Estados y los Municipios el ejercicio de la función educativa y las aportaciones económicas correspondientes a ese servicio público, buscando unificar y coordinar la educación en toda la República. Los Títulos que se expidan por los establecimientos de que se trata surtirán sus efectos en toda la República. Para legislar en materia de derechos de autor y otras figuras de la propiedad intelectual relacionadas con la misma.
 
 > <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 1933)</small>
 
@@ -1685,6 +1687,14 @@ XXIX-M.- Para expedir leyes en materia de seguridad nacional, estableciendo los 
 > <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 2007)</small>
 
 XXIX-N.- Para expedir leyes en materia de constitución, organización, funcionamiento y extinción de las sociedades cooperativas. Estas leyes establecerán las bases para la concurrencia en materia de fomento y desarrollo sustentable de la actividad cooperativa de la Federación, Estados y Municipios, así como del Distrito Federal, en el ámbito de sus respectivas competencias.
+
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 2009)</small>
+
+XXIX-Ñ.- Para expedir leyes que establezcan las bases sobre las cuales la Federación, los Estados, los Municipios y el Distrito Federal coordinarán sus acciones en materia de cultura, salvo lo dispuesto en la fracción XXV de este artículo. Asimismo, establecerán los mecanismos de participación de los sectores social y privado, con objeto de cumplir los fines previstos en el párrafo noveno del artículo 4o. de esta Constitución.
+
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 2009)</small>
+
+XXIX-O.- Para legislar en materia de protección de datos personales en posesión de particulares.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
@@ -5519,6 +5529,24 @@ D.O.F. 26 DE SEPTIEMBRE DE 2008.
 Primero.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Las Legislaturas de los Estados deberán realizar las adecuaciones que correspondan a sus Constituciones Locales, así como a su legislación secundaria en un plazo máximo de treinta días naturales contados a partir del inicio de la vigencia de este Decreto.
+
+D.O.F. 30 DE ABRIL DE 2009.
+
+DECRETO POR EL QUE SE ADICIONA UN PARRAFO NOVENO AL ARTICULO 4o.; SE REFORMA LA FRACCION XXV Y SE ADICIONA UNA FRACCION XXIX-Ñ AL ARTICULO 73 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Todos los actos jurídicos emitidos y fundamentados en las leyes anteriores y en la Ley Federal del Derecho de Autor vigente, tales como registros de obras y contratos, reservas de derechos otorgadas, resoluciones a procedimientos entre otros, así como los celebrados entre particulares, contratos, convenios, sucesiones testamentarias, conservarán su validez.
+
+D.O.F. 30 DE ABRIL DE 2009.
+
+DECRETO POR EL QUE SE ADICIONA LA FRACCION XXIX-O AL ARTICULO 73 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Congreso de la Unión deberá expedir la ley en la materia en un plazo no mayor de 12 meses, contados a partir de la entrada en vigor del presente Decreto.
+
+Tercero.- En tanto el Congreso de la Unión expide la ley respectiva a la facultad que se otorga en este Decreto, continuarán vigentes las disposiciones que sobre la materia hayan dictado las legislaturas de las entidades federativas, en tratándose de datos personales en posesión de particulares.
 
 ###### ARTICULO PRIMERO.
 
