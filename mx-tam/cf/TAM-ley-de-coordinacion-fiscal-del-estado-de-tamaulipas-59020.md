@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-fiscal-del-estado-de-tamaulipas-59020"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2009-02-24"
+last_updated: "2009-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2009.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -257,21 +257,35 @@ La Secretaría de Desarrollo Social, Cultura y Deporte, del Gobierno del Estado 
 
 El Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal se enterará a los municipios mensualmente, por partes iguales y por conducto de la Secretaría de Finanzas; será de manera ágil y directa, sin más limitaciones y restricciones, incluyendo las de carácter administrativo, que las correspondientes a los fines que establece la Ley de Coordinación Fiscal.
 
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2009)</small>
+
+Los recursos provenientes de este Fondo que tengan como destino la satisfacción de los requerimientos en materia de seguridad pública, se utilizarán por los Ayuntamientos exclusiva y responsablemente en dicho rubro.
+
 ###### ARTICULO 22.
 
 Los recursos correspondientes a este Fondo se distribuirán en proporción directa al número de habitantes con que cuente cada uno de los municipios, según la última información publicada por el Instituto Nacional de Estadística, Geografía e Informática.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ABRIL DE 2009)</small>
+
 ###### ARTICULO 23.
 
-Los recursos de este Fondo se destinarán exclusivamente a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras y a la atención de las necesidades directamente vinculadas a la seguridad pública de sus habitantes. Igualmente, podrán destinarse, previa solicitud de retención de la Comisión Nacional del Agua para cubrir los adeudos históricos y futuros que los municipios tengan por concepto de derechos y aprovechamientos de agua.
+Los recursos de este Fondo se destinarán exclusivamente a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras y a la atención de las necesidades directamente vinculadas a la seguridad pública de sus habitantes. Igualmente, podrán destinarse, al pago de derechos y aprovechamientos por concepto de agua, conforme a la Ley de Coordinación Fiscal.
 
 Respecto de las aportaciones que reciban con cargo a este Fondo, los municipios tendrán las mismas obligaciones a que se refiere la Ley de Coordinación Fiscal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2009)</small>
+
+Los Presidentes Municipales garantizarán que los recursos provenientes de este Fondo y que tengan como destino la satisfacción de los requerimientos del área de seguridad pública, sean utilizados exclusiva y responsablemente en dicho rubro.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 24.
 
-Las aportaciones con cargo a los Fondos señalados en este Capítulo, no serán embargables, no podrán gravarse ni afectarlas en garantía, ni destinarse a fines distintos de los expresados en la Ley de Coordinación Fiscal; serán cubiertas en efectivo y no podrán ser objeto de deducciones, salvo lo dispuesto en el artículo 9 de la Ley de Coordinación Fiscal y 37 de esta ley.
+Las aportaciones con cargo a los Fondos señalados en este capítulo, no se destinarán a fines distintos de los expresados en la Ley de Coordinación Fiscal, y no serán objeto de embargo, gravamen, afectación en garantía, ni se destinarán a mecanismos de fuente de pago, salvo por lo dispuesto en los artículos 50 y 51 de dicha ley.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2009)</small>
+
+Las aportaciones a que se refiere este artículo serán cubiertas en efectivo y no podrán estar sujetas a retención, salvo lo dispuesto por el artículo 9° de la Ley de Coordinación Fiscal.
 
 Los recursos que por concepto de aportaciones federales reciban los municipios, serán administrados y ejercidos conforme a la aplicación de sus propias leyes, por tanto, deberán registrarlos como ingresos propios, destinados específicamente a los fines establecidos en la Ley de Coordinación Fiscal.
 
@@ -378,6 +392,22 @@ ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- GOBERNADOR CONSTITUCIONAL DEL E
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 24 DE FEBRERO DE 2009.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE ABRIL DE 2009.
+
+DECRETO No. LX-565, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 23 Y 24 DE LA LEY DE COORDINACION FISCAL DEL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE ABRIL DE 2009.
+
+DECRETO No. LX-566, POR EL QUE SE ADICIONAN LOS ARTICULOS 21 Y 23 DE LA LEY DE COORDINACION FISCAL DEL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO UNICO.
 
