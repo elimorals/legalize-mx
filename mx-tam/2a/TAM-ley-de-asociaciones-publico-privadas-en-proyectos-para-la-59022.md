@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-asociaciones-publico-privadas-en-proyectos-para-la-59022
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2008-06-12"
+last_updated: "2009-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ASOCIACIONES PUBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACION DE SERVICIOS DEL ESTADO DE TAMAULlPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2009.
 
 Ley publicada en el Extraordinario N° 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -941,15 +941,17 @@ Anticipos.
 
 La dependencia o entidad no otorgará anticipos en los contratos, independientemente de su denominación, a menos que en el estudio de costo-beneficio se acredite que ello tendría un impacto positivo de significación.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2009)</small>
+
 ###### Artículo 63.
 
 Pagos.
 
-1. La dependencia o entidad no pactará ni hará pagos al inversionista-proveedor con antelación a que el mismo realice la prestación de los servicios contratados.
+1. En caso que los contratos de prestación de servicios contemple la construcción de obras de infraestructura como parte de la prestación del servicio correspondiente por parte del inversionista proveedor, la dependencia o entidad podrá pactar en el contrato la realización de pagos periódicos al inversionista-proveedor. Dichos pagos estarán destinados a amortizar la inversión efectivamente realizada en relación con dichas obras de infraestructura. La dependencia o entidad podrá pactar el inicio de los pagos a que se refiere este párrafo con antelación a la fecha de conclusión de las obras correspondientes e incluso en caso de rescisión o terminación del contrato respectivo.
 
-2. La fecha, modalidades y condiciones de pago al inversionista-proveedor quedarán sujetas a las estipulaciones del contrato. En todo caso, el pago no podrá exceder de cuarenta y cinco días naturales posteriores a la presentación de la factura respectiva, previa prestación de los servicios en los términos del contrato.
+2. La fecha, modalidades y condiciones de pago al inversionista-proveedor quedarán sujetas a las estipulaciones del contrato. En todo caso, el pago no podrá exceder de cuarenta y cinco días naturales posteriores a la prestación de la factura respectiva.
 
-3. La dependencia o entidad sólo podrá compensar cantidades que le adeude al inversionista-proveedor contra cantidades que éste, a su vez le adeude, con relación a débitos derivados de la ejecución.
+3. La dependencia o entidad sólo podrá compensar cantidades que adeuden al inversionista proveedor contra cantidades que éste, a su vez adeude, con relación a débitos derivados del contrato.
 
 ###### Artículo 64.
 
@@ -1292,3 +1294,9 @@ Del registro de contratos.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE ABRIL DE 2009.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
