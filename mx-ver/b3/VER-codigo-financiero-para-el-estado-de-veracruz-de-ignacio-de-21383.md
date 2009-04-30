@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2008-08-08"
+last_updated: "2009-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO NUMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE ABRIL DE 2009.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -1861,123 +1861,241 @@ En aquellos casos, en que por circunstancias especiales el Ejecutivo del Estado 
 
 Por servicios prestados por la Secretaría de Gobierno, a través de las dependencias que se mencionan a continuación, se causarán y pagarán los derechos siguientes:
 
-A. Por servicios del Registro Público de la Propiedad:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2009)</small>
 
-I. Por la inscripción de documentos que contengan actos jurídicos relativos a la adquisición, transmisión o modificación de la propiedad o posesión de bienes inmuebles o derechos reales sobre los mismos y que no estén comprendidos en las siguientes fracciones, se pagará tomando como base el mayor valor que resulte de comparar el valor catastral asignado por la oficina correspondiente con el consignado en la operación, por cada $10.00 o fracción: $0.80
+A. Por servicios del Registro Público de la Propiedad y de Comercio:
 
-Cuando se trate del derecho real de usufructo a que se refiere el artículo 1013 del Código Civil del Estado, el cálculo de los derechos se hará sobre el 75% del valor que sirva de base conforme al párrafo anterior.
+I. Por la inscripción de documentos que contengan actos jurídicos relativos a resoluciones judiciales o administrativas y testimonios notariales en los cuales se establezca, declare, transfiera, adquiera, modifique o extinga el dominio de la propiedad o la posesión, de bienes inmuebles o derechos reales, se causarán y pagarán previamente por cada acto, tomando como base el valor mayor que resulte de comparar el valor de operación, el de avalúo, el de inversión o el catastral asignado por la oficina correspondiente: Por cada $100.00 o fracción: $0.80.
 
-En ningún caso la cantidad a pagar podrá ser menor de 5 salarios mínimos, ni mayor de 100 salarios mínimos.
+Cuando el objeto del acto jurídico sean dos o más inmuebles deberá expresarse en el documento respectivo el valor de cada uno de ellos para efectos de la aplicación de la tarifa de esta fracción y deberá pagarse por separado.
 
-> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+Cuando se trate del derecho real de usufructo, por cuanto hace a la constitución a que se refiere el artículo 1013 del Código Civil del Estado, así como de la renuncia o extinción, el cálculo de los derechos se hará sobre el 50% del valor que sirva de base conforme al párrafo anterior.
 
-II. Por la inscripción de documentos donde consten fraccionamientos, fusión de predios, lotificaciones, subdivisiones y servidumbres. 10.4 salarios mínimos
+En el caso de extinción del usufructo por fallecimiento del usufructuario, previsto en el artículo 1071 fracción I del Código Civil, deberán pagarse: 5 salarios mínimos.
 
-> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+Por la inscripción de la declaración de lo edificado, modificación, reordenamiento de la construcción de un inmueble, se aplicará la tasa señalada en el párrafo primero de esta fracción.
 
-III. Por la inscripción de la división de copropiedad, del apeo y deslinde, de rectificación de medidas y linderos. 8 salarios mínimos
+En ningún caso la cantidad a pagar podrá ser menor de 10 salarios mínimos ni mayor de 300 salarios mínimos.
 
-IV. Por la inscripción de capitulaciones matrimoniales y disolución de sociedad conyugal. 10 salarios mínimos
+II. Por el registro de operaciones relativas a fraccionamientos de inmuebles:
 
-> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+a) Por la inscripción de actos, contratos, convenios o resoluciones judiciales o administrativas por las que se constituya un fraccionamiento, se fusione, lotifique, relotifique, divida o subdivida un inmueble, por cada lote en:
 
-V. Por la inscripción de constitución de régimen de propiedad en condominio. Por cada vivienda o local. 5 salarios mínimos
+1. Fraccionamiento residencial 4.5 salarios mínimos
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JULIO DE 2002)</small>
+2. Fraccionamiento residencial alto 4.5 salarios mínimos
 
-VI. Por la inscripción de documentos relativos a fianzas, hipotecas, reconocimientos de adeudos, créditos refaccionarios de habilitación o avío, mutuo con interés simple y arrendamiento financiero, garantizados con prenda o hipoteca en el Registro Público de la Propiedad, por cada $10.00 o fracción. $0.06
+3 Fraccionamiento de interés social 2 salarios mínimos
 
-En ningún caso la cantidad a pagar podrá ser menor de 10 salarios mínimos, ni mayor de 100 salarios mínimos.
+4. Fraccionamiento con vivienda 3 salarios mínimos
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JULIO DE 2002)</small>
+5. Fraccionamiento de urbanización
 
-VII. Por el registro de actas de embargo, cédulas hipotecarias, providencias judiciales y demás diligencias decretadas por la autoridad judicial o administrativa sobre el monto total de las cantidades cuyo cobro se asegure por medio del procedimiento, por cada $10.00 o fracción. $0.20
+progresiva 3 salarios mínimos
 
-Cuando en dichos actos se comprendan bienes de cualquier clase, correspondientes a dos o más entidades federativas, y no fuere posible establecer el valor proporcional de la cantidad asegurada respecto a los que se encuentren ubicados en el territorio veracruzano, se cobrará el 0.02% del valor de la suerte principal del embargo.
+6. Fraccionamiento medio 3 salarios mínimos
 
-En ningún caso la cantidad a pagar podrá ser menor a 2 salarios mínimos ni mayor de 30 salarios mínimos.
+7. Fraccionamiento abasto, comercio
 
-VIII. Por la inscripción del contrato de arrendamiento, sobre fincas urbanas o rústicas. 5 salarios mínimos
+y servicios 3 salarios mínimos
 
-> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+8. Fraccionamiento industrial
 
-IX. Por la inscripción del auto declaratorio de herederos y nombramiento de albacea, y cesión de derechos hereditarios si ésta no incluye bienes inmuebles. 8 salarios mínimos
+agroindustrial 3 salarios mínimos
 
-> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+9. Fraccionamiento campestre urbano 4 salarios mínimos
 
-X. Por la inscripción de cualquier tipo de testamentos, contratos de depósito, comodato, prestación de servicios profesionales de obra a precio alzado, aparcería agrícola o ganadera, renta vitalicia y cualquier otro documento que, conforme a la ley, pueda ser inscrito. 8 salarios mínimos
+10. Fraccionamiento campestre
 
-XI. Por la inscripción de:
+agropecuario 2 salarios mínimos
 
-> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
+11. Fraccionamiento de cementerios 2 salarios mínimos
 
-a) Escrituras constitutivas de sociedades civiles o mercantiles. 30 salarios mínimos
+12. Fraccionamiento mixto 2 salarios mínimos
 
-> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
+b) Por la inscripción de fusión y subdivisión de inmuebles cuando no sean constitutivos de fraccionamientos: 10 salarios mínimos.
 
-b) Documentos en que se modifique el capital de dichas sociedades. 20 salarios mínimos
+c) Por la inscripción de la constitución del régimen de propiedad en condominio o sus modificaciones por cada piso, departamento, vivienda, local, terreno y naves, o por su extinción: 5 salarios mínimos.
 
-> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
+d) Por la inscripción de constitución de servidumbres, así como su extinción: 8 salarios mínimos.
 
-c) Actas y estatutos de sociedades cooperativas, cualquiera que sea su objeto o denominación siempre que su funcionamiento se ajuste a la Ley Federal relativa. 12 salarios mínimos
+e) Por la inscripción de actos relativos a la división de copropiedad de bienes inmuebles se pagará por la parte que corresponda a cada copropietario: 8 salarios mínimos.
 
-d) Documentos en que se modifique el acta constitutiva de la sociedad. 10 salarios mínimos
+III. Por la inscripción de apeo y deslinde, se pagará sobre la diferencia que resulte entre la superficie inscrita y la resultante en demasía, tomando como base el valor catastral, debiéndose pagar conforme a lo establecido en la fracción I de este Apartado.
 
-> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
+a) Por la inscripción de rectificación de superficie, medias o linderos, a que se refiere el artículo 71 de la Ley del Registro Público de la Propiedad para el Estado de Veracruz de Ignacio de la Llave: 10 salarios mínimos .
 
-e) Actas constitutivas y modificación de asociaciones civiles, constituidas conforme a lo dispuesto en el artículo 2603 del Código Civil, siempre que no se aporten bienes inmuebles. 12 salarios mínimos
+IV. Por la inscripción de capitulaciones matrimoniales, disolución o liquidación, que impliquen sociedad conyugal o separación de bienes: 10 salarios mínimos.
 
-> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
+a) Por la inscripción de la escritura pública que contenga actos de aportación de bienes inmuebles a la sociedad conyugal o al régimen de separación de bienes, se deberá pagar tomando como base el 50% sobre el valor mayor de avalúo o catastral de cada inmueble, conforme a lo establecido en la fracción I del presente Apartado.
 
-f) Cualesquiera actas de asamblea de las sociedades y asociaciones antes indicadas. 15 salarios mínimos
+V. Por la inscripción de:
 
-g) La disolución de cualquiera de las sociedades y asociaciones mencionadas anteriormente siempre y cuando no se adjudiquen bienes inmuebles. 6 salarios mínimos
+a) Actas de embargo, que constituyan gravámenes o providencias precautorias, judiciales o administrativas, a la propiedad, posesión de bienes muebles o inmuebles y demás diligencias decretadas por la autoridad judicial o administrativa, sobre el monto total de las cantidades cuyo cobro se asegure por medio del procedimiento: Por cada $100.00 o fracción: $1.00.
 
-> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
+En ningún caso la cantidad a pagar podrá ser menor de 10 salarios mínimos ni mayor de 200 salarios mínimos.
 
-h) Poderes y su cancelación. 8 salarios mínimos
+b) La demanda de la cédula hipotecaria proveniente de otro Estado, así como del Juicio Hipotecario al que se refiere el artículo 451-C del Código de Procedimiento Civiles del Estado, providencias judiciales y demás diligencias decretadas por la autoridad judicial o administrativa sobre el monto total de las cantidades cuyo cobro se asegure o reclame por medio del procedimiento: Por cada $100.00 o fracción: $1.00.
 
-i) Documentos relativos a la enajenación de bienes muebles. 6 salarios mínimos
+En ningún caso la cantidad a pagar podrá ser menor de 10 salarios mínimos ni mayor de 200 salarios mínimos.
 
-XII. Por la inscripción de documentos constitutivos de Fideicomisos:
+c) Actos relativos a hipotecas, reconocimiento de adeudos, contratos de crédito con garantía hipotecaria, refaccionarios o de habilitación o avío, mutuo con interés o simple, arrendamiento financiero, garantizados con prenda o hipoteca, y de fianzas: Por cada $100.00 o fracción: $0.60
 
-> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
+En ningún caso la cantidad a pagar podrá ser menor de 10 salarios mínimos ni mayor de 150 salarios mínimos.
 
-a) Fideicomisos traslativos de dominio, se pagarán por cada $10.00 o fracción. $0.08
+d) Cuando en los actos a que se refieren los incisos anteriores de la presente fracción, comprendan bienes de cualquier clase, correspondientes a dos o más entidades federativas y no fuere posible establecer el valor proporcional de la cantidad asegurada respecto a los que se encuentren ubicados en el territorio veracruzano, se dividirá el monto de lo gravado o lo asegurado entre el número de entidades federativas en que se comprendan los bienes, aplicándose las tasas a que se refiere la presente fracción, según el caso.
 
-> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
+e) La cancelación total o parcial de inscripción a que se refieren los actos comprendidos en la presente fracción. 10 salarios mínimos.
 
-b) Fideicomisos de garantía, se pagarán por cada $10.00 o fracción. $0.03
+VI. Por la inscripción de los contratos de comodato, arrendamiento y de ocupación superficial sobre fincas urbanas o rústicas o su cancelación: 10 salarios mínimos.
 
-c) Cualquier otro tipo de Fideicomiso diferente a los señalados en los incisos que anteceden. 5 salarios mínimos
+VII. Por la inscripción del auto declaratorio de herederos y nombramiento de albacea, y cesión de derechos hereditarios si ésta no incluye bienes inmuebles: 8 salarios mínimos.
 
-En ningún caso la cantidad a pagar podrá ser menor de 5 salarios mínimos, ni mayor de 100 salarios mínimos.
+Para los casos de la cesión de derechos hereditarios que incluyan bienes inmuebles se pagará conforme a lo establecido en la fracción I del presente Apartado.
 
-XIII. Por la modificación o rectificación de documentos ya registrados que no implique el aumento del importe de las obligaciones pecuniarias, el 15% del total de los derechos que corresponderían al estado por la inscripción de las escrituras primordiales y de las que, en su caso, hubieren modificado aquéllos en cualquier sentido aplicándose las cuotas vigentes.
+VIII. Por la inscripción o depósito de cualquier tipo de testamento, prestación de servicios profesionales de obra a precio alzado, aparcería agrícola o ganadera, renta vitalicia y cualquier otro documento que, conforme a la ley, pueda ser inscrito: 8 salarios mínimos.
 
-Cuando las rectificaciones sí impliquen aumento a las obligaciones contraídas con anterioridad, se cobrará el 20% sobre las diferencias en demasía que resulten de tales rectificaciones.
+IX. Por la inscripción de:
 
-XIV. Por toda anotación o cancelación cuando no sea de las que deben hacerse al mismo tiempo como consecuencia de la inscripción. 2 salarios mínimos
+a) Escrituras constitutivas de sociedades civiles, siempre y cuando no se aporten bienes inmuebles: 30 salarios mínimos.
 
-XV. Por la expedición de certificados de gravámenes o libertad de éstos, de inscripciones de inmuebles, de afectación agraria, de no inscripción de inmuebles y de limitación de dominio. 4 salarios mínimos
+b) Documentos en que se modifique el capital de dichas sociedades: 20 salarios mínimos.
 
-a) Por el de no poseer bienes. 0.50 salario mínimo
+c) Cualquier otra acta de las sociedades civiles: 15 salarios mínimos.
 
-b) Por cualquier otro que se expida y que no esté comprendido anteriormente. 4 salarios mínimos
+d) Actas constitutivas y modificación de asociaciones civiles, conforme a lo dispuesto en el artículo 2603 del Código Civil, siempre que no se aporten bienes inmuebles: 12 salarios mínimos.
 
-c) Por la expedición de copias certificadas, por cada hoja. 0.25 salario mínimo
+e) Cualquier otra acta de las asociaciones antes indicadas: 6 salarios mínimos.
 
-XVI. Los documentos otorgados fuera del Estado pagarán un 25% adicional sobre las cuotas señaladas en este artículo.
+f) La disolución de cualquiera de las sociedades y asociaciones mencionada anteriormente, siempre y cuando no se adjudiquen bienes inmuebles: 6 salarios mínimos,
 
-XVII. Por cada inscripción de documentos cuyo valor sea indeterminado, si la operación se refiere a inmuebles o derechos que tengan un valor fiscal, la cuota que en el caso corresponda se basará en éste y cuando el valor de las operaciones no pueda determinarse en esta forma. 4 salarios mínimos
+g) Cuando se aporten bienes inmuebles, en los casos a que se refieren los incisos a), d) y f) de esta fracción, se estará a lo dispuesto en los casos de la fracción I de este Apartado.
 
-> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+h) Poderes, mandatos y su cancelación, otorgados por sociedades y asociaciones civiles y entre particulares: 8 salarios mínimos.
 
-XVIII. Por cada hoja de la consulta electrónica. 0.3 salarios mínimos
+i) Documentos relativos a enajenación de bienes muebles 6 salarios mínimos.
 
-XIX. Se exceptúan del pago de los derechos del Registro Público de la Propiedad a que se refiere este artículo:
+X. Por la inscripción de documentos constitutivos de Fideicomisos:
+
+a) Fideicomisos traslativos de dominio: Por cada $100.00 o fracción: $0.80.
+
+En ningún caso la cantidad a pagar podrá ser menor de 10 salarios mínimos, ni mayor de 300.
+
+b) Fideicomisos de garantía: Por cada $100.00 o fracción: $0.60.
+
+En ningún caso la cantidad a pagar podrá ser menor de 10 salarios mínimos, ni mayor de 150.
+
+c) Cualquier otro tipo de fideicomiso, diferente a los señalados en los incisos que anteceden: 10 salarios mínimos.
+
+d) Por la extinción parcial de fideicomiso, siempre y cuando no implique la transmisión de propiedad o se haga efectiva la garantía en ejecución de fideicomiso: 3 salarios mínimos,
+
+XI. Por la modificación o rectificación de actos ya registrados que no implique el aumento del importe de las obligaciones pecuniarias, se pagará el 15% del total de los derechos que corresponderían al Estado por la inscripción de las escrituras primordiales y de las que, en su caso, hubieren modificado aquéllos en cualquier sentido aplicándose las cuotas vigentes.
+
+Cuando las rectificaciones impliquen aumento a las obligaciones contraídas con anterioridad, se cobrará sobre las diferencias en demasía que resulten de tales rectificaciones, conforme a la aplicación de la tasa en cada caso que se trate.
+
+En ningún caso la cantidad a pagar podrá ser menor de 10 salarios mínimos.
+
+XII. Por cancelación de la reserva de dominio a que se refiere el artículo 2246 del Código Civil:
+
+a) Por la inscripción de la escritura pública que contenga la cancelación de la reserva de dominio se pagará: 10 salarios mínimos,
+
+b) Por toda cancelación de anotación marginal de las reservas de dominio que hagan las instituciones encargadas de la regularización de la tenencia de la tierra cuando sean de interés social y que no sea de las que deban hacerse al mismo tiempo como consecuencia de la inscripción: 2 salarios mínimos.
+
+Por cualquier otra cancelación de anotación marginal cuando no sea de las que deben hacerse al mismo tiempo como consecuencia de la inscripción: 5 salarios mínimos.
+
+XIII. Por la expedición de informes, certificados y certificaciones:
+
+a) Certificados de libertad o existencia de gravámenes hasta por un periodo de diez años, individualmente por cada uno de los predios tratándose de condominios, fraccionamientos, propiedades y copropiedades por cada inmueble o folio: 5 salarios mínimos,
+
+b) Certificado de no inscripción: 35 salarios mínimos.
+
+c) Certificado de historia registral por inmueble, hasta por un periodo de diez años: 20 salarios mínimos,
+
+d) Certificado de historia registral por cada periodo de cinco años anteriores a que se refiere el inciso que antecede: 10 salarios mínimos.
+
+e) Certificado de inscripción de inmuebles, de afectación agraria, delimitación de dominio, de cancelación de gravamen: 5 salarios mínimos.
+
+f) Certificado de anotaciones marginales por cada predio: 10 salarios mínimos.
+
+g) Por la expedición de copias certificadas por cada hoja: 0.25 salarios mínimos.
+
+h) Certificado de no poseer bienes soliciten particulares derivados de programas de interés social: 1 salario mínimo.
+
+i) Por cualquier otro que se expida y que no esté comprendido en esta fracción: 5 salarios mínimos.
+
+XIV. Los documentos otorgados fuera del Estado pagarán un 25% adicional sobre las cuotas señaladas en este Apartado.
+
+XV. Por cada inscripción de actos cuyo valor sea indeterminado, si la operación se refiere a inmuebles o derechos que tengan un valor fiscal, la cuota que en el caso corresponda se basará en éste y cuando el valor de las operaciones no pueda determinarse en esta forma: 10 salarios mínimos.
+
+XVI. Por servicios del sistema de folio electrónico:
+
+a) Por la expedición automatizada de copia certificada, por cada hoja: 0.35 salarios mínimos.
+
+b) Por consulta automatizada por cada folio inmobiliario, mobiliario o de persona jurídica: 1 salario mínimo.
+
+XVII. Por la inscripción de cada acto relativo a sociedades mercantiles, se pagará conforme a lo siguiente:
+
+a) Por su constitución: 30 salarios mínimos
+
+b) Por actas de asamblea, de sociedades mercantiles o de sucursales de las mismas, nacionales o extranjeras, que contengan reforma, transformación, fusión, escisión, aumento de capital o cualquier otro acto no comprendido en los anteriores: 20 salarios mínimos.
+
+c) Por otros actos jurídicos mercantiles, no comprendidos en actas de asamblea: 6 salarios mínimos.
+
+d) Poderes y su cancelación otorgados para actos de comercio por dichas sociedades: 10 salarios mínimos.
+
+e) La disolución, liquidación y extinción de sociedades mercantiles: 15 salarios mínimos.
+
+XVIII. Por la inscripción de cada acto relativo a sociedades cooperativas, se pagará conforme a lo siguiente:
+
+a) Actas y Estatutos de sociedades cooperativas, cualquiera que sea su objeto o denominación, siempre que su funcionamiento se ajuste a la Ley Federal relativa: 12 salarios mínimos.
+
+b) Acta de asamblea por la que se modifique la constitutiva de la sociedad, o cualquier otro acto que lleven a cabo: 10 salarios mínimos.
+
+c) Poderes y su cancelación otorgados para actos de comercio por dichas sociedades: 5 salarios mínimos.
+
+d) Por disolución o liquidación de la sociedad: 5 salarios mínimos.
+
+XIX. Por la inscripción de cada acto relativo a sociedades microindustriales y de la actividad artesanal, se pagará conforme a lo siguiente:
+
+a) Por el acta constitutiva y sus modificaciones o cualquier otro acto: 12 salarios mínimos.
+
+b) Por la disolución o liquidación de la sociedad: 5 salarios mínimos.
+
+c) Poderes y su cancelación otorgados para actos de comercio por dichas sociedades: 5 salarios mínimos.
+
+XX. Por la inscripción de cada acto relativo a sociedades de producción rural o cualquier otra distinta de las anteriores, y que por disposición de la ley respectiva deban inscribirse, se pagará conforme a lo siguiente:
+
+a) Actas y Estatutos de sociedades de producción rural, cualquiera que sea su objeto o denominación, siempre que su funcionamiento se ajuste a la Ley Federal relativa: 15 salarios mínimos.
+
+b) Acta de asamblea por la que se modifique la constitutiva de la sociedad, o cualquier otro acto que lleven a cabo: 10 salarios mínimos.
+
+c) Poderes y su cancelación otorgados para actos de comercio por dichas sociedades: 5 salarios mínimos.
+
+d) Por disolución o liquidación de la sociedad: 5 salarios mínimos.
+
+XXI. Por el registro de actos mercantiles que impliquen contratos de:
+
+a) Compraventa mercantil y arrendamiento financiero se pagará sobre el monto de la operación: Por cada $100.00 o fracción: $0.60.
+
+XXII. Por la inscripción relativa a embargos, providencias judiciales y demás diligencias decretadas por la autoridad judicial o administrativa sobre el monto total de las cantidades cuyo monto se asegure o reclame por medio del procedimiento, relativas al Registro Público de Comercio: Por cada $100.00 o fracción: $1.00.
+
+En ningún caso la cantidad a pagar podrá ser menor de 10 salarios mínimos ni mayor de 200 salarios mínimos.
+
+XXIIl. Por la inscripción relativa a hipotecas, reconocimiento de adeudos, contrato de crédito con garantía hipotecaria o prendaria, refaccionario, de habilitación o avio, mutuo con interés o simple garantizado con prenda o hipoteca y fianza, relativas al Registro Público de Comercio: Por cada $100.00 o fracción: $0.60.
+
+En ningún caso la cantidad a pagar podrá ser menor de 10 salarios mínimos ni mayor de 150 salarios mínimos.
+
+XXIV. Por certificado de existencia o inexistencia de gravámenes relativos al Registro Público de Comercio: 6 salarios mínimos.
+
+XXV. Por la historia registral de la sociedad: 10 salarios mínimos.
+
+XXVI. Por la expedición de copias certificadas del folio mercantil, por hoja se cobrará: 0.35 salarios mínimos.
+
+XXVII. Por la inscripción, cancelación o anotación de cualquier otro acto no comprendido en las fracciones anteriores, relativos a folios mercantiles: 5 salarios mínimos.
+
+XXVIII. Se exceptúan del pago de los derechos del Registro Público de la Propiedad y de Comercio a que se refiere este artículo:
 
 a) Las certificaciones o copias certificadas que se expidan a solicitud de las autoridades judiciales para que obren en causas penales o para acreditar la solvencia de fiadores que propongan los procesados o sentenciados para obtener su libertad, pero en el segundo caso sólo se expedirán gratuitamente cuando los interesados, de manera notoria, carezcan de recursos.
 
@@ -1987,39 +2105,37 @@ c) Los certificados o copias certificadas que se expidan con relación a la anot
 
 d) La inscripción de documentos relativos a las instituciones de beneficencia pública o privada, reconocidas por la ley, siempre que éstas sean las directamente interesadas.
 
-e) Los certificados que se expidan a los inquilinos para los efectos de la Ley del Inquilinato en vigor.
+e) Los certificados que se expidan a los inquilinos para los efectos de la Ley del Inquilinato para el Estado de Veracruz de Ignacio de la Llave.
 
 f) Los certificados o copias certificadas que se expidan a los estudiantes o a los padres, tutores, representantes o fiadores de los mismos, para que hagan fe ante cualquier autoridad escolar.
 
-g) La inscripción de las Resoluciones Presidenciales o del Tribunal Superior Agrarios (sic) sobre dotación o restitución de ejidos, dictadas de acuerdo con las leyes de la materia.
+g) La inscripción de las Resoluciones Presidenciales o del Tribunal Superior Agrario sobre dotación o restitución de ejidos, dictadas de acuerdo con las leyes de la materia, así como la declaratorias de terrenos nacionales realizadas por la Secretaría de la Reforma Agraria.
 
 h) La inscripción de los contratos de arrendamiento de fincas urbanas que fijen una renta anual inferior a cinco salarios mínimos, en la inteligencia de que no será obligatoria la inscripción.
 
-i) Las inscripciones de los títulos a que se refiere el artículo siete del Decreto Presidencial del 9 de agosto de 1923, sobre ocupación y adquisición de terrenos nacionales y baldíos con fines agrícolas.
+i) Las inscripciones de títulos de propiedad expedidos por la Secretaría de la Reforma Agraria y el Registro Agrario Nacional, con motivo de sus programas de regularización.
 
-j) Las inscripciones preventivas a que se refiere el artículo 2951 del Código Civil del Estado.
+j) Los asientos a que se refiere el artículo 2951 del Código Civil del Estado.
 
-k) La inscripción de los contratos traslativos de dominio a los adquirentes de viviendas de interés social y popular construidas en el estado, cuyos proyectos habitacionales estén autorizados por la Secretaría de Desarrollo Regional y coordinados por el Instituto Veracruzano de Fomento al Desarrollo Regional, así como los contratos traslativos de dominio, con financiamiento propio de los organismos promotores de vivienda, que en atención a los fines que persiguen, se otorguen por la Comisión para la Regularización de la Tenencia de la Tierra (Corett), el Fondo de Vivienda del Instituto de Seguridad y Servicios Sociales para los Trabajadores al Servicio del Estado (Fovissste), Instituto Veracruzano de Fomento al Desarrollo Regional; el Instituto del Fondo Nacional de la Vivienda para los Trabajadores (Infonavit); el Fideicomiso Fondo Nacional de Habitaciones Populares (Fonhapo), el Fondo de Operación y Financiamiento Bancario a la Vivienda (Fovi), el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas (ISSFAM), el Banco Nacional del Ejército, Fuerza Aérea y Armada S.N.C. (BANJERCITO), el Instituto de Pensiones del Estado (IPE); y la Secretaría de Desarrollo Regional a través de la Dirección General del Patrimonio del Estado.
+k) La inscripción de los fraccionamientos o notificaciones para efectos de los contratos traslativos de dominio a los adquirentes de viviendas de interés social y popular construidas en el Estado, cuyos proyectos habitacionales estén autorizados por el Instituto Veracruzano de Desarrollo Urbano, Regional y Vivienda, así como los contratos traslativos de dominio, con financiamiento propio de los organismos promotores de vivienda, que en atención a los fines que persiguen, se otorguen por la Comisión para la Regularización de la Tenencia de la Tierra (CORETT), el Fondo de Vivienda del Instituto de Seguridad y Servicios Sociales para los Trabajadores al Servicio del Estado (FOVISSSTE), Instituto Veracruzano de Desarrollo Urbano, Regional y Vivienda; el Instituto del Fondo Nacional de la Vivienda para los Trabajadores (INFONAVIT); el Fideicomiso Fondo Nacional de Habitaciones Populares (FONHAPO), el Fondo de Operación y Financiamiento Bancario a la Vivienda (FOVI), el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas (ISSFAM), el Banco Nacional del Ejército, Fuerza Aérea y Armada S.N.C. (BANJERClTO), el Instituto de Pensiones del Estado (IPE); y la Secretaría de Finanzas y Planeación a través de la Dirección General del Patrimonio del Estado.
 
-l) La inscripción de las escrituras de compraventa a los poseedores de predios en las colonias populares, reservas territoriales y fundos legales, destinados a usos habitacionales que se encuentren en proceso de regularización por parte de la Secretaría de Desarrollo Regional, con intervención de la Dirección General del Patrimonio del Estado, del Instituto Veracruzano de Fomento al Desarrollo Regional y por los Ayuntamientos de los Municipios del Estado, previa autorización del Congreso.
+l) La inscripción de las escrituras de compraventa a los poseedores de predios en las colonias populares, reservas territoriales y fundos legales, destinados a usos habitacionales o agrícolas que tengan como propósito solucionar problema sociales y que se encuentren en proceso de regularización por parte de la Secretaría de Finanzas y Planeación, con intervención de la Dirección General del Patrimonio del Estado, del Instituto Veracruzano de Desarrollo Urbano, Regional y Vivienda y por los Ayuntamientos de los Municipios del Estado.
 
-m) La inscripción de contratos relativos a la constitución de créditos con garantía hipotecaria para la adquisición, construcción y mejoramiento de vivienda, otorgados por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores (Infonavit), el Fondo de Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (Fovissste), el Fideicomiso Fondo Nacional de Habitaciones Populares (Fonhapo), el Fondo de Operación y Financiamiento Bancario a la Vivienda (Fovi), el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas (ISSFAM), el Banco Nacional del Ejército, Fuerza Aérea y Armada S.N.C. (BANJERCITO), el Instituto de Pensiones del Estado (IPE); la Secretaría de Desarrollo Regional y el Instituto Veracruzano de Fomento al Desarrollo Regional.
+m) La inscripción de contratos relativos a la constitución de créditos con garantía hipotecaria para la adquisición, construcción y mejoramiento de vivienda, otorgados por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores (INFONAVIT), el Fondo de Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (FOVISSSTE), el Fideicomiso Fondo Nacional de Habitaciones Populares (FONHAPO), el Fondo de Operación y Financiamiento Bancario a la Vivienda (FOVI), el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas (ISSFAM), el Banco Nacional del Ejército, Fuerza Aérea y Armada S.N.C. (BANJERCITO), el Instituto de Pensiones del Estado (lPE); y el Instituto Veracruzano de Desarrollo Urbano, Regional y Vivienda.
 
-n) La inscripción de contratos relativos a la constitución de créditos agrícolas con garantía hipotecaria que otorgue el Banco Nacional de Crédito Rural S.N.C. y el Banco Nacional de Crédito Rural del Golfo S.N.C.
+n) La inscripción de contratos relativos a la constitución de créditos agrícolas con garantía hipotecaria que otorgue Financiera Rural, como organismo descentralizado de la Administración Pública Federal, sectorizado en la Secretaría de Hacienda y Crédito Público.
 
-o) La inscripción de contratos relativos a la constitución de créditos con garantía hipotecaria para la micro y pequeña empresa que otorguen las instituciones bancarias y los fideicomisos estatales.
+ñ) La inscripción de contratos relativos a la constitución de créditos con garantía hipotecaria para la micro y pequeña empresa que otorguen las instituciones bancarias y los fideicomisos estatales.
+
+o) Las anotaciones marginales relativas al decreto judicial para garantizar pensiones alimenticias.
 
 p) Los casos que señalen de manera específica las demás leyes.
 
-> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2003)</small>
+q) Las Oficinas del Registro Público de la Propiedad del Estado inscribirán los embargos de bienes que realicen autoridades fiscales de la Federación, el Estado y los municipios, para lo cual quedará en suspenso el pago de los derechos que se generen por estos actos. Dichas autoridades cubrirán el monto de los derechos conforme a la tasa aplicable vigente al momento de que soliciten la cancelación de la inscripción. Este pago no se realizará cuando se adjudiquen los bienes a favor de los Gobiernos federal, estatal o municipal. Para el trámite a que se refiere esta fracción no se requerid resolución especial.
 
-La aplicación de las excepciones en el pago de los derechos del Registro Público de la Propiedad a que se refieren los incisos c), d), g), i), j), k), l), m), n) y o) de esta fracción, no requerirán la emisión del dictamen confirmatorio de la Secretaría que se señala en el artículo 32 de este Código.
+La aplicación de las excepciones en el pago de los derechos del Registro Público de la Propiedad a que se refieren los incisos c), d), g), i), j), k), l), m), n), y ñ) de esta fracción no requerirán la emisión del dictamen confirmatorio de la Secretaría que se señala en el artículo 32 de este Código.
 
-> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2003)</small>
-
-La Dirección General de Registro Público de la Propiedad y del Comercio deberá informar mensualmente a la Secretaría, sobre el número y principales características de todas las operaciones registrales que hayan actualizado alguna de las excepciones de pago referidas en el párrafo precedente.
-
-XX. Las Oficinas del Registro Público de la Propiedad del Estado, inscribirán los embargos de bienes que realicen autoridades fiscales de la Federación, el Estado y los municipios, para lo cual quedará en suspenso el pago de los derechos que se generen por estos actos. Dichas autoridades cubrirán el monto de los derechos conforme al salario mínimo vigente al momento de que soliciten la cancelación de la inscripción. Este pago no se realizará cuando se adjudiquen los bienes a favor de los Gobiernos federal, estatal o municipal. Para el trámite a que se refiere esta fracción no se requerirá resolución especial.
+La Dirección General de Registro Público de la Propiedad y del Comercio deberá informar mensualmente a la Secretaría sobre el número y principales características de todas las operaciones registrales que hayan actualizado alguna de las excepciones de pago referidas en el párrafo precedente.
 
 B. Por servicios de la Inspección y Archivo General de Notarías:
 
@@ -2038,6 +2154,18 @@ V. Por la expedición de Nombramiento de Notario Titular. 50 salarios mínimos
 VI. Por la expedición de testimonios de los protocolos depositados. 10 salarios mínimos
 
 VII. Por la expedición de copias certificadas de documentos de los protocolos depositados. 4 salarios mínimos
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2009)</small>
+
+VIII. Por el cotejo y certificación de firmas y sellos de notarios públicos en el Estado: 4 salarios mínimos
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2009)</small>
+
+IX. Por cada registro en el Sistema de Avisos de Poderes Notariales, sobre el otorgamiento de poderes, mandatos, así como sus revocaciones notariales: 4 salarios mínimos
 
 C. Por servicios de la Editora de Gobierno del Estado:
 
@@ -8408,3 +8536,9 @@ Primero. El presente decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Los sujetos obligados a que se refiere el artículo 5.1, fracciones I, II, III y IV de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave, realizarán los trámites necesarios ante la Secretaría de Finanzas y Planeación para obtener los recibos fiscales que se extenderán a las personas que soliciten información pública. Los Ayuntamientos harán lo propio, a través de sus respectivas tesorerías.
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 30 DE ABRIL DE 2009.
+
+Primero. El presente Decreto entrará en vigor a los treinta días siguientes de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
