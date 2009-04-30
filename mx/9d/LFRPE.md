@@ -4,7 +4,7 @@ identifier: "LFRPE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2004-12-31"
-last_updated: "2004-12-31"
+last_updated: "2009-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41938&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFRPE"
 
 LEY FEDERAL DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 31 de diciembre de 2004.
 
@@ -56,9 +56,15 @@ Para los efectos de esta Ley, se entenderá por actividad administrativa irregul
 
 Son sujetos de esta Ley, los entes públicos federales. Para los efectos de la misma, se entenderá por entes públicos federales, salvo mención expresa en contrario, a los Poderes Judicial, Legislativo y Ejecutivo de la Federación, organismos constitucionales autónomos, dependencias, entidades de la Administración Pública Federal, la Procuraduría General de la República, los Tribunales Federales Administrativos y cualquier otro ente público de carácter federal.
 
-Los preceptos contenidos en el Capítulo II y demás disposiciones de esta Ley serán aplicables, en lo conducente, para cumplimentar los fallos de la Corte Interamericana de Derechos Humanos, así como las recomendaciones de la Comisión Interamericana de Derechos Humanos, aceptadas estas últimas por el Estado Mexicano, en cuanto se refieran a pago de indemnizaciones.
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2009)</small>
+
+Los preceptos contenidos en el Capítulo II y demás disposiciones de esta Ley serán aplicables, en lo conducente, para cumplimentar los fallos de la Corte Interamericana de Derechos Humanos, así como las recomendaciones de la Comisión Nacional de los Derechos Humanos y de la Comisión Interamericana de Derechos Humanos, aceptadas por los entes públicos federales y por el Estado Mexicano en su caso, en cuanto se refieran al pago de indemnizaciones.
 
 La aceptación y cumplimiento de las recomendaciones a que se refiere el párrafo anterior, en su caso, deberá llevarse a cabo por el ente público federal que haya sido declarado responsable; lo mismo deberá observarse para el cumplimiento de los fallos jurisdiccionales de reparación. Será la Secretaría de Relaciones Exteriores el conducto para informar de los cumplimientos respectivos, tanto a la Comisión como a la Corte Interamericana de Derechos Humanos, según corresponda.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 2009)</small>
+
+La Comisión Nacional de los Derechos Humanos y sus servidores públicos, no son sujetos de responsabilidad patrimonial por las opiniones y recomendaciones que formulen, así como por los actos que realicen en ejercicio de las funciones de su competencia.
 
 ###### ARTÍCULO 3.
 
@@ -275,3 +281,11 @@ SEGUNDO.- Los asuntos que se encuentren en trámite en los entes públicos feder
 México, D.F., a 14 de diciembre de 2004.- Dip. Manlio Fabio Beltrones Rivera, Presidente.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 30 DE ABRIL DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al contenido del presente Decreto.
