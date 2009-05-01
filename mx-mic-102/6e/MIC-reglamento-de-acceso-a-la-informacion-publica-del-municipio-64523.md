@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-acceso-a-la-informacion-publica-del-municipio-645
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-18"
-last_updated: "2009-03-27"
+last_updated: "2009-05-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "MIC"
 
 REGLAMENTO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL AYUNTAMIENTO DE URUAPAN, MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO, DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE URUAPAN, MICHOACÁN, PUBLICADO EN EL P.O. DE 1 DE MAYO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Michoacán, el martes 18 de noviembre de 2008.
 
@@ -692,3 +694,13 @@ Lic. Agustín Aaguilar (sic) Gutiérrez, encargado de Despacho de la Secretaría
 P.O. 27 DE MARZO DE 2009.
 
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACÁN.
+
+P.O. 1 DE MAYO DE 2009.
+
+Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo, y para el conocimiento ciudadano publíquese en los estrados de la Presidencia Municipal y de las tenencias, en los diarios de mayor circulación del Municipio, en la página de Internet, oficial del Ayuntamiento.
+
+Artículo Segundo.- Se abroga el Reglamento de Acceso a la Información Pública del Municipio de Uruapan, Michoacán publicado en el Periódico Oficial del Estado de Michoacán de Ocampo el 18 de Noviembre de 2008.
+
+Artículo Tercero.- El Ayuntamiento de Uruapan, Michoacán, deberá crear dentro de un plazo no mayor de noventa días naturales, contados a partir de la vigencia de éste Reglamento, la Unidad de Acceso a que se refiere el presente.
+
+Artículo Cuarto.- Conforme a lo previsto en los artículos 145, 149 y sexto transitorio de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo, remítase un ejemplar con el texto integro al H. Congreso del Estado, al Titular del Poder Ejecutivo Estatal y al Consejero Presidente del Instituto para la Transparencia y Acceso a la Información del Estado de Michoacán de Ocampo para su conocimiento y efectos legales conducentes.
