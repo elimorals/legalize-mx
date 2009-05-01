@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2009-04-01"
+last_updated: "2009-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -2421,9 +2421,37 @@ VI.- Solicitar las medidas y providencias que prevea la ley para su seguridad y 
 
 Quedan para siempre prohibidas las penas de mutilación y de infamia, la marca, los azotes, los palos, el tormento de cualquiera especie, la multa excesiva, la confiscación de bienes y cualquiera otras penas inusitadas o trascendentales.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2009)</small>
 
-No se considerará confiscación de bienes la aplicación total o parcial de los bienes de una persona hecha por la autoridad judicial, para el pago de responsabilidad civil resultante de la comisión de un delito, o para el pago de impuestos o multas. Tampoco se considerará confiscación el decomiso que ordene la autoridad judicial, de los bienes, en caso de enriquecimiento ilícito en los términos de la Ley; ni el decomiso de los bienes propiedad del sentenciado, por delitos de los previstos como de delincuencia organizada, o el de aquellos respecto de los cuales éste se conduzca como dueño, si no acredita la legítima procedencia de dichos bienes.
+Toda pena deberá ser proporcional al delito que sancione al bien jurídico afectado.
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2009)</small>
+
+No se considerará confiscación la aplicación de bienes de una persona cuando sea decretada para el pago de multas o impuestos, ni cuando la decrete una autoridad judicial para el pago de responsabilidad civil derivada de la comisión de un delito.
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2009)</small>
+
+Tampoco se considerará confiscación el decomiso que ordene la autoridad judicial de los bienes en caso de enriquecimiento ilícito en los términos de la Ley; la aplicación a favor del Estado de bienes asegurados que causen abandono en los términos de las disposiciones aplicables, ni la de aquellos bienes cuyo dominio se declare extinto en sentencia.
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2009)</small>
+
+En el caso de extinción de dominio se establecerá un procedimiento que se regirá por las siguientes reglas:
+
+I. Será jurisdiccional y autónomo del (sic) de materia penal;
+
+II. Procederá en los casos de secuestro, robo de vehículos y trata de personas, respecto de los bienes siguientes:
+
+a) Aquellos que sean instrumento, objeto o producto del delito, aún cuando no se haya dictado la sentencia que determine la responsabilidad penal, pero existan elementos suficientes para determinar que el hecho ilícito sucedió.
+
+b) Aquellos que no sean instrumento, objeto o producto del delito, pero que hayan sido utilizados o destinados a ocultar o mezclar bienes producto del delito, siempre y cuando se reúnan los extremos del inciso anterior.
+
+c) Aquellos que estén siendo utilizados para la comisión de delitos por un tercero, si su dueño tuvo conocimiento de ello y no lo notificó a la autoridad o hizo algo para impedirlo.
+
+d) Aquellos que estén intitulados a nombre de terceros, pero existan suficientes elementos para determinar que son producto de delitos patrimoniales, y el acusado por estos delitos se comporte como dueño.
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2009)</small>
+
+Toda persona que se considere afectada podrá interponer los recursos respectivos para demostrar la procedencia lícita de los bienes y su actuación de buena fe, así como que estaba impedida para conocer la utilización ilícita de sus bienes.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2008)</small>
 
@@ -2729,7 +2757,7 @@ UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicaci�
 
 P.O. 25 DE ENERO DE 1980.
 
-UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+UNICO:- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 30 DE ENERO DE 1980.
 
@@ -3302,3 +3330,7 @@ Primero.- Este Decreto entrará en vigor a los ciento veinte días naturales sig
 Segundo.- El actual Auditor General del Estado permanecerá en su cargo hasta la conclusión del plazo para el cual fue designado.
 
 Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE MAYO DE 2009.
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
