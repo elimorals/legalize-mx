@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-para-la-proteccion-y-preservacion-del-4497
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-24"
-last_updated: "2005-05-24"
+last_updated: "2009-05-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44973&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO EN MATERIA DE PREVENCION Y CONTROL DE LA CONTAMINACION DE LA ATMOSFERA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO SU ENTRADA EN VIGOR SERA AL CUARTO DIA SIGUIENTE DE SU PUBLICACION.</small>
-
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2009.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 24 de mayo de 2005.
 
@@ -393,289 +391,185 @@ V. Relación de productos, subproductos y residuos que vayan a generarse y su fo
 
 VI. Equipos o sistemas para el control de la contaminación a la atmósfera que vayan a utilizarse, indicando especificaciones técnicas, bases de diseño, eficiencia de operación y memorias de cálculo.
 
+> <small>(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)</small>
+
 ## TÍTULO TERCERO. EMISIÓN DE CONTAMINANTES A LA ATMÓSFERA GENERADA POR FUENTES MÓVILES
+
+> <small>(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)</small>
 
 ### CAPÍTULO PRIMERO. DE LA VERIFICACIÓN VEHICULAR
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
 ###### Artículo 36.
 
-Las emisiones de contaminantes a la atmósfera que se generen por fuentes móviles, que circulen en el Estado, no deberán exceder los límites máximos permisibles que se establezcan en la normatividad aplicable.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 37.
 
-La verificación de los límites de emisión de contaminantes a la atmósfera provenientes de fuentes móviles, deberá sujetarse a los procedimientos y demás condiciones que determinen las normas aplicables y el Programa Estatal de Verificación Vehicular del año correspondiente a aquel en que se verifica, mismo que será publicado en el Periódico Oficial del Gobierno del Estado.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 38.
 
-Los propietarios y legales poseedores de vehículos automotores registrados en el Estado, deberán someter su unidad a verificación de emisiones contaminantes en los Centros de Verificación Vehicular conforme a los períodos establecidos en el Programa Estatal de Verificación Vehicular que expida el Instituto.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 39.
 
-Los Centros de Verificación Vehicular expedirán constancia sobre los resultados de la verificación del vehículo automotor en el formato que el Instituto determine, en la que se deberá contener como mínimo la información siguiente:
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)
 
-I. Fecha de verificación;
-
-II. Identificación del Centro de Verificación Vehicular y de la persona que efectuó la verificación;
-
-III. Números de registro y de motor, tipo, marca y modelo del vehículo automotor;
-
-IV. Nombre y domicilio del propietario;
-
-V. Identificación de las normas aplicables en la verificación;
-
-VI. Tabla de resultados de emisiones a la atmósfera en la que se determine si los parámetros de emisiones cumplen o no con la normatividad aplicable; y
-
-VII. La (sic) demás que se determine en el Programa Estatal de Verificación Vehicular y demás disposiciones que emita el Instituto.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 40.
 
-Los certificados con calcomanía holográfica adherible son documentos de disposición y uso de orden público, por lo que el aprovechamiento que de éstos se haga corresponde a la autoridad como medio de control para el Programa Estatal de Verificación Vehicular.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)
 
-Los particulares que den uso distinto al que legalmente les corresponde, incurrirán en la responsabilidad que determine la Ley de la materia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 41.
 
-Cuando del resultado de la verificación se determine que el vehículo automotor de que se trate rebasa los límites máximos permisibles, el Centro de Verificación Vehicular deberá emitir un certificado de rechazo a fin de que se efectúen las reparaciones necesarias hasta que se compruebe mediante nueva verificación que se está dentro de los límites permisibles que la norma establece.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 42.
 
-Cuando se haya emitido certificado de rechazo, el propietario o legal poseedor del vehículo podrá regresar al Centro dentro de los quince días siguientes al servicio recibido y con el vehículo en condiciones óptimas de funcionamiento para que sin costo alguno se realice la verificación correspondiente.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)
 
-En el supuesto anterior el vehículo automotor, no podrá circular normalmente, hasta no acreditar los límites permisibles de emisión de contaminantes a la atmósfera.
-
-Una vez hechas las reparaciones o mantenimiento necesario al vehículo, el particular podrá solicitar su verificación del período. La verificación tendrá efectos por lo que resta del semestre.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 43.
 
-Los vehículos automotores ostensiblemente contaminantes, serán retirados de la circulación por las autoridades de Tránsito Estatal o Municipal, por si, o a petición de la Procuraduría, conforme a sus competencias, a las presentes disposiciones reglamentarias y a las demás que con motivo de las mismas se emitan.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)
 
-Para efectos de realizar la verificación de cualquier vehículo retirado de la circulación, el propietario o legal poseedor deberá obtener de la autoridad de tránsito el permiso correspondiente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 44.
 
-La Procuraduría en forma individual o en coordinación con otras autoridades competentes, podrá en todo tiempo determinar las acciones necesarias para asegurar el cumplimiento a la obligación de verificación periódica de sus emisiones contaminantes.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)
+
+> <small>(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)</small>
 
 ### CAPÍTULO SEGUNDO. DE LOS SUJETOS OBLIGADOS A REALIZAR LA VERIFICACIÓN VEHICULAR
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
 ###### Artículo 45.
 
-El propietario o legal poseedor de vehículos automotores registrados en el Estado de Guanajuato, está obligado en los términos del presente ordenamiento, a realizar dos verificaciones al año; mismas que se efectuarán en cualquier Centro autorizado del Municipio en que se encuentre registrado el vehículo de que se trate.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)
 
-El propietario o legal poseedor de vehículo, que requiera verificar en un Municipio que no corresponda a aquel en que esté registrado el vehículo, podrá hacerlo por una sola ocasión, siempre y cuando, acredite estar al corriente con la verificación inmediata anterior realizada en el Municipio en el que está registrado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 46.
 
-El obligado a realizar la verificación vehicular, a fin de obtener el certificado que ampara los límites de emisiones permitidos, deberá cumplir con los siguientes requisitos ante el Centro de Verificación Vehicular:
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)
 
-I. Presentar el vehículo en condiciones óptimas de funcionamiento general mecánico y eléctrico; con motor a temperatura normal de operación; y con el holograma adherido en los términos de la fracción V del artículo 56 del presente Reglamento, mismo que acreditará la verificación del semestre inmediato anterior, con excepción a los vehículos que verifican por primera vez;
-
-II. Exhibir el certificado o en su caso la copia del mismo que ampare la verificación del semestre inmediato anterior, en caso de no contar con el holograma en los términos referidos en la fracción anterior, o en su defecto acreditar el pago o la exención de la multa ante la Dependencia Municipal correspondiente;
-
-III. En caso de robo, extravío o deterioro que imposibilite la lectura del certificado, podrá por una sola ocasión, solicitar copia del certificado que obra en poder del Centro de Verificación Vehicular correspondiente, mismo que se expedirá con la leyenda duplicado, con sello del Centro de que se trate y firma del responsable del servicio;
-
-IV. Exhibir permiso provisional o tarjeta de circulación vigente; y
-
-V. Presentar comprobante del pago de los servicios de verificación vehicular.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 47.
 
-Los vehículos nuevos de agencia deberán ser verificados por las personas físicas o morales que los comercializan antes de ser entregados para circular, para tal efecto bastará proporcionar al Centro de Verificación Vehicular, el nombre o razón social, domicilio de la persona que lo comercializa y los últimos siete dígitos del número de serie. Esta verificación amparará solo la del semestre en el cual sea vendido el vehículo.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 48.
 
-Las autoridades de cada Municipio en el ámbito de su competencia podrán sancionar a los propietarios o legales poseedores de vehículos que no se presenten a realizar la verificación vehicular obligatoria dentro del período que les corresponde, en los términos de su normatividad.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)
+
+> <small>(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)</small>
 
 ### CAPÍTULO TERCERO. DE LA AUTORIZACIÓN PARA PRESTAR EL SERVICIO DE VERIFICACIÓN VEHICULAR
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
 ###### Artículo 49.
 
-El Instituto, a solicitud de los interesados que cumplan con los requisitos de funcionamiento que establecen las presentes disposiciones podrá otorgar a personas físicas o morales, autorización para que presten el servicio de verificación de emisiones contaminantes de vehículos automotores en cualquier Municipio del Estado a través de Centros de Verificación Vehicular.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)
 
-La autorización para prestar el servicio de verificación vehicular, tendrá una vigencia de año calendario, independientemente de su fecha de expedición.
-
-En las autorizaciones, se establecerá con precisión las condicionantes que deberán observar los propietarios en el funcionamiento de los Centros.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 50.
 
-La persona que pretenda obtener autorización para prestar el servicio de verificación vehicular, deberá observar las disposiciones que se establezcan en el Programa Estatal de Verificación Vehicular correspondiente e ingresar su solicitud en tiempo y forma, acreditando ante el Instituto, la personalidad jurídica con la que tramita y el vínculo legal del promovente con el inmueble en donde pretende funcionar.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)
 
-El promovente que presente solicitud correspondiente ante el Instituto deberá cumplir los siguientes requisitos:
-
-I. Para Centros de Verificación Vehicular anteriormente autorizados presentar:
-
-a) Solicitud para autorización debidamente requisitada en el formato que el Instituto determine;
-
-b) Memoria fotográfica con leyenda descriptiva de cada una de las áreas de servicio, a fin de acreditar que cuenta con la infraestructura en buenas condiciones y acorde a las disposiciones aplicables;
-
-c) Acreditar ante el Instituto, que cuenta con personal capacitado y certificado en sus conocimientos y habilidades, que permita la adecuada prestación del servicio;
-
-d) Reporte anual de verificaciones realizadas en el año inmediato anterior, a través del formato que determine el Instituto;
-
-e) Carta compromiso en donde, manifieste que se sujetará a las disposiciones y lineamientos que emita el Instituto, para la prestación del servicio de verificación de emisiones contaminantes y funcionamiento del Centro; y
-
-f) Manifestación bajo protesta de decir verdad, en donde mencione que ha venido funcionando adecuadamente y que no tiene instaurado ningún procedimiento jurídico con motivo del funcionamiento del Centro de Verificación Vehicular que tenga autorizado, que ponga en riesgo el cumplimiento del Programa Estatal de Verificación Vehicular o la prestación del servicio que procura prestar.
-
-II. Para nuevos Centros de Verificación Vehicular:
-
-a) Cumplir con los requisitos que se establecen en la fracción que antecede, excepto los incisos d) y f);
-
-b) Presentar licencia de uso de suelo expedida por la Administración Municipal, con una anterioridad no mayor a tres meses a la fecha de inicio de trámite, la que deberá especificar la aprobación del uso de suelo para un establecimiento de verificación vehicular;
-
-c) Suscribir y presentar en el formato que determine el Instituto, el compromiso de que en caso de obtener la autorización solicitada, adquirirá el equipo analizador de emisiones contaminantes y en su caso el opacímetro, ambos con homologación mexicana, con las características que se señalan en las disposiciones aplicables;
-
-d) Anexar copia de la solicitud de aviso de inscripción en el Registro Federal de Contribuyentes del solicitante, especificando nombre, denominación o razón social, y domicilio en donde se ubicará el Centro; y
-
-e) Presentar plano de conjunto a escala 1:100 con coordenadas geográficas, del proyecto de equipamiento y construcción del inmueble en donde se establecerá el Centro, en el que señale su superficie e infraestructura.
-
-III. Para Centros de Verificación Vehicular autorizados, que pretendan cambiar de domicilio:
-
-a) Presentar por escrito con mínimo de 30 días de antelación a la fecha que pretende funcionar en el nuevo domicilio, en donde se establezcan las razones que justifiquen el cambio de domicilio;
-
-b) Cumplir con las disposiciones señaladas en los incisos a), b) y f) de la fracción I, así como los incisos b) y e) de la fracción II del presente artículo; y
-
-c) Presentar la demás información que el Instituto considere necesaria para emitir la resolución correspondiente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 51.
 
-El Instituto sólo dará trámite a solicitudes de autorización para prestar el servicio de verificación vehicular que se ingresen debidamente requisitadas dentro de los siguientes periodos:
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)
 
-I. Dentro del mes de noviembre para aquellos que fueron autorizados con anterioridad; y
-
-II. Durante los meses de noviembre y mayo para personas que pretendan prestar el servicio de verificación vehicular a través de un nuevo Centro de Verificación Vehicular; (sic)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 52.
 
-El Instituto contará con un término de 30 días hábiles para emitir resolución a toda solicitud que el promovente realice, siempre y cuando haya cubierto los requisitos que establece este Reglamento y demás normatividad aplicable.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 53.
 
-La resolución que emita el Instituto a la solicitud del promovente para la prestación del servicio de verificación vehicular podrá ser en sentido:
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)
 
-I. Afirmativo, refiriendo la vigencia de la autorización;
-
-II. Afirmativo y condicionado cuando existiendo la información no esté acreditada con documento idóneo o bien que funcionando en el servicio requiera tanto mejoras el Centro de Verificación Vehicular como la actualización del equipo de medición; o
-
-III. Negativo en la pretensión del particular.
+> <small>(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)</small>
 
 ### CAPÍTULO CUARTO. DE LOS CENTROS DE VERIFICACIÓN VEHICULAR
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
 ###### Artículo 54.
 
-Los Centros de Verificación Vehicular autorizados tendrán por objeto realizar la medición de las emisiones contaminantes de los vehículos automotores observando las normas y disposiciones que los regulan.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 55.
 
-Todo Centro de Verificación Vehicular deberá contar como mínimo con la siguiente infraestructura:
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)
 
-I. Una superficie mínima para instalar el Centro de doscientos metros cuadrados;
-
-II. Un acceso libre y directo de la vía pública al área de verificación, exento de conflicto vial por su ubicación, con altura mínima de 4.5 metros en el umbral de acceso cuando el servicio sea a vehículos con motor a diesel;
-
-III. Un área destinada para el servicio de verificación techada y ventilada que permita el adecuado manejo y operación del equipo verificador de emisiones a la temperatura y humedad de óptimo funcionamiento;
-
-IV. Un espacio cerrado destinado a oficina para atención al público y con área de espera;
-
-V. Un espacio para servicio sanitario en condiciones óptimas de uso y funcionamiento; y
-
-VI. Una mampara para información, que cumpla con las especificaciones que determinan las presentes disposiciones reglamentarias.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 56.
 
-Los autorizados a prestar el Servicio de Verificación Vehicular, estarán obligados a:
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)
 
-I. Realizar la prueba de verificación en apego a las Normas Oficiales Mexicanas y a las disposiciones normativas aplicables;
-
-II. Proporcionar el certificado al propietario o legal poseedor del vehículo que haya aprobado la verificación, el cual deberá contar con la impresión proveniente del software del equipo analizador;
-
-III. Proporcionar certificado de rechazo al propietario o legal poseedor del vehículo que no haya aprobado la verificación o el refrendo y otorgar un plazo único de quince días naturales para efectuar una segunda verificación, sin costo alguno;
-
-IV. Exigir, en su caso, el comprobante del pago de multa cuando el obligado no acredite la última verificación;
-
-V. Fijar el holograma correspondiente preferentemente en la parte superior derecha del parabrisas, el que deberá permanecer fijo durante el semestre que es vigente y hasta uno posterior a su vigencia;
-
-VI. Realizar sin costo alguno el refrendo correspondiente a los vehículos de uso público que hayan efectuado la primera o segunda verificación en el centro a su cargo; sellando el certificado del semestre correspondiente, con el que avalará que cumple con los niveles de emisión permisibles;
-
-VII. Difundir el Programa Estatal de Verificación Vehicular y los beneficios que genera su cumplimiento;
-
-VIII. Otorgar en forma gratuita, copia del certificado de verificación, al propietario o legal poseedor del vehículo que así lo requiera;
-
-IX. Presentar personalmente o a través de sus representantes legales, durante los primeros cinco días hábiles de cada mes, ante el Instituto, para registro y control de cumplimiento:
-
-a) Un informe sobre las verificaciones efectuadas por igual periodo, durante el mes inmediato anterior. Dicho informe deberá entregarse en el formato que el Instituto proporcione, en disquette de 3.5" o a través del sistema que el Instituto determine.
-
-b) La relación mensual de los folios de certificados con calcomanía que fueron adquiridos para prestar el servicio.
-
-c) El control de los certificados cancelados y sobrantes del semestre respectivo.
-
-d) Entregar los certificados que corresponden al Instituto debidamente ordenados y relacionados como comprobante de las verificaciones realizadas.
-
-Para los efectos legales conducentes se tendrá a disposición de la Procuraduría la información contenida en esta fracción.
-
-X. Exhibir a la Procuraduría, en el desahogo de visitas de inspección que realice, el control de los certificados con calcomanía holográfica comprados, cancelados y sobrantes del semestre respectivo, o de aquellos que requiera con motivo de su función;
-
-XI. Proporcionar al Instituto y a la Procuraduría de Protección al Ambiente toda la información digital contenida en los dispositivos de almacenamiento de información del equipo analizador, así como cualquier otra información necesaria y relativa a la operación del centro que se le solicite;
-
-XII. Permitir a la Procuraduría el desahogo de visitas de inspección. Y en ellas el libre acceso a los equipos analizadores de emisiones, a efecto de constatar su adecuado funcionamiento;
-
-XIII. Dar el mantenimiento preventivo a los equipos analizadores para que se encuentren en óptimas condiciones de uso que permitan el adecuado funcionamiento de los mismos;
-
-XIV. Mantener herméticamente sellado el equipo analizador de emisiones contaminantes sujetándose para su operación a lo establecido en el manual de operación que la empresa fabricante o distribuidora autorizada emita para ese fin;
-
-XV. Acreditar cuando así lo solicite el Instituto, que el equipo con que funciona el Centro cuenta con constancia emitida por el fabricante o distribuidor autorizado, en donde se establezca la periodicidad de calibrar los equipos para su adecuado funcionamiento, la forma de hacerlo, así como el respaldo de que las especificaciones técnicas del equipo cumplen con las Normas Oficiales Mexicanas aplicables;
-
-XVI. Prestar con probidad el servicio de medición de emisiones contaminantes así como el manejo de los certificados con calcomanía holográfica adherida; y
-
-XVII. Entregar al Instituto, durante los primeros quince días naturales del primer y segundo semestre del año que corresponda, los certificados con calcomanía holográfica adherida, correspondientes al semestre inmediato anterior que no hayan sido utilizados.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 57.
 
-Los propietarios de Centros de Verificación Vehicular autorizados tendrán estrictamente prohibido:
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)
 
-I. Adquirir o utilizar certificados con calcomanía holográfica en otro Municipio al que le fue autorizado para funcionar;
-
-II. Utilizar certificados con hologramas que no correspondan al de un semestre anterior al que transcurre y por ende, no vigentes; y
-
-III. Entregar en mano el holograma sin observar el supuesto jurídico contenido en el (sic) la fracción V del Artículo anterior del presente Reglamento.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 58.
 
-Los formatos que el Instituto determine para recabar la información necesaria a fin de dar seguimiento y cumplimiento al Programa Estatal de Verificación Vehicular, serán de obligada requisitación para el promovente, siempre y cuando, éstos aparezcan con número de folio y con la firma del funcionario de la Dirección que los emite.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)
 
-Los formatos deberán requisitarse por el promovente en forma veraz y en su total contenido, acreditando con documento idóneo, cuando así lo requiera la autoridad.
-
-El dato requisitado y acreditado será un elemento de certeza jurídica que permita constatar el cumplimiento del promovente.
-
-Cualquier dato incierto o no acreditado se entenderá como incumplimiento de información.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 59.
 
-Cuando el Instituto tenga acreditado el mal funcionamiento de un Centro de Verificación Vehicular podrá revocar la autorización otorgada o, en su caso, negar la autorización para el funcionamiento del mismo.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 60.
 
-El Instituto podrá autorizar el funcionamiento de centros de verificación vehicular móviles, por sí o a petición expresa del Municipio de que se trate, cuando se justifique la necesidad de prestar el servicio.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)
+
+> <small>(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)</small>
 
 ### CAPÍTULO QUINTO. DE LA SUPERVISIÓN DE LOS CENTROS DE VERIFICACIÓN VEHICULAR
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
 ###### Artículo 61.
 
-Los Centros de Verificación Vehicular podrán ser sancionados por la Procuraduría, por incumplimiento a las presentes disposiciones, conforme a lo establecido en el Título Sexto, Capítulo Tercero de la Ley, cuando:
-
-I. Utilicen en el procedimiento de verificación instrumentos ajenos al equipo analizador de emisiones, así como el controlador de revoluciones u otros que no estén establecidos en las Normas Oficiales Mexicanas aplicables o aquellos que alteren la medición real;
-
-II. Utilicen un solo vehículo para otorgar dos o más certificados con calcomanía holográfica;
-
-III. Realicen el servicio de verificación fuera del domicilio en el que está autorizado;
-
-IV. Incumplan con la entrega en tiempo y forma sus reportes mensuales o de la información que se les requiera;
-
-V. Cobren cualquier monto diferente al autorizado para el servicio de verificación;
-
-VI. Manejen de forma inadecuada o diferente a la autorizada, los certificados con calcomanía holográfica adherida;
-
-VII. Incurran en cualquier acto que implique inobservancia o incumplimiento a la normatividad aplicable; y
-
-VIII. Registren en el certificado que emite, información diferente a la que se acredite para prestar el servicio, o bien llenar el mismo por otros medios que no sean aquellos con los que el equipo analizador de emisiones contaminantes cuenta para ese fin.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES, P.O. 1 DE MAYO DE 2009)
 
 ## TÍTULO CUARTO. SISTEMAS Y PROGRAMAS DE CALIDAD DEL AIRE
 
@@ -898,3 +792,15 @@ JUAN CARLOS ROMERO HICHS
 EL SECRETARIO DE GOBIERNO
 
 RICARDO TORRES ORIGEL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE MAYO DE 2009.
+
+Artículo Primero. El presente Reglamento entrará en vigencia el cuarto día al de su publicación en el
+
+Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Para efectos de la renovación de las autorizaciones en los términos de este Reglamento, cuyos efectos serán a partir del año 2010, por única ocasión los titulares de la autorización deberán acudir al Instituto durante el mes de septiembre de 2009 a presentar su solicitud y el Instituto deberá resolverlas a más tardar el quince de diciembre del mismo año.
+
+Artículo Tercero. Se deroga el Título Tercero y demás disposiciones del reglamento de la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato en materia de Prevención y Control de la Contaminación de la Atmósfera, contenidas en el Decreto Gubernativo Número 224, publicado en el Periódico Oficial del Gobierno del Estado Número 82, Tercera Parte de fecha 24 de mayo del 2005, que se opongan a este instrumento.
