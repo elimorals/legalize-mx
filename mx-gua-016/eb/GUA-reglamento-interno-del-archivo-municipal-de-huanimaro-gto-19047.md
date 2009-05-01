@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interno-del-archivo-municipal-de-huanimaro-gto-19047
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-29"
-last_updated: "2000-12-29"
+last_updated: "2009-05-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "GUA"
 
 REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL DE HUANlMARO, GTO.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO 2 TRANSITORIO DEL REGLAMENTO DEL ARCHIVO GENERAL DEL MUNICIPIO DE HUANIMARO, GUANAJUATO, PUBLICADO EN EL P.O. DE 1 DE MAYO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 29 de diciembre de 2000.
 
@@ -204,3 +206,19 @@ LIC. RAMÓN SORIA ELIZARRARAZ
 SECRETARIO DEL H. AYUNTAMIENTO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE MAYO DE 2009.
+
+###### ARTICULO 1.
+
+El presente reglamento entrará en vigor el cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO 2.
+
+Se abroga el Reglamento Interno del Archivo Municipal de Huanímaro, Gto., publicado en el Periódico Oficial del Gobierno del Estado número 104, segunda parte, de fecha 29 de diciembre del 2000.
+
+###### ARTICULO 3.
+
+Toda situación no prevista en el presente reglamento quedará sujeta a la determinación del encargado o director del Archivo, y en caso de gran responsabilidad al secretario del H. Ayuntamiento.
