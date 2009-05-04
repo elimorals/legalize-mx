@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-inversion-extranjera-y-del-registro-121
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-09-08"
-last_updated: "1998-09-08"
+last_updated: "2009-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12146&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-08-27"
 
 REGLAMENTO DE LA LEY DE INVERSION EXTRANJERA Y DEL REGISTRO NACIONAL DE INVERSIONES EXTRANJERAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE MAYO DE 2009.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el martes 8 de septiembre de 1998.
 
@@ -105,15 +105,15 @@ II. Sociedades que no realicen actividades reservadas o sujetas a regulación es
 
 En cualquiera de dichos supuestos, el valor total de los activos será el valor actualizado que éstos tengan, conforme a los principios de contabilidad generalmente aceptados, a la fecha de presentación de la solicitud correspondiente. La Comisión determinará el monto a que se refiere el citado artículo 9o. de la Ley, mediante una Resolución General.
 
+> <small>(REFORMADO, D.O.F. 4 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 4.
 
-Los fedatarios públicos ante quienes se formalicen actos jurídicos para los que se requieran los permisos a que hacen referencia los artículos 11, 15 y 16 de la Ley, previo al otorgamiento del instrumento respectivo deben exigir el permiso correspondiente o, en el supuesto de que haya operado la afirmativa ficta, la constancia a que hace referencia el artículo 17 de la Ley Federal de Procedimiento Administrativo, y así hacerlo constar en dicho instrumento.
+Los fedatarios públicos ante quienes se formalicen actos jurídicos para los que se requieran los permisos a que hacen referencia los artículos 10 A, 11, 15 y 16 de la Ley, previo al otorgamiento del instrumento respectivo deben exigir el permiso correspondiente o, en el supuesto de que haya operado la afirmativa ficta, la constancia a que hace referencia el artículo 17 de la Ley Federal de Procedimiento Administrativo, y así hacerlo constar en dicho instrumento.
 
-Los fedatarios públicos ante quienes se formalice la adquisición de bienes inmuebles a que hace referencia el artículo 10 A de la Ley, previo al otorgamiento del instrumento respectivo deben exigir el permiso correspondiente.
+Cuando no se cuente con el permiso para ubicarse en los supuestos a que hace referencia el segundo párrafo del artículo 10 A de la Ley, los notarios públicos deben requerir al extranjero, previamente al otorgamiento de la escritura pública, que compruebe la presentación ante la Secretaría de Relaciones Exteriores del escrito a que hace referencia el artículo 8 de este Reglamento, y hacer constar en la escritura correspondiente que ha operado la afirmativa ficta en los términos de dicha disposición.
 
-Cuando no se cuente con el permiso por ubicarse en los supuestos a que hace referencia el segundo párrafo del artículo 10 A de la Ley, los fedatarios públicos deben requerir al extranjero, previamente al otorgamiento del instrumento público, que compruebe la presentación ante la Secretaría de Relaciones Exteriores del escrito a que hace referencia el artículo 8 de este Reglamento y hacer constar en el instrumento correspondiente que ha operado la afirmativa ficta en los términos de dicha disposición.
-
-Cuando se trate del supuesto previsto en el último párrafo del artículo 10 A de la Ley, los fedatarios públicos deben requerir al extranjero, previamente al otorgamiento del instrumento público, que acredite la presentación ante la Secretaría de Relaciones Exteriores del convenio a que hace referencia la fracción I del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, y que se ubica en los supuestos previstos en los acuerdos generales de que se trate, y así hacerlo constar en el instrumento público.
+Cuando se trate del supuesto previsto en el último párrafo del artículo 10 A de la Ley, los notarios públicos deben requerir al extranjero, previamente al otorgamiento de la escritura pública, que acredite la presentación ante la Secretaría de Relaciones Exteriores del convenio a que hace referencia la fracción I del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, y que se ubica en los supuestos previstos en los acuerdos generales de que se traten, y así hacerlo constar en la escritura pública.
 
 ## TÍTULO SEGUNDO. DE LA ADQUISICIÓN DE BIENES INMUEBLES, LA EXPLOTACIÓN DE MINAS Y AGUAS, Y DE LOS FIDEICOMISOS
 
@@ -187,13 +187,17 @@ V. Uso del inmueble;
 
 VI. Descripción, ubicación y superficie del inmueble objeto del fideicomiso, y
 
-VII. Distancia del inmueble respecto de la Zona Federal Marítimo Terrestre.
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2009)</small>
+
+VII. Distancia del inmueble respecto de la frontera o de la Zona Federal Marítimo Terrestre.
 
 A la solicitud deberá acompañarse un anexo que contenga las medidas y colindancias del inmueble.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 10.
 
-Tratándose de personas físicas o morales extranjeras, la Secretaría de Relaciones Exteriores otorgará los permisos a que hace referencia el artículo 11 de la Ley, cuando la solicitud cumpla con lo dispuesto en el artículo anterior y cuando el inmueble objeto del fideicomiso se destine a:
+Tratándose de personas físicas o morales extranjeras, la Secretaría de Relaciones Exteriores otorgará los permisos a que hace referencia el artículo 11 de la Ley, cuando la solicitud cumpla con lo dispuesto en el artículo anterior y el inmueble objeto del fideicomiso se destine a:
 
 I. Parques y fraccionamientos industriales;
 
@@ -209,15 +213,27 @@ VI. Desarrollos turísticos, siempre que no contengan inmuebles destinados a fin
 
 VII. Marinas turísticas;
 
-VIII. Muelles e instalaciones industriales y comerciales establecidos en éstos, y
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2009)</small>
 
-IX. Establecimientos dedicados a la producción, transformación, empaque, conservación, transporte o almacenamiento de productos agropecuarios, silvícolas, forestales y pesqueros.
+VIII. Muelles e instalaciones industriales y comerciales establecidos en éstos;
+
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2009)</small>
+
+IX. Establecimientos dedicados a la producción, transformación, empaque, conservación, transporte o almacenamiento de productos agropecuarios, silvícolas, forestales y pesqueros, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 4 DE MAYO DE 2009)</small>
+
+X. Oficinas consulares y residencias oficiales de gobiernos extranjeros.
 
 ###### ARTÍCULO 11.
 
 Los contratos de fideicomiso que se constituyan al amparo de los permisos previstos en el artículo 11 de la Ley deben sujetarse a las siguientes condiciones:
 
 I. Que el instrumento público respectivo establezca que los fideicomisarios extranjeros convienen en considerarse como mexicanos respecto a sus derechos como fideicomisarios y a no invocar, por lo mismo, la protección de sus gobiernos, bajo la pena, en caso contrario, de perder dichos derechos en beneficio de la Nación;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 4 DE MAYO DE 2009)</small>
+
+Lo anterior no será aplicable para los casos en que figuren como fideicomisarios gobiernos extranjeros y que el objeto del fideicomiso sea el establecimiento de oficinas consulares y residencias oficiales de gobiernos extranjeros;
 
 II. Que durante toda la vigencia del fideicomiso la institución fiduciaria conserve la titularidad del bien inmueble fideicomitido sin conceder derechos reales a los fideicomisarios;
 
@@ -632,3 +648,9 @@ QUINTO. Las solicitudes presentadas ante la Secretaría y los avisos e informes 
 SEXTO. A quienes tengan obligaciones pendientes en materia del Registro Nacional de Inversiones Extranjeras y que cumplan con las disposiciones previstas en el Título Séptimo de la Ley de Inversión Extranjera dentro de los sesenta días hábiles siguientes a la fecha de entrada en vigor de este Reglamento, la Secretaría impondrá, en su caso, la sanción mínima establecida en la fracción IV del artículo 38 de la Ley.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de agosto de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.- La Secretaria de Relaciones Exteriores, Rosario Green.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Ángel Gurría Treviño.- Rúbrica.- El Secretario de Desarrollo Social, Esteban Moctezuma Barragán.- Rúbrica.- La Secretaria de Medio Ambiente, Recursos Naturales y Pesca, Julia Carabias Lillo.- Rúbrica.- El Secretario de Energía, Luis Téllez Kuenzler.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Carlos Ruiz Sacristán.- Rúbrica.- El Secretario del Trabajo y Previsión Social, José Antonio González Fernández.- Rúbrica.- El Secretario de Turismo, Óscar Espinosa Villarreal.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 4 DE MAYO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
