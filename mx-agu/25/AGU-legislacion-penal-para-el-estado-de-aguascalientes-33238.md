@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2009-04-06"
+last_updated: "2009-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 2009.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -1369,13 +1369,17 @@ g) Dar a conocer dolosamente a cualquier medio masivo de comunicación o persona
 
 h) Permitir o tolerar que un ciudadano emita su voto sin que éste cumpla con los requisitos de ley o que se introduzcan en las urnas una o más boletas electorales, en forma ilícita.
 
-(ADICIONADA, P.O. 14 DE JULIO DE 2008) (F. DE E., P.O. 18 DE AGOSTO DE 2008)
+> <small>(REFORMADA, P.O. 4 MAYO DE 2009)</small>
 
-XVII. Contratar propaganda en radio, televisión, prensa o internet, a favor o en contra de un partido político, candidato o precandidato.
+XVII. Contratar propaganda en radio, televisión, prensa o internet, a favor o en contra de un partido político, candidato o precandidato; o
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2008)</small>
+> <small>(ADICIONADA, P.O. 4 MAYO DE 2009)</small>
 
-A los responsables de los hechos descritos en las Fracciones I a la XV del presente Artículo, se les aplicarán de 6 meses a 2 años de prisión. A los responsables de los hechos descritos en los diversos incisos de la Fracción XVI y la Fracción XVII del presente Artículo, se les aplicará de 2 a 6 años de prisión, así como suspensión de sus derechos políticos por el término de 4 a 6 años.
+XVIII. Difundir, en cualquier tiempo, a nombre de un aspirante, precandidato, candidato, Asociación Política Nacional o Estatal, o bien, Partido Político, cualquier programa gubernamental sin incluir, claramente visible o audible, la leyenda “Este programa es público y ajeno a cualquier Partido Político”.
+
+> <small>(REFORMADO, P.O. 4 MAYO DE 2009)</small>
+
+A los responsables de los hechos descritos en las Fracciones I a la XV del presente Artículo, se les aplicarán de 6 meses a 2 años de prisión. A los responsables de los hechos descritos en los diversos incisos de la Fracción XVI y la Fracción XVII del presente Artículo, se les aplicará de 2 a 6 años de prisión, así como suspensión de sus derechos políticos por el término de 4 a 6 años. A los responsables de los hechos descritos en la Fracción XVIII, de 3 meses a 1 año de prisión y de 1000 a 2000 días multa.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2005)</small>
 
@@ -5566,5 +5570,11 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 P.O. 6 DE ABRIL DE 2009.
 
 ###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 MAYO DE 2009.
+
+###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
