@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2009-04-30"
+last_updated: "2009-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE MAYO DE 2009.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1566,9 +1566,9 @@ XIX.- Para fijar las reglas a que debe sujetarse la ocupación y enajenación de
 
 XX.- Para expedir las leyes de organización del Cuerpo Diplomático y del Cuerpo Consular mexicano.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE MAYO DE 2009)</small>
 
-XXI.- Para establecer los delitos y faltas contra la Federación y fijar los castigos que por ellos deban imponerse, así como legislar en materia de delincuencia organizada.
+XXI.- Para establecer los delitos y las faltas contra la Federación y fijar los castigos que por ellos deban imponerse; expedir una ley general en materia de secuestro, que establezca, como mínimo, los tipos penales y sus sanciones, la distribución de competencias y las formas de coordinación entre la Federación, el Distrito Federal, los Estados y los Municipios; así como legislar en materia de delincuencia organizada.
 
 > <small>(REFORMADO, D.O.F. 3 DE JULIO DE 1996)</small>
 
@@ -5547,6 +5547,12 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- El Congreso de la Unión deberá expedir la ley en la materia en un plazo no mayor de 12 meses, contados a partir de la entrada en vigor del presente Decreto.
 
 Tercero.- En tanto el Congreso de la Unión expide la ley respectiva a la facultad que se otorga en este Decreto, continuarán vigentes las disposiciones que sobre la materia hayan dictado las legislaturas de las entidades federativas, en tratándose de datos personales en posesión de particulares.
+
+D.O.F. 4 DE MAYO DE 2009.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las legislaciones en materia de secuestro de las entidades federativas, continuarán en vigor hasta en tanto el Congreso de la Unión ejerza la facultad conferida en el artículo 73, fracción XXI, de esta Constitución. Los procesos penales iniciados con fundamento en dichas legislaciones, así como las sentencias emitidas con base en las mismas, no serán afectados por la entrada en vigor de la legislación general. Por lo tanto, deberán concluirse y ejecutarse, respectivamente, conforme a las disposiciones vigentes antes de la entrada en vigor de esta última.
 
 ###### ARTICULO PRIMERO.
 
