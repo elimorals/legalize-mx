@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-direccion-de-policia-y-transito-60262
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2008-02-22"
+last_updated: "2009-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DE LA DIRECCION DE POLICIA Y TRANSITO DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 2009.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de febrero de 2008.
 
@@ -191,7 +191,7 @@ XVIII. Vigilar y hacer efectivo el cumplimiento del bando de Policía y Gobierno
 
 XIX. Vigilar y mantener el orden público, recogiendo las armas de uso prohibido, así como las permitidas por la Ley, cuando su portador no exhiba su correspondiente licencia para portarla dentro del Municipio de Ensenada;
 
-XX. Impedir la celebración de toda clase de juego de azar y de todos aquellos en que la finalidad sea el obtener una ganancia proveniente de las apuestas que se crucen, y de todos los que las Leyes y Reglamentos consideren como juegos prohibidos, salvo aquellos lugares que cuenten con la autorización de la autoridad correspondiente, independientemente de que al momento que se tenga conocimiento de los mismos, se le dé aviso a las autoridades competentes, poniendo en evidencia los lugares en que estos celebren;
+XX. Impedir la celebración de toda clase de juego de azar y de todos aquellos en que la finalidad sea el obtener una ganancia proveniente de las apuestas que se crucen, y de todos los que las Leyes y Reglamentos consideren como juegos prohibidos, salvo aquellos lugares que cuenten con la autorización de la autoridad correspondiente, independientemente de que al momento que se tenga conocimiento de los mismos, se le dé aviso a las autoridades competentes, poniendo en evidencia los lugares en que estos celebren (sic);
 
 XXI. Vigilar y auxiliar a las autoridades competentes en materia de salud en cumplimiento de las Leyes y demás disposiciones vigentes;
 
@@ -345,9 +345,11 @@ El elemento de Seguridad Pública deberá vestir con limpieza, no llevará prend
 
 ### CAPITULO II. DE LAS OBLIGACIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 41.
 
-Son obligaciones del elemento de Policía y Tránsito:
+Son obligaciones del elemento de Policía y Transito;
 
 I. Asistir puntualmente al desempeño del servicio o comisión durante las horas fijadas por la superioridad.
 
@@ -386,6 +388,10 @@ XVII. Conservar en buen estado y apariencia, vehículos, equipos, y accesorios b
 XVIII. Actuar coordinadamente con otras corporaciones, así como brindarle en su caso el apoyo que legalmente procede.
 
 XIX. Someterse, cuando sea requerido, a reconocimientos o pruebas médicas, de laboratorio y demás que sean necesarias con el fin de evaluar su condición física, psicológica o detectar el consumo de drogas.
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2009)</small>
+
+XX. Dar aviso al Centro de Control, Comando, Comunicación y Cómputo de todas las intervenciones que realice en ejercicio de sus funciones.
 
 ### CAPITULO III. DE LAS PROHIBICIONES
 
@@ -689,7 +695,7 @@ X. Carta de no inhabilitación expedida por la Sindicatura Municipal
 
 ###### ARTÍCULO 56.
 
-Los uniformes, insignias, divisas y otras formas de identidad del grado, comisión, unidad, sector, etc., serán las que establezcan en la reglamentación interna de cada área de la Dirección de Policía y Tránsito Municipal.
+Los uniformes, insignias, divisas y otras formas de identidad del grado, comisión, unidad, sector, etc., serán las que establezcan (sic) en la reglamentación interna de cada área de la Dirección de Policía y Tránsito Municipal.
 
 ###### ARTÍCULO 57.
 
@@ -718,3 +724,15 @@ Presidente Municipal del XIX Ayuntamiento de Ensenada, B. C.
 MARIO ALBERTO GARCIA SALAIZA
 
 Secretario Fedatario del XIX Ayuntamiento de Ensenada, B. C.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE MAYO DE 2009.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO.- SE APRUEBA LA REFORMA DE ADICION AL ARTICULO 41 Y LA ADICION DE LA FRACCION XX DEL REGLAMENTO INTERIOR DE LA DIRECCION DE POLICIA Y TRANSITO DEL MUNICIPIO DE ENSENADA, B.C. COMO SE DESCRIBE EN EL CUERPO DEL PRESENTE DICTAMEN.
+
+SEGUNDO.- PÓNGANSE A CONSIDERACIÓN DEL CABILDO DEL H. XIX AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA, EL PRESENTE DICTAMEN QUE APRUEBA LA ADICION AL ARTICULO 41 DE LA FRACCION XX DEL REGLAMENTO INTERIOR DE LA DIRECCION DE POLICIA Y TRANSITO DEL MUNICIPIO DE ENSENADA, B.C.
+
+TERCERO.- SIENDO APROBADO EL PRESENTE DICTAMEN, PUBLÍQUESE EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA, PARA LOS EFECTOS DE SU ENTRADA EN VIGOR.
