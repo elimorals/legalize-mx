@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2009-02-24"
+last_updated: "2009-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 2009.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -941,7 +941,7 @@ XLVIII. Dictar Leyes para organizar el sistema penal sobre la base del trabajo, 
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 1934)</small>
 
-LIX. (sic) Convocar a elecciones en caso de muerte del Gobernador, o cuando por haber declarado que ha lugar a formación de causa en su contra, haya sido consignado y quede acéfalo el Poder Ejecutivo y siempre que la falta obsoluta (sic) ocurra durante los tres primeros años del período;
+LIX (sic). Convocar a elecciones en caso de muerte del Gobernador, o cuando por haber declarado que ha lugar a formación de causa en su contra, haya sido consignado y quede acéfalo el Poder Ejecutivo y siempre que la falta obsoluta (sic) ocurra durante los tres primeros años del período;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
@@ -1867,7 +1867,7 @@ La ley establecerá las bases para la formación y actualización de los servido
 
 En los casos de retiro forzoso, jubilación, incapacidad o defunción, las prestaciones a los servidores públicos del Poder Judicial se cubrirán en los términos que determinen las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O.8 DE JULIO DE 1999)</small>
 
 ###### Artículo 115.
 
@@ -2017,27 +2017,37 @@ El titular del organismo deberá entregar puntualmente los informes y las cuenta
 
 ###### Art. 127.
 
-Se establece en el Estado la Defensoría Pública en términos de lo dispuesto en el artículo 20 fracción IX de la Constitución Política de los Estados Unidos Mexicanos, que se encargará de defender ante cualquier autoridad a los inculpados y a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años; de intervenir como abogado patrono de las partes en las materias civil y familiar, y de aconsejar en estos ramos, a quien así lo solicite. La Defensoría Pública podrá brindar asesoría en otras materias, con base en los recursos de que disponga.
+En el Estado habrá un servicio de defensoría pública de calidad para la población. Los defensores formarán parte de un servicio profesional de carrera.
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2008)</small>
+En materia penal y en la imputación de conductas previstas como delito por las leyes penales a personas entre 12 años cumplidos y menos de 18 años, los defensores serán abogados que cumplan los requisitos previstos en la ley. Podrán actuar desde el momento de la detención de la persona imputada y comparecer en todos los actos del proceso cuando el defendido así lo solicite, pero tendrán obligación de hacerlo cuando se le requiera.
+
+La defensoría pública podrá representar a quien de acuerdo a los requisitos y condiciones previstos por la ley lo solicite en asuntos de carácter familiar o civil. A su vez, podrá brindar asesoría en otras materias en los términos que prevea la ley, con base en los recursos presupuestales de que disponga.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2009)</small>
 
 ###### Art. 128.
 
-La Defensoría Pública tendrá un titular y los defensores públicos subalternos que prevea la ley y sustente el Presupuesto de Egresos. Su nombramiento corresponde al Ejecutivo del Estado.
+La ley dispondrá la organización del servicio de defensoría pública, tanto en materia penal como de representación en asuntos familiares o civiles y para el otorgamiento de asesorías legales. Tendrá un titular designado por el Ejecutivo del Estado y los defensores y asesores que sustente el presupuesto de egresos. Los defensores no podrán tener percepciones inferiores a las que corresponden a los agentes de Ministerio Público.
 
-Es incompatible el cargo de Defensor Público con cualquier otro cargo, empleo o comisión en el sector público, social o privado, salvo los casos de docencia, investigación, literatura o beneficencia, siempre que no sean remunerados.
+El cargo de defensor público o de asesor es incompatible con cualquier otro cargo, empleo o comisión en los sectores público, social o privado, excepto en la realización de actividades docentes, de investigación, literarias o de beneficencia.
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2009)</small>
 
 ###### Art. 129.
 
-Una ley reglamentará la organización de la Defensoría Pública y los requisitos que se necesitan para desempeñar este cargo.
+Una ley reglamentará la organización de la defensoría pública y los requisitos para ingresar a su servicio. La defensoría pública se regirá por los principios de calidad, profesionalismo, obligatoriedad, honradez, probidad, lealtad y eficiencia.
 
 ## TITULO IX. DE LOS MUNICIPIOS
 
 ### CAPITULO UNICO. Disposiciones generales
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2009)</small>
 
 ###### Art. 130.
 
@@ -3557,17 +3567,19 @@ DECRETO No. LX-477, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 58, 158 Y 1
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
+P.O. 5 DE MAYO DE 2009.
+
 ###### ARTICULO PRIMERO.
 
-El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor en la fecha señalada para la entrada en vigor de la ley reglamentaria en el ámbito estatal del párrafo sexto del artículo 17 y la fracción VIII del apartado B del artículo 20, ambos de la Constitución Política de los Estados Unidos Mexicanos y de lo dispuesto por los artículos 127, 128 y 129 de la Constitución Política del Estado que se reforman mediante este acto.
 
-###### ARTÍCULO SEGUNDO.
+###### ARTICULO SEGUNDO.
 
-El Congreso de la Unión deberá expedir la legislación para hacer cumplir lo dispuesto en el presente Decreto, a más tardar en un año contando a partir de la entrada en vigor del mismo.
+Se derogan las disposiciones contrarias a los preceptos de este Decreto.
 
 ###### ARTICULO TERCERO.
 
-Para establecer la demarcación territorial de los distritos electorales uninominales deberá tomarse en consideración, cuando sea factible, la ubicación de los pueblos y comunidades indígenas, a fin de propiciar su participación política.
+El Ejecutivo del Estado dispondrá las adecuaciones financieras, presupuestales y administrativas para el cumplimiento del presente Decreto.
 
 ###### ARTÍCULO PRIMERO.
 
