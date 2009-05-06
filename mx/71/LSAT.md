@@ -4,7 +4,7 @@ identifier: "LSAT"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-15"
-last_updated: "2003-06-12"
+last_updated: "2009-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=727&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSAT"
 
 LEY DEL SERVICIO DE ADMINISTRACION TRIBUTARIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MAYO DE 2009.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de diciembre de 1995.
 
@@ -646,6 +646,18 @@ III. Se anule por desvío de poder.
 
 En los casos de responsabilidad del Servicio de Administración Tributaria, se aplicarán supletoriamente las disposiciones del derecho federal que rijan materias similares y los principios generales del derecho que mejor se avengan a la naturaleza y fines de la institución.
 
+> <small>(ADICIONADO, D.O.F. 6 DE MAYO DE 2009)</small>
+
+###### Artículo 35.
+
+En el caso de las resoluciones dictadas por los servidores públicos en procedimientos en los cuales se analicen y valoren documentos y pruebas aportadas por los particulares, inclusive en los procedimientos instaurados con motivo de la interposición de algún recurso administrativo de los previstos en las leyes de la materia, no procederá la imposición de sanciones por daño o perjuicio patrimonial, a menos que la resolución emitida:
+
+I. Carezca por completo de fundamentación o motivación,
+
+II. No sea congruente con la cuestión, solicitud o petición efectivamente planteada por el contribuyente, o
+
+III. Se acredite en el procedimiento de responsabilidades que al servidor público le son imputables conductas que atentan contra la independencia de criterio que debió guardar al resolver el procedimiento de que se trate, es decir, que aceptó consignas, presiones, encargos, comisiones, o bien, que realizó cualquier otra acción que genere o implique subordinación respecto del promovente o peticionario, ya sea de manera directa o a través de interpósita persona.
+
 T r a n s i t o r i o s
 
 Primero. La presente Ley entrará en vigor el 1o. de julio de 1997.
@@ -713,3 +725,7 @@ Artículo Cuarto. El Ejecutivo Federal propondrá al titular del Servicio de Adm
 Artículo Quinto. En el marco del proceso de modernización del Servicio de Administración Tributaria, este organismo deberá llevar a cabo una revisión de su plan estratégico. Con base en dicha revisión elaborará un programa de acciones necesarias de corto plazo, así como los programas operativos de cada una de las unidades administrativas, incluyendo los indicadores de cumplimiento respectivo. Además, establecerá un sistema de evaluación del desempeño de dichas unidades hasta el nivel de administración local, tanto de impuestos internos como de aduanas.
 
 Las medidas anteriores deberán ser cumplidas dentro de los 180 días naturales posteriores a la entrada en vigor del presente Decreto.
+
+D.O.F. 6 DE MAYO DE 2009.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
