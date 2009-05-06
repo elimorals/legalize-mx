@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-honorable-ayuntamiento-de-tepoztlan-587
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-12-19"
-last_updated: "2007-12-19"
+last_updated: "2009-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58718&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL HONORABLE AYUNTAMIENTO DE TEPOZTLAN, MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 19 de diciembre de 2007.
 
@@ -445,7 +445,11 @@ VIII.- Asuntos Indígenas, Colonias y Poblados;
 
 IX.- Educación, Cultura y Recreación;
 
-XII (SIC).- Desarrollo Agropecuario;
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2009)</small>
+
+X.- Salud Pública, Control y Fomento Sanitario;
+
+XII.- Desarrollo Agropecuario;
 
 XIII.- Coordinación de Organismos Descentralizados;
 
@@ -737,9 +741,11 @@ III.- Proponer al pleno los mecanismos más eficientes para ejecutar los program
 
 IV.- Coordinarse con el DIF Municipal para vigilar la correcta aplicación de los programas de asistencia social de apoyo a la familia;
 
-V.- Promover programas preventivos que ayuden a la población a cuidar su salud;
+V.- (DEROGADA, P.O. 6 DE MAYO DE 2009)
 
-VI.- Coordinarse con las Comisiones de Gobernación, Hacienda, Desarrollo Urbano y Servicios Públicos para realizar campañas de trabajo que fomenten y desarrollen mejores niveles de vida, cultura y bienestar social de la población; vigilar que la inhumaciones y exhumaciones de restos humanos y todo tipo de construcción o refrendo en panteones y cementerios cumplan con lo establecido en el Reglamento respectivo y las reglas sanitarias correspondientes;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2009)</small>
+
+VI.- Coordinarse con las comisiones de gobernación, hacienda, desarrollo urbano y servicios públicos para realizar campañas de trabajo que fomenten y desarrollen mejores niveles de vida, cultura y bienestar social de la población;
 
 VII.- Coordinar con la Unidad Administrativa Municipal encargada del área para crear un mecanismo eficiente para el aprovechamiento óptimo de los programas institucionales del DIF Estatal;
 
@@ -749,9 +755,9 @@ IX.- Promover asistencia y desarrollo para personas con discapacidad;
 
 X.- Presentar proyectos de programas de apoyo para adultos mayores;
 
-XI.- Promover una mayor calidad en los servicios de salud pública en el municipio;
+XI.- (DEROGADA, P.O. 6 DE MAYO DE 2009)
 
-XII.- Promover la búsqueda de la eficiencia de los servicios actuales de salud, aprovechando además los programas de las diferentes instancias de salud pública;
+XII.- (DEROGADA, P.O. 6 DE MAYO DE 2009)
 
 XIII.- Coordinarse con las Unidades Administrativas Municipales para buscar mediante la gestión, incrementar la infraestructura deportiva y recreativa en el municipio;
 
@@ -954,6 +960,64 @@ XVII.- Coordinarse con las Unidades Administrativas Municipales para buscar incr
 XVIII.- Informar por escrito en forma trimestral al ayuntamiento sobre el estado que guardan los asuntos de la comisión; y
 
 XIX.- Avocarse a las tareas que el cabildo le encomiende.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2009)</small>
+
+Artículo 44 bis.- Salud Pública, Control y Fomento Sanitario, tendrá como objeto el ejercicio de las atribuciones de Control y Fomento Sanitario en materia de Salubridad Local, que le corresponde al Ayuntamiento de Tepoztlán, Morelos. Para el cumplimiento de su objeto, se crea la Dirección de Salud Pública, Control y Fomento Sanitario, que tendrá las siguientes atribuciones:
+
+I.- Presentar por escrito al cabildo en pleno su programa anual de trabajo, así como rendir un informe pormenorizado del cumplimiento del mismo;
+
+II.- Dictaminar respecto de los proyectos normativos en materia de Salud Pública, Control y Fomento Sanitario;
+
+III.- Proponer al pleno los mecanismos más eficientes para ejecutar los programas de Salud Pública, Control y Fomento sanitario;
+
+IV.- Promover Programas Preventivos que ayuden a la población a cuidar su salud;
+
+V.- Promover una mayor calidad en los servicios de salud pública en el Municipio;
+
+VI.- Promover la búsqueda de la eficiencia de los servicios actuales de salud, aprovechando además los programas de las diferentes instancias de salud pública;
+
+VII.- Realizar campañas sanitarias en establecimientos públicos;
+
+VIII.- Efectuará la vigilancia y verificación de los establecimientos y sujetos, a que refiere el artículo número 3 de la Ley de Salud del Estado de Morelos. Así como, efectuar el control y fomento Sanitario, por si o por conducto de sus áreas de fomento, verificación, dictaminación y sanción;
+
+IX.- Operar los programas de fomento sanitario dirigidos al público, con el propósito de facilitar el cumplimiento de la legislación sanitaria en el ámbito de su competencia;
+
+X.- Promover acciones orientadas a mejorar las condiciones sanitarias de los manejadores de alimentos y bebidas que se expenden en puestos semifijos y ambulantes;
+
+XI.- Promover la concertación social, la difusión de riesgos y la participación comunitaria, para el fomento del saneamiento básico, en coordinación con las unidades administrativas correspondientes;
+
+XII.- Participar en la elaboración de los manuales administrativos y de servicios al público en coordinación con las demás unidades administrativas;
+
+XIII.- Revisar y validar solicitudes de trámite, conforme al manual correspondiente;
+
+XIV.- Revisar, notificar y entregar a los usuarios las resoluciones correspondientes de las solicitudes de trámite;
+
+XV.- Recibir los avisos de funcionamiento de los establecimientos del ámbito de su competencia, que comprende el Artículo 3 Inciso “C” de la Ley de Salud del Estado de Morelos;
+
+XVI.- Emitir las órdenes de visitas de verificación correspondientes;
+
+XVII.- Emitir las credenciales o cartas credenciales que acrediten legalmente al personal verificador a realizar funciones de vigilancia sanitaria;
+
+XVIII.- Dictaminar las actas e informes de verificación;
+
+XIX.- Emitir las notificaciones del resultado de las visitas de verificación, en la esfera de su competencia;
+
+XX.- Atender la comparecencia de los propietarios, representantes o apoderados legales de los establecimientos, productos, actividades y servicios, con motivo de las visitas de verificación;
+
+XXI.- Imponer sanciones administrativas, aplicar medidas de seguridad y emitir las resoluciones correspondientes de conformidad con la Ley de Salud del Estado de Morelos y sus reglamentos; así como remitir a las autoridades fiscales municipales, en su caso las resoluciones que impongan sanciones económicas para que se hagan efectivas a través del procedimiento administrativo de ejecución;
+
+XXII.- Ejercer el control y fomento sanitario de las actividades, establecimientos, productos y servicios, de su competencia, con base en la Ley General de Salud, sus Reglamentos, Ley de Salud del Estado de Morelos, sus Reglamentos, Normas Oficiales Mexicanas y demás disposiciones legales aplicables;
+
+XXIII.- Realizar las acciones de vigilancia sanitaria por alertas sanitarias y denuncias ciudadanas;
+
+XXIV.- Orientar y asesorar a los usuarios que lo requieran, sobre las condiciones sanitarias de las actividades de los establecimientos, productos y servicios de su competencia, para facilitar el cumplimiento de la legislación sanitaria;
+
+XXV.- Participar en el proceso, planeación, programación y presupuestacion de las actividades de control y fomento sanitario; y (sic)
+
+XXVI.- Informar por escrito en forma trimestral al Ayuntamiento sobre el estado que guardan los asuntos de la comisión; y
+
+XXVII.- Las demás que este reglamento y otras disposiciones legales reglamentarias y administrativas de carácter general y el Presidente Municipal le confieran.
 
 ###### Artículo 45.
 
@@ -2268,3 +2332,15 @@ REGIDO (SIC) DE ECOLOGÍA
 C. BRUNO BUENO MENDOZA
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 6 DE MAYO DE 2009.
+
+PRIMERO.- La presente reforma al Reglamento Interior del Honorable Ayuntamiento de Tepoztlán, Morelos, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano informativo que edita el Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se abrogan las disposiciones de carácter municipal que se opongan al contenido de este ordenamiento.
+
+TERCERO.- En tanto se expiden los manuales a que se hace referencia, el Director de Salud Pública, queda facultado para resolver todas las cuestiones de procedimiento y operación que se originen con motivo de la aplicación del presente ordenamiento.
+
+CUARTO.- Para lo no previsto en el presente reglamento, se estará a lo dispuesto por el Cabildo.
