@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "2009-03-23"
+last_updated: "2009-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MAYO DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -1694,7 +1694,9 @@ Las instituciones de banca de desarrollo formularán anualmente sus programas op
 
 Los programas deberán formularse conforme a los lineamientos y objetivos del Plan Nacional de Desarrollo, así como el Programa Nacional de Financiamiento para el Desarrollo y los demás programas sectoriales del propio Plan. En el marco de los planes mencionados, cada institución de banca de desarrollo, deberá elaborar sus programas institucionales, mismos que contendrán un apartado relativo a la forma en que se coordinarán con las demás instituciones de banca de desarrollo.
 
-Las instituciones de banca de desarrollo, proporcionarán a las autoridades y al público en general, información referente a sus operaciones utilizando medios electrónicos, ópticos o cualquier otra tecnología que les permita dar a conocer dicha información de acuerdo a las reglas de carácter general que la Secretaría de Hacienda y Crédito Público emita para tal efecto. En el cumplimiento de esta obligación, las instituciones de banca de desarrollo observarán lo dispuesto en el artículo 117 de la Ley de Instituciones de Crédito.
+> <small>(REFORMADO, D.O.F. 6 DE MAYO DE 2009)</small>
+
+Las instituciones de banca de desarrollo y los fideicomisos públicos de fomento económico proporcionarán a las autoridades y al público en general información referente a sus operaciones, así como indicadores que midan los servicios con los que cada institución y fideicomiso atiende a los sectores que establecen sus respectivas leyes orgánicas y contratos constitutivos, de acuerdo con los lineamientos que para tal efecto emita la Secretaría de Hacienda y Crédito Público, utilizando medios electrónicos, ópticos o cualquier otra tecnología que les permita dar a conocer dicha información de acuerdo a las reglas de carácter general que la Secretaría de Hacienda y Crédito Público emita para tal efecto. En el cumplimiento de esta obligación, las instituciones de banca de desarrollo observarán lo dispuesto en el artículo 117 de la Ley de Instituciones de Crédito.
 
 Asimismo, cada sociedad nacional de crédito, a través de los medios electrónicos con los que cuente, dará a conocer los programas de créditos y garantías, indicando las políticas y criterios conforme a los cuales realizarán tales operaciones; los informes sobre el presupuesto de gasto corriente y de inversión; las contingencias derivadas de las garantías otorgadas por la sociedad nacional de crédito, así como las contingencias laborales, o de cualquier otro tipo que impliquen un riesgo para la institución.
 
@@ -2674,19 +2676,41 @@ Cada institución de banca de desarrollo, constituirá un fideicomiso dentro de 
 
 La cuota al millar sobre la que se calcularán las aportaciones al fideicomiso, se determinará por la Comisión Nacional Bancaria y de Valores. Las cuotas podrán ser diferenciales atendiendo el caso particular de cada institución de banca de desarrollo. La Secretaría de Hacienda y Crédito Público expedirá las reglas de carácter general a las que se sujetarán los fideicomisos mencionados.
 
-> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 55 Bis 1.
 
-Las instituciones de banca de desarrollo enviarán al Ejecutivo Federal por conducto de la Secretaría de Hacienda y Crédito Público, y ésta a su vez al Congreso de la Unión, junto con los Informes sobre la Situación Económica, las Finanzas Públicas y la Deuda Pública y en los recesos de éste, a la Comisión Permanente, lo siguiente:
+Las instituciones de banca de desarrollo y los fideicomisos públicos de fomento económico enviarán al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y ésta a su vez al Congreso de la Unión, junto con los informes sobre la situación económica, las finanzas públicas y la deuda pública y en los recesos de éste, a la Comisión Permanente, lo siguiente:
 
-I. En el informe de enero a marzo de cada año, una exposición sobre los programas de créditos, de garantías, transferencias de subsidios y transferencias de recursos fiscales, así como aquellos gastos que pudieran ser objeto de subsidios o transferencias de recursos fiscales durante el ejercicio respectivo, sustentado en los hechos acontecidos en el ejercicio anterior con la mejor información disponible, indicando las políticas y criterios conforme a los cuales realizarán sus operaciones a fin de coadyuvar al cumplimiento del Plan Nacional de Desarrollo, así como un informe sobre su presupuesto de gasto corriente y de inversión, correspondiente al ejercicio en curso. En este informe también deberá darse cuenta sobre las contingencias derivadas de las garantías otorgadas por la institución de banca de desarrollo de que se trate y el Gobierno Federal, así como las contingencias laborales que ésta pudiere enfrentar, al amparo de un estudio efectuado por una calificadora de prestigio, en el ejercicio anterior.
+> <small>(REFORMADA, D.O.F. 6 DE MAYO DE 2009)</small>
+
+I. En el informe de enero a marzo de cada año, una exposición sobre los programas de créditos, de garantías, transferencias de subsidios y transferencias de recursos fiscales, así como aquellos gastos que pudieran ser objeto de subsidios o transferencias de recursos fiscales durante el ejercicio respectivo, sustentado en los hechos acontecidos en el ejercicio anterior con la mejor información disponible, indicando las políticas y criterios conforme a los cuales realizarán sus operaciones a fin de coadyuvar al cumplimiento del Plan Nacional de Desarrollo, así como un informe sobre su presupuesto de gasto corriente y de inversión, correspondiente al ejercicio en curso. En este informe también deberá darse cuenta sobre las contingencias derivadas de las garantías otorgadas por la institución de banca de desarrollo o fideicomiso público de fomento económico de que se trate y el Gobierno Federal, así como las contingencias laborales que pudieren enfrentar, al amparo de un estudio efectuado por una calificadora de prestigio, en el ejercicio anterior; asimismo, se deberán incluir indicadores que midan los servicios con los que atienden a los sectores que establecen sus respectivas leyes orgánicas o contratos constitutivos, de acuerdo con los lineamientos que para tal efecto emita la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JUNIO DE 2002)</small>
 
 II. Dentro de los ciento veinte días siguientes al cierre de cada ejercicio, las instituciones de banca de desarrollo emitirán un informe anual sobre el cumplimiento de los programas anuales del citado ejercicio y en general, sobre el gasto corriente y de inversión, así como de las actividades de éstas en el transcurso de dicho ejercicio. Asimismo, se integrará a este informe el o los reportes elaborados por la Comisión Nacional Bancaria y de Valores, que envíe a la Secretaría de Hacienda y Crédito Público, relativos a la situación financiera y del nivel de riesgo de cada una de las instituciones de banca de desarrollo, y
 
+> <small>(ADICIONADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
 III. En el informe de julio a septiembre de cada año, un informe sobre el cumplimiento del programa anual de la institución de banca de desarrollo respectiva, durante el primer semestre del ejercicio de que se trate.
 
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
 Asimismo, cada institución de banca de desarrollo deberá publicar trimestralmente, en dos periódicos de amplia circulación en el país, el estado que guarda su patrimonio, así como los indicadores más representativos de su situación financiera y administrativa.
+
+> <small>(ADICIONADO, D.O.F. 6 DE MAYO DE 2009)</small>
+
+###### ARTICULO 55 Bis 2.
+
+La Secretaría de Hacienda y Crédito Público deberá publicar anualmente dos estudios realizados a instituciones de la banca de desarrollo o fideicomisos públicos de fomento económico, con el propósito de evaluar que:
+
+I. Promueven el financiamiento a los sectores que definen sus leyes orgánicas y contratos constitutivos, que los intermediarios financieros privados no atienden;
+
+II. Cuenten con mecanismos para canalizar a los intermediarios financieros privados a quienes ya pueden ser sujetos de crédito por parte de esos intermediarios, y
+
+III. Armonicen acciones con otras entidades del sector público para hacer un uso más efectivo de los recursos.
+
+En la elaboración de dichos estudios deberán participar al menos dos instituciones académicas de prestigio en el país. Sus resultados deberán darse a conocer a las Comisiones de Hacienda y Crédito Público de ambas Cámaras del Congreso de la Unión a más tardar en el mes de abril posterior al ejercicio evaluado.
 
 ### CAPITULO II. De las Operaciones Pasivas
 
@@ -5895,3 +5919,7 @@ D.O.F. 1 DE JULIO DE 2008.
 D.O.F. 23 DE MARZO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE MAYO DE 2009.
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
