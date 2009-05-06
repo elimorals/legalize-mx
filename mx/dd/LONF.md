@@ -4,7 +4,7 @@ identifier: "LONF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-12-26"
-last_updated: "2005-08-01"
+last_updated: "2009-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=482&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LONF"
 
 LEY ORGANICA DE NACIONAL FINANCIERA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MAYO DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 26 de diciembre de 1986.
 
@@ -90,7 +90,9 @@ VIII.- Fomentar la reconversión industrial, la producción de bienes exportable
 
 IX.- Promover el desarrollo integral del mercado de valores;
 
-X.- Propiciar acciones conjuntas de financiamiento y asistencia con otras instituciones de crédito, fondos de fomento, fideicomisos, organizaciones auxiliares de crédito y con los sectores social y privado; y
+> <small>(REFORMADA, D.O.F. 6 DE MAYO DE 2009)</small>
+
+X.- Propiciar acciones conjuntas de financiamiento y asistencia con otras instituciones de crédito, fondos de fomento, fideicomisos, organizaciones auxiliares de crédito y con los sectores social y privado. En los contratos de crédito que se celebren con el financiamiento, asistencia y apoyo de la sociedad se deberá insertar el siguiente texto en las declaraciones del acreditado: "El acreditado declara conocer que el crédito se otorga con el apoyo de Nacional Financiera, exclusivamente para fines de desarrollo nacional", y
 
 XI.- Ser administradora y fiduciaria de los fideicomisos, mandatos y comisiones constituidos por el Gobierno Federal para el fomento de la industria o del mercado de valores.
 
@@ -557,3 +559,7 @@ D.O.F. 1 DE AGOSTO DE 2005.
 Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Quedan sin efecto las disposiciones que a la entrada en vigor del presente Decreto contravengan las disposiciones del mismo.
+
+D.O.F. 6 DE MAYO DE 2009
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
