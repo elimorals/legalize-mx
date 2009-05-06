@@ -4,7 +4,7 @@ identifier: "LPDUSF"
 country: "mx"
 rank: "ley"
 publication_date: "1999-01-18"
-last_updated: "2007-06-15"
+last_updated: "2009-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12994&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPDUSF"
 
 LEY DE PROTECCION Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MAYO DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 18 de enero de 1999.
 
@@ -597,6 +597,14 @@ Con objeto de crear y fomentar entre los Usuarios una cultura adecuada del uso d
 ###### ARTÍCULO 52.
 
 A efecto de cumplir con el objetivo señalado en el artículo anterior, la Comisión Nacional podrá solicitar a las Instituciones Financieras, la información referente a las características generales de los distintos productos, tasas de interés y, en general, sobre los servicios que se ofrecen a los Usuarios.
+
+> <small>(ADICIONADO, D.O.F. 6 DE MAYO DE 2009)</small>
+
+Cualquier persona que presuma que es beneficiaria de algún seguro de vida, podrá acudir a la Comisión Nacional a solicitar información que le permita saber si es beneficiaria de uno o varios seguros de vida, ya sean individuales o colectivos, incluyendo aquellos que se obtienen por la contratación de productos y servicios financieros.
+
+> <small>(ADICIONADO, D.O.F. 6 DE MAYO DE 2009)</small>
+
+La Comisión Nacional, mediante reglas de carácter general, determinará la forma y términos en que se hará del conocimiento de los usuarios los resultados de las solicitudes que sean formuladas con motivo de lo establecido por este artículo.
 
 > <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2007)</small>
 
@@ -1297,3 +1305,13 @@ Al entrar en vigor el presente Decreto se derogan de la Ley General de Organizac
 ###### ARTÍCULO OCTAVO.
 
 Las disposiciones de carácter general que el Banco de México haya emitido en materia de publicidad, estados de cuenta o contratos de adhesión dirigidas a las instituciones de crédito o sociedades financieras de objeto limitado continuarán vigentes hasta en tanto entren en vigor las disposiciones de carácter general que, conforme a lo previsto en este ordenamiento, expida la Comisión Nacional Bancaria y de Valores respecto de los temas mencionados.
+
+D.O.F. 6 DE MAYO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, será la autoridad responsable para los efectos legales conducentes, derivados del Artículo Segundo del presente Decreto.
