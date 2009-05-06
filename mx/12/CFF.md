@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2009-02-10"
+last_updated: "2009-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE MAYO DE 2009.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 10 DE FEBRERO DE 2009.
 
@@ -4972,6 +4972,10 @@ La autoridad fiscal, a petición del recurrente, recabará las pruebas que obren
 
 Cuando no se acompañe alguno de los documentos a que se refieren las fracciones anteriores, la autoridad fiscal requerirá al promovente para que los presente dentro del término de cinco días. Si el promovente no los presentare dentro de dicho término y se trata de los documentos a que se refieren las fracciones I a III, se tendrá por no interpuesto el recurso; si se trata de las pruebas a que se refiere la fracción IV, las mismas se tendrán por no ofrecidas.
 
+> <small>(ADICIONADO, D.O.F. 6 DE MAYO DE 2009)</small>
+
+Sin perjuicio de lo dispuesto en el párrafo anterior, a más tardar dentro del mes siguiente a la fecha de presentación del recurso, el recurrente podrá anunciar que exhibirá pruebas adicionales a las ya presentadas, en términos de lo previsto en el tercer párrafo del artículo 130 de este Código.
+
 ###### Artículo 124.
 
 Es improcedente el recurso cuando se haga valer contra actos administrativos:
@@ -5108,6 +5112,14 @@ En el recurso de revocación se admitirá toda clase de pruebas, excepto la test
 
 Las pruebas supervenientes podrán presentarse siempre que no se haya dictado la resolución del recurso.
 
+> <small>(ADICIONADO, D.O.F. 6 DE MAYO DE 2009)</small>
+
+Cuando el recurrente anuncie que exhibirá las pruebas en los términos de lo previsto por el último párrafo del artículo 123 de este Código, tendrá un plazo de dos meses contados a partir de la fecha en que haya efectuado el anuncio correspondiente, para presentarlas.
+
+> <small>(ADICIONADO, D.O.F. 6 DE MAYO DE 2009)</small>
+
+La autoridad que conozca del recurso, para un mejor conocimiento de los hechos controvertidos, podrá acordar la exhibición de cualquier documento que tenga relación con los mismos, así como ordenar la práctica de cualquier diligencia.
+
 Harán prueba plena la confesión expresa del recurrente, las presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por autoridad en documentos públicos, incluyendo los digitales; pero, si en los documentos públicos citados se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos sólo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones, pero no prueban la verdad de lo declarado o manifestado.
 
 Cuando se trate de documentos digitales con firma electrónica distinta a una firma electrónica avanzada o sello digital, para su valoración, se estará a lo dispuesto por el artículo 210-A del Código Federal de Procedimientos Civiles.
@@ -5126,9 +5138,15 @@ La autoridad deberá dictar resolución y notificarla en un término que no exce
 
 El recurrente podrá decidir esperar la resolución expresa o impugnar en cualquier tiempo la presunta confirmación del acto impugnado.
 
+> <small>(ADICIONADO, D.O.F. 6 DE MAYO DE 2009)</small>
+
+La autoridad fiscal contará con un plazo de cinco meses contados a partir de la fecha de la interposición del recurso para resolverlo, en el caso de que el recurrente ejerza el derecho previsto en el último párrafo del artículo 123 de este Código.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE MAYO DE 2009)</small>
+
 ###### Artículo 132.
 
-La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo la autoridad la facultad de invocar hechos notorios; pero cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado, bastará con el examen de dicho punto.
+La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo la facultad de invocar hechos notorios; pero cuando se trate de agravios que se refieran al fondo de la cuestión controvertida, a menos que uno de ellos resulte fundado, deberá examinarlos todos antes de entrar al análisis de los que se planteen sobre violación de requisitos formales o vicios del procedimiento.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -5432,6 +5450,10 @@ No se ejecutarán los actos administrativos cuando se garantice el interés fisc
 
 Cuando el contribuyente hubiere interpuesto en tiempo y forma el recurso de revocación o, en su caso, el procedimiento de resolución de controversias previsto en un tratado para evitar la doble tributación de los que México es parte, el plazo para garantizar el interés fiscal será de cinco meses siguientes a partir de la fecha en que se interponga cualquiera de los referidos medios de defensa, debiendo el interesado acreditar ante la autoridad fiscal que lo interpuso dentro de los cuarenta y cinco días siguientes a esa fecha, a fin de suspender el procedimiento administrativo de ejecución.
 
+> <small>(ADICIONADO, D.O.F. 6 DE MAYO DE 2009)</small>
+
+Si concluido el plazo de cinco meses para garantizar el interés fiscal no ha sido resuelto el recurso de revocación, el contribuyente no estará obligado a exhibir la garantía correspondiente sino, en su caso, hasta que sea resuelto dicho recurso.
+
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 Cuando en el medio de defensa se impugnen únicamente algunos de los créditos determinados por el acto administrativo, cuya ejecución fue suspendida, se pagarán los créditos fiscales no impugnados con los recargos correspondientes.
@@ -5638,7 +5660,7 @@ III. Por la de remate, enajenación fuera de remate o adjudicación al fisco fed
 
 Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a $300.00 se cobrará esta cantidad en vez del 2% del crédito.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 10 DE FEBRERO DE 2009)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -7973,3 +7995,7 @@ D.O.F. 1 DE JULIO DE 2008.
 D.O.F. 10 DE FEBRERO DE 2009.
 
 LA ACTUALIZACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 6 DE MAYO DE 2009
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
