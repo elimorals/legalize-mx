@@ -4,7 +4,7 @@ identifier: "LCS"
 country: "mx"
 rank: "ley"
 publication_date: "1935-08-31"
-last_updated: "2006-04-24"
+last_updated: "2009-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2591&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCS"
 
 LEY SOBRE EL CONTRATO DE SEGURO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MAYO DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -482,9 +482,17 @@ Igualmente responderá siempre que el siniestro se cause en cumplimiento de un d
 
 ### CAPITULO V. Prescripción
 
+> <small>(REFORMADO, D.O.F. 6 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 81.
 
-Todas las acciones que se deriven de un contrato de seguro prescribirán en dos años, contados desde la fecha del acontecimiento que les dió origen.
+Todas las acciones que se deriven de un contrato de seguro prescribirán:
+
+I.- En cinco años, tratándose de la cobertura de fallecimiento en los seguros de vida.
+
+II.- En dos años, en los demás casos.
+
+En todos los casos, los plazos serán contados desde la fecha del acontecimiento que les dio origen.
 
 > <small>(F. DE E., D.O.F. 13 DE SEPTIEMBRE DE 1935)</small>
 
@@ -1187,3 +1195,13 @@ TERCERO.- En tanto no se deroguen o modifiquen las reglas y disposiciones de car
 CUARTO.- A las personas que hubieren cometido infracciones con anterioridad a la entrada en vigor del presente Decreto, les serán aplicables las disposiciones vigentes al momento en que se hubieren realizado dichas conductas, salvo que las disposiciones de este Decreto les resulten favorables, en cuyo caso se aplicarán éstas.
 
 QUINTO.- Las instituciones de seguros deberán adecuar sus productos de seguro, así como los contratos de prestación de servicios, según corresponda, a lo previsto en la fracción I del artículo 41 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, dentro de un plazo de noventa días naturales contados a partir de la entrada en vigor del presente Decreto en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE MAYO DE 2009
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+...
