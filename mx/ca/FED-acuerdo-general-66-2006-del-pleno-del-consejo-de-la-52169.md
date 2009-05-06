@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-66-2006-del-pleno-del-consejo-de-la-52169"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-11-09"
-last_updated: "2008-12-15"
+last_updated: "2009-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52169&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-10-30"
 
 ACUERDO GENERAL 66/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA EL PROCESO PRESUPUESTARIO EN EL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MAYO DE 2009.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 9 de noviembre de 2006.
 
@@ -641,11 +641,13 @@ VII. Otras medidas económicas de índole laboral, establecidas en las disposici
 
 Una vez aprobada la asignación global de servicios personales en el Presupuesto de Egresos del Consejo, ésta no podrá incrementarse.
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 12/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE MAYO DE 2009)</small>
+
 ###### Artículo 60.
 
-Sólo se podrán crear nuevas plazas cuando éstas se encuentren expresamente previstas en el Presupuesto de Egresos del Consejo y cuenten con la autorización previa y expresa de la Comisión y/o el Pleno, en el ámbito de sus respectivas competencias y se utilicen para cubrir, en su caso, necesidades adicionales de servicios personales.
+La creación de nuevas plazas definitivas deberá contar, previamente, con el dictamen de suficiencia presupuestal correspondiente.
 
-El Pleno del Consejo podrá autorizar la creación de nuevas estructuras orgánicas o modificación de las ya existentes, para lo cual, invariablemente, deberá contarse con el dictamen estructural y la suficiencia presupuestal, que en ambos casos deberán ser proporcionados por la Secretaría conforme a sus atribuciones.
+> <small>(DEROGADO SEGUNDO PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 12/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE MAYO DE 2009)</small>
 
 Asimismo, se evitará la realización de traspasos de recursos de otros capítulos presupuestales al capítulo de servicios personales, salvo que se cuente con previa y expresa autorización del Pleno.
 
@@ -1318,3 +1320,11 @@ PRIMERO.- El presente acuerdo entrará en vigor a partir del día siguiente de s
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar, de inmediato, el texto de esta reforma, al Acuerdo General 66/2006, del Pleno del Consejo de la Judicatura Federal, que Reglamenta el Proceso Presupuestario en el Consejo de la Judicatura Federal.
+
+D.O.F. 6 DE MAYO DE 2009.
+
+PRIMERO.- El presente acuerdo entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, el texto de esta reforma, al Acuerdo General 66/2006, del Pleno del Consejo de la Judicatura Federal, que Reglamenta el Proceso Presupuestario en el Consejo de la Judicatura Federal.
