@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-propiedad-industrial-antes-ley-de-fomento-y-142"
 country: "mx"
 rank: "ley"
 publication_date: "1991-06-27"
-last_updated: "2006-01-25"
+last_updated: "2009-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-06-26"
 
 LEY DE LA PROPIEDAD INDUSTRIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MAYO DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 27 de junio de 1991.
 
@@ -1943,11 +1943,11 @@ Toda solicitud o promoción dirigida al Instituto, con motivo de lo dispuesto en
 
 Los documentos que se presenten en idioma diferente deberán acompañarse de su traducción al español.
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 6 DE MAYO DE 2009)</small>
 
 ###### Artículo 180.
 
-Las solicitudes y promociones deberán ser firmadas por el interesado o su representante y estar acompañadas del comprobante de pago de la tarifa correspondiente, en su caso. Si falta cualquiera de estos elementos, el Instituto desechará de plano la solicitud o promoción.
+Las solicitudes y promociones deberán ser firmadas por el interesado o su representante y estar acompañadas del comprobante de pago de la tarifa correspondiente, en su caso. La falta de firma de la solicitud o promoción producirá su desechamiento de plano; en el caso de la falta de pago de la tarifa, el Instituto requerirá al promovente, otorgándole un plazo de cinco días hábiles por única vez, para que subsane su omisión, y sólo en caso de que el particular no atienda el apercibimiento, desechará de plano la solicitud o promoción.
 
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
@@ -2758,3 +2758,7 @@ D.O.F. 16 DE JUNIO DE 2005.
 D.O.F. 25 DE ENERO DE 2006.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE MAYO DE 2009.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
