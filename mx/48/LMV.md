@@ -4,7 +4,7 @@ identifier: "LMV"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-30"
-last_updated: "2007-06-28"
+last_updated: "2009-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47153&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMV"
 
 LEY DEL MERCADO DE VALORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MAYO DE 2009.
 
 Ley publicada en la Cuarta Sección del Diario Oficial de la Federación, el viernes 30 de diciembre de 2005.
 
@@ -1571,6 +1571,12 @@ Los reportes a que se refiere esta fracción, deberán estar suscritos en los t�
 V. Reportes sobre eventos relevantes, ajustándose a lo establecido en el artículo 105 de esta Ley.
 
 VI. Reportes sobre las políticas y operaciones a que se refiere el artículo 28, fracción III, de esta Ley.
+
+> <small>(ADICIONADA, D.O.F. 6 DE MAYO DE 2009)</small>
+
+VI Bis. Reportes sobre las posiciones que mantengan las emisoras en instrumentos financieros derivados, dentro de los cuales se incluya, entre otros elementos que determine la comisión, los subyacentes, los valores nocionales o de referencia y las condiciones de pago de dichas posiciones al momento de la revelación de la información, así como las posibles contingencias que las citadas posiciones representen en la situación financiera de la emisora.
+
+Para efectos de lo dispuesto en esta fracción se entenderá por valor nocional o de referencia del instrumento financiero derivado, al número de unidades especificadas en el contrato tales como el número de títulos o de monedas, unidades de peso o de volumen, entre otros.
 
 VII. Los demás que contengan la información y documentación que determine la Comisión, mediante disposiciones de carácter general.
 
@@ -5279,3 +5285,7 @@ D.O.F. 28 DE JUNIO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones del Código Penal Federal vigentes en el momento de su comisión.
+
+D.O.F. 6 DE MAYO DE 2009.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
