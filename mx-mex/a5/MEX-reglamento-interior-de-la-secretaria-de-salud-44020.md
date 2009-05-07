@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-salud-44020"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-28"
-last_updated: "2008-05-22"
+last_updated: "2009-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE MAYO DE 2009.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 28 de enero de 2005.
 
@@ -53,13 +53,13 @@ Para el estudio, planeación y despacho de los asuntos de su competencia, la Sec
 
 El Secretario contará con el número de asesores y órganos técnicos y administrativos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizado.
 
-> <small>(ADICIONADO, G.G. 22 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2009)</small>
 
-La Secretaría se auxiliará de la Coordinación de Hospitales Regionales de Alta Especialidad, a efecto de atender las atribuciones que en la materia le establecen las disposiciones legales.
+La Secretaría se auxiliará de la Subsecretaría de Salud y de la Coordinación de Hospitales Regionales de Alta Especialidad, para atender los programas a cargo de la Secretaría, de conformidad con las disposiciones legales en la materia.
 
-> <small>(ADICIONADO, G.G. 22 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2009)</small>
 
-La Coordinación de Hospitales Regionales de Alta Especialidad estará a cargo de un Coordinador quien, para el cumplimiento de sus atribuciones, se auxiliará de los servidores públicos que las necesidades del servicio requieran, de acuerdo con la normatividad, presupuesto y estructura de organización autorizada.
+La Subsecretaría de Salud y la Coordinación de Hospitales Regionales de Alta Especialidad estarán a cargo de un Subsecretario y un Coordinador, respectivamente, quienes para el cumplimiento de sus atribuciones, se auxiliarán de los servidores públicos que las necesidades del servicio requieran, de acuerdo con la normatividad, presupuesto y estructura de organización autorizada.
 
 ###### Artículo 4.
 
@@ -159,6 +159,38 @@ XII. Coordinar el servicio de atención médica en los Hospitales Regionales de 
 
 XIII. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Secretario.
 
+> <small>(ADICIONADO, G.G. 7 DE MAYO DE 2009)</small>
+
+###### Artículo 7 Ter.
+
+A la Subsecretaría de Salud le corresponde planear, dirigir, coordinar, controlar y evaluar las funciones, programas y proyectos que en materia de salud le encomiende el Secretario.
+
+Corresponden al Subsecretario las atribuciones siguientes:
+
+I. Planear, dirigir, coordinar, controlar y evaluar las funciones que en materia de salud le sean encomendadas por el Secretario.
+
+II. Acordar con el Secretario el despacho de los asuntos a su cargo que requieran de su intervención.
+
+III. Proponer al Secretario los proyectos de programas anuales de actividades y los anteproyectos de ingresos y de egresos que le correspondan.
+
+IV. Formular los dictámenes, estudios, opiniones, informes y demás documentos que le solicite el Secretario y aquellos que le correspondan en razón de sus atribuciones.
+
+V. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por delegación o los que le correspondan por suplencia.
+
+VI. Atender las comisiones, funciones y los cargos que el Gobernador del Estado o el Secretario le encomienden e informarles respecto de su cumplimiento.
+
+VII. Establecer mecanismos de coordinación interinstitucional que permitan ejecutar, de manera integral políticas en materia de salud.
+
+VIII. Proponer, impulsar y realizar el seguimiento a las políticas, programas y proyectos en materia de salud.
+
+IX. Someter a la aprobación del Secretario estudios, proyectos y estrategias en materia de salud.
+
+X. Apoyar al Secretario en el desempeño de las funciones que tenga encomendadas como coordinador de sector, respecto de los organismos auxiliares sectorizados a la Secretaría.
+
+XI. Proponer al Secretario modificaciones jurídicas o administrativas orientadas a mejorar la organización y el funcionamiento de la Secretaría.
+
+XII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
+
 ### CAPÍTULO III. DE LA DESCONCENTRACIÓN ADMINISTRATIVA
 
 ###### Artículo 8.
@@ -167,9 +199,19 @@ Para la atención y eficiente despacho de los asuntos de su competencia, la Secr
 
 ### CAPÍTULO IV. DE LA SUPLENCIA DEL SECRETARIO
 
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2009)</small>
+
 ###### Artículo 9.
 
-El Secretario será suplido en sus ausencias temporales hasta por 15 días, por el servidor público que aquél designe. En las mayores de 15 días, por quien designe el Gobernador del Estado.
+El Secretario será suplido en sus ausencias temporales menores de 15 días naturales, por el Subsecretario. En las mayores de 15 días naturales, por quien designe el Gobernador del Estado. En ausencias definitivas del Secretario, el Gobernador del Estado, en su caso, nombrará al servidor público que ocupe provisionalmente el cargo, hasta en tanto designe a su Titular.
+
+> <small>(ADICIONADO, G.G. 7 DE MAYO DE 2009)</small>
+
+###### Artículo 9 Bis.
+
+El Subsecretario será suplido en sus ausencias temporales por el servidor público que designe el Secretario. En ausencias definitivas del Subsecretario, el Secretario en su caso, nombrará al servidor público que ocupe provisionalmente el cargo, hasta en tanto el Gobernador del Estado designe al nuevo titular.
+
+Los servidores públicos suplentes o provisionales, contarán con todas las facultades asignadas al titular de la Dependencia o Unidad Administrativa.
 
 > <small>(ADICIONADO, G.G. 22 DE MAYO DE 2008)</small>
 
@@ -210,3 +252,11 @@ PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del G
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las demás disposiciones de igual o menor jerarquía que se opongan a las establecidas en el presente Acuerdo.
+
+G.G. 7 DE MAYO DE 2009.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor el 8 de mayo de 2009.
+
+TERCERO.- se derogan las disposiciones de igual o menor jerarquía que se opongan a las establecidas en el presente Acuerdo.
