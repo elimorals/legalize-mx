@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-prevencion-y-combate-de-incendios-agropecuarios-y-52685"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-13"
-last_updated: "2006-12-13"
+last_updated: "2009-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # LEY DE PREVENCION Y COMBATE DE INCENDIOS AGROPECUARIOS Y FORESTALES DEL ESTADO DE YUCATAN -ANTES LEY DE PREVENCION Y COMBATE DE INCENDIOS DEL ESTADO DE YUCATAN-
 
-LEY DE PREVENCION Y COMBATE DE INCENDIOS DEL ESTADO DE YUCATAN
+LEY DE PREVENCION Y COMBATE DE INCENDIOS AGROPECUARIOS Y FORESTALES DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE MAYO DE 2009.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 13 de diciembre de 2006.
 
@@ -31,7 +31,9 @@ CIUDADANO PATRICIO JOSÉ PATRÓN LAVIADA, GOBERNADOR DEL ESTADO DE YUCATÁN, A S
 
 EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN EL ARTÍCULO 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA; 97, 150 Y 156 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, AMBAS DEL ESTADO DE YUCATÁN, EMITE LA SIGUIENTE:
 
-LEY DE PREVENCIÓN Y COMBATE DE INCENDIOS DEL ESTADO DE YUCATÁN
+> <small>(REFORMADA SU DENOMINACION, D.O. 7 DE MAYO DE 2009)</small>
+
+LEY DE PREVENCIÓN Y COMBATE DE INCENDIOS AGROPECUARIOS Y FORESTALES DEL ESTADO DE YUCATÁN
 
 ### CAPÍTULO I. Del Objeto de la Ley
 
@@ -53,9 +55,13 @@ Para los efectos de esta ley, se entenderá por:
 
 I.- Ley Forestal: La Ley General de Desarrollo Forestal Sustentable;
 
-II.- Secretaría: La Secretaría de Desarrollo Rural y Pesca;
+> <small>(REFORMADA, D.O. 7 DE MAYO DE 2009)</small>
 
-III.- Comité: El Comité Estatal de Prevención y Combate de Incendios;
+II.- Secretaría: La Secretaría de Fomento Agropecuario y Pesquero;
+
+> <small>(REFORMADA, D.O. 7 DE MAYO DE 2009)</small>
+
+III.- Comité: El Comité Estatal de Prevención y Combate de Incendios Agropecuarios y Forestales del Estado de Yucatán;
 
 IV.- Quema: Uso del fuego como instrumento en su modalidad de labor cultural, para eliminar productos vegetales indeseables, a través de un proceso controlado en todo momento por el interesado;
 
@@ -67,11 +73,21 @@ VII.- Calendario de Quemas: Documento emitido por el Comité con el fin de dar a
 
 VIII.- Guardarraya: Franja de terreno en la que se ha eliminado totalmente el material combustible de origen vegetal y que rodea, a manera de calle con anchura fija, una superficie o área en donde posteriormente se realizará la quema, su elaboración previa tiene el objeto de facilitar el control de la quema y evitar que el fuego avance más allá del área a quemar;
 
-IX.- Incendio forestal: Incendio que se extiende sin control sobre el terreno forestal y que, por la (sic) tanto, afecta la cubierta vegetal;
+> <small>(REFORMADA, D.O. 7 DE MAYO DE 2009)</small>
 
-X.- Roza-tumba-quema: Procedimiento tradicional para el establecimiento de cultivos, que consiste en cortar el estrato herbáceo y arbustos pequeños (roza), con el propósito de facilitar el corte de la mayoría del estrato arbóreo, el mantenimiento de tocones y algunos árboles de interés; para inducir el rebrote de la vegetación (tumba); seguidamente en el terreno se induce un incendio uniforme controlado para eliminar el material vegetal producto de los cortes (quema), y
+IX.- Incendio forestal: Incendio que se extiende sin control sobre el terreno forestal y que, por lo tanto, afecta la cubierta vegetal;
 
-XI.- Campaña Estatal: La campaña Estatal de prevención y combate de incendios agropecuarios y forestales, que elabora el comité, con la participación social y las distintas autoridades.
+> <small>(REFORMADA, D.O. 7 DE MAYO DE 2009)</small>
+
+X.- Roza-tumba-quema: Procedimiento tradicional para el establecimiento de cultivos, que consiste en cortar el estrato herbáceo y arbustos pequeños (roza), con el propósito de facilitar el corte de la mayoría del estrato arbóreo, el mantenimiento de tocones y algunos árboles de interés; para inducir el rebrote de la vegetación (tumba); seguidamente en el terreno se induce un incendio uniforme controlado para eliminar el material vegetal producto de los cortes (quema);
+
+> <small>(REFORMADA, D.O. 7 DE MAYO DE 2009)</small>
+
+XI.- Campaña Estatal: La campaña Estatal de prevención y combate de incendios agropecuarios y forestales, que elabora el comité, con la participación social y las distintas autoridades, y
+
+> <small>(ADICIONADA, D.O. 7 DE MAYO DE 2009)</small>
+
+XII.- Mensura: Extensión de terreno existente entre predios colindantes, a manera de medida preventiva, que deberá mantenerse limpia en los plazos que señale el calendario de quemas, con el objeto de dar mayor seguridad al control de la quema y evitar la propagación del fuego más allá de la superficie a quemar.
 
 ### CAPÍTULO II. De las Autoridades y sus Atribuciones
 
@@ -79,17 +95,23 @@ XI.- Campaña Estatal: La campaña Estatal de prevención y combate de incendios
 
 Son autoridades competentes de esta ley:
 
-I.-El titular del Poder Ejecutivo del Estado;
+I.- El titular del Poder Ejecutivo del Estado;
 
 II.- Los titulares de las siguientes Secretarías:
 
 a) Secretaría General de Gobierno;
 
-b) Secretaría de Desarrollo Rural y Pesca;
+> <small>(REFORMADO, D.O. 7 DE MAYO DE 2009)</small>
 
-c) Secretaría de Ecología, y
+b) Secretaría de Fomento Agropecuario y Pesquero;
 
-d) Secretaría de Protección y Vialidad.
+REFORMADO, D.O. 7 DE MAYO DE 2009)
+
+c) Secretaría de Desarrollo Urbano y Medio Ambiente, y
+
+> <small>(REFORMADO, D.O. 7 DE MAYO DE 2009)</small>
+
+d) Secretaría de Seguridad Pública;
 
 III.- El Comité;
 
@@ -99,9 +121,11 @@ V.- El personal técnico designado por la Secretaría, en su papel de Coordinado
 
 VI.- Los directores o personal técnico nombrados por el Presidente Municipal para coadyuvar con el Comité.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 7 DE MAYO DE 2009)</small>
+
 ###### Artículo 6.
 
-Son autoridades, las siguientes dependencias y agrupaciones:
+Son autoridades las siguientes dependencias:
 
 I.- Las Delegaciones Federales en el Estado, de las dependencias siguientes:
 
@@ -113,7 +137,9 @@ c) Secretaría de Seguridad Pública;
 
 d) Secretaría de la Reforma Agraria;
 
-e) Secretaría de Educación;
+> <small>(REFORMADO, D.O. 7 DE MAYO DE 2009)</small>
+
+e) Secretaría de Educación Pública;
 
 f) Secretaría de Medio Ambiente y Recursos Naturales;
 
@@ -123,7 +149,9 @@ h) Comisión Nacional Forestal;
 
 i) Comisión Nacional del Agua;
 
-j) Comisión Nacional de la Biodiversidad;
+> <small>(REFORMADO, D.O. 7 DE MAYO DE 2009)</small>
+
+j) Comisión Nacional para el Conocimiento y Uso de la Biodiversidad;
 
 k) Comisión Nacional para el Desarrollo de los Pueblos Indígenas;
 
@@ -139,19 +167,31 @@ p) Instituto Nacional de Antropología e Historia.
 
 II.- Las Dependencias y Organismos Estatales siguientes:
 
-a) Secretaría de Desarrollo Social;
+> <small>(REFORMADO, D.O. 7 DE MAYO DE 2009)</small>
+
+a) Secretaría de Política Comunitaria y Social;
 
 b) Secretaría de Educación;
 
-c) Centro Estatal de Desarrollo Municipal, y
+> <small>(REFORMADO, D.O. 7 DE MAYO DE 2009)</small>
 
-d) Servicios Integrados para la Conservación del Estado de Yucatán.
+c) Secretaría de Obras Públicas, y
 
-III.- Las Uniones de Productores Agrícolas y/o Pecuarios;
+> <small>(REFORMADO, D.O. 7 DE MAYO DE 2009)</small>
+
+d) Centro Estatal de Desarrollo Municipal.
+
+III.- (DEROGADA, D.O. 7 DE MAYO DE 2009)
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 7 DE MAYO DE 2009)</small>
 
 IV.- Comisario ejidal, y
 
-V.- Las demás dependencias y organizaciones de la sociedad civil que sean convocados por el Comité.
+V.- (DEROGADA, D.O. 7 DE MAYO DE 2009)
+
+> <small>(ADICIONADO, D.O. 7 DE MAYO DE 2009)</small>
+
+Las Uniones de Productores Agrícolas y/o Pecuarios y demás organizaciones de la sociedad civil que sean convocados por el Comité, serán coadyuvantes.
 
 ###### Artículo 7.
 
@@ -195,9 +235,11 @@ XVI.- Las demás que le concedan esta Ley y otros ordenamientos aplicables, y qu
 
 Se crea el Comité Estatal de Prevención y Combate de Incendios, como órgano operativo estatal, para la planeación, coordinación y ejecución de acciones permanentes, relacionadas con el objeto de esta Ley.
 
+> <small>(REFORMADO, D.O. 7 DE MAYO DE 2009)</small>
+
 ###### Artículo 9.
 
-El Comité será presidido por el Gobernador del Estado, quien podrá delegar su coordinación general en el Secretario de Desarrollo Rural y Pesca, en materia de planeación, coordinación y ejecución de acciones permanentes, relacionadas con el objeto de esta Ley.
+El Comité será presidido por el Gobernador del Estado, quien podrá delegar su coordinación general en el Secretario de Fomento Agropecuario y Pesquero, en materia de planeación, coordinación y ejecución de acciones permanentes, relacionadas con el objeto de esta Ley.
 
 ###### Artículo 10.
 
@@ -221,9 +263,13 @@ f) Procuraduría Federal de Protección al Ambiente.
 
 III.- Un representante de cada una de las dependencias y organismos estatales siguientes:
 
-a) Secretaría de Desarrollo Rural y Pesca;
+> <small>(REFORMADO, D.O. 7 DE MAYO DE 2009)</small>
 
-b) Secretaría de Ecología;
+a) Secretaría de Fomento Agropecuario y Pesquero;
+
+> <small>(REFORMADO, D.O. 7 DE MAYO DE 2009)</small>
+
+b) Secretaría de Desarrollo Urbano y Medio Ambiente;
 
 c) Heroico Cuerpo de Bomberos, y
 
@@ -279,23 +325,31 @@ Es facultad exclusiva de los Presidentes Municipales, expedir las autorizaciones
 
 Es facultad exclusiva del Comité la emisión y control general de los formatos de autorización para realizar quemas, a efecto de ponerlos a disposición de los Presidentes Municipales, con base en la planeación e integración del Calendario de Quemas de cada año, por lo que éstos deberán informar a la Secretaría de las autorizaciones que expidan.
 
+> <small>(REFORMADO, D.O. 7 DE MAYO DE 2009)</small>
+
 ###### Artículo 18.
 
-Las autorizaciones a que se refiere el Artículo anterior, serán otorgadas mediante documentos impresos, y conforme las siguientes medidas:
+La persona física o moral antes de realizar la quema, deberá solicitar el permiso por escrito ante la autoridad correspondiente, declarando bajo protesta de decir verdad haber cumplido con todos los requisitos establecidos en esta Ley.
 
-I.- La superficie de terreno en que se pretenda realizar la quema tenga guardarrayas, cuya anchura mínima, dentro de un rango de seguridad general, fijará el Presidente Municipal correspondiente, considerando la altura y tipo de vegetación, los cultivos o elementos de riesgo que se encuentren en los predios vecinos, el tamaño del terreno en que se realizaría la quema, entre otros conceptos;
+Las autorizaciones a que se refiere el artículo anterior, serán otorgadas mediante documentos oficiales impresos por la autoridad competente, siempre y cuando se hayan cumplido con los siguientes requisitos:
+
+I.- Que la superficie del terreno en que se pretende realizar la quema tenga guardarrayas, cuya anchura mínima será de tres metros, así como las respectivas mensuras, considerándose la altura y tipo de vegetación, los cultivos o elementos de riesgo que se encuentren entre los predios vecinos, el tamaño del terreno en que se realizaría la quema, entre otros conceptos;
 
 II.- Que sean retiradas del lugar las especies o materiales combustibles que el Comité Estatal califique de alto riesgo para el adecuado control de la propia labor de quema, en cuyo caso, el responsable de la quema buscará su aprovechamiento ulterior;
 
-III.- Las quemas de terrenos, guardarrayas y callejones interiores de los plantíos, se efectúen dentro de los plazos establecidos en el Calendario correspondiente que emita el Comité Estatal, y
+III.- Que las quemas de terrenos, guardarrayas, limpia de mensuras y callejones interiores de los plantíos, se efectúen dentro de los plazos establecidos en el Calendario que emita el Comité Estatal;
 
-IV.- Se acredite haber dado aviso de la quema, a los colindantes del terreno en que tendrá lugar la quema.
+IV.- Se acredite por escrito haber dado aviso de la quema, a los colindantes del terreno, con cinco días naturales de anticipación a la fecha en que tendrá lugar la quema, y
 
-Las medidas a que se refieren los incisos anteriores, se cumplirán de acuerdo con lo que al efecto se acuerde en el seno del Comité, sin menoscabo de ordenar la aplicación de las medidas de seguridad apropiadas, para la protección de las personas y sus propiedades.
+V.- Se detallen las técnicas que se pretendan aplicar para la quema, control y extinción del fuego.
+
+Las medidas de seguridad a que se refieren las fracciones anteriores, se verificarán de acuerdo con lo que al efecto determine el Comité, sin menoscabo de ordenar la aplicación de las medidas legales y de seguridad apropiadas, para la protección de personas y sus propiedades que expida la Secretaría.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 7 DE MAYO DE 2009)</small>
 
 ###### Artículo 19.
 
-Las autorizaciones que expidan los Presidentes Municipales contendrán, la información siguiente:
+Las autorizaciones que expidan los Presidentes Municipales deberán contener la información siguiente:
 
 I.- Datos de identificación del titular de la autorización;
 
@@ -305,7 +359,9 @@ III.- Superficie autorizada para quemar;
 
 IV.- Tipo de vegetación, esquilmos y/o residuos que se autoriza quemar;
 
-V.- Técnica autorizada para realizar la quema;
+> <small>(REFORMADA, D.O. 7 DE MAYO DE 2009)</small>
+
+V.- Técnica autorizada para realizar la quema, control y extinción del fuego;
 
 VI.- Compromisos del productor en materia de medidas y restricciones para la detección y combate de incendios agropecuarios, y
 
@@ -463,19 +519,31 @@ Cada jornada de trabajo saldará dos días de salario, en cualquier tiempo podr�
 
 Si el infractor cubre el importe de la multa dentro de los cinco días hábiles siguientes a la fecha de su imposición, tendrá derecho a solicitar la condonación del cincuenta por ciento de la misma, siempre y cuando no sea reincidente.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 7 DE MAYO DE 2009)</small>
+
 ###### Artículo 52.
 
-Cuando se trate de una persona jurídica colectiva, independientemente de la imposición de las multas, la Secretaría podrá ordenar la clausura parcial o temporal del local donde se encuentre ubicada, así como su cierre definitivo, cuando:
+Cuando se trate de una persona moral, independientemente de la imposición de las multas, la Secretaría podrá ordenar la clausura parcial o temporal del local donde se encuentre ubicada, así como su cierre definitivo, independientemente de las acciones Civiles o Penales a que queden sujetos, cuando:
 
 I.- Realicen obras o actividades tendientes a la quema de manera reincidente;
 
 II.- Incumpla las medidas y restricciones que en materia de quema la autoridad hubiese señalado en la autorización que le haya expedido, y
 
-III.- Omitan la instalación de equipo y sistemas de control de fuego o no adopten las medidas de prevención y combate establecidas por la Secretaría.
+> <small>(REFORMADA, D.O. 7 DE MAYO DE 2009)</small>
+
+III.- Omita la instalación de equipo y sistemas de control de fuego o no adopten las medidas de prevención y combate establecidas por la Secretaría.
+
+> <small>(ADICIONADO, D.O. 7 DE MAYO DE 2009)</small>
+
+###### Artículo 52 Bis.
+
+Toda persona física o moral que realice quemas antes o después de los períodos establecidos en el Calendario de Quemas que emita el Comité, independiente de las sanciones establecidas en esta Ley, estará obligado a reparar los daños causados.
+
+> <small>(REFORMADO, D.O. 7 DE MAYO DE 2009)</small>
 
 ###### Artículo 53.
 
-Toda persona física o jurídica colectiva que por acción u omisión realice quemas o provoque incendios, aunque sus acciones, actividades o instalaciones hubieren sido autorizadas, está obligada a reparar los daños y perjuicios que hubiere ocasionado.
+Toda persona física o moral, que con el objeto de defraudar a sus acreedores, para perjudicar a un tercero, para exigir indemnización por el incendio o por alguna otra acción u omisión realice quemas o provoque incendios, aunque sus acciones, actividades o instalaciones hubieren sido autorizadas, estarán obligadas a reparar los daños y perjuicios que hubiere ocasionado y en caso de no hacerlo quedará sujeto a lo establecido en los Códigos Civil y Penal vigentes en el Estado.
 
 ###### Artículo 54.
 
@@ -485,9 +553,11 @@ El presunto infractor sólo quedará exento de responsabilidad administrativa de
 
 La reparación del daño consistirá en el restablecimiento de la situación anterior al hecho, cuando fuere posible, o en el pago del daño causado, además en ambos casos, se pagará indemnización por los perjuicios que se haya ocasionado.
 
+> <small>(REFORMADO, D.O. 7 DE MAYO DE 2009)</small>
+
 ###### Artículo 56.
 
-La acción civil para la reparación del daño causado por quemas o incendios puede ser ejercida por quien tenga interés jurídico.
+La acción civil o penal para la reparación del daño causado por quemas o incendios puede ser ejercida por quien tenga interés jurídico.
 
 ###### Artículo 57.
 
@@ -528,3 +598,19 @@ El SECRETARIO GENERAL DE GOBIERNO
 (RÚBRICA)
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIÉRREZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 7 DE MAYO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor de este Decreto, la Secretaría de Fomento Agropecuario y Pesquero del Poder Ejecutivo del Estado, en coordinación con los Presidentes Municipales, deberán difundir los alcances de esta reforma en el ámbito de su competencia, a efecto de prevenir y combatir los incendios agropecuarios y forestales en el Estado.
+
+###### ARTÍCULO TERCERO.
+
+El Comité, en un plazo no mayor a 90 días a partir de la entrada en vigor de este Decreto, emitirá los lineamientos necesarios para la adopción de las medidas de seguridad que protejan a las personas y sus propiedades de las quemas.
