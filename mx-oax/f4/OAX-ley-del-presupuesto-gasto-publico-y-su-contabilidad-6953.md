@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-presupuesto-gasto-publico-y-su-contabilidad-6953"
 country: "mx"
 rank: "ley"
 publication_date: "1994-10-08"
-last_updated: "2008-12-29"
+last_updated: "2009-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL PRESUPUESTO, GASTO PUBLICO Y SU CONTABILIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 8 de octubre de 1994.
 
@@ -59,7 +59,21 @@ III.- El Poder Judicial; y
 
 IV.- Los Organismos Descentralizados, Fideicomisos Públicos Estatales, Empresas de Participación Estatal Mayoritaria, así como todas aquellas que posean o exploten bienes del Estado.
 
-A los Poderes, Instituciones, Dependencias, Organismos, Empresas y Fideicomisos citados, para los efectos de esta Ley se les denominará "Entidades".
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2009)</small>
+
+A los Poderes, Instituciones, Dependencias, Organismos, Empresas y Fideicomisos citados, para los efectos de esta Ley se les denominará “Entidades”, las mismas deberán cumplir las disposiciones de esta Ley observando que la administración de los recursos públicos estatales se realice con base en los criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y equidad de género.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2009)</small>
+
+Las Entidades antes mencionadas están obligadas a rendir cuentas por la administración de los recursos públicos que ejerzan en los términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2009)</small>
+
+Las disposiciones presupuestarias y administrativas fortalecerán la operación y la toma de decisiones de dichos ejecutores del gasto, procurando que exista un adecuado equilibrio entre el control, el costo de la fiscalización, el costo de la implantación y la obtención de resultados en los programas y proyectos.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2009)</small>
+
+Los órganos autónomos del Estado se sujetarán a las disposiciones aplicables a las Entidades, así como a lo dispuesto en sus respectivas leyes específicas dentro del margen de autonomía prevista en las disposiciones que les sean aplicables.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -77,11 +91,11 @@ La programación del Gasto Público Estatal, se basará en las directrices que e
 
 Corresponderá a la Secretaría de Finanzas, de Administración y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, en el ámbito de sus respectivas competencias y de conformidad con los ordenamientos legales vigentes, establecer los mecanismos operativos que permitan llevar a cabo el manejo de la información relacionada con las operaciones que afecten el Presupuesto de Egresos del Gobierno del Estado, hacerse cargo del registro y consolidación de las mismas y responsabilizarse de la formulación de los reportes en que se consignen los datos del compromiso y el ejercicio del Presupuesto autorizado por el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2009)</small>
 
 ###### Artículo 5o.
 
-Cada entidad será responsable de planear, programar y presupuestar sus actividades respecto al gasto público. Asimismo, las Dependencias del Ejecutivo son responsables de orientar y coordinar en la planeación, programación, presupuestación, control y evaluación del gasto, así como del cumplimiento de los programas de los organismos que queden ubicados en el sector que esté bajo su coordinación, lo anterior se efectuará atendiendo al principio de equidad de género a través de acciones afirmativas, así como la concordancia de estas actividades con los principios y directrices del Plan Estatal de Desarrollo.
+Cada entidad será responsable de planear, programar y presupuestar sus actividades respecto al gasto público asignado; en el caso de programas y proyectos que conciban y ejecuten con base en el Plan Estatal de Desarrollo tendrán siempre en cuenta la obtención de resultados a través de indicadores de desempeño, mismos que les servirán de referencia para medir los avances alcanzados en los objetivos y resultados durante la operación de los programas o proyectos referidos. Asimismo, las Dependencias del Ejecutivo son responsables de orientar, coordinar en la planeación, programación, presupuestación, control y evaluación del gasto, así como del cumplimiento de los programas de los organismos que queden ubicados en el sector que esté bajo su coordinación; lo anterior se efectuará atendiendo al principio de equidad de género a través de acciones afirmativas, así como la concordancia de estas actividades con los principios y directrices del Plan Estatal de Desarrollo.
 
 ###### Artículo 6o.
 
@@ -113,11 +127,11 @@ El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y la Secreta
 
 ### CAPITULO II. DEL PRESUPUESTO DE EGRESOS
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2009)</small>
 
 ###### Artículo 11.
 
-El gasto público estatal se basará en presupuestos formulados para cada año de calendario, que incluirán el señalamiento de programas, su vinculación y coordinación específica con el Plan Estatal de Desarrollo, el enunciado de objetivos, acciones, metas, costos y unidades responsables de su ejecución. Los programas en todos los casos incorporarán la perspectiva de género desde el diseño y ejecución hasta la evaluación.
+El gasto público estatal se basará en presupuestos formulados para cada año calendario, que incluirán el señalamiento de programas, su vinculación, alineación y congruencia específica con el Plan Estatal de Desarrollo comprendiendo objetivos, acciones, metas y unidades responsables de su ejecución, así como parámetros cuantificables y correspondientes indicadores de desempeño institucional. Los programas contemplados en el Plan Estatal de Desarrollo, en todos los casos incorporarán la perspectiva de género desde el diseño y ejecución hasta la evaluación del desempeño institucional.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -125,9 +139,15 @@ El gasto público estatal se basará en presupuestos formulados para cada año d
 
 Artículo 12,- las Secretarías de Finanzas, de Administración, y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, en el ámbito de sus respectivas competencias y de conformidad con los ordenamientos legales vigentes, durante el proceso de formulación del presupuesto de egresos, definirán el tipo y fuente de recursos que se requieran para el financiamiento de cada programa.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O 7 DE MAYO DE 2009)</small>
+
 ###### Artículo 13.
 
-El Presupuesto de Egresos será el que a iniciativa del Titular del Poder Ejecutivo, decrete el Congreso del Estado. Con dichos recursos se atenderán las actividades, las obras y los servicios públicos programados, a cargo de las entidades. Cuando un programa comprenda más de un año, se sujetará a las cantidades asignadas en el Presupuesto de Egresos de cada año.
+El Presupuesto de Egresos será el que a iniciativa del Titular del Poder Ejecutivo, decrete el Congreso del Estado. Con dichos recursos y bajo un enfoque de resultados se atenderán las actividades, las obras y los servicios públicos programados, a cargo de las entidades. Cuando un programa comprenda más de un año, se sujetará a las cantidades asignadas en el Presupuesto de Egresos de cada año.
+
+> <small>(ADICIONADO, P.O 7 DE MAYO DE 2009)</small>
+
+Se concibe el enfoque de resultados, como la posibilidad que tiene el Estado de precisar el tipo, magnitud y sentido de la transformación, evolución, impacto o beneficio que se prevé lograr, respecto de los objetivos estratégicos generales y específicos establecidos en el Plan Estatal de Desarrollo en el proceso de gestión de los recursos públicos que ejerzan las Entidades.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2005)</small>
 
@@ -165,11 +185,11 @@ Las Secretarias de Finanzas, de Administración, y la Coordinación General del 
 
 El Proyecto de Presupuesto de Egresos, hará mención especial de los compromisos que se deriven de los contratos para prestación de servicios a largo plazo, en los que el Gobierno del Estatal podría adquirir activos.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2009)</small>
 
 ###### Artículo 16.
 
-Los órganos competentes del Congreso del Estado y del Tribunal Superior de Justicia del Estado, atendiendo a las previsiones del ingreso y del gasto público estatal, formularán sus respectivos anteproyectos de Presupuestos de Egresos y los enviarán directa y oportunamente a la Secretaría de Finanzas del Estado para que se cumpla con los requisitos de esta ley y se incorporen al proyecto de Presupuesto de Egresos del Estado. Los anteproyectos incorporarán la perspectiva de género.
+Los órganos competentes del Congreso del Estado, del Tribunal Superior de Justicia del Estado y los organismos autónomos, formularán sus respectivos anteproyectos de Presupuestos de Egresos y los enviarán directa y oportunamente a la Secretaría de Finanzas del Estado para que se cumpla con los requisitos de esta ley y atendiendo a las previsiones del ingreso y del gasto público estatal se incorporen al proyecto de Presupuesto de Egresos del Estado. Los anteproyectos de presupuesto de egresos se elaborarán con el enfoque de resultados a que se refiere el artículo 13 de la presente Ley con base en los criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y equidad de género.
 
 ###### Artículo 17.
 
@@ -193,7 +213,13 @@ La Secretaría de Finanzas deberá presentar al Titular del Ejecutivo del Estado
 
 El Presupuesto de Egresos del Estado será publicado en el Periódico Oficial del Gobierno del Estado de Oaxaca, a más tardar el 31 de diciembre de cada año.
 
-### CAPITULO III. DEL EJERCICIO DEL GASTO PUBLICO
+> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE MAYO DE 2009)</small>
+
+### CAPITULO III. DEL EJERCICIO DEL GASTO PUBLICO Y DE LA EVALUACION DEL DESEMPEÑO INSTITUCIONAL
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2009)</small>
+
+#### SECCION PRIMERA. DEL EJERCICIO DEL GASTO PUBLICO
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -297,17 +323,83 @@ Autorizados los programas, la responsabilidad en el manejo de los presupuestos, 
 
 Quedará a cargo de la Secretaría de Finanzas cubrir el valor de los compromisos contraídos por las Entidades con base en el Presupuesto autorizado y ministrarles, en los casos que se requieran los recursos necesarios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2009)</small>
 
 ###### Artículo 31.
 
-Las Secretarías de Finanzas de Administración y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, en el ámbito de sus respectivas competencias y de conformidad con los ordenamientos legales vigentes, llevarán a cabo la evaluación del comportamiento de cada una de las Entidades en materia de compromiso y ejercicio del presupuesto.
+Las Secretarías de Finanzas, de Administración y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, en el ámbito de sus respectivas competencias y de conformidad con los ordenamientos legales vigentes, llevarán a cabo la evaluación del comportamiento de cada una de las Entidades en materia de compromiso y ejercicio del Presupuesto. Lo anterior sin perjuicio de la evaluación del desempeño institucional que lleve a cabo la Instancia Técnica que se constituya.
 
 ###### Artículo 32.
 
 Las Entidades generarán y codificarán los documentos base de registro del compromiso presupuestal, siguiendo los lineamientos que para el efecto dicte la Secretaría de Finanzas.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 7 DE MAYO DE 2009)</small>
+
+#### SECCION SEGUNDA. DE LA EVALUACION DEL DESEMPEÑO INSTITUCIONAL
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2009)</small>
+
+Artículo 32 A.- La evaluación del desempeño institucional en el manejo de los recursos públicos, la realizará la Instancia Técnica competente, la que deberá verificar el grado de cumplimiento de los objetivos y metas de los programas, políticas públicas, así como el desempeño institucional de todas las Entidades del Estado que ejercen dichos recursos, basándose para ello en indicadores estratégicos y de gestión que permitan conocer los resultados del ejercicio del gasto público de cada ejercicio fiscal; a través de la Instancia Técnica correspondiente, conforme a lo siguiente:
+
+I. Efectuará las evaluaciones por sí misma o a través de personas físicas y morales especializadas y con experiencia probada en la materia que corresponda evaluar, que cumplan con los requisitos de independencia, imparcialidad y transparencia;
+
+II. Todas las evaluaciones podrán hacerse públicas y se darán a conocer por el Estado a través de medios asequibles al ciudadano, en los términos de las disposiciones aplicables;
+
+III. Las evaluaciones que se refieran al ejercicio de recursos públicos federales deberán enviarse al Ejecutivo Federal y, por conducto de éste, a la Cámara de Diputados del Congreso de la Unión, en términos de lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y Ley de Coordinación Fiscal;
+
+IV. Las evaluaciones deberán contener, por lo menos, la siguiente información:
+
+a) Los datos generales del evaluador, destacando al coordinador de la evaluación y a su principal equipo colaborador;
+
+b) Los datos generales de la unidad administrativa responsable de dar seguimiento a la evaluación al interior de las entidades a que se refiere el artículo 2 párrafo segundo de esta Ley;
+
+c) La forma de contratación del evaluador externo, en su caso;
+
+d) El tipo de evaluación contratada, así como sus principales objetivos;
+
+e) La base de datos generada con la información de gabinete y/o de campo para el análisis de la evaluación;
+
+f) Los instrumentos de recolección de información: cuestionarios, entrevistas y formatos, entre otros, según corresponda;
+
+g) Una nota metodológica con la descripción de las técnicas y los modelos utilizados, acompañada del diseño por muestreo, especificando los supuestos empleados y las principales características del tamaño y dispersión de la muestra utilizada de acuerdo con el tipo de evaluación;
+
+h) La información adicional que se haya definido en los términos de referencia correspondientes;
+
+i) Un resumen ejecutivo en el que se describan los principales hallazgos y recomendaciones del evaluador; y
+
+j) El costo total de la evaluación externa, especificando la fuente de financiamiento;
+
+V. Establecerá los métodos que sean adecuados a las necesidades y a las características de las evaluaciones respectivas;
+
+VI. Implementará un programa anual de evaluaciones, en el que se detallará el número y tipo de evaluaciones a realizar en el ejercicio fiscal correspondiente;
+
+VII. Las evaluaciones, en la medida de lo posible, deberán incluir información y presentar resultados con base en indicadores desagregados por sexo, a fin de medir la incidencia y el desempeño institucional de los programas de manera diferenciada entre mujeres y hombres; y
+
+VIII. Dará seguimiento a la atención de las recomendaciones que se emitan derivado de las evaluaciones correspondientes.
+
+Los resultados de las evaluaciones se deberán considerar para efectos de la programación, presupuestación y ejercicio de los recursos públicos en los ejercicios fiscales subsecuentes.
+
+La evaluación del desempeño institucional se sujetará a lo previsto en la Ley que pormenorice las atribuciones y funciones de la Instancia Técnica encargada de la evaluación del desempeño institucional y a las disposiciones que emitan en forma conjunta las Secretarías de Finanzas, de Administración, de la Contraloría y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, en el ámbito de sus respectivas competencias.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2009)</small>
+
+Artículo 32 B.- La evaluación de las políticas públicas, de los programas y de desempeño institucional de las entidades a que se refiere el artículo 2 de esta Ley, se llevará a cabo con base en indicadores de desempeño institucional, que se definen como la expresión cuantitativa o, en su caso, cualitativa, que establece un parámetro para la medición del avance en el cumplimiento de los objetivos y metas, a través de un índice, medida, cociente o fórmula.
+
+Dichos indicadores medirán el grado de cumplimiento de los objetivos de las políticas públicas del Estado, de los programas y el desempeño institucional de sus Entidades. Los indicadores podrán ser estratégicos o de gestión, y permitirán medir los resultados logrados en cualquiera de las dimensiones siguientes:
+
+I. Cobertura, que mide la proporción de atención sobre la demanda total, con respecto a la producción y entrega del bien o servicio;
+
+II. Eficacia, que mide el grado de cumplimiento de los objetivos;
+
+III. Eficiencia, que mide la relación entre la cantidad de los bienes y servicios generados y los insumos o recursos utilizados para su producción;
+
+IV. Impacto económico y social, que mide o valora la transformación relativa en el sector económico o social atendido, o en las características de una población objetivo, en términos de bienestar, oportunidades, condiciones de vida, desempeño institucional, económico y productivo;
+
+V. Calidad, que mide los atributos, propiedades o características que tienen los bienes y servicios públicos generados para cumplir con los objetivos, y su relación con la aceptación del usuario o beneficiario;
+
+VI. Economía, que mide la capacidad de la institución o del programa para generar o movilizar los recursos financieros, conforme a sus objetivos; y
+
+VII. Equidad, que mide los elementos relativos al acceso, valoración, participación e impacto distributivo entre los grupos sociales o entre los géneros por la provisión de un bien o servicio.
 
 ### CAPITULO IV. DE LA CONTABILIDAD
 
@@ -337,11 +429,13 @@ La Secretaría de Finanzas girará las instrucciones sobre la forma y términos 
 
 Asimismo, dicha Secretaría a través de visitas examinará periódicamente el funcionamiento del sistema contable y los procedimientos de contabilidad de cada Entidad pudiendo autorizar por escrito, su modificación o simplificación.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2009)</small>
+
 ###### Artículo 37.
 
-La Secretaría de Finanzas formulará la cuenta de inversión de la Hacienda Pública Estatal y la someterá a la consideración del Titular del Poder Ejecutivo, a fín de que éste la presente ante el Congreso del Estado, para dar cumplimiento a lo dispuesto por el artículo 80 fracción V de la Constitución Política del Estado Libre y Soberano de Oaxaca.
+La Secretaría de Finanzas formulará la Cuenta Pública del Estado y la someterá a la consideración del Titular del Poder Ejecutivo, a fin de que éste la presente ante el Congreso del Estado, para dar cumplimiento a lo dispuesto por el artículo 80 fracción V de la Constitución Política del Estado Libre y Soberano de Oaxaca.
 
-En el caso del último año de Gobierno de cada administración, el Titular del Poder Ejecutivo deberá presentar ante el Congreso del Estado y para los mismos efectos, la iniciativa con proyecto de Decreto sobre el estado de la Hacienda Pública correspondiente al período comprendido entre los meses de enero a julio, debiendo las diferentes Entidades finiquitar ante la Secretaría de Finanzas los anticipos y gastos a comprobar que se les hayan otorgado, a más tardar el último día del mes de julio del año correspondiente, debiéndose presentar también las cuentas parciales de los meses de agosto, septiembre, octubre, noviembre y diciembre.
+En el caso del último año de gobierno de cada administración, el Titular del Poder Ejecutivo deberá presentar ante el Congreso del Estado y para los mismos efectos, la iniciativa con proyecto de Decreto sobre el estado de la Hacienda Pública correspondiente al período comprendido entre los meses de enero a junio, debiendo las diferentes Entidades finiquitar ante la Secretaría de Finanzas los anticipos y gastos a comprobar que se les hayan otorgado, a más tardar el último día del mes de junio del año correspondiente, la que se presentará dentro de los treinta y un días del mes de julio; la correspondiente a los meses de julio y agosto, dentro de los treinta días del mes de septiembre; la correspondiente a los meses de septiembre y octubre dentro de los primeros cinco días del mes de noviembre; y la de noviembre y diciembre, a más tardar al día treinta de abril del año siguiente.
 
 ### CAPITULO V. DE LAS RESPONSABILIDADES
 
@@ -488,3 +582,13 @@ P.O. 5 DE SEPTIEMBRE DE 2007.
 P.O. 29 DE DICIEMBRE DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2009, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE MAYO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado, por conducto de las Secretarías de Finanzas, de Administración, de la Contraloría, y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, en el ámbito de sus respectivas atribuciones, durante los ejercicios fiscales 2009 y 2010 procederán a realizar las acciones de modificación a los sistemas de control que correspondan y a desarrollar los programas de capacitación a las Entidades para formular, con el enfoque de resultados a que se refiere el presente Decreto, el anteproyecto de presupuesto de egresos del Estado para el Ejercicio Fiscal 2011, en los tiempos y forma que permitan al titular del Poder Ejecutivo del Estado cumplir con su obligación constitucional de presentar la iniciativa de decreto de Presupuesto de Egresos del Estado de Oaxaca ante el Congreso del Estado.
+
+TERCERO.- La Secretaría de Finanzas del Poder Ejecutivo del Estado deberá presentar al Congreso del Estado la propuesta de Sistema de Evaluación del Desempeño Institucional a más tardar el día último del mes de mayo de 2011, previo análisis y elaboración con las Secretarías de Administración y de la Contraloría, así como la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca. El Congreso del Estado participará a través de sus comisiones ordinarias coordinadas por la Comisión de Presupuesto, Programación y Cuenta Pública; esta última, entregará sus observaciones a dicha propuesta, a más tardar el día último del mes de agosto de 2011.
+
+CUARTO.- El Ejecutivo del Estado, por conducto de las Secretarías de Finanzas, de Administración, de la Contraloría, y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, en el ámbito de sus respectivas atribuciones, deberán concluir el Sistema de Evaluación del Desempeño Institucional a que se refiere el presente Decreto, a más tardar el 31 de diciembre de 2012.
