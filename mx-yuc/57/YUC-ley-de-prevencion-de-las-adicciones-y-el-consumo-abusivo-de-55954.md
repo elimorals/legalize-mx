@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-prevencion-de-las-adicciones-y-el-consumo-abusivo-de-559
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-08"
-last_updated: "2007-06-08"
+last_updated: "2009-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE PREVENCION DE LAS ADICCIONES Y EL CONSUMO ABUSIVO DE BEBIDAS ALCOHOLICAS Y TABACO DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE MAYO DE 2009.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 8 de junio de 2007.
 
@@ -483,33 +483,97 @@ En las disposiciones establecidas en las fracciones de la IV a la VIII serán ob
 
 ### CAPÍTULO IV. Del Consumo de Tabaco
 
-> <small>(F. DE E., D.O. 15 DE JUNIO DE 2007)</small>
+> <small>(ADICIONADO, D.O. 7 DE MAYO DE 2009)</small>
+
+###### Artículo 32 Bis.
+
+Para efectos de este Capítulo, se entenderá por:
+
+I.- Tabaco: La planta “Nicotina Tabacum” y sus sucedáneos, en su forma natural o modificada, en las diferentes presentaciones, y que se utilice para ser fumada, chupada, mascada o utilizada como rapé;
+
+II.- Denuncia Ciudadana: La notificación que cualquier ciudadano puede realizar personalmente ante la autoridad competente o a través de las líneas telefónicas de acceso gratuito, respecto de cualquier acción u omisión que derive en el incumplimiento de las disposiciones contenidas en esta Ley, los reglamentos que de ella emanen y demás disposiciones legales aplicables;
+
+III.- Elemento de la marca: El uso de razones sociales, nombres comerciales, marcas, emblemas, rúbricas o cualquier tipo de señal visual o auditiva, que identifique a los productos del tabaco;
+
+IV.- Emisión: A la liberación de cualquier sustancia o combinación de sustancias que se produce como resultado de la combustión de un producto de tabaco;
+
+V.- Espacio 100 % libre de humo de tabaco: Área física, pública cerrada o de transporte público en la que por razón de orden público e interés social, está prohibido consumir o encender cualquier producto derivado del tabaco; misma que deberá contar con una señalización pública y legible;
+
+VI.- Humo de Tabaco de Segunda Mano: Se refiere a las emisiones de los productos de tabaco originadas por encender o consumir cualquier producto del tabaco y que afectan al no fumador, y
+
+VII.- Promoción de la salud: Las acciones dirigidas a fomentar el desarrollo de actitudes y conductas que favorezca estilos de vida saludables en la familia, el trabajo y la comunidad.
+
+> <small>(REFORMADO, D.O. 7 DE MAYO DE 2009)</small>
 
 ###### Artículo 33.
 
-El Estado se coordinará con la Secretaría y el Consejo de Salubridad General, para la ejecución del Programa General de Salud contra el tabaquismo, que comprenderá:
+La Secretaría de Salud Estatal se coordinará con el Consejo de Salubridad General, para la ejecución del Programa Estatal Contra el Tabaquismo, que comprenderá las acciones siguientes:
 
-I.- La prevención y el tratamiento de padecimientos originados por el tabaquismo;
+I.- Establecer los mecanismos para orientar, atender y detectar en forma temprana, a fumadores que deseen abandonar el consumo, así como realizar investigaciones sobre el origen de sus causas y consecuencias;
 
-II.- La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a las mujeres embarazadas, la familia, los niños y adolescentes, a través de métodos individuales o colectivos, que incluyen orientar a la población para que se abstenga de fumar en lugares o sitios prohibidos;
+II.- Realizar campañas para disuadir y evitar el consumo de productos del tabaco dirigidos principalmente a niñas, niños, adolescentes y grupos en situación de vulnerabilidad, y que a su vez fomenten valores y conductas positivas que favorezcan estilos de vida saludable en la familia, trabajo y comunidad;
 
-III.- Realizar en conjunto con el sector privado campañas permanentes de información, concientización y difusión para prevenir el uso y consumo de tabaco;
+III.- Procurar la prevención y el tratamiento de padecimiento originados por el tabaquismo;
 
-IV.- Ordenar de oficio o por denuncia ciudadana, la realización de visitas de verificación a los establecimientos, empresas y oficinas para cerciorarse del cumplimiento de las disposiciones de esta Ley;
+IV.- Fomentar la educación sobre los efectos nocivos del tabaquismo en la salud, a través de programas individuales o colectivos, en especial a las mujeres embarazadas, la familia, niñas, niños y adolescentes, que orienten a la población a respetar los espacios 100% libres de humo de tabaco, establecidos en esta ley y demás disposiciones aplicables;
 
-V.- Diseñar el catálogo de letreros y/o señalamientos preventivos, informativos o restrictivos, que serán colocados al interior de los establecimientos, unidades económicas y oficinas de los órganos de gobierno, para prevenir el consumo de tabaco y establecer las prohibiciones pertinentes;
+V.- La elaboración periódica de un programa de seguimiento y evaluación de metas y logros del Programa Estatal contra el Tabaquismo que incluyan al menos las conductas relacionadas con el consumo de tabaco y su impacto en la salud;
 
-VI.- Conocer de las denuncias presentadas por los ciudadanos cuando en los edificios, establecimientos mercantiles, médicos, industriales y de enseñanza, no se establezcan áreas para fumadores aisladas de las de uso común, o habiéndolas no se respete la prohibición de fumar, y
+VI.- El diseño de programas, servicios de cesación y opciones terapéuticas que ayuden a dejar de fumar; combinadas con consejería y otras intervenciones;
 
-VII.- Las demás que le otorgue la Ley y demás disposiciones jurídicas aplicables.
+VII.- Realizar en conjunto con el sector privado, campañas permanentes de información, concientización y difusión para prevenir el uso y consumo de tabaco;
+
+VIII.- Efectuar visitas de verificación de oficio o por denuncia ciudadana, a los establecimientos, empresas y oficinas para cerciorarse del cumplimiento de las disposiciones de esta Ley;
+
+IX.- Diseñar el catálogo de letreros y/o señalamientos preventivos informativos o restrictivos, que serán colocados al interior de los establecimientos, unidades económicas y oficinas de los órganos de gobierno, para prevenir el consumo de tabaco y establecer las prohibiciones pertinentes;
+
+X.- Conocer de las denuncias presentadas por los ciudadanos cuando en los edificios, establecimientos mercantiles, médicos, industriales y de enseñanza, no se establezcan áreas para fumadores de uso común, o habiéndolas no se respete la prohibición de fumar;
+
+XI.- Capacitar a los inspectores de verificación a que se refiere la fracción VIII de este artículo, a fin de que se encuentren en posibilidad de realizar las visitas y actos de orientación, educación y vigilancia del cumplimiento de esta Ley, y
+
+XII.- Las demás que le otorgue la Ley y otras disposiciones jurídicas aplicables.
+
+Los Ayuntamientos coadyuvarán en las anteriores acciones dentro de su respectiva competencia.
+
+Las visitas a que se refiere la fracción VIII del presente artículo se realizarán conforme a lo establece (sic) en la Ley de Salud del Estado.
+
+> <small>(REFORMADO, D.O. 7 DE MAYO DE 2009)</small>
 
 ###### Artículo 34.
 
-Para poner en práctica las acciones contra el tabaquismo, se tendrá en cuenta la investigación de sus causas y de las acciones para controlarlas, así como su repercusión en la salud de las personas y en el entorno social y ambiental.
+Para poner en práctica las acciones del Programa Estatal Contra el Tabaquismo, se tendrán en cuenta los aspectos siguientes:
+
+I.- La generación de la evidencia científica sobre las causas y consecuencias del tabaquismo y sobre la evaluación del programa;
+
+II.- La incorporación de programas escolares en la educación básica, incluyendo temas relacionados con el cuidado de la salud y los que señalen los efectos nocivos del tabaquismo;
+
+III.- La vigilancia e intercambio de información, y
+
+IV.- La cooperación científica, técnica, jurídica y prestación de asesoramiento especializado.
+
+> <small>(REFORMADO, D.O. 7 DE MAYO DE 2009)</small>
 
 ###### Artículo 35.
 
-Para los efectos de esta Ley, con el nombre de tabaco se designa la planta "Nicotina Tabacum2" y sucedáneas en su forma natural o modificada en las diferentes presentaciones que se utilicen para fumar, masticar o respirar.
+Para los efectos de esta Ley, sus reglamentos y demás disposiciones aplicables, son facultades de la Secretaría de Salud Estatal:
+
+I.- Promover los espacios 100% libres de humo de tabaco y programas de educación para un medio ambiente libre de humo de tabaco;
+
+II.- Promover la participación de la sociedad civil en la ejecución de Programas Nacional y Estatal de Salud, y
+
+III.- Proponer al Ejecutivo del Estado las políticas públicas para el control del tabaco y sus productos con base en evidencias científicas y en determinación de riesgo sanitario.
+
+> <small>(ADICIONADO, D.O. 7 DE MAYO DE 2009)</small>
+
+###### Artículo 35 Bis.
+
+Quien comercie, distribuya o suministre productos de tabaco tendrá las siguientes obligaciones:
+
+I.- Contar con licencia sanitaria vigente de acuerdo con los requisitos que establezca la Secretaría de Salud Estatal;
+
+II.- Exhibir dentro del establecimiento la licencia sanitaria correspondiente, y
+
+III.- Anunciar permanentemente al interior del establecimiento, la prohibición de comerciar, distribuir o suministrar tabaco a niñas, niños y adolescentes.
 
 ###### Artículo 36.
 
@@ -519,11 +583,37 @@ Los titulares de los poderes públicos, organismos y demás entidades de la admi
 
 La fuerza pública estará obligada a intervenir y prestar con eficiencia y prontitud su auxilio para el cumplimiento de esta ley.
 
+> <small>(ADICIONADO, D.O. 7 DE MAYO DE 2009)</small>
+
+###### Artículo 36 Bis.
+
+Son facultades de las autoridades responsables de la Seguridad Pública Estatal y Municipal dentro del ámbito de sus competencias, las siguientes:
+
+I.- Poner a disposición de las autoridades competentes en razón del territorio, a las personas físicas que hayan sido sorprendidas fumando tabaco en cualquiera de sus presentaciones, en algún lugar prohibido, siempre que hayan sido conminados a modificar su conducta y se hayan negado a hacerlo.
+
+Para el caso de establecimientos mercantiles los elementos de seguridad publica procederán a petición del titular o encargados de los mismos, y
+
+II.- Las demás que se dispongan en esta Ley y otras disposiciones en la materia.
+
+> <small>(REFORMADO, D.O. 7 DE MAYO DE 2009)</small>
+
 ###### Artículo 37.
 
-En ningún caso y de ninguna forma se podrá vender, expender o suministrar tabaco a menores de edad, cualquiera que sea la forma de presentación de dicho producto.
+A quien comercie, distribuya o suministre productos de tabaco le está prohibido:
 
-Se prohíbe la venta de cigarros o cigarrillos por unidad, en cajetillas menores a 14 unidades, o a través de máquinas expendedoras, a excepción del caso en que éstas se encuentren ubicadas en lugares de acceso exclusivo para personas mayores de edad.
+I.- Exhibir productos del tabaco en los sitios y establecimientos no autorizados para su comercio, venta, distribución y suministro;
+
+II.- Comerciar, distribuir, vender o exhibir cualquier producto del tabaco a través de distribuidores automáticos o máquinas expendedoras, a excepción del caso en que éstas se encuentren ubicadas en lugares de acceso exclusivo para personas mayores de edad;
+
+III.- Distribuir gratuitamente productos del tabaco al público en general;
+
+IV.- Comerciar, distribuir, donar, regalar, vender y suministrar productos de tabaco a niñas, niños y adolescentes;
+
+V.- Emplear a niñas, niños y adolescentes en actividades de comercio, producción, distribución, suministro y venta de estos productos;
+
+VI.- Comerciar, vender, exhibir, promocionar, distribuir o producir cualquier objeto que no sea un producto del tabaco, que contenga alguno de los elementos de la marca o cualquier tipo de diseño o señal auditiva que lo identifique con productos del tabaco, y
+
+VII.- Vender cigarros o cigarrillos por unidad, en cajetillas menores a 14 unidades, o a través de máquinas en lugares de acceso exclusivo para niñas niños y adolescentes.
 
 ###### Artículo 38.
 
@@ -531,11 +621,15 @@ En ningún caso los ayuntamientos podrán otorgar permisos o autorizaciones para
 
 Los dueños y los encargados de establecimientos con acceso exclusivo para mayores de edad, que obtengan y operen un permiso o autorización para la venta de cigarros o cigarrillos mediante máquinas expendedoras, serán personal y, en su caso, solidariamente responsables, por los daños a la salud y perjuicios en general que se causen cuando induzcan, permitan o toleren, que menores de edad obtengan cigarros o cigarrillos de las máquinas referidas.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 7 DE MAYO DE 2009)</small>
+
 ###### Artículo 39.
 
-Se prohíbe fumar en:
+Se prohíbe a todas las personas fumar en:
 
-I.- Cines, teatros, auditorios, restaurantes, clínicas, hospitales y, en general, establecimientos privados que funcionen en locales cerrados con acceso al público, excepto en el exterior de dichos edificios y en las áreas de fumadores que sólo podrán ubicarse en espacios separados o en los vestíbulos, en los términos y con las características previstas en el artículo 41 de esta ley;
+> <small>(REFORMADA, D.O. 7 DE MAYO DE 2009)</small>
+
+I.- Todo lugar cerrado de acceso al público, en los que se podrá destinar lugares exclusivos para fumar de conformidad con lo establecido en el artículo 41 de la presente Ley;
 
 II.- Centros de salud, hospitales y, en general, edificios públicos;
 
@@ -545,15 +639,65 @@ IV.- Tiendas de autoservicio y áreas de atención al público de oficinas banca
 
 V.- Instituciones educativas, públicas y privadas, de educación inicial, jardines de niños, educación especial, primarias, secundarias, media superior y en los espacios cerrados de las instituciones educativas de nivel superior.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 7 DE MAYO DE 2009)</small>
+
+El personal docente de las respectivas instituciones educativas, deberán dar aviso a elementos de seguridad publica estatales o municipales, para que ponga a disposición de la autoridad correspondiente, a la persona o personas que incumplan con este capítulo, siempre y cuando el infractor haya sido conminado a modificar su conducta y haya hecho caso omiso al aviso.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 7 DE MAYO DE 2009)</small>
+
+Los alumnos, maestros, integrantes de las asociaciones de padres de familia de las escuelas e instituciones educativas, sean públicas o privadas, podrán coadyuvar de manera individual o colectiva en la vigilancia del cumplimiento de la prohibición de fumar en las aulas, bibliotecas, auditorios y demás instalaciones a las que deban acudir los alumnos, estableciendo las medidas que estimen pertinentes.
+
+> <small>(REFORMADO, D.O. 7 DE MAYO DE 2009)</small>
+
 ###### Artículo 40.
 
-Los establecimientos y vehículos a que se refiere el artículo anterior deberán estar señalizadas de modo claro a la vista del público y contar con un sistema eficiente para la extracción de humos.
+En todos los espacios 100% libres de humo de tabaco, se colocarán en un lugar visible letreros que indiquen claramente que es un “Espacio 100% libre de humo de tabaco”, debiéndose incluir, un número telefónico para la denuncia por incumplimiento a esta Ley, sus reglamentos y demás disposiciones aplicables.
+
+Los encargados de los establecimientos a que se refiere la fracción I del artículo anterior deberán impedir la presencia de niñas, niños y adolescentes, solos o acompañados, en los espacios reservados para fumadores.
+
+> <small>(REFORMADO, D.O. 7 DE MAYO DE 2009)</small>
 
 ###### Artículo 41.
 
-Los locales cerrados en que se expendan alimentos para su consumo inmediato, los hospitales y las clínicas particulares y, en general, los establecimientos privados que funcionen en dichos locales con acceso al público, deberán tener delimitadas, de acuerdo a la demanda de los usuarios, áreas reservadas para fumadores, de modo tal que el humo producido por la combustión del tabaco no afecte a terceros. Dichas áreas no podrán ser mayores a un cuarenta por ciento de los espacios disponibles.
+Las zonas habilitadas para fumar deberán ubicarse en espacios al aire libre, ó en espacios interiores aislados que dispongan de mecanismos que eviten el traslado de partículas hacia los espacios 100% libres de humo de tabaco y que no sea paso obligado para los no fumadores.
 
-Los encargados de los mencionados establecimientos deberán impedir la presencia de menores de edad, solos o acompañados, en las áreas reservadas para fumadores.
+El propietario, administrador o responsable del área 100% libre de humo de tabaco, estará obligado a hacer respetar los espacios 100% libres de humo de tabaco establecidos en los artículos anteriores, además será responsable subsidiariamente con el infractor siempre que no lo haya conminado a modificar su conducta o no haya dado aviso a la autoridad cuando el infractor haga caso omiso al aviso.
+
+La persona que consuma, mantenga o deje encendido cualquier producto del tabaco en los espacios 100% libres de humo de tabaco, se hará acreedor a las sanciones que establece esta Ley.
+
+> <small>(ADICIONADO, D.O. 7 DE MAYO DE 2009)</small>
+
+###### Artículo 41 Bis.
+
+La Secretaría de Salud Estatal promoverá la participación de la sociedad civil en la prevención del tabaquismo y el control de los productos del tabaco a través de las siguientes acciones:
+
+I.- Promoción de los espacios 100% libres de humo de tabaco;
+
+II.- Promoción de la salud comunitaria;
+
+III.- Educación para la salud;
+
+IV.- Investigación para la salud y generación de la evidencia científica en materia del control del tabaco;
+
+V.- Difusión de las disposiciones legales en materia del control de los productos del tabaco;
+
+VI.- Coordinación con los Consejos Estatales contra las adicciones, y
+
+VII.- Las demás que se requieran en auxilio de aplicación de esta Ley, así como de la denuncia ciudadana.
+
+> <small>(ADICIONADO, D.O. 7 DE MAYO DE 2009)</small>
+
+###### Artículo 41 Ter.
+
+Toda persona podrá interponer una denuncia personalmente ante la autoridad competente o a través de las líneas telefónicas de acceso gratuito, en caso de que observe el incumplimiento de una o más de las obligaciones establecidas en este capítulo y demás disposiciones aplicables.
+
+En las denuncias ciudadanas, la autoridad competente salvaguardará la identidad e integridad del ciudadano denunciante.
+
+> <small>(ADICIONADO, D.O. 7 DE MAYO DE 2009)</small>
+
+###### Artículo 41 Quater.
+
+La Secretaría de Salud Estatal pondrá en operación una línea telefónica de acceso gratuito para que los ciudadanos puedan efectuar denuncias, quejas y sugerencias sobre los espacios 100% libres de humo de tabaco, así como por el incumplimiento de esta Ley y demás disposiciones aplicables. Las instituciones públicas y los Ayuntamientos deberán difundir dichos teléfonos y en su caso, y en la medida de sus posibilidades, proporcionar los medios para la realización de la denuncia ciudadana.
 
 ### CAPÍTULO V. De los Establecimientos de Tratamiento
 
@@ -865,15 +1009,23 @@ Además promoverá la implementación, seguimiento y evaluación de los programa
 
 Para los efectos de esta Ley, se sancionará a quien o quienes incurran en las siguientes conductas:
 
-I.- Induzcan o inciten a los menores de edad o personas con discapacidad mental, por cualquier medio o forma, a consumir bebidas alcohólicas, productos elaborados con tabaco o solventes inhalables;
+> <small>(REFORMADA, D.O. 7 DE MAYO DE 2009)</small>
 
-II.- Proporcionen, faciliten o suministren bebidas alcohólicas, productos elaborados con tabaco o solventes inhalables a los menores de edad o personas con discapacidad mental;
+I.- Induzcan o inciten a niñas, niños y adolescentes o personas con discapacidad mental, por cualquier medio o forma, a consumir bebidas alcohólicas o solventes inhalables;
+
+> <small>(REFORMADA, D.O. 7 DE MAYO DE 2009)</small>
+
+II.- Proporcionen, faciliten o suministren bebidas alcohólicas o productos elaborados con solventes inhalables a niñas, niños y adolescentes o personas con discapacidad mental;
 
 III.- Consuman, expendan o suministren bebidas alcohólicas o solventes inhalables en la vía pública, o bien, conduzcan cualquier tipo de vehículo, bajo los efectos del alcohol o sustancias psicotrópicas, salvo que en este último caso se acredite la prescripción médica;
 
-IV.- Publiciten, expendan o consuman bebidas alcohólicas y tabaco, en contravención de lo dispuesto en las fracciones XVIII y XIX del artículo 11 de esta Ley;
+> <small>(REFORMADA, D.O. 7 DE MAYO DE 2009)</small>
 
-V.- Publiciten, expendan o consuman bebidas alcohólicas, tabaco y demás sustancias psicotrópicas en instalaciones y edificios del Gobierno del Estado, de los municipios, organismos autónomos y demás entidades de la administración pública descentralizada;
+IV.- Publiciten, expendan o consuman bebidas alcohólicas, en contravención de lo dispuesto en las fracciones XVI y XVII del artículo 11 de esta Ley;
+
+> <small>(REFORMADA, D.O. 7 DE MAYO DE 2009)</small>
+
+V.- Publiciten, expendan o consuman bebidas alcohólicas y demás sustancias psicotrópicas en instalaciones y edificios del Gobierno del Estado, de los municipios u organismos autónomos;
 
 VI.- Obstaculicen, impidan o nieguen a las personas con problemas de adicción, los servicios de atención médica establecidos en esta Ley;
 
@@ -891,7 +1043,9 @@ XII.- Al padre o tutor responsable, que desatiendan el programa terapéutico y d
 
 XIII.- A los responsables de los establecimientos mercantiles o unidades económicas, que no cumplan con las restricciones de esta Ley, y
 
-XIV.- Impedir u obstaculizar la realización de los actos que tengan por objeto verificar el cumplimiento de las disposiciones de esta ley.
+> <small>(REFORMADA, D.O. 7 DE MAYO DE 2009)</small>
+
+XIV.- Obstaculizar bajo cualquier motivo las visitas de verificación y la labor de los inspectores;
 
 Los propietarios de establecimientos de bebidas alcohólicas en general, que incumplan con las disposiciones establecidas en el artículo 33 de esta ley, serán sancionados conforme a la Ley de Salud del Estado.
 
@@ -999,6 +1153,28 @@ VII.- Coloque en lugares visibles del establecimiento el horario autorizado de v
 
 La presunción que establece este artículo, no operará para el dueño del establecimiento que hubiere cometido una infracción, dentro de los seis meses anteriores contados a la fecha en que se causó el daño, por actos relacionados con el objeto de esta Ley o de los Reglamentos que regulen la venta de bebidas alcohólicas en el municipio correspondiente.
 
+> <small>(ADICIONADO, D.O. 7 DE MAYO DE 2009)</small>
+
+###### Artículo 75 Bis.
+
+Corresponde a la Secretaría de Salud Estatal y al Juez Calificador, y a falta de éste, al Presidente Municipal dentro del ámbito de su competencia, aplicar las sanciones correspondientes por las infracciones cometidas a las disposiciones del Capítulo Cuarto del Titulo Segundo de esta Ley, conforme a lo dispuesto en este artículo, mismas que consistirán en:
+
+I.- La clausura temporal o definitiva, parcial o total según la gravedad de la infracción y las características de la actividad o establecimiento de acuerdo con lo señalado en el artículo 310 de la Ley de Salud del Estado de Yucatán;
+
+II.- Arresto hasta por 36 horas de acuerdo con lo estipulado en el artículo 312 de la Ley de Salud del Estado de Yucatán;
+
+III.- Multa de 1 hasta 250 veces el salario mínimo general diario vigente en el Estado de Yucatán, cuando se trate del incumplimiento de alguna de las disposiciones contenidas en los artículos 40 y 41 último párrafo de esta Ley;
+
+IV.- Multa de 250 hasta 500 veces el salario mínimo general diario vigente en el Estado de Yucatán, por el incumplimiento de alguna de las disposiciones contenidas en los artículos 35 Bis, 37 fracciones I, II y III, 39, 41 primer y segundo párrafo de esta Ley, y
+
+V.- Multa de 500 hasta 1000 veces el salario mínimo general diario vigente en el Estado de Yucatán, por el incumplimiento de alguna de las disposiciones contenidas en los artículos 37 fracciones IV, V, VI y VII y 38 de esta Ley.
+
+Para efectos de esta Ley se entenderá por reincidente, al infractor que incumpla la misma disposición de esta ley o sus reglamentos dos o más veces dentro del período de un año, contado a partir de la fecha en que se le hubiere notificado la sanción inmediata anterior. En caso de reincidencia se duplicará el monto de la multa que corresponda.
+
+Las cantidades recaudadas por la aplicación de multas establecidas en esta Ley, impuestas por la Secretaría, serán destinadas al Programa Estatal contra el Tabaquismo.
+
+Estas sanciones se aplicarán independientemente de las sanciones civiles o penales en que pudiesen incurrir los infractores de esta u otras leyes.
+
 ### CAPÍTULO III. De la Aplicación de las Sanciones
 
 ###### Artículo 76.
@@ -1088,3 +1264,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 (RÚBRICA)
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIÉRREZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 7 DE MAYO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Este decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo y los Ayuntamientos deberán adecuar los reglamentos y demás disposiciones jurídicas, de acuerdo a la competencia que les corresponda en base a este Decreto, dentro de un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto.
