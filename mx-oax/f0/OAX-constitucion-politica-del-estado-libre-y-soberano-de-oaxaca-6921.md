@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2008-11-15"
+last_updated: "2009-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 2009.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -623,7 +623,7 @@ VI.- En la propaganda política o electoral que difundan los partidos deberán a
 
 > <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2008)</small>
 
-VII.- Durante el tiempo que comprendan las campañas electorales locales y hasta la conclusión de la jornada electoral, deberá suspenderse la difusión en los medios de comunicación de toda propaganda gubernamental de los poderes federales y estatales, los municipios y de cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
+VII.- Durante el tiempo que comprendan las campanas electorales locales y hasta la conclusión de la jornada electoral, deberá suspenderse la difusión en los medios de comunicación de toda propaganda gubernamental de los poderes federales y estatales, los municipios y de cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
 
 La Ley sancionará las infracciones a lo dispuesto en esta disposición;
 
@@ -2449,7 +2449,7 @@ La responsabilidad por delitos cometidos durante el tiempo del encargo por cualq
 
 > <small>(F. DE E., P.O. 28 DE JULIO DE 2001)</small>
 
-La Ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta a la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del Artículo 116. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
+La ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta a la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del Artículo 116. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 146], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -2501,7 +2501,7 @@ En el Estado de Oaxaca, todo individuo tiene derecho a recibir educación. El Es
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 150], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-La educación seguirá las normas que sean precisadas en la Constitución General y se procurará que los sistemas, planes y métodos de enseñanza sean adaptados de manera que responda las necesidades del desarrollo integral del Estado.
+La educación seguirá las normas que sean precisadas en la Constitución General y se procurará que los sistemas, planes y métodos de enseñanza sean adaptados de manera que respondan las necesidades del desarrollo integral del Estado.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 150], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -2615,15 +2615,43 @@ Nunca podrá desempeñarse a la vez, por un solo individuo, dos o más empleos o
 
 Ningún pago podrá hacerse que no esté comprendido en el presupuesto respectivo o determinado por la ley.
 
-Los recursos económicos de que disponga el Gobierno Estatal y los Municipios, así como sus respectivas Administraciones Públicas Paraestatales, se administrarán con eficiencia, eficacia y honradez para satisfacer los objetivos a los que estén destinados.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2009)</small>
+
+Los recursos económicos de que disponga el Gobierno Estatal y los Municipios, así como sus respectivas Administraciones Públicas Paraestatales, se administrarán con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados.
 
 Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicio de cualquier naturaleza y la contratación de obra que realicen se adjudicarán o llevarán a cabo a través de licitaciones mediante convocatoria pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes o por administración directa en los términos de la ley respectiva.
 
-Cuando las licitaciones a que hace referencia el Párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán las bases, procedimientos, reglas, requisitos, y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2009)</small>
+
+Cuando las licitaciones a que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la eficiencia, eficacia, economía, transparencia, honradez e imparcialidad que aseguren las mejores condiciones para el Estado.
 
 El manejo de recursos económicos estatales y municipales se sujetarán a las bases de este Artículo.
 
 Los servidores públicos, serán responsables del cumplimiento de ésta en los términos de la ley reglamentaria respectiva.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2009)</small>
+
+Los resultados de la ejecución de los programas y del ejercicio de los recursos públicos a que se refiere el párrafo segundo de este artículo, en el ámbito estatal serán evaluados por la instancia técnica que se constituya, teniendo a su cargo la evaluación del desempeño institucional por sí mismo o a través de la contratación de terceros, bajo principios de independencia, imparcialidad y transparencia.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2009)</small>
+
+El titular de la instancia técnica será nombrado en términos de la Ley reglamentaria.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2009)</small>
+
+El resultado de las evaluaciones del desempeño institucional se deberá considerar en el proceso de programación y presupuestación de los recursos públicos del Estado, a fin de propiciar que los mismos se asignen tomando en cuenta los resultados alcanzados.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2009)</small>
+
+La planeación para el desarrollo estatal facilitará la programación del gasto público con base en objetivos y metas; claros y cuantificables, que permitan evaluar adecuadamente su cumplimiento, a fin de conocer los resultados obtenidos.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2009)</small>
+
+La Ley preverá la coordinación necesaria entre la instancia técnica, la Secretaría de Finanzas, la Secretaría de Administración, y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, responsables de integrar el proyecto de Presupuesto de Egresos del Estado para cada ejercicio fiscal, a fin de dar cumplimiento a lo previsto en este artículo y emitir las disposiciones administrativas correspondientes.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2009)</small>
+
+Por lo que respecta a los Municipios del Estado, éstos serán evaluados por la Auditoría Superior del Estado.
 
 > <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2008)</small>
 
@@ -3332,3 +3360,13 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 15 DE NOVIEMBRE DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE MAYO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado, en un término que no deberá exceder del 31 de diciembre del año 2010, presentará ante el Congreso del Estado, la iniciativa con proyecto de Ley que contenga las atribuciones de la instancia técnica a que se refiere el artículo 137, séptimo párrafo, de la Constitución Política del Estado Libre y Soberano de Oaxaca.
+
+TERCERO.- Las disposiciones del Decreto de Presupuesto de Egresos del Estado de Oaxaca para el Ejercicio Fiscal 2009, la Normatividad para su Ejercicio, la Ley Municipal para el Estado de Oaxaca y los respectivos presupuestos de egresos con que cuenten los municipios del Estado serán aplicables en dicho año en lo que no se contraponga al presente Decreto.
+
+CUARTO.- Los Municipios del Estado a través de sus Ayuntamientos procederán a elaborar sus respectivos presupuestos de egresos con enfoque de resultados a que se refiere la Ley Municipal para el Estado de Oaxaca y a implantar y concluir sus sistemas de evaluación del desempeño institucional en los mismos plazos en que lo haga el Estado. El Congreso del Estado, por conducto de la Comisión Permanente de Presupuesto, Programación y Cuenta Pública y la Auditoría Superior del Estado, como órgano técnico del mismo, promoverán lo conducente en el ámbito de sus respectivas atribuciones para que se cumpla con dicha obligación municipal.
