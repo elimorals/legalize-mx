@@ -4,7 +4,7 @@ identifier: "OAX-ley-municipal-para-el-estado-de-oaxaca-27916"
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-10"
-last_updated: "2003-01-10"
+last_updated: "2009-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27916&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY MUNICIPAL PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 2009.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes10 de enero de 2003.
 
@@ -1025,7 +1025,7 @@ X.- Por abandono del ejercicio de sus funciones.
 
 (NOTA: EL 11 DE MARZO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LAS SENTENCIAS DICTADAS AL RESOLVER LAS CONTROVERSIAS CONSTITUCIONALES 77/2009 Y 90/2009, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE MARZO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHAS SENTENCIAS PUEDEN SER CONSULTADAS EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRA EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRA EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
 
 ###### ARTICULO 87.
 
@@ -1939,6 +1939,22 @@ Las Leyes de ingresos municipales tendrán vigencia anual y regirán el ejercici
 
 Los anteproyectos de leyes de ingresos y los presupuestos de egresos, se deberán elaborar por los ayuntamientos con estricto apego a las disposiciones contenidas en las leyes y decretos fiscales federales, estatales y municipales que resulten aplicables y en base a los convenios respectivos.
 
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2009)</small>
+
+La administración de los recursos públicos municipales se realizará por los Ayuntamientos con base en los criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y equidad de género.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2009)</small>
+
+Los Municipios del Estado, están obligados por conducto de sus Ayuntamientos a rendir cuentas por la administración de los recursos públicos que ejerzan en los términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2009)</small>
+
+La administración de los recursos a que se refiere el párrafo anterior, fortalecerá además la operación y la toma de decisiones por parte del ayuntamiento en cuanto al gasto público, procurando que exista un adecuado equilibrio entre el control, el costo de la fiscalización, el costo de la implantación y la obtención de resultados en los programas y proyectos que realicen.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2009)</small>
+
+Tratándose de programas y proyectos que conciban y ejecuten los municipios del Estado con recursos del orden federal o estatal que les sean transferidos, los propios y los derivados de las participaciones que por ley les corresponden, tendrán siempre en cuenta la alineación de estos programas y proyectos con sus respectivos planes de desarrollo municipal, que comprenderán objetivos, acciones, metas, autoridades responsables de su ejecución y la obtención de resultados a través de indicadores de desempeño institucional, mismos que les servirán de referencia para medir los avances alcanzados en los objetivos y resultados durante la operación de los programas o proyectos referidos.
+
 ###### ARTICULO 185.
 
 La inspección de la hacienda pública municipal, compete al presidente municipal, al síndico o síndicos y a los regidores de hacienda, en los términos de esta ley. Para la mejor supervisión del ejercicio de los recursos públicos, los ayuntamientos podrán realizar funciones de contraloría preventiva.
@@ -1955,25 +1971,39 @@ Todo (sic) los miembros del ayuntamiento y el tesorero Municipal serán responsa
 
 ### CAPITULO II. DEL PRESUPUESTO DE EGRESOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 188.
 
-El presupuesto de egresos regulará el gasto público municipal y se formulará en base a los programas de actividades del ayuntamiento detallando las asignaciones presupuestarias a nivel de partidas y calendarización del gasto a más tardar el 15 de diciembre del año que antecede al ejercicio fiscal. Tratándose del inicio del gobierno municipal, el ayuntamiento entrante deberá ratificar o, en su caso proponer modificaciones al presupuesto de egresos autorizado por el ayuntamiento saliente, a más tardar el 15 de febrero.
+El presupuesto de egresos regulará el gasto público municipal y se formulará con enfoque de resultados en base a los programas de actividades del Ayuntamiento detallando las asignaciones presupuestarias a nivel de partidas y calendarización del gasto a más tardar el 15 de diciembre del año que antecede al ejercicio fiscal. Tratándose del inicio del gobierno municipal, el Ayuntamiento entrante deberá ratificar o, en su caso modificar el presupuesto de egresos autorizado por el ayuntamiento saliente, a más tardar el 15 de febrero.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2009)</small>
+
+Se concibe el enfoque de resultados, como la posibilidad que tienen los Municipios del Estado de precisar el tipo, magnitud y sentido de la transformación, evolución, impacto o beneficio que se prevé lograr, respecto de los objetivos estratégicos generales y específicos establecidos en sus planes de desarrollo municipal en el proceso de gestión de los recursos públicos de que dispongan.
 
 Los presupuestos de egresos serán aprobados por los Ayuntamientos, con base en sus ingresos disponibles.
 
+(REFORMADO, P.O. 7 DE MAYO DE 2009) (F. DE E., P.O. 25 DE JULIO DE 2009)
+
 ###### ARTICULO 189.
 
-El gasto público municipal comprenderá las erogaciones por concepto de gasto corriente, inversión física, inversión financiera, así como el pago de pasivos a deuda pública que realicen las dependencias de la administración pública central y paramunicipal.
+El gasto público municipal se clasificará atendiendo al objeto del gasto, y a la clasificación funcional y administrativa que realicen las dependencias de la administración pública central y paramunicipal.
 
 ###### ARTICULO 190.
 
 El presupuesto de egresos, además de comprender las erogaciones a que se refiere el artículo que antecede, deberá incorporar los subsidios, donaciones, estímulos, transferencias y demás conceptos de gasto que se otorguen a asociaciones, patronatos, instituciones de beneficencia pública y privada y demás organismos similares a éstas. Los ayuntamientos establecerán un sistema de evaluación y control que permita que la ejecución del presupuesto de egresos se haga en la forma que está programada y acorde a los ingresos disponibles.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 191.
 
-Cada Ayuntamiento llevará su control presupuestal y comprenderá el registro del patrimonio, los ingresos y egresos; así como, las asignaciones, compromisos y ejercicios correspondientes a los programas y partidas de su presupuesto que permita la obtención de sus estados de cuenta y demás información presupuestal, con la finalidad de medir la eficacia y eficiencia del gasto público municipal.
+Cada Ayuntamiento llevará su control presupuestal y comprenderá el registro del patrimonio, los ingresos y egresos; así como, las asignaciones, compromisos y ejercicios correspondientes a los programas y partidas de su presupuesto que permita la obtención de sus estados de cuenta y demás información presupuestal, con la finalidad de que se pueda medir la eficiencia, eficacia, economía, racionalidad, austeridad y transparencia, control, rendición de cuentas y equidad de género del gasto público municipal a través de la evaluación del desempeño institucional.
 
 Las cuentas de un Ayuntamiento serán glosadas preventivamente por el Ayuntamiento que lo sustituya en el año siguiente, durante los dos primeros meses de su funcionamiento, esta glosa preventiva se remitirá a la Contaduría Mayor de Hacienda a más tardar el quince de marzo del año que corresponda.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2009)</small>
+
+La Auditoría Superior del Estado de Oaxaca, ejercerá las atribuciones de evaluación en relación con los Municipios del Estado.
 
 ###### ARTICULO 192.
 
@@ -2376,3 +2406,15 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. HECTOR ANUAR MAFUD MAFUD.
 
 Al C...
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE MAYO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los presupuestos de egresos con que cuenten los Municipios del Estado correspondientes al ejercicio fiscal 2009, serán aplicables en dicho año en lo que no se contraponga al presente Decreto.
+
+TERCERO.- Los Municipios del Estado a través de sus Ayuntamientos durante los ejercicios fiscales 2009 y 2010 procederán a realizar las acciones de modificación a los sistemas de control que correspondan y desarrollar los programas de capacitación a sus distintas dependencias y organismos paramunicipales para formular con el enfoque de resultados a que se refiere el presente Decreto sus anteproyectos de presupuestos de egresos para el ejercicio fiscal 2011.
+
+CUARTO.- Los Municipios del Estado a través de sus Ayuntamientos deberán implantar el Sistema de Evaluación del Desempeño Institucional a que se refiere el presente Decreto a más tardar el 31 de diciembre de 2012.
