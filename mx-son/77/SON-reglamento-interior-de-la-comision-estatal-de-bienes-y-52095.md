@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-comision-estatal-de-bienes-y-52095"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-10-05"
-last_updated: "2006-10-05"
+last_updated: "2009-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE BIENES Y CONCESIONES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE MAYO DE 2009.
 
 Reglamento publicado en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 5 de octubre de 2006.
 
@@ -51,23 +51,25 @@ I. Ley: Ley de Bienes y Concesiones del Estado de Sonora; y
 
 II. Comisión Estatal: Comisión Estatal de Bienes y Concesiones.
 
+> <small>(REFORMADO, B.O. 7 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 3°.
 
 Para el estudio, planeación, programación, coordinación, ejecución, desarrollo, apoyo y control de la prestación de los servicios y de la realización de actividades que tiene a su cargo la Comisión Estatal, ésta contará con un Consejo Técnico Consultivo, así como con las siguientes unidades administrativas:
 
-Coordinador Ejecutivo.
+I.- Coordinación Ejecutiva;
 
-Dirección General de Bienes del Dominio del Estado.
+II.- Dirección General de Bienes del Dominio del Estado;
 
-Dirección General del Programa de Atención Ciudadana y Protección Patrimonial.
+III.- Dirección General del Programa de Atención Ciudadana y Protección Patrimonial;
 
-Dirección General del Hangar de Gobierno.
+IV.- Dirección General del Hangar de Gobierno;
 
-Dirección General Administrativa y de Servicios.
+V.- Dirección General Administrativa y de Servicios;
 
-Dirección Jurídica.
+VI.- Dirección General del Centro de Gobierno y Auditorio Cívico del Estado; y
 
-Dirección de la Administración del Centro de Gobierno y Auditorio Cívico.
+VII.- Dirección Jurídica.
 
 Se anexa organigrama estructural.
 
@@ -357,67 +359,83 @@ X. Planear, organizar y controlar los recursos humanos de la Comisión Estatal, 
 
 XI. Coordinar la elaboración de los manuales de organización, de procedimientos y cualquier documento requerido por la normatividad vigente, con el fin de dar a conocer el sustento de la Ley en que se basa la existencia de la Comisión Estatal, así como el perfil general de la organización y los procedimientos de trabajo para la mejor operación de la unidad administrativa;
 
-XII. Proponer y establecer políticas, procedimientos y medidas de control de recursos informáticos que se requieran, buscando optimizar su uso y facilitar las acciones que conlleven al logro de los objetivos de cada una de las áreas que integran esta unidad administrativa; y
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2009)</small>
 
-XIII. las demás que le confieran las disposiciones legales aplicables y el Coordinador Ejecutivo de la Comisión Estatal en la esfera de sus atribuciones.
+XII. Proponer y establecer políticas, procedimientos y medidas de control de recursos informáticos que se requieran, buscando optimizar su uso y facilitar las acciones que conlleven al logro de los objetivos de cada una de las áreas que integran esta unidad administrativa;
+
+> <small>(ADICIONADA, B.O. 7 DE MAYO DE 2009)</small>
+
+XIII. Planear, programar, organizar, dirigir, ejecutar, controlar y evaluar el desarrollo del Archivo General de la Comisión Estatal de Bienes y Concesiones;
+
+> <small>(ADICIONADA, B.O. 7 DE MAYO DE 2009)</small>
+
+XIV. Fungir como Unidad de Enlace de la Comisión Estatal, en los términos de la Ley de Acceso a la Información Pública del Estado de Sonora;
+
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2009)</small>
+
+XV. Las demás que le confieran las disposiciones legales aplicables y el Coordinador Ejecutivo de la Comisión Estatal, en la esfera de sus atribuciones.
+
+> <small>(REFORMADO, B.O. 7 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 18.
 
-A la Dirección Jurídica le corresponden las siguientes atribuciones:
+A la Dirección General del Centro de Gobierno y Auditorio Cívico del Estado le corresponden las siguientes atribuciones:
 
-I. Definir los criterios de interpretación y aplicación de las disposiciones jurídicas que normen el funcionamiento de la Comisión Estatal, así como proporcionar asesoría jurídica a las diferentes áreas que la conforman;
+I.- Coordinar, controlar y ejecutar el presupuesto de ingresos y egresos para la atención eficiente de la administración del Centro de Gobierno;
 
-II. Participar en la formulación y revisión de los anteproyectos de leyes, reglamentos y decretos de la competencia de la Comisión Estatal;
+II.- Coordinar, el trámite para pagos de facturación por los servicios de mantenimiento y conservación que se requieren en el inmueble del Centro de Gobierno;
 
-III. Revisar los convenios, acuerdos, circulares, contratos, escrituras notariales y demás documentos en los que intervenga el titular de la Comisión Estatal;
+III.- Instrumentar y controlar los procesos de licitación para las adquisiciones de servicios de mantenimiento y suministros que requiera el edificio del Centro de Gobierno;
 
-IV. Desempeñar las representaciones que por acuerdo expreso le encomiende el Coordinador Ejecutivo, así como participar en los asuntos de carácter legal en que tenga intervención la Comisión Estatal, e informar de los resultados;
+IV.- Coordinar, distribuir y controlar el uso de los estacionamientos asignados al inmueble;
 
-V. Elaborar y contestar los informes de autoridad en representación de la Comisión Estatal en los juicios de amparo ofreciendo y desahogando las probanzas necesarias y, en su caso, interponer los recursos o medios impugnativos que resulten pertinentes;
+V.- Programar y controlar la agenda para el uso del aula magna y salones de reuniones ubicados en el Centro de Gobierno;
 
-VI. Actuar en los juicios civiles, mercantiles y administrativos e interponer las demandas respectivas y reconvenciones, así como denuncias o querellas penales ante la autoridad correspondiente en representación de la Comisión Estatal, con facultades generales para pleitos y cobranzas como apoderado general sin limitación alguna en los amplios términos del artículo 2831, párrafo primero del Código Civil para el Estado de Sonora y sus correlativos del Código Civil para el Distrito Federal, en los asuntos relacionados con sus atribuciones y a su vez, vigilar el legal cumplimiento de las resoluciones respectivas;
+VI.- Formular y ejecutar los contratos de arrendamiento de las áreas comunes de los edificios México, Sonora y Hermosillo del Centro de Gobierno;
 
-VII. Coordinar acciones con la Dirección General Jurídica, adscrita directamente al Ejecutivo del Estado, en aquellos asuntos de carácter legal que a juicio del Coordinador Ejecutivo de la Comisión Estatal se consideren trascendentales y necesaria su participación;
+VII.- Ejecutar con el personal adscrito, los servicios de mantenimiento en las áreas de uso común de los edificios del Centro de Gobierno;
 
-VIII. Analizar jurídicamente la viabilidad económica y financiera de los procedimientos y normas que se establezcan para la adecuada utilización de los bienes públicos del dominio privado;
+VIII.- Coordinar y supervisar los servicios de mantenimiento en las áreas de uso común de los edificios del Centro de Gobierno;
 
-IX. Asesorar en el trámite de las convocatorias para la celebración de las licitaciones públicas o simplificadas y concesiones de los bienes inmuebles a cargo de la Comisión Estatal, de acuerdo a la normatividad establecida al efecto;
+IX.- Realizar los trámites de cobros de servicios básicos, tales como energía eléctrica, agua y cuota condominal así como celebrar los contratos relativos con las dependencias y entidades que se encuentran instaladas en los edificios México, Sonora y Hermosillo, del Centro de Gobierno;
 
-X. Emitir los dictámenes legales y normativos sobre la factibilidad económica, técnica y financiera que sirvan de apoyo para la elaboración de los contratos en los que tenga relación la Comisión Estatal;
+X.- Remitir los pagos a la Secretaría de Hacienda por los conceptos de los servicios básicos y cuota condominal que cubren las dependencias y entidades;
 
-XI. Proponer los lineamientos conforme a los cuales se celebrarán o rescindirán los contratos de arrendamientos de bienes inmuebles, para uso de las dependencias del Poder Ejecutivo y elaborar los contratos de arrendamiento relativos, para firma del titular de la Comisión Estatal;
+XI.- Llevar la agenda de los eventos a realizarse en el Auditorio Cívico del Estado; y
 
-XII. Certificar documentos oficiales que existan en el archivo de la Comisión Estatal, para uso oficial y exclusivo del Gobierno del Estado, y los que requieran las autoridades federales, estatales y municipales, así como documentos que integren el acervo de la Comisión Estatal; y
+XII.- Las demás que le confieran las disposiciones legales aplicables y el Coordinador Ejecutivo de la Comisión Estatal en la esfera de sus atribuciones.
 
-XIII. las demás que le confieran las disposiciones legales aplicables y el Coordinador Ejecutivo de la Comisión Estatal en la esfera de sus atribuciones.
+> <small>(REFORMADO, B.O. 7 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 19.
 
-A la Dirección de la Administración del Centro de Gobierno y Auditorio Cívico le corresponden las siguientes atribuciones:
+A la Dirección Jurídica le corresponden las siguientes atribuciones:
 
-l. Coordinar, controlar y ejecutar el presupuesto de ingresos y egresos para la atención eficiente de la administración del Centro de Gobierno;
+I.- Definir los criterios de interpretación y aplicación de las disposiciones jurídicas que normen el funcionamiento de la Comisión Estatal, así como proporcionar asesoría jurídica a las diferentes áreas que la conforman;
 
-II. Coordinar; el trámite para pagos de facturación por los servicios de mantenimiento y conservación que se requieren en el inmueble del Centro de Gobierno;
+II.- Participar en la formulación y revisión de los anteproyectos de leyes, reglamentos y decretos de la competencia de la Comisión Estatal;
 
-III. Instrumentar y controlar los procesos de licitación para las adquisiciones de servicios de mantenimiento y suministros que requiera el edificio del Centro de Gobierno;
+III.- Revisar los convenios, acuerdos, circulares, contratos, escrituras notariales y demás documentos en los que intervenga el titular de la Comisión Estatal;
 
-IV. Coordinar, distribuir y controlar el uso de los estacionamientos asignados al inmueble;
+IV.- Desempeñar las representaciones que por acuerdo expreso le encomiende el Coordinador Ejecutivo, así como participar en los asuntos de carácter legal en que tenga intervención la Comisión Estatal, e informar de los resultados;
 
-V. Programar y controlar la agenda para el uso del aula magna y salones de reuniones ubicados en el Centro de Gobierno;
+V.- Elaborar y contestar los informes de autoridad en representación de la Comisión Estatal en los juicios de amparo ofreciendo y desahogando las probanzas necesarias y, en su caso, interponer los recursos o medios impugnativos que resulten pertinentes;
 
-VI. Formular y ejecutar los contratos de arrendamiento de las áreas comunes de los edificios México, Sonora y Hermosillo del Centro de Gobierno;
+VI.- Actuar en los juicios civiles. mercantiles y administrativos e interponer las demandas respectivas y reconvenciones, así como denuncias o querellas penales ante la autoridad correspondiente en representación de la Comisión Estatal, con facultades generales para pleitos y cobranzas como apoderado general sin limitación alguna en los amplios términos del artículo 2831, párrafo primero del Código Civil para el Estado de Sonora y sus correlativos del Código Civil para el Distrito Federal, en los asuntos relacionados con sus atribuciones y a su vez, vigilar el legal cumplimiento de las resoluciones respectivas;
 
-VII. Ejecutar con el personal adscrito, los servicios de mantenimiento en las áreas de uso común de los edificios del Centro de Gobierno;
+VII.- Coordinar acciones con la Dirección General Jurídica, adscrita directamente al Ejecutivo del Estado, en aquellos asuntos de carácter legal que a juicio del Coordinador Ejecutivo de la Comisión Estatal se consideren trascendentales y necesaria su participación;
 
-VIII. Coordinar y supervisar los servicios de mantenimiento en las áreas de uso común de los edificios del Centro de Gobierno;
+VIII.- Analizar jurídicamente la viabilidad económica y financiera de los procedimientos y normas que se establezcan para la adecuada utilización de los bienes públicos del dominio privado;
 
-IX. Realizar los trámites de cobros de servicios básicos, tales como energía eléctrica, agua y cuota condominal así como celebrar los contratos relativos con las dependencias y entidades que se encuentran instaladas en los edificios México, Sonora y Hermosillo, del Centro de Gobierno;
+IX.- Asesorar en el trámite de las convocatorias para la celebración de las licitaciones públicas o simplificadas y concesiones de los bienes inmuebles a cargo de la Comisión Estatal, de acuerdo a la normatividad establecida al efecto;
 
-X. Remitir los pagos a la Secretaría de Hacienda por los conceptos de los servicios básicos y cuota condominal que cubren las dependencias y entidades;
+X.- Emitir los dictámenes legales y normativos sobre la factibilidad económica, técnica y financiera que sirvan de apoyo para la elaboración de los contratos en los que tanga relación la Comisión Estatal;
 
-XI. Llevar la agenda de los eventos a realizarse en el Auditorio Cívico; y
+XI.- Proponer los lineamientos conforme a los cuales se celebrarán o rescindirán los contratos de arrendamientos de bienes inmuebles, para uso de las dependencias del Poder Ejecutivo y elaborar los contratos de arrendamiento relativos, para firma del titular de la Comisión Estatal;
 
-XII. las demás que le confieran las disposiciones legales aplicables y el Coordinador Ejecutivo de la Comisión Estatal en la esfera de sus atribuciones.
+XII.- Certificar documentos oficiales que existan en el archivo de la Comisión Estatal, para uso oficial y exclusivo del Gobierno del Estado, y los que requieran las autoridades federales, estatales y municipales, así como documentos que integren el acervo de la Comisión Estatal; y
+
+XIII.- Las demás que le confieran las disposiciones legales aplicables y el Coordinador Ejecutivo de la Comisión Estatal en la esfera de sus atribuciones.la Comisión Estatal en la esfera de sus atribuciones.
 
 ### CAPÍTULO VI. DE LA SUPLENCIA DE LOS FUNCIONARIOS
 
@@ -443,40 +461,46 @@ Dado en la residencia del Poder Ejecutivo, en la Ciudad de Hermosillo, Sonora, a
 
 EL GOBERNADOR DEL ESTADO, EDUARDO BOURS CASTELO. RUBRICA. EL SECRETARIO DE GOBIERNO, ROBERTO RUIBAL ASTIAZARAN. RUBRICA.
 
-COMISION ESTATAL DE BIENES Y CONCESIONES
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2009)</small>
 
-ORGANIGRAMA ESTRUCTURAL
+Comisión Estatal De Bienes Y Concesiones
 
-SECRETARIA
+Organigrama Estructural
 
-DE HACIENDA
+Secretaría
 
-CONSEJO TECNICO
+de Hacienda
 
-CONSULTIVO
+Consejo Técnico
 
-COORDINADOR
+Consultivo
 
-EJECUTIVO
+Coordinador
 
-DIRECCION DIRECCION DE LA
+Ejecutivo
 
-JURIDICA ADMINISTRACION DEL
+Dirección
 
-CENTRO DE GOBIERNO Y
+Jurídica
 
-AUDITORIO CIVICO
+Dirección Dirección Dirección Dirección Dirección
 
-DIRECCIÓN DIRECCIÓN DIRECCIÓN DIRECCION
+General de General del General General General
 
-GENERAL DE GENERAL DEL GENERAL GENERAL
+Bienes del Programa de del Hangar Administra- del Centro
 
-BIENES DEL PROGRAMA DE DEL HANGAR ADMINISTRATIVA
+Dominio Atención de Gobierno tiva y de de Gobierno
 
-DOMINIO DEL ATENCION DE GOBIERNO Y DE SERVICIOS
+del Estado Ciudadana y Servicios y Auditorio
 
-ESTADO CIUDADANA Y
+Protección Cívico del
 
-PROTECCION
+Patrimonial Estado
 
-PATRIMONIAL
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 7 DE MAYO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
