@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-acceso-a-la-informacion-publica-del-poder-38762"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-12"
-last_updated: "2004-04-12"
+last_updated: "2009-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL PODER EJECUTIVO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. SE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL PODER EJECUTIVO DEL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADO EN EL P.O. DE 8 DE MAYO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el lunes 12 de abril del 2004.
 
@@ -550,3 +552,15 @@ ROSA HILDA ABASCAL RODRÍGUEZ
 Secretaria de Contraloría y Desarrollo Administrativo
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE MAYO DE 2009.
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Se abroga el Acuerdo por el que se crea el Consejo Técnico Interinstitucional de Acceso a la Información Pública, publicado el día 17 de septiembre del año 2003, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Tercero. Se abroga el Decreto Administrativo del Reglamento de Acceso a la Información Pública del Poder Ejecutivo del Estado de Michoacán de Ocampo, publicado el día 12 de abril del año 2004, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Cuarto. Los recursos de revisión interpuestos ante los sujetos obligados que se encuentren en trámite, serán sustanciados y resueltos por éstos de acuerdo al procedimiento anterior.
