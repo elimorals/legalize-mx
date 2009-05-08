@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-la-prevencion-y-la-gestion-integral-de-residuos-58189"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-17"
-last_updated: "2007-12-17"
+last_updated: "2009-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY PARA LA PREVENCION Y LA GESTION INTEGRAL DE RESIDUOS DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 2009.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 17 de diciembre de 2007.
 
@@ -129,75 +129,81 @@ XIV.- Gestión Integral: Conjunto articulado e interrelacionado de acciones y no
 
 XV.- Impactos Ambientales Significativos: Aquellos provocados por las actividades humanas que sobrepasen los límites permisibles en las normas oficiales mexicanas, las disposiciones ambientales del Estado o bien aquellos producidos por efectos naturales que impliquen daños al ambiente;
 
-XVI.- LEEPA: Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Quintana Roo;
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2009)</small>
 
-XVII.- Ley: Ley para la Prevención y Gestión Integral de los Residuos del Estado de Quintana Roo;
+XVI.- Incineración.- Todo tratamiento térmico con o sin la recuperación de calor producido por la combustión, incluyendo pirolisis, gasificación, plasma y cualquier otro proceso que genere dioxinas y furanos como subproductos;
 
-XVIII.- LGEEPA: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+XVII.- LEEPA: Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Quintana Roo;
 
-XIX.- LGPGIR: Ley General para la Prevención y Gestión Integral de los Residuos;
+XVIII.- Ley: Ley para la Prevención y Gestión Integral de los Residuos del Estado de Quintana Roo;
 
-XX.- Lixiviados: Líquidos que se forman por la reacción, arrastre o filtrado de los materiales que constituyen los residuos y que contienen sustancias en forma disuelta o en suspensión que pueden infiltrarse en los suelos o escurrirse fuera de los sitios en los que se depositen y que puede dar lugar a la contaminación al ambiente o riesgos a la salud;
+XIX.- LGEEPA: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-XXI.- Manejo Integral: Actividades de reducción en la fuente, separación, reutilización, almacenamiento, barrido, recolección, transporte, tratamiento y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización y bajo esquemas de factibilidad tecnológica, ambiental, económica y social;
+XX.- LGPGIR: Ley General para la Prevención y Gestión Integral de los Residuos;
 
-XXII.- Microgenerador: Establecimiento industrial, comercial o de servicios que genere una cantidad de hasta cuatrocientos kilogramos de residuos peligrosos al año o su equivalente en otra unidad de medida;
+XXI.- Lixiviados: Líquidos que se forman por la reacción, arrastre o filtrado de los materiales que constituyen los residuos y que contienen sustancias en forma disuelta o en suspensión que pueden infiltrarse en los suelos o escurrirse fuera de los sitios en los que se depositen y que puede dar lugar a la contaminación al ambiente o riesgos a la salud;
 
-XXIII.- Pequeño Generador: Persona física o moral que genere una cantidad igual o mayor a cuatrocientos kilogramos y menor a diez toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida;
+XXII.- Manejo Integral: Actividades de reducción en la fuente, separación, reutilización, almacenamiento, barrido, recolección, transporte, tratamiento y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización y bajo esquemas de factibilidad tecnológica, ambiental, económica y social;
 
-XXIV.- Plan de Contingencia Ambiental: Instrumento de organización de las acciones, personas, servicios y recursos disponibles para la atención previo, durante y después de un desastre que involucre la generación y/o liberación de residuos al ambiente, con base en la evaluación de riesgos, disponibilidad de recursos materiales y humanos, preparación de la comunidad y capacidad de respuesta local e internacional;
+XXIII.- Microgenerador: Establecimiento industrial, comercial o de servicios que genere una cantidad de hasta cuatrocientos kilogramos de residuos peligrosos al año o su equivalente en otra unidad de medida;
 
-XXV.- Plan de Manejo: Instrumento de gestión integral, que contiene el conjunto de acciones así como los procedimientos para lograr la minimización de la generación de los residuos y la valorización de los subproductos, bajo criterios de eficiencia ambiental, económica y social, así como para realizar un manejo integral de los residuos que se generen;
+XXIV.- Pequeño Generador: Persona física o moral que genere una cantidad igual o mayor a cuatrocientos kilogramos y menor a diez toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida;
 
-XXVI.- Planta de Tratamiento: Instalación donde se lleva a cabo cualquier proceso de tratamiento de los residuos para valorizarlos o disponerlos finalmente;
+XXV.- Plan de Contingencia Ambiental: Instrumento de organización de las acciones, personas, servicios y recursos disponibles para la atención previo, durante y después de un desastre que involucre la generación y/o liberación de residuos al ambiente, con base en la evaluación de riesgos, disponibilidad de recursos materiales y humanos, preparación de la comunidad y capacidad de respuesta local e internacional;
 
-XXVII.- Prevención: Conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
+XXVI.- Plan de Manejo: Instrumento de gestión integral, que contiene el conjunto de acciones así como los procedimientos para lograr la minimización de la generación de los residuos y la valorización de los subproductos, bajo criterios de eficiencia ambiental, económica y social, así como para realizar un manejo integral de los residuos que se generen;
 
-XXVIII.- Programa Estatal: Programa Estatal para la Prevención y Gestión Integral de los Residuos en el Estado de Quintana Roo;
+XXVII.- Planta de Tratamiento: Instalación donde se lleva a cabo cualquier proceso de tratamiento de los residuos para valorizarlos o disponerlos finalmente;
 
-XXIX.- Programa Municipal: Programa Municipal para la Prevención y Gestión Integral de los Residuos;
+XXVIII.- Prevención: Conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
 
-XXX.- Recolección: Acción de recibir los residuos de sus generadores y trasladarlos a las instalaciones para su transferencia, tratamiento o disposición final;
+XXIX.- Programa Estatal: Programa Estatal para la Prevención y Gestión Integral de los Residuos en el Estado de Quintana Roo;
 
-XXXI.- Recolección Selectiva o Separada: Acción de recolectar los residuos separando desechos y subproductos;
+XXX.- Programa Municipal: Programa Municipal para la Prevención y Gestión Integral de los Residuos;
 
-XXXII.- Reciclaje: Proceso de transformación por el cual los subproductos valorizables de los residuos son utilizados como materia prima para la fabricación de productos nuevos;
+XXXI.- Recolección: Acción de recibir los residuos de sus generadores y trasladarlos a las instalaciones para su transferencia, tratamiento o disposición final;
 
-XXXIII.- Reciclaje Energético: Sistema de tratamiento, basado en la recuperación de la energía disponible de los Residuos;
+XXXII.- Recolección Selectiva o Separada: Acción de recolectar los residuos separando desechos y subproductos;
 
-XXXIV.- Reglamento: Reglamento de la Ley para la Prevención y Gestión Integral de Residuos del Estado de Quintana Roo;
+XXXIII.- Reciclaje: Proceso de transformación por el cual los subproductos valorizables de los residuos son utilizados como materia prima para la fabricación de productos nuevos;
 
-XXXV.- Relleno Sanitario: Obra de infraestructura que aplica métodos de ingeniería para la disposición final de los residuos sólidos urbanos y de manejo especial, ubicados en sitios adecuados a los Programas de Ordenamiento Ecológico y demás normatividad aplicable, mediante el cual se depositan y compactan al menor volumen práctico posible y se cubren con material natural o sintético para prevenir y minimizar la generación de contaminantes al ambiente y reducir los riesgos a la salud;
+XXXIV.- Reciclaje Energético: Sistema de tratamiento, basado en la recuperación de la energía disponible de los Residuos;
 
-XXXVI.- Residuo: Material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido o semisólido, o es un líquido o gas contenido en recipientes o depósitos, y que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final conforme a lo dispuesto en esta Ley y demás ordenamientos que de ella deriven;
+XXXV.- Reglamento: Reglamento de la Ley para la Prevención y Gestión Integral de Residuos del Estado de Quintana Roo;
 
-XXXVII.- Residuos Inorgánicos: Aquellos constituidos por materiales que no son biodegradables y que pueden ser susceptibles de reutilización o reciclado tales como vidrio, papel, cartón, plástico, laminados de materiales reciclables, aluminio y metales no peligrosos;
+XXXVI.- Relleno Sanitario: Obra de infraestructura que aplica métodos de ingeniería para la disposición final de los residuos sólidos urbanos y de manejo especial, ubicados en sitios adecuados a los Programas de Ordenamiento Ecológico y demás normatividad aplicable, mediante el cual se depositan y compactan al menor volumen práctico posible y se cubren con material natural o sintético para prevenir y minimizar la generación de contaminantes al ambiente y reducir los riesgos a la salud;
 
-XXXVIII.- Residuos Orgánicos: Aquellos que tienen la característica de poder desintegrarse o degradarse rápidamente, transformándose en otro tipo de materia orgánica. Por ejemplo los restos de comida, frutas, restos de jardinerías, cáscaras entre otros;
+XXXVII.- Residuo: Material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido o semisólido, o es un líquido o gas contenido en recipientes o depósitos, y que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final conforme a lo dispuesto en esta Ley y demás ordenamientos que de ella deriven;
 
-XXXIX.- Residuos Peligrosos: Aquellos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que contengan agentes infecciosos que les confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio, de conformidad con lo que se establece en esta Ley por ejemplo aceites lubricantes usados, acumuladores de vehículos automotores conteniendo plomo, convertidores catalítico de vehículos automotores entre otros;
+XXXVIII.- Residuos Inorgánicos: Aquellos constituidos por materiales que no son biodegradables y que pueden ser susceptibles de reutilización o reciclado tales como vidrio, papel, cartón, plástico, laminados de materiales reciclables, aluminio y metales no peligrosos;
 
-XL.- Residuos de Manejo Especial: Aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
+XXXIX.- Residuos Orgánicos: Aquellos que tienen la característica de poder desintegrarse o degradarse rápidamente, transformándose en otro tipo de materia orgánica. Por ejemplo los restos de comida, frutas, restos de jardinerías, cáscaras entre otros;
 
-XLI.- Residuos Sólidos Urbanos: Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole;
+XL.- Residuos Peligrosos: Aquellos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que contengan agentes infecciosos que les confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio, de conformidad con lo que se establece en esta Ley por ejemplo aceites lubricantes usados, acumuladores de vehículos automotores conteniendo plomo, convertidores catalítico de vehículos automotores entre otros;
 
-XLII.- Responsabilidad Compartida. Al principio mediante el cual se reconoce que los residuos sólidos urbanos y de manejo especial son generados a partir de la realización de actividades que satisfacen necesidades de la sociedad, mediante cadenas de valor tipo producción, proceso, envasado, distribución, consumo de productos, y que, en consecuencia, su manejo integral es una corresponsabilidad social y requiere la participación conjunta, coordinada y diferenciada de productores, distribuidores, consumidores, usuarios de subproductos, y de los tres órdenes de gobierno según corresponda, bajo un esquema de factibilidad de mercado y eficiencia ambiental, tecnológica, económica y social;
+XLI.- Residuos de Manejo Especial: Aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
 
-XLIII.- Reutilización: A empleo de un residuo sólido sin que medie un proceso de transformación;
+XLII.- Residuos Sólidos Urbanos: Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole;
 
-XLIV.- Secretaría: La Secretaría de Desarrollo Urbano y Medio Ambiente;
+XLIII.- Responsabilidad Compartida. Al principio mediante el cual se reconoce que los residuos sólidos urbanos y de manejo especial son generados a partir de la realización de actividades que satisfacen necesidades de la sociedad, mediante cadenas de valor tipo producción, proceso, envasado, distribución, consumo de productos, y que, en consecuencia, su manejo integral es una corresponsabilidad social y requiere la participación conjunta, coordinada y diferenciada de productores, distribuidores, consumidores, usuarios de subproductos, y de los tres órdenes de gobierno según corresponda, bajo un esquema de factibilidad de mercado y eficiencia ambiental, tecnológica, económica y social;
 
-XLV.- Servicios de Aseo: Servicio público de limpia que prestan los municipios;
+XLIV.- Reutilización: A empleo de un residuo sólido sin que medie un proceso de transformación;
 
-XLVI.- Sistema de Manejo Ambiental: Conjunto de medidas adoptadas a través de la (sic) cuales se incorporan principios ambientales en las actividades cotidianas de los entes públicos y privados con el objetivo de reducir su impacto negativo al ambiente, mediante el ahorro y consumo eficiente de agua, energía y materiales que alienta con sus políticas de adquisiciones la prevención de la generación de residuos, su aprovechamiento y su manejo integral;
+XLV.- Secretaría: La Secretaría de Desarrollo Urbano y Medio Ambiente;
 
-XLVII.- Sitio Contaminado: Lugar, espacio, suelo, cuerpo de agua, instalación o cualquier combinación de éstos que han sido contaminados con materiales o residuos que, por sus cantidades y características, pueden representar un riesgo para la salud humana, a los organismos vivos y el aprovechamiento de los bienes o propiedades de las personas;
+XLVI.- Servicios de Aseo: Servicio público de limpia que prestan los municipios;
 
-XLVIII.- Subproductos: Materiales o productos usualmente desechados y que son técnica, económica o socialmente susceptibles de valorización;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2009)</small>
 
-XLIX.- Tratamiento: Procedimiento mecánico, físico, químico, biológico o térmico, mediante el cual se cambian las características de los residuos sólidos y se reduce su volumen o peligrosidad;
+XLVII.- Sistema de Manejo Ambiental: Conjunto de medidas adoptadas a través de las cuales se incorporan principios ambientales en las actividades cotidianas de los entes públicos y privados con el objetivo de reducir su impacto negativo al ambiente, mediante el ahorro y consumo eficiente de agua, energía y materiales que alienta con sus políticas de adquisiciones la prevención de la generación de residuos, su aprovechamiento y su manejo integral;
 
-L.- Valorización: Conjunto de acciones cuyo objetivo es recuperar el valor remanente o el poder calorífico de los residuos, mediante su reincorporación en procesos productivos.
+XLVIII.- Sitio Contaminado: Lugar, espacio, suelo, cuerpo de agua, instalación o cualquier combinación de éstos que han sido contaminados con materiales o residuos que, por sus cantidades y características, pueden representar un riesgo para la salud humana, a los organismos vivos y el aprovechamiento de los bienes o propiedades de las personas;
+
+XLIX.- Subproductos: Materiales o productos usualmente desechados y que son técnica, económica o socialmente susceptibles de valorización;
+
+L.- Tratamiento: Procedimiento mecánico, físico, químico, biológico o térmico, mediante el cual se cambian las características de los residuos sólidos y se reduce su volumen o peligrosidad;
+
+LI.- Valorización: Conjunto de acciones cuyo objetivo es recuperar el valor remanente o el poder calorífico de los residuos, mediante su reincorporación en procesos productivos.
 
 ### CAPÍTULO SEGUNDO. DE LAS FACULTADES
 
@@ -689,7 +695,9 @@ l.- Arrojarlos o abandonarlos en la vía pública, áreas comunes, lotes baldío
 
 II.- Arrojarlos a la vía pública o depositarios en los recipientes de almacenamiento de uso público cuando contengan sustancias tóxicas o peligrosas para la salud y el ambiente;
 
-III.- Quemarlos al aire libre sin justificación y autorización;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2009)</small>
+
+III.- La incineración de residuos sólidos urbanos;
 
 IV.- Arrojarlos al mar o en cuerpos de aguas superficiales o subterráneas, sistemas de drenaje, alcantarillado o en fuentes públicas;
 
@@ -1322,3 +1330,11 @@ LIC. FÉLIX ARTURO GONZÁLEZ CANTO
 LA SECRETARIA DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 ROSARIO ORTÍZ YELADAQUI
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE MAYO DE 2009.
+
+PRIMERO.-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Los Ayuntamientos cantarán con un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto, para hacer la adecuación reglamentaria correspondiente en los mismos términos del presente documento legislativo.
