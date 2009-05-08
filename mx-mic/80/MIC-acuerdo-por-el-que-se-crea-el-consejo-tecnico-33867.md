@@ -4,7 +4,7 @@ identifier: "MIC-acuerdo-por-el-que-se-crea-el-consejo-tecnico-33867"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-09-17"
-last_updated: "2004-04-12"
+last_updated: "2009-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 ACUERDO POR EL QUE SE CREA EL CONSEJO TECNICO INTERINSTITUCIONAL DE ACCESO A LA INFORMACION PUBLICA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL PODER EJECUTIVO DEL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADO EN EL P.O. DE 12 DE ABRIL DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION DEL PODER EJECUTIVO DEL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADO EN EL P.O. DE 8 DE MAYO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
@@ -118,3 +118,13 @@ Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de
 Artículo Segundo. Se abroga el Decreto Administrativo publicado en el número 82, Tomo CXXXI, Cuarta Sección del Periódico Oficial del Estado, de fecha 17 de septiembre del 2003.
 
 Artículo Tercero. Los acuerdos tomados en el seno del Consejo Técnico Interinstitucional de Acceso a la Información Pública que se abroga, serán obligatorios en lo conducente.
+
+P.O. 8 DE MAYO DE 2009.
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Se abroga el Acuerdo por el que se crea el Consejo Técnico Interinstitucional de Acceso a la Información Pública, publicado el día 17 de septiembre del año 2003, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Tercero. Se abroga el Decreto Administrativo del Reglamento de Acceso a la Información Pública del Poder Ejecutivo del Estado de Michoacán de Ocampo, publicado el día 12 de abril del año 2004, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Cuarto. Los recursos de revisión interpuestos ante los sujetos obligados que se encuentren en trámite, serán sustanciados y resueltos por éstos de acuerdo al procedimiento anterior.
