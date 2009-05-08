@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-estatal-de-la-cultura-del-217
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-25"
-last_updated: "2007-01-26"
+last_updated: "2009-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE LA CULTURA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 2009.
 
 Reglamento publicado en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el lunes 25 de junio de 2001.
 
@@ -159,9 +159,9 @@ VI.- Dirección Editorial;
 
 VII.- Dirección de Museos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2009)</small>
 
-VIII.- Dirección de Filmaciones;
+VIII.- Dirección de Vinculación en Asuntos Arqueológicos;
 
 IX.- Coordinación de Recursos Financieros y Materiales;
 
@@ -181,17 +181,29 @@ XVI.- Coordinación de Culturas Populares;
 
 XVII.- Coordinación de Fondos Culturales;
 
-XVIII.- Coordinación de Patrimonio Arqueológico;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2009)</small>
 
-XIX.- Coordinación de Patrimonio Arquitectónico;
+XVIII.- Coordinación de Patrimonio Arquitectónico;
 
-XX.- Coordinación de Patrimonio Artístico;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2009)</small>
 
-XXI.- Coordinación de Patrimonio Histórico Documental;
+XIX.- Coordinación de Patrimonio Artístico;
 
-XXII.- Coordinación de Teatros;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2009)</small>
 
-XXIII.- Coordinación de Festivales;
+XX.- Coordinación de Patrimonio Histórico Documental;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2009)</small>
+
+XXI.- Coordinación de Teatros;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2009)</small>
+
+XXII.- Coordinación de Festivales;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2009)</small>
+
+XXIII.- Coordinación de Filmaciones;
 
 XXIV.- Banda de Música del Estado;
 
@@ -203,21 +215,29 @@ XXVII.- Museos Públicos Estatales;
 
 XXVIII.- Coordinación de Vinculación con otros Museos;
 
-XXIX.- Coordinación de Comunicación;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2009)</small>
 
-XXX.- Coordinación de Asuntos Jurídicos;
+XXIX.- Coordinación de Patrimonio Arqueológico;
 
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2009)</small>
 
-XXXI.- Secretaría Particular;
+XXX.- Coordinación de Comunicación;
 
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2009)</small>
 
-XXXII.- Asesores; y
+XXXI.- Coordinación de Asuntos Jurídicos;
 
-> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2009)</small>
 
-XXXIII. Órganos Desconcentrados.
+XXXII.- Secretaría Particular;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2009)</small>
+
+XXXIII. Asesores; y
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2009)</small>
+
+XXXIV.- Órganos Desconcentrados.
 
 ###### Artículo 15.
 
@@ -259,7 +279,7 @@ III.- Coordinación de Fondos Culturales.
 
 La Dirección de Conservación del Patrimonio, deberá apoyar, coordinar y supervisar el trabajo de las siguientes coordinaciones:
 
-I.- Coordinación de Patrimonio Arqueológico;
+I.- (DEROGADA, P.O. 8 DE MAYO DE 2009)
 
 II.- Coordinación de Patrimonio Arquitectónico;
 
@@ -273,9 +293,15 @@ La Dirección de Difusión Artística, deberá apoyar, coordinar y supervisar el
 
 I.- Coordinación de Teatros;
 
-II.- Coordinación de Festivales; y
+II.- Coordinación de Festivales; y (sic)
 
-III.- Banda de Música del Estado.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2009)</small>
+
+III.- Coordinación de Filmaciones; y
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2009)</small>
+
+IV.- Banda de Música del Estado.
 
 ###### Artículo 21.
 
@@ -292,6 +318,10 @@ La Dirección de Museos, deberá apoyar, coordinar y supervisar el trabajo de la
 I.- Museos Públicos Estatales; y
 
 II.- Coordinación de Vinculación con otros Museos.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2009)</small>
+
+Artículo 22 A.- La Dirección de Vinculación en Asuntos Arqueológicos deberá coordinar y supervisar el trabajo de la Coordinación de Patrimonio Arqueológico.
 
 ###### Artículo 23.
 
@@ -639,17 +669,7 @@ VII.- Las demás que le confiera el Presidente del Consejo Directivo.
 
 ###### Artículo 39.
 
-La Coordinación de Patrimonio Arqueológico, tendrá las siguientes facultades:
-
-I.- Coadyuvar con las autoridades competentes en la integración del registro del patrimonio arqueológico de la Entidad y sus municipios;
-
-II.- Coadyuvar con las autoridades competentes en la realización de estudios para determinar la cualidad de bienes muebles e inmuebles como patrimonio arqueológico;
-
-III.- Intervenir, en apoyo a las autoridades competentes, como protector de hallazgos arqueológicos en la entidad y sus municipios;
-
-IV.- Intervenir en la ejecución de planes, programas, acuerdos, convenios y demás actos jurídicos relativos a la conservación del patrimonio arqueológico y para el cumplimiento de sus funciones; y
-
-V.- Las demás que le confiera su superior jerárquico o el Presidente del Consejo Directivo.
+(DEROGADO, P.O. 8 DE MAYO DE 2009)
 
 #### Sección Segunda. De la Coordinación de Patrimonio Arquitectónico
 
@@ -757,9 +777,25 @@ VI.- Proponer medios alternativos para la obtención de ingresos por motivo de l
 
 VII.- Las demás que le confiera su superior jerárquico o el Presidente del Consejo Directivo.
 
-#### Sección Tercera. De la Banda de Música del Estado
+> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADA], P.O. 8 DE MAYO DE 2009)</small>
 
-#### Sección Primera. De la Coordinación de Producción Editorial
+#### Sección Tercera. De la Coordinación de Filmaciones
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2009)</small>
+
+Artículo 45 A.- La Coordinación de Filmaciones tendrá las siguientes facultades:
+
+I.- Coadyuvar en la promoción y difusión de espacios y locaciones aptas para el desarrollo de las actividades cinematográficas y audiovisuales;
+
+II.- Representar al Instituto ante las instancias competentes en materia de filmaciones en el ámbito nacional e internacional;
+
+III.- Llevar y controlar el archivo de filmoteca y videoteca que al efecto sea establecido; y
+
+IV.- Las demás que le confiera su superior jerárquico o el Presidente del Consejo Directivo.
+
+(REUBICADA [N. DE E. ANTES SECCION TERCERA], P.O. 8 DE MAYO DE 2009)
+
+#### Sección Cuarta. De la Banda de Música del Estado
 
 ###### Artículo 46.
 
@@ -807,7 +843,7 @@ VIII.- Efectuar el balance de los fondos erogados con la previsión de recuperac
 
 IX.- Las demás que le confiera el Presidente del Consejo Directivo.
 
-#### Sección Segunda. De la Coordinación de Diseño
+#### Sección Primera. De la Coordinación de Producción Editorial
 
 ###### Artículo 48.
 
@@ -829,7 +865,7 @@ VII.- Actualizar el registro de las ediciones y publicaciones ante las autoridad
 
 VIII.- Las demás que le confiera su superior jerárquico o el Presidente del Consejo Directivo.
 
-#### Sección Primera. De los Museos Públicos Estatales
+#### Sección Segunda. De la Coordinación de Diseño
 
 ###### Artículo 49.
 
@@ -871,7 +907,7 @@ IX.- Proponer los lineamientos generales para la vinculación con otros museos, 
 
 X.- Las demás que le confiera el Presidente del Consejo Directivo.
 
-#### Sección Segunda. De la Coordinación de Vinculación con otros Museos
+#### Sección Primera. De los Museos Públicos Estatales
 
 ###### Artículo 51.
 
@@ -899,6 +935,8 @@ X.- Efectuar y supervisar las labores de museografía, manejo de obras, embalaje
 
 XI.- Las demás que les confiera su superior jerárquico o el Presidente del Consejo Directivo.
 
+#### Sección Segunda. De la Coordinación de Vinculación con otros Museos
+
 ###### Artículo 52.
 
 La Coordinación de Vinculación con otros Museos, tendrá las siguientes facultades:
@@ -913,33 +951,43 @@ IV.- Registrar a las instituciones públicas o privadas que administren o funjan
 
 V.- Las demás que le asigne su superior jerárquico o el Presidente del Consejo Directivo.
 
-> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADO], P.O. 26 DE ENERO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE ENERO DE 2007)</small>
 
-### Capítulo XI. De la Dirección de Filmaciones
+### Capítulo XI. De la Dirección de Vinculación en Asuntos Arqueológicos
 
-> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2009)</small>
 
-Artículo 52 A.- La Dirección de Filmaciones, tendrá las siguientes facultades:
+Artículo 52 A.- La Dirección de Vinculación en Asuntos Arqueológicos tendrá las siguientes facultades:
 
-I.- Planear, presupuestar, organizar y coordinar festivales y actividades relacionadas con las expresiones cinematográficas y audiovisuales;
+I.- Proponer la celebración de convenios, acuerdos y demás actos jurídicos tendientes a la conservación, protección y salvaguarda del patrimonio arqueológico de la Entidad, con organismos e instituciones públicas y privadas, así como los lineamientos generales de vinculación, con base en las disposiciones legales y reglamentarias aplicables;
 
-II.- Establecer sus planes y programas de trabajo, mediante acuerdo con el Presidente del Consejo Directivo;
+II.- Coordinar con instituciones de los tres ámbitos de gobierno, las actividades aprobadas en materia de conservación, protección y salvaguarda del patrimonio arqueológico de la Entidad, dentro del marco de los actos jurídicos señalados en la fracción anterior;
 
-III.- Apegar sus acciones a los lineamientos que al efecto determine el Consejo Directivo o de la instancia que sea constituida con ese fin;
+III.- Participar, cuando se lo soliciten por las autoridades competentes, en la elaboración de los planes y programas de desarrollo urbano para el establecimiento de áreas o zonas protegidas;
 
-IV.- Gestionar apoyos y patrocinios para el desarrollo de las actividades que le sean encomendadas;
+IV.- Formular, en coordinación con las autoridades competentes, el catálogo de áreas o zonas protegidas;
 
-V.- Coadyuvar en la promoción y difusión de espacios y locaciones aptas para el desarrollo de las actividades cinematográficas y audiovisuales;
+V.- Representar al Instituto ante los organismos e instancias de planeación y operativas en materia de arqueología; y
 
-VI.- Establecer vínculos institucionales para el fomento y difusión de la cultura local, en los ámbitos nacional e internacional;
+VI.- Las demás que le confiera el Presidente del Consejo Directivo.
 
-VII.- Llevar la representación del Instituto ante las instancias competentes en materia de expresiones cinematográficas y audiovisuales en el ámbito nacional e internacional;
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2009)</small>
 
-VIII.- Controlar y supervisar las partidas presupuestales que le sean asignadas para el desarrollo de las actividades establecidas en este artículo;
+#### Sección Primera. De la Coordinación de Patrimonio Arqueológico
 
-IX.- Llevar y controlar el archivo de filmoteca y videoteca que al efecto sea establecido; y
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2009)</small>
 
-X.- Las demás que le asigne el Presidente del Consejo Directivo.
+Artículo 52 B.- La Coordinación de Patrimonio Arqueológico tendrá las siguientes facultades:
+
+I.- Coadyuvar con las autoridades competentes en la integración del registro del patrimonio arqueológico de la Entidad y sus municipios;
+
+II.- Coadyuvar con las autoridades competentes en la realización de estudios para determinar la cualidad de bienes muebles e inmuebles como patrimonio arqueológico;
+
+III.- Intervenir en la ejecución de planes, programas, acuerdos, convenios y demás actos jurídicos relativos a la conservación del patrimonio arqueológico y para el cumplimiento de sus funciones;
+
+IV.- Difundir la importancia histórica y cultural que conlleva la conservación del patrimonio arqueológico; y
+
+V.- Las demás que le confiera su superior jerárquico o el Presidente del Consejo Directivo.
 
 (REUBICADO [N. DE E. ANTES CAPITULO XI], P.O. 26 DE ENERO DE 2007)
 
@@ -1120,3 +1168,7 @@ El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaría de Desarrollo Económico Sustentable transferirá al Instituto Estatal de la Cultura el personal, recursos materiales y financieros que actualmente tiene asignados la Dirección de Eventos Especiales.
+
+P.O. 8 DE MAYO DE 2009.
+
+Artículo Único. El presente decreto iniciará su vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
