@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-ingresos-del-estado-de-quintana-roo-para-el-65951"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2008-12-18"
-last_updated: "2008-12-18"
+last_updated: "2009-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE INGRESOS DEL ESTADO DE QUINTANA ROO, PARA EL EJERCICIO FISCAL 2009
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 2009.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 18 de diciembre de 2008.
 
@@ -319,7 +319,9 @@ infraestructura en los Estados $0
 
 del Estado $189'645,883.00
 
-4.- Empréstitos $0
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2009)</small>
+
+4.- Empréstitos $1,200'000,000.00
 
 5.- Apoyos extraordinarios $0
 
@@ -327,9 +329,11 @@ del Estado $189'645,883.00
 
 ingresos de las Entidades Federativas $0
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2009)</small>
+
 GRAN TOTAL DE LOS INGRESOS
 
-DEL ESTADO: $13,131'932,685.00
+DEL ESTADO: $14,331'932,685.00
 
 ###### ARTICULO 2o.
 
@@ -354,6 +358,12 @@ Se derogan las disposiciones que establezcan que los ingresos que obtengan las d
 Asimismo, se derogan las disposiciones contenidas, en las leyes de carácter no fiscal que establezcan que los ingresos que obtenga las dependencias, incluyendo a sus órganos administrativos desconcentrados, o Entidades, por concepto de derechos, productos, o aprovechamientos, e ingresos de cualquier otra naturaleza, serán considerados como ingresos excedentes en el ejercicio fiscal en que se generen.
 
 Quedan sin efecto las exenciones relativas a los gravámenes a bienes muebles previstas en leyes federales a favor de organismos descentralizados sobre contribuciones locales, salvo en lo que refiere a bienes propiedad de dichos organismos que se consideren del dominio público de la Federación.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2009)</small>
+
+###### ARTICULO 6o.
+
+El Monto de los Ingresos Extraordinarios reflejados en el Artículo 1o., fracción VII, Numeral 4, de esta Ley, asciende a la cantidad de $1,200'000,000.000 (Mil Doscientos Millones de Pesos 00/100 M.N.), cantidad pendiente por contratar de los $1,900'000,000.00 (Mil Novecientos Millones de Pesos 00/100 M.N.) que será aplicado en los términos que establece el Decreto Número 066 publicado en el Periódico Oficial del Estado de Quintana Roo, Número 114 Extraordinario, de fecha 26 de noviembre de 2008.
 
 ## TRANSITORIOS
 
@@ -456,3 +466,11 @@ LIC. FÉLIX ARTURO GONZÁLEZ CANTO
 LA SECRETARIA DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 ROSARIO ORTÍZ YELADAQUI
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE MAYO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
