@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-coordinadora-de-fomento-al-51385"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-07-14"
-last_updated: "2006-07-14"
+last_updated: "2009-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA COORDINADORA DE FOMENTO AL COMERCIO EXTERIOR DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COORDINADORA DE FOMENTO AL COMERCIO EXTERIOR DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 8 DE MAYO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 14 de julio de 2006.
 
@@ -610,3 +612,23 @@ SAMUEL ALCOCER FLORES
 EL SECRETARIO DE DESARROLLO ECONÓMICO SUSTENTABLE
 
 HÉCTOR GERMÁN RENE LÓPEZ SANTILLANA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE MAYO DE 2009.
+
+Artículo Primero. Inicio de vigencia.
+
+El presente Decreto Gubernativo iniciará su vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Abrogación del Reglamento Interior vigente.
+
+Se abroga el Reglamento Interior de la Coordinadora de Fomento al Comercio Exterior del Estado de Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado número 112, segunda parte, de fecha 14 de julio de 2006.
+
+Artículo Tercero. Adecuación del manual de organización.
+
+COFOCE realizará los cambios necesarios al manual de organización para adecuarlo al presente Decreto Gubernativo en un plazo no mayor a los ciento veinte días contados a partir del inicio de vigencia del presente Decreto.
+
+Artículo Cuarto. Vigencia de la designación de Consejeros.
+
+Los Consejeros Consultivos en funciones continuarán hasta concluir el nombramiento por el término previsto en el presente Reglamento, contado a partir de la fecha de su nombramiento.
