@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-instituto-municipal-de-la-mujer-de-santa-55095"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-04-16"
-last_updated: "2007-04-16"
+last_updated: "2009-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA MUJER DE SANTA CATARINA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de abril de 2007.
 
@@ -57,7 +57,9 @@ PERSPECTIVA DE GÉNERO.- Al concepto que se refiere a la metodología y los inst
 
 TRANSVERSALIDAD.- Criterio aplicado en diseño y ejecución de política y programas con perspectiva de género en las distintas dependencias y entidades de gobierno, en el caso, municipal, en forma coordinada o conjunta.
 
-PLAN MUNICIPAL DE LAS MUJERES.- Al conjunto de programas y acciones con definición de objetivos y metas específicos que se contienen en el Plan Municipal de Desarrollo y demás, que apruebe el Consejo Directivo, ya que constituye el documento que orienta la conducción de la tarea pública, social, política, económica, laboral, cultural, educativa, profesional y académica que impulse el Instituto; además de ser el documento regulador de los programas de corto, mediano y largo plazo y de las acciones y programas de trabajo anuales y trienales del mismo.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2009)</small>
+
+PLAN MUNICIPAL DE LAS MUJERES.- Al conjunto de programas y acciones con definición de objetivos y metas específicos que se contienen en el Plan Municipal de Desarrollo y demás que apruebe el Consejo Directivo, ya que constituye el documento que orienta la conducción de la tarea pública, social, política, económica, laboral, cultural, educativa, profesional y académica que impulse el Instituto además de ser el documento regulador de los programas de corto, mediano y largo plazo y de las acciones y programas de trabajo anuales y trienales del mismo.
 
 ###### Artículo 3.
 
@@ -81,7 +83,9 @@ El Instituto tiene como objetivo general, establecer una política integral de p
 
 El Instituto tendrá como objetivos específicos:
 
-a) Ejecutar el Plan Municipal de Desarrollo de las Mujeres, estableciendo e implementando programas para la promoción integral de las mujeres, distinguiendo los que serán ejecutados por el Instituto y los coordinados con otras dependencias, señalando los programas y las instancias responsables.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2009)</small>
+
+a) Ejecutar el Plan Municipal de Desarrollo de las Mujeres estableciendo e implementando programas para la promoción integral de las mujeres distinguiendo los que serán ejecutados por el Instituto y los coordinados con otras dependencias señalando los programas y las instancias responsables.
 
 b) Todos los programas del Instituto serán dirigidos a impulsar el desarrollo integral de las mujeres del municipio, para que la equidad de género sea una realidad cultural posible en todos los ámbitos de la vida.
 
@@ -147,15 +151,19 @@ El Instituto contará con los siguientes órganos:
 
 El Consejo Directivo es el órgano superior del Instituto y ejerce sus atribuciones y responsabilidades en forma colegiada.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2009)</small>
+
 ###### Artículo 11.
 
-El Consejo Directivo podrá acordar la formación de comisiones permanentes o transitorias para la mejor distribución de su trabajo y para el cumplimiento pleno de sus atribuciones y responsabilidades. Funcionarán, al menos, las comisiones permanentes de Seguimiento y Evaluación del Plan Municipal de Desarrollo de las Mujeres, la Administración y las Finanzas del Instituto.
+El Consejo Directivo podrá acordar la formación de comisiones permanentes o transitorias para la mejor distribución de su trabajo y para el cumplimiento pleno de sus atribuciones y responsabilidades. Funcionarán al menos las comisiones permanentes de Seguimiento y Evaluación del Plan Municipal de Desarrollo de las Mujeres la Administración y las Finanzas del Instituto.
 
 ###### Artículo 12.
 
 El Consejo Directivo tendrá las siguientes atribuciones y responsabilidades:
 
-a) Aprobar, adicionar, o modificar en su caso, el contenido del Plan Municipal de las Mujeres, evaluar el cumplimiento del mismo y darle seguimiento correspondiente; dicho programa deberá revisarse y evaluarse al menos anualmente. Así mismo deberá aprobar los programas trienal y anual de trabajo pudiéndolos adicionar o modificar en cualquier tiempo.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2009)</small>
+
+a) Aprobar, adicionar, o modificar en su caso el contenido de Desarrollo del Instituto, evaluar el cumplimiento del mismo y darle el seguimiento correspondiente; dicho programa deberá revisarse y evaluarse al menos anualmente. Así mismo deberá aprobar los programas trienal y anual de trabajo pudiéndolos adicionar o modificar en cualquier tiempo.
 
 b) Revisar, autorizar y evaluar, en congruencia con el Plan Municipal de Desarrollo del Municipio y el presente reglamento, las políticas generales y los programas y acciones prioritarias que en beneficio de las mujeres deberá realizar el Instituto, así como darles el seguimiento correspondiente.
 
@@ -163,55 +171,79 @@ c) Fungir como Órgano de Asesoría y consulta de la Dirección General.
 
 d) Aprobar el proyecto de presupuesto de ingresos que contenga la solicitud del monto anual de transferencia que se presentará al R. Ayuntamiento para su aprobación, a propuesta de la Dirección General.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 8 DE MAYO DE 2009)</small>
+
 e) Revisar y en su caso aprobar, los estados financieros que en forma trimestral y anual presente la Dirección General.
 
 f) Aprobar anualmente las partidas del presupuesto de egresos del Instituto, a propuesta de la Dirección General.
 
-g) Aprobar el informe de Cuenta Pública que presentará el Instituto conforme a los lineamientos y disposiciones que establezcan la Secretaría de Finanzas y Tesorería Municipal y la Ley de la Contaduría Mayor de Hacienda.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2009)</small>
+
+g) Aprobar el informe de Cuenta Pública que presentará el Instituto conforme a los lineamientos y disposiciones que establezcan la Secretaría de Tesorería y Finanzas y la Ley del Órgano de Fiscalización Superior del Estado de Nuevo León.
 
 h) Aprobar y modificar en su caso, el organigrama general del Instituto a propuesta de la Dirección General, atendiendo a los principios de economía, profesionalismo, eficacia, calidad y productividad.
 
-i) Establecer la remuneración que percibirá la Directora General, así como los (as) participantes laborales del Instituto, tomando en cuenta las propuestas de la Dirección General.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2010)</small>
+
+i) Establecer la remuneración que percibirá la Directora General, así como los participantes laborales del Instituto, tomando en cuenta las propuestas de la Dirección General.
 
 j) Establecer lineamientos generales para el mejor funcionamiento del Instituto.
 
-k) Establece indicadores para medir el impacto social de los programas y acciones que realice el Instituto.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2009)</small>
 
-l) Revisar, y en su caso aprobar, en forma trimestral y anual de actividades que rinda la Dirección General.
+k) Revisar, evaluar, y en su caso aprobar, en forma trimestral y anual los resultados de los programas, acciones y actividades del Instituto.
+
+l) (DEROGADO, P.O. 8 DE MAYO DE 2009)
 
 m) Aprobar y modificar en su caso, el Manual de Organización del Instituto, en el cual se deberán contener la denominación, objetivo y funciones especificas de las distintas áreas administrativas y su estructura funcional, a propuesta de la Dirección General.
 
-n) Aprobar y modificar en su caso, los manuales de procedimiento y de servicios al público del Instituto, a propuesta de la Dirección General.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2009)</small>
+
+n) Aprobar y modificar en su caso, los Manuales de Políticas y Procedimientos, a propuesta de la Dirección General.
 
 o) Promover el mejoramiento técnico, administrativo y patrimonial del Instituto para el pleno cumplimiento de sus objetivos y acordar programas o acciones que deba realizar la Directora General.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2009)</small>
+
+p) Elaborar, aprobar o en su caso modificar el Reglamento Interior de Trabajo del Instituto.
 
 ###### Artículo 13.
 
 El Consejo Directivo del Instituto se integrará de la siguiente manera:
 
-I.- Una o un presidente, que será el Presidente Municipal.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2009)</small>
+
+I.- Un presidente, que será el Presidente Municipal.
 
 II. Una Secretaria Técnica, que será la Directora General del Instituto.
 
-III.- Hasta cinco consejeras nombradas por el R. Ayuntamiento a propuesta de la o el presidente Municipal, que serán distinguidas mujeres integrantes de organismos públicos o de la sociedad civil, que se hayan destacado por su labor social, política, cultural, educativa, académica, profesional o laboral, que sean representativas de la sociedad o avaladas por organizaciones civiles.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2009)</small>
 
-Las consejeras durarán en su cargo un período de un año, pudiendo ser reelegidas.
+III.- Hasta cinco consejeras con su suplente, aprobadas por el R. Ayuntamiento a propuesta del Presidente Municipal, que serán distinguidas mujeres integrantes de organismos públicos o de la sociedad civil, que se hayan destacado por su labor social, política, cultural, educativa, académica, profesional o laboral, que sean representativas de la sociedad o avaladas por organizaciones civiles. Las consejeras durarán en su cargo un periodo de un año, pudiendo ser reelegidas.
 
-IV.- Cinco Vocales, que podrán ser los titulares de las dependencias o unidades administrativas que se enuncian o que ocupen los siguientes cargos en el Gobierno Municipal: La Presidencia del Desarrollo Integral de la Familia (DIF) Municipal, La Secretaría de Promoción Social, Dirección de Fomento Económico, la Dirección General de Salud y el Presidente de la Comisión de Salud y DIF del R. Ayuntamiento. Las o los vocales durarán en su cargo el mismo período que el de los Consejeros.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2009)</small>
+
+IV.- Cinco Vocales, que podrán ser los titulares de las dependencias o unidades administrativas que se enuncian o que ocupen los siguientes cargos en el Gobierno Municipal: La Presidencia del Desarrollo Integral de la Familia (DIF Municipal), La Secretaría de Promoción Social, la Dirección de Fomento Económico, la Dirección General de Salud y el Presidente de la Comisión de Salud y DIF del R. Ayuntamiento. Los vocales durarán en su cargo el mismo período que el de las Consejeras.
 
 ###### Artículo 14.
 
 El funcionamiento del Consejo Directivo se sujetará a lo siguiente:
 
-I.- Todos los miembros del Consejo Directivo tendrán derechos a voz y voto en las sesiones del mismo.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2009)</small>
 
-II.- Sesionarán en forma ordinaria cada tres meses, cuando menos, de acuerdo a un calendario que será aprobado en la primera sesión ordinaria del año, pudiendo además celebrar las sesiones extraordinarias que se requiera, previa convocatoria expresa de la Secretaría Técnica del Consejo Directivo, de la o el Presidente Municipal en su carácter de Presidente del Consejo Directivo, o de la mayoría de los integrantes del propio consejo.
+I.- Todos los miembros del Consejo Directivo tendrán derecho a voz y voto en las sesiones del mismo.
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2009)</small>
+
+II.- Sesionarán en forma ordinaria cada tres meses, cuando menos, de acuerdo a un calendario que será aprobado en la primera sesión ordinaria del año, pudiendo además celebrar las sesiones extraordinarias que se requiera, previa convocatoria expresa de la Secretaría Técnica del Consejo Directivo, del Presidente Municipal en su carácter de Presidente del Consejo Directivo, o de la mayoría de los integrantes del propio consejo.
 
 III.- Las sesiones se celebrarán con la asistencia de la mayoría de sus integrantes en primera convocatoria, o con la asistencia de los presentes en segunda convocatoria. Sus resoluciones se tomarán por mayoría de votos de los presentes, teniendo el Presidente del Consejo Directivo el voto de calidad en caso de empate.
 
 IV.- De cada sesión se formulará un acta que contenga los pormenores de los acuerdos tomados y que deberá ser firmada por los asistentes o al menos por quien la haya presidido y por la Secretaría Técnica del Consejo Directivo quién será responsable de la formulación y custodia de las actas.
 
-V.- La ausencia de la o el Presidente Municipal será suplida por el titular de la Presidencia del Desarrollo Integral de la Familia (DIF Municipal), o en su defecto, por el Secretario de Promoción Social.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2009)</small>
+
+V.- La ausencia del Presidente Municipal será suplida por el titular de la Presidencia del Desarrollo Integral de la Familia (DIF Municipal), o en su defecto, por el Secretario de Promoción Social.
 
 ###### Artículo 15.
 
@@ -225,25 +257,31 @@ La Dirección General tiene a su cargo la representación y la Dirección del In
 
 La Dirección General, en el ejercicio de sus atribuciones y responsabilidades, se auxiliará de las áreas administrativas que sean creadas para el mejor cumplimiento de sus objetivos.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 8 DE MAYO DE 2009)</small>
+
 ###### Artículo 17.
 
 La Dirección General estará a cargo de una mujer que será la titular de la misma y será nombrada libremente por el Presidente Municipal.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2009)</small>
+
 ###### Artículo 18.
 
-La Directora General, en el ámbito Administrativo, acordará directamente con la o el Presidente Municipal y estará a cargo de la ejecución de los programas y acciones del Instituto y de la Coordinación de los programas y acciones que se realicen conjuntamente con otras dependencias del Gobierno del cualquier nivel (Federal, Estatal y Municipal).
+La Directora General, en el ámbito Administrativo, acordará directamente con el Presidente Municipal y estará a cargo de la ejecución de los programas y acciones del Instituto y de la Coordinación de los programas y acciones que se realicen conjuntamente con otras dependencias del Gobierno del (sic) cualquier nivel (Federal, Estatal y Municipal).
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2009)</small>
 
 ###### Artículo 19.
 
-El nombramiento de la Directora General, que haga la o el Presidente Municipal, se asignará a una mujer con:
+El nombramiento de la Directora General, que realice el Presidente Municipal, se asignará a una mujer con los siguientes requisitos:
 
-Ciudadana (sic) mexicana en pleno ejercicio de sus derechos.
+- Ser ciudadana mexicana en pleno ejercicio de sus derechos.
 
-Radicada en el Municipio de Santa Catarina por lo menos un año antes de asumir el cargo.
+- Radicada en el Municipio de Santa Catarina por lo menos un año antes de asumir el cargo.
 
-Que goce de buena reputación y no haya sido condenada por delito doloso que amerite pena corporal por más de un año de prisión, ni delitos de los considerados graves.
+- Que goce de buena reputación y no haya sido condenada por delito doloso que amerite pena corporal por más de un año de prisión, ni delitos de los considerados graves.
 
-Con destacada experiencia de trabajo preferentemente en la labor social o áreas de humanidades en beneficio del desarrollo de las mujeres y/o de la familia.
+- Con destacada experiencia de trabajo preferentemente en la labor social o áreas de humanidades en beneficio del desarrollo de las mujeres y/o de la familia.
 
 ###### Artículo 20.
 
@@ -265,7 +303,9 @@ VI.- Nombrar y remover al personal del Instituto y fijarle la remuneración corr
 
 VII.- Celebrar, en representación del Instituto, los convenios y contratos con personas físicas o morales, sean públicas o privadas, así como suscribir documentos que se manifiesten por sí mismos.
 
-VIII.- Elaborar el proyecto del Plan Municipal de Desarrollo del Instituto y de los programas Trienal y Anual del Trabajo del Instituto, y someterlos a la aprobación del Consejo Directivo.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2009)</small>
+
+VIII.- Elaborar el proyecto del Plan Municipal de Desarrollo del Instituto y de los programas Trienal y Anual de Trabajo del mismo.
 
 IX.- Establecer los sistemas de operación y control necesarios para alcanzar las metas u objetivos en la implementación de los programas específicos.
 
@@ -279,29 +319,43 @@ XII.- Expedir certificaciones sobre los documentos oficiales del Instituto.
 
 XIII.- Expedir acuerdos circulares y disposiciones administrativas que regulen el funcionamiento de las áreas Administrativas del Instituto.
 
-XIV.- Así como también las demás que le confiera el Consejo Directivo para alcanzar los objetivos del Instituto.
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2009)</small>
+
+XIV.- Brindar capacitación a través de cursos, conferencias y talleres a los trabajadores especialmente mujeres, de las empresas establecidas en este Municipio, para promover su desarrollo humano.
+
+XV.- Así como también las demás que le confiera el Consejo Directivo para alcanzar los objetivos del Instituto.
 
 ### CAPÍTULO SEXTO. DEL COMISARIO
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2009)</small>
+
 ###### Artículo 21.
 
-El órgano de vigilancia del Instituto será una o un Comisario que será designado por el Ayuntamiento a propuesta de la o el Presidente Municipal, o uno de sus subordinados directos. La o el Comisario sin ser miembro del mismo Consejo, asistirá a las sesiones ordinarias y extraordinarias del Consejo Directivo con voz pero sin voto.
+El órgano de vigilancia del Instituto será un Comisario que será designado por el Ayuntamiento a propuesta del Presidente Municipal dicha designación deberá recaer preferentemente en el titular de la Contraloría Interna Municipal o uno de sus subordinados directos. El Comisario sin ser miembro del mismo Consejo, asistirá a las sesiones ordinarias y extraordinarias del Consejo Directivo con voz pero sin voto.
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2009)</small>
 
 ###### Artículo 22.
 
-Para el cumplimiento de las funciones del Comisario, la Dirección General estará obligada a proporcionarle oportunamente la información y documentación que le sea requerida. La o el comisario, sin ser miembros del Consejo, asistirá a las sesiones ordinarias y extraordinarias con voz pero sin voto.
+Para el cumplimiento de las funciones del Comisario, la Dirección General estará obligada a proporcionarle oportunamente la información y documentación que le sea requerida.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2009)</small>
 
 ###### Artículo 23.
 
-La o el Comisario informará anualmente al Consejo Directivo, a la o el Presidente Municipal y al R. Ayuntamiento sobre el resultado del ejercicio de sus facultades de vigilancia, pero presentará informe cuando le sea requerido por el Presidente Municipal o por el Ayuntamiento, sobre la situación financiera, sobre la aplicación de los recursos o sobre el estado de la Administración del Instituto.
+El Comisario informará anualmente al Consejo Directivo, al Presidente Municipal y al R. Ayuntamiento sobre el resultado del ejercicio de sus facultades de vigilancia, pero presentará informe cuando le sea requerido por el Presidente Municipal o por el Ayuntamiento, sobre la situación financiera, sobre la aplicación de los recursos o sobre el estado de la Administración del Instituto.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2009)</small>
 
 ###### Artículo 24.
 
-La o el Comisario tendrá acceso a todas las áreas administrativas y operaciones del Instituto y deberá mantener independencia, objetividad e imparcialidad en los informes que emita.
+El Comisario tendrá acceso a todas las áreas administrativas y operaciones del Instituto y deberá mantener independencia, objetividad e imparcialidad en los informes que emita.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MAYO DE 2009)</small>
 
 ###### Artículo 25.
 
-La o el Comisario tendrá las siguientes atribuciones y responsabilidades:
+El Comisario tendrá las siguientes atribuciones y responsabilidades:
 
 I. Vigilar que los gastos, cuentas y administración de los recursos del Instituto apliquen adecuadamente para el cumplimiento de sus objetivos.
 
@@ -321,6 +375,8 @@ VIII. Recomendar a la Dirección General, las medidas correctivas que sean conve
 
 IX. Así como otras atribuciones que le otorguen las leyes, reglamentos y disposiciones que le sean inherentes al ejercicio de su competencia.
 
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 8 DE MAYO DE 2009)</small>
+
 ###### Artículo 26.
 
 El Informe anual que rinde el Comisario deberá contener cuando menos la siguiente información:
@@ -336,6 +392,8 @@ IV.- Cumplimiento de los acuerdos, convenios y contratos suscritos por el Instit
 V.- Contenido y suficiencia del Informe anual presentado por la Dirección General; señalando en su caso las posibles omisiones.
 
 VI.- Formulación de las recomendaciones que sean procedentes.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 8 DE MAYO DE 2009)</small>
 
 ###### Artículo 27.
 
@@ -367,9 +425,11 @@ En la disposición sobre sus bienes muebles e inmuebles, el Instituto se regirá
 
 En el presupuesto de egresos del municipio, que anualmente apruebe el R. Ayuntamiento, se fijará el monto anual que como transferencia corresponderá al Instituto, sin perjuicio que le sean asignados recursos adicionales.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2009)</small>
+
 ###### Artículo 31.
 
-La Secretaría de Finanzas y Tesorería realizará ministraciones iguales mensuales.
+La Secretaría de Tesorería y Finanzas realizará ministraciones iguales mensuales, que serán depositadas en la cuenta bancaria del Instituto, los primeros días de cada mes.
 
 ###### Artículo 32.
 
@@ -401,13 +461,15 @@ Las relaciones Laborales entre el Instituto y sus Trabajadores se regirán por l
 
 ### CAPÍTULO NOVENO. PREVENCIONES GENERALES
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2009)</small>
+
 ###### Artículo 38.
 
-Los cargos de Consejeras y Consejeros son honoríficos; por lo que no recibirán remuneración, compensación o gratificación alguna por el desempeño de sus funciones.
+Los cargos de Consejeros son honoríficos; por lo que no recibirán remuneración, compensación o gratificación alguna por el desempeño de sus funciones.
 
 Los servidores públicos del Gobierno Municipal integrantes del Consejo Directivo que funjan como vocales, desempeñarán su función en razón de la inherencia de su cargo, por lo que no recibirán remuneración adicional a la que perciban del Municipio.
 
-La o el Comisario desempeñará su función en forma honorífica; si el nombramiento que haga el Ayuntamiento recae en un servidor público del Municipio, se considerará su labor como parte de las obligaciones como servidor público de éste y no recibirá remuneración adicional a la que percibe del mismo.
+El Comisario desempeñará su función en forma honorífica; si el nombramiento que haga el Ayuntamiento recae en un servidor público del Municipio, se considerará su labor como parte de las obligaciones como servidor público de éste y no recibirá remuneración adicional a la que percibe del mismo.
 
 ###### Artículo 39.
 
@@ -418,6 +480,8 @@ Los Servidores Públicos del Instituto tendrán las obligaciones e incurrirán e
 ###### Artículo 40.
 
 En la medida que se modifiquen las condiciones sociales y económicas del Municipio, en virtud de su crecimiento demográfico, cambio social, modificación de sus actividades productivas y demás aspectos de la vida comunitaria, el presente reglamento podrá ser modificado o actualizado, tomando en cuenta la opinión de la propia comunidad en forma directa o a través de organizaciones sociales representativas, así como investigaciones y diagnósticos oficiales y/o del mismo Instituto.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 8 DE MAYO DE 2009)</small>
 
 ###### Artículo 41.
 
@@ -454,3 +518,11 @@ Presidente Municipal
 LIC. ALBERTO NAVARRO RODRÍGUEZ
 
 Secretario del Ayuntamiento
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE MAYO DE 2009.
+
+PRIMERO.- Las disposiciones de reformas por adición y modificación al Reglamento del Instituto Municipal de la Mujer de Santa Catarina, Nuevo León, publicado el (sic) Periódico Oficial de fecha 16 días del mes de Abril del año 2007 dos mil siete, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Una vez en vigencia el presente reglamento, publíquese en la Gaceta Municipal para su mejor difusión y en el portal electrónico de Internet del Municipio, para el cumplimiento en lo establecido en el artículo 10 fracción I de la Ley de Acceso a la Información Pública del Estado de Nuevo León.
