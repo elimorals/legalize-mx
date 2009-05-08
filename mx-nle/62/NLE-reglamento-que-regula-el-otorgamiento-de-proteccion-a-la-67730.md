@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-que-regula-el-otorgamiento-de-proteccion-a-la-67730"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-21"
-last_updated: "2009-03-21"
+last_updated: "2009-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67730&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO QUE REGULA EL OTORGAMIENTO DE PROTECCION A LA INTEGRIDAD FISICA DE LOS SERVIDORES PUBLICOS DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 21 de marzo de 2009.
 
@@ -91,9 +91,11 @@ d) Jueces Mixtos; y
 
 e) Secretarios.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2009)</small>
+
 ###### Artículo 5.
 
-La protección comprenderá también a su cónyuge y su familia en la línea ascendente hasta en primer grado y la línea descendente hasta en un segundo grado, de acuerdo a la naturaleza del riesgo, de la amenaza recibida o bien por las funciones que desempeña, en los términos del presente Reglamento.
+De acuerdo a la naturaleza del riesgo, de la amenaza recibida o bien por las funciones que desempeñe o hubiere desempeñado el servidor o exservidor público, también podrán ser otorgadas las medidas de protección y seguridad al cónyuge del servidor público y demás familiares en línea ascendente hasta en primer grado y descendentes hasta en un segundo grado. Esta protección deberá ser solicitada por el servidor o exservidor público al Comité, de manera individual para cada familiar, debiendo acreditar alguna de dichas situaciones en la solicitud.
 
 ### CAPÍTULO TERCERO. DEL OTORGAMIENTO DE PROTECCIÓN
 
@@ -101,9 +103,13 @@ La protección comprenderá también a su cónyuge y su familia en la línea asc
 
 El Comité de Escolta Pública será el encargado, en todo caso, de determinar el otorgamiento de protección a las personas que les corresponde, de conformidad con lo dispuesto por la Ley de Seguridad Pública para el Estado de Nuevo León y el presente Reglamento y, en consecuencia, se encargará de girar las instrucciones pertinentes a la Procuraduría General de Justicia o a la Secretaría de Seguridad Pública, a efecto de que presten el servicio de escolta pública correspondiente.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2009)</small>
+
 ###### Artículo 7.
 
-La protección de la integridad física del Gobernador del Estado, del Secretario General de Gobierno, del Secretario de Seguridad Pública, del Procurador General de Justicia, del Comisario General de la Agencia Estatal de Policía, del Comisario General de la Agencia de Administración Penitenciaria, del Subprocurador del Ministerio Público, del Director General de Averiguaciones Previas, del Director General de la Agencia Estatal de Investigaciones, así como del Presidente del Tribunal Superior de Justicia del Estado, así como la correspondiente a su cónyuge y su familia en la línea ascendente hasta en primer grado y la línea descendente hasta en un segundo grado, se otorgará durante el ejercicio de su encargo y al menos durante los tres años siguientes a la conclusión del mismo, sin necesidad de solicitud alguna.
+La protección de la integridad física del Gobernador del Estado, del Secretario General de Gobierno, del Secretario de Seguridad Pública, del Procurador General de Justicia, del Comisario General de la Agencia Estatal de Policía, del Comisario General de la Agencia de Administración Penitenciaria, del Subprocurador del Ministerio Público, del Director General de Averiguaciones Previas, del Director General de la Agencia Estatal de Investigaciones, así como del Presidente del Tribunal Superior de Justicia del Estado, se otorgará durante el ejercicio de su encargo y al menos durante los tres años siguientes a la conclusión del mismo, sin necesidad de solicitud alguna.
+
+También podrá otorgarse protección al cónyuge y familiares de los servidores públicos señalados en el presente artículo, de acuerdo con lo dispuesto por el artículo 5 de este Reglamento.
 
 ###### Artículo 8.
 
@@ -113,7 +119,9 @@ El servicio de escolta pública podrá prorrogarse, según la naturaleza del rie
 
 Los Magistrados de las Salas Colegiadas y Unitarias en materia Penal, Jueces de lo Penal y Jueces Mixtos, Agentes del Ministerio Público y todo aquel servidor público que realice actividades relacionadas con la seguridad pública que, en razón de su empleo, cargo o comisión, asuman riesgos en el desempeño de sus atribuciones, que por alguna circunstancia derivada de sus funciones requieran de la protección a su integridad física, tendrán derecho a solicitar que se les otorgue protección durante el ejercicio de su encargo y durante los tres años siguientes a la conclusión del mismo. La solicitud podrá realizarse directamente por el interesado o bien a través de su superior inmediato. Esta deberá presentarse por escrito al Comité de Escolta Pública.
 
-La protección comprenderá también a su cónyuge y su familia en la línea ascendente hasta en primer grado y la línea descendente hasta en un segundo grado, de acuerdo a la naturaleza del riesgo, de la amenaza recibida o bien por las funciones que desempeña, en los términos del presente Reglamento.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2009)</small>
+
+También podrá otorgarse protección al cónyuge y familiares de los servidores públicos señalados en el presente artículo, de acuerdo con lo dispuesto por el artículo 5 de este Reglamento.
 
 ###### Artículo 10.
 
@@ -153,13 +161,15 @@ V. Por utilizar de manera ilegal los escoltas o los bienes que le hubieren sido 
 
 El Servicio de Escolta Pública será proporcionado por la Secretaría de Seguridad Pública y la Procuraduría General de Justicia a los servidores y exservidores públicos estatales y sus familias.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2009)</small>
+
 ###### Artículo 16.
 
-Los servidores y los exservidores públicos tendrán derecho a un mínimo de 4 escoltas por turno; dos vehículos, uno de ellos blindado.
+Los servidores y los exservidores públicos tendrán derecho a que se les brinden los elementos para su adecuada protección. El Comité determinará el número mínimo de escoltas que resulte indispensable para este efecto.
 
-Cada cónyuge, descendiente mayor de 15 años de edad y ascendientes, tendrán derecho a dos escoltas por turno y un vehículo.
+Igualmente el Comité determinará los elementos para la protección del cónyuge y familiares respecto de los cuales se hubiere acreditado la necesidad de otorgar escolta pública, atendiendo a las circunstancias particulares de cada caso, en los términos de lo dispuesto por el artículo 5 del presente Reglamento.
 
-Los vehículos blindados contarán con un blindaje al menos de nivel 4.
+Cuando el Comité determine la necesidad de otorgar vehículos blindados, éstos contarán con un blindaje al menos de nivel 4.
 
 ###### Artículo 17.
 
@@ -342,3 +352,9 @@ RUBÉN EDUARDO MARTÍNEZ DONDÉ
 EL C. OFICIAL MAYOR DE GOBIERNO
 
 ALFREDO GERARDO GARZA DE LA GARZA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE MAYO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
