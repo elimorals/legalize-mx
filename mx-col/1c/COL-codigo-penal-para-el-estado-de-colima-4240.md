@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2009-04-25"
+last_updated: "2009-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO PENAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -2933,11 +2933,11 @@ IV.- Reciba el pago total o parcial de un adeudo o interés, y no expida la cons
 
 Este delito se sancionará aun en el caso de falta de pago total o parcial del precio de la cosa, el derecho transmitido, de la obligación alimentaria o en su caso de la expedición de la constancia o recibo correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 234.
 
-Se considera fraude y se impondrá pena de uno a nueve años de prisión y multa hasta por 100 unidades, para el caso de las fracciones I y II, y de tres a nueve años de prisión y multa hasta por la misma cantidad en el caso de las fracciones III, IV, V y VI, en los siguientes casos:
+Se considera fraude y se impondrá pena de uno a nueve años de prisión y multa hasta por 100 unidades, para el caso de las fracciones I y II, y de tres a nueve años de prisión y multa hasta por la misma cantidad en el caso de las fracciones III, IV, V, VI y VII en los siguientes casos:
 
 > <small>(REFORMADA, P.O. 23 DE ABRIL DE 2005)</small>
 
@@ -2959,15 +2959,21 @@ Igual pena se impondrá a quien teniendo el consentimiento de su titular o de qu
 
 IV.- Uso de tarjetas, títulos, documentos o instrumentos para el pago electrónico, falsos. Al que a sabiendas de que una tarjeta, título documento o instrumento para el pago electrónico de bienes y servicios o para la disposición de efectivo, haga uso de él y obtenga un lucro indebido en perjuicio del titular de la tarjeta, título, documento o instrumento indubitable.
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2005)</small>
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2009)</small>
 
-V.- Acceso indebido a los equipos y sistemas de computo o electromagnéticos. Al que con el ánimo de lucro y en perjuicio del titular de una tarjeta, documento o instrumentos para el pago de bienes y servicios o para disposición en efectivo, acceda independientemente a los equipos y servicios de cómputo o electromagnéticos de las instituciones emisoras de los mismos, y
+V.- Acceso indebido a los equipos y sistemas de computo o electromagnéticos. Al que con el ánimo de lucro y en perjuicio del titular de una tarjeta, documento o instrumentos para el pago de bienes y servicios o para disposición en efectivo, acceda independientemente a los equipos y servicios de cómputo o electromagnéticos de las instituciones emisoras de los mismos.
 
 > <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2003)</small>
 
 VI.- Uso indebido de información confidencial o reservada de tarjetas, títulos, documentos o instrumentos para el pago de bienes y servicios o para disposición en efectivo. A quien obtenga un lucro en perjuicio del titular de una tarjeta, título, documento o instrumento para el pago electrónico de bienes y servicios o para la disposición de efectivo, mediante la utilización de información confidencial o reservada de la institución o persona que legalmente esté facultada para emitir los mismos.
 
 Si el sujeto activo es empleado o dependiente del ofendido, la pena corporal aumentará de cuatro años seis meses, la mínima, y de trece años seis meses la máxima.
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2009)</small>
+
+VII.- Al que por algún uso del medio informático, telemático o electrónico alcance un lucro indebido para sÍ o para otro valiéndose de alguna manipulación informática, instrucciones de código, predicción, intercepción de datos de envío, reinyecte datos, use la red de redes montando sitios espejos o de trampa captando información crucial para el empleo no autorizado de datos, suplante identidades, modifique indirectamente mediante programas automatizados, imagen, correo o vulnerabilidad del sistema operativo cualquier archivo principal, secundario y terciario del sistema operativo que afecte la confiabilidad, y variación de la navegación en la red o use artificio semejante para obtener lucro indebido.
+
+En el supuesto que el activo tenga licenciatura, ingeniería o cualquier otro grado académico reconocido en el rubro de la informática, telemática o sus afines, la pena se aumentará hasta en cuatro años más, y en caso de reincidencia hasta cinco años más de prisión.
 
 ### CAPITULO V. Concurso de Delitos.................................... 325
 
@@ -3516,3 +3522,7 @@ P.O. 31 DE AGOSTO DE 2008.
 P.O. 25 DE ABRIL DE 2009.
 
 PRIMERO.- El presente Decreto entrará en vigor a (sic) día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 9 DE MAYO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
