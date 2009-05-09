@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-ministerio-publico-para-el-estado-de-colima-11
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-04"
-last_updated: "1997-10-04"
+last_updated: "2009-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2009.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 4 de octubre de 1997.
 
@@ -386,6 +386,14 @@ XV.- Turnar al Consejo Tutelar para Menores del Estado de Colima, a los infracto
 XVI.- Vigilar por la exacta observancia y aplicación de las leyes el interés general y procurar justicia en todos los ámbitos de la sociedad; y
 
 XVII.- Las demás consignadas en la Constitución Política del Estado y Leyes que de ella emanen.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2009)</small>
+
+ARTICULO 32 BIS.- El Ministerio Público y sus auxiliares garantizarán con máxima diligencia, la dignidad e integridad de la víctima o del ofendido, sin propiciar o inducir discriminación alguna.
+
+Así mismo, orientará y explicará suficientemente a la victima u ofendido de los trámites, procedimientos y posibles consecuencias que puedan presentarse o que tengan que atenderse con motivo o como resultado de la integración de la indagatoria en la que estuvieren interviniendo.
+
+Los Agentes del Ministerio Público y sus auxiliares a quienes corresponda la atención e investigación de delitos de los que se atente o ponga en riesgo la dignidad de las mujeres, actuarán bajo perspectiva de género, evitando prejuicios o estereotipos sobre las mismas
 
 ###### ARTICULO 33.
 
@@ -1190,3 +1198,9 @@ C. ROBERTO LARIOS OROZCO, DIPUTADO PRESIDENTE.- Rúbrica.- MVZ. LUIS GAITAN CABR
 Por lo tanto mando se imprima, publique, circule y observe.
 
 Dado en Palacio de Gobierno, a los treinta días del mes de septiembre de mil novecientos noventa y siete.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. RAMON PEREZ DIAZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE MAYO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
