@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2008-07-19"
+last_updated: "2009-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2009.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -1649,7 +1649,9 @@ VI.- Padecer uno de los cónyuges cualquier enfermedad incurable, que sea ademá
 
 VII.- Padecer enfermedad mental incurable;
 
-VIII.- La separación de la casa conyugal por más de seis meses sin causa justificada;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2009)</small>
+
+VIII.- La separación de la casa conyugal por más de tres meses sin causa justificada;
 
 IX.- La separación del hogar conyugal originada por una causa que sea bastante para pedir el divorcio, si se prolonga por más de un año sin que el cónyuge que se separó entable la demanda de divorcio;
 
@@ -10432,3 +10434,7 @@ P.O. 3 DE MAYO DE 2008.
 P.O. 19 DE JULIO DE 2008.
 
 ÚNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 9 DE MAYO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
