@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48144"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2009-03-07"
+last_updated: "2009-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48144&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ALVAREZ -- ANTES LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ALVAREZ -- EN EL ESTADO DE COLIMA
 
-LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLlMA Y VILLA DE ALVAREZ EN EL ESTADO DE COLlMA
+LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ALVAREZ EN EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2009.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre del 2005.
 
@@ -45,7 +45,7 @@ D E C R E T O No. 313
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLlMA Y VILLA DE ÁLVAREZ EN EL ESTADO DE COLlMA.
+LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ÁLVAREZ EN EL ESTADO DE COLIMA.
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
@@ -137,11 +137,11 @@ Los usuarios de los servicios de agua potable en "servicio medido", alcantarilla
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-Los usuarios a que se refiere este artículo cubrirán adicionalmente, el importe del lVA de conformidad con la Ley del Impuesto al Valor Agregado.
+Los usuarios a que se refiere este artículo cubrirán adicionalmente, el importe del IVA de conformidad con la Ley del Impuesto al Valor Agregado.
 
 > <small>(ADICIONADO, P.O. 1 DE MARZO DE 2008)</small>
 
-En el caso de los usuarios que consuman hasta diez metros cúbicos mensuales de agua, pagarán el 50%de la cuota mínima del concepto de saneamiento.
+En el caso de los usuarios que consuman hasta diez metros cúbicos mensuales de agua, pagarán el 50% de la cuota mínima del concepto de saneamiento.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -193,7 +193,7 @@ En el Municipio de Colima, los usuarios de los servicios de agua potable, alcant
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-l.- Popular 1.- Comprende las siguientes colonias: Albarrada, Ampliación La Guadalupe, Antorchista, Arboledas de la Hacienda, Burocrática, Camino Real I y II, Cuauhtémoc, De los Trabajadores, El Paraíso, El Pedregal, El Porvenir, Francisco I. Madero, Francisco Villa I, II y III, Gregorio Torres Quintero, Ignacio Zaragoza, Insurgentes, Jardines de la Estancia, Jardines del Sol, Josefa Ortiz de Domínguez, Juana de Asbaje, La Guadalupe, La Virgencita Norte, La Virgencita, Las Torres, Lázaro Cárdenas, Los Ángeles, Los Pinos, Luis Donaldo Colosio, Mirador de la Cumbre I, II y III, Gustavo A. Vazquez Montes, Moctezuma, Nuevo Paraíso, Pablo Silva García, Interior Patios del Ferrocarril, Revolución, Rotaria, San José Norte, San José Sur, San Rafael, Santa Amalia, Siglo XXI, Vagones FF CC, Valle Paraíso, Vecindad Aldama, Vicente Guerrero, Miguel Hidalgo I y II, así como las Unidades Habitacionales: Reforma, Lucio Uribe, Matamoros, Lerdo de Tejada, Ignacio Allende, El Salatón, Independencia, Emilio Carranza, Niños Héroes, Balbino Dávalos, Factor Mexicano y todas las comunidades rurales.
+I.- Popular 1.- Comprende las siguientes colonias: Albarrada, Ampliación La Guadalupe, Antorchista, Arboledas de la Hacienda, Burocrática, Camino Real I y II, Cuauhtémoc, De los Trabajadores, El Paraíso, El Pedregal, El Porvenir, Francisco I. Madero, Francisco Villa I, II y III, Gregorio Torres Quintero, Ignacio Zaragoza, Insurgentes, Jardines de la Estancia, Jardines del Sol, Josefa Ortiz de Domínguez, Juana de Asbaje, La Guadalupe, La Virgencita Norte, La Virgencita, Las Torres, Lázaro Cárdenas, Los Ángeles, Los Pinos, Luis Donaldo Colosio, Mirador de la Cumbre I, II y III, Gustavo A. Vázquez Montes, Moctezuma, Nuevo Paraíso, Pablo Silva García, Interior Patios del Ferrocarril, Revolución, Rotaria, San José Norte, San José Sur, San Rafael, Santa Amalia, Siglo XXI, Vagones FF CC, Valle Paraíso, Vecindad Aldama, Vicente Guerrero, Miguel Hidalgo I y II, así como las Unidades Habitacionales: Reforma, Lucio Uribe, Matamoros, Lerdo de Tejada, Ignacio Allende, El Salatón, Independencia, Emilio Carranza, Niños Héroes, Balbino Dávalos, Factor Mexicano y todas las comunidades rurales.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -313,7 +313,7 @@ AGUA POTABLE ALCANTARILLADO SANEAMIENTO
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
-II.- Medio.- Comprende la zona delimitada por las siguientes calles: Dr. Eduardo Álvarez, De la Cruz, Allende hasta la esquina con Guillermo Prieto, Nicolás Bravo, Zaragoza hasta la esquina con Av. Benito Juárez, Enrique Corona Morfín hasta la esquina con Fco. Javier Mina eje poniente, Galeana, Cuauhtémoc, se incluyen las Avenidas: Benito Juárez, Enrique Corona Morfín, María Ahumada de Gómez, Tecnológico, Blv. Rodolfo Chávez Carrillo, Avenidas Gral. Manuel Álvarez y J. Merced Cabrera y las Colonias Alfredo V. Bonfil II, Almendros I, II y III, Alta Villa, Azaleas, Cajita del Agua, Campestre I y II,Cartas de la Madrid Virgen, Colinas del Carmen, Condominios los Arcos, Condominios Diamante, El Centenario, El Cortijo, Floresta, Fraccionamiento San Miguel, Fraccionamiento Santa Cristina, Francisco Hernández Espinoza, Golondrinas, Gral. Manuel Álvarez, Gral. Manuel M. Diéguez, Hacienda del Centenario, Jardines de Bugambilias, Jardines de la Villa, Jardines del Llano, Jardines del Centenario, La Joya I y II, Linda Vista I, II y III, Liberación II, Loma Bonita, Loma Hermosa, Lomas de las Flores, Loma de la Higuera, Lomas del Centenario, Prados de la Villa, Primaveras, Ramón Serrano García, Real Bugambilias, Real del Centenario, Residencial Tabachines, Rinconada de la Hacienda, Rinconada del Centenario, San Agustín, San Isidro, Santa Cristina, Santa Teresa, Sección FOVISSSTE de Villa Izcalli, Senderos del Carmen, Senderos de Rancho Blanco, Villa de Alba, Villa Real, Villa San José, Villacarto, Villas Adriana, Villas Bugambilias, Villas Colimán, Villas de Alameda, Villas del Centro, Villas de la Tuna, Villas de Oro, Villas del Río I, II y III, Villa Flores I y II, Villas Providencia y Villas Rancho Blanco, (se exceptúan las avenidas: Gral. Manuel Álvarez, J. Merced Cabrera, hasta la esquina con Veracruz); Lomas de la Herradura, Lomas de La Villa, Villas del Palmar, Fraccionamiento Colinas del Sol, La Frontera, Fraccionamiento Bugambilias, Fraccionamiento Alfonso Rolón, Fraccionamiento Cruz de Cómala, Fraccionamiento El Ángel, Fraccionamiento Puerta de Hierro, Fraccionamiento Rancho Santo, Villas Diamante, Colinas del Rey, Vista Bugambilias, Villas del Cañaveral, La Reserva, Buena Vista, Higueras del Espinal, Hacienda el Cortijo, Hacienda del Nogal, Fraccionamiento Jacaranda, Los Olivos, Fraccionamiento Puerta de Rolón y Fraccionamiento Los Tulipanes.
+II.- Medio.- Comprende la zona delimitada por las siguientes calles: Dr. Eduardo Álvarez, De la Cruz, Allende hasta la esquina con Guillermo Prieto, Nicolás Bravo, Zaragoza hasta la esquina con Av. Benito Juárez, Enrique Corona Morfín hasta la esquina con Fco. Javier Mina eje poniente, Galeana, Cuauhtémoc, se incluyen las Avenidas: Benito Juárez, Enrique Corona Morfín, María Ahumada de Gómez, Tecnológico, Blv. Rodolfo Chávez Carrillo, Avenidas Gral. Manuel Álvarez y J. Merced Cabrera y las Colonias Alfredo V. Bonfil II, Almendros I, II y III, Alta Villa, Azaleas, Cajita del Agua, Campestre I y II, Cartas de la Madrid Virgen, Colinas del Carmen, Condominios los Arcos, Condominios Diamante, El Centenario, El Cortijo, Floresta, Fraccionamiento San Miguel, Fraccionamiento Santa Cristina, Francisco Hernández Espinoza, Golondrinas, Gral. Manuel Álvarez, Gral. Manuel M. Diéguez, Hacienda del Centenario, Jardines de Bugambilias, Jardines de la Villa, Jardines del Llano, Jardines del Centenario, La Joya I y II, Linda Vista I, II y III, Liberación II, Loma Bonita, Loma Hermosa, Lomas de las Flores, Loma de la Higuera, Lomas del Centenario, Prados de la Villa, Primaveras, Ramón Serrano García, Real Bugambilias, Real del Centenario, Residencial Tabachines, Rinconada de la Hacienda, Rinconada del Centenario, San Agustín, San Isidro, Santa Cristina, Santa Teresa, Sección FOVISSSTE de Villa Izcalli, Senderos del Carmen, Senderos de Rancho Blanco, Villa de Alba, Villa Real, Villa San José, Villacarto, Villas Adriana, Villas Bugambilias, Villas Colimán, Villas de Alameda, Villas del Centro, Villas de la Tuna, Villas de Oro, Villas del Río I, II y III, Villa Flores I y II, Villas Providencia y Villas Rancho Blanco, (se exceptúan las avenidas: Gral. Manuel Álvarez, J. Merced Cabrera, hasta la esquina con Veracruz); Lomas de la Herradura, Lomas de La Villa, Villas del Palmar, Fraccionamiento Colinas del Sol, La Frontera, Fraccionamiento Bugambilias, Fraccionamiento Alfonso Rolón, Fraccionamiento Cruz de Cómala, Fraccionamiento El Ángel, Fraccionamiento Puerta de Hierro, Fraccionamiento Rancho Santo, Villas Diamante, Colinas del Rey, Vista Bugambilias, Villas del Cañaveral, La Reserva, Buena Vista, Higueras del Espinal, Hacienda el Cortijo, Hacienda del Nogal, Fraccionamiento Jacaranda, Los Olivos, Fraccionamiento Puerta de Rolón y Fraccionamiento Los Tulipanes.
 
 Los usuarios cuyo servicio se ubique en esta fracción pagarán la siguiente cuota fija mensual:
 
@@ -461,11 +461,11 @@ A los predios que cuenten con fuente de abastecimiento de agua propia, "LA CIAPA
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-En caso de no contar con medición de descarga, deberán pagar por el servicio de alcantarillado, el equivalente al 60 por ciento del volumen mensual correspondiente a la ultima declaración del pago relativo a los derechos por el uso o aprovechamiento de aguas nacionales que se notifican a la Comisión Nacional del Agua en cumplimiento a la ley Federal de Derechos, de acuerdo a las tarifas de agua que corresponda según la clasificación del uso, y un tanto igual de lo que resulte para saneamiento, de acuerdo con la tarifa que corresponda, debiendo observar además las siguientes disposiciones:
+En caso de no contar con medición de descarga, deberán pagar por el servicio de alcantarillado, el equivalente al 60 por ciento del volumen mensual correspondiente a la última declaración del pago relativo a los derechos por el uso o aprovechamiento de aguas nacionales que se notifican a la Comisión Nacional del Agua en cumplimiento a la ley Federal de Derechos, de acuerdo a las tarifas de agua que corresponda según la clasificación del uso, y un tanto igual de lo que resulte para saneamiento, de acuerdo con la tarifa que corresponda, debiendo observar además las siguientes disposiciones:
 
 I.- La calidad del agua que se descargue al sistema de alcantarillado o drenaje, deberá cumplir con lo establecido en las normas y reglamentos vigentes referentes a los límites máximos permisibles para descargas en los sistemas de alcantarillado, así como las condiciones particulares de descargas que se tengan;
 
-II.- En el caso de descargas que contengan desechos tales como Iodos, ácidos, grasas, substancias químicas y de cualquier otra clase que puedan perjudicar las instalaciones del servicio, pagarán además de la tarifa ordinaria, la cuota especial prevista en el presente artículo; para compensar los costos determinados por "LA CIAPACOV", por kilogramo de los excedentes de los contaminantes, las cuales se determinarán en función de las descargas por Demanda Bioquímica de Oxígeno (DB05), Demanda Química de Oxígeno (DQO), pH (Potencial Hidrógeno), Grasas y Aceites y Sólidas (sic) Suspendidos Totales; en función del tiempo que excedan sus límites de descarga al sistema de drenaje, de conformidad con la siguiente tarifa:
+II.- En el caso de descargas que contengan desechos tales como Iodos, ácidos, grasas, substancias químicas y de cualquier otra clase que puedan perjudicar las instalaciones del servicio, pagarán además de la tarifa ordinaria, la cuota especial prevista en el presente artículo; para compensar los costos determinados por "LA CIAPACOV", por kilogramo de los excedentes de los contaminantes, las cuales se determinarán en función de las descargas por Demanda Bioquímica de Oxígeno (DBO5), Demanda Química de Oxígeno (DQO), pH (Potencial Hidrógeno), Grasas y Aceites y Sólidas (sic) Suspendidos Totales; en función del tiempo que excedan sus límites de descarga al sistema de drenaje, de conformidad con la siguiente tarifa:
 
 (VEASE ARCHIVO ANEXO)
 
@@ -1035,7 +1035,7 @@ El presente Decreto entrará en vigor el 1º de Enero de 2006, previa su publica
 
 ###### ARTÍCULO SEGUNDO.
 
-Para el ejercicio fiscal 2008, el beneficio a que se refiere el artículo 37 de esta Ley, se amplia hasta el 30 de junio del citado año, además de no generar los recargos correspondientes en dicha prórroga. Para el supuesto del artículo 38 de la citada Ley, no se generarán recargos hasta después del 30 de junio.
+Para el ejercicio fiscal 2008, el beneficio a que se refiere el artículo 37 de esta Ley, se amplía hasta el 30 de junio del citado año, además de no generar los recargos correspondientes en dicha prórroga. Para el supuesto del artículo 38 de la citada Ley, no se generarán recargos hasta después del 30 de junio.
 
 El Gobernador del Estado dispondrá se publique, circule y observe."
 
@@ -1087,13 +1087,17 @@ SEGUNDO- Para el ejercicio fiscal 2009, la tarifa de saneamiento aplicable se ca
 
 TERCERO.- Para el ejercicio fiscal 2009, los usuarios obtendrán un subsidio del 40 % en el servicio de saneamiento, siempre y cuando realicen el pago oportuno de los derechos de los servicios públicos que se le proporcionen, sea bimestral o anualmente adelantado.
 
-> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2009)</small>
 
-CUARTO.- Para el ejercicio fiscal 2009, el beneficio a que se refiere el artículo 37 de esta Ley, se amplía hasta el 30 de abril del citado año, además de no generar los recargos correspondientes en dicha prórroga.
+CUARTO.- Para el ejercicio fiscal 2009, el beneficio a que se refiere el artículo 37 de esta Ley, se amplía hasta el 31 de mayo del citado año, además de no generar los recargos correspondientes en dicha prórroga.
 
 P.O. 7 DE MARZO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día de su aprobación, y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 9 DE MAYO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor el día (sic) su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTICULO UNICO.
 
