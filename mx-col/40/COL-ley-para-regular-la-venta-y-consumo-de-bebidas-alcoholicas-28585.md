@@ -4,7 +4,7 @@ identifier: "COL-ley-para-regular-la-venta-y-consumo-de-bebidas-alcoholicas-2858
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-11"
-last_updated: "2009-04-04"
+last_updated: "2009-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA REGULAR LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2009.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 11 de enero de 2003.
 
@@ -267,17 +267,19 @@ III. Obsequiar y/o vender bebidas a los agentes de policía y ejército uniforma
 
 IV. Permitir, fomentar o realizar toda clase de rifas, sorteos o juegos con apuestas en dinero en los establecimientos;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2005)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE MAYO DE 2009)</small>
 
 V. Pintar o fijar en los interiores, cuadros o fotografías que ofendan a la moral o a las buenas costumbres;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2005)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE MAYO DE 2009)</small>
 
 VI. Vender bebidas que estén adulteradas, contaminadas o alteradas en los términos de las disposiciones de salud aplicables, sin perjuicio de las sanciones administrativas que puedan imponer las autoridades sanitarias o de las sanciones penales que correspondan, cuando sean constitutivas de delito; y
 
-> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2005)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE MAYO DE 2009)</small>
 
-VII. Contratar laboralmente o subemplear los servicios personales de menores de 18 años de edad, con el fin de realizar actividades de promoción, difusión y publicidad para la venta y consumo de bebidas alcohólicas, y de todo aquel trabajo que sea susceptible de afectar su moralidad o su (sic) buenas costumbres.
+VII. Realizar barras libres que promuevan el consumo excesivo e indiscriminado de bebidas alcohólicas.
+
+Para efectos del párrafo anterior, como barra libre debe entenderse a la modalidad comercial a través de la cual los usuarios, por medio de un pago único, tienen el derecho al consumo ilimitado de bebidas alcohólicas.
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 2005)</small>
 
@@ -448,3 +450,7 @@ P.O. 7 DE MARZO DE 2009.
 P.O. 4 DE ABRIL DE 2009.
 
 UNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 9 DE MAYO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
