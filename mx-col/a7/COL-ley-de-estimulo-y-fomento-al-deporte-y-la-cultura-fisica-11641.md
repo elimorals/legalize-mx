@@ -4,7 +4,7 @@ identifier: "COL-ley-de-estimulo-y-fomento-al-deporte-y-la-cultura-fisica-11641"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-19"
-last_updated: "1999-11-20"
+last_updated: "2009-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ESTIMULO Y FOMENTO AL DEPORTE Y LA CULTURA FISICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 19 de abril de 1997.
 
@@ -81,13 +81,15 @@ h).- PROGRAMA: Al Programa Estatal del Deporte.
 
 ### CAPITULO II. DEL SISTEMA ESTATAL DEL DEPORTE Y LA CULTURA FISICA
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2009)</small>
+
 ### CAPITULO III. DEL CONSEJO ESTATAL DEL DEPORTE
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 3o.
 
-El SISTEMA estará constituido por el conjunto de acciones, recursos y procedimientos destinados a impulsar, fomentar y desarrollar el deporte en la entidad.
+El SISTEMA estará constituido por el conjunto de acciones, recursos y procedimientos destinados a impulsar, difundir, fomentar, investigar y desarrollar el deporte en la Entidad.
 
 ###### ARTICULO 4o.
 
@@ -287,7 +289,9 @@ X.- La concertación necesaria con las asociaciones deportivas, a fin de vigilar
 
 XI.- El desarrollo del deporte en el medio rural, con personas con discapacidad, senectud y privados de su libertad, independientemente de las atribuciones que esta Ley u otra otorgue a los organismos creados para la atención de estos grupos.
 
-XII.- La creación del Salón del Reconocimiento al Mérito Deportivo.
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2009)</small>
+
+XII.- La creación del Salón de la Fama del deporte colimense.
 
 ###### ARTICULO 19.
 
@@ -301,7 +305,23 @@ Las instituciones educativas autónomas, públicas y privadas organizarán sus a
 
 (DEROGADO, P.O. 20 DE NOVIEMBRE DE 1999)
 
-### CAPITULO VI. DE LA PARTICIPACION DE LOS MUNICIPIOS EN EL SISTEMA ESTATAL DEL DEPORTE
+### CAPITULO V BIS. DE LAS INSTALACIONES DEPORTIVAS
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2009)</small>
+
+ARTICULO 23 BIS.- Se declara de interés público la construcción y conservación de las instalaciones deportivas, que permitan atender adecuadamente las demandas que requiera el desarrollo del deporte, promoviendo para este fin la participación de los sectores social y privado.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2009)</small>
+
+ARTICULO 23 BIS 1.- El Ejecutivo del Estado y los Ayuntamientos determinarán en los planes y programas de desarrollo urbano respectivo, los espacios destinados a la práctica deportiva y de recreación pública, y su destino no podrá ser modificado sino por la declaratoria correspondiente.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2009)</small>
+
+ARTICULO 23 BIS 2.- Para la construcción de nuevas instalaciones deportivas en la rehabilitación de los actuales espacios será obligatorio el acondicionamiento de espacios para la realización del deporte adaptado o de personas con discapacidad, así como al establecimiento de accesos y servicios para los mismos.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2009)</small>
+
+ARTICULO 23 BIS 3.- El uso de las instalaciones deportivas excepcionalmente podrá ser para otro tipo de eventos, previa autorización de las autoridades correspondientes y acuerdo de conservación de las instalaciones.
 
 ###### ARTICULO 22.
 
@@ -311,9 +331,11 @@ El Registro Estatal del Deporte tendrá como finalidad primordial la inscripció
 
 La inscripción individual o colectiva en el Registro Estatal del Deporte, será condición indispensable para gozar de los estímulos y apoyos que se otorguen.
 
-### CAPITULO VII. DE LOS CONSEJOS MUNICIPALES DEL DEPORTE
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DE 2009)</small>
 
-### CAPITULO VIII. DE LA PARTICIPACION DE LOS DEPORTISTAS Y LAS AGRUPACIONES DEPORTIVAS EN EL SISTEMA ESTATAL DEL DEPORTE
+### CAPITULO VI. DE LA PARTICIPACION DE LOS MUNICIPIOS EN EL SISTEMA ESTATAL DEL DEPORTE
+
+### CAPITULO VII. DE LOS CONSEJOS MUNICIPALES DEL DEPORTE
 
 ###### ARTICULO 24.
 
@@ -343,7 +365,29 @@ XI.- Conformar el programa municipal anual de fomento y promoción al deporte y 
 
 XII.- Destinar en las medidas de sus posibilidades una partida de su presupuesto anual de egresos destinada al estímulo y fomento al deporte.
 
-### CAPITULO IX. DE LOS DERECHOS Y OBLIGACIONES DE LOS DEPORTISTAS
+### CAPITULO VII BIS. DE LA PARTICIPACION DE LOS SECTORES SOCIAL Y PRIVADO
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2009)</small>
+
+ARTICULO 27 BIS.- El INCODE y los Ayuntamientos, promoverán la participación de los sectores social y privado, así como de los organismos que realizan actividades deportivas, con el fin de integrarlos al Sistema Estatal del Deporte a través de la celebración de convenios de colaboración y apoyo.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2009)</small>
+
+ARTICULO 27 BlS 1.- Los sectores social y privado se constituyen por personas físicas o morales, que con recursos propios promuevan y fomenten la práctica, organización y desarrollo de actividades deportivas a los programas estatales y nacionales del deporte.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2009)</small>
+
+ARTICULO 27 BIS 2.- Los convenios de colaboración y apoyo deberán prever:
+
+I.- La forma en que se desarrollan las actividades deportivas que se realicen dentro del sistema estatal del deporte.
+
+II.- Los estímulos y apoyos que se destinen para el desarrollo y fomento del deporte, considerando las actividades científicas técnicas que se relacionen con la actividad deportiva.
+
+III.- Las aportaciones que se realicen por las partes tanto de acciones como de recursos en la promoción del deporte.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2009)</small>
+
+ARTICULO 27 BIS 3.- Las instituciones educativas, públicas y privadas promoverán el deporte en sus planteles impulsando a estudiantes, trabajadores a representarlos en competencias municipales, estatales, regionales, nacionales e internacionales.
 
 ###### ARTICULO 25.
 
@@ -403,9 +447,11 @@ I.- Determinar las acciones tendientes a la ejecución y evaluación de la polí
 
 II.- Proponer y realizar estudios e investigaciones en materia Deportiva, considerando los deportes locales y tradicionales.
 
-### CAPITULO X. DEL FOMENTO Y ESTIMULO AL DEPORTE
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DE 2009)</small>
 
-### CAPITULO XI. LAS SANCIONES ADMINISTRATIVAS Y RECURSOS EN EL DEPORTE
+### CAPITULO VIII. DE LA PARTICIPACION DE LOS DEPORTISTAS Y LAS AGRUPACIONES DEPORTIVAS EN EL SISTEMA ESTATAL DEL DEPORTE
+
+### CAPITULO IX. DE LOS DERECHOS Y OBLIGACIONES DE LOS DEPORTISTAS
 
 ###### ARTICULO 28.
 
@@ -429,6 +475,16 @@ Se reconocen como organismos deportivos:
 
 También podrán registrarse como organismos deportivos, las agrupaciones que tengan por objeto el desarrollo de actividades vinculadas con el deporte, aunque su fin no sea necesariamente la competencia deportiva.
 
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2009)</small>
+
+ARTICULO 30 BIS.- Para efectos de esta Ley se consideran:
+
+a).- Clubes: A los organismos constituidos con el fin de promover la participación de uno o más deportes, pudiendo integrarse a la Asociación Deportiva que corresponda a cada deporte que practique y afiliarse en forma directa o a través de una liga deportiva.
+
+b).- Ligas: A las organizaciones que en cada especialidad afilian clubes o equipos con la finalidad de realizar competencias en forma sistemática y permanente.
+
+c).- Asociaciones: A las organizaciones que con carácter Estatal, agrupan a ligas y clubes en una disciplina deportiva.
+
 ###### ARTICULO 31.
 
 Para formar parte del SISTEMA, los organismos deportivos deberán de satisfacer además de los requisitos que para su administración establezca el reglamento de esta Ley, los siguientes:
@@ -441,7 +497,7 @@ II.- Prever en los mismos, el arbitraje obligatorio del CONSEJO en los casos en 
 
 Al integrarse al SISTEMA, las personas, agrupaciones y demás organizaciones deportivas, quedarán obligadas a ejecutar las acciones concertadas y coordinadas que señale el Programa Estatal del Deporte.
 
-### CAPITULO XII. DE LA COMISION ESTATAL DE APELACION Y ARBITRAJE DEL DEPORTE
+### CAPITULO X. DEL FOMENTO Y ESTIMULO AL DEPORTE
 
 ###### ARTICULO 33.
 
@@ -481,9 +537,19 @@ VII.- Cuidar y vigilar que las instalaciones deportivas se conserven dignamente.
 
 VIII.- Asistir a reuniones y premiaciones cuando se convoque.
 
-IX.- Fomentar el Deporte entre sus compañeros; y
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2009)</small>
 
-X.- Las demás que le sean señaladas por la presente Ley.
+IX.- Fomentar el deporte entre sus compañeros.
+
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2009)</small>
+
+X.- Cooperar con las autoridades en los muestreos que se deban de realizar para detectar posibles casos de uso de sustancias prohibidas en la práctica del deporte.
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2009)</small>
+
+XI.- Las demás que le sean señaladas por la presente Ley.
+
+### CAPITULO XI. LAS SANCIONES ADMINISTRATIVAS Y RECURSOS EN EL DEPORTE
 
 ###### ARTICULO 35.
 
@@ -500,6 +566,14 @@ d).- Asesoría.
 e).- Asistencia.
 
 f).- Reconocimientos.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2009)</small>
+
+g).- Material deportivo.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2009)</small>
+
+h).- Uso de las instalaciones deportivas que sean propiedad estatal o de los municipios integrados al SISTEMA.
 
 Los apoyos se otorgarán con base en los lineamientos que al respecto establezca el titular del Ejecutivo Estatal.
 
@@ -518,6 +592,8 @@ b).- Establecer un ordenamiento sano en el egreso de los apoyos económicos capt
 c).- Aplicar los recursos del fondo en el Programa Estatal del Deporte y demás acciones que esten previstas en el plan anual de actividades; y
 
 d).- Los demás que se establezcan por esta Ley y su reglamento.
+
+### CAPITULO XII. DE LA COMISION ESTATAL DE APELACION Y ARBITRAJE DEL DEPORTE
 
 ###### ARTICULO 38.
 
@@ -626,5 +702,9 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbr
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 20 DE NOVIEMBRE DE 1999.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 9 DE MAYO DE 2009.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
