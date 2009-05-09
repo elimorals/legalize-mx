@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-educacion-del-estado-de-tabasco-10929"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-26"
-last_updated: "2009-04-29"
+last_updated: "2009-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE EDUCACION DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 26 de febrero de 1997.
 
@@ -117,11 +117,15 @@ XIX.- Destacar la importancia de una alimentación completa, equilibrada, sufici
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2009)</small>
 
-XX.- Promover la difusión de información sobre los impactos, vulnerabilidad y medidas de adaptación al cambio climático, en el territorio tabasqueño; y
+XX.- Promover la difusión de información sobre los impactos, vulnerabilidad y medidas de adaptación al cambio climático, en el territorio tabasqueño; y (sic)
 
 > <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2009)</small>
 
-XXI.- Fomentar el hábito de la lectura entre los tabasqueños.
+XXI.- Fomentar el hábito de la lectura entre los tabasqueños;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2009)</small>
+
+XXII.- Fomentar y promover en los educandos de los niveles básico, medio superior y superior, el respeto por los derechos de las mujeres y la enseñanza de la equidad de género.
 
 Artículo 10 El criterio que orientará a la educación que proporcionen el Estado, los Municipios, los organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios, incluyendo la educación primaria, la secundaria, la normal y demás para la formación de docentes de educación básica, se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios, además:
 
@@ -235,7 +239,7 @@ XIV.- Autorizar la constitución de los Colegios de Profesionistas, vigilar su e
 
 XV.- Coordinar sus acciones con las instituciones del Gobierno Federal responsables de la aplicación de políticas, programas y acciones de fomento a la lectura y el libro; y
 
-> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2009)</small>
 
 XVI.- Las demás que con tal carácter establezcan la Ley General de Educación y demás disposiciones aplicables.
 
@@ -527,7 +531,7 @@ IV.- La educación preescolar, además de atender las particularidades geográfi
 
 Artículo 62 La educación primaria es obligatoria y tiene como finalidad promover el desarrollo integral y armónico de las facultades del educando, dotándolo de conocimientos y habilidades que fundamenten cualquier aprendizaje posterior que lo integre hacia una mejor convivencia social, crear el aprecio a la dignidad humana, la conciencia de la independencia, soberanía, democracia y justicia social, así como el amor a la patria, el respeto a la Constitución Federal y Local, y a los símbolos patrios nacionales.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2009)</small>
 
 Artículo 63 La educación primaria fortalecerá en el educando su identidad individual y su integración plena a la familia, a la escuela y a la comunidad; fomentará en él los hábitos de la lectura, la conservación y mejoramiento de su salud personal, le proporcionará conocimientos básicos para la preservación de su entorno ecológico y el ejercicio de sus derechos y de sus deberes cívico-sociales; también motivará en él una actitud de aprendizaje permanente que lo prepare para el trabajo útil a sí mismo, a su familia y a su comunidad.
 
@@ -1290,3 +1294,7 @@ P.O. 29 DE ABRIL DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor a los tres días siguientes al de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO.- Se derogan las disposiciones de observancia general que se opongan al correspondiente Decreto.
+
+P.O. 9 DE MAYO DE 2009.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
