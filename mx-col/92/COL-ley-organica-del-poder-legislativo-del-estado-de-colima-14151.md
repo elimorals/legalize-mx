@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2008-11-01"
+last_updated: "2009-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2009.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -1097,9 +1097,11 @@ VII.- Fecha y espacio para el nombre y la firma de los diputados.
 
 Una vez firmados los dictámenes, en favor o en contra, por la mayoría de los miembros de la comisión o comisiones encargadas de una iniciativa o asunto, se remitirán a la Asamblea debiéndose imprimir y adjuntar los votos particulares si los hubiere, para su conocimiento.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 92.
 
-Las comisiones procederán a estudiar, analizar y dictaminar las iniciativas de ley, de decreto y de acuerdo, de conformidad a las atribuciones que les da esta Ley y su Reglamento. Presentarán por escrito su dictamen a más tardar a los quince días hábiles de recibidos los expedientes respectivos, salvo que medie acuerdo de la Asamblea para ampliar este plazo.
+Las comisiones procederán a estudiar, analizar y dictaminar las iniciativas de ley, de decreto y de acuerdo de conformidad a las atribuciones que les da esta Ley y su Reglamento y presentarán por escrito su dictamen en un plazo no mayor de 30 días hábiles contados a partir del día siguiente de recibir los expedientes respectivos, salvo que medie acuerdo de la Asamblea para ampliar este plazo.
 
 > <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
 
@@ -1328,3 +1330,7 @@ SEGUNDO.- La Comisión de Desarrollo Rural, Fomento Pesquero y Asuntos Indígena
 P.O. 1 DE NOVIEMBRE DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 9 DE MAYO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
