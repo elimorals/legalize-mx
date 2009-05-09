@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-sesiones-de-los-consejos-electorales-49504"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-02-04"
-last_updated: "2006-02-04"
+last_updated: "2009-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 REGLAMENTO DE SESIONES DE LOS CONSEJOS ELECTORALES DISTRITALES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE SESIONES DE LOS CONSEJOS ELECTORALES DISTRITALES DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DE TABASCO, PUBLICADO EN EL P.O. DE 9 DE MAYO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Tabasco, el sábado 4 de febrero de 2006.
 
@@ -440,3 +442,13 @@ SE EXPIDE PARA SER ENVIADA A LA SECRETARÍA DE GOBIERNO DEL ESTADO DE TABASCO, P
 DOY FE
 
 LIC. ARMANDO XAVIER MALDONADO ACOSTA. SECRETARIO EJECUTIVO. RÚBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE MAYO DE 2009.
+
+Primero.- Este Reglamento entrará en vigor al ser aprobado por el Consejo Estatal.
+
+Segundo.- A partir de la vigencia del presente Reglamento, se abroga el acuerdo CE/2006/002 de fecha 31 de Enero de 2006.
+
+Tercero.- El Secretario del Consejo Estatal dispondrá a la brevedad posible, la edición del número de ejemplares de este Reglamento que estime necesarios para su adecuada difusión.
