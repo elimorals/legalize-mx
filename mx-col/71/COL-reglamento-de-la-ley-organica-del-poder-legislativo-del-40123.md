@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2009-02-28"
+last_updated: "2009-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2009.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -183,9 +183,13 @@ En caso de falta absoluta de un Diputado, la Asamblea acordará sea llamado el s
 
 Cuando algún Diputado solicite licencia, se procederá de la siguiente manera:
 
-I.- Dirigirá escrito a la Directiva del Congreso señalando los motivos que justifiquen la petición;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2009)</small>
 
-II.- Recibida la petición, se turnará a la Comisión de Gobernación y Poderes para su análisis, discusión y dictamen correspondiente, mismo que de ser aprobatorio contendrá el proyecto de acuerdo; y
+I.- Dirigirá escrito a la Directiva del Congreso o a la Comisión Permanente, señalando los motivos que justifiquen la petición;
+
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2009)</small>
+
+II.- Recibida la petición, se turnará a la Comisión de Justicia, Gobernación y Poderes para su análisis, discusión y dictamen correspondiente, mismo que de ser aprobatorio contendrá el proyecto de acuerdo; y
 
 III.- Presentado el dictamen a la Asamblea, si es favorable, se expedirá el acuerdo correspondiente y, en su caso, se ordenará citar al mismo tiempo al suplente, quien dentro de los cinco días hábiles siguientes rendirá la protesta de ley.
 
@@ -207,13 +211,17 @@ La suspensión de los derechos y obligaciones a que se refiere la fracción II d
 
 La pérdida del carácter de Diputado a que se refiere la fracción I del artículo 26 de la Ley, se sujetará al procedimiento señalado por la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2009)</small>
+
 ###### Artículo 20.
 
-Cuando se reciba en forma oficial o se tenga conocimiento por otros medios de la existencia de una sentencia ejecutoriada que declare el estado de interdicción de alguno de los Diputados, se turnará a la Comisión de Gobernación y Poderes, quien formulará el dictamen correspondiente.
+Cuando se reciba en forma oficial o se tenga conocimiento por otros medios de la existencia de una sentencia ejecutoriada que declare el estado de interdicción de alguno de los Diputados, se turnará a la Comisión de Justicia, Gobernación y Poderes, quien formulará el dictamen correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MAYO DE 2009)</small>
 
 ###### Artículo 21.
 
-La solicitud de renuncia de un integrante del Congreso, será turnada a la Comisión de Gobernación y Poderes, la que formulará el dictamen correspondiente y de ser aprobado por la Asamblea, se ordenará convocar al suplente, que ocupará el cargo hasta el término de la Legislatura.
+La solicitud de renuncia de un integrante del Congreso, será turnada a la Comisión de Justicia, Gobernación y Poderes, la que formulará el dictamen correspondiente y de ser aprobado por la Asamblea, se ordenará convocar al suplente, que ocupará el cargo hasta el término de la Legislatura.
 
 En lo conducente se aplicará el procedimiento previsto por el artículo 16 de este Reglamento.
 
@@ -765,7 +773,7 @@ V.- Analizar y dictaminar, conjuntamente con la Comisión de Justicia, Gobernaci
 
 VI.- Apoyar los convenios que beneficien a los Migrantes Colimenses;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA](ADICIONADA, P.O. 30 DE OCTUBRE DE 2006)</small>
 
 VII.- Coadyuvar con las autoridades competentes en la búsqueda de instrumentos adecuados para atender las causas que generan la Migración;
 
@@ -1519,11 +1527,13 @@ II.- Dispensar el que pase a Comisión un asunto devuelto con observaciones por 
 
 III.- Discutir con preferencia cualquier dictamen de los designados por el Presidente; y
 
-IV.- Permitir que una ley se vote por libros, títulos, capítulos o secciones.
+IV.- (DEROGADA, P.O. 9 DE MAYO DE 2009)
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2009)</small>
 
 ###### Artículo 146.
 
-En ningún caso podrá permitirse que toda una ley se vote en un solo acto, sin dividirla en artículos, secciones, capítulos, títulos o libros. La proposición que se haga en tal sentido, no será admitida por la Directiva.
+Podré permitirse que toda una Ley se vote en lo general y particular en un solo acto, sin dividirla en libros, títulos, capítulos y secciones, siempre que no haya sido impugnada o que los diputados no se hayan reservado para discutir y votar por separado algún libro, título, capítulo y sección del mismo; la proposición que se haga en tal sentido será admitida por la Directiva previa aprobación, en forma económica, y por mayoría del Pleno legislativo.
 
 ###### Artículo 147.
 
@@ -1557,7 +1567,9 @@ III.- Para resolver si se toman en consideración un ocurso o una proposición, 
 
 IV.- Cuando se someta a discusión un dictamen de ley, de decreto, acuerdo, voto particular y demás asuntos, el Presidente lo anunciará diciendo: "Está a discusión (en lo general o en lo particular, según el caso), los Diputados que deseen hacer uso de la palabra se inscribirán en la Secretaría", observándose para el caso el siguiente procedimiento:
 
-a).- Cuando un dictamen constare de varios artículos resolutivos, se pondrá primero a discusión en lo general, estableciéndose en ella, la reserva que se haga para la discusión en lo particular, la que se dará por separado; en esta discusión podrán hablar tres Diputados en pro y tres en contra, por dos veces cada uno. Agotada la discusión, el Presidente preguntará si se considera suficientemente discutido el asunto, si se decide por la afirmativa, se procederá desde luego a recoger la votación. Si se decide que no lo está, se continuará discutiendo en los términos antes señalados y se hará por segunda y última vez la pregunta de si está suficientemente discutido; si aún se resuelve por la negativa, podrán hablar dos Diputados en pro y dos en contra por una sola vez, con lo que se tendrá el asunto como suficientemente discutido en lo general. Hecha esta declaración y una vez recogida la votación si fuere afirmativa, se pondrán desde luego a discusión los artículos en lo particular, observándose el procedimiento antes señalado;
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2009)</small>
+
+a).- Cuando un dictamen estuviere compuesto de varios artículos resolutivos, se pondrá primero a discusión en lo general estableciendo en ella los miembros de la Asamblea si han de reservase artículos del dictamen para su discusión en lo particular. En las discusiones en lo general podrán hablar tres Diputados en pro y tres en contra, por dos veces cada uno. Agotada la discusión, el Presidente preguntará si se considera suficientemente discutido el asunto, si se decide por la afirmativa, se procederá desde luego a recoger la votación. Si se decide que no lo esté, se continuará discutiendo en los términos antes señalados y se hará por segunda y última vez la pregunta de si está suficientemente discutido; si aún se resuelve por la negativa, podrán hablar dos Diputados en pro y dos en contra por una sola vez, con lo que se tendrá el asunto como suficientemente discutido en lo general. Hecha esta declaración y una vez recogida la votación si fuere afirmativa, se pondrán desde luego a discusión los artículos en lo particular, observándose el procedimiento antes señalado. Si no hubiese artículos reservados se procederá inmediatamente a la votación para su aprobación, en lo particular, en un solo acto. En la discusión en lo particular, los miembros de la Asamblea deberán presentar por escrito, a la Mesa Directiva, las modificaciones o adiciones al dictamen;
 
 b).- Si el asunto o documento constare de un solo artículo, se pondrá a la discusión a la vez en lo general y en lo particular, sujetándose a las disposiciones contenidas en esta fracción;
 
@@ -1647,9 +1659,11 @@ Ningún ocurso o proposición de las que se refiere la fracción III del artícu
 
 Cuando se presente a la deliberación de la Asamblea un manifiesto, exposición, informe o cualquier otro documento similar, se someterá todo a discusión y votación en un solo acto, a menos que un Diputado pida que se examine separadamente algún párrafo, en cuyo caso, previa aprobación de la Asamblea, se procederá en los términos establecidos por el artículo siguiente.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2009)</small>
+
 ###### Artículo 161.
 
-Cuando un proyecto conste de varios libros, títulos, capítulos o secciones, se discutirán y votarán éstos separadamente, pudiendo pedir cualquier Diputado que se sometan a discusión y votación en lo particular los artículos que al respecto señale. En este caso, después de leído el libro, título, capítulo o sección, se procederá a la discusión y votación primero de los artículos objetados y después los restantes que se aprobarán en una sola votación que deberá efectuarse invariablemente antes de levantarse la sesión.
+Cuando un proyecto conste de varios libros, títulos, capítulos o secciones, se discutirán y votarán éstos separadamente, cuando algún diputado se reserve la discusión y votación en lo particular de los artículos que al respecto señale. En este caso, después de leído el libro, título, capítulo o sección, se procederá a la discusión y votación primero de cada uno de los artículos reservados y después los restantes, que se aprobarán en una sola votación que deberá efectuarse invariablemente antes de levantarse le sesión.
 
 ###### Artículo 162.
 
@@ -2236,3 +2250,7 @@ P.O. 1 DE NOVIEMBRE DE 2008.
 P.O. 28 DE FEBRERO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 9 DE MAYO DE 2009.
+
+ÚNICO.- El Presente Decreto entraré en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
