@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-sesiones-de-los-consejos-electorales-54865"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-02-04"
-last_updated: "2006-02-04"
+last_updated: "2009-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54865&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 REGLAMENTO DE SESIONES DE LOS CONSEJOS ELECTORALES MUNICIPALES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE SESIONES DE LOS CONSEJOS ELECTORALES MUNICIPALES DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DE TABASCO, P.O. DE 9 DE MAYO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 4 de febrero de 2006.
 
@@ -432,3 +434,17 @@ CONSEJERO PRESIDENTE
 LIC. ARMANDO XAVIER MALDONADO ACOSTA
 
 SECRETARIO EJECUTIVO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE MAYO DE 2009.
+
+Primero.- Este Reglamento entrará en vigor al ser aprobado por el Consejo Estatal.
+
+Segundo.- A partir de la vigencia del presente Reglamento, se abroga el acuerdo CE/2006/003 de fecha 31 de Enero de 2006.
+
+Tercero.- El Secretario del Consejo Estatal dispondrá a la brevedad posible, la edición del número de ejemplares de este Reglamento que estime necesarios para su adecuada difusión.
+
+Segundo.- Túrnese en su momento copia del presente acuerdo a los Consejos Electorales Municipales, para los efectos legales correspondientes.
+
+Tercero.- Publíquese en el Periódico Oficial del Estado, de conformidad con lo dispuesto en el artículo 136 de la Ley Electoral del Estado de Tabasco y agréguese a la página de internet del Instituto.
