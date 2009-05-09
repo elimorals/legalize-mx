@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48155"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2009-03-07"
+last_updated: "2009-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48155&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE IXTLAHUACAN, COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2009.
 
 Ley publicada en el Suplemento No.80 del Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -297,11 +297,11 @@ T R A N S I T O R I O S :
 
 El presente Decreto entrará en vigor el 1º de Enero de 2006, previa su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO SEGUNDO.
 
-Para el ejercicio fiscal 2009, el beneficio a que se refiere el artículos (sic) 21 de ésta Ley, se amplia hasta el 30 de abril del citado año, además de no generar los recargos correspondientes en dicha prórroga.
+Para el ejercicio fiscal 2009, el beneficio a que se refiere el artículo 21 de ésta Ley, se amplia hasta el 31 de mayo del citado año, además de no generar los recargos correspondientes en dicha prórroga.
 
 El Gobernador del Estado dispondrá se publique, circule y observe."
 
@@ -336,5 +336,9 @@ P.O. 22 DE MARZO DE 2008.
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 7 DE MARZO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor el día (sic) su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 9 DE MAYO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor el día (sic) su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
