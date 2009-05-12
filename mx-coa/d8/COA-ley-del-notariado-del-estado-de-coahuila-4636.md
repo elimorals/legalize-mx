@@ -4,7 +4,7 @@ identifier: "COA-ley-del-notariado-del-estado-de-coahuila-4636"
 country: "mx"
 rank: "ley"
 publication_date: "1979-02-06"
-last_updated: "2009-04-03"
+last_updated: "2009-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4636&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL NOTARIADO DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 6 de febrero de 1979.
 
@@ -1067,9 +1067,11 @@ Los interventores que fueren designados para actuar en la clausura de un protoco
 
 El Notario que por cualquier causa reciba una Notaría ya establecida, deberá hacerlo por riguroso inventario de los libros y documentos a que se refiere el artículo anterior sin que esté facultado para tomar posesión de los demás bienes que se encuentren en la oficina del Notario a quien substituye. La diligencia de recepción se llevará a cabo con asistencia de los interventores a que se refiere el artículo 128. De la misma se levantará acta por cuadruplicado, cuyos ejemplares se distribuirán entre el Ejecutivo del Estado, el Consejo de Notarios, el Notario que reciba la Notaría y el Notario substituto.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 131.
 
-El Notario substituido tiene derecho a asistir a las diligencias de clausura de protocolo y de entrega de éste al Notario substituto. Si la vacante es por causa de delito, asistirá también a dichas diligencias el Agente del Ministerio Público que designe el Procurador General de Justicia del Estado.
+El Notario substituido tiene derecho a asistir a las diligencias de clausura de protocolo y de entrega de éste al Notario substituto. Si la vacante es por causa de delito, asistirá también a dichas diligencias el Agente del Ministerio Público que designe el Fiscal General del Estado.
 
 ## TITULO TERCERO
 
@@ -1313,9 +1315,11 @@ El Ejecutivo del Estado designará un visitador que practique la investigación 
 
 Recibido el Informe del Consejo, el Ejecutivo del Estado oirá personalmente al Notario de que se trate, concediéndole el término de quince días para que aporte pruebas en su defensa y fenecido el término, se dictará la resolución definitiva, sin que haya lugar a ulterior recurso administrativo. La substanciación del procedimiento señalado, en ningún caso podrá exceder del término de dos meses.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 160.
 
-Las acusaciones, denuncias y querellas por delitos atribuidos a los Notarios en ejercicio de sus funciones se presentarán ante el Procurador General de Justicia del Estado, quien dará vista con ella a la Secretaría del Ejecutivo del Estado y al Consejo de Notarios del Estado para que intervengan previamente y rindan su dictamen, en un plazo máximo de 15 días, hecho lo cual, se procederá conforme a la Ley.
+Las acusaciones, denuncias y querellas por delitos atribuidos a los Notarios en ejercicio de sus funciones se presentarán ante el Fiscal General del Estado, quien dará vista con ella a la Secretaría del Ejecutivo del Estado y al Consejo de Notarios del Estado para que intervengan previamente y rindan su dictamen, en un plazo máximo de 15 días, hecho lo cual, se procederá conforme a la Ley.
 
 ## TITULO SEPTIMO
 
@@ -1710,3 +1714,19 @@ P.O. 3 DE ABRIL DE 2009.
 PRIMERO. Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE MAYO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a la Procuraduría General de Justicia del Estado y al Procurador General de Justicia del Estado; a la Secretaría de Seguridad Pública del Estado y al Secretario de Seguridad Pública del Estado, se entenderán hechas a la Fiscalía General y al Fiscal General.
+
+TERCERO. Todas las disposiciones; menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a las subprocuradurías y a los subprocuradores, se entenderán hechas a las fiscalías especializadas y a los fiscales especializados, conforme a las siguientes denominaciones:
+
+Subprocurador Ministerial: Fiscal Ministerial, de Investigación y Operación Policial.
+
+Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos y Legalidad.
+
+Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
