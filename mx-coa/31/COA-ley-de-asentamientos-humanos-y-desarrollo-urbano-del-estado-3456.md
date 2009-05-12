@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asentamientos-humanos-y-desarrollo-urbano-del-estado-345
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-26"
-last_updated: "2009-04-03"
+last_updated: "2009-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 26 de julio de 1994.
 
@@ -717,11 +717,11 @@ VII.- Proponer los proyectos de inversión de obra pública municipal y las medi
 
 VIII.- En general ejecutar todas las acciones necesarias para el mejor cumplimiento de sus atribuciones en la promoción del desarrollo urbano, conforme a esta ley y demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 27.
 
-La Procuraduría General de Justicia en el Estado, la Secretaría de Finanzas, la Dirección y los Jefes de las Oficinas del Registro Público, el Instituto Coahuilense del Catastro y la Planeación Territorial y sus oficinas en la entidad, así como las unidades catastrales municipales coadyuvarán con las autoridades competentes en la aplicación de esta ley y de los programas y declaratorias de desarrollo urbano.
+La Fiscalía General del Estado, la Secretaría de Finanzas, la Dirección y los Jefes de las Oficinas del Registro Público, el Instituto Coahuilense del Catastro y la Planeación Territorial y sus oficinas en la entidad, así como las unidades catastrales municipales coadyuvarán con las autoridades competentes en la aplicación de esta ley y de los programas y declaratorias de desarrollo urbano.
 
 ### CAPITULO TERCERO. DEL DESARROLLO URBANO
 
@@ -3248,3 +3248,19 @@ P.O. 3 DE ABRIL DE 2009.
 PRIMERO. Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE MAYO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a la Procuraduría General de Justicia del Estado y al Procurador General de Justicia del Estado; a la Secretaría de Seguridad Pública del Estado y al Secretario de Seguridad Pública del Estado, se entenderán hechas a la Fiscalía General y al Fiscal General.
+
+TERCERO. Todas las disposiciones; menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a las subprocuradurías y a los subprocuradores, se entenderán hechas a las fiscalías especializadas y a los fiscales especializados, conforme a las siguientes denominaciones:
+
+Subprocurador Ministerial: Fiscal Ministerial, de Investigación y Operación Policial.
+
+Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos y Legalidad.
+
+Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
