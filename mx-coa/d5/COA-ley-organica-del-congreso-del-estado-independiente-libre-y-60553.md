@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-6055
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-03-07"
-last_updated: "2008-12-23"
+last_updated: "2009-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 7 de marzo de 2008.
 
@@ -71,7 +71,9 @@ El Congreso podrá ser convocado a periodos extraordinarios de sesiones, conform
 
 El Gobernador del Estado informará por escrito cada año al Congreso, dentro de los primeros diez días del mes de noviembre, sobre el estado general que guarda la administración pública estatal, según lo dispuesto en los artículos 49 Y 84 de la Constitución Política del Estado de Coahuila de Zaragoza.
 
-La Legislatura procederá a realizar, en sesiones subsecuentes el análisis del informe presentado por el Gobernador; y ante Comisiones, se desarrollarán comparecencias por materias, con la presencia de los secretarios del ramo y del Procurador General de Justicia, con objeto de hacer comentarios y observaciones al respecto. Lo expresado con ese motivo se comunicará al Ejecutivo del Estado, para su conocimiento, lo anterior, observando los acuerdos de la Junta de Gobierno en relación al formato y duración de las comparecencias de los servidores públicos y, de la decisión sobre los funcionarios públicos que comparecerán, según lo dispuesto en las fracciones VI, XII Y XIII, del artículo 85 y demás relativos de esta ley.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+La Legislatura procederá a realizar, en sesiones subsecuentes el análisis del informe presentado por el Gobernador; y ante Comisiones, se desarrollarán comparecencias por materias, con la presencia de los Secretarios del Ramo y del Fiscal General del Estado, con objeto de hacer comentarios y observaciones al respecto. Lo expresado con ese motivo se comunicará al Ejecutivo del Estado, para su conocimiento, lo anterior, observando los acuerdos de la Junta de Gobierno en relación al formato y duración de las comparecencias de los servidores públicos y, de la decisión sobre los funcionarios públicos que comparecerán, según lo dispuesto en las fracciones VI, XII Y (sic) XIII, del artículo 85 y demás relativos de esta ley.
 
 ###### ARTÍCULO 7.
 
@@ -1065,7 +1067,9 @@ IV. Renuncias y licencias de Magistrados del Tribunal Superior de Justicia y del
 
 V. Nombramiento o elección de quienes deban sustituir a los servidores públicos mencionados en la fracción anterior;
 
-VI. Ratificación del Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+VI. Ratificación del Fiscal General del Estado;
 
 VII. El otorgamiento de amnistías; y
 
@@ -1647,17 +1651,19 @@ III. Acordar por sí o a petición del Ejecutivo o de la Comisión de Hacienda y
 
 IV. Designar al Gobernador Interino o al Provisional, en los casos a que se refieren los artículos 78 y 79 de la Constitución Política del Estado;
 
-V. Tomar, en su caso, la protesta de ley del Gobernador del Estado, la de los Magistrados del Tribunal Superior de Justicia, la de los Magistrados del Tribunal Estatal Electoral y de los demás servidores públicos en los casos que proceda conforme a la ley, así como ratificar, en su caso, el nombramiento del Procurador General de Justicia del Estado.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+V. Tomar, en su caso, la protesta de ley del Gobernador del Estado, la de los Magistrados del Tribunal Superior de Justicia, la de los Magistrados del Tribunal Estatal Electoral y de los demás servidores públicos en los casos que proceda conforme a la ley, así como ratificar, en su caso, el nombramiento del Fiscal General del Estado;
 
 VI. Conceder licencia, en su caso, a los servidores públicos a que se refiere la fracción XVIII del artículo 67 de la Constitución Política Local; así como conocer y resolver, en los términos de la propia Constitución y demás ordenamientos aplicables, sobre las renuncias que individualmente, y sin tratarse de la mayoría, presenten los miembros de los Ayuntamientos y de los Concejos Municipales;
 
 VII. Resolver los asuntos que quedaren pendientes de resolución por el Pleno y dar cuenta de ellos en el siguiente periodo de sesiones;
 
-VIII. Recibir y remitir a la Comisión de Hacienda y Cuenta Pública, las cuentas públicas anuales estatales, municipales y de los organismos públicos autónomos, en los términos que marca la ley.
+VIII. Recibir y remitir a la Comisión de Hacienda y Cuenta Pública, las cuentas públicas anuales estatales, municipales y de los organismos públicos autónomos, en los términos que marca la ley;
 
 IX. Resolver los asuntos para que fuere autorizada por el Pleno del Congreso, según la fracción XXXV del artículo 67 de la Constitución Local y lo previsto en la fracción V del artículo 12 de la presente Ley;
 
-X. El Presidente de la Diputación Permanente, en términos generales y en lo aplicable, tendrá las mismas facultades que tiene el Presidente de la Mesa Directiva del Pleno del Congreso.
+X. El Presidente de la Diputación Permanente, en términos generales y en lo aplicable, tendrá las mismas facultades que tiene el Presidente de la Mesa Directiva del Pleno del Congreso;
 
 XI. Las demás que señale la Constitución Local, esta Ley y otros ordenamientos.
 
@@ -2792,3 +2798,19 @@ P.O. 23 DE DICIEMBRE DE 2008.
 PRIMERO. El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 12 DE MAYO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a la Procuraduría General de Justicia del Estado y al Procurador General de Justicia del Estado; a la Secretaría de Seguridad Pública del Estado y al Secretario de Seguridad Pública del Estado, se entenderán hechas a la Fiscalía General y al Fiscal General.
+
+TERCERO. Todas las disposiciones; menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a las subprocuradurías y a los subprocuradores, se entenderán hechas a las fiscalías especializadas y a los fiscales especializados, conforme a las siguientes denominaciones:
+
+Subprocurador Ministerial: Fiscal Ministerial, de Investigación y Operación Policial.
+
+Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos y Legalidad.
+
+Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
