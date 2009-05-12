@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-8987"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-22"
-last_updated: "2008-12-23"
+last_updated: "2009-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 22 de diciembre de 1995.
 
@@ -2375,11 +2375,11 @@ El pago de los derechos a que se refiere este capítulo deberán efectuarse en l
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
-### CAPITULO SEPTIMO. POR SERVICIOS DE LA PROCURADURIA GENERAL DE JUSTICIA
+### CAPITULO SEPTIMO. POR SERVICIOS DE LA FISCALIA GENERAL DEL ESTADO
 
 OBJETO
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 132.
 
@@ -2427,15 +2427,19 @@ La oficina pagadora de la dependencia correspondiente del Gobierno del Estado, a
 
 El pago de los derechos por los servicios a que se refiere el artículo 133, deberá efectuarse en las oficinas recaudadoras de la Secretaria de Finanzas, instituciones de crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE MAYO DE 2009)</small>
+
 ### CAPITULO OCTAVO. POR SERVICIOS AEROPORTUARIOS
 
 OBJETO
 
 ###### ARTICULO 136.
 
-Los servicios que presta la Procuraduría General de Justicia del Estado a través de sus unidades administrativas, causarán derechos conforme a la siguiente:
+Los servicios que presta la Fiscalía General del Estado a través de sus unidades administrativas, causarán derechos conforme a la siguiente:
 
 TARIFA
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
 
 I.- Los prestados por el Departamento de Servicios Periciales de:
 
@@ -2535,9 +2539,9 @@ g).- Certificaciones y constancias, $106.00 (CIENTO SEIS PESOS 00/100 M.N.).
 
 En todos los casos en que el personal del Departamento de Servicios Periciales, con o sin equipo, deba trasladarse fuera de los locales en que normalmente presten sus servicios, se causarán derechos de $15.00 (QUINCE PESOS 00/100 M.N.) por kilómetro.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
 
-II.- Los prestados por otras unidades administrativas de la Procuraduría General de Justicia:
+II.- Los prestados por otras unidades administrativas de la Fiscalía General del Estado:
 
 (ACTUALIZADO EN SU MONTO, P.O. 31 DE DICIEMBRE DE 2004)
 
@@ -3416,3 +3420,19 @@ P.O. 23 DE DICIEMBRE DE 2008.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 12 DE MAYO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a la Procuraduría General de Justicia del Estado y al Procurador General de Justicia del Estado; a la Secretaría de Seguridad Pública del Estado y al Secretario de Seguridad Pública del Estado, se entenderán hechas a la Fiscalía General y al Fiscal General.
+
+TERCERO. Todas las disposiciones; menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a las subprocuradurías y a los subprocuradores, se entenderán hechas a las fiscalías especializadas y a los fiscales especializados, conforme a las siguientes denominaciones:
+
+Subprocurador Ministerial: Fiscal Ministerial, de Investigación y Operación Policial.
+
+Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos y Legalidad.
+
+Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
