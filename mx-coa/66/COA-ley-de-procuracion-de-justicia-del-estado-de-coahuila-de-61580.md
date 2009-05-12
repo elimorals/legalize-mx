@@ -4,7 +4,7 @@ identifier: "COA-ley-de-procuracion-de-justicia-del-estado-de-coahuila-de-61580"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-16"
-last_updated: "2008-05-16"
+last_updated: "2009-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DE PROCURACION DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DE LA LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE COAHUILA, PUBLICADA EN EL P.O. EL 12 DE MAYO DE 2009, SE DEROGAN LAS DISPOSICIONES QUE SEAN CONTRARIAS A LAS NORMAS ESTABLECIDAS EN EL CITADO ORDENAMIENTO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 16 de mayo de 2008.
 
@@ -75,11 +77,15 @@ Constitución. La Constitución Política de los Estados Unidos Mexicanos.
 
 Constitución del Estado. La Constitución Política del Estado de Coahuila de Zaragoza.
 
-Convenios de colaboración. Los Convenios celebrados por la Procuraduría General de Justicia del Estado con otra u otras Procuradurías de otros Estados o con la Procuraduría General de la República.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+Convenios de colaboración. Los Convenios celebrados por la Fiscalía General del Estado con otra u otras Procuradurías de otros Estados o con la Procuraduría General de la República.
 
 Coordinador. El Coordinador de Agentes del Ministerio Público.
 
-Delegado. El Delegado del Ministerio Público o el funcionario a cargo de las Delegaciones Regionales de la Procuraduría General de Justicia del Estado.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+Delegado. El Delegado del Ministerio Público o el funcionario a cargo de las Delegaciones Regionales de la Fiscalía General del Estado.
 
 Diligencia. Cualquier actuación practicada en Averiguación Previa.
 
@@ -87,11 +93,17 @@ Ministerio Público. El funcionario que tenga el carácter de Agente del Ministe
 
 Policía. Las Corporaciones Policiales Federales, Estatales y Municipales o los agentes que formen parte de ellas.
 
-Procurador. El Procurador General de Justicia del Estado.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
 
-Procuraduría. La Procuraduría General de Justicia del Estado.
+Fiscal General. El Fiscal General del Estado.
 
-Servicios Periciales. La Dependencia de la Procuraduría General de Justicia del Estado que tenga a su cargo lo relativo al servicio pericial.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+Fiscalía General. La Fiscalía General del Estado.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+Servicios Periciales. La Dependencia de la Fiscalía General del Estado que tenga a su cargo lo relativo al servicio pericial.
 
 ###### ARTÍCULO 6.
 
@@ -141,13 +153,19 @@ IX. OPORTUNIDAD. En función del principio de legalidad el Ministerio Público s
 
 El Ministerio Público buscará prioritariamente la solución del conflicto penal mediante la aplicación de las formas alternas que prevé esta ley y promoverá la paz social privilegiando la persecución de los hechos punibles que afecten gravemente el interés público.
 
-La aplicación de criterios de oportunidad se hará siempre con base en razones objetivas valoradas conforme a las pautas generales fijadas por el Procurador General de Justicia del Estado y estará sujeta a los controles institucionales que determine la presente Ley.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+La aplicación de criterios de oportunidad se hará siempre con base en razones objetivas valoradas conforme a las pautas generales fijadas por el Fiscal General y estará sujeta a los controles institucionales que determine la presente Ley.
 
 B. En lo referente a la integración de la Averiguación Previa y a la actuación del Ministerio Público durante el proceso:
 
-I. DIRECCIÓN DE LA INVESTIGACION. Corresponde a los Agentes del Ministerio Público la investigación de los delitos, para lo cual se auxiliarán de la Policía Ministerial y los Servicios Periciales, los que estarán bajo su autoridad y mando inmediato.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
 
-Los titulares de la Policía Ministerial y de los Servicios Periciales deberán cumplir y hacer cumplir las órdenes del Ministerio Público, cualquiera que sea la jerarquía del funcionario del cual emanen.
+I. DIRECCIÓN DE LA INVESTIGACIÓN. Corresponde a los Agentes del Ministerio Público la investigación de los delitos, para lo cual se auxiliarán de la Policía del Estado y los Servicios Periciales, los que estarán bajo su autoridad y mando inmediato.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+Los titulares de la Policía del Estado y de los Servicios Periciales deberán cumplir y hacer cumplir las órdenes del Ministerio Público, cualquiera que sea la jerarquía del funcionario del cual emanen.
 
 Las órdenes del Ministerio Público no afectarán las opiniones técnicas y científicas que emitan los peritos en sus dictámenes.
 
@@ -197,7 +215,9 @@ I. Recibir las denuncias o querellas sobre hechos que puedan constituir delito d
 
 II. Hacer la clasificación legal de los hechos que le son denunciados con base en las constancias que se desprendan de la denuncia o de la Averiguación Previa, sin obligación de sujetarse o atender a la que hubieren hecho los denunciantes o querellantes.
 
-III. Investigar los delitos de su competencia con todas las facultades que este y otros ordenamientos jurídicos le otorguen. Para ello se auxiliará de la Policía Ministerial y de los Servicios Periciales y, en su caso, de los demás Órganos y Autoridades que prevea la Ley.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+III. Investigar los delitos de su competencia con todas las facultades que este y otros ordenamientos jurídicos le otorguen. Para ello se auxiliará de la Policía del Estado y de los Servicios Periciales y, en su caso, de los demás Órganos y Autoridades que prevea la Ley.
 
 IV. Turnar a las Autoridades correspondientes las indagatorias que no sean de su competencia, lo que hará de inmediato en los casos en que conozca de ellas con motivo de la detención en flagrancia de el o los probables responsables.
 
@@ -349,13 +369,17 @@ FINALIDAD DE LA AVERIGUACIÓN PREVIA. La averiguación previa tiene por finalida
 
 TITULARIDAD DE LA INVESTIGACIÓN E INTERVENCIÓN DE ORGANOS AUXILIARES.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 13.
 
-TITULARIDAD DE LA INVESTIGACIÓN. Corresponde al Ministerio Público la titularidad de la investigación, para lo cual se auxiliará del personal bajo su mando, de la Policía Ministerial y de los peritos que el designe, formen o no parte de la propia institución; así como de las Policías Preventivas Estatales y Municipales y los Síndicos de los Ayuntamientos en los términos que disponga esta Ley y los demás ordenamientos aplicables.
+TITULARIDAD DE LA INVESTIGACIÓN. Corresponde al Ministerio Público la titularidad de la investigación, para lo cual se auxiliará del personal bajo su mando, de la Policía del Estado y de los peritos que el designe, formen o no parte de la propia institución; así como de las Policías Preventivas Municipales y los Síndicos de los Ayuntamientos en los términos que disponga esta Ley y los demás ordenamientos aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 14.
 
-INTERVENCIÓN DE LA POLICÍA MINISTERIAL. La Policía Ministerial auxiliará al Ministerio Público mediante el ejercicio de las siguientes atribuciones:
+INTERVENCIÓN DE LA POLICÍA DEL ESTADO. La Policía del Estado auxiliará al Ministerio Público mediante el ejercicio de las siguientes atribuciones:
 
 I. Investigar los hechos posiblemente delictuosos en los términos que le ordene el Ministerio Público, para lo cual podrá acudir al lugar de los hechos, entrevistarse con personas y Autoridades que puedan tener conocimiento de los mismos, vigilar el comportamiento de quienes puedan estar involucrados, obtener información de los bancos de datos que obren en poder de las Autoridades e Instituciones Públicas y localizar, recoger, preservar y poner a disposición del Ministerio Público los instrumentos, evidencias, objetos y productos del delito en los términos que este y otros ordenamientos jurídicos determinen.
 
@@ -379,7 +403,9 @@ X. Efectuar y participar en los operativos policiales conforme a las instruccion
 
 XI. Atender los auxilios que se le soliciten en los términos que le sean autorizados.
 
-XII. Las demás que esta Ley, el Reglamento Interno de la Policía Ministerial y otros Ordenamientos Jurídicos dispongan.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+XII. Las demás que esta Ley, la Ley Orgánica de la Fiscalía General del Estado de Coahuila de Zaragoza, el reglamento interior correspondiente y otros ordenamientos Jurídicos dispongan.
 
 ###### ARTÍCULO 15.
 
@@ -389,13 +415,17 @@ Los peritos oficiales, además, recolectaran la evidencia procediendo a su debid
 
 Rendirán sus dictámenes e informes dentro de los términos que les sean fijados por el Ministerio Público.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 16.
 
-AUXILIO DE LAS POLICÍAS PREVENTIVAS ESTATALES Y MUNICIPALES. Las Policías Preventivas Estatales y Municipales proporcionaran los auxilios y apoyos que les requiera el Ministerio Público con estricta sujeción a las órdenes que de él reciban.
+AUXILIO DE LAS POLICÍAS PREVENTIVAS MUNICIPALES. Las Policías Preventivas Municipales proporcionaran los auxilios y apoyos que les requiera el Ministerio Público con estricta sujeción a las órdenes que de él reciban.
 
 Cuando tomen conocimiento de hechos posiblemente constitutivos de delito dictarán las medidas y providencias necesarias para preservar el lugar de los hechos e impedir que se pierdan, destruyan o alteren los instrumentos, evidencias, objetos y productos del delito; así como para propiciar la seguridad y el auxilio a las víctimas y ofendidos. De igual manera asegurarán a los probables responsables en los casos en que ello sea procedente, poniéndolos de inmediato a disposición del Ministerio Público.
 
-Tan pronto intervenga el Ministerio Público o la Policía Ministerial en el conocimiento de los hechos, cederán a estos el mando de las acciones, proporcionándoles todos los datos que hubieren obtenido respecto de los mismos; sin perjuicio de que continúen brindando los apoyos que dichas autoridades dispongan.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+Tan pronto intervenga el Ministerio Público o la Policía del Estado en el conocimiento de los hechos, cederán a estos el mando de las acciones, proporcionándoles todos los datos que hubieren obtenido respecto de los mismos; sin perjuicio de que continúen brindando los apoyos que dichas autoridades dispongan.
 
 En cualquier caso comunicarán los resultados de sus intervenciones al Ministerio Público mediante partes informativos.
 
@@ -457,7 +487,9 @@ DERECHOS Y OBLIGACIONES DE LAS VÍCTIMAS Y OFENDIDOS. Durante la Averiguación P
 
 A. Derechos:
 
-I. ASISTENCIA MÉDICA Y PSICOLÓGICA DE URGENCIA. A que se les preste atención médica y psicológica de urgencia cuando las requieran, desde el momento de la comisión del delito. Para el efecto el Ministerio Público informará o canalizará a quienes se encuentren en tal supuesto a las instituciones especializadas en la materia. En su caso, la Policía Ministerial y las Policías Preventivas Estatales y Municipales, al tomar conocimiento de los hechos, solicitaran los servicios médicos de urgencia tomando las medidas necesarias para asegurar los fines de la indagatoria.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+
+I. ASISTENCIA MÉDICA Y PSICOLÓGICA DE URGENCIA. A que se les preste atención médica y psicológica de urgencia cuando las requieran, desde el momento de la comisión del delito. Para el efecto el Ministerio Público informará o canalizará a quienes se encuentren en tal supuesto a las instituciones especializadas en la materia. En su caso, la Policía del Estado y las Policías Preventivas Municipales, al tomar conocimiento de los hechos, solicitaran los servicios médicos de urgencia tomando las medidas necesarias para asegurar los fines de la indagatoria.
 
 En caso de delitos sexuales el ofendido tendrá derecho a que se le brinde tratamiento médico para prevenir enfermedades de transmisión sexual.
 
@@ -521,7 +553,9 @@ II. PRESOS. Los que se hallen presos.
 
 III. INHABILITACIÓN. Los que estén inhabilitados para el ejercicio de la profesión.
 
-IV. INCOMPATIBILIDADES. Los que hubieren tenido conocimiento previo de la indagatoria con el carácter de Juez, Agente del Ministerio Público, Perito, Policía Ministerial o escribiente; los que intervengan o hubieren intervenido con cualquier carácter dentro de la Averiguación Previa y los que patrocinen intereses que puedan ser contradictorios dentro de la misma.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+
+IV. INCOMPATIBILIDADES. Los que hubieren tenido conocimiento previo de la indagatoria con el carácter de Juez, Agente del Ministerio Público, Perito, Policía del Estado o escribiente; los que intervengan o hubieren intervenido con cualquier carácter dentro de la Averiguación Previa y los que patrocinen intereses que puedan ser contradictorios dentro de la misma.
 
 El Ministerio Público no dará intervención alguna a las personas designadas en contravención a lo dispuesto en el presente artículo.
 
@@ -643,7 +677,9 @@ II. PRESOS. Los que se hallen presos.
 
 III. INHABILITACIÓN. Los que estén inhabilitados para el ejercicio de la profesión.
 
-IV. INCOMPATIBILIDADES. Los que hubieren tenido conocimiento previo de la indagatoria con el carácter de Juez, Agente del Ministerio Público, Perito, Policía Ministerial o escribiente; así como los que intervengan o hubieren intervenido con cualquier carácter dentro de la Averiguación Previa.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+IV. INCOMPATIBILIDADES. Los que hubieren tenido conocimiento previo de la indagatoria con el carácter de Juez, Agente del Ministerio Público, Perito, Policía del Estado o escribiente; así como los que intervengan o hubieren intervenido con cualquier carácter dentro de la Averiguación Previa.
 
 V. DEFENSA CONTRADICTORIA. Los que ya defiendan a otro inculpado cuyos intereses jurídicos estén en conflicto con los de quien pretendan defender.
 
@@ -677,11 +713,17 @@ DE LA COMPETENCIA OBJETIVA.
 
 COMPETENCIA PLENA. Los Agentes del Ministerio Público conocerán de los delitos que sean competencia de las Autoridades Estatales conforme a las reglas establecidas en el Código Penal, independientemente del lugar en que residan, la jerarquía o cargo que ostenten y la especificidad de los hechos denunciados. Su competencia se extiende tanto para la investigación de los hechos como para su eventual persecución ante los Órganos Jurisdiccionales.
 
-Sin perjuicio de lo anterior, el Procurador podrá establecer criterios territoriales y de especialidad para efectos de división del trabajo y control jerárquico, sin que los mismos afecten las facultades y competencias otorgadas por esta Ley ni invaliden los actos realizados en contravención a ellos. Los Agentes del Ministerio Público serán identificados oficialmente con base a la especialidad o residencia que en dichos términos se les asigne.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
 
-Cuando, con base en los criterios territoriales y de especialidad que fije el Procurador, surjan conflictos respecto del Agente del Ministerio Público autorizado para tomar conocimiento de los hechos, el funcionario que tenga jerarquía sobre los involucrados determinará lo conducente, sin mayores trámites.
+Sin perjuicio de lo anterior, el Fiscal General podrá establecer criterios territoriales y de especialidad para efectos de división del trabajo y control jerárquico, sin que los mismos afecten las facultades y competencias otorgadas por esta Ley ni invaliden los actos realizados en contravención a ellos. Los Agentes del Ministerio Público serán identificados oficialmente con base a la especialidad o residencia que en dichos términos se les asigne.
 
-Lo dispuesto en este artículo se aplicará también al personal de Policía Ministerial y de Servicios Periciales, en cuanto resulte conducente.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+Cuando, con base en los criterios territoriales y de especialidad que fije el Fiscal General, surjan conflictos respecto del Agente del Ministerio Público autorizado para tomar conocimiento de los hechos, el funcionario que tenga jerarquía sobre los involucrados determinará lo conducente, sin mayores trámites.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+Lo dispuesto en este artículo se aplicará también al personal de Policía del Estado y de Servicios Periciales, en cuanto resulte conducente.
 
 ###### ARTÍCULO 38.
 
@@ -693,9 +735,11 @@ En cualquier caso, el funcionario que tenga carácter de Ministerio Público pod
 
 INTERVENCIÓN DE VARIOS AGENTES DEL MINISTERIO PÚBLICO. Cuando en una misma averiguación previa o proceso intervengan varios Agentes del Ministerio Público podrán actuar conjunta o indistintamente, pero se sujetarán en todo caso a las instrucciones que reciban de sus superiores jerárquicos o del que hubiere sido designado responsable de su integración o seguimiento.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 40.
 
-AUXILIOS Y EXHORTOS MINISTERIALES DENTRO DEL ESTADO. Cuando el Agente del Ministerio Público que conozca de la indagatoria deba realizar actos fuera de su lugar de residencia, pero dentro del mismo Estado, podrá hacerlo en forma directa y sin mayores trámites o bien, solicitar el auxilio de sus homólogos mediante exhorto que hará llegar por conducto de los Delegados o de la instancia que determine el Procurador.
+AUXILIOS Y EXHORTOS MINISTERIALES DENTRO DEL ESTADO. Cuando el Agente del Ministerio Público que conozca de la indagatoria deba realizar actos fuera de su lugar de residencia, pero dentro del mismo Estado, podrá hacerlo en forma directa y sin mayores trámites o bien, solicitar el auxilio de sus homólogos mediante exhorto que hará llegar por conducto de los Delegados o de la instancia que determine el Fiscal General.
 
 ###### ARTÍCULO 41.
 
@@ -703,17 +747,23 @@ AUXILIOS Y EXHORTOS MINISTERIALES FUERA DEL ESTADO. Cuando sea necesario realiza
 
 Se procederá de igual forma para los auxilios o colaboraciones requeridos al Ministerio Público del Estado por parte de otras Procuradurías.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 42.
 
-INCOMPETENCIA DE LAS AUTORIDADES DEL ESTADO. Cuando el Agente del Ministerio Público estime que los hechos puestos en su conocimiento no son competencia de las autoridades del fuero común o del Estado, emitirá acuerdo debidamente razonado y lo hará llegar, junto con las constancias de las diligencias que hubiere practicado, a la Dirección de Averiguaciones Previas o al funcionario que designe el Procurador, quien, de estimar procedente la incompetencia planteada, remitirá todo lo actuado a la Procuraduría que se considere facultada para conocer de los hechos. En caso contrario, remitirá las mismas al funcionario a quien le corresponda conocer.
+INCOMPETENCIA DE LAS AUTORIDADES DEL ESTADO. Cuando el Agente del Ministerio Público estime que los hechos puestos en su conocimiento no son competencia de las autoridades del fuero común o del Estado, emitirá acuerdo debidamente razonado y lo hará llegar, junto con las constancias de las diligencias que hubiere practicado, a la Dirección General de Averiguaciones Previas o al funcionario que designe el Fiscal General, quien, de estimar procedente la incompetencia planteada, remitirá todo lo actuado a la Procuraduría que se considere facultada para conocer de los hechos. En caso contrario, remitirá las mismas al funcionario a quien le corresponda conocer.
 
 Cuando la incompetencia fuere sólo respecto de ciertos hechos se hará el desglose de la averiguación correspondiente.
 
-Cuando otra Procuraduría sostenga competencia con la del Estado o rechace la que se le hubiere planteado, se procederá en los términos que la Constitución Política de los Estados Unidos Mexicanos y demás ordenamientos establezcan. En cualquier caso el Ministerio Público del Estado podrá reconsiderar y aceptar o negar su competencia.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+Si se planteara conflicto de competencia entre la Fiscalía y otras procuradurías o entidades encargadas de la procuración de justicia se procederá conforme a lo señalado en el último párrafo del artículo anterior.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 43.
 
-COMPETENCIA POR HECHOS EN CONOCIMIENTO DE OTRAS PROCURADURÍAS. Cuando otras Procuradurías remitan las constancias de los hechos de que hubieren tomado conocimiento por considerar que los mismos son competencia de las Autoridades del Estado, el Director de Averiguaciones Previas o el funcionario que designe el Procurador hará la calificación respectiva y si estima procedente la competencia remitirá las constancias al Agente del Ministerio Público a quien corresponda conocer.
+COMPETENCIA POR HECHOS EN CONOCIMIENTO DE OTRAS PROCURADURÍAS. Cuando otras Procuradurías remitan las constancias de los hechos de que hubieren tomado conocimiento por considerar que los mismos son competencia de las Autoridades del Estado, el Director General de Averiguaciones Previas o el funcionario que designe el Fiscal General hará la calificación respectiva y si estima procedente la competencia remitirá las constancias al Agente del Ministerio Público a quien corresponda conocer.
 
 Cuando se considere competente sólo respecto de ciertos hechos hará el desglose de la indagatoria y remitirá las constancias relativas a los hechos respecto de los cuales se considere incompetente a la autoridad que considere facultada para conocer.
 
@@ -773,9 +823,11 @@ V. HACER PROMESAS QUE IMPLIQUEN PARCIALIDAD. Hacer promesas que impliquen parcia
 
 VI. HABER INTERVENIDO PREVIAMENTE EN LA INDAGATORIA O PROCESO CON DIVERSA CALIDAD. Haber intervenido previamente en la averiguación previa o proceso con el carácter de perito, testigo, defensor, abogado, Juez o Magistrado; o haber gestionado o recomendado el asunto a favor o en contra del inculpado, la víctima o el ofendido.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 49.
 
-CALIFICACIÓN DE LA EXCUSA. Las excusas del personal adscrito a las Delegaciones serán calificadas por el Delegado correspondiente, las del personal adscrito a las diversas direcciones serán calificadas por los titulares de las mismas, las de los Directores y Delegados serán calificadas por el Subprocurador que corresponda según su adscripción o etapa procedimental en que se plantee, las que promuevan los Subprocuradores serán calificadas por el Procurador. El Procurador será irrecusable, pero cuando se encuentre en alguno de los supuestos mencionados en el artículo anterior lo comunicará al Subprocurador a quien corresponda suplir sus ausencias para que tome el conocimiento del asunto.
+CALIFICACIÓN DE LA EXCUSA. Las excusas del personal adscrito a las Delegaciones serán calificadas por el Delegado correspondiente, las del personal adscrito a las diversas direcciones serán calificadas por los titulares de las mismas, las de los Directores y Delegados serán calificadas por el Fiscal Especializado que corresponda según su adscripción o etapa procedimental en que se plantee, las que promuevan los Fiscales Especializados serán calificadas por el Fiscal General. El Fiscal General será irrecusable, pero cuando se encuentre en alguno de los supuestos mencionados en el artículo anterior lo comunicará al Fiscal Especializado a quien corresponda suplir sus ausencias para que tome el conocimiento del asunto.
 
 ###### ARTÍCULO 50.
 
@@ -897,13 +949,17 @@ Cuando la denuncia o querella fuere formulada por funcionario público en el eje
 
 Si la ratificación de la denuncia o de la querella o su modificación o aclaración se hicieren en tiempo, sus efectos se harán retroactivos al momento de la presentación de aquélla. Lo anterior también se aplicará para el caso de que la querella hubiere sido presentada por persona distinta al ofendido en los casos en que esta Ley lo permite.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 60.
 
-CONOCIMIENTO DEL DELITO POR PARTE INFORMATIVO Y OTROS MEDIOS. Cuando agentes de la Policía Ministerial o de las demás corporaciones policiales tengan conocimiento de hechos posiblemente constitutivos de delito, antes que el Ministerio Público, lo comunicarán con la mayor prontitud a éste mediante parte informativo o por cualquier medio de comunicación a su alcance.
+CONOCIMIENTO DEL DELITO POR PARTE INFORMATIVO Y OTROS MEDIOS. Cuando agentes de la Policía del Estado o de las demás corporaciones policiales tengan conocimiento de hechos posiblemente constitutivos de delito, antes que el Ministerio Público, lo comunicarán con la mayor prontitud a éste mediante parte informativo o por cualquier medio de comunicación a su alcance.
 
 Si se trata de medio distinto al parte informativo escrito, el Ministerio Público deberá dejar constancia de la forma en que los agentes policiales le hubieren informado los hechos de que se trate.
 
-Si la noticia del delito procede de una fuente no identificada o persona anónima, antes de informar al Ministerio Público, el agente de la Policía Ministerial que la reciba deberá confirmarla y hacer constar por escrito el medio por el que la recibió, asentando el día, la hora y los datos que le hubieren sido proporcionados.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+Si la noticia del delito procede de una fuente no identificada o persona anónima, antes de informar al Ministerio Público, el agente de la Policía del Estado que la reciba deberá confirmarla y hacer constar por escrito el medio por el que la recibió, asentando el día, la hora y los datos que le hubieren sido proporcionados.
 
 Cuando el Ministerio Público tome conocimiento de hechos posiblemente delictuosos, por cualquier otro medio, deberá hacer constar las circunstancias en que hubiere tenido noticia de los mismos.
 
@@ -1029,11 +1085,15 @@ El acta que se levante deberá cumplir con todos los requisitos señalados por e
 
 En estos casos el Ministerio Público deberá, además, levantar acta por separado en la que asentará el nombre, apellidos, domicilio, teléfono y demás datos de identificación de la persona que interviene bajo reserva; así como los datos que permitan correlacionarla con la diligencia y expediente correspondientes. Dicha acta deberá ser firmada por los que hubieren participado en la diligencia, con sujeción a lo dispuesto por esta Ley para las firmas y huellas digitales. La constancia que así se levante se colocará, junto con la copia de los documentos de identificación de los comparecientes y un tanto de la diligencia desahogada, en un sobre cerrado con cintilla de pegar, colocándole los sellos de tal forma que impidan su violación y se resguardará en lugar seguro, poniéndola a disposición del Juez correspondiente cuando la indagatoria sea consignada.
 
-La reserva sólo podrá ser levantada por la Autoridad Judicial en los supuestos y bajo los términos que la Ley prevea; pero en cualquier caso el Ministerio Público, con la autorización expresa del Procurador, podrá, durante el proceso, renunciar o desistirse del medio de prueba o de la diligencia que haya desahogado bajo reserva de identidad, cuando considere que las condiciones de riesgo o peligro para el compareciente subsistan.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+La reserva sólo podrá ser levantada por la Autoridad Judicial en los supuestos y bajo los términos que la Ley prevea; pero en cualquier caso el Ministerio Público, con la autorización expresa del Fiscal General, podrá, durante el proceso, renunciar o desistirse del medio de prueba o de la diligencia que haya desahogado bajo reserva de identidad, cuando considere que las condiciones de riesgo o peligro para el compareciente subsistan.
 
 La reserva de identidad sólo procederá cuando se trate de delitos graves.
 
-La reserva de identidad del Agente del Ministerio Público y de los Policías se sujetará a los mismos términos, pero deberá ser previamente autorizada por el Procurador.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+La reserva de identidad del Agente del Ministerio Público y de los Policías se sujetará a los mismos términos, pero deberá ser previamente autorizada por el Fiscal General.
 
 ###### ARTÍCULO 76.
 
@@ -1109,7 +1169,9 @@ Cuando hubieren desaparecido todos los tantos con que cuente el Ministerio Públ
 
 RESERVA DE LA AVERIGUACIÓN PREVIA Y EXPEDICIÓN DE COPIAS. Todas las actuaciones de la Averiguación Previa serán reservadas, salvo para el inculpado, defensor, ofendido y víctima, quienes podrán imponerse de las constancias en presencia del Ministerio Público y con sujeción a lo dispuesto por los artículos 24 y 29 de esta Ley.
 
-El Ministerio Público solo expedirá copias de las indagatorias a los interesados cuando las mismas hayan concluido por determinación de no ejercicio de acción penal que quede firme o por mandamiento judicial. Igualmente podrá expedirlas a instancias administrativas o dependencias públicas que se lo soliciten mediante escrito que describa y razone la necesidad y los fines de su obtención. En este último caso el Delegado o el funcionario que determine el Procurador, determinará si procede o no su autorización.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+El Ministerio Público solo expedirá copias de las indagatorias a los interesados cuando las mismas hayan concluido por determinación de no ejercicio de acción penal que quede firme o por mandamiento judicial. Igualmente podrá expedirlas a instancias administrativas o dependencias públicas que se lo soliciten mediante escrito que describa y razone la necesidad y los fines de su obtención. En este último caso el Delegado o el funcionario que determine el Fiscal General, determinará si procede o no su autorización.
 
 ###### ARTÍCULO 87.
 
@@ -1145,7 +1207,9 @@ VISTAS. Cuando el Agente del Ministerio Público que conozca de la integración 
 
 Si el Agente del Ministerio Público estima que lo procedente es determinar el no ejercicio de la acción penal, emitirá vista por escrito que deberá contener, cuando menos: la clasificación técnica del delito que hubiere sido susceptible de configurarse, incluyendo sus modalidades; la causal por la que considere deba determinarse el no ejercicio de la acción penal; así como el razonamiento correlacionado con las pruebas que obren en la indagatoria, con el que pretenda acreditar dichos extremos. Dicha vista se remitirá, junto con el expediente integrado en debida forma, al funcionario a quien corresponda determinar el no ejercicio de la acción penal.
 
-Cuando el Agente del Ministerio Público estime que procede el archivo provisional de la indagatoria por insuficiencia de medios probatorios, emitirá vista y la remitirá junto con el expediente al Coordinador o al funcionario que designe el Procurador, para los efectos de su aprobación.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+Cuando el Agente del Ministerio Público estime que procede el archivo provisional de la indagatoria por insuficiencia de medios probatorios, emitirá vista y la remitirá junto con el expediente al Coordinador o al funcionario que designe el Fiscal General, para los efectos de su aprobación.
 
 El funcionario a quien corresponda resolver respecto de las vistas referidas en los párrafos anteriores, podrá abstenerse de entrar al estudio de las indagatorias que se le hubieren remitido cuando considere que no se satisfacen los requisitos señalados en la presente disposición, para lo cual bastará acuerdo que señale las deficiencias que hubiere detectado, pudiendo ordenar en el mismo su subsanación o reposición.
 
@@ -1229,7 +1293,9 @@ II. FORMA ESCRITA. La orden de presentación deberá constar por escrito en el q
 
 III. USO DE LA FUERZA PÚBLICA. La orden de presentación supone la autorización para el empleo de la fuerza pública, por lo que la comparecencia de la persona contra quien se hubiere emitido podrá realizarse aún en contra de su voluntad.
 
-IV. EJECUCIÓN. La presentación podrá encomendarse a la Policía Ministerial o a cualquiera de las corporaciones que funjan como auxiliares del Ministerio Público.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+
+IV. EJECUCIÓN. La presentación podrá encomendarse a la Policía del Estado o a cualquiera de las corporaciones que funjan como auxiliares del Ministerio Público.
 
 Quien ejecute la orden deberá identificarse debidamente y mostrar el escrito que la contenga a la persona cuya presentación se le hubiere encomendado; si ésta lo solicita, le proporcionará copia de la misma.
 
@@ -1239,7 +1305,9 @@ Se practicará examen de integridad física, cuando así lo solicite el interesa
 
 V. EFECTOS. La persona que hubiere sido presentada en los términos de este artículo sólo intervendrá con el carácter con el que se le hubiere hecho comparecer y únicamente en la indagatoria en que se hubiere emitido la orden; salvo lo que expresamente autorice el presentado.
 
-Sin sujeción a lo dispuesto en este artículo, la Policía Ministerial podrá presentar a cualquier persona cuando ésta así se lo solicite o acceda voluntariamente a ello.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+Sin sujeción a lo dispuesto en este artículo, la Policía del Estado podrá presentar a cualquier persona cuando ésta así se lo solicite o acceda voluntariamente a ello.
 
 ###### ARTÍCULO 99.
 
@@ -1261,9 +1329,13 @@ Cuando esta ley no señale plazo específico el Juez deberá resolver lo solicit
 
 EJECUCIÓN DE MANDAMIENTOS JUDICIALES. Los mandamientos y acuerdos judiciales cuya ejecución corresponda al Ministerio Público o sus auxiliares, serán transmitidos por conducto del Agente del Ministerio Público adscrito al órgano jurisdiccional de que se trate o del que hubiere comparecido en el expediente del que deriven, quien proveerá lo necesario para que se acaten en sus términos.
 
-Las órdenes de aprehensión, reaprehensión y comparecencia será (sic) entregadas al Ministerio Público dentro de los siete días siguientes a su emisión, quien de inmediato las remitirá al Coordinador o funcionario que determine el Procurador a fin de que asigne su cumplimentación a los agentes de policía ministerial que correspondan y de seguimiento a su ejecución. Los Agentes de Policía Ministerial deberán identificarse debidamente al ejecutar dichas ordenes y dispensar un trato adecuado a los sujetos a las mismas.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
 
-Los agentes de Policía Ministerial deberán informar al funcionario encargado de su seguimiento, dentro de las veinticuatro horas siguientes, las incidencias a motivos que hubieren impedido su ejecución. En su caso, dicho funcionario verificará cada treinta días el estado de las órdenes que se encuentren pendientes de cumplimentación y podrá reasignarlas a otros agentes policiales o determinar lo conducente para lograr su debida ejecución.
+Las órdenes de aprehensión, reaprehensión y comparecencia serán entregadas al Ministerio Público dentro de los siete días siguientes a su emisión, quien de inmediato las remitirá al Coordinador o funcionario que determine el Fiscal General a fin de que asigne su cumplimentación a los Agentes de Policía del Estado que correspondan y de seguimiento a su ejecución. Los Agentes de Policía del Estado deberán identificarse debidamente al ejecutar dichas ordenes y dispensar un trato adecuado a los sujetos a las mismas.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+Los agentes de Policía del Estado deberán informar al funcionario encargado de su seguimiento, dentro de las veinticuatro horas siguientes, las incidencias a motivos que hubieren impedido su ejecución. En su caso, dicho funcionario verificará cada treinta días el estado de las órdenes que se encuentren pendientes de cumplimentación y podrá reasignarlas a otros agentes policiales o determinar lo conducente para lograr su debida ejecución.
 
 ### CAPÍTULO III.
 
@@ -1345,7 +1417,9 @@ PLAZOS PARA LA REALIZACIÓN DE CIERTOS ACTOS DE AVERIGUACION PREVIA. El Minister
 
 I. RENDICIÓN DE DICTÁMENES PERICIALES. Hasta treinta días para la rendición de dictámenes periciales.
 
-II. PARTES INFORMATIVOS. Hasta treinta días para que la Policía Ministerial informe el resultado de sus investigaciones.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+II. PARTES INFORMATIVOS. Hasta treinta días para que la Policía del Estado informe el resultado de sus investigaciones.
 
 III. RESOLUCIÓN DE COMPETENCIAS. Hasta quince días para resolver cuestiones de competencia si el expediente no excede de cien fojas y hasta treinta días si excede de dicha cantidad.
 
@@ -1501,11 +1575,15 @@ RECOLECCIÓN Y OBTENCIÓN DE EVIDENCIA. El Ministerio Público, por sí o por co
 
 INTERVENCIÓN DEL MINISTERIO PÚBLICO Y SUS POLICÍAS AUXILIARES. El Ministerio Público y sus Policías Auxiliares podrán recibir la evidencia a que se refiere el artículo anterior cuando la misma les sea entregada por cualquier persona que la tenga en su poder, para cuyo efecto se levantará acta o parte informativo, según corresponda, en la que se asentarán las circunstancias de su entrega; así como los datos de quien la hubiere entregado y de la forma en que éste refiera haberla obtenido.
 
-De igual forma la Policía Ministerial podrá realizar revisiones físicas a personas y vehículos en lugares públicos, cuando haya motivos suficientes para presumir que lleven ocultos objetos relacionados con el delito del que tengan noticia, debiendo comunicar al Ministerio Público, mediante parte informativo, los resultados obtenidos.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+De igual forma la Policía del Estado podrá realizar revisiones físicas a personas y vehículos en lugares públicos, cuando haya motivos suficientes para presumir que lleven ocultos objetos relacionados con el delito del que tengan noticia, debiendo comunicar al Ministerio Público, mediante parte informativo, los resultados obtenidos.
 
 En los demás casos se procurará que la recolección la efectúe personal de servicios periciales; salvo que de esperar su intervención se corra riesgo de que la evidencia se altere o desaparezca o se ponga en peligro la seguridad de las personas o de sus bienes.
 
-La Policía Ministerial y demás corporaciones auxiliares, así como el personal de Servicios Periciales podrán proceder a la recolección de la evidencia, en los términos a que se refieren los párrafos anteriores, tan pronto tengan conocimiento de la posible comisión de un delito, sin necesidad de mandamiento previo del Ministerio Público; pero deberán comunicarle sin demora los resultados de su intervención y pondrán a su disposición lo que hubieren recolectado.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+La Policía del Estado y demás corporaciones auxiliares, así como el personal de Servicios Periciales podrán proceder a la recolección de la evidencia, en los términos a que se refieren los párrafos anteriores, tan pronto tengan conocimiento de la posible comisión de un delito, sin necesidad de mandamiento previo del Ministerio Público; pero deberán comunicarle sin demora los resultados de su intervención y pondrán a su disposición lo que hubieren recolectado.
 
 En cualquier caso el Ministerio Público podrá estar presente durante la recolección de evidencia y dar fe de ello.
 
@@ -1657,21 +1735,27 @@ USO DE LA FUERZA. Cuando la autoridad que practique el cateo encuentre cerrado e
 
 DE LAS DILIGENCIAS DE POLICÍA.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 150.
 
-CONOCIMIENTO DEL DELITO POR LA POLICÍA. Cuando sea la Policía Ministerial o cualquiera de las corporaciones auxiliares del Ministerio Público quienes primero conozcan del delito, procederán de inmediato a dictar las medidas necesarias para salvaguardar la seguridad de las personas y los bienes que pudieran estar en riesgo, evitar que el delito se consume si ello fuere posible y lograr el aseguramiento de quienes aparezcan como probables responsables de los hechos, en los supuestos que la Ley lo autorice.
+CONOCIMIENTO DEL DELITO POR LA POLICÍA. Cuando sea la Policía del Estado o cualquiera de las corporaciones auxiliares del Ministerio Público quienes primero conozcan del delito, procederán de inmediato a dictar las medidas necesarias para salvaguardar la seguridad de las personas y los bienes que pudieran estar en riesgo, evitar que el delito se consume si ello fuere posible y lograr el aseguramiento de quienes aparezcan como probables responsables de los hechos, en los supuestos que la Ley lo autorice.
 
 De igual forma indagarán qué personas fueron posibles testigos de los hechos, recabando los datos que permitan su identificación y posterior localización. Si recibieren de cualquier persona objetos o evidencia que pudiera estar relacionada con los hechos procederán de acuerdo a lo dispuesto para la recolección de evidencia y la cadena de custodia.
 
 En cualquier caso, dictarán las medidas necesarias para preservar el lugar de los hechos hasta en tanto el Ministerio Público se haga presente y disponga lo conducente. Pero si éste no acudiere al sitio, la Policía que hubiere tomado conocimiento del caso tomará nota de todas las particularidades del mismo que fueren relevantes, sin perjuicio de la intervención que corresponda a los servicios periciales.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 151.
 
-INVESTIGACIÓN POLICIAL. El Ministerio Público podrá ordenar a la Policía Ministerial que realice las investigaciones tendientes a esclarecer los hechos de que tenga conocimiento sin necesidad de detallar las actividades encomendadas; por lo que la Policía podrá desplegar todas aquellas que la Ley le permita y que resulten conducentes.
+INVESTIGACIÓN POLICIAL. El Ministerio Público podrá ordenar a la Policía del Estado que realice las investigaciones tendientes a esclarecer los hechos de que tenga conocimiento sin necesidad de detallar las actividades encomendadas; por lo que la Policía podrá desplegar todas aquellas que la Ley le permita y que resulten conducentes.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 152.
 
-ELABORACIÓN DE PARTES INFORMATIVOS. La Policía Ministerial y las demás corporaciones auxiliares rendirán al Ministerio Público parte informativo en el que describirán los resultados de sus intervenciones.
+ELABORACIÓN DE PARTES INFORMATIVOS. La Policía (sic) Estado y las demás corporaciones auxiliares rendirán al Ministerio Público parte informativo en el que describirán los resultados de sus intervenciones.
 
 ### CAPÍTULO VI.
 
@@ -1727,9 +1811,11 @@ Si el cadáver no fuere reconocido ni se encuentre en condiciones de ser identif
 
 En cualquier caso, las vestimentas podrán ser empleadas para el mismo fin.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 157.
 
-DISPENSA DE NECROPSIA. La necropsia se practicará siempre que exista la presunción de que el fallecimiento implique la posible comisión de un delito. No obstante lo anterior, la misma se podrá omitir siempre que el Ministerio Público que conozca de la indagatoria y el perito médico estimen que la misma es innecesaria. En tal caso será necesario, además, que así lo autorice el Procurador y que el perito dictamine de manera razonada que la muerte fue resultado claro y necesario de las lesiones que presente el occiso.
+DISPENSA DE NECROPSIA. La necropsia se practicará siempre que exista la presunción de que el fallecimiento implique la posible comisión de un delito. No obstante lo anterior, la misma se podrá omitir siempre que el Ministerio Público que conozca de la indagatoria y el perito médico estimen que la misma es innecesaria. En tal caso será necesario, además, que así lo autorice el Fiscal General y que el perito dictamine de manera razonada que la muerte fue resultado claro y necesario de las lesiones que presente el occiso.
 
 ###### ARTÍCULO 158.
 
@@ -1919,7 +2005,9 @@ IV. CARACTERÍSTICAS DEL INCULPADO Y POSIBILIDAD DE CUMPLIMIENTO DE LAS OBLIGACI
 
 FORMA DE LA CAUCIÓN. El Ministerio Público, atendiendo a la naturaleza, modalidades y circunstancias del delito; a las características del inculpado y a la posibilidad de cumplimiento de las obligaciones procedimentales a su cargo; podrá fijar la caución en cualquiera de las siguientes formas:
 
-I. DEPÓSITO EN EFECTIVO. Mediante depósito en efectivo a favor del Fondo Para el Mejoramiento de la Procuración de Justicia en la Secretaría de Finanzas del Gobierno del Estado o en las instituciones de crédito que autorice el Procurador. Cuando la institución en donde deba realizarse el depósito se encuentre cerrada y no exista posibilidad de hacerlo por medios electrónicos, el Ministerio Público recibirá la suma en efectivo y, previa expedición de recibo, ordenará depositarla al primer día hábil siguiente.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+I. DEPÓSITO EN EFECTIVO. Mediante depósito en efectivo a favor del Fondo Para el Mejoramiento de la Procuración de Justicia en la Secretaría de Finanzas del Gobierno del Estado o en las instituciones de crédito que autorice el Fiscal General. Cuando la institución en donde deba realizarse el depósito se encuentre cerrada y no exista posibilidad de hacerlo por medios electrónicos, el Ministerio Público recibirá la suma en efectivo y, previa expedición de recibo, ordenará depositarla al primer día hábil siguiente.
 
 II. FIANZA. Mediante póliza expedida por compañía afianzadora en la que se consigne expresamente que se acepta sin reserva la afectación de la garantía a la reparación del daño; así como a los demás riesgos y consecuencias que se señalen en el presente capítulo. En estos casos será necesario, además, que en la póliza se consigne en forma expresa que se acepta sin reserva pagar el monto de la fianza tan pronto así se le requiera por el Ministerio Público al agente o representante de aquélla que extienda la póliza; renunciando al procedimiento de ejecución de la Ley de Fianzas y al fuero de su domicilio.
 
@@ -1969,17 +2057,21 @@ II. RIESGO FUNDADO DE SUSTRACCIÓN. Que exista riesgo fundado que el indiciado s
 
 III. IMPOSIBILIDAD DE ACUDIR AL JUEZ. Que, demostrado el cuerpo del delito, haya indicio grave de que el indiciado intervino y se espere hacer probable su responsabilidad penal dentro de las cuarenta y ocho horas siguientes; o que demostrada aquella, además del cuerpo del delito, por razón de la hora o lugar no se pueda acudir ante el Juez a solicitar la orden de aprehensión.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 183.
 
-EJECUCIÓN DE LA ORDEN DE DETENCIÓN POR CASO URGENTE Y TIEMPO DE LA DETENCIÓN. La orden de detención por caso urgente la ejecutará la Policía Ministerial. La detención del indiciado podrá durar hasta cuarenta y ocho horas, desde que se efectúe. Dentro de ese plazo el Ministerio Público ordenará su libertad o lo pondrá a disposición del juzgador.
+EJECUCIÓN DE LA ORDEN DE DETENCIÓN POR CASO URGENTE Y TIEMPO DE LA DETENCIÓN. La orden de detención por caso urgente la ejecutará la Policía del Estado. La detención del indiciado podrá durar hasta cuarenta y ocho horas, desde que se efectúe. Dentro de ese plazo el Ministerio Público ordenará su libertad o lo pondrá a disposición del juzgador.
 
 ### CAPÍTULO III.
 
 DEL ARRAIGO.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 184.
 
-ARRAIGO DEL INDICIADO. Cuando se trate de delito grave y siempre que sea necesario para el éxito de la investigación, la protección de personas o bienes jurídicos, o cuando exista riesgo fundado de que el inculpado se sustraiga de la acción de la justicia, el Ministerio Público podrá pedir motivadamente al juzgador, que decrete el arraigo con vigilancia de la autoridad. La que ejercerán el Ministerio Público y la Policía Ministerial. La petición de arraigo se resolverá dentro de las tres horas siguientes.
+ARRAIGO DEL INDICIADO. Cuando se trate de delito grave y siempre que sea necesario para el éxito de la investigación, la protección de personas o bienes jurídicos, o cuando exista riesgo fundado de que el inculpado se sustraiga de la acción de la justicia, el Ministerio Público podrá pedir motivadamente al juzgador, que decrete el arraigo con vigilancia de la autoridad. La que ejercerán el Ministerio Público y la Policía del Estado. La petición de arraigo se resolverá dentro de las tres horas siguientes.
 
 El arraigo se otorgará por el tiempo que el Ministerio Público estime indispensable para integrar la indagatoria; sin que pueda exceder de cuarenta días. En la solicitud se anunciarán las diligencias que se estime necesario practicar, pero tal enunciación no será vinculatoria para el Ministerio Público, por lo que podrá desahogar diligencias distintas u omitir las anunciadas.
 
@@ -1989,7 +2081,9 @@ Más si el Ministerio Público ejercita acción penal contra el inculpado antes 
 
 MODALIDADES DE ARRAIGO DEL INDICIADO. El arraigo podrá consistir en una o más de las modalidades siguientes:
 
-1) Que el indiciado se sujete a la vigilancia de la Policía Ministerial y evite salir de la ciudad sin permiso del Ministerio Público. 2) Que se presente periódicamente a la oficina del Ministerio Público. En la petición de arraigo se precisará el lugar y la periodicidad. 3) Que el indiciado permanezca en su domicilio, con o sin traslado al lugar de trabajo, de educación o capacitación. A los mayores de setenta años de edad sólo se les podrá aplicar esta medida. 4) Que permanezca en habitación de hotel o en casa habilitada para el efecto por parte del Ministerio Público y a su costa. 6) Que se sujete a vigilancia por medio de brazalete o dispositivo electrónico de localización.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+1) Que el indiciado se sujete a la vigilancia de la Policía del Estado y evite salir de la ciudad sin permiso del Ministerio Público. 2) Que se presente periódicamente a la oficina del Ministerio Público. En la petición de arraigo se precisará el lugar y la periodicidad. 3) Que el indiciado permanezca en su domicilio, con o sin traslado al lugar de trabajo, de educación o capacitación. A los mayores de setenta años de edad sólo se les podrá aplicar esta medida. 4) Que permanezca en habitación de hotel o en casa habilitada para el efecto por parte del Ministerio Público y a su costa. 6) Que se sujete a vigilancia por medio de brazalete o dispositivo electrónico de localización.
 
 El Ministerio Público precisará y motivará en la petición al Juez, las medidas de arraigo que estime conducentes.
 
@@ -2021,9 +2115,11 @@ INTERVENCIÓN DE COMUNICACIONES PRIVADAS.
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 189.
 
-INTERVENCIÓN DE COMUNICACIONES. El Procurador General de Justicia podrá solicitar al Juez de Distrito en turno, la autorización de intervención de comunicaciones privadas de las personas que aparezcan como inculpadas y de aquellas otras que puedan aportar datos para la comprobación del cuerpo del delito y la probable responsabilidad de los inculpados.
+INTERVENCIÓN DE COMUNICACIONES. El Fiscal General podrá solicitar al Juez de Distrito en turno, la autorización de intervención de comunicaciones privadas de las personas que aparezcan como inculpadas y de aquellas otras que puedan aportar datos para la comprobación del cuerpo del delito y la probable responsabilidad de los inculpados.
 
 La solicitud de intervención de comunicaciones privadas, deberá contener:
 
@@ -2037,7 +2133,9 @@ IV. El objeto y la necesidad de la intervención.
 
 V. El tipo de comunicaciones, los sujetos y los lugares que serán intervenidos.
 
-VI. El período durante el cual se llevarán a cabo las intervenciones. Éste podrá ser prorrogado, sin que él mismo, incluyendo sus prórrogas, pueda exceder de seis meses; después de dicho plazo, solo se podrán autorizarse nuevas intervenciones cuando el Procurador General de Justicia del Estado, acredite nuevos elementos que así lo justifiquen.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+VI. El período durante el cual se llevarán a cabo las intervenciones. Éste podrá ser prorrogado, sin que él mismo, incluyendo sus prórrogas, pueda exceder de seis meses; después de dicho plazo, solo se podrán autorizarse (sic) nuevas intervenciones cuando el Fiscal General, acredite nuevos elementos que así lo justifiquen.
 
 VII. En su caso, las instituciones públicas o privadas referentes al ramo de comunicaciones de que se trate y los modos específicos en que colaborarán en la Intervención de comunicaciones privadas.
 
@@ -2329,9 +2427,11 @@ III. Cuando tenga obligación de guardar secreto profesional.
 
 El motivo de abstención se deberá de comprobar en forma eficaz con medios de prueba conducentes. Sin embargo, no podrán abstenerse de declarar cuando el delito no se pueda comprobar de otra manera; salvo que se trate de quienes deban guardar el secreto profesional.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 223.
 
-TESTIMONIO POR ESCRITO DE ALGUNOS SERVIDORES PÚBLICOS. Se solicitará que rindan testimonio por escrito, previo interrogatorio que se les envíe, o se acudirá al lugar de trabajo a tomarles testimonio: al Gobernador, Diputados, Magistrados, Procurador y Subprocuradores; Secretarios y Subsecretarios del Ejecutivo Estatal; Jueces, Directores Generales de la Administración Central Estatal, Presidentes Municipales, Regidores o Síndicos; así como a los Directores o Representantes de entidades paraestatales o paramunicipales; descentralizadas o desconcentradas.
+TESTIMONIO POR ESCRITO DE ALGUNOS SERVIDORES PÚBLICOS. Se solicitará que rindan testimonio por escrito, previo interrogatorio que se les envíe, o se acudirá al lugar de trabajo a tomarles testimonio: al Gobernador, Diputados, Magistrados, Fiscal General y Fiscales Especializados; Secretarios y Subsecretarios del Ejecutivo Estatal; Jueces, Directores Generales de la Administración Central Estatal, Presidentes Municipales, Regidores o Síndicos; así como a los Directores o Representantes de entidades paraestatales o paramunicipales; descentralizadas o desconcentradas.
 
 ###### ARTÍCULO 224.
 
@@ -2535,9 +2635,11 @@ DE LAS PERICIALES.
 
 INTERVENCIÓN DE PERITOS. Siempre que sea necesario dilucidar alguna cuestión para la que se requieran conocimientos especiales en determinada ciencia, técnica o arte; se procederá con intervención de peritos, quienes mediante dictamen suministrarán argumentos o razones para la formación de convencimiento respecto del objeto de su peritaje.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 253.
 
-DESIGNACIÓN DE PERITOS. Cuando se requiera la intervención de peritos durante la Averiguación Previa, el Ministerio Público designará para la práctica de los peritajes, a los peritos oficiales que laboren en la Procuraduría General de Justicia del Estado. Sólo a falta de ellos podrá designar perito de acuerdo a la prelación que establece el Código de Procedimientos Penales, los cuales acreditarán su capacidad conforme a lo dispuesto por el mismo ordenamiento jurídico.
+DESIGNACIÓN DE PERITOS. Cuando se requiera la intervención de peritos durante la Averiguación Previa, el Ministerio Público designará para la práctica de los peritajes, a los peritos oficiales que laboren en la Fiscalía General. Sólo a falta de ellos podrá designar perito de acuerdo a la prelación que establece el Código de Procedimientos Penales, los cuales acreditarán su capacidad conforme a lo dispuesto por el mismo ordenamiento jurídico.
 
 El servicio pericial dentro de la Averiguación Previa es de interés público.
 
@@ -2565,7 +2667,9 @@ DESIGNACIÓN, ACEPTACIÓN, PROTESTA Y RATIFICACIÓN. Al designar perito, el Mini
 
 Los peritos oficiales que presten sus servicios o trabajen en cualquiera de las dependencias públicas a que se refiere el Código de Procedimientos Penales, se entenderá que por ese solo hecho aceptan y protestan legalmente el cargo conferido. En los demás casos será necesario que manifiesten ante el Ministerio Público su aceptación y rindan protesta de cumplir su fiel y legal desempeño.
 
-La ratificación del dictamen pericial sólo será necesaria cuando se trate de peritos que no laboren en la Procuraduría General de Justicia del Estado; pero el Ministerio Público podrá ordenar que aún en esos casos se ratifiquen.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+La ratificación del dictamen pericial sólo será necesaria cuando se trate de peritos que no laboren en la Fiscalía General; pero el Ministerio Público podrá ordenar que aún en esos casos se ratifiquen.
 
 En casos urgentes la protesta podrá rendirse al producir o ratificar el dictamen.
 
@@ -2655,9 +2759,11 @@ DE LA SUSPENSIÓN Y CONCLUSIÓN DE LA AVERIGUACIÓN PREVIA.
 
 DEL ARCHIVO PROVISIONAL POR RESERVA.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 269.
 
-ARCHIVO PROVISIONAL POR RESERVA. El Ministerio Público procederá al archivo provisional de la indagatoria cuando, desahogadas las diligencias oficiosas de especial diligenciación que sean conducentes y agotadas las investigaciones que se deriven de lo actuado en el expediente, exista insuficiencia de prueba para determinar el ejercicio o no ejercicio de la acción penal. Para el efecto, quien conozca de su integración formulara vista de archivo provisional y la turnará al Coordinador o al funcionario que designe el Procurador, quien dictará el acuerdo correspondiente.
+ARCHIVO PROVISIONAL POR RESERVA. El Ministerio Público procederá al archivo provisional de la indagatoria cuando, desahogadas las diligencias oficiosas de especial diligenciación que sean conducentes y agotadas las investigaciones que se deriven de lo actuado en el expediente, exista insuficiencia de prueba para determinar el ejercicio o no ejercicio de la acción penal. Para el efecto, quien conozca de su integración formulara vista de archivo provisional y la turnará al Coordinador o al funcionario que designe el Fiscal General, quien dictará el acuerdo correspondiente.
 
 ###### ARTÍCULO 270.
 
@@ -2667,9 +2773,11 @@ El archivo provisional por reserva se levantará, sin necesidad de acuerdo previ
 
 Al decretarse el archivo provisional por reserva se procurará que la información que se desprenda de la indagatoria se incorpore a las bases de datos que para el efecto se lleven.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 271.
 
-REVISIÓN DEL ARCHIVO PROVISIONAL POR RESERVA. La Dirección de Averiguaciones Previas o la instancia que determine el Procurador revisará periódicamente las indagatorias en que se halla decretado el archivo provisional por reserva, para valorar el estado que guarden las mismas.
+REVISIÓN DEL ARCHIVO PROVISIONAL POR RESERVA. La Dirección General de Averiguaciones Previas o la instancia que determine el Fiscal General revisará periódicamente las indagatorias en que se haya decretado el archivo provisional por reserva, para valorar el estado que guarden las mismas.
 
 ### CAPÍTULO II.
 
@@ -2695,7 +2803,9 @@ PLAZO. El recurso de reclamación podrá interponerse en cualquier momento, a pa
 
 SUBSTANCIACIÓN DEL RECURSO. El recurso de reclamación deberá interponerse por escrito en el que se expresen las causas que lo motiven y la relación de las diligencias que, a juicio del promovente, sea procedente practicar.
 
-Deberá interponerse ante el Delegado que corresponda o ante el Director de Averiguaciones Previas cuando la indagatoria se integre por Agente del Ministerio Público que no se encuentre adscrito a Delegación, quien, previa revisión de la averiguación previa, resolverá lo procedente en un plazo no mayor a quince días contados a partir de la interposición del recurso.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+Deberá interponerse ante el Delegado que corresponda o ante el Director General de Averiguaciones Previas cuando la indagatoria se integre por Agente del Ministerio Público que no se encuentre adscrito a Delegación, quien, previa revisión de la averiguación previa, resolverá lo procedente en un plazo no mayor a quince días contados a partir de la interposición del recurso.
 
 En la resolución que se emita deberá determinarse si procede el archivo provisional por reserva de la indagatoria, la emisión de vista de ejercicio o no ejercicio de acción penal o el desahogo de nuevas diligencias con señalamiento de las mismas; y se fijará plazo al Agente del Ministerio Público que conozca de la indagatoria para que cumpla con ello.
 
@@ -2713,7 +2823,9 @@ Lo anterior podrá hacerlo con relación a uno o varios hechos o a alguna, algun
 
 CARÁCTER REGLADO DEL PRINCIPIO DE OPORTUNIDAD. La facultad a que se refiere el artículo anterior sólo podrá ejercerse con base en los criterios de oportunidad expresamente señalados por la Ley.
 
-El Procurador podrá emitir pautas generales para objetivar y uniformar la aplicación de tales criterios.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+El Fiscal General podrá emitir pautas generales para objetivar y uniformar la aplicación de tales criterios.
 
 ###### ARTÍCULO 278.
 
@@ -2747,7 +2859,9 @@ III. Cuando el inculpado haya prestado o brinde auxilio efectivo para obtener ot
 
 IV. Cuando el inculpado haya prestado o brinde auxilio efectivo para establecer la identidad o localización de autores o partícipes en otro delito de análoga o mayor gravedad.
 
-En los casos a que se refieren las fracciones II, III y IV del apartado B del presente artículo será necesario, además: 1) que no estén previamente identificados, localizados o acreditada la intervención de los autores o partícipes; ni se hayan obtenido ya los medios de prueba sobre los que se da información; 2) que se verifique la utilidad del auxilio; 3) que el inculpado no sea jefe o cabecilla en grupo o banda de secuestradores, de ladrones o asaltantes; de pandilla criminal o de asociación delictuosa; y 4) que así lo autorice el Procurador.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+En los casos a que se refieren las fracciones II, III y IV del apartado B del presente artículo será necesario, además: 1) que no estén previamente identificados, localizados o acreditada la intervención de los autores o partícipes; ni se hayan obtenido ya los medios de prueba sobre los que se da información; 2) que se verifique la utilidad del auxilio; 3) que el inculpado no sea jefe o cabecilla en grupo o banda de secuestradores, de ladrones o asaltantes; de pandilla criminal o de asociación delictuosa; y 4) que así lo autorice el Fiscal General.
 
 ### CAPÍTULO IV.
 
@@ -2827,7 +2941,9 @@ I. TRABAJO EN FAVOR DE LA COMUNIDAD. Por trabajo en favor de la comunidad, la qu
 
 El trabajo se prestará en horarios que no interfieran con las actividades laborales o académicas del inculpado y su duración se determinará por equivalencia con la multa correspondiente a razón de una hora de trabajo por día multa.
 
-II. SOMETIMIENTO A TRATAMIENTOS O TERAPIAS ESPECÍFICAS. Por el sometimiento a tratamientos, programas o terapias psicológicas contra la violencia o las adicciones, grupales o familiares; o a cualquier tipo de programa cuyo objetivo sea incidir en alguno o algunos de los aspectos del comportamiento humano relacionados con el delito cometido; siempre que sean proporcionadas por instituciones públicas o privadas debidamente acreditadas ante la Procuraduría para el efecto.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+
+II. SOMETIMIENTO A TRATAMIENTOS O TERAPIAS ESPECÍFICAS. Por el sometimiento a tratamientos, programas o terapias psicológicas contra la violencia o las adicciones, grupales o familiares; o a cualquier tipo de programa cuyo objetivo sea incidir en alguno o algunos de los aspectos del comportamiento humano relacionados con el delito cometido; siempre que sean proporcionadas por instituciones públicas o privadas debidamente acreditadas ante la Fiscalía General para el efecto.
 
 En este caso el Ministerio Público remitirá al inculpado a la institución que corresponda; la que deberá informar a aquél la duración y periodicidad del tratamiento; así como el cumplimiento del mismo.
 
@@ -2881,9 +2997,13 @@ VII. OTROS QUE PREVEA LA LEY. Cuando se dé algún otro motivo que prevean esta 
 
 PROCEDIMIENTO. Cuando exista alguna de las causas a que se refiere el artículo anterior, el Ministerio Público que conozca de la indagatoria emitirá vista de no ejercicio de acción penal en los términos señalados en el artículo 92 de esta Ley y la remitirá, junto con el expediente correspondiente, al funcionario a quien competa resolver.
 
-En los casos de las fracciones I, V y VI del artículo anterior compete resolver y, en su caso, determinar en definitiva el no ejercicio de la acción penal, al Coordinador de Agentes del Ministerio Público que corresponda; pero si el Agente emisor de la vista no se encuentra adscrito a alguna Delegación, será el Director de Averiguaciones Previas el competente para el efecto. En los demás casos será el Subprocurador de Control de Procesos y Legalidad quien resuelva y, en su caso, determine el no ejercicio de la acción penal.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
 
-En cualquier caso, el Procurador o el Subprocurador de Control de Procesos y Legalidad podrán ejercer la facultad de atracción para determinar el ejercicio o no ejercicio de la acción penal.
+En los casos de las fracciones I, V y VI del artículo anterior compete resolver y, en su caso, determinar en definitiva el no ejercicio de la acción penal, al Coordinador de Agentes del Ministerio Público que corresponda; pero si el Agente emisor de la vista no se encuentra adscrito a alguna Delegación, será el Director General de Averiguaciones Previas el competente para el efecto. En los demás casos será el Fiscal de Control de Procesos y Legalidad quien resuelva y, en su caso, determine el no ejercicio de la acción penal.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+En cualquier caso, el Fiscal General o el Fiscal de Control de Procesos y Legalidad podrán ejercer la facultad de atracción para determinar el ejercicio o no ejercicio de la acción penal.
 
 Emitida la vista de no ejercicio de acción penal y remitida la indagatoria al funcionario a quien competa resolver, no podrán admitirse medios de prueba ni promociones o alegatos por parte de los interesados.
 
@@ -2909,11 +3029,17 @@ INTERPOSICIÓN DEL RECURSO Y PLAZO PARA INTERPONERLO. El ofendido o víctima, po
 
 La falta de agravios, motivará que el recurso se declare desierto. Esta declaración la hará el Tribunal Distrital. Sin embargo, el Tribunal Distrital podrá suplir la deficiencia de los agravios que sí se presenten.
 
-El recurso se interpondrá ante la dependencia de la Procuraduría que resolvió el no-ejercicio, o ante la Agencia del Ministerio Público que integró la averiguación.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
 
-El Agente del Ministerio Público o la dependencia de la Procuraduría que resuelva el no-ejercicio; dentro de los tres días siguientes de recibir el recurso, mandarán notificar personalmente a los inculpados si tienen su domicilio en el lugar y ya hayan comparecido con tal carácter. En su defecto, notificarán por lista en la propia dependencia.
+El recurso se interpondrá ante la dependencia de la Fiscalía General que resolvió el no-ejercicio, o ante la Agencia del Ministerio Público que integró la averiguación.
 
-Si se interpone el recurso ante el Agente del Ministerio Público que integró la averiguación, una vez que notifique, lo remitirá de inmediato a la dependencia de la Procuraduría que legalmente le corresponda la determinación de no-ejercicio de la acción penal.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+El Agente del Ministerio Público o la dependencia de la Fiscalía General que resuelva el no-ejercicio; dentro de los tres días siguientes de recibir el recurso, mandarán notificar personalmente a los inculpados si tienen su domicilio en el lugar y ya hayan comparecido con tal carácter. En su defecto, notificarán por lista en la propia dependencia.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+Si se interpone el recurso ante el Agente del Ministerio Público que integró la averiguación, una vez que notifique, lo remitirá de inmediato a la dependencia de la Fiscalía General que legalmente le corresponda la determinación de no-ejercicio de la acción penal.
 
 En cualquier caso, corresponderá a quien hubiere emitido la determinación definitiva de no ejercicio de la acción penal remitir el recurso al Tribunal Distrital que siga en número al de la jurisdicción territorial donde se debería ejercitar la acción penal. A él adjuntará el expediente de Averiguación Previa y las constancias de las notificaciones personales al ofendido y/o víctimas e inculpados; o la razón de que se hicieron por lista.
 
@@ -2969,15 +3095,21 @@ EJERCICIO DE LA ACCIÓN PENAL. El Ministerio Público ejercitará la acción pen
 
 DESISTIMIENTO DE LA ACCIÓN PENAL. El Ministerio Público no podrá formular conclusiones no acusatorias; pero podrá desistirse de la acción penal, en los términos que determine el Código de Procedimientos Penales, cuando concurra alguna de las causas señaladas por las fracciones I, II, III, IV y VII del artículo 290 de esta Ley.
 
-El desistimiento de la acción penal deberá ser autorizado por el Procurador.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+El desistimiento de la acción penal deberá ser autorizado por el Fiscal General.
 
 # LIBRO SEGUNDO.
 
 DE LA ORGANIZACIÓN DEL MINISTERIO PÚBLICO.
 
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 12 DE MAYO DE 2009)</small>
+
 ## TÍTULO PRIMERO.
 
 DISPOSICIONES GENERALES.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE MAYO DE 2009)</small>
 
 ### CAPÍTULO ÚNICO.
 
@@ -2985,73 +3117,19 @@ DEL MINISTERIO PÚBLICO.
 
 ###### ARTÍCULO 304.
 
-INSTITUCIÓN DEL MINISTERIO PÚBLICO. El Ministerio Público del Estado es una Institución de buena fe, única, indivisible y funcionalmente independiente, que representa al interés social en el ejercicio de las atribuciones que le confieren la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado y los demás ordenamientos aplicables.
-
-A él compete la investigación y persecución ante los Tribunales, de los delitos del orden común y, a través del Ministerio Público Especializado, de las conductas tipificadas como delitos cometidas por los menores de dieciocho años.
-
-Compete también al Ministerio Público velar por la legalidad y por los intereses de los menores, ausentes e incapaces en los términos y ámbitos que la Ley señale; participar en el diseño, implementación y evaluación de la política criminal del Estado; así como ejercer las demás atribuciones que dispongan los ordenamientos jurídicos.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 305.
 
-AGENTES DEL MINISTERIO PÚBLICO. El Ministerio Público ejercerá sus atribuciones a través de los funcionarios dotados de fe pública que funjan como sus Agentes, independientemente de la denominación específica, cargo o jerarquía que ostenten.
-
-Para todos los efectos legales son y tienen el carácter de Agentes del Ministerio Público, además de los designados como tales, el Procurador General de Justicia del Estado, los Subprocuradores, Directores y Subdirectores Generales, Regionales y de Área; Delegados, Subdelegados, Coordinadores, Jefes y Subjefes de Departamento y en general los titulares de las Áreas, Dependencias o Unidades que tengan encomendada cualquiera de las atribuciones a que se refiere el artículo 7 de esta ley.
-
-Se exceptúan de lo anterior los Directores, titulares y personal de las áreas de Servicios Periciales y Policía Ministerial, así como los que no reúnan los requisitos señalados en el artículo 331 de este ordenamiento.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 306.
 
-AUXILIARES Y APOYOS JURÍDICOS, ADMINISTRATIVOS Y TÉCNICOS DEL MINISTERIO PÚBLICO. El Ministerio Público cuenta con los siguientes auxiliares y apoyos:
-
-A. Directos:
-
-I. La Policía Ministerial del Estado.
-
-II. Los Servicios Periciales.
-
-B. Complementarios:
-
-I. Los Síndicos de los Ayuntamientos.
-
-II. Las Policías Preventivas del Estado y de los Municipios.
-
-III. Las demás autoridades que prevengan las leyes.
-
-C. Jurídicos:
-
-I. Las áreas o unidades que realicen funciones normativas, jurídicas o de consulta.
-
-II. (sic) los asesores internos o externos en materia legal.
-
-III. Las áreas de vinculación y de relaciones interinstitucionales.
-
-D. Técnicos:
-
-I. Las áreas o unidades de planeación y de elaboración de políticas públicas.
-
-II. Las áreas o unidades de atención y apoyo a ofendidos y víctimas del delito.
-
-III. Las áreas o unidades de mediación, conciliación y de apoyo para la solución de controversias.
-
-IV. Las áreas de capacitación y profesionalización.
-
-V. Las áreas de estadística, sistemas, logística y archivo.
-
-E. Administrativos:
-
-I. Las áreas de gestión y administración de recursos humanos y materiales.
-
-II. Las áreas de comunicación social, relaciones públicas, control de agenda y atención al público.
-
-F. Otros:
-
-I. Las demás áreas o unidades que sean necesarias para el eficaz ejercicio de sus atribuciones.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 307.
 
-CONSEJOS INTERNOS. La Procuraduría podrá contar, además, con los Consejos Internos, Comités o Comisiones integrados colegiadamente por los servidores públicos que determinen las normas reglamentarias, complementarias o el Procurador; para atender los asuntos que se les encomienden. Dichos Consejos, Comités o Comisiones tendrán facultades decisorias y ejecutivas cuando así lo dispongan las normas aplicables o el Procurador.
-
-A sus sesiones podrán ser invitados los profesionistas, expertos, especialistas o cualquier persona cuya asesoría se estime conveniente o necesaria para la resolución de los asuntos de su competencia.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ### CAPÍTULO I.
 
@@ -3059,145 +3137,51 @@ DE LA ORGANIZACIÓN DEL MINISTERIO PÚBLICO.
 
 ###### ARTÍCULO 308.
 
-CONSEJO CONSULTIVO DE PROCURACIÓN DE JUSTICIA. La Institución podrá contar, también, con un Consejo Consultivo de Procuración de Justicia, integrado con representantes de los distintos sectores sociales; cuyo objetivo será coadyuvar en la planeación, organización, ejecución, evaluación y control de los planes, programas y acciones en materia de procuración de justicia.
-
-Su integración y atribuciones serán definidos por las disposiciones reglamentarias y complementarias de la presente Ley.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 309.
 
-MANDO DIRECTO. El Ministerio Público tendrá la autoridad y el mando directo de la Policía Ministerial y de los Servicios Periciales y dispondrá de los demás apoyos y auxiliares en los términos que este y los demás ordenamientos legales establezcan.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
-Los Agentes del Ministerio Público en la investigación de los delitos y de las conductas tipificadas como tales, asumirán el mando directo de la Policía Ministerial y de los Servicios Periciales, sin que por ningún motivo queden subordinados, directa o indirectamente a un agente o funcionario de éstos, cualquiera que sea al cargo o jerarquía administrativa que ostenten.
-
-Los Agentes del Ministerio Público no podrán ser coartados ni impedidos en el ejercicio de sus funciones por ninguna autoridad pública; en consecuencia, las autoridades estatales y municipales, les prestarán sin demora la colaboración que requieran para el mejor cumplimiento de sus funciones.
-
-Los peritos en ejercicio de su encargo, tienen autonomía técnica, por lo que las órdenes del Ministerio Público no afectarán los criterios que emitan en sus dictámenes.
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 310.
 
-ORGANIZACIÓN DEL MINISTERIO PÚBLICO. El Ministerio Público, sus auxiliares y apoyos jurídicos, administrativos y técnicos, con excepción de los complementarios, estarán organizados en una dependencia de la Administración Pública Estatal que se denominará Procuraduría General de Justicia del Estado.
-
-Al frente de dicha dependencia y del Ministerio Público estará el Procurador General de Justicia del Estado, cuya autoridad se extiende a todos los servidores públicos que conforman una y otro.
-
-El Procurador General de Justicia ejercerá sus atribuciones con base en lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado de Coahuila de Zaragoza, en la Ley Orgánica de la Administración Pública Estatal, en la presente ley y en otros ordenamientos jurídicos. Sus procedimientos serán eficaces y expeditos, procurando la simplificación y rapidez en sus actuaciones.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 311.
 
-DENOMINACIÓN. La denominación de Procuraduría General de Justicia del Estado identifica tanto a la propia Institución del Ministerio Público como a la forma de organización administrativa que asume, por lo que podrán utilizarse indistintamente para designar a una y otra. Lo anterior sin perjuicio de las funciones de consejería jurídica, representación y demás atribuciones que sin ser propias del Ministerio Público se encuentren conferidas a la Procuraduría General de Justicia del Estado.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 312.
 
-TITULARIDAD. El Procurador General de Justicia del Estado será:
-
-I. El Jefe del Ministerio Público.
-
-II. Representante del Gobierno del Estado.
-
-III. El Consejero Jurídico del Gobierno del Estado.
-
-IV. El titular y representante de la Procuraduría General de Justicia del Estado.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 313.
 
-ESTRUCTURA ORGANICA. La Institución se organizará bajo los principios de desconcentración territorial y funcional, en cuanto ello coadyuve al eficaz ejercicio de sus atribuciones, preferentemente conforme a las adscripciones que señala la siguiente estructura orgánica:
-
-A. Administración Central:
-
-I. Despacho del Procurador, dependiente directamente de éste y conformado por las siguientes Áreas:
-
-Secretaría Particular.
-
-Dirección de Vinculación.
-
-Dirección de Comunicación Social.
-
-Dirección General Administrativa.
-
-Dirección General de Informática y Sistemas.
-
-Dirección General de Política Criminal.
-
-Dirección General de Responsabilidades.
-
-Dirección General de Investigaciones.
-
-Agencias del Ministerio Público Adscritas al Despacho.
-
-II. Subprocuraduría Ministerial, que tendrá bajo su mando las siguientes áreas:
-
-Dirección General de Averiguaciones Previas.
-
-Dirección General de Policía Ministerial.
-
-Dirección General de Servicios Periciales.
-
-Dirección General de Combate al Robo de Vehículos.
-
-Agencias del Ministerio Público Adscritas a la Subprocuraduría Ministerial.
-
-III. Subprocuraduría de Control de Procesos y Legalidad, que tendrá bajo su mando las siguientes áreas:
-
-Dirección General de Control de Procesos.
-
-Dirección General de Control de la Legalidad.
-
-Agencias del Ministerio Público Adscritas a la Subprocuraduría de Control de Procesos y legalidad.
-
-IV. Subprocuraduría Jurídica, de Profesionalización y de Proyectos; que tendrá bajo su mando las siguientes áreas:
-
-Dirección General Jurídica, Consultiva y de Derechos Humanos.
-
-Dirección General de Prevención del Delito y Atención a Víctimas y Ofendidos.
-
-Instituto de Mediación.
-
-Instituto de Estudios Penales y Formación Profesional.
-
-Dirección de Administración Documental.
-
-Agentes del Ministerio Público Adscritos a la Subprocuraduría Jurídica, de Profesionalización y de Proyectos.
-
-B. Unidades Desconcentradas:
-
-I. Direcciones Regionales.
-
-II. Delegaciones Regionales.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 314.
 
-LÍNEA JERARQUICA. Las Unidades Desconcentradas estarán bajo el mando directo y la supervisión de las dependencias que conforman la Administración Centralizada, en el ámbito de sus respectivas competencias y actuarán bajo los lineamientos que las mismas emitan.
-
-El personal, cualquiera que sea su naturaleza y categoría, que conforme las Dependencias de la Administración Centralizada o las Unidades Desconcentradas, estará sujeto al mando y dirección de sus titulares y del personal situado en escala superior de la línea jerárquica.
-
-Los auxiliares y apoyos jurídicos, administrativos, técnicos y de diversa naturaleza; estarán siempre bajo el mando y dirección de los Agentes del Ministerio Público a quienes se encuentren asignados; salvo disposición expresa del titular del Área, Dependencia o Unidad a que éstos se encuentren adscritos.
-
-Cuando exista conflicto de mandos o instrucciones, resolverá lo conducente el funcionario que se ubique jerárquicamente por encima de los involucrados.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 315.
 
-SISTEMA DE ESPECIALIZACIÓN. La Institución contará, además, con las Unidades, Coordinaciones y Agencias del Ministerio Público Especiales y Especializadas, por materia o por especificidad de funciones, en los términos que determinen los ordenamientos jurídicos aplicables o el Procurador General de Justicia del Estado.
-
-Las Unidades, Coordinaciones y Agencias del Ministerio Público Especiales y Especializadas estarán adscritas a la Administración Centralizada o a las Unidades Desconcentradas, según lo determine el acto de su creación o el Procurador.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 316.
 
-ADSCRIPCIÓN DE PERSONAL. Las Dependencias y Áreas de la Administración Central y las Unidades Desconcentradas contarán con los Subtitulares, Coordinadores, Mandos, Empleados, Agentes del Ministerio Público y personal auxiliar y de apoyos jurídicos, administrativos, técnicos y de diversa naturaleza; que determinen el presupuesto, el Procurador o las disposiciones jurídicas aplicables.
-
-Cuando las necesidades del servicio lo requieran, el personal adscrito a dichas Áreas, Dependencias y Unidades podrán auxiliar y ejercer sus facultades en apoyo a cualquiera otra de las similares que conformen la Institución.
-
-Los Coordinadores y Agentes del Ministerio Público que se encuentren Adscritos a los Órganos Jurisdiccionales cuya circunscripción abarque diversas Delegaciones, dependerán de las Direcciones Generales, Regionales o Delegados que determine el Procurador.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 317.
 
-CREACIÓN Y TRANSFORMACIÓN DE AREAS, UNIDADES Y DEPENDENCIAS. El Ejecutivo del Estado podrá, para la buena marcha del servicio, establecer nuevas Áreas, Dependencias o Unidades administrativas; separar o unir las existentes, transformarlas en su estructura o cambiarlas de nomenclatura.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
-De igual forma el Procurador podrá crear, suprimir y transformar Coordinaciones y Agencias del Ministerio Público; proveer y variar la denominación que reciban y modificar la estructura interna de las Áreas, Dependencias y Unidades establecidas; así como acotar, condicionar o restringir las atribuciones que tengan conferidas.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 318.
 
-ASIGNACIÓN DE ATRIBUCIONES. Las atribuciones y competencias a que se refiere el presente Libro y las demás disposiciones legales, se entenderán conferidas a los titulares de las Áreas, Dependencias, Unidades, Coordinadores o Agencias de que se trate, las que podrán ejercer por sí mismos o por conducto de sus subalternos que cuenten con nombramiento sustantivo en la materia. Con excepción de las facultades que se encuentren expresamente reservadas a su titular, las que sólo podrán ser ejercidas por sí mismo.
-
-Los titulares podrán asumir directamente las atribuciones encomendadas a sus Áreas, Dependencias, Unidades, Coordinadores o Agencias subordinadas o, previo acuerdo del Procurador, reasignarlas de cualquier forma.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ### CAPÍTULO II.
 
@@ -3205,287 +3189,33 @@ DE LAS ATRIBUCIONES.
 
 ###### ARTÍCULO 319.
 
-FACULTADES INDELEGABLES, RESERVADAS Y CONCURRENTES. Las atribuciones que la Ley y las demás disposiciones jurídicas expresamente señalen como indelegables, sólo podrán ser ejercidas por el funcionario a quien se encuentren conferidas.
-
-Las atribuciones expresamente señaladas como reservadas podrán ser concurrentes y ejercerse por cualquier otro funcionario a quien esta Ley o sus disposiciones reglamentarias o complementarias expresamente les confiera la misma atribución.
-
-Lo dispuesto en este artículo no afectará ni será aplicable a las atribuciones ejercidas en suplencia.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 320.
 
-ASIGNACIÓN DE ATRIBUCIONES EN SUPLENCIA. El funcionario que supla a otro en los términos de lo dispuesto por el capítulo siguiente, asumirá sus atribuciones, sin más limitación que las que expresamente determine la Superioridad.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 321.
 
-FACULTADES DEL PROCURADOR. El Procurador, como titular de la Institución, posee todas las atribuciones que éste y los demás ordenamientos jurídicos confieren al Ministerio Público. A él corresponde:
-
-A. Como Jefe del Ministerio Público y Titular y Representante de la Procuraduría:
-
-I. Ejercer, por sí o por conducto de sus subalternos, las atribuciones que confiere a la Institución la presente Ley.
-
-II. Representar a la Dependencia para todos los efectos legales.
-
-III. Llevar las relaciones interinstitucionales con la Procuraduría General de la República, del Distrito Federal y con las Procuradurías Generales de Justicia de los Estados, la Procuraduría de Justicia Militar y la Procuraduría Federal de Protección al Ambiente.
-
-IV. Suscribir y vigilar que se cumplan los convenios de colaboración que en materia de procuración de justicia y de seguridad pública se celebren con la Federación y otras entidades de la República.
-
-V. Asistir a los plenos del Tribunal Superior de Justicia del Estado, en los casos y con las facultades previstas en la Ley Orgánica del Poder Judicial y la Ley Orgánica de la Administración Pública Estatal.
-
-VI. Hacer del conocimiento del Tribunal Superior de Justicia del Estado, las contradicciones de criterios que surjan en los Órganos Jurisdiccionales de la entidad.
-
-VII. Visitar por sí o por conducto del funcionario que designe al efecto, las Agencias del Ministerio Público y demás unidades de la Procuraduría, dictando las medidas necesarias para asegurar la mayor eficiencia del servicio.
-
-VIII. Cambiar de adscripción o comisión a los servidores públicos de la Dependencia, cuando las necesidades del servicio así lo exijan.
-
-IX. Suspender a los servidores públicos de la Procuraduría en el caso que se les hubiere dictado auto de formal prisión o de sujeción a proceso por la comisión del delito doloso. Dicha suspensión se prolongará hasta que exista sentencia ejecutoriada. En caso de que ésta fuese condenatoria, serán destituidos; si por el contrario fuese absolutoria, se le restituirá en sus derechos.
-
-X. Organizar y controlar a la Policía Ministerial y a los Servicios Periciales y ejercer a su arbitrio el mando directo de ambas unidades, sin perjuicio de su dependencia operativa de la Subprocuraduría Ministerial.
-
-XI. Dar a los funcionarios y empleados de la Procuraduría, las instrucciones generales o especiales que estime convenientes, para el cumplimiento de sus deberes y para la homologación de criterios y de acciones.
-
-XII. Encomendar a cualquiera de los servidores públicos de la Procuraduría, independientemente de sus atribuciones específicas, el estudio, atención y trámite de los asuntos que estime conveniente o que le encargue el Gobernador para su ejecución y que no sean incompatibles con el cargo que desempeñan.
-
-XIII. Solicitar y recabar de cualquier autoridad o institución pública o privada, o persona física, los informes, datos, copias y certificaciones o cualquier documento que necesitare para el ejercicio de sus funciones.
-
-XIV. Exigir que se hagan efectivas, en su oportunidad, las responsabilidades en que incurran los servidores públicos por los delitos y faltas oficiales que cometieren en el desempeño de sus cargos.
-
-XV. Vigilar que se ejecuten las sanciones y medidas de seguridad impuestas por los Tribunales del Estado.
-
-XVI. Promover en general, las medidas que convengan para lograr que la procuración y administración de justicia sea pronta y expedita.
-
-XVII. Investigar las detenciones arbitrarias y otros abusos que se cometan, adoptando las medidas necesarias para hacerlos cesar de inmediato, sin perjuicio de proveer la conducente para fincar las responsabilidades correspondientes.
-
-XVIII. Ordenar, en el ámbito de su competencia, que se realicen visitas a los reclusorios preventivos y centros de ejecución de penas y, en su caso, escuchar las quejas de los internos y poner los hechos en conocimiento de las autoridades competentes. De tener conocimiento de alguna conducta posiblemente delictiva, ordenar que se inicie la averiguación correspondiente.
-
-XIX. Realizar por sí o con la con (sic) colaboración de universidades, organismos públicos o privados, dependencias municipales, estatales o federales, los estudios necesarios para diseñar, implementar y evaluar la política criminal del Estado.
-
-XX. Vigilar el cumplimiento de las obligaciones de los servidores públicos subalternos y, en su caso, imponer las sanciones que por faltas administrativas incurran aquellos en el desempeño de su cometido, en los términos que prevé esta ley, la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales y los demás ordenamientos jurídicos aplicables.
-
-XXI. Resolver los casos de duda que se susciten con motivo de la interpretación o aplicación de la normatividad interna, así como los casos de conflicto de competencia o sobre cualquier materia que le correspondan.
-
-XXII. Ordenar o autorizar al personal de la Institución para auxiliar a otras autoridades que lo requieran en el desempeño de una o varias funciones, que sean compatibles con las que correspondan a la procuración de justicia. El personal autorizado en los términos antes señalados, no quedará, por este hecho, comisionado con las autoridades a quienes auxilie.
-
-XXIII. Realizar la enajenación de objetos y valores que expresamente autorice la presente Ley, el Código de Procedimientos Penales y las demás disposiciones jurídicas aplicables, en los términos que las mismas establezcan.
-
-XIV (SIC). Velar por la exacta observancia de la Constitución Federal, de la Constitución local y de las leyes que de ambas emanen, en el ámbito de su competencia.
-
-XXV. Las demás que le confieran ésta y otras disposiciones jurídicas o, en el ámbito de sus facultades, el Gobernador.
-
-B. Como Representante del Gobierno del Estado:
-
-I. Defender los intereses del Estado ante cualquier Órgano Jurisdiccional, excepto en los casos que señalen las leyes.
-
-II. Intervenir en los asuntos que con tal carácter le encomiende expresamente el Gobernador.
-
-III. Intervenir en los convenios de coordinación operativa y de cooperación técnica y científica, así como en los de colaboración que celebre el Gobierno del Estado con la Procuraduría General de la República, con las de los Estados, con la del Distrito Federal, con la Procuraduría de Justicia Militar y con la Procuraduría Federal de Protección al Ambiente; así como con las dependencias y entidades o personas de los sectores social y privado, que se estimen convenientes.
-
-IV. Las demás que le encomienden éste y los demás ordenamientos jurídicos o el Gobernador.
-
-C. Como Consejero Jurídico del Gobierno del Estado:
-
-I. Proponer proyectos de iniciativas de ordenamientos jurídicos o de reforma o adiciones, relativos a la procuración y administración de justicia.
-
-II. Dar su opinión sobre la constitucionalidad de los proyectos de ley o de reforma a ordenamientos jurídicos vigentes, que le envíe el Gobernador para su estudio.
-
-III. Hacer del conocimiento del Ejecutivo las leyes, decretos y reglamentos que sean contrarios a las Constituciones General y del Estado, a fin de que se promueva su reforma o derogación.
-
-IV. Comunicar al Ejecutivo del Estado los defectos que encontrare en los ordenamientos legales de la Entidad, proponiendo, en su caso, las enmiendas necesarias.
-
-V. Proponer al Gobernador, en el ámbito de su competencia, acciones y mecanismos de coordinación que coadyuven a la integración y consolidación del sistema de justicia del Estado.
-
-VI. Prestar el asesoramiento técnico-jurídico, que por acuerdo del Gobernador se requiera, en asuntos tratados en reuniones de titulares de las dependencias de la Administración Pública.
-
-VII. Dar su opinión en otros asuntos, cuando se le solicite u ordene.
-
-VIII. Las demás que le confieran éste y otros ordenamientos o el Gobernador.
-
-D. Son atribuciones reservadas del Procurador:
-
-I. Emitir las disposiciones conducentes al buen despacho de las funciones de la Procuraduría.
-
-II. Suscribir convenios o cualquier otro instrumento jurídico que tenga relación con los fines que a la Procuraduría le encomienda la Constitución Federal, la Constitución Local, la presente ley y demás ordenamientos jurídicos aplicables.
-
-III. Expedir los manuales de procedimientos normativos, de coordinación, de operación y de cualquier naturaleza necesarios para el funcionamiento de la Dependencia y la atención al público.
-
-IV. Implementar sistemas y procedimientos de evaluación en el cumplimiento de las funciones asignadas al personal y a las unidades administrativas de la Procuraduría.
-
-V. Promover e implementar la modernización y aplicación de tecnologías de información, relativas al mejoramiento y simplificación de las funciones de la Procuraduría.
-
-VI. Solicitar a la Autoridad Judicial competente, la intervención de las comunicaciones privadas, en los términos que previene la Constitución General y demás ordenamientos legales.
-
-VII. Expresar los agravios y desahogar las vistas, directamente o a través del Subprocurador de Control de Procesos y de Legalidad o de los Directores Generales o Regionales de Control de Procesos; en la tramitación de los recursos que se instruyen ante la Sala Colegiada Civil y Familiar, la Sala Colegiada Penal o las Salas Auxiliares del Tribunal Superior de Justicia del Estado, sin perjuicio de la labor encomendada a los agentes del Ministerio Público que se encuentren adscritos a dichos Órganos Jurisdiccionales.
-
-VIII. Poner en conocimiento del Gobernador y del Presidente del Tribunal Superior de Justicia del Estado, los abusos, irregularidades y deficiencias, que sin constituir delito, advierta en las dependencias oficiales y en los órganos jurisdiccionales del Estado.
-
-IX. Administrar y ejercer el Fondo para el Mejoramiento de la Procuración de Justicia, de conformidad con el reglamento de esta Ley.
-
-X. Las demás que, con tal carácter, le señalen éste y otros ordenamientos jurídicos o el Gobernador.
-
-E. Son facultades indelegables del Procurador:
-
-I. Manejar, dirigir y controlar la Procuraduría y establecer las políticas correspondientes.
-
-II. Proponer al titular del Ejecutivo la organización y funcionamiento de la Procuraduría y adscribir orgánicamente sus unidades administrativas.
-
-III. Acordar las bases para los nombramientos, movimientos y terminación de sus efectos, de conformidad con lo que establece el Servicio Civil de Carrera y/o las demás disposiciones aplicables.
-
-IV. Conceder licencias al personal de la Procuraduría, en los términos del Reglamento de esta Ley y del Estatuto Jurídico para los Trabajadores al Servicio del Estado.
-
-V. Determinar la aceptación o negativa de las renuncias presentadas por los servidores públicos de la Institución.
-
-VI. Someter al acuerdo del Gobernador los asuntos que competen a la Procuraduría.
-
-VII. Desempeñar las comisiones y funciones específicas que le confiera el Gobernador para su ejecución personal, e informar sobre el desarrollo de las mismas.
-
-VIII. Rendir a los Poderes del Estado, los informes que estime procedentes o que le sean solicitados, en relación con los asuntos relativos a la Dependencia.
-
-IX. Concurrir, previa anuencia del Gobernador, a las sesiones del Congreso, para informar, cuando se discuta una ley o estudie un asunto concerniente al Despacho de la Procuraduría.
-
-X. Someter a la consideración del Ejecutivo del Estado el proyecto de presupuesto anual de egresos de la Dependencia y, en su caso, sus modificaciones.
-
-XI. Presentar al Ejecutivo del Estado una memoria anual de los trabajos realizados en la Procuraduría.
-
-XII. Vigilar que se de el debido seguimiento a los acuerdos que se tomen en las Conferencias Nacionales de Procuradores Generales de Justicia de México.
-
-XIII. Expresar los agravios y desahogar las vistas en la tramitación de los recursos que se instruyen ante el Pleno del Tribunal Superior de Justicia del Estado, sin perjuicio de la labor encomendada a los agentes del Ministerio Público que se encuentren adscritos a dicho Órgano Jurisdiccional.
-
-XIV. Las demás que, con tal carácter, le señalen éste y otros ordenamientos jurídicos o el Gobernador.
-
-El Procurador tendrá su residencia en el lugar en que tengan su asiento los poderes del Estado.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ### CAPÍTULO III.
 
 DE LOS NOMBRAMIENTOS.
 
-ARTÍCULO. 328.- NOMBRAMIENTOS. El Procurador y los Subprocuradores, serán nombrados y removidos libremente por el Gobernador. El primero deberá contar con la ratificación del Congreso del Estado o, en sus recesos, de la Diputación Permanente.
-
-Los Directores Generales, Regionales y de Área, Delegados y en general los Titulares y Subtitulares de las Áreas, Dependencias y Unidades de la Administración Central o Desconcentrada serán nombrados y removidos libremente por acuerdo del Gobernador; cuando la ley o las demás disposiciones aplicables no prevenga otra forma.
-
-Los Coordinadores y Agentes del Ministerio Público, Policías Ministeriales y Mandos Policiales, Peritos y Recolectores de Evidencia; serán nombrados y removidos por el Procurador de conformidad con las disposiciones del Servicio Civil de Carrera, siempre que dichos funcionarios se encuentren dentro de dicho régimen; en caso contrario podrán ser nombrados y removidos libremente por el Procurador.
-
-Para el nombramiento e ingreso del personal de la Policía Ministerial se atenderá a lo dispuesto en esta Ley y sus disposiciones reglamentarias y complementarias, con exclusión de lo que disponga la Ley de Seguridad Pública del Estado.
-
-El resto del personal será nombrado y removido por el Procurador, de conformidad con las disposiciones contenidas en el Estatuto Jurídico para los Trabajadores al Servicio del Estado de Coahuila.
+ARTÍCULO. 328.- (DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 322.
 
-ENCOMIENDAS. Los Subprocuradores y sus respectivas Áreas, Dependencias y Unidades subordinadas, centrales o desconcentradas, ejercerán sus atribuciones en el ámbito de las siguientes encomiendas:
-
-I. SUBPROCURADURIA MINISTERIAL.- Para normar, supervisar, controlar, dirigir y, en su caso, ejercer por sí mismo las actividades del Ministerio Público y sus Auxiliares en su función de investigación de los delitos; así como de las conductas tipificadas como tales cometidas por menores de dieciocho años; salvo cuando sean desarrolladas por funcionarios fuera de su adscripción, mando o autoridad.
-
-II. SUBPROCURADURIA DE CONTROL DE PROCESOS Y LEGALIDAD. Para normar, supervisar, controlar, dirigir y, en su caso, ejercer por sí mismo las actividades del Ministerio Público y sus Auxiliares en su función de persecución de los delitos; así como de las conductas tipificadas como tales cometidas por menores de dieciocho años; salvo cuando sean desarrolladas por funcionarios fuera de su adscripción, mando o autoridad. Así como en lo relativo a la emisión de vistas y resoluciones de no ejercicio de la acción penal.
-
-III. SUBPROCURADURIA JURÍDICA, DE PROFESIONALIZACIÓN Y DE PROYECTOS. Para normar, supervisar, controlar, dirigir y, en su caso, ejercer por sí mismo las actividades de consultoría y asesoría jurídica, prevención del delito y atención a víctimas, mediación, capacitación y desarrollo de políticas públicas e internas relacionadas con las funciones del ministerio Público y de la Procuraduría.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 323.
 
-ATRIBUCIONES GENÉRICAS DE LOS SUBPROCURADORES. Los Subprocuradores, en al ámbito de sus respectivas encomiendas, tendrán las siguientes atribuciones generales:
-
-I. Normar, supervisar, controlar, dirigir y evaluar las actividades y el ejercicio de las atribuciones de las Direcciones, Áreas, Dependencias y Unidades sujetas su adscripción, mando o autoridad.
-
-II. Acordar con el Procurador el despacho de los asuntos de su competencia.
-
-III. Suplir al Procurador en los términos señalados en este ordenamiento.
-
-IV. Desempeñar las funciones y comisiones que les encomiende el Procurador, e informarle sobre el desarrollo y resultado de las mismas.
-
-V. Someter a la aprobación del Procurador los estudios y proyectos que se elaboren en la Subprocuraduría bajo su responsabilidad y que así lo ameriten.
-
-VI. Recibir en acuerdo ordinario a los titulares de las Direcciones Generales y de Área de su adscripción y a los de las Unidades Desconcentradas en los asuntos que se encuentren sujetos a su mando o autoridad.
-
-VII. Recibir en acuerdo extraordinario a cualquier otro servidor público.
-
-VIII. Conceder audiencia al público.
-
-IX. Auxiliar al Procurador en el ejercicio de las facultades y obligaciones que esta Ley y otras disposiciones jurídicas le confieren.
-
-X. Suscribir los documentos relativos al ejercicio de sus funciones y aquellos que le sean señalados por delegación o le correspondan por suplencia.
-
-XI. Revisar los escritos, dictámenes y opiniones que les remitan los Directores Generales, de Área y Unidades Desconcentradas en los asuntos que se encuentren sujetos a su mando o autoridad.
-
-XII. Dictaminar los asuntos que el Procurador reciba en consulta o revisión y que le sean turnados por éste para su atención.
-
-XIII. Formular los anteproyectos de presupuesto y de los programas correspondientes a sus Áreas.
-
-XIV. Proporcionar la información ó cooperación técnica que les sean requeridas por otras dependencias del Ejecutivo del Estado, de acuerdo a las normas y políticas que hubiera expedido y señalado el Procurador.
-
-XV. Vigilar que en los asuntos de su competencia se dé cumplimiento a los ordenamientos legales y a las demás disposiciones que resulten aplicables.
-
-XVI. Proponer al Procurador la expedición de manuales, acuerdos, criterios, instrucciones y circulares.
-
-XVII. Coordinar, con las demás Dependencias, Áreas o Unidades de la Procuraduría, los asuntos de su competencia.
-
-XVIII. Vigilar el buen despacho de los asuntos a su cargo, atendiendo oportunamente las solicitudes que reciba.
-
-XIX. Preparar, para su aprobación, el plan de trabajo y los proyectos correspondientes al Área bajo su responsabilidad.
-
-XX. Proponer al Procurador, cuando sea procedente y previo dictamen de la Dirección General Jurídica, Consultiva y de Derechos Humanos, la terminación de los efectos del nombramiento del personal a su cargo o las Unidades Desconcentradas en el ámbito en que se encuentren sujetos a su mando o autoridad.
-
-XXI. Notificar las resoluciones o acuerdos emitidos por el Procurador.
-
-XXII. Las demás que les confieran este ordenamiento u otras disposiciones aplicables o las que le encomiende el Procurador.
-
-Las facultades señaladas, con excepción de las contenidas en las fracciones IV, VIII y XXI, tienen el carácter de reservadas.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 324.
 
-ATRIBUCIONES GENÉRICAS DE LAS DIRECCIONES, ÁREAS Y DEPENDENCIAS. Los Titulares de las Direcciones, Áreas y Dependencias de la Administración Central tendrán las siguientes atribuciones genéricas:
-
-I. Supervisar, controlar, dirigir y evaluar las actividades y el ejercicio de las atribuciones del personal y de las Áreas, Dependencias y Unidades sujetas su adscripción, mando o autoridad.
-
-II. Acordar con sus superiores jerárquicos el despacho de los asuntos de su competencia.
-
-III. Suplir a sus superiores jerárquicos en los términos señalados en este ordenamiento.
-
-IV. Desempeñar las funciones y comisiones que les encomienden sus superiores jerárquicos, e informarles sobre el desarrollo y resultado de las mismas.
-
-V. Someter a la aprobación de sus superiores jerárquicos los estudios y proyectos que se elaboren en la Dirección bajo su responsabilidad y que así lo ameriten.
-
-VI. Recibir en acuerdo ordinario al personal a su cargo y a los titulares de las Unidades Desconcentradas en los asuntos que se encuentren sujetos a su mando o autoridad.
-
-VII. Recibir en acuerdo extraordinario a cualquier otro servidor público.
-
-VIII. Conceder audiencia al público.
-
-IX. Auxiliar a sus superiores jerárquicos en el ejercicio de las facultades y obligaciones que esta Ley y otras disposiciones jurídicas les confieren.
-
-X. Suscribir los documentos relativos al ejercicio de sus funciones y aquellos que le sean señalados por delegación o le correspondan por suplencia.
-
-XI. Revisar los escritos, dictámenes y opiniones que le remita el personal a su cargo y los titulares o personal de las Unidades Desconcentradas en los asuntos que se encuentren sujetos a su mando o autoridad.
-
-XII. Dictaminar los asuntos que sus superiores jerárquicos reciba en consulta o revisión y que le sean turnados por éstos para su atención.
-
-XIII. Formular los anteproyectos de presupuesto y de los programas correspondientes a su Área.
-
-XIV. Proporcionar la información ó cooperación técnica que le sean requeridas por otras dependencias del Ejecutivo del Estado, de acuerdo a las normas y políticas que hubieren expedido y señalado sus superiores jerárquicos.
-
-XV. Vigilar que en los asuntos de su competencia se dé cumplimiento a los ordenamientos legales y a las demás disposiciones que resulten aplicables.
-
-XVI. Proponer a sus superiores jerárquicos la expedición de manuales, acuerdos, criterios, instrucciones y circulares.
-
-XVII. Coordinar, con las demás Dependencias, Áreas o Unidades de la Procuraduría, los asuntos de su competencia.
-
-XVIII. Vigilar el buen despacho de los asuntos a su cargo, atendiendo oportunamente las solicitudes que reciba.
-
-XIX. Preparar, para su aprobación, el plan de trabajo y los proyectos correspondientes al Área bajo su responsabilidad.
-
-XX. Proponer a sus superiores jerárquicos, cuando sea procedente y previo dictamen de la Dirección General Jurídica, Consultiva y de Derechos Humanos, la terminación de los efectos del nombramiento del personal a su cargo o de las Unidades Desconcentradas en el ámbito en que se encuentren sujetos a su mando o autoridad.
-
-XXI. Notificar las resoluciones o acuerdos emitidos por sus superiores jerárquicos correspondientes.
-
-XXII. Proponer al Instituto de Estudios Penales y Formación Profesional, programas de profesionalización y actualización en la materia de su competencia.
-
-XXIII. Atender al público y fungir como órgano de consulta legal de los ciudadanos.
-
-XXIV. Llevar la información estadística de sus Áreas.
-
-XXV. Solicitar a los titulares o personal de las Unidades Desconcentradas los informes que sean pertinentes, en el ámbito en que se encuentren sujetos a su mando o autoridad.
-
-XXVI. Coordinarse, en desarrollo de sus atribuciones, con aquéllas Dependencias y Unidades de la Procuraduría General de la República y de las Procuradurías Generales de Justicia de las entidades federativas que realicen actividades similares; para el intercambio de conocimientos y experiencias, que coadyuven a una mejor procuración de justicia y para el cumplimiento de los convenios de colaboración que se hubieren concertado.
-
-XXVII. Distribuir adecuadamente entre el personal de su adscripción, la carga de trabajo de acuerdo a los planes y programas establecidos y las necesidades del servicio.
-
-XXVIII. Las demás que les confieran este ordenamiento u otras disposiciones aplicables o las que les encomienden sus superiores jerárquicos.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ### CAPÍTULO IV.
 
@@ -3493,41 +3223,21 @@ DE LAS SUPLENCIAS.
 
 ###### ARTÍCULO 325.
 
-ATRIBUCIONES GENÉRICAS DE LOS TITULARES DE LAS UNIDADES DESCONCENTRADAS. Las Direcciones Regionales ejercerán las atribuciones que les asigne el Reglamento de la presente Ley o el acuerdo de su creación, bajo los lineamientos e instrucciones que reciban de las Direcciones Generales y de las Subprocuradurías, en los ámbitos que les conciernan; y ejercerán su autoridad sobre las Delegaciones Regionales que comprenda su circunscripción territorial.
-
-Las Delegaciones Regionales ejercerán sus atribuciones en los mismos términos de lo dispuesto en el párrafo anterior; pero concentrarán el mando directo de las Coordinaciones, Comandancias, Agencias, Unidades y personal sujetas a su adscripción.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 326.
 
-EFECTOS DE LOS NOMBRAMIENTOS. Los nombramientos que se expidan de Agentes y Coordinadores del Ministerio Público conferirán a la persona en quien recaigan todas las atribuciones a que se refieren los artículos 7 y 37 de la presente Ley, por lo que no contendrán mención alguna de la especificidad de sus funciones, de la especialidad de las materias de que conozcan ni del ámbito territorial o administrativo en que habrán de desempeñarse. No obstante lo anterior, los nombramientos de Coordinadores y Agentes del Ministerio Especializados en Materia de Menores deberán contener siempre la razón de su especialidad.
-
-Los nombramientos de funcionarios que, sin perjuicio de su denominación o categoría, sean y tengan el carácter de Agentes del Ministerio Público conferirán a su titular las mismas atribuciones a que se refiere la primera parte del párrafo anterior; pero el funcionario que las ejercite fuera del ámbito que su encargo, encomienda o comisión le confieren y sin sujetarse a los lineamientos e instrucciones que reciba, será sujeto de responsabilidad.
-
-Los Agentes de Policía Ministerial y de Servicios Periciales, sea cual fuere su denominación y categoría, gozarán de todas las atribuciones que éste y los demás ordenamientos les confieren; las que ejercerán con estricta sujeción a las comisiones, encargos, encomiendas o instrucciones que reciban.
-
-El resto de los nombramientos conferirán a sus titulares las atribuciones propias de la función que se les encomienden y las que éste y los demás ordenamientos jurídicos les señalen.
-
-Los nombramientos concluirán al término del período para el cual fueren conferidos o al finalizar el período de Gobierno dentro del cual hubieren sido otorgados; pero sus efectos se extenderán hasta que el nuevo funcionario designado entre en funciones o hasta que se expida nuevo nombramiento, sin que por tal motivo se entiendan prorrogados o ratificados. Se exceptúan de lo anterior los nombramientos de los funcionarios que hayan sido incorporados al Servicio Civil de Carrera.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 327.
 
-ASIGNACIÓN DE COMISIÓN. El Procurador, mediante simple acuerdo de comisión, asignará la adscripción, el ámbito territorial, la especialidad por materia o la especificidad de funciones conforme a las que ejercerán sus atribuciones tanto los Coordinadores y Agentes del Ministerio Público, como los Agentes de Policía Ministerial y Servicios Periciales. Las que podrán ser variadas en cualquier momento por necesidades del servicio, independientemente de que el funcionario de que se trate se encuentre o no incorporado al régimen del servicio civil de carrera.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
-Dicha asignación no limitará en forma alguna las atribuciones a que se refiere el artículo anterior, pero el funcionario que las ejercite sin sujetarse a los términos de su comisión o en contravención a los lineamientos e instrucciones que reciba, será sujeto de responsabilidad.
-
-El acuerdo de comisión podrá ser comunicado en cualquier forma por el Procurador o por el subalterno que éste determine.
-
-En cualquier caso el Procurador podrá encomendar a cualquiera de sus funcionarios, Dependencias o Unidades subalternas el conocimiento de los asuntos que estime pertinentes.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 329.
 
-PROTESTA. Todos los servidores públicos, antes de tomar posesión de sus cargos, deberán rendir la protesta de ley:
-
-I. El Procurador y los Subprocuradores, ante el Gobernador.
-
-II. Los Directores Generales, de Área, Regionales y los Delegados ante el Procurador o el Subprocurador respectivo.
-
-III. Los demás servidores públicos, ante el funcionario que señale el Procurador.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ### CAPÍTULO I.
 
@@ -3535,121 +3245,47 @@ DISPOSICIONES GENERALES.
 
 ###### ARTÍCULO 330.
 
-REQUISITOS PARA SER PROCURADOR O SUBPROCURADOR. Para ser Procurador o Subprocurador, se requiere:
-
-I. Ser mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles y no adquirir otra nacionalidad.
-
-II. Ser originario o vecino del Estado, con residencia efectiva de dos años anteriores al día de su designación.
-
-III. Tener cuando menos treinta años de edad para el día de su designación.
-
-IV. Tener título oficial de Licenciado en Derecho y cédula profesional expedida por la Dirección General de Títulos y Profesiones de la Secretaría de Educación Pública. El título deberá estar inscrito en el Tribunal Superior de Justicia del Estado.
-
-V. Tener un mínimo de cinco años de ejercicio profesional.
-
-VI. Gozar de buena reputación e imagen pública y no haber sido condenado por la comisión de delito doloso mediante sentencia que haya causado ejecutoria, o estar sujeto a proceso penal.
-
-VII. Tener acreditado, en su caso, el Servicio Militar Nacional o haber cumplido con el.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 331.
 
-REQUISITOS PARA SER AGENTE DEL MINISTERIO PÚBLICO. Los servidores públicos que sean y tengan el carácter de Agentes del Ministerio Público, cualquiera que sea su denominación, cargo o categoría; deberán satisfacer los siguientes requisitos:
-
-I. Ser mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles y no contar con otra nacionalidad.
-
-II. Tener título oficial de Licenciado en Derecho y cédula profesional expedida por la Dirección General de Títulos y Profesiones de la Secretaría de Educación Pública. El título deberá estar inscrito en el Tribunal Superior de Justicia del Estado.
-
-III. Gozar de buena reputación e imagen pública y no haber sido condenado por la comisión de delito doloso mediante sentencia que haya causado ejecutoria, o estar sujeto a proceso penal.
-
-IV. Tener acreditado, en el caso de los hombres, el Servicio Militar Nacional.
-
-V. No hacer uso ilícito de sustancias psicotropicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo.
-
-VI. No estar suspendido, ni haber sido destituido o inhabilitado por resolución firme como servidor publico, en los términos de las normas aplicables.
-
-VII. Las demás que señalen las leyes y los demás ordenamientos jurídicos aplicables.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 332.
 
-REQUISITOS PARA SER AGENTE DE POLICÍA MINISTERIAL. Para ser Agente de la Policía Ministerial se requiere:
-
-I. Ser mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles y no adquirir otra nacionalidad.
-
-II. Haber concluido la enseñanza a nivel bachillerato o equivalente.
-
-III. Gozar de buena reputación y no haber sido condenado ejecutoriamente por delito doloso.
-
-IV. Haber cumplido con el Servicio Militar Nacional, los varones.
-
-V. Tener cuando menos diecinueve años de edad para el día de su contratación y no más de veintinueve.
-
-VI. Aprobar los exámenes y evaluaciones que le aplique el Instituto de Estudios Penales y Formación Profesional.
-
-VII. Cursar y aprobar el curso de formación inicial para Agente de la Policía Ministerial que imparta el Instituto de Estudios Penales y Formación Profesional.
-
-VIII. Gozar de buena salud y no tener ningún defecto físico que lo imposibilite para el servicio policial.
-
-IX. No hacer uso ilícito de sustancias psicotropicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo.
-
-X. No estar suspendido, ni haber sido destituido o inhabilitado por resolución firme como servidor publico, en los términos de las normas aplicables.
-
-XI. Las demás que señalen las leyes y los demás ordenamientos jurídicos aplicables.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 333.
 
-REQUISITOS PARA SER PERITO O RECOLECTOR DE EVIDENCIA. Los Peritos y Recolectores de Evidencia, además de los requisitos que les señalen las demás disposiciones legales, deberán acreditar título oficial de la profesión en que vayan a ejercer sus funciones y en caso de que su especialidad no requiera título, deberán acreditar los conocimientos necesarios para su desempeño mediante examen aplicado por el Instituto de Estudios Penales y Formación Profesional.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 334.
 
-REQUISITOS PARA OCUPAR OTROS CARGOS. Los titulares y subtitulares de las Direcciones Generales de Responsabilidades, de Averiguaciones Previas, de Control de Procesos, de Control de la Legalidad, del Instituto de Estudios Penales y Formación Profesional; de la Dirección General Jurídica, Consultiva y de Derechos Humanos; de las Delegaciones; así como las Unidades Desconcentradas de cualquiera de ellas; deberán satisfacer los requisitos señalados en el artículo 331 de la presente Ley.
-
-El Director General de la Policía Ministerial, no requerirá de título profesional, pero se dará preferencia a los Licenciados en Derecho, en Ciencias Policiales, Criminología ó en cualquier otra carrera afín con sus funciones.
-
-El Director General de Servicios Periciales y los titulares de sus Unidades Desconcentradas deberán tener título profesional, preferentemente en Medicina o Criminología.
-
-Los titulares de la Dirección General Administrativa, de la Dirección de Recursos Financieros y de la Subdirección de Auditoria deberán poseer título de Contador Público, Licenciado en Administración o carreras afines.
-
-Los titulares de las demás Áreas, Dependencias y Unidades preferentemente deberán contar con título profesional en áreas afines a las atribuciones que tengan encomendadas.
-
-Lo dispuesto en este artículo se aplicará siempre que las disposiciones jurídicas reglamentarias y complementarias de la presente Ley no establezcan expresamente otros requisitos.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 335.
 
-OBLIGATORIEDAD DE CONSULTA A REGISTROS. Para el ingreso de los servidores públicos a la Procuraduría, los responsables de las unidades administrativas competentes deberán consultar previamente el Registro Nacional del Personal de Seguridad Publica, previsto en la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, cuya información se tomará en cuenta para adoptar la determinación que corresponda.
-
-Para el caso de los agentes de la Policía Ministerial, la Procuraduría contará con sus propios procedimientos de ingreso, sin que sea aplicable lo que al efecto disponga la Ley de Seguridad Pública para el Estado.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 336.
 
-INCOMPATIBILIDADES. Los Agentes del Ministerio Público, cualquiera que sea su denominación, cargo o categoría; los Agentes de la Policía Ministerial, los Peritos, Recolectores de Evidencia; y sus respectivos Mandos no podrán:
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
-I. Desempeñar otro empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal, Federal, del Distrito Federal o de otras Entidades Federativas y Municipios, así como trabajos o servicios en instituciones privadas, salvo los de carácter docente y aquellos que autorice el Procurador siempre y cuando no sean incompatibles con sus funciones en la Institución.
-
-II. Ejercer la abogacía, por sí o por interpósita persona, salvo en causa propia, de su cónyuge, de su concubinario o concubina, de sus ascendientes o descendientes, de sus hermanos o de su adoptante o adoptado.
-
-III. Ejercer las funciones de tutor, curador o albacea judicial, a no ser que tenga el carácter de heredero o legatario, o se trate de sus ascendientes, descendientes, hermanos o adoptante o adoptado.
-
-IV. Ejercer ni desempeñar las funciones de depositario o apoderado judicial, síndico, administrador, interventor en quiebra o concurso, notario, corredor, comisionista, árbitro o arbitrador.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 337.
 
-AUSENCIAS. Para todos los efectos legales se reputará como ausente al funcionario que salga del territorio del Estado, salvo en lo concerniente a la representación de la Institución en las comisiones o para los fines que motiven dicha salida; así como al que se separe del cargo por renuncia, remoción, licencia, vacaciones, permiso, incapacidad o causas análogas a ellas.
-
-Se considerará también como ausente al funcionario que abandone el lugar o territorio en que deba efectuarse un acto sujeto a término; aunque sólo para tal efecto.
-
-Las ausencias se considerarán definitivas cuando impliquen renuncia, remoción o se prolonguen por más de seis meses sin licencia, permiso o incapacidad médica que las justifique.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 338.
 
-REGLAS GENERALES DE LAS SUPLENCIAS. El funcionario ausente será suplido por aquél que determine la Ley.
-
-La suplencia operará por Ministerio de Ley, por lo que no será necesario acuerdo previo; salvo en los casos que expresamente determinen éste y los demás ordenamientos aplicables.
-
-La suplencia será escalonada cuando, en línea jerárquica ascendente, el funcionario de que se trate supla a su superior inmediato y con tal carácter supla también al superior o superiores colocados en ulterior grado. La suplencia escalonada sólo operará en el supuesto a que se refiere el segundo párrafo del artículo anterior.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ## TÍTULO SEGUNDO.
 
 BASES GENERALES DE ORGANIZACIÓN.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE MAYO DE 2009)</small>
 
 ### CAPÍTULO II.
 
@@ -3657,309 +3293,151 @@ BASES DE ESTRUCTURACIÓN.
 
 ###### ARTÍCULO 339.
 
-SUPLENCIA DEL PROCURADOR. En sus ausencias temporales, el Procurador será suplido por el Subprocurador Ministerial; a falta de éste, por el de Control de Procesos y Legalidad; y a falta de ambos, por el Subprocurador Jurídico, de Profesionalización y de Proyectos. En caso de ausencia definitiva y en tanto se agota el proceso de designación a que se refiere el artículo 338 de la presente Ley, el Procurador será suplido por el Subprocurador que designe el Gobernador con el carácter de Encargado del Despacho.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 340.
 
-SUPLENCIA DE LOS SUBPROCURADORES. Los Subprocuradores, en sus ausencias temporales y en las definitivas hasta en tanto se emita nuevo nombramiento, serán suplidos por los funcionarios señalados en el siguiente orden:
-
-El Subprocurador Ministerial: por el Director General de Averiguaciones Previas, por los Subdirectores de ésta en orden a la antigüedad de su designación y por los Agentes del Ministerio Público Adscritos a la citada Dirección en el mismo orden de antigüedad.
-
-El Subprocurador de Control de Procesos y Legalidad: por el Director General de Control de Procesos, por el Director General de Control de la Legalidad, por los Subdirectores de la primera en orden a la antigüedad de su designación, por los Subdirectores de la segunda en el mismo orden y por los Agentes del Ministerio Público más antiguos que se encuentren adscritos a una u otra.
-
-El Subprocurador Jurídico, de Profesionalización y de Proyectos: por el Director General Jurídico, Consultivo y de Derechos Humanos; por los Subdirectores de ésta en orden a la antigüedad de su designación, por los Agentes del Ministerio Público Adscritos a la citada Dirección en el mismo orden de antigüedad y por los Agentes del Ministerio Público más antiguos que se encuentren adscritos a dicha Subprocuraduría.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 341.
 
-SUPLENCIA DE LOS DELGADOS Y TITULARES DE LAS UNIDADES DESCONCENTRADAS. Los Delegados y Titulares de las Unidades Desconcentradas serán suplidos por los Subdelegados o Subtitulares, según corresponda; y en su defecto por el funcionario que determine el Procurador o el Subprocurador que supla a éste.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 342.
 
-SUPLENCIA DE LOS DIRECTORES Y DEMAS TITULARES. Los Directores Generales y de Área y los Titulares de las demás Dependencias o Unidades, serán suplidos por sus respectivos Subdirectores, Subtitulares o Directores Subordinados en orden a la antigüedad de su designación; y sólo a falta de ellos por el funcionario más antiguo con atribuciones sustantivas en la materia de que se trate.
-
-Los Coordinadores y Agentes del Ministerio Público no serán sujetos de suplencia, por lo que el conocimiento de los asuntos que les correspondan será encomendado a cualquiera de sus similares que determine el superior jerárquico.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 343.
 
-REGLAMENTOS. El Gobernador del Estado podrá expedir los Reglamentos que estime necesarios para proveer en la esfera administrativa y garantizar el eficaz ejercicio de las atribuciones contenidas en la presente Ley y demás ordenamientos conducentes. Los cuales formarán parte de la normatividad que rige a la Institución.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 344.
 
-ACUERDOS Y DECRETOS DEL EJECUTIVO. De igual manera, el Ejecutivo del Estado podrá, mediante acuerdo o decreto, modificar la estructura interna de la Institución; orientar o dar sentido a sus atribuciones; así como crear, modificar, fusionar o suprimir las Áreas, Dependencias o Unidades Administrativas que conformen la misma.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 345.
 
-CIRCULARES. El Procurador podrá emitir circulares para precisar, orientar, acotar, ampliar o dar sentido a las atribuciones y deberes conferidos a sus subordinados; así como para transmitir instrucciones u ordenes generales. Las que serán de observancia obligatoria para sus destinatarios, pero no vincularán sus actuaciones con relación a terceros.
-
-La misma facultad tendrán los Subprocuradores, pero sólo con relación a las Áreas, Dependencias y Unidades que les estén subordinadas.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 346.
 
-MANUALES. Para la adecuada sistematización de las atribuciones encomendadas a la Institución, el Procurador podrá emitir manuales de operación o de cualquier naturaleza; los que serán de observancia general obligatoria para todo el personal de la misma, pero no vincularán sus actuaciones con relación a terceros.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 347.
 
-CRITERIOS. El Procurador podrá emitir o autorizar criterios de interpretación y aplicación de la Ley, para lograr la armonía, congruencia y uniformidad en la actuación de sus subordinados. Dichos criterios serán obligatorios para el personal en cuanto se adecuen a las condiciones del caso concreto; pero no vincularán sus actuaciones con relación a terceros.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 348.
 
-ACUERDOS E INSTRUCCIONES. El Procurador y los demás funcionarios de la Institución emitirán sus órdenes e instrucciones a sus subordinados, mediante acuerdo o de cualquier otra forma, sin necesidad de que obren por escrito; salvo en los casos en que la Ley así lo determine.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
-Los acuerdos, órdenes e instrucciones podrán ser transmitidos por el propio emisor o por el funcionario que éste decida.
-
-El Procurador podrá, además, emitir acuerdos para los efectos de lo dispuesto por el artículo 317 de la presente Ley.
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 349.
 
-FINALIDAD. El Servicio Civil de Carrera tiene como propósito fomentar la profesionalización y el alto desempeño del personal que integra el Ministerio Público y sus auxiliares directos, mediante la generación de condiciones adecuadas de estabilidad y permanencia en el cargo, de acceso al desarrollo profesional y personal y de retiro digno; sustentadas en la evaluación de su desempeño y en los principios de equidad y eficiencia.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 350.
 
-REGIMEN ESPECIAL. El Servicio Civil de Carrera constituye un régimen especial y exclusivo, aplicable solamente a quienes forman parte de él. El ingreso y permanencia en el mismo será voluntaria para el interesado y vinculante para la Institución en cuanto se satisfagan las condiciones y requisitos que lo rigen.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 351.
 
-REGLAMENTACIÓN Y AMBITO DE APLICACION. El Servicio Civil de Carrera se regirá por lo dispuesto en esta Ley, sus normas reglamentarias y complementarias y las demás disposiciones aplicables.
-
-Operará solamente para el personal sustantivo del Ministerio Público, de la Policía Ministerial y de los Servicios Periciales, en los cargos y categorías que determine el Reglamento y las demás disposiciones aplicables.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 352.
 
-PRERROGATIVAS. Quienes formen parte del Servicio Civil de Carrera tendrán derecho a la estabilidad en el empleo, por lo que no podrán ser separados de sus cargos si no por la comisión de faltas en el desempeño de los mismos en los términos de lo dispuesto en el Título siguiente de la presente Ley o por la comisión de delito; así como a la posibilidad de acceder a las prerrogativas que establecen este y los demás ordenamientos aplicables.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 353.
 
-ETAPAS. La estructuración del Servicio Civil de Carrera comprenderá las siguientes etapas:
-
-I. Selección e Ingreso.
-
-II. Permanencia y Promoción.
-
-III. Terminación y Retiro.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 354.
 
-SELECCIÓN E INGRESO. La selección e ingreso se sujetará a los siguientes requisitos:
-
-I. Que el aspirante a la incorporación lo solicite expresamente.
-
-II. Que tenga cuando menos un año de servicio ininterrumpido en algún cargo que se encuentre incluido en el régimen.
-
-III. Que haya cumplido satisfactoriamente con los cursos y programas de capacitación para el ingreso al Servicio Civil de Carrera.
-
-IV. En su caso, que haya sustentado y acreditado las evaluaciones que para el efecto se establezcan; y
-
-V. Los demás que establezcan las disposiciones aplicables.
-
-El interesado acreditará su incorporación al régimen del Servicio Civil de Carrera, mediante la constancia que para el efecto le expida la instancia facultada para el efecto. El régimen surtirá sus efectos para el interesado a partir de la fecha de su incorporación.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 355.
 
-PERMANENCIA.- Para permanecer en el régimen del Servicio Civil de Carrera será necesario que el interesado satisfaga las siguientes condiciones:
-
-I. Permanecer en el ejercicio efectivo del cargo que se le haya conferido.
-
-II. Cumplir satisfactoriamente los cursos y programas de capacitación que para el efecto se consideren obligatorios.
-
-III. Sustentar y acreditar las evaluaciones correspondientes.
-
-IV. Someterse a las promociones en los términos que determine el reglamento.
-
-IV (SIC). No haber sido sancionado por la comisión de falta grave o en más de tres ocasiones por faltas de cualquier naturaleza en el término de un año contado subsecuentemente a partir de la designación en el cargo que ostente.
-
-V. Las demás que disponga el reglamento y las disposiciones jurídicas aplicables.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 356.
 
-PROMOCIÓN. La promoción operará bajo las siguientes modalidades:
-
-I. Promoción vertical. Cuando implique la posibilidad de acceder a ocupar cargos de mayor jerarquía dentro de las plazas sujetas al régimen.
-
-II. Promoción horizontal. Cuando represente la posibilidad de acceso a mejores condiciones económicas de remuneración, o a estímulos y reconocimientos especiales.
-
-Las categorías nominales otorgadas mediante promoción vertical se entienden asignadas en función del ejercicio efectivo del cargo jerárquico conferido, por lo que el funcionario que las abandone o que sea demeritado, por cualquier motivo, recuperará la categoría nominal anterior a la promoción.
-
-El acceso a cualquiera de las modalidades de promoción estará sujeto a la disponibilidad de plazas y de recursos presupuestales.
-
-El Reglamento establecerá las condiciones y términos que el aspirante deberá satisfacer para acceder a cualquiera de las formas de promoción.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 357.
 
-TERMINACIÓN Y RETIRO. La terminación implica la baja del régimen del Servicio Civil de Carrera por el incumplimiento de las condiciones a que se refiere al artículo 355 de la presente Ley o las demás disposiciones aplicables y tendrá como consecuencia la pérdida de las prerrogativas, reales y en mera expectativa, que el mismo confiere. La baja del Servicio Civil de Carrera deberá ser comunicada al interesado, a menos que la misma se produzca por renuncia, remoción o destitución del cargo; casos en que operará concomitantemente a ellas.
-
-El retiro implica la baja del régimen del Servicio Civil de Carrera por jubilación o pensión obtenida en los términos que los ordenamientos legales aplicables establezcan o por renuncia voluntaria al cargo que desempeñe siempre que haya estado sujeto al régimen durante los diez años anteriores a la misma, en forma ininterrumpida. El retiro otorgará la posibilidad de acceder a los estímulos especiales que determine el Reglamento.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 358.
 
-INSTANCIAS RESPONSABLES DE SU APLICACIÓN. El Reglamento establecerá las instancias facultadas para normar, implementar, operar, supervisar, evaluar y dictaminar todos los actos correspondientes al Servicio Civil de Carrera.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 359.
 
-CONVENIOS DE COLABORACIÓN. La Procuraduría podrá suscribir convenios de colaboración con otras Procuradurías o Instituciones Públicas y Privadas, para homologar criterios, obtener y brindar asesoría y cualquier clase de apoyos necesarios o convenientes para la operación del régimen del Servicio Civil de Carrera.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 360.
 
-DEFINICIÓN DE SERVIDOR PÚBLICO. Para los efectos de lo dispuesto en este título se considerará como servidor público a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza dentro de la Procuraduría.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 361.
 
-REGIMEN APLICABLE. Los servidores públicos de la Procuraduría podrán ser sancionados, cuando incurran en responsabilidad, de conformidad con lo dispuesto en esta Ley, la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado y las demás disposiciones aplicables.
-
-El Procurador y los Subprocuradores sólo serán sujetos de responsabilidad administrativa en los términos de lo señalado por la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado, por lo que no les será aplicable lo dispuesto en el presente título.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 362.
 
-INSTANCIA COMPETENTE. La Dirección General de Responsabilidades de la Procuraduría, será la dependencia encargada de investigar y, en su caso perseguir, los delitos cometidos por servidores públicos de la Institución; así como de instruir a los mismos los procedimientos por responsabilidad administrativa que procedan. El fincamiento de responsabilidades administrativas y la aplicación de las sanciones correspondientes serán resueltas por el Procurador. Las responsabilidades penales y administrativas en que incurra el Director General de Responsabilidades serán investigadas, y, en su caso, perseguidas o sancionadas por el Procurador o por el funcionario que éste designe.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 363.
 
-OBLIGACIONES COMUNES. Son obligaciones comunes para los servidores públicos de la Procuraduría, además de las señaladas en la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado:
-
-I. Observar en la dirección de sus inferiores jerárquicos las debidas reglas del trato y abstenerse de incurrir en agravio, desviación o abuso de autoridad. Observar el debido respeto y subordinación legítima hacia sus superiores jerárquicos inmediatos o mediatos. Y abstenerse de faltarle al respeto a sus compañeros; así como de utilizar lenguaje soez, altisonante u obsceno durante el desempeño de sus funciones.
-
-II. Cumplir con las disposiciones, comisiones o encomiendas que sus superiores dicten en el ejercicio de sus atribuciones.
-
-III. Acatar y ejercer sus atribuciones con estricta sujeción a las comisiones o encomiendas que reciban.
-
-IV. Cumplir con diligencia las instrucciones, requerimientos o trabajos que les sean encomendados.
-
-V. Observar, en el ejercicio de sus funciones, las disposiciones contenidas en los manuales, criterios, lineamientos e instrucciones emitidas por las instancias competentes.
-
-VI. Cumplir las comisiones que legalmente se les confieran sin retardar injustificadamente su ejecución.
-
-VII. Usar, en el desempeño del servicio, los distintivos y medios de identificación que les sean asignados y cuidar su presentación.
-
-VIII. Asistir con puntualidad, en las horas reglamentarias, al desempeño de sus labores. Registrar, en su caso, la hora de entrada y salida; pasar revista diaria de asistencia; y abstenerse, estando en servicio o comisión, de entrar a cantinas, cabarets, prostíbulos, cines o centros de espectáculos o diversión, salvo que lo hicieren en cumplimiento del deber o por comisión asignada.
-
-IX. Abstenerse de faltar frecuentemente, sin causa justificada, al desempeño de sus labores.
-
-X. Permanecer, durante las horas de trabajo, en el local o lugar donde presten sus servicios y abstenerse de abandonarlos sin la autorización previa del superior inmediato; así como de realizar trabajos ajenos a la oficina.
-
-XI. Abstenerse de autorizar a un subordinado a no asistir a sus labores sin causa justificada; así como de otorgarle indebidamente permisos, licencias o comisiones con goce parcial o total de sueldo;
-
-XII. Asistir a los cursos, programas y actividades que determinen sus superiores jerárquicos. Desarrollar las actividades deportivas y cívicas y asistir a las ceremonias conmemorativas de fechas patrióticas, cuando así lo disponga el titular de la dependencia en donde presten sus servicios. Someterse a los exámenes médicos previstos en las condiciones generales de trabajo.
-
-XIII. Abstenerse de desempeñar algún otro empleo, cargo o comisión oficial o particular, que la Ley prohíba;
-
-XIV. Abstenerse de ejercer funciones de un empleo, cargo o comisión cuando haya concluido el período para el cual se le designó, o después de haber cesado, por alguna otra causa, en el ejercicio de sus funciones.
-
-XV. Abstenerse de participar, con carácter oficial, en manifestaciones, mítines y otras reuniones de tipo político, salvo en cumplimiento de comisión conferida.
-
-XVI. Presentar con oportunidad y veracidad la declaración sobre su situación patrimonial, ante la dependencia del Ejecutivo que corresponda, en los términos que señala la Ley de Responsabilidades.
-
-XVII. Abstenerse de solicitar o recibir dádivas, agasajos, préstamos, regalos y de obtener toda clase de percepciones provenientes, directa o indirectamente, de alguna las partes o de sus representantes o intermediarios, en asuntos sometidos a su conocimiento, o en el que haya de intervenir.
-
-XVIII. Abstenerse de obtener o tratar de obtener, por el desempeño de su función, beneficios adicionales a las prestaciones que le sean cubiertas con cargo al erario.
-
-XIX. Observar el debido respeto en el trato a los litigantes, inculpados, ofendidos, victimas, o a cualquier persona que acuda a sus oficinas.
-
-XX. Abstenerse de ser parcial y discriminatorio en el ejercicio de sus funciones, por razones de género o de preferencia sexual, o de prejuicios religiosos o morales o de cualquier otro tipo.
-
-XXI. Abstenerse de ejecutar hechos o incurrir en omisiones que tengan como consecuencia traspapelar expedientes, extraviar escritos y dificultar o demorar el ejercicio de las funciones.
-
-XXII. Informar a su superior jerárquico o al titular de su dependencia de todo acto u omisión de los servidores públicos sujetos a su dirección, que puedan implicar inobservancia de las obligaciones propias del cargo.
-
-XXIII. Abstenerse de extraer sin autorización, expedientes o documentos fuera de sus oficinas.
-
-XXIV. Llevar al día el registro en los libros habilitados para asentar la información autorizada que en los mismos se contengan; y abstenerse de hacer alteraciones o asentamientos en forma inexacta o irregular, o dañar o destruir los equipos o sistemas electrónicos o informáticos de la Institución.
-
-XXV. Abstenerse de embriagarse habitualmente, de hacer uso indebido de estupefacientes; de practicar juegos prohibidos, o de observar, en general, un comportamiento inmoral; así como de llevar a cabo sus funciones bajo el influjo de alcohol, algún estupefaciente, droga, enervante o cualquier otro de similar naturaleza, en todo tiempo y lugar, salvo que sea por prescripción médica comprobable. Abstenerse de ingerir bebidas alcohólicas o consumir drogas u algún otro estupefaciente durante el servicio; así como de presentarse en estado de ebriedad o bajo el efecto de alguna droga o con aliento alcohólico a su área de trabajo.
-
-XXVI. Observar buenas costumbres dentro y fuera del servicio y ser atentos con el público; evitar los actos u omisiones que pongan en peligro su seguridad o la de sus compañeros y abstenerse de llevar a cabo practicas de carácter sexual en las instalaciones o vehículos oficiales.
-
-XXVII. Las demás que este y los demás ordenamientos le señalen.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 364.
 
-OBLIGACIONES DEL MINISTERIO PÚBLICO. Son obligaciones de los Agentes del Ministerio Público, cualquiera que sea su denominación, cargo o jerarquía; además de las señaladas en el artículo anterior:
-
-I. Dictar las determinaciones, acuerdos y mandamientos que procedan en los asuntos de su competencia, dentro de los términos señalados por la Ley.
-
-II. Emitir sus órdenes, decretos, acuerdos, requerimientos, vistas, determinaciones, citatorios y mandamientos con su debida fundamentación y motivación; cuando así se exija por la Ley.
-
-III. Abstenerse de dictar acuerdos, decretos o determinaciones que dilaten la integración de la averiguación previa penal, o de efectuar trámites notoriamente innecesarios.
-
-IV. Abstenerse de actuar en indagatorias o procesos en las cuales tenga algún motivo de excusa de los contemplados en la presente Ley.
-
-V. Ejercer sus atribuciones con estricta sujeción a las encomiendas, comisiones, lineamientos e instrucciones que fije la presente Ley, los demás ordenamientos aplicables o sus superiores jerárquicos.
-
-VI. Abstenerse de impedir u obstaculizar, por cualquier medio ilegal, que las partes hagan uso de los recursos establecidos en la ley.
-
-VII. Abstenerse de fijar fianzas y multas notoriamente excesivas o insuficientes o fuera de los casos que prescriban las leyes.
-
-VIII. Abstenerse de hacer constar falsamente en una diligencia hechos no acaecidos o de omitir mencionar los ocurridos.
-
-IX. Abstenerse de asesorar al inculpado o sus representantes legales en los asuntos de su conocimiento o del conocimiento de otras autoridades investigadoras;
-
-X. Asistir oportunamente a los actos o diligencias que requieran su presencia.
-
-XI. Cumplir y acatar las órdenes, instrucciones y lineamientos que reciba de sus superiores jerárquicos.
-
-XII. Acatar las instrucciones que reciban de sus superiores, y abstenerse de demorar indebidamente el trámite de los asuntos por falta de cumplimiento a las órdenes dictadas por sus superiores.
-
-XIII. Sujetar sus actuaciones al estricto cumplimiento de la Ley.
-
-XIV. Dispensar un trato adecuado a las personas con quienes interactúe, en el ejercicio de sus funciones.
-
-XV. Respetar y preservar el pudor de las personas durante la practica de sus diligencias y abstenerse de comentar, referir o difundir, fuera del ámbito de sus atribuciones, los hechos de los que tenga conocimiento con motivo de las mismas.
-
-XVI. Abstenerse de emitir, dictar o ejecutar actos que contravengan alguna disposición terminante de la Ley.
-
-XVII. En su caso, intervenir en los procesos con la debida diligencia y promover y desahogar todos los actos procesales tendientes a preservar o salvaguardar el interés de la institución.
-
-XVIII. Las demás que este y los demás ordenamientos le señalen.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 365.
 
-OBLIGACIONES DE LOS PERITOS Y POLICÍAS MINISTERIALES.- Son obligaciones de los peritos, recolectores de evidencia y Policías Ministeriales, además de las señaladas en el artículo 363:
-
-I. Abstenerse de actuar en indagatorias en las cuales se tenga algún motivo de impedimento o excusa de los establecidos en la presente Ley.
-
-II. Emitir los dictámenes o informes en el plazo fijado por el Ministerio Público para su rendición.
-
-III. Abstenerse de rendir dictámenes o informes con una notoria falta de fundamentacion o, en su caso, sin expresar conclusiones de forma clara, precisa y convincente.
-
-IV. Abstenerse de hacer constar falsamente en una diligencia hechos no acaecidos o de omitir mencionar los ocurridos.
-
-V. Ejercer sus atribuciones con estricta sujeción a las encomiendas, comisiones, lineamientos e instrucciones que fije la presente Ley, los demás ordenamientos aplicables o sus superiores jerárquicos.
-
-VI. Asistir oportunamente a los actos o diligencias que requieran su presencia.
-
-VII. Acatar las instrucciones que reciban de sus superiores, y abstenerse de demorar indebidamente el trámite de los asuntos por falta de cumplimiento a las órdenes dictadas por sus superiores.
-
-VIII. Sujetar sus actuaciones al estricto cumplimiento de la Ley.
-
-XIX (SIC). Dispensar un trato adecuado a las personas con quienes interactúe, en el ejercicio de sus funciones.
-
-X. Respetar y preservar el pudor de las personas durante la práctica de sus diligencias y abstenerse de comentar, referir o difundir, fuera del ámbito de sus atribuciones, los hechos de los que tenga conocimiento con motivo de las mismas.
-
-XI. Las demás que este y los demás ordenamientos le señalen.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 366.
 
-FALTAS ADMINISTRATIVAS. El incumplimiento de los deberes señalados en este capítulo se reputará como falta administrativa sancionable en los términos de esta Ley y las demás disposiciones aplicables.
-
-Para todos los efectos legales se considerará falta grave el incumplimiento a cualquiera de los deberes señalados en las fracciones I, II, III, IX, XIII, XIV, XVI, XVII, XX, XXIII Y XXV del artículo 363; en las fracciones V, VIII, IX, XI, XV y XVI del artículo 364; y en las fracciones IV, V y X del artículo 365; todos de la presente Ley.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 367.
 
-SUBSTANCIACIÓN DEL PROCEDIMIENTO ANTE LA SUBPROCURADURIA DE CONTROL DE PROCESOS Y LEGALIDAD. El procedimiento de determinación de las vistas de no ejercicio de la acción penal, ante la Subprocuraduría de Control de Procesos y Legalidad, se sujetará a las reglas siguientes:
+SUBSTANCIACIÓN DEL PROCEDIMIENTO ANTE LA FISCALÍA DE CONTROL DE PROCESOS Y LEGALIDAD. El procedimiento de determinación de las vistas de no ejercicio de la acción penal, ante la Fiscalía de Control de Procesos y Legalidad, se sujetará a las reglas siguientes:
 
-Recibido el expediente en que se haya emitido la vista sujeta a revisión, el Subprocurador de Control de Procesos y Legalidad, si estima que se satisfacen los requisitos de forma, dictará determinación inicial de radicación, y dispondrá que se turne a la Dirección General de Control de Legalidad, para que formule proyecto de resolución. En caso contrario, ordenará la devolución del expediente para que se subsanen las deficiencias que se adviertan.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
 
-Radicado el expediente, el Director General de Control de Legalidad formulará o supervisará, según sea el caso, el proyecto de determinación que someterá a la aprobación del Subprocurador de Control de Procesos y Legalidad, sobre si es procedente o no ejercitar la acción penal, o si debe reponerse el procedimiento por falta de elementos para determinar, precisando en este caso, las diligencias que a su juicio hayan de practicarse.
+Recibido el expediente en que se haya emitido la vista sujeta a revisión, el Fiscal de Control de Procesos y Legalidad, si estima que se satisfacen los requisitos de forma, dictará determinación inicial de radicación, y dispondrá que se turne a la Dirección General de Control de Legalidad, para que formule proyecto de resolución. En caso contrario, ordenará la devolución del expediente para que se subsanen las deficiencias que se adviertan.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+Radicado el expediente, el Director General de Control de Legalidad formulará o supervisará, según sea el caso, el proyecto de determinación que someterá a la aprobación del Fiscal de Control de Procesos y Legalidad, sobre si es procedente o no ejercitar la acción penal, o si debe reponerse el procedimiento por falta de elementos para determinar, precisando en este caso, las diligencias que a su juicio hayan de practicarse.
 
 Dictada la resolución, el Director General de Control de Legalidad remitirá el expediente a la Agencia del Ministerio Público correspondiente, con copia certificada de la resolución, para su notificación al ofendido o víctima y remitirá otra copia de dicha resolución al Delegado Regional para su conocimiento y vigilancia de su cumplimiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 368.
 
-SECRETARÍA DE ACUERDOS. Para la substanciación del procedimiento, la Subprocuraduría de Control de Procesos y Legalidad se auxiliará de una Secretaría de Acuerdos que estará a cargo de un Agente del Ministerio Público, con las atribuciones siguientes:
+SECRETARÍA DE ACUERDOS. Para la substanciación del procedimiento, la Fiscalía de Control de Procesos y Legalidad se auxiliará de una Secretaría de Acuerdos que estará a cargo de un Agente del Ministerio Público, con las atribuciones siguientes:
 
 I. Recibir los escritos, anotando al calce: la razón del día y hora de presentación del documento y el nombre de la persona que la haga; el número de fojas que contengan y anexos que se acompañen, dando razón en la copia, con su firma y sello de la oficina.
 
 II. Dar cuenta diariamente, bajo su más estricta responsabilidad, con los escritos, oficios, promociones y demás documentos que se reciban.
 
-III. Autorizar las actas, diligencias, proveídos y determinaciones que se realicen en la Subprocuraduría de Control de Procesos y Legalidad.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+III. Autorizar las actas, diligencias, proveídos y determinaciones que se realicen en la Fiscalía de Control de Procesos y Legalidad.
 
 IV. Hacer constar en los expedientes el día en que inician y concluyen los términos, supervisando que se cumplan los procedimientos en los plazos que establecen las normas jurídicas aplicables.
 
@@ -3971,7 +3449,9 @@ VII. Notificar a los interesados, en los casos en que la Ley lo disponga.
 
 VIII. Practicar las diligencias que se le encomienden.
 
-IX. Remitir, cuando así proceda, los expedientes al archivo de la Procuraduría, previa anotación en el libro de control correspondiente.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+IX. Remitir, cuando así proceda, los expedientes al archivo de la Fiscalía General, previa anotación en el libro de control correspondiente.
 
 X. Tener a su cargo los registros pertenecientes a la oficina.
 
@@ -3979,15 +3459,19 @@ XI. Resguardar el sello de la oficina.
 
 XII. Las demás atribuciones que le confieran este ordenamiento u otras disposiciones aplicables o le encomienden sus superiores.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 369.
 
-PERSONAL DE APOYO. La Dirección General de Control de Legalidad contará con el número de proyectistas, Agentes del Ministerio Público, que requieran las necesidades del servicio, quienes, bajo la más absoluta confidencialidad elaborarán los proyectos de resolución que les sean turnados por el Director General de su adscripción o por el Subprocurador de Control de Procesos y Legalidad, sometiendo el proyecto para su revisión a dicho Director General y posterior acuerdo del Subprocurador respectivo.
+PERSONAL DE APOYO. La Dirección General de Control de Legalidad contará con el número de proyectistas, Agentes del Ministerio Público, que requieran las necesidades del servicio, quienes, bajo la más absoluta confidencialidad elaborarán los proyectos de resolución que les sean turnados por el Director General de su adscripción o por el Fiscal de Control de Procesos y Legalidad, sometiendo el proyecto para su revisión a dicho Director General y posterior acuerdo del Fiscal Especializado respectivo.
 
 ###### ARTÍCULO 370.
 
 SUBSTANCIACIÓN DEL PROCEDIMIENTO ANTE OTRAS INSTANCIAS. Cuando el procedimiento deba ser desahogado por otras instancias, según lo dispuesto por el artículo 291 de la presente Ley, se seguirá en lo conducente el procedimiento señalado en los artículos anteriores; pero en tales casos el resolutor podrá realizar por si mismo los actos señalados.
 
-En caso de que el Procurador, en uso de las facultades de atracción que le competen, se haga cargo de la revisión de algún asunto, se observará en lo conducente el procedimiento precisado en los artículos anteriores.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+En caso de que el Fiscal General, en uso de las facultades de atracción que le competen, se haga cargo de la revisión de algún asunto, se observará en lo conducente el procedimiento precisado en los artículos anteriores.
 
 ###### ARTÍCULO 371.
 
@@ -3995,23 +3479,31 @@ SUBSTANCIACIÓN. El recurso de reclamación se substanciará con arreglo a lo di
 
 ###### ARTÍCULO 372.
 
-EXPEDICIÓN DE COPIAS CERTIFICADAS. El Ministerio Público y los demás funcionarios de la Procuraduría, podrán acordar la expedición de copias certificadas de constancias, registros y documentos que obren en su poder, cuando exista mandamiento de autoridad competente que motive y funde su requerimiento o cuando las soliciten el denunciante o el querellante, la víctima, el ofendido, el indiciado y sus defensores o quienes tengan interés jurídico para el ejercicio de derechos o el cumplimiento de obligaciones previstas por la Ley. Sólo se expedirán copias de las averiguaciones previas y constancias de los procesos en los casos en que esta Ley expresamente lo determine.
+EXPEDICIÓN DE COPIAS CERTIFICADAS. El Ministerio Público y los demás funcionarios de la Fiscalía General, podrán acordar la expedición de copias certificadas de constancias, registros y documentos que obren en su poder, cuando exista mandamiento de autoridad competente que motive y funde su requerimiento o cuando las soliciten el denunciante o el querellante, la víctima, el ofendido, el indiciado y sus defensores o quienes tengan interés jurídico para el ejercicio de derechos o el cumplimiento de obligaciones previstas por la Ley. Sólo se expedirán copias de las averiguaciones previas y constancias de los procesos en los casos en que esta Ley expresamente lo determine.
 
 ###### ARTÍCULO 373.
 
 AUTORIZACIÓN PARA EXPEDIR COPIAS. Están autorizados para acordar la expedición de copias certificadas de constancias, registros y documentos:
 
-I. El Procurador, de cualquiera de los archivos de la Procuraduría.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
 
-II. Los Subprocuradores, de los archivos que obren en sus oficinas y en las unidades de su Área.
+I. El Fiscal General, de cualquiera de los archivos de la Fiscalía General.
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+II. Los Fiscales Especializados, de los archivos que obren en sus oficinas y en las unidades de su Área.
 
 III. Los Directores Generales, Regionales, de Área y los Delegados, de los archivos respectivos y de las unidades subalternas de su adscripción.
 
 IV. Los agentes del Ministerio Público, de las constancias, registros y documentos que formen parte de las Averiguaciones Previas en que actúen y de los documentos que obren en sus respectivas oficinas.
 
-V. Todos los funcionarios de la Procuraduría, cuando les sean requeridas por la autoridad judicial federal, en términos de la Ley Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, en los juicios de amparo.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
 
-Los funcionarios de la Procuraduría deberán tener en cuenta la reserva de las actuaciones ministeriales al acordar lo relativo a la expedición de copias certificadas.
+V. Todos los funcionarios de la Fiscalía General, cuando les sean requeridas por la autoridad judicial federal, en términos de la Ley Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, en los juicios de amparo.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+Los funcionarios de la Fiscalía General deberán tener en cuenta la reserva de las actuaciones ministeriales al acordar lo relativo a la expedición de copias certificadas.
 
 ###### ARTÍCULO 374.
 
@@ -4083,13 +3575,17 @@ Los instrumentos de uso lícito se decomisarán sólo mediante sentencia, en los
 
 ABANDONO DE BIENES. Los bienes asegurados y los que bajo cualquier título se encuentren a disposición del Ministerio Público, se entenderán abandonados a favor del Estado si los mismos no son reclamados por quien acredite legítimo derecho a ello en un lapso de seis meses contados a partir de que su aseguramiento haya sido levantado o quedado sin efectos o de un año a partir de su aseguramiento. Lo mismo sucederá en el supuesto a que se refiere el primer párrafo del artículo 383.
 
-Los bienes a que se refiere este artículo serán destinados por la Procuraduría a las Instituciones del Estado que puedan servirse de ellos o se venderán aplicando su producto al Fondo para el Mejoramiento de la Procuración de Justicia.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+Los bienes a que se refiere este artículo serán destinados por la Fiscalía General a las Instituciones del Estado que puedan servirse de ellos o se venderán aplicando su producto al Fondo para el Mejoramiento de la Procuración de Justicia.
 
 ###### ARTÍCULO 387.
 
 INTEGRACIÓN. El Patrimonio del Fondo para el Mejoramiento de la Procuración de Justicia, se integrará con:
 
-I. El importe de las multas y las pólizas de fianzas otorgadas a favor de la Procuraduría o del Ministerio Público, que se hagan efectivas.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+I. El importe de las multas y las pólizas de fianzas otorgadas a favor de la Fiscalía General o del Ministerio Público, que se hagan efectivas.
 
 II. El importe de la reparación del daño cubierto en los supuestos a que se refiere el artículo 285 de la presente Ley.
 
@@ -4099,15 +3595,19 @@ IV. Los intereses que devenguen las cantidades depositadas en instituciones banc
 
 V. Los demás recursos o partidas que establezcan las disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 388.
 
-ADMINISTRACIÓN. El Fondo para el Mejoramiento de la Procuración de Justicia será administrado por el Director General Administrativo, a través del Director de Recursos Financieros, quien se encargará de ejecutar las directrices señaladas por el Procurador para su administración, invirtiendo en la adquisición de títulos valores de renta fija que deberán ser nominativos a favor de la Procuraduría General de Justicia del Estado.
+ADMINISTRACIÓN. El Fondo para el Mejoramiento de la Procuración de Justicia será administrado por el Director General Administrativo, a través del Director de Recursos Financieros, quien se encargará de ejecutar las directrices señaladas por el Fiscal General para su administración, invirtiendo en la adquisición de títulos valores de renta fija que deberán ser nominativos a favor de la Fiscalía General.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 389.
 
-VIGILANCIA. La Dirección General de Responsabilidades, por conducto del Subdirector de Auditoria, se encargará de verificar el correcto manejo del fondo, para lo cual el Director General Administrativo rendirá al Procurador informes semestrales acerca de la situación financiera que guarde el fondo y que comprenderán, del primero de enero al treinta de junio y del primero de julio al treinta y uno de diciembre, respectivamente, de cada año.
+VIGILANCIA. La Dirección General de Responsabilidades, por conducto del Subdirector de Auditoria, se encargará de verificar el correcto manejo del fondo, para lo cual el Director General Administrativo rendirá al Fiscal General informes semestrales acerca de la situación financiera que guarde el fondo y que comprenderán, del primero de enero al treinta de junio y del primero de julio al treinta y uno de diciembre, respectivamente, de cada año.
 
-El Procurador podrá ordenar al Visitador General, cuando así lo estime conveniente, la práctica de auditorias y la solicitud de rendición de informes sobre la situación del Fondo, al Director General Administrativo o al subalterno encargado del mismo.
+El Fiscal General podrá ordenar al Visitador General, cuando así lo estime conveniente, la práctica de auditorias y la solicitud de rendición de informes sobre la situación del Fondo, al Director General Administrativo o al subalterno encargado del mismo.
 
 ###### ARTÍCULO 390.
 
@@ -4125,81 +3625,73 @@ V. A sufragar los gastos necesarios para la participación de los funcionarios y
 
 VI. A los programas de estímulos y recompensas que se implementen.
 
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 391.
 
-REGIMEN. Las relaciones de servicio del personal que conforme el Ministerio Público y de los miembros de la Policía Ministerial y Servicios Periciales con el Estado, se reputarán administrativas y sujetas a las condiciones que implican sus nombramientos. Sin perjuicio de lo anterior, para los efectos de la determinación de sus contraprestaciones se reputarán como trabajadores de confianza y se regirán por lo dispuesto en la fracción XIII, apartado ''B'' del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, aplicándose para tal efecto, esta Ley, el Estatuto Jurídico para los Trabajadores al Servicio del Estado y las demás disposiciones jurídicas conducentes; en cuanto no se opongan a las disposiciones del presente ordenamiento.
-
-El resto del personal se sujetará a los mismos términos a menos de que tengan previamente reconocido un régimen diferente.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 392.
 
-SUSPENSIÓN DEL NOMBRAMIENTO. Los Agentes del Ministerio Público, de la Policía Ministerial, de Servicios Periciales; así como el resto del personal de la Institución que estén sujetos a proceso penal como probables responsables de delito doloso, serán suspendidos desde que se dicte el auto de formal prisión o de sujeción a proceso y hasta que se emita sentencia ejecutoriada. En caso de que ésta fuese condenatoria serán destituidos; si por el contrario fuese absolutoria, se les restituirá en sus derechos.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
-Rige lo anterior independientemente de la procedencia, en su caso, de las causas de suspensión y cese establecidas por la Ley de Responsabilidades de los Servidores Públicos del Estado y del Municipio.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 393.
 
-VACACIONES. Los servidores públicos de la Procuraduría disfrutarán de los períodos de vacaciones a que tengan derecho conforme a las disposiciones relativas del Estatuto Jurídico para los Trabajadores al Servicio del Estado y de los que acuerde el Ejecutivo del Estado.
-
-La programación de las vacaciones se hará por el Procurador, de manera que no se cause detrimento en la prestación de los servicios a cargo de la Dependencia.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 394.
 
-LICENCIAS. El Procurador General de Justicia podrá conceder licencias con goce de sueldo a los servidores públicos de la Dependencia hasta por el término de ocho días; las que excedan de ese término, sólo serán concedidas por el Gobernador del Estado. También concederá licencias en los casos previstos por las fracciones VIII y IX, del artículo 86 del Estatuto Jurídico para los Trabajadores al Servicio del Estado.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 395.
 
-LICENCIAS MÉDICAS. Tratándose de licencias médicas por enfermedad, éstas deberán presentarse por el interesado o por cualquier persona a la unidad administrativa correspondiente, dentro de las 48 horas siguientes a su expedición, la misma deberá estar expedida por la institución que preste el servicio médico a los Trabajadores al Servicio del Estado. El Incumplimiento a lo anterior se considerará falta injustificada.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
-Por lo que se refiere a enfermedades y accidentes que no constituyan riesgos de trabajo, se estará a lo previsto en el Estatuto Jurídico para los Trabajadores al Servicio del Estado.
-
-Si la incapacidad se origina en el servicio o con motivo de este, tendrá derecho el incapacitado a disfrutar íntegramente de su sueldo y de las prestaciones que conforme a la ley le correspondan.
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 396.
 
-PROCEDIMIENTO DE INGRESO. El Reglamento y las demás disposiciones correspondientes fijarán los requisitos y procedimientos para ingresar a la Institución como Agente del Ministerio Público, Policía Ministerial, Perito o Recolector de Evidencia; sin perjuicio de los que esta Ley señala para los nombramientos.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 397.
 
-DISPENSA DE REQUISITOS. Tratándose de personas con amplia experiencia profesional, el Procurador podrá dispensar la presentación de los concursos de ingreso o el cumplimiento de los requisitos de selección para Agentes del Ministerio Público, Agentes de la Policía Ministerial o Peritos.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
-Los así nombrados deberán reunir, en lo conducente, los requisitos establecidos en esta Ley, sobre la base de que no serán miembros del Servicio Civil o Policial de Carrera según corresponda, a menos que acrediten los concursos y evaluaciones que se les practiquen, en los términos de las normas reglamentarias y demás disposiciones aplicables.
-
-En cualquier momento se podrán dar por terminados los efectos del nombramiento de personas designadas con base en este artículo y que no se hubiesen incorporado al servicio civil de carrera.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 398.
 
-PRINCIPIOS DE ACTUACIÓN. En el ejercicio de sus funciones, el personal de la Procuraduría observará las obligaciones inherentes a su calidad de servidores públicos con la diligencia necesaria para la pronta, completa y debida procuración de justicia; ajustando sus actos a criterios de objetividad, con apego a la técnica jurídica y al razonamiento, sujetándose siempre a la estricta aplicación de la ley. Los funcionarios del Ministerio Público tienen la obligación de actuar con honradez, rectitud e integridad, preservando en todo momento la buena imagen de la Procuraduría.
-
-Las funciones se ejercerán con transparencia, de manera que permitan y promuevan el conocimiento de los procedimientos, contenido y fundamento de las decisiones que se adopten, sin perjuicio de la reserva en los casos en que la ley o el interés público lo determinen.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 399.
 
-RESIDENCIA. Los funcionarios y empleados del Ministerio Público no podrán abandonar el lugar de su residencia, ni dejar de desempeñar sus funciones sin la licencia, permiso o autorización previa correspondiente.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 400.
 
-ESTADÍSTICA Y ARCHIVOS. Los funcionarios y empleados del Ministerio Público deberán llevar los registros actualizados que servirán para la elaboración de la estadística, debiendo dejar copia de toda la correspondencia oficial y en orden los archivos.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 401.
 
-INSIGNIAS Y DISTINTIVOS. El Procurador determinará los supuestos y condiciones en que le (sic) personal deberá usar uniformes, insignias o distintivos para el ejercicio de sus funciones o abstenerse de ello; y dispondrá lo necesario para garantizar su uso adecuado.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 402.
 
-INCORPORACIÓN DE TECNOLOGÍAS. La Procuraduría podrá establecer e incorporar los sistemas tecnológicos necesarios para eficientar sus funciones, reforzar la seguridad de su personal y de los ciudadanos y facilitar a éstos el desahogo de los trámites y el ejercicio de los derechos que les correspondan.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 403.
 
-BASES DE DATOS. La Procuraduría podrá establecer, incorporar y operar las bases de datos que le sean útiles o necesarias para el desarrollo de sus funciones; las que serán de uso estrictamente confidencial y reservadas para tales fines.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 404.
 
-SEGURIDAD PERSONAL. El Procurador dispondrá de lo necesario para proveer a su seguridad personal y la de su familia; así como a la de sus subordinados cuando lo estime necesario; y tendrá derecho, a su retiro, a contar con las medidas que le asigne la Institución con el mismo fin, hasta por un período igual al que haya desempeñado el cargo, contado a partir de su separación.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 405.
 
-USO DE LA FUERZA. La Policía Ministerial detenta fuerza pública para el ejercicio de sus atribuciones, la que deberá ejercer de manera racional y en estricto apego a las disposiciones aplicables.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 T R A N S I T O R I O S
 
@@ -4267,6 +3759,66 @@ LIC. JESÚS TORRES CHARLES
 
 (RÚBRICA)
 
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+P.O. 12 DE MAYO DE 2009.
+
+DECRETO NO. 51, POR EL QUE SE MODIFICAN DIVERSOS ARTICULOS DE LA LEY DE PROCURACION DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA.
+
+PRIMERO. La presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a la Procuraduría General de Justicia del Estado y al Procurador General de Justicia del Estado; a la Secretaría de Seguridad Pública del Estado y al Secretario de Seguridad Pública del Estado, se entenderán hechas a la Fiscalía General y al Fiscal General.
+
+TERCERO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a las subprocuradurías y a los subprocuradores, se entenderán hechas a las fiscalías especializadas y a los fiscales especializados, conforme a las siguientes denominaciones:
+
+Subprocurador Ministerial: Fiscal Ministerial, de Investigación y Operación Policial.
+
+Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos y Legalidad.
+
+Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE MAYO DE 2009.
+
+DECRETO NO. 5, POR EL QUE SE EMITE LA LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE COAHUILA DE ZARAGOZA.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a la Procuraduría General de Justicia del Estado y al Procurador General de Justicia del Estado; a la Secretaría de Seguridad Pública del Estado y al Secretario de Seguridad Pública del Estado, se entenderán hechas a la Fiscalía General y al Fiscal General.
+
+TERCERO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a las subprocuradurías y a los subprocuradores, se entenderán hechas a las fiscalías especializadas y a los fiscales especializados, conforme a las siguientes denominaciones:
+
+Subprocurador Ministerial: Fiscal Ministerial, de Investigación y Operación Policial.
+
+Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos y Legalidad.
+
+Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
+
+CUARTO. Se derogan de la Ley de Procuración de Justicia y de los reglamentos emanados de ella, las disposiciones que sean contrarias a las normas establecidas en la Ley Orgánica de la Fiscalía General, debiéndose de observan las siguientes reglas:
+
+I. Se faculta al Fiscal General para que haga las adecuaciones administrativas necesarias, respecto de los puestos y funciones que deberán desempeñar los servidores públicos en la Fiscalía General.
+
+II. Los recursos materiales y financieros de la Procuraduría General de Justicia del Estado de Coahuila, pasan a formar parte de la Fiscalía General, sin necesidad de ningún procedimiento posterior.
+
+QUINTO. Se derogan de la Ley de Seguridad Pública del Estado y de los reglamentos emanados de ella, las disposiciones que sean contrarias a las normas establecidas en la Ley Orgánica de la Fiscalía General, debiéndose de observan las siguientes reglas:
+
+I. Se autoriza al Fiscal General del Estado, para que determine qué personal de confianza de la Secretaría de Seguridad Pública deberá integrarse a la Fiscalía General y la asignación de sus funciones, de acuerdo a las necesidades y posibilidades de la Institución.
+
+II. Los recursos materiales y financieros de la Secretaría de Seguridad Pública del Estado de Coahuila, pasan a formar parte de la Fiscalía General, sin necesidad de ningún procedimiento posterior.
+
+III. El Consejo Consultivo Estatal de Seguridad Pública, cesa en sus funciones.
+
+SEXTO. Todos los procedimientos y asuntos pendientes de la Procuraduría General de Justicia y de la Secretaría de Seguridad Pública del Estado, serán tramitados y resueltos por la Fiscalía General de conformidad con las leyes y reglamentos vigentes en el tiempo de la comisión de los actos y los hechos.
+
+SÉPTIMO. Los nombramientos del Fiscal General y de los fiscales especializados: Ministerial, de Investigación y Operación Policial; de Control de Procesos y Legalidad; Jurídico, de Profesionalización y de Proyectos; y de Inteligencia y Políticas Públicas se entenderán extendidos por el período constitucional de ocho años, por lo tanto sus períodos respectivos se contarán a partir de la fecha en que rindan protesta.
+
+OCTAVO. El Reglamento Interior de la Fiscalía General del Estado se expedirá en un plazo no mayor a seis meses a la publicación de este Decreto. Hasta en tanto no entre en vigor el nuevo Reglamento y la demás normatividad interna, seguirán vigentes las normas reglamentarias y de cualquier otro nivel que tenía la extinta Procuraduría General de Justicia del Estado siempre que no se opongan a la presente Ley
+
+NOVENO. Todas las disposiciones contenidas en esta Ley que se relacionen con el nuevo sistema penal acusatorio, tendrán aplicación una vez que éste se implemente.
+
+DÉCIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
 ### CAPÍTULO II.
 
 DE LOS DEBERES.
@@ -4275,9 +3827,13 @@ DE LOS DEBERES.
 
 DEL SERVICIO CIVIL DE CARRERA.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE MAYO DE 2009)</small>
+
 ### CAPÍTULO I.
 
 DEL NO EJERCICIO DE LA ACCIÓN PENAL.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
 
 ### CAPÍTULO II.
 
@@ -4287,9 +3843,13 @@ DEL RECURSO DE RECLAMACIÓN.
 
 DE LA EXPEDICIÓN DE COPIAS.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
 ## TÍTULO CUARTO.
 
 DE LAS RESPONSABILIDADES.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE MAYO DE 2009)</small>
 
 ### CAPÍTULO IV.
 
@@ -4331,6 +3891,10 @@ OTRAS DISPOSICIONES.
 
 DEL REGIMEN DE SERVICIO.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE MAYO DE 2009)</small>
+
 ## TÍTULO OCTAVO.
 
 DISPOSICIONES COMPLEMENTARIAS.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE MAYO DE 2009)</small>
