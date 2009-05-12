@@ -4,7 +4,7 @@ identifier: "COA-codigo-de-procedimientos-penales-de-coahuila-15147"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-25"
-last_updated: "2009-02-06"
+last_updated: "2009-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el martes 25 de mayo de 1999.
 
@@ -907,7 +907,9 @@ VI. FIRMA. La firma del funcionario que ordene la citación debidamente sellada 
 
 ENTREGA PERSONAL DE CÉDULA. La cédula se hará al menos en original y duplicado. Existirá formato para uno y otro. En el duplicado, habrá espacio adicional para hacer constar los incidentes en la entrega del original.
 
-La cédula original se entregará al destinatario donde se le localice, de preferencia en su domicilio y/o donde trabaje, por actuario del juzgado; por la policía ministerial o por los interesados. El juzgador también podrá disponer la entrega de cédulas por conducto de la policía estatal o municipal. Siempre se asentará en el duplicado, el nombre, apellidos y cargo de quién entregue la cédula. Si el encargado de la citación es uno de los interesados, en vez del cargo pondrá su domicilio.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+La cédula original se entregará al destinatario donde se le localice, de preferencia en su domicilio y/o donde trabaje, por actuario del juzgado; por la Policía del Estado o por los interesados. El juzgador también podrá disponer la entrega de cédulas por conducto de la policía municipal. Siempre se asentará en el duplicado, el nombre, apellidos y cargo de quién entregue la cédula. Si el encargado de la citación es uno de los interesados, en vez del cargo pondrá su domicilio.
 
 ###### ARTÍCULO 96.
 
@@ -987,15 +989,9 @@ INCUMPLIMIENTO DEL CITADO U OBLIGADO A CUMPLIR DETERMINACIÓN MINISTERIAL O JUDI
 
 Si el desacato persiste por cualquier causa indebida atribuible al apremiado, se procederá penalmente en su contra sin necesidad de agotar otro medio de apremio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 16 DE MAYO DE 2008)</small>
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-(REPUBLICADO, P.O. 16 DE MAYO DE 2008)
-
-El juzgador girará la orden de presentación a la policía ministerial por conducto del Ministerio Público; o a cualquier dependencia estatal o municipal de policía; quienes tendrán el deber de cumplirla.
+El juzgador girará la orden de presentación a la Policía del Estado por conducto del Ministerio Público; o a cualquier dependencia estatal o municipal de policía; quienes tendrán el deber de cumplirla.
 
 ###### ARTÍCULO 106.
 
@@ -1179,9 +1175,11 @@ EXHORTOS PARA LA APREHENSIÓN DEL INCULPADO EN EL EXTRANJERO. Los exhortos que s
 
 El auto en que se decretaron; el pedimento del Ministerio Público; la media filiación del inculpado si fuere posible; o los datos necesarios para su identificación. Así como copia certificada de todas las constancias de la averiguación previa o de la causa en las que se sustenta la aprehensión. Además, los requisitos que señale la ley de extradición y los convenios internacionales.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 133.
 
-APREHENSIÓN DEL INCULPADO FUERA DEL ESTADO O DENTRO DE ÉL POR ÓRDENES DE FUERA DEL ESTADO. Para cumplir las órdenes de aprehensión de jueces fuera del estado o para realizar fuera del estado las que se dicten por jueces del estado, se observará el convenio de colaboración que la Procuraduría General de Justicia celebró con la procuraduría que corresponda, de conformidad con el artículo 119 constitucional.
+APREHENSIÓN DEL INCULPADO FUERA DEL ESTADO O DENTRO DE ÉL POR ÓRDENES DE FUERA DEL ESTADO. Para cumplir las órdenes de aprehensión de jueces fuera del estado o para realizar fuera del estado las que se dicten por jueces del estado, se observará el convenio de colaboración que en la materia se encuentren vigentes, que la Fiscalía General del Estado celebró con la procuraduría que corresponda, de conformidad con el artículo 119 constitucional.
 
 ###### ARTÍCULO 134.
 
@@ -1249,9 +1247,11 @@ Si no se hace la designación, bastará notificar a cualquiera de los defensores
 
 Cuando intervengan en el proceso varios agentes del Ministerio Público, se podrá notificar a cualquiera de ellos.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 141.
 
-LUGAR PARA HACER NOTIFICACIONES PERSONALES. Las notificaciones personales se harán en el lugar que señalaron las partes o en el juzgado o tribunal. Las notificaciones al Ministerio Público, además, en los locales de las agencias, delegaciones o Procuraduría, según corresponda.
+LUGAR PARA HACER NOTIFICACIONES PERSONALES. Las notificaciones personales se harán en el lugar que señalaron las partes o en el juzgado o tribunal. Las notificaciones al Ministerio Público, además, en los locales de las agencias, delegaciones o Fiscalía General, según corresponda.
 
 ###### ARTÍCULO 142.
 
@@ -1407,9 +1407,11 @@ ALTERACIÓN DEL ORDEN POR EL DEFENSOR. Si es el defensor quien altera el orden, 
 
 Para evitar que el inculpado carezca de defensor, se procederá conforme a lo que este código previene.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 164.
 
-FALTAS DEL AGENTE DEL MINISTERIO PÚBLICO. Cuando el agente del Ministerio Público cometa alguna falta durante la audiencia, se le impondrá multa; en caso de que reincida, se dará a conocer el hecho al Procurador General de Justicia para que envíe otro agente a sustituirlo.
+FALTAS DEL AGENTE DEL MINISTERIO PÚBLICO. Cuando el agente del Ministerio Público comenta alguna falta durante la audiencia, se le impondrá multa; en caso de que reincida, se dará a conocer el hecho al Fiscal General del Estado para que envíe otro agente a sustituirlo.
 
 ###### ARTÍCULO 165.
 
@@ -2041,6 +2043,12 @@ Durante el proceso, podrán pedirlo las partes. En cualquier caso motivarán y f
 
 El cateo para localizar y arrestar, arraigar, aprehender o hacer comparecer a una persona sólo procederá, si en su contra ya existe orden de arresto, arraigo, aprehensión o de comparecencia.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+ARTÍCUL0 251. AUTORIDADES QUE PUEDEN PRACTICAR CATEOS. El cateo se practicará por el juez que lo ordene; por el secretario o actuario del juzgado; según se prevenga en el mandamiento. Si alguna autoridad pidió al Ministerio Público solicitar el cateo, podrá asistir a la diligencia. Se auxiliarán siempre con los agentes del Ministerio Público y Policía del Estado
+
+Que estimen necesarios.
+
 ###### ARTÍCULO 251.
 
 AUTORIDADES QUE PUEDEN PRACTICAR CATEOS. El cateo se practicará por el juez que lo ordene; por el secretario o actuario del juzgado; según se prevenga en el mandamiento. Si alguna autoridad pidió al Ministerio Público solicitar el cateo, podrá asistir a la diligencia. Se auxiliarán siempre con los agentes del Ministerio Público y policía ministerial que estimen necesarios.
@@ -2447,11 +2455,13 @@ PRESUPUESTO ADICIONAL CUANDO SE TRATE DE ORDEN DE APREHENSIÓN. Para librar orde
 
 ORDEN DE APREHENSIÓN O COMPARECENCIA NO OBSTANTE ESTÉ PENDIENTE LA APELACIÓN SOBRE SU NEGATIVA. No será obstáculo para dictar orden de aprehensión o de comparecencia, el que esté por resolverse la apelación contra el auto anterior que le negó, si se acreditan nuevos datos que funden la orden.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 301.
 
-COMUNICACIÓN Y LUGAR DE EJECUCIÓN DE ORDEN DE APREHENSIÓN. El juez ordenará notificar la orden de aprehensión al agente del Ministerio Público que intervenga en el proceso y girará oficio al Procurador General de Justicia, para que se ejecute. A la notificación y el oficio se acompañará copia certificada del auto. El tribunal unitario girará el oficio directamente, cuando revoque la negativa de orden de aprehensión.
+COMUNICACIÓN Y LUGAR DE EJECUCIÓN DE ORDEN DE APREHENSIÓN. El Juez ordenará notificar la orden de aprehensión al agente del Ministerio Público que intervenga en el proceso y girará oficio al Fiscal General del Estado, para que se ejecute. A la notificación y el oficio se acompañará copia certificada del auto. El tribunal unitario girará el oficio directamente, cuando revoque la negativa de orden de aprehensión.
 
-Las órdenes de aprehensión se podrán ejecutar en todo el territorio del Estado; aun cuando se cumplan en distrito distinto al del juez que las libró. Cuando se ejecuten fuera del estado, se observará lo que prevenga el respectivo convenio entre procuradurías.
+Las órdenes de aprehensión se podrán ejecutar en todo el territorio del Estado; aun cuando se cumplan en distrito distinto al del juez que las libró. Cuándo se ejecuten fuera del estado, se observará lo que prevenga el respectivo convenio entre la Fiscalía General del Estado y otras procuradurías.
 
 ###### ARTÍCULO 302.
 
@@ -2465,7 +2475,9 @@ CUMPLIMIENTO DE ORDEN DE COMPARECENCIA. Cuando se trate de orden de comparecenci
 
 Al citatorio se agregará copia de la orden y en aquel se prevendrá al inculpado que si omite presentarse al juzgado dentro del plazo, se dará vista al Ministerio Público para que proceda en su contra por el delito de desacato. También se prevendrá al inculpado que de no presentarse al juzgado incurrirá en desacato y, además, se le aplicará arresto hasta por treinta y seis horas, como medida de apremio.
 
-Toda orden de comparecencia lleva implícitas estas prevenciones sin necesidad de que se consignen en ella. Si se carece del domicilio del inculpado o no se encuentra a éste; el citatorio y la orden de comparecencia se cumplirán por la policía ministerial; a la que se les comunicarán por conducto del Ministerio Público.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+Toda orden de comparecencia lleva implícitas estas prevenciones sin necesidad de que se consignen en ella. Si carece del domicilio del inculpado o no se encuentra a éste; el citatorio y la orden de comparecencia se cumplirán por la Policía del Estado; a las que se les comunicarán por conducto del Ministerio Público.
 
 ### CAPÍTULO IV. PERÍODO CONSTITUCIONAL
 
@@ -2495,7 +2507,9 @@ Se notificará la audiencia personalmente al Ministerio Público, al inculpado y
 
 PERSONAS QUE NO PUEDEN PRESENCIAR LA AUDIENCIA. La declaración preparatoria se practicará en local al que tenga acceso el público; sin que puedan estar presentes los testigos que se deban examinar. En el local no podrá haber más fuerza pública que la necesaria para custodiar al inculpado y mantener el orden.
 
-No se permitirá la presencia en la diligencia de declaración preparatoria o dentro de juzgado, a los agentes de policía ministerial que detuvieron al inculpado o lo custodiaron antes de la consignación; salvo que se trate de orden de comparecencia.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+No se permitirá la presencia en la diligencia de declaración preparatoria o dentro del juzgado, a los agentes de la Policía del Estado que detuvieron al inculpado o lo custodiaron al antes de la consignación; salvo que se trate de orden de comparecencia.
 
 ###### ARTÍCULO 306.
 
@@ -2833,9 +2847,11 @@ Si el juzgador lo considera conveniente, podrá ordenar la práctica de la actua
 
 IMPOSIBILIDAD PARA RENDIR TESTIMONIO EN EL JUZGADO. Si el testigo tuviere imposibilidad física para presentarse ante el juzgador, se le tomará su declaración en su domicilio o en el lugar en que se encuentre.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 353.
 
-TESTIMONIO POR ESCRITO DE ALGUNOS SERVIDORES PÚBLICOS. Se solicitará por escrito o se acudirá a su lugar de trabajo a tomarles testimonio, cuando haya que tomar declaración al gobernador; diputados; magistrados; procurador; secretarios del ejecutivo estatal; jueces; directores generales de la administración central estatal; presidentes municipales; regidores o síndicos; directores o representantes de entidades paraestatales o paramunicipales; descentralizadas o desconcentradas.
+TESTIMONIO POR ESCRITO DE ALGUNOS SERVIDORES PÚBLICOS. Se solicitará por escrito o se acudirá a su lugar de trabajo a tomarles testimonio, cuando haya que tomar declaración al gobernador; diputados; magistrados; fiscal general; secretarios del ejecutivo estatal; jueces; directores generales de la administración central estatal; presidentes municipales; regidores o síndicos; directores o representantes de entidades paraestatales o paramunicipaIes; descentralizadas o desconcentradas.
 
 ###### ARTÍCULO 354.
 
@@ -2965,9 +2981,11 @@ Si el inculpado o el defensor lo solicita y el juez lo estima indispensable, pod
 
 La reserva de identidad del denunciante, captor o testigo se hará cesar cuando el inculpado o su defensor soliciten careo por existir contradicciones esenciales entre las declaraciones del propio inculpado y la persona que declara en su contra. Pero la reserva se levantará hasta el momento mismo en que el careo se practique. Lo mismo se observará, si en la diligencia de confrontación se le reservó la identidad al confrontante.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 373.
 
-CONSECUENCIAS PROCESALES DE LA OMISIÓN DE CAREOS CONSTITUCIONALES. La práctica de los careos constitucionales es necesaria para la conclusión válida de la primera instancia. Excepto cuando no se lleven a cabo por inasistencia injustificada de quien, sin ser el inculpado, deba ser careado, no obstante que se le citó para la diligencia; o el juez dejó a cargo del Ministerio Público el citatorio para que por sí o por conducto de la policía ministerial lo cite o pueda presentarlo directamente. En cuyo caso, no tendrán validez legal las declaraciones del denunciante, querellante, captor o testigo sobre hechos que le consten en contra del inculpado.
+CONSECUENCIAS PROCESALES DE LA OMISIÓN DE CAREOS CONSTITUCIONALES. La práctica de los careos constitucionales es necesaria para la conclusión válida de primea instancia. Excepto cuando no se lleven a cabo por inasistencia injustificada de quien, sir ser el inculpado, deba ser careado, no obstante que se le citó para la diligencia; o el juez dejó a cargo del Ministerio Público el citatorio para que por sí o por conducto de la Policía del Estado lo cite o pueda presentarlo directamente. En cuyo caso, no tendrán validez legal las declaraciones del denunciante, querellante, captor o testigo sobre hechos que le consten en contra del inculpado.
 
 En los demás casos, la omisión de careos constitucionales dará lugar a la reposición del procedimiento, si es que ello afectó a la defensa del acusado, por trascender de manera determinante en su perjuicio al resultado del fallo.
 
@@ -3183,17 +3201,25 @@ DICTÁMENES OPUESTOS Y JUNTA DE PERITOS. Cuando las opiniones de los peritos dif
 
 Una vez que concluya la discusión, las partes y el defensor podrán intervenir por una sola ocasión, para interrogar a los peritos sobre sus opiniones vertidas. Si agotada la intervención de éstos y en su caso del juez, surgieren nuevos puntos de diferencia esencial, se procederá en igual forma por una vez más.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 403.
 
-INVALIDEZ DE PERITAJES DE AVERIGUACIÓN PREVIA, CUANDO LOS PERITOS DEJEN DE PRESENTARSE EN EL PROCESO. No tendrán validez los dictámenes que se rindan en la averiguación previa por peritos que sin motivo justificado no se presenten en el proceso, no obstante que se les citó legalmente; o que el juzgador dejó a cargo del Ministerio Público la presentación de peritos oficiales que laboren en la Procuraduría General de Justicia del Estado.
+INVALIDEZ DE PERITAJES DE AVERIGUACIÓN PREVIA, CUANDO LOS PERITOS DEJEN DE PRESENTARSE EN EL PROCESO. No tendrán validez los dictámenes que se rindan en la averiguación previa por peritos que sin motivo justificado no se presenten en el proceso, no obstante que se les citó legalmente; o que el juzgador dejó a cargo del Ministerio Público la presentación de peritos oficiales que laboren en la Fiscalía General del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
 En estos casos, siempre se dará al Ministerio Público citatorio en forma para que lo entregue al perito que corresponda o a su superior jerárquico para que lo hagan comparecer.
 
-Si algún perito deja de laborar para la Procuraduría General de Justicia del Estado o dependencia oficial, no quedará a cargo del Ministerio Público la entrega del citatorio. Pero si quedará a su cargo la presentación de los peritos que sin laborar para la Procuraduría hubiere nombrado durante la Averiguación Previa.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+Si algún perito deja de laborar para la Fiscalía General del Estado o dependencia oficial, no quedará a cargo del Ministerio Público la entrega del citatorio. Pero si quedará a su cargo la presentación de los peritos que sin laborar para la Fiscalía General hubiere nombrado durante la Averiguación Previa.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
 A todos los peritos se les prevendrá para que informen su cambio de domicilio al juez.
 
@@ -3595,7 +3621,9 @@ ACTOS PREPARATORIOS PARA RECIBIR LAS PRUEBAS. Antes de la audiencia se preparar�
 
 AUDIENCIA PRINCIPAL DE RECEPCIÓN DE PRUEBAS. El día y hora de la audiencia, el secretario llamará a las partes, los testigos, los peritos y demás personas que por disposición de la ley deban intervenir. Se determinará quiénes deben permanecer en el local donde se celebra la audiencia y quiénes en lugar separado, para introducirlos en su oportunidad.
 
-La audiencia se celebrará concurran o no las partes. Mas si los ausentes son el agente del Ministerio Público o el defensor: se les impondrá multa equivalente a veinte días de salario mínimo general vigente en la capital del estado; sin perjuicio de comunicar la falta al Procurador General de Justicia en el caso del Ministerio Público; y al superior jerárquico del defensor, si éste es el de oficio.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+La audiencia se celebrará concurran o no las partes. Mas si los ausentes son el agente del Ministerio Público o el defensor: se les impondrá multa equivalente a veinte días de salario mínimo general vigente en la capital del estado; sin perjuicio de comunicar la falta al Fiscal General en el caso del Ministerio Público; y al superior jerárquico del defensor, si éste es el de oficio.
 
 Se dejarán pendientes para la audiencia adicional las pruebas que no se prepararon.
 
@@ -3761,9 +3789,13 @@ Mas cuando se pida condenar al inculpado a reparar el daño por cantidad líquid
 
 MEDIDAS Y CONSECUENCIAS SI EL MINISTERIO PÚBLICO OMITE FORMULAR CONCLUSIONES. Al día siguiente de vencerse el plazo para formular conclusiones, de inmediato el juez requerirá al omiso para que las formule al día siguiente; con prevención de multa si la omisión continúa.
 
-Si esto último sucede, además de aplicar la multa al agente, el juez de inmediato dará vista a la delegación de la Procuraduría más cercana; para que en no más de diez días el delegado subsane la omisión, presentando las conclusiones en el juzgado. Además, se le prevendrá de aplicarle multa si omite presentarlas. El plazo de diez días será improrrogable. Al oficio se acompañará copia de la causa.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
 
-Si el superior inmediato omite formular conclusiones, se dará vista mediante oficio al procurador para que subsane la omisión y si el inculpado está preso, se ordenará su libertad sin perjuicio de arraigarlo.
+Si esto último sucede, además de aplicar la multa al agente, el Juez de inmediato dará vista a la delegación de la Fiscalía General más cercana; para que en no más de diez días el delegado subsane la omisión, presentando las conclusiones en el juzgado. Además, se le prevendrá de aplicarle multa si omite presentarlas. El plazo de diez días será improrrogable. Al oficio se acompañará copia de la causa.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+Si el superior inmediato omite formular conclusiones, se dará vista mediante oficio al Fiscal General para que subsane la omisión y si el inculpado está preso, se ordenará su libertad sin perjuicio de arraigarlo.
 
 El oficio y copia de la causa se entregarán con notificación personal; o se enviarán por los medios más rápidos y seguros posibles; dejando constancia en el expediente. Los plazos iniciarán desde el día que se notifique el auto; o según el acuse de recibo, se entregue el oficio en la oficina que corresponda. Para estimar si se cumple dentro del plazo se estará al día en que las conclusiones se reciban en el juzgado.
 
@@ -3773,7 +3805,9 @@ Sólo cuando el proceso exceda los plazos constitucionales para concluirlos por 
 
 CONCLUSIONES IRREGULARES. Se estimarán conclusiones irregulares, las que se formulen por delitos distintos a los que señale el auto de formal prisión o de sujeción a proceso que quede firme.
 
-En esos supuestos, el juez de inmediato dará vista a la delegación de la Procuraduría más cercana; para que en no más de cinco días el delegado corrija la irregularidad presentando conclusiones regulares en el juzgado. Al oficio se acompañará copia de la causa. Si dentro del plazo el delegado no corrige la irregularidad, se tendrán por confirmadas las conclusiones.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+En estos supuestos el juez de inmediato dará vista a la delegación de la Fiscalía General más cercana; para que en no más de cinco días el delegado corrija la irregularidad presentando conclusiones regulares en el juzgado. Al oficio se acompañará copia de la causa. Si dentro del plazo el delegado no corrige la irregularidad, se tendrán por confirmadas las conclusiones.
 
 Los plazos iniciarán desde el día que se notifique el auto; o se entregue el oficio en la oficina que corresponda según el acuse de recibo. Para estimar si se cumple dentro del plazo se estará al día en que las conclusiones se reciban en el juzgado.
 
@@ -5469,7 +5503,9 @@ AMONESTACIÓN. Los jueces de primera instancia, después de que se notifique la 
 
 VENTA O DESTRUCCIÓN DE INSTRUMENTO DEL DELITO. Cuando las autoridades judiciales decreten el decomiso de instrumentos u objetos de delito de uso lícito, los remitirán al recaudador de rentas del lugar en que residan, para que procedan a su venta.
 
-Si los instrumentos y los objetos de delito sólo sirven para delinquir o son de uso no autorizado, los remitirán al agente del Ministerio Público adscrito al juzgado, para que se destruyan con intervención de dos testigos. El representante del Ministerio Público, levantará acta por triplicado en la que describirá los instrumentos y los objetos; enviará luego copia al juez y otra al Procurador General de Justicia.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+Si los instrumentos y los objetos de delito sólo sirven para delinquir o son de uso no autorizado, los remitirán al agente del Ministerio Público adscrito al juzgado, para que se destruyan con intervención de dos testigos. El representante del Ministerio Público, levantará acta por triplicado en la que describirá los instrumentos y los objetos; enviará luego copia al juez y otra al Fiscal General.
 
 ###### ARTÍCULO 716.
 
@@ -5503,9 +5539,11 @@ Los delegados o supervisores penitenciarios llevarán un registro detallado sobr
 
 PREVENCIONES PARA EJECUTAR CIERTOS SUSTITUTIVOS. La ejecución de sanciones y la supervisión de las sanciones no privativas de la libertad, o de semilibertad como sustitutivo: Se llevarán a cabo en lugares diferentes de los destinados para la prisión preventiva o para la ejecución de penas de prisión con tratamiento institucional.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 720.
 
-PREVENCIONES PARA EJECUTAR CIERTOS SUSTITUTIVOS. Corresponderá también a la dependencia del Ejecutivo que le competa la ejecución de sanciones privativas y restrictivas de la libertad, con el auxilio de la policía ministerial por conducto del Ministerio Público; o de la Dirección de Seguridad Pública; según los casos; el traslado de procesados o sentenciados a otras instituciones de reclusión en los términos de este código y de la ley de ejecución de sanciones.
+PREVENCIONES PARA EJECUTAR CIERTOS SUSTITUTIVOS. Corresponderá también a la Fiscalía General del Estado el traslado de procesados o sentenciados a otras instituciones de reclusión en los términos de esté código y de la ley de ejecución de sanciones.
 
 ###### ARTÍCULO 721.
 
@@ -5880,3 +5918,19 @@ P.O. 6 DE FEBRERO DE 2009.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 12 DE MAYO DE 2009.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todas las disposiciones menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a la Procuraduría General de Justicia del Estado; a la Secretaría de Seguridad Pública del Estado y al Secretario de Seguridad Pública del Estado, se entenderán hechas a la Fiscalía General y al Fiscal General.
+
+TERCERO. Todas las disposiciones; menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a las subprocuradurías y a los subprocuradores, se entenderán hechas a las fiscalías especializadas y a los fiscales especializados, conforme a las siguientes denominaciones:
+
+Subprocurador Ministerial: Fiscal Ministerial, de Investigación y Operación Policial.
+
+Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos y Legalidad.
+
+Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
