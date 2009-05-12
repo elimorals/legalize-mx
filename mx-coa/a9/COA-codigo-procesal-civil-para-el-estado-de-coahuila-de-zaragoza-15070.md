@@ -4,7 +4,7 @@ identifier: "COA-codigo-procesal-civil-para-el-estado-de-coahuila-de-zaragoza-15
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-29"
-last_updated: "2008-06-10"
+last_updated: "2009-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 29 de junio de 1999.
 
@@ -569,7 +569,9 @@ Competencia por atracción.
 
 Corresponde a la Sala Civil y de lo Familiar en la primera instancia y al Pleno del Tribunal Superior de Justicia del Estado de Coahuila en la segunda, conocer de las controversias del orden civil en las que el Estado sea parte.
 
-Cuando a juicio del Pleno un asunto se considere de importancia trascendente para los intereses de la entidad, tras oír el parecer del Procurador General de Justicia del Estado, podrá atraerlo a su conocimiento para resolverlo en única instancia.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+Cuando a juicio del Pleno un asunto se considere de importancia trascendente para los intereses de la entidad, tras oír el parecer del Fiscal General del Estado, podrá atraerlo a su conocimiento para resolverlo en única instancia.
 
 Cuando por sus características especiales el asunto lo amerite, la Sala Civil y de lo Familiar podrá conocer de asuntos de la competencia de un Tribunal Unitario de Distrito, siempre que éste lo solicite mediante petición fundada o aquella lo decrete de oficio, expresando los motivos que tuviere para ello.
 
@@ -5035,7 +5037,9 @@ A los testigos de más de setenta años y a los enfermos, el juzgador podrá, se
 
 Testimonio de funcionarios públicos.
 
-Al Gobernador, los Secretarios de Despacho, Diputados, Magistrados, Procurador de Justicia, Subprocuradores, Jueces de Primera Instancia y Presidentes Municipales del Estado; a los Diputados y Senadores del Congreso de la Unión; a los Jueces de Distrito, titulares de dependencias federales y a los Generales con mando, que residan en el Estado, se pedirá su declaración mediante oficio y en esta forma la rendirán. El oficio en que se pida la declaración deberá contener o estar acompañado de los puntos del interrogatorio, el cual deberá ser exhibido por la parte que solicite la prueba, con el escrito de ofrecimiento.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+
+Al Gobernador, los Secretarios de Despacho, Diputados, Magistrados, Fiscal General, Fiscales Especializados, Jueces de Primera Instancia y Presidentes Municipales del Estado; a los Diputados y Senadores del Congreso de la Unión; a los Jueces de Distrito, titulares de dependencias federales y a los Generales con mando, que residan en el Estado, se pedirá su declaración mediante oficio y en esta forma la rendirán. El oficio en que se pida la declaración deberá contener o estar acompañado de los puntos del interrogatorio, el cual deberá ser exhibido por la parte que solicite la prueba, con el escrito de ofrecimiento.
 
 En casos urgentes y cuando los propios funcionarios lo deseen, podrán rendir su declaración personalmente. La contraparte podrá formular preguntas adicionales dentro de los tres días siguientes a la notificación del auto que admita la prueba.
 
@@ -13206,3 +13210,19 @@ P.O. 10 DE JUNIO DE 2008.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 12 DE MAYO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a la Procuraduría General de Justicia del Estado y al Procurador General de Justicia del Estado; a la Secretaría de Seguridad Pública del Estado y al Secretario de Seguridad Pública del Estado, se entenderán hechas a la Fiscalía General y al Fiscal General.
+
+TERCERO. Todas las disposiciones; menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a las subprocuradurías y a los subprocuradores, se entenderán hechas a las fiscalías especializadas y a los fiscales especializados, conforme a las siguientes denominaciones:
+
+Subprocurador Ministerial: Fiscal Ministerial, de Investigación y Operación Policial.
+
+Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos y Legalidad.
+
+Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
