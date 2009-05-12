@@ -4,7 +4,7 @@ identifier: "COA-ley-de-seguridad-publica-del-estado-de-coahuila-de-zaragoza-474
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-25"
-last_updated: "2008-05-16"
+last_updated: "2009-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47452&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COA"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS SEGUNDO Y NOVENO TRANSITORIOS DE LA LEY DE PROCURACION DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 16 DE MAYO DE 2008, QUEDARAN DEROGADAS LAS DISPOSICIONES DEL PRESENTE ORDENAMIENTO, EXCLUSIVAMENTE EN LO QUE SE REFIERAN A LA SELECCION Y ADMISION DE PERSONAL Y AL SERVICIO DE CARRERA DEL PERSONAL DEL MINISTERIO PUBLICO Y SUS AUXILIARES DIRECTOS, EN CUANTO SE OPONGAN A LA NUEVA LEY, A PARTIR DE LOS 6 MESES POSTERIORES A LA PUBLICACION DE ESTA ULTIMA.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DE LA LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 12 DE MAYO DE 2009, SE DEROGAN LAS DISPOSICIONES QUE SEAN CONTRARIAS A LAS NORMAS ESTABLECIDAS EN EL NUEVO ORDENAMIENTO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2005.
 
@@ -1612,3 +1612,39 @@ NOVENO. Se derogan las disposiciones de la Ley de Seguridad Pública del Estado 
 DÉCIMO. El personal que desee incorporarse al Servicio Civil de Carrera contará con el plazo de un año a partir de que la presente Ley entre en vigor, para solicitar su incorporación.
 
 DÉCIMO PRIMERO. Las Agencias y las Coordinaciones del Ministerio Público conservarán su denominación, especialización o adscripción territorial, hasta en tanto no se modifiquen con sujeción a lo dispuesto por la presente Ley.
+
+P.O. 12 DE MAYO DE 2009.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a la Procuraduría General de Justicia del Estado y al Procurador General de Justicia del Estado; a la Secretaría de Seguridad Pública del Estado y al Secretario de Seguridad Pública del Estado, se entenderán hechas a la Fiscalía General y al Fiscal General.
+
+TERCERO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a las subprocuradurías y a los subprocuradores, se entenderán hechas a las fiscalías especializadas y a los fiscales especializados, conforme a las siguientes denominaciones:
+
+Subprocurador Ministerial: Fiscal Ministerial, de Investigación y Operación Policial.
+
+Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos y Legalidad.
+
+Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
+
+CUARTO. Se derogan de la Ley de la Procuración de Justicia y de los reglamentos emanados de ella, las disposiciones que sean contrarias a las normas establecidas en la Ley Orgánica de la Fiscalía General, debiéndose de observar las siguientes reglas:
+
+I. Se faculta al Fiscal General para que haga las adecuaciones administrativas necesarias, respecto de los puestos y funciones que deberán desempeñar los servidores públicos en la Fiscalía General.
+
+II. Los recursos materiales y financieros de la Procuraduría General de Justicia del Estado de Coahuila, pasan a formar parte de la Fiscalía general, sin necesidad de ningún procedimiento posterior.
+
+QUINTO. Se derogan de la Ley de Seguridad Pública del Estado y de los reglamentos emanados de ella, las disposiciones que sean contrarias a las normas establecidas en la Ley Orgánica de la Fiscalía General, debiéndose de observar las siguientes reglas:
+
+I. Se autoriza al Fiscal General del Estado, para que determine qué personal de confianza de la Secretaría de Seguridad Pública deberá integrarse a la Fiscalía General y la asignación de sus funciones, de acuerdo a las necesidades y posibilidades de la Institución.
+
+II. Los recursos materiales y financieros de la Secretaría de Seguridad Pública del Estado de Coahuila, pasan a formar parte de la Fiscalía general, sin necesidad de ningún procedimiento posterior.
+
+SEXTO. Todos los procedimientos y asuntos pendientes de la Procuraduría General de Justicia y de la Secretaría de Seguridad Pública del Estado, serán tramitados y resueltos por la Fiscalía General de conformidad con las leyes y reglamentos vigentes en el tiempo de la comisión de los actos y los hechos.
+
+SÉPTIMO. Los nombramientos del Fiscal General y de los fiscales especializados: Ministerial, de investigación y Operación Policial; de Control de Procesos y Legalidad; Jurídico, de Profesionalización y de Proyectos; y de Inteligencia y Políticas Públicas se entenderán extendidas por el período constitucional de ocho años, por lo tanto sus períodos respectivos se contarán a partir de la fecha en que rindan protesta.
+
+OCTAVO. El Reglamento Interior de la Fiscalía General del Estado se expedirá en un plazo no mayo a seis meses a la publicación de este Decreto. Hasta en tanto no entre en vigor el nuevo Reglamento y la demás normatividad interna, seguirán vigentes las normas reglamentarias y de cualquier otro nivel que tenía la extinta Procuraduría General de Justicia del Estado siempre que no se opongan a la presente Ley.
+
+NOVENO. Todas las disposiciones contenidas en esta Ley que se relacionen con el nuevo sistema penal acusatorio, tendrán aplicación una vez que éste se implemente.
+
+DÉCIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
