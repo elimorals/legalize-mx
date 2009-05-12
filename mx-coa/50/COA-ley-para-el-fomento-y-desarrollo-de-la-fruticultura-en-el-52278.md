@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-fomento-y-desarrollo-de-la-fruticultura-en-el-52278
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-27"
-last_updated: "2006-10-27"
+last_updated: "2009-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 27 de octubre de 2006.
 
@@ -169,7 +169,9 @@ IV. Los Ayuntamientos de los 38 Municipios del Estado.
 
 Son dependencias y órganos auxiliares para la aplicación de esta ley:
 
-I. La Dirección General de Seguridad Pública del Estado.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+I. La Fiscalía General del Estado.
 
 II. La Dirección de Seguridad Pública Municipal y
 
@@ -393,7 +395,9 @@ En los casos en los que por causa derivada del incumplimiento de las normas de c
 
 Corresponde a la Secretaría, identificar, declarar y sancionar las infracciones a esta ley, así como turnar las actuaciones practicadas a la Secretaría de Finanzas, en un término no menor de 5 días hábiles, con el fin de hacer efectivas las sanciones conforme al Código Fiscal para el Estado de Coahuila.
 
-Si la infracción constituye además un delito, la Secretaría consignará los hechos a la Procuraduría General de Justicia del Estado, sin perjuicio de aplicar las sanciones administrativas que procedan.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+Si la infracción constituye además un delito, la Secretaría consignará los hechos a la Fiscalía General del Estado, sin perjuicio de aplicar las sanciones administrativas que procedan.
 
 ###### ARTICULO 30.
 
@@ -534,3 +538,21 @@ EL SECRETARIO DE FOMENTO AGROPECUARIO
 LIC. HÉCTOR ÓSCAR FERNÁNDEZ AGUIRRE
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE MAYO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a la Procuraduría General de Justicia del Estado y al Procurador General de Justicia del Estado; a la Secretaría de Seguridad Pública del Estado y al Secretario de Seguridad Pública del Estado, se entenderán hechas a la Fiscalía General y al Fiscal General.
+
+TERCERO. Todas las disposiciones; menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a las subprocuradurías y a los subprocuradores, se entenderán hechas a las fiscalías especializadas y a los fiscales especializados, conforme a las siguientes denominaciones:
+
+Subprocurador Ministerial: Fiscal Ministerial, de Investigación y Operación Policial.
+
+Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos y Legalidad.
+
+Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
