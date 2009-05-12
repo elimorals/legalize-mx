@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2009-02-10"
+last_updated: "2009-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -620,6 +620,10 @@ Cuando los servidores públicos tengan que desempeñar comisión de representaci
 La Entidad Pública, previo el estudio del caso, podrá conceder permiso o licencia a sus servidores públicos hasta por 60 días por cada año calendario, siempre que el solicitante tuviere, por lo menos un año de antigüedad en el servicio.
 
 Se podrá otorgar permiso o licencia sin goce de sueldo a los servidores públicos, hasta por 30 días, cuando éstos tengan por lo menos, 6 meses de antigüedad en el servicio.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2009)</small>
+
+Cuando los servidores públicos aspiren a un cargo público de elección popular, se le concederá permiso o licencia sin goce de sueldo, por el tiempo que duren las precampañas y campañas electorales.
 
 Para que los permisos o licencias se concedan es requisito previo la solicitud por escrito con 8 días anteriores a la fecha en que debe empezar a surtir sus efectos el mismo.
 
@@ -2390,3 +2394,7 @@ P.O. 6 DE DICIEMBRE DE 2008.
 P.O. 10 DE FEBRERO DE 2009.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 12 DE MAYO DE 2009.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
