@@ -4,7 +4,7 @@ identifier: "COA-ley-apicola-para-el-estado-de-coahuila-de-zaragoza-3461"
 country: "mx"
 rank: "ley"
 publication_date: "1993-08-31"
-last_updated: "1993-08-31"
+last_updated: "2009-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY APICOLA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Coahuila, el martes 31 de agosto de 1993.
 
@@ -97,9 +97,11 @@ D).- Las Delegaciones Estatales y los Distritos de Desarrollo Rural de la Secret
 
 E).- Las Presidencias Municipales.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 5.
 
-Son dependencias y órganos auxiliares para la aplicación de esta Ley, la Dirección General de Seguridad Pública del Estado, la Comisión Estatal de Protección Civil, los Consejos Municipales de Protección Civil, las Asociaciones Apícolas constituídas conforme a la Ley de Asociaciones Ganaderas y su Reglamento, con registro y licencia zoosanitaria vigente de la Secretaría de Agricultura y Recursos Hidráulicos, las Asociaciones de Fruticultores del Estado, así como la Unión Nacional de Apicultores.
+Son dependencias y órganos auxiliares para la aplicación de esta Ley, la Fiscalía General del Estado, la Secretaría de Gobierno, a través de la Subsecretaría de Protección Civil, las unidades municipales de protección civil, las Asociaciones Apícolas constituidas conforme a la Ley de Asociaciones Ganaderas y su Reglamento, con registro y licencia zoosanitaria vigente de la Secretaría de Agricultura y Recursos Hidráulicos, las Asociaciones de Fruticultores del Estado, así como la Unión Nacional de Apicultores.
 
 ###### ARTICULO 6.
 
@@ -355,9 +357,11 @@ Cuando por causa derivada del incumplimiento de las normas de control apícola c
 
 Corresponde a la Secretaría de Desarrollo Rural investigar, declarar y sancionar las infracciones a esta Ley, así como turnar las actuaciones practicadas a la Secretaría de Finanzas a fin de hacer efectivas las sanciones conforme al Código Fiscal del Estado de Coahuila.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 42.
 
-Si la infracción constituye además un delito, la Secretaría de Desarrollo Rural consignará los hechos a la Procuraduría General de Justicia del Estado, sin perjuicio de aplicar las sanciones administrativas que procedan.
+Si la infracción constituye además un delito, la Secretaría de Fomento Agropecuario consignará los hechos a la Fiscalía General del Estado, sin perjuicio de aplicar las sanciones administrativas que procedan.
 
 ###### ARTICULO 43.
 
@@ -496,3 +500,21 @@ EL SECRETARIO DE FINANZAS
 C.P. ENRIQUE BARRERA CHAVEZ
 
 (RUBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE MAYO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a la Procuraduría General de Justicia del Estado y al Procurador General de Justicia del Estado; a la Secretaría de Seguridad Pública del Estado y al Secretario de Seguridad Pública del Estado, se entenderán hechas a la Fiscalía General y al Fiscal General.
+
+TERCERO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a las subprocuradurías y a los subprocuradores, se entenderán hechas a las fiscalías especializadas y a los fiscales especializados, conforme a las siguientes denominaciones:
+
+Subprocurador Ministerial: Fiscal Ministerial, de Investigación y Operación Policial.
+
+Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos y Legalidad.
+
+Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
