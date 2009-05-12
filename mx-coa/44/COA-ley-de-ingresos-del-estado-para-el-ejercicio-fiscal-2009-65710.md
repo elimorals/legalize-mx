@@ -4,7 +4,7 @@ identifier: "COA-ley-de-ingresos-del-estado-para-el-ejercicio-fiscal-2009-65710"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2008-12-23"
-last_updated: "2008-12-23"
+last_updated: "2009-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE INGRESOS DEL ESTADO PARA EL EJERCICIO FISCAL 2009
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Chihuahua, el martes 23 de diciembre de 2008.
 
@@ -73,7 +73,9 @@ II.- DERECHOS.
 
 7. Por servicios de la Secretaría de la Función Pública;
 
-8. Por servicios de la Procuraduría General de Justicia;
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+8. Por servicios de la Fiscalía General del Estado;
 
 9. Por servicios por Derecho de Acceso a la Información.
 
@@ -476,3 +478,21 @@ TOTAL EXCEDENTES Y
 FINANCIAMIENTOS $-
 
 TOTAL $24,968,800 100.0%
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+P.O. 12 DE MAYO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a la Procuraduría General de Justicia del Estado y al Procurador General de Justicia del Estado; a la Secretaría de Seguridad Pública del Estado y al Secretario de Seguridad Pública del Estado, se entenderán hechas a la Fiscalía General y al Fiscal General.
+
+TERCERO. Todas las disposiciones; menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a las subprocuradurías y a los subprocuradores, se entenderán hechas a las fiscalías especializadas y a los fiscales especializados, conforme a las siguientes denominaciones:
+
+Subprocurador Ministerial: Fiscal Ministerial, de Investigación y Operación Policial.
+
+Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos y Legalidad.
+
+Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
