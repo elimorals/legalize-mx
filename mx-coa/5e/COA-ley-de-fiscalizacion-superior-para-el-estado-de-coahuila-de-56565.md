@@ -4,7 +4,7 @@ identifier: "COA-ley-de-fiscalizacion-superior-para-el-estado-de-coahuila-de-565
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-06"
-last_updated: "2008-06-27"
+last_updated: "2009-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE FISCALIZACION SUPERIOR PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 6 de julio de 2007.
 
@@ -649,7 +649,9 @@ VII. No haber ocupado un cargo de elección popular o de dirección en algún pa
 
 VIII. No haber sido ministro de culto religioso durante los tres años anteriores al día de la designación, y
 
-IX. No haber sido Titular de alguno de los Poderes, Secretario del Ramo de la Administración Pública Estatal, Procurador General de Justicia del Estado, Consejero o su equivalente de alguno de los organismos públicos autónomos, Tesorero Municipal, durante el año calendario previo al día de la designación.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+IX. No haber sido Titular de alguno de los Poderes, Secretario del Ramo de la Administración Pública Estatal, Fiscal General del Estado, Consejero o su equivalente de alguno de los organismos públicos autónomos, Tesorero Municipal, durante el año calendario previo al día de la designación.
 
 ###### Artículo 64.
 
@@ -822,3 +824,19 @@ P.O. 27 DE JUNIO DE 2008.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 12 DE MAYO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a la Procuraduría General de Justicia del Estado y al Procurador General de Justicia del Estado; a la Secretaría de Seguridad Pública del Estado y al Secretario de Seguridad Pública del Estado, se entenderán hechas a la Fiscalía General y al Fiscal General.
+
+TERCERO. Todas las disposiciones; menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a las subprocuradurías y a los subprocuradores, se entenderán hechas a las fiscalías especializadas y a los fiscales especializados, conforme a las siguientes denominaciones:
+
+Subprocurador Ministerial: Fiscal Ministerial, de Investigación y Operación Policial.
+
+Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos y Legalidad.
+
+Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
