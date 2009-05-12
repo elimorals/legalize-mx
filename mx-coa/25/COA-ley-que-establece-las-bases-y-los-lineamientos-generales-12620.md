@@ -4,7 +4,7 @@ identifier: "COA-ley-que-establece-las-bases-y-los-lineamientos-generales-12620"
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-10"
-last_updated: "2003-02-21"
+last_updated: "2009-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12620&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY QUE ESTABLECE LAS BASES Y LOS LINEAMIENTOS GENERALES PARA LA RECEPCIÓN DE LAS APORTACIONES FEDERALES, Y LA CREACIÓN, DISTRIBUCIÓN, APLICACIÓN Y SEGUIMIENTO DE ESOS RECURSOS EN "LOS FONDOS ESTATALES PARA EL DESARROLLO SOCIAL EN COAHUILA"
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2009.
 
 Ley publicada en el Número 12 del Periódico Oficial del Estado de Coahuila, el martes 10 de febrero de 1998.
 
@@ -355,7 +355,7 @@ I.- Cumplir con sus obligaciones financieras, dando prioridad al servicio de las
 
 II.- Financiar programas de ampliación y mejoramiento de los servicios preventivos de seguridad pública de los Municipios. Para tal efecto, las autoridades municipales elaborarán programas con la asesoría de los Consejos Municipales de Seguridad Pública, estableciéndose los montos de asignación de los Fondos que les correspondan, que orientarán a estos programas.
 
-Los programas preventivos de seguridad pública municipal, incluyen la cobertura de: salarios derivados de nuevas plazas; comisiones y estímulos; nuevas prestaciones sociales; entrenamiento y capacitación; así como la adquisición de equipamiento y materiales que sean inherentes para el desempeño de esta función, tales como: uniformes, vehículos, aparatos de telecomunicación, y equipo para protección y seguridad, entre otros.
+Los programas preventivos de seguridad pública municipal, incluyen la cobertura de: salarios derivados de nuevas plazas; comisiones y estímulos; nuevas presentaciones sociales; entrenamiento y capacitación; así como la adquisición de equipamiento y materiales que sean inherentes para el desempeño de esta función, tales como: uniformes, vehículos, aparatos de telecomunicación, y equipo para protección y seguridad, entre otros.
 
 > <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2003)</small>
 
@@ -453,7 +453,9 @@ Los recursos del Fondo Estatal para la Seguridad Pública que sean determinados 
 
 I.- Reclutar, seleccionar, depurar, evaluar y formar los recursos humanos vinculados con tareas de seguridad pública;
 
-II.- Complementar las dotaciones de los Agentes del Ministerio Público, los policías judiciales o sus equivalentes y los peritos de la Procuraduría General de Justicia del Estado, de los policías preventivos o de custodios de los centros de readaptación social y de menores infractores;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+II.- Complementar las dotaciones de los Agentes del Ministerio Público, los policías del Estado y los peritos de la Fiscalía General del Estado o de custodios de los centros de readaptación social y de menores infractores;
 
 III.- Equipar a las policías preventivas y ministeriales o sus equivalentes, a los peritos, los ministerios públicos y custodios de centros penitenciarios y de menores infractores;
 
@@ -471,11 +473,11 @@ Lo anterior sin perjuicio de las demás acciones u obras que en su momento pudie
 
 La aplicación de los recursos que integran este Fondo se realizará conforme a los Programas Estatales de Seguridad Pública, mediante acciones y obras que se autoricen en el seno del Comité Técnico del Fideicomiso de Seguridad Pública del Estado de Coahuila, de conformidad con las disposiciones de la Ley General que establece las bases de Coordinación del Sistema Nacional de Seguridad Pública, así como de la Ley de Seguridad Pública del Estado de Coahuila y sus reglamentos, los acuerdos, resoluciones, convenios y anexos específicos que al respecto emita o, en su caso, suscriban la dependencia correspondiente del Ejecutivo Federal y el Estado.
 
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### Artículo 49-B.
 
-El Gobierno del Estado, por conducto de la Secretaría de Gobierno y de la Secretaría de Seguridad Pública y Protección Ciudadana, podrá proporcionar al Gobierno Federal, a través de la dependencia correspondiente del Ejecutivo Federal, la información financiera, operativa y estadística relativa a la administración del Fondo Estatal para la Seguridad Pública.
+El Gobierno del Estado, por conducto de la Secretaría de Gobierno y de la Fiscalía General del Estado, podrá proporcionar al Gobierno Federal, a través de la dependencia correspondiente del Ejecutivo Federal, la información financiera, operativa y estadística relativa a la administración del Fondo Estatal para la Seguridad Pública.
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2003)</small>
 
@@ -599,7 +601,7 @@ T R A N S I T O R I O S
 
 Artículo Primero.- Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Artículo Segundo.- Los recursos económicos que se destinen al Programa de Estímulos a la Educación Básica de 1998, que se señala en el Artículo 24, de esta Ley, deberán asegurar al menos el número de beneficiarios atendidos en 1997 y se financiarán con recursos provenientes del Fondo Estatal para la Infraestructura Social Municipal, hasta que el Gobierno Federal asigne las partidas presupuestales para cubrir este Programa.
+Artículo Segundo.- Los recursos económicos que se destinen al Programa de Estímulos a la Educación Básica de 1998, que se señala en el Artículo 24, de esta Ley, deberán asegurar al menos el número de beneficiarios atendidos en 1997 y se fincarán con recursos provenientes del Fondo Estatal para la Infraestructura Social Municipal, hasta que el Gobierno Federal asigne las partidas presupuestales para cubrir este Programa.
 
 Artículo Tercero.- Los municipios del Estado participarán con el 70% de la recaudación que se obtenga de los contribuyentes que tributen en la Sección III del Capítulo VI del Título IV de la Ley del Impuesto sobre la Renta, que a partir del 1 de enero de 1998 se incorporen al Registro Federal de Contribuyentes, como resultado de actos de verificación de las autoridades municipales, en los términos de los Convenios de Colaboración Administrativa en Materia Fiscal Federal que suscriba el Estado con la Federación y con sus municipios. Dicha participación se liquidará en los términos del artículo 3-B de la Ley de Coordinación Fiscal. Los recursos provenientes de esta recaudación deberán ser integrados al Fondo Estatal para la Infraestructura Social Municipal, debiendo aplicarse a su objetivo de gasto y apegarse a su normatividad y demás disposiciones aplicables.
 
@@ -643,6 +645,26 @@ EL SECRETARIO DE FOMENTO ECONOMICO
 
 ING. JOSE A. MURRA GIACOMAN
 
+EL SECRETARIO DE FOMENTO AGROPECUARIO
+
+LIC. ABRAHAM CEPEDA IZAGUIRRE
+
+EL SECRETARIO DE COMUNICACIONES Y OBRAS PUBLICAS
+
+LIC. ANTONIO KARAN MACCISE
+
+LA SECRETARIA DE SALUD Y DESARROLLO COMUNITARIO
+
+DRA. LOURDES QUINTANILLA RODRIGUEZ
+
+EL SECRETARIO DE EDUCACION PUBLICA
+
+LIC. OSCAR PIMENTEL GONZALEZ
+
+EL SECRETARIO DE LA CONTRALORIA Y MODERNIZACION ADMINISTRATIVA
+
+C. P. JUAN ANTONIO CEDILLO RIOS
+
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
@@ -652,3 +674,19 @@ P.O. 21 DE FEBRERO DE 2003.
 Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 12 DE MAYO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a la Procuraduría General de Justicia del Estado y al Procurador General de Justicia del Estado; a la Secretaría de Seguridad Pública del Estado y al Secretario de Seguridad Pública del Estado, se entenderán hechas a la Fiscalía General y al Fiscal General.
+
+TERCERO. Todas las disposiciones; menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a las subprocuradurías y a los subprocuradores, se entenderán hechas a las fiscalías especializadas y a los fiscales especializados, conforme a las siguientes denominaciones:
+
+Subprocurador Ministerial: Fiscal Ministerial, de Investigación y Operación Policial.
+
+Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos y Legalidad.
+
+Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
