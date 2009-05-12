@@ -4,7 +4,7 @@ identifier: "COA-ley-de-la-comision-de-los-derechos-humanos-del-estado-de-56012"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-05"
-last_updated: "2009-03-13"
+last_updated: "2009-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 5 de junio de 2007.
 
@@ -595,7 +595,9 @@ V. No desempeñar, ni haber desempeñado, cargo de dirección nacional, estatal 
 
 VI. No haber sido condenado por delito doloso que amerite pena de prisión de más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, que inhabilite para el cargo, cualquiera que haya sido la pena; y,
 
-VII. No ser Secretario de Estado, ni Procurador General de Justicia del Estado, Subsecretario o Director en la Administración Pública Federal, Estatal o Municipal, a menos que se separe de su encargo con un año de anticipación al día de su nombramiento.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+VII. No ser Secretario de Estado, ni Fiscal General del Estado, Subsecretario o Director en la Administración Pública Federal, Estatal o Municipal, a menos que se separe de su encargo con un año de anticipación al día de su nombramiento.
 
 ###### ARTICULO 46.
 
@@ -1536,3 +1538,19 @@ PRIMERO. El presente decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. Los requisitos y el procedimiento para la designación de quien funja como Presidente de la Comisión de Derechos Humanos del Estado de Coahuila, se regirá conforme a lo dispuesto por el presente decreto.
 
 TERCERO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 12 DE MAYO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a la Procuraduría General de Justicia del Estado y al Procurador General de Justicia del Estado; a la Secretaría de Seguridad Pública del Estado y al Secretario de Seguridad Pública del Estado, se entenderán hechas a la Fiscalía General y al Fiscal General.
+
+TERCERO. Todas las disposiciones; menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a las subprocuradurías y a los subprocuradores, se entenderán hechas a las fiscalías especializadas y a los fiscales especializados, conforme a las siguientes denominaciones:
+
+Subprocurador Ministerial: Fiscal Ministerial, de Investigación y Operación Policial.
+
+Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos y Legalidad.
+
+Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
