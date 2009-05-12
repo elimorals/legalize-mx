@@ -4,7 +4,7 @@ identifier: "COA-ley-de-adquisiciones-arrendamientos-y-contratacion-de-66143"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-06"
-last_updated: "2009-01-06"
+last_updated: "2009-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66143&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 6 de enero de 2009.
 
@@ -61,7 +61,9 @@ I. Secretaría: La Secretaría de Finanzas.
 
 II. Función Pública: La Secretaría de la Función Pública del Estado.
 
-III. Dependencias: Las Secretarías del ramo, la Procuraduría General de Justicia del Estado y las unidades administrativas adscritas a las mismas, así como aquellas encargadas del trámite de los asuntos que correspondan directamente al Gobernador del Estado;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+III. Dependencias: Las Secretarías del ramo, la Fiscalía General del Estado y las unidades administrativas adscritas a las mismas, así como aquellas encargadas del trámite de los asuntos que correspondan directamente al Gobernador del Estado;
 
 IV. Entidades: Los organismos públicos descentralizados estatales o municipales, las empresas de participación estatal o municipal mayoritaria, los fideicomisos en donde el fideicomitente sea el Gobierno del Estado y los organismos públicos de participación ciudadana;
 
@@ -1420,3 +1422,21 @@ EL SECRETARIO DE LA FUNCIÓN PÚBLICA
 ING. ISMAEL E. RAMOS FLORES
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+P.O. 12 DE MAYO DE 2009.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a la Procuraduría General de Justicia del Estado y al Procurador General de Justicia del Estado; a la Secretaría de Seguridad Pública del Estado y al Secretario de Seguridad Pública del Estado, se entenderán hechas a la Fiscalía General y al Fiscal General.
+
+TERCERO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a las subprocuradurías y a los subprocuradores, se entenderán hechas a las fiscalías especializadas y a los fiscales especializados, conforme a las siguientes denominaciones:
+
+Subprocurador Ministerial: Fiscal Ministerial, de Investigación y Operación Policial.
+
+Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos y Legalidad.
+
+Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
