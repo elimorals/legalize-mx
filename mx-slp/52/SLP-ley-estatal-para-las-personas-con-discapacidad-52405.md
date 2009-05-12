@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-para-las-personas-con-discapacidad-52405"
 country: "mx"
 rank: "ley"
 publication_date: "2006-03-16"
-last_updated: "2006-03-16"
+last_updated: "2009-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ESTATAL PARA LAS PERSONAS CON DISCAPACIDAD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el jueves 16 de marzo de 2006.
 
@@ -89,7 +89,9 @@ V. La Secretaría de Educación;
 
 VI. La Secretaría del Trabajo y Previsión Social;
 
-VII. El Sistema Estatal para el del (sic) Desarrollo Integral de la Familia;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+VII. El Sistema para el Desarrollo Integral de las Familia del Estado;
 
 VIII. El Instituto Potosino del Deporte;
 
@@ -137,73 +139,83 @@ VIII. Barreras sociales y culturales: son aquellas que se crean debido al prejui
 
 IX. Debilidad visual: a la incapacidad de dicha función visual después del tratamiento médico quirúrgico o congénito, cuya agudeza visual con su mejor corrección convencional sea de 20/60 a percepción de luz, o un campo visual menor a 10° pero que la visión baste para la ejecución de sus tareas;
 
-X. DIF: sistema para el Desarrollo Integral de la Familia;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+X. DIF Estatal: Sistema para el Desarrollo Integral de la Familia del Estado;
 
 XI. Dirección de Integración Social: Dirección de Integración Social de Personas con Discapacidad;
 
-XII. Discapacidad: está dividida en médica y social, e incluye las siguientes categorías:
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2009)</small>
 
-a) Deficiencia: hace referencia a las anormalidades de estructura corporal de la apariencia y de la función de un órgano, cualquiera que sea su causa; las deficiencias representan un trastorno en el nivel del órgano.
+XII. Enlaces designados: persona elegida por cada institución responsable de la aplicación de la Ley, para un adecuado control y seguimiento de las acciones que llevan a cabo las instituciones en materia de discapacidad;
 
-Las deficiencias se identifican en términos de miembros o de sentidos, disfunciones o limitación de funciones.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+
+XIII. Discapacidad: está dividida en médica y social; e incluye las siguientes categorías:
+
+a) Deficiencia: hace referencia a las anormalidades de estructura corporal de la apariencia y de la función de un órgano, cualquiera que sea su causa.
+
+Las deficiencias representan un trastorno en el nivel del órgano; las deficiencias se identifican en términos de pérdida de miembros o de sentidos, disfunciones o limitación de funciones.
 
 b) Discapacidad: refleja las consecuencias de la deficiencia a partir del rendimiento funcional y de la actividad del individuo; las discapacidades representan, por tanto, trastornos en el nivel de la persona, que al relacionarse con el contexto social producen minusvalías.
 
 c) Minusvalía: las desventajas que experimenta un individuo como consecuencia de las deficiencias y las discapacidades; las minusvalías reflejan las dificultades en la interacción y adaptación del individuo al entorno social;
 
-XIII. Discapacidad auditiva: a la pérdida auditiva con relación a la lesión del oído medio o interno, o bien a la patología retrococlear en la cual se puede presentar hipoacusia reversible o no;
+XIV. Discapacidad auditiva: a la pérdida auditiva con relación a la lesión del oído medio o interno, o bien a la patología retrococlear en la cual se puede presentar hipoacusia reversible o no;
 
-XIV. Discapacidad del habla o del lenguaje: se consideran trastornos del habla o del lenguaje a todas aquellas perturbaciones que dificultan la expresión lingüística oral;
+XV. Discapacidad del habla o del leguaje: se consideran trastornos del habla o del lenguaje a todas aquellas perturbaciones que dificultan la expresión lingüística oral;
 
-XV. Discapacidad intelectual: al impedimento permanente en las funciones mentales consecuencia de una alteración prenatal, perinatal o postnatal, que limita a la persona en forma permanente para establecer niveles de aprendizaje acordes a su edad cronológica, e implica diversos niveles de conciencia e inteligencia. Esta alteración limita al sujeto a realizar actividades necesarias para su conducta adaptativa al medio familiar, social, escolar o laboral;
+XVI. Discapacidad intelectual: al impedimento permanente en las funciones mentales consecuencia de una alteración prenatal, perinatal o postnatal, que limita a la persona en forma permanente para establecer niveles de aprendizaje acordes a su edad cronológica, e implica diversos niveles de conciencia e inteligencia. Esta alteración limita al sujeto a realizar actividades necesarias para su conducta adaptativa al medio familiar, social, escolar o laboral;
 
-XVI. Discapacidad neuromotora: a la secuela de una afección en el sistema nervioso central, periférico o ambos, que afecta el sistema músculo esquelético;
+XVII. Discapacidad neuromotora: a la secuela de una afección en el sistema nervioso central, periférico o ambos, que afecta el sistema músculo esquelético;
 
-XVII. Discapacidad visual: a la agudeza visual corregida en el mejor de los ojos, igual o menor de 20/200, o cuyo campo visual es menor de 20°;
+XVIII. Discapacidad visual: a la agudeza visual corregida en el mejor de los ojos, igual o menor de 20/200, o cuyo campo visual es menor de 20º;
 
-XVIII. Discriminación contra las personas con discapacidad: toda distinción exclusiva o restricción basada en una condición de discapacidad, consecuencia de discapacidad anterior o percepción de una discapacidad presente o pasada, que tenga el efecto o propósito de impedir o anular el reconocimiento, goce o ejercicio por parte de las personas con discapacidad, de sus derechos humanos y libertades fundamentales;
+XIX. Discriminación contra las personas con discapacidad: toda distinción exclusiva o restricción basada en una condición de discapacidad, consecuencia de discapacidad anterior o percepción de una discapacidad presente o pasada, que tenga el efecto o propósito de impedir o anular el reconocimiento, goce o ejercicio por parte de las personas con discapacidad, de sus derechos humanos y libertades fundamentales;
 
-XIX. Equiparación de oportunidades: proceso mediante el cual el medio físico, la información, la documentación, la vivienda, el transporte, los servicios sociales y sanitarios, la educación, la capacitación y el empleo, la vida cultura y social, incluidas las instalaciones deportivas y de recreo, se hacen accesibles para todos;
+XX. Equiparación de oportunidades: proceso mediante el cual el medio físico, la información, la documentación, la vivienda, el transporte, los servicios sociales y sanitarios, la educación, la capacitación y el empleo, la vida cultural y social, incluidas las instalaciones deportivas y de recreo, se hacen accesibles para todos;
 
-XX. Entorno accesible: es aquél que está diseñado de tal modo que puede ser utilizado con seguridad y eficacia por el mayor número posible de personas, ya sea que éstas tengan alguna discapacidad o no;
+XXI. Entorno accesible: es aquél que está diseñado de tal modo que puede ser utilizado con seguridad y eficacia por el mayor número posible de personas, ya sea que éstas tengan alguna discapacidad o no;
 
-XXI. Espacio privado de uso público: es aquél que pertenece a un particular y que tiene la característica de ser utilizado por las personas;
+XXII. Espacio privado de uso público: es aquel que pertenece a un particular y que tiene la característica de ser utilizado por las personas;
 
-XXII. Estimulación temprana: proceso que se utiliza precoz y oportunamente para activar la función motora y sensorial, aplicada en niños con factores de riesgo o evidencia de daño neurológico;
+XXIII. Estimulación temprana: proceso que se utiliza precoz y oportunamente para activar la función motora y sensorial, aplicada en niños con factores de riesgo o evidencia de daño neurológico;
 
-XXIII. Igualdad de oportunidades: principio que reconoce la importancia de las diversas necesidades del individuo, las cuales deben constituir la base de la planificación de la sociedad, con el fin de asegurar el empleo de los recursos para garantizar que las personas disfruten de iguales oportunidades de acceso y participación en idénticas circunstancias;
+XXIV. Igualdad de oportunidades: principio que reconoce la importancia de las diversas necesidades del individuo, las cuales deben constituir la base de la planificación de la sociedad, con el fin de asegurar el empleo de los recursos para garantizar que las personas disfruten de iguales oportunidades de acceso y participación, en idénticas circunstancias;
 
-XXIV. Índice APGAR: sistema de puntuación que permite valorar la calidad de la presión respiratoria y respuesta neurológica al momento del nacimiento, mediante la calificación de ciertos signos físicos;
+XXV. Índice APGAR: sistema de puntuación que permite valorar la calidad de la presión respiratoria y respuesta neurológica al momento del nacimiento, mediante la calificación de ciertos signos físicos;
 
-XXV. Ley: Ley Estatal para las Personas con Discapacidad;
+XXVI. Ley: Ley Estatal para las Personas con Discapacidad;
 
-XXVI. Lenguaje de señas mexicano: consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística que facilita el aprendizaje del idioma español;
+XXVII. Lenguaje de señas mexicano: consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística, que facilita el aprendizaje del idioma español;
 
-XXVII. Necesidad educativa especial: carencia de una persona derivada de su capacidad o de sus dificultades de aprendizaje;
+XXVIII. Necesidad educativa especial: carencia de una persona derivada de su capacidad o de sus dificultades de aprendizaje;
 
-XXVIII. Norma oficial: Norma Oficial Mexicana NOM173SSA11998, para la atención integral a personas con discapacidad;
+XXIX. Norma oficial: Norma Oficial Mexicana NOM173SSA11998, para la atención integral a personas con discapacidad;
 
-XXIX. Persona con discapacidad: ser humano que presenta de manera temporal o permanente, una disminución en sus facultades físicas, intelectuales o sensoriales, que le limitan realizar una actividad considerada como normal;
+XXX. Persona con discapacidad: ser humano que presenta de manera temporal o permanentemente, una disminución en sus facultades físicas, intelectuales o sensoriales, que le limitan realizar una actividad considerada como normal;
 
-XXX. Plena inclusión: hacer implícito que las personas con discapacidad son parte de la sociedad, así como la necesidad de su pleno desarrollo;
+XXXI. Plena inclusión: hacer implícito que las personas con discapacidad son parte de la sociedad, así como la necesidad de su pleno desarrollo;
 
-XXXI. Prevención de discapacidad: la adopción de medidas y acciones encaminadas a evitar la participación y estructuración de deficiencias, así como minusvalías y desfases que impidan la plena inclusión al medio social;
+XXXII. Prevención de discapacidad: la adopción de medidas y acciones encaminadas a evitar la aparición y estructuración de deficiencias, así como minusvalías y desfases que impidan la plena inclusión al medio social;
 
-XXXII. Rehabilitación: conjunto de medidas encaminadas a mejorar la capacidad de una persona para realizar por sí misma, actividades necesarias para su desempeño físico, mental, social, ocupacional y económico, por medio de órtesis, prótesis, ayudas funcionales, cirugía reconstructiva, o cualquier otro procedimiento que le permita integrarse a la sociedad;
+XXXIII. Rehabilitación: conjunto de medidas encaminadas a mejorar la capacidad de una persona para realizar, por sí misma, actividades necesarias para su desempeño físico, mental, social, ocupacional y económico, por medio de órtesis, prótesis, ayudas funcionales, cirugía reconstructiva, o cualquier otro procedimiento que le permita integrarse a la sociedad.
 
-XXXIII. Sistema de escritura Braille: método para la comunicación representado mediante signos en relieve, leídos en forma táctil por los ciegos;
+XXXIV. Sistema de escritura Braille: método para la comunicación representado mediante signos en relieve, leídos en forma táctil por los ciegos;
 
-XXXIV. Sistema estatal de registro e identificación de personas con discapacidad: es la obtención de información mediante una base de datos sobre el número de personas con discapacidad que existen en la entidad, para la creación de un padrón único de personas con discapacidad, así como, la planeación de políticas públicas destinadas a la atención de los distintos tipos de discapacidad;
+XXXV. Sistema estatal de registro e identificación de personas con discapacidad: es la obtención de información mediante una base de datos sobre el número de personas con discapacidad que existen en la Entidad, para la creación de un padrón único de personas con discapacidad, así como, la planeación de políticas públicas destinadas a la atención de los distintos tipos de discapacidad;
 
-XXXV. Trabajo protegido: aquél que realizan las personas con discapacidad que tienen un grado tal de limitación en sus capacidades, que le impide cubrir los requerimientos mínimos de inserción laboral, por lo que requiere de la tutela de la familia, sector público y privado para su desempeño;
+XXXVI. Trabajo protegido: aquél que realizan las personas con discapacidad, que tienen un grado tal de limitación en sus capacidades, que les impide cubrir los requerimientos mínimos de inserción laboral, por lo que requiere de la tutela de la familia, sector público y privado para su desempeño;
 
-XXXVI. Vía pública: son las avenidas, calzadas, plazas, calles, parques, andadores, caminos, bulevares, callejones de acceso y sus banquetas, así como los caminos vecinales, carreteras, brechas, desviaciones, veredas, senderos, sus acotamientos, los puentes que unan a las vías públicas y a las zonas de protección de ambos, destinados al tránsito de vehículos, peatones y semovientes, y
+XXXVII. Vía pública: son las avenidas, calzadas, plazas, calles, parques, andadores, caminos, bulevares, callejones de acceso y sus banquetas, así como los caminos vecinales, carreteras, brechas, desviaciones, veredas, senderos, sus acotamientos, los puentes que unan a las vías públicas y a las zonas de protección de ambos, destinados al tránsito de vehículos, peatones y semovientes, y
 
-XXXVII. Vivienda adaptable: aquélla que se proyecta y edifica con base en un diseño que no implica grandes obras de construcción, a fin de crear las condiciones favorables de funcionalidad para satisfacer las necesidades de accesibilidad de sus ocupantes.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
 
-La vivienda adaptable se generará desde el origen del proyecto arquitectónico y requiere ubicarse en la planta baja, contar con un baño y un espacio adaptable como recámara, así como tener al mismo nivel los accesos de entrada y al patio de servicio, criterios de diseño y construcción que permitirán evitar costos adicionales de obra.
+XXXVIII. Vivienda adaptable: aquélla que se proyecta y edifica con base en un diseño que no implica grandes obras de construcción, a fin de crear condiciones favorables de funcionalidad para satisfacer las necesidades de accesibilidad de sus ocupantes.
 
-En los casos de vivienda usada, la adaptabilidad de la vivienda podrá llevarse a cabo con la aplicación de los criterios de diseño, mismos que no implican considerables obras de modificación.
+La vivienda adaptable se genera desde el origen del proyecto arquitectónico, mismo que requiere ubicarse en planta baja y contener al mismo nivel todos los accesos de entrada y salida, criterios de diseño y construcción que permitirán evitar costos adicionales de obra.
+
+En los casos de vivienda usada, la adaptabilidad de la vivienda podrá llevarse a cabo con la aplicación de los Lineamientos Generales de Accesibilidad, mismos que no implican considerables obras de modificación.
 
 ###### ARTICULO 6°.
 
@@ -251,9 +263,11 @@ Las personas con discapacidad, al igual que cualquier ciudadano, tienen la oblig
 
 ### CAPITULO I. De sus funciones
 
+> <small>(REFORMADO P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 9°.
 
-La Dirección de Integración Social es un órgano dependiente del Sistema del Desarrollo Integral de la Familia, y tiene como objeto articular todas las acciones que realicen en materia de discapacidad, todas las instituciones de la administración pública, así como diseñar coordinadamente con éstas, las políticas públicas necesarias para garantizar el pleno respeto y ejercicio de los derechos humanos, políticos y sociales, la igualdad de oportunidades y la igualdad en el acceso a los servicios de salud, educación, empleo, capacitación y readaptación laboral, cultura, recreación y deporte a las personas con discapacidad; asimismo, el acceso al transporte e infraestructura y equipamiento del orden público y privado, en zonas urbanas y rurales, y en general, todo aquello que sea susceptible de uso de personas con discapacidad.
+La Dirección de Integración Social es un órgano dependiente del Sistema para el Desarrollo Integral de la Familia del Estado, y tiene como objetivo articular todas las acciones que realicen en materia de discapacidad, las instituciones de la administración pública, así como diseñar coordinadamente con éstas, las políticas públicas necesarias para garantizar el pleno respeto y ejercicio de los derechos humanos, políticos y sociales, la igualdad de oportunidades y la igualdad en el acceso a los servicios de salud, educación, empleo, capacitación y readaptación laboral, cultura, recreación y deporte a las personas con discapacidad; asimismo, el acceso al transporte e infraestructura, y equipamiento del orden público y privado, en zonas urbanas y rurales y, en general, todo aquello que sea susceptible de uso de personas con discapacidad.
 
 ###### ARTICULO 10.
 
@@ -261,21 +275,29 @@ Para el cumplimiento de su objetivo, la Dirección de Integración Social tendr�
 
 I. Crear campañas de difusión sobre los derechos de las personas con discapacidad, así como las disposiciones legales que los contemplan, a fin de garantizar su efectiva aplicación y el pleno respeto y ejercicio de sus derechos humanos, políticos y sociales;
 
-II. Coordinar los programas que en materia de inclusión de personas con discapacidad, lleven a cabo las autoridades competentes, de conformidad con el programa estatal para las personas con discapacidad, y lo previsto en la presente Ley;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+II. Coordinar los programas que en materia de inclusión de personas con discapacidad, lleven a cabo las autoridades competentes, a través de los enlaces designados, de conformidad con el programa estatal para las personas con discapacidad, y lo previsto en la presente Ley;
 
 III. Coordinar, planear y crear, en conjunto con las autoridades competentes, el Sistema Estatal de Registro e Identificación para Personas con Discapacidad, mediante una base de datos cuyos objetivos son crear el padrón único de personas con discapacidad en la Entidad, y la planeación de políticas públicas destinadas a la atención de los distintos tipos de discapacidad;
 
 IV. Coordinar y crear, en conjunto con las autoridades competentes, un formato único de registro de personas con discapacidad cuyo objetivo es homologar la información en materia de discapacidad,
 
-V. Coordinar y crear, en conjunto con las autoridades competentes, un formato único de identificación con fotografía, certificando la discapacidad de su perotador;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+V. Coordinar y crear, en conjunto con las autoridades competentes a través de los enlaces designados, un formato único de identificación con fotografía, certificando la discapacidad de su portador;
 
 VI. Solicitar cada seis meses a todas las instituciones públicas y privadas que atiendan a personas con discapacidad, la información sobre los registros de las mismas, para mantener vigente la base de datos, misma que actualiza el padrón único de personas con discapacidad en el Estado;
 
-VII. Definir las estrategias y políticas públicas necesarias, para eliminar la discriminación y promover la plena inclusión por parte de las autoridades gubernamentales y/o entidades privadas, en la prestación o suministro de bienes, servicios, instalaciones y programas;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+VII. Promover las estrategias y políticas públicas necesarias, para eliminar la discriminación e impulsar la plena inclusión por parte de las autoridades gubernamentales y/o entidades privadas, en la prestación o suministro de bienes, servicios, instalaciones y programas;
 
 VIII. Difundir, en coordinación con la Comisión Estatal de Derechos Humanos, la cultura de respeto y aceptación hacia las personas con discapacidad;
 
-IX. Vigilar y evaluar, en coordinación con la Secretaría de Finanzas, la ejecución de los programas sectoriales y especiales en materia de discapacidad, y su congruencia con los objetivos del Plan Estatal de Desarrollo, para la obtención de estadísticas;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+IX. Vigilar y evaluar, en coordinación con la Secretaría de Finanzas, a las instituciones públicas, en la ejecución de los programas sectoriales y especiales en materia de discapacidad, y su congruencia con los objetivos del Plan Estatal de Desarrollo, para la obtención de estadísticas;
 
 X. Integrar un acervo de información y documentación que facilite a las autoridades competentes e instituciones públicas o privadas, la investigación, el estudio y el análisis de aspectos específicos en materia de discapacidad en el Estado;
 
@@ -299,7 +321,9 @@ XIX. Recibir, canalizar y dar seguimiento a las quejas y sugerencias sobre la at
 
 XX. Coordinar y concertar la participación de los sectores público, social y privado en la planeación, programación, ejecución, evaluación, impacto y supervisión de las acciones que se realicen a favor de la población con discapacidad;
 
-XXI. Instituir y coordinar junto con las autoridades competentes, el comité de elección para el premio estatal de reconocimiento para personas con discapacidad;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+XXI. Instituir y coordinar junto con las autoridades competentes, a través de los enlaces designados, el comité de elección para el premio estatal de reconocimiento para personas con discapacidad;
 
 XXII. Formular propuestas de modificación al marco jurídico local;
 
@@ -317,9 +341,11 @@ XXVIII. Crear un centro de información especializado en materia de discapacidad
 
 XXIX. Las demás que le señale esta Ley y otras disposiciones legales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 11.
 
-En coordinación con las instituciones competentes, la Dirección de Integración Social, de forma enunciativa, más no limitativa, llevará a cabo la coordinación, planeación, creación, expedición, difusión y seguimiento de la elaboración del Programa Estatal para la Discapacidad, mismo que garantizará con aquellos instrumentos que esta Ley le otorga para su aplicación.
+En coordinación con las instituciones competentes, a través de los enlaces designados, la Dirección de Integración Social, de forma enunciativa, más no limitativa, llevará a cabo la coordinación, planeación, creación, expedición, difusión y seguimiento de la elaboración del Programa Estatal para la Discapacidad, misma que garantizará con aquellos instrumentos que esta Ley le otorga para su aplicación.
 
 El programa Estatal para la Discapacidad define las políticas públicas y acciones de gobierno, que garanticen la equidad de los derechos humanos de las personas con discapacidad.
 
@@ -421,9 +447,11 @@ X. COMUNICACIÓN INTERINSTITUCIONAL:
 
 a) General la comunicación entre las instituciones de la administración pública, para mantener actualizada la base de datos del Sistema Estatal de Registro e Identificación de Personas con Discapacidad.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 13.
 
-El titular del Sistema para el Desarrollo Integral de la Familia, aprobará los programas que en materia de discapacidad elabore la Dirección de Integración Social.
+El titular del Sistema para el Desarrollo Integral de la Familia del Estado, aprobará los programas que en materia de discapacidad elabore la Dirección de Integración Social.
 
 ###### ARTICULO 14.
 
@@ -445,21 +473,27 @@ II. De investigación y evaluación de políticas públicas, y
 
 III. De atención ciudadana.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 15.
 
-El reglamento interior del Sistema para el Desarrollo Integral de la Familia, debe establecer las atribuciones y funciones específicas de las áreas operativas de la Dirección de Integración Social.
+El Reglamento Interior del Sistema para el Desarrollo Integral de la Familia del Estado, debe establecer las atribuciones y funciones específicas de las áreas operativas de la Dirección de Integración Social.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 16.
 
-La Dirección de Integración Social estará a cargo de una persona con amplia experiencia y conocimiento de la materia, y que haya realizado trabajos concretos y comprobables a favor de las personas con discapacidad.
+La Dirección de Integración Social estará a cargo de una persona con amplia experiencia y conocimiento de la materia, que haya realizado trabajos concretos y comprobables a favor de las personas con discapacidad. En igualdad de circunstancias, se dará preferencia para ocupar este cargo a quien presente alguna discapacidad, siempre que ésta no constituya un obstáculo para el desempeño del mismo.
 
 ###### ARTICULO 17.
 
 La Dirección de Integración Social en coordinación con la Secretaría de Finanzas, serán los responsables de proponer a las instituciones públicas, sociales y privadas de la Entidad, acciones, políticas públicas y programas específicos de concertación, planeación y promoción, que garanticen las condiciones favorables para el desarrollo de las personas con discapacidad.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 18.
 
-La Dirección de Integración Social implementará un sistema de servicios que se otorgarán a dichas personas, previa valoración y calificación de la discapacidad, realizada de conformidad con lo previsto por la presente ley.
+La Dirección de Integración Social aunado a su sistema de servicios, implementará un sistema de canalizaciones que se otorgarán a dichas personas, previa valoración y calificación de la discapacidad, realizada de conformidad con lo previsto por la presente Ley.
 
 ## TITULO TERCERO. DERECHOS DE LAS PERSONAS CON DISCAPACIDAD
 
@@ -485,7 +519,9 @@ IV. Rehabilitación socioeconómica y laboral.
 
 Los servicios a que se refiere el artículo anterior se regirán por los criterios siguientes:
 
-i. Todas las personas con, (sic) discapacidad tienen derecho a los servicios establecidos en la presente Ley, se brindarán con carácter oneroso a las personas con discapacidad que puedan costearlos; a la persona que sea considerada sujeto de asistencia social, la autoridad competente, deberá concedérselos sin costo alguno o aportando parte del costo, según sea el caso; a las personas con discapacidad en estado de abandono, se les otorgará sin costo alguno;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+I. Todas las personas con discapacidad tienen derecho a los servicios establecidos en la presente Ley, se brindarán con carácter de oneroso a las personas con discapacidad que puedan costearlos; a la persona que no cuente con recursos económicos, la autoridad competente deberá concedérselos sin costo alguno, o aportando parte del costo, según sea el caso; a las personas con discapacidad en estado de abandono, se les otorgará sin costo alguno;
 
 II. Los servicios podrán ser prestados tanto por las administraciones públicas, como por instituciones de asistencia privada,
 
@@ -509,7 +545,9 @@ La valoración de las personas con discapacidad será llevada a cabo por una Com
 
 La Comisión de Valoración tendrá las siguientes funciones:
 
-I. Rendir un informe diagnóstico sobre los diversos aspectos de las limitaciones de la persona con discapacidad, así como de su entorno social y familiar, que incluya también un estudio completo de personalidad;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+I. Elaborar y rendir un informe diagnóstico sobre los diversos aspectos de las limitaciones de la persona con discapacidad, así como de su entorno social y familiar;
 
 II. Calificar la presunta discapacidad, así como determinar el tipo y grado en relación con otros organismos administrativos similares que, en su caso, se hayan ocupado previamente de esta atención;
 
@@ -559,9 +597,11 @@ Esta canalización debe contener las alternativas de atención, prestación de s
 
 ### CAPITULO III. Asistencia Social
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 30.
 
-El DIF estatal y municipal, son los órganos encargados en proporcionar la asistencia social en sus diferentes niveles.
+Los DIF, Estatal y municipales, son los órganos encargados de proporcionar la asistencia social en sus diferentes niveles.
 
 ###### ARTICULO 31.
 
@@ -729,29 +769,67 @@ La Secretaría de Educación conjuntamente con las demás autoridades señaladas
 
 ### CAPITULO VII. Rehabilitación e Integración Laboral
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 47.
 
-La Secretaría del Trabajo y Previsión Social y la Dirección de Integración Social, dirigirán y coordinarán la formulación, integración, operación y seguimiento de políticas públicas y programas, para asegurar la igualdad de oportunidades laborales considerando las siguientes acciones:
+La Secretaría del Trabajo y Previsión Social, y la Dirección de Integración Social, dirigirán y coordinarán la formulación, integración, operación, seguimiento, evaluación y replanteamiento de las políticas públicas y programas, para asegurar la igualdad de oportunidades laborales.
 
-I. Incorporar a personas con discapacidad al sistema ordinario de trabajo, o en su caso, de acuerdo a su tipo y grado de discapacidad, su incorporación a la modalidad de trabajo protegido, condiciones salubres, dignas y de mínimo riesgo a su integridad física;
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2009)</small>
 
-II. Promover la firma de convenios, acuerdos y acciones para la capacitación y adiestramiento, así como la vinculación al empleo;
+ARTICULO 47 BIS. La Secretaria del Trabajo y Previsión Social, y la Dirección de Integración Social, constituirán e integrarán la Red de Vinculación para la Integración Laboral de Personas con Discapacidad, la cual tendrá por objeto el conjuntar las acciones de instituciones públicas, privadas y sociales, para promover, difundir, facilitar y agilizar la inserción laboral de las personas con discapacidad en el Estado, mediante la vinculación de los ofertantes y demandantes de empleo, y la colaboración en acciones que favorezcan este fin.
 
-III. Promover el empleo, tanto en el sector público y privado;
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2009)</small>
 
-IV. Apoyar el autoempleo mediante los programas que existan para su financiamiento;
+ARTICULO 47 TER. La Red de Vinculación para la Integración Laboral de Personas con Discapacidad, tendrá las siguientes funciones:
+
+I. Incorporar a personas con discapacidad al sistema ordinario de trabajo o, en su caso, de acuerdo a su tipo y grado de discapacidad, su incorporación a la modalidad de trabajo protegido, condiciones salubres, dignas y de mínimo riesgo a su integridad física;
+
+II. Promover la firma de convenios, acuerdos y acciones para la capacitación y adiestramiento, así como la vinculación al empleo de las personas con discapacidad;
+
+III. Promover el empleo de las personas con discapacidad, tanto en el sector público, como en el privado;
+
+IV. Apoyar el auto empleo de las personas con discapacidad mediante los programas que existan para su financiamiento;
 
 V. Ofrecer asesoría técnica y capacitación a los sectores público y privado, en materia de discapacidad;
 
-VI. Gestionar ante la Federación, Estado y municipio, sobre los programas de financiamiento, subsidio o coinversión, para la ejecución de proyectos productivos y sociales, que sean financiados para las organizaciones de y para personas con discapacidad;
+VI. Gestionar ante la Federación, Estado y municipio, sobre los programas de financiamiento, subsidio o co-inversión, para la ejecución de proyectos productivos o sociales, que sean financiados para las organizaciones de y para personas con discapacidad;
 
-VII. Dar promoción a los estímulos fiscales que otorgan la Federación, Estado y municipios, por la contratación de personas con discapacidad, y la adaptación de sus instalaciones para la accesibilidad de las personas con discapacidad, y
+VII. Formular, aplicar, revisar, evaluar y replantear periódicamente la política estatal sobre la readaptación profesional, la capacitación y el empleo de las personas con discapacidad;
 
-VIII. Vigilar y sancionar conforme la legislación aplicable, las condiciones de igualdad para las personas con discapacidad en el desempeño de su trabajo.
+VIII. Dar promoción a los estímulos fiscales que otorgan la Federación, Estado y municipios, por la contratación de personas con discapacidad, y la adaptación de sus instalaciones para la accesibilidad de las personas con discapacidad, y
+
+IX. Vigilar y sancionar conforme a la legislación aplicable, las condiciones de igualdad para las personas con discapacidad en el desempeño de su trabajo.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2009)</small>
+
+ARTICULO 47 QUATER. La Red de Vinculación para la Integración Laboral de Personas con Discapacidad, se integrará de la siguiente manera:
+
+I. Presidente honorífico: que será el Gobernador del Estado, o la persona que él designe;
+
+II. El Coordinador: que será el Secretario del Trabajo y Previsión Social del Estado de San Luis Potosí;
+
+III. Un Secretario Técnico: que será el Director General del Sistema para el Desarrollo Integral de la Familia del Estado de San Luis Potosí, a través del Director de Integración Social de Personas con Discapacidad, del Sistema para el Desarrollo Integral de la Familia del Estado de San Luis Potosí, y
+
+IV. Grupo de vinculación:
+
+a) El Secretario de Educación de Gobierno del Estado.
+
+b) El Director General del Instituto Potosino de la Juventud.
+
+c) Un representante del Instituto de Seguridad Social al Servicio de los Trabajadores del Estado, delegación San Luis Potosí.
+
+d) Un representante del Instituto Mexicano del Seguro Social, delegación San Luis Potosí.
+
+e) Tres representantes de instituciones privadas y sociales, que tengan entre sus actividades, la integración laboral de personas con discapacidad, quienes serán designados por la Red, a propuesta de su Coordinador.
+
+A las sesiones de la Red podrá invitarse a representantes de las dependencias o entidades de la administración pública del Estado, u otros organismos públicos o privados, cuando los asuntos a tratar tengan relación con ellos, contando solo con voz en la sesión.
+
+Los cargos de los integrantes de la Red son honoríficos y no recibirán retribución, emolumento o compensación alguna.
 
 ###### ARTICULO 48.
 
-La Secretaría del Trabajo y Previsión Social, la Dirección de Integración Social y la Secretaría de Educación, formularán, aplicarán, revisarán, evaluarán y replantearán periódicamente la política estatal sobre la readaptación profesional, la capacitación y el empleo de las personas con discapacidad.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTICULO 49.
 
@@ -819,17 +897,23 @@ El Instituto Potosino del Deporte impartirá de forma permanente, talleres de de
 
 El Instituto Potosino del Deporte convocará anualmente a los deportistas en sus diferentes discapacidades, a participar en el premio estatal del deporte adaptado.
 
-### CAPITULO IX. Integración a los Bienes y Servicios Culturales y Turísticos
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE MAYO DE 2009)</small>
+
+### CAPITULO IX. Integración de los Bienes y Servicios Culturales
 
 ###### ARTICULO 61.
 
 la Secretaría de Cultura, en coordinación con la Secretaría de Turismo del Estado, y las autoridades competentes, tendrán la misión de proporcionar todos los instrumentos necesarios para que las personas con discapacidad, puedan acceder a los bienes y servicios culturales, así como al desarrollo de sus capacidades creativas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 62.
 
-Las secretarías de Cultura y Turismo realizarán en forma coordinada, las siguientes acciones:
+La Secretaría de Cultura realizará las siguientes acciones:
 
-I. Establecer y promover las condiciones de adecuación y accesibilidad de manera integral, a la infraestructura cultural y recreativa;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+I. Establecer y promover las condiciones de adecuación y accesibilidad de manera integral, a la infraestructura cultural;
 
 II. Crear y difundir programas para atender las necesidades de formación artística y cultural, de las personas con discapacidad;
 
@@ -845,11 +929,27 @@ VII. Promover en las actividades culturales y recreativas, el lenguaje de señas
 
 VIII. Promover el uso de tecnologías en la cinematografía y teatro, que faciliten la adecuada comunicación de su contenido a las personas con discapacidad.
 
-### CAPITULO I. Barreras Arquitectónicas
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 12 DE MAYO DE 2009)</small>
+
+### CAPITULO X. Integración a los Servicios Turísticos
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2009)</small>
+
+ARTICULO 62 BIS. La Secretaría de Turismo realizará las siguientes acciones:
+
+I. Promover y fomentar la oferta turística para las personas con discapacidad, garantizando la calidad y procurando las mejores condiciones de integración y accesibilidad;
+
+II. Promover y gestionar las condiciones de adecuación y accesibilidad de manera integral, a la infraestructura turística;
+
+III. Crear y difundir programas para atender las necesidades de recreación y aprovechamiento del tiempo libre, con actividades turísticas;
+
+IV. Gestionar y coadyuvar con los tres órdenes de gobierno, iniciativa privada y organizaciones civiles, alianzas y programas dirigidos a las personas con discapacidad, y
+
+V. Promover y difundir actividades encaminadas a sensibilizar a los prestadores de servicios turísticos y población en general, para la atención e integración de las personas con discapacidad.
 
 ## TITULO CUARTO. CONDICIONES URBANISTICAS QUE PERMITAN EL LIBRE DESPLAZAMIENTO
 
-### CAPITULO II. Estacionamientos
+### CAPITULO I. Barreras Arquitectónicas
 
 ###### ARTICULO 63.
 
@@ -937,11 +1037,13 @@ El porcentaje a que se refiere el párrafo anterior nunca podrá ser menor del d
 
 Las dependencias o empresas que por su naturaleza deban instalar o reubicar registros, postes, buzones o cualquier accesorio en la vía pública, lo harán de tal forma que no impidan el libre desplazamiento, para ello deberán ser instalados en puntos estratégicos conforme a los lineamientos generales de accesibilidad, mismos que serán utilizados para la adecuación de espacios públicos.
 
-### CAPITULO III. Vivienda Adaptable y Accesible
+### CAPITULO II. Estacionamientos
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 77.
 
-Los municipios del Estado deberán comprender, en sus reglamentos respectivos, los siguientes aspectos básicos, en materia de estacionamientos para personas con discapacidad:
+El Ejecutivo del Estado y los municipios del Estado deberán comprender, en sus reglamentos respectivos, los siguientes aspectos básicos, en materia de estacionamientos para personas con discapacidad:
 
 I. La expedición a las personas con discapacidad, certificadas por la autoridad competente que utilicen vehículo automotor, una placa con el logotipo internacional distintivo, que les permita hacer uso de los estacionamientos exclusivos;
 
@@ -949,7 +1051,7 @@ II. En estacionamientos privados de uso público y estacionamientos públicos, e
 
 III. La autoridad municipal deberá crear en las vías públicas de las zonas centro y demás afluencia vehicular de las ciudades, espacios de ascenso y descenso, así como la ubicación de un cajón de estacionamiento exclusivo por cada dos manzanas, conforme a los lineamientos generales de accesibilidad.
 
-### CAPITULO I. Estímulos
+### CAPITULO III. Vivienda Adaptable y Accesible
 
 ###### ARTICULO 78.
 
@@ -969,11 +1071,11 @@ IV. Realizar junto con la Dirección de Integración Social, la creación de pro
 
 V. Proponer las adecuaciones para que dentro de la Ley sobre el Régimen de la Propiedad en Condominio del Estado y su respectivo reglamento, de igual forma en el reglamento de Juntas de Mejoras, se contemplen los lineamientos y criterios de diseño y construcción para vivienda adaptable y accesible, así como a los espacios privados de uso público, siguiendo los lineamientos generales de accesibilidad.
 
-### CAPITULO II. Sanciones
+### CAPITULO I. Estímulos
 
 ## TITULO QUINTO. DISPOSICIONES FINALES
 
-### CAPITULO III. Medios de Defensa
+### CAPITULO II. Sanciones
 
 ###### ARTICULO 80.
 
@@ -1002,6 +1104,8 @@ IV. El titular de la Comisión Estatal de Derechos Humanos, y
 V. Cinco representantes de la sociedad civil organizada, en materia de discapacidad.
 
 El comité de elección establecerá las bases de la convocatoria y selección para el otorgamiento de los reconocimientos.
+
+### CAPITULO III. Medios de Defensa
 
 ###### ARTICULO 82.
 
@@ -1058,3 +1162,11 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE MAYO DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Red de Vinculación para la Integración Laboral de Personas con Discapacidad, deberá quedar instalada dentro de los noventa días siguientes a la fecha en que entre en vigor este Decreto.
