@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-poder-judicial-del-estado-de-coahuila-de-3733"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-11"
-last_updated: "2007-12-28"
+last_updated: "2009-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 1990.
 
@@ -99,15 +99,17 @@ Los árbitros voluntarios no ejercerán autoridad pública, pero conocerán del 
 
 El Consejo de la Judicatura tendrá la competencia y atribuciones que señalen la Constitución Política del Estado de Coahuila y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 3o.
 
-Son auxiliares de la administración de justicia:
+Son Auxiliares de la administración de justicia:
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 1996)</small>
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
 
-I.- El Ministerio Público y la Policía Ministerial;
+I.- El Ministerio Público y la Policía del Estado;
 
-II.- La Dirección de Seguridad Pública en el Estado;
+II.- (DEROGADA, P.O. 12 DE MAYO DE 2009)
 
 III.- (DEROGADA, P.O. 2 DE JULIO DE 1996)
 
@@ -129,7 +131,9 @@ XI.- Los albaceas e interventores de sucesiones;
 
 XII.- Los tutores y curadores;
 
-XIII.- Los comandantes, delegados y agentes de Policía y Tránsito del Estado o Municipales;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+XIII.- todos (sic) los miembros de la Policía del Estado y de las Policías y Tránsitos Municipales;
 
 XIV.- Los abogados y los notarios públicos; y
 
@@ -1355,6 +1359,8 @@ II.- De los juicios hereditarios y de sus conexidades, así como de las acciones
 
 III.- De los negocios de jurisdicción voluntaria cuyo conocimiento no corresponda específicamente a los jueces de lo Familiar;
 
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
 IV.- De las diligencias preliminares de consignación en asuntos de carácter civil;
 
 V.- De las diligencias de exhortos, rogatorias, suplicatorias, requisitorias y despachos, relacionados con asuntos civiles;
@@ -2059,9 +2065,9 @@ IV. Gozar de buena reputación y no haber sido condenado por delito que amerite 
 
 V. Haber residido en el Estado durante los dos años anteriores al día de la designación;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
 
-VI. No haber ocupado el cargo de Secretario del Ramo, o su equivalente, en la Administración Pública Estatal, Procurador General de Justicia en el Estado, Diputado Local, o alguno de los cargos mencionados en la fracción VI del artículo 95 de la Constitución Política de los Estados Unidos Mexicanos, durante el año previo al día de su nombramiento.
+VI. No haber ocupado el cargo de Secretario del Ramo, o su equivalente, en la Administración Pública Estatal, Fiscal General del Estado, Diputado Local, o alguno de los cargos mencionados en la fracción VI del artículo 95 de la Constitución Política de los Estados Unidos Mexicanos, durante el año previo al día de su nombramiento.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2605,6 +2611,8 @@ Las evaluaciones de los miembros del Poder Judicial serán concentradas en la Pr
 
 El Presidente comunicará sus resultados al Consejo de la Judicatura.
 
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
 ## TITULO SEXTO. DE LA SUSTITUCION EN CASO DE IMPEDIMENTO, EXCUSA O RECUSACION
 
 ###### ARTICULO 126.
@@ -3050,6 +3058,8 @@ Todo ciudadano o persona moral por conducto de sus órganos de representación, 
 ###### ARTICULO 175.
 
 Son sujetos de juicio político: los Magistrados del Tribunal Superior de Justicia; los Magistrados del Tribunal Electoral; los Magistrados del Tribunal de lo Contencioso-Administrativo; los Magistrados del Tribunal de Conciliación y Arbitraje, el Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes, los Magistrados de los Tribunales Distritales; y los Jueces de Primera Instancia, cualquiera que sea su denominación.
+
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 176.
 
@@ -3919,9 +3929,9 @@ I.- La denuncia de contradicción se podrá formular por cualquier persona o aut
 
 II.- La denuncia versará sobre criterios sustentados por las Salas del Tribunal Superior de Justicia o por su Sala Auxiliar.
 
-> <small>(ADICIONADA, P.O. 18 DE MAYO DE 1999)</small>
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
 
-III.- La denuncia de contradicción se presentará ante la Secretaría del Pleno. La Presidencia mediante oficio mandará dar vista al Procurador de Justicia de la denuncia, para que dentro de los quince días siguientes manifieste su opinión. Transcurrido dicho plazo, con o sin opinión, la Presidencia acordará la ponencia en estricto turno a uno de los magistrados adscritos a la Sala de la materia sobre la que verse prevalentemente la contradicción, poniendo a su disposición el expediente respectivo. La ponencia se deberá formular dentro de los sesenta días siguientes, con inclusión de los que sean inhábiles o festivos. De la misma se dará cuenta al Pleno por conducto de la Presidencia para su discusión y aprobación;
+III.- La denuncia de contradicción se presentará ante la Secretaría del Pleno. La Presidencia mediante oficio mandará dar vista al Fiscal General de la denuncia, para que dentro de los quince días siguientes manifieste su opinión. Transcurrido dicho plazo, con o sin opinión, la Presidencia acordará la ponencia en estricto turno a uno de los magistrados adscritos a la Sala de la materia sobre la que verse prevalentemente la contradicción, poniendo a su disposición el expediente respectivo. La ponencia se deberá formular dentro de los sesenta días siguientes, con inclusión de los que sean inhábiles o festivos. De la misma se dará cuenta al Pleno por conducto de la Presidencia para su discusión y aprobación;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -4406,3 +4416,19 @@ OCTAVO.- Los juzgados civiles y mercantiles de primera instancia continuarán co
 NOVENO.- Las disposiciones relativas al Tribunal de Conciliación y Arbitraje contenidas en este Decreto serán aplicables hasta en tanto el Poder Legislativo del Estado expida los ordenamientos que regulen su organización, atribuciones, competencia y procedimientos. Este Tribunal iniciará sus funciones una vez aprobada la partida presupuestal para su operación.
 
 DÉCIMO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE MAYO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a la Procuraduría General de Justicia del Estado y al Procurador General de Justicia del Estado; a la Secretaría de Seguridad Pública del Estado y al Secretario de Seguridad Pública del Estado, se entenderán hechas a la Fiscalía General y al Fiscal General.
+
+TERCERO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a las subprocuradurías y a los subprocuradores, se entenderán hechas a las fiscalías especializadas y a los fiscales especializados, conforme a las siguientes denominaciones:
+
+Subprocurador Ministerial: Fiscal Ministerial, de Investigación y Operación Policial.
+
+Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos y Legalidad.
+
+Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
