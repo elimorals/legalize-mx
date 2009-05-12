@@ -4,7 +4,7 @@ identifier: "COA-ley-de-prevencion-asistencia-y-atencion-de-la-violencia-26721"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-25"
-last_updated: "2008-01-15"
+last_updated: "2009-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PREVENCION, ASISTENCIA Y ATENCION DE LA VIOLENCIA FAMILIAR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 25 de octubre de 2002.
 
@@ -69,7 +69,9 @@ La atención especializada que se proporcione en materia de violencia familiar p
 
 La aplicación de esta Ley en el ámbito de sus respectivas competencias:
 
-(Sic) Al Poder Ejecutivo a través de:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+
+I. Al Poder Ejecutivo a través de:
 
 a) La Secretaría de Gobierno.
 
@@ -79,11 +81,11 @@ c) La Secretaría de Salud.
 
 d) La Secretaría de Desarrollo Social.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2008)</small>
+e) (DEROGADO, P.O. 12 DE MAYO DE 2009)
 
-e) La Secretaría de Seguridad Pública.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
 
-f) La Procuraduría General de Justicia del Estado.
+f) La Fiscalía General del Estado.
 
 g) El Sistema para el Desarrollo Integral de la Familia.
 
@@ -225,11 +227,11 @@ c) Secretaría de Salud.
 
 d) Secretaría de Desarrollo Social.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2008)</small>
+e) (DEROGADO, P.O. 12 DE MAYO DE 2009)
 
-e) Secretaría de Seguridad Pública.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
 
-f) Procuraduría General de Justicia.
+f) Fiscalía General del Estado.
 
 IV. Dos vocalías del Poder Legislativo cubiertas por integrantes de la Comisión de Equidad y Género.
 
@@ -317,7 +319,9 @@ I. Ejecutar los acuerdos del Consejo Estatal para la Prevención, Asistencia y A
 
 II. Contar con un diagnóstico permanente sobre los problemas de violencia familiar en el Estado, que sustente la política, los programas las acciones y el presupuesto aprobado por el Consejo Estatal.
 
-III. Llevar cuenta de la información estadística sobre los diferentes aspectos de la violencia familiar, sus causas, consecuencias e incidencias que le proporcione el Procurador, para formular el diagnóstico que sirva de base para la formulación del Programa General.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+III. Llevar cuenta de la información estadística sobre los diferentes aspectos de la violencia familiar, sus causas, consecuencias e incidencias que le proporcione el Fiscal General, para formular el diagnóstico que sirva de base para la formulación del Programa General.
 
 IV. Diseñar y poner en marcha una base de datos común a todas las instituciones, que atienda a indicadores de detección uniforme.
 
@@ -549,7 +553,9 @@ I. Promover acciones y programas de protección y atención a las personas recep
 
 II. Conocer de los procedimientos de mediación, conciliación y amigable composición.
 
-III. Solicitar a la Procuraduría General de Justicia del Estado, a través de las Agencias Especializadas del Ministerio Público y de los Servicios Periciales, las siguientes colaboraciones:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+
+III. Solicitar a la Fiscalía General del Estado, a través de la Fiscalía Ministerial de Investigación y Operación Policial, y de los Servicios Periciales, las siguientes colaboraciones:
 
 a) La remisión de las personas receptoras y generadoras de la violencia familiar, para los efectos procedimentales que les confiere la ley, cuando no existe ilícito penal o se trata de delitos de querella.
 
@@ -603,13 +609,15 @@ V. Vigilar y garantizar el cumplimiento de esta ley, de conformidad con las atri
 
 VI. Las demás que establecen las leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### Artículo 32.
 
-Corresponde a la Secretaría de Seguridad Pública:
+Corresponde a la Fiscalía General del Estado:
 
-I. Coordinarse con la Procuraduría General de Justicia y la Procuraduría de la Familia para diseñar y llevar a cabo acciones de prevención, atención y asistencia de la violencia familiar.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+I. Coordinarse con la Procuraduría de la Familia para diseñar y llevar a cabo acciones de prevención, atención y asistencia de la violencia familiar.
 
 II. Crear un cuerpo especializado, con enfoque de género, que preste auxilio y colabore con las autoridades y organismos públicos del Estado en los casos de violencia familiar.
 
@@ -619,7 +627,9 @@ III. Hacer cumplir las normas y disposiciones que expidan las autoridades compet
 
 IV. Brindar apoyo a las víctimas de violencia familiar, procurando en todo momento el respeto a su dignidad, discreción y privacidad.
 
-V. Vigilar que los elementos de la policía de Seguridad Pública den cuenta inmediata a la autoridad competente de los casos de violencia familiar que sean de su conocimiento, con motivo del ejercicio de sus funciones.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+V. Vigilar que los elementos de los cuerpos de policía den cuenta inmediata a la autoridad competente de los casos de violencia familiar que sean de su conocimiento, con motivo del ejercicio de sus funciones.
 
 VI. Hacer llegar por los conductos que estime necesarios, los diversos citatorios que emitan las autoridades competentes, a presuntas personas generadores de la violencia familiar.
 
@@ -627,29 +637,45 @@ VII. A través de sus elementos, llevar a cabo las presentaciones para hacer efe
 
 VIII. Incluir en sus programas de formación policíaca, cursos sobre violencia familiar.
 
-IX. Las demás que le confieran las leyes.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+IX. Instalar en las cabeceras distritales del Estado, Agencias Especializadas del Ministerio Público en la atención de víctima de violencia familiar y delitos sexuales, o bien procurar que en las agencias ya existentes, se integren grupos de agentes, de preferencia mujeres, que atiendan a esas víctimas.
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2009)</small>
+
+X. Organizar un modelo interdisciplinario de investigación criminal especializada en la violencia familiar y los delitos sexuales, que permita integrar los elementos del tipo y preservar las evidencias, para procurar una mejor impartición de justicia.
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2009)</small>
+
+XI. Organizar métodos de trato a las víctimas, para procurar disminuir su angustia y el estado postraumático en el que se encuentre a raíz de la violencia sufrida.
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2009)</small>
+
+XII. Capacitar y sensibilizar al personal del Ministerio Público, particularmente al especializado, con perspectiva de género, en orden a la práctica de las investigaciones y trato a las víctimas de la violencia familiar.
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2009)</small>
+
+XIII. Crear talleres dirigidos a Agentes y Policías del Estado, Médicos Legistas y servidores públicos encargados de atender quejas, a fin de darles herramientas útiles para que atiendan situaciones de emergencia y den las respuestas necesarias para la protección de las personas receptoras de violencia familiar.
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2009)</small>
+
+XIV. Establecer una línea telefónica de emergencia que proporcione información y asistencia a las personas receptoras de violencia familiar que lo soliciten, o a terceras personas que tengan conocimiento de dicha violencia.
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2009)</small>
+
+XV. Encauzar a las autoridades competentes, los casos de violencia familiar que no sean objeto de enjuiciamiento penal, y hacer de su conocimiento estos últimos para los efectos legales consiguientes.
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2009)</small>
+
+XVI. Llevar una información estadística por separado sobre los casos de violencia familiar de su conocimiento y el curso que se les ha dado.
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2009)</small>
+
+XVII. Las demás que le confieran las leyes.
 
 ###### Artículo 33.
 
-Corresponde a la Procuraduría General de Justicia del Estado:
-
-I. Instalar en las cabeceras distritales del Estado, Agencias Especializadas del Ministerio Público en la atención de víctima de violencia familiar y delitos sexuales, o bien procurar que en las agencias ya existentes, se integren grupos de agentes, de preferencia mujeres, que atiendan a esas víctimas.
-
-II. Organizar un modelo interdisciplinario de investigación criminal especializada en la violencia familiar y los delitos sexuales, que permita integrar los elementos del tipo y preservar las evidencias, para procurar una mejor impartición de justicia.
-
-III. Organizar métodos de trato a las víctimas, para procurar disminuir su angustia y el estado postraumático en el que se encuentre a raíz de la violencia sufrida.
-
-IV. Capacitar y sensibilizar al personal del Ministerio Público, particularmente al especializado, con perspectiva de género, en orden a la práctica de las investigaciones y trato a las víctimas de la violencia familiar.
-
-V. Crear talleres dirigidos a Agentes y Policías Ministeriales, Médicos Legistas y servidores públicos encargados de atender quejas, a fin de darles herramientas útiles para que atiendan situaciones de emergencia y den las respuestas necesarias para la protección de las personas receptoras de violencia familiar.
-
-VI. Establecer una línea telefónica de emergencia que proporcione información y asistencia a las personas receptoras de violencia familiar que lo soliciten, o a terceras personas que tengan conocimiento de dicha violencia.
-
-VII. Encausar a las autoridades competentes, los casos de violencia familiar que no sean objeto de enjuiciamiento penal, y hacer de su conocimiento estos últimos para los efectos legales consiguientes.
-
-VIII. Llevar una información estadística por separado sobre los casos de violencia familiar de su conocimiento y el curso que se les ha dado.
-
-IX. Las demás que le confieran las leyes.
+(DEROGADO, P.O. 12 DE MAYO DE 2009)
 
 ###### Artículo 34.
 
@@ -797,7 +823,9 @@ I. Las personas profesionales o funcionarios públicos, y las entidades pública
 
 II. Los profesionales de la salud, educación y los directores de las instituciones hospitalarias y educativas; así como las personas dedicadas a labores de dirección, en instituciones o centros de atención y cuidado de menores, mujeres, personas con capacidades diferentes y de la tercera edad.
 
-III. Agentes del Ministerio Público, Elementos de la Policía Preventiva Estatal o Municipal o de la Policía Ministerial y trabajadores sociales que por razón de su actividad se involucren en esta problemática.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+III. Agentes del Ministerio Público, Elementos de la Policía del Estado o Municipales y trabajadores sociales que por razón de su actividad se involucren en esta problemática.
 
 IV. En general, cualquier persona que tuviera conocimiento o sospecha de un caso de violencia familiar.
 
@@ -815,9 +843,11 @@ Cualquier persona, funcionario o institución obligados a suministrar informaci�
 
 Las informaciones falsas proporcionadas por particulares, darán lugar a la imposición de una multa equivalente a la mínima prevista en esta ley.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### Artículo 59.
 
-Las dependencias de la Procuraduría General de Justicia del Estado y de la Procuraduría de la Familia, particularmente encargadas de los asuntos de violencia familiar, contarán con un sistema especial de comunicación telefónica denominado "Línea Directa para Situaciones de Violencia Familiar", a través del cual todas las personas e instituciones podrán informar sobre los casos de que tengan conocimiento, a cualquier hora del día o de la noche y cualquier día de la semana.
+Las dependencias de la Fiscalía General del Estado y de la Procuraduría de la Familial, particularmente encargadas de los asuntos de violencia familiar, contarán con un sistema especial de comunicación telefónica denominado "Línea Directa para Situaciones dé Violencia Familiar", a través del cual todas las personas e instituciones podrán informar sobre los casos de que tengan conocimiento, a cualquier hora del día o de la noche y cualquier día de la semana.
 
 ### CAPITULO V. MEDIDAS DE EMERGENCIA Y PROVIDENCIAS CAUTELARES
 
@@ -1132,3 +1162,19 @@ SEGUNDO. Las dependencias y entidades que actualmente ejecutan funciones que med
 TERCERO. Se otorga un plazo de 30 días hábiles para que se lleven a cabo las reformas y adecuaciones a las disposiciones reglamentarias que correspondan.
 
 CUARTO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 12 DE MAYO DE 2009.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a la Procuraduría General de Justicia del Estado y al Procurador General de Justicia del Estado; a la Secretaría de Seguridad Pública del Estado y al Secretario de Seguridad Pública del Estado, se entenderán hechas a la Fiscalía General y al Fiscal General.
+
+TERCERO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a las subprocuradurías y a los subprocuradores, se entenderán hechas a las fiscalías especializadas y a los fiscales especializados, conforme a las siguientes denominaciones:
+
+Subprocurador Ministerial: Fiscal Ministerial, de Investigación y Operación Policial.
+
+Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos y Legalidad.
+
+Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
