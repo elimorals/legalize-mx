@@ -4,7 +4,7 @@ identifier: "COA-codigo-electoral-del-estado-de-coahuila-de-zaragoza-66532"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-06"
-last_updated: "2009-02-06"
+last_updated: "2009-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO ELECTORAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el viernes 6 de febrero de 2009.
 
@@ -1377,7 +1377,9 @@ IX. Gozar de buena reputación y no haber sido condenado por delito doloso que a
 
 X. Tener residencia en el Estado durante los últimos tres años, salvo el caso de ausencia por desempeño de cargo público al servicio de la Federación, del Estado o del Municipio.
 
-XI. No haber sido Secretario de Estado, ni Procurador General de Justicia del Estado o Subsecretario en la Administración Pública Federal, Estatal o Municipal.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+XI. No haber sido Secretario de Estado, ni Fiscal General del Estado o Subsecretario en la Administración Pública Federal, Estatal o Municipal.
 
 ###### Artículo 100.
 
@@ -4442,3 +4444,21 @@ EL SECRETARIO DE GOBIERNO
 ARMANDO LUNA CANALES
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CODIGO.</small>
+
+P.O. 12 DE MAYO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a la Procuraduría General de Justicia del Estado y al Procurador General de Justicia del Estado; a la Secretaría de Seguridad Pública del Estado y al Secretario de Seguridad Pública del Estado, se entenderán hechas a la Fiscalía General y al Fiscal General.
+
+TERCERO. Todas las disposiciones; menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a las subprocuradurías y a los subprocuradores, se entenderán hechas a las fiscalías especializadas y a los fiscales especializados, conforme a las siguientes denominaciones:
+
+Subprocurador Ministerial: Fiscal Ministerial, de Investigación y Operación Policial.
+
+Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos y Legalidad.
+
+Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
