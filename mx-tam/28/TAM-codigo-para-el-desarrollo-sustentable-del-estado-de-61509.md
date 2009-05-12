@@ -4,7 +4,7 @@ identifier: "TAM-codigo-para-el-desarrollo-sustentable-del-estado-de-61509"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-06-05"
-last_updated: "2008-06-05"
+last_updated: "2009-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 5 de junio de 2008.
 
@@ -2129,11 +2129,37 @@ XI. Residuos que, en su punto de generación no reúnan las características par
 
 XII. Los lodos de perforación, provenientes de la extracción de combustible fósiles, que no sean competencias de la federación;
 
-XIII. Los residuos sólidos urbanos producidos por grandes generadores; y
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
 
-XIV. Todos los demás generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos.
+XIII. Los residuos sólidos urbanos producidos por grandes generadores;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2009)</small>
+
+XIV. Las llantas o neumáticos en desuso, de desecho o caducos; y,
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+XV. Todos los demás generados en los procesos productivos, que no reúnan características para ser considerados como peligrosos o como residuos sólidos urbanos.
 
 2. La Agencia Ambiental, mediante determinación fundada y motivada, podrá establecer otras categorías para la clasificación de los residuos de manejo especial.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2009)</small>
+
+3. Las llantas de desecho, deberán ser depositadas en los sitios establecidos para su disposición final, fomentando su reutilización de forma total o parcial, quedando prohibido su disposición final en terrenos baldíos, en vías públicas y, en general, en sitios distintos a los autorizados por la Agencia Ambiental.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2009)</small>
+
+4. La Agencia Ambiental, en coordinación con la Secretaría de Desarrollo Económico y del Empleo, propiciarán las acciones que estimulen el mercado de valor de las llantas de desecho, impulsando programas de valorización que le permitan tanto a las personas físicas como a las morales, involucradas en la cadena comercial y de consumo en el Estado, acceder a los beneficios de su valorización.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2009)</small>
+
+5. Las personas físicas y morales que estén relacionadas con la cadena productiva de la industria llantera como los productores, importadores, exportadores, distribuidores y consumidores deberán participar en los programas que la Agencia Ambiental establezca para la valorización de estos residuos de manejo especial, así como en los programas en materia de su gestión integral.
+
+La responsabilidad compartida de los residuos antes mencionados será definida de conformidad con los mecanismos e instrumentos que establezca la Agencia Ambiental.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2009)</small>
+
+6. La Agencia Ambiental fomentará, en coordinación con los Ayuntamientos y la participación del sector productivo y social, la generación de infraestructura adecuada para el acopio, confinamiento, manejo y disposición final de las llantas de desecho.
 
 ###### ARTICULO 137.
 
@@ -4224,3 +4250,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los tres días del mes de junio del año dos mil ocho.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCION.".- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CODIGO.</small>
+
+P.O. 12 DE MAYO DE 2009.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
