@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6235
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-11"
-last_updated: "2008-07-11"
+last_updated: "2009-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62359&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 11 de julio de 2008.
 
@@ -401,9 +401,11 @@ VI. La eliminación dentro de sus programas de estereotipos que discriminen y fo
 
 VII. Las demás previstas en la presente ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 27.
 
-La Procuraduría General de Justicia del Estado, además de las atribuciones previstas en los ordenamientos descritos en el artículo 2 de esta ley, deberá coordinarse con las entidades correspondientes para informar sobre el número (sic) víctimas atendidas y formar una base de datos.
+La Fiscalía General del Estado, además de las atribuciones previstas en los ordenamientos descritos en el artículo 2 de esta ley, deberá coordinarse con las entidades correspondientes para informar sobre el número (sic) víctimas atendidas y formar una base de datos.
 
 ###### ARTÍCULO 28.
 
@@ -636,3 +638,21 @@ EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
 LIC. JESÚS TORRES CHARLES
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+P.O. 12 DE MAYO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a la Procuraduría General de Justicia del Estado y al Procurador General de Justicia del Estado; a la Secretaría de Seguridad Pública del Estado y al Secretario de Seguridad Pública del Estado, se entenderán hechas a la Fiscalía General y al Fiscal General.
+
+TERCERO. Todas las disposiciones; menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a las subprocuradurías y a los subprocuradores, se entenderán hechas a las fiscalías especializadas y a los fiscales especializados, conforme a las siguientes denominaciones:
+
+Subprocurador Ministerial: Fiscal Ministerial, de Investigación y Operación Policial.
+
+Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos y Legalidad.
+
+Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
