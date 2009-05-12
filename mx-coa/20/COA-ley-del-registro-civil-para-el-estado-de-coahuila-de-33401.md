@@ -4,7 +4,7 @@ identifier: "COA-ley-del-registro-civil-para-el-estado-de-coahuila-de-33401"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-25"
-last_updated: "2009-03-27"
+last_updated: "2009-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 25 de julio de 2003.
 
@@ -733,9 +733,11 @@ Cualquier persona o autoridad que tenga conocimiento de una defunción, deberá 
 
 En el acta de defunción se asentarán los datos que el Oficial del Registro Civil adquiera del certificado médico. El acta de defunción será firmada por el declarante y dos testigos de identidad del fallecido. Para tal efecto, se consideran testigos preferentes de identidad del fallecido, sus parientes, si los hay o, en su defecto, sus vecinos.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 109.
 
-Cuando por circunstancias especiales así valoradas por el Oficial del Registro Civil, no pueda presentarse el certificado médico de defunción, aquél ordenará oficiosamente que algún médico legista de la Procuraduría de Justicia del Estado, o cualquier otro de la localidad con cargo o sin cargo oficial o, en último caso, los prácticos, expida gratuitamente el certificado médico de defunción correspondiente.
+Cuando por circunstancias especiales así valoradas por el Oficial del Registro Civil, no pueda presentarse el certificado médico de defunción, aquél ordenará oficiosamente que algún médico legista de la Fiscalía General del Estado, o cualquier otro de la localidad con cargo o sin cargo oficial o, en último caso, los prácticos, expida gratuitamente el certificado médico de defunción correspondiente.
 
 ###### ARTÍCULO 110.
 
@@ -1120,3 +1122,19 @@ SEGUNDO. Dentro del plazo de 90 días hábiles siguientes a la entrada en vigor 
 TERCERO. Cuando una ley, reglamento, decreto u otras disposiciones jurídicas o administrativas aludan al Oficial del Registro Civil, se entenderá hechas también al titular de la Dirección del Registro Civil del Estado de Coahuila, en lo que le sean aplicables.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 12 DE MAYO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a la Procuraduría General de Justicia del Estado y al Procurador General de Justicia del Estado; a la Secretaría de Seguridad Pública del Estado y al Secretario de Seguridad Pública del Estado, se entenderán hechas a la Fiscalía General y al Fiscal General.
+
+TERCERO. Todas las disposiciones; menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a las subprocuradurías y a los subprocuradores, se entenderán hechas a las fiscalías especializadas y a los fiscales especializados, conforme a las siguientes denominaciones:
+
+Subprocurador Ministerial: Fiscal Ministerial, de Investigación y Operación Policial.
+
+Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos y Legalidad.
+
+Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
