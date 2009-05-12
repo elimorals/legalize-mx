@@ -4,7 +4,7 @@ identifier: "COA-ley-de-fomento-ganadero-para-el-estado-de-coahuila-4491"
 country: "mx"
 rank: "ley"
 publication_date: "1969-03-29"
-last_updated: "1980-04-04"
+last_updated: "2009-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4491&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE FOMENTO GANADERO PARA EL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el sábado 29 de marzo de 1969.
 
@@ -83,7 +83,9 @@ Son autoridades competentes para aplicar la presente Ley:
 
 a).- La Dirección de Control Agrícola y Ganadero que preside el Gobernador del Estado.
 
-b).- La Procuraduría General de Justicia en el Estado, Agencias y Delegaciones del Ministerio Público del Fuero Común.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+b).- La Fiscalía General del Estado, Agencias y Delegaciones del Ministerio Público del Fuero Común.
 
 c).- Las Autoridades Judiciales.
 
@@ -1042,3 +1044,19 @@ Lic. José Ramírez Mijares.- Rúbrica.
 P.O. 4 DE ABRIL DE 1980.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE MAYO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a la Procuraduría General de Justicia del Estado y al Procurador General de Justicia del Estado; a la Secretaría de Seguridad Pública del Estado y al Secretario de Seguridad Pública del Estado, se entenderán hechas a la Fiscalía General y al Fiscal General.
+
+TERCERO. Todas las disposiciones; menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a las subprocuradurías y a los subprocuradores, se entenderán hechas a las fiscalías especializadas y a los fiscales especializados, conforme a las siguientes denominaciones:
+
+Subprocurador Ministerial: Fiscal Ministerial, de Investigación y Operación Policial.
+
+Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos y Legalidad.
+
+Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
