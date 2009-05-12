@@ -4,7 +4,7 @@ identifier: "COA-ley-de-justicia-para-adolescentes-del-estado-de-coahuila-de-517
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-01"
-last_updated: "2008-01-15"
+last_updated: "2009-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 1 de septiembre de 2006.
 
@@ -197,7 +197,9 @@ INTERNAMIENTO EN CENTROS EXCLUSIVOS O ÁREAS ESPECIALIZADAS. En caso de ser priv
 
 AUTORIDADES COMPETENTES. Serán autoridades competentes para conocer de la comisión de conductas cometidas por adolescentes tipificadas como delitos por las leyes penales, las siguientes:
 
-I. La Procuraduría General de Justicia del Estado, a través de Agencias del Ministerio Público Especializadas en materia de adolescentes.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+I. La Fiscalía General del Estado, a través de Agencias del Ministerio Público Especializadas en materia de adolescentes y de la Dirección de Adaptación y Tratamiento de Adolescentes.
 
 II. El Poder Judicial del Estado a través de:
 
@@ -205,9 +207,7 @@ a) Juzgados de Primera Instancia Especializados en materia de Adolescentes.
 
 b) Tribunal de Apelación Especializado en materia de Adolescentes.
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
-
-III. La Secretaría de Seguridad Pública, a través de la Dirección de Atención y Tratamiento de Adolescentes.
+III. (DEROGADA, P.O. 12 DE MAYO DE 2009)
 
 ###### ARTÍCULO 30.
 
@@ -231,9 +231,11 @@ La competencia de las autoridades en materia de adolescentes cuya conducta esté
 
 #### SECCIÓN PRIMERA. DEL MINISTERIO PÚBLICO ESPECIALIZADO EN MATERIA DE ADOLESCENTES
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 32.
 
-AGENTES DEL MINISTERIO PÚBLICO ESPECIALIZADOS. Los Agentes del Ministerio Público Especializados de la Procuraduría General de Justicia del Estado, además de los requisitos previstos por la Ley Orgánica del Ministerio Público, deberán contar con conocimientos sobre el estudio, prevención y tratamiento de la conducta de los adolescentes.
+AGENTES DEL MINISTERIO PÚBLICO ESPECIALIZADOS. Los Agentes del Ministerio Público Especializados de la Fiscalía General del Estado, además de los requisitos previstos por la Ley Orgánica de la Fiscalía General del Estado y de la Ley de Procuración de Justicia del Estado, deberán contar con conocimientos sobre el estudio, prevención y tratamiento de la conducta de los adolescentes.
 
 ###### ARTÍCULO 33.
 
@@ -241,7 +243,9 @@ FACULTAD EXCLUSIVA DEL MINISTERIO PÚBLICO ESPECIALIZADO. El Ministerio Público
 
 Tendrá a su cargo, además, la protección de los derechos y los intereses legítimos de los ofendidos o víctimas de los delitos cometidos por las personas a que se refiere el párrafo anterior.
 
-Para el cumplimiento de su función, el Ministerio Público Especializado, tendrá bajo su adscripción los Policías Ministeriales y demás órganos auxiliares que requiera, quienes deberán ser especializados y actuarán de manera exclusiva en el área de adolescentes a que se refiere esta ley.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+
+Para el cumplimiento de su función, el Ministerio Público Especializado, tendrá bajo su adscripción los Policías del Estado y demás órganos auxiliares que requiera, quienes deberán ser especializados y actuarán de manera exclusiva en el área de adolescentes a que se refiere esta ley.
 
 ###### ARTÍCULO 34.
 
@@ -377,19 +381,19 @@ IV. Supervisar y evaluar los Centros de Internación establecidos en el Estado;
 
 V. Informar al Juez los resultados de las evaluaciones periódicas que se practiquen a los adolescentes, conforme a lo dispuesto por esta ley;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
 
-VI. Proponer al Titular de la Secretaría de Gobierno del Estado, la celebración de convenios de colaboración con instituciones públicas y privadas que coadyuven en el cumplimiento de la ejecución de las medidas;
+VI. Proponer al Fiscal General del Estado, la celebración de convenios de colaboración con instituciones públicas y privadas que coadyuven en el cumplimiento de la ejecución de las medidas;
 
 VII. Contar con un registro actualizado de las instituciones públicas y privadas que colaboren en la ejecución de las medidas, así como de los programas existentes para su cumplimiento, y realizar los trámites necesarios para que dichas instituciones y programas sean coadyuvantes para la reintegración y adaptación social de los adolescentes; y
 
 VIII. Las demás previstas por esta ley y otras disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 44.
 
-CENTROS DE INTERNACIÓN DE ADOLESCENTES. La Secretaría de Gobierno del Estado, establecerá en las diversas regiones del Estado los Centros de Internación, conforme a las necesidades del servicio y a la disponibilidad presupuestal, que estarán adscritos directamente a la Dirección. Los titulares de los Centros de Internación tendrán las siguientes obligaciones y atribuciones:
+CENTROS DE INTERNACIÓN DE ADOLESCENTES. La Fiscalía General del Estado, establecerá en las diversas regiones del Estado los Centros de Internación, conforme a las necesidades del servicio y a la disponibilidad presupuestal, que estarán adscritos directamente a la Dirección. Los titulares de los Centros de Internación tendrán las siguientes obligaciones y atribuciones:
 
 I. Aplicar las medidas de tratamiento de internación, conforme a su competencia, impuestas por el Juez;
 
@@ -2026,3 +2030,19 @@ SEGUNDO. Las dependencias y entidades que actualmente ejecutan funciones que med
 TERCERO. Se otorga un plazo de 30 días hábiles para que se lleven a cabo las reformas y adecuaciones a las disposiciones reglamentarias que correspondan.
 
 CUARTO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 12 DE MAYO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a la Procuraduría General de Justicia del Estado y al Procurador General de Justicia del Estado; a la Secretaría de Seguridad Pública del Estado y al Secretario de Seguridad Pública del Estado, se entenderán hechas a la Fiscalía General y al Fiscal General.
+
+TERCERO. Todas las disposiciones; menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a las subprocuradurías y a los subprocuradores, se entenderán hechas a las fiscalías especializadas y a los fiscales especializados, conforme a las siguientes denominaciones:
+
+Subprocurador Ministerial: Fiscal Ministerial, de Investigación y Operación Policial.
+
+Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos y Legalidad.
+
+Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
