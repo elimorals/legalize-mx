@@ -4,7 +4,7 @@ identifier: "COA-ley-de-responsabilidades-de-los-servidores-publicos-3774"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-24"
-last_updated: "2007-07-31"
+last_updated: "2009-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS ESTATALES Y MUNICIPALES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 24 de abril de 1984.
 
@@ -43,7 +43,7 @@ LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS ESTATALES Y MUNICIPALES DEL 
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
-(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2001
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 1o.
 
@@ -65,7 +65,7 @@ VI.- El registro patrimonial de los servidores públicos.
 
 Son sujetos de esta Ley:
 
-(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 I. Los representantes de elección popular, los miembros del Poder Judicial, los servidores públicos del estado y de los municipios cualquiera que sea su jerarquía, rango u origen de su nombramiento o lugar en que presten sus servicios, los consejeros electorales del Consejo (sic) General del Instituto Electoral y de Participación Ciudadana de Coahuila y, en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública, Estatal o Municipal, y en las entidades paraestatales o paramunicipales.
 
@@ -83,7 +83,9 @@ II.- El Congreso del Estado;
 
 III.- El pleno del Tribunal Superior de Justicia del Estado;
 
-IV.- La Procuraduría General de Justicia en el Estado;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+IV.- La Fiscalía General del Estado;
 
 > <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
 
@@ -97,7 +99,7 @@ VIII.- Los Ayuntamientos Municipales y sus Dependencias;
 
 IX.- Los Organos Municipales de Control;
 
-(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 X. Los organismos públicos autónomos, así como los Consejos (sic) Directivos u órganos de gobierno equivalentes, y las dependencias respectivas de las entidades paraestatales y paramunicipales; y
 
@@ -129,11 +131,11 @@ VI.- Por Superior Jerárquico: El jefe inmediato del servidor público, en los t
 
 ### CAPITULO PRIMERO. SUJETOS, CAUSAS DE JUICIO POLITICO Y SANCIONES
 
-(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 6o.
 
-Son sujetos de juicio político: los Diputados del Congreso del Estado; el Gobernador del Estado; los secretarios del ramo; el Procurador General de Justicia; los subsecretarios; los subprocuradores de justicia; los directores generales y los directores de las dependencias del Poder Ejecutivo; los Magistrados del Tribunal Superior de Justicia; los Magistrados del Tribunal Electoral; los Magistrados de los Tribunales Unitarios de Distrito; los Jueces de Primera Instancia; los presidentes, regidores y síndicos de los Ayuntamientos del estado; los integrantes de los Concejos Municipales; los directores generales o sus equivalentes de las entidades paraestatales y paramunicipales y los consejeros electorales propietarios del Consejo (sic) General del Instituto Electoral y de Participación Ciudadana de Coahuila.
+Son sujetos de juicio político: los Diputados del Congreso del Estado; el Gobernador del Estado; los secretarios del ramo; el Fiscal General del Estado; los subsecretarios; los Fiscales Especializados; los directores generales y los directores de las dependencias del Poder Ejecutivo; los Magistrados del Tribunal Superior de Justicia; los Magistrados del Tribunal Electoral; los Magistrados de los Tribunales Unitarios de Distrito; los Jueces de Primera Instancia; los presidentes, regidores y síndicos de los Ayuntamientos del estado; los integrantes de los Concejos Municipales; los directores generales o sus equivalentes de las entidades paraestatales y paramunicipales y los consejeros electorales propietarios del Consejo (sic) General del Instituto Electoral y de Participación Ciudadana de Coahuila.
 
 ###### ARTICULO 7o.
 
@@ -305,11 +307,11 @@ Cualquier ciudadano, bajo su más estricta responsabilidad y presentando los ele
 
 El Ministerio Público, en su caso, podrá formular requerimientos ante el propio Congreso del Estado, para los mismos efectos.
 
-(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 31.
 
-Para proceder penalmente contra el Gobernador del Estado; los Diputados del Congreso Local; los Magistrados del Tribunal Superior de Justicia; los Magistrados del Tribunal Electoral; los secretarios del ramo; el Procurador General de Justicia; los presidentes, regidores y síndicos de los Ayuntamientos; los integrantes de los Concejos Municipales; los consejeros electorales propietarios del Consejo (sic) General del Instituto Electoral y de Participación Ciudadana de Coahuila, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado deberá declarar mediante resolución de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el inculpado, sujetándose a la garantía de audiencia.
+Para proceder penalmente contra el Gobernador del Estado; los Diputados del Congreso Local; los Magistrados del Tribunal Superior de Justicia; los Magistrados del Tribunal Electoral; los secretarios del ramo; el Fiscal General, y los Fiscales Especializados del Estado; los presidentes, regidores y síndicos de los Ayuntamientos; los integrantes de los Concejos Municipales; los consejeros electorales propietarios del Consejo (sic) General del Instituto Electoral y de Participación Ciudadana de Coahuila, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado deberá declarar mediante resolución de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el inculpado, sujetándose a la garantía de audiencia.
 
 ###### ARTICULO 32.
 
@@ -333,7 +335,7 @@ Si el Congreso resolviere que no procede acusar al servidor público denunciado,
 
 Las declaraciones que en estos casos emita el Congreso del Estado, serán inatacables.
 
-(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 35.
 
@@ -573,7 +575,7 @@ II.- El cociente se multiplicará por el salario mínimo mensual vigente en la c
 
 Para los efectos de esta Ley se entenderá por salario mínimo mensual, el equivalente a treinta veces el salario mínimo diario vigente en la zona correspondiente a la capital del Estado.
 
-(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 59.
 
@@ -928,3 +930,19 @@ P.O. 31 DE JULIO DE 2007.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 12 DE MAYO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a la Procuraduría General de Justicia del Estado y al Procurador General de Justicia del Estado; a la Secretaría de Seguridad Pública del Estado y al Secretario de Seguridad Pública del Estado, se entenderán hechas a la Fiscalía General y al Fiscal General.
+
+TERCERO. Todas las disposiciones; menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a las subprocuradurías y a los subprocuradores, se entenderán hechas a las fiscalías especializadas y a los fiscales especializados, conforme a las siguientes denominaciones:
+
+Subprocurador Ministerial: Fiscal Ministerial, de Investigación y Operación Policial.
+
+Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos y Legalidad.
+
+Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
