@@ -4,7 +4,7 @@ identifier: "CHP-codigo-civil-para-el-estado-de-chiapas-33800"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-02-02"
-last_updated: "2009-03-23"
+last_updated: "2009-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33800&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MAYO DE 2009.
 
 Código publicado en el Alcance al Periódico Oficial Estado de Chiapas, el 2 de febrero de 1938.
 
@@ -276,6 +276,10 @@ ART. 55.- LOS ACTOS Y ACTAS DEL ESTADO CIVIL DEL PROPIO OFICIAL, DE SU CONYUGE, 
 ART. 56.- EL ESTADO GARANTIZARA EL DERECHO A LA IDENTIDAD A TRAVES DEL REGISTRO DE NACIMIENTO UNIVERSAL, GRATUITO Y OBLIGATORIO, EN LOS TERMINOS DEL PRESENTE CODIGO.
 
 LAS DECLARACIONES DE NACIMIENTO, SE HARAN PRESENTANDO AL MENOR ANTE EL OFICIAL DEL REGISTRO CIVIL O SOLICITANDO LA COMPARECENCIA DEL MISMO EN EL LUGAR QUE SE ENCUENTRA AQUEL.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2009)</small>
+
+BAJO NINGUNA CIRCUNSTANCIA SE NEGARA EL REGISTRO DEL NACIMIENTO DEL MENOR NACIDO EN TERRITORIO DEL ESTADO DE CHIAPAS, CUANDO SEA HIJO DE PADRE, MADRE O AMBOS DE NACIONALIDAD EXTRANJERA QUE CAREZCAN DE DOCUMENTO QUE ACREDITE SU LEGAL ESTANCIA EN TERRITORIO NACIONAL. ASIMISMO, NO PODRA COARTARSE EL DERECHO DEL PADRE, MADRE O AMBOS EXTRANJEROS A QUE SE ANOTE SU NOMBRE EN EL REGISTRO DE NACIMIENTO DEL MENOR POR DICHA CIRCUNSTANCIA, PARA LO CUAL LA AUTORIDAD DEL REGISTRO DEBERA ALLEGARSE DE LA INFORMACION Y DOCUMENTACION NECESARIAS PARA ACREDITAR FEHACIENTEMENTE LA IDENTIDAD DE LOS PROGENITORES, Y QUE EL MENOR NACIÓ DENTRO DEL TERRITORIO DEL ESTADO.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
@@ -10658,3 +10662,13 @@ P.O. 23 DE MARZO DE 2009.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 13 DE MAYO DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- La Dirección del Registro Civil del Estado, en un término no mayor de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto deberá someter a la consideración del Titular del Poder Ejecutivo del Estado, el proyecto de reformas y adiciones al Reglamento del Registro Civil del Estado de Chiapas referentes a la adición al artículo 56, del Código Civil para el Estado de Chiapas, para efectos de su expedición y publicación correspondiente.
+
+Artículo Cuarto.- A partir de la fecha de entrada en vigor del presente decreto, y por el término de un año, los menores nacidos en territorio del Estado que no cuenten con el registro de nacimiento correspondiente en virtud de que alguno o ambos padres son de nacionalidad extranjera y carecen de documentación que acredite su legal estancia en territorio nacional, serán registrados de manera gratuita, cumpliendo con los requisitos que al efecto establezca el Reglamento del Registro Civil para la Entidad. La Dirección y las Oficialías del Registro Civil del Estado deberán dar publicidad a esta disposición por los medios que consideren idóneos.
