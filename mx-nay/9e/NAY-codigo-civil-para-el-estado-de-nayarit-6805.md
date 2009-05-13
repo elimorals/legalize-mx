@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2009-04-18"
+last_updated: "2009-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MAYO DE 2009.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -1081,37 +1081,31 @@ De los requisitos para contraer matrimonio.
 
 ###### Artículo 135.
 
-La promesa de matrimonio que se hace por escrito y es aceptada, constituye los esponsales
+(DEROGADO, P.O. 13 DE MAYO DE 2009)
 
 ###### Artículo 136.
 
-Sólo pueden celebrar esponsales, el hombre que ha cumplido dieciséis años y la mujer que ha cumplido catorce.
+(DEROGADO, P.O. 13 DE MAYO DE 2009)
 
 ###### Artículo 137.
 
-Cuando los prometidos son menores de edad, los esponsales no producen efectos jurídicos si no han consentido en ellos sus representantes legales.
+(DEROGADO, P.O. 13 DE MAYO DE 2009)
 
 ###### Artículo 138.
 
-Los esponsales no producen obligación de contraer matrimonio, ni en ellos puede estipularse pena alguna por no cumplir la promesa.
+(DEROGADO, P.O. 13 DE MAYO DE 2009)
 
 ###### Artículo 139.
 
-El que sin causa grave, a juicio del Juez rehusare cumplir su compromiso de matrimonio o difiera indefinidamente su cumplimiento, pagará los gastos que la otra parte hubiere hecho con motivo del matrimonio proyectado.
-
-En la misma responsabilidad incurrirá el prometido que diere motivo grave para el rompimiento de los esponsales.
-
-También pagará el prometido que sin causa grave falte a su compromiso una indemnización a título de reparación moral, cuando por la duración del noviazgo, la intimidad establecida entre los prometidos, la publicidad de las relaciones, la proximidad del matrimonio u otras causas semejantes, el rompimiento de los esponsales cause un grave daño a la reputación del prometido inocente.
-
-La indemnización será prudentemente fijada en cada caso por el juez, teniendo en cuenta los recursos del prometido culpable y la gravedad del perjuicio causado al inocente.
+(DEROGADO, P.O. 13 DE MAYO DE 2009)
 
 ###### Artículo 140.
 
-Las acciones a que se refiere el artículo que precede, sólo pueden ejercitarse dentro de un año, contado desde el día de la negativa a la celebración del matrimonio.
+(DEROGADO, P.O. 13 DE MAYO DE 2009)
 
 ###### Artículo 141.
 
-Si el matrimonio no se celebra, tienen derecho los prometidos a exigir la devolución de lo que se hubieren donado con motivo de su concertado matrimonio. Este derecho durará un año, contado desde el rompimiento de los esponsales.
+(DEROGADO, P.O. 13 DE MAYO DE 2009)
 
 ### CAPITULO III
 
@@ -15988,3 +15982,7 @@ Comuníquese el presente decreto a la Suprema Corte de Justicia de la Nación.
 P.O. 18 DE ABRIL DE 2009.
 
 Artículo Único.- El presente decreto entrara en vigor a los 180 días naturales siguientes a la fecha de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 13 DE MAYO DE 2009.
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
