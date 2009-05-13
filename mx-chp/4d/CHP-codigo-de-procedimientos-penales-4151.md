@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-procedimientos-penales-4151"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-03-02"
-last_updated: "2009-04-03"
+last_updated: "2009-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CODIGO DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MAYO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Chiapas, el 2 de marzo de 1938.
 
@@ -1845,9 +1845,13 @@ SE CALIFICAN COMO DELITOS GRAVES, PARA TODOS LOS EFECTOS LEGALES, POR AFECTAR DE
 
 33) OPERACIONES CON RECURSOS DE PROCEDENCIA ILICITA, PREVISTO Y SANCIONADO POR EL ARTICULO 478;
 
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2009)</small>
+
+34) USURA, PREVISTO Y SANCIONADO EN LOS ARTICULOS 320 BIS, 320 TER, 320 QUATER Y 320 QUINTUS;
+
 > <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2009)</small>
 
-34) TRATA DE PERSONAS, PREVISTO Y SANCIONADO POR LA LEY PARA COMBATIR, PREVENIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE CHIAPAS.
+35) TRATA DE PERSONAS, PREVISTO Y SANCIONADO POR LA LEY PARA COMBATIR, PREVENIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE CHIAPAS.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 2007)</small>
 
@@ -4078,3 +4082,9 @@ Artículo Cuarto.- La Comisión Interinstitucional, una vez instalada, contará 
 Artículo Quinto.- La Comisión Interinstitucional deberá emitir el Reglamento de la presente Ley, en el término de 60 días, a partir de su instalación.
 
 Artículo Sexto.- Se derogan aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE MAYO DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
