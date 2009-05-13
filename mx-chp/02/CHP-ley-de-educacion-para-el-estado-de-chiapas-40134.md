@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-educacion-para-el-estado-de-chiapas-40134"
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-16"
-last_updated: "2009-01-28"
+last_updated: "2009-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE EDUCACION PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MAYO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 16 de junio de 2004.
 
@@ -1117,6 +1117,10 @@ LA SECRETARIA DE EDUCACION PUBLICA DETERMINARA LOS PLANES Y PROGRAMAS DE ESTUDIO
 
 LA AUTORIDAD EDUCATIVA ESTATAL PROPONDRA PARA CONSIDERACION Y EN SU CASO AUTORIZACION DE LA SECRETARIA DE EDUCACION PUBLICA, LA INCLUSION EN LOS PLANES Y PROGRAMAS DE ESTUDIO PARA EL TIPO BASICO, LOS CONTENIDOS REGIONALES QUE PERMITAN QUE LOS EDUCANDOS ADQUIERAN UN MEJOR CONOCIMIENTO DE LA HISTORIA, LA GEOGRAFIA, LAS COSTUMBRES, LAS TRADICIONES, LOS ECOSISTEMAS, Y DEMAS ASPECTOS PROPIOS DEL ESTADO Y MUNICIPIOS.
 
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2009)</small>
+
+DE IGUAL FORMA, LOS PROGRAMAS DE ESTUDIO CONTENDRAN TEMAS RELATIVOS AL ENALTECIMIENTO, FORMACION, RESPETO Y PROMOCION DE LOS DERECHOS DE LA MUJER, Y PRINCIPALMENTE, A LA INCLUSION DE ESTA EN LOS PROCESOS DE EDUCACION Y PARTICIPACION EN LOS DIVERSOS ASPECTOS SOCIALES; ASIMISMO, GARANTIZARAN LA CAPACITACION DE LAS MUJERES CON LA FINALIDAD DE QUE TENGAN UN MAYOR ACCESO A OPORTUNIDADES LABORALES, EVITANDO LA MARGINACION Y POBREZA EN SU ENTORNO SOCIAL.
+
 ###### ARTICULO 85.
 
 LOS CONTENIDOS DE LA EDUCACION SERAN DEFINIDOS EN PLANES Y PROGRAMAS DE ESTUDIO.
@@ -1618,3 +1622,11 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
 
 Artículo Tercero.- La Secretaría de Educación, en el marco de su competencia, proveerá lo necesario para el cumplimiento del presente Decreto.
+
+P.O. 13 DE MAYO DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- La Secretaría de Educación del Estado de Chiapas deberá incluir los temas a que se refiere el presente decreto en los programas de estudio que serán aplicados a partir del año escolar 2009 - 2010 de educación básica.
