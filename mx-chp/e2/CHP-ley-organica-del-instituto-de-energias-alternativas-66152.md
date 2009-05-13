@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-instituto-de-energias-alternativas-66152"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-31"
-last_updated: "2008-12-31"
+last_updated: "2009-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66152&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # LEY ORGANICA DEL INSTITUTO DE ENERGIAS ALTERNATIVAS, RENOVABLES, BIOCOMBUSTIBLES Y ENERGIAS ELECTRICAS DEL ESTADO DE CHIAPAS -ANTES LEY ORGANICA DEL INSTITUTO DE ENERGIAS ALTERNATIVAS, RENOVABLES Y BIOCOMBUSTIBLES DEL ESTADO DE CHIAPAS-
 
-LEY ORGANICA DEL INSTITUTO DE ENERGIAS ALTERNATIVAS, RENOVABLES Y BIOCOMBUSTIBLES DEL ESTADO DE CHIAPAS
+LEY ORGANICA DEL INSTITUTO DE ENERGIAS ALTERNATIVAS, RENOVABLES, BIOCOMBUSTIBLES Y ENERGIAS ELECTRICAS DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MAYO DE 2009.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 31 de diciembre de 2008.
 
@@ -37,13 +37,17 @@ Considerando.
 
 Por las consideraciones antes expuestas, el Honorable Congreso del Estado de Chiapas, ha tenido a bien emitir el siguiente Decreto de:
 
-LEY ORGÁNICA DEL INSTITUTO DE ENERGÍAS ALTERNATIVAS, RENOVABLES Y BIOCOMBUSTIBLES DEL ESTADO DE CHIAPAS
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MAYO DE 2009)</small>
+
+LEY ORGÁNICA DEL INSTITUTO DE ENERGÍAS ALTERNATIVAS, RENOVABLES, BIOCOMBUSTIBLES Y ENERGÍAS ELÉCTRICAS DEL ESTADO DE CHIAPAS
 
 ### CAPÍTULO I. DE SU CREACIÓN Y DOMICILIO
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2009)</small>
+
 ###### Artículo 1.
 
-Por la presente Ley Orgánica, se crea el Organismo Descentralizado de la Administración Pública del Estado, con personalidad jurídica y patrimonio propio, denominado Instituto de Energías Alternativas, Renovables y Biocombustibles del Estado de Chiapas, en adelante el «Instituto», sectorizado a la Secretaría para el Desarrollo de la Frontera Sur; rigiendo sus actividades por las disposiciones de esta Ley, su Reglamento Interior; la Ley de Entidades Paraestatales del Estado de Chiapas y demás disposiciones legales que le sean aplicables.
+Por la presente Ley Orgánica, se crea el Organismo Descentralizado de la Administración Pública del Estado, con personalidad jurídica y patrimonio propio, denominado Instituto de Energías Alternativas, Renovables, Biocombustibles y Energías Eléctricas del Estado de Chiapas, en adelante el “Instituto”, sectorizado a la Secretaría de Hacienda; rigiendo sus actividades por las disposiciones de esta Ley, su Reglamentó Interior; la Ley de Entidades Paraestatales del Estado de Chiapas, y demás disposiciones legales aplicables.
 
 ###### Artículo 2.
 
@@ -51,17 +55,23 @@ El «Instituto» tendrá su domicilio legal en la Ciudad de Tuxtla Gutiérrez, C
 
 ### CAPÍTULO II. DE SU OBJETO Y ATRIBUCIONES GENERALES
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2009)</small>
+
 ###### Artículo 3.
 
-El «Instituto» tendrá como objeto fundamental fomentar el desarrollo industrial y comercial de los insumos bioenergéticos y aquellos otros obtenidos del uso, aplicación y transformación de las energías alternativas, renovables y biocombustibles, para lograr una autosuficiencia energética y una cultura de conservación de recursos no renovables y uso de tecnología y productos limpios no contaminantes y de impacto positivo al medio ambiente.
+El “Instituto” tendrá como objeto fundamental fomentar el desarrollo industrial y comercial de los insumos Bioenergéticos y aquellos otros obtenidos del uso, aplicación y transformación de las energías alternativas, renovables y biocombustibles, así como la generación, conducción, transformación, distribución y abastecimiento de energía eléctrica para la prestación del servicio público, para lograr una autosuficiencia energética y una cultura de conservación de recursos no renovables y uso de tecnología y productos limpios no contaminantes y de impacto positivo al medio ambiente.
 
 ###### Artículo 4.
 
 Para el logro de sus objetivos, el «Instituto» tendrá como atribuciones generales, entre otras, las siguientes:
 
-I. Diseñar, formular y ejecutar los proyectos y programas para impulsar el desarrollo industrial y comercial de los insumos bioenergéticos y aquellos otros obtenidos del uso, aplicación y transformación de las energías alternativas, renovables y biocombustibles.
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2009)</small>
 
-II. Promover la integración y la operación de foros consultivos multidisciplinarios para el fomento y desarrollo industrial y comercial de los insumos bioenergéticos y aquellos otros obtenidos del uso, aplicación y transformación de las energías alternativas, renovables y biocombustibles.
+I. Diseñar, formular y ejecutar los proyectos y programas para impulsar el desarrollo industrial y comercial, de los insumos Bioenergéticos y aquellos otros obtenidos del uso, aplicación y transformación de las energías alternativas, renovables y biocombustibles, así como de la generación, conducción, transformación, distribución y abastecimiento de energía eléctrica para la prestación del servicio público.
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2009)</small>
+
+II. Promover la integración y la operación de foros consultivos multidisciplinarios para el fomente y desarrollo industrial y comercial de los insumes Bioenergéticos y aquellos otros obtenidos del uso, aplicación y transformación de las energías alternativas, renovables y biocombustibles, así como de la generación, conducción, transformación, distribución y abastecimiento de energía eléctrica para la prestación del servicio público.
 
 III. Crear nuevos esquemas de financiamiento con la participación de la iniciativa privada y de los productores en proyectos detonantes para la industrialización y comercialización de los bioenergéticos y de las energías alternativas, renovables y biocombustibles.
 
@@ -73,7 +83,17 @@ VI. Fomentar e implantar el uso de tecnologías eficientes para la industrializa
 
 VII. Coordinar la elaboración de los bioenergéticos en las plantas procesadoras que se instalen en el Estado; así como en la producción de las energías alternativas, renovables y biocombustibles que por cualquier medio se aprovechen en beneficio de los habitantes del Estado.
 
-VIII. Las demás que le confieran las leyes, reglamentos y demás normatividad que le resulte aplicable, así como las que le otorgue expresamente el Titular del Poder Ejecutivo del Estado.
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2009)</small>
+
+VIII. Fomentar e implantar el uso de celdas fotovoltaicas para la generación de energía eléctrica de carácter doméstico en aquellas poblaciones y comunidades que carezcan del servicio público de energía eléctrica, conforme a lo dispuesto por los artículos 36, fracción I, y 39, de la Ley del Servicio Público de Energía Eléctrica.
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2009)</small>
+
+IX. Coordinar la celebración de convenios y contratos con la Comisión Federal de Electricidad para la generación, conducción, transformación, distribución y abastecimiento de energía eléctrica para la prestación del servicio público, en términos de lo dispuesto por el artículo 9º fracción VII, de la Ley del Servicio Público de Energía Eléctrica.
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2009)</small>
+
+X. Las demás que se deriven de la presente Ley y de los ordenamientos correspondientes.
 
 En el Reglamento Interior del «Instituto», se definirá de manera particular el funcionamiento de éste, así como, sus demás atribuciones.
 
@@ -161,7 +181,9 @@ Son atribuciones de la Junta de Gobierno del «Instituto»:
 
 I. Establecer y aprobar los programas y políticas generales de trabajo que anualmente le sean presentados por la Dirección General, que orienten las actividades del «Instituto», definiendo las prioridades a las que debe sujetarse.
 
-II. Aprobar los proyectos y planes para el desarrollo de las funciones del «Instituto», encaminados al posicionamiento de desarrollo industrial y comercial de los insumos bioenergéticos y aquellos otros obtenidos del uso, aplicación y transformación de las energías alternativas, renovables y biocombustibles.
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2009)</small>
+
+II. Aprobar los proyectos y planes para el desarrollo de las funciones del “Instituto”, encaminados al posicionamiento de desarrollo industrial y comercial de los insumos Bioenergéticos y aquellos otros obtenidos del uso, aplicación y transformación de las energías alternativas, renovables y biocombustibles, así como de la generación, conducción, transformación, distribución y abastecimiento de energía eléctrica para la prestación del servicio público.
 
 III. Aprobar los estados financieros y presupuesto anual; así como, los informes generales y especiales que rinda la Dirección General del «Instituto».
 
@@ -282,3 +304,17 @@ Dado en el Salón de Sesiones del Honorable Congreso del Estado de Chiapas, en l
 De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los treinta días del mes de diciembre del año dos mil ocho.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rubricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE MAYO DE 2009.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en este decreto.
+
+Artículo Tercero.- Las referencias, atribuciones o menciones que hagan otros ordenamientos legales o normativos en relación con el Instituto de Energías Alternativas, Renovables y Biocombustibles del Estado de Chiapas, serán transferidas y se entenderán conferidas al Instituto de Energías Alternativas, Renovables, Biocombustibles y Eléctricas del Estado de Chiapas.
+
+Artículo Cuarto.- En un plazo no mayor de noventa días naturales siguientes a la entrada en vigor del presente decreto, el Director del Instituto de Energías Alternativas, Renovables, Biocombustibles y Eléctricas del Estado de Chiapas, deberá someter a la consideración de la Junta de Gobierno, el proyecto de Reglamento Interior del Instituto, para su aprobación, debiendo ser enviado al Titular del Ejecutivo del Estado para los efectos de su expedición y publicación correspondiente.
+
+Artículo Quinto.- Las Dependencias normativas en el ámbito de sus respectivas competencias, realizarán las acciones técnico-administrativas necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables.
