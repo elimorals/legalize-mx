@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-64771"
 country: "mx"
 rank: "estatuto"
 publication_date: "2008-12-31"
-last_updated: "2008-12-31"
+last_updated: "2009-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-06-26"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE MAYO DE 2009.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 2008.
 
@@ -965,11 +965,17 @@ XII. Organizar, administrar y controlar el Fondo de Servicios Sociales y Cultura
 
 XIII. Preparar la propuesta que debe someterse anualmente a la Junta sobre el costo unitario a cargo de la dependencia o entidad por cada infante que haga uso del servicio de atención en las estancias para el bienestar y desarrollo infantil, estableciendo lineamientos para la subvención del servicio a las madres con hijos con discapacidad;
 
-XIV. Coordinar, integrar y promover los programas y acciones desarrollados por las diversas áreas del Instituto para la atención de los pensionados y jubilados, operando con carácter prioritario, en el marco de sus servicios sociales y culturales, las iniciativas y proyectos de carácter educativo, recreativo, ocupacional y deportivo que auspicien su mayor bienestar, así como, en general, de la derechohabiencia de la tercera edad;
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2009)</small>
 
-XV. Coadyuvar en el diseño, implementación, administración y operación de los sistemas de información y comunicaciones con los que deberán operar las Delegaciones del Instituto para conceder las pensiones y otorgar las prestaciones económicas, sociales y culturales; y,
+XIV. Diseñar, proporcionar, difundir y operar el sistema de formación, enseñanza y capacitación que articule los programas dirigidos a los derechohabientes y usuarios de los servicios del Instituto, así como a las Dependencias y Entidades, y en coordinación con la Dirección de Administración, los destinados al desarrollo y actualización laboral de los trabajadores de la propia institución;
 
-XVI. Las demás que le confieran el presente Estatuto y la normatividad aplicable, así como las que le asigne el Director General.
+XV. Coordinar, integrar y promover los programas y acciones desarrollados por las diversas áreas del Instituto para la atención de los pensionados y jubilados, operando con carácter prioritario, en el marco de sus servicios sociales y culturales, las iniciativas y proyectos de carácter educativo, recreativo, ocupacional y deportivo que auspicien su mayor bienestar, así como, en general, de la derechohabiencia de la tercera edad;
+
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2009)</small>
+
+XVI. Coadyuvar en el diseño, implementación, administración y operación de los sistemas de información y comunicaciones con los que deberán operar las Delegaciones del Instituto para conceder las pensiones y otorgar las prestaciones económicas, sociales y culturales, y
+
+XVII. Las demás que le confieran el presente Estatuto y la normatividad aplicable, así como las que le asigne el Director General.
 
 #### SECCION CUARTA. De la Dirección de Finanzas
 
@@ -1729,7 +1735,23 @@ QUINTO. Para efectos de cumplir con lo previsto por el presente Estatuto y confo
 
 I. A la Secretaría General:
 
-a) La Subdirección de Planeación Financiera y Evaluación Institucional de la Subdirección General de Finanzas;
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2009)</small>
+
+a) La Subdirección de Planeación Financiera y Evaluación Institucional, en forma individual como subdirección de área;
+
+- La Jefatura de Servicios de Planeación y Evaluación;
+
+- El Departamento de Evaluación Institucional Central;
+
+- El Departamento de Evaluación Institucional Desconcentrada;
+
+- El Departamento de Vinculación Interinstitucional;
+
+- El Departamento de Evaluación del Desempeño Institucional;
+
+- El Departamento de Planeación Estratégica, y
+
+- El Departamento de Información Estratégica.
 
 b) La Subdirección de Atención al Derechohabiente de la Subdirección General Jurídica; y,
 
@@ -1750,3 +1772,9 @@ Lo que me permito hacer de su conocimiento para los efectos legales procedentes.
 Atentamente
 
 México, D.F., a 26 de junio de 2008.- El Secretario, José Enrique Ampudia Mello.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 14 DE MAYO DE 2009.
+
+UNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
