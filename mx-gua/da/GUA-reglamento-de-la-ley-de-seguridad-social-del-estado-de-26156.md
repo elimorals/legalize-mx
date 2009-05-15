@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-seguridad-social-del-estado-de-26156"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-01"
-last_updated: "2002-10-01"
+last_updated: "2009-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO EN MATERIA DE PRESTAMOS HIPOTECARIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2009.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 1 de octubre de 2002.
 
@@ -65,9 +65,13 @@ Lo no previsto por el presente Reglamento será resuelto por el Consejo Directiv
 
 Tendrán derecho a obtener los préstamos hipotecarios, aquellos asegurados que hayan cotizado más de un año al ISSEG y los pensionistas directos.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 4°.
 
-Los préstamos hipotecarios, tendrán los destinos establecidos en la Ley de Seguridad Social del Estado de Guanajuato.
+Los préstamos hipotecarios, tendrán los destinos establecidos en el artículo 89 de la Ley.
+
+Respecto de los bienes inmuebles objeto del préstamo hipotecario deberá constituirse hipoteca en primer y preferente lugar a favor del ISSEG como garantía de pago del préstamo otorgado.
 
 ###### ARTÍCULO 5°.
 
@@ -77,13 +81,17 @@ Los préstamos hipotecarios podrán abarcar dos o más de los destinos estableci
 
 La documentación exhibida con la solicitud de cualesquiera de los préstamos hipotecarios, se deberá presentar en original o copia certificada; en caso de que se presuma algún documento alterado o falsificado, se cancelará el trámite pudiendo darse vista al Ministerio Público.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 7°.
 
-Los títulos con los que se pretenda acreditar la propiedad del inmueble a hipotecar, deberán garantizar las mejores condiciones de seguridad tanto para el solicitante como para el ISSEG razón por la cual, es facultad discrecional del Consejo Directivo determinarla en cada caso.
+Los títulos con los que se pretenda acreditar la propiedad del inmueble a hipotecar, deberán garantizar las mejores condiciones de seguridad jurídica y económica, tanto para el solicitante como para el ISSEG, razón por la cual, es facultad del Consejo Directivo determinarla en cada caso.
 
-###### ARTÍCULO 8°.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
 
-El asegurado o pensionista, adquirirá con el ISSEG un autoseguro a cargo del propio asegurado o pensionista y tendrá por objeto garantizar la liquidación del adeudo a favor del ISSEG, para el caso de incapacidad total o muerte.
+###### ARTÍCULO 8º.
+
+El préstamo hipotecario deberá estar garantizado con un seguro en los términos del artículo 78 de la Ley.
 
 ###### ARTÍCULO 9°.
 
@@ -95,41 +103,55 @@ II.- Entre parientes por consanguinidad en primer grado en línea recta; y
 
 III.- En segundo grado transversal, siempre y cuando se encuentren libres de matrimonio.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 10.
 
-Para el supuesto contemplado en el artículo anterior, si el inmueble que se pretende dar en garantía hipotecaria se encuentra sujeto a copropiedad, se deberá acreditar mediante instrumento público, que él o los copropietarios expresan su voluntad para hipotecar la totalidad del inmueble.
+Si el inmueble que se pretende dar en garantía hipotecaria se encuentra sujeto a copropiedad, él o los copropietarios deberán de expresar su voluntad para hipotecar la totalidad del inmueble, y deberán comparecer a la firma del instrumento público que para el efecto se emita, quienes adquirirán el carácter de deudor solidario.
 
 ###### ARTÍCULO 11.
 
 En ningún caso, se autorizarán los préstamos hipotecarios que tengan por objeto compraventas de inmuebles entre cónyuges o concubinos.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 12.
 
-En toda operación de compraventa realizada entre parientes civiles, consanguíneos o por afinidad será necesaria la aplicación de una entrevista por parte de los abogados asignados a la Coordinación de Asuntos Jurídicos del ISSEG; en caso de que se presuma una simulación, se documentará tal situación y en su caso, se cancelará el procedimiento.
+En toda operación de compraventa realizada entre parientes civiles, consanguíneos o por afinidad, será necesaria la aplicación de una entrevista por parte de los abogados asignados a la Dirección Jurídica del ISSEG; en caso de que se presuma una simulación, se documentará tal situación y en su caso, se cancelará el trámite del préstamo hipotecario solicitado.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 13.
 
-En caso de cónyuges casados bajo la capitulación matrimonial de sociedad conyugal o su equivalente, será necesario que conste la voluntad de ambos contrayentes de hipotecar en su totalidad el bien adquirido a favor del ISSEG, de igual forma, el cónyuge no asegurado o pensionado, adquirirá el carácter de deudor solidario. Tratándose de cónyuges sujetos al régimen de separación de bienes, el asegurado que pretenda hipotecar el inmueble propiedad de su consorte deberá contar con el consentimiento por escrito de éste.
+En el caso de cónyuges casados bajo el régimen de sociedad conyugal o sociedad legal, será necesario que conste la voluntad por escrito de ambos de hipotecar en su totalidad el bien adquirido a favor del ISSEG, el cónyuge no asegurado, adquirirá el carácter de deudor solidario.
+
+Tratándose de cónyuges sujetos al régimen de separación de bienes, el asegurado que pretenda hipotecar el inmueble propiedad de su consorte deberá contar con el consentimiento por escrito de éste y comparecer a la firma del instrumento público que para tal efecto se emita, quien adquirirá el carácter de deudor solidario.
 
 ###### ARTÍCULO 14.
 
 No se admitirán garantías hipotecarias otorgadas por terceros, en sustitución del inmueble adquirido mediante el préstamo otorgado por el ISSEG, salvo que se otorgue entre cónyuges o concubinos.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 15.
 
-En lo relativo a los requisitos para obtener préstamos hipotecarios, en algunos casos podrán solicitarse adicionalmente otros documentos. Lo anterior, derivado de los supuestos que se deduzcan del análisis y condiciones especiales de cada tipo de préstamo.
+El ISSEG además de los requisitos para obtener préstamos hipotecarios, podrá solicitar documentación adicional otros documentos. Lo anterior, derivado de los supuestos que se deduzcan del análisis y condiciones especiales de cada tipo de préstamo que concurran.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 16.
 
-La Coordinación de Asuntos Jurídicos del ISSEG, deberá emitir mediante acuerdo fundado y motivado, dictamen sobre la procedencia del otorgamiento del préstamo, o en su caso, la improcedencia del mismo, cuando derivado de la revisión de la solicitud se desprenda que ésta no se apega a los lineamientos establecidos en la Ley de Seguridad Social del Estado de Guanajuato, este Reglamento y demás disposiciones de carácter general que emita el Consejo Directivo.
+La Dirección Jurídica del ISSEG, deberá emitir mediante acuerdo fundado y motivado, dictamen sobre la procedencia del otorgamiento del préstamo o convenio modificatorio, o en su caso, la improcedencia del mismo, cuando derivado de la revisión de la solicitud se desprenda que ésta no se apega a los lineamientos establecidos en la Ley de Seguridad Social del Estado de Guanajuato, el presente Reglamento y demás disposiciones de carácter general que emita el Consejo Directivo.
 
-Este dictamen será considerado por el Director General, previo al otorgamiento del Préstamo Hipotecario, quien deberá someter al Consejo Directivo la aprobación de dicha prestación.
+Este dictamen será considerado por el Director General, previo al otorgamiento del préstamo hipotecario, quien deberá someter al Consejo Directivo la aprobación de dicha prestación.
 
 ### CAPÍTULO II. DE LOS MONTOS A OTORGAR
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 17.
 
-El Consejo Directivo del ISSEG, será quien determine el monto del préstamo con garantía hipotecaria dentro de los límites establecidos en el artículo 90 de la Ley de Seguridad Social del Estado de Guanajuato.
+El ISSEG será quien determine el monto del préstamo con garantía hipotecaria de conformidad con lo establecido en el artículo 90 de la Ley.
 
 ###### ARTÍCULO 18.
 
@@ -143,73 +165,117 @@ Se establece como modalidad de pago, la de pagos crecientes, cuya deducción aum
 
 ### CAPÍTULO III. DE LA DOCUMENTACIÓN GENERAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 20.
 
-Los requisitos comunes al préstamo hipotecario en todos sus destinos, son los siguientes:
+Los requisitos generales al préstamo hipotecario son los siguientes:
 
-I.- Llenar la solicitud en el formato preestablecido;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
+
+I.- Llenar la solicitud en el formato preestablecido, en la cual deberá de constar la firma autógrafa del solicitante;
 
 II.- Acompañar último talón de pago;
 
 III.- En el supuesto de ser casado el solicitante, deberá acompañar el acta respectiva, si estuviere viviendo en concubinato, se acreditará mediante información rendida ante la autoridad judicial competente; y
 
-IV.- Efectuar un pago directo en el ISSEG, por concepto de revisión técnica del expediente en los préstamos previstos en los Capítulos I y IV del Título Tercero de este Reglamento.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
+
+IV.- Efectuar un pago por concepto de revisión técnica del expediente en los préstamos previstos en los Capítulos I y IV del Título Tercero de este Reglamento.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2009)</small>
+
+La Dirección de Prestaciones del ISSEG deberá validar la información y documentación contenida en la integración de los expedientes individuales, de conformidad con lo estipulado en el artículo 39 fracción V del Reglamento Interior del ISSEG.
 
 ## TÍTULO TERCERO. DESTINOS DEL PRÉSTAMO HIPOTECARIO
 
-### CAPÍTULO I. DEL PRÉSTAMO PARA ADQUISICIÓN DE CASA-HABITACIÓN O ADQUISICIÓN DE TERRENO PARA CONSTRUCCIÓN
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE MAYO DE 2009)</small>
+
+### CAPÍTULO I. DEL PRÉSTAMO PARA ADQUISICIÓN DE CASA-HABITACIÓN O ADQUISICIÓN DE TERRENO PARA CONSTRUCCIÓN DE CASA-HABITACIÓN
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 21.
 
-Para el otorgamiento del préstamo destinado para la adquisición de casa-habitación o adquisición de terreno para construcción, se requiere satisfacer los siguientes requisitos:
+Para el otorgamiento del préstamo destinado para la adquisición de casa-habitación o adquisición de terreno para construcción de casa-habitación, se requiere satisfacer los siguientes requisitos:
 
-I.- Certificado de no propiedad expedido por el Registro Público de la Propiedad del partido judicial correspondiente a la ubicación del inmueble a adquirir;
+I.- (DEROGADA, P.O. 15 DE MAYO DE 2009)
 
 II.- Certificado de libertad de Gravámenes del inmueble a adquirir, expedido por el Registro Público de la Propiedad;
 
 III.- Escritura de propiedad del inmueble a adquirir,
 
-IV.- Avalúo fiscal, con referencia a valor comercial;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
 
-V.- Alineamiento y número oficial del inmueble a adquirir, expedido por la Autoridad Municipal correspondiente a la ubicación del inmueble;
+IV.- Avalúo fiscal con referencia al valor comercial, elaborado por perito autorizado por el ISSEG, el cual deberá contar con la validación de la autoridad catastral;
 
-VI.- Recibo en el que se acredite estar al corriente en el pago del Impuesto Predial, en el bimestre posterior correspondiente al ingreso del expediente al ISSEG;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
 
-VII.- Contrato de promesa de venta con vigencia mínima de cuatro meses posteriores a la fecha de recepción del expediente en el que deberá establecerse en su clausulado el compromiso por parte del vendedor para el pago del Impuesto sobre la Renta y del comprador para el pago del Impuesto sobre Traslación de Dominio y Derechos. Si el precio de la operación en el contrato de la promesa de venta es superior al importe del préstamo hipotecario a que se tiene derecho, deberá señalarse que la diferencia excedente se cubrirá a la firma de las escrituras definitivas; y
+V.- Alineamiento y número oficial del inmueble, expedido por la autoridad municipal;
 
-VIII.- Cuando se pretenda adquirir solamente una parte de algún inmueble, se requerirá del permiso de división o su equivalente por parte ele la Autoridad Municipal competente.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
 
-Para efectos del préstamo solicitado, el documento señalado en la fracción I deberá tener una vigencia de dos meses; el establecido en la fracción II de un mes, y los señalados en las fracciones IV y V de seis meses.
+VI.- Recibo o constancia en el que se acredite estar al corriente en el pago del Impuesto Predial, en el bimestre posterior correspondiente al ingreso del expediente al ISSEG;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
+
+VII.- Contrato de promesa de venta con vigencia de cuatro meses posteriores a la fecha de presentación de la solicitud, el cual deberá contener el compromiso por parte del vendedor para el pago del Impuesto sobre la Renta y del comprador para el pago del Impuesto sobre Traslación de Dominio y Derechos. Si el precio de la operación en el contrato de la promesa de venta es superior al importe del préstamo hipotecario a que se tiene derecho, deberá señalarse que la diferencia excedente se cubrirá a la firma de las escrituras definitivas; y
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
+
+VIII.- Cuando se pretenda adquirir solamente una parte de algún inmueble, se requerirá del permiso de división o su equivalente expedido por la autoridad municipal competente.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+
+Para efectos del préstamo solicitado, el documento señalado en la fracción II deberá tener una vigencia de un mes, y los señalados en las fracciones IV y V de seis meses.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE MAYO DE 2009)</small>
 
 ### CAPÍTULO II
 
-DEL PRÉSTAMO PARA CONSTRUCCIÓN DE CASA HABITACIÓN EN TERRENO QUE YA SE TIENE, Y DEL PRÉSTAMO PARA EFECTUAR AMPLIACIONES, REMODELACIONES O REPARACIONES A LA CASA HABITACIÓN
+DEL PRÉSTAMO PARA CONSTRUCCIÓN DE CASA HABITACIÓN EN TERRENO QUE YA SE TIENE EN PROPIEDAD Y DEL PRÉSTAMO PARA EFECTUAR AMPLIACIONES, REMODELACIONES O REPARACIONES A CASA HABITACIÓN
 
 ###### ARTÍCULO 22.
 
 Para el otorgamiento del préstamo destinado a la construcción de casa habitación en terreno que ya se tiene, y del préstamo para ampliar, remodelar o reparar la casa-habitación del asegurado o pensionista, se requiere satisfacer los siguientes requisitos:
 
-I.- Certificado expedido por el Registro Público de la Propiedad, en el que se haga constar que el asegurado tiene registrada como única propiedad a su nombre la que pretende hipotecar;
+I.- (DEROGADA, P.O. 15 DE MAYO DE 2009)
 
-II.- Certificado de libertad de gravamen, expedido por el Registro Público de la Propiedad al que pertenece el inmueble;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
+
+II.- Certificado de libertad de gravamen, expedido por el Registro Público de la Propiedad;
 
 III.- Escritura de propiedad;
 
-IV.- Alineamiento y Número Oficial, expedido por la Autoridad Municipal de la localidad donde se ubica el inmueble;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
 
-V.- Permiso de construcción vigente, expedido por la Autoridad Municipal de la localidad donde se ubica el inmueble;
+IV.- Alineamiento y número oficial, expedido por la autoridad municipal;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
+
+V.- Permiso de construcción vigente, expedido por la autoridad municipal;
 
 VI.- Planos arquitectónicos del proyecto, autorizados, firmados y sellados por la Autoridad Municipal; y
 
 VII.- Presupuesto actualizado por conceptos desglosados sobre la base de precios unitarios, que incluyan material y mano de obra; firmado en todas sus hojas por el perito responsable de su elaboración.
 
-El documento señalado en la fracción I, tendrá para efectos del préstamo solicitado una vigencia de dos meses; el establecido en la fracción II de un mes y el señalado en la fracción IV de seis meses.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
 
-### CAPÍTULO III. DEL PRÉSTAMO PARA EL PAGO DE ENGANCHE Y GASTOS DE ESCRITURACIÓN EN LA ADQUISICIÓN DE VIVIENDA DE INTERÉS SOCIAL
+Cuando el inmueble se encuentre en garantía hipotecaria con el ISSEG, se deberá presentar además la solicitud de autorización para hipotecar en segundo lugar el inmueble referido.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2009)</small>
+
+Para efectos del préstamo solicitado, el documento señalado en la fracción II deberá tener una vigencia de un mes, y los señalados en la fracción IV de seis meses.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE MAYO DE 2009)</small>
+
+### CAPÍTULO III. DEL PRÉSTAMO PARA EL PAGO DE ENGANCHE Y DE LOS GASTOS DE ESCRITURACIÓN CUANDO TENGA POR OBJETO LA ADQUISICIÓN DE VIVIENDA DE INTERÉS SOCIAL
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 23.
 
-Se entenderá por vivienda de interés social, aquella que reúna las características señaladas en la Ley de Fomento a la Vivienda del Estado de Guanajuato.
+Se entenderá por vivienda de interés social, aquella que reúna las características señaladas en la Ley de Vivienda para el Estado de Guanajuato.
 
 ###### ARTÍCULO 24.
 
@@ -227,51 +293,77 @@ Para hacer efectivo este préstamo, el interesado podrá solicitarlo al integrar
 
 Para el otorgamiento en la modalidad de Liberación de Gravámenes, se requiere satisfacer los siguientes requisitos:
 
-I.- Certificado expedido por el Registro Público de la Propiedad, en el que se haga constar que el asegurado tiene registrada como única propiedad a su nombre la que se encuentra gravada;
+I.- (DEROGADA, P.O. 15 DE MAYO DE 2009)
 
 II.- Certificado de existencia de gravamen del inmueble a liberar, expedido por el Registro Público de la Propiedad;
 
 III.- Escritura de propiedad y de hipoteca;
 
-IV.- Avaluó comercial elaborado por perito autorizado por la Comisión Nacional Bancaria y de valores;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
 
-V.- Constancia actualizada expedida por el acreedor hipotecario, indicando el adeudo materia de gravamen. Dicha constancia, deberá estar firmada y sellada. Si el adeudo de la constancia es superior al importe del préstamo a que se tiene derecho, deberá presentar documento que acredite el pago de la diferencia excedente; y
+IV.- Avalúo comercial elaborado por perito autorizado por el ISSEG;
 
-VI.- Documento que acredite la personalidad jurídica del acreedor hipotecario, y en su caso, la de su representante legal, así como sus facultades para liberar el gravamen.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
 
-El documento señalado en la fracción I, para el ISSEG tendrá una vigencia de dos meses: el establecido en la fracción II, de un mes, y el señalado en la fracción IV, de seis meses.
+V.- Constancia actualizada expedida por el acreedor hipotecario, indicando el adeudo materia de gravamen. Si el adeudo de la constancia es superior al importe del préstamo a que se tiene derecho, deberá presentar documento que acredite el pago de la diferencia excedente; y
 
-## TÍTULO CUARTO. PRÉSTAMO HIPOTECARIO COMPLEMENTARIO
+VI.- (DEROGADA, P.O. 15 DE MAYO DE 2009)
 
-### CAPÍTULO ÚNICO. DEL PRÉSTAMO HIPOTECARIO COMPLEMENTARIO
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+
+El documento señalado en la fracción II, para el ISSEG tendrá una vigencia de un mes y el señalado en la fracción IV, de seis meses.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE MAYO DE 2009)</small>
+
+## TÍTULO CUARTO. DEL CONVENIO MODIFICATORIO DEL PRÉSTAMO HIPOTECARIO Y DEL PRÉSTAMO HIPOTECARIO SUBSECUENTE
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE MAYO DE 2009)</small>
+
+### CAPÍTULO I. DEL CONVENIO MODIFICATORIO DEL PRÉSTAMO HIPOTECARIO
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 27.
 
-Para el otorgamiento del préstamo hipotecario complementario, se requiere satisfacer los siguientes requisitos:
+Para la procedencia del convenio modificatorio en términos del artículo 95 de la Ley, se requiere satisfacer los siguientes requisitos:
 
-I.- Presentar la documentación general establecida en el Capítulo Tercero, del Título Segundo de este Reglamento;
+I.- Llenar la solicitud en el formato preestablecido, en la cual deberá de constar la firma autógrafa del solicitante;
 
-II.- Certificado expedido por el Registro Público de la Propiedad, en el que se haga constar que el asegurado tiene registrada como única propiedad, el bien inmueble que constituyó la garantía del préstamo original;
+II.- Certificado de gravamen del inmueble dado en garantía, en el cual conste como único gravamen el préstamo original otorgado por el ISSEG y que se pretende modificar, expedido por el Registro Público de la Propiedad; y
 
-III.- Escritura de propiedad;
+III.- Avalúo comercial, elaborado por peritos autorizados por el ISSEG.
 
-IV.- Certificado de libertad de gravamen del inmueble, expedido por el Registro Público de la Propiedad; y
+El documento señalado en la fracción II, para el ISSEG tendrá una vigencia de un mes; el establecido en la fracción III de seis meses.
 
-V.- Recibo de pago del Impuesto Predial en el que se acredite estar al corriente.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE MAYO DE 2009)</small>
 
-### CAPÍTULO PRIMERO. DE LOS NOTARIOS PÚBLICOS
+### CAPÍTULO II. DEL PRÉSTAMO HIPOTECARIO SUBSECUENTE
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 28.
 
-El plazo máximo de amortización para este préstamo, será hasta de 120 quincenas.
+Para el otorgamiento del préstamo hipotecario subsecuente, se requiere presentar la documentación general establecida en el Capítulo de la modalidad o modalidades de que se trate.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2009)</small>
+
+ARTÍCULO 28 A.- El monto del préstamo de amortización, será el establecido en el artículo 17 de este reglamento
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2009)</small>
+
+ARTÍCULO 28 B.- El plazo máximo de amortización para este préstamo, será el establecido en el artículo 18 segundo párrafo de éste reglamento.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2009)</small>
+
+ARTÍCULO 28 C.- Las condiciones e intereses para el préstamo subsecuente, serán dictadas por el Consejo Directivo.
 
 ###### ARTÍCULO 29.
 
-Las demás reglas establecidas para los préstamos hipotecarios, serán aplicables en esta modalidad.
+(DEROGADO Y REUBICADO, P.O. 15 DE MAYO DE 2009)
 
 ## TÍTULO QUINTO. PROTOCOLIZACIÓN DEL PRÉSTAMO CON GARANTÍA HIPOTECARIA Y SU CANCELACIÓN
 
-### CAPÍTULO SEGUNDO. DE LA CANCELACIÓN
+### CAPÍTULO PRIMERO. DE LOS NOTARIOS PÚBLICOS
 
 ###### ARTÍCULO 30.
 
@@ -283,13 +375,15 @@ Corresponderá al acreditado, la elección del Notario Público, entre los autor
 
 Será responsabilidad del Notario Público cerciorarse que la protocolización se realice en las mejores condiciones de Seguridad Jurídica para el Asegurado y para el ISSEG.
 
-### CAPÍTULO ÚNICO. DE LAS INCONFORMIDADES Y RECURSO DE REVISIÓN
+### CAPÍTULO SEGUNDO. DE LA CANCELACIÓN
 
 ###### ARTÍCULO 32.
 
 Una vez cubierta la totalidad de las amortizaciones quincenales por el acreditado, el ISSEG remitirá oficio de cancelación con el Notario Público designado por el acreditado, a efecto de cancelar el gravamen existente ante el Registro Público de la Propiedad.
 
 ## TÍTULO SEXTO. INCONFORMIDADES Y RECURSO DE REVISIÓN
+
+### CAPÍTULO ÚNICO. DE LAS INCONFORMIDADES Y RECURSO DE REVISIÓN
 
 ###### ARTÍCULO 33.
 
@@ -312,3 +406,11 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN
 
 JOSÉ LUIS MARIO AGUILAR Y MAYA MEDRANO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE MAYO DE 2009.
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones administrativas que se opongan al contenido del presente Decreto Gubernativo.
