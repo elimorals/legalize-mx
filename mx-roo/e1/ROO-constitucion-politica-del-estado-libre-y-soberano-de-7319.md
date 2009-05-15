@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2009-03-03"
+last_updated: "2009-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -113,9 +113,13 @@ El Estado de Quintana Roo asegura para sus habitantes el goce irrestricto de las
 
 Igual protección asume respecto de los derechos fundamentales que, en ejercicio de su soberanía, consagra esta Constitución.
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 15 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 13.
+
+El Estado de Quintana Roo reconoce, protege y garantiza el derecho a la vida de todo ser humano, al sustentar expresamente que desde el momento de la concepción entra bajo la protección de la ley y se le reputa como sujeto de derechos para todos los efectos legales correspondientes, hasta su muerte. Salvo las excepciones que establezca la ley.
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
 El Estado garantiza la igualdad jurídica respecto de sus habitantes sin distinción de origen, sexo, condición o actividad social.
 
@@ -2441,7 +2445,7 @@ Los Municipios administrarán libremente su hacienda conforme a las siguientes b
 
 I. Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos o bien por quien ellos autoricen, conforme a la Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
 
 II. La Legislatura del Estado discutirá y aprobará, en su caso, las Leyes de Ingresos de cada Municipio, conforme a la Iniciativa que éstos presenten a más tardar el 15 de noviembre de cada año, en los términos de la presente Constitución y de la Ley Hacendaria que al efecto se expida.
 
@@ -3296,3 +3300,7 @@ e) El período ordinario de sesiones que inicie el 26 de marzo de 2013, se le de
 ###### ARTÍCULO DÉCIMO.
 
 Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 15 DE MAYO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
