@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-consejeria-juridica-del-ejecutivo-468
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-11-17"
-last_updated: "2005-11-17"
+last_updated: "2009-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46804&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2005-11-15"
 
 REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL EJECUTIVO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL EJECUTIVO FEDERAL, PUBLICADO EN EL D.O.F. DE 15 DE MAYO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 17 de noviembre de 2005.
 
@@ -472,3 +474,25 @@ SEGUNDO.- Se abroga el Reglamento Interior de la Consejería Jurídica del Ejecu
 TERCERO.- Los expedientes o asuntos pendientes de resolución a la entrada en vigor de este Reglamento, continuarán siendo tramitados hasta su total conclusión por las unidades administrativas a las que hayan sido turnados o, en su defecto, a aquéllas a las cuales se les haya conferido la atribución correspondiente.
 
 Dado en la Residencia Oficial del Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de noviembre de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 15 DE MAYO DE 2009.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga el Reglamento Interior de la Consejería Jurídica del Ejecutivo Federal, publicado en el Diario Oficial de la Federación el 17 de noviembre de 2005, y se derogan todas las disposiciones administrativas que se opongan al presente Reglamento.
+
+Tercero.- Las modificaciones a la estructura orgánica que deriven de la entrada en vigor del presente Reglamento serán realizadas mediante movimientos compensados, por lo que no aumentarán el presupuesto regularizable de la Consejería Jurídica del Ejecutivo Federal.
+
+Cuarto.- Las erogaciones que se deriven de la entrada en vigor e implementación del presente Reglamento, se cubrirán con cargo al presupuesto de egresos asignado a la Consejería Jurídica del Ejecutivo Federal en el presente ejercicio fiscal y el que le apruebe la Cámara de Diputados en los ejercicios fiscales subsecuentes.
+
+Quinto.- Al entrar en vigor el presente Reglamento, las menciones que se hagan en cualesquier disposición administrativa a la:
+
+a) Consejería Adjunta de Legislación y de Estudios Normativos, se entenderán hechas a la Consejería Adjunta de Legislación y Estudios Normativos.
+
+b) Dirección de Finanzas, se entenderán hechas a la Dirección de Presupuesto y Finanzas.
+
+c) Dirección de Recursos Humanos, se entenderán hechas a la Dirección de Desarrollo Humano y Organización.
+
+d) Dirección de Recursos Materiales, Servicios Generales y Apoyo Técnico, se entenderán hechas a la Dirección de Recursos Materiales y Servicios Generales.
