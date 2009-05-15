@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transparencia-y-acceso-a-la-informacion-48698"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-01-06"
-last_updated: "2006-01-06"
+last_updated: "2009-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,9 @@ state: "BCN"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE PLAYAS DE ROSARITO, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE PLAYAS DE ROSARITO, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 15 DE MAYO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 6 de enero de 2006.
 
@@ -739,6 +741,28 @@ CUARTO.- A partir de la entrada en vigor del presente Reglamento, la Unidad Conc
 QUINTO.- A partir de la entrada en vigor del presente Reglamento, los Sujetos Obligados designaran dentro del término de un mes, a los responsables de atender las solicitudes de acceso a la información.
 
 SEXTO.- A partir de la entrada en vigor del presente Reglamento, las Unidades de Enlace contaran con 6 meses para la organización y funcionamiento de sus archivos administrativos, bajo los criterios y nombramientos establecidos por la Oficialía Mayor.
+
+SEPTIMO.- Para los efectos del funcionamiento de la Unidad Concentradora el presupuesto de egresos correspondiente preverá los recursos suficientes para su operación.
+
+OCTAVO.- Los particulares podrán solicitar información dos meses después de establecida la Unidad Concentradora, excluyendo la información de oficio que aparecerá de inmediato en el Portal.
+
+NOVENO.- A partir de la entrada en vigor del presente Reglamento se tendrán dos meses para la creación de la Comisión de Transparencia y Acceso a la Información Publica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE MAYO DE 2009.
+
+PRIMERO.- El presente Reglamento entrara en vigor al momento de su aprobación y deberá publicarse en el Periódico Oficial, Órgano de difusión del Gobierno del Estado de Baja California, y se deroga el anterior para que quede sin efecto alguno.
+
+SEGUNDO.- A partir de la entrada en vigor del presente Reglamento, se tendrán 3 meses para la integración del Consejo.
+
+TERCERO.- A partir de la entrada en vigor del presente Reglamento, el Comité contará con 3 meses para establecer las normas y lineamientos correspondientes.
+
+CUARTO.- A partir de la entrada en vigor del presente Reglamento, la Unidad Concentradora contara con 3 meses para la elaboración de su Reglamento y el establecimiento de sus mecanismos de operación.
+
+QUINTO.- A partir de la entrada en vigor del presente Reglamento, los Sujetos Obligados designarán dentro del término de un mes, a los responsables de atender las solicitudes de acceso a la información.
+
+SEXTO.- A partir de la entrada en vigor del presente Reglamento, las Unidades de Enlace contarán con 6 meses para la organización y funcionamiento de sus archivos administrativos, bajo los criterios y nombramientos establecidos por la Oficialía Mayor.
 
 SEPTIMO.- Para los efectos del funcionamiento de la Unidad Concentradora el presupuesto de egresos correspondiente preverá los recursos suficientes para su operación.
 
