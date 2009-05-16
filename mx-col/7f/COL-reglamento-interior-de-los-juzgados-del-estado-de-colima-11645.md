@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-los-juzgados-del-estado-de-colima-11645"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-12-21"
-last_updated: "1996-12-21"
+last_updated: "2009-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO INTERIOR DE LOS JUZGADOS DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Colima, el sábado 21 de diciembre de 1996.
 
@@ -257,9 +257,11 @@ En los Juzgados se dispondrá de una barandilla que separe al personal de los li
 
 Ningún servidor público tendrá asignado, en particular, el trámite especial de expedientes, la elaboración de oficios o constancias, o la atención exclusiva de algún litigante o abogado. Se prohíbe guardar expedientes o documentos en las gavetas o cajones para su ulterior trámite.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 38.
 
-Para el control de los asuntos que se tramitan en los Juzgados Mixtos, Civiles, Familiares y Mercantiles, bajo la responsabilidad del Secretario de Acuerdos, se llevarán los siguientes libros:
+Para el control de los asuntos que se tramitan en los juzgados Mixtos, Civiles, Familiares y Mercantiles, bajo la responsabilidad del Secretario de Acuerdos, se llevarán los siguientes libros, debidamente identificados:
 
 I.- Libro de Gobierno. Contendrá el registro de todos los negocios que con carácter de demanda se planteen ante el juzgado y se conformará con las siguientes columnas:
 
@@ -279,19 +281,23 @@ I.- Libro de Gobierno. Contendrá el registro de todos los negocios que con car�
 
 8.- Observaciones.
 
-II.- Libro de Registro de Promociones. Contendrá el registro de todas las promociones y comunicaciones oficiales recibidas por el juzgado, con excepción de los escritos iniciales de demanda y se conformará con las siguientes columnas:
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2009)</small>
 
-1.- Número progresivo.
+II.- Libro de Registro de Promociones. Contendrá el registro de todas las promociones y comunicaciones oficiales recibidas por juzgado, con excepción de los escritos iniciales de demanda y se conformará con las siguientes columnas:
 
-2.- fecha y hora.
+1. Número progresivo.
 
-3.- Número de expediente.
+2. Fecha y hora.
 
-4.- Nombre del promovente.
+3. Número de expediente.
 
-5.- Firma.
+4. Nombre del promovente.
 
-6.- Remitido a acuerdo.
+5. Firma.
+
+6. Remitido a acuerdo.
+
+En los partidos judiciales donde exista Oficialía de Partes no será necesario llevar el libro de promociones, siempre y cuando el listado que aquélla envíe diariamente se archive en forma secuencial y quede debidamente identificado.
 
 III.- Libro de Registro de Cédulas Profesionales. Contendrá el registro a que se refiere su propia denominación y se conformará con la siguiente información:
 
@@ -665,4 +671,10 @@ El presente Reglamento podrá ser modificado por el Pleno del Supremo Tribunal d
 
 EL presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado. "El Estado de Colima"'.
 
-DADO EN EL PALACIO DE .JUSTICIA, CIUDAD DE COLIMA, ESTADO DE COLIMA, EN SESION DE PLENO EXTRAORDINARIO DEL DIA 17 DIECISIETE DE DICIEMBRE DE 1996 DE MIL NOVECIENTOS NOVENTA Y SEIS; POR UNANIMIDAD DE VOTOS DE LOS CIUDADANOS MAGISTRADOS: EUGENIO OLMOS MENDOZA, ROCIO LOPEZ LLERENAS ZAMORA, ENRIQUE GUEDEA OCHOA, .JORGE MAGAÑA TEJEDA, .J. JESUS RENTERIA NUÑEZ, CARLOS ALBERTO MACIAS BECERRIL, YOLANDA MACIAS GARCIA Y ENRIQUE DE JESUS OCON HEREDIA, PRESIDENTE. ANTE EL CIUDADANO LICENCIADO JUAN JOSE LARIOS ANDRADE, SECRETARIO GENERAL DE ACUERDOS, QUIEN AUTORIZA Y DA FE.- RUBRICAS.-
+DADO EN EL PALACIO DE .JUSTICIA, CIUDAD DE COLIMA, ESTADO DE COLIMA, EN SESION DE PLENO EXTRAORDINARIO DEL DIA 17 DIECISIETE DE DICIEMBRE DE 1996 DE MIL NOVECIENTOS NOVENTA Y SEIS; POR UNANIMIDAD DE VOTOS DE LOS CIUDADANOS MAGISTRADOS: EUGENIO OLMOS MENDOZA, ROCIO LOPEZ LLERENAS ZAMORA, ENRIQUE GUEDEA OCHOA, JORGE MAGAÑA TEJEDA, J. JESUS RENTERIA NUÑEZ, CARLOS ALBERTO MACIAS BECERRIL, YOLANDA MACIAS GARCIA Y ENRIQUE DE JESUS OCON HEREDIA, PRESIDENTE. ANTE EL CIUDADANO LICENCIADO JUAN JOSE LARIOS ANDRADE, SECRETARIO GENERAL DE ACUERDOS, QUIEN AUTORIZA Y DA FE.- RUBRICAS.-
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE MAYO DE 2009.
+
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3°. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.
