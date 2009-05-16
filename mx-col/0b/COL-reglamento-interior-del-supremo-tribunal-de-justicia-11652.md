@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-del-supremo-tribunal-de-justicia-11652"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-12-21"
-last_updated: "1996-12-21"
+last_updated: "2009-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # REGLAMENTO INTERIOR DEL SUPREMO TRIBUNAL DE JUSTICIA
 
-REGLAMENTO INTERIOR DEL SUPREMO TRIBUNAL DE JUSTICIA
+REGLAMENTO INTERIOR DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Colima, el sábado 21 de diciembre de 1996.
 
@@ -333,9 +333,11 @@ En estos casos, quedarán a juicio de la comisión las medidas conducentes para 
 
 DE LAS SESIONES DE LAS SALAS.
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 42.
 
-Las Salas sesionarán un día a la semana, señalándose los viernes para la Sala Penal y los miércoles para la Sala Mixta. Salvo causa justificada, a juicio de la sala, se fijará oportunamente otro día. En casos de urgencia, por términos o por libertad personal, las Salas estarán en posibilidad de resolver en cualquier día y hora.
+Las salas sesionarán los días viernes de cada semana. Cuando exista causa justificada, la Sala podrá fijar oportunamente otro día. En caso de urgencia, debido al cumplimiento de términos o cuando se afecte la libertad personal, las Salas podrán resolver en cualquier día y hora.
 
 ###### ARTICULO 43.
 
@@ -1048,3 +1050,9 @@ TRANSITORIOS (SIC).
 El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado "El Estado de Colima".
 
 DADO EN EL PALACIO DE JUSTICIA, CIUDAD DE COLIMA, ESTADO DE COLIMA, EN SESION DE PLENO EXTRAORDINARIO DEL DIA 17 DIECISIETE DE DICIEMBRE DE 1996 DE MIL NOVECIENTOS NOVENTA Y SEIS; POR UNANIMIDAD DE VOTOS DE LOS CIUDADANOS MAGISTRADOS: EUGENIO OLMOS MENDOZA, ROCIO LOPEZ LLERENAS ZAMORA, ENRIQUE GUEDEA OCHOA, JORGE MAGAÑA TEJEDA, J. JESUS RENTERIA NUÑEZ, CARLOS ALBERTO MACIAS BECERRIL, YOLANDA MACIAS GARCIA Y ENRIQUE DE JESUS OCON HEREDIA, PRESIDENTE. ANTE EL CIUDADANO LICENCIADO JUAN JOSE LARIOS ANDRADE, SECRETARIO GENERAL DE ACUERDOS, QUIEN AUTORIZA Y DA FE.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE MAYO DE 2009.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA VIGENTE.
