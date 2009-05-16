@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-agua-para-el-estado-de-jalisco-y-sus-municipios-54685"
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-24"
-last_updated: "2007-10-09"
+last_updated: "2009-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "JAL"
 
 LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 2009.
 
-Ley publicada en la Sección V al Periódico Oficial del Estado de Jalisco, el sábado 24 de febrero de 2007.
+Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 24 de febrero de 2007.
 
 Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
 
@@ -1263,9 +1263,11 @@ XVIII. Los demás que se establezcan en los reglamentos municipales, incluyendo 
 
 En el caso de los organismos operadores descentralizados intermunicipales, los ayuntamientos respectivos deberán de coordinarse para que sus leyes de ingresos se unifiquen en la parte correspondiente a las tarifas por los servicios de agua potable y saneamiento. El Congreso del Estado deberá tomar en cuenta dicha unificación en los decretos respectivos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MAYO DE 2009)</small>
+
 ###### Artículo 100.
 
-Para la determinación y actualización de las tarifas y cuotas, la Comisión propondrá estructuras tarifarias, la cuales deberán responder al contenido previsto en la Ley y garantizar la suficiencia económica de los organismos y del servicio, así como el cumplimiento de las contribuciones federales y estatales; dichas estructuras tarifarias deberán remitirse a los municipios y al Congreso del Estado antes del día treinta de septiembre del año anterior al del ejercicio fiscal para el cual se elaboraron.
+Para la determinación y actualización de las tarifas y cuotas, la Comisión Estatal del Agua propondrá estructuras tarifarias tanto a los gobiernos municipales que administren el servicio de agua directamente, como a los Organismos Operadores de los gobiernos municipales que cuenten con éstos, las cuales deberán responder al contenido previsto en esta Ley y garantizar la suficiencia económica del servicio público, así como el cumplimiento de las contribuciones federales y estatales; dicha propuesta de estructura tarifaria deberá remitirse a los municipios antes del día treinta y uno de mayo del año anterior al del ejercicio fiscal para el cual se proponen. Las estructuras tarifarias propuestas no serán vinculatorias para los gobiernos municipales.
 
 Las estructuras de las tarifas de los servicios contemplarán cuando menos:
 
@@ -1277,9 +1279,19 @@ III. Los mecanismos para la determinación del costo marginal de aprovechamiento
 
 IV. Los mecanismos para su actualización conforme a las variaciones de la inflación o del costo del dinero, conforme sea aplicable.
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2009)</small>
+
 ###### Artículo 101.
 
-Las cuotas y tarifas determinadas por el organismo operador, serán sometidas a la aprobación del ayuntamiento correspondiente y enviadas al Congreso del Estado para su aprobación y publicación en la ley de ingreso del municipio. En caso de que las cuotas y tarifas no cumplan con lo establecido por el artículo 115 de esta Ley, se deberá garantizar la suficiencia de los presupuestos públicos necesarios para asegurar la sustentabilidad de los servicios en beneficio de la población.
+Los gobiernos municipales, a través de sus estructuras organizacionales operadoras del agua, ya sean directas u organismos operadores descentralizados o desconcentrados, estrictamente municipales o intermunicipales, analizarán la propuesta de estructura tarifaria presentada por la Comisión Estatal del Agua y cuando lo consideren justificado, propondrán a sus gobiernos municipales que se integren a la Iniciativa de Ley de Ingresos, para que se someta a la aprobación del Ayuntamiento y sea enviada al Congreso del Estado para su aprobación en los términos de la ley de la materia. En caso de que las cuotas y tarifas no cumplan con lo establecido por el artículo anterior de esta Ley, se deberá garantizar la suficiencia de los presupuestos públicos necesarios para asegurar la sustentabilidad de los servicios en beneficio de la población.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2009)</small>
+
+###### Artículo 101 Bis.
+
+La información contenida en el artículo 100 de esta Ley, deberá de anexarse a la Iniciativa de Ley de Ingresos que los municipios presenten al Congreso del Estado, en el mismo tiempo y forma.
+
+Durante el proceso de análisis de la Iniciativa de Ley de Ingresos, el Congreso del Estado, a través de sus comisiones competentes, podrá convocar a las autoridades municipales respectivas para la revisión de la información a que se refiere el párrafo anterior.
 
 ## TÍTULO SÉPTIMO
 
@@ -1426,5 +1438,9 @@ C. P. JOSÉ RAFAEL RÍOS MARTÍNEZ
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 9 DE OCTUBRE DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O.16 DE MAYO DE 2009.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
