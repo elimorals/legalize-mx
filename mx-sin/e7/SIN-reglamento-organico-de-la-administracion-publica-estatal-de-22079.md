@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-organico-de-la-administracion-publica-estatal-de-220
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-15"
-last_updated: "2008-02-15"
+last_updated: "2009-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA ESTATAL DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2008..
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2009.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 15 de octubre de 1999.
 
@@ -901,9 +901,11 @@ VI. Nombrar a los directores generales, directores, subdirectores, jefes y subje
 
 En los términos de lo dispuesto por los Artículos 69 de la Constitución y 9 de la Ley, el refrendo se cumplimentará mediante la aposición de la firma del Secretario encargado del ramo a que el asunto corresponda. El Secretario refrendante deberá firmar antes que el Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2009)</small>
+
 ###### Artículo 32.
 
-Los titulares de las secretarías y de las entidades a que se refiere el Artículo 44, fracciones I, II, III, IV y V del presente reglamento, para el cumplimiento de los asuntos de su competencia, por acuerdo del Gobernador del Estado y con la participación del Secretario General de Gobierno, estarán facultados para celebrar convenios, contratos y acuerdos con los gobiernos federal, de otros estados de la república, ayuntamientos y, en general, con cualquier institución pública, social o privada.
+Los titulares de las secretarías y de las entidades a que se refiere el artículo 44, fracciones I, II, III, IV, V y VII del presente reglamento, para el cumplimiento de los asuntos de su competencia, por acuerdo del Gobernador del Estado y con la participación del Secretario General de Gobierno, estarán facultados para celebrar convenios, contratos y acuerdos con los gobiernos federal, de otros estados de la república, ayuntamientos y, en general, con cualquier institución pública, social o privada.
 
 ###### Artículo 33.
 
@@ -995,15 +997,15 @@ V. La Coordinación General de Acceso a la Información Pública;
 
 VI. La Representación del Gobierno del Estado de Sinaloa en el Distrito Federal; y (sic),
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2009)</small>
 
-VII. La Unidad para el Fomento a la Vivienda;
+VII. La Coordinación General de Proyectos Estratégicos; y,
 
-VIII. (DEROGADA, P.O. 9 DE ABRIL DE 2007)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 2009)</small>
 
-> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2006)</small>
+VIII. Las demás que establezcan las leyes, decretos y las que cree el Ejecutivo Estatal.
 
-IX. Las demás que establezcan las leyes y decretos, y las que cree el Ejecutivo Estatal.
+IX. (DEROGADA, P.O. 18 DE MAYO DE 2009)
 
 ### CAPÍTULO II. DE LA SECRETARÍA PARTICULAR DEL GOBERNADOR DEL ESTADO
 
@@ -1253,35 +1255,51 @@ IV. Los demás que se deriven de las leyes y reglamentos aplicables o que le enc
 
 Al titular de esta entidad administrativa se le denominará Representante del Gobierno del Estado de Sinaloa en el Distrito Federal. Para el despacho de los asuntos de su competencia se auxiliará de los servidores públicos que establezca su reglamento interior o que determine el presupuesto de egresos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE MAYO DE 2009)</small>
 
-### CAPÍTULO VI BIS. DE LA UNIDAD PARA EL FOMENTO A LA VIVIENDA
+### CAPÍTULO VI BIS. DE LA COORDINACIÓN GENERAL DE PROYECTOS ESTRATÉGICOS
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2002)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2009)</small>
 
 ###### Artículo 54 Bis.
 
-A la Unidad para el Fomento a la Vivienda le corresponde el despacho de los siguientes asuntos:
+A la Coordinación General de Proyectos Estratégicos le corresponde el despacho de los siguientes asuntos:
 
-l. Promover criterios, mecanismos y programas de fomento a la construcción de la vivienda;
+I. Auxiliar al Titular del Poder Ejecutivo del Estado en la coordinación funcional, elaboración, planeación, seguimiento, evaluación y, en su caso, administración de programas y proyectos estratégicos que permitan el crecimiento y desarrollo del Estado en sus diversos aspectos; es facultad del Titular del Ejecutivo designar a quien corresponda la operación ejecutora, específica e individual de cada programa y proyecto estratégico que funcionalmente esté a cargo de la Coordinación General de Proyectos Estratégicos;
 
-II. Promover la coordinación de los esfuerzos de las diferentes instituciones de los sectores público, social y privado, en sus respectivos ámbitos de competencia, en la ejecución de acciones para el desarrollo de la vivienda;
+II. Promover, gestionar y ejecutar las acciones necesarias para la implementación y conducción de proyectos estratégicos que se desarrollen o tiendan a desarrollarse en el Estado y le sean determinados por el Titular del Poder Ejecutivo Estatal;
 
-III. Apoyar las acciones de fomento financiero a la vivienda, principalmente de interés social y popular;
+III. Realizar ante las autoridades de los distintos órdenes de gobierno, las gestiones necesarias para el inicio, ejecución o conclusión de acciones complementarias de los proyectos encomendados por el Titular del Poder Ejecutivo Estatal;
 
-IV. Coadyuvar en la evaluación del Programa Sectorial de Vivienda, así como los programas que de él deriven y proponer, en su caso, las adecuaciones correspondientes;
+IV. Coordinar la planeación, diseño, impulso, integración, seguimiento y, en su caso, la administración de los programas y proyectos estratégicos que funcionalmente le corresponda coordinar;
 
-V. Participar en la actualización del marco legal en materia de vivienda;
+V. Gestionar y promover alternativas de financiamiento ante instituciones y organismos, nacionales e internacionales, públicos o privados, así como para la promoción e instrumentación de alternativas de inversión para la realización de los proyectos estratégicos;
 
-VI. Analizar el desarrollo de los programas federal, estatal y municipales de vivienda; y,
+VI. Dar seguimiento a los acuerdos que establezcan las secretarías y entidades señaladas en el artículo 15 de este Reglamento, respecto a los proyectos que sean de su competencia;
 
-VII. Los demás que se deriven de las leyes y reglamentos aplicables o que le encomiende el Gobernador del Estado.
+VII. Dar puntual seguimiento a los acuerdos, compromisos y, en general, a todos los asuntos relacionados con los proyectos que estén bajo su coordinación funcional;
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2002)</small>
+VIII. Solicitar a las dependencias y entidades del ámbito federal, estatal y municipal, el apoyo e información que requiera para el análisis y seguimiento de las acciones a realizar en los proyectos bajo su coordinación funcional;
 
-###### Artículo 54 Bis
+IX. Coordinar los fideicomisos y demás organismos que se creen para apoyar la realización de programas y proyectos estratégicos que le determine el Titular del Poder Ejecutivo;
 
-1.- Al titular de esta entidad administrativa se le denominará Vocal Ejecutivo de la Unidad para el Fomento a la Vivienda. Para el despacho de los asuntos de su competencia se auxiliará de los servidores públicos necesarios para el cumplimiento de sus funciones.
+X. Proporcionar asesoría técnica al Titular del Poder Ejecutivo Estatal en todos aquellos asuntos que éste le encomiende;
+
+XI. Ejercer los poderes y facultades en la forma y término que le otorgue y determine el Titular del Ejecutivo y en su caso, delegarlos en los términos de los poderes conferidos;
+
+XII. Las demás que le atribuyan expresamente las leyes y reglamentos, y las que le encomiende el Titular del Poder Ejecutivo del Estado.
+
+> <small>(REFORMADO [N. DE E. ANTES 54 BIS-1], P.O. 18 DE MAYO DE 2009)</small>
+
+###### Artículo 54 Bis-A.
+
+Al titular de esta entidad administrativa se le denominará Coordinador General de Proyectos Estratégicos. Para el despacho de los asuntos de su competencia, se auxiliará del personal técnico especializado y administrativo que señale su reglamento interior o que determine el presupuesto de egresos.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2009)</small>
+
+###### Artículo 54 Bis-B.
+
+Las dependencias, entidades y organismos de la Administración Pública Estatal y Paraestatal, en el ámbito de sus respectivas competencias, deberán otorgar a la Coordinación General de Proyectos Estratégicos, la información y apoyo que les requiera para el cumplimiento de sus funciones. De existir controversia respecto a lo dispuesto en este párrafo, el Titular del Ejecutivo Estatal resolverá en definitiva en los términos de los artículos 11 y 12 de este Reglamento.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE ABRIL DE 2007)</small>
 
@@ -1313,9 +1331,11 @@ Para ser titular de las entidades administrativas se requiere ser ciudadano mexi
 
 A las entidades administrativas como a sus titulares, sólo se les aplicarán las disposiciones legales que correspondan a las secretarías, los secretarios y subsecretarios, cuando lo disponga expresamente el presente reglamento, los respectivos reglamentos interiores y las demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2009)</small>
+
 ###### Artículo 59.
 
-Son aplicables a las entidades administrativas a que se refieren los Capítulos II, III, IV, V y VI de este Título, los artículos 28, 29, 30, fracciones I, III, IV, V y VI, 32, 33, 34, 35, 36, 37, 41 y 42 del presente reglamento.
+Son aplicables a las entidades administrativas a que se refieren los Capítulos II, III, IV, V, VI y VI BIS de este Título, los artículos 28, 29, 30, fracciones I, III, IV, V y VI, 32, 33, 34, 35, 36, 37, 41 y 42 del presente reglamento.
 
 ## TÍTULO SEXTO. DE OTRAS ENTIDADES ADMINISTRATIVAS
 
@@ -1546,3 +1566,19 @@ Artículo Tercero.- Se derogan las disposiciones que se opongan a lo establecido
 P.O. 15 DE FEBRERO DE 2008.
 
 Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 18 DE MAYO DE 2009.
+
+Artículo Primero.- El presente decreto entrará en vigor un día después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- El patrimonio, los recursos financieros y el presupuesto con que actualmente cuenta la Unidad para el Fomento a la Vivienda, serán transferidos y pasarán a formar parte íntegra de la Coordinación General de Proyectos Estratégicos que se crea con este Decreto, mediante el proceso de entrega recepción correspondiente.
+
+Artículo Tercero.- Las referencias que se hacen en las leyes, decretos, reglamentos, convenios, acuerdos y demás disposiciones Jurídicas a la Unidad para el Fomento a la Vivienda, se entenderán hechas a la Coordinación General de Proyectos Estratégicos.
+
+Artículo Cuarto.- Las acciones que en materia de fomento a la vivienda desarrolla la Unidad para el Fomento a la Vivienda, las realizará la Coordinación General de Proyectos Estratégicos que se crea con este Decreto.
+
+Artículo Quinto.- Para la atención y seguimiento da los asuntos jurisdiccionales o administrativos en trámite o pendientes de resolución definitiva que estén vinculados de cualquier manera con la Unidad para el Fomento a la Vivienda, la representación de ésta será sustituida por la Coordinación General de Proyectos Estratégicos.
+
+Las responsabilidades derivadas de procedimientos administrativos, judiciales o cualquier otra investigación que se haya iniciado o se inicie sobre el manejo de los recursos públicos por parte de los servidores públicos adscritos a la Unidad para el Fomento a la Vivienda o cualquier otra persona física o moral, pública o privada, continuarán su curso independientemente de su cambio de denominación.
+
+Artículo Sexto.- La Secretaría de Administración y Finanzas realizará las adecuaciones presupuestarias para el funcionamiento de la Coordinación General de Proyectos Estratégicos, lo que no implica la contratación de nuevo personal, ya que la misma operará con el personal con que actualmente cuenta la Unidad para el Fomento a la Vivienda. En caso de ser necesario personal adicional, la Secretaría de Administración y Finanzas resolverá lo conducente, sin que esto ocasione la creación de nuevas plazas.
