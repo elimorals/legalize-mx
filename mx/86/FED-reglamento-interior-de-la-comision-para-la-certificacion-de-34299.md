@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-para-la-certificacion-de-342
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-10-22"
-last_updated: "2003-10-22"
+last_updated: "2009-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34299&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2003-09-02"
 
 REGLAMENTO INTERIOR DE LA COMISION PARA LA CERTIFICACION DE ESTABLECIMIENTOS DE SERVICIOS DE SALUD
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISION PARA LA CERTIFICACION DE ESTABLECIMIENTOS DE ATENCION MEDICA, PUBLICADO EN EL D.O.F. DE 19 DE MAYO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación el miércoles 22 de octubre de 2003.
 
@@ -250,3 +252,11 @@ PRIMERO: Este Reglamento entrará en vigor el día siguiente de su publicación 
 SEGUNDO: Se abrogan todas aquellas disposiciones que se opongan al presente Reglamento.
 
 México, Distrito Federal, a los dos días del mes de septiembre de dos mil tres.- La Presidenta de la Comisión, Mercedes Juan.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 19 DE MAYO DE 2009.
+
+PRIMERO: El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO: El presente Reglamento abroga el Reglamento Interior de la Comisión para la Certificación de Establecimientos de Servicios de Salud, publicado en el Diario Oficial de la Federación el 22 de octubre de 2003.
