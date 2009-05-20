@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-acceso-a-la-informacion-publica-del-municipio-614
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-02"
-last_updated: "2008-06-02"
+last_updated: "2009-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61482&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MIC"
 ---
 # REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE CHILCHOTA, MICHOACAN
 
-REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL MUNlCIPIO DE CHILCHOTA, MICHOACAN
+REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE CHILCHOTA, MICHOACAN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE CHILCHOTA, MICHOACAN, PUBLICADO EN EL P.O. DE 20 DE MAYO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el lunes 2 de junio de 2008.
 
@@ -81,7 +83,7 @@ ING. JESÚS MEDINA ÁLVAREZ
 
 (Firmado)
 
-REGLAMENTO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNlCIPIO DE CHILCHOTA, MICHOACÁN
+REGLAMENTO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE CHILCHOTA, MICHOACÁN
 
 ### Capitulo Primero (sic). Disposiciones Generales
 
@@ -434,3 +436,23 @@ C. Juan Magaña Hurtado
 C. Benedicto Gregorio Campos
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 20 DE MAYO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los puntos no previstos en el presente Reglamento, serán resueltos por el Ayuntamiento.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento de Acceso a la Información Pública del Municipio de Chilchota, Michoacán; publicado en el Periódico Oficial del Gobierno Constitucional de Michoacán de Ocampo, el día 02 dos de junio del año 2008 dos mil ocho.
+
+###### ARTÍCULO CUARTO.
+
+Conforme a lo dispuesto por el artículo 145, segundo párrafo de la Ley Orgánica Municipal, se ordena su debida publicación para su observancia en el Periódico Oficial del Estado.
