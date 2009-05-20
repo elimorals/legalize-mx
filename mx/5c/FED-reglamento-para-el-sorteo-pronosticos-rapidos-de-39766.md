@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-el-sorteo-pronosticos-rapidos-de-39766"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-20"
-last_updated: "2005-09-22"
+last_updated: "2009-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39766&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-12-03"
 
 REGLAMENTO PARA EL SORTEO PRONOSTICOS RAPIDOS DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE MAYO DE 2009.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 20 de agosto de 1999.
 
@@ -29,79 +29,123 @@ REGLAMENTO PARA EL SORTEO PRONOSTICOS RAPIDOS DE PRONOSTICOS PARA LA ASISTENCIA 
 
 ### CAPITULO I. Disposiciones generales
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
+
 ###### ARTICULO PRIMERO.
 
-El presente Reglamento tiene por objeto regular el Sorteo Pronósticos Rápidos de conformidad con el Decreto de fecha 16 de agosto de 1984 publicado en el Diario Oficial de la Federación el 17 de agosto de 1984 que reformó y adicionó el de fecha 14 de febrero de 1978 publicado en el Diario Oficial de la Federación el 24 del mismo mes, mismo que creó el Organismo Público Descentralizado Pronósticos para la Asistencia Pública, al que en lo sucesivo se le designará en este Reglamento como Pronósticos.
+El presente Reglamento tiene por objeto regular el Sorteo Pronósticos Rápidos de conformidad con el Decreto de fecha 16 de agosto de 1984 publicado en el Diario Oficial de la Federación, el 17 de agosto de 1984 que reformó y adicionó el de fecha 14 de febrero de 1998 publicado en el Diario Oficial de la Federación el 24 del mismo mes, mismo que creó el Organismo Público Descentralizado Pronósticos para la Asistencia Pública, al que en lo sucesivo se le designará en este Reglamento como Pronósticos, así como la reforma publicada en el Decreto de Creación, publicada en el Diario Oficial de la Federación el 23 de febrero de 2006.
+
+Pronósticos llevará a cabo diversos Sorteos denominados Pronósticos Rápidos o “Raspaditos”, en los cuales el participante podrá conocer de inmediato si ha obtenido algún premio.
+
+Pronósticos llevará a cabo diversos Sorteos denominados Pronósticos Rápidos o “Raspaditos”, en los cuales el participante podrá conocer de inmediato si ha obtenido algún premio. (sic)
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
 
 ###### ARTICULO SEGUNDO.
 
-Se denominará Pronósticos Rápidos al boleto en que se registren una o más combinaciones de pronósticos (deportivos, numéricos, símbolos o figuras) para un Sorteo determinado y sus resultados.
+Se denomina Pronósticos Rápidos o “Raspaditos” al boleto preimpreso o boleto virtual en el que se encuentren registrados, pero ocultos mediante una película de seguridad, una combinación o pronóstico (deportivo, numérico, de símbolos o de figuras), así como el monto del premio que corresponda a dicha combinación o pronóstico.
 
-Pronósticos llevará a cabo diversos Sorteos denominados Pronósticos Rápidos en los cuales el adquirente conocerá de inmediato si ha obtenido premio.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
 
 ###### ARTICULO TERCERO.
 
-El Sorteo consiste en que el adquirente interesado desprende una película de seguridad que cubre la selección o pronóstico de una o más combinaciones, lo que el participante conocerá inmediatamente, y cuya identificación a través de un número de serie, se deberá comparar contra la información registrada electrónicamente en el equipo central, con el propósito de comprobar la autenticidad del premio, con lo que se valida que el boleto es ganador, a fin de que se pague el premio en efectivo en los términos de este Reglamento.
+El sorteo consiste en que el participante desprenda de manera física o virtual la película de seguridad que cubre una combinación o pronóstico (deportivo, numérico, de símbolos o de figuras), lo que le permitirá al participante conocer inmediatamente si dicha combinación cumple con las condiciones o reglas estipuladas en el propio boleto y, consecuentemente, si es ganador de algún premio, así como el monto del mismo.
+
+El número de serie y/o el código de barras de cada boleto permitirá a las agencias de Pronósticos su validación, mediante el uso de la terminal o dispositivo electrónico que tienen asignado, contra la información registrada electrónicamente en el sistema central de cómputo, con el propósito de comprobar la autenticidad de cada boleto y el monto del premio que en su caso le corresponda a fin de que se pague el premio en efectivo en los términos de este Reglamento.
 
 ### CAPITULO II. PROCEDIMIENTO PARA CONCURSAR
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
+
 ###### ARTICULO CUARTO.
 
-Sólo se podrá participar en el Sorteo mediante la adquisición de los boletos oficiales emitidos por Pronósticos.
+Sólo se podrá participar en el sorteo mediante la adquisición de los boletos oficiales preimpresos o virtuales emitidos por Pronósticos.
 
-Sus agentes autorizados, los pondrán a disposición de todos los posibles concursantes previo pago del precio correspondiente.
+Dichos boletos serán puestos a disposición del público mayor a 18 (dieciocho) años previo pago del precio correspondiente a través de los Agentes autorizados de Pronósticos para la Asistencia Pública o de la página Web de la Entidad, cuya dirección es: www.pronosticos.gob.mx.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
 
 ###### ARTICULO QUINTO.
 
-Pronósticos emitirá boletos como títulos representativos de la participación de sus concursantes en el Sorteo Pronósticos Rápidos como documentos al portador. Su adquisición entraña la celebración de un contrato de adhesión, el cual sólo genera los derechos y obligaciones que se establecen en el presente Reglamento.
+Pronósticos emitirá boletos (preimpresos o virtuales) como títulos representativos o constancias de la participación de los concursantes o participantes en los sorteos de Pronósticos Rápidos o “Raspaditos” y los mismos tendrán el carácter de documentos al portador. Su adquisición entraña la celebración de un contrato de adhesión, el cual sólo genera los derechos y obligaciones que se establecen en el presente Reglamento.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
 
 ###### ARTICULO SEXTO.
 
-El boleto deberá contener los siguientes datos:
+Los boletos impresos o virtuales, deberán contener los siguientes datos:
 
-1.- Mención de que se trata del Sorteo de Pronósticos,
+Boleto Impreso:
 
-2.- Claves de identificación del boleto y el importe pagado por él,
+1.- Mención de que se trata del Sorteo de Pronósticos Rápidos o “Raspaditos”.
 
-3.- Registro de las combinaciones preimpresas previamente bajo la película desprendible en los boletos,
+2.- Clave de identificación del boleto y el precio pagado por el mismo.
 
-4.- Monto del premio a que se hace acreedor conforme a las reglas impresas,
+3.- Registro de la combinación o pronóstico (deportivo, numérico, de símbolos o de figuras) preimpreso y oculto bajo la película de seguridad desprendible.
 
-5.- Claves y códigos de seguridad,
+4.- Monto del premio a que se hace acreedor el concursante, en caso de que la combinación o pronóstico que tenga impreso el boleto debajo de la película de seguridad, cumpla con las reglas o condiciones impresas.
 
-6.- Nombre del Sorteo de que se trata,
+5.- Claves y códigos de seguridad.
 
-7.- La mención de que es un documento al portador, que se deriva de un contrato de adhesión con los derechos y obligaciones que se señalan en este Reglamento, el cual el adquirente declara conocer sujetándose al mismo y a las condiciones especiales de su oferta al público, y
+6.- Nombre del sorteo de que se trata.
 
-8.- El término de caducidad del derecho para cobrar el premio correspondiente es de 60 (sesenta) días naturales, contado a partir de la fecha en que se dé por concluido el sorteo.
+7.- La mención de que es un documento al portador, que se deriva de un contrato de adhesión con los derechos y obligaciones que se señalan en este reglamento, el cual declara el participante conocer, sujetándose al mismo y a las condiciones especiales de su oferta al pública (sic), y (sic)
+
+8.- El periodo de caducidad del derecho para cobrar el premio correspondiente, el cual es de 60 (sesenta) días naturales, contados a partir de la fecha en que se dé por concluido el sorteo.
+
+9.- Boleto virtual:
+
+1.- Mención de que se trata del Sorteo de Pronósticos Rápidos o “Raspaditos”.
+
+2.- Clave de identificación del boleto y el precio pagado por el mismo.
+
+3.- Monto del premio a que se hace acreedor el concursante, en caso de que la combinación o pronóstico con el que se esté participando, una vez desprendida la película de seguridad que cubre dicha combinación o pronóstico, cumpla con las reglas o condiciones establecidas para el sorteo.
+
+4.- Claves y códigos de seguridad.
+
+5.- Nombre del sorteo de que se trata.
+
+6.- El periodo de caducidad del derecho para cobrar el premio correspondiente, el cual es de 60 (sesenta) días naturales, contados a partir de la fecha en que se dé por concluido el sorteo.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
 
 ###### ARTICULO SEPTIMO.
 
-Los Sorteos se realizarán mediante técnicas de impresión que emplean los sistemas electrónicos que permitan por virtud de procesos aleatorios, la formación de una o varias combinaciones de pronósticos (deportivos, numéricos, símbolos o figuras) que determinen las combinaciones ganadoras.
+Los sorteos se realizarán mediante el uso de sistemas de cómputo que permiten por virtud de procesos aleatorios y de encriptación, la emisión de un tiraje de boletos que contienen de manera oculta (detrás de una película de seguridad desprendible) una o varias combinaciones o pronósticos (deportivos, numéricos, de símbolos o de figuras), existiendo dentro de dicho tiraje un cierto número de boletos cuya combinación o pronóstico resulta ser ganador de un determinado premio.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
 
 ###### ARTICULO OCTAVO.
 
-Pronósticos facultará a sus agentes autorizados para recibir y captar la venta de Pronósticos Rápidos mediante el uso de terminales (dispositivo electrónico) que:
+Pronósticos facultará a sus agentes autorizados para recibir y captar la comercialización de pronósticos rápidos o “Raspaditos” mediante la venta de boletos impresos, o bien, mediante la venta de boletos virtuales a través de la página Web oficial de la Entidad, en combinación con el uso de terminales (dispositivos electrónicos asignados a los agentes autorizados) que, por lectura óptica, que reconozcan la validez de cada boleto impreso y activar en el sistema central de cómputo su participación en el sorteo correspondiente.
 
-Por lectura óptica reconozcan y activen la validez en la participación del boleto en el Sorteo correspondiente, que contra su pago, será entregado al concursante como comprobante de participación.
+Contra el pago del precio respectivo, el boleto impreso, será entregado al concursante como comprobante de participación. Los agentes autorizados recibirán de los concursantes el pago del precio correspondiente y lo remitirán a Pronósticos en las condiciones y términos que éste les señale.
 
-Los agentes autorizados recibirán de los concursantes el pago del precio correspondiente y lo remitirán a Pronósticos en las condiciones y términos que éste le señale.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
 
 ###### ARTICULO NOVENO.
 
-Pronósticos utilizará terminales (dispositivo electrónico) para comprobar la validez de los boletos pagados por los agentes.
+Pronósticos utilizará terminales (dispositivo electrónico asignado a sus agentes autorizados) para comprobar la validez de los boletos impresos reportados como vendidos por los Agentes.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
 
 ###### ARTICULO DECIMO.
 
-Para los efectos de estas disposiciones se entenderá por terminal (dispositivo electrónico), el aparato electrónico cuya función consiste en captar los datos para su activación de los boletos participantes y para validar los boletos adquiridos por los concursantes mediante la lectura óptica de los códigos de barras impresas (sic) en los boletos.
+Para los efectos de estas disposiciones se entenderá por terminal (dispositivo electrónico) el aparato electrónico que la Entidad asigna a sus agentes autorizados, y cuya función consiste en captar los datos para la activación de los boletos preimpresos participantes y para validar los boletos preimpresos adquiridos por los concursantes y que resulten ser ganadores de algún premio, mediante la lectura óptica de los respectivos códigos de barras.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE MAYO DE 2009)</small>
 
 ###### ARTICULO DECIMO PRIMERO.
 
-Sólo tendrán validez para efectos del Sorteo y pago de premios, los boletos validados por las terminales (dispositivo electrónico) y no podrán ser transcritos por Pronósticos en el Registro General de Boletos Concursantes, en los siguientes casos:
+Sólo tendrán validez para efectos del sorteo y pago de premios, los boletos preimpresos validados por las terminales (dispositivo electrónico) y no serán reconocidos por Pronósticos aquellos boletos que:
 
-a) Cuando el boleto no haya sido adquirido en agencia autorizada con terminal (dispositivo electrónico) conectada al computador central.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
 
-b) Cuando Pronósticos compruebe que los dispositivos de seguridad del boleto contengan alteraciones.
+a) No hayan sido adquiridos en Agencia autorizada con terminal (dispositivo electrónico) conectada al sistema central de cómputo.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
+
+b) Presenten alteraciones en sus dispositivos de seguridad.
 
 c) Cuando los módulos de almacenamiento no identifiquen la información requerida para su registro.
 
@@ -113,89 +157,109 @@ Las ventas captadas se distribuirán de la siguiente forma:
 
 Un 10% a los agentes como comisión por las ventas que realicen.
 
-Un mínimo de 50% destinado a premiación de los participantes ganadores.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
 
-De la cantidad restante, así como de las demás que se determinen al efecto de otros productos e ingresos de la entidad, se cubrirán las erogaciones e inversiones contenidas en el presupuesto anual autorizado por la Secretaría de Hacienda y Crédito Público, así como las cantidades que se destinen a formar la Reserva de Contingencia, y las demás que acuerde constituir su Consejo Directivo, y el saldo se entregará a la Tesorería de la Federación para que se destine a la asistencia pública, a través de las partidas del Presupuesto de Egresos de la Federación, que correspondan a programas de desarrollo social.
+Un mínimo del 50% destinado a premiación de los participantes ganadores.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
+
+De la cantidad restante, así como de las demás que se determinen al efecto, provenientes de otros productos e ingresos de la Entidad, se cubrirán las erogaciones e inversiones contenidas en el presupuesto anual autorizado a la Entidad por la Secretaría de Hacienda y Crédito Público, así como las cantidades que se destinen a formar la Reserva de Contingencia, y las demás que acuerde constituir su Consejo Directivo, y el saldo se entregará a la Tesorería de la Federación para que se destine a la asistencia pública, a través de las partidas del Presupuesto de Egresos de la Federación, que correspondan a programas de desarrollo social.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
 
 ###### ARTICULO DECIMO TERCERO.
 
-La cantidad de boletos, los premios y sus reglas podrán ser variables según el sorteo y deberán darse a conocer para que los concursantes estén debidamente informados.
+La cantidad de boletos preimpresos y virtuales emitidos, la pirámide o estructura de premiación, y las Reglas correspondientes podrán ser variables según el Sorteo y deberán darse a conocer para que los concursantes estén debidamente informados.
 
-El fondo de cada Sorteo se aplicará como sigue:
-
-Un 10% (diez por ciento) a los agentes como comisión por las ventas que realicen.
-
-Una vez deducidos tanto los premios pagados a los concursantes ganadores, como los gastos de administración que apruebe su H. Consejo Directivo, el saldo se entregará a la Tesorería de la Federación para el sostenimiento de la asistencia pública.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
 
 ###### ARTICULO DECIMO CUARTO.
 
-El programa de premios asignado para cada Sorteo, será de absoluta seguridad y basados siempre en procesos aleatorios.
+La pirámide o estructura de premios asignada para cada sorteo, será de absoluta seguridad y basada siempre en procesos aleatorios.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
 
 ###### ARTICULO DECIMO QUINTO.
 
-Los Pronósticos Rápidos serán fabricados con garantía de seguridad y claves de identificación a efecto de que las terminales de las agencias autorizadas de Pronósticos, a través de los lectores ópticos, den la validez que garantice su autenticidad, la veracidad del ganador y la categoría del premio.
+Los boletos impresos de Pronósticos Rápidos o “Raspaditos” serán fabricados con garantía de seguridad y claves de identificación a efecto de que las terminales de las agencias autorizadas de Pronósticos, a través de los lectores ópticos, den validez que garantice su autenticidad, la veracidad del ganador y la categoría e importe del premio que, en su caso, les corresponda.
 
 ###### ARTICULO DECIMO SEXTO.
 
-La emisión y serie de los boletos, el total de premios y su reglamentación, variarán según el Sorteo de que se trate y serán dados a conocer oportunamente.
+(REFORMADO [N. DE E. DEROGADO], D.O.F. 20 DE MAYO DE 2009)
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
 
 ###### ARTICULO DECIMO SEPTIMO.
 
-Antes de cualquier Sorteo el sistema central de cómputo, será alimentado con la estructura de premiación de cada evento, con el objeto de que a través de los programas que conforman el sistema, se produzca la comprobación de los boletos ganadores.
+Antes de cualquier Sorteo el sistema central de cómputo, será alimentado con la estructura de premiación de cada evento, con el objeto de que a través de programas que conforman el sistema, las agencias autorizadas de Pronósticos pueden llevar a cabo la validación o comprobación de los boletos ganadores.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
 
 ###### ARTICULO DECIMO OCTAVO.
 
-Los boletos ganadores de Pronósticos Rápidos serán aquellos que una vez activados en las agencias autorizadas de Pronósticos y desprendida la película de seguridad que los cubre, registren combinaciones ganadoras de pronósticos (deportivos, numéricos, de símbolos o figuras) en la forma y orden previstos para cada Sorteo.
+Los boletos ganadores de Pronósticos Rápidos o “Raspaditos” serán aquellos que una vez activados en las agencias autorizadas de Pronósticos y desprendida por parte del participante la película de seguridad que los cubría su respectiva combinación o pronóstico (deportivo, numérico, de símbolos o de figuras), correspondan a una combinación ganadora en la forma y orden previstos como condición o regla en el propio boleto.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
 
 ###### ARTICULO DECIMO NOVENO.
 
-Pronósticos, una vez generados los boletos, custodiará los mismos hasta en tanto se determine la venta al público. Pronósticos podrá producir varias emisiones y series, y deberá custodiarlas en tanto se produzca su venta.
+Una vez generados los boletos preimpresos y virtuales, Pronósticos custodiará los mismos hasta en tanto se determine la venta al público. Así mismo Pronósticos podrá producir varias emisiones y series, y deberá custodiarlas en tanto se produzca su venta.
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE MAYO DE 2009)</small>
 
 ###### ARTICULO VIGESIMO.
 
-El día y horas fijados para el inicio del sorteo, ante la presencia del inspector designado por la Secretaría de Gobernación y un funcionario que designe el Director General de la institución, se procederá a realizar una ceremonia pública en la que se declare iniciado el sorteo, se dará fe de la legalidad del mismo y de la fecha de inicio de venta de la emisión, lo cual será plasmado en el acta que sea levantada al efecto.
-
-El Director General hará la designación del funcionario a que se hace referencia en el párrafo anterior entre aquellos funcionarios que ocupen hasta el cuarto nivel inferior al del Director General.
-
-Estarán presentes también en el acto de inicio del sorteo, un representante de la Dirección Técnica y otro de la Gerencia de Sorteos, quienes también suscribirán el acta mencionada en el párrafo primero.
-
-Asimismo, se efectuará una ceremonia el día en que, respondiendo al desplazamiento y venta del producto en el mercado, se dé por terminada la vigencia del sorteo. Dicha fecha marcará el inicio del término de caducidad para el cobro de boletos participantes del sorteo en cuestión, que será de 60 (sesenta) días naturales.
-
-###### ARTICULO VIGESIMO PRIMERO.
-
-Pronósticos publicará en diarios de circulación nacional, al siguiente día en que se hubiere celebrado el inicio del Sorteo, las reglas, la distribución de premios e información general sobre el mismo.
-
-Asimismo, Pronósticos emitirá una publicación de la misma índole, al día siguiente de que se efectúe la ceremonia en que se dé por terminado el Sorteo a que se refiere el artículo vigésimo.
-
-Por último, una vez transcurridos los 60 (sesenta) días naturales, contados a partir de la fecha de terminación de la vigencia del sorteo, Pronósticos difundirá por el mismo medio, que los participantes ganadores han perdido su derecho a cobro de premios por caducidad.
+El día y hora fijados en las Reglas a las que se refiere el artículo décimo tercero para el inicio del sorteo, ante la presencia del Inspector designado por la Secretaría de Gobernación y un funcionario que designe el Director General de la Institución, se procederá a realizar una ceremonia pública en la que se declare iniciado el Sorteo, se dará fe de la legalidad del mismo y de la fecha de inicio de venta de la emisión, lo cual será plasmado en el acta que sea levantada al efecto.
 
 > <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
 
-###### ARTICULO VIGESIMO SEGUNDO.
-
-Concluida la vigencia del sorteo, se levantará acta en la que se harán constar los antecedentes de este, sus resultados y cualquier incidente que ocurriere durante el mismo.
-
-Dicha acta se elaborará con la participación del inspector de la Secretaría de Gobernación y del funcionario que al efecto designe el Director General, quienes suscribirán el documento, para todos los efectos legales.
-
 El Director General hará la designación del funcionario a que se hace referencia en el párrafo anterior entre aquellos funcionarios que ocupen hasta el cuarto nivel inferior al del Director General.
 
-Estarán presentes también en el acto a que se refiere el presente artículo, un representante de la Dirección Técnica y otro de la Gerencia de Sorteos, quienes también suscribirán el acta mencionada.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
+
+Estarán presentes también en el acto de inicio del sorteo, un representante de la Coordinación de Tecnologías de la Información y Comunicaciones y otro de la Gerencia de Sorteos y Normatividad, quienes también suscribirán el acta mencionada en el párrafo primero de este artículo.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
+
+Asimismo, se efectuará una ceremonia el día en que, respondiendo al desplazamiento y venta del producto en el mercado, se dé por terminada la vigencia del Sorteo. Dicha fecha marcará el inicio del término de caducidad para el cobro de boletos participantes del sorteo en cuestión, que será de 60 (sesenta) días naturales.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE MAYO DE 2009)</small>
+
+###### ARTICULO VIGESIMO PRIMERO.
+
+Pronósticos publicará en diarios de circulación nacional, al siguiente día en que se hubiere celebrado el inicio del Sorteo, las reglas, a que se refiere el artículo décimo tercero, la pirámide o estructura de premios e información general sobre el mismo.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
+
+Asimismo, Pronósticos emitirá una publicación de la misma índole, al día siguiente de que se efectúe la ceremonia en que se dé por terminado el Sorteo.
+
+Por último, una vez transcurridos los 60 (sesenta) días naturales, contados a partir de la fecha de terminación de la vigencia del sorteo, Pronósticos difundirá por el mismo medio, que los participantes ganadores han perdido su derecho a cobro de premios por caducidad.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
+
+###### ARTICULO VIGESIMO SEGUNDO.
+
+Concluida la vigencia del Sorteo, se levantará acta en la que se harán constar los antecedentes de éste, sus resultados y cualquier incidente que ocurriere durante el mismo.
+
+Dicha acta se elaborará con la participación del Inspector de la Secretaría de Gobernación y de un funcionario que al efecto designe el Director General, en los mismo términos que prevé el artículo vigésimo, quienes suscribirán el documento, para todos los efectos legales.
+
+Estarán presentes también en el acto a que se refiere el presente artículo, un representante de la Coordinación de Tecnologías de la Información y Comunicaciones y otro de la Gerencia de Sorteos y Normatividad, quienes también suscribirán el acta mencionada.
 
 ###### ARTICULO VIGESIMO TERCERO.
 
 Los agentes autorizados de Pronósticos atenderán fielmente el contenido de este Reglamento y demás normatividad emitida por Pronósticos. Las omisiones, errores o faltas imputables a los agentes autorizados o a su personal dependiente, por inobservancia o violación de las normas reglamentarias aplicables, no constituirán responsabilidad a cargo de Pronósticos.
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
+
 ###### ARTICULO VIGESIMO CUARTO.
 
-Es aplicable a los agentes autorizados de Pronósticos para efectuar la venta de boletos, el Reglamento publicado en el Diario Oficial de la Federación el 25 de mayo de 1978 en el que se establecen sus derechos, obligaciones y responsabilidades.
+Es aplicable a los agentes autorizados de Pronósticos para efectuar la venta de boletos, el Reglamento publicado en el Diario Oficial de la Federación el 1 de agosto de 2006 en el que se establecen sus derechos, obligaciones y responsabilidades.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE MAYO DE 2009)</small>
+
+ARTICULO VIGESIMO CUARTO BIS.- Si por causas de fuerza mayor no acudiera al evento el Inspector designado por la Secretaría de Gobernación, y en virtud del día y hora, no se pudiera contratar un Fedatario Público, el representante de la Dirección General a que se refieren los artículos vigésimo y vigésimo segundo, será el encargado de llevar a cabo las actividades que a éste correspondían dentro del desarrollo del sorteo.
 
 > <small>(ADICIONADO, D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
-
-ARTICULO VIGESIMO CUARTO BIS.- Si por causas de fuerza mayor no acudiera al evento el inspector designado por la Secretaría de Gobernación, y en virtud del día y hora, no se pudiera contratar un fedatario público, el representante de la Dirección General será el encargado de llevar a cabo las actividades que a éste correspondían dentro del desarrollo del sorteo.
 
 En el supuesto a que se refiere el párrafo anterior, se hará entrega del acta correspondiente a la Dirección General Adjunta de Juegos y Sorteos, dentro de los tres días hábiles siguientes.
 
@@ -205,11 +269,25 @@ En el supuesto a que se refiere el párrafo anterior, se hará entrega del acta 
 
 A partir del día de inicio de venta del Sorteo, Pronósticos procederá al pago de los premios en moneda nacional.
 
-El pago se efectuará contra la presentación y entrega material del boleto correspondiente a las combinaciones que hubieren resultado ganadoras y previa validación de boletos. Al efectuar el pago se descontará y retendrá el importe de los impuestos que fijen las leyes respectivas.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
 
-Los tenedores de boletos premiados podrán cobrar sus importes ante un agente autorizado, siempre que su monto no exceda la suma que autorice Pronósticos.
+Los tenedores de boletos preimpresos premiados podrán cobrar el importe del premio correspondiente en cualquier agencia autorizada de Pronósticos, siempre que el monto de dicho premio no exceda la suma que la Entidad les autorice pagar a sus agencias.
 
-Cualquiera que sea el importe del premio podrán hacerlo efectivo en las oficinas generales de Pronósticos, en las oficinas regionales de Pronósticos o en las instituciones u organismos que señale y que se harán del conocimiento del público.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
+
+El pago del premio correspondiente a un boleto preimpreso, se efectuará contra la presentación y entrega material del mismo, el cual deberá contener la combinación o pronóstico que hubiere resultado ganadora y previa validación a través de la Terminal (dispositivo electrónico) de la agencia autorizada ante la que acuda el participante para efectuar el cobro. Al efectuar el pago se descontará y retendrá el importe de los impuestos que fijen las leyes respectivas.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
+
+Cualquiera que sea el importe del premio, el tenedor del boleto impreso podrá hacerlo efectivo en las oficinas generales de Pronósticos, o en las instituciones bancarias u organismos autorizados por la Entidad y que se harán del conocimiento del público.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
+
+El pago de los premios correspondientes a boletos virtuales, se efectuará de la siguiente manera:
+
+a) Si el importe del premio es hasta de $9,999.99 (NUEVE MIL NOVECIENTOS NOVENTA Y NUEVE PESOS), se realizará a través de la Cuenta Electrónica Pronósticos.
+
+b) Si el importe del premio es de $10,000 (DIEZ MIL PESOS) o mayor, se realizará contra la presentación y entrega material de la constancia emitida por el sistema, la cual tendrá que ser impresa por el participante ganador.
 
 ###### ARTICULO VIGESIMO SEXTO.
 
@@ -219,11 +297,11 @@ El derecho al cobro se podrá ejercer durante la vigencia del Sorteo a la que ha
 
 El pago de los premios sólo podrá suspenderse por orden expresa de la autoridad judicial; sin embargo, Pronósticos podrá negarse a cubrir los premios cuando los datos consignados en el boleto de que se trate no coincidan íntegramente con los de sus registros, carezcan de las menciones que señala este Reglamento o se encuentren mutilados, alterados o maltratados de forma que hagan imposible la comprobación de su legitimidad o autenticidad.
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
 
 ###### ARTICULO VIGESIMO OCTAVO.
 
-Sólo por fuerza mayor o caso fortuito, Pronósticos suspenderá o cancelará un sorteo en vías de realización, y quedará obligado a reembolsar a los concursantes el valor, previa entrega material y cancelación de los boletos adquiridos, sin ulterior responsabilidad.
+Sólo por fuerza mayor o caso fortuito, Pronósticos suspenderá o cancelará un sorteo en vías de realización y quedará obligado a reembolsar a los concursantes el precio pagado, previa entrega material y cancelación de los boletos adquiridos, sin ulterior responsabilidad.
 
 ## TRANSITORIO
 
@@ -246,3 +324,11 @@ Primero.- Estas reformas y adiciones entrarán en vigor al día siguiente de su 
 Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
 
 Tercero.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor de las presentes reformas y adiciones de los citados Reglamentos, serán resueltos conforme a los anteriores.
+
+D.O.F. 20 DE MAYO DE 2009.
+
+Primero.- El presente acuerdo entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
+
+Tercero.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente acuerdo, serán resueltos mediante las disposiciones que se encontraban vigentes al inicio de su trámite.
