@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-comision-de-derechos-humanos-del-estado-de-morelos-55
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-06"
-last_updated: "2008-11-05"
+last_updated: "2009-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de junio de 2007.
 
@@ -91,9 +91,15 @@ XVII.- Quejoso: Toda persona que por sí o a través de representante, inicia pr
 
 XVIII.- Cumplimiento: Es el conjunto de actos mediante los cuales la autoridad responsable hace efectiva la recomendación, solicitud o el resultado de la conciliación a favor del quejoso y ordena el empleo de los elementos y mecanismos a su alcance para ejecutarla.
 
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2009)</small>
+
+XIX.- Conciliación: Es el instrumento por medio del cual la Comisión aplica los principios de inmediación y celeridad, procede en casos no graves y parte del consentimiento del quejoso, así como del reconocimiento de la autoridad de que cometió una violación a los derechos humanos; el convenio de conciliación debe incluir medidas para reparar el daño, la petición de sanciones a los responsables de la violación y las medidas que garanticen la no repetición de ese tipo de hechos.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 3.
 
-De conformidad con lo establecido por el artículo 23-B de la Constitución Política del Estado Libre y Soberano de Morelos, la Comisión de Derechos Humanos del Estado de Morelos, es un Organismo Público, con Autonomía de gestión y de presupuesto, dotada de personalidad jurídica y patrimonio propio y cuyo objeto y razón de ser lo constituye la observancia, promoción, estudio, divulgación y protección de los Derechos Humanos contenidos en el orden jurídico mexicano; en las garantías individuales y sociales establecidas en la Constitución Federal, así como de aquellos contenidos en instrumentos jurídicos internacionales que habiendo sido suscritos y ratificados por México, son reconocidos y asegurados en los términos del Artículo 2 de la Constitución Local, así como la recepción de quejas y emisión de recomendaciones derivadas de las violaciones a los mencionados derechos.
+De conformidad con lo establecido por el artículo 23-B de la Constitución Política del Estado Libre y Soberano de Morelos, la Comisión de Derechos Humanos del Estado de Morelos es un Organismo Público, con autonomía de gestión y de presupuesto, dotada de personalidad jurídica y patrimonio propio y cuyo objeto y razón de ser lo constituye la observancia, promoción, estudio, divulgación y protección de los Derechos Humanos, así como la consolidación de una cultura de reconocimiento y respeto a los derechos humanos y fundamentales contenidos en el orden jurídico mexicano; en las garantías individuales y sociales establecidas en la Constitución Política de los Estados Unidos Mexicanos, así como de aquellos contenidos en instrumentos jurídicos internacionales que habiendo sido suscritos y ratificados por el Estado Mexicano son reconocidos y asegurados en los términos del artículo 2 de la Constitución Política del Estado Libre y Soberano de Morelos, así como la recepción de quejas y emisión de recomendaciones derivadas de las violaciones a los mencionados derechos.
 
 ###### ARTÍCULO 4.
 
@@ -147,9 +153,13 @@ IV. Solicitar a las autoridades señaladas como presuntamente responsables de la
 
 V. Procurar la conciliación entre los quejosos y las autoridades señaladas como responsables, así como la inmediata solución del conflicto planteado, cuando la naturaleza del caso lo permita, salvo aquellos asuntos que atenten contra la vida y la integridad física del quejoso;
 
-VI. Impulsar la observancia de los Derechos Humanos en el Estado, mediante la promoción, estudio, enseñanza, divulgación y protección de los Derechos Humanos en el ámbito estatal y municipal, pudiendo coordinar esfuerzos con las autoridades de ambos niveles;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2009)</small>
 
-VII. Formular propuestas de reformas al orden normativo de las diversas autoridades del Estado y de los municipios correspondientes, que redunden en una mejor defensa y protección de los Derechos Humanos;
+VI. Impulsar la observancia de los Derechos Humanos en el Estado, mediante la promoción, estudio, enseñanza, divulgación, protección y consolidación de una cultura de reconocimiento y respeto a los Derechos Humanos en el ámbito estatal y municipal, pudiendo coordinar esfuerzos con las autoridades de ambos niveles, elaborando programas y proyectos con los ayuntamientos y los Poderes del Estado para promulgar políticas públicas que consoliden estos principios;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2009)</small>
+
+VII. Formular propuestas de reformas al orden normativo de las diversas autoridades del Estado y de los municipios correspondientes, que redunden en una mejor defensa y protección de los Derechos Humanos que se conviertan en políticas públicas;
 
 VIII. Aprobar y en su caso modificar su reglamento interno;
 
@@ -161,9 +171,15 @@ X. Verificar de oficio el respeto a los Derechos Humanos en el sistema penitenci
 
 XI. Subsanar durante el procedimiento las omisiones que se observen en la substanciación de la queja para el efecto de regularizar el procedimiento, así como en las recomendaciones o acuerdos que ordenen el archivo de la queja;
 
-XII. Dictar los acuerdos que sean necesarios para la tramitación y perfeccionamiento legal de los expedientes que se encuentren en trámite o que hayan sido resueltos. Todas estas acciones deberán tender a la conformación de una cultura del respeto a la dignidad del ser humano; y
+XII. Dictar los acuerdos que sean necesarios para la tramitación y perfeccionamiento legal de los expedientes que se encuentren en trámite o que hayan sido resueltos. Todas estas acciones deberán tender a la conformación de una cultura del respeto a la dignidad del ser humano; y (sic)
 
-XIII. Las demás que le otorgue la presente Ley y el Reglamento Interno de la Comisión.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2009)</small>
+
+XIII. Acceder y entrevistarse con toda persona sometida a cualquier forma de detención o prisión en los centros de reclusión o establecimientos penales, debidamente vigilado pero en la que le sea posible comunicarse durante el tiempo que necesiten contando con las facilidades para actuar en el ámbito de su competencia;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2009)</small>
+
+XIV. Las demás que le otorgue la presente Ley y el Reglamento Interno de la Comisión.
 
 ###### ARTÍCULO 9.
 
@@ -263,7 +279,9 @@ III. Nombrar y remover a los funcionarios y al personal de la Comisión, de acue
 
 IV. Distribuir y delegar funciones al personal del organismo;
 
-V. Presentar ante el Pleno del Congreso del Estado, un informe anual de las actividades de la Comisión durante el segundo período de sesiones, enviando copia del mismo al Ejecutivo del Estado para su conocimiento; así como los informes especiales cuando sean requeridos por la Comisión de Justicia y Derechos Humanos del Congreso;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2009)</small>
+
+V. Presentar al Congreso del Estado, por escrito un informe anual de las actividades de la Comisión dentro de los tres primeros meses del año, enviando copia del mismo al Poder Ejecutivo para su conocimiento; el Congreso del Estado podrá realizar comentarios y observaciones al informe así como solicitar los informes especiales necesarios a través de la Comisión de Justicia y Derechos Humanos;
 
 VI. Celebrar, en los términos de la legislación aplicable, acuerdos, bases de coordinación y convenios de colaboración con autoridades Federales, Estatales y Municipales, así como los diversos organismos, instituciones y asociaciones; sean académicas, culturales o de gestión social, para el mejor cumplimiento de sus fines;
 
@@ -351,9 +369,15 @@ II. Ser mayor de veinticinco años de edad el día de su nombramiento;
 
 III. Tener título y cédula profesional legalmente expedidos, que lo acredite como Licenciado en Derecho y tener cuando menos tres años de experiencia profesional;
 
-IV. No haber sido condenado por delito doloso; y
+IV. No haber sido condenado por delito doloso; y (sic)
 
-V. Gozar de buena reputación.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2009)</small>
+
+V. Contar con experiencia y conocimientos en materia de Derechos Humanos;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2009)</small>
+
+VI. Gozar de buena reputación.
 
 ###### ARTÍCULO 23.
 
@@ -361,15 +385,25 @@ La Secretaría Ejecutiva tendrá las siguientes facultades y obligaciones:
 
 I. Proponer al Consejo Consultivo y al Presidente de la Comisión, las políticas generales que en materia de Derechos Humanos habrá de seguir la Comisión ante los organismos gubernamentales y no gubernamentales;
 
-II. Elaborar las actas de las sesiones del Consejo Consultivo de la Comisión, llevando el registro debido de los acuerdos y actas correspondientes, teniendo el carácter de Secretario Técnico en todas las sesiones que se celebren por el Consejo de la Comisión;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2009)</small>
+
+II. Coordinar las acciones de las y los funcionarios de la Comisión, para cumplir con los programas internos de control, evaluación, transparencia y acceso a la información pública, así como de capacitación y evaluación permanentes, a fin de consolidar políticas generales de actuación y atención ciudadana;
 
 III. Colaborar con el Presidente de la Comisión en la elaboración de los informes mensuales, anuales, así como de los especiales;
 
 IV. Apoyar al Presidente en la elaboración del anteproyecto de presupuesto de la Comisión y supervisar su debida aplicación;
 
-V. Coordinar las actividades de los visitadores, en el desempeño de sus funciones, con el propósito de establecer y unificar criterios de actuación así como los lineamientos generales que en materia de Derechos Humanos habrá de seguir la Comisión; y
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2009)</small>
 
-VI. Las demás que le encomiende el Presidente, en términos de Ley.
+V. Coordinar las actividades de los visitadores y auxiliares jurídicos, en el desempeño de sus funciones, con el propósito de establecer y unificar criterios de actuación, así como los lineamientos generales que en materia de Derechos Humanos habrá de seguir la Comisión;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2009)</small>
+
+VI. Elaborar las actas de las sesiones del Consejo Consultivo de la Comisión, llevando el registro debido de los acuerdos y actas correspondientes, teniendo el carácter de secretario Técnico en todas las sesiones que se celebren por el Consejo de la Comisión; y
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2009)</small>
+
+VII. Las demás que le encomiende el Presidente en términos de lo dispuesto por la Ley.
 
 ###### ARTÍCULO 24.
 
@@ -393,9 +427,15 @@ IV. Realizar las investigaciones y estudios necesarios para formular los proyect
 
 V. Coordinar entre visitadores los trabajos relacionados con las diligencias, procedimientos y demás actividades tendientes a la integración de los expedientes que se encuentren fuera de su jurisdicción;
 
-VI. Observar el estricto cumplimiento de los principios que rigen a ésta institución; y
+VI. Observar el estricto cumplimiento de los principios que rigen a ésta institución; y (sic)
 
-VII. Las demás que le señale la presente Ley, el Reglamento Interior y el Presidente de la Comisión.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2009)</small>
+
+VII. Certificar copias a solicitud de parte, por requerimiento de la autoridad o previa autorización del Secretario Ejecutivo;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2009)</small>
+
+VIII. Las demás que le señale la presente ley, el Reglamento Interior y el Presidente de la Comisión.
 
 ## TÍTULO TERCERO
 
@@ -405,7 +445,9 @@ VII. Las demás que le señale la presente Ley, el Reglamento Interior y el Pres
 
 Cualquier persona podrá presentar queja por presuntas violaciones a los Derechos Humanos por su propio derecho o en representación de terceros.
 
-En caso de menores de edad, discapacitados, indígenas, mayores de edad disminuidos o perturbados en su inteligencia que no puedan gobernarse por si mismos, o manifestar su voluntad por algún medio, privados de su libertad por alguna autoridad competente, o en casos urgentes, podrá presentarse por sí o por otros, ya sea por comparecencia, por escrito o por cualquier medio electrónico, queja y en todo caso se iniciará el procedimiento correspondiente, cuando se violen presuntamente derechos fundamentales; debiéndose levantar acta debidamente circunstanciada, misma que deberá contener los datos mínimos de identificación del quejoso, así como de ser posible de la identidad del servidor público.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2009)</small>
+
+En caso de menores de edad, discapacitados, indígenas, mayores de edad disminuidos o perturbados en su inteligencia que no puedan gobernarse por si mismos o manifestar su voluntad por algún medio, privados de su libertad por alguna autoridad competente, o en casos urgentes, podrá presentarse por sí o por otros, ya sea por comparecencia, por escrito o por cualquier medio electrónico, queja y en todo caso se iniciará el procedimiento correspondiente, en el que una vez que el personal de la Comisión califique la procedibilidad de la reclamación y quede acreditada la presunción de la inexistencia de una violación a los derechos humanos; predominará la palabra hablada no escrita, complementada con la utilización mínima de documentación, debiéndose levantar acta debidamente circunstanciada, misma que deberá contener los datos de identificación del quejoso, así como de ser posible de la identidad del servidor público, además de establecer de manera inmediata comunicación directa con el promovente y los señalados como responsables, dando cumplimiento al principio de inmediación, convocando a una audiencia en la que se desahogara el procedimiento de queja.
 
 En el supuesto de que los quejosos no puedan identificar a las autoridades o servidores públicos cuyos actos u omisiones consideren haber afectado sus derechos fundamentales, la instancia será admitida, debiendo proporcionar posteriormente datos que permitan su identificación.
 
@@ -427,39 +469,55 @@ La Comisión deberá poner a disposición de los reclamantes, formularios que fa
 
 Cuando un quejoso habiendo designado persona de su confianza y en caso de posterior revocación de su designación, éste deberá hacerlo saber a la Comisión, dentro de un término de cinco días naturales posteriores al acaecimiento de dicha circunstancia; en caso contrario las notificaciones y actuaciones posteriores se le notificarán por Estrados.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 31.
 
-La formulación de acuerdos y recomendaciones que emita este Organismo, así como las quejas y denuncias que presenten los particulares, no afectarán el ejercicio de otros derechos y medios de defensa que puedan corresponder a los afectados conforme a las leyes, ni suspenderán ni interrumpirán plazos preclusivos, de prescripción o caducidad. Estas circunstancias deberán señalarse a los interesados en el acuerdo de admisión de la instancia.
+La formulación de acuerdos y recomendaciones que emita este Organismo serán emitidos con plena certeza jurídica al desahogarse el procedimiento de queja de forma oral y con la presencia de las partes y servidores públicos de esta Comisión, así como las quejas y denuncias que presenten los particulares. Actuaciones que no afectarán el ejercicio de otros derechos y medios de defensa que puedan corresponder a los afectados conforme a las leyes, ni suspenderán o interrumpirán plazos preclusivos, de prescripción o caducidad. Estas circunstancias deberán señalarse a los interesados en el acuerdo de admisión de la instancia.
 
 ###### ARTÍCULO 32.
 
 Cuando la queja sea inadmisible por estimarse improcedente o por no ser de la competencia de la Comisión, deberá proporcionarse orientación al interesado para que acuda a la autoridad o servidor público que le corresponda conocer del asunto. Se dejará constancia de ello mediante el acuerdo respectivo.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 33.
 
-Una vez admitida la queja deberá hacerse del conocimiento a las autoridades señaladas como responsables, así como al superior jerárquico, utilizando en casos de urgencia cualquier medio de comunicación, incluidos los electrónicos y solicitará a dichas autoridades o servidores públicos rindan un informe sobre los actos u omisiones que se les atribuyan en la queja, el cual deberán presentar dentro de un plazo máximo de diez días naturales y por los medios que sean convenientes, de acuerdo con el caso.
+Una vez admitida la queja deberá hacerse del conocimiento a las autoridades señaladas como responsables, así como al superior jerárquico, utilizando en casos de urgencia cualquier medio de comunicación, incluidos los electrónicos y solicitará a dichas autoridades o servidores públicos rindan un informe sobre los actos u omisiones que se les atribuyan en la queja, el cual deberán presentar dos días antes de la audiencia señalada para conciliar el asunto planteado, misma que se fijará dentro de los diez días naturales posteriores a la admisión de su queja.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 34.
 
-Registrada cualquier queja, el Presidente o el Visitador se pondrá en contacto con la autoridad señalada como responsable de la violación de Derechos Humanos, buscando una conciliación entre los intereses de las partes involucradas, siempre y cuando la naturaleza del caso lo permita de acuerdo a esta Ley, lo anterior dentro del marco del respeto a la dignidad humana de los quejosos, a fin de lograr una solución inmediata del conflicto.
+Registrada cualquier queja, el Presidente o el Visitador se pondrá en contacto con la autoridad señalada como responsable de la violación de Derechos Humanos, buscando una conciliación entre los intereses de las partes involucradas, la que se desahogará oralmente, dejando asentado por escrito de manera sucinta el acuerdo que hayan llegado las partes o su negativa, siempre y cuando la naturaleza del caso lo permita de acuerdo a esta Ley, lo anterior dentro del marco del respeto a la dignidad humana de los quejosos, a fin de lograr una solución inmediata del conflicto.
+
+La conciliación procederá sólo cuando exista la aceptación del sujeto agraviado y el reconocimiento de la autoridad de que ha cometido una violación a los Derechos Humanos.
+
+El acuerdo de la conciliación deberá contener el compromiso de la autoridad a reparar el daño, la garantía de no repetir los actos y la atención a las víctimas, presentando las pruebas del cumplimiento en el momento oportuno.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 35.
 
-La comisión ordenará el archivo definitivo de algún expediente, cuando se haya logrado completamente una solución satisfactoria o el allanamiento de los responsables.
+La Comisión ordenará el archivo definitivo de algún expediente, cuando se haya logrado completamente una solución satisfactoria o el allanamiento de los responsables o en su caso se haya resuelto conforme lo establece su Reglamento Interno, con su respectivo seguimiento.
 
 ###### ARTÍCULO 36.
 
 Si presentada la queja, no se deducen los elementos mínimos que permitan la intervención de la Comisión, ésta requerirá por escrito al quejoso para que la aclare. Si después de haber requerido al quejoso, este omite hacerlo, se dejaran a salvo sus derechos a efecto de salvaguardar sus prerrogativas, debiéndosele notificar por estrados el respectivo acuerdo.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 37.
 
-En el informe que deberán rendir las autoridades señaladas como responsables contra las cuales se interponga queja, éstas harán constar los antecedentes del asunto, los fundamentos y motivaciones de sus actos u omisiones impugnadas, debiendo acompañar con el informe sus pruebas respectivas, así como los elementos documentales o de archivo electrónico relacionados con la información que considere necesaria.
+Las autoridades deberán rendir informe dentro de los dos días hábiles a aquel en que se celebre la audiencia de conciliación, en el harán constar los antecedentes del asunto, el fundamento y motivación de los actos que se le imputan, acompañar las pruebas en que funden dichos actos, así como las pruebas o archivos de cualquier naturaleza relacionados con la información que considere necesario.
 
-La falta de rendición del informe o de la documentación que lo apoye, o bien el retraso injustificado en su presentación, serán sancionadas conforme a lo establecido por el Reglamento de esta Ley.
+La falta de rendición de informe o pruebas en que apoye sus resolución o actos o bien el retraso injustificado en su presentación, tendrá por efecto ciertos los hechos materia de la misma, salvo prueba en contrario. De lo anterior, la Comisión dará cuenta inmediata ala autoridad sancionadora, con efectos de denuncia, para los efectos que haya lugar.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 38.
 
-Rendido el informe correspondiente, su contenido se hará del conocimiento del quejoso, explicándole y orientándole sobre el mismo, para que en un término no mayor de diez días naturales, manifieste lo que a su derecho convenga y aporte los elementos que formen evidencia para sustentar la queja.
+Rendido el informe correspondiente, su contenido se hará del conocimiento del quejoso, explicándole y orientándole sobre el mismo para que en caso de no llegar a un acuerdo en la audiencia de conciliación o de no llegar a consumarse, en un término no mayor de diez días naturales, manifieste lo que a su derecho convenga y aporte los elementos de prueba para sustentar la queja.
 
 ### CAPÍTULO SEGUNDO. DE LAS EVIDENCIAS
 
@@ -491,9 +549,11 @@ Las actuaciones, recomendaciones, solicitudes y acuerdos de la Comisión se har�
 
 ### CAPÍTULO TERCERO. DE LAS MEDIDAS PRECAUTORIAS
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 44.
 
-El Presidente, los Visitadores y los encargados en turno de la Comisión, tendrán la facultad de solicitar en cualquier momento a las autoridades señaladas como responsables, que conforme a lo establecido por el Reglamento Interior de la Comisión, se tomen las medidas precautorias necesarias y suficientes para evitar la consumación irreparable de las presuntas violaciones denunciadas o reclamadas o la realización de daños de difícil reparación a los afectados, así como solicitar su modificación.
+El Presidente, los Visitadores y los encargados en turno de la Comisión, tendrán la facultad de solicitar en cualquier momento a las autoridades señaladas como responsables, que conforme a lo establecido por el Reglamento Interior de la Comisión, se tomen las medidas precautorias necesarias y suficientes para evitar la consumación irreparable de las presuntas violaciones denunciadas o reclamadas o la realización de daños de difícil reparación a los afectados, debiendo informar a esta Comisión sobre las medidas tomadas.
 
 ## TÍTULO CUARTO
 
@@ -547,9 +607,11 @@ La Comisión notificará tanto al quejoso como a la autoridad responsable dentro
 
 La Comisión deberá ordenar la publicación mediante estrados de las recomendaciones, acuerdos de no responsabilidad, solicitudes, cumplimientos e incumplimientos de recomendaciones.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 56.
 
-Ninguna autoridad o servidor público dará instrucciones a la Comisión con motivo de los resultados de la investigación regulados por esta Ley.
+Ninguna autoridad o servidor público dará instrucciones a la Comisión respecto de las actuaciones que se practiquen con motivo de la integración de un expediente, una gestión o cualquier actividad encaminada a la protección, divulgación, estudio, enseñanza y defensa de los derechos fundamentales, así como de los resultados de la investigación regulados por esta ley.
 
 ## TÍTULO QUINTO
 
@@ -668,3 +730,13 @@ Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para
 ###### ARTÍCULO TERCERO.
 
 Para los efectos del reglamento del Congreso del estado la presente reforma entrará en vigor el mismo día de su aprobación por el Pleno de la Asamblea.
+
+P.O. 20 DE MAYO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente se (sic) su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión de Derechos Humanos del Estado de Morelos, en un plazo no mayor a treinta días hábiles, contados a partir de la vigencia del presente Decreto, deberá expedir las reformas necesarias a su reglamentación interna.
