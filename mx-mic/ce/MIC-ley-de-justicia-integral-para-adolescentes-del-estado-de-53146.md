@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-justicia-integral-para-adolescentes-del-estado-de-53146"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-16"
-last_updated: "2007-01-16"
+last_updated: "2009-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE JUSTICIA INTEGRAL PARA ADOLESCENTES DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el martes 16 de enero del 2007.
 
@@ -281,7 +281,9 @@ IV. Secuestro, artículo 228;
 
 V. Trafico de personas, sus miembros y órganos, artículo 229 bis;
 
-VI. Extorsión, artículo 236 bis;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2009)</small>
+
+VI. Extorsión, artículos 236 y 236 bis;
 
 VIl. Asalto, artículo 237;
 
@@ -1196,3 +1198,9 @@ DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, en Morelia, Michoacán de O
 PRESIDENTE.- DIP. MAURlCIO MONTOYA MANZO. PRIMER SECRETARIO.- DIP. MARTÍN GODOY SÁNCHEZ.- SEGUNDO SECRETARIO.- DIP. JULIÁN RODRÍGUEZ SESMAS.- TERCER SECRETARIO.- DIP. JOSÉ JUAN MARÍN GONZÁLEZ. (Firmados).
 
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 19 diecinueve días del mes de diciembre del año 2006 dos mil.
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 21 DE MAYO DE 2009.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
