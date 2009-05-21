@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-5353
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-21"
-last_updated: "2007-08-16"
+last_updated: "2009-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2009.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el jueves 21 de diciembre de 2006.
 
@@ -133,19 +133,23 @@ El Presupuesto de Egresos en vigor, es el sustento inmediato para que la Secreta
 
 La Secretaría, para efectos de inclusión de acciones y programas dentro de la iniciativa de presupuesto de egresos, considerará, en los proyectos que remiten las dependencias entidades del Poder Ejecutivo, y los organismos autónomos, lo siguiente:
 
-I. Que exista sustento jurídico;
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2009)</small>
 
-II. Que exista suficiencia de recursos;
+I. Se hagan las previsiones presupuestales indispensables para los compromisos adquiridos con el Gobierno Federal mediante convenio, donde se comprometan recursos estatales;
 
-III. La prioridad derivada de los objetivos planteados en el Plan Estatal de Desarrollo;
+II. Que exista sustento jurídico;
 
-IV. Los compromisos de deuda pública;
+III. Que exista suficiencia de recursos;
 
-V. Las partidas irreductibles;
+IV. La prioridad derivada de los objetivos planteados en el Plan Estatal de Desarrollo;
 
-VI. La observancia de metas cumplidas en el ejercicio inmediato anterior, y
+V. Los compromisos de deuda pública;
 
-VII. Que se hayan entregado a más tardar el treinta de septiembre del año anterior a su fecha de vigencia.
+VI. Las partidas irreductibles;
+
+VII. La observancia de metas cumplidas en el ejercicio inmediato anterior, y
+
+VIII. Que se hayan entregado a más tardar el treinta de septiembre del año anterior a su fecha de vigencia.
 
 Los poderes Legislativo, y Judicial, deben presentar sus proyectos de presupuesto al Ejecutivo del Estado, a más tardar el quince de octubre del año anterior a su fecha de vigencia.
 
@@ -672,3 +676,7 @@ P.O. 16 DE AGOSTO DE 2007.
 PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 21 DE MAYO DE 2009.
+
+UNICO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
