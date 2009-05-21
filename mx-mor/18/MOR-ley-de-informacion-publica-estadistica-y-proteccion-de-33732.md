@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-informacion-publica-estadistica-y-proteccion-de-33732"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-27"
-last_updated: "2008-12-24"
+last_updated: "2009-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE INFORMACION PUBLICA, ESTADISTICA Y PROTECCION DE DATOS PERSONALES DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de agosto de 2003.
 
@@ -141,9 +141,71 @@ La ley es de observancia obligatoria para todas las entidades públicas a que ha
 
 La Ley tutela todo lo referente a la formulación, producción, procesamiento, administración, sistematización, archivo y resguardo de la información pública en posesión de las entidades y personas previstas en este ordenamiento, y que no sea de competencia exclusiva de la Federación de acuerdo con lo dispuesto en el último párrafo del artículo 6º de la Constitución Federal, y lo regulado por la Ley Federal de Transparencia e Información Pública Gubernamental.
 
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2009)</small>
+
 ###### Artículo 6.
 
-Este ordenamiento regula y organiza la integración y funcionamiento del Instituto Morelense de Información Pública y Estadística.
+Para efectos de esta Ley se entiende por:
+
+1. Acuerdo de clasificación.- El que realiza el Consejo de Información Clasificada sobre la información que tiene carácter de reservada.
+
+2. Consejo de Información Clasificada (CIC).- Órgano colegiado que se integrará en cada una de las entidades públicas para resolver sobre la información que deberá clasificarse como reservada y confidencial; así como para atender y resolver los requerimientos de las unidades administrativas y el Instituto en relación con las solicitudes de información y la acción de habeas data.
+
+3. Constitución.- Constitución Política del Estado Libre y Soberano de Morelos.
+
+4. Derecho de Acceso a la Información Pública.- Prerrogativa de las personas para acceder a la información en posesión de los sujetos obligados.
+
+5. Datos personales.- La información concerniente a una persona física, identificada o identificable, relativa a sus características físicas y datos generales como son: domicilio, estado civil, edad, sexo, número telefónico y datos patrimoniales; así como los que corresponden a una persona en lo referente a su origen racial y étnico; las opiniones políticas, convicciones filosóficas, religiosas, morales; afiliación sindical o política; preferencias sexuales; estados de salud físicos o mentales, relaciones familiares o conyugales u otras análogas que afecten la intimidad.
+
+6. Derecho de acceso a la información pública.- Prerrogativa que tiene toda persona para acceder a la información creada, administrada o en poder de los sujetos obligados por el presente ordenamiento.
+
+7. Documento.- Oficios, acuerdos, correspondencia, directivas, circulares, minutas, expedientes, reportes, estudios, contratos, actas, convenios, resoluciones, instructivos, memorandos, notas, estadísticas, sondeos, encuestas, expresiones y representaciones materiales que den constancia de un hecho o acto del pasado del presente de las entidades y servidores públicos en el ejercicio de sus funciones, cualquier otro registro que documente la existencia y actividades de los sujetos obligados sin excepción de su fuente, tipo o fecha de elaboración los documentos pueden ser papeles escritos o en cualquier medio o formato impreso, sonoro electrónico, fotográfico, gráfico, visual, holográfico, electrónico o digital.
+
+8. Estado.- Estado Libre y Soberano de Morelos.
+
+9. Entidades Públicas.- Poder Ejecutivo del Estado, Gobernador Constitucional del Estado, las dependencias y entidades de la Administración Pública Estatal y Paraestatal, la Defensoría Pública; el Poder Legislativo del Estado: todas sus comisiones y órganos internos, la Diputación Permanente, la Auditoría Superior de Fiscalización y todas las dependencias administrativas del Congreso del Estado; el Poder Judicial del Estado, el Consejo de la Judicatura Estatal, todos los juzgados y órganos colegiados jurisdiccionales y administrativos, el Tribunal Estatal Electoral y el Tribunal de lo Contencioso Administrativo; los Ayuntamientos y cabildos de los Municipios, Presidente Municipal, Regidores y Síndicos, todas las entidades y dependencias de la administración pública municipal y paramunicipal los fideicomisos públicos; la Universidad Autónoma del Estad e Morelos, el Instituto Estatal Electoral, la Comisión Estatal de Derechos Humanos y el Instituto de Desarrollo y Fortalecimiento Municipal; los órganos autónomos constitucionales y los órganos autónomos legales; así como todas las entidades a las que la Constitución, las leyes estatales y los reglamentos municipales reconozcan como de interés público.
+
+10. Encuesta.- Acopio de datos obtenidos mediante consulta, referentes a estados de opinión, costumbres, nivel económico o cualquier otro aspecto de la actividad humana. En ningún caso las encuestas tendrán efectos vinculatorios.
+
+11. Estadística.- Censo o recuento referente a la población, recursos naturales, industriales, materiales o cualquier otra manifestación del Estado o Municipio, que realizará el instituto de manera científica e imparcial.
+
+12. Habeas data.- Tutela de los datos personales en ejercicio del derecho a la privacidad de las personas.
+
+13. Información confidencial.- Es la que contiene datos personales relativos a las características físicas, morales o emocionales, origen étnico o racial, domicilio, vida familiar, privada, íntima y afectiva, patrimonio, número telefónico, correo electrónico, ideología, opiniones políticas, preferencias sexuales y toda aquella información susceptible de ser tutelada por los derechos humanos a la privacidad, intimidad, honor y dignidad, que se encuentra en posesión de alguno de los sujetos obligados y sobre la que no puede realizarse ningún acto o hecho sin la autorización debida de los titulares o sus representantes legales.
+
+14. Información Pública.- Información contenida en los documentos que se encuentren en posesión de las entidades y sujetos obligados, así como la que derive de las estadísticas, sondeos y encuestas realizados para la toma de decisiones y cumplimiento de las funciones constitucionales y legales de las autoridades correspondientes.
+
+15. Información Pública de Oficio.- La información que las entidades y servidores públicos están obligados a difundir de manera obligatoria, permanente y actualizada sin que medie para ello solicitud de acceso.
+
+16. Información reservada.- Aquella clasificada con carácter temporal como restringida al acceso del público.
+
+17. Instituto.- Instituto Morelense de Información Pública y Estadística (IMIPE).
+
+18. Interés público.- Valoración positiva que se asigna a determinada información con el objeto de que sea conocida por el público, para que puedan formarse opiniones y tomar decisiones, con énfasis en el interés general, respeto a la legalidad y a los valores de la democracia
+
+19. Ley.- Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos.
+
+20. Ley de Documentación.- La Ley General de Documentación del Estado de Morelos.
+
+21. Partidos Políticos.- Cualquier partido político organización o agrupación política de cualquier tipo, nacional o estatal, que reciba financiamiento público con cargo al presupuesto del Estado de Morelos.
+
+22. Pleno. - El Pleno del Consejo del Instituto.
+
+23. Prueba de daño.- Procedimiento para valorar, mediante elementos objetivos o verificables, que la información clasificada daña el interés público protegido al ser difundida;
+
+24. Reglamento.- Reglamento de la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos.
+
+25. Servidores Públicos.- Toda persona que trabaje, preste servicios o colabore en cualquier de las entidades públicas estatales y municipales.
+
+26. Sistema Estatal de Documentación y Archivos.- Red de coordinación interinstitucional a la que se integrarán todos los archivos históricos y de gestión que formen parte de las entidades públicas, dependiente del Instituto Estatal de Documentación, así como con relación a los archivos privados que pasean documentos de interés público e histórico en términos de lo que establezca la Ley de Documentación.
+
+27. Sujetos obligados.- Todas las entidades públicas a que se refiere la fracción IX del presente artículo, los servidores públicos a ellas adscritos; así corno todas las personas físicas o morales que reciban y ejerzan gasto público y actúen en auxilio de las entidades públicas, y todas las demás a que se refiere esta ley.
+
+28. Sondeo.- Técnica de investigación que consiste en formular una encuesta a muestras representativas de la población, para conocer el sentir de la opinión pública sobre temas determinados. En ningún caso los sondeos tendrán efectos vinculatorios.
+
+29. Unidad de Información Pública (UDIP).- Las unidades administrativas de cada una de las entidades públicas, responsables de atender las solicitudes de acceso a la información pública.
+
+30. Versión pública.- Documento en el que se testa o elimina la información correspondiente a los datos personales para permitir su acceso.
 
 ### CAPÍTULO SEGUNDO.. OBJETIVOS Y DEFINICIONES
 
@@ -159,13 +221,27 @@ La presente ley tiene como objetivos:
 
 4. Organizar con criterios científicos y técnicos adecuados y bajo los principios de imparcialidad, confiabilidad, periodicidad, oportunidad e independencia; la formulación, producción, sistematización, procesamiento y difusión de las estadísticas, sondeos y encuestas relacionadas con el ejercicio de las funciones que corresponden a las entidades públicas estatales y municipales.
 
-5. Establecer las bases técnicas e institucionales para la organización y funcionamiento del Sistema Estatal de Documentación y Archivos, considerado como una red de coordinación interinstitucional a la que se integrarán todos los archivos históricos y de gestión que formen parte de las entidades públicas. Así como con relación a los archivos privados que posean documentos de interés público e histórico de acuerdo con los objetivos de esta ley.
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2009)</small>
+
+5. Proponer las bases técnicas e institucionales para la organización y protección de la documentación y archivos de los entes públicos en términos de la Ley de Documentación.
 
 6. Contribuir a la rendición de cuentas de los poderes públicos entre sí, y a la transparencia y rendición de cuentas hacia los ciudadanos y la sociedad.
 
 7. Regular la instrumentación del principio republicano de publicidad de los actos, normas, trámites, procedimientos y decisiones de los poderes públicos estatales y municipales, e incentivar la participación ciudadana y comunitaria.
 
 8. Contribuir al establecimiento y desarrollo del Estado social y democrático de derecho, a la promoción de la educación y cultura cívica democrática y al mejoramiento de la vida y convivencia social.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2009)</small>
+
+9. Asegurar procedimientos sencillos y expeditos para acceder a la información pública, así como a sus datos personales.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2009)</small>
+
+10. Garantizar una adecuada y oportuna rendición de cuentas de los sujetos obligados a través de la generación y publicación de información sobre indicadores de gestión y el ejercicio de los recursos públicos de manera completa, veraz, oportuna y comprensible.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2009)</small>
+
+11. Garantizar el principio democrático de máxima publicidad de los actos, normas, trámites, procedimientos y decisiones de los poderes públicos estatales y municipales, e incentivar la participación ciudadana y comunitaria.
 
 ###### Artículo 8.
 
@@ -261,9 +337,25 @@ Para la interpretación de esta Ley el derecho de acceso a la información públ
 
 En el caso de que cualquier disposición de la ley o de los tratados internacionales aplicables en la materia pudieran tener varias interpretaciones deberá prevalecer aquella que proteja con mejor eficacia el derecho de acceso a la información pública.
 
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2009)</small>
+
 ###### Artículo 19.
 
-Cuando resulte algún conflicto entre métodos de interpretación sin que se afecte el derecho de acceso a la información pública, prevalecerá el elemento democrático teleológico; seguirá en jerarquía el método sistemático, sustentado en el principio de seguridad jurídica; le seguirá el histórico u originalista, que se basa en la exposición de motivos de esta Ley y en los debates de su proceso de creación; y en última instancia, se atenderá al método literal.
+En la aplicación e interpretación de la presente ley, se considerarán los siguientes principios:
+
+I. CONSENTIMIENTO.- Toda manifestación de voluntad, libre inequívoca, específica e informada, mediante la que el interesado consienta el tratamiento de los datos personales que le conciernen;
+
+II. GRATUIDAD.- Relativo al no costo del ejercicio del derecho de acceso a la información;
+
+III. INMEDIATEZ.- Relativo a la celeridad con que se atiendan las solicitudes de información;
+
+IV. MÁXIMA PUBLICIDAD.- Relativo a privilegiar el interés público así como la difusión de información pública, útil, oportuna y de interés, relativa al ejercicio de las atribuciones u obligaciones de los sujetos obligados;
+
+V. OPORTUNIDAD.- Relativo a que la información pública que liberen los sujeto obligados sea pertinente, adecuada y entregada dentro de los plazos que marca la presente;
+
+VI. SENCILLEZ.- Relativo a la disminución de las formalidades que deben tener los procedimientos para acceder a la información, las cuales deben ser mínimas y facilitar el acceso a la información pública; y
+
+VII. TRANSPARENCIA.- Relativo a hacer asequible a la población el ejercicio de la función pública a través de la difusión de información, facilitando su acceso y disposición.
 
 ## TÍTULO II.. DE LOS SUJETOS DE LA LEY
 
@@ -317,17 +409,21 @@ La información pública localizada y localizable en los archivos de gestión no
 
 Con relación a la información, documentos y expedientes que formen parte de los archivos históricos no procede ninguna de las excepciones aplicables a los archivos de gestión. Los servidores públicos que incumplan el presente y el anterior artículo podrán ser destituidos de su cargo y ser sujetos de responsabilidad administrativa, civil o penal.
 
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2009)</small>
+
 ###### Artículo 31.
 
-El Sistema Estatal de Documentación y Archivos dependiente del Instituto será la unidad administrativa responsable de aplicar las regulaciones que se establezcan en materia de administración y sistematización de la documentación e información en posesión de las entidades públicas, así como de organizar y sistematizar la integración, administración y resguardo de los archivos de gestión y los archivos históricos, con este objeto se considerarán las opiniones técnicas de las unidades de información pública de cada entidad.
+El Instituto emitirá las bases en materia de administración y sistematización de la documentación e información en posesión de las entidades públicas, en términos de lo que establezca la Ley de Documentación.
 
 ## TÍTULO III.. DE LA INFORMACIÓN PÚBLICA QUE DEBE DIFUNDIRSE DE OFICIO
 
 ### CAPÍTULO PRIMERO.. DEL CONTENIDO DE LA INFORMACIÓN PÚBLICA DE OFICIO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MAYO DE 2009)</small>
+
 ###### Artículo 32.
 
-Es obligación de las entidades poner a disposición del público, difundir y actualizar, sin que medie ninguna solicitud al respecto, la siguiente información:
+Es obligación de las entidades poner a disposición del público, difundir y actualizar, además de la que de manera específica se señala en este capítulo, sin que medie ninguna solicitud al respecto, la siguiente información:
 
 1. Índices y catálogos de información en posesión de cada entidad pública, dependencia y unidad administrativa.
 
@@ -379,7 +475,9 @@ Cuando se trate del otorgamiento de concesiones, licencias, permisos o autorizac
 
 22. Informes anuales de actividades, balances generales y estados financieros de las entidades Públicas Estatales y Municipales
 
-23. Iniciativas de ley, dictámenes de iniciativas, diario de los debates, minutas de trabajo de comisiones legislativas, órdenes del día de las sesiones públicas, puntos de acuerdo y resoluciones diversas tomadas por las comisiones de gobierno interior y legislativas, por el Pleno o la Diputación Permanente.
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2009)</small>
+
+23. Iniciativas de ley, dictámenes de ley iniciativas, diario de los debates, minutas de trabajo de comisiones legislativas, órdenes del día de las sesiones públicas, puntos de acuerdo y resoluciones diversas tomadas por las comisiones legislativas, que hayan sido conocidos por el Pleno de la Asamblea.
 
 24. Información sobre la ejecución del presupuesto aprobado para el Poder Legislativo, el Poder Judicial, los órganos constitucionales, los órganos legales y todas las entidades públicas previstas en la presente ley, que deberá actualizarse trimestralmente. En el caso del Congreso del Estado deberán detallarse los montos asignados a las fracciones parlamentarias, a las comisiones legislativas, a la Diputación Permanente, a las comisiones de gobierno interior y legislativas y a cada uno de los diputados que integran la legislatura correspondiente, así como los criterios de asignación, el tiempo de ejecución, los mecanismos de evaluación y los responsables de su recepción y ejecución final. El Poder Judicial además deberá informar acerca de los montos recibidos por concepto de depósitos judiciales y fianzas, los nombres de quienes los reciben, administran y ejercen, el uso y calendario de aplicación.
 
@@ -415,6 +513,10 @@ Cuando se trate del otorgamiento de concesiones, licencias, permisos o autorizac
 
 40. Información sobre los ingresos de las entidades públicas.
 
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2009)</small>
+
+41. La profesión y cédula profesional de los servidores públicos que por disposición legal, normativa, técnica o administrativa, deban acreditar que cuentan con la misma, para el desempeño de su función o encargo.
+
 ###### Artículo 33.
 
 Es obligación de los partidos políticos, poner a disposición del público, difundir y actualizar, sin que medie ninguna solicitud al respecto, la siguiente información:
@@ -445,9 +547,11 @@ Es obligación de los partidos políticos, poner a disposición del público, di
 
 ### CAPÍTULO SEGUNDO.. PROCEDIMIENTOS PARA DIFUNDIR INFORMACIÓN
 
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2009)</small>
+
 ###### Artículo 34.
 
-Tratándose de entidades públicas, el Instituto expedirá la reglamentación necesaria para que la consulta de información a la que se refiere el artículo 32 sea de fácil acceso, uso y comprensión del público y responda a criterios de calidad, veracidad, confiabilidad y oportunidad. Además, establecerá los (sic) funciones básicas y los mecanismos de coordinación institucional del Sistema Estatal de Documentación y Archivo.
+Tratándose de entidades públicas, el instituto expedirá la reglamentación necesaria para que la consulta de información a la que se refiere el artículo 32 sea de fácil acceso, uso y comprensión del público y responda a criterios de calidad, veracidad, confiabilidad y oportunidad.
 
 ###### Artículo 35.
 
@@ -571,9 +675,11 @@ Los titulares de las entidades públicas tomarán las medidas necesarias para qu
 
 Las entidades y servidores públicos están obligados a resguardar toda la información de carácter personal y no podrán entregarla a quien la solicite, salvo autorización expresa de la persona directamente afectada o de su representante legal.
 
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2009)</small>
+
 ###### Artículo 55.
 
-Las unidades de información pública, responsables de atender las solicitudes de información y en coordinación con el Sistema Estatal de Documentación y Archivos, establecerán las medidas técnicas necesarias para sistematizar y archivar con fines lícitos y legítimos la información que contenga datos personales.
+Las unidades de información pública, responsables de atender las solicitudes de información en coordinación con el Instituto, establecerán las medidas técnicas necesarias para sistematizar y archivar con fines lícitos y legítimos la información que contenga datos personales.
 
 ###### Artículo 56.
 
@@ -589,9 +695,11 @@ La administración, procesamiento, actualización y resguardo deberán realizars
 
 ### CAPÍTULO SEGUNDO.. DEL EJERCICIO DE LA ACCIÓN DE HABEAS DATA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MAYO DE 2009)</small>
+
 ###### Artículo 59.
 
-El Sistema Estatal de Documentación y Archivos y las unidades administrativas responsables dispondrán de los medios necesarios para que las personas interesadas estén en condiciones de ejercer la acción de habeas data para asegurarse que:
+Instituto y las unidades administrativas responsables dispondrán de los medios necesarios para que las personas interesadas estén en condiciones de ejercer la acción de habeas data para asegurarse que:
 
 1. Los datos personales en posesión de la autoridad siguen siendo necesarios para cumplir los fines para los que fueron requeridos.
 
@@ -663,9 +771,11 @@ Las unidades a que se refiere el presente artículo, se integrarán siempre por 
 
 Las unidades de información pública contarán con el presupuesto, personal, apoyo técnico e instalaciones necesarias para realizar las funciones que señala la presente ley.
 
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2009)</small>
+
 ###### Artículo 70.
 
-Las unidades de información pública establecerán mecanismos de coordinación permanente entre sí, en el marco del Sistema Estatal de Documentación y Archivo y en los términos establecido por la ley, por el instituto y por las leyes orgánicas y acuerdos de creación de las entidades públicas correspondientes.
+Las unidades de información pública establecerán mecanismos de coordinación permanente entre sí, en los términos establecido por esta ley, la Ley de Documentación y por las leyes orgánicas y acuerdos de creación de las entidades públicas correspondientes.
 
 ###### Artículo 71.
 
@@ -719,7 +829,9 @@ En cada entidad pública se integrará un consejo de información clasificada qu
 
 7. Realizar los trámites y gestiones necesarios ante las entidades públicas que corresponda para cumplir con sus funciones.
 
-8. Supervisar dentro de la entidad pública que corresponda la aplicación de las disposiciones emitidas por el Instituto, el Sistema Estatal de Documentación y Archivo y los titulares de las dependencias con el objeto de hacer cumplir la presente ley.
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2009)</small>
+
+8. Supervisar dentro de la entidad pública que corresponda la aplicación de esta Ley, los lineamientos emitidos por el Instituto, y acuerdos de los titulares de las dependencias con el objeto de hacer cumplir la presente ley.
 
 9. Elaborar el informe anual que cada entidad pública deberá enviar al instituto en el que se de cuenta de la aplicación de la presente ley.
 
@@ -831,9 +943,11 @@ Todas las solicitudes de acceso a la información con sus respectivas respuestas
 
 El instituto Morelense de Información Pública y Estadística es un órgano constitucional autónomo de acuerdo con lo previsto en el artículo 23-A de la Constitución Política del Estado de Morelos. Por lo tanto, es una entidad pública con naturaleza jurídica, patrimonio propio, distinta e independiente de los poderes públicos del Estado y de los organismos y dependencias creadas por disposición legal.
 
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2009)</small>
+
 ###### Artículo 94.
 
-El instituto tiene por objeto vigilar el cumplimiento de la presente ley. En el ámbito estatal sus resoluciones son definitivas y todas las entidades públicas y sujetos obligados deberán acatarlas.
+El instituto tiene por objeto vigilar el cumplimiento de la presente ley.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -843,59 +957,61 @@ A más tardar, la segunda semana del mes de mayo de cada año el Instituto, a tr
 
 El informe anual será analizado por el órgano político del Congreso el cual emitirá en su caso, las recomendaciones y sugerencias que considere pertinentes. Los consejeros del Instituto conforme a lo dispuesto por la Ley Orgánica del Congreso, comparecerán ante comisiones legislativas a rendir los informes que se les requieran o ampliar la información contenida en el informe anual. Las comparecencias podrán realizarse de manera colegiada o individual cuando así lo determine el órgano político del Congreso del Estado, la Junta Política y de Gobierno del Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2009)</small>
+
 ###### Artículo 96.
 
-El Instituto funcionará de forma colegiada en reunión de consejo, en los términos que señale su reglamento, todas sus acciones, deliberaciones y resoluciones tendrán el carácter de públicas, y tendrá las siguientes atribuciones:
+El Instituto funcionará de forma colegiada en reunión de pleno del consejo, en los términos que señale su reglamento, todas sus acciones, deliberaciones y resoluciones tendrán el carácter de públicas, y tendrá las siguientes atribuciones:
 
-1. Interpretar y aplicar las disposiciones de la presente ley.
+1. Aplicar las disposiciones de la presente ley.
 
 2. Recibir, dar trámite y resolver los recursos que interpongan las personas que hubiesen solicitado información a las entidades públicas.
 
-3. Establecer las disposiciones reglamentarias y técnicas necesarias para que las unidades de información pública y los consejos de información clasificada realicen la clasificación, desclasificación, administración, archivo y resguardo de la información reservada y confidencial que corresponda.
+3. Emitir los lineamientos generales para que las unidades de información pública y los consejos de información reservada así como para la administración, archivo y resguardo de la información que corresponda.
 
-4. Conocer y resolver los recursos que se interpongan en ejercicio de la acción de habeas data.
+4. Conocer y resolver los recursos que se interpongan en ejercicio de la acción dé habeas data.
 
-5. Establecer las bases técnicas e institucionales para la organización y funcionamiento del Sistema Estatal de Documentación y Archivos, considerado como una red de coordinación interinstitucional a la que se integrarán todos los archivos históricos y de gestión que formen parte de las entidades públicas. Así como en relación a los archivos privados que posean documentos de interés público e histórico de acuerdo con los objetivos de esta ley.
+5. Establecer las normas para la realización de las estadísticas, sondeos y encuestas que se requieran para el cumplimiento de las funciones públicas, y que garanticen la imparcialidad, objetividad, transparencia, contabilidad, periodicidad, oportunidad e independencia de las mismas.
 
-6. Establecer las normas para la realización de las estadísticas, sondeos y encuestas que se requieran para el cumplimiento de las funciones públicas, y que garanticen la imparcialidad, objetividad, transparencia, confiabilidad, periodicidad, oportunidad e independencia de las mismas.
+6. Vigilar el desempeño del Sistema Estatal de Estadísticas, Sondeos y Encuestas.
 
-7. Los consejeros del instituto vigilarán el desempeño el Sistema Estatal de Estadísticas, Sondeos y Encuestas.
+7. Emitir los lineamientos y políticas generales para la administración, el manejo, mantenimiento, seguridad y protección de los datos personales en posesión de las entidades públicas;
 
-8. Establecer las normas y políticas para la administración, seguridad y resguardo de los datos personales en protección de las entidades públicas.
+8. Promover y asesorar en la formulación de iniciativas destinadas a adecuar las disposiciones legales, leyes orgánicas, decretos y acuerdos de las entidades públicas, conforme a lo dispuesto en la presente ley.
 
-9. Promover y asesorar en la formulación de iniciativas destinadas a adecuar las disposiciones legales, leyes orgánicas, decretos y acuerdos de las entidades públicas, conforme a lo dispuesto en la presente ley.
+9. Orientar y auxiliar a las personas para ejercer los derechos tutelados en la presente ley.
 
-10. Orientar y auxiliar a las personas para ejercer los derechos tutelados en la presente ley.
+10. Elaborar y publicar estudios, investigaciones y publicaciones para difundir y socializar el conocimiento de las materias objeto de esta ley, y sobre los probables impactos que provocaría el ejercicio de los derechos tutelados.
 
-11. Elaborar y publicar estudios, investigaciones y publicaciones para difundir y socializar el conocimiento de las materias objeto de esta ley, y sobre los probables impactos que provocaría el ejercicio de los derechos tutelados.
+11. Cooperar con el Instituto Federal de Acceso a la Información Pública en el cumplimiento de las funciones de ambas entidades.
 
-12. Cooperar con el Instituto Federal de Acceso a la Información Pública en el cumplimiento de las funciones de ambas entidades.
+12. Cooperación con los sujetos obligados en el cumplimiento de la ley de manera directa e inmediata o mediante la celebración de programas y acuerdos.
 
-13. Cooperar con los sujetos obligados en el cumplimiento de la ley de manera directa e inmediata o mediante la celebración de programas y acuerdos.
+13. Promover la rendición de cuentas de los poderes públicos entre sí, y la transparencia y rendición de cuentas hacia los ciudadanos y la sociedad.
 
-14. Promover la rendición de cuentas de los poderes públicos entre sí, y la transparencia y rendición de cuentas hacia los ciudadanos y la sociedad.
+14. Promover la regulación e instrumentación del principio republicano de publicidad de los actos y decisiones, así como el libre acceso a las reuniones de los poderes públicos estatales y municipales e incentivar la participación ciudadana y comunitaria
 
-15. Promover la regulación e instrumentación del principio republicano de publicidad de los actos y decisiones, así como el libre acceso a las reuniones de los poderes públicos estatales y municipales e incentivar la participación ciudadana y comunitaria.
+15. Requerir, recibir y sistematizar los informes mensuales que deberán enviarle las entidades públicas.
 
-16. Requerir, recibir y sistematizar los informes mensuales que deberán enviarle las entidades públicas.
+16. Elaborar su Reglamento Interior.
 
-17. Elaborar su Reglamento Interior y las disposiciones necesarias para el cumplimiento del mismo.
+17. Designar a los servidores públicos y empleados del Instituto.
 
-18. Designar a los servidores públicos y empleados del Instituto. Los funcionarios del instituto encargados de realizar las estadísticas, sondeos y encuestas, en ningún caso podrán pertenecer a un partido político o haber sido funcionarios, un año antes de su designación, de alguno de los poderes del Estado.
+Los funcionarios del instituto encargados de realizar las estadísticas, sondeos y encuestas, en ningún caso podrán pertenecer a un partido político o haber sido funcionarios, un año antes de su designación, de alguno de los poderes del Estado.
 
-19. Elaborar el informe anual que rendirá ante el Pleno del Congreso del Estado.
+18. Elaborar el informe anual que entregará a los treinta diputados del Congreso del Estado.
 
-20. Preparar su proyecto de presupuesto anual que será enviado por conducto del Gobernador al Congreso del Estado, y administrar los recursos humanos, bienes y patrimonio del instituto.
+19. Preparar su proyecto de presupuesto anual que será enviado por conducto del Gobernador al Congreso del Estado, y administrar los recursos humanos, bienes y patrimonio del instituto.
 
-21. Imponer a los servidores públicos, a los partidos políticos y a los sujetos obligados en la presente ley las sanciones que correspondan de acuerdo con la misma.
+20. Imponer a los servidores públicos, a los partidos políticos y a los sujetos obligados en la presente ley las sanciones que correspondan de acuerdo con la misma.
 
-22. Proponer al Congreso las modificaciones y adecuaciones convenientes a las normas que rigen el sistema de documentación y archivo, para ajustarlos paulatinamente con los fines del propio instituto.
+21. Hacer del conocimiento del Congreso las modificaciones y adecuaciones convenientes a las normas que rigen el sistema de documentación y archivo, en términos de esta Ley y de la Ley de Documentación.
 
-23. Solicitar al Instituto Estatal Electoral se descuenten de las prerrogativas de los partidos políticos las multas a que se hayan hecho acreedores.
+22. Solicitar al Instituto Estatal Electoral se descuenten de las prerrogativas de los partidos políticos las multas a que se hayan hecho acreedores.
 
-24. Realizar reuniones o foros anuales, de carácter público, para discutir y analizar la aplicación y alcances de la presente ley.
+23. Realizar reuniones o foros anuales, de carácter público, para discutir y analizar la aplicación y alcances de la presente ley.
 
-25. Las demás que le confiera esta Ley, su Reglamento y cualquier otra disposición aplicable.
+24. Las demás que le confiera esta Ley, su Reglamento y cualquier otra disposición aplicable.
 
 ###### Artículo 97.
 
@@ -931,7 +1047,7 @@ Los servidores públicos que integran el instituto se sujetarán al régimen de 
 
 ###### Artículo 99.
 
-El Sistema Estatal de Documentación y Archivo es una dependencia del Instituto y funcionará como instancia de coordinación, regulación y supervisión de las unidades de información pública integradas en cada entidad para cumplir las disposiciones de la presente ley.
+(DEROGADO, P.O. 21 DE MAYO DE 2009)
 
 ### CAPÍTULO SEGUNDO.. DE LA INTEGRACIÓN DEL INSTITUTO
 
@@ -949,6 +1065,8 @@ Los Consejeros serán electos por mayoría calificada del Pleno del Congreso. Pa
 
 Los Consejeros durarán en su encargo cuatro años y podrán ser reelectos hasta por un periodo más e inmediato. Este plazo no computará para los suplentes que no hayan ejercido el cargo como titulares.
 
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2009)</small>
+
 ###### Artículo 103.
 
 Para ser Consejero se requiere:
@@ -957,23 +1075,15 @@ Para ser Consejero se requiere:
 
 2. Tener treinta años cumplidos el día de su designación.
 
-3. No haber desempeñado responsabilidad directiva en partido político o asociación política alguna, así como no haber sido postulado a cargo de elección popular en los cinco años anteriores a la fecha de la convocatoria.
+3. No haber sido Secretario de Despacho, Procurador General de Justicia, Senador, Diputado Federal o Local, Integrante de Cabildo, dirigente de partido o asociación política, durante el año previo al día de su nombramiento.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+4. No haber sido ministro de culto religioso cuando menos dos años antes de su designación.
 
-4. No haber sido servidor público de ninguno de los poderes estatales o municipales, del Consejo de la Judicatura, la Auditoría Superior de Fiscalización, la Comisión de Derechos Humanos del Estado de Morelos o el Instituto Electoral del Estado, por lo menos dos años antes de su designación, salvo que hubieren desempeñado tareas académicas o de investigación de cualquier área pública.
+5. No haber sido sentenciado por delito doloso que merezca pena corporal.
 
-5. No haber sido ministro de culto religioso cuando menos dos años antes de su designación.
+6. Contar con título y cédula profesional de grado universitario a nivel licenciatura en cualquier campo del conocimiento.
 
-6. No haber sido sentenciado por delito doloso que merezca pena corporal.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
-
-7. Contar con título y cédula profesional a nivel licenciatura.
-
-8. Haberse desempeñado destacadamente y con prestigio en actividades profesionales, de servicio público, de investigación o académicas en materias relacionadas con los objetivos de la presente ley.
-
-9. Contar con una residencia efectiva en el estado cuando menos de 5 años previos a su designación.
+7. Contar con una residencia efectiva en el estado cuando menos de 5 años previos a su designación.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -1038,6 +1148,10 @@ En caso de que el escrito en el que se presente el recurso no sea lo suficientem
 ###### Artículo 111.
 
 Una vez recibido el recurso de inconformidad, el consejero presidente, en un plazo no mayor de tres días hábiles, lo turnará a un consejero quien será designado ponente y presentará al Pleno, en un plazo no mayor de veinte días naturales, el expediente con su proyecto de resolución. El Pleno resolverá en definitiva en un plazo no mayor de siete días hábiles.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE MAYO DE 2009)</small>
+
+El reglamento interno del Instituto señalará los supuestos en los que los consejeros deberán excusarse por algún impedimento para conocer de un caso concreto. Las partes en un recurso podrán asimismo recusar con causa a un Consejero. Corresponderá al Pleno calificar la procedencia de la recusación.
 
 ###### Artículo 112.
 
@@ -1279,7 +1393,7 @@ Artículo Octavo. El Instituto expedirá su reglamento interior dentro de los se
 
 Artículo Noveno. Los particulares podrán presentar las solicitudes de acceso a la información o de acceso y acción de Habeas Data un año después de la entrada en vigor de la Ley.
 
-Artículo Décimo.- Los sujetos obligados deberán, en un periodo no mayor de cinco años, completar la organización y funcionamiento de sus archivos administrativos, bajo los criterios establecidos por el Sistema Estatal de Documentación y Archivos del Instituto Morelense de Acceso a la Información Pública.
+Artículo Décimo. (DEROGADO, P.O. 21 DE MAYO DE 2009)
 
 Recinto Legislativo a los once días del mes de agosto de dos mil tres.
 
@@ -1368,3 +1482,25 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO SEGUNDO.
 
 Aprobado que sea, remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos previstos en los artículos 44 y 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 21 DE MAYO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo máximo de noventa días hábiles, el Congreso del Estado deberá realizar las adecuaciones necesarias a ley General de Documentación, a efecto de armonizarla con las disposiciones de este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Instituto, en un plazo de sesenta días hábiles, contados a partir de la entrada en vigor de este Decreto, deberá adecuar su Reglamento interior conforme a las disposiciones que establece el mismo.
+
+###### ARTÍCULO CUARTO.
+
+Los sujetos obligados deberán, en un periodo no mayor de cinco años, completar la organización y funcionamiento de sus archivos administrativos, bajo los criterios que establezca esta Ley y la Ley General de Documentación del Estado de Morelos.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
