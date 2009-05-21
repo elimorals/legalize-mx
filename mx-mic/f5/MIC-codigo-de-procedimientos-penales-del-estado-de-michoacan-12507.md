@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-penales-del-estado-de-michoacan-12507"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-08-31"
-last_updated: "2007-10-17"
+last_updated: "2009-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2009.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 31 de agosto de 1998.
 
@@ -250,6 +250,14 @@ a) Procurar atención médica y psicológica de urgencia;
 b) Restringir al agresor comunicación con la víctima; y,
 
 c) Restringir al agresor acercamiento con la víctima.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE MAYO DE 2009)</small>
+
+En caso de extorsión, el Ministerio Público podrá:
+
+a) Intervenir las comunicaciones de la víctima previo su consentimiento; y,
+
+b) Solicitar los informes y registros necesarios para demostrar el hecho.
 
 II.- Impedir que se pierdan, destruyan o alteren las huellas y vestigios del hecho delictuoso, los instrumentos o cosas objeto o productos del mismo;
 
@@ -3243,7 +3251,7 @@ IV.- Si dos reos han sido condenados por el mismo delito y se demuestra la impos
 
 V.- Cuando el reo haya sido condenado por los mismos hechos en dos juicios distintos. En este caso la revisión procederá respecto de la segunda sentencia.
 
-###### ARTÍCULO 489.
+###### ARTICULO 489.
 
 Presentación de la instancia de revisión.- El sentenciado que crea tener derecho a promover la revisión, acudirá por escrito al Presidente del Supremo Tribunal de Justicia para expresar la causa en que funde su petición, acompañando los documentos públicos que sirvan para acreditarla y copia certificada de la sentencia ejecutoria en que se le condenó, o de lo contrario, manifestará en qué archivo se encuentra el proceso.
 
@@ -3291,9 +3299,9 @@ II.- Que garantice las sanciones pecuniarias, que en su caso, puedan imponérsel
 
 III.- Que caucione el cumplimiento de las obligaciones a su cargo, que la ley establece en razón del proceso.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2009)</small>
 
-No procede conceder la libertad provisional bajo caución en los delitos graves previstos en los siguientes artículos del Código Penal: 57, homicidio culposo en agravio de dos o más personas, cometido por conductores de transporte de pasajeros o de carga, de servicio público o concesionado por autorización, permiso o licencia de autoridades competentes; 108, homicidio en perjuicio de prisioneros, consumado en el tipo de rebelión, por jefes o agentes de Gobierno y rebeldes; 109, rebelión, ejecutado por extranjeros; 120, evasión de presos, en el supuesto de que el sujeto activo facilite, al mismo tiempo o en un solo acto, la evasión de una o varias personas privadas de su libertad por la autoridad competente, por delito grave; 132, delincuencia organizada; 137 fracción VIII y último párrafo, ataques a las vías de comunicación en la modalidad de destrucción e inutilización de un campo de aviación particular o del Estado, y para realizar las conductas de que habla el citado precepto se valga de explosivos; 138, incendio de un vehículo del servicio público ocupado por una o más personas; 158, terrorismo; 162 corrupción de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho; 164 y 165 pornografía y turismo sexual de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho; 167, 168 y 168 Bis lenocinio y trata de personas; 186 A y 186 B, tortura; 203 bis, falsificación de documentos y uso de documentos falsos; 220, incesto; 228, secuestro; 229 bis, tráfico de personas, sus miembros y órganos; 236 bis, extorsión; 237 y 238, asalto; 240, violación; 246, abusos deshonestos perpetrados en las hipótesis normativas consistentes en la introducción, por medio de la violencia física o moral, por motivo de actos eróticos o cualquier otra causa, por vía anal o vaginal, de cualquier elemento o instrumento diferente al miembro viril, o cuando sin emplearse la violencia el ofendido no estuviere en posibilidades de resistir la conducta delictuosa; 264, homicidio simple intencional; 265, homicidio en riña o duelo; 267, homicidio calificado, ejecutado con las agravantes contempladas en el artículo 279; 270 fracciones IV y V, lesiones perpetradas dolosamente; 271, lesiones dolosas que pongan en peligro la vida; 283, parricidio; 283 bis, filicidio; 303 fracciones I, IV, V, VII, VIII y X, robo perpetrado con las calificativas a que se refieren las fracciones anotadas; 312 fracciones II y III y 313, abigeato; 330, último párrafo, despojo cometido por dos o más personas, únicamente por lo que respecta a los autores intelectuales y a quienes dirijan la ejecución del injusto penal; 334, daño en las cosas por incendio, inundación o explosión; 347 fracciones II y III y 348, delitos contra la ecología.
+No procede conceder la libertad provisional bajo caución en los delitos graves previstos en los siguientes artículos del Código Penal: 57, homicidio culposo en agravio de dos o más personas, cometido por conductores de transporte de pasajeros o de carga, de servicio público o concesionado por autorización, permiso o licencia de autoridades competentes; 108, homicidio en perjuicio de prisioneros, consumado en el tipo de rebelión, por jefes o agentes de Gobierno y rebeldes; 109, rebelión, ejecutado por extranjeros; 120, evasión de presos, en el supuesto de que el sujeto activo facilite, al mismo tiempo o en un solo acto, la evasión de una o varias personas privadas de su libertad por la autoridad competente, por delito grave; 132, delincuencia organizada; 137 fracción VIII y último párrafo, ataques a las vías de comunicación en la modalidad de destrucción e inutilización de un campo de aviación particular o del Estado, y para realizar las conductas de que habla el citado precepto se valga de explosivos; 138, incendio de un vehículo del servicio público ocupado por una o más personas; 158, terrorismo; 162 corrupción de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho; 164 y 165 pornografía y turismo sexual de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho; 167, 168 y 168 Bis lenocinio y trata de personas; 186 A y 186 B, tortura; 203 bis, falsificación de documentos y uso de documentos falsos; 220, incesto; 228, secuestro; 229 bis, tráfico de personas, sus miembros y órganos; 236 y 236 bis, extorsión; 237 y 238, asalto; 240, violación; 246, abusos deshonestos perpetrados en las hipótesis normativas consistentes en la introducción, por medio de la violencia física o moral, por motivo de actos eróticos o cualquier otra causa, por vía anal o vaginal, de cualquier elemento o instrumento diferente al miembro viril, o cuando sin emplearse la violencia el ofendido no estuviere en posibilidades de resistir la conducta delictuosa; 264, homicidio simple intencional; 265, homicidio en riña o duelo; 267, homicidio calificado, ejecutado con las agravantes contempladas en el artículo 279; 270 fracciones IV y V, lesiones perpetradas dolosamente; 271, lesiones dolosas que pongan en peligro la vida; 283, parricidio; 283 bis, filicidio; 303 fracciones I, IV, V, VII, VIII y X, robo perpetrado con las calificativas a que se refieren las fracciones anotadas; 312 fracciones II y III y 313, abigeato; 330, último párrafo, despojo cometido por dos o más personas, únicamente por lo que respecta a los autores intelectuales y a quienes dirijan la ejecución del injusto penal; 334, daño en las cosas por incendio, inundación o explosión; 347 fracciones II y III y 348, delitos contra la ecología.
 
 > <small>(ADICIONADO, P.O. 6 DE JULIO DE 2004)</small>
 
@@ -4328,3 +4336,7 @@ Se abroga la Ley para Prevenir y Sancionar la Tortura, aprobada en Decreto núme
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales que contravengan el presente Decreto.
+
+P.O. 21 DE MAYO DE 2009.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
