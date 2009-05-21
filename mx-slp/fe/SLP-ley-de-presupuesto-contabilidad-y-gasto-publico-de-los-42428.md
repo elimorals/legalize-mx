@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-contabilidad-y-gasto-publico-de-los-42428"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-04"
-last_updated: "2008-03-13"
+last_updated: "2009-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2009.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 4 de diciembre de 2004.
 
@@ -209,9 +209,11 @@ La misma obligación corresponde a las entidades y organismos intermunicipales, 
 
 Las tesorerías y contralorías correspondientes, tendrán facultad para verificar que toda erogación con cargo al presupuesto esté debidamente justificada, pudiendo rechazar cualquier gasto no aprobado.
 
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 19.
 
-Los ayuntamientos deberán presentar por escrito, en forma mensual al Congreso del Estado, dentro de los quince días siguientes a la conclusión de cada mes, informes financieros debidamente sancionados que contengan las erogaciones que hayan efectuado con base en su respectivo presupuesto de egresos.
+Los ayuntamientos deben presentar por escrito, en forma mensual al Congreso del Estado, por conducto de la Auditoría Superior del Estado, dentro de los quince días siguientes a la conclusión de cada mes, los informes financieros debidamente sancionados por el cabildo, que contengan las erogaciones que hayan efectuado con base en su respectivo presupuesto de egresos, y anexarán a éstos el soporte documental respectivo; en caso de dolo o negligencia no se dará prórroga para la entrega de dichos informes; además, se advierte que de no entregarlos en el tiempo establecido, la Auditaría Superior del Estado sancionará al o los funcionarios responsables, del acto, conforme a la ley respectiva.
 
 ###### ARTICULO 20.
 
@@ -376,3 +378,9 @@ SEPTIMO. La Auditoría Superior del Estado deberá implementar los mecanismos op
 P.O. 13 DE MARZO DE 2008.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE SAN LUIS POTOSÍ.
+
+P.O. 21 DE MAYO DE 2009.
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
