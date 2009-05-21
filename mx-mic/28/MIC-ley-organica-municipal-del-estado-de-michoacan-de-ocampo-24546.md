@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2008-02-28"
+last_updated: "2009-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: P.O. 28 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2009.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -1423,27 +1423,39 @@ Para ser jefe de tenencia, encargado del orden y jefe de manzana o auxiliar, se 
 
 Podrán nombrarse auxiliares de la Hacienda Municipal en las poblaciones que así lo ameríten, a juicio del Presidente Municipal, previa aprobación del Ayuntamiento.
 
-### Capítulo VIII. De los Comités de Desarrollo Integral de la Familia
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE MAYO DE 2009)</small>
+
+### Capítulo VIII. De las Unidades Municipales de Desarrollo Integral de la Familia
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MAYO DE 2009)</small>
 
 ###### Artículo 66.
 
-En cada Municipio funcionará un Comité de Desarrollo Integral de la Familia, que promoverá el bienestar social, cuyos objetivos serán:
+En cada Municipio funcionará una unidad administrativa o entidad encargada del Desarrollo Integral de la Familia, que promoverá el bienestar social, y cuyos objetivos serán:
 
 I. Fortalecer el núcleo familiar a través de la promoción social, que tienda al mejoramiento de la vida de las personas y de la sociedad en general;
 
-II. Realizar estudios e investigaciones sobre los problemas: de la familia, de los menores, de los ancianos, de los discapacitados, proponer alternativas de solución y en su caso aplicarlas;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2009)</small>
 
-III. Proporcionar servicios sociales a menores en estado de abandono, a discapacitados sin recursos y ancianos desamparados;
+II. Realizar estudios e investigaciones sobre los problemas: de la familia, de los menores, de las personas adultas mayores, de los discapacitados, proponer alternativas de solución y en su caso aplicarlas;
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2009)</small>
+
+III. Proporcionar servicios sociales a menores en estado de abandono, a discapacitados sin recursos y personas adultas mayores desamparados;
 
 IV. Coadyuvar en el fomento de la educación para la integración social a través de la enseñanza preescolar y extraescolar;
 
-V. Fomentar y, en su caso, proporcionar servicios de rehabilitación, a los menores infractores, ancianos, discapacitados y farmacodependientes;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2009)</small>
+
+V. Fomentar y, en su caso, proporcionar servicios de rehabilitación, a los menores infractores, personas adultas mayores, discapacitados y fármaco dependientes;
 
 VI. Apoyar y fomentar la nutrición y las acciones de medicina preventiva, dirigidas a los lactantes, las madres gestantes y población socialmente desprotegida;
 
 VII. Promover el desarrollo de la comunidad en territorio Municipal;
 
-VIII. Prestar servicios de asistencia jurídica y de orientación social a los menores, ancianos y discapacitados, sin recursos;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2009)</small>
+
+VIII. Prestar servicios de asistencia jurídica y de orientación social a los menores, personas adultas mayores y discapacitados, sin recursos;
 
 IX. Intervenir en el ejercicio de la tutela de menores, que corresponda al Estado; en los términos de la ley y auxiliar al Ministerio Público en la protección de incapaces y en los procedimientos civiles y familiares que los afecten de acuerdo a la ley;
 
@@ -1457,17 +1469,41 @@ XIII. Los demás que les confieran las leyes.
 
 Lo anterior apoyado con programas de formación, organización y capacitación a los sujetos sociales, orientados a erradicar paulatinamente el asistencialismo y el paternalismo.
 
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2009)</small>
+
 ###### Artículo 67.
 
-Los comités de Desarrollo Integral de la Familia en los municipios, podrán ser órganos de la administración pública centralizados, desconcentrados o descentralizados, y el titular de la dependencia se regirá por el reglamento que para ello expida el Ayuntamiento correspondiente.
+Las unidades administrativas o entidades encargadas del Desarrollo Integral de la Familia en los municipios, podrán ser áreas de la administración pública centralizada, o entidades administrativas descentralizadas con un nivel estructural no superior de Director de Área, el cual se regirá por el reglamento que para ello expida el ayuntamiento o la junta de gobierno correspondiente.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2009)</small>
 
 ###### Artículo 68.
 
-El titular del Comité de Desarrollo Integral de la Familia en los municipios, será designado por la mayoría de los miembros del Ayuntamiento, de la terna que proponga el Presidente Municipal.
+Tratándose de órganos centralizados, el titular de las unidades administrativas o entidades encargadas de la Dirección del Desarrollo Integral de la Familia en los municipios, será designado por la mayoría de los miembros del Ayuntamiento, de la terna que proponga el Presidente Municipal, bajo los siguientes lineamientos:
+
+I. No podrá ser familiar directo, consanguíneo o civil, hasta en segundo grado, del Presidente Municipal, Síndico y Regidores del Ayuntamiento en funciones;
+
+II. Recibirá la remuneración económica que marque el presupuesto de egresos, el que no será superior con los de la administración centralizada; y,
+
+III. Podrá establecerse u otorgarse el cargo de Presidente(a) del Patronato del DIF, a familiares directos, consanguíneos o civiles, del Presidente Municipal, Síndico y Regidores del Ayuntamiento en funciones. El cargo será honorífico, sin remuneración. La duración del cargo será la misma que la del Ayuntamiento que otorga la designación.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2009)</small>
+
+###### Artículo 68 Bis.
+
+Tratándose de organismos descentralizados, el titular del mismo, será designado por la mayoría de los miembros de la Junta de Gobierno o Patronato, de la terna que proponga el Presidente Municipal siguiendo los lineamientos indicados en el inciso I y II del artículo 68.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2009)</small>
 
 ###### Artículo 69.
 
-Los comités de Desarrollo Integral de la Familia en los municipios para su funcionamiento y logro de sus objetivos, contarán con los recursos que les asignen los Ayuntamientos en el Presupuesto de Egresos.
+Las unidades administrativas o entidades encargadas del Desarrollo Integral de la Familia en los municipios, para su funcionamiento y el logro de sus objetivos, contarán con los recursos que les asignen los Ayuntamientos en el Presupuesto de Egresos, de acuerdo con el Plan Operativo Anual presentado por la dependencia o de acuerdo a lo contemplado en el presupuesto de egresos del organismo.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2009)</small>
+
+###### Artículo 69 Bis.
+
+Para el eficaz cumplimiento de sus objetivos, las unidades administrativas o entidades encargadas del Desarrollo Integral de la Familia en los municipios, celebrarán los convenios necesarios de coordinación con las instituciones análogas en el ámbito Federal, Estatal y Municipal, en base al reglamento interno del Ayuntamiento o de la Entidad.
 
 ### Capítulo IX. De los Servicios Públicos Municipales
 
@@ -2580,3 +2616,7 @@ P.O. 28 DE FEBRERO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 21 DE MAYO DE 2009.
+
+Único. El presente decreto entrará en vigor al día siguiente al de su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
