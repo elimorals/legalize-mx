@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2009-03-28"
+last_updated: "2009-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2009.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -1712,6 +1712,10 @@ III. Mendicidad con fines de explotación;
 IV. Comisión de algún delito, y
 
 V. Formar parte de una asociación delictuosa.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2009)</small>
+
+La misma pena y sanción pecuniaria se aplicará a la persona que fomente, invite, facilite, permita, consienta o tolere la entrada de un menor de dieciocho años de edad, así como de quien no tenga capacidad para comprender el significado del hecho o de persona que no tenga capacidad para resistirlo, a bares, centros nocturnos, cervecerías o pulquerías.
 
 > <small>(ADICIONADO, P.O. 5 DE JULO DE 2007)</small>
 
@@ -3432,3 +3436,9 @@ P.O. 28 DE MARZO DE 2009.
 PRIMERO. Este Decreto entrará en vigor el treinta de marzo del dos mil nueve, conjuntamente con el diverso legislativo No. 646, publicado en el Periódico Oficial del Estado el 12 de febrero del año en curso, en su edición extraordinaria; previa publicación en el precitado órgano de difusión oficial.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE MAYO DE 2009.
+
+PRIMERO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
