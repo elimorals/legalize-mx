@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2009-04-24"
+last_updated: "2009-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -3075,7 +3075,9 @@ PRIMERO.- Túrnese a los Ayuntamientos del Estado para el trámite previsto por 
 
 SEGUNDO.- Una vez cumplimentado el transitorio anterior, computados los votos de los Ayuntamientos en sentido aprobatorio, las presentes reformas se declararán parte de esta Constitución.
 
-TERCERO.- Inicio de vigencia.- Las presentes reformas entrarán en vigor a las cero horas del día primero del mes de junio del año dos mil nueve, en el Partido Judicial de Mexicali, y en los partidos judiciales de Ensenada, a las cero horas del día primero del mes de junio del dos mil diez, y en los partidos judiciales de Tijuana, Tecate y Playas de Rosarito, a las cero horas del día primero del mes de junio del año dos mil once.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2009)</small>
+
+TERCERO.- Las presentes reformas entrarán en vigor el día primero de febrero del año 2010.
 
 CUARTO.- Las referencias que se hagan en otras disposiciones legales a la Defensoría de Oficio o al Defensor de Oficio, se entenderán hechas a la Defensoría Pública o al Defensor Público respectivamente.
 
@@ -3088,3 +3090,7 @@ SEGUNDO.- Aprobado (sic) la iniciativa de reforma por los Ayuntamientos del Esta
 TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, previo cumplimiento del procedimiento que prescribe el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
 CUARTO.- La reforma al primer párrafo del artículo 17 de la Ley Orgánica del Poder Judicial del Estado de Baja California, entrará en vigor una vez cobre vigencia la reforma al artículo 66 de la Constitución Política del Estado Libre y Soberano de Baja California referida en los artículos transitorios antes citados.
+
+P.O. 22 DE MAYO DE 2009.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
