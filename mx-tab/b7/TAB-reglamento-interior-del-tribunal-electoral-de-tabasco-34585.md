@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-tribunal-electoral-de-tabasco-34585"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-30"
-last_updated: "2003-08-30"
+last_updated: "2009-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DE TABASCO, PUBLICADO EN EL P.O. DE 23 DE MAYO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento D del Periódico Oficial del Estado de Tabasco, el sábado 30 de agosto de 2003.
 
@@ -1696,3 +1698,13 @@ EL C. LIC. ULISES JERÓNIMO RAMÓN, SECRETARIO GENERAL DE ACUERDOS DEL TRIBUNAL 
 C E R T I F I C A :
 
 QUE EL PRESENTE REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DE TABASCO FUE APROBADO POR EL PLENO DEL TRIBUNAL, EN EJERCICIO DE LA FACULTAD QUE LE CONFIEREN LOS ARTÍCULOS 63 BIS, PÁRRAFO SEGUNDO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO Y 13, FRACCIÓN IV, DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DE TABASCO, EN SESIÓN ORDINARIA NÚMERO 007/2003, CELEBRADA EL CATORCE DE ABRIL DEL AÑO DOS MIL TRES, POR UNANIMIDAD DE VOTOS DE LOS CIUDADANOS MAGISTRADOS QUE LO INTEGRAN: ISIDRO ASCENCIO PÉREZ, PRESIDENTE DEL TRIBUNAL ELECTORAL; JOSÉ FRANCISCO QUEVEDO GIORGANA Y JUANA INÉS CASTILLO TORRES, ANTE EL C. SECRETARIO GENERAL DE ACUERDOS, ULISES JERÓNIMO RAMÓN, QUE AUTORIZA Y DA FE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE MAYO DE 2009.
+
+PRIMERO. El presente Reglamento del Tribunal Electoral de Tabasco, se expide en cumplimiento a lo dispuesto por el artículo transitorio tercero de la Ley Orgánica de éste Tribunal, y entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se abrogan las disposiciones contenidas en los 141 artículos del Reglamento Interior del Tribunal Electoral de Tabasco, publicado el 30 de agosto de dos mil tres, en el suplemento al Periódico Oficial número 6363D del Gobierno del Estado.
+
+TERCERO. Quedan derogados todas las disposiciones generales y acuerdos que se opongan al presente Reglamento.
