@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-seguridad-publica-para-el-estado-de-nayarit-13489"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-16"
-last_updated: "2002-09-28"
+last_updated: "2009-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13489&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2002.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO DECIMO DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, PUBLICADA EN EL P.O. DE 23 DE MAYO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 16 de septiembre de 1995.
 
@@ -746,3 +748,27 @@ En cualquier caso, el Ejecutivo del Estado deberá realizar la publicación por 
 P.O. 28 DE SEPTIEMBRE DE 2002
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 23 DE MAYO DE 2009.
+
+PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- El Ejecutivo Estatal cantará con el plazo de un año a partir de la entrada en vigor de esta ley para crear e instalar el Centro Estatal de Certificación y Acreditación, el cual deberá acreditar a los centros de evaluación y control de confianza de las Instituciones de Seguridad Pública y sus respectivos procesos de evaluación en un plazo no mayor de dos años a partir de la entrada en operación de citado Centro.
+
+TERCERO.- De manera progresiva y en un plazo de cuatro años a partir de la entrada en vigor de esta ley, las Instituciones de Seguridad Pública, por conducto de los centros de evaluación y control de confianza, deberán practicar las evaluaciones respectivas a sus integrantes, de conformidad con lo dispuesto en la Ley General del Sistema Nacional de Seguridad Pública, esta ley, sus respectivos ordenamientos legales y el calendario aprobado por el Consejo Nacional.
+
+CUARTO.- Quienes no obtengan el certificado serán separados del servicio, observando lo dispuesto en el artículo 123, Apartado B, Fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos.
+
+QUINTO.- Los servicios de carrera vigentes a la fecha en las Instituciones de Seguridad Pública, deberán ajustarse a los requisitos, criterios y procedimientos establecidos en esta ley.
+
+SEXTO.- Los servidores públicos que obtengan el certificado y que satisfagan los requisitos de ingreso y permanencia, ingresarán o serán homologados al servicio de carrera, en las ramas ministerial, policial y pericial, según corresponda, en la jerarquía y grado, así como antigüedad y derechos que resulten aplicables, de conformidad con lo previsto en la presente ley.
+
+SÉPTIMO.- El Ejecutivo Estatal expedirá las disposiciones reglamentarias de la presente Ley en un plazo no mayor a dieciocho meses a partir de su entrada en vigor.
+
+OCTAVO.- Los recursos humanos, materiales y financieros con que cuente el Consejo Estatal, se transferirán al Secretariado Ejecutivo previsto en esta Ley, a la brevedad posible.
+
+Lo mismo sucederá con los asuntos en trámite, salvo que pudiera causarse algún daño o menoscabo al servicio o a los intereses del Sistema.
+
+NOVENO.- Los Ayuntamientos de la entidad cantarán con un plazo de seis meses a partir de la entrada en vigor de la presente ley, para adecuar su normatividad a los principios y lineamientos contenidos en ella.
+
+DÉCIMO.- Se abrogan la Ley de Seguridad Pública del Estado de Nayarit, publicada el 16 de septiembre de 1995, y el Decreto Legislativo 6853 publicado el 10 de noviembre de 1984, ambos publicados en el Periódico Oficial, Órgano del Gobierno del estado y todas las disposiciones normativas que se opongan a esta ley.
