@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-19016
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2009-01-14"
+last_updated: "2009-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2009.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de diciembre del 2000.
 
@@ -539,9 +539,15 @@ XXIII. Acreditar el cumplimiento de las obligaciones de registro y actualizació
 
 XXIV. Para el caso de proyectos integrales o llave en mano, se deberán requerir al contratista los anteproyectos arquitectónicos y de ingeniería, normas de calidad de los materiales y especificaciones de construcción, así como el sistema constructivo; los requisitos de calidad, funcionamiento, mantenimiento y operación de la obra terminada; el desglose de los costos de diseño y construcción y la metodología que deberá seguirse para el control del proyecto;
 
-XXV. La indicación de que el licitante que no firme el contrato por causas imputables al mismo, será sancionado en términos del artículo 90 de esta Ley; y,
+XXV. La indicación de que el licitante que no firme el contrato por causas imputables al mismo, será sancionado en términos del artículo 90 de esta Ley; y (sic),
 
-XXVI. Los demás requisitos generales que, por las características, complejidad y magnitud de los trabajos deberán cumplir los interesados, los que no deberán limitar la libre participación de éstos.
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2009)</small>
+
+XXVI. El porcentaje de mano de obra local que deberá contratarse y las reglas para acreditar la procedencia de los empleados y mecanismos de contratación. En todos los casos, se privilegiará a la mano de obra local, salvo que se acredite la necesidad de capacidades o habilidades técnicas precisas o la insuficiencia de mano de obra.
+
+Se deberá proponer un programa de contratación de mano de obra abierto al público en general, teniendo el contratista que asumir la obligación de difundirlo ampliamente en los periódicos de mayor circulación de la ciudad en donde se vaya a ejecutar la obra;
+
+XXVII. Los demás requisitos generales que, por las características, complejidad y magnitud de los trabajos deberán cumplir los interesados, los que no deberán limitar la libre participación de éstos.
 
 Los requisitos y condiciones que contengan las bases deberán ser los mismos para todos los participantes.
 
@@ -779,9 +785,13 @@ XII. La descripción de la obra que se deba ejecutar, debiendo acompañar como p
 
 XIII. Señalamiento de que el contrato, sus anexos, la bitácora de los trabajos y la documentación que se genere en el período de ejecución de la obra o de los servicios, son los instrumentos que vinculan a las partes en sus derechos y obligaciones;
 
-XIV. En su caso, los procedimientos mediante los cuales las partes, de común acuerdo, resolverán las controversias que resulten previsibles que pudieren versar sobre problemas específicos de carácter técnico y administrativo. Para los efectos de la presente fracción, el procedimiento invariablemente se realizará dentro del territorio del Estado; y,
+XIV. En su caso, los procedimientos mediante los cuales las partes, de común acuerdo, resolverán las controversias que resulten previsibles que pudieren versar sobre problemas específicos de carácter técnico y administrativo. Para los efectos de la presente fracción, el procedimiento invariablemente se realizará dentro del territorio del Estado; y (sic),
 
-XV. En caso de asociación de contratistas, la mención de que responderán solidariamente en sus obligaciones para la ejecución de la totalidad de la obra, debiendo nombrar un representante común con facultades legales, otorgadas ante fedatario público, para comprometerse en nombre propio y de los asociados.
+XV. En caso de asociación de contratistas, la mención de que responderán solidariamente en sus obligaciones para la ejecución de la totalidad de la obra, debiendo nombrar un representante común con facultades legales, otorgadas ante fedatario público, para comprometerse en nombre propio y de los asociados;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2009)</small>
+
+XVI. El porcentaje de mano de obra local que deberá contratarse para la ejecución de la obra y el procedimiento para acreditar su residencia, además de cumplir los mecanismos de contratación de mano de obra local, de acuerdo al programa de contratación previsto como requisito de las bases de licitación, en el que necesariamente se debe contemplar la convocatoria pública para la contratación.
 
 ###### ARTICULO 57.
 
@@ -1151,7 +1161,9 @@ VI. A las demás disposiciones que resulten aplicables.
 
 Las Entidades, Dependencias y Organismos podrán realizar obra pública por administración directa, siempre que posean la capacidad técnica y los elementos necesarios para tal efecto, consistentes en maquinaria, equipo de construcción y personal técnico que se requieran para el desarrollo de los trabajos respectivos, y podrán según el caso:
 
-I. Utilizar preferentemente la mano de obra local complementaria que se requiera, lo que invariablemente deberá llevarse a cabo por obra determinada;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2009)</small>
+
+I. Utilizar preferentemente la mano de obra local complementaria que se requiera, lo que invariablemente deberá llevarse a cabo por obra determinada. Debiendo definir los mecanismos de contratación, mediante convocatoria pública que se difunda en los principales de medios de comunicación de la localidad de que se trate;
 
 II. Alquilar el equipo y maquinaria de construcción complementaria;
 
@@ -1458,3 +1470,9 @@ P.O. 14 DE ENERO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE MAYO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
