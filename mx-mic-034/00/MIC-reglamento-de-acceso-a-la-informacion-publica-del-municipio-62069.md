@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-acceso-a-la-informacion-publica-del-municipio-620
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-29"
-last_updated: "2008-07-29"
+last_updated: "2009-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "MIC"
 
 REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACION ANTE EL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE HIDALGO, MICHOACAN, PUBLICADO EN EL P.O. DE 25 DE MAYO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el martes 29 de julio de 2008.
 
@@ -298,3 +300,15 @@ Ciudad Hidalgo, Mich., 15 de julio de 2008.
 C. JOSÉ LUIS ÁVILA FRANCO.- PRESIDENTE MUNICIPAL.- ING. PEDRO TELLO GÓMEZ.- SÍNDICO MUNICIPL (SIC).- ING. REYNALDO CORREA ALCALÁ.- SECRETARIO DEL AYUNTAMIENTO. (Firmados).
 
 REGIDORES: C. JOSÉ SAÚL ALCÁNTAR RUIZ.- C. DRA. BEATRIZ OLIVARES FLORES.- C. T.I.F. RAMÓN HERNÁNDEZ CORREA.- C. ASSBEIDI MAGDALENA HERNANDEZ ÁLVAREZ.- C. PAULO MARTÍNEZ MORQUECHO.- C. LIC. ALEJANDRA REYES MARÍN.- C. JOSÉ MARCO VINICIO PÉREZ MONTES.- C. DRA. MARÍA ANGELINA ARRIAGA ÁVILA.- C. ULTIMINIO BARRERA BUCIO.- C. IGNACIO SOTO PÉREZ.- C. DR. SERGIO JESÚS ÁVILA IGARTÚA.- C. EBERARDO VELAZQUEZ FLORES. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 25 DE MAYO DE 2009.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo. Y para el conocimiento ciudadano publíquese en los estrados del Palacio Municipal y en los lugares que el Ayuntamiento estime pertinente para su difusión.
+
+Segundo.- Conforme a lo previsto en los artículos 145, 149 y sexto transitorio de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo, remítase un ejemplar con el texto íntegro al H. Congreso del Estado y al Titular del Poder Ejecutivo Estatal y al Consejero Presidente del Instituto para la Transparencia y Acceso a la Información Pública del Estado de Michoacán, para su conocimiento y efectos legales conducentes.
+
+Tercero.- El presente Reglamento deja sin efectos y/o abroga el Reglamento de Acceso a la Información Pública del Municipio de Hidalgo, Michoacán, aprobado en sesión del Ayuntamiento el día 28 veintiocho de mayo del año 2008 dos mil ocho y publicado en el Periódico Oficial del Estado con fecha 29 de julio del año 2008.
+
+Cuarto.- En tanto el Instituto no emita los lineamientos para regular los costos de la reproducción de la información, se estará a lo dispuesto por la Ley de Ingresos vigente en el Municipio de Hidalgo, Michoacán, para el ejercicio fiscal correspondiente.
