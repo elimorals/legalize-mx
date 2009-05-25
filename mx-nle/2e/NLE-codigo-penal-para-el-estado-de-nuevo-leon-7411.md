@@ -4,7 +4,7 @@ identifier: "NLE-codigo-penal-para-el-estado-de-nuevo-leon-7411"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-26"
-last_updated: "2009-05-08"
+last_updated: "2009-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,29 +21,31 @@ state: "NLE"
 ---
 # CODIGO PENAL PARA EL ESTADO DE NUEVO LEON
 
-CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
+CODIGO PENAL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE AGOSTO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2009.
 
-Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
+Código publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de marzo de 1990.
 
-El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
+EL CIUDADANO LIC. JORGE A. TREVIÑO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON, A TODOS SUS HABITANTES HAGO SABER:
 
-VENUSTIANO CARRANZA, Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de los Estados Unidos Mexicanos, hago saber:
+Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
 
-Que el Congreso Constituyente reunido en esta ciudad el 1o. de diciembre de 1916, en virtud del decreto de convocatoria de 19 de septiembre del mismo año, expedido por la Primera Jefatura, de conformidad con lo prevenido en el artículo 4o. de las modificaciones que el 14 del citado mes se hicieron al decreto de 12 de diciembre de 1914, dado en la H. Veracruz, adicionando el Plan de Guadalupe, de 26 de marzo de 1913, ha tenido a bien expedir la siguiente:
+D E C R E T O
 
-CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, QUE REFORMA LA DE 5 DE FEBRERO DE 1857.
+NUM. 94
+
+CODIGO PENAL PARA EL ESTADO DE NUEVO LEON
 
 # LIBRO PRIMERO. PARTE GENERAL
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 28 DE JULIO DE 2004)</small>
 
-## TITULO PRIMERO.
+## TITULO PRIMERO. DE LOS AMBITOS DE VALIDEZ DE LA LEY PENAL
 
-### CAPITULO I.
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE JULIO DE 2004)</small>
 
-DE LAS GARANTIAS INDIVIDUALES.
+### CAPITULO I. APLICACION DE LA LEY PENAL EN EL AMBITO ESPACIAL
 
 ###### ARTICULO 1o.
 
@@ -145,11 +147,9 @@ LA SENTENCIA PENAL ABSOLUTORIA, PRONUNCIADA EN EL EXTRANJERO Y EN LAS DISTINTAS 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 28 DE JULIO DE 2004)</small>
 
-### CAPITULO II.
+### CAPITULO II. APLICACION DE LA LEY PENAL EN EL AMBITO TEMPORAL
 
-DE LOS MEXICANOS.
-
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1934)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 3o.
 
@@ -293,9 +293,9 @@ TRATANDOSE DE MEDIDAS DE SEGURIDAD IMPUESTAS COMO CONSECUENCIAS JURIDICAS DEL DE
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 28 DE JULIO DE 2004)</small>
 
-### CAPITULO III.
+### CAPITULO III. APLICACION DE LA LEY PENAL EN EL AMBITO PERSONAL
 
-DE LOS EXTRANJEROS.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 6o.
 
@@ -401,13 +401,11 @@ LA LEY PENAL EN EL ESTADO DE NUEVO LEON SE APLICARA A TODAS LAS PERSONAS A PARTI
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 28 DE JULIO DE 2004)</small>
 
-## TITULO SEGUNDO.
+## TITULO SEGUNDO. DEL DELITO
 
-### CAPITULO IV.
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE JULIO DE 2004)</small>
 
-DE LOS CIUDADANOS MEXICANOS.
-
-> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1969)</small>
+### CAPITULO I. DE LA FORMA, TIEMPO Y LUGAR DEL DELITO
 
 ###### Art. 13.
 
@@ -461,9 +459,37 @@ NO HABRA CONDUCTA DELICTIVA PARA EL QUE OBRA IMPULSADO POR UNA FUERZA FISICA EXT
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 21 DE OCTUBRE DE 1994)</small>
 
-### CAPITULO I.
+### CAPITULO I BIS. DELITOS GRAVES
 
-DE LA SOBERANIA NACIONAL Y DE LA FORMA DE GOBIERNO.
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+
+ARTICULO 16 BIS.- PARA TODOS LOS EFECTOS LEGALES SE CALIFICAN COMO DELITOS GRAVES CONSIGNADOS EN ESTE CODIGO:
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2008)</small>
+
+I. LOS CASOS PREVISTOS EN LOS ARTICULOS 66, PRIMER PARRAFO; 150; 151; 152; 153; 154; 158; 159; 160; 163; 164; 165; 165 BIS, 166, FRACCIONES III Y IV; 172 ULTIMO PARRAFO; 176; 181 BIS 1; 183; 191; 196; 197; 197 BIS; 201 BIS; 201 BIS 2; 203 SEGUNDO PARRAFO; 204; 208 ULTIMO PARRAFO; 211, 212 FRACCION II; 214 BIS; 216 FRACCIONES II Y III; 216 BIS ULTIMO PARRAFO; 218 FRACCION III; 222 BIS CUARTO PARRAFO; 225; 226 BIS; 240; 241; 242; 242 BIS; 243; 250 PARRAFO SEGUNDO; 265; 266; 267; 268; 271 BIS 2; 298; 299; 303 FRACCION III; 312; 313; 315; 318; 320 PARRAFO PRIMERO; 321 BIS; 321 BIS 1, 321 BIS 3; 322; 325; 329 ULTIMA PARTE; 357; 357 BIS; 365 FRACCION VI; 365 BIS; 367 FRACCION III; 371; 374 FRACCIÓN X; 374 ULTIMO PARRAFO; 377 FRACCION III; 379 PARRAFO SEGUNDO; 387; 395; 401; 403 Y 406 BIS. TAMBIEN LOS GRADOS DE TENTATIVA EN AQUELLOS CASOS, DE LOS ANTES MENCIONADOS, EN QUE LA PENA A APLICAR EXCEDA DE CINCO AÑOS EN SU TERMINO MEDIO ARITMETICO.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 2007)</small>
+
+II.- EL CASO PREVISTO EN EL SEGUNDO PARRAFO DEL ARTICULO 66, CUANDO SE PRODUZCAN UNA O MAS MUERTES Y EL RESPONSABLE CONDUJERA UN VEHICULO DE MOTOR, EN ESTADO DE VOLUNTARIA INTOXICACION POR ALCOHOL, ESTUPEFACIENTES, PSICOTROPICOS O SUSTANCIAS QUE PRODUZCAN EFECTOS SIMILARES O SE AUSENTE DEL LUGAR DE LOS HECHOS SIN CAUSA JUSTIFICADA Y NO SE PRESENTE ANTE LA AUTORIDAD.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+
+SE ENTENDERA QUE UN CONDUCTOR SE ENCUENTRA EN ESTADO DE VOLUNTARIA INTOXICACION PROVOCADO POR EL CONSUMO DE ALCOHOL, CUANDO TENGA EN SU ORGANISMO 0.8 O MAS GRAMOS DE ALCOHOL POR LITRO DE SANGRE O SU EQUIVALENTE EN ALGUN OTRO SISTEMA DE MEDICION, FACULTANDOSE AL MINISTERIO PUBLICO PARA LA OBTENCION DE LA PRUEBA RESPECTIVA.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+
+PARA EFECTOS DE DETERMINAR SI EXISTE CAUSA JUSTIFICADA, SE ESTARA A LO DISPUESTO POR EL ARTICULO 30 DE ESTE CODIGO;
+
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+III.- EL CASO PREVISTO EN EL ARTICULO 374 FRACCION XI;
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+IV.- LOS DELITOS TIPIFICADOS EN LEYES ESPECIALES DEL ESTADO, CUANDO LA PENA MAXIMA EXCEDA DE OCHO AÑOS DE PRISION; O
+
+V.- EN LOS CASOS PREVISTOS EN LOS ARTICULOS 306 BIS 2 Y 306 BIS 3 FRACCIONES I Y II SALVO LO DISPUESTO EN EL ARTICULO 307. TAMBIEN SERA CONSIDERADO GRAVE EL CASO ESTABLECIDO EN EL ARTICULO 306 BIS 3 FRACCION III.
 
 ###### Art. 16.
 
@@ -517,11 +543,7 @@ Todo mal tratamiento que en la aprehensión o en las prisiones, toda molestia qu
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE DICIEMBRE DE 1948)</small>
 
-### CAPITULO II.
-
-DE LAS PARTES INTEGRANTES DE LA FEDERACION Y DEL TERRITORIO NACIONAL.
-
-> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1960)</small>
+### CAPITULO II. CAUSAS DE JUSTIFICACION
 
 ###### Art. 20.
 
@@ -629,11 +651,9 @@ EN LOS CASOS DE EXCESO DE LEGITIMA DEFENSA, SE APLICARA UNA SANCION NO MENOR DE 
 
 LAS CAUSAS DE JUSTIFICACION SE HARAN VALER DE OFICIO.
 
-### CAPITULO I.
+### CAPITULO III. INIMPUTABILIDAD
 
-DE LA DIVISION DE PODERES.
-
-> <small>(REFORMADO, D.O.F. 28 DE MARZO DE 1951)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 1997)</small>
 
 ###### Art. 23.
 
@@ -673,9 +693,7 @@ SE EQUIPARA AL ESTADO DE NECESIDAD, LA SITUACION EN QUE, TRATANDO DE ESCAPAR DE 
 
 SI EL PROCESADO PADECIERE UN ESTADO DE PSICOSIS O RETRASO MENTAL DURANTE EL PROCEDIMIENTO, SE ESTARA A LO DISPUESTO EN EL TITULO DECIMO DEL CODIGO DE PROCEDIMIENTOS PENALES.
 
-### CAPITULO II.
-
-DEL PODER LEGISLATIVO.
+### CAPITULO IV. CULPABILIDAD
 
 ###### Art. 25.
 
@@ -871,36 +889,6 @@ XX.- El Estado promoverá las condiciones para el desarrollo rural integral, con
 
 > <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
-###### Art. 28.
-
-En los Estados Unidos Mexicanos quedan prohibidos los monopolios, la (sic) prácticas monopólicas, los estancos y las exenciones de impuestos en los términos y condiciones que fijan las leyes. El mismo tratamiento se dará a ls (sic) prohibiciones a título de protección a la industria.
-
-En consecuencia, la ley castigará severamente, y las autoridades perseguirán con eficacia, toda concentración o acaparamiento en una o pocas manos de artículos de consumo necesario y que tenga por objeto obtener el alza de los precios; todo acuerdo, procedimiento o combinación de los productores, industriales, comerciantes o empresarios de servicios, que de cualquier manera hagan, para evitar la libre concurrencia o la competencia entre sí y obligar a los consumidores a pagar precios exagerados y, en general, todo lo que constituya una ventaja exclusiva indebida a favor de una o varias personas determinadas y con perjuicio del público en general o de alguna clase social.
-
-Las leyes fijarán bases para que se señalen precios máximos a los artículos, materias o productos que se consideren necesarios para la economía nacional o el consumo popular, así como para imponer modalidades a la organización de la distribución de esos artículos, materias o productos, a fin de evitar que intermediaciones innecesarias o excesivas provoquen insuficiencia en el abasto, así como el alza de precios. La ley protegerá a los consumidores y propiciará su organización para el mejor cuidado de sus intereses.
-
-No constituirán monopolios las funciones que el Estado ejerza de manera exclusiva en las áreas estratégicas a las que se refiere este precepto: Acuñación de moneda; correos, telégrafos, radiotelegrafía y la comunicación vía satélite; emisión de billetes por medio de un solo banco, organismo descentralizado del Gobierno Federal; petróleo y los demás hidrocarburos; petroquímica básica; minerales radiactivos y generación de energía nuclear; electricidad; ferrocarriles y las actividades que expresamente señalen las leyes que expida el Congreso de la Unión.
-
-Se exceptúa también lo previsto en la primera parte del primer párrafo de este artículo la prestación del servicio público de banca y de crédito. Este servicio será prestado exclusivamente por el Estado a través de instituciones, en los términos que establezca la correspondiente ley reglamentaria, la que también determinará las garantías que protejan los intereses del público y el funcionamiento de aquellas en apoyo de las políticas de desarrollo nacional. El servicio público de banda (sic) y crédito no será objeto de concesión a particulares.
-
-El Estado contará con los organismos y empresas que requiera para el eficaz manejo de las áreas estratégicas a su cargo y en las actividades de carácter prioritario donde, de acuerdo con las leyes, participe por sí o con los sectores social y privado.
-
-No constituyen monopolios las asociaciones de trabajadores formadas para proteger sus propios intereses y las asociaciones o sociedades cooperativas de productores para que, en defensa de sus intereses o del interés general, vendan directamente en los mercados extranjeros los productos nacionales o industriales que sean la principal fuente de riqueza de la región en que se produzcan o que no sean artículos de primera necesidad, siempre que dichas asociaciones estén bajo vigilancia o amparo del Gobierno Federal o de los Estados, y previa autorización que al efecto se obtenga de las legislaturas respectivas en cada caso. Las mismas Legislaturas, por sí o a propuesta del Ejecutivo podrán derogar, cuando así lo exijan las necesidades públicas, las autorizaciones concedidas para la formación de las asociaciones de que se trata.
-
-Tampoco constituyen monopolios los privilegios que por determinado tiempo se concedan a los autores y artistas para la producción de sus obras y los que para el uso exclusivo de sus inventos, se otorguen a los inventores y perfeccionadores de alguna mejora.
-
-El Estado, sujetándose a las leyes, podrá en casos de interés general, concesionar la prestación de servicios públicos o la explotación, uso y aprovechamiento de bienes de dominio de la Federación, salvo las excepciones que las mismas prevengan. Las leyes fijarán las modalidades y condiciones que aseguren la eficacia de la prestación de los servicios y la utilización social de los bienes, y evitarán fenómenos de concentración que contraríen el interés público.
-
-La sujeción a regímenes de servicio público se apegará a lo dispuesto por la Constitución y sólo podrá llevarse a cabo mediante ley.
-
-Se podrán otorgar subsidios a actividades prioritarias, cuando sean generales, de carácter temporal y no afecten sustancialmente las finanzas de la Nación. El Estado vigilará su aplicación y evaluará los resultados de ésta.
-
-> <small>(REFORMADO, D.O.F. 21 DE ABRIL DE 1981)</small>
-
-###### Art. 29.
-
-En los casos de invasión perturbación grave de la paz pública, o de cualquier otro que ponga a la sociedad en grave peligro o conflicto, solamente el Presidente de los Estados Unidos Mexicanos, de acuerdo con los Titulares de las Secretarías de Estado, los Departamentos Administrativos y la Procuraduría General de la República y con aprobación del Congreso de la Unión, y, en los recesos de éste, de la Comisión Permanente, podrá suspender en todo el país o en lugar determinado las garantías que fuesen obstáculos para hacer frente, rápida y fácilmente a la situación; pero deberá hacerlo por un tiempo limitado, por medio de prevenciones generales y sin que la suspensión se contraiga a determinado individuo. Si la suspensión tuviese lugar hallándose el Congreso reunido, éste concederá las autorizaciones que estime necesarias para que el Ejecutivo haga frente a la situación, pero si se verificase en tiempo de receso, se convocará sin demora al Congreso para que las acuerde.
-
 ###### Art. 30.
 
 La nacionalidad mexicana se adquiere por nacimiento o por naturalización.
@@ -1057,9 +1045,7 @@ OBRA CON CULPA QUIEN REALIZA EL HECHO LEGALMENTE DESCRITO, POR INOBSERVANCIA DEL
 
 OBRA PRETERINTENCIONALMENTE, CUANDO POR LA FORMA Y MEDIO DE EJECUCION SE ACREDITE PLENAMENTE QUE EL RESULTADO EXCEDIO EL PROPOSITO DEL ACTIVO; EN ESTE CASO PODRA DISMINUIRSE LA PENA HASTA LAS DOS TERCERAS PARTES DE LA SANCION A IMPONER POR EL DELITO COMETIDO.
 
-### CAPITULO III.
-
-DEL PODER EJECUTIVO.
+### CAPITULO V. CAUSAS DE INCULPABILIDAD
 
 ###### Art. 40.
 
@@ -1285,31 +1271,7 @@ VIII.- EL QUE OBRE EN DEFENSA SUPUESTA, ENTENDIENDO POR TAL UN ERROR ESENCIAL E 
 
 IX.- CAUSAR UN DAÑO POR MERO ACCIDENTE, SIN DOLO NI CULPA, EJECUTANDO UN HECHO LICITO CON TODAS LAS PRECAUCIONES DEBIDAS. POR ACCIDENTE, DEBE ENTENDERSE UNA CONCAUSA PURAMENTE MATERIAL QUE DESVIA EL CURSO DE LA ACCION.
 
-### CAPITULO IV.
-
-DEL PODER JUDICIAL.
-
-> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
-
-###### Art. 94.
-
-Se deposita el ejercicio del Poder Judicial de la Federación en una Suprema Corte de Justicia, en tribunales colegiados y unitarios de circuito y en juzgados de distrito.
-
-La Suprema Corte de Justicia de la Nación se compondrá de veintiún ministros numerarios y funcionará en Pleno o en Salas. Se podrán nombrar hasta cinco ministros supernumerarios.
-
-En los términos que la ley disponga las sesiones del Pleno y de las Salas serán públicas, y por excepción secretas en los casos en que así lo exijan la moral o el interés público.
-
-La competencia de la Suprema Corte, su funcionamiento en Pleno y Salas, la competencia de los tribunales de circuito y de los juzgados de distrito y las responsabilidades en que incurran los servidores públicos del Poder Judicial de la Federación, se regirán por lo que dispongan las leyes, de conformidad con las bases que esta Constitución establece.
-
-El Pleno de la Suprema Corte determinará el número, división en circuitos y jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de circuito y de los juzgados de distrito.
-
-El propio Tribunal en Pleno estará facultado para emitir acuerdos generales a fin de lograr, mediante una adecuada distribución entre las Salas de los asuntos que competa conocer a la Suprema Corte de Justicia, la mayor prontitud en su despacho.
-
-La ley fijará los términos en que sea obligatoria la jurisprudencia que establezcan los tribunales del Poder Judicial de la Federación sobre interpretación de la Constitución, leyes y reglamentos federales o locales y tratados internacionales celebrados por el Estado Mexicano, así como los requisitos para su interrupción y modificación.
-
-La remuneración que perciban por sus servicios los ministros de la Suprema Corte, los magistrados de circuito y los jueces de distrito, no podrá ser disminuida durante su encargo.
-
-Los ministros de la Suprema Corte de Justicia sólo podrán ser privados de sus puestos en los términos del Título Cuarto de esta Constitución.
+### CAPITULO VI. TENTATIVA
 
 ###### Art. 58.
 
@@ -1403,7 +1365,7 @@ NO HAY CONCURSO, CUANDO LOS HECHOS CONSTITUYAN UN DELITO CONTINUADO.
 
 > <small>(REFORMADA SU DENOMINACION P.O. 28 DE JULIO DE 2004)</small>
 
-## TITULO TERCERO.
+## TITULO TERCERO. DE LAS PERSONAS RESPONSABLES DE LOS DELITOS
 
 ### CAPITULO I. AUTORES O PARTICIPANTES
 
@@ -1502,12 +1464,6 @@ I.- Las iniciativas de leyes o decretos se discutirán preferentemente en la Cá
 I (sic).- El Ejecutivo de la Unión no puede hacer observaciones a las resoluciones del Congreso o de alguna de las Cámaras, cuando ejerzan funciones de cuerpo electoral o de jurado, lo mismo que cuando la Cámara de Diputados declare que debe acusarse a uno de los altos funcionarios de la Federación por delitos oficiales.
 
 Tampoco podrá hacerlas al Decreto de convocatoria a sesiones extraordinarias que expida la Comisión Permanente.
-
-#### SECCION III.
-
-DE LAS FACULTADES DEL CONGRESO.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE FEBRERO DE 1944)</small>
 
 ###### Art. 73.
 
@@ -1857,12 +1813,6 @@ III.- Nombrar los empleados de su secretaría y hacer el reglamento interior de 
 
 IV.- Expedir convocatoria para elecciones extraordinarias con el fin de cubrir las vacantes de sus respectivos miembros. En el caso de la Cámara de Diputados, las vacantes de sus miembros electos por el principio de representación proporcional, deberán ser cubiertas por aquellos candidatos del mismo partido que sigan en el orden de la lista regional respectiva, después de habérsele asignado los diputados que le hubieren correspondido.
 
-#### SECCION IV.
-
-DE LA COMISION PERMANENTE.
-
-> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
-
 ###### ARTICULO 39.
 
 RESPONDERAN POR LA COMISION DELICTIVA, QUIEN O QUIENES PONGAN CULPABLEMENTE UNA CONDICION DE LA LESION JURIDICA, ENTENDIENDOSE POR TAL, UN COMPORTAMIENTO FISICO O PSIQUICO, QUE TRASCIENDE AL DELITO, Y QUE DE NO HABERSE DADO O NO HABER EXISTIDO, TAMPOCO SE HUBIERE DADO LA COMISION DELICTIVA. POR TANTO, DEBE ENTENDERSE QUE PONEN CULPABLEMENTE UNA CONDICION DEL RESULTADO:
@@ -1900,42 +1850,6 @@ LAS CIRCUNSTANCIAS PERSONALES DE LOS PARTICIPES, QUE SE COMPRENDA COMO PARTE DE 
 ###### Art. 78.
 
 Durante los recesos del Congreso de la Unión habrá una Comisión Permanente compuesta de 37 miembros de los que 19 serán Diputados y 18 Senadores, nombrados por sus respectivas Cámaras la víspera de la clausura de los períodos ordinarios de sesiones. Para cada titular las Cámaras nombrarán, de entre sus miembros en ejercicio, un sustituto.
-
-###### Art. 79.
-
-La Comisión Permanente, además de las atribuciones que expresamente le confiere esta Constitución, tendrá las siguientes:
-
-I.- Prestar su consentimiento para el uso de la Guardia Nacional, en los casos de que habla el artículo 76, fracción IV.
-
-> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 1974)</small>
-
-II.- Recibir, en su caso, la protesta del Presidente de la República, de los miembros de la Suprema Corte de Justicia de la Nación y la de los magistrados del Distrito Federal.
-
-> <small>(REFORMADA, D.O.F. 21 DE OCTUBRE DE 1966)</small>
-
-III.- Resolver los asuntos de su competencia, recibir durante el receso del Congreso de la Unión las iniciativas de ley y proposiciones dirigidas a las Cámaras, y turnarlas para dictamen a las Comisiones de la Cámara a la que vayan dirigidas, a fin de que se despachen en el inmediato periodo de sesiones.
-
-> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 1923)</small>
-
-IV.- Acordar por sí o a propuesta del Ejecutivo, la convocatoria del Congreso o de una sola Cámara a sesiones extraordinarias, siendo necesario en ambos casos el voto de las dos terceras partes de los individuos presentes. La convocatoria señalará el objeto u objetos de las sesiones extraordinarias.
-
-> <small>(REFORMADA, D.O.F. 10 DE AGOSTO DE 1987)</small>
-
-V.- Otorgar o negar su aprobación a los nombramientos de ministros de la Suprema Corte, así como a sus solicitudes de licencia, que le someta el Presidente de la República.
-
-> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 1933)</small>
-
-VI.- Conceder licencia hasta por treinta días al Presidente de la República y nombrar el interino que supla esa falta.
-
-> <small>(ADICIONADA, D.O.F. 21 DE OCTUBRE DE 1966)</small>
-
-VII.- Ratificar los nombramientos que el Presidente de la República haga de ministros, agentes diplomáticos, cónsules generales, empleados superiores de Hacienda, coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea Nacionales, en los términos que la ley disponga.
-
-> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
-
-VIII.- Conocer y resolver sobre las solicitudes de licencia que le sean presentadas por los legisladores federales.
-
-IX.- (REFORMADA [N. DE E. DEROGADA], D.O.F. 8 DE OCTUBRE DE 1974)
 
 ###### Art. 80.
 
@@ -1986,16 +1900,6 @@ Si el Congreso no estuviere en sesiones, la Comisión Permanente nombrará desde
 Cuando la falta de presidente ocurriese en los cuatro últimos años del período respectivo, si el Congreso de la Unión se encontrase en sesiones, designará al presidente substituto que deberá concluir el período; si el Congreso no estuviere reunido, la Comisión Permanente nombrará un presidente provisional y convocará al Congreso de la Unión a sesiones extraordinarias para que se erija en Colegio Electoral y haga la elección del presidente substituto.
 
 > <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
-
-###### Art. 85.
-
-Si al comenzar un período constitucional no se presentase el presidente electo, o la elección no estuviera hecha y declarada el 1º de diciembre, cesará, sin embargo, el presidente cuyo período haya concluído y se encargará desde luego del Poder Ejecutivo, en calidad de presidente interino, el que designe el Congreso de la Unión, o en su falta con el carácter de provisional, el que designe la Comisión Permanente, procediéndose conforme a lo dispuesto en el artículo anterior.
-
-Cuando la falta del presidente fuese temporal, el Congreso de la Unión, si estuviese reunido, o en su defecto la Comisión Permanente, designará un presidente interino para que funcione durante el tiempo que dure dicha falta.
-
-Cuando la falta del presidente sea por más de treinta días y el Congreso de la Unión no estuviere reunido, la Comisión Permanente convocará a sesiones extraordinarias del Congreso para que éste resuelva sobre la licencia y nombre, en su caso, al presidente interino.
-
-Si la falta, de temporal se convierte en absoluta, se procederá como dispone el artículo anterior.
 
 ###### Art. 86.
 
@@ -2145,11 +2049,7 @@ III.- REPARACION DEL DAÑO Y PERJUICIO.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 28 DE JULIO DE 2004)</small>
 
-## TITULO CUARTO.
-
-DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS.
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+## TITULO CUARTO. CONSECUENCIAS JURIDICAS DEL DELITO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -2911,36 +2811,6 @@ VI.- La Federación y los Estados, en los términos de ley, podrán convenir la 
 
 Los Estados estarán facultados para celebrar esos convenios con sus Municipios, a efecto de que éstos asuman la prestación de los servicios o la atención de las funciones a las que se refiere el párrafo anterior.
 
-###### Art. 117.
-
-Los Estados no pueden, en ningún caso:
-
-I.- Celebrar alianza, tratado o coalición con otro Estado ni con las Potencias extranjeras.
-
-II.- (DEROGADA, D.O.F. 21 DE OCTUBRE DE 1966)
-
-III.- Acuñar moneda, emitir papel moneda, estampillas ni papel sellado.
-
-IV.- Gravar el tránsito de personas o cosas que atraviesen su territorio.
-
-V.- Prohibir ni gravar directa ni indirectamente la entrada a su territorio, ni la salida de él, a ninguna mercancía nacional o extranjera.
-
-VI.- Gravar la circulación ni el consumo de efectos nacionales o extranjeros, con impuestos o derechos cuya exención se efectúe por aduanas locales, requiera inspección o registro de bultos o exija documentación que acompañe la mercancía.
-
-VII.- Expedir ni mantener en vigor leyes o disposiciones fiscales que importen diferencias de impues (sic) o requisitos por razón de la procedencia de mercancías nacionales o extranjeras, ya sea que esta diferencia se establezca respecto de la producción similar de la localidad, o ya entre producciones semejantes de distinta procedencia.
-
-> <small>(REFORMADA, D.O.F. 21 DE ABRIL DE 1981)</small>
-
-VIII.- Contraer directa o indirectamente obligaciones o empréstitos con gobiernos de otras naciones, con sociedades o particulares extranjeros, o cuando deban pagarse en moneda extranjera o fuera del territorio nacional.
-
-Los Estados y los Municipios no podrán contraer obligaciones o empréstitos sino cuando se destinen a inversiones públicas productivas, inclusive los que contraigan organismos descentralizados y empresas públicas, conforme a las bases que establezcan las legislaturas en una ley y por los conceptos y hasta por los montos que las mismas fijen anualmente en los respectivos presupuestos. Los ejecutivos informarán de su ejercicio al rendir la cuenta pública.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE OCTUBRE DE 1942)</small>
-
-IX.- Gravar la producción, el acopio o la venta del tabaco en rama, en forma distinta o con cuotas mayores de las que el Congreso de la Unión autorice.
-
-El Congreso de la Unión y las Legislaturas de los Estados dictarán, desde luego, leyes encaminadas a combatir el alcoholismo.
-
 ###### ARTICULO 65.
 
 CON LAS EXCEPCIONES CONTENIDAS EN ESTE CODIGO, LOS DELITOS CULPOSOS SE CASTIGARAN CON PRISION DE UNO A SEIS AÑOS Y SUSPENSION POR IGUAL TERMINO O PERDIDA DE DERECHOS PARA EJERCER PROFESION U OFICIO, SEGUN EL GRADO DE LA CULPA. ASIMISMO, SE IMPONDRA EL TRABAJO EN BENEFICIO DE LA COMUNIDAD CUANDO SE SUBSTITUYA LA PENA DE PRISION POR MULTA, EN LOS TERMINOS DEL ARTICULO 51 DE ESTE CODIGO.
@@ -3561,11 +3431,7 @@ LA SUBSTITUCION DE LA PRISION POR MULTA, EXCLUYE LA APLICACION SIMULTANEA O SUCE
 
 PARA QUE PUEDA OPERAR LA CONVERSION, CONMUTACION O SUSTITUCION, ES INDISPENSABLE CUBRIR O GARANTIZAR LA REPARACION DEL DAÑO.
 
-## TITULO QUINTO.
-
-DE LOS ESTADOS DE LA FEDERACION.
-
-> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
+## TITULO QUINTO. MEDIDAS DE SEGURIDAD
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -3673,11 +3539,7 @@ LAS MEDIDAS DE VIGILANCIA DEFINIDAS EN EL QUINTO PARRAFO DEL ARTICULO 88, DEBERA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-## TITULO SEXTO.
-
-DEL TRABAJO Y DE LA PREVISION SOCIAL.
-
-> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 19 DE DICIEMBRE DE 1978)</small>
+## TITULO SEXTO. EJECUCION DE SENTENCIAS
 
 ### CAPITULO II. TRABAJO DE LOS INTERNOS
 
@@ -3732,92 +3594,6 @@ La Suprema Corte de Justicia de la Nación, resolverá los amparos que estuviere
 ###### Art. 9o.
 
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Unión, queda facultado para expedir la ley electoral, conforme a la cual deberán celebrarse, esta vez, las elecciones para integrar los Poderes de la Unión.
-
-###### Art. 10o.
-
-Los que hubieren figurado en el Gobierno emanado de la rebelión, contra el legítimo de la República, o cooperado a aquélla, combatiendo después con las armas en la mano, o sirviendo empleos o cargos de las facciones que han atacado al Gobierno Constitucionalista, serán juzgados por las leyes vigentes, siempre que no hubieren sido indultados por éste.
-
-###### Art. 11o.
-
-Entre tanto el Congreso de la Unión y los de los Estados legislan sobre los problemas agrario y obrero, las bases establecidas por esta Constitución para dichas leyes, se pondrán en vigor en toda la República.
-
-###### Art. 12o.
-
-Los mexicanos que hayan militado en el Ejército Constitucionalista, los hijos y viudas de éstos, y las demás personas que hayan prestado servicios a la causa de la Revolución o a la Instrucción Pública, tendrán preferencia para la adquisición de fracciones a que se refiere el artículo 27 y derecho a los descuentos que las leyes señalarán.
-
-###### Art. 13o.
-
-Quedan extinguidas de pleno derecho las deudas que por razón de trabajo hayan contraído los trabajadores, hasta la fecha de esta Constitución, con los patronos, sus familiares o intermediarios.
-
-> <small>(REFORMADO, D.O.F. 8 DE JULIO DE 1921)</small>
-
-###### Art. 14o.
-
-Queda suprimida la Secretaría de Justicia.
-
-###### Art. 15.
-
-Se faculta al C. Encargado del Poder Ejecutivo de la Unión para que expida la ley de responsabilidad civil aplicable a los autores, cómplices y encubridores de los delitos cometidos contra el orden constitucional en el mes de febrero de 1913 y contra el Gobierno Constitucionalista.
-
-###### Art. 16.
-
-El Congreso Constitucional en el período ordinario de sus sesiones, que comenzará el 1o. de septiembre de este año, expedirá todas las leyes orgánicas de la Constitución que no hubieren sido ya expedidas en el período extraordinario a que se refiere el artículo 6o. transitorio, y dará preferencia a las leyes relativas a Garantías Individuales, y artículos 30, 32, 33, 35, 36, 38, 107 y parte final del artículo 111 de esta Constitución.
-
-> <small>(ADICIONADO, D.O.F. 7 DE ABRIL DE 1986)</small>
-
-###### Art. 17.
-
-Los Diputados que se elijan a la LIV Legislatura del Congreso de la Unión, durarán en funciones del 1o. de septiembre de 1988 hasta el 31 de octubre de 1991.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1986)</small>
-
-###### Art. 18.
-
-Los senadores que se elijan a las LIV y LV Legislaturas del Congreso de la Unión durarán en funciones del 1o. de septiembre de 1988 al 31 de octubre de 1994, y los que se elijan para la LIV Legislatura, que serán los nombrados en segundo lugar, durarán en funciones del 1o. de septiembre de 1988 al 31 de octubre de 1991.
-
-> <small>(ADICIONADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
-
-###### Art. 19.
-
-La Comisión Permanente se integrará con 37 miembros en los términos del Artículo 78 de esta Constitución a partir del primer receso de la LIV Legislatura al H. Congreso de la Unión.
-
-> <small>(F. DE E., D.O.F. 6 DE FEBRERO DE 1917)</small>
-
-Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a treinta y uno de enero de mil novecientos diecisiete.- Presidente: Luis Manuel Rojas, Diputado por el Estado de Jalisco.- Primer Vice-Presidente: Gral. de División Cándido Aguilar, Diputado por el Estado de Veracruz.- Segundo Vice-Presidente: Gral. Brigadier Salvador González Torres, Diputado por el Estado de Oaxaca.- Diputado por el Estado de Aguascalientes: Daniel Cervantes.- Diputado por el Territorio de la Baja California: Ignacio Roel.- Diputados por el Estado de Coahuila: M. Aguirre Berlanga, José Ma. Rodríguez, Jorge E. Von Versen, Manuel Cepeda Medrano, José Rodríguez González (Suplente).- Diputado por el Edo. de Colima: Francisco Ramírez Villarreal.- Diputados por el Edo. de Chiapas: Enrique Suárez, Lisandro López, Daniel A. Cepeda, Cristóbal Ll. y Castillo, J. Amilcar Vidal.- Diputado por el Edo. de Chihuahua: Manuel M. Prieto.- Diputados por el Distrito Federal: Gral. Ignacio L. Pesqueira, Lauro López Guerra, Gerzayn Ugarte, Amador Lozano, Félix F. Palavicini, Carlos Duplán, Rafael L. de los Ríos, Arnulfo Silva, Antonio Norzagaray, Ciro B. Ceballos, Alfonso Herrera, Román Rosas y Reyes (Suplente), Lic. Francisco Espinosa (Suplente).- Diputados por el Edo. de Durango: Silvestre Dorador, Lic. Rafael Espeleta, Antonio Gutiérrez, Dr. Fernando Gómez Palacio, Alberto Terrones B., Jesús de la Torre.- Diputados por el Edo. de Guanajuato: Gral. Lic. Ramón Frausto, Ing. Vicente M. Valtierra, José N. Macías, David Peñaflor, José Villaseñor, Santiago Manrique, Lic. Hilario Medina, Manuel G. Aranda, Enrique Colunga, Ing. Ignacio López, Dr. Francisco Díaz Barriga, Nicolás Cano, Tte. Crnl. Gilberto N. Navarro, Luis Fernández Martínez, Luis M. Alcocer (Suplente), Ing. Carlos Ramírez Llaca.- Diputados por el Edo. de Guerrero: Fidel Jiménez, Fidel Guillén, Francisco Figueroa.- Diputados por el Edo. de Hidalgo: Antonio Guerrero, Leopoldo Ruiz, Lic. Alberto M. González, Rafael Vega Sánchez, Alfonso Cravioto, Matías Rodríguez, Ismael Pintado Sánchez, Lic. Refugio M. Mercado, Alfonso Mayorga.- Diputados por el Edo. de Jalisco: Marcelino Dávalos, Federico E. Ibarra, Manuel Dávalos Ornelas, Francisco Martín del Campo, Bruno Moreno, Gaspar Bolaños B., Juan de Dios Robledo, Ramón Castañeda y Castañeda, Jorge Villaseñor, Gral. Amado Aguirre, José I. Solórzano, Francisco Labastida Izquierdo, Ignacio Ramos Praslow, José Manzano, Joaquín Aguirre Berlanga, Gral. Brigadier Esteban B. Calderón, Paulino Machorro y Narváez, Crnl. Sebastián Allende, Jr.- Diputados por el Edo. de México: Aldegundo Villaseñor, Fernando Moreno, Enrique O'Fárril, Guillermo Ordorica, José J. Reynoso, Antonio Aguilar, Juan Manuel Giffard, Manuel A. Hernández, Enrique A. Enríquez, Donato Bravo Izquierdo, Rubén Martí.- Diputados por el Edo. de Michoacán: José P. Ruíz, Alberto Peralta, Cayetano Andrade, Uriel Avilés, Gabriel R. Cervera, Onésimo López Couto, Salvador Alcaraz Romero, Manuel Martínez Solórzano, Martín Castrejón, Lic. Alberto Alvarado, José Alvarez, Rafael Márquez, José Silva Herrera, Amadeo Betancourt, Francisco J. Múgica, Jesús Romero Flores.- Diputados por el Edo. de Morelos: Antonio Garza Zambrano, Alvaro L. Alcázar, José L. Gómez.- Diputados por el Edo. de Nuevo León: Manuel Amaya, Nicéforo Zambrano, Luis Ilizaliturri, Crnl. Ramón Gámez, Reynaldo Garza, Plutarco González, Lorenzo Sepúlveda (Suplente).- Diputados por el Edo. de Oaxaca: Juan Sánchez, Leopoldo Payán, Lic. Manuel Herrera, Lic. Porfirio Sosa, Lic. Celestino Pérez Jr., Crisóforo Rivera Cabrera, Crnl. José F. Gómez, Mayor Luis Espinosa.- Diputados por el Edo. de Puebla: Dr. Salvador R. Guzmán, Lic. Rafael P. Cañete, Miguel Rosales, Gabriel Rojana, Lic. David Pastrana Jaimes, Froylán C. Manjarrez, Tte. Crnl. Antonio de la Barrera, Mayor José Rivera, Crnl. Epigmenio A. Martínez, Pastor Rouaix, Crnl. de Ings. Luis T. Navarro, Tte. Crnl. Federico Dinorín, Gral. Gabino Bandera Mata, Crnl. Porfirio del Castillo, Crnl. Dr. Gilberto de la Fuente, Alfonso Cabrera, José Verástegui.- Diputados por el Edo. de Querétaro: Juan N. Frías, Ernesto Perrusquía.- Diputados por el Edo. de San Luis Potosí: Samuel M. Santos, Dr. Arturo Méndez, Rafael Martínez Mendoza, Rafael Nieto, Dionisio Zavala, Gregorio A. Tello, Rafael Curiel, Cosme Dávila (Suplente).- Diputados por el Edo. de Sinaloa: Pedro R. Zavala, Andrés Magallón, Carlos M. Ezquerro, Cándido Avilés, Emiliano C. García.- Diputados por el Edo. de Sonora: Luis G. Monzón, Ramón Ross.- Diputados por el Edo. de Tabasco: Lic. Rafael Martínez de Escobar, Santiago Ocampo, Carmen Sánchez Magallanes,- Diputados por el Edo. de Tamaulipas: Crnl. Pedro A. Chapa, Ceferino Fajardo, Fortunato de la Híjar, Emiliano Próspero Nafarrete.- Diputados por el Territorio de Tepic: Tte. Crnl. Cristóbal Limón, Mayor Marcelino Sedano, Juan Espinosa Bávara.- Diputados por el Edo. de Tlaxcala: Antonio Hidalgo, Ascensión Tépal, Modesto González y Galindo.- Diputados por el Edo. de Veracruz: Saúl Rodiles, Enrique Meza, Benito Ramírez G., Eliseo L. Céspedes, Adolfo G. García, Josafat F. Márquez, Alfredo Solares, Alberto Román, Silvestre Aguilar, Angel S. Juarico, Heriberto Jara, Victorio N. Góngora, Carlos L. Gracidas (Suplente), Marcelo Torres, Juan de Dios Palma, Galdino H. Casados, Fernando A. Pereyra.- Diputados por el Edo. de Yucatán: Enrique Recio, Miguel Alonso Romero, Héctor Victoria A.- Diputados por el Edo. de Zacatecas: Adolfo Villaseñor, Julián Adame, Jairo R. Dyer, Samuel Castañón, Andrés L. Arteaga, Antonio Cervantes, Crnl. Juan Aguirre Escobar.- Secretario: Fernando Lizardi, Diputado por el Edo. de Guanajuato.- Secretario: Ernesto Meade Fierro, Diputado por el Edo. de Coahuila.- Secretario: José M. Truchuelo, Diputado por el Edo. de Querétaro.- Secretario: Antonio Ancona Albertos, Diputado por el Edo. de Yucatán.- Prosecretario: Dr. Jesús López Lira, Diputado por el Edo. de Guanajuato.- Prosecretario: Fernando Castaños, Diputado por el Edo. de Durango.- Prosecretario: Juan de Dios Bojórquez, Diputado por el Edo. de Sonora.- Prosecretario: Flavio A. Bórquez, Diputado por el Edo. de Sonora.
-
-Por tanto, mando se imprima, circule y publique por bando solemne y pregón en toda la República para su debido cumplimiento.
-
-Dado en el Palacio Nacional de la Ciudad de Querétaro, el 5 de febrero de 1917.- V. CARRANZA.- Rúbrica.
-
-Al C. Lic. Manuel Aguirre Berlanga, Subsecretario Encargado del Despacho de Gobernación.- México.
-
-Lo que hónrome en comunicar a usted para su publicación y demás efectos.
-
-Constitución y Reformas.- México, cinco de febrero de mil novecientos diez y siete.- AGUIRRE BERLANGA.
-
-Al Ciudadano ..
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
-
-D.O.F. 8 DE JULIO DE 1921.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
-
-D.O.F. 24 DE NOVIEMBRE DE 1923.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
-
-D.O.F. 22 DE ENERO DE 1927.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
-
-D.O.F. 24 DE ENERO DE 1928.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
-
-D.O.F. 20 DE AGOSTO DE 1928.
-
-LEY QUE REFORMA LOS ARTICULOS 73, 74, 76, 79, 89, 94, 96, 97, 98, 99, 100 Y 111.
 
 ###### ARTICULO 101.
 
@@ -3905,9 +3681,7 @@ VII.- CUANDO EL FIADOR TENGA MOTIVOS FUNDADOS PARA NO CONTINUAR DESEMPEÑANDO EL
 
 QUEDAN EXCLUIDOS DEL BENEFICIO DE LA CONDENA CONDICIONAL LOS DELITOS PREVISTOS EN LOS ARTICULOS 153, 154, 164, 165, 165 BIS, 176, 265, 267, 268, 313, 322, 403 Y 406 BIS DE ESTE CODIGO.
 
-## TITULO SEPTIMO.
-
-PREVENCIONES GENERALES.
+## TITULO SEPTIMO. EXTINCION DE LA RESPONSABILIDAD PENAL
 
 ### CAPITULO II. AMNISTIA
 
@@ -4139,9 +3913,9 @@ II.- CUANDO HABIENDO COMPARECIDO A LA AUDIENCIA, SE AUSENTE DE ELLA SIN CAUSA JU
 
 EN ESTOS CASOS QUEDARAN A SALVO LOS DERECHOS DEL OFENDIDO RESPECTO A LA REPARACION DEL DAÑO, PARA QUE LOS HAGA VALER EN LA VIA Y FORMA QUE CORRESPONDA.
 
-## TITULO OCTAVO.
+## TITULO OCTAVO. RESPONSABILIDAD PECUNIARIA DERIVADA DEL DELITO
 
-DE LAS REFORMAS DE LA CONSTITUCION.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
 
 ### CAPITULO I. REBELION
 
@@ -4227,9 +4001,7 @@ LAS COSAS, BIENES, OBJETOS O VALORES QUE ESTEN A DISPOSICION DE LAS AUTORIDADES 
 
 # LIBRO SEGUNDO. PARTE ESPECIAL
 
-## TITULO NOVENO.
-
-DE LA INVIOLABILIDAD DE LA CONSTITUCION.
+## TITULO PRIMERO. DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO
 
 ### CAPITULO II. SEDICION Y OTROS DESORDENES PUBLICOS
 
@@ -4413,7 +4185,7 @@ SI LA REAPREHENSION DEL PROFUGO, EN LOS CASOS ANTERIORES, SE LOGRARE POR GESTION
 
 AL DETENIDO O PRIVADO DE LA LIBERTAD QUE SE FUGUE, NO SE LE APLICARA SANCION ALGUNA. SI PARA FUGARSE EJERCIERE VIOLENCIA SOBRE LAS PERSONAS O LAS COSAS, SE LE SANCIONARA CON LA PENA DE SEIS MESES A TRES AÑOS DE PRISION.
 
-LA RESPONSABILIDAD PECUNARIA (/SIC) CORRESPONDE AL FUGADO, Y NO A LOS QUE PARTICIPAREN EN LA EVASION.
+LA RESPONSABILIDAD PECUNARIA (SIC) CORRESPONDE AL FUGADO, Y NO A LOS QUE PARTICIPAREN EN LA EVASION.
 
 NO SE IMPONDRA SANCION A LOS ASCENDIENTES, DESCENDIENTES, CONYUGE, HERMANOS, PADRES Y HERMANOS ADOPTIVOS DEL PROFUGO; A SUS PARIENTES POR AFINIDAD HASTA EL SEGUNDO GRADO, EXCEPTO EL CASO DE QUE HAYAN PROPICIADO LA FUGA POR MEDIO DE LA VIOLENCIA, EN LAS PERSONAS O EN LAS COSAS.
 
@@ -5625,9 +5397,11 @@ VIII.- EXPIDIENDO UN TESTIMONIO SUPUESTO DE DOCUMENTOS QUE NO EXISTEN; DANDOLO D
 
 IX.- ALTERANDO, UN PERITO TRADUCTOR O PALEOGRAFO EL CONTENIDO DE UN DOCUMENTO, AL TRADUCIRLO O DESCIFRARLO.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 246.
 
-EL DELITO DE FALSIFICACION DE DOCUMENTOS PUBLICOS O PRIVADOS SE CASTIGARA CON PRISION DE SEIS MESES A TRES AÑOS, Y MULTA DE UNA A DIEZ CUOTAS.
+EL DELITO DE FALSIFICACION DE DOCUMENTOS PRIVADOS SE CASTIGARA CON PRISION DE SEIS MESES A TRES AÑOS Y MULTA DE UNA A DIEZ CUOTAS. CUANDO SE TRATE DE DOCUMENTOS PUBLICOS SE CASTIGARA CON PRISION DE DOS A CINCO AÑOS Y MULTA DE CUARENTA A CIEN CUOTAS.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
 
@@ -5677,23 +5451,29 @@ COMETE EL DELITO DE FALSEDAD DE DECLARACIONES Y EN INFORMES DADOS A UNA AUTORIDA
 
 I.- EL QUE INTERROGADO POR ALGUNA AUTORIDAD PUBLICA EN EJERCICIO DE SUS FUNCIONES O CON MOTIVO DE ELLAS, FALTARE A LA VERDAD;
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2009)</small>
 
-II.- EL QUE EXAMINADO POR LA AUTORIDAD JUDICIAL COMO TESTIGO O PERITO, FALTARE A LA VERDAD SOBRE EL HECHO QUE SE TRATA DE AVERIGUAR, YA SEA AFIRMANDO, NEGANDO U OCULTANDO LA EXISTENCIA DEL (SIC) ALGUNA CIRCUNSTANCIA QUE PUEDA SERVIR DE PRUEBA DE LA VERDAD O FALSEDAD DEL HECHO PRINCIPAL, O QUE AUMENTE O DISMINUYA SU GRAVEDAD;
+II.- EL QUE EXAMINADO POR LA AUTORIDAD JUDICIAL COMO TESTIGO O PERITO, FALTARE A LA VERDAD SOBRE EL HECHO QUE SE TRATA DE AVERIGUAR, YA SEA AFIRMANDO, NEGANDO U OCULTANDO LA EXISTENCIA DE ALGUNA CIRCUNSTANCIA QUE PUEDA SERVIR DE PRUEBA DE LA VERDAD O FALSEDAD DEL HECHO PRINCIPAL, O QUE AUMENTE O DISMINUYA SU GRAVEDAD;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2009)</small>
 
 III.- EL QUE, CON ARREGLO A DERECHO, CON CUALQUIER CARACTER, EXCEPTO EL DE TESTIGO, FALTARE A LA VERDAD EN PERJUICIO DE OTRO, NEGANDO SER SUYA LA FIRMA CON QUE HUBIERE SUSCRITO UN DOCUMENTO O AFIRMANDO UN HECHO FALSO O ALTERANDO O NEGANDO UNO VERDADERO, O SUS CIRCUNSTANCIAS SUBSTANCIALES.
 
-LO PREVISTO EN ESTA FRACCION NO COMPRENDE LOS CASOS EN QUE LA PARTE SEA EXAMINADA SOBRE LA CANTIDAD EN QUE ESTIME UNA COSA, O CUANDO TENGA EL CARACTER DE ACUSADO; Y
+LO PREVISTO EN ESTA FRACCION NO COMPRENDE LOS CASOS EN QUE LA PARTE SEA EXAMINADA SOBRE LA CANTIDAD EN QUE ESTIME UNA COSA, O CUANDO TENGA EL CARACTER DE ACUSADO; O
 
 IV.- QUIEN RINDA INFORMES A UNA AUTORIDAD, EN LOS QUE AFIRME UNA FALSEDAD O NIEGUE LA VERDAD EN TODO O EN PARTE.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2009)</small>
+
+ADEMAS, COMETE EL DELITO DE FALSEDAD QUIEN PROPORCIONE DATOS O INFORMACION A UNA AUTORIDAD PUBLICA EN EJERCICIO DE SUS FUNCIONES, UTILIZANDO INTERNET O CUALQUIER OTRO MEDIO DE COMUNICACION TELEFONICO O ELECTRONICO, AFIRMANDO UNA FALSEDAD O NEGANDO LA VERDAD EN TODO O EN PARTE. PARA EFECTOS DE ESTE PARRAFO, NO SE LE REQUERIRA LA TOMA DE PROTESTA DE DECIR VERDAD NI APERCIBIMIENTO DE SANCION QUE SEÑALA ESTE ARTICULO.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 250.
 
-A LOS RESPONSABLES DE LOS DELITOS A QUE SE REFIERE EL ARTICULO ANTERIOR, SE LES SANCIONARA CON PRISION DE DOS A CINCO AÑOS, Y MULTA DE CUARENTA A CIEN CUOTAS.
+A LOS RESPONSABLES DE LOS DELITOS A QUE SE REFIERE EL ARTICULO ANTERIOR, SE LES SANCIONARA CON PRISION DE CUATRO A OCHO AÑOS Y MULTA DE CIEN A QUINIENTAS CUOTAS.
 
-LA SANCION PODRA SER HASTA DE QUINCE AÑOS DE PRISION, PARA EL TESTIGO FALSO A QUE SE REFIERE LA FRACCION II DEL ARTICULO ANTERIOR, QUE FUERE EXAMINADO EN JUICIO CRIMINAL, CUANDO AL ACUSADO SE LE CONDENE A UNA SANCION DE MAS DE VEINTE AÑOS DE PRISION POR HABERSELE DADO FUERZA PROBATORIA A SU DECLARACION.
+LA SANCION PODRA SER HASTA DE VEINTE AÑOS DE PRISION, PARA EL TESTIGO FALSO A QUE SE REFIERE LA FRACCION II DEL ARTICULO ANTERIOR, QUE FUERE EXAMINADO EN JUICIO CRIMINAL, CUANDO AL ACUSADO SE LE CONDENE A UNA SANCION DE MAS DE VEINTE AÑOS DE PRISION POR HABERSELE DADO FUERZA PROBATORIA A SU DECLARACION.
 
 ###### ARTICULO 251.
 
@@ -5735,7 +5515,7 @@ EN TODO CASO SE ENTENDERA POR OBTENCION, ADEMAS DE LA EXPEDICION POR PARTE DE LA
 
 ### CAPITULO II. ESTUPRO
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 255.
 
@@ -5831,9 +5611,7 @@ ARTICULO 271 BIS 4.- TRATANDOSE DE DELITOS SEXUALES, SE INCREMENTARA LA PENA EN 
 
 ###### ARTICULO 262.
 
-COMETE EL DELITO DE ESTUPRO, EL QUE TENGA COPULA MEDIANTE SEDUCCION O ENGAÑO, CON MUJER MENOR DE EDAD, QUE SEA MAYOR DE TRECE AÑOS.
-
-NO SE CONSIDERARAN COMO ESTUPRO, LOS CASOS EN QUE LA RELACION SE DE COMO CONSECUENCIA DE UN ACTO ILEGAL DE TRANSACCION COMERCIAL.
+COMETE EL DELITO DE ESTUPRO, QUIEN TENGA COPULA MEDIANTE SEDUCCION O ENGAÑO, CON PERSONA MENOR DE EDAD, QUE SEA MAYOR DE TRECE AÑOS.
 
 ###### ARTICULO 263.
 
@@ -5923,7 +5701,7 @@ SI LA VIOLACION SE COMETE CON LA INTERVENCION DE DOS O MAS PERSONAS, A LA PENA Q
 
 ### CAPITULO VI. SUBSTRACCION DE MENORES
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 272.
 
@@ -6031,7 +5809,7 @@ PARA QUE EL PERDON CONCEDIDO POR EL CONYUGE OFENDIDO PUEDA PRODUCIR LA LIBERTAD 
 
 ###### ARTICULO 284.
 
-A LOS PADRES, ABUELOS Y PARIENTES CONSANGUINEOS HASTA EL CUARTO GRADO, QUE SIN CAUSA JUSTIFICADA SUSTRAIGAN A LOS MENORES DEL LUGAR DONDE SE ENCUENTREN, DESPLAZANDOLOS DEL CONTROL DE QUIEN TENGA MATERIALMENTE LA CUSTODIA O LA PATRIA POTESTAD, SE LES APLICARA UNA SANCION DE DOS A CINCO AÑOS DE PRISION Y MULTA DE 10 A 30 CUOTAS. SE ENTIENDE QUE EXISTE CAUSA JUSTIFICADA, ENTRE OTRAS, EN CASO DE EBRIEDAD, TOXICOMANIA, GOLPES, AMENAZAS FALTA DE MINISTRACION DE ALIMENTOS DE FORMA REITERADA Y MALOS TRATOS.
+A LOS PADRES, ABUELOS O PARIENTES CONSANGUINEOS HASTA EL CUARTO GRADO, QUE SIN CAUSA JUSTIFICADA, RETENGAN O SUSTRAIGAN AL MENOR DEL LUGAR DONDE SE ENCUENTRE, DESPLAZANDOLO DEL CONTROL DE QUIEN TENGA MATERIALMENTE LA CUSTODIA O LA PATRIA POTESTAD, SE LES APLICARA UNA SANCION DE DOS A CINCO AÑOS DE PRISION Y MULTA DE 10 A 30 CUOTAS. SE ENTIENDE QUE EXISTE CAUSA JUSTIFICADA, ENTRE OTRAS, EN CASO DE EBRIEDAD, TOXICOMANIA, GOLPES, AMENAZAS, FALTA DE MINISTRACION DE ALIMENTOS DE FORMA REITERADA O MALOS TRATOS.
 
 ###### ARTICULO 285.
 
@@ -7991,59 +7769,53 @@ Las enajenaciones de los bienes muebles no podrán realizarse a favor de los ser
 
 Las disposiciones de este capítulo regulan la adquisición y el arrendamiento de bienes inmuebles, para satisfacción de las necesidades de la Administración Pública Municipal.
 
-###### ARTICULO PRIMERO.
+###### ARTICULO PRIMERO
 
-La presente reforma entrará en vigor el día 15 de diciembre del año en curso.
+- EL PRESENTE CODIGO ENTRARA EN VIGOR EL DIA TREINTA (30) DE MARZO DEL AÑO EN CURSO DE MIL NOVECIENTOS NOVENTA.
 
-###### ARTICULO SEGUNDO.
+> <small>(F. DE E., P.O. 9 DE ABRIL DE 1990)</small>
 
-Los ministros de la Suprema Corte de la Nación y los magistrados del Tribunal Superior de Justicia del Distrito y Territorios Federales, actualmente en ejercicio, cesarán en sus encargos el día 31 de diciembre del año en curso.
+###### ARTICULO SEGUNDO
 
-###### ARTICULO TERCERO.
+- EL PRESENTE CODIGO PENAL, ABROGA AL CODIGO PENAL, A QUE SE REFIERE EL DECRETO NUM. 135, QUE APARECIO PUBLICADO EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO, DEL VIERNES 28 DE AGOSTO DE 1981 Y QUE FUE DADO EN EL DESPACHO DEL PODER EJECUTIVO EN LA CIUDAD DE MONTERREY, CAPITAL DEL ESTADO DE NUEVO LEON A LOS DIECINUEVE DIAS DEL MES DE JUNIO DE 1981.
 
-Los ministros de la Suprema Corte de Justicia y los magistrados del Tribunal Superior de Justicia del Distrito y Territorios Federales que sean designados de acuerdo con la presente reforma, tomarán posesión el día 1º de enero del próximo año de 1935.
+###### ARTICULO TERCERO
 
-###### ARTICULO CUARTO.
+- TODAS LAS DISPOSICIONES LEGALES EN CUANTO SE OPONGAN A ESTE CODIGO QUEDAN DEROGADAS.
 
-La Suprema Corte de Justicia de la Nación designará a los nuevos magistrados de Circuito y jueces de Distrito, dentro de los diez primero días del mes de enero de 1935. Asimismo, el Tribunal Superior de Justicia del Distrito y Territorios Federales designará a los nuevos jueces del fuero común del Distrito y Territorios Federales dentro del mismo plazo.
+###### ARTICULO CUARTO
 
-D.O.F. 15 DE DICIEMBRE DE 1934.
+- TODOS LOS HECHOS OCURRIDOS, PROCESOS INSTRUIDOS Y SENTENCIAS PRONUNCIADAS CONFORME AL CODIGO QUE SE DEROGA, SE REGIRAN POR LA LEY MAS FAVORABLE AL INCULPADO, PROCESADO O SENTENCIADO.
 
-DECRETO QUE REFORMA EL ARTICULO 32.
+###### ARTICULO QUINTO
 
-###### ARTICULO 1o.
+- PARA LOS EFECTOS DEL TRANSITORIO ANTERIOR Y EN TRATANDOSE DE SANCIONES PRIVATIVAS DE LA LIBERTAD, CADA CASO CONCRETO DE SENTENCIAS EJECUTORIADAS, SE RESOLVERA MULTIPLICANDO LA SANCION IMPUESTA POR LA SUMA DEL MINIMO Y MAXIMO DE ESTE CODIGO Y SE DIVIDIRA ENTRE EL RESULTADO DE LA SUMA DEL MINIMO Y MAXIMO DE LA SANCION ABSTRACTA DEL CODIGO QUE SE DEROGA Y EL RESULTADO QUE SE OBTENGA SERA LA SANCION A COMPURGAR.
 
-Se concede un plazo de seis meses a los agentes aduanales que en la actualidad funcionen sin tener la calidad de ciudadanos mexicanos por nacimiento para que hagan entrega de sus oficinas respectivas.
+###### ARTICULO SEXTO
 
-###### ARTICULO 2o.
+- CUANDO LA SANCION IMPUESTA HAYA SIDO MINIMA SEÑALADA EN EL CODIGO ANTERIOR, LA AUTORIDAD ENCARGADA DE SU EJECUCION ENTENDERA QUE LA MISMA SE REDUCE AL MINIMO DE LA SEÑALADA EN ESTE CODIGO.
 
-Este Decreto entrará en vigor desde la fecha de su publicación en el "Diario Oficial" de la Federación.
+ENVIESE AL EJECUTIVO PARA SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
 
-D.O.F. 16 DE ENERO DE 1935.
+Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital, a los doce días del mes de febrero de mil novecientos noventa.- PRESIDENTE: DIP. HUMBERTO SALAZAR GARZA.- DIP. SECRETARIO: CONSUELO BOTELLO DE FLORES.- DIP. SECRETARIO: CARLOS MIRELES MORALES.- RUBRICAS.
 
-###### ARTICULO 1o.
+Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, a los veintiséis días del mes de febrero de mil novecientos noventa.
 
-La presente reforma entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial" de la Federación.
+EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO
 
-###### ARTICULO 2o.
+LIC. JORGE A. TREVIÑO
 
-Los bienes inmuebles ubicados en la nueva entidad federativa, que pasaron a ser propiedad de los Estados de Yucatán y Campeche, con motivo del Decreto de 24 de octubre de 1932, así como los que con posterioridad se hubieren destinado al servicio público, pertenecerán al territorio de Quintana Roo; lo mismo se observará respecto de los bienes muebles que tengan igual destino, ya se encuentren dentro de los inmuebles de referencia o fuera de ellos.
+EL C. SECRETARIO GENERAL DE GOBIERNO
 
-###### ARTICULO 3o.
+LIC. JOSE N. GONZALEZ PARAS
 
-La organización política y judicial del Territorio de Quitana (sic) Roo, se regirá transitoriamente, en tanto no se reformen las leyes en vigor, por las que le eran aplicables el 14 de diciembre de 1931, en todo lo que no pugnen con la Constitución Federal.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
 
-###### ARTICULO 4o.
+P.O. 20 DE JUNIO DE 1990.
 
-Las deudas pendientes hasta la fecha en que entre en vigor esta reforma, y que hubieren contraído los Estados de Yucatán y Campeche, con motivo de la administración del territorio anexado, quedarán a cargo de los Erarios respectivos y a su favor, igualmente, los créditos pendientes constituídos por el mismo objeto.
+UNICO:- El presente Decreto entrara en vigor al día siguiente de su publicación.
 
-###### ARTICULO QUINTO.
-
-Las Salas correspondientes de la Suprema Corte de Justicia resolverán los amparos directos, penales o del trabajo, por violaciones cometidas durante la secuela del procedimiento, que se hayan promovido con anterioridad a la fecha en que entren en vigor las presentes reformas y que, en lo sucesivo, de acuerdo con la fracción VI del artículo 107, serán de la competencia de los Tribunales Colegiados de Circuito.
-
-###### ARTICULO SEXTO.
-
-Queda facultada la Suprema Corte de Justicia de la Nación, para dictar todas las otras medidas transitorias que sean necesarias, para la efectividad e inmediato cumplimiento de las presentes reformas.
+P.O. 3 DE JULIO DE 1991.
 
 ###### ARTICULO SEPTIMO.
 
@@ -8051,77 +7823,337 @@ La reforma al artículo 73, fracción VI, Base Cuarta, párrafo último, entrar�
 
 > <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
 
-###### ARTICULO UNICO.
+###### ARTICULO UNICO
 
-Esta Ley comenzará a regir desde la fecha de su publicación en el "Diario Oficial."
+- Este Decreto entrara en vigor el día de su publicación en el Periódico Oficial del Estado.
 
-D.O.F. 29 DE ABRIL DE 1933.
+P.O. 23 DE DICIEMBRE DE 1991.
 
-###### ARTICULO UNICO.
+###### ARTICULO UNICO
 
-En las próximas elecciones ordinarias de Poderes Federales, se elegirán Senadores de número par por un período de seis años; en el año de 1936 deberán verificarse elecciones extraordinarias de Senadores de número impar, para un período de cuatro años, y en el año de 1940 se verificarán elecciones ordinarias de la totalidad de los miembros del Senado de la República.
+- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-D.O.F. 4 DE NOVIEMBRE DE 1933.
+P.O. 8 DE JULIO DE 1992.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+UNICO:- Las presentes reformas entrarán en vigor quince días después de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
-D.O.F. 10 DE ENERO DE 1934.
+P.O. 1 DE JUNIO DE 1994.
 
-UNICO.- Se abroga la Ley de 6 de enero de 1915, sus reformas y demás disposiciones legales que se opongan a la vigencia de la presente reforma.
+PRIMERO: La presente Ley entrará en vigor sesenta días después de su publicación en el Periódico Oficial del Estado.
 
-D.O.F. 18 DE ENERO DE 1934.
+SEGUNDO: Se abroga la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad para el Estado de Nuevo León, promulgada con fecha 1- uno de junio de 1973- mil novecientos setenta y tres.
 
-DECRETO QUE REFORMA EL ARTICULO 42.
+TERCERO: Se derogan los artículos 83, 84, 99, 100, 101, 102, 103, 104, 105, 106, 107, 112, 114 y 115 del Código Penal del Estado de Nuevo León.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+CUARTO: Se derogan el artículo 512, el párrafo primero del artículo 516, y los artículos 517, 518, 519, 520, 521, 522, 523, 524, 525, 528, 529, 540 y 541 del Código de Procedimientos Penales del Estado de Nuevo León.
 
-D.O.F. 18 DE ENERO DE 1934.
+QUINTO: Se derogan todas las disposiciones que se opongan a los preceptos de esta Ley.
 
-DECRETO QUE REFORMA LOS ARTICULOS 30, 37, 73, FRACCION XVI Y 133.
+SEXTO: La libertad definitiva de los reclusos ya condenados en Primera o en Segunda Instancia para el día en que entre en vigor esta Ley, cualquiera que sea el delito imputado, se ajustará a los términos que a ese respecto dispone la anterior Ley sobre Ejecución de Penas Privativas y Restrictivas de la Libertad para el Estado de Nuevo León.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+SEPTIMO: Todas las solicitudes de libertad preparatoria y de indulto que se hallen pendientes de decidir al entrar en vigor esta Ley, se resolverán de acuerdo a ella o a los códigos o leyes anteriores que le resulten más favorables al solicitante.
 
-D.O.F. 18 DE ENERO DE 1934.
+OCTAVO: El Ejecutivo del Estado, a través de la Dirección de Prevención y Readaptación Social, expedirá los reglamentos necesarios para los establecimientos penitenciarios y su régimen interior, para el Consejo Técnico Interdisciplinario, para el Consejo Técnico General y para el Patronato de Asistencia a Liberados.
 
-DECRETO QUE REFORMA LA FRACCION X DEL ARTICULO 73.
+P.O. 21 DE OCTUBRE DE 1994.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-D.O.F. 18 DE ENERO DE 1934.
+SEGUNDO: Se derogan todas las disposiciones que se opongan a las presentes reformas.
 
-DECRETO QUE REFORMA LA FRACCION I DEL ARTICULO 104.
+TERCERO: Las autoridades que conozcan, en su caso, de averiguaciones previas o de procesos penales en primera o segunda instancia, en trámite al entrar en vigor las presentes reformas y adiciones, estarán a lo más favorable a las personas inculpadas o procesadas, en contraste a lo previsto actualmente en los códigos penal y de procedimientos penales.
 
-###### ARTICULO UNICO.
+P.O. 24 DE ENERO DE 1997.
 
-Los recursos de súplica que actualmente se encuentran en tramitación, habrán de seguirse y de sentenciarse de acuerdo con la legislación vigente cuando se promovieron.
+UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-D.O.F. 22 DE MARZO DE 1934.
-
-UNICO.- La parte continental que anteriormente pertenecía al Territorio de Quintana Roo y que ha quedado anexada a los Estados de Yucatán y Campeche, queda libre de cualquier adeudo que pudiera existir a favor del comercio y empleados públicos que prestaron sus servicios en dicho Territorio hasta el 31 de diciembre de 1931, en que se anexó a los Estados de Yucatán y Campeche, pues la Federación liquidará y pagará dichos adeudos, debiendo quedar en consecuencia, a favor de la Federación, los créditos que hasta la fecha de la entrega de dicho Territorio existían por concepto de impuestos y demás aprovechamientos del Erario. En igualdad de circunstancias quedarán las islas y cayos que en lo futuro pertenecerán a Yucatán y Campeche.
-
-Los bienes muebles e inmuebles que estuvieron al servicio de las autoridades civiles, tanto en la parte continental como en las islas anteriormente mencionadas, pasarán a ser respectivas propiedades de las entidades federativas mencionadas.
-
-D.O.F. 13 DE DICIEMBRE DE 1934.
-
-UNICO.- Las presentes reformas constitucionales entrarán en vigor el día primero de diciembre del presente año.
-
-D.O.F. 15 DE DICIEMBRE DE 1934.
-
-DECRETO QUE REFORMA EL ULTIMO PARRAFO DE LA BASE 4ª DE LA FRACCION VI DEL ARTICULO 73, EL ARTICULO 94 Y LAS FRACCIONES II Y III DEL ARTICULO 95.
+P.O. 29 DE ENERO DE 1997.
 
 ###### ARTICULO UNICO.
 
-La presente ley entrará en vigor quince días después de la fecha en que se publique en el "Diario Oficial" de la Federación.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-D.O.F. 8 DE ENERO DE 1943.
+P.O. 31 DE ENERO DE 1997.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+ÚNICO:- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-D.O.F. 10 DE FEBRERO DE 1944.
+P.O. 25 DE JULIO DE 1997.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+###### ARTÍCULO UNICO.
 
-D.O.F. 21 DE SEPTIEMBRE DE 1944.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE JUNIO DE 1998.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE JULIO DE 1998.
+
+Primero.- En el caso de que desaparezca el costo porcentual promedio, y en tanto se realice el cambio normativo al respecto, se aplicará el que lo sustituyo o en su defecto el que más se le aproxime.
+
+Segundo.- Los intereses a los que se refiere el presente Decreto regirán para los contratos o actos jurídicos que se celebren a partir del inicio de su vigencia.
+
+Tercero.- El presente Decreto iniciará su vigencia el siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE FEBRERO DE 1999.
+
+Artículo Primero.- Se deroga el Artículo 226 Bis del Código Penal para el Estado de Nuevo León.
+
+Artículo Segundo.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE MAYO DE 1999.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE ENERO DEL 2000.
+
+Único.- El presente Decreto entrará en vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE ABRIL DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los procedimientos regulados por las disposiciones que son reformadas a través del presente Decreto y que se encuentren en trámite al entrar en vigor el mismo, se regirán por lo dispuesto por la legislación conforme a la cual se iniciaron.
+
+Las partes, en los procedimientos referidos en el párrafo anterior, podrán optar por los beneficios derivados de las mencionadas reformas.
+
+P.O. 28 DE JULIO DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Las disposiciones referentes al procedimiento abreviado, la suspensión del procedimiento de preparación de la acción penal, la suspensión del procedimiento a prueba del procesado y la mediación y conciliación penal, entrarán en vigor a los 30 días siguientes a la publicación del presente Decreto.
+
+Artículo Tercero.- Las disposiciones del Juicio Oral Penal entrarán en vigor dentro de los 120 días siguientes a la publicación de este Decreto, previo acuerdo expedido por el Consejo de la Judicatura del Estado y publicado en su Órgano de difusión así como en el Periódico Oficial del Estado.
+
+Artículo Cuarto.- Los procedimientos que en cualquier instancia estén en trámite al iniciar la vigencia de este Decreto, se tramitarán con las disposiciones de carácter general que estuvieran vigentes al momento del inicio de dichos procedimientos.
+
+P.O. 18 DE AGOSTO DE 2004.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2004.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE AGOSTO DE 2005.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE DICIEMBRE DE 2005.
+
+Artículo Primero.- El Artículo Primero del presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- El Artículo Segundo del presente Decreto en lo relativo al artículo 553 fracciones II y III del Código de Procedimientos Penales, entrará en vigor a los ciento veinte días de su publicación en el Periódico Oficial del Estado y el resto de las reformas señaladas en el Artículo Segundo del presente Decreto, entrarán en vigor a los 30 días de su publicación en dicho medio de difusión.
+
+P.O. 27 DE DICIEMBRE DE 2005.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los procesos que se encuentren vigentes a la entrada en vigor del presente decreto se regirán por la ley vigente al inicio de los mismos, sin perjuicio de los beneficios que la legislación penal otorga.
+
+Artículo Tercero.- Los hechos ocurridos con anterioridad a la entrada en vigor del presente decreto se regirán con la ley vigente al momento de ocurrir los mismos.
+
+P.O. 6 DE FEBRERO DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE FEBRERO DE 2006.
+
+Artículo Primero.- El presente Decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- El articulo 22 fracción XVII de la Ley Orgánica de la Administración Pública para el Estado de Nuevo León entrará en vigor el día 15 de febrero de 2006.
+
+Artículo Tercero.- El Ejecutivo del Estado y las autoridades municipales en el ámbito de su competencia, deberán expedir, en un término que no exceda de noventa días contados a partir de la entrada en vigor del presente decreto, las disposiciones reglamentarias que regulen el servicio comunitario.
+
+Artículo Cuarto.- El Ejecutivo del Estado deberá expedir en un plazo no mayor a 90 días hábiles contados a partir de la entrada en vigor del presente Decreto el Reglamento del Consejo Estatal de Salud, en el cual deberá regularse las funciones del Consejo y sus Comisiones, así como la integración de estas.
+
+Artículo Quinto.- Se concede a las personas físicas y morales que transporten con fines comerciales bebidas alcohólicas dentro del Estado de Nuevo León, un plazo de 60 días hábiles a partir de la entrada en vigor del presente decreto, para obtener la Autorización de Transporte de Bebidas Alcohólicas expedida por la Secretaria de Salud, en los términos de las disposiciones de este Decreto.
+
+P.O. 10 DE SEPTIEMBRE DE 2006.
+
+Artículo Primero.- Las disposiciones legales contenidas en el presente Decreto entrarán en vigor el día 12 de septiembre del 2006.
+
+Artículo Segundo.- Se abroga la Ley del Consejo Estatal de Menores y se derogan todas las normas que se opongan al presente Decreto, salvo lo previsto en los Artículos Tercero, Cuarto y Quinto siguientes.
+
+Artículo Tercero.- Las investigaciones, procedimientos y recursos iniciados en el Consejo Estatal de Menores en fecha anterior a la entrada en vigor de este decreto continuarán tramitándose conforme a las disposiciones de la Ley del Consejo Estatal de Menores, sin perjuicio de que en materia de medidas sancionadoras puedan acogerse a la Ley que más le beneficie.
+
+Artículo Cuarto.- Hasta que se encuentren concluidos los procedimientos a que refiere el artículo tercero transitorio, el Consejo Estatal de Menores continuará con la aplicación de las disposiciones de la Ley del Consejo Estatal de Menores, con el presupuesto y los recursos estrictamente indispensables, debiéndose para el efecto realizar los ajustes necesarios, una vez concluido lo anterior, quedará disuelto el Consejo Estatal de Menores.
+
+Artículo Quinto.- Los adolescentes que se encuentren cumpliendo una medida de conformidad con la ley que se abroga, quedarán sujetos al régimen previsto en la Ley del Sistema Especial de Justicia para Adolescentes del Estado de Nuevo León en todo aquello que les beneficie.
+
+Artículo Sexto.- Dentro del plazo de entrada en vigor del presente Decreto, la Secretaría de Finanzas y Tesorería General del Estado coordinará la transferencia de presupuesto, recursos humanos, técnicos y materiales necesarios, asignados al Consejo Estatal de Menores, a las autoridades que el presente Decreto les atribuya competencia en materia de Adolescentes Infractores.
+
+Artículo Séptimo.- Quedan a salvo los derechos laborales del personal del Consejo Estatal de Menores.
+
+Artículo Octavo.- El Juez de Ejecución resolverá sobre la adecuación de las medidas aplicadas con anterioridad a la entrada en vigor del presente Decreto, en los casos que conforme a éste, su duración se modifique en beneficio del adolescente.
+
+Artículo Noveno.- Las autoridades investigadoras y judiciales, a que se refiere este Decreto, conocerán de los hechos que se atribuyan delictuosos que hubieren sido cometidos por adolescentes con anterioridad a la vigencia de este Decreto y respecto de los cuales no se hubiere iniciado procedimiento.
+
+Artículo Décimo.- En los casos en que no se haya pronunciado sentencia ejecutoria, a la entrada en vigor del presente Decreto, los Consejeros Unitarios o la Sala Superior, de la Sala Superior del Consejo Estatal de Menores ordenarán la inmediata libertad de los adolescentes menores de 14 años de edad internados. Se procederá de igual forma, en el caso de mayores de 14 años, siempre y cuando la conducta que a éstos se atribuya no se trate de los delitos graves consignados en la Ley del Sistema Especial de Justicia para Adolescentes del Estado de Nuevo León.
+
+Lo anterior sin perjuicio de la continuación del procedimiento conforme a la Ley de (sic) Consejo Estatal de Menores y de la aplicación de la medida que se determine.
+
+El Presidente del Consejo Estatal de Menores procederá en los términos establecidos por el párrafo primero de este artículo, en caso de que ya se hubiere pronunciado sentencia ejecutoria.
+
+Artículo Décimo Primero.- Las autoridades competentes expedirán los reglamentos necesarios para el cumplimiento de las disposiciones del presente Decreto, en un término que no deberá exceder de seis meses, contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2006.
+
+DECRETO NUMERO 398.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE SEPTIEMBRE DE 2006.
+
+DECRETO NUMERO 399.
+
+Artículo Único.- El presente Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE SEPTIEMBRE DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE ENERO DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MARZO DE 2007.
+
+Artículo Primero.- Las disposiciones contenidas en el presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- El Ejecutivo del Estado, deberá expedir el reglamento respectivo, donde se establezcan los términos, montos y condiciones respecto a las recompensas a que se hace referencia en el Artículo 182 bis 6 del Código de Procedimientos Penales del Estado de Nuevo León, en un término de cuarenta y cinco días naturales contados a partir de la vigencia del presente decreto.
+
+P.O. 4 DE JULIO DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JULIO DE 2007.
+
+Artículos (sic) Primero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los procedimientos penales existentes al entrar en vigor el presente Decreto, se tramitarán conforme a las disposiciones vigentes al momento en que se iniciaron.
+
+P.O. 25 DE JULIO DE 2007.
+
+Artículo Único.- Las disposiciones contenidas en el presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE AGOSTO DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE OCTUBRE DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2007.
+
+DECRETO NUMERO 181.
+
+Artículo Primero: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Artículo Segundo: Los procedimientos penales actualmente en trámite se continuarán conforme a las disposiciones vigentes al momento en que se iniciaron.
+
+P.O. 18 DE DICIEMBRE DE 2007.
+
+DECRETO NUMERO 182.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los procedimientos penales al entrar en vigor el presente Decreto, se tramitarán conforme a las disposiciones vigentes al momento en que se iniciaron.
+
+P.O. 18 DE DICIEMBRE DE 2007.
+
+DECRETO NUMERO 190.
+
+Artículo Primero: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 25 DE ABRIL DE 2008.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE ABRIL DE 2008.
+
+DECRETO NUM. 233, POR EL QUE SE ADICIONA UN CAPITULO VI Y EL ARTICULO 177 BIS AL CODIGO PENAL PARA EL ESTADO.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE ABRIL DE 2008.
+
+DECRETO NUM. 235, POR EL QUE SE ADICIONA UN CUARTO PARRAFO AL ARTICULO 395 AL CODIGO PENAL PARA EL ESTADO.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE JUNIO DE 2008.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE JULIO DE 2008.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JULIO DE 2008.
+
+DECRETO 252, POR EL QUE SE REFORMAN LAS FRACCIONES IV Y V, Y POR ADICION LA FRACCION VI, AL ARTICULO 357 DEL CODIGO PENAL PARA EL ESTADO DE NUEVO LEON.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JULIO DE 2008.
+
+DECRETO 254, POR EL QUE SE REFORMAN LOS ARTICULOS 86 INCISO D); 287 BIS I; 287 BIS 2; 301 FRACCION I Y 306; SE ADICIONAN LOS PARRAFOS CUARTO Y QUINTO AL ARTICULO 111; Y SE DEROGAN LOS PARRAFOS SEGUNDO, TERCERO Y CUARTO DEL ARTICULO 287 BIS I DEL CODIGO PENAL PARA EL ESTADO DE NUEVO LEON.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE NOVIEMBRE DE 2008.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE NOVIEMBRE DE 2008.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE DICIEMBRE DE 2008.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE DICIEMBRE DE 2008.
+
+Único.-.El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE ENERO DE 2009.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE MARZO DE 2009.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE ABRIL DE 2009.
+
+DECRETO NO. 371, POR EL QUE SE REFORMAN LOS ARTICULOS 365 Y 367 DEL CODIGO PENAL PARA EL ESTADO DE NUEVO LEON.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico oficial del Estado.
+
+P.O. 17 DE ABRIL DE 2009.
+
+DECRETO NO. 372, POR EL QUE SE REFORMA EL ARTICULO 219 DEL CODIGO PENAL PARA EL ESTADO DE NUEVO LEON.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial del Estado.
+
+P.O. 8 DE MAYO DE 2009.
+
+Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE MAYO DE 2009.
+
+DECRETO NO. 380, POR EL QUE SE REFORMA EL ARTICULO 262 DEL CODIGO PENAL PARA EL ESTADO DE NUEVO LEON.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE MAYO DE 2009.
+
+DECRETO NO. 381, POR EL QUE SE REFORMA EL ARTICULO 284 DEL CODIGO PENAL PARA EL ESTADO DE NUEVO LEON.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO UNICO.
 
@@ -8201,16 +8233,6 @@ Se crean las comisiones estatales electorales de los Estados de Baja California 
 
 ###### ARTICULO OCTAVO.
 
-Se creará un comité distrital electoral en cada uno de los siete distritos electorales en que se dividan los Estados de Baja California Sur y Quintana Roo.
-
-Los comités distritales electorales estarán integrados por un presidente, un secretario y un vocal designados por las comisiones estatales electorales y por un comisionado de cada uno de los partidos políticos nacionales. Por cada miembro propietario se designará un suplente.
-
-###### ARTICULO NOVENO.
-
-Las comisiones estatales electorales, en su primera sesión, harán la división de los Estados de Baja California Sur y Quintana Roo, en siete distritos electorales y elaborarán el calendario de plazos a que se sujetará el proceso comicial.
-
-###### ARTICULO OCTAVO.
-
 Los Magistrados del Tribunal Superior de Justicia del Distrito y Territorios Federales y los jueces del fuero común del mismo Distrito y Territorios Federales, actualmente en ejercicio, cesarán en su encargo, salvo que sean reelectos, el mismo día en que tomen posesión de sus puestos, los funcionarios judiciales designados de acuerdo con las disposiciones de la Constitución.
 
 ###### ARTICULO NOVENO.
@@ -8262,30 +8284,6 @@ El Ejecutivo Federal, por conducto de las Secretarías de Gobernación y del Pat
 ###### ARTICULO DECIMO OCTAVO.
 
 Los gobernadores provisionales durarán en su encargo hasta el día en que conforme a la Constitución Política de cada uno de los Estados, deban tomar posesión los gobernadores constitucionales electos.
-
-###### ARTICULO DECIMO NOVENO.
-
-Los ciudadanos que funjan como gobernadores provisionales, no podrán ser electos gobernadores constitucionales. Tampoco podrán ser electos diputados para integrar las legislaturas constitucionales, los que funjan con el carácter de propietarios en las constituyentes, ni los suplentes que llegaren a ejercer las funciones de éstos.
-
-###### ARTICULO VIGESIMO.
-
-Con base en los presupuestos de egresos correspondientes, los gobernadores provisionales harán las transferencias de partidas necesarias para cubrir las erogaciones que, en el ejercicio de sus funciones, requieran los poderes estatales.
-
-###### ARTICULO VIGESIMO PRIMERO.
-
-Se faculta al Ejecutivo Federal para dictar, por conducto de la Secretaría de Gobernación, las normas interpretativas y aclaratorias del presente decreto.
-
-###### ARTICULO VIGESIMO SEGUNDO.
-
-El presente decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 31 DE DICIEMBRE DE 1974.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 6 DE FEBRERO DE 1975.
-
-DECLARATORIA QUE ADICIONA LA FRACCION XXXI DEL APARTADO A, DEL ARTICULO 123.
 
 ###### ARTICULO UNICO.
 
@@ -8342,26 +8340,6 @@ D.O.F. 24 DE OCTUBRE DE 1967.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
 
 D.O.F. 25 DE OCTUBRE DE 1967.
-
-###### ARTICULO 1o.
-
-Estas reformas entrarán en vigor el mismo día que entren en vigor las reformas a la Ley Orgánica del Poder Judicial de la Federación y a la Ley Reglamentaria de los artículos 103 y 107 de la Constitución Federal, que habrán de expedirse como consecuencia de estas mismas reformas.
-
-###### ARTICULO 2o.
-
-Los ministros supernumerarios se constituirán en Sala Auxiliar para resolver los amparos contra leyes, que integran el rezago. La Sala Auxiliar dictará sentencia con sujeción a la jurisprudencia del Pleno y estudiará también cuando proceda los conceptos de violación que se refieran a cuestiones de legalidad. Estos asuntos se le turnarán desde luego si sobre su materia existe jurisprudencia, y los demás del rezago, a medida que la jurisprudencia del Pleno se vaya definiendo. Asimismo, resolverá sobre los asuntos que la Ley Orgánica del Poder Judicial de la Federación le encomiende para desahogar el rezago que exista en las Salas de la Suprema Corte de Justicia. Cuando la Sala Auxiliar hubiere de participar en la resolución de conflictos jurisprudenciales con cualquiera de las otras Salas, los ministros supernumerarios que la integren formarán parte del Pleno. Entre tanto funcione la Sala Auxiliar, los ministros que la integren no desempeñarán las atribuciones que como supernumerarios les asigna la ley.
-
-###### ARTICULO 3o.
-
-Los amparos contra sentencias definitivas dictadas por el Tribunal Fiscal de la Federación, pendientes de resolución ante los Juzgados de Distrito, que en términos de estas reformas deben ser directos, se remitirán a los Tribunales Colegiados de Circuito y en su caso a la Suprema Corte de Justicia.
-
-###### ARTICULO 4o.
-
-Los amparos directos o en revisión que en la actualidad radican en la Suprema Corte de Justicia y que, conforme a la ley, pasan a ser de la competencia de los Tribunales Colegiados de Circuito, se enviarán desde luego, para su resolución, al que corresponda. Si existen dos o más tribunales en un mismo circuito, se les distribuirán proporcionalmente.
-
-###### ARTICULO 5o.
-
-En los juicios de amparo a que se refiere la fracción V del artículo 107 y que, de acuerdo con las presentes reformas, deben ser turnados a la Suprema Corte de Justicia, ésta conocerá tanto de las violaciones procesales como del fondo del negocio.
 
 ###### ARTICULO PRIMERO.
 
@@ -8486,22 +8464,6 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 D.O.F. 7 DE ABRIL DE 1986.
 
 DECRETO QUE REFORMA LOS ARTICULOS 65, 66 Y 69, Y ADICIONA LOS ARTICULOS DECIMO SEPTIMO Y DECIMO OCTAVO TRANSITORIOS.
-
-###### ARTICULO 1o.
-
-Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y las Reformas a los Artículos 65, 66 y 69 surtirán sus efectos a partir del 1o. de septiembre de 1989.
-
-###### ARTICULO 2o.
-
-Los Artículos Transitorios Décimo Séptimo y Décimo Octavo de la Constitución surtirán sus efectos a partir del 1o. de septiembre de 1988.
-
-D.O.F. 7 DE ABRIL DE 1986.
-
-DECRETO QUE REFORMA LOS ARTICULOS 106 Y 107.
-
-UNICO.- El presente decreto entrará en vigor a los sesenta días siguientes al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 15 DE DICIEMBRE DE 1986.
 
 ###### ARTICULO PRIMERO.
 
