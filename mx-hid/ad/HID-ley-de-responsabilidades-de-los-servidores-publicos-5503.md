@@ -4,7 +4,7 @@ identifier: "HID-ley-de-responsabilidades-de-los-servidores-publicos-5503"
 country: "mx"
 rank: "ley"
 publication_date: "1984-06-08"
-last_updated: "2008-12-01"
+last_updated: "2009-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 8 de junio de 1984.
 
@@ -699,6 +699,12 @@ III.- Durante el mes de mayo de cada año deberá presentarse la declaración de
 
 Si transcurrido el plazo a que hace referencia la fracción I, no se hubiese presentado la declaración correspondiente, sin causa justificada, quedará sin efectos el nombramiento respectivo previa declaración de la Secretaría. Lo mismo ocurrirá cuando se omita la declaración contemplada en la fracción III.
 
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2009)</small>
+
+ARTICULO 81 BIS.- Las Autoridades competentes para recepcionar declaraciones de Situación Patrimonial en términos de esta Ley y demás disposiciones legales vinculadas con la misma, bajo su mas estricta responsabilidad, podrán ampliar o modificar los plazos contenidos en el Artículo anterior cuando en el territorio del Estado sobrevengan circunstancias sociales, políticas, económicas, ambientales, de protección civil o de salud que conllevan a la necesaria implementación de acciones determinantes que afecten el cumplimiento oportuno de esa obligación dentro del lapso de tiempo que los mismos establecen.
+
+En el caso de los Municipios del Estado, asumirán la facultad que previene este numeral, quienes en términos de la Ley Orgánica Municipal sean la Autoridad competente para la recepción de las declaraciones de situación patrimonial, en ese orden de Gobierno.
+
 ###### ARTICULO 82.
 
 La Secretaría expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar la declaración de situación patrimonial, así como los manuales e instructivos que indicarán lo que es obligatorio declarar.
@@ -802,3 +808,17 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del pre
 P.O. 1 DE DICIEMBRE DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor al siguiente día de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 25 DE MAYO DE 2009.
+
+###### ARTICULO PRIMERO.
+
+Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+###### ARTICULO SEGUNDO.
+
+La presente reforma entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+###### ARTICULO TERCERO.
+
+Ante la contingencia que se ha presentado, derivado de los razonamientos vertidos en el punto Décimo de la exposición de motivos del Presente Dictamen, por lo que respecta a este año de 2009, el plazo de presentación de la declaración de modificación patrimonial, que de acuerdo al Artículo 81 debe realizarse durante el mes de mayo, será durante el mes de junio del mismo año.
