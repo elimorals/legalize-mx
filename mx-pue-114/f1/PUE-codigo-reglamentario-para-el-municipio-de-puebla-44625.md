@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2009-03-30"
+last_updated: "2009-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -31245,11 +31245,11 @@ V. Mérito Deportivo.- A jóvenes, quienes por sus logros en materia deportiva, 
 
 La participación de los candidatos sólo podrá ser en una de las cinco distinciones, otorgándose un solo premio por distinción.
 
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2009)</small>
 
 ###### Artículo 2326.
 
-Al ganador del Premio Municipal de la Juventud, se le reconocerá mediante el otorgamiento de la distinción denominada "Poblano Distinguido", el cual será entregado en el mes de agosto de cada año, en Acto Protocolario, a través del C. Presidente Municipal Constitucional, en el marco de la conmemoración del Día Internacional de la Juventud.
+Al ganador del Premio Municipal de la Juventud, se le reconocerá mediante el otorgamiento de la distinción denominada "Poblano Distinguido", el cual será entregado en el mes de Octubre de cada año, en Acto Protocolario, a través del C. Presidente Municipal Constitucional.
 
 > <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
 
@@ -32138,3 +32138,7 @@ P.O. 30 DE MARZO DE 2009.
 PRIMERO. Las presentes reformas, adiciones y derogaciones surtirán sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Dictamen.
+
+P.O. 25 DE MAYO DE 2009.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL FEDERAL VIGENTE.
