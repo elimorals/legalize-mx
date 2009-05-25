@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2009-01-26"
+last_updated: "2009-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -215,9 +215,9 @@ Por cada Diputado Propietario se eligirá (sic) un Suplente.
 
 En el Estado la renovación de los Poderes Legislativo y Ejecutivo, así como los Ayuntamientos se verificarán por medio de elecciones democráticas directas, a través del ejercicio del sufragio universal y secreto.
 
-A. El Congreso del Estado estará integrado por dieciocho Diputados electos según el principio de votación de mayoría relativa mediante el sistema de Distritos electorales uninominales y nueve Diputados electorales uninominales y nueve Diputados electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación es el Estado.
+A. El Congreso del Estado estará integrado por dieciocho Diputados electos según el principio de votación de mayoría relativa mediante el sistema de Distritos electorales uninominales y nueve Diputados electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación es el Estado.
 
-El Instituto Estatal Electoral, fijará el ámbito territorial de los distritos electorales uninominales basados en un criterio poblacional. Se tomarán en cuenta los principios de contigüidad de fronteras, conectividad, compacidad y respeto a la división seccional; se propiciará la unidad geográfica de los distritos electorales. El número de habitantes que contendrá cada distrito electoral. El número de habitantes que contendrá cada distrito no podrá diferir en veinte por ciento, más o menos del cociente resultante. La revisión o adecuación, se realizará después de cada Censo General de Población o Conteo de Población más reciente que realicen el Instituto Nacional de Estadística y Geografía.
+El Instituto Estatal Electoral, fijará el ámbito territorial de los distritos electorales uninominales basados en un criterio poblacional. Se tomarán en cuenta los principios de contigüidad de fronteras, conectividad, compacidad y respeto a la división seccional; se propiciará la unidad geográfica de los distritos electorales. El número de habitantes que contendrá cada distrito electoral. El número de habitantes que contendrá cada distrito no podrá diferir en veinte por ciento, más o menos del cociente resultante. La revisión o adecuación, se realizará después de cada Censo General de Población o Conteo de Población más reciente que realicen (sic) el Instituto Nacional de Estadística y Geografía.
 
 La asignación de los Diputados según el principio de representación proporcional, se sujetará a las siguientes bases y a lo que en particular determine la Ley en materia electoral:
 
@@ -399,15 +399,17 @@ El Congreso del Estado tendrá en el año dos períodos ordinarios de sesiones: 
 
 El Congreso, fuera del período ordinario que señala el artículo anterior, celebrará sesiones extraordinarias cuando para ello fuere convocado por la Diputación Permanente, pero se limitará a conocer de los asuntos comprendidos en la convocatoria.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2009)</small>
 
 ###### Artículo 26.
 
 El Congreso no podrá ejercer sus funciones sin la concurrencia de más de la mitad del número total de sus miembros.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1973)</small>
+Los Diputados deben presentarse al Recinto Oficial el día señalado por la Ley o la Convocatoria, los que no se presenten serán conminados para que concurran dentro de un término de diez días, bajo el apercibimiento de cesar en sus cargos, previa declaración del Congreso de vacante del puesto, a menos que exista causa justificada que certificará el propio Congreso. En la hipótesis prevista serán llamados los suplentes, los que deberán presentarse en un plazo igual, a quienes podrá aplicarse la misma sanción si no concurren.
 
-Los diputados deben presentarse al recinto oficial el día señalado por la Ley o la convocatoria. Los que no se presenten serán conminados para que concurran dentro de un término de diez días, bajo el apercibimiento de cesar en sus cargos, previa declaración del Congreso, a menos que exista causa justificada que calificará el propio Congreso. En la hipótesis prevista, serán llamados los suplentes a quienes podrá aplicarse la misma sanción si no concurren y en su caso se convocará a nuevas elecciones.
+La vacante de diputado propietario y suplente del Congreso local que se presente al inicio de la Legislatura, como las que ocurran durante su ejercicio, se cubrirán de la siguiente forma: por el principio de mayoría relativa, la Legislatura en funciones convocará a elecciones extraordinarias; la vacante de miembros electos por el principio de representación proporcional, será cubierta por la fórmula de candidatos del mismo partido que siga en el orden de prelación de la lista de representación proporcional respectiva, después de habérsele asignado los diputados que le hubieren correspondido.
+
+En el caso de vacantes de diputados por el principio de mayoría relativa el Congreso del Estado, deberá expedir convocatoria, dentro del término de 30 días a partir de que se declare la vacante del puesto, para elecciones extraordinarias que deberán celebrarse dentro de los 90 días siguientes, salvo que la vacante ocurra dentro del año final del ejercicio constitucional de la Legislatura correspondiente.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1185,7 +1187,9 @@ Los Municipios gozan de personalidad jurídica para todos los efectos legales. E
 
 Los Ayuntamientos tendrán facultades para aprobar, de acuerdo con las Leyes Estatales, los Bandos de Policía y Gobierno, los Reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia; y aseguren la participación ciudadana y vecinal.
 
-Para cualquier tipo de concesión de los servicios públicos municipales, los Ayuntamientos deberán recabar la autorización del Congreso del Estado, para lo cual, se requerirá la aprobación de la mayoría simple de sus miembros.
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2009)</small>
+
+Para cualquier tipo de concesión de los servicios públicos municipales considerados como áreas estratégicas, los Ayuntamientos deberán recabar, la autorización del Congreso del Estado, para lo cual, se requerirá la aprobación de las dos terceras partes de sus integrantes.
 
 El objeto de las Leyes de competencia municipal, será establecer:
 
@@ -2150,6 +2154,30 @@ P.O. 26 DE ENERO DE 2009.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Intégrese el expediente respectivo y túrnese a todos y cada uno de los Ayuntamientos del Estado, para los efectos de lo dispuesto en el Artículo 94 de la Constitución Política local y Artículo 155 de la Ley Orgánica del Poder Legislativo.
+
+P.O. 25 DE MAYO DE 2009.
+
+DECRETO NÚMERO 214, POR EL QUE SE REFORMA EL ARTÍCULO 68 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTICULO PRIMERO.
+
+Remítase la presente reforma a todos y cada uno de los Honorables Ayuntamientos del Estado, para los efectos de su aprobación o rechazo, en términos de lo dispuesto por el Artículo 94 de la Constitución Política del Estado, así como en lo establecido por el Artículo 155 de la Ley Orgánica del Poder Legislativo.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE MAYO DE 2009.
+
+DECRETO NÚMERO 228, POR EL QUE SE REFORMA EL ARTÍCULO 26 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
