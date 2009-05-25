@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-social-del-estado-de-hidalgo-53770"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-29"
-last_updated: "2006-12-29"
+last_updated: "2009-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 29 de diciembre de 2006.
 
@@ -396,6 +396,14 @@ VI.- Educación Básica;
 VII.- Vivienda;
 
 VIII.- Generación, conservación y capacitación para el trabajo y el incremento de la competitividad.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2009)</small>
+
+En materia de alimentación, el Gobierno del Estado establecerá programas que permitan complementar la dieta y la economía familiar de la población que no llegue a cubrir las necesidades básicas de alimentación, a través de la dotación de un paquete de alimentos integrado por insumos básicos de contenido nutricional que permita disminuir su condición de vulnerabilidad.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2009)</small>
+
+En materia de fortalecimiento a la educación, habrá en forma permanente un programa gratuito de entrega de útiles escolares para cada ciclo escolar, a los alumnos de escuelas públicas de los niveles de educación preescolar, primaria y secundaria, de conformidad con la lista oficial emitida por la Autoridad Educativa competente.
 
 ###### Artículo 24.
 
@@ -922,3 +930,9 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ANGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE MAYO DE 2009.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente, al de su Publicación en el Periódico Oficial del Estado.
