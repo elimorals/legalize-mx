@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2008-08-08"
+last_updated: "2009-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -49,7 +49,11 @@ CONSTITUCION.
 
 En el Estado de Guanajuato todas las personas gozan de la protección que les otorgan las garantías establecidas por la Constitución Política de los Estados Unidos Mexicanos; por esta Constitución y sus Leyes Reglamentarias.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MAYO DE 2009)</small>
+
+Para los efectos de esta Constitución y de las leyes que de ella emanen, persona es todo ser humano desde su concepción hasta su muerte natural. El Estado le garantizará el pleno goce y ejercicio de todos sus derechos.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 26 DE MAYO DE 2009)</small>
 
 Queda prohibido todo tipo de discriminación que atente contra la dignidad humana, o contra los derechos y libertades de la persona, con motivo de su origen étnico, nacionalidad, género, edad, capacidades diferentes, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra circunstancia, calidad o condición.
 
@@ -3074,3 +3078,7 @@ P.O. 8 DE AGOSTO DE 2008.
 DECRETO NUMERO 164, QUE REFORMAN Y ADICIONAN LOS ARTICULOS 63, 77 Y 117 DE LA CONSTITUCION POLITICA PARA EL ESTADO DE GUANAJUATO.
 
 Artículo Único. El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE MAYO DE 2009.
+
+Artículo Único.- El presente decreto entrará en vigor al cuarto día posterior al de su publicación en el Periódico Oficial del Gobierno del Estado.
