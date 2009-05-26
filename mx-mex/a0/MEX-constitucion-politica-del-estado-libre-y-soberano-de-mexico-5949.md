@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2008-09-03"
+last_updated: "2009-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
+CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE MAYO DE 2009.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -92,6 +92,14 @@ Todo individuo tiene derecho a recibir educación. El Estado de México y los Mu
 > <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
 
 La educación que imparta el Estado será de calidad, gratuita, laica y tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentar en él, a la vez, el amor a la patria y la conciencia de la solidaridad internacional en la independencia y en la justicia, garantizando la libertad de creencias, el criterio que orientará a esa educación se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, será una educación para la diversidad sin discriminación, también será democrática, nacional, humanista y contribuirá a la mejor convivencia humana.
+
+> <small>(ADICIONADO, G.G. 26 DE MAYO DE 2009)</small>
+
+La educación en el Estado de México se ajustará estrictamente a las disposiciones del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones en la materia.
+
+> <small>(ADICIONADO, G.G. 26 DE MAYO DE 2009)</small>
+
+La Universidad Autónoma del Estado de México es un organismo público descentralizado del Estado de México, contará con personalidad jurídica y patrimonio propios; se encontrará dotada de plena autonomía en su régimen interior en todo lo concerniente a sus aspectos académico, técnico, de gobierno, administrativo y económico. Tendrá por fines impartir la educación media superior y superior; llevar a cabo la investigación humanística, científica y tecnológica; difundir y extender los avances del humanismo, la ciencia, la tecnología, el arte y otras manifestaciones de la cultura, conforme a lo dispuesto en la fracción VII del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
 
@@ -1073,7 +1081,7 @@ Se entenderá por residencia efectiva para los efectos de esta Constitución, el
 
 III. Tener 30 años cumplidos el día de la elección;
 
-IV. No pertenecer al estado eclesiástico ni ser ministro de algún culto, a menos que se separe formal, material y definitivamente de su ministerio cuando menos cinco años antes del día de la elección; y (sic)
+IV. No pertenecer al estado eclesiástico ni ser ministro de algún culto, a menos que se separe formal, material y definitivamente de su ministerio cuando menos cinco años antes del día de la elección; y
 
 V. No ser servidor público en ejercicio de autoridad, ni militar en servicio activo o con mando de fuerzas dentro del Estado en los últimos 90 días anteriores al día de la elección ordinaria, o a partir del quinto día de la fecha de la publicación de la convocatoria para la elección extraordinaria.
 
@@ -2837,16 +2845,6 @@ PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del G
 
 SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-G.G. 18 DE NOVIEMBRE DE 2005.
-
-DECRETO NUMERO 185 POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 102 DE LA CONSTITUCION POLÍTICA DEL ESTADO LIBRE Y SOBERNO DE MEXICO.
-
-PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-TERCERO.- Se derogan las disposiciones que se opongan al presente decreto.
-
 P.O. 28 DE ABRIL DE 2006.
 
 ###### ARTICULO PRIMERO.
@@ -2946,3 +2944,21 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" d
 ###### ARTÍCULO SEGUNDO.
 
 Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 26 DE MAYO DE 2009.
+
+PRIMERO.- Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía, que se opongan a lo dispuesto por el presente decreto.
+
+G.G. 18 DE NOVIEMBRE DE 2005.
+
+DECRETO NUMERO 185 POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 102 DE LA CONSTITUCION POLÍTICA DEL ESTADO LIBRE Y SOBERNO DE MEXICO.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente decreto.
