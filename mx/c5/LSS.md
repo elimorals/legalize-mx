@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2009-01-16"
+last_updated: "2009-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE MAYO DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
@@ -1546,7 +1546,9 @@ El Instituto concederá en los términos de este artículo, las asignaciones fam
 
 Para calcular el aguinaldo anual o las pensiones de viudez, de orfandad o a ascendientes no serán tomadas en cuenta las asignaciones familiares y las ayudas asistenciales que se otorguen.
 
-Los pensionados por retiro, cesantía en edad avanzada y vejez recibirán, incluidas en la pensión que adquieran, las asignaciones familiares y las ayudas asistenciales que se establecen en esta sección, las cuales se financiarán con la cuota social que aporte el Estado en los términos de la fracción IV del artículo 168 de esta Ley.
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2009)</small>
+
+Los pensionados por retiro, cesantía en edad avanzada y vejez recibirán, incluidas en la pensión que adquieran, las asignaciones familiares y las ayudas asistenciales que se establecen en esta sección, las cuales se financiarán con la cuota social que aporte el Estado en los términos de la fracción IV del artículo 168 de esta Ley para los trabajadores que reciban ésta, y con las aportaciones patronales y del Estado a la Subcuenta de Retiro, Cesantía en Edad Avanzada y Vejez para los trabajadores que no reciban cuota social en sus cuentas individuales.
 
 ###### Artículo 140.
 
@@ -1764,9 +1766,11 @@ El asegurado que opte por la alternativa prevista en la fracción II podrá, en 
 
 #### SECCION CUARTA. DE LA AYUDA PARA GASTOS DE MATRIMONIO
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE MAYO DE 2009)</small>
+
 ###### Artículo 165.
 
-El asegurado tiene derecho a retirar, como ayuda para gastos de matrimonio y proveniente de la cuota social aportada por el Gobierno Federal en su cuenta individual, una cantidad equivalente a treinta días de salario mínimo general que rija en el Distrito Federal, conforme a los siguientes requisitos:
+El asegurado tiene derecho a retirar, como ayuda para gastos de matrimonio, una cantidad equivalente a treinta días de salario mínimo general que rija en el Distrito Federal, proveniente de la cuota social que aporte el Estado en los términos de la fracción IV del artículo 168 de esta Ley para los trabajadores que reciban ésta, y con las aportaciones patronales y del Estado a la Subcuenta de Retiro, Cesantía en Edad Avanzada y Vejez para los trabajadores que no reciban cuota social en sus cuentas individuales, conforme a los siguientes requisitos:
 
 I. Que tenga acreditado un mínimo de ciento cincuenta semanas de cotización en el seguro de retiro, cesantía en edad avanzada y vejez, en la fecha de celebración del matrimonio;
 
@@ -1802,9 +1806,27 @@ II. En los ramos de cesantía en edad avanzada y vejez, a los patrones y a los t
 
 III. En los ramos de cesantía en edad avanzada y vejez la contribución del Estado será igual al siete punto ciento cuarenta y tres por ciento del total de las cuotas patronales de estos ramos, y
 
-IV. Además, el Gobierno Federal aportará mensualmente, por concepto de cuota social, una cantidad inicial equivalente al cinco punto cinco por ciento del salario mínimo general para el Distrito Federal, por cada día de salario cotizado, la que se depositará en la cuenta individual de cada trabajador asegurado. El valor del mencionado importe inicial de la cuota social, se actualizará trimestralmente de conformidad con el Indice Nacional de Precios al Consumidor, en los meses de marzo, junio, septiembre y diciembre de cada año.
+> <small>(REFORMADA, D.O.F. 26 DE MAYO DE 2009)</small>
 
-Estas cuotas y aportaciones al destinarse, en su caso, al otorgamiento de pensiones, se entenderán destinadas al gasto público en materia de seguridad social.
+IV. Una cantidad por cada día de salario cotizado, que aporte mensualmente el Gobierno Federal por concepto de cuota social para los trabajadores que ganen hasta quince veces el salario mínimo general vigente en el Distrito Federal, que se depositará en la cuenta individual de cada trabajador asegurado conforme a la tabla siguiente:
+
+Salario base de cotización del trabajador Cuota social
+
+1 Salario Mínimo $3.87077
+
+1.01 a 4 Salarios Mínimos $3.70949
+
+4.01 a 7 Salarios Mínimos $3.54820
+
+7.01 a 10 Salarios Mínimos $3.38692
+
+10.01 a 15.0 Salarios Mínimos $3.22564
+
+Los valores mencionados del importe de la cuota social, se actualizarán trimestralmente de conformidad con el Índice Nacional de Precios al Consumidor, en los meses de marzo, junio, septiembre y diciembre de cada año.
+
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2009)</small>
+
+Estas cuotas y aportaciones al destinarse al otorgamiento de pensiones y demás beneficios establecidos en esta Ley, se entenderán destinadas al gasto público en materia de seguridad social.
 
 ###### Artículo 169.
 
@@ -1960,9 +1982,19 @@ Durante el tiempo en que el trabajador deje de estar sujeto a una relación labo
 
 I. Realizar aportaciones a su cuenta individual, y
 
-II. Retirar de su subcuenta de retiro, cesantía en edad avanzada y vejez la cantidad que resulte menor entre setenta y cinco días de su propio salario base de cotización de las últimas doscientas cincuenta semanas o el diez por ciento del saldo de la propia subcuenta, a partir del cuadragésimo sexto día natural contado desde el día en que quedó desempleado.
+> <small>(REFORMADA, D.O.F. 26 DE MAYO DE 2009)</small>
 
-El derecho consignado en esta fracción sólo podrán ejercerlo los trabajadores, que acrediten con los estados de cuenta correspondientes, no haber efectuado retiros durante los cinco años inmediatos anteriores a la fecha citada. El trabajador deberá presentar la solicitud correspondiente.
+II. Retirar parcialmente por situación de desempleo los recursos de la Subcuenta de Retiro, Cesantía en Edad Avanzada y Vejez, a partir del cuadragésimo sexto día natural contado desde el día en que quedó desempleado, en los siguientes términos:
+
+a) Si su cuenta individual tiene al menos tres años de haber sido abierta y tiene un mínimo de doce bimestres de cotización al Instituto acreditados en dicha cuenta, podrá retirar en una exhibición la cantidad que resulte al equivalente a treinta días de su último salario base de cotización, con un límite de diez veces el salario mínimo mensual general que rija en el Distrito Federal, o
+
+b) Si su cuenta individual tiene cinco años o más de haber sido abierta, podrá retirar la cantidad que resulte menor entre noventa días de su propio salario base de cotización de las últimas doscientas cincuenta semanas o las que tuviere, o el once punto cinco por ciento del saldo de la Subcuenta de Retiro, Cesantía en Edad Avanzada y Vejez.
+
+Las cantidades a que se refiere este inciso se entregarán en un máximo de seis mensualidades, la primera de las cuales podrá ser por un monto de treinta días de su último salario base de cotización a solicitud del trabajador, conforme a las reglas de carácter general que al efecto expida la Comisión Nacional del Sistema de Ahorro para el Retiro. En caso de que el trabajador se reincorpore a laborar durante el plazo de entrega de los recursos, las mensualidades posteriores a su reincorporación se suspenderán.
+
+El trabajador que cumpla con los requisitos de antigüedad de la cuenta a que se refiere el primer párrafo de este inciso, podrá optar, en todo caso, por el beneficio señalado en el inciso a).
+
+El derecho consignado en esta fracción sólo podrán ejercerlo los trabajadores que acrediten con los estados de cuenta correspondientes, no haber efectuado retiros durante los cinco años inmediatos anteriores a la fecha de la solicitud de retiro de recursos.
 
 > <small>(F. DE E., D.O.F. 16 DE ENERO DE 1996)</small>
 
@@ -2004,11 +2036,17 @@ El asegurado abrirá una nueva cuenta individual, en la Administradora de Fondos
 
 Las Aseguradoras y las Administradoras de Fondos para el Retiro no podrán retener, bajo ningún concepto, el pago de rentas vencidas ni de retiros programados no cobrados por el pensionado, cuyos montos en todo momento estarán a disposición de éste.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE MAYO DE 2009)</small>
+
 ###### Artículo 198.
 
-La disposición que realice el trabajador de los recursos de su cuenta individual por cualquiera de los supuestos previstos por esta Ley, disminuirá en igual proporción a las semanas de cotización efectuadas.
+La disposición que realice el trabajador de los recursos de su cuenta individual por concepto del retiro por situación de desempleo previsto en el artículo 191 fracción II de la presente Ley, disminuirá en igual proporción a las semanas de cotización efectuadas.
 
 La mencionada disminución se calculará dividiendo el monto acumulado de los recursos de la cuenta individual entre el número de semanas cotizadas hasta el momento de realizarse la disposición de dichos recursos. El monto retirado se dividirá entre el cociente resultante de la anterior operación. El resultado se le restará a las semanas cotizadas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 26 DE MAYO DE 2009)</small>
+
+Los trabajadores que retiren recursos de la Subcuenta de Retiro, Cesantía en Edad Avanzada y Vejez en los términos de lo dispuesto por el mencionado artículo 191 fracción II de la presente Ley, podrán reintegrar total o parcialmente los recursos que hubieren recibido conforme a las disposiciones de carácter general que al efecto expida la Comisión Nacional del Sistema de Ahorro para el Retiro, con el voto favorable del Comité Consultivo y de Vigilancia. En este caso, las semanas de cotización que hubieren sido disminuidas conforme a lo dispuesto en el presente artículo les serán reintegradas proporcionalmente a los recursos que reintegren.
 
 ###### Artículo 199.
 
@@ -3977,3 +4015,17 @@ D.O.F. 11 DE AGOSTO DE 2006.
 D.O.F. 16 DE ENERO DE 2009.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE MAYO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto por el artículo 168, fracción IV, de la Ley del Seguro Social que se reforma, el cual entrará en vigor a partir del bimestre de cotización siguiente a su publicación.
+
+SEGUNDO.- Los bimestres y semanas de cotización de los trabajadores anteriores a la fecha de entrada en vigor del presente Decreto, así como la antigüedad de su cuenta individual, deberán ser reconocidos para efecto del cálculo de los plazos a que se refiere el artículo 191, fracción II, de la Ley del Seguro Social que se reforma.
+
+TERCERO.- Las erogaciones que se requieran durante el ejercicio fiscal 2009 para dar cumplimiento a lo previsto en el presente Decreto, se cubrirán con cargo a los ahorros que, entre otros, se generen en los términos del artículo 16 del Decreto de Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2009.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+QUINTO.- Los trabajadores que hubieren quedado desempleados desde el día primero de octubre de 2008 y que anteriormente a la entrada en vigor del presente Decreto hubieren ejercido el retiro parcial por situación de desempleo, podrán solicitar la diferencia entre la cantidad recibida y la que tengan derecho en los términos del artículo 191, fracción II, de la Ley del Seguro Social, que se reforma.
+
+SEXTO.- A todos los trabajadores que hubieren recibido la ayuda para gastos de matrimonio prevista en el artículo 165 de la Ley del Seguro Social desde la entrada en vigor de dicha Ley, les deberán ser reintegradas las semanas de cotización que por ese concepto les hubieran sido disminuidas.
