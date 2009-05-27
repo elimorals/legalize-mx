@@ -4,7 +4,7 @@ identifier: "MOR-codigo-electoral-del-estado-libre-y-soberano-de-morelos-63528"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-10-02"
-last_updated: "2008-10-02"
+last_updated: "2009-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO ELECTORAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el jueves 2 de octubre de 2008.
 
@@ -1289,9 +1289,15 @@ XLI. Dictar todas las resoluciones que sean necesarias para hacer efectivas las 
 
 XLII. Implementar y fomentar permanentemente la educación democrática, con cursos de capacitación dirigidos a servidores públicos del Instituto, y en general, a ciudadanos, jóvenes y niños del estado;
 
-XLIII. Analizar la integración de los distritos electorales y proponer su reestructuración atendiendo a los criterios de seccionamiento electoral, accesibilidad ciudadana y densidad poblacional; y
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
 
-XLIV. Las demás que le confiere este código y las disposiciones legales relativas.
+XLIII. Analizar la integración de los distritos electorales y proponer su reestructuración atendiendo a los criterios de seccionamiento electoral, accesibilidad ciudadana y densidad poblacional;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2009)</small>
+
+XLIV. Vigilar el correcto funcionamiento de los procedimientos de recuentos parciales o totales de votos, llevados por los Consejos Municipales y Distritales en los casos previstos por este Código; y
+
+XLV. Las demás que le confiere este código y las disposiciones legales relativas.
 
 ### CAPÍTULO VI. DE LAS ATRIBUCIONES DE LA PRESIDENCIA
 
@@ -1753,9 +1759,15 @@ VIII. Resolver sobre las peticiones y consultas que sometan a su consideración 
 
 IX. Realizar el cómputo de la elección de Diputados por el principio de mayoría relativa y entregar las constancias de mayoría a los candidatos triunfadores; realizar el cómputo de los Diputados por el principio de representación proporcional y de Gobernador en el Distrito y remitir los resultados y los expedientes respectivos al Consejo Estatal Electoral;
 
-X. Remitir de inmediato al Tribunal Estatal Electoral, los recursos de inconformidad que interpongan los partidos políticos y coaliciones; informando al Consejo Estatal Electoral; y
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
 
-XI. Las demás que este ordenamiento les confiere o le asigne el Consejo Estatal Electoral.
+X. Remitir de inmediato al Tribunal Estatal Electoral, los recursos de inconformidad que interpongan los partidos políticos y coaliciones; informando al Consejo Estatal Electoral;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2009)</small>
+
+XI. Realizar los recuentos parciales o totales de votos en los casos previstos por este Código; y
+
+XII. Las demás que este ordenamiento les confiere o le asigne el Consejo Estatal Electoral.
 
 ###### ARTÍCULO 134.
 
@@ -1783,9 +1795,15 @@ X. Resolver sobre las peticiones y consultas que sometan a su consideración los
 
 XI. Remitir de inmediato al Tribunal Estatal Electoral, los recursos que interpongan los partidos políticos y coaliciones que sean de su competencia; informando al Consejo Estatal Electoral;
 
-XII. Asumir las atribuciones de los Consejos Distritales, en aquellos municipios cuya cabecera sea además cabecera de distrito, en tanto éste no se instale; y
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
 
-XIII. Las demás que este ordenamiento les confiere o le asigne el Consejo Estatal Electoral.
+XII. Asumir las atribuciones de los Consejos Distritales, en aquellos municipios cuya cabecera sea además cabecera de distrito, en tanto éste no se instale;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2009)</small>
+
+XIII. Realizar los recuentos parciales o totales de votos en los casos previstos por este Código; y
+
+XIV. Las demás que este ordenamiento les confiere o le asigne el Consejo Estatal Electoral.
 
 ###### ARTÍCULO 135.
 
@@ -3249,7 +3267,9 @@ Los ciudadanos que residan en el extranjero podrán ejercer su derecho al voto e
 
 Para el ejercicio del voto los ciudadanos que residan en el extranjero además de los que establece la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y soberano de Morelos y lo que establezca el convenio que celebre el Instituto Estatal Electoral con el Instituto Federal Electoral.
 
-## TITULO QUINTO. DE LOS ACTOS POSTERIORES A LA ELECCIÓN Y LOS RESULTADOS ELECTORALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE MAYO DE 2009)</small>
+
+## TÍTULO QUINTO. DE LOS ACTOS POSTERIORES A LA ELECCIÓN, DE LOS RESULTADOS ELECTORALES, DEL RECUENTO Y DECLARACIÓN DE VALIDEZ DE LA ELECCIÓN
 
 ### CAPÍTULO I. DISPOSICIÓN PRELIMINAR
 
@@ -3275,27 +3295,125 @@ IV.- El Consejero Presidente correspondiente, previa autorización de los Consej
 
 V.- El Consejero Presidente, bajo su responsabilidad, y para efectos de la salvaguarda de los paquetes electorales, dispondrá que sean selladas las puertas o el acceso al lugar en que fueren depositados, en presencia de los representantes de los partidos políticos que deseen asistir a este acto y que quisieren firmar los sellos correspondientes.
 
-### CAPÍTULO II. DE LOS CÓMPUTOS DISTRITALES Y DE LA DECLARACIÓN DE VALIDEZ DE LA ELECCIÓN
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE MAYO DE 2009)</small>
+
+### CAPÍTULO II. DE LOS CÓMPUTOS Y RECUENTOS PARCIALES Y TOTALES
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 286.
 
-Los cómputos distritales y municipales se efectuarán el tercer día posterior al de la elección. Para efectos del cómputo, se observará el siguiente procedimiento:
+El cómputo de los votos es el procedimiento mediante el cual el órgano electoral da cuenta de los resultados de la votación obtenidos en cada casilla. El recuento de votos de una elección, es la actividad que podrán practicar a petición de parte interesada los Consejos Municipales o Distritales y el Tribunal Estatal Electoral del Estado, en el ámbito de su competencia, con la finalidad de establecer con toda certeza quién es el candidato, partido o coalición que triunfó en la elección que motiva el asunto del que están conociendo.
 
-l.- Se separarán los paquetes que muestren alteración;
+El recuento parcial o total de votos de una elección tiene como finalidad hacer prevalecer el voto ciudadano, clarificando con certeza y exactitud la voluntad ciudadana expresada en las urnas.
 
-II.- Los restantes se abrirán siguiendo el orden numérico de las casillas y en el caso de los Consejos Distritales se observará además el orden alfabético de los municipios;
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2009)</small>
 
-III.- Se tomará el resultado asentado en las actas finales de escrutinio y si hubiera objeción fundada en relación a las constancias, se repetirá el escrutinio haciendo el recuento de los votos.
+ARTÍCULO 286 BIS 1.- El recuento de votos de una elección será de dos tipos, administrativo y jurisdiccional.
 
-Se considera razón fundada cuando no coincidan los resultados asentados en el apartado de escrutinio y cómputo del acta de la jornada electoral.
+a) Administrativo.- Estará a cargo de los Consejos Distritales y Municipales, según se trate de la elección de Diputados, Gobernador y Ayuntamientos;
 
-IV.- Posteriormente se abrirán los paquetes que muestren alteraciones; si las actas de escrutinio coinciden con las copias autorizadas que hubiesen remitido los Presidentes de casilla, se procederá a hacer el cómputo de estos expedientes de conformidad a las actas respectivas; si no coinciden los resultados, se procederá al escrutinio en términos de la fracción anterior;
+b) Jurisdiccional.- Estará a cargo del Tribunal Estatal Electoral en el ámbito de su competencia.
 
-V.- Cuando no exista acta de la jornada en el paquete electoral, pero si tengan copia de ella los Consejos y los partidos políticos, si coinciden los resultados, se computarán con base en ellas, en caso contrario, se repetirá el escrutinio haciendo el recuento de los votos, computándose los resultados y levantando el acta final de escrutinio que firmarán todos los miembros del consejo y los representantes acreditados de los partidos políticos ante el Consejo que quisieren hacerlo; la falta de firmas de estos últimos no invalidará el acta en cuestión;
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2009)</small>
 
-VI.- Se levantará por duplicado el acta de cómputo distrital o municipal, por cada elección que se compute, haciendo constar en ella las operaciones practicadas, y el resultado de la elección;
+ARTÍCULO 286 BIS 2.- Los cómputos distritales y municipales se efectuarán el tercer día posterior al de la elección. Para efectos del cómputo, se observará el siguiente procedimiento:
 
-VII.- En el ámbito de sus respectivas competencias, los Consejos extenderán constancias por conducto del Presidente, a los Candidatos a Diputados de Mayoría Relativa o a los candidatos a Presidente Municipal y Sindico de los Ayuntamientos, propietarios y suplentes que hayan resultado triunfadores, remitiendo cómputos y expedientes al Consejo Estatal Electoral, para los efectos de asignación de regidores y entrega de constancias; en el ámbito Distrital, los Consejos realizarán los cómputos de la elección de Diputados por el principio de representación proporcional y en su caso de Gobernador en el distrito, remitiendo resultados y paquetes al Consejo Estatal Electoral.
+I. Se separarán los paquetes que muestren alteración;
+
+II. Los restantes se abrirán siguiendo el orden numérico de las casillas y en el caso de los Consejos Distritales se observará además el orden alfabético de los municipios;
+
+III. Se tomará el resultado asentado en las actas finales de escrutinio y si hubiera objeción fundada en relación a las constancias, se repetirá el escrutinio haciendo el recuento de los votos;
+
+IV. Posteriormente se abrirán los paquetes que muestren alteraciones; si las actas de escrutinio coinciden con las copias autorizadas que hubiesen remitido los Presidentes de casilla, se procederá a hacer el cómputo de estos expedientes de conformidad a las actas respectivas; si no coinciden los resultados, se procederá al escrutinio en términos de la fracción anterior;
+
+V. Cuando no exista acta de la jornada en el paquete electoral, pero si tengan copia de ella los Consejos y los partidos políticos, si coinciden los resultados, se computarán con base en ellas, en caso contrario, se repetirá el escrutinio haciendo el recuento de los votos, computándose los resultados y levantando el acta final de escrutinio que firmarán todos los miembros del consejo y los representantes acreditados de los partidos políticos ante el Consejo que quisieren hacerlo; la falta de firmas de estos últimos no invalidará el acta en cuestión;
+
+VI. Se levantará por duplicado el acta de cómputo distrital o municipal, por cada elección que se compute, haciendo constar en ella las operaciones practicadas, y el resultado de la elección;
+
+VII. En el ámbito de sus respectivas competencias, los Consejos extenderán constancias por conducto del Presidente, a los Candidatos a Diputados de Mayoría Relativa o a los candidatos a Presidente Municipal y Sindico de los Ayuntamientos, propietarios y suplentes que hayan resultado triunfadores, remitiendo cómputos y expedientes al Consejo Estatal Electoral, para los efectos de asignación de regidores y entrega de constancias; en el ámbito. Distrital, los Consejos realizarán los cómputos de la elección de Diputados por el principio de representación proporcional y en su caso de Gobernador en el distrito, remitiendo resultados y paquetes al Consejo Estatal Electoral de no existir recuentos totales por desahogar.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2009)</small>
+
+ARTÍCULO 286 BIS 3.- Se considera razón fundada para la procedencia del recuento parcial los supuestos siguientes:
+
+a) Cuando no coincidan los resultados asentados en el apartado de escrutinio y cómputo del acta de la jornada electoral, y/o
+
+b) Existan errores o inconsistencias evidentes en los distintos elementos de las actas, salvo que pueda corregirse o aclararse con otros elementos, y/o
+
+c) Todos los votos hayan sido depositados a favor de un mismo partido o coalición.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2009)</small>
+
+ARTÍCULO 286 BIS 4.- El recuento total de votación de las casillas en los Consejos Distritales, Municipales, en su caso, procederá de actualizarse los siguientes supuestos:
+
+Si al término del cómputo se establece que la diferencia entre el candidato presunto ganador y el ubicado en segundo lugar, es menor o igual a 0.5 por ciento, tomando como referencia la votación total emitida y que lo haya solicitado el representante del candidato que haya obtenido el segundo lugar al momento de firmar el acta de cómputo.
+
+Se excluirán del recuento total las casillas que ya hubiesen sido objeto de recuento parcial.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2009)</small>
+
+ARTÍCULO 286 BIS 5.- Los paquetes por ningún motivo podrán salir de la sede de los Consejos respectivos.
+
+Los partidos políticos y coaliciones que no hayan obtenido el primero y segundo lugar en la votación podrán estar en el procedimiento de recuento total.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2009)</small>
+
+ARTÍCULO 286 BIS 6.- De haberse cumplido con lo establecido en alguno de los supuestos del recuento total de votación, el Consejo respectivo en la sesión que corresponda declarará la procedencia del recuento total de la elección de que se trate conforme al procedimiento siguiente:
+
+1. El procedimiento de recuento total, se iniciará inmediatamente después de que se acuerde la procedencia de la solicitud de recuento total.
+
+2. El órgano electoral dispondrá lo necesario para realizar el recuento sin interrupciones y previendo la existencia del material necesario para llevarlo a cabo.
+
+3. El Presidente del consejo respectivo deberá salvaguardar en todo momento el orden y la integridad física de los miembros del órgano electoral; en caso de ser necesario, podrá solicitar el apoyo de la fuerza pública y determinar que continúe la sesión a puerta cerrada, solo permanecerán los funcionarios acreditados.
+
+4. Durante el desahogo de recuento total de votos se procederá a lo siguiente:
+
+a) Si se encuentran en el paquete votos de una elección distinta, se contabilizarán para la elección de que se trate;
+
+b) Si existen diferencias entre las actas de escrutinio y cómputo se corregirán;
+
+c) Se formará un expediente que contendrá un acta circunstanciada del procedimiento realizado, en el que se consignará el resultado del recuento de cada casilla y el resultado final que arroje la suma de votos por cada partido y candidato y los documentos en donde consten las operaciones aritméticas realizadas. El acta circunstanciada será firmada por todos los integrantes de cada uno de los grupos responsables. La negativa para firmar no invalidará los resultados consignados en el acta.
+
+5. El presidente del Consejo respectivo realizará en sesión la suma de los resultados consignados en actas y asentará el resultado en el acta de cómputo distrital, municipal o estatal, la cual será firmada por todos los integrantes del Consejo respectivo.
+
+6. Los errores contenidos en las actas originales de escrutinio y cómputo de casilla que sean corregidos por los consejos respectivos siguiendo el procedimiento establecido en este artículo, no podrán invocarse como causa de nulidad ante el Tribunal Estatal Electoral.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2009)</small>
+
+ARTÍCULO 286 BIS 7.- El Tribunal Estatal Electoral realizará a petición de parte interesada y legítima, el recuento total o parcial de votos.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2009)</small>
+
+ARTÍCULO 286 BIS 8.- El recuento de votos será parcial cuando se efectúe a los resultados de una o varias casillas del total de las instaladas en la elección de que se trate.
+
+El Tribunal Electoral del Estado deberá realizar a petición de parte interesada y legítima el recuento parcial de votos emitidos en una elección, siempre y cuando se reúnan los siguientes requisitos:
+
+I. Que lo solicite el partido o coalición que de acuerdo con los resultados de la elección, esté ubicado en segundo lugar de la votación.
+
+II. Que la solicitud se encuentre fundada y motivada.
+
+III. Que una vez agotados todos los medios de prueba por los que se pueda llegar con certeza al conocimiento de la verdad, no fuere posible obtenerla sino solamente mediante el recuento de los votos.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2009)</small>
+
+ARTÍCULO 286 BIS 9.- El recuento de votos será total cuando se practique sobre todas las casillas instaladas en la elección que corresponda y se realizará conforme a lo siguiente:
+
+A. Deberán solicitarse en el medio de impugnación que se interponga.
+
+B. Que el resultado de la elección en la cual se solicite el recuento total, arroje una diferencia entre el primer y segundo lugar de 0.5 por ciento, y
+
+C. Que la autoridad administrativa se haya negado a realizar el recuento administrativo total de los paquetes aún y cuando se hubiese manifestado razón fundada en los términos de este Código y tal hecho hubiese quedado asentado en el acta circunstanciada de la sesión de cómputo que corresponda a la elección que se impugna.
+
+D. Que sea determinante para el resultado de la elección. Se entenderá que es determinante cuando el partido, coalición o candidato que está en segundo lugar, pueda con motivo del recuento alcanzar el triunfo en la elección;
+
+E. Señalar la elección sobre la que se solicita el recuento de votos.
+
+Cumplidos estos requisitos, el Tribunal Estatal Electoral, en la etapa procesal correspondiente, llevará a cabo el recuento total de la elección de que se trate, para lo cual deberá implementar los medios idóneos necesarios para efectuar dicho recuento.
+
+Una vez que sea acordada la procedencia del recuento total jurisdiccional, el Tribunal Estatal Electoral, ordenará de inmediato se lleve a cabo el procedimiento respectivo a través de los árganos electorales.
+
+El recuento jurisdiccional deberá desahogarse a partir del acuerdo respectivo.
 
 ###### ARTÍCULO 287.
 
@@ -4330,3 +4448,19 @@ SECRETARIO DE GOBIERNO
 LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 27 DE MAYO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación inmediata en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, para su divulgación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales o reglamentarias que contravengan las disposiciones de la presente reforma.
+
+###### ARTÍCULO TERCERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación.
