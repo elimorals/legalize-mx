@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-educacion-del-estado-de-tabasco-10929"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-26"
-last_updated: "2009-05-09"
+last_updated: "2009-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE EDUCACION DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 26 de febrero de 1997.
 
@@ -59,7 +59,13 @@ Artículo 3 La aplicación y vigilancia del cumplimiento de la presente Ley comp
 
 Artículo 4 Todo individuo tiene derecho a recibir educación y por lo tanto, todos los habitantes de la entidad tienen las mismas oportunidades de acceso, permanencia y promoción en el sistema educativo estatal, con sólo satisfacer los requisitos que establezcan las disposiciones aplicables.
 
-Artículo 5 El Estado está obligado a impartir los servicios educativos para que toda la población de la entidad pueda cursar la educación preescolar, la primaria y la secundaria. Estos servicios se ofrecerán en el marco del federalismo y la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos y conforme a la distribución de la función social educativa establecida en la presente Ley.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2009)</small>
+
+Artículo 5 El Estado está obligado a impartir los servicios educativos para que toda la población de la entidad pueda cursar la educación preescolar, la primaria y la secundaria, así como la especial destinada a individuos con discapacidades transitorias o permanentes. Estos servicios se ofrecerán en el marco del federalismo y la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos y conforme a la distribución de la función social educativa establecida en la presente Ley.
+
+Asimismo, está obligado a regular, supervisar y sancionar el proceso de educación inicial y cuidados infantiles, de acuerdo a la Ley específica.
 
 Artículo 6 Todos los habitantes de la entidad deben cursar la educación primaria y la secundaria como mínimo.
 
@@ -69,7 +75,9 @@ Artículo 7 La educación que impartan el Estado, los Municipios y los organismo
 
 Artículo 8 La educación que imparta el Estado, será gratuita. Las donaciones destinadas a la educación en ningún caso se entenderán como contraprestaciones del servicio educativo. En el caso de los padres de familia, no podrá condicionarse al mencionado donativo la inscripción o el acceso de sus hijos o pupilos al servicio educativo.
 
-Artículo 9 La educación que impartan el Estado, los Municipios, los organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios, tendrá, además de los fines establecidos en el párrafo segundo del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, los siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2009)</small>
+
+Artículo 9 La educación que impartan el Estado, los Municipios, los organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios tendrán, además de los fines establecidos en el párrafo segundo del Artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, los siguientes:
 
 I.- Transformarse y transformar su entorno, para romper inercias e innovar procesos, recuperar la tradición y darle una nueva dimensión de porvenir;
 
@@ -83,13 +91,21 @@ V.- Alcanzar mediante la enseñanza del español, un idioma común para todos lo
 
 VI.- Fomentar el conocimiento de la geografía e historia nacional y del Estado, en todos sus aspectos;
 
-VII.- Propiciar la práctica de la democracia como forma de gobierno, y la convivencia armónica que permita a todos participar en la toma de decisiones para el mejoramiento de la sociedad;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
+
+VII.-Propiciar la práctica de la democracia como forma de gobierno, y la convivencia armónica que permita a todos participar en la toma de decisiones para el mejoramiento de la sociedad. Asimismo, fomentará los valores cívicos como medio para contribuir a la consolidación de un sistema que garantice los derechos fundamentales de las personas y la solidaridad social;
 
 VIII.- Ampliar espacios de convivencia humana a través de una educación que manifieste el respeto a la dignidad de la persona y a la integridad de la familia;
 
-IX.- Promover en los educandos el ejercicio de los valores que propicien la justicia, la observancia de las leyes y la igualdad de los individuos, así como inculcar el reconocimiento y respeto de los derechos humanos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-X.- Reforzar los valores de identidad, justicia, democracia y soberanía;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
+
+IX.- Promover en los educandos el ejercicio de los valores que propicien la justicia, la observancia de las leyes y la igualdad de los individuos, inculcar el reconocimiento y respeto a los derechos humanos, así como generar una cultura de cortesía y trato digno para las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
+
+X.- Reforzar los valores de identidad, justicia, democracia, respeto a la vida, paz social, civilidad y soberanía;
 
 XI.- Fomentar la investigación e innovación científica y tecnológica de tal manera, que responda a las necesidades del desarrollo nacional, estatal, municipal y comunitario;
 
@@ -195,11 +211,27 @@ XIII.- Distribuir, en forma oportuna y eficiente, los libros de texto gratuito y
 
 XIV.- Vigilar que la educación primaria, la secundaria y la normal, que proporcionen los particulares, sea conforme a los planes y programas autorizados. En cuanto a la educación inicial y preescolar, vigilar que cumplan con los requisitos técnico-pedagógicos que fije la autoridad educativa federal;
 
-XV.- Disponer el uso temporal de los planteles educativos oficiales para albergue de la población, cuando por razón de siniestros naturales u otro tipo de contingencias sean requeridos; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XVI.- Las demás que establezca la Ley General de Educación, esta Ley y otros ordenamientos legales.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
 
-Artículo 17 Adicionalmente a lo establecido en el artículo anterior, corresponden a la autoridad educativa estatal, de manera concurrente con la autoridad educativa federal los siguientes deberes y atribuciones:
+XV.- Disponer el uso temporal de los planteles educativos oficiales para albergue de la población, cuando por razón de siniestros naturales u otro tipo de contingencias sean requeridos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
+
+XVI.- Observar en la construcción y remodelación de edificios escolares, el diseño arquitectónico que contemple los requerimientos para el tipo y nivel de servicio educativo, condición climática, así como las disposiciones legales y reglamentarias que regulan el acceso y desplazamiento de las personas con discapacidad, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2009)</small>
+
+XVII.- Las demás que establezca la Ley General de Educación, esta Ley y otros ordenamientos legales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2009)</small>
+
+Artículo 17 Adicionalmente a lo establecido en el Artículo anterior, corresponden a la autoridad educativa estatal, de manera concurrente con la autoridad educativa federal, los siguientes deberes y atribuciones:
 
 > <small>(F. DE E., P.O. 1 DE MARZO DE 1997)</small>
 
@@ -211,11 +243,17 @@ III.- Revalidar y otorgar equivalencias de estudios de educación media superior
 
 IV.- Otorgar, negar o retirar el reconocimiento de validez oficial a estudios distintos de los de educación primaria, secundaria, normal y demás para la formación de docentes de educación básica que proporcionen los particulares;
 
-V.- Editar todo tipo de libros y material didáctico de apoyo a la educación, a excepción de los libros de texto gratuito proporcionados por la Federación;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(F. DE E., P.O. 1 DE MARZO DE 1997)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
 
-VI.- Ofrecer servicios bibliotecarios a través de bibliotecas públicas, a fin de apoyar al Sistema Educativo Estatal y Nacional, a la innovación educativa y a la investigación científica, tecnológica y humanística;
+V.- Editar en su caso, todo tipo de libros y material didáctico de apoyo a la educación, incluyendo el especial para los alumnos con discapacidad visual, a excepción de los libros de texto gratuito proporcionados por la Federación;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
+
+VI.- Ofrecer servicios bibliotecarios a fin de apoyar al Sistema Educativo Estatal y Nacional propiciando la innovación educativa y la investigación científica, tecnológica y humanística, promoviendo que las bibliotecas públicas cuenten con equipos de cómputo de tecnología adaptada, escritura e impresión en el Sistema Braille, ampliadores y lectores de texto, espacios adecuados y demás innovaciones tecnológicas que permitan su uso a las personas con discapacidad;
 
 VII.- Promover permanentemente la investigación pedagógica que sirva como base a la innovación educativa;
 
@@ -237,11 +275,15 @@ XIV.- Autorizar la constitución de los Colegios de Profesionistas, vigilar su e
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2009)</small>
 
-XV.- Coordinar sus acciones con las instituciones del Gobierno Federal responsables de la aplicación de políticas, programas y acciones de fomento a la lectura y el libro; y
+XV.- Coordinar sus acciones con las instituciones del Gobierno Federal responsables de la aplicación de políticas, programas y acciones de fomento a la lectura y el libro; y (sic)
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
 
-XVI.- Las demás que con tal carácter establezcan la Ley General de Educación y demás disposiciones aplicables.
+XVI.- Impulsar escuelas de tiempo completo de educación básica, que promuevan el desarrollo de competencias definidas en los planes y programas de estudios; y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2009)</small>
+
+XVII.- Las demás que con tal carácter establezcan la Ley General de Educación y demás disposiciones aplicables.
 
 Artículo 18 El Ejecutivo del Estado podrá celebrar convenios con el Ejecutivo Federal para coordinar o unificar las actividades educativas concurrentes que establece el artículo anterior.
 
@@ -325,7 +367,17 @@ Asimismo se establecerán mecanismos que propicien la permanencia de los docente
 
 Artículo 25 Para ejercer la docencia dentro de cada uno de los tipos y modalidades que comprende el Sistema Educativo Estatal, los interesados deberán exhibir el título profesional que acredite su preparación académica para tal efecto, así como, en los casos previstos por la legislación, la cédula profesional correspondiente, satisfacer los requisitos establecidos en esta Ley y aquéllos que señalen las autoridades educativas competentes.
 
-Las instituciones de educación especial, deberán ser atendidas por personal especializado y multidisciplinario para cumplir eficazmente con los propósitos de esta educación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2009)</small>
+
+Las instituciones de educación especial, deberán ser atendidas por personal especializado y multidisciplinario, debiendo actualizarse de forma permanente para cumplir eficazmente con la incorporación educativa de las personas con discapacidad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2009)</small>
+
+El Sistema Educativo Estatal deberá diseñar e implementar programas de formación y certificación de intérpretes, estenógrafos del español y demás personal especializado en la difusión y uso conjunto del español, lenguas indígenas en su caso y la Lengua de Señas Mexicana.
 
 Artículo 26 El personal docente que aspire a prestar sus servicios en la Secretaría de Educación, se someterá a los concursos de oposición que procedan, para acreditar su preparación académica y pedagógica en el ejercicio de las funciones que desempeñará de conformidad con el reglamento respectivo.
 
@@ -345,13 +397,21 @@ Artículo 29 Las autoridades educativas estatal y municipales tomarán las medid
 
 Asimismo buscarán lograr la equidad en el ámbito geográfico atendiendo todas las regiones del Estado, llevando y mejorando el servicio educativo a mayor número de poblaciones.
 
-La implementación de programas compensatorios, en coordinación con la autoridad educativa federal, se orientará al alcance de la equidad entre grupos sociales, atendiendo especialmente las necesidades educativas de indígenas, campesinos, obreros, migrantes y en general, de la población en condiciones de pobreza.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2009)</small>
+
+La implementación de programas compensatorios, en coordinación con la autoridad educativa federal, se orientará al alcance de la equidad entre grupos sociales, atendiendo especialmente las necesidades educativas de indígenas, campesinos, obreros, migrantes, personas con discapacidad, y en general, de la población en estado de vulnerabilidad.
 
 Esas autoridades trabajarán para asegurar la igualdad entre hombres y mujeres, promoviendo el acceso, permanencia y promoción educativa, de conformidad con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la del Estado y demás legislación aplicable.
 
 Igualmente, actuarán para lograr la equidad entre instituciones educativas públicas, superando las condiciones de las rurales y elevando su calidad.
 
-Con ese fin, instrumentarán programas educativos de apoyo dirigidos de manera preferente a los grupos sociales y regiones con mayor rezago educativo, que enfrenten condiciones económicas, culturales y sociales de desventaja, o a personas con problemas de discapacidad. En la aplicación de estos programas tendrán prioridad los educandos de 6 a 15 años de edad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2009)</small>
+
+Con ese fin, instrumentarán programas educativos de apoyo dirigidos de manera preferente a los grupos sociales y regiones con mayor rezago educativo, que enfrenten condiciones económicas, culturales y sociales de desventaja, o a personas con discapacidad transitoria o permanente. En la aplicación de éstos programas tendrán prioridad los educandos de 6 a 15 años de edad.
 
 Artículo 30 Para cumplir con lo dispuesto en el artículo anterior, las autoridades educativas, en el ámbito de sus respectivas competencias y de acuerdo a las necesidades de la entidad, la demanda social y los recursos disponibles, llevarán a cabo las actividades siguientes:
 
@@ -371,9 +431,25 @@ VII.- Desarrollar a través de los distintos medios de comunicación, programas 
 
 VIII.- Promover el apoyo de los particulares al financiamiento y a las actividades a que se refiere este capítulo;
 
-IX.- Conceder reconocimientos y distinciones a quienes contribuyan a la consecución de los propósitos mencionados en el artículo anterior; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-X.- Realizar actividades que permitan elevar la calidad, ampliar la cobertura de los servicios educativos y alcanzar los propósitos a que se refiere este capítulo.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
+
+IX.- Conceder reconocimientos y distinciones a quienes contribuyan a la consecución de los propósitos mencionados en el Artículo anterior;
+
+X.- Realizar actividades que permitan elevar la calidad, ampliar la cobertura de los servicios educativos y alcanzar los propósitos a que se refiere este capítulo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2009)</small>
+
+XI.- Garantizar el acceso de la población sorda a la educación pública obligatoria y bilingüe, que comprenda la .enseñanza del idioma español y la Lengua de Señas Mexicana; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2009)</small>
+
+XII.- Elaborar programas para las personas ciegas y débiles visuales, que garanticen su integración al Sistema Educativo Estatal, público o privado, creando de manera progresiva condiciones físicas y acceso a los avances científicos y tecnológicos, así como materiales y libros actualizados a las publicaciones regulares necesarios para su aprendizaje.
 
 Las autoridades educativas estatal y municipales se coordinarán con las instituciones afines al propósito educativo, para llevar a cabo programas asistenciales, campañas de salud, ayuda alimenticia y demás medidas que consideren necesarias para disminuir el efecto que las inequidades sociales provocan en la igualdad de acceso y permanencia en los servicios educativos.
 
@@ -419,9 +495,11 @@ La autoridad educativa estatal decidirá la atención a la demanda escolar emerg
 
 #### Sección 2. DE LA SUPERVISIÓN
 
-> <small>(F. DE E., P.O. 1 DE MARZO DE 1997)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Artículo 40 Corresponde a la autoridad educativa estatal realizar las funciones de supervisión del Sistema Educativo del Estado conforme a la normatividad aplicable, por conducto de su cuerpo de supervisores.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2009)</small>
+
+Artículo 40 Corresponde a la autoridad educativa estatal realizar las funciones de supervisión del Sistema Educativo del Estado conforme a la normatividad aplicable, por conducto de su cuerpo de supervisores. Deberá incluirse la verificación de los programas y normas técnicas a los centros educativos que atiendan a personas con discapacidad.
 
 Artículo 41 Las actividades de supervisión darán preferentemente atención al aspecto técnico-pedagógico, para garantizar la eficiencia y calidad del servicio educativo del Estado mediante el óptimo desempeño de la función docente.
 
@@ -537,15 +615,25 @@ Artículo 63 La educación primaria fortalecerá en el educando su identidad ind
 
 Artículo 64 La educación primaria regular estará dirigida a toda la población cuyas edades fluctúen entre los seis y catorce años.
 
-Artículo 65 La educación primaria, tendrá además de las características señaladas en el artículo 63 las siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2009)</small>
+
+Artículo 65 La educación primaria, tendrá además de las características señaladas en el Artículo 63 las siguientes:
 
 I.- Proporcionar al educando los principios fundamentales de todas y cada una de las asignaturas que conforman los programas de estudio de educación primaria destacando el estudio de la ecología, el civismo, la geografía e historia del Estado;
 
 II.- Capacitar al educando en los conocimientos y objetivos suficientes para asimilar los estudios del nivel inmediato superior;
 
-III.- Iniciar al educando en el estudio lógico y sistemático, despertando su curiosidad científica, así como proporcionarle las primeras nociones metodológicas de trabajo intelectual; y
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
 
-IV.- Proporcionar al educando las bases de la organización de la sociedad, del Estado, de la República y del hecho de formar parte de una comunidad internacional.
+III.- Iniciar al educando en el estudio lógico y sistemático, despertando su curiosidad científica, así como proporcionarle las primeras nociones metodológicas de trabajo intelectual;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
+
+IV.- Proporcionar al educando las bases de la organización de la sociedad, del Estado, de la República y del hecho de formar parte de una comunidad internacional; y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2009)</small>
+
+V.- Inculcar el respeto a la vida, a la cordialidad entre personas y a la actitud cívica entre los individuos.
 
 #### Sección III. DE LA EDUCACIÓN SECUNDARIA
 
@@ -647,9 +735,23 @@ III.- Desarrollar actitudes de autoestima y competencia para el trabajo producti
 
 IV.- Promover la orientación y capacitación de los docentes de la educación básica regular, bajo un programa de apoyo técnico multiprofesional;
 
-V.- Desarrollar estrategias de apoyo profesional técnico y de infraestructura educativa acorde a las condiciones de discapacidad para el logro de objetivos comunes en la educación básica; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI.- Promover la asistencia a talleres, instituciones o empresas para que las personas que por su edad no puedan ingresar o continuar en un centro de educación especial, reciban capacitación laboral que les permita una vida autónoma y productiva.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
+
+V.- Desarrollar estrategias de apoyo profesional técnico y de infraestructura educativa acorde a las condiciones de discapacidad para el logro de objetivos comunes en la educación física;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
+
+VI.- Promover la asistencia a talleres, instituciones o empresas para que las personas que por su edad no puedan ingresar o continuar en un centro de educación especial, reciban capacitación laboral que les permita una vida autónoma y productiva; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2009)</small>
+
+VII.- Establecer un programa estatal de becas educativas para personas con discapacidad.
 
 #### Sección VIII. DE LA EDUCACIÓN INDÍGENA
 
@@ -951,9 +1053,17 @@ III.- Analizar y sistematizar las propuestas hechas por los Consejos Municipales
 
 IV.- Opinar sobre los aspectos pedagógicos de la educación que se proporcione en el Estado;
 
-V.- Conocer de las evaluaciones que efectúe la autoridad educativa estatal y colaborar con ella en las actividades destinadas al mejoramiento de la calidad y cobertura de la educación; y
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
 
-VI.- Recepcionar las demandas y necesidades que emanen de la participación social en la educación, a través de los consejos escolares y municipales, conformando los requerimientos a nivel estatal para gestionar ante las instancias competentes su resolución y apoyo.
+V.- Conocer de las evaluaciones que efectúe la autoridad educativa estatal y colaborar con ella en las actividades destinadas al mejoramiento de la calidad y cobertura de la educación;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
+
+VI.- Recepcionar las demandas y necesidades que emanen de la participación social en la educación, a través de los consejos escolares y municipales, conformando los requerimientos a nivel estatal para gestionar ante las instancias competentes su resolución y apoyo; y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2009)</small>
+
+VII.- Proponer a las autoridades federales, estatales y municipales, en sus respectivas competencias, las medidas necesarias para controlar conforme a la Ley, la comercialización de juguetes y' accesorios lúdicos que inciten, orienten o motiven actitudes violentas o manifestaciones a favor de la guerra, preferentemente entre la niñez tabasqueña.
 
 Artículo 130 El Consejo Educativo de Tabasco apoyará el cumplimiento del programa educativo del Estado a través de las acciones siguientes:
 
@@ -1095,7 +1205,9 @@ V.- Formar parte de las asociaciones de padres de familia, así como de los Cons
 
 VI.- Opinar ante las autoridades educativas, en los casos de la educación que impartan los particulares en relación con las contraprestaciones que las escuelas fijen.
 
-Artículo 139 Son obligaciones de quienes ejercen la patria potestad o tutela de los menores:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2009)</small>
+
+Artículo 139 Son obligaciones de quienes ejercen la patria potestad o la tutela de los menores:
 
 I.- Hacer que sus hijos o pupilos menores de edad, reciban la educación primaria y secundaria;
 
@@ -1103,7 +1215,9 @@ II.- Apoyar el proceso educativo de sus hijos o pupilos;
 
 III.- Colaborar con las instituciones educativas en las actividades que éstas realicen; y
 
-IV.- Coadyuvar con las autoridades escolares en el tratamiento de los problemas de conducta.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
+
+IV.- Coadyuvar con las autoridades escolares en el tratamiento de los problemas de conducta, así como inculcar en el hogar a los educandos, principios de honestidad, identidad, justicia, democracia, humanismo, paz, civilidad y respeto a los derechos humanos.
 
 Artículo 140 Los padres de familia, los tutores, o quienes ejerzan la patria potestad, pueden constituirse en asociaciones para representar sus intereses comunes y registrarse ante las autoridades educativas.
 
@@ -1298,3 +1412,25 @@ SEGUNDO.- Se derogan las disposiciones de observancia general que se opongan al 
 P.O. 9 DE MAYO DE 2009.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE MAYO DE 2009.
+
+DECRETO 179, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 9, 65, 129 Y 138 DE LA LEY DE EDUCACION DEL ESTADO DE TABASCO.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+P.O. 27 DE MAYO DE 2009.
+
+DECRETO 183, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 9 Y 17 DE LA LEY DE EDUCACION DEL ESTADO DE TABASCO.
+
+PRIMERO.- El presente Decreto entrará en vigor a los tres días de haber sido publicada en el Periódico Oficial del Estado.
+
+Segundo.- Se deroga toda disposición contraria al presente Decreto.
+
+P.O. 27 DE MAYO DE 2009.
+
+DECRETO 184, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DE LA LEY DE EDUCACION DEL ESTADO DE TABASCO.
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día 01 de enero del año 2010, previa su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan las disposiciones de observancia general que se opongan a este decreto.
