@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-procedimientos-penales-del-estado-de-morelos-57615"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-22"
-last_updated: "2009-03-25"
+last_updated: "2009-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el jueves 22 de noviembre de 2007.
 
@@ -4377,7 +4377,9 @@ Artículo Primero. Inicio de Vigencia. El presente Código iniciará su vigencia
 
 Artículo Segundo. Aplicación. Sus disposiciones se aplicarán a hechos que ocurran a partir de las cero horas del día 30 de octubre del 2008, en el Primer Distrito Judicial.
 
-A partir de las cero horas del 1 de junio del 2009 en el Sexto Distrito Judicial con sede en Cuautla y en el Quinto Distrito Judicial con sede en Yautepec, Morelos.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2009)</small>
+
+A partir de las cero horas del 06 de julio del 2009 en el Sexto Distrito Judicial con sede en Cuautla y en el Quinto Distrito Judicial con sede en Yautepec, Morelos.
 
 Y a partir de las cero horas del día 1 de febrero del 2010, en el Cuarto Distrito Judicial con sede en Jojutla, en el Segundo Distrito Judicial con sede en Tetecala, en el Tercer Distrito Judicial con sede en Puente de Ixtla y en el Séptimo Distrito Judicial con sede en Jonacatepec.
 
@@ -4472,3 +4474,9 @@ P.O. 25 DE MARZO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+P.O. 27 DE MAYO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
