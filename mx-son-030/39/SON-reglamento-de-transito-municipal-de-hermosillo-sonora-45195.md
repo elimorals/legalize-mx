@@ -4,7 +4,7 @@ identifier: "SON-reglamento-de-transito-municipal-de-hermosillo-sonora-45195"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-31"
-last_updated: "2005-03-31"
+last_updated: "2009-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 REGLAMENTO DE TRÁNSITO MUNICIPAL DE HERMOSILLO, SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE MAYO DE 2009.
 
 Reglamento publicado en la Sección I del Número 26 en el Boletín Oficial del Estado de Sonora, el jueves 31 de marzo de 2005.
 
@@ -37,13 +37,101 @@ REGLAMENTO DE TRANSITO MUNICIPAL
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, B.O. 28 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 1.
 
-El presente Reglamento es de orden e interés público, y por tanto obligatorio. En el se establecen las normas a que deben sujetarse los peatones y los conductores de vehículos y sus pasajeros que transiten por la vía publica dentro de los limites del Municipio de Hermosillo.
+El presente Reglamento es de interés público y de observancia obligatoria en el Municipio de Hermosillo. Tiene por objeto regular el tránsito de vehículos y establecer las normas de seguridad vial a las que se sujetarán sus conductores y ocupantes, así como los peatones.
+
+> <small>(REFORMADO, B.O. 28 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 2.
 
-El Ayuntamiento de Hermosillo, es la autoridad con atribuciones para ordenar la aplicación de las medidas necesarias para el debido cumplimiento del presente Reglamento y de la Ley de Tránsito del Estado, ejerciéndose a través de la Dirección General de Seguridad Pública, Jueces Calificadores y Médicos Legistas, en el ámbito del Municipio, de conformidad a lo prescrito por el Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+El Ayuntamiento de Hermosillo es la autoridad con atribuciones para ordenar la aplicación de las medidas necesarias para el debido cumplimiento del presente Reglamento y de la Ley de Tránsito del Estado de Sonora, ejerciéndose a través de la Jefatura de Policía y Tránsito Municipal; Dirección General de Seguridad Pública y la Secretaría del Ayuntamiento por conducto de los Jueces Calificadores y Médicos Legistas en el ámbito del Municipio, de conformidad a lo señalado por los artículos 115 fracciones II y III inciso h) de la Constitución Política de los Estados Unidos Mexicanos y 61 fracción V inciso A) de la Ley de Gobierno y Administración Municipal.
+
+> <small>(ADICIONADO, B.O. 28 DE MAYO DE 2009)</small>
+
+ARTÍCULO 2 BIS.- Sin perjuicio de las atribuciones establecidas en las Leyes de Seguridad Pública y de Tránsito del Estado de Sonora, Bando de Policía y Gobierno, la Dirección General de Seguridad Pública Municipal, ejercerá las siguientes atribuciones:
+
+I.- Vigilar el cumplimiento de las disposiciones contenidas en el presente Reglamento;
+
+II.- Expedir boleta oficial, donde se consignará la infracción cometida, fundando y motivando la violación a las disposiciones del presente Reglamento y la Ley de Tránsito del Estado de Sonora, la cual para su validez deberá contener:
+
+1.- Fundamentación legal:
+
+a) Artículos de la Ley o del presente Reglamento que prevén la conducta cometida.
+
+2.- Motivación:
+
+a) Día, lugar, hora y breve descripción del hecho de la conducta infractora;
+
+b) Nombre y domicilio del infractor, salvo que no esté presente o no los proporcione;
+
+c) Placas de matrícula, y en su caso, número del permiso del vehículo para circular;
+
+d) En su caso, número y tipo de licencia o permiso de conducir, y
+
+e) Nombre, número de placa, adscripción y firma del agente que expida la boleta oficial.
+
+III.- Poner a disposición inmediata de los jueces calificadores, a los conductores que sean detenidos por conducir bajo los efectos del alcohol, drogas u otras sustancias tóxicas;
+
+IV.- Formular informes de hechos y circunstancias que hubieren motivado la detención de conductores. Dicho informe deberá contener los siguientes datos:
+
+a) Deberá elaborarse en papel membretado del Ayuntamiento.
+
+b) Nombre y domicilio del presunto infractor, explicitando los documentos con los cuales se identificó.
+
+c) Relación sucinta de los hechos que hagan presumir la comisión de la infracción o delito. En dicha relación se referirán, aparte de la infracción cometida, las circunstancias de tiempo, modo y lugar, y los demás datos que resultaren relevantes para efectos del procedimiento.
+
+d) Nombre y domicilio de los testigos, si hubiere.
+
+e) Inventario de objetos que se le hubieren encontrado en poder del presunto infractor en el momento de la detención, así como del vehículo, sus partes y demás accesorios que se encuentren en su interior. El inventario deberá realizarse en presencia del conductor detenido.
+
+f) Nombre, firma, jerarquía y número de unidad del agente que practique la detención.
+
+V.- Las demás que le confieran los ordenamientos legales aplicables a la materia.
+
+> <small>(ADICIONADO, B.O. 28 DE MAYO DE 2009)</small>
+
+ARTÍCULO 2 BIS 1.- Corresponde a los Jueces Calificadores, el ejercicio de las siguientes atribuciones:
+
+I.- Conocer, calificar y sancionar las infracciones al presente Reglamento.
+
+II.- Desahogar y valorar las pruebas que fueren presentadas para la calificación de la infracción;
+
+III.- Dictar, en los términos de las disposiciones aplicables, resolución expresa respecto de las infracciones que se hagan de su conocimiento, conforme a lo dispuesto en el Capítulo II, Título Segundo del Libro Cuarto de la Ley de Seguridad Pública para el Estado de Sonora;
+
+IV.- Coordinarse con los Médicos Legistas para la calificación de las infracciones al presente Reglamento;
+
+V.- Permutar las sanciones impuestas, cuando así proceda, o a petición del infractor;
+
+VI.- Adoptar las medidas de prevención para garantizar la seguridad e integridad de conductores, pasajeros y la ciudadanía en general;
+
+VII.- Resolver los recursos de revocación interpuestos en contra de las sanciones impuestas por infracciones al presente Reglamento y la Ley de Tránsito del Estado de Sonora, en los términos del artículo 240 de la Ley de Tránsito del Estado de Sonora;
+
+VIII.- Hacer del conocimiento del Agente del Ministerio Público, la probable comisión de delitos, de conformidad con lo previsto en el artículo 144 del Código Penal para el Estado de Sonora, y
+
+IX.- Las demás que les confieran los ordenamientos legales aplicables a la materia.
+
+> <small>(ADICIONADO, B.O. 28 DE MAYO DE 2009)</small>
+
+ARTÍCULO 2 BIS 2.- Sin perjuicio de lo previsto en el Bando de Policía y Gobierno para el Municipio de Hermosillo, corresponde a los Médicos Legistas, el ejercicio de las siguientes atribuciones:
+
+I.- Emitir certificado médico, sobre el grado de intoxicación de conductores por el consumo de alcohol, drogas u otras sustancias tóxicas;
+
+II.- Dictar las medidas necesarias para garantizar y proteger la salud de los conductores detenidos con motivo de infracciones al presente Reglamento;
+
+III.- Practicar las pruebas para la detección del grado de intoxicación, utilizando para ello los medios e instrumentos médico-tecnológicos, tales como alcoholemia y alcoholímetro, así como los exámenes de las capacidades psicomotrices y de alteración de la conducta, entre otros;
+
+IV.- Certificar sobre el grado de intoxicación de los conductores que le sean presentados;
+
+V.- Coordinarse con los Jueces Calificadores, para la calificación de las infracciones al presente Reglamento y la Ley de Tránsito del Estado de Sonora;
+
+VI.- Informar al Juez Calificador de toda irregularidad o situación extraordinaria que se presente al momento de la certificación médica de las personas que le sean presentadas;
+
+VII.- Determinar las condiciones y procedimientos bajo los cuales habrá de realizarse la valoración y certificación médica del infractor, y
+
+VIII.- Las demás que les confieran los ordenamientos legales aplicables a la materia.
 
 ### CAPÍTULO SEGUNDO. DEL TRÁNSITO DE VEHÍCULOS
 
@@ -171,6 +259,8 @@ Los propietarios de los vehículos son responsables del pago de las infracciones
 
 ### CAPÍTULO TERCERO. DE LAS PROHIBICIONES A LOS CONDUCTORES DE VEHÍCULOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], B.O. 28 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 21.
 
 Los conductores de vehículos tienen prohibido lo siguiente:
@@ -195,7 +285,9 @@ IX.- Llevar consigo aparatos que hagan uso de la frecuencia de radio de Segurida
 
 X.- Utilizar equipos de sonido de tal forma que su volumen contamine el ambiente o sea molesto para el público o pasajeros.
 
-XI.- Utilizar audífonos, teléfonos celulares o cualquier aparato similar que distraiga la atención del conductor excepto tratándose de dispositivos de manos libres para telefonía celular.
+> <small>(REFORMADA, B.O. 28 DE MAYO DE 2009)</small>
+
+XI.- Utilizar audífonos, teléfonos celulares o cualquier aparato similar que distraiga la atención del conductor.
 
 XII.- Bajar o subir pasajeros sobre los carriles de circulación o en lugares no permitidos.
 
@@ -222,6 +314,10 @@ XXII.- Remolcar vehículos si no se cuenta con el equipo especial para ello.
 XXIII.- Entorpecer el libre tránsito de vehículos, bicicletas o peatones.
 
 XXIV.- Transitar, estacionarse u obstruir el carril especial para bicicletas (ciclo vía).
+
+> <small>(ADICIONADO, B.O. 28 DE MAYO DE 2009)</small>
+
+ARTÍCULO 21 BIS.- Todos los conductores de vehículos que cometan infracciones a las disposiciones previstas en el presente reglamento, y muestren síntomas de que conducen bajo el influjo de bebidas alcohólicas, drogas o estupefacientes, están obligados a someterse a las pruebas para la detección del grado de intoxicación.
 
 ### CAPÍTULO CUARTO. DE LOS MOTOCICLISTAS Y CICLISTAS
 
@@ -657,17 +753,23 @@ VII.- Entregar infracciones y amonestaciones levantadas al terminar el turno o a
 
 VIII.- Levantarán la infracción correspondiente cuando el infractor no se detenga o se dé a la fuga, la boleta original destinada al infractor será entregada al Departamento de Medios de Apremio, o al juzgado calificador, para que proceda a citar al propietario, quien deberá presentar al conductor o pagar la multa cuando se le requiera.
 
+> <small>(REFORMADO, B.O. 28 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 60.
 
-En todos los casos que se detecte que el infractor tiene aliento alcohólico, estado de ebriedad o esté bajo el influjo de drogas o enervantes, se le deberá trasladar a la comandancia correspondiente, utilizando grúa para trasladar el vehículo a fin de practicar un dictamen médico que incluirá la prueba de alcoholímetro, excepto en los casos que resulte materialmente imposible, lo cual deberá asentarse en el dictamen médico.
+En todos los casos que se detecte que el conductor tiene aliento alcohólico, estado de ebriedad o esté bajo el influjo de drogas o enervantes, se le deberá trasladar a la comandancia correspondiente, poniéndolo a disposición inmediata del Juez Calificador, a fin de que el Médico Legista practique las pruebas para la detección del grado de intoxicación, mediante la utilización del alcoholímetro, así como los exámenes de las capacidades psicomotrices y de alteración de la conducta, entre otras, excepto en los casos que resulte materialmente imposible, lo cual deberá asentarse en dicho dictamen.
+
+El Agente de Tránsito responsable de la detención del conductor, deberá poner de igual manera a disposición del Juez Calificador, el vehículo, pudiendo hacer uso para su traslado el servicio de grúa oficial, y solo en caso necesario, se hará uso de grúas particulares autorizadas.
 
 En los casos en que el dictamen médico establezca que no existe embriaguez, al ciudadano no se le cobrará el uso de grúa, ni el certificado médico.
 
 ### CAPÍTULO DÉCIMO SEGUNDO. DE LAS SANCIONES
 
+> <small>(REFORMADO, B.O. 28 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 61.
 
-Los propietarios de vehículos son responsables solidarios del pago de multas por las infracciones que se cometan con los mismos, excepto en caso de robo reportado previamente y por escrito ante las Autoridades Competentes.
+Los propietarios de vehículos son responsables solidarios del pago de multas por las infracciones que se cometan con los mismos, así como del pago por los daños que se ocasionen tanto a terceros como a bienes del dominio público municipal; excepto en caso de robo reportado previamente y por escrito ante las Autoridades Competentes.
 
 ###### ARTÍCULO 62.
 
@@ -677,33 +779,29 @@ Cuando el infractor viole varias disposiciones de este reglamento, con actos y t
 
 Las sanciones por faltas o violaciones al presente Reglamento, consistirán en:
 
-I.- SANCION ADMINISTRATIVA.- Se podrá sancionar con arresto a los conductores en los casos siguientes:
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], B.O. 28 DE MAYO DE 2009)</small>
 
-A).- Por conducir en estado de ebriedad.
+I. ARRESTO.- La privación de libertad por un período de hasta treinta y seis horas, que se cumplirá en lugares distintos de los destinados a la detención de indiciados, procesados o reos. En todo caso, los lugares de arresto para varones y mujeres, estarán separados.
 
-B).- Por conducir bajo el influjo de drogas, estupefacientes o cualquier otra sustancia tóxica.
+Se impondrá arresto a los infractores, que:
 
-C).- Por insultar o agredir al personal de Seguridad Pública Municipal en ejercicio de sus funciones. En caso de lesiones causadas en la agresión se procederá de acuerdo a lo que establece el Código Penal del Estado.
+A).- Conduzcan en estado de ebriedad.
 
-D).- Por conducir de manera negligente o temeraria, poniendo en peligro la seguridad de las personas o bienes.
+B).- Conduzcan bajo el influjo de drogas, estupefacientes o cualquier otra sustancia.
 
-II.- SUSPENSION DE LA LICENCIA DE CONDUCIR.- Se suspenderá la licencia de conducir en los casos siguientes:
+II.- (DEROGADA, B.O. 28 DE MAYO DE 2009)
 
-A).- Por resolución judicial que cause ejecutoria y así lo ordene.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 28 DE MAYO DE 2009)</small>
 
-B).- Por huir después de cometer una infracción, no obedeciendo la indicación de un elemento de tránsito o policía municipal para detenerse, por un período de 30 días.
-
-C).- En caso de reincidencia, dentro de los seis meses siguientes, por un período (sic) 90 días.
-
-La suspensión se realizará recogiendo la licencia, misma que será reintegrada al infractor una vez concluido el periodo de suspensión.
-
-III.- CANCELACIÓN DE LA LICENCIA DE CONDUCIR.- Se cancelará la licencia de conducir en los casos siguientes:
+III.- CANCELACIÓN DE LA LICENCIA O PERMISO DE CONDUCIR.- Se cancelará la licencia o permiso de conducir en los casos siguientes:
 
 A).- Por abandonar injustificadamente el lugar de un accidente en más de una ocasión en un período de un año.
 
 B).- Por resultar responsable de dos accidentes con lesionados graves en un período de un año.
 
-C).- Por manejar en estado de ebriedad, bajo el influjo de drogas o sustancias tóxicas, en tres ocasiones en un periodo de un año.
+> <small>(REFORMADO, B.O. 28 DE MAYO DE 2009)</small>
+
+C).- Por conducir vehículos en estado de ebriedad o bajo la influencia de estupefacientes.
 
 D).- Por resolución judicial que cause ejecutoria y así lo ordene.
 
@@ -739,7 +837,35 @@ J).- En caso de accidente o delito.
 
 K).- Por orden de autoridad judicial.
 
-V.- MULTA.- Se impondrá multa por el equivalente en pesos que corresponda a un día de salario mínimo general de la región, multiplicado por el numero que aparece como sanción en LA LEY DE INGRESOS VIGENTE DEL MUNICIPIO DE HERMOSILLO.
+> <small>(REFORMADA, B.O. 28 DE MAYO DE 2009)</small>
+
+V.- MULTA.- Se impondrá multa de cero punto cuatro a doscientos días de salario mínimo diario general vigente en la ciudad de Hermosillo, en los términos de la Ley de Tránsito del Estado de Sonora.
+
+La multa por conducción de vehículos en estado de ebriedad o bajo los influjos de las drogas o sustancias tóxicas, se impondrá multa de cien días de salario mínimo diario general vigente; y en el caso de conducta reiterada, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto.
+
+> <small>(ADICIONADA, B.O. 28 DE MAYO DE 2009)</small>
+
+VI.- TRABAJOS A FAVOR DE LA COMUNIDAD.- El trabajo a favor de la comunidad, consiste en la prestación de servicios no remunerados, en instituciones públicas, educativas o de asistencia social en instituciones privadas asistenciales. Este trabajo se llevará a cabo en jornadas dentro de períodos distinto (sic) al horario de labores que representen la fuente de ingreso para la subsistencia del sujeto y de su familia, sin que pueda exceder de la jornada extraordinaria que determine la ley laboral y bajo la orientación y vigilancia de la autoridad ejecutora.
+
+Para efecto del cómputo de las horas de trabajo a favor de la comunidad, el Juez Calificador ordenara al infractor, la asistencia obligatoria de cuando menos quince horas efectivas, a programas para la prevención y rehabilitación de personas con enfermedades relacionadas con el consumo de alcohol, drogas estupefacientes o cualquier otra sustancia.
+
+Por ningún concepto se desarrollará este trabajo en forma que resulte degradante o humillante para el infractor.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN VI, B.O. 28 DE MAYO DE 2009.]</small>
+
+La sanción de multa será sustituida en todo o en parte a petición expresa del infractor por un arresto hasta de 36 horas o trabajos a favor de la comunidad, beneficios de los cuales se puede acoger el infractor.
+
+> <small>(ADICIONADO, B.O. 28 DE MAYO DE 2009)</small>
+
+ARTÍCULO 63 BIS.- Para la imposición de sanciones por infracciones al presente Reglamento, se tomará en cuenta:
+
+I. La gravedad de la infracción;
+
+II. La capacidad económica del infractor;
+
+III. La reincidencia, y
+
+IV. Las demás circunstancias especiales de los hechos constitutivos de la infracción.
 
 ###### ARTÍCULO 64.
 
@@ -773,9 +899,19 @@ VII.- Estacionarse en cajones exclusivos para personas con discapacidad.
 
 VIII.- Conducir sin licencia vigente.
 
+> <small>(REFORMADO, B.O. 28 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO 68.
 
-Para promover algún recurso de inconformidad o impugnación, este se deberá de interponer ante el Juez Calificador por escrito, dentro de los cinco días hábiles siguientes en que se hubiere notificado o aplicado la sanción que se pretende revocar.
+Las sanciones impuestas por infracciones a este Reglamento y la Ley de Tránsito del Estado de Sonora, podrán ser impugnadas mediante la interposición de los recursos previstos en el artículo 240 de la Ley.
+
+> <small>(ADICIONADO, B.O. 28 DE MAYO DE 2009)</small>
+
+###### ARTÍCULO 69.
+
+El cuarenta por ciento de los ingresos recaudados por el Ayuntamiento por concepto de multas por infracciones a este Reglamento, se destinarán a la formación de fondos para campañas de prevención y de salud, relacionadas con el consumo de alcohol, drogas, estupefacientes y otras sustancias, así como para los programas vinculados a la función pública de tránsito.
+
+En el caso de las multas por conducir en estado de ebriedad, el cien por ciento de su ingreso de destinara a los fines antes indicados.
 
 ## TRANSITORIOS
 
@@ -790,3 +926,21 @@ A lo no previsto en este ordenamiento, inclusive lo referente a recursos de impu
 Y para los fines a que haya lugar expido esta Certificación en la Ciudad de Hermosillo, Sonora, a los Quince días del mes de Marzo de Dos Mil Cinco.
 
 AL MARGEN INFERIOR DERECHO UN SELLO CON EL ESCUDO NACIONAL QUE DICE: ESTADOS UNIDOS MEXICANOS.- H. AYUNTAMIENTO DE HERMOSILLO.- ESTADO DE SONORA.- SECRETARÍA DEL AYUNTAMIENTO.- UNA FIRMA ILEGIBLE.-
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 28 DE MAYO DE 2009.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE TRÁNSITO MUNICIPAL".]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes disposiciones entrarán en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga la fracción X del artículo 157 del Bando de Policía y Gobierno para el Municipio de Hermosillo.
+
+###### ARTÍCULO TERCERO.
+
+Para hacer efectivas las multas que excedan de los cien días de salario mínimo diario general vigente en la ciudad de Hermosillo, deberán realizarse las modificaciones correspondientes a la Ley de Ingresos y Presupuesto de Ingresos del H. Ayuntamiento de Hermosillo, para el ejercicio fiscal 2009.
