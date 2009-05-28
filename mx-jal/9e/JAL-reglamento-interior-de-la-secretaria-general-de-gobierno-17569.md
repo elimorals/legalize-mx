@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-general-de-gobierno-17569"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-12"
-last_updated: "2008-11-27"
+last_updated: "2009-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17569&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 2009.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 12 de septiembre de 2000.
 
@@ -207,6 +207,10 @@ VII. Dirección del Archivo de Instrumentos Públicos.
 
 Artículo 12 bis.- El titular de la Subsecretaría de Asuntos Jurídicos representará al Secretario en el Comité de Clasificación de Información Pública de la Secretaría, y lo presidirá.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE MAYO DE 2009)</small>
+
+Asimismo, será el titular de la oficina de asuntos jurídicos del Gobernador del Estado, para efectos de lo establecido en el artículo 12 de la ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
+
 ###### Artículo 13.
 
 Serán atribuciones de la Dirección General de Estudios Legislativos y Acuerdos Gubernamentales, las siguientes:
@@ -261,13 +265,17 @@ IV. Dar contestación a las demandas y atender los juicios planteados en contra 
 
 V. Fungir como Unidad de Transparencia de la Secretaria, tramitar y resolver los procedimientos administrativos en materia de información pública que sean competencia de esta Secretaría, de conformidad de la legislación aplicable;
 
-> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2009)</small>
 
-VI. Participar, a través de su titular, como miembro del Comité de Clasificación de Información Pública de la Secretaría, y
+VI. Participar, a través de su titular, como miembro del Comité de Clasificación de Información Pública de la Secretaría;
 
-> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2009)</small>
 
-VII. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera el superior jerárquico.
+VII. Ser el titular de la oficina de asuntos jurídicos del Gobernador del Estado, en ausencia del Subsecretario de Asuntos Jurídicos, para efectos de lo establecido en el artículo 12 de la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos; y
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2009)</small>
+
+VIII. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera el superior jerárquico.
 
 ###### Artículo 15.
 
@@ -640,5 +648,9 @@ P.O. 8 DE DICIEMBRE DE 2007.
 ÚNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 P.O. 27 DE NOVIEMBRE DE 2008.
+
+ÚNICO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 28 DE MAYO DE 2009.
 
 ÚNICO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
