@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-responsabilidades-administrativas-de-los-23592"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2002-03-13"
-last_updated: "2009-01-23"
+last_updated: "2009-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23592&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-03-12"
 
 LEY FEDERAL DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE MAYO DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 13 de marzo de 2002.
 
@@ -291,6 +291,16 @@ El incumplimiento a lo dispuesto en este artículo por parte del jefe inmediato,
 
 La Secretaría impondrá las sanciones correspondientes a los contralores internos y a los titulares de las áreas de auditoría, de quejas y de responsabilidades cuando se abstengan injustificadamente de investigar o sancionar a los infractores, o que al hacerlo no se ajusten a las disposiciones jurídicas o administrativas aplicables, así como cuando incurran en actos u omisiones que impliquen responsabilidad administrativa.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 28 DE MAYO DE 2009)</small>
+
+###### ARTICULO 17 Bis.
+
+La Secretaría, el contralor interno o el titular del área de responsabilidades podrán abstenerse de iniciar el procedimiento disciplinario previsto en el artículo 21 de esta Ley o de imponer sanciones administrativas a un servidor público, cuando de las investigaciones o revisiones practicadas adviertan que se actualiza la siguiente hipótesis:
+
+Que por una sola vez, por un mismo hecho y en un período de un año, la actuación del servidor público, en la atención, trámite o resolución de asuntos a su cargo, está referida a una cuestión de criterio o arbitrio opinable o debatible, en la que válidamente puedan sustentarse diversas soluciones, siempre que la conducta o abstención no constituya una desviación a la legalidad y obren constancias de los elementos que tomó en cuenta el servidor público en la decisión que adoptó, o que el acto u omisión fue corregido o subsanado de manera espontánea por el servidor público o implique error manifiesto y en cualquiera de estos supuestos, los efectos que, en su caso, se hubieren producido, desaparecieron o se hayan resarcido.
+
 ###### ARTICULO 18.
 
 Cuando por la naturaleza de los hechos denunciados o la gravedad de las presuntas infracciones la Secretaría estime que ella debe instruir el procedimiento disciplinario, requerirá al contralor interno, al titular del área de responsabilidades o al titular del área de quejas el envío del expediente respectivo, e impondrá, en su caso, las sanciones administrativas correspondientes.
@@ -541,7 +551,11 @@ Tratándose de bienes muebles, la Secretaría determinará las características 
 
 La Secretaría llevará un registro de servidores públicos, el cual tendrá el carácter de público.
 
-En el registro se inscribirán los datos curriculares de los servidores públicos obligados a presentar declaración de situación patrimonial, sus funciones, ingresos y reconocimientos con motivo de sus empleos, cargos o comisiones; la información relativa a su situación patrimonial, en lo referente a sus ingresos del último año, bienes muebles e inmuebles, inversiones financieras y adeudos, así como en su caso los procedimientos administrativos instaurados y las sanciones impuestas a aquéllos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 2009)</small>
+
+En el registro se inscribirán los datos curriculares de los servidores públicos obligados a presentar declaración de situación patrimonial, sus funciones, ingresos y reconocimientos con motivo de sus empleos, cargos o comisiones; la información relativa a su situación patrimonial, en lo referente a sus ingresos del último año, bienes muebles e inmuebles, inversiones financieras y adeudos, así como en su caso los procedimientos administrativos instaurados, las sanciones impuestas a aquellos y en su caso las resoluciones por las que se dejen sin efectos estas últimas.
 
 La publicitación de la información relativa a la situación patrimonial, se hará siempre y cuando se cuente con la autorización previa y específica del servidor público de que se trate.
 
@@ -674,5 +688,15 @@ D.O.F. 23 DE ENERO DE 2009.
 SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+...
+
+D.O.F. 28 DE MAYO DE 2009.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO. El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Diario Oficial de la Federación, salvo las disposiciones que para su aplicación requieran de las modificaciones al sistema electrónico CompraNet a que se refiere el artículo Décimo transitorio del presente Decreto.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
 
 ...
