@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-57-2006-del-pleno-del-consejo-de-la-51538"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-09-04"
-last_updated: "2009-05-15"
+last_updated: "2009-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51538&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-23"
 
 ACUERDO GENERAL 57/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE MAYO DE 2009.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de septiembre de 2006.
 
@@ -45,9 +45,7 @@ En consecuencia, con fundamento en las disposiciones constitucionales y legales 
 
 ACUERDO
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 4/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE FEBRERO DE 2009)</small>
-
-PRIMERO.- El territorio de la República se divide en treinta y un circuitos, cuya circunscripción territorial es la siguiente:
+PRIMERO.- El territorio de la República se divide en veintinueve Circuitos, cuya circunscripción territorial es la siguiente:
 
 I.- PRIMER CIRCUITO: Distrito Federal.
 
@@ -75,9 +73,7 @@ XII.- DECIMOSEGUNDO CIRCUITO: Estado de Sinaloa.
 
 XIII.- DECIMOTERCER CIRCUITO: Estado de Oaxaca.
 
-> <small>(REFORMADA POR EL PUNTO SEXTO DEL ACUERDO GENERAL 4/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE FEBRERO DE 2009)</small>
-
-XIV.- DECIMOCUARTO CIRCUITO: Estado de Yucatán.
+XIV.- DECIMOCUARTO CIRCUITO: Estados de Yucatán y Campeche.
 
 XV.- DECIMOQUINTO CIRCUITO: Estado de Baja California y municipio de San Luis Río Colorado del Estado de Sonora.
 
@@ -95,9 +91,7 @@ XXI.- VIGESIMO PRIMER CIRCUITO: Estado de Guerrero.
 
 XXII.- VIGESIMO SEGUNDO CIRCUITO: Estado de Querétaro.
 
-> <small>(REFORMADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)</small>
-
-XXIII.- VIGESIMO TERCER CIRCUITO: Estado de Zacatecas.
+XXIII.- VIGESIMO TERCER CIRCUITO: Estados de Zacatecas y Aguascalientes.
 
 XXIV.- VIGESIMO CUARTO CIRCUITO: Estado de Nayarit.
 
@@ -110,14 +104,6 @@ XXVII.- VIGESIMO SEPTIMO CIRCUITO: Estado de Quintana Roo.
 XXVIII.- VIGESIMO OCTAVO CIRCUITO: Estado de Tlaxcala.
 
 XXIX.- VIGESIMO NOVENO CIRCUITO: Estado de Hidalgo.
-
-> <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)</small>
-
-XXX.- TRIGESIMO CIRCUITO: Estado de Aguascalientes.
-
-> <small>(ADICIONADA POR EL PUNTO SEXTO DEL ACUERDO GENERAL 4/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE FEBRERO DE 2009)</small>
-
-XXXI.- TRIGESIMO PRIMER CIRCUITO: Estado de Campeche.
 
 SEGUNDO.- Cada uno de los Circuitos a que se refiere el punto primero comprenderá los tribunales colegiados y unitarios de Circuito y los juzgados de Distrito que a continuación se precisan:
 
@@ -141,9 +127,9 @@ II.- SEGUNDO CIRCUITO:
 
 2.- Cinco tribunales unitarios: cuatro con sede en Toluca y uno con residencia en Nezahualcóyotl.
 
-> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 33/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL DEL 72/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE NOVIEMBRE DE 2006)</small>
 
-3.- Veintitrés juzgados de Distrito en el Estado de México: seis especializados en materia de procesos penales federales y cinco especializados en materia de amparo y juicios civiles federales, todos con residencia en Toluca; ocho juzgados de Distrito mixtos con sede en Naucalpan de Juárez y cuatro con sede en Nezahualcóyotl.
+3.- Veintidós juzgados de Distrito en el Estado de México: seis especializados en materia de procesos penales federales y cinco especializados en materia de amparo y juicios civiles federales, todos con residencia en Toluca; ocho juzgados de Distrito mixtos con sede en Naucalpan de Juárez y tres con sede en Nezahualcóyotl.
 
 III.- TERCER CIRCUITO:
 
@@ -171,23 +157,17 @@ V.- QUINTO CIRCUITO:
 
 3.- Diez juzgados de Distrito en el Estado de Sonora: cuatro con sede en Hermosillo, tres con residencia en Nogales, dos con sede en Ciudad Obregón y uno con residencia en Agua Prieta.
 
-> <small>(REFORMADA POR EL PUNTO SEXTO DEL ACUERDO GENERAL 11/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MARZO DE 2007)</small>
-
 VI.- SEXTO CIRCUITO:
 
-1.- Nueve tribunales colegiados especializados: dos en materia penal, tres en materia administrativa, tres en materia civil y uno en materia de trabajo, todos con residencia en San Andrés Cholula.
+1.- Nueve tribunales colegiados especializados: dos en materia penal, tres en materia administrativa, tres en materia civil y uno en materia de trabajo, todos con residencia en Puebla.
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 16/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ABRIL DE 2008)</small>
+2.- Un tribunal unitario con sede en Puebla.
 
-2.- Dos tribunales unitarios con sede en San Andrés Cholula.
-
-3.- Diez juzgados de Distrito en el Estado de Puebla, con residencia en San Andrés Cholula.
+3.- Diez juzgados de Distrito en el Estado de Puebla, con residencia en la ciudad del mismo nombre.
 
 VII.- SEPTIMO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO DECIMOSEXTO DEL ACUERDO GENERAL 15/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE MAYO DE 2007)</small>
-
-1.- Siete tribunales colegiados especializados: dos en materias penal y de trabajo y dos en materia administrativa, con residencia en Boca del Río; dos tribunales colegiados en materia civil y uno en materias penal y de trabajo con sede en Xalapa.
+1.- Siete tribunales colegiados especializados: dos en materia penal y dos en materias administrativa y de trabajo, con residencia en Boca del Río; y tres en materia civil con sede en Xalapa.
 
 2.- Dos tribunales unitarios con residencia en Boca del Río.
 
@@ -211,13 +191,13 @@ IX.- NOVENO CIRCUITO:
 
 2.- Un tribunal unitario con sede en San Luis Potosí.
 
-> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 4/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE FEBRERO DE 2008)</small>
-
-3.- Seis juzgados de Distrito en el Estado de San Luis Potosí: cinco con residencia en la ciudad del mismo nombre y uno con sede en Ciudad Valles.
+3.- Cinco juzgados de Distrito en el Estado de San Luis Potosí: cuatro con residencia en la ciudad del mismo nombre y uno con sede en Ciudad Valles.
 
 X.- DECIMO CIRCUITO:
 
-1.- Tres tribunales colegiados con residencia en Villahermosa.
+> <small>(REFORMADO POR EL PUNTO DECIMOCUARTO DEL ACUERDO GENERAL 17/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE MAYO DE 2009)</small>
+
+1.- Tres tribunales colegiados especializados: uno en materias civil y de trabajo, uno en materias penal y de trabajo y uno en materias administrativa y de trabajo, todos con residencia en Villahermosa.
 
 2.- Dos tribunales unitarios con sede en Villahermosa.
 
@@ -227,9 +207,7 @@ X.- DECIMO CIRCUITO:
 
 XI.- DECIMOPRIMER CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO DECIMOCUARTO DEL ACUERDO GENERAL 39/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-1.- Cuatro tribunales colegiados especializados: uno en materia penal, dos en materias administrativa y de trabajo, y uno en materia civil, todos con residencia en Morelia.
+1.- Cuatro tribunales colegiados con residencia en Morelia.
 
 2.- Dos tribunales unitarios con sede en Morelia.
 
@@ -241,17 +219,13 @@ XII.- DECIMOSEGUNDO CIRCUITO:
 
 1.- Cuatro tribunales colegiados con residencia en Mazatlán.
 
-> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL 69/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-2.- Dos tribunales unitarios con sede en Mazatlán y un tribunal unitario con sede en Culiacán.
+2.- Dos tribunales unitarios con sede en Mazatlán.
 
 3.- Diez juzgados de Distrito en el Estado de Sinaloa: cuatro con residencia en Culiacán, tres con sede en Los Mochis y tres con residencia en Mazatlán.
 
 XIII.- DECIMOTERCER CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO DECIMOSEXTO DEL ACUERDO GENERAL 13/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE MARZO DE 2009)</small>
-
-1.- Tres tribunales colegiados especializados: uno en materias penal y administrativa, uno en materias civil y administrativa y uno en materias de trabajo y administrativa, todos con residencia en la ciudad de Oaxaca.
+1.- Tres tribunales colegiados con residencia en Oaxaca.
 
 2.- Dos tribunales unitarios con sede en Oaxaca.
 
@@ -259,21 +233,17 @@ XIII.- DECIMOTERCER CIRCUITO:
 
 XIV.- DECIMOCUARTO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO DECIMOQUINTO DEL ACUERDO GENERAL 14/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE MAYO DE 2007)</small>
-
-1.- Tres tribunales colegiados especializados: uno en materias penal y administrativa, uno en materias civil y administrativa y uno en materias de trabajo y administrativa, todos con residencia en Mérida.
+1.- Tres tribunales colegiados especializados: dos en materias administrativa y civil; y uno en materias penal y de trabajo, todos con residencia en Mérida.
 
 2.- Un tribunal unitario con sede en Mérida.
 
 3.- Cuatro juzgados de Distrito en el Estado de Yucatán, con residencia en Mérida.
 
-4.- (DEROGADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 4/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE FEBRERO DE 2009)
+4.- Dos juzgados de Distrito en el Estado de Campeche, con sede en la ciudad del mismo nombre.
 
 XV.- DECIMOQUINTO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 34/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE AGOSTO DE 2008)</small>
-
-1.- Cinco tribunales colegiados con residencia en Mexicali.
+1.- Cuatro tribunales colegiados con residencia en Mexicali.
 
 2.- Siete tribunales unitarios: tres con sede en Mexicali y cuatro con residencia en Tijuana.
 
@@ -281,17 +251,11 @@ XV.- DECIMOQUINTO CIRCUITO:
 
 XVI.- DECIMOSEXTO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 52/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE NOVIEMBRE DE 2007)</small>
+1.- Cinco tribunales colegiados especializados: dos en materias administrativa y de trabajo; dos en materia civil y uno en materia penal, todos con residencia en Guanajuato.
 
-1.- Cinco tribunales colegiados especializados: dos en materias administrativa y de trabajo, dos en materias civil y de trabajo y uno en materia penal con residencia en Guanajuato, Guanajuato.
+2.- Dos tribunales unitarios con sede en Guanajuato.
 
-> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL 45/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE AGOSTO DE 2008)</small>
-
-2.- Tres tribunales unitarios con sede en Guanajuato.
-
-> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 35/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE AGOSTO DE 2008)</small>
-
-3.- Ocho juzgados de Distrito en el Estado de Guanajuato: dos con residencia en la ciudad del mismo nombre, tres con sede en León y tres con residencia en Celaya.
+3.- Siete juzgados de Distrito en el Estado de Guanajuato: dos con residencia en la ciudad del mismo nombre, tres con sede en León y dos con residencia en Celaya.
 
 XVII.- DECIMOSEPTIMO CIRCUITO:
 
@@ -303,9 +267,7 @@ XVII.- DECIMOSEPTIMO CIRCUITO:
 
 XVIII.- DECIMOCTAVO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 75/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2006)</small>
-
-1.- Tres tribunales colegiados con residencia en Cuernavaca.
+1.- Dos tribunales colegiados con residencia en Cuernavaca.
 
 2.- Un tribunal unitario con sede en Cuernavaca.
 
@@ -325,9 +287,7 @@ XX.- VIGESIMO CIRCUITO:
 
 2.- Dos tribunales unitarios con sede en Tuxtla Gutiérrez.
 
-> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 5/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE FEBRERO DE 2008)</small>
-
-3.- Nueve juzgados de Distrito en el Estado de Chiapas: dos especializados en materia de procesos penales federales, con residencia en Cintalapa de Figueroa; siete juzgados de Distrito mixtos: cinco con sede en Tuxtla Gutiérrez y dos con residencia en Tapachula.
+3.- Ocho juzgados de Distrito en el Estado de Chiapas: dos especializados en materia de procesos penales federales, con residencia en Cintalapa de Figueroa; seis juzgados de Distrito mixtos: cuatro con sede en Tuxtla Gutiérrez y dos con residencia en Tapachula.
 
 XXI.- VIGESIMO PRIMER CIRCUITO:
 
@@ -347,15 +307,13 @@ XXII.- VIGESIMO SEGUNDO CIRCUITO:
 
 XXIII.- VIGESIMO TERCER CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)</small>
-
-1.- Un tribunal colegiado con residencia en Zacatecas.
+1.- Tres tribunales colegiados: uno con residencia en Zacatecas y dos con sede en Aguascalientes.
 
 2.- Un tribunal unitario con sede en Zacatecas.
 
 3.- Dos juzgados de Distrito en el Estado de Zacatecas, uno con residencia en la ciudad del mismo nombre y uno con sede en Guadalupe.
 
-4.- (DEROGADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)
+4.- Tres juzgados de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre.
 
 XXIV.- VIGESIMO CUARTO CIRCUITO:
 
@@ -383,9 +341,7 @@ XXVI.- VIGESIMO SEXTO CIRCUITO:
 
 XXVII.- VIGESIMO SEPTIMO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 74/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE NOVIEMBRE DE 2006)</small>
-
-1.- Dos tribunales colegiados con residencia en Cancún.
+1.- Un tribunal colegiado con residencia en Cancún.
 
 2.- Un tribunal unitario con sede en Cancún.
 
@@ -406,26 +362,6 @@ XXIX.- VIGESIMO NOVENO CIRCUITO:
 2.- Un tribunal unitario con sede en Pachuca.
 
 3.- Tres juzgados de Distrito en el Estado de Hidalgo, con residencia en Pachuca.
-
-> <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)</small>
-
-XXX.- TRIGESIMO CIRCUITO:
-
-1.- Dos tribunales colegiados con residencia en Aguascalientes.
-
-2.- Un tribunal unitario con sede en Aguascalientes.
-
-3.- Tres juzgados de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre.
-
-> <small>(ADICIONADA POR EL PUNTO SEXTO DEL ACUERDO GENERAL 4/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE FEBRERO DE 2009)</small>
-
-XXXI.- TRIGESIMO PRIMER CIRCUITO:
-
-1.- Un tribunal colegiado con residencia en Campeche.
-
-2.- Un tribunal unitario con sede en Campeche.
-
-3.- Dos juzgados de Distrito en el Estado de Campeche, con residencia en la ciudad del mismo nombre.
 
 TERCERO.- La jurisdicción territorial de los tribunales colegiados y unitarios de Circuito es la que enseguida se indica:
 
@@ -457,19 +393,11 @@ X.- DECIMO CIRCUITO: Estado de Tabasco y los municipios de Acayucan, Agua Dulce,
 
 XI.- DECIMOPRIMER CIRCUITO: Estado de Michoacán.
 
-> <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL 69/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-XII.- DECIMOSEGUNDO CIRCUITO: Respecto de los tribunales colegiados es el Estado de Sinaloa.
-
-En relación con los dos tribunales unitarios con residencia en Mazatlán, será igual a la establecida para los juzgados de Distrito en el Estado de Sinaloa, con residencia en esa misma ciudad, así como en Los Mochis.
-
-Por lo que hace al tribunal unitario con residencia en Culiacán, será la misma que la establecida para los juzgados de Distrito en el Estado de Sinaloa, con sede en la citada ciudad.
+XII.- DECIMOSEGUNDO CIRCUITO: Estado de Sinaloa.
 
 XIII.- DECIMOTERCER CIRCUITO: Estado de Oaxaca.
 
-> <small>(REFORMADA POR EL PUNTO SEXTO DEL ACUERDO GENERAL 4/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE FEBRERO DE 2009)</small>
-
-XIV.- DECIMOCUARTO CIRCUITO: Estado de Yucatán.
+XIV.- DECIMOCUARTO CIRCUITO: Estados de Campeche y Yucatán.
 
 XV.- DECIMOQUINTO CIRCUITO: Respecto de los tribunales colegiados es el Estado de Baja California y el municipio de San Luis Río Colorado del Estado de Sonora.
 
@@ -511,9 +439,11 @@ En relación al tribunal unitario con residencia en Acapulco, su jurisdicción t
 
 XXII.- VIGESIMO SEGUNDO CIRCUITO: Estado de Querétaro.
 
-> <small>(REFORMADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)</small>
+XXIII.- VIGESIMO TERCER CIRCUITO: Respecto del tribunal colegiado con residencia en Zacatecas, su jurisdicción territorial será la entidad del mismo nombre.
 
-XXIII.- VIGESIMO TERCER CIRCUITO: El Estado de Zacatecas.
+En cuanto a los tribunales colegiados con sede en Aguascalientes, su jurisdicción territorial será el Estado del mismo nombre.
+
+La jurisdicción territorial del tribunal unitario comprenderá los Estados de Aguascalientes y Zacatecas.
 
 XXIV.- VIGESIMO CUARTO CIRCUITO: Estado de Nayarit.
 
@@ -526,14 +456,6 @@ XXVII.- VIGESIMO SEPTIMO CIRCUITO: Estado de Quintana Roo.
 XXVIII.- VIGESIMO OCTAVO CIRCUITO: Estado de Tlaxcala.
 
 XXIX.- VIGESIMO NOVENO CIRCUITO: Estado de Hidalgo.
-
-> <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)</small>
-
-XXX.- TRIGESIMO CIRCUITO: Estado de Aguascalientes.
-
-> <small>(ADICIONADA POR EL PUNTO SEXTO DEL ACUERDO GENERAL 4/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE FEBRERO DE 2009)</small>
-
-XXXI.- TRIGESIMO PRIMER CIRCUITO: Estado de Campeche.
 
 CUARTO.- La jurisdicción territorial de los juzgados de Distrito es la siguiente:
 
@@ -569,11 +491,9 @@ Los juzgados de Distrito en el Estado de Sonora, con residencia en Ciudad Obreg�
 
 El juzgado de Distrito en el Estado de Sonora, con residencia en Agua Prieta, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de Agua Prieta, Arizpe, Bacerac, Bacoachi, Bavispe, Cananea, Cumpas, Fronteras, Huachinera, Naco, Nacozari de García y Villa Hidalgo.
 
-> <small>(REFORMADA POR EL PUNTO SEXTO DEL ACUERDO GENERAL 11/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MARZO DE 2007)</small>
-
 VI.- SEXTO CIRCUITO:
 
-Los Juzgados de Distrito en el Estado de Puebla, con residencia en San Andrés Cholula, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+Los juzgados de Distrito en el Estado de Puebla, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
 VII.- SEPTIMO CIRCUITO:
 
@@ -633,7 +553,7 @@ XIV.- DECIMOCUARTO CIRCUITO:
 
 Los juzgados de Distrito en el Estado de Yucatán, con residencia en Mérida, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
-> <small>(DEROGADO SEGUNDO PARRAFO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 4/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE FEBRERO DE 2009)</small>
+Los juzgados de Distrito en el Estado de Campeche, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
 XV.- DECIMOQUINTO CIRCUITO:
 
@@ -695,7 +615,7 @@ XXIII.- VIGESIMO TERCER CIRCUITO:
 
 Los juzgados de Distrito en el Estado de Zacatecas, uno con residencia en la ciudad del mismo nombre y otro con sede en Guadalupe, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
-> <small>(DEROGADO SEGUNDO PARRAFO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)</small>
+Los juzgados de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
 XXIV.- VIGESIMO CUARTO CIRCUITO:
 
@@ -713,9 +633,7 @@ XXVII.- VIGESIMO SEPTIMO CIRCUITO:
 
 El juzgado de Distrito en el Estado de Quintana Roo, con residencia en Chetumal, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Felipe Carrillo Puerto, José María Morelos y Othón P. Blanco.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO] POR EL PUNTO UNICO DEL ACUERDO NUMERO 15/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE MAYO DE 2009)</small>
-
-Los juzgados de Distrito en el Estado de Quintana Roo, con residencia en Cancún, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Benito Juárez, Cozumel, Isla Mujeres, Lázaro Cárdenas, Solidaridad y Tulum.
+Los juzgados de Distrito en el Estado de Quintana Roo, con residencia en Cancún, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Benito Juárez, Cozumel, Isla Mujeres, Lázaro Cárdenas y Solidaridad.
 
 XXVIII.- VIGESIMO OCTAVO CIRCUITO:
 
@@ -725,49 +643,9 @@ XXIX.- VIGESIMO NOVENO CIRCUITO:
 
 Los juzgados de Distrito en el Estado de Hidalgo, con residencia en Pachuca, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
-> <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)</small>
+QUINTO.- El Pleno y la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, en el ámbito de sus respectivas competencias, interpretarán y resolverán cualquier cuestión administrativa que pudiera suscitarse con motivo de la aplicación del presente acuerdo.
 
-XXX.- TRIGESIMO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
-
-> <small>(REFORMADA POR EL PUNTO SEXTO DEL ACUERDO GENERAL 4/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE FEBRERO DE 2009)</small>
-
-XXXI.- TRIGESIMO PRIMER CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Campeche, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
-
-> <small>(ADICIONADA POR EL PUNTO SEXTO DEL ACUERDO GENERAL 4/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE FEBRERO DE 2009)</small>
-
-XXXII.- Los Jueces de Distrito en Materia de Procesos Penales Federales del Primero y Segundo Circuito, los Penales del Tercer Circuito y los Mixtos, así como los de Procesos Penales Federales que en lo futuro se lleguen a crear en aquellos lugares donde exista un centro federal de readaptación social de máxima seguridad, ejercerán jurisdicción en toda la República para conocer de aquellos asuntos que se encuentren en la hipótesis del artículo 10, párrafo tercero, del Código Federal de Procedimientos Penales.
-
-> <small>(REFORMADO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 52/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE OCTUBRE DE 2008)</small>
-
-QUINTO.- Se contará con:
-
-1. El Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla, el cual se integrará por nueve juzgados de Distrito Auxiliares y cuatro tribunales colegiados Auxiliares.
-
-2. El Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato, el cual se integrará por tres juzgados de Distrito Auxiliares, cinco tribunales unitarios Auxiliares y dos tribunales colegiados Auxiliares.
-
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 56/2008 DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE OCTUBRE DE 2008)</small>
-
-3. El Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, el cual se integrará por cinco juzgados de Distrito Auxiliares, un tribunal unitario Auxiliar y dos tribunales colegiados Auxiliares.
-
-4. El Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, el cual se integrará por siete juzgados de Distrito Auxiliares, dos tribunales unitarios Auxiliares y dos tribunales colegiados Auxiliares.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 53/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE OCTUBRE DE 2008)</small>
-
-5. El Centro Auxiliar de la Sexta Región, con residencia en Chihuahua, Chihuahua, el cual se integrará por un juzgado de Distrito Auxiliar, un tribunal unitario Auxiliar y un tribunal colegiado Auxiliar.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 54/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE OCTUBRE DE 2008)</small>
-
-6. El Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, el cual se integrará por tres juzgados de Distrito Auxiliares, un tribunal unitario Auxiliar y un tribunal colegiado Auxiliar.
-
-Dichos órganos jurisdiccionales tendrán jurisdicción en toda la República Mexicana y su competencia será mixta.
-
-SEXTO.- El Pleno y la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, en el ámbito de sus respectivas competencias, interpretarán y resolverán cualquier cuestión administrativa que pudiera suscitarse con motivo de la aplicación del presente acuerdo.
-
-SEPTIMO.- Los asuntos que como consecuencia de la entrada en vigor de este acuerdo queden comprendidos por su procedencia dentro de la jurisdicción territorial de un tribunal de Circuito o juzgado de Distrito diferente del que se encuentre conociendo de los mismos, continuarán en estos últimos hasta su conclusión.
+SEXTO.- Los asuntos que como consecuencia de la entrada en vigor de este acuerdo queden comprendidos por su procedencia dentro de la jurisdicción territorial de un tribunal de Circuito o juzgado de Distrito diferente del que se encuentre conociendo de los mismos, continuarán en estos últimos hasta su conclusión.
 
 ## TRANSITORIOS
 
@@ -865,232 +743,10 @@ SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación
 
 TERCERO.- Se faculta a la Comisión de Creación de Nuevos Órganos para emitir acuerdos relativos a la exclusión de turno de nuevos asuntos a los juzgados de Distrito en el Estado de México, con sede en Naucalpan de Juárez, con motivo del inicio de funciones del Juzgado Decimoprimero de Distrito en el Estado de México, con residencia en Naucalpan de Juárez.
 
-D.O.F. 24 DE NOVIEMBRE DE 2006.
-
-PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-TERCERO.- Se faculta a la Comisión de Creación de Nuevos Organos para emitir acuerdos relativos a la exclusión de turno de nuevos asuntos a los tribunales colegiados del Vigésimo Séptimo Circuito, con motivo del inicio de funciones del nuevo órgano jurisdiccional.
-
-D.O.F. 30 DE NOVIEMBRE DE 2006.
-
-PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 9 DE MARZO DE 2007.
-
-PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 23 DE MARZO DE 2007.
-
-PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 15 DE MAYO DE 2007.
-
-ACUERDO 14/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
-
-PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 15 DE MAYO DE 2007.
-
-ACUERDO 15/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
-
-PRIMERO.- Este Acuerdo General entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-TERCERO.- Queda sin efecto la medida ordenada en el Acuerdo CCNO/13/2002, publicado en el Diario Oficial de la Federación el veintiséis de marzo de dos mil dos, y todas aquellas disposiciones dictadas con anterioridad, en lo que se opongan a éste Acuerdo.
-
-D.O.F. 12 DE NOVIEMBRE DE 2007.
-
-PRIMERO.- Este acuerdo entrará en vigor el día el (sic) de su aprobación.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 28 DE NOVIEMBRE DE 2007.
-
-PRIMERO.- Este acuerdo entrará en vigor el día uno de diciembre de dos mil siete.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 14 DE FEBRERO DE 2008.
-
-ACUERDO 4/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, APARTADO IX, NUMERO 3.
-
-PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- La Dirección General de Estadística y Planeación Judicial determinará, en el ámbito de su competencia, lo relativo al funcionamiento de la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre.
-
-TERCERO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 14 DE FEBRERO DE 2008.
-
-ACUERDO 5/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO XX, NUMERO 3
-
-PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- La Dirección General de Estadística y Planeación Judicial determinará, en el ámbito de su competencia, lo relativo al funcionamiento de la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Chiapas, con residencia en Tuxtla Gutiérrez.
-
-TERCERO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 14 DE ABRIL DE 2008.
-
-PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 21 DE ABRIL DE 2008.
-
-PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO. La Dirección General de Estadística y Planeación Judicial determinará, en el ámbito de su competencia, lo relativo al funcionamiento de la Oficina de Correspondencia Común de los Tribunales Unitarios del Sexto Circuito, con residencia en San Andrés Cholula, Puebla.
-
-TERCERO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 30 DE ABRIL DE 2008.
-
-PRIMERO. El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de la reforma, al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
-
-D.O.F. 11 DE JUNIO DE 2008.
-
-PRIMERO. El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 27 DE JUNIO DE 2008.
-
-PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 4 DE AGOSTO DE 2008.
-
-ACUERDO GENERAL 34/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, APARTADO XV, NUMERO 1.
-
-PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 4 DE AGOSTO DE 2008.
-
-ACUERDO GENERAL 35/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, APARTADO XVI, NUMERO 3.
-
-PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-TERCERO. Se faculta a la Comisión de Creación de Nuevos Organos para emitir acuerdos relativos a la exclusión de turno de nuevos asuntos a los juzgados de Distrito en el Estado de Guanajuato, con sede en Celaya, con motivo del inicio de funciones del Juzgado Octavo de Distrito en el Estado de Guanajuato, con residencia en Celaya.
-
-D.O.F. 5 DE AGOSTO DE 2008.
-
-PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-TERCERO. Se faculta a la Comisión de Creación de Nuevos Organos para emitir acuerdos relativos a la exclusión de turno de nuevos asuntos a los juzgados de Distrito en el Estado de México, con sede en Nezahualcóyotl, con motivo del inicio de funciones del Juzgado Decimosegundo de Distrito en el Estado de México, con residencia en Nezahualcóyotl.
-
-D.O.F. 15 DE AGOSTO DE 2008.
-
-PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO. La Dirección General de Estadística y Planeación Judicial determinará, en el ámbito de su competencia, lo relativo al funcionamiento de la Oficina de Correspondencia Común de los Tribunales Unitarios del Decimosexto Circuito, con residencia en Guanajuato, Guanajuato.
-
-TERCERO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 5 DE SEPTIEMBRE DE 2008.
-
-PRIMERO.- Este acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en la página de internet del Consejo de la Judicatura Federal.
-
-> <small>(F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 2008)</small>
-
-TERCERO.- Las cuestiones de competencia, suscitadas entre juzgados de distrito que se estén tramitando en los Tribunales Colegiados de Circuito en los que se trate de determinar a cuál órgano corresponde el conocimiento de una causa relacionada con lo previsto en la fracción XXXI que se adiciona al acuerdo general 57/2006 del Pleno del Consejo de la Judicatura Federal, se resolverán en los términos de este acuerdo.
-
-CUARTO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de la reforma, al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
-
-D.O.F. 3 DE OCTUBRE DE 2008.
-
-ACUERDO GENERAL 52/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO QUINTO.
-
-PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 3 DE OCTUBRE DE 2008.
-
-ACUERDO GENERAL 53/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL PUNTO QUINTO.
-
-PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 10 DE OCTUBRE DE 2008.
-
-ACUERDO GENERAL 54/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO QUINTO.
-
-PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 10 DE OCTUBRE DE 2008.
-
-ACUERDO GENERAL 56/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO QUINTO.
-
-PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 27/2008, del Pleno del Consejo de la Judicatura Federal, por el que se Crea el Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, así como los Organos Jurisdiccionales que lo Integrarán.
-
-D.O.F. 13 DE NOVIEMBRE DE 2008.
-
-PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 15 DE DICIEMBRE DE 2008.
-
-PRIMERO.- El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en la página de Internet del Consejo de la Judicatura Federal.
-
-TERCERO.- Las cuestiones de competencia, suscitadas entre juzgados de Distrito que se estén tramitando en los tribunales colegiados de Circuito en los que se trate de determinar a cuál órgano corresponde el conocimiento de una causa relacionada con lo previsto en la fracción XXXI que se adiciona al Acuerdo General 57/2006 del Pleno del Consejo de la Judicatura Federal, se resolverán en los términos de este acuerdo.
-
-CUARTO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar, de inmediato, el texto de la reforma, al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
-
-D.O.F. 13 DE FEBRERO DE 2009.
-
-PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, el texto de esta reforma al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
-
-D.O.F. 30 DE MARZO DE 2009.
+D.O.F. 28 DE MAYO DE 2009.
 
 PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, la reforma realizada al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
-
-D.O.F. 15 DE MAYO DE 2009.
-
-PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, el texto de esta reforma, al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
