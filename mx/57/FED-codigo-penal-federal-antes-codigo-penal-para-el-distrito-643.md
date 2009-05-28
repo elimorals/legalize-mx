@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2009-01-23"
+last_updated: "2009-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE MAYO DE 2009.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -2913,11 +2913,19 @@ II.- Toda persona que solicite o promueva la realización, el otorgamiento o la 
 
 III.- El servidor público que teniendo a su cargo fondos públicos, les dé a sabiendas, una aplicación pública distinta de aquella a que estuvieren destinados o hiciere un pago ilegal.
 
-Al que cometa el delito de uso indebido de atribuciones y facultades se le impondrán las siguientes sanciones:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Cuando el monto a que asciendan las operaciones a que hace referencia este Artículo no exceda del equivalente de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, se impondrán de tres meses a dos años de prisión, multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y destitución e inhabilitación de tres meses a dos años para desempeñar otro empleo, cargo o comisión públicos.
+> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 2009)</small>
 
-Cuando el monto a que asciendan las operaciones a que hace referencia este Artículo, exceda del equivalente a quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, se impondrán de dos años a doce años de prisión, multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y destitución e inhabilitación de dos años a doce años para desempeñar otro empleo, cargo o comisión públicos.
+Al que cometa el delito a que se refiere el presente artículo, se le impondrán de seis meses a doce años de prisión, de cien a trescientos días multa, y destitución e inhabilitación de seis meses a doce años para desempeñar otro empleo, cargo o comisión públicos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO TERCER PARRAFO, D.O.F. 28 DE MAYO DE 2009)</small>
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 28 DE MAYO DE 2009)</small>
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
@@ -6384,3 +6392,13 @@ SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ...
+
+D.O.F. 28 DE MAYO DE 2009.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+PRIMERO. El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Diario Oficial de la Federación, salvo las disposiciones que para su aplicación requieran de las modificaciones al sistema electrónico CompraNet a que se refiere el artículo Décimo transitorio del presente Decreto.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
+
+.
