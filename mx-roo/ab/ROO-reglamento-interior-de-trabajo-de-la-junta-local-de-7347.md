@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-trabajo-de-la-junta-local-de-7347"
 country: "mx"
 rank: "reglamento"
 publication_date: "1979-06-15"
-last_updated: "1979-06-15"
+last_updated: "2009-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7347&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "ROO"
 ---
 # REGLAMENTO INTERIOR DE TRABAJO DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-REGLAMENTO INTERIOR DE TRABAJO DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
+REGLAMENTO INTERIOR DE TRABAJO DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 2009.
 
-Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 15 de junio de 1979.
-
-JUNTA LOCAL DE CONCILIACION Y ARBITRAJE
+Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 15 de junio de 2979.
 
 Reglamento Interior de Trabajo de la Junta Local de Conciliación y Arbitraje Del Estado Libre y Soberano de Quintana Roo.
 
@@ -71,7 +69,9 @@ La Junta Local de Conciliación y Arbitraje funcionará en Pleno en Juntas espec
 
 La Junta Local de Conciliación y Arbitraje del Estado, funcionará en Pleno ó en Juntas Especiales de conformidad con la clasificación de las ramas de la Industria y de las actividades que se les asigne.
 
-La Dirección del Trabajo y Previsión Social del Estado previo acuerdo del C. Gobernador del Estado, cuando lo requieran las necesidades del Trabajo y del Capital, podrá establece Juntas Especiales, fijándose el lugar de su residencia y su competencia territorial.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2009)</small>
+
+La Secretaría del Trabajo y Previsión Social del Estado previo acuerdo del C. Gobernador del Estado, cuando lo requieran las necesidades del Trabajo y del Capital, podrá establece Juntas Especiales, fijándose el lugar de su residencia y su competencia territorial.
 
 Las Juntas Especiales establecidas fuera de la Capital del Estado, conforme al párrafo anterior quedarán integradas en su funcionamiento y régimen jurídico a la Junta Local de Conciliación y Arbitraje del Estado, correspondiéndoles el conocimiento y resolución de los conflictos de trabajo en todas las ramas de la Industria y actividades de la competencia local, comprendidas en la jurisdicción territorial que se les asigne, con excepción de los conflictos colectivos, sin perjuicio del derecho del trabajador, cuando así convenga a sus intereses, de concurrir directamente a la Junta Local de Conciliación y Arbitraje del Estado.
 
@@ -87,9 +87,11 @@ Son partes integrantes de la Junta local de Conciliación y Arbitraje del Estado
 
 De los Funcionarios de la Junta.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 8o.
 
-Para los efectos de este Capítulo, se entienden por Funcionarios de la Junta: El Presidente, El Auxiliar, los Representantes Obreros y Patronales, El Secretario General, El Actuario, Los Presidentes, Los Auxiliares, Los Secretarios y Los Actuarios de las Juntas Especiales y del las Juntas Permanentes de Conciliación, El Jefe de la Sección de Amparos, El Jefe de la Sección de Actuaría.
+Para los efectos de este Capítulo, se entienden por Funcionarios de la Junta: el Presidente, el Auxiliar, los Representantes Obreros y Patronales, los Secretarios Generales, los Actuarios, los Presidentes, los Auxiliares, los Secretarios y los Actuarios de las Juntas Especiales y de las Juntas Permanentes de Conciliación y las secciones administrativas.
 
 ###### ARTICULO 9o.
 
@@ -129,9 +131,11 @@ Las promociones iniciales serán recibidas por el Secretario de la Oficialía de
 
 Si las promociones se refieren a reclamaciones en trámite, se turnarán por la Oficialía de Partes a la Junta Especial que conozca del negocio.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 14o.
 
-Las promociones iniciales también se podrán presentar directamente ante las Juntas Especiales. Las promociones que se presenten fuera de las horas de oficina se recibirán por el Secretario General de la Junta en su domicilio.
+Las promociones que se presenten fuera de las horas de oficina (oficialía de partes), se recibirán por el Secretario General de la Junta, (de acuerdo al turno asignado por el presidente), en su domicilio, pero únicamente cuando se trate de los escritos, promociones, demandas, amparos y demás promociones cuyo término fenezca precisamente en ese día; o cuando se trate de contestaciones de pliegos petitorios, solicitudes de inexistencia de huelga o cualquier otra promoción relacionada con los conflictos de huelga, pudiendo estos últimos incluso ser presentados en días inhábiles para la Junta local. Salvo las excepciones antes descritas, todos los demás documentos, deberán ser presentados en la oficialía de partes en horas hábiles. El secretario que reciba hará constar la hora y fecha de su presentación en las promociones y/o documentos recibidos en estas circunstancias debiendo pasarlos a la Oficialía de Partes al siguiente día hábil, previo aviso al Presidente, para que sean turnados a quien corresponda conocer de los mismos.
 
 ###### ARTICULO 15o.
 
@@ -297,15 +301,19 @@ II.- Presidir el Pleno.
 
 III.- Presidir las Juntas Especiales, en los casos que señala la Ley Federal del Trabajo.
 
-IV.- Rendir los informes de los Amparos que se interpongan en contra de las resoluciones dictadas por el Pleno y en los casos en que resulte como Autoridad responsable,
+IV.- Rendir los informes de los Amparos que se interpongan en contra de las resoluciones dictadas por el Pleno y en los casos en que resulte como Autoridad responsable.
 
-V.- Rendir al Gobernador del Estado, informe mensual y anual de las actividades desarrolladas por la Junta, con copia al Director del Trabajo y Previsión Social del Estado;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2009)</small>
+
+V.- Rendir al Gobernador del Estado, informe mensual y anual de las actividades desarrolladas por la Junta, con copia al Secretario del Trabajo y Previsión Social del Estado.
 
 VI.- Elaborar el programa anual de trabajo de la Junta.
 
 VII.- Presentar al Gobernador del Estado el Programa anual de trabajo de las Juntas Especiales de Conciliación y Arbitraje y el de las Juntas Permanentes de Conciliación.
 
-VIII.- Nombrar substituto provisional del Secretario General y demás empleados administrativos, en los casos de ausencia, entre tanto se hacen nuevos nombramientos.
+> <small>(REFORMADA, P.O. 28 DE E MAYO DE 2009)</small>
+
+VIII.- Designar substituto provisional de los Secretarios Generales, Presidentes de Juntas Especiales y demás personal jurídico y administrativo de las Juntas en casos de ausencia, en tanto se hacen nuevos nombramientos.
 
 IX.- Señalar la adscripción de los Secretarios y demás personal de la Junta para su mejor funcionamiento.
 
@@ -315,13 +323,37 @@ XI.- Asistirse del Secretario General de la Junta en los casos previstos por la 
 
 XII.- Designar el personal Jurídico y administrativo necesario para cubrir la guardia en los períodos de vacaciones.
 
-XIII.- Presentar a la consideración del Ejecutivo del Estado y del Director del Trabajo y Previsión Social del Estado, las sugerencias tendientes al mejoramiento de la impartición de la justicia laboral.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2009)</small>
+
+XIII.- Presentar a la consideración del Ejecutivo del Estado y del Secretario del Trabajo y Previsión Social del Estado, las sugerencias tendientes al mejoramiento de la impartición de la justicia laboral.
 
 XIV.- Pasar revista mensualmente o cuando lo considere necesario a las Juntas Especiales y a las permanente de Conciliación, para inspeccionar la tramitación de los expedientes y corregir las irregularidadse (sic) que encuentre, dando las instrucciones necesarias y en general para que se observe el correcto funcionamiento de las Juntas.
 
 En caso de no poder visitarlas personalmente, podrá comisionar al Secretario General de la Junta Local para que lo haga.
 
-XV.- Las demás contenidas en la Ley Federal del Trabajo, en el presente Reglamento o que le confiera el Pleno de la Junta Local.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2009)</small>
+
+XV.- Nombrar a los Secretarios Generales de la Junta.
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2009)</small>
+
+XVI.- Requerir como superior jerárquico, al personal jurídico de la Junta, el cumplimiento inmediato de las resoluciones y requerimientos del Poder Judicial de la Federación.
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2009)</small>
+
+XVII.- Conocer, tramitar y resolver los procedimientos derivados de las quejas que ante la Junta local sean interpuestas, en contra del personal jurídico y Administrativo de la Junta. Sin perjuicio de las quejas que ante otras autoridades pudieran ser presentadas, como en el caso de la Contraloría Del Estado.
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2009)</small>
+
+XVIII.- Presidir y coordinar las sesiones de trabajo con los Presidentes de las Juntas Especiales y los Titulares de las áreas jurídicas, con el fin de homogeneizar la tramitación de los procedimientos.
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2009)</small>
+
+XIX.- Proponer al Ejecutivo del Estado atreves (sic) del Secretario del Trabajo, la creación de las áreas que estime convenientes, así como al personal que se requiera para el mejor funcionamiento de la misma.
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2009)</small>
+
+XX.- Las demás contenidas en la Ley Federal del Trabajo, en el presente Reglamento o que le confiera el Pleno de la Junta Local.
 
 ###### ARTICULO 50o.
 
@@ -361,13 +393,17 @@ IV.- Dar aviso oportunamente al presidente de la Junta Local de Conciliación y 
 
 V.- Expresar sus puntos de vista en los cambios de adscripción que se pretendan efectuar en el personal jurídico y administrativo de la Junta Especial que integran.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE MAYO DE 2009)</small>
+
 ### CAPITULO OCTAVO.
 
-De la Secretaría General de la Junta Local de Conciliación y Arbitraje.
+De los Secretarios Generales de la Junta Local de Conciliación y Arbitraje.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 56o.
 
-La Secretaría General es el órgano jurídico administrativo de la Junta Local.
+La Secretaría General es el órgano jurídico administrativo de la Junta Local; para su mejor funcionamientos (sic) la Junta Local contará con tres secretarías generales; Secretario A, asuntos individuales; secretario B, asuntos, colectivos; y Secretario C, sección de amparos. Los Secretarios Generales serán nombrados por el Presidente de la Junta de acuerdo a lo que establece el artículo 49 fracción XV del presente Reglamento; contarán con el personal jurídico y administrativo necesario y suficiente para la eficaz tramitación de los asuntos de su competencia.
 
 ###### ARTICULO 57o.
 
@@ -415,7 +451,9 @@ XX.- Hacer la recopilación de datos con los informes rendidos por las Juntas Es
 
 XXI.- Recibir y dar trámite a los Pliegos de Peticiones con emplazamientos a Huelga que se presenten; formar los expedientes relativos y turnarlos a la Junta Especial competente, previo emplazamiento;
 
-XXII.- Recibir en su domicilio particular los escritos, promociones, demandas, amparos, contestaciones de pliegos petitorios, solicitudes de inexistencia de huelga y en general los documentos que sean presentados fuera del horario administrativo en días inhábiles, tratándose de conflictos de huelga, haciendo constar al pié de los mismos la hora y fecha de su presentación, debiendo pasarlos a la Oficialía de Partes al siguiente día hábil, para que sean turnados a la Junta Especial a que corresponda conocer de los mismos;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2009)</small>
+
+XXII.- Recibir en su domicilio particular los escritos, promociones, demandas, amparos y demás promociones cuyo término fenezca precisamente en ese día; en caso de no ser así, estas deberán ser presentadas en la oficialía de partes en horas hábiles. Deberá de recibir también en su domicilio, las contestaciones de pliegos petitorios, solicitudes de inexistencia de huelga y en general los documentos que sean presentados fuera del horario administrativo, incluso en días inhábiles, tratándose de conflictos de huelga, haciendo constar al pié de los mismos la hora y fecha de su presentación, debiendo pasarlos invariablemente a la Oficialía de Partes, al siguiente día hábil, (previo aviso al Presidente de la Junta), para que sean turnados a quien corresponda conocer de los miembros, los turnos para recibir la documentación antes referida, serán designados por el Presidente;
 
 XXIII.- Oportunamente y en los años que correspondan, se avocará a la preparación y organización de las convenciones en que serán designados los Representantes Obreros y Patronales de la Junta, de conformidad con los artículos 648 y 664 inclusive de la Ley Federal del Trabajo;
 
@@ -532,6 +570,10 @@ XX.- Las demás contenidas en el presente Reglamento o que le confiera el Presid
 ###### ARTICULO 68o.
 
 En los casos de extravío de un expediente, el Presidente de la Junta Especial tiene la obligación de levantar inmediatamente el acta informativa al Presidente de la Junta Local para los efectos legales correspondientes.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2009)</small>
+
+ARTICULO 68o BIS.- Los Presidentes de las Juntas Especiales serán sustituidos provisionalmente en sus faltas temporales y definitivas por el Auxiliar o Secretario General que designe el Presidente de la Junta Local, en tanto se emite el nombramiento definitivo por el Titular del Ejecutivo del Gobierno del Estado de Quintana Roo.
 
 ### CAPITULO UNDECIMO.
 
@@ -1068,3 +1110,7 @@ LIC. JESUS MARTÍNEZ ROSS.-Rúbrica.
 EL SECRETARIO DE GOBIERNO EN EL ESTADO DE QUINTANA ROO.
 
 LIC. JOSE N. IRABIEN MEDINA.-Rúbrica.
+
+P.O. 28 DE MAYO DE 2009.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE QUINTANA ROO.
