@@ -4,7 +4,7 @@ identifier: "FED-ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-9"
 country: "mx"
 rank: "ley"
 publication_date: "1936-01-10"
-last_updated: "2009-04-17"
+last_updated: "2009-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-12-30"
 
 LEY DE AMPARO, REGLAMENTARIA DE LOS ARTICULOS 103 Y 107 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE MAYO DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 10 de enero de 1936.
 
@@ -1407,6 +1407,12 @@ III.- Contra actos de tribunales judiciales, administrativos o del trabajo ejecu
 
 Si se trata de actos de ejecución de sentencia, sólo podrá promoverse el amparo contra la última resolución dictada en el procedimiento respectivo, pudiendo reclamarse en la misma demanda las demás violaciones cometidas durante ese procedimiento, que hubieren dejado sin defensa al quejoso.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 29 DE MAYO DE 2009)</small>
+
+Lo anterior será aplicable en materia de extinción de dominio.
+
 Tratándose de remates, sólo podrá promoverse el juicio contra la resolución definitiva en que se aprueben o desaprueben;
 
 IV.- Contra actos en el juicio que tengan sobre las personas o las cosas una ejecución que sea de imposible reparación;
@@ -1525,9 +1531,15 @@ d) Se impida la ejecución de medidas para combatir epidemias de carácter grave
 
 e) Se permita el incumplimiento de las órdenes militares;
 
-f) Se produzca daño al medio ambiente, al equilibrio ecológico o que por ese motivo afecte la salud de las personas, y
+f) Se produzca daño al medio ambiente, al equilibrio ecológico o que por ese motivo afecte la salud de las personas, y (sic)
 
-g) Se permita el ingreso en el país de mercancías cuya introducción esté prohibida en términos de Ley o bien se encuentre en alguno de lo (sic) supuestos previstos en el artículo 131 párrafo segundo de la Constitución Política de los Estados Unidos Mexicanos; se incumplan con las normas relativas a regulaciones y restricciones no arancelarias a la exportación o importación, salvo el caso de las cuotas compensatorias, las cuales se apegarán a lo regulado en el artículo 135 de esta Ley; se incumplan con las Normas Oficiales Mexicanas; se afecte la producción nacional.
+g) Se permita el ingreso en el país de mercancías cuya introducción esté prohibida en términos de Ley o bien se encuentre en alguno de lo (sic) supuestos previstos en el artículo 131 párrafo segundo de la Constitución Política de los Estados Unidos Mexicanos; se incumplan con las normas relativas a regulaciones y restricciones no arancelarias a la exportación o importación, salvo el caso de las cuotas compensatorias, las cuales se apegarán a lo regulado en el artículo 135 de esta Ley; se incumplan con las Normas Oficiales Mexicanas; se afecte la producción nacional;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 2009)</small>
+
+h) Se impida la continuación del procedimiento de extinción de dominio en cualquiera de sus fases, previsto en el párrafo segundo del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, salvo en el caso que el quejoso sea ajeno al procedimiento, situación en la que procederá la suspensión, sólo sí con la continuación del mismo se dejare irreparablemente consumado el daño o perjuicio que pueda ocasionarse al quejoso.
 
 III.- Que sean de difícil reparación los daños y perjuicios que se causen al agraviado con la ejecución del acto.
 
@@ -1869,9 +1881,15 @@ IX.- Cuando se le desechen los recursos a que tuviere derecho con arreglo a la l
 
 X.- Cuando el tribunal judicial, administrativo o del trabajo, continúe el procedimiento después de haberse promovido una competencia, o cuando el juez, magistrado o miembro de un tribunal del trabajo impedido o recusado, continúe conociendo del juicio, salvo los casos en que la ley lo faculte expresamente para proceder;
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 29 DE MAYO DE 2009)</small>
+
+XI.- En tratándose del procedimiento de extinción de dominio, todas aquellas violaciones cometidas en el mismo, salvo que se trate de violaciones directas a la Constitución o de actos de imposible reparación, y
+
 > <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1968)</small>
 
-XI.- En los demás casos análogos a los de las fracciones que preceden, a juicio de la Suprema Corte de Justicia o de los Tribunales Colegiados de Circuito, según corresponda.
+XII.- En los demás casos análogos a los de las fracciones que preceden, a juicio de la Suprema Corte de Justicia o de los Tribunales Colegiados de Circuito, según corresponda.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
@@ -2299,9 +2317,9 @@ La resolución que se dicte no afectará las situaciones jurídicas concretas de
 
 El Pleno de la Suprema Corte deberá dictar la resolución correspondiente dentro del término de tres meses, y deberá ordenar su publicación y remisión en los términos previstos por el artículo 195.
 
-> <small>(F. DE E., D.O.F. 22 DE FEBRERO DE 1988)</small>
+> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2009)</small>
 
-Las Salas de la Suprema Corte de Justicia y los ministros que las integren y los Tribunales Colegiados de Circuito y los magistrados que los integren, con motivo de un caso concreto podrán pedir al Pleno de la Suprema Corte o a la sala correspondiente que modifique la jurisprudencia que tuviesen establecida, expresando las razones que justifiquen la modificación; el Procurador General de la República, por sí o por conducto del agente que al efecto designe, podrá, si lo estima pertinente, exponer su parecer dentro del plazo de treinta días. El Pleno o la Sala correspondiente resolverán si modifican la jurisprudencia, sin que su resolución afecte las situaciones jurídicas concretas derivadas de los juicios en las cuales se hubiesen dictado las sentencias que integraron la tesis jurisprudencial modificada. Esta resolución deberá ordenar su publicación y remisión en los términos previstos por el artículo 195.
+Las salas de la Suprema Corte de Justicia y los ministros que las integren, los Tribunales Colegiados de Circuito y los magistrados que los integren, y el Procurador General de la República, con motivo de un caso concreto podrán pedir al Pleno de la Suprema Corte o a la sala correspondiente que modifique la jurisprudencia que tuviesen establecida, expresando las razones que justifiquen la modificación; el Procurador General de la República, por sí o por conducto del agente que al efecto designe, podrá, si lo estima pertinente, exponer su parecer dentro del plazo de treinta días. El Pleno o la Sala correspondiente resolverán si modifican la jurisprudencia, sin que su resolución afecte las situaciones jurídicas concretas derivadas de los juicios en las cuales se hubiesen dictado las sentencias que integraron la tesis jurisprudencial modificada. Esta resolución deberá ordenar su publicación y remisión en los términos previstos por el artículo 195.
 
 (ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
@@ -2954,3 +2972,23 @@ D.O.F. 18 DE MARZO DE 2009.
 D.O.F. 17 DE ABRIL DE 2009.
 
 Único.- El presente Decreto entrará en vigor a los noventa días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE MAYO DE 2009.
+
+DECRETO POR EL QUE SE REFORMA EL PARRAFO CUARTO DEL ARTICULO 197 DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTICULOS 103 Y 107 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMA QUE SE RELACIONA CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+...
+
+D.O.F. 29 DE MAYO DE 2009.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 114, 124 Y 159 DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTICULOS 103 Y 107 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.
+
+PRIMERO.- El presente Decreto entrará en vigor noventa días naturales posteriores a su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- En tanto se expida el Reglamento de la Ley Federal de Extinción de Dominio, Reglamentaria del Artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, la administración y destino de los recursos del Fondo que se constituya con la enajenación de los bienes a que se refiere el artículo 61 de la propia Ley, serán administrados por el Servicio de Administración y Enajenación de Bienes.
+
+TERCERO.- El Consejo de la Judicatura Federal contará con un plazo que no podrá exceder de un año, contado a partir de la publicación del presente Decreto, para crear los juzgados especializados en extinción de dominio a que se refiere el artículo 10 del mismo. En tanto, serán competentes los jueces de distrito en materia civil y que no tengan jurisdicción especial, de conformidad con los acuerdos que para tal efecto determine el Consejo de la Judicatura Federal.
