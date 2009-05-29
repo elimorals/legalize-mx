@@ -4,7 +4,7 @@ identifier: "FED-ley-de-fiscalizacion-superior-de-la-federacion-18419"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-29"
-last_updated: "2008-06-20"
+last_updated: "2009-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18419&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2000-12-27"
 
 LEY DE FISCALIZACION SUPERIOR DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JUNIO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE FISCALIZACION Y RENDICION DE CUENTAS DE LA FEDERACION, PUBLICADA EN EL D.O.F. DE 29 DE MAYO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 29 de diciembre de 2000.
 
@@ -910,3 +912,23 @@ D.O.F. 30 DE AGOSTO DE 2007.
 D.O.F. 20 DE JUNIO DE 2008.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE MAYO DE 2009.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, y se aplicará lo dispuesto en los artículos transitorios siguientes.
+
+Segundo.- A partir de la entrada en vigor de esta Ley, se abroga la Ley de Fiscalización Superior de la Federación publicada en el Diario Oficial de la Federación el día veintinueve de diciembre del año dos mil, con sus reformas y adiciones, sin perjuicio de que los asuntos que se encuentren en trámite o en proceso en la Auditoría Superior de la Federación al entrar en vigor la Ley materia del presente Decreto, se seguirán tramitando hasta su conclusión en términos de la referida Ley de Fiscalización Superior de la Federación.
+
+Tercero.- Las fechas aplicables para la presentación de la Cuenta Pública y el Informe del Resultado, entrarán en vigor a partir de la Cuenta Pública correspondiente al ejercicio fiscal 2008.
+
+Cuarto.- La Auditoría Superior de la Federación deberá actualizar y, en su caso, publicar la normatividad que conforme a sus atribuciones deba expedir en un plazo no mayor a 180 días contados a partir de la publicación del presente Decreto.
+
+Quinto.- Las disposiciones jurídicas que contravengan o se opongan a la presente reforma quedan derogadas.
+
+Sexto.- La Auditoría Superior de la Federación y la Unidad deberán actualizar sus reglamentos interiores conforme a lo previsto en esta Ley en un plazo no mayor a 90 días contados a partir de la publicación del presente Decreto.
+
+Séptimo.- Las referencias que se hagan en otras leyes y disposiciones administrativas a la Ley de Fiscalización Superior de la Federación, se tendrán por realizadas a la Ley que se expide mediante el presente Decreto.
+
+Octavo.- Para efectos del ejercicio fiscal 2009, el segundo informe trimestral a que se refiere el artículo 7 de esta ley, será elaborado con base en la información disponible a la fecha de cierre de dicho informe, pudiéndose incluir el gasto devengado de forma preliminar.
+
+Noveno.- Los convenios de colaboración que se hubieren celebrado con anterioridad a la entrada en vigor de este decreto, por la Auditoría Superior de la Federación con las entidades fiscalizadas y demás personas físicas o morales y privadas, nacionales y extranjeras, conservarán su valor y eficacia.
