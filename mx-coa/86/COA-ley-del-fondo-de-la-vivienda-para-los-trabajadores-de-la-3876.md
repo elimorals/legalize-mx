@@ -4,7 +4,7 @@ identifier: "COA-ley-del-fondo-de-la-vivienda-para-los-trabajadores-de-la-3876"
 country: "mx"
 rank: "ley"
 publication_date: "1986-04-29"
-last_updated: "2006-11-07"
+last_updated: "2009-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3876&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL FONDO DE LA VIVIENDA PARA LOS TRABAJADORES DE LA EDUCACION AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 29 de abril de 1986.
 
@@ -141,9 +141,19 @@ V.- El monto total de los intereses derivados de los créditos que maneje; y
 
 VI.- Los demás que se establezcan en la presente Ley.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 11.
 
-En ningún caso se podrá disponer del patrimonio del Organismo, ni se adquirirá derecho alguno, individual o colectivo, sobre el mismo, para fines distintos a los autorizados en esta Ley.
+El patrimonio del Organismo, previsto en el artículo 10, se utilizará para cumplir con las obligaciones y prestaciones previstas en esta Ley. Este podrá además, utilizarse para apoyar a las instituciones de seguridad social de los trabajadores de la educación al servicio del Estado, siempre y cuando:
+
+I. El Organismo previsto en esta Ley garantice el cumplimiento de sus obligaciones;
+
+II. Exista una necesidad para cumplir con el objeto de la o las instituciones de seguridad social de los trabajadores de la educación al servicio del Estado que así lo requieran;
+
+III. Lo proponga el Comité Ejecutivo de la Sección 38 del Sindicato Nacional de Trabajadores de la Educación, y
+
+IV. Se lleve a cabo bajo la estricta supervisión y vigilancia de la Secretaría de la Función Pública del Gobierno del Estado, siguiendo el procedimiento que ésta disponga, para tal efecto.
 
 ###### ARTICULO 12.
 
@@ -161,31 +171,43 @@ Los bienes, derechos y recursos del Organismo, estarán exentos de gravámenes e
 
 Los órganos de dirección y administración del Organismo son: El Consejo de Administración y el Consejo Consultivo.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 15.
 
-El Consejo de Administración se integrará por un Presidente, Secretario, Tesorero, Primer Vocal, Segundo Vocal, y sus respectivos suplentes. El Gobierno del Estado estará representado en dicho Consejo, por un Comisario, que será designado por el titular del Poder Ejecutivo del Estado.
+El Consejo de Administración se integrará por cuatro miembros electos por mayoría de votos del Consejo Consultivo a propuesta del Secretario General, quienes ocuparán los cargos de Director, Subdirector Técnico, Subdirector de Finanzas y Vocal Ejecutivo. La vigilancia del funcionamiento de dicho Consejo estará a cargo de un Comisario, que será designado por el Titular del Poder Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 16.
 
-El Consejo Consultivo se integrará por todos los miembros del Comité Ejecutivo de la Sección 38 del S.N.T.E.; y durará en sus funciones 3 años.
+El Consejo Consultivo se integrará por todos los miembros del Comité Ejecutivo de la Sección 38 del Sindicato Nacional de los Trabajadores de la Educación y durará en sus funciones 4 años.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 17.
 
-Para ser miembro propietario y suplente del Consejo de Administración se requiere:
+Para ser miembro del Consejo de Administración se requiere:
 
-I.- Ser miembro activo de la Sección 38 del S.N.T.E., con un mínimo de 3 años de antigüedad.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
+
+I.- Ser miembro activo de la Sección 38 del S.N.T.E.
 
 II.- Ser de reconocida capacidad y honorabilidad; y
 
 III.- No desempeñar puesto de confianza en la administración pública estatal o municipal.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 18.
 
-El Consejo de Administración del Organismo se renovará cada tres años y será electo por el órgano máximo de gobierno sindical de la Sección 38 del S.N.T.E.
+El Consejo de Administración del Organismo se renovará cada cuatro años por el Consejo Consultivo.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 19.
 
-Por cada miembro titular del Consejo de Administración, se nombrará un suplente, debiendo rendir ambos su protesta, ante el órgano al que corresponde hacer la designación.
+Cada miembro del Consejo de Administración, deberá rendir su protesta, ante el órgano al que corresponde hacer la designación.
 
 ###### ARTICULO 20.
 
@@ -195,17 +217,23 @@ Los miembros propietarios del Consejo de Administración, para mejor desempeño 
 
 Los miembros propietarios del Consejo de Administración, percibirán una remuneración que será fijada en el presupuesto anual correspondiente.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 22.
 
-Los miembros suplentes del Consejo de Administración del Organismo, sustituirán a los propietarios en sus faltas temporales y entrarán en funciones definitivamente de sus cargos, cuando la ausencia del propietario se prolongue por más de 3 meses, salvo que exista causa justificada a juicio del Consejo de Administración y del Consejo Consultivo.
+Los integrantes del Consejo Consultivo se reunirán en Asamblea General Extraordinaria, cuando por causa grave, renuncia o defunción, sea necesaria la sustitución de un Consejero y por mayoría de votos lo nombrarán a propuesta de su Secretario General.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 23.
 
-El Consejo de Administración celebrará sesiones ordinarias dentro de los primeros diez días de cada mes, y extraordinarias cuantas veces sea necesario para la buena marcha del Organismo. Para que los acuerdos del Consejo de Administración sean válidos deberán de tomarse por la mayoría de sus miembros, debiendo presidirla invariablemente, el Presidente, asistido del Secretario.
+El Consejo de Administración celebrará sesiones ordinarias dentro de los primeros diez días de cada mes, y extraordinarias cuantas veces sea necesario para la buena marcha del Organismo. Para que los acuerdos del Consejo de Administración sean válidos deberán de tomarse por la mayoría de sus miembros, debiendo presidirla invariablemente, el Director, asistido del Subdirector Técnico.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 24.
 
-Las resoluciones del Consejo de Administración, se tomarán por mayoría de votos, teniendo el Presidente voto de calidad para el caso de empate. Dichas resoluciones se harán del conocimiento del Consejo Consultivo.
+Las resoluciones del Consejo de Administración, se tomarán por mayoría de votos, teniendo el Director voto de calidad para el caso de empate. Dichas resoluciones se harán del conocimiento del Consejo Consultivo.
 
 ## TITULO CUARTO. FACULTADES DE LOS ORGANOS DE DIRECCION Y ADMINISTRACION
 
@@ -251,9 +279,11 @@ XV.- Vigilar el estricto cumplimiento de esta Ley; y
 
 XVI.- Las demás que le sean señaladas en la presente Ley y Reglamentos correspondientes que de ella se deriven.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 26.
 
-Son facultades del Presidente del Consejo de Administración:
+Son facultades del Director del Consejo de Administración:
 
 > <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
 
@@ -267,7 +297,9 @@ III.- Realizar todas las operaciones inherentes al objeto del Organismo;
 
 IV.- Otorgar, emitir, girar, endosar, aceptar, avalar o por cualquier otro concepto, obligar al Organismo mediante la firma y suscripción de títulos de crédito, así como protestarlos;
 
-V.- Manejar cuentas bancarias con la autorización del Consejo de Administración, y con la firma mancomunada del Tesorero;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
+
+V.- Manejar cuentas bancarias con la autorización del Consejo de Administración, y con la firma mancomunada del Subdirector de Finanzas;
 
 VI.- Constituir y retirar toda clase de depósitos, con los requisitos establecidos en la fracción anterior;
 
@@ -277,43 +309,63 @@ VIII.- Presentar las necesidades de personal al Comité Ejecutivo Seccional, a c
 
 IX.- Convocar a sesiones ordinarias según lo establece la presente Ley, y a sesiones extraordinarias, cuando así lo juzgue necesario, o cuando la mayoría del Consejo de Administración así lo solicite;
 
-X.- Manejar en forma conjunta con el Tesorero, los egresos o ingresos del Organismo, y
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
+
+X.- Manejar en forma conjunta con el Subdirector de Finanzas, los egresos o ingresos del Organismo; y
 
 XI.- Las demás que determine esta Ley y reglamentos que de ella se deriven.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 27.
 
-El Presidente del Consejo de Administración no podrá vender, ceder o gravar los bienes muebles e inmuebles que forman el patrimonio del Organismo, a menos que sea autorizado expresamente para ello por el Consejo de Administración y el Consejo Consultivo.
+El Director del Consejo de Administración no podrá vender, ceder o gravar los bienes muebles e inmuebles que forman el patrimonio del Organismo, a menos que sea autorizado expresamente para ello por el Consejo de Administración y el Consejo Consultivo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 28.
 
-Son facultades y obligaciones del Secretario del Consejo de Administración:
+Son facultades y obligaciones del Subdirector Técnico del Consejo de Administración:
 
-I.- Levantar y autorizar, con la firma suya y la del Presidente, las actas correspondientes a las sesiones ordinarias y extraordinarias que celebre el Consejo de Administración, y mantener actualizados los libros respectivos.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
 
-II.- Auxiliar y asistir al Presidente del Consejo de Administración, en la preparación y desarrollo de las sesiones ordinarias y extraordinarias del Organismo.
+I.- Levantar y autorizar, con la firma suya y la del Director, las actas correspondientes a las sesiones ordinarias y extraordinarias que celebre el Consejo de Administración, y mantener actualizados los libros respectivos.
 
-III.- Formular, de acuerdo con el Presidente del Consejo de Administración, el Orden del día al cual deberán sujetarse las sesiones ordinarias y extraordinarias;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
+
+II.- Auxiliar y asistir al Director del Consejo de Administración, en la preparación y desarrollo de las sesiones ordinarias y extraordinarias del Organismo.
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
+
+III.- Formular, de acuerdo con el D del Consejo de Administración, el Orden del día al cual deberán sujetarse las sesiones ordinarias y extraordinarias;
 
 IV.- Despachar oportunamente la correspondencia.
 
 V.- Tener bajo su custodia el archivo del Consejo de Administración.
 
-VI.- Auxiliar al Presidente del Consejo de Administración en el desempeño de sus funciones.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
+
+VI.- Auxiliar al Director del Consejo de Administración en el desempeño de sus funciones.
 
 VII.- Integrar toda la documentación necesaria para el otorgamiento de los créditos; y
 
 VIII.- Las demás que le señale esta Ley, sus reglamentos y acuerdos de las asambleas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 29.
 
-Son facultades y obligaciones del Tesorero del Consejo de Administración:
+Son facultades y obligaciones del Subdirector de Finanzas del Consejo de Administración:
 
-I.- Llevar y autorizar, con su firma y la del Presidente del Consejo, la contabilidad del Organismo.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
+
+I.- Llevar y autorizar, con su firma y la del Director del Consejo, la contabilidad del Organismo.
 
 II.- Exigir el pago oportuno de las aportaciones y demás ingresos que conforme a esta Ley, deba percibir el Organismo.
 
-III.- Manejar, mancomunadamente con la firma del Presidente del Consejo de Administración, las cuentas bancarias del Organismo.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
+
+III.- Manejar, mancomunadamente con la firma del Director del Consejo de Administración, las cuentas bancarias del Organismo.
 
 IV.- Efectuar los pagos y demás erogaciones que hayan sido autorizados expresamente.
 
@@ -321,43 +373,41 @@ V.- Llevar el registro actualizado de los trabajadores de las instituciones apor
 
 VI.- Remitir a las instituciones aportantes los recibos que amparen las aportaciones previstas en esta Ley, así como de las cantidades que entreguen por descuentos a los trabajadores, u otros conceptos.
 
-VII.- Rendir, en coordinación con el Presidente del Consejo de Administración, los informes que se establezcan como obligatorios para el Consejo de Administración y los que solicite el Consejo Consultivo, o bien el propio Presidente del Consejo de Administración.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
+
+VII.- Rendir, en coordinación con el Director del Consejo de Administración, los informes que se establezcan como obligatorios para el Consejo de Administración y los que solicite el Consejo Consultivo, o bien el propio Director del Consejo de Administración.
 
 VIII.- Recibir y entregar por rigurosos inventarios, los bienes muebles e inmuebles del patrimonio del Organismo; y
 
 IX.- Las demás que le señale esta Ley y sus reglamentos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 30.
 
-Son facultades y obligaciones del Primer Vocal:
+Son facultades y obligaciones del Vocal Ejecutivo:
 
-I.- Ser responsables de la Sección Técnica correspondiente a las obras objeto del Organismo, a realizar por medio de créditos otorgados por Instituciones Nacionales de Crédito.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
+
+I.- Ser responsable de la Sección Técnica correspondiente a las obras objeto del Organismo, a realizar por medio de créditos otorgados por Instituciones Nacionales de Crédito.
 
 II.- Supervisar y tramitar la documentación legal necesaria para la compra de terrenos, urbanización, construcción o compra, de vivienda, con cargo a créditos de las Instituciones Nacionales de Crédito.
 
 III.- Supervisar presupuestos de costos, planes, proyectos y calendarios de las obras a realizar.
 
-IV.- Vigilar la ejecución y avances de las obras, junto el (sic) Presidente y el Tesorero del Consejo de Administración.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
 
-V.- Tramitar los diferentes servicios urban´sticos (sic) ante las autoridades correspondientes, en coordinación con el Presidente del Consejo de Administración; y
+IV.- Vigilar la ejecución y avances de las obras, junto con el Director y Subdirector de Finanzas del Consejo de Administración.
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
+
+V.- Tramitar los diferentes servicios urbanísticos ante las autoridades correspondientes, en coordinación con el Director del Consejo de Administración; y
 
 VI.- Las demás que le señale esta Ley y sus reglamentos.
 
 ###### ARTICULO 31.
 
-Son facultades y obligaciones del Segundo Vocal:
-
-I.- Ser responsable de la Sección Técnica correspondiente a las obras objeto del Organismo, a realizar por medio de créditos otorgados con recursos del propio Organismo.
-
-II.- Supervisar y tramitar la documentación legal necesaria para la compra de terrenos, urbanización, construcción, compra, remodelación, ampliación o mejoramiento de vivienda y rescate de hipoteca, con cargo a créditos otorgados con recursos del propio Organismo.
-
-III.- Supervisar presupuestos de costos, planos, proyectos y calendario de las obras a realizar.
-
-IV.- Vigilar la ejecución y avance de las obras, junto con el Presidente y Tesorero del Consejo de Administración.
-
-V.- Tramitar los diferentes servicios urbanísticos ante las autoridades correspondientes, en coordinación con el Presidente del Consejo de la Administración; y
-
-VI.- Las demás que le señale esta Ley y sus reglamentos.
+(DEROGADO, P.O. 29 DE MAYO DE 2009)
 
 ###### ARTICULO 32.
 
@@ -1029,13 +1079,17 @@ II.- Las modificaciones de los sueldos para determinar las aportaciones del Orga
 
 III.- Los demás informes que sean necesarios y se deriven del objeto del Organismo establecido en esta Ley y sus reglamentos.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 90.
 
-El Tesorero General del Estado, los Recaudadores de Rentas del Estado, Tesoreros Municipales, y demás funcionarios de las Instituciones aportantes, están obligados a efectuar los descuentos derivados de las operaciones que celebre el Organismo con los trabajadores de la Educación y remitirlos en un término que no excederá de cinco días contados a partir de la fecha de su descuento, quedando en el entendido de que se pagarán intereses legales moratorios, que causen en el caso de que haya retenciones por un plazo mayor del citado.
+El Secretario de Finanzas del Gobierno del Estado, los tesoreros municipales y demás funcionarios de las Instituciones aportantes, están obligados a efectuar los descuentos derivados de las operaciones que celebre el Organismo con los trabajadores de la Educación y remitirlos en un término que no excederá de cinco días contados a partir de la fecha de su descuento, quedando en el entendido de que se pagarán intereses legales moratorios, que causen en el caso de que haya retenciones por un plazo mayor del citado.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 91.
 
-Los descuentos correspondientes a las aportaciones de los trabajadores de la educación del Gobierno del Estado de Coahuila y sus Municipios, deberán centralizarse, preferentemente, para su recepción en la Tesorería General del Estado, para que sea esta dependencia quien, previo recibo, entregue en el término a que se refiere el Artículo anterior, dichos recursos en favor del Organismo.
+Los descuentos correspondientes a las aportaciones de los trabajadores de la educación del Gobierno del Estado de Coahuila y sus Municipios, deberán centralizarse, preferentemente, para su recepción en la Secretaría de Finanzas del Gobierno del Estado, para que sea esta dependencia quien, previo recibo, entregue en el término a que se refiere el artículo anterior, dichos recursos en favor del Organismo.
 
 ## TITULO DECIMO TERCERO. DE LAS RESPONSABILIDADES Y SANCIONES
 
@@ -1048,6 +1102,8 @@ Los miembros del Consejo de Administración del Organismo, que no cumplan fielme
 ###### ARTICULO 93.
 
 Tratándose de empleados del Organismo, el Consejo de Administración aplicará las mismas sanciones en la forma y términos a que se refiere el Artículo anterior.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 29 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 94.
 
@@ -1114,3 +1170,11 @@ EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 7 DE NOVIEMBRE DE 2006.
 
 ÚNICO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE MAYO DE 2009.
+
+PRIMERO. Este decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Quienes ocupen los cargos de Presidente, Secretario, Tesorero, Primer Vocal y, en su caso, Segundo Vocal de los Consejos de Administración que rijan el funcionamiento de la Sección 38 del S.N.T.E., durarán en su encargo, hasta en tanto se expidan los nuevos nombramientos directivos, por el Comité Ejecutivo Seccional.
+
+TERCERO. Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
