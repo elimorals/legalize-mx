@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-procuraduria-general-de-la-republica-26854"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-27"
-last_updated: "2009-01-23"
+last_updated: "2009-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26854&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2002-12-26"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE LA REPUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE LA REPUBLICA, PUBLICADA EN EL D.O.F. DE 29 DE MAYO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 27 de diciembre de 2002.
 
@@ -1102,3 +1104,43 @@ SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ...
+
+D.O.F. 29 DE MAYO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga la Ley Orgánica de la Procuraduría General de la República publicada en el Diario Oficial de la Federación el día 27 de diciembre de 2002. Continuarán vigentes las normas expedidas con apoyo en la ley que se abroga, en lo que no se opongan a la presente.
+
+TERCERO.- Las funciones de la Policía Federal Investigadora como auxiliar del Ministerio Público de la Federación, serán realizadas por la Policía Federal Ministerial, en los términos de la normatividad correspondiente. Los agentes de la Policía Federal Investigadora podrán incorporarse a otra institución de procuración de justicia o de seguridad pública siempre que cumplan los requisitos que establezca la normatividad aplicable.
+
+Los agentes de la Policía Federal Investigadora que a la fecha de entrada en vigor de la presente ley se encuentren en activo en la Procuraduría General de la República, tendrán un plazo de treinta días hábiles contado a partir de la entrada en vigor de esta ley para manifestar su voluntad de someterse al proceso de evaluación de control de confianza y de competencias profesionales o, en su caso, de adherirse al programa de conclusión de la prestación de servicios en forma definitiva de los servidores públicos de la Administración Pública Federal.
+
+Quienes aprueben el proceso de evaluación a que se refiere el párrafo anterior, en los términos de la normatividad aplicable, podrán permanecer en la Procuraduría General de la República en el servicio de carrera de la Policía Federal Ministerial. En todo caso se respetarán derechos adquiridos y antigüedad.
+
+Quienes no se sometan o no aprueben el referido proceso de evaluación, serán separados del servicio en la Procuraduría General de la República.
+
+CUARTO.- En un marco de respeto a sus derechos laborales, el personal de base que se encuentre laborando en la Procuraduría General de la República, tendrá un plazo de sesenta días hábiles contado a partir de la entrada en vigor de esta ley para optar por cualquiera de las alternativas siguientes:
+
+I. Manifestar su voluntad de permanecer en la Procuraduría General de la República en cuyo caso deberá someterse a las evaluaciones de control de confianza y de competencias profesionales y aprobarlas;
+
+II. Acogerse al programa de reubicación dentro de la Administración Pública Federal conforme con su perfil, o
+
+III. Adherirse al programa de conclusión de la prestación de servicios en forma definitiva de los servidores públicos de la Administración Pública Federal.
+
+La Procuraduría General de la República contará con un período de tres años a partir del inicio de la vigencia de la presente ley, a efecto de instrumentar lo dispuesto en este artículo.
+
+El personal que opte por lo dispuesto en la fracción I de este artículo y no se someta o no apruebe las evaluaciones de control de confianza y de competencias profesionales dentro del plazo a que se refiere el párrafo anterior, dejará de prestar sus servicios en la Procuraduría General de la República de conformidad con lo dispuesto en la normatividad aplicable.
+
+QUINTO.- Todo el personal de la Procuraduría General de la República deberá ser evaluado dentro del plazo y bajo las condiciones señaladas en el artículo tercero transitorio de la Ley General del Sistema Nacional de Seguridad Pública, y para los efectos del artículo cuarto transitorio de la misma ley.
+
+SEXTO.- En tanto se expide el reglamento de esta ley, se aplicará el reglamento publicado en el Diario Oficial de la Federación el día 25 de junio de 2003, en todo aquello que no se oponga a las disposiciones de la presente ley.
+
+SÉPTIMO.- En tanto se expiden las disposiciones reglamentarias del Servicio Profesional de Carrera Ministerial, Policial y Pericial, el Consejo de Profesionalización estará facultado para emitir normas generales relativas al desarrollo y operación de dicho servicio.
+
+OCTAVO.- Los agentes del Ministerio Público de la Federación, los agentes de la Policía Federal Investigadora y los peritos que a la entrada en vigor del presente ordenamiento se encuentren laborando en la Procuraduría General de la República se someterán a las disposiciones reglamentarias del Servicio Profesional de Carrera Ministerial, Policial y Pericial que se expidan para tal efecto.
+
+NOVENO.- En tanto se expide el reglamento de esta ley y se regulariza la estructura y la asignación de plazas de la Visitaduría General, los agentes del Ministerio Público de la Federación visitadores en términos de la ley que se abroga continuarán desarrollando las actividades propias de su encargo.
+
+DÉCIMO.- Cuando se expida el reglamento de esta ley, las menciones a la unidad especializada a que se refiere el artículo 8 de la Ley Federal contra la Delincuencia Organizada, se entenderán hechas a la unidad administrativa que se establezca en dicho ordenamiento reglamentario.
+
+DÉCIMO PRIMERO.- Los procedimientos de responsabilidad administrativa que se encuentren en trámite ante el Consejo de Profesionalización, continuarán hasta su conclusión de conformidad con las disposiciones vigentes al momento de su inicio.
