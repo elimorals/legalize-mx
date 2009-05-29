@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-de-planeacion-del-estado-5783
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-27"
-last_updated: "2007-11-27"
+last_updated: "2009-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE PLANEACION DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE PLANEACION DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 29 DE MAYO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 27 de noviembre de 2007.
 
@@ -680,3 +682,19 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE GOBIERNO
 
 JOSÉ GERARDO MOSQUEDA MARTÍNEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE MAYO DE 2009.
+
+Artículo Primero. Inicio de vigencia del Reglamento
+
+El presente Decreto Gubernativo iniciará su vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Abrogación del Reglamento Interior vigente
+
+Se abroga el Reglamento Interior del Instituto de Planeación del Estado de Guanajuato, contenido en el Decreto Gubernativo número 60, publicado en el Periódico Oficial del Gobierno del Estado número 190, Segunda Parte del 27 de noviembre de 2007.
+
+Artículo Tercero. Renovación escalonada de los consejeros del Consejo Consultivo
+
+Los Consejeros designados para integrar el primer Consejo Consultivo del IPLANEG durarán en su cargo cuatro y seis años, contados a partir de la fecha de su designación. El estatuto interno establecerá las reglas para la renovación escalonada.
