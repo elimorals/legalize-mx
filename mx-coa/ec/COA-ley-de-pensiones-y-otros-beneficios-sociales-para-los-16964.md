@@ -4,7 +4,7 @@ identifier: "COA-ley-de-pensiones-y-otros-beneficios-sociales-para-los-16964"
 country: "mx"
 rank: "ley"
 publication_date: "1999-11-19"
-last_updated: "2006-03-31"
+last_updated: "2009-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES DE LA EDUCACION PUBLICA DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 19 de noviembre de 1999.
 
@@ -257,9 +257,9 @@ II. Uno por la Universidad Autónoma de Coahuila;
 
 III. Uno por la Universidad Autónoma Agraria "Antonio Narro";
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
 
-IV. Siete representantes por la Sección 38 del Sindicato Nacional de los Trabajadores de la Educación;
+IV. Siete representantes por la Sección 38 del Sindicato Nacional de los Trabajadores de la Educación, electos por mayoría de votos del Comité Ejecutivo de la Sección 38 del S.N.T.E. a propuesta de su Secretario General;
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
@@ -267,7 +267,7 @@ V. Uno por el Sindicato de los Trabajadores de la Universidad Autónoma de Coahu
 
 > <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
-VI.- Uno por cada uno de dos Sindicatos de la Universidad Autónoma Agraria "Antonio Narro".
+VI. Uno por cada uno de dos Sindicatos de la Universidad Autónoma Agraria "Antonio Narro".
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
@@ -283,11 +283,15 @@ ARTICULO 25 A.- Cada Comité de Administración a que se refiere la última part
 
 I.- Por la Sección 38 del SNTE.
 
-a) Dos representantes de la Sección 38 del SNTE;
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+
+a) Tres representantes de la Sección 38 del SNTE, que ocuparán los cargos de Subdirector Técnico, Subdirector de Finanzas y Vocal ejecutivo, electos por mayoría de votos del Comité Ejecutivo de la Sección 38 del S.N.T.E. a propuesta de su Secretario General;
 
 b) Dos representantes del poder ejecutivo del estado; y
 
-c) Un presidente, que lo será el presidente del Consejo Directivo a que se refiere el artículo 25 de esta Ley.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+
+c) Un Director, que lo será el Presidente del Consejo Directivo a que se refiere el artículo 25 de esta Ley.
 
 II.- Por la Universidad Autónoma de Coahuila.
 
@@ -411,13 +415,15 @@ IX. Las demás que les confieran esta ley y el reglamento.
 
 El Consejo Directivo de la Dirección de Pensiones sesionará de manera ordinaria cuando menos una vez por mes y extraordinariamente cuando fuere necesario previa convocatoria de su presidente. Las sesiones serán válidas con la asistencia del Presidente y seis de sus miembros. Los acuerdos y resoluciones del Consejo Directivo, en la esfera de su competencia, serán válidas y obligan a las instituciones aportantes cuando sean acordadas por la simple mayoría de sus miembros presentes.
 
-Los Comités de Administración sesionarán de manera ordinaria cada mes y de manera extraordinaria cuando fuere necesario previa convocatoria de su presidente. Las sesiones serán válidas con la asistencia del Presidente y la mayoría simple de sus miembros con derecho a voto. Por mayoría simple se entiende la mitad más uno de los miembros de cada Comité de Administración respectivamente.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+Los Comités de Administración sesionarán de manera ordinaria cada mes y de manera extraordinaria cuando fuere necesario previa convocatoria de su presidente o del Director en el caso de la Sección 38. Las sesiones serán válidas con la asistencia del Presidente o del Director en el caso de la Sección 38 y la mayoría simple de sus miembros con derecho a voto. Por mayoría simple se entiende la mitad más uno de los miembros de cada Comité de Administración respectivamente.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 29.
 
-Las decisiones del Consejo Directivo y de los Comités de Administración se tomarán por simple mayoría de votos de los miembros presentes en las sesiones; en caso de empate, el presidente correspondiente tendrá voto de calidad.
+Las decisiones del Consejo Directivo y de los Comités de Administración se tomarán por simple mayoría de votos de los miembros presentes en las sesiones; en caso de empate, el Presidente correspondiente o el Director en el caso de la Sección 38, tendrá voto de calidad.
 
 #### SECCION QUINTA. DE LOS MIEMBROS DEL CONSEJO DIRECTIVO
 
@@ -529,59 +535,103 @@ IV. Poner en conocimiento del Consejo Directivo las irregularidades que observen
 
 V. Las demás que les señale esta ley y los reglamentos correspondientes.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2009)</small>
 
-ARTICULO 38 A. Son facultades de los Presidentes de los Comités de Administración las siguientes:
+ARTICULO 38 A. Son facultades de los Presidentes y del Director, en el caso de la Sección 38, de los Comités de Administración las siguientes:
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 I. Ejecutar los acuerdos del Comité de Administración que presidan, salvo disposición en contrario de éste y con excepción de aquellas resoluciones que, de conformidad con esta ley, la ejecución corresponda al Administrador de la Dirección de Pensiones;
 
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
 II. Exigir al Administrador de la Dirección de Pensiones el estricto cumplimiento de esta ley y de los acuerdos del Comité de Administración que presidan;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 III. Suscribir, firmar, endosar, avalar, girar cheques, pagarés, letras de cambio o cualesquier otros títulos de crédito para cumplir los fines que establece esta ley, en cumplimiento de los acuerdos de los Comités de Administración que presidan. Esta facultad podrá delegarse mediante autorización expresa otorgada por el comité de Administración que corresponda;
 
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
 IV. Someter a la consideración del Comité de Administración respectivo, todas aquellas cuestiones que sean de la competencia del mismo;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 V. Resolver bajo su inmediata y directa responsabilidad los asuntos urgentes, de obvia resolución, que sean de la competencia del Comité de Administración que presidan, cuando éste no pueda reunirse de inmediato, a reserva de dar cuenta pormenorizada al mismo, a la brevedad posible;
 
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
 VI. Vigilar, en la esfera de su competencia, el cumplimiento de esta ley, su reglamento y los acuerdos del Comité de Administración que presidan;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 VII. Convocar al Comité de Administración que corresponda a sesiones ordinarias o extraordinarias, con estricta observancia de las disposiciones contenidas en este ordenamiento;
 
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
 VIII. Autorizar con su firma la contabilidad de la cuenta institucional que corresponda;
 
-IX. Firmar, en unión del Tesorero del Comité de Administración respectivo, los documentos relativos al manejo de la cuenta institucional correspondiente;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
+
+IX.- Firmar, en unión del Tesorero del Comité de Administración respectivo o del Subdirector de Finanzas en el caso de la Sección 38, los documentos relativos al manejo de la cuenta institucional correspondiente;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 X. Proponer a la consideración del Comité de Administración el reglamento particular de la administración de la cuenta institucional; y
 
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
 XI. Las demás que les señalen esta ley y su reglamento u otras disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2009)</small>
 
-ARTICULO 38 B. Son facultades y obligaciones de los Secretarios de los Comités de Administración, las siguientes:
+ARTICULO 38 B. Son facultades y obligaciones de los Secretarios de los Comités de Administración y del Secretario Técnico en el caso de la Sección 38, las siguientes:
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 I. Formular las actas de las sesiones ordinarias y extraordinarias del Comité de Administración que corresponda y someterlas a la consideración del mismo en la sesión siguiente, para su aprobación o corrección;
 
-II. Despachar de acuerdo con el Presidente del Comité de Administración respectivo, la correspondencia del Comité correspondiente;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
 
-III. Auxiliar al Presidente del Comité de Administración respectivo en sus funciones;
+II. Despachar de acuerdo con el Presidente del Comité de Administración respectivo o del Director en el caso de la Sección 38, la correspondencia del Comité correspondiente;
 
-IV. Convocar, por acuerdo del Presidente del Comité de Administración correspondiente, a los miembros del mismo a las sesiones que habrán de celebrarse; y
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
+
+III. Auxiliar al Presidente del Comité de Administración respectivo o al Director en el caso de la Sección 38, en sus funciones;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
+
+IV. Convocar, por acuerdo del Presidente del Comité de Administración correspondiente o del Director en el caso de la Sección 38, a los miembros del mismo a las sesiones que habrán de celebrarse; y
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 V. Las demás que les señale esta ley y su reglamento u otras disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2009)</small>
 
-ARTICULO 38 C. Son facultades y obligaciones de los Tesoreros de los Comités de Administración, las siguientes:
+ARTICULO 38 C. Son facultades y obligaciones de los Tesoreros de los Comités de Administración, y del Subdirector de Finanzas en el caso de la Sección 38, las siguientes:
 
-I. Suscribir, firmar, endosar, avalar, girar cheques, pagarés, letras de cambio o cualquier otro título de crédito para los fines que establece esta ley, en forma mancomunada con el presidente del Comité de Administración y en cumplimiento a los acuerdos del Comité de Administración respectivo;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
 
-II. Llevar y autorizar con su firma y la del Presidente del Comité de Administración correspondiente, el manejo y la contabilidad de la cuenta institucional;
+I. Suscribir, firmar, endosar, avalar, girar cheques, pagarés, letras de cambio o cualquier otro título de crédito para los fines que establece esta ley, en forma mancomunada con el Presidente del Comité de Administración o con el Director en el caso de la Sección 38, y en cumplimiento a los acuerdos del Comité de Administración respectivo;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
+
+II. Llevar y autorizar con su firma y la del Presidente del Comité de Administración correspondiente o la del Director en el caso de la Sección 38, el manejo y la contabilidad de la cuenta institucional;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 III. Exigir, en el ámbito de su competencia, el pago oportuno de las cuotas y aportaciones que conforme a esta ley deba percibir la cuenta institucional respectiva;
 
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
 IV. Rendir informes contables en los términos que se determinen en esta ley y su reglamento y los que el Comité de Administración respectivo le solicite;
 
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
 V. Caucionar mediante fianza el buen desempeño de su cargo en los términos que disponga el Comité de Administración. En este caso, deberá considerar la opinión del Consejo Directivo, y
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 VI. Las demás que les señalen esta ley y su reglamento u otras disposiciones aplicables.
 
@@ -1440,3 +1490,11 @@ P.O. 31 DE MARZO DE 2006.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 29 DE MAYO DE 2009.
+
+PRIMERO. Este decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Quienes ocupen los cargos de Presidente, Secretario, Tesorero, Primer Vocal y, en su caso, Segundo Vocal de los Consejos de Administración que rijan el funcionamiento de la Sección 38 del S.N.T.E., durarán en su encargo, hasta en tanto se expidan los nuevos nombramientos directivos, por el Comité Ejecutivo Seccional.
+
+TERCERO. Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
