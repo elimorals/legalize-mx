@@ -4,7 +4,7 @@ identifier: "COA-ley-del-servicio-medico-para-los-trabajadores-de-la-4786"
 country: "mx"
 rank: "ley"
 publication_date: "1969-02-08"
-last_updated: "1990-06-12"
+last_updated: "2009-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL SERVICIO MEDICO PARA LOS TRABAJADORES DE LA EDUCACION DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el sábado 8 de febrero de 1969.
 
@@ -257,9 +257,11 @@ El Servicio Médico deberá obtener autorización previa de las entidades y orga
 
 DE LOS FUNCIONARIOS DEL SERVICIO MEDICO.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 27o.
 
-El órgano de Gobierno del Servicio Médico será su Consejo de Administración integrado por tres miembros que fungirán como Presidente, Secretario y Tesorero. Las faltas temporales o definitivas de ellos, serán cubiertas por los suplentes respectivos.
+El órgano de Gobierno del Servicio Médico será su Consejo de Administración integrado por cuatro miembros que fungirán como Director, Subdirector Técnico, Subdirector de Finanzas y Vocal Ejecutivo.
 
 ###### ARTICULO 28o.
 
@@ -275,11 +277,11 @@ II.- Ser de reconocida competencia y honorabilidad.
 
 Los integrantes del Consejo de Administración durarán en su cargo tres años y podrán ser removidos cuando exista causa suficiente que lo amerite.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1990)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 30o.
 
-Los integrantes del Consejo de Administración serán designados por el Comité Ejecutivo Seccional a propuesta del Organo Máximo de Gobierno Sindical de la Sección 38 del S.N.T.E.
+Los integrantes del Consejo de Administración serán electos por mayoría de votos del Comité Ejecutivo de la Sección 38 del S.N.T.E. a propuesta de su Secretario General.
 
 ###### ARTICULO 31o.
 
@@ -289,9 +291,11 @@ Para que el Consejo de Administración funcione legalmente, deberán estar prese
 
 El Consejo de Administración celebrará sesiones ordinarias cuando menos una vez al mes y extraordinarias, cuantas veces lo requiera la buena marcha del servicio. Para las sesiones ordinarias mensuales, se preferirá celebrarlas los días cinco de cada mes siendo éste inhábil, el día siguiente.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 33o.
 
-La vigilancia de la gestión realizada por el Consejo de Administración estará a cargo de tres Comisarios, siendo uno de ellos el Director General de Educación; otro, el Rector de la Universidad de Coahuila o quien él designe, y el tercero nombrado por el Gobernador del Estado.
+La vigilancia de la gestión realizada por el Consejo de Administración estará a cargo de tres Comisarios, siendo uno de ellos el titular de la Secretaría de Educación y Cultura o quien éste designe; otro, el Rector de la Universidad de Coahuila o quien él designe, y el tercero nombrado por el Gobernador del Estado.
 
 ###### ARTICULO 34o.
 
@@ -317,7 +321,9 @@ V.- Contratar juntamente con los organismos auxiliares del Servicio Médico, a l
 
 VI.- Rendir cada tres meses al Comité Ejecutivo de la organización estatal sindical de los trabajadores de la educación, al Gobierno del Estado y a la Universidad de Coahuila un informe detallado de la labor técnica y administrativa desarrollada y a la misma organización social y entidades, un informe anual de carácter general, que además se dará a conocer debidamente a todos los derecho-habientes del Servicio Médico;
 
-VII.- Rendir a la Asamblea General de Representantes, que se reunirá cada tres años, un informe general de la gestión realizada;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
+
+VII.- Rendir a la Asamblea General de Representantes, que se reunirá cada cuatro años, un informe general de la gestión realizada;
 
 VIII.- Enviar a las Tesorerías o Pagadurías correspondientes, los recibos que amparen las aportaciones y contribuciones previstas en esta Ley;
 
@@ -333,9 +339,11 @@ XIII.- Vigilar el cumplimiento de esta Ley y de los más estrictos principios é
 
 XIV.- Las demás que le señale esta Ley y su reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 36o.
 
-Son facultades y obligaciones del Presidente del Consejo de Administración:
+Son facultades y obligaciones del Director del Consejo de Administración:
 
 I.- Representar al Servicio Médico y ejecutar los Acuerdos del Consejo de Administración;
 
@@ -353,21 +361,27 @@ VII.- Convocar a sesiones ordinarias o extraordinarias;
 
 VIII.- Todas las demás que le fije esta Ley o su reglamento, o acuerde el Consejo de Administración.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 37o.
 
-Son facultades y obligaciones del Secretario del Consejo de Administración:
+Son facultades y obligaciones del Subdirector Técnico del Consejo de Administración:
 
 I.- Levantar u autorizar junto con el Presidente, las actas de las sesiones ordinarias y extraordinarias;
 
 II.- Despachar la correspondencia del Servicio Médico;
 
-III.- Auxiliar al Presidente del Consejo de Administración en el desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
+
+III.- Auxiliar al Director del Consejo de Administración en el desempeño de sus funciones;
 
 IV.- Las demás que señale esta Ley y su reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 38o.
 
-Son facultades y obligaciones del Tesorero del Consejo de Administración:
+Son facultades y obligaciones del Subdirector de Finanzas del Consejo de Administración:
 
 I.- Dirigir y autorizar la contabilidad del Servicio Médico;
 
@@ -378,6 +392,16 @@ III.- Depositar en institución bancaria y controlar ingresos y egresos del fond
 IV.- Rendir los informes que se establecen como obligatorios para el Consejo de Administración;
 
 V.- Las demás que le señale esta Ley y su reglamento.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2009)</small>
+
+ARTICULO 38o BIS.- Son facultades y obligaciones del Vocal Ejecutivo del Consejo de Administración:
+
+I.- Coadyuvar con el Director en el seguimiento a los acuerdos que se tomen en el seno del Consejo;
+
+II.- Apoyar en las funciones de los Subdirectores del Consejo, y
+
+III.- Las demás que determine el Director y los Comisarios, para el correcto funcionamiento del Consejo de Administración.
 
 ###### ARTICULO 39o.
 
@@ -524,3 +548,11 @@ P.O. 12 DE JUNIO DE 1990.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE MAYO DE 2009.
+
+PRIMERO. Este decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Quienes ocupen los cargos de Presidente, Secretario, Tesorero, Primer Vocal y, en su caso, Segundo Vocal de los Consejos de Administración que rijan el funcionamiento de la Sección 38 del S.N.T.E., durarán en su encargo, hasta en tanto se expidan los nuevos nombramientos directivos, por el Comité Ejecutivo Seccional.
+
+TERCERO. Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
