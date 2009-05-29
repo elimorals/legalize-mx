@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-crea-la-comision-estatal-de-infraestructura-de-7561"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-26"
-last_updated: "1992-07-09"
+last_updated: "2009-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY QUE CREA LA COMISION ESTATAL DE CAMINOS DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 26 de diciembre de 1985.
 
@@ -37,11 +37,11 @@ LEY QUE CREA LA COMISIÓN ESTATAL DE CAMINOS DEL ESTADO DE QUERÉTARO
 
 ## TITULO PRIMERO
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1992)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
 
-###### ARTICULO 1.
+###### ARTÍCULO 1.
 
-Esta Ley es de orden público e interés social y tiene por objeto regular las acciones relativas a la política carretera de Jurisdicción Estatal.
+Esta Ley es de orden público e interés social y tiene por objeto regular las acciones relativas a la política carretera y de infraestructura de jurisdicción estatal.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1992)</small>
 
@@ -77,9 +77,15 @@ VI.- Ejecutar los programas aprobados y conservar y mantener en condiciones de t
 
 VII.- Otorgar y promover la asistencia técnica a los ayuntamientos en la obra pública, que les permitan elevar la calidad de vida de su población;
 
-VIII.- Convenir con las Dependencias y Entidades del Gobierno Federal, Estatal y Municipal y con organismos del sector público, social y privado, las acciones necesarias para cumplir con los objetivos fijados por esta Ley; y
+VIII.- Convenir con las Dependencias y Entidades del Gobierno Federal, Estatal y Municipal y con organismos del sector público, social y privado, las acciones necesarias para cumplir con los objetivos fijados por esta Ley; y (sic)
 
-IX.- Las demás que establezcan la Ley, sus Reglamentos y cualquiera otra disposición aplicable.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
+
+IX.- Ejecutar, dirigir, supervisar y controlar las obras civiles asignadas al organismo, en apego a la normatividad aplicable y a los proyectos, programas y contratos respectivos; y
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2009)</small>
+
+X.- Las demás que establezca la presente Ley, sus reglamentos y cualquier otra disposición aplicable.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1992)</small>
 
@@ -324,3 +330,9 @@ En tanto se expidan las disposiciones reglamentarias de esta Ley, el Consejo de 
 ###### ARTICULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan a esta Ley.
+
+P.O. 29 DE MAYO DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
