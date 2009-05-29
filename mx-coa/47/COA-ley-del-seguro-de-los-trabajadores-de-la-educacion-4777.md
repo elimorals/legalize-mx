@@ -4,7 +4,7 @@ identifier: "COA-ley-del-seguro-de-los-trabajadores-de-la-educacion-4777"
 country: "mx"
 rank: "ley"
 publication_date: "1969-03-22"
-last_updated: "1969-03-22"
+last_updated: "2009-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL SEGURO DE LOS TRABAJADORES DE LA EDUCACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el sábado 22 de marzo de 1969.
 
@@ -42,6 +42,12 @@ LEY DEL SEGURO DE LOS TRABAJADORES DE LA EDUCACION.
 ### CAPITULO PRIMERO.
 
 GENERALIDADES.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+
+###### ARTICULO 1º.
+
+El Seguro de los Trabajadores de la Educación es una Institución creada por el Gobierno del Estado, con personalidad jurídica y patrimonio propio que tiene por objeto asegurar en forma decorosa el bienestar de los familiares de los trabajadores de la Educación en casos de fallecimiento o en caso de inhabilitación absoluta en el servicio antes de que el titular de la Póliza de Seguro, cumpla quince años de servicio.
 
 ###### ARTICULO 2°.
 
@@ -123,19 +129,33 @@ VI.- Por herencias, donaciones, legados o cualquier otro concepto lícito.
 
 Las asignaciones previstas en las fracciones II, III y IV de este artículo, serán iguales en su monto, a las que prevea la Ley de Hacienda del Estado.
 
-###### ARTICULO 13°.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
 
-Los fondos que se recauden para realizar el objeto de la presente Ley, por ningún motivo y en ningún caso y en ninguna ocasión podrán ser destinados a fines ajenos a aquellos para que se recaudaron.
+###### ARTICULO 13º.
 
-###### ARTICULO 14°.
+El patrimonio previsto en el artículo 12, se utilizará para cumplir con las obligaciones y prestaciones previstas en esta Ley. Este podrá además, utilizarse para apoyar a las instituciones de seguridad social de los trabajadores de la educación al servicio del Estado, siempre y cuando:
 
-Los fondos que por concepto de primas, intereses, etc., se recojan, serán depositados en una Institución Bancaria, encargándose de vigilar su debida inversión y bajo su más estricta responsabilidad, un Consejo de Administración que se integrará de acuerdo con lo preceptuado por esta Ley.
+I.- La institución prevista en esta Ley garantice el cumplimiento de sus obligaciones;
 
-###### ARTICULO 15°.
+II.- Exista una necesidad para cumplir con el objeto de la o las instituciones de seguridad social de los trabajadores de la educación al servicio del Estado que así lo requieran;
 
-Las primas mensuales correspondientes a los trabajadores de la Educación serán pagadas al Consejo de Administración del Seguro por las Tesorerías u Oficinas Pagadoras de las Entidades y organismos señalados en el Artículo 1°, debiendo efectuar sus pagos el día 1° de cada mes.
+III.- Lo proponga el Comité Ejecutivo de la Sección 38 del Sindicato Nacional de Trabajadores de la Educación, y
 
-La Tesorería General del Gobierno del Estado y los Municipios, cubrirán con toda oportunidad al Seguro de los Trabajadores las aportaciones que les corresponda.
+IV.- Se lleve a cabo bajo la estricta supervisión y vigilancia de la Secretaría de la Función Pública del Gobierno del Estado, siguiendo el procedimiento que ésta disponga, para tal efecto.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+
+###### ARTICULO 14º.
+
+Los fondos que por concepto de primas, intereses, entre otros que se recojan, serán depositados en una Institución Bancaria, encargándose de vigilar su debida inversión y bajo su más estricta responsabilidad, un Consejo de Administración que se integrará de acuerdo con lo preceptuado por esta Ley.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+
+###### ARTICULO 15º.
+
+Las primas mensuales correspondientes a los trabajadores de la Educación serán pagadas al Consejo de Administración del Seguro por las Tesorerías u oficinas pagadoras de las entidades y organismos señalados en el artículo 2, debiendo efectuar sus pagos el día 1º de cada mes.
+
+La Secretaría de Finanzas del Gobierno del Estado y los municipios cubrirán con toda oportunidad al Seguro de los Trabajadores las aportaciones que les corresponda.
 
 ###### ARTICULO 16°.
 
@@ -189,31 +209,41 @@ Cuando las condiciones lo permitan podrá aumentarse el valor de la Póliza, si 
 
 DE LA ADMINISTRACION DEL SEGURO DE LOS TRABAJADORES DE LA EDUCACION.
 
-###### ARTICULO 21°.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2009)</small>
 
-La Administración del Seguro de los Trabajadores de la Educación, estará a cargo de los tres mandatarios elegidos por Asamblea General de los trabajadores asegurados que integrarán el Consejo de Administración, con los cargos de Presidente, Secretario y Tesorero. Por cada Miembro Propietario se elegirá un suplente que entrará en funciones en faltas temporales y definitivas de los primeros.
+###### ARTICULO 21º.
+
+La Administración del Seguro de los Trabajadores de la Educación, estará a cargo de cuatro miembros, electos por mayoría de votos del Comité Ejecutivo de la Sección 38 del S.N.T.E. a propuesta de su Secretario General, los cuales integrarán el Consejo de Administración, con los cargos de Director, Subdirector Técnico, Subdirector de Finanzas y Vocal Ejecutivo.
 
 Los miembros del Consejo de Administración durarán en su cargo dos años.
 
-###### ARTICULO 22°.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
 
-La vigilancia del Seguro de los Trabajadores de la Educación, estará a cargo de tres Comisarios, que lo serán el Director General de Educación en el Estado, un Representante que designe el Ejecutivo del Estado y otro que nombre la Universidad de Coahuila.
+###### ARTICULO 22º.
 
-###### ARTICULO 23°.
+La vigilancia del Seguro de los Trabajadores de la Educación, estará a cargo de tres comisarios, que lo serán un representante del titular de la Secretaría de Educación y Cultura en el Estado, un representante que designe el Ejecutivo del Estado y otro que nombre la Universidad de Coahuila.
 
-Para la designación de los Consejeros del Seguro de los Trabajadores de la Educación, se reunirán en la Capital del Estado los Representantes de cada Sector, quienes en Asamblea General y por mayoría de votos los nombrarán.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2009)</small>
+
+###### ARTICULO 23º.
+
+Para la designación de los Consejeros del Seguro de los Trabajadores de la Educación, se reunirán los integrantes del Comité Ejecutivo de la Sección 38 del Sindicato Nacional de Trabajadores de la Educación, quienes en Asamblea General, a propuesta de su Secretario General y por mayoría de votos, los nombrarán.
 
 La Asamblea General de referencia se reunirá cada dos años previa convocatoria del Consejo y en la fecha que ésta señale.
 
-El cargo de Consejero no es renunciable sino por causa grave calificada por la Asamblea. Si por alguna circunstancia no se celebrase la Asamblea General, los Consejeros en ejercicio continuarán en su encargo hasta que se designe quienes deban substituirlos.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+
+Los Consejeros en ejercicio continuarán en su encargo hasta que se designe a quienes deban substituirlos.
 
 ###### ARTICULO 24°.
 
 Las personas que resulten electas para integrar el Consejo de Administración deberán residir en la Capital del Estado o en lugares cercanos a la misma.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+
 ###### ARTICULO 25°.
 
-Cuando ocurrieren faltas temporales por más de treinta días consecutivos del o los Consejeros Propietarios, serán llamados a desempeñar sus funciones los suplentes.
+Los integrantes del Comité Ejecutivo de la Sección 38 del Sindicato Nacional de Trabajadores de la Educación se reunirán en Asamblea General Extraordinaria, cuando por causa grave, renuncia o defunción, sea necesaria la sustitución de un Consejero, a propuesta de su Secretario General y por mayoría de votos lo nombrarán.
 
 ###### ARTICULO 26°.
 
@@ -237,13 +267,17 @@ h).- Convocar a la Asamblea General del Seguro de la Educación.
 
 i).- Rendir un informe sobre el estado general del Seguro de los Trabajadores de la Educación, cuantas veces sea requerido para ello, a los asegurados.
 
-###### ARTICULO 27°.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
 
-El Tesorero del Consejo de Administración del Seguro de los Trabajadores de la Educación, caucionará el manejo de los fondos puestos a su cuidado, en la inteligencia de que dicho funcionario no podrá hacer pago alguno sin la previa autorización del Consejo, y en casos urgentes y plenamente justificados, con la sola autorización del Presidente.
+###### ARTICULO 27º.
 
-###### ARTICULO 28°.
+El Subdirector de Finanzas del Consejo de Administración del Seguro de los Trabajadores de la Educación, caucionará el manejo de los fondos puestos a su cuidado, en la inteligencia de que dicho funcionario no podrá hacer pago alguno sin la previa autorización del Consejo, y en casos urgentes y plenamente justificados, con la sola autorización del Director.
 
-El Consejo de Administración estará obligado a rendir un informe de las labores desarrolladas ante la Asamblea General del Seguro de los Trabajadores de la Educación al terminar su mandato y en dicha Asamblea el Tesorero del propio Consejo deberá presentar un balance de comprobación, previamente aprobado por los Comisarios.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+
+###### ARTICULO 28º.
+
+El Consejo de Administración estará obligado a rendir un informe de las labores desarrolladas ante el Comité Ejecutivo de la Sección 38 del Sindicato Nacional de Trabajadores de la Educación cada año. Dicho informe deberá ser previamente sometido a aprobación de los Comisarios.
 
 ###### ARTICULO 29°.
 
@@ -277,6 +311,10 @@ II.- Un 25% del fondo del patrimonio se podrá invertir en bonos del Ahorro Naci
 
 III.- Un 15% del citado patrimonio se podrá invertir en bienes inmuebles bajo el concepto de que estas inversiones solamente se harán con el consentimiento previo de los Comisarios.
 
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2009)</small>
+
+Los intereses que se cobren por concepto de los préstamos que otorgue el Consejo de Administración no podrán ser mayores a dos veces la TIIE (Tasa de Interés lnterbancaria de Equilibrio).
+
 ###### ARTICULO 32°.
 
 Para normar las operaciones a que se refiere el artículo anterior se expedirá un Reglamento que fijará las bases a las cuales deberá sujetarse el Consejo para la celebración de tales operaciones.
@@ -285,11 +323,15 @@ Para normar las operaciones a que se refiere el artículo anterior se expedirá 
 
 El Consejo de Administración llevará los siguientes libros:
 
-a).- De actas de Asambleas Generales y de Consejo, los que estarán bajo el cuidado del Secretario del mismo.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+
+a).- De actas de Asambleas Generales y de Consejo, los que estarán bajo el cuidado del Subdirector Técnico del mismo.
 
 b).- De registro de miembros del Seguro de Trabajadores de la Educación que señale valor de la Póliza y de la Prima, años de antigüedad y demás que sean necesarios.
 
-c).- De caja, de Inventarios y Balances y demás que señalará el Reglamento de esta Ley y que estarán a cargo del Tesorero.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+
+c).- De caja, de inventarios y balances y demás que señalará el Reglamento de esta Ley y que estarán a cargo del Subdirector de Finanzas.
 
 ###### ARTICULO 34°.
 
@@ -311,7 +353,9 @@ DE LAS SANCIONES.
 
 El Consejo de Administración del Seguro de los Trabajadores de la Educación, en caso de incumplimiento del trabajador podrá mandar descontar del sueldo que éste perciba, los abonos insolutos del préstamo que hubiere convenido.
 
-El funcionario o persona encargada de hacer el pago de sueldos, tendrá la obligación de efectuar el descuento ordenado y entregarlo dentro de los cinco días siguientes a la Tesorería del Seguro de los Trabajadores de la Educación.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+
+El funcionario o persona encargada de hacer el pago de sueldos, tendrá la obligación de efectuar el descuento ordenado y entregarlo dentro de los cinco días siguientes a la Subdirección de Finanzas del Seguro de los Trabajadores de la Educación.
 
 La retención indebida de estos descuentos será sancionada con multa hasta por el importe de diez días del salario que tenga asignado el infractor.
 
@@ -330,10 +374,6 @@ T R A N S I T O R I O S .
 ###### ARTICULO 1°.
 
 Esta Ley entrará en vigor a los treinta días de su publicación, dentro de cuyo término en su caso las entidades y organismos sociales afectos a este Ordenamiento, expondrán lo que a sus derechos convenga por lo que se refiere a las asignaciones constitutivas del patrimonio del Seguro de los Trabajadores de la Educación.
-
-###### ARTICULO 1°.
-
-El Seguro de los Trabajadores de la Educación es una Institución creada por el Gobierno del Estado, con personalidad jurídica y patrimonio propio que tiene por objeto asegurar en forma decorosa el bienestar de los familiares de los trabajadores de la Educación en casos de fallecimiento o inhabilitación absoluta en el servicio de dichos trabajadores, siempre que esta última se presente antes de que el titular de la Póliza de Seguro, cumpla quince años de servicio.
 
 ###### ARTICULO 2°.
 
@@ -378,3 +418,13 @@ El Srio. del Ejvo. del Estado.
 LIC. JOSE RAMIREZ MIJARES.
 
 (Rúbrica).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE MAYO DE 2009.
+
+PRIMERO. Este decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Quienes ocupen los cargos de Presidente, Secretario, Tesorero, Primer Vocal y, en su caso, Segundo Vocal de los Consejos de Administración que rijan el funcionamiento de la Sección 38 del S.N.T.E., durarán en su encargo, hasta en tanto se expidan los nuevos nombramientos directivos, por el Comité Ejecutivo Seccional.
+
+TERCERO. Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
