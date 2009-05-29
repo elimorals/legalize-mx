@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-deuda-publica-del-estado-de-michoacan-de-ocampo-28003"
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-17"
-last_updated: "2007-09-28"
+last_updated: "2009-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el viernes 17 de enero del 2003.
 
@@ -57,7 +57,9 @@ Para efectos de esta Ley, se entiende por deuda pública, la que se derive de lo
 
 Cuando las obligaciones que se asuman, se hagan constar en valores o títulos de crédito, en el texto de los mismos se deberá indicar que sólo podrán ser negociados dentro del territorio nacional con personas físicas o morales de nacionalidad mexicana.
 
-El Congreso, previa solicitud del Gobierno del Estado y de los ayuntamientos, según sea el caso, podrá autorizar el ejercicio de montos y conceptos de endeudamientos netos adicionales a los previstos en las leyes de ingresos y en el presupuesto de egresos para el caso del Estado, o en los presupuestos de egresos para el caso de los municipios, cuando a juicio del propio Congreso se presenten circunstancias extraordinarias e imprevisibles que así lo exijan.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+
+El Congreso, podrá autorizar el ejercicio de montos y conceptos de endeudamientos netos adicionales a los previstos en las leyes de ingresos del Estado, o de los municipios, cuando a juicio del propio Congreso éstos cuenten con la capacidad de pago necesaria para hacer frente a dichas obligaciones.
 
 La contratación de deuda pública por parte de las entidades se sujetará a los montos de endeudamiento neto aprobados por el Congreso y a lo establecido en la presente Ley.
 
@@ -141,9 +143,13 @@ X. Reestructuración: modificación de tasas de interés, plazos, forma de pago 
 
 XI. Refinanciamiento: contratación de una deuda para pagar total o parcialmente otra existente;
 
-XII. Registro: el Registro de Deuda a cargo del Gobierno del Estado, de los Municipios y sus respectivas entidades, el cual estará a cargo de la Tesorería General; y,
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
 
-XlII. Tesorería General: la Tesorería General del Gobierno del Estado.
+XII. Registro: el Registro de Deuda a cargo del Gobierno del Estado, de los Municipios y sus respectivas entidades, el cual estará a cargo de la Secretaría de Finanzas y Administración; y,
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
+
+XIII. Secretaría de Finanzas y Administración: la Secretaría de Finanzas y Administración del Gobierno del Estado.
 
 > <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
 
@@ -161,7 +167,9 @@ Para los efectos de esta Ley, se entiende por inversiones públicas productivas 
 
 El Gobierno del Estado y los Ayuntamientos, tendrán las siguientes obligaciones y facultades en materia de deuda pública:
 
-A. Corresponde al Gobierno del Estado, por conducto de la Tesorería General:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2009)</small>
+
+A. Corresponde al Gobierno del Estado, por conducto de la Secretaría de Finanzas y Administración:
 
 I. Efectuar oportunamente, ya sea en forma directa o mediante los mecanismos que para tales efectos se establezcan conforme a esta Ley, los pagos de amortizaciones, intereses y los que haya lugar, derivados de la deuda a cargo del Estado;
 
@@ -179,7 +187,9 @@ VI. Negociar los términos y condiciones, contratar, celebrar y, en su caso, lle
 
 VII. Emitir valores, certificados, obligaciones, bonos y otros títulos de crédito, a cargo del Estado, ya sea directamente o a través de uno o varios fideicomisos, de conformidad con la legislación del mercado de valores aplicable, así como otorgar las garantías que se requieran, siempre y cuando dicha deuda esté comprendida en el endeudamiento neto autorizado por el Congreso, en el entendido que, cuando la emisión de los títulos se realice por conducto de fideicomisos, éstos no serán considerados, en ningún caso, parte de la Administración Pública Paraestatal y la deuda emitida por los mismos podrá ser con o sin recurso contra la entidad fideicomitente;
 
-VIII. Notificar a la Secretaría de Hacienda y Crédito Público o a cualquier otra autoridad competente conforme a los artículos 9º, 50 y demás disposiciones aplicables de la Ley de Coordinación Fiscal, cualquier afectación en garantía, como fuente de pago o de cualquier otra forma, de las aportaciones federales susceptibles de afectación o de las participaciones que en ingresos federales tenga derecho a percibir el Estado. Dicha notificación podrá contener una instrucción que señale los términos y condiciones aplicables al pago de dichos recursos, la cual sólo podrá ser modificada siempre y cuando se hayan cumplido los requisitos señalados en los contratos o documentos correspondientes para la modificación de dicha instrucción y no se afecten los derechos de los acreedores conforme a dichos contratos o documentos. La instrucción antes referida, así como cualquier modificación a la misma, notificada por el Gobierno del Estado, por conducto de la Tesorería General, a la Secretaría de Hacienda y Crédito Público o a cualquier otra autoridad competente conforme a los artículos 9º, 50 y demás disposiciones aplicables de la Ley de Coordinación Fiscal, deberá también notificarse al Registro;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
+
+VIII. Notificar a la Secretaría de Hacienda y Crédito Público o a cualquier otra autoridad competente conforme a los artículos 9°, 50 y demás disposiciones aplicables de la Ley de Coordinación Fiscal, cualquier afectación en garantía, como fuente de pago o de cualquier otra forma, de las aportaciones federales susceptibles de afectación o de las participaciones que en ingresos federales tenga derecho a percibir el Estado. Dicha notificación podrá contener una instrucción que señale los términos y condiciones aplicables al pago de dichos recursos, la cual sólo podrá ser modificada siempre y cuando se hayan cumplido los requisitos señalados en los contratos o documentos correspondientes para la modificación de dicha instrucción y no se afecten los derechos de los acreedores conforme a dichos contratos o documentos. La instrucción antes referida, así como cualquier modificación a la misma, notificada por el Gobierno del Estado, por conducto de la Secretaria de Finanzas y Administración, a la Secretaria de Hacienda y Crédito Público o a cualquier otra autoridad competente conforme a los artículos 9°, 50 y demás disposiciones aplicables de la Ley de Coordinación Fiscal, deberá también notificarse al Registro;
 
 IX. Autorizar a las entidades paraestatales para gestionar y contratar deuda, según se señala en el artículo 9º de esta Ley;
 
@@ -209,7 +219,9 @@ IX. Negociar los términos y condiciones, contratar celebrar y, en su caso, llev
 
 X. Emitir valores, certificados, obligaciones, bonos y otros títulos de crédito, a cargo del municipio, ya sea directamente o a través de uno o varios fideicomisos, de conformidad con la legislación del mercado de valores aplicable, así como otorgar las garantías que se requieran, siempre y cuando dicha deuda esté comprendida en el endeudamiento neto aprobado por el Congreso en la Ley de Ingresos o mediante decretos, en el entendido que dichos fideicomisos no serán considerados, en ningún caso, públicos o parte de la administración pública paramunicipal;
 
-XI. Notificar a la Secretaría de Hacienda y Crédito Público, a la Tesorería General y/o a cualquier otra autoridad competente conforme al artículo 9º, 50 y demás disposiciones aplicables de la Ley de Coordinación Fiscal, por conducto del responsable de las finanzas públicas municipales, cualquier afectación en garantía, como fuente de pago o de cualquier otra forma, de las aportaciones federales susceptibles de afectación o de las participaciones que en ingresos federales tengan derecho a recibir los municipios. Dicha notificación podrá contener una instrucción que señale los términos y condiciones aplicables al pago de los recursos de que se trate, la cual sólo podrá ser modificada siempre y cuando se hayan cumplido los requisitos señalados en los contratos o documentos correspondientes para la modificación de dicha instrucción y no se afecten los derechos de los acreedores conforme a dichos contratos o documentos. La instrucción antes referida, así como cualquier modificación a la misma, notificada por el Ayuntamiento, por conducto del responsable de las finanzas públicas municipales, a la Secretaría de Hacienda y Crédito Público, a la Tesorería General y/o a cualquier otra autoridad competente conforme a los artículos 9º, 50 y demás disposiciones aplicables de la Ley de Coordinación Fiscal, deberá también notificarse al registro de deuda pública municipal y al Registro;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
+
+XI. Notificar a la Secretaría de Hacienda y Crédito Público, a la Secretaria de Finanzas y Administración y/o a cualquier otra autoridad competente conforme al artículo 9°, 50 y demás disposiciones aplicables de la Ley de Coordinación Fiscal, por conducto del responsable de las finanzas públicas municipales, cualquier afectación en garantía, como fuente de pago o de cualquier otra forma, de las aportaciones federales susceptibles de afectación o de las participaciones que en ingresos federales tengan derecho a recibir los municipios. Dicha notificación podrá contener una instrucción que señale los términos y condiciones aplicables al pago de los recursos de que se trate, la cual sólo podrá ser modificada siempre y cuando se hayan cumplido los requisitos señalados en los contratos o documentos correspondientes para la modificación de dicha instrucción y no se afecten los derechos de los acreedores conforme a dichos contratos o documentos. La instrucción antes referida, así como cualquier modificación a la misma, notificada por el Ayuntamiento, por conducto del responsable de las finanzas públicas municipales, a la Secretaria de Hacienda y Crédito Público, a la Secretaria de Finanzas y Administración y/o a cualquier otra autoridad competente conforme a los artículos 9°, 50 y demás disposiciones aplicables de la Ley de Coordinación Fiscal, deberá también notificarse al registro de deuda pública municipal y al Registro;
 
 XII. Autorizar a las entidades paramunicipales para gestionar y contratar deuda, de conformidad con el artículo 9º de esta Ley; y,
 
@@ -221,9 +233,9 @@ XIII. Inscribir en el Registro la deuda contraída por los municipios y las enti
 
 Las entidades a que se refiere el artículo 3° de este ordenamiento, podrán contratar deuda pública en los términos de esta Ley, previa autorización del Congreso, con excepción de las operaciones previstas en el sexto párrafo del artículo 2° de esta propia Ley.
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2009)</small>
 
-Excepto en los casos previstos en el sexto párrafo del artículo 2° de esta Ley, para la contratación de deuda pública, se deberá contar con lo siguiente:
+Excepto en los casos previstos en el párrafo tercero del artículo 2° y el artículo 12 de esta Ley, para la contratación de deuda pública, se deberá contar con lo siguiente:
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
@@ -233,9 +245,9 @@ I. Estados financieros de los últimos tres ejercicios fiscales, sin que el esta
 
 II. Con la calificación otorgada por al menos dos instituciones calificadoras de valores reconocidas por la Secretaría de Hacienda y Crédito Público a través de la Comisión Nacional Bancaria y de Valores;
 
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2007)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
 
-III. Cuando se trate de las entidades a que se refiere la fracción II del artículo 3º de esta Ley y su presupuesto anual de ingresos no sea superior a setenta millones de pesos, actualizado anualmente con base al índice nacional de precios al consumidor que emita el Banco de México y las instituciones de crédito no establezcan como requisitos para las autorización y formalización de los empréstitos la calificación crediticia, se deberá contar con los dictámenes financieros sobre la viabilidad del crédito y la capacidad de endeudamiento, emitidos por la institución y crédito acreditante que opere en territorio nacional y la Tesorería General.
+III. Cuando se trate de las entidades a que se refiere la fracción II del artículo 3° de esta Ley y su presupuesto anual de ingresos no sea superior a setenta millones de pesos, actualizado anualmente con basé al índice nacional de precios al consumidor que emita el Banco de México y las instituciones de crédito no establezcan como requisito para la autorización y formalización de los empréstitos la calificación crediticia, se deberá contar con los dictámenes financieros sobre la viabilidad del crédito y la capacidad de endeudamiento, emitidos por la institución de crédito acreditante que opere en territorio nacional y la Secretaria de Finanzas y Administración.
 
 > <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
 
@@ -303,7 +315,9 @@ Asimismo, se requerirá la autorización previa del Congreso para que el Estado 
 
 De conformidad con lo establecido en el artículo 11, para el pago de la deuda que obtengan el Estado y los Municipios y/o los fideicomisos establecidos en la fracción III del artículo 3°, el Estado y los Municipios podrán formalizar mecanismos mediante la constitución de fideicomisos, los cuales no serán considerados, en ningún caso, parte de la administración pública estatal o municipal, según sea el caso, por lo que no les serán aplicables las disposiciones de las entidades paraestatales o paramunicipales, los cuales deberán prever, entre otros, los aspectos siguientes:
 
-I. En su caso, la notificación y/o instrucción irrevocable a la Tesorería de la Federación, a la Tesorería General y/o cualquier autoridad competente, de la afectación del derecho y/o los ingresos a las aportaciones federales susceptibles de afectación o a las participaciones que en ingresos federales les correspondan al Gobierno del Estado y a los Municipios y de cualesquiera otros ingresos y/o derechos susceptibles de afectación, para los efectos legales a que haya lugar en términos de los contratos correspondientes;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
+
+I. En su caso, la notificación y/o instrucción irrevocable a la Tesorería de la Federación, a la Secretaría de Finanzas y Administración y/o cualquier autoridad competente, de la afectación del derecho y/o los ingresos a las aportaciones federales susceptibles de afectación o a las participaciones que en ingresos federales les correspondan al Gobierno del Estado y a los Municipios y de cualesquiera otros ingresos y/o derechos susceptibles de afectación, para los efectos legales a que haya lugar en términos de los contratos correspondientes;
 
 II. En su caso, las transferencias de los montos de las participaciones y de las aportaciones federales susceptibles de afectación se sujetarán a las condiciones de pago establecidas en la Ley de Coordinación Fiscal y, en su caso, de los anticipos a que se refiere el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado por el Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público y el Gobierno del Estado, a las demás disposiciones aplicables y a los términos de los contratos de fideicomiso respectivos;
 
@@ -311,15 +325,17 @@ III. En su caso, las transferencias de cualesquiera otros ingresos y/o derechos 
 
 IV. Que el fiduciario realice el pago a los acreedores conforme a las condiciones pactadas en los contratos respectivos; y,
 
-V. Que el fiduciario, una vez realizados los pagos correspondientes, transfiera a la cuenta que le indique la Tesorería General o las tesorerías municipales, según sea el caso, el remanente de las participaciones o de las aportaciones federales o de cualquier otro ingreso susceptible de afectación que les correspondan.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
+
+V. Que el fiduciario, una vez realizados los pagos correspondientes, transfiera a la cuenta que le indique la Secretaría de Finanzas y Administración o las tesorerías municipales, según sea el caso, el remanente de las participaciones o de las aportaciones federales o de cualquier otro ingreso susceptible de afectación que les correspondan.
 
 > <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
 
 En caso de que se contrate deuda pública sin aval o responsabilidad solidaria del Gobierno del Estado o del Ayuntamiento, se podrá utilizar como mecanismo el pago directo al acreditante.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
 
-Para que los Municipios afecten aportaciones federales susceptibles de afectación, como fuente de pago, garantía o ambas de sus créditos de corto plazo, se requerirá la previa autorización del Congreso. El Congreso, cuando lo considere conveniente, podrá autorizar a dos o más municipios, la constitución de mecanismos de fuente de pago, garantía o ambos, a los que se afecte el derecho y/o los ingresos a las aportaciones federales que les correspondan, para el pago de sus créditos de corto plazo, en el entendido que los recursos o ingresos de un Municipio no podrán afectarse al pago de obligaciones de otro u otros. Los decretos correspondientes deberán autorizar los montos máximos de endeudamiento, el derecho y/o los ingresos cuya afectación se autoriza, los mecanismos que podrán constituirse y a los que podrán adherirse los Municipios que así lo decidan. Los Municipios, para celebrar las operaciones autorizadas en término de dichos decretos deberán contar con la previa aprobación de sus Ayuntamientos, en términos de las disposiciones aplicables.
+Para que los Municipios afecten aportaciones federales susceptibles de afectación, como fuente de pago, garantía o ambas de sus créditos, se requerirá la previa autorización del Congreso. El Congreso, cuando lo considere conveniente, podrá autorizar a dos o más municipios, la contratación de créditos y la constitución de mecanismos de fuente de pago, garantía o ambos, a los que se afecte el derecho y/o los ingresos a las aportaciones federales que les correspondan, para el pago de sus créditos, en el entendido que los recursos o ingresos de un Municipio no podrán afectarse al pago de obligaciones de otro u otros. Los decretos correspondientes deberán autorizar los montos máximos de endeudamiento, el plazo, el derecho y/o los ingresos cuya afectación se autoriza, los mecanismos que podrán constituirse y a los que podrán adherirse los Municipios que así lo decidan. Los Municipios, para celebrar las operaciones autorizadas en los términos de dichos decretos deberán contar con la previa aprobación de sus Ayuntamientos, en términos de las disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
 
@@ -329,21 +345,37 @@ Con el fin de cumplir con sus obligaciones en términos de la Ley de Coordinaci�
 
 Cuando los municipios garanticen deuda pública mediante la afectación de los recursos que les correspondan del Fondo de Aportaciones Federales para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, para el pago de los empréstitos garantizados con los recursos de dicho Fondo, se aplicará el mecanismo a que se refiere el artículo 12 de esta Ley.
 
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2009)</small>
+
+Los Municipios podrán afectar el Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal como garantía del cumplimiento de sus obligaciones de pago de derechos y aprovechamientos por concepto de agua y a aquellos otros conceptos a los que de acuerdo con la legislación federal aplicable puedan afectarse estas aportaciones federales, en términos de la Ley de Coordinación Fiscal.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2009)</small>
+
+En caso de incumplimiento por parte de los Municipios a sus obligaciones de pago de derechos y aprovechamientos por concepto de agua, la Comisión Nacional de Agua podrá solicitar al Estado, a través de la Secretaría de Finanzas y Administración, previa acreditación del incumplimiento, la retención y pago del adeudo con cargo a recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, siempre y cuando el adeudo tenga la antigüedad a que se refiere la Ley de Coordinación Fiscal.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2009)</small>
+
+El procedimiento a que se refiere el párrafo anterior, podrá aplicarse respecto del pago de otros conceptos a los que puedan destinarse los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, siempre y cuando las entidades federativas correspondientes cumplan los requisitos que para tales efectos prevean las leyes federales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2009)</small>
+
+###### Articulo 14.
+
+El Gobernador del Estado, podrá considerar la contratación de deuda para la ejecución de obras y acciones de inversión pública productiva, con base en la propuesta que mediante el acuerdo correspondiente expida el Comité de Deuda Pública, considerando el programa financiero que elaboren coordinadamente la Secretaría de Finanzas y Administración y la Coordinación de Planeación para el Desarrollo.
+
 > <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
-
-###### Artículo 14.
-
-El Gobernador del Estado, podrá considerar la contratación de deuda para la ejecución de obras y acciones de inversión pública productiva, con base en la propuesta que mediante el acuerdo correspondiente expida el Comité de Deuda Pública, considerando el programa financiero que elaboran coordinadamente la Tesorería General y la Secretaría de Planeación y Desarrollo Estatal.
 
 En el acuerdo a que se refiere el párrafo anterior, podrá quedar comprendida la inversión cuya ejecución corresponda a las entidades de la administración pública estatal que requieran del aval o responsabilidad solidaria del Gobierno del Estado.
 
-El Comité de Deuda Pública estará integrado por los titulares de la Tesorería General, de la Secretaría de Planeación y Desarrollo Estatal, de la Secretaría de la Contraloría y Desarrollo Administrativo, de la Oficialía Mayor, de la Secretaría de Desarrollo Económico y de la Secretaría de Comunicaciones y Obras Públicas.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
+El Comité de Deuda Pública estará integrado por los titulares de la Secretaria de Finanzas y Administración, de la Coordinación de Planeación para el Desarrollo, de la Coordinación de Contraloría, de la Secretaría de Desarrollo Económico y de la Secretaría de Comunicaciones y Obras Públicas.
 
-###### Artículo 15.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
 
-El Comité de Deuda Pública, adicionalmente al acuerdo a que se refiere el artículo 14 de esta Ley, expedirá los acuerdos mediante los cuales se autorice a la Tesorería General para que otorgue el aval o responsabilidad solidaria a entidades paraestatales, así como a municipios y entidades paramunicipales, con base en los dictámenes técnicos relativos a la capacidad de endeudamiento de los mismos, que emita la propia Tesorería General.
+###### Articulo 15.
+
+El Comité de Deuda Pública, adicionalmente al acuerdo a que se refiere el artículo 14 de esta Ley, expedirá los acuerdos mediante los cuales se autorice a la Secretaria de Finanzas y Administración para que otorgue el aval o responsabilidad solidaria a entidades paraestatales, así como a municipios y entidades paramunicipales, con base en los dictámenes técnicos relativos a la capacidad de endeudamiento de los mismos, que emita la propia Secretaría de Finanzas y Administración.
 
 > <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
 
@@ -359,31 +391,45 @@ I. Que se trate de municipios o entidades paramunicipales que no cuenten con cal
 
 II. Que se trate de municipio o entidades paramunicipales que contando con calificación crediticia, ésta sea inferior a la otorgada al Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+
 ###### Artículo 18.
 
-Para los efectos a que se refiere el artículo anterior, la Tesorería General emitirá dictámenes respecto de la capacidad de endeudamiento de los municipios o entidades paramunicipales de que se trate, con base en la información que las autoridades municipales le proporcionen, en la forma y términos que les sea requerida
+Para los efectos a que se refiere el artículo anterior, la Secretaría de Finanzas y Administración emitirá dictámenes respecto de la capacidad de endeudamiento de los municipios o entidades paramunicipales de que se trate, con base en la información que las autoridades municipales le proporcionen, en la forma y términos que les sea requerida.
 
 ### CAPITULO TERCERO. DEL REGISTRO ÚNICO DE OBLIGACIONES Y EMPRÉSTITOS
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2009)</small>
 
 ###### Artículo 19.
 
-Toda deuda contraída por las entidades de conformidad con esta Ley y las operaciones en las que el Congreso autorice afectaciones conforme al artículo 11 de esta Ley, deberán inscribirse en el Registro. Para tal efecto, la entidad que corresponda deberá solicitar a la Tesorería General la inscripción y acompañar la siguiente documentación:
+Toda deuda contraída por las entidades de conformidad con esta Ley y las operaciones en las que el Congreso autorice afectaciones conforme al artículo 11 de esta Ley, deberán inscribirse en el Registro. Para tal efecto, la entidad que corresponda deberá solicitar a la Secretaria de Finanzas y Administración la inscripción y acompañar la siguiente documentación:
+
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2007)</small>
 
 I. Original o copia certificada del documento o contrato en el que conste la deuda contraída por la entidad correspondiente, incluyendo copia certificada de los títulos de crédito que en su caso hayan sido suscritos, así como de las garantías y afectaciones otorgadas en relación con dicha deuda;
 
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2007)</small>
+
 II. Copia certificada del acta en la que conste el acuerdo del Ayuntamiento, en caso de deuda que contraigan los municipios, o copia certificada del acta en la que conste el acuerdo del consejo directivo u órgano de gobierno, en caso de deuda que contraigan entidades paraestatales y entidades paramunicipales;
+
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2007)</small>
 
 III. Declaración de la entidad correspondiente de que se cumplen con los requisitos previstos en el primer párrafo del artículo 2º de esta Ley; y,
 
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2007)</small>
+
 IV. En caso de afectaciones conforme al artículo 11 de la presente Ley, descripción de los elementos principales de la operación cuyo registro se solicita.
 
-La Tesorería General, una vez cumplidos los requisitos a que se refiere el artículo anterior, procederá a la inscripción solicitada y notificará a la entidad solicitante lo conducente. Si no se cumplen los requisitos para la inscripción, la propia Tesorería General lo notificará a la entidad solicitante para que, en su caso, subsane la omisión en un término no mayor de diez días hábiles contados a partir de la recepción de la notificación.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
 
-###### Artículo 20.
+La Secretaría de Finanzas y Administración, una vez cumplidos los requisitos a que se refiere el artículo anterior, procederá a la inscripción solicitada y notificará a la entidad solicitante lo conducente. Si no se cumplen los requisitos para la inscripción, la propia Secretada de Finanzas y Administración lo notificará a la entidad solicitante para que, en su caso, subsane la omisión en un término no mayor de diez días hábiles contados a partir de la recepción de la notificación.
 
-El Registro de Obligaciones y Empréstitos, estará a cargo de la Tesorería General, clasificándose según se asuman las obligaciones por:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2009)</small>
+
+###### Articulo 20.
+
+El Registro de Obligaciones y Empréstitos, estará a cargo de la Secretaría de Finanzas y Administración, clasificándose según se asuman las obligaciones por:
 
 I. El Gobierno del Estado;
 
@@ -401,9 +447,9 @@ a) Los correspondientes, en su caso, al Decreto mediante el cual se autorice la 
 
 b) En el caso de los gobiernos municipales y entidades paramunicipales, se deberán asentar los datos relativos al acuerdo del Cabildo correspondiente, mediante el cual se autorice previamente la contratación del empréstito respectivo;
 
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
 
-c) Los relativos a la identificación del acreedor, las calificaciones y los dictámenes financieros sobre la viabilidad del crédito y la capacidad de endeudamiento emitidos por la Institución de Crédito y la Tesorería General; y (sic),
+c) Los relativos a la identificación del acreedor, las calificaciones y los dictámenes financieros sobre la viabilidad del crédito y la capacidad de endeudamiento emitidos por la Institución de Crédito y la Secretaría de Finanzas y Administración;
 
 > <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
 
@@ -417,9 +463,11 @@ e) La fecha y hora de registro de cada deuda inscrita.
 
 Conforme a la fecha y hora de inscripción en el Registro, se dará preferencia a los acreedores con respecto a afectaciones en su beneficio como garantía, fuente de pago o de cualquier otra forma, del derecho a recibir participaciones o aportaciones federales derivadas de la coordinación fiscal u otro tipo de ingresos. En caso de que dichas afectaciones se hagan a través de un fideicomiso o un mecanismo similar para una o varias operaciones determinadas o determinables, a las obligaciones asociadas a ese fideicomiso o mecanismo aplicarán la prelación y preferencia en el pago indicada en los contratos de fideicomiso u otros documentos mediante los cuales se implementen los mecanismos legales correspondientes, sin perjuicio de la prelación que corresponda al fideicomiso o mecanismo en el Registro.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+
 ###### Artículo 21.
 
-Con base en el Registro de Obligaciones y Empréstitos que regula este Capitulo, la Tesorería General deberá publicar trimestralmente el estado de situación de la deuda directa y contingente del Gobierno del Estado, Entidades Paraestatales, Gobiernos Municipales y Entidades Paramunicipales.
+Con base en el Registro de Obligaciones y Empréstitos que regula este Capítulo, la Secretaría de Finanzas y Administración deberá publicar trimestralmente el estado de situación de la deuda directa y contingente del Gobierno del Estado, Entidades Paraestatales, Gobiernos Municipales y Entidades Paramunicipales.
 
 > <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2003)</small>
 
@@ -433,13 +481,13 @@ Las entidades a que se refiere el artículo 3° de esta Ley, deberán informar d
 
 Las operaciones inscritas en el Registro sólo podrán modificarse con los mismos requisitos y formalidades previstos para su inscripción, y siempre y cuando la entidad correspondiente manifieste, bajo protesta de decir verdad, que se han cumplido todos los requisitos legales acordados por las partes para llevar a cabo dicha modificación.
 
-> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
 
-###### Artículo 24.
+###### Articulo 24.
 
-Las entidades deberán informar trimestralmente a la Tesorería General, la situación que guarda la deuda contraída u operación a que hace referencia la parte final del artículo 11 de la presente Ley, celebrada por las mismas e inscrita en el Registro.
+Las entidades deberán informar trimestralmente a la Secretaria de Finanzas y Administración, la situación que guarde la deuda contraída u operación a que hace referencia la parte final del artículo 11 de la presente Ley, celebrada por las mismas e inscrita en el Registro.
 
-La entidad que haya cumplido con todas sus obligaciones derivadas de una deuda inscrita en el Registro, deberá solicitar a la Tesorería General la cancelación de dicha deuda, previa comprobación de su cumplimiento.
+La entidad que haya cumplido con todas sus obligaciones derivadas de una deuda inscrita en el Registro, deberá solicitar a la Secretaria de Finanzas y Administración la cancelación de dicha deuda, previa comprobación de su cumplimiento.
 
 ## TRANSITORIOS
 
@@ -488,3 +536,11 @@ P.O. 28 DE SEPTIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE MAYO DE 2009.
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Se derogan las disposiciones que se opongan a las disposiciones del presente Decreto.
+
+Artículo Tercero. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaria de Finanzas y Administración, para los efectos correspondientes.
