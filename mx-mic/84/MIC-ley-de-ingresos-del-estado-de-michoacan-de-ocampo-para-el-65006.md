@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-del-estado-de-michoacan-de-ocampo-para-el-65006
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2008-12-31"
-last_updated: "2008-12-31"
+last_updated: "2009-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65006&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE INGRESOS DEL ESTADO DE MICHOACAN DE OCAMPO, PARA EL EJERCICIO FISCAL DEL AÑO 2009
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el miércoles 31 de diciembre de 2008.
 
@@ -1217,7 +1217,7 @@ IV. Por la expedición de constancia o certificado de
 
 que se dispone de licencia para conducir. $ 89.00
 
-Por la expedición de licencias para conducir vehículos automotores a los trabajadores al servicio de las dependencias, coordinaciones y entidades de la Administración Pública Estatal, así como de los Poderes Legislativo y Judicial, se aplicará una cuota por el equivalente al 50% de las señaladas en los incisos A) y B) de la fracción I de este artículo, previa identificación de ser trabajador del Gobierno del Estado, así como fotocopia del último talón de cheque de la nómina mecanizada. No se realizará descuento alguno en las infracciones señaladas en los artículos 71 y 72 del Código Fiscal del Estado de Michoacán de Ocampo, por renovar extemporáneamente la licencia para conducir vehículos automotores,
+> <small>(DEROGADO ANTEPENULTIMO PARRAFO, P.O. 29 DE MAYO DE 2009)</small>
 
 Las cuotas por expedición de licencias a que se refiere la fracción I de este artículo, serán aplicadas independientemente de que se trate de expedición por primera vez o en sustitución de aquellas cuya vigencia haya concluido, por lo que, la expedición de estas nuevas licencias no causará recargos ni sanción de carácter fiscal.
 
@@ -1367,7 +1367,7 @@ Las cuotas establecidas en los numerales anteriores también se aplicarán cuand
 
 3) Habitacionales cuyo valor al término de su edificación exceda el límite a que se refiere el numeral anterior, se pagarán derechos por el equivalente a 6 días de salario mínimo.
 
-Se pagarán derechos por el equivalente al 50% de los señalados en los numerales 2) y 3) anteriores, cuando se trate de documentos de propiedad de bienes adquiridos mediante créditos hipotecarios otorgados por la Dirección de Pensiones Civiles del Estado a servidores públicos del Gobierno del Estado y de los municipios; por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) a los trabajadores al servicio de dependencias y entidades de la Administración Pública Federal y a los trabajadores de la educación; así como por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores (INFONAVIT), a los trabajadores en general.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 29 DE MAYO DE 2009)</small>
 
 C) Por registro de planos de fraccionamientos, por cada lote vendible:
 
@@ -1479,7 +1479,7 @@ Tratándose de reestructura de créditos garantizados con bienes inmuebles, se c
 
 Por la inscripción de documentos relativos a gravámenes por créditos para la adquisición de vivienda de interés social y popular, se pagarán derechos por 4 y 6 días de salario mínimo, respectivamente.
 
-Se pagarán únicamente el 50% de los derechos establecidos en el párrafo anterior, cuando se trate de gravámenes de bienes adquiridos mediante créditos hipotecarios otorgados por la Dirección de Pensiones Civiles del Estado a servidores públicos del Gobierno del Estado y de los municipios; por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) a los trabajadores al servicio de dependencias y entidades de la Administración Pública Federal y a los trabajadores de la educación; así como por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores (INFONAVIT) a los trabajadores en general.
+> <small>(DEROGADO ANTEPENULTIMO PARRAFO, P.O. 29 DE MAYO DE 2009)</small>
 
 Por la cancelación de gravámenes, se causará el 50 % de los derechos de inscripción que a los mismos correspondan conforme a este artículo.
 
@@ -1591,7 +1591,9 @@ C) Fuera de la oficina del Registro Civil, en días
 
 inhábiles. $1,224.00
 
-Las cuotas de los servicios señalados en los incisos B) Y C) anteriores, incluyen el 35% de honorarios de los jueces que realizan dichos servicios.
+Las cuotas de los servicios señalados en los incisos
+
+B) Y C) anteriores, incluyen el 35% de honorarios de los jueces que realizan dichos servicios.
 
 (F. DE E., P.O. 16 DE ENERO DE 2009) (F. DE E., P.O. 29 DE MAYO DE 2009)
 
@@ -2404,3 +2406,11 @@ DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, en Morelia, Michoacán de O
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 24 veinticuatro días del mes de diciembre del año 2008 dos mil ocho.
 
 SUFRAGIO EFECTIVO. NO REELECOÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.-LEONEL GODOY RANGEL.- EL SECRETARIO DE GOBIERNO.- FIDEL CALDERÓN TORREBLANCA. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE MAYO DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo.- Dése cuenta al Titular del Poder Ejecutivo del Estado y al Titular de la Secretaría de Finanzas y Administración.
