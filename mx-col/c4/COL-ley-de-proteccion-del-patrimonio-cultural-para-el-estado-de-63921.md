@@ -4,7 +4,7 @@ identifier: "COL-ley-de-proteccion-del-patrimonio-cultural-para-el-estado-de-639
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-11"
-last_updated: "2008-10-11"
+last_updated: "2009-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PROTECCION DEL PATRIMONIO CULTURAL PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 2009.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2008.
 
@@ -255,15 +255,27 @@ II. Un Presidente, que será el Secretario de Cultura;
 
 III. Un Secretario Ejecutivo, que será el Secretario de Educación; y
 
-IV. Cuatro Vocales que serán:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MAYO DE 2009)</small>
+
+IV.- Cinco vocales que serán:
 
 a) Un representante del Municipio donde se encuentra el bien considerado como patrimonio cultural:
 
 b) Un representante del ámbito literario, artístico, histórico, académico o ecológico debidamente registrado o de reconocido prestigio en la Entidad, con un mínimo de 5 años de actividad;
 
-c) Un representante del sector empresarial; y
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2009)</small>
 
-d) Una persona de destacada trayectoria en el ámbito del patrimonio cultural.
+c) Un representante del sector empresarial;
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2009)</small>
+
+d) Una persona de destacada trayectoria en el ámbito del patrimonio cultural, y
+
+> <small>(REFORMADO [N. DE. ADICIONADO], P.O. 30 DE MAYO DE 2009)</small>
+
+e) Un representante de la Universidad de Colima.
+
+> <small>(REFORMADO [N. DE. REPUBLICADO], P.O. 30 DE MAYO DE 2009)</small>
 
 Los cargos dentro del Consejo serán de carácter honorífico y su organización, funcionamiento y atribuciones deberán estar establecidos en el Reglamento de esta Ley.
 
@@ -612,3 +624,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 08 del mes de octubre del año dos mil ocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. HÉCTOR MICHEL CAMARENA. Rúbrica. EL SECRETARIO DE CULTURA, LIC. RUBÉN PÉREZ ANGUIANO. Rúbrica. EL SECRETARIO DE EDUCACIÓN, PROFR. CARLOS CRUZ MENDOZA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE MAYO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
