@@ -4,7 +4,7 @@ identifier: "AGU-codigo-electoral-del-estado-de-aguascalientes-65918"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-01-26"
-last_updated: "2009-01-26"
+last_updated: "2009-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 2009.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el jueves 26 de enero de 2009.
 
@@ -265,7 +265,7 @@ VI. Presentar dentro de un plazo de quince días, después de la jornada elector
 
 En las elecciones estatales, participarán los partidos políticos nacionales.
 
-La denominación de "partido político nacional” se reserva para los efectos de este Código, a las organizaciones políticas que obtengan su registro como tal ante el Instituto Federal Electoral y su constancia de acreditación ante el Consejo.
+La denominación de "partido político nacional" se reserva para los efectos de este Código, a las organizaciones políticas que obtengan su registro como tal ante el Instituto Federal Electoral y su constancia de acreditación ante el Consejo.
 
 Los partidos políticos nacionales, tienen personalidad jurídica, gozan de derechos y prerrogativas, y quedan sujetos a las obligaciones que establecen la Constitución Política de los Estados Unidos Mexicanos, las leyes federales, así como la Constitución Política del Estado de Aguascalientes, el presente Código y leyes aplicables.
 
@@ -5199,9 +5199,11 @@ Se abroga el Código Electoral del Estado de Aguascalientes publicado en el Peri
 
 Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2009)</small>
+
 ###### ARTÍCULO CUARTO.
 
-A más tardar el 31 de mayo del 2009, el Congreso del Estado deberá nombrar a los tres consejeros electorales permanentes del Consejo General del Instituto Estatal Electoral, los cuales tomarán posesión de su cargo el día 15 de agosto del 2009, por lo que los Consejeros Ciudadanos concluirán sus funciones el día 14 de agosto del 2009. Los consejeros ciudadanos tendrán derecho a participar dentro del proceso para la designación de los tres consejeros electorales permanentes.
+A más tardar el 31 de julio del año 2009, el Congreso del Estado deberá nombrar a los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, los cuales tomarán posesión de su cargo el día 14 de marzo del año 2010. Por esta única ocasión, los Consejeros Electorales que asumirán su cargo el día 14 de marzo del año 2010, durarán en su cargo 4 años, concluyendo el ejercicio de su función el día 13 de marzo del año 2014.
 
 ###### ARTÍCULO QUINTO.
 
@@ -5254,3 +5256,11 @@ Luis Armando Reynoso Femat.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Juan Ángel José Pérez Talamantes.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL CODIGO.</small>
+
+P.O. 30 DE MAYO DE 2009.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
