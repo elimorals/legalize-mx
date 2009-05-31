@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-control-sanitario-de-productos-y-servicios-14576"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-09"
-last_updated: "2006-04-06"
+last_updated: "2009-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14576&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-07-29"
 
 REGLAMENTO DE CONTROL SANITARIO DE PRODUCTOS Y SERVICIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MAYO DE 2009.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 9 de agosto de 1999.
 
@@ -1449,37 +1449,59 @@ No se podrán vender bebidas alcohólicas por medio de máquinas automáticas. T
 
 Para fines promocionales, las presentaciones a que se refiere el párrafo anterior sólo se podrán comercializar en empaques para colección, ya sean múltiples o colectivos, o cuando formen parte de presentaciones artesanales con fines de ornato, o individualmente en tiendas de aeropuertos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
+
+> <small>(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)</small>
+
 ## TÍTULO VIGÉSIMO PRIMERO. Tabaco
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
+
+> <small>(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)</small>
 
 ### Capítulo Único
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
+
 ###### ARTÍCULO 180.
 
-Para efectos de este Reglamento, se entiende por productos de tabaco a los obtenidos con las hojas de la planta Nicotina Tabacum tratadas bajo condiciones sanitarias que pueden estar adicionadas o no de otros ingredientes.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
 
 ###### ARTÍCULO 181.
 
-En la preparación de productos de tabaco se deberán observar los niveles máximos de nicotina y alquitrán, así como los métodos de medición que al efecto se establezcan en las normas correspondientes.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
 
 ###### ARTÍCULO 182.
 
-En las etiquetas de los envases en que se expendan o suministren cigarros o cigarrillos deberá indicarse en forma clara y visible y sobre un fondo que contraste, la cantidad de nicotina y alquitrán que contienen dichos productos.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
 
 ###### ARTÍCULO 183.
 
-No se podrán vender cigarros o cigarrillos por unidad ni en envases o cajetillas menores de 14 unidades.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
 
 ###### ARTÍCULO 184.
 
-La venta de productos de tabaco, a través de máquinas automáticas, se podrá realizar únicamente en establecimientos visitados mayoritariamente por adultos. La empresa comercializadora de estos productos por este medio, deberá notificar a la Secretaría de su ubicación y asumirá la corresponsabilidad de evitar la venta a menores de edad con el dueño o arrendatario del establecimiento donde se ubiquen las máquinas.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
 
 ###### ARTÍCULO 185.
 
-En la venta o suministro de productos de tabaco se deberá exigir identificación oficial cuando por la apariencia física de quien lo reciba no sea evidente su mayoría de edad. En caso de no presentarla, no se podrán vender o suministrar los productos.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
 
 ###### ARTÍCULO 186.
 
-Los establecimientos que expendan o suministren productos de tabaco no podrán tenerlos al libre acceso del público.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
 
 ## TÍTULO VIGÉSIMO SEGUNDO. Productos de perfumería, belleza y aseo
 
@@ -4935,19 +4957,17 @@ En las canastillas y cartones de empaque, con excepción de las presentaciones a
 
 Las etiquetas podrán contener la clasificación señalada en el artículo 176 del presente Reglamento, la cual, cuando se utilice, deberá aparecer como lo señala dicho artículo y no deberá ser utilizada con fines promocionales, ni de publicidad de los productos. Los textos de las leyendas precautorias no podrán modificarse ni usar superlativos relativos a la clasificación.
 
-XIX. Tabaco.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
 
-XIX.1. En los envases o cajetillas de los cigarros o cigarrillos, tabaco para pipa y tabaco para mascar deberán figurar en forma legible y clara, con colores contrastantes, en letra mayúscula tipo helvética condensada y en caracteres de 2mm de altura como mínimo, las leyendas de advertencia, conforme a lo establecido en la Ley.
+XIX. (DEROGADA POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
 
-Tratándose de puros, el tamaño de los caracteres de las leyendas de advertencia no deberá ser menor de 1,5mm, en presentaciones individuales y, en el caso de envases colectivos o múltiples, deberá ser de 6mm como mínimo cuando se trate de envases con medidas de hasta 27,5cm de ancho, 21,5cm de fondo y 10,5cm de altura. El tamaño de las leyendas será proporcionalmente menor o mayor en los envases con medidas inferiores o superiores a las anteriormente señaladas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
 
-Las leyendas de advertencia a que se refiere este punto podrán figurar en dimensiones mayores a las establecidas en el presente apartado, cuando los productores de tabaco lo consideren conveniente.
+XIX.1. (DEROGADA POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
 
-XIX.2. En los envases o cajetillas de los productos señalados en este apartado deberá figurar en forma legible y clara, con colores contrastantes, con letra mayúscula tipo helvética regular y en caracteres de 1mm de altura como mínimo, la siguiente leyenda: "Venta prohibida a menores".
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
 
-La leyenda a que se refiere el párrafo anterior deberá mantener a su alrededor espacios libres de 2mm en presentaciones de 20 cigarros o cigarrillos y, en presentaciones de menor contenido, de 1mm hacia arriba y hacia abajo y de 2mm a los lados.
-
-Las leyendas de advertencia a que se refiere este punto podrán figurar en dimensiones mayores a las establecidas en el presente apartado, cuando los productores de tabaco lo consideren conveniente.
+XIX.2. (DEROGADA POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
 
 XX. Productos de perfumería, belleza y aseo.
 
@@ -5328,3 +5348,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto se atenderán hasta su conclusión conforme a las disposiciones vigentes al momento de su presentación.
 
 TERCERO.- Se establece un plazo de cuatro meses a partir de la entrada en vigor del presente Decreto para incluir en el etiquetado de las bebidas adicionadas con cafeína a que se refiere la fracción II Bis del artículo 101 del Reglamento de Control Sanitario de Productos y Servicios, el término "bebidas adicionadas con cafeína", conforme a lo establecido por el artículo 25 del mismo Reglamento.
+
+D.O.F. 31 DE MAYO DE 2009.
+
+PRIMERO.- El presente Reglamento entrará en vigor a los 30 días naturales siguientes de su publicación en el Diario Oficial de la Federación.
+
+...
+
+TERCERO.- Se derogan el capítulo III del Título Cuarto del Reglamento de la Ley General de Salud en materia de publicidad; el Título Vigésimo Primero del Reglamento de Control Sanitario de Productos y Servicios y las fracciones XIX, XIX.1 y XIX.2 del Apéndice del Reglamento de Control Sanitario de Productos y Servicios, publicado en el Diario Oficial de la Federación el 19 de agosto de 1999.
+
+...
