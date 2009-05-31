@@ -4,7 +4,7 @@ identifier: "FED-reglamento-sobre-consumo-de-tabaco-16510"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-07-27"
-last_updated: "2000-07-27"
+last_updated: "2009-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16510&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2000-07-26"
 
 REGLAMENTO SOBRE CONSUMO DE TABACO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, PUBLICADO EN EL D.O.F. DE 31 DE MAYO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de julio de 2000.
 
@@ -304,3 +306,15 @@ Se sancionará con multa hasta cincuenta veces el salario mínimo general diario
 ÚNICO. El presente Reglamento entrará en vigor a los treinta días siguientes de su publicación en el Diario Oficial de la Federación.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de julio de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Salud, José Antonio González Fernández.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL REGLAMENTO.
+
+D.O.F. 31 DE MAYO DE 2009.
+
+PRIMERO.- El presente Reglamento entrará en vigor a los 30 días naturales siguientes de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento sobre Consumo de Tabaco, publicado en el Diario Oficial de la Federación el 27 de julio de 2000, una vez que entre en vigor el presente Reglamento.
+
+...
