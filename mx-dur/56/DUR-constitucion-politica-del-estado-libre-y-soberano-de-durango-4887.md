@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2009-02-12"
+last_updated: "2009-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2009.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -55,11 +55,11 @@ CONSTITUCION POLITICA DEL ESTADO DE DURANGO
 
 ### CAPITULO PRIMERO. DE LAS GARANTIAS Y LOS DERECHOS SOCIALES
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 1.
 
-En el Estado de Durango todas las personas gozarán de las garantías y derechos sociales tutelados por la Constitución Política de los Estados Unidos Mexicanos; los estipulados en los Tratados Internacionales suscritos por el estado mexicano en materia de derechos humanos y que hayan sido ratificados por el Senado, así como los que señala esta Constitución, los que no podrán suspenderse ni restringirse sino en los casos y condiciones que la misma Constitución Federal señala.
+El Estado de Durango reconoce, protege y garantiza el derecho a la vida de todo ser humano, al sustentar expresamente que desde el momento de la fecundación entra bajo la protección de la ley y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural, salvo las excepciones que establezca la ley. Asimismo, en el Estado de Durango todas las personas gozarán de las garantías y derechos sociales tutelados por la Constitución Política de los Estados Unidos Mexicanos; los estipulados en los Tratados Internacionales suscritos por el estado mexicano en materia de derechos humanos y que hayan sido ratificados por el Senado, así como los que señala esta Constitución, los que no podrán suspenderse ni restringirse sino en los casos y condiciones que la misma Constitución federal señala.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JULIO DE 2007)</small>
 
@@ -2910,3 +2910,9 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones que contravengan el presente decreto.
 
 Artículo Tercero.- El desahogo de las iniciativas pendientes de dictaminar a la entrada en vigor del presente Decreto, se llevará a cabo conforme al procedimiento vigente al momento de su admisión.
+
+P.O. 31 DE MAYO DE 2009.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Dentro de un plazo de 180 días, contados a partir de la entrada en vigor del presente decreto, el Congreso del Estado deberá realizar las adecuaciones legislativas que resulten pertinentes.
