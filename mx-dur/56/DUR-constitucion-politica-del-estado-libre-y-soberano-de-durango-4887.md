@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2009-02-12"
+last_updated: "2009-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,23 +21,23 @@ state: "DUR"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-CÓDIGO DE CONDUCTA DEL FIDEICOMISO BALNEARIO AGUA HEDIONDA
+CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2009.
 
-Código publicado en el Periódico Oficial del Estado de Morelos, el miércoles 2 de octubre de 2019.
+Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
-Al margen superior izquierdo un logotipo que dice: BALNEARIO AGUA HEDIONDA.- MANANTIAL ÚNICO EN EL MUNDO. Al centro un Escudo del Estado de Morelos que dice: “Tierra y Libertad”.- La tierra volverá a quienes la trabajan con sus manos.- 2018-2024, y un logotipo que dice Morelos Anfitrión del Mundo Gobierno del Estado 2018-2024.
+CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ING. MARCELINO ESPINOZA GÓMEZ, DIRECTOR GENERAL DEL FIDEICOMISO BALNEARIO AGUA HEDIONDA; CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 1, 3 y 82 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS; 1, 21, 22 Y TERCERA DISPOSICIÓN TRANSITORIA DEL CÓDIGO DE ÉTICA Y REGLAS DE INTEGRIDAD A QUE DEBEN SUJETARSE LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL; Y CON BASE EN LA SIGUIENTE:
+EXPEDIDA POR EL XXVI CONGRESO CONSTITUCIONAL DEL MISMO, CON EL CARACTER DE CONSTITUYENTE.
 
-EXPOSICIÓN DE MOTIVOS
+DOMINGO ARRIETA, Gobernador Constitucional del Estado Libre y Soberano de Durango, a sus habitantes, sabed:
 
-Derivado de la publicación del Código de Ética y Reglas de Integridad a las que deben de sujetarse los Servidores Públicos de la Administración Pública Estatal, emitida por el, Gobernador Constitucional del Estado Libre y Soberano de Morelos, Cuauhtémoc Blanco Bravo, publicado en el Periódico Oficial 5674 “Tierra y Libertad” de fecha ocho de febrero de dos mil diecinueve, y en términos de lo dispuesto en el artículo 109, fracción III, de la Constitución Política de los Estados Unidos Mexicanos, los servidores públicos deben sujetarse a los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia, en el ejercicio de sus funciones, empleos, cargos y comisiones, de conformidad con lo establecido en la Ley Estatal de Responsabilidades Administrativas para el Estado de Morelos, que señala que los servidores públicos observarán en el desempeño de su empleo, cargo o comisión, los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen en el servicio público. Así también, en términos de lo dispuesto por el artículo 16 de la Ley General de Responsabilidades Administrativas, los servidores públicos deberán observar el Código de Ética, que al efecto sea emitido por las Secretarías o los Órganos Internos de Control, conforme a los lineamientos que emita el Sistema Nacional Anticorrupción, para que en su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño.
+Que la Legislatura del mismo ha tenido a bien dirigirme el siguiente decreto número 11:
 
-Derivado de lo anterior, y en cumplimiento a los artículos 22 y 23 del Código de Ética y Reglas de Integridad a las que deben de sujetarse los Servidores Públicos de la Administración Pública Estatal, el Fideicomiso Balneario Agua Hedionda tiene a bien expedir el presente Código de Conducta el cual define los principios, valores y reglas de integridad, a las que deberá apegarse el personal. Así mismo, se constituye el Comité de Ética del Fideicomiso Balneario Agua Hedionda, quien será el Órgano encargado de fomentar y vigilar su debido cumplimiento.
+El XXVI H. Congreso del Estado de Durango, con el carácter de Constituyente, a nombre del pueblo, decreta la siguiente Constitución Política del mismo Estado.
 
-CÓDIGO DE CONDUCTA DEL FIDEICOMISO BALNEARIO AGUA HEDIONDA
+LA H. LII LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A NOMBRE DEL PUEBLO DECRETA:
 
 ###### ARTICULO UNICO.
 
@@ -51,241 +51,303 @@ CONSTITUCION POLITICA DEL ESTADO DE DURANGO
 
 ## TITULO PRIMERO
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE FEBRERO DE 2009)</small>
+
+### CAPITULO PRIMERO. DE LAS GARANTIAS Y LOS DERECHOS SOCIALES
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2009)</small>
+
+###### ARTICULO 1.
+
+El Estado de Durango reconoce, protege y garantiza el derecho a la vida de todo ser humano, al sustentar expresamente que desde el momento de la fecundación entra bajo la protección de la ley y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural, salvo las excepciones que establezca la ley. Asimismo, en el Estado de Durango todas las personas gozarán de las garantías y derechos sociales tutelados por la Constitución Política de los Estados Unidos Mexicanos; los estipulados en los Tratados Internacionales suscritos por el estado mexicano en materia de derechos humanos y que hayan sido ratificados por el Senado, así como los que señala esta Constitución, los que no podrán suspenderse ni restringirse sino en los casos y condiciones que la misma Constitución federal señala.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JULIO DE 2007)</small>
+
+###### ARTICULO 2.
+
+En el Estado de Durango queda prohibida toda clase de servidumbre que implique la explotación o menoscabo de la dignidad de los trabajadores; igualmente queda prohibida toda discriminación motivada por origen étnico o nacional, género, edad, discapacidad, condición social, condición de salud, religión, opinión, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2004)</small>
+
+El Estado tiene una composición pluricultural sustentada originalmente en los pueblos y comunidades indígenas; las leyes reconocerán la diversidad cultural, protegerán y promoverán el desarrollo de los pueblos indígenas existentes en el Estado, sus lenguas, valores culturales, usos, costumbres, recursos y formas de organización social; así como el derecho de los pueblos y comunidades indígenas para elegir a sus autoridades de acuerdo a sus usos, costumbres y tradiciones.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2004)</small>
+
+La conciencia de su identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2004)</small>
+
+El derecho de los pueblos indígenas a la libre determinación se ejercerá en un marco constitucional de autonomía que asegure la unidad duranguense.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2004)</small>
+
+A. Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación y, en consecuencia, a la autonomía para:
+
+I. Decidir sus formas internas de convivencia y organización social, económica, política y cultural.
+
+II. Aplicar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a los principios generales de esta Constitución, respetando las garantías individuales, los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres.
+
+III. Elegir de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la participación de las mujeres en condiciones de equidad frente a los varones, en un marco que respete el pacto federal y la soberanía de la entidad.
+
+IV. Preservar y enriquecer sus lenguas, conocimientos y todos los elementos que constituyan su cultura e identidad.
+
+V. Conservar y mejorar el hábitat y preservar la integridad de sus tierras en los términos establecidos en esta Constitución.
+
+VI. Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra establecidas en la Constitución General de la Republica y leyes de la materia.
+
+VII. Elegir, en los municipios con población indígena, representantes ante los ayuntamientos, con el propósito de fortalecer la participación y representación política de conformidad con sus tradiciones y normas internas.
+
+VIII. Acceder plenamente a la jurisdicción del Estado. Para garantizar ese derecho, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se deberán tomar en cuenta sus costumbres y especificidades culturales respetando los preceptos de esta Constitución. Los indígenas tienen en todo tiempo el derecho a ser asistidos por intérpretes y defensores que tengan conocimiento de su lengua y cultura.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2004)</small>
+
+B. El Estado y los Municipios, para promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria, establecerán las instituciones y determinarán las políticas necesarias para garantizar la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales deberán ser diseñadas y operadas conjuntamente con ellos.
+
+Para abatir las carencias y rezagos que afectan a los pueblos y comunidades indígenas, dichas autoridades, tienen la obligación de:
+
+I. Impulsar el desarrollo regional de las zonas indígenas con el propósito de fortalecer las economías locales y mejorar las condiciones de vida de sus pueblos, mediante acciones coordinadas entre el Gobierno del Estado y los Municipios, con la participación de las comunidades. Las autoridades municipales determinarán, equitativamente las asignaciones presupuestales que las comunidades administrarán directamente para fines específicos, de conformidad con las leyes de la materia.
+
+II. Garantizar e incrementar los niveles de escolaridad, favoreciendo la educación bilingüe e intercultural, la alfabetización, la conclusión de la educación básica, la capacitación productiva y la educación media superior y superior. Establecer un sistema de becas para los estudiantes indígenas en todos los niveles. Definir y desarrollar programas educativos de contenido regional que reconozcan la herencia cultural de sus pueblos, de acuerdo con las leyes de la materia y en consulta con las comunidades indígenas. Impulsar el respeto y conocimiento de las diversas culturas existentes en la nación y el Estado.
+
+III. Asegurar el acceso efectivo a los servicios de salud mediante la ampliación de la cobertura del sistema nacional, aprovechando debidamente la medicina tradicional, así como apoyar la nutrición de los indígenas mediante programas de alimentación, en especial para la población infantil.
+
+IV. Mejorar las condiciones de las comunidades indígenas y de sus espacios para la convivencia y recreación, mediante acciones que faciliten el acceso al financiamiento público y privado para la construcción y mejoramiento de vivienda, así como ampliar la cobertura de los servicios sociales básicos.
+
+V. Propiciar la incorporación de las mujeres indígenas al desarrollo, mediante el apoyo a los proyectos productivos, la protección de su salud, el otorgamiento de estímulos para favorecer su educación y su participación en la toma de decisiones relacionadas con la vida comunitaria.
+
+VI. Apoyar las actividades productivas y el desarrollo sustentable de las comunidades indígenas mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, la aplicación de estímulos para las inversiones públicas y privadas que propicien la creación de empleos, la incorporación de tecnologías para incrementar su propia capacidad productiva, así como para asegurar el acceso equitativo a los sistemas de abasto y comercialización.
+
+VII. Establecer políticas sociales para proteger a los migrantes de los pueblos indígenas, tanto en el territorio del Estado, mediante acciones para garantizar los derechos laborales de los jornaleros agrícolas; mejorar las condiciones de salud de las mujeres; apoyar con programas especiales de educación y nutrición a niños y jóvenes de familias migrantes; velar por el respeto de sus derechos humanos y promover la difusión de sus culturas.
+
+VIII. Consultar a los pueblos indígenas en la elaboración del (sic) Planes Estatal y Municipales de Desarrollo y, en su caso, incorporar las recomendaciones y propuestas que realicen.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2004)</small>
+
+Sin perjuicio de los derechos aquí establecidos a favor de los indígenas, sus comunidades y pueblos, toda comunidad equiparable a aquéllos tendrá en lo conducente los mismos derechos tal y como lo establezca la ley.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+
+###### ARTICULO 3.
+
+En el Estado de Durango, toda persona tiene derecho a la libertad, la seguridad personal, y a una vivienda digna y decorosa, adecuada a las necesidades del hogar, al trabajo y a la educación.
+
+Los habitantes del Estado tienen derecho a vivir y crecer en un ambiente saludable y equilibrado. Las autoridades desarrollarán planes y programas destinados a la preservación, aprovechamiento racional y mejoramiento de los recursos naturales, de la flora y la fauna existentes en su territorio, así como para la prevención y combate a la contaminación ambiental.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+
+###### ARTICULO 4.
+
+La educación que se imparta en el Estado de Durango se sujetará a lo dispuesto en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y su legislación reglamentaria, de acuerdo al federalismo educativo derivado del régimen de concurrencia de facultades en materia educativa.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+
+El Gobierno del Estado, desarrollará y promoverá el enriquecimiento, conservación y difusión de los bienes que integran el patrimonio artístico, histórico, científico y cultural, y llevará a cabo el establecimiento y desarrollo de programas especiales, para una mejor integración a la sociedad, de las personas con discapacidad y miembros de la tercera edad.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+
+En el caso de las etnias duranguenses, la educación será bilingüe y respetando sus costumbres y tradiciones.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 1994)</small>
+
+Las particulares podrán impartir educación en todos sus tipos y modalidades, debiendo obtener autorización expresa o reconocimiento del poder público, en cada caso, en los términos que establezcan la legislación federal y estatal en materia educativa.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 1994)</small>
+
+En los términos de la legislación aplicable, el Gobierno del Estado podrá otorgar, negar y revocar autorización a los particulares para impartir educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica; también podrá otorgar, negar y retirar el reconocimiento de validez oficial a estudios distintos a los señalados en este párrafo.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 1994)</small>
+
+Además de impartir la educación básica, el Gobierno del Estado, promoverá y prestará la educación -media superior- y la superior; asimismo promoverá la investigación científica y tecnológica y la difusión de la cultura duranguense en el contexto de la cultura nacional.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 1994)</small>
+
+El Poder Ejecutivo del Estado podrá otorgar, mediante decreto, el estatus de escuelas libres de educación superior, a aquellas instituciones educativas particulares que lo soliciten y cumplan con los requisitos exigidos por la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 1994)</small>
+
+El Congreso expedirá las leyes que regulen la prestación del servicio educativo en el ámbito de la competencia estatal y establecerá las sanciones y los procedimientos aplicables a quienes infrinjan, no cumplan o no hagan cumplir las disposiciones relativas. Asimismo, deberá fijar las partidas presupuestales y en general las aportaciones financieras suficientes destinadas a ese servicio público.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 1994)</small>
+
+El Congreso expedirá la ley que determine cuales son las profesiones que requieran título para su ejercicio, las condiciones que deban llenarse para obtenerlo y las autoridades facultadas para expedirlo.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+
+###### ARTICULO 5.
+
+Los funcionarios y empleados públicos respetarán el ejercicio del derecho de petición, siempre que ésta se formule por escrito, de manera pacífica y respetuosa.
+
+A toda petición deberá recaer un acuerdo de la autoridad, a quien se haya formulado, en el que ésta expresará, motivada y fundadamente, si concede o niega lo solicitado. La autoridad tiene obligación de notificar su resolución al peticionario dentro del término que señalan las leyes aplicables y que en ningún caso excederá de noventa días naturales, contados a partir de la fecha en que se presentó la solicitud.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE JULIO DE 2008)</small>
+
+La manifestación de las ideas no puede ser objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de tercero, provoque algún delito, o perturbe el orden público; el derecho de réplica será garantizado por el Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE JULIO DE 2008)</small>
+
+El ejercicio del derecho de acceso a la información en el Estado, se regirá por los siguientes principios y bases:
+
+I. Toda la información en posesión de cualquier autoridad, dependencia, entidad, unidad administrativa, órgano y organismo estatal y municipal es pública, y sólo podrá ser reservada temporalmente por razones de interés público en los términos que fije la ley.
+
+Para la interpretación de este derecho, deberá prevalecer el principio de máxima publicidad;
+
+II. La información que se refiere a la vida privada y los datos personales, será protegida en los términos y con las excepciones que fije la ley;
+
+III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos, en términos de la legislación aplicable;
+
+IV. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos, estos últimos se sustanciarán ante órganos u organismos especializados, imparciales y con autonomía operativa, de gestión y de decisión;
+
+V. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán a través de los medios electrónicos disponibles, la información completa y actualizada sobre sus indicadores de gestión y el ejercicio de los recursos públicos;
+
+VI. Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales; y
+
+VII. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 1988)</small>
+
+###### ARTICULO 6.
+
+No deben expedirse ni aplicarse leyes privativas; nadie será juzgado por Tribunales o Autoridades Especiales.
+
+Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar sus derechos.
+
+Toda persona tiene derecho a que se le administre justicia por Tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las Leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial; sus servicios serán gratuitos, quedando en consecuencia prohibidas las costas judiciales.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2009)</small>
+
+Las personas podrán acudir a los mecanismos alternativos de solución de controversias que prevean las leyes, para resolver sus conflictos de común acuerdo. En materia penal, regularán su aplicación, asegurarán la reparación del daño y establecerán los casos en los que se requerirá supervisión judicial.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2009)</small>
+
+La imposición de las penas, su modificación y duración son propias y exclusivas de la autoridad judicial.
+
+Nadie puede ser aprisionado por deudas de carácter puramente civil.
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2003)</small>
+
+###### ARTICULO 7.
+
+Toda resolución de autoridad administrativa será de acuerdo a la letra de la Ley y en su caso conforme a la interpretación jurídica de la misma.
+
+En el Estado de Durango se instituye un Tribunal de lo Contencioso Administrativo, dotado de plena autonomía; que tendrá a su encargo dirimir las controversias que se susciten entre la Administración Pública y los particulares.
+
+Los requisitos para ser Magistrado del Tribunal de lo Contencioso Administrativo, la forma de elección y el período de ejercicio en el encargo, serán los mismos que establece esta Constitución para ser Magistrado del Tribunal Superior de Justicia.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 8.
+
+El patrimonio familiar es inalienable. En ningún caso podrá menoscabarse y no será objeto de embargo, ni de gravamen alguno.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2009)</small>
+
+###### ARTICULO 9.
+
+Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento.
+
+Toda persona imputada tendrá derecho a que se presuma su inocencia en tanto no se dicte sentencia condenatoria en contrario.
+
+No podrá librarse orden de aprehensión contra persona alguna, sino por la autoridad judicial y sin que preceda denuncia o querella de un hecho determinado que la ley señale como delito, sancionado cuando menos con pena privativa de libertad y obren datos que establezcan que se ha cometido ese hecho y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión.
+
+En todo proceso de orden penal, el imputado, la víctima y el ofendido tendrán las garantías que señalan los artículos 19 y 20, de la Constitución Política de los Estados Unidos Mexicanos.
+
+El proceso penal será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad, inmediación e igualdad procesal, cuya sustanciación será establecida en la ley reglamentaria. La etapa de juicio oral se celebrará ante un Juez o Tribunal que no haya conocido del caso previamente.
+
+La investigación de los delitos corresponde al Ministerio Público y a los cuerpos de seguridad pública, mismos que actuarán bajo la conducción y mando de aquél en el ejercicio de esta función.
+
+El ejercicio de la acción penal ante los órganos jurisdiccionales, corresponde al Ministerio Público. Los particulares también podrán ejercer la acción penal ante la autoridad judicial en los casos que determine la ley.
+
+El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que señale la ley.
+
+La Autoridad que ejecute una orden judicial de aprehensión deberá poner al imputado a disposición del juez, sin dilación alguna y bajo su más estricta responsabilidad. La contravención a lo anterior, será sancionada por la ley penal.
+
+Cualquier persona puede detener al imputado en el momento en que esté cometiendo un delito o inmediatamente después de haberlo cometido, poniéndolo sin demora a disposición de la autoridad más cercana; y ésta, con la misma prontitud, ante el Ministerio Público. En todo caso, existirá un registro inmediato de la detención.
+
+Sólo en casos urgentes, cuando se trate de delito grave así calificado por la ley y ante el riesgo fundado de que el imputado pueda sustraerse a la acción de la justicia, siempre y cuando no se pueda ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancia, el Ministerio Público, podrá bajo su responsabilidad, ordenar su detención, fundando y expresando los indicios que motiven su proceder.
+
+En casos de urgencia o flagrancia, el juez que reciba la consignación del detenido deberá inmediatamente ratificar la detención o decretar la libertad con las reservas de ley.
+
+Ningún imputado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenar su libertad o ponérsele a disposición de la autoridad judicial. Todo abuso a lo anteriormente dispuesto será sancionado por la ley penal. En toda orden de cateo, que sólo la autoridad judicial podrá expedir a solicitud del Ministerio Público, se expresará el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse y los objetos que se buscan, a lo que únicamente debe limitarse la diligencia, levantándose al concluirla un acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado o en su ausencia o negativa, por la autoridad que practique la diligencia. La autoridad administrativa podrá practicar visitas domiciliarias únicamente para cerciorarse de que se han cumplido los reglamentos sanitarios y de policía; y exigir la exhibición de los libros y papeles indispensables para comprobar que se han acatado las disposiciones fiscales, sujetándose en estos casos a las leyes respectivas y a las formalidades prescritas para los cateos. Ningún juicio podrá tener más de tres instancias.
+
+El Poder Judicial contará con Jueces de Control, que resolverán en forma inmediata y por cualquier medio, las solicitudes de medidas cautelares, providencias precautorias y técnicas de investigación de la autoridad, que requieran control judicial, y garantizarán los derechos de los imputados y de las víctimas u ofendidos. Deberá existir un registro fehaciente de todas las comunicaciones entre Jueces, Ministerio Público y demás autoridades competentes.
+
+El sistema penitenciario en el Estado de Durango se organizará sobre la base del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley.
+
+Los sentenciados, en los casos y condiciones que establezca la ley, podrán compurgar sus penas en los centros penitenciarios más cercanos a su domicilio, a fin de propiciar su reintegración a la comunidad como forma de reinserción social. Esta disposición no aplicará en caso de internos que requieran medidas especiales de seguridad.
+
+Las sentencias que pongan fin a los procedimientos orales deberán ser explicadas en audiencia pública, previa citación de las partes.
+
+El Estado y los municipios, en ejercicio de la función de seguridad pública en sus respectivos ámbitos de competencia, deberán establecer programas de prevención del delito, investigación y persecución del mismo para hacerla efectiva, así como la sanción de las infracciones administrativas; igualmente reservarán las libertades, el orden y la paz públicos; para tal efecto, podrán celebrar los convenios de coordinación necesarios, en los términos que establezca la ley. La actuación de las instituciones policiales se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2009)</small>
+
+###### ARTICULO 10.
+
+La correspondencia, sea cual fuere su forma de circulación, estará libre de todo registro y su violación será penada por la Ley.
+
+Las comunicaciones privadas son inviolables. La ley sancionará penalmente cualquier acto que atente contra la libertad y privacía de las mismas, excepto cuando sean aportadas de forma voluntaria por alguno de los particulares que participen en ellas. El juez valorará el alcance de éstas, siempre y cuando contengan información relacionada con la comisión de un delito. En ningún caso se admitirán comunicaciones que violen el deber de confidencialidad que establezca la ley.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 11.
+
+La propiedad es un derecho que debe desempeñar una función social y en el Estado de Durango:
+
+I.- Es contraria al interés público la tenencia de terrenos rústicos en superficies superiores a los límites que las leyes señalen a la pequeña propiedad;
+
+II.- Se declara de utilidad pública e interés social el aprovechamiento de terrenos urbanos ociosos o desocupados, para beneficio de la colectividad;
+
+III.- Las leyes propiciarán el fraccionamiento, la urbanización, la regeneración urbana, el mejoramiento y la adquisición por parte del Estado de los inmuebles necesarios para resolver los problemas habitacionales de los grupos mayoritarios de la población y en particular de los de más bajo nivel económico, así como para cualesquier otro fin de utilidad pública o de beneficio colectivo, señalando los casos en que proceda la expropiación correspondiente;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+
+IV.- La expropiación de bienes pertenecientes a particulares, sólo podrá decretarse por causa de utilidad pública y mediante indemnización, de conformidad con el procedimiento que señale la ley de la materia; para fijar el monto tratándose de bienes inmuebles se atenderá al valor fiscal con que aparezcan registrados en la (sic) oficinas catastrales o recaudadoras, ya sea que este valor haya sido manifestado por el propietario, o simplemente aceptado por él de un modo tácito por haber pagado sus contribuciones sobre esta base. El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de asignación del valor fiscal, será lo único que deberá quedar sujeto a juicio pericial y a resolución judicial. Esto mismo se observará cuando se trate de inmuebles cuyo valor no esté fijado en las oficinas recaudadoras o catastrales;
+
+V.- El patrimonio del Estado se compone de los bienes que son de su propiedad y de los que adquiera conforme a la ley; del producto de las contribuciones decretadas por el Congreso; de los bienes vacantes que estan dentro de su territorio; de los bienes mostrencos; de los créditos que tenga a su favor; de las donaciones, legados, herencias o reintegros que se hagan o se dejen en beneficio del Estado; de los derechos, productos y aprovechamientos; así como de los subsidios y de las participaciones en el rendimiento de impuestos federales que conforme a las leyes deba percibir; y
+
+VI.- Los bienes afectos a un servicio proporcionado por el Estado, son inalienables e imprescriptibles. Los bienes del Estado, desafectados de un servicio público y que pasen al dominio privado del Estado podrán ser enajenados, previa autorización del Congreso, mediante los requisitos que señala ésta Constitución y la Ley de Bienes del Estado que expedirá el Congreso.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2009)</small>
+
+###### ARTICULO 12.
+
+El varón y la mujer, son iguales ante la Ley. Esta protegerá la organización y el desarrollo de la familia.
+
+No se podrá impedir a nadie el derecho a decidir de manera libre, responsable e informada, sobre el número y espaciamiento de sus hijos.
+
+Es deber de los padres preservar el derecho de sus menores hijos a la satisfacción de sus necesidades y a su salud física y mental. La Ley determinará los apoyos a la protección de los menores, a cargo de las instituciones públicas.
+
+En el Estado de Durango, todas las personas en la medida de los recursos económicos de la Administración Pública, gozarán de los siguientes derechos:
+
+1o.- Protección asistencial a la maternidad y a la infancia, cuando así lo requiera la situación económica de una o de otra;
+
+2o.- Prestación de servicios médico-asistenciales y funerarios a personas indigentes; y
+
+3o.- Otorgamiento de becas cuando se trate de estudiantes indigentes que se hayan distinguido por su aprovechamiento y puedan así continuar sus estudios y perfeccionar sus conocimientos en los centros de educación media y superior.
+
+En el Estado se establecerá un sistema integral de justicia que será aplicable a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años de edad, en el que se garanticen los derechos fundamentales que reconocen la Constitución Política de los Estados Unidos Mexicanos y esta Constitución para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos. Las personas menores de doce años que hayan realizado una conducta prevista como delito en la ley, sólo serán sujetas a rehabilitación y asistencia social.
+
+La operación del sistema estará a cargo de instituciones, tribunales y autoridades especializados en la procuración e impartición de justicia para adolescentes. Se podrán aplicar las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y al interés superior del adolescente.
+
+Las formas alternativas de justicia deberán observarse en la aplicación de este sistema, siempre que resulte procedente. En todos los procedimientos seguidos a los adolescentes, se observará la garantía del debido proceso legal así como la independencia entre las autoridades que efectúen la remisión y las que impongan las medidas. Éstas deberán ser proporcionales a la conducta realizada y tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades. El internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda, y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad, por la comisión de conductas antisociales calificadas como graves.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+
+###### ARTICULO 13.
+
+Es obligación del poder público promover el desarrollo integral del Estado, mediante el fomento del crecimiento económico, una más justa distribución de la riqueza y el ingreso de la población estatal, evitando concentraciones o acaparamientos, que impidan la distribución adecuada de bienes y servicios a la población.
+
+En el desarrollo económico estatal concurrirán los sectores público, social y privado; corresponde al Gobierno del Estado procurar la armonía entre ellos, para cumplir con su responsabilidad social. El sector público cuidará de impulsar por sí o conjuntamente con los demás sectores, las áreas que se consideren prioritarias para el desarrollo del Estado.
+
+El Ejecutivo Estatal, de acuerdo con la ley, organizará un sistema estatal de planeación democrática, el cual recogerá las aspiraciones y demandas de la sociedad, incorporándolas en un Plan Estatal de Desarrollo, al que se sujetarán obligatoriamente los programas de la Administración Pública Estatal.
+
+El Ejecutivo del Estado y los ayuntamientos establecerán los mecanismos y adoptarán las medidas necesarias para planear el desarrollo estatal y municipal, en los términos que señale la ley de la materia.
+
+El Estado podrá convenir con la federación, en los términos de ley, la asunción, por parte de éste, del ejercicio de sus funciones, la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo hagan necesario.
+
+El Estado está facultado para celebrar esos convenios con sus municipios, a efecto de que éstos asuman la prestación de los servicios o la atención de las funciones, a que se refiere el párrafo anterior.
+
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
-
-###### Artículo 1.
-
-El presente Código de Conducta es de observancia general y obligatoria para todos los servidores públicos que laboran en el Fideicomiso Balneario Agua Hedionda.
-
-###### Artículo 2.
-
-El presente Código de Conducta tiene por objeto definir, emitir y dar a conocer los principios, valores éticos, y reglas de identidad que debe (sic) regir el actuar y proceder de los servidores públicos adscritos al Fideicomiso en todos sus niveles durante el ejercicio de sus funciones.
-
-###### Artículo 3.
-
-Para efectos de este Código, se entenderá por:
-
-I. Código de Ética, al Código de Ética y Reglas de Integridad a las que deben sujetarse los Servidores Públicos de la Administración Pública Estatal;
-
-II. Código de Conducta, al presente Código de Conducta del Fideicomiso Balneario Agua Hedionda;
-
-III. Comité, al Comité de Ética del Fideicomiso Balneario Agua Hedionda;
-
-IV. Fideicomiso, al Fideicomiso Balneario Agua Hedionda;
-
-V. Unidades Administrativas, a las Unidades Administrativas adscritas del Fideicomiso Balneario Agua Hedionda;
-
-VI. Servidores Públicos, a los servidores públicos del Fideicomiso Balneario Agua Hedionda; y,
-
-VII. Órgano Interno de Control, a la Comisaria Pública del Fideicomiso Balneario Agua Hedionda.
-
-###### Artículo 4.
-
-Los servidores públicos que desempeñen un empleo, cargo o comisión en el Fideicomiso, invariablemente deberán observar los principios rectores y valores que se consignan y definen en el Código de Ética;
-
-I. Principios rectores:
-
-a) Legalidad;
-
-b) Honradez;
-
-c) Lealtad;
-
-d) Imparcialidad;
-
-e) Eficiencia;
-
-f) Economía;
-
-g) Disciplina;
-
-h) Profesionalismo;
-
-i) Objetividad;
-
-j) Transparencia;
-
-k) Rendición de cuentas;
-
-l) Competencia por mérito;
-
-m) Eficacia;
-
-n) Integridad;
-
-o) Equidad;
-
-II. Valores:
-
-a) Cooperación;
-
-b) Entorno Cultural y Ecológico;
-
-c) Equidad de Género;
-
-d) Igualdad y No Discriminación;
-
-e) Interés Público;
-
-f) Liderazgo;
-
-g) Respeto;
-
-h) Respeto a los Derechos Humanos.
-
-###### Artículo 5.
-
-Para salvaguardar los principios y valores que rigen el ejercicio de la función pública, el Código de Ética emite las reglas de integridad con las cuales deberán conducirse los servidores públicos en el ejercicio de sus atribuciones y obligaciones.
-
-III. (SIC) Reglas de Integridad
-
-a) Actuación pública;
-
-b) Información pública;
-
-c) Contrataciones públicas, licencias, permisos, autorizaciones y concesiones;
-
-d) Programas gubernamentales;
-
-e) Trámites y servicios;
-
-f) Recursos humanos;
-
-g) Administración de bienes muebles e inmuebles;
-
-h) Procesos de evaluación;
-
-i) Control interno;
-
-j) Procedimiento administrativo;
-
-k) Cooperación y desempeño permanente con integridad;
-
-l) Comportamiento digno.
-
-###### Artículo 6.
-
-Los servidores públicos del Fideicomiso en el desempeño de sus atribuciones y obligaciones invariablemente deberán conducir su actuación basados en los principios de honestidad, legalidad, lealtad y profesionalismo, conforme a lo siguiente:
-
-I. Conocer, cumplir y hacer cumplir la normatividad que regula las atribuciones y obligaciones que corresponden al puesto;
-
-II. Utilizar de manera racional los recursos humanos, materiales o financieros única y exclusivamente para el cumplimiento de las atribuciones asignadas y en cumplimiento del objeto del Fideicomiso;
-
-III. Abstenerse de realizar acciones fuera de legalidad para favorecer a terceros, o para obtener un beneficio personal, familiar o de una tercera persona;
-
-IV. Hacer del conocimiento de las áreas competentes, las conductas o hechos contrarios a la ley que detecten;
-
-V. Asegurarse que con su actuación no se obstruya el cumplimiento de investigaciones o procedimientos sancionatorios en contra de servidores públicos o particulares;
-
-VI. Ejercer sus funciones de manera objetiva, sin permitir la influencia indebida de otras personas.
-
-###### Artículo 7.
-
-El principio de rendición de cuentas y resguardo de información y documentación que tengan bajo su responsabilidad, será fundamental para el desempeño de sus atribuciones, debiendo conducir su actuación de acuerdo con lo siguiente:
-
-I. Utilizar la información y documentación reservada o confidencial para uso exclusivo del Fideicomiso, resguardándola de manera segura;
-
-II. Facilitar la consulta de información a la ciudadanía conforme a los mecanismos establecidos al respecto;
-
-III. Cuidar que no se oculte información y documentación, ya sea dentro o fuera de las instalaciones del Fideicomiso;
-
-IV. Evitar que la información y documentación se altere o elimine de manera deliberada, y sin fundamento legal para ese efecto;
-
-V. Impedir la sustracción, destrucción o inutilización indebida de información o documentación.
-
-###### Artículo 8.
-
-Los servidores públicos, que, por sus atribuciones, efectúen procedimientos para la administración de recursos humanos, deberán apegarse a los principios de objetividad, legalidad, imparcialidad y rendición de cuentas, de acuerdo con lo siguiente:
-
-I. Abstenerse de contratar a personas cuyos intereses particulares, laborales, profesionales, económicos o de negocios puedan estar en contraposición de los intereses del Fideicomiso;
-
-II. Asegurar que no se contrate a personas que no cumplan con los requisitos y documentos requeridos para el puesto, que se encuentren inhabilitadas o cuando no cuenten con el perfil del puesto;
-
-III. Propiciar la actualización y capacitación para el desarrollo personal.
-
-###### Artículo 9.
-
-Los servidores públicos que participen en procedimientos de baja, enajenación, transferencia o destrucción de bienes muebles, deberán desempeñar sus funciones con eficacia e integridad, de acuerdo con lo siguiente:
-
-I. Evitar la baja, enajenación, transferencia o destrucción de bienes, cuando éstos sigan siendo útiles y/o adecuados para la operación del Fideicomiso;
-
-II. Utilizar el parque vehicular, para el servicio público y no para fines particulares, personales o familiares.
-
-###### Artículo 10.
-
-Los servidores públicos del Fideicomiso que participen en procesos de control interno, generarán, obtendrán, utilizarán y comunicarán información suficiente, oportuna, confiable y de calidad, apegándose a los principios de legalidad, imparcialidad y rendición de cuentas, de acuerdo con lo siguiente:
-
-I. Comunicar los factores de riesgo asociados al cumplimiento de los objetivos del Fideicomiso, así como, los relacionados con corrupción y posibles irregularidades que afecten los recursos económicos del Fideicomiso;
-
-II. Diseñar y/o actualizar las políticas o procedimientos necesarios en materia de control interno e implementar, en su caso, mejores prácticas para evitar la corrupción y prevenir cualquier conflicto de interés;
-
-III. Generar la información financiera, presupuestaria y de operación con el respaldo suficiente, así como, presentarla de forma clara y completa;
-
-IV. Salvaguardar información y documentos que se deban conservar por su relevancia o por sus aspectos técnicos, jurídicos, económicos o de seguridad.
-
-###### Artículo 11.
-
-Los servidores públicos del Fideicomiso deben invariablemente conducir su actuación bajo el principio de integridad, con una plena vocación de servicio y propiciando el trabajo en equipo, de acuerdo a lo siguiente:
-
-I. Conducirse con un trato digno, respetuoso y cordial, ya sea en la atención al público o con sus compañeros de trabajo;
-
-II. Evitar cualquier tipo de discriminación tanto en el trato con sus compañeros de trabajo, así como, con las personas en general;
-
-III. Conducirse con criterios de austeridad y uso adecuado de los bienes asignados;
-
-IV. Fomentar en sus áreas de trabajo, el respeto, la cooperación, la disciplina y la integridad, para el desempeño eficiente de sus funciones;
-
-V. Promover el apoyo y la colaboración con sus compañeros de trabajo, propiciando el trabajo en equipo;
-
-VI. Recomendar, diseñar y establecer mejores prácticas a favor del Fideicomiso.
-
-###### Artículo 12.
-
-Para la vigilancia del Código de Ética y Código de Conducta, se establece el Comité de Ética del Fideicomiso, mismo que estará integrado de la siguiente forma:
-
-I. La persona Titular de la Dirección General del Fideicomiso, quien fungirá como Presidente;
-
-II. La persona Titular de la Unidad de Enlace Financiero Administrativo, en carácter de Secretario Técnico;
-
-III. La persona Titular de la Coordinación Ejecutiva, como Vocal;
-
-IV. La persona Titular de la Subdirección Técnica, como Vocal;
-
-V. El Órgano Interno de Control.
-
-Los integrantes contarán con voz y voto, a excepción del Órgano Interno de Control el cual solo tendrá derecho de voz y deberá participar en todas las sesiones, en caso de empate el Presidente tendrá el voto de calidad.
-
-###### Artículo 13.
-
-El Comité tendrá las funciones siguientes:
-
-I. Sesionar conforme la normativa aplicable;
-
-II. Realizar acciones para promover al interior de las Unidades Administrativas del Fideicomiso, el Código de Ética y Código de Conducta;
-
-III. Analizar los asuntos de los que se desprenda alguna presunta acción u omisión por parte de algún servidor público en contra de los principios rectores establecidos en el Código de Ética y en el Código de Conducta;
-
-IV. Determinar las acciones tendientes para que los servidores públicos, en su caso, sean sancionados conforme a la normativa aplicable; y,
-
-V. Tramitar ante las autoridades competentes, las acciones necesarias cuando del análisis a las conductas realizadas por los servidores públicos, se desprenda alguna infracción que pudiera ser constitutiva de alguna responsabilidad administrativa, penal, civil o laboral, en términos de la normativa aplicable.
-
-La falta de conocimiento del Código de Ética y Reglas de Integridad a las que deben Sujetarse los Servidores Públicos de la Administración Pública Estatal y al presente Código de Conducta no los exime de su cumplimiento.
-
-La aclaración e interpretación que se derive del presente Código será presentado para resolución ente (sic) el Comité de Ética del Fideicomiso.
-
-DISPOSICIONES TRANSITORIAS
-
-ÚNICO.- El presente Código de Conducta entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial “Tierra y Libertad”.
-
-Dado en la Dirección General del Fideicomiso Balneario Agua Hedionda, en la ciudad de Cuautla, Morelos, siendo los nueve (sic) del mes de julio de 2019.
-
-ING. MARCELINO ESPINOZA GÓMEZ
-
-DIRECTOR GENERAL DEL FIDEICOMISO BALNEARIO AGUA HEDIONDA.
-
-RÚBRICA.
 
 ###### ARTICULO 14.
 
@@ -335,7 +397,9 @@ VII.- Iniciar leyes ante el Congreso del Estado y participar en los procesos de 
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-### CAPÍTULO II. APLICACIÓN Y ALCANCE DE LAS REGLAS DE INTEGRIDAD
+### CAPITULO SEGUNDO. DE LOS HABITANTES DEL ESTADO
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 #### SECCION C.- DE LA INICIATIVA Y FORMACION DE LAS LEYES
 
@@ -641,7 +705,9 @@ Cuando los diputados asistentes no reunan el número requerido para la instalaci
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-### CAPÍTULO III. DE LA VIGILANCIA Y CUMPLIMIENTO
+### CAPITULO PRIMERO. DE LA SOBERANIA
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ###### ARTICULO 40.
 
@@ -807,11 +873,11 @@ Ninguna iniciativa que sea desechada por el Congreso podrá ser presentada de nu
 
 SECCION D.- DE LAS FACULTADES DEL CONGRESO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 55.
 
-El Congreso tiene facultades para legislar en todo aquello que no esté expresamente establecido como atribución del Congreso de la Unión o alguna de sus Cámaras y además para:
+El Congreso del Estado tiene facultades para legislar en todo aquello que no esté expresamente establecido como atribución del Congreso de la Unión o alguna de sus Cámaras y además para:
 
 > <small>(REFORMADA, P.O. 1 DE MAYO DE 1988)</small>
 
@@ -841,9 +907,9 @@ IV.- Decretar las contribuciones y otros ingresos suficientes para atender las n
 
 V.- Autorizar al Ejecutivo y a los Ayuntamientos a contratar deuda pública y a afectar como garantía, fuente de pago o de cualquier otra forma los ingresos que les correspondan, en los términos establecidos en las leyes correspondientes;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2009)</small>
 
-VI.- Derogar, adicionar y reformar las Leyes del Estado;
+VI.- Expedir leyes de nueva creación y abrogar, derogar, adicionar y reformar las leyes y decretos vigentes, así como participar en las reformas a esta Constitución observando las formalidades previstas para el efecto;
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -885,9 +951,9 @@ XV.- Legislar sobre el aprovechamiento de las aguas que queden bajo el régimen 
 
 XVI.- Hacer la declaración de pérdida de la calidad de duranguenses o de ciudadanos del Estado, y de rehabilitación en ambos casos;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2009)</small>
 
-XVII.- Intervenir en los términos de esta constitución, en las designaciones de los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Procurador General de Justicia, de los integrantes de la Comisión Estatal de Derechos Humanos y de los Consejeros Electorales del Instituto Estatal Electoral; así mismo, resolver sobre las renuncias o licencias que presenten, en los términos de la legislación vigente;
+XVII.- Intervenir en los términos de esta Constitución, en las designaciones de los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Tribunal de lo Contencioso Administrativo del Estado de Durango, del Procurador General de Justicia, del Presidente y Consejeros de la Comisión Estatal de Derechos Humanos, de los Comisionados de la Comisión Estatal para la Transparencia y el Acceso a la Información Pública y de los Consejeros Electorales; así mismo, resolver sobre las renuncias o licencias que presenten, en los términos de la legislación vigente;
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -907,9 +973,9 @@ XX.- Resolver los conflictos que sobre límites se susciten entre los municipios
 
 XXI.- Expedir el bando solemne para dar a conocer en todo el Estado la declaración de Gobernador que hubiere hecho el Tribunal Estatal Electoral;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2009)</small>
 
-XXII.- Tomar la protesta de ley al Gobernador, a los Magistrados del Tribunal Superior de Justicia y del Tribunal Estatal Electoral, al Titular de la Entidad de Auditoría Superior del Estado y a los integrantes de la Comisión Estatal de Derechos Humanos del Estado de Durango y a los Consejeros del Instituto Estatal Electoral;
+XXII.- Tomar la protesta de ley al Gobernador del Estado, a los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Tribunal para Menores Infractores, del Presidente y Consejeros de la Comisión Estatal de Derechos Humanos, de los Comisionados de la Comisión Estatal para la Transparencia y el Acceso a la Información Pública, de los Consejeros Electorales y del Titular de la Entidad de Auditoría Superior del Estado;
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 1987)</small>
 
@@ -1257,7 +1323,7 @@ VIII.- Visitar periódicamente los Municipios del Estado;
 
 IX.- Hacer observaciones a las leyes y decretos que expidiere el Congreso del Estado, en los términos que señala el Artículo 52;
 
-X.- Facilitar al Poder Judicial los auxilios que requiera para el ejercicio expÉdito de sus funciones;
+X.- Facilitar al Poder Judicial los auxilios que requiera para el ejercicio expédito de sus funciones;
 
 XI.- Solicitar a la comisión permanente que convoque al Congreso a períodos extraordinarios de sesiones cuando lo considere necesario;
 
@@ -1299,7 +1365,9 @@ XXIII.- Representar a la Hacienda Pública, pudiendo, en los casos que lo estime
 
 XXIV.- Fomentar la educación popular, las actividades deportivas y el mejoramiento moral y material de la colectividad, sustentando siempre los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos;
 
-XXV.- Dictar medidas correspondientes para la organización del sistema penitenciario sobre la base de la educación y del trabajo como medios de rehabilitación del delincuente;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2009)</small>
+
+XXV.- Establecer en forma concurrente con el Poder Judicial, las medidas correspondientes para la organización del sistema penitenciario sobre la base del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad;
 
 XXVI.- Cuidar de que las elecciones se efectuen en el tiempo señalado por las leyes relativas; y (sic)
 
@@ -1319,9 +1387,13 @@ XXIX.- Fomentar y estimular la creación de industrias y empresas rurales, busca
 
 XXX.- Celebrar convenios con la Federación o Municipios con respecto a la administración y recaudación de las contribuciones. También podrá celebrar convenios con la Federación, o sus Municipios respectivos, para que se asuman por unos u otros la ejecución y operación de obras; así como otorgar, revocar o modificar concesiones a los particulares que conforme a la legislación vigente competa al Ejecutivo para que asuman la ejecución y operación de obras, y la prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario. Las leyes reglamentarias de la materia normaran las modalidades del procedimiento;
 
-> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 1984)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2009)</small>
 
-XXXI.- Las demás que expresamente le confiere esta Constitución y las Leyes reglamentarias respectivas.
+XXXI.- Instrumentar sistemas complementarios de seguridad social del personal del Ministerio Público, de las corporaciones policiales y de los servicios periciales, de sus familias y dependientes; y
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2009)</small>
+
+XXXII.-·Las demás que expresamente le confiere esta Constitución y las leyes reglamentarias respectivas.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 27 DE JUNIO DE 1993)</small>
 
@@ -1529,11 +1601,11 @@ SECCION G.- DE LAS PROCURADURIAS Y DEFENSORIAS DE OFICIO
 
 La prestación del servicio de defensoría pública, se llevará a cabo por el Instituto de Defensoría Pública del Estado, dependiente del Ejecutivo Estatal. Su organización y funcionamiento, serán determinados por la ley.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 88.
 
-El servicio de defensoría pública, constituye una función obligatoria de carácter gratuito, regido por los principios de profesionalismo y probidad. El Instituto contará con las defensorías de oficio en materia penal, las asesorías y servicios de representación en negocios de carácter familiar y civil, de defensoría jurídica de los trabajadores en la relación laboral, de protección del interés del menor, entre otras, en los términos que establezca la ley.
+El servicio de defensoría pública constituye una función obligatoria dé carácter gratuito para la población, regido por los principios de profesionalismo, probidad y calidad; asimismo, asegurará las condiciones para un servicio profesional de carrera para los defensores y sus percepciones no podrán ser inferiores a las que correspondan a los agentes del Ministerio Público. El organismo correspondiente contará con las defensorías de oficio en materia penal, las asesorías y servicios de representación en negocios de carácter familiar y civil, de defensoría jurídica de los trabajadores en la relación laboral, de protección del interés del menor, entre otras, en los términos que establezca la ley.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
@@ -1913,7 +1985,9 @@ En lo conducente y de conformidad a los fines señalados en el párrafo tercero,
 
 Cuando dos o más centros urbanos situados en territorios municipales de dos o más entidades federativas, formen una continuidad demográfica, la federación, las entidades federativas y los municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada, el desarrollo de dichos centros, con apego a la ley de la materia.
 
-La policía preventiva municipal estará al mando del Presidente Municipal, en los términos del reglamento correspondiente. Aquélla acatará las órdenes que el Gobernador del Estado le transmita, en los casos en que éste juzgue de fuerza mayor o alteración grave del orden público.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2009)</small>
+
+La policía preventiva municipal estará al mando del Presidente Municipal en los términos que prevengan las leyes. Aquella acatará las órdenes que el Gobernador del Estado le transmita, en los casos en que éste juzgue de fuerza mayor o alteración grave del orden público.
 
 El Ejecutivo Federal tendrá el mando de la fuerza pública, en el lugar donde resida transitoriamente.
 
@@ -2155,7 +2229,7 @@ Queda estrictamente prohibida la formación de toda clase de agrupaciones polít
 
 La residencia señalada como requisito de elegibilidad o de nombramiento para cargos públicos, no se pierde por ausencia debida al desempeño de cargos públicos de elección popular, o de cargos y comisiones encomendados por la Federación o por el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2009)</small>
 
 ## TITULO QUINTO
 
@@ -2163,23 +2237,21 @@ La residencia señalada como requisito de elegibilidad o de nombramiento para ca
 
 ###### ARTICULO 130.
 
-La presente Constitución podrá ser reformada o adicionada en todo tiempo con la condición precisa que no han de ser atacadas de manera alguna los principios establecidos en la Carta Fundamental de la República, debiendo observarse el procedimiento y tiempos determinados en este artículo:
+Esta Constitución podrá ser reformada o adicionada, en todo o en parte, por el Constituyente Permanente, con la condición precisa que no han de ser atacados de manera alguna los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos, debiendo observarse las formalidades siguientes:
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1997)</small>
+I. Presentadas y admitidas, en su caso, las iniciativas que propongan modificaciones constitucionales, serán turnadas a la Comisión Legislativa que corresponda y se difundirán para hacerlas del conocimiento de la ciudadanía;
 
-I.- Las iniciativas de reforma o adición a esta Constitución se darán a conocer ampliamente a la ciudadanía a través de la prensa, por el Congreso del Estado, quien además solicitará al Titular del Poder Ejecutivo del Estado y al Tribunal Superior de Justicia que emitan su opinión por escrito. Lo mismo hará con los Ayuntamientos, quienes emitirán su opinión las cuales serán computadas por la Legislatura en funciones y deberán ser de mayoría afirmativa;
+II. Deberá solicitarse al Gobernador del Estado y al Tribunal Superior de Justicia, que emitan su opinión por escrito, misma que harán del conocimiento del Congreso del Estado dentro de los treinta días naturales siguientes a la fecha en que hayan recibido la solicitud de referencia;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1993)</small>
+III. Recibidas las opiniones a las que alude la fracción anterior, la Comisión Legislativa competente deberá formular y aprobar el dictamen respectivo y someterlo a la consideración del Pleno para su lectura, discusión y votación respectiva;
 
-II.- Cumplidos los requisitos anteriores, el Congreso del Estado discutirá, y en su caso aprobará las reformas o adiciones con las modificaciones que considere pertinentes, con el voto de las dos terceras partes de los Diputados que lo integran y la mayoría de los votos de los Ayuntamientos;
+IV. Aprobado el dictamen que contenga las modificaciones constitucionales de que se trate, con el voto de las dos terceras partes de los Diputados integrantes de la Legislatura, la minuta con proyecto de decreto se remitirá a los Ayuntamientos para que éstos emitan su voto, que deberán notificar al Congreso del Estado dentro de los 45 días naturales siguientes a la fecha en que hayan recibido el expediente relativo;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1993)</small>
+V. La Presidencia de la Mesa Directiva en turno o la Comisión Permanente, en su caso, efectuarán el cómputo de los votos recibidos y cuando éstos aprueben las modificaciones constitucionales y representen la mayoría absoluta de los Ayuntamientos, emitirán la declaratoria respectiva;
 
-III.- Una vez aprobadas las iniciativas, el Congreso emitirá el decreto correspondiente y lo remitirá al Poder Ejecutivo para los efectos de su promulgación y publicación en el Periódico Oficial del Estado; y
+VI. Emitida la declaratoria en el sentido de haber sido aprobadas las modificaciones constitucionales, el decreto que las contenga será remitido al Gobernador del Estado para su debida promulgación y publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango; y
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1997)</small>
-
-IV.- La iniciación, difusión, discusión y aprobación de las reformas o adiciones a la Constitución Política del Estado de Durango, previstas en este artículo, se efectuarán en un plazo no menor de 90 días.
+VII. Publicado el decreto en los términos aludidos, las modificaciones a la Constitución, entrarán en vigor en los términos que en el propio decreto se establezcan.
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -2822,3 +2894,31 @@ En todas aquellas disposiciones que hagan referencia al Instituto Estatal Electo
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que contravengan lo previsto en el presente decreto.
+
+P.O. 12 DE FEBRERO DE 2009.
+
+DECRETO No. 173, POR EL QUE SE REFORMAN Y ADICIONAN LA DENOMINACION DEL CAPITULO PRIMERO DEL TITULO PRIMERO Y LOS ARTICULOS 1, 6, 9, 10,12, 70, 88 Y 110 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO.
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, con excepción de lo siguiente:
+
+1.- El sistema penal acusatorio y oral previsto en esta Constitución, entrará en vigor cuando lo establezca la legislación procesal y orgánica correspondiente, sin exceder el término previsto en la Constitución Política de los Estados Unidos Mexicanos; y
+
+2.- En el momento en que se publique la legislación citada en el apartado anterior, el Poder Legislativo emitirá una declaratoria que se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, en la que señale expresamente que el sistema penal acusatorio y oral ha sido incorporado en dichos ordenamientos; y en consecuencia, que las garantías que consagra esta Constitución empezarán a regular la forma y términos en que se sustanciarán los procedimientos penales.
+
+Artículo Segundo. Los procedimientos penales iniciados con anterioridad a la entrada en vigor del sistema penal acusatorio y oral previstos en los artículos 16, párrafo segundo y décimo tercero; 17, párrafo tercero, cuarto y sexto; 19, 20 y 21, párrafo séptimo de la Constitución Política de los Estados Unidos Mexicanos, serán concluidos conforme a las disposiciones vigentes con anterioridad a dicho acto.
+
+P.O. 12 DE FEBRERO DE 2009.
+
+DECRETO No. 242, POR EL QUE SE REFORMAN LOS ARTICULOS 55, FRACCIONES VI, XVII Y XXII Y 130 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Artículo Segundo.- Se derogan todas las disposiciones que contravengan el presente decreto.
+
+Artículo Tercero.- El desahogo de las iniciativas pendientes de dictaminar a la entrada en vigor del presente Decreto, se llevará a cabo conforme al procedimiento vigente al momento de su admisión.
+
+P.O. 31 DE MAYO DE 2009.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Dentro de un plazo de 180 días, contados a partir de la entrada en vigor del presente decreto, el Congreso del Estado deberá realizar las adecuaciones legislativas que resulten pertinentes.
