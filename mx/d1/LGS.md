@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2009-04-17"
+last_updated: "2009-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MAYO DE 2009.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -886,9 +886,17 @@ En la organización y operación de los servicios de salud destinados a la atenc
 
 I.- Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
 
-II.- Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil, y
+> <small>(REFORMADA, D.O.F. 31 DE MAYO DE 2009)</small>
 
-III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarréicos y las infecciones respiratorias agudas de los menores de 5 años.
+II.- Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil;
+
+> <small>(REFORMADA, D.O.F. 31 DE MAYO DE 2009)</small>
+
+III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de 5 años, y
+
+> <small>(ADICIONADA, D.O.F. 31 DE MAYO DE 2009)</small>
+
+IV.- Acciones de capacitación para fortalecer la competencia técnica de las parteras tradicionales, para la atención del embarazo, parto y puerperio.
 
 ###### ARTICULO 65.
 
@@ -5748,21 +5756,21 @@ Se sancionará con multa hasta dos mil veces el salario mínimo general diario v
 
 Se sancionará con multa de dos mil hasta seis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 75, 121, 142, 147, 153, 198, 200, 204, 241, 259, 260, 265, 267, 304, 307, 341, 348, segundo y tercer párrafo, 349, 350 bis, 350 bis 2, 350 bis 3 y 373 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 421.
 
 Se sancionará con una multa equivalente de seis mil hasta doce mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 67, 101, 125, 127, 149, 193, 210, 212, 213, 218, 220, 230, 232, 233, 237, 238, 240, 242, 243, 247, 248, 251, 252, 255, 256, 258, 266, 306, 308, 309, 315, 317, 330, 331, 332, 334, 335, 336, 338, último párrafo, 342, 348, primer párrafo, 350 bis 1, 365, 367, 375, 376, 400, 411 y 413 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 421 Bis.
 
 Se sancionará con multa equivalente de doce mil hasta dieciséis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 100, 122, 126, 146, 166 Bis 19, 166 Bis 20, 205, 235, 254, 264, 281, 289, 293, 298, 325, 327 y 333 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 422.
 
@@ -6505,3 +6513,9 @@ D.O.F. 17 DE ABRIL DE 2009.
 Artículo Primero.- El derecho al que se refiere el artículo 51 podrá ser ejercido por los asegurados del Sistema Nacional de Salud una vez que transcurran 12 meses a partir de la entrada en vigor del presente Decreto, a efecto de que dichos organismos efectúen la reorganización que corresponda en los ámbitos médicos y administrativos.
 
 Artículo Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE MAYO DE 2009.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La implementación de las acciones de capacitación para fortalecer la competencia técnica de las parteras tradicionales a que se refiere el presente Decreto estará sujeta a los recursos que al efecto autorice la Cámara de Diputados en el Presupuesto de Egresos de cada ejercicio fiscal.
