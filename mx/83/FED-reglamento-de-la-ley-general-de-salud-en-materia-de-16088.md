@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-salud-en-materia-de-16088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-05-04"
-last_updated: "2006-04-06"
+last_updated: "2009-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16088&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-05-02"
 
 REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE PUBLICIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MAYO DE 2009.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de mayo de 2000.
 
@@ -371,29 +371,35 @@ XV. Se utilicen artículos promocionales dirigidos a menores de edad, relacionad
 
 No se podrán publicitar anuncios que promuevan el consumo ilimitado de bebidas alcohólicas, mediante un pago fijo a los establecimientos que las expenden o suministran, conocido, entre otros, como barra libre.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
+
+> <small>(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)</small>
+
 ### Capítulo III. Tabaco
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
 
 ###### ARTÍCULO 36.
 
-La publicidad de tabaco podrá incluir la presencia del producto cuando éste no se manipule ni se consuma de manera real o aparente.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
 
 ###### ARTÍCULO 37.
 
-La publicidad de tabaco no podrá dirigirse a menores de edad, ni podrán obsequiarse a éstos, artículos promocionales o muestras de dicho producto.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
 
 ###### ARTÍCULO 38.
 
-La publicidad de tabaco, además de los aspectos considerados en este Reglamento y otras disposiciones aplicables, sólo podrá trasmitirse conforme a lo siguiente:
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
 
-I. En televisión y radio sólo podrá difundirse a partir de las veintidós horas;
-
-II. En cine podrá difundirse únicamente en películas para adultos, correspondientes a las clasificaciones “C” y “D”, y
-
-III. En publicaciones, páginas, direcciones o secciones de internet y demás sistemas de telecomunicación no podrá aparecer en las destinadas a menores de edad ni en las deportivas o educativas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
 
 ###### ARTÍCULO 39.
 
-Las leyendas de advertencia que se incluyan en la publicidad de tabaco se sustituirán cada seis meses en forma rotatoria y deberán sujetarse en todo lo conducente a lo dispuesto por este Reglamento.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
 
 ## TÍTULO QUINTO. Publicidad de insumos para la salud
 
@@ -1098,3 +1104,15 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto se atenderán hasta su conclusión conforme a las disposiciones vigentes al momento de su presentación.
 
 TERCERO.- Se establece un plazo de cuatro meses a partir de la entrada en vigor del presente Decreto para incluir en el etiquetado de las bebidas adicionadas con cafeína a que se refiere la fracción II Bis del artículo 101 del Reglamento de Control Sanitario de Productos y Servicios, el término "bebidas adicionadas con cafeína", conforme a lo establecido por el artículo 25 del mismo Reglamento.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL REGLAMENTO.
+
+D.O.F. 31 DE MAYO DE 2009.
+
+PRIMERO.- El presente Reglamento entrará en vigor a los 30 días naturales siguientes de su publicación en el Diario Oficial de la Federación.
+
+...
+
+TERCERO.- Se derogan el capítulo III del Título Cuarto del Reglamento de la Ley General de Salud en materia de publicidad; el Título Vigésimo Primero del Reglamento de Control Sanitario de Productos y Servicios y las fracciones XIX, XIX.1 y XIX.2 del Apéndice del Reglamento de Control Sanitario de Productos y Servicios, publicado en el Diario Oficial de la Federación el 19 de agosto de 1999.
+
+...
