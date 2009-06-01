@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-rincon-de-romos-29026"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "2006-12-31"
+last_updated: "2009-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE RINCON DE ROMOS, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2009.
 
 Ley publicada en la Sección Décima Segunda del Alcance del Periódico Oficial del Estado de Aguascalientes, el martes 31 de diciembre de 1985.
 
@@ -365,9 +365,13 @@ DE LAS EXENCIONES
 
 No se pagará el impuesto establecido en esta ley:
 
-1.- En las adquisiciones de inmuebles que hagan la Federación, los Estados y Municipios para formar parte del dominio público, y los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2009)</small>
 
-2.- En las transmisiones de bienes y derechos que por rescisión del contrato vuelvan éstos al enajenante.
+I.- En las adquisiciones de inmuebles que hagan la Federación, los Estados y Municipios para formar parte del dominio público; y
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2009)</small>
+
+II.- En las transmisiones de bienes y derechos que por rescisión del contrato vuelvan éstos al enajenante.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1991)</small>
 
@@ -1010,3 +1014,9 @@ P.O. 31 DE DICIEMBRE DE 2006.
 ###### ARTICULO ÚNICO.
 
 El Presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JUNIO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
