@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-el-llano-aguascalientes-29024"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-03"
-last_updated: "1995-06-04"
+last_updated: "2009-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE EL LLANO, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2009.
 
 Ley publicada en el Suplemento de la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el domingo 3 de julio de 1994.
 
@@ -485,7 +485,9 @@ Es objeto de este impuesto el incremento del valor y mejoría de la propiedad in
 
 No se pagará el impuesto establecido en esta Ley:
 
-I.- En las adquisiciones de inmuebles que hagan la Federación, los Estados y Municipios para formar parte del dominio público, y los Partidos Políticos Nacionales, siempre y cuando dichos inmuebles sean para su propio uso y las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero; y
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2009)</small>
+
+I.- En las adquisiciones de inmuebles que hagan la Federación, los Estados y Municipios para formar parte del dominio público; y
 
 II.- En las transmisiones de bienes y derechos que por rescisión del contrato vuelvan éstos al enajenante.
 
@@ -860,3 +862,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Las Asociaciones Religiosa constituidas en los términos de la Ley de Asociaciones Religiosas y Culto Público, no pagarán el impuesto sobre adquisición de inmuebles, únicamente por lo que ve a las adquisiciones que realicen hasta el 31 de diciembre de 1995.
+
+P.O. 1 DE JUNIO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
