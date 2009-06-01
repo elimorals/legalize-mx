@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-asientos-aguascalientes-29025"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "2006-12-31"
+last_updated: "2009-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE ASIENTOS, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2009.
 
 Ley publicada en la Sección Segunda del Alcance del Periódico Oficial del Estado de Aguascalientes, el martes 31 de diciembre de 1985.
 
@@ -165,7 +165,7 @@ El pago del Impuesto a la Propiedad Raíz se efectuará a más tardar el último
 
 Los pagos pueden hacerse por anticipado sin perjuicio del cobro de diferencias en caso de que se modifique la base gravable.
 
-Tratándose de Ejidos y Comunidades Agrarias, el pago del impuesto podrá efectuarse dentro del plazo general a que se refiere el párrafo primero de este artículo o bien por anualidades vencidas durante el mes de enero del año siguiente al en que corresponda el pago.
+Tratándose de Ejidos y Comunidades Agrarias, el pago del impuesto podrá efectuarse dentro del plazo general a que se refiere el párrafo primero de esté artículo o bien por anualidades vencidas edurante el mes de enero del año siguiente al en que corresponda el pago.
 
 #### SECCION OCTAVA. De las Definiciones
 
@@ -339,9 +339,13 @@ DE LAS EXENCIONES
 
 No se pagará el impuesto establecido en esta ley:
 
-1.- En las adquisiciones de inmuebles que hagan la Federación, los Estados y Municipios para formar parte del dominio público, y los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2009)</small>
 
-2.- En las transmisiones de bienes y derechos que por rescisión del contrato vuelvan éstos al enajenante.
+I.- En las adquisiciones de inmuebles que hagan la Federación, los Estados y Municipios para formar parte del dominio público; y
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2009)</small>
+
+II.- En las transmisiones de bienes y derechos que por rescisión del contrato vuelvan éstos al enajenante.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1991)</small>
 
@@ -982,5 +986,11 @@ Las Asociaciones Religiosas constituidas en los términos de la Ley de Asociacio
 P.O. 31 DE DICIEMBRE DE 2006.
 
 ###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JUNIO DE 2009.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
