@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-aguascalientes-28616"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-29"
-last_updated: "2009-02-09"
+last_updated: "2009-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGS. PARA EL EJERCICIO FISCAL DE 1986
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2009.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1985.
 
@@ -927,9 +927,9 @@ DE LAS EXENCIONES
 
 No se pagará el impuesto establecido en ésta Ley:
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2009)</small>
 
-I.- En las adquisiciones de inmuebles que hagan la Federación, los Estados y los Municipios para formar parte del dominio público, y los Partidos Políticos Nacionales, siempre y cuando dichos inmuebles sean para su propio uso; y
+I.- En las adquisiciones de inmuebles que hagan la Federación, los Estados y los Municipios para formar parte del dominio público; y
 
 II.- En las transmisiones de bienes y derechos que por rescisión del contrato vuelvan éstos al enajenante.
 
@@ -1810,6 +1810,12 @@ P.O. 3 DE JUNIO DE 2008.
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 9 DE FEBRERO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JUNIO DE 2009.
 
 ###### ARTÍCULO ÚNICO.
 
