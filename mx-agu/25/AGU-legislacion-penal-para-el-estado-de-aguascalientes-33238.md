@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2009-05-04"
+last_updated: "2009-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2009.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -1643,9 +1643,11 @@ La Prisión consiste en la privación de la libertad personal del responsable, c
 
 En toda pena de prisión, se computará el tiempo de la prisión preventiva a favor del sentenciado.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2009)</small>
+
 ###### Artículo 99.
 
-La Multa consiste en el pago al Estado de una cantidad de dinero que se fijará por días-multa y que no podrán exceder de quinientos.
+La Multa consiste en el pago al Estado de una cantidad de dinero que se fijará por días-multa y que no podrán exceder de dos mil.
 
 ###### Artículo 100.
 
@@ -5578,3 +5580,9 @@ P.O. 4 MAYO DE 2009.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JUNIO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de publicación en el Periódico Oficial del Estado.
