@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-sistema-estatal-de-proteccion-civil-7286"
 country: "mx"
 rank: "ley"
 publication_date: "1992-11-30"
-last_updated: "1992-11-30"
+last_updated: "2009-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7286&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY DEL SISTEMA ESTATAL DE PROTECCION CIVIL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION CIVIL DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 1 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 30 de noviembre de 1992.
 
@@ -502,3 +504,39 @@ DR.MIGUEL BORGE MARTIN.
 EL SECRETARIO DE GOBIERNO.
 
 ING. JUAN MANUEL MERCADER RODRIGUEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE JUNIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley del Sistema Estatal de Protección Civil, expedida por la Honorable VI Legislatura del Estado mediante decreto 106, publicado en el Periódico Oficial del Gobierno del Estado en fecha 30 de noviembre de 1992.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones legales y reglamentarias que se opongan a la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Los Reglamentos, planes y programas a que se refiere la presente Ley, se realizarán y aprobarán en un plazo de doce meses contados partir de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo Estatal de Protección Civil y los Consejos Municipales correspondientes, serán reestructurados conforme a las disposiciones legales aplicables, en un plazo de cuatro meses contados a partir de la entrada en vigor del Reglamento que al efecto expida el Gobernador del Estado.
+
+###### ARTÍCULO SEXTO.
+
+En tanto el Titular del Ejecutivo no establezca el Instituto a que se refiere la presente Ley en términos de la Ley de Entidades Paraestatales, las funciones y atribuciones que se le confieren en la misma, se continuarán ejerciendo por la Dirección de Protección Civil del Gobierno del Estado. Las transferencias de recursos humanos, materiales y financieros a la nueva entidad, se realizarán de acuerdo con las disposiciones presupuestarias y administrativas en el ejercicio fiscal que se encuentre en curso a la entrada en vigor de este decreto. Los derechos de los trabajadores adjuntos en las unidades administrativas que se extinguen y se crean no se verán afectados.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los asuntos en la materia y la substanciación de los recursos pendientes, al inicio de la vigencia de la presente Ley, se sujetarán a las formas y procedimientos de los ordenamientos que les dieron origen.
+
+###### ARTÍCULO OCTAVO.
+
+Los permisos, autorizaciones o licencias concedidas hasta antes de la entrada en vigor de la presente Ley, continuarán vigentes en tanto no se opongan a las disposiciones de la misma, o a los convenios y acuerdos de coordinación institucional que celebre el Estado con la Federación y los Municipios.
