@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-agencia-de-seguridad-estatal-48738"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-02-01"
-last_updated: "2008-08-28"
+last_updated: "2009-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA AGENCIA DE SEGURIDAD ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE JUNIO DE 2009.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 1 de febrero de 2006.
 
@@ -105,7 +105,21 @@ XXVII.- Impulsar programas y proyectos para la prevención, protección y seguri
 
 XXVIII.- Operar y coordinar un sistema de capacitación en materia de protección civil.
 
-XXIX.- Las demás que le establezcan otras disposiciones legales y administrativas, las que determine el Secretario General de Gobierno, así como las que sean necesarias para el cumplimiento de sus atribuciones.
+> <small>(ADICIONADA, G.G. 1 DE JUNIO DE 2009)</small>
+
+XXIX.- Realizar estudios, análisis y evaluaciones a las políticas, estrategias y programas implementados para combatir la inseguridad pública en el Estado.
+
+> <small>(ADICIONADA, G.G. 1 DE JUNIO DE 2009)</small>
+
+XXX.- Formular políticas y programas orientados a mejorar la seguridad pública y la investigación criminal.
+
+> <small>(ADICIONADA, G.G. 1 DE JUNIO DE 2009)</small>
+
+XXXI.- Estudiar e identificar los perfiles profesionales y los métodos de selección y evaluación más adecuados para el acceso a los cuerpos de seguridad pública e investigación criminal.
+
+> <small>(REFORMADA, G.G. 1 DE JUNIO DE 2009)</small>
+
+XXXII.- Las demás que le establezcan otras disposiciones legales y administrativas, así como las que sean necesarias para el cumplimiento de sus atribuciones.
 
 ###### Artículo 4.
 
@@ -175,7 +189,19 @@ XXXI. Dirigir y coordinar la operación del servicio de carrera policial de la A
 
 XXXII. En situaciones de crisis y desastres que pongan en riesgo la estabilidad sociopolítica de la entidad, la coordinación con las diferentes dependencias del Estado y municipios, se realizará por la Secretaría General de Gobierno, a través del Comisionado de la Agencia de Seguridad Estatal.
 
-XXXIII. Las demás que les señalen otras disposiciones legales y administrativas y las que determine el Secretario General de Gobierno.
+> <small>(ADICIONADA, G.G. 1 DE JUNIO DE 2009)</small>
+
+XXXIII. Promover y coordinar la realización de estudios en materia de seguridad pública e investigación criminal.
+
+> <small>(ADICIONADA, G.G. 1 DE JUNIO DE 2009)</small>
+
+XXXIV. Ordenar la realización de evaluaciones a las políticas, programas y estrategias que se implementen en materia de seguridad pública en el Estado y recomendar acciones que contribuyan a su ejecución y cumplimiento.
+
+> <small>(ADICIONADA, G.G. 1 DE JUNIO DE 2009)</small>
+
+XXXV. Recomendar los perfiles profesionales y los métodos de selección para el acceso a los cuerpos de seguridad pública e investigación criminal.
+
+XXXVI. Las demás que le señalen otras disposiciones legales y administrativas y las que determine el Secretario General de Gobierno.
 
 ###### Artículo 5.
 
@@ -560,3 +586,11 @@ CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan
 QUINTO.- Los derechos adquiridos por los servidores públicos del extinto Colegio de Policía, serán respetados conforme a las disposiciones legales aplicables.
 
 SEXTO.- Los asuntos a cargo del Colegio de Policía, que se encuentren en trámite al entrar en vigor el presente Acuerdo, continuarán su curso conforme a las disposiciones legales aplicables.
+
+G.G. 1 DE JUNIO DE 2009.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor el I de junio de 2009.
+
+TERCERO.- Las secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, dispondrán lo necesario para el cumplimiento del presente Acuerdo.
