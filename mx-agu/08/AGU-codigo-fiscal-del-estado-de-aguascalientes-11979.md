@@ -4,7 +4,7 @@ identifier: "AGU-codigo-fiscal-del-estado-de-aguascalientes-11979"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2005-08-08"
+last_updated: "2009-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO FISCAL DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2009.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Aguascalientes, el jueves 31 de diciembre de 1981.
 
@@ -112,6 +112,14 @@ Los ingresos del Estado se clasifican en ordinarios y extraordinarios.
 Son ordinarios los impuestos, derechos, productos, aprovechamientos, contribuciones de mejoras y participaciones, mismas que cubrirán los gastos normales del Estado.
 
 Son extraordinarios los que se decreten excepcionalmente para cubrir los gastos e inversiones accidentales o especiales del Estado.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2009)</small>
+
+Los impuestos, derechos y contribuciones de mejoras, podrán generar accesorios, los cuales siguen la suerte de la contribución principal.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2009)</small>
+
+Los accesorios son los recargos moratorios, las sanciones, los gastos de ejecución y la indemnización por la falta de pago inmediato de un cheque expedido para cubrir un crédito fiscal.
 
 ###### ARTICULO 12.
 
@@ -364,6 +372,12 @@ I.- Si es a las autoridades a las que corresponde formular la liquidación, dent
 II.- Si es a los sujetos pasivos o responsables solidarios a quienes corresponde determinar en cantidad líquida la prestación, dentro de los veinte días siguientes al nacimiento de la obligación fiscal.
 
 III.- Si se trata de obligaciones derivadas de contratos, convenios o concesiones que no señalen la fecha de pago, éste deberá hacerse dentro de los quince días siguientes a la fecha de su celebración u otorgamiento.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2009)</small>
+
+ARTICULO 40 BIS.- Cuando los créditos fiscales no hayan sido cubiertos en la fecha o dentro del plazo fijado por las disposiciones fiscales, su monto se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe. Dichos créditos se actualizarán por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual, el factor de actualización que corresponda se multiplicará por las cantidades que se deban actualizar. El factor antes referido se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes anterior, al mes más reciente del período entre el citado índice correspondiente al mes anterior, al mes más antiguo de dicho período. Los Índices Nacionales de Precios al Consumidor son publicados en el Diario Oficial de la Federación por el Banco de México, en caso de que el Índice del mes anterior, al mes más reciente del período no haya sido publicado, la actualización de que se trate se realizará aplicando el último Índice mensual publicado.
+
+Cuando el resultado de la operación a que se refiere el primer párrafo de este Artículo sea menor a 1, el factor de actualización que se aplicará al monto de los créditos fiscales de que se trate, será 1.
 
 ###### ARTICULO 41.
 
@@ -1226,6 +1240,10 @@ Salvo que las disposiciones legales respectivas o resoluciones señalen una fech
 Se considerarán días hábiles sólo aquellos en que se encuentren abiertas al público las oficinas fiscales, durante el horario normal. La existencia del personal de guardia no habilita los días en que se suspendan las labores.
 
 Las autoridades fiscales podrán habilitar, mediante acuerdo escrito, horas o días inhábiles para la práctica de actuaciones determinadas, o para recibir pagos.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2009)</small>
+
+El horario hábil para llevar a cabo notificaciones y actos dentro de los procedimientos administrativos de comprobación y/o ejecución, es el comprendido entre las 7:30 y las 18:00 horas. Cuando se inicie un procedimiento de fiscalización o de ejecución en horario hábil, podrá concluirse en horario inhábil, sin afectar su validez.
 
 ### CAPITULO III. De la Inspección Fiscal
 
@@ -2306,3 +2324,9 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
+
+P.O. 1 DE JUNIO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
