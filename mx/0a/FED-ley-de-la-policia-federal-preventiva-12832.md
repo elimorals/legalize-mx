@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-policia-federal-preventiva-12832"
 country: "mx"
 rank: "ley"
 publication_date: "1999-01-04"
-last_updated: "2009-01-23"
+last_updated: "2009-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12832&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1998-12-31"
 
 LEY DE LA POLICIA FEDERAL PREVENTIVA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE LA POLICIA FEDERAL, PUBLICADA EN EL D.O.F. DE 1 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 4 de enero de 1999.
 
@@ -324,3 +326,15 @@ SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ...
+
+D.O.F. 1 DE JUNIO DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo. Todas las menciones que en cualquier disposición se hagan respecto de la Policía Federal Preventiva se entenderán referidas a la Policía Federal.
+
+Artículo Tercero. Los procedimientos que a la fecha de entrada en vigor del presente decreto se estén substanciando en las Comisiones de Honor y Justicia y la del Servicio Civil de Carrera Policial de la Policía Federal Preventiva, deberán continuar su trámite ante el Consejo Federal de Desarrollo Policial, conforme a las disposiciones legales vigentes al momento de su inicio.
+
+Artículo Cuarto. Los programas, proyectos, y demás acciones que, en cumplimiento de lo dispuesto en esta ley y en razón de su competencia, corresponda ejecutar a las dependencias y entidades de la Administración Pública Federal, deberán sujetarse a la disponibilidad presupuestaria de las mismas y la que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+Artículo Quinto. Se abroga la Ley de la Policía Federal Preventiva y se derogan las disposiciones que se opongan a la presente Ley.
