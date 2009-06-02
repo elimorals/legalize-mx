@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-el-procedimiento-de-acceso-a-la-informacion-368
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-30"
-last_updated: "2004-01-30"
+last_updated: "2009-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO PARA EL PROCEDIMIENTO DE ACCESO A LA INFORMACION PUBLICA EN EL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-REGLAMENTO PARA EL PROCEDIMIENTO DE ACCESO A LA INFORMACION PUBLICA EN EL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
+REGLAMENTO PARA EL PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN PÚBLICA EN EL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2009.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 30 de enero de 2004.
 
@@ -77,9 +77,17 @@ La Unidad será responsable de entregar o negar la información en los términos
 
 La obligación de proporcionar información del Poder Judicial no comprende el procesamiento de la misma, ni el presentarla conforme al interés del solicitante. Tampoco comprende el proporcionar información que no exista o no se encuentre bajo su dominio.
 
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2009)</small>
+
+El derecho de acceso a la información pública es gratuito, comprende la consulta de los documentos, la obtención de copias o reproducciones así como la orientación sobre su existencia y contenido; se podrá recuperar el costo del soporte material de las copias o reproducciones donde se entregue la Información solicitada, los gastos de envío y los gastos de certificación según sea el caso, de conformidad con la Ley de la materia.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2009)</small>
+
 ###### Artículo 6.
 
-Con excepción de la información prevista en las fracciones XI y XII, del artículo 10 de la Ley, el Poder Judicial hará pública de oficio la información a que se refiere dicho artículo.
+El Poder Judicial hará pública de oficio la información a que se refiere el artículo 10 de la Ley, a excepción de la prevista en la fracción XIII, al no ser materia del Poder Judicial.
+
+El Poder Judicial del Estado debe observar los principios de transparencia y máxima publicidad en sus actos así como respetar el derecho al libre acceso a la información pública.
 
 ### CAPITULO SEGUNDO. DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA
 
@@ -115,9 +123,11 @@ La Unidad, además de las atribuciones previstas en la Ley, tendrá las siguient
 
 I.- Elaborar semestralmente y por rubros temáticos, un índice de la información o de los expedientes clasificados como reservados;
 
-II.- Vigilar que sólo se distribuyan, difundan o comercialicen los datos personales contenidos en los sistemas de acceso a la información pública, cuando medie el consentimiento de los individuos a que haga referencia la información pública;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2009)</small>
 
-III.- Proporcionar los datos personales en los supuestos y bajo las condiciones previstas en el artículo 24 de la Ley; así como tramitar el procedimiento de corrección de datos personales;
+II.- Garantizar la protección de los datos personales que obren en su poder en términos de la Ley de Protección de Datos Personales para el Estado y Municipios de Guanajuato;
+
+III.- (DEROGADA, P.O. 2 DE JUNIO DE 2009)
 
 IV.- Emitir el acuerdo de clasificación de la información reservada y confidencial, de conformidad con lo previsto en la Ley y en el presente Reglamento;
 
@@ -237,9 +247,11 @@ Los expedientes y documentos clasificados como confidenciales deberán llevar un
 
 Cuando un expediente contenga documentos públicos y confidenciales, se deberán entregar aquellos que estén clasificados como públicos. Tratándose de un documento que contenga partes o secciones, confidenciales, se deberá entregar una versión en el que se omitan estas últimas. Las reproducciones de los expedientes o documentos que se entreguen constituirán las versiones públicas correspondientes.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2009)</small>
+
 ###### Artículo 25.
 
-La información confidencial no estará sujeta a plazos de vencimiento y tendrá ese carácter de manera indefinida, salvo que medie el consentimiento expreso del titular de la información, por escrito o medio de autentificación equivalente, o que se actualicen los supuestos previstos en el artículo 24 de la Ley.
+La información confidencial no estará sujeta a plazos de vencimiento y tendrá ese carácter de manera indefinida.
 
 ###### Artículo 26.
 
@@ -271,11 +283,15 @@ II.- Determinar si la dependencia, entidad o unidad administrativa cuenta con la
 
 III.- Revisar la forma en que se encuentra clasificada la información, o en su caso, proponer la clasificación de la información solicitada;
 
-IV.- Remitir la información o el acuerdo de negativa a la Unidad; y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2009)</small>
+
+IV.- Remitir la información a la Unidad;
 
 V.- Solicitar a la Unidad la ampliación del término para entregar la información en los términos de la Ley y del presente Reglamento;
 
-Si en este plazo no existe respuesta la Unidad requerirá por escrito a la unidad de enlace la respuesta a la solicitud remitida, a fin de que la remita de inmediato.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2009)</small>
+
+Cuando la Información no se encuentre en los archivos de la Unidad de Enlace, ésta lo notificará a la Unidad dentro del plazo de cinco días hábiles contados a partir de que la Unidad de Enlace reciba la solicitud.
 
 ###### Artículo 31.
 
@@ -289,7 +305,9 @@ Mediante el requerimiento de la Unidad informará al solicitante las omisiones o
 
 Si el solicitante no da cumplimiento al requerimiento dentro del plazo señalado, la Unidad desechará su solicitud.
 
-El término de veinte días hábiles para dar respuesta a la solicitud en el supuesto anterior, empezará a correr a partir de que el solicitante cumpla el requerimiento de la Unidad.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2009)</small>
+
+El término de quince días hábiles para dar respuesta a la solicitud en el supuesto anterior, empezará a correr a partir de que el solicitante cumpla el requerimiento de la Unidad.
 
 ###### Artículo 33.
 
@@ -333,9 +351,11 @@ Los motivos que supongan negligencia o descuido de la unidad de enlace en el des
 
 La unidad de enlace podrá solicitar a la Unidad la ampliación del término para la entrega de la información, exponiendo los motivos para dicha ampliación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2009)</small>
+
 ###### Artículo 41.
 
-Son causas de ampliación del término a que se refiere el artículo 41 de la Ley:
+Son causas de ampliación del término a que se refiere el artículo 42 de la Ley:
 
 I.- Cuando la unidad de enlace notifique que no tienen la información solicitada y la Unidad inicie el análisis respectivo para localizar la información;
 
@@ -402,3 +422,9 @@ Lo anterior, se asienta para debida constancia, y efectos legales a que haya lug
 El Secretario General del Consejo del Poder Judicial del Estado.
 
 Lic. Francisco Javier Zamora Rocha
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE JUNIO DE 2009.
+
+Artículo único.- El presente decreto entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
