@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "2008-12-30"
+last_updated: "2009-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JUNIO DE 2009.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -194,11 +194,11 @@ La operación del Registro Público de Comercio está a cargo de la Secretaría 
 
 La Secretaría emitirá los lineamientos necesarios para la adecuada operación del Registro Público de Comercio, que deberán publicarse en el Diario Oficial de la Federación.
 
-> <small>(DEROGADO POR FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, EN TODO LO QUE SE OPONGA A LA MISMA, D.O.F. 4 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2009)</small>
 
 ###### Art. 19.
 
-La inscripción ó matrícula en el Registro mercantil será potestativa para los individuos que se dediquen al comercio, y obligatoria para todas las sociedades mercantiles y para los buques. Los primeros quedarán matriculados de oficio al inscribir cualquier documento cuyo registro sea necesario.
+La inscripción o matrícula en el registro mercantil será potestativa para los individuos que se dediquen al comercio y obligatoria para todas las sociedades mercantiles por lo que se refiere a su constitución, transformación, fusión, escisión, disolución y liquidación y para los buques. Los primeros quedarán matriculados de oficio al inscribir cualquier documento cuyo registro sea necesario.
 
 (REFORMADO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
 
@@ -250,13 +250,15 @@ III. La fecha en que deba comenzar ó haya comenzado sus operaciones;
 
 IV. El domicilio con especificación de las sucursales que hubiere establecido, sin perjuicio de inscribir las sucursales en el Registro del Partido judicial en que estén domiciliadas;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 2 DE JULIO DE 1992)</small>
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2009)</small>
 
-V. Las escrituras de constitución de sociedad mercantil, cualesquiera que sean su objeto o denominación, así como las de modificación, rescisión, disolución o escisión de las mismas sociedades;
+V. Los instrumentos públicos en los que se haga constar la constitución de las sociedades mercantiles, así como los que contengan su transformación, fusión, escisión, disolución y liquidación;
 
 VI. El acta de la primera junta general y documentos anexos á ella, en las sociedades anónimas que se constituyan por suscripción pública;
 
-VII. Los poderes generales y nombramientos, y revocación de los mismos si la hubiere, conferidos á los gerentes, factores, dependientes y cualesquiera otros mandatarios;
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2009)</small>
+
+VII. Para efectos del comercio y consulta electrónicos, opcionalmente, los poderes y nombramientos de funcionarios, así como sus renuncias o revocaciones;
 
 VIII. (DEROGADA, D.O.F. 27 DE ENERO DE 1970)
 
@@ -270,7 +272,9 @@ X. Las capitulaciones matrimoniales y los documentos que acrediten alguna modifi
 
 XI. Los documentos justificativos de los haberes ó patrimonio que tenga el hijo ó el pupilo que estén bajo la patria potestad, ó bajo la tutela del padre ó tutor comerciantes;
 
-XII. El aumento ó diminución (sic) del capital efectivo en las sociedades anónimas y en comandita por acciones;
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2009)</small>
+
+XII. El cambio de denominación o razón social, domicilio, objeto social, duración y el aumento o disminución del capital mínimo fijo;
 
 XIII. (DEROGADA POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
@@ -3498,7 +3502,7 @@ Del contrato mercantil de trasporte terrestre.
 
 ## TITULO DECIMO.
 
-DE LOS TRASPORTES POR VÍAS TERRESTRES Ó FLUVIALES.
+DE LOS TRANSPORTES POR VÍAS TERRESTRES Ó FLUVIALES.
 
 ### CAPÍTULO I.
 
@@ -7054,7 +7058,7 @@ Las objeciones a que se refiere el párrafo anterior se podrán realizar desde e
 
 Si con la impugnación a que se refieren los dos párrafos anteriores no se ofreciere la prueba pericial correspondiente o no se cumpliere con cualquiera de los requisitos necesarios para su admisión a trámite, se desechará de plano por el juzgador.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2008)</small>
 
@@ -7072,7 +7076,7 @@ V. Lo dispuesto en este artículo sólo da competencia al juez para conocer y de
 
 VI. Si durante la secuela del procedimiento se tramitare diverso proceso penal sobre la falsedad del documento en cuestión, el tribunal, sin suspender el juicio y según las circunstancias, podrá determinar al dictar la sentencia si se reservan los derechos del impugnador para el caso en que penalmente se demuestre la falsedad o bien puede subordinar la eficacia ejecutiva de la sentencia a la prestación de una caución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2008)</small>
 
@@ -8550,7 +8554,7 @@ b) No fue debidamente notificada de la designación de un árbitro o de las actu
 
 c) El laudo se refiere a una controversia no prevista en el acuerdo de arbitraje o contiene decisiones que exceden los términos del acuerdo de arbitraje. No obstante, si las disposiciones del laudo que se refieren a las cuestiones sometidas al arbitraje pueden separarse de las que no lo están, sólo se podrán anular estas últimas; o
 
-d). La composición del tribunal arbitral o el procedimiento arbitral no se ajustaron en el acuerdo celebrado entre las partes, salvo que dicho acuerdo estuviera en conflicto con una disposición del presente título de la que las partes no pudieran apartarse o, a falta de dicho acuerdo, que no se ajustaron al presente título; o
+d) La composición del tribunal arbitral o el procedimiento arbitral no se ajustaron en el acuerdo celebrado entre las partes, salvo que dicho acuerdo estuviera en conflicto con una disposición del presente título de la que las partes no pudieran apartarse o, a falta de dicho acuerdo, que no se ajustaron al presente título; o
 
 II. El juez compruebe que, según la legislación mexicana, el objeto de la controversia no es susceptible de arbitraje, o que el laudo es contrario al orden público.
 
@@ -9281,3 +9285,7 @@ DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTICULOS DEL CODIG
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- El presente Decreto no será aplicable a los asuntos cuya demanda haya sido admitida con anterioridad a la entrada en vigor de la reforma al Código de Comercio publicada en el Diario Oficial de la Federación el 17 de abril de 2008.
+
+D.O.F. 2 DE JUNIO DE 2009.
+
+Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
