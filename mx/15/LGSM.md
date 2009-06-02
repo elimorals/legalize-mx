@@ -4,7 +4,7 @@ identifier: "LGSM"
 country: "mx"
 rank: "ley_general"
 publication_date: "1934-08-04"
-last_updated: "2006-07-28"
+last_updated: "2009-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=578&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGSM"
 
 LEY GENERAL DE SOCIEDADES MERCANTILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JUNIO DE 2009.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación, el sábado 4 de agosto de 1934.
 
@@ -1252,11 +1252,11 @@ El informe del que habla el enunciado general del artículo anterior, incluido e
 
 La falta de presentación oportuna del informe a que se refiere el enunciado general del artículo 172, será motivo para que la Asamblea General de Accionistas acuerde la remoción del Administrador o Consejo de Administración, o de los Comisarios, sin perjuicio de que se les exijan las responsabilidades en que respectivamente hubieren incurrido.
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 177.
 
-Quince días después de la fecha en que la asamblea general de accionistas haya aprobado el informe a que se refiere el enunciado general del artículo 172, deberán mandarse publicar los estados financieros incluidos en el mismo, juntamente con sus notas y el dictamen del comisario, en el periódico oficial de la entidad en donde tenga su domicilio la sociedad, o, si se trata de sociedades que tengan oficinas o dependencias en varias entidades, en el "Diario Oficial" de la Federación. Se depositará copia autorizada del mismo en el Registro Público de Comercio. Si se hubiere formulado en término alguna oposición contra la aprobación del balance por la Asamblea General de Accionistas, se hará la publicación y depósito con la anotación relativa al nombre de los opositores y el número de acciones que representen.
+Quince días después de la fecha en que la asamblea general de accionistas haya aprobado el informe a que se refiere el enunciado general del artículo 172, deberán mandarse publicar los estados financieros incluidos en el mismo, juntamente con sus notas y el dictamen del comisario, en el periódico oficial de la entidad en donde tenga su domicilio la sociedad, o, si se trata de sociedades que tengan oficinas o dependencias en varias entidades, en el Diario Oficial de la Federación.
 
 #### SECCION SEXTA. De las asambleas de accionistas
 
@@ -1384,7 +1384,9 @@ Las actas de las Asambleas Generales de Accionistas se asentarán en el libro re
 
 Cuando por cualquiera circunstancia no pudiere asentarse el acta de una asamblea en el libro respectivo, se protocolizará ante Notario.
 
-Las actas de las Asambleas Extraordinarias serán protocolizadas ante Notario e inscritas en el Registro Público de Comercio.
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2009)</small>
+
+Las actas de las asambleas extraordinarias serán protocolizadas ante fedatario público.
 
 ###### ARTICULO 195.
 
@@ -1947,3 +1949,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 D.O.F. 28 DE JULIO DE 2006.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE JUNIO DE 2009.
+
+Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
