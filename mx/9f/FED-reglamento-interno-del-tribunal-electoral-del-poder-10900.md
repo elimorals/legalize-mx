@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-del-tribunal-electoral-del-poder-10900"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-06-16"
-last_updated: "2009-02-04"
+last_updated: "2009-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10900&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1997-06-04"
 
 REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JUNIO DE 2009.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 16 de junio de 1997.
 
@@ -1111,7 +1111,9 @@ ARTICULO 56
 
 Con el objeto de orientar la política académica y editorial del Tribunal Electoral, la Sala Superior se auxiliará de un órgano consultivo denominado Comité Académico y Editorial, que será el encargado de aprobar las directivas de investigación, capacitación y editoriales.
 
-El Comité Académico y Editorial estará integrado por el Presidente del Tribunal Electoral, quien a su vez lo presidirá, dos Magistrados de la Sala Superior designados por la propia Sala, el titular del Centro de Capacitación Judicial Electoral, el Coordinador de Información, Documentación y Transparencia, el Coordinador de Comunicación Social y cuatro miembros externos elegidos por la misma de entre personalidades reconocidas en su ámbito profesional, académico y editorial, a propuesta de cualquiera de los Magistrados que integran el Comité. Sus integrantes durarán en el encargo cuatro años, con excepción del Presidente, cuyo periodo será el mismo de su encargo.
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2009)</small>
+
+El Comité Académico y Editorial estará integrado por el Presidente del Tribunal Electoral, quien a su vez lo presidirá, tres Magistrados de la Sala Superior designados por la propia Sala, el titular del Centro de Capacitación Judicial Electoral, el Coordinador de Información, Documentación y Transparencia, el Coordinador de Comunicación Social y cinco miembros externos elegidos por la misma de entre personalidades reconocidas en su ámbito profesional, académico y editorial, a propuesta de cualquiera de los Magistrados que integran el Comité. Sus integrantes durarán en el encargo cuatro años, con excepción del Presidente, cuyo periodo será el mismo de su encargo.
 
 El titular del Centro de Capacitación Judicial Electoral, el Coordinador de Información, Documentación y Transparencia, así como el de Comunicación Social, concurrirán a las sesiones del Comité con voz, pero sin voto.
 
@@ -1522,3 +1524,17 @@ Quinto.- Los Magistrados que a la fecha de adopción de la presente reforma inte
 Sexto.- En tanto la Sala Superior designa a los integrantes externos del Comité Académico y Editorial, lo cual deberá realizar en un plazo máximo de treinta días naturales contados a partir de la entrada en vigor de la presente reforma, los actuales miembros del Comité Académico y del Consejo Editorial conformarán dicho Organo.
 
 Séptimo.- Publíquese en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE JUNIO DE 2009.
+
+Primero.- La presente reforma entrará en vigor el día de su aprobación.
+
+Segundo.- Se derogan todas las disposiciones de la normativa interna del Tribunal Electoral que se opongan a la presente reforma.
+
+Tercero.- La Sala Superior y la Comisión de Administración, en el ámbito de sus respectivas competencias, expedirán los acuerdos necesarios para la efectiva observancia de la disposición reformada del Reglamento Interno.
+
+Cuarto.- Los Magistrados que a la fecha de adopción de la presente reforma integran el Comité Académico y Editorial, así como aquel que sea designado con motivo de la presente reforma, formarán parte del mismo hasta el dos de marzo del año dos mil diez, con excepción de quien presida el Tribunal Electoral del Poder Judicial de la Federación.
+
+Quinto.- El quinto miembro externo del Comité Académico y Editorial, que deba ser designado como consecuencia de esta reforma, durará en su encargo el mismo periodo que aquellos que fueron nombrados en sesión privada de la Sala Superior, de veintiséis de febrero de dos mil nueve.
+
+Sexto.- Publíquese en el Diario Oficial de la Federación.
