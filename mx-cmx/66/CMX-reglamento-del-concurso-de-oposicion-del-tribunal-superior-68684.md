@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-concurso-de-oposicion-del-tribunal-superior-6868
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-03"
-last_updated: "2004-09-03"
+last_updated: "2009-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68684&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,19 +20,19 @@ issue_date: "2004-08-11"
 ---
 # REGLAMENTO DEL CONCURSO DE OPOSICION DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL -ANTES REGLAMENTO DEL CONCURSO DE OPOSICION-
 
-REGLAMENTO DEL CONCURSO DE OPOSICION
+REGLAMENTO DEL CONCURSO DE OPOSICION DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE JUNIO DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 3 de agosto de 2004.
-
-(Al margen superior izquierdo el Escudo Nacional que dice: ESTADOS UNIDOS MEXICANOS.-CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL.- MEXICO)
 
 En cumplimiento al Acuerdo General 11-35/2004 emitido por el Consejo de la Judicatura del Distrito Federal, en sesión ordinaria de fecha 11 de agosto del año en curso, para los efectos legales y administrativos correspondientes, se hace del conocimiento, el contenido de dicho Acuerdo, mismo que en su parte conducente dice:
 
 "El Consejo de la Judicatura del Distrito Federal expide, con fundamento en los artículos 122, párrafo quinto, apartado C, BASE CUARTA, fracciones II y III de la Constitución General de la República; 77 del Estatuto de Gobierno del Distrito Federal; 17 fracción VIII; 18 fracción VII; 76 segundo párrafo; 77; 190; 193; 201 fracción III de la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal vigente, el siguiente:
 
-REGLAMENTO DEL CONCURSO DE OPOSICIÓN
+> <small>(REFORMADA SU DENOMINACION, G.O. 3 DE JUNIO DE 2009)</small>
+
+REGLAMENTO DEL CONCURSO DE OPOSICIÓN DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL.
 
 ## TÍTULO PRIMERO
 
@@ -46,7 +46,15 @@ El presente Reglamento tiene por objeto establecer las disposiciones que precisa
 
 Las plazas vacantes en las que deba designarse Juez de Primera Instancia o de Paz, mediante nombramiento definitivo o con carácter interino, sea por ausencia por más de un mes o por definitiva de éstos, se cubrirán de conformidad con lo que disponen los artículos 76, 77 y 190 de la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal.
 
-El Pleno del Consejo de la Judicatura del Distrito Federal, determinará de conformidad con el párrafo anterior, las plazas que entrarán a concurso, dando prioridad a los servidores públicos judiciales que ya laboran en los órganos judiciales y dependencias del Tribunal Superior de Justicia del Distrito Federal y del Consejo de la Judicatura del Distrito Federal y, en su caso, de aquellos profesionales del derecho que deseen ocupar dichos cargos.
+> <small>(ADICIONADO, G.O. 3 DE JUNIO DE 2009)</small>
+
+De igual forma, a fin de contar con personal que pueda ocupar juzgados de nueva creación, podrá convocarse a concurso plazas que no se encuentren vacantes, quedando pendiente la adscripción de los vencedores en el momento que así lo determine el Consejo de la Judicatura del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 3 DE JUNIO DE 2009)</small>
+
+El Pleno del Consejo de la Judicatura del Distrito Federal, determinará de conformidad con los párrafos anteriores, las plazas que entrarán a concurso, dando prioridad a los servidores públicos judiciales que ya laboran en los órganos judiciales y dependencias del Tribunal Superior de Justicia del Distrito Federal y del Consejo de la Judicatura del Distrito Federal y, en su caso, de aquellos profesionales del derecho que deseen ocupar dichos cargos.
+
+> <small>(REFORMADO, G.O. 3 DE JUNIO DE 2009)</small>
 
 En el concurso interno de oposición participarán únicamente los servidores públicos judiciales que laboren en los órganos jurisdiccionales y dependencias del Tribunal Superior de Justicia y del Consejo de la Judicatura del Distrito Federal, en salvaguarda de la carrera judicial y en el concurso de oposición libre, además de los anteriores, podrán participar los Licenciados en Derecho que no formen parte de las instituciones antes señaladas.
 
@@ -54,9 +62,11 @@ En el concurso interno de oposición participarán únicamente los servidores p�
 
 Cuando existan plazas vacantes en las que deba designarse Juez de Primera Instancia o de Paz, mediante la expedición del nombramiento definitivo, el Consejo de la Judicatura del Distrito Federal, convocará en los términos del artículo anterior a los interesados a ocupar dichas plazas de conformidad con lo que dispone y fija la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 3 DE JUNIO DE 2009)</small>
+
 ###### Artículo 4.
 
-El concurso a que refiere el artículo 2º de este ordenamiento se verificará cuando exista una plaza vacante por ausencia mayor de un mes o definitiva de un Juez. El Concurso se integrará con un examen escrito, cuyo contenido versará sobre temas generales del Derecho y los relacionados con la función del cargo para el que se concursa; la resolución de casos prácticos que se asignen; y la sustentación de un examen oral que será público y video grabado para constancia de lo ahí manifestado.
+El concurso a que se refiere el artículo 2° de este ordenamiento se verificará cuando exista una plaza vacante por ausencia mayor de un mes o definitiva de un Juez, o cuando el Consejo de la Judicatura del Distrito Federal así lo determine para los efectos que se señalan en el párrafo segundo de dicho numeral. El Concurso se integrará con un examen escrito, cuyo contenido versará sobre temas generales del Derecho y los relacionados con la función del cargo para el que se concursa; la resolución de casos prácticos que se asignen; y la sustentación de un examen oral que será público y video grabado para constancia de lo ahí manifestado.
 
 ###### Artículo 5.
 
@@ -174,9 +184,11 @@ Los sustentantes no podrán acudir a los exámenes tanto escrito como oral, con 
 
 ### CAPÍTULO SEGUNDO. DE LA CALIFICACIÓN DE LOS EXÁMENES
 
+> <small>(REFORMADO, G.O. 3 DE JUNIO DE 2009)</small>
+
 ###### Artículo 15.
 
-Los exámenes escritos, casos prácticos y exámenes orales del Concurso de Oposición, serán calificados por el Jurado de acuerdo a una escala de uno a cien puntos, siendo de sesenta puntos la calificación mínima aprobatoria en la etapa selectiva y de ochenta puntos mínimos para las subsecuentes.
+Los exámenes escritos, casos prácticos y exámenes orales del Concurso de Oposición, serán calificados por el Jurado de acuerdo a una escala de uno a cien puntos, siendo de ochenta puntos la calificación mínima aprobatoria en cada una de las etapas.
 
 ###### Artículo 16.
 
@@ -213,3 +225,11 @@ Artículo tercero.- Los Concursos de Oposición que se hayan iniciado con anteri
 LA SECRETARIA GENERAL DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 
 LIC. MATILDE RAMÍREZ HERNÁNDEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 3 DE JUNIO DE 2009.
+
+Primero. - El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal. Para su mayor difusión publíquese en la Gaceta Oficial del Distrito Federal, por una sola ocasión.
+
+Segundo. - Los Concursos de Oposición que se hayan iniciado con anterioridad a la entrada en vigor del presente Acuerdo, se regirán por la normatividad que se venía aplicando.
