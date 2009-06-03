@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2009-04-13"
+last_updated: "2009-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -323,31 +323,19 @@ La ley garantizará los derechos de la personalidad, comprendiendo, dentro de é
 
 El Estado fomentará las actividades lícitas de los individuos, que tiendan a la producción y adquisición de bienes que garanticen su bienestar.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2009)</small>
 
 ###### Artículo 16.
 
 La ley protegerá el derecho de propiedad para que sus titulares obtengan los beneficios que son susceptibles de proporcionar los bienes.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
-
-###### Artículo 17.
-
 En función del progreso social, el Estado promoverá y fomentará la producción de bienes y la prestación de servicios por los particulares o por él mismo.
-
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
-
-### CAPITULO IV. DE LOS POBLANOS
-
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
-
-###### Artículo 18.
 
 El Estado ejercitará, en beneficio de los habitantes del territorio poblano, las facultades que en materia económica le confieren esta Constitución y las leyes que de ella dimanan.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2009)</small>
 
-###### Artículo 19.
+###### Artículo 17.
 
 Además de las obligaciones que las leyes les impongan, los habitantes del Estado, sin distinción alguna, deben:
 
@@ -355,133 +343,165 @@ I.- Recibir la educación básica en la forma prevista por las leyes y conforme 
 
 II.- Contribuir para todos los gastos públicos de la manera proporcional y equitativa que dispongan las leyes;
 
-III.- Prestar auxilio a las autoridades cuando para ello sean legalmente requeridos;
+III.- Prestar auxilio a las autoridades cuando para ello sean legalmente requeridas; y
 
 IV.- Realizar sus actividades y usar y disponer de sus bienes, en forma que no perjudiquen a la colectividad.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE JUNIO DE 2009)</small>
 
-###### Artículo 20.
+### CAPITULO IV. DE LOS POBLANOS Y DE LOS CIUDADANOS DEL ESTADO
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE JUNIO DE 2009)</small>
+
+###### Artículo 18.
 
 Son poblanos:
 
-I.- Los nacidos en territorio del Estado.
+I.- Los nacidos en territorio del Estado;
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1995)</small>
+II.- Los mexicanos hijos de padre poblano o madre poblana, nacidos fuera del territorio del Estado, mayores de edad, que manifiesten ante el Congreso local, su deseo de ser poblanos y obtengan del mismo su aprobación para ser considerados como tales; y
 
-II.- Los mexicanos hijos de padre poblano o madre poblana, nacidos fuera del territorio del Estado, mayores de edad, que manifiesten ante el Congreso Local, su deseo de ser poblanos y obtengan del mismo su aprobación para ser considerados como tales.
+III.- Los mexicanos nacidos fuera del territorio del Estado, hijos de padres no poblanos, con residencia continua y comprobable de cinco años dentro del mismo, mayores de edad, que manifiesten ante el Congreso local su deseo de ser poblanos y obtengan del mismo su aprobación para ser considerados como tales.
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE JUNIO DE 2009)</small>
 
-III.- Los mexicanos nacidos fuera del territorio del Estado, hijos de padres no poblanos, con residencia continua y comprobable de cinco años dentro del mismo, mayores de edad que manifiesten ante el Congreso Local su deseo de ser poblanos y obtengan del mismo su aprobación para ser considerados como tales.
+###### Artículo 19.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+Son ciudadanos del Estado los poblanos hombres y mujeres de nacionalidad mexicana, que residan en la Entidad y reúnan además los siguientes requisitos:
 
-###### Artículo 21.
-
-Son ciudadanos del Estado los poblanos varones y mujeres de nacionalidad mexicana, que residan en la Entidad y reúnan además los siguientes requisitos:
-
-I.- Haber cumplido dieciocho años, y
+I.- Haber cumplido dieciocho años; y
 
 II.- Tener modo honesto de vivir.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2009)</small>
 
-###### Artículo 22.
+###### Artículo 20.
 
 Son prerrogativas de los ciudadanos del Estado:
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
-
 I.- Votar en las elecciones populares y participar en los procesos de plebiscito, referéndum e iniciativa popular en los términos que establezca esta Constitución y la ley de la materia;
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+II.- Poder ser votado para todos los cargos de elección popular y nombrado para cualquier empleo o comisión, teniendo las calidades que establezca la ley;
 
-II.- Poder ser votado para todos los cargos de elección popular y nombrado para cualquier empleo o comisión, teniendo las calidades que establezca la ley.
+III.- Reunirse pacíficamente para tratar y discutir los asuntos políticos del Estado o de los Municipios de éste; y
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+IV.- Los Ministros de los cultos religiosos tendrán las prerrogativas que les conceden la Constitución Política de los Estados Unidos Mexicanos, así como las Leyes, Reglamentos Federales de la Materia.
 
-III.- Reunirse pacíficamente para tratar y discutir los asuntos políticos del Estado o de los Municipios de éste.
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE JUNIO DE 2009)</small>
 
-> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
-
-IV.- Los Ministros de los cultos religiosos, tendrán las prerrogativas que les concede la Constitución Política de los Estados Unidos Mexicanos, así como Leyes y Reglamentos Federales de la Materia.
-
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
-
-###### Artículo 23.
+###### Artículo 21.
 
 Son obligaciones de los ciudadanos del Estado:
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+I.- Inscribirse en el Padrón Municipal;
 
-I.- Inscribirse en el Padrón Municipal.
+II.- Inscribirse en el Padrón Electoral;
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+III.- Votar en las elecciones, en la forma que disponga la ley; y
 
-II.- Inscribirse en el Padrón Electoral.
+IV.- Desempeñar los cargos de elección popular, los concejiles, los censales y las funciones electorales conforme a la ley, salvo excusa legítima.
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE JUNIO DE 2009)</small>
 
-III.- Votar en las elecciones populares, en la forma que disponga la Ley; y
-
-> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
-
-IV.- Desempeñar los cargos de elección popular, los concejiles, los censales y las funciones electorales conforme a la Ley, salvo excusa legítima.
-
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
-
-###### Artículo 24.
+###### Artículo 22.
 
 Los derechos y prerrogativas de los ciudadanos se suspenden:
 
-I.- Por incapacidad declarada conforme a las leyes.
+I.- Por incapacidad declarada conforme a las leyes;
 
-II.- Por falta de cumplimiento, sin causa justificada, de las obligaciones impuestas por el artículo anterior.
+II.- Por falta de cumplimiento, sin causa justificada, de las obligaciones impuestas por el artículo anterior;
 
-III.- Por estar procesados por delito intencional que merezca sanción corporal, desde la fecha en que se dicte auto de formal prisión o desde que se declare que ha lugar a instauración de causa, tratándose de funcionarios que gocen de fuero constitucional.
+III.- Por estar procesados por delito intencional que merezca sanción corporal, desde la fecha en que se dicte auto de formal prisión o desde que se declare que ha lugar a instauración de causa, tratándose de funcionarios que gocen de fuero constitucional;
 
-IV.- Por sentencia ejecutoriada que imponga como pena esa suspensión.
+IV.- Por sentencia ejecutoriada que imponga como pena esa suspensión;
 
-V.- Durante el cumplimiento de una pena corporal.
+V.- Durante el cumplimiento de una pena corporal;
 
-VI.- Por estar prófugo de la justicia, desde que se dicte la orden de aprehensión, hasta que prescriba la acción penal.
+VI.- Por estar prófugo de la justicia, desde que se dicte la orden de aprehensión, hasta que prescriba la acción penal; y
 
 VII.- Por vagancia o ebriedad consuetudinaria, declarada en los términos que prevengan las leyes.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE JUNIO DE 2009)</small>
 
-###### Artículo 25.
+###### Artículo 23.
 
 Los derechos y prerrogativas de los ciudadanos se pierden:
 
-I.- En los casos de pérdida de la ciudadanía mexicana, conforme a lo establecido por la Constitución General de la República.
+I.- En los casos de pérdida de la ciudadanía mexicana, conforme a lo establecido por la Constitución Política de los Estados Unidos Mexicanos;
 
-II.- Por adquirir la ciudadanía de otro Estado, salvo cuando haya sido concedida a título de honor o recompensa, por servicios prestados con anterioridad.
+II.- Por adquirir la ciudadanía de otro Estado, salvo cuando haya sido concedida a título de honor o recompensa, por servicios prestados con anterioridad; y
 
 III.- Por pena impuesta en sentencia judicial.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE JUNIO DE 2009)</small>
 
-### CAPITULO V. DE LOS CIUDADANOS DEL ESTADO
-
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
-
-###### Artículo 26.
+###### Artículo 24.
 
 Los derechos y prerrogativas, suspensos o perdidos, se recuperan:
 
-I.- En el caso de la fracción I de artículo anterior, por recuperar la ciudadanía mexicana.
+I.- En el caso de la fracción I del artículo anterior, por recuperar la ciudadanía mexicana; y
 
 II.- En los demás casos por cumplimiento de la pena, por haber finalizado el término o cesado las causas de la suspensión o por rehabilitación.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE JUNIO DE 2009)</small>
+
+###### Artículo 25.
+
+Las leyes determinarán a qué autoridad corresponde decretar la suspensión, pérdida o recuperación de los derechos del ciudadano, en qué términos y con qué requisitos ha de dictarse el fallo respectivo, y el tiempo que deba durar la suspensión.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE JUNIO DE 2009)</small>
+
+### CAPITULO V. DE LA FAMILIA
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2009)</small>
+
+###### Artículo 26.
+
+El Estado reconoce a la Familia como una institución fundamental que constituye una unidad política y social que promueve la enseñanza y transmisión de los valores culturales, éticos y sociales necesarios para el desarrollo de las personas que la conforman.
+
+Se establece en el Estado la institución del patrimonio de familia o familiar. Las leyes determinarán los bienes que constituyan el patrimonio de la familia, bienes que serán inalienables, no podrán sujetarse a gravámenes reales, y podrán ser transmisibles a título de herencia con simplificación de las formalidades de los juicios sucesorios.
+
+Los Poderes Públicos garantizarán el desarrollo integral de la Familia, con sus derechos y obligaciones; atendiendo los contenidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados, Convenciones y demás Instrumentos Internacionales ratificados por el Estado Mexicano y los ordenamientos secundarios; al tenor de los siguientes principios:
+
+I.- Su forma de organización;
+
+II.- Las relaciones entre los integrantes de la Familia deben ser con base a la equidad, la igualdad de derechos y deberes, la solidaridad y el respeto recíproco;
+
+III.- Toda persona tiene derecho a planear y decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos;
+
+IV.- La vida humana debe ser protegida desde el momento de la concepción hasta su muerte natural, salvo los casos previstos en las leyes;
+
+V.- La obligación de los miembros de la familia a contribuir cada uno por su parte a sus fines y a ayudarse mutuamente;
+
+VI.- Todas las hijas y los hijos son iguales ante la ley;
+
+VII.- La madre, el padre o el tutor tienen el deber de formar, educar, mantener y asistir a sus hijas o hijos, y éstas o éstos tienen el deber de asistirlos cuando aquélla o aquél no puedan hacerlo por sí misma o por sí mismo;
+
+VIII.- El valor de la unidad familiar, debe tenerse en consideración en la legislación y política penales, de modo que el detenido permanezca en contacto con su familia;
+
+IX.- El trabajo de la madre y del padre en casa, debe ser reconocido y respetado por su valor para la familia y la sociedad;
+
+X.- La familia tiene derecho a ser protegida adecuadamente, en particular respecto a sus integrantes menores de edad, personas con discapacidad y adultos mayores;
+
+XI.- Los integrantes de la familia tienen derecho a que los demás miembros les respeten su integridad física y psíquica, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en la sociedad; y
+
+XII.- Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2009)</small>
 
 ###### Artículo 27.
 
-Las leyes determinarán a qué autoridad corresponde decretar la suspensión, pérdida o recuperación de los derechos de ciudadano, en qué términos y con qué requisitos ha de dictarse el fallo respectivo, y el tiempo que deba durar la suspensión.
+La madre, el padre o el tutor tienen las siguientes obligaciones para con sus hijas e hijos:
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+I.- Inscribirlos en el Registro del Estado Civil;
+
+II.- Darles protección, alimentación y atención para que puedan desarrollarse física, mental y socialmente de forma saludable, en condiciones de libertad y dignidad;
+
+III.- Educarlos bajo los principios de respeto, equidad e igualdad con plena conciencia de servicio a sus semejantes;
+
+IV.- Cumplir con todos los programas públicos de salud y escolares obligatorios; y
+
+V.- Gestionar ante las instituciones el tratamiento, la educación y el cuidado especial que requiera en su caso, la hija o el hijo con discapacidad, procurando su incorporación e inclusión a la sociedad.
 
 ## TITULO SEGUNDO. DEL PODER PUBLICO
 
@@ -2095,7 +2115,7 @@ Palacio del Departamento Ejecutivo. Puebla de Zaragoza, 8 de septiembre de 1917.
 
 P.O. 16 DE SEPTIEMBRE DE 1930.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTÍTUCION POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 P.O. 17 DE NOVIEMBRE DE 1933.
 
@@ -2440,6 +2460,14 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- ATENDIENDO A LO DISPUESTO POR EL SEGUNDO PÁRRAFO DEL ARTÍCULO SEXTO TRANSITORIO DEL DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN CON FECHA TRECE DE NOVIEMBRE DE DOS MIL SIETE, Y AUNADO A QUE EL PROCESO ELECTORAL EN LA ENTIDAD CONCLUYÓ EL DÍA DOCE DE AGOSTO DE DOS MIL OCHO, LA UNIFORMIDAD DE LA JORNADA ELECTORAL PREVISTA POR EL SEGUNDO PÁRRAFO DEL ARTÍCULO TERCERO Y PÁRRAFO QUINTO DE LA FRACCIÓN II DEL MISMO PRECEPTO DE LA PRESENTE REFORMA CONSTITUCIONAL, TENDRÁ LUGAR EL PRIMER DOMINGO DE JULIO DEL AÑO DOS MIL TRECE.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE JUNIO DE 2009.
+
+PRIMERO.- La Comisión Permanente del Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas en términos de las disposiciones legales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ###### ARTÍCULO CUARTO.
 
