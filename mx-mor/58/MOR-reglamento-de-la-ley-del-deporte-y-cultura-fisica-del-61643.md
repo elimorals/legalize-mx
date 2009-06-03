@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-del-deporte-y-cultura-fisica-del-61643"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-18"
-last_updated: "2008-06-18"
+last_updated: "2009-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE LA LEY DEL DEPORTE Y CULTURA FISICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 18 de junio de 2008.
 
@@ -189,9 +189,11 @@ Las sesiones del Pleno serán presididas por la persona titular del Poder Ejecut
 
 #### SECCIÓN I. DEL INSTITUTO
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 10.
 
-El Instituto es el organismo público descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Educación, cuyo objeto, atribuciones, patrimonio y organización se encuentra (sic) previstos en el Título Tercero de la Ley.
+El Instituto es el organismo público descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Desarrollo Humano y Social, cuyo objeto, atribuciones, patrimonio y organización se encuentra (sic) previstos en el Título Tercero de la Ley.
 
 #### SECCIÓN II. DEL REGISTRO ESTATAL DEL DEPORTE
 
@@ -483,7 +485,9 @@ El Consejo se integra por:
 
 I. La persona titular del Ejecutivo Estatal, quien lo presidirá, con voz y voto de calidad en caso de empate en las votaciones;
 
-II. La persona titular de la Secretaría de Educación;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2009)</small>
+
+II. La persona titular de la Secretaría de Desarrollo Humano y Social;
 
 III. La persona titular de la Secretaría de Salud;
 
@@ -1546,3 +1550,11 @@ EL SECRETARIO DE EDUCACIÓN
 ING. JOSÉ LUIS RODRÍGUEZ MARTÍNEZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 3 DE JUNIO DE 2009.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a lo dispuesto al presente Decreto.
