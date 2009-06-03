@@ -4,7 +4,7 @@ identifier: "VER-lineamientos-generales-que-deberan-observar-los-sujetos-58424"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2007-12-18"
-last_updated: "2007-12-18"
+last_updated: "2009-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LINEAMIENTOS GENERALES QUE DEBERAN OBSERVAR LOS SUJETOS OBLIGADOS POR LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PARA PUBLICAR Y MANTENER ACTUALIZADA LA INFORMACION PUBLICA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE JUNIO DE 2009 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LINEAMIENTOS GENERALES QUE DEBERÁN OBSERVAR LOS SUJETOS OBLIGADOS POR LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PARA PUBLICAR Y MANTENER ACTUALIZADA LA INFORMACIÓN PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE JUNIO DE 2009.
 
 Lineamientos publicados en la Gaceta Oficial del Estado de Veracruz, el martes 18 de diciembre de 2007.
 
@@ -99,6 +101,8 @@ Los demás sujetos obligados podrán tomar medidas similares en la publicación 
 
 ### CAPÍTULO II. CUMPLIMIENTO DE LAS OBLIGACIONES DE TRANSPARENCIA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE JUNIO DE 2009 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 Séptimo. Para el cumplimiento de las obligaciones de transparencia, los sujetos obligados se ajustarán a lo siguiente:
 
 I. La unidad de acceso será la encargada y responsable de conducir, facilitar y orientar a los particulares para consultar la información pública;
@@ -112,6 +116,10 @@ IV. El portal de transparencia deberá contener la dirección electrónica, el d
 V. La unidad de acceso, deberá contar con el espacio físico adecuado y con personal capacitado para atender al público; contar con equipo de cómputo o módulo con acceso a internet suficiente para que los particulares puedan consultar o incluso imprimir, previo pago de los costos de reproducción, la información que se encuentre publicada en el sitio correspondiente del sujeto obligado. Para el cumplimiento de esta disposición, los sujetos obligados deberán prever en su proyecto de presupuesto las partidas que resulten necesarias;
 
 VI. El diseño, operación y soporte técnico del portal de transparencia será responsabilidad de cada sujeto obligado;
+
+> <small>(ADICIONADO, G.O. 3 DE JUNIO DE 2009)</small>
+
+Los Ayuntamientos que no tengan acceso a las nuevas tecnologías de la información, cumplirán con las obligaciones de transparencia que establece el artículo 8 de la Ley a través de su Unidad de Acceso, colocando la totalidad de la información de manera impresa, en el tablero o mesa del recinto municipal, de conformidad con los presentes Lineamientos; adicionalmente podrán solicitar al Instituto que divulgue en su página de Internet, información a su nombre; y (sic)
 
 VII. Los Ayuntamientos que no tengan acceso a las nuevas tecnologías de la información, cumplirán con las obligaciones de transparencia que establece el artículo 8 de la Ley a través de su unidad de acceso, colocando la totalidad de la información de manera impresa, en el tablero o mesa del recinto municipal, de conformidad con los presentes Lineamientos; y
 
@@ -155,47 +163,9 @@ I. La representación gráfica del organigrama aprobado, hasta el nivel jerárqu
 
 II. El Reglamento Interior, vigente, preferentemente la versión publicada en el formato de la Gaceta Oficial del estado y que sea congruente con el organigrama. En el caso de los sujetos obligados a que se refieren las fracciones VII y VIII del artículo 5 de la Ley, publicarán los estatutos debidamente inscritos ante la instancia competente;
 
-III. Los Manuales, acordes con las fracciones I y II anteriores, contendrán por lo menos:
+> <small>(REFORMADA, G.O. 3 DE JUNIO DE 2009)</small>
 
-l. De organización:
-
-a) Área o unidad administrativa;
-
-b) Antecedentes;
-
-c) Marco jurídico;
-
-d) Atribuciones;
-
-e) Organigrama general y específico;
-
-f) Objetivo;
-
-g) Funciones;
-
-h) Fecha de elaboración;
-
-i) Documento de aprobación, con fecha, nombre y cargo de quien lo aprueba.
-
-2. De procedimientos:
-
-a) Área o unidad administrativa;
-
-b) Organigrama general;
-
-c) Nombre y objetivo del procedimiento;
-
-d) Descripción narrativa del procedimiento;
-
-e) Simbología;
-
-f) Diagrama de flujo;
-
-g) Fecha de elaboración;
-
-h) Documento de aprobación, con fecha, nombre y cargo de quien lo aprueba.
-
-La publicación de los manuales se realizará en los términos del último párrafo del artículo 12 del Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave, y en caso de ser uno de los sujetos obligados a que se refiere el párrafo tres del artículo 9 de la Ley, deberán indicar el lugar preciso donde pueden ser consultados.
+III. En la publicación de los Manuales de Organización y de Procedimientos, deberá incluirse, la fecha de elaboración así como el documento de aprobación, con fecha, nombre y cargo de quien lo aprueba.
 
 IV. Para las atribuciones que corresponden a los sujetos obligados, se deberá integrar un organigrama en el cual se identifique la ubicación en la estructura orgánica del Área o Unidad Administrativa de que se trate, consignando las atribuciones conferidas a la misma por sí o a través de las diversas oficinas que la integran, las cuales corresponderán a las señaladas en las leyes y reglamentos aplicables, precisando el medio de su publicación y fecha.
 
@@ -433,7 +403,27 @@ Vigésimo primero. Respecto a la información de la fracción XVII del artículo
 
 La actualización de la información a que se refiere este Lineamiento será por ejercicio fiscal y se mantendrá publicada hasta la emisión de la siguiente cuenta.
 
-Vigésimo segundo. En el supuesto de la fracción XXVI del artículo 8 de la Ley, el Poder Judicial del Estado deberá instruir a todos sus órganos jurisdiccionales para el efecto de que invariablemente en el auto de inicio, hagan la prevención a las partes sobre su aceptación u oposición a la publicación de sus datos personales en las sentencias o resoluciones que se llegaren a dictar.
+> <small>(REFORMADO, G.O. 3 DE JUNIO DE 2009)</small>
+
+Vigésimo segundo. El Poder Judicial, cumplirá con la obligación a que se refiere la fracción XXVI del artículo 8 de la Ley, publicando un extracto de las sentencias definitivas o resoluciones interlocutorias que se dicten en cada una de sus unidades jurisdiccionales, extracto que deberá contener como mínimo:
+
+a) Número de expediente;
+
+b) Nombre de las partes;
+
+c) Materia;
+
+d) Prestaciones;
+
+e) Fecha de publicación:
+
+f) Extracto de los considerandos:
+
+g) Sentido de los resolutivos
+
+Quedan excluidas de publicación en el portal de Internet las sentencias definitivas o interlocutorias dictadas en asuntos de índole familiar, así como en los delitos cometidos contra la libertad y seguridad sexual, sentencias o resoluciones dictadas en los Juzgados de Responsabilidad Juvenil y los convenios que se celebren ante el Centro Estatal de Medios Alternativos para la Solución de Conflictos.
+
+Invariablemente, en el auto de inicio, deberá prevenirse a las partes sobres su aceptación u oposición a la publicación de sus datos personales en las sentencias o resoluciones.
 
 Vigésimo tercero. La información de la fracción XXVII del artículo 8 de la Ley, relativa a las controversias constitucionales presentadas ante el Poder Judicial de la Federación, en las que sean parte los sujetos obligados en su carácter de autoridad responsable o tercero perjudicado, habrá de publicarse mediante listado en el que se consigne:
 
@@ -469,19 +459,405 @@ a) La de utilidad e interés público que contribuya a la transparencia gubernam
 
 b) Los trabajos, informes, estudios, análisis y reportes generados por consultoría externas.
 
-Vigésimo sexto. Para efectos del párrafo dos del artículo 8 de la Ley, los sujetos obligados deberán analizar su marco jurídico e identificar el o los informes que se encuentran obligados a elaborar, presentar o publicar, como es el caso de las comparecencias ante el Congreso de los titulares de las dependencias y entidades de la Administración Pública Estatal.
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE JUNIO DE 2009 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-Vigésimo séptimo. Para el cumplimiento de las fracciones VI, XI, XVI, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVIII y XXIX, así como el párrafo tres del artículo 8 de la Ley, se estará a lo dispuesto textualmente en ellas.
+> <small>(REFORMADO, G.O. 3 DE JUNIO DE 2009)</small>
 
-Vigésimo octavo. A las organizaciones de la sociedad civil que reciban recursos públicos, en los términos de lo dispuesto por la fracción VIII del artículo 5 de la Ley, únicamente les serán aplicables los Lineamientos del Noveno al Décimo segundo, del Décimo cuarto al Décimo octavo, Vigésimo primero, Vigésimo sexto y Vigésimo séptimo, en lo conducente.
+Vigésimo sexto. Para la publicación y actualización del catálogo documental de los archivos administrativos en poder de los sujetos obligados a que se refiere la fracción XXXII del artículo 8 de la Ley, se deberá tomar en cuenta el catálogo documental, generado de conformidad con los Lineamientos para catalogar, clasificar y conservar los documentos y la organización de archivos, publicados el veintidós de mayo de dos mil ocho, en la Gaceta Oficial Extraordinaria número 144.
 
-Vigésimo noveno. La publicación y actualización de las obligaciones de transparencia aplicables a las organizaciones de la sociedad civil, cuando por razones de presupuesto no les sea posible su difusión a través de un portal de internet, cumplirán con dicha obligación proporcionando la información al titular del sujeto obligado de quien obtengan los recursos públicos.
+Adicionalmente el sujeto obligado, deberá publicitar en este apartado las solicitudes de dictamen de destino final, el dictamen de valoración del Archivo General del Estado y las actas de baja documental o de transferencia secundaria de aquellos archivos a darse de baja por el transcurso del tiempo.
 
-Trigésimo. Los sujetos obligados analizarán su marco jurídico a fin de determinar los casos en los que no generan información relativa a alguna de las fracciones del artículo 8 de la Ley. En estos casos, solicitarán por escrito al Instituto la validación correspondiente, y de ser procedente, se hará constar en el portal de internet o en su tablero o mesa que no aplica el supuesto de que se trate.
+> <small>(REFORMADO, G.O. 3 DE JUNIO DE 2009)</small>
 
-Trigésimo primero. Los particulares podrán informar al Instituto, sobre cualquier incumplimiento, negativa o deficiencia en el cumplimiento de las obligaciones de transparencia a que se refieren estos Lineamientos, así como la falta de actualización del sitio de internet de los sujetos obligados a que se refiere la Ley.
+Vigésimo séptimo. Los indicadores de gestión a que se refiere la fracción XXXIII del artículo 8 de la Ley, deberán basarse en las metas fijadas en los Programas Operativos Anuales de cada sujeto obligado. Sin embargo, los marcos lógicos o de referencia que se utilicen, como mínimo deberán especificar:
 
-Trigésimo segundo. El Instituto podrá emitir recomendaciones a los sujetos obligados para asegurar y mejorar la publicación y actualización de la información y en caso de reincidencia solicitará la aplicación de las sanciones correspondientes.
+a) El indicador, el cual deberá ser tomado del objetivo general;
+
+b) Las variables a evaluar;
+
+c) La unidad de medida;
+
+d) La meta programada;
+
+e) El presupuesto asignado;
+
+f) El presupuesto ejercido;
+
+g) Los tiempos de respuesta; y
+
+h) Los resultados obtenidos.
+
+> <small>(REFORMADO, G.O. 3 DE JUNIO DE 2009)</small>
+
+Vigésimo octavo. Para la publicación y actualización de la información que comprende la fracción XXXIV del artículo 8 de la Ley, además de especificarse el nombre completo del servidor público comisionado, deberá señalarse:
+
+a) Área de adscripción del servidor público comisionado;
+
+b) Objeto de la Comisión;
+
+c) Lugar donde se desarrollará la Comisión; y
+
+d) Duración de la Comisión
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE JUNIO DE 2009 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO, G.O. 3 DE JUNIO DE 2009)</small>
+
+Vigésimo noveno. En relación a la publicación y actualización de la información que adicionalmente debe publicar el Poder Ejecutivo en Internet, y relativo a las estadísticas e indicadores de gestión de la procuración de justicia, deberán proporcionarse números que reflejen los incrementos y decrementos en la ejecución de los delitos tipificados en el Código Penal para el estado de Veracruz de Ignacio de la Llave. Así, como estadísticas que reflejen los avances y logros obtenidos en materia de Procuración de Justicia, poniendo especial atención en los siguientes temas:
+
+a) Información generada en materia de incidencia de los delitos;
+
+b) El impacto social del delito y su costo;
+
+c) Los factores que motivan o inducen las conductas delictivas;
+
+d) Las visitas de inspección y vigilancia realizadas para aplicar normas de control y evaluación técnico-jurídicas.
+
+e) Atención a las propuestas de conciliación y recomendaciones de la Comisión Nacional y Estatal de Derechos Humanos;
+
+f) Intervenciones como representante social ante asuntos del orden civil, familiar, mercantil y concursal;
+
+g) Asesorías jurídicas proporcionadas en materia de Atención a Víctimas o de los ofendidos del delito;
+
+h) Quejas formuladas ante el Consejo de la Judicatura del Poder Judicial del Estado por faltas cometidas por servidores públicos del Poder Judicial;
+
+i) Promoción de la formación profesional;
+
+j) Promoción entre servidores públicos de la cultura de respeto a los derechos humanos;
+
+k) Promoción de la cultura de prevención de los delitos en la sociedad civil;
+
+l) Auxilio prestado al Ministerio Público Federal y Ministerios Públicos de otras entidades federativas;
+
+m) Cooperación y fortalecimiento de acciones para prevenir el delito, con otras entidades federativas; y
+
+n) Convenios y acuerdos de coordinación celebrados con otras instancias.
+
+Referente al listado de expropiaciones por causas de utilidad pública se especificará:
+
+a) La causa de utilidad pública;
+
+b) La ubicación del inmueble expropiado; y
+
+c) La indemnización otorgada.
+
+En el listado de patentes de notarios, se indicará:
+
+a) El número de Notaría otorgado;
+
+b) El nombre del Notario titular y la fecha en que le fue otorgada la patente;
+
+c) En su caso, nombre del Notario adscrito y la fecha en que le fue otorgada la patente; y
+
+d) El listado de nombres de aspirantes a Notarios con patente.
+
+> <small>(REFORMADO, G.O. 3 DE JUNIO DE 2009)</small>
+
+Trigésimo. En relación a la información que adicionalmente deberá dar a conocer el Poder Legislativo, indicada en la fracción XXXVI del artículo 8 de la Ley, deberá publicarse y actualizarse de la siguiente manera:
+
+a) La agenda legislativa, deberá enunciarse por periodo de sesiones, indicándose el tema a tratar y la fecha en que se discutirá;
+
+b) La lista de asistencia deberá ser subdividida por grupo legislativo, indicándose el nombre del diputado, la fecha de la sesión, y la asistencia o inasistencia del diputado;
+
+Las votaciones de cada una de las sesiones, igualmente deberán publicarse por grupo legislativo, la ley, decreto, acuerdo o iniciativa a presentar ante el Congreso de la Unión discutida, incluyéndose el nombre del diputado y el sentido del voto.
+
+c) En el informe sobre el ejercicio de las partidas presupuestales, asignadas a los grupos legislativos, deberá identificarse el monto asignado, el ejercido, y el rubro para el que fueron utilizados.
+
+> <small>(REFORMADO, G.O. 3 DE JUNIO DE 2009)</small>
+
+Trigésimo primero. La información que adicionalmente el Poder Judicial debe publicar en Internet, indicada en la fracción XXXVII del artículo 8 de la Ley, deberá publicarse y actualizarse, por Distrito Judicial, además deberá desagregarse por materia y competencia, para que por cada unidad jurisdiccional, se dé a conocer:
+
+1) El número de asuntos ingresados por mes, señalándose el tipo de juicio de que se trata. El número de asuntos concluidos por mes, indicándose si fue por sentencia, desistimiento, caducidad, convenio, incompetencia, recusación, acumulación, desechamiento, sobreseimiento, o por cualquier otro motivo por el que se concluya el asunto.
+
+El número de asuntos en movimiento, los archivados de manera temporal y los remitidos al Archivo Central del Poder Judicial del Estado.
+
+El número de sentencias dictadas en el mes, indicándose el sentido de la misma; en tratándose de primera instancia, se deberán dar a conocer el número de sentencias condenatorias, absolutorias o mixtas. Respecto a la segunda instancia, las sentencias confirmadas, revocadas o modificadas.
+
+Las apelaciones admitidas y remitidas a la Superioridad, así como el número de sentencias que se confirman, revocan o modifican.
+
+Además deberán presentarse estadísticas que reflejen el número de asuntos en los que se interpuso Juicio de Amparo, en cuántos se concedió, en cuántos se negó, así como el número de juicios en los que no se interpuso este medio de impugnación.
+
+También se deberán publicar estadísticas que revelen cuáles son los juicios y delitos de mayor incidencia en cada una de las unidades jurisdiccionales.
+
+En tratándose de asuntos penales, el número de expedientes en los que interviene el defensor de oficio, tanto en primera como en segunda instancia.
+
+Respecto al Centro Estatal de Medios Alternativos para la Solución de Conflictos, deberá publicarse el número de solicitudes de mediación ingresadas por mes, tanto en el Centro Estatal, los Juzgados Municipales o Unidades Regionales, así como el número de convenios sancionados mensualmente, debiendo desglosarse la información por Unidades Regionales y materia mediada o conciliada.
+
+Una vez concluido el procedimiento de responsabilidad que se haya iniciado a los servidores públicos del Poder Judicial, deberá indicarse el nombre del servidor público, área de adscripción, la falta cometida y la sanción aplicada.
+
+2) Diariamente deberá publicarse la lista de acuerdos de cada una de las Unidades Jurisdiccionales que integran el órgano de impartición de justicia. Esta lista deberá contener el número de expediente, la naturaleza del asunto, el destino del expediente y un extracto del proveído que se esté notificando.
+
+En cada una de las Unidades Jurisdiccionales, deberán identificarse las sentencias definitivas y resoluciones interlocutorias más relevantes, basándose para ello en los siguientes criterios:
+
+I. Que no sean de contenido obvio o reiterativo, esto es, las que incluyan criterios de interpretación novedosos;
+
+II. Cuando produzcan efectos en la sociedad o en la actuación del gobierno estatal;
+
+III. Que representen una relevancia económica, social o jurídica;
+
+IV. Cuando se trate un negocio distinto a los que generalmente conocen; y
+
+V. Cuando se planteen en ellos argumentos novedosos, que no tengan similitud con los que comúnmente se hacen valer en los asuntos.
+
+En caso de tratarse de sentencias dictadas por los Tribunales que integran el Poder Judicial, también se divulgará la versión pública de los votos particulares que se hayan emitido.
+
+Los resultados que arrojen los exámenes de oposición, deberán publicarse, en un listado que incluya el nombre completo del concursante, así como la calificación obtenida en cada una de las etapas en que consta el examen de oposición y el promedio general logrado.
+
+3) Con relación a los perfiles y formas de evaluación del personal jurisdiccional y administrativo, los perfiles deberán publicarse en los términos que se encuentran contemplados en la Constitución Local, la Ley Orgánica del Poder Judicial o en leyes especiales, debiendo enunciarse la información por orden jerárquico.
+
+> <small>(REFORMADO, G.O. 3 DE JUNIO DE 2009)</small>
+
+Trigésimo segundo. Respecto a la información adicional contemplada en la fracción XXXVIII del artículo 8 de la Ley los Ayuntamientos, deberán publicarla y actualizarla, ya sea en su sitio de Internet o en mesas o tableros, en los términos siguientes:
+
+Estadísticas e indicadores de los cuerpos de policía municipal, estos datos deberán revelar como mínimo:
+
+a) El número de integrantes del cuerpo policiaco;
+
+b) Los cursos de capacitación y profesionalización recibidos;
+
+c) Los estímulos que reciben;
+
+d) Los operativos en los que participan;
+
+e) El número de detenciones que practican; y
+
+f) Los tiempos de atención a solicitudes tanto de la ciudadanía como de autoridades judiciales o administrativas;
+
+En relación a las cantidades recibidas por concepto de multas, así como el uso o aplicación que se les da, deberá publicarse de manera mensual los ingresos que se obtienen tanto por el cobro de multas administrativas ordenadas por autoridades federales, estatales o municipales, el destino de los ingresos y para el caso de que se distribuya en distintos rubros, señalar cada uno de ellos.
+
+En el caso de los indicadores de gestión de los servicios públicos que presten los Ayuntamientos, éstos deberán incluir variables, que permitan obtener resultados:
+
+a. Económicos. Aquí se deberá contemplar variables que tengan relación con el presupuesto destinado, el ejercido, el costo por atención en cada servicio; el ahorro en la prestación del servicio.
+
+b. De eficacia. Permitirán medir el grado de cumplimiento de la meta programada y los objetivos cumplidos.
+
+c. Eficiencia. Se medirá relacionándose las metas alcanzadas, los tiempos y recursos consumidos para la prestación de servicios.
+
+d. Excelencia en el servicio. Permitirán conocer la satisfacción de los usuarios del servicio.
+
+El calendario de las actividades culturales, deportivas y recreativas a realizar deberá comprender:
+
+a) Día a celebrarse;
+
+b) Tipo de actividad de que se trata;
+
+c) Lugar en donde se llevará a cabo;
+
+d) Requisitos a cubrir; y
+
+e) Costo.
+
+En los controles de asistencia de los integrantes del Cabildo se deberá señalar:
+
+a) Sesión;
+
+b) Fecha de celebración;
+
+c) Asistencia;
+
+d) Inasistencia; y
+
+e) Ausencia justificada
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE JUNIO DE 2009 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(ADICIONADO, G.O. 3 DE JUNIO DE 2009)</small>
+
+Trigésimo tercero. Con relación a la información contenida en la fracción XL del artículo 8 de la Ley, tanto el Instituto Electoral Veracruzano como la Sala Electoral del Tribunal Superior de Justicia del Estado, deberán mantener actualizada la información que les compete en los siguientes términos:
+
+En relación a los expedientes resueltos por violaciones al Código Electoral, deberá indicarse:
+
+a) El número de expediente;
+
+b) El nombre de las partes que intervienen;
+
+c) La fecha en que se emitió resolución; y
+
+d) Un extracto de la misma.
+
+El listado de partidos políticos y demás asociaciones políticas registradas ante el Instituto Electoral Veracruz (sic), deberá contener:
+
+a) El nombre del Partido o Asociación Política;
+
+b) El nombre de su Representante; y
+
+c) La ubicación de la sede local.
+
+En el registro de candidatos a cargos de elección popular, deberá indicarse:
+
+a) El tipo de elección que se trata;
+
+b) Agruparse los candidatos por partidos políticos;
+
+c) El nombre del (a) candidato (a) propietario (a) así como del (a) suplente; y
+
+d) Señalarse la fecha de registro
+
+El monto de financiamiento público deberá publicarse, indicando:
+
+a) El tipo de financiamiento otorgado;
+
+b) El partido político;
+
+c) El porcentaje del financiamiento que le corresponde al partido político;
+
+d) Nombre de quien recibe el financiamiento;
+
+e) El monto anual,; (sic) y
+
+f) El monto mensual que se entregará.
+
+En relación al monto autorizado de financiamiento privado, deberá publicarse la cantidad percibida, su origen y destino, desglosándose además la información por:
+
+a) Cuotas;
+
+b) Aportaciones;
+
+c) Donativos; y
+
+d) Ingresos por otras actividades.
+
+Respecto a los topes de gasto de campaña, deberá divulgarse la versión publicada en la Gaceta Oficial del estado.
+
+El Instituto Electoral Veracruzano, deberá publicar:
+
+a) El Informe trimestral rendido por los partidos políticos;
+
+b) El informe anual que le rindan los partidos políticos;
+
+c) El Informe de precampaña de cada uno de los candidatos; y
+
+d) El informe de campaña por partido político.
+
+La información que se obtenga de los cómputos totales de las elecciones y procesos de participación ciudadana, deberá representarse gráficamente por Distrito Electoral, detallando datos estadísticos que permitan conocer:
+
+a) El porcentaje de personas que integran el padrón electoral;
+
+b) El porcentaje de personas inscritas en la lista nominal;
+
+c) Votación total;
+
+d) Votos nulos;
+
+e) Participación;
+
+f) Abstención
+
+g) Número de secciones;
+
+h) Casillas instaladas; y
+
+i) Casillas anuladas.
+
+4) La lista de acuerdos que publiquen las autoridades electorales, deberá contener número de expediente, la naturaleza del asunto, el destino del expediente y un extracto del proveído que se esté notificando.
+
+En relación a las sentencias relevantes y su publicación, ésta deberá realizarse en los términos indicados en el doceavo párrafo del Lineamiento trigésimo primero de los presente Lineamientos.
+
+> <small>(ADICIONADO, G.O. 3 DE JUNIO DE 2009)</small>
+
+Trigésimo Cuarto. La información que adicionalmente deberán dar a conocer los partidos, asociaciones y agrupaciones políticas, a que se refiere la fracción XLI del artículo 8 de la Ley, deberá publicarse y actualizarse en los siguientes términos:
+
+El directorio de funcionarios partidistas, incluirá:
+
+a) Nombre completo;
+
+b) Cargo;
+
+c) Domicilio para recibir correspondencia;
+
+d) Número telefónico;
+
+e) Extensión; y
+
+f) Correo electrónico oficial.
+
+Los informes que se rindan con motivo de obligaciones legales y estatutarias deberán darse a conocer una vez que haya sido aprobado por la Instancia competente, debiendo agregarse la aprobación obtenida.
+
+Los informes anuales de campaña y de procesos internos, se publicarán una vez que hayan sido aprobados por el Instituto Electoral Veracruzano, incluyéndose en la publicación la aprobación obtenida.
+
+En relación a los gastos de campaña, se deberá especificar el origen del gasto a ejercer, el destino del gasto y el monto ejercido.
+
+> <small>(ADICIONADO, G.O. 3 DE JUNIO DE 2009)</small>
+
+Trigésimo quinto. La Comisión Estatal de Derechos Humanos publicará y actualizará la información regulada en la fracción XLII del artículo 8 de la Ley, observando lo siguiente:
+
+El listado de recomendaciones, deberá contener:
+
+a) El número de recomendación;
+
+b) El número de expediente;
+
+c) La autoridad o destinatario de la recomendación; y
+
+d) Un extracto de la recomendación emitida.
+
+En tratándose de las quejas e impugnaciones que se insten en contra de las recomendaciones emitidas por la Comisión Estatal, se deberá relacionar:
+
+a) El número de expediente formado;
+
+b) El número de la recomendación del que deriva;
+
+c) La autoridad o destinatario de la recomendación;
+
+d) El estado procesal que guarda; y
+
+e) Una vez concluido, señalar el concepto por el cual concluyó.
+
+> <small>(ADICIONADO, G.O. 3 DE JUNIO DE 2009)</small>
+
+Trigésimo sexto. La publicación y actualización de la información contenida en la fracción XLIII del artículo 8 de la Ley, que compete publicar a las Universidades Públicas, además de lo señalado en la Ley, deberá cumplirse con lo siguiente:
+
+a) Los indicadores de gestión en las evaluaciones al desempeño de la planta académica y administrativa, deberán construirse de manera tal que proporcionen a la sociedad resultados sobre la eficacia, eficiencia y excelencia en el servicio proporcionado por la planta académica y administrativa.
+
+b) En el listado de profesores con licencia o en año sabático, deberá indicarse el nombre completo del profesor, área de adscripción, periodo de inicio de licencia o año sabático y la fecha de conclusión.
+
+> <small>(ADICIONADO, G.O. 3 DE JUNIO DE 2009)</small>
+
+Trigésimo séptimo. Respecto a la publicación y actualización de la información que adicionalmente debe dar a conocer el Instituto, además de cumplir con lo señalado en la fracción XLIV del artículo 8 de la Ley, deberá desagregarse en los siguientes términos:
+
+La relación de Juicios de Protección de Derechos Humanos, deberá contener:
+
+a) El número de Juicio de Protección de Derechos Humanos;
+
+b) El acto reclamado;
+
+c) El sentido de la resolución; y
+
+d) Fecha en que causa estado la resolución
+
+> <small>(ADICIONADO, G.O. 3 DE JUNIO DE 2009)</small>
+
+Trigésimo octavo. Para efectos del párrafo dos del artículo 8 de la Ley, los sujetos obligados deberán analizar su marco jurídico e identificar el o los informes que se encuentran obligados a elaborar, presentar o publicar, como es el caso de las comparecencias ante el Congreso de los titulares de las dependencias y entidades de la Administración Pública Estatal.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE JUNIO DE 2009 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(ADICIONADO, G.O. 3 DE JUNIO DE 2009)</small>
+
+Trigésimo noveno. Para el cumplimiento de las fracciones VI, XI, XVI, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVIII y (sic) XXIX, XXXV b), XXXVII, c) primera parte, XXXIX, XLI fracciones c), d), e), f) y g), XLII c), XLIII a), b), c); XLIV, b), c), d), e), así como los párrafos tres y cinco del artículo 8 de la Ley, se estará a lo dispuesto textualmente en ellas.
+
+> <small>(ADICIONADO, G.O. 3 DE JUNIO DE 2009)</small>
+
+Cuadragésimo. A las organizaciones de la sociedad civil que reciban recursos públicos, en los términos de lo dispuesto por la fracción VIII del artículo 5 de la Ley, únicamente les serán aplicables los Lineamientos del Noveno al Décimo segundo, del Décimo cuarto al Décimo octavo, Trigésimo octavo y Trigésimo noveno, en lo conducente.
+
+> <small>(ADICIONADO, G.O. 3 DE JUNIO DE 2009)</small>
+
+Cuadragésimo primero. La publicación y actualización de las obligaciones de transparencia aplicables a las organizaciones de la sociedad civil, cuando por razones de presupuesto no les sea posible su difusión a través de un portal de Internet, cumplirán con dicha obligación proporcionando la información al titular del sujeto obligado de quien obtengan los recursos públicos.
+
+> <small>(ADICIONADO, G.O. 3 DE JUNIO DE 2009)</small>
+
+Cuadragésimo segundo. Los sujetos obligados, analizarán su marco jurídico a fin de determinar los casos en los que no generan información relativa a alguna de las fracciones del artículo 8 de la Ley. En estos casos, solicitarán por escrito al Instituto la validación correspondiente.
+
+> <small>(ADICIONADO, G.O. 3 DE JUNIO DE 2009)</small>
+
+Cuadragésimo tercero. En cumplimiento a lo dispuesto en el sexto párrafo del artículo 8 de la Ley, los sujetos obligados, indicarán en el Reglamento de Operación de la Unidad de Acceso, así como en su sitio de Internet o en mesas o tableros, las obligaciones de transparencia que no les resultan aplicables, debiendo publicarse además la validación a que se refiere el Lineamiento anterior.
+
+> <small>(ADICIONADO, G.O. 3 DE JUNIO DE 2009)</small>
+
+Cuadragésimo cuarto. Los particulares podrán informar al Instituto, sobre cualquier incumplimiento, negativa o deficiencia en el cumplimiento de las obligaciones de transparencia a que se refieren estos Lineamientos, así como la falta de actualización del sitio de Internet de los sujetos obligados a que se refiere la Ley.
+
+> <small>(ADICIONADO, G.O. 3 DE JUNIO DE 2009)</small>
+
+Cuadragésimo quinto. El Instituto podrá emitir recomendaciones a los sujetos obligados para asegurar y mejorar la publicación y actualización de la información y en caso de reincidencia solicitará la aplicación de las sanciones correspondientes.
 
 ## TRANSITORIOS
 
@@ -516,3 +892,11 @@ Mtro. Fernando Aguilera de Hombre
 Secretario Técnico
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 3 DE JUNIO DE 2009.
+
+Primero. El presente acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Para la publicación y actualización de la información que adicionalmente tienen que publicar los sujetos obligados, con motivo de las reformas a la Ley publicadas el día 27 de junio del año próximo pasado, ésta deberá divulgarse a más tardar noventa días naturales a partir de la entrada en vigor de los presentes Lineamientos.
