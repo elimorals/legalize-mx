@@ -4,7 +4,7 @@ identifier: "VER-lineamientos-generales-que-deberan-observar-los-sujetos-58422"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2007-12-18"
-last_updated: "2007-12-18"
+last_updated: "2009-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58422&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LINEAMIENTOS GENERALES QUE DEBERAN OBSERVAR LOS SUJETOS OBLIGADOS POR LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PARA REGLAMENTAR LA OPERACION DE LAS UNIDADES DE ACCESO A LA INFORMACION
 
-LINEAMIENTOS GENERALES QUE DEBERAN OBSERVAR LOS SUJETOS OBLIGADOS POR LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PARA REGLAMENTAR LA OPERACION DE LAS UNIDADES DE ACCESO A LA INFORMACION
+LINEAMIENTOS GENERALES QUE DEBERÁN OBSERVAR LOS SUJETOS OBLIGADOS POR LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PARA REGLAMENTAR LA OPERACIÓN DE LAS UNIDADES DE ACCESO A LA INFORMACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE JUNIO DE 2009.
 
 Lineamientos publicados en la Gaceta Oficial del Estado de Veracruz, el martes 18 de diciembre de 2007.
 
@@ -73,7 +73,9 @@ Quinto. Los sujetos obligados, además de los requisitos y estándares mínimos 
 
 Sexto. Los reglamentos deberán ser emitidos por el titular o la instancia que resulte competente en cada sujeto obligado, de acuerdo a las disposiciones legales que regulen a los mismos.
 
-Séptimo. Los reglamentos a que se refieren los presentes Lineamientos se podrán emitir por acuerdo, decreto o circular, según lo establezcan las disposiciones legales aplicables al sujeto oligado (sic) y deberán publicarse en la Gaceta Oficial del estado en términos del párrafo primero del artículo 12 del Código de Procedimientos Administrativos para el Estado, de aplicación supletoria a la Ley.
+> <small>(REFORMADO, G.O. 3 DE JUNIO DE 2009)</small>
+
+Séptimo. Los reglamentos a que se refieren los presentes Lineamientos se podrán emitir por acuerdo, decreto o circular, según lo establezcan las disposiciones legales aplicables al sujeto obligado, y a efecto de que los procedimientos de acceso a la información diseñados por cada sujeto obligado, sean del conocimiento de los particulares, los reglamentos deberán publicarse en la Gaceta Oficial del estado, en términos del párrafo primero del artículo 12 del Código de Procedimientos Administrativos para el Estado.
 
 Octavo. A efecto de ajustarse al texto de la Ley, en su oportunidad, los sujetos obligados introducirán en su reglamentación interna, la existencia de sus respectivas Unidades de Acceso, reflejándose éstas en la representación gráfica de su organigrama.
 
@@ -83,21 +85,31 @@ Noveno. El titular de cada sujeto obligado podrá designar o establecer que las 
 
 Décimo. Para el efecto de llevar a cabo las actividades a que se refiere la fracción II del Lineamiento Segundo, el titular del sujeto obligado podrá habilitar a los servidores públicos que resulten necesarios.
 
-Décimo primero. El reglamento contendrá por lo menos disposiciones relativas a:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE JUNIO DE 2009)</small>
+
+Décimo primero. El Reglamento contendrá por lo menos disposiciones relativas a:
 
 I. Estructura orgánica, en la que se comprenderá a los servidores públicos o personas habilitadas;
 
 II. Atribuciones;
 
-III. Suplencia del titular o encargado de la Unidad de Acceso; y
+III. Suplencia del titular o encargado de la Unidad de Acceso; y (sic)
 
 IV. Disposiciones para la aplicación de recursos humanos, materiales y financieros, en su caso.
+
+> <small>(ADICIONADA, G.O. 3 DE JUNIO DE 2009)</small>
+
+V. Los rubros del artículo 8º de la Ley que no les resultan aplicables.
 
 Décimo segundo. Para los efectos de la fracción I del Lineamiento anterior, se sugiere como estructura mínima de la Unidad de Acceso, la siguiente:
 
 I. Un responsable, con nivel mínimo de Jefe de Departamento, y;
 
 II. Los servidores públicos que resulten necesarios, de conformidad con las características de la estructura; presupuesto de egresos, prerrogativas o recursos públicos que reciban; ubicación geográfica de sus instalaciones y las demás consideraciones que resulten aplicables a cada sujeto obligado.
+
+> <small>(ADICIONADO, G.O. 3 DE JUNIO DE 2009)</small>
+
+Sin que por la integración referida anteriormente, se deba entender que los integrantes de la Unidad de Acceso sesionan para emitir las respuestas a solicitudes de información.
 
 Décimo tercero. El reglamento establecerá, que además de las atribuciones que la Ley y otros Lineamientos emitidos por el Instituto le otorgan al titular o encargado de la Unidad de Acceso, le corresponderá:
 
@@ -119,7 +131,13 @@ III. Gestionar al interior de cada sujeto obligado las solicitudes que reciba; y
 
 IV. Es la responsable de hacer las notificaciones a que se refiere la Ley.
 
-Décimo quinto. El reglamento también contendrá disposiciones relativas al diseño de procedimientos que faciliten al particular el ejercicio del derecho de acceso a la información pública.
+> <small>(REFORMADO, G.O. 3 DE JUNIO DE 2009)</small>
+
+Décimo quinto. El reglamento también contendrá disposiciones relativas a:
+
+a) El diseño de procedimientos que faciliten al particular el ejercicio del derecho de acceso a la información pública.
+
+b) Las disposiciones necesarias para constreñir a las áreas encargadas de generar o poseer la información a proporcionarla cuando el titular o responsable de la Unidad de Acceso, la solicite con motivo de una solicitud de información.
 
 Décimo sexto. Con el propósito de generar una coordinación efectiva al interior del sujeto obligado oficial, su titular incorporará en el reglamento la obligación de las Áreas o Unidades Administrativas, oficinas, delegaciones, representaciones o sus equivalentes, de coadyuvar con la Unidad de Acceso para el cumplimiento de los fines de la Ley.
 
@@ -137,7 +155,9 @@ Vigésimo. Los sujetos obligados, en el acto jurídico mediante el cual aprueben
 
 Vigésimo primero. El Comité se integrará considerando las disposiciones legales que le sean aplicables a cada sujeto obligado, estableciendo que el número de sus integrantes invariablemente sea impar para el efecto de la toma de decisiones, las cuales serán por mayoría de votos.
 
-Vigésimo segundo. Para su funcionamiento el Comité deberá estructurarse por:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE JUNIO DE 2009)</small>
+
+Vigésimo segundo. Para su funcionamiento el Comité deberá estructurarse de manera enunciativa más no limitativa por:
 
 a) El titular del Sujeto Obligado, quien lo presidirá;
 
@@ -151,7 +171,9 @@ Los integrantes en los incisos b), c) y d) tendrán el carácter de vocales.
 
 El titular del sujeto obligado designará a un colaborador que fungirá como Secretario, quien contará con voz, pero no con voto.
 
-Vigésimo tercero. Cada Comité establecerá los criterios para su funcionamiento, los cuales deberán prever al menos:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE JUNIO DE 2009)</small>
+
+Vigésimo tercero. Los sujetos obligados incluirán en el Reglamento de Operación de la Unidad de Acceso, los criterios bajo los cuales funcionará el Comité de Información de Acceso Restringido, los cuales deberán prever al menos:
 
 a) Estructura;
 
@@ -198,3 +220,9 @@ Mtro. Fernando Aguilera de Hombre
 Secretario Técnico
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 3 DE JUNIO DE 2009.
+
+Único. El presente acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
