@@ -4,7 +4,7 @@ identifier: "VER-lineamientos-generales-que-deberan-observar-los-sujetos-58423"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2007-12-18"
-last_updated: "2007-12-18"
+last_updated: "2009-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "VER"
 ---
 # LINEAMIENTOS GENERALES QUE DEBERAN OBSERVAR LOS SUJETOS OBLIGADOS POR LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PARA CLASIFICAR INFORMACION RESERVADA Y CONFIDENCIAL
 
-LINEAMIENTOS GENERALES QUE DEBERAN OBSERVAR LOS SUJETOS OBLIGADOS POR LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PARA CLASIFICAR INFORMACION RESERVADA Y CONFIDENCIAL
+LINEAMIENTOS GENERALES QUE DEBERÁN OBSERVAR LOS SUJETOS OBLIGADOS POR LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PARA CLASIFICAR INFORMACIÓN RESERVADA Y CONFIDENCIAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE JUNIO DE 2009.
 
 Lineamientos publicados en la Gaceta Oficial del Estado de Veracruz, el martes 18 de diciembre de 2007.
 
-El Pleno del Instituto Veracruzano de Acceso a la Información, con fundamento en lo dispuesto por los artículos 6, último párrafo, 67, fracción IV inciso d) de la Constitución Política del Estado de Veracruz de Ignacio de la Llave, 11, 12, 13, 17, 28 y 34, fracción XVII, de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave y 13, fracción III del Reglamento lnterior del Instituto Veracruzano de Acceso a la Información, y;
+El Pleno del Instituto Veracruzano de Acceso a la Información, con fundamento en lo dispuesto por los artículos 6, último párrafo, 67, fracción IV inciso d) de la Constitución Política del Estado de Veracruz de Ignacio de la Llave, 11, 12, 13, 17, 28 y 34, fracción XVII, de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave y 13, fracción III del Reglamento Interior del Instituto Veracruzano de Acceso a la Información, y;
 
 CONSIDERANDO
 
@@ -61,6 +61,10 @@ Segundo. Para efecto de los presentes Lineamientos, se utilizarán las definicio
 
 Tercero. Los sujetos obligados, a través de sus comités, deberán emitir un acuerdo en el que de manera fundada y motivada clasifiquen la información reservada y confidencial en los términos que establece la Constitución Local, la Ley y los presentes Lineamientos, dicho acuerdo deberá publicarse en la Gaceta Oficial del estado y en su respectivo sitio de internet o en el tablero o mesa de información municipal, dentro de los diez días hábiles siguientes a que se emitan o en su caso se modifiquen, en los términos previstos por los artículos 13, primer párrafo, 14 y 16 de la Ley.
 
+> <small>(ADICIONADO, G.O. 3 DE JUNIO DE 2009)</small>
+
+En ningún caso se podrá clasificar información antes de que ésta sea generada o se encuentre en poder de los sujetos obligados.
+
 Cuarto. Los comités se integrarán como lo dispone la Ley, los Lineamientos para Reglamentar la Operación de las Unidades de Acceso a la Información que emita el Instituto y de conformidad con la normatividad interna del sujeto obligado. Las decisiones deberán tomarse por mayoría de votos. Cada comité establecerá los criterios para su funcionamiento, los cuales deberán prever al menos la periodicidad con que sesionará, el servidor público que lo presidirá, la suplencia de sus integrantes y la forma de dar seguimiento a sus acuerdos.
 
 Quinto. Para los efectos de lo dispuesto en el Lineamiento anterior, se recomienda que por lo menos uno de los servidores públicos designados por el sujeto obligado para formar parte del comité, sea el titular del área jurídica, o bien, un servidor público, con amplia experiencia jurídica.
@@ -92,6 +96,10 @@ IV. Determinar el plazo de reserva; e
 V. Identificar al servidor público responsable de su conservación.
 
 Octavo. Los sujetos obligados deberán preparar versiones públicas de los documentos y expedientes que contengan partes o secciones reservadas o confidenciales conforme a los supuestos previstos en los artículos 12 y 17 de la Ley.
+
+> <small>(ADICIONADO, G.O. 3 DE JUNIO DE 2009)</small>
+
+Debiendo entenderse como versión pública el documento en el que ya conste testada la parte o sección que previamente ha sido clasificada como reservada o confidencial.
 
 Noveno. Los sujetos obligados deberán llevar un registro de los servidores públicos que, por la naturaleza de sus atribuciones, tengan acceso a los expedientes y documentos clasificados como reservados o confidenciales; así mismo deberán asegurarse que dichos servidores tengan conocimiento de la responsabilidad y sanciones por el manejo inadecuado o ilícito de la información clasificada.
 
@@ -177,7 +185,9 @@ Décimo quinto. El periodo de reserva tendrá una duración máxima de seis año
 
 Décimo sexto. Para establecer el periodo de reserva el comité tomará en cuenta las circunstancias de modo, tiempo y lugar relacionadas con la información al momento de su clasificación procurando en todos los casos únicamente determinar el tiempo estrictamente necesario durante el cual subsistan las causas que dieron origen a la clasificación.
 
-El periodo de reserva iniciará a partir de la fecha en que se clasifica el expediente o documento. Sólo los servidores públicos, señalados en el Lineamiento Noveno serán responsables por el quebrantamiento de la información clasificada como reservada.
+> <small>(REFORMADO, G.O. 3 DE JUNIO DE 2009)</small>
+
+El periodo de reserva iniciará a partir de la fecha en que se genera el expediente o documento. Sólo los servidores públicos, señalados en el Lineamiento Noveno serán responsables por el quebrantamiento de la información clasificada como reservada.
 
 Décimo séptimo. Al momento de recepción de una solicitud de información reservada la unidad de acceso del sujeto obligado, deberá revisar que subsistan las causas que dieron origen a dicha clasificación.
 
@@ -379,7 +389,7 @@ Rúbrica.
 
 Anexo 1. Formato para la elaboración y actualización del índice por rubros temáticos de la información clasificada como reservada, a que se refiere el artículo 16 de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave.
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Anexo 2. Formato de leyenda de clasificación de documentos y de carátula de expedientes a que se refiere el Lineamiento Trigésimo octavo.
 
@@ -428,3 +438,9 @@ Instructivo
 10 se anotará la fecha en que la información se desclasifica.
 
 11 Firma autógrafa de quien desclasifica (titular del sujeto obligado o del comité, según corresponda).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 3 DE JUNIO DE 2009.
+
+Único. El presente acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
