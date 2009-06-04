@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2009-05-06"
+last_updated: "2009-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2009.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 10 DE FEBRERO DE 2009.
 
@@ -1684,9 +1684,9 @@ IV. Cuando la presentación de la declaración que modifica a la original se est
 
 Lo dispuesto en este precepto no limita las facultades de comprobación de las autoridades fiscales.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2009)</small>
 
-La modificación de las declaraciones a que se refiere este artículo se efectuará mediante la presentación de declaración complementaria que modifique los datos de la original.
+La modificación de las declaraciones a que se refiere este artículo se efectuará mediante la presentación de declaración que sustituya a la anterior, debiendo contener todos los datos que requiera la declaración aun cuando sólo se modifique alguno de ellos.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -2822,11 +2822,11 @@ Tratándose de las aportaciones no enteradas al Instituto del Fondo Nacional de 
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE JUNIO DE 2009)</small>
 
 ###### Artículo 59.
 
-Para la comprobación de los ingresos, o del valor de los actos, actividades o activos por los que se deban pagar contribuciones, las autoridades fiscales presumirán, salvo prueba en contrario:
+Para la comprobación de los ingresos, del valor de los actos, actividades o activos por los que se deban pagar contribuciones, así como de la actualización de las hipótesis para la aplicación de las tasas establecidas en las disposiciones fiscales, las autoridades fiscales presumirán, salvo prueba en contrario:
 
 I. Que la información contenida en la contabilidad, documentación comprobatoria y correspondencia que se encuentren en poder del contribuyente, corresponde a operaciones celebradas por él, aún cuando aparezcan sin su nombre o a nombre de otra persona, siempre que se logre demostrar que al menos una de las operaciones o actividades contenidas en tales elementos, fue realizada por el contribuyente.
 
@@ -2865,6 +2865,18 @@ VII. (DEROGADA, D.O.F. 5 DE ENERO DE 2004)
 > <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 VIII. Que los inventarios de materias primas, productos semiterminados y terminados, los activos fijos, gastos y cargos diferidos que obren en poder del contribuyente, así como los terrenos donde desarrolle su actividad son de su propiedad. Los bienes a que se refiere este párrafo se valuarán a sus precios de mercado y en su defecto al de avalúo.
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2009)</small>
+
+IX. Que los bienes que el contribuyente declare haber exportado fueron enajenados en territorio nacional y no fueron exportados, cuando éste no exhiba, a requerimiento de las autoridades fiscales, la documentación o la información que acredite cualquiera de los supuestos siguientes:
+
+a) La existencia material de la operación de adquisición del bien de que se trate o, en su caso, de la materia prima y de la capacidad instalada para fabricar o transformar el bien que el contribuyente declare haber exportado.
+
+b) Los medios de los que el contribuyente se valió para almacenar el bien que declare haber exportado o la justificación de las causas por las que tal almacenaje no fue necesario.
+
+c) Los medios de los que el contribuyente se valió para transportar el bien a territorio extranjero. En caso de que el contribuyente no lo haya transportado, deberá demostrar las condiciones de la entrega material del mismo y la identidad de la persona a quien se lo haya entregado.
+
+La presunción a que se refiere esta fracción operará aún cuando el contribuyente cuente con el pedimento de exportación que documente el despacho del bien.
 
 ###### Artículo 60.
 
@@ -7997,5 +8009,9 @@ D.O.F. 10 DE FEBRERO DE 2009.
 LA ACTUALIZACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
 
 D.O.F. 6 DE MAYO DE 2009
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE JUNIO DE 2009.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
