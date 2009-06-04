@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-del-secretariado-tecnico-del-instituto-estatal-16384
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-04-02"
-last_updated: "2000-11-16"
+last_updated: "2009-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 REGLAMENTO DEL SECRETARIADO TECNICO DEL INSTITUTO ESTATAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el jueves 2 de abril de 2000.
 
@@ -61,35 +61,51 @@ REGLAMENTO DEL SECRETARIADO TÉCNICO DEL INSTITUTO ESTATAL ELECTORAL
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO ÚNICO. Artículo 1
+### CAPÍTULO ÚNICO
 
-Las disposiciones del presente ordenamiento son de observancia obligatoria para los integrantes del Secretariado Técnico del Instituto Estatal Electoral; tienen por objeto reglamentar su organización y funcionamiento, la celebración de sus sesiones, la actuación de sus integrantes y las comisiones formadas en su seno.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
+
+Artículo 1
+
+Las disposiciones del presente ordenamiento son de observancia obligatoria para los integrantes del Secretariado Técnico del Instituto Electoral y de Participación Ciudadana del Estado de Durango; tienen por objeto reglamentar su organización y funcionamiento, la celebración de sus sesiones, la actuación de sus integrantes y las comisiones formadas en su seno.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
 
 Artículo 2
 
-La interpretación de las disposiciones de este Reglamento, estará sujeta a los principios y criterios jurídicos establecidos en el párrafo segundo del artículo 2 del Código Estatal Electoral y a las prácticas que mejor garanticen y reflejen las políticas a seguir por el Secretariado Técnico, la libre expresión y participación de sus integrantes, y la eficacia de los acuerdos o resoluciones que se tomen en su seno en el ejercicio de sus atribuciones.
+La interpretación de las disposiciones de este Reglamento, estará sujeta a los principios y criterios jurídicos establecidos en el párrafo sexto del artículo 2 de la ley Electoral para el Estado de Durango y a las prácticas que mejor garanticen y reflejen las políticas a seguir por el Secretariado Técnico, la libre expresión y participación de sus integrantes, y la eficacia de los acuerdos o resoluciones que se tomen en su seno en el ejercicio de sus atribuciones.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
 
 Artículo 3
 
-El Secretariado Técnico como uno de los órganos centrales del Instituto Estatal Electoral desempeña permanentemente funciones de dirección, operativas, técnicas y de apoyo en términos del Código Estatal Electoral.
+El Secretariado Técnico como uno de los órganos centrales del Instituto Electoral y de Participación Ciudadana del Estado de Durango desempeña permanentemente funciones de dirección, operativas, técnicas y de apoyo en términos de la ley Electoral para el Estado de Durango.
 
-El Secretariado Técnico, se integra conforme lo establece el artículo 119 del Código Estatal Electoral y con las nuevas Direcciones que conforme al segundo párrafo del artículo 124 del mismo Código se puedan crear dentro del Instituto.
-
-Por mandato legal el Presidente del Consejo Estatal Electoral, será el Presidente del Secretariado Técnico quién vigilará la observancia irrestricta de este Reglamento.
+El Secretariado Técnico, se integra conforme lo establece el articulo 120 del la ley Electoral para el Estado de Durango y con las nuevas Direcciones que conforme al segundo párrafo del articulo 125 de la misma ley se puedan crear dentro del Instituto.
 
 Artículo 4
 
 Para los efectos de este Reglamento, se entenderá por:
 
-a) Código: El Código Estatal Electoral de Durango;
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
 
-b) Instituto: Instituto Estatal Electoral de Durango;
+a) Ley Electoral: Ley Electoral para el Estado de Durango;
 
-c) Secretariado: Secretariado Técnico del Instituto Estatal Electoral;
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
 
-d) Presidente del Secretariado: Presidente del Secretariado Técnico del Instituto Estatal Electoral;
+b) Instituto: Instituto Electoral y de Participación Ciudadana del Estado de Durango;
 
-e) Secretario: Secretario Ejecutivo del Instituto Estatal Electoral, y,
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
+
+c) Secretariado: Secretariado Técnico del Instituto Electoral y de Participación Ciudadana del Estado de Durango;
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
+
+d) Presidente del Secretariado: Presidente del Secretariado Técnico del Instituto Electoral y de Participación Ciudadana del Estado de Durango;
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
+
+e) Secretario: Secretario Ejecutivo del Instituto Electoral y de Participación Ciudadana del Estado de Durango, y,
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
 
@@ -105,9 +121,13 @@ Para efectos del presente Reglamento se entiende por Sesión Plenaria la reunió
 
 Artículo 6
 
-El Secretariado Técnico, además de las que señala el Código Estatal Electoral, tendrá las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JUNIO DE 2009)</small>
 
-a) Vigilar y dar cumplimiento estricto a las atribuciones que le señala el artículo 120 del Código;
+El Secretariado Técnico, además de las que señala la Ley Electoral, tendrá las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2009)</small>
+
+a) Vigilar y dar cumplimiento estricto a las atribuciones que le señala el artículo 121 de la Ley Electoral;
 
 b) Formar de entre sus integrantes, las comisiones que sean necesarias para vigilar y organizar el adecuado desempeño de sus atribuciones;
 
@@ -125,7 +145,9 @@ f) Vigilar la observancia de este Reglamento y las disposiciones relativas;
 
 Artículo 7
 
-Los integrantes del Secretariado Técnico, además de las que señala el Código Estatal Electoral tendrá las siguientes atribuciones y obligaciones:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JUNIO DE 2009)</small>
+
+Los integrantes del Secretariado Técnico, además de las que señala la Ley Electoral tendrá las siguientes atribuciones y obligaciones:
 
 a) Concurrir y participar en las sesiones;
 
@@ -147,7 +169,9 @@ i) Vigilar la observancia de este Reglamento y las disposiciones relativas;
 
 j) Ejercer libremente su derecho a voz y en su caso a voto; y,
 
-k) Las demás que le confieran el Código Estatal Electoral, leyes relativas, este Reglamento y el Consejo Estatal Electoral o el Secretariado en ejercicio de sus atribuciones.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
+
+k) Las demás que le confieran la Ley Electoral, leyes relativas, este Reglamento y el Consejo Estatal Electoral o el Secretariado en ejercicio de sus atribuciones.
 
 ### CAPÍTULO III. DE LAS ATRIBUCIONES DEL PRESIDENTE Y DEL SECRETARIO DEL SECRETARIADO TÉCNICO
 
@@ -173,7 +197,9 @@ h) Vigilar la aplicación de este Reglamento;
 
 i) Vigilar el cumplimiento de los acuerdos adoptados por el Secretariado, y,
 
-j) Las demás que le otorgue el Código Estatal Electoral.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
+
+j) Las demás que le otorgue la Ley Electoral.
 
 Artículo 9
 
@@ -229,7 +255,9 @@ Artículo 12
 
 La convocatoria a la sesión deberá expresar el lugar, día y hora en que la misma se deba celebrar, la mención de ser ésta ordinaria o extraordinaria y un proyecto de orden del día para ser desahogado. A dicha convocatoria se acompañarán en caso necesario copia de los documentos y anexos necesarios para la discusión de los asuntos contenidos en el orden del día, así como el acta de la sesión anterior.
 
-Después de recibida la convocatoria y hasta antes de las 24 horas anteriores a la celebración de una sesión ordinaria, cualquier integrante del Secretariado, podrá solicitar por escrito al Secretario, la inclusión de un asunto en el orden del día de la sesión a celebrar, acompañando su solicitud con los documentos necesarios para su discusión. En tal caso el Secretario remitirá a los integrantes del Secretariado, un nuevo orden del día que contenga los asuntos que se vayan agregando al original y los documentos necesarios para su discusión a más tardar al día siguiente de que se haya realizado la solicitud de inclusión. Ninguna solicitud que se reciba fuera del plazo señalado en este párrafo podrá ser incorporada al orden del día de la sesión de que se trate. Excepción hecha de los casos supervenientes.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
+
+Después de recibida la convocatoria y hasta antes de las veinticuatro horas anteriores a la celebración de una sesión ordinaria, cualquier integrante del Secretariado, podrá solicitar por escrito al Secretario, la inclusión de un asunto en el orden del día de la sesión a celebrar, acompañando su solicitud con los documentos necesarios para su discusión. En tal caso el Secretario remitirá a los integrantes del Secretariado, un nuevo orden del día que contenga los asuntos que se vayan agregando al original y los documentos necesarios para su discusión a más tardar al día siguiente de que se haya realizado la solicitud de inclusión. Ninguna solicitud que se reciba fuera del plazo señalado en este párrafo podrá ser incorporada al orden del día de la sesión de que se trate. Excepción hecha de los casos supervenientes.
 
 No obstante lo dispuesto en el párrafo anterior, los integrantes del Secretariado podrán solicitar al Secretario la discusión en “Asuntos Generales” de puntos que no requieran, examen previo de documentos, o que sean de obvia y urgente resolución.
 
@@ -241,11 +269,15 @@ Artículo 13
 
 Las sesiones del Secretariado son ordinarias y extraordinarias;
 
-a) Son ordinarias aquellas sesiones que deben celebrarse periódicamente en forma mensual según se establece en el segundo párrafo del artículo 119 del Código Estatal Electoral.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
+
+a) Son ordinarias aquellas sesiones que deben celebrarse periódicamente en forma mensual según se establece en el segundo párrafo del artículo 120 de la Ley Electoral.
 
 b) Son extraordinarias aquellas sesiones convocadas por el Presidente del Secretariado cuando lo estime necesario, o a petición que le formule la mayoría de los integrantes del Secretariado, para tratar asuntos con un objetivo único y determinado.
 
-Salvo disposición en contrario las sesiones no podrán exceder de tres horas de duración. No obstante, el Secretariado podrá decidir sin debate prolongarlas con el acuerdo de la mayoría de sus integrantes. Aquellas sesiones que sean suspendidas por exceder el límite de tiempo establecido, serán continuadas dentro de las 24 horas siguientes a su suspensión, salvo que el Secretariado acuerde otro plazo para su reanudación.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
+
+Salvo disposición en contrario las sesiones no podrán exceder de tres horas de duración. No obstante, el Secretariado podrá decidir sin debate prolongarlas con el acuerdo de la mayoría de sus integrantes. Aquellas sesiones que sean suspendidas por exceder el límite de tiempo establecido, serán continuadas dentro de las veinticuatro horas siguientes a su suspensión, salvo que el Secretariado acuerde otro plazo para su reanudación.
 
 ### CAPÍTULO III. DE LA INSTALACIÓN Y DESARROLLO DE LAS SESIONES
 
@@ -391,13 +423,19 @@ Artículo 27
 
 Las sanciones previstas en el artículo que antecede serán impuestas por el Presidente del Secretariado, a petición del Pleno o de la mayoría de sus integrantes.
 
-## TÍTULO CUARTO. DE LAS SANCIONES DERIVADAS DEL ARTÍCULO 375 DEL CÓDIGO ESTATAL ELECTORAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE JUNIO DE 2009)</small>
+
+## TÍTULO CUARTO. DE LAS SANCIONES APLICABLES POR EL SECRETARIADO TÉCNICO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
+
 Artículo 28
 
-Son sujetos de aplicación del presente Título, todas aquellas personas que ocupen puestos de dirección, subdirección o jefaturas de departamento en las diversas áreas que conforman el Instituto Estatal Electoral.
+Son sujetos de aplicación del presente Título, todas aquellas personas que ocupen puestos de dirección, subdirección o jefaturas de departamento en las diversas áreas que conforman el
+
+Instituto.
 
 Artículo 29
 
@@ -407,21 +445,27 @@ a) Amonestación
 
 b) Suspensión;
 
-c) Destitución del cargo o multa de hasta 100 días de salario mínimo vigente en la capital del Estado.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
+
+c) Destitución del cargo o multa de hasta cien días de salario mínimo vigente en la capital del Estado.
 
 Amonestación es el extrañamiento verbal o escrito con la exhortación de enmendar la conducta.
 
 Suspensión es la separación del cargo sin goce de sueldo, por un período que no exceda los quince días, dejando constancia de ello en el expediente del funcionario infractor. La suspensión no implica destitución del cargo. En este caso el Órgano Superior Jerárquico nombrará a quién deba sustituirlo.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
+
 Artículo 30
 
-Las sanciones previstas en el artículo que antecede serán impuestas por el Secretariado Técnico del Instituto Estatal Electoral.
+Las sanciones previstas en el artículo que antecede serán impuestas por el Secretariado Técnico del Instituto.
 
 Artículo 31
 
 Las sanciones se impondrán tomando en cuenta los siguientes elementos:
 
-I. La gravedad de la responsabilidad en que incurra el funcionario electoral y la conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las disposiciones del Código Estatal Electoral o las que se dicten con base en el mismo;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2009)</small>
+
+I. La gravedad de la responsabilidad en que incurra el funcionario electoral y la conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las disposiciones de la Ley Electoral o las que se dicten con base en el mismo;
 
 II. Las circunstancias socio-económicas del funcionario electoral;
 
@@ -441,9 +485,11 @@ Las correcciones disciplinarias se impondrán oyendo al interesado y tomando en 
 
 ### CAPÍTULO II. PROCEDIMIENTO
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
+
 Artículo 33
 
-Cualquier ciudadano, bajo su más estricta responsabilidad, podrá formular por escrito, denuncia en contra de un funcionario electoral del Instituto, ante el Secretariado Técnico del mismo, por el incumplimiento, violación o infracción cometida por el funcionario electoral a las disposiciones contenidas en el Código Estatal Electoral, o de los ordenamientos derivados del mismo.
+Cualquier ciudadano, bajo su más estricta responsabilidad, podrá formular por escrito, denuncia en contra de un funcionario electoral del Instituto, ante el Secretariado Técnico del mismo, por el incumplimiento, violación o infracción cometida por el funcionario electoral a las disposiciones contenidas en la Ley Electoral, o de los ordenamientos derivados del mismo.
 
 Artículo 34
 
@@ -507,9 +553,11 @@ f) Instrumental de actuaciones.
 
 ### CAPÍTULO IV. DE LAS RESOLUCIONES
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
+
 Artículo 45
 
-El Secretariado deberá resolver en un plazo que no exceda de 30 días hábiles contados a partir de que se presente la denuncia.
+El Secretariado deberá resolver en un plazo que no exceda de treinta días hábiles contados a partir de que se presente la denuncia.
 
 Artículo 46
 
@@ -529,9 +577,11 @@ Artículo 49
 
 Se considerará que existe reincidencia cuando se presente una segunda denuncia en contra de un mismo funcionario por el incumplimiento de la misma obligación por la que había sido sancionado anteriormente.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
+
 Artículo 50
 
-En caso de reincidencia del Funcionario Electoral se aplicará una multa de hasta 100 días de salario mínimo vigente en el Estado; a menos que esta sanción ya haya sido impuesta, en tal caso, se procederá a la destitución del cargo.
+En caso de reincidencia del Funcionario Electoral se aplicará una multa de hasta cien días de salario mínimo vigente en el Estado; a menos que esta sanción ya haya sido impuesta, en tal caso, se procederá a la destitución del cargo.
 
 ## TRANSITORIOS
 
@@ -560,3 +610,15 @@ SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DE ACUERDO DE REFORMAS QUE SE RELACIONAN CO
 2.- Gírense instrucciones al Secretario Ejecutivo para que, en su carácter de Coordinador del Secretariado Técnico, haga del conocimiento de los integrantes de dicho órgano colegiado el presente Acuerdo.
 
 3.- Publíquese el presente acuerdo y sus anexos en el Periódico Oficial del Estado.
+
+P.O. 4 DE JUNIO DE 2009.
+
+SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DE ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+...
+
+7. Se instruye al Secretario del Consejo para que, con toda oportunidad, disponga de la edición del número de ejemplares que estime necesarios de la reglamentación anterior, para su adecuada difusión, en el ámbito de competencia respectivo.
+
+8. Las reformas a los reglamentos aprobadas en el presente Acuerdo entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+9. Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del estado de Durango.
