@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-de-los-procedimientos-de-plebiscito-y-referendum-605
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-31"
-last_updated: "2008-01-31"
+last_updated: "2009-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60573&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 REGLAMENTO DE LOS PROCEDIMIENTOS DE PLEBISCITO Y REFERENDUM
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el jueves 31 de enero de 2008.
 
@@ -75,13 +75,19 @@ El presente reglamento es de orden público y de aplicación general y tiene por
 
 Para los efectos de este reglamento se entiende por:
 
-I. Código: Código Estatal Electoral.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2009)</small>
+
+I. Ley Electoral: Ley Electoral para el Estado de Durango.
 
 II. Ley de Participación Ciudadana: La Ley de Participación Ciudadana para el Estado de Durango.
 
-III. Instituto: El Instituto Estatal Electoral de Durango.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2009)</small>
 
-IV. Consejo: El Consejo Estatal Electoral del Instituto Estatal Electoral Durango.
+III. Instituto: El Instituto Electoral y de Participación Ciudadana del Estado de Durango.
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2009)</small>
+
+IV. Consejo: El Consejo Estatal del Instituto Electoral y de Participación Ciudadana del Estado de Durango.
 
 V. Comisión: Comisión de Participación Ciudadana del Consejo Estatal Electoral.
 
@@ -89,11 +95,13 @@ VI. Tribunal: Tribunal Estatal Electoral del Poder Judicial del Estado de Durang
 
 VII. Lista Nominal: Lista Nominal de Electores mas reciente.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 3.
 
-La interpretación de las disposiciones de este reglamento se hará conforme a los criterios gramatical, sistemático y funcional, atendiendo en todo momento a los principios de constitucionalidad, legalidad, imparcialidad, objetividad, certeza, independencia, democracia, corresponsabilidad, inclusión, solidaridad, respeto, tolerancia, sustentabilidad y continuidad; además de los principios generales de derecho.
+La interpretación de las disposiciones de este reglamento se hará conforme a los criterios gramatical, sistemático y funcional, atendiendo en todo momento a los principios de constitucionalidad, legalidad, equidad, imparcialidad, objetividad, certeza, independencia, democracia, corresponsabilidad, inclusión, solidaridad, respeto, tolerancia, sustentabilidad y continuidad; además de los principios generales de derecho.
 
-Las situaciones no previstas en la Ley de Participación Ciudadana y este reglamento serán resueltos de conformidad con el Código y con los acuerdos que tome el Consejo.
+Las situaciones no previstas en la Ley de Participación Ciudadana y este reglamento serán resueltos de conformidad con la Ley Electoral y con los acuerdos que tome el Consejo.
 
 ###### ARTÍCULO 4.
 
@@ -255,9 +263,13 @@ III. Cumplir con los acuerdos que dicte el Consejo y la Comisión;
 
 IV. Recibir los recursos que se interpongan en contra de los acuerdos y resoluciones del Centro Municipal e iniciar el trámite que corresponda de acuerdo con las disposiciones relativas;
 
-V. Recibir del Consejo Estatal Electoral, las listas nominales de electores;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2009)</small>
 
-VI. Recibir del Consejo Estatal Electoral, la documentación y materiales aprobados y hacerlos llegar, en los términos de este reglamento a los presidentes de las Mesas receptoras;
+V. Recibir del Consejo, las listas nominales de electores;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2009)</small>
+
+VI. Recibir del Consejo, la documentación y materiales aprobados y hacerlos llegar, en los términos de este reglamento a los presidentes de las Mesas receptoras;
 
 VII. Difundir y publicar las listas de los ciudadanos que integran las mesas receptoras de votación y la ubicación de éstas,
 
@@ -407,9 +419,11 @@ V. Cuando se pretenda la realización de un referéndum en los tiempos no permit
 
 VI. En los demás casos en que la improcedencia resulte por analogía o por disposición legal aplicable.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 31.
 
-De conformidad con lo dispuesto por el artículo 61 de la Ley de Participación Ciudadana, la declaratoria que emita la Comisión sobre la improcedencia de la solicitud, podrá impugnarse ante el Tribunal de lo Contencioso Administrativo del Estado de Durango, a través del representante común de los ciudadanos, siguiendo el procedimiento establecido en el Código de Justicia Administrativa para el Estado de Durango.
+De conformidad con lo dispuesto por el artículo 63 de la Ley de Participación Ciudadana, la declaratoria que emita la Comisión sobre la improcedencia de la solicitud, podrá impugnarse ante el Tribunal conforme a las disposiciones establecidas en la Ley de Medios de Impugnación en Materia Electoral y de Participación Ciudadana.
 
 ### CAPÍTULO QUINTO. DE LA CONVOCATORIA
 
@@ -611,9 +625,11 @@ V. Impresión únicamente en colores blanco y negro.
 
 ### CAPÍTULO DÉCIMO PRIMERO. DE LA JORNADA DE VOTACIÓN Y LOS CÓMPUTOS
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 57.
 
-El desarrollo de la jornada de votación se realizará atendiendo a lo dispuesto en los Capítulos III y IV del Título Cuarto de la Ley de Participación Ciudadana y, en lo aplicable, a lo dispuesto en los Títulos Tercero y Cuarto, del libro Quinto, del Código Estatal Electoral.
+El desarrollo de la jornada de votación se realizará atendiendo a lo dispuesto en los Capítulos III y IV del Título Cuarto de la Ley de Participación Ciudadana y, en lo aplicable, a lo dispuesto en los Títulos Tercero y Cuarto, del Libro Quinto, de la Ley Electoral
 
 ### CAPÍTULO DÉCIMO SEGUNDO. DE LOS EFECTOS DEL PLEBISCITO O DE REFERÉNDUM Y ADOPCIÓN DE LA DECISIÓN
 
@@ -683,13 +699,17 @@ El acuerdo a que se refiere el párrafo que antecede, se publicará en el Perió
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES COMPLEMENTARIAS DEL PLEBISCITO Y DEL REFERÉNDUM
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 70.
 
-Toda controversia del procedimiento de plebiscito y de referéndum, será resuelto por el Tribunal Estatal Electoral de conformidad con la ley de la materia.
+Toda controversia del procedimiento de plebiscito y de referéndum, será resuelto por el Tribunal de conformidad con la ley de la materia.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 71.
 
-A falta de norma expresa, en el procedimiento del plebiscito y del referéndum se aplicarán en lo conducente las disposiciones relativas del Código Estatal Electoral.
+A falta de norma expresa, en el procedimiento del plebiscito y del referéndum se aplicarán en lo conducente las disposiciones relativas de la Ley Electoral.
 
 ###### ARTÍCULO 72.
 
@@ -738,3 +758,17 @@ Las multas que se apliquen serán destinadas a la promoción del voto y a la dif
 ## TRANSITORIO
 
 ÚNICO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE JUNIO DE 2009.
+
+SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+...
+
+7. Se instruye al Secretario del Consejo para que, con toda oportunidad, disponga de la edición del número de ejemplares que estime necesarios de la reglamentación anterior, para su adecuada difusión, en el ámbito de competencia respectivo.
+
+8. Las reformas a los reglamentos aprobadas en el presente Acuerdo entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+9. Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado de Durango.
