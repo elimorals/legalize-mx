@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-etica-del-instituto-electoral-y-de-participacion-6435
 country: "mx"
 rank: "codigo"
 publication_date: "2008-10-02"
-last_updated: "2008-10-02"
+last_updated: "2009-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64354&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,9 @@ state: "DUR"
 ---
 # CODIGO DE ETICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE DURANGO -ANTES CODIGO DE ETICA DEL INSTITUTO ESTATAL ELECTORAL DE DURANGO-
 
-CODIGO DE ETICA DEL INSTITUTO ESTATAL ELECTORAL DE DURANGO
+CODIGO DE ETICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 2 de octubre de 2008.
 
@@ -64,7 +64,9 @@ LIC. RAYMUNDO HERNÁNDEZ GÁMIZ
 
 SECRETARIO
 
-CÓDIGO DE ÉTICA DEL INSTITUTO ESTATAL ELECTORAL DE DURANGO
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 JUNIO DE 2009)</small>
+
+CÓDIGO DE ÉTICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE DURANGO.
 
 ### CAPÍTULO I. GENERALIDADES
 
@@ -72,7 +74,9 @@ CÓDIGO DE ÉTICA DEL INSTITUTO ESTATAL ELECTORAL DE DURANGO
 
 Artículo 1
 
-Las disposiciones de este Código constituyen un catálogo de principios, valores y virtudes aplicables a todos los servidores del Instituto Estatal Electoral de Durango, de todos los niveles y jerarquías, que presten sus servicios de manera eventual o permanente, en los siguientes órganos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JUNIO DE 2009)</small>
+
+Las disposiciones de este Código constituyen un catálogo de principios, valores y virtudes aplicables a todos los servidores del Instituto Electoral y de Participación Ciudadana del Estado de Durango, de todos los niveles y jerarquías, que presten sus servicios de manera eventual o permanente, en los siguientes órganos:
 
 A) El Consejo Estatal Electoral;
 
@@ -98,7 +102,9 @@ K) Unidad Técnica de Cómputo, y
 
 L) Departamento de Comunicación Social.
 
-Para efectos de la aplicación del presente Código se entenderá por Instituto, al Instituto Estatal Electoral de Durango.
+> <small>(REFORMADO, P.O. 4 JUNIO DE 2009)</small>
+
+Para efectos de la aplicación del presente Código se entenderá por Instituto, al Instituto Electoral y de Participación Ciudadana del Estado de Durango.
 
 FINES
 
@@ -228,7 +234,9 @@ Artículo 11
 
 El servidor del Instituto comprenderá que sus acciones sólo son legítimas cuando se desarrollan en apego a las normas y procedimientos establecidos por las leyes, por lo que tiene el deber de:
 
-1) Realizar sus funciones fundándose en las disposiciones constitucionales relativas, en el Código Estatal Electoral de Durango y demás leyes y reglamentos que resultan aplicables al caso concreto;
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
+
+1) Realizar sus funciones fundándose en las disposiciones constitucionales relativas, en la Ley Electoral para el Estado de Durango y demás leyes y reglamentos que resultan aplicables al caso concreto;
 
 2) Aplicar las disposiciones jurídicas estrictamente y conforme a derecho, sin distinción de personas o instituciones, y
 
@@ -395,3 +403,15 @@ El Comité designará, de entre los directores integrantes del Secretariado Téc
 PRIMERO.- Publíquese el presente Código de Ética del Instituto Estatal Electoral de Durango, en el Periódico Oficial del Gobierno Constitucional del Estado de Durango y en la página Web del propio Instituto, en cumplimiento al principio de publicidad a que hace referencia el artículo 7 de la Ley de Acceso a la Información Pública del Estado.
 
 SEGUNDO.- El presente Código de Ética entrará en vigor a partir del día de su publicación.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 4 DE JUNIO DE 2009.
+
+SE TRANSCRIBEN LOS PUNTOS DE ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+...
+
+8. Las reformas a los reglamentos aprobadas en el presente Acuerdo entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+9. Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado de Durango.
