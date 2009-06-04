@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-civiles-para-el-estado-de-sonora-8454"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2008-08-28"
+last_updated: "2009-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 2011 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 4 DE JUNIO DE 2009.
 
 Código publicado en la Sección Tercera del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -1995,9 +1997,11 @@ III.- Cuando cualquiera de los cónyuges, concubina o concubino, sea quien solic
 
 IV.- El Juez podrá decretar las medidas que juzgue adecuadas para la realización de la separación y aplicará en lo conducente las reglas del artículo 447 del Código Civil y de la ejecución forzosa.
 
-> <small>(ADICIONADA, B.O. 17 DE MAYO DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-V.- En el caso de violencia intrafamiliar, el Juez de Primera Instancia, para normar su criterio, podrá tomar en cuenta los dictámenes y opiniones que hubieren realizado las instituciones públicas y privadas dedicadas a atender asuntos de esta índole y en particular podrá imponer cualquier medida de seguridad a que se refieren el artículo 39 fracción IV de la Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Sonora, sin perjuicio de cualquier otra medida prevista en este artículo.
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+V.- En el caso de violencia intrafamiliar, el Juez de Primera Instancia, para normar su criterio, podrá tomar en cuenta los dictámenes y opiniones que hubieren realizado las instituciones públicas y privadas dedicadas a atender asuntos de esta índole y en particular podrá imponer cualquier medida de seguridad a que se refiere el artículo 39, fracción IV de la Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Sonora y, en su caso, cualquier orden de protección a que se refiere la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sonora, sin perjuicio de cualquiera otra medida prevista en este artículo.
 
 > <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
@@ -5203,9 +5207,11 @@ En todos los asuntos de que trata este Título tendrá intervención el Minister
 
 El juez dispondrá de las más amplias facultades para la determinación de la verdad material, sin que quede vinculado a las reglas de la prueba legal para lograr este resultado.
 
-> <small>(ADICIONADO, B.O. 17 DE MAYO DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-El Juez de Primera Instancia estará facultado para intervenir en los asuntos que afecten a la familia, especialmente tratándose de menores, de alimentos y de cuestiones relacionadas con violencia intrafamiliar, pudiendo decretar de oficio medidas precautorias y de seguridad que tiendan a preservar la familia y proteger a sus miembros, observando en particular las previstas en el artículo 447 del Código Civil y la fracción IV del artículo 39 de la Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Sonora.
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
+
+El Juez de Primera Instancia estará facultado para intervenir en los asuntos que afecten a la familia, especialmente tratándose de menores, de alimentos y de cuestiones relacionadas con violencia intrafamiliar, pudiendo decretar de oficio medidas precautorias, de seguridad y órdenes de protección que tiendan a preservar la familia y proteger a sus miembros, observando en particular las previstas en el artículo 447 del Código Civil y la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sonora.
 
 A este fin, regirán los siguientes principios:
 
@@ -5223,7 +5229,11 @@ V.- No tendrán aplicación las reglas formales de apreciación de las pruebas, 
 
 Art. 553 BIS.- No se requieren formalidades especiales para acudir ante el Juez de Primera Instancia tratándose de actos de violencia intrafamiliar previstos en el artículo 489 bis del Código Civil para el Estado de Sonora.
 
-El Juez, valorando la situación de la parte agredida y la posibilidad de peligro para la misma, podrá recomendar a los involucrados que convengan en audiencia privada, los actos para hacer cesar la situación de violencia intrafamiliar y en caso de que no lo hicieran o no resultare conveniente para la parte agredida, en la misma audiencia el Juez del conocimiento determinará las medidas procedentes para la protección de los menores y de la parte agredida. Al efecto, el Juez para normar su criterio, podrá tomar en cuenta, los informes que al respecto hayan sido elaborados por las instituciones públicas o privadas que hubieren intervenido y escuchará al Ministerio Público, así como a la Procuraduría de la Defensa del Menor y de la Familia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
+
+El Juez, valorando la situación de la parte agredida y la posibilidad de peligro para la misma, determinará las órdenes de protección necesarias y las medidas procedentes para la protección de los menores y de la parte agredida. Al efecto, el Juez para normar su criterio, podrá tomar en cuenta, los informes que al respecto hayan sido elaborados por las instituciones públicas o privadas que hubieren intervenido y escuchará al Ministerio Público, así como a la Procuraduría de la Defensa del Menor y de la Familia.
 
 > <small>(ADICIONADO, B.O. 6 DE JULIO DE 2006)</small>
 
@@ -8614,3 +8624,9 @@ Los juicios de pérdida de patria potestad que se encuentren en trámite a la en
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+B.O. 4 DE JUNIO DE 2009.
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor en un plazo de noventa días naturales, contados a partir del día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
