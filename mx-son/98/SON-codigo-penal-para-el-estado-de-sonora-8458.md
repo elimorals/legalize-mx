@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2008-12-26"
+last_updated: "2009-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # CODIGO PENAL PARA EL ESTADO DE SONORA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 2011 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CODIGO PENAL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 4 DE JUNIO DE 2009.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -399,7 +401,11 @@ VI.- Según corresponda y de manera accesoria a los conceptos anteriores: el pag
 
 Para que proceda lo que se prevé en esta fracción, será necesario que el ofendido o víctima gestionen la reparación por conducto de abogado, con título registrado en el Supremo Tribunal de Justicia del Estado.
 
-En los supuestos de las fracciones II y III, cuando el responsable de resarcir daños y perjuicios carezca de medios y recursos para realizar el pago correspondiente, el Estado, a través de sus organismos y dependencias competentes, tendrá la obligación de proporcionar a la víctima los tratamientos y cuidados necesarios para su recuperación, en términos de la Ley de Atención y Protección a Víctimas del Delito y la Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Sonora.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
+
+En los supuestos de las fracciones II y III, cuando el responsable de resarcir daños y perjuicios carezca de medios y recursos para realizar el pago correspondiente, el Estado, a través de sus organismos y dependencias competentes, tendrá la obligación de proporcionar a la víctima los tratamientos y cuidados necesarios para su recuperación, en términos de la Ley de Atención y Protección a Víctimas del Delito, la Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Sonora, y en su caso, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia Familiar para el Estado de Sonora.
 
 > <small>(REFORMADO, B.O. 7 DE ABRIL DE 2008)</small>
 
@@ -1651,7 +1657,7 @@ Las penas que resulten aplicables por los delitos previstos en este capítulo se
 
 I.- Si el sujeto activo se valiese de la función pública o privada, la profesión u oficio que desempeña, aprovechándose de los medios o circunstancias que ellos le proporcionan. En este caso, además, se le destituirá del empleo, cargo o comisión públicos e inhabilitará para desempeñar otro, o se le suspenderá del ejercicio de la profesión u oficio por un tiempo igual al de la pena de prisión impuesta.
 
-II.- Si el sujeto activo del delito tiene parentesco por consaguinidad, afinidad o civil hasta en cuarto grado o habite ocasional o permanentemente en el mismo domicilio con la víctima, o tenga una relación análoga al parentesco con el sujeto pasivo.
+II.- Si el sujeto activo del delito tiene parentesco por consaguinidad (sic), afinidad o civil hasta en cuarto grado o habite ocasional o permanentemente en el mismo domicilio con la víctima, o tenga una relación análoga al parentesco con el sujeto pasivo.
 
 > <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -2015,6 +2021,12 @@ Solamente será punible el hostigamiento sexual, cuando se cause un perjuicio o 
 
 Este delito se perseguirá sólo a petición de parte ofendida.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 4 DE JUNIO DE 2009)</small>
+
+Si el delito se cometiera en contra de la víctima, por su condición de género, se aumentará la pena que corresponda hasta en una tercera parte.
+
 > <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 198.
@@ -2255,13 +2267,23 @@ III.- El responsable allane el lugar en que se encuentre la víctima o la sorpre
 
 IV.- El delito fuere cometido por la persona que tiene al ofendido bajo su custodia, guarda o educación o aproveche la confianza en él depositada;
 
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V.- Sea cometido por quien desempeñe un empleo, cargo o comisión públicos, o en ejercicio de una profesión o empleo, utilizando los medios o circunstancias que ellos le proporcionan; y
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
 
-> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2008)</small>
+V.- Sea cometido por quien desempeñe un empleo, cargo o comisión públicos, o en ejercicio de una profesión o empleo, utilizando los medios o circunstancias que ellos le proporcionan;
 
-VI.- Sea cometido en el interior de instituciones de educación básica, media superior, superior o en sus inmediaciones.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+VI.- Sea cometido en el interior de instituciones de educación básica, media superior, superior o en sus inmediaciones; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+VII.- Si el delito se cometiera en contra de la víctima, por su condición de género, se aumentará la pena que corresponda hasta en una tercera parte.
 
 En los casos respectivos, el responsable perderá la patria potestad o la tutela, así como el derecho a heredar del ofendido.
 
@@ -2337,13 +2359,23 @@ IV.- El responsable allane el lugar en que se encuentre la víctima o la sorpren
 
 V.- El delito fuere cometido por la persona que tiene al ofendido bajo su custodia, guarda o educación o aproveche la confianza en él depositada;
 
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI.- Sea cometido por quien desempeñe un empleo, cargo o comisión públicos, o en ejercicio de una profesión o empleo, utilizando los medios o circunstancias que ellos le proporcionan; y
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
 
-> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2008)</small>
+VI.- Sea cometido por quien desempeñe un empleo, cargo o comisión públicos, o en ejercicio de una profesión o empleo, utilizando los medios o circunstancias que ellos le proporcionan;
 
-VII.- El delito fuere cometido en el interior de las instituciones de educación básica o media superior o en sus inmediaciones.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+VII.- El delito fuere cometido en el interior de las instituciones de educación básica o media superior o en sus inmediaciones; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+VlII.- Si el delito se cometiera en contra de la víctima, por su condición de género.
 
 En los casos respectivos, el responsable perderá la patria potestad o la tutela, así como el derecho a heredar del ofendido.
 
@@ -2386,6 +2418,12 @@ Cuando el rapto se acompañe con otro delito perseguible de oficio, sí se proce
 ###### ARTICULO 226.
 
 Se impondrá de tres a ocho años de prisión a los ascendientes que tengan cópula con sus descendientes. La sanción aplicable a estos últimos será de uno a cuatro años de prisión; esta misma pena se aplicará en caso de incesto entre hermanos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 4 DE JUNIO DE 2009)</small>
+
+Si el delito se cometiera en contra de la víctima, por su condición de género, se aumentará la pena que corresponda hasta en una tercera parte.
 
 TITULO DECIMOTERCERO
 
@@ -2463,9 +2501,11 @@ Comete el delito de violencia intrafamiliar el cónyuge, excónyuge, concubina o
 
 Al que cometa el delito de violencia intrafamiliar se le impondrán de seis meses a seis años de prisión y la suspensión del derecho de alimentos.
 
-> <small>(ADICIONADO, B.O., 17 DE MAYO DEL 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Asimismo, cuando la víctima se trate de un menor, será condenado a la perdida, limitación o suspensión de la patria potestad, según las circunstancias del caso, a juicio del juez.
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
+
+Asimismo, cuando la víctima se trate de un menor, será condenado a la perdida, limitación o suspensión de la patria potestad, según las circunstancias del caso, a juicio del juez. Si el delito se cometiera en contra de la víctima, por su condición de género, se aumentará la pena que corresponda hasta en una tercera parte.
 
 > <small>(ADICIONADO, B.O., 17 DE MAYO DEL 2001)</small>
 
@@ -2479,9 +2519,11 @@ Si se rehabilita, podrá recuperar el derecho de alimentos por resolución judic
 
 Este delito se perseguirá por querella de la parte ofendida, salvo que la víctima sea menor de edad, incapaz o persona mayor de 65 años, en este caso se perseguirá de oficio. Dicho menor, incapaz o persona mayor de 65 años, sólo se reintegrará a la familia, previo certificado o dictamen emitido por peritos psicológicos y/o psiquiátricos, que determinen que la persona o personas que hayan cometido el delito no representan ya un peligro o riesgo para éstos.
 
-> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Para que surta efectos legales el perdón de la víctima, el agresor deberá abstenerse de repetir la conducta delictiva por lo menos en seis meses, cumplir, con sus obligaciones alimenticias, cuando las tuviere, someterse a terapia psicológica y/o psiquiátrica y, en su caso, pagar el tratamiento que requiera la víctima. Para tal efecto se suspenderá el procedimiento hasta en tanto se cumpla con dichos requisitos.
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
+
+Para que surta efectos legales el perdón de la víctima, el agresor deberá abstenerse de repetir la conducta delictiva por lo menos en un año, cumplir, con sus obligaciones alimenticias, cuando las tuviere, someterse a terapia psicológica y/o psiquiátrica y, en su caso, pagar el tratamiento que requiera la víctima. Para tal efecto se suspenderá el procedimiento hasta en tanto se cumpla con dichos requisitos.
 
 > <small>(ADICIONADO, B.O., 17 DE MAYO DEL 2001)</small>
 
@@ -2489,21 +2531,23 @@ Para que surta efectos legales el perdón de la víctima, el agresor deberá abs
 
 Se equipara a la violencia intrafamiliar y se sancionará con seis meses a seis años de prisión, al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona con la que se encuentre unida fuera de matrimonio; de los parientes por consanguinidad o afinidad hasta el cuarto grado de esa persona, o de cualquier otra persona que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de dicha persona.
 
-> <small>(ADICIONADO, B.O., 17 DE MAYO DEL 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 4 DE JUNIO DE 2009)</small>
+
+Si el delito se cometiera en contra de la víctima, por su condición de género, se aumentará la pena que corresponda hasta en una tercera parte.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 234-C.
 
-En todos los casos previstos en los dos artículos precedentes, el Ministerio Público se encontrará obligado a recibir, aún en días y horas inhábiles, cualquier denuncia o querella que se le presente exponiendo actos de violencia intrafamiliar y, bajo su estricta responsabilidad, impondrá al probable responsable como medidas precautorias y de seguridad, la prohibición de ir a lugar determinado, caución de no ofender, abstenerse de realizar actos de perturbación o intimidación en contra de la víctima, de sus bienes y familiares, en sus domicilios, lugares de trabajo, recreación o donde quiera que se encuentren, así como mantenerse alejado a una distancia que considere pertinente según las circunstancias del caso, y en general, las que considere necesarias para salvaguardar la integridad física, psíquica, moral y patrimonial de la víctima.
+En todos los casos previstos en los dos artículos precedentes, el Ministerio Público se encontrará obligado a recibir, aún en días y horas inhábiles, cualquier denuncia o querella que se le presente exponiendo actos de violencia intrafamiliar y, bajo su estricta responsabilidad, impondrá al probable responsable como medidas precautorias y de seguridad, el abandono inmediato del domicilio conyugal o común, la prohibición de ir a lugar determinado, caución de no ofender, abstenerse de realizar actos de perturbación o intimidación en contra de la víctima, de sus bienes y familiares, en sus domicilios, lugares de trabajo, recreación o donde quiera que se encuentren, así como mantenerse alejado a una distancia que considere pertinente según las circunstancias del caso, y en general, las que considere necesarias para salvaguardar la integridad física, psíquica, moral y patrimonial de la víctima, incluyendo, en su caso, las órdenes de protección previstas en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sonora.
 
-(REFORMADO, B.O. 6 DE JULIO DE 2006) (F. DE E., B.O. 20 DE JULIO DE 2006)
+En tal sentido, el Ministerio Público podrá emitir las medidas precautorias y de seguridad a que se refiere el párrafo anterior a favor de los receptores de violencia y sus familiares, exponiendo las razones y fundamentos que las justifiquen, las cuales deberán ser notificadas de inmediato al indiciado y se dará cumplimiento a las mismas a través de las corporaciones policiacas de que se auxilie; asimismo, remitirá las constancias respectivas al juez penal correspondiente, sin necesidad de ejercitar acción penal, para que dentro de las veinticuatro horas a la recepción de las mismas ratifique o modifique las medidas, según proceda. Cuando lo considere necesario y siempre que con anterioridad no se hayan emitido, el juez podrá decretar las medidas antes mencionadas, debiendo notificar lo anterior al inculpado e informar al Ministerio Público para que dé cumplimiento a las medidas dictadas para garantizar a los receptores de violencia y sus familiares la más completa protección a su integridad y seguridad personal.
 
-En tal sentido, el Ministerio Público podrá emitir providencias o medidas cautelares de protección provisional a favor de los receptores de violencia y sus familiares, exponiendo las razones y fundamentos que las justifiquen, las cuales deberán ser notificadas de inmediato al indiciado y se dará cumplimiento a las mismas a través de las corporaciones policiacas de que se auxilie; asimismo, remitirá las constancias respectivas al juez penal correspondiente, sin necesidad de ejercitar acción penal, para que dentro de las veinticuatro horas a la recepción de las mismas ratifique o modifique las medidas, según proceda. Cuando 10 (sic) considere necesario y siempre que con anterioridad no se hayan emitido, el juez podrá decretar las medidas antes mencionadas, debiendo notificar 10 (sic) anterior al inculpado e informar al Ministerio Público para que dé cumplimiento a las acciones y medidas preventivas dictadas para garantizar a los receptores de violencia y sus familiares la más completa protección a su integridad y seguridad personal.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE JULIO DE 2006)</small>
-
-En caso de que el indiciado o inculpado quebrante las medidas de protección a que se refieren los párrafos anteriores, se le sancionará en los términos del artículo 157, fracción II del Código Penal para el Estado de Sonora.
-
-> <small>(F. DE E., B.O. 20 DE JULIO DE 2006)</small>
+En caso de que el indiciado o inculpado quebrante las medidas a que se refieren los párrafos anteriores, se le sancionará en los términos del artículo 157, fracción II del Código Penal para el Estado de Sonora.
 
 El juez de la causa, con el fin señalado, podrá ratificar o modificar dichas medidas.
 
@@ -2637,6 +2681,12 @@ Cuando concurra alguna de las circunstancias calificativas señaladas en este t�
 
 Si la víctima fuere alguno de los parientes o personas a que se refieren los artículos 234-A y 234-B, se aumentará la pena que corresponda hasta en una tercera parte en su mínimo y en su máximo, con arreglo a los artículos que preceden.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 4 DE JUNIO DE 2009)</small>
+
+Si el delito se cometiera en contra de la victima, por su condición de género, se aumentará la pena que corresponda hasta en una tercera parte.
+
 ###### ARTICULO 248.
 
 Las lesiones inferidas por quienes ejerzan la patria potestad o la tutela a los menores o pupilos bajo su guarda, en ejercicio del derecho de corregir, no serán punibles si se tratare de las comprendidas en la fracción I del artículo 243 y, además, el autor no abusare de ese derecho, corrigiendo con crueldad o con innecesaria frecuencia. En cualquier otro caso, las sanciones que correspondan por las lesiones que se causen conforme a los artículos precedentes, se aumentarán en cuatro años de prisión y en cincuenta días multa, pudiendo imponerse, además, a juicio del juzgador, la pérdida o suspensión de la patria potestad o la tutela. En este supuesto el delito se perseguirá de oficio.
@@ -2711,11 +2761,15 @@ Al responsable de cualquier homicidio intencional que no tenga señalada una san
 
 Cuando en la comisión del delito de homicidio, intervengan dos o más personas, sin que exista entre éstas acuerdo previo, y no constare quién o quiénes infirieron la lesión mortal, a todos se les impondrá de cuatro a quince años de prisión.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 4 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 258.
 
-Cuando el homicidio sea cometido a propósito de una violación, allanamiento de morada, asalto o secuestro, se sancionará con prisión de veinticinco a cincuenta años.
+Cuando el homicidio sea cometido a propósito de una violación, allanamiento de morada, asalto, secuestro o cuando sea cometido en contra de la víctima por su condición de género, se sancionará con prisión de veinticinco a cincuenta años.
 
 Al autor de homicidio calificado con premeditación, alevosía o traición, o al que prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, o a su adoptante o adoptado, con conocimiento de esa relación, se le impondrá la misma pena señalada en el párrafo anterior.
 
@@ -2776,6 +2830,12 @@ ARTICULO 263 BIS.- Cuando la comisión de los delitos de homicidio o lesiones se
 El que prestare auxilio o indujere a otro para que se suicide, será sancionado con prisión de uno a siete años; si el suicidio se consumare, la sanción será de dos a nueve años de prisión.
 
 Si la persona a quien se auxilie o induzca al suicidio fuere menor de edad o no tuviere capacidad para comprender el significado del hecho, se sancionará al auxiliador o instigador con prisión de uno a quince años; si el suicidio se consumare, la sanción será de ocho a veinte años de prisión.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 4 DE JUNIO DE 2009)</small>
+
+Si se auxilia o induce al suicidio a una persona por su condición de género, se aumentará la pena que corresponda hasta en una tercera parte.
 
 ### CAPITULO V. DE LOS DELITOS COMETIDOS POR PERSONAS SUJETAS A CONCURSO
 
@@ -2844,6 +2904,12 @@ Si las conductas a que se refieren las fracciones anteriores se llevan a cabo en
 ###### ARTICULO 272.
 
 Al que abandone a una persona incapaz de cuidarse a sí misma, teniendo la obligación de cuidarla, se le aplicará de un mes a cinco años de prisión. Si resultare algún daño, se observarán las reglas que para el concurso de delitos señala este Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 4 DE JUNIO DE 2009)</small>
+
+Si el delito se cometiera en contra de la víctima, por su condición de género, se aumentará la pena que corresponda hasta en una tercera parte.
 
 ###### ARTICULO 273.
 
@@ -3796,3 +3862,9 @@ B.O. 26 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 4 DE JUNIO DE 2009.
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor en un plazo de noventa días naturales, contados a partir del día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
