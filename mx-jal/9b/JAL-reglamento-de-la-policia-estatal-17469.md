@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-policia-estatal-17469"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-06-24"
-last_updated: "2000-06-24"
+last_updated: "2009-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17469&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LA POLICÍA ESTATAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2009.
 
 Reglamento Publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 24 de junio de 2000.
 
@@ -607,119 +607,15 @@ Siendo la tarjeta de identidad un documento oficial, queda terminantemente prohi
 
 El presente capítulo tiene por objeto establecer y regular los lineamientos a que se sujetarán los elementos integrantes de la Policía Estatal en el uso de uniformes, a fin de facilitar su plena identificación.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
+
 ###### Artículo 51.
 
-El uniforme oficial para el personal de la Policía Estatal, incluyendo a sus Directores de Área, será el siguiente:
+Las características y uso del uniforme oficial para el personal de la Policía Estatal, será establecido por el Secretario mediante acuerdo, el cual deberá hacerse del conocimiento de la ciudadanía mediante los medios que se consideren convenientes.
 
-I. Personal de la Dirección de la Policía Rural:
+De igual forma, el Secretario determinará, mediante acuerdo, el personal que de manera excepcional utilizará ropa civil en el desempeño de sus funciones.
 
-a) Pantalón color negro, de corte recto sin valencianas;
-
-b) Camisola de color negro, de corte recto, manga corta, bolsas de parche a la altura del pecho, con carteras en las bolsas y hombrera gris;
-
-c) Playera de color negro de cuello redondo;
-
-d) Chamarra o suéter negro, (cuando el clima lo requiera) debiendo portar la leyenda “Policía Estatal” en la parte de la espalda;
-
-e) Cinturón negro;
-
-f) Calzado media bota o botín color negro; y
-
-g) Sombrero tipo texana en color negro con el escudo en forma de estrella de la Policía Estatal;
-
-II. Personal de la Dirección del Escuadrón de Apoyo:
-
-a) Pantalón y camisa tipo asalto;
-
-b) Playera de color negro cuello redondo;
-
-c) Chamarra o suéter negro, (cuando el clima lo requiera) debiendo portar la leyenda “Policía Estatal” en la parte de la espalda;
-
-d) Calzado media bota color negro; y
-
-e) Gorra color negra.
-
-III. Personal de la Dirección de Servicios Especiales:
-
-a) Pantalón color negro, de corte recto sin valencianas;
-
-b) Camisola de color negro, de corte recto, manga corta, bolsas de parche a la altura del pecho, con carteras en las bolsas y hombrera gris;
-
-c) Playera de color blanco de cuello redondo;
-
-d) Chamarra o suéter negro, (cuando el clima lo requiera) debiendo portar la leyenda “Policía Estatal” en la parte de la espalda;
-
-e) Cinturón negro;
-
-f) Calzado media bota o zapatos color negro;
-
-g) Gorra o moscoba en color negro; y
-
-h) Dependiendo de las necesidades del servicio, los integrantes de esta Dirección deberán vestir discrecionalmente ropa civil, o bien conforme a las instrucciones de sus superiores.
-
-IV. Personal de la Dirección Tácticas y Estrategias de Información: Dependiendo de las necesidades del servicio, los integrantes de esta Dirección deberán vestir discrecionalmente ropa civil, o bien conforme a las instrucciones de sus superiores, portar el siguiente uniforme en los servicios que lo requieran:
-
-a) Pantalón color negro, de corte recto sin valencianas;
-
-b) Camisola de color negro, de corte recto, manga corta, bolsas de parche a la altura del pecho, con carteras en las bolsas y hombrera gris;
-
-c) Playera de color blanco de cuello redondo;
-
-d) Chamarra o suéter negro, (cuando el clima lo requiera) debiendo portar la leyenda “Policía Estatal” en la parte de la espalda;
-
-e) Cinturón negro;
-
-f) Calzado media bota o zapatos colore negro; y
-
-g) Gorra en color negro.
-
-V. Personal de la Dirección de Custodia de Edificios Públicos:
-
-a) Pantalón color negro, de corte recto sin valencianas;
-
-b) Camisola de color negro, de corte recto, manga corta, bolsas de parche a la altura del pecho, con carteras en las bolsas y hombrera gris;
-
-c) Playera de color blanco de cuello redondo;
-
-d) Chamarra o suéter negro, (cuando el clima lo requiera) debiendo portar la leyenda “Policía Estatal” en la parte de la espalda;
-
-e) Cinturón negro;
-
-f) Calzado media bota o zapatos color negro; y
-
-g) Gorra o moscoba en color negro.
-
-VI. Personal de la Dirección de los Servicios Privados de Seguridad: Dependiendo de las necesidades del servicio, los integrantes de esta Dirección podrán vestir discrecionalmente ropa civil, o bien conforme a las instrucciones de sus superiores, portar el siguiente uniforme en los servicios que lo requieran:
-
-a) Pantalón color negro, de corte recto sin valencianas;
-
-b) Camisola de color negro, de corte recto, manga corta, bolsas de parche a la altura del pecho, con carteras en las bolsas y hombrera gris;
-
-c) Playera de color blanco de cuello redondo;
-
-d) Chamarra negra, (cuando el clima lo requiera) debiendo portar la leyenda “Policía Estatal” en la parte de la espalda;
-
-e) Cinturón negro;
-
-f) Calzado media bota o zapatos color negro; y
-
-g) Gorra o moscoba en color negro.
-
-VII. Personal de la Dirección de la Policía Preventiva Metropolitana:
-
-a) Pantalón color negro, de corte recto sin valencianas;
-
-b) Camisola de color negro, de corte recto, manga corta, bolsas de parche a la altura del pecho, con carteras de (sic) las bolas (sic) y hombrera gris;
-
-c) Playera de color blanco de cuello redondo;
-
-d) Chamarra o suéter negro, (cuando el clima lo requiera) debiendo portar la leyenda “Policía Estatal” en la parte de la espalda;
-
-e) Cinturón negro;
-
-f) Calzado media bota color negro; y
-
-g) Gorra o moscoba en color negro.
+Cuando el personal desempeñe actos del servicio con vestimenta de civil, deberá portar la identificación oficial a fin de identificarse y dar legalidad a sus actuaciones.
 
 ### CAPITULO XI. De las Patrullas
 
@@ -803,7 +699,7 @@ V. Los demás que determine el Director General y los Directores de Área.
 
 Todos los elementos de la Corporación deberán conocer la operación de los equipos de radiocomunicación, tanto móviles como portátiles, para que sean utilizados de forma correcta, debiendo optimizar la comunicación entre sus integrantes para brindar con mayor eficiencia el apoyo requerido en el servicio.
 
-Los Dírectores de las áreas que conforman la Policía Estatal deberán enviar a sus elementos periódicamente a que se actualicen en el manejo de los equipos de radiocomunicación o aprendan su uso cuando sean sustituidos por modelos recientes.
+Los Directores de las áreas que conforman la Policía Estatal deberán enviar a sus elementos periódicamente a que se actualicen en el manejo de los equipos de radiocomunicación o aprendan su uso cuando sean sustituidos por modelos recientes.
 
 ###### Artículo 66.
 
@@ -1310,3 +1206,9 @@ LIC. FERNANDO A. GUZMÁN PÉREZ PELÁEZ
 EL C. SECRETARIO DE SEGURIDAD PÚBLICA, PREVENCIÓN Y READAPTACIÓN SOCIAL
 
 C. DANIEL G. ITUARTE REYNAUD
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE JUNIO DE 2009.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
