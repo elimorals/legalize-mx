@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-penales-para-el-estado-de-sonora-8462"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-17"
-last_updated: "2008-04-07"
+last_updated: "2009-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 2011 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 4 DE JUNIO DE 2009.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 17 de agosto de 1949.
 
@@ -65,7 +67,11 @@ III.- Solicitar a la autoridad jurisdiccional las medidas de arraigo y las órde
 
 IV.- Acordar la detención o retención de los indiciados cuando así proceda;
 
-V.- Dictar todas las medidas y providencias necesarias para proporcionar seguridad y auxilio a las víctimas;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+V. Dictar todas las medidas, providencias y, en su caso, órdenes de protección en los términos de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sonora, necesarias para proporcionar seguridad y auxilio a las víctimas;
 
 VI.- Restituir al ofendido en sus derechos en los términos del artículo 43 de este Código;
 
@@ -1271,7 +1277,11 @@ En los casos del artículo anterior, se estará al procedimiento previsto en los
 
 En todo procedimiento penal, la víctima o el ofendido por algún delito tendrá derecho a:
 
-I.- Recibir asesoría jurídica y ser informado de los derechos que en su favor establece la Constitución y la Ley de Atención y Protección a Víctimas del Delito y, cuando lo solicite, ser informado del desarrollo de la averiguación previa o del proceso;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+I.- Recibir asesoría jurídica y ser informado de los derechos que en su favor establece la Constitución, la Ley de Atención y Protección a Víctimas del Delito y, en su caso, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sonora, cuando lo solicite, ser informado del desarrollo de la averiguación previa o del proceso;
 
 > <small>(REFORMADA, B.O. 20 DE OCTUBRE DE 2005)</small>
 
@@ -1283,7 +1293,11 @@ IV.- Que se le repare el daño y los perjuicios. En los casos en que sea procede
 
 V.- Cuando la víctima o el ofendido sean menores de edad, no estarán obligados a carearse con el inculpado cuando se trate de los delitos de violación o secuestro, en cuyo caso se estará a lo dispuesto por el artículo 259 de este Código;
 
-VI.- Solicitar las medidas y providencias que establece la Ley de Atención y Protección a Víctimas del Delito para el Estado de Sonora.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+VI.- Solicitar las medidas y providencias que establece la Ley de Atención y Protección a Víctimas del Delito para el Estado de Sonora, así como, en su caso, las órdenes de protección que establece la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sonora.
 
 En todo caso, el Juez, de oficio, mandará citar a la víctima u ofendido por el delito, para que comparezca por sí o por su representante designado en la averiguación previa o en el proceso, a manifestar en éste lo que a su derecho convenga respecto a lo previsto en este artículo.
 
@@ -4214,3 +4228,9 @@ B.O. 7 DE ABRIL DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 4 DE JUNIO DE 2009.
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor en un plazo de noventa días naturales, contados a partir del día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
