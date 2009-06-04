@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-22690"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-01"
-last_updated: "2008-12-31"
+last_updated: "2009-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22690&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE JUNIO DE 2009.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 1 de enero de 2002.
 
@@ -186,9 +186,9 @@ El sistema financiero, para los efectos de esta Ley, se compone por las instituc
 
 Tratándose de sociedades de objeto múltiple de nueva creación, el Servicio de Administración Tributaria mediante resolución particular en la que se considere el programa de cumplimiento que al efecto presente el contribuyente podrá establecer para los tres primeros ejercicios de dichas sociedades, un porcentaje menor al señalado en el párrafo anterior, para ser consideradas como integrantes del sistema financiero para los efectos de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2009)</small>
 
-Para los efectos de esta Ley, se considera previsión social, las erogaciones efectuadas por los patrones a favor de sus trabajadores que tengan por objeto satisfacer contingencias o necesidades presentes o futuras, así como el otorgar beneficios a favor de dichos trabajadores, tendientes a su superación física, social, económica o cultural, que les permitan el mejoramiento en su calidad de vida y en la de su familia.
+Para los efectos de esta ley, se considera previsión social las erogaciones efectuadas que tengan por objeto satisfacer contingencias o necesidades presentes o futuras, así como el otorgar beneficios a favor de los trabajadores o de los socios o miembros de las sociedades cooperativas, tendientes a su superación física, social, económica o cultural, que les permitan el mejoramiento en su calidad de vida y en la de su familia. En ningún caso se considerará previsión social a las erogaciones efectuadas a favor de personas que no tengan el carácter de trabajadores o de socios o miembros de sociedades cooperativas.
 
 > <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
@@ -941,6 +941,26 @@ XXII. Que el importe de las mercancías, materias primas, productos semiterminad
 > <small>(REFORMADO, D.O.F. 5 DE JULIO DE 2006)</small>
 
 Los contribuyentes podrán efectuar la deducción de las mercancías, materias primas, productos semiterminados o terminados a que se refiere el párrafo anterior, siempre que antes de proceder a su destrucción, se ofrezcan en donación a las instituciones autorizadas para recibir donativos deducibles conforme a esta Ley, dedicadas a la atención de requerimientos básicos de subsistencia en materia de alimentación, vestido, vivienda o salud de personas, sectores, comunidades o regiones, de escasos recursos, cumpliendo con los requisitos que para tales efectos establezca el Reglamento de esta Ley.
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2009)</small>
+
+XXIII. Tratándose de gastos que conforme a la Ley General de Sociedades Cooperativas se generen como parte del fondo de previsión social a que se refiere el artículo 58 de dicho ordenamiento y se otorguen a los socios cooperativistas, los mismos serán deducibles cuando se disponga de los recursos del fondo correspondiente, siempre que se cumpla con los siguientes requisitos:
+
+a) Que el fondo de previsión social del que deriven se constituya con la aportación anual del porcentaje, que sobre los ingresos netos, sea determinado por la Asamblea General.
+
+b) Que el fondo de previsión social esté destinado en términos del artículo 57 de la Ley General de Sociedades Cooperativas a las siguientes reservas:
+
+1. Para cubrir riesgos y enfermedades profesionales.
+
+2. Para formar fondos y haberes de retiro de socios.
+
+3. Para formar fondos para primas de antigüedad.
+
+4. Para formar fondos con fines diversos que cubran: gastos médicos y de funeral, subsidios por incapacidad, becas educacionales para los socios o sus hijos, guarderías infantiles, actividades culturales y deportivas y otras prestaciones de previsión social de naturaleza análoga.
+
+Para aplicar la deducción a que se refiere este numeral la sociedad cooperativa deberá pagar, salvo en el caso de subsidios por incapacidad, directamente a los prestadores de servicios y a favor del socio cooperativista de que se trate, las prestaciones de previsión social correspondientes, debiendo contar con la documentación comprobatoria expedida a nombre de la sociedad cooperativa.
+
+c) Acreditar que al inicio de cada ejercicio la Asamblea General fijó las prioridades para la aplicación del fondo de previsión social de conformidad con las perspectivas económicas de la sociedad cooperativa.
 
 ###### Artículo 32.
 
@@ -2962,11 +2982,13 @@ II. El contribuyente, en un plazo de quince días, informará por escrito a las 
 
 III. Si no se formula inconformidad o no se prueba el origen de la discrepancia, ésta se estimará ingreso de los señalados en el Capítulo IX de este Título en el año de que se trate y se formulará la liquidación respectiva.
 
-> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2009)</small>
 
-Para los efectos de este artículo, se consideran erogaciones, los gastos, las adquisiciones de bienes y los depósitos en cuentas bancarias o en inversiones financieras. No se tomarán en consideración los depósitos que el contribuyente efectúe en cuentas que no sean propias, que califiquen como erogaciones en los términos de este artículo, cuando se demuestre que dicho depósito se hizo como pago por la adquisición de bienes o de servicios, o como contraprestación para el otorgamiento del uso o goce temporal de bienes o para realizar inversiones financieras ni los traspasos entre cuentas del contribuyente o a cuentas de su cónyuge, de sus ascendientes o descendientes, en línea recta en primer grado.
+Para los efectos de este artículo también se consideran erogaciones los gastos, las adquisiciones de bienes y los depósitos en cuentas bancarias o en inversiones financieras. No se tomarán en consideración los depósitos que el contribuyente efectúe en cuentas que no sean propias, que califiquen como erogaciones en los términos de este artículo, cuando se demuestre que dicho depósito se hizo como pago por la adquisición de bienes o de servicios, o como contraprestación para el otorgamiento del uso o goce temporal de bienes o para realizar inversiones financieras ni los traspasos entre cuentas del contribuyente o a cuentas de su cónyuge, de sus ascendientes o descendientes, en línea recta en primer grado.
 
-Cuando el contribuyente obtenga ingresos de los previstos en este Título y no presente declaración anual estando obligado a ello, se aplicará este precepto como si la hubiera presentado sin ingresos. Tratándose de contribuyentes que no estén obligados a presentar declaración del ejercicio, se considerarán, para los efectos del presente artículo, los ingresos que los retenedores manifiesten haber pagado al contribuyente de que se trate.
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2009)</small>
+
+Cuando el contribuyente obtenga ingresos de los previstos en este título y no los declare se aplicará este precepto como si hubiera presentado la declaración sin ingresos. Tratándose de contribuyentes que tributen en el Capítulo I del Título IV de la presente Ley, se considerarán, para los efectos del presente artículo, los ingresos que los retenedores manifiesten haber pagado al contribuyente de que se trate.
 
 > <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
@@ -3008,9 +3030,15 @@ V. Las prestaciones de seguridad social que otorguen las instituciones públicas
 
 VI. Los percibidos con motivo de subsidios por incapacidad, becas educacionales para los trabajadores o sus hijos, guarderías infantiles, actividades culturales y deportivas, y otras prestaciones de previsión social, de naturaleza análoga, que se concedan de manera general, de acuerdo con las leyes o por contratos de trabajo.
 
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2009)</small>
+
+La previsión social a que se refiere esta fracción es la establecida en el artículo 8o., quinto párrafo de esta Ley.
+
 VII. La entrega de las aportaciones y sus rendimientos provenientes de la subcuenta de vivienda de la cuenta individual prevista en la Ley del Seguro Social, de la subcuenta del Fondo de la Vivienda de la cuenta individual del sistema de ahorro para el retiro, prevista en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado o del Fondo de la Vivienda para los miembros del activo del Ejército, Fuerza Aérea y Armada, previsto en la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, así como las casas habitación proporcionadas a los trabajadores, inclusive por las empresas cuando se reúnan los requisitos de deducibilidad del Título II de esta Ley o, en su caso, de este Título.
 
-VIII. Los provenientes de cajas de ahorro de trabajadores y de fondos de ahorro establecidos por las empresas cuando reúnan los requisitos de deducibilidad del Título II de esta Ley o, en su caso, de este Título.
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2009)</small>
+
+VIII. Los provenientes de cajas de ahorro de trabajadores y de fondos de ahorro establecidos por las empresas para sus trabajadores cuando reúnan los requisitos de deducibilidad del Título II de esta Ley o, en su caso, de este Título.
 
 IX. La cuota de seguridad social de los trabajadores pagada por los patrones.
 
@@ -3094,7 +3122,9 @@ XX. Los premios obtenidos con motivo de un concurso científico, artístico o li
 
 XXI. Las indemnizaciones por daños que no excedan al valor de mercado del bien de que se trate. Por el excedente se pagará el impuesto en los términos de este Título.
 
-XXII. Los percibidos en concepto de alimentos en los términos de Ley.
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2009)</small>
+
+XXII. Los percibidos en concepto de alimentos por las personas físicas que tengan el carácter de acreedores alimentarios en términos de la legislación civil aplicable.
 
 XXIII. Los retiros efectuados de la subcuenta de retiro, cesantía en edad avanzada y vejez de la cuenta individual abierta en los términos de la Ley del Seguro Social, por concepto de ayuda para gastos de matrimonio. También tendrá este tratamiento, el traspaso de los recursos de la cuenta individual entre administradoras de fondos para el retiro, entre instituciones de crédito o entre ambas, así como entre dichas administradoras e instituciones de seguros autorizadas para operar los seguros de pensiones derivados de las leyes de seguridad social, con el único fin de contratar una renta vitalicia y seguro de sobrevivencia conforme a las leyes de seguridad social y a la Ley de los Sistemas de Ahorro para el Retiro.
 
@@ -3140,13 +3170,13 @@ Las aportaciones que efectúen los patrones, en los términos de la Ley del Inst
 
 Las exenciones previstas en las fracciones XIII, XV inciso a) y XVIII de este artículo, no serán aplicables cuando los ingresos correspondientes no sean declarados en los términos del tercer párrafo del artículo 175 de esta Ley, estando obligado a ello.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2009)</small>
 
-La exención aplicable a los ingresos obtenidos por concepto de prestaciones de previsión social se limitará cuando la suma de los ingresos por la prestación de servicios personales subordinados y el monto de la exención exceda de una cantidad equivalente a siete veces el salario mínimo general del área geográfica del contribuyente, elevado al año; cuando dicha suma exceda de la cantidad citada, solamente se considerará como ingreso no sujeto al pago del impuesto un monto hasta de un salario mínimo general del área geográfica del contribuyente, elevado al año. Esta limitación en ningún caso deberá dar como resultado que la suma de los ingresos por la prestación de servicios personales subordinados y el importe de la exención, sea inferior a siete veces el salario mínimo general del área geográfica del contribuyente, elevado al año.
+La exención aplicable a los ingresos obtenidos por concepto de prestaciones de previsión social se limitará cuando la suma de los ingresos por la prestación de servicios personales subordinados o aquellos que reciban, por parte de las sociedades cooperativas, los socios o miembros de las mismas y el monto de la exención exceda de una cantidad equivalente a siete veces el salario mínimo general del área geográfica del contribuyente, elevado al año; cuando dicha suma exceda de la cantidad citada, solamente se considerará como ingreso no sujeto al pago del impuesto un monto hasta de un salario mínimo general del área geográfica del contribuyente, elevado al año. Esta limitación en ningún caso deberá dar como resultado que la suma de los ingresos por la prestación de servicios personales subordinados o aquellos que reciban, por parte de las sociedades cooperativas, los socios o miembros de las mismas y el importe de la exención, sea inferior a siete veces el salario mínimo general del área geográfica del contribuyente, elevado al año.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2009)</small>
 
-Lo dispuesto en el párrafo anterior, no será aplicable tratándose de jubilaciones, pensiones, haberes de retiro, pensiones vitalicias, indemnizaciones por riesgos de trabajo o enfermedades, que se concedan de acuerdo con las leyes, contratos colectivos de trabajo o contratos Ley, reembolsos de gastos médicos, dentales, hospitalarios y de funeral, concedidos de manera general de acuerdo con las leyes o contratos de trabajo, seguros de gastos médicos, seguros de vida y fondos de ahorro, siempre que se reúnan los requisitos establecidos en la fracción XII del artículo 31 de esta Ley, aun cuando quien otorgue dichas prestaciones de previsión social no sea contribuyente del impuesto establecido en esta Ley.
+Lo dispuesto en el párrafo anterior, no será aplicable tratándose de jubilaciones, pensiones, haberes de retiro, pensiones vitalicias, indemnizaciones por riesgos de trabajo o enfermedades, que se concedan de acuerdo con las leyes, contratos colectivos de trabajo o contratos ley, reembolsos de gastos médicos, dentales, hospitalarios y de funeral, concedidos de manera general de acuerdo con las leyes o contratos de trabajo, seguros de gastos médicos, seguros de vida y fondos de ahorro, siempre que se reúnan los requisitos establecidos en las fracciones XII y XXIII del artículo 31 de esta Ley, aun cuando quien otorgue dichas prestaciones de previsión social no sea contribuyente del impuesto establecido en esta Ley.
 
 ### CAPÍTULO I. DE LOS INGRESOS POR SALARIOS Y EN GENERAL POR LA PRESTACIÓN DE UN SERVICIO PERSONAL SUBORDINADO
 
@@ -3518,9 +3548,9 @@ VII. Que tratándose de las inversiones no se les dé efectos fiscales a su reva
 
 VIII. Que al realizar las operaciones correspondientes o a más tardar el último día del ejercicio, se reúnan los requisitos que para cada deducción en particular establece esta Ley. Tratándose únicamente de la documentación comprobatoria a que se refiere el primer párrafo de la fracción III del artículo 31 de esta Ley, ésta se obtenga a más tardar el día en que el contribuyente deba presentar su declaración. Además, la fecha de expedición de la documentación comprobatoria de un gasto deducible deberá corresponder al ejercicio por el que se efectúa la deducción.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2009)</small>
 
-Para los efectos de esta Sección, se estará a lo dispuesto en el artículo 31, fracciones III, IV, V, VI, VII, XI, XII, XIV, XV, XVIII, XIX y XX de esta Ley.
+Para los efectos de esta sección, se estará a lo dispuesto en el artículo 31, fracciones III, IV, V, VI, VII, XI, XII, XIV, XV, XVIII, XIX, XX y XXIII de esta Ley.
 
 ###### Artículo 126.
 
@@ -4182,7 +4212,9 @@ Se entiende que el ingreso lo percibe el propietario del título valor y, en el 
 
 Para los efectos de este artículo, también se consideran dividendos o utilidades distribuidos, los siguientes:
 
-I. Los intereses a que se refiere el artículo 123 de la Ley General de Sociedades Mercantiles y las participaciones en la utilidad que se paguen a favor de obligacionistas u otros, por sociedades mercantiles residentes en México o por sociedades nacionales de crédito.
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2009)</small>
+
+I. Los intereses a que se refieren los artículos 85 y 123 de la Ley General de Sociedades Mercantiles y las participaciones en la utilidad que se paguen a favor de obligacionistas u otros, por sociedades mercantiles residentes en México o por sociedades nacionales de crédito.
 
 II. Los préstamos a los socios o accionistas, a excepción de aquéllos que reúnan los siguientes requisitos:
 
@@ -7649,3 +7681,7 @@ i) Entreguen, en su caso, en efectivo el subsidio para el empleo, en los casos a
 D.O.F. 31 DE DICIEMBRE DE 2008.
 
 Único. El presente decreto entrará en vigor el 1o. de enero de 2009.
+
+D.O.F. 4 DE JUNIO DE 2009.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
