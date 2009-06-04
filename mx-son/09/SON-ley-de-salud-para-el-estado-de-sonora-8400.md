@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "2008-12-26"
+last_updated: "2009-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 4 DE JUNIO DE 2009.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -141,11 +141,17 @@ VI. Agua potable y alcantarillado,
 
 VII. Establos, granjas avícolas, acuícolas y porcícolas, apiarios y establecimientos similares;
 
-VIII. Reclusorios o Centros de Readaptación;
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
 
-IX. Establecimientos dedicados a la prestación de servicios para el cuidado personal como peluquerías, salones de belleza o estéticas, gimnasios y otros servicios similares;
+VIII. Reclusorios o Centros de Readaptación Social y Centros de Tratamiento y de Aplicación de Medidas para Adolescentes;
 
-X. Centros de reunión y espectáculos;
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+IX. Establecimientos dedicados a la prestación de servicios para el cuidado personal como peluquerías, clínicas de belleza, gimnasios, salones de belleza o estéticas, salas de masaje y otros con actividades similares;
+
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+X. Centros de reunión y espectáculos como bares, cantinas, teatros, cines, circos, ferias, palenques, centros nocturnos, y otros con actividades similares;
 
 XI. Establecimientos dedicados a la prestación de servicios para la asistencia social;
 
@@ -159,9 +165,17 @@ XV. Gasolineras;
 
 XVI. Funerarias;
 
-XVII. Programa contra la rabia; y
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
 
-XVIII. Las demás materias que determine esta Ley y demás disposiciones legales aplicables.
+XVII. Programa contra la rabia;
+
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+XVIII. Baños y albercas públicos; y
+
+> <small>(ADICIONADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+XIX. Las demás materias que determinen esta ley y demás disposiciones legales aplicables.
 
 ###### ARTICULO 5o.
 
@@ -291,7 +305,9 @@ La competencia entre el Poder Ejecutivo del Estado y los Municipios en materia d
 
 En materia de salubridad general, corresponde al Poder Ejecutivo del Estado, por conducto de la Secretaría:
 
-I. En coordinación con la Secretaría de Salud y bajo las normas técnicas de ésta, organizar, administrar, operar y evaluar los servicios de salud a que se refiere el artículo 3o. de esta ley;
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+I.- En coordinación con la Secretaría de Salud y bajo las normas técnicas de ésta, organizar y evaluar los servicios de salud a que se refiere el artículo 3° de esta ley;
 
 II. La sanidad en los límites con otras entidades federativas;
 
@@ -561,6 +577,10 @@ III. La atención de la integración y del bienestar familiar; y
 
 IV. La atención del pre-escolar y escolar en los centros educativos.
 
+> <small>(ADICIONADO, B.O. 4 DE JUNIO DE 2009)</small>
+
+ARTICULO 50 BIS.- Los hospitales, clínicas, nosocomios y demás establecimientos de los sectores público y privado que otorguen atención médica a la mujer durante el embarazo, parto y puerperio, solicitarán identificación oficial vigente con fotografía de la mujer atendida, especialmente al momento de la expedición del aviso de nacimiento correspondiente.
+
 ###### ARTICULO 51.
 
 La protección de la salud física y mental de los menores es una responsabilidad que comparten los padres, tutores o quienes ejerzan la patria potestad sobre ellos, el Estado y la sociedad general.
@@ -578,6 +598,12 @@ III. La vigilancia de actividades ocupacionales que puedan poner en peligro la s
 IV. Acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de excretas y de desechos; y
 
 V. Las demás que coadyuven a la protección de la salud materno-infantil.
+
+> <small>(ADICIONADO, B.O. 4 DE JUNIO DE 2009)</small>
+
+ARTICULO 52 BIS.- Los hospitales, clínicas, nosocomios y demás establecimientos de los sectores público y privado de la Entidad informarán a la Secretaría de los nacimientos ocurridos en sus instalaciones. La Secretaría proporcionará dicha información al Sistema para el Desarrollo Integral de la Familia en el Estado, por conducto de la Procuraduría de la Defensa del Menor y la Familia, para en su caso, brindar la seguridad y protección que el menor requiera.
+
+La Secretaría también proporcionará la información señalada en el párrafo anterior, a la Secretaría de Gobierno, por conducto de la Dirección General del Registro Civil.
 
 ###### ARTICULO 53.
 
@@ -851,13 +877,17 @@ I.- Fomentar en la población el desarrollo de actitudes y conductas que le perm
 
 II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud; y
 
-> <small>(REFORMADA, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
 
-III.- Orientar y capacitar a la población preferentemente en materia de nutrición, enfermedades cardiovasculares, obesidad, diabetes, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades.
+III.- Orientar y capacitar a la población preferentemente en materia de nutrición, enfermedades cardiovasculares, obesidad, diabetes, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades.
 
 ###### ARTICULO 88.
 
 Las autoridades sanitarias estatales en coordinación con las autoridades federales competentes, formularán, propondrán y desarrollarán programas de educación para la salud, los cuales podrán ser difundidos en los medios masivos de comunicación que actúen en el ámbito del Estado, procurando optimizar los recursos y alcanzar una cobertura total de la población.
+
+> <small>(ADICIONADO, B.O. 4 DE JUNIO DE 2009)</small>
+
+Tratándose de comunidades indígenas, los programas a los que se refiere el párrafo anterior, deberán difundirse en español y la lengua o lenguas indígenas que correspondan.
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
@@ -923,7 +953,9 @@ La Secretaría, en coordinación con las autoridades competentes, orientará a l
 
 Las autoridades estatales, en coordinación con las autoridades federales e instituciones competentes promoverán, desarrollarán y difundirán la investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes, y los estudios para adecuar los instrumentos y equipos de trabajo a las características del hombre.
 
-La Secretaría, ejercerá el control sanitario sobre los establecimientos en los que se desarrollen actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso deban reunir de conformidad con lo que establezcan los reglamentos respectivos.
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
+
+La Secretaría ejercerá el control sanitario sobre los establecimientos en los que se desarrollen actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso deban reunir, de conformidad con lo que establezcan los reglamentos, normas técnicas y demás ordenamientos aplicables.
 
 ### CAPITULO IV. ACCIDENTES
 
@@ -979,13 +1011,15 @@ Las personas que ejerzan la medicina o que realicen actividades afines, están o
 
 ###### ARTICULO 100.
 
-Están obligados a dar aviso, en los términos del artículo 98 de esta ley, los jefes o encargados de laboratorios, los directores de unidades médicas, escuelas, fábricas, talleres, asilos, los jefes de oficinas, establecimientos comerciales o de cualquier otra índole, y en general, toda persona que por circunstancias ordinarias o accidentales tenga conocimiento de alguno de los casos de enfermedades a que se refiere esta ley.
+Están obligados a dar aviso, en los términos del artículo 98 de esta ley, los jefes o encargados de laboratorios, los directores de unidades médicas, escuelas, fabricas, talleres, asilos, los jefes de oficinas, establecimientos comerciales o de cualquier otra índole, y en general, toda persona que por circunstancias ordinarias o accidentales tenga conocimiento de alguno de los casos de enfermedades a que se refiere esta ley.
 
 ###### ARTICULO 101.
 
 Las medidas que se requieran para la prevención y el control de las enfermedades que enumera el artículo 97 de esta ley, deberán ser observadas por los particulares. El ejercicio de esta acción comprenderá una o más de las siguientes medidas, según el caso de que se trate:
 
-I. La confirmación de la enfermedad por los medios disponibles;
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+I. La confirmación de la enfermedad por los medios clínicos disponibles;
 
 II. El aislamiento, por el tiempo estrictamente necesario, de los enfermos, de los sospechosos de padecer la enfermedad y de los portadores de gérmenes de la misma, así como la limitación de sus actividades, cuando así se amerite por razones epidemiológicas;
 
@@ -993,7 +1027,9 @@ III. La observación, en el grado que se requiera, de los contactos humanos y an
 
 IV. La aplicación de sueros, vacunas y otros recursos preventivos y terapéuticos;
 
-V. La descontaminación microbiana o parasitaria, desinfección y desinsectación de zonas, habitaciones, ropas, utensilios y otros objetos expuesto a la contaminación;
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+V. La descontaminación microbiana, bacteriana o parasitaria, desinfección y desinsectación de zonas, establecimientos, habitaciones, ropas, utensilios y otros objetos expuestos a la contaminación;
 
 VI. La destrucción o control de vectores y reservorios y de fuentes de infección naturales o artificiales, cuando representen peligro para la salud;
 
@@ -1079,9 +1115,17 @@ III. El desarrollo de la investigación para la prevención de los mismos;
 
 IV. El fomento, dentro de los programas de educación para la salud, de la orientación a la población para la prevención de accidentes;
 
-V. La atención de los padecimientos que se produzcan como consecuencia de ellos; y
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
 
-VI. La promoción de la participación de la comunidad en la prevención de accidentes.
+V. La atención de los padecimientos que se produzcan como consecuencia de ellos;
+
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+VI. La promoción de la participación de la comunidad en la prevención de accidentes; y
+
+> <small>(ADICIONADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+VII. El control sanitario de establecimientos en los que se desarrollen actividades ocupacionales.
 
 Para la mayor eficacia de las acciones a las que se refiere este artículo, se creará el Consejo Estatal para la Prevención de Accidentes, del que formarán parte representantes de los sectores público, social y privado del Estado. Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los Sistemas Nacional y Estatal de Salud.
 
@@ -1111,9 +1155,17 @@ VI. La realización de investigaciones sobre las causas y efectos de los problem
 
 VII. La promoción de la participación consciente y organizada de la población con carencias, en las acciones de promoción, asistencia y desarrollo social que se lleven a cabo en su propio beneficio;
 
-VIII. El apoyo a la educación y capacitación para el trabajo de personas con carencias socioeconómicas; y
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
 
-IX. La prestación de servicios funerarios.
+VIII. El apoyo a la educación y capacitación para el trabajo de personas con carencias socioeconómicas;
+
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+IX. La prestación de servicios funerarios; y
+
+> <small>(ADICIONADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+X. La rehabilitación de personas con algún tipo de adicción.
 
 ###### ARTICULO 118.
 
@@ -1179,15 +1231,19 @@ Las autoridades sanitarias tendrán entre sus objetivos operar establecimientos 
 
 El patrimonio de la beneficencia pública, se integrará por: el producto de los bienes mostrencos, vacantes y abandonados a que se refieren los artículos 948 y 954 del Código Civil para el Estado de Sonora, en la proporción que señalan dichos preceptos: las herencias vacantes a que se refiere el Capítulo VII del Título Cuarto del Libro Cuarto del Código Civil para el Estado de Sonora, en su totalidad; las aportaciones que de común acuerdo y en los términos de los convenios correspondientes, decidan otorgar para este propósito el Gobierno Federal, el Gobierno del Estado, los Gobiernos Municipales, las Instituciones Públicas Descentralizadas; los productos y rendimientos de los bienes que forman parte del patrimonio y las aportaciones, donaciones, legados y herencias, que en favor del patrimonio de la beneficencia pública realicen y establezcan los particulares; asimismo el importe de las multas.
 
-Para los efectos previstos en el párrafo anterior, los jueces que conozcan de cualquier procedimiento sucesorio emplazarán a la beneficencia pública, por conducto del titular de la Secretaría, para que comparezca a la junta de herederos, al deducir los derechos que pudieren corresponderle, acompañando copia del escrito de denuncia y de los anexos que se adjuntaron al mismo.
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
+
+Para los efectos previstos en el párrafo anterior, los jueces que conozcan de cualquier procedimiento sucesorio emplazarán a la beneficencia pública, por conducto de su representante, para que comparezca a la junta de herederos, a deducir los derechos que pudieran corresponderle, acompañando copia del escrito de denuncia y de los anexos que se adjuntaron al mismo.
 
 ###### ARTICULO 129.
 
-El patrimonio de la beneficencia pública será administrado por la Secretaría, correspondiéndole a su titular, representar los intereses de dicho patrimonio, en juicio y fuera de él, así como distribuir los recursos de la misma, en los términos del presupuesto de ingresos que legalmente se autorice.
+(DEROGADO, B.O. 4 DE JUNIO DE 2009)
+
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 130.
 
-El Ejecutivo del Estado, podrá acordar la integración de un fondo estatal de solidaridad, en el que participen los representantes de los sectores públicos, social y privado que el mismo Ejecutivo determine, con el fin de delegar la administración del patrimonio de la beneficencia pública, a dicho fondo. En todo caso, la representación del patrimonio de la beneficencia pública en juicio corresponderá a la Secretaría, por conducto de su titular o del funcionario o funcionarios que éste autorice.
+El Ejecutivo del Estado, acordará la integración de un fondo estatal de solidaridad en el que participen los representantes de los sectores público, social y privado que el mismo Ejecutivo determine, para la administración del patrimonio de la beneficencia pública, así como para la distribución de los recursos de la misma, en los términos del presupuesto que legalmente se autorice. La representación del patrimonio de la beneficencia pública corresponderá al director general de dicho fondo o al servidor público que el Ejecutivo designe, mediante disposición de carácter general.
 
 ###### ARTICULO 131.
 
@@ -1393,6 +1449,8 @@ Los establecimientos informarán al Registro Estatal de Trasplantes de las accio
 
 ARTICULO 154 BIS G.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LEY DE DONACION Y TRASPLANTES PARA ORGANISMOS HUMANOS, PUBLICADA EN EL B. O. EL 10 DE JUNIO DE 2005)
 
+> <small>(REFORMADA SU DENOMINACION, B.O. 4 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 147.
 
 El Ejecutivo del Estado realizará acciones coordinadas con la Secretaría de Salud, en la ejecución de programas y acciones contra la farmacodependencia, en los términos del Acuerdo de Coordinación específico que celebren ambos órdenes de gobierno.
@@ -1419,7 +1477,9 @@ A los establecimientos que vendan o utilicen inhalantes con efectos psicotrópic
 
 ### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
 
-### CAPITULO III. DE LAS CONSTRUCCIONES
+### CAPITULO III. DE LOS ESTABLECIMIENTOS
+
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
 
 ## TITULO DECIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS ALCOHOLICAS Y NO ALCOHOLICAS
 
@@ -1463,19 +1523,23 @@ Los propietarios o encargados de los establecimientos que expendan o suministren
 
 ###### ARTICULO 153.
 
-Corresponde a la Secretaría autorizar la ubicación y el funcionamiento de los establecimientos que expendan o suministren alimentos y bebidas no alcohólicas en el Estado.
+(DEROGADO, B.O. 4 DE JUNIO DE 2009)
+
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 154.
 
-Corresponde a la autoridad municipal, con base en lo que dispongan los Bandos de Policía y Buen Gobierno y demás disposiciones legales aplicables, fijar los horarios a que deberán sujetarse los establecimientos a que se refiere el artículo anterior.
+Corresponde a la autoridad municipal, con base en lo que dispongan los Bandos de Policía y Gobierno y demás disposiciones legales aplicables, fijar los horarios a que deberán sujetarse los establecimientos que expendan o suministren alimentos y bebidas no alcohólicas en el Estado.
 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, B.O. 7 DE JULIO DE 2003)</small>
 
-## TITULO DECIMO SEGUNDO. SALUBRIDAD LOCAL
+## TITULO DÉCIMO SEGUNDO. SALUBRIDAD LOCAL
 
-### CAPITULO IX. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
+### CAPITULO IX. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL Y CENTROS DE TRATAMIENTO Y DE APLICACION DE MEDIDAS PARA ADOLESCENTES
 
-### CAPITULO X. BAÑOS PUBLICOS
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
+
+### CAPITULO X. BAÑOS Y ALBERCAS PUBLICOS
 
 ### CAPITULO XI. CENTROS DE REUNION Y ESPECTACULOS
 
@@ -1509,21 +1573,33 @@ La Secretaría emitirá las normas técnicas a que quedará sujeto el control sa
 
 De los establecimientos, servicios y actividades del artículo 4 de esta ley, requerirán para su funcionamiento:
 
-I. Licencia sanitaria para el funcionamiento de baños públicos, establecimientos para hospedaje y establecimientos que presten servicios de asistencia social, vendedores ambulantes de alimentos preparados en puestos fijos y semifijos, rastros, cementerios o crematorios;
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
 
-II. Permiso sanitario para: construcción, reconstrucción, modificación o ampliación, adaptación y demolición: de locales comerciales, industriales, servicio y casas habitación;
+I. Licencia sanitaria para el funcionamiento de baños y albercas públicos, salas de masajes, establecimientos para hospedaje y establecimientos que presten servicios de asistencia social, vendedores ambulantes de alimentos preparados en puestos fijos y semifijos, rastros, cementerios, crematorios y funerarias;
+
+II. (DEROGADA, B.O. 4 DE JUNIO DE 2009)
 
 III. Tarjeta de control sanitario para quienes ejercen la prostitución; y
 
 IV. Reunir los demás requisitos y autorizaciones que establezcan otras disposiciones legales aplicables.
 
+> <small>(ADICIONADO, B.O. 4 DE JUNIO DE 2009)</small>
+
+Para los efectos de esta ley se entenderá por salas de masajes, aquellos establecimientos en los cuales se realicen actividades con fines terapéuticos sin que se lleven a cabo, directa o indirectamente, actos que evidencien o lleven a presumir actividades de prostitución o actividades ilícitas.
+
 ###### ARTICULO 159.
 
 Todo cambio de propietario, de razón o denominación social de un establecimiento autorizado por la autoridad sanitaria competente, deberá ser comunicado a ésta en un plazo no mayor de treinta días, a partir de la fecha en que se hubiese realizado, sujetándose el trámite correspondiente a las disposiciones reglamentarias aplicables.
 
+> <small>(ADICIONADO, B.O. 4 DE JUNIO DE 2009)</small>
+
+La cesión de derechos, el cambio de productos, de la fabricación de nuevas líneas de productos o, en su caso, la suspensión de actividades, deberán ser comunicados a la autoridad sanitaria en un plazo no mayor de treinta días a partir de la fecha en que se hubiesen realizado.
+
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 160.
 
-Al iniciar actividades, todo cambio de propietario de un establecimiento, de razón social o denominación, cesión de derechos, de productos, o la fabricación de nuevas líneas de productos o servicios deberá ser comunicado a la autoridad sanitaria competente en un plazo no mayor de treinta días hábiles a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de las normas técnicas que al efecto se expidan.
+Los propietarios, poseedores y encargados o responsables de establecimientos, servicios y actividades a que se refiere el artículo 4º de esta ley, y que no requieran de licencia sanitaria para su funcionamiento, deberán dar aviso a la autoridad sanitaria competente en un plazo no mayor de diez días a partir de la fecha en que inicien actividades, sujetándose al cumplimiento de las normas técnicas que al efecto se expidan.
 
 > <small>(ADICIONADO, B.O. 9 DE JUNIO DE 2008)</small>
 
@@ -1557,15 +1633,19 @@ La Secretaría verificará que los mercados y centros de abastos provisionales o
 
 Los vendedores, locatarios y personas cuya actividad esté vinculada con los mercados y centros de abasto estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales, y el ejercicio de sus actividades se sujetará a lo que dispongan esta ley, los reglamentos respectivos, otras disposiciones legales aplicables, y las normas técnicas correspondientes.
 
-### CAPITULO XIV. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS PARA EL CUIDADO PERSONAL COMO PELUQUERIAS, ESTETICAS SALONES DE BELLEZA, GIMNASIOS Y SIMILARES
+> <small>(REFORMADA SU DENOMINACION, B.O. 4 DE JUNIO DE 2009)</small>
+
+### CAPITULO XIV. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS PARA EL CUIDADO PERSONAL
 
 ###### ARTICULO 165.
 
-En los aspectos sanitarios, las construcciones, reconstrucciones, modificaciones y adaptaciones deberán cumplir con las disposiciones de esta ley, las demás disposiciones legales aplicables y las normas técnicas correspondientes.
+En los aspectos sanitarios, los establecimientos deberán cumplir con las disposiciones de esta ley, las demás disposiciones legales aplicables y las normas técnicas correspondientes.
+
+Se consideran establecimientos los locales y sus instalaciones, sus dependencias y anexos, cubiertos o descubiertos, sean fijos o semifijos, en los que se desarrollen las actividades y servicios sujetos al ejercicio del control sanitario.
 
 ###### ARTICULO 166.
 
-Cuando se trate de iniciar y realizar la construcción, reconstrucción, modificación o acondicionamiento total o parcial de una edificación o local se requerirá independientemente de los permisos que exijan otras disposiciones legales, de la autorización sanitaria del proyecto en cuanto a iluminación, ventilación, instalaciones sanitarias y contra accidentes conforme a esta ley y demás ordenamientos aplicables.
+(DEROGADO, B.O. 4 DE JUNIO DE 2009)
 
 ###### ARTICULO 167.
 
@@ -1573,23 +1653,27 @@ Cuando el uso que se pretenda dar a una edificación o local sea para la atenci�
 
 ###### ARTICULO 168.
 
-El responsable de la construcción, reconstrucción, modificación o acondicionamiento de cualquiera de los establecimientos a que se refiere este Título deberá dar aviso de inicio y terminación de obra a la autoridad sanitaria, quien vigilará el cumplimiento de los requisitos aprobados en el proyecto a que se refiere esta ley, demás disposiciones sanitarias aplicables y las normas técnicas correspondientes.
+(DEROGADO, B.O. 4 DE JUNIO DE 2009)
+
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 169.
 
-Los edificios y locales terminados, podrán dedicarse al uso que se destine, una vez verificados y declarada la conformidad por parte de la autoridad sanitaria.
+Los establecimientos podrán dedicarse a las actividades y servicios a los que estén destinados una vez que hayan reunido los requisitos que para su funcionamiento contemplen los reglamentos, normas técnicas y demás disposiciones legales aplicables.
 
 ###### ARTICULO 170.
 
-Los edificios, locales, construcciones o terrenos urbanos, podrán ser verificados por las autoridades sanitarias, quienes ordenarán las obras necesarias para satisfacer las condiciones higiénicas y de seguridad en los términos de esta ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
+(DEROGADO, B.O. 4 DE JUNIO DE 2009)
+
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 171.
 
-Los propietarios o poseedores de los edificios o locales, o de los negocios en ellos establecidos, están obligados a ejecutar las obras que se requieran para cumplir con las condiciones de higiene y seguridad que establezcan las disposiciones legales aplicables y normas técnicas correspondientes.
+Los propietarios o poseedores de los establecimientos están obligados a ejecutar las obras que la autoridad sanitaria considere necesarias para cumplir con las condiciones de higiene y seguridad que establezcan las disposiciones legales aplicables y normas técnicas correspondientes.
 
 ###### ARTICULO 172.
 
-Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias, en los términos de su competencia, podrán ejecutar las obras que estimen de urgencia, con cargo a sus propietarios o poseedores o a los dueños de las negociaciones en ellos establecidos, cuando no la realicen dentro de los plazos concedidos.
+(DEROGADO, B.O. 4 DE JUNIO DE 2009)
 
 ### CAPITULO XV. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
 
@@ -1599,15 +1683,21 @@ Para los efectos de esta ley, se considera:
 
 I. Cementerio: El lugar destinado a la inhumación de los cadáveres y restos humanos;
 
-II. Crematorio: Las instalaciones destinadas a la incineración de cadáveres o restos humanos; y
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
 
-III. Funerarias: El establecimiento dedicado a la prestación de servicios de venta de féretros, velación y traslado de cadáveres de seres humanos a los cementerios o crematorios.
+II.- Crematorio: las instalaciones destinadas a la incineración de cadáveres, partes o restos humanos; y
+
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+III.- Funerarias: el establecimiento dedicado a la prestación de servicios de venta de féretros, velación, embalsamamiento y traslado de cadáveres de seres humanos a los cementerios o crematorios.
 
 ###### ARTICULO 174.
 
 Para establecer un cementerio, crematorio o funeraria se necesita licencia expedida por la Secretaría, tratándose de cementerios o crematorios, la autoridad sanitaria antes de conceder la licencia deberá consultar la opinión de la autoridad municipal.
 
-Los cementerios, crematorios y funerarias estarán sujetos a las condiciones que fije el Reglamento respectivo y la verificación de la Secretaría.
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
+
+Los cementerios, crematorios y funerarias estarán sujetos a las condiciones que fije el reglamento respectivo, la norma técnica sanitaria y a la verificación de la Secretaría.
 
 ###### ARTICULO 175.
 
@@ -1697,9 +1787,11 @@ El sacrificio de los animales sujetos al aprovechamiento humano, en cualquiera d
 
 En el reglamento correspondiente, se establecerán los requisitos sanitarios, relativos al manejo, tratamiento, cuidado y conservación de los animales destinados al sacrificio.
 
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 191.
 
-La norma técnica correspondiente, establecerá los requisitos sanitarios y medidas de funcionamiento que deberán cumplir los vehículos utilizados en el transporte de las carnes y productos derivados del sacrifico de animales destinados al consumo humano.
+La norma técnica correspondiente, establecerá los requisitos sanitarios que deberán cumplir los rastros y vehículos utilizados en el transporte de las carnes y productos derivados del sacrificio de animales destinados al consumo humano.
 
 ###### ARTICULO 192.
 
@@ -1761,9 +1853,11 @@ III. Granjas porcícolas: Los establecimientos dedicados a la cría, reproducci�
 
 IV. Apiarios: El conjunto de colmenas destinadas a la cría, explotación y mejoramiento genético de las abejas.
 
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 203.
 
-Los establos, granjas avícolas y porcícolas, apiarios y otros establecimientos similares, no podrán estar ubicados en los centros de población o en lugares contiguos a ellos en un radio que delimitará la Secretaría de Salud Pública, conforme a las disposiciones legales en vigor. En todo caso, los establos y las granjas avícolas y porcícolas deberán contar con sistema de tratamiento para sus deshechos de tal manera que evite la contaminación.
+Los establos, granjas avícolas y porcícolas, apiarios y otros establecimientos similares, no podrán estar ubicados en los centros de población o en lugares contiguos a ellos en un radio que delimitará la Secretaría de Salud Pública, conforme a las disposiciones legales en vigor. En todo caso, los establos y las granjas avícolas y porcícolas deberán contar con sistema de tratamiento para sus desechos y disposición final de cadáveres, de tal manera que eviten la contaminación.
 
 ###### ARTICULO 204.
 
@@ -1777,29 +1871,45 @@ Para el establecimiento de nuevos establos, granjas avícolas, porcícolas o api
 
 Las condiciones sanitarias que deban reunir los establecimiento (sic) a que se refiere este Capítulo, estarán fijadas por esta ley, la Ley de Ganadería para el Estado de Sonora, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
+> <small>(REFORMADA SU DENOMINACION, B.O. 4 DE JUNIO DE 2009)</small>
+
 ### CAPITULO UNICO
 
 ###### ARTICULO 207.
 
-Para los efectos de esta ley se entiende por Reclusorio, o Centro de Readaptación Social, los establecimientos destinados a la internación de quienes se encuentran restringidos de su libertad corporal por una resolución judicial o administrativa.
+Para los efectos de esta Ley se entiende por reclusorio o centro de readaptación social y Centros de Tratamiento y de Aplicación de Medidas para Adolescentes los establecimientos destinados a la internación de quienes se encuentran restringidos de su libertad corporal por una resolución judicial o administrativa, o, en su caso, por la aplicación de medidas de internamiento.
+
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 208.
 
-Los Reclusorios o Centros de Readaptación Social deberán contar con los servicios médicos e instalaciones sanitarias, incluyendo baños de regadera, que señalen los reglamentos y normas técnicas correspondientes.
+Los establecimientos a que se refiere el artículo anterior, deberán contar con los servicios médicos e instalaciones sanitarias, incluyendo baños de regadera, que señalen los reglamentos y normas técnicas correspondientes.
 
 ###### ARTICULO 209.
 
 Tratándose de enfermedades de emergencia, graves o cuando así lo requiera el tratamiento, a juicio de los servicios médicos de la institución, el interno podrá ser trasladado al centro hospitalario que determinen los propios servicios; en cuyo caso se deberá hacer del conocimiento de la autoridad competente.
 
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 210.
 
-Los responsables de los Reclusorios y Centros de Readaptación Social, con el apoyo de los servicios médicos de la institución y en coordinación con la autoridad sanitaria, adoptará las medidas necesarias para la detección, tratamiento, control y notificación de las enfermedades transmisibles, conforme a los reglamentos y normas técnicas aplicables.
+Los responsables de los reclusorios, centros de readaptación social y Centros de Tratamiento y de Aplicación de Medidas para Adolescentes, con el apoyo de los servicios médicos de la institución y en coordinación con la autoridad sanitaria, adoptarán las medidas necesarias para la detección, tratamiento, control y notificación de las enfermedades transmisibles, conforme a los reglamentos y normas técnicas aplicables.
+
+> <small>(REFORMADA SU DENOMINACION, B.O. 4 DE JUNIO DE 2009)</small>
 
 ### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTICULO 211.
 
 Para los efectos de esta ley, se entiende por baño público, el establecimiento destinado a utilizar el agua para el aseo corporal, deporte y otros propósitos bajo la forma de baño, y al que pueda concurrir el público. Quedan incluidos en la denominación de baños, los llamados de vapor y de aire caliente.
+
+> <small>(ADICIONADO, B.O. 4 DE JUNIO DE 2009)</small>
+
+Se entiende por alberca pública, el estanque de agua artificialmente construido que facilite el nado, la recreación o el relajamiento y al que pueda concurrir el público.
+
+> <small>(ADICIONADO, B.O. 4 DE JUNIO DE 2009)</small>
+
+En todo caso, las albercas públicas deberán cumplir con los requisitos previstos en la normatividad aplicable.
 
 ###### ARTICULO 212.
 
@@ -1817,9 +1927,11 @@ Para efectos de esta ley, se entiende por centros de reunión todas aquellas edi
 
 En aquellos municipios del Estado en donde se celebren fiestas regionales o eventos públicos, deberán instalarse invariablemente servicios sanitarios por los permisionarios, con sujeción a lo señalado por el artículo 216 de esta ley.
 
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 215.
 
-La autoridad sanitaria competente, una vez terminada la edificación del centro de reunión y antes de abrirse al público, hará la inspección sanitaria y declaración correspondiente. Asimismo, podrá en cualquier momento ordenar la clausura de los centros públicos de reunión que no reúnan las condiciones de seguridad e higiene suficiente para garantizar la vida y la salud de las personas que a ellos concurran, en los términos de esta ley. Dicha clausura prevalecerá entre tanto no sean corregidas las causas que la motivaron.
+La autoridad sanitaria competente, una vez terminada la edificación del centro de reunión y antes de abrirse al público, hará la verificación sanitaria y declaración correspondiente. Asimismo, podrá en cualquier momento ordenar la suspensión de los centros de reunión que no reúnan las condiciones de higiene suficientes para garantizar la vida y la salud de las personas que a ellos concurran, en los términos de esta ley. Dicha suspensión prevalecerá entre tanto no sean corregidas las causas que la motivaron.
 
 ###### ARTICULO 216.
 
@@ -1853,41 +1965,43 @@ Para los efectos de esta ley, se entiende por gasolinera el establecimiento dest
 
 Las gasolineras deberán contar con las instalaciones sanitarias y de seguridad que establezcan las disposiciones legales y reglamentarias aplicables y las normas técnicas correspondientes.
 
+> <small>(REFORMADA SU DENOMINACION, B.O. 4 DE JUNIO DE 2009)</small>
+
 ### CAPITULO V. PRESCRIPCION
 
 ###### ARTICULO 223.
 
 Para los efectos de esta ley, se entiende por servicios para el cuidado personal, a los servicios destinados a la modificación de la apariencia personal con fines estéticos, a través del arreglo o acicalamiento del cabello, las uñas y la piel o del ejercicio físico.
 
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 224.
 
-En los términos del artículo anterior son establecimientos de servicio para el cuidado personal las peluquerías, estéticas, salas de belleza, gimnasios, salones de ejercicio (sic) aeróbicos y otros con actividades similares.
+En los términos del artículo anterior son establecimientos de servicios para el cuidado personal las peluquerías, clínicas de belleza, gimnasios, salones de belleza o estéticas, salas de masaje y otros con actividades similares.
+
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 225.
 
-En los establecimientos a que se refiere este Capítulo queda prohibido el empleo de técnicas o procedimientos físicos o químicos, que impliquen la perdida de la solución de continuidad de la piel tales como tatuajes, dermoabrasiones y cualquier otra forma de ruptura de la piel.
+En los establecimientos a que se refiere este Capítulo queda prohibida la realización de actividades distintas a las del cuidado personal, así como el empleo de técnicas o procedimientos físicos o químicos, que impliquen la pérdida de la solución de continuidad de la piel, tales como tatuajes, dermoabrasiones y cualesquier otra forma de ruptura de la piel.
 
 ###### ARTICULO 226.
 
 Los instrumentos, aparatos, ropa y accesorios de uso público que se utilicen en los establecimientos de servicios para el cuidado personal, tales como tijeras, peines, pinzas cosméticas, sillones, mandiles y otros similares deberán mantenerse limpios y, en su caso, esterilizados, conforme a las normas técnicas que al efecto se expidan. En todo caso, las navajas de rasurar para uso público deberán ser desechables, y sólo podrán utilizarse para una ocasión.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 4 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 227.
 
-para los efectos de esta ley, se entiende por:
-
-I. Tintorería, el establecimiento dedicado al lavado y planchado de ropa, independientemente del procedimiento utilizado;
-
-II. Lavandería, el establecimiento industrial dedicado al lavado de ropa; y
-
-III. Lavadero público, el establecimiento al cual acuden los interesados para realizar personalmente el lavado de la ropa.
+(DEROGADO, B.O. 4 DE JUNIO DE 2009)
 
 ###### ARTICULO 228.
 
-Corresponde a la autoridad sanitaria competente ejercer la verificación de los establecimientos a que se refiere este capítulo, conforme a las disposiciones legales aplicables.
+(DEROGADO, B.O. 4 DE JUNIO DE 2009)
 
 ###### ARTICULO 229.
 
-El funcionamiento y personal de los establecimientos señalados en este Capítulo, deberán apegarse a lo establecido en esta ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
+(DEROGADO, B.O. 4 DE JUNIO DE 2009)
 
 ###### ARTICULO 230.
 
@@ -1943,13 +2057,25 @@ II. Los establecimientos que presten servicio de asistencia social;
 
 III. Los rastros;
 
-IV. Los baños públicos;
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
 
-V. Las funerarias, cementerios, crematorios; y
+IV. Los baños y albercas públicos;
 
-VI. Los demás casos que se señalen en esta ley y otras disposiciones legales aplicables.
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
 
-Cuando los establecimientos a que se refiere este artículo cambien de ubicación, requerirán nueva licencia sanitaria.
+V. Salas de masaje;
+
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+VI. Las funerarias, cementerios y crematorios; y
+
+> <small>(ADICIONADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+VII. Los demás casos que se señalen en esta ley y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
+
+Cuando los establecimientos a que se refiere este artículo cambien de ubicación, se observará lo dispuesto en el párrafo segundo del artículo 159 de esta ley.
 
 ###### ARTICULO 240.
 
@@ -2261,7 +2387,7 @@ El aseguramiento de objetos, productos o sustancias, tendrá lugar cuando se pre
 
 Si el dictamen indicara que el bien asegurado no es nocivo pero carece de los requisitos esenciales establecidos en esta ley y demás disposiciones legales aplicables, la autoridad sanitaria concederá al interesado un plazo hasta de treinta días para que trámite el cumplimiento de los requisitos omitidos. Si dentro de este plazo el interesado no realizara el trámite indicado o no gestionara la recuperación acreditando el cumplimiento de lo ordenado por la autoridad sanitaria, se entenderá que la materia del aseguramiento causa abandono y quedará a disposición de la autoridad sanitaria para su aprovechamiento.
 
-Si del dictamen resultara que el bien asegurado es nocivo, la autoridad sanitaria, dentro del plazo establecido en el párrafo anterior y previa la observancia de la garantía de audiencia, podrá determinar que el interesado, bajo la vigilancia de dicha autoridad, someta al bien asegurado a un tratamiento que haga posible su legal aprovechamiento, de ser posible, en cuyo caso y previo el dictamen de la autoridad sanitaria el interesado podrá disponer de los bienes que haya sometido a tratamiento para destinarlos a los fines a que la propia autoridad le señale.
+Si del dictamen resultara que el bien asegurado es nocivo, la autoridad sanitaria, dentro del plazo establecido en el párrafo anterior y previa la observancia de la garantía de la audiencia, podrá determinar que el interesado, bajo la vigilancia de dicha autoridad, someta al bien asegurado a un tratamiento que haga posible su legal aprovechamiento, de ser posible, en cuyo caso y previo el dictamen de la autoridad sanitaria el interesado podrá disponer de los bienes que haya sometido a tratamiento para destinarlos a los fines a que la propia autoridad le señale.
 
 Los productos perecederos asegurados que se descompongan en poder de la autoridad sanitaria, así como los objetos, productos o sustancias que se encuentren en evidente estado de descomposición, adulteración o contaminación que no los hagan aptos para el consumo, serán destruídos de inmediato por la autoridad sanitaria, la que levantará un acta circunstanciada de la destrucción.
 
@@ -2700,3 +2826,9 @@ B.O. 26 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 4 DE JUNIO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
