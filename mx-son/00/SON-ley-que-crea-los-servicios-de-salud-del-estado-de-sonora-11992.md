@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-los-servicios-de-salud-del-estado-de-sonora-11992"
 country: "mx"
 rank: "ley"
 publication_date: "1997-03-10"
-last_updated: "2006-07-06"
+last_updated: "2009-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11992&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE CREA LOS SERVICIOS DE SALUD DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE JULIO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE JUNIO DE 2009.
 
 Ley publicada en la Sección II del Número 20 del Boletín Oficial del Estado de Sonora, el lunes 10 de marzo de 1997.
 
@@ -87,15 +87,15 @@ III.- Expedir y, en su caso, revocar las autorizaciones que le corresponda en la
 
 IV.- Las demás que le señalen otras disposiciones legales.
 
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 4o.
 
 El Organismo tendrá los siguientes órganos de gobierno:
 
-I.- La Junta de Gobierno;
+I. La Junta de Gobierno; y
 
-II.- El Presidente Ejecutivo; y
-
-III.- El Comisario Público.
+II. El Presidente Ejecutivo.
 
 ###### ARTICULO 5o.
 
@@ -115,7 +115,9 @@ I.- Por un Presidente, que será el Gobernador del Estado;
 
 II.- Por un Presidente Ejecutivo, que será el Secretario de Salud Pública;
 
-III.- Por los siguientes vocales representantes del Gobierno del Estado: los Secretarios de Planeación del Desarrollo y Gasto Público y el de Finanzas;
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+III. Por un vocal representante del Gobierno del Estado, que será el Secretario de Hacienda.
 
 IV.- Por un representante de la Secretaría de Salud del Gobierno Federal; y
 
@@ -209,9 +211,11 @@ VIII.- En general, todos los bienes, derechos y obligaciones que entrañen utili
 
 El Organismo contará con las unidades administrativas desconcentradas que sean necesarias y se justifiquen, mismas que deberán de figurar en el presupuesto y en el Reglamento del Organismo.
 
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 12.
 
-El Organismo contará con un órgano de vigilancia, el cual estará integrado por un Comisario Público Propietario y un Suplente, designados por la Secretaria de la Contraloría General del Estado.
+Las actividades de control, vigilancia y evaluación del Organismo estarán a cargo del Órgano de Control y Desarrollo Administrativo y los comisarios públicos oficial y ciudadano de la Secretaria de la Contraloría General, quienes desempeñarán sus funciones en los términos de la Ley Orgánica del Poder Ejecutivo del Estado.
 
 ### CAPITULO II. DISPOSICIONES FINALES
 
@@ -304,3 +308,11 @@ Los ingresos que obtenga el Estado derivados del cobro de las contribuciones por
 ###### ARTÍCULO SÉPTIMO.
 
 Se derogan las disposiciones legales que contravengan lo dispuesto en el presente Decreto.
+
+B.O. 4 DE JUNIO DE 2009.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 178 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 4o, 6o, FRACCIÓN III Y 12, DE LA LEY QUE CREA LOS SERVICIOS DE SALUD DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
