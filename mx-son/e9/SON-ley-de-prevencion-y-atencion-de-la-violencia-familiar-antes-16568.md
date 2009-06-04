@@ -4,7 +4,7 @@ identifier: "SON-ley-de-prevencion-y-atencion-de-la-violencia-familiar-antes-165
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-31"
-last_updated: "2006-07-06"
+last_updated: "2009-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16568&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY DE PREVENCION Y ATENCION DE LA VIOLENCIA FAMILIAR -ANTES LEY DE PREVENCION Y ATENCION DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA-
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 16 DE MAYO DE 2011, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE PREVENCION Y ATENCION DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 6 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 4 DE JUNIO DE 2009.
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1999.
 
@@ -57,11 +59,13 @@ El Estado atenderá, de manera prioritaria, en coordinación con las autoridades
 
 Las autoridades responsables de la aplicación de esta Ley, independientemente de las sanciones civiles, penales o administrativas impuestas por autoridad competente, promoverán y vigilarán la observancia de los derechos de los receptores de violencia intrafamiliar, procurando una correcta aplicación de los medios legales y materiales para prevenir cualquier violación a los mismos y, en su caso, restituirlos en el goce y ejercicio de sus derechos individuales o comunes.
 
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 4º.
 
-Esta Ley reconoce como derechos del receptor de violencia intrafamiliar, la prevención y atención que conforme al presente ordenamiento deban recibir, sin menoscabo de los derechos establecidos por la Constitución General de la República, la Constitución Política del Estado, la Legislación Civil y Penal vigente en la Entidad, la Ley de Asistencia Social para el Estado de Sonora, la Ley de Atención y Protección a Víctimas del Delito; y demás ordenamientos que tengan por objeto proteger los derechos de la mujer, del menor, de las personas de la tercera edad y discapacitados, así como la organización, desarrollo y armonía del orden familiar.
+Esta Ley reconoce como derechos del receptor de violencia intrafamiliar, la prevención y atención que conforme al presente ordenamiento deban recibir, sin menoscabo de los derechos establecidos por la Constitución General de la República, la Constitución Política del Estado, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Ley de Acceso a la (sic) Mujeres a una Vida Libre de Violencia para el Estado de Sonora, la Legislación Civil y Penal vigente en la Entidad, la Ley de Asistencia Social para el Estado de Sonora, la Ley de Atención y Protección a Victimas del delito; y demás ordenamientos que tengan por objeto proteger los derechos de la mujer, del menor, de las personas de la tercera edad y discapacitados, así como la organización, desarrollo y armonía del orden familiar.
 
 ###### ARTÍCULO 4°.
 
@@ -289,11 +293,17 @@ II.- Proporcionar, mediante línea telefónica de emergencia, servicios de atenc
 
 En los supuestos a que se refiere la Fracción II del artículo anterior, según la urgencia del caso, se comisionará a personal del área de servicio social o psicológico, pudiendo auxiliarse por razones de seguridad con elementos oficiales de la Institución y trasladarse al lugar de los hechos a efecto de recabar la información necesaria, solicitando en caso necesario, la intervención directa del Ministerio Público, quien además de actuar conforme a su competencia determinará provisionalmente las medidas de protección a la víctima y familiares que resulten adecuadas de acuerdo a las circunstancias y disposiciones previstas por esta Ley.
 
-Recabada la información suficiente y en caso de no existir urgencia, el Agente del Ministerio Público Especializado citará a los involucrados, previa determinación de las medidas preventivas adecuadas al caso, procurando la conciliación de las partes y la celebración del convenio que voluntariamente determinen éstas, y en su caso, tramitará la orden de protección o medida cautelar que a su juicio estime procedente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
 
-En caso de conciliación, mediante la celebración del convenio, éste sólo surtirá efectos legales si tanto el generador como el receptor de la violencia se someten a valoración psicológica y/o psiquiátrica, a efecto de determinar el daño emocional causado, la viabilidad de ayuda terapéutica, así como el grado de riesgo para los receptores de violencia, brindándoles las recomendaciones que al respecto sugieran los especialistas.
+Recabada la información suficiente y en caso de no existir urgencia, el Agente del Ministerio Público Especializado citará a los involucrados, previa determinación de las medidas preventivas adecuadas al caso, procurando la mediación de las partes y la celebración del convenio que voluntariamente determinen éstas, y en su caso, tramitará la orden de protección o medida cautelar que a su juicio estime procedente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
+
+En caso de mediación, mediante la celebración del convenio, éste sólo surtirá efectos legales si tanto el generador como el receptor de la violencia se someten a valoración psicológica y/o psiquiátrica, a efecto de determinar el daño emocional causado, la viabilidad de ayuda terapéutica, así como el grado de riesgo para los receptores de violencia, brindándoles las recomendaciones que al respecto sugieran los especialistas.
 
 ###### ARTÍCULO 17.
 
@@ -301,13 +311,21 @@ El DIF Estatal, además de las funciones que en materia de asistencia social tie
 
 I.- Promover programas y acciones de protección social a receptores de la violencia intrafamiliar;
 
-II.- Prestar servicios de atención y asesoría jurídica, psicológica y social a receptores y generadores de la violencia intrafamiliar;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+II.- Prestar servicios de atención y asesoría jurídica, psicológica y social gratuitos a receptores y generadores de la violencia intrafamilíar;
 
 III.- Canalizar a las instituciones competentes los casos de violencia intrafamiliar detectados en la ejecución de sus programas de asistencia social;
 
 IV.- Implementar programas para detectar casos de violencia intrafamiliar en instituciones de asistencia social y para capacitar personal de instancias públicas o privadas que atiendan este tipo de problemática;
 
-V.- Promover la creación y funcionamiento de centros de protección y asistencia a receptores de violencia intrafamiliar;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+V.- Promover la creación y funcionamiento de centros y refugios para la atención y asistencia de receptores de violencia intrafamiliar;
 
 VI.- Promover la convivencia armónica familiar en los hogares donde exista violencia intrafamiliar, incorporando a sus integrantes en la operación de los programas que se elaboren para ese fin;
 
@@ -315,9 +333,23 @@ VII.- Efectuar un censo anual de familias con riesgo de violencia intrafamiliar;
 
 VIII.- Elaborar y difundir material de información a las familias para la prevención de la violencia intrafamiliar;
 
-IX.- Incluir en su programa de formación policiaca, cursos de capacitación sobre violencia intrafamiliar; y,
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-X.- Fomentar, en coordinación con instituciones públicas o privadas, la realización de investigaciones sobre la violencia intrafamiliar con el propósito de diseñar nuevos modelos para su prevención y atención.
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+IX.- Incluir en su programa de formación policiaca, cursos de capacitación sobre violencia intrafamiliar;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+X.- Fomentar, en coordinación con instituciones públicas o privadas, la realización de investigaciones sobre la violencia intrafamiliar con el propósito de diseñar nuevos modelos para su prevención y atención; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+XI.- Las demás que establezcan la presente ley y los demás ordenamientos jurídicos en la materia.
 
 ###### ARTÍCULO 18.
 
@@ -329,9 +361,17 @@ II.- Gestionar ante las autoridades competentes las medidas de protección urgen
 
 III.- Canalizar a los receptores y generadores de violencia intrafamiliar a las instituciones competentes para su atención y tratamiento correspondiente;
 
-IV.- Llevar los procedimientos de conciliación o, en su caso, arbitraje, a que se refiere la presente Ley; y,
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V.- Solicitar de cualquier autoridad los informes, datos estadísticos y el auxilio, que requiera para el cumplimiento de sus funciones.
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+IV.- Llevar los procedimientos de mediación o, en su caso, arbitraje, a que se refiere la presente Ley; y,
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+V.- Solicitar y proporcionar a cualquier autoridad que lo requiera, los informes, datos estadísticos y el auxilio necesarios para el cumplimiento de sus funciones.
 
 > <small>(ADICIONADO, B.O. 6 DE JULIO DE 2006)</small>
 
@@ -347,9 +387,17 @@ IV.- Canalizar a los receptores y generadores de violencia intrafamiliar a las i
 
 V.- Celebrar convenios de coordinación con las autoridades nacionales y estatales para el efecto de hacer más eficiente el ejercicio de sus funciones;
 
-VI.- Solicitar de cualquier autoridad los informes, datos estadísticos y el auxilio que requiera para el cumplimiento de sus funciones; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VII.- Las demás que señale la presente Ley y su reglamento.
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+VI.- Solicitar y proporcionar a cualquier autoridad que lo requiera, los informes, datos estadísticos y el auxilio necesarios para el cumplimiento de sus funciones; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+VII.- Las demás que establezcan la presente ley y los demás ordenamientos jurídicos en la materia.
 
 ###### ARTÍCULO 19.
 
@@ -387,9 +435,13 @@ Cuando un Agente de la Policía Preventiva en cumplimiento de sus funciones teng
 
 La Procuraduría General de Justicia del Estado, a través de la Policía Judicial del Estado, y las Corporaciones de Policía y Tránsito Municipal, en los casos de reportes sobre actos o hechos de violencia intrafamiliar, proveerán las acciones y medidas preventivas necesarias para garantizar a los receptores y sus familiares la más completa protección a su integridad y seguridad personales, así como turnar a los generadores de violencia a las autoridades competentes.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 23.
 
-Los Ayuntamientos del Estado, por conducto del DIF Municipal, atenderán gratuitamente a las víctimas de violencia intrafamiliar y les brindarán el apoyo en el tratamiento médico, psicológico y social, así como la asistencia jurídica requerida en los términos establecidos por la presente Ley, teniendo a su cargo instruir los procedimientos de conciliación y arbitraje establecidos por el artículo 35 y demás relativos de la presente Ley.
+Los Ayuntamientos del Estado, por conducto del DIF Municipal, atenderán gratuitamente a las víctimas de violencia intrafamiliar y les brindarán el apoyo en el tratamiento médico, psicológico y social, así como la asistencia jurídica requerida en los términos establecidos por la presente Ley, teniendo a su cargo instruir los procedimientos de mediación y arbitraje establecidos en la presente Ley.
 
 ## TÍTULO TERCERO. DEL CONSEJO ESTATAL PARA LA PREVENCIÓN Y TRATAMIENTO DE LA VIOLENCIA INTRAFAMILIAR
 
@@ -527,13 +579,21 @@ Cuando la persona esté en condiciones de proporcionar información voluntaria s
 
 ## TÍTULO QUINTO. DE LOS MEDIOS LEGALES PARA EL CUMPLIMIENTO DE LA LEY
 
-### CAPÍTULO PRIMERO. DE LOS PROCEDIMIENTOS DE CONCILIACIÓN Y ARBITRAJE
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, B.O. 4 DE JUNIO DE 2009)</small>
+
+### CAPÍTULO I. DE LOS PROCEDIMIENTOS DE MEDIACIÓN Y ARBITRAJE
 
 ###### ARTÍCULO 35.
 
 Las partes involucradas en el conflicto intrafamiliar, podrán resolver sus diferencias mediante los procedimientos de:
 
-I.- Conciliación; y,
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+I.- Mediación; y
 
 II.- Arbitraje.
 
@@ -543,13 +603,21 @@ Estos procedimientos serán atendidos por la Procuraduría de la Defensa del Men
 
 Quedan exceptuadas aquellas controversias que versen sobre acciones o derechos derivados del estado civil de las personas o delitos que se persigan de oficio.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 36.
 
-Cada procedimiento de solución de los conflictos intrafamiliares a que se refiere el artículo anterior, se llevará a cabo en una sola audiencia, misma que podrá suspenderse por una vez a efecto de que se reúnan los elementos de convicción necesarios que sustenten las posturas de las partes en conflicto.
+Cada procedimiento de solución de los conflictos intrafamiliares a que se refiere el artículo anterior, se llevará a cabo en las audiencias que se consideren necesarias, a efecto de que se reúnan los elementos de convicción necesarios que sustenten las posturas de las partes en conflicto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 4 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 37.
 
-Los procedimientos de conciliación y arbitraje a los que se refiere el presente capítulo serán gratuitos, primordialmente orales y se iniciarán mediante queja que podrá ser presentada por:
+Los procedimientos de mediación y de arbitraje a los que se refiere el presente capítulo serán gratuitos, primordialmente orales y se iniciarán mediante queja que podrá ser presentada por:
 
 I.- El receptor de la violencia intrafamiliar;
 
@@ -559,19 +627,29 @@ III.- Los maestros y directivos de las instituciones educativas, así como por l
 
 IV.- En general, cualquier persona que tenga conocimiento de la realización de actos considerados como violencia intrafamiliar.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE JULIO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 4 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 38.
 
-Los procedimientos a que se refiere este Capítulo iniciarán formalmente con la presentación verbal o por escrito de la queja ante las autoridades señaladas en los artículos 14 y18, 18 Bis de la presente Ley, o a partir de que éstas reciban de las autoridades jurisdiccionales o del Ministerio Público los casos del conocimiento que involucren hechos de violencia intrafamiliar, cuya solución sea posible mediante los procedimientos de conciliación o de arbitraje.
+Los procedimientos a que se refiere este Capítulo iniciarán formalmente con la presentación verbal o por escrito de la queja ante las autoridades señaladas en los artículos 14 y 18, 18 Bis de la presente Ley, o a partir de que éstas reciban de las autoridades jurisdiccionales o del Ministerio Público los casos del conocimiento que involucren hechos de violencia intrafamiliar, cuya solución sea posible mediante los procedimientos de mediación o de arbitraje.
 
 Tratándose de incapaces, menores o personas de la tercera edad, se citará a quienes ejerzan la custodia, la patria potestad o la tutela, o en su caso a las personas de quienes dependan éstos, ordenándose la presentación de la persona o personas receptores de la violencia intrafamiliar, para ser valoradas médica y psicológicamente, pudiendo decretarse por la autoridad competente las medidas de seguridad que resulten necesarias para su integridad.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 4 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 39.
 
-En los procedimientos de conciliación y arbitraje las autoridades a que se refiere el artículo 35 estarán facultadas para:
+En los procedimientos de mediación y de arbitraje las autoridades a que se refiere el artículo 35 estarán facultadas para:
 
-I.- Llevar un registro de las quejas que se les presenten por actos que se consideren violencia intrafamiliar y que sean hechos de su conocimiento, así como de las constancias administrativas que se elaboren cuando no se llegue a un arreglo conciliatorio;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+I.- Llevar un registro de las quejas que se les presenten por actos que se consideren violencia intrafamiliar y que sean hechos de su conocimiento, así como de las constancias administrativas que se elaboren cuando no se llegue a un arreglo entre las partes;
 
 > <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
 
@@ -603,15 +681,21 @@ b).- El auxilio de la fuerza pública; y
 
 VI.- Imponer las sanciones administrativas previstas en esta Ley.
 
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 40.
 
-Dentro de los tres días hábiles siguientes a aquel en el que las autoridades mencionadas en el artículo 35 tengan conocimiento de una queja por violencia intrafamiliar, citarán a las partes involucradas y llevarán a cabo la celebración de la audiencia de conciliación en la que el conciliador procederá a buscar la avenencia de las partes, proporcionándoles toda clase de alternativas y exhortándolas a celebrar el convenio respectivo; y además haciéndolas sabedoras de las consecuencias legales en caso de continuar el conflicto. Si las partes llegan a una conciliación, se celebrará el convenio conciliatorio previa aprobación que del mismo haga la autoridad que lleve a cabo el procedimiento, para cuya validez se observará lo dispuesto por el párrafo tercero del artículo 16 de esta Ley.
+Dentro de los tres días hábiles siguientes a aquél en el que las autoridades mencionadas en el artículo 35 tengan conocimiento de una queja por violencia intrafamiliar, citarán a las partes involucradas y llevarán a cabo la celebración de la audiencia de mediación en la que el mediador procederá a buscar los acuerdos de las partes, proporcionándoles toda clase de alternativas y exhortándolas a celebrar el convenio respectivo; y además, haciéndolas sabedoras de las consecuencias legales en caso de continuar el conflicto. Si las partes llegan a un acuerdo, se celebrará el respectivo convenio previa aprobación que del mismo haga la autoridad que lleve a cabo el procedimiento, para cuya validez se observará lo dispuesto por el párrafo tercero del artículo 16 de esta Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 41.
 
-En caso de no llevarse a cabo o de suspenderse la diligencia de conciliación a que se refiere el artículo anterior, deberá levantarse constancia conteniendo los datos generales de las partes y una relación sucinta de los antecedentes, haciéndose constar la voluntad de éstas para someterse al procedimiento arbitral.
+En caso de no llevarse a cabo o de suspenderse la diligencia de mediación a que se refiere el artículo anterior, deberá levantarse constancia conteniendo los datos generales de las partes y una relación sucinta de los antecedentes, haciéndose constar la voluntad de éstas para someterse al procedimiento arbitral.
 
 ###### ARTÍCULO 42.
 
@@ -639,9 +723,17 @@ Cuando alguna de las partes incumplan con las obligaciones y deberes establecido
 
 Se consideran infracciones a la presente Ley:
 
-I.- El no asistir sin causa justificada a las audiencias dentro de los procedimientos conciliatorio o arbitral a que se refiere el capítulo anterior;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- El incumplimiento del convenio derivado del procedimiento de conciliación;
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+I.- El no asistir sin causa justificada a las audiencias dentro de los procedimientos de mediación o arbitral a que se refiere el capítulo anterior;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+
+II.- El incumplimiento del convenio derivado del procedimiento de mediación;
 
 III.- El incumplimiento a la resolución emitida en el procedimiento arbitral al que se haya sometido las partes de común acuerdo; y
 
@@ -659,9 +751,13 @@ II.- Arresto administrativo hasta por treinta y seis horas.
 
 En el supuesto de que el infractor no pague oportunamente la multa impuesta, podrá permutar ésta por arresto que no excederá de treinta y seis horas.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 48.
 
-Se sancionará con multa de treinta a noventa días de salario mínimo general vigente en la Capital del estado, el incumplimiento del convenio o de la resolución emitida en los procedimientos de conciliación o de arbitraje.
+Se sancionará con multa de treinta a noventa días de salario mínimo general vigente en la Capital del estado, el incumplimiento del convenio o de la resolución emitida en los procedimientos de mediación o de arbitraje.
 
 ###### ARTÍCULO 49.
 
@@ -778,3 +874,9 @@ B.O. 6 DE JULIO DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 4 DE JUNIO DE 2009.
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor en un plazo de noventa días naturales, contados a partir del día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
