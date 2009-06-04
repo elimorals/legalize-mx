@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-de-transparencia-y-acceso-a-la-informacion-64351"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-02"
-last_updated: "2008-10-02"
+last_updated: "2009-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,9 @@ state: "DUR"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE DURANGO -ANTES REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO ESTATAL ELECTORAL DE DURANGO-
 
-REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO ESTATAL ELECTORAL DE DURANGO
+REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el jueves 2 de octubre de 2008.
 
@@ -80,17 +80,23 @@ LIC. RAYMUNDO HERNÁNDEZ GÁMIZ
 
 SECRETARIO
 
-REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL INSTITUTO ESTATAL ELECTORAL DE DURANGO
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE JUNIO DE 2009)</small>
+
+REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE DURANGO.
 
 ### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
+
 ARTÍCULO 1
 
-Este Reglamento tiene por objeto garantizar la transparencia, el efectivo ejercicio del derecho de acceso a la información pública y la protección de los datos personales, conforme a la Ley de Transparencia y Acceso a la Información Pública del Estado de Durango.
+El presente Reglamento tiene por objeto establecer los órganos, criterios y procedimientos institucionales para garantizar a toda persona legitimada, el acceso a la información en posesión del Instituto Electoral y de Participación Ciudadana del Estado de Durango.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
 
 ARTÍCULO 2
 
-Este Reglamento es de observancia general para todos los órganos y servidores públicos del Instituto Estatal Electoral de Durango.
+Este Reglamento es de observancia general para todos los órganos y servidores públicos del Instituto Electoral y de Participación Ciudadana del Estado de Durango.
 
 ARTÍCULO 3
 
@@ -98,23 +104,35 @@ Para los efectos del presente Reglamento, se entenderá por:
 
 Ley: Ley de Transparencia y Acceso a la Información Pública del Estado de Durango.
 
-Código: Código Estatal Electoral.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
 
-Reglamento: Reglamento de Transparencia y Acceso a la Información Pública del
+Ley Electoral: Ley Electoral para el Estado de Durango.
 
-Instituto Estatal Electoral de Durango.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
 
-Instituto: Instituto Estatal Electoral de Durango.
+Reglamento: Reglamento de Transparencia y Acceso a la Información Pública del Instituto Electoral y de Participación Ciudadana del Estado de Durango.
 
-Comisión de Acceso a la Información: La Comisión de Acceso a la Información del Instituto Estatal Electoral de Durango.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
 
-Comité: El Comité de Información del Instituto Estatal Electoral de Durango.
+Instituto: Instituto Electoral y de Participación Ciudadana del Estado de Durango.
 
-Unidad: la Unidad de Enlace del Instituto Estatal Electoral de Durango.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
+
+Comisión de Acceso a la Información: La Comisión de Acceso a la Información del Instituto Electoral y de Participación Ciudadana del Estado de Durango.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
+
+Comité: El Comité de Información del Instituto Electoral y de Participación Ciudadana del Estado de Durango.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
+
+Unidad: la Unidad de Enlace del Instituto Electoral y de Participación Ciudadana del Estado de Durango.
 
 Consejo: Consejo Estatal Electoral.
 
-Comisión de Fiscalización: Comisión Especial de Control y Fiscalización de la Transparencia, Origen y Aplicación del Financiamiento Público y Privado.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
+
+Comisión de Fiscalización: Comisión de Fiscalización del Consejo Estatal Electoral.
 
 ARTÍCULO 4
 
@@ -403,3 +421,15 @@ La responsabilidad administrativa que se genere por el incumplimiento de las obl
 PRIMERO.- Se abroga el Reglamento del Instituto Estatal Electoral de Durango Para el Acceso a la Información Pública aprobado mediante Acuerdo #162 en sesión ordinaria #12 del 9 de marzo de 2005. Asimismo, se derogan todas aquellas disposiciones legales que se opongan al presente.
 
 SEGUNDO.- El presente Reglamento deberá publicarse en el Periódico Oficial del Gobierno Constitucional del Estado de Durango. Una vez publicado entrará en vigor.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE JUNIO DE 2009.
+
+SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL ORDENAMIENTO.
+
+7. Se instruye al Secretario del Consejo para que, con toda oportunidad, disponga de la edición del número de ejemplares que estime necesarios de la reglamentación anterior, para su adecuada difusión, en el ámbito de competencia respectivo.
+
+8. Las reformas a los reglamentos aprobadas en el presente Acuerdo entrarán en vigor a partir del día siguiente al de su Publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+9. Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado de Durango.
