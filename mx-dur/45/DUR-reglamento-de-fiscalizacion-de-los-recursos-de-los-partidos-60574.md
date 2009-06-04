@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-de-fiscalizacion-de-los-recursos-de-los-partidos-605
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-31"
-last_updated: "2008-01-31"
+last_updated: "2009-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 REGLAMENTO DE FISCALIZACION DE LOS RECURSOS DE LOS PARTIDOS POLITICOS Y AGRUPACIONES POLITICAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE FISCALIZACION, PUBLICADO EN EL P.O. DE 4 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el jueves 31 de enero de 2008.
 
@@ -900,3 +902,15 @@ CUARTO.- El presente reglamento entrará en vigor a partir del día siguiente de
 QUINTO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
 
 Aprobado por el Consejo Estatal Electoral en sesión extraordinaria #3, celebrada el 24 de enero de 2008, mediante Acuerdo #6 y publicado en el Periódico Oficial del Estado número de fecha.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE JUNIO DE 2009.
+
+PRIMERO. Se abroga el Reglamento de Fiscalización de los Recursos de los Partidos Políticos y Agrupaciones Políticas aprobado mediante Acuerdo Número 6 en sesión extraordinaria número tres celebrada el veinticuatro de enero de dos mil ocho, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango número 9 de fecha jueves treinta y uno de enero de dos mil ocho.
+
+SEGUNDO. Se abroga el Reglamento que contiene los Lineamientos a los que deberá sujetarse la Presentación de los Informes de Gastos de Precampaña, aprobado mediante Acuerdo Número 187 en sesión extraordinaria Número 2 celebrada en fecha veintisiete de febrero de dos mil siete, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango número 17 bis de fecha jueves uno de marzo del dos mil siete.
+
+TERCERO. Los partidos políticos deberán llevar una contabilidad formal si sus ingresos o egresos son de más de quinientos mil pesos anuales y una contabilidad simple si son menores a esta cantidad.
+
+CUARTO. El presente reglamento entrará en vigor a partid del día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
