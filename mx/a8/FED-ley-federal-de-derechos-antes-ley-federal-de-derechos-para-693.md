@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2008-12-26"
+last_updated: "2009-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ LEY FEDERAL DE DERECHOS
 
 ULTIMA ACTUALIZACION POR MISCELANEA FISCAL: 26 DE DICIEMBRE DE 2008.
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JUNIO DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -5907,7 +5907,7 @@ ajuste ajuste
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
 
-###### Artículo 61-A.
+###### ARTICULO 61-A.
 
 Por el análisis
 
@@ -5945,7 +5945,7 @@ ajuste ajuste
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
 
-###### Artículo 61-B.
+###### ARTICULO 61-B.
 
 Por el análisis
 
@@ -5979,7 +5979,7 @@ ajuste ajuste
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
 
-###### Artículo 61-C.
+###### ARTICULO 61-C.
 
 Por la revisión
 
@@ -6008,6 +6008,14 @@ petroquímicos básicos, y demás
 actividades relacionadas, se pagará
 
 el derecho conforme a la cuota de: $1,524.18 $1,524.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
+
+###### ARTICULO 61-D.
+
+Por el análisis, evaluación de la solicitud y, en su caso, la expedición del título de permiso o autorización, de recuperación y aprovechamiento de gas asociado a los yacimientos de carbón mineral, se pagarán derechos conforme a la cuota de: $50,000.00
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -24137,19 +24145,25 @@ En el caso de sustitución de concesiones o asignaciones por las causas prevista
 
 Los titulares de concesiones mineras que al amparo de dichas concesiones exploten sales y los subproductos que se obtengan de salinas formadas por aguas provenientes de mares actuales, superficiales o subterráneos, de modo natural o artificial, estarán a lo dispuesto en el Capítulo V denominado "Salinas", de este Título.
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 264.
 
-El derecho sobre minería a que se refiere este Capítulo deberá pagarse semestralmente en los meses de enero y julio de cada año.
+El derecho sobre minería a que se refiere el artículo 263 de esta Ley, deberá pagarse semestralmente en los meses de enero y julio de cada año.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 Las concesiones y asignaciones mineras que se otorguen en el transcurso de un semestre pagarán la parte proporcional del derecho por el periodo que corresponda, tratándose de concesiones mineras desde la fecha de su inscripción en el Registro Público de Minería y, en el caso de asignaciones mineras desde la fecha de su publicación en el Diario Oficial de la Federación. Para tales efectos, los derechos se deberán pagar dentro de los treinta días naturales siguientes a esas fechas.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 265.
 
-Las asignaciones mineras otorgadas en favor del Consejo de Recursos Minerales causarán los derechos sobre minería a partir del segundo año de su vigencia.
+Las asignaciones mineras otorgadas en favor del Consejo de Recursos Minerales causarán los derechos sobre minería a que se refiere el artículo 263 de esta Ley, a partir del segundo año de su vigencia.
 
 > <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
@@ -24157,9 +24171,51 @@ Las asignaciones mineras otorgadas en favor del Consejo de Recursos Minerales ca
 
 La cancelación de una concesión o asignación minera por el incumplimiento en el pago de los derechos sobre minería establecidos en esta Ley o por cualquier otra de las causas previstas en la Ley Minera, no libera a su titular del pago de los derechos sobre minería que haya causado durante su vigencia, así como de los demás accesorios que se hubieren originado por el incumplimiento en el pago de éstos, de acuerdo con las disposiciones fiscales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 267.
 
-(DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
+Están obligados a pagar el derecho por el uso, goce o aprovechamiento del gas asociado a los yacimientos de carbón mineral, los concesionarios mineros que conforme a la Ley Minera recuperen y aprovechen el gas, ya sea para autoconsumo o entrega a Petróleos Mexicanos, aplicando la tasa de 50% a la diferencia que resulte entre el valor anual del gas asociado a los yacimientos de carbón mineral extraído en el año y las deducciones permitidas en este artículo, mediante declaración anual que se presentará a más tardar el último día hábil del mes de marzo del siguiente año correspondiente al ejercicio de que se trate.
+
+Para la determinación de la base de este derecho, serán deducibles los siguientes conceptos relacionados con la recuperación y aprovechamiento del gas asociado a los yacimientos de carbón mineral:
+
+I. El 16.7% del monto original de las inversiones realizadas para la recuperación y aprovechamiento del gas asociado a los yacimientos de carbón mineral, en cada ejercicio. Dentro de esta deducción no se considerarán inversiones relacionadas con la exploración de la actividad minera;
+
+II. El 5% del monto original de las inversiones realizadas en gasoductos, terminales, transporte o tanques de almacenamiento, en cada ejercicio;
+
+III. Los costos, considerándose para tales efectos las erogaciones necesarias para la recuperación y aprovechamiento del gas asociado a los yacimientos de carbón mineral de conformidad con las Normas de Información Financiera Mexicanas, excepto las inversiones a que se refieren las fracciones I y II de este artículo. Los únicos gastos que se podrán deducir serán los de transportación o entrega del gas. Los costos y gastos se deducirán cuando hayan sido efectivamente pagados en el periodo al que corresponda el pago.
+
+Las deducciones a que se refieren las fracciones I y II de este artículo deberán ser ajustadas conforme a lo establecido en la Ley del Impuesto sobre la Renta.
+
+El monto original de las inversiones a que se refieren las fracciones I y II de este artículo, comprenderá además del precio de las mismas, únicamente los impuestos al comercio exterior efectivamente pagados con motivo de tales inversiones.
+
+La deducción del monto original de las inversiones se podrá iniciar a partir del ejercicio en que se inicie la utilización de los bienes o desde el ejercicio siguiente. En ningún caso las deducciones por dichas inversiones, antes de realizar el ajuste a que se refiere el tercer párrafo de este artículo, rebasarán el 100% de su monto original. Cuando no se efectúe la deducción a partir del inicio de los plazos señalados en este párrafo, o bien, no se lleve a cabo en algún ejercicio o se haga en porcentajes menores a los autorizados, se perderá el derecho a deducir las cantidades correspondientes que pudieron haberse deducido.
+
+Tratándose de ejercicios fiscales irregulares, o cuando los bienes se empiecen a utilizar después de iniciado el ejercicio, así como en el ejercicio en que se termine su deducción, las inversiones correspondientes se deducirán en el por ciento que represente el número de meses completos en los que el bien haya sido utilizado, respecto de doce meses. Cuando los bienes se adquieran por fusión o escisión de sociedades, se considerará como fecha de adquisición la que le corresponda a la sociedad fusionada o a la escindente.
+
+Cuando las inversiones, costos o gastos a que se refieren las fracciones I a III de este artículo, se utilicen parcialmente para actividades diversas a la recuperación y aprovechamiento del gas asociado a los yacimientos de carbón mineral, los concesionarios sólo podrán deducir la parte proporcional que corresponda a la recuperación y aprovechamiento de dicho gas. Dicha proporción se calculará dividiendo el valor anual del gas asociado a los yacimientos de carbón mineral entre el monto que resulte de sumar el de las ventas relacionadas con la concesión minera y el valor del gas asociado a los yacimientos de carbón mineral en el año. Cuando se trate de pagos provisionales del derecho, dicha proporción se determinará utilizando los mismos conceptos, correspondientes al periodo de que se trate.
+
+El monto de la deducción por concepto de los costos, gastos e inversiones deducibles, relacionados con el gas asociado a los yacimientos de carbón mineral extraído, no excederá el valor de 3.20 dólares de los Estados Unidos de América por cada millar pies cúbicos de dicho gas, en el año de que se trate, considerando para tales efectos el promedio de tipo de cambio publicado por el Banco de México dentro del periodo correspondiente al pago de que se trate.
+
+En ningún caso serán deducibles los intereses de cualquier tipo a cargo de los concesionarios.
+
+Tratándose de costos, gastos e inversiones realizados o adquiridos con partes relacionadas, los concesionarios considerarán para esas operaciones, los precios y montos de contraprestaciones que hubiera utilizado con o entre partes independientes en operaciones comparables, aplicando para esos efectos lo dispuesto en los artículos 92, 215 y 216 de la Ley del Impuesto sobre la Renta.
+
+A cuenta del derecho a que se refiere este artículo, se harán pagos provisionales mensuales, a más tardar el último día hábil del mes posterior a aquél a que corresponda el pago, aplicando la tasa establecida en el primer párrafo de este artículo al valor del gas asociado a los yacimientos de carbón mineral extraído en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago, disminuyéndose de dicho valor los costos, gastos y la parte proporcional de las inversiones autorizadas, correspondientes al mismo periodo. La parte proporcional de las inversiones citadas, se calculará considerando el número de meses transcurridos en el periodo que comprenda el pago, respecto del monto anual de la deducción de las inversiones que corresponda al ejercicio.
+
+Al pago provisional así determinado, se le restarán los pagos provisionales de este derecho efectivamente pagados en los meses anteriores correspondientes al ejercicio de que se trate, siendo la diferencia el pago provisional a enterar.
+
+En la declaración anual a que se refiere el primer párrafo de este artículo, se podrán acreditar los pagos provisionales mensuales efectivamente pagados de éste derecho correspondientes al ejercicio de que se trate.
+
+Para los efectos de este artículo, se considerará como valor del gas asociado a los yacimientos de carbón mineral extraído, el promedio del precio de referencia del índice de Texas Eastern Transmission Corp., renglón South Texas Zone, publicado por el Inside FERC's Gas Merket Report, correspondiente al periodo de que se trate, convertido, de dólares de los Estados Unidos de America por millón de unidades térmicas británicas (Btu's) a pesos por millón de dichas unidades térmicas, considerando para tales efectos el promedio de tipo de cambio publicado por el Banco de México dentro del periodo correspondiente al pago de que se trate y, este resultado, transformado a pesos por Gigajoule, multiplicado por las unidades energéticas contenidas en el volumen de gas extraído en el mismo periodo por el que se esté obligado al pago del derecho.
+
+La determinación de las unidades energéticas contenidas en el volumen del gas asociado a los yacimientos de carbón mineral extraído se realizará conforme a la Norma Oficial Mexicana de Calidad del Gas Natural (NOM-001-SECRE-2003). La medición del referido gas se determinará de acuerdo con las normas oficiales mexicanas que se emitan para dicho propósito.
+
+Los concesionarios estarán obligados a llevar los registros contables que permitan identificar por separado el valor del gas extraído, los gastos, costos y montos de las inversiones deducibles, relativos a la recuperación y aprovechamiento del gas asociado a los yacimientos de carbón mineral.
+
+El pago del derecho señalado en este artículo, se efectuará con independencia de los pagos de otros derechos sobre minería que, en su caso, procedan de acuerdo a este Capítulo.
 
 ###### ARTICULO 268.
 
@@ -24189,11 +24245,13 @@ La cancelación de una concesión o asignación minera por el incumplimiento en 
 
 (DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 275.
 
-Los Estados y el Distrito Federal participarán en los ingresos del derecho sobre minería, en los términos de la Ley de Coordinación Fiscal. Al efecto los ingresos por el mencionado derecho se sumarán a la recaudación federal total para los fines de la determinación de los Fondos General y Financiero Complementario de Participaciones a que se refieren las fracciones I y II del artículo 2o. de la citada Ley.
+Los Estados y el Distrito Federal participarán en los ingresos de los derechos sobre minería a que se refiere este Capítulo, en los términos de la Ley de Coordinación Fiscal.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -29478,3 +29536,11 @@ D.O.F. 26 DE DICIEMBRE DE 2008.
 Primero. La presente Resolución entrará en vigor al día siguiente de su publicación, excepto la modificación al Glosario en su numeral 23, las reformas a las reglas I.12.1.; I.12.2.; I.12.3.; I.12.4.; I.12.5.; I.12.6.; I.12.7.; I.12.8 del Libro primero y II.12.1., del Libro segundo; así como la derogación de las reglas II.12.2. y II.12.3. del Libro segundo, las cuales entrarán en vigor el 1 de enero de 2009.
 
 Segundo. Para los efectos de la regla II.11.2., primer párrafo, el aviso respecto de la información correspondiente al segundo semestre de 2008, se podrá presentar a más tardar el 31 de diciembre de 2008 y respecto de la información correspondiente al primer semestre de 2009, se podrá presentar a más tardar el 31 de marzo de 2009.
+
+D.O.F. 5 DE JUNIO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor el día primero del mes siguiente a aquel de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las inversiones a que se refieren las fracciones I y II del artículo 267 de la Ley Federal de Derechos, efectuadas con anterioridad a la entrada en vigor de este Decreto, sólo serán deducibles a partir de que se utilicen en las actividades relacionadas con la recuperación y aprovechamiento del gas asociado a los yacimientos de carbón mineral, con posterioridad a la fecha en que los concesionarios obtengan el permiso o autorización correspondiente, y hasta por el monto original que por dichas inversiones esté pendiente de deducirse para los efectos de la Ley del Impuesto sobre la Renta.
+
+TERCERO. Para los efectos de la medición del gas asociado a los yacimientos de carbón mineral extraído, a que se refiere el párrafo décimo quinto del artículo 267 de la Ley Federal de Derechos, en tanto se expiden las normas oficiales mexicanas para ese efecto, se utilizarán las disposiciones contenidas en los reportes de medición de gas emitidos por la Asociación Americana de Gas (AGA) denominados AGA-3, AGA-5, AGA-7, AGA-8, AGA-12 y AGA-NX-19, o aquéllos que los sustituyan.
