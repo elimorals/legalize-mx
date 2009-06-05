@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2007-08-31"
+last_updated: "2009-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2009.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -2061,15 +2061,15 @@ Los recargos y gastos de ejecución originados por la falta de pago de un crédi
 
 En el caso de las Empresas, el impuesto adicional para la educación media y superior y los accesorios que en su caso se generen, se determinará sobre el total del impuesto sobre remuneraciones al trabajo personal que se cause, sin considerar los estímulos fiscales otorgados en términos de los artículos 175 y 177 de esta Ley.
 
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 180.
 
-Estarán exentos del pago del impuesto sobre remuneraciones al trabajo personal, las personas que se dediquen exclusivamente a actividades agrícolas, ganaderas, pesqueras o silvícolas, y exporten sus productos derivados de esa actividad, en los términos de la legislación aduanera.
+Estarán exentos del pago del impuesto sobre remuneraciones al trabajo personal, las Instituciones de Asistencia Social Privada, que sean reconocidas como Auxiliares en los términos de la Ley de Asistencia Social para el Estado de Baja California.
 
-Estas personas estarán exentas, en el porciento que representen sus exportaciones respecto del total de sus actividades realizadas en el período correspondiente.
+De igual forma, estarán exentas del pago del impuesto sobre remuneración al trabajo personal, las personas que se dediquen exclusivamente a actividades agrícolas, ganaderas, pesqueras o silvícolas, y exporten sus productos derivados de esa actividad, en los términos de la legislación aduanera. Estas personas estarán exentas, en el por ciento que representen sus exportaciones respecto del total de sus actividades realizadas en el período correspondiente.
 
-Las personas a que se refiere el primer párrafo de este artículo, deberán cubrir el impuesto adicional para la educación media y superior y los accesorios que en su caso se generen, sobre el total del impuesto sobre remuneraciones al trabajo personal que se cause, sin considerar la exención prevista en este artículo. Asimismo deberán cumplir las obligaciones previstas en el artículo 151-20 de esta Ley.
+Las personas a que se refiere el párrafo anterior de este artículo, deberán cubrir el impuesto adicional para la educación media y superior y los accesorios que en su caso se generen, sobre el total del impuesto sobre remuneraciones al trabajo personal que se cause, sin considerar la exención prevista en este artículo. Asimismo deberán cumplir las obligaciones previstas en el artículo 151-20 de esta Ley.
 
 Se entiende por actividades agrícolas, ganaderas, pesqueras y silvícolas, las referidas en el Código Fiscal de la Federación.
 
@@ -2518,3 +2518,7 @@ Se condona a los contribuyentes a que se refiere el artículo 181 que se adicion
 ###### ARTÍCULO CUARTO.
 
 Se deroga el artículo segundo transitorio del Decreto número 185, publicado en el Periódico Oficial del Estado, el día 24 de febrero de 2006.
+
+P.O. 5 DE JUNIO DE 2009.
+
+ÚNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
