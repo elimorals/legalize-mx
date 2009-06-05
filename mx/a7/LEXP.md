@@ -4,7 +4,7 @@ identifier: "LEXP"
 country: "mx"
 rank: "ley"
 publication_date: "1936-11-25"
-last_updated: "1997-12-04"
+last_updated: "2009-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=366&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LEXP"
 
 LEY DE EXPROPIACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JUNIO DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 25 de noviembre de 1936.
 
@@ -38,7 +38,11 @@ DECRETO:
 
 LEY DE EXPROPIACION
 
+> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 5 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 1o.
+
+La presente ley es de interés público y tiene por objeto establecer las causas de utilidad pública y regular los procedimientos, modalidades y ejecución de las expropiaciones.
 
 Se consideran causas de utilidad pública:
 
@@ -49,6 +53,10 @@ II.- La apertura, ampliación o alineamiento de calles, la construcción de calz
 > <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 30 DE DICIEMBRE DE 1949)</small>
 
 III.- El embellecimiento, ampliación y saneamiento de las poblaciones y puertos, la construcción de hospitales, escuelas, parques, jardines, campos deportivos o de aterrizaje, construcciones de oficinas para el Gobierno Federal y de cualquier obra destinada a prestar servicios de beneficio colectivo;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JUNIO DE 2009)</small>
+
+III Bis.- La construcción de obras de infraestructura pública y la prestación de servicios públicos, que requieran de bienes inmuebles y sus mejoras, derivada de concesión, de contrato o de cualquier acto jurídico celebrado en términos de las disposiciones legales aplicables;
 
 IV.- La conservación de los lugares de belleza panorámica, de las antigüedades y objetos de arte, de los edificios y monumentos arqueológicos o históricos, y de las cosas que se consideran como características notables de nuestra cultura nacional;
 
@@ -68,39 +76,81 @@ XI.- La creación o mejoramiento de centros de población y de sus fuentes propi
 
 XII.- Los demás casos previstos por leyes especiales.
 
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 2o.
 
-En los casos comprendidos en la enumeración del artículo 1o., previa declaración del Ejecutivo Federal, procederá la expropiación, la ocupación temporal, total o parcial, o la simple limitación de los derechos de dominio para los fines del Estado o en interés de la colectividad.
+En los casos comprendidos en el artículo anterior, la Secretaría de Estado competente emitirá la declaratoria de utilidad pública, conforme a lo siguiente:
 
-> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
+I. La causa de utilidad pública se acreditará con base en los dictámenes técnicos correspondientes.
+
+II. La declaratoria de utilidad pública se publicará en el Diario Oficial de la Federación y, en su caso, en un diario de la localidad de que se trate, y se notificará personalmente a los titulares de los bienes y derechos que resultarían afectados.
+
+En caso de ignorarse quiénes son los titulares o bien su domicilio o localización, surtirá efectos de notificación personal una segunda publicación de la declaratoria en el Diario Oficial de la Federación, misma que deberá realizarse dentro de los cinco días hábiles siguientes a la primera publicación.
+
+III. Los interesados tendrán un plazo de quince días hábiles a partir de la notificación o de la segunda publicación en el Diario Oficial de la Federación para manifestar ante la Secretaría de Estado correspondiente lo que a su derecho convenga y presentar las pruebas que estimen pertinentes.
+
+IV. En su caso, la autoridad citará a una audiencia para el desahogo de pruebas, misma que deberá verificarse dentro de los ocho días hábiles siguientes a la recepción de las manifestaciones a que se refiere el párrafo anterior. Concluida dicha audiencia, se otorgará un plazo de tres días hábiles para presentar alegatos de manera escrita.
+
+V. Presentados los alegatos o transcurrido el plazo para ello sin que se presentaren, la autoridad contará con un plazo de diez días hábiles para confirmar, modificar o revocar la declaratoria de utilidad pública.
+
+VI. La resolución a que se refiere la fracción anterior no admitirá recurso administrativo alguno y solamente podrá ser impugnada a través del juicio de amparo.
+
+VII. El Ejecutivo Federal deberá decretar la expropiación a que se refiere el artículo 4o de esta Ley, dentro de los treinta días hábiles siguientes a que se haya dictado la resolución señalada en la fracción V que antecede. Transcurrido el plazo sin que se haya emitido el decreto respectivo, la declaratoria de utilidad pública quedará sin efectos. En caso de que se interponga el juicio de amparo, se interrumpirá el plazo a que se refiere esta fracción, hasta en tanto se dicte resolución en el mismo.
+
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 3o.
 
-La Secretaría de Estado, departamento administrativo o Gobierno del Distrito Federal según corresponda, tramitará el expediente de expropiación, de ocupación temporal o de limitación de dominio y, en su caso, el Ejecutivo Federal hará la declaratoria en el Decreto respectivo.
+La Secretaría de Estado competente integrará y tramitará el expediente respectivo.
 
-> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
+Cuando la promovente sea una entidad paraestatal, solicitará a la dependencia coordinadora de sector la emisión de la declaratoria.
+
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 4o.
 
-La declaratoria a que se refiere el Artículo anterior, se hará mediante Decreto que se publicará en el Diario Oficial de la Federación y será notificado personalmente a los interesados. En caso de ignorarse el domicilio de éstos, surtirá efectos de notificación personal una segunda publicación del Decreto en el Diario Oficial de la Federación.
+Procederá la expropiación previa declaración de utilidad pública a que se refiere el artículo anterior.
 
-> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
+La declaratoria de expropiación, de ocupación temporal o de limitación de dominio, se hará mediante decreto del Ejecutivo Federal que se publicará en el Diario Oficial de la Federación.
+
+Los propietarios e interesados legítimos de los bienes y derechos que podrían resultar afectados serán notificados personalmente del decreto respectivo, así como del avalúo en que se fije el monto de la indemnización.
+
+La notificación se hará dentro de los quince días hábiles posteriores a la fecha de publicación del decreto. En caso de que no pudiere notificarse personalmente, por ignorarse quiénes son las personas o su domicilio o localización, surtirá los mismos efectos una segunda publicación en el Diario Oficial de la Federación, misma que deberá realizarse dentro de los cinco días hábiles siguientes a la primera publicación.
+
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 5o.
 
-Los propietarios afectados podrán interponer, dentro de los 15 días hábiles siguientes a la notificación del Decreto recurso administrativo de revocación contra la declaratoria correspondiente.
+Dentro de los diez días hábiles siguientes a la notificación del decreto correspondiente, los interesados podrán acudir al procedimiento judicial a que se refiere el artículo 11 de la presente Ley.
+
+El único objeto del procedimiento a que se refiere el párrafo anterior será controvertir el monto de la indemnización y, en su caso, exigir el pago de daños y perjuicios.
+
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 6o.
 
-El recurso administrativo de revocación se interpondrá ante la Secretaría de Estado, Departamento Administrativo o Gobierno del Territorio que haya tramitado el expediente de expropiación, de ocupación temporal o de limitación de dominio.
+De cuestionarse la titularidad del bien o derecho expropiado, la indemnización correspondiente será depositada y puesta a disposición de la autoridad que conozca del recurso respectivo, para que la asigne a quienes resulten titulares legítimos del bien o derecho, en los montos que corresponda.
+
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 7o.
 
-Cuando no se haya hecho valer el recurso administrativo de revocación a que se refiere el artículo 5o. o en caso de que éste haya sido resuelto en contra de las pretensiones del recurrente, la autoridad administrativa que corresponda procederá desde luego a la ocupación del bien o de cuya expropiación u ocupación temporal se trate, o impondrá la ejecución inmediata de las disposiciones de limitación de dominio que procedan.
+Una vez decretada la expropiación, ocupación temporal o limitación de dominio la autoridad administrativa que corresponda procederá a la ocupación inmediata del bien de cuya expropiación u ocupación temporal se trate, o impondrá la ejecución inmediata de las disposiciones de limitación de dominio que procedan.
+
+La interposición de cualquier medio de defensa, no suspenderá la ocupación o ejecución inmediata señalada en el párrafo anterior.
+
+El decreto en el que se ordene la ocupación temporal o la limitación de dominio no admitirá recurso administrativo alguno y sólo podrá impugnarse a través del juicio de amparo.
+
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 8o.
 
-En los casos a que se refieren las fracciones V, VI y X del artículo 1o. de esta ley, el Ejecutivo Federal, hecha la declaratoria, podrá ordenar la ocupación de los bienes objeto de la expropiación o de la ocupación temporal o imponer la ejecución inmediata de las disposiciones de limitación de dominio, sin que la interposición del recurso administrativo de revocación suspenda la ocupación del bien o bienes de que se trate o la ejecución de las disposiciones de limitación de dominio.
+En los casos a que se refieren las fracciones III Bis, V, VI y X del artículo 1o. de esta ley, el Ejecutivo Federal hará la declaratoria de utilidad pública, decretará la expropiación, ocupación temporal o limitación de dominio y ordenará la ejecución inmediata de la medida de que se trate. Tratándose de la expropiación, no será aplicable lo dispuesto en las fracciones III a VII del artículo 2o de esta Ley.
+
+Esta resolución no admitirá recurso administrativo alguno y solamente podrá ser impugnada a través del juicio de amparo.
+
+En los casos a que se refiere el primer párrafo de este artículo, durante la tramitación del juicio de amparo que en su caso se instaure, no podrá suspenderse la ejecución de la expropiación, la ocupación temporal o la limitación de dominio.
 
 > <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
 
@@ -158,19 +208,29 @@ Cuando la cosa expropiada pase al patrimonio de persona distinta del Estado, esa
 
 Estas disposiciones se aplicarán, en lo conducente, a los casos de ocupación temporal o de limitación al derecho de dominio.
 
-> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 20.
 
-La indemnización deberá pagarse dentro del término de un año a partir de la declaratoria de expropiación en moneda nacional, sin perjuicio de que se convenga su pago en especie.
+La indemnización deberá pagarse en moneda nacional a más tardar dentro de los cuarenta y cinco días hábiles siguientes a la publicación del decreto de expropiación, sin perjuicio de que se convenga su pago en especie.
+
+Salvo en los casos a que se refiere el artículo 8o de la Ley, la autoridad podrá proceder a la ocupación del bien o a la disposición del derecho objeto de la expropiación una vez cubierto el monto de la indemnización fijado en el avalúo.
+
+En caso de que el afectado controvierta el monto de la indemnización, se estará a lo dispuesto en el artículo 11 del presente ordenamiento. Esta circunstancia no será impedimento para que la autoridad proceda a la ocupación del bien o a la disposición del derecho expropiado.
+
+La indemnización por la ocupación temporal o por la limitación de dominio consistirá en una compensación a valor de mercado, así como los daños y perjuicios, si los hubiere, que pudieran ocasionarse por la ejecución de dichas medidas, misma que deberá pagarse conforme al plazo referido en el párrafo primero de este artículo.
 
 > <small>(ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 1997)</small>
 
 ARTICULO 20 BIS.- El Jefe de Gobierno del Distrito Federal, en los términos de esta ley, podrá declarar la expropiación, ocupación temporal, total o parcial, o la simple limitación de los derechos de dominio, en los casos en que se tienda a alcanzar un fin cuya realización competa al gobierno local del Distrito Federal conforme a sus atribuciones y facultades constitucionales y legales.
 
-La declaratoria se hará mediante decreto que se publicará en la Gaceta Oficial del Distrito Federal y será notificada personalmente a los interesados. En caso de ignorarse el domicilio de éstos, surtirá efectos de notificación personal una segunda publicación del Decreto en la Gaceta Oficial del Distrito Federal.
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2009)</small>
 
-La Ley Orgánica de la Administración Pública del Distrito Federal, señalará la dependencia a la que corresponda tramitar el expediente de expropiación, de ocupación temporal o de limitación de dominio, la que conocerá y resolverá el recurso administrativo de revocación previsto en la presente ley.
+La declaratoria de expropiación se hará en los términos previstos en esta ley.
+
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2009)</small>
+
+La Ley Orgánica de la Administración Pública del Distrito Federal, señalará la dependencia a la que corresponda tramitar el expediente de expropiación, de ocupación temporal o de limitación de dominio, la que conocerá del procedimiento a que se refiere el artículo 2o de esta ley.
 
 > <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
 
@@ -215,3 +275,13 @@ PRIMERO.- Las reformas a que se refiere el presente Decreto entrarán en vigor a
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+
+D.O.F. 5 DE JUNIO DE 2009.
+
+Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero. Los procedimientos y expedientes de expropiación que se encuentren en curso a la entrada en vigor del presente Decreto continuarán su trámite hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
+
+No obstante lo anterior, las dependencias y entidades que dentro de los procedimientos en curso no hayan otorgado la garantía de audiencia a los posibles afectados, deberán hacerlo en lo conducente, en términos del artículo 2o del presente Decreto.
