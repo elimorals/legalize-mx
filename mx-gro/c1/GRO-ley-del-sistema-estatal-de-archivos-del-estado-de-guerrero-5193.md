@@ -4,7 +4,7 @@ identifier: "GRO-ley-del-sistema-estatal-de-archivos-del-estado-de-guerrero-5193
 country: "mx"
 rank: "ley"
 publication_date: "1988-11-29"
-last_updated: "2008-12-30"
+last_updated: "2009-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DEL SISTEMA ESTATAL DE ARCHIVOS DEL ESTADO DE GUERRERO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL CONTENIDO DE LA LEY NUMERO 875 DE ARCHIVOS GENERALES DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, PUBLICADA EN EL P.O. DE 30 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO TACITAMENTE.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO 089, PUBLICADO EN EL P.O. DE 5 DE JUNIO DE 2009, POR EL QUE SE ADICIONA UN SEGUNDO TRANSITORIO A LA LEY NUMERO 875 DE ARCHIVOS GENERALES DEL ESTADO LIBRE Y SOBERANO DE GUERRERO MODIFICADA, PUBLICADA EN EL P.O. DE 30 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
@@ -225,14 +225,26 @@ P.O. 30 DE DICIEMBRE DE 2008.
 
 La presente Ley entrará en vigor el día de su expedición.
 
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-El Titular del Poder Ejecutivo del Estado, expedirá en un plazo no mayor de 120 días contados a partir de la entrada en vigor de esta Ley, el Reglamento General de la misma.
+Se abroga la Ley del Sistema Estatal de Archivos publicada en el Periódico Oficial del Gobierno del Estado No. 99, de fecha 29 de noviembre de 1988.
 
 ###### ARTÍCULO TERCERO.
 
-El Consejo Estatal de Archivos se deberá integrar formalmente a más tardar 90 días después de la expedición y entrada en vigor del Reglamento de la Ley Estatal de Archivos y en igual plazo deberá conformarse el Comité Técnico Auxiliar señalado en el articulo 27 fracción II.
+El Titular del Poder Ejecutivo del Estado, expedirá en un plazo no mayor de 120 días contados a partir de la entrada en vigor de esta Ley, el Reglamento General de la misma.
 
 ###### ARTÍCULO CUARTO.
 
+El Consejo Estatal de Archivos se deberá integrar formalmente a más tardar 90 días después de la expedición y entrada en vigor del Reglamento de la Ley Estatal de Archivos y en igual plazo deberá conformarse el Comité Técnico Auxiliar señalado en el articulo 27 fracción II.
+
+###### ARTÍCULO QUINTO.
+
 Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero, para su conocimiento general.
+
+P.O. 5 DE JUNIO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Comuníquese él presente Decreto al Titular del Poder Ejecutivo Estatal para los efectos legales conducentes.
