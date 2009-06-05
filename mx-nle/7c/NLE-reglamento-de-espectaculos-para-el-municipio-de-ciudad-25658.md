@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-espectaculos-para-el-municipio-de-ciudad-25658"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-10-09"
-last_updated: "2002-08-09"
+last_updated: "2009-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "NLE"
 
 REGLAMENTO DE ESPECTACULOS PARA EL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 9 de octubre de 1991.
 
@@ -64,25 +64,25 @@ ART. 10.- Los teatros, cines, salones de baile y demás salas de espectáculos, 
 
 ART. 11.- Queda estrictamente prohibida la entrada a cualquier tipo de eseptáculo (sic) a personas armadas, a excepción hecha de las personas encargadas de vigilar el orden público.
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2009)</small>
 
-ART. 12.- En los casos en que el espectáculo lo amerite, deberá existir un Inspector Genérico Autoridad, el cual será nombrado por la Autoridad Municipal. Contará también, según el caso, con auxiliares a fin de que le asistan para el mejor desempeño de sus funciones.
+ART. 12.- En los casos en que el espectáculo lo amerite, deberá existir un Inspector, el cual será nombrado por la Autoridad Municipal. Contará también, según el caso, con auxiliares a fin de que le asistan para el mejor desempeño de sus funciones.
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2009)</small>
 
-ART. 13.- El Inspector Genérico Autoridad, es la persona competente para decidir de los asuntos de inmediata resolución que surgieren, y en consecuencia, las determinaciones que dicte, serán debidamente respetadas y de su exclusiva responsabilidad.
+ART. 13.- El Inspector, es la persona competente para decidir de los asuntos de inmediata resolución que surgieren, y en consecuencia, las determinaciones que dicte, serán debidamente respetadas y de su exclusiva responsabilidad.
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2009)</small>
 
-ART. 14.- El personal de Policía y tránsito que oficialmente concurra al espectáculo, estará bajo las ordenes directas del Inspector Genérico Autoridad.
+ART. 14.- El personal de Policía y tránsito que oficialmente concurra al espectáculo, estará bajo las órdenes directas del Inspector.
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2009)</small>
 
-ART. 15.- Cuando durante el espectáculo se cometiere una falta o delito que amerite la imposición de una pena, el Inspector Genérico Autoridad dictará las medidas encaminadas a detener al responsable, poniéndolo a la disposición de las Autoridades correspondientes.
+ART. 15.- Cuando durante el espectáculo se cometiere una falta o delito que amerite la imposición de una pena, el Inspector dictará las medidas encaminadas a detener al responsable, poniéndolo a la disposición de las Autoridades correspondientes.
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2009)</small>
 
-ART. 16.- El Inspector Genérico Autoridad, deberá rendir a la Autoridad Municipal un informe sobre los eventos relativos a la preparación del espectáculo.
+ART. 16.- El Inspector, deberá rendir a la Autoridad Municipal un informe sobre los eventos relativos a la preparación del espectáculo.
 
 ART. 17.- Deberán existir teléfonos públicos dentro de las salas de espectáculos, para uso de los asistentes.
 
@@ -299,3 +299,11 @@ SEGUNDO: Se derogan las disposiciones Municipales que se opongan a lo dispuesto 
 TERCERA (SIC): Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en la Presidencia Municipal de Ciudad Guadalupe, Nuevo León a los 14-catorce días del mes de Mayo del 2002-dos mil dos.
 
 CUARTA (SIC): Cúmplase.
+
+P.O. 5 DE JUNIO DE 2009.
+
+PRIMERO.- Las presentes reformas al Reglamento de Espectáculos, entrarán en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan ala (sic) contenido de las presentes reformas.
+
+TERCERO.- Se remita el presente al C. Encargado del Despacho de la Presidencia Municipal, a fin de que tenga a bien instruir al C. Secretario del Ayuntamiento para que se sirva enviar el acuerdo para su debida publicación en el Periódico Oficial del Estado. Así mismo, se proceda también por el C. Secretario del Ayuntamiento, a su publicación en la Gaceta Municipal.
