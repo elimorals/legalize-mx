@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-875-de-archivos-generales-del-estado-libre-y-66172"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-30"
-last_updated: "2008-12-30"
+last_updated: "2009-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66172&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 875 DE ARCHIVOS GENERALES DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 30 de diciembre de 2008.
 
@@ -321,15 +321,21 @@ T R A N S I T O R I O S
 
 La presente Ley entrará en vigor el día de su expedición.
 
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-El Titular del Poder Ejecutivo del Estado, expedirá en un plazo no mayor de 120 días contados a partir de la entrada en vigor de esta Ley, el Reglamento General de la misma.
+Se abroga la Ley del Sistema Estatal de Archivos publicada en el Periódico Oficial del Gobierno del Estado No. 99, de fecha 29 de noviembre de 1988.
 
 ###### ARTÍCULO TERCERO.
 
-El Consejo Estatal de Archivos se deberá integrar formalmente a más tardar 90 días después de la expedición y entrada en vigor del Reglamento de la Ley Estatal de Archivos y en igual plazo deberá conformarse el Comité Técnico Auxiliar señalado en el articulo 27 fracción II.
+El Titular del Poder Ejecutivo del Estado, expedirá en un plazo no mayor de 120 días contados a partir de la entrada en vigor de esta Ley, el Reglamento General de la misma.
 
 ###### ARTÍCULO CUARTO.
+
+El Consejo Estatal de Archivos se deberá integrar formalmente a más tardar 90 días después de la expedición y entrada en vigor del Reglamento de la Ley Estatal de Archivos y en igual plazo deberá conformarse el Comité Técnico Auxiliar señalado en el articulo 27 fracción II.
+
+###### ARTÍCULO QUINTO.
 
 Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero, para su conocimiento general.
 
@@ -368,3 +374,11 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. GUILLERMO RAMÍREZ RAMOS.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE JUNIO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Comuníquese él presente Decreto al Titular del Poder Ejecutivo Estatal para los efectos legales conducentes.
