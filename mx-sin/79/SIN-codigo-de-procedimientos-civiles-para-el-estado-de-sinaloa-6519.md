@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "2008-11-28"
+last_updated: "2009-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
+CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2009.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -53,7 +53,7 @@ Sólo puede iniciar un procedimiento judicial o intervenir en él, quién tenga 
 
 Podrán promover los interesados, por sí o por medio de sus representantes o apoderados, el Ministerio Público, y aquéllos cuya intervención esté autorizada por la Ley en casos especiales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
@@ -207,9 +207,9 @@ A nadie puede obligarse a intentar, o proseguir una acción contra su voluntad, 
 
 I. Cuando alguno públicamente se jacte de que otro es su deudor, o de que tiene que deducir derechos sobre alguna cosa que otro posee. En este caso, el poseedor, o aquél de quien se dice que es deudor puede ocurrir al juez de su propio domicilio, pidiéndole que señale un término al jactancioso para que deduzca la acción que afirme tener, apercibido de que no haciéndolo en el plazo designado se tendrá por desistido de la acción que ha sido objeto de la jactancia. Este juicio se substanciará sumariamente. No se reputa jactancioso al que en algún acto judicial, o administrativo se reserva los derechos que pueda tener contra alguna persona, o sobre alguna cosa. La acción de jactancia prescribe a los tres meses desde la fecha en que tuviere lugar los dichos y hechos que la originan;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(DEROGADA [N. DE E. REUBICADA, ANTES FRACCION III], P.O. 4 DE AGOSTO DE 2008)</small>
+> <small>(DEROGADA [N. DE E. REUBICADA, ANTES FRACCIÓN III], P.O. 4 DE AGOSTO DE 2008)</small>
 
 II. Cuando alguno tenga acción, o excepción que dependa del ejercicio de acción de otro, a quien pueda exigir que la deduzca, oponga o continúe desde luego y si excitado para ello se rehusare, lo podrá hacer aquél.
 
@@ -217,33 +217,33 @@ II. Cuando alguno tenga acción, o excepción que dependa del ejercicio de acci�
 
 Las acciones duran lo que la obligación que representan, menos en los casos que la ley señala distintos plazos.
 
-(REFORMADO, P.O. 20 DE DICIEMBRE DE 2000)(F. DE E., P.O. 15 DE ENERO DE 2001)(F. DE E., P.O. 23 DE FEBRERO DE 2001)
+(REFORMADO, P.O. 20 DE DICIEMBRE DE 2000) (F. DE E., P.O. 15 DE ENERO DE 2001) (F. DE E., P.O. 23 DE FEBRERO DE 2001)
 
 ###### Artículo 34.
 
 Admitida la demanda y formulada la contestación, no podrán modificarse ni alterarse los puntos sobre los que verse la litis, salvo los casos en que la ley lo permita por hechos supervenientes.
 
-(F. DE E., P.O. 15 DE ENERO DE 2001)(F. DE E., P.O. 23 DE FEBRERO DE 2001)
+(F. DE E., P.O. 15 DE ENERO DE 2001) (F. DE E., P.O. 23 DE FEBRERO DE 2001)
 
 El actor podrá desistirse de su demanda, mientras no haya sido emplazado a juicio el demandado, sin que por ello se le pueda fincar condena alguna. Una vez emplazado a juicio el demandado, el actor podrá desistirse de la instancia, pero requerirá para ello el consentimiento de aquél. Tanto el desistimiento de la demanda como el de la instancia, producirán el efecto de que las cosas vuelvan al estado que tenían hasta antes de la presentación de la demanda.
 
-(F. DE E., P.O. 15 DE ENERO DE 2001)(F. DE E., P.O. 23 DE FEBRERO DE 2001)
+(F. DE E., P.O. 15 DE ENERO DE 2001) (F. DE E., P.O. 23 DE FEBRERO DE 2001)
 
 El desistimiento de la pretensión extingue ésta, sin que para ello se requiera el consentimiento del demandado. El actor que se desista de la instancia o de la pretensión, será condenado a restituir al demandado los gastos y costas que hubiere legítimamente erogado, así como al pago de los daños y perjuicios que en su caso se le hubieren causado, salvo convenio en contrario.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 4 DE AGOSTO DE 2008)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 4 DE AGOSTO DE 2008)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(DEROGADO QUINTO PARRAFO, P.O. 4 DE AGOSTO DE 2008)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 4 DE AGOSTO DE 2008)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(DEROGADO SEXTO PARRAFO, P.O. 4 DE AGOSTO DE 2008)</small>
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 4 DE AGOSTO DE 2008)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
@@ -297,37 +297,37 @@ III. La conexidad por causa;
 
 IV. La falta de personalidad o capacidad en el actor;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2008)</small>
 
 V. La improcedencia de la vía;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2008)</small>
 
 VI. La falta de cumplimiento del plazo o de la condición a que esté sujeta la acción intentada;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2008)</small>
 
 VII. La división;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2008)</small>
 
 VIII. La excusión; y,
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2008)</small>
 
 IX. Las demás a que dieren ese carácter las leyes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
@@ -339,7 +339,7 @@ Sólo formarán artículo de previo pronunciamiento la incompetencia, la litispe
 
 La incompetencia puede promoverse por declinatoria o por inhibitoria que se substanciará conforme al Capítulo III Título III.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
@@ -2493,17 +2493,17 @@ VI. Declaraciones de testigos;
 
 VII. Fotografías, copias fotostáticas, registros dactiloscópicos, y, en general, todos aquellos elementos aportados por los descubrimientos de la ciencia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2009)</small>
 
-> <small>(DEROGADA [N. DE E. REUBICADA, ANTES FRACCION IX], P.O. 4 DE AGOSTO DE 2008)</small>
+VIII. Presunciones;
 
-VIII. Presunciones; y,
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2009)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+IX. En los casos de paternidad la pericial genética; y
 
-(REUBICADA [N. DE E. ANTES FRACCION X], P.O. 4 DE AGOSTO DE 2008)
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2009)</small>
 
-IX. Los demás medios que produzcan convicción en el juzgador.
+X. Los demás medios que produzcan convicción en el juzgador.
 
 ### CAPITULO III.
 
@@ -8144,6 +8144,12 @@ Artículo Tercero. Los procesos actualmente en trámite, al igual que los que te
 Artículo Cuarto. La ejecución de las sentencias ejecutoriadas dictadas a partir de la fecha de entrada en vigor del presente Decreto, inclusive, se regirán por éste.
 
 P.O. 28 DE NOVIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 5 DE JUNIO DE 2009.
 
 ###### ARTÍCULO ÚNICO.
 
