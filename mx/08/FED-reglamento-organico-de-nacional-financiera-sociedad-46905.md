@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-de-nacional-financiera-sociedad-46905"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-04-02"
-last_updated: "1991-04-02"
+last_updated: "2009-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46905&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-03-26"
 
 REGLAMENTO ORGANICO DE NACIONAL FINANCIERA SOCIEDAD NACIONAL DE CREDITO INSTITUCION DE BANCA DE DESARROLLO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JUNIO DE 2009.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 2 de abril de 1991.
 
@@ -71,11 +71,15 @@ La Sociedad tendrá duración indefinida.
 
 ### CAPITULO SEGUNDO. Del Capital Social
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 7o.
 
-El capital social de Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $ 950,000'000,000 (NOVECIENTOS CINCUENTA MIL MILLONES DE PESOS, M. N.).
+El capital social de Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $2,390'000,000.00 (dos mil trescientos noventa millones de pesos 00/100 M.N.).
 
-Dicho capital social estará representada por 12'540,000 (DOCE MILLONES QUINIENTOS CUARENTA MIL) certificados de aportación patrimonial de la Serie "A" con valor nominal de $ 50 000 (CINCUENTA MIL PESOS, M. N.) cada uno y por $ 6'460,000 (SEIS MILLONES CUATROCIENTOS SESENTA MIL) certificados de aportación patrimonial de la Serie "B" con valor nominal de $ 50,000 (CINCUENTA MIL PESOS, M. N.) cada uno.
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2009)</small>
+
+Dicho capital social estará representado por 31'548,000 (treinta y un millones quinientos cuarenta y ocho mil) certificados de aportación patrimonial de la serie “A” con valor nominal de $50.00 (cincuenta pesos 00/100 M.N.) cada uno y por 16'252,000 (dieciséis millones doscientos cincuenta y dos mil) certificados de aportación patrimonial de la serie “B”, con valor nominal de $50.00 (cincuenta pesos 00/100 M.N.) cada uno.
 
 El capital social podrá ser aumentado o reducido conforme a lo dispuesto por el artículo 38 de la Ley de Instituciones de Crédito, a propuesta del Consejo Directivo de la Sociedad, por Acuerdo de la Secretaría de Hacienda y Crédito Público y mediante reforma de este Reglamento.
 
@@ -398,3 +402,13 @@ El capital pagado de la Sociedad a la vigencia del presente Reglamento Orgánico
 Cuando el Gobierno Federal sea titular de la totalidad de certificados de aportación patrimonial de la Serie "B" de la Sociedad, la Secretaría de Hacienda y Crédito Público designará al Comisario correspondiente a esta Serie. Dicha designación será provisional y en cuanto estos certificados sean colocados por el Gobierno Federal entre tenedores distintos a éste, en una proporción no menor al 17% del capital pagado de la emisora, la Comisión Consultiva procederá en los términos del presente Reglamento Orgánico a la elección y designación del Comisario definitivo para el ejercicio social respectivo.
 
 El presente Reglamento Orgánico se expide en la Ciudad de México, Distrito Federal, a los 26 días del mes de marzo de 1991.- El Secretario de Hacienda y Crédito Público, Pedro Aspe.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 5 DE JUNIO DE 2009.
+
+PRIMERO.- El presente Acuerdo entra en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El capital pagado de la sociedad a la vigencia del presente Acuerdo ascenderá a la suma de $1,199'237,300.00 (un mil ciento noventa y nueve millones doscientos treinta y siete mil trescientos pesos 00/100 M.N.), el cual estará distribuido en 791'496,600.00 (setecientos noventa y un millones cuatrocientos noventa y seis mil seiscientos pesos 00/100 M.N.), representado por 15´829,932 (quince millones ochocientos veintinueve mil novecientos treinta y dos) certificados de aportación patrimonial de la serie "A" con un valor nominal de $50.00 (cincuenta pesos 00/100 M.N.) cada uno, y 407´740,700.00 (cuatrocientos siete millones setecientos cuarenta mil setecientos pesos 00/100 M.N.), representado por 8´154,814 (ocho millones ciento cincuenta y cuatro mil ochocientos catorce) certificados de aportación patrimonial de la serie "B" con valor nominal de $50.00 (cincuenta pesos 00/100 M.N.) cada uno.
+
+TERCERO.- De conformidad con lo establecido por el último párrafo del artículo 30 de la Ley de Instituciones de Crédito, Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, deberá inscribir en el Registro Público de Comercio, las modificaciones que por virtud del presente Acuerdo, se realicen a su Reglamento Orgánico.
