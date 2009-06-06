@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2008-08-28"
+last_updated: "2009-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -155,15 +155,17 @@ G. Las leyes determinarán la manera en que los sujetos obligados deberán hacer
 
 H. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2009)</small>
 
 XI. Los derechos sociales que a continuación se enuncian:
 
-1.- Toda mujer y su producto tienen derecho a la atención médica gratuita durante el periodo de embarazo y el parto.
+1.- Se reconoce, protege y garantiza el derecho a la vida de todo ser humano desde el momento de la fecundación natural o artificial y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural.
 
-2.- Los niños, las niñas y los adolescentes tienen derecho a vivir y crecer en forma saludable y normal en un nivel de vida adecuado para su desarrollo físico, mental afectivo, moral y social, en el seno de la familia, la escuela, la sociedad y las instituciones, así como a ser protegidos contra cualquier forma de maltrato, perjuicio, daño, agresión, abuso, o explotación, en condiciones de libertad, integridad y dignidad; por lo que las leyes que se promulguen para tal efecto, deben de atender al interés superior del menor.
+2.- Toda mujer y su producto tienen derecho a la atención médica gratuita durante el periodo de embarazo y el parto.
 
-3.- Todo individuo tiene derecho a recibir educación.
+3.- Los niños, las niñas y los adolescentes tienen derecho a vivir y crecer en forma saludable y normal en un nivel de vida adecuado para su desarrollo físico, mental afectivo, moral y social, en el seno de la familia, la escuela, la sociedad y las instituciones, así como a ser protegidos contra cualquier forma de maltrato, perjuicio, daño, agresión, abuso, o explotación. En condiciones de libertad, integridad y dignidad; por lo que las leyes que se promulguen para tal efecto, deben de atender al interés superior del menor.
+
+4.- Todo individuo tiene derecho a recibir educación.
 
 a) El estado y los municipios están obligados a impartir la educación básica y los padres de familia o tutores a enviar a sus hijos para que la reciban.
 
@@ -177,11 +179,11 @@ e) Los alumnos de todos los niveles de educación impartida por el estado y los 
 
 f) El estado reconoce la ciencia y la tecnología, como bases fundamentales del desarrollo estatal. Toda persona tiene derecho al conocimiento científico y tecnológico, así como al respeto de su diversidad cultural y a participar libremente en la vida cultural y artística de la comunidad.
 
-4.- Los adultos mayores tienen derecho a una vida con calidad; a la protección de su patrimonio, salud, alimentación, a la asistencia y seguridad social y a la igualdad de oportunidades, la ley protegerá esos derechos, sin restricción alguna. Las autoridades garantizarán el derecho de acceso gratuito a los servicios de salud.
+5.- Los adultos mayores tienen derecho a una vida con calidad; a la protección de su patrimonio, salud, alimentación, a la asistencia y seguridad social y a la igualdad de oportunidades, la ley protegerá esos derechos, sin restricción alguna. Las autoridades garantizarán el derecho de acceso gratuito a los servicios de salud.
 
-5.- El Estado garantizará la producción de alimentos, constituyéndose como áreas estratégicas del desarrollo la agricultura y el turismo.
+6.- El Estado garantizará la producción de alimentos, constituyéndose como áreas estratégicas del desarrollo, la agricultura y el turismo.
 
-6.- Los productores del campo, ganaderos y pescadores gozarán de un seguro de vida en los términos que disponga la Ley.
+7.- Los productores del campo, ganaderos y pescadores gozarán de un seguro de vida en los términos que disponga la Ley.
 
 > <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2008)</small>
 
@@ -1869,7 +1871,7 @@ Las sanciones económicas no podrán exceder de tres tantos de los beneficios ob
 
 No se requerirá declaración de procedencia del Congreso del Estado cuando alguno de los servidores públicos a que hace referencia el artículo 124 primer párrafo, cometa un delito durante el tiempo en que se encuentre separado de su encargo.
 
-Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados en el artículo 124 se procederá de acuerdo con lo dispuesto en dicho precepto.
+Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados en el artículo 124, se procederá de acuerdo con lo dispuesto en dicho precepto.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
@@ -2852,3 +2854,9 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado, remítase el presente Decreto a los Ayuntamientos de la entidad.
 
 Artículo Tercero.- El Poder Legislativo deberá en un término de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, dictar y adecuar las disposiciones normativas en virtud de la naturaleza de la presente reforma.
+
+P.O. 6 DE JUNIO DE 2009.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- Para los efectos del artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente decreto a los ayuntamientos de la entidad.
