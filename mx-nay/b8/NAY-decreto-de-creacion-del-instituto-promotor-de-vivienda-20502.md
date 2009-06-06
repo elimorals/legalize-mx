@@ -4,7 +4,7 @@ identifier: "NAY-decreto-de-creacion-del-instituto-promotor-de-vivienda-20502"
 country: "mx"
 rank: "decreto"
 publication_date: "1995-03-29"
-last_updated: "1995-03-29"
+last_updated: "2009-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 LA CREACION DEL INSTITUTO PROMOTOR DE VIVIENDA, DESARROLLO URBANO Y ECOLOGIA DE NAYARIT
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE VIVIENDA PARA EL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 6 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 29 de marzo de 1995
 
@@ -364,3 +366,19 @@ C. RIGOBERTO OCHOA ZARAGOZA.- Rúbrica
 El Secretario General de Gobierno,
 
 C.P. ANTONIO ECHEVARRIA DOMINGUEZ.- Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE JUNIO DE 2009.
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Se Abroga el decreto legislativo No. 7838 que crea el Instituto Promotor de la Vivienda, Desarrollo Urbano y Ecología de Nayarit, publicado el 29 de marzo de 1995, en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Tercero.- El Instituto Promotor de la Vivienda de Nayarit quedará constituido a partir de la entrada en vigor de la presente Ley, asumiendo las funciones e integrándose con la estructura orgánica, recursos financieros, materiales y humanos que actualmente tiene asignados el Instituto Promotor de la Vivienda, Desarrollo Urbano y Ecología de Nayarit.
+
+Artículo Cuarto.- Se dejan a salvo lo (sic) derechos adquiridos por los servidores públicos adscritos a la fecha en el Instituto Promotor de la Vivienda, Desarrollo Urbano y Ecología de Nayarit, garantizando su incorporación a la estructura orgánica del Instituto Promotor de la Vivienda de Nayarit.
+
+Artículo Quinto.- Los asuntos y procedimientos que a la fecha sean responsabilidad del Instituto Promotor de la Vivienda, Desarrollo Urbano y Ecología de Nayarit, pasarán al Instituto Promotor de la Vivienda de Nayarit, para su turno, solución o resolución, atendiendo a las atribuciones que por motivo del presente decreto se le hubieren conferido.
+
+Artículo Sexto.- En un plazo no mayor de 180 días naturales deberá adecuarse la normatividad y reglamentación vigente en materia de desarrollo urbano y vivienda preponderando en todo momento la promoción y estímulo para la generación de vivienda básica, económica, progresiva, de interés social y popular.
