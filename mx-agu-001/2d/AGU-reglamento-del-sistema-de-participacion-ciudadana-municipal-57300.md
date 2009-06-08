@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-sistema-de-participacion-ciudadana-municipal-573
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-15"
-last_updated: "2008-10-20"
+last_updated: "2009-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO DEL SISTEMA DE PARTICIPACION CIUDADANA MUNICIPAL DE AGUASCALIENTES, AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 2009.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 15 de octubre de 2007.
 
@@ -525,11 +525,67 @@ Corresponde a las Delegaciones Municipales propiciar el espacio físico, así co
 
 Corresponde a éstas instancias dar prioridad en la atención a las demandas promovidas por los Comités de Colonos y a las de la ciudadanía en general cuando no exista Comité de Colonos en su comunidad, colonia o fraccionamiento.
 
-### CAPITULO XVI. Prohibiciones y sanciones
+### CAPITULO XV BIS. Del Consejo Técnico Ciudadano de Salud del Municipio de Aguascalientes
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2009)</small>
+
+ARTICULO 56 (SIC) BIS.- El Municipio de Aguascalientes contará con un Consejo Técnico Ciudadano de Salud, mismo que es el órgano colegiado, consultivo e imparcial encargado de realizar estudios para el cuidado de la salud de los habitantes del Municipio, así como la prevención de enfermedades. Además, el Consejo es el organismo encargado de analizar los riesgos de salud, con el fin de evitar que dichos riesgos no se conviertan en un problema de salud pública. Los integrantes del Consejo serán renovados al inicio de cada Administración Municipal, de acuerdo al procedimiento que establezca el H. Ayuntamiento en funciones.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2009)</small>
+
+ARTICULO 56 TER.- El Consejo Técnico Ciudadano de Salud del Municipio de Aguascalientes estará integrado por:
+
+I.- Un Presidente, que será el Presidente Municipal o el funcionario público municipal designado directamente por éste, mismo que tendrá voto de calidad, en caso de empate.
+
+II.- El Titular de la Oficina Ejecutiva del Presidente Municipal.
+
+III.- El Titular de la Coordinación General de Delegaciones.
+
+IV.- El Titular de la Coordinación General de Comunicación Social.
+
+V.- Trece médicos de reconocida trayectoria, mismos que serán nombrados
+
+por el Presidente Municipal, previa invitación de éste.
+
+El Presidente, el Secretario Técnico y cada uno de los vocales tendrán voz y voto y designarán a un suplente. Los anteriores cargos son honoríficos y no percibirán retribución alguna por sus funciones. Todos los cargos durarán en función un año y deberán de tomar la protesta de Ley correspondiente.
+
+El Secretario Técnico será nombrado por el Presidente, de entre los integrantes del Consejo. A partir de su nombramiento, el Secretario Técnico deberá ser el encargado de realizar la citación del Consejo cuando así lo considere conveniente el Presidente.
+
+El Consejo sesionará cuando fuese necesario, previa convocatoria por el Secretario Técnico. Las sesiones del Comité podrán realizarse con la asistencia de, por lo menos, la mitad de sus integrantes y sus decisiones serán válidas cuando se tomen por mayoría de votos de los presentes.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2009)</small>
+
+ARTICULO 56 QUARTER.- El Consejo Técnico Ciudadano de Salud del Municipio de Aguascalientes tendrá las siguientes facultades y obligaciones:
+
+I. Proponer y evaluar los estudios e investigaciones necesarias para el cuidado de la salud de los habitantes del Municipio.
+
+II. Proponer, elaborar y evaluar planes de prevención, contingencia, y combate de enfermedades, especialmente aquellas trasmisibles que pudieran llegar a generar una epidemia, que presenten un problema de salud pública.
+
+III. Proponer y evaluar planes y programa de salud pública, en el ámbito de competencia municipal, así como tomar las medidas necesarias para hacer frente a posibles enfermedades transmisibles.
+
+IV. Participar, en conjunto con la Coordinación General de Comunicación Social, en la difusión de las medidas preventivas y de combate necesarias para hacer frente a las contingencias sanitarias que se presenten en el Municipio.
+
+V. Proponer campañas de prevención a favor de la salud.
+
+VI. Celebrar convenios de coordinación con otros organismos estatales o federales dirigidos a la prevención, combate y control de contingencias sanitarias.
+
+VII. Las demás que determine el Presidente Municipal, conforme al presente Reglamento y demás disposiciones jurídicas aplicables.
 
 ###### ARTICULO 58.
 
 Las Dependencias y Delegaciones Municipales deberán coadyuvar en la promoción del desarrollo integral y en el fomento de la participación ciudadana con los recursos materiales y humanos que sea posible.
+
+### CAPITULO XVI. Prohibiciones y sanciones
+
+ARTICULO 63 (SIC).- Conforme el artículo 8º del Reglamento interno del Sistema de Participación Ciudadana Municipal, el carácter de los órganos del Sistema es apartidista por lo tanto deberán sujetarse a las disposiciones siguientes:
+
+I. No estarán afiliados a ningún partido político.
+
+II. No realizará actividades proselitistas en favor de algún partido político o candidato.
+
+III. No condicionará con fines partidistas los apoyos asistenciales municipales.
+
+IV. No condicionará la participación de la persona en los órganos del sistema por su filiación partidista.
 
 ###### ARTICULO 59.
 
@@ -546,6 +602,8 @@ Los Organismos Intermedios existentes en el Municipio, participarán en las sesi
 ###### ARTICULO 62.
 
 Para lo estipulado en el Artículo 49 y 52 de este ordenamiento, mediará invitación expresa de parte de la Autoridad Municipal y/o del Comité de Colonos de que se trate y sólo tendrán derecho a voz.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 63.
 
@@ -600,3 +658,13 @@ P.O. 20 DE OCTUBRE DE 2008.
 PRIMERO.- El presente decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Toda disposición legal vigente que haga referencia a la integración del Consejo de Desarrollo Municipal incluirá, dentro del mismo, al Regidor Presidente de la Comisión de Obras Públicas y el Regidor Presidente de la Comisión de Desarrollo Social.
+
+P.O. 8 DE JUNIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Consejo Técnico Ciudadano de Salud del Municipio de Aguascalientes deberá quedar conformado, a más tardar, a los quince días naturales siguientes a la entrada en vigor del presente Decreto.
