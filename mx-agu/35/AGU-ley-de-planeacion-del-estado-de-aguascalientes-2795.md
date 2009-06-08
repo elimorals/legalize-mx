@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-planeacion-del-estado-de-aguascalientes-2795"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-04"
-last_updated: "2005-08-08"
+last_updated: "2009-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY DE PLANEACION DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PLANEACION DEL DESARROLLO ESTATAL Y REGIONAL DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 8 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 4 de enero de 1987.
 
@@ -404,3 +406,33 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
+
+P.O. 8 DE JUNIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigencia a los noventa días naturales siguientes a su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+A la vigencia de la presente Ley, se abroga la Ley de Planeación del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de fecha 4 de enero de 1987.
+
+###### ARTÍCULO TERCERO.
+
+A la vigencia de la presente Ley, se abroga la Ley del Comité de Planeación para el Desarrollo del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de fecha 17 de julio de 2000.
+
+###### ARTÍCULO CUARTO.
+
+El Reglamento de la presente Ley, deberá expedirse dentro de un plazo no mayor a 180 días naturales siguientes a la fecha en que esta Ley entre en vigencia.
+
+###### ARTÍCULO QUINTO.
+
+Para el Capítulo IX de la presente Ley, habrá de expedirse un Reglamento del Sistema Estatal de Seguimiento y Evaluación dentro de un plazo no mayor a 300 días naturales siguientes a la fecha en que esta Ley entre en vigencia.
+
+###### ARTÍCULO SEXTO.
+
+El Plan de Largo Plazo para el Desarrollo del Estado y el Programa Estatal de Ordenamiento Ecológico Territorial referidos en la presente Ley, deberán ser aprobados y publicados en el Periódico Oficial del Estado en un plazo no mayor a 300 días siguientes a la fecha de la entrada en vigencia de la presente Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las normas establecidas, respecto de los Indicadores y evaluación del Plan Sexenal de Gobierno, entrarán en vigencia el 1° de enero del año 2011.
