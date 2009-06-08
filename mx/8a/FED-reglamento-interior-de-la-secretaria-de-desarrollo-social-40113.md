@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-desarrollo-social-40113
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-19"
-last_updated: "2006-07-11"
+last_updated: "2009-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40113&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-07-14"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE JUNIO DE 2009.
 
 Reglamento publicado en la Sección Primera del Diario Oficial de la Federación, el lunes 19 de julio de 2004.
 
@@ -1275,6 +1275,46 @@ La Coordinación Nacional del Programa de Desarrollo Humano Oportunidades, como 
 
 La Coordinación Nacional del Programa de Desarrollo Humano Oportunidades, de conformidad con su decreto de creación, contará para el ejercicio de sus atribuciones con un Consejo, un Coordinador Nacional designado por el Presidente de la República, un Comité Técnico y con las Direcciones Generales y demás unidades administrativas necesarias para cumplir con su objeto y que sean aprobadas en su presupuesto, cuyo titular tendrá las atribuciones que le confiere el artículo 9o. del Decreto referido en el artículo anterior.
 
+> <small>(ADICIONADO, D.O.F. 8 DE JUNIO DE 2009)</small>
+
+En cumplimiento de los programas a su cargo, este órgano administrativo desconcentrado contará con Delegaciones en las entidades federativas, al frente de las cuales habrá un Coordinador, quien será designado por el Secretario, de conformidad con la normatividad aplicable.
+
+> <small>(ADICIONADO, D.O.F. 8 DE JUNIO DE 2009)</small>
+
+Artículo 43 bis. Las Delegaciones de la Coordinación Nacional del Programa de Desarrollo Humano Oportunidades, tendrán las siguientes atribuciones:
+
+I. Dirigir las acciones del programa para proporcionar la atención, orientación y capacitación a las familias y a las figuras que participan en el programa;
+
+II. Proponer al Coordinador Nacional y a la Dirección General de Atención y Operación, las acciones de mejora y medidas correctivas que permitan optimizar el funcionamiento del programa y cumplir los objetivos planteados;
+
+III. Aplicar y coordinar los sistemas de recolección, procesamiento, análisis, supervisión y evaluación de información de las familias beneficiarias;
+
+IV. Coordinar acciones interinstitucionales orientadas a vigilar el cumplimiento de los compromisos que adquieran las familias beneficiarias sobre cada uno de los componentes del programa;
+
+V. Promover el sistema de orientación y quejas del programa, en la región y entre las familias beneficiarias a fin de atender y solucionar todos los cuestionamientos realizados;
+
+VI. Garantizar la confianza, responsabilidad y manejo apartidista e institucional para un adecuado cumplimiento de los objetivos de la misión del programa, dado que sus efectos inciden e influyen directamente en lo económico, político y social de la entidad federativa;
+
+VII. Asegurar que las acciones de concertación y vinculación interinstitucional garanticen la atención a las familias beneficiarias del programa;
+
+VIII. Dirigir y coordinar los mecanismos para la entrega oportuna de los apoyos a las familias beneficiarias;
+
+IX. Promover la coordinación con los gobiernos de los estados y municipios, con instituciones de educación superior y de investigación, así como con los sectores social y privado para el cumplimiento de los objetivos del programa;
+
+X. Participar y dar seguimiento a las sesiones del Comité Técnico Estatal a fin de contar permanentemente con información;
+
+XI. Verificar que el ejercicio de los recursos asignados para la operación del programa en la entidad federativa se realice con absoluta transparencia en apoyo al desarrollo efectivo de los procesos operativos y que garantice el cumplimiento de las metas programadas;
+
+XII. Asegurar que el ejercicio, aplicación y resguardo de los recursos asignados a la coordinación estatal se lleve a cabo de acuerdo a la normatividad aplicable;
+
+XIII. Participar en la selección y valoración del personal que estará a su cargo;
+
+XIV. Dirigir, capacitar, coordinar y supervisar el personal a su cargo para cumplir con los objetivos del área;
+
+XV. Mantener permanentemente informado al Coordinador Nacional y a la Dirección General de Atención y Operación, de todos los asuntos inherentes a la Delegación Estatal, y
+
+XVI. Realizar las demás actividades que señalen la Coordinación Nacional, la Dirección General de Atención y Operación, las disposiciones jurídicas aplicables y las necesarias para el cumplimiento de su objeto.
+
 ### CAPÍTULO X. DE LAS DELEGACIONES DE LA SECRETARÍA EN LAS ENTIDADES FEDERATIVAS
 
 ###### Artículo 44.
@@ -1396,3 +1436,7 @@ TERCERO.- El personal y los recursos materiales y financieros que fueren necesar
 CUARTO.- Las modificaciones que se lleven a cabo por este Decreto a la estructura orgánica de la Secretaría de Desarrollo Social deberán realizarse mediante movimientos compensados, sin que representen incremento alguno en el presupuesto regularizable de servicios personales aprobado para dicha dependencia en el ejercicio fiscal del año en curso y subsecuentes.
 
 QUINTO.- Se derogan todas aquellas disposiciones administrativas que contravengan lo establecido en el presente Decreto.
+
+D.O.F. 8 DE JUNIO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
