@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-ascensos-y-recompensas-del-ejercito-401
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-19"
-last_updated: "2004-07-19"
+last_updated: "2009-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40114&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-07-13"
 
 REGLAMENTO DE LA LEY DE ASCENSOS Y RECOMPENSAS DEL EJERCITO Y FUERZA AEREA MEXICANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE JUNIO DE 2009.
 
 Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el lunes 19 de julio de 2004.
 
@@ -823,555 +823,403 @@ Se entiende por proceso de evaluación a las actividades que realiza la Comisió
 
 La evaluación de los participantes se llevará a cabo atendiendo preferentemente al mérito, aptitud y competencia profesionales, materializadas en cuatro áreas fundamentales: objetiva, de análisis y consulta, de salud y de capacidad física.
 
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 92.
 
-En el área objetiva se consolidará la puntuación que se obtenga de la revisión del expediente de cada uno de los participantes. Estos aspectos, definidos y fácilmente mensurables, serán insertados en el formato de la hoja individual denominada "Puntuación Objetiva" del sistema computarizado de la Promoción Superior, la cual considerará los siguientes parámetros:
+En el área objetiva se consolidará la puntuación que se obtenga de la revisión del expediente de cada uno de los participantes. Estos aspectos, definidos y fácilmente mensurables, serán insertados en el formato de la hoja individual denominada “Puntuación objetiva” del sistema computarizado de la Promoción Superior, la cual considerará los siguientes parámetros:
 
 I. Aspectos positivos:
 
 A. Ascensos, tiempo de servicios y antigüedad en el empleo:
 
-a. Se otorgarán puntos a los participantes que hayan obtenido sus ascensos en primera, segunda y tercera oportunidad en la Promoción General y Especial, adicionando puntos a los que ocuparon los tres primeros lugares en las referidas Promociones.
+a. Se otorgarán 10 puntos a los participantes por cada ascenso que hayan tenido desde Teniente a Teniente Coronel.
 
-b. Se asignará puntuación por la antigüedad en el Grado que tenga el participante al momento de la evaluación y por el total del tiempo de servicios prestados en el Ejército y Fuerza Aérea Mexicanos, según la tabla siguiente:
+b. Se asignará puntuación por la antigüedad en el grado que tenga el participante al momento de la evaluación, en función de su oportunidad de participación, y por el total del tiempo de servicios prestados en el Ejército y Fuerza Aérea Mexicanos, de acuerdo a los siguientes valores de referencia:
 
-ASCENSOS, TIEMPO DE PUNTOS
+OPORTUNIDAD
 
-SERVICIOS Y ANTIGÜEDAD
+DE PARTICIPACIÓN PUNTOS
 
-EN EL EMPLEO
+1/A. 0
 
-ASCENSO A TENIENTE 10
+2/A. 3
 
-EN 1/a. OPORTUNIDAD
+ANTIGÜEDAD EN EL GRADO 3/A. 6
 
-ASCENSO A TENIENTE EN 7
+4/A. Ó MÁS 9
 
-1/er. LUGAR
+AÑOS
 
-ASCENSO A CAPITÁN 2/o. 2.5
+(CASO DE UN
 
-EN 3/a. OPORTUNIDAD
+GENERAL DE
 
-ASCENSO A CAPITÁN 2/o. EN 6
+BRIGADA O DE ALA) PUNTOS
 
-2/o. LUGAR
+35 0
 
-ASCENSO A CAPITÁN 1/o. EN 5
+36 2
 
-2/a. OPORTUNIDAD
+TIEMPO DE SERVICIOS 37 4
 
-ASCENSO A CAPITÁN 1/o. EN 3
+38 Ó MÁS 6
 
-5/o. LUGAR
-
-ASCENSO A MAYOR EN 0
-
-4/a. OPORTUNIDAD
-
-ASCENSO A TENIENTE CORONEL 10
-
-EN 1/a. OPORTUNIDAD
-
-ASCENSO A TENIENTE CORONEL 4
-
-EN 4/o. LUGAR
-
-ASCENSO A CORONEL 0
-
-ASCENSO A GENERAL BRIGADIER -20
-
-FUERA DE PROMOCIÓN
-
-ASCENSO A GENERAL DE BRIGADA 0
-
-OPORTUNIDAD DE PARTICIPACIÓN 0 (EN
-
-(1/a. OPORTUNIDAD, 4 AÑOS, 2/a., 3,
-
-0 PUNTOS) 3/a., 6,
-
-4/a., 9)
-
-TIEMPO DE SERVICIOS EN LA 0 (36,
-
-CARRERA (GENERAL DE BRIGADA 2; 37, 4;
-
-PUNTOS)
-
-35 AÑOS, 0
-
-38 O MÁS, 6)
-
-TOTAL DE PUNTOS POR 27.5
-
-ASCENSOS, TIEMPO DE
-
-SERVICIOS Y ANTIGÜEDAD
-
-EN EL EMPLEO
-
-c. Serán restados los puntos correspondientes por cada ascenso que el participante haya obtenido fuera de Promoción o sin tener la antigüedad en el Grado que establece como requisito para cada jerarquía la Ley, con excepción de los otorgados conforme a lo establecido en su artículo 31.
+c. Serán restados 20 puntos por cada ascenso que el participante haya obtenido fuera de promoción o sin tener la antigüedad en el grado que la Ley establece como requisito para cada jerarquía, con excepción de los otorgados conforme a lo establecido en el artículo 31 de la misma.
 
 B. Cargos y comisiones desempeñados:
 
-Se calificarán los cargos que el participante haya desempeñado en las Unidades, Dependencias e Instalaciones del Ejército y Fuerza Aérea, variando la puntuación de acuerdo con el nivel de responsabilidad del cargo o comisión y el período desempeñado, desde la jerarquía de Subteniente hasta la que tenga al momento de la evaluación, como a continuación se indica:
+Se calificarán los cargos que el participante haya desempeñado en las unidades, dependencias e instalaciones del Ejército y Fuerza Aérea, variando la puntuación de acuerdo con el nivel de responsabilidad del cargo o comisión y el periodo desempeñado, desde la jerarquía de Subteniente hasta la que tenga al momento de la evaluación, de acuerdo a los siguientes valores de referencia:
 
-CARGOS Y AÑOS PUNTOS
+CARGOS Y COMISIONES
 
-COMISIONES
-
-DESEMPEÑADOS
+DESEMPEÑADOS AÑOS PUNTOS
 
 CADETE 4 0
 
-ENCUADRADO 2 19.006
+ENCUADRADO EN UNIDADES 2 19.006
 
-EN UNIDADES
+INSTRUCTOR DE MATERIAS TÁCTICAS 1 10.9865
 
-INSTRUCTOR DE 1 10.9865
+OFICIAL ESTUDIANTE EN
 
-MATERIAS TÁCTICAS
+PLANTEL NACIONAL 3 29.9208
 
-OFICIAL ESTUDIANTE 3 29.9208
+COMANDANTE DE COMPAÑÍA,
 
-EN PLANTEL
+ESCUADRÓN O BATERÍA 2 32.923
 
-NACIONAL
+JEFE DE SECCIÓN DE ESTADO
 
-COMANDANTE DE 2 32.923
+MAYOR DE BRIGADA, CUERPO
 
-COMPAÑÍA, ESCUADRÓN
+DE EJÉRCITO, ZONA O REGIÓN
 
-O BATERÍA
+MILITAR 1 19.032
 
-JEFE DE SECCIÓN DE 1 19.032
-
-ESTADO MAYOR DE
-
-BRIGADA, CUERPO DE
-
-EJÉRCITO, ZONA O
-
-REGIÓN MILITAR
-
-JEFE DE SECCIÓN DE 3 52.4505
+JEFE DE SECCIÓN DE
 
 INSTRUCCIÓN, INFORMACIÓN
 
-Y OPERACIONES O SECCIÓN
+Y OPERACIONES, O SECCIÓN
 
-DE PERSONAL, ABASTECIMIENTO
+DE PERSONAL, ABASTECIMIENTOS
 
-Y AYUDANTÍA
+Y AYUDANTÍA 3 52.4505
 
-AYUDANTE GENERAL 1 23.0214
+AYUDANTE GENERAL DEL
 
-DEL ALTO MANDO
+ALTO MANDO 1 23.0214
 
-SUBJEFE DE ESTADO 3 62.9625
+SUBJEFE DE ESTADO MAYOR
 
-MAYOR DE ZONA MILITAR
+DE ZONA MILITAR 3 62.9625
 
 AGREGADO MILITAR ADJUNTO 2 42.0325
 
-JEFE DE SUBSECCIÓN 3 63.02
+JEFE DE SUBSECCIÓN DEL
 
-DEL ESTADO MAYOR
+ESTADO MAYOR DE LA DEFENSA
 
-DE LA DEFENSA NACIONAL
+NACIONAL 3 63.02
 
-COMANDANTE 4 86.0529
+COMANDANTE DE CORPORACIÓN 4 86.0529
 
-DE CORPORACIÓN
+AYUDANTE GENERAL DEL
 
-AYUDANTE GENERAL 2 40.004
+HEROICO COLEGIO MILITAR 2 40.004
 
-DEL HEROICO
+GENERAL EN INSTRUCCIÓN
 
-La Comisión de Evaluación podrá determinar la puntuación para los cargos o comisiones no referidos en la tabla anterior, considerando el nivel de responsabilidad y período de desempeño.
+EN EL COLEGIO DE DEFENSA
+
+NACIONAL 1 16.9725
+
+JEFE DE SECCIÓN DEL ESTADO
+
+MAYOR DE LA DEFENSA NACIONAL 2 48.0267
+
+COMANDANTE DE GUARNICIÓN 2 46.939
+
+COMANDANTE DE ZONA MILITAR 3 75.076
+
+AGREGADO MILITAR TITULAR 2 46.053
+
+La Comisión de Evaluación podrá determinar la puntuación para los cargos o comisiones no referidos en la tabla anterior, considerando el nivel de responsabilidad y el periodo de desempeño.
 
 C. Preparación profesional:
 
-a. De conformidad con el artículo 8, fracción V, de la Ley, se considerarán los cursos de formación, de aplicación, capacitación, actualización, de especialización, de perfeccionamiento o superiores, los cuales se especifican en el Plan General de Educación Militar;
+a. De conformidad con el artículo 8, fracción V de la Ley, se considerarán los cursos de formación, aplicación, capacitación, actualización, especialización, perfeccionamiento o superiores, los cuales se especifican en el Plan General de Educación Militar.
 
-b. También se tomarán en cuenta los cursos de capacitación; perfeccionamiento o superiores realizados en el País o en el extranjero, siempre y cuando en ambos casos se relacionen con el Arma, Servicio o Especialidad de quien los efectúe. Respecto a los cursos civiles, éstos deberán encontrarse registrados en la Dirección General de Educación Militar y Rectoría del Ejército y Fuerza Aérea;
+b. También se tomarán en cuenta los cursos de capacitación, perfeccionamiento o superiores realizados en el país o en el extranjero, siempre y cuando en ambos casos se relacionen con el arma, servicio o especialidad de quien los efectúe. Respecto a los cursos civiles, éstos deberán encontrarse registrados en la Dirección General de Educación Militar y Rectoría del Ejército y Fuerza Aérea.
 
-c. Asimismo, se otorgarán puntos adicionales al personal que acredite haber obtenido uno de los tres primeros lugares en cursos nacionales o en el extranjero, como se describe a continuación:
+c. Asimismo, se otorgarán puntos adicionales al personal que acredite haber obtenido uno de los tres primeros lugares en cursos nacionales o en el extranjero.
+
+Todo lo anterior, de acuerdo a los siguientes valores de referencia:
 
 PREPARACIÓN PROFESIONAL PUNTOS
 
-CURSO DE FORMACIÓN DE OFICIALES 10
+CURSO DE FORMACIÓN DE 10
 
-1/er. LUGAR CURSO DE FORMACIÓN 5
+OFICIALES
 
-DE OFICIALES
+PRIMER LUGAR EN EL CURSO DE 5
 
-INTERRUPCIÓN DE CURSO DE APLICACIÓN -5
+FORMACIÓN DE OFICIALES
 
 CURSO DE APLICACIÓN O CAPACITACIÓN 7
 
-PERFECCIONAMIENTO DEL 9
+PERFECCIONAMIENTO DEL CURSO 9
 
-CURSO SUPERIOR DE LAS ARMAS
+SUPERIOR DE LAS ARMAS Y SERVICIOS
 
-Y SERVICIOS
+CURSO DE ACTUALIZACIÓN (DE LOS 7
 
-CURSO DE ACTUALIZACIÓN; 7
+IMPARTIDOS EN EL CENTRO DE
 
-LOS IMPARTIDOS EN EL CENTRO
+ESTUDIOS DEL EJÉRCITO Y FUERZA AÉREA)
 
-DE ESTUDIOS DEL EJÉRCITO Y
+CURSOS SUPERIORES: DE MANDO Y ESTADO 30
 
-FUERZA AÉREA
+MAYOR; MÉDICO MILITAR; MILITAR DE
 
-CURSOS SUPERIORES: DE MANDO 30
-
-Y ESTADO MAYOR; MÉDICO MILITAR;
-
-MILITAR DE INGENIEROS; MILITAR DE
-
-ODONTOLOGÍA; INGENIEROS EN
-
-TRANSMISIONES MILITARES,
-
-Y METEORÓLOGO
-
-2/o. LUGAR CURSO SUPERIOR DE MANDO 4
-
-Y ESTADO MAYOR, MÉDICO MILITAR DE
-
-INGENIEROS, MILITARES DE ODONTOLOGÍA,
+INGENIEROS; MILITAR DE ODONTOLOGÍA;
 
 INGENIEROS EN TRANSMISIONES MILITARES,
 
-Y METEORÓLOGOS
+Y METEORÓLOGO
 
-CURSO MILITAR EN EL EXTRANJERO 7
+SEGUNDO LUGAR EN EL CURSO SUPERIOR 4
 
-DE APLICACIÓN, CAPACITACIÓN,
+DE MANDO Y ESTADO MAYOR; MÉDICO
 
-ACTUALIZACIÓN Y DE ESPECIALIZACIÓN
+MILITAR; MILITAR DE INGENIEROS;
 
-CURSO MILITAR EN EL EXTRANJERO 0
+MILITAR DE ODONTOLOGÍA; INGENIEROS
 
-DE PERFECCIONAMIENTO
+EN TRANSMISIONES MILITARES, Y METEORÓLOGO
 
-INTERRUMPIDO POR ORDEN SUPERIOR
+CURSO MILITAR EN EL EXTRANJERO DE 7
 
-CURSO MILITAR EN EL EXTRANJERO 8
+APLICACIÓN, CAPACITACIÓN, ACTUALIZACIÓN
 
-DE PERFECCIONAMIENTO DE
+Y ESPECIALIZACIÓN
 
-ESTADO MAYOR
+CURSO MILITAR EN EL EXTRANJERO DE 8
 
-CURSO MILITAR EN EL EXTRANJERO 15
+PERFECCIONAMIENTO DE ESTADO MAYOR
 
-SUPERIOR DE LICENCIATURA, MAESTRÍA
+CURSO MILITAR SUPERIOR EN EL 15
+
+EXTRANJERO DE LICENCIATURA, MAESTRÍA
 
 Y DOCTORADO, ESTADO MAYOR CONJUNTO
 
 Y COLEGIO DE DEFENSA
 
-3/er. LUGAR CURSO MILITAR 3
+TERCER LUGAR EN EL CURSO MILITAR 3
 
-EN EL EXTRANJERO
+SUPERIOR EN EL EXTRANJERO
 
-CURSOS DE ESPECIALIZACIÓN: 15
+CURSOS DE ESPECIALIZACIÓN: CURSO 15
 
-CURSO SUPERIOR DE GUERRA,
+SUPERIOR DE GUERRA, ESPECIALIDADES
 
-ESPECIALIDADES MÉDICAS DE LA
+MÉDICAS DE LA ESCUELA MILITAR DE
 
-ESCUELA MILITAR DE GRADUADOS
+GRADUADOS DE SANIDAD
 
-DE SANIDAD
+ESTUDIOS CIVILES PARA CAPACITACIÓN, 5
 
-ESTUDIOS CIVILES: 5
+ACTUALIZACIÓN, TÉCNICOS O DE
 
-CAPACITACIÓN O ACTUALIZACIÓN; DE
+ESPECIALIZACIÓN
 
-TÉCNICO O ESPECIALIZACIÓN
-
-ESTUDIOS CIVILES DE LICENCIADO 10
+ESTUDIOS CIVILES DE LICENCIATURA 10
 
 O POSGRADO
 
-CURSO DE ADMINISTRACIÓN 20
+CURSO DE ADMINISTRACIÓN PARA 20
 
-PARA LA SEGURIDAD Y DEFENSA
+LA SEGURIDAD Y DEFENSA NACIONALES
 
-NACIONALES O CURSO DE MANDO
+O CURSO DE MANDO SUPERIOR DE
 
-SUPERIOR DE SEGURIDAD NACIONAL
+SEGURIDAD NACIONAL DEL CENTRO
 
-DEL CENTRO DE ESTUDIOS
+DE ESTUDIOS SUPERIORES NAVALES
 
-SUPERIORES NAVALES
-
-TOTAL DE PUNTOS POR 150
-
-PREPARACIÓN PROFESIONAL
-
-d. Por otra parte, se restarán los puntos correspondientes por los aplazamientos de cursos o cuando éstos no sean finalizados por causas no imputables a la Secretaría.
+d. Por otra parte, se restarán 5 puntos por las renuncias a los cursos designados por la Secretaría.
 
 D. Recompensas militares:
 
-Serán tomadas en cuenta las recompensas Militares Nacionales, atendiendo al heroísmo, capacidad profesional, servicios a la Patria y demás hechos meritorios de los participantes previstas en la Ley, otorgándose valores para las Condecoraciones de Perseverancia, Valor Heroico, Mérito Militar, Técnico, Facultativo, Docente, Deportivo, en la Campaña Contra el Narcotráfico, Servicios Distinguidos, Condecoraciones, Menciones Honoríficas, Distinciones y Citaciones, de la siguiente forma:
+Serán tomadas en cuenta las recompensas militares nacionales previstas en la Ley, atendiendo al heroísmo, capacidad profesional, servicios a la patria y demás hechos meritorios de los participantes, otorgándose puntos para las Condecoraciones de Perseverancia; Valor Heroico; Mérito Militar, Técnico, Facultativo, Docente, Deportivo, y en la Campaña Contra el Narcotráfico; de Servicios Distinguidos; de la Legión de Honor; Menciones Honoríficas; Distinciones, y Citaciones, de acuerdo a los siguientes valores de referencia:
 
 RECOMPENSAS MILITARES PUNTOS
 
-PERSEVERANCIA 5/a. CLASE 1
+PERSEVERANCIA, 5/A. CLASE 1
 
-PERSEVERANCIA 4/a. CLASE 2
+PERSEVERANCIA, 4/A. CLASE 2
 
-PERSEVERANCIA 3/a. CLASE 3
+PERSEVERANCIA, 3/A. CLASE 3
 
-PERSEVERANCIA 2/a. CLASE 4
-
-PERSEVERANCIA 1/a. CLASE 5
-
-LEGIÓN DE HONOR 1.5
+PERSEVERANCIA, 2/A. CLASE 4
 
 MÉRITO MILITAR 1.75
 
-PERSEVERANCIA ESPECIAL (35 AÑOS) 6
+MÉRITO EN LA CAMPAÑA
+
+CONTRA EL NARCOTRÁFICO,
+
+1/A. CLASE 1.75
+
+LEGIÓN DE HONOR 1.5
+
+SERVICIOS DISTINGUIDOS 1.5
 
 DISTINCIONES 1
 
 CITACIONES 1
 
-TOTAL DE PUNTOS POR 26.25
-
-RECOMPENSAS MILITARES
-
 II. Aspectos negativos:
 
 A. Correctivos disciplinarios:
 
-Los correctivos impuestos en toda la carrera militar se sancionarán con puntos negativos, tomando en cuenta la jerarquía que tenía el participante al momento de cometer la infracción, de la siguiente forma:
+Los correctivos impuestos durante los últimos seis años de la carrera del militar, incluyendo aquél en que participe en la Promoción Superior, serán calificados con puntos negativos por día en el caso de los arrestos o por evento cuando se trate de amonestaciones, de acuerdo a los siguientes valores de referencia:
 
-CORRECTIVOS DÍAS PUNTOS
+CORRECTIVOS DISCIPLINARIOS PUNTOS
 
-DISCIPLINARIOS
+ARRESTO DE MAYOR -0.120
 
-ARRESTO DE CAPITÁN 1° 3 - 0.15
+ARRESTO DE CORONEL -0.280
 
-ARRESTO DE MAYOR 1 - 0.12
+ARRESTO DE GENERAL
 
-ARRESTO DE 1 - 0.165
+BRIGADIER O DE GRUPO -0.425
 
-TENIENTE CORONEL
+AMONESTACIÓN DE CORONEL -0.140
 
-ARRESTO DE CORONEL 1 - 0.28
+AMONESTACIÓN DE GENERAL
 
-ARRESTO DE 10 - 4.25
+BRIGADIER O DE GRUPO -0.212
 
-GENERAL BRIGADIER
+AMONESTACIÓN DE
 
-ARRESTO DE GENERAL 1 - 0.50
-
-DE BRIGADA
-
-TOTAL DE PUNTOS -5.465
-
-NEGATIVOS POR
-
-CORRECTIVOS DISCIPLINARIOS
+GENERAL DE BRIGADA O DE ALA -0.250
 
 B. Procesos penales:
 
-a. Los procesos penales se sancionarán conforme a la jerarquía que ostentaba el participante en el momento de cometer el ilícito y de acuerdo con las resoluciones del Juez o los Tribunales Militares, otorgando puntuación negativa por cada retiro de acción penal o sentencia condenatoria, de la siguiente manera:
+a. Los procesos penales se sancionarán conforme a la jerarquía que ostentaba el participante en el momento de cometer el ilícito y de acuerdo con las resoluciones del juez o los tribunales militares, otorgando puntuación negativa por cada retiro de acción penal o sentencia condenatoria, de acuerdo a los siguientes valores de referencia:
 
 PROCESOS PENALES PUNTOS
 
-TENIENTE: ABSUELTO 0
+TENIENTE CORONEL,
 
-DEL PROCESO
+CON RETIRO DE LA ACCIÓN PENAL -10.45
 
-TENIENTE CORONEL: -10.45
+CORONEL, CON SENTENCIA
 
-CON RETIRO DE LA ACCIÓN PENAL
+CONDENATORIA -10.50
 
-CORONEL: CON -10.50
+GENERAL DE BRIGADA
 
-SENTENCIA CONDENATORIA
+O DE ALA, CON SENTENCIA
 
-TOTAL DE PUNTOS NEGATIVOS -20.95
-
-POR PROCESOS PENALES
+CONDENATORIA -16.00
 
 b. No serán sancionados los procesos penales cuando el participante obtenga su libertad por sentencia absolutoria.
 
-C. Cambios de adscripción en observación de su conducta o por convenir al buen servicio:
+C. Cambios de adscripción por convenir al buen servicio:
 
-Este tipo de incidentes se evaluarán con puntos negativos, tomando como base la jerarquía que tenía el participante en el momento de sufrir el cambio de adscripción, de la forma siguiente:
+Este tipo de incidentes se evaluarán con puntos negativos, considerando los ocurridos durante los últimos seis años, incluyendo aquél en que participe en la Promoción Superior, así como la jerarquía que tenía el participante en el momento de producirse el cambio de adscripción, de acuerdo a los siguientes valores de referencia:
 
-CAMBIOS DE ADSCRIPCIÓN PUNTOS
+CAMBIOS DE ADSCRIPCIÓN
 
-EN OBSERVACIÓN DE
+POR CONVENIR AL BUEN
 
-SU CONDUCTA O POR
+SERVICIO PUNTOS
 
-CONVENIR AL BUEN SERVICIO
+CAMBIO DE MAYOR -15
 
-CAMBIO EN OBSERVACIÓN -14
+CAMBIO DE CORONEL -15
 
-DE SU CONDUCTA DE CAPITÁN 1°
+CAMBIO DE GENERAL
 
-CAMBIO POR CONVENIR AL BUEN -15
+BRIGADIER O DE GRUPO -16
 
-SERVICIO DE TENIENTE CORONEL
+CAMBIO DE GENERAL
 
-CAMBIO POR CONVENIR AL BUEN -16
-
-SERVICIO DE GENERAL BRIGADIER
-
-TOTAL DE PUNTOS NEGATIVOS -45
-
-POR CAMBIOS DE ADSCRIPCIÓN
+DE BRIGADA O DE ALA -16
 
 D. Conducta militar y civil:
 
-Para evaluar la conducta militar y civil en las jerarquías de General, Jefe u Oficial, se tomará como referencia la información asentada en las hojas de actuación y certificados de conducta que obren en los expedientes personales, asignándose puntuación negativa por cada conducta mala o regular que tenga el participante, de la siguiente forma:
+Para evaluar la conducta militar y civil en las jerarquías de General o Jefe, se tomará como referencia la información asentada en las hojas de actuación y certificados de conducta de los últimos seis años, incluyendo aquél en que participe en la Promoción Superior, que obren en los expedientes personales, asignándose puntuación negativa por cada conducta mala o regular que tenga el participante, de acuerdo a los siguientes valores de referencia:
 
 CONDUCTA MILITAR Y CIVIL PUNTOS
 
-MALA CONDUCTA MILITAR Y -7
+MALA CONDUCTA MILITAR Y
 
-CIVIL DE CAPITÁN 1°
+CIVIL DE TENIENTE CORONEL -8
 
-REGULAR CONDUCTA MILITAR Y -10
+REGULAR CONDUCTA MILITAR
+
+Y CIVIL DE CORONEL -9
+
+MALA CONDUCTA MILITAR Y
 
 CIVIL DE GENERAL
 
-TOTAL DE PUNTOS NEGATIVOS -17
+BRIGADIER O DE GRUPO -10
 
-POR CONDUCTA MILITAR Y CIVIL
+REGULAR CONDUCTA MILITAR Y
 
-E. Conceptos particulares negativos, exhortos, amonestaciones y extrañamientos:
+CIVIL DE GENERAL BRIGADIER
 
-De conformidad con la información asentada en las hojas de actuación y demás documentación que obre en los expedientes personales, por cada aspecto negativo señalado se asignará puntuación negativa, de la siguiente forma:
+O DE GRUPO -10
+
+E. Conceptos particulares negativos:
+
+De conformidad con la información asentada en las hojas de actuación y demás documentos que obren en los expedientes personales, se asignará puntuación negativa por cada concepto negativo emitido por su respectivo comandante y registrado durante los últimos seis años, incluyendo aquél en que participe en la Promoción Superior, de acuerdo a los siguientes valores de referencia:
 
 CONCEPTOS PARTICULARES NEGATIVOS PUNTOS
 
-CONCEPTO PARTICULAR -4.15
+CONCEPTO PARTICULAR
 
-NEGATIVOS DE MAYOR
+NEGATIVO DE MAYOR -4.15
 
-CONCEPTO PARTICULAR -4.70
+CONCEPTO PARTICULAR
 
-NEGATIVOS DE CORONEL
+NEGATIVO DE CORONEL -4.70
 
-TOTAL PUNTOS NEGATIVOS -8.85
+CONCEPTO PARTICULAR
 
-POR CONCEPTOS NEGATIVOS
-
-EXHORTOS, AMONESTACIONES PUNTOS
-
-Y EXTRAÑAMIENTOS
-
-EXHORTO DE CAPITÁN 1° -3.60
-
-EXHORTO DE MAYOR -4.15
-
-AMONESTACIÓN DE MAYOR -4.15
-
-EXHORTO DE TENIENTE CORONEL -4.15
-
-EXHORTO DE CORONEL -4.70
-
-AMONESTACIÓN DE CORONEL -4.70
-
-EXTRAÑAMIENTO DE CORONEL -4.70
-
-EXHORTO DE GENERAL BRIGADIER -5.25
-
-EXHORTO GENERAL DE BRIGADA -5.25
-
-TOTAL DE PUNTOS NEGATIVOS - 40.65
-
-POR EXHORTOS, AMONESTACIONES
-
-Y EXTRAÑAMIENTOS
+NEGATIVO DE GENERAL DE BRIGADA -5.25
 
 F. Licencias ilimitadas o especiales:
 
-Las licencias ilimitadas o especiales que excedan de seis meses en un período de diez años, se contabilizarán con puntos negativos, de la siguiente forma:
+Las licencias ilimitadas o especiales que excedan de seis meses en un periodo de seis años, incluyendo aquél en que participe en la Promoción Superior, se contabilizarán con puntos negativos, de acuerdo a los siguientes valores de referencia:
 
 LICENCIAS ILIMITADAS O ESPECIALES PUNTOS
 
-LICENCIA ORDINARIA DE 5 MESES 0
-
 LICENCIA ILIMITADA DE 7 MESES -2
+
+LICENCIA ILIMITADA DE 8 MESES -4
 
 LICENCIA ESPECIAL DE 12 MESES -12
 
-TOTAL DE PUNTOS NEGATIVOS -14
+El sistema computarizado de la Promoción Superior sumará en forma automatizada los aspectos positivos y restará los negativos, dando como resultado la puntuación objetiva del participante.
 
-POR LICENCIAS ILIMITADAS O ESPECIALES
-
-G. Resumen:
-
-El sistema computarizado de la Promoción Superior suma en forma automatizada los aspectos positivos y resta los negativos, dando como resultado, la puntuación objetiva del participante.
-
-RESUMEN PUNTOS
-
-ASCENSOS, TIEMPO DE 27.5
-
-SERVICIOS Y ANTIGÜEDAD
-
-EN EL EMPLEO
-
-CARGOS Y COMISIONES 714.4793
-
-DESEMPEÑADOS
-
-PREPARACIÓN PROFESIONAL 150.00
-
-RECOMPENSAS MILITARES 26.25
-
-CORRECTIVOS DISCIPLINARIOS -5.465
-
-PROCESOS PENALES -20.95
-
-CAMBIOS DE ADSCRIPCIÓN -45
-
-EN OBSERVACIÓN DE SU
-
-CONDUCTA O POR CONVENIR
-
-AL BUEN SERVICIO
-
-CONDUCTA MILITAR Y CIVIL -17
-
-CONCEPTOS NEGATIVOS -8.85
-
-EXHORTOS, AMONESTACIONES -40.65
-
-Y EXTRAÑAMIENTOS
-
-LICENCIAS ILIMITADAS O ESPECIALES -14
-
-TOTAL DE LA PUNTUACIÓN OBJETIVA 766.3143
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 93.
 
-En el área de análisis y consulta se estudia, analiza, valora y complementa el área objetiva en base a la aptitud profesional, conducta militar y civil y actuación militar en general, disponiendo la Comisión de Evaluación de un rango de 255 puntos positivos a 200 puntos negativos para otorgar la calificación, considerando los siguientes aspectos:
+En el área de análisis y consulta se estudia, analiza, valora y complementa el área objetiva con base en la aptitud profesional, conducta militar y civil y actuación militar en general, disponiendo la Comisión de Evaluación de un rango de 300 puntos positivos a 200 puntos negativos para otorgar la calificación, considerando los siguientes aspectos:
 
-I. Aspectos positivos.
+I. Aspectos positivos:
 
 A. Continuidad en la carrera militar:
 
-La Comisión de Evaluación otorgará una calificación máxima de 65 puntos, asignando valores de la siguiente forma:
-
-a. Los participantes con 4 años de antigüedad en el Grado, iniciarán con 40 puntos;
-
-b. Los participantes con 5 años o más de antigüedad en el Grado, iniciarán con 50 puntos;
-
-c. A la calificación inicial del participante, se sumarán 10 puntos para quienes ocuparon primeros lugares y 5 puntos para los que hayan obtenido los segundos y terceros lugares en los concursos de selección de Subteniente a Teniente Coronel, y
-
-d. A la calificación parcial se restarán 10 puntos negativos por cada ascenso obtenido en segunda, tercera, cuarta oportunidad o posterior, en los concursos de selección de Subteniente a Teniente Coronel.
+La Comisión de Evaluación otorgará una calificación máxima de 50 puntos, asignando valores de la siguiente forma: los participantes con 4 años de antigüedad en el grado iniciarán con 40 puntos, y los de segunda o posterior participación iniciarán con 50 puntos.
 
 B. Preparación profesional:
 
@@ -1383,79 +1231,89 @@ b. Al curso de aplicación, 20 puntos;
 
 c. Al curso de capacitación o actualización, 25 puntos;
 
-d. Para los estudios a nivel licenciatura, 30 puntos;
+d. A los estudios de nivel licenciatura, 30 puntos;
 
-e. Al curso Superior de Guerra, 40 puntos, y
+e. Al Curso Superior de Guerra, 40 puntos, y
 
-f. A la maestría en Administración Militar para la Seguridad y Defensa Nacionales, 50 puntos.
+f. A la Maestría en Administración Militar para la Seguridad y Defensa Nacionales, 50 puntos.
 
 C. Actividades militares significativas:
 
-La Comisión de Evaluación otorgará una puntuación máxima de 30 puntos, de la siguiente forma:
+La Comisión de Evaluación otorgará una puntuación máxima de 100 puntos, de la siguiente forma:
 
 a. Por cada hecho de armas, 10 puntos;
 
-b. Por cada participación destacada en el Plan DN-III-E, 10 puntos, y
+b. Por cada participación destacada en el Plan DN-III-E, 10 puntos;
 
-c. Por cada aseguramiento importante en la campaña permanente contra el narcotráfico, 10 puntos.
+c. Por cada aseguramiento importante, 10 puntos, y
+
+d. Por cada resultado relevante en operaciones, 10 puntos.
+
+En este rubro se valorarán las diferentes actividades militares significativas que sean acreditadas por los participantes durante toda su carrera militar.
 
 D. Variedad de cargos:
 
-La Comisión de Evaluación analizará los cargos ejercidos en la jerarquía que tenga el participante al momento de la evaluación y la inmediata anterior, considerando el período de duración, la importancia y el desempeño observado en el cargo o comisión, otorgando como máximo 60 puntos, como sigue:
+La Comisión de Evaluación analizará los cargos ejercidos en la jerarquía que tenga el participante al momento de la evaluación y la inmediata anterior, considerando el periodo de duración, la importancia y el desempeño observado en el cargo o comisión, otorgando como máximo 50 puntos, como sigue:
 
-a. En Unidades, 10 puntos;
+a. En unidades, 10 puntos;
 
-b. En Estados Mayores, 10 puntos;
+b. En estados mayores, 10 puntos;
 
-c. En Planteles Militares, 10 puntos;
+c. En planteles militares, 10 puntos (excepto alumnos);
 
-d. Como Agregados Militares y Aéreos, 10 puntos;
+d. Como agregados militares y aéreos, 10 puntos, y
 
-e. En Dependencias, 10 puntos, y
+e. En dependencias, 10 puntos.
 
-f. Cuando el cargo sea como Comandante o Director de la unidad o dependencia, se sumarán 10 puntos.
+Al Jefe, Subjefes, Jefes de Sección y Jefes de Subsección del Estado Mayor de la Defensa Nacional y del Estado Mayor de la Fuerza Aérea, se les sumarán 10 puntos por cada año desempeñado en dichos cargos.
 
-La Comisión de Evaluación podrá determinar la puntuación para los cargos o comisiones no referidos en el presente inciso, considerando el nivel de responsabilidad del desempeño y período de duración.
+La Comisión de Evaluación podrá determinar la puntuación para los cargos o comisiones no referidos en el presente inciso, considerando el nivel de responsabilidad del desempeño y el periodo de duración.
 
-E. Mando o Dirección:
+E. Mando o dirección:
 
-La Comisión de Evaluación otorgará 10 puntos por cada año que el participante se haya desempeñado en el ejercicio del mando o dirección de las unidades, dependencias e instalaciones y 5 puntos por cada año que el participante se haya desempeñado como segundo Comandante o Subdirector de las unidades, dependencias e instalaciones, sin rebasar los 50 puntos.
+La Comisión de Evaluación otorgará 10 puntos por cada año que el participante se haya desempeñado en el ejercicio del mando o dirección de las unidades, dependencias e instalaciones, y 5 puntos por cada año que el participante se haya desempeñado como segundo comandante o subdirector de las unidades, dependencias e instalaciones, sin rebasar los 50 puntos.
 
-F. Los aspectos positivos del desempeño profesional se sumarán arrojando la calificación parcial de estos factores:
+Se sumarán los aspectos positivos del desempeño profesional, lo que arrojará la calificación parcial de estos factores.
 
 II. Aspectos negativos:
 
-A. Los correctivos disciplinarios, exhortos, amonestaciones y extrañamientos que se impongan al participante en la jerarquía actual y la inmediata anterior, serán sancionados por la Comisión de Evaluación sin rebasar los 50 puntos negativos de la siguiente manera:
+A. Correctivos disciplinarios:
 
-a. Por cada correctivo disciplinario ordenado por el Secretario con 10 puntos negativos y los que impongan el Subsecretario y el Oficial Mayor de la Secretaría con 5 puntos negativos;
+Los correctivos disciplinarios que se impongan al participante durante los últimos seis años, incluyendo aquél en que participe en la Promoción Superior, serán sancionados por la Comisión de Evaluación sin rebasar los 50 puntos negativos, de la siguiente manera:
 
-b. Por 25 días de arresto que tenga el participante, 5 puntos negativos;
+a. Por cada 25 días de arresto que tenga el participante, 5 puntos negativos;
 
-c. Tomando como referencia los 25 días de arresto, por cada 5 días que se incrementen, se sumarán 5 puntos negativos, hasta llegar a 70 días de arresto o más, asignando una puntuación máxima de 50 puntos negativos;
+b. Tomando como referencia los 25 días de arresto, por cada 5 días que se incrementen, se sumarán 5 puntos negativos, hasta llegar a 70 días de arresto o más, asignando una puntuación máxima de 50 puntos negativos;
 
-d. Por menos de 24 días de arresto, no habrá puntos negativos, y
+c. Por menos de 24 días de arresto, no habrá puntos negativos, y
 
-e. Por cada exhorto, amonestación o extrañamiento que obre en su expediente se otorgarán 10 puntos negativos.
+d. Por cada amonestación que se le haya realizado, se otorgará un punto negativo.
 
 B. Cambios de adscripción y conceptos negativos:
 
-a. La Comisión de Evaluación otorgará 10 puntos negativos por cada cambio por convenir al buen servicio, concepto negativo, mala conducta y por cada queja que tenga el participante en la jerarquía actual y la inmediata anterior, asignando una puntuación que no rebase los 50 puntos negativos, y
+La Comisión de Evaluación otorgará 10 puntos negativos por cada cambio por convenir al buen servicio, concepto negativo y mala conducta que tenga el participante en los últimos seis años, incluyendo aquél en que participe en la Promoción Superior, asignando una puntuación que no rebase los 50 puntos negativos.
 
-b. Para tal efecto, la Comisión de Evaluación analizará los conceptos y notas emitidas por los Comandantes o Directores, considerando todo lo relativo a la reputación de la Unidad, Establecimiento o Dependencia; los vicios de la embriaguez, uso de drogas y juegos prohibidos por la ley; la disolución escandalosa; la negligencia en el servicio que no constituya un delito, y, todo lo que concierne a la dignidad militar, tomando como referencia las notas que obren en las Hojas de Servicios y de actuación del personal de Jefes y Generales.
+Para tal efecto, la Comisión de Evaluación analizará los conceptos y notas emitidas por los comandantes o directores, considerando todo lo relativo a la reputación de la unidad, establecimiento o dependencia; el consumo de alcohol y estupefacientes; la realización de juegos prohibidos por la ley; la disolución escandalosa; la negligencia en el servicio que no constituya un delito, y todo lo que concierne a la dignidad militar, tomando como referencia las notas que obren en las hojas de servicios y de actuación del personal de Jefes y Generales.
 
 C. Deficiencias:
 
-La Comisión de Evaluación otorgará 10 puntos negativos por cada curso no finalizado, ascenso fuera de Promoción o sin la antigüedad en el Grado, con excepción de los otorgados conforme al artículo 31 de la Ley, por cada aplazamiento de cursos, renuncia a la Promoción, así como por encontrarse a disposición por más de un mes o fracción, considerando los sucesos ocurridos en toda su carrera militar, asignando como máximo 50 puntos negativos.
+La Comisión de Evaluación otorgará 10 puntos negativos por cada ascenso fuera de promoción o sin la antigüedad en el grado, con excepción de los otorgados conforme al artículo 31 de la Ley; por cada renuncia a los cursos designados por la Secretaría; por cada renuncia a la promoción, así como por encontrarse a disposición por más de un mes o fracción, considerando los sucesos ocurridos en toda su carrera militar, asignando como máximo 50 puntos negativos.
 
 D. Comisiones ajenas y procesos penales:
 
-a. La Comisión de Evaluación penalizará al participante en la jerarquía actual y la inmediata anterior con 5 puntos negativos por cada año que haya desempeñado comisiones ajenas al instituto armado o que haya disfrutado de licencias ilimitadas o especiales; y
+a. La Comisión de Evaluación penalizará al participante con 5 puntos negativos por cada año que haya desempeñado comisiones ajenas al instituto armado siempre y cuando sean a solicitud del participante o que haya disfrutado de licencias ilimitadas o especiales y que se registren durante los últimos seis años, incluyendo aquél en que participe en la Promoción Superior, y
 
-b. Se sumarán al participante 10 puntos negativos por cada retiro de acción penal o sentencia condenatoria por procesos ocurridos en toda su carrera militar, de acuerdo con las resoluciones del Juez o los Tribunales Militares.
+b. Se sumarán al participante puntos negativos por cada retiro de acción penal o sentencia condenatoria por procesos ocurridos en toda su carrera militar, de acuerdo con las resoluciones del juez o los tribunales militares, de la siguiente forma:
 
-III. Los aspectos negativos del desempeño profesional, se restan a los aspectos positivos, arrojando la calificación del área de análisis y consulta, la cual será analizada y obtenida por la Comisión de Evaluación de la Promoción Superior, de la siguiente manera:
+1. Siendo Oficial, con 3 puntos negativos.
 
-(VEASE ARCHIVO ANEXO)
+2. Siendo Jefe, con 5 puntos negativos.
+
+3. Siendo General, con 10 puntos negativos.
+
+Cuando de un solo suceso se generen dos o más aspectos negativos, la Comisión de Evaluación únicamente considerará uno de ellos.
+
+Los aspectos negativos del desempeño profesional se restarán a los aspectos positivos, lo que arrojará la calificación del área de análisis y consulta. Ésta se sumará a la puntuación del área objetiva, dando como resultado la puntuación total del participante en la Promoción Superior.
 
 ###### ARTÍCULO 94.
 
@@ -1929,27 +1787,39 @@ La Condecoración del Mérito Facultativo, se otorgará a los alumnos militares 
 
 #### SECCIÓN SEXTA. De la Condecoración al Mérito Docente
 
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 118.
 
-La Condecoración al Mérito Docente estará destinada a premiar a los civiles o militares, nacionales o extranjeros, que se hayan desempeñado como mínimo por tres años en uno o varios períodos en Planteles Militares como directivos, instructores o profesores y hayan obtenido calificaciones de excelencia.
+La Condecoración al Mérito Docente estará destinada a premiar a los civiles o militares, nacionales o extranjeros, que se hayan desempeñado como mínimo por tres años consecutivos en una sola Institución Educativa Militar, como directivos, instructores o profesores, y hayan obtenido calificaciones de excelencia.
 
 ###### ARTÍCULO 119.
 
 Para el otorgamiento de esta Condecoración, se observarán los lineamientos siguientes:
 
-I. En todos los casos, el desempeño del docente propuesto deberá ser en forma entusiasta, innovadora, apegada a la doctrina militar y con calificación de excelencia y que sea un factor determinante para el desarrollo educativo del personal en instrucción a su cargo; dicha calificación será otorgada por el plantel militar en el que se haya desempeñado como docente;
+> <small>(REFORMADA, D.O.F. 8 DE JUNIO DE 2009)</small>
+
+I. En todos los casos, el desempeño del docente propuesto deberá haber sido entusiasta, innovador, apegado a la doctrina militar y con calificación de excelencia, además de ser un factor determinante para el desarrollo educativo del personal en instrucción a su cargo; dicha calificación será otorgada por la Institución Educativa Militar en la que se haya desempeñado como docente;
 
 II. El docente propuesto deberá observar una conducta ejemplar durante el tiempo que se desempeñe en esa comisión, para lo cual el Estado Mayor verificará su actuación con base en sus antecedentes;
 
 III. Para los efectos del párrafo anterior, el personal propuesto no deberá tener más de 8 días de arresto en los últimos tres años, ni contar con conceptos negativos en las Hojas de Actuación del mismo período;
 
-IV. Cada Plantel Militar elaborará un acta de Comité Técnico Consultivo, donde proponga al personal que reúna las condiciones para el otorgamiento de esta Condecoración, en base a la calificación otorgada. Las actas respectivas se enviarán al Estado Mayor por conducto de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea;
+> <small>(REFORMADA, D.O.F. 8 DE JUNIO DE 2009)</small>
 
-V. Esta Condecoración se concederá por una sola ocasión; cuando aquellos militares en activo o retiro, o bien, profesores civiles, desempeñen por segunda ocasión la función de directivos, instructores o profesores en el mismo u otro Plantel Militar, y cumplan nuevamente con los requisitos estipulados para obtenerla en su lugar se les otorgará una Citación, debiéndose emplear un procedimiento similar para elevar la propuesta correspondiente;
+IV. El órgano técnico consultivo de cada Institución Educativa Militar elaborará un acta en la que se propondrá al personal que reúna las condiciones para el otorgamiento de esta Condecoración, con base en la calificación otorgada. Las actas respectivas se enviarán al Estado Mayor por conducto de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, y (sic)
 
-VI. En el caso de que un militar o civil haya servido tres o más años en Planteles Militares en períodos diferentes, será la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, la que determinará si reúne o no los requisitos para el otorgamiento de la Condecoración, y
+V. (DEROGADA, D.O.F. 8 DE JUNIO DE 2009)
 
-VII. Para los efectos del artículo 58 de la Ley, se entenderá por Distinción, la notoria calidad y cantidad de la actividad docente y por eficiencia, a la virtud o capacidad para alcanzar el acto educativo.
+VI. (DEROGADA, D.O.F. 8 DE JUNIO DE 2009)
+
+> <small>(REFORMADA, D.O.F. 8 DE JUNIO DE 2009)</small>
+
+VII. Para los efectos del artículo 58 de la Ley, se entenderá por distinción, la notoria calidad y cantidad de la actividad docente, y por eficiencia, la virtud o capacidad en la realización de los actos educativos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE JUNIO DE 2009)</small>
+
+Esta Condecoración se concederá por una sola ocasión. Cuando los militares en activo o en retiro desempeñen por otra ocasión la función de directivos, instructores o profesores en la misma u otra Institución Educativa Militar, y cumplan nuevamente con los requisitos estipulados para obtenerla, en su lugar se les otorgará una Citación, para lo cual se empleará, en lo conducente, el procedimiento establecido en el presente artículo a efecto de elevar la propuesta correspondiente.
 
 #### SECCIÓN SÉPTIMA. De la Condecoración de Servicios Distinguidos
 
@@ -2258,3 +2128,13 @@ SEGUNDO.- Se abrogan todas las disposiciones que se opongan a este Reglamento.
 TERCERO.- Las Condecoraciones otorgadas conforme a las leyes, decretos y disposiciones anteriores, podrán seguir siendo usadas con arreglo a la normatividad vigente al momento de su otorgamiento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los trece días del mes de julio de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de la Defensa Nacional, Gerardo Clemente Ricardo Vega García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 8 DE JUNIO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Promoción Superior del presente año se realizará conforme a lo dispuesto por el presente Decreto.
+
+TERCERO.- Las Condecoraciones al Mérito Docente otorgadas conforme a las normas reglamentarias vigentes hasta la entrada en vigor del presente Decreto, podrán seguir siendo usadas por las personas condecoradas.
