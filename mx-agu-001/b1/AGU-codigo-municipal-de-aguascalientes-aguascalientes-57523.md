@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2009-02-23"
+last_updated: "2009-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: P.O. 23 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 2009.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -233,7 +233,9 @@ XXIII. Consejos Delegacionales de Desarrollo Comunitario.
 
 XXIV. Consejo Municipal de Desarrollo Sustentable.
 
-XXV. Consejo Municipal de Giros Restringidos sobre venta y consumo de bebidas alcohólicas.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2009)</small>
+
+XXV. Consejo Técnico Ciudadano de Salud del Municipio de Aguascalientes.
 
 XXVI. Consejo de la Juventud.
 
@@ -241,7 +243,7 @@ XXVII. Instituto Municipal de la Mujer.
 
 XXVIII. Comisión de Admisión de Peritos.
 
-XXIX.- Consejo que regula la venta de sustancia de efectos psicotrópicos.
+XXIX. Consejo que regula la venta de sustancia de efectos psicotrópicos.
 
 XXX. Aquellos Comités o Consejos Ciudadanos que el Cabildo apruebe establecer en las áreas que considere convenientes.
 
@@ -18852,3 +18854,13 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 A partir de la entrada en vigor del presente decreto, el personal y los recursos materiales y financieros del Departamento de Cultura, dependiente de la Secretaria de Desarrollo Social, pasarán a formar parte del Instituto Municipal Aguascalentense para la Cultura.
+
+P.O. 8 DE JUNIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Consejo Técnico Ciudadano de Salud del Municipio de Aguascalientes deberá quedar conformado, a más tardar, a los quince días naturales siguientes a la entrada en vigor del presente Decreto.
