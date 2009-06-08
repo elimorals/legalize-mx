@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2007-09-10"
+last_updated: "2009-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -478,6 +478,24 @@ La Salud Pública tiene por objeto promover la salud, para prevenir enfermedades
 ###### ARTÍCULO 31.
 
 Son acciones de Salud Pública, el saneamiento del medio, la prevención, el control de enfermedades y accidentes, los servicios médicos y auxilio, la promoción de la salud, el control y vigilancia sanitaria, así como la prevención y control de adicciones y demás que señale la Ley General de Salud.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2009)</small>
+
+La Secretaría de Salud, con el fin de combatir las enfermedades graves de la mujer como lo son el cáncer cérvico uterino y cáncer de mama, implementará programas permanentes tendientes a la prevención y tratamiento de estas enfermedades, además de desarrollar, entre otras, las siguientes acciones:
+
+I. Dar a conocer la conveniencia del sexo seguro, difundiendo las consecuencias de la promiscuidad sexual, además de advertir de los riesgos que conlleva la práctica de relaciones sexuales tempranas e informar de los riesgos de contagio por relaciones sexuales con personas que hayan tenido diversas parejas sexuales;
+
+II. Difundir las conveniencias de realizarse periódicamente las pruebas para la prevención del cáncer cérvico uterino, tales como colposcopía, papanicolaou y cultivo de híbridos, además deberá aplicar como manera de prevención la vacuna del virus del Papiloma Humano en niñas de alto riesgo epidemiológico;
+
+III. Difundir la conveniencia de realizar periódicamente el examen clínico de mama;
+
+IV. Divulgar los lugares de servicio gratuito para la práctica de exámenes y la aplicación de la vacuna señalados en las fracciones II y III;
+
+V. Capacitar a los prestadores de servicios de salud de los sectores público, social y privado en la toma de muestras para la prevención del cáncer cérvico uterino y la interpretación de las mismas a través del Sistema Bethesda, o cualquier otro que autorice el sector salud;
+
+VI. Capacitar a los prestadores de servicios de salud para la orientación de sus pacientes respecto a la detección temprana de los cánceres cérvico uterino y de mama y el uso de la cartilla nacional de salud de la mujer; y,
+
+VII. Difundir entre la población escolar las medidas de prevención de los cánceres cérvico uterino y de mama.
 
 ###### ARTÍCULO 32.
 
@@ -1930,3 +1948,11 @@ PRESIDENTE.- DIP. SALVADOR ORTIZ GARCÍA.- PRIMERA SECRETARIA.- DIP. MINERVA BAU
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 10 diez días del mes de agosto del año 2007 dos mil siete.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.-LÁZARO CÁRDENAS BATEL.- LA SECRETARIA DE GOBIERNO.- MARÍA GUADALUPE SÁNCHEZ MARTÍNEZ. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE JUNIO DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente, al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones legales y administrativas que se opongan a la literalidad del presente Decreto Legislativo.
