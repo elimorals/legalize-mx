@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "2009-06-02"
+last_updated: "2009-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE JUNIO DE 2009.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -3502,7 +3502,7 @@ Del contrato mercantil de trasporte terrestre.
 
 ## TITULO DECIMO.
 
-DE LOS TRANSPORTES POR VÍAS TERRESTRES Ó FLUVIALES.
+DE LOS TRASPORTES POR VÍAS TERRESTRES Ó FLUVIALES.
 
 ### CAPÍTULO I.
 
@@ -5932,7 +5932,9 @@ VI. Por telégrafo certificado.
 
 Art. 1,069. Todos los litigantes, en el primer escrito o en la primera diligencia judicial, deben designar domicilio ubicado en el lugar del juicio para que se les hagan las notificaciones y se practiquen las diligencias que sean necesarias. Igualmente deben designar el domicilio en que ha de hacerse la primera notificación a la persona o personas contra quienes promueven.
 
-Cuando un litigante no cumpla con la primera parte de este artículo las notificaciones se harán conforme a las Reglas para las notificaciones que no deban ser personales. Si no se designare domicilio de la contraparte, se le requerirá para que lo haga, y si lo ignoran se procederá en los términos del artículo siguiente.
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2009)</small>
+
+Cuando un litigante no cumpla con la primera parte de este artículo las notificaciones se harán conforme a las Reglas para las notificaciones que no deban ser personales, hasta en tanto sea señalado domicilio para los efectos referidos. Si no se designare domicilio de la contraparte, se le requerirá para que lo haga, y si lo ignoran se procederá en los términos del artículo siguiente.
 
 > <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -7058,7 +7060,7 @@ Las objeciones a que se refiere el párrafo anterior se podrán realizar desde e
 
 Si con la impugnación a que se refieren los dos párrafos anteriores no se ofreciere la prueba pericial correspondiente o no se cumpliere con cualquiera de los requisitos necesarios para su admisión a trámite, se desechará de plano por el juzgador.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2008)</small>
 
@@ -7076,7 +7078,7 @@ V. Lo dispuesto en este artículo sólo da competencia al juez para conocer y de
 
 VI. Si durante la secuela del procedimiento se tramitare diverso proceso penal sobre la falsedad del documento en cuestión, el tribunal, sin suspender el juicio y según las circunstancias, podrá determinar al dictar la sentencia si se reservan los derechos del impugnador para el caso en que penalmente se demuestre la falsedad o bien puede subordinar la eficacia ejecutiva de la sentencia a la prestación de una caución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2008)</small>
 
@@ -7840,9 +7842,9 @@ De los incidentes.
 
 Art. 1,349. Son incidentes las cuestiones que se promueven en un juicio y tienen relación inmediata con el negocio principal, por lo que aquéllos que no guarden esa relación serán desechados de plano.
 
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2009)</small>
 
-Art. 1,350. Los incidentes se substanciarán en la misma pieza de autos, sin que suspendan el trámite del juicio en lo principal.
+Art. 1,350. Los incidentes se substanciarán por cuerda separada, sin que suspendan el trámite del juicio en lo principal.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -9289,3 +9291,15 @@ Segundo.- El presente Decreto no será aplicable a los asuntos cuya demanda haya
 D.O.F. 2 DE JUNIO DE 2009.
 
 Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE JUNIO DE 2009.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 1069 DEL CODIGO DE COMERCIO.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE JUNIO DE 2009.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 1350 DEL CODIGO DE COMERCIO.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
