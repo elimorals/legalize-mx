@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-notariado-para-el-estado-de-campeche-18170"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-19"
-last_updated: "2000-11-17"
+last_updated: "2009-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2000.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DEL DECRETO NO. 233, PUBLICADO EN EL P.O. DE 9 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Campeche, el martes 19 de septiembre de 2000.
 
@@ -1060,3 +1062,23 @@ P.O. 17 DE NOVIEMBRE DEL 2000.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Campeche.
 
 Segundo.- Se derogan todas las disposiciones legales en lo que se opongan al contenido del presente decreto.
+
+P.O. 9 DE JUNIO DE 2009.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con las siguientes salvedades:
+
+a). Las disposiciones por las cuales se establece la modalidad de protocolo abierto cobrarán vigencia el día siguiente al en que entre en vigor la modificación que en la Ley de Hacienda del Estado de Campeche, oportunamente se emita respecto del cobro de derechos por concepto de expedición de folios; y
+
+b). Las disposiciones relativas al Archivo General de Notarías entrarán en vigor el mismo día en que cobre vigencia el Reglamento que al efecto se expida para su funcionamiento.
+
+Segundo.- Se derogan las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido del presente decreto.
+
+Tercero.- El Gobernador del Estado, en el término de treinta días naturales contados a partir de la fecha de entrada en vigor del presente decreto, deberá emitir el Reglamento correspondiente a los exámenes de oposición para obtener el fíat o patente de notario y la titularidad de una notaría.
+
+Cuarto.- El Gobernador del Estado deberá expedir el Reglamento del Archivo General de Notarías, en el término de sesenta días hábiles contados a partir del día siguiente en que entre en vigor la Ley de Presupuesto de Egresos del Estado de Campeche que en su contenido contemple la partida necesaria para el funcionamiento de dicho Archivo.
+
+Quinto.- El Gobernador del Estado; en el término de treinta días hábiles contados a partir de la fecha en que entre en vigor el presente decreto, deberá hacer las correspondientes modificaciones al Reglamento Interior de la Secretaria de Gobierno para consignar en él la Unidad Administrativa que prevé el artículo 132 de la Ley contenida en este Decreto; entretanto la Consejería Jurídica del Gobernador ejercerá las facultades que le corresponden a esa Unidad.
+
+Sexto.- En cumplimiento de lo ordenado por el artículo 37 de la Ley a que este decreto se contrae, la Secretaría de Gobierno procederá a la renomenclatura de las Notarías conforme al Distrito en que se ubiquen, en caso de que sea necesario.
+
+Séptimo.- Los notarios públicos en ejercicio, tienen el plazo de quince días hábiles, contados a partir del día siguiente al que cobre vigencia este decreto, para dar cumplimiento a las disposiciones del artículo 38 de la Ley contenida en dicho decreto, debiendo entregar a la Secretaría de Gobierno, para su destrucción, los sellos que en la actualidad utilizan elaborados con apego a las disposiciones de la Ley que se abroga.
