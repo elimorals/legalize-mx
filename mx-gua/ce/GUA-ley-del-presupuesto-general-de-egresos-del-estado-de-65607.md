@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-presupuesto-general-de-egresos-del-estado-de-65607"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-19"
-last_updated: "2008-12-19"
+last_updated: "2009-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DEL PRESUPUESTO GENERAL DE EGRESOS DEL ESTADO DE GUANAJUATO PARA EL EJERCICIO FISCAL DE 2009
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2009.
 
 Ley publicada en la Décima Octava Parte del Periódico Oficial del Estado de Guanajuato, el viernes 19 de diciembre de 2008.
 
@@ -747,43 +747,49 @@ Para los efectos del artículo 24 de la Ley de Adquisiciones, Enajenaciones, Arr
 
 I. Poderes Legislativo, Judicial y Dependencias:
 
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2009)</small>
+
 Procedimiento De Hasta
 
-Adjudicación directa $ 0.01 $190,310.24
+Adjudicación directa $ 0.01 $250,000.00
 
 Adjudicación directa,
 
 con cotización de tres
 
-proveedores $190,310.25 $768,089.70
+proveedores $250,001.00 $2´000,000.00
 
-Licitación restringida $768,089.71 $2,212,080.25
+Licitación restringida $2´000,001.00 $5´999,999.99
 
-Licitación pública $2,212,080.26 En adelante
+Licitación pública $6´000,000.00 En adelante
 
 II. Entidades y Organismos Autónomos:
 
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2009)</small>
+
 Procedimiento De Hasta
 
-Adjudicación directa $0.01 $145,335.96
+Adjudicación directa $0.01 $200,000.00
 
 Adjudicación directa, con
 
 cotización de tres
 
-proveedores $145,335.97 $564,484.41
+proveedores $200,001.00 $1´200,000.00
 
-Licitación restringida $564,484.42 $1,135,597.05
+Licitación restringida $1´200,001.00 $3´599,999.99
 
-Licitación pública $1,135,597.06 En adelante
+Licitación pública $3´600,000.00 En adelante
 
 Los montos establecidos deberán considerarse sin incluir el importe del Impuesto al Valor Agregado.
 
 Contratos de mantenimiento
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2009)</small>
+
 ###### Artículo 37.
 
-Las solicitudes de contratos de mantenimiento de bienes inmuebles, deberán canalizarse por conducto de la Secretaría, la cual determinará el monto y se sujetará a los límites establecidos en el artículo anterior. Si el monto rebasa el límite de licitación restringida, se deberá solicitar a la Secretaría de Obra Pública que lleve a cabo el procedimiento respectivo.
+Las solicitudes de contratos de mantenimiento de bienes inmuebles, deberán canalizarse por conducto de la Secretaría, la cual determinará el monto y se sujetará a los límites establecidos en el artículo anterior. Si el monto rebasa el límite de adjudicación directa con cotización de tres proveedores, se deberá solicitar a la Secretaría de Obra Pública que lleve a cabo el procedimiento respectivo.
 
 ### Capítulo Tercero. De la Inversión Pública
 
@@ -821,13 +827,15 @@ Contratación de obra pública
 
 La contratación de obra pública, su monto, adjudicación y ejecución se basará en lo establecido en la Ley de Obra Pública y Servicios Relacionados con la misma para el Estado y los Municipios de Guanajuato, de conformidad a los montos máximos y límites que se señalan a continuación:
 
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2009)</small>
+
 Procedimiento De Hasta
 
 Adjudicación directa $1.00 $1,861,162.63
 
-Licitación simplificada $1,861,162.64 $9,305,813.19
+Licitación simplificada $1,861,162.64 $18´611,626.38
 
-Licitación pública $9,305,813.20 En adelante
+Licitación pública $18´611,626.39 En adelante
 
 Los montos establecidos deberán considerarse sin incluir el importe del Impuesto al Valor Agregado.
 
@@ -966,3 +974,9 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE GOBIERNO
 
 JOSÉ GERARDO MOSQUEDA MARTÍNEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE JUNIO DE 2009.
+
+Artículo Único. El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
