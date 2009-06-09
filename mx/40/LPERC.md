@@ -4,7 +4,7 @@ identifier: "LPERC"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "2006-06-30"
+last_updated: "2009-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=477&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPERC"
 
 LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JUNIO DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 1975.
 
@@ -552,7 +552,7 @@ El premio se tramitará ante la Secretaría de Educación Pública, cuyo titular
 
 ### CAPITULO XII. Premio Nacional de la Juventud
 
-> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 59.
 
@@ -630,27 +630,35 @@ Premio Nacional de Administración Pública.
 
 ###### ARTICULO 72.
 
-El Premio Nacional de la Juventud será entregado a jóvenes cuya edad quede comprendida entre los 12 y 29 años, y su conducta o dedicación al trabajo o al estudio cause entusiasmo y admiración entre sus contemporáneos y pueda considerarse ejemplo estimulante para crear y desarrollar motivos de superación personal o de progreso de la comunidad. El Premio Nacional de la Juventud se otorgará en las siguientes distinciones:
+El Premio Nacional de la Juventud será entregado a jóvenes cuya edad quede comprendida entre los 12 y 29 años, y su conducta o dedicación al trabajo o al estudio cause entusiasmo y admiración entre sus contemporáneos y pueda considerarse ejemplo estimulante para crear y desarrollar motivos de superación personal o de progreso de la comunidad.
 
-I.- Actividades Académicas;
+El Premio Nacional de la Juventud se otorgará en dos categorías de edad:
 
-II.- Actividades Artísticas;
+A) De 12 años hasta menos de 18 años.
 
-III.- Méritos Cívicos;
+B) De 18 años hasta 29 años.
 
-IV.- Labor Social;
+En ambas categorías, se concederá en las siguientes distinciones:
 
-V.- Protección al Ambiente;
+I.- Logro académico;
 
-VI.- Actividades Productivas;
+II.- Expresiones artísticas y artes populares;
 
-VII.- Oratoria;
+III.- Compromiso social;
 
-VIII.- Discapacidad e Integración;
+IV.- Fortalecimiento a la cultura indígena;
 
-IX.- Artes Populares, y
+V.- Protección al ambiente;
 
-X.- Aportación a la Cultura Política y la Democracia.
+VI.- Ingenio emprendedor;
+
+VII.- Derechos humanos;
+
+VIII.- Discapacidad e integración;
+
+IX.- Aportación a la cultura política y a la democracia, y
+
+X.- Ciencia y tecnología.
 
 > <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
@@ -1122,25 +1130,25 @@ Para la entrega del Premio Nacional de la Cerámica, el Consejo de Premiación s
 
 > <small>(ADICIONADO [N. DE E. REUBICADO ANTES CAPITULO XXII], D.O.F. 30 DE JUNIO DE 2006)</small>
 
-###### ARTICULO 124.
+###### Artículo 124.
 
 Las erogaciones que deban hacerse con motivo de esta Ley, serán con cargo a la partida correspondiente de la Secretaría donde se tramite cada premio, y en caso de falta o insuficiencia de partida, con cargo al presupuesto del ramo de la Presidencia. Las recompensas de que trata el Capítulo XVI únicamente podrán recaer sobre el presupuesto de la dependencia u organismo al que pertenezca el beneficiario.
 
 > <small>(ADICIONADO [N. DE E. REUBICADO ANTES ARTICULO 121], D.O.F. 30 DE JUNIO DE 2006)</small>
 
-###### ARTICULO 125.
+###### Artículo 125.
 
 Los premios y las entregas adicionales en numerario o en especie, así como las recompensas, estarán exentos de cualquier impuesto o deducción.
 
 > <small>(ADICIONADO [N. DE E. REUBICADO ANTES ARTICULO 122], D.O.F. 30 DE JUNIO DE 2006)</small>
 
-###### ARTICULO 126.
+###### Artículo 126.
 
 Salvo que esta Ley contenga disposición expresa al respecto, los jurados están facultados para proponer que dos o más personas con iguales merecimientos participen entre sí el mismo premio, o que éste se otorgue a cada una de ellas.
 
 > <small>(ADICIONADO [N. DE E. REUBICADO ANTES ARTICULO 123], D.O.F. 30 DE JUNIO DE 2006)</small>
 
-###### ARTICULO 127.
+###### Artículo 127.
 
 Las recompensas señaladas en efectivo por la presente Ley, se ajustarán en la proporción en que se modifique el salario mínimo general en el Distrito Federal.
 
@@ -1215,3 +1223,7 @@ D.O.F. 12 DE ENERO DE 2006.
 D.O.F. 30 DE JUNIO DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE JUNIO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
