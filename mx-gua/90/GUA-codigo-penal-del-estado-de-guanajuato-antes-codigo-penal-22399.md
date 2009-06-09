@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2009-03-27"
+last_updated: "2009-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO PENAL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2009.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -2251,11 +2251,13 @@ Si en los actos mencionados participa algún servidor público que tenga a su ca
 
 a.- Se considera calificado el encubrimiento a que se refiere el artículo anterior, cuando el agente activo ya hubiere sido condenado en sentencia firme por el mismo delito y se castigará con las penas en aquél previstas, aumentadas hasta una mitad más.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2009)</small>
 
 ###### Artículo 275
 
-b.- A quien sin haber participado en la comisión de un delito, cuyo objeto, producto o instrumento fuese un vehículo automotor, lo adquiera sin tomar las precauciones necesarias para cerciorarse de su lícita procedencia, se le impondrá de diez días a dos años de prisión y de diez a cuarenta días multa.
+b.- A quien sin haber participado en la comisión del delito de robo, cuyo objeto, producto o instrumento fuese un vehículo automotor, lo adquiera sin tomar las precauciones necesarias para cerciorarse de su lícita procedencia, se le impondrá de diez días a dos años de prisión y de diez a cuarenta días multa.
+
+Se entenderá por tomar las precauciones necesarias, la obtención de la constancia de no reporte de robo vehicular ante la Procuraduría General de Justicia, la que será considerada medida idónea para cerciorarse de la lícita procedencia del vehículo.
 
 ###### Artículo 276.
 
@@ -2556,3 +2558,9 @@ P.O. 27 DE MARZO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE JUNIO DE 2009.
+
+Artículo Primero. El presente Decreto entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Al iniciar la vigencia del presente Decreto, la Procuraduría General de Justicia del Estado, deberá implementar medidas a efecto de expedir la constancia de no reporte de robo vehicular, a toda persona que lo solicite.
