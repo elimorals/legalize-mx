@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2009-04-24"
+last_updated: "2009-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JUNIO DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -1074,7 +1074,13 @@ III. Aprobar y someter al Jefe de Gobierno para su expedición los proyectos de 
 
 IV. Normar los aspectos técnico-jurídicos que permitan publicar, difundir y distribuir la Gaceta Oficial del Distrito Federal;
 
-V. Vigilar el cumplimiento de la Ley del Notariado del Distrito Federal;
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2009)</small>
+
+V. Vigilar el cumplimiento de la Ley del Notariado del Distrito Federal y establecer lineamientos y criterios de interpretación de la normatividad aplicable a la función notarial;
+
+> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2009)</small>
+
+V Bis.- Integrar y mantener actualizado el registro de inicio, modificación, adición y terminación de sociedades en convivencia;
 
 VI. Integrar, sustanciar y resolver el recurso administrativo de revocación de la declaratoria de expropiación, de ocupación temporal o de limitación de dominio;
 
@@ -1882,7 +1888,9 @@ XLV. Las demás que le atribuyan expresamente los reglamentos y demás disposici
 
 Corresponde a la Unidad de Inteligencia Financiera del Distrito Federal:
 
-I. Generar, analizar y consolidar información fiscal, financiera y patrimonial relacionada con conductas que pudieran estar vinculadas con la comisión de delitos en materia de delincuencia organizada;
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2009)</small>
+
+I. Generar, obtener, analizar y consolidar información fiscal y patrimonial para la investigación de hechos posiblemente ilícitos que generen en las personas un beneficio o incremento económico injustificable, con la finalidad de aportar la información a las autoridades competentes;
 
 II. Emitir lineamientos para agrupar y jerarquizar, por niveles de riesgo, la información que obtenga;
 
@@ -1890,15 +1898,23 @@ III. Coordinar el equipo de trabajo integrado por los enlaces permanentes, así 
 
 IV. Requerir a las unidades administrativas, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, que proporcionen la información y documentación necesaria para el ejercicio de las atribuciones que se le confieren en este Reglamento;
 
-V. Presentar a las autoridades competentes para la investigación, persecución, procesamiento y sanción de delitos, información fiscal, financiera y patrimonial relacionada con conductas que pudieran estar vinculadas con la delincuencia organizada;
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2009)</small>
 
-VI. Denunciar o querellarse ante el Ministerio Público competente de los hechos que tenga conocimiento y puedan constituir delitos en materia de delincuencia organizada;
+V. Proporcionar a la autoridad competente los elementos que indiquen de manera específica el beneficio o incremento económico injustificado de personas vinculadas con hechos posiblemente ilícitos;
 
-VII. Coadyuvar con las autoridades competentes, en los procesos penales relacionados con los asuntos de su competencia;
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2009)</small>
+
+VI. Denunciar o querellarse ante el Ministerio Público competente de los hechos que tenga conocimiento y puedan constituir delitos;
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2009)</small>
+
+VII. Participar en los Comités Técnicos creados con el propósito de afectar la economía de la delincuencia y en aquellos otros que sean de su competencia por disposición expresa o invitación;
 
 VIII. Realizar, en el ámbito de su competencia el seguimiento y control de los procesos originados por las denuncias y querellas formuladas por la Unidad de Inteligencia Financiera, así como de aquellas en que ésta tenga interés;
 
-IX. Suscribir los documentos y celebrar los actos jurídicos necesarios para el ejercicio de sus funciones;
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2009)</small>
+
+IX. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como celebrar, otorgar y suscribir los contratos, convenios, escrituras públicas y demás actos jurídicos de carácter administrativo o de cualquier otra índole dentro del ámbito de su competencia, necesarios para el ejercicio de sus funciones y, en su caso, de las unidades administrativas que les estén adscritas, así como los que deriven de la Ley de Extinción de Dominio para el Distrito Federal;
 
 X. Coordinarse con las autoridades competentes para la práctica de los actos de fiscalización que resulten necesarios con motivo del ejercicio de sus facultades;
 
@@ -1910,15 +1926,23 @@ XIII. Realizar consultas a expertos, instituciones académicas y de investigaci�
 
 XIV. Participar en foros y eventos relacionados;
 
-> <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JUNIO DE 2009)</small>
 
-XV. Verificar el correcto cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de mercancías y vehículos de procedencia extranjera, excepto aeronaves, así como su legal almacenaje, estancia o tenencia, transporte o manejo en el país, cuando circulen en el territorio del Distrito Federal, de conformidad con los instrumentos y disposiciones jurídicas aplicables;
+XV. Verificar el correcto cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de mercancías y vehículos de procedencia Extranjera, excepto aeronaves, así como su legal almacenaje, estancia o tenencia, transporte o manejo en el país, cuando circulen en el territorio del Distrito Federal, de conformidad con los instrumentos y disposiciones jurídicas aplicables; mismas que a continuación se señalan:
+
+> <small>(REFORMADO, G.O. 29 DE FEBRERO DE 2008)</small>
 
 a) Comprobar el correcto cálculo y pago de los impuestos generales de importación y de exportación, así como del derecho de trámite aduanero;
 
+> <small>(REFORMADO, G.O. 29 DE FEBRERO DE 2008)</small>
+
 b) Comprobar el correcto cálculo y pago de los impuestos al valor agregado, especial sobre producción y servicios, sobre automóviles nuevos y sobre tenencia o uso de vehículos, causados por la importación a territorio nacional;
 
+> <small>(REFORMADO, G.O. 29 DE FEBRERO DE 2008)</small>
+
 c) Comprobar el correcto cumplimiento de regulaciones y restricciones no arancelarias, inclusive de las normas oficiales mexicanas y el pago de cuotas compensatorias;
+
+> <small>(REFORMADO, G.O. 29 DE FEBRERO DE 2008)</small>
 
 d) Comprobar el correcto cumplimiento de las obligaciones derivadas del régimen aduanero al que hayan sido sometidas las mercancías y los vehículos de procedencia extranjera, excepto aeronaves; incluso aquellas derivadas de los programas de fomento a la exportación otorgados por la Secretaría de Economía;
 
@@ -1946,21 +1970,25 @@ XX. Administrar las funciones operativas inherentes a la recaudación, comprobac
 
 XXI. Ejecutar la facultad económico coactiva, mediante el procedimiento administrativo de ejecución, para hacer efectivo los créditos fiscales de carácter federal, en materia de comercio exterior, en los términos de las disposiciones fiscales aplicables y de los acuerdos suscritos con el Ejecutivo Federal;
 
-> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2009)</small>
 
-XXII. Aceptar y calificar las garantías que otorguen los contribuyentes para asegurar el interés fiscal, respecto de los créditos fiscales de carácter federal en materia de comercio exterior, en los términos de las disposiciones federales aplicables y de los acuerdos suscritos con el Ejecutivo Federal, así como, registrarlas, autorizar sus sustitución, cancelarlas, devolverlas, hacerlas efectivas, ordenar su ampliación o resolver su dispensa, cuando sea procedente;
+XXII. Aceptar y calificar las garantías que otorguen los contribuyentes para asegurar el interés fiscal, respecto de los créditos fiscales de carácter federal en materia de comercio exterior, en los términos de las disposiciones federales aplicables y de los acuerdos suscritos con el Ejecutivo Federal, así como, registrarlas, autorizar su sustitución, cancelarlas, devolverlas, hacerlas efectivas, ordenar su ampliación o resolver su dispensa, cuando sea procedente;
 
 > <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
 
 XXIII. Imponer las sanciones que correspondan por infracciones a las disposiciones fiscales en materia de comercio exterior, cuya aplicación esté encomendada a la Administración Pública del Distrito Federal, de conformidad con los instrumentos y disposiciones jurídicas aplicables;
 
-> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2009)</small>
 
-XXIV. Determinar y cobrar los ingresos federales coordinados, con base en las leyes, convenios de coordinación y acuerdos que rijan la materia, así como ejercer las facultades de comprobación que las mismas establezcan, en materia de comercio exterior; y
+XXIV. Determinar y cobrar los ingresos federales coordinados, con base en las leyes, convenios de coordinación y acuerdos que rijan la materia, así como ejercer las facultades de comprobación que las mismas establezcan, en materia de comercio exterior;
 
-> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2009)</small>
 
-XXV. Todas aquellas que sean necesarias para el ejercicio de sus funciones, las que sean conferidas por sus superiores jerárquicos, así como las que correspondan a las unidades administrativas que le sean adscritas.
+XXV. Compilar, explotar, analizar y consolidar la información contenida en las bases de datos con que cuentan los órganos centrales, desconcentrados y paraestatales que conforman la organización de la Administración Pública del Distrito Federal, con el fin de generar datos estadísticos, mapas patrimoniales que identifiquen factores de riesgo, así como patrones inusuales en materia fiscal y patrimonial; y
+
+> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2009)</small>
+
+XXVI. Todas aquellas que sean necesarias para el ejercicio de sus funciones, las que sean conferidas por sus superiores jerárquicos, así como las que correspondan a las unidades administrativas que le sean adscritas.
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -5172,9 +5200,9 @@ VIII. Designar los peritos que se requieran para la formulación de los dictáme
 
 IX. Resolver, en los casos que proceda, el levantamiento del embargo precautorio, así como la entrega de las mercancías, medios de transporte o vehículos de procedencia extranjera, embargados precautoriamente, antes de la conclusión del procedimiento administrativo en materia aduanera;
 
-> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2009)</small>
 
-X. Determinar los impuestos de carácter federal y sus accesorios, la aplicación de las cuotas compensatorias, así como determinar en cantidad líquida el monto correspondiente que resulte a cargo de los contribuyentes, responsables solidarios y demás obligados en materia de comercio exterior;
+X. Determinar las contribuciones de carácter federal y sus accesorios, la aplicación de las cuotas compensatorias, así como determinar en cantidad líquida el monto correspondiente que resulte a cargo de los contribuyentes, responsables solidarios y demás obligados en materia de comercio exterior;
 
 XI. Imponer las multas que correspondan, en el ámbito de su competencia, relacionadas con el cumplimiento de las obligaciones fiscales y aduaneras, así como reducir o condonar dichas multas y aplicar la tasa de recargos que corresponda en términos del Código Fiscal de la Federación vigente;
 
@@ -8474,9 +8502,17 @@ XII. Substanciar y emitir el dictamen correspondiente a los procedimientos admin
 
 XIII. Substanciar y emitir el dictamen correspondiente a las solicitudes de pago de indemnización por expropiaciones; o bien por afectaciones realizadas con la finalidad de subsanar las necesidades del Distrito Federal, a efecto de formalizar la adquisición de los inmuebles afectados;
 
-XIV. Aplicar las disposiciones legales en materia de notariado y vigilar su cumplimiento;
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2009)</small>
 
-XV. Conservar, administrar y vigilar el funcionamiento del Archivo General de Notarías;
+XIV. Aplicar las disposiciones que regulan la función notarial, vigilar su cumplimiento y resolver los procedimientos administrativos que deriven de ello y las quejas que sean presentadas contra los notarios públicos del Distrito Federal, así como instrumentar dichos procedimientos y quejas, por sí o a través de la Dirección Consultiva y de Asuntos Notariales y de la Subdirección de Notariado;
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2009)</small>
+
+XV. Conservar, administrar y vigilar el funcionamiento del Archivo General de Notarias así como vigilar el cumplimiento de las disposiciones en materia de protocolos y apéndices que se remitan para su custodia al mismo;
+
+> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2009)</small>
+
+XV Bis. Recibir los avisos de los notarios públicos del Distrito Federal acerca de la designación de tutela cautelar e informar a la autoridad competente acerca de la existencia de designación de la misma;
 
 XVI. Intervenir en el trámite de legalización de firmas de los servidores públicos y fedatarios del Distrito Federal, así como en exhortos y cartas rogatorias, de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
@@ -8484,7 +8520,9 @@ XVII. Substanciar la revocación y caducidad de las concesiones, permisos y auto
 
 XVIII. Aplicar las disposiciones jurídicas en materia de trámites funerarios y cementerios en el Distrito Federal y vigilar su cumplimiento;
 
-XIX. Proponer los criterios de interpretación de las disposiciones jurídicas y administrativas que normen el funcionamiento de la Administración Pública, así como sistematizar y difundir los criterios ya establecidos;
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2009)</small>
+
+XIX. Proponer los lineamientos generales y criterios de interpretación de las disposiciones jurídicas y administrativas que normen el funcionamiento de la Administración Pública y de la función notarial en el Distrito Federal, así como sistematizar y difundir los criterios establecidos;
 
 XX. Coadyuvar en la coordinación y vigilancia de las disposiciones jurídicas en materia de cultos conforme a las leyes de la materia;
 
@@ -8494,9 +8532,21 @@ XXII. Supervisar la elaboración, trámite y seguimiento de las solicitudes de e
 
 XXIII. Sistematizar y difundir las normas jurídicas aplicables en el Distrito Federal, mediante la permanente actualización y compilación de las publicaciones oficiales correspondientes, así como el marco jurídico-administrativo que incida en la esfera de los particulares, incorporando tecnologías que permitan al público en general, el acceso a esta información;
 
-XXIV. Participar en la elaboración, actualización, y en su caso, aprobación del Programa de Desregulación y Simplificación Administrativa, respecto de aquellas acciones que pudieran incidir en la esfera de terceros; y
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2009)</small>
 
-XXV. Revisar, y en su caso, aprobar las modificaciones jurídicas de las condiciones generales de trabajo y de los contratos colectivos en que sea parte la Administración Pública del Distrito Federal.
+XXIV. Participar en la elaboración, actualización y en su caso, aprobación del Programa de Desregulación y Simplificación Administrativa, respecto de aquellas acciones que pudieran incidir en la esfera de terceros;
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2009)</small>
+
+XXV. Revisar, y en su caso, aprobar las modificaciones jurídicas de las Condiciones Generales de Trabajo y de los contratos colectivos en que sea parte la Administración Pública del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2009)</small>
+
+XXVI. Registrar el inicio, la modificación, la adición y terminación de sociedades en convivencia; permitir la consulta y expedir copia certificada del escrito de constitución de sociedad de convivencia, así como informar a las autoridades competentes respecto de éstas, y
+
+> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2009)</small>
+
+XXVII. Certificar, por sí o a través de las Direcciones Consultiva y de Asuntos Notariales y de Legislación y Trámites Inmobiliarios, los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo.
 
 ###### Artículo 115.
 
@@ -12602,37 +12652,35 @@ XI. Efectuar las pruebas requeridas para poner en servicio las ampliaciones de l
 
 XII. Las demás que le atribuyan expresamente la normativa vigente.
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JUNIO DE 2009)</small>
 
 ###### Artículo 206.
 
-Para el despacho de los asuntos que competan al órgano desconcentrado Proyecto Metro se le adscriben:
+Para el despacho de los asuntos que competan al Órgano Desconcentrado Proyecto Metro del Distrito Federal se le adscriben:
 
-I. Dirección Ejecutiva de Operación;
+I. Dirección de Administración de Contratos;
 
-II. Dirección Ejecutiva de Administración;
+II. Dirección de Diseño de Obras Civiles;
 
-III. Dirección de Administración de Contratos;
+III. Dirección de Diseño de Instalaciones Electromecánicas;
 
-IV. Dirección de Diseño de Obras Civiles;
+IV. Dirección de Construcción de Obras Civiles;
 
-V. Dirección de Diseño de Instalaciones Electromecánicas;
+V. Dirección de Construcción de Instalaciones Electromecánicas;
 
-VI. Dirección de Construcción de Obras Civiles;
+VI. Dirección de Obras Inducidas; y
 
-VII. Dirección de Construcción de Instalaciones Electromecánicas;
-
-VIII. Dirección de Obras Inducidas del Proyecto Metro; y
-
-IX. Las demás que requieran, en atención a la suficiencia presupuestal, y que se señalen en el dictamen de su estructura.
-
-Las atribuciones que les correspondan a cada unidad administrativa se establecerán en el Manual Administrativo correspondiente.
+VII. Las demás que requieran, en atención a la suficiencia presupuestal, y que se señalen en el dictamen de su estructura.
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2009)</small>
 
+Las atribuciones que les correspondan a cada unidad administrativa se establecerán en el Manual Administrativo correspondiente.
+
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2009)</small>
+
 ###### Artículo 207.
 
-El órgano desconcentrado Proyecto Metro tendrá autonomía de gestión administrativa y financiera, a través de la Dirección Ejecutiva de Administración que se le adscriba.
+El órgano desconcentrado Proyecto Metro del Distrito Federal tendrá autonomía de gestión técnica, administrativa y financiera para el ejercicio de sus atribuciones.
 
 > <small>N. DE E. LOS ARTICULOS QUE INTEGRABAN ESTA SECCION FUERON ADICIONADOS Y REUBICADOS A LA SECCION IV, G.O. 24 DE ABRIL DE 2009.</small>
 
@@ -13073,3 +13121,21 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Los recursos humanos, materiales, técnicos y financieros que actualmente corresponden a la Dirección General del Proyecto Metro pasarán íntegramente al órgano desconcentrado Proyecto Metro.
 
 CUARTO.- Con el objeto de que el Órgano Desconcentrado, creado en este Decreto, cuente con los recursos humanos, materiales, técnicos y financieros para su funcionamiento y operación, la Secretaria de Fianzas y la Oficialía Mayor realizarán las adecuaciones presupuestales y administrativas correspondientes.
+
+G.O. 9 DE JUNIO DE 2009.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 29 Y 114 DEL REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 9 DE JUNIO DE 2009.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 36 BIS, 92 TER, 206 Y 207 DEL REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL.
+
+PRIMERO. - Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. - Se abroga el Acuerdo por el que se crea la Unidad de Inteligencia Financiera en el Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el veintidós de enero del año dos mil siete.
