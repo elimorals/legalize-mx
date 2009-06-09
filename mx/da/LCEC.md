@@ -4,7 +4,7 @@ identifier: "LCEC"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-20"
-last_updated: "2005-01-20"
+last_updated: "2009-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42390&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCEC"
 
 LEY DE CAMARAS EMPRESARIALES Y SUS CONFEDERACIONES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JUNIO DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 20 de enero de 2005.
 
@@ -350,7 +350,9 @@ IX. Derechos y obligaciones de las delegaciones de las Cámaras;
 
 X. Facultades y funciones en materia de representación, administración, usufructo, prestación de servicios y otras cuestiones vinculadas a su objeto que las Cámaras transfieren a sus delegaciones;
 
-XI. Procedimientos para la solución de controversias para lo cual se insertará una cláusula que establezca la obligación de la Cámara de someterse al arbitraje cuando el afiliado opte por dicho procedimiento;
+> <small>(REFORMADA, D.O.F. 9 DE JUNIO DE 2009)</small>
+
+XI. Procedimientos para la solución de controversias para lo cual se insertará una cláusula que establezca la obligación de la Cámara de someterse al arbitraje cuando el afiliado opte por dicho procedimiento y de informar a sus afiliados sobre los recursos disponibles en general y conforme a lo estipulado en la fracción VIII del artículo 22 de esta ley, para la promoción de procedimientos por la vía arbitral;
 
 XII. Procedimientos de disolución y liquidación, y
 
@@ -512,11 +514,15 @@ VI. Someter a la Asamblea General el balance anual y el estado de resultados de 
 
 VII. Proporcionar la información requerida por la Secretaría y, en su caso, la Confederación respectiva;
 
-VIII. Determinar la sede y circunscripción de las delegaciones;
+> <small>(ADICIONADA, D.O.F. 9 DE JUNIO DE 2009)</small>
 
-IX. Analizar y dictaminar, en el caso de las Confederaciones, sobre las solicitudes para la creación de nuevas Cámaras, aprobando o rechazando la solicitud, sometiendo el dictamen correspondiente a la consideración de la Secretaría, y
+VIII. Promover y suscribir convenios con organizaciones que se dediquen a la resolución de controversias mediante procedimientos arbitrales de carácter comercial conforme a lo estipulado en el Código de Comercio, a fin de informar a sus afiliados y fomentar el uso de dichos procedimientos entre éstos;
 
-X. Las demás que señalen esta Ley y los Estatutos respectivos.
+IX. Determinar la sede y circunscripción de las delegaciones;
+
+X. Analizar y dictaminar, en el caso de las Confederaciones, sobre las solicitudes para la creación de nuevas Cámaras, aprobando o rechazando la solicitud, sometiendo el dictamen correspondiente a la consideración de la Secretaría, y
+
+XI. Las demás que señalen esta Ley y los Estatutos respectivos.
 
 ###### Artículo 23.
 
@@ -815,3 +821,9 @@ La Secretaría, con la participación de las Cámaras y Confederaciones, elabora
 México, D.F., a 14 de diciembre de 2004.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Manlio Fabio Beltrones Rivera, Presidente.- Sen. Sara I. Castellanos Cortés, Secretaria.- Dip. Marcos Morales Torres, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de enero de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 9 DE JUNIO DE 2009.
+
+Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
