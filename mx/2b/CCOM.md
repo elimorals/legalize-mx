@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "2009-06-08"
+last_updated: "2009-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JUNIO DE 2009.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -5674,6 +5674,10 @@ Art. 1,050. Cuando conforme a las disposiciones mercantiles, para una de las par
 
 Art. 1,051. El procedimiento mercantil preferente a todos es el que libremente convengan las partes con las limitaciones que se señalan en este libro, pudiendo ser un procedimiento convencional ante Tribunales o un procedimiento arbitral.
 
+> <small>(ADICIONADO, D.O.F. 9 DE JUNIO DE 2009)</small>
+
+A tal efecto, el tribunal correspondiente hará del conocimiento de las partes la posibilidad de convenir sobre el procedimiento a seguir para solución de controversias, conforme a lo establecido en el párrafo anterior del presente artículo.
+
 La ilegalidad del pacto o su inobservancia cuando esté ajustado a ley, pueden ser reclamadas en forma incidental y sin suspensión del procedimiento, en cualquier tiempo anterior a que se dicte el laudo o sentencia.
 
 El procedimiento convencional ante tribunales se regirá por lo dispuesto en los artículos 1052 y 1053, y el procedimiento arbitral por las disposiciones del título cuarto de este libro.
@@ -9303,3 +9307,7 @@ D.O.F. 8 DE JUNIO DE 2009.
 DECRETO POR EL QUE SE REFORMA EL ARTICULO 1350 DEL CODIGO DE COMERCIO.
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE JUNIO DE 2009.
+
+Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
