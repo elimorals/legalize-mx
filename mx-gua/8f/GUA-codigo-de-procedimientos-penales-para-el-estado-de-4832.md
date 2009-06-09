@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-penales-para-el-estado-de-4832"
 country: "mx"
 rank: "codigo"
 publication_date: "1959-04-02"
-last_updated: "2009-03-27"
+last_updated: "2009-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2009.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 2 de abril de 1959.
 
@@ -155,29 +155,41 @@ Competencia.
 
 > <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
-###### Art. 7.
+###### Art. 7o.
 
 Es Tribunal competente para conocer de un delito, el del lugar en que se cometa.
 
 Si conforme a lo dispuesto por el Artículo 2 del Código Penal resultaran competentes dos o más Tribunales del Estado, conocerá del proceso el que haya prevenido.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-En el caso de delitos cometidos fuera del territorio del Estado, a que se refiere el Artículo 1º del Código Penal, es competente el Tribunal del lugar en que se cause o esté destinado a causar efectos el delito, o, en su defecto, cualquiera del Estado ante quien ejercite acción penal el Ministerio Público.
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2009)</small>
+
+También será competente para conocer, un Juez distinto al del lugar de comisión del delito, si por razones de seguridad relacionadas con las características del hecho imputado o las circunstancias personales del inculpado o cualquier otra que impida garantizar el desarrollo adecuado del proceso, el Ministerio. Público sustenta debidamente la necesidad de llevar el ejercicio de la acción penal ante aquél.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2009)</small>
+
+De igual forma será competente dicho Juez para los casos en que, por las mismas razones, la autoridad judicial, de oficio o a petición de parte, estime necesario trasladar a un procesado a algún otro centro de reclusión.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2009)</small>
+
+En el caso anterior, el Juez dará vista a las partes por el término de tres días para que expongan lo que estimen conveniente, transcurridos los cuales emitirá su fallo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2009)</small>
+
+En el caso de delitos cometidos fuera del territorio del Estado, a que se refiere el artículo 1º del Código Penal, es competente el Tribunal del lugar en que se cause o esté destinado a causar efectos el delito o, en su defecto, cualquiera del estado ante quien ejercite acción penal el Ministerio Público.
 
 > <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
-###### Art. 8.
-
-Es competente para conocer de los delitos continuados o permanentes cualesquiera de los Tribunales en cuya jurisdicción se haya ejecutado.
-
-###### Art. 7o.
-
-Es tribunal competente para conocer de un delito, el del lugar en que se comete.
-
 ###### Art. 8o.
 
-Es competente para conocer de los delitos continuos, cualesquiera de los tribunales en cuya jurisdicción se hayan ejecutado actos que por sí solos constituyen el o los delitos imputados.
+Es competente para conocer de los delitos continuados o permanentes cualesquiera de los Tribunales en cuya jurisdicción se haya ejecutado.
 
 ###### Art. 9o.
 
@@ -4098,3 +4110,7 @@ P.O. 27 DE MARZO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE JUNIO DE 2009.
+
+Artículo Único. El presente decreto entrará en vigor a los ciento veinte días siguientes al de su publicación en el periódico oficial del Gobierno del Estado.
