@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-concesiones-de-servicios-e-29780"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-04-01"
-last_updated: "2003-04-01"
+last_updated: "2009-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29780&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2009.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 1 de abril de 2003.
 
@@ -203,11 +203,15 @@ II.- El Titular de la dependencia o entidad correspondiente, conforme a lo dispu
 
 III.- El Titular de la Secretaría de Finanzas y Administración;
 
-IV.- El titular de la Secretaría de Desarrollo Social y Humano;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2009)</small>
+
+IV.- El Titular de la Coordinación General de Programación y Gestión de la Inversión Pública;
 
 V.- El titular de la Secretaría de Desarrollo Económico Sustentable; y
 
-VI.- El Titular de la Secretaría de la Contraloría.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2009)</small>
+
+VI.- El Titular de la Secretaría de la Gestión Pública.
 
 ###### Artículo 17.
 
@@ -283,7 +287,9 @@ VI.- Requisitos que deberán cumplir los interesados;
 
 VII.- Fecha, hora y lugar, para el registro de Iicitantes, así como para la adquisición de las bases y especificaciones de la licitación;
 
-VIII.- Fecha, hora y lugar de celebración del acto de presentación y apertura de proposiciones;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2009)</small>
+
+VIII.- Fecha, hora y lugar de celebración de los actos de presentación y apertura de propuestas;
 
 IX.- Fecha estimada de inicio y terminación de las diferentes etapas de la concesión, en su caso;
 
@@ -355,13 +361,17 @@ Atendiendo a las circunstancias especiales de cada concesión, la Secretaría es
 
 Las propuestas serán recibidas en acto público por la Secretaría en el día, hora y lugar indicado en las bases de la licitación para este efecto.
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2009)</small>
+
 ###### Artículo 32.
 
-En caso de diferimiento de la fecha de recepción y apertura de las propuestas, todos los derechos y obligaciones de la Secretaría y de los oferentes se entenderán prorrogados hasta la nueva fecha de recepción y apertura de las propuestas, debiendo constituirse en dicha oportunidad las garantías que correspondan, cuando procedieran.
+En caso de diferimiento de las fechas de recepción y apertura de las propuestas, todos los derechos y obligaciones de la Secretaría y de los oferentes se entenderán prorrogados hasta la nueva fecha de recepción y apertura de las propuestas, debiendo constituirse en dicha oportunidad las garantías que correspondan, cuando procedieran.
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2009)</small>
 
 ###### Artículo 33.
 
-No se aceptará, bajo ninguna circunstancia, que los oferentes entreguen documentos faltantes de los solicitados en las bases de la licitación o canjeen los rechazados con posterioridad al inicio del acto de apertura.
+No se aceptará, bajo ninguna circunstancia, que los oferentes entreguen documentos faltantes de los solicitados en las bases de la licitación o canjeen los rechazados con posterioridad al inicio del acto de presentación y apertura de propuestas.
 
 ###### Artículo 34.
 
@@ -427,9 +437,13 @@ II.- Acto seguido, se pasará la propuesta integra a todos y cada uno de los par
 
 III.- La Secretaría podrá requerir de los oferentes, hasta antes de la apertura de la oferta económica, aclaraciones, rectificaciones por errores de forma u omisiones y la entrega de antecedentes, con el objeto de clarificar y precisar el correcto sentido y alcance de la oferta técnica, evitando que alguna sea descalificada por aspectos formales en su evaluación y contemplando siempre el principio de transparencia del proceso y de igualdad de los licitantes;
 
-IV.- Posteriormente, se procederá a abrir las propuestas económicas de los licitantes, siguiendo el mismo procedimiento que el detallado en las fracciones anteriores;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2009)</small>
 
-V.- Se levantará el acta correspondiente a la etapa de la licitación de presentación y apertura de propuestas y se hará constar, relacionándolas, aquéllas que por incumplimiento de los requisitos exigidos fueron desechadas, precisando cuales no fueron cubiertos, así como aquéllas que fueron admitidas para su evaluación posterior; y
+IV.- Una vez evaluadas las propuestas técnicas, se procederá a abrir las propuestas económicas de los licitantes, siguiendo el mismo procedimiento que el detallado en las fracciones anteriores;
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2009)</small>
+
+V.- En las actas correspondientes al acto de presentación y apertura de propuestas técnicas, así como en el acto de apertura de propuestas económicas, se harán constar aquellas que por incumplimiento de los requisitos exigidos fueron desechadas, precisando cuáles no fueron cubiertos, así como aquellas que fueron admitidas para su evaluación posterior; y
 
 VI.- Dentro del término que para tal efecto se establezca en la convocatoria o en el que se establezca en las bases de la licitación, la convocante, conforme a los criterios de evaluación a que se refiere el presente Reglamento y las propias bases, con la opinión y en su caso, con las recomendaciones del Consejo Consultivo, emitirá el dictamen de su evaluación procediendo a remitirlo al titular del Ejecutivo del Estado, para que el emita acuerdo respectivo en el que, en su caso, seleccione al licitante ganador y lo devuelva a la convocante debidamente firmado.
 
@@ -712,3 +726,9 @@ ARTURO NÚÑEZ SERRANO
 EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN
 
 JOSÉ LUIS MARIO AGUILAR Y MAYA MEDRANO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE JUNIO DE 2009.
+
+Artículo Único. El presente Decreto Gubernativo iniciará su vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
