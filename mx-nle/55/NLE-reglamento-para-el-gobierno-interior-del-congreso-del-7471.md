@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2008-12-31"
+last_updated: "2009-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -733,9 +733,15 @@ e) Los asuntos concernientes a promover la participación de la juventud en los 
 
 f) Las iniciativas en materia de recreación y aprovechamiento del tiempo libre de los jóvenes;
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2009)</small>
+
 g) Los asuntos relacionados con el desarrollo personal y profesional de la juventud;
 
-h) Los demás asuntos e iniciativas que el Congreso le encomiende.
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2009)</small>
+
+h) Organizar y llevar a cabo anualmente el Parlamento de Jóvenes del Estado de Nuevo León; y
+
+i) Los demás asuntos e iniciativas que el Congreso le encomiende.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE NOVIEMBRE DE 2006)</small>
 
@@ -2288,3 +2294,7 @@ P.O. 31 DE DICIEMBRE DE 2008.
 DECRETO No. 336, POR EL QUE SE REFORMA LA FRACCION VI DEL ARTICULO 39 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JUNIO DE 2009.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación.
