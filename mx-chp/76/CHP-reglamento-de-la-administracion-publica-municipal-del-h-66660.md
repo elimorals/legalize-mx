@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-la-administracion-publica-municipal-del-h-66660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-14"
-last_updated: "2009-04-22"
+last_updated: "2009-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL H. AYUNTAMIENTO DE TUXTLA GUTIERREZ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 14 de enero de 2009.
 
@@ -1375,9 +1375,17 @@ III. Dirección de Costos y Concursos;
 
 IV. Dirección de Infraestructura;
 
-V. Dirección de Ordenamiento Territorial; y,
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2009)</small>
 
-VI. Dirección de Proyectos.
+V. Dirección de ordenamiento Territorial;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2009)</small>
+
+VI. Dirección de Proyectos; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2009)</small>
+
+VII. Dirección de Obras Viales.
 
 ###### Artículo 64 Bis.
 
@@ -1524,6 +1532,26 @@ V. Participar coordinada y normativamente con la Secretaría de Obras Públicas 
 VI. Supervisar que la calidad de la obra sea acorde a lo proyectado; y,
 
 VII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Obras Públicas y Desarrollo Urbano dentro del ámbito de su competencia.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2009)</small>
+
+###### Artículo 69 Bis.
+
+La Dirección de Obras Viales tendrá las siguientes atribuciones:
+
+I. Coordinar la realización y ejecución de la conservación de las vialidades en sus diferentes funciones;
+
+II. Coordinar y atender trabajos de construcción y mantenimiento de vialidad urbana, bacheo con concreto asfáltico e hidráulico, desazolve de alcantarillas y canales pluviales, reparación de brocales, y rejillas;
+
+III. Coordinar con la Dirección de Atención Ciudadana, las solicitudes formuladas por la ciudadanía en general a través de los medios masivos de comunicación, para la ejecución de obras en beneficio de la comunidad;
+
+IV. Participar en la formulación de planes de construcción de infraestructura para vialidades;
+
+V. Coordinar la ejecución de muros de protección a base de gavión y/o mampostería en afluentes de la cuenca del río Sabinal;
+
+VI. Coordinar con la Dirección de Protección Civil, la atención de emergencias provocadas por fenómenos naturales; y,
+
+VII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Servicios Municipales dentro del ámbito de su competencia.
 
 ###### Artículo 70.
 
@@ -1835,7 +1863,7 @@ XII. Las demás que determinen las disposiciones jurídicas aplicables o le dele
 
 ###### Artículo 81.
 
-Es la dependencia encargada de ejecutar las acciones necesarias para brindar a la ciudadanía los servicios de obras viales e imagen urbana, recolección de basura, ornato en áreas verdes y alumbrado público, así como los servicios relacionados con la administración de los mercados, panteones y comercios ambulantes contando para ello con las siguientes atribuciones:
+Es la dependencia encargada de ejecutar las acciones necesarias para brindar a la ciudadanía los servicios de imagen urbana, recolección de basura, ornato en áreas verdes y alumbrado público, así como los servicios relacionados con la administración de los mercados, panteones y comercios ambulantes contando para ello con las siguientes atribuciones:
 
 I. Formular los programas operativos anuales y los programas emergentes en materia de servicios públicos;
 
@@ -1865,9 +1893,9 @@ III. Dirección de Limpia y Aseo Público;
 
 IV. Dirección de Mercados, Panteones y Comercio Ambulante;
 
-V. Dirección de Imagen Urbana; y,
+V. Dirección de Imagen Urbana; y, (sic)
 
-VI. Dirección de Obras Viales.
+VI. (DEROGADA, P.O. 10 DE JUNIO DE 2009)
 
 ###### Artículo 83.
 
@@ -1973,6 +2001,8 @@ XIV. Las demás que determinen las disposiciones jurídicas aplicables o le dele
 
 ### Capítulo X. Secretaría de Servicios Municipales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2009)</small>
+
 ###### Artículo 86.
 
 La Dirección de Mercados, Panteones y Comercio en Vía Pública tendrá las siguientes atribuciones:
@@ -2031,21 +2061,7 @@ IX. Las demás que determinen las disposiciones jurídicas aplicables o le deleg
 
 ###### Artículo 88.
 
-La Dirección de Obras Viales tendrá las siguientes atribuciones:
-
-I. Coordinar la realización y ejecución de la conservación de las vialidades en sus diferentes funciones;
-
-II. Coordinar y atender trabajos de construcción y mantenimiento de vialidad urbana, bacheo con concreto asfáltico e hidráulico, desazolve de alcantarillas y canales pluviales, reparación de brocales, y rejillas;
-
-III. Coordinar con la Dirección de Atención Ciudadana, las solicitudes formuladas por la ciudadanía en general a través de los medios masivos de comunicación, para la ejecución de obras en beneficio de la comunidad;
-
-IV. Participar en la formulación de planes de construcción de infraestructura para vialidades;
-
-V. Coordinar la ejecución de muros de protección a base de gavión y/o mampostería en afluentes de la cuenca del río Sabinal;
-
-VI. Coordinar con la Dirección de Protección Civil, la atención de emergencias provocadas por fenómenos naturales; y,
-
-VII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Servicios Municipales dentro del ámbito de su competencia.
+(DEROGADO, P.O. 10 DE JUNIO DE 2009)
 
 ###### Artículo 89.
 
@@ -2888,6 +2904,14 @@ C. Jaime Valls Esponda, Presidente Municipal Constitucional.- C. Jorge Flores Ri
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE ABRIL DE 2009.
+
+Primero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chiapas.
+
+Segundo.- Quedan derogadas todas aquellas disposiciones que se opongan al presente acuerdo.
+
+Tercero.- Para su debido conocimiento publíquese el presente Reglamento en la Gaceta Municipal, y remítase al Director del Periódico Oficial del Estado para su publicación.
+
+P.O. 10 DE JUNIO DE 2009.
 
 Primero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chiapas.
 
