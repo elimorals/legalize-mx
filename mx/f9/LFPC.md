@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2009-01-29"
+last_updated: "2009-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPC"
 
 LEY FEDERAL DE PROTECCION AL CONSUMIDOR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE JUNIO DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
@@ -346,9 +346,9 @@ XIX. Aplicar las sanciones y demás medidas establecidas en esta ley, en la Ley 
 
 XX. Requerir a los proveedores o a las autoridades competentes a que tomen medidas adecuadas para combatir, detener, modificar o evitar todo género de prácticas que lesionen los intereses de los consumidores, y cuando lo considere pertinente publicar dicho requerimiento;
 
-> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2009)</small>
 
-XXI. Ordenar se informe a los consumidores sobre las acciones u omisiones de los proveedores que afecten sus intereses o derechos, así como la forma en que los proveedores los retribuirán o compensarán, y
+XXI. Ordenar se informe a los consumidores sobre las acciones u omisiones de los proveedores que afecten sus intereses o derechos, así como la forma en que los proveedores los retribuirán o compensarán y emitir alertas inmediatas a los consumidores sobre aquellos productos, prácticas en el abastecimiento de productos y servicios considerados nocivos o que pongan en riesgo la vida, la salud o la seguridad del consumidor, cuando dicho riesgo se haya acreditado fehacientemente por la autoridad competente, y
 
 > <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
@@ -376,21 +376,25 @@ III. En caso de que persista la infracción podrán imponerse nuevas multas por 
 
 IV. El auxilio de la fuerza pública.
 
-> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2009)</small>
 
 ARTICULO 25 BIS.- La Procuraduría podrá aplicar las siguientes medidas precautorias cuando se afecte o pueda afectar la vida, la salud, la seguridad o la economía de una colectividad de consumidores:
 
 I. Inmovilización de envases, bienes, productos y transportes;
 
-II. El aseguramiento de bienes o productos en términos de lo dispuesto por el artículo 98 TER de esta ley;
+II. El aseguramiento de bienes o productos en términos de lo dispuesto por el artículo 98 TER de esta Ley;
 
 III. Suspensión de la comercialización de bienes, productos o servicios;
 
-IV. Colocación de sellos de advertencia, y
+IV. Ordenar el retiro de bienes o productos del mercado, cuando se haya determinado fehacientemente por la autoridad competente que ponen en riesgo la vida o la salud de los consumidores;
 
-V. Ordenar la suspensión de información o publicidad a que se refiere el artículo 35 de esta ley.
+V. Colocación de sellos de advertencia, y
 
-Las medidas precautorias se dictarán conforme a los criterios que al efecto expida la Procuraduría y dentro del procedimiento correspondiente en términos de lo dispuesto en el artículo 57 y demás relativos de la Ley Federal sobre Metrología y Normalización; así como cuando se advierta que se afecta o se puede afectar la economía de una colectividad de consumidores en los casos a que se refiere el artículo 128 TER o cuando se violen disposiciones de esta ley por diversas conductas o prácticas comerciales abusivas, tales como: el incumplimiento de precios o tarifas exhibidos; el condicionamiento de la venta de bienes o de servicios; el incumplimiento de ofertas y promociones; por conductas discriminatorias y por publicidad o información engañosa. En el caso de la medida precautoria a que se refiere la fracción IV de este precepto, previo a la colocación del sello respectivo, la Procuraduría aplicará la medida a que se refiere el artículo 25, fracción I, de esta ley. Tales medidas se levantarán una vez que se acredite el cese de las causas que hubieren originado su aplicación. En su caso, la Procuraduría hará del conocimiento de otras autoridades competentes la aplicación de la o las medidas a que se refiere este precepto.
+VI. Ordenar la suspensión de información o publicidad a que se refiere el artículo 35 de esta Ley.
+
+Las medidas precautorias se dictarán conforme a los criterios que al efecto expida la Procuraduría y dentro del procedimiento correspondiente en términos de lo dispuesto en el artículo 57 y demás relativos de la Ley Federal sobre Metrología y Normalización; así como cuando se advierta que se afecta o se puede afectar la economía de una colectividad de consumidores en los casos a que se refiere el artículo 128 TER o cuando se violen disposiciones de esta ley por diversas conductas o prácticas comerciales abusivas, tales como: el incumplimiento de precios o tarifas exhibidos; el condicionamiento de la venta de bienes o de servicios; el incumplimiento de ofertas y promociones; por conductas discriminatorias y por publicidad o información engañosa. En el caso de la medida precautoria a que se refiere la fracción V de este precepto, previo a la colocación del sello respectivo, la Procuraduría aplicará la medida a que se refiere el artículo 25, fracción I, de esta Ley. Tales medidas se levantarán una vez que se acredite el cese de las causas que hubieren originado su aplicación. En su caso, la Procuraduría hará del conocimiento de otras autoridades competentes la aplicación de la o las medidas a que se refiere este precepto.
+
+Los proveedores están obligados a informar de inmediato a las autoridades si determinan que alguno de sus productos puede implicar riesgos para la vida o la salud de los consumidores.
 
 ###### ARTICULO 26.
 
@@ -1979,3 +1983,7 @@ UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2009.
 D.O.F. 29 DE ENERO DE 2009.
 
 Único. El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE JUNIO DE 2009.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
