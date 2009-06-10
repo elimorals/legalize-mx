@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transporte-para-la-movilidad-sustentable-del-estado-5192
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-30"
-last_updated: "2008-06-20"
+last_updated: "2009-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE TRANSPORTE PARA LA MOVILIDAD SUSTENTABLE DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 30 de septiembre de 2006.
 
@@ -1565,9 +1565,9 @@ II.- Los planes y programas referidos al SET;
 
 III.- Los documentos en los que consten las concesiones que expidan las autoridades conforme a las disposiciones de esta Ley, incluyendo las modificaciones que sufran;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2009)</small>
 
-IV.- Las licencias especiales que autorice la Agencia para operar o conducir vehículos, incluyendo las fechas de su vigencia y los nombres de sus titulares;
+IV.- Las licencias especiales que autorice la Agencia para operar o conducir vehículos, incluyendo las fechas de su vigencia y los nombres de sus titulares, así como las suspensiones temporales o definitivas que se lleven a cabo de conformidad con la fracción III del artículo 106, y la respectiva terminación de las suspensiones;
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
 
@@ -1719,27 +1719,41 @@ I.- Amonestación;
 
 II.- Multa;
 
-III.- Suspensión temporal o definitiva, parcial o total;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2009)</small>
+
+III.- Suspensión temporal o definitiva de las licencias;
 
 IV.- Arresto administrativo, hasta por 36 horas; y
 
-V.- Revocación de las concesiones, permisos y licencias.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2009)</small>
+
+V.- Revocación, suspensión temporal, parcial o total, de las concesiones y permisos.
 
 ###### Artículo 107.
 
 La falta de cumplimiento de las obligaciones de los conductores contenidas en el artículo 39 de ésta Ley dará lugar a capacitación obligatoria, amonestación o multa a juicio de la Comisión Calificadora tomando en cuenta la gravedad, reincidencia de la acción u omisión, así como la condición económica del infractor.
 
-Para la aplicación de las multas por primera ocasión en las infracciones del artículo 39 de esta Ley, se observará lo siguiente:
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2009)</small>
 
-I.- En las fracciones de la II a la VIII y XIV, se aplicarán de 5 a 20 cuotas;
+Para la aplicación de las multas por las infracciones al artículo 39 de esta Ley, se observará lo siguiente:
 
-II.- En las fracciones I y de la XI a la XIII se aplicarán de 21 a 100 cuotas; y
+I.- En las fracciones de la II a la VII y XIV, se aplicarán de 3 a 10 cuotas;
 
-III.- En las fracciones IX y X se aplicarán de 101 a 500 cuotas.
+II.- En las fracciones I, VIII, y de la XI a la XIII se aplicarán de 11 a 50 cuotas; y
+
+III.- En las fracciones IX y X se aplicarán de 51 a 250 cuotas.
 
 En todo caso, la conducción de vehículos afectos al SET bajo estado de ebriedad o el influjo de sustancias tóxicas dará lugar la aplicación de una sanción de 401 a 500 cuotas y a la cancelación de la licencia.
 
 La comisión de infracciones por parte de los operadores del Servicio Público de Pasajeros generará un aviso a los titulares de las concesiones y permisos correspondientes.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2009)</small>
+
+El pago de las multas a que se refiere este artículo deberá realizarse en un plazo no mayor a seis meses contados a partir de la fecha en que se haya cometido la infracción. En caso contrario, se procederá a la suspensión temporal de la licencia del conductor prevista en el artículo 106 fracción III, salvo en el caso de la suspensión definitiva prevista en el párrafo tercero del presente artículo.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2009)</small>
+
+El prestador del servicio será responsable solidario únicamente de los daños y perjuicios que se cometan con motivo de la prestación del servicio de transporte público.
 
 ###### Artículo 108.
 
@@ -1948,3 +1962,7 @@ Artículo Cuarto.- Los procedimientos bajo los cuales la autoridad determinará 
 P.O. 20 DE JUNIO DE 2008.
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JUNIO DE 2009.
+
+Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
