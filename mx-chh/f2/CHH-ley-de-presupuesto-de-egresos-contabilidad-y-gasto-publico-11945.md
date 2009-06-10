@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-presupuesto-de-egresos-contabilidad-y-gasto-publico-1194
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-14"
-last_updated: "2007-09-12"
+last_updated: "2009-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PRESUPUESTO DE EGRESOS, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2009.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 14 de diciembre de 1996.
 
@@ -49,9 +49,11 @@ LEY DE PRESUPUESTO DE EGRESOS, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE CHIHU
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 1.
 
-Las disposiciones de la presente ley son de orden público y tienen como objetivo regular la formulación del presupuesto de egresos, registros contables, así como el ejercicio, examen, vigilancia y evaluación del gasto público.
+Las disposiciones de la presente ley son de orden público y tienen como objetivo regular la formulación del presupuesto de egresos, registros contables, la administración de los recursos públicos, así como el ejercicio, examen, vigilancia y evaluación del gasto público.
 
 ###### ARTICULO 2.
 
@@ -75,9 +77,13 @@ A los poderes mencionados en el artículo anterior, se les denominará genérica
 
 Para efectos de esta ley, a la Secretaría de Finanzas y Administración se le denominará indistintamente por su nombre o como "La Secretaría".
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 5.
 
-La programación, presupuestación y evaluación del Gasto Público se apoyará en lineamientos, directrices, estrategias y metas a realizar de acuerdo con las necesidades que exija el desarrollo del Estado.
+La programación, presupuestación y evaluación del Gasto Público se apegará a los lineamientos, directrices, estrategias y metas, con base en los principios de eficiencia, eficacia, economía, honradez y transparencia de la administración de los recursos públicos, con la finalidad de satisfacer las necesidades que exija el desarrollo del Estado.
+
+La evaluación del resultado de los programas presupuestarios se realizará basada en los principios de verificación del grado de cumplimiento de metas y objetivos, cimentados en indicadores que permitan conocer el impacto social de los programas gubernamentales.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
@@ -89,9 +95,9 @@ La Secretaría de Planeación y Evaluación regulará la programación y la eval
 
 La Secretaría integrará los programas operativos anuales en el proyecto de presupuesto; la formulación del proyecto de presupuesto, el registro contable y control financiero del ejercicio del gasto público, y la elaboración de la cuenta pública del Gobierno del Estado, dictando las disposiciones procedentes para el eficaz cumplimiento de sus funciones.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2009)</small>
 
-El control y la evaluación del gasto público y del avance de los programas de las dependencias y los organismos, se efectuarán por conducto de la Secretaría, la Secretaría de Planeación y la Secretaría de la Contraloría, en el ámbito de sus respectivas competencias.
+El control del ejercicio de los recursos públicos y la evaluación de los resultados de la aplicación del presupuesto, del gasto público y del avance de los programas de las dependencias y los organismos, se efectuarán por conducto de la Secretaría, la Secretaría de Planeación y Evaluación y la Secretaría de la Contraloría, en el ámbito de sus respectivas competencias. La evaluación a que se refiere el segundo párrafo del artículo anterior, estará a cargo de la Secretaría de Planeación y Evaluación.
 
 Si el Congreso dejare de expedir oportunamente el presupuesto de egresos, continuará rigiendo el presupuesto que hubiere estado vigente el año anterior.
 
@@ -319,7 +325,9 @@ La iniciativa de Presupuesto de Egresos que presente el Titular del Poder Ejecut
 
 I.- Exposición de motivos en las que señalen los efectos económicos y sociales que se pretendan lograr;
 
-II.- Descripción clara de los programas que integren el proyecto de presupuesto de egresos, en donde se señalen objetivos, metas y prioridades conforme a la justificación debidamente motivada que realicen las entidades y Dependencias;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2009)</small>
+
+II.- Descripción clara de los programas que integren el proyecto de presupuesto de egresos, en donde se señalen objetivos, metas, indicadores y prioridades con base en los principios de eficiencia, eficacia, economía, transparencia y honradez, de conformidad con la justificación debidamente motivada que realicen las entidades y Dependencias;
 
 III.- Explicación y comentarios de los principales programas y, en especial, de aquellos que abarcan dos o más ejercicios fiscales;
 
@@ -363,7 +371,7 @@ El Titular del Ejecutivo, por conducto de la Secretaría, proporcionará a solic
 
 ###### ARTICULO 37.
 
-Los diputados del H. Congreso del Estado analizarán, discutirán ya probarán la iniciativa del Presupuesto de Egresos según lo marca el artículo 64 de la Constitución Política del Estado de Chihuahua.
+Los diputados del H. Congreso del Estado analizarán, discutirán y aprobarán la iniciativa del Presupuesto de Egresos según lo marca el artículo 64 de la Constitución Política del Estado de Chihuahua.
 
 ## TITULO QUINTO
 
@@ -1102,3 +1110,17 @@ En los ordenamientos jurídicos estatales que refieran la existencia de la Comis
 ###### ARTÍCULO CUARTO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JUNIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La reforma será aplicable a partir de la elaboración del presupuesto de egresos correspondiente al ejercicio fiscal del año 2010, y se hará de manera gradual por lo que respecta a la incorporación de los indicadores, programas y evaluación del desempeño, según se determine en los presupuestos de egresos de los ejercicios fiscales subsecuentes.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado, por conducto de las Secretarías del ramo, podrá celebrar de forma anual, Convenios de Colaboración con los municipios, para la asesoría y capacitación, a fin de dar cumplimiento a lo establecido en el presente Decreto.
