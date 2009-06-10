@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-legislativo-del-estado-de-campeche-16662
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-03"
-last_updated: "2003-10-29"
+last_updated: "2009-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 3 de julio de 2000.
 
@@ -361,7 +361,9 @@ V.- Desarrollo Industrial, Fomento Económico y Desarrollo Turístico;
 
 VI.- Desarrollo Urbano, Comunicaciones y Obras Públicas;
 
-VII.- Salud, Preservación del Medio Ambiente y Recursos Naturales;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2009)</small>
+
+VII.- Salud;
 
 VIII.- Educación, Cultura y Deporte;
 
@@ -369,9 +371,17 @@ IX.- Procuración e Impartición de Justicia, Seguridad Pública, Protección Ci
 
 X.- Fomento y Desarrollo Pesquero;
 
-XI.- Fortalecimiento Municipal; y
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2009)</small>
 
-XII.- Equidad y Género, Atención a Grupos Vulnerables y Etnias Indígenas.
+XI.- Fortalecimiento Municipal;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2009)</small>
+
+XII.- Equidad y Género, Atención a Grupos Vulnerables y Etnias Indígenas; y
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2009)</small>
+
+XIII.- Medio Ambiente y Recursos Naturales.
 
 El estudio y dictamen de los asuntos relativos a normas y prácticas parlamentarias así como a trabajo y previsión social estará a cargo de la Comisión de Puntos Constitucionales y Gobernación; los concernientes a temas sobre menores y discapacitados a la Comisión de Equidad y Género, Atención a Grupos Vulnerables y Etnias Indígenas; y los del ramo de contraloría a la Comisión de Finanzas, Hacienda Pública, Control Presupuestal y Contable y Patrimonio del Estado y de los Municipios.
 
@@ -2034,3 +2044,7 @@ P.O. 29 DE OCTUBRE DE 2003.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 10 DE JUNIO DE 2009.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
