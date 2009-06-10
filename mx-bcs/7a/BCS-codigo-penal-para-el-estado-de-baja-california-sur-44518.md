@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-de-baja-california-sur-44518"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-03-20"
-last_updated: "2008-03-31"
+last_updated: "2009-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JUNIO DE 2009.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -1759,6 +1759,10 @@ III.- Al que pública y escandalosamente invite a otro a realizar un acto sexual
 
 Se castigará con prisión de tres a diez años al que por cualquier medio elabore, reproduzca, venda, arriende, exponga, publicite, trasmita, fije, grave, imprima o distribuya anuncios impresos, videos, películas o fotografías en cuyo contenido aparezcan menores de edad o discapacitados mentales realizando actos sexuales o desnudos.
 
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2009)</small>
+
+Se castigará con la misma pena, a la persona o personas que por sí o a través de terceros dirija, administre, supervise o financie cualquier tipo de agrupación o asociación con el fin de realizar las conductas previstas en el párrafo anterior.
+
 ### CAPÍTULO II. CORRUPCIÓN Y EXPLOTACIÓN DE MENORES E INCAPACES
 
 ###### ARTÍCULO 214.
@@ -1773,9 +1777,25 @@ Cuando la corrupción de un menor de dieciocho años o de una persona que no ten
 
 Cuando el sujeto activo sea ascendiente consanguíneo, por afinidad o por adopción, se aumentará un tercio del mínimo y del máximo previsto en el artículo anterior y perderá, además, el derecho a la patria potestad.
 
-### CAPÍTULO III. LENOCINIO
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 10 DE JUNIO DE 2009)</small>
 
-### CAPÍTULO IV. APOLOGÍA DE UN VICIO
+### CAPÍTULO III. TURISMO SEXUAL Y PROSTITUCIÓN INFANTIL
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2009)</small>
+
+ARTÍCULO 214 BIS.- Quien promueva, ofrezca, invite, publicite, facilite o gestione, por cualquier medio, viajes al Estado de Baja California Sur o al exterior de éste, con el propósito de que la persona que viaja tenga relaciones sexuales con menores de edad o con quien no tenga capacidad para comprender o resistir el hecho, se le impondrá un pena de nueve a catorce años de prisión y de dos mil a seis mil días de multa.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2009)</small>
+
+ARTÍCULO 214 TER.- A quien a cambio de cualquier prestación en dinero, especie o servicios, tenga relaciones sexuales u obtenga la realización de cualquier acto erótico sexual con persona menor de dieciocho años de edad o con quien no tenga capacidad para comprender o resistir el hecho, se le impondrá una pena de nueve a catorce años de prisión y de dos mil a seis mil días de multa.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2009)</small>
+
+ARTÍCULO 214 QUÁTER.- Para los efectos de los artículos anteriores, cuando el sujeto activo del delito tenga parentesco por consanguinidad, por afinidad o civil o habite en el mismo domicilio con la víctima aunque no existiera parentesco alguno entre ambos, así como por el tutor o curador, concubino o concubina, o tuviere cualquier otra autoridad sobre la persona explotada, se aumentará la pena hasta en una mitad.
+
+(REUBICADO [N. DE E. ANTES CAPITULO III], B.O. 10 DE JUNIO DE 2009)
+
+### CAPÍTULO IV. LENOCINIO
 
 ###### ARTÍCULO 215.
 
@@ -1797,13 +1817,17 @@ Cuando los actos lascivos se realicen para videograbarlos, fotografiarlos o exhi
 
 Si el delincuente fuese ascendiente, tutor, cónyuge, concubino o concubina, o tuviese autoridad sobre la persona explotada, se le impondrá prisión de tres a doce años y será privado de la patria potestad o del derecho sobre los bienes del ofendido, quedando inhabilitado para ser tutor, curador o ejercer profesión o puesto público vinculado con la protección o el cuidado de menores.
 
-### CAPÍTULO V. INHUMACIÓN Y EXHUMACIÓN ILÍCITAS
+(REUBICADO [N. DE E. ANTES CAPITULO IV], B.O. 10 DE JUNIO DE 2009)
+
+### CAPÍTULO V. APOLOGÍA DE UN VICIO
 
 ###### ARTÍCULO 219.
 
 Al que en forma pública provoque o recomiende la realización de conductas viciosas, se le aplicarán de diez a cincuenta jornadas de trabajo a favor de la comunidad o, en su caso, de diez a cincuenta días de salario de multa.
 
-### CAPÍTULO VI. ULTRAJE AL CADÁVER
+(REUBICADO [N. DE E. ANTES CAPITULO V], B.O. 10 DE JUNIO DE 2009)
+
+### CAPÍTULO VI. INHUMACIÓN Y EXHUMACIÓN ILÍCITAS
 
 ###### ARTÍCULO 220.
 
@@ -1819,7 +1843,9 @@ III.- Al que sustraiga o esparza las cenizas de un cadáver, sin la autorizació
 
 La pena se duplicará cuando se oculte, destruya o sepulte el cadáver o parte de él, cuando se trate de una persona a la que se haya dado muerte violenta, si el inculpado sabía esta circunstancia.
 
-### CAPÍTULO ÚNICO. DELITOS ELECTORALES
+(REUBICADO [N. DE E. ANTES CAPITULO VI], B.O. 10 DE JUNIO DE 2009)
+
+### CAPÍTULO VII. ULTRAJE AL CADÁVER
 
 ###### ARTÍCULO 222.
 
@@ -1831,7 +1857,7 @@ II.- Al que profane un cadáver o restos humanos, con actos de mutilación, obsc
 
 ## TÍTULO OCTAVO. DELITOS ELECTORALES
 
-### CAPÍTULO ÚNICO. DELITOS ECOLÓGICOS
+### CAPÍTULO ÚNICO. DELITOS ELECTORALES
 
 ###### ARTÍCULO 223.
 
@@ -1927,7 +1953,7 @@ Se impondrán de tres días a dos años de prisión y multa hasta por cincuenta 
 
 ## TÍTULO NOVENO. DELITOS CONTRA EL MEDIO AMBIENTE
 
-### CAPÍTULO I. SUBSTRACCIÓN DE MENORES E INCAPACES
+### CAPÍTULO ÚNICO. DELITOS ECOLÓGICOS
 
 ###### ARTÍCULO 230.
 
@@ -1943,7 +1969,7 @@ Para proceder penalmente por los delitos ecológicos previstos en este capítulo
 
 ## TÍTULO DÉCIMO. DELITOS CONTRA LA FAMILIA
 
-### CAPÍTULO II. TRÁFICO DE MENORES
+### CAPÍTULO I. SUBSTRACCIÓN DE MENORES E INCAPACES
 
 ###### ARTICULO 232.
 
@@ -1957,7 +1983,7 @@ Si el sujeto activo reintegra espontáneamente al menor o incapaz a quien tenía
 
 El delito de sustracción de menores se perseguirá a petición de parte ofendida.
 
-### CAPÍTULO III. DELITOS CONTRA LA FILIACIÓN Y EL ESTADO CIVIL
+### CAPÍTULO II. TRÁFICO DE MENORES
 
 ###### ARTÍCULO 233.
 
@@ -1969,7 +1995,7 @@ Se considerará agravado el tráfico de menores cuando la persona a quien se le 
 
 Si la entrega y recepción del menor se hace sin la finalidad de obtener un beneficio económico, sino para incorporarlo a un núcleo familiar y otorgarle los beneficios propios de tal acogimiento, por razones de pobreza o incapacidad física o mental de los obligados a ejercer la patria potestad o la tutela, no se aplicará pena alguna.
 
-### CAPÍTULO IV. BIGAMIA
+### CAPÍTULO III. DELITOS CONTRA LA FILIACIÓN Y EL ESTADO CIVIL
 
 ###### ARTÍCULO 235.
 
@@ -1989,21 +2015,19 @@ VI.- Sustituir a un menor por otro para perjudicarlo en sus derechos de familia.
 
 Además de las penas señaladas en el artículo anterior, quienes tengan parentesco consanguíneo o civil con el ofendido, perderán los derechos de familia que pudieran tener respecto de éste.
 
-### CAPÍTULO V. INCESTO
+### CAPÍTULO IV. BIGAMIA
 
 ###### ARTÍCULO 236.
 
 Al que contrajere nuevo matrimonio, sin hallarse legalmente disuelto el anterior, se le impondrán de seis meses a cinco años de prisión y multa hasta por cien días de salario. Esta misma sanción se aplicarán al otro contrayente, si conocía el impedimento al momento de celebrarse el matrimonio.
 
-### CAPÍTULO VI. INCUMPLIMIENTO DE LAS OBLIGACIONES FAMILIARES
+### CAPÍTULO V. INCESTO
 
 ###### ARTÍCULO 237.
 
 Se impondrá de dos a ocho años de prisión a los ascendientes consanguíneos que tengan cópula con sus descendientes, conociendo el parentesco. La sanción aplicable a éstos últimos y a los hermanos biológicos que tenga cópula entre sí, será de uno a cuatro años de prisión.
 
-### CAPÍTULO VII. VIOLENCIA INTRAFAMILIAR
-
-> <small>(REFORMADO, B.O. 31 DE MARZO DE 2008)</small>
+### CAPÍTULO VI. INCUMPLIMIENTO DE LAS OBLIGACIONES FAMILIARES
 
 ###### ARTÍCULO 238.
 
@@ -2017,7 +2041,9 @@ El incumplimiento de las obligaciones familiares solo se perseguirá a petición
 
 Para que se admita el perdón concedido por el ofendido o por el representante de los menores o incapaces, será necesario que el responsable pague todas las cantidades que hubiese dejado de ministrar y otorgue fianza, a juicio del juzgador, para garantizar el cumplimiento futuro de esas obligaciones.
 
-### CAPÍTULO I. DISPARO DE ARMA DE FUEGO
+### CAPÍTULO VII. VIOLENCIA INTRAFAMILIAR
+
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2008)</small>
 
 ###### ARTÍCULO 240.
 
@@ -2037,37 +2063,37 @@ Presentada la querella, el ministerio público acordará inmediatamente las medi
 
 ## TÍTULO DÉCIMO PRIMERO. DELITOS DE PELIGRO CONTRA LA VIDA Y LA SALUD PERSONAL
 
-### CAPÍTULO II. OMISIÓN DE AUXILIO
+### CAPÍTULO I. DISPARO DE ARMA DE FUEGO
 
 ###### ARTÍCULO 243.
 
 Se aplicará prisión de tres meses a dos años y multa de hasta cien días de salario, al que dispare un arma de fuego, sin ánimo lesivo pero poniendo en peligro la vida o la integridad corporal de alguna persona.
 
-### CAPÍTULO III. ABANDONO DE ATROPELLADOS
+### CAPÍTULO II. OMISIÓN DE AUXILIO
 
 ###### ARTÍCULO 244.
 
 Al que encuentre abandonada o perdida a una persona incapaz de cuidarse, atropellada o amenazada de un peligro cualquiera, y omitiere prestarle el auxilio necesario, cuando pudiere hacerlo sin riesgo personal, se le impondrán de uno a seis meses de prisión o de veinte a cincuenta días multa, a criterio del juez.
 
-### CAPÍTULO IV. ABANDONO DE INCAPACES
+### CAPÍTULO III. ABANDONO DE ATROPELLADOS
 
 ###### ARTÍCULO 245.
 
 Al jinete o al conductor de un vehículo cualquiera, que culposa o fortuitamente atropelle a una persona en un lugar solitario o despoblado, y se retire sin prestarle la asistencia que estuviere a su alcance, será castigado con prisión de un mes a dos años y hasta cincuenta días multa, independientemente de las sanciones que pudieran resultarle por cualquier otro delito cometido.
 
-### CAPÍTULO V. EXPOSICIÓN DE INCAPACES
+### CAPÍTULO IV. ABANDONO DE INCAPACES
 
 ###### ARTÍCULO 246.
 
 Al que teniendo la obligación de atender y proteger a un menor o a una persona incapaz de cuidarse a sí misma, lo abandone sin el propósito de afectar su vida o su salud, se le aplicará de un mes a cinco años de prisión y multa hasta de cien días de salario, sin perjuicio de aplicar las reglas sobre el concurso si se produce algún delito culposo a consecuencia del abandono.
 
-### CAPÍTULO VI. PELIGRO DE CONTAGIO
+### CAPÍTULO V. EXPOSICIÓN DE INCAPACES
 
 ###### ARTÍCULO 247.
 
 Al que teniendo la obligación de cuidar a un incapaz, delegue indebidamente su custodia en otra persona o institución, se le impondrán de tres días a dos años de prisión y multa hasta por cien días de salario.
 
-### CAPÍTULO I. ABORTO
+### CAPÍTULO VI. PELIGRO DE CONTAGIO
 
 ###### ARTÍCULO 248.
 
@@ -2077,7 +2103,7 @@ El peligro de contagio solo se investigará a instancia de parte ofendida, pero 
 
 ## TÍTULO DÉCIMO SEGUNDO. DELITOS CONTRA LA VIDA Y LA SALUD PERSONAL
 
-### CAPÍTULO II. INFANTICIDIO
+### CAPÍTULO I. ABORTO
 
 ###### ARTÍCULO 249.
 
@@ -2107,7 +2133,7 @@ IV.- A juicio del médico que asista a la mujer, exista razón fundada para supo
 
 Cuando la mujer no denuncie la violación o la inseminación artificial y se practique el aborto, si prueba esta circunstancia durante el procedimiento por éste último ilícito, la causa de justificación producirá todos sus efectos.
 
-### CAPÍTULO III. HOMICIDIO
+### CAPÍTULO II. INFANTICIDIO
 
 ###### ARTÍCULO 253.
 
@@ -2115,7 +2141,7 @@ Se impondrá de uno a cinco años de prisión a la madre que en un estado de emo
 
 La circunstancia atenuante no beneficiará a ninguna otra persona que hubiese participado en el infanticidio y, tratándose del médico, cirujano, comadrona o partera, además de las penas previstas para el homicidio, se le aplicará suspensión de hasta cinco años en el ejercicio de su profesión.
 
-### CAPÍTULO IV. LESIONES
+### CAPÍTULO III. HOMICIDIO
 
 ###### ARTÍCULO 254.
 
@@ -2155,7 +2181,7 @@ Si la muerte ocurre después de los sesenta días de inferidas las lesiones, se 
 
 No se tendrá como mortal una lesión, aunque muera el que la recibió, cuando la muerte sea el resultado de una causa anterior a la lesión sobre la que ésta no haya influido o cuando se haya agravado por causas ajenas a su proceso evolutivo normal.
 
-### CAPÍTULO V. DISPOSICIONES COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES
+### CAPÍTULO IV. LESIONES
 
 ###### ARTÍCULO 261.
 
@@ -2193,7 +2219,7 @@ Cuando las lesiones sean causadas en riña, se aplicará al provocador hasta la 
 
 Cuando en la comisión del delito de lesiones intervengan dos o más sujetos que actúan con dolo indeterminado y sin acuerdo previo, a todos se les impondrán de seis meses a cinco años de prisión, y multa de hasta cien días de salario, cuando no pueda identificarse al autor de las lesiones.
 
-### CAPÍTULO VI. INDUCCIÓN, AUXILIO AL SUICIDIO Y EUTANASIA
+### CAPÍTULO V. DISPOSICIONES COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES
 
 ###### ARTÍCULO 267.
 
@@ -2231,7 +2257,7 @@ I.- Al que en un estado de emoción violenta, por la sorpresa de encontrar a su 
 
 II.- Al ascendiente que prive de la vida o lesione al corruptor del descendiente que esté bajo su patria potestad, si lo hiciere en el momento de hallarlo en el acto carnal o en uno próximo a su realización, sin que hubiese procurado o permitido la corrupción de su descendiente y obre por una reacción violenta.
 
-### CAPÍTULO I. PRIVACIÓN ILEGAL DE LA LIBERTAD
+### CAPÍTULO VI. INDUCCIÓN, AUXILIO AL SUICIDIO Y EUTANASIA
 
 ###### ARTÍCULO 275.
 
@@ -2243,7 +2269,7 @@ El auxilio no puede extremarse hasta causar directamente la muerte del suicida, 
 
 ## TÍTULO DÉCIMO TERCERO. DELITOS CONTRA LA LIBERTAD PERSONAL
 
-### CAPÍTULO II. SECUESTRO
+### CAPÍTULO I. PRIVACIÓN ILEGAL DE LA LIBERTAD
 
 ###### ARTÍCULO 276.
 
@@ -2267,7 +2293,7 @@ En el caso de robo con violencia en que se afecte la libertad de la víctima, co
 
 En cualquier otro caso, se considerará que existe además privación ilegal de la libertad, procediendo la acumulación de delitos.
 
-### CAPÍTULO III. RAPTO
+### CAPÍTULO II. SECUESTRO
 
 ###### ARTÍCULO 279.
 
@@ -2313,7 +2339,7 @@ XII.- El activo utilice instalaciones o bienes gubernamentales, frecuencias, cla
 
 Si los responsables del secuestro ponen espontáneamente en libertad a la víctima antes de cuarenta y ocho horas, sin haberle causado lesiones de las que sanen en más de quince días y sin obtener el fin buscado, se les aplicará la pena de la privación ilegal de la libertad.
 
-### CAPÍTULO I. VIOLACIÓN
+### CAPÍTULO III. RAPTO
 
 ###### ARTÍCULO 282.
 
@@ -2325,13 +2351,23 @@ No se sancionará al responsable del rapto, a sus cómplices y encubridores, sol
 
 El delito de rapto sólo se perseguirá por querella necesaria, excepto en los casos en que se use la violencia contra una persona impúber o que no tenga la capacidad para comprender el hecho o resistirse.
 
-### CAPÍTULO II. ATENTADO AL PUDOR
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 10 DE JUNIO DE 2009)</small>
+
+### CAPÍTULO IV. TRATA DE PERSONAS
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2009)</small>
+
+ARTÍCULO 283 BIS.- Comete el delito de trata de personas y se le impondrá una pena de prisión de cinco a diez años y multa de ochocientos a mil ochocientos días de salario mínimo, quien para si o para un tercero induzca, capte, transporte, traslade, aloje, acoja, ofrezca, facilite, consiga, promueva, procure, permita, favorezca, reclute, retenga, entregue o reciba, a una o mas personas, recurriendo a la coacción física o moral, a la privación de la libertad, al engaño o abuso de poder o al aprovechamiento de una situación de vulnerabilidad, a la concesión o recepción de pagos o beneficios, para someterla a cualquier forma de explotación o que le sea extirpado cualquiera de sus órganos, tejidos o sus componentes.
+
+Cuando la víctima del delito sea menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho o de una persona que no tiene capacidad de resistir la conducta y el fin sea someterla a cualquier forma de explotación con o sin el consentimiento de la víctima, se le impondrá una pena de seis a catorce años de prisión y multa de mil a dos mil días de salario mínimo.
+
+Cuando el sujeto activo del delito tenga parentesco por consanguinidad, por afinidad o civil o habite en el mismo domicilio con la víctima aunque no existiera parentesco alguno entre ambos, así como por el tutor o curador, concubino o concubina, o tuviere cualquier otra autoridad sobre la persona explotada, se aumentará la pena hasta en una mitad.
+
+Para efectos de este artículo, se entenderá por explotación el obtener provecho económico o cualquier otro beneficio para sí o para otra persona, mediante la prostitución ajena u otras formas de explotación sexual, los trabajos o servicios forzados, la esclavitud, la servidumbre o la mendicidad ajena.
 
 ## TÍTULO DÉCIMO CUARTO. DELITOS CONTRA LA LIBERTAD Y LA SEGURIDAD SEXUALES
 
-### CAPÍTULO III. ESTUPRO
-
-> <small>(REFORMADO, B.O. 31 DE MARZO DE 2008)</small>
+### CAPÍTULO I. VIOLACIÓN
 
 ###### ARTÍCULO 284.
 
@@ -2365,9 +2401,7 @@ I.- La cópula voluntaria habida con una persona menor de doce años, con un inc
 
 II.- La introducción anal o vaginal de cualquier objeto distinto del miembro viril, por medio de violencia física o moral, sea cual fuese el sexo del ofendido, o por consentimiento de un menor o incapaz en los términos de la fracción anterior.
 
-### CAPÍTULO IV. HOSTIGAMIENTO SEXUAL
-
-> <small>(REFORMADO, B.O. 31 DE MARZO DE 2008)</small>
+### CAPÍTULO II. ATENTADO AL PUDOR
 
 ###### ARTÍCULO 287.
 
@@ -2383,11 +2417,9 @@ El delito de atentado al pudor solo se castigará cuando se haya consumado y ser
 
 Cuando el responsable del delito sea ascendiente o descendiente consanguíneo, adoptante o adoptado, tutor o custodio, del menor o incapacitado, el delito se perseguirá de oficio y la pena se aumentará en un tercio.
 
-### CAPÍTULO V. ACOSO SEXUAL
+### CAPÍTULO III. ESTUPRO
 
-> <small>(ADICIONADO, B.O. 31 DE MARZO DE 2008)</small>
-
-ARTÍCULO 293 BIS.- Comete el delito de acoso sexual quien se exprese verbal o físicamente de manera degradante en relación a la sexualidad de otra persona, sin que exista subordinación real de la víctima frente al agresor en los ámbitos laboral o escolar, dicha conducta será sancionada con una pena de seis meses a un año de prisión.
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2008)</small>
 
 ###### ARTÍCULO 290.
 
@@ -2405,7 +2437,9 @@ La reparación del daño en los casos de estupro, incluirá el pago de alimentos
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 31 DE MARZO DE 2008)</small>
 
-### CAPÍTULO I. ROBO
+### CAPÍTULO IV. HOSTIGAMIENTO SEXUAL
+
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2008)</small>
 
 ###### ARTÍCULO 293.
 
@@ -2419,11 +2453,15 @@ Sólo se procederá contra la persona hostigadora a petición de parte ofendida.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 31 DE MARZO DE 2008)</small>
 
-### CAPÍTULO II. ABIGEATO
+### CAPÍTULO V. ACOSO SEXUAL
+
+> <small>(ADICIONADO, B.O. 31 DE MARZO DE 2008)</small>
+
+ARTÍCULO 293 BIS.- Comete el delito de acoso sexual quien se exprese verbal o físicamente de manera degradante en relación a la sexualidad de otra persona, sin que exista subordinación real de la víctima frente al agresor en los ámbitos laboral o escolar, dicha conducta será sancionada con una pena de seis meses a un año de prisión.
 
 ## TÍTULO DÉCIMO QUINTO. DELITOS CONTRA EL PATRIMONIO
 
-### CAPÍTULO III. ABUSO DE CONFIANZA
+### CAPÍTULO I. ROBO
 
 ###### ARTÍCULO 294.
 
@@ -2487,7 +2525,7 @@ Al que se le impute el delito de robo simple, y acredite haber tomado la cosa co
 
 No se sancionará, por una sola vez, al que se apodere de los objetos estrictamente indispensables para satisfacer sus necesidades personales o familiares del momento, aunque le sea imputable su estado de necesidad, siempre que no obre con violencia.
 
-### CAPÍTULO IV. FRAUDE
+### CAPÍTULO II. ABIGEATO
 
 ###### ARTÍCULO 302.
 
@@ -2525,7 +2563,7 @@ IV.- Justifique o ampare la adquisición, posesión, transporte o sacrifique gan
 
 Cuando se adquiera, posea, transporte o sacrifique ganado que provenga de un abigeato, sin conocer su origen, pero sin tomar las medidas necesarias para cerciorarse de su legítima procedencia, se aplicarán de seis meses a cinco años de prisión y multa de cincuenta a cien días de salario.
 
-### CAPÍTULO V. DESPOJO
+### CAPÍTULO III. ABUSO DE CONFIANZA
 
 ###### ARTÍCULO 308.
 
@@ -2543,7 +2581,7 @@ III.- El hecho de que una persona haga aparecer como suyo un depósito que garan
 
 IV.- Oponerse a la devolución la cosa mueble quien no tiene derecho para disponer de ella o retenerla, después de ser requerido formalmente, o negarse a entregarla a la autoridad para que ésta disponga de la misma conforme a la ley.
 
-### CAPÍTULO VI. ADMINISTRACIÓN INDEBIDA
+### CAPÍTULO IV. FRAUDE
 
 ###### ARTÍCULO 310.
 
@@ -2603,7 +2641,7 @@ XXI.- Simular el propio secuestro para obtener un lucro para sí o para otro.
 
 El delito de fraude se perseguirá a petición de parte ofendida, a excepción de los fraudes especiales previstos en las fracciones X, XI, XII, XVII y XXI del artículo anterior.
 
-### CAPÍTULO VII. EXTORSIÓN
+### CAPÍTULO V. DESPOJO
 
 ###### ARTÍCULO 314.
 
@@ -2623,7 +2661,7 @@ Si el despojo se realiza por dos o más personas o en paraje solitario o desprot
 
 Las sanciones se aplicarán aún cuando el derecho a la posesión sea dudoso o esté en litigio, pero en los casos de despojo furtivo o engañoso, solo se procederá a petición de parte ofendida.
 
-### CAPÍTULO VIII. CHANTAJE
+### CAPÍTULO VI. ADMINISTRACIÓN INDEBIDA
 
 ###### ARTÍCULO 317.
 
@@ -2631,7 +2669,7 @@ Al que teniendo a su cargo la administración o el cuidado de bienes ajenos, obt
 
 El juez, atendiendo a la gravedad y al número de conductas ilícitas que integren el delito, podrá condenar al responsable a la pérdida o suspensión hasta por cinco años, del derecho a fungir como administrador, gerente o contador de empresas.
 
-### CAPÍTULO IX. RECEPTACIÓN DE OBJETOS DE PROCEDENCIA ILÍCITA
+### CAPÍTULO VII. EXTORSIÓN
 
 ###### ARTÍCULO 318.
 
@@ -2641,13 +2679,13 @@ Se equipara a la extorsión y se le aplicará la misma pena de este delito a qui
 
 Las penas por extorsión se aumentarán en una mitad más del mínimo y del máximo, si se realiza por miembros de una organización delictiva, por un servidor público vinculado con el área de la seguridad pública o por quien haya ejercido funciones de este tipo procediendo, además en el caso de servidores públicos, la destitución y la inhabilitación hasta por diez años.
 
-### CAPÍTULO X. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+### CAPÍTULO VIII. CHANTAJE
 
 ###### ARTÍCULO 319.
 
 Al que exija u obtenga, por sí o a través de otro, la entrega de objetos, cantidades o valores, a cambio de no divulgar o dar a conocer a otra persona, algún hecho cierto o falso que afecte el honor, prestigio o patrimonio del amenazado o de su cónyuge, parientes por consanguinidad, afinidad o adopción, así como el de las empresas o entidades en cuya gestión intervenga, será castigado con prisión de seis meses a diez años y hasta doscientos días de salario mínimo vigente de multa.
 
-### CAPÍTULO XI. DAÑOS
+### CAPÍTULO IX. RECEPTACIÓN DE OBJETOS DE PROCEDENCIA ILÍCITA
 
 ###### ARTÍCULO 320.
 
@@ -2671,7 +2709,7 @@ III.- Posea, altere o modifique de cualquier manera la documentación, señales 
 
 IV.- Traslade los vehículos robados a una población diversa a la de la comisión del delito.
 
-### CAPÍTULO XII. DISPOSICIONES COMUNES DE LOS DELITOS PATRIMONIALES
+### CAPÍTULO X. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
 ###### ARTÍCULO 323.
 
@@ -2679,7 +2717,7 @@ Al que directamente o por interpósita persona adquiera, enajene, administre, cu
 
 Las penas anteriores se aumentarán hasta en una mitad cuando se trate de servidores públicos, además de la destitución y la inhabilitación para desempeñar empleo, cargo o comisión hasta por diez años.
 
-### CAPÍTULO I. AMENAZAS
+### CAPÍTULO XI. DAÑOS
 
 ###### ARTÍCULO 324.
 
@@ -2693,7 +2731,7 @@ Si el daño afecta a bienes de interés colectivo o de valor científico, artís
 
 Los daños culposos y los dolosos que solo afecten el patrimonio de los particulares, se perseguirán a petición de parte ofendida.
 
-### CAPÍTULO II. ALLANAMIENTO DE MORADA
+### CAPÍTULO XII. DISPOSICIONES COMUNES DE LOS DELITOS PATRIMONIALES
 
 ###### ARTÍCULO 326.
 
@@ -2705,7 +2743,7 @@ En los delitos patrimoniales previstos en este título, a excepción del robo ca
 
 ## TÍTULO DÉCIMO SEXTO. DELITOS CONTRA LA PAZ Y LA SEGURIDAD DE LAS PERSONAS
 
-### CAPÍTULO III. REVELACIÓN DE SECRETOS
+### CAPÍTULO I. AMENAZAS
 
 ###### ARTÍCULO 328.
 
@@ -2717,7 +2755,7 @@ El juzgador deberá apercibir a quien realice la amenaza de que, si cumple su pr
 
 En este caso procede, a juicio del juez, prohibir al condenado que vaya o resida en el lugar en que habita el amenazado, por un término no menor a seis meses ni mayor a tres años, contados desde el cumplimiento de la pena de prisión o desde la concesión de un beneficio de libertad.
 
-### CAPÍTULO IV. VIOLACIÓN DE CORRESPONDENCIA Y OTRAS COMUNICACIONES PRIVADAS
+### CAPÍTULO II. ALLANAMIENTO DE MORADA
 
 ###### ARTÍCULO 330.
 
@@ -2729,7 +2767,7 @@ También se produce el allanamiento, cuando el inculpado permanezca en una morad
 
 Se equipara al allanamiento y se sancionará como tal, la introducción en los términos del artículo anterior, a oficinas o recintos no abiertos al público.
 
-### CAPÍTULO I. INJURIAS
+### CAPÍTULO III. REVELACIÓN DE SECRETOS
 
 ###### ARTÍCULO 332.
 
@@ -2737,7 +2775,7 @@ Quien sin justa causa y sin consentimiento del que pueda resultar perjudicado, r
 
 Cuando la información hubiera sido proporcionada por el ofendido, confiando en el secreto profesional que obliga al abogado, sacerdote, mediador o psiquiatra, su revelación por estos últimos será castigada con prisión de uno a cinco años y multa de hasta doscientos días de salario, o cuando el secreto revelado sea de carácter industrial o científico.
 
-### CAPÍTULO II. DIFAMACIÓN
+### CAPÍTULO IV. VIOLACIÓN DE CORRESPONDENCIA Y OTRAS COMUNICACIONES PRIVADAS
 
 ###### ARTÍCULO 333.
 
@@ -2759,7 +2797,7 @@ La interceptación de cualquier comunicación verbal, gestual, electrónica o de
 
 ## TÍTULO DÉCIMO SÉPTIMO. DELITOS CONTRA EL HONOR
 
-### CAPÍTULO III. CALUMNIA
+### CAPÍTULO I. INJURIAS
 
 ###### ARTÍCULO 336.
 
@@ -2775,7 +2813,7 @@ Cuando la injuria tenga como origen y contenido la discriminación racial, étni
 
 Cuando las injurias fueran recíprocas, el juez podrá declarar exenta de sanción a la parte que respondió con injurias a la ofensa original.
 
-### CAPÍTULO IV. DISPOSICIONES COMUNES
+### CAPÍTULO II. DIFAMACIÓN
 
 ###### ARTÍCULO 338.
 
@@ -2811,6 +2849,8 @@ III.- Cuando se hiciese uso de expresiones injuriosas o difamatorias en un escri
 
 No se aplicará lo dispuesto en el epígrafe anterior, en el caso de que la imputación sea calumniosa y se extienda a personas extrañas al litigio o se refiera a hechos ajenos al negocio de que se trata.
 
+### CAPÍTULO III. CALUMNIA
+
 ###### ARTÍCULO 342.
 
 Se aplicarán de dos a seis años de prisión y multa de hasta cien días de salario, al que realice cualquiera de los siguientes actos calumniosos:
@@ -2830,6 +2870,8 @@ Cuando los hechos imputados sean ciertos, pero no constituyan delito, no se apli
 Aunque se acredite la inocencia del calumniado, no se castigará al autor de la calumnia, si prueba plenamente que existieron causas bastantes para incurrir en error.
 
 Cuando esté pendiente de resolver una acusación por el delito que se imputa calumniosamente, se suspenderá el ejercicio de la acción por calumnias, hasta que dicho juicio termine. En este caso, la prescripción de este último delito no comenzará a correr, sino cuando termine dicho juicio.
+
+### CAPÍTULO IV. DISPOSICIONES COMUNES
 
 ###### ARTÍCULO 344.
 
@@ -2908,3 +2950,7 @@ B.O. 31 DE MARZO DE 2008.
 PRIMERO.-El presente decreto entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno Estado (sic) de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+B.O. 10 DE JUNIO DE 2009.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
