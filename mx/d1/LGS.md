@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2009-05-31"
+last_updated: "2009-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE JUNIO DE 2009.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -540,7 +540,9 @@ VI. Ejercer el control y vigilancia sanitarios de los productos señalados en la
 
 VII. Ejercer el control y vigilancia sanitarios de la publicidad de las actividades, productos y servicios a los que se refiere esta Ley y sus reglamentos;
 
-VIII. Ejercer el control y la vigilancia sanitarios de las donaciones y trasplantes de órganos y tejidos y células de seres humanos, salvo a lo dispuesto por los artículos 329, 332, 338 y 339 de esta Ley;
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2009)</small>
+
+VIII. Ejercer el control y la vigilancia sanitarios de la disposición y trasplantes de órganos y tejidos y células de seres humanos, salvo lo dispuesto por los artículos 329, 332, 338 y 339 de esta Ley;
 
 IX. Ejercer las atribuciones que esta Ley y sus reglamentos le confieren a la Secretaría de Salud en materia de sanidad internacional, con excepción de lo relativo a personas;
 
@@ -3304,6 +3306,22 @@ V.- Materiales: los insumos necesarios para el envase y empaque de los medicamen
 
 La Secretaría de Salud sólo concederá la autorización correspondiente a los medicamentos, cuando se demuestre que las substancias que contengan reúnan las características de seguridad y eficacia exigidas, y tomará en cuenta, en su caso, lo dispuesto por el artículo 428 de esta Ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2009)</small>
+
+###### ARTICULO 222 Bis.
+
+Para efectos de esta Ley, se considera medicamento biotecnológico toda sustancia que haya sido producida por biotecnología molecular, que tenga efecto terapéutico, preventivo o rehabilitatorio, que se presente en forma farmacéutica, que se identifique como tal por su actividad farmacológica y propiedades físicas, químicas y biológicas. Los medicamentos biotecnológicos innovadores podrán ser referencia para los medicamentos biotecnológicos no innovadores, a los cuales se les denominará biocomparables. La forma de identificación de estos productos será determinada en las disposiciones reglamentarias.
+
+Para la obtención del registro sanitario de medicamentos biotecnológicos, el solicitante deberá cumplir con los requisitos y pruebas que demuestren la calidad, seguridad y eficacia del producto, de conformidad con las disposiciones de esta Ley, sus reglamentos y demás disposiciones jurídicas aplicables y una vez comercializado el medicamento biotecnológico se deberá realizar la farmacovigilancia de éste conforme la normatividad correspondiente.
+
+El solicitante de registro sanitario de medicamentos biocomparables que sustente su solicitud en un medicamento biotecnológico de referencia, deberá presentar los estudios clínicos y, en su caso in- vitro que sean necesarios para demostrar la seguridad, eficacia y calidad del producto.
+
+En caso de que no se hubieren emitido las disposiciones sobre los estudios necesarios y sus características a que hace referencia este artículo, éstos se definirán caso por caso, tomando en cuenta la opinión del Comité de Moléculas Nuevas, el que para efectos de lo dispuesto en este artículo contará con un Subcomité de Evaluación de Productos Biotecnológicos que estará integrado por especialistas y científicos en materia de biotecnología farmacéutica.
+
+Los medicamentos biotecnológicos deberán incluir en sus etiquetas el fabricante del biofármaco y su origen, el lugar del envasado y en su caso el importador, debiendo asignarse la misma Denominación Común Internacional que al medicamento de referencia correspondiente sin que esto implique una separación en las claves del Cuadro Básico y de los catálogos de medicamentos de las instituciones de salud asignadas para estos.
+
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 223.
@@ -4236,7 +4254,7 @@ En las etiquetas de los envases y empaques en los que se presenten los productos
 
 ### CAPITULO IV. Pérdida de la vida
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 273.
 
@@ -4704,13 +4722,17 @@ Donación, trasplantes y pérdida de la vida
 
 Compete a la Secretaría de Salud:
 
-> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2009)</small>
 
-I. El control sanitario de las donaciones y trasplantes de órganos, tejidos y células de seres humanos, por conducto del órgano desconcentrado denominado Comisión Federal para la Protección contra Riesgos Sanitarios, y
+I. El control sanitario de la disposición y trasplantes de órganos, tejidos y células de seres humanos, por conducto del órgano desconcentrado denominado Comisión Federal para la Protección contra Riesgos Sanitarios;
 
-> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2009)</small>
 
-II. La regulación sobre cadáveres.
+II. La regulación sobre cadáveres, en los términos de esta Ley, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 11 DE JUNIO DE 2009)</small>
+
+III. Establecer y dirigir las políticas en salud en materia de donación y trasplantes de órganos, tejidos y células, para lo cual se apoyará en el Centro Nacional de Trasplantes, y en el Centro Nacional de la Transfusión Sanguínea.
 
 > <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
@@ -4730,9 +4752,11 @@ IV. Componentes sanguíneos, a los elementos de la sangre y demás sustancias qu
 
 V. Destino final, a la conservación permanente, inhumación, incineración, desintegración e inactivación de órganos, tejidos, células y derivados, productos y cadáveres de seres humanos, incluyendo los de embriones y fetos, en condiciones sanitarias permitidas por esta Ley y demás disposiciones aplicables;
 
-VI. Disponente, a aquél que conforme a los términos de la ley le corresponde decidir sobre su cuerpo o cualquiera de sus componentes en vida y para después de su muerte;
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2009)</small>
 
-VII. Donador o donante, al que tácita o expresamente consiente la disposición de su cuerpo o componentes para su utilización en trasplantes;
+VI. Donador o disponente, al que tácita o expresamente consiente la disposición en vida o para después de su muerte, de su cuerpo, o de sus órganos, tejidos y células, conforme a lo dispuesto por esta Ley y demás disposiciones jurídicas aplicables;
+
+VII. (DEROGADA, D.O.F. 11 DE JUNIO DE 2009)
 
 VIII. Embrión, al producto de la concepción a partir de ésta, y hasta el término de la duodécima semana gestacional;
 
@@ -4744,9 +4768,25 @@ XI. Producto, a todo tejido o sustancia extruida, excretada o expelida por el cu
 
 XII. Receptor, a la persona que recibe para su uso terapéutico un órgano, tejido, células o productos;
 
-XIII. Tejido, a la entidad morfológica compuesta por la agrupación de células de la misma naturaleza, ordenadas con regularidad y que desempeñen una misma función, y
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2009)</small>
 
-XIV. Trasplante, a la transferencia de un órgano, tejido o células de una parte del cuerpo a otra, o de un individuo a otro y que se integren al organismo.
+XIII. Tejido, a la entidad morfológica compuesta por la agrupación de células de la misma naturaleza, ordenadas con regularidad y que desempeñen una misma función;
+
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2009)</small>
+
+XIV. Trasplante, a la transferencia de un órgano, tejido o células de una parte del cuerpo a otra, o de un individuo a otro y que se integren al organismo;
+
+> <small>(ADICIONADA, D.O.F. 11 DE JUNIO DE 2009)</small>
+
+XV. Banco de tejidos con fines de trasplante, establecimiento autorizado que tenga como finalidad primordial mantener el depósito temporal de tejidos para su preservación y suministro terapéutico;
+
+> <small>(ADICIONADA, D.O.F. 11 DE JUNIO DE 2009)</small>
+
+XVI. Disponente secundario, alguna de las siguientes personas; él o la cónyuge, el concubinario o la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante; conforme a la prelación señalada, y
+
+> <small>(ADICIONADA, D.O.F. 11 DE JUNIO DE 2009)</small>
+
+XVII. Disposición, el conjunto de actividades relativas a la obtención, recolección, análisis, conservación, preparación, suministro, utilización y destino final de órganos, tejidos, componentes de tejidos, células, productos y cadáveres de seres humanos, con fines terapéuticos, de docencia o investigación.
 
 > <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
@@ -4764,13 +4804,19 @@ IV. Los bancos de sangre y servicios de transfusión.
 
 La Secretaría otorgará la autorización a que se refiere el presente artículo a los establecimientos que cuenten con el personal, infraestructura, equipo, instrumental e insumos necesarios para la realización de los actos relativos, conforme a lo que establezcan las disposiciones de esta Ley y demás aplicables.
 
-> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 316.
 
-Los establecimientos a que se refiere el artículo anterior contarán con un responsable sanitario, quien deberá presentar aviso ante la Secretaría de Salud.
+Los establecimientos a que se refiere el artículo anterior contarán con un responsable sanitario, de quien deberán dar aviso ante la Secretaría de Salud.
 
-Los establecimientos en los que se extraigan órganos y tejidos o se realicen trasplantes, adicionalmente, deberán contar con un comité interno de trasplantes y con un coordinador de estas acciones, que serán supervisadas por el comité institucional de bioética respectivo.
+Los establecimientos en los que se extraigan órganos, tejidos y células, deberán de contar con un Comité Interno de Coordinación para la donación de órganos y tejidos, que será presidido por el Director General o su inmediato inferior que cuente con un alto nivel de conocimientos médicos académicos y profesionales. Este comité será responsable de hacer la selección del establecimiento de salud que cuente con un programa de trasplante autorizado, al que enviará los órganos, tejidos o células, de conformidad con lo que establece la presente Ley y demás disposiciones jurídicas aplicables.
+
+A su vez, los establecimientos que realicen actos de trasplantes, deberán contar con un Comité Interno de Trasplantes que será presidido por el Director General o su inmediato inferior que cuente con un alto nivel de conocimientos médicos académicos y profesionales, y será responsable de hacer la selección de disponentes y receptores para trasplante, de conformidad con lo que establece la presente Ley y demás disposiciones jurídicas aplicables. Los establecimientos en los que se extraigan órganos y tejidos y se realicen trasplantes, únicamente deberán contar con un Comité Interno de Trasplantes.
+
+El Comité Interno de Trasplantes deberá coordinarse con el comité de bioética de la institución en los asuntos de su competencia.
+
+Los establecimientos que realicen actos de disposición de sangre, componentes sanguíneos y células progenitoras hematopoyéticas, deberán contar con un Comité de Medicina Transfusional, el cual se sujetará a las disposiciones que para tal efecto emita la Secretaría de Salud.
 
 > <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
@@ -4836,7 +4882,15 @@ La donación expresa constará por escrito y podrá ser amplia cuando se refiera
 
 En la donación expresa podrá señalarse que ésta se hace a favor de determinadas personas o instituciones. También podrá expresar el donante las circunstancias de modo, lugar y tiempo y cualquier otra que condicione la donación.
 
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2009)</small>
+
+Los disponentes secundarios, podrán otorgar el consentimiento a que se refieren los párrafos anteriores, cuando el donante no pueda manifestar su voluntad al respecto.
+
 La donación expresa, cuando corresponda a mayores de edad con capacidad jurídica, no podrá ser revocada por terceros, pero el donante podrá revocar su consentimiento en cualquier momento, sin responsabilidad de su parte.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2009)</small>
+
+En todos los casos se deberá cuidar que la donación se rija por los principios de altruismo, ausencia de ánimo de lucro y factibilidad, condiciones que se deberán manifestar en el acta elaborada para tales efectos por el comité interno respectivo. En el caso de sangre, componentes sanguíneos y células progenitoras hematopoyéticas se estará a lo dispuesto en las disposiciones jurídicas que al efecto emita la Secretaría de Salud.
 
 > <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
@@ -4888,11 +4942,11 @@ Está prohibido el comercio de órganos, tejidos y células. La donación de és
 
 Sólo en caso de que la pérdida de la vida del donante esté relacionada con la averiguación de un delito, se dará intervención al Ministerio Público y a la autoridad judicial, para la extracción de órganos y tejidos.
 
-> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 11 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 329.
 
-El Centro Nacional de Trasplantes hará constar el mérito y altruismo del donador y de su familia, mediante la expedición del testimonio correspondiente que los reconozca como benefactores de la sociedad.
+El Centro Nacional de Trasplantes hará constar el mérito y altruismo del donador y de su familia.
 
 > <small>(ADICIONADO, D.O.F. 5 DE NOVIEMBRE DE 2004)</small>
 
@@ -4976,13 +5030,13 @@ III. Asegurarse que no exista riesgo sanitario.
 
 Los profesionales de las disciplinas para la salud que intervengan en la extracción de órganos y tejidos o en trasplantes deberán contar con el entrenamiento especializado respectivo, conforme lo determinen las disposiciones reglamentarias aplicables, y estar inscritos en el Registro Nacional de Trasplantes.
 
-> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 336.
 
-Para la asignación de órganos y tejidos de donador no vivo, se tomará en cuenta la gravedad del receptor, la oportunidad del trasplante, los beneficios esperados, la compatibilidad con el receptor y los demás criterios médicos aceptados.
+Para la asignación de órganos y tejidos de donador no vivo, se tomará en cuenta la gravedad del receptor, la oportunidad del trasplante, los beneficios esperados, la compatibilidad con el receptor y los demás criterios médicos aceptados, así como la ubicación hospitalaria e institucional del donador.
 
-Cuando no exista urgencia o razón médica para asignar preferentemente un órgano o tejido, ésta se sujetará estrictamente a listas que se integrarán con los datos de los mexicanos en espera, y que estarán a cargo del Centro Nacional de Trasplantes.
+Cuando no exista urgencia o razón médica para asignar preferentemente un órgano o tejido, ésta se sujetará estrictamente a las bases de datos hospitalarias, institucionales, estatales y nacional que se integrarán con los datos de los pacientes registrados en el Centro Nacional de Trasplantes.
 
 > <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
@@ -4991,6 +5045,10 @@ Cuando no exista urgencia o razón médica para asignar preferentemente un órga
 Los concesionarios de los diversos medios de transporte otorgarán todas las facilidades que requiera el traslado de órganos y tejidos destinados a trasplantes, conforme a las disposiciones reglamentarias aplicables y las normas oficiales mexicanas que emitan conjuntamente las secretarías de Comunicaciones y Transportes y de Salud.
 
 El traslado, la preservación, conservación, manejo, etiquetado, claves de identificación y los costos asociados al manejo de órganos, tejidos y células que se destinen a trasplantes, se ajustarán a lo que establezcan las disposiciones generales aplicables.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2009)</small>
+
+El traslado de órganos, tejidos y células adecuadamente etiquetados e identificados, podrá realizarse en cualquier medio de transporte por personal debidamente acreditado bajo la responsabilidad del establecimiento autorizado para realizar trasplantes o para la disposición de órganos, tejidos y células.
 
 > <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
@@ -5004,19 +5062,27 @@ II. Los establecimientos autorizados conforme al artículo 315 de esta Ley;
 
 III. Los profesionales de las disciplinas para la salud que intervengan en trasplantes;
 
-IV. Los pacientes en espera de algún órgano o tejido, integrados en listas estatales y nacional, y
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2009)</small>
 
-V. Los casos de muerte cerebral.
+IV. Los pacientes en espera de algún órgano o tejido, integrados en bases de datos hospitalarias, institucionales, estatales y nacional, y
+
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2009)</small>
+
+V. Los casos de muerte encefálica.
 
 En los términos que precisen las disposiciones reglamentarias, los establecimientos a que se refiere el artículo 315 de esta Ley y los profesionales de las disciplinas para la salud que intervengan en trasplantes deberán proporcionar la información relativa a las fracciones I, III, IV y V de este artículo.
 
-> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 339.
 
-El Centro Nacional de Trasplantes, cuya integración y funcionamiento quedará establecido en las disposiciones reglamentarias que para efectos de esta Ley se emitan, así como los Centros Estatales de Trasplantes que establezcan los gobiernos de las entidades federativas, decidirán y vigilarán la asignación de órganos, tejidos y células, dentro de sus respectivos ámbitos de competencia. Asimismo, actuarán coordinadamente en el fomento y promoción de la cultura de la donación, para lo cual, participarán con el Consejo Nacional de Trasplantes, cuyas funciones, integración y organización se determinarán en el reglamento respectivo.
+La distribución y asignación de órganos, tejidos y células en el país, de donador con pérdida de la vida para trasplante, deberá sujetarse a los criterios y procedimientos emitidos por el Centro Nacional de Trasplantes.
 
-Los centros estatales proporcionarán al Registro Nacional de Trasplantes la información correspondiente a su entidad, y su actualización, en los términos de los acuerdos de coordinación respectivos.
+El Centro Nacional de Trasplantes supervisará y dará seguimiento dentro del ámbito de su competencia a los procedimientos señalados en el párrafo anterior, mismos que deberán ser atendidos por los Centros Estatales de Trasplantes que establezcan los gobiernos de las entidades federativas y por los comités internos correspondientes en cada establecimiento de salud.
+
+El Centro Nacional de Trasplantes dará aviso a la Comisión Federal para la Protección contra Riesgos Sanitarios, en caso de detectar irregularidades en el desarrollo de las atribuciones en el ámbito de su competencia.
+
+Asimismo, el Centro Nacional de Trasplantes fomentará la cultura de la donación, en coordinación con el Consejo Nacional de Trasplantes y los centros estatales de trasplantes.
 
 > <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2003)</small>
 
@@ -5032,6 +5098,14 @@ El control sanitario de la disposición de sangre lo ejercerá la Secretaría de
 
 La disposición de sangre, componentes sanguíneos y células progenitoras hematopoyéticas con fines terapéuticos estará a cargo de bancos de sangre y servicios de transfusión que se instalarán y funcionarán de acuerdo con las disposiciones aplicables. La sangre será considerada como tejido.
 
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2009)</small>
+
+###### ARTICULO 341 Bis.
+
+La Secretaría de Salud y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, deberán impulsar la donación de células progenitoras hematopoyéticas, para coadyuvar en el tratamiento o curación de los pacientes que las requieran, asimismo, la Secretaría de Salud fijará las bases y modalidades a las que se sujetará el Sistema Nacional de Salud al respecto.
+
+La Secretaría de Salud, emitirá las disposiciones que regulen tanto la infraestructura con que deberán contar los bancos de sangre que lleven a cabo actos de disposición y distribución de células progenitoras hematopoyéticas, como la obtención, procesamiento y distribución de dichas células.
+
 > <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 342.
@@ -5044,45 +5118,33 @@ Cualquier órgano o tejido que haya sido extraído, desprendido o seccionado por
 
 ###### ARTICULO 343.
 
-Para efectos de este Título, la pérdida de la vida ocurre cuando:
+Para efectos de este Título, la pérdida de la vida ocurre cuando se presentan la muerte encefálica o el paro cardíaco irreversible.
 
-I. Se presente la muerte cerebral, o
+La muerte encefálica se determina cuando se verifican los siguientes signos:
 
-II. Se presenten los siguientes signos de muerte:
+I. Ausencia completa y permanente de conciencia;
 
-a. La ausencia completa y permanente de conciencia;
+II. Ausencia permanente de respiración espontánea, y
 
-b. La ausencia permanente de respiración espontánea;
-
-c. La ausencia de los reflejos del tallo cerebral, y
-
-d. El paro cardiaco irreversible.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
-
-###### ARTICULO 344.
-
-La muerte cerebral se presenta cuando existen los siguientes signos:
-
-I. Pérdida permanente e irreversible de conciencia y de respuesta a estímulos sensoriales;
-
-II. Ausencia de automatismo respiratorio, y
-
-III. Evidencia de daño irreversible del tallo cerebral, manifestado por arreflexia pupilar, ausencia de movimientos oculares en pruebas vestibulares y ausencia de respuesta a estímulos nociceptivos.
+III. Ausencia de los reflejos del tallo cerebral, manifestado por arreflexia pupilar, ausencia de movimientos oculares en pruebas vestibulares y ausencia de respuesta a estímulos nocioceptivos.
 
 Se deberá descartar que dichos signos sean producto de intoxicación aguda por narcóticos, sedantes, barbitúricos o sustancias neurotrópicas.
 
-Los signos señalados en las fracciones anteriores deberán corroborarse por cualquiera de las siguientes pruebas:
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2009)</small>
 
-I. Angiografía cerebral bilateral que demuestre ausencia de circulación cerebral, o
+###### ARTICULO 344.
 
-II. Electroencefalograma que demuestre ausencia total de actividad eléctrica cerebral en dos ocasiones diferentes con espacio de cinco horas.
+Los signos clínicos de la muerte encefálica deberán corroborarse por cualquiera de las siguientes pruebas:
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
+I. Electroencefalograma que demuestre ausencia total de actividad eléctrica, corroborado por un médico especialista;
+
+II. Cualquier otro estudio de gabinete que demuestre en forma documental la ausencia permanente de flujo encefálico arterial.
+
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 345.
 
-No existirá impedimento alguno para que a solicitud o autorización de las siguientes personas: el o la cónyuge, el concubinario, la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante; conforme al orden expresado; se prescinda de los medios artificiales que evitan que en aquel que presenta muerte cerebral comprobada se manifiesten los demás signos de muerte a que se refiere la fracción II del artículo 343.
+No existirá impedimento alguno para que a solicitud y con la autorización de las siguientes personas: el o la cónyuge, el concubinario o la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante; conforme al orden expresado; se prescinda de los medios artificiales cuando se presente la muerte encefálica comprobada y se manifiesten los demás signos de muerte a que se refiere el artículo 343.
 
 > <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
@@ -5876,21 +5938,21 @@ Se sancionará con multa hasta dos mil veces el salario mínimo general diario v
 
 Se sancionará con multa de dos mil hasta seis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 75, 121, 142, 147, 153, 198, 200, 204, 241, 259, 260, 265, 267, 304, 307, 341, 348, segundo y tercer párrafo, 349, 350 bis, 350 bis 2, 350 bis 3 y 373 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 421.
 
 Se sancionará con una multa equivalente de seis mil hasta doce mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 67, 101, 125, 127, 149, 193, 210, 212, 213, 218, 220, 230, 232, 233, 237, 238, 240, 242, 243, 247, 248, 251, 252, 255, 256, 258, 266, 306, 308, 309, 315, 317, 330, 331, 332, 334, 335, 336, 338, último párrafo, 342, 348, primer párrafo, 350 bis 1, 365, 367, 375, 376, 400, 411 y 413 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 421 Bis.
 
 Se sancionará con multa equivalente de doce mil hasta dieciséis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 100, 122, 126, 146, 166 Bis 19, 166 Bis 20, 205, 235, 254, 264, 281, 289, 293, 298, 325, 327 y 333 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 422.
 
@@ -6639,3 +6701,25 @@ D.O.F. 31 DE MAYO DE 2009.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. La implementación de las acciones de capacitación para fortalecer la competencia técnica de las parteras tradicionales a que se refiere el presente Decreto estará sujeta a los recursos que al efecto autorice la Cámara de Diputados en el Presupuesto de Egresos de cada ejercicio fiscal.
+
+D.O.F. 11 DE JUNIO DE 2009.
+
+DECRETO QUE ADICIONA EL ARTICULO 222 BIS A LA LEY GENERAL DE SALUD.
+
+Primero. El presente Decreto entrará en vigor a los 90 días posteriores a su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Secretaría de Salud contará con 180 días posteriores a su publicación en el Diario Oficial de la Federación para emitir las disposiciones jurídicas necesarias para la aplicación del presente Decreto.
+
+Tercero. La Secretaría de Salud en términos de lo que establece la Ley Federal sobre Metrología y Normalización, deberá adecuar a lo establecido por este Decreto, las normas oficiales mexicanas relacionadas.
+
+Cuarto. El Subcomité de Evaluación de Productos Biotecnológicos al que hace referencia el artículo 222 Bis, contará con al menos cinco integrantes de entre los cuales deberá asegurarse la inclusión de un representante de cada una de las siguientes instituciones: Instituto Nacional de Medicina Genómica, Universidad Nacional Autónoma de México e Instituto Politécnico Nacional, además de la representación por parte de la autoridad sanitaria y del Consejo de Salubridad General, y deberá establecerse dentro de los 90 días posteriores a su publicación en el Diario Oficial de la Federación.
+
+Quinto. El Reglamento del Comité de Moléculas Nuevas deberá expedirse antes de los 90 días posteriores a la publicación del presente Decreto.
+
+D.O.F. 11 DE JUNIO DE 2009.
+
+DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS A LA LEY GENERAL DE SALUD.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Por lo que se refiere a los establecimientos del sector público, la creación y funcionamiento de los Comités a que se refiere el presente Decreto se sujetarán a los recursos humanos (incluyendo el personal médico y administrativo), materiales y financieros con que cuentan actualmente.
