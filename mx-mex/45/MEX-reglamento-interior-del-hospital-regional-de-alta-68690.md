@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-hospital-regional-de-alta-68690"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-19"
-last_updated: "2009-05-19"
+last_updated: "2009-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL HOSPITAL REGIONAL DE ALTA ESPECIALIDAD DE ZUMPANGO
 
-REGLAMENTO INTERIOR DEL HOSPITAL REGIONAL DE ALTA ESPECIALIDAD DE ZUMPANGO.
+REGLAMENTO INTERIOR DEL HOSPITAL REGIONAL DE ALTA ESPECIALIDAD DE ZUMPANGO, DEL ESTADO DE MÉXICO.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE JUNIO DE 2009.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el martes 19 de mayo de 2009.
 
@@ -74,6 +74,14 @@ La dirección y administración del Hospital Regional corresponden:
 I. Al Consejo Interno.
 
 II. Al Director General.
+
+> <small>(ADICIONADO, G.G. 11 DE JUNIO DE 2009)</small>
+
+Artículo 6 bis.- La Secretaría de Salud del Gobierno del Estado de México proporcionará el apoyo necesario al Hospital Regional para el cumplimiento de su objeto y atribuciones, en términos de la normatividad aplicable.
+
+> <small>(ADICIONADO, G.G. 11 DE JUNIO DE 2009)</small>
+
+Artículo 6 ter.- El control interno del Hospital Regional estará a cargo de la Secretaría de la Contraloría, quien lo podrá ejercer a través del órgano de control interno que determine dicha dependencia.
 
 #### Sección Primera. Del Consejo Interno
 
@@ -209,9 +217,15 @@ XIII. Las demás que le señalan otras disposiciones legales y aquellas que le e
 
 ### CAPÍTULO V. DE LA SUPLENCIA DE LOS TITULARES
 
+> <small>(REFORMADO, G.G. 11 DE JUNIO DE 2009)</small>
+
 ###### Artículo 17.
 
+Las ausencias definitivas del Director General serán suplidas por el Director de Administración y Finanzas, quien ocupará el cargo provisionalmente, hasta en tanto el Gobernador del Estado designe al nuevo titular del Hospital Regional.
+
 El Director de Administración y Finanzas será suplido en sus ausencias temporales, por quien designe el Director General.
+
+Los servidores públicos suplentes o provisionales, contarán con todas las facultades asignadas al Director General o al titular de la unidad administrativa correspondiente.
 
 ## TRANSITORIOS
 
@@ -226,3 +240,13 @@ DRA. ROSA MARÍA PETRUSHKA CUÉLLAR DEL ÁGUILA
 DIRECTORA GENERAL DEL HOSPITAL REGIONAL DE ALTA ESPECIALIDAD DE ZUMPANGO Y SECRETARIA DEL CONSEJO INTERNO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 11 DE JUNIO DE 2009.
+
+PRIMERO.-Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- La organización y funcionamiento del Consejo Consultivo contemplado en el Capítulo Quinto de la Ley que crea el organismo público descentralizado de carácter estatal denominado Hospital Regional de Alta Especialidad de Zumpango, se establecerá una vez que sean autorizadas las unidades administrativas correspondientes del Hospital Regional de Alta Especialidad de Zumpango.
