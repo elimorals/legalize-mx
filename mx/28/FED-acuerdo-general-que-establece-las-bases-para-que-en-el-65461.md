@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-que-establece-las-bases-para-que-en-el-65461"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-01-21"
-last_updated: "2009-01-21"
+last_updated: "2009-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65461&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2009-01-06"
 
 ACUERDO GENERAL QUE ESTABLECE LAS BASES PARA QUE EN EL PODER JUDICIAL DE LA FEDERACION, LAS ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES, PRESTACION DE SERVICIOS, OBRA PUBLICA Y LOS SERVICIOS RELACIONADOS CON LA MISMA, SE AJUSTEN A LOS CRITERIOS CONTEMPLADOS EN EL ARTICULO 134 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL PRESENTE ACUERDO, SU ENTRADA EN VIGOR SERA EL 1 DE FEBRERO DE 2009.</small>
-
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE JUNIO DE 2009.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 21 de enero de 2009.
 
@@ -1211,6 +1209,14 @@ I. El titular del área que corresponda, realizará la contratación respectiva 
 
 II. El área que corresponda presentará de inmediato un informe al Comité, en el que señalará los motivos por los cuales se presentó la urgencia, la identidad del proveedor o contratista y el monto del contrato, para que el Comité lo incluya en su informe a su instancia superior.
 
+(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO 128/S4(6-V-2009) DE LA COMISION DE ADMINISTRACION DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION, D.O.F. 11 DE JUNIO DE 2009)
+
+###### ARTICULO 77 Bis.
+
+CONTRATACION CON INSTITUCIONES PUBLICAS.
+
+Cuando el Organo requiera contratar la adquisición de algún bien, uso, obra pública o servicio público prestado directamente por algún órgano del Estado Mexicano, Federal, Estatal, Municipal o del Distrito Federal y represente una erogación, dicha contratación se realizará mediante el procedimiento de adjudicación directa autorizado por el servidor público u órgano competente que corresponda conforme al monto de la erogación, debiendo suscribirse el instrumento que legalmente corresponda.
+
 SECCION 4a.
 
 DEL PROCEDIMIENTO DE SUBASTA A LA INVERSA
@@ -2350,3 +2356,11 @@ QUINTO. Los procedimientos de adjudicación regulados en el presente Acuerdo que
 El Presidente de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal, Ministro Guillermo I. Ortiz Mayagoitia.- Rúbrica.- La Presidenta del Tribunal Electoral del Poder Judicial de la Federación, Magistrada María del Carmen Alanís Figueroa.- Rúbrica.
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO EJECUTIVO DE ASUNTOS JURIDICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia del "ACUERDO GENERAL QUE ESTABLECE LAS BASES PARA QUE EN EL PODER JUDICIAL DE LA FEDERACION, LAS ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES, PRESTACION DE SERVICIOS, OBRA PUBLICA Y LOS SERVICIOS RELACIONADOS CON LA MISMA, SE AJUSTEN A LOS CRITERIOS CONTEMPLADOS EN EL ARTICULO 134 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS." Constante de sesenta y ochos fojas útiles, concuerda fiel y exactamente con el original que obra en esta Secretaría Ejecutiva y se certifica para la difusión correspondiente. México, Distrito Federal, a seis de enero de dos mil nueve.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 11 DE JUNIO DE 2009.
+
+SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+SEGUNDO. La presente reforma entrará en vigor a partir del día siguiente a su publicación en el Diario Oficial de la Federación.
