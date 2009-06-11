@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-desarrollo-45272"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-15"
-last_updated: "2006-09-06"
+last_updated: "2009-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO METROPOLITANO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE SEPTIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO METROPOLITANO, PUBLICADO EN LA G.G. DE 11 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 15 de junio de 2005.
 
@@ -426,3 +428,15 @@ PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del G
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO.- Cuando en otros ordenamientos legales y administrativos, papelería y demás documentos se haga referencia a la Dirección General de Planeación Estratégica Metropolitana y a la Dirección General de Coordinación Institucional, se entenderá a la Dirección General de Coordinación y Seguimiento de Comisiones Metropolitanas y a la Dirección General de Vinculación Institucional, respectivamente.
+
+G.G. 11 DE JUNIO DE 2009.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Metropolitano, publicado en el Periódico Oficial "Gaceta del Gobierno" el 15 de junio de 2005.
+
+CUARTO.- Con la entrada en vigor del presente Reglamento, cuando en otros ordenamientos legales y administrativos y demás documentos se haga referencia a la Dirección General de Coordinación y Seguimiento de Comisiones Metropolitanas, se entenderá a la Dirección General de Coordinación Metropolitana.
+
+QUINTO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que sean contrarias a lo dispuesto por el presente Reglamento.
