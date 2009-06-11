@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-instituto-de-las-mujeres-del-estado-de-san-luis-25507"
 country: "mx"
 rank: "ley"
 publication_date: "2002-03-14"
-last_updated: "2003-09-16"
+last_updated: "2009-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL INSTITUTO DE LAS MUJERES, DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2009.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de marzo de 2002.
 
@@ -99,7 +99,9 @@ X. Propiciar el acceso y desarrollo de las mujeres y los hombres en igualdad de 
 
 XI. Contribuir al fomento del desarrollo económico en el Estado, procurando la inclusión equitativa de hombres y mujeres en los diversos ámbitos de la vida laboral y productiva, y
 
-XII. Hacer conciencia del diálogo abierto, como la mejor forma de dirimir los problemas entre hombres y mujeres en todos los ámbitos y así rechazar cualquier tipo de violencia.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2009)</small>
+
+XII. Promover y llevar a cabo acciones enfocadas a erradicar todos los tipos de violencia contra las mujeres.
 
 ###### ARTICULO 8°.
 
@@ -135,7 +137,9 @@ XI. Promover ante las autoridades que corresponda, las medidas y acciones necesa
 
 XII. Realizar convenios con las autoridades competentes para asegurar que en materia de salud se logre una atención equitativa;
 
-XIII. Realizar campañas preventivas en contra de la violencia familiar en la que participen autoridades y sociedad;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2009)</small>
+
+XIII. Realizar campañas preventivas en contra de la violencia hacia las mujeres y la violencia familiar, en las que participen autoridades y sociedad;
 
 XIV. Realizar a través de medios de difusión, campañas que fomenten la cultura de equidad entre mujeres y hombres;
 
@@ -157,9 +161,13 @@ XXI. Difundir información de carácter gratuito y alcance estatal sobre la equi
 
 XXII. Brindar atención personalizada en materia jurídica y psicológica a las personas que lo soliciten, preferentemente a mujeres, cuando sea factible, según la problemática, o canalizarlas a las instituciones competentes;
 
-XXIII. Rendir anualmente un informe de actividades de acuerdo a los objetivos y atribuciones que se determinan en esta Ley, y
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2009)</small>
 
-XXIV. Las demás que establezcan otras disposiciones legales aplicables.
+XXIII. Fungir, a través de su titular, como Secretaría Ejecutiva del Sistema Estatal para la Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres, llevando al efecto las acciones que la ley de la materia y su reglamento le atribuyen;
+
+XXIV. Rendir anualmente un informe de actividades de acuerdo a los objetivos y atribuciones que se determinan en esta Ley, y
+
+XXV. Las demás que establezcan otras disposiciones legales aplicables.
 
 ### CAPITULO III. Del Programa Anual del Instituto
 
@@ -167,9 +175,11 @@ XXIV. Las demás que establezcan otras disposiciones legales aplicables.
 
 El Programa Anual del Instituto es el documento que contiene las políticas generales, los planes sectoriales y las tareas concretas que deben llevarse a cabo para el cumplimiento de los objetivos y atribuciones del mismo.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 11.
 
-El Programa Anual debe elaborarse en congruencia con el Plan Estatal de Desarrollo, con base en los resultados de los estudios e investigaciones realizados por el Instituto y tomando en consideración las propuestas del Consejo Consultivo y el Consejo Social. En su elaboración se incluirá la coordinación y concertación con los sectores público, privado y social de la Entidad de conformidad con el Reglamento de esta Ley, y será utilizado como indicador para medir el desempeño del Instituto.
+El Programa Anual debe elaborarse en congruencia con el Plan Estatal de Desarrollo, con base en los resultados de los estudios e investigaciones realizados por el Instituto, y tomando en consideración las propuestas del Consejo Consultivo y Social. En su elaboración se incluirá la coordinación y concertación con los sectores público, privado y social de la Entidad, de conformidad con el Reglamento de esta Ley, y será utilizado como indicador para medir el desempeño del Instituto.
 
 ### CAPITULO IV. De la Estructura Orgánica del Instituto
 
@@ -187,9 +197,11 @@ a) Dirección General;
 
 III. Consultivos
 
-a) Consejo Consultivo, y
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2009)</small>
 
-b) Consejo Social;
+a) Consejo Consultivo y Social;
+
+b) (DEROGADO, P.O. 11 DE JUNIO DE 2009)
 
 IV. De operación:
 
@@ -283,11 +295,13 @@ X. Participar en el análisis, discusión y valoración de los proyectos desarro
 
 XI. Otorgar a favor de la titular de la Dirección, la representación legal del Instituto con todas las facultades que correspondan al mandato general para pleitos y cobranzas, actos de administración y de dominio, así como las que requieran cláusula especial en los términos del Código Civil para el Estado de San Luis Potosí;
 
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2009)</small>
 
-XII. Recibir las recomendaciones de la Directora General del Instituto o del Consejo Consultivo para mejorar las políticas, programas o proyectos que en materia de equidad entre mujeres y hombres sean establecidos por las dependencias que los miembros de la Junta Directiva dirigen y/o representan;
+XII. Recibir las recomendaciones de la Directora General del Instituto, o del Consejo Consultivo y Social, para mejorar las políticas, programas o proyectos que en materia de equidad entre mujeres y hombres sean establecidos por las dependencias que los miembros de la Junta Directiva dirigen y/o representan;
 
-XIII. Establecer, con el apoyo del Consejo Consultivo y el Consejo Social, los indicadores de desempeño del Instituto, conforme a lo establecido en la Ley de Planeación del Estado;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2009)</small>
+
+XIII. Establecer, con el apoyo del Consejo Consultivo y Social, los indicadores de desempeño del Instituto, conforme a lo establecido en la Ley de Planeación del Estado;
 
 > <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
 
@@ -381,7 +395,9 @@ XIV. Delegar en los funcionarios del Instituto, las atribuciones que expresament
 
 XV. Presentar oportunamente ante las instancias correspondientes, el presupuesto anual de ingresos y egresos del Instituto, previamente aprobado por la Junta Directiva;
 
-XVI. Proporcionar a la Junta Directiva, así como a los Consejos Consultivo y Social, la información que requieran para el desempeño de sus funciones, y
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2009)</small>
+
+XVI. Proporcionar a la Junta Directiva, así como al Consejo Consultivo y Social, la información que requiera para el desempeño de sus funciones, y
 
 XVII. Las demás que le asigne este ordenamiento, la Junta Directiva y otras disposiciones en la materia.
 
@@ -419,65 +435,81 @@ X. Emitir opiniones e informes que le sean solicitados por la Directora General,
 
 XI. Desempeñar las demás funciones que establezca el Reglamento Interno del Instituto.
 
-### CAPITULO VII. Del Consejo Consultivo
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE JUNIO DE 2009)</small>
+
+### CAPITULO VII. Del Consejo Consultivo y Social
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 25.
 
-El Instituto cuenta con un Consejo Consultivo que funciona como órgano asesor en materia de equidad entre mujeres y hombres, y como promotor de las acciones del Instituto.
+El Instituto cuenta con un Consejo Consultivo y Social que funciona como órgano asesor en materia de equidad entre mujeres y hombres, y como promotor de las acciones del Instituto.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 26.
 
-El Consejo Consultivo se conforma por el número de ciudadanos o ciudadanas que determine la Junta Directiva, no pudiendo conformarse por menos de siete miembros con conocimientos y experiencia en las diversas materias de atención del Instituto, que representen a los diferentes sectores de la sociedad; y son nombrados por la Junta Directiva conforme a la convocatoria que al efecto se expida, en términos del Reglamento Interior del Instituto.
+El Consejo Consultivo y Social se integrará de la siguiente forma:
+
+I. Por ciudadanos o ciudadanas con conocimientos y experiencia en materia de género en los diversos asuntos de atención del Instituto, y
+
+II. Por representantes de las diversas organizaciones o asociaciones civiles relacionadas con el objeto del Instituto.
+
+Los y las integrantes del Consejo Consultivo y Social serán nombrados por la Junta Directiva conforme a la convocatoria que al efecto se expida, en términos del Reglamento Interior del Instituto.
+
+El número de integrantes del Consejo Consultivo y Social será determinado por la Junta Directiva, pero en ningún caso podrá ser menor a siete miembros.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 27.
 
-Los integrantes de este Consejo no perciben retribución o compensación alguna por el desempeño de su función, excepción hecha de los viáticos necesarios para el ejercicio de sus encomiendas o sus traslados.
+Los integrantes del Consejo Consultivo y Social no perciben retribución o compensación alguna por el desempeño de su función; excepción hecha de los viáticos necesarios para el ejercicio de sus encomiendas o sus traslados.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 28.
 
-Los integrantes del Consejo Consultivo desempeñan su encargo por dos años a partir de su nombramiento, pudiendo ser ratificados por la Junta Directiva.
+Los integrantes del Consejo Consultivo y Social desempeñan su encargo por tres años a partir de su nombramiento, pudiendo ser ratificados por la Junta Directiva.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 29.
 
-Son funciones del Consejo Consultivo:
+Son funciones del Consejo Consultivo y Social:
 
-> <small>(REFORMADA P.O. 16 DE SEPTIEMBRE DE 2003)</small>
-
-I. Asesorar a la Junta Directiva y a la Directora del Instituto, en la formulación de políticas, planes y programas que les competen de conformidad con la presente Ley;
+I. Asesorar a la Junta Directiva, y a la Directora del Instituto, en la formulación de políticas, planes y programas que les competen de conformidad con la presente Ley;
 
 II. Proponer medidas para impulsar y favorecer la participación de los sectores interesados en las acciones relacionadas con el objeto de esta Ley;
 
-III. Proponer medidas para apoyar la formación y el fortalecimiento de las organizaciones que tengan por objeto acciones a favor de la equidad entre mujeres y hombres;
+III. Proponer mecanismos para apoyar la formación y el fortalecimiento de las organizaciones que tengan por objeto acciones a favor de la equidad entre mujeres y hombres;
 
-IV. Dar seguimiento a las políticas, programas, proyectos y acciones que emprenda el Instituto en cumplimiento de la presente Ley, y proponer en su caso las modificaciones tendientes a perfeccionarlas;
+IV. Dar seguimiento a las políticas, programas, proyectos y acciones que emprenda el Instituto en cumplimiento de la presente Ley y demás disposiciones legales que le corresponda, y proponer, en su caso, las modificaciones tendentes a perfeccionarlas;
 
-V. Coadyuvar con la Junta Directiva en la formulación de los indicadores de desempeño del Instituto, y
+V. Atender las solicitudes de consulta o asesoría que le formulen la Junta Directiva, o la Directora del Instituto, relacionadas con la naturaleza de sus funciones;
 
-> <small>(REFORMADA P.O. 16 DE SEPTIEMBRE DE 2003)</small>
+VI. Hacer llegar en todo tiempo al Instituto, para su atención, la información y planteamiento de problemas concretos que deriven de situaciones de discriminación o inequidad por cuestiones propias del género de las personas en la Entidad, y
 
-VI. Atender las solicitudes de consulta o asesoría que le formulen la Junta Directiva o la Directora del Instituto, relacionadas con la naturaleza de sus funciones.
+VII. Coadyuvar con la Junta Directiva en la formulación de los indicadores de desempeño del Instituto.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE JUNIO DE 2009)</small>
 
 ### CAPITULO VIII. Del Consejo Social
 
 ###### ARTICULO 30.
 
-El Consejo Social es el órgano de representación de las diversas organizaciones o asociaciones civiles relacionadas con el objeto del Instituto, a través del cual, éstas pueden hacer llegar en todo tiempo al mismo, para su atención, la información y planteamiento de problemas concretos que deriven de situaciones de discriminación o inequidad por cuestiones propias del sexo de las personas en la Entidad.
+(DEROGADO, P.O. 11 DE JUNIO DE 2009)
 
 ###### ARTICULO 31.
 
-El Consejo Social se integra por un representante de cada organización que se acredite ante la Junta Directiva del Instituto.
-
-Al efecto, las organizaciones que deseen formar parte de este Consejo, pueden proponer por escrito a la Junta Directiva, a la persona que vaya a representarlos en el mismo.
+(DEROGADO, P.O. 11 DE JUNIO DE 2009)
 
 ###### ARTICULO 32.
 
-Los cargos de los miembros del Consejo Social son de carácter honorífico.
+(DEROGADO, P.O. 11 DE JUNIO DE 2009)
 
 ###### ARTICULO 33.
 
-El Reglamento Interior del Instituto determina la organización y funciones específicas del Consejo Social.
+(DEROGADO, P.O. 11 DE JUNIO DE 2009)
 
 ### CAPITULO IX. Del Patrimonio del Instituto
 
@@ -556,3 +588,11 @@ LIC. JORGE DANIEL HERNÁNDEZ DELGADILLO
 P.O. 16 DE SEPTIEMBRE DE 2003.
 
 UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE JUNIO DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Ejecutivo del Estado deberá realizar las modificaciones que se deriven del presente Decreto, al Reglamento Interior del Instituto de las Mujeres del Estado de San Luis Potosí, dentro de los noventa días siguientes a la entrada en vigor del mismo.
+
+TERCERO. Las personas que a la entrada en vigor de este Decreto integran el Consejo Consultivo, y el Consejo Social, del Instituto de las Mujeres, seguirán desempeñando su cargo hasta en tanto la Junta Directiva emita la convocatoria para la integración del Consejo Consultivo y Social que se instituye, lo que ese órgano de gobierno deberá hacer a más tardar el 30 de agosto del 2009, pudiendo dichos integrantes ser designados en la conformación del nuevo Consejo, según lo determine la propia Junta.
