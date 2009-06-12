@@ -4,7 +4,7 @@ identifier: "LCACSAM"
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-14"
-last_updated: "2004-06-14"
+last_updated: "2009-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCACSAM"
 
 LEY PARA LA COMPROBACION, AJUSTE Y COMPUTO DE SERVICIOS DE LA ARMADA DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 14 de junio de 2004.
 
@@ -252,9 +252,11 @@ VII.- A los que hubieren disfrutado de licencia extraordinaria para asuntos part
 
 No se deducirán del tiempo de servicios, ni de la antigüedad en la jerarquía, el de la duración de un proceso cuando haya recaído sentencia absolutoria.
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 24.
 
-A quien se le hubiere concedido licencia extraordinaria para el desempeño de algún cargo de elección popular o pasare a situación de depósito, no se le deducirá del tiempo de servicios ni de la antigüedad en la jerarquía.
+A quien se le hubiere concedido licencia extraordinaria para el desempeño de algún cargo de elección popular, licencia por edad límite o pasare a situación de depósito, no se le deducirá del tiempo de servicios ni de la antigüedad en la jerarquía.
 
 ###### ARTÍCULO 25.
 
@@ -271,3 +273,11 @@ II.- Por baja que haya sido motivada por resolución de organismo disciplinario.
 México, D.F., a 28 de abril de 2004.- Dip. Juan de Dios Castro Lozano, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Lydia Madero García, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de junio de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 12 DE JUNIO DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a este Decreto.
