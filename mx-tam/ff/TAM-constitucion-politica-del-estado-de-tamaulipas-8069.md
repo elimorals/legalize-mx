@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2009-05-05"
+last_updated: "2009-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2009.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -679,13 +679,15 @@ El Congreso, en ambos periodos de sesiones, se ocupará del estudio, discusión 
 
 En el desahogo de las atribuciones deliberativas, legislativas y de revisión de los resultados de la gestión pública, el Congreso alentará criterios de planeación para su ejercicio.
 
-En su oportunidad revisará y calificará las cuentas de aplicación de los fondos públicos que le serán remitidas, declarando si las cantidades percibidas y gastadas se adecuan a las partidas respectivas del Presupuesto, si se actuó de conformidad con las leyes de la materia, si los gastos están justificados y si, en su caso, hay lugar a exigir una responsabilidad.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2009)</small>
+
+En su oportunidad revisará y calificará las cuentas de aplicación de los fondos públicos que le serán remitidas, declarando si las cantidades percibidas y gastadas se adecuan a las partidas respectivas del presupuesto de egresos, si se actuó de conformidad con las leyes de la materia, si los gastos están justificados y si, en su caso, hay lugar a exigir alguna responsabilidad. Los poderes del Estado, los ayuntamientos, los órganos con autonomía de los poderes, las entidades estatales y municipales, y todo ente que reciba recursos públicos, deberán administrar y ejercer dichos recursos con eficiencia, eficacia, economía, transparencia y honradez, para satisfacer los objetivos a los que estén destinados.
 
 En el caso de las cuentas del Poder Ejecutivo y de los Ayuntamientos, deberá revisarse la recaudación y analizarse si fueron percibidos los recursos del caso en cumplimiento de las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2009)</small>
 
-Los poderes del Estado, los Ayuntamientos, y los organismos estatales o municipales presentarán cuenta pública semestral o anualmente en términos de la ley de la materia. En el año en que concluya el período constitucional de la entidad sujeta de fiscalización correspondiente, podrán optar por la presentación de la cuenta pública en forma trimestral.
+Los poderes del Estado, los ayuntamientos, los órganos con autonomía de los poderes, las entidades estatales o municipales y todo ente público que maneje o administre fondos públicos, presentarán cuenta pública anual en términos de la ley de la materia.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
@@ -771,9 +773,9 @@ Son facultades del Congreso:
 
 I. Expedir, reformar y derogar las Leyes y Decretos que regulan el ejercicio del Poder Público;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2009)</small>
 
-II. Fijar a propuesta del Gobernador los gastos del Poder Público del Estado, y decretar contribuciones y otros ingresos para cubrirlos, determinando la duración de éstos y el modo de recaudarlos. Ningún pago será legal si no esta incluído en el presupuesto o determinado por Ley posterior;
+II. Fijar, a propuesta del Gobernador, los gastos del poder público del Estado, y decretar previamente las contribuciones y otros ingresos para cubrirlos, determinándose la duración de dichas fuentes de financiamiento y el modo de recaudar las contribuciones. En el Presupuesto de Egresos se podrán autorizar erogaciones multianuales para los proyectos de desarrollo y de inversión en infraestructura que se determinen conforme a lo dispuesto en la ley, debiéndose incluir las erogaciones correspondientes en los presupuestos de egresos subsecuentes;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -787,11 +789,13 @@ IV. Fijar, a propuesta de los respectivos Ayuntamientos, las contribuciones y ot
 
 V. Nombrar y remover a sus servidores públicos en los términos que señale la Ley sobre la Organización y Funcionamiento Internos del Congreso; así como al Auditor Superior del Estado en los términos dispuestos por esta Constitución y la ley.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2009)</small>
 
-VI. Revisar y calificar las cuentas públicas de los Poderes del Estado, de los Ayuntamientos, de los entes públicos estatales y de todo organismo estatal o municipal que administre o maneje fondos públicos. La revisión de la cuenta tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en la Ley de Ingresos y en el Presupuesto de Egresos, así como si se han cumplido los objetivos contenidos en los programas.
+VI. Revisar las cuentas públicas de los poderes del Estado, de los ayuntamientos, de los órganos con autonomía de los poderes, de las entidades estatales o municipales y de todo ente público que administre o maneje fondos públicos. La revisión de la cuenta tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en la Ley de Ingresos y en el Presupuesto de Egresos, así como verificar el cumplimiento de los objetivos contenidos en los programas.
 
-Para la revisión de las cuentas públicas, el Congreso cuenta con la Auditoría Superior del Estado. La ley determinará la organización y funcionamiento de dicho órgano técnico de fiscalización superior del Congreso, el cual contará con independencia en sus funciones y autonomía presupuestal para el ejercicio de sus atribuciones. La coordinación y evaluación del desempeño de dicho órgano estará a cargo del Congreso en los términos que disponga la ley;
+Para la revisión de las cuentas públicas, el Congreso cuenta con la Auditoría Superior del Estado, como órgano técnico de fiscalización superior. Tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que dispongan las leyes. La coordinación y evaluación del desempeño de dicho órgano estará a cargo del Congreso de conformidad con lo que establezca la ley;
+
+Las cuentas públicas del ejercicio fiscal correspondiente deberán ser presentadas al Congreso, a más tardar, el 30 de abril del año siguiente. Unicamente se podrá ampliar el plazo de presentación de la cuenta pública del Poder Ejecutivo, cuando medie solicitud del Gobernador suficientemente justificada a juicio del Congreso, previa comparecencia del titular de la dependencia competente, pero la prórroga no deberá exceder de 30 días naturales y, en tal supuesto, la Auditoría Superior de Estado contará con el mismo tiempo adicional para la presentación del informe de resultados de la revisión de la cuenta pública. El Congreso deberá concluir la revisión de las cuentas públicas a más tardar el 15 de diciembre del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas del informe de resultados que emita la Auditoría Superior del Estado, sin demérito de que el trámite de observaciones, recomendaciones o acciones promovidas por la propia Auditoría, seguirá su curso en términos de lo dispuesto por esta Constitución y la ley;
 
 > <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2006)</small>
 
@@ -965,13 +969,13 @@ LIV. Resolver, en definitiva, sobre las medidas adoptadas por el Gobernador, en 
 
 LV. Legislar en materia de planeación sobre la formulación, instrumentación, control, evaluación y actualización del Plan Estatal de Desarrollo, cuidando que la planeación del desarrollo económico y social sea democrática y obligatoria para el Estado y los Municipios; así como legislar sobre los procesos de participación directa de la ciudadanía, y fijar las bases generales para que los Ayuntamientos establezcan los procesos en esta materia;
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 1989)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2009)</small>
 
-LVI. Para expedir leyes que instituyan el Tribunal de lo Contencioso-Administrativo, dotado de plena autonomía para dictar sus fallos, que tenga a su cargo dirimir las controversias de carácter administrativo que se susciten entre las autoridades del Estado, los Ayuntamientos y sus Organismos Públicos Descentralizados y los particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones;
+LVI. Para expedir leyes en materia de impartición de justicia administrativa, mediante órganos dotados de plena autonomía para dictar sus fallos, que tengan a su cargo dirimir las controversias de carácter administrativo que se susciten entre los particulares y las autoridades del Estado, de los ayuntamientos y de las entidades estatales y municipales, estableciéndose las normas para su organización, funcionamiento, procedimientos y recursos contra sus resoluciones; así como aprobar los nombramientos de quienes tengan a su cargo esa función en términos de ley, y recibir la protesta de dichos titulares;
 
-> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 1989)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2009)</small>
 
-LVII. Aprobar los nombramientos de los Magistrados del Tribunal de lo Contencioso-Administrativo y recibir la protesta de los mismos;
+LVII. Legislar sobre las normas de contabilidad gubernamental, con objeto de establecer criterios para la elaboración y presentación homogénea de la información financiera, los ingresos y egresos, la contabilidad pública y el patrimonio de los poderes del Estado, los ayuntamientos y los órganos con autonomía de los poderes, así como de las entidades estatales y municipales, a fin de garantizar la armonía con las previsiones nacionales en la materia;
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 2004)</small>
 
@@ -1161,9 +1165,9 @@ Las iniciativas de Ley de Ingresos y de Presupuesto de Egresos del Estado conten
 
 Toda propuesta de creación de partidas de gasto o de incremento de las mismas a la iniciativa de Presupuesto de Egresos, deberá adicionarse con la correspondiente iniciativa de ingresos, si con tal proposición se altera el equilibrio presupuestal.
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2009)</small>
 
-En la iniciativa de Decreto del Presupuesto de Egresos del Estado se incluirán los proyectos de desarrollo cuya realización requiera de previsiones presupuestales posteriores al ejercicio presupuestal que se esté aprobando. La aprobación de las asignaciones presupuestales relativas implica la consideración preferente para la asignación de gasto público necesario para su culminación en subsiguientes Presupuestos de Egresos.
+En la iniciativa de decreto del Presupuesto de Egresos del Estado se incluirán los proyectos de desarrollo e inversión en infraestructura cuya realización requiera de previsiones presupuestales multianuales. La aprobación de las asignaciones presupuestales relativas a dichos proyectos vincula a su inclusión en las asignaciones de gasto público necesarias para su culminación en los subsiguientes presupuestos de egresos.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -1211,29 +1215,67 @@ Las leyes o decretos se comunicarán al Ejecutivo firmadas por el Presidente y l
 
 #### Sección Cuarta. De la Fiscalización Superior
 
-(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002) (REUBICADO, P.O. 3 DE JUNIO DE 2003)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 2009)</small>
 
 ###### Art. 76.
 
-A la Auditoría Superior del Estado corresponde:
+La función de fiscalización corresponde a la Auditoría Superior del Estado, la cual será ejercida conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad.
 
-I.- Fiscalizar en forma posterior los ingresos y egresos públicos, el manejo, custodia y aplicación de fondos y recursos de los poderes del Estado, de los Ayuntamientos, de los entes públicos estatales y de los organismos estatales y municipales, y el cumplimiento de los objetivos contenidos en los programas estatales, a través de los informes que se rendirán en los términos que disponga la ley. En tratándose de la recaudación, analizar si fueron percibidos los recursos emitidos en cumplimiento de las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 03 DE JUNIO DE 2003)</small>
+I.- Fiscalizar en forma posterior, los ingresos y egresos públicos; el manejo, custodia y aplicación de fondos y recursos de los poderes del Estado, de los ayuntamientos, de los órganos con autonomía de los poderes y de las entidades estatales y municipales, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas estatales, a través de los informes que se rendirán en los términos que disponga la ley. En tratándose de la recaudación, analizar si fueron percibidos los recursos estimados en cumplimiento de las disposiciones legales aplicables.
 
-II.- Entregar al Congreso del Estado los informes del resultado de la revisión de las cuentas públicas que reciba, dentro de los plazos que señale la ley. Dichos informes contemplarán los resultados de la revisión efectuada y la referencia a la fiscalización del cumplimiento de los programas.
+También fiscalizará directamente los recursos estatales o municipales que se destinen y ejerzan por cualquier persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
+
+Los entes sujetos de fiscalización a que se refiere el párrafo anterior deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos estatales o municipales que se les transfieran y asignen, de conformidad con los criterios que establezca la ley.
+
+La Auditoría Superior del Estado, sin perjuicio del principio de anualidad, podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la cuenta pública en revisión, sin que por este motivo se entienda abierta nuevamente, para todos los efectos legales, la cuenta pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales, o se trate de revisiones sobre el cumplimiento de los objetivos de los programas estatales o municipales. Las observaciones o recomendaciones que, en su caso, emita la Auditoría Superior, sólo podrán referirse al ejercicio de los recursos públicos de la cuenta pública en revisión.
+
+Asimismo, sin perjuicio del principio de posterioridad, en las situaciones excepcionales que determine la ley y derivado de alguna denuncia, podrá requerir al sujeto fiscalizado que proceda a la revisión, durante el ejercicio fiscal en curso, de los conceptos denunciados y le rinda un informe. Si los requerimientos no fueren atendidos en los plazos y formas señalados en la ley, se impondrán las sanciones previstas en ésta. La Auditoría Superior rendirá un informe específico al Congreso del Estado y, en su caso, fincará las responsabilidades correspondientes o promoverá otras responsabilidades ante la autoridad competente;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2009)</small>
+
+II.- Entregar al Congreso del Estado el informe de resultados de la revisión de cada una de las cuentas públicas que reciba, dentro de los plazos que señale la ley. Dichos informes contemplarán los resultados de la revisión efectuada y la referencia a la fiscalización del cumplimiento de los programas. Si del examen de la Cuenta Pública aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo a la ley.
+
+En forma previa a la presentación del informe de resultados, la Auditoría Superior dará a conocer a los sujetos fiscalizados el resultado preliminar de la revisión practicada, a fin de que los mismos presenten las justificaciones y aclaraciones correspondientes, las cuales serán valoradas por la Auditoría Superior para la elaboración final del informe de resultados de la revisión de la cuenta pública.
+
+El Auditor Superior del Estado enviará a los sujetos fiscalizados, a más tardar a los 10 días hábiles posteriores de su entrega al Congreso del Estado, tanto el informe de resultados como las recomendaciones que correspondan, para que en un plazo no mayor a 30 días hábiles presenten la información necesaria y realicen las consideraciones que estimen pertinentes, comunicándoles que en caso de no lo hagan (sic) serán acreedores a las sanciones previstas en la ley. Lo anterior no aplicará a los pliegos de observaciones y al fincamiento de responsabilidades, los cuales se sujetarán a los procedimientos y términos que prevea la ley.
+
+La Auditoría Superior, dentro de los 120 días hábiles posteriores a las respuestas que reciba de los sujetos fiscalizados, deberá pronunciarse sobre las mismas y, en caso de no hacerlo, se entenderá que las recomendaciones y acciones promovidas han sido atendidas.
+
+Tratándose de las recomendaciones sobre el desempeño de los sujetos fiscalizados, estos deberán precisar a la Auditoría Superior las mejoras realizadas o, en su caso, justificar su improcedencia.
+
+La Auditoría Superior del Estado entregará al Congreso sendos informes sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas el día 1 de mayo y el día 1 de noviembre de cada año.
+
+La Auditoría Superior del Estado deberá guardar reserva de sus actuaciones y de sus observaciones hasta que rinda el informe del resultado del análisis de la cuenta pública de que se trate al Congreso del Estado. La ley establecerá las sanciones que correspondan a quienes infrinjan esta disposición;
+
+En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, la Auditoría Superior sólo podrá emitir recomendaciones para la mejoría en el desempeño de los mismos, en términos de la ley;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 III.- Efectuar visitas domiciliarias únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus funciones, sujetándose a las leyes y a las formalidades establecidas para los cateos, y
 
-IV.- Determinar los daños y perjuicios que afecten las haciendas públicas estatal o municipales o al patrimonio de los entes públicos estatales y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2009)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MARZO DE 2007)</small>
+IV.- Determinar los daños y perjuicios que afecten a las haciendas públicas estatal o municipales o al patrimonio de los entes públicos estatales o municipales, y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título XI de esta Constitución, y presentar las denuncias y querellas penales, en cuyos procedimientos tendrá la intervención que señale la ley.
 
-El Congreso designará al Auditor Superior del Estado por el voto de cuando menos las dos terceras partes de sus miembros presentes. La ley establecerá el procedimiento para su designación. El titular de la Auditoría Superior del Estado será designado por un solo período y durará en su encargo seis años. Sólo podrá ser removido de su encargo por las causas graves que señale la ley, mediante el procedimiento que la misma establezca y con la votación requerida para su designación.
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2009)</small>
+
+Las sanciones y demás resoluciones de la Auditoría Superior del Estado podrán impugnarse por los sujetos fiscalizados y, en su caso, por los servidores públicos afectados adscritos a las mismas, ante dicho órgano técnico de fiscalización superior o ante los tribunales a que se refiere la fracción LVII del artículo 58 de esta Constitución, en los términos que dispongan las leyes.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2009)</small>
+
+El Congreso del Estado designará al Auditor Superior del Estado por el voto de cuando menos las dos terceras partes de sus miembros presentes. El Auditor deberá contar con experiencia en materia de control presupuestal, auditoría financiera y régimen de responsabilidades de los servidores públicos, de por lo menos cinco años. La ley establecerá el procedimiento para su designación. El titular de la Auditoría durará en su encargo siete años y podrá ser nombrado para un nuevo periodo por una sola vez. Sólo podrá ser removido de su encargo por las causas graves que señale la ley, mediante el procedimiento que la misma establezca y con la votación requerida para su designación. Durante el ejercicio de su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 En el cumplimiento de sus funciones, la Auditoría Superior del Estado deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes de su competencia y se apruebe la cuenta pública correspondiente; la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
 Los poderes del Estado, los Ayuntamientos, los entes públicos estatales, los organismos estatales y municipales y toda persona sujeta a la fiscalización superior facilitarán a la Auditoría los auxilios que requiera para el ejercicio de sus funciones.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 Para el cobro de las indemnizaciones y sanciones impuestas por la Auditoría Superior, se aplicará el procedimiento administrativo de ejecución en el ámbito del Ejecutivo del Estado.
 
@@ -1867,7 +1909,7 @@ La ley establecerá las bases para la formación y actualización de los servido
 
 En los casos de retiro forzoso, jubilación, incapacidad o defunción, las prestaciones a los servidores públicos del Poder Judicial se cubrirán en los términos que determinen las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, P.O.8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Artículo 115.
 
@@ -2469,13 +2511,17 @@ Ningún servidor público percibirá más de un sueldo, excepción hecha de los 
 
 Los recursos económicos de que dispongan el Estado y los municipios se administrarán con eficiencia, eficacia, economía, transparencia, imparcialidad y honradez para satisfacer los objetivos a los que estén destinados.
 
-Los resultados del ejercicio de dichos recursos serán evaluados por la Auditoría Superior del Estado, con el objeto de propiciar que los recursos económicos se asignen en los respectivos presupuestos en los términos del párrafo anterior. Lo anterior, sin menoscabo de lo dispuesto en el segundo párrafo de la fracción VI del artículo 58 y en el artículo 76 de esta Constitución.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2009)</small>
+
+Los resultados del ejercicio de dichos recursos serán evaluados por la instancia técnica que establezca la ley, con objeto de propiciar que los recursos económicos se asignen en los respectivos presupuestos con base en los principios previstos en el párrafo anterior, sin menos cabo de lo dispuesto por el segundo párrafo de la fracción VI del artículo 58 y en el artículo 76 de esta Constitución.
 
 Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realicen, se adjudicarán o llevarán a cabo a través de licitaciones públicas mediante convocatoria pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
 
 Cuando las licitaciones a que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
 
-El manejo de recursos económicos estatales por parte de los municipios se sujetará a las bases de este artículo y a las leyes. La evaluación sobre el ejercicio de dichos recursos se realizará por la Auditoría Superior del Estado.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2009)</small>
+
+El manejo de los recursos económicos estatales por parte de los municipios se sujetará a las bases de este artículo y a lo que dispongan las leyes. La evaluación sobre el ejercicio de dichos recursos se realizará por la instancia técnica a que se refiere el párrafo segundo de este artículo.
 
 Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del Título XI de esta Constitución.
 
@@ -3581,17 +3627,27 @@ Se derogan las disposiciones contrarias a los preceptos de este Decreto.
 
 El Ejecutivo del Estado dispondrá las adecuaciones financieras, presupuestales y administrativas para el cumplimiento del presente Decreto.
 
-###### ARTÍCULO PRIMERO.
+P.O. 12 DE JUNIO DE 2009.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+###### ARTICULO PRIMERO.
 
-###### ARTÍCULO SEGUNDO.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Las normas de esta Constitución y los ordenamientos legales aplicables al Distrito Federal que se encuentren vigentes a la entrada en vigor del presente Decreto, continuarán aplicándose hasta que inicie la vigencia de aquellos que lo sustituyan.
+###### ARTICULO SEGUNDO.
 
-###### ARTÍCULO TERCERO.
+La aprobación y publicación de las adecuaciones a la legislación secundaria que deberán realizarse con motivo de las reformas constitucionales objeto del presente Decreto, se llevarán a cabo a más tardar dentro del término de seis meses contados a partir de la entrada en vigor del presente Decreto.
 
-Los Congresos de los Estados y la Asamblea Legislativa del Distrito Federal deberán realizar las adecuaciones necesarias a su legislación secundaria, derivadas del presente Decreto en un plazo no mayor a un año, contado a partir de su entrada en vigor.
+La legislación que se emita preverá en sus disposiciones transitorias los procesos de difusión, conocimiento y capacitación en el ámbito de los entes públicos para la presentación de las cuentas públicas y la evaluación técnica de los resultados del ejercicio presupuestal, a fin de que con motivo del ejercicio fiscal de 2011, la cuenta pública del mismo y la evaluación referida se efectúen conforme a las normas previstas en este Decreto.
+
+###### ARTICULO TERCERO.
+
+Conforme a lo dispuesto por el párrafo tercero del artículo 76 de la Constitución Política del Estado que se reforma mediante este Decreto, el Congreso del Estado llevará a cabo el procedimiento para designar al titular de la Auditoría Superior del Estado en términos de los requisitos previstos para ese encargo en dicho precepto y en la Ley de Fiscalización Superior del Estado, dentro de los noventa días siguientes a la entrada en vigor del presente Decreto.
+
+El actual titular de la Auditoría Superior del Estado tendrá derecho a una indemnización acorde a la situación laboral que le corresponde como servidor público.
+
+###### ARTICULO CUARTO.
+
+La revisión de las cuentas públicas correspondientes a los ejercicios fiscales precedentes al citado en el artículo segundo transitorio de este Decreto se realizarán con base en el orden normativo vigente al momento de la aprobación de los instrumentos correspondientes de ingresos y egresos de las finanzas públicas estatales y municipales.
 
 ###### ARTÍCULO PRIMERO.
 
