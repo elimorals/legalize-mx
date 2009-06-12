@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-tribunal-federal-de-justicia-fiscal-y-57614"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-12-06"
-last_updated: "2007-12-21"
+last_updated: "2009-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57614&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-12-05"
 
 LEY ORGANICA DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 6 de diciembre de 2007.
 
@@ -493,7 +493,9 @@ VI. Proporcionar oportunamente a la Junta de Gobierno y Administración del Trib
 
 VII. Dirigir la oficialía de partes y los archivos de la Sala;
 
-VIII. Verificar que en la Sala se aplique en sus términos el Sistema de Control de Juicios;
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+VIII. Verificar que en la Sala se utilice y mantenga actualizado el sistema de control y seguimiento de juicios, así como el Sistema de Justicia en Línea del Tribunal;
 
 IX. Vigilar que sean subsanadas las observaciones formuladas a la Sala Regional durante la última visita de inspección;
 
@@ -521,9 +523,15 @@ VII. Dictar los acuerdos o providencias de trámite necesarios para instruir el 
 
 VIII. Formular el proyecto de sentencia definitiva y, en su caso, de cumplimiento de ejecutorias;
 
-IX. Dictar los acuerdos y providencias relativas a las medidas cautelares provisionales en los términos de la Ley Federal de Procedimiento Contencioso Administrativo, así como proponer a la Sala el proyecto de resolución correspondiente a la medida cautelar definitiva que se estime procedente, y
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
 
-X. Las demás que les correspondan conforme a las disposiciones legales aplicables.
+IX. Dictar los acuerdos y providencias relativas a las medidas cautelares provisionales en los términos de la Ley Federal de Procedimiento Contencioso Administrativo, así como proponer a la Sala el proyecto de resolución correspondiente a la medida cautelar definitiva que se estime procedente;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+X. Supervisar la debida integración de las actuaciones en el Sistema de Justicia en Línea del Tribunal, de los juicios tramitados en línea, y
+
+XI. Las demás que les correspondan conforme a las disposiciones legales aplicables.
 
 ### CAPÍTULO VI. De la Junta de Gobierno y Administración
 
@@ -613,15 +621,21 @@ XXVIII. Resolver el recurso de revocación interpuesto por los servidores públi
 
 XXIX. Integrar y desarrollar un sistema de información estadística sobre el desempeño del Tribunal, del Pleno y de las Secciones de la Sala Superior y de las Salas Regionales, que contemple por lo menos el número de asuntos atendidos, su materia, su cuantía, la duración de los procedimientos, el rezago y las resoluciones confirmadas, revocadas o modificadas;
 
-XXX. Establecer y administrar un Boletín Procesal para la notificación de las resoluciones y acuerdos, así como el control de las notificaciones que se realicen por medios electrónicos;
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
 
-XXXI. Supervisar la publicación de las jurisprudencias, precedentes y tesis aisladas emitidas por las Salas y Secciones en la Revista del Tribunal;
+XXX. Establecer y administrar un Boletín Procesal para la notificación de las resoluciones y acuerdos, así como el control de las notificaciones que se realicen por medios electrónicos y supervisar la correcta operación y funcionamiento del Sistema de Justicia en Línea del Tribunal para la tramitación de los juicios en línea;
 
-XXXII. Formular la memoria anual de funcionamiento del Tribunal para ser presentada al Presidente de la República y al Congreso de la Unión;
+> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2009)</small>
 
-XXXIII. Llevar el registro de firmas de los Magistrados y Secretarios del Tribunal, y
+XXXI. Emitir los acuerdos normativos que contengan los lineamientos técnicos y formales que deban observarse en la substanciación del juicio en línea;
 
-XXXIV. Resolver los demás asuntos que señalen las disposiciones aplicables.
+XXXII. Supervisar la publicación de las jurisprudencias, precedentes y tesis aisladas emitidas por las Salas y Secciones en la Revista del Tribunal;
+
+XXXIII. Formular la memoria anual de funcionamiento del Tribunal para ser presentada al Presidente de la República y al Congreso de la Unión;
+
+XXXIV. Llevar el registro de firmas de los Magistrados y Secretarios del Tribunal, y
+
+XXXV. Resolver los demás asuntos que señalen las disposiciones aplicables.
 
 ###### ARTÍCULO 42.
 
@@ -677,9 +691,17 @@ IV. Tramitar y firmar la correspondencia referente a las funciones del Pleno, cu
 
 V. Llevar el turno de los Magistrados que deban formular ponencias para resolución del Pleno;
 
-VI. Dirigir los archivos de la Sala Superior, y
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
 
-VII. Dar fe y expedir certificados de las constancias que obran en los expedientes de la Sala Superior.
+VI. Dirigir los archivos de la Sala Superior;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+VII. Digitalizar la documentación y actuaciones que se requiera incorporar a un expediente tramitado en línea, así como imprimir y certificar las constancias de los expedientes electrónicos de la Sala Superior y las reproducciones en medios electrónicos de dichas actuaciones, y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], D.O.F. 12 DE JUNIO DE 2009)</small>
+
+VIII. Dar fe y expedir certificados de las constancias que obran en los expedientes que obran en la Sala Superior.
 
 ###### ARTÍCULO 48.
 
@@ -695,9 +717,15 @@ IV. Tramitar y firmar la correspondencia de las Secciones, cuando ello no corres
 
 V. Llevar el turno de los Magistrados que deban formular ponencias, estudios o proyectos para las resoluciones de las Secciones;
 
-VI. Dar fe y expedir certificados de constancias que obran en los expedientes de las Secciones, y
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
 
-VII. Las demás que les encomiende el Presidente de la Sección.
+VI. Dar fe y expedir certificados de constancias que obran en los expedientes de las Secciones;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+VII. Digitalizar la documentación y actuaciones que se requiera incorporar a un expediente tramitado en línea, así como imprimir y certificar las constancias de los expedientes electrónicos de la Sección y las reproducciones en medios electrónicos de dichas actuaciones, y
+
+VIII. Las demás que les encomiende el Presidente de la Sección.
 
 ###### ARTÍCULO 49.
 
@@ -709,9 +737,15 @@ II. Autorizar con su firma las actuaciones del Magistrado ponente;
 
 III. Efectuar las diligencias que les encomiende el Magistrado al que estén adscritos cuando éstas deban practicarse fuera del local de la Sala Superior;
 
-IV. Dar fe y expedir certificados de las constancias que obren en los expedientes de la Ponencia a la que estén adscritos, y
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
 
-V. Desempeñar las demás atribuciones que las disposiciones aplicables les confieran.
+IV. Dar fe y expedir certificados de las constancias que obren en los expedientes de la Ponencia a la que estén adscritos;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+V. Digitalizar la documentación y actuaciones que se requiera incorporar a un expediente tramitado en línea, así como imprimir y certificar las constancias de los expedientes electrónicos de la Ponencia a la que estén adscritos y las reproducciones en medios electrónicos de dichas actuaciones, y
+
+VI. Desempeñar las demás atribuciones que las disposiciones aplicables les confieran.
 
 ###### ARTÍCULO 50.
 
@@ -725,9 +759,15 @@ III. Efectuar las diligencias que les encomiende el Magistrado instructor cuando
 
 IV. Proyectar las sentencias y engrosarlas, en su caso, conforme a los razonamientos jurídicos de los Magistrados;
 
-V. Dar fe y expedir certificados de las constancias que obren en los expedientes de la Sala a la que estén adscritos, y
+> <small>(REFORMADA, D.O.F.12 DE JUNIO DE 2009)</small>
 
-VI. Las demás que señalen las disposiciones aplicables.
+V. Dar fe y expedir certificados de las constancias que obren en los expedientes de la Sala a la que estén adscritos;
+
+> <small>(ADICIONADA, D.O.F.12 DE JUNIO DE 2009)</small>
+
+VI. Digitalizar la documentación y actuaciones que se requiera incorporar a un expediente tramitado en línea, así como imprimir y certificar las constancias de los expedientes electrónicos de la Sala a la que estén adscritos y las reproducciones en medios electrónicos de dichas actuaciones, y
+
+VII. Las demás que señalen las disposiciones aplicables.
 
 ###### ARTÍCULO 51.
 
@@ -840,3 +880,31 @@ Primero. El presente decreto entrará en vigor el día siguiente al de su public
 Segundo. El Tribunal Federal de Justicia Fiscal y Administrativa conocerá de los juicios que se promuevan contra las resoluciones definitivas por las que se impongan sanciones administrativas a los servidores públicos en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, así como contra las que decidan los recursos administrativos previstos en dicho ordenamiento, hasta en tanto se modifique la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, conforme a lo dispuesto por el artículo Segundo Transitorio del decreto por el que se reforma el artículo 73, fracción XXIX-H de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación, el 4 de diciembre de 2006.
 
 Tercero. Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente ordenamiento.
+
+D.O.F. 12 DE JUNIO DE 2009.
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Tribunal Federal de Justicia Fiscal y Administrativa, a la fecha de entrada en vigor del presente Decreto, iniciará el desarrollo e instrumentación del Sistema de Justicia en Línea a través del cual se substanciará el Juicio en Línea.
+
+TERCERO. El Tribunal deberá realizar las acciones que correspondan, a efecto de que el Juicio en Línea, inicie su operación a los 18 meses contados a partir de la entrada en vigor del presente decreto.
+
+El Tribunal Federal de Justicia Fiscal y Administrativa promoverá una campaña masiva entre los usuarios de los servicios del Tribunal para difundir las disposiciones contenidas en este Decreto.
+
+CUARTO. Las autoridades cuyos actos sean susceptibles de impugnarse ante el Tribunal Federal de Justicia Fiscal y Administrativa, a través del Sistema de Justicia en Línea, deberán tramitar su Firma Electrónica Avanzada ante la Secretaría General de Acuerdos o ante la Presidencia de las Salas Regionales, según corresponda, y registrar su Dirección de Correo Electrónico institucional, así como el domicilio oficial de las unidades administrativas a las que corresponda su representación en los juicios contenciosos administrativos, para el efecto de emplazarlas electrónicamente a juicio, en aquellos casos en los que tengan el carácter de autoridades demandadas, a partir de los seis meses de la entrada en vigor del presente Decreto, sin exceder para ello del plazo de 18 meses a que se refiere el artículo anterior.
+
+QUINTO. En el mismo plazo señalado en el artículo anterior, las unidades administrativas a las que corresponda la representación de las autoridades cuyos actos sean susceptibles de impugnarse ante el Tribunal Federal de Justicia Fiscal y Administrativa en los juicios contenciosos administrativos deberán instrumentar y mantener permanentemente actualizados los mecanismos tecnológicos, materiales y humanos necesarios para acceder al Juicio en Línea a través del Sistema de Justicia en Línea del Tribunal.
+
+SEXTO. En caso de que el Tribunal Federal de Justicia Fiscal y Administrativa reciba una demanda por medio del Sistema de Justicia en Línea del Tribunal, y constate que la autoridad demandada, incumplió con lo señalado en el artículo CUARTO transitorio del presente Decreto, se le prevendrá para que en el plazo de 10 días hábiles contados a partir de que se le notifique dicha prevención, proceda a cumplir con dicha disposición o, en su caso acredite que ya la cumplió.
+
+En caso de no cumplir con la obligación a que se refiere el Artículo CUARTO transitorio el Tribunal le impondrá una multa de 100 a 200 veces el salario mínimo general vigente en el Distrito Federal y todas las notificaciones que deban hacérsele, incluyendo el emplazamiento, se harán a través del Boletín Procesal, hasta que se cumpla con dicha formalidad.
+
+Así mismo, se requerirá al superior jerárquico de aquélla para que en el plazo de 3 días hábiles, la obligue a cumplir sin demora. En caso de continuar la renuencia de la autoridad, los hechos se pondrán en conocimiento del Órgano Interno de Control que corresponda.
+
+SÉPTIMO. Los juicios que se encuentren en trámite ante el Tribunal Federal de Justicia Fiscal y Administrativa a la fecha en que inicie la operación del Juicio en Línea, continuarán substanciándose y se resolverán conforme a las disposiciones vigentes a la fecha de presentación de la demanda.
+
+OCTAVO. El Tribunal llevará a cabo las acciones necesarias a efecto de integrar los sistemas informáticos internos en una sola plataforma tecnológica, a través del Sistema de Justicia en Línea del Tribunal.
+
+NOVENO. Para la promoción, substanciación y resolución del juicio contencioso administrativo federal a través del Sistema de Justicia en Línea, prevalecerán las disposiciones contenidas en el Capítulo X de la ley respecto de otras que se contrapongan a lo establecido en dicho Capítulo.
+
+DÉCIMO. Los recursos necesarios para la implementación y cumplimiento de lo dispuesto en el presente Decreto provendrán de recursos fiscales autorizados en el presupuesto del Ramo 32: Tribunal Federal de Justicia Fiscal y Administrativa para el presente ejercicio y los subsecuentes.
