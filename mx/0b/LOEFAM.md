@@ -4,7 +4,7 @@ identifier: "LOEFAM"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-12-26"
-last_updated: "1998-01-23"
+last_updated: "2009-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=417&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOEFAM"
 
 LEY ORGANICA DEL EJERCITO Y FUERZA AEREA MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 26 de diciembre de 1986.
 
@@ -1354,9 +1354,11 @@ Salvo los casos de la Fracción I apartado A y Fracción II apartado E, la baja 
 
 De las Licencias
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 171.
 
-Las licencias para el personal del activo serán: ordinaria, ilimitada o especial.
+Las licencias para el personal del activo serán: ordinaria, ilimitada, especial y por edad límite.
 
 ###### ARTICULO 172.
 
@@ -1389,6 +1391,36 @@ Los casos de licencia previstos en las fracciones I y III serán concedidos cuan
 ###### ARTICULO 175.
 
 La reincorporación al servicio del personal al que se refiere la Fracción I del Artículo 174, tendrá lugar al día siguiente en que concluya el cargo de elección popular; la del personal a que se refieren las Fracciones II y III de ese mismo Artículo, tendrá lugar el día siguiente de que fenezca la orden expedida, o la licencia concedida por el Presidente de la República. Cuando no esté fijado el plazo, la Secretaría de la Defensa Nacional dará por terminada la licencia del militar al concluir el mandato constitucional del Presidente de la República, de quien emanó la orden. En todos los casos, el personal al reincorporarse quedará a disposición de la Secretaría de la Defensa Nacional, para que le sea asignado destino.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+ARTICULO 175 BIS. La licencia por edad límite es la que se concede a los militares con veinticinco, treinta o más años de servicios efectivos que estén próximos a ser colocados en situación de retiro, por edad límite dispuesta en el artículo 25 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, conforme a la tabla siguiente:
+
+Años de Servicio
+
+Generales,
+
+Jefes y Oficiales Tropa Tiempo de la Licencia
+
+30 años 25 años 6 meses
+
+32 años 26 años 7 meses
+
+34 años 27 años 8 meses
+
+36 años 28 años 9 meses
+
+38 años 29 años 10 meses
+
+40 años 30 años 11 meses
+
+42 o más años 31 o más años 12 meses
+
+Los militares que se ubiquen en cualquiera de los supuestos de este artículo, podrán solicitar a la Secretaría, con treinta días de anticipación a la fecha que les corresponda gozar de esta licencia; en caso de que la petición se realice en forma extemporánea, sólo se concederá este beneficio, en el caso de que sea procedente, por el tiempo que reste para cumplir la edad límite para su permanencia en el activo.
+
+El secretario de la Defensa Nacional, podrá conceder o negar esta licencia, conforme a lo establecido en la primera parte del párrafo segundo del artículo 173 de esta Ley.
+
+Esta licencia será concedida por una sola ocasión, con goce de las percepciones que esté recibiendo el militar, sin interrumpir su tiempo de servicios.
 
 ###### ARTICULO 176.
 
@@ -1883,3 +1915,9 @@ En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Consti
 D.O.F. 23 DE ENERO DE 1998.
 
 ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
+
+D.O.F. 12 DE JUNIO DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a este Decreto.
