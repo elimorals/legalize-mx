@@ -4,7 +4,7 @@ identifier: "LCACSEFAM"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-09"
-last_updated: "2006-02-09"
+last_updated: "2009-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48404&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCACSEFAM"
 
 LEY PARA LA COMPROBACION, AJUSTE Y COMPUTO DE SERVICIOS EN EL EJERCITO Y FUERZA AEREA MEXICANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 9 de febrero de 2006.
 
@@ -150,7 +150,9 @@ Los abonos a que se refiere esta Ley se anotarán al cerrarse las Hojas de Servi
 
 Las deducciones en el tiempo de servicios y de antigüedad procederán en los siguientes casos:
 
-I. A los que hubiesen estado separados del servicio activo por licencia ilimitada o por licencia especial distinta de la prevista en el artículo 20 de esta Ley o que hayan permanecido de hecho sustraídos del servicio por cualquier causa no imputable a la Secretaría de la Defensa Nacional, se les deducirá el tiempo que dure dicha circunstancia.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+I. A los que hubiesen estado separados del servicio activo por licencia ilimitada o por licencia especial distinta de las previstas en el artículo 20 de esta ley o que hayan permanecido de hecho sustraídos del servicio por cualquier causa no imputable a la Secretaría de la Defensa Nacional, se les deducirá el tiempo que dure dicha circunstancia.
 
 Se considera causa imputable a la Secretaría de la Defensa Nacional, el desempeño de una comisión ajena al servicio militar por órdenes de la propia Secretaría, siempre y cuando ésta no haya sido solicitada por el interesado;
 
@@ -172,9 +174,11 @@ VIII. A los que hubieren disfrutado de licencia ordinaria, se les deducirá el t
 
 No se deducirá del tiempo de servicios ni de antigüedad, el tiempo de la duración de un proceso penal cuando haya recaído sentencia absolutoria.
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
 ###### Artículo 20.
 
-No se deducirá del tiempo de servicios ni de antigüedad el de duración de una licencia especial para desempeñar cargos de elección popular, de conformidad con la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos.
+No se deducirá del tiempo de servicios ni de antigüedad, el de duración de la licencia especial para desempeñar cargos de elección popular y el de la licencia por edad límite, de conformidad con la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos.
 
 ###### Artículo 21.
 
@@ -411,3 +415,11 @@ CUARTO.- Se derogan todas las disposiciones que se opongan al presente ordenamie
 México, D.F., a 15 de diciembre de 2005.- Dip. Heliodoro Díaz Escárraga, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los tres días del mes de febrero de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 12 DE JUNIO DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a este Decreto.
