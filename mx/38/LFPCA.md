@@ -4,7 +4,7 @@ identifier: "LFPCA"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2005-12-01"
-last_updated: "2009-01-23"
+last_updated: "2009-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46997&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPCA"
 
 LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de diciembre de 2005.
 
@@ -50,6 +50,42 @@ Cuando la resolución recaída a un recurso administrativo, no satisfaga el inte
 
 Asimismo, cuando la resolución a un recurso administrativo declare por no interpuesto o lo deseche por improcedente, siempre que la Sala Regional competente determine la procedencia del mismo, el juicio contencioso administrativo procederá en contra de la resolución objeto del recurso, pudiendo en todo caso hacer valer conceptos de impugnación no planteados en el recurso.
 
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+###### ARTÍCULO 1o-A.
+
+Para los efectos de esta Ley se entenderá por:
+
+I. Acuse de Recibo Electrónico: Constancia que acredita que un documento digital fue recibido por el Tribunal y estará sujeto a la misma regulación aplicable al uso de una firma electrónica avanzada. En este caso, el acuse de recibo electrónico identificará a la Sala que recibió el documento y se presumirá, salvo prueba en contrario, que el documento digital fue recibido en la fecha y hora que se consignen en dicha constancia. El Tribunal establecerá los medios para que las partes y los autorizados para recibir notificaciones puedan verificar la autenticidad de los acuses de recibo electrónico.
+
+II. Archivo Electrónico: Información contenida en texto, imagen, audio o video generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología que forma parte del Expediente Electrónico.
+
+III. Boletín Procesal: Medio de comunicación oficial impreso o electrónico, a través del cual el Tribunal da a conocer las actuaciones o resoluciones en los juicios contenciosos administrativos federales que se tramitan ante el mismo.
+
+IV. Clave de acceso: Conjunto único de caracteres alfanuméricos asignados por el Sistema de Justicia en Línea del Tribunal a las partes, como medio de identificación de las personas facultadas en el juicio en que promuevan para utilizar el Sistema, y asignarles los privilegios de consulta del expediente respectivo o envío vía electrónica de promociones relativas a las actuaciones procesales con el uso de la firma electrónica avanzada en un procedimiento contencioso administrativo.
+
+V. Contraseña: Conjunto único de caracteres alfanuméricos, asignados de manera confidencial por el Sistema de Justicia en Línea del Tribunal a los usuarios, la cual permite validar la identificación de la persona a la que se le asignó una Clave de Acceso.
+
+VI. Dirección de Correo Electrónico: Sistema de comunicación a través de redes informáticas, señalado por las partes en el juicio contencioso administrativo federal.
+
+VII. Dirección de Correo Electrónico Institucional: Sistema de comunicación a través de redes informáticas, dentro del dominio definido y proporcionado por los órganos gubernamentales a los servidores públicos.
+
+VIII. Documento Electrónico o Digital: Todo mensaje de datos que contiene texto o escritura generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología que forma parte del Expediente Electrónico.
+
+IX. Expediente Electrónico: Conjunto de información contenida en archivos electrónicos o documentos digitales que conforman un juicio contencioso administrativo federal, independientemente de que sea texto, imagen, audio o video, identificado por un número específico.
+
+X. Firma Digital: Medio gráfico de identificación en el Sistema de Justicia en Línea, consistente en la digitalización de una firma autógrafa mediante un dispositivo electrónico, que es utilizada para reconocer a su autor y expresar su consentimiento.
+
+XI. Firma Electrónica Avanzada: Conjunto de datos consignados en un mensaje electrónico adjuntados o lógicamente asociados al mismo que permita identificar a su autor mediante el Sistema de Justicia en línea, y que produce los mismos efectos jurídicos que la firma autógrafa. La firma electrónica permite actuar en Juicio en Línea.
+
+XII. Juicio en la vía tradicional: El juicio contencioso administrativo federal que se substancia recibiendo las promociones y demás documentales en manuscrito o impresos en papel, y formando un expediente también en papel, donde se agregan las actuaciones procesales.
+
+XIII. Juicio en línea: Substanciación y resolución del juicio contencioso administrativo federal en todas sus etapas, así como de los procedimientos previstos en el artículo 58 de esta Ley, a través del Sistema de Justicia en Línea.
+
+XIV. Sistema de Justicia en Línea: Sistema informático establecido por el Tribunal a efecto de registrar, controlar, procesar, almacenar, difundir, transmitir, gestionar, administrar y notificar el procedimiento contencioso administrativo que se sustancie ante el Tribunal.
+
+XV. Tribunal: Tribunal Federal de Justicia Fiscal y Administrativa.
+
 ###### ARTÍCULO 2o.
 
 El juicio contencioso administrativo federal, procede contra las resoluciones administrativas definitivas que establece la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa.
@@ -76,9 +112,11 @@ Dentro del mismo plazo que corresponda a la autoridad demandada, la Secretaría 
 
 III. El tercero que tenga un derecho incompatible con la pretensión del demandante.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 4o.
 
-Toda promoción deberá estar firmada por quien la formule y sin este requisito se tendrá por no presentada, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital y firmará otra persona a su ruego.
+Toda promoción deberá contener la firma autógrafa o la firma electrónica avanzada de quien la formule y sin este requisito se tendrá por no presentada. Cuando el promovente en un Juicio en la vía tradicional, no sepa o no pueda estampar su firma autógrafa, estampará en el documento su huella digital y en el mismo documento otra persona firmará a su ruego.
 
 Cuando la resolución afecte a dos o más personas, la demanda deberá ir firmada por cada una de ellas, y designar a un representante común que elegirán de entre ellas mismas, si no lo hicieren, el Magistrado Instructor nombrará con tal carácter a cualquiera de los interesados, al admitir la demanda.
 
@@ -220,9 +258,19 @@ Manifestada por un magistrado la causa de impedimento, el Presidente de la Secci
 
 ### CAPÍTULO I. De la Demanda
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 13.
 
-La demanda se presentará por escrito directamente ante la sala regional competente, dentro de los plazos que a continuación se indican:
+El demandante podrá presentar su demanda, mediante Juicio en la vía tradicional, por escrito ante la sala regional competente o, en línea, a través del Sistema de Justicia en Línea, para este último caso, el demandante deberá manifestar su opción al momento de presentar la demanda. Una vez que el demandante haya elegido su opción no podrá variarla. Cuando la autoridad tenga este carácter la demanda se presentará en todos los casos en línea a través del Sistema de Justicia en Línea
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+Para el caso de que el demandante no manifieste su opción al momento de presentar su demanda se entenderá que eligió tramitar el Juicio en la vía tradicional.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+La demanda deberá presentarse dentro de los plazos que a continuación se indican:
 
 I. De cuarenta y cinco días siguientes a aquél en el que se dé alguno de los supuestos siguientes:
 
@@ -234,7 +282,9 @@ II. De cuarenta y cinco días siguientes a aquél en el que surta efectos la not
 
 III. De cinco años cuando las autoridades demanden la modificación o nulidad de una resolución favorable a un particular, los que se contarán a partir del día siguiente a la fecha en que éste se haya emitido, salvo que haya producido efectos de tracto sucesivo, caso en el que se podrá demandar la modificación o nulidad en cualquier época sin exceder de los cinco años del último efecto, pero los efectos de la sentencia, en caso de ser total o parcialmente desfavorable para el particular, sólo se retrotraerán a los cinco años anteriores a la presentación de la demanda.
 
-Cuando el demandante tenga su domicilio fuera de la población donde esté la sede de la Sala, la demanda podrá enviarse por el Servicio Postal Mexicano, mediante correo certificado con acuse de recibo, siempre que el envío se efectúe en el lugar en que resida el demandante, pudiendo en este caso señalar como domicilio para recibir notificaciones, el ubicado en cualquier parte del territorio nacional, salvo cuando tenga su domicilio dentro de la jurisdicción de la Sala Competente, en cuyo caso, el señalado para tal efecto, deberá estar ubicado dentro de la circunscripción territorial de la Sala.
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+Cuando el demandante tenga su domicilio fuera de la población donde esté la sede de la Sala, la demanda podrá enviarse a través de Correos de México, correo certificado con acuse de recibo, siempre que el envío se efectúe en el lugar en que resida el demandante, pudiendo en este caso señalar como domicilio para recibir notificaciones, el ubicado en cualquier parte del territorio nacional, salvo cuando tenga su domicilio dentro de la jurisdicción de la Sala competente, en cuyo caso, el señalado para tal efecto, deberá estar ubicado dentro de la circunscripción territorial de la Sala.
 
 Cuando el interesado fallezca durante el plazo para iniciar juicio, el plazo se suspenderá hasta un año, si antes no se ha aceptado el cargo de representante de la sucesión. También se suspenderá el plazo para interponer la demanda si el particular solicita a las autoridades fiscales iniciar el procedimiento de resolución de controversias contenido en un tratado para evitar la doble tributación, incluyendo en su caso, el procedimiento arbitral. En estos casos cesará la suspensión cuando se notifique la resolución que da por terminado dicho procedimiento, inclusive en el caso de que se dé por terminado a petición del interesado.
 
@@ -244,7 +294,9 @@ En los casos de incapacidad o declaración de ausencia, decretadas por autoridad
 
 La demanda deberá indicar:
 
-I. El nombre del demandante y su domicilio para recibir notificaciones en cualquier parte del territorio nacional, salvo cuando tenga su domicilio dentro de la jurisdicción de la Sala Regional competente, en cuyo caso, el domicilio señalado para tal efecto deberá estar ubicado dentro de la circunscripción territorial de la Sala competente.
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+I. El nombre del demandante y su domicilio para recibir notificaciones en cualquier parte del territorio nacional, así como su Dirección de Correo Electrónico, cuando opte porque el juicio se substancie en línea a través del Sistema de Justicia en Línea.
 
 II. La resolución que se impugna. En el caso de que se controvierta un decreto, acuerdo, acto o resolución de carácter general, precisará la fecha de su publicación.
 
@@ -266,13 +318,23 @@ VII. El nombre y domicilio del tercero interesado, cuando lo haya.
 
 VIII. Lo que se pida, señalando en caso de solicitar una sentencia de condena, las cantidades o actos cuyo cumplimiento se demanda.
 
-En cada escrito de demanda sólo podrá aparecer un demandante, salvo en los casos que se trate de la impugnación de resoluciones conexas, o que se afecte los intereses jurídicos de dos o más personas, mismas que podrán promover el juicio contra dichas resoluciones en un solo escrito.
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2009)</small>
 
-El escrito de demanda en que promuevan dos o más personas en contravención de lo dispuesto en el párrafo anterior, el Magistrado Instructor requerirá a los promoventes para que en el plazo de cinco días presenten cada uno de ellos su demanda correspondiente, apercibidos que de no hacerlo se desechará la demanda inicial.
+En cada demanda sólo podrá aparecer un demandante, salvo en los casos que se trate de la impugnación de resoluciones conexas, o que se afecte los intereses jurídicos de dos o más personas, mismas que podrán promover el juicio contra dichas resoluciones en una sola demanda.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+En los casos en que sean dos o más demandantes éstos ejercerán su opción a través de un representante común.
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+En la demanda en que promuevan dos o más personas en contravención de lo dispuesto en el párrafo anterior, el Magistrado Instructor requerirá a los promoventes para que en el plazo de cinco días presenten cada uno de ellos su demanda correspondiente, apercibidos que de no hacerlo se desechará la demanda inicial.
 
 Cuando se omita el nombre del demandante o los datos precisados en las fracciones II y VI, el Magistrado Instructor desechará por improcedente la demanda interpuesta. Si se omiten los datos previstos en las fracciones III, IV, V, VII y VIII, el Magistrado Instructor requerirá al promovente para que los señale dentro del término de cinco días, apercibiéndolo que de no hacerlo en tiempo se tendrá por no presentada la demanda o por no ofrecidas las pruebas, según corresponda.
 
-En el supuesto de que no se señale domicilio del demandante para recibir notificaciones conforme a lo dispuesto en la fracción I de este artículo o se desconozca el domicilio del tercero, las notificaciones relativas se efectuarán por lista autorizada, que se fijará en sitio visible de la propia Sala.
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+En el supuesto de que conforme a lo dispuesto en la fracción I de este artículo, no se señale el domicilio del demandante en la jurisdicción de la Sala Regional que corresponda o se desconozca el domicilio del tercero, las notificaciones relativas se efectuarán por lista autorizada, que se fijará en sitio visible de la propia Sala, así como en el Boletín Procesal que emita el Tribunal, el cual estará disponible en su página electrónica. En caso de que el actor desconozca el domicilio del tercero, deberá manifestarlo así bajo protesta de decir verdad.
 
 ###### ARTÍCULO 15.
 
@@ -410,9 +472,13 @@ Cuando haya contradicciones entre los hechos y fundamentos de derecho dados en l
 
 Una vez iniciado el juicio contencioso administrativo, pueden decretarse todas las medidas cautelares necesarias para mantener la situación de hecho existente, que impidan que la resolución impugnada pueda dejar el litigio sin materia o causar un daño irreparable al actor, salvo en los casos en que se cause perjuicio al interés social o se contravengan disposiciones de orden público.
 
-I. El escrito en donde se soliciten las medidas cautelares señaladas, deberá contener los siguientes requisitos:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
 
-a) Nombre y domicilio para oír notificaciones en cualquier parte del territorio nacional, salvo cuando el solicitante tenga su domicilio dentro de la jurisdicción de la Sala Regional competente, en cuyo caso, el domicilio señalado para tal efecto deberá estar ubicado dentro de la circunscripción territorial de la Sala competente.
+I. La promoción en donde se soliciten las medidas cautelares señaladas, deberá contener los siguientes requisitos:
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+a) El nombre del demandante y su domicilio para recibir notificaciones en cualquier parte del territorio nacional, así como su Dirección de Correo Electrónico, cuando opte porque el juicio se substancie en línea a través del Sistema de Justicia en Línea.
 
 b) Resolución que se pretende impugnar y fecha de notificación de la misma.
 
@@ -541,6 +607,10 @@ I. Las partes sean las mismas y se invoquen idénticos agravios.
 II. Siendo diferentes las partes e invocándose distintos agravios, el acto impugnado sea uno mismo o se impugne varias partes del mismo acto.
 
 III. Independientemente de que las partes y los agravios sean o no diversos, se impugnen actos o resoluciones que sean unos antecedentes o consecuencia de los otros.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+Para el caso en que proceda la acumulación y los juicios respectivos se estén sustanciando por la vía tradicional y el juicio en línea, el Magistrado Instructor requerirá a las partes relativas al Juicio en la vía tradicional para que en el plazo de tres días manifiesten si optan por substanciar el juicio en línea, en caso de que no ejerza su opción se tramitara el Juicio en la vía tradicional.
 
 ###### ARTÍCULO 32.
 
@@ -730,6 +800,18 @@ En el caso de sentencias en que se condene a la autoridad a la restitución de u
 
 Hecha excepción de lo dispuesto en fracción XIII, apartado B, del artículo 123 Constitucional, respecto de los Agentes del Ministerio Público, los Peritos y los Miembros de las Instituciones Policiales de la Federación, que hubiesen promovido el juicio o medio de defensa en el que la autoridad jurisdiccional resuelva que la separación, remoción, baja, cese, destitución o cualquier otra forma de terminación del servicio fue injustificada; casos en los que la autoridad demandada sólo estará obligada a pagar la indemnización y demás prestaciones a que tengan derecho, sin que en ningún caso proceda la reincorporación al servicio.
 
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+###### ARTÍCULO 50-A.
+
+Las sentencias que dicte el Tribunal Federal de Justicia Fiscal y Administrativa con motivo de las demandas que prevé la Ley Federal de Responsabilidad Patrimonial del Estado, deberán contener como elementos mínimos los siguientes:
+
+I. El relativo a la existencia de la relación de causalidad entre la actividad administrativa y la lesión producida y la valoración del daño o perjuicio causado;
+
+II. Determinar el monto de la indemnización, explicitando los criterios utilizados para su cuantificación, y
+
+III. En los casos de concurrencia previstos en el Capítulo IV de la Ley Federal de Responsabilidad Patrimonial del Estado, se deberán razonar los criterios de impugnación y la graduación correspondiente para su aplicación a cada caso en particular.
+
 ###### ARTÍCULO 51.
 
 Se declarará que una resolución administrativa es ilegal cuando se demuestre alguna de las siguientes causales:
@@ -785,6 +867,10 @@ a) Reconocer al actor la existencia de un derecho subjetivo y condenar al cumpli
 b) Otorgar o restituir al actor en el goce de los derechos afectados.
 
 c) Declarar la nulidad del acto o resolución administrativa, caso en que cesarán los efectos de los actos de ejecución que afectan al demandante, inclusive el primer acto de aplicación que hubiese impugnado. La declaración de nulidad no tendrá otros efectos para el demandante, salvo lo previsto por las leyes de la materia de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+d) Reconocer la existencia de un derecho subjetivo y condenar al ente público federal al pago de una indemnización por los daños y perjuicios causados por sus servidores públicos.
 
 Si la sentencia obliga a la autoridad a realizar un determinado acto o iniciar un procedimiento, conforme a lo dispuesto en las fracciones III y IV, deberá cumplirse en un plazo de cuatro meses contados a partir de que la sentencia quede firme.
 
@@ -930,17 +1016,179 @@ IV. A quien promueva una queja notoriamente improcedente, entendiendo por ésta 
 
 Existiendo resolución administrativa definitiva, si la Sala Regional, la Sección o el Pleno consideran que la queja es improcedente, prevendrán al promovente para que dentro de los cuarenta y cinco días siguientes a aquél en que surta efectos la notificación del auto respectivo, la presente como demanda, cumpliendo los requisitos previstos por los artículos 14 y 15 de esta Ley, ante la misma Sala Regional que conoció del primer juicio, la que será turnada al mismo Magistrado Instructor de la queja.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+### CAPÍTULO X. Del Juicio en Línea
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+###### ARTÍCULO 58-A.
+
+El juicio contencioso administrativo federal se promoverá, substanciará y resolverá en línea, a través del Sistema de Justicia en Línea que deberá establecer y desarrollar el Tribunal, en términos de lo dispuesto por el presente Capítulo y las demás disposiciones específicas que resulten aplicables de esta Ley. En todo lo no previsto, se aplicarán las demás disposiciones que resulten aplicables de este ordenamiento.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+###### ARTÍCULO 58-B.
+
+Cuando el demandante ejerza su derecho a presentar su demanda en línea a través del Sistema de Justicia en Línea del Tribunal, las autoridades demandadas deberán comparecer y tramitar el juicio en la misma vía.
+
+Si el demandante no señala expresamente su Dirección de Correo Electrónico, se tramitará el Juicio en la vía tradicional y el acuerdo correspondiente se notificará por lista y en el Boletín Procesal del Tribunal.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+###### ARTÍCULO 58-C.
+
+Cuando la demandante sea una autoridad, el particular demandado, al contestar la demanda, tendrá derecho a ejercer su opción para que el juicio se tramite y resuelva en línea conforme a las disposiciones de este Capítulo, señalando para ello su domicilio y Dirección de Correo Electrónico.
+
+A fin de emplazar al particular demandado, el Secretario de Acuerdos que corresponda, imprimirá y certificará la demanda y sus anexos que se notificarán de manera personal.
+
+Si el particular rechaza tramitar el juicio en línea contestará la demanda mediante el Juicio en la vía tradicional.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+###### ARTÍCULO 58-D.
+
+En el Sistema de Justicia en Línea del Tribunal se integrará el Expediente Electrónico, mismo que incluirá todas las promociones, pruebas y otros anexos que presenten las partes, oficios, acuerdos, y resoluciones tanto interlocutorias como definitivas, así como las demás actuaciones que deriven de la substanciación del juicio en línea, garantizando su seguridad, inalterabilidad, autenticidad, integridad y durabilidad, conforme a los lineamientos que expida el Tribunal.
+
+En los juicios en línea, la autoridad requerida, desahogará las pruebas testimoniales utilizando el método de videoconferencia, cuando ello sea posible.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+###### ARTÍCULO 58-E.
+
+La Firma Electrónica Avanzada, Clave de Acceso y Contraseña se proporcionarán, a través del Sistema de Justicia en Línea del Tribunal, previa obtención del registro y autorización correspondientes. El registro de la Firma Electrónica Avanzada, Clave de Acceso y Contraseña, implica el consentimiento expreso de que dicho Sistema registrará la fecha y hora en la que se abran los Archivos Electrónicos, que contengan las constancias que integran el Expediente Electrónico, para los efectos legales establecidos en este ordenamiento.
+
+Para hacer uso del Sistema de Justicia en Línea deberán observarse los lineamientos que, para tal efecto, expida el Tribunal.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+###### ARTÍCULO 58-F.
+
+La Firma Electrónica Avanzada producirá los mismos efectos legales que la firma autógrafa y garantizará la integridad del documento, teniendo el mismo valor probatorio.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+###### ARTÍCULO 58-G.
+
+Solamente, las partes, las personas autorizadas y delegados tendrán acceso al Expediente Electrónico, exclusivamente para su consulta, una vez que tengan registrada su Clave de Acceso y Contraseña.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+###### ARTÍCULO 58-H.
+
+Los titulares de una Firma Electrónica Avanzada, Clave de Acceso y Contraseña serán responsables de su uso, por lo que el acceso o recepción de las notificaciones, la consulta al Expediente Electrónico y el envío de información mediante la utilización de cualquiera de dichos instrumentos, les serán atribuibles y no admitirán prueba en contrario, salvo que se demuestren fallas del Sistema de Justicia en Línea.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+###### ARTÍCULO 58-I.
+
+Una vez recibida por vía electrónica cualquier promoción de las partes, el Sistema de Justicia en Línea del Tribunal emitirá el Acuse de Recibo Electrónico correspondiente, señalando la fecha y la hora de recibido.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+###### ARTÍCULO 58-J.
+
+Cualquier actuación en el Juicio en Línea se efectuará a través del Sistema de Justicia en Línea del Tribunal en términos del presente Capítulo. Dichas actuaciones serán validadas con las firmas electrónicas y firmas digitales de los Magistrados y Secretarios de Acuerdos que den fe según corresponda.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+###### ARTÍCULO 58-K.
+
+Los documentos que las partes ofrezcan como prueba, incluido el expediente administrativo a que se refiere el artículo 14, fracción V, de esta Ley, deberán exhibirlos de forma legible a través del Sistema de Justicia en Línea del Tribunal.
+
+Tratándose de documentos digitales, se deberá manifestar la naturaleza de los mismos, especificando si la reproducción digital corresponde a una copia simple, una copia certificada o al original y tratándose de esta última, si tiene o no firma autógrafa. Los particulares deberán hacer esta manifestación bajo protesta de decir verdad, la omisión de la manifestación presume en perjuicio sólo del promovente, que el documento digitalizado corresponde a una copia simple.
+
+Las pruebas documentales que ofrezcan y exhiban las partes tendrán el mismo valor probatorio que su constancia física, siempre y cuando se observen las disposiciones de la presente Ley y de los acuerdos normativos que emitan los órganos del Tribunal para asegurar la autenticidad de la información, así como de su transmisión, recepción, validación y notificación.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+###### ARTÍCULO 58-L.
+
+Para el caso de pruebas diversas a las documentales, los instrumentos en los que se haga constar la existencia de dichas pruebas se integrarán al Expediente Electrónico. El Secretario de Acuerdos a cuya mesa corresponda el asunto, deberá digitalizar las constancias relativas y procederá a la certificación de su cotejo con los originales físicos, así como a garantizar el resguardo de los originales y de los bienes materiales que en su caso hubieren sido objeto de prueba.
+
+Para el caso de pruebas diversas a las documentales, éstas deberán ofrecerse en la demanda y ser presentadas a la Sala que esté conociendo del asunto, en la misma fecha en la que se registre en el Sistema de Justicia en Línea del Tribunal la promoción correspondiente a su ofrecimiento, haciendo constar su recepción por vía electrónica.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+###### ARTÍCULO 58-M.
+
+Para los juicios que se substancien en términos de este capítulo no será necesario que las partes exhiban copias para correr los traslados que la Ley establece, salvo que hubiese tercero interesado, en cuyo caso, a fin de correrle traslado, el demandante deberá presentar la copia de traslado con sus respectivos anexos.
+
+En el escrito a través del cual el tercero interesado se apersone en juicio, deberá precisar si desea que el juicio se continúe substanciando en línea y señalar en tal caso, su Dirección de Correo Electrónico. En caso de que manifieste su oposición, la Sala dispondrá lo conducente para que se digitalicen los documentos que dicho tercero presente, a fin de que se prosiga con la instrucción del juicio en línea con relación a las demás partes, y a su vez, se impriman y certifiquen las constancias de las actuaciones y documentación electrónica, a fin de que se integre el expediente del tercero en un Juicio en la vía tradicional.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+###### ARTÍCULO 58-N.
+
+Las notificaciones que se practiquen dentro del juicio en línea, se efectuarán conforme a lo siguiente:
+
+I.- Todas las actuaciones y resoluciones que conforme a las disposiciones de esta Ley deban notificarse en forma personal, mediante correo certificado con acuse de recibo, o por oficio, se deberán realizar a través del Sistema de Justicia en Línea del Tribunal.
+
+II.- El actuario deberá elaborar la minuta electrónica en la que precise la actuación o resolución a notificar, así como los documentos que se adjunten a la misma. Dicha minuta, que contendrá la Firma Electrónica Avanzada del actuario, será ingresada al Sistema de Justicia en Línea del Tribunal junto con la actuación o resolución respectiva y los documentos adjuntos.
+
+III.- El actuario enviará a la Dirección de Correo Electrónico de la o las partes a notificar, un aviso informándole que se ha dictado una actuación o resolución en el Expediente Electrónico, la cual está disponible en el Sistema de Justicia en Línea del Tribunal.
+
+IV.- El Sistema de Justicia en Línea del Tribunal registrará la fecha y hora en que se efectúe el envío señalado en la fracción anterior.
+
+V.- Se tendrá como legalmente practicada la notificación, conforme a lo señalado en las fracciones anteriores, cuando el Sistema de Justicia en Línea del Tribunal genere el Acuse de Recibo Electrónico donde conste la fecha y hora en que la o las partes notificadas ingresaron al Expediente Electrónico, lo que deberá suceder dentro del plazo de tres días hábiles siguientes a la fecha de envío del aviso a la Dirección de Correo Electrónico de la o las partes a notificar.
+
+VI.- En caso de que en el plazo señalado en la fracción anterior, el Sistema de Justicia en Línea del Tribunal no genere el acuse de recibo donde conste que la notificación fue realizada, la misma se efectuará mediante lista y por Boletín Procesal al cuarto día hábil contado a partir de la fecha de envío del Correo Electrónico, fecha en que se tendrá por legalmente notificado.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+###### ARTÍCULO 58-O.
+
+Para los efectos del Juicio en Línea son hábiles las 24 horas de los días en que se encuentren abiertas al público las Oficinas de las Salas del Tribunal.
+
+Las promociones se considerarán, salvo prueba en contrario, presentadas el día y hora que conste en el Acuse de Recibo Electrónico que emita el Sistema de Justicia en Línea del Tribunal, en el lugar en donde el promovente tenga su domicilio fiscal y, por recibidas, en el lugar de la sede de la Sala Regional a la que corresponda conocer del juicio por razón de territorio. Tratándose de un día inhábil se tendrán por presentadas el día hábil siguiente.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+###### ARTÍCULO 58-P.
+
+Las autoridades cuyos actos sean susceptibles de impugnarse ante el Tribunal, deberán registrar en la Secretaría General de Acuerdos o ante la Presidencia de las Salas Regionales, según corresponda, la Dirección de Correo Electrónico Institucional, así como el domicilio oficial de las unidades administrativas a las que corresponda su representación en los juicios contenciosos administrativos, para el efecto de emplazarlas electrónicamente a juicio en aquellos casos en los que tengan el carácter de autoridad demandada.
+
+En el caso de que las autoridades demandadas no cumplan con esta obligación, todas las notificaciones que deben hacerse, incluyendo el emplazamiento, se harán a través del Boletín Procesal, hasta que se cumpla con dicha formalidad.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+###### ARTÍCULO 58-Q.
+
+Para la presentación y trámite de los recursos de revisión y juicios de amparo que se promuevan contra las actuaciones y resoluciones derivadas del Juicio en Línea, no será aplicable lo dispuesto en el presente Capítulo.
+
+El Secretario General de Acuerdos del Tribunal, los Secretarios Adjuntos de Sección y los Secretarios de Acuerdos de Sala Superior y de Salas Regionales según corresponda, deberán imprimir el archivo del Expediente Electrónico y certificar las constancias del juicio que deban ser remitidos a los Juzgados de Distrito y Tribunales Colegiados de Circuito, cuando se impugnen resoluciones de los juicios correspondientes a su mesa.
+
+Sin perjuicio de lo anterior, en aquellos casos en que así lo solicite el Juzgado de Distrito o el Tribunal Colegiado se podrá remitir la información a través de medios electrónicos.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+###### ARTÍCULO 58-R.
+
+En caso que el Tribunal advierta que alguna persona modificó, alteró, destruyó o provocó la pérdida de información contenida en el Sistema de Justicia en Línea, se tomarán las medidas de protección necesarias, para evitar dicha conducta hasta que concluya el juicio, el cual se continuará tramitando a través de un Juicio en la vía tradicional.
+
+Si el responsable es usuario del Sistema, se cancelará su Firma Electrónica Avanzada, Clave y Contraseña para ingresar al Sistema de Justicia en Línea y no tendrá posibilidad de volver a promover juicios en línea.
+
+Sin perjuicio de lo anterior, y de las responsabilidades penales respectivas, se impondrá al responsable una multa de trescientas a quinientas veces el salario mínimo general vigente en el Distrito Federal al momento de cometer la infracción.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+###### ARTÍCULO 58-S.
+
+Cuando por caso fortuito, fuerza mayor o por fallas técnicas se interrumpa el funcionamiento del Sistema de Justicia en Línea, haciendo imposible el cumplimiento de los plazos establecidos en la ley, las partes deberán dar aviso a la Sala correspondiente en la misma promoción sujeta a término, quien pedirá un reporte al titular de la unidad administrativa del Tribunal responsable de la administración del Sistema sobre la existencia de la interrupción del servicio.
+
+El reporte que determine que existió interrupción en el Sistema deberá señalar la causa y el tiempo de dicha interrupción, indicando la fecha y hora de inicio y término de la misma. Los plazos se suspenderán, únicamente, el tiempo que dure la interrupción del Sistema. Para tal efecto, la Sala hará constar esta situación mediante acuerdo en el expediente electrónico y, considerando el tiempo de la interrupción, realizara el computo correspondiente, para determinar si hubo o no incumplimiento de los plazos legales.
+
 ### CAPÍTULO I. De la Reclamación
 
 ### CAPÍTULO II. De la Revisión
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
-### CAPÍTULO I. De las Notificaciones
-
 ## TÍTULO III. De los Recursos
 
-### CAPÍTULO II. De los Exhortos
+### CAPÍTULO I. De las Notificaciones
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 59.
 
@@ -962,7 +1210,7 @@ Interpuesto el recurso en los términos señalados en el párrafo anterior, la S
 
 Una vez remitido el recurso de reclamación en los términos antes señalados, se dará cuenta a la Sala Superior que por turno corresponda para que resuelva en el término de cinco días.
 
-### CAPÍTULO III. Del Cómputo de los Términos
+### CAPÍTULO II. De los Exhortos
 
 ###### ARTÍCULO 63.
 
@@ -1014,19 +1262,21 @@ Si el particular interpuso amparo directo contra la misma resolución o sentenci
 
 ## TÍTULO IV. Disposiciones Finales
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. Del Cómputo de los Términos
 
 ###### ARTÍCULO 65.
 
-Toda resolución debe notificarse, o en su caso, darse el aviso por correo personal electrónico, a más tardar el tercer día siguiente a aquél en que el expediente haya sido turnado al actuario para ese efecto y se asentará la razón respectiva a continuación de la misma resolución.
+Toda resolución debe notificarse, o en su caso, darse el aviso en la Dirección de Correo Electrónico señalada, a más tardar el tercer día siguiente a aquél en que el expediente haya sido turnado al actuario para ese efecto y se asentará la razón respectiva a continuación de la misma resolución.
 
 Las notificaciones que se realicen a las autoridades o a personas morales por conducto de su Oficialía de Partes u Oficina de recepción, se entenderán legalmente efectuadas cuando en el documento correspondiente obre el sello de recibido por tales oficinas.
 
 Al actuario que sin causa justificada no cumpla con esta obligación, se le impondrá una multa de una a tres veces el salario mínimo general de la zona económica correspondiente al Distrito Federal, elevado al mes, sin que exceda del 30% de su salario. Será destituido, sin responsabilidad para el Estado, en caso de reincidencia.
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 66.
 
-En las notificaciones, el actuario deberá asentar razón del envío por correo o entrega de los oficios de notificación y de los avisos por correo personal electrónico, así como de las notificaciones personales y por lista. Los acuses postales de recibo y las piezas certificadas devueltas se agregarán como constancia a dichas actuaciones.
+En las notificaciones, el actuario deberá asentar razón del envío por correo o entrega de los oficios de notificación y de los avisos en la Dirección de Correo Electrónico, así como de las notificaciones personales y por lista. Los acuses postales de recibo y las piezas certificadas devueltas se agregarán como constancia a dichas actuaciones.
 
 ###### ARTÍCULO 67.
 
@@ -1054,11 +1304,15 @@ VIII. En todos aquellos casos en que el Magistrado Instructor o la Sala así lo 
 
 En caso de incumplimiento a lo señalado en el párrafo anterior, las notificaciones se harán a los particulares por medio de la lista a que se refiere este artículo, la cual contendrá el nombre de la persona, la clave del expediente y el tipo de acuerdo. En los autos se hará constar la fecha de la lista.
 
-Las partes que así lo deseen, podrán señalar su clave o dirección de correo personal electrónico a la Sala Regional en que se lleve el juicio, a fin de que por este medio se les dé aviso de la emisión de los autos y demás resoluciones que en él se dicten, acompañado de un extracto de su contenido que comprenderá la fecha y órgano de emisión, los datos de identificación del expediente y el tipo de auto o resolución. Satisfecho lo anterior, el Magistrado Instructor ordenará que los avisos de que se trata se le practiquen por este medio a la parte que lo haya solicitado; el Actuario, a su vez, deberá dejar constancia en el expediente de que el aviso se envió a la dirección electrónica señalada hasta por tres ocasiones consecutivas y la fecha y hora en que las realizó. En estos casos, durante el plazo de cinco días siguientes a aquél en que el aviso se llevó a cabo, la parte interesada podrá apersonarse al local de la Sala a notificarse personalmente de la resolución de que se trate y, a su vencimiento, si esto último no hubiere ocurrido, se procederá a su notificación por lista.
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+Las partes que así lo deseen, podrán señalar su clave o Dirección de Correo Electrónico a la Sala Regional en que se lleve el juicio, a fin de que por este medio se les dé aviso de la emisión de los autos y demás resoluciones que en él se dicten, acompañado de un extracto de su contenido que comprenderá la fecha y órgano de emisión, los datos de identificación del expediente y el tipo de auto o resolución. Satisfecho lo anterior, el Magistrado Instructor ordenará que los avisos de que se trata se le practiquen por este medio a la parte que lo haya solicitado; el Actuario, a su vez, deberá dejar constancia en el expediente de que el aviso se envió a la Dirección de Correo Electrónico señalado hasta por tres ocasiones consecutivas y la fecha y hora en que las realizó. En estos casos, durante el plazo de cinco días siguientes a aquél en que el aviso se llevó a cabo, la parte interesada podrá apersonarse al local de la Sala a notificarse personalmente de la resolución de que se trate y, a su vencimiento, si esto último no hubiere ocurrido, se procederá a su notificación por lista.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 68.
 
-Las notificaciones que deban hacerse a las autoridades administrativas se harán por oficio y por vía telegráfica en casos urgentes. También podrán efectuarse, opcionalmente, en la forma prevista en el artículo anterior por medio del aviso en correo personal electrónico.
+Las notificaciones que deban hacerse a las autoridades administrativas se harán por oficio y por vía telegráfica en casos urgentes. También podrán efectuarse, opcionalmente, en la forma prevista en el artículo anterior por medio del aviso en la Dirección de Correo Electrónico Institucional.
 
 Tratándose de las autoridades, las resoluciones que se dicten en los juicios que se tramiten ante el Tribunal se deberán notificar en todos los casos, únicamente a la unidad administrativa a la que corresponda la representación en juicio de la autoridad señalada en el artículo 5o., tercer párrafo de esta Ley.
 
@@ -1079,6 +1333,8 @@ La notificación personal o por correo certificado con acuse de recibo, también
 ###### ARTÍCULO 72.
 
 Una notificación omitida o irregular se entenderá legalmente hecha a partir de la fecha en que el interesado se haga sabedor de su contenido.
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 73.
 
@@ -1171,3 +1427,41 @@ SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ...
+
+D.O.F. 12 DE JUNIO DE 2009.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 1-A, 13, 14, 24, 31, 65, 66, 67, 68, 58-A AL 58-S Y CAPITULO X DE LA LEY DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO.
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Tribunal Federal de Justicia Fiscal y Administrativa, a la fecha de entrada en vigor del presente Decreto, iniciará el desarrollo e instrumentación del Sistema de Justicia en Línea a través del cual se substanciará el Juicio en Línea.
+
+TERCERO. El Tribunal deberá realizar las acciones que correspondan, a efecto de que el Juicio en Línea, inicie su operación a los 18 meses contados a partir de la entrada en vigor del presente decreto.
+
+El Tribunal Federal de Justicia Fiscal y Administrativa promoverá una campaña masiva entre los usuarios de los servicios del Tribunal para difundir las disposiciones contenidas en este Decreto.
+
+CUARTO. Las autoridades cuyos actos sean susceptibles de impugnarse ante el Tribunal Federal de Justicia Fiscal y Administrativa, a través del Sistema de Justicia en Línea, deberán tramitar su Firma Electrónica Avanzada ante la Secretaría General de Acuerdos o ante la Presidencia de las Salas Regionales, según corresponda, y registrar su Dirección de Correo Electrónico institucional, así como el domicilio oficial de las unidades administrativas a las que corresponda su representación en los juicios contenciosos administrativos, para el efecto de emplazarlas electrónicamente a juicio, en aquellos casos en los que tengan el carácter de autoridades demandadas, a partir de los seis meses de la entrada en vigor del presente Decreto, sin exceder para ello del plazo de 18 meses a que se refiere el artículo anterior.
+
+QUINTO. En el mismo plazo señalado en el artículo anterior, las unidades administrativas a las que corresponda la representación de las autoridades cuyos actos sean susceptibles de impugnarse ante el Tribunal Federal de Justicia Fiscal y Administrativa en los juicios contenciosos administrativos deberán instrumentar y mantener permanentemente actualizados los mecanismos tecnológicos, materiales y humanos necesarios para acceder al Juicio en Línea a través del Sistema de Justicia en Línea del Tribunal.
+
+SEXTO. En caso de que el Tribunal Federal de Justicia Fiscal y Administrativa reciba una demanda por medio del Sistema de Justicia en Línea del Tribunal, y constate que la autoridad demandada, incumplió con lo señalado en el artículo CUARTO transitorio del presente Decreto, se le prevendrá para que en el plazo de 10 días hábiles contados a partir de que se le notifique dicha prevención, proceda a cumplir con dicha disposición o, en su caso acredite que ya la cumplió.
+
+En caso de no cumplir con la obligación a que se refiere el Artículo CUARTO transitorio el Tribunal le impondrá una multa de 100 a 200 veces el salario mínimo general vigente en el Distrito Federal y todas las notificaciones que deban hacérsele, incluyendo el emplazamiento, se harán a través del Boletín Procesal, hasta que se cumpla con dicha formalidad.
+
+Así mismo, se requerirá al superior jerárquico de aquélla para que en el plazo de 3 días hábiles, la obligue a cumplir sin demora. En caso de continuar la renuencia de la autoridad, los hechos se pondrán en conocimiento del Órgano Interno de Control que corresponda.
+
+SÉPTIMO. Los juicios que se encuentren en trámite ante el Tribunal Federal de Justicia Fiscal y Administrativa a la fecha en que inicie la operación del Juicio en Línea, continuarán substanciándose y se resolverán conforme a las disposiciones vigentes a la fecha de presentación de la demanda.
+
+OCTAVO. El Tribunal llevará a cabo las acciones necesarias a efecto de integrar los sistemas informáticos internos en una sola plataforma tecnológica, a través del Sistema de Justicia en Línea del Tribunal.
+
+NOVENO. Para la promoción, substanciación y resolución del juicio contencioso administrativo federal a través del Sistema de Justicia en Línea, prevalecerán las disposiciones contenidas en el Capítulo X de la ley respecto de otras que se contrapongan a lo establecido en dicho Capítulo.
+
+DÉCIMO. Los recursos necesarios para la implementación y cumplimiento de lo dispuesto en el presente Decreto provendrán de recursos fiscales autorizados en el presupuesto del Ramo 32: Tribunal Federal de Justicia Fiscal y Administrativa para el presente ejercicio y los subsecuentes.
+
+D.O.F. 12 DE JUNIO DE 2009.
+
+DECRETO POR EL QUE SE ADICIONAN LOS ARTICULOS 50-A Y 52 DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los casos de reclamación presentados ante el Tribunal Federal de Justicia Fiscal y Administrativa que se encuentren en trámite en los términos de la ley que se modifica, deberán resolverse de manera definitiva por el mismo.
