@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transito-para-el-municipio-de-mexicali-baja-22978
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2008-12-19"
+last_updated: "2009-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2009.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -143,9 +143,17 @@ XXVII.- Vías de pistas separadas.- Aquellas que tienen la superficie de rodamie
 
 XXVIII.- Vía Pública.- Es todo espacio de uso común destinado al tránsito de peatones y de vehículos, entre los que se encuentran las banquetas, intersecciones, camellones, plazas, glorietas, paseos, puentes, calles, avenidas, calzadas, vías de transporte colectivo, bulevares, periféricos, caminos vecinales y carreteras;
 
-XXIX.- Zona de paso o cruce de peatones.- Área demarcada sobre la superficie de rodamiento de una vía pública, destinada para el uso exclusivo de peatones; y,
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2009)</small>
 
-XXX.- Zona de seguridad.- Área demarcada sobre la superficie de rodamiento de una vía pública, destinada para el uso exclusivo de peatones.
+XXIX.- Zona de paso o cruce de peatones.- Área demarcada sobre la superficie de rodamiento de una vía pública, destinada para el uso exclusivo de peatones;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2009)</small>
+
+XXX.- Zona de seguridad.- Área demarcada sobre la superficie de rodamiento de una vía pública, destinada para el uso exclusivo de peatones; y,
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2009)</small>
+
+XXXI.- Alcoholímetro.- Dispositivo para medir la cantidad de alcohol presente en el aire espirado por una persona.
 
 ###### ARTÍCULO 5.
 
@@ -203,11 +211,17 @@ III.- Las demás que se determinan en el presente Reglamento y en los demás ord
 
 Como auxiliar de las autoridades de tránsito, corresponde al Departamento de Servicios Médicos Municipales, a través de sus médicos adscritos, efectuar reconocimientos médicos y exámenes de laboratorio a los conductores que cometan alguna infracción al presente Reglamento, en los supuestos que se determinan en el mismo, y emitir los certificados de escencia (sic) psicofisiológicos respectivos.
 
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2009)</small>
+
+En los reconocimientos médicos a que se refiere el párrafo anterior los médicos podrán apoyarse en instrumentos de medición, alcoholímetros, pruebas rápidas para detección de drogas en saliva, o cualquier otra tecnología disponible.
+
 ###### ARTÍCULO 11.
 
 Los certificados de escencia (sic) psicofisiológicos, deberán reunir los siguientes requisitos:
 
-I.- Ser practicados en forma colegiada por dos profesionales de la medicina;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2009)</small>
+
+I.- Ser practicados por un profesional de la medicina;
 
 II.- Describir y razonar las técnicas o métodos aplicados para obtener las conclusiones a que llegue;
 
@@ -1763,7 +1777,19 @@ Los agentes o inspectores deberán impedir la circulación de un vehículo y pon
 
 I.- Cuando el conductor muestre síntomas claros y ostensibles de estado de ebriedad, o de estar bajo el influjo de estupefacientes, psicotrópicos u otras sustancias tóxicas.
 
-Para efectos de este Reglamento se considera que una persona se encuentra en estado de ebriedad, o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias tóxicas, cuando esto se determine en el certificado de escencia (sic) psicofisiológico que se le practique;
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2009)</small>
+
+En estos casos, cuando el agente o inspector cuente con alcoholímetro, deberá exigir al conductor que se someta a la prueba correspondiente. Una vez efectuada, procederá como sigue:
+
+a.- Entregará un ejemplar del comprobante del resultado de la prueba al conductor, inmediato a su realización;
+
+b.- En el caso de que el resultado del examen indique que el conductor tiene una cantidad de alcohol en el aire exhalado superior a 0.4 miligramos por litro, lo pondrá a disposición del juez calificador. En caso de que resulte con una cantidad de alcohol inferior, sólo lo sancionará por otras infracciones que hubiere cometido; y,
+
+c.- Si efectúa el turno del conductor al juez calificador, entregará a este último un ejemplar del comprobante del resultado de la prueba, mismo que servirá de referencia para el certificado de esencia psicofísiológico que se le practicará.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2009)</small>
+
+Para efectos de este Reglamento se considera que una persona se encuentra en estado de ebriedad o bajo el influjo de estupefacientes psicotrópicos u otras sustancias tóxicas, cuando esto se determine en el certificado de esencia psicofísiológico que se le practique;
 
 II.- Cuando el conductor al circular, vaya ingiriendo bebidas alcohólicas;
 
@@ -1982,3 +2008,7 @@ SEGUNDO.- La Dirección de Seguridad Pública y la Dirección de Comunicación S
 P.O. 19 DE DICIEMBRE DE 2008.
 
 Artículo Único.- El presente Acuerdo entrará en vigor a los sesenta días de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 12 DE JUNIO DE 2009.
+
+ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
