@@ -4,7 +4,7 @@ identifier: "LFRPE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2004-12-31"
-last_updated: "2009-04-30"
+last_updated: "2009-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41938&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFRPE"
 
 LEY FEDERAL DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 31 de diciembre de 2004.
 
@@ -170,17 +170,21 @@ Las indemnizaciones por lesiones patrimoniales serán pagadas tomando en cuenta 
 
 Los procedimientos de responsabilidad patrimonial de los entes públicos federales se iniciarán por reclamación de la parte interesada.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 18.
 
-La parte interesada podrá presentar su reclamación ante el Tribunal Federal de Justicia Fiscal y Administrativa, conforme a lo establecido en la Ley Federal de Procedimiento Administrativo.
+La parte interesada deberá presentar su reclamación ante la dependencia o entidad presuntamente responsable u organismo constitucional autónomo, conforme a lo establecido en la Ley Federal de Procedimiento Administrativo.
 
 Los particulares en su demanda, deberán señalar, en su caso, el o los servidores públicos involucrados en la actividad administrativa que se considere irregular.
 
 Si iniciado el procedimiento de responsabilidad patrimonial del Estado, se encontrare pendiente alguno de los procedimientos por los que el particular haya impugnado el acto de autoridad que se reputa como dañoso, el procedimiento de responsabilidad patrimonial del Estado se suspenderá hasta en tanto en los otros procedimientos, la autoridad competente no haya dictado una resolución que cause estado.
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 19.
 
-El procedimiento de responsabilidad patrimonial deberá ajustarse, además de lo dispuesto por esta Ley, a lo dispuesto por el Código Fiscal de la Federación, en la vía jurisdiccional.
+El procedimiento de responsabilidad patrimonial deberá ajustarse, además de lo dispuesto por esta Ley, a lo dispuesto por la Ley Federal de Procedimiento Contencioso Administrativo, en la vía jurisdiccional.
 
 ###### ARTÍCULO 20.
 
@@ -198,19 +202,25 @@ b) En su defecto, la causalidad única o concurrencia de hechos y condiciones ca
 
 La responsabilidad del Estado deberá probarla el reclamante que considere lesionado su patrimonio, por no tener la obligación jurídica de soportarlo. Por su parte, al Estado corresponderá probar, en su caso, la participación de terceros o del propio reclamante en la producción de los daños y perjuicios irrogados al mismo; que los daños no son consecuencia de la actividad administrativa irregular del Estado; que los daños derivan de hechos o circunstancias imprevisibles o inevitables según los conocimientos de la ciencia o de la técnica existentes en el momento de su acaecimiento, o bien, la existencia de la fuerza mayor que lo exonera de responsabilidad patrimonial.
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 23.
 
-Las resoluciones que dicte el Tribunal Federal de Justicia Fiscal y Administrativa con motivo de las reclamaciones que prevé la presente Ley, deberán contener como elementos mínimos los siguientes: El relativo a la existencia de la relación de causalidad entre la actividad administrativa y la lesión producida y la valoración del daño o perjuicio causado, así como el monto en dinero o en especie de la indemnización, explicitando los criterios utilizados para su cuantificación. Igualmente en los casos de concurrencia previstos en el Capítulo IV de esta Ley, en dicha resolución se deberán razonar los criterios de imputación y la graduación correspondiente para su aplicación a cada caso en particular.
+Las resoluciones que dicte el ente público federal con motivo de las reclamaciones que prevé la presente Ley, deberán contener como elementos mínimos los siguientes: El relativo a la existencia de la relación de causalidad entre la actividad administrativa y la lesión producida y la valoración del daño o perjuicio causado, así como el monto en dinero o en especie de la indemnización, explicitando los criterios utilizados para su cuantificación. Igualmente en los casos de concurrencia previstos en el Capítulo IV de esta Ley, en dicha resolución se deberán razonar los criterios de imputación y la graduación correspondiente para su aplicación a cada caso en particular.
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 24.
 
-Las resoluciones del Tribunal Federal de Justicia Fiscal y Administrativa que nieguen la indemnización o que, por su monto, no satisfagan al reclamante podrán impugnarse directamente por vía jurisdiccional ante el Tribunal Federal de Justicia Fiscal y Administrativa.
+Las resoluciones de la autoridad administrativa que nieguen la indemnización, o que, por su monto, no satisfagan al interesado podrán impugnarse mediante recurso de revisión en vía administrativa o bien, directamente por vía jurisdiccional ante el Tribunal Federal de Justicia Fiscal y Administrativa.
 
 ###### ARTÍCULO 25.
 
 El derecho a reclamar indemnización prescribe en un año, mismo que se computará a partir del día siguiente a aquel en que se hubiera producido la lesión patrimonial, o a partir del momento en que hubiesen cesado sus efectos lesivos, si fuesen de carácter continuo. Cuando existan daños de carácter físico o psíquico a las personas, el plazo de prescripción será de dos años.
 
-Los plazos de prescripción previstos en este artículo, se interrumpirán al iniciarse el procedimiento de carácter jurisdiccional, a través de los cuales se impugne la legalidad de los actos administrativos que probablemente produjeron los daños o perjuicios.
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+Los plazos de prescripción previstos en este artículo, se interrumpirán al iniciarse el procedimiento de reclamación, a través de los cuales se impugne la legalidad de los actos administrativos que probablemente produjeron los daños o perjuicios.
 
 ###### ARTÍCULO 26.
 
@@ -289,3 +299,9 @@ D.O.F. 30 DE ABRIL DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al contenido del presente Decreto.
+
+D.O.F. 12 DE JUNIO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los casos de reclamación presentados ante el Tribunal Federal de Justicia Fiscal y Administrativa que se encuentren en trámite en los términos de la ley que se modifica, deberán resolverse de manera definitiva por el mismo.
