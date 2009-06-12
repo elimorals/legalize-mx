@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-armada-de-mexico-26847"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-30"
-last_updated: "2002-12-30"
+last_updated: "2009-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26847&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAM"
 
 LEY ORGANICA DE LA ARMADA DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMADA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2009.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 30 de diciembre de 2002.
 
@@ -838,9 +838,13 @@ II. Ordinaria;
 
 III. Extraordinaria;
 
-IV. Por enfermedad, y
+IV. Por enfermedad, y (sic)
 
-V. Ilimitada.
+> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+V. Por edad límite, e
+
+VI. Ilimitada.
 
 Las licencias a que hace referencia este artículo estarán sujetas a lo que establezca el reglamento correspondiente.
 
@@ -873,6 +877,34 @@ La licencia por enfermedad se concederá de acuerdo al dictamen de la autoridad 
 Se dará por terminada cuando el interesado sea dado de alta o hasta que se expida el certificado de inutilidad permanente.
 
 A quien se le conceda, únicamente percibirá haberes y sobrehaberes.
+
+> <small>(ADICIONADO, D.O.F.12 DE JUNIO DE 2009)</small>
+
+###### Artículo 81 Bis.
+
+la licencia por edad límite es la que se concede a los miembros de la Armada de México con veinticinco, treinta o más años de servicios efectivos que estén próximos a ser colocados en situación de retiro por edad límite, dispuesto en el artículo 25 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, conforme a la tabla siguiente:
+
+Años de Servicio
+
+Almirantes, Clases y Tiempo de
+
+Capitanes y Marinería la Licencia
+
+Oficiales
+
+30 años 25 años 6 meses
+
+32 años 26 años 7 meses
+
+34 años 27 años 8 meses
+
+36 años 28 años 9 meses
+
+38 años 29 años 10 meses
+
+40 años 30 años 11 meses
+
+42 o más años 31 o más años 12 meses
 
 ###### Artículo 82.
 
@@ -1019,3 +1051,11 @@ SEXTO.- El personal de la milicia auxiliar que posea un grado superior al máxim
 México, D.F., a 3 de diciembre de 2002.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Yolanda E. González H., Secretario.- Dip. Adela Cerezo Bautista, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 12 DE JUNIO DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a este Decreto.
