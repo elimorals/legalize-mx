@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-57-2006-del-pleno-del-consejo-de-la-51538"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-09-04"
-last_updated: "2009-05-28"
+last_updated: "2009-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51538&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-23"
 
 ACUERDO GENERAL 57/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2009.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de septiembre de 2006.
 
@@ -321,7 +321,9 @@ XXIV.- VIGESIMO CUARTO CIRCUITO:
 
 2.- Un tribunal unitario con sede en Tepic.
 
-3.- Tres juzgados de Distrito en el Estado de Nayarit, con residencia en Tepic.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 19/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+3.- Cinco juzgados de Distrito en el Estado de Nayarit: tres especializados en Materia de Amparo y Juicios Federales y dos especializados en materia de Procesos Penales Federales, todos con residencia en Tepic.
 
 XXV.- VIGESIMO QUINTO CIRCUITO:
 
@@ -643,7 +645,25 @@ XXIX.- VIGESIMO NOVENO CIRCUITO:
 
 Los juzgados de Distrito en el Estado de Hidalgo, con residencia en Pachuca, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
-QUINTO.- El Pleno y la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, en el ámbito de sus respectivas competencias, interpretarán y resolverán cualquier cuestión administrativa que pudiera suscitarse con motivo de la aplicación del presente acuerdo.
+> <small>(REFORMADO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 20/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+QUINTO.- Se contará con:
+
+1. El Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal, el cual se integrará por cinco juzgados de Distrito Auxiliares y dos tribunales colegiados Auxiliares.
+
+2. El Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla, el cual se integrará por nueve juzgados de Distrito Auxiliares y cuatro tribunales colegiados Auxiliares.
+
+3. El Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato, el cual se integrará por tres juzgados de Distrito Auxiliares, cinco tribunales unitarios Auxiliares y dos tribunales colegiados Auxiliares.
+
+4. El Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, el cual se integrará por cinco juzgados de Distrito Auxiliares y dos tribunales colegiados Auxiliares.
+
+5. El Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, el cual se integrará por siete juzgados de Distrito Auxiliares, dos tribunales unitarios Auxiliares y dos tribunales colegiados Auxiliares.
+
+6. El Centro Auxiliar de la Sexta Región, con residencia en Chihuahua, Chihuahua, el cual se integrará por un juzgado de Distrito Auxiliar, un tribunal unitario Auxiliar y un tribunal colegiado Auxiliar.
+
+7. El Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, el cual se integrará por tres juzgados de Distrito Auxiliares, un tribunal unitario Auxiliar y un tribunal colegiado Auxiliar.
+
+Dichos órganos jurisdiccionales tendrán jurisdicción en toda la República Mexicana y su competencia será mixta.
 
 SEXTO.- Los asuntos que como consecuencia de la entrada en vigor de este acuerdo queden comprendidos por su procedencia dentro de la jurisdicción territorial de un tribunal de Circuito o juzgado de Distrito diferente del que se encuentre conociendo de los mismos, continuarán en estos últimos hasta su conclusión.
 
@@ -750,3 +770,25 @@ PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, la reforma realizada al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+
+D.O.F. 12 DE JUNIO DE 2009.
+
+ACUERDO GENERAL 19/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, APARTADO XXIV, NUMERO 3.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales del Consejo de la Judicatura Federal, proveerá lo conducente para que el traslado de expedientes ordenado en el punto cuarto del presente acuerdo se verifique con la seguridad requerida para ello, para lo cual podrá coordinarse con las autoridades federales y locales en materia de seguridad pública, informando lo anterior a la Comisión de Creación de Nuevos Organos.
+
+CUARTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+
+D.O.F. 12 DE JUNIO DE 2009.
+
+ACUERDO GENERAL 20/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO QUINTO.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Los Juzgados Primero y Segundo de Distrito Auxiliares, con residencia en el Distrito Federal, creados por los Acuerdos Generales 18/2007 y 34/2007 del Pleno del Consejo de la Judicatura Federal, respectivamente, ahora denominados Juzgados Primero y Segundo de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal, seguirán funcionando conforme a las reglas establecidas en los acuerdos mencionados y demás disposiciones emitidas al respecto, y una vez que terminen de tramitar y resolver los asuntos de los que actualmente conocen, darán aviso a la Comisión de Creación de Nuevos Organos.
+
+TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
