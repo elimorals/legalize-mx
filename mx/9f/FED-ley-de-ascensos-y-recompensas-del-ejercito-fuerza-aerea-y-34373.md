@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-34373
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-30"
-last_updated: "2003-10-30"
+last_updated: "2009-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34373&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-10-29"
 
 LEY DE ASCENSOS Y RECOMPENSAS DEL EJERCITO Y FUERZA AEREA MEXICANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de octubre de 2003.
 
@@ -465,7 +465,9 @@ Además de los requisitos señalados en el artículo 8 de la presente Ley.
 
 No serán conferidos ascensos a los militares que se encuentren en alguna de las situaciones siguientes:
 
-I. Con licencia ilimitada o especial;
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
+
+I. Con licencia ilimitada, especial o por edad límite;
 
 II. Retirados del Activo;
 
@@ -643,9 +645,11 @@ III. De Segunda Clase, y
 
 IV. De Tercera Clase.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 60.
 
-La Condecoración de Perseverancia premiará los servicios ininterrumpidos en el activo, de los miembros del Ejército y Fuerza Aérea.
+La condecoración de perseverancia premiará los servicios ininterrumpidos en el activo, a los miembros del Ejército y Fuerza Aérea; para los efectos de este artículo, no se considera como interrupción de servicios, encontrarse el militar gozando de la licencia por edad límite.
 
 Esta condecoración será de nueve clases: "Por la Patria"; "Institucional"; "Extraordinaria"; "Especial"; "Primera"; "Segunda"; "Tercera"; "Cuarta", y "Quinta". Se concederá, por su orden, a los militares que cumplan 50, 45, 40, 35, 30, 25, 20, 15 y 10 años de servicios.
 
@@ -768,3 +772,11 @@ Las Condecoraciones otorgadas conforme a las leyes, decretos y disposiciones ant
 México, D.F., a 25 de septiembre de 2003.- Dip. Juan de Dios Castro Lozano, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de octubre de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 12 DE JUNIO DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a este Decreto.
