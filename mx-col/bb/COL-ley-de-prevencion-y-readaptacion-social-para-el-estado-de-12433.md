@@ -4,7 +4,7 @@ identifier: "COL-ley-de-prevencion-y-readaptacion-social-para-el-estado-de-12433
 country: "mx"
 rank: "ley"
 publication_date: "1997-08-02"
-last_updated: "2008-05-03"
+last_updated: "2009-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PREVENCION Y READAPTACION SOCIAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -74,6 +74,12 @@ El Ejecutivo del Estado podrá celebrar los convenios necesarios para que los se
 Las facultades a que se refieren los artículos anteriores podrán ser ejercidas por conducto de la Dirección General de Prevención y Readaptación Social, dependiente de la Secretaría General de Gobierno.
 
 Para los efectos de este ordenamiento, el término DIRECCION, se entenderá referido a la DIRECCION General de Prevención y Readaptación Social.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2009)</small>
+
+###### ARTICULO 4o.
+
+BIS.- El registro de los antecedentes penales que lleve a cabo la Dirección, será para el control interno, y en su caso, solamente cuando se solicite, para su uso externo. Para tales efectos no se considerará la existencia de antecedentes penales cuando se trate de delitos culposos así considerados en la Ley.
 
 ###### ARTICULO 5o.
 
@@ -778,3 +784,7 @@ P.O. 8 DE FEBRERO DE 2007.
 P.O. 3 DE MAYO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor a (sic) día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 13 DE JUNIO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
