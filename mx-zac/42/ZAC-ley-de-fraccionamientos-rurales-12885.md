@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-fraccionamientos-rurales-12885"
 country: "mx"
 rank: "ley"
 publication_date: "1995-01-04"
-last_updated: "2008-09-13"
+last_updated: "2009-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY DE FRACCIONAMIENTOS RURALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE FRACCIONAMIENTOS RURALES PARA EL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 13 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 4 de enero de 1995.
 
@@ -894,3 +896,17 @@ P.O. 13 DE SEPTIEMBRE DE 2008.
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 13 DE JUNIO DE 2009.
+
+Artículo primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.-Se abroga la .Ley de Fraccionamientos Rurales, publicada en el Periódico Oficial, Órgano del Gobierno del Estado, de fecha 4 de enero de 1995.
+
+Artículo tercero.- Se abroga el Reglamento del artículo 7 transitorio de la Ley de Fraccionamientos Rurales, publicado en Suplemento 2 al número 79 del Periódico Oficial del día 1 de octubre del año 2003.
+
+Artículo cuarto.- Los procedimientos que se hayan instaurado con anterioridad a la entrada en vigor de la presente Ley, deberán continuar su trámite atendiendo a. la Ley que se abroga, siempre que sea en beneficio del solicitante.
+
+Artículo quinto.- En un término que no exceda de 90 días a la entrada en vigor del presente instrumento, deberá expedirse su Reglamento.
+
+Artículo sexto.- Se derogan todas aquellas disposiciones que contravengan esta Ley.
