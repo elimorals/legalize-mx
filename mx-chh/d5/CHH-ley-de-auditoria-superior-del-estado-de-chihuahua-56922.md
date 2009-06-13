@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-auditoria-superior-del-estado-de-chihuahua-56922"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-12"
-last_updated: "2007-09-12"
+last_updated: "2009-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE AUDITORIA SUPERIOR DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 12 de septiembre de 2007.
 
@@ -121,9 +121,11 @@ IV. Los organismos públicos descentralizados, empresas de participación y fide
 
 V. En general, cualquier persona física o moral, pública o privada, que reciba, maneje, recaude o administre recursos públicos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 5.
 
-La Auditoría Superior, en el ejercicio de sus atribuciones, se regirá por los principios de legalidad, igualdad, imparcialidad, independencia, eficiencia, eficacia, veracidad, buena fe, honradez, transparencia y reserva.
+La Auditoría Superior, en el ejercicio de sus atribuciones, se regirá por los principios de posterioridad, anualidad, legalidad, igualdad, imparcialidad, independencia, eficiencia, eficacia, veracidad, buena fe, honradez, transparencia, confiabilidad y reserva.
 
 Los contratos que celebre la Auditoría Superior con prestadores de servicios para que auxilien a la misma, en la auditoría de los Entes Fiscalizables, deberán regirse por los principios anteriores y por el principio de secrecía profesional.
 
@@ -187,11 +189,13 @@ XXII. Las demás que expresamente le señalen la Constitución Política del Est
 
 ### CAPÍTULO II. DE LA ESTRUCTURA
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 8.
 
-Al frente de la Auditoría Superior habrá un Auditor Superior, quien será nombrado por el Congreso, a propuesta de la Junta de Coordinación Parlamentaria, mediante el voto de las dos terceras partes del total de los diputados integrantes de la Legislatura.
+Al frente de la Auditoría Superior habrá un Auditor Superior, quien será nombrado por el Congreso, a propuesta de la Junta de Coordinación Parlamentaria, mediante el voto de las dos terceras partes del total de los diputados presentes de la Legislatura.
 
-El Auditor Superior durará en su cargo seis años contados a partir de que asuma su función y sólo será separado de su cargo por las causas graves previstas en esta Ley, mediando la misma votación requerida para su nombramiento.
+El Auditor Superior durará en su cargo siete años contados a partir de que asuma su función y sólo será separado de su cargo por las causas graves previstas en esta Ley, mediando la misma votación requerida para su nombramiento.
 
 ###### ARTÍCULO 9.
 
@@ -207,7 +211,9 @@ IV. Haber residido en el Estado durante los cinco años anteriores al día de su
 
 V. Contar al día de su designación con Título y Cédula Profesional en alguna de las siguientes profesiones: Contaduría Pública, Economía, Derecho o Administración, con antigüedad mínima de cinco años;
 
-VI. Acreditar como mínimo tres años de experiencia en Administración Pública;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2009)</small>
+
+VI. Acreditar como mínimo cinco años de experiencia en Administración Pública, en materia de control, auditoría financiera y de responsabilidades;
 
 VII. No haber sido titular de alguna de las dependencias en el Gobierno del Estado, Ayuntamientos o que por disposición constitucional estén dotados de autonomía, organismos públicos descentralizados, empresas de participación y fideicomisos de la administración pública estatal y/o municipal, en los últimos dos años;
 
@@ -692,3 +698,15 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los diez días del mes de septiembre del año dos mil siete.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JOSE REYES BAEZA TERRAZAS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO INTERINO. LIC. HECTOR H. HERNANDEZ VARELA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE JUNIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones relativas a los nuevos requisitos para su designación, así como la periodicidad en el ejercicio del cargo del Auditor Superior del Estado, serán aplicables a partir de la próxima elección de dicho servidor público.
