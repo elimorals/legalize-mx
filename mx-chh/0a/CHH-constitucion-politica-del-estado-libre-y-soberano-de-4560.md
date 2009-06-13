@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2009-02-11"
+last_updated: "2009-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 2009.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -983,7 +983,7 @@ A.- Elegir Gobernador interino, provisional o sustituto en los casos que estable
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
-B. Nombrar los magistrados que deban integrar el Supremo Tribunal de Justicia y el Tribunal de lo Contencioso Administrativo; reelegirlos, en su caso, previa evaluación practicada antes del cumplimiento del plazo establecido para el ejercicio de sus cargos; así como designar al Procurador General de Justicia, de la terna que para tal efecto envíe el Gobernador.
+B.- Nombrar los magistrados que deban integrar el Supremo Tribunal de Justicia y el Tribunal de lo Contencioso Administrativo; reelegirlos, en su caso, previa evaluación practicada antes del cumplimiento del plazo establecido para el ejercicio de sus cargos; así como designar al Procurador General de Justicia, de la terna que para tal efecto envíe el Gobernador.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 10 DE SEPTIEMBRE DE 2005)</small>
 
@@ -1109,9 +1109,9 @@ XLIII.- Expedir la ley que regulará su estructura y funcionamiento internos, la
 
 Esta ley no podrá ser iniciada ni objeto de observaciones por el Ejecutivo, que la promulgará y publicará dentro de los diez días hábiles siguientes a su recepción.
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2009)</small>
 
-XLIV.- Nombrar al Auditor Superior del Estado, a propuesta de la Junta de Coordinación Parlamentaria, por el voto de las dos terceras partes del total de los diputados integrantes de la Legislatura. La designación del Auditor Superior del Estado será por un plazo de seis años contados a partir de que asuma el cargo. Sólo por causas graves previstas por la Ley podrá ser removido, mediando la misma votación requerida para su nombramiento.
+XLIV.- Nombrar al Auditor Superior del Estado, a propuesta de la Junta de Coordinación Parlamentaria, por el voto de las dos terceras partes de los diputados presentes. La designación del Auditor Superior del Estado será por un plazo de siete años contados a partir de que asuma el cargo. Sólo por causas graves previstas por la Ley podrá ser removido, mediando la misma votación requerida para su nombramiento.
 
 > <small>(F. DE E., P.O. 20 DE OCTUBRE DE 2007)</small>
 
@@ -3518,3 +3518,13 @@ III.- Los consejeros electorales, incluido el Presidente, que se nombren para lo
 ###### ARTÍCULO SEXTO.
 
 El Congreso del Estado realizará las adecuaciones a su legislación secundaria a más tardar el 30 de junio de 2009.
+
+P.O. 13 DE JUNIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones relativas a los nuevos requisitos para su designación, así como la periodicidad en el ejercicio del cargo del Auditor Superior del Estado, serán aplicables a partir de la próxima elección de dicho servidor público.
