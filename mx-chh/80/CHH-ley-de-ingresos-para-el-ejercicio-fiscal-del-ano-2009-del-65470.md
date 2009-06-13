@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ingresos-para-el-ejercicio-fiscal-del-ano-2009-del-65470
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2008-12-27"
-last_updated: "2009-04-18"
+last_updated: "2009-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65470&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE INGRESOS PARA EL EJERCICIO FISCAL DEL AÑO 2009
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 2009.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 2008.
 
@@ -316,6 +316,10 @@ Se otorga un estímulo fiscal a los contribuyentes del Impuesto sobre Actos Jur�
 ###### ARTÍCULO SEXTO.
 
 Se autoriza al Ejecutivo Estatal para que, por conducto de la Secretaría de Finanzas y Administración, ejerza la facultad de condonación o reducción total o parcial de los recargos, correspondientes a contribuciones estatales adeudadas en ejercicios anteriores, cuando se considere justo y equitativo, excepto los que se generen durante el ejercicio fiscal del año 2009.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2009)</small>
+
+Se establece para los establecimientos afectados con carácter general, y por excepción, la condonación de los recargos por mora en el pago del Impuesto Sobre Nóminas correspondiente al mes de abril del ejercicio fiscal del año 2009, teniendo como último día para la presentación de la declaración con pago y sin recargos el 22 de junio del presente año.
 
 ###### ARTÍCULO SÉPTIMO.
 
@@ -2546,3 +2550,41 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las condonaciones que con carácter general se establecen en el presente Decreto, tendrán vigencia durante el año calendario de 2009, con efectos a partir del 20 de enero de 2009.
+
+P.O. 13 DE JUNIO DE 2009.
+
+DEBIDO A SU IMPORTANCIA, A CONTINAUCION SE TRANSCRIBEN LOS PUNTOS DEL DECRETO DE REFORMA QUE SE RELACIONAN CON LA LEY.
+
+.
+
+###### ARTÍCULO SEGUNDO.
+
+Se establece un estímulo fiscal consistente en la reducción del cincuenta por ciento en el pago del Impuesto sobre Nóminas, correspondiente al mes de abril del año 2009, siendo aplicable a los establecimientos mercantiles que mantuvieron cerradas sus instalaciones del 26 de abril al 5 de mayo del presente año, en cumplimiento al Decreto del 25 de abril de 2009, emitido por el Ejecutivo Federal.
+
+###### ARTÍCULO TERCERO.
+
+Se establece un estímulo fiscal consistente en la reducción del veinticinco por ciento en el pago del Impuesto sobre Nóminas, correspondiente al mes de abril del año 2009, aplicable a establecimientos mercantiles que mantuvieron cerradas sus instalaciones del 1o. al 5 de mayo del presente año, en cumplimiento al Decreto del 25 de abril de 2009, emitido por el Ejecutivo Federal.
+
+###### ARTÍCULO CUARTO.
+
+Se establece un estímulo fiscal consistente en la reducción en un cincuenta por ciento en el pago del Impuesto sobre Nóminas, correspondiente al mes de abril del año 2009, a los establecimientos mercantiles de la industria hotelera estatal.
+
+## TRANSITORIOS
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El estímulo señalado en los artículos Segundo, Tercero y Cuarto del presente Decreto, es aplicable por conducto de la Secretaría de Finanzas y Administración, mediante solicitud que se presente cumpliendo con los requisitos siguientes:
+
+1.- Nombre o denominación social, domicilio fiscal y Registro Federal de Contribuyentes.
+
+2.- Número de empleados.
+
+3.- Escrito firmado por el contribuyente o representante legal, manifestando bajo protesta de decir verdad, los días que mantuvo cerradas sus instalaciones con motivo de la contingencia sanitaria.
+
+###### ARTÍCULO TERCERO.
+
+Los estímulos a que alude el presente Decreto, se aplicarán mediante la compensación contra el pago del Impuesto Sobre Nóminas que resulte a cargo en la declaración correspondiente al mes de junio del ejercicio fiscal del 2009.
