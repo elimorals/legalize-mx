@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-educacion-del-estado-de-zacatecas-20026"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-17"
-last_updated: "2003-12-27"
+last_updated: "2009-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE EDUCACION DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 2009.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 17 de julio de 1999.
 
@@ -181,13 +181,19 @@ XII. Promover las actitudes solidarias para preservar el equilibrio ecológico, 
 
 XIII. Fomentar las actitudes solidarias y positivas hacia el trabajo, la productividad, el ahorro y el bienestar general;
 
-XIV. Promover a través de apoyos financieros o de otros medios, todos los tipos y modalidades de educación, necesarios para el progreso de la Entidad; y
+XIV. Promover a través de apoyos financieros o de otros medios, todos los tipos y modalidades de educación, necesarios para el progreso de la Entidad; y (sic)
 
-XV. Impulsar el desarrollo de la ciencia y la tecnología.
+XV. Impulsar el desarrollo de la ciencia y la tecnología;
 
 > <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2003)</small>
 
-XVI. Fortalecer la cultura de respeto a los derechos humanos, la autoestima de niños y niñas, y la concepción de la igualdad entre hombres y mujeres.
+XVI. Fortalecer la cultura de respeto a los derechos humanos, la autoestima de niños y niñas, y la concepción de la igualdad entre hombres y mujeres;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2009)</small>
+
+XVII. Promover una cultura de hábitos alimenticios saludables.
 
 ###### Artículo 7.
 
@@ -389,7 +395,11 @@ Corresponde además a la Secretaría en coordinación con el Instituto de la Juv
 
 I. Promover el establecimiento de centros deportivos y programas de recreación y esparcimiento en las comunidades;
 
-II. Promover y apoyar programas deportivos y de recreación, para preservar la salud física y mental de la (sic) niños, jóvenes, adultos y de la tercera edad, sin distinción de sus capacidades psicomotrices o mentales;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2009)</small>
+
+II. Promover y apoyar programas deportivos, nutricionales y de recreación, para preservar la salud física y mental de los niños, jóvenes, adultos y de la tercera edad, sin distinción de sus capacidades psicomotrices o mentales;
 
 III. Coadyuvar en la construcción y mantenimiento de espacios deportivos y de recreación;
 
@@ -415,6 +425,12 @@ II. Proponer, elaborar, revisar y, en su caso, ejecutar los acuerdos o convenios
 
 III. Las demás que le señale la Ley o le asigne la autoridad educativa estatal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2009)</small>
+
+Artículo 20 bis.- Para cumplir lo dispuesto en la fracción II del artículo 18, la Secretaría, en coordinación con los Servicios de Salud del Estado, promoverán cursos, talleres y seminarios de capacitación para docentes, alumnos y padres de familia, que contribuyan a crear conciencia en el seno de nuestra sociedad sobre los males que causa la obesidad y la importancia de tener hábitos alimenticios saludables y mejorar la nutrición de los niños y los adolescentes.
+
 ### CAPITULO SEGUNDO. DEL PROCESO EDUCATIVO
 
 #### SECCION PRIMERA. Tipos, Niveles y Modalidades de la Educación
@@ -433,9 +449,11 @@ III. SUPERIOR. Es el que se imparte después del bachillerato o de sus equivalen
 
 La educación básica tendrá las adaptaciones necesarias para atender a la población rural dispersa y a los grupos migratorios; así como en su caso responder a las características lingüísticas y culturales de grupos indígenas. Queda comprendida la educación especial, la educación para menores infractores y la educación para adultos.
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-De acuerdo con las necesidades educativas específicas de la población, también puede impartirse la educación básica con programas y sus adaptaciones curriculares particulares para atender dichas necesidades. Se promoverá que los educandos adquieran los conocimientos básicos sobre ecología, medio ambiente, la vida, la sociedad y la solución pacífica de controversias.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2009)</small>
+
+De acuerdo con las necesidades educativas específicas de la población, también puede impartirse la educación básica con programas y sus adaptaciones curriculares particulares para atender dichas necesidades. Se promoverá que los educandos adquieran los conocimientos básicos sobre ecología, medio ambiente, hábitos alimenticios saludables, la vida, la sociedad y la solución pacífica de controversias.
 
 ###### Artículo 23.
 
@@ -823,7 +841,13 @@ VI. Dar a conocer antes de su aplicación, el examen u otro tipo de instrumento 
 
 VII. Expedir certificados, constancias, diplomas o títulos a quienes no cumplan los requisitos aplicables;
 
-VIII. Realizar o permitir que se realice publicidad dentro del plantel, que fomente el consumo de productos nocivos para la salud, así como realizar o permitir la comercialización de bienes o servicios notoriamente ajenos al proceso educativo, distintos de alimentos;
+VIII. Realizar o permitir que se realice publicidad dentro del plantel, que fomente el consumo de productos nocivos para la salud, así como realizar o permitir la comercialización de bienes o servicios notoriamente ajenos al proceso educativo, distintos de alimentos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2009)</small>
+
+Vender o comercializar en las escuelas públicas o privadas de nivel básico, productos con pobre valor nutricional que contengan un alto contenido en azúcares o endulzantes artificiales o sodio, así como bebidas carbonatadas, o alimentos con un alto contenido en grasas trans, que puedan originar problemas de salud en la infancia o adolescencia;
 
 IX. Efectuar actividades que pongan en riesgo la salud o la seguridad de los alumnos;
 
@@ -837,9 +861,15 @@ XIII. Realizar o permitir que se realice propaganda política partidista dentro 
 
 XIV. Solicitar a los educandos aportaciones en efectivo o en especie;
 
-XV. Incumplir los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en la misma.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Las disposiciones de este artículo no son aplicables a los trabajadores de la educación, en virtud de que las infracciones en que incurran, serán sancionadas conforme a las disposiciones específicas para ellos.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2009)</small>
+
+XV. Incumplir los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en la misma, para lo cual se estará a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 13 DE JUNIO DE 2009)</small>
 
 ###### Artículo 68.
 
@@ -996,3 +1026,11 @@ Se derogan las disposiciones que se opongan al presente decreto.
 P.O. 27 DE DICIEMBRE DE 2003.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 13 DE JUNIO DE 2009.
+
+Primero.- El presente Decreto entrará en vigor a los treinta días naturales siguientes a su publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+
+Segundo.- Dentro de los treinta días naturales subsecuentes a la entrada en vigor del presente, la Secretaría de Educación y Cultura en coordinación con los Servicios de Salud del Estado, emitirán las disposiciones normativas correspondientes relativas al tipo de productos que se puedan vender en las cooperativas escolares o cualesquiera otra denominación que se otorgue, a fin de controlar la higiene y, sobre todo el valor nutricional de los productos que ahí se ofrezcan, respetando la prohibición de que se vendan o comercialicen en las escuelas públicas o privadas de nivel básico, productos con pobre valor nutricional que contengan un alto contenido en azúcares o endulzantes artificiales o sodio, así como bebidas carbonatadas, o alimentos con un alto contenido en grasas trans, que puedan originar problemas de salud en la infancia o adolescencia.
+
+Tercero.- Se derogan todas las disposiciones que se opongan al presente decreto.
