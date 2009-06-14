@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-39705"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-04-29"
-last_updated: "2008-09-11"
+last_updated: "2009-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS PRIMERO, SEGUNDO Y OCTAVO TRANSITORIOS DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO, PUBLICADO EN EL P.O. DE 14 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO ABROGADO EN LO QUE SE OPONGA AL CONTENIDO DEL NUEVO CODIGO, HASTA EN TANTO SE PUBLIQUE EN EL P.O. DEL ESTADO LA DECLARATORIA QUE EMITA EL CONGRESO DEL ESTADO O LA COMISION PERMANENTE A SOLICITUD EXPRESA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, RESPECTO DE LA VIGENCIA DEL REFERIDO INSTRUMENTO, POR LO QUE LAS DISPOSICIONES DEL PRESENTE CODIGO SE APLICARAN PARA INVESTIGAR Y JUZGAR LOS DELITOS COMETIDOS DURANTE LA VIGENCIA DEL MISMO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 29 de abril de 2004.
 
@@ -4020,3 +4022,61 @@ P.O. 11 DE SEPTIEMBRE DE 2008.
 PRIMERO.- El presente decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 14 DE JUNIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Inicio de Vigencia.
+
+El presente decreto entrará en vigor una vez que se publique en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, la Declaratoria que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, respecto de la vigencia del Código Procesal Penal del Estado de Durango, aprobado mediante Decreto No, 232, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 de fecha 5 de diciembre de 2008.
+
+###### ARTÍCULO SEGUNDO.
+
+Derogación tácita de preceptos incompatibles.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Procedimientos anteriores.
+
+En los procedimientos iniciados por delitos que se perseguían oficiosamente y en adelante lo sean por querella, no terminarán, a no ser que el interesado otorgue el perdón.
+
+###### ARTÍCULO CUARTO.
+
+Libertad provisional.
+
+En los delitos cometidos con anterioridad a la vigencia del presente código, si los responsables tenían derecho a la libertad provisional bajo caución, seguirán gozando de dicho beneficio.
+
+###### ARTÍCULO QUINTO.
+
+Modificación o reubicación de tipos penales.
+
+La modificación o reubicación de cualquier tipo penal a que se refiere este decreto, no implicará la libertad de los responsables por los delitos cometidos con anterioridad a su vigencia, siempre que los hechos se sigan comprendiendo en los tipos modificados.
+
+###### ARTÍCULO SEXTO.
+
+Acción penal y pretensión punitiva.
+
+Cuando algún ordenamiento jurídico local haga referencia a la figura de la acción penal, se entenderá que lo hace refiriéndose a la pretensión punitiva.
+
+###### ARTÍCULO SÉPTIMO.
+
+Distribución de competencias en ejecución de sentencias.
+
+Las disposiciones relativas a la ejecución de penas y medidas de seguridad respecto de los procedimientos penales, anteriores y posteriores a la entrada en vigor del presente decreto, que en lo subsecuente corresponda aplicarlas a la autoridad judicial, serán ejercidas, en su caso, por los jueces penales de primera instancia que hayan conocido de las causas respectivas, en los distritos judiciales en los que no haya entrado en vigor el Código Procesal Penal publicado el Periódico Oficial No. 11 de fecha cinco de diciembre de dos mil ocho en el Periódico Oficial del Gobierno Constitucional del Estado, sin perjuicio de la coordinación que deban mantener con las autoridades encargadas de la ejecución de las penas y medidas de seguridad.
+
+El Pleno del Tribunal Superior de Justicia acordará, mediante disposiciones generales que establezcan un modelo de distribución de competencias, el ejercicio de las facultades más trascendentes por parte de los jueces de ejecución de penas de otros distritos. Esta facultad la ejercerá el Pleno desde la entrada en vigor del presente decreto, hasta que el nuevo sistema de justicia penal se encuentre en vigor en todo el territorio estatal.
+
+###### ARTÍCULO OCTAVO.
+
+Aplicación de este código.
+
+Las disposiciones de este código sólo se aplicarán a los hechos acaecidos con posterioridad a su entrada en vigor, por lo tanto, el Código Penal para el Estado Libre y Soberano de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango No. 35 de fecha 29 de abril de 2004 y sus reformas, se aplicará para investigar y juzgar los delitos cometidos durante la vigencia del mismo.
+
+###### ARTÍCULO NOVENO.
+
+Régimen para la delincuencia organizada.
+
+Las disposiciones en materia de delincuencia organizada, contempladas en el Capitulo II, Titulo Cuarto del Libro Segundo del presente Decreto, continuarán vigentes, hasta en tanto entren en vigor las disposiciones legales que el Congreso de la Unión expida, en ejercicio de la facultad que le confiere el artículo 73, fracción XXI de la Constitución Política de los Estados Unidos Mexicanos.
