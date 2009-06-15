@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-75-2008-del-pleno-del-consejo-de-la-64572"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-12-04"
-last_updated: "2008-12-04"
+last_updated: "2009-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64572&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2008-11-26"
 
 ACUERDO GENERAL 75/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREAN JUZGADOS FEDERALES PENALES ESPECIALIZADOS EN CATEOS, ARRAIGOS E INTERVENCION DE COMUNICACIONES
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL PRESENTE ORDENAMIENTO, SU ENTRADA EN VIGOR SERA A LAS OCHO HORAS DEL CINCO DE ENERO DE DOS MIL NUEVE.</small>
-
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JUNIO DE 2009.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de diciembre de 2008.
 
@@ -63,9 +61,11 @@ Se crean seis órganos jurisdiccionales denominados “Juzgados Federales Penale
 
 La residencia de los Juzgados a que se refiere este acuerdo general, será la Ciudad de México, Distrito Federal, en las instalaciones que determine el Consejo de la Judicatura Federal.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO NUMERO 24/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE JUNIO DE 2009)</small>
+
 ###### Artículo 3.
 
-Cada Juzgado Federal Penal Especializado contará, al menos, con cuatro secretarios y con el personal administrativo que determine el Consejo de la Judicatura Federal, atendiendo a las necesidades del servicio.
+Cada Juzgado Federal Penal Especializado contará, al menos, con cinco secretarios y con el personal administrativo que determine el Consejo de la Judicatura Federal, atendiendo a las necesidades del servicio.
 
 ###### Artículo 4.
 
@@ -91,9 +91,17 @@ De igual forma serán competentes para conocer de las solicitudes de intervenci�
 
 Para la solicitud y resolución de las medidas previstas en este acuerdo general, así como los plazos a observar y el procedimiento en general, incluida la verificación de su ejecución, se estará a lo dispuesto por el Código Federal de Procedimientos Penales, la Ley Federal contra la Delincuencia Organizada y la Ley de Seguridad Nacional.
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO PRIMERO DEL ACUERDO NUMERO 24/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE JUNIO DE 2009)</small>
+
 ###### Artículo 7.
 
-Con el objeto de que el Ministerio Público de la Federación y el Centro de Investigación y Seguridad Nacional, tengan la posibilidad de acudir en cualquier momento ante los Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones, éstos funcionarán en turnos de veinticuatro horas laborables por cuarenta y ocho horas de descanso, cada turno comenzará con una diferencia de doce horas.
+Con el objeto de que el Ministerio Público de la Federación y el Centro de Investigación y Seguridad Nacional, tengan la posibilidad de acudir en cualquier momento ante los Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones, estos órganos funcionarán de la siguiente forma:
+
+Tres de ellos laborarán turnos de veinticuatro horas por cuarenta y ocho horas de descanso, con inicio de jornada a las ocho horas. Durante las primeras doce horas, recibirán y resolverán las solicitudes; y en las otras doce, sólo resolverán las mismas.
+
+Cuatro de dichos órganos, laborarán turnos de veinticuatro horas por setenta y dos horas de descanso, con inicio de jornada a las veinte horas. Durante las primeras doce horas, recibirán y resolverán las solicitudes; y en las otras doce, sólo resolverán las mismas.
+
+Cada turno de los dos grupos de órganos, deberán iniciar con una diferencia de doce horas.
 
 Con independencia del turno a que se alude en el párrafo anterior, cada Juzgador Federal Penal Especializado designará un Secretario, el cual tendrá un horario fijo de Lunes a Viernes de 9:00 a 19:00 horas, con la finalidad de que desahogue de forma expedita todas las peticiones y requerimientos que se refieran al trámite de los asuntos ya resueltos por el Juzgado Federal Penal de que se trate.
 
@@ -172,3 +180,13 @@ CUARTO. A efecto de dar cumplimiento a lo establecido en los artículos 16, pár
 QUINTO. Se abroga el Acuerdo General 5/2005 del Pleno del Consejo de la Judicatura Federal.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 75/2008, del Pleno del Consejo de la Judicatura Federal, por el que se Crean los Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de veintiséis de noviembre de dos mil ocho, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, María Teresa Herrera Tello, Indalfer Infante Gonzales y Oscar Vázquez Marín.- México, Distrito Federal, a veintiséis de noviembre de dos mil ocho.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 15 DE JUNIO DE 2009.
+
+PRIMERO. El presente acuerdo general entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma al Acuerdo General 75/2008, del Pleno del Consejo de la Judicatura Federal, por el que se Crean Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones.
