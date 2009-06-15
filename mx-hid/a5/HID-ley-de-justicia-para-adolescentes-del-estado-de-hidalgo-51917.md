@@ -4,7 +4,7 @@ identifier: "HID-ley-de-justicia-para-adolescentes-del-estado-de-hidalgo-51917"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-25"
-last_updated: "2006-09-25"
+last_updated: "2009-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2009.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el 25 de septiembre de 2006.
 
@@ -71,7 +71,7 @@ I.- Las personas de entre 12 años cumplidos y 18 años no cumplidos de edad, de
 
 II.- Las personas de entre 18 años cumplidos y 25 no cumplidos de edad, a quienes se atribuya o compruebe la realización de una conducta tipificada como delito en las Leyes Locales, cometida cuando eran adolescentes, a quienes se les aplicará el Sistema Integral de Justicia para Adolescentes en todo aquello que proceda, entendiéndose que cuando esta Ley se refiera al adolescente, en su caso, también se referirá al adulto joven; y
 
-IV. Las víctimas u ofendidos por las conductas referidas en las fracciones anteriores.
+III. Las víctimas u ofendidos por las conductas referidas en las fracciones anteriores.
 
 Las Autoridades, instituciones y órganos previstos en esta Ley, se harán cargo de operar el Sistema Integral de Justicia para Adolescentes en el Estado de Hidalgo.
 
@@ -507,6 +507,10 @@ Si en el transcurso del proceso se comprueba que la persona a quien se imputa la
 
 Si en el transcurso del proceso, se comprueba que la persona a quien se le imputa la realización de la conducta era menor de 12 años de edad al momento de realizarla, se archivarán las actuaciones y se notificará, cuando así proceda, a las instituciones dedicadas a la protección de los derechos de la infancia.
 
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2009)</small>
+
+Si en el transcurso de un procedimiento penal se comprueba que la persona a quien se le imputa la realización de la conducta tenía al momento de los hechos una edad de entre doce años cumplidos y menos de dieciocho años de edad y en consecuencia se declina la competencia a la Autoridad Ministerial o Judicial especializada en justicia para adolescentes, en su caso, para que continúe con plenitud de jurisdicción con la tramitación del expediente, lo actuado hasta entonces conservará el valor probatorio que corresponde conforme a esta Ley.
+
 ###### Artículo 34.
 
 Si en un hecho intervienen uno o varios adolescentes con uno o varios adultos, las causas se separarán y las Autoridades especializadas para adolescentes conocerán de lo que corresponda, con plena autonomía de jurisdicción.
@@ -583,19 +587,47 @@ Los datos y elementos de convicción recogidos durante la investigación del Min
 
 No tendrá valor probatorio la admisión de los hechos por parte de la persona adolescente salvo que sea realizada ante el Juez de Adolescentes con la presencia de su abogado defensor, habiéndose entrevistado previamente con éste.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2009)</small>
+
 ###### Artículo 46.
 
-Sólo en los casos de flagrancia, siempre que no se contravengan sus derechos y garantías, puede detenerse provisionalmente al adolescente sin orden judicial, hasta por treinta y seis horas. Se entiende que hay flagrancia cuando:
+Sólo en casos urgentes o en flagrancia se podrá detener al adolescente sin orden judicial. En estos supuestos el Ministerio Público deberá poner al adolescente a disposición del juez especializado dentro del plazo de cuarenta y ocho horas, siempre que se trate de delito calificado como grave en la Ley, en caso contrario requerirá la comparecencia por cita y, de considerarlo necesario, solicitará al juez alguna de las providencias precautorias previstas en la Ley.
 
-I.- El adolescente es sorprendido en el momento de estar realizando una conducta tipificada como delito en las Leyes Locales;
+Para los efectos previstos en este Artículo, se entiende que hay flagrancia cuando:
 
-II.- Inmediatamente después de realizarlo, es perseguido materialmente, o
+I.- El adolescente es detenido en el momento de estar cometiendo el hecho;
 
-III.- Inmediatamente después de realizarlo, la persona es señalada por la víctima, algún testigo presencial de los hechos o quien hubiere intervenido con ella en la realización de la conducta que se le atribuye, y se le encuentren objetos o indicios que hagan presumir fundadamente que en efecto, acaba de realizar una conducta tipificada como delito en las Leyes Estatales.
+II.- Inmediatamente después de cometer el hecho, es detenido en virtud de que:
 
-Cuando se detenga a una persona por un hecho que requiera querella de parte ofendida, será informado inmediatamente quien pueda presentarla y si éste no lo hace en ese momento, el adolescente será puesto en libertad de inmediato.
+a).- Es sorprendido cometiendo el hecho y es perseguido material e ininterrumpidamente;
 
-Puede ampliarse el término previsto en el párrafo anterior, por otras veinticuatro horas, sólo cuando el adolescente o su defensa lo soliciten expresamente.
+b).- Es señalado inequívocamente por un testigo presencial; o
+
+c).- Se le encuentren objetos o aparezcan indicios que hagan presumir fundadamente que acaba de intervenir en un delito.
+
+Cuando se detenga a un adolescente por un hecho que requiera querella de parte ofendida, inmediatamente se le informará a ésta para que la presente y si no lo hiciere dentro del plazo máximo de detención señalado en el párrafo primero de este Artículo, el adolescente será puesto en libertad de inmediato.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2009)</small>
+
+Artículo 46 BIS.- El Ministerio Público y la víctima u ofendido, podrán, desde el inicio de la investigación, solicitar al Juez competente las providencias precautorias de bienes y de personas cuando sea necesario para evitar la destrucción, alteración u ocultamiento de pruebas, la intimidación o amenaza o influencia a los testigos del hecho, o para la protección de personas o bienes jurídicos.
+
+Son providencias precautorias de bienes y de personas las siguientes:
+
+I.- Prohibición de acercarse a alguien;
+
+II.- Limitación de frecuentar determinados lugares;
+
+III.- Prohibición de abandonar un lugar o territorio determinado;
+
+IV.- La separación inmediata del domicilio, cuando se trate de delitos sexuales y violencia familiar, y la presunta victima conviva con el adolescente;
+
+V.- Obligación de comunicar previamente cualquier cambio de domicilio o empleo; y
+
+VI.- La entrega de bienes, cosas, instrumentos, objetos o productos relacionados con el delito.
+
+El acuerdo de providencias precautorias de la investigación se tomará en audiencia, escuchando al adolescente afectado y deberá estar debidamente motivado.
+
+El incumplimiento injustificado de cualquiera de las providencias previstas en este Artículo dará lugar a la comisión del delito de desobediencia de particulares previsto en el Código Penal del Estado.
 
 ###### Artículo 47.
 
@@ -723,17 +755,61 @@ El Juez de Adolescentes puede prescindir de toda medida cautelar, cuando la prom
 
 Las medidas cautelares podrán dictarse y revocarse en cualquier momento hasta antes de dictarse sentencia.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2009)</small>
+
 ###### Artículo 60.
 
-La detención preventiva debe aplicarse sólo de manera excepcional, cuando no sea posible aplicar otra medida cautelar menos gravosa y hasta un plazo máximo de tres meses a los adolescentes mayores de catorce años de edad, al momento de cometer el hecho, siempre que:
+La detención preventiva debe aplicarse sólo de manera excepcional hasta por un plazo máximo de tres meses, a los adolescentes mayores de catorce años, siempre que se trate de un delito grave previsto en el Artículo 60 BIS y no sea posible aplicar otra medida cautelar menos gravosa porque:
 
-I.- Exista peligro de fuga, de obstaculización del procedimiento o de destrucción de los medios de convicción;
+I.- Exista riesgo de que el adolescente se sustraiga de la acción de la justicia, obstaculice el procedimiento o destruya los medios de convicción; o
 
-II.- La conducta atribuida amerite una medida de internamiento; y
+II.- Se estime que el adolescente puede cometer un delito doloso contra la propia víctima, alguno de los testigos que depongan en su contra, servidores públicos que intervengan en el proceso, o contra algún tercero.
 
-III.- Se estime que el adolescente puede cometer una conducta sancionada por la Ley Penal como delito doloso contra la propia víctima, alguno de los testigos que depongan en su contra, servidores públicos que intervengan en el proceso, o contra algún tercero.
+La detención preventiva no podrá combinarse con otras medidas cautelares, y debe ser cumplida en instalaciones separadas a. las destinadas al cumplimiento de la medida de internamiento definitivo.
 
-La detención preventiva no podrá combinarse con otras medidas cautelares y debe ser cumplida en instalaciones diferentes a las destinadas al cumplimiento de la medida de internamiento definitivo.
+Si se ha dictado sentencia condenatoria y ésta ha sido impugnada, el plazo de detención preventiva se prorrogará durante la substanciación del recurso correspondiente hasta por un mes más al plazo previsto en el primer párrafo de este Artículo, contado a partir de que el recurso haya sido radicado ante la segunda instancia.
+
+El Tribunal que conozca del recurso, excepcionalmente y de oficio, podrá autorizar una prórroga de la detención preventiva por quince días más, cuando disponga la reposición del juicio a solicitud del adolescente.
+
+En cualquiera de los casos a juicio del Juez Especializado en Justicia para Adolescentes que corresponda, se podrá otorgar la libertad mediante una garantía económica suficiente que asegure la presencia del adolescente dentro del proceso. Dicha garantía se hará efectiva a favor de la víctima y la administración de justicia si el adolescente sin causa justificada plenamente a juicio del Juez, deja de someterse al procedimiento instaurado en su contra, ordenándose la detención del adolescente.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2009)</small>
+
+Artículo 60 BIS.- Se considerarán graves para los efectos de esta Ley, los siguientes delitos dolosos descritos en el Código Penal del Estado:
+
+I.- Homicidio, previsto en los Artículos 136, 137 párrafo primero y 138; así como en los supuestos del Artículo 147;
+
+II.- Violación, previsto en el Artículo 179 y violación equiparada prevista en el Artículo 180;
+
+III.- Secuestro, previsto en el Artículo 166;
+
+IV.- Lesiones previstas en el Artículo 141 fracción IV, V y VI, cuando pongan en peligro la vida o concurra alguna de las agravantes o calificativas que prevén los numerales 142 y 147 y hayan sido cometidas por medios violentos como armas o explosivos;
+
+V.- Asalto, previsto en los Artículos 173 y 174 cuando sea cometido con: armas o explosivos;
+
+VI.- Terrorismo, previsto en el Artículo 293;
+
+VII.- Sabotaje previsto en el Artículo 294, cuando sea cometido con armas o explosivos;
+
+VIII.- Lenocinio previsto en los Artículos 271 y 272;
+
+IX.- Trata de personas previsto en los Artículos 273, 274 y 275;
+
+X.- Robo agravado previsto en los Artículos 203 en relación con el Artículo 206 fracción I, cuando sea cometido con armas o explosivos; y
+
+XI.- Tortura, previsto en el párrafo tercero del Artículo 322 BIS.
+
+La detención preventiva también podrá aplicarse por las tentativas de los delitos mencionados en las fracciones anteriores.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2009)</small>
+
+Artículo 60 TER.- Los plazos de detención preventiva previstos en los Artículos anteriores no correrán cuando:
+
+I.- El proceso esté suspendido a causa de un mandato derivado de un juicio de amparo;
+
+II.- El juicio oral se encuentre suspendido o se aplace su iniciación a petición del adolescente o su defensor, siempre que la suspensión o el aplazamiento no se haya dispuesto por necesidades relacionadas con la adquisici6n de la prueba; o
+
+III.- El proceso deba prolongarse ante gestiones o incidencias evidentemente dilatorias formuladas por el adolescente o sus defensores, según resolución fundada y motivada del juzgador.
 
 ###### Artículo 61.
 
@@ -1329,13 +1405,13 @@ Los espacios destinados al internamiento en tiempo libre no tendrán seguridad e
 
 #### SECCION III. INTERNAMIENTO DEFINITIVO
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2009)</small>
+
 ###### Artículo 136.
 
-La medida de internamiento definitivo es la más grave prevista en esta Ley; consiste en la privación de la libertad y se debe cumplir exclusivamente en los centros de internamiento, de los que podrán salir los adolescentes sólo mediante orden escrita de Autoridad Judicial. Esta medida sólo se puede imponer a quienes tengan o hayan tenido, al momento de realizar la conducta, una edad de entre catorce años cumplidos y dieciocho años no cumplidos y se trate de alguna de las conductas tipificadas como delitos graves contenidos en la Legislación Penal Local, que impliquen invariablemente violencia directa hacia la victima.
+La medida de internamiento definitivo es la más grave prevista en esta ley; consiste en la privación de la libertad y se debe cumplir exclusivamente en los centros de internamiento, de los que podrán salir los adolescentes sólo mediante orden escrita de autoridad judicial. Esta medida sólo se puede imponer a quienes tengan o hayan tenido, al momento de realizar la conducta, una edad de entre los catorce años cumplidos y dieciocho años no cumplidos y se trate de alguna de las conductas señaladas en el Artículo 60 BIS.
 
-La duración de esta medida deberá tener relación directa con los daños causados, sin poder exceder de cinco años cuando el adolescente tenga una edad de entre catorce años cumplidos y dieciséis no cumplidos al momento de realizar la conducta y de siete años como máximo cuando tenga una edad de dieciséis años cumplidos a dieciocho no cumplidos.
-
-La tentativa punible de las conductas mencionadas en las fracciones anteriores no será considerada como conducta grave.
+La tentativa punible de las conductas mencionadas en el Artículo 60 BIS será considerada también como conducta grave.
 
 ###### Artículo 137.
 
@@ -1585,7 +1661,7 @@ X.- La prohibición de internamiento de adultos jóvenes en los Centros de Inter
 
 ###### Artículo 165.
 
-El Juez de Adolescentes podrá ordenar, en cualquier momento a las Autoridades Administrativas responsables, que se adopten las medidas necesarias para proteger la integridad física de las personas internadas y de sus visitantes, así como para mantener Ias condiciones de vida digna en el interior de los Centros de Internamiento
+El Juez de Adolescentes podrá ordenar, en cualquier momento a las Autoridades Administrativas responsables, que se adopten las medidas necesarias para proteger la integridad física de las personas internadas y de sus visitantes, así como para mantener las condiciones de vida digna en el interior de los Centros de Internamiento
 
 ###### Artículo 166.
 
@@ -1908,3 +1984,11 @@ DIP. LAURA SÁNCHEZ YONG
 SECRETARIO
 
 DIP. DELFINO QUITERIA ROSAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE JUNIO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
