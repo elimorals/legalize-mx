@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-jesus-maria-aguascalientes-22849"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-24"
-last_updated: "2009-03-16"
+last_updated: "2009-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE JESUS MARIA, AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2009.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de diciembre de 2001.
 
@@ -2044,51 +2044,25 @@ Cualquier carne que se destine al consumo público dentro de los límites del mu
 
 Los servicios prestados por el rastro, causarán y pagarán los derechos correspondientes y previstos en la Ley de Ingresos.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 200.
 
-A fin de facilitar el funcionamiento y cumplimiento del presente capítulo se entenderá por:
+A fin de facilitar la operación, administración, mantenimiento, servicio de sacrificio de ganado y verificación sanitaria adyacente a cargo del Rastro Municipal, se atenderán las indicaciones que se señalen en el Reglamento correspondiente, y que emita el H. Cabildo para tales efectos.
 
-a) Trabajador: El personal de la administración municipal asignado al Rastro Municipal, y que comprende administración, vigilancia, mantenimiento, conservación y verificación sanitaria.
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE JUNIO DE 2009)</small>
 
-b) Rastro: Las instalaciones destinadas a prestar los servicios, a que refiere (sic) Articulo 198 del presente ordenamiento.
+###### ARTICULO 201.
 
-c) Ayuntamiento: El Ayuntamiento de Jesús María, representado por su Presidente Municipal.
-
-d) Administración: La estructura administrativa encargada de la planeación, dirección y control de actividades del servicio público, a saber, del administrador del rastro y demás personal designado por la Dirección de Servicios Públicos Municipales, quienes serán responsables del funcionamiento y prestación de los servicios que señala el Artículo 198 del presente ordenamiento.
-
-e) Autoridad Sanitaria Municipal: al médico veterinario zootecnista designado por la Dirección de Salud Municipal que vigilará las condiciones sanitarias, aseo, sacrificio y expendio de los productos cárnicos para el consumo humano.
-
-f) Introductores: Las personas físicas o morales que lleven al rastro ganado para su sacrificio.
-
-g) Matanceros: Las personas que prestan sus servicios a los introductores, para el sacrificio de ganado.
-
-h) Canal: El cuerpo del animal que no cuente con piel, plumas, cerdas, cabeza, vísceras y patas.
-
-i) Planta de Rendimiento: Área provista del equipo apropiado para la industrialización de animales muertos en los corrales o de las canales, partes o vísceras no aptos para el consumo humano, huesos, plumas, sangre, cerdas y demás productos no comestibles.
+Cualquier carne que se destine al consumo público dentro de los límites del Municipio de Jesús María, estará sujeta a inspección por parte de la autoridad municipal, sin perjuicio de que concurran con el mismo fin los inspectores y/o verificadores de los Servicios Coordinados de Salud Pública en el Estado.
 
 APARTADO PRIMERO
 
 DE LA ADMINISTRACION DEL RASTRO
 
-###### ARTICULO 201.
-
-El Ayuntamiento tiene a su argo la operación, administración, mantenimiento el rastro, el servicio de sacrificio de ganado, la verificación sanitaria, con las facultades y atribuciones que le confiere la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, su Ley Orgánica Municipal, el presente Código y así como los demás ordenamientos legales aplicables.
-
 ###### ARTICULO 202.
 
-La administración del rastro municipal será representada por un administrador, que será designado por la Dirección de Servicios Públicos Municipales, el cual ejercerá y cumplirá con las siguientes facultades:
-
-a) Vigilar el orden del rastro, sancionar y/o poner a disposición de la autoridad competente, a quienes lo alteren, de acuerdo a lo que exponga el presente Código y las leyes aplicables en la materia.
-
-b) Cumplir con la normatividad vigente a fin de proveer al rastro de los recursos materiales y financieros para su operación.
-
-c) Intervenir en las funciones de sacrificio y vigilancia en todo lo relacionado con el ganado, carnes y productos del mismo, que se introduzcan y salgan de las instalaciones del Rastro Municipal.
-
-d) Vigilar que los servicios que proporciona el Rastro Municipal, se otorguen por igual a los usuarios que así lo demanden, debiéndolo hacer en las mejores condiciones sanitarias.
-
-e) Impedir la comercialización de los productos cárnicos que no hayan sido previamente inspeccionados en cuanto a sus condiciones sanitarias o no hayan cubierto los derechos correspondientes relativo al uso de las instalaciones.
-
-f) Rendir un informe general semanal y mensual al regidor encargado de la comisión, al Secretario del Ayuntamiento y a la Dirección de Servicios Públicos Municipales, de las actividades realizadas en el Rastro Municipal.
+(DEROGADO, P.O. 15 DE JUNIO DE 2009)
 
 APARTADO SEGUNDO
 
@@ -2096,29 +2070,15 @@ DE LA VERIFICACION SANITARIA
 
 ###### ARTICULO 203.
 
-La autoridad sanitaria municipal del rastro ejercerá las siguientes funciones:
-
-a) Supervisar la higiene y aseo del Rastro Municipal.
-
-b) Verificar la calidad sanitaria de los productos cárnicos que sean aptos para el consumo humano, aplicando para su efecto el sello de certificación sanitaria que así lo indique, de acuerdo a la especie y normas oficiales aplicables.
-
-c) Asegurar el producto cárnico que no deba ser utilizado para el consumo humano, debiendo ser desnaturalizado con ácido fénico crudo, y/o diesel, para la planta de rendimiento o disposición final apropiada.
-
-d) Decomisar todo tipo de víscera de ganado muerto y con la misma se procederá a su desnaturalización y envío a la planta de rendimiento.
-
-e) Vigilar que el proceso de sacrificio de los animales domésticos y/o silvestres se lleve a cabo cumpliendo con las normas sanitarias vigentes.
-
-f) Asegurar que el proceso de sacrificio, se inicie sólo cuando se encuentre presente la autoridad sanitaria, y las instalaciones estén en las mejores condiciones de higiene.
-
-g) Pasar un reporte diario de operaciones a la administración del rastro.
+(DEROGADO, P.O. 15 DE JUNIO DE 2009)
 
 ###### ARTICULO 204.
 
-En los lugares en que se practique el sacrificio y la verificación sanitaria de ganado, no se permitirá la entrada al público hasta en tanto así lo disponga la autoridad sanitaria del rastro.
+(DEROGADO, P.O. 15 DE JUNIO DE 2009)
 
 ###### ARTICULO 205.
 
-La autoridad sanitaria del rastro, determinará el destino que se le dará a la carne en su totalidad, o bien parcialmente cuando los animales que se encuentren en los corrales se infecten por enfermedades infectocontagiosas.
+(DEROGADO, P.O. 15 DE JUNIO DE 2009)
 
 APARTADO TERCERO
 
@@ -2126,31 +2086,31 @@ DE LOS SERVICIOS DE CORRALES Y SACRIFICIO
 
 ###### ARTICULO 206.
 
-Sólo se dará acceso a los corrales a los animales sobre los cuales el interesado haya acreditado su debida procedencia, causando los derechos de piso que al efecto se establezcan en la Ley de Ingresos.
+(DEROGADO, P.O. 15 DE JUNIO DE 2009)
 
 ###### ARTICULO 207.
 
-Para que los animales puedan ser sacrificados, deberán permanecer en los corrales de reposo un mínimo (sic) 12 horas y como máximo 24 horas para su inspección ante mortem.
+(DEROGADO, P.O. 15 DE JUNIO DE 2009)
 
 ###### ARTICULO 208.
 
-El ganado será sacrificado por riguroso turno siguiendo el orden con que fue inscrito.
+(DEROGADO, P.O. 15 DE JUNIO DE 2009)
 
 ###### ARTICULO 209.
 
-La carne de animales muertos que se lleve al Rastro para su inspección sólo podrá destinarse al consumo humano cuando a juicio del inspector sanitario reúna las condiciones necesarias, en caso contrario se determinará su destino de acuerdo a lo que en su momento proceda ya sea con el decomiso y/o industrialización respectiva.
+(DEROGADO, P.O. 15 DE JUNIO DE 2009)
 
 ###### ARTICULO 210.
 
-A las áreas del sacrificio sólo tendrá acceso, la autoridad sanitaria municipal, el personal del rastro, los matanceros, encargados del sacrificio de ganado, así como las personas que expresamente autorice la administración.
+(DEROGADO, P.O. 15 DE JUNIO DE 2009)
 
 ###### ARTICULO 211.
 
-El área operativa, por conducto del personal correspondiente cuidará que las pieles, las canales y las vísceras sean debidamente marcadas, para que sean entregadas al propietario correspondiente.
+(DEROGADO, P.O. 15 DE JUNIO DE 2009)
 
 ###### ARTICULO 212.
 
-Las canales de animales sacrificados serán verificadas y selladas por la autoridad sanitaria, sin este requisito queda prohibido el transporte para su consumo y expendio, en caso contrario sé procederá en los términos que señale el presente ordenamiento.
+(DEROGADO, P.O. 15 DE JUNIO DE 2009)
 
 APARTADO CUARTO
 
@@ -2158,73 +2118,35 @@ DE LOS INTRODUCTORES
 
 ###### ARTICULO 213.
 
-Toda persona está en libertad para introducir al rastro el ganado que desee sacrificar de acuerdo a las disposiciones de este Código.
+(DEROGADO, P.O. 15 DE JUNIO DE 2009)
 
 ###### ARTICULO 214.
 
-Cualquier queja sobre el servicio deberá ser presentada a la administración del rastro en el momento en que se suscite, se sujetará al recurso y procedimiento administrativo que establezca la ley de la materia.
+(DEROGADO, P.O. 15 DE JUNIO DE 2009)
 
 ###### ARTICULO 215.
 
-Son obligaciones de los introductores las siguientes:
-
-a) Introducir el ganado dentro del horario establecido por la administración del rastro.
-
-b) Transportar los productos obtenidos del sacrificio en vehículos debidamente acondicionados, de conformidad a las normas sanitarias correspondientes.
+(DEROGADO, P.O. 15 DE JUNIO DE 2009)
 
 ###### ARTICULO 216.
 
-El trabajador y/o matancero que desempeñe alguna actividad en el rastro, tendrá las siguientes obligaciones:
-
-a) Cumplir con las obligaciones de este Código y las que dicte la administración del rastro para el buen desempeño de las labores y el buen funcionamiento del mismo.
-
-b) Presentarse puntualmente a sus labores, en los horarios o días de sacrificio programados y autorizados por la misma administración; debiendo portar el uniforme y equipo reglamentario, así como gafete de identificación.
-
-c) Presentarse con pelo y uñas recortados.
-
-d) Conservar en buen estado el equipo, herramientas, aparatos, maquinaria, mobiliario e instalaciones que le proporcionen para el desempeño de sus labores.
-
-e) Comunicar al administrador del rastro de los defectos, descomposturas o anomalías que se detecten en el equipo, herramienta, maquinaria, aparatos y mobiliario que tengan a su cargo.
-
-f) Al terminar las labores de sacrificios y todas las inherentes al mismo, los trabajadores deberán de realizar la limpieza de su equipo y herramientas de trabajo, asimismo el personal de intendencia deberá asear las áreas utilizadas, al término de la jornada.
-
-g) Asistir a los cursos de capacitación que sean convocados por la administración.
-
-h) Realizarse periódicamente los análisis de laboratorio y gabinete que determine la autoridad sanitaria, a fin de evitar la propagación de enfermedades infectocontagiosas.
-
-i) Acatar las medidas de prevención de enfermedades, que la autoridad sanitaria determine.
+(DEROGADO, P.O. 15 DE JUNIO DE 2009)
 
 ###### ARTICULO 217.
 
-Queda prohibido a los introductores y/o matanceros los siguientes puntos y los concernientes, previstos en este Código:
-
-a) Portar armas de fuego.
-
-b) Presentarse en estado de ebriedad o bajo influencia de algún psicotrópico, salvo en casos de prescripción médica; así como introducir bebidas embriagantes y/o sustancias prohibidas a las instalaciones del rastro.
-
-c) Faltar al respeto, agredir o amenazar a cualquier persona dentro de las instalaciones del rastro.
-
-d) Suspender las labores sin la autorización de su jefe inmediato.
-
-e) Maltratar o golpear innecesariamente el ganado o carnes que tengan a su cuidado.
-
-f) Apoderarse y/o substraer parte del ganado sacrificado.
-
-g) Ingresar a la sala de matanza, sin el equipo y uniforme reglamentario.
-
-h) Efectuar operaciones de compraventa de ganado y productos cárnicos con particulares dentro del Rastro.
+(DEROGADO, P.O. 15 DE JUNIO DE 2009)
 
 ###### ARTICULO 218.
 
-Los trabajadores que no cumplan el presente Código se les sancionará por la administración dependiendo de la gravedad de la falta de conformidad a lo que establecen las leyes respectivas.
+(DEROGADO, P.O. 15 DE JUNIO DE 2009)
 
 ###### ARTICULO 219.
 
-Los introductores y matanceros deben colaborar con la administración de acuerdo a los procedimientos o sistemas que éste determine, a fin de lograr un mejor control en la operación.
+(DEROGADO, P.O. 15 DE JUNIO DE 2009)
 
 ###### ARTICULO 220.
 
-Queda estrictamente prohibida la matanza de animales en casas o domicilios particulares cuando las carnes sean destinadas al consumo público; si la carne y demás productos se destinan al consumo familiar, el Ayuntamiento concederá permiso para el sacrificio del ganado menor a domicilio, dicho permiso será concedido bajo la condición de que el animal y sus carnes sean inspeccionadas por dicha autoridad.
+(DEROGADO, P.O. 15 DE JUNIO DE 2009)
 
 ### CAPITULO TERCERO. De los Horarios
 
@@ -14411,3 +14333,9 @@ SE REFORMA EL ARTICULO 96 DEL CODIGO MUNICIPAL JESUS MARIA, AGUASCALIENTES.
 ...
 
 SEGUNDO.- Las reformas aprobadas, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 15 DE JUNIO DE 2009.
+
+...
+
+CUARTO.- Las reformas al Código Municipal y el Reglamento para el Rastro del Municipio de Jesús María, Ags., entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
