@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-del-fondo-nacional-para-el-5198
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-10-19"
-last_updated: "2006-10-19"
+last_updated: "2009-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51983&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2006-08-28"
 
 ESTATUTO ORGANICO DEL INSTITUTO DEL FONDO NACIONAL PARA EL CONSUMO DE LOS TRABAJADORES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL ESTATUTO ORGANICO DEL INSTITUTO DEL FONDO NACIONAL PARA EL CONSUMO DE LOS TRABAJADORES, PUBLICADO EN EL D.O.F. DE 15 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 19 de octubre de 2006.
 
@@ -1840,3 +1842,19 @@ Para el cumplimiento de lo anterior, el Consejo Directivo del Instituto del Fond
 El presente Estatuto Orgánico se expide con la aprobación del Consejo Directivo del Instituto del Fondo Nacional para el Consumo de los Trabajadores, en términos de lo dispuesto por el artículo quinto transitorio de la Ley que crea al Instituto del Fondo Nacional para el Consumo de los Trabajadores.
 
 México, D.F., a 28 de agosto de 2006.- El Director General del Instituto del Fondo Nacional para el Consumo de los Trabajadores, Arsenio Díaz Escalante.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 15 DE JUNIO DE 2009.
+
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Solicítese la inscripción del presente Estatuto en el Registro Público de Organismos Descentralizados, de conformidad con lo establecido en los artículos 15 penúltimo párrafo y 25 fracción I, de la Ley Federal de las Entidades Paraestatales.
+
+TERCERO.- Se abrogan los Estatutos Orgánicos del Instituto del Fondo Nacional para el Consumo de los Trabajadores publicados en el Diario Oficial de la Federación el 19 de octubre de 2006 y el 5 de febrero de 2008, así como sus específicas modificaciones y adiciones publicadas 5 de enero de 2009 y 27 de marzo de 2009, y se derogan las disposiciones que se opongan a este Estatuto.
+
+El presente Estatuto fue aprobado en la Séptima Sesión Extraordinaria, celebrada el 28 de abril de 2009 por el Consejo Directivo del Instituto del Fondo Nacional para el Consumo de los Trabajadores, Organismo Público Descentralizado, creado por decreto publicado en el Diario Oficial de la Federación el 24 de abril de 2006.
+
+Para el cumplimiento de lo anterior, el Consejo Directivo del Instituto del Fondo Nacional para el Consumo de los Trabajadores instruye se lleven a cabo los trámites necesarios para la publicación del presente Estatuto Orgánico en el Diario Oficial de la Federación.
+
+El presente Estatuto Orgánico, se expide con la aprobación del Consejo Directivo del Instituto del Fondo Nacional para el Consumo de los Trabajadores, en términos de lo dispuesto por el artículo quinto transitorio de la Ley que crea al Instituto del Fondo Nacional para el Consumo de los Trabajadores.
