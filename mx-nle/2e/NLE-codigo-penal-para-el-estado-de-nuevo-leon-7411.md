@@ -4,7 +4,7 @@ identifier: "NLE-codigo-penal-para-el-estado-de-nuevo-leon-7411"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-26"
-last_updated: "2009-06-10"
+last_updated: "2009-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO PENAL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de marzo de 1990.
 
@@ -2589,6 +2589,10 @@ II.- RETENER, SIN NECESIDAD, A UN RECIEN NACIDO, POR LOS MOTIVOS A QUE SE REFIER
 
 III.- RETARDAR O NEGAR, POR CUALQUIER MOTIVO, LA ENTREGA INMEDIATA DE UN CADAVER, EXCEPTO CUANDO SE REQUIERA ORDEN DE AUTORIDAD COMPETENTE.
 
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2009)</small>
+
+LA MISMA SANCION SE IMPONDRA A LOS ENCARGADOS O ADMINISTRADORES DE AGENCIAS FUNERARIAS, QUE ADUCIENDO ADEUDOS O POR CUALQUIER OTRO MOTIVO INJUSTIFICADO, RETARDEN O NIEGUEN LA ENTREGA DE UNO O VARIOS CADAVERES.
+
 ###### ARTICULO 230.
 
 A LOS RESPONSABLES, ENCARGADOS, EMPLEADOS O DEPENDIENTES DE UNA BOTICA O FARMACIA, QUE AL SURTIR UNA RECETA SUBSTITUYAN LA MEDICINA ESPECIFICAMENTE RECETADA, POR OTRA QUE CAUSE DAÑO O SEA EVIDENTEMENTE INAPROPIADA AL PADECIMIENTO PARA EL QUE SE PRESCRIBIO, SE LES IMPONDRA PRISION DE UN MES A TRES AÑOS, Y MULTA DE UNA A QUINCE CUOTAS, INDEPENDIENTEMENTE DEL DAÑO QUE SE CAUSE, EN CUYO CASO SE APLICARAN LAS REGLAS DEL CONCURSO.
@@ -5140,5 +5144,9 @@ DECRETO NO. 381, POR EL QUE SE REFORMA EL ARTICULO 284 DEL CODIGO PENAL PARA EL 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 10 DE JUNIO DE 2009.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JUNIO DE 2009.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
