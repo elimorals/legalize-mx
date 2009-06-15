@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-del-procedimiento-administrativo-29754"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-30"
-last_updated: "2002-12-30"
+last_updated: "2009-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ESTATAL DEL PROCEDIMIENTO ADMINISTRATIVO PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de diciembre de 2002.
 
@@ -181,13 +181,17 @@ VI.- Por revocación, cuando así lo exija el interés público, de acuerdo con 
 
 ### CAPITULO III. DEL SILENCIO ADMINISTRATIVO
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 15.
 
-Las Autoridades Administrativas, deberán atender las peticiones que les sean formuladas dentro de los términos establecidos en la presente Ley.
+Las autoridades administrativas, deberán atender las peticiones que les sean formuladas dentro de los términos establecidos en la presente Ley.
 
-La respuesta o resolución al escrito inicial y a las promociones subsecuentes, que en su caso, se presenten, relativas al fondo de la petición, deberá dictarse dentro de los cuarenta y cinco días hábiles siguientes a la fecha de su recepción, obligándose la Autoridad a resolver positiva o negativamente, transcurrido el plazo aplicable, se entenderán las resoluciones en sentido negativo al promovente. A petición del interesado, se deberá expedir constancia de tal circunstancia, dentro de los cinco días hábiles siguientes a la presentación de la solicitud respectiva.
+La respuesta o resolución al escrito inicial y a las promociones subsecuentes, que en su caso, se presenten, relativas al fondo de la petición, deberá dictarse dentro de los treinta días hábiles siguientes a la fecha de su recepción, obligándose la autoridad a resolver positiva o negativamente, transcurrido el plazo aplicable, se entenderán las resoluciones en sentido positivo en los términos solicitados por el promovente, salvo que en las disposiciones aplicables se prevea lo contrario y sin perjuicio de la responsabilidad en que pudieran incurrir los servidores públicos por su inactividad. A petición del interesado, se deberá expedir constancia de tal circunstancia dentro de los cinco días hábiles siguientes a la presentación de la solicitud respectiva.
 
-Los escritos que no se refieran al fondo, deberán contestarse ó resolverse dentro del término de quince días hábiles.
+En los casos en que la resolución del fondo de la petición dependa de una instancia colegiada, en la que intervengan dos o más dependencias o entidades de la Administración Pública y que por la naturaleza de la normatividad aplicable en relación a sus reglas de operación o estatutos, no permitan emitir una resolución en el término señalado en el párrafo anterior, éste podrá ampliarse hasta 45 días hábiles contados a partir de la fecha de recepción del escrito inicial.
+
+Los escritos que no se refieran al fondo, deberán contestarse ó resolverse dentro del término de diez días hábiles, la presentación o resolución de los mismos, no interrumpen o suspenden los términos de resolución al fondo del asunto establecidos en el presente Artículo.
 
 ###### ARTICULO 16.
 
@@ -222,6 +226,10 @@ Los particulares, podrán ser representados ante la Autoridad, por mandatario de
 ###### ARTICULO 21.
 
 Los menores de edad y los sujetos a interdicción, actuarán a través de sus representantes legales, salvo en situaciones de urgencia, en las que cualquier persona podrá actuar en su nombre.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2009)</small>
+
+ARTICULO 21 BIS.- Los interesados en un procedimiento administrativo tendrán derecho de conocer, en cualquier momento, el estado de su tramitación, recabando la oportuna información en las oficinas correspondientes, salvo cuando contengan información clasificada como reservada o confidencial en los términos de la Legislación aplicable.
 
 ### CAPITULO II. LAS FORMALIDADES DEL PROCEDIMIENTO
 
@@ -369,11 +377,19 @@ Todas las actuaciones se formularán en español, cuando algunas de las partes d
 
 En caso de que alguna de las partes desconozca el idioma por ser extranjero, ésta contratará y pagará a un intérprete, si se tratare de un Gobernado que no hable español en Zonas o Municipios en donde predomine etnias, será obligatoria la asistencia de un interprete, cuyos honorarios los cubrirá la Instancia solicitante según sea el caso.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 44.
 
-Todas las promociones, actuaciones y resoluciones del Procedimiento Administrativo, se presentarán, realizarán y emitirán por escrito, sin abreviaturas o enmendaduras, deberán contar con la firma autógrafa, en su defecto, la huella digital de los participantes, previa lectura de las constancias de los actos en los que intervengan, en caso de negativa, se asentará la razón conducente.
+Todas las promociones, actuaciones y resoluciones del Procedimiento Administrativo, se presentarán, realizarán y emitirán por escrito, sin abreviaturas o enmendaduras, deberán contar con la firma autógrafa o firma electrónica avanzada, en su defecto, la huella digital de los participantes, previa lectura de las constancias de los actos en los que intervengan, en caso de negativa, se asentará la razón conducente.
 
-Las Autoridades sólo tomarán en cuenta para efecto de dictar sus resoluciones, los hechos y los documentos que consten en el expediente respectivo.
+Con el objeto de agilizar y simplificar actos, trámites, servicios, comunicaciones y procedimientos administrativos se podrá hacer uso de medios electrónicos.
+
+En los casos en que se estipule el uso de la firma autógrafa, ésta podrá ser sustituida indistintamente por la firma electrónica avanzada, teniendo los mismos efectos y valor probatorio que la firma autógrafa.
+
+La firma electrónica avanzada y los medios electrónicos deberán utilizarse de conformidad a lo establecido en las disposiciones aplicables en la materia.
+
+Las autoridades sólo tomarán en cuenta para efecto de dictar sus resoluciones, los hechos y los documentos que consten en el expediente respectivo.
 
 ### CAPITULO VI. DE LOS TERMINOS Y DE LAS NOTIFICACIONES
 
@@ -775,6 +791,110 @@ Si se resuelve que no hubo notificación o que la que se practicó fue en forma 
 
 Si se resuelve que la notificación fue legalmente practicada, el recurso se declarará improcedente.
 
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2009)</small>
+
+## TITULO OCTAVO. DEL REGISTRO UNICO DE TRAMITES Y SERVICIOS AL PUBLICO
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2009)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2009)</small>
+
+###### ARTICULO 99.
+
+Se creará un Registro Único de Trámites y Servicios al Público, tanto en la Administración Pública Estatal, como en cada una de las Administraciones Municipales, con la finalidad de presentar de manera clara y precisa la información que los particulares requieren para gestionar algún trámite o servicio.
+
+Para efectos de la presente Legislación, se entenderá por:
+
+I.- Trámite: Cualquier solicitud o entrega de información que las personas físicas o morales del sector privado hagan ante una Dependencia u Organismo Descentralizado Estatal o Municipal, ya sea para cumplir una obligación, obtener un beneficio o servicio, a fin de que se emita una resolución o cualquier documento que dichas personas estén obligadas a conservar.
+
+II.- Servicio: la actividad técnica, directa o indirecta, de la Administración Pública Estatal o Municipal, que ha sido creada o controlada para asegurar de una manera permanente, regular, continua y sin propósitos de lucro, la satisfacción de una necesidad colectiva de interés general, sujeta a un régimen especial de derecho público.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2009)</small>
+
+###### ARTICULO 100.
+
+Estos registros serán públicos y deberán estar disponibles para su consulta de forma permanente y actualizada en las páginas de internet institucionales de las Autoridades Administrativas Estatales y Municipales.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2009)</small>
+
+###### ARTICULO 101.
+
+Para la integración de los registros, las autoridades administrativas habrán de señalar los datos generales del trámite o servicio, los cuales deberán incluir al menos:
+
+I.- Nombre del trámite o servicio;
+
+II.- Clave asignada;
+
+III.- Nombre de la Dependencia o Entidad que lo ofrece;
+
+IV.- Área responsable;
+
+V.- Descripción y objetivo del trámite o servicio;
+
+VI.- Requisitos;
+
+VII.- Formatos a utilizar;
+
+VIII.- Costo en caso de que exista y si es así área de pago;
+
+IX.- Tiempo de respuesta;
+
+X.- Dirección del área responsable;
+
+XI.- Horario de atención al público;
+
+XII.- Comprobante a obtener;
+
+XIII.- Vigencia del comprobante a obtener;
+
+XIV.- Duración de la convocatoria (en caso de no ofrecerse de forma permanente);
+
+XV.- Datos de contacto con el área responsable (números telefónicos, página de internet correo electrónico);
+
+XVI.- Fundamentos jurídico-administrativos que dan origen al trámite;
+
+XVII.- Observaciones u otra información de interés para el solicitante; y
+
+XVIII.- Fecha de la última actualización de la información.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2009)</small>
+
+###### ARTICULO 102.
+
+Cuando surjan modificaciones en la información referida en el Artículo anterior, estas deberán ser inscritas en el Registro Único de Trámites y Servicios al Público dentro de los 20 días hábiles siguientes al acto que las origine.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2009)</small>
+
+###### ARTICULO 103.
+
+La legalidad y el contenido de la información que se inscriba en el Registro Único de Trámites y Servicios al Público serán de estricta responsabilidad de las Dependencias y Entidades de la Administración Pública Estatal y Municipal que proporcionen dicha información.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2009)</small>
+
+###### ARTICULO 104.
+
+La obligación de contar con este registro no limita la posibilidad de que existan registros especializados por materia o competencia, siempre y cuando los trámites y servicios que los integren estén inscritos en el Registro Único de Trámites y Servicios al Público.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2009)</small>
+
+###### ARTICULO 105.
+
+La información de las entidades de la Administración Pública Estatal deberá estar validada por la Dependencia a la cual se encuentre sectorizada, de acuerdo a lo consignado por la Ley de Entidades Paraestatales del Estado de Hidalgo.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2009)</small>
+
+###### ARTICULO 106.
+
+Las Dependencias y Entidades de la Administración Pública Estatal y Municipal, no podrán aplicar trámites adicionales a los inscritos en los registros, ni aplicarlos en forma distinta de como se establezca en el mismo, excepto cuando:
+
+I.- Las Autoridades Administrativas apliquen dentro de los sesenta días hábiles siguientes a que haya entrado en vigor la disposición en la que tengan su fundamento o que modifique su aplicación;
+
+II.- Respecto de los cuales se pueda causar perjuicio a terceros con interés jurídico; y
+
+III.- La no aplicación pueda causar un grave perjuicio al interés público, el cual deberá de estar debidamente fundado y motivado.
+
 T R A N S I T O R I O S
 
 PRIMERO.- Esta Ley empezará a regir al día siguiente de su fecha de publicación en el Periódico Oficial del Estado.
@@ -802,3 +922,19 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE JUNIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+La presente reforma entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Las autoridades administrativas deberán integrar y publicar sus registros de trámites y servicios al público en un término de 60 días naturales a partir de la Publicación del presente ordenamiento.
