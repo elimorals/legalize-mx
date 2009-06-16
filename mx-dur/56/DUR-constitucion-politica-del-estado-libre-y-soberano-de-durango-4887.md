@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2009-05-31"
+last_updated: "2009-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2009.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -515,7 +515,9 @@ El Órgano Superior de Dirección, denominado Consejo Estatal Electoral, se inte
 
 Los órganos ejecutivos y técnicos, dispondrán del personal necesario para prestar el servicio profesional electoral. Los órganos de vigilancia se integrarán mayoritariamente por representantes de los partidos políticos con los requisitos y procedimientos que la Ley establezca. Las mesas directivas de casilla estarán integradas por ciudadanos.
 
-Los Consejeros Electorales del Instituto Electoral y de Participación Ciudadana del Estado de Durango, deberán satisfacer los requisitos que señale la ley y serán electos por el voto de las dos terceras partes de los miembros de la legislatura, de entre los aspirantes que hayan atendido la convocatoria previamente emitida por el Congreso del Estado. La ley señalará las reglas y el procedimiento correspondientes para la elección y, en su caso ratificación. Durante los recesos del Congreso del Estado, para la elección de los Consejeros Electorales, se convocará a un periodo extraordinario de sesiones, por lo que la designación será una decisión soberana del Congreso, en materia electoral.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2009)</small>
+
+Los Consejeros Electorales del Instituto Electoral y de Participación Ciudadana del Estado de Durango, deberán satisfacer los requisitos que señale la ley y serán electos por el voto de las dos terceras partes de los integrantes de la legislatura, de entre los aspirantes que hayan atendido la convocatoria previamente emitida por el Congreso del Estado. La ley señalará las reglas y el procedimiento correspondientes para la elección. Durante los recesos del Congreso del Estado, para la elección de los Consejeros Electorales, se convocará a un periodo extraordinario de sesiones, por lo que la designación será una decisión soberana del Congreso, en materia electoral.
 
 La Unidad de Fiscalización del Instituto Federal Electoral, será el conducto para que el Instituto Electoral y de Participación Ciudadana del Estado de Durango, pueda acceder a la información reservada, conforme al secreto bancario, fiduciario y fiscal.
 
@@ -597,9 +599,9 @@ II.- Tendrá derecho a que le sean asignados diputados electos según el princip
 
 III.- Al partido que se encuentre dentro de los supuestos señalados en las fracciones I y II de este artículo, le serán asignados los diputados que correspondan de acuerdo al porcentaje de votos obtenidos en la circunscripción. La legislación electoral relativa, determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación; en todo caso, se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
 
-> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
-IV.- Ningún partido político podrá contar con más de dieciocho diputados electos por ambos principios.
+IV.- Ningún partido político podrá contar con más de diecisiete diputados electos por ambos principios.
 
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2006)</small>
 
@@ -951,9 +953,9 @@ XV.- Legislar sobre el aprovechamiento de las aguas que queden bajo el régimen 
 
 XVI.- Hacer la declaración de pérdida de la calidad de duranguenses o de ciudadanos del Estado, y de rehabilitación en ambos casos;
 
-> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
-XVII.- Intervenir en los términos de esta Constitución, en las designaciones de los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Tribunal de lo Contencioso Administrativo del Estado de Durango, del Procurador General de Justicia, del Presidente y Consejeros de la Comisión Estatal de Derechos Humanos, de los Comisionados de la Comisión Estatal para la Transparencia y el Acceso a la Información Pública y de los Consejeros Electorales; así mismo, resolver sobre las renuncias o licencias que presenten, en los términos de la legislación vigente;
+XVII.- Intervenir en los términos de esta Constitución, en las designaciones de los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Poder Judicial del Estado, del Tribunal de lo Contencioso Administrativo del Estado de Durango, del Procurador General de Justicia, del Presidente y Consejeros de la Comisión Estatal de Derechos Humanos, de los Comisionados de la Comisión Estatal para la Transparencia y el Acceso a la Información Pública y de los Consejeros Electorales; así mismo, resolver sobre las renuncias o licencias que presenten, en los términos de la legislación vigente;
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -969,25 +971,25 @@ Las leyes que se expidan en el ramo municipal, podrán determinar las zonas en q
 
 XX.- Resolver los conflictos que sobre límites se susciten entre los municipios;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1997)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
-XXI.- Expedir el bando solemne para dar a conocer en todo el Estado la declaración de Gobernador que hubiere hecho el Tribunal Estatal Electoral;
+XXI.- Expedir el bando solemne para dar a conocer en todo el Estado la declaración de Gobernador que realice el Consejo Estatal del Instituto Estatal Electoral y de Participación Ciudadana;
 
-> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
-XXII.- Tomar la protesta de ley al Gobernador del Estado, a los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Tribunal para Menores Infractores, del Presidente y Consejeros de la Comisión Estatal de Derechos Humanos, de los Comisionados de la Comisión Estatal para la Transparencia y el Acceso a la Información Pública, de los Consejeros Electorales y del Titular de la Entidad de Auditoría Superior del Estado;
+XXII.- Tomar la protesta de ley al Gobernador del Estado, a los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Poder Judicial del Estado, del Tribunal para Menores Infractores, del Presidente y Consejeros de la Comisión Estatal de Derechos Humanos, de los Comisionados de la Comisión Estatal para la Transparencia y el Acceso a la Información Pública, de los Consejeros Electorales y del Titular de la Entidad de Auditoría Superior del Estado;
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 1987)</small>
 
 XXIII.- Erigirse en Jurado de Acusación en los casos de presunta responsabilidad política y penal;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE MAYO DE 1997)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
-XXIV.- Recibir los avisos de ausencia del Gobernador y conceder, en los términos de esta Constitución y de la Ley, las autorizaciones o en su caso, licencias al Gobernador, Diputados, Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral y a los miembros del Consejo de la Judicatura del Estado;
+XXIV.- Recibir los avisos de ausencia del Gobernador y conceder, en los términos de esta Constitución y de la Ley, las autorizaciones, o en su caso, licencias al Gobernador, Diputados, Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Poder Judicial del Estado y a los miembros del Consejo de la Judicatura del Estado;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
-XXV.- Revisar, discutir y aprobar, en su caso, con vista del informe que rinda la Entidad de Auditoría Superior del Estado, la cuenta pública que anualmente le presentarán, en forma separada, el Ejecutivo y los ayuntamientos del Estado, sobre sus respectivos ejercicios presupuestales, comprendiéndose en el examen, no sólo la conformidad de las erogaciones con las partidas de los correspondientes presupuestos de egresos, sino también la exactitud y la justificación de tales erogaciones;
+XXV.- Revisar, discutir y aprobar, en su caso, con vista del informe que rinda la Entidad de Auditoría Superior del Estado, la cuenta pública que anualmente le presentarán, en forma separada, el Ejecutivo, los organismos autónomos y los ayuntamientos del Estado, sobre sus respectivos ejercicios presupuestales, comprendiéndose en el examen, no sólo la conformidad de las erogaciones con las partidas de los correspondientes presupuestos de egresos, sino también la exactitud y la justificación de tales erogaciones;
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -999,9 +1001,9 @@ XXVII.- Autorizar al Ejecutivo y a los Ayuntamientos para la enajenación de bie
 
 XXVIII.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 2000)
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 1997)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
-XXVIII BIS.- Designar a los Magistrados del Tribunal Estatal Electoral de acuerdo con lo establecido por esta Constitución y la Ley Orgánica del Poder Judicial;
+XXVIII BIS.- Designar a los Magistrados del Tribunal Electoral del Poder Judicial del Estado de acuerdo con lo establecido por esta Constitución y la Ley Orgánica del Poder Judicial;
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 1987)</small>
 
@@ -1015,9 +1017,9 @@ XXX.- Expedir Leyes tendientes a normar las medidas de protección, y a correcci
 
 XXXI.- Coordinar y evaluar por medio de la comisión respectiva, el desempeño de las funciones de la Entidad de Auditoría Superior del Estado, sin perjuicio de su autonomía técnica y de gestión;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
-XXXII.- Designar al titular de la Entidad de Auditoría Superior del Estado, en los términos que establezca la ley;
+XXXII.- Designar al titular de la Entidad de Auditoría Superior del Estado, en los términos que establezca esta Constitución y la ley;
 
 > <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 1984)</small>
 
@@ -1105,29 +1107,45 @@ VII.- Las demás que le confiere esta Constitución.
 
 SECCION F.- DE LA ENTIDAD DE AUDITORIA SUPERIOR DEL ESTADO
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 58.
 
-La Entidad de Auditoría Superior del Estado de Durango, es el órgano del Congreso del Estado, encargado de la fiscalización y control gubernamental. Tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley.
+La Fiscalización superior es una facultad exclusiva del Congreso del Estado y la ejerce con el apoyo de la Entidad de Auditoría Superior del Estado de Durango, quien tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2009)</small>
+
+La facultad de fiscalización será ejercida conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
 La Entidad de Auditoría Superior del Estado tendrá a su cargo, además de lo establecido en la ley, lo siguiente:
 
-I. Fiscalizar en forma posterior los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de los poderes del Estado, de los entes públicos estatales y de los municipios, incluyendo los recursos de origen federal, en su caso, a través de los informes que se rendirán en los términos que disponga la ley.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2009)</small>
+
+I. Fiscalizar en forma posterior los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado, de los organismos autónomos y de los municipios, incluyendo los recursos de origen federal, en su caso, a través de los informes que se rendirán en los términos que disponga la ley, así como evaluar el desempeño de la gestión de los sujetos de fiscalización y el cumplimiento de los objetivos y metas de los programas respectivos.
 
 Sin perjuicio de los informes a que se refiere el anterior párrafo, en las situaciones excepcionales que determine la ley, podrá requerir a los sujetos de fiscalización que procedan, a la revisión de los conceptos que estime pertinentes y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la ley, podrá dar lugar al fincamiento de las responsabilidades que corresponda;
 
 II. Entregar los informes del resultado de la revisión de las cuentas públicas, al Congreso del Estado, en los términos que establezca la ley; dentro de los citados informes se incluirán los dictámenes de su revisión y el apartado correspondiente a la fiscalización y verificación del cumplimiento de los programas, mismos que tendrán carácter público.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+
 La Entidad de Auditoría Superior del Estado, deberá guardar reserva de sus actuaciones y observaciones, hasta que rinda los informes a que se refiere este artículo; la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
 
-El Congreso del Estado designará al titular de la Entidad de Auditoría Superior del Estado con el voto de las dos terceras partes de los diputados presentes, quien durará en su encargo cuatro años y podrá ser nombrado nuevamente por una sola vez. La ley determinará el procedimiento para su designación y podrá ser removido, exclusivamente, por el Congreso del Estado, por las causas graves que señale la ley y conforme a los procedimientos previstos en el Título Quinto, Capítulo Único, de esta Constitución.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2009)</small>
 
-> <small>N. DE E. LOS REQUISITOS SEÑALADOS CORRESPONDEN AL ARTICULO 93 DE LA CONSTITUCION.</small>
+El Congreso del Estado designará al titular de la Entidad de Auditoría Superior del Estado con el voto de las dos terceras partes de los diputados integrantes de la Legislatura, quien durará en su encargo siete años y podrá ser nombrado nuevamente por una sola vez. La ley determinará el procedimiento para su designación y podrá ser removido, exclusivamente, por el Congreso del Estado, por las causas graves que señale la ley y conforme a los procedimientos previstos en el Título Quinto, Capítulo Único, de esta Constitución.
 
-Para ser titular de la Entidad de Auditoría Superior del Estado se requiere cumplir, además de los requisitos señalados en las fracciones I, II, IV y V, del artículo 94 (sic) de esta Constitución, los que señale la ley. Durante el ejercicio de su encargo, no podrá formar parte de ningún partido político, ni desempeñar empleo, cargo o comisión, salvo los no remunerados, en asociaciones científicas, docentes, artísticas o de beneficencia.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2009)</small>
+
+Para ser titular de la Entidad de Auditoría Superior del Estado se requiere cumplir, además de los requisitos señalados en las fracciones I, II, IV y V, del artículo 93 de esta Constitución, contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades, además de los que señale la ley respectiva. Durante el ejercicio de su encargo, no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados, en asociaciones científicas, docentes, artísticas o de beneficencia.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
 Los poderes del Estado y los sujetos de fiscalización, facilitarán los auxilios que requiera la Entidad de Auditoría Superior del Estado, para el ejercicio de sus funciones.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
 El Poder Ejecutivo del Estado, aplicará el procedimiento administrativo de ejecución, para el cobro de las indemnizaciones y sanciones pecuniarias que se establezcan en los términos de la ley.
 
@@ -1207,11 +1225,11 @@ VII.- No ser Secretario o Subsecretario del Despacho en el Poder Ejecutivo del E
 
 VIII.- No haber sido condenado a más de un año de prisión, excepto el caso de delito por culpa. Tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo, cualquiera que hubiere sido la pena impuesta.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 61.
 
-La elección de Gobernador será directa, a través del voto universal, libre y secreto de los ciudadanos que cumplan con las cualidades que establece la ley. El Congreso del Estado, en los términos que señala esta Constitución, expedirá Bando Solemne para dar a conocer en todo el Territorio del Estado, la declaración de gobernador electo que haya hecho el Tribunal Estatal Electoral.
+La elección de Gobernador será directa, a través del voto universal, libre y secreto de los ciudadanos que cumplan con las cualidades que establece la ley. El Congreso del Estado, en los términos que señala esta Constitución, expedirá el bando solemne para dar a conocer en todo el Territorio del Estado, la declaración de Gobernador electo que haya hecho el Consejo Estatal del Instituto Estatal Electoral y de Participación Ciudadana.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1241,15 +1259,19 @@ Si el Congreso estuviere en receso, la Comisión Permanente designará un Gobern
 
 Cuando la falta absoluta del Gobernador ocurriese en los cuatro últimos años, el Congreso designará de inmediato al Gobernador Substituto que concluirá el periodo respectivo. Si el Congreso estuviere en receso la Comisión Permanente designará un Gobernador Provisional y procederá a convocar a un período extraordinario de sesiones que tendrá lugar dentro de las 72 setenta y dos horas siguientes, para que haga la designación del Gobernador Substituto.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 64.
 
-Si al comenzar un periodo constitucional no se presentase el Gobernador Electo, por causa de fuerza mayor o justificada a juicio del Congreso, éste designará un Gobernador Provisional que fungirá en tanto el Gobernador Electo no se presente a rendir la Protesta de Ley. Si dentro de las 72 setenta y dos horas siguientes de haber desaparecido las causas que motivaron la ausencia, el Gobernador electo no se presenta, el Congreso designará un Gobernador Interino y convocará a nuevas elecciones que se efectuarán en un término no mayor de seis meses. Si la elección no estuviere hecha y declarada al iniciarse un período Constitucional, la nueva Legislatura designará un Gobernador Interino y convocará a elecciones que se efectuarán en un término no mayor de seis meses.
+Si al comenzar un periodo constitucional no se presentase el Gobernador Electo, por causa de fuerza mayor o justificada a juicio del Congreso, éste designará un Gobernador Provisional que fungirá en tanto el Gobernador Electo no se presente a rendir la Protesta de Ley. Si dentro de las setenta y dos horas siguientes de haber desaparecido las causas que motivaron la ausencia, el Gobernador Electo no se presenta, el Congreso designará un Gobernador Interino y convocará a nuevas elecciones que se efectuarán en un término no mayor de seis meses. Si la elección no estuviere hecha y declarada válida al iniciarse un período Constitucional, la nueva Legislatura designará un Gobernador Interino y convocará a elecciones extraordinarias que se efectuarán en un término no mayor de seis meses.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 Si esto último no fuere posible por trastornos graves del orden público, se estará a lo dispuesto en la parte final del Artículo siguiente. En ambos casos, sin embargo, el Gobernador cuyo período haya concluido, dejará de ejercer sus funciones.
 
-En el caso de que el Gobernador Interino no pueda ser designado por la nueva Legislatura porque sus integrantes no se presenten, o la elección de Diputados no estuviere hecha y declarada, la Comisión Permanente de la Legislatura anterior nombrará un Gobernador Provisional, quien convocará a elecciones, que deberán verificarse dentro de los tres meses siguientes.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2009)</small>
+
+En el caso de que el Gobernador Interino no pueda ser designado por la nueva Legislatura porque sus integrantes no se presenten, o la elección de Diputados no estuviere hecha y declarada válida, la Comisión Permanente de la Legislatura anterior nombrará un Gobernador Provisional, quien convocará a elecciones extraordinarias, que deberán verificarse dentro de los tres meses siguientes.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1263,9 +1285,9 @@ Si fuere necesario convocar a elecciones y éstas no se pudieren verificar por t
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-#### SECCION C.- DEL TRIBUNAL ESTATAL ELECTORAL
+#### SECCION C.- DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO
 
-> <small>(REFORMADO Y REUBICADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 66.
 
@@ -1591,37 +1613,31 @@ Para ser Agente del Ministerio Público se deben satisfacer los requisitos que a
 
 El Sub-Procurador de Justicia suplirá al Procurador en sus faltas temporales.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE JUNIO DE 2009)</small>
 
-SECCION G.- DE LAS PROCURADURIAS Y DEFENSORIAS DE OFICIO
+SECCION G.- DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 87.
 
-La prestación del servicio de defensoría pública, se llevará a cabo por el Instituto de Defensoría Pública del Estado, dependiente del Ejecutivo Estatal. Su organización y funcionamiento, serán determinados por la ley.
+La Comisión Estatal de Derechos Humanos es un organismo público, con personalidad jurídica y patrimonio propio. La ley garantizará su autonomía técnica, de gestión y presupuestaria, así como el procedimiento de resolución de las quejas de la ciudadanía.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 88.
 
-El servicio de defensoría pública constituye una función obligatoria dé carácter gratuito para la población, regido por los principios de profesionalismo, probidad y calidad; asimismo, asegurará las condiciones para un servicio profesional de carrera para los defensores y sus percepciones no podrán ser inferiores a las que correspondan a los agentes del Ministerio Público. El organismo correspondiente contará con las defensorías de oficio en materia penal, las asesorías y servicios de representación en negocios de carácter familiar y civil, de defensoría jurídica de los trabajadores en la relación laboral, de protección del interés del menor, entre otras, en los términos que establezca la ley.
+La Comisión velará por la protección de los derechos humanos y conocerá de las quejas que se formulen en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público, con excepción de los del Poder Judicial del Estado. No conocerá de asuntos electorales, laborales o jurisdiccionales. Podrá formular recomendaciones públicas autónomas, de carácter no vinculatorio en los asuntos que se sometan a su conocimiento.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 89.
 
-La Comisión Estatal de Derechos Humanos es un organismo público, con personalidad jurídica y patrimonio propio. La ley garantizará su autonomía técnica, de gestión y presupuestaria, así como el procedimiento de resolución de las quejas de la ciudadanía.
-
-La Comisión velará por la protección de los derechos humanos; conocerá de las quejas que se formulen en contra de actos u omisiones que los viole, provenientes de cualquier autoridad o servidor público, con excepción de los del Poder Judicial. No conocerá de asuntos electorales, laborales o jurisdiccionales. Podrá formular recomendaciones públicas autónomas, de carácter no vinculatorio en los asuntos que se sometan a su conocimiento.
-
-La Comisión Estatal de Derechos Humanos estará integrada por un presidente y un consejo de cinco miembros y sus suplentes, nombrados por el Congreso con el voto de las dos terceras partes de los diputados presentes; a su vez, tendrá un secretario ejecutivo designado por la comisión. En la consideración de la designación del presidente y los consejeros de la comisión, se deberá realizar la auscultación que se considere pertinente, entre las organizaciones civiles dedicadas a la protección de los derechos humanos, y las demás que determine la ley.
+La Comisión Estatal de Derechos Humanos estará integrada por un presidente y un Consejo de cinco miembros y sus suplentes, nombrados por el Congreso con el voto de las dos terceras partes de los diputados presentes; a su vez, tendrá un Secretario Ejecutivo, designado por la Comisión. En la consideración de la designación del Presidente y los Consejeros de la Comisión, se deberá realizar la auscultación que se considere pertinente, entre las organizaciones civiles dedicadas a la protección de los derechos humanos y las demás que determine la ley.
 
 El Presidente de la Comisión durará 6 años en su cargo y podrá ser reelecto una sola vez. Los Consejeros tendrán un periodo de desempeño de 6 años.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
-
-El Presidente de la Comisión deberá comparecer ante el Congreso del Estado a rendir un informe anual de su gestión.
+El Presidente de la Comisión, deberá comparecer ante el Congreso del Estado a rendir un informe anual de su gestión.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
@@ -1647,17 +1663,25 @@ Se crea un órgano desconcentrado del Tribunal Superior de Justicia que interven
 
 SECCION B.- DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO Y REUBICADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 91.
 
-El Tribunal Superior de Justicia del Estado, se integrará con trece Magistrados Numerarios, y cinco Supernumerarios; éstos últimos, suplirán a aquellos en sus faltas temporales y también temporalmente en su (sic) faltas definitivas, a cuyo efecto serán llamados en el orden numérico en que hubieren sido electos.
+El Tribunal Superior de Justicia del Estado, se integrará con diecinueve Magistrados Numerarios, y ocho Supernumerarios; éstos últimos, suplirán a aquellos en sus faltas temporales y también temporalmente en su (sic) faltas definitivas, a cuyo efecto serán llamados sucesiva y progresivamente, de acuerdo al procedimiento que se determine en la Ley Orgánica del Poder Judicial.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
 Los Magistrados durarán en su encargo seis años. Pueden ser nombrados nuevamente, y si lo fueren para el período inmediato, sólo serán privados de sus cargos en los casos y conforme a los procedimientos que establezca la ley. Durante la vigencia del cargo, los Magistrados y Jueces recibirán una remuneración suficiente, que propicie la total entrega a sus funciones.
 
-La remuneración que perciban por sus servicios los Magistrados del Tribunal Superior de Justicia, los Magistrados Electorales y los Jueces, no podrá ser disminuida durante el ejercicio de su encargo. Al vencimiento de su nombramiento, tendrán derecho a un haber por retiro, salvo los Magistrados Electorales, los demás mencionados no podrán actuar como patronos, abogados o representantes ante los Tribunales del Poder Judicial del Estado, dentro del año siguiente a la fecha de ese vencimiento.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2009)</small>
+
+La remuneración que perciban por sus servicios los Magistrados del Tribunal Superior de Justicia, los Magistrados Electorales y los Jueces, no podrá ser disminuida durante el ejercicio de su encargo. Al vencimiento de su nombramiento, tendrán derecho a un haber por retiro y no podrán actuar como patronos, abogados o representantes ante los Tribunales del Poder Judicial del Estado, dentro del año siguiente a la fecha de ese vencimiento.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
 De conformidad con las disposiciones de su ley orgánica, las sesiones del Pleno y de las Salas serán secretas y por excepción, públicas, según lo exija el interés común. Invariablemente serán públicas y con carácter de solemnes, aquéllas en las que el Presidente debe rendir el informe anual de la situación que guarda la administración de justicia, así como las que el propio Pleno acuerde en ese sentido.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
 El Pleno del Tribunal Superior está facultado para expedir los acuerdos generales y los particulares que requiera el régimen interno del Poder Judicial para su adecuado funcionamiento; sus decisiones serán definitivas e inatacables.
 
@@ -1705,6 +1729,10 @@ Los Magistrados del Tribunal Superior de Justicia, rendirán la protesta de ley 
 
 El Tribunal Superior de Justicia tendrá un Presidente, que será el Magistrado electo cada tres años, por la mayoría de votos de sus miembros, pudiendo ser reelecto.
 
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2009)</small>
+
+En la elección del Presidente, el Pleno sólo tomará en cuenta los méritos que en la administración de justicia o en el ejercicio de la actividad jurídica, posean sus integrantes.
+
 El Magistrado Presidente no integrará Sala y sus actividades se dirigirán a vigilar el estricto cumplimiento de las determinaciones del Tribunal Superior, a representar al Poder Judicial, a presidir el Consejo de la Judicatura y a cuidar de la administración de justicia, conforme a las atribuciones y obligaciones que le fijen las leyes.
 
 Siguiendo el mismo trámite de elección señalado para la Presidencia, el Tribunal Superior elegirá para el mismo período, un Vicepresidente, que tendrá iguales atribuciones y obligaciones que aquél en el ejercicio de la suplencia.
@@ -1741,9 +1769,11 @@ Xl. Resolver los conflictos que surjan entre los ayuntamientos y los Poderes del
 
 XII. Ejercer con auxilio del Consejo de la Judicatura el presupuesto del Poder Judicial y lo relativo al Fondo Auxiliar, con excepción de las partidas que le correspondan al Tribunal Estatal Electoral;
 
-XIII. Autorizar la integración de ternas, que para la designación de magistrados del Tribunal Estatal Electoral, elabore el Consejo de la Judicatura;
+XIII. (DEROGADA, P.O. 16 DE JUNIO DE 2009)
 
-XIV. Designar a los miembros que formarán parte de la Comisión de Administración del Tribunal Estatal Electoral;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+
+XIV. Designar al Consejero del Consejo de la Judicatura que formarán parte de la Comisión de Administración del Tribunal Electoral del Poder Judicial del Estado, conforme a la ley de la materia;
 
 XV. Recibir, analizar y aprobar en su caso, el informe anual que debe rendir su Presidente, de acuerdo a lo dispuesto por el artículo 95 de esta Constitución;
 
@@ -1753,21 +1783,33 @@ XVII. Defender la Constitución y la soberanía del Estado; y
 
 XVIII. Las demás que le confieren esta Constitución y las leyes.
 
-> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES SECCION B.I], P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 97.
 
-El Tribunal Estatal Electoral, será la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial del Estado. Para el ejercicio de sus atribuciones, el Tribunal funcionará con una Sala Colegiada y sus sesiones de resolución serán públicas, en los términos que determine la ley. Contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento. La Sala se integrará con tres magistrados electorales, que ejercerán el cargo por un período de cuatro años, en cuyo lapso, solamente desempeñarán su responsabilidad durante las fases en que deban verificarse procesos electorales, espacio que comprenderá todo el año respectivo y el mes de diciembre anterior al señalado para elecciones. Durante los períodos de receso, su Presidente quedará en funciones para en caso necesario, llamar para integrar la Sala del Tribunal a los Magistrados, para sustanciar y resolver el o los casos presentados, hecho lo cual, suspenderá las actividades. Los Magistrados Electorales gozarán de licencias, por el plazo que funjan como tales, en los cargos que vengan desempeñando cuando éstos tengan carácter de oficiales. El periodo de nombramiento, podrá ser prorrogado por una sola ocasión durante cuatro años. El Presidente del Tribunal, será elegido de entre sus miembros, para fungir durante cuatro años.
+El Tribunal Electoral del Poder Judicial del Estado, será la máxima autoridad Jurisdiccional en la materia y órgano especializado del Poder Judicial del Estado. Para el ejercicio de sus atribuciones, el Tribunal funcionará en forma permanente con una Sala Colegiada y sus sesiones de resolución serán públicas, en los términos que determine la ley y contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento.
 
-El Tribunal Estatal Electoral, se organizará en los términos que señale la ley; realizará la declaración de validez de la elección de Gobernador y declarará electo como tal, al ciudadano que hubiese obtenido el mayor número de votos, una vez resueltas en su caso, las impugnaciones que se hubieren interpuesto sobre la misma; resolverá en forma definitiva, en los términos de esta Constitución y de la ley, las impugnaciones de que deba conocer y las que establece el artículo 37 de esta Constitución.
+La Sala se integrará con tres magistrados electorales, que durarán en su encargo por un periodo de nueve años, prorrogables por una sola ocasión, previa evaluación de su desempeño por parte del Congreso y serán electos de forma escalonada.
 
-> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2006)</small>
+Los Magistrados Electorales y el Presidente del Tribunal, que será uno de los miembros de la Sala, serán electos de conformidad con el procedimiento que señale la ley respectiva.
 
-El Tribunal Estatal Electoral sustanciará y resolverá en forma definitiva las impugnaciones que se interpongan en los procesos de plebiscito y referéndum.
+En caso de vacante definitiva, se nombrará a un nuevo magistrado por el tiempo restante al del nombramiento original.
 
-Para el ejercicio de su competencia, los magistrados electorales serán independientes y responderán sólo al mandato de la ley. Serán electos por el voto de las dos terceras partes de los miembros del Congreso, de entre las ternas propuestas por el Tribunal Superior de Justicia, a través del Consejo de la Judicatura, las que integrará conforme a lo que disponga la Ley Orgánica del Poder Judicial. Si dicha mayoría no se logra en la primera votación, se presentarán nuevas ternas en los términos anteriores, hasta lograr la integración del órgano.
+La Sala del Tribunal Electoral sólo podrá declarar la nulidad de una elección por las causales que expresamente se establezcan en las leyes.
 
-La administración, vigilancia y disciplina en el Tribunal Estatal Electoral, corresponderán, en los términos que señala la ley, a una comisión de Administración, que se integrará por el Presidente del Tribunal Estatal Electoral, quien la presidirá; un Magistrado Electoral designado por insaculación; y tres miembros del Consejo de la Judicatura del Estado, exceptuando a su Presidente, que no podrá ser considerado para ese cargo. En caso de existir dudas con respecto a las determinaciones que expida la Comisión o sobre su incumplimiento, el Presidente de la misma podrá solicitar su reconsideración, ante el Pleno del Tribunal Superior, en que resolverá unistancialmente lo conducente. El Tribunal Electoral propondrá su presupuesto, al Presidente del Tribunal Superior de Justicia, para su inclusión en el proyecto del presupuesto del Poder Judicial del Estado. Así mismo, el Tribunal Estatal Electoral expedirá su Reglamento Interno y dictará los acuerdos generales que requiera el correcto desempeño de sus funciones.
+Para que un ciudadano pueda acudir a la jurisdicción del Tribunal Electoral por violaciones a sus derechos por el partido político al que se encuentre afiliado, deberá haber agotado previamente las instancias de solución de conflictos previstas en sus normas internas, la ley establecerá las reglas y plazos aplicables.
+
+La Sala del Tribunal Electoral hará uso de los medios de apremio necesarios para hacer cumplir de manera expedita sus sentencias y resoluciones definitivas e inatacables en los términos que fije la ley.
+
+Sin perjuicio de lo dispuesto por los artículos 99 y 105 de la Constitución Política de los Estados Unidos Mexicanos, la Sala del Tribunal Electoral podrá resolver la no aplicación de leyes estatales sobre la materia electoral contrarias a la Constitución Política del Estado Libre y Soberano de Durango. Las resoluciones que se dicten en el ejercicio de esta facultad, se limitarán al caso concreto sobre el que verse la controversia.
+
+Las sentencias que dicte la Sala del Tribunal Electoral serán definitivas e inatacables, a excepción de aquéllas que sean susceptibles de impugnarse a través de medios extraordinarios.
+
+El Tribunal Electoral sustanciará y resolverá en forma definitiva las impugnaciones que se Interpongan en los procesos de plebiscito y referéndum.
+
+Para el ejercicio de su competencia, los magistrados electorales serán autónomos e independientes y responderán sólo al mandato de la ley y deberán satisfacer los requisitos que señalen esta Constitución y la ley y serán electos por el voto de la mayoría calificada de los diputados integrantes de la legislatura, en la sesión que corresponda, conforme al procedimiento que se indique en la ley.
+
+La administración, vigilancia y disciplina en el Tribunal Electoral, corresponderán, en los términos que señala la ley, a una Comisión de Administración, que se integrará y funcionará en los términos de la ley. Esta Comisión rendirá un informe por ejercicio fiscal, a la Entidad de Auditoría Superior del Estado, a más tardar el 30 de marzo del ejercicio fiscal siguiente.
 
 (REUBICADA [N. DE E. ANTES SECCION C], P.O. 26 DE NOVIEMBRE DE 2000)
 
@@ -1840,6 +1882,14 @@ Propondrá al Pleno del Tribunal Superior, en planes o programas específicos de
 La ley fijará las bases para la formación y actualización de funcionarios, así como para el desarrollo, extensión y cumplimiento de los sistemas y programas que sustenten la carrera judicial, la cual se regulará esencialmente por principios de excelencia, objetividad, equidad, profesionalismo, imparcialidad e independencia.
 
 El Consejo vigilará lo relacionado con la carrera judicial, y en general, para su adecuada articulación; en el ejercicio de su encargo, contará con los elementos auxiliares que le sean adscritos, en la Ley Orgánica del Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2009)</small>
+
+El Instituto de Defensoría Pública del Estado de Durango es un órgano auxiliar del Consejo de la Judicatura, encargado de prestar el servicio de defensoría pública en el Estado, cuya organización y funcionamiento se determina en la ley respectiva; en el ejercicio de sus funciones, gozará de independencia técnica y operativa.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2009)</small>
+
+El servicio de defensoría pública será gratuito, se prestará bajo los principios de probidad, honradez, profesionalismo, calidad y de manera obligatoria en los términos que establezca le (sic) ley.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -2916,3 +2966,69 @@ P.O. 31 DE MAYO DE 2009.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO.- Dentro de un plazo de 180 días, contados a partir de la entrada en vigor del presente decreto, el Congreso del Estado deberá realizar las adecuaciones legislativas que resulten pertinentes.
+
+P.O. 16 DE JUNIO DE 2009.
+
+DECRETO NO. 286, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTICULOS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DEL ESTADO DE DURANGO.
+
+DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LOS ARTICULOS DEL DECRETO QUE SE RELACIONAN CON LA CONSITUCION
+
+.
+
+Artículo Segundo.- Queda sin efectos el periodo de cuatro años por el cual fueron designados Magistrados Electorales del Tribunal Estatal Electoral del Poder Judicial del Estado, los Ciudadanos Licenciados María Hortensia Alvarado Cisneros, Roberto Herrera Hernández y Francisco Orrante Ontiveros, mediante Acuerdo de la LXIII Legislatura de fecha 9 de mayo de 2007 publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango N° 38, de fecha 13 de mayo del 2007.
+
+Artículo Tercero.- Se reforma el Artículo Primero del Acuerdo aprobado por la H. LXIII Legislatura por el cual son designados magistrados del Tribunal Estatal Electoral del Poder Judicial del Estado de Durango, por el periodo comprendido del 11 de mayo del 2007 al 10 de mayo de 2011, a los Ciudadanos Licenciados María Hortensia Alvarado Cisneros, Roberto Herrera Hernández y Francisco Orrante Ontiveros, de fecha 9 de mayo de 2007 publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango N° 38, de fecha 13 de mayo del 2007 para quedar como sigue:
+
+PRIMERO.- Son Magistrados del Tribunal Electoral del Poder Judicial del Estado:
+
+I. C. Lic. Roberto Herrera Hernández, del 16 de junio del 2009 al 15 de junio del 2018;
+
+II. C. Lic. María Hortensia Alvarado Cisneros, del 16 de junio de 2009 al 15 de junio de 2016; y
+
+III. C. Lic. Francisco Orrante Ontiveros, del 16 de junio de 2009 al 15 de junio de 2014.
+
+El mandato que ejerzan, los Magistrados Electorales en los términos de las fracciones anteriores, serán considerados como un primer periodo para todos sus efectos.
+
+## TRANSITORIOS
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente decreto
+
+Artículo Tercero. El Congreso del Estado deberá realizar las adecuaciones que corresponda en las leyes estatales, en un plazo de treinta días naturales contados a partir del inicio de la vigencia del presente decreto.
+
+Artículo Cuarto. Los nuevos Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia, serán designados conforme al procedimiento que señala el artículo 92 de la Constitución Política del Estado Libre y Soberano de Durango, a más tardar el 30 de junio de 2009, para integrar el número de titulares a que se refiere el artículo 91 reformado por este decreto, y el periodo de su encargo será a partir de la fecha de su designación.
+
+Sus adscripciones serán definidas por el Pleno del Tribunal Superior de Justicia y el periodo de su encargo contará a partir de la fecha de su designación.
+
+Artículo Quinto. En un plazo máximo de treinta días naturales contados a partir de la entrada en vigor del presente decreto, el Tribunal Superior de Justicia deberá designar de entre los miembros del Consejo de la Judicatura, a propuesta de éste, a quien deba integrar la Comisión de Administración del Tribunal Electoral del Poder Judicial del Estado, mientras tanto, deberá conservarse la actual integración del referido órgano, y resolverá los asuntos en trámite conforme a las normas expedidas con anterioridad a la entrada en vigor de este decreto.
+
+Artículo Sexto. La Defensoría Pública se integrará al Poder Judicial una vez que entre en vigor el Nuevo Sistema de Justicia Penal en el Estado.
+
+Artículo Séptimo. En todos aquellos ordenamientos en donde se haga mención al Tribunal Estatal Electoral, se entenderá que lo hacen refiriéndose al Tribunal Electoral del Poder Judicial del Estado de Durango.
+
+Artículo Octavo. Comuníquese el presente decreto a los Ciudadanos Licenciados María Hortensia Alvarado Cisneros, Roberto Herrera Hernández y Francisco Orrante Ontiveros, Magistrados Electorales del Tribunal Electoral del Poder Judicial del Estado, para que en su parte relativa, cumpla todos sus efectos.
+
+P.O. 16 DE JUNIO DE 2009.
+
+DECRETO NO. 287, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 55 Y 58 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DEL ESTADO DE DURANGO.
+
+DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LOS ARTICULOS DEL DECRETO QUE SE RELACIONAN CON LA CONSITUCION
+
+.
+
+Artículo Segundo.- Queda sin efectos el periodo comprendido del 25 de octubre de 2007 al 30 de marzo de 2010, por el cual fue designado el C. C.P. Luis Arturo Villarreal Morales como Titular de la Entidad de Auditoría Superior del Estado, contenido en el Acuerdo de la Sexagésima Cuarta Legislatura del H. Congreso del Estado de Durango, celebrado en su Sesión Plenaria, de fecha 24 de octubre de 2007.
+
+Artículo Tercero.- Se amplía el mandató del C. C.P. Luis Arturo Villarreal Morales, para que funja como Titular de la Entidad de Auditoría Superior del Estado, por el periodo comprendido del 25 de octubre de 2007 al 30 de marzo de 2013, mismo que se entenderá como un primer periodo de ejercicio en el cargo para el cual fue designado el 24 de octubre de 2007.
+
+Artículo Cuarto.- Queda sin efectos el periodo comprendido del 31 de mayo de 2006 al 15 de abril de 2010, por el cual fueron designados los CC. C.P. Blanca Bertha Medrano Gurrola y C.P. Sergio Arreola Corral, como Auditores Generales A y B, respectivamente, de la Entidad de Auditoría Superior del Estado, contenido en el Acuerdo de la Gran Comisión de la Sexagésima Tercera Legislatura del H. Congreso del Estado de Durango, de su sesión celebrada en fecha 26 de mayo de 2007.
+
+Artículo Quinto.- Se amplía el mandato de los CC. C.P. Blanca Bertha Medrano Gurrola y C.P. Sergio Arreola Corral, para que funjan como Auditores Generales A y B, respectivamente, de la Entidad de Auditoría Superior del Estado por el periodo comprendido del 31 de mayo de 2006 al 15 de abril de 2013.
+
+## TRANSITORIOS
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+Artículo Tercero. Comuníquese el presente decreto a los CC. C.P. Luis Arturo Villarreal Morales, C.P. Blanca Bertha Medrano Gurrola y C.P. Sergio Arreola Corral; Auditor Superior del Estado, Auditor General A y Auditor General B, respectivamente, de la Entidad de Auditoría Superior del Estado, para que en su parte relativa, surta todos los efectos conducentes.
