@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-notariado-para-el-estado-de-campeche-69091"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-09"
-last_updated: "2009-06-09"
+last_updated: "2009-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CAM"
 ---
 # LEY DEL NOTARIADO PARA EL ESTADO DE CAMPECHE
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE JUNIO DE 2009 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DEL NOTARIADO PARA EL ESTADO DE CAMPECHE
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 16 DE JUNIO DE 2009.</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 9 de junio del 2009.
 
@@ -99,11 +99,11 @@ La Secretaría de Gobierno podrá requerir a los notarios de la Entidad, y ésto
 
 La Secretaría de Gobierno deberá concentrar la información de las operaciones y actos notariales y procesarla bajo sistemas estadísticos que permitan regular y fijar, conforme a esta ley, las modalidades administrativas que requiera la prestación eficaz del servicio notarial.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE JUNIO DE 2009 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### Artículo 11.
 
-Cuando del estudio a que se refiere el artículo 4 de esta ley se desprenda la necesidad de otorgar un nuevo fíat o patente de notario o de designar a quien, ya teniendo dicho fíat o patente, se haga cargo, como titular, sustituto o interino, de una notaría que estuviere vacante o como titular de una notaría de nueva creación, la Secretaría de Gobierno publicará convocatorias para que los aspirantes al ejercicio del notariado presenten el examen correspondiente. Esta convocatoria se publicará por dos veces consecutivas, con intervalo de cinco días entre una y otra publicación, tanto en el Periódico Oficial del Estado como en un periódico diario de amplia circulación en el Estado. En un plazo de treinta días hábiles, contados a partir de la fecha de la última publicación, los aspirantes deberán acudir a la Secretaría de Gobierno a presentar su solicitud, por escrito, para ser admitidos en el correspondiente examen.
+Cuando del estudio a que se refiere el artículo 4 de esta ley se desprenda la necesidad de otorgar un nuevo fíat o patente de notario o de designar a quien, ya teniendo dicho fíat o patente, se haga cargo, como titular, sustituto o interino, de una notaría que estuviere vacante o como titular de una notaría de nueva creación, la Secretaría de Gobierno publicará convocatorias para que los aspirantes al ejercicio del notariado presenten el examen correspondiente. Esta convocatoria se publicará por dos veces consecutivas, con intervalo de cinco días entre una y otra publicación, tanto en el Periódico Oficial del Estado como en un periódico diario de amplia circulación en el Estado. En un plazo de veinte días naturales, contados a partir de la fecha de la última publicación, los aspirantes deberán acudir a la Secretaría de Gobierno a presentar su solicitud, por escrito, para ser admitidos en el correspondiente examen.
 
 ### Capítulo II. Del Fíat o Patente de Notario y la Titularidad de una Notaría
 
@@ -1049,7 +1049,7 @@ Los notarios incurrirán en responsabilidad administrativa por cualquiera violac
 
 También serán responsables de las omisiones o violaciones a esta ley o a otros ordenamientos, siempre que sea consecuencia directa e inmediata de su intervención, sin perjuicio de la responsabilidad penal que les pueda resultar en el caso de constituir un delito dichas omisiones o violaciones.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE JUNIO DE 2009 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### Artículo 139.
 
@@ -1077,11 +1077,11 @@ b). Realizar cualquier actividad que sea incompatible con el desempeño de sus f
 
 c). Incurrir en alguna de las prohibiciones señaladas en las fracciones I y IV del artículo 36 de esta ley;
 
-d). Ocasionar, debido a negligencia o imprudencia, la nulidad de algún instrumento o testimonio, o el extravío o destrucción total o parcial de documentos de los apéndices folios o demás libros que integren su protocolo;
+d). Ocasionar, debido a negligencia o imprudencia, la nulidad de algún instrumento o testimonio, o el extravío o destrucción total o parcial de documentos de los apéndices, folios o demás libros que integren su protocolo;
 
-e). Recibir y conservar en depósito cantidades de dinero, en contravención a esta ley; y (sic),
+e). Recibir y conservar en depósito cantidades de dinero, en contravención a esta ley;
 
-f). Negarse, sin causa justificada, al ejercicio de sus funciones, cuando hubiere sido requerido para ello;
+f). Negarse, sin causa justificada, al ejercicio de sus funciones, cuando hubiere sido requerido para ello; y
 
 g). Omitir uno o ambos avisos y acompañar a éstos los planos a que se refiere el artículo 87 de la presente ley;
 
@@ -1093,21 +1093,21 @@ b). Revelación injustificada y dolosa de datos;
 
 c). Incurrir en alguna de las prohibiciones de las fracciones II y V del artículo 36 de esta ley;
 
-d). Provocar dolosamente la nulidad de algún instrumento o testimonio o el extravío o destrucción total o parcial de documentos que integran su protocolo; y,
+d). Provocar dolosamente la nulidad de algún instrumento o testimonio o el extravío o destrucción total o parcial de documentos que integran su protocolo; y, (sic)
 
-IV. Cancelación del fíat, o patente de notario público por:
+IV. Cancelación del fíat o patente de notario público por:
 
 a). Reincidir en alguno de los supuestos señalados en la fracción III anterior;
 
-b). Falta grave de probidad o notorias deficiencias o vicios debidamente comprobados en el ejercicio de sus funciones:
+b). Falta grave de probidad o notorias deficiencias o vicios debidamente comprobados en el ejercicio de sus funciones;
 
 c). No desempeñar personalmente sus funciones;
 
-d). Violar alguna de las prohibiciones de las fracciones III y VI del artículo 36 de esta ley:
+d). Violar alguna de las prohibiciones de las fracciones III y VI del artículo 36 de esta ley;
 
 e). No iniciar sus funciones conforme a lo dispuesto en el artículo 27 de esta Ley;
 
-f). No concurrir en dos ocasiones, a visita notarial para inspección de protocolo, sin causa o justificación debidamente fundada, siempre que las dos visitas correspondan al ejercicio notarial del mismo año:
+f). No concurrir en dos ocasiones, a visita notarial para inspección de protocolo, sin causa o justificación debidamente fundada, siempre que las dos visitas correspondan al ejercicio notarial del mismo año;
 
 g). Dejar de ejercer o abandonar sus funciones sin causa o justificación alguna;
 
@@ -1117,7 +1117,7 @@ i). Haber sido condenado por sentencia ejecutoriada por delito intencional;
 
 j). Por renuncia expresa; y,
 
-k). Por ejercer la función notarial encontrándose incurso (sic) en alguna de las causas de impedimento señaladas en el artículo 16.
+k). Por ejercer la función notarial encontrándose incurso en alguna de las causas de impedimento señaladas en el artículo 16.
 
 Cuando la determinación del incumplimiento de la obligación requiera de una declaración judicial previa, la sanción administrativa se impondrá cuando cause estado la sentencia que determine el incumplimiento.
 
@@ -1149,15 +1149,17 @@ El visitador notarial designado para intervenir en la clausura de un protocolo h
 
 El inventario indicado se levantará con la intervención del notario regularizador, del notario cesado, en su caso, y de un representante del Colegio de Notarios del Estado.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE JUNIO DE 2009 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### Artículo 146.
 
-El notario que reciba una notaría cuyo titular dejare de serlo por las causas previstas en esta ley, deberá hacerlo siempre por riguroso inventario, en la forma prevista en el artículo 145; y con la asistencia de un visitador notarial designado al efecto por la Secretaría de Gobierno. De dicha entrega y recepción se levantará y firmará un acta por triplicado, quedando un ejemplar en poder del Archivo General de Notarías, otro se remitirá a la Secretaría de Gobierno y el tercero quedará en poder del notario que reciba.
+El notario que reciba una notaría cuyo titular dejare de serlo por las causas previstas en esta ley, deberá hacerlo siempre por riguroso inventario, en la forma prevista en el artículo 145, y con la asistencia de un visitador notarial designado al efecto por la Secretaría de Gobierno. De dicha entrega y recepción se levantará y firmará un acta por triplicado, quedando un ejemplar en poder del Archivo General de Notarías, otro se remitirá a la Secretaría de Gobierno y el tercero quedará en poder del notario que reciba.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE JUNIO DE 2009 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 16 DE JUNIO DE 2009)</small>
 
-### Capítulo VIII (sic). Del Archivo General de Notarías
+### Capítulo VII. Del Colegio de Notarios
+
+> <small>(F. DE E., P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### Artículo 147.
 
@@ -1189,9 +1191,11 @@ X. Crear y administrar un fondo económico para los casos de retiro voluntario o
 
 XI. Ejercer los demás derechos y obligaciones que les señalen ésta y otras leyes y reglamentos.
 
+### Capítulo VIII. Del Archivo General de Notarías
+
 ###### Artículo 149.
 
-Habrá en el Estado un Archivo General de Notarías, que se organizará como una sección dependiente del Registro Público de la Propiedad y de Comercio, cuyo funcionamiento se regirá por las disposiciones reglamentarias que al efecto se emitan.
+Habrá en el Estado un Archivo General de Notarías, que se organizará como una sección dependiente del Registro Público de la Propiedad y de Comercio ,cuyo funcionamiento se regirá por las disposiciones reglamentarias que al efecto se emitan.
 
 ###### Artículo 150.
 
