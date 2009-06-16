@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2008-07-22"
+last_updated: "2009-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -81,9 +81,11 @@ IV. Los convenios y acuerdos que celebren los Municipios con el Gobierno del Est
 
 V. Los reglamentos, bandos, acuerdos, circulares, disposiciones administrativas de observancia general, dentro de sus respectivas jurisdicciones, que expidan los Ayuntamientos conforme a la Ley.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 7.
 
-El Gobernador del Estado tendrá el mando de la fuerza pública en los Municipios donde residiere habitual o transitoriamente.
+El Gobernador del Estado tendrá el mando de la fuerza pública en los Municipios, en los términos y modalidades previstas en la fracción VII del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 8.
 
@@ -355,7 +357,9 @@ III. Prestar auxilio a las autoridades cuando sean requeridos para ello;
 
 IV. Inscribirse en los padrones determinados por las leyes y reglamentos;
 
-V. Contribuir en todas las tareas de desarrollo político, económico, social y en las emergencias y desastres que afecten la vida municipal;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+
+V. Contribuir en todas las tareas de desarrollo político, económico, social y en las actividades de prevención social de delito, emergencias y desastres naturales;
 
 VI. Votar en las elecciones en los términos que señalen la Constitución General de la República, la Constitución Política del Estado de Guerrero, y las leyes de la materia, así como en los métodos y procedimientos de consulta popular que se implementen, y
 
@@ -387,7 +391,9 @@ II. Oficial Mayor o Jefe de la Administración;
 
 III. Tesorero;
 
-IV. Jefe de Seguridad Pública;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+
+IV. Jefe de Seguridad Pública, quien deberá reunir los requisitos previstos en la Ley de Seguridad Pública del Estado de Guerrero, además de ser previamente evaluado, capacitado y certificado por las estancias estatales competentes;
 
 V. Jefe de Obras Públicas, y
 
@@ -411,9 +417,21 @@ Los presidentes municipales, síndicos y demás regidores de elección popular d
 
 Quienes por nombramiento o designación de parte de una autoridad desempeñen las funciones propias de tales cargos, independientemente de la denominación que se les dé, no podrán ser electos para el período inmediato. Estos servidores públicos, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el cargo de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios a menos que hubieren sustituido o suplido a los propietarios.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 33.
 
-El Ayuntamiento deberá verificar, antes de expedir el nombramiento del Jefe de la Policía y sus principales colaboradores, que en el expediente que funde la propuesta, figuren una constancia de la Procuraduría General de Justicia, de la inexistencia de antecedentes penales, y otras del registro de miembros de corporaciones policiacas, que acredite su adecuado desempeño.
+El Ayuntamiento deberá verificar, antes de aprobar el nombramiento del Jefe de la Policía y sus principales colaboradores, que en el expediente que funde la propuesta figure constancia de:
+
+I. Evaluación, capacitación y certificación por las instancias estatales competentes;
+
+II. Inexistencia de antecedentes penales;
+
+III. Consulta a los registros estatales y federales de personal de seguridad pública que acredite su adecuado desempeño, que emitirá el Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública; y
+
+IV. El cumplimiento de los requisitos que señala la Ley de Seguridad Pública del Estado de Guerrero.
+
+Sin el cumplimiento da los requisitos descritos, los ayuntamientos no podrán aprobar el nombramiento del titular o jefe de la policía, y la contravención a este artículo, se equiparará al delito previsto en la fracción VIII del artículo 243 del Código Penal del Estado de Guerrero.
 
 ###### ARTICULO 34.
 
@@ -687,7 +705,9 @@ III. Expedir su reglamento interior y los relativos a la administración municip
 
 IV. Vigilar que los establecimientos de reclusión de los infractores de los bandos de policía y buen gobierno reúnan las condiciones de seguridad, higiene y moralidad y que se dé un trato digno a los reclusos infractores;
 
-V. Vigilar que la intervención de los cuerpos de policía en los casos de infracciones cometidas por menores de edad, se limite a ponerlos inmediatamente a disposición del Consejo Tutelar para Menores Infractores;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+
+V. Vigilar que la intervención de los elementos policiales en los casos de infracciones cometidas por menores de edad, se limite a ponerlos inmediatamente a disposición de la autoridad competente;
 
 VI. Mantener la tranquilidad, la seguridad y orden público dentro del Municipio;
 
@@ -1037,9 +1057,19 @@ IV. Retener o invertir para fines distintos a los señalados las aportaciones qu
 
 V. Contratar como Servidores Públicos del Municipio a los parientes hasta en cuarto grado de consanguinidad en línea recta o colateral, o afinidad del Presidente Municipal o de empleados designados por el Ayuntamiento;
 
-VI. Fijar sueldos a los Servidores Públicos Municipales en base al porcentaje sobre ingresos recaudados, y
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
-VII. Establecer exenciones o subsidios respecto de las contribuciones establecidas en las leyes aplicables en favor de las personas físicas o morales y de instituciones públicas o privadas.
+VI. Fijar sueldos a los servidores públicos municipales en base al porcentaje sobre ingresos recaudados;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+
+VII. Nombrar al Jefe de Seguridad Pública o de la Policía, sin que reúna los requisitos previstos en esta Ley y demás disposiciones aplicables.
+
+Así mismo, quedará prohibido a los ayuntamientos contratar como policía a cualquier persona que no esté debidamente certificada y registrada en el Sistema Nacional y Estatal de Seguridad Pública; y
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2009)</small>
+
+VIII. Establecer exenciones o subsidios respecto de las contribuciones establecidas en las leyes aplicables en favor de las personas físicas o morales y de instituciones públicas o privadas.
 
 ###### ARTICULO 71.
 
@@ -1161,7 +1191,9 @@ X. Revisar y autorizar los cortes de caja de la Tesorería Municipal;
 
 XI. Asistir a las visitas de inspección o auditoría que se practique a la Tesorería Municipal o a sus oficinas recaudadoras;
 
-XII. Vigilar la organización y funcionamiento de los centros de readaptación social y de todo centro de reclusión o arresto que dependa directamente del Municipio;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+
+XII. Vigilar la organización y funcionamiento de los centros de reclusión o arresto que dependan directamente del municipio;
 
 XIII. Practicar, como auxiliar del Ministerio Público, las primeras diligencias penales remitiendo la documentación al Agente del Ministerio Público que corresponda dentro de las veinticuatro horas siguientes;
 
@@ -1185,7 +1217,7 @@ XXII. Regularizar los bienes muebles e inmuebles propiedad del Municipio;
 
 XXIII. Verificar que los servidores públicos municipales cumplan con las obligaciones derivadas de la Ley de Responsabilidades de los Servidores Públicos;
 
-XXIV. No ausentarse más de tres días de su Municipio cada mes sin autorización del Ayuntamiento; y no más de cinco días al mes sin la del Congreso, comunicándose previamente lo anterior al Ejecutivo del Estado, y
+XXIV. No ausentarse más de tres días de su Municipio cada mes sin autorización del Ayuntamiento; y no más de cinco días al mes sin la del Congreso, comunicándose previamente lo anterior al Ejecutivo del Estado, y (sic)
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
@@ -1413,7 +1445,9 @@ VII. Refrendar todos los documentos oficiales emanados del Ayuntamiento;
 
 VIII. Promover el establecimiento y operación de comités ciudadanos y brindarles asistencia técnica;
 
-IX. Expedir las copias, credenciales y certificaciones que acuerde el Ayuntamiento, y
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+
+IX. Expedir las copias y certificaciones que acuerde el Ayuntamiento, así como las credenciales a los servidores públicos del Ayuntamiento, excepto las de los miembros de las instituciones policiales que estarán sujetas a la definición del formato que fijen las instancias estatales; y
 
 X. Proponer el nombramiento de los servidores públicos de la Secretaría.
 
@@ -2529,7 +2563,9 @@ I.- Prestar los servicios que le sean delegados por los Ayuntamientos y/o el Gob
 
 II.- Realizar actividades en relación al catastro y las de carácter impositivo;
 
-III.- Llevar a cabo funciones de policía y buen gobierno, así como cuidar la seguridad pública;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+
+III.- Llevar a cabo funciones de policía y gobierno y seguridad pública, en los términos de las leyes respectivas;
 
 IV.- Actuar como autoridad auxiliar del Gobierno del Estado y Gobierno Federal;
 
@@ -3198,3 +3234,35 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Remítase el presente Decreto al Titular del Ejecutivo del Estado para los efectos legales conducentes.
+
+P.O. 16 DE JUNIO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero, salvo lo previsto en los artículos transitorios siguientes.
+
+SEGUNDO.- El actual Consejo Estatal de Seguridad Pública, deberá reestructurarse conforme a las bases previstas en el presente Decreto, en un plazo no mayor a treinta días naturales, contados a partir de la vigencia de este Decreto.
+
+TERCERO.- Los asuntos en trámite derivados de los acuerdos y convenios de coordinación, deberán ejecutarse y cumplirse de conformidad con los lineamientos, modalidades e instituciones previstas en este Decreto.
+
+CUARTO.- Las disposiciones reglamentarias que se deriven del presente decreto, se expedirán dentro del plazo no mayor a ciento ochenta días naturales.
+
+QUINTO.- Los recursos humanos, materiales y financieros, con que cuente el Centro Estatal de Evaluación, Certificación y Credencialización, se entenderán conferidos al Centro Estatal de Evaluación y Control de Confianza.
+
+SEXTO.- Las referencias que se aluden a la Academia de Capacitación, Formación y de Profesionalización, se entenderán referidas al Instituto de Formación y Capacitación Policial, existente.
+
+SÉPTIMO.- La Contraloría General del Estado, la Secretaría de Finanzas y Administración y la Secretaría de Seguridad Pública y Protección Civil, en un plazo no mayor de sesenta días naturales, a partir de la vigencia de este decreto, dispondrán de los mecanismos y medidas .administrativas presupuestales, de programación y transferencia necesarias para la implementación y desarrollo de los sistemas de administración financiera y de personal, de logística y de servicios generales, para los Sistemas Estatales de Seguridad Pública y Protección Civil; mismos que deberán proveerse para su implementación en el ejercicio fiscal 2010.
+
+OCTAVO.- El Centro Estatal de Evaluación y Control de Confianza expedirá los certificados a los miembros de las instituciones de seguridad pública, una vez que sea certificado por el Centro Nacional de Certificación y Acreditación, mientras tanto continuará aplicando los procedimientos de evaluación y control de confianza, conforme a los parámetros y mecánica operativa definida por el Sistema Nacional de Seguridad Pública.
+
+NOVENO.- Los procedimientos de carrera policial que se encuentran vigentes en las instituciones policiales del Estado y los Municipios, deberán ajustarse de inmediato a los procedimientos que se definen en este Decreto.
+
+DÉCIMO.- Las Comisiones del Servicio Profesional de Carrera y de Honor y Justicia, de las instituciones policiales del Estado y los Municipios, deberán instalarse o ajustarse según sea el caso, en un plazo no mayor de noventa días naturales a partir de la entrada en vigor de este Decreto.
+
+DÉCIMO PRIMERO.- Los asuntos que actualmente se encuentran en trámite ante los Consejos o Comisiones de Honor y Justicia y los que se inicien con anterioridad a la vigencia de este Decreto, deberán substanciarse y resolverse conforme las disposiciones vigentes al momento en que se suscitaron los hechos que los motivaron.
+
+DÉCIMO SEGUNDO.- Los Ayuntamientos, deberán alinear la organización, operación y procedimientos de sus Instituciones de Seguridad Pública , así como emitir o adecuar sus reglamentos en esta materia, a las bases que se consignan en este Decreto, en un término no mayor a noventa días hábiles, a partir de la publicación del mismo.
+
+DÉCIMO TERCERO.- Sin perjuicio de las bases previstas en el presente Decreto, las instituciones del Cuerpo de Policía Estatal, podrán organizarse de acuerdo a sus capacidades y necesidades administrativas, operativas y presupuestales, siempre que no contravengan imperativos categóricos ordenados en este Decreto que desvirtúen el objetivo y alcance de sus disposiciones.
+
+DÉCIMO CUARTO.- Se derogan todas aquellas disposiciones contenidas en leyes, reglamentos, decretos y acuerdos, que se opongan o que ya se contengan en este decreto.
+
+DÉCIMO QUINTO.- Remítase al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación en el Periódico Oficial del Gobierno del Estado.
