@@ -4,7 +4,7 @@ identifier: "GRO-codigo-de-procedimientos-contenciosos-administrativos-del-38444
 country: "mx"
 rank: "codigo"
 publication_date: "2004-03-09"
-last_updated: "2004-03-09"
+last_updated: "2009-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO DE PROCEDIMIENTOS CONTENCIOSOS ADMINISTRATIVOS DEL ESTADO DE GUERRERO, NUMERO 215
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el martes 9 de marzo de 2004.
 
@@ -1055,6 +1055,10 @@ Las sentencias que declaren la invalidez del acto impugnado precisarán la forma
 
 De ser fundada la demanda, en la sentencia se declarará la nulidad del acto impugnado, se le dejará sin efecto y se fijará el sentido de la resolución que deba dictar la autoridad responsable, para otorgar o restituir al actor en el goce de los derechos indebidamente afectados o desconocidos.
 
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2009)</small>
+
+Hecha excepción de lo dispuesto en la fracción XIII del artículo 123 constitucional respecto de los Agentes del Ministerio Público, los Peritos y los miembros de las Instituciones Policiales del Estado y los Municipios, que hubiesen promovido juicio o medio de defensa en el que la autoridad jurisdiccional resuelva que la separación, remoción, baja, cese, destitución o cualquier otra forma de terminación del servicio fue injustificada; casos en los que la autoridad demandada sólo estará obligada a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda la reincorporación o reinstalación al servicio.
+
 ### CAPITULO IV. De la excitativa de justicia en el juicio
 
 ###### ARTICULO 133.
@@ -1434,3 +1438,37 @@ El Secretario General de Gobierno.
 C. MAYOR LUIS LEON APONTE.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 16 DE JUNIO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero, salvo lo previsto en los artículos transitorios siguientes.
+
+SEGUNDO.- El actual Consejo Estatal de Seguridad Pública, deberá reestructurarse conforme a las bases previstas en el presente Decreto, en un plazo no mayor a treinta días naturales, contados a partir de la vigencia de este Decreto.
+
+TERCERO.- Los asuntos en trámite derivados de los acuerdos y convenios de coordinación, deberán ejecutarse y cumplirse de conformidad con los lineamientos, modalidades e instituciones previstas en este Decreto.
+
+CUARTO.- Las disposiciones reglamentarias que: se deriven del presente decreto, se expedirán dentro del plazo no mayor a ciento ochenta días naturales.
+
+QUINTO.- Los recursos humanos, materiales y financieros, con que cuente el Centro Estatal de Evaluación, Certificación y Credencialización, se entenderán conferidos al Centro Estatal de Evaluación y Control de Confianza.
+
+SEXTO.- Las referencias que se aluden a la Academia de Capacitación, Formación y de Profesionalización, se entenderán referidas al Instituto de Formación y Capacitación Policial, existente.
+
+SÉPTIMO.- La Contraloría General del Estado, la Secretaría de Finanzas y Administración y la Secretaría de Seguridad Pública y Protección Civil, en un plazo no mayor de sesenta días naturales, a partir de la vigencia de este decreto, dispondrán de los mecanismos y medidas .administrativas presupuestales, de programación y transferencia necesarias para la implementación y desarrollo de los sistemas de administración financiera y de personal, de logística y de servicios generales, para los Sistemas Estatales de Seguridad Pública y Protección Civil; mismos que deberán proveerse para su implementación en el ejercicio fiscal 2010.
+
+OCTAVO.- El Centro Estatal de Evaluación y Control de Confianza expedirá los certificados a los miembros de las instituciones de seguridad pública, una vez que sea certificado por el Centro Nacional de Certificación y Acreditación, mientras tanto continuará aplicando los procedimientos de evaluación y control de confianza, conforme a los parámetros y mecánica operativa definida por el Sistema Nacional de Seguridad Pública.
+
+NOVENO.- Los procedimientos de carrera policial que se encuentran vigentes en las instituciones policiales del Estado y los Municipios, deberán ajustarse de inmediato a los procedimientos que se definen en este Decreto.
+
+DÉCIMO.- Las Comisiones del Servicio Profesional de Carrera y de Honor y Justicia, de las instituciones policiales del Estado y los Municipios, deberán instalarse o ajustarse según sea el caso, en un plazo no mayor de noventa días naturales a partir de la entrada en vigor de este Decreto.
+
+DÉCIMO PRIMERO.- Los asuntos que actualmente se encuentran en trámite ante los Consejos o Comisiones de Honor y Justicia y los que se inicien con anterioridad a la vigencia de este Decreto, deberán substanciarse y resolverse conforme las disposiciones vigentes al momento en que se suscitaron los hechos que los motivaron.
+
+DÉCIMO SEGUNDO. - Los Ayuntamientos, deberán alinear la organización, operación y procedimientos de sus Instituciones de Seguridad Pública , así como emitir o adecuar sus reglamentos en esta materia, a las bases que se consignan en este Decreto, en un término no mayor a noventa días hábiles, a partir de la publicación del mismo.
+
+DÉCIMO TERCERO.- Sin perjuicio de las bases previstas en el presente Decreto, las instituciones del Cuerpo de Policía Estatal, podrán organizarse de acuerdo a sus capacidades y necesidades administrativas, operativas y presupuestales, siempre que no contravengan imperativos categóricos ordenados en este Decreto que desvirtúen el objetivo y alcance de sus disposiciones.
+
+DÉCIMO CUARTO.- Se derogan todas aquellas disposiciones contenidas en leyes, reglamentos, decretos y acuerdos, que se opongan o que ya se contengan en este decreto.
+
+DÉCIMO QUINTO.- Remítase al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación en el Periódico Oficial del Gobierno del Estado.
