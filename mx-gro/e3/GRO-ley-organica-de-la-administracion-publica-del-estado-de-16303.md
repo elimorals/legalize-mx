@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-administracion-publica-del-estado-de-16303"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-10-12"
-last_updated: "2007-03-30"
+last_updated: "2009-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE GUERRERO NUMERO 433
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 12 de octubre de 1999.
 
@@ -547,113 +547,95 @@ XVII.- Establecer y operar un sistema de seguimiento de programas federales rela
 
 XVIII.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 24.
 
-La Secretaría de Seguridad Pública y Protección Civil, es el órgano encargado de conducir y proporcionar los servicios de seguridad pública en el ámbito de su competencia; protección civil; prevención y readaptación social, asistencia y apoyo a reos liberados; de coadyuvar en el diseño e implantación de las políticas estatales en materia criminal y de prevención del delito, fundando sus acciones en la integridad y derechos de las personas, en la preservación de las libertades y la paz pública y el respeto a los derechos humanos, correspondiéndole el despacho de los asuntos siguientes:
+La Secretaría de Seguridad Pública y Protección Civil, es la dependencia de coordinación global del Sistema de Seguridad Estatal, correspondiéndole como órgano da la administración pública estatal centralizada, la conducción y ejercicio de las funciones y servicios de seguridad pública; protección civil; transito estatal; sistema penitenciario y tratamiento de adolescentes.
 
-I.- Coordinarse con las instancias Federales, Estatales y Municipales, dentro del Sistema Nacional de Seguridad Pública, para cumplir los objetivos y fines en la materia, así como participar en la integración de las instancias, instrumentos, políticas, servicios y acciones, tendientes a cumplir dichos objetivos y fines, en los términos que dispongan los ordenamientos jurídicos aplicables;
+Así también es el órgano responsable de coadyuvar en el diseño e implantación de las políticas estatales en, materia criminal y de prevención del delito, fundando sus acciones en la integridad y derechos de las personas, en la preservación de las libertades, la paz pública y el respeto a los derechos humanos, correspondiéndole el despacho de los asuntos siguientes:
 
-II.- Proponer y ejecutar, los programas relativos a la protección de los habitantes, la conservación del orden público y la prevención de los delitos;
+I.- Coordinarse con las instancias Federales, Estatales y Municipales, a fin de integrar el Sistema Nacional de Seguridad Pública, para cumplir los objetivos y fines en la materia, así como participar en la integración de las instancias, instrumentos, políticas, servicios y acciones, tendientes a cumplir dichos objetivos y fines, en los términos, que dispongan los ordenamientos jurídicos aplicables;
 
-III.- Diseñar, implantar y evaluar instrumentos y programas de educación preventiva y de organización vecinal para la prevención del delito, apoyándose en medios eficaces de promoción y comunicación masiva;
+II.- Estructurar y desarrollar las políticas públicas en el estado en materia de seguridad pública; protección civil; transito estatal; sistema Penitenciario y tratamiento de adolescentes, así como proponer y ejecutar, los programas relativos a la protección de los habitantes, la conservación del orden público y la prevención de los delitos;
 
-IV.- Proponer al Titular del Ejecutivo del Estado y, en su caso, aplicar en el ámbito de su competencia, las políticas y medidas que permitan que el personal de las instituciones de seguridad pública del Estado se conduzcan con apego a los principios de legalidad, eficiencia, profesionalismo y honradez;
+III- Impulsar las medidas que garanticen la congruencia da la política criminal entre las dependencias de la administración pública estatal y los municipios del estado, así como diseñar, implantar y evaluar instrumentos y programas de educación preventiva y de organización vecinal para la prevención del delito, apoyándose en medios eficaces de promoción y comunicación masiva;
 
-V.- Participar en la integración de los instrumentos de información del Sistema Nacional de Seguridad Pública; proporcionar los informes correspondientes a los Registros Nacionales de Personal de Seguridad Pública y de Equipo, que le sean solicitados, y contribuir a la integración de la Base Nacional de Datos sobre Personas Probables Responsables de Delitos;
+IV.- Garantizar en el ámbito da su competencia, las políticas y medidas que permitan que el personal de las instituciones da seguridad pública del estado, se conduzcan con apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos;
 
-VI.- Garantizar y mantener la seguridad, el orden público y la vialidad, así como coadyuvar en el diseño, implantación y evaluación de la política criminal del Estado;
+V. - Conducir la participación de las áreas correspondientes para la integración de los instrumentos de información del Sistema Nacional de Seguridad Pública; la proporción (sic) los informes correspondientes a los Registros Nacionales de Personal de Seguridad Pública y de Equipo, que le sean solicitados, y supervisar la contribución de las dependencias correspondientes para la integración de la información al Sistema Único de Información Criminal;
 
-VII.- Prevenir la comisión de delitos y de infracciones a disposiciones jurídicas gubernativas y de policía, protegiendo a las personas en su integridad física, propiedades y derechos;
+VI.- Organizar, administrar, supervisar y regir el funcionamiento de la Policía Estatal, bajo los principios a que se refiere la fracción IV, así como garantizar y mantener la seguridad, el orden público y la vialidad, coadyuvando en el diseño, implantación y evaluación de la política criminal del Estado;
 
-VIII.- Auxiliar, dentro del marco legal, al Ministerio Público y a las autoridades judiciales y administrativas, cuando sea requerida para ello;
+VII.- Estructurar la estrategias para prevenir la comisión de delitos y de infracciones a disposiciones jurídicas gubernativas y de policía, focalizándolas en la protección de las personas en su integridad física, propiedades y derechos;
 
-IX.- Detener en los casos de delito flagrante al indiciado y a los copartícipes, poniéndolos inmediatamente a disposición de la autoridad competente, en especial tratándose de menores presuntos infractores;
+VIII.- Auxiliar, dentro del marco legal, al Ministerio Público y a las autoridades judiciales y administrativas, cuando sea requerida legalmente para ello;
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
+IX.- Instituir, operar y desarrollar sus propios sistemas de administración presupuesta! y de recursos humanos; logístico y de servicios generales para la atención inmediata y eficaz de los servicios enmarcados en los sistemas de seguridad pública y protección civil, los que deberán ajustarse a los lineamientos que al efecto emitan las dependencias de coordinación global.
 
-X.- Someter a la consideración y aprobación del Gobernador del Estado, el Reglamento de Policía Preventiva Estatal y de todos aquellos cuerpos que complementaria o transitoriamente desempeñen funciones policiales en el Estado, por mandato expreso de la ley, de acuerdos y convenios o de los reglamentos; así como los proyectos de leyes, reglamentos y decretos, respecto de los asuntos de su competencia, y vigilar su debido cumplimiento;
+Para efectos del párrafo anterior, los servicios deberán comprender, servicios .de apoyo administrativo en materia de planeación, programación, presupuesto, informática y estadística, recursos humanos, contabilidad, fiscalización, archivos y los demás que sean necesarios para la satisfacción de las necesidades y requerimientos que demanden el cumplimiento permanente de sus atribuciones;
 
-XI.- Conceder autorizaciones a los particulares que presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos de bienes o valores, incluido su traslado, cuando los servicios se presten sólo en el territorio de la Entidad, sin perjuicio de cumplir con las disposiciones establecidas por la Ley Federal de Armas de Fuego y Explosivos y de acuerdo con los requisitos y condiciones para la prestación del servicio, la denominación, los mecanismos para su supervisión, y las causas y procedimientos para determinar sanciones, establecidos por las Leyes y Reglamentos aplicables;
+X.- Someter a la consideración y aprobación del Gobernador del Estado, los proyectos de leyes, reglamentos, acuerdos, decretos y demás disposiciones que permitan organizar y operar a la Policía Estatal y a todos aquellos cuerpos que, complementaria o transitoriamente desempeñen funciones policiales en el Estado, por mandato, expreso de la ley, de acuerdos, convenios o reglamentos;
 
-XII.- Cuidar la observancia de las leyes y reglamentos referentes a la seguridad pública, así como el tránsito de vehículos y peatones en la vía pública, competencia del Estado, coordinando sus actividades con las autoridades facultadas en la materia, según el caso;
+XI.- Supervisar y conceder autorizaciones a los particulares que presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimiento de bienes o valores, incluido su traslado, cuando los servicios se presten sólo en el territorio de la Entidad; sin perjuicio de cumplir con las disposiciones establecidas por la Ley Federal de Armas de Fuego y Explosivos y de acuerdo con los requisitos y condiciones para la prestación del servicio, la denominación, los mecanismos para su supervisión, las causas y procedimientos para determinar sanciones, establecidos por las Leyes y Reglamentos aplicables;
 
-XIII.- Vigilar el tránsito en las vías públicas y caminos de jurisdicción estatal, en los términos que señalen las leyes y los reglamentos;
+XII.- Formular proyectos de leyes, reglamentos y decretos en el ámbito de su competencia, cuidar la observancia de las leyes y reglamentos vigentes referentes a la seguridad pública, así como el tránsito de vehículos y peatones en la vía pública, competencia del Estado, coordinando sus actividades con las autoridades facultadas en la materia, según el caso;
 
-XIV.- Formular y ejecutar los programas de readaptación social de los internos en los centros de readaptación social del Estado;
+XIII.- Emitir políticas de control y vigilancia en materia de transito en las vías públicas y caminos de jurisdicción estatal, así como impulsar de manera coordinada la homologación del servicio en los municipios, en los términos que señalen las leyes y los reglamentos;
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
+XIV.- Administrar el sistema penitenciario estatal y el de tratamiento de adolescentes, formulando y ejecutando al efecto, los programas de reinserción social de los internos en los centros penitenciarios del Estado;
 
-XV.- Promover el establecimiento y vigilar la debida operación de las instituciones encargadas de la ejecución de las medidas que impongan los jueces especializados para el tratamiento de los adolescentes, cumpliendo las disposiciones de los jueces de ejecución, en los términos de la Ley de Justicia para Adolescentes;
+XV.- Promover el establecimiento, administración y vigilancia para la debida operación de las instituciones encargadas de la ejecución de las medidas que impongan los jueces especializados para el tratamiento de los adolescentes, cumpliendo las disposiciones de los jueces de ejecución, en los términos de la Ley de Justicia para Adolescentes;
 
-XVI.- Administrar los Centros de Readaptación Social y acordar las solicitudes de libertad anticipada y traslado de reos;
+XVI.- Administrar los Centros de Reinserción Social y acordar las solicitudes de traslado de reos;
 
-XVII.- Dar seguimiento y asistencia a sentenciados liberados, preliberados o que deban ejecutar algún sustitutivo penal, para su eficaz reinserción en la sociedad;
+XVII.- Emitir programas de seguimiento y asistencia a sentenciados liberados, preliberados o que deban ejecutar algún sustitutivo penal, para su eficaz reinserción en la sociedad;
 
-XVIII.- Tramitar, por acuerdo del Gobernador, las solicitudes de extradición, amnistía, indulto y las demás que le concedan las Leyes y Reglamentos;
+XVIII.- Tramitar y resolver, por acuerdo del Gobernador, las solicitudes de extradición, amnistía, indulto y las demás que le concedan las Leyes y Reglamentos;
 
-XIX.- Proponer al Gobernador del Estado y ejecutar, en su caso, los programas relativos a la protección de los habitantes;
+XIX.- Diseñar y proponer al Gobernador del Estado y ejecutar, en su caso, los programas relativos a la protección de los habitantes;
 
-XX.- Intervenir, en auxilio y coordinación con las autoridades federales, estatales y municipales, en los términos que dispongan los ordenamientos jurídicos aplicables, en materia de prevención, combate y extinción de catástrofes y siniestros;
+XX.- Estructurar Programas de Intervención, auxilio y coordinación con las autoridades federales, estatales y municipales, en los términos que dispongan los ordenamientos jurídicos aplicables, en materia de prevención, combate y extinción de catástrofes y siniestros;
 
-XXI.- Otorgar la protección y el auxilio necesarios a la población, en casos de catástrofe o siniestro;
+XXI.- Emitir los lineamientos necesarios para otorgar la protección y el auxilio necesario a la población, en casos de catástrofe o siniestro;
 
-XXII.- Diseñar e implantar un sistema de selección, reclutamiento, profesionalización, capacitación y evaluación de los elementos que integren los diferentes cuerpos policiales, de personal de los Centros de Readaptación Social, y del Albergue Tutelar, para el debido cumplimiento de los principios de legalidad, eficiencia, profesionalismo y honradez. Se hará lo propio con los elementos de protección civil;
+XXII.- Diseñar e implantar un sistema de selección, ingreso, formación, promoción, actualización, capacitación, permanencia, evaluación, reconocimiento, certificación, profesionalización y registro de los elementos que integren las diferentes áreas o especialidades de policía, así como de los demás servidores públicos que integren a la a la (sic) dependencia, para el debido cumplimiento de los principios de legalidad, Objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos. Asimismo, podrá emitir las normas técnicas relativas a los instrumentos, equipos, instalaciones y recursos en general, que se destinen a los servidores públicos mencionados;
 
-Asimismo, podrá emitir las normas técnicas relativas a los instrumentos, equipos, instalaciones y recursos en general, que se destinen a los servidores públicos mencionados;
+XXIII.- Establecer, operar y desarrollar la red estatal de telecomunicaciones, así como coordinar las funciones de la Unidad de telecomunicaciones del Gobierno del Estado;
 
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+XXIV.- Llevar las estadísticas de seguridad pública, tránsito, reinserción social, tratamiento de adolescentes y protección civil, que correspondan;
 
-XXII bis.- Coordinar las funciones de la Unidad de telecomunicaciones del Gobierno del Estado;
+XXV.- Promover el establecimiento para la determinación de mecanismos de participación de la sociedad en la planeación y supervisión de la seguridad pública;
 
-XXIII.- Llevar las estadísticas de seguridad pública, tránsito, readaptación social y protección civil, que correspondan;
+XXVI.- Coordinarse con el Comité de Planeación para el Desarrollo del Estado, para establecer y operar un sistema de seguimiento de los programas federales conforme a lo que las leyes y acuerdos de coordinación establezcan;
 
-XXIV.- Promover el establecimiento de mecanismos para que la sociedad participe en la planeación y supervisión de la seguridad pública;
+XXVII.- Coordinar las acciones del Consejo Estatal de Seguridad Pública y del secretariado ejecutivo, así como la elaboración de planes y programas en la materia;
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2002)</small>
+XXVIII.- Proponer al Gobernador del Estado el nombramiento del Comisionado de la Policía Estatal, así como impulsar el servicio de carrera para la profesionalización del cuerpo de policía estatal;
 
-XXV.- Establecer y operar un sistema de seguimiento de los programas federales conforme a lo que las leyes y acuerdos de coordinación establezcan y en congruencia con el Comité de Planeación para el Desarrollo del Estado;
+XXIX.- Celebrar y suscribir los actos jurídicos; contratos, convenios, así como otorgar poderes de representación y demás documentos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por otras disposiciones;
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
+XXX.- Regular técnicamente el servicio de transito en el Estado y proyectar la elaboración de los estudios necesarios sobre tránsito de vehículos, en las vías de jurisdicción estatal, a fin de lograr una mejor utilización de las mismas y demás medios de transporte correspondientes, que conduzca a la más eficaz protección de la vida, y a la seguridad, comodidad y rapidez en el transporte de personas y de carga;
 
-XXV Bis.- Coordinar las acciones del Consejo Estatal de Seguridad Pública, así como la elaboración de planes y programas en la materia;
+XXXI.- Emitir lineamientos para actualizar la normatividad del señalamiento de las carreteras estatales, así como la de los dispositivos de control de tránsito;
 
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
+XXXII.- Impulsar y determinar las acciones encaminadas a mejorar la vialidad en lo referente a la materia de ingeniería de tránsito;
 
-XXVI.- Normar el servicio de carrera para la profesionalización del cuerpo de policía estatal;
+XXXIII.- Elaborar y ejecutar los Programas Estatales de Seguridad Pública y Protección Civil, en coordinación con las autoridades competentes y vinculadas en la materia;
 
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
+XXXIV.- Inspeccionar las medidas de seguridad en materia de protección civil y aplicar las sanciones que procedan por violación a las leyes y reglamentos de la materia;
 
-XXVII.- Celebrar y suscribir los actos jurídicos; contratos, convenios, así como otorgar poderes de representación y demás documentos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por la normatividad aplicables.
+XXXV.- Realizar estudios multidisciplinarios y estadísticas sobre las causas y efectos del fenómeno delictivo y difundirlos entre la sociedad;
 
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
+XXXVI.- Impulsar las acciones que sean necesarias para estructurar y materializar las políticas de seguridad integral en el Estado;
 
-XXVIII.- Proyectar la elaboración de los estudios necesarios sobre tránsito de vehículos, en las vías de jurisdicción estatal, a fin de lograr una mejor utilización de las mismas y demás medios de transporte correspondientes, que conduzca a la más eficaz protección de la vida, y a la seguridad, comodidad y rapidez en el transporte de personas y de carga;
+XXXVII.- Emitir acuerdos y disposiciones administrativas en el ámbito de su competencia, así como formular y expedir los manuales de organización, de procedimientos y de servicios al público que sean necesarios para la operación y funcionamiento de la dependencia;
 
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
+XXXVIII.- Impulsar el establecimiento de sistemas complementarios de seguridad social para los miembros de las instituciones de seguridad pública;
 
-XXIX.- Actualizar la normatividad del señalamiento de las carreteras estatales, así como la de los dispositivos de control de tránsito;
+XXIX.- Administrar la Licencia Oficial Colectiva, y supervisar y controlar su uso conforme las disposiciones de la materia; y
 
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
-
-XXX.- Determinar las acciones encaminadas a mejorar la vialidad en lo referente a la materia de ingeniería de tránsito;
-
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
-
-XXXI.- Elaborar y ejecutar el Programa Estatal de Protección Civil, en coordinación con las autoridades competentes en la materia;
-
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
-
-XXXII.- Vigilar y aplicar las medidas de seguridad y sanciones en materia de protección civil;
-
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
-
-XXXIII.- Conocer, substanciar y resolver los recursos administrativos interpuestos contra actos y resoluciones que emitan el Titular y sus subalternos en el ejercicio de sus funciones, con excepción de aquellos que sean competencia de la Contraloría General del Estado; y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE MARZO DE 2007)</small>
-
-XXXIV.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
+XL.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
 
 ###### ARTICULO 25.
 
@@ -1526,3 +1508,35 @@ P.O. 30 DE MARZO DE 2007.
 PRIMERO.- El presente Decreto Parlamentario entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Remítase al presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento, efectos legales procedentes y publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE JUNIO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero, salvo lo previsto en los artículos transitorios siguientes.
+
+SEGUNDO.- El actual Consejo Estatal de Seguridad Pública, deberá reestructurarse conforme a las bases previstas en el presente Decreto, en un plazo no mayor a treinta días naturales, contados a partir de la vigencia de este Decreto.
+
+TERCERO.- Los asuntos en trámite derivados de los acuerdos y convenios de coordinación, deberán ejecutarse y cumplirse de conformidad con los lineamientos, modalidades e instituciones previstas en este Decreto.
+
+CUARTO.- Las disposiciones reglamentarias que: se deriven del presente decreto, se expedirán dentro del plazo no mayor a ciento ochenta días naturales.
+
+QUINTO.- Los recursos humanos, materiales y financieros, con que cuente el Centro Estatal de Evaluación, Certificación y Credencialización, se entenderán conferidos al Centro Estatal de Evaluación y Control de Confianza.
+
+SEXTO.- Las referencias que se aluden a la Academia de Capacitación, Formación y de Profesionalización, se entenderán referidas al Instituto de Formación y Capacitación Policial, existente.
+
+SÉPTIMO.- La Contraloría General del Estado, la Secretaría de Finanzas y Administración y la Secretaría de Seguridad Pública y Protección Civil, en un plazo no mayor de sesenta días naturales, a partir de la vigencia de este decreto, dispondrán de los mecanismos y medidas .administrativas presupuestales, de programación y transferencia necesarias para la implementación y desarrollo de los sistemas de administración financiera y de personal, de logística y de servicios generales, para los Sistemas Estatales de Seguridad Pública y Protección Civil; mismos que deberán proveerse para su implementación en el ejercicio fiscal 2010.
+
+OCTAVO.- El Centro Estatal de Evaluación y Control de Confianza expedirá los certificados a los miembros de las instituciones de seguridad pública, una vez que sea certificado por el Centro Nacional de Certificación y Acreditación, mientras tanto continuará aplicando los procedimientos de evaluación y control de confianza, conforme a los parámetros y mecánica operativa definida por el Sistema Nacional de Seguridad Pública.
+
+NOVENO.- Los procedimientos de carrera policial que se encuentran vigentes en las instituciones policiales del Estado y los Municipios, deberán ajustarse de inmediato a los procedimientos que se definen en este Decreto.
+
+DÉCIMO.- Las Comisiones del Servicio Profesional de Carrera y de Honor y Justicia, de las instituciones policiales del Estado y los Municipios, deberán instalarse o ajustarse según sea el caso, en un plazo no mayor de noventa días naturales a partir de la entrada en vigor de este Decreto.
+
+DÉCIMO PRIMERO.- Los asuntos que actualmente se encuentran en trámite ante los Consejos o Comisiones de Honor y Justicia y los que se inicien con anterioridad a la vigencia de este Decreto, deberán substanciarse y resolverse conforme las disposiciones vigentes al momento en que se suscitaron los hechos que los motivaron.
+
+DÉCIMO SEGUNDO. - Los Ayuntamientos, deberán alinear la organización, operación y procedimientos de sus Instituciones de Seguridad Pública, así como emitir o adecuar sus reglamentos en esta materia, a las bases que se consignan en este Decreto, en un término no mayor a noventa días hábiles, a partir de la publicación del mismo.
+
+DÉCIMO TERCERO.- Sin perjuicio de las bases previstas en el presente Decreto, las instituciones del Cuerpo de Policía Estatal, podrán organizarse de acuerdo a sus capacidades y necesidades administrativas, operativas y presupuestales, siempre que no contravengan imperativos categóricos ordenados en este Decreto que desvirtúen el objetivo y alcance de sus disposiciones.
+
+DÉCIMO CUARTO.- Se derogan todas aquellas disposiciones contenidas en leyes, reglamentos, decretos y acuerdos, que se opongan o que ya se contengan en este decreto.
+
+DÉCIMO QUINTO.- Remítase al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación en el Periódico Oficial del Gobierno del Estado.
