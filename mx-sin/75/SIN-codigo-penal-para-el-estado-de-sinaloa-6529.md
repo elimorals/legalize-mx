@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2009-03-20"
+last_updated: "2009-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO PENAL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2009.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -1717,6 +1717,8 @@ La reparación del daño, con excepción del delito de atentados al pudor, compr
 
 ### CAPITULO I. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA FAMILIAR
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 201.
 
 Comete el delito de robo, el que se apodera de una cosa ajena mueble, sin derecho y sin consentimiento de la persona que pueda disponer de ella con arreglo a la ley.
@@ -2153,15 +2155,23 @@ ARTICULO 254 BIS D.- En el caso de los delitos precisados en este capítulo, ind
 
 ###### ARTICULO 240.
 
-Al que sin causa justificada no proporcione los recursos indispensables de subsistencia de las personas con las que tenga ese deber legal, se le impondrá prisión de tres meses a dos años o de noventa a ciento ochenta días multa y suspensión o privación de los derechos de familia, en relación con el ofendido.
+Al que sin causa justificada no proporcione los recursos indispensables de subsistencia de las personas con las que tenga ese deber legal, se le impondrá prisión de tres meses a dos años y de noventa a ciento ochenta días multa y suspensión o privación de los derechos de familia, en relación con el ofendido.
 
 Este delito se perseguirá por querella de parte, excepto cuando el ofendido sea incapaz y no tenga representante legal, caso en el cual el Ministerio Público procederá de oficio a reserva de que se promueva la designación de un tutor especial.
 
 Se declarará extinguida la pretensión punitiva, si no hay oposición del ofendido o su representante, cuando antes de que exista sentencia ejecutoria, el obligado cubra los alimentos vencidos y otorgue garantía suficiente ante la autoridad judicial de que en lo sucesivo pagará lo que le corresponda.
 
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
+
+Para los efectos de este artículo, se tendrá por consumado el delito aun cuando el o los acreedores alimentarios se dejen al cuidado o reciban ayuda de un tercero.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 241.
 
-Al que dolosamente se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrá prisión de seis meses a tres años o de ciento ochenta a trescientos sesenta días multa y suspensión o privación de derechos de familia respecto al ofendido. La autoridad judicial resolverá sobre la aplicación del producto del trabajo que realice el agente, a la satisfacción de las obligaciones alimentarias de éste, con base en las disposiciones aplicables del Código Civil del Estado.
+Al que dolosamente se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrá prisión de seis meses a tres años y de ciento ochenta a trescientos sesenta días multa y suspensión o privación de derechos de familia respecto al ofendido. La autoridad judicial resolverá sobre la aplicación del producto del trabajo que realice el agente, a la satisfacción de las obligaciones alimentarias de éste, con base en las disposiciones aplicables del Código Civil del Estado.
+
+Se impondrá hasta la mitad de la pena anterior, al que dolosamente incumpla con la orden judicial de informar acerca de los ingresos de quienes deban cumplir con las obligaciones señaladas en los artículos anteriores, o haciéndolo no lo haga dentro del plazo señalado en el oficio respectivo y verazmente u omita realizar de inmediato el descuento ordenado.
 
 Este delito se perseguirá por querella de parte, excepto cuando el ofendido sea incapaz y no tenga representante legal, caso en el cual el Ministerio Público procederá de oficio, a reserva de que promueva la designación de un tutor especial.
 
@@ -2184,6 +2194,18 @@ Al que sin tener relación familiar o de parentesco sustraiga a un menor de edad
 Cuando la sustracción de un menor o un incapaz, sin el consentimiento de quien legítimamente tenga su custodia o guarda, o lo retenga con la finalidad de violar derechos de familia, lo cometa un familiar que no ejerza sobre él la patria potestad ni la tutela, se le impondrá de uno a tres años de prisión.
 
 Si el agente devuelve al menor o incapaz espontáneamente, dentro de los seis días siguientes a la consumación del delito se le aplicará hasta una tercera parte de las penas señaladas en los párrafos anteriores, según sea el caso.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
+
+ARTICULO 242 BIS.- Se impondrá de uno a tres años de prisión; y de cincuenta a cien días de multa, al ascendiente que retenga o sustraiga a una persona menor o incapaz, en los siguientes casos:
+
+I. Que haya perdido judicialmente la patria potestad o ejerciendo ésta, se encuentre suspendido o limitado; o bien, ésta se encuentre sub júdice por autoridad legalmente competente;
+
+II. No tenga la guarda y custodia provisional o definitiva, o la tutela sobre el menor de edad o incapaz;
+
+III. Sin haber causa legalmente justificada, no permita las convivencias decretadas por resolución judicial, y
+
+IV. Teniendo la guarda y custodia compartida, no devuelva a la persona menor en los términos de la resolución que se haya dictado para ello.
 
 ### CAPITULO II. FALSIFICACION, DESTRUCCION Y USO INDEBIDO DE DOCUMENTOS
 
@@ -3608,3 +3630,19 @@ P.O. 20 DE MARZO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 17 DE JUNIO DE 2009.
+
+DECRETO NÚMERO 332, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 240 Y 241 DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 17 DE JUNIO DE 2009.
+
+DECRETO NÚMERO 333, POR EL QUE SE ADICIONA ARTÍCULO 242 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Sinaloa".
