@@ -1,0 +1,536 @@
+---
+title: "LEY ORGANICA DEL COLEGIO DE BACHILLERES DEL ESTADO DE QUERETARO"
+identifier: "QUE-ley-organica-del-colegio-de-bachilleres-del-estado-de-69012"
+country: "mx"
+rank: "ley_organica"
+publication_date: "2009-06-17"
+last_updated: "2009-06-17"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69012&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-que"
+scjn_id: "69012"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "42"
+reform_count: "3"
+scjn_last_update: "2026-02-27"
+issue_date: "2009-06-16"
+state: "QUE"
+---
+# LEY ORGANICA DEL COLEGIO DE BACHILLERES DEL ESTADO DE QUERETARO
+
+LEY ORGANICA DEL COLEGIO DE BACHILLERES DEL ESTADO DE QUERETARO
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de junio de 2009.
+
+LA QUINCUAGÉSIMA QUINTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LA FACULTAD QUE LE CONFIERE EL ARTÍCULO 17 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 82 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
+
+CONSIDERANDO.
+
+Por lo anteriormente expuesto, la Quincuagésima Quinta Legislatura del Estado de Querétaro, expide la siguiente:
+
+LEY ORGÁNICA DEL COLEGIO DE BACHILLERES DEL ESTADO DE QUERÉTARO
+
+## Título Primero. Disposiciones generales
+
+### Capítulo Primero. Disposiciones preliminares
+
+###### Artículo 1.
+
+Las disposiciones de la presente Ley son de orden público y tiene por objeto normar la naturaleza, estructura y atribuciones del Colegio de Bachilleres del Estado de Querétaro.
+
+###### Artículo 2.
+
+Para los efectos de esta Ley, se entenderá por COBAQ, al Colegio de Bachilleres del Estado de Querétaro.
+
+###### Artículo 3.
+
+En cuanto a su funcionamiento, operación, desarrollo y control, el COBAQ se sujetará a la presente Ley y, en lo conducente, a las disposiciones legales, estatutarias y reglamentarias aplicables e inherentes al servicio público, en el ámbito de su competencia educativa, debiendo tener su domicilio legal en la capital del Estado, sin menoscabo de los planteles que establezca en la entidad federativa.
+
+###### Artículo 4.
+
+El COBAQ es un organismo público descentralizado del Poder Ejecutivo del Estado, dotado de personalidad jurídica y patrimonio propios, el cual gozará de autonomía de gestión para llevar a cabo la prestación del servicio público educativo del nivel medio superior que le compete en sus diversas modalidades, con sujeción a los sistemas de control establecidos en las disposiciones aplicables para la administración pública paraestatal y demás disposiciones legales aplicables.
+
+###### Artículo 5.
+
+En todo lo concerniente a la admisión, sistemas de evaluación escolar, revalidación, reconocimiento de validez oficial de estudios y demás aspectos académicos y administrativos inherentes a los fines y atribuciones del COBAQ, se estará a lo que sobre el particular establezcan la presente Ley, su reglamento interior, el estatuto académico, los manuales y demás disposiciones derivadas de la presente Ley.
+
+###### Artículo 6.
+
+De conformidad con su objeto, el COBAQ podrá celebrar convenios de colaboración con los municipios y demás autoridades locales y federales, así como con instituciones públicas y privadas.
+
+En lo sustantivo, esta institución educativa se ajustará a las normas que para tal efecto rigen los planes de estudios y programas académicos de la Secretaría de Educación Pública, celebrando con ésta los convenios de coordinación y colaboración respectivos.
+
+###### Artículo 7.
+
+El COBAQ elaborará su correspondiente Programa Operativo Anual, con apego a la Ley de Planeación del Estado de Querétaro, al Plan Estatal de Desarrollo y al Programa Sectorial de Educación del Estado, a efecto de estar en posibilidades de garantizar educación de calidad.
+
+### Capítulo Segundo. Del objeto y atribuciones
+
+###### Artículo 8.
+
+El COBAQ tendrá por objeto impartir e impulsar la educación correspondiente al nivel medio superior, con características de terminal y propedéutica, de acuerdo con los siguientes lineamientos operativos:
+
+I. Propiciar la formación integral del estudiante, ampliando su educación en los campos de la cultura, la ciencia y la técnica;
+
+II. Crear en el alumno una conciencia crítica y constructiva que le permita adoptar una actitud responsable ante la sociedad;
+
+III. Proporcionar al alumno los conocimientos, técnicas y lenguajes que requiera para su formación profesional;
+
+IV. Crear en el alumno las aptitudes y habilidades que lo orienten, preparen y estimulen para el autoaprendizaje;
+
+V. Proporcionar al alumno los elementos de aprendizaje necesarios para que sea capaz de realizar un trabajo socialmente útil;
+
+VI. Promover y realizar actividades para la preservación y difusión de la cultura y el deporte;
+
+VII. Realizar estudios e investigaciones que permitan el uso eficiente de los recursos materiales y humanos; y
+
+VIII. Los demás que sean afines con las anteriores.
+
+### Capítulo Tercero. Del patrimonio
+
+###### Artículo 9.
+
+El patrimonio del COBAQ estará constituido por:
+
+I. Las aportaciones, subsidios y apoyos que le otorguen la Federación, el Estado y los municipios;
+
+II. Los legados, donaciones que le sean otorgados, así como los fideicomisos en los que sea parte;
+
+III. Los bienes muebles e inmuebles que adquiera por cualquier título legal, para el cumplimiento de su objeto;
+
+IV. Las utilidades, intereses, dividendos, rendimiento de sus bienes y demás ingresos que obtenga con motivo de los servicios que preste en cumplimiento de su objeto; y
+
+V. Los derechos constituidos y las aportaciones especiales establecidas a su favor por las leyes, los reglamentos y demás disposiciones u ordenamientos en la materia.
+
+###### Artículo 10.
+
+Los inmuebles que formen parte del patrimonio del COBAQ serán imprescriptibles e inembargables y en ningún caso podrá constituirse gravamen sobre ellos.
+
+Los inmuebles que a juicio de la Junta Directiva ya no sean utilizables para el servicio del COBAQ, podrán ser enajenados por acuerdo de dicho órgano de gobierno y previa autorización de la Legislatura del Estado; tratándose de bienes muebles, bastará la autorización de la Junta Directiva, sustentada conforme a la normatividad aplicable.
+
+## Título Segundo. De los órganos
+
+### Capítulo Primero. Disposiciones generales
+
+###### Artículo 11.
+
+Son órganos de gobierno y de administración del COBAQ, los siguientes:
+
+I. La Junta Directiva; y
+
+II. La Dirección General.
+
+###### Artículo 12.
+
+Son órganos consultivos del COBAQ, los siguientes:
+
+I. El Consejo Ejecutivo;
+
+II. Los Consejos Regionales; y
+
+III. Los Consejos Educativos de Plantel.
+
+###### Artículo 13.
+
+Los integrantes de los órganos consultivos del COBAQ se desempeñarán de manera honorífica, por lo que no devengarán retribución económica, salario ni prestación alguna con motivo del desempeño específico de dicha función.
+
+Su estructura, integración y funcionamiento será regulado por la presente Ley, su reglamento interior, el estatuto académico y los manuales de este organismo educativo, así como las demás disposiciones legales y reglamentarias aplicables.
+
+### Capítulo Segundo. De la Junta Directiva
+
+###### Artículo 14.
+
+La Junta Directiva es la máxima autoridad y órgano de gobierno del COBAQ y estará integrada de la siguiente manera:
+
+I. Un Presidente, que será el titular de la Secretaría de Educación del Estado;
+
+II. Los siguientes Vocales:
+
+a) El titular de la Secretaría de Planeación y Finanzas del Estado.
+
+b) El titular de la Secretaría de la Contraloría del Estado.
+
+c) Dos representantes de la Secretaría de Educación Pública; y
+
+III. Un Secretario Ejecutivo, que será el Director General del COBAQ.
+
+Los miembros de la Junta Directiva tendrán voz y voto en las sesiones de dicho órgano, excepto el Secretario Ejecutivo, quien sólo contará con voz.
+
+La Junta sesionará válidamente si asiste el Presidente y cuando menos tres de los miembros. Sus acuerdos serán tomados por mayoría simple; tratándose de empate, el presidente tendrá voto de calidad.
+
+###### Artículo 15.
+
+La Junta Directiva podrá invitar a cualquier autoridad o persona relacionada con el ámbito cultural, académico o de cualquiera otra actividad profesional relacionada con la naturaleza y fines del COBAQ, para que participe de manera consultiva, a propósito de la toma de decisiones a cargo de dicho órgano de gobierno, quienes solamente contarán con voz durante las reuniones.
+
+###### Artículo 16.
+
+Todo cargo en la Junta Directiva será honorífico. Por cada miembro propietario habrá un suplente, quien será designado expresamente por su titular, con carácter de permanente.
+
+###### Artículo 17.
+
+El Director General, por instrucción del Presidente de la Junta Directiva, convocará a las sesiones ordinarias con una antelación no menor de cinco días hábiles a la fecha de la reunión correspondiente, debiendo adjuntar a la convocatoria el orden del día, la información, documentación y soportes que se requieran para el desahogo de dichas sesiones.
+
+###### Artículo 18.
+
+La Junta Directiva sesionará tres veces de manera ordinaria durante cada ejercicio anual y cuantas veces sea necesario en forma extraordinaria.
+
+###### Artículo 19.
+
+Es competencia de la Junta Directiva:
+
+I. Autorizar el proyecto anual de ingresos y presupuesto de egresos del COBAQ;
+
+II. Aprobar los estados financieros de la institución, puestos a su consideración por el Director General;
+
+III. Determinar las cuotas por los servicios que proporcione la institución en sus diversas modalidades y, en su caso, aprobar los programas de apoyo económico a los alumnos;
+
+IV. Aprobar el calendario escolar y el programa operativo anual;
+
+V. Autorizar la apertura de planteles de bachillerato en cualquiera de sus modalidades, a propuesta del Director General, debidamente soportada;
+
+VI. Autorizar, a propuesta del Director General, el reconocimiento oficial de validez de estudios y, en su caso la incorporación al COBAQ, de instituciones educativas de carácter privado cuyos planes y programas de estudios del nivel medio superior sean similares a los impartidos por este organismo educativo, en coordinación con las autoridades competentes;
+
+VII. Aprobar el reglamento interior, estatuto académico y demás disposiciones que se deriven de la presente Ley, debiendo turnarlos a la Secretaría de Gobierno del Estado, por conducto de la coordinadora de sector, a efecto de su publicación en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga";
+
+VIII. Aprobar la creación de áreas para el auxilio de los órganos previstos por la presente Ley;
+
+IX. Conocer del nombramiento y remoción del personal, en su caso, que lleve a cabo el Director General del COBAQ, respecto de los dos niveles inmediatos inferiores al suyo;
+
+X. Conocer de los informes que rinda el Director General, acerca del estado que guarda la administración general del COBAQ, cuando esta Junta Directiva se lo indique; y
+
+XI. Las que le confiera esta Ley y demás disposiciones legales aplicables.
+
+### Capítulo Tercero. De la Dirección General
+
+###### Artículo 20.
+
+La titularidad de la Dirección, está a cargo de un Director General, quien será nombrado y removido por el Gobernador del Estado; el ejercicio de su cargo será de cuatro años, pudiendo ser reelecto por un periodo igual.
+
+###### Artículo 21.
+
+Para ser nombrado Director General, se deberán satisfacer los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+
+II. Tener residencia en esta entidad federativa, de cuando menos tres años;
+
+III. Contar con título profesional de licenciatura legalmente expedido; preferentemente con grado académico de maestría o doctorado;
+
+IV. Haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio requiera conocimientos y experiencia en materia administrativa;
+
+V. No desempeñar, ni haber desempeñado ningún cargo partidista o de elección popular, los tres años anteriores a la fecha de su designación;
+
+VI. No haber sido condenado por delito que merezca pena privativa de la libertad o inhabilitado para desempeñar cargos públicos; y
+
+VII. Ser persona de amplia solvencia moral y reconocido prestigio.
+
+###### Artículo 22.
+
+Son facultades y obligaciones del Director General:
+
+I. Someter a la aprobación de la Junta Directiva, el anteproyecto anual de ingresos y presupuesto de egresos del COBAQ y, una vez aprobado, remitirlo en tiempo y forma a la instancia competente para su integración;
+
+II. Proponer ante la Junta Directiva las partidas adicionales y los cambios o transferencia de éstas, que impliquen modificación o actualización con motivo del ejercicio del presupuesto anual autorizado para la institución educativa;
+
+III. Signar convenios, contratos, acuerdos y demás actos jurídicos con instituciones públicas y privadas;
+
+IV. Elaborar y someter a la aprobación de la Junta Directiva los proyectos de creación y actualización del reglamento interior, estatuto académico, manuales y demás disposiciones aplicables;
+
+V. Aprobar y expedir los manuales del COBAQ e informar de ello a la Junta Directiva;
+
+VI. Expedir circulares, acuerdos, órdenes e instrucciones para la adecuada operación y funcionamiento del COBAQ;
+
+VII. Solicitar a la Junta la creación de áreas para el auxilio de los órganos previstos por la presente Ley;
+
+VIII. Nombrar y remover al personal del COBAQ, en términos de lo previsto en esta Ley, su reglamento interior, el estatuto académico, los manuales y demás disposiciones aplicables, debiendo informar a la Junta Directiva, únicamente respecto de los comprendidos en los dos primeros niveles inmediatos inferiores al suyo;
+
+IX. Informar a la Junta Directiva acerca del estado que guarda la administración del COBAQ; y
+
+X. Las que le confiera la presente Ley y demás disposiciones legales aplicables e inherentes a su cargo.
+
+El Director General tendrá el carácter de representante legal y administrador general, contando con todas las facultades de un apoderado general para pleitos y cobranzas, actos de administración y de dominio, pudiendo, a su vez, otorgar y revocar poderes especiales para la atención de los asuntos de la institución.
+
+Para realizar actos de dominio, deberá contar con la autorización previa de la Junta Directiva.
+
+### Capítulo Cuarto. Del Consejo Ejecutivo
+
+###### Artículo 23.
+
+El Consejo Ejecutivo estará integrado por el Director General, quien lo presidirá, así como los Directores de Área y Coordinadores Regionales.
+
+Podrán formar parte del Consejo Ejecutivo, en calidad de consejeros designados, los responsables de las diversas oficinas o unidades de apoyo técnico y de los planteles que para tal efecto determine el Director General, con el único objeto de tratar los asuntos relativos a su competencia en las reuniones a las cuales se les convoque.
+
+###### Artículo 24.
+
+El Consejo Ejecutivo tendrá por objeto integrar los esfuerzos de cada una de las áreas y planteles que conforman la institución, para la toma de decisiones en el ejercicio de sus atribuciones legales.
+
+### Capítulo Quinto. De los Consejos Regionales
+
+###### Artículo 25.
+
+Los Consejos Regionales son órganos colegiados de carácter consultivo en materia de planeación, coordinación, dirección, supervisión, control, evaluación y toma de decisiones respecto de las actividades académicas y administrativas de los planteles, según la circunscripción a que correspondan y específicamente se establezcan en el reglamento interior, el estatuto académico, los manuales y demás disposiciones aplicables a este organismo educativo.
+
+###### Artículo 26.
+
+Los Consejos Regionales estarán integrados por:
+
+I. El Coordinador Regional de la adscripción territorial de que se trate, quien se desempeñará como Presidente de dicho órgano colegiado; y
+
+II. Los Directores de cada uno de los planteles, en sus diversas modalidades, que conformen la región correspondiente.
+
+Podrán ser designados temporalmente, a propuesta del Presidente del Consejo Regional, los Directores de las Áreas y demás personal de las oficinas o unidades de apoyo técnico y de los planteles, con el único efecto de tratar los asuntos propios de su competencia, en las reuniones a las cuales se les convoque.
+
+### Capítulo Sexto. De los Consejos Educativos de Plantel
+
+###### Artículo 27.
+
+Los Consejos Educativos son órganos colegiados de carácter consultivo, constituidos en cada uno de los planteles con el objeto de conocer, analizar y emitir recomendaciones sobre los aspectos relacionados con la disciplina escolar, el rendimiento académico, la mejora de las actividades educativas y demás asuntos que específicamente establezcan el reglamento interior, el estatuto académico, los manuales y demás disposiciones aplicables.
+
+###### Artículo 28.
+
+Los Consejos Educativos estarán integrados por:
+
+I. El Director del Plantel, quien presidirá las sesiones;
+
+II. Los Subdirectores del Plantel, quienes fungirán como secretarios de actas y acuerdos;
+
+III. Un Consejero maestro y un Consejero alumno, por cada uno de los semestres; y
+
+IV. Un representante de la Junta de Padres de Familia del Plantel, cuya participación carecerá de voto.
+
+###### Artículo 29.
+
+Los Consejeros maestros y alumnos, así como el representante de la Junta de Padres de Familia, serán designados conforme a lo dispuesto en el estatuto académico y demás disposiciones aplicables.
+
+## Titulo Tercero. De la estructura
+
+### Capítulo Primero. Disposiciones generales
+
+###### Artículo 30.
+
+Para el conocimiento, estudio, planeación, despacho y ejecución de los asuntos de la administración general del COBAQ, auxiliarán al Director General las unidades administrativas siguientes:
+
+I. Direcciones de Área;
+
+II. Coordinaciones Regionales;
+
+III. Direcciones de Plantel; y
+
+IV. Unidades de Apoyo Técnico.
+
+El COBAQ contará con un órgano interno de control, denominado Contraloría Interna, de conformidad con las disposiciones legales aplicables; debiendo desarrollar sus funciones de acuerdo a ellas, a los lineamientos operativos que determine el Director General y a la normatividad establecida por la Secretaría de la Contraloría del Estado.
+
+###### Artículo 31.
+
+En el ámbito de sus respectivas competencias, los Directores de Área, los Coordinadores Regionales y los Directores de Plantel, serán los responsables del adecuado funcionamiento del sistema que controle las operaciones a su cargo y en los casos que determine el Director General, con apego al ejercicio de sus atribuciones asignadas en la presente Ley, su reglamento interior, el estatuto académico, los manuales y demás disposiciones aplicables.
+
+###### Artículo 32.
+
+Para ser nombrado tanto Director de Área como Coordinador Regional, se requiere cumplir con los requisitos que al efecto establezca la reglamentación derivada de la presente Ley y demás disposiciones aplicables.
+
+###### Artículo 33.
+
+El Director General, los Directores de Área y los Coordinadores Regionales, así como los titulares de las unidades de apoyo técnico del COBAQ y los Directores de Plantel, no podrán desempeñar algún otro puesto, empleo, cargo o comisión ajeno al que se les confiera o en particular que la ley prohíba, excepto tratándose de la docencia e investigación.
+
+### Capítulo Segundo. De las Direcciones de Área
+
+###### Artículo 34.
+
+Las Direcciones de Área deberán facilitar la operación y el desarrollo del COBAQ y sus planteles, con la obligación de agregar valor a los procesos académicos y administrativos del mismo.
+
+###### Artículo 35.
+
+Las Direcciones de Área serán las siguientes y, respectivamente, tendrán por objeto:
+
+I. Académica: la planeación, organización, dirección, supervisión y control de las actividades culturales, académicas, escolares y deportivas del COBAQ, para elevar el nivel de desempeño académico y fomentar el mejoramiento del proceso de enseñanza-aprendizaje, de manera que contribuya a formación integral de los alumnos;
+
+II. Administrativa: la planeación, organización, dirección y control de las actividades administrativas y contables de las diversas direcciones de áreas, unidades administrativas y planteles de este organismo educativo, a efecto de contribuir al establecimiento e implementación de la administración eficaz y eficiente de los recursos materiales del COBAQ, así como fomentar el uso adecuado y óptimo aprovechamiento de los mismos;
+
+III. Jurídica: la defensa y representación de los intereses del COBAQ, en toda clase de juicios o procedimientos jurisdiccionales, debiendo, además planear, organizar, dirigir, supervisar y controlar los asuntos de carácter jurídico a su cargo, conforme a las disposiciones legales y reglamentarias aplicables;
+
+IV. Planeación, Programación y Presupuesto: la planeación, programación, organización, dirección, supervisión y control de las actividades correspondientes a la eficiente y eficaz administración presupuestal y financiera de la institución, en función de su naturaleza y objeto, así como de las metas, políticas y lineamientos estratégicos;
+
+V. Recursos Humanos: la planeación, organización, dirección, supervisión y control de las actividades inherentes al fortalecimiento de la administración y el desarrollo del capital humano, para obtener un buen clima laboral y contribuir a elevar el nivel de desempeño académico y administrativo de la institución;
+
+VI. Vinculación: la planeación, organización, dirección, supervisión y control del desarrollo y promoción de actividades de enlace y colaboración entre las áreas al interior del Colegio, las instituciones de educación secundaria y educación superior, así como con los sectores social, público y privado, para efecto de contribuir al cumplimiento del los objetivos institucionales; y
+
+VII. Las demás que autorice la Junta Directiva.
+
+###### Artículo 36.
+
+Las Direcciones de Área podrán contar con las unidades administrativas necesarias para cumplir con sus atribuciones. Su estructura, atribuciones, funciones y obligaciones estarán reguladas, además de lo previsto por la presente Ley, por su reglamento interior, el estatuto académico, manuales y demás disposiciones aplicables.
+
+### Capítulo Tercero. De las Direcciones de Plantel
+
+###### Artículo 37.
+
+Los planteles serán administrados por una Dirección, cuyo titular será el responsable directo de la planeación, programación, organización, dirección, supervisión y control de las diversas actividades u operaciones, desarrollo y consolidación del centro de estudios a su cargo.
+
+###### Artículo 38.
+
+Para el desempeño de sus atribuciones, la Dirección del Plantel se auxiliará de la estructura orgánica necesaria, con las definiciones, atribuciones, funciones y obligaciones que para tal efecto se establezcan en la normatividad aplicable.
+
+###### Artículo 39.
+
+Para ser Director de Plantel se deberán reunir los requisitos que al efecto establezca la reglamentación derivada de la presente Ley.
+
+### Capítulo Cuarto. De las Unidades de Apoyo Técnico
+
+###### Artículo 40.
+
+Las unidades administrativas de apoyo, son órganos técnicos que tienen por objeto la planeación, coordinación, atención y seguimiento de los asuntos que competen exclusivamente al Director General o, por acuerdo de éste, quedar adscritas a una Dirección de Área, para la realización de planes institucionales prioritarios, a saber:
+
+I. Secretaría Técnica;
+
+II. Información institucional;
+
+III. Calidad y mejora continua;
+
+IV. Coordinación de becas; y
+
+V. Las demás que conforme a la normatividad aplicable sean creadas para los efectos a que se refiere el presente artículo.
+
+###### Artículo 41.
+
+La estructura, funcionamiento y obligaciones de las unidades de apoyo, serán regulados por lo establecido en la presente Ley, su reglamento interior, el estatuto académico y los manuales administrativos o, en su caso, por instrucción expresa del Director General.
+
+###### Artículo 42.
+
+Para ser nombrado titular de cualquiera de las unidades de apoyo técnico, se requiere cumplir con los requisitos que al efecto establezca la reglamentación derivada de la presente Ley.
+
+### Capítulo Quinto. Del órgano interno de control
+
+###### Artículo 43.
+
+El órgano interno de control denominado Contraloría Interna, tiene por objeto planear, organizar, proponer y coordinar los sistemas de prevención, vigilancia, control y evaluación de las diversas regiones, direcciones de área, unidades de apoyo y planteles del COBAQ, para efectos de la conducción, administración y adecuada prestación del servicio público educativo que le compete, con apego irrestricto a la presente Ley y demás disposiciones legales aplicables.
+
+###### Artículo 44.
+
+La estructura, funcionamiento y obligaciones del órgano interno de control serán regulados por lo establecido en la presente Ley, su reglamento interior, el estatuto académico y los manuales administrativos aplicables.
+
+###### Artículo 45.
+
+Para ser nombrado titular del órgano interno de control, se requiere cumplir con los requisitos que al efecto establezcan las disposiciones legales aplicables.
+
+## Título Cuarto. De los planteles
+
+### Capítulo Primero. Disposiciones generales
+
+###### Artículo 46.
+
+Son planteles oficiales del COBAQ, los establecimientos o centros de estudios de carácter público, donde se imparta e impulse, en sus diversas modalidades, la educación media superior de su competencia, constituidos por alumnos, académicos, administrativos, padres de familia y la estructura orgánica aprobada por la autoridad competente, cuya organización y funcionamiento será regulado conforme a las disposiciones legales y reglamentarias aplicables.
+
+###### Artículo 47.
+
+El COBAQ podrá contar con planteles distribuidos en todo el territorio del Estado, agrupados en regiones, conforme a lo previsto en la presente Ley y demás disposiciones reglamentarias derivadas de ésta, para cumplir con las funciones de docencia, y apoyo académico correspondientes a su naturaleza y objeto.
+
+###### Artículo 48.
+
+Aunado a la impartición de estudios del bachillerato en sus diversas modalidades, en los planteles del COBAQ se llevarán a cabo actividades, tales como:
+
+I. Promoción, difusión, impulso y desarrollo del servicio público educativo de su competencia;
+
+II. Culturales, deportivas y recreativas para efectos de contribuir al sano desarrollo del alumno;
+
+III. Vinculación con los padres de familia, tutores, sector productivo y comunidad en general; y
+
+IV. Las demás que se requieran con motivo de la formación integral del alumno.
+
+### Capítulo Segundo. De los alumnos
+
+###### Artículo 49.
+
+Los interesados en cursar y, en su caso, aprobar los estudios de bachillerato general en el COBAQ deberán cumplir con los requisitos exigibles para tal efecto y, en todo momento, sujetarse a los procedimientos y trámites de admisión, ingreso e inscripción y reinscripciones, así como de evaluación, disciplina y demás servicios escolares establecidos en la reglamentación correspondiente.
+
+###### Artículo 50.
+
+Es obligación del Colegio de Bachilleres del Estado de Querétaro, procurar la protección de los alumnos contra toda forma de hostigamiento, discriminación, maltrato, perjuicio, daño, agresión, abuso, explotación y garantizar la equidad de género.
+
+Los alumnos tendrán los derechos y las obligaciones establecidas en la presente Ley, su reglamento interior, el estatuto académico, los manuales y demás disposiciones aplicables.
+
+### Capítulo Tercero. Del personal
+
+###### Artículo 51.
+
+Para el cumplimiento de los fines del COBAQ y de los planteles en lo particular, éstos contarán con el siguiente personal:
+
+I. Académico, que deberá desarrollar funciones sustantivas de docencia, tutoría y demás actividades propias del proceso de enseñanza-aprendizaje, en términos de las disposiciones legales y reglamentarias aplicables; y
+
+II. Administrativo, que deberá desempeñar funciones técnicas y profesionales que apoyen, faciliten y complementen la realización de las labores académicas de la institución.
+
+###### Artículo 52.
+
+El personal del COBAQ, tendrá los derechos y obligaciones que determinen las disposiciones legales y reglamentarias aplicables.
+
+### Capítulo Cuarto. De los padres de familia
+
+###### Artículo 53.
+
+Los padres de familia, tutores o quienes ejerzan la patria potestad respecto de los menores de edad inscritos en este organismo educativo, llevarán a cabo la representación legal de dichos alumnos, a propósito de sus deberes y derechos escolares o académicos.
+
+###### Artículo 54.
+
+Son derechos y obligaciones de los padres de familia, tutores o quienes conforme a las leyes ejerzan la patria potestad, los que al efecto establezcan las disposiciones legales y reglamentarias aplicables.
+
+## Titulo Quinto. De las relaciones laborales
+
+### Capítulo Único
+
+###### Artículo 55.
+
+La relación laboral entre el COBAQ y su personal, se regirá por la Ley de los Trabajadores del Estado de Querétaro, los reglamentos y manuales que de ésta deriven, y el convenio laboral que contenga las condiciones generales de trabajo, suscrito con la representación sindical de la institución; lo anterior, sin menoscabo de que los casos no previstos con motivo de dicha relación, habrán de resolverse aplicando supletoriamente la Ley Federal del Trabajo.
+
+###### Artículo 56.
+
+Corresponde al titular del COBAQ, signar los instrumentos u otras disposiciones que establezcan las normas vigentes y las derivadas de las condiciones generales de trabajo.
+
+## TRANSITORIOS
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Los recursos financieros, humanos y materiales asignados al COBAQ para su funcionamiento y operación para el ejercicio fiscal 2009, se ejercerán de la manera en que se proyectaron, atendiendo a las disposiciones que les dieron lugar y a la presente Ley.
+
+Artículo Tercero. Los contratos, convenios y demás compromisos adquiridos con anterioridad a la presente, por parte del COBAQ, se estarán en los términos en que fueron signados.
+
+LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR DEL ESTADO Y MANDARÁ SE IMPRIMA, PUBLIQUE Y OBSERVE.
+
+DADO EN EL SALÓN DE SESIONES "CONSTITUYENTES DE 1916-1917" RECINTO OFICIAL DEL PODER LEGISLATIVO, A LOS VEINTISIETE DÍAS DEL MES DE OCTUBRE DEL AÑO DOS MIL OCHO.
+
+ATENTAMENTE
+
+LV LEGISLATURA DEL ESTADO DE QUERÉTARO
+
+MESA DIRECTIVA
+
+DIP. MIGUEL MARTÍNEZ PEÑALOZA
+
+PRESIDENTE
+
+Rúbrica
+
+DIP. JOSÉ GUADALUPE GARCÍA RAMÍREZ
+
+PRIMER SECRETARIO
+
+Rúbrica
+
+Lic. Francisco Garrido Patrón, Gobernador Constitucional del Estado de Querétaro, en ejercicio de lo dispuesto por el artículo 22, fracción I de la Constitución Política del Estado de Querétaro; expido y promulgo la presente Ley Orgánica del Colegio de Bachilleres del Estado de Querétaro.
+
+Dado en el Palacio de la Corregidora, sede del Poder Ejecutivo del Estado de Querétaro, en la Ciudad de Santiago de Querétaro, Qro., el día dieciséis del mes de junio del año dos mil nueve, para su debida publicación y observancia.
+
+Lic. Francisco Garrido Patrón
+
+Gobernador Constitucional del Estado de Querétaro
+
+Rúbrica
+
+Lic. José Alfredo Botello Montes
+
+Secretario de Gobierno
+
+Rúbrica
