@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-enjuiciamiento-de-lo-contencioso-administrativo-del-3416
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-29"
-last_updated: "2003-09-29"
+last_updated: "2009-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE ENJUICIAMIENTO DE LO CONTENCIOSO-ADMINISTRATIVO DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ENJUICIAMIENTO DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 17 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado del Estado de Querétaro, el lunes 29 de septiembre de 2003.
 
@@ -1364,3 +1366,17 @@ LIC. BERNARDO GARCIA CAMINO
 SECRETARIO DE GOBIERNO
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE JUNIO DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley de Enjuiciamiento de lo Contencioso-Administrativo del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado número sesenta, de fecha veintinueve de septiembre de dos mil tres.
+
+Articulo Tercero. Los procedimientos contenciosos administrativos y los recursos que se encuentren pendientes de resolver al momento de entrar en vigor la presente Ley, se sustanciarán y sentenciarán de conformidad con las disposiciones vigentes al momento de su tramitación.
+
+La ejecución de las sentencias definitivas, se realizarán de acuerdo a lo dispuesto en la presente Ley.
+
+Artículo Cuarto. Se derogan todas las disposiciones que se opongan a este ordenamiento legal.
