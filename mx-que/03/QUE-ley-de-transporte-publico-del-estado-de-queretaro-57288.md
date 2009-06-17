@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-transporte-publico-del-estado-de-queretaro-57288"
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-12"
-last_updated: "2007-10-12"
+last_updated: "2009-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE TRANSPORTE PUBLICO DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSPORTE PUBLICO DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 17 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 12 de octubre de 2007.
 
@@ -1356,3 +1358,17 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE JUNIO DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley de Transporte Público del Estado de Querétaro, publicada en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga" número 61, de fecha 12 de octubre de 2007.
+
+Artículo Tercero. El Gobernador del Estado, expedirá los Reglamentos necesarios para la ejecución y debida observancia de la presente Ley.
+
+Hasta en tanto se expidan los reglamentos respectivos, serán aplicables en lo conducente, las disposiciones legales vigentes en la materia.
+
+Artículo Cuarto. La revisión de la máxima vida útil de las unidades destinadas a la prestación del servicio público de transporte se efectuará a partir de la revalidación del refrendo del año correspondiente, no pudiendo ser infraccionadas las unidades por esta causal antes de la conclusión del periodo de refrendo anual.
