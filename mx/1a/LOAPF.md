@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2008-11-28"
+last_updated: "2009-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JUNIO DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -1730,9 +1730,11 @@ IV.- Registrar a los prestadores de servicios turísticos, en los términos señ
 
 V.- Promover y opinar el otorgamiento de facilidades y franquicias a los prestadores de servicios turísticos y participar con la Secretaría de Hacienda y Crédito Público, en la determinación de los criterios generales para el establecimiento de los estímulos fiscales necesarios para el fomento a la actividad turística, y administrar su aplicación, así como vigilar y evaluar sus resultados;
 
-VI.- Autorizar los precios y tarifas de los servicios turísticos, previamente registrados, en los términos que establezcan las leyes y reglamentos; y participar con la Secretaría de Hacienda y Crédito Público en el establecimiento de los precios y tarifas de los bienes y servicios turísticos a cargo de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2009)</small>
 
-VII.- Vigilar con el apoyo de las autoridades estatales y municipales, la correcta aplicación de los precios y tarifas autorizados o registrados y la prestación de los servicios turísticos, conforme a las disposiciones legales aplicables, en los términos autorizados o en la forma en que se hayan contratado;
+VI.- Participar con la Secretaría de Hacienda y Crédito Público en el establecimiento de los precios y tarifas de los bienes y servicios turísticos a cargo de la Administración Pública Federal, tomando en cuenta las leyes, reglamentos y demás disposiciones que regulan las facultades de las dependencias y entidades;
+
+VII.- (DEROGADA, D.O.F. 17 DE JUNIO DE 2009)
 
 VIII.- Estimular la formación de asociaciones, comités y patronatos de carácter público, privado o mixto, de naturaleza turística;
 
@@ -2247,3 +2249,7 @@ SEGUNDO. La Secretaría de Energía integrará el Consejo Nacional de Energía y
 TERCERO. La Cámara de Diputados proveerá lo necesario en el Presupuesto de Egresos de la Federación para que la Secretaría de Energía cuente con los recursos humanos y materiales para dar cabal cumplimiento a las atribuciones conferidas con motivo del presente Decreto.
 
 CUARTO. El Titular del Ejecutivo Federal enviará al Congreso el primer documento relativo a la Estrategia Nacional de Energía, a que hace referencia la fracción sexta del artículo 33 de la Ley Orgánica de la Administración Pública Federal que contiene el presente Decreto, en el mes de febrero del año 2010.
+
+D.O.F. 17 DE JUNIO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial de la Federación.
