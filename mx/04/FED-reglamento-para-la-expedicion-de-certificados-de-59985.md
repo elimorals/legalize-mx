@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-expedicion-de-certificados-de-59985"
 country: "mx"
 rank: "reglamento"
 publication_date: "1972-10-18"
-last_updated: "1972-10-18"
+last_updated: "2009-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59985&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1972-09-04"
 
 REGLAMENTO PARA LA EXPEDICION DE CERTIFICADOS DE NACIONALIDAD MEXICANA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE NACIONALIDAD, PUBLICADO EN EL D.O.F. DE 17 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de octubre de 1972.
 
@@ -122,3 +124,17 @@ Se abroga el Reglamento del Artículo 57 de Ley de Nacionalidad y Naturalizació
 > <small>(F. DE E., D.O.F. 19 DE OCTUBRE DE 1972)</small>
 
 Dado en la residencia del Poder Ejecutivo Federal, en México, Distrito Federal, a los cuatro días del mes de septiembre de mil novecientos setenta y dos.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario de Relaciones Exteriores, Emilio O. Rabasa.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 17 DE JUNIO DE 2009.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento para la Expedición de Certificados de Nacionalidad Mexicana, publicado en el Diario Oficial de la Federación el 18 de octubre de 1972, así como las demás disposiciones que se opongan al presente ordenamiento.
+
+TERCERO.- En la expedición de las declaratorias de nacionalidad mexicana por nacimiento a que se refiere el artículo 13 del presente Reglamento, se estará a lo dispuesto en los artículos segundo transitorio del "Decreto por el que se aprueba el diverso que reforma el artículo segundo transitorio a los artículos 30, 32 y 37 de la Constitución Política de los Estados Unidos Mexicanos, publicado el 20 de marzo de 1997" y cuarto transitorio de la Ley de Nacionalidad, publicados en el Diario Oficial de la Federación el 22 de julio y 2 de diciembre de 2004, respectivamente.
+
+CUARTO.- Los cambios en la estructura y en los programas que sean necesarios para implementar el presente Reglamento serán cubiertos con el presupuesto autorizado a la Secretaría de Relaciones Exteriores.
+
+QUINTO.- La Secretaría de Relaciones Exteriores mediante disposiciones administrativas fijará las formalidades necesarias para que los particulares efectúen los trámites y cumplan con los requisitos previstos en el presente Reglamento.
