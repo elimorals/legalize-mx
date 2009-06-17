@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-turismo-116"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-31"
-last_updated: "2000-06-06"
+last_updated: "2009-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1992-12-28"
 
 LEY FEDERAL DE TURISMO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JUNIO DE 2000.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY GENERAL DE TURISMO, PUBLICADA EN EL D.O.F. DE 17 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1992.
 
@@ -628,3 +630,29 @@ SEXTO.- Una vez constituido, el Consejo de Promoción Turística de México se h
 D.O.F. 6 DE JUNIO DE 2000.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE JUNIO DE 2009.
+
+Primero. La presente Ley entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga la Ley Federal de Turismo publicada en el Diario Oficial de la Federación el 31 de diciembre de 1992 y las reformas a la misma, publicadas en el Diario Oficial de la Federación.
+
+Tercero. Las disposiciones emitidas con fundamento en la Ley Federal de Turismo que no se opongan a la presente Ley, mantendrán su vigencia hasta en tanto no se publiquen nuevas disposiciones.
+
+Cuarto. La Secretaría deberá, emitir el Reglamento de la presente Ley, dentro de los ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto, el cual incluirá su reestructuración administrativa en los términos de la presente Ley.
+
+Los Estados y el Distrito Federal deberán adecuar a la presente Ley, su legislación en la materia, dentro de un año contado a partir de entrado en vigor el presente Decreto.
+
+Quinto. Todos los procedimientos, recursos administrativos y demás asuntos relacionados con las materias a que se refiere esta Ley, iniciados con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en el momento de su inicio.
+
+Sexto. la Secretaría de Turismo deberá modernizar la estructura del Registro Nacional de Turismo, para lo cual contará con un plazo de un año, contado a partir de la entrada en vigor del presente Decreto.
+
+La Secretaría, de manera coordinada con los Gobiernos locales, municipales y del Distrito Federal, deberá establecer los mecanismos que permitan la inscripción al Registro Nacional de Turismo, con el objeto de que los prestadores cuenten con las facilidades necesarias para llevar a cabo los trámites correspondientes.
+
+Concluido el proceso de modernización del Registro Nacional de Turismo, la Secretaría, deberá publicar en el Diario Oficial de la Federación la convocatoria nacional de inscripción al Registro Nacional de Turismo dirigida a los prestadores de servicios turísticos.
+
+Los prestadores de servicios turísticos contarán con un término de doce meses para inscribirse al Registro Nacional de Turismo, que comenzará a correr un día después de la fecha en que se publique en el Diario Oficial de la Federación la convocatoria correspondiente. Una vez transcurrido dicho plazo para efectos de la inscripción se estará a lo establecido en el presente decreto.
+
+Séptimo. Los convenios, acuerdos y/o contratos, así como las obligaciones y/o derechos adquiridos, celebrados por el Fondo Nacional de Fomento al Turismo bajo el acrónimo FONATUR, así como los que se celebren, surtirán sus efectos jurídicos.
+
+Octavo. Las acciones derivadas de la entrada en vigor de esta Ley, así como las modificaciones a la estructura administrativa de la Secretaría, se realizarán conforme a la disponibilidad presupuestal de la misma.
