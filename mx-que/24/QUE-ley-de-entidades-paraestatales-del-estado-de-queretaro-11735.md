@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-entidades-paraestatales-del-estado-de-queretaro-11735"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-06"
-last_updated: "1998-03-06"
+last_updated: "2009-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA ADMINISTRACION PUBLICA PARAESTATAL DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 17 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 6 de marzo de 1998.
 
@@ -642,3 +644,17 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO
 LIC. GUILLERMO DEL HOYO GARCÍA
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE JUNIO DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley de Entidades Paraestatales del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número 10, de fecha 6 de marzo de 1998.
+
+Artículo Tercero. Las actuales entidades paraestatales deberán llevar a cabo las acciones necesarias para su regularización, de conformidad con la presente Ley, adecuando su naturaleza, denominación o características y formalidades según corresponda.
+
+Artículo Cuarto. Los recursos asignados a las entidades paraestatales para el ejercicio fiscal 2009, serán ejercidos en los términos en que fueron autorizados.
+
+Artículo Quinto. En uso de su facultad reglamentaria, el Gobernador del Estado, podrá emitir aquellas disposiciones aplicables para las entidades paraestatales que no cuenten con reglamentos.
