@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2009-04-15"
+last_updated: "2009-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2009.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -963,9 +963,9 @@ X. Aprobar en forma definitiva, a más tardar el día quince de septiembre del a
 
 XI. Facultar al Ejecutivo del Estado para que realice transferencias presupuestales cuando exista causa grave a criterio de la Legislatura, y en los términos que disponga la ley reglamentaria;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2009)</small>
 
-XII. Aprobar, antes de que concluya el primer periodo ordinario de sesiones del año correspondiente, la Ley de Ingresos y el Presupuesto de Egresos del Estado que el Ejecutivo presentará a la Legislatura a más tardar el día treinta de noviembre de cada año, requiriéndose previamente la comparecencia del Secretario del ramo.
+XII. Aprobar, antes de que concluya el primer periodo ordinario de sesiones del año correspondiente, la Ley de Ingresos y el Presupuesto de Egresos del Estado que el Ejecutivo presentará a la Legislatura a más tardar el día treinta de noviembre de cada año, requiriéndose previamente la comparecencia del Secretario del ramo. Asimismo, podrá autorizar en dicho presupuesto las erogaciones plurianuales para aquellos proyectos de inversión en infraestructura que se determinen conforme a lo dispuesto en la ley; las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos.
 
 Cuando por cualquier circunstancia no llegaren a aprobarse tales ordenamientos, se aplicarán la Ley de Ingresos o el Presupuesto de Egresos que rigieron en el año fiscal anterior;
 
@@ -989,7 +989,9 @@ Las solicitudes de autorización de créditos que se envíen a la Legislatura de
 
 XV. Expedir la Ley que regule la organización de la Entidad de Fiscalización Superior del Estado y las demás que normen la gestión, control y evaluación de los Poderes del Estado, Municipios y sus respectivos entes públicos.
 
-Evaluar y controlar, sin perjuicio de su autonomía técnica y de gestion, el desempeño de las funciones de la Entidad de Fiscalización Superior del Estado, en los términos que disponga la Ley;
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+
+Evaluar, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones de la Entidad de Fiscalización Superior del Estado, en los términos que disponga la ley. Al efecto, podrá requerirle informes sobre la evolución de los trabajos de fiscalización;
 
 XVI. Expedir las normas que regulen el proceso de planeación del desarrollo en el Estado y la participación de los sectores social y privado en la ejecución de acciones y programas;
 
@@ -1003,7 +1005,9 @@ XIX. Expedir las leyes que normen las relaciones de trabajo de los poderes estat
 
 Los organismos descentralizados, empresas públicas y fideicomisos de las administraciones públicas estatal y municipales, tendrán el mismo régimen jurídico laboral señalado en el párrafo anterior;
 
-XX. Establecer los sistemas de control para lograr el correcto ejercicio de atribuciones y funciones de la Administración Pública en el Estado, determinando las responsabilidades de sus servidores y empleados, y señalar las sanciones;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
+
+XX. Establecer los sistemas de control para lograr el correcto ejercicio de atribuciones y funciones de la Administración Pública en el Estado, determinando las responsabilidades de sus servidores y empleados, y señalar las sanciones, así como expedir leyes en materia de contabilidad gubernamental que regirán la contabilidad pública y la presentación homogénea de la información financiera, patrimonial y de los ingresos y egresos, para el Estado y los municipios, a fin de garantizar su armonización con la Federación;
 
 XXI. Expedir las bases sobre las cuales se reglamenten las adquisiciones, arrendamientos y enajenaciones del patrimonio de la Administración Pública, y para el otorgamiento de contratos de obra pública y la adquisición de bienes y servicios;
 
@@ -1029,11 +1033,13 @@ XXX. Dirimir, en la vía concliatoria (sic), los conflictos políticos entre los
 
 Los conflictos de naturaleza contenciosa entre el Ejecutivo y los Municipios, y los de éstos entre sí, se resolverán sumariamente por el Tribunal Superior de Justicia;
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2000)</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO No. 305, PUBLICADO EN EL P.O. DE 17 DE JUNIO DE 2009, SE REFORMAN EL PRIMER Y SEGUNDO PÁRRAFOS DE LA FRACCIÓN XXXI DEL ARTÍCULO 65, APARECIENDO PUNTOS SUSPENSIVOS DESPUÉS DE LOS CITADOS PARÁGRAFOS, HACIENDO ALUSIÓN A UN TERCER PÁRRAFO; SIN EMBARGO, EN EL DECRETO No. 147 PUBLICADO EN EL P.O. DE 15 DE MARZO DE 2000, SE ESTABLECIÓ REFORMAR LA FRACCIÓN REFERIDA PARA QUEDAR CONFORMADA POR DOS PÁRRAFOS.</small>
 
-XXXI. Revisar y resolver sobre las cuentas públicas del Gobierno Estatal, de los Municipios y de sus entes públicos paraestatales y paramunicipales, correspondientes al año anterior y verificar los resultados de su gestión financiera, la utilización del crédito y el cumplimiento de las metas fijadas en los programas y proyectos de los presupuestos de egresos.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
 
-Para la revisión de las Cuentas Públicas la Legislatura se apoyará en la Entidad de Fiscalización Superior del Estado. Si del examen que ésta realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas, o no existiera exactitud o justificación en los ingresos obtenidos, o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley.
+XXXI. Revisar y resolver dentro de los siete meses siguientes a la recepción de los Informes complementarios, sobre las cuentas públicas del Gobierno Estatal, de los Municipios y de sus entes públicos paraestatales y paramunicipales, correspondientes al año anterior y verificar los resultados de su gestión financiera y la utilización del crédito. Para el cumplimiento de las metas fijadas en los programas y proyectos de los presupuestos de egresos, podrá realizar auditorías sobre el desempeño.
+
+Para la revisión de las Cuentas Públicas la Legislatura se apoyará en la Entidad de Fiscalización Superior del Estado. Si del examen que ésta realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas, o no existiera exactitud o justificación en los ingresos obtenidos, o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley. Respecto de la revisión sobre el cumplimiento de los objetivos de los programas, dicha entidad sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la ley;
 
 XXXII. Recibir la Protesta de ley a los Diputados, al Gobernador, a los Magistrados del Poder Judicial y a los demás servidores públicos que deban rendirla ante ella;
 
@@ -1145,17 +1151,23 @@ En la apertura de los periodos extraordinarios de sesiones el Gobernador del Est
 
 DE LA FISCALIZACIÓN SUPERIOR DEL ESTADO Y MUNICIPIOS.
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ###### Artículo 71.
 
-Para dar cumplimiento a las facultades de la Legislatura en materia de revisión de cuentas públicas se apoyará en la Entidad de Fiscalización Superior del Estado, la cual tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones, en los términos que disponga la Ley.
+Para dar cumplimiento a las facultades de la Legislatura en materia de revisión de cuentas públicas se apoyará en la Entidad de Fiscalización Superior del Estado, la cual tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley.
 
-La Legislatura de Estado designará al titular de la Entidad de Fiscalización por el voto de las dos terceras partes de sus miembros. La Ley determinará el procedimiento para su designación. Dicho titular durará en su encargo cuatro años pudiendo ser ratificado. Podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Séptimo de esta Constitución.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
-Para ser titular de la Entidad de Fiscalización Superior del Estado se requiere cumplir, además de los requisitos establecidos en las fracciones I, II, IV, y VI del artículo 97 de esta Constitución, los que señale la Ley. Durante su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
+La Legislatura del Estado designará al titular de la Entidad de Fiscalización por las dos terceras partes de sus miembros presentes. La Ley determinará el procedimiento para su designación. Dicho titular durará en su encargo no menos de siete años. Podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Séptimo de esta Constitución.
 
-Los Poderes del Estado, los Municipios y los sujetos de fiscalización facilitarán los auxilios que requiera la Entidad de Fiscalización Superior del Estado para el ejercicio de sus funciones.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+
+Para ser titular de la Entidad de Fiscalización Superior del Estado se requiere contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades, cumplir además de los requisitos establecidos en las fracciones I, II, IV, y VI del artículo 97 de esta Constitución, los que señale la Ley. Durante su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+
+Los Poderes del Estado, los Municipios, los entes señalados en la fracción V de este artículo y los demás sujetos de fiscalización facilitarán los auxilios que requiera la Entidad de Fiscalización Superior del Estado para el ejercicio de sus funciones, en caso de no hacerlo, se harán acreedores a las sanciones que establezca la ley. Asimismo, los servidores públicos, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos, deberán proporcionar la información y documentación que solicite la Entidad de Fiscalización Superior del Estado, de conformidad con los procedimientos establecidos en la ley y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero. En caso de no proporcionar la información, los responsables serán sancionados en los términos que señale la ley.
 
 El Poder Ejecutivo del Estado aplicará el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias a que se refiere la fracción IV del presente artículo.
 
@@ -1163,17 +1175,55 @@ La Entidad de Fiscalización Superior del Estado tendrá a su cargo:
 
 I. Fiscalizar los ingresos y los egresos; el manejo, la custodia y la aplicación de los fondos y los recursos de los Poderes del Estado y Municipios y sus entes públicos paraestatales y paramunicipales, así como el cumplimiento de los objetivos contenidos en los programas gubernamentales, a través de los informes que se rendirán en los términos que disponga la Ley.
 
-Sin perjuicio de los informes a que se refiere el párrafo anterior, en situaciones que determine la Ley, podrá requerir a los sujetos de fiscalización la presentación de documentación e informes relativos al ingreso, manejo y aplicación de los recursos públicos a su cargo.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
-Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la ley, se podrá dar lugar al fincamiento de las responsabilidades que corresponda.
+Sin perjuicio de los informes a que se refiere el párrafo anterior, en situaciones que determine la Ley, podrá requerir a los sujetos de fiscalización la presentación de la documentación e informes relativos al ingreso, manejo y aplicación de los recursos públicos a su cargo. Asimismo, sin perjuicio del principio de anualidad, la Entidad de Fiscalización Superior del Estado podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas. Las observaciones y acciones a promover que, respectivamente, la Entidad de Fiscalización Superior del Estado emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
 
-II. Entregar el informe del resultado de la revisión de las Cuentas Públicas a la Legislatura, dentro de los cinco meses posteriores a su presentación. Dentro de dicho informe se incluirán los dictámenes de su revisión y el apartado correspondiente a la fiscalización y verificación del cumplimiento de los programas, que comprenderá los comentarios y observaciones de los auditados, mismo que tendrá carácter público.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+
+También, sin perjuicio del principio de posterioridad, en las situaciones excepcionales que determine la ley, derivado de denuncias, podrá requerir a las entidades fiscalizadas que procedan a la revisión, durante el ejercicio fiscal en curso, de los conceptos denunciados y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la Ley, se impondrán las sanciones previstas en la misma. La Entidad de Fiscalización Superior del Estado rendirá un informe específico a la Legislatura y, en su caso, fincará las responsabilidades correspondientes o promoverá otras responsabilidades ante las autoridades competentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2009)</small>
+
+II. Entregar el informe del resultado de la revisión de la Cuenta Pública a la Legislatura, dentro de los cinco meses posteriores a su presentación. Dentro de dicho informe se incluirán las auditorías practicadas, los dictámenes de su revisión y el apartado correspondiente a la fiscalización del manejo de los recursos y la verificación del desempeño en el cumplimiento de los programas, que comprenderá los comentarios y observaciones de los auditados, que incluya las justificaciones y aclaraciones que, en su caso, los entes fiscalizados hayan presentado. Este informe del resultado será sometido a la consideración del pleno de la Legislatura y tendrá carácter público.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
+
+Para tal efecto, de manera previa a la presentación del informe del resultado, se darán a conocer a los entes fiscalizados la parte que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por la Entidad de Fiscalización Superior del Estado para la elaboración del informe del resultado de la revisión de la Cuenta Pública.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
+
+La Entidad de Fiscalización Superior del Estado enviará a los entes fiscalizados, a más tardar dentro de los 10 días hábiles posteriores a que sea entregado a la Legislatura el informe del resultado, las observaciones y acciones promovidas que correspondan para que, en un plazo de hasta 20 días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes, en caso de no hacerlo se harán acreedores a las sanciones establecidas en ley. Lo anterior, no aplicará a las denuncias penales y a las promociones de responsabilidades, las cuales se sujetarán a los procedimientos y términos que señale la ley.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
+
+La Entidad de Fiscalización Superior del Estado deberá pronunciarse en un plazo de 120 días hábiles sobre las respuestas emitidas por los entes fiscalizados, en caso de no hacerlo, se tendrán por atendidas las observaciones y acciones promovidas.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
+
+En el caso de las recomendaciones al desempeño los entes fiscalizados deberán precisar ante la Entidad de Fiscalización Superior del Estado, las mejoras realizadas o, en su caso, justificar su improcedencia.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
+
+La Entidad de Fiscalización Superior del Estado, deberá entregar a la Legislatura en los plazos que establezca la ley, un informe sobre la situación que guardan las observaciones y acciones promovidas.
 
 La entidad de Fiscalización Superior del Estado deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes a que se refiere este artículo. La Ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
 
 III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos públicos, y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos; y
 
 IV. Determinar los daños y perjuicios que afecten a la Hacienda Pública del Estado o Municipios o al patrimonio de los entes públicos paraestatales y paramunicipales, y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título Séptimo de esta Constitución, y presentar las denuncias y querellas penales, en cuyos procedimientos tendrá la intervención que señale la Ley.
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2009)</small>
+
+V. También fiscalizará los recursos que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en la ley y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
+
+Las entidades fiscalizadas a que se refiere el párrafo anterior, deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos que les sean transferidos y asignados, de acuerdo con los criterios que establezca la ley.
+
+La función de fiscalización será ejercida conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad, y
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2009)</small>
+
+VI. Las sanciones y demás resoluciones de la Entidad de Fiscalización Superior del Estado, podrán ser impugnadas por los entes fiscalizados y, en su caso, por los servidores públicos afectados ante la propia Entidad de Fiscalización o ante el Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas.
 
 ### CAPÍTULO TERCERO. DEL PODER JUDICIAL
 
@@ -1273,6 +1323,10 @@ III. Publicar, difundir y hacer cumplir las leyes federales;
 
 IV. Proponer a la Legislatura, a más tardar el treinta de noviembre de cada año, las iniciativas de la Ley de Ingresos y el Presupuesto de Egresos e incluir en ellas la provisión de los recursos correspondientes al propio Legislativo y al Poder Judicial, de conformidad con los principios de equilibrio y separación de Poderes y mediante mecanismos que garanticen que, una vez aprobados, sean ejercidos con plena autonomía;
 
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
+
+Sólo se podrá ampliar el plazo de presentación de la iniciativa de Ley de Ingresos y del Proyecto de Presupuesto de Egresos, cuando medie solicitud del Ejecutivo suficientemente justificada a juicio de la Legislatura, debiendo comparecer en todo caso el Secretario del ramo correspondiente, a informar de las razones que lo motiven;
+
 V. Conceder dispensa de leyes relativas al estado civil de las personas, facultad que puede delegar en los Presidentes Municipales;
 
 VI. Elaborar y promulgar los reglamentos a las leyes y decretos expedidos por la Legislatura, cuando los propios ordenamientos lo determinen, o cuando sean necesarios para su debida ejecución y cumplimiento;
@@ -1299,9 +1353,9 @@ XV. Promover el desarrollo económico y social del Estado; iniciar e impulsar to
 
 XVI. Realizar visitas de trabajo a los Municipios del Estado, con el fin de evaluar su realidad política, económica y social e impulsar los programas de acciones que propicien su desarrollo integral;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
 
-XVII. Cuidar de la recaudación y administración de los ingresos del Estado, presentando anualmente a la Legislatura, dentro de los primeros dos meses del ejercicio fiscal, la cuenta pública estatal correspondiente al año anterior; asegurar el manejo honesto, limpio y transparente de los recursos públicos; informar a la población cada tres meses sobre la situación que guardan las finanzas del Estado;
+XVII. Cuidar de la recaudación y administración de los ingresos del Estado, presentando anualmente a la Legislatura, a más tardar el 15 de febrero, la cuenta pública estatal correspondiente al año anterior; asegurar el manejo honesto, limpio y transparente de los recursos públicos; informar a la población cada tres meses sobre la situación que guardan las finanzas del Estado;
 
 XVIII. Ordenar la inversión de los caudales públicos del Estado en los distintos ramos de la administración, de conformidad con lo prevenido por la ley;
 
@@ -1679,9 +1733,7 @@ Los Jueces municipales tendrán las facultades y obligaciones que les atribuya l
 
 ###### Artículo 112.
 
-El Tribunal de lo Contencioso Administrativo forma parte del Poder Judicial del Estado. Conocerá y resolverá las controversias de carácter administrativo y fiscal que se susciten entre la Administración Pública estatal o municipal e intermunicipal y los particulares, dotado de plena jurisdicción y autonomía para dictar y ejecutar sus resoluciones.
-
-La ley establecerá su organización, funcionamiento, competencia, procedimientos y recursos.
+El Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas, forma parte del Poder Judicial del Estado. Conocerá y resolverá las controversias de carácter administrativo y fiscal que se susciten entre la Administración Pública estatal o municipal e intermunicipal y los particulares, dotado de plena jurisdicción y autonomía para dictar y ejecutar sus resoluciones, así como de las sanciones y demás resoluciones de la Entidad de Fiscalización Superior del Estado.
 
 ###### Artículo 113.
 
@@ -1689,7 +1741,7 @@ El Tribunal se integra por un Magistrado propietario y los supernumerarios que s
 
 #### SECCIÓN PRIMERA. DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ###### Artículo 114.
 
@@ -1941,7 +1993,9 @@ Por ningún medio se podrán establecer exenciones o subsidios en favor de perso
 
 Los Ayuntamientos, en el ámbito de su competencia, propondrán a la Legislatura las tasas, cuotas y tarifas aplicables a impuestos, derechos, aprovechamientos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
 
-La Legislatura aprobará las leyes de ingresos de los Municipios y revisará y fiscalizará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+
+Presentadas antes del día primero de noviembre de cada año, la Legislatura aprobará las leyes de ingresos de los Municipios y revisará y fiscalizará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles. Sólo se podrá ampliar el plazo de presentación de la iniciativa de Ley de Ingresos, cuando medie el Ayuntamiento solicitud suficientemente justificada a juicio de la Legislatura, debiendo comparecer en todo caso el Presidente Municipal a informar de las razones que lo motiven.
 
 Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos o por quien éstos autoricen conforme a la ley.
 
@@ -2091,9 +2145,9 @@ Los Municipios podrán convenir con el gobierno del Estado, asumir la prestació
 
 Los Ayuntamientos someterán a la consideración de la Legislatura la aprobación de sus leyes de ingresos y tendrán facultades para aprobar los respectivos presupuestos de egresos con base en la disponibilidad de sus ingresos, tomando en cuenta las prioridades que fijen los planes de desarrollo y los programas operativos anuales del año que corresponda, debiendo observar las normas que expida el Poder Legislativo en cuanto a manejo presupuestal y cuenta pública.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
-Dentro del mes de febrero siguiente a la conclusión del año fiscal el Ayuntamiento enviará a la Legislatura la cuenta pública, junto con los informes y documentos que justifiquen la aplicación de los ingresos y egresos, el cumplimiento de las metas propuestas en el Plan Municipal y los Programas Operativos Anuales, así como en el manejo del crédito y la situación de la deuda pública; lo anterior, sin perjuicio del informe trimestral que rendirá a la Legislatura.
+A más tardar el 15 de febrero del año siguiente a la conclusión del año fiscal, el Ayuntamiento enviará a la Legislatura la cuenta pública, junto con los informes y documentos que justifiquen la aplicación de los ingresos y egresos, el cumplimiento de las metas propuestas en el Plan Municipal y en los programas operativos anuales, así como el manejo del crédito y la situación de la deuda pública; lo anterior, sin perjuicio del informe trimestral que rendirá a la Legislatura.
 
 ###### Artículo 122.
 
@@ -2257,7 +2311,9 @@ La hacienda pública se compone de los bienes y derechos que pertenecen al Estad
 
 La hacienda pública será administrada por el Ejecutivo en la forma que prevengan las leyes
 
-Los caudales de la hacienda pública estatal no podrán ser empleados, por ningún concepto, en beneficio exclusivo de alguno de los Municipios del Estado.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+
+Los caudales de la hacienda pública estatal se administrarán con eficiencia, eficacia, economía, transparencia y honradez y no podrán ser empleados, por ningún concepto, en beneficio exclusivo de alguno de los Municipios del Estado.
 
 ###### Artículo 139.
 
@@ -2806,3 +2862,15 @@ P.O. 15 DE ABRIL DE 2009.
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 17 DE JUNIO DE 2009.
+
+Artículo primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- En cumplimiento a la reforma a la Constitución Política de los Estados Unidos Mexicanos, el Auditor Superior del Estado concluirá su periodo para el que fue nombrado, prorrogándose por tres años más su encargo y de esta manera complete el tiempo establecido en la presente reforma.
+
+Artículo tercero.- La presente aprobación no tendrá efecto retroactivo; los actos jurídicos que con anterioridad a la presente disposición legal se hayan celebrado no quedan convalidados ni exentos de responsabilidad con la aprobación del presente Instrumento, debiendo sujetarse al ámbito jurídico vigente en el momento de su celebración.
+
+Artículo cuarto.- Dentro de los sesenta días naturales siguientes a la entrada en vigor de este instrumento legislativo, deberá reformarse la Ley de Fiscalización Superior del Estado y demás ordenamientos aplicables.
+
+Artículo quinto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
