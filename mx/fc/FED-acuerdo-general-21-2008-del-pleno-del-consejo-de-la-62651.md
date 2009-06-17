@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-21-2008-del-pleno-del-consejo-de-la-62651"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-09-05"
-last_updated: "2008-12-15"
+last_updated: "2009-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62651&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-08-27"
 
 ACUERDO GENERAL 21/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE DOTA DE COMPETENCIA A LOS JUZGADOS DE DISTRITO QUE SE PRECISAN PARA CONOCER DE DELITOS COMETIDOS EN LUGAR DISTINTO AL DE SU JURISDICCION, POR RAZONES DE SEGURIDAD EN LAS PRISIONES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JUNIO DE 2009.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 5 de septiembre de 2008.
 
@@ -57,7 +57,11 @@ PRIMERO.- El presente acuerdo tiene por objeto precisar los alcances del párraf
 
 SEGUNDO.- Cuando el Ministerio Público Federal considere necesario llevar el ejercicio de la acción penal ante un juez de Distrito distinto al del lugar de comisión del delito, por razones de seguridad en las prisiones, atendiendo a las características del hecho imputado, a las circunstancias personales del inculpado y a otras que impidan garantizar el desarrollo adecuado de un proceso, se actualizará la excepción competencial prevista en el párrafo tercero del artículo 10 del Código Federal de Procedimientos Penales.
 
-TERCERO.- El juez de Distrito que reciba una consignación, con o sin detenido, en la que se ejercite la acción penal por delito o delitos cometidos fuera de su jurisdicción, y se actualice la excepción competencial mencionada en el párrafo que antecede, es el competente para conocer y resolver el asunto.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 18/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE JUNIO DE 2009)</small>
+
+TERCERO.- El juez de Distrito que reciba una consignación, con o sin detenido, en la que se ejercite la acción penal por delito o delitos cometidos fuera de su jurisdicción, y se actualice la excepción competencial mencionada en el párrafo que antecede, es el competente para conocer y resolver el asunto, con independencia, en su caso, del centro federal de readaptación social de máxima seguridad donde se encuentre recluido el detenido.
+
+Bajo ningún supuesto podrá declinar su competencia el juez de Distrito ante quien se lleve el ejercicio de la acción penal, cuando se actualice la excepción competencial invocada, sea cual fuere la etapa del procedimiento penal en que se encuentre el asunto.
 
 CUARTO.- En los procesos penales federales, cuando por las razones precisadas en el punto segundo de este acuerdo, la autoridad judicial, de oficio o a petición de parte, estime necesario trasladar a un procesado a algún centro federal de readaptación social de máxima seguridad, por escrito expresará los motivos por los que considera actualizada la excepción competencial prevista en el párrafo tercero del artículo 10 del Código Federal de Procedimientos Penales y declinará el conocimiento del asunto al juzgado de Distrito del lugar en que se ubica el centro para que se avoque a su conocimiento.
 
@@ -98,3 +102,13 @@ SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación
 TERCERO.- Las cuestiones de competencia, suscitadas entre juzgados de Distrito que se estén tramitando en los tribunales colegiados de Circuito en los que se trate de determinar a cuál órgano corresponde el conocimiento de una causa relacionada con lo previsto en la fracción XXXI que se adiciona al Acuerdo General 57/2006 del Pleno del Consejo de la Judicatura Federal, se resolverán en los términos de este acuerdo.
 
 CUARTO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar, de inmediato, el texto de la reforma, al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+
+D.O.F. 17 DE JUNIO DE 2009.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en la página de Internet del Consejo de la Judicatura Federal.
+
+TERCERO.- Las cuestiones de competencia, suscitadas entre juzgados de Distrito que se estén tramitando en los tribunales colegiados de Circuito en los que se trate de determinar a cuál órgano corresponde el conocimiento de una causa relacionada con lo previsto en la fracción XXXII del punto CUARTO del acuerdo general 57/2006 del Pleno del Consejo de la Judicatura Federal, se resolverán en los términos de este acuerdo.
+
+CUARTO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 21/2008, del Pleno del Consejo de la Judicatura Federal, por el que se dota de competencia a los Juzgados de Distrito que se precisan para conocer de delitos cometidos en lugar distinto al de su Jurisdicción, por razones de seguridad en las prisiones.
