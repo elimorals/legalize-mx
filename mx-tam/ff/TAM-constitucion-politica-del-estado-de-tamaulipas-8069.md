@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2009-06-12"
+last_updated: "2009-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2009.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -543,9 +543,11 @@ V.- Los demás señalamientos que contenga el Código Electoral para el Estado d
 
 No pueden ser electos Diputados:
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-I.- El Gobernador, el Secretario General de Gobierno, los Magistrados del Supremo Tribunal de Justicia, el Procurador General de Justicia, el Magistrado del Tribunal Fiscal del Estado, los Diputados y Senadores al Congreso de la Unión, los Magistrados, Jueces y Servidores Públicos de la Federación en el Estado, a menos que se separen 120 días antes de la elección;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
+
+I.- El Gobernador, el Secretario General de Gobierno, los Magistrados del Poder Judicial del Estado, los Consejeros de la Judicatura, el Procurador General de Justicia, el Magistrado del Tribunal Fiscal del Estado, los Diputados y Senadores al Congreso de la Unión, los Magistrados, jueces y servidores públicos de la Federación en el Estado, a menos que se separen 120 días antes de la elección;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
@@ -843,9 +845,11 @@ Asimismo, conocer de las imputaciones que se hagan a los servidores públicos a 
 
 XX. Conceder ammistía (sic) por delitos cuyo conocimiento corresponde exclusivamente a los tribunales del Estado;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-XXI. Elegir y remover a los Magistrados del Supremo Tribunal de Justicia del Estado y del Tribunal Electoral del Poder Judicial del Estado, en los términos que establece la presente Constitución. Asimismo, elegir y remover al Magistrado del Tribunal Fiscal del Estado; y ratificar al Procurador General de Justicia, con base en la designación que realice el Gobernador del Estado;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
+
+XXI. Elegir y remover a los Magistrados del Supremo Tribunal de Justicia del Estado y del Tribunal Electoral del Poder Judicial del Estado, y a los Consejeros de la Judicatura, en los términos que establece la presente Constitución. Asimismo, elegir y remover al Magistrado del Tribunal Fiscal del Estado; y ratificar al Procurador General de Justicia, con base en la designación que realice el Gobernador del Estado;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -895,9 +899,11 @@ XXXV. Decretar, en su caso, el modo de cubrir el contingente de hombres que corr
 
 XXXVI. (DEROGADA, P.O. 10 DE JUNIO DE 1995)
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-XXXVII. Recibir la protesta constitucional a los Diputados, al Gobernador, y a quienes en su caso deban ejercer esta función; a los Magistrados del Supremo Tribunal de Justicia, del Tribunal Electoral del Poder Judicial del Estado y del Tribunal Fiscal del Estado; al Presidente de la Comisión de Derechos Humanos; al Consejero Presidente y a los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, y a los servidores públicos de su nombramiento que conforme a las leyes deban rendirla;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
+
+XXXVII. Recibir la protesta constitucional a los Diputados, al Gobernador, y a quienes en su caso deban ejercer esta función; a los Magistrados del Supremo Tribunal de Justicia, del Tribunal Electoral del Poder Judicial del Estado y del Tribunal Fiscal del Estado; a los Consejeros de la Judicatura, con excepción de su Presidente; al Presidente de la Comisión de Derechos Humanos; al Consejero Presidente y a los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, y a los servidores públicos que nombre y que conforme a las leyes deban rendirla;
 
 XXXVIII. Fomentar e impulsar la educación pública y todos los ramos de prosperidad en general;
 
@@ -947,9 +953,11 @@ XLVIII. Dictar Leyes para organizar el sistema penal sobre la base del trabajo, 
 
 LIX (sic). Convocar a elecciones en caso de muerte del Gobernador, o cuando por haber declarado que ha lugar a formación de causa en su contra, haya sido consignado y quede acéfalo el Poder Ejecutivo y siempre que la falta obsoluta (sic) ocurra durante los tres primeros años del período;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-L. Conocer y resolver sobre la renuncia y los impedimentos que tengan para desempeñar sus cargos los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Poder Judicial del Estado, nombrando en su caso quien deba sustituirlos, conforme al procedimiento aplicable para cada caso;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
+
+L. Conocer y resolver sobre la renuncia y los impedimentos que tengan para desempeñar sus cargos los Magistrados del Supremo Tribunal de Justicia, del Tribunal Electoral del Poder Judicial del Estado y los consejeros de la Judicatura nombrando en su caso a quien deba sustituirlos, conforme al procedimiento aplicable para cada caso;
 
 > <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -1331,9 +1339,11 @@ III.- Los Militares que no se hayan separado del servicio activo por lo menos 12
 
 IV.- Los que desempeñen algún cargo o comisión de otros Estados o de la Federación, a menos que se separen de ellos 120 días antes de la elección, sean o no de elección popular;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-V.- Los Magistrados del Supremo Tribunal, Diputados locales, Procurador General de Justicia y Secretario General de Gobierno, o quien haga sus veces, si no se encuentran separados de sus cargos, cuando menos 120 días antes de la elección;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
+
+V.- Los Magistrados del Poder Judicial, consejeros de la Judicatura, Diputados locales, Procurador General de Justicia y Secretario General de Gobierno, o quien haga sus veces, si no se encuentran separados de sus cargos, cuando menos 120 días antes de la elección;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
@@ -1453,9 +1463,11 @@ XII.- Iniciar ante el Congreso las Leyes y los Decretos que estime convenientes 
 
 XIII. Proponer a la Diputación Permanente la convocación del Congreso a sesiones extraordinarias;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-XIV. Proponer al Congreso del Estado para su estudio y aprobación en su caso, el nombramiento de Magistrados del Supremo Tribunal de Justicia del Estado, así como la propuesta de designación del Magistrado del Tribunal Fiscal del Estado;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
+
+XIV. Proponer al Congreso del Estado para su estudio y aprobación, en su caso, el nombramiento de Magistrados del Poder Judicial del Estado, con excepción de los Magistrados del Tribunal Electoral, mismos que serán nombrados mediante el procedimiento que para tal efecto se establece en esta Constitución; así como la propuesta de designación del Magistrado del Tribunal Fiscal del Estado;
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
 
@@ -1483,7 +1495,11 @@ XX. Ejercer la superior inspección de la Hacienda Pública del Estado y velar p
 
 XXI. Celebrar, en los términos de ley, con el Ejecutivo Federal, las dependencias y entidades de la Administración Pública, las Entidades Federativas y los Municipios los convenios y acuerdos necesarios para el desarrollo económico y social de la Nación, el Estado y los Municipios. Asimismo, podrá inducir y concertar con los particulares acciones destinadas al mismo objeto;
 
-XXII. (DEROGADA, P.O. 14 DE MARZO DE 2001)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE JUNIO DE 2009)</small>
+
+XXII. Designar un consejero de la Judicatura conforme lo establece el primer párrafo de la fracción II del artículo 106 de esta Constitución;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -1655,9 +1671,17 @@ El Secretario General de Gobierno tendrá responsabilidad solidaria con el Gober
 
 La ausencia temporal del Secretario General de Gobierno será cubierta por uno de los Subsecretarios del ramo, con las prerrogativas, obligaciones y responsabilidades que establecen los Artículos 95, 96, 97 y 98 de esta Constitución.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL DECRETO No. LX-706, PUBLICADO EN EL P.O. DE 17 DE JUNIO DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE TITULO, QUEDANDO CONFORMADO DE DOS CAPITULOS; Y EN RELACION CON LA ENTRADA EN VIGOR DEL MISMO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+
 ## TITULO VI. DEL PODER JUDICIAL
 
-### CAPITULO I. De la Administración de Justicia
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+
+### CAPITULO I. De la Integración y Funcionamiento del Poder Judicial
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
@@ -1665,11 +1689,31 @@ La ausencia temporal del Secretario General de Gobierno será cubierta por uno d
 
 El ejercicio del Poder Judicial se deposita en el Supremo Tribunal de Justicia, en el Tribunal Electoral del Poder Judicial del Estado, en los Juzgados de Primera Instancia, en los Juzgados Menores, en los Juzgados de Paz y en el Jurado Popular.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
+
+La administración, vigilancia y disciplina del Poder Judicial del Estado, con excepción del Pleno del Supremo Tribunal de Justicia y del Tribunal Electoral del Poder Judicial del Estado, estará a cargo del Consejo de la Judicatura del Poder Judicial del Estado, en los términos que al efecto señale esta Constitución y la ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
+
+El Consejo de la Judicatura es un órgano del Poder Judicial del Estado con independencia técnica, de gestión y para emitir sus resoluciones.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
+
+Las decisiones del Consejo serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en contra de éstas, salvo las que se refieran a la adscripción y remoción de jueces, las cuales podrán ser revisadas por el Pleno del Supremo Tribunal de Justicia, para el sólo efecto de verificar si sus términos se apegaron a lo que dispone la ley orgánica respectiva.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ###### Art. 101.
 
-La potestad de impartir justicia mediante la aplicación de las leyes en lo familiar, civil, penal, electoral y de justicia para adolescentes, así como de aquellas otras que pudieran corresponderle, pertenece al Poder Judicial, el cual actuará de manera independiente, imparcial, responsable y sometida únicamente al imperio de la ley. Ningún otro poder, salvo cuando el Congreso actúe como jurado, podrá ejercer funciones judiciales.
+La potestad de impartir justicia mediante el control constitucional estatal, y la aplicación de las leyes en los asuntos de carácter familiar, civil, penal, electoral y de justicia para adolescentes, así como de aquellas otras que pudieran corresponderle, pertenece al Poder Judicial, el cual actuará de manera independiente, imparcial, responsable y sometida únicamente al imperio de la ley. Ningún otro poder, salvo cuando el Congreso actúe como jurado, podrá ejercer funciones judiciales.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
@@ -1679,17 +1723,21 @@ Los Jueces y Magistrados no pueden ejercer otras funciones que las expresamente 
 
 La justicia se administrará en nombre de la ley, la que determinará las formalidades para los procedimientos judiciales. Las ejecutorias y provisiones de los Tribunales, se ejecutarán por ellos mismos, en nombre del Estado, en la forma que las leyes prescriban. El juzgador que conozca de un asunto en una instancia, no podrá hacerlo en la otra.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ###### Art. 103.
 
-En los términos que disponen las leyes, es obligatorio para los servidores públicos y para los gobernados, cumplir las sentencias y demás resoluciones firmes del Supremo Tribunal de Justicia, de los Magistrados, del Tribunal Electoral del Poder Judicial del Estado y de los Jueces; así como prestar la colaboración solicitada por éstos en el curso del proceso y en la ejecución de lo resuelto. La autoridad requerida en forma para el cumplimiento de una orden judicial, deberá proporcionar de inmediato los elementos necesarios para ello, bajo pena de hacerse acreedora a las sanciones que la ley determine para tal efecto.
+En los términos que disponen las leyes, es obligatorio para los servidores públicos y para toda persona, cumplir las sentencias y demás resoluciones firmes del Supremo Tribunal de Justicia, de sus Salas, del Tribunal Electoral del Poder Judicial del Estado, de sus Magistrados, del Consejo de la Judicatura y de los Jueces; así como prestar la colaboración solicitada por cualquiera de esos ámbitos o titulares de función en el curso de un proceso o en la ejecución de lo resuelto. La autoridad requerida en forma para el cumplimiento de una orden judicial, deberá proporcionar de inmediato los elementos necesarios para ello, bajo pena de hacerse acreedora a las sanciones que la ley determine.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ###### Art. 104.
 
-Los servidores públicos del Poder Judicial del Estado, al entrar a ejercer su encargo, deberán rendir la protesta de ley. Los Magistrados lo harán ante el Congreso del Estado y los Jueces ante el Pleno del Supremo Tribunal de Justicia. El resto de los servidores públicos del Poder Judicial lo harán ante su superior jerárquico inmediato.
+Los servidores públicos del Poder Judicial del Estado deberán rendir la protesta a que se refiere el primer párrafo del artículo 158 de esta Constitución, previo al ejercicio de su encargo. Los Magistrados y los Consejeros de la Judicatura lo harán ante el Congreso del Estado, con excepción de su presidente, y los jueces ante el Pleno del Supremo Tribunal de Justicia. El resto de los servidores públicos del Poder Judicial lo harán ante su superior jerárquico inmediato.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
@@ -1697,13 +1745,17 @@ Los servidores públicos del Poder Judicial del Estado, al entrar a ejercer su e
 
 Los delitos imputables a los servidores públicos de la administración de justicia producen acción popular contra los mismos y contra sus cómplices, de acuerdo con lo dispuesto por el Título XI de esta Constitución.
 
-(REUBICADO, P.O. 15 DE ENERO DE 2007)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ###### Art. 106.
 
-El Supremo Tribunal de Justicia se integrará por diez Magistrados de Número, quienes integrarán Pleno, así como por los Magistrados Supernumerarios y los Magistrados Regionales que sus funciones requieran conforme a la ley y sustente el presupuesto de egresos.
+El Poder Judicial estará conformado por:
 
-Los Magistrados de Número y los Supernumerarios residirán en la Capital del Estado y desahogarán sus funciones en Pleno, en Salas Colegiadas o en Salas Unitarias, según corresponda y de acuerdo a lo que disponga la ley. Los Magistrados Regionales actuarán en Salas Unitarias y resolverán los asuntos que señale la ley.
+I.- El Supremo Tribunal de Justicia, integrado por diez Magistrados de Número, quienes conformarán al Pleno, así como por los Magistrados Supernumerarios y los Magistrados Regionales que conforme a la ley requieran sus funciones y sustente el presupuesto de egresos.
+
+Los Magistrados de número y los supernumerarios residirán en la Capital del Estado y desahogarán sus funciones en Pleno, en Salas Colegiadas o en Salas Unitarias, según corresponda y de acuerdo a lo que disponga la ley. Los Magistrados regionales actuarán en Salas Unitarias y resolverán los asuntos que señale la ley.
 
 Los Magistrados del Supremo Tribunal de Justicia serán nombrados por un periodo de seis años y podrán ser ratificados hasta completar un máximo de doce años contados a partir de la fecha inicial de su designación. Sólo podrán ser removidos de su encargo en los términos del Título XI de esta Constitución y, al término de su desempeño, tendrán derecho a un haber por retiro conforme a lo que disponga la ley.
 
@@ -1711,21 +1763,47 @@ Las personas que hayan ocupado el cargo de Magistrado del Supremo Tribunal de Ju
 
 Quien haya sido ratificado para un segundo periodo no podrá ser propuesto nuevamente como Magistrado, salvo que hubiere ejercido el cargo con carácter de provisional.
 
-Los Magistrados y Jueces serán nombrados preferentemente entre aquellas personas que hayan servido con eficacia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+Los Magistrados y jueces serán nombrados preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2007)</small>
+II.- El Consejo de la Judicatura del Estado se integrará por cinco consejeros, uno de los cuales será el Presidente del Supremo Tribunal de Justicia, quien lo presidirá; dos serán nombrados por el Congreso del Estado a propuesta del Pleno del Supremo Tribunal de Justicia; uno será designado por el Congreso del Estado a propuesta de la Junta de Coordinación Política, y uno más designado por el Ejecutivo Estatal, en los términos de esta Constitución y las leyes.
+
+La propuesta realizada por el Pleno del Supremo Tribunal de Justicia ante el Congreso del Estado deberá recaer sobre personas que sean o hayan sido servidores públicos del Poder Judicial del Estado y que se hayan distinguido por su buen desempeño.
+
+Los consejeros durarán en su cargo seis años, serán sustituidos de manera escalonada y no podrán ser designados para un periodo inmediato posterior.
+
+Para ser consejero de la Judicatura se exigirán los mismos requisitos que para el cargo de Magistrado.
+
+El Presidente del Supremo Tribunal de Justicia permanecerá en el cargo de Presidente del Consejo de la Judicatura durante el tiempo que desempeñe aquella función, sin recibir remuneración adicional.
+
+Los consejeros de la Judicatura del Estado no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad.
+
+Las personas que hayan ocupado el cargo de Consejero de la Judicatura, no podrán, dentro de los dos años siguientes a la fecha de su retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado y, al término de su desempeño tendrán derecho a un haber por retiro conforme a lo que disponga la ley.
+
+Los designados consejeros, una vez concluida dicha encomienda, podrán continuar su carrera judicial en un cargo similar al que desempeñaban previo a su designación como consejeros, si fuera el caso. El Consejo dispondrá su adscripción en términos de esta Constitución.
+
+El Consejo de la Judicatura del Estado funcionará en Pleno o en comisiones. El Pleno sesionará con la presencia de su Presidente y de, al menos, tres de sus integrantes.
+
+III.- El Tribunal Electoral del Estado, en los términos previstos en el artículo 20 fracción IV de esta Constitución.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ###### Art. 107.
 
-El Poder Judicial del Estado goza de autonomía presupuestal, orgánica y funcional. Para garantizar su independencia económica, el presupuesto de egresos del Poder Judicial no podrá ser inferior del 1.2 % del total del presupuesto general del Estado previsto para el año fiscal a ejercer, mismo que administrará, ejercerá y justificará en los términos que fijen las leyes respectivas, y cuya asignación por concepto de gasto corriente no podrá ser menor al aprobado por el Congreso para el ejercicio anual inmediato anterior. En caso de que al término del ejercicio existan sumas no erogadas, se enterarán a la Hacienda del Estado.
+El Poder Judicial del Estado goza de autonomía presupuestal, orgánica y funcional. Para garantizar su independencia económica, el presupuesto de egresos del Poder Judicial no podrá ser Inferior del 1.3 % del total del presupuesto general del Estado previsto para el año fiscal a ejercer, mismo que administrará, ejercerá y Justificará en los términos que fijen las leyes respectivas, y cuya asignación por concepto de gasto corriente no podrá ser menor al aprobado por el Congreso para el ejercicio anual Inmediato anterior. En caso de que al término del ejercicio existan sumas no erogadas, se enterarán a la Hacienda del Estado.
 
-> <small>(ADICIONADO [N. DE E. ANTES ULTIMO ENUNCIADO DEL PARRAFO QUE ANTECEDE], P.O. 12 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-Los Magistrados del Supremo Tribunal de Justicia y los Jueces percibirán remuneración adecuada e irrenunciable, determinada anualmente, la cual no podrá ser disminuida durante su encargo.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+Los Magistrados del Poder Judicial, los consejeros de la Judicatura y los jueces percibirán remuneración adecuada e irrenunciable, determinada anualmente, la cual no podrá ser disminuida durante su encargo.
 
-El Poder Judicial constituirá un Fondo Auxiliar para la Administración de Justicia que se integrará y funcionará en los términos previstos en la ley, del cual y sin perjuicio de las remuneraciones que correspondan de acuerdo al presupuesto, el Supremo Tribunal de Justicia aplicará un porcentaje de los recursos económicos que lo integren para incrementar la capacitación, adquisición de equipo y mejorar las condiciones de trabajo de los servidores públicos del Poder Judicial, conforme a lo que al efecto acuerde el Pleno.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+
+El Poder Judicial constituirá un Fondo Auxiliar para la Administración de Justicia se integrará y funcionará en los términos previstos en la ley, del cual y sin perjuicio de las remuneraciones que correspondan de acuerdo al presupuesto, el Consejo de la Judicatura aplicará un porcentaje de los recursos económicos que lo integren para incrementar la capacitación, adquisición de equipo y mejorar las condiciones de trabajo de los servidores públicos del Poder Judicial, conforme a lo que al efecto acuerde el Pleno del propio Consejo.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2007)</small>
 
@@ -1745,21 +1823,35 @@ Los Magistrados del Supremo Tribunal de Justicia serán nombrados o ratificados 
 
 Si la vacante para la integración del Supremo Tribunal de Justicia se produce encontrándose en receso el Congreso del Estado, la Diputación Permanente lo convocará de inmediato a Sesiones Extraordinarias para conocer de dicho asunto.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ###### Art. 110.
 
-Los Magistrados serán inamovibles durante el período de su encargo, el cual cesará únicamente en los términos del Título XI de esta Constitución. Son causas de retiro forzoso:
+Los Magistrados y los consejeros serán inamovibles durante el periodo de su encargo, el cual cesará únicamente en los términos del Título XI de esta Constitución. Son causas de retiro forzoso:
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
 
 I.- Haber cumplido 70 años de edad;
 
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
+
 II.- Jubilarse en los términos legales;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
 
 III.- Padecer incapacidad física o mental que los imposibilite para el desempeño de su función; y,
 
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
+
 IV.- Renunciar a su cargo o situarse en el supuesto que prevé el segundo párrafo del artículo 112 de esta Constitución.
 
-Los Magistrados solo podrán ser removidos de su encargo por el Congreso del Estado, en los términos dispuestos por el párrafo anterior. El Pleno del Supremo Tribunal de Justicia podrá, previa audiencia, separar de plano de su encargo a los Jueces, cuando a su juicio considere que existe incumplimiento de sus funciones.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+
+Los Magistrados y los consejeros sólo podrán ser removidos de su encargo por el Congreso del Estado, en los términos dispuestos por esta Constitución.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
@@ -1787,117 +1879,163 @@ IV.- No haber ocupado por lo menos durante el año previo al día de la designac
 
 V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ###### Art. 112.
 
-No podrán formar parte del Supremo Tribunal de Justicia, o del Tribunal Electoral del Poder Judicial del Estado, dos o más Magistrados que tengan entre sí parentesco por consanguinidad hasta el cuarto grado, o por afinidad hasta el segundo.
+No podrán formar parte del Supremo Tribunal de Justicia, del Tribunal Electoral del Poder Judicial del Estado o del Consejo de la Judicatura, dos o más personas que tengan entre sí parentesco por consanguinidad hasta el cuarto grado, o por afinidad hasta el segundo.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 Ningún servidor público del Poder Judicial, aun con licencia, podrá ser abogado de terceros, apoderado en negocios ajenos, asesor, árbitro de derecho o arbitrador, ni desempeñar ningún otro empleo, cargo o comisión, ya sea público o privado, por el que reciba remuneración alguna; salvo los casos de docencia, investigación, literatura o beneficencia. Quien contravenga esta disposición será separado de su encargo, de acuerdo al trámite que disponga la ley.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
+
+Las ausencias temporales o definitivas de los Magistrados o de los consejeros serán cubiertas en términos de esta Constitución y de la ley, en su caso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ###### Art. 113.
 
-Las faltas temporales y definitivas de los Magistrados serán cubiertas en los términos que establezca la ley.
+El Pleno del Supremo Tribunal de Justicia, en funciones de tribunal constitucional, tendrá jurisdicción para conocer y resolver, en los términos que señale la ley reglamentaria, exceptuándose por cuanto disponen los artículos 76, fracción VI y 105, fracciones I y II de la Constitución Política de los Estados Unidos Mexicanos, los siguientes medios de control de la constitucionalidad local:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2007)</small>
+I.- De la controversia constitucional local, que podrán promover los Poderes del Estado y los municipios, para impugnar actos o normas generales estatales o municipales que invadan su competencia conforme a esta Constitución. El Poder Judicial del Estado no podrá ser parte actora ni demandada en estas controversias.
+
+II.- De la acción de inconstitucionalidad local, para impugnar normas generales expedidas por el Congreso del Estado o por un Ayuntamiento, que sean contrarias a esta Constitución. Podrán promoverla los Diputados, tratándose de normas generales expedidas por el Congreso del Estado o por los síndicos y regidores tratándose de normas generales expedidas por su respectivo Ayuntamiento, en los términos que determine la ley. Esta acción también podrá promoverla el Procurador General de Justicia del Estado y, tratándose de normas generales que violen los derechos humanos establecidos por esta Constitución, por el Presidente de la Comisión de Derechos Humanos del Estado.
+
+Las sentencias dictadas para resolver los asuntos planteados conforme a las fracciones I y II de este artículo, que declaren inconstitucional una norma general, tendrán efectos generales cuando sean votados por las dos terceras partes de los integrantes del Pleno Supremo Tribunal de Justicia, a partir de la fecha en que sean publicadas en el Periódico Oficial del Estado o de la fecha posterior a la publicación que la propia resolución ordene.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ###### Art. 114.
 
-Son atribuciones del Pleno del Supremo Tribunal de Justicia:
+Son atribuciones de los órganos del Poder Judicial del Estado:
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+A. Del Pleno del Supremo Tribunal de Justicia:
 
-I.- Conocer en segunda instancia de los asuntos familiares, civiles, penales o de justicia para adolescentes y de aquellos que establezcan otras leyes, que al efecto remitan los jueces de Primera Instancia o Menores;
+I.- Resolver las controversias constitucionales y las acciones de inconstitucionalidad, conforme lo establezcan esta Constitución y la ley;
 
-II.- Conocer en Pleno de las controversias del orden civil o mercantil que se susciten entre particulares y el Estado o los Ayuntamientos;
+II.- Conocer en segunda instancia de los asuntos familiares, civiles, penales o de justicia para adolescentes y de aquellos que establezcan otras leyes, que al efecto remitan los jueces de primera instancia o menores;
 
-III.- Erigirse en Jurado de Sentencia para conocer y resolver, sin recurso ulterior, las causas que se instruyan contra servidores públicos, conforme a lo dispuesto por el Título XI de esta Constitución;
+III.- Conocer en Pleno de las controversias del orden civil o mercantil que se susciten entre particulares y el Estado o entre particulares y los Ayuntamientos;
 
-IV.- Ordenar las visitas carcelarias de acuerdo a las disposiciones de la ley;
+IV.- Erigirse en jurado de sentencia para conocer y resolver, sin recurso ulterior, las causas que se instruyan contra servidores públicos, conforme a lo dispuesto por el Título XI de esta Constitución;
 
-V.- Atender las dudas sobre la interpretación de la ley que sean planteadas por los Jueces o surjan del seno del propio Tribunal;
+V.- Atender las dudas sobre la interpretación de la ley que sean planteadas por los jueces o surjan del seno del propio Tribunal;
 
 VI.- Dirimir las cuestiones de competencia que surjan entre las autoridades judiciales del Estado, en los términos que fije la ley;
 
-VII.- Formular, ante el Congreso del Estado, iniciativas de ley tendientes a mejorar la administración de Justicia, así como expedir y modificar, en su caso, los reglamentos que se requieran para este fin;
+VII.- Formular, ante el Congreso del Estado, iniciativas de ley tendientes a mejorar la impartición de justicia; así como expedir y modificar, en su caso, los reglamentos y los acuerdos generales que se requieran para este fin;
 
-VIII.- Dictar medidas que se estimen pertinentes para que la administración de justicia que impartan los Tribunales del Estado, sea pronta, completa e imparcial;
+VIII.- Formular, expedir y modificar, en su caso, el Reglamento Interior del Supremo Tribunal de Justicia;
 
-IX.- Formular, expedir y modificar, en su caso, el Reglamento Interior del Supremo Tribunal de Justicia;
+IX.- Determinar a propuesta del Presidente la competencia de las Salas, las adscripciones de los Magistrados a las mismas; y adscribir, en su caso, a los Magistrados supernumerarios a las Salas en los supuestos que determine la ley;
 
-X.- Determinar a propuesta del Presidente la competencia de las Salas, las adscripciones de los Magistrados a las mismas; y adscribir, en su caso, a los Magistrados Supernumerarios a las Salas en los supuestos que determine la ley;
+X.- Elegir Presidente del Pleno del Supremo Tribunal, en los términos que determine la ley, quien a su vez lo será del Consejo de la Judicatura;
 
-XI.- Elegir Presidente del Pleno en los términos que determine la ley;
+XI.- Delegar al Presidente las atribuciones que estime pertinentes;
 
-XII.- Delegar al Presidente las atribuciones que estime pertinentes;
+XII.- Recibir, en sesión plenaria, extraordinaria, pública y solemne que se verificará antes de la segunda quincena del mes de marzo de cada año, el informe anual de labores que deberá rendir su Presidente sobre el estado que guardan el Poder Judicial del Estado y la impartición de justicia, con excepción de la materia electoral.
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2007)</small>
+El informe se entregará por escrito al Congreso del Estado, en la modalidad que éste acuerde;
 
-XIII.- Recibir, en Sesión plenaria, extraordinaria, pública y solemne, el informe anual de labores que deberá rendir su Presiente sobre el estado que guarda la administración de justicia, que se verificará antes de la segunda quincena del mes de marzo de cada año. Asimismo, deberá entregar por escrito dicho informe al Congreso del Estado, en la modalidad que éste acuerde;
+XIII.- Acordar, en los casos que considere necesario, la propuesta al Gobernador del Estado para la creación de Magistraturas Supernumerarias y de Magistraturas Regionales;
 
-XIV.- (DEROGADA, P.O. 15 DE ENERO DE 2007)
+XIV.- Nombrar, a los jueces de primera instancia, a los jueces menores y a los jueces de paz y, en su caso, determinar sobre su ratificación con base en la propuesta correspondiente del Consejo de la Judicatura;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2007)</small>
+XV.- Tomar la protesta de ley, por conducto del Presidente, a los jueces de primera instancia, los jueces menores y los jueces de paz;
 
-XV.- Acordar, en los casos que considere necesario, la propuesta al Gobernador del Estado para la creación de Magistraturas Supernumerarias y de Magistraturas Regionales;
+XVI.- Calificar los impedimentos de los Magistrados para conocer de los asuntos sometidos a su jurisdicción, en caso de excusa o recusación, en los términos previstos por la ley;
 
-XVI.- Nombrar, cesar o suspender a los Jueces de Primera Instancia; Jueces Menores; Secretarios de Acuerdos; Relatores y Actuarios del Pleno, de las Salas y de los Juzgados; y al personal subalterno, en los casos y con las condiciones que establezca la ley; así como, en su caso, confirmar a los Jueces de Primera Instancia y Menores;
+XVII.- Conceder licencias hasta por un mes a los Magistrados del Poder Judicial, así como admitir sus renuncias, sancionar sus faltas y fijar los períodos de vacaciones del propio Poder Judicial, en los términos que determine la ley;
 
-XVII.- Tomar la protesta de ley, por conducto del Presidente, a los Jueces de Primera Instancia y Menores; así como designar a quien deba suplirlos, en los casos de ausencias temporales, de acuerdo con lo dispuesto en la ley;
+XVIII.- Conocer las quejas que se formulen contra los Magistrados del Supremo Tribunal de Justicia, con motivo del ejercicio de sus funciones, las cuales se sustanciarán de acuerdo al procedimiento establecido en la ley, así como resolver, en única instancia, los juicios de responsabilidad civil que se promuevan en contra de los mismos;
 
-XVIII.- Señalar a cada Juez su distrito judicial, su número y la materia en que debe ejercer sus funciones; así como designar a cada Juzgado su domicilio, según lo estime conveniente para mejorar el servicio público;
+XIX.- Conocer y resolver, en única instancia, las causas que se instruyan en contra de alguno de sus miembros, los jueces de primera instancia, los jueces menores y los jueces de paz por delitos cometidos en el ejercicio de sus funciones, y de las que deban sustanciarse contra los secretarios del mismo Tribunal, por faltas y abusos cometidos en el desempeño de sus cargos;
 
-XIX.- Establecer remuneración adecuada e irrenunciable para Magistrados y Jueces, la cual no podrá ser disminuida durante su encargo;
+XX.- Imponer correcciones disciplinarias a los Magistrados Numerarios, Supernumerarios y Regionales, en los términos que determine la ley;
 
-XX.- Calificar los impedimentos de los Magistrados y Jueces de Primera Instancia para conocer de los asuntos sometidos a su jurisdicción, en caso de excusa o recusación, en los términos previstos por la ley;
+XXI.- Calificar los impedimentos de los jueces de primera instancia para conocer de los asuntos sometidos a su jurisdicción, en caso de excusa o recusación, en los términos previstos por la ley;
 
-XXI.- Conceder licencias hasta por un mes a los servidores públicos del Poder Judicial, así como admitir sus renuncias, sancionar sus faltas y fijar los períodos de vacaciones del propio Poder Judicial, en los términos que determine la ley;
+XXII.- Imponer correcciones disciplinarias a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones, actuaciones o diligencias en que intervengan ofendan o falten al respeto al Supremo Tribunal de Justicia, a alguno de sus miembros o a cualquier servidor público del Poder Judicial;
 
-XXII.- Conocer de las quejas que se formulen contra los servidores públicos del Poder Judicial, con motivo del ejercicio de sus funciones, las que se sustanciarán de acuerdo al procedimiento establecido en la ley;
+XXIII.- Conocer y tramitar la ejecución de sentencias ejecutoriadas contra el Estado, los Municipios y las entidades autónomas, en los términos del Código de Procedimientos Civiles;
 
-XXIII.- Resolver, en única instancia, los juicios de responsabilidad civil que se promuevan en contra de los mismos;
+XXIV.- Promover y aplicar la mediación entre las partes, en las diversas materias de su competencia;
 
-XXIV.- Conocer y resolver, en única instancia, las causas que se instruyan en contra de alguno de sus miembros, contra los Jueces de Primera Instancia y Jueces Menores por delitos cometidos en el ejercicio de sus funciones, y de las que deban sustanciarse contra los Secretarios del mismo Tribunal, por faltas y abusos cometidos en el desempeño de sus empleos;
+XXV.- Proponer al Congreso del Estado a los candidatos a Magistrado Presidente y Magistrados del Tribunal Electoral del Poder Judicial del Estado, en los términos señalados en el artículo 20, fracción IV, de esta Constitución y bajo el procedimiento que señale la ley respectiva;
 
-XXV.- Imponer correcciones disciplinarias a los servidores públicos del Poder Judicial, en los términos que determine la ley;
+XXVI.- Aprobar el proyecto de presupuesto anual de egresos del Poder Judicial, que deberá presentarle el Consejo de la Judicatura, el que deberá ser remitido al Congreso del Estado, para su aprobación;
 
-XXVI.- Denunciar ante el Ministerio Público los hechos de que tenga conocimiento y que impliquen la probable responsabilidad de un servidor público del Poder Judicial;
+XXVII.- Recibir, en sesión plenaria, extraordinaria, pública y solemne, el informe de labores que deberá rendir el Presidente del Tribunal Electoral del Poder Judicial del Estado sobre el estado que guarda el Tribunal y la impartición de justicia electoral. Dicho acto se verificará dentro de los seis meses siguientes a que concluya cada proceso electoral y conforme a lo que disponga la ley; y
 
-XXVII.- Conocer y tramitar la ejecución de sentencias ejecutoriadas contra el Estado, los Municipios y las entidades autónomas, en los términos del Código de Procedimientos Civiles;
+XXVIII.- Las demás facultades y obligaciones que las leyes le otorguen.
 
-XXVIII.- Corregir los abusos que se adviertan en la administración de justicia, por medio de disposiciones de carácter general que no impliquen intromisión en los asuntos que se tramiten en los juzgados, no restrinjan la independencia de criterio de los juzgadores, ni entorpezcan sus funciones;
+B. Del Consejo de la Judicatura:
 
-XXIX.- Constituir, modificar, suprimir o aumentar los órganos administrativos que sean necesarios para la buena marcha de la administración de justicia; así como el número de servidores públicos del Supremo Tribunal de Justicia;
+I.- Nombrar, adscribir, confirmar, remover o suspender al personal del Poder Judicial, excepto a los Magistrados y el personal que tenga señalado un procedimiento específico para ello;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2008)</small>
+II.- Proponer al Pleno del Supremo Tribunal de Justicia el nombramiento, ratificación, remoción o suspensión de los jueces del Poder Judicial del Estado;
 
-XXX. Discutir y aprobar el proyecto de presupuesto anual de egresos del Poder Judicial que deberá formular y proponer el Presidente, el que deberá ser remitido al Congreso del Estado, para su aprobación, así como ejercer y administrar en forma autónoma el presupuesto que le sea aprobado.
+III.- Designar a quien deba suplir a los funcionarios del Poder Judicial, excepto a los Magistrados del Supremo Tribunal de Justicia, en los casos de ausencias temporales, de acuerdo con lo dispuesto en la ley;
 
-El proyecto que se remita al Congreso del Estado, deberá incluir la propuesta de la materia formulada por el Tribunal Electoral del Poder Judicial del Estado en los términos de lo dispuesto por el artículo 20, fracción IV, antepenúltimo párrafo de esta Constitución;
+IV.- Definir el Distrito Judicial, número, materia y domicilio de cada juzgado;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+V.- Señalar a cada juez su distrito judicial, su número y la materia en que debe ejercer sus funciones;
 
-XXXI.- Imponer correcciones disciplinarias a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones, actuaciones o diligencias en que intervengan ofendan o falten al respeto al Supremo Tribunal de Justicia, a alguno de sus miembros o a cualquier servidor público del Poder Judicial;
+VI.- Crear nuevos juzgados y distritos judiciales, previa sustentación presupuestal para ello;
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+VII.- Conceder las licencias, admitir las renuncias y sancionar las faltas del personal del Poder Judicial, excepto las de los Magistrados y el personal que tenga señalado un procedimiento especial para ello, en los términos que establezca la ley;
 
-XXXII.- Promover y aplicar la mediación entre las partes, en las diversas materias de su competencia; y (sic)
+VIII.- Conocer de las quejas que se formulen contra los servidores públicos del Poder Judicial, con excepción de los Magistrados del Supremo Tribunal de Justicia, con motivo del ejercicio de sus funciones, las que se sustanciarán de acuerdo al procedimiento establecido en la ley;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2008)</small>
+IX.- Corregir los abusos que se adviertan en la impartición de justicia, por medio de disposiciones de carácter general que no impliquen intromisión en los asuntos que se tramiten en los juzgados, no restrinjan la independencia de criterio de los juzgadores, ni entorpezcan sus funciones;
 
-XXXIII. Proponer al Congreso del Estado a los candidatos a Magistrado Presidente y Magistrados del Tribunal Electoral del Poder Judicial del Estado, en los términos señalados en el artículo 20, fracción IV de esta Constitución y bajo el procedimiento que señale la ley respectiva;
+X.- Denunciar ante el Ministerio Público los hechos de que tenga conocimiento y que impliquen la probable responsabilidad de un servidor público del Poder Judicial;
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2008)</small>
+XI.- Imponer correcciones disciplinarias a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones, actuaciones o diligencias en que intervengan, siempre y cuando se estén ventilando ante el propio Consejo de la Judicatura, ofendan o falten al respeto al Supremo Tribunal de Justicia, a alguno de sus miembros o a cualquier servidor público del Poder Judicial;
 
-XXXIV. Recibir, en Sesión plenaria, extraordinaria, pública y solemne, el informe de labores que deberá rendir el Presidente del Tribunal Electoral del Poder Judicial del Estado sobre el estado de la administración de justicia electoral. Dicho acto se verificará dentro de los seis meses siguientes a que concluya cada proceso electoral y conforme a lo que disponga la ley, y
+XII.- Elaborar el proyecto de presupuesto anual de egresos del Poder Judicial, que deberá ser propuesto para su aprobación al Pleno del Supremo Tribunal de Justicia; el proyecto deberá incluir la propuesta de la materia formulada por el Tribunal Electoral del Poder Judicial del Estado en los términos de los (sic) dispuesto por el artículo 20 fracción IV, antepenúltimo párrafo de esta Constitución;
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2008)</small>
+XIII.- Administrar y ejercer el presupuesto del Poder Judicial, excepto el del Tribunal Electoral del Poder Judicial del Estado;
 
-XXXV. Las demás facultades y obligaciones que las leyes le otorguen.
+XIV.- Establecer una remuneración adecuada e irrenunciable al personal del Poder Judicial, excepto a los Magistrados;
+
+XV.- Elaborar los proyectos de reglamentos y acuerdos necesarios para el funcionamiento del Poder Judicial, excepto los tendientes a mejorar la impartición de justicia y los relativos al funcionamiento y organización del Pleno del Supremo Tribunal de Justicia y del Tribunal Electoral;
+
+XVI.- Nombrar visitadores judiciales, quienes tendrán las facultades señaladas en la ley;
+
+XVII.- Dictar las medidas que estime pertinentes para que la impartición de justicia sea pronta, completa e imparcial;
+
+XVIII.- Constituir, modificar, suprimir, aumentar y dirigir los órganos administrativos que sean necesarios para la impartición de justicia; así como el número de servidores públicos del Poder Judicial del Estado;
+
+XIX.- Examinar los informes mensuales que deberán remitir las Salas y los Juzgados acerca de los negocios pendientes y de los despachados;
+
+XX.- Coordinar el Centro de Actualización Jurídica e Investigación Procesal, como área responsable de la capacitación y formación permanente de los servidores públicos del Poder Judicial;
+
+XXI.- Organizar, operar y mantener actualizado el sistema de la carrera judicial, el cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia;
+
+XXII.- Administrar y coordinar a los actuarios del Poder Judicial del Estado;
+
+XXIII.- Formular anualmente una lista con los nombres de las personas que puedan fungir como peritos ante los órganos del Poder Judicial del Estado, ordenándolas por ramas, especialidades y distritos judiciales;
+
+XXIV.- Diseñar, integrar y mantener actualizado el Sistema de Información Estadística del Poder Judicial del Estado;
+
+XXV.- Entregar por conducto de su Presidente al Pleno del Supremo Tribunal de Justicia un informe estadístico trimestral del Poder Judicial del Estado;
+
+XXVI.- Elaborar la cuenta pública anual del Poder Judicial;
+
+XXVII.- Dictar las medidas necesarias para la recepción, control y destino de los bienes asegurados y decomisados dentro de un proceso penal o de justicia para adolescentes; y
+
+XXVIII.- Las demás facultades y obligaciones que las leyes le otorguen.
 
 > <small>(ADICIONADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2007)</small>
 
@@ -1919,25 +2057,35 @@ El derecho para formular la querella prescribirá en un año a partir del día e
 
 En las causas que hubieren de formarse a los Magistrados en funciones, una vez que el Congreso del Estado, actuando como órgano de acusación, declare por la afirmativa, se remitirá la causa en los términos previstos por esta Constitución y la ley, al Pleno del Supremo Tribunal de Justicia, el cual emitirá la resolución que corresponda en cada caso. Deberá resolverse cada asunto por separado y el Procurador General de Justicia tendrá en ellas la intervención que le confiere la legislación aplicable.
 
-### CAPITULO II. Del Supremo Tribunal de Justicia
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+
+### CAPITULO II. De los Otros Órganos de Impartición de Justicia
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ###### Art. 117.
 
-Los tribunales inferiores para la administración de justicia estarán a cargo de los Jueces de Primera Instancia, de los Jueces Menores y de los Jueces de Paz.
+Para la impartición de justicia se designarán jueces de primera instancia, jueces menores y jueces de paz, conforme a la ley.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ###### Art. 118.
 
-Los Jueces de Primera Instancia, los Jueces Menores y los Jueces de Paz, serán nombrados por el Pleno del Supremo Tribunal de Justicia.
+Los jueces integrantes del Poder Judicial serán nombrados por el Pleno del Supremo Tribunal de Justicia, a propuesta del Consejo de la Judicatura.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ###### Art. 119.
 
-Los Juzgados Menores funcionarán en aquellos Municipios que el Pleno del Supremo Tribunal de Justicia considere necesario.
+Los juzgados menores funcionarán en aquellos Municipios que el Consejo de la Judicatura considere necesario.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2007)</small>
 
@@ -1945,9 +2093,11 @@ Los Juzgados Menores funcionarán en aquellos Municipios que el Pleno del Suprem
 
 La ley determinará los distritos judiciales en que se dividirá el Estado, el número de Jueces de Primera Instancia, de Jueces Menores y de Jueces de Paz, así como los requisitos para desempeñar esa función y la duración de la misma. La ley también señalará la competencia y jurisdicción de dichas autoridades judiciales, y regulará todo lo relativo a la organización de los tribunales a su cargo.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-Para su modificación el Presidente del Supremo Tribunal de Justicia propondrá un proyecto de iniciativa que, una vez analizado y aceptado por el Pleno, será remitido al Congreso del Estado para su aprobación.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+
+Para su modificación, el Consejo de la Judicatura propondrá un proyecto para que, una vez analizado y aprobado por el Pleno, se plantee al Congreso del Estado en ejercicio de la facultad de iniciativa del Supremo Tribunal del Justicia.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 2007)</small>
 
@@ -1955,21 +2105,27 @@ Para su modificación el Presidente del Supremo Tribunal de Justicia propondrá 
 
 Los Juzgados de Primera Instancia, los Juzgados Menores y los Juzgados de Paz serán sostenidos por el Poder Judicial del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ###### Art. 122.
 
-Los Jueces de Primera Instancia, los Jueces Menores y los Jueces de Paz serán los necesarios para el despacho pronto y expedito de los asuntos de su competencia. El Pleno del Supremo Tribunal de Justicia resolverá sobre su designación, adscripción y remoción; además, determinará el número, competencia territorial y especialización por materia de los Juzgados de Primera Instancia.
+Los jueces de primera instancia, los jueces menores y los jueces de paz serán los necesarios para el despacho pronto y expedito de los asuntos de su competencia.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
-
-Los Jueces de Primera Instancia durarán en su encargo tres años. Podrán ser ratificados por períodos iguales por el Pleno del Supremo Tribunal de Justicia.
+Los jueces de primera instancia durarán en su cargo tres años y podrán ser ratificados por periodos iguales. Al efecto, el Pleno del Supremo Tribunal de Justicia considerará la propuesta del Consejo de la Judicatura.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Art. 123.
 
 Toda parte interesada puede interponer queja ante el Supremo Tribunal de Justicia, cuando a su juicio, los Magistrados o Jueces o demás servidores del Poder Judicial incurran en faltas administrativas. La ley regulará dicho procedimiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
+
+El Consejo de la Judicatura podrá, previa audiencia, separar de plano de su encargo a los jueces, cuando derivado del procedimiento administrativo correspondiente se determine que existe incumplimiento de sus funciones. Esta determinación podrá ser recurrida ante el Pleno del Supremo Tribunal de Justicia.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 1993)</small>
 
@@ -1979,9 +2135,9 @@ DE LA PROCURACION DE JUSTICIA Y PROTECCION DE LOS DERECHOS HUMANOS.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO III. De los Tribunales Inferiores
+### CAPITULO I.. Del Ministerio Público
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DEL 2002)</small>
 
 ###### Art. 124.
 
@@ -2029,9 +2185,9 @@ El nombramiento del Procurador General de Justicia se hará por el Gobernador, c
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO I.. Del Ministerio Público
+### CAPITULO II. De la Comisión de Derechos Humanos
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DEL 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 2002)</small>
 
 ###### Art. 126.
 
@@ -2053,9 +2209,11 @@ El titular del organismo deberá entregar puntualmente los informes y las cuenta
 
 ## TITULO VIII. DE LA DEFENSORIA PUBLICA
 
-### CAPITULO II. De la Comisión de Derechos Humanos
+### CAPITULO UNICO. Disposiciones generales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2009)</small>
 
 ###### Art. 127.
 
@@ -2087,9 +2245,7 @@ Una ley reglamentará la organización de la defensoría pública y los requisit
 
 ### CAPITULO UNICO. Disposiciones generales
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
-
-> <small>(REFORMADO, P.O. 5 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
 ###### Art. 130.
 
@@ -2245,9 +2401,9 @@ Las relaciones de trabajo entre los Municipios y sus trabajadores, se regirán p
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 29 DE MARZO DE 1986)</small>
 
-### CAPITULO UNICO. Disposiciones generales
+### CAPITULO I. De la Educación Pública
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 1986)</small>
 
 ###### Art. 138.
 
@@ -2293,9 +2449,9 @@ El Ejecutivo podrá celebrar con la Federación y los Municipios, convenios sobr
 
 > <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2001)</small>
 
-### CAPITULO I. De la Educación Pública
+### CAPITULO II. De la Salud Pública
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 1986)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2001)</small>
 
 ###### Art. 144.
 
@@ -2315,15 +2471,15 @@ La conformación y funcionamiento del Consejo General de Salud estará regulado 
 
 Con el objeto de que la salud pública encomendada al Gobierno del Estado se intensifique, el Ejecutivo podrá coordinarse, mediante la celebración de convenios, con el Gobierno Federal y Municipal, reservándose la intervención que estime necesaria, en términos de la propia ley.
 
-### CAPITULO II. De la Salud Pública
-
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2001)</small>
+### CAPITULO III. De las vías de comunicación
 
 ###### Art. 147.
 
 El Gobernador vigilará la conservación, mejoramiento y amplio desarrollo de las vías de comunicación en el territorio del Estado; asimismo expedirá las disposiciones convenientes para la realización y fomento de las obras de utilidad pública, general o local, en su mismo territorio, dando preferencia a las de irrigación. El Congreso expedirá las leyes que fueren necesarias y que fijarán la contribución especial que se dedicará a este Ramo.
 
-### CAPITULO III. De las vías de comunicación
+### CAPITULO IV. Del Trabajo y Previsión Social
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 148.
 
@@ -2335,9 +2491,11 @@ DISPOSICIONES GENERALES.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MARZO DE 2004)</small>
 
-### CAPITULO IV. Del Trabajo y Previsión Social
+### CAPITULO UNICO.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
+De las responsabilidades de los Servidores Públicos y Patrimonial del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 149.
 
@@ -2367,15 +2525,19 @@ Las leyes determinarán los casos y circunstancias en los que se deba sancionar 
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la autoridad competente respecto de las conductas a que se refiere el presente Artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ###### Art. 151.
 
-Podrán ser sujetos de juicio político los diputados, los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Poder Judicial del Estado, los Secretarios del Ejecutivo, Procurador General de Justicia, los Jueces, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, los titulares de los organismos descentralizados, empresas de participación estatal y fideicomisos públicos, y los integrantes de los Ayuntamientos.
+Podrán ser sujetos de juicio político los Diputados al Congreso local, los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Poder Judicial del Estado, los consejeros de la Judicatura, los jueces, los secretarios del Ejecutivo, el Procurador General de Justicia, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, el Presidente de la Comisión de Derechos Humanos del Estado, los titulares de los organismos descentralizados, empresas de participación estatal y fideicomisos públicos, y los integrantes de los Ayuntamientos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-Asimismo, el Gobernador del Estado, los Diputados al Congreso Local y los Magistrados del Supremo Tribunal de Justicia, podrán ser sujetos de juicio político, en los términos del Artículo 110 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+
+Asimismo, el Gobernador del Estado, los Diputados al Congreso local, los Magistrados del Poder Judicial y los miembros del Consejo de la Judicatura podrán ser sujetos de juicio político, en los términos del artículo 110 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -2393,11 +2555,13 @@ Conociendo la acusación el Pleno del Supremo Tribunal de Justicia, erigido en J
 
 Las declaraciones y resoluciones del Congreso y del Supremo Tribunal de Justicia son inatacables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ###### Art. 152.
 
-Para proceder penalmente contra los Diputados al Congreso Local, los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Poder Judicial del Estado, los Secretarios del Ejecutivo, Procurador General de Justicia, los Jueces, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, y los titulares de los organismos descentralizados, empresas de participación estatal y fideicomisos públicos por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará, por acuerdo de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra los Diputados al Congreso local los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Poder Judicial del Estado, los consejeros de la Judicatura, los jueces, los secretarios del Ejecutivo, el Procurador General de Justicia, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, el Presidente de la Comisión de Derechos Humanos del Estado y los titulares de los organismos descentralizados, empresas de participación estatal y fideicomisos públicos por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará, por acuerdo de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el imputado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -2465,9 +2629,7 @@ La ley señalará los plazos de prescripción de la responsabilidad administrati
 
 ## TITULO XII
 
-### CAPITULO UNICO.
-
-De las responsabilidades de los Servidores Públicos y Patrimonial del Estado.
+### CAPITULO I. Prevenciones generales
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -2549,19 +2711,15 @@ En todas las Escuelas de Instrucción Primaria Elemental, Superior y Normal, ser
 
 ## TITULO XIII
 
-### CAPITULO I. Prevenciones generales
+### CAPITULO I. De las reformas a la Constitución
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1989)</small>
 
 ###### Art. 165.
 
 Esta Constitución podrá ser reformada y adicionada, pero para que las adiciones y reformas lleguen a ser parte de la misma, se requiere que previamente sea tomada en cuenta la iniciativa de reformas o adición por la declaratoria de la mayoría de los Diputados presentes y que sea aprobada cuando menos por las dos terceras partes de los miembros del Congreso.
 
 ### CAPITULO II. De la Inviolabilidad de la Constitución
-
-### CAPITULO I. De las reformas a la Constitución
-
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1989)</small>
 
 ###### Art. 166.
 
@@ -3501,15 +3659,21 @@ P.O. 12 DE DICIEMBRE DE 2007.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO SEGUNDO.
 
-Para alcanzar el porcentaje mínimo a que se refiere el primer párrafo del artículo 107 de la Constitución Política del Estado que se reforma mediante el presente Decreto, se efectuará un incremento paulatino del porcentaje del Presupuesto de Egresos asignado al Poder Judicial en el Decreto del Presupuesto de Egresos del Estado para el ejercicio fiscal de 2007, a fin de que alcance el 0.9% en 2008, el 1% en 2009, el 1.1% en 2010 y el 1.2% en 2011.
+Para alcanzar el porcentaje mínimo a que se refiere el primer párrafo del artículo 107 de la Constitución Política del Estado que se reforma mediante el presente Decreto, se efectuará un incremento paulatino del porcentaje del Presupuesto de Egresos asignado al Poder Judicial en el Decreto del Presupuesto de Egresos del Estado para el ejercicio fiscal de 2007, a fin de que alcance el 0.9% en 2008, el 1% en 2009, el 1.1% en 2010, el 1.2% en 2011 y el 1.3% en 2012.
 
 P.O. 17 DE SEPTIEMBRE DE 2008.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+(NOTA: EL 18 DE AGOSTO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 10/2009, DECLARÓ LA INVALIDEZ DE LOS ARTÍCULOS CUARTO, QUINTO Y DÉCIMO, INCISO C) TRANSITORIOS INDICADOS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE AGOSTO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 P.O. 25 DE DICIEMBRE DE 2008.
 
@@ -3519,21 +3683,17 @@ Artículo Segundo. La aprobación y publicación de las adecuaciones a la legisl
 
 Artículo Tercero.- Por única ocasión, los diputados y los integrantes de los ayuntamientos electos en la jornada comicial de 2010, durarán en su encargo 2 años y 9 meses, concluyendo éste el 30 de septiembre de 2013; igualmente, por única ocasión, el Gobernador electo en dicha jornada, durará en su encargo 5 años y 9 meses, concluyendo éste el 30 de septiembre de 2016.
 
-(NOTA: EL 18 DE AGOSTO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 10/2009, DECLARÓ LA INVALIDEZ DEL ARTÍCULO CUARTO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE AGOSTO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
 ###### ARTÍCULO CUARTO.
 
 A EFECTO DE PERMITIR LA IMPLEMENTACIÓN COHERENTE DE LOS NUEVOS CALENDARIOS ELECTORALES, DE DESEMPEÑO DE LAS AUTORIDADES, ASÍ COMO LOS CONCERNIENTES A LOS PERIODOS DE SESIONES DEL CONGRESO DEL ESTADO, ES NECESARIO QUE COMO RÉGIMEN TEMPORAL, Y POR ÚNICA OCASIÓN, LA JORNADA ELECTORAL A CELEBRARSE EN 2010 SE LLEVE A CABO EN LA MISMA FECHA EN QUE SE VENÍA CELEBRANDO PREVIO A LA PRESENTE REFORMA.
 
-LO ANTERIOR PERMITIRÁ QUE LA NUEVA FECHA ORDENADA POR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS PARA LA CELEBRACIÓN DE LA JORNADA ELECTORAL, SEA INSTAURADA Y ADAPTADA DE MANERA INTEGRAL CON LOS CALENDARIOS POLÍTICOS, ELECTORALES Y ADMINISTRATIVOS DE TAMAULIPAS.
-
-(NOTA: EL 18 DE AGOSTO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 10/2009, DECLARÓ LA INVALIDEZ DEL ARTÍCULO QUINTO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE AGOSTO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+Lo anterior permitirá que la nueva fecha ordenada por la Constitución Política de los Estados Unidos Mexicanos para la celebración de la jornada electoral, sea instaurada y adaptada de manera integral con los calendarios políticos, electorales y administrativos de Tamaulipas.
 
 ###### ARTÍCULO QUINTO.
 
 A EFECTO DE ADECUAR LAS DIVERSAS ACTIVIDADES A DESARROLLARSE EN EL PROCESO ELECTORAL DE 2010, Y EN CONCORDANCIA CON EL ARTÍCULO TRANSITORIO PRECEDENTE, DE SER NECESARIO Y POR ÚNICA OCASIÓN, EL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE TAMAULIPAS DEBERÁ EMITIR UN CALENDARIO ELECTORAL PARA EL DESARROLLO DEL PROCESO EN DICHO AÑO, OBSERVANDO ESTRICTAMENTE LOS PLAZOS Y DURACIÓN DE LOS DISTINTOS ACTOS, EN LAS ETAPAS DE LA PREPARACIÓN DE LA ELECCIÓN, DE LA JORNADA Y DE RESULTADOS Y DECLARACIÓN DE VALIDEZ, CONTEMPLADOS EN LA LEGISLACIÓN ELECTORAL REFORMADA.
 
-EN CASO DE QUE EXISTA LA NECESIDAD PREVISTA EN EL PÁRRAFO QUE ANTECEDE, EL CALENDARIO REFERIDO DEBERÁ EMITIRSE A MÁS TARDAR, NOVENTA DÍAS ANTES A QUE DE INICIO EL PROCESO ELECTORAL DE 2010, Y SE PUBLICARÁ DE INMEDIATO EN EL PERIÓDICO OFICIAL DEL ESTADO.
+En caso de que exista la necesidad prevista en el párrafo que antecede, el calendario referido deberá emitirse a más tardar, noventa días antes a que de inicio el proceso electoral de 2010, y se publicará de inmediato en el Periódico Oficial del Estado.
 
 Artículo Sexto.- Para efecto de ajustar los trabajos, tanto de la actual legislatura, como de la que será electa en el año 2010, se hace necesario contemplar los siguientes calendarios transitorios:
 
@@ -3582,8 +3742,6 @@ Artículo Décimo.- En términos de lo dispuesto por la fracción IV del artícu
 a) El proceso de elección deberá concluir, a más tardar, noventa días después de que se realicen las adecuaciones legislativas a que se refiere el Artículo Segundo Transitorio de este Decreto.
 
 b) Se elegirán a dos Magistrados Electorales que durarán en su encargo hasta el 15 de marzo del 2012. Dichos magistrados podrán ser reelectos para un segundo periodo de seis años.
-
-(NOTA: EL 18 DE AGOSTO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 10/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL ARTÍCULO DÉCIMO, INCISO C) TRANSITORIO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE AGOSTO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 c) Se elegirán a dos Magistrados Electorales y al Magistrado Presidente, mismos que durarán en su encargo hasta el 15 de marzo del 2015. ESTOS NO PODRÁN SER REELECTOS PARA UN NUEVO PERIODO.
 
@@ -3649,15 +3807,33 @@ El actual titular de la Auditoría Superior del Estado tendrá derecho a una ind
 
 La revisión de las cuentas públicas correspondientes a los ejercicios fiscales precedentes al citado en el artículo segundo transitorio de este Decreto se realizarán con base en el orden normativo vigente al momento de la aprobación de los instrumentos correspondientes de ingresos y egresos de las finanzas públicas estatales y municipales.
 
-###### ARTÍCULO PRIMERO.
+P.O. 17 DE JUNIO DE 2009.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo disposición en contrario conforme a lo establecido en los artículos transitorios siguientes.
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1 de enero de 2010 y se publicará en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Consejo de la Judicatura del Poder Judicial del Estado deberá quedar instalado el 1 de abril del 2010. Para efectos de la designación y renovación escalonada de los Consejeros de la Judicatura del Estado a que se refiere el párrafo tercero de la fracción II del artículo 106 de esta Constitución, la duración de los encargos de sus integrantes se sujetará por única ocasión a lo siguiente:
+
+I.- El Magistrado Presidente del Supremo Tribunal de Justicia entrará en funciones de Consejero de la Judicatura el 1 de abril del 2010, finalizando su cargo como Consejero el día que deje de ser el Presidente del Supremo Tribunal de Justicia;
+
+> <small>(F. DE E., P.O. 14 DE JULIO DE 2009)</small>
+
+II.- Los dos Consejeros nombrados por el Congreso a propuesta del Pleno del Supremo Tribunal de Justicia entrarán en funciones el 1 de abril del 2010; uno de ellos finalizará su encargo el 31 de diciembre del 2012 y el otro el 31 de diciembre del 2015;
+
+> <small>(F. DE E., P.O. 14 DE JULIO DE 2009)</small>
+
+III.- El Consejero designado por el Congreso del Estado a propuesta de su Junta de Coordinación Política, entrará en funciones el 1 de abril del 2010 y concluirá su encargo el 31 de diciembre del 2012; y
+
+> <small>(F. DE E., P.O. 14 DE JULIO DE 2009)</small>
+
+IV.- El Consejero designado por el Ejecutivo del Estado entrará en funciones el día 1 de abril del 2010 y concluirá su encargo el 31 de diciembre del 2015.
 
 ###### ARTÍCULO TERCERO.
 
-Las normas relativas a la elección de los poderes locales de la Ciudad de México se aplicarán a partir del proceso electoral para la elección constitucional del año 2018. Se faculta a la Asamblea Legislativa del Distrito Federal para que, una vez publicada la Constitución Política de la Ciudad de México, expida las leyes inherentes a la organización, funcionamiento y competencias de los Poderes Legislativo, Ejecutivo y Judicial de la Ciudad, necesarias para que ejerzan las facultades que establezcan esta Constitución y la de la Ciudad de México, a partir del inicio de sus funciones. Dichas leyes entrarán en vigor una vez que lo haga la Constitución Política de la Ciudad de México.
-
-Lo dispuesto en el párrafo tercero de la Base II del Apartado A del artículo 122 constitucional contenido en el presente Decreto, no será aplicable a los diputados integrantes de la VII Asamblea Legislativa del Distrito Federal.
+El Congreso del Estado expedirá los ordenamientos derivados del presente Decreto de reformas y adiciones a la Constitución Política del Estado, a fin de que el Consejo de la Judicatura y la función otorgada al Supremo Tribunal de Justicia conforme al artículo 113 constitucional reformado, cumpla con sus funciones a partir del 1 de abril del 2010.
 
 ###### ARTÍCULO QUINTO.
 
