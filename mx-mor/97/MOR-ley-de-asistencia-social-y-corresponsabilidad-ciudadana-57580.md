@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-asistencia-social-y-corresponsabilidad-ciudadana-57580"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-21"
-last_updated: "2008-12-12"
+last_updated: "2009-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ASISTENCIA SOCIAL Y CORRESPONSABILIDAD CIUDADANA PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 21 de noviembre de 2007.
 
@@ -71,7 +71,9 @@ V.- Adulto Mayor: Toda persona mayor de 60 años;
 
 VI.- Persona con discapacidad: Todo ser humano que tiene una carencia o disminución congénita o adquirida de alguna aptitud o capacidad funcional de tipo sensorial, psicomotora o mental, de manera parcial o total que le impida o dificulte su desarrollo e integración al medio que le rodea, por un periodo de tiempo definido o indefinido y de manea transitoria o permanente;
 
-VII.- Violencia familiar: Acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a cualquier miembro de la familia, dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
+
+VII.- Violencia Familiar, al acto de poder u omisión, intencional dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica y emocional, sexual, patrimonial o económica a cualquier miembro de la familia, dentro o fuera del domicilio familiar, con quien tenga parentesco consanguíneo, por afinidad o civil, por vínculo de matrimonio, concubinato y que tiene por efecto causar daño o sufrimiento a la víctima;
 
 VIII.- Sistema: El Sistema para el Desarrollo Integral de la Familia del Estado de Morelos; y
 
@@ -898,3 +900,13 @@ TERCERO. Los órganos de gobierno de los organismos públicos descentralizados a
 CUARTO. Se derogan todas aquellas disposiciones que contravengan a lo dispuesto al presente Decreto.
 
 QUINTO. Remítase al Poder Ejecutivo para su correspondiente publicación.
+
+P.O. 17 DE JUNIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Túrnese el presente decreto al titular del Poder Ejecutivo, a efecto de que sea publicado en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación .en el Periódico Oficial Tierra y Libertad.
