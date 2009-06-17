@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-75-2008-del-pleno-del-consejo-de-la-64572"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-12-04"
-last_updated: "2009-06-15"
+last_updated: "2009-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64572&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-11-26"
 
 ACUERDO GENERAL 75/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREAN JUZGADOS FEDERALES PENALES ESPECIALIZADOS EN CATEOS, ARRAIGOS E INTERVENCION DE COMUNICACIONES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JUNIO DE 2009.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de diciembre de 2008.
 
@@ -85,25 +85,33 @@ II. Arraigo; e
 
 III. Intervención de comunicación.
 
-De igual forma serán competentes para conocer de las solicitudes de intervención de comunicaciones, que sean formuladas por el Centro de Investigación y Seguridad Nacional, en los términos de la ley de la materia.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO NUMERO 25/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE JUNIO DE 2009)</small>
+
+De igual forma serán competentes para conocer de las solicitudes siguientes:
+
+a) De la intervención de comunicaciones que sean formuladas por el Centro de Investigación y Seguridad Nacional y por la Policía Federal, en los términos de la ley de la materia; y
+
+b) De la autorización que pida la Policía Federal para solicitar por escrito a los concesionarios, permisionarios, operadoras telefónicas y todas aquellas comercializadoras de servicios en materia de telecomunicaciones, de sistemas de comunicación vía satélite, la información con que cuenten, así como la georreferenciación de los equipos de comunicación móvil en tiempo real, de acuerdo a la ley que la rige.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO NUMERO 25/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE JUNIO DE 2009)</small>
 
 ###### Artículo 6.
 
-Para la solicitud y resolución de las medidas previstas en este acuerdo general, así como los plazos a observar y el procedimiento en general, incluida la verificación de su ejecución, se estará a lo dispuesto por el Código Federal de Procedimientos Penales, la Ley Federal contra la Delincuencia Organizada y la Ley de Seguridad Nacional.
+Para la solicitud y resolución de las medidas previstas en este acuerdo general, así como los plazos a observar y el procedimiento en general, incluida la verificación de su ejecución, se estará a lo dispuesto por el Código Federal de Procedimientos Penales, la Ley Federal contra la Delincuencia Organizada, la Ley de Seguridad Nacional y la Ley de la Policía Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO PRIMERO DEL ACUERDO NUMERO 24/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO NUMERO 25/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE JUNIO DE 2009)</small>
 
 ###### Artículo 7.
 
-Con el objeto de que el Ministerio Público de la Federación y el Centro de Investigación y Seguridad Nacional, tengan la posibilidad de acudir en cualquier momento ante los Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones, estos órganos funcionarán de la siguiente forma:
+Con el objeto de que el Ministerio Público de la Federación, la Policía Federal y el Centro de Investigación y Seguridad Nacional, tengan la posibilidad de acudir en cualquier momento ante los Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones, estos órganos funcionarán de la siguiente forma:
 
 Tres de ellos laborarán turnos de veinticuatro horas por cuarenta y ocho horas de descanso, con inicio de jornada a las ocho horas. Durante las primeras doce horas, recibirán y resolverán las solicitudes; y en las otras doce, sólo resolverán las mismas.
 
-Cuatro de dichos órganos, laborarán turnos de veinticuatro horas por setenta y dos horas de descanso, con inicio de jornada a las veinte horas. Durante las primeras doce horas, recibirán y resolverán las solicitudes; y en las otras doce, sólo resolverán las mismas.
+Cuatro de dichos órganos, laborarán turnos de veinticuatro por setenta y dos horas de descanso, con inicio de jornada a las veinte horas. Durante las primeras doce horas, recibirán y resolverán las solicitudes; y en las otras doce, sólo resolverán las mismas.
 
 Cada turno de los dos grupos de órganos, deberán iniciar con una diferencia de doce horas.
 
-Con independencia del turno a que se alude en el párrafo anterior, cada Juzgador Federal Penal Especializado designará un Secretario, el cual tendrá un horario fijo de Lunes a Viernes de 9:00 a 19:00 horas, con la finalidad de que desahogue de forma expedita todas las peticiones y requerimientos que se refieran al trámite de los asuntos ya resueltos por el Juzgado Federal Penal de que se trate.
+Con independencia del turno a que se alude en los párrafos anteriores, cada Juzgador Federal Penal Especializado designará un Secretario, el cual tendrá un horario fijo de Lunes a Viernes de 9:00 a 19:00 horas, con la finalidad de que desahogue de forma expedita todas las peticiones y requerimientos que se refieran al trámite de los asuntos ya resueltos por el Juzgado Federal Penal de que se trate.
 
 ###### Artículo 8.
 
@@ -117,9 +125,15 @@ El cambio de turno de los Jueces Federales Penales Especializados, deberá coord
 
 De la Solicitud de Cateo, Arraigo o Intervención de Comunicaciones.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO NUMERO 25/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE JUNIO DE 2009)</small>
+
 ###### Artículo 10.
 
-El Ministerio Público de la Federación y el Centro de Investigación y Seguridad Nacional podrán solicitar, en el ámbito de sus respectivas atribuciones, conforme a la ley que corresponda, el cateo, arraigo o intervención de comunicaciones al Juez Federal Penal Especializado en turno.
+El Ministerio Público de la Federación, el Centro de Investigación y Seguridad Nacional y la Policía Federal podrán solicitar, en el ámbito de sus respectivas atribuciones, conforme a la ley que corresponda, el cateo, arraigo o intervención de comunicaciones al Juez Federal Penal Especializado en turno.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO NUMERO 25/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE JUNIO DE 2009)</small>
+
+Artículo 10 bis. La Policía Federal, por conducto de su Comisionado General, podrá solicitar al Juez Federal Penal Especializado en turno, la autorización para requerir por escrito a los concesionarios, permisionarios, operadoras telefónicas y todas aquellas comercializadoras de servicios en materia de telecomunicaciones, de sistemas de comunicación vía satélite, la información con que cuenten y la georreferenciación de los equipos de comunicación móvil en tiempo real.
 
 ###### Artículo 11.
 
@@ -137,9 +151,11 @@ El Juez Federal Penal Especializado deberá resolver, antes de que termine su tu
 
 En el expediente que se forme para el trámite del pedimento de que se trate, se integrará versión escrita de la determinación emitida por el Juzgador Federal Penal Especializado, la constancia de su notificación y en su caso, los informes que el solicitante haga llegar.
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO NUMERO 25/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE JUNIO DE 2009)</small>
+
 ###### Artículo 13.
 
-Tan luego se firme y autorice la resolución que conceda o niegue el cateo, arraigo o intervención de comunicaciones, deberá incorporarse al sistema electrónico con la finalidad de que, además del juez que la dictó, sólo esté disponible para el personal autorizado por la Procuraduría General de la República y por el Director General del Centro de Investigación y Seguridad Nacional, quienes podrán obtener copia electrónica inmodificable para realizar la impresión correspondiente.
+Tan luego se firme y autorice la resolución que conceda o niegue el cateo, arraigo, intervención de comunicaciones o la solicitud a que se refiere el artículo 10 bis de este acuerdo, deberá incorporarse al sistema electrónico con la finalidad de que, además del juez que la dictó, sólo esté disponible para el personal autorizado por la Procuraduría General de la República, por el Director General del Centro de Investigación y Seguridad Nacional, y por el Comisionado General de la Policía Federal, quienes podrán obtener copia electrónica inmodificable para realizar la impresión correspondiente.
 
 Para todos los efectos legales a que haya lugar, la primera consulta que el solicitante haga de ese archivo electrónico deberá ser registrada mediante la clave aleatoria digitalizada (firma electrónica) que genere automáticamente el sistema, con lo que se tendrá por hecha la notificación de conformidad con el artículo 111 del Código Federal de Procedimientos Penales, y en términos del convenio correspondiente.
 
@@ -157,11 +173,13 @@ Con el objeto de que el Tribunal de Alzada cuente con la información suficiente
 
 Del Acceso al Sistema Electrónico.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO NUMERO 25/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE JUNIO DE 2009)</small>
+
 ###### Artículo 16.
 
-Para acceder al sistema electrónico a que se refiere este acuerdo general se requiere de una firma digital. Los Agentes del Ministerio Público de la Federación, el Director General del Centro de Investigación y Seguridad Nacional y las personas autorizadas por éste, que por razón de su función deban ingresar al sistema, podrán obtener esta firma previo trámite ante el Consejo de la Judicatura Federal.
+Para acceder al sistema electrónico a que se refiere este acuerdo general se requiere de una firma digital. Los Agentes del Ministerio Público de la Federación, el Director General del Centro de Investigación y Seguridad Nacional, las personas autorizadas por éste, que por razón de su función deban ingresar al sistema y el Comisionado General de la Policía Federal, podrán obtener esta firma previo trámite ante el Consejo de la Judicatura Federal.
 
-La firma digital permitirá a la representación social federal y al Centro de Investigación y Seguridad Nacional certificar la autenticidad de los documentos que remita a los Juzgados Federales Penales Especializados a través del sistema electrónico, en el entendido que serán copia fiel de los que obren en la averiguación previa o en el expediente del que emana la solicitud, y en un apartado de observaciones se deberá especificar, de cada constancia que se envíe, si la copia electrónica se reprodujo de un documento original, copia certificada o copia simple.
+La firma digital permitirá a la representación social federal, al Centro de Investigación y Seguridad Nacional y a la Policía Federal, certificar la autenticidad de los documentos que remita a los Juzgados Federales Penales Especializados a través del sistema electrónico, en el entendido que serán copia fiel de los que obren en la averiguación previa o en el expediente del que emana la solicitud, y en un apartado de observaciones se deberá especificar, de cada constancia que se envíe, si la copia electrónica se reprodujo de un documento original, copia certificada o copia simple.
 
 ###### Artículo 17.
 
@@ -190,3 +208,13 @@ PRIMERO. El presente acuerdo general entrará en vigor el día de su aprobación
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma al Acuerdo General 75/2008, del Pleno del Consejo de la Judicatura Federal, por el que se Crean Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones.
+
+D.O.F. 17 DE JUNIO DE 2009.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. Hasta en tanto no se establezca a través del convenio correspondiente el sistema informático que permita hacer llegar, por medio electrónico, a la Policía Federal las solicitudes a que hace referencia este acuerdo, se presentarán por escrito acorde a lo que establece la ley de la materia.
+
+CUARTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, el texto de esta reforma, al Acuerdo General 75/2008, del Pleno del Consejo de la Judicatura Federal, por el que se Crean Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones.
