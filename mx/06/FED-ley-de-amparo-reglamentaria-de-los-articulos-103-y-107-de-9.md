@@ -4,7 +4,7 @@ identifier: "FED-ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-9"
 country: "mx"
 rank: "ley"
 publication_date: "1936-01-10"
-last_updated: "2009-05-29"
+last_updated: "2009-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-12-30"
 
 LEY DE AMPARO, REGLAMENTARIA DE LOS ARTICULOS 103 Y 107 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JUNIO DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 10 de enero de 1936.
 
@@ -75,15 +75,13 @@ En los juicios de amparo todas las promociones deberán hacerse por escrito, sal
 
 Las copias certificadas que se expidan para la substanciación del juicio de amparo, directo o indirecto, no causarán contribución alguna.
 
-> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 3o. Bis.
 
-Las multas previstas en esta ley se impondrán a razón de días de salario. Para calcular su importe se tendrá como base el salario mínimo general vigente en el Distrito Federal al momento de realizarse la conducta sancionada.
+Las multas previstas en esta ley se impondrán a razón de días de salario. Para calcular su importe se tendrá como base el salario mínimo general vigente en la zona geográfica que corresponda al momento de realizarse la conducta sancionada.
 
 El juzgador sólo aplicará las multas establecidas en esta Ley a los infractores que, a su juicio, hubieren actuado de mala fe.
-
-Cuando con el fin de fijar la competencia se aluda al salario mínimo, deberá entenderse el salario mínimo general vigente en el Distrito Federal al momento de presentarse la demanda de amparo o de interponerse el recurso.
 
 ### Capítulo II. De la capacidad y personalidad
 
@@ -2992,3 +2990,7 @@ PRIMERO.- El presente Decreto entrará en vigor noventa días naturales posterio
 SEGUNDO.- En tanto se expida el Reglamento de la Ley Federal de Extinción de Dominio, Reglamentaria del Artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, la administración y destino de los recursos del Fondo que se constituya con la enajenación de los bienes a que se refiere el artículo 61 de la propia Ley, serán administrados por el Servicio de Administración y Enajenación de Bienes.
 
 TERCERO.- El Consejo de la Judicatura Federal contará con un plazo que no podrá exceder de un año, contado a partir de la publicación del presente Decreto, para crear los juzgados especializados en extinción de dominio a que se refiere el artículo 10 del mismo. En tanto, serán competentes los jueces de distrito en materia civil y que no tengan jurisdicción especial, de conformidad con los acuerdos que para tal efecto determine el Consejo de la Judicatura Federal.
+
+D.O.F. 17 DE JUNIO DE 2009.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
