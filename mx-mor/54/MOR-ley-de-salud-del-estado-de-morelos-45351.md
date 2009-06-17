@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2008-12-11"
+last_updated: "2009-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2009.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -581,7 +581,9 @@ X.- La promoción del mejoramiento de la nutrición;
 
 XI.- La asistencia social a los grupos más vulnerables;
 
-XII.- La atención a las víctimas de la violencia intrafamiliar y de abandono; y
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
+
+XII.- La atención a las personas receptoras de violencia familiar, de violencia contra las mujeres y de abandono; y
 
 XIII.- Las demás que establezcan esta Ley y otras disposiciones legales aplicables.
 
@@ -817,7 +819,9 @@ III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la 
 
 IV.- Las acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de excreta;
 
-V.- Los programas de prevención al maltrato infantil y de la violencia intrafamiliar; y
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
+
+V.- Los programas de prevención al maltrato infantil, la violencia familiar y la violencia contra las mujeres; y
 
 VI.- Las demás que coadyuven a la salud de los menores.
 
@@ -1169,7 +1173,9 @@ I.- Fomentar en la población el desarrollo de actitudes y conductas que le perm
 
 II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud; y
 
-III.- Orientar y capacitar a la población, preferentemente, en materia de nutrición, salud mental, salud bucal, salud reproductiva, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la discapacidad y detección oportuna de enfermedades, así como respecto a los efectos negativos que sobre la salud tienen la violencia intrafamiliar y el maltrato de menores.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
+
+III.- Orientar y capacitar a la población, preferentemente, en materia de nutrición, salud mental, salud bucal, salud reproductiva, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la discapacidad y detección oportuna de enfermedades, así como respecto a los efectos negativos que sobre la salud tienen la violencia familiar, la violencia contra las mujeres y el maltrato de menores.
 
 ###### Artículo 111.
 
@@ -3406,3 +3412,13 @@ P.O. 11 DE DICIEMBRE DE 2008.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan a lo dispuesto en la presente.
+
+P.O. 17 DE JUNIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Túrnese el presente decreto al titular del Poder Ejecutivo, a efecto de que sea publicado en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación .en el Periódico Oficial Tierra y Libertad.
