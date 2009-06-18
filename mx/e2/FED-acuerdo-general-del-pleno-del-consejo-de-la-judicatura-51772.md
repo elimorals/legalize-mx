@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51772"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2009-05-06"
+last_updated: "2009-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JUNIO DE 2009.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -391,27 +391,29 @@ a) La de Receso; y
 
 b) Las demás que determine el Pleno.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE JUNIO DE 2009)</small>
+
 ###### Artículo 31.
 
-Cada comisión permanente se formará por tres consejeros designados por el Pleno, por mayoría calificada de cinco votos, en la primera sesión plenaria de cada dos años. Podrá funcionar con dos consejeros y quien presida tendrá voto de calidad; en caso de ausencia del presidente de la comisión respectiva, presidirá el consejero de mayor antigüedad.
+Cada comisión permanente se formará por tres consejeros designados por el Pleno, por mayoría calificada de cinco votos, en la primera sesión del año en que deba renovarse. Podrá funcionar con dos consejeros; en caso de ausencia del presidente de la comisión respectiva, presidirá el consejero de mayor antigüedad.
 
-En el caso de que se designe nuevo consejero durante el período de integración de las comisiones, éste se integrará a las comisiones de aquél que concluyó su encargo.
+En el supuesto anterior, la votación dividida entre los dos consejeros presentes en la sesión, será resuelta por el Pleno del Consejo.
+
+Las comisiones se renovarán cada dos años. En el caso de que se designe nuevo consejero durante el periodo de funcionamiento de las comisiones, éste se integrará a las de aquél que concluyó su encargo.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE JUNIO DE 2009)</small>
 
 ###### Artículo 32.
 
-Cada comisión, en la primera sesión del año de su integración, elegirá a su respectivo Presidente y determinará el tiempo de su encargo de acuerdo al artículo 79 de la Ley.
+Cada comisión elegirá a su respectivo Presidente y determinará el tiempo de su encargo de acuerdo con lo dispuesto en el artículo 79 de la Ley.
 
-Cada uno de los consejeros presidirá al menos una comisión. Para ocupar dicho cargo deberá haber formado parte de la comisión respectiva el año anterior, con las excepciones a que se refiere el artículo 34 del presente Acuerdo.
+Cada uno de los consejeros presidirá al menos una comisión.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 17 DE NOVIEMBRE DE 2006)</small>
-
-Cuando el presidente de la comisión no pueda asistir a la sesión de que se trate, comunicará oportunamente dicha ausencia al consejero integrante de la comisión de mayor antigüedad, para que tome las providencias necesarias a fin de presidir la sesión correspondiente.
-
-Las comisiones tendrán la facultad de designar a su respectivo secretario técnico y al personal subalterno que fije el presupuesto, previa propuesta de su Presidente.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE JUNIO DE 2009)</small>
 
 ###### Artículo 33.
 
-La integración de las comisiones será en forma rotativa. Para tales efectos, el consejero que haya fungido como Presidente de cada una de las comisiones en la integración anterior permanecerá como miembro de la misma, y una vez concluido dicho encargo dejará la comisión, a menos que las necesidades del servicio lo requieran.
+La integración de las comisiones será en forma rotativa.
 
 ###### Artículo 34.
 
@@ -3500,3 +3502,11 @@ PRIMERO. El presente acuerdo entrará en vigor a partir del día siguiente de su
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del propio Consejo.
+
+D.O.F. 18 DE JUNIO DE 2009.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del propio Consejo.
