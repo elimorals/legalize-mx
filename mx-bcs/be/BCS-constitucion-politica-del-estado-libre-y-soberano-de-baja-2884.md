@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2009-04-24"
+last_updated: "2009-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 24 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE JUNIO DE 2009.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -537,9 +537,9 @@ V.- Si las observaciones con veto total son aprobadas al menos por las dos terce
 
 62.- Las iniciativas de ley o decreto que fueren desechadas por el Congreso del Estado, no podrán volver a ser presentadas en el mismo período de sesiones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE MAYO DE 2003)</small>
 
-63.- Toda resolución del Congreso del Estado tendrá carácter de Ley, Decreto o Acuerdo Económico, las que a excepción de esta última se remitirán al Gobernador del Estado para su promulgación y publicación, por conducto del Presidente y el Secretario de la Mesa Directiva en funciones, con la formalidad siguiente:
+63.- Toda resolución del Congreso del Estado tendrá el carácter de Ley, Decreto o Acuerdo Económico, las que a excepción de esta última se remitirán al Gobernador del Estado para su promulgación y publicación, por conducto del Presidente y el Secretario de la Mesa Directiva en funciones, con la formalidad siguiente:
 
 > <small>(REFORMADO [N. DE E. REUBICADO ANTES ÚLTIMA PARTE DEL PRIMER PÁRRAFO], B.O. 10 DE JUNIO DE 2000)</small>
 
@@ -933,7 +933,9 @@ XXIX.- Celebrar convenios con el Gobierno Federal y con los Ayuntamientos del Es
 
 XXX.- Conocer de las designaciones que haga el Procurador y el Presidente del Tribunal Superior de Justicia;
 
-XXXI.- Promover el desarrollo integral de todos los recursos naturales, entre otros la minería, la pesca; y además las actividades agropecuarias y el turismo;
+> <small>(REFORMADA, B.O. 18 DE JUNIO DE 2009)</small>
+
+XXXI.- Fomentar y promover el aprovechamiento integral y sustentable de los recursos naturales del Estado, a través del impulso, entre otras actividades, de la minería, la pesca, la acuacultura, las agropecuarias y el turismo, ejerciendo las atribuciones que en estas materias le confieran las disposiciones legales aplicables.
 
 XXXII.- Prestar y vigilar el eficaz cumplimiento de los servicios sociales que desarrolle el Estado;
 
@@ -1711,9 +1713,13 @@ Igualmente, con autorización de sus Ayuntamientos y del Congreso del Estado, y 
 
 XXVIII.- Celebrar Contratos de Servicios de Largo Plazo, previa autorización del Congreso del Estado.
 
-> <small>(ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+> <small>(ADICIONADA, B.O. 18 DE JUNIO DE 2009)</small>
 
-XXIX.- Las demás que señale esta Constitución, la General de la República y las leyes que de ellas emanen.
+XXIX.- Promover el desarrollo sustentable de la pesca y la acuacultura y ejercer las atribuciones que en esta materia, las disposiciones legales aplicables, confieran a los Municipios; y
+
+> <small>(REFORMADA, B.O. 18 DE JUNIO DE 2009)</small>
+
+XXX.- Las demás que señale esta Constitución, la General de la Republica y las leyes que de ellas emanen.
 
 ### CAPITULO IX
 
@@ -2618,5 +2624,9 @@ El presente decreto entrará en vigor al día siguiente al de su publicación en
 El Magistrado Presidente del H. Tribunal Superior de Justicia del Estado de Baja California Sur, deberá de redistribuir los Tocas en las Salas Unitarias que correspondan en razón de la materia, debiéndose publicar dicha redistribución en el Boletín Judicial del Poder Judicial del Estado de Baja California Sur para conocimiento de las partes interesadas en los Tocas respectivos.
 
 B.O. 24 DE ABRIL DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 18 DE JUNIO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
