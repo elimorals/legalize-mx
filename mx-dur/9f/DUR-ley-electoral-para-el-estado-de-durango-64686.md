@@ -4,7 +4,7 @@ identifier: "DUR-ley-electoral-para-el-estado-de-durango-64686"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-16"
-last_updated: "2008-11-16"
+last_updated: "2009-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ELECTORAL PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 16 de noviembre de 2008.
 
@@ -1041,47 +1041,51 @@ VII. Las empresas mexicanas de carácter mercantil.
 
 3. Los partidos políticos en los términos de la fracción VII del artículo 53 de esta ley, deberán tener un órgano interno encargado de la obtención y la administración de sus recursos generales y de campaña, así como de la presentación de los informes a los qua se refiere el artículo 95 de este mismo ordenamiento. Dicho órgano se constituirá en los términos y con las modalidades y características que cada partido libremente determine.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2009)</small>
+
 ARTÍCULO 86
 
-1. Los partidos políticos registrados o acreditados legalmente en el Instituto, tendrán derecho al financiamiento público de sus actividades independientemente de las demás prerrogativas otorgadas en esta ley, conforme a las disposiciones siguientes:
+1. Los partidos políticos registrados o acreditados legalmente en el Instituto Estatal Electoral, como complemento a los ingresos que perciben de acuerdo con su régimen interno, tendrán derecho al financiamiento público, para el ejercicio de sus actividades ordinarias permanentes en el Estado. Este se sujetará a las reglas siguientes:
 
-I. Para el sostenimiento de actividades ordinarias permanentes:
+I.- La cuantificación de la bolsa de financiamiento público anual de los partidos políticos se fijará tomando como base el 60% del costo mínimo de campaña determinado por el Consejo Estatal Electoral que se multiplicará por los siguientes factores:
 
-a) La cuantificación del monto anual por concepto de actividades ordinarias permanentes se fijará multiplicando el sesenta y cinco por ciento del salario mínimo diario vigente en la entidad por el número de ciudadanos inscritos en la lista nominal de electores resultante al corte del mes de septiembre del año correspondiente;
+a) El número de diputados a elegir; y
 
-b) Del monto resultante, a los partidos políticos con registro vigente, que hayan participado en la elección inmediata anterior y que no hayan obtenido representación en el Congreso, se les asignará una cantidad mensual equivalente a cuatrocientas veces al salario mínimo, durante el año que corresponda;
+b) El número de partidos políticos con representación en el Congreso;
 
-c) El monto restante se dividirá en tres partes iguales y se distribuirá entre los partidos políticos que en la elección inmediata anterior hayan obtenido representación en el Congreso del Estado, de conformidad con las siguientes prevenciones:
+II.- A los partidos políticos con registro vigente y que hayan participado en la elección estatal inmediata anterior y que no hayan obtenido representación en el Congreso del Estado, se les asignará una cantidad mensual equivalente a cuatrocientas veces al salario mínimo, durante el año que corresponda;
 
-c.1) Una parte se distribuirá en forma igualitaria;
+III.- A los partidos políticos que en la elección inmediata anterior hayan obtenido representación en el Congreso del Estado, la parte restante del monto total del financiamiento público anual se distribuirá de la siguiente manera:
 
-c.2) La segunda parte se distribuirá según el porcentaje de votos obtenidos en la última elección de diputados por mayoría relativa; y
+a) El treinta por ciento se entregará en forma igualitaria; y
 
-c.3) La última parte se distribuirá en proporción directa al número de diputados que haya obtenido en dicha elección, los mismos integren la legislatura en funciones y representen al partido político que los postuló.
+b) El setenta por ciento restante, se distribuirá según el porcentaje de la votación estatal emitida, que hubiese obtenido cada partido político, en la elección inmediata anterior de diputados de mayoría relativa.
 
-d) La segunda parte se constituirá en un cien por ciento que se distribuirá atendiendo lo siguiente:
+IV. El financiamiento público a que se refiere el inciso b) de la fracción anterior, se constituirá en un monto cuyo cien por ciento, se repartirá en la siguiente forma:
 
-d.1) El cuarenta por ciento del total asignado para este rubro se distribuirá entre todos los partidos políticos por los primeros puntos porcentuales que hayan obtenido de la votación emitida comprendidos entre el dos punto cinco por ciento y el diez por ciento de dicha votación;
+a) El cuarenta por ciento del total asignado para este rubro se distribuirá entre todos los partidos políticos por los primeros puntos porcentuales que hayan obtenido de la votación emitida comprendidos entre el dos punto cinco y el diez por ciento de dicha votación;
 
-d.2) El treinta por ciento del total asignado a este rubro se distribuirá adicionalmente entre todos los partidos políticos por los siguientes puntos porcentuales comprendidos entre el diez por ciento y el veinte por ciento que hubiesen obtenido de la votación emitida;
+b) El treinta por ciento del total asignado a este rubro se distribuirá adicionalmente entre todos los partidos políticos por los siguientes puntos porcentuales comprendidos entre el diez por ciento y el veinte por ciento, que hubiesen obtenido de la votación emitida;
 
-d.3) El veinte por ciento del total asignado a este rubro se distribuirá en forma adicional, por los siguientes puntos porcentuales comprendidos entre el veinte por ciento y el treinta por ciento de la votación emitida, que hubiesen obtenido los partidos políticos; y
+c) El veinte por ciento del total asignado a este rubro se distribuirá en forma adicional, por los siguientes puntos porcentuales comprendidos entre el veinte por ciento y el treinta por ciento de la votación emitida, que hubiesen obtenido los partidos políticos; y
 
-d.4) El diez por ciento restante del total asignado a este rubro se distribuirá entre los partidos políticos que hayan obtenido más del treinta por ciento de la votación estatal emitida, en proporción a los puntos porcentuales que por arriba del treinta por ciento hayan alcanzado.
+d) El diez por ciento restante del total asignado a este rubro se distribuirá entre los partidos políticos que hayan obtenido más del treinta por ciento de la votación total emitida, en proporción a los puntos porcentuales que por arriba del treinta por ciento hayan alcanzado.
 
-e) Las cantidades que en su caso se determinen para cada partido, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente;
+V. Las cantidades que en su caso se determinen para cada partido, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente;
 
-f) Cada partido político deberá destinar anualmente por lo menos el dos por ciento del financiamiento público que reciba por este concepto para el desarrollo de sus fundaciones o institutos de investigación.
+VI. Cada partido político deberá destinar anualmente por lo menos el dos por ciento del financiamiento público que reciba, para el desarrollo de sus fundaciones o Institutos de Investigación;
 
-II. Las actividades relativas a la educación, capacitación, investigación socioeconómica y política y editoriales que los partidos políticos realicen anualmente, serán apoyadas hasta por un veinte por ciento del monto total del financiamiento público que les corresponda en los términos del Reglamento que en su caso expida el Consejo Estatal.
+VII. Las actividades relativas a la educación, capacitación, investigación socioeconómica y política y editoriales que los partidos políticos realicen anualmente, serán apoyadas hasta por un veinte por ciento del monto total del financiamiento público que les corresponda en los términos del Reglamento que en su caso expida el Consejo Estatal.
 
 El apoyo al que alude el párrafo anterior se reintegrará a los partidos políticos una vez que éstos hayan comprobado el gasto de dichas actividades.
 
-III. Para gastos de campaña:
+VIII. Para gastos de campaña:
 
 a) En el año de la elección, a cada partido político se le otorgará para gastos de campaña, un monto equivalente al financiamiento público que para el sostenimiento de sus actividades permanentes le corresponda en ese año; y
 
 b) El monto para gastos de campaña se otorgará a los partidos políticos en forma adicional al resto de las prerrogativas.
+
+2. El financiamiento público a que tienen derecho los partidos, en los términos de este artículo, serán independientes de otras prerrogativas que se contengan en esta ley.
 
 (NOTA: EL 5 DE OCTUBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2008 Y SU ACUMULADA 131/2008, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN).
 
@@ -1533,7 +1537,9 @@ XIV. Proveer que lo relativo a las prerrogativas y financiamiento de los partido
 
 XV. Presentar al Ejecutivo del Estado su presupuesto de egresos, el cual deberá comprender partidas para cubrir el financiamiento y las prerrogativas de los partidos políticos;
 
-XVI. Determinar los topes de gastos de las campañas y precampañas electorales estatales, distritales y municipales;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2009)</small>
+
+XVI. Determinar los costos mínimos de campaña y en la primera semana del mes de diciembre los topes de gastos de las campañas y precampañas electorales estatales, distritales y municipales;
 
 XVII. Revisar y aprobar en su caso, los dictámenes que rindan las comisiones;
 
@@ -4297,11 +4303,19 @@ ARTÍCULO 296
 
 1. Para obtener la inscripción de sus listas, el partido político que lo solicite, deberá acreditar que tiene su registro o acreditación y que participa con candidatos a diputados por mayoría relativa por lo menos en doce de los distritos electorales uninominales.
 
-2. Tendrá derecho a que se le asigne un diputado electo según el principio de representación proporcional, todo aquel partido que alcance al menos el dos punto cinco por ciento de la votación total emitida.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2009)</small>
 
-3. Al partido político que cumpla con los dos párrafos anteriores, independiente y adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus candidatos, le serán asignados por el principio de representación proporcional, de acuerdo con su votación total emitida, el número de diputados que le corresponda de su lista votada en la circunscripción plurinominal que comprende la totalidad del territorio del Estado. En la asignación se seguirá el orden que tuviesen los candidatos en la lista correspondiente.
+2. Tendrá derecho a que le sean atribuidos diputados electos según el principio de proporcionalidad, todo aquel partido que:
 
-4. Cuando algún partido político obtenga el triunfo en diecisiete distritos de mayoría relativa, sólo tendrá derecho a que se le asigne un diputado de representación proporcional, atento a lo dispuesto en el párrafo 2 de este artículo. Por lo tanto, ningún partido político podrá contar con más de dieciocho diputados electos por ambos principios, que representan el sesenta por ciento de la integración de la cámara, aun cuando hubiere obtenido un porcentaje de votos superior o inferior a dicho porcentaje.
+a).- Alcance al menos el dos punto cinco por ciento de la votación emitida para el total de sus listas; y
+
+b).- Haya registrado candidatos a diputados de mayoría relativa en cuando menos doce de los distritos uninominales.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2009)</small>
+
+3. A los partidos que se encuentre dentro de los supuestos señalados en los párrafos anteriores a este artículo, le serán asignados los diputados que correspondan de acuerdo al porcentaje de votos obtenidos en la circunscripción.
+
+4. (REFORMADO [N. DE E. DEROGADO], P.O. 18 DE JUNIO DE 2009)
 
 ARTÍCULO 297
 
@@ -4311,15 +4325,17 @@ I. Cada uno de los partidos políticos que hubieren alcanzado el dos punto cinco
 
 II. Del total de la votación efectiva se deducirá la votación obtenida por el partido ganador;
 
-III. Si algún partido obtiene el cincuenta y uno por ciento o más de la votación efectiva y el número de constancias de mayoría relativa y la obtenida de acuerdo a la fracción I de este artículo, representan un porcentaje del total de la cámara inferior a su referido porcentaje de votos, tendrá derecho a participar en la distribución del resto de los diputados electos según el principio de representación proporcional, hasta que la suma de diputados obtenidos por ambos principios representen el mismo porcentaje de votos;
+III. (REFORMADA [N. DE E. DEROGADA], P.O. 18 DE JUNIO DE 2009)
 
-IV. Ningún partido político tendrá derecho a que le sean reconocidos más de dieciocho diputados por ambos principios, que representan el sesenta por ciento de la integración de la cámara, aún cuando hubiere obtenido un porcentaje de votos superior;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2009)</small>
 
-V. Si ningún partido político obtiene el cincuenta y uno por ciento de la votación efectiva, y ninguno alcanza, con sus constancias de mayoría relativa y el diputado asignado en los términos de la fracción I de este articulo, la mitad más uno de los miembros de la cámara, al partido político que obtenga el treinta y cinco punto cinco por ciento de la votación efectiva en la elección de diputados de mayoría y cuando menos diez constancias de mayoría relativa, le serán asignados diputados de representación proporcional, hasta alcanzar la mitad más uno de la representación de la cámara.
+IV. Ningún partido político tendrá derecho a que le sean reconocidos más de diecisiete diputados por ambos principios;
 
-VI. Si ningún partido político obtiene el treinta y cinco punto cinco por ciento de la votación efectiva en la elección de diputados de mayoría, y cuando menos diez constancias de mayoría relativa y la constancia asignada en los términos de la fracción I de este artículo; al partido político con mayor número de votos se le asignarán diputados de representación proporcional hasta alcanzar un total de quince curules, prosiguiéndose enseguida a la asignación de las curules restantes entre los demás partidos políticos con derecho a ello; y
+V. (REFORMADA [N. DE E. DEROGADA], P.O. 18 DE JUNIO DE 2009)
 
-VII. En el supuesto anterior, y en caso de empate en el número de votos, la representación del cincuenta por ciento de la cámara será decidida en favor de aquél de los partidos empatados, que haya alcanzado mayor número de constancias en la elección de diputados por mayoría relativa;
+VI. (REFORMADA [N. DE E. DEROGADA], P.O. 18 DE JUNIO DE 2009)
+
+VII. (REFORMADA [N. DE E. DEROGADA], P.O. 18 DE JUNIO DE 2009)
 
 2. La fórmula para hacer las asignaciones se integra con los siguientes elementos:
 
@@ -4343,11 +4359,15 @@ ARTÍCULO 298
 
 I. Al partido político que alcance un porcentaje mínimo de dos punto cinco por ciento de la votación total emitida de la circunscripción plurinominal, se le asignará un diputado.
 
-En caso de que por la aplicación de las fracciones III, IV, V, VI y VII del párrafo 1 del artículo anterior, el número de curules que falten por asignar, sea menor que el número de partidos que alcanzaron el porcentaje mínimo, éstas se repartirán entre los partidos que obtuvieron mayor votación en orden decreciente;
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2009)</small>
+
+En caso de que por la aplicación de las fracciones IV del párrafo 1 del artículo anterior, el número de curules que falten por asignar, sea menor que el número de partidos que alcanzaron el porcentaje mínimo, éstas se repartirán entre los partidos que obtuvieron mayor votación en orden decreciente;
 
 II. Efectuada la distribución mediante el porcentaje mínimo, se procederá a obtener el cociente rectificado en los términos del inciso b) del párrafo 2 del artículo anterior, si hubiere curules por asignar;
 
-III. Obtenido el cociente rectificado se asignará a cada partido político tantas curules, como número de veces contenga su votación dicho cociente, siempre y cuando queden por asignarse;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2009)</small>
+
+III. Obtenido el cociente rectificado se asignará a cada partido político tantas curules, como número de veces contenga su votación dicho cociente, siempre y cuando queden por asignarse, iniciando por el partido político que haya obtenido el mayor porcentaje de votación, debiéndose observar lo dispuesto en la fracción IV del Artículo 297;
 
 IV. Si después de aplicarse el cociente rectificado quedan curules por repartir, éstas se distribuirán por el método de resto mayor siguiendo el orden; y
 
@@ -4973,7 +4993,9 @@ ARTÍCULO 336
 
 I. Si los hechos narrados resultan notoriamente frívolos o inverosímiles, o si siendo ciertos, carecen de sanción legal;
 
-II. Si la queja no cumple con los requisitos establecidos en los artículos 335 y 335 de la presente ley;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2009)</small>
+
+II. Si la queja no cumple con los requisitos establecidos en los artículos 334 y 335 de la presente ley;
 
 III. Si la queja no se hace acompañar de elemento probatorio alguno, que respalde los hechos que denuncia, o
 
@@ -5070,3 +5092,15 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE JUNIO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Si de la aplicación de las bases para el financiamiento público de los partidos políticos por concepto de actividades ordinarias permanentes previstas en el presente decreto, resultaren montos menores para algún partido político con derecho a ello, a los previstos en el Acuerdo del Consejo Estatal Electoral No. 12, de fecha 30 de octubre de 2008, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango No. 36, de fecha 02 de noviembre del mismo año, deberá respetarse en la asignación aquél que resulte más favorable durante el ejercicio fiscal del año 2009.
+
+TERCERO.- El Titular del Poder Ejecutivo, a efecto de proveer lo necesario para la distribución del financiamiento público a los partidos políticos, según la fórmula y reglas previstas en el presente decreto, deberá efectuar las reasignaciones y transferencias presupuestales en la Ley de Egresos del Estado de Durango (sic) Libre y Soberano de Durango para el Ejercicio Fiscal 2009.
+
+CUARTO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente.
