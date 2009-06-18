@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-medios-de-impugnacion-en-materia-electoral-y-de-64673"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-16"
-last_updated: "2008-11-16"
+last_updated: "2009-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL Y DE PARTICIPACION CIUDADANA PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 16 de noviembre de 2008.
 
@@ -57,11 +57,17 @@ ARTÍCULO 2
 
 1. Para la resolución de los medios de impugnación previstos en esta ley, las normas se interpretarán conforme a los criterios gramatical, sistemático y funcional. A falta de disposición expresa, se aplicarán los principios generales del derecho
 
-2. Los criterios fijados por el Tribunal Estatal Electoral, sentarán jurisprudencia cuando sustenten en el mismo sentido tres resoluciones.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2009)</small>
 
-3. El Presidente del Tribunal Estatal Electoral notificará de inmediato los criterios definidos a que se refiere el párrafo 1 de este artículo y los mandará publicar por estrados. Los Magistrados estarán obligados a aplicarlo a partir del momento de su notificación.
+2. Los criterios fijados por el Tribunal Electoral del Poder Judicial del Estado, sentarán jurisprudencia cuando sustenten en el mismo sentido tres resoluciones.
 
-4. El Tribunal difundirá los criterios obligatorios dentro de los seis meses siguientes a la conclusión de los procesos electorales.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2009)</small>
+
+3. El Presidente del Tribunal Electoral del Poder Judicial del Estado notificará de inmediato los criterios definidos a que se refiere el párrafo 2 de este artículo y los mandará publicar por estrados. Los Magistrados estarán obligados a aplicarlo a partir del momento de su notificación.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2009)</small>
+
+4. El Tribunal Electoral del Poder Judicial del Estado difundirá los criterios obligatorios dentro de los seis meses siguientes a la conclusión de los procesos electorales.
 
 5. La conservación de la libertad de decisión política y el derecho a la auto organización de los partidos políticos, deberá ser considerada por las autoridades electorales competentes, al momento de resolver las impugnaciones relativas a los asuntos internos de los partidos políticos.
 
@@ -343,7 +349,9 @@ II. La copia del documento en que conste el acto o resolución impugnado y la de
 
 III. En su caso, los escritos de los terceros interesados y coadyuvantes, las pruebas y la demás documentación que se hayan acompañado a los mismos;
 
-IV. En los juicios de inconformidad, el expediente completo con todas las actas y las hojas de incidentes levantadas por la autoridad electoral, así como los escritos de incidentes y de protesta que se hubieren presentado, en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2009)</small>
+
+IV. En los juicios electorales, donde se hagan valer causas de nulidad de votación recibida en casilla o de elección, el expediente completo con todas las actas y las hojas de incidentes levantadas por la autoridad electoral, así como los escritos de incidentes y de protesta que se hubieren presentado, en los términos de esta Ley;
 
 V. El informe circunstanciado; y
 
@@ -575,7 +583,9 @@ c). Los actos, acuerdos y demás resoluciones que dicte el Instituto y afecten l
 
 d). La resolución del Consejo Estatal que ponga fin al procedimiento de liquidación y los actos que integren ese procedimiento que causen una afectación sustantiva al promovente;
 
-e). Los actos o resoluciones sobre la designación, reelección, prorroga, ratificación y remoción de Consejeros y Magistrados electorales.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2009)</small>
+
+e). Los actos o resoluciones sobre la designación y remoción de Consejeros electorales.
 
 II. Durante el proceso electoral ordinario o extraordinario contra:
 
@@ -587,7 +597,9 @@ c). La asignación de diputados y regidores de representación proporcional;
 
 d). La declaratoria de validez de las elecciones de gobernador del Estado, diputados e integrantes de los Ayuntamientos y, en su caso, que emitan los órganos del Instituto en el ámbito de su competencia; y
 
-e). Los actos o resoluciones sobre la designación de Consejeros y Magistrados electorales.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2009)</small>
+
+e). Los actos o resoluciones sobre la designación y remoción de Consejeros electorales.
 
 2. Las causas de nulidad previstas en esta ley, sólo podrán hacerse valer al promover el juicio Electoral en contra de los supuestos señalados en los incisos b), c) y d) de esta fracción.
 
@@ -917,7 +929,9 @@ ARTÍCULO 74
 
 ARTÍCULO 75
 
-1. El Tribunal Electoral resolverá en forma definitiva e inatacable dentro de los diez días hábiles siguientes a la celebración de la audiencia a que se refiere el artículo 68 de esta Ley. En su caso, el Tribunal Electoral podrá sesionar en privado si la índole del conflicto planteado así lo amerita.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2009)</small>
+
+1. El Tribunal Electoral resolverá en forma definitiva e inatacable dentro de los diez días hábiles siguientes a la celebración de la audiencia a que se refiere el artículo 70 de esta Ley. En su caso, el Tribunal Electoral podrá sesionar en privado si la índole del conflicto planteado así lo amerita.
 
 2. La sentencia se notificará a las partes personalmente o por correo certificado si señalaron domicilio para tal efecto, en caso contrario, se hará por estrados.
 
@@ -960,3 +974,11 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE JUNIO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente Decreto.
