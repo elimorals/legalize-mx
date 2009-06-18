@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-participacion-ciudadana-para-el-estado-de-durango-56446"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-28"
-last_updated: "2008-11-16"
+last_updated: "2009-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PARTICIPACION CIUDADANA PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 28 de junio de 2007.
 
@@ -59,15 +59,23 @@ Para los efectos de esta Ley, se entenderá por:
 
 I. Constitución Local: La Constitución Política del Estado Libre y Soberano de Durango;
 
-II. Código: El Código Estatal Electoral;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2009)</small>
 
-III. Consejo: El Consejo Estatal Electoral;
+II. Ley Electoral: Ley Electoral para el Estado de Durango;
 
-IV. Instituto: El Instituto Estatal Electoral;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2009)</small>
+
+III. Consejo Estatal: Consejo Estatal del Instituto Electoral y de Participación Ciudadana del Estado de Durango;
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2009)</small>
+
+IV. Instituto Electoral: El Instituto Electoral y de Participación Ciudadana del Estado de Durango;
 
 V. Ley: La Ley de Participación Ciudadana para el Estado de Durango;
 
-VI. Tribunal: El Tribunal Estatal Electoral;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2009)</small>
+
+VI. Tribunal Electoral: El Tribunal Electoral del Poder Judicial del Estado;
 
 VII. Tribunal Contencioso: El Tribunal de lo Contencioso Administrativo del Estado de Durango;
 
@@ -75,7 +83,9 @@ VIII. Padrón: El padrón electoral elaborado por el Instituto Federal Electoral
 
 IX. Lista Nominal: La lista nominal de electores elaborada por el Instituto Federal Electoral para el Estado de Durango; y
 
-X. Comisión: La Comisión de Participación Ciudadana del Consejo.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2009)</small>
+
+X. Comisión: La Comisión de Participación Ciudadana del Consejo Estatal.
 
 ###### ARTÍCULO 3.
 
@@ -103,9 +113,13 @@ II. El Poder Ejecutivo;
 
 III. Los Ayuntamientos;
 
-IV. El Instituto Estatal Electoral de Durango;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2009)</small>
 
-V. El Tribunal Estatal Electoral; y
+IV. El Instituto Electoral;
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2009)</small>
+
+V. El Tribunal Electoral; y
 
 VI. El Tribunal de lo Contencioso Administrativo del Estado de Durango.
 
@@ -113,7 +127,9 @@ VI. El Tribunal de lo Contencioso Administrativo del Estado de Durango.
 
 En la interpretación de la presente Ley, se tomarán en cuenta el objeto y los principios rectores de la participación ciudadana, atendiendo a los criterios gramatical, sistemático y funcional.
 
-A falta de disposición expresa en la presente Ley, se estará a lo dispuesto en el Código y en los acuerdos del Consejo, según sea el caso, y en lo conducente a los principios generales del derecho.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2009)</small>
+
+A falta de disposición expresa en la presente Ley, se estará a lo dispuesto en la Ley Electoral y en los acuerdos del Consejo Estatal según sea el caso, y en lo conducente a los principios generales del derecho.
 
 ###### ARTÍCULO 7.
 
@@ -149,17 +165,23 @@ En el plebiscito y referéndum, el voto es universal, libre, secreto, directo, p
 
 Tendrán derecho a intervenir en los mecanismos de participación ciudadana, en los términos que marca esta Ley, los ciudadanos duranguenses en pleno ejercicio de sus derechos, inscritos en el padrón y en la lista nominal, que cuenten con credencial para votar y no estén dentro de los supuestos establecidos en el artículo 22 de la Constitución Local.
 
-## TÍTULO SEGUNDO. DEL INSTITUTO ESTATAL ELECTORAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE JUNIO DE 2009)</small>
+
+## TÍTULO SEGUNDO. DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE DURANGO
 
 ### CAPÍTULO I. ATRIBUCIONES
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 10.
 
-El Instituto tendrá a su cargo la declaración de procedencia, organización, desarrollo y validación, en su caso, de los mecanismos de plebiscito y referéndum, en los términos señalados en esta Ley.
+El Instituto Electoral tendrá a su cargo la declaración de procedencia, organización, desarrollo y validación, en su caso, de los mecanismos de plebiscito y referéndum, en los términos señalados en esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 11.
 
-En materia de plebiscito y referéndum, el Instituto tiene las siguientes atribuciones:
+En materia de plebiscito y referéndum, el Instituto Electoral tiene las siguientes atribuciones:
 
 I. Difundir una cultura de compromiso y democracia;
 
@@ -171,15 +193,21 @@ IV. Dar certeza de los resultados en los procesos de plebiscito y referéndum.
 
 ### CAPÍTULO II. DE LA COMISIÓN DE PARTICIPACIÓN CIUDADANA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 12.
 
-El Consejo actuará a través de la Comisión de Participación Ciudadana, que estará integrada:
+El Consejo Estatal actuará a través de la Comisión de Participación Ciudadana, que estará integrada:
 
-I. Por el Presidente del Consejo; y
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2009)</small>
+
+I. Por el Presidente del Consejo Estatal; y
 
 II. Dos consejeros electorales.
 
-El Secretario del Consejo fungirá como Secretario de la Comisión, quien sólo tendrá derecho a voz.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2009)</small>
+
+El Secretario del Consejo Estatal fungirá como Secretario de la Comisión, y sólo tendrá derecho a voz.
 
 ###### ARTÍCULO 13.
 
@@ -195,9 +223,13 @@ IV. Designar a los coordinadores y personal de apoyo de los centros municipales;
 
 V. Difundir en los medios de comunicación masiva, el proceso de participación ciudadana al que se convoque;
 
-VI. Someter a la consideración del Consejo, los proyectos de reglamentos para el adecuado desarrollo de los mecanismos de los procesos de plebiscito y referéndum;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2009)</small>
 
-VII. Someter a la consideración del Consejo, la celebración de convenios con autoridades federales, estatales y municipales, para el mejor desarrollo de los procesos de plebiscito y referéndum;
+VI. Someter a la consideración del Consejo Estatal, los proyectos de reglamentos para el adecuado desarrollo de los mecanismos de los procesos de plebiscito y referéndum;
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2009)</small>
+
+VII. Someter a la consideración del Consejo Estatal, la celebración de convenios con autoridades federales, estatales y municipales, para el mejor desarrollo de los procesos de plebiscito y referéndum;
 
 VIII. Determinar el número y ubicación de las mesas receptoras, debiendo publicitarse en los periódicos de mayor circulación, quince días antes y el día fijado para la celebración del plebiscito o referéndum;
 
@@ -211,9 +243,11 @@ XII. Las demás que le señalen esta Ley y otras disposiciones jurídicas aplica
 
 ### CAPÍTULO III. DE LOS ÓRGANOS OPERATIVOS
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 14.
 
-Para el adecuado desempeño de sus atribuciones, la Comisión contará con el apoyo de los órganos administrativos del Instituto, quienes en lo conducente, ejercerán las atribuciones que les confiere el Código.
+Para el adecuado desempeño de sus atribuciones, la Comisión contará con el apoyo de los órganos administrativos del Instituto Electoral, quienes en lo conducente, ejercerán las atribuciones que les confiere la ley Electoral.
 
 ###### ARTÍCULO 15.
 
@@ -371,9 +405,11 @@ Dentro de un año contado a partir de la publicación del decreto derogatorio o 
 
 ### CAPÍTULO I. DE LA DECLARACIÓN DE PROCEDENCIA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 33.
 
-Cuando el plebiscito o el referéndum se solicite por el Gobernador, los Diputados al Congreso del Estado o los Ayuntamientos, según corresponda, enviarán el o los acuerdos respectivos al Instituto, señalando lo siguiente:
+Cuando el plebiscito o el referéndum se solicite por el Gobernador, los Diputados al Congreso del Estado o los Ayuntamientos, según corresponda, enviarán el o los acuerdos respectivos al Instituto Electoral, señalando lo siguiente:
 
 I. La materia del proceso; y
 
@@ -419,9 +455,11 @@ VIII. Señalar la autoridad de la que emana la materia de plebiscito o referénd
 
 IX. Expresar las razones por las que se considera que es necesario someter a plebiscito o referéndum la materia del proceso.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 37.
 
-Recibida la solicitud de plebiscito o referéndum, ésta deberá remitirse, en un término de setenta y dos horas al Instituto, a efecto de que la Comisión lleve a cabo el procedimiento que marca esta Ley.
+Recibida la solicitud de plebiscito o referéndum, ésta deberá remitirse, en un término de setenta y dos horas al Instituto Electoral, a efecto de que la Comisión lleve a cabo el procedimiento que marca esta Ley.
 
 ###### ARTÍCULO 38.
 
@@ -511,7 +549,9 @@ I. La pregunta o preguntas establecidas en la convocatoria;
 
 II. Los recuadros correspondientes a las opciones de respuesta de “SI” o “NO”, por cada pregunta;
 
-III. Exclusivamente el emblema del Instituto; e
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2009)</small>
+
+III. Exclusivamente el emblema del Instituto Electoral; e
 
 IV. Impresión únicamente en colores blanco y negro.
 
@@ -625,7 +665,9 @@ I. Los Poderes Legislativo y Ejecutivo, quienes deberán prever en sus respectiv
 
 II. Los Ayuntamientos, una vez aprobada la realización de un proceso de plebiscito o de referéndum, deberán acordar por mayoría absoluta, prever el presupuesto necesario para tal objetivo.
 
-Los recursos se canalizarán a través del Instituto, a quien le corresponde llevar a cabo dichos procesos.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2009)</small>
+
+Los recursos se canalizarán a través del Instituto Electoral, a quien le corresponde llevar a cabo dichos procesos.
 
 ## TÍTULO QUINTO. DE LAS IMPUGNACIONES EN MATERIA DE PARTICIPACIÓN CIUDADANA
 
@@ -635,17 +677,19 @@ Los recursos se canalizarán a través del Instituto, a quien le corresponde lle
 
 (DEROGADO, P.O. 16 DE NOVIEMBRE DE 2008)
 
-### CAPÍTULO II. DE LA IMPUGNACIÓN ANTE EL TRIBUNAL ESTATAL ELECTORAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE JUNIO DE 2009)</small>
+
+### CAPÍTULO II. DE LA IMPUGNACIÓN ANTE EL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO
 
 ###### ARTÍCULO 62.
 
 (DEROGADO, P.O. 16 DE NOVIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 63.
 
-Las impugnaciones que se interpongan en los procesos de plebiscito y referéndum se sustanciarán y resolverán por el Tribunal Estatal Electoral, conforme a las disposiciones establecidas en la ley de la materia.
+Las impugnaciones que se interpongan en los procesos de plebiscito y referéndum se sustanciarán y resolverán por el Tribunal Electoral, conforme a las disposiciones establecidas en la ley de la materia.
 
 T R A N S I T O R I O S
 
@@ -696,3 +740,9 @@ P.O. 16 DE NOVIEMBRE DE 2008.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente Decreto.
+
+P.O. 18 DE JUNIO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente Decreto.
