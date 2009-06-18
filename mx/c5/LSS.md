@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2009-05-26"
+last_updated: "2009-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JUNIO DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
@@ -644,9 +644,11 @@ También se considerará accidente de trabajo el que se produzca al trasladarse 
 
 Enfermedad de trabajo es todo estado patológico derivado de la acción continuada de una causa que tenga su origen o motivo en el trabajo, o en el medio en que el trabajador se vea obligado a prestar sus servicios. En todo caso, serán enfermedades de trabajo las consignadas en la Ley Federal del Trabajo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE JUNIO DE 2009)</small>
+
 ###### Artículo 44.
 
-Cuando el trabajador asegurado no esté conforme con la calificación que del accidente o enfermedad haga el Instituto de manera definitiva deberá interponer el recurso de inconformidad.
+Cuando el trabajador asegurado no esté conforme con la calificación que del accidente o enfermedad haga el Instituto de manera definitiva, podrá interponer el recurso de inconformidad.
 
 En el supuesto a que se refiere el párrafo anterior, entre tanto se tramita el recurso o el juicio respectivo, el Instituto otorgará al trabajador asegurado o a sus beneficiarios legales las prestaciones a que tuvieran derecho en los seguros de enfermedades y maternidad o invalidez y vida, siempre y cuando se satisfagan los requisitos señalados por esta Ley.
 
@@ -4029,3 +4031,7 @@ CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 QUINTO.- Los trabajadores que hubieren quedado desempleados desde el día primero de octubre de 2008 y que anteriormente a la entrada en vigor del presente Decreto hubieren ejercido el retiro parcial por situación de desempleo, podrán solicitar la diferencia entre la cantidad recibida y la que tengan derecho en los términos del artículo 191, fracción II, de la Ley del Seguro Social, que se reforma.
 
 SEXTO.- A todos los trabajadores que hubieren recibido la ayuda para gastos de matrimonio prevista en el artículo 165 de la Ley del Seguro Social desde la entrada en vigor de dicha Ley, les deberán ser reintegradas las semanas de cotización que por ese concepto les hubieran sido disminuidas.
+
+D.O.F. 18 DE JUNIO DE 2009.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
