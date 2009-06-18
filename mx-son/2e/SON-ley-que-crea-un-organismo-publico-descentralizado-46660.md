@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-un-organismo-publico-descentralizado-46660"
 country: "mx"
 rank: "ley"
 publication_date: "2005-10-13"
-last_updated: "2005-10-13"
+last_updated: "2009-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE CREA UN ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO COMISION DE ECOLOGIA Y DESARROLLO SUSTENTABLE DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE JUNIO DE 2009.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 13 de octubre de 2005.
 
@@ -41,9 +41,11 @@ LEY QUE CREA UN ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO COMISIÓN DE ECOLO
 
 ### CAPÍTULO I. DE LA NATURALEZA, OBJETO Y FUNCIONES DE LA COMISIÓN DE ECOLOGÍA Y DESARROLLO SUSTENTABLE DEL ESTADO DE SONORA
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 18 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 1.
 
-Se crea la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora, como organismo público descentralizado del Gobierno del Estado de Sonora, sectorizado a la Secretaría de Infraestructura Urbana y Ecología, con personalidad jurídica y patrimonio propios, que tendrá por objeto:
+Se crea la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora, como organismo público descentralizado del Gobierno del Estado de Sonora, sectorizado a la Secretaría de Infraestructura y Desarrollo Urbano, con personalidad jurídica y patrimonio propios, que tendrá por objeto:
 
 I.- Formular, ejecutar y evaluar la política ambiental del Estado;
 
@@ -113,7 +115,9 @@ La CEDES contará con los siguientes órganos:
 
 I.- Una Junta Directiva; y
 
-II.- Una Dirección General.
+> <small>(REFORMADA, B.O. 18 DE JUNIO DE 2009)</small>
+
+II.- Una Comisión Ejecutiva.
 
 ###### ARTÍCULO 6.
 
@@ -121,7 +125,9 @@ La Junta Directiva será la autoridad máxima de la CEDES y se integrará de la 
 
 I.- Un Presidente, que será el Gobernador del Estado;
 
-II.- Un Vicepresidente, que será el Secretario de Infraestructura Urbana y Ecología; y
+> <small>(REFORMADA, B.O. 18 DE JUNIO DE 2009)</small>
+
+II.- Un Vicepresidente, que será el Secretario de Infraestructura y Desarrollo Urbano; y
 
 III.- Cuatro vocales que serán los titulares de las Secretarías de Hacienda, de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura, de Economía y de Desarrollo Social.
 
@@ -139,7 +145,9 @@ Las sesiones serán validas cuando el quórum se constituya con la mayoría de s
 
 En cada una de las sesiones, se levantará acta circunstanciada.
 
-### CAPÍTULO IV. DE LAS FACULTADES Y OBLIGACIONES DE LA JUNTA DIRECTIVA Y DEL DIRECTOR GENERAL
+> <small>(REFORMADA SU DENOMINACION, B.O. 18 DE JUNIO DE 2009)</small>
+
+### CAPÍTULO IV. DE LAS FACULTADES Y OBLIGACIONES DE LA JUNTA DIRECTIVA Y DEL COMISIONADO EJECUTIVO
 
 ###### ARTÍCULO 8.
 
@@ -153,7 +161,9 @@ III.- Revisar y aprobar, en su caso, los estados financieros de la CEDES y remit
 
 IV.- Aprobar y expedir el Reglamento Interior y los manuales administrativos de la CEDES;
 
-V.- Analizar y aprobar, en su caso, los informes periódicos que rinda el Director General;
+> <small>(REFORMADA, B.O. 18 DE JUNIO DE 2009)</small>
+
+V.- Analizar y aprobar, en su caso, los informes periódicos que rinda el Comisionado Ejecutivo;
 
 VI.- Autorizar los actos a que se refiere la fracción I del artículo 10 de la presente Ley;
 
@@ -161,13 +171,17 @@ VII.- Analizar, y en su caso, aprobar los convenios que para el cumplimiento de 
 
 VIII.- Las demás que le señalen éste y otros ordenamientos jurídicos.
 
+> <small>(REFORMADO, B.O. 18 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 9.
 
-El Director General de la CEDES será designado y removido libremente por el Gobernador del Estado.
+El Comisionado Ejecutivo de la CEDES será designado y removido libremente por el Gobernador del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 18 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 10.
 
-El Director General tendrá las siguientes facultades y obligaciones:
+El Comisionado Ejecutivo tendrá las siguientes facultades y obligaciones:
 
 I.- Representar legalmente a la CEDES, con facultades para ejercer actos de administración, para pleitos y cobranzas, incluyendo aquellas de carácter laboral, y para juicios civiles, administrativos, penales y de amparo en que la CEDES sea parte, con todas las facultades generales y especiales. Para ejercer actos de dominio deberá contar con la autorización expresa de la Junta Directiva para cada caso concreto;
 
@@ -232,3 +246,15 @@ Los recursos humanos, materiales y financieros del Instituto del Medio Ambiente 
 COMUNIQUESE AL TITULAR DEL PODER EJECUTIVO PARA SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO.- AL MARGEN CENTRAL DERECHO UN SELLO CON EL ESCUDO NACIONAL QUE DICE: ESTADOS UNIDOS MEXICANOS.- H. CONGRESO DEL ESTADO DE SONORA.- SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- HERMOSILLO. SONORA, 29 DE SEPTIEMBRE DE 2005.- DIPUTADO PRESIDENTE.- C. JUAN BAUTISTA VALENCIA DURAZO.- RUBRICA.- DIPUTADO SECRETARIO.- C. JORGE A. GASTELUM LOPEZ.- RUBRICA.- DIPUTADO SECRETARIO.- C. FRUCTUOSO MENDEZ VALENZUELA.- RUBRICA.-
 
 POR TANTO, MANDO SE PUBLIQUE EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.- DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS CUATRO DÍAS DEL MES DE OCTUBRE DEL AÑO DOS MIL CINCO.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- EDUARDO BOURS CASTELO.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- ROBERTO RUIBAL ASTIAZARAN.- RUBRICA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 18 DE JUNIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora realizará, ante las autoridades competentes y conforme a las disposiciones jurídicas que los rijan, los trámites para transferir a su favor, la titularidad de las licencias, permisos y demás autorizaciones que en su oportunidad se otorgaron al Instituto del Medio Ambiente y el Desarrollo Sustentable del Estado de Sonora.
