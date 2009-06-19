@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-radio-y-television-470"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1960-01-19"
-last_updated: "2006-04-11"
+last_updated: "2009-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=470&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1960-01-08"
 
 LEY FEDERAL DE RADIO Y TELEVISION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE JUNIO DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 19 de enero de 1960.
 
@@ -103,9 +103,17 @@ IV. El Código Civil Federal;
 
 V. El Código de Comercio;
 
-VI. La Ley Federal de Procedimiento Administrativo, y
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2009)</small>
 
-VII. El Código Federal de Procedimientos Civiles.
+VI. La Ley Federal de Procedimiento Administrativo;
+
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2009)</small>
+
+VII. El Código Federal de Procedimientos Civiles, y
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2009)</small>
+
+VIII. El Código Federal de Instituciones y Procedimientos Electorales, exclusivamente en materia electoral.
 
 ## TITULO SEGUNDO. Jurisdicción y competencias
 
@@ -192,6 +200,22 @@ III.- Promover y organizar la orientación social en favor de la salud del puebl
 IV.- Imponer las sanciones que correspondan a sus atribuciones, y
 
 V.- Las demás facultades que le confiera la ley.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2009)</small>
+
+###### ARTICULO 12-A.
+
+El Instituto Federal Electoral tendrá las siguientes facultades:
+
+I. Ser la autoridad única para la administración del tiempo que corresponda al Estado en radio y televisión destinado a los fines propios del Instituto y a los de otras autoridades electorales, así como al ejercicio de las prerrogativas de los partidos políticos, conforme a lo dispuesto por la Base III del Artículo 41 de la Constitución y el Código Federal de Instituciones y Procedimientos Electorales;
+
+II. En la esfera de su competencia, requerir a permisionarios y concesionarios de radio y de televisión la difusión de los programas y mensajes que deberán difundir en el tiempo que corresponda al Estado, conforme a las pautas de transmisión aprobadas por los órganos competentes del Instituto;
+
+III. Hacer entrega a permisionarios y concesionarios de radio y de televisión del material que deberán transmitir, conforme a las pautas a que se refiere la fracción anterior;
+
+IV. Atender las quejas y denuncias por la violación a las normas aplicables y determinar e imponer, en el ámbito de su competencia, las sanciones que deban aplicarse a los concesionarios o permisionarios;
+
+V. Las demás que en materia de radio y televisión le otorga el Código Federal de Instituciones y Procedimientos Electorales.
 
 ## TITULO TERCERO. Concesiones, permisos e instalaciones
 
@@ -681,9 +705,21 @@ El derecho de información, de expresión y de recepción, mediante la radio y l
 
 Las estaciones de radio y televisión deberán efectuar transmisiones gratuitas diarias, con duración hasta de 30 minutos continuos o discontinuos, dedicados a difundir temas educativos, culturales y de orientación social. El Ejecutivo Federal señalará la dependencia que deba proporcionar el material para el uso de dicho tiempo y las emisiones serán coordinadas por el Consejo Nacional de Radio y Televisión.
 
-> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 1982)</small>
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 59 Bis.
+
+Con motivo de los procesos electorales federales, a partir del inicio de las precampañas y hasta el día de la jornada electoral, del tiempo total que conforme al artículo anterior y a otras leyes corresponde al Estado, el Instituto Federal Electoral tendrá a su disposición cuarenta y ocho minutos diarios en cada estación de radio y canal de televisión.
+
+Tratándose de los procesos electorales locales que tengan lugar en periodos distintos o cuyas jornadas comiciales no coincidan con la federal, el Instituto Federal Electoral tendrá a su disposición, de igual manera, cuarenta y ocho minutos diarios en todas las estaciones y canales de cobertura local en la entidad de que se trate.
+
+Con motivo de los procesos electorales las autoridades electorales distintas al Instituto Federal Electoral, tanto federales como locales, deberán solicitar a este último el tiempo de radio y televisión que requieran para el cumplimiento de sus fines. El Instituto Federal Electoral resolverá lo conducente.
+
+Fuera de los periodos de precampañas y campañas electorales federales, al Instituto Federal Electoral le será asignado hasta el doce por ciento del tiempo total de que el Estado disponga en radio y televisión, conforme a las leyes y bajo cualquier modalidad. Ese tiempo será utilizado conforme a lo establecido por el inciso g) de la Base III del Artículo 41 de la Constitución y lo que determine el Código Federal de Instituciones y Procedimientos Electorales.
+
+(ADICIONADO, D.O.F. 11 DE ENERO DE 1982) (REUBICADO [N. DE E. ANTES ARTICULO 59 BIS], D.O.F. 19 DE JUNIO DE 2009)
+
+###### ARTICULO 59 Ter.
 
 La Programación General dirigida a la población infantil que transmitan las estaciones de Radio y Televisión deberá:
 
@@ -728,6 +764,12 @@ No se podrán transmitir:
 I.- Noticias, mensajes o propaganda de cualquier clase, que sean contrarios a la seguridad del Estado o el orden público;
 
 II.- Asuntos que a juicio de la Secretaría de Comunicaciones y Transportes impliquen competencia a la Red Nacional, salvo convenio del concesionario o permisionario, con la citada Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2009)</small>
+
+###### ARTICULO 64 Bis.
+
+Los concesionarios y permisionarios de radio y televisión no podrán transmitir programas, mensajes o cualquier otro material que contravenga lo dispuesto por el Código Federal de Instituciones y Procedimientos Electorales y la infracción a esta norma será sancionada en términos de lo dispuesto en el Libro Séptimo de dicho Código.
 
 ###### ARTICULO 65.
 
@@ -819,21 +861,25 @@ II.- Que se garantice la regularidad y eficiencia del servicio, y
 
 III.- Que no se cree una innecesaria multiplicación del mismo servicio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO FAVOR DE CONSULTAR EL ARTICULO TERCERO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS.</small>
-
-> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 79-A.
 
-En cumplimiento de la función social de la radiodifusión a que se refiere el artículo 5 de esta ley, en la difusión de propaganda electoral, los concesionarios observarán las siguientes disposiciones:
+Los permisionarios y concesionarios de radio y de televisión tendrán las siguientes obligaciones en materia electoral:
 
-I. Tratándose de elecciones federales, deberán informar al Instituto Federal Electoral sobre la propaganda que hubiese sido contratada por los partidos políticos o por los candidatos a cualquier puesto de elección, así como los ingresos derivados de dicha contratación, conforme a la metodología y formatos que al efecto emita ese Instituto en el Reglamento de Fiscalización respectivo;
+I. Atender las determinaciones que el Instituto Federal Electoral adopte en materia de radio y televisión, dentro del ámbito de su competencia conforme al Código Federal de Instituciones y Procedimientos Electorales;
 
-II. Atenderán los requerimientos de información en la materia que les formule el Instituto Federal Electoral;
+II. Suspender, durante el tiempo que comprendan las campañas electorales federales y locales y hasta la conclusión de la respectiva jornada comicial, toda propaganda gubernamental, conforme a lo dispuesto por el párrafo 2, artículo 2, del Código Federal de Instituciones y Procedimientos Electorales;
 
-III. Tratándose de concesionarios, éstos ofrecerán tarifas equivalentes a la publicidad comercial, y
+III. Poner a disposición del Instituto Federal Electoral el tiempo que le corresponda administrar, de conformidad con lo dispuesto en el artículo 59-BIS de la presente Ley;
 
-IV. El Instituto Federal Electoral, durante los procesos electorales federales, será la instancia encargada de pagar la publicidad electoral de los partidos políticos con cargo a sus prerrogativas, y dictará las medidas necesarias para ello.
+IV. Transmitir íntegramente y en los horarios señalados en las pautas correspondientes, los mensajes y programas que ordene el Instituto Federal Electoral, de conformidad con lo dispuesto en el Código de la materia y en las disposiciones administrativas aplicables, sin alterar las pautas ni exigir requisitos técnicos adicionales a los aprobados por el Instituto;
+
+V. Suspender de manera inmediata, por orden del Consejo General del Instituto Federal Electoral, la transmisión de propaganda política o electoral que dicho consejo considere violatoria al Código Federal de Instituciones y Procedimientos Electorales, conforme a lo dispuesto por el artículo 370, numeral 2, de dicho ordenamiento;
+
+VI. Abstenerse de comercializar, de manera directa o a través de terceros, tiempo de transmisión, en cualquier modalidad de programación, a los partidos políticos, aspirantes, precandidatos o candidatos a cargos de elección popular;
+
+VII. Proporcionar al Instituto Federal Electoral la información que les solicite, dentro del ámbito de sus atribuciones conforme al Código Federal de Instituciones y Procedimientos Electorales.
 
 ###### ARTICULO 80.
 
@@ -1053,6 +1099,12 @@ En las infracciones a que se refiere el Artículo 104, la multa mínima será de
 
 En todo caso, la sanción se aplicará en consideración a la gravedad de la falta y a la capacidad económica del infractor.
 
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2009)</small>
+
+###### ARTICULO 107.
+
+En caso de que el Instituto Federal Electoral considere que se han cometido infracciones graves y sistemáticas en los términos que establece el Código Federal de Instituciones y Procedimientos Electorales para los concesionarios y permisionarios; su Consejo General, habiendo escuchado al concesionario o permisionario, dará cuenta a la autoridad competente, para los efectos correspondientes.
+
 TRANSITORIOS:
 
 ###### ARTICULO 1o.
@@ -1140,3 +1192,9 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Poder Ejecutivo Federal cuenta con 30 días para realizar las modificaciones correspondientes al Reglamento de la Ley Federal de Radio y Televisión, en Materia de Concesiones, Permisos y Contenido de las Transmisiones de Radio y Televisión, de acuerdo con lo previsto en el presente Decreto.
 
 TERCERO.- Las disposiciones contenidas en el artículo 79-A, entrarán en vigor a partir del 1° de enero de 2007.
+
+D.O.F. 19 DE JUNIO DE 2009.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
