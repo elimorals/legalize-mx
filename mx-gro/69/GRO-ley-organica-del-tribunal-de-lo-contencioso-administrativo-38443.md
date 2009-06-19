@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-tribunal-de-lo-contencioso-administrativo-3844
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-03-09"
-last_updated: "2004-03-09"
+last_updated: "2009-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, NUMERO 194
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 9 de marzo de 2004.
 
@@ -395,6 +395,12 @@ La Sala Superior se integrará con cinco Magistrados Numerarios específicamente
 
 La Sala Superior sesionará en Pleno con la presencia de todos sus miembros y sus resoluciones se aprobarán por unanimidad o mayoría de votos.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
+
+Si por cualquier causa, uno o dos de sus miembros no asistieran al Pleno para el que fueron convocados, el magistrado Presidente designará y citará al Magistrado o Magistrados de las Salas Regionales, para integrar Pleno.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2009)</small>
+
 Las sesiones serán públicas y podrán ser privadas cuando así lo determine la propia Sala.
 
 ###### ARTICULO 20.
@@ -482,6 +488,10 @@ El Presidente del Tribunal y de la Sala Superior, tendrá las siguientes atribuc
 I.- Representar al Tribunal ante toda clase de autoridades;
 
 II.- Convocar a los Magistrados de la Sala Superior a las sesiones ordinarias y extraordinarias del Pleno;
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2009)</small>
+
+II Bis.- Designar a los Magistrados de las Salas Regionales para que integren Pleno, cuando por cualquier causa, el Magistrado de la Sala Superior, no asistiere al Pleno para el que fue convocado;
 
 III.- Despachar la correspondencia del Tribunal y de la Sala Superior;
 
@@ -822,3 +832,9 @@ El Secretario General de Gobierno.
 C. MAYOR LUIS LEON APONTE.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE JUNIO DE 2009.
+
+ÚNICO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periodo Oficial del Gobierno del Estado.
