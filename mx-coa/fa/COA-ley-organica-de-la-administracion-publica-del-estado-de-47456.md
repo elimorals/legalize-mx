@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-47456"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-12-07"
-last_updated: "2009-02-10"
+last_updated: "2009-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2009.
 
 Ley publicada en Número Extraordinario del Periódico Oficial del Estado de Coahuila, el miércoles 7 de diciembre de 2005.
 
@@ -43,7 +43,11 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA.
 
 La presente Ley tiene por objeto establecer las bases para la organización y funcionamiento de la Administración Pública centralizada y paraestatal del Estado de Coahuila.
 
-La Administración Pública Centralizada esta conformada por el Despacho del Gobernador, las Secretarias del Ramo, la Procuraduría General de Justicia y demás unidades administrativas que a este sector se integren para la buena marcha de la administración, cualquiera que sea su denominación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
+
+La Administración Pública Centralizada está conformada por el Despacho del Gobernador, las Secretarías del Ramo, la Fiscalía General del Estado, que es un organismo con autonomía técnica, operativa y de criterio jurídico, por lo que se rige por su propia ley orgánica, así como las demás unidades administrativas que a este sector se integren para la buena marcha de la administración, cualquiera que sea su denominación.
 
 La Administración Pública Paraestatal se conforma por los organismos públicos descentralizados, los organismos públicos de participación ciudadana, las empresas de participación estatal, los fideicomisos públicos y demás entidades, cualquiera que sea su denominación.
 
@@ -67,7 +71,11 @@ Las Juntas Locales de Conciliación y las Juntas Locales de Conciliación y Arbi
 
 Las dependencias del Ejecutivo estarán obligadas a coordinar sus actividades entre sí y a proporcionarse colaboración y cooperación técnica, así como la información necesaria cuando el ejercicio de sus funciones así lo requiera.
 
-El Titular del Ejecutivo, por medio del acuerdo respectivo, podrá disponer la integración de Comisiones Intersecretariales para la atención de actividades estratégicas. Estas Comisiones podrán involucrar a varias dependencias y entidades de la Administración Pública Estatal o a la Procuraduría General de Justicia con el fin de facilitar la coordinación de políticas, planes, programas y acciones.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
+
+El Titular del Ejecutivo, por medio del acuerdo respectivo, podrá disponer la integración de Comisiones Intersecretariales para la atención de actividades estratégicas. Estas Comisiones podrán involucrar a varias dependencias y entidades de la Administración Pública Estatal y a la Fiscalía General del Estado, observando siempre su autonomía constitucional, con el fin de facilitar la coordinación de políticas, planes, programas y acciones.
 
 El acuerdo que integre estas Comisiones se publicará en el Periódico Oficial del Gobierno del Estado y deberá contener el nombre del Coordinador General de de la Comisión Intersecretarial y las áreas estratégicas a las que se enfocarán las políticas, planes, programas y acciones.
 
@@ -99,17 +107,29 @@ El Ejecutivo del Estado, a través de sus dependencias y entidades centralizadas
 
 El Ejecutivo del Estado es la autoridad competente para determinar los Distritos Notariales, las Zonas de Desarrollo Económico y demás circunscripciones de la administración pública estatal, con base en la agrupación de los municipios.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 9.
 
-Todas las leyes y decretos promulgados por el Gobernador, así como los reglamentos, decretos, acuerdos y circulares que expida, serán refrendados por el Secretario de Gobierno y por los Secretarios del ramo al que el asunto corresponda, sin este requisito no surtirán efectos legales.
+Todas las leyes y decretos promulgados por el Gobernador, así como los reglamentos, decretos, acuerdos y circulares que expida, serán refrendados por el Secretario de Gobierno, por los Secretarios del ramo al que el asunto corresponda, así como por el Fiscal General del Estado, según sea el caso, sin este requisito no surtirán efectos legales.
 
 Para su obligatoriedad y validez, los citados ordenamientos invariablemente deberán ser publicados en el Periódico Oficial del Gobierno del Estado.
 
-El refrendo actualiza en el Secretario de Gobierno y los demás Secretarios del Ramo, la responsabilidad que pueda resultar del mismo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
+
+El refrendo actualiza en el Secretario de Gobierno, en los demás Secretarios del Ramo, así como en el Fiscal General del Estado, la responsabilidad que pueda resultar del mismo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 10.
 
-Los titulares de las dependencias, entidades y el Procurador General de Justicia, no podrán desempeñar ningún otro puesto, empleo, cargo o comisión ni dedicarse al libre ejercicio de la profesión, salvo los relacionados con la docencia, la investigación y los nombramientos honoríficos.
+Los titulares de las dependencias, entidades y el Fiscal General del Estado, no podrán desempeñar ningún otro puesto, empleo, cargo o comisión ni dedicarse al libre ejercicio de la profesión, salvo los relacionados con la docencia, la investigación y los nombramientos honoríficos.
 
 ###### ARTÍCULO 11.
 
@@ -123,13 +143,23 @@ III. Residir por lo menos seis meses en el Estado previos a la toma de protesta;
 
 IV. Tener un modo honesto de vivir, gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime la buena fama en concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
 
-Los requisitos legales y el procedimiento específico para la designación de Procurador General de Justicia serán los establecidos en la Constitución Política del Estado de Coahuila y en la Ley Orgánica del Ministerio Público.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
+
+Los requisitos legales y el procedimiento específico para la designación del Fiscal General del Estado serán los establecidos en la Constitución Política del Estado de Coahuila y en la Ley Orgánica de la Fiscalía General del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 12.
 
-Los Titulares de las dependencias, entidades, el Procurador General de Justicia y los demás servidores públicos en el Estado, antes de tomar posesión de su cargo o empleo, harán la protesta de guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las Leyes emanadas o que emanen de ambas, así como de desempeñar fielmente sus deberes.
+Los Titulares de las dependencias, entidades, el Fiscal General del Estado y los demás servidores públicos en el Estado, antes de tomar posesión de su cargo o empleo, harán la protesta de guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las Leyes emanadas o que emanen de ambas, así como de desempeñar fielmente sus deberes.
 
-Al tomar posesión del cargo, los titulares de las dependencias, entidades y de la Procuraduría General de Justicia, deberán de recibir los asuntos inherentes a su competencia, así como los recursos humanos, materiales y financieros en los términos de la Ley de Entrega - Recepción del Estado y Municipios de Coahuila.
+Al tomar posesión del cargo, los titulares de las dependencias, entidades y de la Fiscalía General del Estado, deberán de recibir los asuntos inherentes a su competencia, así como los recursos humanos, materiales y financieros en los términos de la Ley de Entrega - Recepción del Estado y Municipios de Coahuila.
+
+El Fiscal General rendirá su protesta ante el Congreso, en la forma y términos establecidos en la Constitución del Estado y en la Ley Orgánica de la Fiscalía General del Estado.
 
 ###### ARTÍCULO 13.
 
@@ -143,9 +173,21 @@ Sin perjuicio de las facultades que esta Ley otorga a los servidores públicos, 
 
 Las ausencias temporales de los Secretarios del ramo, serán suplidas, siempre con el consentimiento del Ejecutivo, en la forma que determine el Reglamento Interior respectivo. Cuando el cargo quede vacante, el Gobernador designará a un encargado de despacho quien ejercerá las atribuciones correspondientes al cargo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2009)</small>
+
+Las ausencias del Fiscal General y de los demás funcionarios de la Fiscalía General serán suplidas en la forma que determine su propia Ley Orgánica.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 15.
 
-Los Secretarios del ramo, el Procurador General de Justicia y los titulares de las entidades paraestatales, con la anuencia previa del Ejecutivo, comparecerán a las sesiones del H. Congreso, para que informen cuando se discuta una Ley o se estudie un asunto concerniente a sus respectivos ramos o actividades.
+Los Secretarios del ramo y los titulares de las entidades paraestatales, con la anuencia previa del Ejecutivo, comparecerán a las sesiones del H. Congreso, para que informen cuando se discuta una Ley o se estudie un asunto concerniente a sus respectivos ramos o actividades.
+
+Tratándose del Fiscal General del Estado se observará lo dispuesto por la Ley Orgánica de la Fiscalía General del Estado.
 
 ###### ARTÍCULO 16.
 
@@ -153,19 +195,29 @@ El Titular del Ejecutivo ejercerá las siguientes facultades en forma exclusiva 
 
 A. Son facultades indelegables:
 
-I. Iniciar ante el Congreso del Estado las leyes, decretos y acuerdos que juzgue convenientes y solicitar al mismo, que inicie ante el Congreso de la Unión los de competencia federal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
+
+I. Iniciar ante el Congreso del Estado las leyes, decretos y acuerdos que juzgue convenientes y solicitar al mismo, que inicie ante el Congreso de la Unión los de competencia federal; sin perjuicio de las facultades otorgadas en la Constitución Política del Estado de Coahuila a la Fiscalía General del Estado y al Fiscal General;
 
 II. Nombrar y remover libremente a los Secretarios del Ramo y a los Directores Generales de Entidades, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución Política del Estado y en las demás leyes aplicables;
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III. Expedir los decretos, acuerdos y demás disposiciones del orden administrativo que estime necesarios, así como establecer nuevas dependencias y entidades y separar, unir, sectorizar o transformar las existentes, en atención al volumen de trabajo y trascendencia de los asuntos públicos, con la finalidad de asegurar la buena marcha de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
+
+III. Expedir los decretos, acuerdos y demás disposiciones del orden administrativo que estime necesarios, así como establecer nuevas dependencias y entidades y separar, unir, sectorizar o transformar las existentes, en atención al volumen de trabajo y trascendencia de los asuntos públicos, con la finalidad de asegurar la buena marcha de la Administración Pública Estatal; sin perjuicio de las facultades otorgadas en la Constitución Política del Estado de Coahuila a la Fiscalía General del Estado y al Fiscal General;
 
 IV. Expedir los reglamentos interiores, decretos, acuerdos, circulares y otras disposiciones que tiendan a regular el funcionamiento de la Administración Pública Estatal y autorizar la expedición de los manuales administrativos que procedan;
 
 V. En los reglamentos interiores que se expidan, se determinarán las unidades administrativas que integran cada una de las dependencias, señalando sus atribuciones;
 
-VI. Constituir comisiones intersecretariales para el despacho de asuntos en que deban intervenir varias secretarías. La Procuraduría General de Justicia y las entidades de la administración pública paraestatal podrán integrarse a dichas comisiones cuando se trate de asuntos relacionados con su competencia u objeto;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
+
+VI. Constituir comisiones intersecretariales para el despacho de asuntos en que deban intervenir varias secretarías. La Fiscalía General del Estado y las entidades de la administración pública paraestatal podrán integrarse a dichas comisiones cuando se trate de asuntos relacionados con su competencia u objeto;
 
 VII. Constituir comisiones u organismos de carácter interinstitucional transitorios o permanentes, integrados por representantes del Gobierno y de los sectores social y privado, o de alguno de ellos, para desarrollar programas de beneficio colectivo, a partir de la colaboración recíproca entre sus miembros;
 
@@ -177,7 +229,11 @@ X. Las que con ese carácter le confieran la Constitución Política de los Esta
 
 B. Son facultades delegables:
 
-I. Tomar la protesta de los titulares de las dependencias y entidades, del Procurador General de Justicia y de los Subsecretarios de la Administración Pública Estatal, cuando se considere necesario;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
+
+I. Tomar la protesta de los titulares de las dependencias y entidades y de los Subsecretarios de la Administración Pública Estatal, cuando se considere necesario. El Fiscal General del Estado rendirá protesta ante el Congreso en la forma prevista en la Constitución Política del Estado de Coahuila y en la Ley Orgánica de la Fiscalía General del Estado;
 
 II. Determinar, atendiendo al ámbito de su competencia, el agrupamiento de entidades paraestatales en sectores definidos, a efecto de que las relaciones con el propio ejecutivo, se realicen a través de la dependencia de la administración pública estatal a la que estén sectorizadas, cuyas atribuciones, funciones y objetivos sean afines con las entidades antes señaladas;
 
@@ -203,9 +259,9 @@ Para el estudio, planeación y despacho de los asuntos de la Administración Pú
 
 I. Secretaría de Gobierno;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. Secretaría de Seguridad Pública;
+II. (DEROGADA, P.O. 19 DE JUNIO DE 2009)
 
 III. Secretaría de Finanzas;
 
@@ -231,11 +287,13 @@ XII. Secretaría de la Función Pública; y (sic)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE MARZO DE 2007)</small>
 
-XIII.- Secretaría de Desarrollo Regional de la Laguna, y
+XIII. Secretaría de Desarrollo Regional de la Laguna, y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE MARZO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XIV.- La Procuraduría General de Justicia del Estado.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
+
+XIV. La Fiscalía General del Estado.
 
 Las dependencias de la Administración Pública Centralizada tendrán igual rango, y entre ellas no habrá preeminencia alguna.
 
@@ -245,23 +303,45 @@ Para el trámite de los asuntos que correspondan directamente al titular del Pod
 
 El Gobierno del Estado, con la finalidad de promover el desarrollo de las acciones de vinculación institucional en el Distrito Federal, contará con una oficina de Representación en esa ciudad, cuyo titular será designado por el Titular del Ejecutivo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 19.
 
-Sin detrimento de las atribuciones que correspondan en exclusiva a las diferentes dependencias y a la Procuraduría General de Justicia, los titulares tendrán las siguientes facultades y obligaciones:
+Sin detrimento de las atribuciones que correspondan en exclusiva a las diferentes dependencias y a la Fiscalía General del Estado, los titulares tendrán las siguientes facultades y obligaciones:
 
-I. Acordar con el Gobernador del Estado el despacho de los asuntos encomendados a las dependencias a su cargo, a los del sector que le corresponda coordinar y a la Procuraduría General de Justicia, según sea el caso, así como acordar con los servidores públicos que les estén subordinados conforme a los reglamentos interiores, manuales administrativos y de procedimientos vigentes;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. Planear, organizar, coordinar y evaluar el funcionamiento de las unidades administrativas adscritas y organismos desconcentrados sectorizados a la dependencia o Procuraduría General de Justicia conforme al Plan Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
+
+I. Acordar con el Gobernador del Estado el despacho de los asuntos encomendados a las dependencias a su cargo, a los del sector que le corresponda coordinar; la Fiscalía General del Estado lo hará observando lo dispuesto por su propia ley orgánica, según sea el caso, así como acordar con los servidores públicos que les estén subordinados conforme a los reglamentos interiores, manuales administrativos y de procedimientos vigentes;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
+
+II. Planear, organizar, coordinar y evaluar el funcionamiento de las unidades administrativas adscritas y organismos desconcentrados sectorizados a la dependencia conforme al Plan Estatal de Desarrollo. Tratándose de la Fiscalía General del Estado se estará a lo dispuesto por la Constitución Política del Estado de Coahuila y la Ley Orgánica de la Fiscalía General de la Fiscalía General (sic) del Estado;
 
 III. Expedir los acuerdos, circulares y otras disposiciones de carácter general necesarias para el desarrollo de las atribuciones que le competan;
 
-IV. Aprobar los programas anuales de la dependencia o Procuraduría General de Justicia a su cargo y de las entidades sectorizadas a ellas, para ser sometidos a consideración del Gobernador del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
+
+IV. Aprobar los programas anuales de la dependencia a su cargo y de las entidades sectorizadas a ellas, para ser sometidos a consideración del Gobernador del Estado. La Fiscalía General se regirá por la Constitución Política del Estado de Coahuila y la Ley Orgánica de la Fiscalía General;
 
 V. Cumplir y hacer cumplir las políticas, lineamientos, acuerdos, órdenes, circulares y demás disposiciones que emita el Titular del Ejecutivo;
 
 VI. Fijar, dirigir y controlar las políticas de la dependencia a su cargo, así como programar, coordinar y evaluar, las actividades de las entidades del sector que le corresponda coordinar en los términos de la legislación aplicable;
 
-VII. Proponer el anteproyecto de Presupuesto de Egresos de la dependencia o Procuraduría General de Justicia a su cargo, remitiéndolos a la Secretaría de Finanzas con la oportunidad que se le solicite;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
+
+VII. Proponer el anteproyecto de Presupuesto de Egresos de la dependencia a su cargo, remitiéndolos a la Secretaría de Finanzas con la oportunidad que se le solicite.
+
+En el caso de la Fiscalía General del Estado se observarán las disposiciones de la Constitución Política del Estado de Coahuila y la Ley Orgánica de la Fiscal la General del Estado;
 
 VIII. Desempeñar las comisiones y funciones que el Gobernador le confiera, manteniéndolo informado sobre el desarrollo y ejecución de las mismas;
 
@@ -277,7 +357,11 @@ XII. Certificar y expedir copias de los documentos que obren en los archivos de 
 
 XIII. Conocer y resolver, en el ámbito de su competencia, y de conformidad con la legislación aplicable, los recursos administrativos que se interpongan en contra de los actos emanados de la dependencia a su cargo;
 
-XIV. Representar legalmente al Poder Ejecutivo en el ámbito de la competencia de la dependencia correspondiente sin menoscabo de las facultades que en la materia tengan las demás dependencias y la Procuraduría General de Justicia;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
+
+XIV. Representar legalmente al Poder Ejecutivo en el ámbito de la competencia de la dependencia correspondiente sin menoscabo de las facultades que en la materia tengan las demás dependencias y la Fiscalía General del Estado;
 
 XV. Realizar las acciones de administración, operación y control en materia de adquisiciones, arrendamientos, contratación de servicios, obras públicas, y servicios relacionados con las mismas, sin perjuicio de las facultades específicas que en estas materias le correspondan a otras dependencias;
 
@@ -311,9 +395,13 @@ Para el cumplimiento de los planes de Gobierno, las dependencias y entidades deb
 
 Para atender de manera eficiente el despacho de los asuntos de su competencia, las dependencias de la Administración Pública Centralizada podrán contar con órganos administrativos desconcentrados, que les estarán jerárquicamente subordinados y tendrán las facultades específicas que determinen el acuerdo de su creación, su reglamento interior o las disposiciones legales que se dicten.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 22.
 
-Los titulares de las dependencias de la Administración Centralizada formularán los proyectos de leyes, reglamentos, decretos, acuerdos, convenios y demás disposiciones de carácter general que se requieran para el manejo de los asuntos de su competencia y los remitirán al Titular del Poder Ejecutivo por conducto de la Secretaría de Gobierno.
+Los titulares de las dependencias de la Administración Centralizada formularán los proyectos de leyes, reglamentos, decretos, acuerdos, convenios y demás disposiciones de carácter general que se requieran para el manejo de los asuntos de su competencia y los remitirán al Titular del Poder Ejecutivo por conducto de la Secretaría de Gobierno; sin detrimento de las facultades reglamentarias y para iniciar leyes que la Constitución Política del Estado de Coahuila y la Ley Orgánica de la Fiscalía General del Estado otorgan a la Fiscalía General del Estado.
 
 Los proyectos a que hace mención el presente artículo deberán ir acompañados por un manifiesto de impacto normativo, mismo que deberá elaborarse de conformidad a los lineamientos que para tal efecto establezca el Gobernador del Estado.
 
@@ -423,75 +511,29 @@ XLIV. Ordenar la elaboración de los estudios, planes, objetivos y políticas en
 
 XLV. Coadyuvar con las autoridades federales, estatales de otras entidades de la República y municipales en la adopción de acciones y medidas encaminadas a mejorar los sistemas de protección civil en la Entidad;
 
-> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XLVI. Proponer al Ejecutivo los programas relativos a la protección ciudadana y ejercer las acciones necesarias que aseguren la readaptación social;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
 
-> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2008)</small>
+XLVI. Ser la Consejería Jurídica y Representante Legal del Ejecutivo del Estado, siempre que las leyes y disposiciones aplicables no determinen dichas atribuciones en otro funcionario;
 
-XLVII. Organizar, dirigir, vigilar y controlar la administración de los centros de readaptación social en el Estado y tramitar, por acuerdo del Gobernador, las solicitudes de extradición, amnistía, indultos, libertad anticipada y traslado de reos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2008)</small>
+XLVII. (DEROGADA, P.O. 19 DE JUNIO DE 2009)
 
-XLVIII. Supervisar el adecuado cumplimiento de tratamientos y medidas de adaptación, orientación y protección destinadas a menores infractores, así como supervisar la administración de los Centros de Internación, Diagnóstico y Tratamiento de Menores Infractores, y;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2008)</small>
+XLVIII. (DEROGADA, P.O. 19 DE JUNIO DE 2009)
 
-XLIX. Procurar la readaptación social de los procesados y sentenciados en la ejecución de las penas privativas de la libertad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2008)</small>
+XLIX. (DEROGADA, P.O. 19 DE JUNIO DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 25.
 
-A la Secretaría de Seguridad Pública le corresponde el despacho de los siguientes asuntos:
-
-I. Desarrollar las políticas de seguridad pública y proponer la política criminal en el ámbito estatal, en coordinación con las políticas del Sistema Nacional de Seguridad Pública;
-
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
-
-II. Proponer al Ejecutivo los programas relativos a la seguridad pública y ejercer las acciones necesarias que aseguren la libertad y la prevención de delitos;
-
-III. Prevenir y combatir las conductas delictivas, protegiendo a las personas en su integridad física, propiedades y derechos;
-
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
-
-IV. Elaborar el Plan Estatal de Seguridad Pública de acuerdo al Plan Estatal de Desarrollo y a las políticas del Sistema Nacional de Seguridad Pública los demás planes que de él se deriven;
-
-V. Aplicar las normas, políticas y lineamientos que procedan para establecer mecanismos de coordinación entre los cuerpos de seguridad pública que existen en el Estado;
-
-VI. Diseñar y aplicar las políticas, medidas y acciones en materia de seguridad pública;
-
-VII. Auxiliar a los municipios de la entidad en la preservación de la seguridad pública;
-
-VIII. Establecer un sistema para obtener, analizar, estudiar y procesar información para la prevención de los delitos;
-
-IX. Apoyar a las autoridades federales, municipales y de otras entidades de la República en la adopción de medidas y desarrollo de acciones tendientes a mejorar los servicios de seguridad pública;
-
-X. Autorizar la prestación de servicios de seguridad a los particulares, así como los servicios de seguridad privada prestada por éstos;
-
-XI. Promover la profesionalización y modernización de los cuerpos de seguridad pública del Estado;
-
-XII. Auxiliar al Poder Judicial del Estado, al Ministerio Público y a las autoridades administrativas, cuando así lo requieran, para el debido ejercicio de sus funciones;
-
-XIII. (DEROGADA, P.O. 15 DE ENERO DE 2008)
-
-XIV. (DEROGADA, P.O. 15 DE ENERO DE 2008)
-
-XV. Vigilar las carreteras, caminos, aeropuertos de jurisdicción estatal así como las instalaciones y edificios públicos del Gobierno del Estado;
-
-XVI. Diseñar, proponer y en su caso establecer programas tendientes a prevenir el pandillerismo, así como el alcoholismo, la farmacodependencia y demás adicciones;
-
-XVII. (DEROGADA, P.O. 15 DE ENERO DE 2008)
-
-XVIII. Celebrar convenios de colaboración, en el ámbito de su competencia y en el marco del Sistema Nacional de Seguridad Pública, con autoridades federales, estatales, municipales y del Distrito Federal, así como establecer acuerdos de colaboración con instituciones similares conforme a la legislación aplicable;
-
-XIX. (DEROGADA, P.O. 15 DE ENERO DE 2008)
-
-XX. Aplicar y vigilar el cumplimiento de las disposiciones que en las materias de su competencia señalan la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado, las leyes federales y estatales y demás disposiciones aplicables;
-
-XXI. (DEROGADA, P.O. 15 DE ENERO DE 2008)
-
-XXII. (DEROGADA, P.O. 15 DE ENERO DE 2008)
+(DEROGADO, P.O. 19 DE JUNIO DE 2009)
 
 ###### ARTÍCULO 26.
 
@@ -499,7 +541,11 @@ A la Secretaría de Finanzas le corresponde el despacho de los siguientes asunto
 
 I. Solicitar, recibir e integrar las propuestas de inversión de las dependencias y entidades que integran la Administración Pública Estatal;
 
-II. Elaborar el proyecto de la Ley de Ingresos y del Presupuesto de Egresos del Estado, en coordinación con las dependencias, entidades y la Procuraduría General de Justicia y someterlo a la aprobación del Titular del Ejecutivo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
+
+II. Elaborar el proyecto de la Ley de Ingresos y del Presupuesto de Egresos del Estado, en coordinación con las dependencias y entidades y someterlo a la aprobación del Titular del Ejecutivo, sin perjuicio de lo establecido en la Ley Orgánica de la Fiscalía General del Estado;
 
 III. Recaudar los ingresos de carácter fiscal que establezcan las leyes y aquellos otros ingresos cuya exacción le corresponde o ha sido delegada al Estado;
 
@@ -1005,7 +1051,11 @@ III. Inspeccionar y supervisar que las dependencias y entidades de la Administra
 
 IV. Establecer las normas generales para la realización de auditorias, inspecciones y evaluaciones a las dependencias y entidades de la Administración Pública Estatal, así como realizar estas acciones con el objeto de promover la eficiencia en las operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas;
 
-V. Designar los comisarios y órganos de vigilancia de las entidades paraestatales, así como designar, coordinar y asesorar a los titulares de los órganos de control interno de las dependencias y de la Procuraduría General de Justicia;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
+
+V. Designar los comisarios y órganos de vigilancia de las entidades paraestatales, así como designar, coordinar y asesorar a los titulares de los órganos de control interno de las dependencias de la Administración Pública del Estado, sin perjuicio de lo establecido en la Ley Orgánica de la Fiscalía General del Estado;
 
 VI. Asignar la participación de auditores externos y consultores que coadyuven en el cumplimiento de las funciones de verificación y vigilancia que le competen, así como normar y controlar su desempeño;
 
@@ -1013,7 +1063,11 @@ VII. Intervenir en el procedimiento administrativo de Entrega-Recepción para ef
 
 VIII. Supervisar la celebración y el correcto cumplimiento de convenios y contratos en los que participen las dependencias y entidades de la Administración Pública, así como los acuerdos y convenios celebrados entre la Federación y el Estado;
 
-IX. Vigilar la planeación, contratación, ejecución, conservación y control de las adquisiciones de bienes, prestación de servicios de cualquier naturaleza, así como de las obras públicas y los servicios relacionados con las mismas que contraten las dependencias, las entidades y la Procuraduría General de Justicia;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
+
+IX. Vigilar la planeación, contratación, ejecución, conservación y control de las adquisiciones de bienes, prestación de servicios de cualquier naturaleza, así como de las obras públicas y los servicios relacionados con las mismas que efectúen las dependencias, entidades y la Fiscalía General del Estado, sin perjuicio de lo establecido en la Ley Orgánica de la Fiscalía General del Estado;
 
 X. Intervenir para efectos de verificación y control, en los contratos que emanen de la celebración de convocatorias y licitaciones, y vigilar el cumplimiento de dichos instrumentos;
 
@@ -1025,13 +1079,21 @@ XIII. Supervisar el cumplimiento de la Ley de Responsabilidades de los Servidore
 
 XIV. Atender y dar seguimiento a las denuncias y quejas que se presenten con motivo de irregularidades en el ejercicio del gasto corriente y en los programas de inversión del Gobierno del Estado;
 
-XV. Atender las quejas e inconformidades que presenten los particulares con motivo de licitaciones, convenios o contratos que celebren con las dependencias, entidades y la Procuraduría General de Justicia;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+(REFORMADA, P.O. 19 DE JUNIO DE 2009) (F. DE E., P.O. 14 DE AGOSTO DE 2009)
+
+XV. Atender las quejas e inconformidades que presenten los particulares con motivo de licitaciones, convenios o contratos que celebren con las dependencias, entidades y la Fiscalía General del Estado, sin perjuicio de lo establecido en la Ley Orgánica de la Fiscalía General del Estado;
 
 XVI. Recibir y registrar las declaraciones patrimoniales de los servidores públicos en los términos de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado y verificar su contenido mediante investigaciones que fueren pertinentes;
 
 XVII. Conocer e investigar los actos, omisiones o conductas de los servidores públicos para constituir responsabilidades administrativas, aplicar las sanciones que correspondan en los términos que las leyes señalen, y en su caso, hacer las denuncias correspondientes ante el ministerio público, prestándole para tal efecto la colaboración que le fuera requerida;
 
-XVIII. Proponer y conducir la política general de la Administración Pública Estatal para establecer acciones que propicien el acceso a la información pública y la rendición de cuentas, vigilando que las dependencias, entidades y la Procuraduría General de Justicia cumplan con las disposiciones de la materia;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+(REFORMADA, P.O. 19 DE JUNIO DE 2009) (F. DE E., P.O. 14 DE AGOSTO DE 2009)
+
+XVIII. Proponer y conducir la política general de la Administración Pública Estatal para establecer acciones que propicien el acceso a la información pública y la rendición de cuentas, vigilando que las dependencias, entidades y la Fiscalía General del Estado cumplan con las disposiciones de la materia;
 
 XIX. Opinar, previo a su expedición, respecto a las normas de contabilidad y de control en materia de planeación, programación, presupuestación y administración de recursos humanos, financieros y materiales;
 
@@ -1041,7 +1103,11 @@ XXI. Vigilar que las dependencias cuenten con reglamento interior, manuales de o
 
 XXII. Emitir su opinión sobre la creación, modificación o supresión de dependencias y entidades de la Administración Pública Estatal;
 
-XXIII. Organizar, coordinar y evaluar los programas integrales de modernización y desarrollo administrativo en las dependencias, entidades y la Procuraduría General de Justicia, y vigilar que estos sean adecuados y congruentes con los objetivos de la administración estatal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
+
+XXIII. Organizar, coordinar y evaluar los programas integrales de modernización y desarrollo administrativo en las dependencias, entidades y la Fiscalía General del Estado, y vigilar que estos sean adecuados y congruentes con los objetivos de la administración estatal;
 
 XXIV. Planear, dirigir y coordinar programas de modernización y calidad total, tendientes a mejorar la productividad de la Administración Pública Estatal;
 
@@ -1091,15 +1157,33 @@ XVII. Todas las demás que mediante el acuerdo correspondiente le asigne el Gobe
 
 Cuando alguna de las facultades u obligaciones contenidas en el presente artículo sean concurrentes con otra dependencia o entidad, ésta deberá ser ejercida en forma coordinada buscando la mayor eficiencia y eficacia en el uso de los recursos y el máximo beneficio para la población de la Región Laguna.
 
-## TITULO TERCERO. DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE JUNIO DE 2009)</small>
+
+## TITULO TERCERO. DE LA FISCALÍA GENERAL DEL ESTADO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 36.
 
-La Procuraduría General de Justicia del Estado, representa a la institución del Ministerio Público.
+La Fiscalía General del Estado, es un órgano de la Administración Pública Centralizada, con autonomía técnica, operativa y de criterio jurídico, para planear, programar, dirigir, ejecutar, evaluar y supervisar las funciones en materia de seguridad pública y procuración de justicia propias del Estado.
 
-El Ministerio Público estará a cargo del Procurador General de Justicia del Estado, quien será el titular de la Dependencia, el Asesor Jurídico del Ejecutivo del Estado y el Representante Legal del Estado en los asuntos que le encomienden la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, el Gobernador y los demás ordenamientos legales.
+El Ministerio Público estará a cargo del Fiscal General del Estado, quien será el titular de la Dependencia, el Consejero Jurídico del Ejecutivo del Estado y el Representante Legal del Estado en los asuntos que le encomienden la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, el Gobernador y los demás ordenamientos.
 
-La organización y atribuciones del Ministerio Público, de sus órganos auxiliares y de sus áreas de apoyo, se sujetará a las disposiciones constitucionales así como a lo previsto en su Ley Orgánica.
+La misión primordial de la Fiscalía General del Estado será salvaguardar el estado de Derecho en las materias de seguridad pública y procuración de justicia en defensa de la legalidad, de los derechos de la persona y del interés tutelado por la Ley.
+
+La seguridad pública a cargo de la Fiscalía General del Estado, comprende la prevención especial y general de los delitos, la investigación para hacerla efectiva, la sanción de las infracciones administrativas, así como la investigación y la persecución de los delitos, la reinserción y reintegración social del individuo, en los términos de las disposiciones legales aplicables.
+
+En materia de ejecución de sanciones privativas y restrictivas de la libertad, tendrá a su cargo la organización, dirección, vigilancia y control de los Centros de Reinserción Social; así como la tramitación, por acuerdo del Gobernador, de las solicitudes de extradición, amnistía indultos, libertad anticipada y traslado de reos.
+
+Asimismo, supervisará el adecuado cumplimiento de los tratamientos y medidas de adaptación, orientación y protección destinadas a los adolescentes mayores de doce años y menores de dieciocho que cometan conductas consideradas como delitos por las leyes penales, así como los Centros de internación, diagnostico y tratamiento de adolescentes.
+
+En virtud de su autonomía, la Fiscalía General del Estado estará facultada para hacer y expedir los reglamentos de las leyes que la rijan y realizar las gestiones relativas a su publicación oficial para su cumplimiento y observancia general, así como hacer y expedir sus reglamentos interiores, planes, proyectos y programas.
+
+La Ley Orgánica de la Fiscalía General del Estado determinará su organización y funciones.
 
 ## TITULO CUARTO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
 
@@ -1568,3 +1652,15 @@ PRIMERO. Este decreto será vigente al día siguiente de su publicación en el P
 SEGUNDO. Hasta en tanto no se expidan los acuerdos de sectorización de los organismos públicos descentralizados que forman parte de la Administración Pública del Estado, continuarán bajo la sectorización que dispongan los instrumentos jurídicos que los hubiesen creado.
 
 TERCERO. Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
+
+P.O. 19 DE JUNIO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días naturales posteriores al día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las dependencias y entidades que actualmente ejecutan funciones que mediante el presente decreto se transfieren a la Fiscalía General del Estado, contarán con un término de sesenta días naturales para adecuar los manuales de organización y demás procedimientos administrativos necesarios para la transferencia de los recursos materiales y humanos, en cumplimiento a lo previsto en este Decreto.
+
+TERCERO. Las dependencias y entidades que actualmente ejecutan funciones que mediante el presente decreto se transfieren a la Fiscalía General del Estado, contarán con un término de noventa días naturales para que se lleven a cabo las modificaciones necesarias a las disposiciones reglamentarias que correspondan.
+
+CUARTO. El Titular de la Unidad Desconcentrada para la Ejecución de Penas y Reinserción Social, concluirá su cargo al término del período para el cual fue conferido o al finalizar el período de Gobierno dentro del cual hubiere sido otorgado; pero sus efectos se extenderán hasta que el nuevo funcionario designado entre en funciones o hasta que se expida nuevo nombramiento, sin que por tal motivo se entienda prorrogado o ratificado.
+
+QUINTO. Se derogan todas las disposiciones legales que se opongan a lo establecido por este Decreto.
