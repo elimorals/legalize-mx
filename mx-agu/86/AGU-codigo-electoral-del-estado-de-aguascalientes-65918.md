@@ -4,7 +4,7 @@ identifier: "AGU-codigo-electoral-del-estado-de-aguascalientes-65918"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-01-26"
-last_updated: "2009-05-30"
+last_updated: "2009-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2009.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el jueves 26 de enero de 2009.
 
@@ -291,17 +291,13 @@ Para que los partidos políticos nacionales participen en el proceso electoral l
 
 ### CAPÍTULO III. De la Pérdida de Registro de los Partidos Políticos Nacionales y de su Acreditación en el Estado
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 18.
 
-Los partidos políticos nacionales que incurran en las siguientes causas, perderán su acreditación en el Estado, una vez que obren en el Consejo las constancias correspondientes, y en consecuencia pierden sus prerrogativas y derechos estatales.
+Los partidos políticos nacionales que pierdan su registro, perderán su acreditación en el Estado, una vez que obren en el Consejo las constancias correspondientes, y en consecuencia pierden sus prerrogativas y derechos estatales.
 
-I. No obtener en la elección de diputados de mayoría relativa inmediata anterior, por lo menos el 2.5 por ciento de la votación estatal;
-
-II. Perder su registro ante el Instituto Federal Electoral; y
-
-III. No participar en un proceso electoral ordinario.
-
-Para la pérdida de la acreditación, el Consejo emitirá la declaratoria correspondiente, misma que deberá fundarse en los resultados de los cómputos y declaraciones de validez respectivas de los consejos del Instituto, así como en las resoluciones del Tribunal, debiéndola publicar en el Periódico Oficial del Estado.
+El Consejo emitirá el Acuerdo de pérdida de la acreditación estatal, en términos de lo establecido en el presente Código.
 
 ###### ARTÍCULO 19.
 
@@ -311,15 +307,19 @@ La pérdida del registro de un partido político no tiene efectos con relación 
 
 La pérdida de la acreditación estatal, traerá como consecuencia, adicional y directa a la cancelación de los derechos y prerrogativas estatales, el que, la totalidad de los activos que el partido político nacional haya adquirido a través de las prerrogativas estatales que haya recibido durante todo el tiempo que mantuvo su acreditación, pasen a propiedad del Instituto.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 21.
 
-En el caso de la pérdida de registro federal o de la acreditación estatal de un partido político nacional, el Consejo, dispondrá lo necesario para que sean adjudicados al Estado los recursos y bienes remanentes obtenidos con el financiamiento público estatal; para tal efecto se estará a lo siguiente, y a lo que determine en reglas de carácter general el propio Consejo:
+En el caso de la pérdida de la acreditación estatal, de un partido político nacional, el Consejo dispondrá lo necesario para que sean adjudicados al Estado los recursos y bienes remanentes obtenidos con el financiamiento público estatal; para tal efecto se estará a lo siguiente, y a lo que determine en reglas de carácter general el propio Consejo:
 
-I. Una vez declarada por el Consejo General del Instituto Federal Electoral la pérdida de registro, y/o la acreditación estatal por el Consejo, el Organismo de Fiscalización designará de inmediato a un interventor responsable del control directo y vigilancia directa del uso y destino de los recursos y bienes del partido de que se trate;
+I. Una vez declarada por el Consejo General del Instituto Estatal Electoral la pérdida de la acreditación estatal, el Organismo de Fiscalización designará de inmediato a un interventor responsable del control directo y vigilancia directa del uso y destino de los recursos y bienes del partido de que se trate;
 
 II. La designación del interventor será notificada de inmediato, por conducto de su representante ante el Consejo, al partido de que se trate, en ausencia del mismo la notificación se hará en el domicilio social del partido afectado, o en caso extremo por estrados; y
 
 III. A partir de su designación el interventor tendrá las más amplias facultades para actos de administración y dominio sobre el conjunto de bienes y recursos del partido político obtenidos con financiamiento público estatal, por lo que todos los gastos que realice el partido deberán ser autorizados expresamente por el interventor. No podrán enajenarse, gravarse o donarse los bienes muebles e inmuebles adquiridos por el partido político con financiamiento público estatal.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 22.
 
@@ -329,15 +329,13 @@ I. Determinar las obligaciones laborales, fiscales, con proveedores o acreedores
 
 II. Determinar el monto de recursos o valor de los bienes susceptibles de ser utilizados para el cumplimiento de las obligaciones a que se refiere la fracción anterior;
 
-III. Ordenar lo necesario para cubrir las obligaciones que la ley determina en protección y beneficio de los trabajadores del partido político en liquidación; realizado lo anterior, deberán cubrirse las obligaciones fiscales que correspondan; si quedasen recursos disponibles, se atenderán otras obligaciones contraídas y debidamente documentadas con proveedores y acreedores del partido político en liquidación, aplicando en lo conducente las leyes en esta materia;
+III. Ordenar lo necesario para cubrir las obligaciones que la ley determina en protección y. beneficio de los trabajadores del partido político en liquidación; realizado lo anterior, deberán cubrirse las obligaciones fiscales que correspondan; si quedasen recursos disponibles, se atenderán otras obligaciones contraídas y debidamente documentadas con proveedores y acreedores del partido político en liquidación, aplicando en lo conducente las leyes en esta materia;
 
 IV. Formular un informe de lo actuado que contendrá el balance de bienes y recursos remanentes después de establecer las previsiones necesarias a los fines antes indicados; el informe será sometido a la aprobación del Consejo. Una vez aprobado el informe con el balance de liquidación del partido de que se trate, el interventor ordenará lo necesario a fin de cubrir las obligaciones determinadas, en el orden de prelación antes señalado;
 
 V. Si realizado lo anterior quedasen bienes o recursos remanentes, los mismos serán adjudicados íntegramente al Estado; y
 
 VI. En todo tiempo deberá garantizarse al partido político de que se trate el ejercicio de las garantías que la Constitución y las leyes establecen para estos casos. Los acuerdos del Consejo serán impugnables ante el Tribunal.
-
-El Consejo, adicional al acuerdo de pérdida de registro, emitirá acuerdo en el que dispondrá lo necesario para que sean adjudicados, previa auditoria, al Instituto los recursos y bienes obtenidos con el financiamiento público estatal, durante todo el tiempo que recibió financiamiento y prerrogativas.
 
 ### CAPÍTULO IV. De los Derechos de los Partidos Políticos
 
@@ -1271,15 +1269,17 @@ VI. Llevar a cabo la promoción del voto, la educación cívico-electoral, y coa
 
 ### CAPÍTULO III. Del Consejo
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 95.
 
 El Consejo General es el órgano superior de dirección y decisión electoral en el Estado, residirá en la ciudad de Aguascalientes y funcionará de manera permanente.
 
-El Consejo General estará integrado en forma ordinaria por tres Consejeros Electorales, electos por el voto de la mayoría calificada de los integrantes del Congreso del Estado, de los cuales uno será presidente y dos serán vocales, durarán en su encargo tres años y podrán ser reelectos por un nuevo periodo.
+El Consejo General estará integrado por cinco Consejeros Electorales, electos por el voto de la mayoría calificada de los integrantes del Congreso del Estado, de los cuales uno será presidente y cuatro serán vocales, durarán en su encargo tres años y podrán ser reelectos por un nuevo periodo.
 
-El Consejo General, en año electoral, se ampliará en su integración, con cuatro Consejeros Electorales temporales, electos por el voto de la mayoría calificada de los integrantes del Congreso del Estado, quienes desempeñarán el cargo del primero de enero del año de la elección a la fecha en que se declare por concluido el proceso electoral por el propio Consejo General. Los Consejeros electorales temporales serán electos para dos procesos electorales.
+El Consejero Presidente será electo por más de la mitad de los miembros del Consejo. Sólo podrá ser removido de su cargo de Presidente por el voto de más de la mitad de los Consejeros que integran el Consejo, por incumplir con las obligaciones que le atribuye este Código, en este último supuesto, el Consejero Presidente se abstendrá de votar.
 
-Por cada consejero permanente o temporal se elegirá un suplente. Ante las inasistencias de un Consejero por más de quince y menos de treinta días se deberá llamar en forma temporal a las labores, al respectivo suplente; ante la inasistencia de un consejero por más de treinta días se deberá llamar al respectivo suplente en forma definitiva.
+Por cada Consejero se elegirá un suplente. Ante las inasistencias de un Consejero por más de quince y menos de treinta días se deberá llamar en forma temporal a las labores, al respectivo suplente; ante la inasistencia de un Consejero por más de treinta días se deberá llamar al respectivo suplente en forma definitiva.
 
 Serán integrantes del Consejo General, con voz pero sin voto:
 
@@ -1287,7 +1287,7 @@ I. Un Secretario Técnico;
 
 II. Un representante de cada partido político debidamente acreditado ante el Consejo; y
 
-III. Un representante del Vocal Estatal del Registro Federal de Electores.
+III. Un representante del Vocal del Registro Federal de Electores en el Estado.
 
 El cargo de Consejero Electoral no será compatible con cargo de servidor público alguno, así como con cualquier cargo por el que se reciba pago con recursos públicos. Los consejeros electorales recibirán una retribución económica de acuerdo con la disponibilidad presupuestal, la cual no podrá ser mayor a veintidós salarios mínimos diarios vigentes en el Estado.
 
@@ -3713,15 +3713,17 @@ II. La señalada en la fracción II del artículo 289, con multa de hasta cinco 
 
 III. Con la pérdida del derecho del precandidato infractor a ser registrado como candidato, o en su caso, si ya está hecho el registro, con la cancelación del mismo. Cuando las infracciones cometidas por aspirantes o precandidatos a cargos de elección popular, sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político de que se trate, sin embargo cuando el precandidato resulte electo en el proceso interno, el partido político no podrá registrarlo como su candidato.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 299.
 
 Las infracciones cometidas por los ciudadanos, los dirigentes y afiliados a los partidos políticos, o de cualquier persona física o moral se sancionarán:
 
 I. Con amonestación pública;
 
-II. Respecto de los ciudadanos, o de los dirigentes y afiliados a los partidos políticos: con multa de hasta quinientos días de salario mínimo general vigente en el Estado; en el caso de aportaciones que violen lo dispuesto en este Código, o tratándose de la compra de tiempo en radio y televisión para la difusión de propaganda política o electoral, con el doble del precio comercial de dicho tiempo; y
+II. Respecto de los ciudadanos, o de los dirigentes y afiliados a los partidos políticos: con multa de cien a quinientos días de salario mínimo general vigente en el Estado; en el caso de aportaciones que violen lo dispuesto en este Código; y
 
-III. Respecto de las personas morales por las conductas señaladas en la fracción anterior: con multa de hasta diez mil días de salario mínimo general vigente en el Estado, en el caso de aportaciones que violen lo dispuesto en este Código, o tratándose de la compra de tiempo en radio y televisión para la difusión de propaganda política o electoral, con el doscientos por ciento del precio comercial de dicho tiempo.
+III. Respecto de las personas morales por las conductas señaladas en la fracción anterior: con multa de quinientos a diez mil días de salario mínimo general vigente en el Estado, en el caso de aportaciones que violen lo dispuesto en este Código.
 
 ###### ARTÍCULO 300.
 
@@ -5260,6 +5262,12 @@ Lic. Juan Ángel José Pérez Talamantes.
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL CODIGO.</small>
 
 P.O. 30 DE MAYO DE 2009.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 19 DE JUNIO DE 2009.
 
 ###### ARTICULO ÚNICO.
 
