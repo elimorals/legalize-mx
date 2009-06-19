@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2009-05-25"
+last_updated: "2009-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -231,31 +231,33 @@ Los Diputados por mayoría relativa y de representación proporcional, tendrán 
 
 Las obligaciones de los Diputados consisten en el ejercicio de las funciones, legislativa, de representación popular, fiscalización, nombramiento, presupuestal, de control, jurisdiccional, sanción y demás que establezcan las leyes; y desempeñarán sus funciones en el Pleno del Congreso del Estado, Diputación Permanente, Gran Jurado, Comisiones y Comités del Poder Legislativo.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
+
 B. El Sistema Estatal Electoral se regirá por los principios rectores de certeza, legalidad, independencia, imparcialidad, definitividad y objetividad.
 
 La organización de las elecciones en el Estado, así como del fomento del modelo de vida democrático, de participación y representación es una función pública que se ejerce a través de un organismo público autónomo denominado, Instituto Estatal Electoral.
 
-El Instituto Estatal Electoral, como ente de interés público, será autoridad en la materia, actuará con independencia en sus decisiones, funcionamiento y profesionalismo en su desempeño; estará dotado de autonomía, personalidad jurídica y patrimonio propio, tendrá como autoridad máxima de gobierno un Consejo General.
+El Instituto Estatal Electoral, como ente de interés público, será autoridad en la materia, actuará con independencia en sus decisiones, funcionamiento y profesionalismo en su desempeño; estará dotado de autonomía, personalidad jurídica y patrimonio propios, tendrá como autoridad máxima de gobierno un Consejo General.
 
-El Consejo General será electo por el voto de la mayoría calificada de los integrantes del Congreso del Estado y estará integrado en forma ordinaria por tres Consejeros Electorales, de los cuales uno será presidente y dos vocales, durarán en su encargo tres años y podrán ser reelectos hasta por un nuevo período.
+El Consejo General será electo por el voto de la mayoría calificada de los integrantes del Congreso del Estado y estará integrado por cinco Consejeros Electorales, de los cuales uno será presidente y cuatro vocales, durarán en su encargo tres años y podrán ser reelectos hasta por un nuevo período.
 
-El Consejo General, en año electoral, se ampliará en su integración con cuatro Consejeros Electorales temporales, electos por el voto de la mayoría calificada de los integrantes del Congreso del Estado, quienes desempeñarán el cargo del primero de enero del año de la elección a la fecha en que se declare por concluido el proceso electoral por el propio Consejo General. Los Consejeros Electorales temporales, serán electos para ejercer el cargo durante dos procesos electorales.
-
-Por cada consejero permanente o temporal, se elegirá un suplente.
+Por cada Consejero se elegirá un suplente.
 
 El cargo de Consejero Electoral, no será compatible con cargo de servidor público alguno, así como con cualquier cargo por el que se reciba pago o retribución alguna con recursos públicos.
 
-La Ley de la materia determinará la organización del Instituto, sus facultades y estructura orgánica, debiendo contar el Instituto con un órgano auxiliar para la fiscalización de los recursos de los partidos políticos y asociaciones políticas estatales, una Contraloría especializada en la fiscalización de los recursos y programas del Instituto, ambos dotados con autonomía técnica y de gestión, así como la estructura del servicio profesional electoral necesaria para el cumplimento de sus labores. El titular de la Contraloría, será electo mediante el voto de la mayoría calificada de los integrantes del Congreso del Estado.
+La Ley de la materia determinará la organización del Instituto, sus facultades y estructura orgánica, debiendo contar el Instituto con un órgano auxiliar para la fiscalización de los recursos de los partidos políticos y asociaciones políticas estatales; una Contraloría especializada en la fiscalización de los recursos y programas del Instituto, ambos dotados con autonomía técnica y de gestión, así como la estructura del servicio profesional electoral necesaria para el cumplimento de sus labores. El titular de la Contraloría, será electo mediante el voto de la mayoría calificada de los integrantes del Congreso del Estado.
 
 Las elecciones ordinarias deberán celebrase, el primer domingo de julio del año de la elección.
 
-Los partidos políticos nacionales con registro en el Estado, serán entidades de interés público, podrán y serán los únicos facultados para participar en las elecciones estatales, distritales y municipales; estando asimismo facultados para participar en la vida política del Estado, para lo cual tendrán acceso a financiamiento público y apoyos gubernamentales en términos de lo estipulado en la Ley de la materia.
+Los partidos políticos nacionales acreditados en el Estado, serán entidades de interés público, podrán y serán los únicos facultados para participar en las elecciones estatales, distritales y municipales; estando asimismo facultados para participar en la vida política del Estado, para lo cual tendrán acceso a financiamiento público y apoyos gubernamentales en términos de lo estipulado en la Ley de la materia
 
-Los partidos políticos nacionales con registro en el Estado tendrán como fin el promover la participación del pueblo en la vida democrática, en la representación estatal y el acceso al poder público.
+Los partidos políticos nacionales acreditados en el Estado tendrán como fin el promover la participación del pueblo en la vida democrática, en la representación estatal y el acceso al poder público.
 
-La Ley de la materia regulará los derechos, prerrogativas y obligaciones de los partidos políticos nacionales con registro en el Estado, al igual que los respectivos de los ciudadanos y la población en general para la participación en la vida política del Estado y el acceso al poder. Se establecerán en dicha norma los procedimientos, requisitos y normas para el desarrollo de las elecciones ordinarias y extraordinarias estatales y municipales, así como la participación y procedimientos jurisdiccionales y medios de impugnación que darán certeza al Sistema Estatal Electoral y sus procesos.
+La ley de la materia regulará los derechos, prerrogativas y obligaciones de los partidos políticos nacionales acreditados en el Estado, al igual que los respectivos de los ciudadanos y la población en general para la participación en la vida política del Estado y el acceso al poder. Se establecerán en dicha norma los procedimientos, requisitos y normas para el desarrollo de las elecciones ordinarias y extraordinarias estatales y municipales, así como la participación y procedimientos jurisdiccionales y medios de impugnación que darán certeza al Sistema Estatal Electoral y sus procesos.
 
-El Tribunal Estatal Electoral, será un órgano jurisdiccional, temporal, autónomo en su funcionamiento e independiente en sus decisiones. Estará integrado por tres Magistrados, adscritos al Poder Judicial del Estado. En tiempo no electoral será el Pleno del Supremo Tribunal de Justicia del Estado quien conozca y resuelva de los recursos. El Tribunal Estatal Electoral, tendrá entre sus facultades, resolver los medios de impugnación y nulidades que la ley electoral establezca, así como declarar la validez de las elecciones.
+(NOTA: EL 12 DE NOVIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 52/2009 Y SU ACUMULADA 53/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL APARTADO B, PÁRRAFO DÉCIMO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE NOVIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+El Tribunal Estatal Electoral, será un órgano jurisdiccional, TEMPORAL, autónomo en su funcionamiento e independiente en sus decisiones. Estará integrado por tres Magistrados, adscritos al Poder Judicial del Estado. EN TIEMPO NO ELECTORAL SERÁ EL PLENO DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO QUIEN CONOZCA Y RESUELVA DE LOS RECURSOS. El Tribunal Estatal Electoral, tendrá entre sus facultades, resolver los medios de impugnación y nulidades que la ley electoral establezca, así como declarar la validez de las elecciones.
 
 La norma penal del Estado, determinará los delitos en materia electoral, así como las sanciones aplicables.
 
@@ -267,7 +269,7 @@ a) Los partidos políticos se constituirán sólo por ciudadanos sin intervenci�
 
 b) Las autoridades electorales sólo intervendrán en la vida interna de los partidos en términos de lo establecido en el Código Electoral;
 
-c) Establecer las fórmulas y criterios para la asignación de financiamiento y prerrogativas de los partidos políticos, así como los topes y límites del financiamiento que éstos pueden recibir de sus simpatizantes;
+c) Establecer las fórmulas y criterios para la asignación de financiamiento y prerrogativas de los partidos políticos, así como los topes y límites del financiamiento que estos pueden recibir de sus simpatizantes;
 
 d) Fijar criterios y límites para establecer las erogaciones de los partidos políticos en sus precampañas y campañas;
 
@@ -1007,7 +1009,9 @@ Los Magistrados del Supremo Tribunal de Justicia del Estado, los Magistrados del
 
 Los Magistrados del Tribunal de lo Contencioso Administrativo percibirán el haber por retiro que establece la Ley Orgánica del Tribunal de lo Contencioso Administrativo del Estado.
 
-Los Magistrados del Tribunal Local Electoral podrán ser reelectos por varios períodos siempre y cuando no excedan del plazo acumulado de diez años y no podrán ser nombrados para un nuevo período, cuando no sean ratificados o incurran en alguna de las hipótesis establecidas en el párrafo segundo de este Artículo.
+(NOTA: EL 12 DE NOVIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 52/2009 Y SU ACUMULADA 53/2009, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PENÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE NOVIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+LOS MAGISTRADOS DEL TRIBUNAL LOCAL ELECTORAL PODRÁN SER REELECTOS POR VARIOS PERÍODOS SIEMPRE Y CUANDO NO EXCEDAN DEL PLAZO ACUMULADO DE DIEZ AÑOS Y NO PODRÁN SER NOMBRADOS PARA UN NUEVO PERÍODO, CUANDO NO SEAN RATIFICADOS O INCURRAN EN ALGUNA DE LAS HIPÓTESIS ESTABLECIDAS EN EL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO.
 
 Las renuncias de los Magistrados del Supremo Tribunal de Justicia del Estado y del Tribunal Local Electoral, serán sometidas al Consejo de la Judicatura Estatal, y si éste las acepta, las enviará para su aprobación al Congreso del Estado.
 
@@ -1401,7 +1405,7 @@ La Capital del Estado es la ciudad de Aguascalientes, y en ella deben radicar lo
 
 ###### Artículo 84.
 
-Todos los servidores públicos, del Estado y Municipios antes de tomar posesión de sus puestos, protestarán ante quien corresponda, guardar y hacer guardar la Constitución General, la particular del Estado, las leyes emanadas de ambas y desempeñar fielmente sus deberes.
+Todos los servidores públicos, del Estado y Municipios antes de tomar posesión de sus puestos, protestarán ante quien corresponda, guardar y hacer guardar la Constitución General, la particular de Estado, las leyes emanadas de ambas y desempeñar fielmente sus deberes.
 
 > <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1421,7 +1425,7 @@ Los servidores públicos de elección popular que sin causa justificada, o sin l
 
 ###### Artículo 87.
 
-Los servidores públicos que entren a ejercer su encargo después del día señalado por esta Constitución o por las Leyes, como principio del período que les corresponde, sólo durarán en sus funciones el tiempo que les faltare para cumplir dicho período.
+Los servidores público que entren a ejercer su encargo después del día señalado por esta Constitución o por las Leyes, como principio del período que les corresponde, sólo durarán en sus funciones el tiempo que les faltare para cumplir dicho período.
 
 > <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1773,7 +1777,7 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 2 DE JUNIO DE 1985.
 
-DECRETO No. 55, QUE REFORMA EL ARTICULO 52 DE LA CONSTITUCION POLITICA LOCAL.
+DECRETO NÚMERO 55, QUE REFORMA EL ARTÍCULO 52 DE LA CONSTITUCIÓN POLÍTICA LOCAL.
 
 Unico.- El Supremo Tribunal de Justicia, sin perjuicio de lo dispuesto en el Artículo 30, Fracciones I y II de la Constitución Política del Estado, deberá promover dentro del plazo de nueve meses contados a partir de la vigencia del presente Decreto, la reforma de la Ley Orgánica del Poder Judicial en la parte conducente para proveer al exacto cumplimiento del presente Decreto. Mientras transcurre dicho plazo el Supremo Tribunal de Justicia acordará sobre la forma de su funcionamiento.
 
@@ -2182,3 +2186,13 @@ El presente Decreto entrará en vigencia al día siguiente al de su publicación
 ###### ARTÍCULO SEGUNDO.
 
 Intégrese el expediente respectivo y túrnese a todos y cada uno de los Ayuntamientos del Estado, para los efectos de lo dispuesto en el Artículo 94 de la Constitución Política local y Artículo 155 de la Ley Orgánica del Poder Legislativo.
+
+P.O. 19 DE JUNIO DE 2009.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Por única ocasión, los Consejeros Electorales que asuman su cargo el día 14 de marzo de 2010, durarán en el cargo cuatro años, concluyendo su función el día 13 de marzo del año 2014.
