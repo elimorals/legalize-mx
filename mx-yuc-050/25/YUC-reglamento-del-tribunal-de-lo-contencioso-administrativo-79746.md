@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-tribunal-de-lo-contencioso-administrativo-79746"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-04"
-last_updated: "2009-03-04"
+last_updated: "2009-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 REGLAMENTO DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL MUNICIPIO DE MERIDA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 19 DE JUNIO DE 2009.
 
 Reglamento publicado en el Suplemento de la Gaceta Municipal del Estado de Yucatán, el miércoles 4 de marzo de 2009.
 
@@ -605,6 +605,8 @@ Una vez que se haya designado al funcionario suplente como consecuencia de lo es
 
 TRANSITORIOS:
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO PUBLICADO EN LA G.M. DE 19 DE JUNIO DE 2009, SE PRORROGA EL PRIMER TRANSITORIO POR TREINTA DIAS HABILES A PARTIR DEL DIA SIGUIENTE DEL VENCIMIENTO DEL PLAZO.</small>
+
 PRIMERO.- Esta (sic) Reglamento entrará en vigor a los cuarenta y cinco días hábiles siguientes al de su publicación en la Gaceta Municipal.
 
 SEGUNDO.- En un plazo de quince días hábiles siguientes a la publicación del presente reglamento, el Presidente Municipal propondrá ante el Cabildo, la lista de candidatos a ocupar el cargo de Juez de lo Contencioso Administrativo, para su elección y nombramiento.
@@ -624,3 +626,15 @@ Presidente Municipal
 Lic. Jorge Manuel Puga Rubio
 
 Secretario Municipal
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.M. 19 DE JUNIO DE 2009.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO.- El Ayuntamiento de Mérida aprueba la prórroga del primer transitorio del Reglamento del Tribunal de lo Contencioso Administrativo del Municipio de Mérida por treinta días hábiles a partir del día siguiente del vencimiento del plazo previsto en el citado primer transitorio.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor el día de su aprobación.
+
+TERCERO.- Publíquese el presente Acuerdo en la Gaceta Municipal.
