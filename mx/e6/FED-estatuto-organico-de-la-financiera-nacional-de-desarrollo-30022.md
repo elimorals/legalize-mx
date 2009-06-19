@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-30022
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-04-21"
-last_updated: "2009-04-17"
+last_updated: "2009-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30022&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-04-09"
 
 ESTATUTO ORGANICO DE LA FINANCIERA RURAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE JUNIO DE 2009.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 21 de abril de 2003.
 
@@ -581,55 +581,47 @@ VI. Dirigir las actividades de análisis del mercado objetivo de la Financiera R
 
 VII. Dirigir las actividades relativas a la planeación estratégica de la institución.
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2009)</small>
+
+ARTICULO 26 BIS.- Corresponde a la Dirección Ejecutiva de Enlace y Evaluación de Coordinaciones Regionales:
+
+I. Dirigir la evaluación de la operación crediticia de las Coordinaciones Regionales y Agencias;
+
+II. Participar en la planeación, desarrollo y mantenimiento del sistema de información gerencial, que permita generar y administrar la información de la operación crediticia de la Institución;
+
+III. Dirigir y establecer mecanismos que permitan la generación de informes y retroalimentación de resultados operativos de las agencias, con las Coordinaciones Regionales y con las áreas corporativas;
+
+IV. Informar, en el ámbito de su competencia, a las instancias superiores, y órganos de control, de los resultados de la operación crediticia de la Institución;
+
+V. Dirigir y coordinar las funciones inherentes a la evaluación de las Coordinaciones Regionales con relación al cumplimiento del programa crediticio anual;
+
+VI. Participar en la preparación de la información que por Ley y disposiciones normativas debe ser entregada a entidades reguladoras de la Institución;
+
+VII. Promover acciones para la mejora continua e innovación de los programas, productos y procesos de la Financiera Rural;
+
+VIII. Establecer esquemas de coordinación para la planeación, evaluación y seguimiento de la operación de las Coordinaciones Regionales y Agencias de Crédito Rural; y
+
+IX. Las demás que le encomiende el Director General Adjunto de Planeación Estratégica y Análisis Sectorial en el ámbito de su competencia.
+
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 27.
 
-Corresponde a la Dirección Ejecutiva de Coordinación y Evaluación Regional:
+Corresponde a la Dirección Ejecutiva de Análisis Sectorial:
 
-I. Coordinar la evaluación de la operación de las Coordinaciones Regionales y Agencias;
+I. Dirigir las actividades encaminadas al análisis del mercado objetivo de la Financiera Rural, identificando áreas de oportunidad que permitan a la Institución mantener una participación activa en el desarrollo del sector rural;
 
-II. Coadyuvar en el desarrollo y mantenimiento del sistema de información gerencial, que permita generar y administrar la información de la operación crediticia de la Institución;
+II. Dirigir el análisis de las tendencias nacionales e internacionales de los mercados agropecuarios, forestales, pesqueros y todos los demás sectores vinculados al medio rural a fin de contribuir en la identificación de nuevas oportunidades, así como al mejoramiento de los programas y productos de crédito y los programas de apoyo de la Institución;
 
-III. Coordinar la preparación de reportes de seguimiento de las Coordinaciones Regionales y de las Agencias, así como establecer un canal único de comunicación para el intercambio de información en el ámbito de su competencia;
+III. Generar y difundir información sectorial de manera oportuna, enriqueciendo la información sectorial disponible en la Institución, particularmente en las áreas encargadas de analizar y autorizar las solicitudes de crédito, y brindando información relevante a los clientes de la Institución principalmente a través de la página web, o bien, a través de cualquier otro medio que se estime pertinente;
 
-IV. Informar, en el ámbito de su competencia, a las instancias superiores, y órganos de control, de los resultados de la operación de los programas de la Institución;
+IV. Dirigir las funciones de análisis y evaluación del impacto de los diferentes instrumentos de política gubernamental enfocada al desarrollo del sector rural;
 
-V. Coadyuvar y dar seguimiento a los avances de las áreas operativas respecto de los programas de trabajo previamente establecidos;
+V. Dirigir las funciones vinculadas con la planeación estratégica de la institución;
 
-VI. Coadyuvar en la preparación de la información que por Ley y disposiciones normativas debe ser entregada a entidades reguladoras de la Institución;
+VI. Dirigir los trabajos de evaluación interna y externa de los programas de apoyo sujetos a reglas de operación que se determinen en el Presupuesto de Egresos de la Federación y dar seguimiento a las recomendaciones que de dicha evaluación emanen, así como a la normatividad que en materia de evaluación de estos programas resulte aplicable; y
 
-VII. Establecer mecanismos de evaluación que permitan detectar variaciones respecto de los resultados de los programas y productos;
-
-VIII. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2008)
-
-IX. (DEROGADA, D.O.F. 15 DE MAYO DE 2008)
-
-X. (DEROGADA, D.O.F. 23 DE ENERO DE 2008)
-
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
-
-XI. Contribuir a la mejora continua e innovación de los programas, productos y procesos de la Financiera Rural;
-
-XII. (DEROGADA, D.O.F. 23 DE ENERO DE 2008)
-
-> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
-
-XIII. Coordinar las actividades de análisis del mercado objetivo de la Financiera Rural y análisis de las tendencias nacionales e internacionales de los mercados vinculados al medio rural;
-
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
-
-XIV. Contribuir en la identificación de nuevas oportunidades y mejoras a la oferta existente de programas y productos de crédito, negocios fiduciarios vigentes y de los programas de apoyo que se determinen en el Presupuesto de Egresos de la Federación en materia de financiamiento rural, mediante el contacto permanente con las Agencias, las Coordinaciones Regionales y las agrupaciones de clientes de la Institución;
-
-XV. Establecer esquemas de coordinación para la planeación, evaluación y seguimiento de la operación de las Coordinaciones Regionales y Agencias de Crédito Rural;
-
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
-
-XVI. Llevar a cabo las tareas relativas a la planeación estratégica de la institución o coordinar su elaboración a través de prestadores de servicios especializados en la materia; y
-
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
-
-XVII. Las demás que le encomiende el Director General Adjunto de Planeación Estratégica y Análisis Sectorial en el ámbito de su competencia.
+VII. Las demás funciones que le encomiende el Director General Adjunto de Planeación Estratégica y Análisis Sectorial en el ámbito de su competencia.
 
 > <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2008)</small>
 
@@ -637,41 +629,63 @@ ARTICULO 27 BIS.- Corresponde a la Subdirección Corporativa de Análisis Sector
 
 I. Realizar el análisis del mercado objetivo de la Financiera Rural, o coordinar su elaboración a través de prestadores de servicios especializados, identificando áreas de oportunidad que permitan a la institución colaborar en el desarrollo del sector rural;
 
-II. Realizar el análisis de las tendencias nacionales e internacionales de los mercados agrícolas, forestales, pesqueros y todos los demás sectores vinculados al medio rural, o coordinar su elaboración a través de prestadores de servicios especializados;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2009)</small>
 
-III. Realizar los trabajos de investigación que le sean encomendados en el ámbito de su competencia, o coordinar su elaboración a través de prestadores de servicios especializados; y
+II. Realizar el análisis de las tendencias nacionales e internacionales de los mercados agropecuarios, forestales, pesqueros y todos los demás sectores vinculados al medio rural, o coordinar su elaboración a través de prestadores de servicios especializados;
 
-> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2009)</small>
 
-IV. Las demás que le encomiende el Director Ejecutivo de Coordinación y Evaluación Regional en el ámbito de su competencia.
+III. Realizar los trabajos de investigación que le sean encomendados en el ámbito de su competencia, o coordinar su elaboración a través de prestadores de servicios especializados;
 
-> <small>(ADICIONADO, D.O.F. 16 DE ABRIL DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2009)</small>
 
-ARTICULO 27 TER.- Corresponde a la Subdirección Corporativa de Coordinación, Evaluación Regional y Planeación Estratégica:
+IV. Contribuir en las tareas relativas a la planeación estratégica de la institución o coadyuvar en la coordinación de la elaboración a través de prestadores de servicios especializados en la materia; y
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2009)</small>
+
+V. Las demás funciones que le encomiende el Director Ejecutivo de Análisis Sectorial en el ámbito de su competencia.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE JUNIO DE 2009)</small>
+
+ARTICULO 27 TER.- Corresponde a la Subdirección Corporativa de Coordinación y Evaluación Regional:
+
+> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2008)</small>
 
 I. Coadyuvar en la coordinación y evaluación de la operación crediticia de las Coordinaciones Regionales y Agencias;
 
+> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2008)</small>
+
 II. Participar en el desarrollo y mantenimiento del sistema de información gerencial, que permita generar y administrar la información de la operación crediticia de la Institución;
+
+> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2008)</small>
 
 III. Preparar los reportes de seguimiento de las Coordinaciones Regionales y de las Agencias;
 
+> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2008)</small>
+
 IV. Analizar los avances de las áreas operativas respecto de los programas de trabajo previamente establecidos;
+
+> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2008)</small>
 
 V. Preparar la información que por Ley y disposiciones normativas debe ser entregada a entidades reguladoras de la Institución;
 
-VI. Coordinar la aplicación de los mecanismos de evaluación que permitan detectar variaciones respecto de los programas y productos;
+VI. (DEROGADA, D.O.F. 19 DE JUNIO DE 2009)
 
 VII. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2008)
 
 VIII. (DEROGADA, D.O.F. 15 DE MAYO DE 2008)
 
-IX. Coadyuvar en la identificación de nuevas oportunidades y mejoras a la oferta existente de programas, productos y, negocios fiduciarios vigentes y de los programas de apoyo;
+IX. (DEROGADA, D.O.F. 19 DE JUNIO DE 2009)
+
+> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2008)</small>
 
 X. Aplicar los esquemas de coordinación para la planeación, evaluación y seguimiento de la operación de las Coordinaciones Regionales y Agencias de Crédito Rural;
 
-XI. Contribuir en las tareas relativas a la planeación estratégica de la institución o coadyuvar en la coordinación de la elaboración a través de prestadores de servicios especializados en la materia; y
+XI. (DEROGADA, D.O.F. 19 DE JUNIO DE 2009)
 
-XII. Las demás que le encomiende el Director Ejecutivo de Coordinación y Evaluación Regional en el ámbito de su competencia.
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2009)</small>
+
+XII. Las demás que le encomiende el Director Ejecutivo de Enlace y Evaluación de Coordinaciones Regionales en el ámbito de su competencia.
 
 ###### ARTICULO 28.
 
@@ -749,7 +763,13 @@ VII. Atraer los asuntos en materia crediticia, que a consideración del Director
 
 > <small>(ADICIONADA, D.O.F. 15 DE MAYO DE 2008)</small>
 
-VIII. Establecer mecanismos para el seguimiento de crédito a productores e intermediarios financieros rurales.
+VIII. Establecer mecanismos para el seguimiento de crédito a productores e intermediarios financieros rurales;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2009)</small>
+
+IX. Emitir los lineamientos, políticas y procedimientos para la cobranza administrativa y extrajudicial de la cartera crediticia de la Financiera.
+
+Para tal efecto, se constituyen las Gerencias Regionales de Supervisión y Cobranza que dependerán administrativamente de la Dirección General Adjunta de Crédito.
 
 ###### ARTICULO 32.
 
@@ -825,6 +845,26 @@ VII. Coordinar y proponer programas de capacitación en materia de normatividad 
 
 VIII. Llevar a cabo el seguimiento de crédito a productores e intermediarios financieros rurales.
 
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2009)</small>
+
+ARTICULO 36 BIS.- Corresponde a la Subdirección Corporativa de Supervisión y Cobranza:
+
+I. Coordinar y supervisar las acciones de supervisión y seguimiento de los financiamientos que realicen las Coordinaciones Regionales;
+
+II. Coordinar y supervisar el desempeño de la recuperación y cobranza que efectúen las Coordinaciones Regionales, y en su caso, realizar en forma directa las acciones de cobranza que considere pertinentes;
+
+III. Diseñar y proponer mecanismos de supervisión, seguimiento y vigilancia que permitan identificar, evaluar y corregir el desempeño de las acciones de supervisión y cobranza preventiva, administrativa y extrajudicial que realicen las Coordinaciones Regionales;
+
+IV. Coordinar y establecer estrategias con el área jurídica, para el seguimiento y atención de la cartera vencida que requiera cobranza extrajudicial y para traspaso en su momento a cobranza judicial;
+
+V. Evaluar la calidad de los reportes de seguimiento al acreditado, durante la vigencia del crédito;
+
+VI. Promover la correcta administración e integración de los expedientes de crédito;
+
+VII. Coordinar el seguimiento de crédito a productores e intermediarios financieros rurales y de otras figuras jurídicas, y
+
+VIII. Las demás que le encomiende el Director General Adjunto de Crédito en el ámbito de su competencia.
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 37.
@@ -893,9 +933,7 @@ XV. Establecer, dirigir y supervisar la función de promoción a través de téc
 
 XVI. Dirigir la instrumentación de productos y programas de atención a los segmentos del mercado objetivo de la Institución;
 
-> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
-
-XVII. Dirigir, establecer y coordinar los mecanismos para dar seguimiento a la cobranza administrativa y extrajudicial de la cartera crediticia.
+XVII. (DEROGADA, D.O.F. 19 DE JUNIO DE 2009)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ABRIL DE 2008)</small>
 
@@ -1395,39 +1433,75 @@ XIII. Llevar a cabo las demás actividades dentro del área de su competencia, q
 
 ### CAPITULO V. DE LAS COORDINACIONES REGIONALES
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 51.
 
-Corresponde a las coordinaciones regionales:
+Corresponde a las Coordinaciones Regionales:
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 I. Coordinar la promoción y ejecución de los productos y programas de crédito y promoción con apego a los lineamientos establecidos, a fin de lograr las metas de negocios y los objetivos de atención a usuarios en apoyo a las decisiones de la Dirección General y direcciones generales adjuntas;
 
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+
 II. Coordinar las acciones y resultados de las agencias de Crédito Rural en los aspectos de portafolio de negocios, calidad de cartera, expedientes, promoción de negocios y recuperación de cartera;
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 III. Coordinar los diferentes programas con los gobiernos estatales y municipales;
 
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+
 IV. Representar a la Financiera en las comisiones que se le asignen;
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 V. Proponer al Director General la apertura, reubicación y clausura de agencias y módulos en la región;
 
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+
 VI. Apoyar las gestiones específicas que realicen las agencias y módulos en el ámbito de su competencia;
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 VII. Administrar los recursos humanos que tengan asignados, así como disponer que las gerencias a su cargo se ubiquen en la sede de la coordinación regional o de manera indistinta, en los estados que correspondan a su circunscripción;
 
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+
 VIII. Administrar las estructuras orgánicas y ocupacionales, así como los recursos materiales y servicios generales de las instancias de su adscripción regional;
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 IX. Coordinar e integrar los informes que le sean requeridos;
 
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+
 X. Representar legalmente a la Financiera en el ámbito de su competencia;
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 XI. Determinar el domicilio de las propias coordinaciones regionales, agencias y módulos en el ámbito de sus respectivas competencias;
 
-XII. Coordinar la vigilancia, evaluación y control necesario para asegurar la adecuada operación con apego a la normatividad vigente, y
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
-XIII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomienden el Director General o el Consejo.
+XII. Coordinar la vigilancia, evaluación y control necesario para asegurar la adecuada operación con apego a la normatividad vigente, y (sic)
+
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2009)</small>
+
+XIII. Coordinar las actividades para dar seguimiento a la cobranza administrativa y extrajudicial de la cartera crediticia.
+
+Para el ejercicio de dichas atribuciones, contarán con las Gerencias Regionales de Supervisión y Cobranza las cuales dependerán orgánicamente de éstas;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2009)</small>
+
+XIV. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomienden el Director General o el Consejo.
+
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 Se adscribirán a las coordinaciones regionales, gerencias, agencias estatales de crédito rural, agencias de crédito rural y módulos, así como la estructura administrativa de base y de confianza que les sea asignada.
+
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 Para el ejercicio de las actividades enumeradas en el presente artículo, las coordinaciones regionales se apoyarán en la estructura aprobada por el Consejo.
 
@@ -1649,7 +1723,9 @@ La Financiera contará con un comisario propietario y con un suplente, designado
 
 La Financiera contará con un Organo Interno de Control, cuyo titular será designado en términos del artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal, y en el ejercicio de sus facultades se auxiliará por los titulares de las áreas de auditoría, quejas y responsabilidades designadas en los mismos términos.
 
-Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en los artículos 63 y 64 del Reglamento Interior de la Secretaría de la Función Pública, la Ley Orgánica de la Administración Pública Federal, la Ley de Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y los demás ordenamientos legales y administrativos aplicables.
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2009)</small>
+
+Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en el Reglamento Interior de la Secretaría de la Función Pública, la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y los demás ordenamientos legales y administrativos aplicables.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -1779,11 +1855,13 @@ El Comité de Crédito estará integrado de la siguiente forma:
 
 I. Presidente: El Director General Adjunto de Crédito;
 
-> <small>(REFORMADA, D.O.F. 17 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2009)</small>
 
-II. Presidente Suplente y Vocal: El Director General Adjunto de Planeación Estratégica y Análisis Sectorial;
+II. Secretario: El Subdirector Corporativo de Análisis de Crédito;
 
-III. Secretario: El Subdirector Corporativo de Análisis de Crédito;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2009)</small>
+
+III. El Director General Adjunto de Planeación Estratégica y Análisis Sectorial;
 
 > <small>(REFORMADA, D.O.F. 17 DE SEPTIEMBRE DE 2008)</small>
 
@@ -1818,6 +1896,10 @@ XII. El Titular de la Contraloría Interna, en calidad de asesor.
 Los integrantes previstos en los incisos I a VII acudirán con derecho a voz y voto. En el caso de los integrantes de los incisos VIII a XII acudirán sólo con derecho a voz. En los casos en que los titulares integrantes del Comité no puedan asistir a la sesión, nombrarán a un suplente con el nivel jerárquico inmediato inferior al de ellos.
 
 Para casos específicos podrán invitarse a expertos externos en calidad de asesores.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2009)</small>
+
+El suplente del presidente del Comité será designado conforme a la mecánica establecida en las Reglas de Operación del Comité de Crédito.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -1909,7 +1991,9 @@ Los directores generales adjuntos serán suplidos en sus ausencias por los direc
 
 Los coordinadores regionales serán suplidos por los gerentes regionales en el ámbito de sus respectivas competencias.
 
-Las ausencias del Titular del Organo Interno de Control, así como de los titulares de las áreas de responsabilidades, auditoría y quejas, serán suplidas conforme a lo previsto por el artículo 74 del Reglamento Interior de la Secretaría de la Función Pública.
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2009)</small>
+
+Las ausencias del Titular del Organo Interno de Control, así como de los titulares de las áreas de responsabilidades, auditoría y quejas, serán suplidas conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -1976,3 +2060,7 @@ UNICO.- La presente reforma al Estatuto y las modificaciones que en ella se comp
 D.O.F. 17 DE ABRIL DE 2009.
 
 UNICO.- La presente reforma al Estatuto deberá publicarse en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE JUNIO DE 2009.
+
+UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
