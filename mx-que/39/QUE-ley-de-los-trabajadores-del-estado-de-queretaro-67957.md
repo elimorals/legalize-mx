@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-trabajadores-del-estado-de-queretaro-67957"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2009-03-20"
+last_updated: "2009-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # LEY DE LOS TRABAJADORES DEL ESTADO DE QUERETARO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE JUNIO DE 2009 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE JUNIO DE 2009.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de marzo de 2009.
 
@@ -297,11 +297,11 @@ Los trabajadores tendrán derecho a un aguinaldo anual de por lo menos treinta d
 
 Los que no hayan cumplido el año de servicio, tendrán derecho a que se les pague en proporción al tiempo trabajado.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE JUNIO DE 2009 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 19 DE JUNIO DE 2012)</small>
 
 ###### Artículo 44.
 
-Los trabajadores tendrán derecho al pago de quinquenios, consistente en una cantidad mensual por cada cinco años de antigüedad. El momento se fijará en los Convenios anuales.
+Los trabajadores tendrán derecho al pago de quinquenios, consistente en una cantidad mensual por cada cinco años de antigüedad. El monto se fijará en los Convenios anuales.
 
 ###### Artículo 45.
 
