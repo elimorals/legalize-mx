@@ -4,7 +4,7 @@ identifier: "COA-ley-de-seguridad-publica-del-estado-de-coahuila-de-zaragoza-474
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-25"
-last_updated: "2009-05-12"
+last_updated: "2009-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47452&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COA"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DE LA LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 12 DE MAYO DE 2009, SE DEROGAN LAS DISPOSICIONES QUE SEAN CONTRARIAS A LAS NORMAS ESTABLECIDAS EN EL NUEVO ORDENAMIENTO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 19 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2005.
 
@@ -1648,3 +1648,11 @@ OCTAVO. El Reglamento Interior de la Fiscalía General del Estado se expedirá e
 NOVENO. Todas las disposiciones contenidas en esta Ley que se relacionen con el nuevo sistema penal acusatorio, tendrán aplicación una vez que éste se implemente.
 
 DÉCIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE JUNIO DE 2009.
+
+PRIM ERO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley de Seguridad Pública del Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado el viernes veinticinco de noviembre del año dos mil cinco.
+
+TERCERO. Se derogan las disposiciones de las leyes y reglamentos que sean contrarias a las normas establecidas en la presente Ley.
