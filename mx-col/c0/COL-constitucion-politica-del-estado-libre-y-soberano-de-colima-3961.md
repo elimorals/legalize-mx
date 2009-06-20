@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2009-03-21"
+last_updated: "2009-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2009.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -291,9 +291,9 @@ I.- Del orden federal, las que determine la Constitución General de la Repúbli
 
 II.- Reformar esta Constitución previos los requisitos que ella misma establece; legislar sobre todos los ramos de la administración o gobierno interiores que sean de la competencia del Estado, conforme a la Constitución Federal; así como también reformar, abrogar y derogar las leyes que expidiere;
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2009)</small>
 
-III.- Aprobar anualmente, a más tardar el 30 de noviembre, y en su caso, hasta el 15 de diciembre de cada seis años para el caso del cambio de gobierno del ejecutivo del Estado, la Ley de Ingresos y Presupuesto de Egresos del Estado, así como a más tardar el 30 de noviembre, y en su caso, hasta el 15 de diciembre de cada tres años para el caso del cambio de gobierno municipal, las leyes de ingresos de los municipios del año siguiente y decretar, en todo tiempo, las contribuciones que basten a cubrir los egresos de los Gobiernos Estatal y Municipales. Si en la fecha mencionada no hubieren sido aprobados los ordenamientos referidos, quedarán en vigor sin modificaciones en forma provisional los del año en curso, hasta en tanto sean aprobados los nuevos ordenamientos;
+III.- Aprobar anualmente, a más tardar el 30 de noviembre, y en su caso, hasta el 15 de diciembre de cada seis años para el caso del cambio de gobierno del ejecutivo del Estado, la Ley de Ingresos y Presupuesto de Egresos del Estado, así como a más tardar el 30 de noviembre, y en su caso, hasta el 15 de diciembre de cada tres años para el caso del cambio de gobierno municipal, las Leyes de Ingresos de los municipios del año siguiente y decretar, en todo tiempo, las contribuciones que basten a cubrir los egresos de los Gobiernos Estatal y Municipales. Si en la fecha mencionada no hubieren sido aprobados los ordenamientos referidos, quedarán en vigor sin modificaciones en forma provisional los del año en curso, hasta en tanto sean aprobados los nuevos ordenamientos. Asimismo, podrá autorizar en dicho Presupuesto las erogaciones plurianuales para aquellos proyectos de inversión en infraestructura que se determinen conforme a lo dispuesto en la Ley; las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos;
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
@@ -315,19 +315,33 @@ IX.- Expedir leyes electorales conforme a la presente Constitución, así como l
 
 X.- Expedir leyes para preservar y restaurar el equilibrio ecológico y proteger el ambiente, que establezcan la concurrencia de los gobiernos estatal y municipales, en el ámbito de sus respectivas competencias, conforme a la Constitución Política de los Estados Unidos Mexicanos y la ley general reglamentaria correspondiente;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2009)</small>
 
-XI.- Revisar y fiscalizar las cuentas públicas del ejercicio fiscal que le presenten el Gobierno del Estado, los ayuntamientos, organismos e instituciones descentralizados, estatales y municipales, empresas de participación estatal, organismos públicos autónomos y demás entidades, personas físicas y morales que administren recursos públicos, debiendo dictaminar semestralmente el resultado de la revisión de las cuentas públicas del Gobierno del Estado y Ayuntamientos, a más tardar el 15 de noviembre el correspondiente al primer semestre de cada año y el 15 de mayo el que corresponda al segundo semestre.
+XI.- Revisar y fiscalizar la cuenta pública del ejercicio fiscal que le presenten los Poderes del Estado, los Ayuntamientos, organismos e instituciones descentralizados, estatales y municipales, empresas de participación estatal, organismos públicos autónomos, fideicomisos pertenecientes a la Administración Pública Descentralizada del Gobierno del Estado y Ayuntamientos; y demás entidades, personas físicas y morales que administren, custodien y ejerzan recursos públicos.
 
-Para el caso de los organismos descentralizados, paraestatal y paramunicipales que presten servicios de agua potable, drenaje, alcantarillado y saneamiento, presentarán a la legislatura local el último de febrero, el informe de su cuenta pública del año inmediato anterior aprobada por su Consejo General, debiendo calificarse y dictaminarse anualmente por el Congreso a más tardar el 30 de septiembre del año de su presentación.
+La evaluación, control y fiscalización de las cuentas públicas la realizará el Congreso a través del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, en los términos y facultades establecidas en el Título X, Capítulo II de esta Constitución y en su Ley reglamentaria. Para tal efecto, los Poderes Legislativo y Judicial, los Ayuntamientos y los organismos descentralizados, paraestatal y paramunicipales que presten servicios de agua potable, drenaje, alcantarillado y saneamiento, presentarán al Congreso del Estado para su revisión y fiscalización, el último día de febrero, la cuenta pública del año inmediato anterior debidamente aprobada por sus respectivos órganos de gobierno, sin menoscabo de los informes que al respecto se establezcan en la Ley. El Poder Ejecutivo presentará la cuenta pública a que se refiere este párrafo, a más tardar el 30 de abril.
 
-El Congreso deberá expedir el decreto en el que se consigne la conclusión del proceso de revisión y fiscalización de los resultados de la cuenta pública correspondiente, en el que se determine si hubo o no irregularidades o faltas de carácter administrativo, así como de las propuestas de sanción a las que pueden estar sujetos quienes hayan incurrido en responsabilidad alguna.
+El Congreso del Estado, deberá expedir el decreto en el que se consigne la conclusión del proceso de revisión y fiscalización de los resultados de las cuentas públicas a más tardar el 30 de noviembre del año de su presentación, en base al contenido del informe de resultados que remita el Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, sin perjuicio de que el trámite de las observaciones, recomendaciones y acciones promovidas continúen su curso legal.
 
-La revisión de la cuenta pública tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por el presupuesto, así como el cumplimiento de los objetivos contenidos en los programas. Para la revisión de las cuentas públicas, el Congreso se apoyará en la Contaduría Mayor de Hacienda.
+La revisión de la cuenta pública tendrá por objeto conocer los resultados de la gestión financiera; verificar que los ingresos deriven de la aplicación estricta de las Leyes de Ingresos y demás leyes y reglamentos en materia fiscal y administrativa; comprobar si el egreso se ajustó a los criterios señalados por el presupuesto, así como el cumplimiento de los objetivos contenidos en los programas; comprobar que la obra pública se haya presupuestado, adjudicado, contratado y ejecutado de conformidad a las leyes de la materia. La revisión no sólo comprenderá la conformidad de las partidas de ingresos y egresos, sino que se extenderá a una revisión legal, económica, financiera y contable del ingreso y gasto público, verificará la exactitud y justificación de las cantidades erogadas, y que los cobros y pagos efectuados se sujetaron a los precios y tarifas autorizadas o de mercado.
 
-Si de la revisión que el Congreso realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la ley;
+Si de la revisión que el Congreso realice a través del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, y en general, existan irregularidades en el manejo, custodia y aplicación de los recursos públicos, se determinarán las responsabilidades de acuerdo con la ley. Las responsabilidades administrativas, pecuniarias e indemnizaciones a los servidores públicos derivadas del proceso de fiscalización, se tramitarán, resolverán y ejecutarán por el Congreso del Estado, a excepción de las multas y sanciones pecuniarias e indemnizaciones inferiores o iguales a mil unidades de salario mínimo general vigente, las cuales serán determinadas por el Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado en los términos de su Ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, dicho órgano sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, con el objeto de salvaguardar la autonomía de las entidades fiscalizadas;
 
-XI BIS.- (DEROGADA, P.O. 19 DE JUNIO DE 2004)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JUNIO DE 2009)</small>
+
+XI BIS.- El Congreso del Estado emitirá la convocatoria para elegir al Auditor Superior del Estado y lo designará con el voto de las dos terceras partes de los diputados presentes en los términos que determine la Ley de la materia. Durará en el cargo un período de siete años y podrá ser reelecto por un período más. Durante el ejercicio de su cargo únicamente podrá ser removido por las causas graves que la Ley señale y con el voto de las dos terceras partes de los diputados presentes.
+
+El Auditor Superior de Fiscalización, además de los requisitos previstos en la fracción I, I0049 del artículo 69 de esta Constitución, deberá de reunir los siguientes:
+
+I. Contar el día de su designación, con antigüedad mínima de 10 años, con titulo profesional de contador público, licenciado en derecho o abogado, licenciado en economía, licenciado en administración o cualquier otro título profesional relacionado con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello;
+
+II. Contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades;
+
+III. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal; y
+
+IV. No haber tenido cargo de Secretario o su equivalente en el Poder Ejecutivo del Estado, Procurador de Justicia, Contralor del Estado o de Municipio, Presidente Municipal, Senador, Diputado Federal o local, Síndico o Regidor de algún Ayuntamiento o dirigente de Partido Político durante los cuatro años previos al de su designación.
+
+El titular de dicho órgano seguirá en funciones hasta en tanto se designa al que le sustituya.
 
 XII.- Crear y suprimir empleos públicos en el Estado según lo demanden las necesidades del servicio y señalar, aumentar o disminuir las respectivas dotaciones teniendo en cuenta las circunstancias del erario;
 
@@ -383,11 +397,13 @@ XXVIII.- Aprobar, en los términos de las leyes respectivas, el nombramiento del
 
 XXIX.- Aprobar los nombramientos de los Magistrados del Tribunal de lo Contencioso Administrativo, expedidos por el Ejecutivo en los términos de esta Constitución;
 
-XXX.- Nombrar y remover libremente a los empleados de la Oficialía Mayor del Congreso y de la Contaduría Mayor de Hacienda;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+XXX.- Nombrar y remover libremente a los empleados de la Oficialía Mayor del Congreso;
 
-XXXI.- Recibir las protestas de los servidores públicos a que se contraen las fracciones XXI, XXV, XXVI, XXVIII, XXIX y XXX de este artículo;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2009)</small>
+
+XXXI.- Recibir las protestas de los servidores públicos a que se contraen las fracciones XI Bis, XXI, XXV, XXVI, XXVIII, XXIX y XXX de este artículo, en los términos del 134 de esta Constitución;
 
 XXXII.- Fijar y notificar la división política, administrativa y judicial del Estado;
 
@@ -403,7 +419,9 @@ XXXVII.- Conceder amnistía por los delitos políticos que correspondan a la jur
 
 XXXVIII.- Presentar bases, conforme a las cuales el Ejecutivo puede celebrar empréstitos sobre el crédito del Estado, con la limitación que establece la fracción VIII del Artículo 117 de la Constitución Federal y aprobar los contratos respectivos, así como reconocer y mandar pagar las deudas que contraiga el Estado;
 
-XXXIX.- Recibir de la Contaduría Mayor de Hacienda las comprobaciones del gasto público y, en su caso, ordenar practicar las auditorías que estime necesarias a los órganos de gobierno del Estado, de los Ayuntamientos y de los organismos descentralizados estatales o municipales;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2009)</small>
+
+XXXIX.- Recibir del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, antes del día 30 de septiembre del año de su presentación, el informe de los resultados de la cuenta pública, el cual contendrá: las auditorías practicadas; los dictámenes de su revisión; el apartado correspondiente al cumplimiento de objetivos; y el relativo a las observaciones que incluyan las justificaciones y aclaraciones que las entidades fiscalizadas, en su caso, hayan presentado. Y, en su caso, requerir la realización de las auditorías que estime necesarias a los órganos de Gobierno del Estado, de los Ayuntamientos, de los organismos descentralizados estatales y municipales y, en general, a cualquier ente que reciba o maneje recursos públicos;
 
 XL.- Conceder pensiones y jubilaciones de acuerdo con el Ejecutivo; otorgar distinciones u honores por servicios distinguidos prestados al Estado, bien se trate personalmente de los merecedores, de sus viudas, de sus hijos o de sus padres;
 
@@ -719,9 +737,9 @@ XVII.- Vigilar la recaudación de los impuestos y contribuciones, y disponer su 
 
 XVIII.- Cuidar de que el manejo de los fondos públicos se asegure conforme a las leyes y de que los empleados rindan cuenta en la forma y tiempo prescritos por las mismas.
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2009)</small>
 
-XVIII Bis.- Presentar al Congreso del Estado para su revisión y fiscalización semestralmente el resultado de la cuenta pública del gobierno del Estado, dentro de los 45 días naturales siguientes a la conclusión del semestre correspondiente. Dichos resultados se elaborarán por los meses comprendidos de enero a junio y de julio a diciembre de cada año, debiendo integrar en este último periodo las cifras consolidadas anuales de los resultados de la gestión.
+XVIII Bis.- Presentar al Congreso del Estado para su revisión y fiscalización el resultado de la cuenta pública anual del Gobierno del Estado a más tardar el 30 de abril del ejercicio siguiente. Dichos resultados se elaborarán por los meses comprendidos de enero a diciembre de cada año, debiendo integrar las cifras consolidadas anuales de los resultados de la gestión.
 
 XIX.- Dirigir y fomentar por todos los medios lícitos posibles, la Educación Pública, de acuerdo con esta Constitución y la Federal: y procurar el adelanto y mejoramiento social en todos los órdenes.
 
@@ -1507,13 +1525,13 @@ Las renuncias y licencias de los munícipes, se admitirán y concederán por los
 
 Los Ayuntamientos, estarán obligados a remitir anualmente al Congreso del Estado para su aprobación sus proyectos de leyes de ingresos, a más tardar el 31 de octubre y hasta el 15 de noviembre de cada tres años, cuando con motivo del cambio de gobierno municipal.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2009)</small>
 
 ###### Artículo 95.
 
-Aprobado por el Cabildo el dictamen de revisión de los resultados semestrales de la cuenta pública municipal correspondiente al ejercicio fiscal, el Ayuntamiento los presentará al Congreso del Estado dentro de los 30 días naturales siguientes a la conclusión de cada semestre, para los efectos del artículo 33 fracción XI de esta Constitución.
+Los Ayuntamientos presentarán al Congreso del Estado su cuenta pública anual, conjuntamente con el dictamen de revisión de los resultados correspondientes aprobados por el Cabildo, a más tardar el último día de febrero del ejercicio siguiente, para los efectos del artículo 33, fracción XI, de esta Constitución.
 
-Dichos resultados se elaborarán por los meses comprendidos de enero a junio y de julio a diciembre de cada año, debiendo integrar en este último periodo las cifras consolidadas anuales de los resultados de la gestión. La aprobación del dictamen de revisión por el Cabildo no impide que, en su caso, el Congreso del Estado finque responsabilidades a los servidores públicos que hayan incurrido en ellas.
+La aprobación del dictamen de revisión por el Cabildo no impide que, en su caso, el Congreso del Estado finque responsabilidades a los servidores públicos que hayan incurrido en ellas.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE AGOSTO DE 2008)</small>
 
@@ -1615,101 +1633,135 @@ Las localidades de más de 2 mil habitantes tendrán la categoría de pueblo y l
 
 > <small>(ADICIONADO, P.O. 26 DE MARZO DE 1994)</small>
 
-### CAPITULO UNICO.
+### CAPITULO I.
 
 De la Hacienda Pública.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2009)</small>
 
 ###### Artículo 107.
 
 La Hacienda Pública tiene por objeto atender a los gastos ordinarios y extraordinarios del Estado.
 
+Los recursos económicos de que dispongan el Estado, los Ayuntamientos y los organismos públicos estatales y municipales, así como las entidades privadas que reciban fondos públicos, se administrarán con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que están destinados.
+
+El ejercicio de dichos recursos serán objeto de evaluación, control y fiscalización por la instancia técnica que establezca esta Constitución con el objeto de propiciar que los recursos económicos que se asignen en los respectivos presupuestos, se administren y ejerzan en los términos del párrafo anterior.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2009)</small>
+
 ###### Artículo 108.
 
 La Hacienda Pública se formará:
 
-I.- Del producto de las contribuciones que decrete el Congreso.
+I. Por los bienes públicos y privados propiedad del Estado;
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1936)</small>
+II. Por los ingresos previstos anualmente en la Ley de Ingresos del Estado y otras disposiciones legales;
 
-II.- Del producto y venta de los bienes que, según las Leyes, pertenezcan al Estado.
+III. Por el gasto público, que estará contenido en el Presupuesto de Egresos del Estado que se expida anualmente; y
 
-III.- De las multas que conforme a las leyes deban ingresar al Erario.
-
-(REFORMADA, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 5 DE NOVIEMBRE DE 1932)
-
-IV.- De las donaciones, herencias, legados y reintegros que se concedan y otorguen en favor del Estado o de los Municipios.
+IV. Por las obligaciones a cargo del Estado, derivadas de empréstitos, garantías, avales, contratos de colaboración públicos, privados y demás actos jurídicos.
 
 ###### Artículo 109.
 
 El Congreso expedirá la ley de Hacienda que establezca las bases generales para la fijación de los impuestos y la manera de hacerlos efectivos.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2009)</small>
 
 ###### Artículo 110.
 
-Habrá en el Estado una Oficina encargada de la recaudación y distribución de los caudales públicos, que se denominará "Secretaría de Finanzas del Estado" y que estará a cargo del Secretario respectivo.
+Habrá en el Estado una oficina encargada de la recaudación y distribución de los caudales públicos, que se denominará Secretaría de Finanzas del Estado y que estará a cargo del Secretario respectivo.
+
+En las cabeceras de cada Municipio en donde la Secretaría de Finanzas del Estado lo juzgue conveniente, habrá una oficina encargada de recaudar los impuestos y contribuciones que correspondan al Estado, que se denominará Receptoría de Rentas y estará a cargo de un Receptor.
 
 ###### Artículo 111.
 
 En cada una de las cabeceras de las Municipalidades habrá una Oficina que recaudará los arbitrios Municipales y que se denominará "Tesorería Municipal" y estará a cargo de un Tesorero Municipal.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2009)</small>
 
 ###### Artículo 112.
 
-En las cabeceras de cada Municipio, en donde la Secretaría de Finanzas del Estado lo juzgue conveniente, habrá una Oficina encargada de recaudar los impuestos y contribuciones que correspondan al Estado, que se denominará Receptoría de Rentas y estará a cargo de un Receptor.
+Las oficinas a que se refiere el artículo anterior, podrán ejercer la facultad económico-coactiva para hacer efectivos los impuestos y contribuciones decretados por las leyes.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2009)</small>
 
 ###### Artículo 113.
 
-Las oficinas a que se refieren los artículos anteriores, podrán ejercer la facultad económico-coactiva para hacer efectivos los impuestos y contribuciones decretados por las leyes.
+Los encargados de las oficinas de referencia, distribuirán los caudales públicos con estricto arreglo al presupuesto y serán responsables personal y pecuniariamente, por los gastos que hicieren u ordenaren sin estar comprendidos o autorizados por una Ley posterior.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2009)</small>
 
 ###### Artículo 114.
 
-Los encargados de las Oficinas de referencia, distribuirán los caudales públicos con estricto arreglo al presupuesto y serán responsables personal y pecuniariamente, por los gastos que hicieren u ordenaren sin estar comprendidos o autorizados por ley posterior.
+El Secretario de Finanzas del Estado y los demás empleados que manejen fondos públicos, otorgarán fianza en la forma que la Ley determine.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2009)</small>
 
 ###### Artículo 115.
 
-El Secretario de Finanzas del Estado y los demás empleados que manejen fondos públicos, otorgarán fianza en la forma que la ley determine.
+El Tribunal Fiscal Unitario del Estado es el órgano supremo administrativo fiscal y conocerá en la forma y términos que establezca el procedimiento contencioso del Título Segundo del Código Administrativo de esta misma Entidad, de las inconformidades de los causantes en contra de las resoluciones dictadas por las autoridades fiscales del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2009)</small>
 
 ## TITULO X.
 
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADA SU NUMERACION, P.O. 20 DE JUNIO DE 2009)</small>
+
+### CAPITULO II.
+
+Del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 20 DE JUNIO DE 2009)</small>
+
+###### Artículo 116.
+
+En el lugar de residencia de los Poderes del Estado habrá un Órgano Superior de Auditoría y Fiscalización. Gubernamental, con autonomía presupuestaria, técnica y de gestión en el ejercicio de sus atribuciones, para decidir sobre su organización interna, funcionamiento, recursos humanos y materiales, así como sus determinaciones y resoluciones. La función de fiscalización a cargo de esta entidad se desarrollará conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad.
+
+Dicho órgano estará integrado por los servidores públicos que establezca su Ley, los cuales estarán sujetos al servicio civil de carrera; y en él se revisarán y fiscalizarán las cuentas de los caudales públicos del erario del Estado. El Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado tendrá a su cargo:
+
+I.- Fiscalizar en forma posterior los ingresos y egresos, así como el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado, los Municipios y de los entes públicos a que se refiere la fracción XI, del artículo 33, de esta Constitución, emitiendo el dictamen correspondiente;
+
+II.- Solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la cuenta pública de las entidades en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la cuenta pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación contenidos en el presupuesto en revisión, abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas estatal o municipales; lo anterior, sin perjuicio del principio de anualidad. Las observaciones y recomendaciones que, respectivamente, emita dicho Órgano, sólo podrán referirse al ejercicio de los recursos públicos de la cuenta pública en revisión;
+
+III.- Requerir a las entidades fiscalizadas, sin perjuicio del principio de posterioridad y en las situaciones excepcionales que determine la Ley, derivado de denuncias, indicios o información pública de irregularidades, que procedan a la revisión, durante el ejercicio fiscal en curso, de los conceptos denunciados, imputados o señalados como irregulares, y rindan un informe pormenorizado. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la Ley, se impondrán las sanciones previstas en la misma;
+
+IV.- Efectuar la evaluación de los recursos económicos Federales, Estatales y Municipales a que se refiere el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, en los términos que señale la Ley;
+
+V.- Entregar, al Congreso del Estado, el informe del resultado de la revisión de la cuenta pública a que se refiere el artículo 33, fracción XXXIX de esta Constitución, el cual tendrá el carácter de público;
+
+VI.- Determinar la presunción de las responsabilidades administrativas en que incurran los servidores públicos del Estado, y municipios, así como determinar los daños y perjuicios que afecten a la hacienda pública estatal, municipal, o al patrimonio de los entes públicos estatales y municipales, empresas de participación estatal, organismos públicos autónomos, fideicomisos pertenecientes a la Administración Pública Descentralizada del Gobierno del Estado y Ayuntamientos y demás entidades, personas físicas y morales que administren, custodien y ejerzan recursos públicos y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, cuando el monto de la multa, daño o perjuicio sea inferior o igual a mil unidades de salario mínimo general vigente, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título XI, de esta Constitución, y presentar las denuncias y querellas penales, en cuyos procedimientos tendrá la intervención que señale la Ley. Asimismo, podrá determinar los daños y perjuicios acaecidos a la hacienda pública federal, cuando se trate de recursos públicos que por su naturaleza no pierden el carácter de federales auditados mediante convenio de coordinación o colaboración suscrito con la Auditoría Superior de la Federación en términos de la Ley de Coordinación Fiscal.
+
+Las sanciones y demás resoluciones del Órgano Superior de Auditoría y Fiscalización Gubernamental podrán ser impugnadas por las entidades fiscalizadas y, en su caso, por los servidores públicos afectados adscritos a las mismas, ante el propio órgano de fiscalización o ante los tribunales a que se refiere el artículo 33, fracción XLI Bis, de esta Constitución conforme a lo previsto en la Ley.
+
+VII.- Rendir un informe anual pormenorizado al Congreso del Estado de las actividades realizadas en ejercicio de sus funciones de fiscalización, en los términos que determine su ley reglamentaria; y
+
+VIII.- El Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado deberá guardar reserva de sus actuaciones y observaciones hasta la entrega al Congreso del Estado del Informe de resultados a que se refiere el artículo 33, fracción XXXIX. La Ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 20 DE JUNIO DE 2009)</small>
+
+###### Artículo 117.
+
+La falta de cumplimiento de estos preceptos será causa de responsabilidad del titular del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado y de los funcionarios del mismo.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 20 DE JUNIO DE 2009)</small>
+
+###### Artículo 118.
+
+El Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado rendirá al Congreso, a través de la comisión respectiva, en la forma en que la Ley prevenga, el informe de resultados de la cuenta pública y cada tres meses, el informe de los avances de auditoría que haya practicado.
+
+Para el cumplimiento del trabajo de fiscalización, los Poderes del Estado, Municipios y los sujetos de fiscalización, facilitarán en todo momento el auxilio que requiera el Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, para el ejercicio de sus funciones de fiscalización.
+
+Dicho órgano gozará de acceso irrestricto a la información pública. Los servidores públicos Estatales y Municipales, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica que reciban o ejerzan recursos públicos, independientemente de su origen o naturaleza, deberán proporcionar la información y documentación que se solicite, sin perjuicio de la competencia de otras autoridades.
+
+En caso de no proporcionar los auxilios o la información requerida, los responsables serán sancionados en los términos que establezca la Ley.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
 ### CAPITULO UNICO.
 
 De las Responsabilidades de los Servidores Públicos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
-
-###### Artículo 116.
-
-En lugar de la residencia de los Poderes del Estado habrá una Contaduría General que dependerá inmediatamente del Congreso, compuesta de los empleados que designe la ley; en dicha Oficina se glosarán, sin excepción, las cuentas de los caudales públicos del Erario del Estado.
-
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2004)</small>
-
-###### Artículo 117.
-
-La revisión de los resultados semestrales de las cuentas públicas, considerando el desahogo de las confrontas derivadas de las observaciones y la terminación del informe final de auditoría con las recomendaciones sobre la aplicación de posibles sanciones, deberá quedar concluida dentro de los siguientes sesenta días naturales a la presentación de los mismos por el gobierno del Estado y los ayuntamientos.
-
-La falta de cumplimiento de este precepto será causa de responsabilidad del Contador Mayor de Hacienda, de los empleados de la Contaduría Mayor de Hacienda, así como de los Diputados y Diputadas integrantes de las Comisiones Legislativas correspondientes.
-
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1955)</small>
-
-###### Artículo 118.
-
-La Contaduría General, expedirá en la forma que la Ley prevenga, el finiquito de las cuentas que glosa y rendirá cada tres meses al Congreso, por conducto de la Comisión respectiva, un informe de las operaciones que haya practicado.
-
-El Tribunal Fiscal Unitario del Estado, es el Supremo Organo Administrativo Fiscal y conocerá, en la forma y términos que establezca el procedimiento contencioso del Título Segundo del Código Administrativo de esta misma Entidad, de las inconformidades de los causantes en contra de las resoluciones dictadas por las autoridades fiscales del Estado.
-
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
-
-### CAPITULO UNICO.
-
-De la Inviolabilidad de esta Constitución, su Observancia y modo de Reformarla.
-
-(REFORMADO, P.O. 15 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 12 DE NOVIEMBRE DE 1932)
 
 ###### Artículo 119.
 
@@ -1785,9 +1837,9 @@ Pronunciada una sentencia condenatoria de responsabilidad por delitos y faltas o
 
 ### CAPITULO UNICO.
 
-Disposiciones Generales.
+De la Inviolabilidad de esta Constitución, su Observancia y modo de Reformarla.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
+(REFORMADO, P.O. 15 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 12 DE NOVIEMBRE DE 1932)
 
 ###### Artículo 129.
 
@@ -1820,6 +1872,12 @@ Las reformas o adiciones objetadas serán derogadas si más del 50% de los ciuda
 El Cómputo de votos de los Ayuntamientos para los efectos del artículo anterior, se hará por corporaciones y no por personas.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+
+### CAPITULO UNICO.
+
+Disposiciones Generales.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
 
 ###### Artículo 132.
 
@@ -1987,11 +2045,17 @@ Los pensionados y jubilados, así como los adultos mayores de 65 años, tendrán
 
 VI.- Las autoridades del Estado velarán por la defensa de los derechos humanos e instituirán los medios adecuados para su salvaguarda.
 
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2009)</small>
 
-VII.- Toda persona tiene derecho a que se les administre justicia por los tribunales del Estado, los que estarán expeditos para impartirla en los plazos y términos que fijan las leyes, emitiendo sus resoluciones de manera pronta, completa, imparcial y gratuita. Asimismo, tiene derecho, en la forma y términos que establezca la ley, a resolver sus controversias de carácter jurídico a través de la justicia alternativa, mediante procedimientos no jurisdiccionales.
+VII.- Toda persona tiene derecho a que se le administre justicia por los tribunales del Estado, los que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, imparcial y gratuita.
 
-En todo proceso del orden penal, el inculpado y la víctima tendrán las garantías que les otorgan la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y la ley.
+Asimismo tiene derecho, en la forma y términos que establezca la ley, a resolver sus controversias de carácter jurídico a través de la justicia alternativa, mediante procedimientos no jurisdiccionales.
+
+Los menores que cometan una infracción a las leyes penales serán objeto de un sistema integral de procuración e impartición de justicia, a cargo de Instituciones, tribunales y autoridades especializados, en el que se garanticen los derechos fundamentales que les reconoce la Constitución Federal, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos. Los menores de doce años que hayan realizado una conducta prevista como delito en la ley, sólo serán sujetos a rehabilitación y asistencia social.
+
+El proceso penal será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad e inmediación. En todo proceso del orden penal, el inculpado, la víctima y el ofendido tendrán las garantías que les otorgan la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes.
+
+El sistema penitenciario se organizará sobre la base del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medio para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
 
 VIII.- Por el carácter plural de la sociedad colimense, las autoridades están obligadas a fortalecerla, alentando la participación democrática de individuos, organizaciones y partidos políticos en el desarrollo del Estado.
 
@@ -2780,6 +2844,32 @@ SEGUNDO.- El Quinto Informe de Gobierno que rinda el Titular del Poder Ejecutivo
 P.O. 21 DE MARZO DE 2009.
 
 UNICO.- El presente Decreto entrara en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 20 DE JUNIO DE 2009.
+
+DECRETO No. 570, POR EL QUE SE REFORMA EL ARTICULO 1 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El sistema procesal penal acusatorio y oral entrará en vigor cuando lo establezca la legislación secundaria correspondiente, sin exceder el plazo de ocho años, los cuales se contarán a partir del día siguiente al de la publicación del Decreto que reformó los artículos 16, 17, 18, 19, 20, 21, 22, 73, 115 y 123, todos de la Constitución Política de los Estados Unidos Mexicanos, de fecha 18 de mayo de 2008 y publicado el 18 de junio de 2008 en el Diario Oficial de la Federación.
+
+P.O. 20 DE JUNIO DE 2009.
+
+DECRETO No. 571, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS PRECEPTOS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Dentro de los siguientes 120 días al de la publicación del presente Decreto, el Congreso del Estado, expedirá la Ley que establezca las bases de operación del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado y adecuará la denominación respectiva en las leyes que se refieran a la Contaduría Mayor. En tanto se expidan las leyes anteriores, la Contaduría Mayor de Hacienda, pasará a ser, a la entrada en vigor del presente Decreto, el Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, quien tendrá las facultades previstas en el presente Decreto y aplicará para los efectos de la fiscalización las disposiciones legales vigentes en la materia.
+
+TERCERO.- Al Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, con la naturaleza y atribuciones que se le otorgan conforme al presente Decreto, se le transmitirán los inmuebles, muebles, equipos, archivos, expedientes, papeles y en general, la totalidad de los bienes y recursos de la actual Contaduría Mayor de Hacienda del Congreso del Estado y continuará atendiendo los asuntos pendientes a cargo de ésta última.
+
+Los servidores públicos de la Contaduría Mayor de Hacienda del Congreso del Estado pasarán a formar parte del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, sin perjuicio de sus derechos laborales con motivo de la entrada en vigor de este Decreto y de las leyes que en consecuencia se emitan.
+
+CUARTO.- En tanto se nombra al Auditor Superior del Estado, fungirá como tal el Titular de la Contaduría Mayor de Hacienda del Congreso del Estado por un término de hasta 120 días posterior a la entrada en vigor del presente Decreto. Si al concluir dicho plazo, el Congreso del Estado no ha nombrado al Auditor Superior del Estado en los términos de la Ley, el actual será sustituido por la C.P. Ma. Cristina González Márquez, Subcontadora Mayor de Hacienda del Estado de Colima, hasta en tanto se designe al definitivo.
+
+QUINTO.- El Titular del Poder Ejecutivo Estatal, determinará en el Presupuesto de Egresos del próximo ejercicio fiscal, la partida presupuestal que garantice el eficaz funcionamiento del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, atendiendo el proyecto que emita su titular. Mientras tanto, el Congreso del Estado, sufragará los recursos asignados a la actual Contaduría.
+
+SEXTO.- La presentación, revisión, fiscalización y dictamen de las cuentas públicas del segundo semestre del ejercicio fiscal 2008, primero y segundo del ejercicio fiscal 2009, se tramitarán hasta su conclusión en los términos de la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Colima y demás legislación vigente antes de la entrada en vigor del presente Decreto.
 
 ###### ARTÍCULO ÚNICO.
 
