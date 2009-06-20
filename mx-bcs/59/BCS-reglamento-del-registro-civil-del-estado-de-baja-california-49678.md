@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-del-registro-civil-del-estado-de-baja-california-496
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-10"
-last_updated: "2006-03-10"
+last_updated: "2009-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DEL REGISTRO CIVIL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL REGISTRO CIVIL DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 20 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADO.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 10 de marzo de 2006.
 
@@ -718,3 +720,15 @@ NARCISO AGÚNDEZ MONTAÑO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 VÍCTOR MANUEL GULUARTE CASTRO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 20 DE JUNIO DE 2009.
+
+###### ARTICULO PRIMERO
+
+El presente Reglamento entra en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO
+
+Se abroga el Reglamento del Registro Civil del Estado de Baja California Sur publicado en el Boletín Oficial del Gobierno del Estado numero 12 de fecha 10 de marzo del año 2006.
