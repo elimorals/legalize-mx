@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-los-servicios-de-vialidad-transito-1326
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-03"
-last_updated: "2009-03-10"
+last_updated: "2009-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2009.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 3 de diciembre de 1998.
 
@@ -68,7 +68,7 @@ VI.- CEIT: El Centro Estatal de Investigación de la Vialidad y el Transporte;
 
 VII.- Conductor: Toda persona en el acto de manejar o conducir un vehículo;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MARZO DE 2009)</small>
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2009)</small>
 
 VIII.- Corredor Exclusivo de Transporte Público: Vía pública sobre la que circulan unidades de transporte público confinadas a un carril exclusivo para el traslado masivo de pasajeros;
 
@@ -134,9 +134,7 @@ XXIII.- Policía de vialidad y tránsito: El servidor público perteneciente al 
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
 
-XXIV.- Registro Estatal: El Registro Estatal de los Servicios Públicos de Tránsito y
-
-Transporte;
+XXIV.- Registro Estatal: El Registro Estatal de los Servicios Públicos de Tránsito y Transporte;
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
 
@@ -440,7 +438,9 @@ En las vías de comunicación urbana y suburbana de todos los centros de poblaci
 
 I.- Obedecerán la señalización que regule la vialidad, ya sea por medio de dispositivos de control de tráfico o bien por indicaciones del agente vial o de las patrullas escolares. Cuando un agente vial dirija la circulación, sus señalamientos serán preferentes respecto de cualquier otro;
 
-II.- Respetarán las zonas peatonales; y
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2009)</small>
+
+II.- Respetarán las zonas peatonales;
 
 III.- Otorgarán las siguientes prelaciones de paso:
 
@@ -464,7 +464,13 @@ Estas disposiciones no son aplicables a los vehículos del servicio público col
 
 h) Los vehículos que arriben a una glorieta deberán hacer alto total antes de mezclarse con la circulación, dando preferencia a los que ya transitan en ella.
 
-i) A los carriles exclusivos para la circulación de bicicletas o las ciclopistas que se autoricen por parte de la Secretaría.
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2009)</small>
+
+i) A los carriles exclusivamente para la circulación de bicicletas o las ciclopistas que se autoricen por parte de la Secretaría; y
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2009)</small>
+
+IV. Los conductores deberán abstenerse de circular sobre corredores exclusivos para el transporte público.
 
 ###### Artículo 33.
 
@@ -490,9 +496,17 @@ V.- Queda prohibido a los conductores obstruir la marcha de contingentes militar
 
 VI.- Queda prohibido circular en reversa una distancia mayor a veinte metros, salvo por circunstancias especiales que le impidan la circulación en esa vía;
 
-VII.- Los conductores que sufran algún deterioro o desperfecto de sus vehículos en la circulación, y no puedan retirarlo inmediatamente, deberán colocar suficientes señalamientos preventivos a las distancias necesarias, dependiendo del tipo de vialidad en la que se encuentren; y
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2009)</small>
 
-VIII.- Mantener una distancia de seguridad con el vehículo de adelante, suficiente para poder frenar ante una emergencia y evitar el impacto.
+VII.- Los conductores que sufran algún deterioro o desperfecto de sus vehículos en la circulación, y no puedan retirarlo inmediatamente, deberán colocar suficientes señalamientos preventivos, a las distancias necesarias, dependiendo del tipo de vialidad en la que se encuentren;
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2009)</small>
+
+VIII.- Mantener una distancia de seguridad con el vehículo de adelante; suficiente para poder frenar ante una emergencia y evitar el impacto; y
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2009)</small>
+
+IX.- Los vehículos de carga pesada de más de tres toneladas y media que pretendan circular por vialidades con corredores exclusivos de transporte público, podrán hacerlo solamente en los horarios comprendidos de 21:30 a 6:30 horas, de 10:00 a 12:00 horas y de 15:30 a 18:00 horas, sin afectar o invadir las operaciones de los corredores exclusivos de transporte público.
 
 > <small>(ADICIONADO, P.O. 10 DE MARZO DE 2009)</small>
 
@@ -501,6 +515,16 @@ Artículo 35 bis.- Los vehículos de emergencia o de seguridad pública que esta
 > <small>(F. DE E., P.O. 2 DE ABRIL DE 2009)</small>
 
 A las (sic) conductores de los vehículos a que se refiere el presente artículo que hagan un uso indebido de esta excepción se harán acreedores a la sanción prevista en el artículo 166 bis la Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2009)</small>
+
+Artículo 35 ter.- En las vialidades con corredores exclusivos de transporte público queda prohibido a los conductores:
+
+I. Realizar acciones de ascenso y descenso de personas, maniobras de carga y descarga de materiales, mercancías o animales, debiendo realizarlas a través de calles locales transversales;
+
+II. Estacionarse o efectuar reparaciones él vehículos, excepto en caso de contingente emergencia; y
+
+III. Abandonar o colocar vehículos, arrojar o depositar objetos, señalamientos o residuos que puedan entorpecer u obstaculizar el tránsito y libre circulación.
 
 ###### Artículo 36.
 
@@ -519,6 +543,24 @@ V.- Los tripulantes y conductores de motocicletas de cualquier tipo deberán lle
 VI.- No deberán sujetarse a otros vehículos que transiten por la vía pública; y
 
 VII.- No llevarán carga que constituya un peligro para sí o para otro.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2009)</small>
+
+Artículo 36 bis.- Los conductores de vehículos descritos en el artículo anterior tendrán las siguientes prohibiciones:
+
+I. Circular por carriles centrales, túneles, vías rápidas o interiores de las vías primarias o de acceso controlado y en donde así lo indiquen los señalamientos.
+
+Los ciclistas deberán circular sobre vialidades donde exista ciclo vía o vía exclusiva para ellos;
+
+II. Circular entre carriles, efectuando cruces de circulación o zigzagueo;
+
+III. Circular sobre banquetas y áreas reservadas para uso exclusivo de peatones;
+
+IV. Transportar pasajeros en lugar intermedio entre la persona que conduce y el volante o manubrio; y
+
+V. Transportar carga que por sus características y sin aditamentos de seguridad, describa una acción de riesgo y posible pérdida de control y estabilidad del vehículo.
+
+La Secretaria autorizará los derroteros para los vehículos de tracción animal conocidos como "Calandrias".
 
 ###### Artículo 37.
 
@@ -620,9 +662,21 @@ XIV.- En sentido contrario;
 
 XV.- Frente a tomas de agua para bomberos;
 
-XVI.- En los estacionamientos exclusivos debidamente autorizados; y
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2009)</small>
 
-XVII.- En donde el estacionamiento del mismo provoque entorpecimiento a la circulación o molestias a los peatones.
+XVI.- En los estacionamientos exclusivos debidamente autorizados;
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2009)</small>
+
+XVII.- En donde el estacionamiento del mismo provoque entorpecimiento a la circulación o molestias a los peatones;
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2009)</small>
+
+XVIII.- En las vialidades con corredores exclusivos de transporte público; y
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2009)</small>
+
+XIX.- En donde exista señalamiento restrictivo vertical, horizontal o pintura amarilla en guarnición.
 
 ###### Artículo 44.
 
@@ -1813,3 +1867,7 @@ SEGUNDO.- El presente acuerdo entrará en vigor el día siguiente de su publicac
 P.O. 10 DE MARZO DE 2009.
 
 ÚNICO. El presente Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 20 DE JUNIO DE 2009.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
