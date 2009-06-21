@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-18930"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-24"
-last_updated: "2008-07-13"
+last_updated: "2009-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2009.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 24 de diciembre de 2000.
 
@@ -163,7 +163,9 @@ Cada dependencia y entidad de la Administración Pública Estatal, deberá elabo
 
 El Gobernador del Estado expedirá los reglamentos interiores de las dependencias los que para su validez se publicarán en el Periódico Oficial.
 
-Los titulares de las dependencias y entidades podrán emitir acuerdos, manuales administrativos y circulares que regulen la organización y funcionamiento de las mismas.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2009)</small>
+
+Los titulares de las dependencias y entidades podrán emitir acuerdos y circulares que regulen la organización y funcionamiento de las mismas, de igual forma deberán emitir los manuales de organización y de procedimientos, mismos que serán publicados en el Periódico Oficial del Estado.
 
 ###### ARTICULO 16.
 
@@ -1009,7 +1011,9 @@ I. Planear, organizar, operar, dirigir y coordinar el sistema estatal de control
 
 II. Fijar las normas de control, evaluación, fiscalización y auditoria que deban observar las dependencias y entidades de la administración pública centralizada y paraestatal; así como vigilar su cumplimiento, y en su caso, prestar el apoyo y asesoramiento que éstas le soliciten;
 
-III. Vigilar el debido ejercicio del gasto público y verificar su congruencia con el presupuesto de egresos, practicando las auditorias a las dependencias y entidades del Poder Ejecutivo; funciones que serán de su única competencia;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2009)</small>
+
+III. Vigilar el debido ejercicio del gasto público y verificar su congruencia con el presupuesto de egresos, practicando las auditorias, revisiones, fiscalizaciones, verificaciones e inspecciones necesarias para tal efecto a las dependencias y entidades del Poder Ejecutivo; funciones que serán de su única competencia;
 
 IV. Constatar el cumplimiento, por parte de las dependencias y entidades de la administración pública estatal, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores de la propiedad y/o al cuidado del Gobierno del Estado;
 
@@ -1029,17 +1033,25 @@ XI. Coordinarse con la Entidad de Auditoria Superior del Estado, para el estable
 
 XII. Promover y apoyar a los ayuntamientos de los municipios del Estado, para la implementación y funcionamiento de órganos de control municipales;
 
-XIII. Designar, para el mejor desarrollo del sistema de control y evaluación gubernamental, delegados de la propia Secretaría ante las dependencias y órganos desconcentrados de la administración pública estatal centralizada y comisarios, en los organismos de gobierno o vigilancia de las entidades de la administración pública paraestatal;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2009)</small>
+
+XIII. Designar, para el mejor desarrollo del sistema de control y evaluación gubernamental, a los integrantes de los órganos internos de control de la propia Secretaría ante las dependencias, órganos desconcentrados y descentralizados de la administración pública estatal, así como a los comisarios, en los órganos de gobierno o vigilancia de las entidades de la administración pública paraestatal;
 
 XIV. Establecer las normas y procedimientos para la entrega y recepción de las dependencias y entidades del Poder Ejecutivo del Estado;
 
-XV. Vigilar que se lleve a cabo, en tiempo y forma, la entrega y recepción de las oficinas públicas del Poder Ejecutivo del Estado, desde el nivel de secretarías hasta el de direcciones o sus equivalentes, recabando copia de la documentación requerida, conforme a los lineamientos que se establecen para tal efecto;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2009)</small>
+
+XV. Vigilar que se lleve a cabo, en tiempo y forma, la entrega y recepción de las oficinas públicas del Poder Ejecutivo del Estado, desde el nivel de jefe de departamento o sus equivalentes, de conformidad con lo estipulado en la ley de la materia;
 
 XVI. Designar a los auditores externos de las entidades, así como normar y controlar su desempeño;
 
-XVII. Designar y remover a los titulares de los órganos internos de control de las dependencias y entidades de la administración pública estatal y de la Procuraduría General de Justicia, así como a los de las áreas de auditoria, quejas y responsabilidades de tales órganos, quienes dependerán jerárquica y funcionalmente de la Secretaría de la Contraloría, tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los tribunales estatales, representando al titular de dicha Secretaría;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2009)</small>
 
-XVIII. Promover y apoyar a la ciudadanía para que exponga las quejas o denuncias relativas a irregularidades o desviaciones en el desarrollo de los programas aprobados para beneficio de la comunidad y de la actuación de los servidores públicos, así como darles el trámite y resolución correspondiente;
+XVII. Designar, reubicar y remover a los titulares y servidores públicos de los órganos internos de control de las dependencias y entidades de la administración pública estatal y de la Procuraduría General de Justicia, así como a los de las áreas de auditoria, quejas y responsabilidades de tales órganos, quienes dependerán jerárquica y funcionalmente de la Secretaría de la Contraloría, tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los tribunales federales y estatales, representando al titular de dicha Secretaría;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2009)</small>
+
+XVIII. Promover entre la ciudadanía la cultura de la denuncia y apoyarla para que exponga las quejas o denuncias relativas a irregularidades o desviaciones en el desarrollo de los programas aprobados para beneficio de la comunidad así como de la actuación de los servidores públicos;
 
 XIX. Conocer y resolver las inconformidades y recursos presentados por los particulares con motivo de cualquier acto de contratación que contravenga las disposiciones que rigen las Leyes correspondientes en materia de obras públicas y de adquisiciones
 
@@ -1051,13 +1063,17 @@ XXII. Operar el control de los avances físicos y financieros de los programas d
 
 XXIII. Supervisar el avance de las obras y vigilar su cumplimiento de acuerdo a las especificaciones programadas;
 
-XXIV. Informar a la Secretaría de la Contraloría y Desarrollo Administrativo del Gobierno Federal, sobre la aplicación y control de los recursos de inversión de origen federal;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2009)</small>
 
-XXV. Dictar las normas necesarias para el cumplimiento en las dependencias, entidades y organismos de la administración pública estatal, de las obligaciones en materia de informática, impulsando la descentralización y modernización administrativa;
+XXIV. Informar a la Secretaría de la Función Pública del Gobierno .Federal, sobre el resultado y el seguimiento de las auditorías producto del programa de trabajo que anualmente suscriban de manera conjunta;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2009)</small>
+
+XXV. Vigilar y dictar las normas necesarias para el cumplimiento en las dependencias, entidades y organismos de la administración pública estatal, de las obligaciones en materia de tecnologías de la información y comunicaciones así como las relativas a la Informática;
 
 XXVI. Vigilar la exacta y adecuada observancia de las Leyes que rijan en materia de adquisiciones y obras públicas;
 
-XXVII. Proponer y establecer las medidas que considere necesarias para prevenir y combatir la corrupción; y
+XXVII. Proponer y establecer las medidas que considere necesarias para prevenir y combatir la corrupción; y (sic)
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
@@ -1071,13 +1087,49 @@ XXIX. Aplicar dentro del ámbito de su competencia la Ley en materia de responsa
 
 XXX. Elaborar y ejecutar programas de capacitación y evaluación permanente de los servidores públicos;
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2009)</small>
 
-XXXI. Establecer los mecanismos que permitan instrumentar y operar el servicio público de carrera, conforme a las disposiciones jurídicas aplicables; y
+XXXI. Establecer los mecanismos que permitan instrumentar y operar el servicio público de carrera, conforme a las disposiciones jurídicas aplicables;
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2009)</small>
 
-XXXII. Las demás que le encomiende el Ejecutivo del Estado o le señalen las leyes y reglamentos.
+XXXII. Promover, coordinar y evaluar los programas y acciones destinadas a asegurar la calidad gubernamental en las funciones y servicios a cargo de las dependencias y entidades;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2009)</small>
+
+XXXIII. Establecer, regular y emitir los plazos y términos para las solventaciones de auditorías o aquellos que dentro de su ámbito de competencia no se encuentren regulados por otras disposiciones legales;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2009)</small>
+
+XXXIV. Solicitar cualquier tipo de información a las dependencias, entidades y organismos que conforman la administración pública estatal;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2009)</small>
+
+XXXV. Promover y fomentar la transparencia y el acceso a la información pública en las dependencias, entidades y organismos de la administración pública estatal;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2009)</small>
+
+XXXVI. Impulsar y promover acciones de contraloría social que coadyuven a abatir los actos de corrupción;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2009)</small>
+
+XXXVII. Suscribir los convenios y acuerdos que sean del ámbito de su competencia;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2009)</small>
+
+XXXVIII. Elaborar y revisar los proyectos de iniciativas de ley en los cuales tenga competencia;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2009)</small>
+
+XXXIX. Emitir los criterios y lineamientos para la elaboración de los manuales de organización y procedimientos, y vigilar que las dependencias y entidades cumplan con los mismos y demás ordenamientos legales;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2009)</small>
+
+XL. Emitir lineamientos, manuales, circulares y demás disposiciones legales que sean del ámbito de su competencia; y
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2009)</small>
+
+XLI. Las demás que le encomiende el Ejecutivo del Estado o le señalen las leyes, Reglamentos y demás normatividad aplicable.
 
 > <small>(ADICIONADO, P.O. 13 DE JULIO DE 2008)</small>
 
@@ -1878,3 +1930,9 @@ CUARTO.- La Secretaría del Trabajo y Previsión Social se subroga en todos los 
 QUINTO.- La Secretaría del Trabajo y Previsión Social, iniciará sus operaciones con los recursos que actualmente tiene asignada la Dirección del Trabajo y Previsión Social y los que le reasigne el Ejecutivo por conducto de la Secretaría de Finanzas y de Administración, en tanto el Congreso autoriza la partida presupuestal correspondiente a la citada Secretaría.
 
 SEXTO.- El personal que actualmente labora para la Dirección del Trabajo y Previsión Social, las Juntas y Tribunales Locales de Conciliación y Arbitraje, la Procuraduría Estatal de la Defensa del Trabajo, las demás áreas de la Dirección, y el Servicio Estatal de Empleo, se transferirán a la Secretaría del Trabajo y Previsión Social, respetando todos sus derechos laborales. Asimismo, los recursos materiales y financieros asignados a la citada Dirección y demás órganos, se transferirán a la Secretaría de referencia, en los términos que especifique el Decreto de transferencia que al efecto emita el titular del Ejecutivo Estatal y con la intervención que las leyes otorgan en ese proceso a las distintas dependencias de la administración pública estatal.
+
+P.O. 21 DE JUNIO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor, a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
