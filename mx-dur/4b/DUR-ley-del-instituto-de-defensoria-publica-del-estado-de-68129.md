@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-instituto-de-defensoria-publica-del-estado-de-68129"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-08"
-last_updated: "2009-03-08"
+last_updated: "2009-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68129&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DEL INSTITUTO DE DEFENSORIA PUBLICA DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DEL PRESENTE ORDENAMIENTO, VER ARTICULO PRIMERO TRANSITORIO REFORMADO DE LA LEY.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 8 de marzo de 2009.
 
@@ -203,7 +205,9 @@ Para ser Subdirector Operativo del Instituto, se requieren los siguientes requis
 
 I. Ser ciudadano mexicano, de preferencia duranguense, en pleno ejercicio de sus derechos;
 
-II. Ser licenciado en derecho, con título registrado en la Dirección de Profesiones y en el Tribunal Superior de Justicia, con antigüedad mínima en la titulación de tres años para secretario de acuerdos y de un año para secretario proyectista, salvo los actuarios quienes sólo deberán ser titulados;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2009)</small>
+
+II. Ser licenciado en derecho o su equivalente, con título registrado en la Dirección de Profesiones y en el Tribunal Superior de Justicia, con antigüedad mínima en la titulación de tres años;
 
 III. Gozar de buena reputación y no haber sido condenado por delito que amerite pena privativa de la libertad de más de un año de prisión, excepto en el caso de delito por culpa; pero si se tratare de robo, falsificación, abuso de confianza u otro que lastime la buena fama en el concepto público, inhabilitará para el cargo cualquiera que sea la pena, y
 
@@ -221,7 +225,7 @@ III. Auxiliar al Coordinador General de los Servicios de Defensoría Pública en
 
 IV. Las demás que se establezcan en esta Ley, la Ley Orgánica y en su Reglamento.
 
-### CAPÍTULO IV. DEL LA COORDINACIÓN GENERAL DE LOS SERVICIOS DE DEFENSORÍA PÚBLICA
+### CAPÍTULO IV. DE LA COORDINACIÓN GENERAL DE LOS SERVICIOS DE DEFENSORÍA PÚBLICA
 
 #### SECCIÓN I. ARTÍCULO 17
 
@@ -399,9 +403,11 @@ Un (sic) vez presentado el escrito por el interesado, o bien, transcurrido el pl
 
 #### SECCIÓN III. DEL INGRESO, EXCUSAS, OBLIGACIONES Y PROHIBICIONES DE LOS DEFENSORES PÚBLICOS Y ASESORES JURÍDICOS
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2009)</small>
+
 ARTÍCULO 35
 
-Para ingresar al Instituto como Defensor Público y Asesor Jurídico, se requiere, cumplir con los requisitos previstos en el artículo 22 de esta Ley y además aprobar el examen de oposición respectivo, el cual versara sobre la materia correspondiente a sus funciones.
+Para ingresar al Instituto como Defensor Público y Asesor Jurídico, se requiere, cumplir con los requisitos previstos en el artículo 19 de esta Ley y además aprobar el examen de oposición respectivo, el cual versará sobre la materia correspondiente a sus funciones.
 
 ARTÍCULO 36
 
@@ -497,7 +503,9 @@ Los prestadores de los servicios auxiliares tendrán las siguientes obligaciones
 
 I. Rendir oportunamente los dictámenes o informes que les sean solicitados por los Defensores Públicos y Asesores Jurídicos en el desempeño de su cargo;
 
-II. Presentar a la Dirección General, por conducto de la Dirección Operativa del Instituto, un informe pormenorizado de las actividades realizadas. Para el caso de que el servicio sea de carácter temporal, el informe deberá presentarse cinco días antes de concluir sus servicios; y si es de carácter permanente, se presentará en la fecha que se establezca en el Reglamento de esta Ley; y
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2009)</small>
+
+II. Presentar a la Dirección General, por conducto de la Subdirección Operativa del Instituto, un informe pormenorizado de las actividades realizadas. Para el caso de que el servicio sea de carácter temporal, el informe deberá presentarse cinco días antes de concluir sus servicios; y si es de carácter permanente, se presentará en la fecha que se establezca en el Reglamento de esta Ley; y
 
 III. Las demás que les señale la legislación aplicable.
 
@@ -629,11 +637,13 @@ Los Defensores Públicos y Asesores Jurídicos serán sancionados por el Consejo
 
 T R A N S I T O R I O S
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-La presente ley entrará en vigor una vez que se publiquen en el Periódico Oficial del Gobierno Constitucional del Estado de Durango e inicien su vigencia, las reformas que en la materia se efectúen a la Constitución Política del Estado Libre y Soberano de Durango.
+La presente ley entrará en vigor una vez que se publique en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, la Declaratoria que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, respecto de la vigencia del Código Procesal Penal del Estado de Durango.
 
-Hasta que se de cumplimiento a lo dispuesto en el párrafo anterior, se abrogará la Ley del Instituto de Defensoría Pública del Estado, contenida en el Decreto No. 403, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango No. 42, de fecha 27 de mayo del 2001.
+Hasta que se dé cumplimiento a lo dispuesto en el párrafo anterior, se abrogará la Ley del Instituto de Defensoría Pública del Estado, contenida en el Decreto No. 403, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango No. 42, de fecha 27 de mayo del 2001.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -660,6 +670,14 @@ Con motivo de la entrada en vigor del nuevo sistema de justicia penal a que alud
 ###### ARTÍCULO QUINTO.
 
 Se derogan todas las disposiciones legales que se opongan a la presente.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2009)</small>
+
+###### ARTÍCULO SEXTO.
+
+A efecto de dar cumplimiento al contenido del decreto No. 261, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 20 de fecha 8 de marzo de 2009, mediante el cual se readscribe al Instituto de Defensoría Pública del Estado, del Poder Ejecutivo, al Poder Judicial del Estado, se hace necesario reasignar el presupuesto establecido para el funcionamiento del Instituto de referencia.
+
+El Titular del Poder Ejecutivo efectuará las reasignaciones y transferencias presupuestales en la ley de Egresos del Estado Libre y Soberano de Durango, para el ejercicio fiscal de 2009, que se deriven de la re adscripción (sic) a que se hace referencia en el párrafo que antecede.
 
 El Ciudadano Gobernador Constitucional del Estado, dispondrá se publique, circule y observe.
 
@@ -688,3 +706,15 @@ C.P. ISMAEL ALFREDO HERNÁNDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE JUNIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango y comenzará su vigencia, de conformidad con el contenido del artículo primero transitorio que se contiene en el decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
