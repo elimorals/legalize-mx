@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-instituto-de-defensoria-publica-del-estado-de-21608"
 country: "mx"
 rank: "ley"
 publication_date: "2001-05-27"
-last_updated: "2009-03-08"
+last_updated: "2009-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "DUR"
 
 LEY DEL INSTITUTO DE DEFENSORIA PUBLICA DEL ESTADO DE DURANGO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DEL INSTITUTO DE DEFENSORIA PUBLICA DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O DE 8 DE MARZO DE 2009, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO HASTA EN TANTO SE PUBLIQUEN E INICIEN SU VIGENCIA, LAS REFORMAS QUE EN LA MATERIA SE EFECTUEN A LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DEL INSTITUTO DE DEFENSORIA PUBLICA DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O DE 8 DE MARZO DE 2009, Y REFORMADO POR DECRETO No. 281, PUBLICADO EN EL P.O. DE 21 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO HASTA EN TANTO SE PUBLIQUE LA DECLARATORIA QUE EMITA EL CONGRESO DEL ESTADO O LA COMISION PERMANENTE A SOLICITUD EXPRESA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, RESPECTO DE LA VIGENCIA DEL CODIGO PROCESAL PENAL DEL ESTADO, DE DURANGO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2009.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 27 de mayo de 2001.
 
@@ -487,11 +487,13 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. ANGEL SERGIO GUERRERO MIER.- EL SE
 
 P.O 8 DE MARZO DE 2009.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-La presente ley entrará en vigor una vez que se publiquen en el Periódico Oficial del Gobierno Constitucional del Estado de Durango e inicien su vigencia, las reformas que en la materia se efectúen a la Constitución Política del Estado Libre y Soberano de Durango.
+La presente Ley entrará en vigor una vez que se publique en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, la Declaratoria que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, respecto de la vigencia del Código Procesal Penal del Estado, de Durango.
 
-Hasta que se de cumplimiento a lo dispuesto en el párrafo anterior , se abrogará la Ley del Instituto de Defensoría Pública del Estado, contenida en el Decreto No. 403, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango No. 42, de fecha 27 de mayo del 2001.
+Hasta que se dé cumplimiento a lo dispuesto en el párrafo anterior, se abrogará la Ley del Instituto de Defensoría Pública del Estado, contenida en el Decreto No. 403, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango No. 42, de fecha 27 de mayo del 2001.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -516,3 +518,21 @@ Con motivo de la entrada en vigor del nuevo sistema de justicia penal a que alud
 ###### ARTÍCULO QUINTO.
 
 Se derogan todas las disposiciones legales que se opongan a la presente.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2009)</small>
+
+###### ARTÍCULO SEXTO.
+
+A efecto de dar cumplimiento al contenido del decreto No. 261, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 20 de fecha 8 de marzo de 2009, mediante el cual se readscribe al Instituto de Defensoría Pública del Estado, del Poder Ejecutivo, al Poder Judicial del Estado, se hace necesario reasignar el presupuesto establecido para el funcionamiento del Instituto de referencia.
+
+El Titular del Poder Ejecutivo efectuará las reasignaciones y transferencias presupuestales en la ley de Egresos del Estado Libre y Soberano de Durango, para el ejercicio fiscal de 2009, que se deriven de la re adscripción a que se hace referencia en el párrafo que antecede.
+
+P.O. 21 DE JUNIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango y comenzará su vigencia, de conformidad con el contenido del artículo primero transitorio que se contiene en el decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
