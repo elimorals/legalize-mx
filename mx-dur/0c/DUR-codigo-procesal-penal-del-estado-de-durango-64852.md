@@ -4,7 +4,7 @@ identifier: "DUR-codigo-procesal-penal-del-estado-de-durango-64852"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-05"
-last_updated: "2008-12-05"
+last_updated: "2009-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "DUR"
 
 CODIGO PROCESAL PENAL DEL ESTADO DE DURANGO
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NUMERO 232, PUBLICADO EN EL P.O. DE 5 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR DE MANERA SUCESIVA, A MAS TARDAR EL 31 DE DICIEMBRE DE 2009, EN EL DISTRITO JUDICIAL O REGION, SEGUN SEA EL CASO, QUE TENGA COMO CABECERA LA CIUDAD DE DURANGO, DGO. EN EL RESTO DE LOS DISTRITOS JUDICIALES O REGIONES, SUS DISPOSICIONES SE APLICARAN EN LA FECHA QUE CONTENGA LA DECLARATORIA RESPECTIVA QUE DEBERA SER EMITIDA POR EL CONGRESO DEL ESTADO O LA COMISION PERMANENTE A SOLICITUD EXPRESA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NUMERO 283, PUBLICADO EN EL P.O. DE 21 DE JUNIO DE 2009, LA PRESENTE REFORMA ENTRARA EN VIGOR UNA VEZ QUE SE PUBLIQUE LA DECLARATORIA QUE EMITA EL CONGRESO DEL ESTADO O LA COMISION PERMANENTE A SOLICITUD EXPRESA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO.</small>
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2009.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Durango, el viernes 5 de diciembre de 2008.
 
@@ -1423,7 +1423,11 @@ La autoridad judicial ordenará de oficio la práctica de un examen psiquiátric
 
 I. Se trate de una persona mayor de setenta años de edad; o
 
-II. El tribunal considere que es indispensable para establecer la capacidad de culpabilidad en el hecho o la necesidad de suspender el proceso conforme al artículo 426 de este Código.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2009)</small>
+
+II. El tribunal considere que es indispensable para establecer la capacidad de culpabilidad en el hecho o la necesidad de suspender el proceso conforme al artículo 424 párrafo segundo de este Código.
 
 ###### Artículo 140.
 
@@ -1681,11 +1685,19 @@ IV. Cometidos con medios violentos como armas y explosivos; y
 
 V. Contra el libre desarrollo de la personalidad.
 
-Para los efectos de este artículo, sólo podrán considerarse delitos cometidos por medios violentos los siguientes: homicidio doloso, secuestro, desaparición forzada de personas, tortura, robo cometido con armas de fuego. Se consideran delitos contra el libre desarrollo de la personalidad: trata de personas, pornografía y lenocinio de menores de edad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2009)</small>
+
+Para los efectos de este artículo sólo podrán considerarse delitos cometidos por medios violentos los siguientes: homicidio doloso, secuestro, desaparición forzada de personas, tortura, robo cometido con armas. Se consideran delitos contra el libre desarrollo de la personalidad: Pornografía con personas menores de edad o que no tienen la capacidad para comprender el significado del hecho; Delitos contra la formación de las personas menores de edad y protección integral de personas que no tienen la capacidad para comprender el significado del hecho; Lenocinio en menores de edad la persona que no tenga capacidad de comprender el significado del hecho o de resistirlo; Trata de Personas en los términos del artículo 305, fracción III incisos a) y c).
 
 La tentativa punible de los ilícitos penales mencionados en las fracciones anteriores, también se califica como delito grave.
 
-Con excepción de los delitos de homicidio calificado, secuestro, trata de personas y violación cometido en perjuicio de menores de edad o incapaces, las partes podrán solicitar al juzgador, respecto de los delitos anteriores, que no aplique oficiosamente la prisión preventiva y el juez lo acordará en consecuencia, si estima que el imputado cumplirá con sus obligaciones procesales, no constituye un riesgo para el desarrollo de la investigación, para la víctima u ofendido o para terceros. El juez, en estos casos, podrá no aplicar la prisión preventiva y sustituirla por otra medida cautelar, siempre que el Ministerio Público no se oponga.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2009)</small>
+
+Con excepción de los delitos de homicidio calificado, secuestro, violación, pornografía con personas menores de edad o que no tienen la capacidad para comprender el significado del hecho, delitos contra la formación de las personas menores de edad y protección integral de personas que no tienen la capacidad para comprender el significado del hecho, lenocinio en menores de edad personas que no tenga capacidad de comprender el significado del hecho o de resistirlo, trata de Personas en los términos del artículo 305, fracción III, incisos a) y e), las partes podrán solicitar al juzgador, respecto de los delitos anteriores, que no aplique oficiosamente la prisión preventiva y el juez lo acordará en consecuencia, si estima que el imputado cumplirá con sus obligaciones procesales, no constituye un riesgo para el desarrollo de la investigación, para la víctima u ofendido o para terceros. El juez, en estos casos, podrá no aplicar la prisión preventiva y sustituirla por otra medida cautelar, siempre que el Ministerio Público no se oponga.
 
 Tratándose de otros delitos, podrá aplicarse la prisión preventiva u otras medidas cautelares, siempre que resulten procedentes de conformidad con las disposiciones de este título.
 
@@ -1765,7 +1777,11 @@ En todos los casos, el Ministerio Público debe examinar inmediatamente después
 
 Supuestos de flagrancia.
 
-Se podrá detener a una persona sin orden judicial en caso de flagrancia. Se entiende que hay delito flagrante cuando: la persona es sorprendida en el momento de estarlo cometiendo e inmediatamente después de cometerlo es perseguido materialmente, en virtud de que es señalado por la víctima u ofendido, algún testigo presencial de los hechos o quien hubiere intervenido con ella en la comisión del delito, y se le encuentren objetos o indicios que hagan presumir fundadamente que acaba de intervenir en un delito.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2009)</small>
+
+Se podrá detener a una persona sin orden judicial en caso de flagrancia. Se entiende que hay delito flagrante cuando: la persona es sorprendida en el momento de estarlo cometiendo o inmediatamente después de cometerlo es perseguido materialmente, en virtud de que es señalado por la víctima u ofendido, algún testigo presencial de los hechos o quien hubiere intervenido con ella en la comisión del delito, y se le encuentren objetos o indicios que hagan presumir fundadamente que acaba de intervenir en un delito.
 
 Quien proceda a la detención, deberá ponerlo a disposición del Ministerio Público, sin demora alguna y se recabará un registro de la detención.
 
@@ -2143,13 +2159,35 @@ I. Se trate de delitos culposos;
 
 II. El delito admita el perdón de la víctima u ofendido;
 
-III. Se trate de delitos patrimoniales que se hayan cometido sin violencia sobre las personas; Los delitos que admitan la sustitución de sanciones o suspensión condicional de la ejecución de la pena;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-IV. En los delitos cuya pena media aritmética no exceda de cinco años de prisión. Siempre y cuando no se afecte un bien jurídico o interés público; y
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2009)</small>
 
-V. En los delitos cuya pena media aritmética exceda de cinco años de prisión, los mecanismos alternativos de solución, sólo serán considerados para otorgar algún beneficio en cualquier etapa del procedimiento penal o relacionados con la disminución de la pena o la ejecución de la sentencia.
+III. Se trate de delitos patrimoniales que se hayan cometido sin violencia sobre las personas;
 
-Se exceptúan de esta disposición, salvo cuando lo solicite en forma expresa la víctima u ofendido o su representante legal, los homicidios culposos que se cometan con motivo del tránsito de vehículos y el responsable conduzca en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras substancias que impidan o perturben su adecuada conducción; los delitos en contra del libre desarrollo de la personalidad, los cometidos contra menores de edad, violencia familiar; los delitos cometidos por servidores públicos en el ejercicio de sus funciones o con motivo de ellas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2009)</small>
+
+IV. Los delitos que admitan la sustitución de sanciones o suspensión condicional de la ejecución de la pena; y,
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2009)</small>
+
+V. En los delitos cuya pena media aritmética no exceda de cinco años de prisión, siempre y cuando no se afecte un bien jurídico o interés público.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JUNIO DE 2009)</small>
+
+En los delitos cuya pena media aritmética exceda de cinco años de prisión, los mecanismos alternativos de solución, sólo serán considerados para otorgar algún beneficio en cualquier etapa del procedimiento penal o relacionados con la disminución de la pena o la ejecución de la sentencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2009)</small>
+
+Se exceptúan de esta disposición, salvo cuando lo solicite en forma expresa la víctima u ofendido o su representante legal, los homicidios culposos que se cometan con motivo del tránsito de vehículos y el responsable conduzca en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras substancias que impidan o perturben su adecuada conducción o violencia familiar.
 
 Tampoco procederá el uso de los mecanismos alternativos de solución de controversias, en los casos en que el imputado haya celebrado anteriormente otros pactos por hechos de la misma naturaleza, ni cuando se afecte un interés público prevalente y así lo solicite el Ministerio Público, en su caso, ante el Juez de Control.
 
@@ -2207,11 +2245,15 @@ Los mecanismos alternativos de solución de controversias suspenden el proceso y
 
 ### CAPÍTULO II. SUSPENSIÓN DEL PROCESO A PRUEBA
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2009)</small>
+
 ###### Artículo 219.
 
 Procedencia.
 
-En los casos en que el auto de vinculación a proceso se haya dictado por un delito cuya pena máxima de prisión no exceda de cinco años; el imputado no haya sido condenado por delitos dolosos; no tenga o haya tenido otro proceso suspendido a prueba; proponga un plan de reparación del daño causado por el delito y no exista oposición fundada del Ministerio Público y de la víctima u ofendido, procederá la suspensión del proceso a prueba a solicitud del imputado o del Ministerio Público con acuerdo de aquél.
+En los casos en que el auto de vinculación a proceso se haya dictado por un delito cuya pena máxima de prisión no exceda de cinco años, el imputado no haya sido condenado por delito doloso, no tenga o haya tenido otro proceso suspendido a prueba, proponga un plan de reparación del daño causado por el delito y no exista oposición fundada del Ministerio Público y de la víctima u ofendido, procederá la suspensión del proceso a prueba a solicitud del imputado o del Ministerio Público con acuerdo de aquél.
 
 ###### Artículo 220.
 
@@ -2433,11 +2475,51 @@ Cuando con motivo del tránsito de vehículos culposamente se cause lesión y el
 
 La querella deberá contener, en lo conducente, los mismos requisitos de la denuncia.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2009)</small>
+
 ###### Artículo 242.
 
-Delitos perseguibles por querella.
+Delitos que se investigan por querella:
 
-Es necesaria la querella y sin ella no podrá procederse contra los responsables, cuando se trate de delitos que atentan contra el cumplimiento de la obligación alimentaria, lesiones que tardan en sanar menos de quince días, lesiones que tarden más de quince días y menos de sesenta, peligro de contagio, amenazas, allanamiento de vivienda, despacho, oficina o establecimiento mercantil, revelación de secretos, estupro, abusos sexuales con penalidad agravada, hostigamiento sexual, procreación asistida e inseminación artificial, privación de libertad con fines sexuales, abuso de confianza, fraude, daños, despojo, extorsión, administración fraudulenta y falsificación de documentos.
+Es necesaria la querella y sin ella no podrá procederse contra los responsables, cuando se trate de delitos:
+
+I. Que atentan contra el cumplimiento de la obligación alimentaria;
+
+II. Lesiones que tardan en sanar menos de quince días;
+
+III. Lesiones que tarden más de quince días y menos de sesenta;
+
+IV. Peligro de contagio;
+
+V. Amenazas;
+
+VI. Allanamiento de morada;
+
+VII. Revelación de secretos;
+
+VIII. Estupro;
+
+IX. Abuso sexual a que se refiere el artículo 179 del Código Penal del Estado de Durango;
+
+X. Hostigamiento sexual;
+
+XI. Procreación asistida e inseminación artificial;
+
+XII. Privación de libertad con fines sexuales;
+
+XIII. Abuso de confianza;
+
+XIV. Daños;
+
+XV. Despojo;
+
+XVI. Extorsión;
+
+XVII: Falsificación o Alteración y Uso Indebido de Documentos; y,
+
+XVIII. Fraude y Exacción Fraudulenta.
 
 ###### Artículo 243.
 
@@ -2591,7 +2673,11 @@ Quien haya prestado el consentimiento será invitado a presenciar el acto.
 
 Contenido de la resolución judicial que ordena el cateo.
 
-La resolución judicial que ordena el cateo, se hará por escrito, mediante autorización verbal o vía telefónica en casos excepcionales y urgentes, calificados por la autoridad judicial y deberá contener:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2009)</small>
+
+La resolución judicial que ordena el cateo se expedirá por escrito, previa solicitud del Ministerio Público de manera verbal, telefónica o escrita, en casos excepcionales y urgentes, así calificados por la autoridad judicial la cual deberá contener:
 
 I. El nombre y cargo de quien autoriza el cateo y la identificación del procedimiento en el cual se ordena;
 
@@ -3289,7 +3375,11 @@ I. Realizar las observaciones que estimen adecuadas sobre el escrito de acusaci�
 
 II. Deducir las excepciones de previo y especial pronunciamiento a que se refiere el artículo siguiente;
 
-III. Exponer los argumentos de defensa que considere necesarios y señalar los medios de prueba que se producirán en la audiencia de debate, en los mismos términos previstos en el artículo 318.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2009)</small>
+
+III. Exponer los argumentos de defensa que considere necesarios y señalar los medios de prueba que se producirán en la audiencia de debate;
 
 IV. Ofrecer los medios de prueba relativos a la individualización de la pena o a la procedencia de sustitutivos de pena de prisión o suspensión de la misma; y
 
@@ -4173,7 +4263,11 @@ Si el acusado no concurre a la audiencia de acuerdos o no se produce ésta o la 
 
 Procedencia.
 
-El procedimiento abreviado se tramitará a solicitud del Ministerio Público y del imputado, cuando éste admita ante la autoridad judicial el hecho que se le atribuye en el escrito de acusación, consienta en la aplicación de este procedimiento y el Ministerio Público o el acusador coadyuvante, en su caso, no presente oposición fundada.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2009)</small>
+
+El procedimiento abreviado se tramitará a solicitud del Ministerio Público o del imputado, cuando éste admita ante la autoridad judicial el hecho que se le atribuye en el escrito de acusación, consienta en la aplicación de este procedimiento y el Ministerio Público o el acusador coadyuvante, en su caso, no presente oposición fundada.
 
 Se entiende por oposición fundada, entre otras, cuando el querellante o denunciante se opone al procedimiento abreviado, en virtud de que haya efectuado una clasificación jurídica de los hechos; atribuido una forma de participación o señalado circunstancias modificatorias de la responsabilidad penal distintas a la sostenida por el Ministerio Público en su acusación y como consecuencia de ello haya una modificación sustancial de la pena. Aún en estos casos, el juez podrá apartarse de dicha solicitud mediante resolución debidamente motivada.
 
@@ -4197,11 +4291,7 @@ Antes de resolver sobre la solicitud del Ministerio Público, el juez verificar�
 
 I. Ha prestado su conformidad al procedimiento abreviado en forma libre, voluntaria e informada y con la asistencia de su defensor;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
-
-II. Conoce su derecho a exigir un juicio oral que renuncie voluntariamente a él y acepte ser juzgado con base en los antecedentes recabados en la investigación;
+II. Conoce su derecho a exigir un juicio oral y renuncie voluntariamente a él y acepta ser juzgado con base en los antecedentes recabados en la investigación;
 
 III. Entiende los términos del acuerdo y las consecuencias que éste pudiera implicarle; y
 
@@ -4211,11 +4301,7 @@ IV. Acepta los hechos materia de la acusación en forma inequívoca y de manera 
 
 Resolución sobre la solicitud de procedimiento abreviado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
-
-El Juez de Control aceptará la solicitud de procedimiento abreviado del Ministerio Público o imputado cuando considere actualizados los requisitos correspondientes y existan medios de convicción suficientes para corroborar la acusación. En caso contrario, la rechazará. En este último supuesto, el requerimiento anterior sobre la pena no vinculará al Ministerio Público durante el juicio, se tendrán por no formuladas la aceptación de los hechos por parte del acusado, así como las modificaciones de la acusación efectuadas para posibilitar la tramitación abreviada del procedimiento. De la misma forma, el Juez de Control dispondrá que todos los antecedentes relativos al planteamiento, discusión y resolución de la solicitud, no podrán ser utilizados en etapas posteriores del procedimiento en contra del acusado.
+El Juez de Control aceptará la solicitud de procedimiento abreviado del Ministerio Público o imputado cuando considere actualizados los requisitos correspondientes y existan medios de convicción suficientes para corroborar la imputación. En caso contrario, la rechazará. En este último supuesto, el requerimiento anterior sobre la pena no vinculará al Ministerio Público durante el juicio; se tendrán por no formuladas la aceptación de los hechos por parte del acusado, así como las modificaciones de la acusación efectuadas para posibilitar la tramitación abreviada del procedimiento. De la misma forma, el Juez de Control dispondrá que todos los antecedentes relativos al planteamiento, discusión y resolución de la solicitud, no podrán ser utilizados en etapas posteriores del procedimiento en contra del acusado.
 
 ###### Artículo 422.
 
@@ -4229,11 +4315,7 @@ Sentencia en el procedimiento abreviado.
 
 Terminado el debate, el juez emitirá su fallo sobre la culpabilidad o absolución en la misma audiencia y deberá dar lectura pública a la sentencia, dentro de un plazo de cuarenta y ocho horas. En caso de ser sentencia de culpabilidad, no podrá imponer una pena superior a la solicitada por el Ministerio Público. Y en su caso, abrirá debate sobre la concesión de la condena condicional y se pronunciará sobre la misma.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
-
-Cuando la prueba producida no permita establecer con certeza el monto de los daños y perjuicios o de las indemnizaciones correspondientes, el tribunal podrá establecer genéricamente la reparación del daño y los perjuicios y ordenar que se liquiden en ejecución de sentencia por vía incidental, siempre que éstos se hayan demostrado, así como su deber de repararlos.
+Cuando la prueba producida no permita establecer con certeza el monto de los daños y perjuicios o de las indemnizaciones correspondientes, el tribunal podrá establecer genéricamente la reparación del daño y los perjuicios y ordenar que se liquiden en ejecución de sentencia por vía incidental, siempre que estos se hayan demostrado, así como su deber de repararlos.
 
 En ningún caso el procedimiento abreviado obstará a la concesión de alguna de las medidas alternativas consideradas en la ley, cuando corresponda.
 
@@ -4771,7 +4853,11 @@ I. El sentenciado;
 
 II. El cónyuge, concubina o concubinario, parientes consanguíneos o civiles dentro del tercer grado o dentro del segundo, si es de afinidad y el heredero declarado judicialmente, si el sentenciado ha fallecido; y
 
-III. El Ministerio Público.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2009)</small>
+
+III. El defensor del sentenciado.
 
 ###### Artículo 476.
 
@@ -5096,3 +5182,19 @@ C.P. ISMAEL ALFREDO HERNÁNDEZ DERAS.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 21 DE JUNIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, y comenzará su vigencia, De conformidad con el contenido del artículo segundo transitorio del presente decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+La presente Ley entrará en vigor una vez que se publique en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, la Declaratoria que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, respecto de la vigencia del Código Procesal Penal del Estado de Durango.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
