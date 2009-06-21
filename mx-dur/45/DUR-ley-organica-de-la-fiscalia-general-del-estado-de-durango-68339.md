@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-fiscalia-general-del-estado-de-durango-68339
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-02-26"
-last_updated: "2009-02-26"
+last_updated: "2009-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 26 de febrero de 2009.
 
@@ -375,9 +375,11 @@ En cualquier momento, el Procurador podrá determinar, como medida provisional, 
 
 Si el servidor público suspendido conforme a este precepto no resultare responsable, será restituido en el goce de sus derechos y se le cubrirán las percepciones que debiera haber recibido durante el tiempo que se hallara suspendido.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2009)</small>
+
 ###### Artículo 28.
 
-Los servidores públicos de la Procuraduría, los Agentes del Ministerio Público, sus secretarios, agentes y personal operativo de la Agencia Estatal de Investigación y peritos, que estén sujetos a proceso penal como probables responsables de algún delito, serán separados de sus cargos y suspendidos de sus derechos, desde que se dicte el auto de formal prisión o sujeción a proceso y hasta que se pronuncie sentencia ejecutoriada. En caso de que ésta fuere condenatoria serán destituidos en forma definitiva del cargo; si por el contrario, fuese absolutoria, se les restituirá.
+Los servidores públicos de la Procuraduría, los Agentes del Ministerio Público, sus secretarios, agentes y personal operativo de la Agencia Estatal de Investigación y peritos, que estén sujetos a proceso penal como probables responsables de algún delito, serán separados de sus cargos y suspendidos de sus derechos, desde que se dicte el auto de vinculación a proceso y hasta que se pronuncie sentencia ejecutoriada. En caso de que ésta fuere condenatoria serán destituidos en forma definitiva del cargo; si por el contrario, fuese absolutoria, se les restituirá.
 
 Cuando el servidor público obtuvo sentencia absolutoria y hubiere obrado en defensa del titular, o de los intereses de la procuraduría, se le restituirá en su trabajo y se le pagarán los salarios que hubiere dejado de percibir.
 
@@ -531,7 +533,9 @@ Los demás funcionarios y servidores públicos de la Procuraduría serán nombra
 
 En la designación del personal auxiliar del Ministerio Público, de la Agencia Estatal de Investigación y de los Servicios Periciales de la Procuraduría, se atenderá a las siguientes disposiciones:
 
-Para ser Agente del Ministerio Público se requiere:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2009)</small>
+
+Para ser auxiliar del Ministerio Público se requiere:
 
 I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
 
@@ -772,3 +776,15 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE JUNIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
