@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2009-06-17"
+last_updated: "2009-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO PENAL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2009.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -2247,7 +2247,7 @@ VIII.- Declare falsamente el fallecimiento de una persona en el acta respectiva.
 
 ### CAPITULO I. CORRUPCION Y EXPLOTACION DE MENORES E INCAPACES, PORNOGRAFIA INFANTIL, PROSTITUCION DE MENORES Y TURISMO SEXUAL
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 245.
 
@@ -2475,17 +2475,25 @@ Las mismas penas se aplicarán al que sin tener título o autorización para eje
 
 ###### ARTICULO 273.
 
-Al que procure o facilite la corrupción de un menor de dieciocho años de edad o de quien no tenga capacidad para comprender el significado del hecho, mediante actos encaminados a su perversión sexual, o impulsándolo a la práctica de la prostitución, la mendicidad o al consumo de bebidas embriagantes; lo estimule o induzca a formar parte de una asociación delictuosa, a pertenecer a la delincuencia organizada o a cometer cualquier delito, se le impondrá de cinco a doce años de prisión y de quinientos a setecientos días multa, y se le inhabilitará para ser tutor o curador.
+Al que procure o facilite la corrupción de un menor de dieciocho años de edad o de quien no tenga capacidad para comprender el significado del hecho, mediante actos encaminados a su perversión sexual, o impulsándolo a la práctica de la prostitución, la mendicidad; o bien al consumo de bebidas embriagantes, permitiendo la venta de éstas o suministrándoselas de cualquier forma; lo estimule o induzca a formar parte de una asociación delictuosa, a pertenecer a la delincuencia organizada o a cometer cualquier delito, se le impondrá de cinco a doce años de prisión y de quinientos a setecientos días multa, y se le inhabilitará para ser tutor o curador.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 Al que induzca, fomente, procure, propicie, posibilite, promueva, favorezca o facilite el consumo de narcóticos por un menor de dicha edad o, de cualquier forma le haga entrega de los mismos, se le impondrá de seis a catorce años de prisión y de setecientos a mil días multa, sin perjuicio de las consecuencias jurídicas que pudieran corresponderle si resultare la comisión de otros delitos.
 
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+Al que introduzca, fomente, procure, favorezca, incite, facilite o permita a menores de dieciocho años de edad, el uso de cualquier máquina de juegos de azar en las cuales el resultado dependa de la suerte y no de la destreza o del conocimiento y cuyo fin sea la obtención inmediata de un premio en numerario, se le impondrá de tres a seis años de prisión y de setecientos a mil días multa, sin perjuicio de las consecuencias jurídicas que pudieran corresponderle si resultare la comisión de otros delitos.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 Si el delito es cometido con un menor de doce años de edad, las penas se aumentarán hasta en una mitad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 274.
 
-Al que emplee a menores de dieciocho años de edad en cantinas, tabernas o cualquier otro centro de vicio, se le impondrá prisión de dos a cinco años y de doscientos a quinientos días multa, y además, se sancionará con cierre definitivo del establecimiento.
+Al que emplee a menores de dieciocho años de edad en cantinas, tabernas, establecimientos que cuenten con máquinas de juegos de azar cuyo resultado es la obtención inmediata de un premio en numerario, o cualquier otro centro de vicio, se le impondrá prisión de dos a cinco años y de doscientos a quinientos días multa, y además, se sancionará con cierre definitivo del establecimiento.
 
 A los padres o tutores que acepten que los menores sujetos a su patria potestad, custodia o tutela, se empleen en los referidos establecimientos, se les impondrá prisión de seis meses a dos años y se les privará, suspenderá o inhabilitará hasta por cinco años en el ejercicio de aquellos derechos y, en su caso, del derecho a los bienes del ofendido.
 
@@ -3646,3 +3654,9 @@ DECRETO NÚMERO 333, POR EL QUE SE ADICIONA ARTÍCULO 242 BIS DEL CÓDIGO PENAL 
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 22 DE JUNIO DE 2009.
+
+###### ARTICULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
