@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-las-personas-con-discapacidad-en-el-62217"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-30"
-last_updated: "2008-06-30"
+last_updated: "2009-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA LAS PERSONAS CON DISCAPACIDAD EN EL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2009.
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el lunes 30 de junio de 2008.
 
@@ -95,17 +95,27 @@ XV. Equiparación de Oportunidades: Proceso de adecuaciones, ajustes y mejoras n
 
 XVI. Estimulación Temprana: Atención brindada al niño de entre 0 y 6 años para potenciar y desarrollar al máximo sus posibilidades físicas, intelectuales, sensoriales y afectivas, mediante programas sistemáticos y secuenciados que abarquen todas las áreas del desarrollo humano, sin forzar el curso natural de su maduración;
 
-XVII. Municipio: Municipio de San Pedro Garza García, Nuevo León;
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2009)</small>
 
-XVIII. Persona con discapacidad: Toda persona que presenta una discapacidad física, mental o sensorial, ya sea de naturaleza permanente o temporal, que limita la capacidad de ejercer una o más actividades esenciales de la vida, que puede ser causada o agravada por el entorno económico y social;
+XVII. Ley: Ley de Personas con Discapacidad en el Estado de Nuevo León;
 
-XIX. Prevención: La adopción de medidas encaminadas a impedir o aplazar que se produzcan deficiencias físicas, intelectuales, mentales y sensoriales en el individuo;
+XVIII. Municipio: Municipio de San Pedro Garza García, Nuevo León;
 
-XX. Rehabilitación: Proceso de duración limitada y con un objetivo definido, de orden médico, social y educativo entre otros, encaminado a facilitar que una persona con discapacidad alcance un nivel físico, mental y sensorial óptimo, que permita compensar la pérdida o recuperar total o parcialmente una función, así como proporcionarle una mejor integración social;
+XIX. Persona con discapacidad: Toda persona que presenta una discapacidad física, mental o sensorial, ya sea de naturaleza permanente o temporal, que limita la capacidad de ejercer una o más actividades esenciales de la vida, que puede ser causada o agravada por el entorno económico y social;
 
-XXI. Sociedad Civil Organizada: Todas aquellas personas jurídicas que promueven la integración de personas con discapacidad en la sociedad;
+XX. Prevención: La adopción de medidas encaminadas a impedir o aplazar que se produzcan deficiencias físicas, intelectuales, mentales y sensoriales en el individuo;
 
-XXII. Vida Independiente: La capacidad del individuo para ejercer decisiones sobre su propia existencia y participación en el entorno social.
+XXI. Rehabilitación: Proceso de duración limitada y con un objetivo definido, de orden médico, social y educativo entre otros, encaminado a facilitar que una persona con discapacidad alcance un nivel físico, mental y sensorial óptimo, que permita compensar la pérdida o recuperar total o parcialmente una función, así como proporcionarle una mejor integración social;
+
+XXII. Sociedad Civil Organizada: Todas aquellas personas jurídicas que promueven la integración de personas con discapacidad en la sociedad;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
+
+XXIII. Vida Independiente: La capacidad del individuo para ejercer decisiones sobre su propia existencia y participación en el entorno social; y
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2009)</small>
+
+XXIV. Perro de asistencia: Aquel que habiendo pasado pruebas de selección física, genética y sanitaria, ha concluido su adiestramiento en el Comité Estatal para la Certificación de Perros de Asistencia, y adquirido las aptitudes y destrezas necesarias para la compañía, conducción y auxilio de personas con discapacidad, debiendo estar acreditados e identificados de la forma establecida en la Ley de Personas con Discapacidad del Estado de Nuevo León.
 
 ###### Artículo 3.
 
@@ -214,6 +224,14 @@ III. Que las personas con discapacidad en su calidad de pacientes, sus represent
 ###### Artículo 13.
 
 Las personas físicas o morales que apoyen o promuevan la integración en el ámbito laboral, social, cultural y deportivo de personas con discapacidad, serán sujetos a recibir la medalla al mérito cuidadano (sic), conforme lo establece el Reglamento que crea la medalla al mérito ciudadano "Mónica Rodríguez" del Municipio de San Pedro Garza García, Nuevo León.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+Artículo 13 bis.- Con el objeto de lograr que la aceptación social y cultural de las personas con discapacidad acompañadas de perros de Asistencia sea total y efectiva, la autoridad municipal, junto a las organizaciones de la sociedad civil interesadas, promoverá y llevará a cabo campañas informativas orientadas de manera especial a sectores como la hotelería, comercio, escuelas, transporte y servicios públicos; igualmente desarrollará otras de orden educativo dirigidas a la población en general.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+Artículo 13 bis 1.- En Coordinación con el Gobierno del Estado, se promoverá y llevará a cabo campañas de adiestramiento como perros de asistencia, de animales que se encuentren en albergues de asociaciones protectoras de animales; siempre y cuando sus características físicas y de obediencia permitan su adiestramiento como perros de asistencia.
 
 ### Capítulo III. De la Educación
 
@@ -325,11 +343,133 @@ Cuando las disposiciones de este reglamento comprendan materias y acciones que i
 
 Corresponde a la Autoridad Municipal establecer en el presupuesto de egresos para el Municipio las partidas específicas para el desarrollo, impulso, promoción y ejecución de las políticas públicas municipales, en materia de personas con discapacidad.
 
+> <small>(ADICIONADO CON LOS ARTICULO QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 2009)</small>
+
+### Capítulo XII. De los Perros de Asistencia para Personas con Discapacidad
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+Artículo 28 bis.- Se reconoce de interés público, que toda persona con discapacidad pueda disponer de un perro de asistencia; igualmente se reconoce su derecho al acceso, recorridos y permanencia junto con éste, en todos los lugares, locales y demás espacios de uso público, así como su viaje en transportes públicos, en uso de su derecho de libre tránsito, en condiciones de igualdad con el resto de los habitantes del Municipio.
+
+El acceso del perro de asistencia a los lugares con pago de entrada o de peaje que precisa la Ley no Implicará pago adicional, salvo que su movilización constituya la prestación de un servicio agregado.
+
+Los perros de asistencia que deriven de programas de entrenamiento gubernamentales o de apoyo asistencial serán donados a los usuarios de escasos recursos que así lo requieran, o bien cubiertos con aportaciones mínimas. Las instancias de asistencia social del Gobierno del Estado procurarán convocar a instituciones públicas y privadas, tanto nacionales como extranjeras, para formar fondos de apoyo a estas actividades.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+Artículo 28 bis 1.- Una vez reconocida la condición de perro de asistencia, se mantendrá ésta a lo largo de su vida, salvo que se presente alguna causa de las previstas en el Artículo 28 BIS 7.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+Artículo 28 bis 2.- Para los efectos de lo establecido en el Artículo 28 BIS, tendrán la categoría de lugares de libre acceso a las personas con discapacidad en compañía de sus perros da Asistencia, los previstos en la Ley.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+Artículo 28 bis 3.- Todo perro da asistencia deberá ser acreditado por el Comité Estatal para la Certificación de Perros de Asistencia.
+
+La acreditación se concederá previa comprobación de que el perro reúne las condiciones higiénico-sanitarias, de adiestramiento y de aptitud para auxiliar a personas con discapacidad.
+
+Los reconocimientos otorgados por otras entidades y países, a perros de asistencia, serán revalidados por el Comité.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+Artículo 28 bis 4.- La condición de perro de asistencia se reconocerá, y procederá a su acreditación siempre que se justifique:
+
+I. Que está en un centro oficialmente autorizado por el Comité de Certificación, para la práctica de perros de asistencia;
+
+II. Que cumple la normativa sanitaria vigente y lo previsto en el Artículo 28 Bis 7 de este Reglamento;
+
+III. Que está vinculado a un trabajo de asistencia a la persona que lo usa para los fines previstos en el presente Reglamento; y
+
+IV. Que ayude a disminuir los efectos de la discapacidad de su propietario.
+
+El reconocimiento de la condición de perro de asistencia se efectuará por el comité antes mencionado y se mantendrá durante toda la vida del perro de asistencia, con las excepciones señaladas en esta Ley.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+Artículo bis 5.- Los perros de asistencia se hallarán identificados, mediante la colocación, en lugar visible, del distintivo que le otorgue el Comité Estatal para la Certificación de Perros de Asistencia.
+
+También deberá estar identificados permanentemente mediante microchip, según acuerde el Comité.
+
+El usuario del perro de asistencia, previo requerimiento, deberá exhibir su identificación que lo acredite como la persona autorizada para el uso del perro de asistencia, expedida por el Comité, así como documentación que acredite las condiciones sanitarias que se mencionan en el artículo siguiente.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+Artículo 28 bis 6.- Además de cumplir las obligaciones sanitarias que se deben satisfacer como animales domésticos, los poseedores de perros de asistencia deberán cumplir las siguientes con relación al animal:
+
+I. Una inspección veterinaria donde se demuestre que no padece ninguna enfermedad transmisible al hombre;
+
+II. Estar vacunado contra la rabia, recibir los tratamientos periódicos y practicarse las pruebas clínicas que instruya el Comité; y
+
+III. Todas aquellas que reglamentariamente se determinen.
+
+Los propietarios o poseedores de estos animales quedan obligados al cumplimiento de las condiciones referidas, mismas que se acreditarán mediante certificación expedida por Médico Veterinario. Tratándose de personas de escasos recursos, se procederá conforme lo establece la Ley.
+
+Para mantener la condición de perro de asistencia, será necesario un reconocimiento anual, debiéndose acreditar en el mismo el cumplimiento de las condiciones a que se refiere este artículo, mismo que podrá obtenerse con Medito Veterinario Titulado.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+Artículo 28 bis 7.- El perro de asistencia perderá su condición, por alguno de los siguientes motivos:
+
+l. Por dejar de prestar asistencia a una persona con discapacidad;
+
+II. Por manifiesta incapacidad en el desempeño de las funciones para las que fue entrenado;
+
+III Por manifestar comportamiento agresivo s violento; o
+
+IV. Por incumplir las condiciones referidas en la Ley y en los reglamentos que para tal efecto se expidan.
+
+Para poder acreditar las causas contenidas en las fracciones II, III y IV se requerirá certificado de veterinario en ejercicio.
+
+La pérdida de la condición de perro de asistencia, se declarara por el mismo órgano o entidad que la otorgó, quien procederá igualmente a la revocación de la acreditación.
+
+Cuando alguno de los motivos señalados sea temporal, se determinará la suspensión provisional de la condición de perro de asistencia por un periodo máximo de seis meses. Transcurrido dicho plazo sin que se modifique la situación, se procederá a declarar la pérdida de la condición de perro de asistencia.
+
+El usuario que no desee seguir con la posesión de un peno de asistencia deberá notificarlo al Comité para su reasignación.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+Artículo 28 bis 8.- El derecho de acceso a que se refiere el Artículo 28 BIS de este Reglamento comprende, también la permanencia ilimitada y constante del perro de asistencia Junto al usuario.
+
+No obstante lo dispuesto en el párrafo anterior, el usuario del perro de asistencia no podrá ejercitar los derechos reconocidos en el presente Reglamento, cuando concurra alguna de las siguientes circunstancias:
+
+a) En caso de grave peligro inminente para el usuario, para tercera persona o para el propio perro de asistencia; y
+
+b) cuando el animal presente síntomas de enfermedad visibles o heridas que por su tamaño o aspecto supongan un presumible riesgo para las personas o se evidencie la falta de aseo o de atención.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+Artículo 28 bis 9.- La persona usuaria de un perro de asistencia deberá cumplir con las obligaciones que señala la normativa vigente y, en particular, con las siguientes:
+
+l. Mantener al perro a su lado, con la correa y arnés que en su caso sea necesario, en los lugares, establecimientos y transportes a que se refiere este Reglamento;
+
+II. Llevar Identificado de forma visible al perro de asistencia, de acuerdo con lo previsto en el Artículo 28 BIS V de éste Reglamento, llevando consigo y exhibir la documentación sanitaria, cuando sea requerido pan ello;
+
+III. Utilizar al perro de asistencia para aquellas funciones para las que fue entrenado, atendiendo siempre a las normas de higiene y seguridad en los lugares públicos o de uso público, en la medida en que su deficiencia visual o discapacidad le permita;
+
+IV. Cumplir y hacer que los demás cumplan los principios de respeto, defensa, convivencia pacífica y protección del perro de asistencia;
+
+Garantizar el adecuado nivel de bienestar e higiene del peno de asistencia, a efecto de proporcionarle una buena calidad de vida.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+Artículo 28 bis 10.- El incumplimiento de lo dispuesto en el presente Reglamento con relación al libre acceso de personas con discapacidad y sus perros de asistencia a los lugares, aquí mencionados, constituye infracción administrativa y será sancionado conforme disponen los Reglamentos de la materia y sus respectivos medios de defensa.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+Artículo 28 bis 11.- Son sujetos responsables de las infracciones administrativas las personas físicas o morales que realicen, directa o indirectamente, las acciones u omisiones señaladas en el presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+Artículo 28 bis 12.- Serán responsables solidarios las personas físicas o morales, propietarias del establecimiento, de la concesión, licencia o permiso del que sea empleado o dependiente la persona infractora.
+
 ## Título Tercero. Del Consejo
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2009)</small>
 
 ###### Artículo 29.
 
-El Ayuntamiento, a propuesta del Presidente Municipal, creará un Consejo, cuyos integrantes tendrán un período de cuatro años con posibilidad de que sean reelectos, de conformidad con lo establecido en este capítulo, con el propósito de servir como órgano de consulta, coordinar acciones entre las diferentes entidades del municipio, planear y promover las políticas públicas que impulsen el desarrollo e integración social de las personas con discapacidad.
+El Republicano Ayuntamiento, a propuesta del Presidente Municipal, creará un Consejo, cuyos integrantes tendrán un periodo de cuatro años con posibilidad de que sean reelectos, de conformidad con lo establecido en este capítulo, con el propósito de servir como órgano de consulta, coordinar acciones entre las diferentes entidades del municipio, planear y promover las políticas públicas que impulsen el desarrollo e integración social de las personas con discapacidad.
 
 ###### Artículo 30.
 
@@ -446,3 +586,11 @@ PRESIDENTE MUNICIPAL
 LIC. MA. EMILDA ORTIZ CABALLERO
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE JUNIO DE 2009.
+
+Artículo Primero.- Las presentes Reformas por Modificación y Adición al Reglamento para Personas con Discapacidad en el Municipio de San Pedro Garza García, Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se deroga cualquier disposición que contravenga lo dispuesto en las presentes Reformas.
