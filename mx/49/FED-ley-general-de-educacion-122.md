@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-educacion-122"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-13"
-last_updated: "2009-04-17"
+last_updated: "2009-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 13 de julio de 1993.
 
@@ -546,7 +546,17 @@ La educación especial está destinada a individuos con discapacidades transitor
 
 Tratándose de menores de edad con discapacidades, esta educación propiciará su integración a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos. Para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva, para lo cual se elaborarán programas y materiales de apoyo didácticos necesarios.
 
-Esta educación incluye orientación a los padres o tutores, así como también a los maestros y personal de escuelas de educación básica regular que integren a alumnos con necesidades especiales de educación.
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2009)</small>
+
+Para la identificación y atención educativa de los alumnos con capacidades y aptitudes sobresalientes, la autoridad educativa federal, con base en sus facultades y la disponibilidad presupuestal, establecerá los lineamientos para la evaluación diagnóstica, los modelos pedagógicos y los mecanismos de acreditación y certificación necesarios en los niveles de educación básica, educación normal, así como la media superior y superior en el ámbito de su competencia. Las instituciones que integran el sistema educativo nacional se sujetarán a dichos lineamientos.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2009)</small>
+
+Las instituciones de educación superior autónomas por ley, podrán establecer convenios con la autoridad educativa federal a fin de homologar criterios para la atención, evaluación, acreditación y certificación, dirigidos a alumnos con capacidades y aptitudes sobresalientes.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2009)</small>
+
+La educación especial incluye la orientación a los padres o tutores, así como también a los maestros y personal de escuelas de educación básica regular que integren a los alumnos con necesidades especiales de educación.
 
 ###### ARTICULO 42.
 
@@ -1133,3 +1143,9 @@ D.O.F. 17 DE ABRIL DE 2009.
 DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 2, 7, 30, 32, 33, 41 Y 49 DE LA LEY GENERAL DE EDUCACION.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE JUNIO DE 2009.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La autoridad educativa federal emitirá, en un plazo máximo de doce meses, a partir de la entrada en vigor del presente Decreto, los lineamientos necesarios para la detección, atención pedagógica y certificación de estudios para los alumnos con capacidades sobresalientes en los tres niveles de la educación básica y en las modalidades de media superior y superior en el ámbito de su competencia.
