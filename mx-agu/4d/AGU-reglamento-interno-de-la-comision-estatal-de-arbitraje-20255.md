@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interno-de-la-comision-estatal-de-arbitraje-20255"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-01-15"
-last_updated: "2001-01-15"
+last_updated: "2009-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERNO DE LA COMISION ESTATAL DE ARBITRAJE MEDICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 15 de enero de 2001.
 
@@ -55,17 +55,25 @@ Son atribuciones de la Comisión las que expresamente señala el Artículo 9o. d
 
 ### CAPITULO SEGUNDO. De la Organización y Estructura de la Comisión
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 4o.
 
-Para el desarrollo y cumplimiento de las funciones y atribuciones que corresponden a la Comisión ésta contará en términos de su Ley con los siguientes órganos de decisión y administración:
+Para el desarrollo y cumplimiento de las funciones y atribuciones que corresponden a la Comisión, ésta contará en términos de su ley con los siguientes órganos de decisión y administración:
 
 I. Un Consejo.
 
 II. Un Comisionado.
 
-III. Un Sub-Comisionado, y Secretario Técnico del Consejo.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
+
+III. Un Sub-Comisionado Jurídico y Un Sub-Comisionado Médico.
 
 IV. Las Unidades Administrativas que se precisan en, el presente ordenamiento.
+
+> <small>(ADICIONADO, G.G. 22 DE JUNIO DE 2009)</small>
+
+El Secretario Técnico de la Comisión será el Sub-Comisionado Jurídico.
 
 ###### ARTICULO 5o.
 
@@ -167,17 +175,23 @@ IV. Suscribir las actas en las que se dé cuenta de las sesiones del Consejo; y
 
 V. Las demás que les confieran otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 17.
 
-Son facultades del Sub-Comisionado como Secretario Técnico de Consejo:
+Son facultades del Sub-Comisionado Jurídico como Secretario Técnico del Consejo:
 
 l. Llevar el registro de los nombramientos de los Consejeros.
 
 II. Convocar, por instrucciones del Presidente del Consejo, con cuando menos cinco días hábiles de anticipación las sesiones ordinarias, y las extraordinarias, con cuando menos veinticuatro horas de antelación;
 
-III. Remitir, junto con la Convocatoria y el Orden del Día, a los Consejeros y, en su caso, a los servidores públicos que habrán de asistir a las sesiones, la documentación necesaria para su buen desarrollo;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
 
-IV. Llevar el libro de actas del Consejo, en las que deberán, asentarse las intervenciones de los presentes en cada sesión, así como los acuerdos que se hayan tomado;
+III. Remitir, junto con la Convocatoria y el Orden del Día, a los Consejeros y en su caso a los servidores públicos que habrán de asistir a las sesiones, la documentación necesaria para su buen desarrollo;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
+
+IV. Llevar el libro de actas del Consejo, en las que deberán asentarse las intervenciones de los presentes en cada sesión, así como los acuerdos que se hayan tomado;
 
 V. Dar seguimiento a los acuerdos emanados del Consejo;
 
@@ -311,7 +325,9 @@ XIII. Practicar investigaciones sobre los actos de los servidores públicos que 
 
 XIV. Las demás que le señale el Comisionado, necesarias para, el mejor cumplimiento de sus funciones.
 
-### CAPITULO SEXTO. De las Facultades Genéricas del Sub-Comisionado y Secretario de la Comisión
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JUNIO DE 2009)</small>
+
+### CAPITULO SEXTO. De las Facultades Genéricas del Sub-Comisionado Jurídico y Secretario de la Comisión y del Sub-Comisionado Médico
 
 ###### ARTICULO 23.
 
@@ -357,6 +373,38 @@ XIX. Hacer del conocimiento de las autoridades competentes la presumible Comisi�
 
 XX. Las demás que las disposiciones legales confieran a la Comisión y que le encomiende el Comisionado, siempre que correspondan a las unidades administrativas que les adscriba, excepto en los casos en que por disposición legal, deban ser ejercidas por los titulares de ellas de manera directa.
 
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+ARTICULO 23 BIS. Corresponde al Sub-Comisionado Médico de la Comisión el ejercicio de las siguientes facultades:
+
+I.- Asesorar al Comisionado en los asuntos de carácter médico que se sometan a su consideración;
+
+II.- Proponer al Comisionado medidas tendientes al mejoramiento operativo de la Comisión;
+
+III.- Desempeñar los encargos que el Comisionado le encomiende y representar a la Comisión en los actos que éste determine por acuerdo expreso;
+
+IV.- Suscribir los documentos relativos al ejercicio de las facultades que les otorgue el presente ordenamiento, delegadas, autorizadas o cuando les correspondan por suplencia;
+
+V.- Participar con voz informativa en el trámite de las quejas que se presenten ante el Consejo;
+
+VI.- Admitir o rechazar las quejas presentadas respecto de la presunta irregularidad en la prestación o negativa de servicios médicos;
+
+VII.- Investigar y analizar los hechos presumiblemente atribuidos a los prestadores de servicios médicos, en los términos de las quejas presentadas, así como solicitar la información necesaria;
+
+VIII.- Tramitar los procedimientos de conciliación y arbitraje;
+
+IX.- Proponer a las partes el procedimiento de arbitraje en los casos no conciliados;
+
+X.- Proporcionar la información, datos y cooperación técnica que soliciten otras dependencias y entidades de la Administración Pública Federal, de conformidad con las instrucciones que al efecto gire el Comisionado;
+
+XI.- Establecer los medios de comunicación adecuados con las instituciones públicas y privadas, prestadoras de los servicios médicos, así como con academias y colegios de profesionales de la medicina y disciplinas vinculadas al objeto de la COESAMED;
+
+XII.- Elaborar, actualizar y supervisar el sistema de información y estadística de la COESAMED;
+
+XIII.- Elaborar los proyectos de las opiniones médicas o técnicas que se emitan en todos aquellos casos en que no se resuelva la queja mediante la conciliación; y.
+
+XIV.- Las demás que le sean conferidas en este Reglamento Interno y otras disposiciones legales y reglamentarias aplicables, así como aquellas que le confiera el Comisionado.
+
 ###### ARTICULO 24.
 
 Corresponde a los titulares de las unidades administrativas, el ejercicio de las siguientes atribuciones genéricas:
@@ -385,11 +433,15 @@ XI. Establecer, coordinar y supervisar las políticas, normas, sistemas y proced
 
 XII. Las demás que las disposiciones legales y administrativas le confieran, y que les encomiende el Comisionado.
 
-### CAPITULO SEPTIMO. De las Atribuciones Específicas del Sub-Comisionado y Secretario de la Comisión y Demás Unidades Administrativas
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JUNIO DE 2009)</small>
+
+### CAPITULO SEPTIMO. De las Atribuciones Específicas del Sub-Comisionado Jurídico y Secretario de la Comisión y demás Unidades Administrativas
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 25.
 
-Corresponde al Sub-Comisionado y Secretario de la Comisión el ejercicio de las siguientes facultades y obligaciones:
+Corresponde al Sub-Comisionado Jurídico el ejercicio de las siguientes facultades y Obligaciones:
 
 I. Instar a las partes involucradas en la queja a llegar a la conciliación;
 
@@ -397,7 +449,7 @@ II. Proponer a las partes el arbitraje de la Comisión, como medida para dirimir
 
 III. Sustanciar el procedimiento de arbitraje;
 
-IV. Realizar las investigaciones y estudios que requiera el análisis de la queja, a efecto de someter a consideración del Comisionado el proyecto de Iaudo o resolución que corresponda;
+IV. Realizar las investigaciones y estudios que requiera el análisis de la queja, a efecto de someter a consideración del Comisionado el proyecto de laudo o resolución que corresponda;
 
 V. Orientar a los usuarios sobre las instancias competentes para resolver conflictos derivados de servicios médicos prestados por quienes carecen de título o cédula profesional;
 
@@ -484,3 +536,9 @@ TRANSITORIO:
 UNICO: El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Dado en la sede del Consejo Directivo de la Comisión Estatal de Arbitraje Médico en sesión ordinaria celebrada el diez de noviembre de 1999. Siendo aprobado por unanimidad.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE JUNIO DE 2009.
+
+UNICO. - Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
