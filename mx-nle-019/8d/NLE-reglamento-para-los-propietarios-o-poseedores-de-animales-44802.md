@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-los-propietarios-o-poseedores-de-animales-44802
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-04-13"
-last_updated: "2005-04-13"
+last_updated: "2009-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA LOS PROPIETARIOS O POSEEDORES DE ANIMALES DOMESTICOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 13 de abril de 2005.
 
@@ -107,6 +107,10 @@ Perro aullador: Aquel que tiene por costumbre aullar infatigablemente, causando 
 
 Perro casero: El que se encuentra dentro del domicilio y porta una identificación.
 
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+Perro de asistencia: Aquel que habiendo pasado pruebas de selección física, genética y sanitaria, ha concluído su adiestramiento en el Comité Estatal para la Certificación de Perros de Asistencia, y adquirido las aptitudes y destrezas necesarias para la compañía, conducción y auxilio de personas con discapacidad, debiendo estar acreditados e identificados de la forma establecida en la Ley de Personas con Discapacidad del Estado de Nuevo León.
+
 Perro de combate: El que se ha adiestrado para combatir a otros animales.
 
 Perro de compañía: El que comparte su vida con el ser humano, principalmente con niños o con ancianos que viven solos.
@@ -133,7 +137,9 @@ Reglamento: Reglamento para los Propietarios o Poseedores de Animales Doméstico
 
 Ruido Constante: Emisión de sonidos de un animal, que puede ser percibido fuera del predio del propietario o poseedor, por períodos intermitentes de 10-diez minutos o más, en forma constante.
 
-Secretaría: La Secretaría de Promoción Humana o a la que competa conocer los asuntos de Municipio Saludable, de conformidad con lo dispuesto por el Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+Secretaría: La Secretaría de Desarrollo Social y Humano o a la que competa conocer los asuntos de Municipio Saludable, de conformidad con lo dispuesto por el Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León.
 
 Sujetador: Tubo largo con un lazo ajustable en el que se introduce la cabeza del animal sujetándolo sin estrangular.
 
@@ -153,13 +159,17 @@ La vigilancia epidemiológica de la rabia así como de otras enfermedades consid
 
 La Ley Estatal de Salud, la Ley Estatal de Protección a los Animales, el Código de Procedimientos Civiles Vigente en el Estado, serán aplicados supletoriamente en lo conducente, en ese orden respectivamente y en todo aquello que no se encuentre previsto en el presente Reglamento.
 
+(REUBICADO, P.O. 22 DE JUNIO DE 2009)
+
 ###### Artículo 5.
 
 Son Autoridades competentes para conocer y aplicar las disposiciones del presente Reglamento.
 
 I. Presidente Municipal;
 
-II. Secretaría de Promoción Humana o aquella a la que corresponda conocer de la materia de Municipio saludable; y,
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
+
+II. Secretaría de Desarrollo Social y Humano o la que competa conocer los asuntos de Municipio Saludable, de conformidad con lo dispuesto por el Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León;
 
 III. Coordinación de Municipio Saludable.
 
@@ -177,7 +187,9 @@ A) Verificar el cumplimiento del presente Reglamento.
 
 B) Promover la responsabilidad de la posesión de animales domésticos.
 
-II. Secretaría de Promoción Humana o aquella a la que competa conocer de conformidad con el Reglamento de la Administración Pública Municipal de San Pedro:
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
+
+II. Secretaría de Desarrollo Social y Humano o aquella a la que competa conocer de conformidad con el Reglamento de la Administración Pública Municipal de San Pedro:
 
 A) Verificar el cumplimiento del presente Reglamento.
 
@@ -239,7 +251,9 @@ Todo propietario o poseedor de un animal doméstico, está obligado a proporcion
 
 I. Albergue bajo las siguientes características:
 
-A) Solo se permitirá que se mantengan animales domésticos en las azoteas, cuando exista un lugar donde se les resguarde o proteja de las condiciones climatológicas adversas, y cuente con la limpieza diaria, evitando en todo momento que los ladridos, heces fecales, orines y pelos de los mismos causen molestias, daños o perjuicio a los vecinos aledaños al predio.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+A) Solo se permitirá que se mantengan animales domésticos en las azoteas, cuando exista un lugar donde se les resguarde o proteja de las condiciones climatológicas adversas, y cuente con la limpieza diaria, evitando en todo momento que los ladridos, aullidos, heces fecales, orines y pelos de los mismos causen molestias, daños o perjuicio a los vecinos aledaños al predio.
 
 B) La posesión de uno o más animales no debe de ocasionar molestia para los vecinos.
 
@@ -291,7 +305,9 @@ I. Ser fuente de infección en caso de Zoonosis;
 
 II. Ser huésped intermediario o vehículo que pueda contribuir a la diseminación de enfermedades transmisibles al hombre; y,
 
-III. Provocar molestias que afecten la salud física o mental, justificados ante Autoridad Municipal competente.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
+
+III. Provocar molestias que afecten a los vecinos o a otros animales, justificados ante la autoridad municipal.
 
 ### Capítulo IV
 
@@ -317,9 +333,11 @@ La entrega de animales por parte del Centro de Control Canino y Zoonosis, se rea
 
 De los Animales Considerados Peligrosos.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2009)</small>
+
 ###### Artículo 15.
 
-El poseedor de cualquier animal peligroso por naturaleza, deberá de presentarlo para su registro en el Centro de Control Canino y de Zoonosis, acreditando la aprobación de la Autoridad Estatal competente para la tenencia respectiva dentro de su propiedad.
+El poseedor de cualquier animal considerado como peligroso o agresivo, deberá de presentarlo para su registro en el Centro de Control Canino y de Zoonosis, acreditando la aprobación de la Autoridad Estatal competente para la tenencia respectiva dentro de su propiedad.
 
 ###### Artículo 16.
 
@@ -343,21 +361,57 @@ De los Animales en la Vía Pública.
 
 Los animales que circulen libremente en la vía pública sin la compañía de su propietario, serán capturados y trasladados por el personal del Centro de Control Canino y de Zoonosis, para depositarse en dicho Centro por un período de 5-cinco días hábiles, de conformidad con lo dispuesto por el artículo 29 del presente Reglamento; si en dicho plazo no fuera reclamado por su propietario, se procederá a practicarle la eutanasia, si así lo requiriera, o en su caso a otorgarlo en donación, en términos de lo estipulado por los artículos 30 y 33 de este ordenamiento.
 
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+En caso de presentarse el propietario a reclamar su mascota, deberá firmar una carta responsiva dónde se compromete a no tenerlo suelto en la vía pública, ya que en caso de reincidir no se le entregará dicho animal.
+
 ###### Artículo 19.
 
 Para el caso de que el número de perros, gatos, y otros animales existentes en el Municipio, representen un riesgo sanitario para la comunidad, se regulará su cantidad mediante la captura y posterior eutanasia, en coordinación con la Secretaría Estatal de Salud.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2009)</small>
+
 ###### Artículo 20.
 
-Quien encuentre un animal perdido o abandonado, de cualquier especie, deberá de entregarlo a la Autoridad Municipal, quién actuará en su caso, conforme a lo establecido en la Ley Ganadera del Estado, o cualquier otra legislación aplicable.
+Quien encuentre un animal perdido o abandonado, de cualquier especie, deberá entregarlo o dar aviso a la autoridad municipal correspondiente, quién actuará conforme a lo establecido en la ley Ganadera del Estado o cualquier otra legislación aplicable.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 2009)</small>
+
+### Capítulo VI BIS
+
+De los perros de asistencia para las personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+###### Artículo 20 Bis.
+
+El perro de asistencia será acreditado por el Comité Estatal para la Certificación de Perros de Asistencia, una vez que reúna las condiciones higiénico-sanitarias, de adiestramiento y de aptitud para auxiliar a personas con discapacidad. En caso de que la acreditación deviniere de otras entidades o países, deberá ser revalidada por dicho Comité.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+###### Artículo 20 Bis 1.
+
+Para reconocer la condición de perro de asistencia, deberá cumplirse con lo establecido en el Capítulo XII la Ley de Personas con Discapacidad en el Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+Artículo 20 Bis 1 (SIC).- Los perros de asistencia se identificarán mediante la colocación, en lugar visible, del distintivo que le otorgue el Comité Estatal para la Certificación de Perros de Asistencia. También deberán estar identificados permanentemente mediante microchip, según acuerde el Comité
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+###### Artículo 20 Bis 2.
+
+Además de cumplir con las obligaciones sanitarias que se deben satisfacer como animales domésticos, los poseedores de perros de asistencia deberán cumplir con relación al perro, las siguientes obligaciones:
+
+I. Una inspección veterinaria donde se demuestre que no padece ninguna enfermedad transmisible al hombre;
+
+II. Estar vacunado contra la rabia, recibir los tratamientos periódicos y practicarse las pruebas clínicas que instruya el Comité; y
+
+III. Todas aquellas que reglamentariamente se determinen.
 
 ### Capítulo VII
 
 De la Cría y Reproducción de Animales.
-
-### Capítulo VIII
-
-De los Centros de Control Canino y de Zoonosis.
 
 ###### Artículo 21.
 
@@ -379,9 +433,9 @@ III. Cada criadero deberá contar con un control de producción; y,
 
 IV. En el caso de reproducción de Cánidos, se aplicará lo dispuesto por los artículos 9, fracción I, inciso B y C, fracciones II, III y artículo 10 del presente Reglamento. Para las demás especies, se aplicará lo dispuesto por la Ley Ganadera del Estado, la Ley Estatal de Salud, la Ley Estatal de Protección a los Animales, así como sus respectivos Reglamentos.
 
-### Capítulo IX
+### Capítulo VIII
 
-Vigilancia y Sanciones.
+De los Centros de Control Canino y de Zoonosis.
 
 ###### Artículo 24.
 
@@ -399,11 +453,19 @@ A) Reportes y quejas derivadas de acciones u omisiones de propietarios o poseedo
 
 B) La aplicación de la vacuna antirrábica canina y felina.
 
-C) Observación y seguimiento de animales agresores, así como también del registro de las agresiones de animales.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+C) Observación clínica y seguimiento de animales agresores, así como también del registro de las agresiones de animales.
 
 D) Recibir y otorgar animales en donación.
 
 Así mismo, en caso de considerarlo pertinente, previo acuerdo con la Secretaría Estatal de Salud, o el área competente, se implementarán programas de control de población animai (sic), utilizando las vías de esterilización o sacrificio.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+Perro de asistencia: Aquel que habiendo pasado pruebas de selección física, genética y sanitaria, ha concluido su adiestramiento en el Comité Estatal para la (sic)
+
+(sic) Certificación de Perros de Asistencia, y adquirido las aptitudes y destrezas necesarias para la compañía, conducción y auxilio de personas
 
 ###### Artículo 26.
 
@@ -541,7 +603,9 @@ F) Presentar identificación con fotografía que acredite la personalidad del ci
 
 No serán devueltos a su propietario los animales, que se encuentren bajo las siguientes circunstancias:
 
-A) Haber agredido en la vía pública, siempre y cuando dicho animal se encontrara solo, sin la presencia de su propietario, y sin correa y collar.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+A) Haber agredido en la vía pública, y causando lesiones graves o de consideración, siempre y cuando dicho animal se encontrara solo, sin la presencia de su propietario, y sin correa y collar, o estando el propietario presente, se encontrara sin correa y collar.
 
 B) Si se trata de un animal definido como potencialmente peligroso, y haya agredido en la vía pública.
 
@@ -565,9 +629,9 @@ V. Amarrar a los animales en áreas abiertas o solares particulares, sin ninguna
 
 VI. Actos de usufructo, diversión, entretenimientos o peleas de animales.
 
-### Capítulo X
+### Capítulo IX
 
-Recurso de Inconformidad.
+Vigilancia y Sanciones.
 
 ###### Artículo 39.
 
@@ -729,9 +793,9 @@ II. Arresto hasta por 36-treinta y seis horas.
 
 Serán responsables de las infracciones previstas en el presente Reglamento, los propietarios, poseedores o responsables del animal que participe en la ejecución de las mismas, o que induzca directa o indirectamente a cometerlas. Para el caso que los propietarios o poseedores referidos, sean menores de edad o incapaces, la responsabilidad recaerá en aquellas personas que ejerzan la patria potestad o la tutela respectiva.
 
-### Capítulo XI
+### Capítulo X
 
-De La Denuncia.
+Recurso de Inconformidad.
 
 ###### Artículo 58.
 
@@ -821,6 +885,10 @@ La resolución del recurso se fundará en derecho y examinará todos y cada uno 
 
 La Autoridad podrá dejar sin efectos una sanción de oficio o a petición de parte interesada, cuando se trate de un error manifiesto, o el particular demuestre que ya había dado cumplimiento con anterioridad, a orden expresa de la misma.
 
+### Capítulo XI
+
+De La Denuncia.
+
 ###### Artículo 68.
 
 La persona que tenga conocimiento de la comisión de alguna de las infracciones previstas por el presente Reglamento, o que resulte afectada, tendrá derecho a denunciar a la autoridad competente para que se dé inicio al procedimiento administrativo que corresponda, y se apliquen en su caso las medidas de seguridad y sanciones respectivas.
@@ -852,3 +920,13 @@ PRESIDENTE MUNICIPAL
 LIC. JAVIER MARTIN ZAMBRANO ELIZONDO
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE JUNIO DE 2009.
+
+###### ARTÍCULO PRIMERO
+
+Las presentes Reformas por Modificación y Adición al Reglamento para los Propietarios o Poseedores de Animales Domésticos del Municipio de San Pedro Garza García, Nuevo León, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal, para su difusión.
+
+ARTÍCULO PRIMERO (SIC): Se deroga cualquier disposición Municipal que contravenga lo dispuesto en las presentes Reformas.
