@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gestion-empresarial-y-reforma-regulatoria-del-estado-377
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-25"
-last_updated: "2004-02-25"
+last_updated: "2009-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE GESTION EMPRESARIAL Y REFORMA REGULATORIA DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 25 de febrero de 2004.
 
@@ -79,7 +79,9 @@ Las disposiciones legales en materia de regulación serán claras, sencillas y t
 
 Para los efectos de la presente Ley se entenderá por:
 
-I. CAE: Centro de Atención Empresarial;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
+
+I. CEDE: Centro de Desarrollo Empresarial;
 
 II. Comisión: Comisión Estatal de Gestión Empresarial y Reforma Regulatoria;
 
@@ -101,7 +103,9 @@ X. Secretaría: Secretaría de Desarrollo Económico del Gobierno del Estado;
 
 XI. SSARE: Sistema Sinaloense de Apertura Rápida Empresarial y sus diversas modalidades, consistente en todos aquellos mecanismos tendientes a lograr en el menor tiempo posible la realización de los trámites estatales y municipales de apertura de las empresas; y,
 
-XII. Unidad del CAE: Oficina que ofrece los servicios del Centro de Atención Empresarial ubicada en los Municipios, en otra Dependencia u organismo diferente a la Secretaría.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
+
+XII. URGE: Unidad Rápida de Gestión Empresarial, cuyo objetivo es ofrecer los servicios de Gestión Empresarial en los Municipios, en otras dependencias y organismos.
 
 ###### Artículo 5.
 
@@ -433,7 +437,9 @@ Por cada propietario se designará un suplente. Dicha designación y cualquier c
 
 El Consejo Consultivo sesionará de manera semestral a convocatoria del Presidente o del Vicepresidente.
 
-El Consejo Consultivo, sesionará válidamente con la asistencia de la mitad más uno de la totalidad de sus miembros.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+El Consejo Consultivo sesionará de manera específica y bajo consideración y convocatoria del Presidente o del Vicepresidente.
 
 El Consejo Consultivo funcionará conforme a los términos establecidos en el Reglamento de esta Ley.
 
@@ -449,9 +455,13 @@ Los acuerdos del Consejo Consultivo serán tomados preferentemente por consenso.
 
 La Comisión para el funcionamiento y operación del Programa Estatal de Gestión Empresarial y Reforma Regulatoria, contará con el auxilio de los siguientes instrumentos:
 
-I. El Centro de Atención Empresarial;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
 
-II. Las Unidades del CAE;
+I. El Centro de Desarrollo Empresarial;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
+
+II. Las Unidades URGE;
 
 III. El Sistema Sinaloense de Apertura Rápida Empresarial;
 
@@ -463,19 +473,27 @@ VI. El Registro de Personas Acreditadas; y,
 
 VII. Los demás que determine la Comisión.
 
-### Capítulo Segundo. Del Centro de Atención Empresarial
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JUNIO DE 2009)</small>
+
+### Capítulo Segundo. Del Centro de Desarrollo Empresarial
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2009)</small>
 
 ###### Artículo 29.
 
-Se crea el Centro de Atención Empresarial como instancia para facilitar la gestión de trámites empresariales, y vincular al empresario y al particular con los programas que permitan el aumento de la competitividad y su óptimo desarrollo.
+Se crea el Centro de Desarrollo Empresarial como instancia para la gestión de trámites empresariales, y vincular al empresario y al particular con los programas que permitan el aumento de la competitividad y su óptimo desarrollo.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2009)</small>
 
 ###### Artículo 30.
 
-El CAE brindará servicios de gestión, asesoría, información y orientación de trámites de competencia federal, estatal y municipal; así como de todos los servicios y programas que ofrece la Secretaría a los empresarios, a particulares y a las diversas instancias del sector público y privado.
+El CEDE brindará servicios de gestión, asesoría, información y orientación de trámites de competencia federal, estatal y municipal; así como de todos los servicios y programas que ofrece la Secretaría a los empresarios, a particulares y a las diversas instancias del sector público y privado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 2009)</small>
 
 ###### Artículo 31.
 
-El Centro de Atención Empresarial tendrá las atribuciones siguientes:
+El CEDE tendrá las atribuciones siguientes:
 
 I. Gestionar, orientar e informar sobre los servicios, programas, obligaciones y trámites de competencia federal, estatal y municipal que requiera una empresa;
 
@@ -489,17 +507,23 @@ V. Apoyar a los empresarios y particulares en la realización de trámites ante 
 
 VI. Las demás que establezca la Comisión, esta Ley y otras disposiciones legales, reglamentarias y administrativas.
 
-### Capítulo Tercero. De las Unidades del Centro de Atención Empresarial
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JUNIO DE 2009)</small>
+
+### Capítulo Tercero. De las Unidades Rápidas de Gestión Empresarial
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2009)</small>
 
 ###### Artículo 32.
 
-El CAE podrá instalar unidades en los Municipios y en las Dependencias, y módulos en los institutos, cámaras, asociaciones u organismos de los sectores social y privado, con la finalidad de acercar los servicios a los empresarios en todo el Estado. Para tal efecto la Comisión deberá celebrar el convenio correspondiente, en el cual se establezcan las atribuciones y lineamientos a los que se deberá sujetar la Unidad y el módulo del CAE.
+La Comisión podrá instalar URGES en los Municipios y en las Dependencias, y módulos en los institutos, cámaras, asociaciones u organismos de los sectores social y privado, con la finalidad de acercar los servicios a los empresarios en todo el Estado. Para tal efecto la Comisión deberá celebrar el convenio correspondiente, en el cual se establezcan las atribuciones y lineamientos a los que se deberán sujetar el CEDE y los URGES.
 
-Cada Unidad del CAE que se instale en los Municipios contará con un responsable designado por el Director General de la Comisión, a propuesta del Presidente Municipal, quien coordinará las acciones de la Unidad y será el encargado de llevar a cabo el Programa de Gestión Empresarial y Reforma Regulatoria en el Municipio. Deberá reportar e informar a la Comisión dentro de los primeros cinco días de cada mes, sobre la operación de la Unidad y los avances en reforma regulatoria.
+Cada URGE que se instale en los Municipios contará con un responsable designado por el Director General de la Comisión, a propuesta del Presidente Municipal, quien coordinará las acciones de la Unidad y será el encargado de llevar a cabo el Programa de Gestión Empresarial y Reforma Regulatoria en el Municipio. Deberá reportar e informar a la Comisión dentro de los primeros cinco días de cada mes, sobre la operación de la Unidad y los avances en reforma regulatoria.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2009)</small>
 
 ###### Artículo 33.
 
-La Secretaría podrá dar a conocer en el Periódico Oficial "El Estado de Sinaloa" y en los medios de difusión que considere necesarios, los servicios que ofrezcan el CAE y sus unidades.
+La Secretaría podrá dar a conocer en el Periódico Oficial "El Estado de Sinaloa" y en los medios de difusión que considere necesarios, los servicios que ofrezcan el CEDE y URGE.
 
 ### Capítulo Cuarto. Del Sistema Sinaloense de Apertura Rápida Empresarial
 
@@ -557,9 +581,11 @@ IV. Se podrá enlazar con los trámites federales de apertura. Dicho enlace ser�
 
 Las Dependencias estatales y municipales instrumentarán en el ámbito de su competencia el SSARE en sus diversas modalidades.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2009)</small>
+
 ###### Artículo 37.
 
-El SSARE se requisitará a través del Formato único impreso o en forma electrónica, para su presentación en el CAE o sus unidades y módulos, de donde se remitirá a la autoridad correspondiente para su dictaminación.
+El SSARE se requisitará a través del Formato Único impreso o en forma electrónica, para su presentación en el CEDE o en las Unidades URGE, de donde se remitirá a la autoridad correspondiente para su dictaminación.
 
 ### Capítulo Quinto. Del Registro Sinaloense de Trámites y Servicios
 
@@ -795,23 +821,11 @@ Los titulares de las Dependencias podrán, mediante acuerdos generales publicado
 
 ###### Artículo 63.
 
-Ante el silencio de la autoridad administrativa para pronunciarse respecto al trámite solicitado por el particular, dentro de los plazos establecidos por las disposiciones legales o reglamentarias, así como en los acuerdos a que se refiere el articulo anterior, se considerará que la respuesta a la solicitud del trámite será afirmativa o negativa según lo disponga la normatividad de la materia.
+(DEROGADO, P.O. 22 DE JUNIO DE 2009)
 
 ###### Artículo 64.
 
-Cuando en algún trámite opere la figura de la afirmativa o negativa ficta, su aplicación se hará sujetándose a los criterios establecidos en la normatividad de la materia, o a falta de estos en los siguientes:
-
-I. El tiempo de respuesta empezará a contar a partir del siguiente día hábil de la fecha en que fue presentada la solicitud de trámite, debidamente requisitada y completada la documentación correspondiente;
-
-II. Para que se declare incompleta una solicitud, la Dependencia deberá notificarle al interesado, dentro del plazo establecido para emitir su resolución, los requisitos que incumplió, los que cumplió parcialmente o los que presentó en forma incorrecta; de no hacer dicha notificación operará la figura correspondiente al trámite;
-
-III. En caso de que se hubiera hecho la notificación respectiva, el plazo para que opere la afirmativa o negativa ficta empezará a contar a partir del siguiente día hábil de la fecha en que se cumplan correctamente los requisitos correspondientes;
-
-IV. Para declarar que opera la afirmativa ficta, es requisito que a la solicitud de trámite se anexen los documentos que acreditan el cumplimiento de todos los requisitos establecidos en las normas aplicables al caso específico, y que se haya desahogado el procedimiento administrativo previsto en la normatividad aplicable en su caso; y,
-
-V. En caso de la afirmativa ficta, una vez cumplido el plazo de otorgar respuesta a la solicitud de trámite del interesado, se considerará concedida o aprobado el mismo, para lo cual la autoridad administrativa, dentro de los cinco días hábiles siguientes, está obligada a obsequiar en sus términos lo solicitado. Dicha obligación deberá ser cumplida de oficio, pero también podrá ser ejecutada a instancia de la parte interesada.
-
-La negligencia del servidor público, ante la aplicación de cualquiera de las fracciones anteriormente señaladas, será sancionada en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa y de la presente Ley.
+(DEROGADO, P.O. 22 DE JUNIO DE 2009)
 
 ###### Artículo 65.
 
@@ -831,33 +845,25 @@ Las Dependencias deberán entregar de manera periódica a la Comisión, la infor
 
 Con el fin de agilizar la gestión gubernamental y empresarial, la actividad económica y el establecimiento, ampliación, reubicación y operación de negocios, la Comisión presentará ante las Dependencias correspondientes, propuestas para la reforma o adición a la normatividad vigente a efecto de adoptar cuando sea conveniente, la figura de afirmativa ficta, mejorar la regulación y evitar la discrecionalidad.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 2009)</small>
+
 ### Capítulo Tercero. Del Sistema de Verificación Empresarial
 
 ###### Artículo 69.
 
-Se establece el Sistema de Verificación Empresarial con el objeto de verificar a través de procedimientos de transparencia y de seguridad jurídica, que las empresas cumplan con las disposiciones legislativas, reglamentarias y administrativas, así como regular y profesionalizar las actuaciones de las autoridades administrativas, y sentar las bases para estandarizar dichas actuaciones según su ámbito de competencia.
+(DEROGADO, P.O. 22 DE JUNIO DE 2009)
 
 ###### Artículo 70.
 
-Las Dependencias que realicen las funciones de verificación, inspección o supervisión a las empresas, además de lo establecido en las disposiciones legales y reglamentarias de la materia, deberán cumplir con lo siguiente:
-
-I. La selección de las empresas a visitar será aleatoria mediante sistema electrónico, salvo que exista denuncia de violación a disposiciones legislativas o administrativas, o bien, se desprenda de algún documento presuntas violaciones a la normatividad aplicable;
-
-II. La selección de los inspectores como de los verificadores cuando se cuente con más de tres, será aleatoria y mediante sistema electrónico;
-
-III. Establecer auditorías cerradas exclusivas de la materia que corresponda verificar;
-
-IV. La primera visita que se realice será preventiva para el auxilio del visitado en el cumplimiento de la normatividad aplicable, excepto en materia fiscal y las que se realicen por motivo de causa grave en materias de salud, ambiental o de seguridad; y,
-
-V. Establecer un mecanismo que permita al visitado corroborar vía telefónica o electrónica sobre la procedencia de la visita.
+(DEROGADO, P.O. 22 DE JUNIO DE 2009)
 
 ###### Artículo 71.
 
-La Comisión promoverá la creación de un grupo multidisciplinario de verificadores en materias afines con las Dependencias, conformado por los verificadores de cada una de éstas, con el objeto de eficientar y unificar criterios en la actividad verificadora.
+(DEROGADO, P.O. 22 DE JUNIO DE 2009)
 
 ###### Artículo 72.
 
-Las Dependencias conjuntamente con la Comisión deberán atender la profesionalización de los verificadores e inspectores mediante la promoción de cursos de capacitación y actualización en los procedimientos que les competan.
+(DEROGADO, P.O. 22 DE JUNIO DE 2009)
 
 ### Capítulo Cuarto. De las Sanciones Administrativas por Obstrucción a la Gestión Empresarial y a la Reforma Regulatoria
 
@@ -937,21 +943,25 @@ VII. Incumpla dos veces lo dispuesto en el artículo 53.
 
 A los servidores públicos adscritos a la Comisión que en el cumplimiento de sus funciones incurran en responsabilidad, en términos de lo dispuesto en esta Ley, se les aplicarán las sanciones previstas en la misma y en la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa.
 
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 2009)</small>
+
 ## Título Quinto. Del Servicio Profesional de Carrera
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 2009)</small>
 
 ### Capitulo único. Principios del Servicio Profesional de Carrera
 
 ###### Artículo 79.
 
-Se establece el Servicio Profesional de Carrera con el objeto de profesionalizar y hacer más eficientes los servicios de apoyo de la Comisión, se regirá por los principios de legalidad, imparcialidad, objetividad, especialización, honradez, lealtad y eficiencia de conformidad con la ley en la materia.
+(DEROGADO, P.O. 22 DE JUNIO DE 2009)
 
 ###### Artículo 80.
 
-El Reglamento de esta Ley establecerá los procedimientos de reclutamiento, selección, ingreso, evaluación del desempeño, otorgamiento de estímulos, capacitación y separación del personal de la Comisión, a través de reglas de instrumentación claras, transparentes y dotadas de imparcialidad y oportunidad.
+(DEROGADO, P.O. 22 DE JUNIO DE 2009)
 
 ###### Artículo 81.
 
-La Comisión tendrá una unidad encargada de las funciones para instrumentar el servicio profesional de carrera, conforme a esta Ley y su Reglamento y la ley correspondiente a la materia.
+(DEROGADO, P.O. 22 DE JUNIO DE 2009)
 
 T R A N S I T O R I O S
 
@@ -1004,3 +1014,11 @@ Oscar J. Lara Aréchiga.
 El Secretario de Desarrollo Económico.
 
 Heriberto Félix Guerra.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE JUNIO DE 2009.
+
+###### ARTICULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
