@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-ministerio-publico-del-estado-de-hidalgo-59499
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-12-31"
-last_updated: "2008-12-01"
+last_updated: "2009-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -475,15 +475,29 @@ VI.- Dirección General de Averiguaciones Previas;
 
 VII.- Unidad Especializada en el Combate al Secuestro.
 
-VIII.- Dirección General de Servicios Periciales;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
 
-IX.- Dirección de Control de Procesos;
+VIII.- Centro de Justicia Alternativa de la Procuraduría General de Justicia del Estado;
 
-X.- Dirección General de Administración y Finanzas; y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
 
-XI.- Instituto de Formación Profesional de la Procuraduría.
+IX.- Dirección General de Servicios Periciales;
 
-Además contará con las Direcciones, Subdirecciones, Coordinaciones, encargados de departamento, oficialías de partes, Agentes del Ministerio Público, Agentes del Ministerio Público especiales, agentes del Ministerio Público Especializados en justicia para adolescentes y las áreas que sean necesarias para el ejercicio de sus funciones y que determine el presupuesto.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
+
+X.- Dirección de Control de Procesos;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
+
+XI.- Dirección General de Administración y Finanzas; y
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2009)</small>
+
+XII.- Instituto de Formación Profesional de la Procuraduría.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+Además contará con las Direcciones, Subdirecciones, Coordinaciones, encargados de departamento, Mediadores, Conciliadores, Notificadores, oficialías de partes, Agentes del Ministerio Público, Agentes del Ministerio Público especiales, agentes del Ministerio Público Especializados en justicia para adolescentes y las áreas que sean necesarias para el ejercicio de sus funciones y que determine el presupuesto.
 
 ###### Artículo 19.
 
@@ -1341,6 +1355,14 @@ XVII.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
 
 XVIII.- Las demás le (sic) otorgue esta Ley, le encomiende el Procurador General y demás disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+Artículo 69 BIS.- El Centro de Justicia Alternativa de la Procuraduría General (sic) Justicia del Estado, estará a cargo de un Director General y se integrará por Mediadores, Conciliadores, Notificadores y con el personal de apoyo que autorice el presupuesto, teniendo a su cargo los objetivos y atribuciones que se señalan en la Ley de Justicia Alternativa del Estado y otras disposiciones aplicables.
+
+Dicha unidad administrativa dependerá directamente del Procurador y podrá contar con sedes regionales en toda la Entidad.
+
+Para todos los efectos legales a que haya lugar, el Director General del Centro de Justicia Alternativa y los titulares de las sedes regionales tendrán funciones de agentes del Ministerio Público.
+
 ###### Artículo 70.
 
 La Dirección General de Servicios Periciales, estará a cargo de un Director General y contará con las áreas necesarias para el servicio, de acuerdo a la disponibilidad del presupuesto.
@@ -2012,3 +2034,9 @@ La Secretaría de Finanzas y la Secretaría de Administración del Gobierno del 
 ###### ARTÍCULO SEXTO.
 
 Todos los asuntos de la Dirección General de Seguridad Pública y Tránsito del Estado y de la Dirección General de la Policía Ministerial que se encuentren en trámite, pasarán a la competencia de la Secretaría de Seguridad Pública del Estado, quien deberá desahogarlos y concluirlos de acuerdo con las disposiciones legales aplicables.
+
+P.O. 22 DE JUNIO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al contenido de este Decreto.
