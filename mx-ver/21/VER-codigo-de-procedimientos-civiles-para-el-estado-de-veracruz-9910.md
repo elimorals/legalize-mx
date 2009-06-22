@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "2008-08-08"
+last_updated: "2009-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JUNIO DE 2009.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -1177,21 +1177,23 @@ La liquidación se hará con un escrito de cada parte y la resolución del juez 
 
 ### CAPITULO II. Del depósito o guarda de personas como acto prejudicial
 
+> <small>(REFORMADO, G.O. 22 DE JUNIO DE 2009)</small>
+
 ARTICULO 158
 
-En los casos previstos por el artículo 156 del Código Civil y en todo aquél en que alguno de los cónyuges intente demandar o acusar al otro, podrá dictarse provisionalmente el depósito o guarda del cónyuge que esté en el caso de ser protegido física o moralmente de acuerdo con la ley.
+En los casos previstos por el artículo 156 del Código Civil y en todo aquel en que una persona intente demandar a su cónyuge, concubino o pariente por ambas líneas hasta el cuarto grado, podrá dictarse provisionalmente el depósito o guarda de aquella que necesite ser protegida física o moralmente de acuerdo con la ley.
 
 ARTICULO 159
 
 Sólo los jueces de primera instancia pueden decretar el depósito de que habla el artículo anterior, a no ser que, por circunstancias especiales, no pueda ocurrirse al juez competente, pues entonces el juez del lugar donde ocurra la emergencia podrá decretar el depósito provisionalmente, remitiendo las diligencias al competente y poniendo la persona a su disposición.
 
+> <small>(REFORMADO, G.O. 22 DE JUNIO DE 2009)</small>
+
 ARTICULO 160
 
-La solicitud de depósito puede ser escrita o verbal, y el juez debe proceder con toda rapidez, trasladándose al lugar de los hechos, para cerciorarse de la necesidad de la medida, designando desde luego, en tal caso, la persona o institución que habrá de encargarse del depósito, y vigilará el cumplimiento del mismo.
+La solicitud de depósito puede ser escrita o verbal y en ella se señalarán las causas en que se funda, el domicilio para su habitación, la existencia de hijos menores y las demás circunstancias del caso. El juez acompañado del secretario del juzgado debe proceder de inmediato, trasladándose al lugar de los hechos, para cerciorarse de la necesidad de la medida, y designará desde luego, en su caso, la persona o institución que habrá de encargarse del depósito y vigilará el cumplimiento del mismo.
 
-> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
-
-Si la solicitud de depósito se origina por causa de violencia familiar, el juez podrá practicar las diligencias que a su juicio sean necesarias para declarar la práctica de la medida.
+Si la solicitud de depósito se origina por causa de violencia familiar, el juez, acompañado del secretario del juzgado, podrá practicar las diligencias que a su juicio sean necesarias para declarar la práctica de la medida.
 
 ARTICULO 161
 
@@ -1205,15 +1207,17 @@ En los casos previstos por la fracción III, del artículo 156 del Código Civil
 
 Igualmente dictará las medidas adecuadas, de acuerdo con las restantes fracciones del precepto citado del Código Civil, para el aseguramiento y cuidado de los hijos, para evitar perjuicio de un cónyuge al otro, para cumplir con las precauciones establecidas en el caso de que la mujer quede encinta, y las demás que prevenga la Ley.
 
-> <small>(DEROGADO TERCER PARRAFO, G.O. 1 DE FEBRERO DE 1992)</small>
+> <small>(ADICIONADO, G.O. 22 DE JUNIO DE 2009)</small>
+
+Los derechos contemplados en el presente capítulo también podrán ejercerlos los concubinos, así como los parientes por ambas líneas hasta el cuarto grado de la persona que pretendan demandar.
 
 Cualquiera reclamación sobre las medidas a que se refiere este Capítulo, se resolverán con un solo escrito de cada parte, sin ulterior recurso.
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, G.O. 22 DE JUNIO DE 2009)</small>
 
 ARTICULO 163
 
-En el caso de que el depósito se haya constituído para demandar o acusar un cónyuge al otro, la providencia se considerará sin efectos, si dentro de diez días hábiles siguientes, la parte interesada no acredita haber presentado la demanda o acusación. La declaración respectiva se hará de oficio por el tribunal y se notificará personalmente a los cónyuges y al depositario.
+En el caso de que el depósito se haya constituido para demandar o acusar a un cónyuge, concubino o pariente por ambas líneas hasta el cuarto grado, la providencia se considerará sin efectos, si dentro de diez días hábiles siguientes, la parte interesada no acredita haber presentado la demanda. La declaración respectiva se hará de oficio por el tribunal y se notificará personalmente a los cónyuges, concubinos o parientes interesados y al depositario.
 
 ARTICULO 164
 
@@ -5559,6 +5563,14 @@ Podrá decretarse el depósito de menores o incapacitados que se hallen sujetos 
 
 El menor de edad que deseando contraer matrimonio necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar al Juez determine sobre su depósito.
 
+> <small>(ADICIONADO, G.O. 22 DE JUNIO DE 2009)</small>
+
+ARTICULO 746 BIS
+
+La solicitud de depósito a que se refiere el artículo 254 Ter del Código Civil, puede ser escrita o verbal y en ella se señalarán las causas en que se funda, el domicilio para su habitación, la existencia de hijos menores y las demás circunstancias del caso.
+
+El depósito se dictará por un término no mayor de tres meses y podrá prorrogarse por una sola ocasión, por el mismo término, si la parte interesada acredita la subsistencia de los elementos que le dieron origen.
+
 TITULO DECIMOSEPTIMO
 
 ### CAPITULO I. De la justicia municipal
@@ -6012,6 +6024,12 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 G.O. 8 DE AGOSTO DE 2008.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 22 DE JUNIO DE 2009.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
 
