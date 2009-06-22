@@ -4,7 +4,7 @@ identifier: "HID-ley-de-justicia-alternativa-para-el-estado-de-hidalgo-60838"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-21"
-last_updated: "2008-04-21"
+last_updated: "2009-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2009.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 21 de abril de 2008.
 
@@ -65,7 +65,15 @@ La presente Ley es de orden público e interés social y tiene por objeto foment
 
 La solución de conflictos deberá recaer en derechos de los cuales los Interesados puedan disponer libremente, sin afectar el orden público.
 
-Se establece la justicia alternativa como un procedimiento no jurisdiccional, de acuerdo a lo establecido en el Artículo 158 de la Ley Orgánica del Poder Judicial del Estado.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+Se establece el Sistema de Justicia Alternativa del Estado de Hidalgo como un procedimiento no jurisdiccional, en dos vertientes:
+
+La que es competencia del Poder Judicial del Estado, de acuerdo a lo establecido en el Artículo 158 de la Ley Orgánica del Poder Judicial del Estado; y
+
+La que es competencia de la Procuraduría General de Justicia del Estado, de conformidad con los Artículos 9° párrafo tercero, 89 y 90 de la Constitución del Estado de Hidalgo.
+
+Las leyes preverán mecanismos alternativos de solución de controversias. En la materia penal regularán su aplicación, asegurarán la reparación del daño y establecerán los casos en los que se requerirá supervisión judicial.
 
 ###### Artículo 2.
 
@@ -79,7 +87,9 @@ I.- Sistema: Conjunto articulado de relaciones funcionales entre las Dependencia
 
 II.- Mediación: Método alternativo no adversarial para lograr la solución de conflictos, mediante el cual uno o más mediadores, quienes no tienen facultad de decisión, intervienen únicamente facilitando la comunicación entre los interesados en conflicto, con el propósito de que ellos acuerden voluntariamente una solución que ponga fin al mismo total o parcialmente, y también coadyuvar para lograr una paz social;
 
-III.- Mediador-Conciliador: Aquella persona física que tenga como fin coadyuvar a solución de controversias, a través de la Mediación-Conciliación;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
+
+III.- Mediador-Conciliador: Aquella persona física que tenga como fin coadyuvar a la solución de controversias, a través de la Mediación o la Conciliación;
 
 IV.- Mediador-Conciliador Privado: Aquella persona física o institución privada que tenga como fin coadyuvar a la solución de controversias, a través de la Mediación-Conciliación con fines altruistas o de lucro;
 
@@ -101,15 +111,29 @@ XII.- Centro: El Centro Estatal de Justicia Alternativa, como órgano auxiliar d
 
 XIII.- Centro de Justicia Alternativa: Aquella Institución Pública Estatal y Municipal que tenga como fin la solución de controversias a través de los medios alternativos de solución de conflictos;
 
-XIV.- Procedimientos: Conjunto de etapas a que se sujetan los interesados en los diversos medios alternativos de solución de conflictos, regulados en la presente Ley y/o en los diversos ordenamientos legales existentes para este efecto;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
 
-XV.- Convenio: Documento mediante el cual los interesados ponen fin a un conflicto y que representa un acuerdo satisfactorio para quienes intervienen;
+XIV.- Centro de Justicia Alternativa de la Procuraduría General (sic) Justicia del Estado: Aquella institución pública auxiliar del Ministerio Público que tiene como fin la solución de controversias a través de los medios alternativos de solución de controversias en la materia penal;
 
-XVI.- Consejo: Consejo de la Judicatura del Poder Judicial del Estado de Hidalgo; y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
 
-XVII.- Ley: Ley de Justicia Alternativa para el Estado de Hidalgo.
+XV.- Procedimientos: conjunto de etapas a que se sujetan los interesados en los diversos medios alternativos de solución de conflictos, regulados en la presente Ley y/o en los diversos ordenamientos legales existentes para este efecto;
 
-## TÍTULO SEGUNDO
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
+
+XVI.- Convenio: documento mediante el cual los interesados ponen fin a un conflicto y que representa un acuerdo satisfactorio para quienes intervienen;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
+
+XVII.- Consejo: Consejo de la Judicatura del Poder Judicial del Estado de Hidalgo; y
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2009)</small>
+
+XVIII.- Ley: Ley de Justicia Alternativa para el Estado de Hidalgo.
+
+> <small>(ADICIONADA SU DENOMINACION, P.O. 22 DE JUNIO DE 2009)</small>
+
+## TÍTULO SEGUNDO. DEL CENTRO ESTATAL DE JUSTICIA ALTERNATIVA DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
 ### CAPÍTULO PRIMERO. DEL CENTRO ESTATAL DE JUSTICIA ALTERNATIVA
 
@@ -125,7 +149,9 @@ El Centro como órgano auxiliar del Consejo, tendrá autonomía técnica para co
 
 El Centro en el ámbito de su competencia tendrá además de las atribuciones contenidas en el Articulo 161 de la Ley Orgánica del Poder Judicial las siguientes:
 
-I.- Coadyuvar con el Consejo para el registro, certificación y supervisión de los mediadores-conciliadores del Estado;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
+
+I.- Coadyuvar con el Consejo para el registro, certificación y supervisión de los Mediadores-Conciliadores del Estado, excepto los pertenecientes a la Procuraduría;
 
 II.- Intercambiar información y practicas con instituciones públicas y privadas, Nacionales y Extranjeras que contribuyan a fortalecer el Sistema;
 
@@ -207,13 +233,83 @@ XV.- Ser parte del sínodo para nombrar a los mediadores-conciliadores Del Centr
 
 XVI.- Los demás que se señalen en esta Ley, su Reglamento y otros ordenamientos.
 
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+## TÍTULO SEGUNDO BIS. DEL CENTRO DE JUSTICIA ALTERNATIVA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE HIDALGO
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+Artículo 9 BIS.- La institución del Ministerio Público del Estado de Hidalgo, de conformidad con las atribuciones que se derivan de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política del Estado de Hidalgo y de las leyes que de ellas emanan, relativas a la investigación y. persecución del delito, así como del ejercicio de la acción penal ante los tribunales, tiene a su cargo la función de procurar la conciliación y la mediación de la víctima u ofendido y del imputado durante el periodo de Averiguación Previa, en aquellos hechos punibles que sean perseguibles por querella y no exista un interés público en su persecución, como una vía alterna de solución de controversias.
+
+La función de procurar la justicia en la vía conciliatoria es de interés público.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+Artículo 9 TER.- A efecto de cumplir con su función conciliatoria en asuntos de carácter penal, la Procuraduría se auxiliará de un Centro de Justicia Alternativa de la Procuraduría General Justicia del Estado, bajo el esquema orgánico y funcional que establezca la Ley Orgánica del Ministerio Público del Estado, al frente del cual habrá un Director General, siendo asistido por el número de Mediadores y Conciliadores, así como el personal de apoyo que autorice el presupuesto.
+
+El Centro de Justicia Alternativa de la Procuraduría General Justicia del Estado tendrá su asiento en la capital del Estado y podrá establecer centros regionales en toda la Entidad.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+Artículo 9 QUÁTER.- El Centro de Justicia Alternativa de la Procuraduría General Justicia del Estado, en el ámbito de su competencia, además de las atribuciones contenidas en otros ordenamientos legales, tendrá las siguientes:
+
+I.- Establecer en conjunción con el Instituto de Formación Profesional de la Procuraduría, observando los lineamientos que para tal efecto emita el Procurador General de Justicia, los requisitos y procedimientos para el ingreso y formación de Mediadores y Conciliadores;
+
+II.- Intercambiar información y prácticas con el Centro Estatal de Justicia Alternativa del Consejo de la Judicatura del Poder Judicial del Estado, para contribuir al fortalecimiento y consolidación del Sistema;
+
+III.- Establecer las políticas generales y especificas, previo acuerdo del Procurador, tendientes al adecuado funcionamiento del Centro de Justicia Alternativa y de sus centros regionales;
+
+IV.- Las demás que le confieran la presente Ley, su Reglamento y otros ordenamientos.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+Artículo 9 QUINTUS.- Para ser Director General del Centro de Centro de Justicia Alternativa de la Procuraduría General Justicia del Estado se requiere:
+
+I.- Ser ciudadano hidalguense, en pleno ejercicio de sus derechos;
+
+II.- Ser de reconocida honradez, gozar de buena reputación y haberse distinguido por su honorabilidad, competencia y antecedentes personales;
+
+III.- No haber sido condenado por delito doloso;
+
+IV.- Contar con título profesional de licenciado en derecho legalmente expedido;
+
+V.- Tener más de 25 años de edad; y
+
+VI.- No ser ministro de algún culto religioso.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+Artículo 9 SEXTUS.- El Director General (sic) Centro de Justicia Alternativa de la Procuraduría General Justicia del Estado tendrá las siguientes atribuciones:
+
+I.- Vigilar el cumplimiento de esta Ley en el ámbito de su competencia;
+
+II.- Representar al Centro de Justicia Alternativa de la Procuraduría General Justicia del Estado y a los centros regionales;
+
+III.- Autorizar los convenios de los procedimientos de Mediación y Conciliación, a efecto de que adquieran el carácter de otorgamiento del perdón legal de la víctima u ofendido, sin perjuicio de la supervisión judicial que establezcan las Leyes;
+
+IV.- Coordinar el buen funcionamiento del Centro de Justicia Alternativa de la Procuraduría General Justicia del Estado, centros regionales, manteniendo la supervisión continua de sus Mediadores y Conciliadores, cuidando el cumplimiento cabal de la normatividad que los regula, la calidad de sus servicios y el logro de sus objetivos;
+
+V.- Tomar las decisiones técnicas y administrativas de incumbencia para el Centro de Justicia Alternativa de la Procuraduría General Justicia del Estado y los centros regionales en términos de los ordenamientos aplicables;
+
+VI.- Supervisar de manera continua a los Mediadores y Conciliadores;
+
+VII.- Implementar el sistema de análisis estadístico del Centro de Justicia Alternativa de la Procuraduría General Justicia del Estado;
+
+VIII.- Coadyuvar con el Instituto de Formación Profesional de la Procuraduría en los procesos de selección y formación de Mediadores y Conciliadores;
+
+IX.- Operar los mecanismos de difusión públicos relativos a las ventajas de los servicios que brinda el Centro de Justicia Alternativa de la Procuraduría General Justicia del Estado;
+
+X.- Rendir mensualmente al Procurador un informe general sobre el funcionamiento, actividades y resultados obtenidos por el Centro de Justicia Alternativa de la Procuraduría General Justicia del Estado y centros regionales; y
+
+XI.- Los demás que se señalen en esta Ley, su Reglamento y otros ordenamientos.
+
 ## TÍTULO TERCERO. MEDIACIÓN Y CONCILIACIÓN
 
 ### CAPÍTULO PRIMERO. PRINCIPIOS
-
-## TÍTULO CUARTO. DE LA MEDIACIÓN INDÍGENA
-
-### CAPÍTULO SEGUNDO. DE LOS MEDIADORES-CONCILIADORES
 
 ###### Artículo 10.
 
@@ -245,29 +341,37 @@ La Mediación y la Conciliación serán aplicables:
 
 I.- En materia civil y familiar en aquellos asuntos que sean susceptibles de transacción o Convenio;
 
-II.- En materia penal, cuando se trate de tipos penales perseguibles por querella no considerados graves, y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
+
+II.- En materia penal, cuando se trate de hechos punibles perseguibles por querella y
 
 III.- En cualquier otra materia siempre y cuando sean derechos disponibles por los Interesados.
 
-Lo dispuesto en el presente Artículo, no excluye la facultad conferida al Ministerio Público de procurar la Conciliación en la etapa de averiguación previa. Pudiendo ponderar a la Mediación en delitos perseguibles por querella no considerados graves, observando para ello las disposiciones contenidas en la presente Ley.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 22 DE JUNIO DE 2009)</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2009)</small>
 
 ###### Artículo 13.
 
-El Centro podrá substanciar procedimientos de Mediación y Conciliación en todo el Territorio Hidalguense.
+Los Centros de Justicia Alternativa, en sus dos vertientes, podrán substanciar procedimientos de Mediación y Conciliación en todo el territorio hidalguense.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2009)</small>
 
 ###### Artículo 14.
 
-Las sedes regionales, podrán desahogar estos procedimientos, en el Distrito o Distritos Judiciales que determine el Consejo.
+Las sedes y los centros regionales podrán desahogar estos procedimientos en el distrito o distritos judiciales que determine el Consejo y la Procuraduría, respectivamente.
 
 ###### Artículo 15.
 
 Los procedimientos serán flexibles, debiendo los mediadores conciliadores tratar a los Interesados con igualdad y dar a cada uno de ellos, plena oportunidad de hacer valer sus derechos.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2009)</small>
+
 ###### Artículo 16.
 
-Los servicios de Mediación y Conciliación serán gratuitos cuando se impartan por el Centro o por las sedes regionales, y en el caso de aquellos que proporcionen los Centros de Justicia Alternativa y los mediadores-conciliadores privados, serán remunerados de acuerdo a la normatividad correspondiente.
+Los servicios de Mediación y Conciliación serán gratuitos cuando se impartan por los Centros de Justicia Alternativa, ya sea del Consejo o ya sea de la Procuraduría, sus sedes y centros regionales, y en el caso de aquellos que proporcionen los Centros de Justicia Alternativa y los Mediadores o Conciliadores privados, serán remunerados de acuerdo a la normatividad correspondiente.
 
-### CAPÍTULO TERCERO. DE LOS INTERESADOS
+### CAPÍTULO SEGUNDO. DE LOS MEDIADORES-CONCILIADORES
 
 ###### Artículo 17.
 
@@ -279,7 +383,9 @@ II.- Ser de reconocida honradez, gozar de buena reputación y haberse distinguid
 
 III.- Ser mayor de 25 años;
 
-IV.- Obtener la certificación y registro por el Consejo en términos de esta Ley y su Reglamento; y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
+
+IV.- Obtener la certificación y registro en el caso del Centro de Justicia Alternativa del Consejo de la Judicatura u obtener la formación en el caso del Centro de Justicia Alternativa de la Procuraduría General (sic) Justicia del Estado; y
 
 V.- No haber sido condenado por delito doloso.
 
@@ -307,7 +413,9 @@ II.- Ejercer el cargo con independencia, autonomía y equidad, observando los pr
 
 III.- Tratar con respeto y diligencia a los Interesados, conduciéndose ante ellos sin discriminación por cualquier motivo o condición social;
 
-IV.- Actuar conforme a los principios y normas procedimentales que le impone la Mediación y la Conciliación, persiguiendo conducir el procedimiento con equilibrio de intereses entre los solicitantes e informar a los Interesados el alcance y las repercusiones de un Convenio;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
+
+IV.- Actuar conforme a los principios y normas procedimentales propias de la Mediación y la Conciliación, persiguiendo conducir el procedimiento con equilibrio de intereses entre los solicitantes e informar a los Interesados el alcance y las repercusiones de un convenio;
 
 V.- Informar y obtener el consentimiento de los Interesados para solicitar la Co-Mediación en los casos que se requiera;
 
@@ -317,11 +425,15 @@ VII.- Dar por concluido el procedimiento en el momento en que exista falta de co
 
 VIII.- Dar por terminada la Mediación o la Conciliación ante cualquier causa previa o superveniente, que haga imposible el procedimiento, así como, cuando alguno de los Interesados lo solicite;
 
-IX.- Los mediadores-conciliadores del Centro y sedes regionales rendirán ante el director un informe mensual de su gestión;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
+
+IX.- Rendir ante su superior jerárquico un informe mensual de su gestión;
 
 X.- Brindar al Centro, sedes regionales o Centros de Justicia Alternativa al cual se encuentren adscritos, toda clase de facilidades para la vigilancia y supervisión del ejercicio de sus funciones, así como para el perfeccionamiento de las mismas;
 
-XI.- Adherirse a los más altos estándares de integridad, imparcialidad y capacidad al prestar sus servicios profesionales;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
+
+XI.- Apegarse a los más altos estándares de integridad, imparcialidad y capacidad al prestar sus servicios profesionales;
 
 XII.- Tener como objetivo la cultura por la paz;
 
@@ -335,9 +447,11 @@ XV.- Las demás que establezcan esta Ley su Reglamento y otros ordenamientos apl
 
 En caso de que los Interesados no pudieran llegar por sí mismos a un acuerdo que resuelva el conflicto, el Mediador-Conciliador dependiendo del conflicto, podrá presentar alternativas de solución viables, que protejan sus intereses.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 2009)</small>
+
 ###### Artículo 21.
 
-El Mediador-Conciliador deberá excusarse forzosamente bajo pena de inhabilitación, cuando tenga conocimiento de que concurre en él algún impedimento legal, de los previstos por la Ley adjetiva de la materia en que participe. Si el Mediador-Conciliador no se excusa, cualquiera de los Interesados podrá promover su recusación que resolverá el Consejo.
+El Mediador-Conciliador deberá excusarse forzosamente bajo pena de inhabilitación, cuando tenga conocimiento de que concurre en él algún impedimento legal de los previstos por la Ley adjetiva de la materia en que participe. Si no se excusare, cualquiera de los Interesados podrá promover su recusación ante el superior jerárquico que corresponda.
 
 Lo anterior no será aplicable para los mediadores-conciliadores Municipales e Indígenas sin perjuicio de la responsabilidad en que pudieran incurrir.
 
@@ -345,19 +459,25 @@ Lo anterior no será aplicable para los mediadores-conciliadores Municipales e I
 
 Los mediadores-conciliadores son responsables de que la prestación del servicio se realice en forma personal y con estricto apego a las disposiciones de esta Ley y su Reglamento.
 
-### CAPÍTULO CUARTO. PROCEDIMIENTO DE MEDIACIÓN Y CONCILIACIÓN
+### CAPÍTULO TERCERO. DE LOS INTERESADOS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 2009)</small>
 
 ###### Artículo 23.
 
-Las personas capaces, que tengan interés en resolver sus conflictos sobre derechos de naturaleza disponible, podrán resolverlos ante el Centro, sus sedes regionales, los Centros de Justicia Alternativa y los mediadores-conciliadores privados.
+Las personas capaces, que tengan interés en resolver sus controversias sobre derechos de naturaleza disponible, podrán resolverlos ante el Centro de Justicia Alternativa que corresponda.
 
 Los menores de edad deberán ser invitados a participar en los procedimientos, para ser oídos, con apego a la normatividad correspondiente, siempre y cuando su intervención sea pertinente de acuerdo a su edad y necesaria a los intereses de estos o cuando exista posibilidad de su afectación.
 
-Las personas jurídico-colectivas podrán utilizar este medio, a través de sus representantes legalmente facultados para celebrar procedimientos de Mediación y Conciliación y, en su caso, transigir acerca de sus intereses.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+Las personas morales podrán utilizar este medio, a través de sus representantes legalmente facultados para celebrar procedimientos de Mediación y Conciliación y, en su caso, transigir acerca de sus intereses u otorgar el perdón legal en materia penal.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2009)</small>
 
 ###### Artículo 24.
 
-Los Interesados deberán comparecer personalmente. Tratándose de personas jurídico-colectivas, por conducto de sus representantes que cuenten con poder bastante. En caso de los menores o incapaces, deberán comparecer quienes ejerzan la patria potestad o la tutela, o el Ministerio Público en caso de que se perciba un conflicto de intereses con quien los representa.
+Los Interesados deberán comparecer personalmente. Tratándose de personas morales, lo podrán hacer por conducto de sus representantes que cuenten con poder bastante. En caso de los menores o incapaces, deberán comparecer en su nombre quienes ejerzan la patria potestad o la tutela o inclusive el Ministerio Público cuando se perciba un conflicto de intereses con quien los representa.
 
 ###### Artículo 25.
 
@@ -377,7 +497,9 @@ V.- Las demás que contemplen esta Ley y otros ordenamientos.
 
 Los Interesados, tendrán los siguientes derechos:
 
-I.- Solicitar la intervención del Centro, sedes regionales, de los Centros de Justicia Alternativa y de los mediadores-conciliadores privados en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
+
+I.- Solicitar la intervención de un Mediador-Conciliador para el facilitamiento de la solución de alguna controversia, en los términos de esta Ley;
 
 II.- Solicitar que se les asigne un Mediador-Conciliador, en los casos en que tenga intervención el Centro o sus sedes regionales;
 
@@ -389,13 +511,15 @@ V.- Pedir que se suspenda o concluya el trámite después de la primera sesión,
 
 VI.- Solicitar en su caso un ejemplar del Convenio suscrito.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO CUARTO. PROCEDIMIENTO DE MEDIACIÓN Y CONCILIACIÓN
 
 ###### Artículo 27.
 
 La Mediación y la Conciliación, tendrán lugar en los siguientes casos:
 
-I.- Por voluntad de los Interesados;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
+
+I.- Por voluntad de los interesados, en los asuntos de orden penal;
 
 II.- Por cláusula de Mediación o Conciliación derivada de alguna relación contractual, siempre que conste por escrito; o
 
@@ -409,11 +533,11 @@ El procedimiento se iniciará a través de una solicitud la cual podrá ser pres
 
 Iniciado el procedimiento, el Mediador-Conciliador analizará si la situación planteada es viable para resolverla en Mediación y/o Conciliación, de acuerdo a lo establecido en la normatividad correspondiente y en el Reglamento de esta Ley, en caso afirmativo, se girará oficio de invitación a los Interesados, para que asistan.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2009)</small>
+
 ###### Artículo 30.
 
-Las personas invitadas a participar en el procedimiento, deberán manifestar al Centro, sedes regionales o a los Centros de Justicia Alternativa, o en su caso a los mediadores-conciliadores privados, su decisión de participar en la misma.
-
-Podrán acudir a informarse personalmente del contenido y características de los servicios que proporcionan o bien esperar la fecha que se les estableció para la celebración de la sesión.
+Las personas invitadas a participar en el procedimiento, deberán manifestar ante la instancia de mediación o conciliación respectiva su decisión de participar en la misma. Podrán acudir a informarse personalmente del contenido y características de los servicios que proporcionan o bien esperar la fecha que se le estableció para la celebración de la sesión.
 
 ###### Artículo 31.
 
@@ -447,7 +571,9 @@ Si la primera sesión no pudiere celebrarse por motivos justificados, a petició
 
 Después de lo expuesto en la sesión inicial, si el Mediador-Conciliador detecta que el asunto no es susceptible de someterse a Mediación o a la Conciliación en términos de esta Ley y su Reglamento, deberá concluir el procedimiento, absteniéndose de desahogar sesiones subsecuentes.
 
-El Mediador-Conciliador no podrá continuar con el procedimiento de Mediación cuando se advierta de las manifestaciones de alguno de los Interesados, la probable existencia de un delito respecto del cual no pueda cerciorarse de su gravedad o resultado, o de alguna manera se perjudique el procedimiento penal por el tiempo en que deba desarrollarse el de Mediación o Conciliación.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+El Mediador o Conciliador no podrá continuar con el procedimiento cuando se advierta de las manifestaciones de alguno de los Interesados, la probable existencia de un delito respecto del cual no pueda cerciorarse de su gravedad o resultado, o de alguna manera se perjudique o entorpezca del (sic) desarrollo del proceso penal con motivo de la mediación o conciliación.
 
 ###### Artículo 36.
 
@@ -471,13 +597,21 @@ III.- Por decisión de alguno de los Interesados o por ambos;
 
 IV.- Por existir dolo o mala fe de alguno de los Interesados en contra del otro;
 
-V.- Por inasistencia de los Interesados a más de dos sesiones sin causa justificada;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
 
-VI.- Cuando se trate de conflictos que no puedan ser materia de transacción;
+V.- Por inasistencia de los Interesados a más de dos sesiones consecutivas sin causa justificada;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
+
+VI.- Cuando se trate de controversias que no puedan ser materia de transacción o perdón;
 
 VII.- Al tenerse conocimiento en cualquier momento, de que se ventila un asunto donde existe cualquier tipo de violencia familiar, y
 
 VIII.- Por que se hayan girado tres invitaciones al Invitado y no se logra su asistencia.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+No obstante lo anterior, el procedimiento podrá reiniciarse cuando de manera indubitable los interesados manifiesten que están dispuestos a llegar a un convenio. En cualquiera de los casos, el procedimiento de mediación o conciliación en materia penal interrumpirá el plazo de la prescripción del derecho a formular la querella y del ejercicio de la acción penal. Lo mismo rige cuando los interesados hayan llegado a un convenio y éste no se haya cumplido en su totalidad.
 
 ###### Artículo 39.
 
@@ -493,7 +627,9 @@ IV.- Descripción precisa de las obligaciones de dar, hacer, o no hacer que hubi
 
 V.- Firma de quienes lo suscriben y la firma del Mediador-Conciliador. En caso de que alguno de los Interesados no sepa o no pudiera firmar, estampará su huella digital y firmará otra persona a su ruego y encargo, dejándose constancia de ello;
 
-VI.- En el caso del Centro y las sedes regionales, la firma del Director para validarlo; y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
+
+VI.- La autorización del Director General respectivo; y
 
 VII.- Cualquier otro aspecto que el Mediador-Conciliador considere necesario.
 
@@ -505,27 +641,33 @@ Por la sola firma del Mediador-Conciliador, se presume que el Convenio no es con
 
 Cuando alguno de los Interesados incumpla el contenido del Convenio, el afectado podrá, solicitar su ejecución a través de los procedimientos diseñados para el Juicio Ejecutivo Civil o la vía de apremio, ante el Juez competente.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2009)</small>
+
 ###### Artículo 42.
 
-El Mediador-Conciliador, podrá auxiliarse de otros expertos en la materia de la controversia planteada, para lograr una integridad dentro del procedimiento, pudiendo trabajar en Co-Mediación.
+El Mediador o Conciliador, podrá auxiliarse de otros expertos en la materia de la controversia planteada en aras de lograr una solución más sólida y justa dentro del procedimiento, pudiendo trabajar en Co-Mediacion o Co- Conciliación.
 
 ###### Artículo 43.
 
 Los Interesados conservarán los derechos que no se hubieren convenido, para hacerlos valer mediante las acciones legales respectivas.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2009)</small>
+
 ###### Artículo 44.
 
-Los convenios celebrados en el procedimiento de Mediación o Conciliación validados por el Centro, tendrán efectos de cosa juzgada. Los demás se considerarán documentos de fecha cierta.
+Los convenios celebrados en el procedimiento de Mediación o Conciliación validados por el Centro tendrán efectos de cosa juzgada, en el caso de que sean asuntos de índole civil, familiar o mercantil.
 
-La Autoridad a quien competa la ejecución, de acuerdo a la naturaleza legal de la controversia, revisará que se trate de bienes disponibles y que dicho Convenio no contravenga disposiciones de orden público.
+Los convenios celebrados en la materia penal tendrán el efecto de extinguir la acción penal, siempre que sean cumplidos; y en lo que respecta a la reparación del daño tendrán el carácter de documento de fecha cierta.
 
-Los convenios celebrados en materia penal producirán además efectos de perdón del ofendido o del legitimado para otorgarlo; en lo que respecta a la reparación del daño, tendrán efectos de cosa juzgada.
+En el caso de Mediadores o Conciliadores Privados, los Convenios celebrados ante ellos tendrán el rango de documento con fecha cierta.
 
-Para declararse extinguida la acción penal o la potestad de la ejecución de la pena, se observarán las disposiciones establecidas en la Legislación Penal vigente, debiendo entenderse que con la suscripción del Convenio, el ofendido otorga el perdón.
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 22 DE JUNIO DE 2009)</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 2009)</small>
 
 ###### Artículo 45.
 
-El procedimiento de Mediación llevado a cabo en el Centro, sedes regionales, Centros de Justicia Alternativa o por los mediadores-conciliadores privados, siempre tendrá carácter confidencial. Por lo que toda persona que participe, estará impedida para divulgar la información.
+El procedimiento de Mediación o Conciliación substanciado siempre tendrán carácter confidencial. En consecuencia, toda persona que en él intervenga estará impedida para divulgar la información que de aquél se derive, teniendo la misma calidad toda constancia, documento o manifestación.
 
 La información proporcionada por los Interesados en el procedimiento será confidencial y privilegiada; de igual manera lo serán todos los documentos y constancias relativos al mismo.
 
@@ -537,7 +679,7 @@ El que haya intervenido como Mediador-Conciliador, no podrá fungir como testigo
 
 La actuación de los mediadores-conciliadores en sede judicial estará protegida por el secreto profesional, teniendo estos fe pública en sus actuaciones.
 
-## TÍTULO QUINTO. ARBITRAJE
+## TÍTULO CUARTO. DE LA MEDIACIÓN INDÍGENA
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
@@ -551,7 +693,7 @@ Los procedimientos de mediación indígena se llevarán a cabo en las sedes regi
 
 El procedimiento y los mediadores Indígenas se regirán por los ordenamientos jurídicos mencionados en el Artículo 49 de esta Ley, así como por los usos y costumbres de la comunidad a la que pertenezcan los Interesados.
 
-## TÍTULO SEXTO. DE LA TRANSACCIÓN
+## TÍTULO QUINTO. ARBITRAJE
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
@@ -567,7 +709,7 @@ Para efecto del nombramiento de árbitros mediante intervención judicial, las p
 
 A falta de acuerdo arbitral o cláusula compromisoria, cuando deba nombrarse árbitros mediante intervención judicial, las personas susceptibles de nombramiento deberán comprobar su acreditación y contar con el registro que para tal efecto expida el Consejo.
 
-## TÍTULO SÉPTIMO. DE LOS CENTROS DE JUSTICIA ALTERNATIVA Y DE LOS MEDIADORES-CONCILIADORES PRIVADOS
+## TÍTULO SEXTO. DE LA TRANSACCIÓN
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
@@ -575,9 +717,9 @@ A falta de acuerdo arbitral o cláusula compromisoria, cuando deba nombrarse ár
 
 Cuando los Interesados acuerden terminar una controversia presente o prevenir una futura mediante la transacción, ésta se regulará por las disposiciones aplicables contenidas en el Código Civil vigente para el Estado de Hidalgo.
 
-## TÍTULO OCTAVO. DE LA VIGILANCIA Y SANCIONES
+## TÍTULO SÉPTIMO. DE LOS CENTROS DE JUSTICIA ALTERNATIVA Y DE LOS MEDIADORES-CONCILIADORES PRIVADOS
 
-### CAPÍTULO PRIMERO. DE LA VIGILANCIA Y SANCIONES
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 54.
 
@@ -593,11 +735,21 @@ Corresponderá a los Mediadores-Conciliadores privados promover la solicitud ant
 
 No serán elevados a categoría de fecha cierta los Convenios que a juicio del Director del Centro, afecten intereses de orden público o hayan recaído sobre derechos respecto de los cuales los interesados no tengan libre disposición.
 
-### CAPÍTULO SEGUNDO. DE LOS RECURSOS
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+En ningún caso procederá la vía de justicia alternativa en materia penal por Mediadores-Conciliadores Privados.
+
+## TÍTULO OCTAVO. DE LA VIGILANCIA Y SANCIONES
+
+### CAPÍTULO PRIMERO. DE LA VIGILANCIA Y SANCIONES
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2009)</small>
 
 ###### Artículo 57.
 
-Para el control de los medios alternativos de solución de conflictos que se utilicen en el Estado, habrá un centro de vigilancia operativa dependiente de la Comisión de Disciplina del Consejo.
+Para el control de los medios alternativos de solución de conflictos en la vertiente de la judicatura habrá un centro de vigilancia operativa dependiente de la Comisión de Disciplina del Consejo.
+
+En el caso de la vía alternativa en la vertiente de procuración de justicia penal, se regulará lo conducente en la Ley Orgánica del Ministerio Público.
 
 ###### Artículo 58.
 
@@ -607,9 +759,15 @@ La responsabilidad y sanciones de quienes presten el servicio de solución de co
 
 El incumplimiento a las atribuciones previstas en esta Ley, serán causas de responsabilidad para los Mediadores-Conciliadores. Con respecto a los mediadores-conciliadores privados, las sanciones que deban ser impuestas por ello, se equipararan a las previstas en la Ley de Responsabilidades de los Servidores Públicos.
 
+### CAPÍTULO SEGUNDO. DE LOS RECURSOS
+
 ###### Artículo 60.
 
 Las controversias que se susciten derivadas de la aplicación de esta Ley, serán resueltas por el Consejo a través de la interposición de los recursos correspondientes, mismos que se encontraran contemplados y regulados en el reglamento de este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+
+Lo conducente resolverá el Procurador en el caso de cualquier inconformidad en la vía de Justicia Alternativa en materia Penal.
 
 ## TRANSITORIOS
 
@@ -640,3 +798,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE JUNIO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al contenido de este Decreto.
