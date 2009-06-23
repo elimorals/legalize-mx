@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-bibliotecas-222"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-21"
-last_updated: "1988-01-21"
+last_updated: "2009-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=222&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGB"
 
 LEY GENERAL DE BIBLIOTECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JUNIO DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 21 de enero de 1988.
 
@@ -52,21 +52,25 @@ III.- El establecimiento de las bases y directrices para la integración y el de
 
 IV.- La determinación de lineamientos para llevar a cabo la concertación con los sectores social y privado en esta materia.
 
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 2o.
 
-Para los efectos de la presente ley, se entenderá por biblioteca pública todo establecimiento que contenga un acervo de carácter general superior a quinientos títulos, catalogados y clasificados, y que se encuentre destinado a atender en forma gratuita a toda persona que solicite la consulta o préstamo del acervo en los términos de las normas administrativas aplicables.
+Para los efectos de la presente ley, se entenderá por biblioteca pública todo establecimiento que contenga un acervo impreso o digital de carácter general superior a quinientos títulos, catalogados y clasificados, y que se encuentre destinado a atender en forma gratuita a toda persona que solicite la consulta o préstamo del acervo en los términos de las normas administrativas aplicables.
 
-La biblioteca pública tendrá como finalidad ofrecer en forma democrática los servicios de consulta de libros y otros servicios culturales complementarios que permitan a la población adquirir, transmitir, acrecentar y conservar en forma libre el conocimiento en todas las ramas del saber.
+La biblioteca pública tendrá como finalidad ofrecer en forma democrática el acceso a los servicios de consulta de libros, impresos y digitales, y otros servicios culturales complementarios, como orientación e información, que permitan a la población adquirir, transmitir, acrecentar y conservar en forma libre el conocimiento en todas las ramas del saber.
 
-Su acervo podrá comprender colecciones bibliográficas, hemerográficas, auditivas, visuales, audiovisuales y, en general cualquier otro medio que contenga información afín.
+Su acervo podrá comprender colecciones bibliográficas, hemerográficas, auditivas, visuales, audiovisuales, digitales y, en general cualquier otro medio que contenga información afín.
 
 ###### ARTICULO 3o.
 
 Corresponde a la Secretaría de Educación Pública proponer, ejecutar y evaluar la política nacional de bibliotecas atendiendo al Plan Nacional de Desarrollo y programas correspondientes.
 
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 4o.
 
-Los Gobiernos, Federal, Estatales y Municipales, dentro de sus respectivas jurisdicciones, promoverán el establecimiento, organización y sostenimiento de bibliotecas públicas y los servicios culturales complementarios que a través de éstas se otorguen.
+Los Gobiernos, Federal, Estatales y Municipales, dentro de sus respectivas jurisdicciones, promoverán el establecimiento, organización y sostenimiento de bibliotecas públicas, impulsando el establecimiento, equipamiento, mantenimiento y actualización permanente de un área de servicios de cómputo y los servicios culturales complementarios que a través de éstas se otorguen.
 
 ### CAPITULO II. De la Red Nacional de Bibliotecas Públicas
 
@@ -90,13 +94,17 @@ Corresponde a la Secretaría de Educación Pública:
 
 I.- Efectuar la coordinación de la Red;
 
-II.- Establecer los mecanismos participativos para planear y programar la expansión de la Red;
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2009)</small>
+
+II.- Establecer los mecanismos participativos para planear y programar la expansión y modernización tecnológica de la Red;
 
 III.- Emitir la normatividad técnica bibliotecaria para las bibliotecas de la Red, y supervisar su cumplimiento;
 
 IV.- Seleccionar, determinar y desarrollar las colecciones de cada biblioteca pública de acuerdo con el programa correspondiente;
 
-V.- Dotar a las nuevas bibliotecas públicas de un acervo de publicaciones informativas, recreativas y formativas; así como de obras de consulta y publicaciones periódicas a efecto de que sus acervos respondan a las necesidades culturales, educativas y de desarrollo en general de los habitantes de cada localidad;
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2009)</small>
+
+V.- Dotar a las nuevas bibliotecas públicas, en formato impreso y digital, de un acervo de publicaciones informativas, recreativas y formativas; así como de obras de consulta y publicaciones periódicas a efecto de que sus acervos respondan a las necesidades culturales, educativas y de desarrollo en general de los habitantes de cada localidad;
 
 VI.- Enviar periódicamente a las bibliotecas integradas a la Red dotaciones de los materiales señalados en la fracción anterior;
 
@@ -104,11 +112,15 @@ VII.- Recibir de las bibliotecas que integran la Red, las publicaciones obsoleta
 
 VIII.- Enviar a las bibliotecas integrantes de la Red los materiales bibliográficos catalogados y clasificados de acuerdo con las normas técnicas bibliotecológicas autorizadas, a efecto de que los servicios bibliotecarios puedan ofrecerse con mayor eficiencia;
 
-IX.- Proporcionar el servicio de catalogación de acervos complementarios de las bibliotecas integrantes de la Red;
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2009)</small>
+
+IX.- Proporcionar el servicio de catalogación de acervos complementarios y apoyo técnico para el mantenimiento de los servicios informáticos de las bibliotecas integrantes de la Red;
 
 X.- Proporcionar entrenamiento y capacitación al personal adscrito a las bibliotecas públicas de la Red;
 
-XI.- Proporcionar asesoría técnica en materia bibliotecaria a las bibliotecas incluidas en la Red;
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2009)</small>
+
+XI.- Proporcionar asesoría técnica en materia bibliotecaria e informática a las bibliotecas incluidas en la Red;
 
 XII.- Registrar los acervos de las bibliotecas en un catálogo general que permita la articulación de los servicios;
 
@@ -116,7 +128,9 @@ XIII.- Difundir a nivel nacional los servicios bibliotecarios y actividades afin
 
 XIV.- Coordinar el préstamo interbibliotecario a nivel nacional e internacional, vinculando a las bibliotecas integrantes de la Red entre sí y con la comunidad bibliotecaria en programas internacionales;
 
-XV.- Llevar a cabo o patrocinar investigaciones encaminadas a fomentar el uso de los servicios bibliotecarios y el hábito de la lectura; y
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2009)</small>
+
+XV.- Llevar a cabo o patrocinar investigaciones encaminadas a fomentar el uso de los servicios bibliotecarios, tanto impresos como digitales, así como el hábito de la lectura, y
 
 XVI.- Realizar las demás funciones que sean análogas a las anteriores y que le permitan alcanzar sus propósitos.
 
@@ -126,11 +140,15 @@ Corresponderá a los Gobiernos de los Estados, en los términos de las disposici
 
 I.- Integrar la Red Estatal de Bibliotecas Públicas;
 
-II.- Participar en la planeación, programación del desarrollo, y expansión de las bibliotecas públicas a su cargo;
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2009)</small>
+
+II.- Participar en la planeación, programación del desarrollo, actualización tecnológica y expansión de las bibliotecas públicas a su cargo;
 
 III.- Coordinar, administrar y operar la Red Estatal de Bibliotecas Públicas y supervisar su funcionamiento;
 
-IV.- Reparar los acervos dañados;
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2009)</small>
+
+IV.- Reparar los acervos impresos y digitales dañados;
 
 V.- Asegurar de modo integral y conservar en buen estado las instalaciones, el equipo y acervo bibliográfico;
 
@@ -164,7 +182,9 @@ a) El Presidente del Colegio Nacional de Bibliotecarios;
 
 b) El Presidente de la Cámara Nacional de la Industria Editorial;
 
-c) El titular de la unidad vinculada con la labor editorial de la Secretaría de Educación Pública; y
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2009)</small>
+
+c) Los titulares de las unidades vinculadas con la labor editorial y de desarrollo tecnológico de la Secretaría de Educación Pública, y
 
 d) Tres representantes de los Gobiernos de los Estados.
 
@@ -182,9 +202,11 @@ La responsabilidad de coordinar el Sistema recaerá en la Secretaría de Educaci
 
 La Secretaría de Educación Pública organizará la Biblioteca de México con el carácter de biblioteca central para todos los efectos de la Red Nacional de Bibliotecas.
 
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 13.
 
-El Sistema Nacional de Bibliotecas, tendrá como propósito conjuntar los esfuerzos nacionales para lograr la coordinación dentro del sector público y la participación voluntaria de los sectores social y privado a través de la concertación, a fin de integrar y ordenar la información bibliográfica disponible en apoyo a las labores educativas, de investigación y cultura en general, para el desarrollo integral del país y de sus habitantes.
+El Sistema Nacional de Bibliotecas tendrá como propósito conjuntar los esfuerzos nacionales para lograr la coordinación dentro del sector público y la participación voluntaria de los sectores social y privado a través de la concertación, a fin de integrar y ordenar la información bibliográfica, impresa y digital, disponible en apoyo a las labores educativas, de investigación y cultura en general, para el desarrollo integral del país y de sus habitantes.
 
 ###### ARTICULO 14.
 
@@ -194,7 +216,9 @@ I.- Elaborar un listado general de las bibliotecas que se integren al Sistema;
 
 II.- Orientar a las bibliotecas pertenecientes al Sistema respecto de los medios técnicos en materia bibliotecaria y su actualización, para su mejor organización y operación;
 
-III.- Configurar un catálogo general de acervos de las bibliotecas incorporadas al Sistema, conforme a las regla (sic) de catalogación y clasificación bibliográfica que adopte el Sistema para lograr su uniformidad;
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2009)</small>
+
+III.- Configurar un catálogo general de acervos impresos y digitales de las bibliotecas incorporadas al Sistema, conforme a las reglas de catalogación y clasificación bibliográfica que adopte el Sistema para lograr su uniformidad;
 
 IV.- Operar como medio de enlace entre los participantes, y entre éstos y las organizaciones bibliotecológicas internacionales, para desarrollar programas conjuntos;
 
@@ -221,3 +245,11 @@ SEGUNDO.- Se derogan las disposiciones que se opongan a las normas previstas en 
 México, D. F., a 17 de diciembre de 1987.- Sen. Armando Trasviña Taylor, Presidente.- Dip. David Jiménez González, Presidente.- Sen. Abraham Martínez Rivero, Secretario.- Dip. Antonio Sandoval González, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de diciembre de mil novecientos ochenta y siete.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 23 DE JUNIO DE 2009.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La actualización y modernización tecnológica a que se refiere el presente Decreto se realizará de manera gradual y creciente, con la concurrencia presupuestal de la Federación, Entidades Federativas y Municipios.
