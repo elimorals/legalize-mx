@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2009-05-26"
+last_updated: "2009-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -1369,11 +1369,15 @@ Dentro de los dos años contados a partir de la publicación del decreto o acuer
 
 Salvo en el caso de que el plebiscito sea solicitado por el titular del Poder Ejecutivo, el procedimiento no suspenderá los efectos del acto o decisión correspondiente. Si el resultado del plebiscito es en el sentido de desaprobar dicho acto o decisión, el titular del Poder Ejecutivo emitirá el decreto o acuerdo revocatorio que proceda en un plazo no mayor de quince días.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 78.
 
-El Gobernador del Estado asistirá el primer domingo de agosto de cada año a la Sesión Ordinaria que celebre el Congreso, en la que presentará un Informe por escrito, exponiendo la situación que guarda la Administración Pública del Estado. También podrá comparecer cuando lo solicite para informar sobre asuntos de su competencia.
+El Gobernador del Estado enviará al Congreso del Estado, el primer jueves de marzo, un informe por escrito en el cual exponga la situación que guarda la Administración Pública del Estado.
+
+Los grupos y representaciones parlamentarias que integren el Congreso del Estado, durante el análisis del informe, fijarán su postura en los términos de la legislación correspondiente.
+
+El Congreso del Estado, a efecto de ampliar la información, podrá solicitar la comparecencia de los secretarios de estado, así como del Procurador General de Justicia y los directores de las entidades paraestatales.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1985)</small>
 
@@ -3082,3 +3086,9 @@ Artículo Único. El presente decreto entrará en vigor al cuarto día siguiente
 P.O. 26 DE MAYO DE 2009.
 
 Artículo Único.- El presente decreto entrará en vigor al cuarto día posterior al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE JUNIO DE 2009.
+
+Artículo Primero. El presente Decreto iniciará su vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Por única ocasión el informe de gobierno sobre el estado que guarda la Administración Pública, que habrá de enviar el Gobernador, el primer jueves de marzo de 2010, abarcará, además, el periodo comprendido del 1 de agosto al 31 de diciembre de 2008.
