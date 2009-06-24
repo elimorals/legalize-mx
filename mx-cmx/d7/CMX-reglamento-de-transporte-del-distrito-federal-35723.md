@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transporte-del-distrito-federal-35723"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-30"
-last_updated: "2009-04-17"
+last_updated: "2009-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35723&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-12-19"
 
 REGLAMENTO DE TRANSPORTE DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE JUNIO DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 30 de diciembre de 2003.
 
@@ -560,15 +560,23 @@ La Secretaría, sustentada en el Programa General de Desarrollo del Distrito Fed
 
 #### Sección IV. Del Servicio Privado de Pasajeros; Escolar, de Personal, Turístico y Especializado
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE JUNIO DE 2009)</small>
+
 ###### Artículo 45.
 
-El servicio privado de pasajeros, es aquél que se proporciona con vehículos propios, debe contar con permiso de la Secretaría. No puede ofrecerse al público en general y se clasifica en:
+El servicio privado de pasajeros, es aquel proporcionado con vehículos que deben contar con el permiso otorgado por la Secretaría y se clasifica en:
 
-I. Escolar: El que proporcionan los centros educativos a sus escolares y personal docente;
+> <small>(REFORMADA, G.O. 24 DE JUNIO DE 2009)</small>
 
-II. De personal: El que proporcionan las empresas al personal que labora a su servicio;
+I. Escolar: Persona física o moral que proporciona el servicio de transporte escolar a los centros educativos, a sus escolares y personal docente;
 
-III. Turístico: El proporcionado por los centros educativos e instituciones, con fines culturales, educativos, recreativos, o de esparcimiento;
+> <small>(REFORMADA, G.O. 24 DE JUNIO DE 2009)</small>
+
+II. De personal: Persona física o moral que proporciona a las empresas el servicio de transporte al personal que labora en las mismas;
+
+> <small>(REFORMADA, G.O. 24 DE JUNIO DE 2009)</small>
+
+III. Turístico: Persona física o moral que proporciona el servicio de transporte a los centros educativos e instituciones, con fines culturales, educativos, recreativos, o de esparcimiento;
 
 IV. Especializado: El proporcionado por instituciones públicas con unidades propias, que se presta en ambulancias, patrullas, de bomberos, de emergencia, seguridad y custodia, protección civil y con adaptaciones para personas con discapacidad; y
 
@@ -1325,3 +1333,9 @@ G.O. 17 DE ABRIL DE 2009.
 PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 24 DE JUNIO DE 2009.
+
+PRIMERO. - Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. - El presente acuerdo entrará en vigor el día de su publicación en la Gaceta Oficial del Distrito Federal.
