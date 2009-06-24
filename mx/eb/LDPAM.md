@@ -4,7 +4,7 @@ identifier: "LDPAM"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-25"
-last_updated: "2006-01-26"
+last_updated: "2009-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25062&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDPAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JUNIO DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 25 de junio de 2002.
 
@@ -586,9 +586,13 @@ XXVII. Promover, fomentar y difundir en las actuales y nuevas generaciones, una 
 
 > <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2005)</small>
 
-XXVIII. Elaborar y proponer al titular del Poder Ejecutivo Federal, los proyectos legislativos en materia de personas adultas mayores, que contribuyan a su desarrollo humano integral, y
+XXVIII. Elaborar y proponer al titular del Poder Ejecutivo Federal, los proyectos legislativos en materia de personas adultas mayores, que contribuyan a su desarrollo humano integral, y (sic)
 
-XXIX. Expedir su Estatuto Orgánico.
+XXIX. Expedir su Estatuto Orgánico;
+
+> <small>(ADICIONADA, D.O.F. 24 DE JUNIO DE 2009)</small>
+
+XXX. Crear un registro único obligatorio de todas las instituciones públicas y privadas de casas hogar, albergues, residencias de día o cualquier centro de atención a las personas adultas mayores.
 
 ### CAPÍTULO II. DE SU GOBIERNO, ADMINISTRACIÓN Y VIGILANCIA
 
@@ -799,3 +803,9 @@ D.O.F. 26 DE ENERO DE 2005.
 D.O.F. 26 DE ENERO DE 2006.
 
 Único.- El presente Decreto entrará en vigor a los cuarenta y cinco días siguientes de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE JUNIO DE 2009.
+
+Primero.- El presente Decreto entrará en vigor en la fecha de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las acciones que, en cumplimiento a lo dispuesto en este Decreto y en razón de su competencia, corresponda ejecutar al Instituto Nacional de las Personas Adultas Mayores, deberán sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
