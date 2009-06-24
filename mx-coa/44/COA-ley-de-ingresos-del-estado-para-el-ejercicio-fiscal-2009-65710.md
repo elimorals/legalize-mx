@@ -4,7 +4,7 @@ identifier: "COA-ley-de-ingresos-del-estado-para-el-ejercicio-fiscal-2009-65710"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2008-12-23"
-last_updated: "2009-05-12"
+last_updated: "2009-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE INGRESOS DEL ESTADO PARA EL EJERCICIO FISCAL 2009
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2009.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Chihuahua, el martes 23 de diciembre de 2008.
 
@@ -165,9 +165,11 @@ El Ejecutivo del Estado, por medio de la Secretaría de Finanzas, deberá dar cu
 
 Los créditos que se contraten con base en la presente autorización deberán destinarse a la ejecución de los programas de inversión y obra pública.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 7.
 
-Se autoriza al Ejecutivo del Estado, para que por conducto del Secretario de Finanzas, afecte en garantía de todas y cada una de las obligaciones que contraiga por los créditos o empréstitos que contrate como deudor directo o contingente en términos del artículo 6 de esta Ley, las Participaciones que en ingresos federales le correspondan al Estado, sin perjuicio de afectaciones anteriores.
+Se autoriza al Ejecutivo del Estado, para que por conducto del Secretario de Finanzas, afecte en garantía y/o fuente de pago de todas y cada una de las obligaciones que contraiga por los créditos o empréstitos que contrate como deudor directo o contingente en términos del artículo 6 de esta Ley, las Participaciones que en ingresos federales le correspondan al Estado, sin perjuicios de afectaciones anteriores.
 
 ###### ARTÍCULO 8.
 
@@ -175,9 +177,11 @@ Se autoriza al Ejecutivo del Estado, para que por conducto de la Secretaría de 
 
 Teniendo como primordial meta conseguir la colocación de los bonos y/o certificados de deuda pública a tasa fija, sin descartar que la colocación pueda ser a tasa variable, dependiendo de las condiciones del mercado.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 9.
 
-Se autoriza al Ejecutivo del Estado, para que por conducto del Secretario de Finanzas, cuando sea procedente, otorgue el aval del Gobierno del Estado y afecte las participaciones que en ingresos federales le correspondan, en garantía de todas y cada una de las obligaciones solidarias que contraiga, por los créditos o empréstitos que autorice el Congreso del Estado a contratar a los municipios o a las entidades de la Administración Pública Paraestatal o de los Municipios, en términos de la Ley de Deuda Pública para el Estado de Coahuila de Zaragoza.
+Se autoriza al Ejecutivo del Estado, para que por conducto del Secretario de Finanzas, cuando sea procedente, otorgue el aval del Gobierno del Estado y afecte las participaciones que en ingresos federales le correspondan, en garantía y/o fuente de pago de todas y cada una de las obligaciones solidarias que contraiga, por los créditos o empréstitos que autorice el Congreso del Estado, a contratar a los municipios o a las entidades de la Administración Pública Paraestatal o de los Municipios, en términos de la Ley de Deuda Pública para el Estado de Coahuila de Zaragoza.
 
 ###### ARTÍCULO 10.
 
@@ -496,3 +500,11 @@ Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos 
 Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE JUNIO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado.
