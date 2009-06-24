@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-la-secretaria-particular-de-la-65157"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-22"
-last_updated: "2008-11-22"
+last_updated: "2009-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA PARTICULAR DE LA GOBERNADORA DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2009.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el lunes 22 de noviembre de 2008.
 
@@ -173,9 +173,13 @@ XXII. Autorizar los sistemas de control y evaluación, de cualquier procedimient
 
 XXIII. Coordinarse con las Oficinas de Representación, cuando la Gobernadora realice actividades fuera del Estado;
 
-XXIV. Plantear y promover la automatización mediante sistemas computacionales para contribuir a la modernización integral de la Secretaría; y
+XXIV. Plantear y promover la automatización mediante sistemas computacionales para contribuir a la modernización integral de la Secretaría; y (sic)
 
-XXV. Las demás que le confiera la Gobernadora y otras disposiciones legales.
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2009)</small>
+
+XXV. Coordinarse con las Dependencias de la Administración Pública Estatal en la elaboración de proyectos y trabajos que le sean encomendados; y
+
+XXVI. Las demás que le confiera la Gobernadora y otras disposiciones legales.
 
 ###### Artículo 7.
 
@@ -183,9 +187,13 @@ Para el cumplimiento de sus atribuciones, el despacho de la Secretaría contará
 
 I. Oficina de Representación del Gobierno del Estado de Zacatecas en la Ciudad de México;
 
-II. Oficina de Representación del Gobierno del Estado de Zacatecas en la Ciudad de Monterrey, Nuevo León; y
+II. Oficina de Representación del Gobierno del Estado de Zacatecas en la Ciudad de Monterrey, Nuevo León; y (sic)
 
-III. Comité de Agenda.
+III. Comité de Agenda;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2009)</small>
+
+IV. Secretaría Técnica.
 
 ###### Artículo 8.
 
@@ -214,6 +222,24 @@ III. Acordar semanalmente con el Secretario las actividades y asistencia, de acu
 IV. Preparar el acuerdo por el cual se designa a los representantes de la Gobernadora a los eventos;
 
 V. Confirmar las invitaciones de carácter social;
+
+VI. Las demás que le confiera el presente Reglamento o le encomiende el Secretario.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2009)</small>
+
+###### Artículo 10 Bis.
+
+Son funciones de la Secretaría Técnica las siguientes:
+
+I. Elaborar, analizar o en su caso, modificar los documentos que la Constitución Política del Estado, faculta a la Gobernadora para pronunciarse o signar;
+
+II. Colaborar y participar con las Dependencias de la Administración Pública Estatal, en la elaboración de proyectos y trabajos que le sean encomendados por el Secretario;
+
+III. Acordar con el Secretario los sistemas y procedimientos de trabajo que permitan la eficiencia en tiempo y forma de sus actividades;
+
+IV. Preparar la documentación correspondiente para la celebración de reuniones en que participe la Gobernadora y el Secretario;
+
+V. Cumplir y dar seguimiento a las instrucciones giradas por el Secretario respecto al ejercicio de sus funciones; y
 
 VI. Las demás que le confiera el presente Reglamento o le encomiende el Secretario.
 
@@ -517,9 +543,11 @@ V. Brindar atención a los medios de comunicación del municipio de Fresnillo, Z
 
 VI. Las demás que le sean encomendadas por sus superiores.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2009)</small>
+
 ###### Artículo 39.
 
-La Coordinación Administrativa tendrá a su cargo las funciones de asignación, enajenación, transferencia y en general, de administración de los recursos humanos, financieros y materiales de la Secretaría.
+La Coordinación Administrativa tendrá a su cargo la administración de los recursos humanos, financieros y materiales de la Secretaría.
 
 ###### Artículo 40.
 
@@ -527,13 +555,17 @@ Son funciones de la Coordinación Administrativa las siguientes:
 
 I. Elaborar el Programa Operativo Anual y el proyecto del Presupuesto de Egresos de la Secretaría y su posterior remisión a la instancia que corresponda;
 
-II. Revisar, vigilar que el ejercicio del gasto, se efectué de manera transparente y de acuerdo a la calendarización y distribución del presupuesto de los recursos financieros asignados a la Secretaría;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2009)</small>
+
+II. Revisar, vigilar que el ejercicio del gasto, se efectué de manera transparente y de acuerdo a la calendarización y distribución de los recursos financieros asignados a la Secretaría;
 
 III. Adquirir, con base a la normatividad vigente, los bienes y servicios necesarios para el eficiente funcionamiento de la Secretaría, coordinándose en su caso con las instancias que correspondan;
 
 IV. Administrar y mantener actualizados los inventarios de bienes y procurar su cuidado y mantenimiento a través de campañas de información y comunicación;
 
-V. Fungir como oficina de enlace en materia de acceso a la información pública;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2009)</small>
+
+V. Fungir como enlace en materia de acceso a la información pública;
 
 VI. Establecer el control de incidencias del personal adscrito, observando las disposiciones aplicables;
 
@@ -547,9 +579,13 @@ X. Disponer de los servicios de conservación y mantenimiento de bienes muebles 
 
 XI. Ser el enlace con la Secretaría de Planeación y Desarrollo Regional, respecto a la emisión de informes y documentación relativa a la programación de actividades de la Secretaría;
 
-XII. Auxiliar en los procesos de entrega recepción de las unidades administrativas; y
+XII. Auxiliar en los procesos de entrega recepción de las unidades administrativas; y (sic)
 
-XIII. Las demás funciones que la normatividad le establezca o que el Secretario le encomiende.
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2009)</small>
+
+XIII. Proporcionar y satisfacer la necesidad de contar con un espacio lúdico, como herramienta integradora y extraescolar para los hijos e hijas de los servidores públicos de la Secretaría, con el fin de favorecer la igualdad de oportunidades; y
+
+XIV. Las demás funciones que la normatividad le establezca o que el Secretario le encomiende.
 
 ###### Artículo 41.
 
@@ -561,9 +597,13 @@ II. Departamento de Planeación y Control Presupuestal;
 
 III. Departamento de Recursos Humanos;
 
-IV. Departamento de Recursos Materiales; y
+IV. Departamento de Recursos Materiales; y (sic)
 
-V. Departamento de Control del Parque Vehicular.
+V. Departamento de Control del Parque Vehicular;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2009)</small>
+
+VI. Área Lúdica.
 
 ### CAPÍTULO V. De las Direcciones
 
@@ -724,3 +764,11 @@ CARLOS PINTO NUÑEZ
 EL SECRETARIO PARTICULAR DE LA GOBERNADORA
 
 RAFAEL MEDINA BRIONES.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE JUNIO DE 2009.
+
+PRIMERO.- El presente Decreto Gubernativo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Los Manuales de Organización y de Procedimientos de la Secretaría Particular de la Gobernadora, deberán actualizarse en un término que no excederá de sesenta días a partir de la entrada en vigor de este instrumento legal.
