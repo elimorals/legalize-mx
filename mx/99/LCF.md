@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "2008-12-31"
+last_updated: "2009-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCF"
 
 LEY DE COORDINACION FISCAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JUNIO DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 27 de diciembre de 1978.
 
@@ -1170,11 +1170,13 @@ Las Entidades a su vez distribuirán los recursos que correspondan a sus Municip
 
 El Fondo de Aportaciones Múltiples se determinará anualmente en el Presupuesto de Egresos de la Federación por un monto equivalente, sólo para efectos de referencia, al 0.814% de la recaudación federal participable a que se refiere el artículo 2o. de esta Ley, según estimación que de la misma se realice en el propio presupuesto, con base a lo que al efecto establezca la Ley de Ingresos de la Federación para ese ejercicio. Para el entero de estos recursos, no procederán los anticipos a que se refiere el segundo párrafo del artículo 7o. de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO 2009)</small>
 
 ###### ARTICULO 40.
 
-Las aportaciones federales que con cargo al Fondo de Aportaciones Múltiples reciban los Estados de la Federación y el Distrito Federal se destinarán exclusivamente al otorgamiento de desayunos escolares, apoyos alimentarios y de asistencia social a la población en condiciones de pobreza extrema, apoyos a la población en desamparo, así como a la construcción, equipamiento y rehabilitación de infraestructura física de los niveles de educación básica y superior en su modalidad universitaria.
+Las aportaciones federales que con cargo al Fondo de Aportaciones Múltiples reciban los Estados de la Federación y el Distrito Federal se destinarán exclusivamente al otorgamiento de desayunos escolares, apoyos alimentarios y de asistencia social a la población en condiciones de pobreza extrema, apoyos a la población en desamparo, así como a la construcción, equipamiento y rehabilitación de infraestructura física de los niveles de educación básica, media superior y superior en su modalidad universitaria según las necesidades de cada nivel.
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -1937,6 +1939,12 @@ VIII. La Secretaría de Hacienda y Crédito Público evaluará la política de h
 D.O.F. 31 DE DICIEMBRE DE 2008.
 
 Único. El presente decreto entrará en vigor el 1o. de enero de 2009.
+
+D.O.F. 24 DE JUNIO DE 2009.
+
+Primero. El presente Decreto entrará en vigor el 1 de enero de 2010.
+
+Segundo. En la aprobación del Presupuesto de Egresos de la Federación para los ejercicios 2010, 2011, 2012, 2013 y 2014, la Cámara de Diputados proveerá lo conducente a fin de que la asignación de recursos no distribuibles geográficamente del Fondo de Aportaciones múltiples, se incremente para el nivel medio superior.
 
 ## TRANSITORIO
 
