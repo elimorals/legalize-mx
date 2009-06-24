@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2009-01-07"
+last_updated: "2009-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE JUNIO DE 2009.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -2279,6 +2279,20 @@ IV. Use un título o autorización con el propósito de ejercer alguna actividad
 
 Para el caso de las fracciones I y II, si además ejerce alguna de sus funciones, la pena se aumentará hasta en una mitad.
 
+> <small>(ADICIONADO, G.O. 24 DE JUNIO DE 2009)</small>
+
+###### Artículo 258 Bis.
+
+Se equiparará al delito de usurpación de funciones públicas, la prestación ilegal de servicios de seguridad privada, por lo que se sancionará a quien, sin contar con autorización vigente expedida por la autoridad competente, preste servicios en cualquiera de las modalidades de seguridad privada a que se refiere la ley respectiva.
+
+A quien incurra en esta conducta se le sancionará con pena privativa de libertad de cuatro a seis años de prisión y con multa de mil a cinco mil veces el salario mínimo general vigente en la capital del Estado.
+
+> <small>(ADICIONADO, G.O. 24 DE JUNIO DE 2009)</small>
+
+###### Artículo 258 Ter.
+
+Se impondrán de dos a cuatro años de prisión y multa de cien a quinientas veces el salario mínimo, a quien promueva, dirija, organice, incite, compela o patrocine a otro u otros, a prestar el servicio de seguridad privada en el Estado, sin contar con la autorización expedida por la autoridad competente en términos de la ley respectiva.
+
 ## TÍTULO XIII. DELITOS DE FALSEDAD
 
 ### CAPÍTULO I. CONSPIRACIÓN
@@ -3310,3 +3324,9 @@ G.O. 7 DE ENERO DE 2009.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 24 DE JUNIO DE 2009.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
