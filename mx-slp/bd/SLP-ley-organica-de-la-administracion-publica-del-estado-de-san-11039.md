@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2007-07-19"
+last_updated: "2009-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -233,13 +233,17 @@ XIV. Oficialía Mayor;
 
 XV. Procuraduría General de Justicia;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2009)</small>
 
-XVI. Contraloría General del Estado, y
+XVI. Contraloría General del Estado;
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2009)</small>
 
-XVII. La Secretaría de Salud.
+XVII. La Secretaría de Salud, y
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2009)</small>
+
+XVIII. Secretaría de Seguridad Pública.
 
 En el caso de la Consejería Jurídica y de la Defensoría Social, éstas quedarán adscritas al Despacho del Ejecutivo.
 
@@ -275,15 +279,17 @@ XIII. Revisar o, en su caso, elaborar los proyectos de ley, reglamentos y cualqu
 
 XIV. Reivindicar la propiedad del Estado, con la intervención del Procurador General de Justicia;
 
-XV. Planear, organizar y ejecutar los programas relativos a la protección de los habitantes, al orden público, a la prevención de los delitos y conductas antisociales y a la readaptación social;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2009)</small>
 
-XVI. Garantizar que los actos de los particulares se desarrollen dentro de los límites de respeto a la vida privada, a la paz y a la moral pública y proteger los derechos de las personas;
+XV. Planear, organizar y ejecutar los programas relativos a la protección civil de los habitantes, y a la readaptación social;
+
+XVI. (DEROGADA, P.O. 24 DE JUNIO DE 2009)
 
 XVII. Promover la participación de la sociedad en los programas de protección civil;
 
-XVIII. Autorizar, normar y vigilar el funcionamiento de los organismos auxiliares de seguridad, previo acuerdo del Ejecutivo;
+XVIII. (DEROGADA, P.O. 24 DE JUNIO DE 2009)
 
-XIX. Realizar la vigilancia de los sistemas de vialidad y tránsito en el Estado, en los términos que señalen las leyes y los reglamentos respectivos;
+XIX. (DEROGADA, P.O. 24 DE JUNIO DE 2009)
 
 XX. Administrar los centros de readaptación social y tramitar, por acuerdo del Gobernador, las solicitudes de extradición, amnistía, indultos, libertad anticipada y traslado de reos;
 
@@ -1105,6 +1111,68 @@ XIX. Promover, organizar y participar en conferencias, convenciones, encuentros 
 
 XX. Las demás que le confieran las leyes y reglamentos vigentes.
 
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2009)</small>
+
+ARTICULO 41 QUATER. A la Secretaría de Seguridad Pública le corresponde el despacho de los siguientes asuntos:
+
+I. Formular y proponer al titular del Poder Ejecutivo, políticas integrales, sistemáticas, continuas y evaluables; así como programas y estrategias, en materia de seguridad pública;
+
+II. Planear, organizar y ejecutar los programas y acciones relativas a la protección de los habitantes, el orden público, a la prevención de los delitos y conductas antisociales, en la que deban participar las diferentes instituciones policiales;
+
+III. Garantizar que los actos de los particulares se desarrollen dentro de los límites de respeto a la vida privada, a la paz y a la moral pública, y proteger los derechos de las personas;
+
+IV. Representar, a través de su titular, al Gobernador del Estado, en el Sistema Nacional de Seguridad Pública, en ausencia, o suplencia del mismo;
+
+V. Proponer al Consejo Estatal de Seguridad Pública, políticas, acciones y estrategias de coordinación en materia de prevención del delito y política criminal, para todo el territorio del Estado;
+
+VI. Celebrar convenios de colaboración en el ámbito de su competencia, y en el marco del Sistema Nacional de Seguridad Pública, con autoridades federales, estatales y municipales;
+
+VII. Fungir como coordinador operativo de los cuerpos de seguridad pública estatales, y municipales, en los casos en que celebre con éstos los convenios respectivos para tal fin;
+
+VIII. Regular y autorizar la portación de armas conforme a la licencia oficial colectiva otorgada por la Secretaría de la Defensa Nacional;
+
+IX. Aplicar las políticas de seguridad pública e implementar la política criminal en el ámbito estatal, que comprenda las normas, instrumentos y acciones para prevenir de manera eficaz la comisión de delitos;
+
+X. Desarrollar, implantar y evaluar la política del Estado en materia de prevención social del delito, con carácter integral, sobre las causas que generan la comisión de delitos y conductas antisociales; así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que conduzcan al respeto a la legalidad y a la protección de las víctimas;
+
+XI. Establecer el sistema destinado a obtener, analizar, estudiar y procesar información para la prevención de la comisión de delitos, mediante métodos técnicos y científicos que garanticen el estricto respeto a los derechos humanos;
+
+XII. Establecer, administrar y resguardar las bases de datos criminalísticos del Estado, y de personal de las instituciones de seguridad pública, en términos que señale el reglamento; determinar los criterios técnicos y de homologación de las bases de datos de los integrantes del Consejo Estatal de Seguridad Pública, y demás instituciones públicas que generen esta clase de información; y emitir los protocolos de interconexión, acceso y seguridad de estas bases de datos;
+
+XIII. Elaborar y difundir estudios especializados sobre las materias de seguridad pública, y estadísticas sobre el fenómeno delictivo;
+
+XIV. Diseñar, implantar y evaluar instrumentos y programas de educación preventiva y de organización vecinal para la prevención del delito, apoyándose en medios eficaces de promoción y comunicación masiva;
+
+XV. Autorizar, normar y vigilar el funcionamiento de los organismos de coordinación auxiliares en materia de seguridad pública;
+
+XVI. Planear, organizar, regular y vigilar los sistemas de vialidad y tránsito en el ámbito de competencia del Estado, y en coordinación con los ayuntamientos cuando se trate de la esfera de competencia de los municipios, conforme a las disposiciones jurídicas aplicables;
+
+XVII. Aplicar en el Estado las normas, políticas y programas que deriven de la Ley General del Sistema Nacional de Seguridad Pública;
+
+XVIII. Fomentar la participación ciudadana en la formulación de planes y programas de prevención de delitos de competencia estatal, y por conducto del Sistema Nacional de Seguridad Pública, en los delitos del fuero federal;
+
+XIX. Emitir conforme a los lineamientos federales las normas técnicas que regirán en el Estado, en cuanto a las características que deban reunir el personal de seguridad pública, así como de su desarrollo permanente, y de los instrumentos, equipos, instalaciones y recursos en general, que se apliquen para el desempeño de sus funciones;
+
+XX. Vigilar que en las instituciones de seguridad pública, estatales, y municipales, se aplique homogénea y permanentemente el protocolo de certificación correspondiente, aprobado por el Centro Nacional de Certificación y Acreditación;
+
+XXI. Proponer al titular del Ejecutivo del Estado, las políticas y medidas que propicien una conducta policial basada en los principios de ética, legalidad, objetividad, eficiencia, profesionalismo, honradez, y respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos; además de fomentar la participación ciudadana, y combatir de manera enérgica y eficaz cualquier abuso o desviación en la conducta policial; así como aplicar y dirigir dichas políticas en el ámbito de su competencia;
+
+XXII. Conducir las funciones, y vigilar la aplicación de las resoluciones emitidas por la Comisión de Honor y Justicia de las diversas corporaciones policiales del Estado, en los términos de ley;
+
+XXIII. Otorgar y regular las autorizaciones a empresas para que puedan prestar servicios privados de seguridad en el Estado, así como supervisar su funcionamiento;
+
+XXIV. Intervenir, en auxilio o coordinación con las autoridades federales, estatales y municipales, en materia de prevención y auxilio en caso de catástrofes naturales;
+
+XXV. Atender de manera expedita las denuncias y quejas ciudadanas con relación al ejercicio de sus atribuciones;
+
+XXVI. Administrar los recursos que le sean asignados a efecto de realizar una equitativa distribución de los mismos, entre las diferentes áreas que la integran, asignando de acuerdo a las necesidades y requerimientos de cada una de ellas, los recursos financieros, humanos y materiales de que disponga, de acuerdo a la normatividad existente para tal efecto;
+
+XXVII. Otorgar a los tribunales el auxilio que soliciten para el ejercicio de sus funciones;
+
+XXVIII. Fungir, a través de su titular, como Secretario Ejecutivo del Consejo Estatal de Seguridad Pública, con las funciones que determine el Reglamento respectivo, y
+
+XXIX. Las demás que le sean encomendadas por el titular del Poder Ejecutivo; le confiera esta Ley, y otras disposiciones legales aplicables.
+
 ###### ARTICULO 42.
 
 La Procuraduría General de Justicia es el órgano del Ejecutivo del Estado al que corresponde ejercer las atribuciones conferidas al Ministerio Público por la Constitución Política de los Estados Unidos Mexicanos, por la Constitución Política del Estado y por la Ley Orgánica de la Procuraduría General de Justicia del Estado de San Luis Potosí.
@@ -1428,3 +1496,23 @@ P.O. 19 DE JULIO DE 2007.
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto, a su entrada en vigor.
+
+P.O. 24 DE JUNIO DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las transferencias de recursos materiales, activos patrimoniales, humanos y financieros que en cumplimiento de este Decreto deban realizarse de una dependencia a otra, incluirán las adecuaciones presupuestarias que comprenden las modificaciones a la estructura programática y financiera, y a los calendarios financieros y de metas.
+
+TERCERO. Los derechos laborales y antigüedad del personal administrativo que actualmente labora para el Ejecutivo del Estado, que en virtud de lo dispuesto en el presente Decreto se integren a la Secretaría de Seguridad Pública, se respetarán conforme a la ley. Los derechos de los servidores de los cuerpos policiales se seguirán rigiendo conforme a las disposiciones legales que apliquen para tal caso.
+
+CUARTO. Los asuntos que con motivo de este Decreto deban pasar de una Secretaría a otra, permanecerán en el último trámite que hubieren alcanzado, hasta que las unidades administrativas que los despachen se incorporen a la dependencia que señale el mismo, a excepción de aquéllos urgentes o sujetos a término, los cuales se atenderán por la dependencia que los venía despachando.
+
+QUINTO. El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, Oficialía Mayor, y Contraloría del Estado, deberá concluir aquellas adecuaciones presupuestarias y transferencia de personas, recursos materiales y financieros, así como activos patrimoniales, en un plazo no mayor de un año, a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Las menciones contenidas en leyes, reglamentos y, en general, cualquier disposición respecto de las funciones desempeñadas por la Secretaría General de Gobierno en materia de seguridad pública, se entenderán referidas a la Secretaría de Seguridad Pública que se crea por virtud de este Decreto, y a la cual se han transferido, hasta en tanto se lleven a cabo las reformas correspondientes.
+
+SEPTIMO. En tanto se lleven a cabo las reformas a la Ley de Seguridad Pública del Estado, se entenderá que la representación y atribuciones del Secretario Ejecutivo del Consejo Estatal de Seguridad Pública, corresponden a la Secretaría de Seguridad Pública.
+
+OCTAVO. El titular del Ejecutivo del Estado deberá expedir el Reglamento Interior de la Secretaría de Seguridad Pública del Estado, así como realizar las adecuaciones correspondientes a los reglamentos de la materia, dentro de los seis meses siguientes a la entrada en vigor del presente Decreto.
+
+NOVENO. Se derogan las disposiciones legales y administrativas que se opongan a este Decreto.
