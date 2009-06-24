@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-95-de-seguridad-publica-para-el-estado-de-14179"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-17"
-last_updated: "2005-08-12"
+last_updated: "2009-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14179&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE AGOSTO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO OCTAVO DE LA LEY NUMERO 553 DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 24 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 17 de enero de 1998.
 
@@ -638,3 +640,29 @@ Tercero. El Instituto deberá expedir, dentro de los 120 días siguientes a la e
 Cuarto. Los recursos humanos, materiales y financieros de la Dirección General del Sistema Estatal de Seguridad Industrial, Bancaria y Comercial se adscribirán e incorporarán al patrimonio del Instituto de la Policía Auxiliar y Protección Patrimonial, previo balance general y dictamen que guarden los estados financieros que emita la Contraloría General del Estado.
 
 Quinto. El armamento, propiedad de la Secretaría de Seguridad Pública del Estado y el equipo de radio comunicación del Consejo Estatal de Seguridad Pública que utiliza actualmente el Sistema de Seguridad Industrial, Bancaria y Comercial seguirán siendo utilizados en calidad de comodato por el Instituto de la Policía Auxiliar y Protección Patrimonial.
+
+G.O. 24 DE JUNIO DE 2009.
+
+Primero. La presente Ley entrará en vigor al día siguiente del de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado, salvo lo previsto en los Artículos transitorios siguientes.
+
+Segundo. El Ejecutivo del Estado deberá, en un plazo de tres meses a partir de la entrada en vigor de esta Ley, instalar el Centro Estatal de Evaluación y Control de Confianza, integrar su Junta Directiva y nombrar al Director General. El Centro iniciará sus funciones de manera progresiva, de conformidad con lo dispuesto por la presente Ley y la Ley General, así como por los lineamientos aprobados por el Consejo Nacional y el Centro Nacional de Certificación y Acreditación.
+
+Tercero. Los servicios de carrera vigentes en las instituciones de Seguridad Pública a la fecha de entrada en vigor de este ordenamiento, deberán ajustarse a los requisitos, criterios y procedimientos que establecen la Ley General del Sistema Nacional de Seguridad Pública y esta Ley, en un plazo no mayor a un año.
+
+Cuarto. Los servidores públicos que obtengan el certificado y que satisfagan los requisitos de ingreso y permanencia que se establecen por la presente Ley, la Ley General y los ordenamientos legales federales y estatales aplicables, ingresarán o serán homologados al servicio de carrera, en las ramas ministerial, policial y pericial, según corresponda, en la jerarquía y grado, así como antigüedad y derechos que resulten aplicables.
+
+Quinto. Las referencias realizadas en la presente Ley a la reinserción social, quedarán entendidas al concepto vigente readaptación social, en tanto entra en vigor lo dispuesto por el párrafo segundo del Artículo 18 constitucional, sujeto a la vacancia prevista en el Artículo quinto transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 18 de junio de 2008.
+
+Sexto. El Consejo Estatal deberá expedir las disposiciones a que se refiere la presente Ley, en un plazo no mayor a seis meses, a partir de la entrada en vigor del presente Decreto.
+
+Séptimo. El Ejecutivo Estatal deberá expedir las disposiciones reglamentarias de esta Ley, en un plazo no mayor a seis meses a partir de la entrada en vigor de la misma.
+
+Octavo. Se abroga la Ley Número 95 de Seguridad Pública del Estado, publicada en la Gaceta Oficial número 8 de fecha 17 de enero de 1998 y se derogan las demás disposiciones que se opongan a la presente Ley.
+
+Noveno. La Secretaría de Finanzas y Planeación deberá realizar las transferencias y adecuaciones presupuestales necesarias para dar cumplimiento a lo previsto en el presente ordenamiento. Los recursos humanos, materiales y financieros con que cuente la Secretaría Ejecutiva de conformidad con la abrogada Ley 95 de Seguridad Pública del Estado y demás disposiciones jurídicas aplicables, permanecerán o, en su caso, se transferirán, a la Secretaría Ejecutiva prevista en esta Ley. Los derechos del personal de la Secretaria Ejecutiva se respetarán conforme a la ley aplicable.
+
+Décimo. Se abroga el Decreto por el que se crea el Centro Estatal de Evaluación y Control de Confianza, publicado en la Gaceta Oficial, órgano del Gobierno del Estado, de fecha 21 de enero de 2009.
+
+Undécimo. Los prestadores de servicios de seguridad privada que a la fecha de inicio de la vigencia de la presente Ley presten servicios en el Estado, tendrán un plazo de tres meses para regularizar su situación jurídica.
+
+Duodécimo. Se abroga la Ley número 117, que Regula los Servicios de Seguridad que se otorgan a Instituciones y Particulares en el Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial número 87 de fecha 20 de julio de 1991.
