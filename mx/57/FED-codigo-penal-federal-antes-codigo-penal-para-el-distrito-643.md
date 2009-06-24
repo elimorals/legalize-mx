@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2009-05-28"
+last_updated: "2009-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JUNIO DE 2009.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -2481,11 +2481,19 @@ ARTICULO 211 bis 2.- Al que sin autorización modifique, destruya o provoque pé
 
 Al que sin autorización conozca o copie información contenida en sistemas o equipos de informática del Estado, protegidos por algún mecanismo de seguridad, se le impondrán de seis meses a dos años de prisión y de cien a trescientos días multa.
 
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2009)</small>
+
+A quien sin autorización conozca, obtenga, copie o utilice información contenida en cualquier sistema, equipo o medio de almacenamiento informáticos de seguridad pública, protegido por algún medio de seguridad, se le impondrá pena de cuatro a diez años de prisión y multa de quinientos a mil días de salario mínimo general vigente en el Distrito Federal. Si el responsable es o hubiera sido servidor público en una institución de seguridad pública, se impondrá además, destitución e inhabilitación de cuatro a diez años para desempeñarse en otro empleo, puesto, cargo o comisión pública.
+
 > <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ARTICULO 211 bis 3.- Al que estando autorizado para acceder a sistemas y equipos de informática del Estado, indebidamente modifique, destruya o provoque pérdida de información que contengan, se le impondrán de dos a ocho años de prisión y de trescientos a novecientos días multa.
 
 Al que estando autorizado para acceder a sistemas y equipos de informática del Estado, indebidamente copie información que contengan, se le impondrán de uno a cuatro años de prisión y de ciento cincuenta a cuatrocientos cincuenta días multa.
+
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2009)</small>
+
+A quien estando autorizado para acceder a sistemas, equipos o medios de almacenamiento informáticos en materia de seguridad pública, indebidamente obtenga, copie o utilice información que contengan, se le impondrá pena de cuatro a diez años de prisión y multa de quinientos a mil días de salario mínimo general vigente en el Distrito Federal. Si el responsable es o hubiera sido servidor público en una institución de seguridad pública, se impondrá además, hasta una mitad más de la pena impuesta, destitución e inhabilitación por un plazo igual al de la pena resultante para desempeñarse en otro empleo, puesto, cargo o comisión pública.
 
 > <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
@@ -3057,6 +3065,10 @@ Cuando el monto de lo distraído o de los fondos utilizados indebidamente no exc
 
 Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, se impondrán de dos años a catorce años de prisión, multa de trescientas a quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y destitución e inhabilitacion de dos años a catorce años para desempeñar otro empleo, cargo o comisión públicos.
 
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2009)</small>
+
+Cuando los recursos materia del peculado sean aportaciones federales para los fines de seguridad pública se aplicará hasta un tercio más de las penas señaladas en los párrafos anteriores.
+
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
 ### CAPITULO VI. Variación del nombre o del domicilio
@@ -3600,6 +3612,32 @@ III.- Al extranjero que ejerza una profesión reglamentada sin tener autorizaci�
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
 IV.- Al que usare credenciales de servidor público, condecoraciones, uniformes, grados jerárquicos, divisas, insignias o siglas a las que no tenga derecho. Podrá aumentarse la pena hasta la mitad de su duración y cuantía, cuando sean de uso exclusivo de las Fuerzas Armadas Mexicanas o de alguna corporación policial.
+
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2009)</small>
+
+ARTICULO 250 bis.- Al que cometa el delito de falsificación de uniformes y divisas de las fuerzas armadas o de cualquier institución de seguridad pública, se le impondrá de cinco a doce años de prisión y hasta quinientos días multa.
+
+Comete el delito de falsificación de uniformes y divisas de las fuerzas armadas o de cualquier institución de seguridad pública, el que sin autorización de la institución correspondiente fabrique, confeccione, produzca, imprima o pinte, cualquiera de los uniformes, insignias, credenciales de identificación, medallas, divisas, gafetes, escudos, documentos, adheribles, distintivos o piezas que contengan imágenes, siglas u otros elementos utilizados en dichas instituciones.
+
+Se entiende por uniformes, divisas o insignias para los efectos de este artículo, los señalados en las disposiciones aplicables de las fuerzas armadas o de cualquier institución de seguridad pública.
+
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2009)</small>
+
+ARTICULO 250 bis 1.- Se impondrá de uno a seis años de prisión y de cien a trescientos días multa a quien:
+
+I.- Almacene, distribuya, posea o introduzca al territorio nacional uniformes o divisas de las fuerzas armadas o de cualquier institución de seguridad pública falsificadas;
+
+II.- Adquiera, enajene o use por cualquier medio o título, uniformes, divisas, balizaje, credenciales de identificación o insignias de las fuerzas armadas o cualquier institución de seguridad pública, falsificadas;
+
+III.- Obtenga, conserve, facilite o enajene sin autorización los verdaderos uniformes o divisas de las fuerzas armadas o de cualquier institución de seguridad pública;
+
+IV.- Cuando se utilicen vehículos con balizaje, colores, equipamiento, originales, falsificados o con apariencia tal que se asemejen a los vehículos utilizados por las fuerzas armadas o instituciones de seguridad pública, y
+
+V.- Al que utilice uniformes, balizaje, insignias, credenciales de identificación y divisas con tamaño similar o igual al reglamentario de las fuerzas armadas o de instituciones de seguridad pública, cuando dichas piezas, sin ser copia del original, presenten algunas de las imágenes o elementos de los contenidos en aquellos, resultando con ello objetos o piezas con apariencia similar, confundibles con los emitidos legalmente, con el objeto de hacerse pasar por servidor público.
+
+Se impondrá de cinco a doce años de prisión y de doscientos a seiscientos días multa a quien realice alguna de las conductas previstas en este artículo con el propósito de cometer algún delito o bien cuando el sujeto activo sea o haya sido servidor público de las fuerzas armadas o de cualquier institución de seguridad pública.
+
+Para los efectos de este artículo, se entiende por uniformes, insignias, credenciales de identificación, medallas, divisas, balizaje, gafetes, escudos, documentos, adheribles, distintivos o piezas que contengan imágenes siglas u otros elementos utilizados en instituciones de las fuerzas armadas o de seguridad pública o procuración de justicia, los señalados en las disposiciones aplicables de dichas instituciones y sólo se considerarán auténticos los que sean adquiridos, distribuidos o enajenados por personas autorizadas para ello o a quienes se les haya adjudicado el contrato respectivo por la institución competente, conforme a las disposiciones aplicables.
 
 ### CAPITULO I. Amenazas
 
@@ -6402,3 +6440,7 @@ PRIMERO. El presente Decreto entrará en vigor a los treinta días naturales sig
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
 
 .
+
+D.O.F. 24 DE JUNIO DE 2009.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
