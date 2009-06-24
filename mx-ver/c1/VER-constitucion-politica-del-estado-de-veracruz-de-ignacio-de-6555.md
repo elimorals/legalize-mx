@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2008-11-14"
+last_updated: "2009-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE JUNIO DE 2009.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -433,13 +433,15 @@ a) Examinar, discutir y, en su caso, aprobar el presupuesto que en relación con
 
 b) Examinar, discutir y aprobar las leyes de ingresos de los municipios, que sean presentadas en las fechas que indique la ley respectiva; y
 
-> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, G.O. 24 DE JUNIO DE 2009)</small>
 
-c) Revisar y dictaminar la cuenta pública del Gobierno del Estado, correspondiente al año anterior. La cuenta deberá ser presentada durante el mes de mayo, a fin de conocer los resultados de la gestión financiera, comprobar si se ha dado cumplimiento a los objetivos contenidos en los programas y ajustado a los criterios señalados en el presupuesto
+c) Dictaminar y, en su caso, aprobar las Cuentas Públicas que, en términos de ley, le presenten el Poder Público, los organismos autónomos del Estado, la Universidad Veracruzana, los ayuntamientos, entidades paraestatales, entidades paramunicipales y cualquier ente o institución pública a la que esta Constitución o las leyes del Estado les den el carácter de ente fiscalizable.
 
 II. En el segundo período de sesiones ordinarias:
 
-a) (DEROGADO, G.O. 18 DE MARZO DE 2003)
+> <small>(ADICIONADO, G.O. 24 DE JUNIO DE 2009)</small>
+
+a) Recibir de los entes fiscalizables señalados en el inciso c) de la fracción anterior, sus Cuentas Públicas a fin de conocer los resultados de su Gestión Financiera y comprobar si cumplieron con los objetivos de sus planes y programas, así como con los criterios señalados en sus respectivos presupuestos. Al efecto, las Cuentas Públicas deberán presentarse al Congreso del Estado durante el mes de mayo del año siguiente al que correspondan.
 
 b) Examinar, fiscalizar y aprobar las cuentas de recaudación y distribución de ingresos del año próximo anterior, presentadas por los ayuntamientos en las fechas indicadas en las leyes respectivas.
 
@@ -515,7 +517,9 @@ IV. Legislar en materia de educación; de cultura y deporte; profesiones; bienes
 
 V. Darse su Ley Orgánica, y la demás normatividad interior necesaria para el adecuado desarrollo de sus funciones, las que no requerirán de la promulgación del Ejecutivo para tener vigencia;
 
-VI. Expedir la ley que regule la organización y atribuciones del Órgano de Fiscalización Superior del Estado; así como emitir la convocatoria para elegir al titular del Órgano de Fiscalización Superior del Estado mismo que será electo por las dos terceras partes de los diputados del Congreso;
+> <small>(REFORMADA, G.O. 24 DE JUNIO DE 2009)</small>
+
+VI. Expedir la ley que regule la estructura y atribuciones del Órgano de Fiscalización Superior del Estado; así como emitir la convocatoria para elegir a su titular, mismo que será electo por las dos terceras partes de los diputados presentes;
 
 VII. Coordinar y evaluar, sin perjuicio de la autonomía técnica y de gestión, el desempeño de las funciones del Órgano de Fiscalización Superior del Estado, en términos de la ley;
 
@@ -1485,11 +1489,11 @@ El ministerio público hará efectivas las órdenes de aprehensión y de present
 
 ### CAPÍTULO IV. DEL PODER JUDICIAL
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, G.O. 24 DE JUNIO DE 2009)</small>
 
 ###### Artículo 55.
 
-El Poder Judicial se deposita en un Tribunal Superior de Justicia, en un Tribunal de lo Contencioso Administrativo, en un Tribunal de Conciliación y Arbitraje, y en los juzgados que señale la Ley Orgánica de la materia.
+El Poder Judicial se deposita en un Tribunal Superior de Justicia, en un Tribunal Electoral, en un Tribunal de lo Contencioso Administrativo, en un Tribunal de Conciliación y Arbitraje y en los juzgados que señale la Ley Orgánica de la materia.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1541,7 +1545,9 @@ El Tribunal Superior de Justicia se compondrá por el número de magistrados que
 
 El Presidente será elegido por el pleno del Tribunal cada tres años en la primera semana del mes de diciembre, pudiendo ser reelegido una sola vez y, en sus faltas temporales no mayores de treinta días, será sustituido por el magistrado que él designe; pero si excediere de ese término, la designación del magistrado presidente interino la hará el pleno del Tribunal.
 
-El Tribunal Superior de Justicia funcionará en pleno y en salas, de conformidad con lo dispuesto en la ley. El pleno se integrará por el presidente del Tribunal Superior de Justicia, quien lo presidirá, y por los presidentes de cada una de sus salas, a excepción de la electoral, las que resolverán en última instancia los asuntos de su competencia.
+> <small>(REFORMADO, G.O. 24 DE JUNIO DE 2009)</small>
+
+El Tribunal Superior de Justicia funcionará en Pleno y en Salas, de conformidad con lo dispuesto en la Ley. El Pleno se integrará por el Presidente del Tribunal Superior de Justicia, quien lo presidirá, y por los presidentes de cada una de sus Salas, a excepción de la Sala de Responsabilidad Juvenil, las que resolverán en última instancia los asuntos de su competencia.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1563,11 +1569,13 @@ VI. Los demás requisitos que señale la ley.
 
 No podrán ser magistrados las personas que hayan ocupado el cargo de Secretario del Despacho o su equivalente, Procurador General de Justicia, Senador, Diputado Local o Federal ni Presidente Municipal, durante el año previo al día de su nombramiento.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE JUNIO DE 2009)</small>
 
 ###### Artículo 59.
 
-Los magistrados serán nombrados por el Congreso, a propuesta del Gobernador del Estado, con la aprobación de las dos terceras partes del total de sus integrantes. En los recesos del Congreso la Diputación Permanente hará el nombramiento, con carácter provisional, en tanto aquél se reúne y da la aprobación definitiva.
+Los Magistrados serán nombrados por el Congreso, a propuesta del Gobernador del Estado, con excepción de los que integren el Tribunal Electoral. En los recesos del Congreso, la Diputación Permanente hará el nombramiento, con carácter provisional, en tanto aquél se reúne y da la aprobación definitiva.
+
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
 Los magistrados durarán en su cargo diez años improrrogables, y sólo serán removidos de conformidad con lo dispuesto por esta Constitución.
 
@@ -1663,31 +1671,29 @@ La omisión legislativa surtirá sus efectos a partir de su publicación en la G
 
 #### SECCIÓN SEGUNDA. DEL CONTROL DE LA LEGALIDAD EN MATERIA ELECTORAL
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, G.O. 24 DE JUNIO DE 2009)</small>
 
 ### CAPÍTULO V. DE LOS ORGANISMOS AUTÓNOMOS DEL ESTADO
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE JUNIO DE 2009)</small>
 
 ###### Artículo 66.
 
-Para garantizar que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad, se establecerá un sistema de medios de impugnación de los cuales conocerán, en los términos que señale la ley, el Instituto Electoral Veracruzano y la Sala Electoral del Tribunal Superior de Justicia.
+Para garantizar que los actos y resoluciones en materia electoral se sujeten invariablemente al principio de legalidad, se establecerá un sistema de medios de impugnación de los cuales conocerán, en los términos que señala la ley, el Instituto Electoral Veracruzano y el Tribunal Electoral del Poder Judicial del Estado.
 
-> <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
+El Tribunal Electoral, será la máxima autoridad jurisdiccional en la materia y el órgano especializado del Poder Judicial del Estado, y contará con las atribuciones que le señale la ley.
 
-La Sala Electoral, integrada por tres magistrados, funcionará con motivo de la organización y celebración de un proceso electoral, plebiscitario o de referendo. Cuando no existan dichos procesos, los magistrados que la integran formarán parte de una Sala Auxiliar del Tribunal Superior de Justicia, en los términos que señale la ley.
+Para el ejercicio de sus atribuciones, el Tribunal funcionará de manera permanente; se integrará con tres Magistrados que serán nombrados por las dos terceras partes de los diputados presentes del Congreso del Estado, a propuesta del Tribunal Superior de Justicia del Estado; y para su designación deberán cubrir los requisitos previstos en esta Constitución y la Ley; contará con el personal jurídico y administrativo necesario para su funcionamiento.
 
-El sistema de medios de impugnación dará definitividad a las distintas etapas en los procesos electorales, de plebiscito o referendo, y garantizará los derechos políticos de los ciudadanos de votar, ser votado y de libre asociación. La interposición de los medios de impugnación no producirá efectos suspensivos sobre la resolución o el acto impugnado.
-
-> <small>(ADICIONADO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
+El sistema de medios de impugnación dará definitividad a las distintas etapas en los procesos electorales, de plebiscito o referendo, de agentes y subagentes municipales; y garantizará los derechos políticos de los ciudadanos de votar, ser votado y de libre asociación.
 
 La ley fijará las causales de nulidad de las elecciones de gobernador, diputados y ediles, así como los plazos para el desahogo de todas las instancias impugnativas.
 
-> <small>(ADICIONADO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
+Asimismo, los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación y, en su caso, la declaración de validez y el otorgamiento de constancias en las elecciones de diputados y ediles, así como el cómputo de la elección de gobernador en cada uno de los distritos electorales uninominales.
 
-Asimismo, los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación y, en su caso, la declaración de validez y el otorgamiento de constancias en las elecciones de diputados y ediles, así como el cómputo de la elección de Gobernador en cada uno de los distritos electorales uninominales.
+El Tribunal Electoral sólo podrá declarar la nulidad de una elección por las causales que expresamente se establezcan en la Ley. La interposición de los medios de impugnación no producirá efectos suspensivos sobre la resolución o el acto impugnado.
 
-Las autoridades estatales y municipales están obligadas a coadyuvar en todo aquello que les sea requerido por el Instituto o la Sala Electoral. Los servicios notariales que cualquiera de estos organismos soliciten con motivo de los procesos electorales, plebiscitarios o de referendo, serán gratuitos.
+Las autoridades estatales y municipales están obligadas a coadyuvar en todo aquello que les sea requerido por el Instituto o el Tribunal Electoral. Los servicios notariales que cualquiera de estos organismos soliciten con motivo de los procesos electorales, plebiscitarios o de referendo y elección de agentes y subagentes municipales, serán gratuitos.
 
 Las leyes establecerán los delitos, procedimientos y sanciones en materia electoral.
 
@@ -1701,7 +1707,9 @@ Las leyes establecerán los delitos, procedimientos y sanciones en materia elect
 
 ###### Artículo 67.
 
-Conforme a esta Constitución y la ley, los organismos autónomos de estado contarán con personalidad jurídica y patrimonio propios, tendrán autonomía técnica y presupuestal, y sólo podrán ser fiscalizados por el Congreso del Estado.
+Conforme a esta Constitución y la ley, los Organismos Autónomos del Estado contarán con personalidad jurídica y patrimonio propios, tendrán autonomía técnica, presupuestal, de gestión y para emitir las reglas conforme a las cuales sistematizarán la información bajo su resguardo, y sólo podrán ser fiscalizados por el Congreso del Estado.
+
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
 Estos organismos desarrollarán las actividades Estatales siguientes:
 
@@ -1741,25 +1749,33 @@ b) La Comisión formulará recomendaciones no vinculatorias, así como denuncias
 
 c) Ante el incumplimiento reiterado de sus recomendaciones, la Comisión podrá hacerlas del conocimiento del Congreso y de la autoridad que estime pertinente.
 
-III. La fiscalización en el Estado se realizará por el Órgano de Fiscalización Superior, de conformidad con las atribuciones siguientes y en los términos que disponga la ley:
+> <small>(REFORMADA, G.O. 24 DE JUNIO DE 2009)</small>
 
-a) Fiscalizar en forma posterior los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado y de los ayuntamientos, así como el cumplimiento de los objetivos contenidos en los planes y programas respectivos, en los términos de la ley;
+III. El Órgano de Fiscalización Superior del Estado efectuará la revisión de las Cuentas Públicas de los entes fiscalizables, en un periodo no mayor de un año, de conformidad con las bases y atribuciones siguientes:
 
-> <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
+1. La fiscalización se hará en forma posterior a la presentación de las Cuentas Públicas respecto de la gestión financiera de los entes fiscalizables, entendida ésta como la actividad relacionada directamente con el ejercicio presupuestal de los ingresos, egresos y deuda pública, la administración, manejo, custodia y aplicación de los recursos financieros y bienes públicos, y la ejecución de obra pública que realizan el Poder Público, los organismos autónomos del Estado, la Universidad Veracruzana, los ayuntamientos, entidades paraestatales, entidades paramunicipales y cualquier ente o institución pública a la que esta Constitución o las leyes del Estado les den el carácter de ente fiscalizable.
 
-b) Entregar al Congreso los informes del resultado de la revisión de las Cuentas Públicas, a más tardar durante la segunda quincena del mes de diciembre del año siguiente al de su ejercicio;
+2. Sin perjuicio del principio de anualidad, el Órgano de Fiscalización Superior, así como el Congreso del Estado, en sus respectivos ámbitos de competencia, podrán solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación contenidos en el presupuesto en revisión abarque, para su ejecución y pago, diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los planes y programas estatales o municipales. Las observaciones y recomendaciones que el Órgano de Fiscalización Superior o el Congreso del Estado emitan, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
 
-c) Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos federales, de los Poderes del Estado, de los ayuntamientos y de los demás organismos autónomos de Estado, y efectuar visitas domiciliarias únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos; y
+3. El Congreso del Estado podrá ordenar al Órgano de Fiscalización Superior que, durante el ejercicio fiscal en curso, requiera información y vigile la realización de obras y acciones respecto de la aplicación de recursos públicos que hagan los entes fiscalizables, aplicando en lo conducente las disposiciones de la ley de la materia y le informe debidamente de los resultados obtenidos.
 
-d) Determinar los daños y perjuicios que afecten a las haciendas públicas estatal y municipales, al patrimonio de las entidades descentralizadas y al de los organismos autónomos de Estado, y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título Quinto de esta Constitución, y presentar las denuncias y querellas penales, en cuyos procedimientos tendrá la intervención que señale la ley.
+4. Sin perjuicio del principio de posterioridad, cuando el Congreso del Estado así lo determine o en las situaciones derivadas de denuncias por posibles irregularidades o ilícitos en la gestión financiera de los entes fiscalizables o que pudieran ser constitutivas de delitos contra el servicio público, el Órgano de Fiscalización Superior podrá requerir a los entes fiscalizables que procedan a la revisión, durante el ejercicio fiscal en curso, de los conceptos denunciados y, dentro del plazo previsto en el Artículo 7 de esta Constitución, le rindan un informe. Si estos requerimientos no fueren atendidos, se impondrán las sanciones previstas en la ley. El Órgano de Fiscalización Superior rendirá un informe específico al Congreso del Estado y, en su caso, a través del procedimiento previsto en la ley, fincará las responsabilidades resarcitorias que correspondan o promoverá otras ante las autoridades competentes.
 
-El Congreso designará al titular del Órgano de Fiscalización Superior, por el voto de las dos terceras partes de sus integrantes. La ley determinará el procedimiento para su designación. Dicho titular durará en su cargo seis años y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Quinto de esta Constitución.
+5. Son atribuciones del Órgano de Fiscalización Superior:
 
-Para ser titular del Órgano de Fiscalización Superior del Estado se requiere cumplir, además de los requisitos establecidos en las fracciones I, II, IV, y V del artículo 58 de esta Constitución, los que señale la ley. Durante el ejercicio de su cargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
+a) Iniciar y sustanciar el procedimiento de fiscalización de las Cuentas Públicas, para comprobar, inspeccionar, investigar y determinar, en términos de ley, los actos u omisiones que pudieran configurar alguna irregularidad, incumplimiento de disposiciones legales o conducta ilícita en la gestión financiera de los entes fiscalizables;
 
-Los Poderes del Estado y los sujetos de fiscalización facilitarán los auxilios que requiera el Órgano de Fiscalización Superior del Estado para el ejercicio de sus funciones.
+b) Ordenar y efectuar revisiones de gabinete y visitas domiciliarias o de campo, en los términos previstos por la ley, para comprobar la gestión financiera de los entes fiscalizables;
 
-El Poder Ejecutivo del Estado aplicará el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias a que se refiere el inciso d) de la fracción III del presente artículo.
+c) Determinar los daños y perjuicios que afecten a las haciendas públicas de los entes fiscalizables y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, las que tendrán el carácter de créditos fiscales; al efecto, el Poder Ejecutivo del Estado aplicará el procedimiento administrativo de ejecución para su cobro, en términos de ley;
+
+d) Promover ante las autoridades competentes, con motivo del procedimiento de fiscalización, el fincamiento de otras responsabilidades de orden administrativo, penal o civil que correspondan.
+
+6. El Congreso designará al titular del Órgano de Fiscalización Superior, por el voto de las dos terceras partes de los diputados presentes, de conformidad con el procedimiento que determine la ley. El titular del Órgano durará en su cargo siete años, podrá ser reelegido en el cargo por una sola vez y sólo se le podrá remover por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Quinto de esta Constitución.
+
+7. Para ser titular del Órgano de Fiscalización Superior del Estado se requiere cumplir, además de los requisitos establecidos en las fracciones I, II, IV y V del Artículo 58 de esta Constitución, los que señale la ley. Durante el ejercicio de su cargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
+
+8. Los entes fiscalizables y demás autoridades del Estado, facilitarán los auxilios que requiera el Órgano de Fiscalización del Estado para el ejercicio de sus funciones.
 
 > <small>(ADICIONADA, G.O. 29 DE ENERO DE 2007)</small>
 
@@ -11814,6 +11830,30 @@ G.O. 14 DE NOVIEMBRE DE 2008.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 24 DE JUNIO DE 2009.
+
+DECRETO No. 555, POR EL QUE SE REFORMAN LOS ARTICULOS 55, 57, 59 Y 66 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. El Titular del Poder Ejecutivo, el Pleno del Tribunal Superior de Justicia y el H. Congreso del Estado promoverán y efectuarán las adecuaciones que correspondan en las leyes secundarias, en un plazo máximo de cuarenta y cinco días naturales, contados a partir del inicio de la vigencia del presente Decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+CUARTO. En tanto se realizan las reformas legales conducentes, cuando se haga referencia a la Sala Electoral del Tribunal Superior de Justicia del Estado en el Código Electoral para el Estado de Veracruz de Ignacio de la Llave o cualquier otro ordenamiento estatal, deberá entenderse que se alude al Tribunal Electoral del Poder Judicial del Estado.
+
+QUINTO. Dentro de un plazo de treinta días, contados a partir de la publicación del presente Decreto, a propuesta del Tribunal Superior de Justicia, el Honorable Congreso del Estado designará a los Magistrados que integrarán el Tribunal Electoral del Poder Judicial del Estado, los que por corresponder a una etapa de adecuación de estructuras jurisdiccionales, deberán tener ya previamente la condición de Magistrados del citado Poder, con antecedentes en materia electoral.
+
+SEXTO. El Poder Judicial del Estado y la Secretaría de Finanzas y Planeación del Gobierno del Estado propondrán las adecuaciones al presupuesto que correspondan, en atención a los cambios orgánicos que conlleva el presente Decreto, en la estructura del Poder Judicial, sin que por el ejercicio fiscal en curso se incrementen las partidas originalmente asignadas a la Sala Electoral, las que corresponderá ejercer al Tribunal Electoral del Poder Judicial del Estado.
+
+G.O. 24 DE JUNIO DE 2009.
+
+DECRETO No. 556, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 26, 33 Y 67 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1915 DEL CÓDIGO CIVIL FEDERAL".]
 
