@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-desarrollo-economico-40
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-13"
-last_updated: "2004-12-03"
+last_updated: "2009-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40729&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO, PUBLICADO EN EL P. O. DE 24 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Tercera Sección del Periódico Oficial del Estado de Puebla, el viernes 13 de agosto de 2004.
 
@@ -1075,8 +1077,16 @@ Dado en la sede del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los vei
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO</small>
 
-P.O. 3 DE DICIEMBRE DE 2004.
+P.O. 3 DE DICIEMBRE DE 2004
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE JUNIO DE 2009.
+
+PRIMERO.- El presente Acuerdo deberá publicarse en el Periódico Oficial del Estado y entrará en vigor a partir del día siguiente de su publicación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Económico, publicado en el Periódico Oficial del Estado el día 13 de agosto de 2004; así como su correspondiente reforma publicada en dicho medio de difusión oficial estatal el 3 de diciembre de 2004.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Acuerdo.
