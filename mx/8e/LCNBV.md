@@ -4,7 +4,7 @@ identifier: "LCNBV"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-28"
-last_updated: "2007-06-15"
+last_updated: "2009-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2560&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCNBV"
 
 LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE JUNIO DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 28 de abril de 1995.
 
@@ -160,9 +160,7 @@ XXXV.- Ordenar la suspensión de cotizaciones de valores, cuando en su mercado e
 
 XXXVI.- Emitir las disposiciones necesarias para el ejercicio de las facultades que esta Ley y demás leyes le otorgan y para el eficaz cumplimiento de las mismas y de las disposiciones que con base en ellas se expidan;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 15 DE JUNIO DE 2007)</small>
-
-XXXVII.- Regular los contratos de adhesión, publicidad y estados de cuenta de (sic) que empleen las entidades financieras a que se refiere la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, en los términos señalados en el referido texto legal, y
+XXXVII.- (DEROGADA, D.O.F. 25 DE JUNIO DE 2009)
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 15 DE JUNIO DE 2007)</small>
 
@@ -547,3 +545,17 @@ Al entrar en vigor el presente Decreto se derogan de la Ley General de Organizac
 ###### ARTÍCULO OCTAVO.
 
 Las disposiciones de carácter general que el Banco de México haya emitido en materia de publicidad, estados de cuenta o contratos de adhesión dirigidas a las instituciones de crédito o sociedades financieras de objeto limitado continuarán vigentes hasta en tanto entren en vigor las disposiciones de carácter general que, conforme a lo previsto en este ordenamiento, expida la Comisión Nacional Bancaria y de Valores respecto de los temas mencionados.
+
+D.O.F. 25 DE JUNIO DE 2009.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+.
+
+###### ARTÍCULO SEXTO.
+
+Se deroga la fracción XXXVII del artículo 4 de la Ley de la Comisión Nacional Bancaria y de Valores.
