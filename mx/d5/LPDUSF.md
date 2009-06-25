@@ -4,7 +4,7 @@ identifier: "LPDUSF"
 country: "mx"
 rank: "ley"
 publication_date: "1999-01-18"
-last_updated: "2009-05-06"
+last_updated: "2009-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12994&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPDUSF"
 
 LEY DE PROTECCION Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE JUNIO DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 18 de enero de 1999.
 
@@ -60,9 +60,11 @@ II. Comisión Nacional, a la Comisión Nacional para la Protección y Defensa de
 
 III. Comisiones Nacionales, a la Comisión Nacional Bancaria y de Valores, a la Comisión Nacional de Seguros y Fianzas, y a la Comisión Nacional del Sistema de Ahorro para el Retiro;
 
-> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV. Institución Financiera, en singular o plural, a las sociedades controladoras, instituciones de crédito, sociedades financieras de objeto limitado, sociedades de información crediticia, casas de bolsa, especialistas bursátiles, sociedades de inversión, almacenes generales de depósito, uniones de crédito, arrendadoras financieras, empresas de factoraje financiero, sociedades de ahorro y préstamo, casas de cambio, instituciones de seguros, sociedades mutualistas de seguros, instituciones de fianzas, administradoras de fondos para el retiro, empresas operadoras de la base de datos nacional del sistema de ahorro para el retiro, y cualquiera otra sociedad que requiera de la autorización de la Secretaría de Hacienda y Crédito Público o de cualesquiera de las Comisiones Nacionales para constituirse y funcionar como tales y ofrecer un producto o servicio financiero a los Usuarios;
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+IV. Institución Financiera, en singular o plural, a las sociedades controladoras, instituciones de crédito, sociedades financieras de objeto limitado, sociedades financieras de objeto múltiple, sociedades de información crediticia, casas de bolsa, especialistas bursátiles, sociedades de inversión, almacenes generales de depósito, uniones de crédito, arrendadoras financieras, empresas de factoraje financiero, sociedades de ahorro y préstamo, casas de cambio, instituciones de seguros, sociedades mutualistas de seguros, instituciones de fianzas, administradoras de fondos para el retiro, empresas operadoras de la base de datos nacional del sistema de ahorro para el retiro, y cualquiera otra sociedad que requiera de la autorización de la Secretaría de Hacienda y Crédito Público o de cualesquiera de las Comisiones Nacionales para constituirse y funcionar como tales y ofrecer un producto o servicio financiero a los Usuarios;
 
 V. Junta, a la Junta de Gobierno de la Comisión Nacional;
 
@@ -88,15 +90,15 @@ La protección y defensa de los derechos e intereses de los Usuarios, estará a 
 
 La protección y defensa que esta Ley encomienda a la Comisión Nacional, tiene como objetivo prioritario procurar la equidad en las relaciones entre los Usuarios y las Instituciones Financieras, otorgando a los primeros elementos para fortalecer la seguridad jurídica en las operaciones que realicen y en las relaciones que establezcan con las segundas.
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 5o.
 
-La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros tendrá como finalidad promover, asesorar, proteger y defender los derechos e intereses de los Usuarios frente a las Instituciones Financieras, arbitrar sus diferencias de manera imparcial y proveer a la equidad en las relaciones entre éstos.
+La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros tendrá como finalidad promover, asesorar, proteger y defender los derechos e intereses de los Usuarios frente a las Instituciones Financieras, arbitrar sus diferencias de manera imparcial y proveer a la equidad en las relaciones entre éstos, así como supervisar y regular de conformidad con lo previsto en las leyes relativas al sistema financiero, a las Instituciones Financieras, a fin de procurar la protección de los intereses de los Usuarios.
 
-> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2007)</small>
-
-La Comisión Nacional podrá elaborar programas educativos en materia de cultura financiera y proponerlos a las autoridades competentes.
+La Comisión Nacional procurará el establecimiento de programas educativos, y de otra índole en materia de cultura financiera, para lo cual los elaborará y propondrá a las autoridades competentes.
 
 ###### ARTÍCULO 6o.
 
@@ -122,7 +124,11 @@ La Comisión Nacional establecerá y mantendrá actualizado, un Registro de Usua
 
 Queda prohibido a las Instituciones Financieras utilizar información relativa a la base de datos de sus clientes con fines mercadotécnicos o publicitarios, así como enviar publicidad a los clientes que expresamente les hubieren manifestado su voluntad de no recibirla o que estén inscritos en el registro a que se refiere el párrafo anterior. Las Instituciones Financieras que sean objeto de publicidad son corresponsables del manejo de la información de sus Clientes cuando dicha publicidad la envíen a través de terceros.
 
-Los usuarios se podrán inscribir gratuitamente en el Registro Público de Usuarios, a través de los medios que establezca la Comisión Nacional, la cual será consultada por las instituciones de crédito.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+Los usuarios se podrán inscribir gratuitamente en el Registro Público de Usuarios, a través de los medios que establezca la Comisión Nacional, la cual será consultada por las Instituciones Financieras.
 
 Las Instituciones Financieras que incumplan lo dispuesto por el presente artículo, se harán acreedoras a las sanciones que establece esta Ley.
 
@@ -148,23 +154,33 @@ I. Atender y resolver las consultas que le presenten los Usuarios, sobre asuntos
 
 II. Atender y, en su caso, resolver las reclamaciones que formulen los Usuarios, sobre los asuntos que sean competencia de la Comisión Nacional;
 
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III. Llevar a cabo el procedimiento conciliatorio entre el Usuario y la Institución Financiera en los términos previstos en esta Ley, así como entre una Institución Financiera y varios Usuarios, exclusivamente en los casos en que éstos hayan contratado un mismo producto o servicio, mediante la celebración de un solo contrato, para lo cual dichos Usuarios deberán apegarse a lo establecido en el último párrafo del artículo 63 de esta Ley;
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2009)</small>
 
-> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2005)</small>
+III. Llevar a cabo el procedimiento conciliatorio entre el Usuario y la Institución Financiera en los términos previstos en esta Ley, así como entre una Institución Financiera y varios Usuarios, exclusivamente en los casos en que éstos hayan contratado un mismo producto o servicio, mediante la celebración de un solo contrato, para lo cual dichos Usuarios deberán apegarse a lo establecido en el último párrafo del artículo 63 de esta Ley, así como emitir dictámenes de conformidad con la misma;
 
-IV. Actuar como árbitro en amigable composición o en juicio arbitral de estricto derecho, de conformidad con esta Ley o con los convenios de colaboración que al efecto se celebren con las Instituciones Financieras y las asociaciones gremiales que las agrupen en los conflictos originados por operaciones o servicios que hayan contratado los Usuarios con las Instituciones Financieras, así como emitir dictámenes técnicos de conformidad con esta Ley;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2009)</small>
 
-V. De conformidad con lo señalado por el artículo 86 de esta Ley, prestar el servicio de orientación jurídica y asesoría legal a los Usuarios, en las controversias entre éstos y las Instituciones Financieras que se entablen ante los tribunales o se substancien mediante procedimientos arbitrales en los que la Comisión Nacional no actúe como árbitro, con motivo de operaciones o servicios que los primeros hayan contratado;
+IV. Actuar como árbitro en amigable composición o en juicio arbitral de estricto derecho, de conformidad con esta Ley o con los convenios de colaboración que al efecto se celebren con las Instituciones Financieras y las asociaciones gremiales que las agrupen en los conflictos originados por operaciones o servicios que hayan contratado los Usuarios con las Instituciones Financieras, así como emitir dictámenes de conformidad con esta Ley;
 
-VI. Proporcionar a los Usuarios los elementos necesarios para procurar una relación más segura y equitativa entre éstos y las Instituciones Financieras;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+V. De conformidad con lo señalado por el artículo 86 de esta Ley, procurar, proteger y representar individualmente los intereses de los Usuarios, en las controversias entre éstos y las Instituciones Financieras mediante el ejercicio de las acciones, recursos, trámites o gestiones que procedan ante autoridades administrativas y jurisdiccionales, con motivo de operaciones o servicios que los primeros hayan contratado por montos inferiores a tres millones de unidades de inversión, salvo tratándose de reclamaciones en contra de instituciones de seguros en cuyo caso la cuantía deberá de ser inferior a seis millones de unidades de inversión;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+VI. Promover y proteger los derechos del Usuario, así como aplicar las medidas necesarias para propiciar la seguridad jurídica en las relaciones entre Instituciones Financieras y Usuarios;
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2000)</small>
 
-Expedir, cuando así proceda, a solicitud de parte interesada y previo el pago de los gastos correspondientes, copia certificada de los documentos que obren en poder de la misma, siempre y cuando se compruebe fehacientemente el interés jurídico.
+Expedir, cuando así proceda, a solicitud de parte interesada y previo el pago de los gastos correspondientes, copia certificada de los documentos que obren en poder de la misma, siempre y cuando se compruebe fehacientemente el interés jurídico;
 
 VII. Coadyuvar con otras autoridades en materia financiera para lograr una relación equitativa entre las Instituciones Financieras y los Usuarios, así como un sano desarrollo del sistema financiero mexicano;
 
@@ -214,11 +230,15 @@ XXIII. Conocer y resolver sobre el recurso de revisión que se interponga en con
 
 XXIV. Determinar el monto, la forma y las condiciones de las garantías a las que se refiere esta Ley, así como el monto que deberá registrarse como pasivo contingente por parte de las Instituciones Financieras en términos del artículo 68 fracción X;
 
-XXV. Condonar total o parcialmente las multas impuestas por el incumplimiento de esta Ley, y
+XXV. Condonar total o parcialmente las multas impuestas por el incumplimiento de esta Ley, y (sic)
 
-> <small>(ADICIONADA, D.O.F. 12 DE MAYO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXVI. Asistir al Usuario que pretenda coadyuvar con el Ministerio Público, cuando a juicio de la Comisión Nacional sea víctima u ofendido por algún delito derivado de la contratación de productos o servicios financieros, cometido por las Instituciones Financieras, sus consejeros, directivos, funcionarios, empleados o representantes;
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+XXVI. Denunciar ante el Ministerio Público cuando se tenga conocimiento de hechos que puedan ser constitutivos de delitos en general y ante la Secretaría cuando se trate de delitos tipificados en leyes que establezcan que el delito se persiga a petición de dicha Secretaría.
+
+Asimismo, denunciar ante las autoridades competentes, los actos que constituyan violaciones administrativas y asistir al Usuario que pretenda coadyuvar con el Ministerio Público, cuando a juicio de la Comisión Nacional sea víctima u ofendido por algún delito derivado de la contratación de productos o servicios financieros, cometido por las Instituciones Financieras, sus consejeros, directivos, funcionarios, empleados o representantes;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 15 DE JUNIO DE 2007)</small>
 
@@ -226,9 +246,119 @@ XXVII. Publicar en la página electrónica de la Comisión Nacional la informaci
 
 La Comisión Nacional Publicará las comisiones más representativas o de relevancia a través de cuadros comparativos de carácter trimestral en medios masivos de comunicación;
 
-> <small>(ADICIONADA[N. DE E. REUBICADA], D.O.F. 15 DE JUNIO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER</small>
 
-XXVIII. Las demás que le sean conferidas por esta Ley o cualquier otro ordenamiento.
+ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+XXVIII. Vigilar y verificar el cumplimiento de las disposiciones contenidas en esta Ley y en las leyes relativas al sistema financiero, en el ámbito de su competencia, así como, en su caso, determinar los criterios para la verificación de su cumplimiento;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER</small>
+
+ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+XXIX. Actuar como consultor en materia de productos y servicios financieros y elaborar estudios relacionados con dichas materias;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER</small>
+
+ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+XXX. Requerir a las Instituciones Financieras que tomen medidas adecuadas para combatir, detener, modificar o evitar todo género de prácticas que lesionen los derechos de los Usuarios, así como publicar dichos requerimientos, en cumplimiento del objeto de esta Ley y al de la Comisión Nacional;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER</small>
+
+ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+XXXI. Promover nuevos o mejores sistemas y procedimientos que faciliten a los Usuarios el acceso a los productos o servicios que presten las Instituciones Financieras en mejores condiciones de mercado;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER</small>
+
+ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+XXXII. Informar a los Usuarios sobre las acciones u omisiones de las Instituciones Financieras que afecten sus derechos, así como la forma en que las Instituciones Financieras retribuirán o compensarán a los Usuarios;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER</small>
+
+ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+XXXIII. Supervisar a las Instituciones Financieras en relación a las normas de protección al usuario de servicios financieros cuando tal atribución le esté conferida en las leyes relativas al sistema financiero;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER</small>
+
+ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+XXXIV. Emitir en el ámbito de su competencia la regulación a que se sujetarán las Instituciones Financieras, cuando tal atribución le esté conferida en las leyes del sistema financiero;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER</small>
+
+ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+XXXV. Expedir disposiciones de carácter general en las que se establezca la información que deberán proporcionarle periódicamente las Instituciones Financieras en el ámbito de sus atribuciones, cuando así lo prevean las leyes relativas al sistema financiero;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER</small>
+
+ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+XXXVI. Fungir como órgano de consulta del Gobierno Federal en materia de protección al Usuario, en el ámbito de su competencia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER</small>
+
+ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+XXXVII. Procurar a través de los procedimientos establecidos en las leyes que regulan el sistema financiero, que las Instituciones Financieras cumplan debida y eficazmente las operaciones y servicios, en los términos y condiciones concertados, con los Usuarios;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER</small>
+
+ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+XXXVIII. Imponer sanciones administrativas en el ámbito de su competencia por infracciones a las leyes que regulan las actividades e Instituciones Financieras, sujetas a su supervisión, así como a las disposiciones que emanen de ellas;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER</small>
+
+ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+XXXIX. Conocer y resolver sobre el recurso de revisión que se interponga en contra de las sanciones aplicadas, así como condonar total o parcialmente las multas impuestas;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER</small>
+
+ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+XL. Elaborar y publicar estadísticas relativas a las Instituciones Financieras y mercados financieros, en el ámbito de su competencia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER</small>
+
+ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+XLI. Regular y supervisar en el ámbito de su competencia el cumplimiento de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, en los términos señalados en el referido texto legal, y
+
+XLII. Las demás que le sean conferidas por esta Ley o cualquier otro ordenamiento.
 
 ###### ARTÍCULO 12.
 
@@ -328,31 +458,55 @@ XXI. Constituir comités con fines específicos cuando se consideren necesarios;
 
 XXII. Nombrar y remover al secretario y al prosecretario;
 
-XXIII. Resolver sobre otros asuntos que el Presidente someta a su consideración, y
+XXIII. Resolver sobre otros asuntos que el Presidente someta a su consideración, y (sic)
 
-XXIV. Las demás facultades que le confieran otros ordenamientos.
+XXIV. Las demás facultades que le confieran otros ordenamientos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+XXV. Imponer sanciones administrativas por infracciones a las leyes que regulan las actividades, Instituciones Financieras y personas sujetas a la supervisión de la Comisión Nacional, así como a las disposiciones que emanen de ellas. Dicha facultad podrá delegarse en el Presidente, así como en otros servidores públicos de la Comisión Nacional, considerando la naturaleza de la infracción o el monto de las multas. A propuesta del Presidente de la Comisión Nacional, las multas administrativas podrán ser condonadas parcial o totalmente por la Junta de Gobierno.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+###### ARTÍCULO 22 Bis.
+
+La Comisión Nacional prestará los servicios de asistencia y defensa legal a los integrantes de su Junta de Gobierno y a los servidores públicos que laboren en la propia Comisión, con respecto a los actos que las personas antes referidas lleven a cabo en el ejercicio de las funciones que por ley les estén encomendadas.
+
+La asistencia y defensa legal se proporcionará con cargo a los recursos con los que para estos fines cuente la Comisión Nacional de acuerdo con las disposiciones legales aplicables y con los lineamientos de carácter general que apruebe la Junta, en los cuales deberá preverse el supuesto de que si la autoridad competente le dicta al sujeto de la asistencia legal resolución definitiva que cause ejecutoria en su contra, dicho sujeto deberá rembolsar a la Comisión Nacional los gastos y cualquier otra erogación en que se hubiere incurrido con motivo de la asistencia y defensa legal.
+
+Para tales efectos, la Secretaría oyendo la opinión de la Comisión Nacional, establecerá los mecanismos necesarios para cubrir los gastos que deriven de la asistencia y defensa legal previstos en este artículo.
+
+Lo dispuesto en este artículo se aplicará sin perjuicio de la obligación que tienen los sujetos de asistencia y defensa legal, de rendir los informes que les sean requeridos en términos de las disposiciones legales aplicables como parte del desempeño de sus funciones.
 
 ###### ARTÍCULO 23.
 
 El Presidente será designado por el Secretario de Hacienda y Crédito Público.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 24.
 
 El nombramiento del Presidente deberá recaer en persona que reúna los siguientes requisitos:
 
-I. Ser ciudadano mexicano;
+I. Ser ciudadano mexicano y estar en pleno goce de sus derechos civiles y políticos;
 
-II. Tener título profesional a nivel Licenciatura;
+II. Haber ocupado, por lo menos durante cinco años, cargos de alto nivel en el sistema financiero mexicano o en las dependencias, organismos o instituciones que ejerzan funciones de autoridad en materia financiera;
 
-III. Haber ocupado, por lo menos durante tres años, cargos de decisión en materia financiera;
+III. No desempeñar cargos de elección popular, ni ser accionista, consejero, funcionario, comisario, apoderado o agente de las entidades.
 
-IV. No desempeñar cargos de elección popular ni ser accionista, consejero, funcionario, comisario, apoderado o agente de las Instituciones Financieras. No se incumplirá este requisito cuando se tengan inversiones en términos de lo dispuesto por el artículo 16 Bis-7 de la Ley del Mercado de Valores;
+No se incumplirá este requisito cuando se tengan inversiones en términos de lo dispuesto por el artículo 16 Bis 7 de la Ley del Mercado de Valores;
 
-V. No tener litigio pendiente con la Comisión Nacional;
+IV. No tener litigio pendiente con la Comisión, y
 
-VI. No haber sido condenado por sentencia irrevocable por delito intencional que le imponga más de un año de prisión, y si se tratare de delito patrimonial cometido intencionalmente, cualquiera que haya sido la pena, ni encontrarse inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público o en el sistema financiero mexicano, y
+V. No haber sido condenado por sentencia irrevocable por delito intencional que le imponga más de un año de prisión, y si se tratare de delito patrimonial, cometido intencionalmente, cualquiera que haya sido la pena, ni inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público o en el sistema financiero mexicano.
 
-VII. Ser de reconocida competencia y honorabilidad.
+A los Vicepresidentes, Contralor Interno y Directores Generales les será aplicable lo establecido en las fracciones I, y III a V de este artículo.
 
 ###### ARTÍCULO 25.
 
@@ -362,7 +516,11 @@ A los Vicepresidentes de la Comisión Nacional les serán aplicables las disposi
 
 Corresponde al Presidente de la Comisión Nacional:
 
-I. La representación legal de la Comisión Nacional y el ejercicio de sus facultades, sin perjuicio de las que esta Ley confiere a la Junta;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+I. La representación legal de la Comisión Nacional y el ejercicio de sus facultades, sin perjuicio de las que esta Ley u otras Leyes confiere a la Junta;
 
 II. Ejecutar los acuerdos de la Junta;
 
@@ -398,9 +556,19 @@ XVI. Presentar a la Junta los proyectos de disposiciones relacionadas con la org
 
 XVII. Presentar o proponer los documentos o proyectos que respectivamente correspondan, para la aprobación o determinación de la Junta a que se refieren las diversas fracciones del artículo 22 de esta Ley;
 
-XVIII. Ejercer las más amplias facultades de dominio, administración y pleitos y cobranzas, aun de aquellas que requieran de autorización especial según otras disposiciones legales o reglamentarias, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XIX. Las demás que le atribuya la Junta, esta Ley u otros ordenamientos.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+XVIII. Ejercer las más amplias facultades de dominio, administración y pleitos y cobranzas, aun de aquellas que requieran de autorización especial según otras disposiciones legales o reglamentarias;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+XIX. Informar a la Secretaría respecto de los casos concretos que ésta le solicite; y
+
+XX. Las demás que le atribuya la Junta, esta Ley u otros ordenamientos.
 
 El Presidente ejercerá sus funciones directamente o mediante acuerdo delegatorio, a través de los Vicepresidentes, Directores Generales y demás servidores públicos de la Comisión Nacional, salvo aquéllas a las que se refiere el artículo siguiente. Los acuerdos por los que se deleguen facultades serán publicados en el Diario Oficial de la Federación.
 
@@ -430,7 +598,15 @@ Sin perjuicio de lo establecido en el artículo 4o. de la presente Ley, la Comis
 
 En ausencias temporales del Presidente, será suplido por los Vicepresidentes en el orden que el Estatuto Orgánico señale.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 31.
+
+Para los efectos de la fracción I del artículo 26, el Presidente estará investido de las más amplias facultades que para ese caso exigen las leyes, comprendiendo las que requieran cláusula especial conforme a las mismas.
+
+En los procedimientos judiciales, administrativos o laborales en los que la Comisión Nacional sea parte o pueda resultar afectada, el Presidente directamente o por medio de los servidores públicos de la propia Comisión Nacional que al efecto designe en los acuerdos delegatorios, ejercitará las acciones, excepciones y defensas, producirá alegatos, ofrecerá pruebas, interpondrá los recursos que procedan, podrá presentar desistimientos, y en general realizará todos los actos procesales que correspondan a la Comisión Nacional o a sus órganos, incluyendo en los juicios de amparo la presentación de los informes de Ley.
 
 El Presidente, los Vicepresidentes y los Directores Generales, sólo estarán obligados a absolver posiciones o rendir declaración en juicio, en representación de la Comisión Nacional o en virtud de sus funciones, cuando las posiciones y preguntas se formulen por medio de oficio expedido por autoridad competente, mismo que contestarán por escrito dentro del término establecido por dicha autoridad.
 
@@ -728,7 +904,11 @@ La reclamación que reúna los requisitos señalados, por su sola presentación,
 
 La Comisión Nacional correrá traslado a la Institución Financiera acerca de la reclamación presentada en su contra, dentro de los ocho días hábiles siguientes a la fecha de recepción de la misma, anexando todos los elementos que el Usuario hubiera aportado, y señalando en el mismo acto la fecha para la celebración de la audiencia de conciliación, con apercibimiento de sanción pecuniaria en caso de no asistir.
 
-La Comisión Nacional podrá en todo momento solicitar a la Institución Financiera información, documentación y todos los elementos que considere pertinentes, siempre y cuando estén directamente relacionados con la reclamación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+La Comisión Nacional podrá en todo momento solicitar a la Institución Financiera información, documentación y todos los elementos de convicción que considere pertinentes, siempre y cuando estén directamente relacionados con la reclamación.
 
 Tratándose de instituciones de fianzas, deberá citarse al fiado en el domicilio que la Institución tuviere de éste o de su representante legal.
 
@@ -738,9 +918,19 @@ Tratándose de instituciones de fianzas, deberá citarse al fiado en el domicili
 
 La Comisión Nacional, deberá agotar el procedimiento de conciliación, conforme a las siguientes reglas:
 
-> <small>(REFORMADA, D.O.F. 15 DE JUNIO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-I.- La Comisión Nacional citará a las partes a una audiencia de conciliación que se realizará dentro de los veinte días hábiles siguientes contados a partir de la fecha en que se reciba la reclamación;
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+I. El procedimiento de conciliación sólo se llevará a cabo en reclamaciones por cuantías totales inferiores a tres millones de unidades de inversión, salvo tratándose de reclamaciones en contra de instituciones de seguros en cuyo caso la cuantía deberá de ser inferior a seis millones de unidades de inversión;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+I Bis. La Comisión Nacional citará a las partes a una audiencia de conciliación que se realizará dentro de los veinte días hábiles siguientes contados a partir de la fecha en que se reciba la reclamación.
+
+La conciliación podrá celebrarse vía telefónica o por otro medio idóneo, en cuyo caso la Comisión Nacional o las partes podrán solicitar que se confirmen por escrito los compromisos adquiridos;
 
 > <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2000)</small>
 
@@ -754,59 +944,99 @@ III. En el informe señalado en la fracción anterior, la Institución Financier
 
 La institución financiera deberá acompañar al informe, la documentación, información y todos los elementos que considere pertinentes para sustentarlo, no obstante, la Comisión Nacional podrá en todo momento, requerir a la institución financiera la entrega de cualquier información, documentación o medios electromagnéticos que requiera con motivo de la reclamación y del informe;
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+IV. La Comisión Nacional podrá suspender cuando lo estime pertinente o a instancia de cualquiera de las partes, la audiencia de conciliación hasta en dos ocasiones. En caso de que se suspenda la audiencia, la Comisión Nacional señalará día y hora para su reanudación, la cual deberá llevarse a cabo dentro de los diez días hábiles siguientes. La falta de presentación del informe, no podrá ser causa para suspender o diferir la audiencia referida;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+V. La falta de presentación del informe dará lugar a que la Comisión Nacional valore la procedencia de las pretensiones del Usuario con base en los elementos con que cuente o se allegue conforme a la fracción VI, y para los efectos de la emisión del dictamen, en su caso, a que se refiere el artículo 68 Bis;
+
 > <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2000)</small>
 
-IV. La falta de presentación del informe, no podrá ser causa para suspender o diferir la audiencia referida y ésta deberá darse por concluida el día señalado para su celebración, salvo que por cualquier circunstancia, a juicio de la Comisión Nacional no pueda celebrarse en la fecha indicada, caso en el cual se deberá verificar dentro de los cinco días hábiles siguientes;
+VI. La Comisión Nacional cuando así lo considere o a petición del Usuario, en la audiencia de conciliación correspondiente o dentro de los diez días hábiles anteriores a la celebración de la misma, podrá requerir información adicional a la Institución Financiera, y en su caso, diferirá la audiencia requiriendo a la Institución Financiera para que en la nueva fecha presente el informe adicional.
 
-> <small>(REFORMADA, D.O.F. 15 DE JUNIO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V. La falta de presentación del informe a que se refiere el párrafo anterior dará lugar a que la Comisión Nacional valore la procedencia de las pretensiones del usuario con base en los elementos con que cuente, y para los efectos de la emisión del dictamen técnico en su caso a que se refiere la fracción VII siguiente;
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2009)</small>
 
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2000)</small>
+Asimismo, podrá acordar la práctica de diligencias que permitan acreditar los hechos constitutivos de la reclamación;
 
-VI. La Comisión Nacional cuando así lo considere o a petición del Usuario, en la audiencia de conciliación correspondiente o dentro de los diez días hábiles anteriores a la celebración de la misma, podrá requerir información adicional a la Institución Financiera, y en su caso, diferirá la audiencia requiriendo a la Institución Financiera para que en la nueva fecha presente el informe adicional;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE MAYO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 VII. En la audiencia respectiva se exhortará a las partes a conciliar sus intereses, para tal efecto, el conciliador formulará propuestas de solución y procurará que la audiencia se desarrolle en forma ordenada y congruente. Si las partes no llegan a una conciliación, la Comisión Nacional las invitará a que, de común acuerdo, designen como árbitro para resolver su controversia a la propia Comisión Nacional o a alguno o algunos de los árbitros que ésta les proponga, quedando a elección de las mismas que el juicio arbitral sea en amigable composición o de estricto derecho. El compromiso correspondiente se hará constar en el acta que al efecto se firme ante la Comisión Nacional. En caso de no someterse al arbitraje se dejarán a salvo sus derechos para que los hagan valer ante los tribunales competentes o en la vía que proceda.
 
-> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2005)</small>
+En el evento de que la Institución Financiera no asista a la junta de conciliación se le impondrá sanción pecuniaria y se emplazará a una segunda audiencia, la cual deberá llevarse a cabo en un plazo no mayor a diez días hábiles; en caso de no asistir a ésta se le impondrá una nueva sanción pecuniaria.
 
-En el evento de que la Institución Financiera no asista a la junta de conciliación o las partes rechacen el arbitraje, y siempre que del expediente se desprendan elementos que a juicio de la Comisión Nacional permitan suponer la procedencia de lo reclamado, ésta podrá emitir, previa solicitud por escrito del Usuario, un dictamen técnico que contenga su opinión. Para la elaboración del dictamen, la Comisión Nacional podrá allegarse todos los elementos que juzgue necesarios.
-
-La Comisión Nacional entregará al reclamante, contra pago de su costo, copia certificada del dictamen técnico, a efecto de que lo pueda hacer valer ante los tribunales competentes, quienes deberán tomarlo en cuenta en el procedimiento respectivo.
-
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 2005)</small>
+La Comisión Nacional entregará al reclamante, contra pago de su costo, copia certificada del dictamen a que se refiere el artículo 68 Bis, a efecto de que lo pueda hacer valer ante los tribunales competentes;
 
 La solicitud se hará del conocimiento de la Institución Financiera para que ésta manifieste lo que a su derecho convenga y aporte los elementos y pruebas que estime convenientes en un plazo que no excederá de diez días hábiles.
 
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 2005)</small>
-
-Si la Institución Financiera no hace manifestación alguna dentro de dicho plazo, la Comisión emitirá el dictamen con los elementos que posea.
-
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 2005)</small>
-
-El dictamen contendrá una valoración técnico-jurídica elaborada con base en la información, documentación o elementos que existan en el expediente, así como en los elementos adicionales que el organismo se hubiere allegado.
-
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 2005)</small>
-
-La Comisión contará con un término de noventa días hábiles para expedir el dictamen correspondiente. El servidor público que incumpla con dicha obligación, será sancionado en términos de la Ley de Responsabilidades de los Servidores Públicos.
+Si la Institución Financiera no hace manifestación alguna dentro de dicho plazo, la Comisión emitirá el dictamen con los elementos que posea;
 
 > <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2005)</small>
 
 VIII. En caso de que las partes lleguen a un acuerdo para la resolución de la reclamación, el mismo se hará constar en el acta circunstanciada que al efecto se levante. En todo momento, la Comisión Nacional deberá explicar al Usuario los efectos y alcances de dicho acuerdo; si después de escuchar explicación el Usuario decide aceptar el acuerdo, éste se firmará por ambas partes y por la Comisión Nacional, fijándose un término para acreditar su cumplimiento. El convenio firmado por las partes tiene fuerza de cosa juzgada y trae aparejada ejecución;
 
-IX. La carga de la prueba respecto del cumplimiento del convenio corresponde a la Institución Financiera y, en caso de omisión, se hará acreedora de la sanción que proceda conforme a la presente Ley, y
+IX. La carga de la prueba respecto del cumplimiento del convenio corresponde a la Institución Financiera y, en caso de omisión, se hará acreedora de la sanción que proceda conforme a la presente Ley, y (sic)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE MAYO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-X. Concluidas las audiencias de conciliación y en caso de que las partes no lleguen a un acuerdo, la Comisión Nacional ordenará a la Institución Financiera correspondiente que registre el pasivo contingente que derive de la reclamación, y dará aviso de ello, en su caso, a las Comisiones Nacionales a las que corresponda su supervisión. Ese registro contable podrá ser cancelado por la Institución Financiera, bajo su estricta responsabilidad, si transcurridos ciento ochenta días naturales después de su anotación, el reclamante no ha hecho valer sus derechos ante la autoridad judicial competente o no ha dado inicio al procedimiento arbitral conforme a esta Ley.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2009)</small>
 
-En el caso de Instituciones y Sociedades Mutualistas de Seguros, la orden mencionada en el primer párrafo de esta fracción, se referirá a la constitución e inversión conforme a la Ley General de Instituciones y Sociedades Mutualistas de Seguros de una reserva técnica especifica para obligaciones pendientes de cumplir, cuyo monto no deberá exceder de la suma asegurada. Dicha reserva se registrará en una partida contable determinada.
+X. Concluidas las audiencias de conciliación y en caso de que las partes no lleguen a un acuerdo, la Comisión Nacional levantará el acta respectiva. En el caso de que la Institución Financiera no firme el acta, ello no afectará su validez, debiéndose hacer constancia de la negativa.
 
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 2005)</small>
+En el caso de Instituciones y Sociedades Mutualistas de Seguros, ordenará la constitución e inversión conforme a la Ley General de Instituciones y Sociedades Mutualistas de Seguros de una reserva técnica especifica para obligaciones pendientes de cumplir, cuyo monto no deberá exceder de la suma asegurada y dará aviso de ello, en su caso, a la Comisión Nacional de Seguros y Fianzas. Dicha reserva se registrará en una partida contable determinada. Ese registro contable podrá ser cancelado por la Institución o Sociedad, bajo su estricta responsabilidad, si transcurridos ciento ochenta días naturales después de su anotación, el reclamante no ha hecho valer sus derechos ante la autoridad judicial competente o no ha dado inicio al procedimiento arbitral conforme a esta Ley.
 
-Si de las constancias que obren en el expediente respectivo se desprende, a juicio de la Comisión Nacional, la improcedencia de las pretensiones del Usuario, ésta podrá abstenerse de ordenar el pasivo contingente o la reserva técnica.
+Si de las constancias que obren en el expediente respectivo se desprende, a juicio de la Comisión Nacional, la improcedencia de las pretensiones del Usuario, ésta podrá abstenerse de ordenar la reserva técnica;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+XI. Los acuerdos de trámite que emita la Comisión Nacional no admitirán recurso alguno.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+###### ARTÍCULO 68 Bis.
+
+Cuando las partes no se sometan al arbitraje, y siempre que del expediente se desprendan elementos que a juicio de la Comisión Nacional permitan suponer la procedencia de lo reclamado, ésta podrá emitir, previa solicitud por escrito del Usuario, un acuerdo de trámite que contenga el dictamen, siempre y cuando la obligación contractual incumplida que en el se consigne sea válida, cierta, exigible y líquida a juicio de la autoridad judicial, ante la que la Institución Financiera podrá controvertir el monto del título, presentar las pruebas y oponer las excepciones que estime convenientes.
+
+Para la elaboración del dictamen, la Comisión Nacional podrá allegarse todos los elementos que juzgue necesarios.
+
+El dictamen a que se refiere el presente artículo sólo podrá emitirse en asuntos de cuantías inferiores a tres millones de unidades de inversión, salvo tratándose de reclamaciones en contra de instituciones de seguros en cuyo caso la cuantía deberá de ser inferior a seis millones de unidades de inversión.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+###### ARTÍCULO 68 Bis 1.
+
+El dictamen que puede emitir la Comisión Nacional en términos de los artículos 68 y 68 Bis contendrá una valoración técnica y jurídica elaborada con base en la información, documentación o elementos que existan en el expediente, así como en los elementos adicionales que el organismo se hubiere allegado.
+
+El dictamen a que se refiere el párrafo anterior deberá contener lo siguiente:
+
+I. Lugar y fecha de emisión;
+
+II. Identificación del funcionario que emite el dictamen;
+
+III. Nombre y domicilio de la Institución Financiera y del Usuario;
+
+IV. La obligación contractual y tipo de operación o servicio financiero de que se trate;
+
+V. El monto original de la operación así como el monto materia de la reclamación; y
+
+VI. La determinación del importe de las obligaciones a cargo de la Institución Financiera.
+
+La Comisión Nacional contará con un término de sesenta días hábiles para expedir el dictamen correspondiente. El servidor público que incumpla con dicha obligación, será sancionado en términos de la Ley de Responsabilidades de los Servidores Públicos.
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2000)</small>
 
@@ -1042,11 +1272,43 @@ Los Defensores, durante el tiempo que desempeñen dicho cargo, no podrán dedica
 
 En caso de que un asunto represente, en cualquier forma, un conflicto de intereses para el Defensor asignado por la Comisión Nacional, aquél deberá excusarse para hacerse cargo del mismo, y solicitar la asignación de otro Defensor.
 
-## TÍTULO SÉPTIMO. DE LAS SANCIONES Y DEL RECURSO ADMINISTRATIVO
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+## TÍTULO SÉPTIMO. DE LA SUPERVISIÓN
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+###### ARTÍCULO 92 Bis.
+
+La supervisión que realice la Comisión Nacional se sujetará al reglamento que al efecto expida el Ejecutivo Federal y comprenderá el ejercicio de las facultades vigilancia, prevención y corrección que le confieren a la Comisión Nacional esta Ley, así como otras leyes y disposiciones aplicables.
+
+La supervisión de las Instituciones Financieras tendrá por objeto procurar la protección de los intereses de los Usuarios.
+
+La inspección se efectuará a petición de la Comisión Nacional por la Comisión Nacional Bancaria y de Valores a través de visitas en las instalaciones de las Instituciones Financieras, para comprobar el cumplimiento de normas cuya supervisión se encuentre expresamente conferida a la Comisión Nacional.
+
+La prevención y corrección se llevarán a cabo mediante el establecimiento de programas de cumplimiento forzoso para las Instituciones Financieras, tendientes a eliminar irregularidades.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+###### ARTÍCULO 92 Bis 1.
+
+Las Instituciones Financieras sujetas a la supervisión de la Comisión Nacional respecto del cumplimiento de esta Ley, así como de otras Leyes en las que expresamente se le confiera tal supervisión, estarán obligadas a proporcionarle la información que la misma estime necesaria, en el ámbito de su competencia, en la forma y términos que les señale, así como a permitir el acceso de la Comisión Nacional a sus oficinas, locales y demás instalaciones, cuando proceda.
+
+(REUBICADO [N. DE E. ANTES CAPITULO SEPTIMO], D.O.F. 25 DE JUNIO DE 2009)
+
+## TÍTULO OCTAVO. DE LAS SANCIONES Y DEL RECURSO ADMINISTRATIVO
 
 ### CAPÍTULO II. DE LA SUBSTANCIACIÓN DEL RECURSO
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 93.
 
@@ -1064,9 +1326,11 @@ La Comisión Nacional estará facultada para imponer las siguientes sanciones:
 
 I. Multa de 200 a 1000 días de salario, a la Institución Financiera que no proporcione la información que le solicite la Comisión Nacional, conforme al artículo 47 de esta Ley;
 
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. Multa de 200 a 1000 días de salario, a la Institución Financiera que no proporcione la información que le solicite la Comisión Nacional, para el cumplimiento de su objeto, de acuerdo con los artículos 12, 53 y 58 de esta Ley;
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+II. Multa de 200 a 1000 días de salario, a la Institución Financiera que no proporcione la información que le solicite la Comisión Nacional, para el cumplimiento de su objeto, de acuerdo con los artículos 12, 53, 58 y 92 Bis 1 de esta Ley;
 
 > <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2005)</small>
 
@@ -1074,13 +1338,25 @@ III. Multa de 500 a 2000 días de salario a la Institución Financiera que no pr
 
 a) Los documentos, elementos o información específica solicitados en términos del artículo 67;
 
-b) El informe a que se refieren las fracciones II y III del artículo 68, o no lo rinda respondiendo de manera razonada a todos y cada uno de los hechos a que se refiere la reclamación, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-c) La información adicional a que se refiere la fracción VI del artículo 68.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2009)</small>
 
-> <small>(REFORMADA, D.O.F. 15 DE JUNIO DE 2007)</small>
+b) El informe a que se refieren las fracciones II, III, IV y V del artículo 68, o no lo rinda respondiendo de manera razonada a todos y cada uno de los hechos a que se refiere la reclamación, y
 
-IV. Multa hasta por el importe de lo reclamado por el Usuario, a la Institución Financiera que no comparezca a la audiencia de conciliación a que se refiere el artículo 68 de esta Ley, siempre que dicho importe sea menor a diez mil unidades de inversión; y para el caso de que el importe reclamado por el Usuario sea superior al monto antes señalado, la sanción será de diez mil unidades de inversión;
+c) La información adicional a que se refiere la fracción VI del artículo 68;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+IV. Multa hasta por el importe de lo reclamado por el Usuario, a la Institución Financiera que no comparezca a la audiencia de conciliación a que se refiere el artículo 68 de esta Ley, siempre que dicho importe sea menor a diez mil unidades de inversión; y para el caso de que el importe reclamado por el Usuario sea igual o superior al monto antes señalado, la sanción máxima será de diez mil unidades de inversión;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+IV Bis.- Multa de 300 a 1500 días de salario, a la Institución Financiera que no comparezca a la audiencia de conciliación a que se refiere el artículo 68 de esta Ley cuando la reclamación presentada por el Usuario no refiera importe alguno;
 
 > <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2000)</small>
 
@@ -1106,17 +1382,19 @@ VIII. Multa de 500 a 2000 días de salario, a la Institución Financiera que no 
 
 IX. La multa a que se refiere el artículo 84 de esta Ley;
 
-> <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-X. Multa de 500 a 2000 días de salario, a la Institución Financiera que utilice con los Usuarios cualesquier contrato de adhesión que no esté inscrito en el Registro Público de Contratos de Adhesión de las Instituciones Financieras, previsto en esta Ley;
+X. (DEROGADA, D.O.F. 25 DE JUNIO DE 2009)
 
 > <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2007)</small>
 
 XI. Multa de 500 a 2000 días de salario, a la Institución Financiera que cobre cualquier comisión que no se haya reportado a la Comisión Nacional para su inserción en la Base de Datos de las Comisiones que cobren las Instituciones Financieras, prevista en esta Ley;
 
-> <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XII. Multa de 250 a 2000 días de salario, a la persona que envíe cualesquier publicidad relativa a los productos y servicios que ofrezca una Institución Financiera a aquellos Usuarios que expresamente hayan solicitado que no se les envíe dicha publicidad, que asimismo hayan pedido no ser molestados en su domicilio, lugar de trabajo, dirección electrónica o por cualquier otro medio, para ofrecerles bienes, productos o servicios o que estén inscritos en el Registro Público de Usuarios que no Deseen que su Información sea Utilizada para Fines Mercadotécnicos o Publicitarios, previsto en esta Ley;
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+XII. Multa de 250 a 2000 días de salario, a la Institución Financiera que envíe directamente o por interpósita persona cualesquiera publicidad relativa a los productos y servicios que ofrezcan las mismas Instituciones Financieras a aquellos Usuarios que expresamente hayan solicitado que no se les envíe dicha publicidad, que asimismo hayan pedido no ser molestados en su domicilio, lugar de trabajo, dirección electrónica o por cualquier otro medio, para ofrecerles bienes, productos o servicios financieros o que estén inscritos en el Registro Público de Usuarios que no Deseen que su Información sea Utilizada para Fines Mercadotécnicos o Publicitarios, previsto en esta Ley;
 
 > <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2007)</small>
 
@@ -1150,41 +1428,85 @@ Lo dispuesto en el presente Capítulo, no excluye la imposición de las sancione
 
 ###### ARTÍCULO 99.
 
-Procede el recurso de revisión contra aquéllas resoluciones dictadas fuera del procedimiento arbitral que pongan fin a un procedimiento, o bien, cuando a través de las mismas se imponga una sanción.
+Los afectados con motivo de los actos de la Comisión Nacional en resoluciones dictadas fuera del procedimiento arbitral que pongan fin a un procedimiento o de la imposición de sanciones administrativas, podrán acudir en defensa de sus intereses interponiendo recurso de revisión, cuya interposición será optativa.
 
-> <small>(REFORMADO, D.O.F. 7 DE JULIO DE 2005)</small>
+El recurso de revisión deberá interponerse por escrito dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación del acto respectivo y deberá presentarse ante la Junta, cuando el acto haya sido emitido por dicha Junta o por el Presidente, o ante este último cuando se trate de actos realizados por otros servidores públicos.
 
-La interposición del recurso de revisión será optativa para el interesado antes de acudir al Tribunal Federal de Justicia Fiscal y Administrativa.
+El escrito mediante el cual se interponga el recurso de revisión deberá contener:
+
+I. El nombre, denominación o razón social del recurrente;
+
+II. Domicilio para oír y recibir toda clase de citas y notificaciones;
+
+III. Los documentos con los que se acredita la personalidad de quien promueve;
+
+IV. El acto que se recurre y la fecha de su notificación;
+
+V. Los agravios que se le causen con motivo del acto señalado en la fracción IV anterior, y
+
+VI. Las pruebas que se ofrezcan, las cuales deberán tener relación inmediata y directa con el acto impugnado.
+
+Cuando el recurrente no cumpla con alguno de los requisitos a que se refieren las fracciones I a VI de este artículo, la Comisión Nacional lo prevendrá, por escrito y por única ocasión, para que subsane la omisión prevenida dentro de los tres días hábiles siguientes al en que surta efectos la notificación de dicha prevención y, en caso que la omisión no sea subsanada en el plazo indicado en este párrafo, la Comisión Nacional lo tendrá por no interpuesto. Si se omitieran las pruebas se tendrán por no ofrecidas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 100.
 
-El recurso de revisión se interpondrá dentro del plazo de quince días hábiles contados a partir del día siguiente a aquél en que surta efectos la notificación de la resolución recurrida. Se presentará ante la autoridad que dictó la resolución correspondiente y será resuelto por el Presidente o por el área de la Comisión Nacional que éste determine.
+La interposición del recurso de revisión suspenderá los efectos del acto impugnado cuando se trate de multas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 101.
 
-La interposición del recurso de revisión suspenderá la resolución impugnada. La suspensión sólo se otorgará si concurren los siguientes requisitos:
+El órgano encargado de resolver el recurso de revisión podrá:
 
-I. Que la solicite el recurrente;
+I. Desecharlo por improcedente;
 
-II. Que el recurso haya sido admitido;
+II. Sobreseerlo en los casos siguientes:
 
-III. Que de otorgarse no implique la continuación de actos u omisiones que ocasionen infracciones a esta Ley;
+a) Por desistimiento expreso del recurrente.
 
-IV. Que no afecten intereses de terceros en términos de esta Ley, salvo que se garanticen éstos en el monto que fije la Comisión Nacional, y
+b) Por sobrevenir una causal de improcedencia.
 
-V. Que se acompañe el documento que acredite el otorgamiento de una garantía por el monto equivalente a lo reclamado.
+c) Por haber cesado los efectos del acto impugnado.
+
+d) Las demás que conforme a la ley procedan.
+
+III. Confirmar el acto impugnado;
+
+IV. Revocar total o parcialmente el acto impugnado, y
+
+V. Modificar o mandar reponer el acto impugnado o dictar u ordenar expedir uno nuevo que lo sustituya.
+
+No se podrán revocar o modificar los actos administrativos en la parte no impugnada por el recurrente.
+
+El órgano encargado de resolver el recurso de revisión deberá atenderlo sin la intervención del servidor público de la Comisión Nacional que haya dictaminado la sanción administrativa que haya dado origen a la imposición del recurso correspondiente.
+
+La resolución de los recursos de revisión deberá ser emitida en un plazo que no exceda a los noventa días hábiles posteriores a la fecha en que se interpuso el recurso, cuando deba ser resuelto por el Presidente, ni a los ciento veinte días hábiles cuando se trate de recursos que sean competencia de la Junta.
+
+La Comisión Nacional deberá prever los mecanismos que eviten conflictos de interés entre el área que emite la resolución objeto del recurso y aquella que lo resuelve.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 102.
 
-En el escrito en que la parte afectada interponga el recurso, deberán expresarse el acto impugnado y los agravios que el mismo cause, y se acompañarán u ofrecerán, según corresponda, las pruebas que al efecto se consideren convenientes.
+(DEROGADO, D.O.F. 25 DE JUNIO DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 103.
 
-Si se ofrecen pruebas que ameriten desahogo, se concederá al interesado un plazo no menor de cinco días hábiles ni mayor de diez para tal efecto. La autoridad podrá allegarse los elementos de convicción que considere necesarios. Concluido el periodo probatorio, la autoridad resolverá dentro de los cinco días hábiles siguientes.
+(DEROGADO, D.O.F. 25 DE JUNIO DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 104.
 
-Cuando no se señale el acto impugnado o no se expresen agravios, la autoridad competente desechará por improcedente el recurso interpuesto. Si se omitieran las pruebas, se tendrán por no ofrecidas. La resolución del recurso de revisión podrá desechar, confirmar, mandar reponer por uno nuevo que lo sustituya o revocar el acto impugnado, y deberá ser emitida en un plazo no superior a los treinta días hábiles.
+(DEROGADO, D.O.F. 25 DE JUNIO DE 2009)
 
 > <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2005)</small>
 
@@ -1315,3 +1637,35 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO SEGUNDO.
 
 La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, será la autoridad responsable para los efectos legales conducentes, derivados del Artículo Segundo del presente Decreto.
+
+D.O.F. 25 DE JUNIO DE 2009.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Las nuevas atribuciones de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros para emitir disposiciones de carácter general previstas en las reformas y adiciones a la Ley de Instituciones de Crédito y la Ley para la Transparencia y Ordenamiento de los Servicios Financieros previstas en este Decreto entrarán en vigor a los ciento ochenta días naturales siguientes al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO TERCERO.
+
+Las reformas, adiciones y derogaciones a la Ley de Protección y Defensa al Usuario de Servicios Financieros entrarán en vigor a los doscientos setenta días naturales siguientes al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO CUARTO.
+
+La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros deberá efectuar las gestiones que sean necesarias para contar con una estructura orgánica que le permita dar cumplimiento a lo dispuesto por el presente decreto en los plazos de inicio de su vigencia.
+
+Las infracciones cometidas con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la Ley vigente al momento de cometerse las citadas infracciones o delitos.
+
+En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos que se estipulan mediante el presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+En tanto la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros emita las disposiciones de carácter general a que se refieren las reformas contenidas en el presente Decreto, seguirán aplicándose las expedidas con anterioridad a la vigencia de la misma, en las materias correspondientes, en lo que no se oponga al presente Decreto.
+
+Al expedirse las disposiciones a que se refiere este artículo, se señalarán expresamente aquéllas a las que sustituyan o que queden derogadas.
+
+...
