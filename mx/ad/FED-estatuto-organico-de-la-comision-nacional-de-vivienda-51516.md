@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-de-vivienda-51516"
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-08-31"
-last_updated: "2006-08-31"
+last_updated: "2009-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51516&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,509 +19,937 @@ issue_date: "2006-08-28"
 ---
 # ESTATUTO ORGANICO DE LA COMISION NACIONAL DE VIVIENDA
 
-ESTATUTO ORGANICO DE LA COMISION NACIONAL DE VIVIENDA
+REGLAMENTO QUE REGULA LA PRESTACIÓN DE LOS SERVICIOS DE SEGURIDAD PRIVADA EN EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 26 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 31 de agosto de 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2014 (ABROGADO).
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Comisión Nacional de Vivienda.
+Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 10 de septiembre de 2008.
 
-ACUERDO DE LA H. JUNTA DE GOBIERNO DE LA COMISION NACIONAL DE VIVIENDA.- DIRECCION GENERAL.
+Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Poder Ejecutivo del Estado de Chiapas.
 
-Con fundamento en lo dispuesto por la fracción I del Artículo 23 de la Ley de Vivienda, publicada en el Diario Oficial de la Federación de 27 de junio de 2006, y el antepenúltimo párrafo del Artículo 15 de la Ley Federal de las Entidades Paraestatales, y en el ejercicio que dichos numerales le confieren a esta Junta de Gobierno, en su Primera Sesión celebrada el día 28 de agosto de 2006, se aprueba el siguiente:
+Juan Sabines Guerrero, Gobernador del Estado Libre y Soberano de Chiapas, en ejercicio de la facultad que me confieren la fracción I, del artículo 42 y 44, de la Constitución Política local; con fundamento en los artículos 13 y 41, de la Ley Orgánica de la Administración Pública del Estado; y,
 
-ESTATUTO ORGANICO DE LA COMISION NACIONAL DE VIVIENDA
+Considerando...
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+Por los fundamentos y consideraciones antes expuestas, tengo a bien expedir el siguiente:
 
-###### Artículo 1.
+Reglamento que Regula la Prestación de los Servicios de Seguridad Privada en el Estado de Chiapas
 
-La Comisión Nacional de Vivienda, es un organismo descentralizado, de utilidad pública e interés social, no sectorizado, con personalidad jurídica y patrimonio propio, que tiene por objeto el fomento, la coordinación, la promoción y la instrumentación de la política y el programa nacional de vivienda del Gobierno Federal de conformidad con la Ley de Vivienda, Ley General de Asentamientos Humanos y demás disposiciones aplicables.
+## Título I. Disposiciones Generales
+
+### Capítulo Único. Del Objeto y Atribuciones
+
+###### Artículo 1°.
+
+El presente reglamento es de orden público e interés general y tiene por objeto regular la prestación de los servicios de seguridad privada en el Estado y las actividades que de dichos servicios se deriven, mismas que comprenden: la autorización, registro, revalidación, modalidades, modificaciones, requisitos, obligaciones, prohibiciones, restricciones, verificaciones, uso de armas de fuego, sanciones y los recursos que se interpongan como medios de impugnación contra las medidas tendientes a garantizar la correcta prestación de los servicios y las sanciones aplicables.
+
+Artículo. 2°.- Son sujetos del presente reglamento las personas físicas y morales que presten servicios de seguridad privada, empresas dedicadas a la venta, instalación, supervisión y monitoreo de sistemas electrónicos de seguridad así como todo personal comprendido en las diversas modalidades del servicio que este reglamento contempla.
 
 ###### Artículo 2.
 
 El presente Estatuto Orgánico tiene por objeto establecer las bases de organización, las facultades y funciones que corresponden a las distintas unidades administrativas que integran la Comisión Nacional de Vivienda.
 
-###### Artículo 3.
+###### Artículo 3°.
 
-A la Comisión Nacional de Vivienda le corresponde el ejercicio de las atribuciones establecidas en el Artículo 19 de la Ley de Vivienda.
+Para los efectos de este ordenamiento se entenderá por:
 
-###### Artículo 4.
+l. Actividad vinculada con servicios de seguridad privada: Aquella tarea o labor relacionada directa o indirectamente con la instalación o comercialización de sistemas de blindaje en todo tipo de vehículos automotores, y de los equipos, dispositivos, aparatos, sistemas o procedimientos técnicos especializados;
 
-Para efectos de este Estatuto, se entenderá por:
+II. Autorización: Al acto administrativo por medio del cual la Secretaría faculta a una persona física o moral para la prestación de los servicios de seguridad privada en el Estado, así como las actividades vinculadas con los servicios de seguridad privada;
 
-I. Comisión, la Comisión Nacional de Vivienda;
+III. Amonestación: A la desaprobación en calidad de advertencia o prevención para el infractor de una disposición contenida en el presente reglamento y demás ordenamientos aplicables;
 
-II. Comisión Intersecretarial, la Comisión Intersecretarial de Vivienda prevista en el Capítulo V del Título Tercero de la Ley;
+IV. Aseguramiento: La puesta a disposición ante el ministerio público de un bien mueble en imposibilidad de utilización de manera provisional, por parte de la Secretaría;
 
-III. Consejo, el Consejo Nacional de Vivienda;
+V. Elemento: Se refiere al personal operativo que labora con el prestador del servicio;
 
-IV. Junta de Gobierno, a la Junta de Gobierno de la Comisión;
+VI. Cancelación: La anulación total de los efectos de la autorización y del registro del prestador del servicio;
 
-V. Ley, la Ley de Vivienda; y
+VII. Clausura Temporal: A la inhabilitación de instalaciones del servicio de seguridad privada por un tiempo determinado;
 
-VI. Organismos Nacionales de Vivienda, al Fondo de Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, Fideicomiso Fondo Nacional de Habitaciones Populares, Instituto del Fondo Nacional de la Vivienda para los Trabajadores y Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito.
+VIII. Clausura definitiva: A la inhabilitación total de instalaciones del servicio de seguridad privada por tiempo indefinido;
 
-###### Artículo 5.
+IX. Dirección: A la Dirección de la Policía Auxiliar y de Servicios Privados de Seguridad;
 
-Para su operación, administración y funcionamiento, la Comisión contará con una Junta de Gobierno y un Director General.
+X. Dictamen: Al documento emitido por el Consejo Estatal de Seguridad Pública;
 
-###### Artículo 6.
+XI. Establecimiento y operación de sistemas electrónicos y equipos de seguridad y vigilancia: A los que brindan los prestadores de servicios por medio de monitoreos y alarmas;
 
-Para el ejercicio de sus funciones, la Comisión contará con las unidades administrativas siguientes:
+XII. Instituto: Al Instituto de Formación Profesional de Policías del Estado;
 
-I. Dirección General;
+XIII. Ley: A la Ley del Sistema Estatal de Seguridad Pública del Estado de Chiapas;
 
-II. Subdirección General de Política de Vivienda y Esquemas Financieros;
+XIV. Modalidad: A la particularidad del servicio otorgado por la Secretaría a los prestadores del servicio de seguridad privada en términos de este Reglamento;
 
-III. Subdirección General de Fomento al Crecimiento del Sector Vivienda;
+XV. Modificación: A la ampliación o cambio de las modalidades autorizadas al prestador del servicio;
 
-IV. Subdirección General de Fomento del Suelo para Vivienda y Enlace con Estados y Municipios;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-V. Subdirección General de Enlace y Operación de los Organismos Nacionales de Vivienda;
+XVI. Multa: Sanción administrativa impuesta al prestador de servicio y que consiste en la obligación de pagar una cantidad determinada de dinero;
 
-VI. Coordinación General Técnica de Difusión y Promoción de Vivienda;
+XVII. Obligaciones: Los compromisos que se le imponen al prestador del servicio de seguridad privada;
 
-VII. Coordinación General de Administración y Finanzas;
+XVIII. Prestador de servicio: A la persona física o moral legalmente constituida y autorizada para prestar el servicio de seguridad privada con las modalidades previstas por este reglamento;
 
-VIII. Coordinación General de Asuntos Jurídicos;
+XIX. Prohibiciones: A los impedimentos que rigen la actuación de los servicios de seguridad privada;
 
-IX. Coordinación General del Secretariado de la Comisión; y
+XX. Recursos: A los medios de impugnación presentados en contra de las resoluciones emitida (sic) por la autoridad;
 
-X. Organo Interno de Control.
+XXI. Registro Estatal de Empresas de Seguridad: Al sistema de datos que constituye una unidad de información para su control y consulta;
 
-Las unidades administrativas de la Comisión, para el ejercicio de sus atribuciones, se auxiliarán por los directores de área, subdirectores, jefes de departamento, personal de enlace, jefes de oficina, y demás personal técnico y administrativo que se requieran por las necesidades del servicio.
+XXII. Reincidencia: A la comisión de dos o más infracciones a las normas jurídicas y administrativas relacionadas con la seguridad privada en un periodo no mayor de seis meses;
 
-### CAPITULO SEGUNDO. DE LA JUNTA DE GOBIERNO
+XXIII. Requisitos: A los requerimientos o condiciones necesarias a cumplir para el otorgamiento de la autorización o revalidación;
 
-###### Artículo 7.
+XXIV. Restricciones: A las limitaciones impuestas para el desarrollo de la actividad de la seguridad privada;
 
-La Comisión contará con una Junta de Gobierno que estará integrada conforme a lo establecido en el Artículo 22 de la Ley.
+XXV. Revalidación: Al acto administrativo por el que la autoridad competente ratifica la validez de la autorización;
 
-###### Artículo 8.
+XXVI. Sanciones: A las que se imponen a los infractores que transgreden las disposiciones del presente reglamento;
 
-La Junta de Gobierno además de las atribuciones indelegables que le señala la Ley, tendrá las siguientes:
+XXVII. Secretaría: A la Secretaría de Seguridad y Protección Ciudadana;
 
-I. Aprobar, cuando corresponda, las reglas de operación para la ejecución de las acciones de vivienda que competan a la Comisión;
+XXVIII. Secretariado: Al Secretario Ejecutivo del Consejo Estatal de Seguridad Pública;
 
-II. Aprobar, a propuesta del Director General, las normas y lineamientos para la realización de las evaluaciones señaladas en el Artículo 12 de la Ley.
+XXIX. Seguridad privada a personas: La protección, custodia, salvaguarda, defensa de la vida y de la integridad corporal del prestatario;
 
-###### Artículo 9.
+XXX. Seguridad privada en los bienes: El cuidado y protección de bienes muebles e inmuebles;
 
-La Junta de Gobierno celebrará sesiones ordinarias por lo menos cuatro veces al año, conforme al calendario que al efecto apruebe en la primera sesión ordinaria de cada ejercicio, y las extraordinarias que proponga el Director General.
+XXXI. Seguridad privada en el traslado de bienes o valores: La prestación de servicios de custodia, vigilancia, cuidado y protección de bienes muebles o valores, incluyendo su traslado;
 
-Las sesiones de la Junta de Gobierno serán presididas de manera rotativa, sucesivamente cada tercer sesión, por cada uno de los titulares de las dependencias señaladas en el Artículo 22 de la Ley, en el orden que ahí se mencionan. En caso de ausencia del presidente en turno y su suplente, se determinará por la mayoría de los presentes, quien preside la sesión.
+XXXII. Servicios de seguridad privada: Los servicios que prestan las personas físicas o morales con el objeto de brindar protección a fin de salvaguardar la integridad física de las personas y de sus bienes, de acuerdo a las modalidades previstas en este reglamento;
 
-La Junta de Gobierno sesionará válidamente con la asistencia de la mitad más uno de sus miembros. Sus decisiones se tomarán por mayoría de votos de los miembros presentes.
+XXXIII. Supervisión: Las comprobaciones por parte de la autoridad competente para examinar el correcto desempeño de las labores de los prestadores del servicio;
+
+XXXIV. Suspensión temporal: La aplicación de una medida provisional que deja sin efecto la vigencia del uso de la autorización; y,
+
+XXXV. Suspensión provisional: La resolución que temporalmente deja sin efecto las actividades del prestador del servicio.
+
+###### Artículo 4°.
+
+Los servicios de seguridad privada son parte esencial del Sistema Estatal de Seguridad Pública del Estado y el objetivo primordial consiste en coadyuvar con las autoridades en la prevención de delitos contra la vida, integridad y libertad de las personas, así como la protección de su patrimonio, derechos y prevención de las faltas administrativas.
+
+###### Artículo 5°.
+
+En todo lo no previsto por este reglamento, serán aplicables de forma supletoria la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, la Ley Federal de Seguridad Privada, la Ley General de Policías Preventivas para el Estado de Chiapas y las demás disposiciones aplicables.
+
+###### Artículo 6°.
+
+Este ordenamiento, acuerdos, políticas y lineamientos administrativos aplicables, confieren a los servicios de seguridad privada el carácter de auxiliares y complementarios de la función de seguridad pública, en beneficio de la integridad de las personas y sus bienes.
+
+### Capítulo I. De los Requisitos
+
+###### Artículo 7°.
+
+La aplicación del presente reglamento corresponde al Ejecutivo Estatal por conducto de la Secretaría a través de la Dirección.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 8°.
+
+La Secretaría a través de la Dirección, tendrá las siguientes facultades en materia de seguridad privada:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+I. Emitir la autorización para la prestación del servicio de seguridad privada en el Estado y, en su caso revalidar, revocar o modificar la autorización otorgada para dicho efecto;
+
+II. Determinar e imponer las sanciones previstas en este reglamento;
+
+III. Celebrar convenios con las autoridades federales, estatales y municipales competentes, con el objeto de establecer lineamientos, políticas y sistemas de apoyo, relacionados con la prestación de servicios de seguridad privada, con arreglo a los objetivos de la ley y demás disposiciones jurídicas aplicables;
+
+IV. Autorizar a terceros, previo cumplimiento de los requisitos legales respectivos y bajo su estricta vigilancia, llevar a cabo las evaluaciones física, médica, psicológica, toxicológica, de aptitud, de idoneidad y confiabilidad para prestar servicios o realizar actividades de seguridad privada con apego a los principios de legalidad, eficiencia, profesionalismo y honradez;
+
+V. Controlar, supervisar y vigilar el desarrollo de la seguridad privada en el Estado;
+
+VI. Realizar acciones tendientes a que los servicios de seguridad privada, se lleven a cabo con eficiencia, calidad, certeza y confianza a los prestatarios;
+
+VII. Regular, orientar, organizar y en su caso modificar la prestación de los servicios de seguridad privada conforme a lo prescrito por este reglamento y demás disposiciones aplicables;
+
+VIII. Establecer, operar y controlar el Registro Estatal de Empresas de Seguridad Privada;
+
+IX. Realizar la evaluación, verificación, supervisión de los servicios y actividades de seguridad privada en el Estado;
+
+X. Denunciar ante el Ministerio Público cuando se tenga conocimiento de la probable comisión de un delito;
+
+XI. Verificar que el elemento esté debidamente capacitado y evaluado, considerando además de los exámenes físico, médico y toxicológico, las consideraciones de aptitud, idoneidad y confiabilidad para la prestación del servicio;
+
+XII. Concertar acuerdos con los prestadores de servicio para la instrumentación de los planes y programas de capacitación y adiestramiento a través del Instituto;
+
+XIII. Expedir a costa del prestador de servicios la credencial de identificación del personal operativo, misma que será de uso obligatorio;
+
+XIV. Tramitar el registro del personal operativo y administrativo en la base de datos del Registro Nacional de Personal de Seguridad Pública;
+
+XV. Llevar a cabo visitas de supervisión a las empresas prestadoras del servicio de seguridad privada autorizadas; y,
+
+XVI. Las demás que le confiera este reglamento y demás ordenamientos aplicables.
+
+## Título II. De la Autorización para Prestar el Servicio de Seguridad Privada
+
+###### Artículo 9°.
+
+Se requiere autorización de la Secretaría para prestar el servicio de seguridad privada en el Estado. Los prestadores de servicio que hayan obtenido autorización federal para prestar sus servicios, deberán tramitar la autorización estatal correspondiente, de acuerdo con las disposiciones de este reglamento y demás normativa aplicable.
+
+Los prestadores del servicio deberán obtener autorización, previamente a su operación, mediante el cumplimiento de los requisitos establecidos en este reglamento y demás disposiciones aplicables.
 
 ###### Artículo 10.
 
-El Director General de la Comisión, en su carácter de Secretario Técnico de la Junta de Gobierno tendrá las atribuciones siguientes:
+Las personas físicas o morales que pretendan brindar los servicios privados de seguridad deberán presentar solicitud por escrito ante la Secretaría, marcando copia al Secretariado, que contendrá:
 
-I. Convocar a las sesiones de la Junta de Gobierno, acompañando el orden del día y la información y documentación correspondientes;
+I. Nombre, denominación o razón social;
 
-II. Pasar lista de asistencia e informar al Presidente si se cuenta con el quórum necesario para sesionar válidamente;
+II. Objeto social;
 
-III. Llevar un registro y control de las actas, acuerdos y demás documentación relativa al funcionamiento de la Junta de Gobierno;
+III. Nombre del representante legal en su caso;
 
-IV. Verificar el Seguimiento de los acuerdos y resoluciones de la Junta de Gobierno;
+IV. Domicilio para oír y recibir notificaciones;
 
-V. Suscribir las actas de las sesiones y recabar las firmas del presidente, del comisario público y de los demás integrantes de la Junta de Gobierno;
+V. Señalar domicilio de la matriz y en su caso de las sucursales, precisando el nombre y puesto del encargado en cada una de ellas, anexando los comprobantes domiciliarios respectivos;
 
-VI. Recoger las votaciones de los miembros de la Junta de Gobierno y declarar su resultado;
+VI. Ámbito territorial de la prestación del servicio;
 
-VII. Coordinar las actividades de los comités que constituya la Junta de Gobierno;
+VII. Descripción de los servicios de seguridad motivo de la solicitud; y,
 
-VIII. Expedir constancias de los acuerdos que emita la Junta de Gobierno, y
+VIII. Aceptación formal de la suspensión de su autorización o revalidación cuando el prestador del servicio incumpla con las obligaciones a que alude el presente reglamento.
 
-IX. Las demás que determine la Junta de Gobierno.
-
-Para el desempeño de sus funciones, el Secretario Técnico será auxiliado por el titular de la Coordinación General del Secretariado de la Comisión.
-
-### CAPITULO TERCERO. DEL DIRECTOR GENERAL
+### Capítulo II. De la Autorización
 
 ###### Artículo 11.
 
-El Director General de la Comisión será designado y removido por el Presidente de la República y deberá cumplir con los requisitos señalados en el artículo 21 de la Ley Federal de las Entidades Paraestatales.
+En el escrito a que hace referencia el artículo anterior se deberá manifestar bajo protesta de decir verdad lo siguiente:
 
-El Director General tendrá la representación legal de la Comisión, y ejercerá las facultades y obligaciones establecidas en el Artículo 25 de la Ley.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-El Director General fungirá como Secretario Técnico ante la Junta de Gobierno; como Secretario Ejecutivo ante la Comisión Intersecretarial; y, como Coordinador General ante el Consejo Nacional de Vivienda.
+I. Que la persona física, socios, asociados o integrantes del órgano de administración, gestores, representantes, apoderados y mandatarios legales, no son miembros activos de los cuerpos de seguridad pública municipal, estatal, federal o de las fuerzas armadas;
 
-Asimismo, le corresponde designar a los representantes de la Comisión en las comisiones, organizaciones, consejos, órganos de gobierno, instituciones y entidades en los que participe, y establecer los lineamientos conforme a los cuales deban actuar.
+II. Que la persona física, socios, asociados o integrantes del órgano de administración, no han sido condenados por delito doloso con sanción privativa de la libertad mayor de un año; y,
+
+III. Que la persona física, socios, asociados o integrantes del órgano de administración no han sido destituidos de los cuerpos de seguridad pública, ni de las fuerzas armadas por cualquiera de los siguientes motivos:
+
+a) Falta grave a los principios de actuación previstos en las leyes de la materia;
+
+b) Poner en peligro a los particulares a causa de imprudencia, negligencia o abandono del servicio;
+
+c) Incurrir en faltas de honestidad;
+
+d) Asistir al servicio en estado de ebriedad o bajo el influjo de sustancias psicotrópicas, enervantes o estupefacientes y otras que produzcan efectos similares o por consumirlas durante el servicio o en su centro de trabajo o por haberse comprobado ser adictos a tales substancias;
+
+e) Presentar documentación falsa o apócrifa; y,
+
+f) Obligar a sus subalternos a entregarle dinero u otras dádivas bajo cualquier concepto.
 
 ###### Artículo 12.
 
-Para la mejor distribución y desarrollo del trabajo, el Director General contará con una oficina de apoyo.
+Los interesados en obtener la autorización como prestadores de servicio, además de cubrir lo señalado en el artículo anterior, deberán cumplir con la presentación de los siguientes documentos:
 
-### CAPITULO CUARTO. DE LAS SUBDIRECCIONES Y COORDINACIONES GENERALES
+I. Comprobante de pago de derechos por la solicitud, trámite y expedición de la autorización o la revalidación, (por la consulta de antecedentes policiales e inscripción del personal administrativo y operativo en el Registro Nacional de Personal de Seguridad Pública);
+
+II. Acta constitutiva inscrita en el Registro Público de la Propiedad y de Comercio, así como de las modificaciones realizadas a la misma, para el caso de personas morales; acta de nacimiento, credencial para votar con fotografía actualizada o cartilla del servicio militar nacional liberada, si es persona física;
+
+III. Testimonio notarial que acredite la personalidad jurídica del representante legal;
+
+IV. Registro federal de contribuyentes;
+
+V. Comprobante de domicilio actualizado;
+
+VI. Programa de Capacitación y Adiestramiento de Elementos, el cual deberá incluir: nombre de la institución capacitadora, nombre y curriculum de los capacitadores, duración de los cursos, lugar donde se impartieron y registro ante la Secretaría del Trabajo y Previsión Social, anexando relación del personal capacitado y del formato DC-3 y DC-4, constancia de habilidades laborales;
+
+VII. Modelo de contrato, registrado ante la Procuraduría Federal del Consumidor;
+
+VIII. Registro Patronal expedido por el Instituto Mexicano del Seguro Social y comprobante de la última liquidación efectuada, que acredite estar al corriente con la contribución y que contenga el total del personal que labora en la empresa;
+
+IX. Ejemplar del reglamento de la empresa, debidamente registrado ante la autoridad laboral y manual que contenga la estructura orgánica;
+
+X. Listado de sucursales y sus domicilios, en caso de existir;
+
+XI. Relación de accionistas, representante legal, personal directivo, técnico y administrativo. Debiendo anexar por cada uno: acta de nacimiento, cartilla del servicio militar nacional liberada o credencial de elector y currículum vitae;
+
+XII. Formato del contrato laboral registrado ante la junta local de conciliación y arbitraje;
+
+XIII. Original de la credencial o cualquier otro medio de identificación que se otorgue a los elementos, expedido por la empresa con la leyenda: cancelado;
+
+XIV. Relación de bienes inmuebles utilizados para sus actividades, automóviles, equipo especial, material y sustancias que pretenda utilizar;
+
+XV. Documentos que acrediten la propiedad o posesión de los vehículos a utilizar, como: factura, carta factura o contrato de arrendamiento y tarjeta de circulación; así como fotografía de cada vehículo, en que se observe la razón social y la leyenda "Seguridad Privada". En caso de contar con vehículos blindados para la prestación del servicio en la modalidad de custodia, traslado de valores o protección de personas deberá presentar la autorización y certificación de la empresa instaladora de blindaje;
+
+XVI. Plantilla del total de elementos operativos respaldada en disco magnético, anexando de manera individual comprobante de aplicación de estudios médicos, psicológicos y toxicológicos, expedidos por institución oficial de salud o laboratorio debidamente certificado con la NOM-166-SSA1-1997, así como de acta de nacimiento, credencial de elector, comprobante de domicilio, constancia de antecedentes no penales y comprobante de estudios;
+
+XVII. Permiso de autoridad competente para el uso de equipo; entre los que se comprende el de radiocomunicación, telefonía o comunicación a distancia, así como el arrendamiento de la frecuencia autorizada;
+
+XVIII. En caso de utilizar perros de guardia y custodia en la prestación del servicio, presentar los documentos expedidos por la institución especializada que acredite su adiestramiento y esquema de vacunación básico, así como la capacitación de los elementos para su manejo, anexando fotografía de cada perro;
+
+XIX. Muestras físicas de insignias, distintivos, divisas, logotipos, emblemas o cualquier otro tipo de identificación que pretendan utilizar los elementos; y,
+
+XX. Exhibir muestra física y fotografías a color del uniforme a utilizar por los elementos, de cuerpo entero, frontal, lateral y posterior, con todos los aditamentos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+### Capítulo III. De la Revalidación de la Autorización
 
 ###### Artículo 13.
 
-Al frente de cada una de las Subdirecciones Generales y de las Coordinaciones Generales de la Comisión habrá un Subdirector General o un Coordinador General, respectivamente, que tendrá las atribuciones genéricas siguientes:
+Los documentos públicos a que hace referencia este Capítulo deberán presentarse en original y copia simple para su cotejo; los documentos privados se presentarán en original, debidamente firmados por el representante legal o persona autorizada para tal efecto.
 
-I. Planear, programar, organizar, dirigir, dar seguimiento y evaluar el desarrollo de los programas y el desempeño de las labores encomendadas a las áreas de su adscripción;
-
-II. Proponer las políticas, lineamientos y criterios, así como prestar el apoyo técnico y capacitación que se requieran para la formulación, instrumentación, ejecución, seguimiento, supervisión, evaluación, revisión y actualización de los programas de la competencia de la Comisión, de los programas y proyectos estratégicos que de ellos deriven y de los correspondientes programas operativos anuales;
-
-III. Instrumentar, en el ámbito de su competencia, los actos que correspondan para la ejecución de las resoluciones dictadas por el órgano interno de control, conforme a la legislación aplicable vigente;
-
-IV. Acordar con el Director General el despacho y resolución de los asuntos cuya tramitación sea de su competencia;
-
-V. Representar a la Comisión en los actos que el Director General determine y desempeñar las comisiones que el mismo le encomiende, así como participar en los órganos de coordinación institucional que le correspondan de acuerdo al ámbito de su competencia;
-
-VI. Establecer coordinación con las demás unidades administrativas de la Comisión y, en su caso, con otras dependencias y entidades de los tres órdenes de gobierno, para el mejor despacho de los asuntos de su competencia;
-
-VII. Promover, en el ámbito de su competencia y en coordinación con las instancias correspondientes, que las entidades federativas y los municipios asuman las atribuciones señaladas en el Artículo 17 de la Ley, proveyendo, según corresponda, lo necesario para tal efecto;
-
-VIII. Promover la coordinación, concertación y colaboración para el desarrollo de programas y acciones de vivienda y suelo, con la participación de los sectores público, social y privado, así como la celebración de los instrumentos correspondientes para tales efectos;
-
-IX. Coordinar, en el ámbito de su competencia, los esfuerzos y recursos de los sectores público, social y privado en la instrumentación de políticas, estrategias y acciones previstas para el desarrollo de la vivienda;
-
-X. Realizar y promover investigaciones y estudios en el ámbito de su competencia y difundir sus resultados;
-
-XI. Promover el establecimiento de vínculos institucionales, la celebración de convenios de asistencia técnica y el intercambio de información con gobiernos extranjeros y organismos nacionales e internacionales, en coordinación con las autoridades competentes;
-
-XII. Proporcionar, de acuerdo a las políticas establecidas por el Director General, la información, asesoría y cooperación técnica que le requieran otras unidades administrativas de la Comisión, así como otras dependencias y entidades de los tres órdenes de gobierno;
-
-XIII. Proponer al Director General los proyectos de disposiciones jurídicas, en los asuntos cuya tramitación sea de su competencia, previo dictamen de la Coordinación General de Asuntos Jurídicos, de conformidad con las disposiciones aplicables;
-
-XIV. Participar en la formulación del anteproyecto del programa-presupuesto anual de egresos de la Comisión y verificar su correcta y oportuna ejecución;
-
-XV. Ejercer el presupuesto aprobado y asignado a la unidad administrativa a su cargo, mediante las adquisiciones de bienes y servicios, contrataciones y promociones y responsabilizarse de los requerimientos justificatorios y comprobatorios respectivos, observando las políticas, lineamientos y normas vigentes;
-
-XVI. Integrar en lo relativo a la unidad administrativa a su cargo, la información requerida para la elaboración de los manuales de organización, de procedimientos y, en su caso, de servicios al público;
-
-XVII. Proponer al Director General la creación, modificación, reorganización, fusión o desaparición de las áreas de su adscripción, así como la delegación de sus atribuciones en servidores públicos subalternos;
-
-XVIII. Intervenir en el reclutamiento, selección, contratación, desarrollo, capacitación, promoción y adscripción del personal a su cargo, solicitar las licencias de conformidad con las necesidades del servicio y participar, directamente o a través de un representante, en los casos de sanción, remoción o cese, de acuerdo con las disposiciones jurídicas aplicables;
-
-XIX. Supervisar que los servidores públicos subalternos desempeñen sus labores con eficiencia y eficacia, en la forma, tiempo y lugar indicados, sujetándose a las disposiciones relativas al registro, control de asistencia, puntualidad y permanencia en el trabajo y demás disposiciones legales y reglamentarias;
-
-XX. Suscribir los documentos relativos al ejercicio de sus facultades y aquellos que le sean señalados por delegación o le correspondan por suplencia;
-
-XXI. Firmar y notificar los acuerdos de trámite, así como notificar las resoluciones o acuerdos de autoridades superiores que consten por escrito y aquellos que emitan con fundamento en las facultades que les corresponden;
-
-XXII. Proporcionar la información, los datos o la cooperación técnica que le sea requerida por otras dependencias o entidades de la Administración Pública Federal, o por las unidades administrativas de la propia Comisión, así como a las entidades federativas y municipios que lo soliciten, de conformidad con las disposiciones aplicables;
-
-XXIII. Aplicar los ordenamientos que integran el marco jurídico de la Comisión, conforme a las facultades y atribuciones que les confiere este Estatuto y demás disposiciones jurídicas aplicables o que le sean delegadas y, en su caso, imponer las sanciones que procedan y resolver los recursos administrativos que al respecto se promuevan;
-
-XXIV. Expedir copias certificadas de los documentos que obren en los archivos de la unidad administrativa a su cargo; y
-
-XXV. Las demás que le señalen otras disposiciones legales y administrativas, así como las que le confiera el Director General dentro de la esfera de sus facultades y las disposiciones jurídicas aplicables.
+Los particulares que para el cumplimiento de los requisitos establecidos en los artículos 11, 12 y 13 de este reglamento, no les resulte aplicable alguno lo manifestarán por escrito, bajo protesta de decir verdad y expondrán el motivo por el que no actualizan el supuesto.
 
 ###### Artículo 14.
 
-Corresponde a la Subdirección General de Política de Vivienda y Esquemas Financieros el ejercicio de las siguientes atribuciones:
-
-I. Establecer los parámetros para definir la Política Nacional de Vivienda;
-
-II. Recabar, integrar y generar la información y sugerencias para elaborar los lineamientos normativos y mecanismos con los que se formule, ejecute, conduzca, coordine, evalúe y dé seguimiento a la Política Nacional de Vivienda y al Programa Nacional de Vivienda observando las disposiciones legales aplicables, particularmente aquellas en materia de desarrollo urbano, ordenación territorial y desarrollo sustentable;
-
-III. Recabar, integrar y generar la información y sugerencias que se requieran para la coordinación del Sistema Nacional de Vivienda, con la participación de las instancias del sector en los tres órdenes de gobierno y de los sectores social y privado;
-
-IV. Promover que las instancias señaladas en el Artículo 48 de la Ley, consideren en sus presupuestos operativos objetivos que den continuidad al proceso habitacional;
-
-V. Diseñar de manera conjunta con las dependencias, entidades y organismos de la Administración Pública Federal las reglas de operación de sus programas de vivienda, previendo que contemplen mecanismos de complementariedad a las aportaciones de los gobiernos estatales y municipales;
-
-VI. Participar en la instrumentación y fomento del sistema de estímulos y apoyos a los gobiernos de las entidades federativas y municipios para los efectos del Artículo 50 de la Ley;
-
-VII. Elaborar las opiniones sobre los programas operativos anuales de las entidades de la Administración Pública Federal que lleven a cabo programas de vivienda u otorguen financiamiento para vivienda;
-
-VIII. Coordinar con las autoridades de las entidades federativas y los municipios, con los sectores social y privado, y con las instancias encargadas de atender y apoyar el desarrollo de los pueblos y comunidades indígenas, acciones que faciliten el acceso a los recursos y al financiamiento público y privado para la construcción y mejoramiento de vivienda de esa población, mediante la corresponsabilidad de los participantes;
-
-IX. Formular y promover esquemas financieros y programas para los distintos tipos y modalidades de vivienda;
-
-X. Impulsar programas de financiamiento de vivienda que se adapten a las diferentes regiones y a los distintos grupos de ingreso y necesidades de la población, preferentemente en beneficio de los grupos vulnerables;
-
-XI. Formular y promover en coordinación con los sectores público, social y privado, mecanismos, esquemas financieros y programas de crédito, ahorro previo y subsidio directo a la vivienda, en sus diferentes tipos y modalidades, orientados a responder las necesidades de vivienda de los distintos sectores de la población, priorizando la atención a la población en situación de pobreza;
-
-XII. Promover el desarrollo de los mercados secundarios y en especial el de arrendamiento de vivienda;
-
-XIII. Impulsar un proceso integral de modernización y diversificación de las fuentes y mecanismos de financiamiento habitacional público y privado, fomentando medidas como son la contratación de seguros y garantías, destinados a disminuir el riesgo de acuerdo con la normatividad aplicable;
-
-XIV. Recabar la información de beneficiarios atendidos con recursos fiscales, tanto para crédito como para subsidio y remitirla a la Secretaría de Desarrollo Social;
-
-XV. Promover que las reglas de operación de las entidades y dependencias que otorgan créditos hipotecarios, fomenten el acceso de la población a los programas de crédito, ahorro y subsidios, sin que por ello se afecte o deteriore el patrimonio de dichos entes;
-
-XVI. Diseñar y fomentar dentro de las entidades y dependencias que otorgan créditos hipotecarios, alternativas de financiamiento para la aplicación de programas y acciones que impulsen la movilidad habitacional;
-
-XVII. Promover la concertación de acciones entre las instancias de la Administración Pública Federal correspondientes y las instituciones del sector financiero, a fin de que se establezcan facilidades y estímulos para implementar programas de ahorro, enganches y financiamiento para la adquisición de vivienda;
-
-XVIII. Promover con las instituciones captadoras de ahorro y los organismos de vivienda, el establecimiento de programas que incorporen compromisos entre ahorro previo, subsidios y complemento crediticio para adquirir vivienda;
-
-XIX. Formular, ejecutar, conducir, coordinar, evaluar y dar seguimiento a la Política de Subsidios del Gobierno Federal, de conformidad con lo previsto en la Ley, el Programa Nacional de Vivienda y demás disposiciones aplicables, con la participación que corresponda a los sectores público, social y privado; y
-
-XX. Participar en el diseño de las reglas de distribución de subsidios federales a fin de que se apeguen a la Política de Subsidios del Gobierno Federal.
+La Secretaría en su carácter de autoridad normativa, podrá agregar los requisitos que resulten necesarios para comprobar la legal constitución y operación de los particulares que soliciten la licencia o la revalidación correspondiente.
 
 ###### Artículo 15.
 
-Corresponde a la Subdirección General de Fomento al Crecimiento del Sector Vivienda el ejercicio de las siguientes atribuciones:
+Si el peticionario de la autorización no exhibe con su solicitud la totalidad de los requisitos señalados en el Título Segundo de este reglamento, la Dirección, dentro de los diez días hábiles siguientes a la presentación, de la misma, lo prevendrá para que en un plazo improrrogable de veinte días hábiles, subsane las omisiones o deficiencias que en su caso presente la solicitud; transcurrido dicho plazo sin que el interesado haya subsanado las omisiones o deficiencias de la solicitud, ésta será desechada.
 
-I. Promover la formulación y expedición de normas oficiales mexicanas y participar en la elaboración y aprobación de las normas mexicanas relacionadas con la vivienda, de acuerdo con la competencia de la Comisión y con las disposiciones jurídicas aplicables, así como participar en las demás actividades que en materia de normalización le correspondan;
-
-II. Opinar respecto de las disposiciones que la Secretaría de Economía deba dictar en términos de lo dispuesto por el artículo 79 de la Ley;
-
-III. Promover la aplicación de especificaciones técnicas en los programas de vivienda, en atención a las personas con discapacidad;
-
-IV. Promover programas de diseño y construcción de vivienda con criterios de sustentabilidad, calidad y accesibilidad, así como la aplicación de materiales locales propios de cada región;
-
-V. Diseñar esquemas de apoyo para la autoconstrucción, autoproducción y el mejoramiento de la vivienda, a través de programas de capacitación y asistencia técnica;
-
-VI. Impulsar programas de vivienda que contribuyan a la redensificación, rehabilitación y conservación de los centros urbanos de las ciudades del país;
-
-VII. Diseñar y promover normatividad tendente a mejorar las condiciones de las viviendas que se ubican en áreas susceptibles de ser afectadas por desastres ocasionados por fenómenos naturales;
-
-VIII. Promover el reconocimiento público de aquellos agentes de la sociedad que intervienen en el proceso de producción habitacional, realizando sus acciones de conformidad con los criterios de calidad y sustentabilidad señalados en la Ley;
-
-IX. Coordinar las acciones necesarias para el otorgamiento y difusión del Premio Nacional de Vivienda;
-
-X. Promover el desarrollo de materiales, insumos y procedimientos constructivos normalizados que alienten la industrialización de la construcción de vivienda;
-
-XI. Fomentar el desarrollo, aplicación y difusión de innovaciones tecnológicas que contribuyan a la reducción de tiempos y costos en la construcción de vivienda, mejoren su calidad y su habitabilidad;
-
-XII. Fomentar la investigación y desarrollo de proyectos en materia de vivienda para actualizar la normatividad nacional aplicable en la vivienda, incorporar tecnologías constructivas con criterios de sustentabilidad y estandarizar conceptos para la edificación de vivienda, entre otros;
-
-XIII. Promover y apoyar la constitución y operación de organismos de certificación y normalización, unidades de verificación y laboratorios de prueba en materia de vivienda;
-
-XIV. Fomentar la participación de los sectores público, privado y social en el diseño de esquemas de financiamiento dirigidos a la investigación, transferencia de tecnología, diseño bioclimático e industrialización y comercialización de productos, materiales y sistemas constructivos;
-
-XV. Promover conjuntamente con las autoridades competentes que las acciones de vivienda cuenten con los espacios habitables y de higiene suficientes y con los servicios necesarios así como garantizar la seguridad estructural y la adecuación al clima con criterios de sustentabilidad, eficiencia energética y prevención de desastres, utilizando preferentemente bienes y servicios normalizados;
-
-XVI. Formular y mantener permanentemente actualizado el modelo normativo que promueva que las autoridades competentes expidan, apliquen y mantengan en vigor y permanentemente actualizadas disposiciones legales, normas oficiales mexicanas, códigos de procesos de edificación y reglamentos de construcción que contengan los requisitos técnicos que garanticen la seguridad estructural, habitabilidad y sustentabilidad de toda vivienda, y que definan responsabilidades generales, así como por cada etapa del proceso de producción de vivienda;
-
-XVII. Promover, en coordinación con la Subdirección de Fomento del Suelo para la Vivienda y Enlace con Estados y Municipios, que las autoridades locales expidan instrumentos normativos que regulen los conjuntos habitacionales, y en general la vivienda multifamiliar y sus diversos regímenes de propiedad; y
-
-XVIII. Opinar respecto de los lineamientos que en materia de equipamiento, infraestructura y vinculación con el entorno establezca la Secretaría de Desarrollo Social.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 16.
 
-Corresponde a la Subdirección General de Fomento del Suelo para Vivienda y Enlace con Estados y Municipios el ejercicio de las siguientes atribuciones:
-
-I. Desarrollar la relación institucional con las entidades federativas y municipios, así como prestar el apoyo correspondiente a las unidades administrativas de la Comisión en su relación con dichos órdenes de gobierno;
-
-II. Promover que los gobiernos de las entidades federativas expidan sus respectivas leyes de vivienda y realizar las acciones conducentes al efecto;
-
-III. Promover, de conformidad con las disposiciones aplicables y en coordinación con las entidades y dependencias de la Administración Pública Federal, así como con las entidades federativas y municipios:
-
-a) La instrumentación de una estrategia nacional, así como el desarrollo de mecanismos para su implementación, para la incorporación de suelo, la constitución de reservas territoriales, la utilización y aprovechamiento de terrenos ejidales y comunales y la identificación de bienes inmuebles de propiedad federal no productivos o en desuso para su puesta a disposición de los gobiernos locales para destinarlos a programas de vivienda.
-
-b) El desarrollo de acciones que fomenten una oferta competitiva de suelo.
-
-IV. Instrumentar mecanismos de coordinación con las dependencias y entidades de la Administración Pública Federal, así como con las entidades federativas y municipios, para el desarrollo de programas de suelo dirigidos a autoproductores, autoconstructores y otros productores y agentes técnicos especializados que operen sin fines de lucro;
-
-V. Diseñar y desarrollar mecanismos que induzcan la colaboración y coordinación con los gobiernos de las entidades federativas y municipios, así como la participación de propietarios y desarrolladores para generar suelo con servicios;
-
-VI. Promover en coordinación con las autoridades federales, estatales y municipales, las adecuaciones necesarias a la normatividad para la constitución, adquisición y desarrollo de reservas territoriales para la vivienda, así como para el aprovechamiento de las áreas intraurbanas;
-
-VII. Promover en las entidades federativas, y en su caso en los municipios, la modernización de los registros públicos de la propiedad y de los catastros;
-
-VIII. Promover con las entidades federativas y municipios, así como con los sectores social y privado, el desarrollo de acciones de modernización, simplificación administrativa y de reducción en los cobros por trámites relacionados con la producción y titulación de vivienda, así como para el desarrollo integrador de proyectos habitacionales en general, y aquellos que sean encomendados a la Comisión para su ejecución;
-
-IX. Promover el desarrollo de mecanismos que permitan conocer y dar seguimiento a las acciones de modernización, simplificación administrativa y de reducción en los cobros por trámites relacionados con la producción y titulación de vivienda; y
-
-X. Promover el fortalecimiento de la operación de los organismos estatales y municipales de vivienda.
+De ser procedente la autorización, el solicitante deberá presentar dentro de los siete días hábiles siguientes a la notificación, Póliza de Fianza expedida por institución legalmente autorizada a favor de la Secretaría de Hacienda, por un monto equivalente a cinco mil veces el salario mínimo general vigente en el Estado de Chiapas, que deberá contener la siguiente leyenda: "Para garantizar por un monto equivalente a cinco mil veces el salario mínimo general vigente en el Estado, las condiciones a la que se sujetará en su caso la autorización o revalidación para prestar servicios de seguridad privada en el territorio del Estado de Chiapas otorgada por la Secretaría de Seguridad y Protección Ciudadana, con vigencia de un año a partir de la fecha de autorización; la presente fianza no podrá cancelarse sin previa autorización de su beneficiaria, la Secretaría de Hacienda".
 
 ###### Artículo 17.
 
-Corresponde a la Subdirección General de Enlace y Operación de los Organismos Nacionales de Vivienda el ejercicio de las siguientes atribuciones:
+La autorización será personal e intransferible, contendrá el número de registro otorgado por la Secretaría, modalidades que se autorizan y condiciones a que se sujeta la prestación de los servicios. La vigencia será de un año y podrá ser revalidada por el mismo tiempo en los términos establecidos en este reglamento.
 
-I. Proponer las bases de participación de la representación de la Comisión ante los órganos de gobierno de los organismos nacionales de vivienda;
-
-II. Proponer y fomentar la efectiva coordinación de la Comisión con los organismos nacionales de vivienda, de conformidad con sus requerimientos;
-
-III. Coordinar y articular que las propuestas de los programas de los organismos nacionales de vivienda se apeguen al Programa Nacional de Vivienda;
-
-IV. Coordinar y dar seguimiento a la participación de los organismos nacionales de vivienda en los programas habitacionales que determine el Ejecutivo Federal;
-
-V. Proponer los mecanismos de coordinación y articulación de los programas de vivienda de los organismos nacionales de vivienda;
-
-VI. Dar seguimiento a las actividades de los programas de vivienda de los organismos nacionales de vivienda;
-
-VII. Participar en el seguimiento de los avances de los programas crediticios de los organismos nacionales de vivienda correspondientes a cada ejercicio;
-
-VIII. Proponer, con la participación de los organismos nacionales de vivienda, los mecanismos pertinentes que contribuyan a fortalecer su operación y sus programas habitacionales;
-
-IX. Brindar la asesoría y el apoyo técnico que requieran los organismos nacionales de vivienda, en la instrumentación de sus programas de vivienda cuando así lo soliciten;
-
-X. Desempeñar la función de enlace del Director General con los organismos nacionales de vivienda, a fin de coordinar, articular y fortalecer la operación de los programas de vivienda;
-
-XI. Coordinar acciones con las dependencias y entidades de la Administración Pública Federal, en el diseño de los criterios y mecanismos específicos para ampliar y fortalecer la operación y el financiamiento de los programas habitacionales de los organismos nacionales de vivienda;
-
-XII. Promover el fortalecimiento de los vínculos y los mecanismos de coparticipación entre los organismos nacionales de vivienda tendentes a ampliar las opciones que beneficien a la población demandante de vivienda;
-
-XIII. Participar en la definición de los lineamientos de información y estadística en materia de vivienda y suelo, con sujeción a la Ley de Información Estadística y Geográfica;
-
-XIV. Proponer al Instituto Nacional de Estadística, Geografía e Informática los datos, información y demás elementos que se requieren para establecer los indicadores en materia de vivienda, que deberán considerarse en el levantamiento de censos nacionales, encuestas de vivienda, económicas y sociodemográficas, y otros conteos;
-
-XV. Coordinarse con el Instituto Nacional de Estadística, Geografía e Informática, para que dentro de la integración de las cuentas nacionales se desagregue una cuenta específica de vivienda, que se denominará Cuenta Satélite de Vivienda en México, que permita conocer a profundidad el efecto del sector en el contexto global de la economía;
-
-XVI. Integrar, operar y administrar el Sistema Nacional de Información e Indicadores de Vivienda, de conformidad con lo previsto en la Ley y demás disposiciones aplicables;
-
-XVII. Compilar la documentación que se reciba de los Registros Públicos de la Propiedad y del Comercio, en términos y para efectos de lo establecido en el Artículo 92 de la Ley;
-
-XVIII. Apoyar a los gobiernos de las entidades federativas y municipios en el establecimiento de sistemas de información e indicadores de vivienda, así como fomentar e inducir ante dichas instancias, las políticas y estrategias de modernización en materia de información vinculada al sector vivienda;
-
-XIX. Asesorar a las organizaciones sociales de vivienda y a las autoridades locales que lo soliciten en la elaboración, ejecución y evaluación de programas de vivienda vinculados con la operación de los organismos nacionales de vivienda;
-
-XX. Coordinar la participación de las dependencias y entidades de los tres órdenes de gobierno con los organismos nacionales de vivienda; a fin de posibilitar los mecanismos de acceso a la vivienda; y
-
-XXI. Canalizar hacia los organismos nacionales de vivienda los requerimientos y propuestas de los sectores público, privado y social relacionados con cualquier aspecto o actividad de su operación.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 18.
 
-Corresponde a la Coordinación General Técnica de Difusión y Promoción de Vivienda, el ejercicio de las siguientes atribuciones:
-
-I. Desarrollar acciones de coordinación y promoción en materia de vivienda con otras instancias de los tres órdenes de gobierno para impulsar la difusión del sector;
-
-II. Dirigir la instrumentación de mecanismos de coordinación y promoción relativos a los programas y acciones de difusión que tiene a su cargo la Comisión;
-
-III. Coordinar la estrategia y el programa de Comunicación Social de la Comisión;
-
-IV. Establecer, en coordinación con las instancias correspondientes, las estrategias, lineamientos y líneas de acción que fomenten mecanismos para difundir la Política Nacional de Vivienda;
-
-V. Supervisar y coordinar, de conformidad con la normatividad aplicable, la elaboración y difusión de textos, guiones, boletines, trípticos y cualquier material realizado por la Comisión, que tenga como objetivo la promoción oficial de las acciones de vivienda;
-
-VI. Coordinar la atención de entrevistas y difusión de discursos, presentaciones e imágenes gráficas que tengan como objetivo la promoción oficial de las acciones de vivienda;
-
-VII. Dar a conocer a los integrantes de la Comisión la información del sector vivienda que se difunda en los medios de comunicación y que sea de utilidad para el desempeño de sus funciones;
-
-VIII. Coordinar la participación del Director General en giras de trabajo, en sus presentaciones ante el Titular del Ejecutivo Federal y en otros eventos que se le encomienden a la Coordinación General;
-
-IX. Fomentar los vínculos de cooperación institucional entre los organismos de vivienda públicos, privados, nacionales e internacionales a fin de mantener una correlación que busque alcanzar los objetivos de promoción y difusión establecidos por el Ejecutivo Federal en la materia;
-
-X. Coordinar con las instancias tanto públicas, como sociales y privadas, la difusión de las acciones de promoción que favorezcan el impulso del sector;
-
-XI. Fomentar la difusión de la Política Nacional de Vivienda, y de los acuerdos que se tomen entre los organismos públicos y privados vinculados a este sector;
-
-XII. Promocionar y difundir los programas y avances del sector en los eventos en los que participe la Comisión con otras instancias tanto públicas como sociales y privadas;
-
-XIII. Administrar la información que se recibe de las unidades administrativas de la Comisión, para su difusión ante las instancias que correspondan;
-
-XIV. Difundir, a petición de las unidades administrativas de la Comisión, información específica de cada Area, así como en su caso, los acuerdos y convenios, tanto nacionales como internacionales, del sector vivienda;
-
-XV. Recibir e integrar la información que le proporcionen las demás unidades administrativas de la Comisión, a fin de elaborar informes y reportes para la promoción y difusión de las actividades del sector; y
-
-XVI. Impulsar y apoyar, en coordinación con las unidades administrativas de la Comisión, las actividades de promoción en las entidades federativas y municipios.
+La autorización que la Secretaría otorgue a los prestadores del servicio quedará sujeta a las obligaciones, prohibiciones y restricciones prescritas en el Título III del presente reglamento.
 
 ###### Artículo 19.
 
-Corresponde a la Coordinación General de Administración y Finanzas, el ejercicio de las siguientes atribuciones:
-
-I. Proponer los lineamientos y políticas institucionales para los procesos de programación, presupuestación, organización y administración de los recursos humanos, relaciones laborales, recursos materiales, financieros, e informáticos; así como en materia de adquisiciones, arrendamientos y servicios, de obra pública y servicios relacionados con la misma, en concordancia con la normatividad Federal;
-
-II. Dirigir, controlar y evaluar los procesos de administración de recursos presupuestales y financieros; así como los procesos de organización, simplificación y modernización de la estructura, procesos, procedimientos y demás herramientas de orden administrativo, de recursos humanos, materiales e informáticos y establecer estrategias tendientes a eficientar su aplicación, con base a las directrices autorizadas;
-
-III. Formular y proponer los planes y estrategias para dotar de recursos financieros y presupuestales a la Comisión, así como formular e integrar los anteproyectos de presupuesto, de ingresos y egresos y los programas anuales, para someterlos a la consideración del Director General, en cumplimiento de la normatividad específica en la materia;
-
-IV. Proporcionar a las unidades administrativas de la Comisión servicios de apoyo administrativo en materia de recursos humanos, servicios generales, bienes muebles e inmuebles y adquisiciones asegurando el buen uso de los mismos. Así como, en su caso, planear y coordinar la ejecución de obras y servicios relacionados con éstas que se requieran para su mejor funcionamiento;
-
-V. Formular propuestas de mejora de la organización al Director General, para el óptimo funcionamiento de la Comisión y efectuar las modificaciones a las estructuras orgánicas y ocupacionales de conformidad a las disposiciones legales aplicables, así como elaborar los manuales de organización general y específicos, de procedimientos, de atención al público y demás documentos administrativos;
-
-VI. Coordinar la integración, funcionamiento, control y seguimiento de los Comités de Adquisiciones, Arrendamientos y Servicios; de Obras Públicas y Servicios Relacionados con las Mismas; de Enajenación de Bienes Muebles e Inmuebles; y de Información de la Comisión, en función a la normatividad aplicable;
-
-VII. Coordinar el funcionamiento de la Unidad de Enlace, así como participar en el Comité Institucional de Información, en los términos que señala la legislación y demás disposiciones aplicables en la materia;
-
-VIII. Participar en la elaboración de las Condiciones Generales de Trabajo y vigilar su cumplimiento y difusión a nivel Institucional;
-
-IX. Coordinar la elaboración de las aportaciones correspondientes para la rendición de la Cuenta de la Hacienda Pública Federal;
-
-X. Conducir las relaciones laborales de la Comisión de acuerdo con la normatividad vigente en la materia;
-
-XI. Proponer y coordinar los programas de capacitación y adiestramiento del personal de la Comisión, así como los de certificación de procesos y de calidad en los servicios;
-
-XII. Proponer, dirigir, controlar y evaluar las políticas y medidas de racionalidad, austeridad y disciplina presupuestaria que determine la Junta de Gobierno, en congruencia con las disposiciones que señale la autoridad federal competente;
-
-XIII. Atender los requerimientos de las instancias correspondientes, en la instrumentación de programas de austeridad, mejora de procesos, implementación de sistemas de profesionalización, de infraestructura tecnológica, descentralización y desconcentración de funciones, desregulación y fortalecimiento de control interno, o los que en su momento se instrumenten; y
-
-XIV. Establecer los mecanismos de coordinación entre las unidades que conforman la Comisión y las diversas instancias de control y fiscalización, así como controlar la información y documentación que se derive de las revisiones y auditorías practicadas.
+La Secretaría podrá negar, suspender, revocar, total o parcialmente, una autorización cuando a su juicio la paz, el orden o seguridad pública, en la Entidad puedan resultar lesionados o cuando los prestadores hayan incumplido obligaciones previstas en la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, la Ley, este ordenamiento y la autorización respectiva o cualquier otra disposición legal que resulte aplicable.
 
 ###### Artículo 20.
 
-Corresponde a la Coordinación General de Asuntos Jurídicos el ejercicio de las siguientes atribuciones:
-
-I. Asesorar jurídicamente al Director General y a los demás servidores públicos de la Comisión y atender las consultas que éstos, las dependencias y demás entidades de la Administración Pública Federal y las entidades federativas y municipios le formulen;
-
-II. Asesorar al Director General en la formulación de los programas, decretos, declaratorias, convenios, bases y demás actos que competan a la Comisión y coordinar su instrumentación jurídica;
-
-III. Revisar y, en su caso, determinar la procedencia jurídica del otorgamiento, adjudicación, celebración, modificación, suspensión, revocación, terminación, rescisión, nulidad total o parcial y demás efectos jurídicos de los convenios, contratos, concesiones, autorizaciones, permisos y licencias que competan a la Comisión;
-
-IV. Representar a la Comisión en todos los asuntos legales y jurisdiccionales en que tenga interés o que se refiera a hechos o actos susceptibles de causar daño o perjuicio a su patrimonio y realizar las gestiones correspondientes ante las autoridades respectivas;
-
-V. Formular denuncias y querellas y en los casos en que por disposición de las leyes aplicables proceda, asistir al Director General en sus comparecencias ante las diversas autoridades y representarlo en juicio para absolver posiciones en los términos de la Ley procesal que corresponda;
-
-VI. Tramitar las solicitudes de acreditamiento de personalidad o personería ante la Comisión, dictaminar y resolver sobre las mismas, así como llevar el registro único de las personas acreditadas y expedir las constancias correspondientes;
-
-VII. Compilar y promover la difusión de las disposiciones jurídicas contenidas en leyes, tratados, reglamentos, decretos, acuerdos y demás ordenamientos, relacionados con las actividades de la Comisión;
-
-VIII. Tramitar la publicación en el Diario Oficial de la Federación de los instrumentos normativos y convencionales, así como las demás disposiciones de carácter general y administrativo que competan a la Comisión; y
-
-IX. Tramitar y registrar las designaciones de los representantes de la Comisión ante los cuerpos colegiados externos a la entidad.
+Los prestadores del servicio que hayan obtenido la autorización y soliciten la revalidación de la misma, deberán presentar escrito en el que manifiesten bajo protesta de decir verdad, no haber variado las condiciones en las que se otorgó la autorización del servicio; en todo caso, estará sujeta a los resultados de las supervisiones realizadas al prestador del servicio por parte de la autoridad competente. La Secretaría dentro de los 20 días hábiles siguientes a la solicitud, emitirá la resolución.
 
 ###### Artículo 21.
 
-Corresponde a la Coordinación General del Secretariado de la Comisión el ejercicio de las siguientes atribuciones:
+La revalidación de la autorización quedará sujeta al cumplimiento de las obligaciones establecidas en este reglamento y demás disposiciones aplicables.
 
-I. Planear, coordinar y organizar las sesiones de la Junta de Gobierno, del Consejo, de la Comisión Intersecretarial, así como de los comités, grupos de trabajo y subcomisiones;
+### Capítulo IV. De las Modificaciones
 
-II. Preparar el orden del día para las sesiones, la carpeta de trabajo correspondiente para ser enviados, según corresponda a los miembros de la Junta de Gobierno, del Consejo, de la Comisión Intersecretarial, así como de los comités, grupos de trabajo y subcomisiones;
+###### Artículo 26.
 
-III. Llevar el seguimiento de los acuerdos tomados en las sesiones de la Junta de Gobierno, del Consejo, de la Comisión Intersecretarial, así como de los comités, grupos de trabajo y subcomisiones;
+Los prestadores del servicio que hayan obtenido la autorización o revalidación y pretendan ampliar o modificar las modalidades en que se presta el servicio, deberán presentar ante la Secretaría solicitud por escrito para que en un término de 15 días hábiles acuerde lo procedente.
 
-IV. Elaborar las actas y minutas de las sesiones de la Junta de Gobierno, del Consejo, de la Comisión Intersecretarial, así como de los comités, grupos de trabajo y subcomisiones, y recabar las firmas de conformidad de los miembros correspondientes;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-V. Servir como un canal de comunicación para los miembros de la Junta de Gobierno, del Consejo, de la Comisión Intersecretarial, así como de los comités, grupos de trabajo y subcomisiones;
+En caso de existir una prevención, el prestador del servicio contara con quince días hábiles para subsanarla, contados a partir de su notificación; de no hacerlo, el trámite se desechará.
 
-VI. Atender y canalizar a quien corresponda las solicitudes que hagan los miembros de la Junta de Gobierno, del Consejo, de la Comisión Intersecretarial, así como de los comités, grupos de trabajo y subcomisiones;
+###### Artículo 27.
 
-VII. Conservar la documentación soporte de los asuntos tratados en las sesiones de la Junta de Gobierno, del Consejo, de la Comisión Intersecretarial, así como de los comités, grupos de trabajo y subcomisiones;
-
-VIII. Preparar, de conformidad con lo que instruya el Director General, los lineamientos de operación y funcionamiento del Consejo;
-
-IX. Elaborar para su aprobación los lineamientos de operación y funcionamiento de la Junta de Gobierno y de la Comisión Intersecretarial;
-
-X. Proponer al Director General, la creación de comités y grupos de trabajo del Consejo, así como de subcomisiones y grupos de trabajo de la Comisión Intersecretarial;
-
-XI. Preparar de conformidad con lo que instruya el Director General, los lineamientos de operación de los comités y grupos de trabajo del Consejo;
-
-XII. Elaborar la propuesta de los integrantes del Consejo, de conformidad con lo que instruya el Director General;
-
-XIII. Recibir y distribuir a los miembros del Consejo para su opinión, los resultados de las evaluaciones que señala el Artículo 12 de la Ley, así como integrar un documento que contenga las sugerencias y recomendaciones correspondientes;
-
-XIV. Solicitar, recibir y enviar a los miembros del Consejo para su opinión, los presupuestos a que hace referencia la fracción II del Artículo 29 de la Ley, así como integrar un documento que contenga las opiniones correspondientes;
-
-XV. Solicitar, recibir y enviar a los miembros del Consejo, cuando corresponda, la información señalada en la fracción VI del Artículo 29 de la Ley;
-
-XVI. Promover y apoyar la instalación y operación de consejos estatales de fomento a la vivienda y su coordinación con el Consejo, así como dar seguimiento a sus acuerdos cuando tengan vinculación con las funciones de este último;
-
-XVII. Atender, coordinar y fomentar los asuntos internacionales del ámbito de la Comisión y que le sean encomendados por su Director General; y
-
-XVIII. Las demás que le confieran la Junta de Gobierno, el Consejo, la Comisión Intersecretarial y el Director General de la Comisión.
-
-### CAPITULO QUINTO. DE LOS ORGANOS DE CONTROL Y VIGILANCIA
+El prestador del servicio deberá exhibir el recibo de pago de derechos para que proceda la solicitud presentada. En caso de modificación de la autorización se deberá actualizar la póliza de fianza.
 
 ###### Artículo 22.
 
-La Comisión contará con un órgano de vigilancia el cual estará integrado por un comisario público propietario y un suplente, designados por la Secretaría de la Función Pública, quienes ejercerán sus funciones de acuerdo con las disposiciones legales aplicables. El comisario asistirá, con voz pero sin voto, a las sesiones de la Junta de Gobierno de la Comisión.
+Una vez autorizada la revalidación, la Secretaría notificará al prestador para que en un término de siete días hábiles exhiba la póliza de fianza a que se refiere el artículo 16 del presente ordenamiento y previa entrega de la misma, se otorgará la revalidación correspondiente.
 
 ###### Artículo 23.
 
-La Comisión contará, asimismo, con un órgano interno de control cuyo Titular será designado en los términos del artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal, quien en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de auditoría, responsabilidades y quejas designados en los mismos términos.
+La revalidación se negará, cuando existan quejas graves presentadas por los usuarios y que se vean afectados con la prestación del servicio, previa comprobación de la Secretaría.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 24.
 
-Los servidores públicos a que se refiere el artículo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme lo disponga el Reglamento Interior de la Secretaría de la Función Pública.
+La revalidación estará sujeta al estricto cumplimiento de los artículos comprendidos en el Título III del presente ordenamiento.
 
-### CAPITULO SEXTO. DE LAS SUPLENCIAS
+### Capítulo V. De las Modalidades de la Prestación del Servicio
+
+###### Artículo 28.
+
+Se consideran modalidades de la Seguridad Privada las siguientes:
+
+l. Empresas dedicadas a:
+
+a) Protección, vigilancia de lugares y establecimientos;
+
+b) Traslado, custodia de bienes y valores; y,
+
+c) Seguridad y protección de personas.
+
+II. Organizaciones auxiliares de crédito, establecimientos fabriles, mercantiles, industriales o empresariales y centros comerciales, que dentro de su plantilla laboral, se encuentran personal dedicado a:
+
+a) Vigilancia de instalaciones en sus entradas y salidas;
+
+b) Vigilancia de áreas internas y externas; y,
+
+c) Vigilancia de plantilla laboral.
+
+III. Empresas dedicadas a la instalación, supervisión y monitoreo de sistemas y equipos de seguridad privada por medios electrónicos, para brindar las modalidades de servicio previsto en las anteriores fracciones.
+
+Existiendo la posibilidad de combinar las modalidades del servicio privado de seguridad, así como la utilización de apoyo canino para la realización de las mismas.
+
+###### Artículo 29.
+
+Se consideran modalidades informales de seguridad privada:
+
+I. Vigilantes individuales de casa habitación, internos y externos, calle, cuadra o manzana;
+
+II. Vigilantes eventuales de estacionamientos públicos; y,
+
+III. Veladores de construcciones, comercios y bienes inmuebles.
+
+Las personas que se dediquen a prestar el servicio en esta modalidad, quedarán bajo la supervisión, control y empadronamiento de la Secretaría.
+
+### Capítulo VI. Del Registro Estatal
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 30.
+
+El Registro Estatal es un sistema a cargo de la Secretaría y contiene la información necesaria para la supervisión y el control de los prestadores del servicio. Se integrará con la base de datos de las personas morales o físicas autorizadas para la prestación y utilización del servicio, de su personal directivo, técnico, administrativo y elementos, del equipo y en su caso de los datos de la asignación del armamento utilizado, así como los servicios y cobertura de los mismos.
+
+En él se inscribirán los rubros de prestadores de servicios autorizados, alta y baja de personal, vehículos, infraestructura y modalidades de seguridad privada, autorizaciones y constancias de registro, sanciones y delitos; accionistas, socios, gestores, representantes, apoderados y mandatarios legales y demás registros que sean necesarios a juicio de la Secretaría.
+
+###### Artículo 31.
+
+Para el registro, los prestadores del servicio deberán proporcionar a la Secretaría la información que a continuación se detalla:
+
+l. Denominación, razón social o nombre del prestador del servicio;
+
+II. Autorización, revalidación o modificación que se haya expedido, que esté en trámite y los que se hayan negado, suspendido o cancelado;
+
+III. Datos generales del prestador del servicio;
+
+IV. Ubicación de su oficina matriz y sucursales si las tiene;
+
+V. Las modalidades del servicio;
+
+VI. Representantes legales, en su caso;
+
+VII. Modificaciones de las actas constitutivas o cambios de representante legal;
+
+VIII. Opiniones sobre las consultas de los prestadores del servicio, respecto de la justificación para que sus elementos puedan portar armas de fuego en el desempeño del servicio, otorgadas, en trámite, negadas o canceladas;
+
+IX. Personal directivo, administrativo, técnico y elementos, con que cuenten los prestadores del servicio para la dirección, administración y operación de los servicios de seguridad privada, el que para su plena identificación y localización, deberá incluir los siguientes datos:
+
+a) Nombre;
+
+b) Sexo;
+
+c) Lugar y fecha de nacimiento;
+
+d) Domicilio;
+
+e) Huellas deca-dactilares;
+
+f) Fotografía tamaño infantil;
+
+g) Escolaridad;
+
+h) Antecedentes laborales, incluida su trayectoria en servicios de seguridad pública y privada;
+
+i) Altas, bajas, cambios de adscripción, de actividad o rango, incluidas las razones que los motivaron;
+
+j) Estímulos y otros reconocimientos otorgados;
+
+k) Sanciones administrativas aplicadas;
+
+l) Cualquier procedimiento judicial en su contra, en trámite o concluido.
+
+X. Descripción de cada unidad de equipo y del armamento asignado a los elementos, conforme a la clasificación siguiente:
+
+a) Por perro .utilizado en el servicio;
+
+b) Por arma de fuego asignada a los elementos, al amparo de la licencia correspondiente;
+
+c) Por uniforme, conformado por: gorra o casco de protección, pantalón, camisa, camisola y corbata, chamarra o saco, chaleco antibalas y otros aditamentos;
+
+d) Por vehículo de las características siguientes: vehículo automotor con blindaje, bicicleta, motocicleta, trimoto o cuatrimoto y otros vehículos utilizados para el servicio;
+
+e) Por radio de comunicación con las características siguientes: radio transmisor-receptor móvil y radio base; y,
+
+f) Por aparato eléctrico o electrónico de las características siguientes: sistema de alarma o vigilancia de circuito cerrado, arco detector de metales u otros objetos, detector portátil de metales u otros objetos, malla protectora electrificada, instrumento amplificador de voz y otros sistemas eléctricos o electrónicos utilizados.
+
+###### Artículo 32.
+
+La Secretaría mantendrá actualizado el Registro Estatal de Empresas de Seguridad Privada.
+
+Los prestadores del servicio deberán reportar dentro de los primeros quince días hábiles de cada mes, los movimientos de altas y bajas de su personal directivo, administrativo, técnico y elementos, indicando las causas de las mismas. Así también deberá informar todo cambio dentro de sus inventarios de bienes muebles e inmuebles, equipos y accesorios y la existencia de procesos judiciales penales, administrativos y labores (sic), así como las sanciones impuestas en los mismos.
+
+###### Artículo 33.
+
+Para la debida integración del Registro, la Dirección informará a los prestadores del servicio por escrito, la fecha y hora hábil para que presenten al personal directivo, administrativo y operativo en las instalaciones que se designen para efectos de su filiación, toma de huellas dactilares y fotografías.
+
+## Título III. De las Obligaciones de los Prestadores del Servicio y los Elementos
+
+### Capítulo I. De los Prestadores del Servicio
+
+###### Artículo 34.
+
+Los prestadores de servicios en sus diversas modalidades, tendrán las obligaciones siguientes:
+
+l. Llevar registros actualizados del personal administrativo, técnico y operativo, así como de los inmuebles, los que deberá presentar a la Secretaría;
+
+II. Rotular los vehículos utilizados para el servicio en los términos del artículo 38 de este reglamento;
+
+III. Realizar la consulta obligatoria de antecedentes policiales e inscripción del personal administrativo, operativo y técnico, en el Registro estatal y nacional de personal de seguridad pública y base de datos del Sistema Nacional de Seguridad Pública;
+
+IV. Hacer del conocimiento a las autoridades competentes de las conductas indebidas, sospechosas o que representen faltas administrativas o ilícitas, que cometan sus elementos, técnicos, operativos o administrativos;
+
+V. Dar todas las facilidades a la Secretaría para realizar visitas de supervisión;
+
+VI. Cuando a alguno de los elementos técnicos, operativos o administrativos, le sea iniciada averiguación previa, se le dicte un auto de formal prisión, sentencia, sanción administrativa o resolución legal que modifique alguno de estos actos, se deberá informar por escrito a la Secretaría;
+
+VII. Hacer constar en la papelería y su documentación lo siguiente:
+
+a) Número de autorización;
+
+b) Registro otorgado por la Secretaría para el desarrollo de la actividad; y,
+
+c) Las demás que determine la normativa aplicable.
+
+VIII. Aplicar con carácter anual exámenes médicos, psicológicos y toxicológicos al personal técnico, administrativo y operativo;
+
+IX. Capacitar al personal operativo a través del Instituto y de los capacitadores externos autorizados por la Secretaría;
+
+X. Notificar mensualmente el movimiento nominal de su personal; y,
+
+XI. Coadyuvar con las autoridades y las diversas dependencias de la Secretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 35.
+
+Con el objeto de que se efectoeen (sic) las consultas de antecedentes policiales no negativos del personal directivo, administrativo, técnicos y elementos de los prestadores del servicio, al órgano competente del Sistema Nacional de Seguridad Pública, el prestador del servicio deberá presentar por escrito a la Secretaría, la relación dé aspirantes. Dicho escrito deberá contener información relativa al nombre completo y Registro Federal de Contribuyentes.
+
+La Secretaría deberá de informar a más tardar dentro de los diez días hábiles siguientes a la presentación del escrito, el resultado de las consultas que se hubieren efectuado.
+
+###### Artículo 36.
+
+El prestador del servicio, deberá respetar en su integridad las obligaciones establecidas en el presente reglamento. En caso de incumplimiento, se dará inicio al procedimiento administrativo, sin perjuicio de denunciar ante la autoridad competente la comisión de hechos delictuosos.
+
+###### Artículo 37.
+
+Los prestadores del servicio que omitan proporcionar a la Secretaría los reportes o informes mencionados, en este Capítulo, se harán acreedores a las sanciones previstas en el presente reglamento.
+
+###### Artículo 38.
+
+Los prestadores del servicio que cuenten con vehículos para el desempeño de sus funciones deberán cumplir con lo siguiente:
+
+l. Los vehículos no podrán usar torretas, sirenas, ''tumbaburros'' o defensas diferentes a las diseñadas por el fabricante, vidrios obscuros o polarizados, inclusive colores destinados a unidades de corporaciones de Seguridad Pública;
+
+II. Las unidades deberán utilizar razón social referente a la empresa de seguridad privada que pertenezcan, con dimensiones de letra legible que al afecto se establezca en caso de contar con logotipo, éste deberá ir impreso en el cofre de cada uno de los vehículos debiendo tener una dimensión de 60 cm de alto por 60 cm. de ancho. En ambos costados, la leyenda Seguridad Privada, debiendo medir cada letra 20 cm de alto por 8 cm de ancho, y donde se observe el número de autorización para llevar a cabo la función de Seguridad Privada.
+
+###### Artículo 39.
+
+El prestador del servicio deberá llevar a cabo la credencialización de los elementos. Dicho documento deberá contener lo siguiente:
+
+I. Denominación del prestador del servicio;
+
+II. Nombre del elemento;
+
+III. Clave única de identificación permanente (CUIP);
+
+IV. Firmas, huella dactilar, fotografía; y,
+
+V. Ficha de expedición y duración de la vigencia, misma que será por un año.
+
+Hecho lo anterior, la Secretaría validará los datos de los elementos con la documentación que para tal efecto requiera. En caso de pérdida o robo, deberá denunciarse ante el Ministerio Público.
+
+### Capítulo II. De los Elementos
+
+###### Artículo 40.
+
+Los elementos se deberán regir para el desempeño de su actividad, por los principios de actuación y deberes de legalidad, eficiencia, profesionalismo y honradez, de conformidad con los lineamientos que señala este reglamento y demás disposiciones aplicables.
+
+###### Artículo 41.
+
+Para el desempeño de sus funciones, los elementos deberán reunir y acreditar los siguientes requisitos:
+
+I. Carecer de antecedentes penales;
+
+II. Ser mayor de edad;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+III. Estar inscritos en el Registro Nacional de Personal de Seguridad Pública;
+
+IV. Estar debidamente capacitados en las modalidades en que prestarán el servicio;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+V. No haber sido separado de las fuerzas armadas o de instituciones de seguridad poeblica (sic) o privada por algunas de las causas previstas en la fracción III, incisos a), b), c), d), e), f), del artículo 11, del presente reglamento; y,
+
+VI. No ser miembros en activo de alguna Institución de Seguridad Pública Federal, Estatal o Municipal o de las fuerzas armadas.
+
+###### Artículo 42.
+
+Todos los elementos deberán portar obligatoriamente en sus horas laborales, en lugar visible, la identificación que al efecto emita el prestador del servicio, así como el uniforme respectivo. Dicha obligación será supervisada por sus mandos o supervisores.
+
+###### Artículo 43.
+
+Los elementos independientemente de contar con la credencial emitida por el prestador de servicios, deberán tramitar la cédula de registro expedida por la Secretaría, la que contendrá mínimo lo siguiente:
+
+I. Fotografía reciente;
+
+II. Nombre completo;
+
+III. Denominación o razón social de la empresa, para la cual presta sus servicios;
+
+IV. Vigencia;
+
+V. Clave única de identificación permanente (CUIP); y,
+
+VI. Tipo de sangre.
+
+Esta cédula deberá ser portada durante la prestación del servicio, de modo tal que sea observable a la vista. En caso de robo, pérdida o extravío el interesado deberá denunciarlo ante el Ministerio Público así como al prestador del servicio, para que éste a su vez solicite la reposición a la Secretaría, previo pago de derechos. En caso de baja del elemento el prestador del servicio deberá notificarlo y entregarla a la Secretaría.
+
+### Capítulo III. De las Prohibiciones y Restricciones
+
+###### Artículo 44.
+
+Las prohibiciones impuestas a los prestadores del servicio, se deberán respetar en su integridad, resultando de la realización de cualquiera de ellas, el inicio de procedimiento administrativo y la aplicación de una sanción.
+
+###### Artículo 45.
+
+Ningún particular podrá brindar el servicio de seguridad privada, sin antes haber cumplido con lo establecido por este reglamento y demás disposiciones aplicables.
+
+###### Artículo 46.
+
+Los prestadores del servicio de seguridad privada, su personal directivo, administrativo, técnico y elementos, tendrán las siguientes prohibiciones:
+
+l. Realizar actividades de investigación propias del Ministerio Público;
+
+II. Usar uniformes, insignias, distintivos o divisas similares a las de las corporaciones de seguridad pública o fuerzas armadas del país, así como el escudo o emblemas nacionales;
+
+III. Usar credenciales metálicas, concha de identificación o cualquier otro medio similar al de la seguridad pública federal, estatal o municipal;
+
+IV. Usar vehículos con procedencia o estancia ilegal, así como circular sin placas y con vidrios polarizados;
+
+V. Usar en sus documentos las palabras: policía, agente o investigador, como identificador de sus elementos o labores;
+
+VI. Usar equipo que no esté registrado ante la Secretaría;
+
+VII. Divulgar la información que obtenga con motivo de la prestación de servicios de seguridad privada; y,
+
+VIII. Contratar personal técnico u operativo que resulte con antecedentes negativos en la consulta previa ante la Secretaría.
+
+###### Artículo 47.
+
+Los prestadores del servicio de seguridad privada, deberán abstenerse de prestarlo con armas de fuego, si no cuentan con la licencia particular otorgada por la autoridad federal competente.
+
+Los uniformes, equipos, insignias, divisas o distintivos de los elementos de seguridad privada, se diseñarán de manera que posibiliten la plena identificación por parte de la población, y serán diferentes de los que utilicen los cuerpos de seguridad pública, el ejército, armada y fuerza aérea nacionales.
+
+###### Artículo 48.
+
+Los prestadores del servicio de seguridad privada, su personal directivo, administrativo, técnico y elementos, tendrán las siguientes restricciones:
+
+I. Pertenecer en activo a alguna institución de seguridad pública, local o federal, o institución armada de la Federación;
+
+II. Pertenecer a instituciones de procuración o impartición de justicia del Estado;
+
+III. Usar el uniforme o equipo fuera de los lugares y horarios de prestación del servicio;
+
+IV. Transmitir derechos a terceros sobre la autorización o prestar servicio diverso a la modalidad autorizada; y,
+
+V. Usar equipo, sustancias, mezclas o animales que pongan en riesgo o puedan lesionar al público en general.
+
+Para la debida observancia de las restricciones se realizará la consulta pertinente a las autoridades correspondientes y se instruirán las visitas de verificación a que haya lugar.
+
+### Capítulo IV. Del Uso de Armas de Fuego
+
+###### Artículo 49.
+
+Los prestadores del servicio, a quienes sean autorizados permisos o licencias de portación de armas de fuego, por parte de la instancia correspondiente, deberán presentar a la Dirección, lo siguiente:
+
+I. Listado del personal autorizado para la portación de armas de fuego;
+
+II. Ubicación y descripción del lugar en donde resguardarán las armas autorizadas;
+
+III. Fotografía tamaño filiación de los elementos autorizados para la portación de armas de fuego y domicilio actualizado de los mismos;
+
+IV. Listado que contenga el nombre de los elementos a quienes se les haya realizado examen médico, psicológico y toxicológico actualizado para la detección de uso de drogas; y,
+
+V. Presentar original y copia simple de la licencia particular colectiva de portación de armas.
+
+###### Artículo 50.
+
+Corresponderá a la Secretaría de la Defensa Nacional, la supervisión y control del armamento autorizado para la aplicación de la Ley de Armas de Fuego y Explosivos y su Reglamento correspondiente; cualquier irregularidad que se observe será reportada de inmediato a dicha Secretaría.
+
+### Capítulo V. De la Utilización de Animales de Especie Canina
+
+###### Artículo 51.
+
+Los prestadores del servicio que para el desempeño de sus actividades utilicen como apoyo animales de especie canina, deberán sujetarse a los siguientes lineamientos:
+
+I. Los animales deberán estar contemplados como parte del inventario, el cual será actualizado cada vez que surjan modificaciones, indicando raza, sexo, edad, color, nombre y distintivos;
+
+II. Informar a la Dirección semestralmente sobre el estado físico de cada animal. Dicho informe deberá estar avalado por médico veterinario zootécnista con cédula profesional;
+
+III. Presentar el manual de capacitación y adiestramiento que reciba cada animal; y,
+
+IV. Acreditar que el elemento operativo que tenga a su cargo cada animal, está capacitado en el manejo básico de ejemplares, en guardia, protección y primeros auxilios.
+
+###### Artículo 52.
+
+La Dirección se apoyará de un médico veterinario zootécnista que podrá ser externo, para validar y analizar los expedientes y vacunas de cada animal; asimismo verificará que los datos que proporcionen los prestadores del servicio, sean correctos.
+
+### Capítulo VI. De la Capacitación
+
+###### Artículo 53.
+
+Los prestadores del servicio están obligados a capacitar a sus elementos. Dicha capacitación deberá ser realizada por medio de instructores reconocidos y avalados por el Instituto. Para las materias y conocimientos que no estén contempladas en los planes del Instituto, se podrá contratar instructores externos debidamente reconocidos y certificados por la Secretaría del Trabajo y Previsión Social y autorizados por la Secretaría.
+
+###### Artículo 54.
+
+La capacitación será acorde a las modalidades que se autoricen para la prestación del servicio y tendrá como fin que los elementos se conduzcan bajo los principios constitucionales de legalidad, eficiencia, profesionalismo y honradez.
+
+###### Artículo 55.
+
+La Secretaría y el Instituto, podrán concertar convenios con los prestadores del servicio para la instrumentación y modificación de los planes y programas de capacitación y adiestramiento, de instructores reclutados por ellos.
+
+###### Artículo 56.
+
+Corresponderá al Instituto, calificar a las personas que por sus cualidades, adiestramiento y aptitudes, sean aptas para desempeñarse como elementos de seguridad privada. Evaluándolas física, médica y psicológicamente; para saber de su aptitud, idoneidad y confiabilidad, expidiendo la constancia o certificado que corresponda.
+
+###### Artículo 57.
+
+Los prestadores del servicio sólo asignarán para sus funciones, a aquellos elementos que hayan acreditado curso de capacitación y adiestramiento, apropiado a la modalidad del servicio que desempeñen, impartidos por sus instructores o personal del Instituto.
+
+## Título Cuarto. Del Procedimiento Administrativo
+
+### Capítulo I. Generalidades del Procedimiento
+
+###### Artículo 58.
+
+Con el objeto de verificar el cumplimiento del presente reglamento y demás ordenamientos aplicables, la Secretaría podrá ordenar en cualquier momento la práctica de visitas de supervisión, en los términos establecidos en la Ley de Procedimientos Administrativos para el Estado de Chiapas.
+
+###### Artículo 59.
+
+La Secretaría será la autoridad competente para conocer y resolver los procedimientos administrativos que se deriven por el incumplimiento de este reglamento y demás disposiciones aplicables.
+
+Su titular deberá observar que el acto u omisión a infraccionar se encuentre dentro de los supuestos establecidos en el presente reglamento, debiendo fundar y motivar la resolución que en su caso se emita, tomando en cuenta la gravedad de la infracción, las circunstancias del caso y la reincidencia.
+
+Se considera reincidente al infractor que ha sido sancionado anteriormente por la misma infracción o falta administrativa dentro de un periodo de seis meses a partir de la fecha en que se imponga la infracción administrativa.
+
+###### Artículo 60.
+
+La Secretaría ejercerá las funciones de supervisión, que correspondan a efecto de verificar el cumplimiento de lo dispuesto en este reglamento y demás disposiciones aplicables. Por tal motivo, tendrá las siguientes atribuciones:
+
+I. Designar, contratar y acreditar al personal para ejercer las acciones de supervisión;
+
+II. Emitir las órdenes de supervisión; y,
+
+III. Substanciar los procedimientos administrativos derivados de los actos administrativos de supervisión previstos en este reglamento, proveyendo al efecto, todos los acuerdos necesarios para la substanciación del procedimiento referido.
+
+###### Artículo 61.
+
+Los prestadores del servicio estarán obligados a permitir el acceso y dar las facilidades e informes que los supervisores requieran para el cumplimiento de su encomienda.
+
+### Capítulo II. De las Visitas de Verificación
+
+###### Artículo 62.
+
+La Secretaría podrá realizar por conducto de servidores públicos acreditados, visitas de verificación para supervisar el debido cumplimiento de este ordenamiento, en los términos de la Ley de Procedimientos Administrativos para el Estado de Chiapas.
+
+###### Artículo 63.
+
+El objeto de las visitas será la supervisión del cumplimiento de las obligaciones, prohibiciones, restricciones a que esté sujeta la autorización.
+
+###### Artículo 64.
+
+Las visitas de verificación que realice la Secretaría podrán ser:
+
+I. Ordinarias, aquéllas que se realicen de manera semestral para la verificación y cumplimiento de las obligaciones, prohibiciones y restricciones emanadas de la normativa vigente, se efectuarán en horas y días hábiles; y,
+
+II. Extraordinarias, aquéllas que se realicen fuera del tiempo ordinario, atendiendo a la urgencia de la verificación, del incumplimiento de las obligaciones, prohibiciones o restricciones de la normativa vigente, podrán efectuarse en cualquier tiempo.
+
+Del resultado de las verificaciones, podrá derivarse la revalidación, modificación y aplicación de sanciones e inicio de procedimientos administrativos.
+
+### Capítulo III. Del Procedimiento Administrativo
+
+###### Artículo 65.
+
+El procedimiento administrativo que se derive por el incumplimiento a las disposiciones de este reglamento así como cada uno de los actos que lo componen, se desarrollará en los términos establecidos en la Ley de Procedimientos Administrativos para el Estado de Chiapas.
+
+###### Artículo 66.
+
+En los casos en que proceda, la Secretaría hará del conocimiento del Ministerio Público la realización de actos u omisiones que puedan constituir delitos.
+
+### Capítulo IV. De las Notificaciones
+
+###### Artículo 67.
+
+Las notificaciones, citatorios, emplazamientos, requerimientos, solicitud de informes, documentos y las resoluciones, deberán efectuarse de conformidad con lo dispuesto en la Ley de Procedimientos Administrativos para el Estado de Chiapas.
+
+### Capítulo V. Medidas Cautelares
+
+###### Artículo 68.
+
+La Secretaría, de conformidad con las disposiciones del presente reglamento y con el fin de salvaguardar a las personas y sus bienes, así como para proteger la salud y seguridad pública, podrán ordenar una o más de las siguientes medidas cautelares:
+
+> <small>(REFORMADA P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+I. Clausura parcial o total de las instalaciones o de los sitios en donde se desarrollen actos que contravenga al presente reglamento;
+
+> <small>(REFORMADA P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+II. La suspensión temporal, parcial o total de la autorización; y,
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+III. La suspensión temporal o parcial de sus instalaciones.
+
+###### Artículo 69.
+
+En cualquiera de los supuestos mencionados en el artículo anterior, la Secretaría podrá ordenar la medida y su ejecución de inmediato a través del auxilio de la fuerza pública, o señalando un plazo razonable para subsanar la irregularidad, sin perjuicio de informar a las autoridades o instancias competentes para que procedan conforme a derecho.
+
+Asimismo, la Secretaría podrá promover ante la autoridad competente, que se ordene la inmovilización y aseguramiento precautorio de los bienes y objetos utilizados para la prestación de servicios de seguridad privada, cuando éstos sean utilizados en sitios públicos, sin acreditar su legal posesión y registro, así como la vigencia de la autorización ó su revalidación para la prestación de servicios de seguridad privada.
+
+### Capítulo VI. De las Infracciones y Sanciones
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 70.
+
+Atendiendo al interés público, la Secretaría sancionará en el ámbito de su competencia a los prestadores de servicios cuando incurran en violaciones a este Reglamento y demás disposiciones aplicables, conforme a lo siguiente:
+
+I. Cuando se incumplan las obligaciones ordenadas en el artículo 34 de este Reglamento se aplicarán las sanciones siguientes:
+
+a) Amonestación por escrito con apercibimiento, si se incumple lo dispuestos (sic) por las fracciones I, IV, V, VI, X y XI;
+
+b) Aseguramiento del vehículo, por incumplimiento a la fracción II; y,
+
+c) Suspensión temporal de actividades al prestador del servicio y multa, por incumplir lo dispuesto en las fracciones III, VII, VIII y IX.
+
+II. Cuando se incumplan las obligaciones ordenadas en el artículo 37 de este Reglamento se podrán aplicar las sanciones prescritas en el artículo 71 del mismo, fracciones I y II.
+
+III. Cuando se incumplan las obligaciones ordenadas en el artículo 38 del presente Reglamento, se podrán aplicar las sanciones siguientes:
+
+a) Amonestación por escrito con apercibimiento I; y,
+
+b) Aseguramiento de vehículos, II.
+
+IV. Cuando se incumpla lo previsto en el artículo 40 de este ordenamiento se aplicarán las sanciones prescritas en el artículo 71, fracciones I y II del mismo.
+
+V. Cuando se incumplan las prohibiciones ordenadas en el artículo 46 de este Reglamento, se podrán aplicar las sanciones siguientes:
+
+a) Amonestación por escrito con apercibimiento, si se incumple lo dispuesto en las fracciones I, VI y VII;
+
+b) Aseguramiento de vehículos, si existe desacato a lo establecido en la fracción IV,
+
+c) Suspensión temporal de actividades a la empresa u organización, por incumplimiento a lo dispuesto por las fracciones II, III y V; y,
+
+c) (sic) Clausura, total o parcial, por incumplimiento a la fracción VIII.
+
+VI. Cuando se incumpla lo previsto en el artículo 48, de este ordenamiento se podrán aplicar las sanciones siguientes:
+
+a) Amonestación por escrito con apercibimiento, por incumplir lo dispuesto en la fracción III;
+
+b) Suspensión temporal de actividades a la empresa, por desacato a lo establecido en la fracción V;
+
+c) Multa, por incumplir con la disposición de la fracción IV; y,
+
+d) Clausura total, por incumplimiento a las fracciones I, II y IV.
+
+VII. Cuando se incumpla lo previsto en los artículos 51 y 52, de este ordenamiento se podrán aplicar cualquiera de las sanciones prescritas en el artículo 71, fracciones I, II y III.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 71.
+
+Las sanciones aplicables a quienes incumplan las obligaciones generales, prohibiciones y restricciones serán las siguientes:
+
+I. Amonestación, con difusión pública en la página de internet de la Secretaría;
+
+II. Multa, de cien hasta cinco mil salarios mínimos general vigente en el Estado, cuya cuantía será aplicada considerando la gravedad de las consecuencias y si el hecho es reincidente;
+
+III. Suspensión parcial, total, temporal o definitiva de la autorización o cualquier otro derecho para la realización de la actividad;
+
+IV. Clausura temporal o definitiva de las instalaciones donde el infractor tenga su oficina matriz o el domicilio legal que hubiere registrado, así como las sucursales que tuviera en el interior del Estado; y,
+
+V. Cancelación de la autorización o cualquier otro derecho para la realización de la actividad.
+
+La Secretaría, en su caso, podrá imponer simultáneamente una o más de las sanciones administrativas señaladas en las fracciones anteriores.
+
+En caso de que el prestador de servicios no acate alguna de las sanciones anteriores, se procederá a hacer efectiva la fianza a que se refiere el artículo 17 de este reglamento.
+
+###### Artículo 72.
+
+Las sanciones a que se refiere este Capítulo, serán aplicadas por la Secretaría, con base a las visitas de verificación practicadas, así como las infracciones comprobadas, y deberán estar debidamente fundadas y motivadas, tomando en consideración:
+
+I. La gravedad de la infracción en que se incurre y la conveniencia de suprimir prácticas que infrinjan en cualquier forma, las disposiciones de este reglamento o las que se dicten con base en éste;
+
+II. El monto del beneficio obtenido directamente por el infractor;
+
+III. Reincidencia e intencionalidad del infractor;
+
+IV. Antecedentes y condiciones personales del infractor;
+
+V. La antigüedad en la prestación del servicio; y,
+
+VI. El daño o perjuicio económico, ya sea que de forma conjunta o separada se hayan causado a terceros.
+
+Para efectos de este reglamento, la reincidencia se comete cuando por segunda ocasión el prestador del servicio incumple con alguna de sus obligaciones, se realiza alguna de las prohibiciones o restricciones explícitas a las que alude el presente reglamento.
+
+###### Artículo 73.
+
+La Secretaría, podrá imponer simultáneamente una o más de las sanciones administrativas señaladas en las fracciones anteriores.
+
+En todos los casos se dará difusión pública a las sanciones, la cual será a costa del infractor, en el Periódico Oficial del Estado y en uno de los diarios de mayor circulación estatal, identificando claramente al infractor, el tipo de sanción, el número de registro de su autorización y el domicilio de su establecimiento.
+
+### Capítulo VII. De los Recursos
+
+###### Artículo 74.
+
+Contra las resoluciones que impongan medidas preventivas o sanciones a los prestadores de servicios de seguridad privada en términos de este reglamento, se podrán interponer los recursos considerados en la Ley de Procedimientos Administrativos para el Estado de Chiapas.
+
+T r a n s i t o r i o s
+
+Primero.- El presente reglamento entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Estado.
+
+Segundo.- A partir de la fecha de entrada en vigor del presente ordenamiento se deroga el "Reglamento que Regula la Prestación de los Servicios Privados de Seguridad y los Servicios Complementarios, Relacionados o Similares en el Estado de Chiapas", así como todas las disposiciones que se opongan al presente ordenamiento.
+
+Tercero.- Las menciones contenidas en otras disposiciones, respecto de la denominación "Servicios Privados de Seguridad", se entenderán referidas a "Servicios de Seguridad Privada".
+
+Cuarto.- Se concede a los prestadores del servicio, que a la entrada en vigor del presente ordenamiento tengan autorización otorgada por la Secretaría, un plazo de sesenta días naturales, contados a partir del día siguiente a la publicación del presente Reglamento, para que actualicen su autorización, de acuerdo a la nueva normativa.
+
+Las autorizaciones otorgadas a la fecha de entrada en vigor del presente ordenamiento, quedarán consideradas como provisionales.
+
+Quinto.- Se concede a los prestadores del servicio, que a la entrada en vigor del presente ordenamiento no tengan autorización otorgada por la Secretaría, o se encuentre en trámite, un plazo de sesenta días naturales, contados a partir del día siguiente a la publicación del presente reglamento, para que regularicen su servicio.
+
+Sexto.- Todo prestador del servicio que a la fecha de cumplimiento de los plazos especificados en los artículos cuarto y quinto transitorios, no se encuentre autorizado para la prestación del servicio, se dará trámite de inmediato al procedimiento administrativo sancionatorio para la expedición de la orden de clausura total.
+
+El Ejecutivo dispondrá se publique, circule y se le dé debido cumplimiento.
+
+Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 04 días del mes de agosto del año dos mil ocho.
+
+Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Daniel Roque Figueroa, Secretario de Seguridad y Protección Ciudadana.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2008.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero.- La Secretaría de Seguridad y Protección Ciudadana, en el marco de su competencia, proveerá lo necesario para el cumplimiento del presente Decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2014.
+
+Primero.- El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial.
+
+Segundo.- Se abroga el Reglamento que Regula la Prestación de los Servicios de Seguridad Privada para el Estado de Chiapas, publicado en el Periódico Oficial número 115, de fecha 10 de septiembre de 2008.
+
+Tercero.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Reglamento.
+
+Cuarto.- La denominación del Área de Servicios Privados de Seguridad, que se encuentre contenida en Leyes, Reglamentos, así como cualquier disposición jurídica o administrativa, se tendrá por entendida como al Área de Servicios de Seguridad Privada de la Secretaría de Seguridad y Protección Ciudadana.
+
+Quinto.- Los Prestadores de Servicios dispondrán de un término de noventa días naturales, contados a partir de la entrada en vigor de este Reglamento, para adecuarse a las disposiciones establecidas en el mismo.
+
+Sexto.- Conforme a lo dispuesto por el Artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial del Estado.
 
 ###### Artículo 25.
 
-Durante sus ausencias el Director General será suplido por el Coordinador General de Administración y Finanzas, por el Coordinador General de Asuntos Jurídicos, por el Subdirector General de Política de Vivienda y Esquemas Financieros o por el Subdirector General de Fomento al Crecimiento del Sector Vivienda, en el orden mencionado.
+Transcurrida la vigencia de la autorización o su revalidación, el interesado deberá abstenerse de prestar el servicio de seguridad privada, hasta en tanto sea expedido un nuevo acto administrativo que para tal efecto lo autorice.
 
-Los subdirectores generales, coordinadores generales, directores de área, subdirectores y jefes de departamento serán suplidos durante sus ausencias por los servidores públicos de jerarquía inmediata inferior, según la naturaleza de los asuntos.
-
-Las ausencias del Titular del Organo Interno de Control, así como de los titulares de las áreas de Auditoría y de Responsabilidades y Quejas, serán suplidas conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ## TRANSITORIO
 
