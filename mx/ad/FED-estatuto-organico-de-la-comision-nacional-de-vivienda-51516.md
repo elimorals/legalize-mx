@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-de-vivienda-51516"
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-08-31"
-last_updated: "2006-08-31"
+last_updated: "2009-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51516&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-28"
 
 ESTATUTO ORGANICO DE LA COMISION NACIONAL DE VIVIENDA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE JUNIO DE 2009.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 31 de agosto de 2006.
 
@@ -111,7 +111,9 @@ II. Aprobar, a propuesta del Director General, las normas y lineamientos para la
 
 La Junta de Gobierno celebrará sesiones ordinarias por lo menos cuatro veces al año, conforme al calendario que al efecto apruebe en la primera sesión ordinaria de cada ejercicio, y las extraordinarias que proponga el Director General.
 
-Las sesiones de la Junta de Gobierno serán presididas de manera rotativa, sucesivamente cada tercer sesión, por cada uno de los titulares de las dependencias señaladas en el Artículo 22 de la Ley, en el orden que ahí se mencionan. En caso de ausencia del presidente en turno y su suplente, se determinará por la mayoría de los presentes, quien preside la sesión.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+Las sesiones de la Junta de Gobierno serán presididas por el Titular de la Secretaría de Desarrollo Social, y en su ausencia, por su suplente. En caso de ausencia del presidente en turno y su suplente, se determinará por la mayoría de los presentes, quien preside la sesión.
 
 La Junta de Gobierno sesionará válidamente con la asistencia de la mitad más uno de sus miembros. Sus decisiones se tomarán por mayoría de votos de los miembros presentes.
 
@@ -528,3 +530,11 @@ Las ausencias del Titular del Organo Interno de Control, así como de los titula
 UNICO.- El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 El presente Estatuto Orgánico fue aprobado por la H. Junta de Gobierno de la Comisión Nacional de Vivienda en su Primera Sesión celebrada en la Ciudad de México, Distrito Federal, el día veintiocho del mes de agosto de dos mil seis.- El Subsecretario de Hacienda y Crédito Público de la Secretaría de Hacienda y Crédito Público y Presidente Suplente de la Junta de Gobierno de la Comisión Nacional de Vivienda, Alonso Pascual García Tamés.- Rúbrica.- El Oficial Mayor del Ramo de la Secretaría de Energía, Oscar Javier Torre Gómez.- Rúbrica.- El Subsecretario de Infraestructura de la Secretaría de Comunicaciones y Transportes, Jorge Fernández Varela.- Rúbrica.- El Subsecretario de Política Sectorial de la Secretaría de la Reforma Agraria, Rubén Mendoza Ayala.- Rúbrica.- El Subsecretario de Desarrollo Urbano y Ordenación del Territorio de la Secretaría de Desarrollo Social, Roberto Villarreal Gonda.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, José Luis Luege Tamargo.- Rúbrica.- El Director General de la Comisión Nacional de Vivienda y Secretario Técnico de la Junta de Gobierno, Carlos Javier Gutiérrez Ruiz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 25 DE JUNIO DE 2009.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Notifíquese a la H. Junta de Gobierno de la Comisión Nacional de Vivienda.
