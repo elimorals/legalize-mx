@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "2009-05-06"
+last_updated: "2009-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE JUNIO DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -2378,7 +2378,23 @@ IV. El tipo de operaciones que podrán realizarse a través de terceros, quedand
 
 V. Los contratos de prestación de servicios o comisiones que celebren en términos de este artículo que la Comisión determine que deberán serle entregados por las instituciones de banca múltiple, así como la forma, condiciones y plazos de dicha entrega;
 
-VI. Los límites individuales y agregados aplicables a las operaciones que podrán llevarse a cabo a través de terceros, tratándose de las operaciones a que se refieren las fracciones I y II del artículo 46 de esta Ley;
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+VI. Los límites aplicables a las operaciones que podrán llevarse a cabo a través de terceros por cuenta de la propia institución, observando en todo caso, respecto de las operaciones previstas en las fracciones I y II del artículo 46 de esta Ley, lo siguiente:
+
+a) Individuales, por tipo de operación y cliente, los cuales no excederán por comisionista de un monto diario equivalente en moneda nacional a 1,500 Unidades de Inversión, por cada tipo de inversión y cuenta, tratándose de retiros en efectivo y pago de cheques, así como del equivalente en moneda nacional a 4,000 Unidades de Inversión respecto de depósitos en efectivo, y
+
+b) Agregados, que no excederán por comisionista de un monto mensual equivalente al cincuenta por ciento del importe total de las operaciones realizadas en el período por la institución de que se trate. El límite a que se refiere este inciso, será de sesenta y cinco por ciento, durante los primeros dieciocho meses de operación con el comisionista. Para efectos de lo anterior se entenderá como un sólo comisionista a un Grupo empresarial de conformidad con la definición a que se refiere la fracción V del artículo 22 Bis de esta Ley.
+
+La celebración de las operaciones que podrán llevarse a cabo a través de terceros por cuenta de la propia institución a que se refieren las fracciones I y II del artículo 46 de esta Ley serán sujetas de la autorización a que se refiere la fracción IV de este artículo.
+
+Los límites a que se refiere la presente fracción no serán aplicables cuando:
+
+i) El tercero sea una entidad de la Administración Pública Federal, Estatal o Municipal;
+
+ii) Se trate de operaciones relacionadas con la fracción XXVI Bis del artículo 46 de esta Ley;
+
+iii) Los terceros con los que se contrate sean instituciones de crédito, casas de bolsa o entidades de ahorro y crédito popular;
 
 VII. Las políticas y procedimientos con que deberán contar las instituciones de crédito para vigilar el desempeño de los terceros que sean contratados, así como el cumplimiento de sus obligaciones contractuales, entre las cuales deberá preverse la obligación de dichos terceros de proporcionar a la Comisión Nacional Bancaria y de Valores, y a los auditores externos de las instituciones, a solicitud de éstas, los registros, la información y el apoyo técnico relativos a los servicios prestados a la institución, y
 
@@ -2527,6 +2543,18 @@ En los créditos, préstamos o financiamientos que las instituciones de crédito
 Las instituciones deberán mantener en su página electrónica en la red mundial "Internet", la información relativa al importe de las comisiones que cobran por los servicios que ofrecen al público relacionados con el uso de tarjetas de débito, tarjetas de crédito, cheques y órdenes de transferencias de fondos. Asimismo, en sus sucursales deberán contar con la referida información en carteles, listas y folletos visibles de forma ostensible, así como permitir que ésta se obtenga a través de un medio electrónico ubicado en dichas sucursales, a fin de que cualquier persona que la solicite esté en posibilidad de consultarla gratuitamente.
 
 Para garantizar la protección de los intereses del público, la determinación de comisiones y tarifas por los servicios que prestan las instituciones de crédito, se sujetará lo dispuesto por la Ley para la Transparencia y Ordenamiento de los Servicios Financieros
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+###### ARTICULO 48 Bis 5.
+
+Las instituciones de crédito están obligadas a realizar las acciones conducentes para que sus clientes puedan dar por terminados los contratos de adhesión que hubieren celebrado con las mismas en operaciones activas y pasivas, mediante escrito en el que manifieste su voluntad de dar por terminada la relación jurídica con esa institución. Los clientes podrán en todo momento celebrar dichas operaciones con otra institución de crédito.
+
+Para efectos de lo dispuesto en el presente artículo, tratándose de operaciones pasivas que no sean líquidas y exigibles, la solicitud de cancelación surtirá efectos a su vencimiento.
+
+Por lo que respecta a la liquidación de operaciones activas, la institución receptora una vez cubierta la deuda respectiva, será acreedora del cliente por el importe correspondiente.
+
+La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros establecerá mediante disposiciones de carácter general los requisitos y procedimientos para llevar a cabo la mecánica de terminación de operaciones, así como los trámites de liquidación y cancelación por parte de la institución receptora. Dicha Comisión atenderá las reclamaciones que se susciten por la aplicación de este artículo en términos de la Ley de Protección y Defensa al Usuario de Servicios Financieros.
 
 ###### ARTICULO 49.
 
@@ -3182,6 +3210,14 @@ Las operaciones con valores que realicen las instituciones de crédito en cumpli
 
 Las instituciones de crédito, con sujeción a las disposiciones de carácter general que expida el Banco de México, podrán realizar operaciones de reporto y préstamo de valores por cuenta de terceros, sin la intermediación de casas de bolsa. En dichas disposiciones se deberá establecer, entre otros aspectos, sus características, las contrapartes autorizadas, los valores objeto de estas operaciones, los plazos, la forma de liquidación, así como las garantías que, en su caso, podrán otorgarse.
 
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+###### ARTICULO 81 Bis.
+
+Las instituciones de crédito deberán contar con lineamientos y políticas tendientes a identificar y conocer a sus clientes, así como para determinar sus objetivos de inversión respecto de las operaciones con valores y operaciones derivadas que realicen en cumplimiento de fideicomisos, mandatos, comisiones y contratos de administración. Asimismo, las instituciones de crédito deberán proporcionar a su clientela la información necesaria para la toma de decisiones de inversión, considerando los perfiles que definan al efecto ajustándose a las disposiciones de carácter general que expida la Comisión Nacional Bancaria y de Valores.
+
+Las instituciones de crédito al celebrar las operaciones a que se refiere el párrafo anterior con sus clientes se ajustarán al perfil que corresponda a cada uno de ellos. Cuando se contraten operaciones y servicios que no sean acordes con el perfil del cliente, deberá contarse con el consentimiento expreso del mismo. Las instituciones de crédito, serán responsables de los daños y perjuicios ocasionados al cliente por el incumplimiento a lo previsto en este párrafo.
+
 ###### ARTICULO 82.
 
 El personal que las instituciones de crédito utilicen directa o exclusivamente para la realización de fideicomisos, no formará parte del personal de la institución, sino que, según los casos se considerará al servicio del patrimonio dado en fideicomiso. Sin embargo, cualesquier derechos que asistan a esas personas conforme a la ley, los ejercitarán contra la institución de crédito, la que, en su caso, para cumplir con las resoluciones que la autoridad competente dicte afectará, en la medida que sea necesaria, los bienes materia del fideicomiso.
@@ -3374,11 +3410,11 @@ Durante los procesos de negociación a que se refiere este artículo, los partic
 
 Las instituciones de banca múltiple que de cualquier forma acuerden con personas morales que realicen actividades empresariales, difundir publicidad en forma conjunta al público en general a través de medios impresos, auditivos, audiovisuales o electrónicos, deberán prever lo necesario para que el contenido de dicha publicidad, evite generar confusión respecto de la independencia entre la institución y la persona moral de que se trate, así como sobre el oferente y las responsabilidades de las partes en la contratación de las operaciones y servicios financieros de la citada institución.
 
-> <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 94 Bis.
 
-La Comisión Nacional Bancaria y de Valores podrá emitir disposiciones de carácter general en las que se definan las actividades que se aparten de las sanas prácticas y usos comerciales en el ofrecimiento y prestación de los servicios financieros de las instituciones de crédito, buscando en todo momento la adecuada protección de los intereses del público.
+La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros podrá emitir disposiciones de carácter general en las que se definan las actividades que se aparten de las sanas prácticas y usos relativos al ofrecimiento y comercialización de las operaciones y servicios financieros por parte de las instituciones de crédito, buscando en todo momento la adecuada protección de los intereses del público.
 
 > <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
@@ -3406,7 +3442,13 @@ No se permitirá la contratación de personal al amparo del artículo 46 Bis 1 d
 
 Las instituciones de crédito y demás personas morales reguladas por esta ley deberán cumplir con las disposiciones generales de carácter prudencial que emita la Comisión Nacional Bancaria y de Valores, así como la demás normativa que, en el ámbito de su competencia, emita el Banco de México, orientadas a preservar la solvencia, liquidez y estabilidad de dichas instituciones y, en su caso, de las personas morales reguladas por esta ley, así como el sano y equilibrado desarrollo de las operaciones que son materia de esta ley.
 
-Las instituciones de crédito que abran cuentas con el objeto de captar recursos cuyo destino sea la asistencia de comunidades, sectores o poblaciones derivada (sic) de catástrofes naturales, deberán cumplir con los requerimientos que la Comisión Nacional Bancaria y de Valores establezca a través de disposiciones de carácter general relativas a la transparencia y rendición de cuentas, las cuales incluirán, entre otros aspectos, los relativos al destino específico de los recursos y plazos en que éstos serán entregados.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 25 DE JUNIO DE 2009)</small>
+
+Asimismo, las instituciones de crédito y demás personas reguladas por este ordenamiento legal deberán cumplir con las disposiciones generales que emita la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, en el ámbito de su competencia.
+
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+Las instituciones de crédito que abran cuentas propias con el objeto de captar recursos cuyo destino sea la asistencia de comunidades, sectores o poblaciones derivada de catástrofes naturales, deberán cumplir con los requerimientos que la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros establezca a través de disposiciones de carácter general relativas a la transparencia y rendición de cuentas, las cuales incluirán, entre otros aspectos, los relativos al destino específico de los recursos y plazos en que éstos serán entregados.
 
 Para efectos de lo señalado en el párrafo anterior, las instituciones de crédito deberán establecer una adecuada coordinación con el Gobierno Federal y las entidades federativas.
 
@@ -3426,11 +3468,11 @@ Las operaciones de banca y crédito que realicen las instituciones de crédito y
 
 Las instituciones de crédito estarán obligadas a recabar los datos de su clientela, relativos a su identificación y domicilio, de conformidad con las disposiciones que al efecto dicte la Comisión Nacional Bancaria.
 
-> <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 98 Bis.
 
-La Comisión Nacional Bancaria y de Valores publicará en el Diario Oficial de la Federación las disposiciones y reglas de carácter general que emita en ejercicio de las facultades que esta u otras leyes le otorgan, así como los actos administrativos que, en cumplimiento de las leyes, deban publicarse en el mismo medio.
+Las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros publicarán en el Diario Oficial de la Federación las disposiciones y reglas de carácter general que emitan en ejercicio de las facultades que esta u otras leyes les otorgan, así como los actos administrativos que, en cumplimiento de las leyes, deban publicarse en el mismo medio.
 
 ### CAPITULO II. De la Contabilidad
 
@@ -3706,9 +3748,9 @@ h) Celebrar fideicomisos que administren sumas de dinero que aporten periódicam
 
 Cualquier pacto contrario a lo dispuesto en los incisos anteriores, será nulo;
 
-> <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2009)</small>
 
-XX. Proporcionar, para cualquier fin, incluyendo la comercialización de productos o servicios, la información que obtengan con motivo de la celebración de operaciones con sus clientes, salvo que cuenten con el consentimiento expreso del cliente respectivo, el cual deberá constar en una sección especial dentro de la documentación que deba firmar el cliente para contratar una operación o servicio con una institución de crédito, y siempre que la firma autógrafa de aquél relativa al texto de dicho consentimiento sea adicional a la normalmente requerida por la institución para la celebración de la operación o servicio solicitado. En ningún caso, el otorgamiento de dicho consentimiento será condición para la contratación de dicha operación o servicio, y
+XX. Proporcionar, para cualquier fin, incluyendo la comercialización de productos o servicios, la información que obtengan con motivo de la celebración de operaciones con sus clientes, salvo que cuenten con el consentimiento expreso del cliente respectivo, el cual deberá constar en una sección especial dentro de la documentación a través de la cual se contrate una operación o servicio con una institución de crédito, y siempre que dicho consentimiento sea adicional al normalmente requerido por la institución para la celebración de la operación o servicio solicitado. En ningún caso, el otorgamiento de dicho consentimiento será condición para la contratación de dicha operación o servicio, y
 
 > <small>(ADICIONADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
@@ -3726,23 +3768,35 @@ Los actos jurídicos que se celebren en contravención a lo establecido por esta
 
 El uso de las palabras a que se refiere el artículo 105 de esta Ley, en el nombre de personas morales y establecimientos distintos a los autorizados para ello conforme al mismo precepto, se castigará por la Comisión Nacional Bancaria con multa por cantidad que no será menor de cien veces ni mayor de cinco mil veces el salario mínimo general diario vigente en el Distrito Federal, y la negociación respectiva será clausurada administrativamente por esa Comisión hasta que su nombre sea cambiado.
 
-> <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 107 Bis.
 
-La Comisión Nacional Bancaria y de Valores, para determinar si la infracción administrativa cometida en términos de lo dispuesto por la presente Ley, se considera como grave, tomará en cuenta cualquiera de los aspectos siguientes:
+Las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, en el ámbito de sus respectivas competencias, para determinar si la infracción administrativa cometida en términos de lo dispuesto por la presente Ley, se considera como grave, tomarán en cuenta cualquiera de los aspectos siguientes:
+
+> <small>(ADICIONADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 I. El impacto que en el sistema bancario mexicano puede producir la infracción;
 
+> <small>(ADICIONADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
+
 II. El monto del quebranto o perjuicio patrimonial causado;
+
+> <small>(ADICIONADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 III. La existencia de un lucro obtenido en forma indebida;
 
+> <small>(ADICIONADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
+
 IV. El incumplimiento a los requisitos de honorabilidad impuestos por la Ley y las disposiciones de carácter general que de ella emanen, por parte del infractor;
+
+> <small>(ADICIONADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 V. La negligencia inexcusable o dolo con que se hubiere actuado, o
 
-VI. Las demás circunstancias que la Comisión Nacional Bancaria y de Valores estime aplicables para tales efectos.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+VI. Las demás circunstancias que las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros estimen aplicables para tales efectos.
 
 > <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2008)</small>
 
@@ -3812,7 +3866,7 @@ g) A las instituciones de crédito que no cumplan con los lineamientos y requisi
 
 h) A las instituciones de crédito que no cumplan con lo señalado por el artículo 76 de la presente Ley o por las disposiciones a que dicho precepto se refiere.
 
-i) A las instituciones de crédito que no cumplan con lo dispuesto en los párrafos segundo y tercero del artículo 96 Bis de esta Ley.
+i) (DEROGADO, D.O.F. 25 DE JUNIO DE 2009)
 
 V. Multa de 20,000 a 100,000 días de salario:
 
@@ -3834,6 +3888,24 @@ II. Multa del 5% hasta el 15% del importe de la operación de que se trate o, en
 
 > <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2008)</small>
 
+###### ARTICULO 108 Bis 2.
+
+Las infracciones a esta ley o a las disposiciones que sean emitidas con base en ésta por la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros serán sancionadas con multa administrativa que impondrá la citada Comisión, a razón de días de salario mínimo general vigente para el Distrito Federal, conforme a lo siguiente:
+
+I. Multa de 200 a 2,000 días de salario:
+
+a) A las instituciones de crédito que no cumplan con las disposiciones previstas en el artículo 48 Bis 5 de la presente Ley, así como las disposiciones que de éste emanen, y
+
+b) A las instituciones de crédito que no cumplan con las obligaciones previstas en el artículo 94 Bis de la presente Ley o en las disposiciones a que dicho artículo se refiere.
+
+II. Multa de 5,000 a 20,000 días de salario a las instituciones de crédito que no cumplan con lo dispuesto en los párrafos tercero y cuarto del artículo 96 Bis de esta Ley.
+
+La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros podrá abstenerse de sancionar a las entidades reguladas por esta Ley, siempre y cuando justifique la causa de tal abstención y se refiera a hechos, actos u omisiones que no revistan gravedad ni constituyan delito o pongan en peligro los intereses de terceros.
+
+Cuando una institución de crédito, por una acción u omisión, incurra en una infracción que se refleje en múltiples operaciones o documentos, se considerará como una sola infracción, para efectos de la sanción.
+
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 108 Bis 1.
 
 Las personas que realicen actividades, servicios u operaciones para las que esta Ley prevé que se requiere una autorización, sin tenerla, serán sancionadas con multa que se les impondrá de acuerdo a lo siguiente:
@@ -3852,7 +3924,7 @@ b) A la persona que, en contravención a lo dispuesto por los artículos 2o, 7o 
 
 c) A las personas que, en contravención a lo dispuesto por el artículo 45-C de esta Ley, se organicen u operen como filiales sin contar con autorización de la Secretaría de Hacienda y Crédito Público.
 
-> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2008)</small>
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 109.
 
@@ -3866,31 +3938,47 @@ En los procedimientos administrativos de imposición de sanciones previstos en e
 
 Una vez desahogado el derecho de audiencia a que se refiere el artículo 109 Bis 2 de esta Ley o bien, presentado el escrito mediante el cual se interponga recurso de revisión, únicamente se admitirán pruebas supervenientes, siempre y cuando no se haya emitido la resolución correspondiente.
 
-La Comisión Nacional Bancaria y de Valores podrá allegarse de los medios de prueba que considere necesarios, así como acordar sobre la admisibilidad de las pruebas ofrecidas. Sólo podrán rechazarse las pruebas aportadas por los interesados cuando no fuesen ofrecidas conforme a derecho, no tengan relación con el fondo del asunto, sean improcedentes, innecesarias o contrarias a la moral o al derecho. La valoración de las pruebas se hará conforme a lo establecido por el Código Federal de Procedimientos Civiles.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2009)</small>
 
-> <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2008)</small>
+Las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros podrán allegarse de los medios de prueba que consideren necesarios, así como acordar sobre la admisibilidad de las pruebas ofrecidas. Sólo podrán rechazarse las pruebas aportadas por los interesados cuando no fuesen ofrecidas conforme a derecho, no tengan relación con el fondo del asunto, sean improcedentes, innecesarias o contrarias a la moral o al derecho. La valoración de las pruebas se hará conforme a lo establecido por el Código Federal de Procedimientos Civiles.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 109 Bis 1.
 
-La facultad de la Comisión Nacional Bancaria y de Valores para imponer las sanciones de carácter administrativo previstas en esta ley, así como en las disposiciones que de ella emanen, caducará en un plazo de cinco años, contado a partir del día hábil siguiente al que se realizó la conducta o se actualizó el supuesto de infracción.
-
-El plazo de caducidad señalado en el párrafo inmediato anterior se interrumpirá al iniciarse los procedimientos relativos. Se entenderá que el procedimiento de que se trata ha iniciado a partir de la notificación al presunto infractor del oficio mediante el cual se le concede el derecho de audiencia a que hace referencia la fracción I del artículo 109 Bis 2 de esta ley.
-
-Para calcular el importe de las multas en aquellos supuestos contemplados por esta ley a razón de días de salario, se tendrá como base el salario mínimo general diario vigente en el Distrito Federal el día en que se realice la conducta sancionada o se actualice el supuesto que dé motivo a la sanción correspondiente.
-
-Las multas que la citada Comisión imponga deberán ser pagadas dentro de los quince días hábiles siguientes al de su notificación. Cuando las multas no se paguen dentro del plazo señalado en este párrafo, su monto se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, en los mismos términos que establece el Código Fiscal de la Federación para este tipo de supuestos.
-
-En caso de que el infractor pague las multas impuestas por la mencionada Comisión dentro de los quince días referidos en el párrafo anterior, se aplicará una reducción en un veinte por ciento de su monto, siempre y cuando no se hubiere interpuesto medio de defensa alguno en contra de dicha multa.
+Las facultades de las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros para imponer las sanciones de carácter administrativo previstas en esta ley, así como en las disposiciones que de ella emanen, caducará en un plazo de cinco años, contado a partir del día hábil siguiente a aquél en que se realizó la conducta o se actualizó el supuesto de infracción.
 
 > <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2008)</small>
 
+El plazo de caducidad señalado en el párrafo inmediato anterior se interrumpirá al iniciarse los procedimientos relativos. Se entenderá que el procedimiento de que se trata ha iniciado a partir de la notificación al presunto infractor del oficio mediante el cual se le concede el derecho de audiencia a que hace referencia la fracción I del artículo 109 Bis 2 de esta ley.
+
+> <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2008)</small>
+
+Para calcular el importe de las multas en aquellos supuestos contemplados por esta ley a razón de días de salario, se tendrá como base el salario mínimo general diario vigente en el Distrito Federal el día en que se realice la conducta sancionada o se actualice el supuesto que dé motivo a la sanción correspondiente.
+
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+Las multas que las citadas Comisiones impongan deberán ser pagadas dentro de los quince días hábiles siguientes al de su notificación. Cuando las multas no se paguen dentro del plazo señalado en este párrafo, su monto se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, en los mismos términos que establece el Código Fiscal de la Federación para este tipo de supuestos.
+
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+En caso de que el infractor pague las multas impuestas por las mencionadas Comisiones dentro de los quince días referidos en el párrafo anterior, se aplicará una reducción en un veinte por ciento de su monto, siempre y cuando no se hubiere interpuesto medio de defensa alguno en contra de dicha multa.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 109 Bis 2.
 
-La Comisión Nacional Bancaria y de Valores, en la imposición de sanciones de carácter administrativo a que se refiere esta ley, se sujetará a lo siguiente:
+Las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, en la imposición de sanciones de carácter administrativo a que se refiere esta ley, se sujetarán a lo siguiente:
 
-I. Se otorgará audiencia al infractor, quien, en un plazo de diez días hábiles contado (sic) a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga, ofrecer pruebas y formular alegatos. La Comisión Nacional Bancaria y de Valores, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso. La notificación surtirá efectos al día hábil siguiente a aquél en que se practique.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+I. Se otorgará audiencia al infractor, quien, en un plazo de diez días hábiles contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga, ofrecer pruebas y formular alegatos. Las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, a petición de parte, podrán ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso. La notificación surtirá efectos al día hábil siguiente a aquél en que se practique.
+
+> <small>(ADICIONADA, D.O.F. 6 DE FEBRERO DE 2008)</small>
 
 II. En caso de que el infractor no hiciere uso del derecho de audiencia dentro del plazo concedido o bien, habiéndolo ejercido no lograre desvanecer las imputaciones vertidas en su contra, se tendrán por acreditadas las infracciones imputadas y se procederá a la imposición de la sanción administrativa correspondiente.
+
+> <small>(ADICIONADA, D.O.F. 6 DE FEBRERO DE 2008)</small>
 
 III. En la imposición de sanciones se tomarán en cuenta, en su caso, lo siguiente:
 
@@ -3902,11 +3990,11 @@ c) La cuantía de la operación, y
 
 d) La intención de realizar la conducta.
 
-> <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 109 Bis 3.
 
-Las sanciones serán impuestas por la Junta de Gobierno de la Comisión Nacional Bancaria y de Valores, la que podrá delegar esa facultad, en razón de la naturaleza de la infracción o del monto de la multa, al presidente o a los demás servidores públicos de esa Comisión.
+Las sanciones serán impuestas por las Juntas de Gobierno de las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, según corresponda, las que podrán delegar esa facultad, en razón de la naturaleza de la infracción o del monto de la multa, al presidente o a los demás servidores públicos de esas Comisiones.
 
 > <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2008)</small>
 
@@ -3920,15 +4008,19 @@ La Comisión Nacional Bancaria y de Valores podrá, atendiendo a las circunstanc
 
 Las multas a que se refiere el Capítulo II del Título Quinto de esta ley podrán ser impuestas a las instituciones de crédito y personas morales reguladas por la presente ley, así como a los miembros del consejo de administración, directores generales, directivos, funcionarios, empleados o personas que ostenten un cargo, mandato, comisión o cualquier otro título jurídico que las citadas instituciones de crédito otorguen a terceros para la realización de sus operaciones, que hayan incurrido directamente o hayan ordenado la realización de la conducta materia de la infracción. Sin perjuicio de lo anterior, la Comisión Nacional Bancaria y de Valores, atendiendo a las circunstancias de cada caso, podrá proceder conforme a lo previsto en el artículo 25 de esta ley.
 
-Las multas impuestas por la Comisión Nacional Bancaria y de Valores a las instituciones de crédito se harán efectivas mediante cargos del importe respectivo que se hagan en la cuenta que lleva el Banco de México a dichas instituciones. Corresponderá a la Secretaría de Hacienda y Crédito Público hacer efectivas las multas a personas distintas a las instituciones de crédito.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2009)</small>
 
-El Banco de México realizará los cargos respectivos cuando la Comisión Nacional Bancaria y de Valores se lo solicite, por tratarse de multas contra las cuales no proceda ya medio de defensa legal alguno o la institución de crédito manifieste por escrito a la citada Comisión, su conformidad para que se realice el referido cargo.
+Las multas impuestas por las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros a las instituciones de crédito se harán efectivas mediante cargos del importe respectivo que se hagan en la cuenta que lleva el Banco de México a dichas instituciones. Corresponderá a la Secretaría de Hacienda y Crédito Público hacer efectivas las multas a personas distintas a las instituciones de crédito.
 
-> <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+El Banco de México realizará los cargos respectivos cuando las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros se lo soliciten, por tratarse de multas contra las cuales no proceda ya medio de defensa legal alguno o la institución de crédito manifieste por escrito a las citadas Comisiones, según corresponda, su conformidad para que se realice el referido cargo.
+
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 109 Bis 6.
 
-La Comisión Nacional Bancaria y de Valores considerará como atenuante en la imposición de sanciones administrativas, cuando el presunto infractor, de manera espontánea y previo al inicio del procedimiento de imposición de sanción a que se refiere la presente Ley, informe por escrito de la violación en que hubiere incurrido a la citada Comisión y corrija las omisiones o contravenciones a las normas aplicables en que hubiere incurrido o, en su caso, presente ante la misma Comisión un programa de corrección que tenga por objeto evitar que la institución de crédito o, en su caso, la persona moral regulada por esta ley, se ubique de nueva cuenta en la conducta infractora. Asimismo, se considerará como atenuante la acreditación que el presunto infractor haga ante la Comisión de haber resarcido el daño causado, así como el hecho de que aporte información que coadyuve en el ejercicio de las atribuciones de la Comisión Nacional Bancaria y de Valores en materia de inspección y vigilancia, a efecto de deslindar responsabilidades.
+Las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros considerarán como atenuante en la imposición de sanciones administrativas, cuando el presunto infractor, de manera espontánea y previo al inicio del procedimiento de imposición de sanción a que se refiere la presente Ley, informe por escrito de la violación en que hubiere incurrido a la Comisión correspondiente y corrija las omisiones o contravenciones a las normas aplicables en que hubiere incurrido o, en su caso, presente ante la Comisión que corresponda, un programa de corrección que tenga por objeto evitar que la institución de crédito o, en su caso, la persona moral regulada por esta ley, se ubique de nueva cuenta en la conducta infractora. Asimismo, se considerará como atenuante la acreditación que el presunto infractor haga ante las Comisiones de haber resarcido el daño causado, así como el hecho de que aporte información que coadyuve en el ejercicio de las atribuciones de las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros en materia de inspección y vigilancia, a efecto de deslindar responsabilidades.
 
 > <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2008)</small>
 
@@ -3936,13 +4028,13 @@ La Comisión Nacional Bancaria y de Valores considerará como atenuante en la im
 
 Los procedimientos para la imposición de las sanciones administrativas a que se refiere esta ley se iniciarán con independencia de la opinión de delito que, en su caso, emita la Comisión Nacional Bancaria y de Valores en términos del artículo 115 del presente ordenamiento legal.
 
-> <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 109 Bis 8.
 
-En ejercicio de sus facultades sancionadoras, la Comisión Nacional Bancaria y de Valores, ajustándose a los lineamientos que apruebe su Junta de Gobierno, deberá hacer del conocimiento del público en general, a través de su portal de Internet, las sanciones que al efecto imponga por infracciones a esta Ley, una vez que dichas resoluciones hayan quedado firmes o sean cosa juzgada, para lo cual deberá señalar exclusivamente la denominación o razón social del infractor, el precepto infringido y la sanción.
+En ejercicio de sus facultades sancionadoras, las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, ajustándose a los lineamientos que aprueben sus Juntas de Gobierno, deberán hacer del conocimiento del público en general, a través de su portal de Internet, las sanciones que al efecto impongan por infracciones a esta Ley, una vez que dichas resoluciones hayan quedado firmes o sean cosa juzgada, para lo cual deberán señalar exclusivamente la denominación o razón social del infractor, el precepto infringido y la sanción.
 
-> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 ### CAPITULO III. De las Notificaciones
 
@@ -4082,9 +4174,13 @@ IV. Se hubiere efectuado por correo ordinario, telegrama, fax, medio electrónic
 
 ###### ARTICULO 110.
 
-Los afectados con motivo de los actos de la Comisión Nacional Bancaria y de Valores que pongan fin a los procedimientos de autorizaciones, de modificaciones a los modelos de contratos de adhesión utilizados por las instituciones de crédito o de la imposición de sanciones administrativas, podrán acudir en defensa de sus intereses interponiendo recurso de revisión, cuya interposición será optativa.
+Los afectados con motivo de los actos de las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, según corresponda, que pongan fin a los procedimientos de autorizaciones, de modificaciones a los modelos de contratos de adhesión utilizados por las instituciones de crédito o de la imposición de sanciones administrativas, podrán acudir en defensa de sus intereses interponiendo recurso de revisión, cuya interposición será optativa.
 
-El recurso de revisión deberá interponerse por escrito dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación del acto respectivo y deberá presentarse ante la Junta de Gobierno de la Comisión Nacional Bancaria y de Valores, cuando el acto haya sido emitido por dicha Junta o por el presidente de esa misma Comisión, o ante este último cuando se trate de actos realizados por otros servidores públicos.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+El recurso de revisión deberá interponerse por escrito dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación del acto respectivo y deberá presentarse ante la Junta de Gobierno de la Comisión que corresponda, cuando el acto haya sido emitido por dicha Junta o por el presidente de esa misma Comisión, o ante este último cuando se trate de actos realizados por otros servidores públicos.
+
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2008)</small>
 
 El escrito mediante el cual se interponga el recurso de revisión deberá contener:
 
@@ -4100,7 +4196,9 @@ V. Los agravios que se le causen con motivo del acto señalado en la fracción I
 
 VI. Las pruebas que se ofrezcan, las cuales deberán tener relación inmediata y directa con el acto impugnado.
 
-Cuando el recurrente no cumpla con alguno de los requisitos a que se refieren las fracciones I a VI de este artículo, la Comisión Nacional Bancaria y de Valores lo prevendrá, por escrito y por única ocasión, para que subsane la omisión prevenida dentro de los tres días hábiles siguientes al en que surta efectos la notificación de dicha prevención y, en caso que la omisión no sea subsanada en el plazo indicado en este párrafo, dicha Comisión lo tendrá por no interpuesto. Si se omitieran las pruebas se tendrán por no ofrecidas.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+Cuando el recurrente no cumpla con alguno de los requisitos a que se refieren las fracciones I a VI de este artículo, las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, según sea el caso, lo prevendrán, por escrito y por única ocasión, para que subsane la omisión prevenida dentro de los tres días hábiles siguientes al en que surta efectos la notificación de dicha prevención y, en caso que la omisión no sea subsanada en el plazo indicado en este párrafo, dicha Comisión lo tendrá por no interpuesto. Si se omitieran las pruebas se tendrán por no ofrecidas.
 
 > <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2008)</small>
 
@@ -4134,11 +4232,17 @@ V. Modificar o mandar reponer el acto impugnado o dictar u ordenar expedir uno n
 
 No se podrán revocar o modificar los actos administrativos en la parte no impugnada por el recurrente.
 
-El órgano encargado de resolver el recurso de revisión deberá atenderlo sin la intervención del servidor público de la Comisión Nacional Bancaria y de Valores que haya dictaminado la sanción administrativa que haya dado origen a la imposición del recurso correspondiente.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2009)</small>
 
-La resolución de los recursos de revisión deberá ser emitida en un plazo que no exceda a los noventa días hábiles posteriores a la fecha en que se interpuso el recurso, cuando deba ser resuelto por el presidente de la Comisión, ni a los ciento veinte días hábiles cuando se trate de recursos que sean competencia de la Junta de Gobierno.
+El órgano encargado de resolver el recurso de revisión deberá atenderlo sin la intervención del servidor público de la Comisión Nacional Bancaria y de Valores o de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros que haya dictaminado la sanción administrativa que haya dado origen a la imposición del recurso correspondiente.
 
-La Comisión Nacional Bancaria y de Valores deberá prever los mecanismos que eviten conflictos de interés entre el área que emite la resolución objeto del recurso y aquella que lo resuelve.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+La resolución de los recursos de revisión deberá ser emitida en un plazo que no exceda a los noventa días hábiles posteriores a la fecha en que se interpuso el recurso, cuando deba ser resuelto por los presidentes de las Comisiones, según corresponda, ni a los ciento veinte días hábiles cuando se trate de recursos que sean competencia de sus Juntas de Gobierno.
+
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+Las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros deberán prever los mecanismos que eviten conflictos de interés entre el área que emite la resolución objeto del recurso y aquella que lo resuelve.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 6 DE FEBRERO DE 2008)</small>
 
@@ -4550,19 +4654,9 @@ Tratándose de intercambios de información protegida por disposiciones de confi
 
 (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2005) (REUBICADO, D.O.F. 6 DE JULIO DE 2006)
 
-(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995) (REUBICADO, D.O.F. 6 DE JULIO DE 2006)
-
 ###### ARTICULO 118-A.
 
-La Comisión Nacional Bancaria y de Valores podrá revisar los modelos de contrato de adhesión utilizados por las instituciones de crédito.
-
-Para efectos de este artículo se entenderá por contrato de adhesión aquél elaborado unilateralmente por una institución, que conste en documentos de contenido uniforme en los que se establezcan los términos y condiciones aplicables a las operaciones activas que celebre la institución.
-
-La revisión tendrá por objeto determinar que los modelos de contrato se ajusten a la presente Ley, a las disposiciones emitidas conforme a ella y a los demás ordenamientos aplicables, así como verificar que dichos instrumentos no contengan estipulaciones confusas o que no permitan a la clientela conocer claramente el alcance de las obligaciones de los contratantes.
-
-La Comisión podrá ordenar que se modifiquen los modelos de contratos de adhesión y, en su caso, suspender su utilización hasta en tanto sean modificados.
-
-La Comisión Nacional Bancaria y de Valores podrá ordenar a las instituciones de crédito que publiquen las características de las operaciones que formalicen con contratos de adhesión, en los términos que la propia Comisión indique.
+(DEROGADO, D.O.F. 25 DE JUNIO DE 2009)
 
 ###### ARTICULO 118-B.
 
@@ -4580,7 +4674,9 @@ II. Se establezca en exclusiva o se imponga la apertura de cuentas o el uso de m
 
 Las instituciones adicionalmente deberán observar lo previsto en el artículo 17 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
 
-La Comisión Nacional Bancaria y de Valores dará vista a la Comisión Federal de Competencia, cuando en el ejercicio de sus facultades detecte la existencia de alguna de las prácticas mencionadas en este artículo, a efecto de que esta última en el ámbito de su competencia, resuelva lo que conforme a derecho corresponda.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2009)</small>
+
+Las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros darán vista a la Comisión Federal de Competencia, cuando en el ejercicio de sus facultades detecten la existencia de alguna de las prácticas mencionadas en este artículo, a efecto de que esta última en el ámbito de su competencia, resuelva lo que conforme a derecho corresponda.
 
 ###### ARTICULO 120.
 
@@ -4642,9 +4738,11 @@ Con el fin de que no se afecten los intereses del público en cuanto a la dispon
 
 La supervisión de las entidades reguladas por la presente Ley estará a cargo de la Comisión Nacional Bancaria y de Valores, quien la llevará a cabo sujetándose a lo previsto en su Ley, en el Reglamento respectivo y en las demás disposiciones que resulten aplicables. La citada Comisión podrá efectuar visitas a las instituciones de crédito, que tendrán por objeto revisar, verificar, comprobar y evaluar las operaciones, organización, funcionamiento, los procesos, los sistemas de control interno, de administración de riesgos y de información, así como el patrimonio, la adecuación del capital a los riesgos, la calidad de los activos y, en general, todo lo que pudiendo afectar la posición financiera y legal, conste o deba constar en los registros, a fin de que las instituciones de crédito se ajusten al cumplimiento de las disposiciones que las rigen y a las sanas prácticas de la materia.
 
-Asimismo, la Comisión Nacional Bancaria y de Valores podrá investigar hechos, actos u omisiones de los cuales pueda presumirse la violación a esta Ley y demás disposiciones que de ella deriven.
+La supervisión de las entidades reguladas por la presente Ley respecto de lo previsto por los artículos 48 Bis 5, 94 Bis y 96 Bis, párrafos segundo, tercero y cuarto, así como de las materias expresamente conferidas por otras Leyes, estará a cargo de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, quien la llevará a cabo sujetándose a lo previsto en la Ley de Protección y Defensa al Usuario de Servicios Financieros, en el Reglamento respectivo y en las demás disposiciones que resulten aplicables. La Comisión Nacional Bancaria y de Valores a solicitud de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros efectuará visitas a las instituciones de crédito, que tendrán por objeto revisar, verificar, comprobar y evaluar que las instituciones de crédito se ajusten al cumplimiento de las disposiciones a que se refiere este párrafo.
 
-Las visitas podrán ser ordinarias, especiales y de investigación, las primeras se llevarán a cabo de conformidad con el programa anual que se establezca al efecto; las segundas serán aquellas que sin estar incluidas en el programa anual referido, se practiquen en cualquiera de los supuestos siguientes:
+Asimismo, las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, en sus respectivas competencias, podrán investigar hechos, actos u omisiones de los cuales pueda presumirse la violación a esta Ley y demás disposiciones que de ella deriven.
+
+Las visitas que efectúe la Comisión Nacional Bancaria y de Valores podrán ser ordinarias, especiales y de investigación, las primeras se llevarán a cabo de conformidad con el programa anual que se establezca al efecto; las segundas serán aquellas que sin estar incluidas en el programa anual referido, se practiquen en cualquiera de los supuestos siguientes:
 
 I. Para examinar y, en su caso, corregir situaciones especiales operativas.
 
@@ -4658,23 +4756,31 @@ V. Cuando se presenten actos, hechos u omisiones en una institución de crédito
 
 VI. Cuando deriven de la cooperación internacional.
 
-Las visitas de investigación se efectuarán siempre que la Comisión tenga indicios de los cuales pueda desprenderse la realización de alguna conducta que presuntamente contravenga lo previsto en esta Ley y demás disposiciones de carácter general que emanen de ella.
+Las visitas de investigación se efectuarán siempre que la Comisión Nacional Bancaria y de Valores tenga indicios de los cuales pueda desprenderse la realización de alguna conducta que presuntamente contravenga lo previsto en esta Ley y demás disposiciones de carácter general que emanen de ella.
 
-En todo caso, las visitas a que se refiere este artículo se sujetarán a lo dispuesto en esta Ley, en la Ley de la Comisión Nacional Bancaria y de Valores, en el Reglamento a que se refiere el primer párrafo de este mismo artículo, así como a las demás disposiciones que resulten aplicables.
+En todo caso, las visitas a que se refiere este artículo se sujetarán a lo dispuesto en esta Ley, en la Ley de la Comisión Nacional Bancaria y de Valores, en los Reglamentos a que se refiere el primer y segundo párrafos de este mismo artículo, así como a las demás disposiciones que resulten aplicables.
 
 Cuando, en el ejercicio de la función prevista en este artículo, la Comisión Nacional Bancaria y de Valores así lo requiera, podrá contratar los servicios de auditores y de otros profesionistas que le auxilien en dicha función.
 
-La vigilancia se efectuará a través del análisis de la información contable, legal, económica, financiera, administrativa, de procesos y de procedimientos que obtenga la Comisión con base en las disposiciones que resulten aplicables, con la finalidad de evaluar el apego a la normativa que rige a las instituciones de crédito, así como la estabilidad y correcto funcionamiento de éstas.
+La vigilancia por parte de la Comisión Nacional Bancaria y de Valores se efectuará a través del análisis de la información contable, legal, económica, financiera, administrativa, de procesos y de procedimientos que obtenga dicha Comisión con base en las disposiciones que resulten aplicables, con la finalidad de evaluar el apego a la normativa que rige a las instituciones de crédito, así como la estabilidad y correcto funcionamiento de éstas.
+
+La vigilancia por parte de la Comisión para la Protección y Defensa de los Usuarios de Servicios Financieros se efectuará a través del análisis de la información que obtenga dicha Comisión con base en las disposiciones que resulten aplicables, con la finalidad de evaluar el apego a las normas jurídicas que sean de su competencia que rigen a las instituciones de crédito, así como la adecuada protección de los usuarios de servicios financieros.
 
 Sin perjuicio de la información y documentación que las instituciones de crédito deban proporcionarle periódicamente, la Comisión Nacional Bancaria y de Valores podrá, dentro del ámbito de las disposiciones aplicables, solicitarles la información y documentación que requiera para poder cumplir con su función de vigilancia.
 
-La Comisión Nacional Bancaria y de Valores como resultado de sus facultades de supervisión, podrá formular observaciones y ordenar la adopción de medidas tendientes a corregir los hechos, actos u omisiones irregulares que haya detectado con motivo de dichas funciones, en términos de esta Ley.
+Las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros como resultado de sus facultades de supervisión, podrán formular observaciones y ordenar la adopción de medidas tendientes a corregir los hechos, actos u omisiones irregulares que hayan detectado con motivo de dichas funciones, en términos de esta Ley.
+
+La Secretaría de Hacienda y Crédito Público en ejercicio de las atribuciones que le confiere el artículo 5o. de la presente Ley, resolverá las consultas que se presenten respecto del ámbito de competencia en materia de supervisión que corresponde a las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros.
+
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 134.
 
-La vigilancia consistirá en cuidar que las instituciones cumplan con las disposiciones de esta Ley y las que deriven de la misma, y atiendan las observaciones e indicaciones de la Comisión, como resultado de las visitas de inspección practicadas.
+La vigilancia consistirá en cuidar que las instituciones cumplan con las disposiciones de esta Ley y las que deriven de la misma, y atiendan las observaciones e indicaciones de las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, como resultado de las visitas de inspección practicadas por la Comisión Nacional Bancaria y de Valores.
 
-Las medidas adoptadas en ejercicio de esta facultad serán preventivas para preservar la estabilidad y solvencia de las instituciones, y normativas para definir criterios y establecer reglas y procedimientos a los que deban ajustar su funcionamiento, conforme a lo previsto en esta Ley.
+Las medidas adoptadas por la Comisión Nacional Bancaria y de Valores en ejercicio de esta facultad serán preventivas para preservar la estabilidad y solvencia de las instituciones, y normativas para definir criterios y establecer reglas y procedimientos a los que deban ajustar su funcionamiento, conforme a lo previsto en esta Ley.
+
+Las medidas adoptadas por la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros en ejercicio de su facultad de supervisión serán preventivas para la adecuada protección de los usuarios de servicios financieros, conforme a lo previsto en esta y otras Leyes.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
@@ -4830,15 +4936,19 @@ La referida Comisión, al ejercer las facultades de supervisión sobre los fidei
 
 La Comisión Nacional Bancaria y de Valores emitirá reglas prudenciales, de registro contable de operaciones, de requerimientos de información financiera, de estimación de activos y pasivos y de constitución de reservas preventivas, aplicables a los fideicomisos a que se refiere este artículo.
 
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 135.
 
-Las instituciones de crédito y las sociedades sujetas a la inspección y vigilancia de la Comisión, estarán obligadas a prestar a los inspectores todo el apoyo que se les requiera, proporcionando los datos, informes, registros, libros de actas, auxiliares, documentos, correspondencia y en general, la documentación que los mismos estimen necesaria para el cumplimiento de su cometido; pudiendo tener acceso a sus oficinas, locales y demás instalaciones.
+Las instituciones de crédito y las sociedades sujetas a la inspección y vigilancia de las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, estarán obligadas a prestar a los inspectores todo el apoyo que se les requiera, proporcionando los datos, informes, registros, libros de actas, auxiliares, documentos, correspondencia y en general, la documentación que los mismos estimen necesaria para el cumplimiento de su cometido; pudiendo tener la Comisión Nacional Bancaria y de Valores acceso a sus oficinas, locales y demás instalaciones.
 
-> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 136.
 
-Los servidores públicos de la Comisión Nacional Bancaria y de Valores tendrán prohibido realizar operaciones con las instituciones sujetas a supervisión de esta última, en condiciones preferentes a las ofrecidas al público en general.
+Los servidores públicos de las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros tendrán prohibido realizar operaciones con las instituciones sujetas a supervisión de dichas comisiones, en condiciones preferentes a las ofrecidas al público en general.
+
+> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 Dichos servidores públicos deberán cumplir con los requisitos del perfil del puesto que determine la referida Comisión, conforme a lo dispuesto por la Ley del Servicio Profesional de Carrera en la Administración Pública Federal.
 
@@ -4952,7 +5062,7 @@ En adición a lo dispuesto por el artículo 140 de esta Ley, el administrador ca
 
 ### CAPITULO II. De la Inspección y Vigilancia
 
-> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 142.
 
@@ -5923,3 +6033,41 @@ D.O.F. 23 DE MARZO DE 2009.
 D.O.F. 6 DE MAYO DE 2009.
 
 Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE JUNIO DE 2009.
+
+DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES DE CREDITO.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Las nuevas atribuciones de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros para emitir disposiciones de carácter general previstas en las reformas y adiciones a la Ley de Instituciones de Crédito y la Ley para la Transparencia y Ordenamiento de los Servicios Financieros previstas en este Decreto entrarán en vigor a los ciento ochenta días naturales siguientes al de su publicación en el Diario Oficial de la Federación.
+
+...
+
+###### ARTÍCULO CUARTO.
+
+La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros deberá efectuar las gestiones que sean necesarias para contar con una estructura orgánica que le permita dar cumplimiento a lo dispuesto por el presente decreto en los plazos de inicio de su vigencia.
+
+Las infracciones cometidas con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la Ley vigente al momento de cometerse las citadas infracciones o delitos.
+
+En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos que se estipulan mediante el presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+En tanto la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros emita las disposiciones de carácter general a que se refieren las reformas contenidas en el presente Decreto, seguirán aplicándose las expedidas con anterioridad a la vigencia de la misma, en las materias correspondientes, en lo que no se oponga al presente Decreto.
+
+Al expedirse las disposiciones a que se refiere este artículo, se señalarán expresamente aquéllas a las que sustituyan o que queden derogadas.
+
+...
+
+D.O.F. 25 DE JUNIO DE 2009.
+
+DECRETO POR EL QUE SE REFORMA LA FRACCION VI DEL ARTICULO 46 BIS 1 DE LA LEY DE INSTITUCIONES DE CREDITO.
+
+Único.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
