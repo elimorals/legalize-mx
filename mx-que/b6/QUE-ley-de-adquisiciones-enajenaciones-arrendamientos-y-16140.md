@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-adquisiciones-enajenaciones-arrendamientos-y-16140"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-24"
-last_updated: "2007-12-10"
+last_updated: "2009-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 26 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley Publicada en el Periódico Oficial del Estado de Querétaro, el viernes 24 de marzo del 2000.
 
@@ -994,3 +996,13 @@ Se derogan todas aquellas disposiciones que se opongan a la presente ley.
 ###### ARTÍCULO SEXTO.
 
 Publíquese esta ley en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 26 DE JUNIO DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número doce, de fecha veinticuatro de marzo del año dos mil.
+
+Artículo Tercero. Los procedimientos que se encuentren en trámite al momento de entrar en vigor la presente Ley, se continuarán hasta su total resolución, conforme a las disposiciones legales vigentes en el momento en que dieron inicio.
+
+Artículo Cuarto. Los Ayuntamientos del Estado de Querétaro, en uso de las facultades que les confiere el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, deberán emitir las disposiciones reglamentarias que sean exclusivas de su competencia, hasta en tanto, deberán sujetarse a las bases que señala la presente Ley.
