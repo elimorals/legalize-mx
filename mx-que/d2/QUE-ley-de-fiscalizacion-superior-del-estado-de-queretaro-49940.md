@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-fiscalizacion-superior-del-estado-de-queretaro-49940"
 country: "mx"
 rank: "ley"
 publication_date: "2006-03-24"
-last_updated: "2007-09-07"
+last_updated: "2009-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 26 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 24 de marzo de 2006.
 
@@ -526,3 +528,27 @@ P.O. 7 DE SEPTIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 26 DE JUNIO DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley de Fiscalización Superior del Estado de Querétaro, publicada el 24 de marzo de 2006, en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Tercero. Los asuntos y procesos de fiscalización que se encuentren en trámite en la Entidad Superior de Fiscalización del Poder Legislativo al entrar en vigor esta Ley, continuarán tramitándose hasta su conclusión por el organismo publico autónomo denominado Entidad Superior de Fiscalización del Estado, en los términos de la ley que regía cuando se iniciaron.
+
+Artículo Cuarto. La Entidad Superior de Fiscalización actualizará, conforme a las disposiciones de esta Ley, la normatividad interna que reglamente su organización y funcionamiento, así como las reglas técnicas relativas al proceso de fiscalización, en un plazo no mayor de noventa días hábiles, contados a partir del día siguiente al de la publicación de esta Ley.
+
+Artículo Quinto. Los servidores públicos adscritos a la Entidad Superior de Fiscalización del Poder Legislativo del Estado de Querétaro, pasarán a formar parte del organismo público autónomo denominado Entidad Superior de Fiscalización del Estado, respetándose sus derechos laborales en términos de la Ley.
+
+De igual manera, todos los bienes muebles e inmuebles y los recursos financieros asignados a la Entidad Superior de Fiscalización del Poder Legislativo del Estado, pasarán a formar parte del patrimonio del organismo público autónomo denominado Entidad Superior de Fiscalización del Estado.
+
+Para todo lo anterior, deberán elaborarse las actas entrega recepción y demás documentos que resulten necesarios para que se hagan constar los bienes y derechos que se transmiten, así como los derechos relativos al personal que se incorporará al mencionado organismo público autónomo denominado Entidad Superior de Fiscalización del Estado.
+
+Artículo Sexto. Para todos los efectos legales a que haya lugar, el Organismo Público Autónomo denominado Entidad Superior de Fiscalización del Estado, sustituirá a la Entidad Superior de Fiscalización del Poder Legislativo del Estado, incluso en el cumplimiento de las obligaciones y el ejercicio de los derechos derivados y que se deriven de los convenios, contratos y demás actos jurídicos celebrados por ésta última, lo que operará de pleno derecho, sin necesidad de ratificaciones o suscripciones para tales efectos, subrogándose por lo tanto, en todos sus derechos y obligaciones.
+
+Artículo Séptimo. En tanto se expida la normatividad interior de la Entidad Superior del Estado de Querétaro a que se refiere la presente Ley, seguirán en vigor, en lo que no la contravengan, aquellas disposiciones que han regido hasta el momento a la Entidad Superior de Fiscalización del Poder Legislativo del Estado.
+
+Artículo Octavo. Las referencias a la Entidad Superior de Fiscalización del Poder Legislativo del Estado, que hagan las Leyes y demás disposiciones normativas, se entenderán realizadas al organismo público autónomo denominado Entidad Superior de Fiscalización del Estado.
+
+Artículo Noveno. Los Ayuntamientos del Estado de Querétaro, en uso de las facultades que les confiere el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, deberán emitir las disposiciones reglamentarias que sean exclusivas de su competencia, hasta en tanto, deberán sujetarse a las bases que señala la presente Ley.
