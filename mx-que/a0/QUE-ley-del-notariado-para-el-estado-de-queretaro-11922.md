@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-notariado-para-el-estado-de-queretaro-11922"
 country: "mx"
 rank: "ley"
 publication_date: "1976-10-28"
-last_updated: "1998-03-20"
+last_updated: "2009-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DEL NOTARIADO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA PERIODICO OFICIAL: 20 DE MARZO DE 1998.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 26 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el 28 de octubre de 1976.
 
@@ -33,7 +35,7 @@ LA CUADRAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL ESTADO DE QUERÉTARO, EN 
 
 L E Y :
 
-DEL NOTARIADO PARA EL ESTADO DE QUERÉTARO
+DEL NOTARIADO PARA EL ESTADO DE QUERÉTARO.
 
 ### CAPITULO I
 
@@ -1294,3 +1296,17 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Per
 ###### ARTICULO SEGUNDO.
 
 Las disposiciones jurídicas que se opongan a la presente, quedan suspendidas durante la vigencia de ésta, a cuyo término recobrarán aquellas su pleno vigor; para los efectos únicos del presente cuerpo de Ley.
+
+P.O. 26 DE JUNIO DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. El Archivo General de Notarías deberá implementar el Sistema Informático a que se refiere la presente Ley, dentro de los 90 días siguientes a la entrada en vigor de la presente Ley.
+
+Artículo Tercero. Se abroga la Ley del Notariado para el Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número 44, de fecha 28 de octubre de 1976.
+
+Artículo Cuarto. Se abroga la Ley del Arancel de Notarios del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número 9, de fecha 28 de febrero de 1991.
+
+Artículo Quinto. El Poder Ejecutivo del Estado de Querétaro, emitirá las normas reglamentarias de la presente Ley, que resulten necesarias para su aplicación.
+
+Artículo Sexto. Se derogan todas las disposiciones que se opongan a la presente Ley.
