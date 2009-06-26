@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-municipal-para-el-funcionamiento-de-actividades-3365
 country: "mx"
 rank: "reglamento"
 publication_date: "1955-02-28"
-last_updated: "1955-02-28"
+last_updated: "2009-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3365&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "BCN"
 
 REGLAMENTO MUNICIPAL PARA EL FUNCIONAMIENTO DE ACTIVIDADES COMERCIALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el lunes 28 de febrero de 1955.
 
@@ -42,9 +42,11 @@ Para los efectos de este Reglamento, se considerarán actividades comerciales, t
 
 El ejercicio del comercio es libre en los términos de la Constitución General del País, de la particular del Estado y de las Leyes y Reglamentos que de ellas emanen, sin más limitaciones que las que imponen la seguridad, el orden de comodidad, la salud y el decoro públicos y las que expresamente señalen las propias leyes en vigor.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 3.
 
-La Autoridad Municipal es la legalmente obligada a cuidar, en primer término, de la seguridad del orden, de la moral, de la comodidad, de la salud y el decoro públicos en el Municipio, y en consecuencia, tiene facultades para reglamentar las diversas actividades de la vida municipal.
+La Autoridad Municipal es la legalmente obligada a cuidar, en primer término, de la seguridad del orden, de la moral, de la comodidad, de la salud y el decoro públicos en el Municipio, y en consecuencia, tiene facultades para reglamentar las diversas actividades de la vida municipal, así como establecer los mecanismos que promuevan la igualdad de oportunidades para el desarrollo integral de las personas con discapacidad en la Ciudad de Tijuana, según lo establecido por la Constitución Política de los Estados Unidos Mexicanos, la propia del Estado de Baja California, y las Leyes y Reglamentos que de ellas emanen.
 
 ###### ARTICULO 4.
 
@@ -156,6 +158,14 @@ XIV.- Cumplimentar fiel y oportunamente las disposiciones que sobre aseo, alumbr
 
 XV.- No colocar ni en los muros ni aceras exteriores de sus locales respectivos, alacenas o mercancías.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JUNIO DE 2009)</small>
+
+XVI.- Vigilar que los cajones de estacionamiento destinados a personas con discapacidad sean utilizados única y exclusivamente por estos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JUNIO DE 2009)</small>
+
+XVII.- Permitir el acceso de perros guía que utilicen personas con discapacidad siempre y cuando el canino cuente con su identificación visible, con los elementos de sujeción correspondiente y con sus respectivas medidas de sanidad y de higiene básicas.
+
 ###### ARTICULO 18.
 
 Los propietarios de establecimientos comerciales, serán directamente responsables de las violaciones que ellos o sus dependientes cometan a las disposiciones contenidas en el presente Reglamento.
@@ -216,13 +226,17 @@ V.- Tener como mínimo, pisos de cemento, o materiales similares.
 
 VI.- Contar con los suficientes extinguidores de incendios.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JUNIO DE 2009)</small>
+
+VII.- Rampas de acceso y áreas de cajones de estacionamiento debidamente señaladas y destinadas para personas con discapacidad, según lo establecido en los ordenamientos legales en la materia.
+
 ###### ARTICULO 29.
 
 Las Autoridades Municipales están obligadas a vigilar por el buen aspecto, seguridad y comodidad de las poblaciones de su jurisdicción, y, en consecuencia, negará la autorización para que se instalen puestos fijos o semi-fijos en la vía pública.
 
 ###### ARTICULO 30.
 
-La Autoridad Municipal está facultada para permitir o negar, con sujeción al Reglamento respectivo, permisos para ejercer el comercio ambulante, así como para fijar los efectos de comercio que puedan expenderse en esa forma; pero en ningún caso podrá permitir que esta actividad se ejerza dentro del cuadro comprendido entre las calles 1a.y 8a. y Avenidas Madero y "D".
+La Autoridad Municipal está facultada para permitir o negar, con sujeción al Reglamento respectivo, permisos para ejercer el comercio ambulante, así como para fijar los efectos de comercio que puedan expenderse en esa forma; pero en ningún caso podrá permitir que esta actividad se ejerza dentro del cuadro comprendido entre las calles 1a. y 8a. y Avenidas Madero y "D".
 
 ###### ARTICULO 31.
 
@@ -333,3 +347,9 @@ Cualquier persona que resulte afectada por la aplicación de las disposiciones q
 Tijuana, Baja California, ocho de mayo de mil novecientos cincuenta y cuatro.
 
 Dr. Gustavo Aubanel V., Presidente Municipal.- Lic.José Villalobos M., Síndico.- Regidores, Gumersindo Ibarra Ceceña; Francisco López Meneses; Antonio Banuet Olea; Daniel L. Orozco; Rebeca H. de Jiménez. Firmado.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE JUNIO DE 2009.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3O. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
