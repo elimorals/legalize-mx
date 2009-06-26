@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2008-11-14"
+last_updated: "2009-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2009.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -3613,29 +3613,35 @@ También podrá exigir declaración bajo protesta a los testigos que los interes
 
 ### CAPITULO SEGUNDO. De los requisitos de fondo para contraer matrimonio
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2009)</small>
+
 ###### Artículo 697.
 
-Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años de edad y la mujer catorce. El Presidente Municipal o los delegados municipales del domicilio del menor, según el caso, pueden dispensar la edad por causas graves y justificadas. Cuando el Presidente Municipal o los delegados estén encargados por ministerio de la ley de la oficialía del Registro Civil, el concejal que legalmente deba substituirlo en la presidencia será quien otorgue la dispensa.
+Para contraer matrimonio es necesario que ambos contrayentes sean mayores de edad.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2009)</small>
 
 ###### Artículo 698.
 
-Los menores no pueden contraer matrimonio sin el consentimiento de quienes ejerzan sobre ellos la patria potestad o en su caso la tutela y a falta de unos y otros, suplirá el consentimiento el Presidente Municipal o el Delegado Municipal, en su caso, del domicilio del menor.
+Los menores de edad podrán contraer matrimonio, siempre que ambos hayan cumplido dieciséis años. Para tal efecto, se requerirá del consentimiento de quien ejerce la patria potestad o en su defecto el tutor; y a falta o por negativa o imposibilidad de éstos, el Juez de lo Familiar suplirá dicho consentimiento, el cual deberá ser otorgado atendiendo a las circunstancias especiales del caso.
 
-Los interesados también podrán ocurrir a esos funcionarios cuando los ascendientes o tutores nieguen su consentimiento o revoquen el que hubieren concedido.
+Los interesados también podrán acudir ante el Juez Familiar cuando los ascendientes o tutores nieguen su consentimiento o revoquen el que hubieren concedido.
 
-Los mismos funcionarios a que se refieren los párrafos anteriores, en su caso, decidirán si se otorga o no el consentimiento, cuando haya disensión al respecto entre los dos ascendientes que ejerzan la patria potestad.
+El Juez de lo Familiar, decidirá si se otorga o no el consentimiento, cuando haya disensión al respecto entre los dos ascendientes que ejerzan la patria potestad.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2009)</small>
 
 ###### Artículo 699.
 
 Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio falleciere antes de que éste se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo.
 
-El Presidente o Delegado Municipal que hubiere autorizado a un menor para contraer matrimonio no podrá revocar el consentimiento una vez que lo haya otorgado, sino por justa causa superveniente.
+El Juez Familiar que hubiere autorizado a un menor a contraer matrimonio no podrá revocar el consentimiento una vez que lo haya otorgado, sino por Justa causa superveniente.
 
 ###### Artículo 700.
 
 Son impedimentos para celebrar el contrato de matrimonio:
 
-I.- La falta de edad requerida por la ley, cuando no haya sido dispensada;
+I.- (DEROGADA, P.O. 26 DE JUNIO DE 2009)
 
 II.- La falta de consentimiento del que o de los que ejerzan la patria potestad, del tutor o del juez en sus respectivos casos;
 
@@ -3659,9 +3665,9 @@ XI.- La locura, el idiotismo y la imbecilidad; y
 
 XII.- El matrimonio subsistente con persona distinta de aquélla con quien se pretenda contraer, o subsistente con ésta.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2009)</small>
 
-De estos impedimentos son dispensables por el Presidente Municipal o por el Delegado Municipal que deba sustituirlo, la falta de edad y el parentesco de consanguinidad en línea colateral desigual.
+De estos impedimentos son dispensables por el Juez Familiar de la residencia del menor, el parentesco de consaguinidad en línea colateral desigual.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE NOVIEMBRE DE 2008)</small>
 
@@ -3675,11 +3681,13 @@ El adoptante, los ascendientes y los descendientes de éste no pueden contraer m
 
 La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese plazo diere a luz un hijo o demuestre plenamente por dictamen médico que no está embarazada. En los casos de nulidad o de divorcio, puede contarse este tiempo desde que se interrumpió la cohabitación.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2009)</small>
+
 ###### Artículo 703.
 
-El tutor y sus descendientes no pueden contraer matrimonio con la persona que ha estado o está bajo su guarda, a no ser que obtenga dispensa, la que no se le concederá por el Presidente Municipal o Delegado Municipal respectivo, sino cuando hayan sido aprobadas las cuentas de la tutela.
+El tutor y sus descendientes no pueden contraer matrimonio con la persona que ha estado o está bajo su guarda, a no ser que se obtenga dispensa del Juez de lo Familiar de la residencia que corresponda.
 
-Si el matrimonio se celebrare en contravención de lo dispuesto en el artículo anterior, el Juez nombrará inmediatamente un tutor interino que reciba los bienes y los administre mientras se obtiene la dispensa.
+Si el matrimonio se celebrare en contravención de lo dispuesto en el artículo anterior, el Juez Familiar nombrará inmediatamente un tutor Interino que reciba los bienes y los administre mientras se obtiene la dispensa.
 
 ###### Artículo 704.
 
@@ -17100,3 +17108,7 @@ P.O. 14 DE NOVIEMBRE DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Los trámites iniciados en el Registro Civil del Estado para el efecto de contraer matrimonio con anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones vigentes en el momento de su solicitud.
+
+P.O. 26 DE JUNIO DE 2009.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
