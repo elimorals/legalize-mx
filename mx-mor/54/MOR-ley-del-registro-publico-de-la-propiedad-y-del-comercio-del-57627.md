@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-registro-publico-de-la-propiedad-y-del-comercio-del-576
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-28"
-last_updated: "2007-11-28"
+last_updated: "2009-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 28 de noviembre de 2007.
 
@@ -291,9 +291,13 @@ XIX. Ejecutar los acuerdos de la Junta de Gobierno, dictar las medidas necesaria
 
 XX. Presentar a la Junta de Gobierno el proyecto de presupuesto de egresos y en su caso el de ingresos, con la oportunidad que señale la Dependencia Coordinadora;
 
-XXI. Someter a la aprobación de la Junta de Gobierno el programa anual de actividades, y
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2009)</small>
 
-XXII. Las demás que establezcan las disposiciones legales vigentes.
+XXI.- Organizar y coordinar el Archivo General de Notarías del Estado, en los términos que establece la Ley del Notariado del Estado de Morelos;
+
+XXII. Someter a la aprobación de la Junta de Gobierno el programa anual de actividades, y
+
+XXIII. Las demás que establezcan las disposiciones legales vigentes.
 
 El Director General podrá delegar en servidores públicos subalternos, por escrito, las atribuciones referidas en las fracciones IV, V y VI del presente artículo.
 
@@ -1258,3 +1262,9 @@ Por tanto mando se imprima, publique circule y se le dé el debido cumplimiento.
 Dado en la Residencia del Poder Ejecutivo en la Ciudad de Cuernavaca, Capital del Estado de Morelos, a los veintiséis días del mes de Noviembre de dos mil siete. "SUFRAGIO EFECTIVO. NO REELECCIÓN". GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS DR. MARCO ANTONIO ADAME CASTILLO SECRETARIO DE GOBIERNO LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE JUNIO DE 2009.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
