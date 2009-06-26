@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-instituto-de-artesanias-e-51589"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-08-23"
-last_updated: "2006-08-23"
+last_updated: "2009-06-26"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51589&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE ARTESANIAS E INDUSTRIAS POPULARES DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE ARTESANIAS E INDUSTRIAS POPULARES DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 26 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: SIN EFECTOS.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 23 de agosto de 2006.
 
@@ -245,3 +247,19 @@ II. Las ausencias de cualquiera de los Directores y demás servidores públicos 
 Artículo Único. El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Dado en el seno de la Junta Directiva del Organismo Público Descentralizado denominado "Instituto de Artesanías e Industrias Populares del Estado de Puebla", en su sesión extraordinaria de fecha veinticuatro de julio de dos mil seis.- Integrantes de la Junta Directiva: El Secretario de Desarrollo Económico en su carácter de Presidente Ejecutivo. LICENCIADO GERARDO FERNÁNDEZ SÁNCHEZ.- Rúbrica.- Por el Secretario de Turismo en su carácter de Vocal.- LICENCIADO VÍCTOR CÁRDENAS GUZMÁN.- Rúbrica.- Por el Secretario de Desarrollo Social en su carácter de Vocal.- LICENCIADO JOSÉ DELFINO MEZA GUERRERO.- Rúbrica.- Por el Secretario de Finanzas y Administración en su carácter de Vocal.- LICENCIADA MÓNICA ÁGUILA LÓPEZ.- Rúbrica.- Por el Secretario de Cultura en su carácter de Vocal. ARQUITECTA YOLANDA RÍOS CERÓN.- Rúbrica.- Por el Secretario de Trabajo y Competitividad en su carácter de Vocal.- CONTADOR PÚBLICO ALFREDO SÁNCHEZ RUIZ.- Rúbrica.- Por la Comisión Estatal para el Desarrollo Integral de los Pueblos Indígenas. LICENCIADO MOISÉS VENECIAS BUSTAMANTES.- Rúbrica.- El Presidente de la Unión de Artesanos del Estado de Puebla, A.C., en su carácter de Vocal.-CIUDADANO ENRIQUE ESCALERA MELGAREJO.- Rúbrica.- El Presidente del Consejo Regulador de Talavera, A.C., en su carácter de Vocal.- LICENCIADA MARÍA ENRIQUETA GAMBOA CERDÁN.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 26 DE JUNIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deja sin efecto el Reglamento Interior del Instituto de Artesanías e Industrias Populares del Estado de Puebla, publicado en el Periódico Oficial del Estado de Puebla, el día 23 de agosto del año dos mil seis.
+
+###### ARTÍCULO TERCERO.
+
+Todos los acuerdos, circulares y demás lineamientos emitidos con anterioridad, tendrán validez en todo lo que no se oponga al presente Reglamento.
