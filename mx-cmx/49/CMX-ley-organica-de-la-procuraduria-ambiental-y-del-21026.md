@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-procuraduria-ambiental-y-del-21026"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-04-24"
-last_updated: "2008-10-31"
+last_updated: "2009-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21026&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2001-04-09"
 
 LEY ORGANICA DE LA PROCURADURIA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE JUNIO DE 2009.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 24 de abril de 2001.
 
@@ -1076,11 +1076,11 @@ Las Recomendaciones y Sugerencias, se referirán a casos concretos. Las autorida
 
 #### Sección IV. De los recursos
 
-> <small>(REFORMADO, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 26 DE JUNIO DE 2009)</small>
 
 ###### Artículo 35.
 
-En contra de las resoluciones definitivas que dicte la Procuraduría, con motivo de los procedimientos de reconocimiento de hechos y las acciones precautorias que inicie en las materias a que se refiere ésta Ley, será procedente el recurso de inconformidad previsto en la Ley de Procedimiento Administrativo del Distrito Federal y su desahogo se dará conforme a lo dispuesto en ese ordenamiento.
+En contra de las resoluciones que dicte la Procuraduría, con motivo de la imposición de las acciones precautorias a que se refiere esta Ley, será procedente el recurso de inconformidad previsto en la Ley de Procedimiento Administrativo del Distrito Federal y su desahogo se dará conforme a lo dispuesto en este ordenamiento.
 
 > <small>(ADICIONADO, G.O. 9 DE ENERO DE 2006)</small>
 
@@ -1135,3 +1135,11 @@ CUARTO.- Los procedimientos y recursos administrativos iniciados con anteriorida
 QUINTO.- El Jefe de Gobierno realizará las reformas pertinentes al Reglamento de estas Leyes, a efecto de armonizarlo con el presente decreto, dentro de los tres meses siguientes de su publicación.
 
 SEXTO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+G.O. 26 DE JUNIO DE 2009.
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Túrnese al Jefe de Gobierno del Distrito Federal para su debida promulgación y publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
