@@ -4,7 +4,7 @@ identifier: "COA-ley-de-la-comision-de-los-derechos-humanos-del-estado-de-56012"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-05"
-last_updated: "2009-05-12"
+last_updated: "2009-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2009.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 5 de junio de 2007.
 
@@ -121,9 +121,11 @@ La Comisión resolverá con libertad los asuntos de su competencia, sin interfer
 
 La Comisión es un organismo público autónomo frente a cualquier órgano del gobierno federal, estatal y municipal. Por tanto, su competencia no podrá ser vulnerada o restringida por dichos gobiernos.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 7.
 
-La Comisión podrá promover controversias constitucionales y acciones de inconstitucionalidad locales, en los términos que establece el artículo 158, fracción I, supuesto número 8, y fracción II, incisos d y e, de la Constitución y demás disposiciones aplicables.
+La Comisión podrá promover controversias constitucionales y acciones de inconstitucionalidad locales, en los términos que establece el artículo 158, fracción I, supuesto número 8, y fracción II, supuesto número II, inciso d, de la Constitución Política del Estado y demás disposiciones aplicables.
 
 ###### ARTÍCULO 8.
 
@@ -1554,3 +1556,9 @@ Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos 
 Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE JUNIO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
