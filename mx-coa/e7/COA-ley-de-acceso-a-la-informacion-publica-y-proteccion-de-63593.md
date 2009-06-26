@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-a-la-informacion-publica-y-proteccion-de-63593"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-02"
-last_updated: "2008-09-02"
+last_updated: "2009-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES PARA EL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2009.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 2 de septiembre de 2008.
 
@@ -73,7 +73,9 @@ II. Días: Días hábiles.
 
 III. Documentos: Los expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, notas, memorandos, estadísticas o bien, cualquier otro registro que documente el ejercicio de las facultades o la actividad de los sujetos obligados y sus servidores públicos. Los documentos podrán estar en cualquier medio, entre otros escrito, impreso, sonoro, visual, electrónico, informático u holográfico.
 
-IV. Entidad Pública: Los sujetos obligados a proporcionar información en los términos de esta ley y demás disposiciones aplicables, contenidos en el artículo sexto de esta ley, con excepción de los partidos políticos y las agrupaciones políticas.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2009)</small>
+
+IV. Entidad Pública: Los sujetos obligados a proporcionar información en los términos de esta ley y demás disposiciones aplicables, contenidos en el artículo 6 de esta ley, con excepción de los partidos políticos y las agrupaciones políticas.
 
 V. Expediente: Un conjunto de documentos relacionados.
 
@@ -160,6 +162,8 @@ III. Asegurar la protección de los datos personales en su posesión, en términ
 IV. Dar acceso a la información pública que le sea requerida, en los términos de ésta ley y demás disposiciones aplicables;
 
 V. Capacitar a los servidores públicos en materia de transparencia y acceso a la información pública y protección de datos personales;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE JUNIO DE 2009)</small>
 
 VI. Cumplir cabalmente las resoluciones del Instituto y colaborar con éste en el desempeño de sus funciones.
 
@@ -273,7 +277,9 @@ VIII. Las condiciones generales de trabajo, o instrumentos que regulen las relac
 
 IX. Los planes, programas o proyectos con los indicadores de gestión que permitan conocer las metas, por unidad responsable;
 
-X. Un listado con los servicios que ofrece, incluyendo los trámites para acceder a estos y la población o sector a quien vayan dirigidos;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2009)</small>
+
+X. Un listado con los servicios que ofrece, que incluya los trámites para acceder a ellos y la población o sector a quien vayan dirigidos;
 
 XI. Los programas de subsidio, estímulos y apoyos que ofrece, incluyendo montos asignados y requisitos para acceder a éstos, así como en su caso, las reglas de operación;
 
@@ -491,7 +497,9 @@ II. Los reglamentos, acuerdos y demás disposiciones de carácter general, aprob
 
 III. Las plataformas electorales y programas de gobierno que registren ante el Instituto Electoral y de Participación Ciudadana de Coahuila;
 
-IV. Los convenios de coalición o fusión que celebren, o de participación electoral que realicen con agrupaciones políticas;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2009)</small>
+
+IV. Los convenios de fusión o de candidatura común que celebren, o de participación electoral que realicen con agrupaciones políticas;
 
 V. Las convocatorias que emitan para la elección de sus dirigentes o la postulación de sus candidatos a cargos de elección popular, y en su caso el registro correspondiente;
 
@@ -529,13 +537,17 @@ V. Aquella cuya divulgación pueda causar un serio perjuicio a:
 
 2. La gobernabilidad;
 
-3. La impartición de justicia o la seguridad de un denunciante o testigo, y sus familias, en los términos de las disposiciones aplicables;
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2009)</small>
+
+3. La impartición de justicia o la seguridad de un denunciante, querellante o testigo, así como sus familias, en los términos de las disposiciones aplicables;
 
 4. La recaudación de las contribuciones;
 
 5. Cualquier otra acción que tenga por objeto la aplicación de las leyes.
 
-VI. La que contengan las opiniones, recomendaciones o puntos de vista que formen parte del proceso deliberativo de los servidores públicos, hasta en tanto sea adoptada la decisión definitiva, la cual deberá estar documentada. Se considera que se ha adoptado la decisión definitiva cuando él o los servidores públicos responsables de tomar la última determinación resuelvan de manera concluyente una etapa, sea o no susceptible de ejecución;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2009)</small>
+
+VI. La que contengan las opiniones, recomendaciones o puntos de vista que formen parte del proceso deliberativo de los servidores públicos, hasta en tanto sea adoptada la decisión definitiva, la cual deberá estar documentada. Se considera que se ha adoptado la decisión definitiva cuando el o los servidores públicos responsables de tomar la resolución resuelvan de manera concluyente una etapa, sea o no susceptible de ejecución;
 
 VII. Cuando se trate de información sobre estudios y proyectos cuya divulgación pueda causar daños al interés del Estado o suponga un riesgo para su realización, y
 
@@ -651,9 +663,11 @@ Los sujetos obligados que se constituyan como fideicomitentes o fideicomisarios 
 
 La información relativa a los fideicomisos o mandatos, se entregará a través de sus fideicomitentes o mandantes.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2009)</small>
+
 ###### Artículo 44.
 
-Cuando los particulares entreguen información confidencial a los sujetos obligados como resultado de una obligación establecida en una disposición jurídica, así como por un trámite o procedimiento del cual puedan obtener un beneficio la información será protegida de oficio. En el caso de que exista una solicitud de acceso que incluya información confidencial, los sujetos obligados podrán comunicarla, siempre y cuando medie el consentimiento expreso del titular de dicha información confidencial.
+Cuando los particulares entreguen información confidencial a los sujetos obligados como resultado de una obligación establecida en una disposición jurídica, así como por un trámite o procedimiento del cual puedan obtener un beneficio la información será protegida de oficio. En el caso de que exista una solicitud de acceso que incluya información confidencial, los sujetos obligados podrán comunicarla, siempre y cuando medie el consentimiento expreso por escrito del titular de dicha información confidencial.
 
 ###### Artículo 45.
 
@@ -667,9 +681,11 @@ Durante el procedimiento de sustanciación del recurso de revisión, deberá res
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2009)</small>
+
 ###### Artículo 47.
 
-Los sujetos obligados, al tratar los sistemas de datos personales, deberán contar previamente con el consentimiento del titular, además de observar los siguientes principios: información previa, licitud, calidad de la información, confidencialidad y seguridad, así como garantizar el ejercicio de los derechos de acceso, rectificación, corrección y oposición en términos de la presente ley.
+En el manejo de los datos personales, los sujetos obligados deberán contar previamente con el consentimiento por escrito del titular de los datos, además de observar los siguientes principios: información previa, licitud, calidad de la información, confidencialidad y seguridad, así como garantizar el ejercicio de los derechos de acceso, rectificación, corrección y oposición en términos de la presente ley.
 
 ###### Artículo 48.
 
@@ -697,9 +713,11 @@ X. Tratamiento de datos personales: Cualquier operación o conjunto de operacion
 
 #### SECCIÓN SEGUNDA. EL TRATAMIENTO DE LOS DATOS PERSONALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 2009)</small>
+
 ###### Artículo 49.
 
-El tratamiento de los datos personales requerirá el consentimiento de su titular, salvo las excepciones señaladas en esta ley o en otra disposición legal. Tal consentimiento podrá ser revocado cuando exista causa justificada para ello sin que se le atribuyan efectos retroactivos.
+El tratamiento de los datos personales requerirá el consentimiento por escrito de su titular, salvo las excepciones señaladas en esta ley o en otra disposición legal. Tal consentimiento podrá ser revocado cuando exista causa justificada para ello sin que se le atribuyan efectos retroactivos.
 
 Al efecto, la Unidad de Atención contará con los formatos necesarios para recabar dicho consentimiento, pudiendo utilizarse, en su caso, medios electrónicos.
 
@@ -727,7 +745,9 @@ II. Del carácter obligatorio o facultativo de la entrega de los datos personale
 
 III. De las consecuencias de la negativa a suministrarlos;
 
-IV. De la posibilidad que estos datos sean transmitidos, en cuyo caso deberá constar el consentimiento expreso de la persona, salvo las excepciones previstas en esta ley;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2009)</small>
+
+IV. De la posibilidad que estos datos sean transmitidos, en cuyo caso deberá constar el consentimiento expreso por escrito de la persona, salvo las excepciones previstas en esta ley;
 
 V. De la posibilidad de ejercitar los derechos de acceso, rectificación, cancelación y oposición, y
 
@@ -749,9 +769,11 @@ Los datos personales sólo podrán recabarse y ser objeto de tratamiento cuando 
 
 No se considerará como un fin distinto el tratamiento con fines históricos, estadísticos o científicos. Los datos de carácter personal serán exactos. Los sujetos obligados deberán actualizarlos de forma que respondan con veracidad a la situación actual del titular.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2009)</small>
+
 ###### Artículo 55.
 
-Deberá garantizarse el tratamiento confidencial de los datos personales, por lo que no podrán divulgarse o transmitirse salvo por disposición legal, por orden judicial o cuando medie el consentimiento del titular. Para lo anterior, deberán adoptarse las medidas que garanticen la seguridad de los datos personales y eviten su alteración, pérdida, transmisión y acceso no autorizado.
+El tratamiento confidencial de los datos personales deberá garantizarse, por lo que no podrán divulgarse o transmitirse salvo por disposición legal, por orden judicial o cuando medie el consentimiento por escrito del titular. Para lo anterior, deberán adoptarse las medidas que garanticen la seguridad de los datos personales y eviten su alteración, pérdida, transmisión y acceso no autorizado.
 
 ###### Artículo 56.
 
@@ -833,13 +855,17 @@ III. La descripción clara y precisa de los datos personales respecto de los que
 
 IV. Cuando se trate de una solicitud de rectificación de datos personales, deberán incluirse las modificaciones a realizarse y aportar la documentación que sustente su petición, y
 
-V. Señalar la modalidad en la que el titular prefiere que se le otorgue el accesos (sic) a sus datos personalmente, la cual podrá ser verbalmente o mediante consulta directa, copias simples, certificadas, u otro tipo de medio.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2009)</small>
+
+V. Señalar la modalidad en la que el titular prefiere que se le otorgue el acceso personal a sus datos, la cual podrá ser verbalmente o mediante consulta directa, copias simples, certificadas o cualquier otra clase de medio.
 
 ###### Artículo 70.
 
 La Unidad de Atención deberá notificar al solicitante en un plazo de veinte días contados desde la presentación de la solicitud de acceso, rectificación, cancelación u oposición, la determinación adoptada en relación a su solicitud.
 
 De resultar procedente la solicitud de rectificación, cancelación u oposición, ésta se hará efectiva dentro de los quince días siguientes a la fecha de la notificación.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE JUNIO DE 2009)</small>
 
 Los plazos antes referidos podrán ser ampliados una sola vez por un periodo de diez días, siempre y cuando las acciones que se deban llevar a cabo con motivo de la procedencia, o por la localización de los datos, lo justifiquen.
 
@@ -867,7 +893,9 @@ Al titular que se le niegue el ejercicio de los derechos de acceso, rectificaci�
 
 No se requerirá el consentimiento previo del titular para la transmisión de sus datos personales entre entidades públicas cuando:
 
-l. Esté previsto en una ley;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2009)</small>
+
+l. Se encuentre previsto en una ley;
 
 II. Se trate de datos obtenidos de fuentes de datos personales de acceso público;
 
@@ -999,7 +1027,9 @@ Los sujetos obligados deberán contar con unidades de atención, en los siguient
 
 I. El Poder Judicial del Estado: Contará con una unidad de atención. En caso de que se estime pertinente se podrá habilitar a servidores públicos para que reciban solicitudes en cada uno de los distritos judiciales;
 
-II. El Poder Legislativo del Estado: Contará con una unidad de atención. La Auditoría Superior del Estado contará con su propia unidad de atención;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2009)</small>
+
+II. En el caso del Poder Legislativo del Estado, el Congreso contará con una unidad de atención. Por su parte, la Auditoría Superior del Estado contará con su propia unidad de atención;
 
 III. El Poder Ejecutivo del Estado y las entidades de la Administración Pública Estatal: Cada dependencia y entidad contará con su propia unidad de atención, sin perjuicio de que se instalen unidades de atención para los órganos desconcentrados que, por su tamaño, así lo ameriten. En caso de que se estime pertinente se podrá habilitar a servidores públicos para que reciban solicitudes en cada una de las oficinas que se encuentran en los municipios del Estado;
 
@@ -1530,3 +1560,11 @@ EL SECRETARIO DE LAFUNCIÓN (SIC) PÚBLICA
 ING. ISMAEL E. RAMOS FLORES
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE JUNIO DE 2009.
+
+PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
