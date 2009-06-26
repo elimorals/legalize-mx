@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-responsabilidades-de-los-servidores-publicos-del-7690"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-17"
-last_updated: "2008-06-20"
+last_updated: "2009-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 26 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 17 de diciembre de 1992.
 
@@ -1230,3 +1232,17 @@ P.O. 20 DE JUNIO DE 2008.
 LEY QUE REFORMA LOS ARTICULOS 1, 5, 18, 22 Y 35 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICO DEL ESTADO DE QUERETARO.
 
 Artículo Único. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro.
+
+P.O. 26 DE JUNIO DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número 52, de fecha 17 de diciembre de 1992, así como todas aquellas disposiciones legales posteriores que hayan reformado a la misma.
+
+Artículo Tercero. Los procedimientos tanto de fincamiento de responsabilidades administrativas, como de registro patrimonial que se encuentren en trámite al entrar en vigor la presente Ley, se continuarán hasta su conclusión conforme a lo previsto en la Ley vigente al momento de iniciarse. Los recursos que se interpongan respecto de tales procedimientos, se tramitarán conforme a lo dispuesto por esta nueva Ley.
+
+Artículo Cuarto. La Secretaría de la Contraloría, en un plazo no mayor de treinta días hábiles, contados a partir de la entrada en vigor de la presente, instrumentará lo necesario para que los servidores públicos obligados a la presentación manifestación de bienes, tengan a su disposición, en los medios electrónicos, los formatos respectivos para el cumplimiento de su obligación.
+
+Articulo Quinto. Los convenios que haya celebrado la Secretaría de la Contraloría con las instituciones para la presentación de manifestación bienes por medios electrónicos, se podrán seguir aplicando, en tanto no contravengan la presente Ley.
+
+Artículo Sexto. Los Ayuntamientos del Estado de Querétaro, en uso de las facultades que les confiere el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, deberán emitir las disposiciones reglamentarias que sean exclusivas de su competencia, hasta en tanto, deberán sujetarse a las bases que señala la presente Ley.
