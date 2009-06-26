@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-de-18366"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-09-29"
-last_updated: "2008-10-29"
+last_updated: "2009-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, PUBLICADA EN P.O. DE 26 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 29 de septiembre de 2000.
 
@@ -1284,3 +1286,19 @@ TERCERO.- Los recursos humanos, financieros y materiales de las unidades adminis
 CUARTO.- Los asuntos que con motivo de este Decreto deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la dependencia que señale este Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables, que serán resueltos por la dependencia que tenga el asunto a su cargo.
 
 QUINTO.- La Ley de Ejecución de Sanciones y Medidas de Seguridad, Privativas y Restrictivas de la Libertad para el Estado de Morelos, deberá interpretarse conforme al presente ordenamiento, en lo que se oponga al mismo.
+
+P.O. 26 DE JUNIO DE 2009.
+
+PRIMERO.- La presente Ley entrará en vigor a los treinta días naturales posteriores a su publicación en el Periódico "Tierra y Libertad", Órgano Oficial de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Se abroga la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos, publicada en el Periódico Oficial 4079, de fecha 29 de septiembre de 2000, así como sus reformas y adiciones hechas con posterioridad y que emanan de aquellas; así mismo, se derogan las demás disposiciones legales que se opongan a lo establecido en la presente Ley.
+
+TERCERO.- El personal de las Secretarías y Dependencias que, en la aplicación de esta Ley, pase a otra, en ninguna forma será afectado en los derechos que haya adquirido en su relación laboral con la administración pública del Estado Libre y Soberano de Morelos.
+
+CUARTO.- Los asuntos iniciados al amparo de la Ley que se abroga, deberán substanciarse y concluirse conforme al ordenamiento jurídico que les dio origen.
+
+QUINTO.- Cuando en esta Ley se de una denominación nueva o distinta a alguna Secretaría o Dependencia cuyas funciones estén establecidas por la ley anterior, dichas atribuciones se entenderán concedidas a la Secretaría o Dependencia que determine esta Ley y demás disposiciones relativas.
+
+SEXTO.- A partir de la entrada en vigor de la presente Ley, el Poder Ejecutivo, por conducto de sus Secretarías, Dependencias y Entidades competentes, contará con noventa días naturales para promover y en su caso, publicar las propuestas de modificaciones y reformas a los ordenamientos legislativos o reglamentos que por virtud de esta Ley, han de ser armonizados. En tanto sucede esto, se mantendrán vigentes los actuales, siempre que no se opongan a lo establecido en ésta Ley y las leyes respectivas.
+
+SÉPTIMO.- La Secretaría de la Contraloría, la Secretaría de Finanzas y Planeación y la Secretaría de Gestión e Innovación Gubernamental, en el ámbito de sus respectivas competencias, gestionarán ante las Secretarías y Dependencias, la realización de los cambios administrativos necesarios, en los temas relativos a recursos materiales, humanos y financieros, respectivamente, vigilando el cumplimiento de lo anterior.
