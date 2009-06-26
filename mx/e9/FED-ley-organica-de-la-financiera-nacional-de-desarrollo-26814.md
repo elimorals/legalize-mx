@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-financiera-nacional-de-desarrollo-26814"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-26"
-last_updated: "2005-08-01"
+last_updated: "2009-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26814&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-12-23"
 
 LEY ORGANICA DE LA FINANCIERA RURAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE JUNIO DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 26 de diciembre de 2002.
 
@@ -157,19 +157,31 @@ XXI. Contratar cualquier tipo de servicio necesario para el desempeño de su obj
 
 > <small>(REFORMADA, D.O.F. 1 DE AGOSTO DE 2005)</small>
 
-XXII. Coordinarse, en el ámbito de sus atribuciones, con las dependencias y entidades de la Administración Pública Federal responsables de fomentar el desarrollo tecnológico del campo que cuenten con programas orientados al desarrollo tecnológico y capacitados del medio rural e indígena, y
+XXII. Coordinarse, en el ámbito de sus atribuciones, con las dependencias y entidades de la Administración Pública Federal responsables de fomentar el desarrollo tecnológico del campo que cuenten con programas orientados al desarrollo tecnológico y capacitados del medio rural e indígena, y (sic)
 
-> <small>(ADICIONADA, D.O.F. 1 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2009)</small>
 
-XXIII. Las demás actividades análogas de carácter financiero relacionadas con su objeto que autorice la Secretaría de Hacienda.
+XXIII. Aceptar préstamos o créditos de las instituciones de banca de desarrollo, de los fideicomisos públicos de fomento, de los Fideicomisos Instituidos en Relación con la Agricultura constituidos en el Banco de México y de los organismos financieros internacionales en términos de las disposiciones aplicables, cuyos recursos se destinen al sector de atención de la Financiera; el importe total de estas operaciones no podrá exceder del cien por ciento del patrimonio de la Financiera, y
 
-En ningún caso la Financiera podrá celebrar operaciones que permitan captar de manera directa o indirecta recursos del público o de cualquier intermediario financiero.
+> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2009)</small>
+
+XXIV. Las demás actividades análogas de carácter financiero relacionadas con su objeto que autorice la Secretaría de Hacienda.
+
+> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2009)</small>
+
+Salvo lo previsto en la fracción XXIII, la Financiera no podrá celebrar operaciones que permitan captar de manera directa o indirecta recursos del público o de cualquier otro intermediario financiero.
 
 ###### Artículo 8o.
 
 La Financiera elaborará su programa institucional, de conformidad con los lineamientos y objetivos del Plan Nacional de Desarrollo, del Programa Nacional de Financiamiento para el Desarrollo y demás programas sectoriales correspondientes. El referido programa institucional deberá contener un apartado relativo a la forma en que la Financiera se coordinará con las dependencias y entidades de la Administración Pública Federal, especialmente con aquellas responsables de fomentar el desarrollo tecnológico del campo, debiendo contar con la opinión del Consejo.
 
 Conforme al marco mencionado en el párrafo anterior, la Financiera formulará anualmente sus estimaciones de ingresos, sus programas operativo y financiero y su presupuesto general de gasto e inversión.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2009)</small>
+
+###### Artículo 8o. Bis.
+
+El Gobierno Federal responderá en todo tiempo de las operaciones pasivas concertadas por Financiera Rural con la banca de desarrollo, los fideicomisos públicos para el fomento económico y los organismos financieros internacionales.
 
 ###### Artículo 9o.
 
@@ -271,7 +283,7 @@ Los usuarios de los servicios de la Financiera podrán acudir a la Comisión Nac
 
 ###### Artículo 21.
 
-El importe de las operaciones que celebre la Financiera en términos del artículo 7o. de esta Ley, más el de las reservas que deban constituirse para su sano funcionamiento, en ningún caso deberán exceder al monto que resulte de restar, al patrimonio de la propia Financiera, el importe de sus activos fijos, así como el de sus pasivos.
+(DEROGADO, D.O.F. 26 DE JUNIO DE 2009)
 
 ### CAPITULO TERCERO. Del Patrimonio de la Financiera
 
@@ -848,3 +860,7 @@ D.O.F. 1 DE AGOSTO DE 2005.
 Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Quedan sin efecto las disposiciones que a la entrada en vigor del presente Decreto contravengan las disposiciones del mismo.
+
+D.O.F. 26 DE JUNIO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
