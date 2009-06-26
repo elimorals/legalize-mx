@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-de-los-municipios-del-estado-de-quintana-roo-13
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-15"
-last_updated: "2008-12-12"
+last_updated: "2009-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre de 1997.
 
@@ -3809,6 +3809,66 @@ DONATIVOS: Son los ingresos que perciba el municipio a título gratuito, que sea
 
 Se entiende por financiamientos los ingresos que perciba el municipio por créditos que le sean concedidos por instituciones financieras, ya sean públicos, privadas o mixtas, y a corto plazo.
 
+###### ARTÍCULO DÉCIMO.
+
+Durante el Ejercicio Fiscal 2009, se faculta a los Ayuntamientos a conceder a los contribuyentes un estímulo consistente en un descuento de hasta un 15% del total del importe del impuesto predial, así como realizar un descuento del 10% al pago de los derechos por el servicio de recolección y transporte de basura o residuos sólidos en el plazo del 01 de julio al 31 de agosto del año en curso, conforme a las disposiciones generales que expidan los Ayuntamientos.
+
+SALON DE SESIONES DEL H. PODER LEGISLATIVO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS NUEVE DIAS DEL MES DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y SIETE.
+
+DIPUTADO PRESIDENTE
+
+ISRAEL BARBOSA HEREDIA
+
+DIPUTADO SECRETARIO
+
+FRANCISCO J. NOVELO ORDOÑEZ
+
+EN CUMPLIMIENTO DE LO DISPUESTO EN EL ARTICULO 91 FRACCION II, DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, Y PARA SU DEBIDA OBSERVANCIA, MANDO SE PUBLIQUE EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO, DADO EN LA RESIDENCIA DEL PODER EJECUTIVO EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS DIEZ DIAS DEL MES DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y SIETE.
+
+EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUINTANA ROO
+
+ING. MARIO E. VILLANUEVA MADRID.
+
+EL C. SECRETARIO GENERAL DE GOBIERNO.
+
+DR. HECTOR ESQUILIANO SOLIS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE DICIEMBRE DE 1998.
+
+PRIMERO.- El presente decreto entrará en vigor a partir de la fecha en que se publique en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones dictadas con anterioridad que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 1999.
+
+PRIMERO.- El presente decreto entrará en vigor a partir del primero del mes de Enero del año previa publicación el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones dictadas con anterioridad que se opongan al presente decreto.
+
+P.O. 29 DE DICIEMBRE DE 2000.
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día primero del mes de Enero del año dos mil uno, previa publicación en el Periódico Oficial del Estado, con excepción de lo previsto en el Artículo Tercero Transitorio de este propio Decreto.
+
+SEGUNDO.- Se derogan todas las disposiciones dictadas con anterioridad que se opongan al presente decreto.
+
+TERCERO.- Por esta única ocasión la tasa aplicable para el pago del impuesto predial respecto de predios edificados en zonas urbanas, cuyo valor sea de $5,001.00 en adelante, exclusivamente del Municipio de Othón P. Blanco contenido en el inciso b) de la Fracción I del Artículo 13 de la Ley de Hacienda de los Municipios, será de 10.5 al millar, cobrando vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado y por todo el ejercicio fiscal del año 2001.
+
+P.O. 28 DE DICIEMBRE DE 2001.
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día primero del mes de Enero del año dos mil dos, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones dictadas con anterioridad que se opongan al presente decreto.
+
+TERCERO.- Por esta única ocasión la tasa aplicable para el pago del impuesto predial respecto de predios edificados en zonas urbanas, cuyo valor sea de $5001.00 en adelante, exclusivamente del Municipio de Othón P. Blanco, contenido en el inciso b) de la fracción II del artículo 13, de la Ley de Hacienda de los municipios, será de 10.5 al millar, cobrando vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado y por todo el ejercicio fiscal del año 2002.
+
+P.O. 30 DE DICIEMBRE DE 2002.
+
+DECRETO NUMERO 25
+
+POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO.
+
 ## TRANSITORIOS
 
 ###### ARTICULO CUARTO.
@@ -4023,61 +4083,7 @@ Se abroga la Ley de Hacienda Municipal publicada en el Periódico Oficial el 1 d
 
 ARTÍCULO NOVENO (SIC).- Durante el Ejercicio Fiscal 2008, se faculta a los Ayuntamientos, a conceder a los contribuyentes un estímulo consistente en un descuento de hasta un 15% de total del importe del impuesto predial, en el plazo del 15 de mayo al 31 de julio del año en curso, conforme a las disposiciones generales que expidan los Ayuntamientos.
 
-SALON DE SESIONES DEL H. PODER LEGISLATIVO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS NUEVE DIAS DEL MES DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y SIETE.
-
-DIPUTADO PRESIDENTE
-
-ISRAEL BARBOSA HEREDIA
-
-DIPUTADO SECRETARIO
-
-FRANCISCO J. NOVELO ORDOÑEZ
-
-EN CUMPLIMIENTO DE LO DISPUESTO EN EL ARTICULO 91 FRACCION II, DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, Y PARA SU DEBIDA OBSERVANCIA, MANDO SE PUBLIQUE EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO, DADO EN LA RESIDENCIA DEL PODER EJECUTIVO EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS DIEZ DIAS DEL MES DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y SIETE.
-
-EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUINTANA ROO
-
-ING. MARIO E. VILLANUEVA MADRID.
-
-EL C. SECRETARIO GENERAL DE GOBIERNO.
-
-DR. HECTOR ESQUILIANO SOLIS.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
-P.O. 15 DE DICIEMBRE DE 1998.
-
-PRIMERO.- El presente decreto entrará en vigor a partir de la fecha en que se publique en el Periódico Oficial del Estado.
-
-SEGUNDO.- Se derogan las disposiciones dictadas con anterioridad que se opongan al presente decreto.
-
-P.O. 31 DE DICIEMBRE DE 1999.
-
-PRIMERO.- El presente decreto entrará en vigor a partir del primero del mes de Enero del año previa publicación el Periódico Oficial del Estado.
-
-SEGUNDO.- Se derogan todas las disposiciones dictadas con anterioridad que se opongan al presente decreto.
-
-P.O. 29 DE DICIEMBRE DE 2000.
-
-PRIMERO.- El presente decreto entrará en vigor a partir del día primero del mes de Enero del año dos mil uno, previa publicación en el Periódico Oficial del Estado, con excepción de lo previsto en el Artículo Tercero Transitorio de este propio Decreto.
-
-SEGUNDO.- Se derogan todas las disposiciones dictadas con anterioridad que se opongan al presente decreto.
-
-TERCERO.- Por esta única ocasión la tasa aplicable para el pago del impuesto predial respecto de predios edificados en zonas urbanas, cuyo valor sea de $5,001.00 en adelante, exclusivamente del Municipio de Othón P. Blanco contenido en el inciso b) de la Fracción I del Artículo 13 de la Ley de Hacienda de los Municipios, será de 10.5 al millar, cobrando vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado y por todo el ejercicio fiscal del año 2001.
-
-P.O. 28 DE DICIEMBRE DE 2001.
-
-PRIMERO.- El presente decreto entrará en vigor a partir del día primero del mes de Enero del año dos mil dos, previa publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO.- Se derogan todas las disposiciones dictadas con anterioridad que se opongan al presente decreto.
-
-TERCERO.- Por esta única ocasión la tasa aplicable para el pago del impuesto predial respecto de predios edificados en zonas urbanas, cuyo valor sea de $5001.00 en adelante, exclusivamente del Municipio de Othón P. Blanco, contenido en el inciso b) de la fracción II del artículo 13, de la Ley de Hacienda de los municipios, será de 10.5 al millar, cobrando vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado y por todo el ejercicio fiscal del año 2002.
-
-P.O. 30 DE DICIEMBRE DE 2002.
-
-DECRETO NUMERO 25
-
-POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO.
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2009)</small>
 
 ## TRANSITORIOS
 
@@ -4590,3 +4596,7 @@ OCTAVO.- En el momento que quede sin efecto lo dispuesto en los Artículos Segun
 NOVENO.- Por esta única ocasión el plazo para que los Ayuntamientos propongan las cuotas y tarifas aplicables para el cobro de los derechos a que se refiere el artículo 121 párrafo sexto de esta ley, será a más tardar en el mes de febrero del año 2009.
 
 DÉCIMO.- El presente Decreto entrará en vigor a partir del 1o. de Enero del año 2009, previa su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 26 DE JUNIO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor, el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
