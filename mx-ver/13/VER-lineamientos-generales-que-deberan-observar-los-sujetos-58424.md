@@ -4,7 +4,7 @@ identifier: "VER-lineamientos-generales-que-deberan-observar-los-sujetos-58424"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2007-12-18"
-last_updated: "2009-06-03"
+last_updated: "2009-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # LINEAMIENTOS GENERALES QUE DEBERAN OBSERVAR LOS SUJETOS OBLIGADOS POR LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PARA PUBLICAR Y MANTENER ACTUALIZADA LA INFORMACION PUBLICA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE JUNIO DE 2009 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LINEAMIENTOS GENERALES QUE DEBERÁN OBSERVAR LOS SUJETOS OBLIGADOS POR LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PARA PUBLICAR Y MANTENER ACTUALIZADA LA INFORMACIÓN PÚBLICA
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE JUNIO DE 2009.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL EL 26 DE JUNIO DE 2009.</small>
 
 Lineamientos publicados en la Gaceta Oficial del Estado de Veracruz, el martes 18 de diciembre de 2007.
 
@@ -101,8 +101,6 @@ Los demás sujetos obligados podrán tomar medidas similares en la publicación 
 
 ### CAPÍTULO II. CUMPLIMIENTO DE LAS OBLIGACIONES DE TRANSPARENCIA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE JUNIO DE 2009 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Séptimo. Para el cumplimiento de las obligaciones de transparencia, los sujetos obligados se ajustarán a lo siguiente:
 
 I. La unidad de acceso será la encargada y responsable de conducir, facilitar y orientar a los particulares para consultar la información pública;
@@ -121,7 +119,9 @@ VI. El diseño, operación y soporte técnico del portal de transparencia será 
 
 Los Ayuntamientos que no tengan acceso a las nuevas tecnologías de la información, cumplirán con las obligaciones de transparencia que establece el artículo 8 de la Ley a través de su Unidad de Acceso, colocando la totalidad de la información de manera impresa, en el tablero o mesa del recinto municipal, de conformidad con los presentes Lineamientos; adicionalmente podrán solicitar al Instituto que divulgue en su página de Internet, información a su nombre; y (sic)
 
-VII. Los Ayuntamientos que no tengan acceso a las nuevas tecnologías de la información, cumplirán con las obligaciones de transparencia que establece el artículo 8 de la Ley a través de su unidad de acceso, colocando la totalidad de la información de manera impresa, en el tablero o mesa del recinto municipal, de conformidad con los presentes Lineamientos; y
+> <small>(F. DE E., G.O. 26 DE JUNIO DE 2009)</small>
+
+VII. Los Ayuntamientos que no tengan acceso a las nuevas tecnologías de la información, cumplirán con las obligaciones de transparencia que establece el artículo 8 de la Ley a través de su Unidad de Acceso, colocando la totalidad de la información de manera impresa, en el tablero o mesa del recinto municipal, de conformidad con los presentes Lineamientos; adicionalmente podrán solicitar al Instituto que divulgue en su página de Internet, información a su nombre; y
 
 VIII. Proporcionarán al Instituto las facilidades y el apoyo técnico necesario para la supervisión o monitoreo del cumplimiento de la Ley y de los presentes Lineamientos.
 
@@ -459,13 +459,9 @@ a) La de utilidad e interés público que contribuya a la transparencia gubernam
 
 b) Los trabajos, informes, estudios, análisis y reportes generados por consultoría externas.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE JUNIO DE 2009 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+(REFORMADO, G.O. 3 DE JUNIO DE 2009) (F. DE E., G.O. 26 DE JUNIO DE 2009)
 
-> <small>(REFORMADO, G.O. 3 DE JUNIO DE 2009)</small>
-
-Vigésimo sexto. Para la publicación y actualización del catálogo documental de los archivos administrativos en poder de los sujetos obligados a que se refiere la fracción XXXII del artículo 8 de la Ley, se deberá tomar en cuenta el catálogo documental, generado de conformidad con los Lineamientos para catalogar, clasificar y conservar los documentos y la organización de archivos, publicados el veintidós de mayo de dos mil ocho, en la Gaceta Oficial Extraordinaria número 144.
-
-Adicionalmente el sujeto obligado, deberá publicitar en este apartado las solicitudes de dictamen de destino final, el dictamen de valoración del Archivo General del Estado y las actas de baja documental o de transferencia secundaria de aquellos archivos a darse de baja por el transcurso del tiempo.
+Vigésimo sexto. Para la publicación y actualización del catálogo documental de los archivos administrativos en poder de los sujetos obligados a que se refiere la fracción XXXII del artículo 8 de la Ley, se deberá tomar en cuenta el catálogo documental, generado de conformidad con los Lineamientos para catalogar, clasificar y conservar los documentos y la organización de archivos, publicados el dos de mayo de dos mil ocho, en la Gaceta Oficial Extraordinaria número 144.
 
 > <small>(REFORMADO, G.O. 3 DE JUNIO DE 2009)</small>
 
@@ -499,11 +495,9 @@ c) Lugar donde se desarrollará la Comisión; y
 
 d) Duración de la Comisión
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE JUNIO DE 2009 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+(REFORMADO, G.O. 3 DE JUNIO DE 2009) (F. DE E., G.O. 26 DE JUNIO DE 2009)
 
-> <small>(REFORMADO, G.O. 3 DE JUNIO DE 2009)</small>
-
-Vigésimo noveno. En relación a la publicación y actualización de la información que adicionalmente debe publicar el Poder Ejecutivo en Internet, y relativo a las estadísticas e indicadores de gestión de la procuración de justicia, deberán proporcionarse números que reflejen los incrementos y decrementos en la ejecución de los delitos tipificados en el Código Penal para el estado de Veracruz de Ignacio de la Llave. Así, como estadísticas que reflejen los avances y logros obtenidos en materia de Procuración de Justicia, poniendo especial atención en los siguientes temas:
+Vigésimo noveno. En relación a la publicación y actualización de la información a que se refiere la fracción XXXV del artículo 8 de la Ley, que adicionalmente debe publicar el Poder Ejecutivo en Internet, y relativo a las estadísticas e indicadores de gestión de la procuración de justicia, deberán proporcionarse números que reflejen los incrementos y decrementos en la ejecución de los delitos tipificados en el Código Penal para el estado de Veracruz de Ignacio de la Llave. Así, como estadísticas que reflejen los avances y logros obtenidos en materia de Procuración de Justicia, poniendo especial atención en los siguientes temas:
 
 a) Información generada en materia de incidencia de los delitos;
 
@@ -659,8 +653,6 @@ d) Inasistencia; y
 
 e) Ausencia justificada
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE JUNIO DE 2009 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(ADICIONADO, G.O. 3 DE JUNIO DE 2009)</small>
 
 Trigésimo tercero. Con relación a la información contenida en la fracción XL del artículo 8 de la Ley, tanto el Instituto Electoral Veracruzano como la Sala Electoral del Tribunal Superior de Justicia del Estado, deberán mantener actualizada la información que les compete en los siguientes términos:
@@ -749,7 +741,9 @@ h) Casillas instaladas; y
 
 i) Casillas anuladas.
 
-4) La lista de acuerdos que publiquen las autoridades electorales, deberá contener número de expediente, la naturaleza del asunto, el destino del expediente y un extracto del proveído que se esté notificando.
+> <small>(F. DE E., G.O. 26 DE JUNIO DE 2009)</small>
+
+La lista de acuerdos que publiquen las autoridades electorales, deberá contener número de expediente, la naturaleza del asunto, el destino del expediente y un extracto del proveído que se esté notificando.
 
 En relación a las sentencias relevantes y su publicación, ésta deberá realizarse en los términos indicados en el doceavo párrafo del Lineamiento trigésimo primero de los presente Lineamientos.
 
@@ -829,11 +823,9 @@ d) Fecha en que causa estado la resolución
 
 Trigésimo octavo. Para efectos del párrafo dos del artículo 8 de la Ley, los sujetos obligados deberán analizar su marco jurídico e identificar el o los informes que se encuentran obligados a elaborar, presentar o publicar, como es el caso de las comparecencias ante el Congreso de los titulares de las dependencias y entidades de la Administración Pública Estatal.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE JUNIO DE 2009 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+(ADICIONADO, G.O. 3 DE JUNIO DE 2009) (F. DE E., G.O. 26 DE JUNIO DE 2009)
 
-> <small>(ADICIONADO, G.O. 3 DE JUNIO DE 2009)</small>
-
-Trigésimo noveno. Para el cumplimiento de las fracciones VI, XI, XVI, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVIII y (sic) XXIX, XXXV b), XXXVII, c) primera parte, XXXIX, XLI fracciones c), d), e), f) y g), XLII c), XLIII a), b), c); XLIV, b), c), d), e), así como los párrafos tres y cinco del artículo 8 de la Ley, se estará a lo dispuesto textualmente en ellas.
+Trigésimo noveno. Para el cumplimiento de las fracciones VI, XI, XVI, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVIII, XXIX, XXXV b), XXXVII c) primera parte, XXXIX, XLI fracciones d), e), f) g) y h), XLII c), XLIII a), b), c) y e); XLIV, b), c), d), e), así como los párrafos tres y cinco del artículo 8 de la Ley, se estará a lo dispuesto textualmente en ellas.
 
 > <small>(ADICIONADO, G.O. 3 DE JUNIO DE 2009)</small>
 
