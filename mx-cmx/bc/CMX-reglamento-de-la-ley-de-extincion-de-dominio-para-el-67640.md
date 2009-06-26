@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-extincion-de-dominio-para-el-67640"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-24"
-last_updated: "2009-03-24"
+last_updated: "2009-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67640&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-03-24"
 
 REGLAMENTO DE LA LEY DE EXTINCION DE DOMINIO PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE JUNIO DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 24 de marzo de 2009.
 
@@ -101,6 +101,14 @@ La Comisión será presidida por la Subprocuraduría Jurídica y de Derechos Hum
 Los representantes deberán contar con nivel mínimo de Director de Área.
 
 Los integrantes señalados en las fracciones I y II tomarán las decisiones de la Comisión, escuchando la opinión de los integrantes señalados en las fracciones III y IV, quienes tendrán funciones de asesoría.
+
+> <small>(ADICIONADO, G.O. 26 DE JUNIO DE 2009)</small>
+
+La Consejería Jurídica y de Servicios Legales, a través de la Dirección General de Servicios Legales, coadyuvará con el Agente del Ministerio Público mediante la formulación de observaciones al escrito inicial de demanda, previamente a su presentación, y respecto a la estrategia a seguir en el ejercicio de la acción y la substanciación del procedimiento.
+
+> <small>(ADICIONADO, G.O. 26 DE JUNIO DE 2009)</small>
+
+El Agente del Ministerio Público deberá remitir proyecto del escrito inicial de demanda en todos los asuntos en que vaya a ejercitar la acción y hará del conocimiento de la Comisión las observaciones que reciba para que determinen lo conducente.
 
 ###### ARTÍCULO 5.
 
@@ -270,47 +278,17 @@ El Agente del Ministerio Público deberá solicitar las medidas cautelares que c
 
 ### CAPÍTULO VIII. DE LA NOTIFICACIÓN POR EDICTOS
 
+> <small>(REFORMADO, G.O. 26 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO 34.
 
-Durante el plazo de preparación de la acción, y cuando el Agente del Ministerio Público desconozca el domicilio de alguna de las partes a quienes deberá notificar en el procedimiento de Extinción de Dominio, requerirá información para su localización:
+Durante el plazo de preparación de la acción, y cuando se desconozca el domicilio de alguna de las partes a quienes deberá notificar en el procedimiento de Extinción de Dominio, el Agente del Ministerio Público podrá requerir información para efectos de su localización a las instituciones locales y federales que considere pertinentes, según el caso específico.
 
-I. En el ámbito Federal a:
-
-a) La Secretaría de Relaciones Exteriores;
-
-b) La Secretaría de la Defensa Nacional;
-
-c) El Instituto Federal Electoral;
-
-d) El Instituto Mexicano del Seguro Social;
-
-e) El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
-
-f) El Instituto Nacional de Migración;
-
-g) El Servicio de Administración Tributaria;
-
-h) El Registro Nacional de Población;
-
-II. En el ámbito Local a:
-
-a) La Secretaría de Transportes y Vialidad;
-
-b) Secretaría;
-
-c) Tesorería del Distrito Federal;
-
-d) Unidad de Inteligencia Financiera;
-
-e) Policía Judicial;
-
-f) Registro Civil del Distrito Federal; y
-
-III. Todas las demás instancias que considere necesarias.
+> <small>(REFORMADO, G.O. 26 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 35.
 
-El Agente del Ministerio Público, cuando ejercite la acción, acompañará las constancias de solicitud y las respuestas recibidas para los efectos del artículo 38 de la Ley.
+El Agente del Ministerio Público, al ejercitar la acción, acompañará las constancias de solicitud a que se refiere el artículo anterior y las respuestas recibidas para los efectos del artículo 38 de la Ley.
 
 ### CAPÍTULO IX. DE LA ADMINISTRACIÓN DE BIENES MUEBLES
 
@@ -385,3 +363,11 @@ PRIMERO. - Publíquese en la Gaceta Oficial del Distrito Federal.
 SEGUNDO. - El presente reglamento entrará en vigor al día siguiente de su publicación.
 
 Dado en la residencia oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los trece días del mes de marzo del año dos mil nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE FINANZAS, MARIO MARTÍN DELGADO CARRILLO.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 26 DE JUNIO DE 2009.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
