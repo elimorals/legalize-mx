@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2009-05-09"
+last_updated: "2009-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2009.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -8183,13 +8183,19 @@ VIII.- Por evicción de la cosa dada en arrendamiento.
 
 ART. 2374.- Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado sin necesidad de desahucio. Si no se ha señalado tiempo, se observará lo que disponen los artículos 2,368 y 2,369.
 
-ART. 2375.- Vencido un contrato de arrendamiento, tendrá derecho el inquilino, siempre que esté al corriente en el pago de las rentas, a que se le prorrogue hasta por un año ese contrato. Podrá el arrendador aumentar hasta un diez por ciento la renta anterior, siempre que demuestre que los alquileres en la zona de que se trate, han sufrido un alza después de que se celebró el contrato de arrendamiento.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 2009)</small>
+
+ART. 2375.- Vencido un contrato de arrendamiento, tendrá derecho el inquilino, siempre que esté al corriente en el pago de las rentas, a que se le prorrogue hasta por un año ese contrato. La prorroga deberá de pedirse antes de que termine contrato de arrendamiento. Podrá el arrendador aumentar hasta un diez por ciento la renta anterior, siempre que demuestre que los alquileres en la zona de que se trate, han sufrido un alza después de que se celebró el contrato de arrendamiento.
 
 Quedan exceptuados de la obligación de prorrogar el contrato de arrendamiento, los propietarios que quieran habitar la casa o cultivar la finca cuyo arrendamiento ha vencido.
 
-ART. 2376.- Si después de terminado el arrendamiento y su prórroga, si la hubo, continúa el arrendatario sin oposición en el goce y uso del predio, y éste es rústico, se entenderá renovado el contrato por otro año.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2009)</small>
 
-ART. 2377.- En el caso del artículo anterior, si el predio fuere urbano, el arrendamiento continuará por tiempo indefinido, y el arrendatario deberá pagar la renta que corresponda al tiempo que exceda al del contrato con arreglo a lo que pagaba.
+ART. 2376.- Si después de terminado el arrendamiento y su prorroga, si la hubo, continúa el arrendatario sin oposición en el goce y uso del predio, y si éste es rústico, se entenderá renovado el contrato por otro año. El arrendador tendrá como término diez días después de haberse terminado el arrendamiento y prorroga si la hubo para manifestar su oposición a que el inquilino continúe en uso del bien arrendado.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2009)</small>
+
+ART. 2377.- En el caso del artículo anterior, si el predio fuere urbano, el arrendamiento continuará por tiempo indefinido, y el arrendatario deberá pagar la renta que corresponda al tiempo que exceda al del contrato con arreglo a lo que pagaba, en éste caso el arrendamiento terminará previo aviso judicial que el arrendador, dé al inquilino con dos meses de anticipación.
 
 ART. 2378.- Cuando haya prórroga en el contrato de arrendamiento, y en los casos de que hablan los dos artículos anteriores, cesan las obligaciones otorgadas por un tercero para la seguridad del arrendamiento, salvo convenio en contrario.
 
@@ -10438,3 +10444,7 @@ P.O. 19 DE JULIO DE 2008.
 P.O. 9 DE MAYO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 27 DE JUNIO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial. "El Estado de Colima".
