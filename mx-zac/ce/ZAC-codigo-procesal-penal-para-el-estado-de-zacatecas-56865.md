@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-procesal-penal-para-el-estado-de-zacatecas-56865"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-09-15"
-last_updated: "2008-12-31"
+last_updated: "2009-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56865&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 CODIGO PROCESAL PENAL PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO QUE MODIFICA EL CODIGO, PUBLICADO EN EL P.O. DE 27 DE JUNIO DE 2009, Y EN RELACION CON SU ENTRADA EN VIGOR EN LOS DISTRITOS JUDICIALES PRIMERO Y SEGUNDO, VER ARTICULO SEGUNDO TRANSITORIO DEL PRESENTE ORDENAMIENTO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2009.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 15 de septiembre de 2007.
 
@@ -5405,7 +5407,9 @@ Artículo primero.- El presente Código iniciará su vigencia el cinco de enero 
 
 Aplicación
 
-Artículo segundo.- Sus disposiciones se aplicarán a hechos que ocurran, en el Distrito Judicial Primero de la Capital, a partir de las cero horas del día cinco de enero del año dos mil nueve; en los Distritos Judiciales Segundo de Fresnillo y Séptimo de Calera, a partir de las cero horas del día primero de julio del año dos mil nueve y, respecto a los hechos que ocurran en el resto del territorio del Estado, a partir de las cero horas del día cuatro de enero del año dos mil diez.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2009)</small>
+
+Artículo segundo.- Sus disposiciones se aplicarán a hechos que ocurran, en el Distrito Judicial Primero de la Capital, a partir de las cero horas del día cinco de enero del año dos mil nueve; en los Distritos Judiciales Segundo de Fresnillo y Séptimo de Calera, a partir de las cero horas del día primero de julio del año dos mil doce y, respecto a los hechos que ocurran en el resto del territorio del Estado, a partir de las cero horas del día siete de enero del año dos mil trece.
 
 Abrogación
 
@@ -5476,3 +5480,9 @@ DADO en el Despacho del Poder Ejecutivo del Estado, el día veinticuatro del mes
 P.O. 31 DE DICIEMBRE DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+P.O. 27 DE JUNIO DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que contravengan este Decreto.
