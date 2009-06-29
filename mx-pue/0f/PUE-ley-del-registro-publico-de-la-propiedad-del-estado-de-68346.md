@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-registro-publico-de-la-propiedad-del-estado-de-68346"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-15"
-last_updated: "2009-04-15"
+last_updated: "2009-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2009.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de abril de 2009.
 
@@ -645,13 +645,17 @@ Corresponderá a los interesados gestionar que las anotaciones cuya causa origin
 
 En caso de que la solicitud de prórroga se presente fuera de la vigencia de la anotación se denegará la misma, quedando expedito el derecho del interesado de solicitar nuevamente su inscripción, con las consecuencias de prelación que resulten.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2009)</small>
+
 ###### Artículo 88.
 
-Se podrá proceder a la cancelación de las anotaciones preventivas en forma previa a su caducidad mediante las formas autorizadas por el Reglamento.
+Se podrá proceder a la cancelación de las anotaciones preventivas en forma previa a su caducidad conforme a lo establecido en el Reglamento, asimismo se podrá proceder a la cancelación del primer aviso preventivo en forma previa a su caducidad a solicitud de parte interesada.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2009)</small>
 
 ###### Artículo 89.
 
-No se requerirá el consentimiento del titular de los derechos anotados para decretar la caducidad de anotaciones preventivas. La caducidad produce la extinción del asiento por el simple transcurso del tiempo, y ésta será declarada de oficio, quedando a salvo el derecho de los usuarios de solicitarla.
+No se requerirá el consentimiento del titular de los derechos anotados para decretar la caducidad de anotaciones preventivas o del primer aviso preventivo. La caducidad produce la extinción del asiento por el simple transcurso del tiempo y ésta será declarada de oficio por el Registrador bajo su responsabilidad, en forma fundada y motivada, previo el cómputo de los plazos de vigencia, quedando a salvo el derecho de los usuarios a solicitarla.
 
 ###### Artículo 90.
 
@@ -679,13 +683,17 @@ II. Segundo aviso preventivo:
 
 a) Posterior a la presentación del primer aviso preventivo, después de firmada y autorizada preventivamente la escritura, el notario ante quien se celebre la operación presentará el segundo aviso preventivo dentro de la vigencia del primero;
 
-b) En el segundo aviso preventivo el notario deberá indicar la fecha y en su caso la hora, número del instrumento en que se haya formalizado la operación; el bien de que se trate; el antecedente registral; la indicación de que se transmitió o modificó su dominio o que se constituyó, transmitió, modificó o extinguió un derecho real sobre él; los nombres de los otorgantes, que deberán ser los mismos que se señalaron en el primer aviso; el precio o importe de ésta, así como las fechas y monto de pago de los impuestos y derechos federales, estatales y municipales que correspondan a la operación. Faltando alguno de los elementos señalados en la fracción anterior no surtirá efectos legales el aviso;
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2009)</small>
+
+b) En el segundo aviso preventivo el notario deberá indicar la fecha y número del instrumento en que se haya formalizado la operación, el bien de que se trata, el antecedente registral; la indicación de que se transmitió o modificó su dominio o que se constituyó, transmitió, modificó o extinguió un derecho real sobre él; los nombres de los otorgantes, que deberán ser los mismos que se señalaron en el primer aviso, y el precio o importe de la operación. Faltando alguno de los elementos señalados en este inciso no surtirá efectos legales el aviso.
 
 c) Recibido el segundo aviso preventivo, el Registrador hará inmediatamente su anotación si resultara procedente;
 
 d) Los efectos de este segundo aviso preventivo durarán hasta que se presente a inscripción el título correspondiente;
 
-e) Si el notario no presenta para su inscripción definitiva el testimonio de cuya operación dio fe, dentro de ciento ochenta días naturales contados a partir del inicio de vigencia del segundo aviso, por causas que le sean imputables, será responsable de los daños y perjuicios que este hecho genere ante terceros o ante quienes participen en la operación, independientemente de las sanciones que determina la Ley del Notariado, sin que este hecho varíe la vigencia del segundo aviso precisada en el inciso inmediato anterior;
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2009)</small>
+
+e) Si el notario no presenta para su inscripción definitiva el testimonio de cuya operación dio fe, dentro de ciento ochenta días naturales contados a partir del inicio de vigencia del segundo aviso, por causas que le sean imputables, será responsable de los daños y perjuicios que este hecho genere ante terceros o ante quienes participen en la operación, independientemente de las sanciones que determina la Ley del Notariado, sin que este hecho varíe la vigencia del segundo aviso precisada en el inciso inmediato anterior. Dentro del plazo mencionado el notario dará aviso al Registro de las causas por las que no presenta el testimonio a su inscripción, si este fuera el caso.
 
 III. Efectos de los avisos:
 
@@ -941,27 +949,81 @@ El Reglamento desarrollará la forma en que se efectuarán las notificaciones y 
 
 Quienes se consideren agraviados por los actos registrales dictados por los titulares de las Oficinas Registrales, podrán interponer el Recurso Administrativo Registral, el cual será resuelto por el Director y en los casos en que se combatan actos registrales del Director, resolverá el Subsecretario Jurídico de la Secretaría de Gobernación. El Recurso deberá agotarse antes de acudir a otros medios de defensa.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2009)</small>
+
+El Recurso procederá contra actos registrales emitidos por los Registradores o por el Director en el caso en que actúe como Registrador en ausencia o por excusa del titular de una oficina registral. En el primer caso resolverá el Director; en el segundo el Subsecretario Jurídico de la Secretaría de Gobernación.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2009)</small>
+
+Podrán recurrir el acto registral, conjunta o separadamente, las partes que intervengan en la operación sujeta a inscripción, el notario que autorizó el título o la autoridad que ordenó la inscripción.
+
 ###### Artículo 138.
 
 La interposición del Recurso suspende hasta su resolución, la ejecución del acto recurrido. Los efectos de la suspensión impiden la inscripción de los títulos presentados o que presenten en relación con el mismo folio, sin perjuicio de que se efectúe una nota de presentación conforme a su prelación para los efectos de la misma.
 
-Transcurridos veinte días hábiles desde la notificación de la resolución definitiva del Recurso, y en caso de que la misma no haya sido combatida legalmente, se procederá a la calificación registral de los títulos que guarden prelación.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2009)</small>
+
+Transcurridos veinticinco días hábiles desde la notificación de la resolución definitiva del Recurso, y en caso de que la misma no haya sido combatida legalmente, se procederá a la calificación registral de los títulos que guarden prelación.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2009)</small>
 
 ###### Artículo 139.
 
-Cuando el Director advierta que existe ilegalidad manifiesta en la actuación del Registrador podrá resolver de inmediato revocando el acto recurrido en los términos solicitados, sin necesidad de mayor trámite que dictar fundada y motivadamente su resolución.
+El escrito recursal deberá contener:
+
+I. El acto impugnado;
+
+II. La mención clara y sucinta de los hechos en que basa la impugnación, los agravios que cause el acto impugnado y los preceptos presuntamente violados;
+
+III. La fecha en la que se notificó al recurrente el acto impugnado;
+
+IV. Las pruebas que se ofrezcan. Únicamente serán admisibles:
+
+a) La documental pública o privada consistente en el título o solicitud en que se basó el acto impugnado; y
+
+b) La de reconocimiento de constancias registrales. Esta prueba deberá estar directamente relacionada con los hechos que se pretenden demostrar.
+
+V. Los requisitos señalados en el artículo 134 de esta Ley.
+
+En el caso de acudir mediante representación, se deberán acompañar los documentos que acrediten la misma.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2009)</small>
 
 ###### Artículo 140.
 
-Al resolverse el Recurso, el Director instruirá al Registrador sobre las medidas necesarias que deberá tomar a fin de corregir los errores que puedan afectar la práctica registral.
+La tramitación y sustanciación del Recurso Administrativo Registral, se sujetará al siguiente procedimiento:
+
+I. Deberá interponerse directamente en la oficina registral en la que se emitió el acto impugnado, dentro de los diez días hábiles siguientes a aquél en que haya surtido efectos la notificación del acto;
+
+II. En el supuesto de que falte alguno de los requisitos mencionados en el artículo anterior, la autoridad responsable prevendrá al recurrente para que en el término de tres días hábiles subsane la omisión, con el apercibimiento de que en caso de no hacerlo, se remitirá el Recurso a la autoridad resolutora, quien en consecuencia lo desechará;
+
+III. Si a consideración del Registrador el escrito recursal cumple con los requisitos exigidos, o habiendo fenecido el plazo señalado en la fracción anterior, la autoridad registral lo remitirá dentro de los tres días hábiles siguientes a la autoridad resolutora, acompañando los demás documentos presentados por el recurrente, así como su informe y constancias en las que sustente el acto impugnado; y
+
+IV. La autoridad resolutora, en un solo momento admitirá o desechará el Recurso y en su caso, valorará las pruebas y resolverá el Recurso en el plazo de diez días contados a partir de la recepción del expediente.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2009)</small>
 
 ###### Artículo 141.
 
-Debido a la especialidad de la materia registral, en contra de los actos registrales materia de este recurso y de la resolución que ponga fin al mismo, no procederá medio de impugnación que prevea ley de justicia en materia administrativa, por lo que en forma expresa se excluye esta materia, de procedimientos contenciosos administrativos generales.
+El Recurso se tendrá por concluido en los siguientes casos:
+
+I. El recurrente se desista expresamente del Recurso, debiendo ratificarse el escrito relativo directamente ante la autoridad resolutora.
+
+II. Se deseche el Recurso por las siguientes causas:
+
+a) El recurrente no esté legitimado para interponerlo;
+
+b) Por no haberse promovido en el plazo señalado para ello; y
+
+c) Cuando falte alguno de los requisitos señalados en el artículo 139 de la presente Ley, y no se hayan subsanado.
+
+III. Se dicte resolución definitiva al Recurso, la que podrá confirmar o modificar el acto impugnado, indicando con precisión sus nuevos efectos en este último caso. Al resolverse el Recurso, el Director podrá instruir al Registrador sobre las medidas que deberá realizar para mejorar la práctica registral.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2009)</small>
 
 ###### Artículo 142.
 
-La tramitación del Recurso se regulará en el Reglamento.
+Debido a la especialidad de la materia registral, en contra de los actos registrales materia de este Recurso y de la resolución que ponga fin al mismo, no procederá medio de impugnación que prevea la ley de justicia en materia administrativa, por lo que en forma expresa se excluye esta materia, de procedimientos contenciosos administrativos generales.
 
 ### CAPÍTULO TERCERO. DE LAS RESPONSABILIDADES
 
@@ -987,7 +1049,9 @@ Los servidores públicos del Registro serán responsables civilmente en los tér
 
 ## TRANSITORIOS
 
-PRIMERO.- La presente Ley se publicará en el Periódico Oficial del Estado, y entrará en vigor a partir del día uno de julio de dos mil nueve.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2009)</small>
+
+PRIMERO.- El presente Decreto se publicará en el Periódico Oficial del Estado, entrando en vigor a partir del día quince de julio de dos mil nueve.
 
 SEGUNDO.- El Ejecutivo del Estado expedirá el Reglamento de la presente Ley dentro del plazo de noventa días a partir de su publicación en el Periódico Oficial del Estado.
 
@@ -1000,3 +1064,11 @@ QUINTO.- En todo ordenamiento estatal que haga referencia al Registro Público d
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los doce días del mes de marzo de dos mil nueve.- Diputado Presidente.- JOSÉ OTHÓN BAILLERES CARRILES.- Rúbrica.- Diputada Vicepresidenta.- CARMEN ERIKA SUCK MENDIETA.- Rúbrica.- Diputada Secretaria.- LUANA ARMIDA AMADOR VALLEJO.- Rúbrica.- Diputada Secretaria.- IRMA RAMOS GALlNDO.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los diecisiete días del mes de marzo de dos mil nueve.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación LICENCIADO MARIO ALBERTO MONTERO SERRANO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE JUNIO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
