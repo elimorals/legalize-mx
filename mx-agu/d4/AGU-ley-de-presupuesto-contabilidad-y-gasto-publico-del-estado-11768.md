@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-1176
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-10"
-last_updated: "2008-08-25"
+last_updated: "2009-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2009.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 10 de noviembre de 1996.
 
@@ -125,9 +125,11 @@ Los procedimientos, actos, convenios o contratos que se realicen en contravenci�
 
 Los Sujetos de la Ley deberán observar y cumplir con los Principios Fundamentales de Presupuestación, Contabilidad y Gasto Público descritos en el presente Capítulo.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 7o.
 
-Con el propósito de optimizar los recursos del Estado y de los Municipios, los Sujetos de la Ley deberán planear, programar y presupuestar sus actividades con honestidad, claridad y transparencia. La presupuestación del Gasto Público deberá estar basada en criterios de austeridad, disciplina y racionalidad.
+Con el propósito de optimizar los recursos del Estado y de los Municipios, los Sujetos de la Ley deberán planear, programar y presupuestar sus actividades con honestidad, claridad y transparencia. La presupuestación del Gasto Público deberá estar basada en criterios de austeridad, disciplina, racionalidad y el de equidad de género.
 
 ###### ARTICULO 8o.
 
@@ -532,5 +534,11 @@ Por lo que respecta a los Poderes Legislativo, Judicial y los Municipios, aplica
 P.O. 25 DE AGOSTO DE 2008.
 
 ###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE JUNIO DE 2009.
+
+###### ARTÍCULO ÚNICO
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
