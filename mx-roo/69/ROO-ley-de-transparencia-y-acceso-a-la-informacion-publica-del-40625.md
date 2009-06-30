@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-4062
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-31"
-last_updated: "2008-07-02"
+last_updated: "2009-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2009.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 31 de mayo de 2004.
 
@@ -685,7 +685,9 @@ II. Estar inscrito en el padrón electoral y contar con credencial para votar;
 
 III. Tener más de treinta años de edad;
 
-IV. Poseer título profesional de Licenciado en Derecho expedido por la Institución de Educación Superior legalmente facultada para ello, así como la Cédula Profesional, y de manera preferente, estudios de postgrado en Derecho a la Información;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2009)</small>
+
+IV. Poseer, al día de su designación, título y cédula profesionales de nivel licenciatura;
 
 V. Gozar de buena reputación, no estar sujeto a proceso penal y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional;
 
@@ -1180,3 +1182,9 @@ Artículo Primero.- El presente Decreto entrará en vigor el día de su publicac
 Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 Artículo Tercero.- Para efectos del Artículo 8 penúltimo párrafo, los Sujetos Obligados podrán digitalizar la información que generen, a partir de la entrada en vigor del presente decreto y hasta donde se lo permita el volumen de sus archivos.
+
+P.O. 30 DE JUNIO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
