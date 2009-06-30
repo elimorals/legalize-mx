@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2009-06-26"
+last_updated: "2009-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2009.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -4937,185 +4937,139 @@ Si el que está en posesión de los derechos de ascendiente o de descendiente en
 
 ###### Artículo 928.
 
-La adopción confiere al adoptado la posesión de estado de hijo del o de los adoptantes y a éstos los deberes inherentes a la relación paterno-filial.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 #### SECCION SEGUNDA. De la adopción simple
 
 ###### Artículo 929.
 
-La adopción plena requiere:
-
-I.- Que los adoptantes sean un hombre y una mujer casados entre sí, que vivan juntos y bien avenidos;
-
-II.- Por lo menos uno de los adoptantes debe tener quince años más que el menor que se pretende adoptar;
-
-III.- Los adoptantes deben tener cinco o más años de casados sin haber tenido hijos;
-
-IV.- Que el menor que se pretenda adoptar no tenga más de cinco años de edad;
-
-V.- Que el menor sea abandonado por sus padres, de padres desconocidos o pupilo en casa de cuna o instituciones similares;
-
-VI.- Que los adoptantes tengan medios suficientes para proveer debidamente a la subsistencia y educación del menor;
-
-VII.- La adopción debe fundarse sobre justos motivos y ventajas para el menor; y
-
-VIII.- Que los adoptantes sean personas de buenas costumbres.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 ###### Artículo 930.
 
-En cuanto a los niños confiados a los esposos que no reúnan los requisitos de la edad o de duración del matrimonio, o recogidos por ellos, el límite de los cinco años retrocederá tanto tiempo como haya transcurrido entre el momento en que el niño haya sido confiado a esos esposos o recogidos por ellos y aquél en que hayan sido reunidos los requisitos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 ###### Artículo 931.
 
-Los niños a que se refiere el artículo anterior deben reunir los requisitos que para este tipo de adopción señala el artículo anterior.
-
-> <small>(F. DE E., P.O. 8 DE OCTUBRE DE 1980)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 ###### Artículo 932.
 
-El consentimiento, tratándose de niños cuyos padres han fallecido, lo deben dar las personas a quienes por ley corresponda el ejercicio de la patria potestad; y tratándose de niños expósitos o abandonados el consentimiento lo dará el Estado, a través de la Institución del Ministerio Público.
-
-Si el tutor o el Ministerio Público no consienten, deberán expresar la causa en que se fundan, la que el Juez calificará tomando en cuenta los intereses del menor.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 ###### Artículo 933.
 
-La solicitud para la adopción deberá presentarse ante el Juez de Primera Instancia del lugar en que viven los adoptantes y se hará conforme al procedimiento que señale el Código de Procedimientos Civiles.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 ###### Artículo 934.
 
-La sentencia que pronuncie la adopción plena constituye un nuevo estado civil y su autoridad es absoluta y no puede ser contradicha por persona alguna.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 ###### Artículo 935.
 
-La adopción plena es irrevocable cuando causa ejecutoria la sentencia que la pronuncie.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 ###### Artículo 936.
 
-La adopción plena confiere al adoptado los apellidos de los adoptantes y los mismos derechos, obligaciones y parentesco que la filiación consanguínea.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 ###### Artículo 937.
 
-La adopción confiere al adoptante y a los parientes del adoptado los mismos derechos y obligaciones que el parentesco por consanguinidad y afinidad.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 ###### Artículo 938.
 
-La adopción plena entraña automáticamente la extinción de los vínculos jurídicos con la familia de origen, excepto en lo relativo a los impedimentos de matrimonio.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 #### SECCION PRIMERA. Disposiciones Generales
 
 ###### Artículo 939.
 
-La adopción simple podrán realizarla las personas mayores de veinticinco años de edad, libres de matrimonio, que acrediten:
-
-I.- Que tienen quince años más de edad que el menor que se pretenda adoptar;
-
-II.- Que tienen medios bastantes para proveer debidamente a la subsistencia y educación del menor;
-
-III.- Que la adopción es benéfica a éste; y
-
-IV.- Que el adoptante es persona de buenas costumbres.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 ###### Artículo 940.
 
-Cuando circunstancias especiales lo aconsejen, el Juez puede autorizar a favor de un solo adoptante la adopción de dos o más personas simultáneamente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 ###### Artículo 941.
 
-Salvo el caso de adopción plena, no puede una persona ser adoptada simultáneamente por varios adoptantes; pero sí, sucesivamente cuando el adoptante anterior haya muerto.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 ###### Artículo 942.
 
-Puede adoptarse también a un mayor de edad.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 ###### Artículo 943.
 
-El tutor no puede adoptar al pupilo sino hasta después de que hayan sido definitivamente aprobadas las cuentas de la tutela.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 ###### Artículo 944.
 
-El menor o incapacitado que haya sido adoptado podrá impugnar la adopción, dentro del año siguiente a su mayoría de edad o a la fecha que haya desaparecido la incapacidad.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 ###### Artículo 945.
 
-Para que la adopción pueda tener lugar deberán consentir en ella en sus respectivos casos:
-
-I.- El o los que ejercen la patria potestad sobre el menor que se trata de adoptar;
-
-II.- El tutor del que se va a adoptar;
-
-III.- La persona que haya acogido al que se pretende adoptar y lo trate como su hijo, cuando no hubiere quien ejerza la patria potestad sobre él ni tenga tutor; y
-
-IV.- El Ministerio Público del lugar del domicilio del adoptado, cuando éste no tenga padres conocidos, ni tutor ni persona que ostensiblemente le imparta su protección y lo haya acogido como hijo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 ###### Artículo 946.
 
-Si el menor que se va a adoptar tiene más de catorce años, también se necesita su consentimiento para la adopción.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 ###### Artículo 947.
 
-Si el tutor o el Ministerio Público no consienten en la adopción, deberán expresar la causa en que se funden, la que el Juez calificará tomando en cuenta los intereses del menor.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 ###### Artículo 948.
 
-El procedimiento para hacer la adopción será el fijado en el Código de Procedimientos Civiles.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 ###### Artículo 949.
 
-Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando una adopción, quedará ésta consumada.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 ###### Artículo 950.
 
-La adopción producirá sus efectos aunque sobrevengan hijos al adoptante.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 ###### Artículo 951.
 
-El juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar, para que levante el acta correspondiente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 ###### Artículo 952.
 
-El que adopta tendrá respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los padres respecto de las personas y bienes de los hijos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 ###### Artículo 953.
 
-El adoptante dará sus apellidos al adoptado y podrá cambiarle el nombre de pila, haciéndose las anotaciones correspondientes en el acta de adopción.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 ###### Artículo 954.
 
-El adoptante tendrá para con la persona o personas que lo adopten, los mismos derechos y obligaciones que tiene un hijo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 ###### Artículo 955.
 
-Los derechos y obligaciones que nacen de la adopción ordinaria, así como el parentesco que de ella resulte, se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos de matrimonio.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 ###### Artículo 956.
 
-Los derechos y obligaciones que resultan del parentesco natural no se extinguen por la adopción ordinaria, excepto la patria potestad, que será transferida al adoptante; pero si éste está casado o se casare con alguno de los progenitores del adoptado, la patria potestad se ejercerá por ambos cónyuges.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 ###### Artículo 957.
 
-La adopción puede revocarse:
-
-I.- Cuando las dos partes contravengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, se oirá a las personas que prestaron su consentimiento conforme al artículo 945, cuando fueren de domicilio conocido. A falta de éstas, se oirá al representante del Ministerio Público; y
-
-II.- Por ingratitud del adoptado.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 ###### Artículo 958.
 
-En el caso de la fracción I del artículo anterior, el Juez decretará la revocación de la adopción si, convencido de la espontaneidad con que se solicitó aquélla, estima que es conveniente para los intereses morales y materiales del adoptado.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 ###### Artículo 959.
 
-Para los efectos de la fracción II del artículo 957, se considera ingrato al adoptado:
-
-I.- Si comete algún delito intencional contra la persona, la honra o los bienes del adoptante, de su cónyuge, de sus ascendientes o descendientes;
-
-II.- Si el adoptado formula denuncia o querella contra el adoptante, por algún delito aunque se pruebe, a no ser que hubiere sido cometido contra el mismo adoptado, su cónyuge o la persona que viva con él como si lo fuere de sus ascendientes o sus descendientes o de un incapaz de que sea tutor el adoptado, aun cuando no haya parentesco entre ellos;
-
-III.- Si el adoptado rehusa dar alimentos al adoptante, cuando lo necesite.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 ###### Artículo 960.
 
-La resolución judicial que apruebe la revocación, deja sin efecto la adopción restituyendo las cosas al estado que tenían antes de que ésta se efectuara, en todo lo que no esté irreparablemente consumado y se comunicará al oficial del Registro Civil que autorizó el acta de adopción para que la cancele.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
 > <small>(F. DE E., P.O. 8 DE OCTUBRE DE 1980)</small>
 
@@ -5423,9 +5377,21 @@ IV.- Por resolución judicial que determine su pérdida.
 
 Artículo 1018 BIS.- La patria potestad se pierde únicamente mediante resolución judicial, si decretada su suspensión por la causal prevista en la fracción III del artículo 1019 de éste Código, se cometiere alguno de los supuestos siguientes:
 
-l. En el caso de violencia familiar reiterada en contra de la persona menor de edad por parte de quienes ejercen la patria potestad o con su conocimiento y tolerancia, debiéndose señalar para tal efecto las circunstancias de tiempo, modo y lugar; y
+l. En el caso de violencia familiar reiterada en contra de la persona menor de edad por parte de quienes ejercen la patria potestad o con su conocimiento y tolerancia, debiéndose señalar para tal efecto las circunstancias de tiempo, modo y lugar; y (sic)
 
-II. Cuando el que la ejerza hubiera cometido en contra de la integridad física, sexual o psicológica de los hijos, un delito doloso, por el cual haya sido condenado por sentencia ejecutoriada.
+II. Cuando el que la ejerza hubiera cometido en contra de la integridad física, sexual o psicológica de los hijos, un delito doloso, por el cual haya sido condenado por sentencia ejecutoriada;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2009)</small>
+
+III. Cuando el que la ejerza abandone a su hijo y/o hija menor de edad dejándolo a su suerte con un tercero o terceros, o en un lugar público privado, con la finalidad de deshacerse de sus obligaciones de patria potestad;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2009)</small>
+
+IV. Cuando habiendo dejado a su hijo o hija menor de edad a cargo de una persona o institución, el que ejerza la patria potestad deje de atender sin causa justificada y por más de seis meses, las necesidades de manutención y afecto de su hijo y/o hijas.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2009)</small>
+
+En todos los casos, se aceptará como prueba plena una copia certificada de la sentencia ejecutoriada del juzgado o tribunal penal correspondiente.
 
 ###### Artículo 1019.
 
@@ -17112,3 +17078,27 @@ SEGUNDO.- Los trámites iniciados en el Registro Civil del Estado para el efecto
 P.O. 26 DE JUNIO DE 2009.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 30 DE JUNIO DE 2009.
+
+DECRETO NUMERO 156, ARTICULO PRIMERO, POR EL QUE SE EMITE LA LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO, Y SE DEROGAN LOS ARTICULOS 928 AL 960 DEL CODIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+La adecuación de la normatividad y reglamento de la presente ley, que resulte necesaria efectuar conforme a las disposiciones del presente Decreto, deberán realizarse dentro del plazo de 60 días hábiles a partir de la entrada en vigor del mismo.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan los Artículos 928 al 960 del Código Civil para el Estado de Quintana Roo y todas las disposiciones que se opongan a la presente ley.
+
+P.O. 30 DE JUNIO DE 2009.
+
+DECRETO NUMERO 156, ARTICULO CUARTO, POR EL QUE SE ADICIONAN LAS FRACCIONES III Y IV AL ARTICULO 1018-BIS DEL CODIGO CIVIL PARA EL ESTADO DE QUINTANA ROO.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
