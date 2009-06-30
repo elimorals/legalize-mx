@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-la-comision-de-los-derechos-humanos-del-estado-de-27070"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-13"
-last_updated: "2002-12-13"
+last_updated: "2009-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 13 de diciembre de 2002.
 
@@ -203,9 +203,17 @@ II. Tener una residencia en el Estado no menor de 5 años anteriores al día de 
 
 III. Contar, por lo menos, con 30 años cumplidos el día de su designación;
 
-IV. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena; y
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2009)</small>
 
-V. No haber sido sancionado en el desempeño de algún cargo, empleo o comisión dentro de la administración pública estatal o municipal con motivo de una recomendación de los Organismos Públicos de Protección y Defensa de Derechos Humanos.
+IV. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2009)</small>
+
+V. No haber sido sancionado en el desempeño de algún cargo, empleo o comisión dentro de la administración pública estatal o municipal con motivo de una recomendación de los Organismos Públicos de Protección y Defensa de Derechos Humanos; y
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2009)</small>
+
+VI. Poseer, al día de su designación, título y cédula profesional de nivel licenciatura.
 
 ###### Artículo 16.
 
@@ -714,3 +722,11 @@ VÍCTOR M. ALCÉRRECA SÁNCHEZ.
 LIC. GASPAR ARMANDO GARCÍA TORRES
 
 PRESIDENTE DE LA COMISION ESTATAL DE DERECHOS HUMANOS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE JUNIO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
