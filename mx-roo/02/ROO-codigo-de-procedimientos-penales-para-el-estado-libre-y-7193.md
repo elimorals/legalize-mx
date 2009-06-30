@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-penales-para-el-estado-libre-y-7193"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-07"
-last_updated: "2008-09-30"
+last_updated: "2009-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2009.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 7 de octubre de 1980.
 
@@ -791,9 +791,9 @@ Cuando un lesionado necesite pronta curación, cualquier médico puede atenderlo
 
 Queda estrictamente prohibido aprehender a persona alguna sin orden de aprehensión librada por la autoridad judicial competente de conformidad con el artículo 16 de la Constitución Política de los Estado Unidos Mexicanos; hecha excepción en los términos del citado precepto de los casos de flagrante delito o casos urgentes respecto de la comisión de delitos graves.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2009)</small>
 
-Se considera como graves los delitos previstos en los artículos: 86 en relación al 14 respecto de la conducta dolosa, 88, 89, 94, 100 fracción III y último párrafo en relación al 14 respecto de la conducta dolosa, 117, 124, 127, 128, 142 fracción II en relación al 145 fracciones I, V, VI. VII y VIII, 153 fracción XV, 159 párrafo segundo, 171 párrafo primero, 172, 189-BIS, 191. 192, 192-BIS, 192-TER, 192-QUÁTER, 193 último párrafo, 194 segundo párrafo, 202, 203 y 204 del Código Penal para el Estado Libre y Soberano de Quintana Roo.
+Se considera como graves los delitos previstos en los artículos: 86 en relación al 14 respecto de la conducta dolosa, 88, 89, 94, 100 fracción III y último párrafo en relación al 14 respecto de la conducta dolosa, 117, 124, 127, 128, 142 fracción II en relación al 145 fracciones I, V, VI, VII y VIII, 153 fracción XV, 159 párrafo segundo, 171 párrafo primero, 172-BIS, 172-TER, 189-BIS; 191, 192, 192-BIS, 192-TER, 192-QUÁTER, 193 último párrafo, 194 segundo párrafo, 194-Quinquies, 202, 203 y 204, del Código Penal para el Estado Libre y Soberano de Quintana Roo.
 
 El Ministerio Público podrá duplicar el plazo de 48 horas previsto en el citado artículo 16 Constitucional, en los casos de delincuencia organizada, que serán aquellos en los que tres o más personas se organizan bajo reglas de disciplina o jerarquía, para cometer de modo violento o reiterado o con fines predominantemente lucrativos, alguno de los delitos previstos en este artículo como graves.
 
@@ -3840,3 +3840,17 @@ PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
 
 TERCERO.- Los procedimientos iniciados antes de la entrada en vigor del presente Decreto, se seguirán hasta su conclusión definitiva por la autoridad que corresponda, de conformidad con los lineamientos vigentes al momento que iniciaron.
+
+P.O. 30 DE JUNIO DE 2009.
+
+DECRETO No. 155, POR EL QUE SE REFORMA EL ARTICULO 100 DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 30 DE JUNIO DE 2009.
+
+DECRETO No. 156, POR EL QUE SE REFORMA EL ARTICULO 100 DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
