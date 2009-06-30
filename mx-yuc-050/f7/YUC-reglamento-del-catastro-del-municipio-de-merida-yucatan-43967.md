@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-catastro-del-municipio-de-merida-yucatan-43967"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-25"
-last_updated: "2005-02-25"
+last_updated: "2009-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 ---
 # REGLAMENTO DEL CATASTRO DEL MUNICIPIO DE MERIDA, YUCATAN
 
-REGLAMENTO DEL CATASTRO DEL MUNICIPIO DE MERIDA, YUCATAN
+REGLAMENTO DEL CATASTRO DEL MUNICIPIO DE MÉRIDA, YUCATÁN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL CATASTRO DEL MUNICIPIO DE MÉRIDA, PUBLICADO EN LA G.M. DE 30 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el viernes 25 de febrero de 2005.
 
@@ -404,3 +406,15 @@ PRESIDENTE MUNICIPAL
 C. LEANDRO MARTÍNEZ GARCÍA
 
 SECRETARIO DEL AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE JUNIO DE 2009.
+
+PRIMERO.- El presente Reglamento deberá publicarse en la Gaceta Municipal, entrando en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se abroga el Reglamento del Catastro del Municipio de Mérida de fecha veintiséis de enero de dos mil cinco, publicado en el Diario Oficial Del Gobierno del Estado de Yucatán el día veinticinco de febrero de dos mil cinco, se abroga el Convenio de Coordinación para la Administración del Catastro del Municipio de Mérida de fecha del once de marzo de mil novecientos noventa y nueve, publicado en el Diario Oficial del Gobierno del Estado de Yucatán con fecha del doce de marzo de mil novecientos noventa y nueve; y se derogan las demás disposiciones reglamentarias y administrativas de igual o menor rango que se opongan al presente reglamento.
+
+TERCERO.- Se otorga un plazo de noventa días naturales posteriores a la entrada en vigor del presente Reglamento para que los propietarios legales, manifiesten las modificaciones a los predios ubicados en el Municipio de Mérida.
+
+CUARTO.- Se otorga a la Dirección del Catastro del ayuntamiento de Mérida, un plazo de treinta días naturales posteriores a la entrada en vigor del presente Reglamento, para que convoque a los interesados para la integración del Padrón de Dibujantes.
