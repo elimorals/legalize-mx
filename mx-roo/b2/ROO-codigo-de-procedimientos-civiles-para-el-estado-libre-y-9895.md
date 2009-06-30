@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-civiles-para-el-estado-libre-y-9895"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-01-08"
-last_updated: "2007-10-15"
+last_updated: "2009-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el jueves 8 de enero de 1981.
 
@@ -723,7 +723,7 @@ En las salas del tribunal y en los juzgados, los Secretarios harán constar en l
 
 ###### Artículo 121.
 
-Los términos judiciales empezarán a correr desde el día siguiente a aquél en que se hubiere hecho el emplazamiento o notificación personal y fuera de estos casos desde el día siguiente a aquél en que surtió sus efectos la notificación.
+Los términos judiciales empezarán a correr desde el día siguiente a aquel en que se hubiere hecho el emplazamiento o notificación personal y fuera de estos casos desde el día siguiente a aquel en que surtió sus efectos la notificación.
 
 ###### Artículo 122.
 
@@ -5235,6 +5235,8 @@ Los tutores no pueden ser removidos ni excusarse por acto de jurisdicción volun
 
 ### CAPITULO IV. Adopción
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2009)</small>
+
 ###### Artículo 856.
 
 Será necesaria licencia judicial para la venta de los bienes que pertenecen exclusivamente a menores o incapacitados y correspondan a las clases siguientes: 1o.- Bienes raíces; 2o.- Derechos reales sobre inmuebles; 3o.- Alhajas y muebles preciosos; 4o.- Acciones de compañías industriales y mercantiles, cuyo valor exceda de cinco mil pesos.
@@ -5281,7 +5283,7 @@ Lo dispuesto en los Artículos que preceden se aplicará al gravamen y enajenaci
 
 ###### Artículo 864.
 
-El que pretenda adoptar deberá acreditar los requisitos señalados por los Artículos 929 y 939 del Código Civil.
+El que pretenda adoptar deberá acreditar los requisitos señalados por los Artículos 16 y 18 de la Ley de Adopción del Estado de Quintana Roo.
 
 En la promoción inicial deberá manifestar el nombre y edad del menor o incapacitado y el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela, o de las personas o instituciones públicas que lo hayan acogido y acompañar certificado médico de buena salud. Las pruebas pertinentes se recibirán sin dilación en cualquier día y hora hábil.
 
@@ -5293,19 +5295,23 @@ Si el menor no tuviere padres conocidos y no hubiere sido acogido por instituci�
 
 ###### Artículo 865.
 
-Rendidas las justificaciones que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deban darlo conforme a los Artículos 932, 945 y 947 del Código Civil, el Juez resolverá dentro del tercer día lo que proceda sobre la adopción.
+(DEROGADO, P.O. 30 DE JUNIO DE 2009)
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2009)</small>
 
 ###### Artículo 866.
 
-Cuando el adoptante y el adoptado, en el caso de la adopción simple pidan que la adopción sea revocada, el Juez los citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo dispuesto en el Artículo 958 del Código Civil.
+Cuando el adoptante y el adoptado, en el caso de la adopción simple pidan que la adopción sea revocada, el Juez los citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo dispuesto en la Ley de Adopción del Estado de Quintana Roo.
 
-Si el adoptado fuere menor de edad, para resolver sobre la revocación se oirá previamente a las personas que prestaron su consentimiento conforme al Artículo 945 del Código Civil, cuando fuere conocido su domicilio, o en su caso se oirá al Ministerio Público.
+Si el adoptado fuere menor de edad, para resolver sobre la revocación se oirá previamente a las personas que prestaron su consentimiento conforme a la Ley de Adopción del Estado de Quintana Roo, cuando fuere conocido su domicilio, o en su caso se oirá al Ministerio Público.
 
-Para acreditar cualquier hecho relativo a la conveniencia de la revocación, en los casos del Artículo anterior, pueden rendirse toda clase de pruebas.
+Para acreditar cualquier hecho relativo a la conveniencia de la revocación pueden rendirse toda clase de pruebas.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2009)</small>
 
 ###### Artículo 867.
 
-La adopción plena es irrevocable en los términos de los Artículos 934 y 935 del Código Civil.
+La adopción plena es irrevocable en los términos de los Artículos 15, 27 y 53 de la Ley de Adopción del Estado de Quintana Roo.
 
 ###### Artículo 868.
 
@@ -5565,7 +5571,7 @@ Cuando se presente como actor o como reo alguien que no sea personalmente conoci
 
 No será necesaria la identificación aunque se trate de personas desconocidas cuando por la naturaleza o circunstancias del caso no hubiere peligro de suplantación de la persona.
 
-El que se presente como actor o como reo usando nombre de otro para hacerse pasar por él, se considerará como falsario y quedará sujeto a las sanciones que termine el Código Penal.
+El que se presente como actor o como reo usando nombre de otro para hacerse pasar por él, se considerará como falsario y quedará sujeto a las sanciones que determine el Código Penal.
 
 Del Juicio
 
@@ -5788,3 +5794,9 @@ P.O. 28 DE SEPTIEMBRE DE 2007.
 P.O. 15 DE OCTUBRE DE 2007.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+P.O. 30 DE JUNIO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
