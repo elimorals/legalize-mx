@@ -4,7 +4,7 @@ identifier: "TLA-reglamento-interior-del-consejo-consultivo-de-la-comision-22336
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-09-19"
-last_updated: "2008-12-26"
+last_updated: "2009-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22336&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 REGLAMENTO INTERIOR DEL CONSEJO CONSULTIVO DE LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 2009.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Tlaxcala, el miércoles 19 de septiembre de 2001.
 
@@ -73,7 +73,7 @@ Se establecen como facultades y atribuciones del Consejo Consultivo de la Comisi
 
 I. Integrar las Comisiones necesarias para el desarrollo de sus funciones.
 
-II. Conocer y opinar sobre los proyectos de Recomendación y Oficios de No Responsabilidad en las sesiones, conforme al Artículo 23 de la Ley de la Comisión Estatal de Derechos Humanos.
+II. (DEROGADA, P.O. 1 DE JULIO DE 2009)
 
 III. Conocer sobre la situación administrativa, financiera, patrimonial y de ejercicio presupuestal de la Comisión.
 
@@ -310,3 +310,9 @@ Se derogan todas las disposiciones internas que se opongan a la presente reforma
 P.O. 26 DE DICIEMBRE DE 2008.
 
 PRIMERO.- En forma genérica, la presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+P.O. 1 DE JULIO DE 2009.
+
+###### ARTICULO UNICO.
+
+El presente Anexo Único del Acuerdo CCCEDHT/02/2009, entrará en vigor al día siguiente al de su aprobación por el Consejo Consultivo de la Comisión Estatal de Derechos Humanos de Tlaxcala.
