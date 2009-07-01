@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-agencia-de-proteccion-al-medio-41381"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-12"
-last_updated: "2004-10-12"
+last_updated: "2009-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA AGENCIA DE PROTECCION AL MEDIO AMBIENTE Y RECURSOS NATURALES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA AGENCIA DE PROTECCION AL MEDIO AMBIENTE Y RECURSOS NATURALES, PUBLICADO EN EL P.O. DE 1 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el martes 12 de octubre de 2004.
 
@@ -392,3 +394,11 @@ EMILIO RANGEL WOODYARD
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 NAPOLEÓN CANTÚ CERNA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE JULIO DE 2009.
+
+PRIMERO.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Agencia de Protección al Medio Ambiente y Recursos Naturales, publicado en el Periódico Oficial del Estado el 12 de Octubre de 2004.
