@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2009-04-29"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 2009.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -636,7 +636,7 @@ DEL PODER LEGISLATIVO.
 
 DE LA ELECCION Y CALIDAD DE LOS DIPUTADOS.
 
-((REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
 
 ###### Artículo 24.
 
@@ -758,11 +758,19 @@ Transcurrido el plazo anterior sin que se hubieren presentado, se llamará al de
 
 El Congreso del Estado tendrá cada año dos períodos de sesiones ordinarias, el primero se iniciará el 1 de septiembre y terminará el 15 de diciembre; el segundo empezará el 1 de febrero y concluirá el 15 de julio. El Congreso se ocupará, conforme a sus facultades, del examen y la revisión de la cuenta pública del Estado misma que se presentará trimestralmente, a más tardar el último día hábil del mes siguiente a aquel en que concluya cada trimestre de calendario, conforme al avance de gestión financiera en concordancia con el avance del Plan Estatal de Desarrollo, los programas operativos anuales sectorizados y por dependencia u organismo auxiliar y, en su caso, del programa financiero.
 
-El Congreso del Estado recibirá para su examen, discusión y aprobación, a más tardar el 1 de octubre de cada año, las iniciativas de Ley de Ingresos del Estado, las Leyes de Ingresos de los Municipios y el Presupuesto de Egresos del Estado para el Ejercicio Fiscal siguiente. Cuando el Gobernador inicie su encargo entregará las iniciativas de Ley de Ingresos y de Presupuesto de Egresos del Estado a más tardar el 15 de noviembre de ese año; de igual forma los Presidentes Municipales que inicien su encargo, presentarán al Congreso, sus iniciativas de Ley de Ingresos Municipales en la misma fecha. El Congreso del Estado deberá aprobar la Ley de Ingresos y el Presupuesto de Egresos del Estado y las Leyes de Ingresos Municipales a más tardar el 15 de diciembre de cada año.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO TERCERO DEL DECRETO DE REFORMAS A LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2009)</small>
+
+El congreso del estado a más tardar el 1 de octubre de cada año recibirá la iniciativa de Presupuesto de Egresos del Gobierno del Estado, para el Ejercicio Fiscal siguiente, así como las Iniciativas de Ley de Ingresos del Estado y de los Ayuntamientos, para su exámen, discusión y aprobación. Cuando el Gobernador inicie su encargo entregará las iniciativas de Ley de Ingresos y de presupuesto de egresos del Gobierno del Estado a más tardar el 15 de noviembre de ese año. Teniendo la obligación el Congreso del Estado de aprobarlas a más tardar el 15 de diciembre de cada año. Los presidentes municipales que inicien su encargo, presentarán al Congreso del Estado, a más tardar el 1 de febrero la Iniciativa de Ley de Ingresos del ejercicio fiscal actual. Teniendo la obligación el Congreso del Estado de aprobarla a más tardar el último día de febrero del año que corresponda. De manera transitoria, se utilizarán los parámetros aprobados para el ejercicio fiscal inmediato anterior de cada ayuntamiento, para los meses de enero y febrero o hasta en tanto la Legislatura apruebe la nueva Ley de Ingresos.
 
 Al aprobar el Congreso el Presupuesto de Egresos del Estado, deberá verificar que se incluyan y, en caso contrario, deberá incluir y autorizar, la o las partidas presupuestales necesarias y suficientes para cubrir el pago de obligaciones a cargo del Estado, los organismos descentralizados estatales, las empresas de participación estatal mayoritaria y los fideicomisos públicos que formen parte de la Administración Pública Paraestatal, derivadas de empréstitos y de contratos de colaboración público privada durante la vigencia de los mismos. En caso de que, por cualquier circunstancia, se omita incluir y autorizar en el Presupuesto las partidas necesarias y suficientes para cubrir, en su totalidad, el pago de obligaciones derivadas de empréstitos o de contratos de colaboración público privada, se entenderán por incluidas y autorizadas las partidas que hubieren sido autorizadas en el Presupuesto anterior, ajustándose su monto de manera automática en función de las obligaciones contraídas.
 
-Los Ayuntamientos presentarán al Congreso, a más tardar el día 31 de enero de cada año, la Cuenta Pública correspondiente al año anterior, debidamente integrada y aprobada por el Cabildo, a excepción del año en que concluyan un período constitucional e inicien uno nuevo, en cuyo caso la aprobación de la cuenta pública y su presentación ante el Congreso la hará cada uno por el período a su cargo. El Ayuntamiento que concluya su gestión deberá presentar, a más tardar el 30 de noviembre, la cuenta pública correspondiente a los meses de enero a octubre del año en que termine el período constitucional. El Ayuntamiento que inicie su gestión deberá presentar, a más tardar el 31 de enero del año siguiente a aquel en que inicie su período constitucional, la cuenta pública, correspondiente a los meses noviembre y diciembre del año en que inicie dicho período. En el supuesto anterior, el Ayuntamiento entrante presentará la cuenta pública anual, consolidando los doce meses del ejercicio presupuestal, sin perjuicio de las responsabilidades que correspondan a los funcionarios públicos en funciones en cada período constitucional.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO TERCERO DEL DECRETO DE REFORMAS A LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2009)</small>
+
+Los ayuntamientos presentarán al Congreso a más tardar el día 31 de enero de cada año, la cuenta correspondiente al año anterior debidamente integrada y aprobada por el Cabildo.
 
 A solicitud del Ejecutivo del Estado o del Presidente Municipal, en su caso, podrán ampliarse los plazos de presentación de las Leyes de Ingresos, cuentas públicas y Presupuestos de Egresos, a que se refiere este Artículo, cuando haya causas plenamente justificadas, por aprobación de las dos terceras partes de los integrantes del Congreso, pero será obligación de la Secretaría del Despacho a cargo de la Hacienda Pública comparecer ante el Congreso para informar sobre las razones que la motiven. En el ámbito municipal la atribución anterior corresponderá a los Presidentes Municipales pudiendo comparecer en su representación el Tesorero Municipal.
 
@@ -2362,11 +2370,11 @@ En caso de retiro y retiro forzoso, les serán aplicables las disposiciones prev
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPÍTULO III.
+### CAPITULO IV.
 
-DE SU NATURALEZA JURIDICA Y ATRIBUCIONES REGLAMENTARIAS.
+DE LOS SERVICIOS QUE PRESTAN.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTÍCULO 109
 
@@ -2402,11 +2410,11 @@ La Ley Orgánica establecerá la organización, el funcionamiento, las atribucio
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO IV.
+### CAPÍTULO III.
 
-DE LOS SERVICIOS QUE PRESTAN.
+DE SU NATURALEZA JURIDICA Y ATRIBUCIONES REGLAMENTARIAS.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTÍCULO 109
 
@@ -2472,7 +2480,11 @@ Para la asignación de Regidores se estará al principio de cociente natural y r
 
 Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, por elección directa, no podrán ser reelectos para el periodo inmediato. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos para el periodo inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el periodo inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes, si podrán ser electos para el periodo inmediato como propietarios a menos que hayan estado en ejercicio.
 
-El ejercicio de los Ayuntamientos electos será de tres años y se iniciará el primero de noviembre del año que corresponda a la elección, salvo lo que disponga esta Constitución y la Ley respectiva para el caso de elecciones extraordinarias.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO TERCERO DEL DECRETO DE REFORMAS A LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2009)</small>
+
+El ejercicio de los Ayuntamientos electos será de tres años y se iniciará el primero de enero del año posterior a la elección, salvo lo que disponga esta Constitución y la Ley respectiva para el caso de elecciones extraordinarias.
 
 Los Presidentes Municipales, los Síndicos y los Regidores, así como los demás servidores públicos municipales que determine la Ley de Responsabilidades de los Servidores Públicos del Estado, deberán cumplir con la presentación oportuna de sus declaraciones patrimoniales ante el Congreso del Estado, en los términos del Artículo 133-bis de esta Constitución.
 
@@ -2493,18 +2505,6 @@ La facultad ejecutiva del régimen jurídico municipal y de las resoluciones tom
 La ley determinará la competencia del Ayuntamiento en funciones de cabildo y las facultades expresas del Presidente Municipal.
 
 La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el Gobierno del Estado.
-
-###### Artículo 114.
-
-Los Municipios tienen personalidad jurídica propia; pero la política y la administrativa de los mismos, fuera del Estado, corresponde al Ejecutivo como representante de toda la Entidad, excepto en los casos de aplicación de leyes federales.
-
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
-
-### CAPITULO VIII.
-
-DE LAS FACULTADES DEL CONGRESO EN MATERIA DE ORGANIZACIÓN MUNICIPAL.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 114
 
@@ -2533,6 +2533,18 @@ IX.- Los demás que la ley determine, según las condiciones territoriales y soc
 Los Ayuntamientos con sujeción a la normatividad aplicable, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la asociación de municipios del Estado y de otro o más Estados, deberán contar con la aprobación de las legislaturas correspondientes. Así mismo cuando a juicio del Ayuntamiento respectivo, sea necesario, podrá celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio municipio, sujetándose también a la ley o leyes respectivas.
 
 Sin perjuicio de su competencia constitucional, en el desempeño de sus funciones o la prestación de los servicios a su cargo, los Ayuntamientos observarán lo dispuesto en las leyes federales y estatales.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+### CAPITULO VIII.
+
+DE LAS FACULTADES DEL CONGRESO EN MATERIA DE ORGANIZACIÓN MUNICIPAL.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+###### Artículo 114.
+
+Los Municipios tienen personalidad jurídica propia; pero la política y la administrativa de los mismos, fuera del Estado, corresponde al Ejecutivo como representante de toda la Entidad, excepto en los casos de aplicación de leyes federales.
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -3931,3 +3943,11 @@ El presente Decreto iniciará su vigencia, al día siguiente de su publicación 
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas aquellas disposiciones jurídicas que se opongan a la presente reforma.
+
+P.O. 1 DE JULIO DE 2009.
+
+PRIMERO.- Aprobado que sea el presente Decreto deberá publicarse en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Por esta única ocasión, los Ayuntamientos que tomen posesión el 1 de noviembre de 2009, prorrogarán sus funciones hasta el treinta y uno de diciembre de 2012.
+
+TERCERO.- Este Decreto iniciará su vigencia el 1 de enero de 2012.
