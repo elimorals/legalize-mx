@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-45176"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-06-05"
-last_updated: "2009-06-21"
+last_updated: "2009-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45176&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 2 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 5 de julio de 2005.
 
@@ -2798,3 +2800,81 @@ Se derogan todas la (sic) disposiciones legales que se opongan al presente decre
 P.O. 21 DE JUNIO DE 2009.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+P.O. 2 DE JULIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Vigencia de la ley.
+
+Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Funcionamiento de juzgados de primera instancia.
+
+En tanto entre en vigencia el nuevo Código Procesal Penal del Estado de Durango y demás leyes relativas, de manera gradual en todo el territorio, seguirán funcionando simultáneamente los juzgados de primera instancia con jurisdicción mixta, los especializados en materia penal y los auxiliares en materia penal, hasta que se agoten los expedientes del sistema tradicional.
+
+###### ARTÍCULO TERCERO.
+
+Actuaciones fuera del territorio de los jueces orales.
+
+De acuerdo a la implementación gradual del nuevo sistema penal, previo acuerdo del Consejo de la Judicatura, los jueces orales podrán resolver asuntos fuera del territorio dentro del cual ejercen su jurisdicción.
+
+###### ARTÍCULO CUARTO.
+
+Vigencia de reglamentos anteriores.
+
+Al entrar en vigor el presente Decreto, se seguirán aplicando los reglamentos que se hubieren expedido con anterioridad en lo que no se opongan al contenido de esta Ley, en tanto se expidan los nuevos reglamentos.
+
+###### ARTÍCULO QUINTO.
+
+Abrogación y derogación de disposiciones contrarias al presente decreto.
+
+Se abroga la Ley Orgánica del Poder Judicial del Estado, publicada en el Periódico Oficial del Gobierno Constitucional del Estado, número 45, de fecha cinco de junio de dos mil cinco y todas sus reformas.
+
+Se derogan todas las disposiciones que en la legislación dispersa se opongan a la presente ley.
+
+###### ARTÍCULO SEXTO.
+
+Derechos laborales y administrativos del personal.
+
+Esta Ley, al entrar en vigor, no afectará los derechos laborales y administrativos adquiridos y, por ende, tampoco su situación actual como servidores públicos del Poder Judicial del Estado.
+
+###### ARTÍCULO SÉPTIMO.
+
+Revisiones forzosas y extraordinarias.
+
+De las revisiones forzosas y extraordinarias seguirán conociendo Ias Salas Colegiadas del Tribunal Superior de Justicia hasta la conclusión de los asuntos del sistema penal tradicional.
+
+###### ARTÍCULO OCTAVO.
+
+División Territorial.
+
+En tanto se dicten los acuerdos generales a que se refieren los artículos 16 y 158 de esta Ley, en el Primer Distrito Judicial con residencia en Durango existirán tres juzgados auxiliares, dos civiles y uno penal, en el Tercer Distrito Judicial con residencia en Gómez Palacio existirá un Juzgado Auxiliar Mixto, y los distritos judiciales continuarán siendo:
+
+Primer distrito: Durango como residencia; comprende el Municipio del mismo nombre y el de Mezquital así como las poblaciones de Tayoltita, San Dimas, Rafael Buelna, Guarizamey y Carboneras del Municipio de San Dimas;
+
+Segundo distrito: Ciudad Lerdo como residencia, comprende los municipios de Lerdo y Mapimí, excepto en materia penal que corresponde al tercer distrito;
+
+Tercer distrito: Gómez Palacio corno residencia; comprende el Municipio del mismo nombre y el de Tlahualilo:
+
+Cuarto distrito: Santiago Papasquiaro como residencia; comprende los municipios de Santiago Papasquiaro, Tepehuanes, Guanaceví y Otáez;
+
+Quinto distrito: Canatlán como residencia; comprende los municipios de Canatlán y Nuevo Ideal;
+
+Sexto distrito: El Salto como residencia; comprende los municipios de Pueblo Nuevo y San Dimas con excepción de las Poblaciones de Tayoltita, San Dimas, Rafael Buelna, Guarizamey y Carboneras de este último Municipio;
+
+Séptimo distrito: Topia como residencia; comprende los municipios de Topia, Tamazula y Canelas;
+
+Octavo distrito: Guadalupe Victoria como residencia; comprende los municipios de Guadalupe Victoria y Pánuco de Coronado;
+
+Noveno distrito: Cuencamé como residencia; comprende los municipios de Cuencamé, Peñón Blanco, Santa Clara, San Juan de Guadalupe y Simón Bolívar;
+
+Décimo distrito: Nazas como residencia; comprende los municipios de Nazas, San Luis del Cordero y San Pedro del Gallo;
+
+Décimo primer distrito: San Juan del Río como residencia; comprende los municipios de San Juan del Río, Rodeo y Coneto de Comonfort;
+
+Décimo segundo distrito: Santa María del Oro como residencia; comprende los municipios de El Oro, Indé, Ocampo, San Bernardo e Hidalgo, y
+
+Décimo tercer distrito: Nombre de Dios como residencia; comprende los municipios de Nombre de Dios, Súchil, Poanas y Vicente Guerrero.
