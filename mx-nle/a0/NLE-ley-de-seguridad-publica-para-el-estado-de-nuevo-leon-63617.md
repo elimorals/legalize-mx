@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2009-06-24"
+last_updated: "2009-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -2393,7 +2393,13 @@ XXX. Obligar por cualquier medio a sus subalternos a la entrega de dinero o cual
 
 XXXI. Revelar asuntos secretos o información reservada de los que tenga conocimiento en razón de su empleo, cargo o comisión;
 
-XXXII. Dañar o utilizar en forma negligente el armamento que se le proporcione para la prestación del servicio.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2009)</small>
+
+XXXII.- Dañar o utilizar de forma negligente al armamento que se le proporcione para la prestación del servicio; y
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2009)</small>
+
+XXXlII.- Utilizar o llevar consigo durante el servicio o comisión, uno o varios teléfonos móviles, radiofrecuencias o cualesquier aparato de comunicación que no sea de aquellos que se le hubieran proporcionado por la dependencia correspondiente para la función a su cargo.
 
 ###### Artículo 223.
 
@@ -2407,7 +2413,9 @@ Quienes incurran en las conductas prevista en las fracciones VII ó XXXII del Ar
 
 Las conductas descritas en las fracciones V ó XXII serán motivo de la aplicación como sanción de la suspensión temporal de sus funciones, pero si se realiza con la pretensión de obtener un lucro o beneficio indebido será causa de destitución, según la gravedad del caso.
 
-Serán motivo de la imposición de suspensión temporal o destitución, según la naturaleza o gravedad del caso, las conductas previstas en las fracciones II, XII ó XVII.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2009)</small>
+
+Serán motivo de imposición de separación temporal o destitución, según la naturaleza o gravedad del caso, las conductas previstas en las fracciones II, XII, XVII y XXXIII del Artículo Anterior.
 
 Son causas de destitución las conductas descritas en los incisos (sic) VIII, IX, X, XI, XIII, XV, XVI, XVIII, XIX, XX, XXI, XXIII, XXIV, XXV, XXVI, XXVII, XXIX, XXX ó XXXI del Artículo anterior.
 
@@ -2608,5 +2616,9 @@ P.O. 21 DE NOVIEMBRE DE 2008.
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 24 DE JUNIO DE 2009.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE JULIO DE 2009.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
