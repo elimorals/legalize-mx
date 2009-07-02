@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51772"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2009-06-18"
+last_updated: "2009-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JULIO DE 2009.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -1087,7 +1087,7 @@ XXXII. Dar seguimiento, en coordinación con las unidades administrativas, de la
 
 XXXIII. Elaborar y aprobar los dictámenes relativos a las plantillas de personal de nuevos órganos jurisdiccionales, que al efecto le remite la Dirección General de Recursos Humanos;
 
-XXXIV. Coordinar las acciones que sean necesarias, dentro del ámbito de la competencia de la secretaría, para realizar la ceremonia de instalación de los nuevos órganos jurisdiccionales;
+XXXIV. (DEROGADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE DEROGA Y MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 2 DE JULIO DE 2009)
 
 XXXV. Evaluar el funcionamiento del órgano jurisdiccional creado, a fin de verificar si cumple con las expectativas consideradas para su creación;
 
@@ -1529,7 +1529,11 @@ XIV. Fungir como enlace operativo entre el Presidente y los Directores de los Or
 
 XV. Asistir, como asesor del Presidente, a las sesiones del Pleno; y
 
-XVI. Las demás que le atribuya expresamente el Presidente.
+> <small>(ADICIONADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE DEROGA Y MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 2 DE JULIO DE 2009)</small>
+
+XVI. Coordinar las acciones que sean necesarias para la realización de las ceremonias de instalación de los nuevos órganos jurisdiccionales, inicio de obra e inauguración de Edificios Sede del Poder Judicial de la Federación; y
+
+XVII. Las demás que le atribuya expresamente el Presidente.
 
 ### Capítulo VI. De los Organos Auxiliares del Consejo
 
@@ -3510,3 +3514,11 @@ PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del propio Consejo.
+
+D.O.F. 2 DE JULIO DE 2009.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del propio Consejo.
