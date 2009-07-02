@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2008-07-24"
+last_updated: "2009-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,29 +21,189 @@ state: "JAL"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-CONSTITUCION POLITICA DEL ESTADO DE JALISCO
+LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
 
-Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
+Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 6 de enero de 2012.
 
-MANUEL M. DIEGUEZ, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber:
+JOSÉ GUADALUPE OSUNA MILLÁN GOBERNADOR DEL ESTADO DE BAJA CALIFORNIA, ANUNCIO QUE EL CONGRESO DEL ESTADO HA DIRIGIDO AL SUSCRITO PARA SU PUBLICACIÓN, EL DECRETO NÚMERO 159 CUYO TEXTO ES EL SIGUIENTE:
 
-Que la Cámara de Diputados del Congreso Local, ha tenido a bien decretar la siguiente Constitución:
+LA H. XX LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 27, FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL, EXPIDE EL SIGUIENTE:
 
-"El Congreso Constituyente del Estado Libre y Soberano de Jalisco, convocado por Decreto del Gobierno Provisional del Estado, de fecha 6 de abril de 1917, de acuerdo con el mandato del primer Jefe del Ejército Constitucionalista y Encargado del Poder Ejecutivo de la Nación, fechado el 6 de marzo del mismo año, cumpliendo con el objeto para el cual fue convocado, ha tenido a bien expedir la siguiente:
+DECRETO No. 159
 
-Constitución Política del Estado de Jalisco
+## TÍTULO PRIMERO
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
-## TITULO PRIMERO
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
+###### Artículo 1.
 
-### CAPITULO I. De la Soberanía Interior del Estado y de la forma de Gobierno
+Esta Ley es de orden público e interés social, y de observancia general en el Estado de Baja California. Tiene por objeto garantizar y reconocer los derechos de las personas adultas mayores, para propiciarles una plena protección, bienestar y calidad de vida, así como para lograr su integración al desarrollo social, económico, político y cultural; estableciendo las bases y disposiciones para su cumplimiento, mediante la regulación de:
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
+I. La política pública estatal para la observancia de los derechos de las personas adultas mayores;
+
+II. Los principios, objetivos, programas, responsabilidades e instrumentos que la administración pública estatal y municipal, deberán observar en la planeación y aplicación de la política pública estatal; y,
+
+III. El Consejo Estatal para la Protección e Integración de las Personas Adultas Mayores.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 2.
+
+La aplicación, responsabilidad de vigilancia y seguimiento de esta Ley corresponde:
+
+I. Al Ejecutivo Estatal, a través de las dependencias y entidades que integran la Administración Pública, así como por los órganos descentralizados y entidades paraestatales, en el ámbito de sus respectivas competencias y jurisdicción;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+II. Al Poder Legislativo del Estado de Baja California;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+III. A los Ayuntamientos de los Municipios del Estado, por conducto de las dependencias y entidades de la Administración Pública;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+IV. La familia de las personas adultas mayores vinculada por el parentesco, de conformidad con lo dispuesto por los ordenamientos jurídicos aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+V. Los ciudadanos y la sociedad civil organizada; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+VI. El Consejo Estatal para la Protección e Integración de las Personas Adultas Mayores.
+
+Los sectores público, social y privado, en términos de lo dispuesto por este artículo, celebrarán los convenios o acuerdos de colaboración entre sí, y con las instancias federales correspondientes que realicen alguna o varias actividades que constituyen el objeto de esta Ley.
+
+###### Artículo 3.
+
+La Administración Pública Municipal, en el ámbito de su competencia, quedará sujeta a las disposiciones establecidas en la presente ley, sin prejuicio de las obligaciones que en la misma materia se prevean en otros ordenamientos aplicables.
+
+###### Artículo 4.
+
+El Ejecutivo Estatal y los Ayuntamientos deberán prever, en su Proyecto de Presupuesto de Egresos, los recursos necesarios para la atención integral de las personas adultas mayores.
+
+###### Artículo 5.
+
+En el Proyecto de Ley de Ingresos Estatal y Municipal, se considerarán descuentos, exenciones y beneficios a favor de las personas adultas mayores, de conformidad con las disposiciones fiscales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 11 DE ABRIL DE 2025)</small>
+
+###### ARTÍCULO 6.
+
+Para los efectos de este ordenamiento se entenderá por:
+
+I. Asistencia Social: Al conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física o mental; propiciando su incorporación plena a la sociedad.
+
+II. Atención integral: Satisfacción de las necesidades físicas, materiales, biológicas, emocionales, sociales, laborales, culturales, recreativas, productivas y espirituales de las personas adultas mayores, considerando sus hábitos, capacidades funcionales, usos, costumbres y preferencias, para facilitarles una vejez plena y sana;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+III. Calidad del servicio: Conjunto de características que confieren al servicio la capacidad de satisfacer tanto las necesidades como las demandas actuales y potenciales;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+IV. Consejo Estatal para la Protección e Integración de las Personas Adultas Mayores: Es un órgano honorario de consulta, asesoría y evaluación de las acciones de concertación, coordinación, planeación y promoción necesarias para favorecer la plena integración social y desarrollo de las personas adultas mayores;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+V. Cuidador: Aquella persona mayor de edad que preste sus servicios, ya sea de forma temporal o permanente en los centros de salud, asilos y albergues reconocidos por la Secretaría de Bienestar, asista o cuide a un adulto mayor afectado, o no, por cualquier tipo de discapacidad o incapacidad que le dificulte o impida el desarrollo normal de sus actividades vitales o de sus relaciones sociales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+VI. Desarrollo Integral: El conjunto de acciones que realizan las dependencias y entidades de la Administración Pública del Gobierno del Estado y de los Municipios y la sociedad organizada, encaminadas al desarrollo de todos sus potenciales humanos en los campos tanto físico, como psíquico, emocional, espiritual, de relaciones humanas y aumento de la capacidad económica y productiva de las personas adultas mayores;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE ABRIL DE 2025)</small>
+
+VII. Envejecimiento: Proceso gradual que se desarrolla durante el curso de vida y que conlleva cambios biológicos, fisiológicos, psico-sociales y funcionales de variadas consecuencias, las cuales se asocian con interacciones dinámicas y permanentes entre el sujeto y su medio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE ABRIL DE 2025)</small>
+
+VIII. Envejecimiento activo y saludable: Proceso por el cual se optimizan las oportunidades de bienestar físico, mental y social, de participar en actividades sociales, económicas, culturales, espirituales y cívicas, y de contar con protección, seguridad y atención, con el objetivo de ampliar la esperanza de vida saludable y la calidad de vida de todos los individuos en la vejez, y permitirles así seguir contribuyendo activamente a sus familias, amigos, comunidades y naciones. El concepto de envejecimiento activo y saludable se aplica tanto a individuos como a grupos de población;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE ABRIL DE 2025)</small>
+
+IX. Familia: Los parientes de las personas adultas mayores, atendiendo lo dispuesto por la normatividad estipulada en el Código Civil para el Estado de Baja California, así como el matrimonio y concubinato;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE ABRIL DE 2025)</small>
+
+X. Género: Conjunto de papeles, atribuciones y representaciones de hombres y mujeres en nuestra cultura que toman como base la diferencia sexual;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE ABRIL DE 2025)</small>
+
+XI. Geriatría: Es la especialidad médica dedicada al estudio de las enfermedades propias de las personas adultas mayores;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE ABRIL DE 2025)</small>
+
+XII. Gerontología: Es el estudio integral del envejecimiento, sus causas, efectos y consecuencias en el ser humano;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE ABRIL DE 2025)</small>
+
+XIII. Integración social: Es el resultado de las acciones que realizan las dependencias y entidades de la Administración Pública Estatal y Municipal, las familias y la sociedad organizada, orientadas a modificar y superar las condiciones que impidan a las personas adultas mayores su desarrollo integral, así como la protección física o mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE ABRIL DE 2025)</small>
+
+XIV. Ley: La presente Ley de los Derechos, Protección e Integración de las Personas Adultas Mayores en el Estado de Baja California;
+
+> <small>(REFORMADA [N. DE E. REUBICADA CON SUS INCISOS], P.O. 11 DE ABRIL DE 2025)</small>
+
+XV. Personas adultas mayores: Las personas que cuentan con sesenta años o más de edad y que se encuentran domiciliadas o de paso en el Estado, mismas que podrán estar en las siguientes condiciones:
+
+a) Independientes: cuando sean aptas para desarrollar actividades físicas, mentales o ambas sin ayuda permanente;
+
+b) Semidependiente: cuando sus condiciones físicas y mentales aún les permiten valerse por sí mismas, aunque con ayuda permanente parcial;
+
+c) Dependientes absolutos: cuando sufran de una enfermedad crónica o degenerativa por la que requieran ayuda permanente total o la canalización a alguna institución de asistencia; y,
+
+d) En situación de riesgo o desamparo: cuando por problemas de salud, abandono, carencia de apoyos económicos, familiares, contingencias ambientales o desastres naturales, requieran de asistencia y protección del Gobierno del Estado y de la Sociedad civil Organizada.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE ABRIL DE 2025)</small>
+
+XVI. Vejez: Construcción social de la última etapa del curso de vida; y,
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+XVII. Violencia Contra las Personas Adultas Mayores: Cualquier acción u omisión que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+Artículo 6 BIS.- Los tipos de violencia contra las Personas Adultas Mayores, son:
+
+I. La violencia psicológica. Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, insultos, humillaciones, devaluación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+
+II. La violencia física. Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas o ambas;
+
+III. La violencia patrimonial. Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima; hecha excepción de que medie acto de autoridad fundado o motivado;
+
+IV. La violencia económica. Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE ABRIL DE 2025)</small>
+
+V. La violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE ABRIL DE 2025)</small>
+
+VI. La violencia institucional. Son los actos u omisiones de las y los servidores públicos que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las personas adultas mayores, así como su acceso al disfrute de políticas públicas; y,
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 11 DE ABRIL DE 2025)</small>
+
+VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las Personas Adultas Mayores, como son de manera enunciativa más no limitativa, las siguientes:
+
+a) Abandono: La falta de acción deliberada o no para atender de manera integral las necesidades de una persona mayor que ponga en peligro su vida o su integridad física, psíquica o moral;
+
+b) Discriminación: Cualquier distinción, exclusión, restricción que tenga como objetivo o efecto anular o restringir el reconocimiento, goce o ejercicio en igualdad de condiciones de los derechos humanos y las libertades fundamentales en la esfera política, económica, social, cultural o en cualquier otra esfera de la vida pública y privada;
+
+c) Discriminación múltiple: Cualquier distinción, exclusión o restricción hacia la persona adulta mayor fundada en dos o más factores de discriminación;
+
+d) Discriminación por edad en la vejez: Cualquier distinción, exclusión o restricción basada en la edad que tenga como objetivo o efecto anular o restringir el reconocimiento, goce o ejercicio en igualdad de condiciones de los derechos humanos y libertades fundamentales en la esfera política, económica, social, cultural o en cualquier otra esfera de la vida pública y privada;
+
+e) Maltrato: Acción u omisión, única o repetida, contra una persona mayor que produce daño a su integridad física, psíquica y moral y que vulnera el goce o ejercicio de sus derechos humanos y libertades fundamentales, independientemente de que ocurra en una relación de confianza; y,
+
+f) Negligencia: Error involuntario o falta no deliberada, incluido entre otros, el descuido, omisión, desamparo e indefensión que le causa un daño o sufrimiento a una persona mayor, tanto en el ámbito público como privado, cuando no se hayan tomado las precauciones normales necesarias de conformidad con las circunstancias.
 
 ###### Art. 1º.
 
@@ -61,9 +221,43 @@ El Estado de Jalisco adopta para su régimen interno, la forma de gobierno repub
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
 
-### CAPITULO II. Del Territorio del Estado
+### CAPÍTULO I. DE LOS PRINCIPIOS
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
+###### Artículo 7.
+
+Para la aplicación, observación y cumplimiento de esta ley, son principios rectores los siguientes:
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+I. Autonomía y autorrealización: Las acciones que se realicen en beneficio de las personas adultas mayores para desarrollar y mantener su capacidad decisoria, fortalecer su autosuficiencia, controlar su vida, y su desarrollo personal y productivo;
+
+II. Heterogeneidad: Visión que toma en cuenta características particulares de las personas adultas mayores como un grupo plural, determinada por diferencias socioeconómicas, culturales, de edad, sexo, origen étnico, condición migratoria o de desplazamiento y residencia urbana o rural, sin menoscabo de los beneficios otorgados por esta Ley;
+
+III. La participación: La inserción o incorporación, intervención de las personas adultas mayores en todos los órdenes de la vida pública, y en los asuntos y aspectos que los vinculen directamente deberán ser consultados y promover su participación;
+
+IV. Calidad en el trato: Es el trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores necesarios para el bienestar de las personas adultas mayores, sin distinción;
+
+V. Corresponsabilidad: Concurrencia de los sectores público, privado y social, así como de la comunidad y la familia para la consecución del objeto de esta Ley;
+
+VI. Solidaridad intergeneracional: Construcción o fortalecimiento de relaciones de respeto, apoyo, estímulo e intercambio de experiencias y conocimientos entre las personas adultas mayores y el resto de los grupos que forman la sociedad;
+
+VII. Atención diferenciada: La obligación de las dependencias y entidades estatales y municipales dentro de sus respectivas atribuciones y competencias, a formular e implementar programas acordes a diferentes etapas, necesidades, características y circunstancias de las personas adultas mayores;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+VIII. Atención preferente: La obligación de la familia, iniciativa privada, y de las de las (sic) dependencias de los distintos órdenes de gobierno, a dar a las personas adultas mayores un trato preferencial en el turno y la atención por sobre los demás grupos de edad, para que de esta forma, las personas adultas mayores accedan a los servicios sin dificultad y que brindan las dependencias;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+IX. Dignificación: El derecho de las personas adultas mayores a que se respete su integridad física, emocional y moral, así como la protección de su imagen, autonomía, pensamiento, dignidad y valores, los cuales deberán ser considerados en la formulación de planes y programas de las dependencias de gobierno y en las acciones que emprendan las organizaciones civiles y privadas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+X. Equidad: Es el trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores necesarios para el bienestar de las personas adultas mayores, sin distinción por sexo, situación económica, identidad étnica, fenotipo, credo, religión o cualquier otra circunstancia.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+XI. Igualdad Sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
 
 ###### Art. 3º.
 
@@ -75,9 +269,109 @@ Los municipios del estado son aquellos señalados en la ley que establece las ba
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
 
-### CAPITULO III. De los derechos y obligaciones fundamentales
+### CAPÍTULO II. DE LOS DERECHOS
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2004)</small>
+###### Artículo 8.
+
+Son derechos de las personas adultas mayores, además de aquellos que les reconozcan otras leyes y ordenamientos jurídicos, los siguientes:
+
+I. Disfrutar plenamente, sin discriminación o distinción alguna, de los derechos que ésta Ley consagra, así como de disfrutar de una vida libre de violencia física y moral;
+
+II. Vivir en una sociedad sensibilizada respecto a sus problemas, sus necesidades, sus méritos, sus responsabilidades, sus capacidades y experiencias;
+
+III. Recibir protección por parte de su familia, así como del gobierno estatal y de los municipales dentro de sus respectivas atribuciones y competencias y de la sociedad en general.
+
+IV. Acceder en igualdad de oportunidades, a los programas sociales, y a los servicios de salud, que para tal efecto establezcan las instituciones públicas y privadas;
+
+V. Disfrutar de una vida con calidad, siendo obligación de la familia, de los órganos estatales y municipales de gobierno de acuerdo a sus respectivas competencias y de la sociedad en general, garantizar a las personas adultas mayores, no sólo su supervivencia sino una existencia digna con el acceso efectivo a los mecanismos necesarios para ello;
+
+VI. Ser respetados en su persona y en su integridad física, psicoemocional y sexual, así como de ser protegidos de toda forma de explotación;
+
+VII. Gozar de oportunidades, para mejorar progresivamente las capacidades que les faciliten el ejercicio de sus derechos en condiciones de igualdad;
+
+VIII. Vivir en entornos seguros y dignos que cumplan con sus necesidades y requerimientos y en donde ejerzan libremente sus derechos;
+
+IX. Vivir en el seno de su Familia o a mantener relaciones personales y contacto directo con ella aún en el caso de estar separados;
+
+X. Expresar su opinión libremente, conocer sus derechos y participar en el ámbito familiar y comunitario, así como en todo procedimiento administrativo o judicial que afecte sus esferas personal, familiar y social;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2024)</small>
+
+XI. Acceso a la justicia en cualquier procedimiento judicial o administrativo que involucre a las personas adultas mayores, garantizando se les dé una atención preferente;
+
+XII. Recibir el apoyo del gobierno estatal y de los municipales de acuerdo a sus respectivas competencias en lo relativo al ejercicio y respeto de sus derechos, a través de las instituciones creadas para tal efecto;
+
+XIII. Tener acceso a los satisfactores necesarios, considerando alimentos, bienes, servicios y las condiciones humanas o materiales, para su atención integral;
+
+XIV. Tener acceso preferente a los servicios de salud, en los términos del párrafo cuarto del artículo 4 de la Constitución Política de los Estados Unidos Mexicanos, con el objeto de que gocen cabalmente de bienestar físico, mental, psicoemocional y sexual;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2020)</small>
+
+XV. Recibir por parte de especialistas médicos Valoración Geriátrica Integral, además de orientación y capacitación en materia de salud, nutrición e higiene, así como todo aquello que favorezca su capacidad personal;
+
+XVI. Conformar organizaciones para promover su desarrollo e incidir en las acciones dirigidas a este sector;
+
+XVII. Recibir información sobre las instituciones que prestan servicios para su atención integral;
+
+XVIII. Recibir de manera preferente, educación conforme lo señala el artículo 3º de la Constitución Política de los Estados Unidos Mexicanos;
+
+XIX. Participar en la vida cultural, deportiva y recreativa de su comunidad;
+
+XX. Participar en los procesos productivos, de educación y capacitación de su comunidad;
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+XXI. Gozar de oportunidades de acceso al trabajo que les permitan un ingreso, a recibir una capacitación adecuada, a recibir la protección de las disposiciones de la Ley Federal del Trabajo y de otros ordenamientos de carácter laboral, así como a laborar en condiciones óptimas y en instalaciones que garanticen su seguridad e integridad física, y
+
+XXII. Ser sujeto de programas de asistencia social cuando se encuentren en caso de desamparo, discapacidad o pérdida de sus medios de subsistencia.
+
+#### SECCIÓN I. DERECHO A LA PENSIÓN ALIMENTARIA
+
+###### Artículo 9.
+
+Las personas adultas mayores residentes en el Estado de Baja California, que no reciban ningún tipo de ingreso permanente por concepto de remuneración, jubilación, pensión o dividendos producto de inversión, tienen derecho a recibir una pensión diaria no menor a la mitad del salario mínimo vigente en el Estado.
+
+###### Artículo 10.
+
+La pensión es de carácter público, su objetivo es superar y solventar condiciones de inseguridad social, pobreza de capacidades, oportunidades o patrimonial y no está condicionada a la participación, colaboración o cooperación del Adulto Mayor en actividades políticas.
+
+Está prohibido utilizar los beneficios del derecho a la pensión alimentaria con fines políticos, electorales, de lucro y otros distintos a los establecidos. Quien haga uso indebido de los recursos asignados a garantizar el derecho a la pensión alimentaria será sancionado de acuerdo a las disposiciones legales aplicables.
+
+###### Artículo 11.
+
+Los adultos mayores tendrán derecho a obtener información suficiente y oportuna respecto a la realización de los trámites y requisitos necesarios para acceder al beneficio establecido por esta Ley. Recibirán un trato digno, solidario, subsidiario, respetuoso y equitativo.
+
+###### Artículo 12.
+
+El Ejecutivo Estatal y los Ayuntamientos deberán incluir en sus Proyectos de Presupuesto de Egresos, la asignación que garantice, efectivamente, el derecho a la pensión alimentaria de las personas adultas mayores.
+
+###### Artículo 13.
+
+El Congreso del Estado deberá aprobar, en el Decreto de Presupuesto anual, el monto suficiente para hacer efectivo el derecho a la pensión alimentaria de las personas adultas mayores residentes en el Estado de Baja California.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 14.
+
+La forma como se hará valer la pensión alimentaria, será a través de una tarjeta electrónica, que será expedida por el Gobierno del Estado a través de la Secretaría de Bienestar, y la cual podrá ser utilizada en los principales centros comerciales y establecimientos autorizados.
+
+###### Artículo 15.
+
+Son requisitos mínimos para obtener la pensión mensual los siguientes:
+
+I. Tener sesenta años o más, al momento de solicitar su inscripción al padrón de beneficiarios de la pensión;
+
+II. Contar con una residencia mínima en el Estado de seis meses al momento de solicitar su inscripción al padrón de beneficiarios de la pensión;
+
+III. No contar con pensión derivada de algún sistema de seguridad social; y
+
+IV. Que se encuentre en situación de riesgo o desamparo en términos de la presente Ley.
+
+La verificación de la residencia, la elaboración y actualización permanente del padrón de beneficiarios y demás requisitos necesarios para el ejercicio del derecho establecido en esta Ley, se fijarán en el Reglamento de esta Ley.
+
+###### Artículo 16.
+
+La atención, servicio, trámites y gestiones necesarias para cumplir con esta Ley y recibir los beneficios establecidos por la misma serán gratuitos y se sancionara conforme a la normatividad aplicable a quien incumpla con esta disposición.
 
 ###### Art. 4º.
 
@@ -221,9 +515,53 @@ El Instituto tendrá las atribuciones específicas que la ley le otorgue; sus re
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
 
-### CAPITULO IV. De la Comisión Estatal de Derechos Humanos
+### CAPÍTULO I. DE LOS DEBERES DEL ESTADO
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
+###### Artículo 17.
+
+El Estado garantizará las condiciones óptimas de salud, educación, nutrición, desarrollo integral, y seguridad social a las personas adultas mayores, domiciliadas en el Estado. Igualmente promoverá:
+
+I. Que toda institución pública o privada que brinde servicios a las personas adultas mayores deberá contar con la infraestructura, mobiliario y equipo adecuado, así como con los recursos humanos necesarios para que se realicen los trámites administrativos;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+II. Que ninguna persona adulta mayor sea socialmente marginada o discriminada en ningún espacio público o privado por razón de su origen étnico o nacional, el género, la edad, las discapacidades, la condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar sus derechos y libertades.
+
+III. La celebración de acuerdos de concertación con la iniciativa privada, a fin de que la atención preferencial para las personas adultas mayores, también sea proporcionada en instituciones bancarias, tiendas de autoservicio y otras empresas mercantiles;
+
+IV. La existencia de condiciones adecuadas para las personas adultas mayores tanto en el transporte público como en los espacios arquitectónicos;
+
+V. Brindará las asesorías necesarias a las asociaciones civiles cuya finalidad ulterior resulte en una mayor integración, en todos los ámbitos, de las personas adultas mayores;
+
+VI. Que los organismos de los diferentes órdenes de gobierno, trabajen para la integración social y económica y la rehabilitación física de los adultos mayores;
+
+VII. Que las asociaciones civiles trabajen en la capacitación laboral, integración social y rehabilitación física de los adultos mayores;
+
+VIII. La coordinación con los Ayuntamientos, para el establecimiento de casas hogar, albergues, residencias, centros de estancia, o cualquier otro centro de atención de personas adultas mayores; cuyo objeto sea el de prestarles servicios de protección, asistencia, cuidados físicos, psicológicos y sociales;
+
+IX. Visitas de inspección y vigilancia por parte de las dependencias estatales, a casas hogar, albergues, residencias, centros de estancia, o cualquier otro centro de atención de personas adultas mayores, para verificar las condiciones de funcionamiento, capacitación de su personal, modelo de atención y las condiciones de la calidad de vida;
+
+X. Programas en los que las personas adultas mayores sean beneficiarias de créditos a bajas tasas o sean beneficiarios de subsidios, para la adquisición o mejoramiento de sus viviendas;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2013)</small>
+
+XI. La difusión de esta ley para que la sociedad y las familias respeten a los adultos mayores e invariablemente otorguen el reconocimiento a su dignidad;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2013)</small>
+
+XII. A través del Ejecutivo Estatal, en el ámbito de su competencia y de conformidad con las disposiciones legales, aportará los recursos materiales, humanos, técnicos y financieros que sean necesarios y su disponibilidad presupuestal le permita, para la construcción y apertura de asilos públicos e implementar programas que incentiven la integración social de las personas adultas mayores; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 18 DE OCTUBRE DE 2013)</small>
+
+XIII. Promover de manera coordinada con la Secretaria de Turismo las Actividades diseñadas para personas adultas mayores, particularmente las que se refieren al rescate y transmisión de la cultura y de la historia; así mismo promoverá actividades de recreación turística con tarifas preferentes, diseñadas para personas adultas mayores;
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+XIV. Suscitar convenios con las empresas del ramo para ofrecer a las personas adultas mayores, tarifas preferenciales y/o gratuitas en los centros públicos o privados de entretenimiento, recreación, cultura, deporte, y hospedaje en hoteles.
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+XV.- La celebración de convenios con el Sistema Estatal de Salud, a fin de promover descuentos o tarifas preferenciales en los bienes y servicios que presta la iniciativa privada en materia de salud, específicamente en materia de atención hospitalaria.
 
 ###### Art. 10.
 
@@ -245,13 +583,45 @@ Toda autoridad estatal o municipal que, en el ámbito de su competencia, tenga c
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
 
-## TITULO SEGUNDO
+## TÍTULO SEGUNDO. PRINCIPIOS Y DERECHOS
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
+### CAPÍTULO II. DE LOS AYUNTAMIENTOS
 
-### CAPITULO I. Del Sufragio
+###### Artículo 20.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+Son deberes y facultades de los Ayuntamientos en materia de protección a las personas adultas mayores:
+
+I. Garantizar el cumplimiento de esta Ley, así como formular, definir, conducir, articular y evaluar el padrón de adultos mayores con residencia dentro de su jurisdicción.
+
+II. Formular y desarrollar programas municipales de atención a personas adultas mayores conforme a los principios y objetivos de los Planes Estatal y Municipal de Desarrollo;
+
+III. Celebrar convenios de colaboración en la materia de protección de personas adultas mayores con los Gobiernos Estatal y de otros Municipios de la entidad, así como con entidades de los sectores público, social, privado y con particulares;
+
+IV. Dar cumplimiento en la esfera de su competencia a la presente Ley, así como de las demás disposiciones legales y reglamentarias aplicables en la materia;
+
+V. Destinar en los estacionamientos públicos, los espacios necesarios para el ascenso y descenso de los adultos mayores;
+
+VI. Promover en coordinación con el Gobierno Estatal, el establecimiento de casas hogar, albergues, residencias, centros de estancia, o cualquier otro centro de atención de personas adultas mayores; cuyo objeto sea el de prestarles servicios de protección, asistencia, cuidados físicos, psicológicos y sociales;
+
+VII. Realizar visitas de inspección y vigilancia a casas hogar, albergues, residencias, centros de estancia, o cualquier otro centro de atención de personas adultas mayores, para verificar las condiciones de funcionamiento, capacitación de su personal, modelo de atención y las condiciones de la calidad de vida;
+
+VIII. Denunciar ante las autoridades competentes, las irregularidades de las cuales se percate, como resultado de la inspección y vigilancia, mencionadas en la fracción anterior;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2013)</small>
+
+IX. Impulsar exenciones fiscales permitidas conforme a la ley de la materia, dirigidas a las personas adultas mayores, y a las personas que efectúen donaciones en especie o en efectivo a casas hogar, albergues, residencias, guarderías o cualquier otro centro de atención de personas adultas mayores; cuyo objeto sea el de prestarles servicios de protección, asistencia, cuidados físicos, psicológicos y sociales;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2013)</small>
+
+X. Implementar en las dependencias y entidades que presten servicios al público, una ventanilla de atención preferente para las personas adultas mayores; y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2013)</small>
+
+XI. Las demás que le confieran esta ley y otros ordenamientos legales y reglamentarios sobre la materia.
+
+###### Artículo 21.
+
+Las bases y modalidades del ejercicio coordinado de las atribuciones de los gobiernos Estatal y Municipales, se establecerá (sic) en los convenios correspondientes que al efecto se celebren, en los términos de la Constitución Política del Estado de Baja California, de la presente Ley, de la Ley del Régimen Municipal para el Estado de Baja California, de las políticas públicas en la materia, y demás ordenamientos legales aplicables a la materia.
 
 ###### Art. 11.
 
@@ -259,9 +629,57 @@ El sufragio es la expresión de la voluntad popular para la elección de los int
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
 
-### CAPITULO II. De la función electoral
+### CAPÍTULO III. DE LOS DEBERES DE LAS INSTITUCIONES
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+###### Artículo 22.
+
+Se consideran instituciones de atención a las personas adultas mayores, aquellas instituciones públicas, privadas o sociales constituidas exclusivamente para su beneficio.
+
+###### Artículo 23.
+
+Todas las instituciones públicas, privadas o sociales que atienden a las personas adultas mayores, están obligadas a observar y respetar los derechos que ésta y otras Leyes les reconozcan.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 24.
+
+El personal que labore, así como aquellos que presten servicios voluntarios en instituciones públicas, privadas y sociales dedicadas a la atención y asistencia de las personas adultas mayores, deberán recibir cursos de capacitación a efecto de poder contar con la vocación, capacidad y conocimientos en materia de geriatría, gerontología y tanatología; asimismo, deberán conducirse con absoluto respeto a la dignidad humana y derechos inherentes a las personas adultas mayores con estricto apego a esta legislación y demás aplicables.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+La Secretaría de Salud en coordinación con la Secretaría de Educación, serán las autoridades encargadas de capacitar a las y los cuidadores para que puedan desempeñar a cabalidad dichas funciones, debiendo abordarse como mínimo los siguientes rubros:
+
+a) Información básica sobre el proceso de envejecimiento;
+
+b) Información básica sobre los derechos de las personas adultas mayores;
+
+c) Información básica sobre primeros auxilios.
+
+Estos rubros se deberán desplegar en detalle en el reglamento correspondiente.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+La Secretaría de Bienestar, el Sistema para el Desarrollo Integral de la Familia, la Secretaría de Educación y la Secretaría de Salud, todas del Estado y en coordinación, promoverán que las instituciones de educación superior firmen un convenio, a fin de que los estudiantes que hayan terminado sus estudios y que presten sus servicios como cuidadores en los centros de salud, asilos y albergues que estén reconocidos por dichas instituciones del Estado, liberen de esta forma su servicio social obligatorio.
+
+###### Artículo 25.
+
+Cuando una institución pública, privada o social, se haga cargo de una persona adulta mayor, está obligada a:
+
+I. Atender adecuadamente su alimentación, habitación y asistencia médica;
+
+II. Otorgar los cuidados integrales que requiera su salud física y mental;
+
+III. Proporcionar actividades culturales y recreativas;
+
+IV. Integrar un expediente personal con la historia clínica y un registro con los datos de identificación, estado de salud, tratamientos, entre otros;
+
+V. Dar seguimiento a la evolución y evaluación de los casos atendidos, registrando los datos en los expedientes personales correspondientes;
+
+VI. Obtener en caso de ser posible, los nombres, domicilios y teléfonos de sus familiares; y
+
+VII. Expedir copia del expediente a los familiares autorizados, a las autoridades judiciales o a las instituciones que continúen la atención de las personas adultas mayores, cuando lo soliciten.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Art. 12.
 
@@ -361,9 +779,47 @@ XVI. Las elecciones deberán realizarse el primer domingo de julio del año que 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 28 DE ABRIL DE 1997)</small>
 
-### CAPITULO III. De los partidos y agrupaciones políticas
+### CAPÍTULO IV. DE LOS DEBERES DE LA FAMILIA
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2019)</small>
+
+###### Artículo 27.
+
+Se reconoce a la familia como la institución fundamental en la que debe tener lugar la protección y desarrollo de la persona adulta mayor, así como procurar su bienestar emocional y que deberá cumplir su función social, por lo tanto, de manera constante y permanente deberá velar por cada una de las personas adultas mayores que formen parte de ella, siendo responsable de proporcionar los satisfactores necesarios para su atención y desarrollo integral.
+
+###### Artículo 28.
+
+Sólo en caso de enfermedad, decisión personal de la persona adulta mayor o por causas de fuerza mayor, podrá solicitar su ingreso en alguna institución asistencial pública o privada dedicada al cuidado de personas adultas mayores.
+
+###### Artículo 29.
+
+La familia de la persona adulta mayor tendrá respecto de ésta, los siguientes deberes:
+
+I. Conocer los derechos de las personas adultas mayores, previstos en la presente Ley, así como los que se encuentran contemplados en la Constitución Política del Estado y demás ordenamientos para su debida observancia;
+
+II. Evitar que alguno de sus integrantes cometa cualquier acto de discriminación, abuso, explotación, aislamiento, violencia y actos jurídicos que pongan en riesgo su persona, bienes y derechos;
+
+III. Proporcionar oportuna y adecuadamente alimentación, vestido, habitación y el cuidado de la salud física y mental, de acuerdo a sus posibilidades económicas, conforme a lo dispuesto por el Código Civil para el Estado de Baja California, así como asistencia permanente y oportuna;
+
+IV. Las personas adultas mayores tendrán el derecho de ser examinados cuando menos una vez al año, para mantener la estabilidad de su salud y recibir los tratamientos que requieran en caso de enfermedad;
+
+V. Fomentar la convivencia familiar cotidiana, donde la persona adulta mayor participe activamente, y promover al mismo tiempo, los valores que incidan en sus necesidades afectivas, de protección y de apoyo;
+
+VI. Fomentar su independencia, respetar sus decisiones y mantener su privacidad;
+
+VII. Gestionar ante las dependencias e instituciones del Estado y los Municipios, así como de las organizaciones civiles e iniciativa privada, el reconocimiento y respeto de los derechos de los adultos mayores;
+
+VIII. Contribuir a que la persona adulta mayor se mantenga productiva y socialmente integrada; y
+
+IX. Abstenerse de forzar a la persona adulta mayor a realizar actos de mendicidad que atenten contra su dignidad o que impliquen un esfuerzo tal, que vaya en perjuicio de su salud física y mental.
+
+###### Artículo 30.
+
+Cuando ninguno de los integrantes de la familia pueda encargarse del cuidado personal de la persona adulta mayor, se dará aviso al Sistema para el Desarrollo Integral de la Familia del Estado de Baja California, quien inmediatamente tomará las medidas pertinentes, asegurando con los mecanismos a su alcance, el bienestar de la persona adulta mayor.
+
+###### Artículo 31.
+
+Todas las instituciones públicas y privadas que desarrollen Programas de atención a las personas adultas mayores, deberán tomar las medidas de prevención para que la familia participe en la atención de este sector de la población.
 
 ###### Art. 13.
 
@@ -439,13 +895,29 @@ Las precampañas no podrán durar más de las dos terceras partes de las respect
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
 
-## TITULO TERCERO
+## TÍTULO TERCERO. DEBERES DEL ESTADO, LOS AYUNTAMIENTOS, LAS INSTITUCIONES, Y LA FAMILIA
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
+### CAPÍTULO V. DE LA NEGACION Y CANCELACION DE LOS BENEFICIOS DE ESTA LEY
 
-### CAPITULO UNICO. Del poder público
+###### Artículo 32.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
+La cancelación de la pensión tendrá lugar por las siguientes causas:
+
+I.- Cuando el beneficiario no sea localizado en el domicilio reportado como residencia del mismo, habiéndose agotado cuando menos tres visitas consecutivas;
+
+II.- Cuando se compruebe la duplicidad del beneficiario en el padrón;
+
+III.- Cuando se acredite fehacientemente que el beneficiario ha dejado de cumplir con los compromisos y requisitos dispuestos en el artículo 9 de esta Ley.
+
+IV.- Cuando el adulto mayor haya fallecido.
+
+###### Artículo 33.
+
+La negativa al derecho a la pensión solo será procedente cuando el interesado no cumpla con las disposiciones de esta Ley y habrá de estar debidamente fundada y motivada.
+
+###### Artículo 34.
+
+El acto que niegue el derecho a la pensión o que la cancele, podrá ser impugnado por el interesado ante el Tribunal de lo Contencioso Administrativo del Estado, en los términos de la Ley respectiva.
 
 ###### Art. 14.
 
@@ -501,13 +973,51 @@ Será obligación de las autoridades estatales y municipales, así como de cualq
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
-## TITULO CUARTO
+## TÍTULO CUARTO. POLÍTICAS PÚBLICAS, FACULTADES Y OBLIGACIONES DE LAS AUTORIDADES
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
+### CAPÍTULO I. DE LAS POLÍTICAS PÚBLICAS
 
-### CAPITULO I. Del Poder Legislativo
+###### Artículo 35.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
+Las políticas públicas que formulen el Ejecutivo Estatal, a través de las dependencias a su cargo, y los Ayuntamientos, en sus respectivos ámbitos de competencia en materia de personas adultas mayores, deberán sustentarse en el Plan de Desarrollo respectivo y estarán orientadas a:
+
+I. Vigilar y garantizar la defensa y el pleno ejercicio de sus derechos.
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2019)</small>
+
+II.- Propiciar las condiciones para generar un mayor bienestar físico, psicoemocional y mental de las personas adultas mayores, a fin de que puedan ejercer plenamente sus capacidades en el seno de la familia y de la sociedad;
+
+III. Establecer las bases para la planeación e implementación de acciones de manera integral entre las distintas dependencias del Ejecutivo Estatal y los Ayuntamientos, para lograr un funcionamiento coordinado entre los distintos programas que se formulen y sean acordes con la problemática y necesidades de las personas adultas mayores;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2019)</small>
+
+IV.- Fomentar en la sociedad una cultura de aprecio a las personas adultas mayores para lograr una revalorización de sus capacidades y de lo que puede aportar a la sociedad, y así procurar una mayor sensibilidad de conciencia social, respeto, y convivencia, evitando toda forma de discriminación, violencia, explotación, aislamiento, abandono, engaño, y olvido por motivo de su edad;
+
+V. Impulsar acciones y medidas compensatorias dirigidas a que las personas adultas mayores se integren a la sociedad en materias de salud, educación, laboral, deporte, accesibilidad, cultural y recreativas.
+
+VI. Establecer las bases dentro de los programas, para la asignación de beneficios sociales, descuentos y estímulos para las personas adultas mayores, de conformidad con las disposiciones jurídicas aplicables;
+
+VII. Promover la participación activa de las personas adultas mayores en la formulación e implementación de las políticas públicas que les afecten;
+
+VIII. Promover que las personas adultas mayores realicen una actividad productiva de manera permanente, para que gocen plenamente de su integración en la sociedad, incrementando de esta forma su autoestima y preservando su potencialidad;
+
+IX. Impulsar el fortalecimiento de redes familiares, sociales e institucionales de apoyo a los adultos mayores y garantizar la asistencia social para todas aquellas que por sus circunstancias requieran de protección especial por parte de las instituciones públicas y privadas;
+
+X. Fomentar que las instituciones educativas establezcan las disciplinas para la formación de especialistas en geriatría, gerontología y tanatología, a fin de garantizar la cobertura de los servicios de salud en las instituciones públicas y privadas, requeridos por las personas adultas mayores;
+
+XI. Fomentar la realización de estudios e investigaciones sobre la problemática inherente a la vejez y que sirvan como herramienta de trabajo a las instituciones del sector público y privado para desarrollar programas en beneficio de las personas adultas mayores;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2023)</small>
+
+XII. Promover la difusión de los derechos y valores de las personas adultas mayores, con el propósito de sensibilizar a las familias y a la sociedad respecto a las necesidades de este sector;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2023)</small>
+
+XIII. Deberán contener información sobre la población objetivo, metas específicas, así como las evaluaciones de impacto, integralidad, eficiencia y eficacia; y,
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2023)</small>
+
+XIV. Promover la capacitación para el acceso y uso responsable de las tecnologías de información y comunicación.
 
 ###### Art. 16.
 
@@ -520,6 +1030,14 @@ El Poder Legislativo se deposita en una asamblea que se denomina Congreso del Es
 El Congreso del Estado se integrará con representantes populares electos y se renovará cada tres años, conforme al procedimiento que establezca la Ley Electoral.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JULIO DE 2008)</small>
+
+###### Artículo 18.
+
+El Estado garantizará que el personal que preste servicios en instituciones públicas y privadas que brinden asistencia social a las personas adultas mayores, sea seleccionado previo estudio desde los puntos de vista médico, psicológico, social y académico, y que determinen la calidad del aspirante y su aptitud para el trabajo que de él se espere.
+
+###### Artículo 19.
+
+El Estado garantizará que las instituciones públicas y privadas dedicadas a la asistencia de las personas adultas mayores, en coordinación con las dependencias de los distintos órdenes de gobierno y las universidades, implementen programas de servicio social a fin de que la comunidad estudiantil de las distintas áreas puedan compenetrarse en la atención de las personas adultas mayores.
 
 ###### Art. 18.
 
@@ -639,6 +1157,10 @@ Para el conocimiento de los dictámenes relativos a la materia de responsabilida
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
+###### Artículo 26.
+
+Cuando la institución pública, privada o social, otorgue su atención a una persona adulta mayor, examinará, en primer término, la posibilidad de su reintegración familiar, procurando en todo momento evitar circunstancias que pongan en riesgo a la persona adulta mayor.
+
 ###### Art. 26.
 
 En ningún caso el presupuesto del Poder Legislativo podrá ser inferior al ejercido el año inmediato anterior, actualizado con base en la cifra oficial de inflación que publique el Banco de México.
@@ -655,9 +1177,225 @@ No se necesita esta declaración para los diputados que no hayan rendido la prot
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
 
-### CAPITULO II. De la iniciativa y formación de las leyes
+### CAPÍTULO II. FACULTADES Y OBLIGACIONES DE LAS AUTORIDADES
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2008)</small>
+#### SECCIÓN I. DEL PODER LEGISLATIVO DEL ESTADO
+
+###### Artículo 36.
+
+El Poder Legislativo del Estado verificará que:
+
+I. En el Proyecto de Ley de Ingresos Estatal y Municipal, se consideren descuentos, exenciones y beneficios a favor de las personas adultas mayores, de conformidad con las disposiciones fiscales aplicables;
+
+II. En el Proyecto de Presupuesto de Egresos Estatal y Municipal, se asignen los recursos suficientes y las medidas administrativas pertinentes para garantizar el cabal ejercicio de sus atribuciones y deberes en esta materia; y
+
+III. Las disposiciones contenidas en los diversos cuerpos normativos sean congruentes con los preceptos establecidos en la presente Ley.
+
+#### SECCIÓN II. DE LA SECRETARÍA GENERAL DE GOBIERNO
+
+###### Artículo 37.
+
+Corresponde a la Secretaría General de Gobierno:
+
+I. Gestionar ante los notarios públicos, el otorgamiento de descuentos y facilidades en los trámites que realicen ente (sic) ellos, las personas adultas mayores;
+
+II. Realizar campañas de regularización del estado civil y de otorgamiento de la Clave Única de Registro Poblacional para las personas adultas mayores;
+
+III. Implementar, en coordinación con las dependencias competentes, las medidas de protección civil adecuadas para las personas adultas mayores, en los centros educativos, culturales y recreativos, así como acciones preventivas con la participación de la comunidad.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+#### SECCIÓN III. DE LA SECRETARÍA DE BIENESTAR
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 38.
+
+Corresponde a la Secretaría de Bienestar:
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+I.- Coordinar e implementar las acciones que se requieran, para promover la integración social de las personas adultas mayores y para brindarles los servicios de asistencia social y atención integral a los que se refiere esta Ley, realizando el padrón de las personas adultas mayores que requieran y soliciten estos apoyos, así como la pensión contemplada en el artículo 9 de esta Ley;
+
+II. Fomentar la participación de los sectores público, social y privado en la promoción, seguimiento y financiamiento de los programas de atención a las personas adultas mayores;
+
+III. Suscribir con los sectores público, social y privado, los convenios que se requieran para la implementación de programas de defensa, protección, provisión, orientación alimentaria, participación y atención a los derechos de las personas adultas mayores;
+
+IV. Organizar campañas de orientación e información nutricional de acuerdo a las condiciones físicas de las personas adultas mayores; y
+
+V. Establecer una base de información sobre las condiciones socioeconómicas, cobertura e impacto de los programas y acciones en beneficio de las personas adultas mayores, y que contribuya al mejor diseño y planeación de los programas y políticas públicas en la materia.
+
+#### SECCIÓN IV. DE LA SECRETARÍA DE SALUD
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 11 DE ABRIL DE 2025)</small>
+
+###### ARTÍCULO 39.
+
+Corresponde a la Secretaría de Salud:
+
+I. Garantizar el acceso a la atención médica en las clínicas y hospitales públicos con una orientación especializada para las personas adultas mayores;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+II. Promover la atención especial, que deberán recibir los programas de detección oportuna y tratamiento temprano de enfermedades crónicas y neoplasias entre las personas adultas mayores, así como de atención y asistencia a quienes sufran de discapacidades funcionales. Asimismo, los programas de salud incorporarán medidas de prevención y promoción de la salud a fin de contribuir a prevenir discapacidades y favorecer un envejecimiento activo y saludable;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2020)</small>
+
+III. Realizar Valoración Geriátrica Integral, además, proveer a las personas adultas mayores de una cartilla médica de salud y autocuidado, misma que será utilizada indistintamente en las instituciones públicas y privadas; en la cual se especificará el estado general de salud, enfermedades crónicas, tipo de sangre, medicamentos y dosis administradas, reacciones e implementos para ingerirlos, alimentación o tipo de dieta suministrada, consultas médicas y asistencias a grupos de autocuidado;
+
+IV. Diseñar y ejecutar programas de asesoría en materia de alimentación y nutrición adecuados para las personas adultas mayores;
+
+V. Implementar programas de prevención de enfermedades y accidentes que se presenten con mayor frecuencia entre la población de personas adultas mayores en el Estado;
+
+VI. Dar orientación, información y capacitación a las familias, con el objeto de que brinden una adecuada atención a las personas adultas mayores;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+VII. Proporcionar, en coordinación con la Secretaría de Bienestar, orientación y apoyo técnico a los Ayuntamientos que lo soliciten, en materia de planes y programas relacionados con la atención de las personas adultas mayores;
+
+VIII. Establecer mecanismos bajo el principio de coordinación interinstitucional, para proporcionar medicamentos, previo estudio socioeconómico, que determine su distribución sin costo alguno, en caso de estado de necesidad o abandono de las personas adultas mayores;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+IX. Realizar acciones de prevención que induzcan a la sociedad a conocer y tomar las medidas pertinentes para acceder a un envejecimiento activo y saludable;
+
+X. Fomentar la capacitación en materia de primeros auxilios, terapias de rehabilitación, técnicas de alimentación y tratamiento de las personas adultas mayores, para aquellas personas que tengan a éstas a su cuidado;
+
+XI. Vigilar que las instituciones públicas, privadas y sociales que presten servicios de atención médica, cuenten con personal que posea vocación, capacidad y conocimientos en el cuidado de las personas adultas mayores;
+
+XII. Implementar programas y concertar convenios con las instituciones de salud del gobierno federal y las de iniciativa privada, a fin de que las personas adultas mayores puedan tener acceso a los servicios de atención médica que proporcione el Sistema de Salud; y
+
+XIII. Celebrar convenios con universidades públicas y privadas para recibir prestadores de servicio social en las áreas de trabajo social, psicología, medicina, odontología y enfermería para que apoyen las acciones institucionales en la atención de las personas adultas mayores.
+
+###### Artículo 40.
+
+La Secretaría de Salud podrá efectuar visitas a las instituciones públicas, privadas o sociales, encargadas de la atención de las personas adultas mayores, a efecto de verificar su buen funcionamiento, debiendo ordenar la corrección inmediata de las irregularidades de las cuales se percate, mediante la adopción de las medidas que correspondan, o en su caso, comunicar dicha situación a la autoridad competente.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+#### SECCIÓN V. DE LA SECRETARÍA DE EDUCACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 41.
+
+Corresponde a la Secretaría de Educación:
+
+I. Fomentar el acceso de las personas adultas mayores a programas de educación y capacitación continua;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+II. Promover y elaborar por sí, o en coordinación con los gobiernos estatal y municipal, la creación de programas permanentes de educación para la alfabetización de las personas adultas mayores; así como incorporar a las personas adultas mayores que tengan preparación académica, como instructores en los programas dirigidos a la capacitación y difusión de algún tema de interés social, en especial los programas dirigidos hacia las personas protegidas por esta Ley;
+
+III. Elaborar programas especiales de capacitación y educación para las personas adultas mayores, en coordinación con la Secretaría del Trabajo y Previsión Social, con la finalidad de que puedan incorporarse a la actividad económica del Estado;
+
+IV. Fomentar, en coordinación con las universidades, programas de posgrado y de investigación en las especialidades de geriatría, gerontología y tanatología, en todos los niveles de atención en salud, así como de atención integral a las personas adultas mayores, dirigidos a personal técnico asistencial;
+
+V. Proponer ante las autoridades correspondientes, la incorporación de contenidos sobre procesos de envejecimiento en los planes y programas de estudios de todos los niveles educativos; y
+
+VI. Facilitar el uso de las bibliotecas públicas que les otorguen préstamo a domicilio del material de las mismas, con la presentación de su identificación personal, credencial de jubilado o pensionado.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+#### SECCIÓN VI. DE LA SECRETARÍA DE HACIENDA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 42.
+
+Corresponde a la Secretaría de Hacienda:
+
+I. Desarrollar programas de condonación o de reducción de contribuciones estatales a favor de las personas adultas mayores;
+
+II. Promover entre los municipios de la entidad, la condonación, reducción o estímulos de contribuciones a favor de las personas adultas mayores;
+
+III. Apoyar a las personas adultas mayores en la realización de gestiones ante las autoridades competentes para que se les otorguen condonaciones, reducciones o exenciones en el pago de derechos por los servicios que presten las dependencias y entidades de la administración pública federal, estatal y municipal, de conformidad con las disposiciones fiscales aplicables; y
+
+IV. Realizar campañas de difusión de la condonación, reducción o estímulos de contribuciones a favor de las personas adultas mayores.
+
+#### SECCIÓN VII. DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
+
+###### Artículo 43.
+
+Corresponde a la Secretaría del Trabajo y Previsión Social:
+
+I. La promoción (sic) empleos como actividades lucrativas o voluntarias, conforme a su oficio, habilidad o profesión, sin más restricción que su limitación física o mental declarada por la autoridad médica o legal competente;
+
+II. El fomento a la creación de organizaciones productivas de las personas adultas mayores;
+
+III. La capacitación a las personas adultas mayores, para que adquieran conocimientos y destrezas en actividades productivas;
+
+IV. La organización de una bolsa de trabajo mediante la cual se identifiquen actividades laborales que puedan ser desempeñadas por las personas adultas mayores y orientarlas para que presenten ofertas de trabajo;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2024)</small>
+
+V. La asesoría jurídica gratuita a las personas adultas mayores que decidan retirarse de sus actividades laborales;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2024)</small>
+
+VI. La creación de mecanismos de autoempleo mediante capacitación y financiamiento para que las personas adultas mayores adquieran conocimientos y destrezas en el campo de formulación y ejecución de proyectos productivos; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2024)</small>
+
+VII. Fomentar el trabajo digno para las personas adultas mayores, en un plano de igualdad de oportunidades, generando los mecanismos de seguimiento y vigilancia que garanticen se cumplan con las disposiciones legales en materia laboral, con la finalidad de erradicar la discriminación.
+
+#### SECCIÓN VIII. DE LA SECRETARÍA DE TURISMO
+
+###### Artículo 44.
+
+Corresponde a la Secretaría de turismo:
+
+I. Impulsar la promoción de actividades y participación de los adultos mayores en actividades turísticas;
+
+II. Promover acciones a fin de que en lugares públicos destinados a la recreación, se cuente con los espacios y actividades que faciliten la integración de los adultos mayores;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+
+III. Establecer convenios de coordinación con empresas del ramo, para ofrecer tarifas especiales, en su caso gratuitas, en los centros públicos y privados de entretenimiento, recreación, cultura y deporte, hospedaje en hoteles y asistencia a centros históricos y turísticos;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+
+IV. Fomentar la participación de las personas adultas mayores en el rescate y transmisión oral de la cultura e historia del Estado, como parte de la promoción turística de nuestra entidad; y
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+
+V. Para garantizar el derecho a la recreación y turismo, difundirá permanentemente a través de los medios masivos de comunicación, las actividades turísticas que se realizan a favor de las personas adultas mayores.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+#### SECCIÓN IX. DE LA SECRETARÍA DE ECONOMÍA E INNOVACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+Artículo 44 BIS.- Corresponde a la Secretaría de Economía e Innovación:
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2013)</small>
+
+I.- Proponer la implementación de medidas fiscales y no fiscales que incentiven la contratación de personas adultas mayores;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2013)</small>
+
+II.- Promover que en los proyectos de inversión a que se refiere la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado, se comprenda la contratación de personas adultas mayores; y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2013)</small>
+
+III.- Impulsar cualquier tipo de medida con el fin de que el sector empresarial otorgue más y mejores prestaciones laborales para las personas adultas mayores.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+#### SECCIÓN X. DE LA SECRETARÍA DE CULTURA
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+Artículo 44 TER.- Corresponde a la Secretaría de Cultura:
+
+I.- Estimular a las personas adultas mayores a la creación y goce de la cultura, facilitando su acceso a través de talleres, exposiciones, concursos y eventos comunitarios, municipales, estatales, nacionales e internacionales;
+
+II.- Diseñar, promover y establecer en coordinación con el INAPAM y el DIF estatal y municipal, la política estatal en materia cultural, enfocada a este sector de la población;
+
+III.- Implementar y promover ante las instancias correspondientes, que en los eventos culturales y artísticos organizados por autoridades estatales, municipales o de iniciativa privada, se propicie la accesibilidad, la gratuidad o descuentos especiales de las personas adultas mayores;
+
+IV.- Impulsar el derecho de hacer uso de las bibliotecas públicas que facilitaran el préstamo a domicilio del material de las mismas.
 
 ###### Art. 28.
 
@@ -779,9 +1517,155 @@ El Instituto Electoral del Estado efectuará el cómputo de los votos y remitir�
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
 
-### CAPITULO III. De las facultades del Congreso del Estado
+### CAPÍTULO I. DE SU NATURALEZA, OBJETO Y FUNCIONES
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
+###### Artículo 45.
+
+Se crea el Consejo Estatal para la Protección e Integración de las Personas Adultas Mayores, como un órgano honorario de consulta, asesoría y evaluación de las acciones de concertación, coordinación, planeación y promoción necesarias para favorecer la plena integración social y desarrollo de las personas adultas mayores.
+
+###### Artículo 46.
+
+En el ejercicio de sus funciones, el Consejo Estatal deberá atender los siguientes criterios:
+
+I. Integralidad en las políticas públicas a cargo de las distintas dependencias, organismos auxiliares y entidades de la administración pública Estatal y Municipal, a partir de la ejecución de programas y acciones coordinadas;
+
+II. Vigilar el cumplimiento y desarrollo de los programas y actividades para el fortalecimiento institucional de las dependencias responsables de la aplicación de las disposiciones jurídicas que regulen la materia en la entidad y los municipios; y
+
+III. Coadyuvar en el fortalecimiento de los vínculos con las demás instancias del sector público federal y municipal, así como con el Poder Legislativo del Estado, con el fin de cumplir con los objetivos de esta Ley.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 47.
+
+El Consejo Estatal estará integrado por:
+
+I. Presidente, que será la persona Titular de la Secretaría de Bienestar;
+
+II. Secretario Ejecutivo, que será la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia de Baja California, con derecho a voz;
+
+III. Secretario Técnico, que será la persona Titular de la Secretaría de Salud;
+
+IV. Personas titulares de las siguientes dependencias:
+
+a) La Secretaría de Educación.
+
+b) La Secretaría de Hacienda.
+
+c) La Secretaría del Trabajo y Previsión Social.
+
+d) La Secretaría de Turismo.
+
+e) La Secretaría de Economía e Innovación.
+
+V. Las y los Diputados Presidentes de cada una de las Comisiones de Asuntos Indígenas y Bienestar Social; de Educación, Cultura, Ciencia y Tecnología; de Hacienda y Presupuesto; y de Salud, conforme a la temática e integración en cada Legislatura del Congreso del Estado y temática en la materia; y,
+
+VI. Las y los Presidentes Municipales del Estado de Baja California.
+
+###### Artículo 48.
+
+El Consejo Estatal, a través de su Presidente, invitará a formar parte del mismo, con derecho a voz, a los delegados en el Estado del Instituto Nacional de las Personas Adultas Mayores, del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y del Instituto del Fondo Nacional para la Vivienda de los Trabajadores.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 49.
+
+El Consejo podrá invitar a que asistan a las sesiones que celebre a:
+
+I.- Representantes de otras instancias locales, federales e internacionales.
+
+II.- Académicos, especialistas o empresarios encargados de desarrollar programas, actividades o investigaciones relacionadas con la población de personas adultas mayores.
+
+III.- Personas adultas mayores relacionadas o que estén en condiciones de coadyuvar a toma de decisiones del Consejo;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+IV.- Representantes de instituciones de educación superior, públicas o privadas que cuenten con áreas de geriatría, gerontología y/o de estudios sociales;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+V.- Empresarios encargados de desarrollar programas, actividades o investigaciones relacionadas con la población de personas adultas mayores; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2025)</small>
+
+VI.- Organizaciones de la sociedad civil relacionadas o que estén en condiciones de coadyuvar a toma de decisiones del consejo.
+
+Los invitados a participar en las sesiones del Consejo contaran con derecho a voz pero sin voto.
+
+###### Artículo 50.
+
+Tendrán el carácter de vocales los que se encuentran enunciados en las fracciones IV, V y VI del artículo 47 de esta Ley.
+
+###### Artículo 51.
+
+Los vocales podrán designar a un suplente ante el Consejo Estatal, que cubra sus ausencias, para lo cual deberán previamente a las sesiones del Consejo Estatal, exhibir el documento en el que se informe su designación.
+
+###### Artículo 52.
+
+En los Municipios deberán formarse Consejos Municipales para la Protección e Integración de las Personas Adultas Mayores, para fomentar la participación de la población y dar a conocer en sus jurisdicciones y al Consejo Estatal, las necesidades y demandas de las personas adultas mayores.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+En los Consejos Municipales a que se refiere el párrafo anterior, también deberá preverse la participación como invitados, con derecho a voz pero sin voto a:
+
+I.- Representantes de otras instancias locales, federales e internacionales.
+
+II.- Académicos, especialistas o empresarios encargados de desarrollar programas, actividades o investigaciones relacionadas con la población de personas adultas mayores.
+
+III.- Personas adultas mayores relacionadas o que estén en condiciones de coadyuvar a toma de decisiones del Consejo;
+
+IV.- Representantes de instituciones de educación superior, públicas o privadas que cuenten con áreas de geriatría, gerontología y/o de estudios sociales, y
+
+V.- Empresarios encargados de desarrollar programas, actividades o investigaciones relacionadas con la población de personas adultas mayores.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 53.
+
+El Consejo Estatal tendrá las siguientes funciones:
+
+I. Formular las políticas públicas y planes en materia de las personas adultas mayores, conforme al artículo 8 de esta Ley;
+
+II. Coordinar con las dependencias, organismos auxiliares y entidades de la administración pública Estatal y Municipal, así como con el sector social y privado, las acciones en pro del bienestar, desarrollo, protección e integración social de las personas adultas mayores;
+
+III. Coordinar la implementación, seguimiento y evaluación de los programas y acciones establecidos en beneficio de las personas adultas mayores, tratando de unificar criterios a fin de evitar duplicidad de servicios y procurar la correcta aplicación de los recursos públicos;
+
+IV. Impulsar alternativas ocupacionales productivas, tanto en el medio urbano como en el rural, encaminadas a mejorar el nivel de vida de las personas adultas mayores;
+
+V. Fomentar la creación, continuidad y accesibilidad de las acciones, programas y servicios relativos a la atención integral de las personas adultas mayores;
+
+VI. Propiciar la colaboración y participación de instituciones públicas y privadas en las acciones que la administración Estatal y Municipal emprenda para la atención integral de las personas adultas mayores;
+
+VII. Proponer la realización de estudios que contribuyan a mejorar la planeación e implementación de políticas públicas y programas para elevar la calidad de vida de las personas adultas mayores;
+
+VIII. Fomentar la elaboración, publicación y distribución de material informativo para dar a conocer la situación de la población de personas adultas mayores en el Estado de Baja California, así como alternativas de participación, solución de problemas y mejora de servicios y programas;
+
+IX. Promover la creación de fundaciones, asociaciones e instituciones privadas que tengan por objeto la protección y atención de las personas adultas mayores;
+
+X. Recibir y canalizar a las instituciones competentes, las quejas y sugerencias sobre la atención que éstas brinden a las personas adultas mayores;
+
+XI. Promover el establecimiento de programas, en coordinación con las autoridades competentes, dirigidos a la promoción de créditos accesibles para las personas adultas mayores que deseen adquirir una vivienda propia o realicen mejoras en caso de contar con una;
+
+XII. Promover, ante las autoridades competentes, la condonación o reducción de contribuciones estatales y municipales a favor de las personas adultas mayores;
+
+XIII. Promover, en coordinación con las autoridades competentes, descuentos en servicios públicos, establecimientos comerciales, centros hospitalarios y otros prestadores de servicios técnicos y profesionales, en beneficio de las personas adultas mayores;
+
+XIV. Promover la implementación de programas de incentivos y becas para las personas adultas mayores que estudien;
+
+XV. Promover el establecimiento y otorgamiento de incentivos o estímulos fiscales estatales o municipales para las personas físicas o morales que contraten o consideren un mínimo de empleos para las personas adultas mayores, en los términos de las disposiciones fiscales disponibles.
+
+XVI. Establecer vínculos de colaboración entre los poderes del Estado, que permitan cumplir con los objetivos de la presente Ley;
+
+XVII. Gestionar fondos ante organizaciones públicas y privadas, nacionales e internacionales, para la ejecución de programas de atención a las personas adultas mayores;
+
+XVIII. Elaborar un informe anual que se remitirá a las Comisiones correspondientes del Congreso del Estado para su conocimiento;
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+XIX. Proveer los mecanismos de participación necesarios para que los adultos mayores colaboren en el diseño, elaboración y ejecución de programas y proyectos que traten sobre ellos, con valoración especial sobre su experiencia y conocimientos en el desarrollo social, económico, cultural y político del Estado;
+
+XX. Aprobar y expedir su reglamento interno; y
+
+XXI. Las demás funciones que se acuerden en el Pleno del Consejo Estatal.
 
 ###### Art. 35.
 
@@ -1049,11 +1933,75 @@ A la iniciativa de Presupuesto de Egresos del Estado de Jalisco se deberá adjun
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-## TITULO QUINTO. (REUBICADO, P.O. 28 DE ABRIL DE 1997)
+## TÍTULO QUINTO. CONSEJO ESTATAL PARA LA PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES
 
-### CAPITULO I. Del Poder Ejecutivo
+### CAPÍTULO II. DE LA ORGANIZACIÓN
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 54.
+
+Para el mejor desempeño de las funciones, el Consejo Estatal deberá organizar grupos de trabajo bajo la coordinación del titular de la Secretaría de Bienestar, y conforme al reglamento que al efecto se expida.
+
+###### Artículo 55.
+
+Los integrantes del Consejo Estatal tendrán voz y voto, con excepción del Secretario Ejecutivo, quien sólo tendrá voz. Las decisiones del Consejo Estatal se tomarán por mayoría de votos de sus integrantes, en caso de empate el Presidente tendrá voto de calidad.
+
+###### Artículo 56.
+
+El Consejo Estatal sesionará de forma ordinaria trimestralmente y extraordinaria, cuando convoque el Presidente o la mayoría de los vocales.
+
+###### Artículo 57.
+
+Para que el Consejo Estatal pueda sesionar válidamente, se requerirá de la asistencia de la mitad más uno de sus integrantes, siempre que asista el Presidente y el Secretario Técnico, o sus suplentes debidamente acreditados.
+
+###### Artículo 58.
+
+Las dependencias, organismos auxiliares y entidades de la administración pública Estatal y Municipal, están obligadas a suministrar la información requerida por el Consejo Estatal, para el cumplimiento de sus fines.
+
+###### Artículo 59.
+
+Al Presidente del Consejo Estatal le corresponde:
+
+I. Representar al Consejo Estatal ante las distintas autoridades e instituciones públicas y privadas;
+
+II. Convocar a sesiones a los integrantes del Consejo Estatal;
+
+III. Presidir las reuniones del Consejo Estatal;
+
+IV. Dirigir y moderar los debates durante las sesiones;
+
+V. Dictar las políticas necesarias para mejorar la operación del Consejo Estatal; y
+
+VI. Someter a consideración del Consejo Estatal, los estudios, propuestas y opiniones que emitan los grupos de trabajo.
+
+###### Artículo 60.
+
+Al Secretario Técnico del Consejo Estatal le corresponde:
+
+I. Coordinar las actividades del Consejo Estatal y de los grupos de trabajo;
+
+II. Por instrucciones previas del Presidente, citar a sesión a los integrantes del Consejo Estatal;
+
+III. Formular la orden del día para las sesiones del Consejo Estatal;
+
+IV. Someter a consideración del Consejo Estatal los programas de trabajo;
+
+V. Difundir y dar seguimiento a las resoluciones y el trabajo del Consejo Estatal;
+
+VI. Proporcionar asesoría técnica al Consejo Estatal;
+
+VII. Verificar el quórum legal para dar inicio y durante las sesiones del Consejo Estatal;
+
+VIII. Suplir al Presidente del Consejo Estatal, en caso de ausencia de éste o su representante;
+
+IX. Levantar las actas de cada una de las sesiones del Consejo Estatal y registrarlas con su firma;
+
+X. Leer el Acta de la sesión anterior;
+
+XI. Llevar el control de la agenda temática; y
+
+XII. Realizar los trabajos que le encomiende el Presidente del Consejo estatal.
 
 ###### Art. 36.
 
@@ -1205,9 +2153,29 @@ La ley determinará la estructura y las facultades de las dependencias y organis
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO II. De las facultades y obligaciones del Gobernador del Estado
+### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 61.
+
+Toda persona física, grupo social, organización no gubernamental, asociación o sociedad civil, podrá denunciar ante los órganos y autoridades competentes, todo hecho, acto u omisión que produzca o pueda producir daño o afectación a los derechos y garantías de las personas adultas mayores, independientemente de las que establece la presente Ley; en el caso de que estos actos pongan en peligro la vida de la persona adulta mayor, deberán informar de manera inmediata al Ministerio Público.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 62.
+
+Cuando los responsables del daño o afectación de los derechos de la persona adulta mayor, sean servidores públicos en ejercicio de sus funciones, se deberá dar aviso al superior jerárquico de manera inmediata para su conocimiento, sujetándolos al procedimiento administrativo que para tal efecto contempla la Ley de Responsabilidades Administrativas del Estado de Baja California.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 63.
+
+La inobservancia a las disposiciones de esta Ley, serán sancionadas de conformidad a lo establecido en la Ley de Responsabilidades Administrativas del Estado de Baja California, así como en las leyes civiles, penales y demás ordenamientos legales aplicables.
+
+###### Artículo 64.
+
+El incumplimiento de las disposiciones que establece esta Ley, en el ámbito de la salud, tratándose de negligencia médica, se pondrán a consideración de las autoridades competentes.
 
 ###### Art. 50.
 
@@ -1281,7 +2249,7 @@ XXV. Las demás que le otorgan la Constitución Política de los Estados Unidos 
 
 > <small>(REFORMADO Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
-## TITULO SEXTO. (REUBICADO, P.O. 28 DE ABRIL DE 1997)
+## TÍTULO SEXTO. DE LAS DENUNCIAS Y SANCIONES
 
 ### CAPITULO I. De los principios generales de la justicia
 
@@ -2361,608 +3329,162 @@ Si se estableciere un gobierno contrario a los principios que ella sanciona, lue
 
 ## TRANSITORIOS
 
-Art. 1º Esta Constitución comenzará a regir el día siguiente de su publicación en cada lugar; excepto en lo relativo al número de Diputados que integran la Legislatura, y comenzarán a regir desde la próxima elección de este Cuerpo; en lo relativo al nombramiento de Magistrados, que comenzará a regir hasta que los actuales concluyan su período; y en cuanto a los Alcaldes y Comisarios Judiciales, que continuarán ejerciendo sus funciones conforme a las leyes hasta que termine el período para que fueron electos.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Art. 2º El actual Poder Legislativo, durará hasta el 31 de enero de 1919; el Ejecutivo, hasta el 28 de febrero del mismo año; y el Judicial hasta el 31 de diciembre de 1918.
+SEGUNDO.- El Ejecutivo del Estado expedirá el Reglamento de la Ley de los Derechos, Protección e Integración de las Personas Adultas Mayores en el Estado de Baja California, dentro del plazo de noventa días naturales, a partir de la fecha que entre en vigor este ordenamiento.
 
-Art. 3º El actual período de sesiones continuará con el carácter de ordinario hasta que el Congreso tenga a bien clausurarlo.
+TERCERO.- El reglamento correspondiente a la pensión alimentaria de las personas adultas mayores, será emitido por la Secretaría de Desarrollo Social, dentro del plazo de noventa días naturales, a partir de la fecha que entre en vigor este ordenamiento.
 
-Art. 4º (DEROGADO, P.O. 13 DE JULIO DE 1994)
+CUARTO.- El Consejo Estatal para la Integración y Protección de las Personas Adultas Mayores, deberá constituirse en un plazo no mayor a los noventa días naturales, a partir de la entrada en vigor de la presente Ley.
 
-Art. 5º (DEROGADO, P.O. 13 DE JULIO DE 1994)
+QUINTO.- El Consejo Municipal para la Integración y Protección de las Personas Adultas Mayores, deberá constituirse en un plazo no mayor a los noventa días naturales, a partir de la entrada en vigor de la presente Ley.
 
-Art. 6º (DEROGADO, P.O. 13 DE JULIO DE 1994)
+SEXTO.- El Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, dentro de un plazo de ciento veinte días, a partir de la entrada en vigor de la presente Ley, adecuarán las disposiciones reglamentarias y aplicables, y conforme a la disposición presupuestaria disponible, adoptarán las medidas necesarias, acciones e implementación de programas orientados a dar cumplimiento a lo establecido en la misma.
 
-Art. 7º (DEROGADO, P.O. 13 DE JULIO DE 1994)
+DADO en el Salón de Sesiones "Lic. Benito Juárez García" del H. Poder Legislativo del Estado de Baja California, en la Ciudad de Mexicali, B.C., a los veintinueve días del mes de diciembre del año dos mil once.
 
-Dado en el Salón de sesiones del Congreso del Estado, a ocho de julio de mil novecientos diecisiete.
+LIC. MÁXIMO GARCÍA LÓPEZ
 
-Firmados: Presidente, M. Bouquet Jr., Diputado por el Primer Distrito.- Vice-Presidente, Carlos Galindo, Diputado por el 5o. Distrito.- V.L. Velarde, Diputado por el 4o. Distrito.- Ramón Delgado, Diputado por el 6o. Distrito.- J.W. Torres, Diputado por el 7o. Distrito.- Tomás Morán, Diputado por el 9o.- Distrito. Jesús Camarena, Diputado por el 10o. Distrito.- Ambrosio Ulloa, Diputado por el 11o. Distrito.- Marcos Guzmán, Diputado por el 12o. Distrito.- Fausto Ulloa, Diputado por el 13o. Distrito.- Pedro Alarcón, Diputado por el 15o. Distrito.- Sebastián Allende, Diputado por el 16o. Distrito.- Secretario, J. Guadalupe Rubalcava, Diputado por el 3er. Distrito.- Secretario, Julián Villaseñor Mejía, Diputado por el 14o. Distrito.
+DIPUTADO PRESIDENTE
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+PROFR. ALFONSO GARZÓN ZATARAIN
 
-P.O. 16 DE SEPTIEMBRE DE 1922.
+DIPUTADO SECRETARIO
 
-EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
+DE CONFORMIDAD CON LO DISPUESTO POR LA FRACCIÓN I DEL ARTÍCULO 49 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, IMPRÍMASE Y PUBLÍQUESE.
 
-P.O. 26 DE SEPTIEMBRE DE 1924.
+MEXICALI, BAJA CALIFORNIA, A LOS TREINTA DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL ONCE.
 
-###### ARTICULO UNICO.
+JOSÉ GUADALUPE OSUNA MILLÁN
 
-Esta ley empezará a regir en la elección de la próxima XXIX Legislatura y los períodos que se señala se contarán a partir del día 1o. de febrero de mil novecientos veinticinco.
+GOBERNADOR DEL ESTADO
 
-P.O. 19 DE FEBRERO DE 1927.
+CUAUHTÉMOC CARDONA BENAVIDES
 
-EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
+SECRETARIO GENERAL DE GOBIERNO
 
-P.O. 27 DE SEPTIEMBRE DE 1928.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
+P.O. 31 DE MAYO DE 2013.
 
-P.O. 27 DE JUNIO DE 1931.
+ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
+P.O. 18 DE OCTUBRE DE 2013.
 
-P.O. 27 DE OCTUBRE DE 1932.
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
+Segundo.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
 
-P.O. 21 DE MARZO DE 1935.
+P.O. 27 DE NOVIEMBRE DE 2015.
 
-PRIMERO.- Los Magistrados del Supremo Tribunal de Justicia en funciones, así como los Jueces de Primera Instancia, cesarán en su cargo el treinta y uno de marzo del corriente año, entrando a funcionar los electos al día siguiente.
+###### ARTÍCULO ÚNICO
 
-SEGUNDO.- Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial.
+Se aprueba la creación de la Ley de los Derechos, Protección e Integración de las Personas Adultas Mayores en el Estado de Baja California, para quedar como sigue:
 
-P.O. 25 DE MARZO DE 1939.
+###### ARTÍCULO PRIMERO.
 
-###### ARTICULO PRIMERO.
-
-El presente Decreto surtirá efectos a partir del siguiente día a aquel en que se publique en el Periódico Oficial.
+Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO SEGUNDO.
 
-Las primeras elecciones para Munícipes a que se convoque en cada uno de los Municipios con posterioridad a la fecha en que entre en vigor este Decreto, se efectuarán con la advertencia de que los Munícipes que resultaren electos, sólo durarán en su cargo un año, a fin de que concluya su periodo al mismo tiempo que el de los demás Munícipes y pueda en lo sucesivo renovarse el Ayuntamiento en su totalidad cada dos años.
+El Consejo Estatal y los consejos municipales, en el ámbito de sus respectivas atribuciones y dentro de un plazo no mayor al de noventa días, contados a partir de la entrada en vigor de las presentes reformas, emitirán o modificarán en su caso, las disposiciones reglamentarias que sean necesarias para dar cumplimiento al presente Decreto.
 
-P.O. 18 DE FEBRERO DE 1947.
+P.O. 18 DE DICIEMBRE DE 2015.
 
-UNICO.- Esta Ley entrará en vigor el mismo día en que se declare que es parte de la Constitución Política del Estado.
+> <small>[N. DE E. ARTÍCULO TRANSITORIO DEL “DECRETO NO. 415 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE LA FRACCIÓN IV AL ARTÍCULO 6, Y XIX AL ARTÍCULO 53, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES; ASÍ MISMO SE REFORMA LA FRACCIÓN XXI DEL ARTÍCULO 8, EL ARTÍCULO 24 Y LA FRACCIÓN II DEL NUMERAL 41, DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA”.]</small>
 
-P.O. 6 DE ABRIL DE 1948.
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-PRIMERO.- Las reformas a que se refiere el presente Decreto surtirán sus efectos en los períodos que se iniciarán el 1º de enero, el primero de febrero y el primero de abril de 1953, respectivamente, para Munícipes, Diputados y Magistrados.
+P.O. 18 DE DICIEMBRE DE 2015.
 
-SEGUNDO.- Por esta sola vez los próximos períodos para Diputados y Munícipes serán de cuatro años, y de dos para los Magistrados. Las elecciones y designación correspondientes, se ajustarán a la forma y términos que establecen la Constitución Política y la Ley Electoral del Estado.
+###### ARTICULO ÚNICO.
 
-P.O. 25 DE SEPTIEMBRE DE 1948.
+EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-DECRETO NUMERO 5373.
+P.O. 25 DE NOVIEMBRE DE 2016.
 
-UNICO.- Esta reforma empezará a surtir sus efectos el día en que se declare que es parte de la Constitución Política del Estado.
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 417 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 17 DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
-P.O. 25 DE SEPTIEMBRE DE 1948.
+ÚNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-> <small>N. DE E. POR LA IMPORTANCIA DEL CONTENIDO DEL ARTICULO UNICO DEL DECRETO, SE TRANSCRIBE INTEGRAMENTE EL MISMO.</small>
+P.O. 18 DE MARZO DE 2016.
 
-DECRETO NUMERO 5375.
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 450 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE MODIFICA LA FRACCIÓN XXI DEL ARTÍCULO 8 DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA”.]
 
-###### ARTICULO UNICO.
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 653 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LAS FRACCIONES III Y IV, ASÍ COMO LA ADICIÓN DE UNA FRACCIÓN V, AL ARTÍCULO 44 DE LA LEY DE DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA”.]
 
-Se declara que las reformas a los Artículos 4o. fracción III, 8o. y 37o., aprobadas por este H. Congreso en sesión del día 30 de agosto del corriente año, forman parte de la Constitución Política del Estado y por lo tanto entrarán en vigor, de acuerdo con lo estipulado en el Decreto respectivo, al publicarse en el Periódico Oficial "El Estado de Jalisco".
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
-P.O. 2 DE MARZO DE 1950.
+P.O. 10 DE NOVIEMBRE DE 2017.
 
-UNICO.- Esta reforma entrará en vigor a partir del día en que se declare que es parte integrante de la Constitución de acuerdo con lo que establece el Artículo 66 de la Constitución Política del Estado.
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 130 MEDIANTE EL CUAL SE APRUEBA LA REFORMA Y ADICIÓN DE LA FRACCIÓN XV AL ARTÍCULO 17 DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA".]
 
-P.O. 6 DE NOVIEMBRE DE 1954.
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Baja California.
 
-EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
+P.O. 22 DE FEBRERO DE 2019.
 
-P.O. 18 DE ABRIL DE 1961.
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 317 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 27 Y 35 DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA".]
 
-UNICO.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco", previa declaración de que forma parte de la Constitución Política del Estado en los términos del Artículo 66 de la propia Constitución.
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 15 DE FEBRERO DE 1966.
+P.O. 22 DE JUNIO DE 2020.
 
-UNICO.- Esta reforma entrará en vigor tres días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 73 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 8 Y 39 DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA”.]
 
-P.O. 2 DE ABRIL DE 1968.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-UNICO.- Esta Ley que forma parte del texto de la Constitución Política del Estado de Jalisco, entrará en vigor tres días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+SEGUNDO. Las presentes reformas serán aplicadas acorde a los convenios federales de la materia y la disponibilidad presupuestaria del sector salud.
 
-P.O. 28 DE AGOSTO DE 1971.
+P.O. 19 DE SEPTIEMBRE DE 2022.
 
-UNICO.- Esta Ley entrará en vigor al día siguientes (sic) de su publicación en el Periódico Oficial "El Estado de Jalisco".
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 130 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 26 DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA".]
 
-P.O. 18 DE ENERO DE 1972.
+UNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
-UNICO.- Esta Ley entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Jalisco.
+P.O. 8 DE SEPTIEMBRE DE 2023.
 
-P.O. 5 DE AGOSTO DE 1972.
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 279 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 1, 2, 6, 7, 38, 41, 42, 44 BIS Y 47, ASÍ COMO LA ADICIÓN DEL ARTÍCULO 6 BIS DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA”.]
 
-UNICO.- Las presentes reformas y adiciones, entrarán en vigor al día siguiente de que se publique en el Periódico Oficial del Estado, la Declaratoria de que forman parte de la Constitución Política del Estado.
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 7 DE NOVIEMBRE DE 1972.
+P.O. 1 DE DICIEMBRE DE 2023.
 
-> <small>N. DE E. POR LA IMPORTANCIA DEL CONTENIDO DEL ARTICULO UNICO DEL DECRETO, SE TRANSCRIBE INTEGRAMENTE EL MISMO.</small>
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 314 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE LA FRACCIÓN XIV AL ARTÍCULO 35 DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA".]
 
-DECRETO NUMERO 8890.
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
-Artículo Unico.- Se declara que forman parte de la Constitución Política del Estado de Jalisco, las Reformas a sus Artículos 9, 10, 23 y 25, publicados en el Periódico Oficial "El Estado de Jalisco", el día 5 de Agosto de 1972, en virtud de haber sido aprobadas por unanimidad de votos, por los Ayuntamiento de la Entidad.
+P.O. 15 DE MARZO DE 2024.
 
-P.O. 24 DE OCTUBRE DE 1978.
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 393 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN XI DEL ARTÍCULO 8 DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA”.]
 
-PRIMERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
-SEGUNDO.- Envíese el presente Decreto a los Ayuntamientos del Estado, en los términos y para los efectos del Artículo 66 de la Constitución Política del Estado.
+P.O. 15 DE MARZO DE 2024.
 
-TERCERO.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco", incluyendo la Declaratoria a que se refiere el Artículo 66 de la Constitución Política del Estado.
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 394 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 43 DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA”.]
 
-P.O. 2 DE ENERO DE 1979.
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-PRIMERO.- Envíese el presente Decreto a los Ayuntamientos del Estado en los términos y para los efectos del Artículo 66 de la Constitución Política del Estado.
+P.O. 14 DE MARZO DE 2025.
 
-SEGUNDO.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco" incluyendo la Declaratoria a que se refiere el Artículo 66 de la Constitución Política del Estado.
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 53 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 6 BIS DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA”.]
 
-P.O. 31 DE MAYO DE 1979.
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
-PRIMERO.- Envíese el presente Decreto a los Ayuntamientos del Estado, en los términos y para los efectos del Artículo 66 de la Constitución Política del Estado.
+P.O. 11 DE ABRIL DE 2025.
 
-SEGUNDO.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco", incluyendo la Declaratoria a que se refiere el Artículo 66 de la Constitución Política del Estado.
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 77 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA".]
 
-P.O. 29 DE JULIO DE 1982.
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Primero. Envíese el presente Decreto a los Ayuntamientos del Estado, en los términos y para los efectos del Art. 66 de la Constitución Política del Estado.
+P.O. 3 DE OCTUBRE DE 2025.
 
-Segundo.- Este Decreto entrará en vigor, el día de su publicación en el Periódico Oficial El Estado de Jalisco, incluyendo la declaratoria a que se refiere el art. 66 de la Constitución Política del Estado.
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 140 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 49, 62 Y 63 DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA".]
 
-Tercero.- En tanto se expida la Ley Reglamentaria de la Frac. V del Art. 4º de la Constitución Política del estado de Jalisco, se estará a lo que dispongan los actuales Reglamentos Gubernativos y de Policía.
+ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-P.O. 5 DE JULIO DE 1983.
+P.O. 12 DE DICIEMBRE DE 2025.
 
-Primero. Envíese el presente Decreto a los Ayuntamientos de la Entidad, en los términos y para los efectos del Art. 66 de la Constitución Política del Estado.
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 193 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UNA SECCIÓN X DENOMINADA DE LA SECRETARÍA DE CULTURA, ASÍ COMO A LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA”.]
 
-Segundo. Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial El Estado de Jalisco, incluyendo la Declaratoria a que se refiere el Art. 66 de la Constitución Política del Estado.
-
-Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 7 DE JULIO DE 1983.
-
-Primero.- Envíese el presente Decreto a los Ayuntamientos de la Entidad, en los términos y para los efectos del Art. 66 de la Constitución Política del Estado.
-
-Segundo.- Este Decreto entrará en vigor el día de su publicación en el Periódico oficial El Estado de Jalisco, incluyendo la Declaratoria a que se refiere el Art. 66 de la Constitución Política del Estado.
-
-Tercero.- Se derogan las disposiciones que se opongan al presente Decreto.
-
-P.O. 9 DE JULIO DE 1983.
-
-Primero.- Envíese el presente Decreto a los Ayuntamientos del Estado, en los términos y para los efectos de lo dispuesto en el Art. 66 de la Constitución Política del Estado.
-
-Segundo.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial El Estado de Jalisco, incluyendo la declaratoria a que se refiere el Art. 66 de la Constitución Política del Estado.
-
-Tercero.- Se derogan las disposiciones que se opongan al presente Decreto.
-
-P.O. 15 DE NOVIEMBRE DE 1984.
-
-Unico.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial el Estado de Jalisco, incluyendo la declaratoria a que se refiere el Art. 66 de la Constitución Política del estado de Jalisco.
-
-P.O. 17 DE OCTUBRE DE 1987.
-
-Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
-
-P.O. 12 DE DICIEMBRE DE 1987.
-
-Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
-
-Artículo Segundo.- Los nombramientos de los Magistrados y Jueces del Poder Judicial, expedidos durante el presente periodo Constitucional subsistirán por todo el tiempo que fueren otorgados, salvo renuncia o destitución.
-
-Artículo Tercero.- Los nombramientos de los Magistrados y Jueces que se expidan por el Titular del Poder Ejecutivo y por el Pleno del Supremo Tribunal de Justicia, respectivamente, con posterioridad a la vigencia de las presentes reformas, deberán satisfacer los requisitos que establece esta Constitución y la Ley Orgánica del Poder Judicial del Estado.
-
-Artículo Cuarto.- Los conflictos de competencia existentes entre los Tribunales a que se refiere el primer párrafo del Art. 39, de esta Constitución, materia del presente Decreto, que actualmente se encuentren ventilándose en las Salas del Supremo Tribunal de Justicia del Estado, deberán remitirse al Pleno del propio Tribunal para su resolución.
-
-Artículo Quinto.- Los conflictos laborales que actualmente se tramitan ante el Tribunal de Arbitraje y Escalafón, en los que intervengan servidores públicos que pertenezcan al Poder Judicial del Estado, se concluirán en los términos de lo establecido en la Ley para los Servidores Públicos del estado de Jalisco y sus Municipios.
-
-P.O. 19 DE ENERO DE 1989.
-
-Unico. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco, una vez que haya sido aprobado por la mayoría de los Ayuntamientos del Estado de Jalisco, en los términos que disponen (sic) el Art. 66, de la Constitución Política Local.
-
-P.O. 10 DE OCTUBRE DE 1989.
-
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA CONSTITUCION.
-
-Primero.- Este Decreto deroga las disposiciones que se opongan al mismo.
-
-Segundo.- La reforma al Art. 24 de la Constitución Política del Estado de Jalisco entrará en vigor tres días después de su publicación en el Periódico oficial El Estado de Jalisco.
-
-P.O. 2 DE ENERO DE 1990.
-
-Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco, una vez que haya sido aprobado por la mayoría de los Ayuntamientos del Estado de Jalisco, en los términos que dispone el Art. 66 de la Constitución Política Local.
-
-P.O. 20 DE AGOSTO DE 1991.
-
-Artículo Primero. En tanto se expidan las nuevas normas reglamentarias en materia electoral, seguirá en vigor la Ley Electoral del Estado de Jalisco, contenida en el Decreto 12817, del veinticinco de octubre de mil novecientos ochenta y siete.
-
-Artículo Segundo. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
-
-P.O. 2 DE ENERO DE 1992.
-
-DECRETO NUMERO 14373.
-
-Artículo Primero. Remítase la documentación necesaria a los Honorables Ayuntamientos de la Entidad; para los efectos del Artículo 66 de la Constitución Política del Estado.
-
-Artículo Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco, de la declaratoria de Ley correspondiente.
-
-P.O. 2 DE ENERO DE 1992.
-
-DECRETO NUMERO 14374.
-
-Artículo Primero. Remítase la documentación necesaria a los Honorables Ayuntamientos de la Entidad, para los efectos del Artículo 66 de la Constitución Política del Estado.
-
-Artículo Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco, de la declaratoria de Ley correspondiente.
-
-P.O. 28 DE ENERO DE 1993.
-
-Unico. Este Decreto entrará el (sic) vigor al día de su publicación en el Periódico Oficial el Estado de Jalisco, una vez cumplimentados los requisitos del Artículo 66 de la Constitución Política del Estado.
-
-P.O. 5 DE JUNIO DE 1993.
-
-Primero.- Los nombramientos de los Magistrados tanto propietarios como Suplentes, otorgados a la fecha, surtirá sus efectos en los mismos términos que se expidieron, con la salvedad de que se considerarán conferidos como nombramientos de Magistrados Numerarios y Supernumerarios, respectivamente.
-
-Segundo.- Dése cumplimiento a lo establecido en el artículo 66 de la Constitución Política del Estado de Jalisco.
-
-Tercero.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco" y una vez cumplidos los extremos del artículo 66 de la Constitución Política del Estado.
-
-P.O. 13 DE JULIO DE 1994.
-
-Artículo Primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Jalisco", una vez aprobadas las reformas y adiciones a la Constitución Política del Estado de Jalisco por la mayoría de los ayuntamientos.
-
-Artículo Segundo. Se derogan los artículos del cuarto al séptimo transitorios y todas las disposiciones que se opongan al presente decreto.
-
-Artículo Tercero. La LIV Legislatura del Congreso del Estado, se instalará el catorce de marzo de mil novecientos noventa y cinco y los diputados que la integren durarán en sus funciones, del día quince del mismo mes al treinta y uno de enero de mil novecientos noventa y ocho.
-
-El Primer Periodo Ordinario de Sesiones de la LIV Legislatura se iniciará el quince de marzo de mil novecientos noventa y cinco, y concluirá a más tardar el treinta de abril del mismo año.
-
-Artículo Cuarto. El Gobernador del Estado que se elija para el próximo período constitucional, tomará posesión de su cargo el primero de marzo de mil novecientos noventa y cinco y durará en él hasta el día último de febrero del año dos mil uno.
-
-Corresponderá a la LIII Legislatura del Congreso del Estado calificar la elección de gobernador en el proceso electoral ordinario de mil novecientos noventa y cinco y tomar la protesta de ley al nuevo Titular del Poder Ejecutivo, en el período extraordinario que para tal efecto se convoque.
-
-Artículo Quinto. Los munícipes que se elijan para integrar la siguiente administración de los ayuntamientos de la Entidad, iniciarán sus funciones el treinta y uno de marzo de mil novecientos noventa y cinco y durarán en su encargo hasta el día treinta y uno de diciembre de mil novecientos noventa y siete.
-
-Artículo Sexto. Por esta única vez y ante el Congreso en sesión extraordinaria, a la cual deberá convocar la Diputación Permanente para ese propósito el día veintiocho de enero de mil novecientos noventa y cinco, el Titular del Poder Ejecutivo del Estado, rendirá su Sexto Informe de la Administración Pública, en los términos de la fracción III del artículo 51 de esta Constitución.
-
-Artículo Séptimo. La Diputación Permanente se integrará conforme a lo dispuesto en el art. 36 de esta Constitución, a partir del receso del Congreso del Estado que se declare al clausurar el último período ordinario de la LIII Legislatura.
-
-Artículo Octavo. Las disposiciones relativas a la permanencia de los magistrados del Tribunal de lo Contencioso Administrativo establecidas en el artículo 62 de esta Constitución, serán aplicables a partir de los siguientes nombramientos que se expidan.
-
-P.O. 28 DE ABRIL DE 1997.
-
-Primero. El Congreso deberá adecuar la Ley Electoral del Estado, así como las demás disposiciones legislativas relativas a los procesos electorales que deriven del presente decreto, las cuales deberán ser promulgadas y publicadas a más tardar el 30 de abril de 1997.
-
-Segundo. El actual Consejo Electoral del Estado continuará en sus funciones hasta el 30 de junio de 1997, fecha en la cual deberá estar integrado el que deba sustituirlo, que entrará en funciones el primero de julio del presente año.
-
-Para los efectos de la distritación que habrá de hacerse para las elecciones de 1997 y del 2000, el Consejo Electoral del Estado tomará en cuenta los resultados arrojados por el conteo de población y vivienda del año de 1995, realizado por el Instituto Nacional de Estadística, Geografía e Informática.
-
-Tercero. En cuanto quede debidamente conformado e instalado el Consejo General del Poder Judicial, en ejercicio de sus facultades, deberá abocarse de inmediato a elaborar la integración de listas de candidatos para la elección de magistrados y determinar la designación de los jueces de primera instancia, menores y de paz. Una vez que se encuentre elaborada la lista de magistrados a elegirse, deberá de presentarla al Congreso del Estado, para que éste lleve a cabo la elección en los términos de este decreto.
-
-Antes de que el Consejo General se aboque a lo señalado en el primer párrafo en este artículo, los magistrados y jueces podrán solicitar su retiro voluntario de la función jurisdiccional y, a quienes opten por este procedimiento, la Secretaría de Finanzas del Estado deberá de entregarles de inmediato los haberes de retiro correspondientes en efectivo. Así mismo, quienes tengan derecho conforme a la ley para efectuar su jubilación podrán ejercerlo.
-
-Los magistrados que a la fecha de aprobación del presente decreto gocen de inamovilidad conforme a los artículos de la Constitución que este decreto reforma y que no opten por el procedimiento de retiro voluntario de la función jurisdiccional en los términos del párrafo segundo de este artículo, se entenderán nombrados para un término de siete años, al fin del cual podrán ser o no ratificados.
-
-Aquellos magistrados que, conforme al texto constitucional que se reforma, no gocen de inamovilidad, al término del período por el cual fueron nombrados, podrán ser ratificados para el primer período de siete años, conforme a lo previsto en este decreto.
-
-Los servidores públicos del Poder Judicial que opten por la jubilación o por el procedimiento previsto en el párrafo anterior, como consecuencia de la aplicación del presente artículo, seguirán conservando en forma vitalicia los servicios médicos que regularmente proporciona el Tribunal a magistrados y jueces, pero estos no podrán ingresar nuevamente al servicio judicial, con excepción de los puestos eminentemente administrativos o docentes dentro de la institución.
-
-Cuarto. Los actuales magistrados del Tribunal de lo Contencioso Administrativo y del Tribunal de lo Contencioso Electoral, concluirán sus funciones a la entrada en vigor del decreto que contenga la Ley Orgánica del Poder Judicial del Estado y recibirán una pensión igual a la que por derecho les corresponde.
-
-Independientemente de las reformas y adiciones propuestas en el presente decreto, los magistrados citados en el párrafo anterior podrán ser reelectos para ocupar el cargo de magistrados en la integración de los nuevos tribunales; en caso de que lo fueren, se suspenderá el derecho a que se refiere el primer párrafo del presente transitorio.
-
-Para el nombramiento y aprobación de los primeros magistrados que integrarán el Tribunal de lo Administrativo conforme a las reformas previstas en el presente decreto, se estará a lo dispuesto en el decreto que contenga la Ley Orgánica del Poder Judicial, en el que se deberá establecer, por única ocasión, que el Gobernador del Estado, previa convocatoria que se haga a los colegios de abogados, a las facultades de derecho y a la sociedad en general, proponga ante el Congreso la lista de los candidatos a ocupar dichos cargos. El Congreso del Estado, previa comparecencia de las personas propuestas, emitirá su resolución dentro del improrrogable plazo de treinta días naturales.
-
-Quinto. Los magistrados que integrarán por primera vez el Tribunal Electoral del Poder Judicial, deberán ser nombrados a más tardar el 14 de Julio y entrarán en funciones el día 31 de Julio, ambos de 1997.
-
-> <small>(F. DE E., P.O. 28 DE ABRIL DE 1997)</small>
-
-Sexto. Para los efectos de los artículos tercero, cuarto y quinto del presente decreto, el Congreso del Estado deberá expedir una Ley Orgánica antes del 14 de Junio de 1997.
-
-Séptimo. Cuando la Constitución del Estado y las leyes se refieran al Registro Nacional de Ciudadanos, en tanto éste no entre en operación, se tomará en cuenta el Padrón Electoral.
-
-Octavo. En tanto no entren en operación la Procuraduría Social y el organismo a que se refiere el artículo 48 de la Constitución, las funciones que les corresponden conforme a este decreto y las leyes, continuarán bajo la competencia de los órganos e instituciones que actualmente las desarrollan.
-
-Noveno. En tanto se expiden o reforman las leyes correspondientes, las funciones que conforme al presente decreto sean competencia del Tribunal de lo Administrativo, seguirán siendo ejercidas por los órganos que hasta este momento las desempeñan, conforme a los procedimientos que actualmente establecen las leyes.
-
-Décimo. El Tribunal de lo Contencioso Administrativo continuará en sus funciones en tanto no se integre el Tribunal de lo Administrativo. Los asuntos que en ese momento se encuentren pendientes de resolución pasarán a conocimiento de este último, el cual deberá dictar las resoluciones que correspondan, ajustándose a la legislación vigente a la fecha en que esos procedimientos iniciaron.
-
-Décimo Primero. En el supuesto de que la LIV Legislatura del Congreso del Estado, tuviera que ratificar la designación de Procurador General de Justicia hecha por el titular del Poder Ejecutivo en los términos del artículo 53 de la Constitución, para este único caso el Congreso deberá ratificar tal designación por voto de por lo menos dos terceras partes de los diputados presentes.
-
-Décimo Segundo. En tanto se expiden o reforman las leyes correspondientes, las funciones que conforme al presente decreto sean competencia del Consejo General del Poder Judicial, seguirán siendo ejercidas por los órganos que hasta este momento las desempeñan, conforme a los procedimientos que actualmente establecen las leyes.
-
-Décimo Tercero. Para integrar por primera ocasión el Consejo General del Poder Judicial, en el decreto respectivo se establecerá la duración que tendrá en el cargo cada uno de los consejeros, para los efectos de la sustitución escalonada a que se refiere el artículo 64 de la Constitución.
-
-Décimo Cuarto. En tanto se expiden o reforman las leyes correspondientes, las funciones que conforme al presente decreto sean competencia de los jueces municipales, seguirán siendo ejercidas por los órganos que hasta este momento las desempeñan, conforme a los procedimientos que actualmente establecen las leyes.
-
-Décimo Quinto. Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco."
-
-P.O. 14 DE ENERO DE 1999.
-
-Artículo Primero. Envíese copia certificada del presente proyecto de dictamen de decreto a los 124 ayuntamientos del estado, con el diario de debates, en el que conste las discusiones que hubiere provocado, para que con fundamento a lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
-
-Artículo Segundo. El presente proyecto de decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 15 DE JUNIO DE 1999.
-
-Primero. Envíese copia certificada de la presente minuta proyecto de decreto a los 124 ayuntamientos del estado, con el Diario de Debates en el que consten las discusiones que hubiere provocado, para que con fundamento a lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
-
-SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 1 DE ABRIL DE 2000.
-
-DECRETO NUMERO 17907.
-
-PRIMERO.- Envíese copia certificada del presente dictamen de decreto a los 124 ayuntamientos del estado, con el Diario de los Debates, en el que conste las discusiones que hubiere provocado, para que con fundamento a lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
-
-SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 1 DE ABRIL DE 2000.
-
-DECRETO NUMERO 17990.
-
-PRIMERO.- Envíese copia certificada del presente dictamen de decreto a los 124 ayuntamiento del estado, con el Diario de los Debates, en el que conste las discusiones que hubiere provocado, para que con fundamento a lo establecido en el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponde.
-
-SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 30 DE MAYO DE 2000.
-
-DECRETO NUMERO 18039.
-
-Primero.- Envíese copia certificada del presente dictamen de decreto de ley a los 124 ayuntamientos del estado, con el diario de debates, en el que consten las discusiones que hubiere provocado, para que con fundamento a lo establecido en el artículo 117 de la Constitución Política del Estado de Jalisco en vigor procedan conforme a derecho corresponda.
-
-Segundo.- Se derogan las disposiciones legales en el ámbito estatal o municipal, en lo que se opongan a lo previsto en el presente decreto.
-
-Tercero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 30 DE MAYO DE 2000.
-
-DECRETO NUMERO 18211.
-
-UNICO.- Una vez que se agote el procedimiento que establecen los artículos 117 y 118 de la Constitución Política de Estado, publíquese el presente decreto en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 30 DE MAYO DE 2000.
-
-DECRETO NUMERO 18228.
-
-PRIMERO.- Envíese copia certificada del presente dictamen de decreto a los 124 ayuntamientos del estado, con el diario de los debates, en el que conste las discusiones que hubiere provocado, para que con fundamento a lo establecido en el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
-
-SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 30 DE MAYO DE 2000.
-
-DECRETO NUMERO 18255.
-
-PRIMERO.- Envíese copia certificada del presente dictamen de decreto a los 124 ayuntamientos del Estado, con el diario de los debates, en el que consten las discusiones que hubiere provocado, para que con fundamento a lo establecido en el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
-
-SEGUNDO.- El presente decreto que contiene la reforma de los artículos 25 de la Constitución Política del Estado y 58 de la Ley Orgánica del Poder Legislativo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 1 DE AGOSTO DE 2000.
-
-PRIMERO.- Envíese copia certificada del presente dictamen de decreto a los 124 Ayuntamientos del Estado, con el diario de los debates, en el que conste las discusiones que hubiere provocado, para que con fundamento a lo establecido en el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda en lo relativo a la adición de la fracción VIII del articulo 15 de la misma Constitución.
-
-SEGUNDO.- El presente Decreto entrará en vigor 60 días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 19 DE DICIEMBRE DE 2000.
-
-DECRETO NUMERO 18344.
-
-PRIMERO.- La presente reforma entrará en vigor 90 días después de su publicación en el periódico oficial "El Estado de Jalisco".
-
-SEGUNDO.- Los ayuntamientos deberán adecuar sus reglamentos y disposiciones de carácter general conforme a lo dispuesto en este decreto, a más tardar en un año a partir de su entrada en vigor.
-
-P.O. 19 DE DICIEMBRE DE 2000.
-
-DECRETO NUMERO 18502.
-
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA CONSTITUCION.
-
-...
-
-TERCERO.- Las disposiciones contenidas en los artículos Primero y Segundo del presente decreto, entrarán en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-CUARTO.- Envíese copia certificada del presente proyecto del dictamen de decreto a los 124 ayuntamientos del Estado, con el diario de debates, en el que conste las discusiones que hubiere provocado, para que con fundamento en lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
-
-P.O. 15 DE MARZO DE 2001.
-
-PRIMERO: Envíese copia certificada del presente dictamen de decreto a los 124 ayuntamientos del Estado, con el diario de debates, en el que consten las discusiones que hubiere provocado, para que con fundamento en lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
-
-SEGUNDO: El presente decreto que contiene la reforma de los artículos 30 de la Constitución Política del Estado y 91 de la Ley Orgánica del Poder Legislativo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 28 DE ABRIL DE 2001.
-
-PRIMERO.- Envíese copia certificada del presente dictamen de ley a los 124 ayuntamientos del Estado, con el diario de debates, en el que consten las discusiones que hubiere provocado, para que con fundamento en lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco, en vigor, procedan conforme a derecho corresponda.
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 7 DE JUNIO DE 2001.
-
-PRIMERO.- Envíese copia certificada del presente dictamen de decreto a los 124 ayuntamientos del Estado, con el diario de debates, en el que consten las discusiones que hubiere provocado, para que con fundamento en lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
-
-SEGUNDO.- El presente decreto entrará en vigor el primero de marzo del 2001 previa su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 17 DE JULIO DE 2001.
-
-PRIMERO.- El presente decreto entrará en vigor a (sic) día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-SEGUNDO.- Los magistrados al Tribunal Electoral deberán ser nombrados a más tardar el día 22 de julio del año 2001.
-
-Una vez que hubieren tomado protesta los magistrados electorales, deberán nombrar de inmediato al Presidente del Tribunal Electoral, integrar la Sala Permanente del Tribunal Electoral, constituir el Instituto de Investigaciones y Capacitación Electoral y designar a los Directores de dicha Institución.
-
-TERCERO.- El Congreso del Estado, deberá reformar la Legislación Estatal en materia Electoral, en un plazo de 90 días a partir de la vigencia del presente decreto.
-
-CUARTO.- El Segundo párrafo del artículo 78, de la Ley Orgánica del Poder Judicial, sólo será aplicable a los magistrados electorales que se elijan con posterioridad a la publicación del presente decreto.
-
-QUINTO.- Se deberán realizar las adecuaciones presupuestales necesarias de acuerdo con las leyes aplicables acorde a nueva estructura del Tribunal Electoral.
-
-SEXTO.- Remítase copia certificada del expediente que se integre con motivo de la presente iniciativa a los 124 Ayuntamientos de la Entidad para los efectos de lo dispuesto por el artículo 117 de la Constitución Política del Estado de Jalisco.
-
-P.O. 13 DE MARZO DE 2003.
-
-PRIMERO. Envíese el presente decreto que contiene reformas a la Constitución Política del Estado de Jalisco, junto con los debates que hubiere provocado a los ayuntamientos del Estado, para los efectos del artículo 117 de la Constitución Política del Estado de Jalisco.
-
-SEGUNDO. El presente decreto que contiene reformas a la Constitución Política del Estado de Jalisco, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 24 DE JUNIO DE 2003.
-
-PRIMERO.- El presente decreto entrará en vigor el 1° de enero del año 2004, previa su publicación en el periódico oficial "El Estado de Jalisco".
-
-SEGUNDO.- Previo a la entrada en vigor del presente decreto, el Estado y los municipios deberán realizar las modificaciones legales y reglamentarias, según sea el caso, para el fin de promover el debido cumplimiento del presente decreto, así como incluir en sus respectivos presupuestos a partir del año 2004, una partida para hacer frente a su responsabilidad patrimonial.
-
-TERCERO.- De conformidad con el artículo 118 de la Constitución Política del Estado de Jalisco, remítase el presente decreto al Titular del Poder Ejecutivo para su promulgación.
-
-P.O. 5 DE AGOSTO DE 2003.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco", aplicándose lo dispuesto en los siguientes artículos transitorios.
-
-SEGUNDO. Se abrogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
-
-TERCERO. La revisión de la cuenta pública, que incluye el informe de avance de gestión financiera, conforme a las disposiciones de este Decreto, se efectuará a partir de la cuenta pública del año 2004. Las revisiones de las cuentas públicas de los años 1999, 2000, 2001, 2002 y 2003 se efectuarán conforme a las disposiciones vigentes en dichos ejercicios.
-
-CUARTO. En todas las disposiciones legales o administrativas; resoluciones, contratos, convenios o actos expedidos o celebrados con anterioridad a la vigencia del presente Decreto, en que se haga referencia a la Contaduría Mayor de Hacienda, se entenderán referidos a la Auditoría Superior del Estado; igualmente, cuando se haga referencia al Contador Mayor, se entenderá referido al Auditor Superior.
-
-QUINTO. Los asuntos que se encuentren en trámite o en proceso en la Contaduría Mayor de Hacienda al entrar en vigor el presente Decreto, continuarán tramitándose, por la Auditoría Superior del Estado en los términos de las disposiciones vigentes antes de la entrada en vigor del presente Decreto.
-
-SEXTO. La adición del párrafo octavo del artículo 33 de la Constitución Política del Estado de Jalisco, sólo será aplicable a los decretos que se expidan con posterioridad a la entrada en vigor de este Decreto.
-
-SÉPTIMO. Por única y excepcionalmente, el Contador Mayor de Hacienda que se encuentre en funciones a la entrada en vigor de la presente reforma, durará en su cargo en la calidad de Auditor Superior del Estado hasta el 31 de julio de 2004.
-
-OCTAVO. Remítase íntegramente copia certificado (sic) del expediente que se integre con motivo de la presente iniciativa a los 124 ayuntamientos del estado, para los efectos de lo dispuesto por el artículo 117 de la Constitución Política del Estado de Jalisco.
-
-P.O. 29 DE ABRIL DE 2004.
-
-PRIMERO.- Remítase el presente decreto al Titular del Poder Ejecutivo del Estado para su promulgación de conformidad a lo establecido por el artículo 118 de la Constitución Política del Estado de Jalisco.
-
-SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-TERCERO.- Con el objetivo de dar conocimiento de estas reformas a las comunidades indígenas, el titular del Poder Ejecutivo Estatal dispondrá que el texto íntegro de este decreto se traduzca a las lenguas de los pueblos indígenas radicados en el Estado, al igual que se establezcan los mecanismos para su plena difusión.
-
-CUARTO.- Los Poderes del Estado y sus ayuntamientos, deberán realizar las adecuaciones necesarias a las leyes y reglamentos para el cumplimiento de lo establecido en el presente decreto.
-
-P.O. 2 DE SEPTIEMBRE DE 2004.
-
-PRIMERO.- Envíese el presente decreto que contiene reformas a la Constitución Política del Estado de Jalisco, junto con los debates que hubiere provocado, a los ayuntamientos del Estado, para los efectos del artículo 117 de la Constitución Política del Estado de Jalisco.
-
-SEGUNDO.- El presente decreto que contiene reformas a la Constitución Política del Estado de Jalisco, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-TERCERO.- Lo dispuesto en el artículo 59, con relación a la prohibición para ser electo Magistrado a los que hayan sido vicepresidentes municipales, seguirá aplicando durante el año siguiente al término de las administraciones municipales del actual periodo Constitucional 2000-2003.
-
-CUARTO.- La prohibición contenida en el artículo 59, con relación a los síndicos, no aplicará para los síndicos que se desempeñen en el actual periodo Constitucional 2000-2003.
-
-P.O. 14 DE SEPTIEMBRE DE 2004.
-
-ÚNICO.- Este decreto que contiene reformas a la Constitución Política del Estado de Jalisco, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco", previa declaratoria del procedimiento establecido en el artículo 117 de la Constitución Política del Estado.
-
-P.O. 26 DE MARZO DE 2005.
-
-UNICO.- El presente decreto entrará en vigor al día siguiente de publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 10 DE MAYO DE 2005.
-
-PRIMERO. El presente decreto que contiene reformas a la Constitución Política del Estado de Jalisco entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-SEGUNDO. La presente reforma constitucional deja a salvo los derechos de los actuales consejeros para presentarse como candidatos a integrar el Instituto Electoral del Estado de Jalisco.
-
-P.O. 13 DE ENERO DE 2007.
-
-PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial el "Estado de Jalisco".
-
-SEGUNDO.- Los consejeros designados con anterioridad al presente decreto terminarán su encargo, de conformidad a las normas con las que fueron electos.
-
-TERCERO.- Las reformas al artículo 56 de la Constitución Política del Estado, contenidas en el Artículo Único del presente decreto, aplicarán en beneficio del Presidente del Supremo Tribunal de Justicia electo para el período en vigencia.
-
-P.O. 5 DE JULIO DE 2007.
-
-ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
-
-P.O. 8 DE SEPTIEMBRE DE 2007.
-
-PRIMERO. Notifíquese a los municipios de Jalisco sobre la propuesta de reforma constitucional, para los efectos legales correspondientes.
-
-SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-P.O. 19 DE ENERO DE 2008.
-
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-SEGUNDO. Notifíquese a los ayuntamientos del estado de Jalisco para que manifiesten su aprobación, en los términos señalados por el artículo 117 de la Constitución local.
-
-TERCERO. Todos los magistrados del Supremo Tribunal de Justicia del estado de Jalisco, sean numerarios o supernumerarios, continuarán en el desempeño de su encargo por el plazo que para cada uno corresponda de acuerdo a su nombramiento y a las normas establecidas en la propia Constitución, con la calidad de magistrados propietarios y en igualdad de derechos y condiciones.
-
-CUARTO. Los actuales magistrados del Supremo Tribunal de Justicia recibirán el haber por retiro a que se refieren el artículo 61 de la Constitución Política del estado de Jalisco y demás disposiciones legales aplicables.
-
-P.O. 22 DE ENERO DE 2008.
-
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-SEGUNDO. Notifíquese a los ayuntamientos del estado de Jalisco, para que manifiesten su aprobación en los términos señalados por el artículo 117 de la Constitución local.
-
-TERCERO. Se derogan todas las normas y disposiciones que se opongan, al presente decreto.
-
-P.O. 1 DE MAYO DE 2008.
-
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-SEGUNDO. Notifíquese a los municipios del estado de Jalisco sobre la propuesta de reforma constitucional, para los efectos legales correspondientes.
-
-P.O. 3 DE JULIO DE 2008.
-
-Primero. Envíese a los ayuntamientos del estado la reforma a la Constitución Política del estado de Jalisco en sus artículos 15 fracción VI, 35 fracciones IV, XXIV, XXV y XXXV y 89 primer párrafo, y su adición de un artículo 35-Bis, y el Diario de los Debates, y de resultar que la mayoría de los ayuntamientos la aprueban, hágase la declaratoria de que la reforma propuesta forma parte de la Constitución Política del estado de Jalisco, en los términos del artículo 117 del ordenamiento antes indicado.
-
-Segundo. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco, previa declaratoria a la que se refiere el artículo 117 de la Constitución Política.
-
-Tercero. Se derogan todas las disposiciones que se opongan al presente decreto.
-
-Cuarto. El actual Auditor Superior del Estado durará en el cargo hasta el 31 de julio de 2008, al término del cual podrá ser nuevamente designado, para lo cual deberán observarse los requisitos y procedimientos establecidos en los artículos 29, 30 y 31 de la Ley de Fiscalización y Auditoría Pública del Estado de Jalisco y sus Municipios.
-
-Quinto. En caso de no haber designación de Auditor Superior del Estado al día 1.° de agosto de 2008, el actual titular continuará en el cargo en tanto no sea electo uno nuevo o no sea aprobado el actual conforme a los procedimientos establecidos en la ley.
-
-Sexto. Una vez que el Congreso de la Unión expida las normas a que se refiere el artículo 73, fracción XXVIII de la Constitución Política de los Estados Unidos Mexicanos, cualquier disposición constitucional estatal o reglamentaria de la misma se entenderá derogada al momento de la entrada en vigor de la legislación federal.
-
-P.O. 5 DE JULIO DE 2008.
-
-PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
-
-SEGUNDO. Para los efectos del artículo 117 de la Constitución Política del estado de Jalisco, remítase a los 125 ayuntamientos del estado, con los debates que hubiere provocado, a efecto de que remitan a esta Legislatura su voto en calidad de integrantes del poder revisor de la Constitución local.
-
-TERCERO. Para los efectos de lo establecido en la fracción V del artículo 12 de la Constitución local, en un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente decreto, el Congreso del Estado procederá a integrar el Consejo General del Instituto Electoral y de Participación Ciudadana del estado de Jalisco, conforme a las siguientes bases:
-
-a) Elegirá al Consejero Presidente, cuyo mandato concluirá el 31 de julio de 2011;
-
-b) Elegirá a tres consejeros electorales, que concluirán su mandato el 31 de julio de 2011, y
-
-c) Elegirá a tres consejeros electorales que concluirán su mandato el 31 de julio de 2010.
-
-Los consejeros electorales y el Consejero Presidente del Instituto Electoral del estado de Jalisco en funciones a la entrada en vigor del presente decreto, podrán participar en el procedimiento para la integración del nuevo Instituto Electoral y de Participación Ciudadana del estado de Jalisco, en igualdad de condiciones con el resto de los aspirantes, y en su caso, continuarán en sus cargos hasta en tanto el Congreso del Estado dé cumplimiento a lo dispuesto en el presente artículo.
-
-Los consejeros en funciones que opten por no participar en el proceso de integración del nuevo organismo, o que participando, no sean electos mediante el procedimiento que realice el Poder Legislativo, percibirán por concepto de indemnización la cantidad equivalente a los sueldos que hubieren devengado de haber terminado el periodo para el que fueron electos.
-
-CUARTO. El Instituto Electoral deberá elaborar, conforme a las bases que establece esta Constitución, el cálculo de financiamiento público que corresponde a los partidos políticos para los meses de julio a diciembre de 2008. Para estos efectos, se tomará como base el total de ciudadanos inscritos en el Padrón Electoral en el estado de Jalisco, con corte al mes de diciembre de 2007.
-
-QUINTO. Por única vez el Instituto Electoral deberá establecer, conforme a las bases legales que se expidan, tope de gastos de campaña para gobernador del estado en el año 2008, sólo para efecto de determinar el monto total de financiamiento privado que podrá obtener anualmente cada partido político.
-
-SEXTO. Para los efectos de la toma de posesión de los cargos de elección popular, se estará conforme a las siguientes bases:
-
-a) Los munícipes electos en el proceso 2009, entrarán en funciones el primero de enero de 2010 y concluirán su encargo el 30 de septiembre de 2012;
-
-b) Los diputados electos en el proceso 2009, entrarán en funciones el primero de febrero de 2010 y concluirán su encargo el día 31 de octubre de 2012, y
-
-c) El gobernador electo en el proceso de 2012, entrará en funciones el primero de marzo de 2013 y concluirá su encargo el día 5 de diciembre de 2018.
-
-SÉPTIMO. El Congreso del Estado deberá realizar las adecuaciones que correspondan en las leyes respectivas, dentro de los treinta días naturales siguientes a la entrada en vigor del presente decreto.
-
-OCTAVO. Se derogan todas las disposiciones que contravengan el presente decreto.
-
-NOVENO. El Instituto Electoral y de Participación Ciudadana del estado de Jalisco deberá realizar una evaluación de la distribución de distritos locales, con base en el censo general de población que se realice en el año 2010.
-
-DÉCIMO. El proceso electoral 2009, iniciará con la convocatoria que apruebe y publique el Instituto Electoral y de Participación Ciudadana del estado de Jalisco, en la primera semana de diciembre de 2008.
-
-P.O. 24 DE JULIO DE 2008.
-
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-SEGUNDO. Notifíquese a los municipios del estado de Jalisco sobre la propuesta de reforma constitucional, para los efectos legales correspondientes.
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
