@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2008-07-24"
+last_updated: "2009-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -77,25 +77,37 @@ Los municipios del estado son aquellos señalados en la ley que establece las ba
 
 ### CAPITULO III. De los derechos y obligaciones fundamentales
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2009)</small>
 
 ###### Art. 4º.
 
-Toda persona, por el sólo hecho de encontrarse en el territorio del Estado de Jalisco, gozará de los derechos que establece esta Constitución, siendo obligación fundamental de las autoridades salvaguardar su cumplimiento.
+Toda persona, por el sólo hecho de encontrarse en el territorio del estado de Jalisco, gozará de los derechos que establece esta Constitución, siendo obligación fundamental de las autoridades salvaguardar su cumplimiento. Asimismo, el Estado de Jalisco reconoce, protege y garantiza el derecho a la vida de todo ser humano, al sustentar expresamente que desde el momento de la fecundación entra bajo la protección de la ley y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural.
 
-Se reconocen como derechos de los individuos que se encuentren en el territorio del Estado de Jalisco, los que se enuncian en la Constitución Política de los Estados Unidos Mexicanos, así como los contenidos en la Declaración Universal de los Derechos Humanos, proclamada por la Asamblea General de las Naciones Unidas y en los tratados, convenciones o acuerdos internacionales que el Gobierno Federal haya firmado o de los que celebre o forme parte.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2009)</small>
+
+Se reconocen como derechos de los individuos que se encuentren en el territorio del estado de Jalisco, los que se enuncian en la Constitución Política de los Estados Unidos Mexicanos, así como los contenidos en la Declaración Universal de los Derechos Humanos, proclamada por la Asamblea General de la (sic) Naciones Unidas, en la Convención Americana sobre Derechos Humanos y en los tratados, convenciones o acuerdos internacionales que el Gobierno Federal haya firmado o los que celebre o de que forme parte.
 
 > <small>(ADICIONADO, P.O. 26 DE MARZO DE 2005)</small>
 
 El derecho a la información pública será garantizado por el Estado en los términos de esta Constitución y la ley respectiva.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2004)</small>
+
 El Estado de Jalisco tiene una composición pluricultural sustentada originalmente en sus pueblos indígenas que son aquellos que descienden de poblaciones que habitaban en el territorio actual del país al iniciarse la colonización y que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2004)</small>
 
 La conciencia de su identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2004)</small>
+
 Son comunidades integrantes de un pueblo indígena, aquellas que formen una unidad social, económica y cultural, asentadas en un territorio y que reconocen autoridades propias de acuerdo con sus usos y costumbres.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2004)</small>
+
 El derecho de los pueblos indígenas a la libre determinación se ejercerá en un marco constitucional de autonomía que asegure la unidad nacional. El reconocimiento de los pueblos y comunidades indígenas se hará en las leyes reglamentarias, las que deberán tomar en cuenta, además de los principios generales establecidos en los párrafos anteriores de este artículo, criterios etnolingüísticos y de asentamiento físico.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2004)</small>
 
 A.- Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación y, en consecuencia, a la autonomía para:
 
@@ -118,6 +130,8 @@ Las leyes reglamentarias reconocerán y regularán estos derechos en los municip
 VIII. Acceder plenamente a la jurisdicción del Estado. Para garantizar ese derecho, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se deberán tomar en cuenta sus costumbres y especificidades culturales respetando los preceptos de esta Constitución. Los indígenas tienen en todo tiempo el derecho a ser asistidos por intérpretes y defensores que tengan conocimiento de su lengua y cultura.
 
 Las leyes reglamentarias establecerán las características de libre determinación y autonomía que mejor expresen las situaciones y aspiraciones de los pueblos indígenas en cada entidad, así como las normas para el reconocimiento de las comunidades indígenas como entidades de interés público.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2004)</small>
 
 B.- El Estado y los Municipios, para promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria, establecerán las instituciones y determinarán las políticas necesarias para garantizar la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales deberán ser diseñadas y operadas conjuntamente con ellos.
 
@@ -143,7 +157,11 @@ VIII. Establecer políticas sociales para proteger a los migrantes de los pueblo
 
 IX. Consultar a los pueblos indígenas en la elaboración de los planes Estatal y Municipales de Desarrollo y, en su caso, incorporar las recomendaciones y propuestas que realicen.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2004)</small>
+
 Para garantizar el cumplimiento de las obligaciones señaladas en este apartado, el Congreso del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, establecerán las partidas específicas destinadas al cumplimiento de estas obligaciones en los presupuestos de egresos que aprueben, así como las formas y procedimientos para que las comunidades participen en el ejercicio y vigilancia de las mismas.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2004)</small>
 
 Sin perjuicio de los derechos aquí establecidos a favor de los indígenas, sus comunidades y pueblos, toda comunidad equiparable a aquéllos tendrá en lo conducente los mismos derechos tal y como lo establezca la ley.
 
@@ -2607,7 +2625,7 @@ P.O. 5 DE JUNIO DE 1993.
 
 Primero.- Los nombramientos de los Magistrados tanto propietarios como Suplentes, otorgados a la fecha, surtirá sus efectos en los mismos términos que se expidieron, con la salvedad de que se considerarán conferidos como nombramientos de Magistrados Numerarios y Supernumerarios, respectivamente.
 
-Segundo.- Dése cumplimiento a lo establecido en el artículo 66 de la Constitución Política del Estado de Jalisco.
+Segundo.- Dese cumplimiento a lo establecido en el artículo 66 de la Constitución Política del Estado de Jalisco.
 
 Tercero.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco" y una vez cumplidos los extremos del artículo 66 de la Constitución Política del Estado.
 
@@ -2743,7 +2761,7 @@ SEGUNDO.- El presente decreto que contiene la reforma de los artículos 25 de la
 
 P.O. 1 DE AGOSTO DE 2000.
 
-PRIMERO.- Envíese copia certificada del presente dictamen de decreto a los 124 Ayuntamientos del Estado, con el diario de los debates, en el que conste las discusiones que hubiere provocado, para que con fundamento a lo establecido en el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda en lo relativo a la adición de la fracción VIII del articulo 15 de la misma Constitución.
+PRIMERO.- Envíese copia certificada del presente dictamen de decreto a los 124 Ayuntamientos del Estado, con el diario de los debates, en el que conste las discusiones que hubiere provocado, para que con fundamento a lo establecido en el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda en lo relativo a la adición de la fracción VIII del artículo 15 de la misma Constitución.
 
 SEGUNDO.- El presente Decreto entrará en vigor 60 días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
@@ -2919,7 +2937,7 @@ Tercero. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 Cuarto. El actual Auditor Superior del Estado durará en el cargo hasta el 31 de julio de 2008, al término del cual podrá ser nuevamente designado, para lo cual deberán observarse los requisitos y procedimientos establecidos en los artículos 29, 30 y 31 de la Ley de Fiscalización y Auditoría Pública del Estado de Jalisco y sus Municipios.
 
-Quinto. En caso de no haber designación de Auditor Superior del Estado al día 1.° de agosto de 2008, el actual titular continuará en el cargo en tanto no sea electo uno nuevo o no sea aprobado el actual conforme a los procedimientos establecidos en la ley.
+Quinto. En caso de no haber designación de Auditor Superior del Estado al día 1° de agosto de 2008, el actual titular continuará en el cargo en tanto no sea electo uno nuevo o no sea aprobado el actual conforme a los procedimientos establecidos en la ley.
 
 Sexto. Una vez que el Congreso de la Unión expida las normas a que se refiere el artículo 73, fracción XXVIII de la Constitución Política de los Estados Unidos Mexicanos, cualquier disposición constitucional estatal o reglamentaria de la misma se entenderá derogada al momento de la entrada en vigor de la legislación federal.
 
@@ -2966,3 +2984,7 @@ P.O. 24 DE JULIO DE 2008.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Notifíquese a los municipios del estado de Jalisco sobre la propuesta de reforma constitucional, para los efectos legales correspondientes.
+
+P.O. 2 DE JULIO DE 2009.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
