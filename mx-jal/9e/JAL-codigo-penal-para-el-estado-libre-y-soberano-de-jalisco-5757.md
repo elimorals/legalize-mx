@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2008-12-09"
+last_updated: "2009-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -3151,7 +3151,9 @@ I. Que no tenga mala fama;
 
 II. Que haya logrado ocultar su embarazo;
 
-III. Que éste sea fruto de una unión ilegítima; y
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2009)</small>
+
+III. Que éste sea fruto de una unión ilegítima, y
 
 IV. Que el aborto se efectúe dentro de los primeros cinco meses del embarazo.
 
@@ -3162,6 +3164,14 @@ La misma sanción se impondrá al que haga abortar a una mujer a solicitud de é
 Cuando faltare el consentimiento de la mujer, la prisión será en todo caso de tres a seis años, y, si mediare violencia física o moral, de cuatro a seis años de prisión.
 
 Si el aborto lo causare un médico cirujano, pasante o estudiante de medicina, partera, comadrona o enfermero, además de las sanciones que le correspondan, se le suspenderá de uno a cinco años en el ejercicio de su profesión, oficio o respectiva actividad.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2009)</small>
+
+Tratándose de las sanciones a que se refiere este artículo aplicables a la mujer que, voluntariamente, procure el aborto o consienta en que otra persona la haga abortar con ese fin, el juez queda facultado para sustituirlas por un tratamiento médico integral; bastará que lo solicite y ratifique la responsable; lo anterior, siempre y cuando no se presente reincidencia de su parte.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2009)</small>
+
+El tratamiento referido en este precepto será provisto por las instituciones de salud del estado y tendrá como objeto la atención integral de las consecuencias generadas con motivo de la práctica del aborto provocado, así como el de reafirmar los valores humanos por la maternidad, procurando el fortalecimiento de la familia.
 
 ###### Art. 229.
 
@@ -4652,3 +4662,7 @@ P.O. 9 DE DICIEMBRE DE 2008.
 DECRETO NUMERO 22549/LVIII/08 POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 183, 183-A, 183-B, 183-C, 183-D, 184, 185 Y 185-A DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 2 DE JULIO DE 2009.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
