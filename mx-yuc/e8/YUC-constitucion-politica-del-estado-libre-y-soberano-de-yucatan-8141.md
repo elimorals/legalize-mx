@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2008-08-18"
+last_updated: "2009-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE AGOSTO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE JULIO DE 2009.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -307,25 +307,65 @@ El Poder Público del Estado de Yucatán se divide, para su ejercicio, en Legisl
 
 No podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un Congreso formado por menos diputados que los señalados en el artículo 116 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(ADICIONADO, D.O. 3 DE JULIO DE 2009)</small>
+
+La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública estatal y cualquier otro ente de los órdenes de gobierno estatal y municipal, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+
+> <small>(ADICIONADO, D.O. 3 DE JULIO DE 2009)</small>
+
+La ley reglamentaria garantizará el estricto cumplimiento de lo previsto en el párrafo anterior incluyendo el régimen de sanciones a que haya lugar.
+
 > <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
 
 APARTADO A. DE LA ORGANIZACIÓN DE LAS ELECCIONES Y LOS PROCEDIMIENTOS DE PARTICIPACIÓN CIUDADANA
 
-I.- La organización de los procedimientos locales de elección y consulta popular, es una función estatal, que se realiza a través de un organismo público autónomo denominado Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, dotado de personalidad jurídica y patrimonio propios. En el ejercicio de esa función, serán principios rectores: La legalidad, independencia, imparcialidad, objetividad, certeza y profesionalización.
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 3 DE JULIO DE 2009)</small>
+
+I.- La organización de los procedimientos locales de elección y consulta popular, es una función estatal que se realiza a través de un organismo público especializado, autónomo y profesional en su desempeño, denominado Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, dotado de personalidad jurídica y patrimonio propio, el cual contará en su estructura con una Contraloría Interna, una Unidad Técnica de Fiscalización, así como los organismos ejecutivos, técnicos y operativos necesarios para cumplir con sus funciones. En el ejercicio de esa función, son principios rectores: la legalidad, independencia, imparcialidad, objetividad, certeza y profesionalización.
 
 En la integración de este organismo participan el Poder Legislativo, los partidos políticos y los ciudadanos, en términos de ley.
 
-Dicho organismo, será autoridad en la materia, con independencia y autonomía en sus decisiones y funcionamiento, profesional en su desempeño. Contará con la participación de consejeros electorales, elegidos en la forma que señale la Ley. El Consejo General será su órgano superior de dirección que se integra por cinco consejeros electorales, uno de los cuales tendrá el carácter de Presidente; además de un Secretario Ejecutivo, quien participará con voz pero sin voto. Los consejeros electorales y dicho Secretario, durarán en su encargo 6 años.
+> <small>(REFORMADO, D.O. 3 DE JULIO DE 2009)</small>
+
+El Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, es autoridad en la materia. Contará con un Consejo General, que será su órgano superior de dirección y estará integrado por cinco consejeros electorales, uno de los cuales tendrá el carácter de Presidente, y concurrirán con voz pero sin voto, los representantes de los partidos políticos y un Secretario Ejecutivo. Los consejeros electorales y dicho Secretario, durarán en su encargo 6 años y podrán ser reelectos por una sola vez. La renovación del Consejo General será de forma escalonada. El Presidente y el Secretario Ejecutivo serán designados por los miembros del Consejo General del Instituto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE JULIO DE 2009)</small>
+
+Los Consejeros Electorales no podrán tener otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del Consejo General y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia. Y recibirán una retribución adecuada e irrenunciable, misma que no podrá ser disminuida durante su encargo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE JULIO DE 2009)</small>
+
+El Instituto de Procedimientos Electorales y Participación Ciudadana del Estado contará con una Contraloría dotada de autonomía técnica y de gestión, encargada de fiscalizar todos los ingresos y egresos de dicho Instituto. Su titular será designado por el Congreso del Estado con el voto de las dos terceras partes de sus integrantes a propuesta de instituciones de educación superior, organizaciones y agrupaciones profesionales y organismos empresariales debidamente registrados, en la forma y términos que determine la ley. Durará 6 años en el cargo y podrá ser reelecto por una sola vez.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE JULIO DE 2009)</small>
+
+La jornada electoral tendrá lugar el primer domingo de julio del año correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE JULIO DE 2009)</small>
+
+El Instituto de Procedimientos Electorales y Participación Ciudadana del Estado podrá convenir con el Instituto Federal Electoral que se haga cargo de la organización de los procesos electorales locales. La propuesta para la celebración del convenio correspondiente deberá ser aprobada por las dos terceras partes de los Consejeros del Instituto. Para la aprobación del convenio deberán observarse los lineamientos que para ese fin disponga la Ley de la materia.
 
 Los consejeros electorales del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, serán electos por el voto de las dos terceras partes de los integrantes del Congreso del Estado. De la misma forma, se elegirá a cinco consejeros electorales suplentes, señalando el orden de prelación respectivo.
 
 Las leyes establecerán las reglas y el procedimiento de elección o designación correspondiente, y atenderán las actividades relativas a la preparación de las jornadas electorales y de participación ciudadana, al desarrollo de éstas, a los cómputos y otorgamiento de constancia, capacitación electoral y educación cívica, al sistema de medios de impugnación y a la conformación de los organismos en la materia.
 
-Se establecerá un sistema de medios de impugnación, de los que conocerán el organismo público a que se refiere este precepto y el tribunal de la materia, mismo que será autónomo y máxima autoridad jurisdiccional en el Estado.
+> <small>(REFORMADO, D.O. 3 DE JULIO DE 2009)</small>
+
+Se establecerá un sistema de medios de impugnación de los que conocerá el Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán y el Tribunal Electoral del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE JULIO DE 2009)</small>
+
+La fiscalización de las finanzas de los partidos políticos estará a cargo de una Unidad Técnica de Fiscalización, dotada de autonomía de gestión, cuyo titular será designado por las dos terceras partes de los integrantes del Consejo General.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE JULIO DE 2009)</small>
+
+La integración y funcionamiento de la Unidad Técnica de Fiscalización, y el procedimiento de revisión y sanción que desarrolle, se realizará en los términos que señale la ley de la materia. Para superar la limitación de los secretos bancario, fiduciario o fiscal, la Unidad Técnica de Fiscalización, deberá convenir y coordinarse con el órgano que tenga tal atribución en el Instituto Federal Electoral, según lo establezcan la Constitución Política de los Estados Unidos Mexicanos y su ley reglamentaria en materia electoral.
 
 La Ley determinará las bases del servicio profesional electoral y de las relaciones laborales de los servidores públicos en los organismos electorales.
 
-Las mesas directivas de casilla estarán integradas por ciudadanos; y la votación se recepcionará en términos de ley, garantizando la efectividad y el secreto del sufragio.
+> <small>(REFORMADO, D.O. 3 DE JULIO DE 2009)</small>
+
+Las mesas directivas de casilla estarán integradas por ciudadanos y la votación se recepcionará en términos de ley, garantizando la efectividad y el secreto del sufragio.
 
 II.- Son medios de consulta popular: el plebiscito, el referéndum y la iniciativa popular, entre otros.
 
@@ -349,9 +389,29 @@ Son fines esenciales de los partidos políticos: Promover la participación del 
 
 Tratándose de las agrupaciones políticas, la ley establecerá sus fines y sus prerrogativas.
 
-Los ciudadanos de manera libre e individualmente, podrán afiliarse a los partidos y agrupaciones políticas.
+> <small>(REFORMADO, D.O. 3 DE JULIO DE 2009)</small>
 
-Para ejercer el derecho a participar en las elecciones estatales y municipales, los partidos políticos nacionales y los ciudadanos de manera independiente, deberán cumplir con los requisitos establecidos en la ley.
+Los ciudadanos de manera libre e individualmente, podrán afiliarse a los partidos y agrupaciones políticas. Los partidos políticos tendrán el derecho de solicitar el registro de candidatos a cargos de elección popular, quienes para ejercer ese derecho deberán cumplir con los requisitos establecidos en la ley.
+
+> <small>(REFORMADO, D.O. 3 DE JULIO DE 2009)</small>
+
+Los ciudadanos de manera independiente, para ejercer el derecho a participar en las elecciones estatales, deberán cumplir con los requisitos establecidos en la ley respectiva, siempre que dicha posibilidad se encuentre establecida en la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, D.O. 3 DE JULIO DE 2009)</small>
+
+Queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa a ellos.
+
+> <small>(ADICIONADO, D.O. 3 DE JULIO DE 2009)</small>
+
+Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen ésta Constitución y la ley respectiva.
+
+> <small>(ADICIONADO, D.O. 3 DE JULIO DE 2009)</small>
+
+La ley establecerá las reglas para el desarrollo de las precampañas y las campañas electorales de los partidos políticos, así como las sanciones para quienes las infrinjan. La duración de las campañas no deberá exceder de noventa días para la elección de Gobernador, y cuando sólo se elijan diputados locales o ayuntamientos no podrán durar más de sesenta días; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
+
+> <small>(ADICIONADO, D.O. 3 DE JULIO DE 2009)</small>
+
+En los procesos electorales los partidos políticos tendrán derecho a postular candidatos, fórmulas, planillas o listas, por sí mismos, en coalición o en candidatura común con otros partidos.
 
 > <small>(ADICIONADO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
 
@@ -383,17 +443,39 @@ IV.- El Instituto Estatal de Acceso a la Información Pública.
 
 La ley garantizará que los partidos y agrupaciones políticas dispongan de los elementos para llevar a cabo sus actividades. Tendrán derecho en la forma que se establezca, al uso permanente de los medios de comunicación social y al financiamiento, garantizando en este caso, que los recursos públicos prevalezcan sobre los de origen privado; de igual modo, la ley establecerá las restricciones en los gastos de precampañas y campañas electorales.
 
-El financiamiento público se compondrá de los montos para el sostenimiento de sus actividades ordinarias y de campaña, mismo que se otorgará conforme a lo siguiente:
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE JULIO DE 2009)</small>
 
-I.- Para actividades ordinarias los montos se fijarán cada tres años. El 40% de la cantidad total que resulte se distribuirá entre los partidos políticos en partes iguales y el 60% restante, se distribuirá de acuerdo con el porcentaje de votos, que hubieren obtenido en la elección de diputados por el principio de mayoría relativa;
+Los partidos solo podrán acceder a la radio y a la televisión, conforme a lo dispuesto en el apartado B de la base III del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
 
-II.- Para gastos de campaña, se otorgará adicionalmente el equivalente al 75% del financiamiento público que le corresponda a cada partido político, para actividades ordinarias de ese año;
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE JULIO DE 2009)</small>
 
-III.- Los partidos y agrupaciones políticas, destinarán anualmente del financiamiento público que reciban, al menos un 15% para la realización de estudios e investigaciones de la realidad regional, el sostenimiento de programas de formación y capacitación política, la realización de tareas editoriales y la difusión de sus propuestas.
+Los partidos políticos en ningún momento podrán contratar o adquirir, por sí o por terceras personas tiempos en cualquier modalidad de radio y televisión.
 
-Excepto lo destinado a la difusión de propuestas político electorales, los excedentes al porcentaje establecido en el párrafo que antecede, serán reintegrados hasta el 75% de los gastos comprobados; erogados por los partidos políticos, en el año inmediato anterior.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE JULIO DE 2009)</small>
 
-Las leyes establecerán los límites que tendrán las aportaciones en numerario y en especie a los partidos y agrupaciones políticas; los procedimientos para determinar el origen, destino, aplicación y control sobre los recursos con que cuenten; los elementos que garanticen una adecuada fiscalización y transparencia así como las sanciones que deban imponerse, por el incumplimiento de estas disposiciones.
+Ninguna otra persona, física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular. Queda prohibida la transmisión en el Estado de este tipo de mensajes contratados en territorio nacional o en el extranjero.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE JULIO DE 2009)</small>
+
+En la propaganda política o electoral que difundan los partidos deberán abstenerse de expresiones que denigren a las instituciones y a los propios partidos, o que calumnien o difamen a las personas.
+
+> <small>(REFORMADO, D.O. 3 DE JULIO DE 2009)</small>
+
+El financiamiento público se compondrá de los montos para el sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico, se otorgará conforme a lo que disponga la ley y a lo siguiente:
+
+I.- Para actividades ordinarias permanentes, los montos se fijarán anualmente. El 35% de la cantidad total que resulte se distribuirá entre los partidos políticos en partes iguales y el 65% restante se distribuirá de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados por el principio de mayoría relativa;
+
+II.- Para las actividades tendientes a la obtención del voto durante el año en el que se elija Gobernador, diputados y ayuntamientos equivaldrá al sesenta por ciento del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese mismo año. Cuando sólo se elijan diputados y ayuntamientos equivaldrá al cincuenta por ciento de dicho financiamiento por actividades ordinarias, y
+
+III.- Por actividades específicas equivaldrá al cinco por ciento del monto total que corresponda cada año por actividades ordinarias. El cuarenta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente se distribuirá entre los partidos políticos de forma igualitaria y el sesenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior.
+
+> <small>(REFORMADO, D.O. 3 DE JULIO DE 2009)</small>
+
+La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos. El monto máximo que tendrán las aportaciones de sus simpatizantes no podrá exceder anualmente para cada partido del diez por ciento del tope de gastos establecido en la última campaña estatal para Gobernador; asimismo ordenará los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
+
+> <small>(REFORMADO, D.O. 3 DE JULIO DE 2009)</small>
+
+La ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos que pierdan su registro, así como el destino de sus bienes y remanentes.
 
 > <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
 
@@ -445,15 +527,21 @@ La ley determinará la forma de establecer la demarcación territorial de los di
 
 Las personas que hubiesen desempeñado las funciones de Diputado no podrán ser reelectos para el período inmediato siguiente. Los Diputados Suplentes podrán ser electos para el período inmediato siguiente con el carácter de Propietario, siempre que no hubieren estado en ejercicio; pero los Propietarios no podrán ser electos para dicho período ni con el carácter de Suplentes.
 
-> <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 3 DE JULIO DE 2009)</small>
 
 ###### Artículo 21.
 
-Para el registro y la asignación de diputados por el principio de representación proporcional a los partidos políticos y coaliciones, se considerará lo siguiente:
+Para la asignación de diputados por el principio de representación proporcional a los partidos políticos y coaliciones, se considerará lo siguiente:
+
+> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
 
 I.- Deberá acreditar que participa con candidatos en la totalidad de los distritos electorales uninominales.
 
+> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+
 II.- Los principios de pluralidad, representatividad y equidad, y
+
+> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
 
 III.- La obtención del 2% o más de la votación emitida en el Estado
 
@@ -511,13 +599,17 @@ El Instituto de Procedimientos Electorales y Participación Ciudadana del Estado
 
 La declaración de validez, la asignación de diputados y regidores de representación proporcional y la expedición de las respectivas constancias, podrán ser impugnadas ante el Tribunal Electoral del Estado en los términos que la ley señale, cuyas resoluciones serán definitivas y firmes en el ámbito estatal.
 
-> <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, D.O. 3 DE JULIO DE 2009)</small>
 
 ###### Artículo 25.
 
-La Ley Reglamentaria establecerá un sistema de medios de impugnación de los que conocerán los organismos electorales y el Tribunal Electoral del Estado, que será el órgano jurisdiccional en la materia. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones electorales, así como la protección de los derechos político electorales del ciudadano, se sujeten invariablemente al principio de legalidad.
+Para garantizar el principio de legalidad de los actos y resoluciones electorales, la ley establecerá un sistema de medios de impugnación que dará definitividad a las distintas etapas de los procesos electorales locales y garantizará la protección de los derechos político-electorales de los ciudadanos.
 
-El Tribunal Electoral del Estado tendrá la organización y competencia que determine la Ley; los poderes públicos del Estado, salvaguardarán su integración y funcionamiento.
+El Tribunal Electoral del Estado, es la máxima autoridad jurisdiccional en la materia, con la jurisdicción y competencia que determinen esta Constitución y la ley; organismo autónomo, de carácter permanente, con personalidad jurídica y patrimonio propio, independiente en sus decisiones y contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento.
+
+El Instituto de Procedimientos Electorales y Participación Ciudadana y el Tribunal Electoral del Estado podrán ordenar la realización de recuentos totales o parciales de votos; la ley determinará los casos en que podrán realizarse en los ámbitos administrativo y jurisdiccional.
+
+La ley tipificará los delitos y determinará las faltas en materia electoral, establecerá los procedimientos aplicables para las sanciones que deban imponerse, y fijará las causales de nulidad de las elecciones de Gobernador, Diputados locales y ayuntamientos. El Tribunal Electoral del Estado sólo podrá declarar la nulidad de una elección por la actualización de alguna de las causales expresamente establecidas en la ley.
 
 (REFORMADO, D.O. 24 DE MAYO DE 2006) (F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)
 
@@ -651,7 +743,7 @@ XV.- Expedir leyes sobre Educación y Cultura, con sujeción a las bases constit
 
 > <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
 
-XVI.- designar a los consejeros electorales, del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán y a los Magistrados del Tribunal Electoral del Estado de Yucatán, de conformidad a la ley;
+XVI.- Designar a los consejeros electorales, del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán y a los Magistrados del Tribunal Electoral del Estado de Yucatán, de conformidad a la ley;
 
 > <small>(REFORMADA, D.O. 22 DE FEBRERO DE 1988)</small>
 
@@ -707,7 +799,7 @@ XXVI.- Recibir la protesta a los Magistrados del Tribunal Superior de Justicia a
 
 > <small>(REFORMADA, D.O. 22 DE FEBRERO DE 1988)</small>
 
-XXVII.- Resolver las peticiones de licencias de sus propios miembros y del Contador Mayor, de conformidad con lo que disponga la Ley Orgánica del Poder Legislativo del Estado para separarse de sus respectivos cargos, así como sus renuncias;
+XXVII.- resolver las peticiones de licencias de sus propios miembros y del Contador Mayor, de conformidad con lo que disponga la Ley Orgánica del Poder Legislativo del Estado para separarse de sus respectivos cargos, así como sus renuncias;
 
 XXVIII.- (DEROGADA, D.O. 24 DE MAYO DE 2006)
 
@@ -1237,19 +1329,7 @@ VII.- permitir o tolerar que se establezcan en el Estado casas de juegos ilícit
 
 ### CAPÍTULO SEGUNDO. Del Acceso a la Información Pública y de la Protección de los Datos Personales
 
-> <small>(ADICIONADO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
-
-###### Artículo 75 Bis.
-
-Se establece un Organismo Público Autónomo denominado Comisión de Derechos Humanos del Estado de Yucatán, con personalidad jurídica y patrimonio propio, encargada de la protección, defensa, estudio, promoción y divulgación de los derechos humanos.
-
-La Ley preservará el carácter público, no vinculatorio, apartidista, transparente y expedito de sus recomendaciones; además su funcionamiento, facultades y procedimientos.
-
-Se integrará por un Presidente, un Consejo Consultivo y el personal necesario; el Presidente durará cuatro años en su ejercicio, pudiendo ser ratificado para un período más y sólo podrá ser removido durante su encargo, en los términos del Título Décimo de esta Constitución. Este presentará anualmente ante el Congreso, un informe sobre la situación de los derechos humanos, en los términos de Ley.
-
-La Comisión de Derechos Humanos estará facultada para conocer los actos u omisiones violatorios, de cualquier servidor público estatal o municipal, con competencia no jurisdiccional; tratándose del Poder Judicial, únicamente conocerá los de naturaleza administrativa. No tendrá facultades en asuntos electorales y de tipo laboral.
-
-(REUBICADO [N. DE E. ANTES TITULO SEPTIMO], D.O. 9 DE SEPTIEMBRE DE 2005)
+> <small>(ADICIONADO, D.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 57.
 
@@ -1451,11 +1531,21 @@ Se establece un Organismo Público Autónomo denominado Comisión de Derechos Hu
 
 La Ley preservará el carácter público, no vinculatorio, apartidista, transparente y expedito de sus recomendaciones; además su funcionamiento, facultades y procedimientos.
 
-Se integrará por un Presidente, un Consejo Consultivo y el personal necesario; el Presidente durará cuatro años en su ejercicio, pudiendo ser ratificado para un periodo más y sólo podrá ser removido durante su encargo, en los términos del Título Décimo de esta Constitución. Este presentará anualmente ante el Congreso, un informe sobre la situación de los derechos humanos, en los términos de Ley.
+Se integrará por un Presidente, un Consejo Consultivo y el personal necesario; el Presidente durará cuatro años en su ejercicio, pudiendo ser ratificado para un período más y sólo podrá ser removido durante su encargo, en los términos del Título Décimo de esta Constitución. Este presentará anualmente ante el Congreso, un informe sobre la situación de los derechos humanos, en los términos de Ley.
 
-La Comisión de Derechos Humanos estará facultada para conocer los actos u comisiones violatorios, de cualquier servidor público estatal o municipal, con competencia no jurisdiccional; tratándose del Poder Judicial, únicamente conocerá los de naturaleza administrativa. No tendrá facultades en asuntos electorales y de tipo laboral.
+La Comisión de Derechos Humanos estará facultada para conocer los actos u omisiones violatorios, de cualquier servidor público estatal o municipal, con competencia no jurisdiccional; tratándose del Poder Judicial, únicamente conocerá los de naturaleza administrativa. No tendrá facultades en asuntos electorales y de tipo laboral.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 18 DE AGOSTO DE 2008)</small>
+
+###### Artículo 75 Ter.
+
+El Instituto Estatal de Acceso a la Información Pública es un organismo público autónomo, con personalidad jurídica y patrimonio propios, encargado de garantizar el derecho de acceso a la información pública y protección de datos personales, de conformidad con lo establecido en el artículo 6 de la Constitución Política de los Estados Unidos Mexicanos. Se regirá bajo los principios de especialización, independencia, objetividad e imparcialidad en sus decisiones, las cuales tendrán el carácter de definitivas; asimismo estará facultado para hacer cumplir sus resoluciones y sancionar su inobservancia.
+
+El Instituto Estatal de Acceso a la Información Pública, tendrá un Consejo General que será su órgano superior de dirección, integrado por tres consejeros, de los cuales uno de ellos tendrá el carácter de Presidente, quienes durarán en su encargo cinco años. Además contará con un Secretario Ejecutivo.
+
+La Ley determinará el procedimiento de designación de los Consejeros y del Secretario Ejecutivo.
+
+(REUBICADO [N. DE E. ANTES TITULO SEPTIMO], D.O. 9 DE SEPTIEMBRE DE 2005)
 
 ## TITULO OCTAVO. De los Municipios del Estado
 
@@ -1946,6 +2036,10 @@ La Ley determinará cuales serán los órganos responsables del proceso de plane
 ###### Artículo 97.
 
 Se entenderá como servidor público a los representantes de elección popular, a todo funcionario, empleado o persona que desempeñe un empleo, cargo o comisión en la Administración Pública Estatal o Municipal, en cualquiera de sus modalidades, o en las entidades u organismos autónomos; quienes serán responsables por los actos u omisiones en el desempeño de sus funciones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE JULIO DE 2009)</small>
+
+Los servidores públicos del Estado y de los municipios, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que estén bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
 
 Todo servidor público es responsable por la comisión de delitos en el ejercicio de su encargo. El Gobernador del Estado, los Diputados locales en funciones, los Magistrados del Tribunal Superior de Justicia y de lo Contencioso Administrativo, el Presidente de la Comisión de los Derechos Humanos, los Titulares de las Dependencias de la Administración Pública Estatal y los Presidentes Municipales, no serán sujetos de responsabilidad sin la declaración de procedencia que emita el Congreso.
 
@@ -2930,3 +3024,21 @@ D.O. 18 DE AGOSTO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 3 DE JULIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado de Yucatán deberá realizar las adecuaciones que correspondan en las leyes respectivas, en un plazo no mayor a los ciento ochenta días naturales contados a partir de que entre en vigor este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Subsisten todos los plazos y términos relativos al proceso electoral que contempla el Código Electoral del Estado de Yucatán abrogado, contenido en el decreto 58 publicado en el Diario Oficial del Gobierno del Estado de fecha 16 de diciembre de 1994; únicamente para organizar los comicios locales que se llevarán a cabo en el año 2010.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
