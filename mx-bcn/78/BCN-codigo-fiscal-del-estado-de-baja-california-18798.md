@@ -4,7 +4,7 @@ identifier: "BCN-codigo-fiscal-del-estado-de-baja-california-18798"
 country: "mx"
 rank: "codigo"
 publication_date: "1988-12-31"
-last_updated: "2008-06-27"
+last_updated: "2009-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO FISCAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2009.
 
 Código publicado en la Sección Decimosegunda del Periódico Oficial del Estado de Baja California, el sábado 31 de diciembre de 1988.
 
@@ -155,11 +155,11 @@ Las otras disposiciones fiscales se interpretarán aplicando cualquier método d
 
 La recaudación, administración, determinación, concentración, vigilancia y cobranza de los ingresos que el Estado tiene derecho a percibir, así como los importes de fianzas o garantías que por cualquier motivo deba otorgarse ante cualquier autoridad estatal, estará a cargo de la Secretaría de Planeación y Finanzas y sus unidades administrativas, de acuerdo con la competencia que le señale el presente Código, el Reglamento Interno de la Secretaría de Planeación y Finanzas y los demás ordenamientos legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 14.
 
-Son autoridades fiscales del Estado para los efectos de este Código y demás disposiciones aplicables, y competentes para administrar contribuciones Estatales y Federales coordinadas:
+Son autoridades fiscales del Estado para los efectos de este Código y demás disposiciones aplicables, y facultadas para administrar, comprobar, determinar y cobrar, ingresos federales coordinados y estatales, según corresponda:
 
 I.- El Gobernador.
 
@@ -175,7 +175,13 @@ V.- El Director de Auditoría Fiscal.
 
 VI.- Los Recaudadores.
 
-VII.- El Subsecretario, los subprocuradores, Subdirectores y Subrecaudadores legal o reglamentariamente autorizados por sí o en ejercicio de suplencia.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2009)</small>
+
+VII.- El Director de Verificación Aduanera;
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2009)</small>
+
+VIII.- El Subsecretario de Finanzas, los Subprocuradores de la Procuraduría Fiscal, Subdirectores de las direcciones señaladas en las fracciones IV, V y VII y los Subrecaudadores de Rentas del Estado.
 
 ###### ARTICULO 15.
 
@@ -2688,3 +2694,9 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes refo
 P.O. 27 DE JUNIO DE 2008.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 3 DE JULIO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
