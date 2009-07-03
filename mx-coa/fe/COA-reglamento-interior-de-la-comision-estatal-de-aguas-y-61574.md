@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-comision-estatal-de-aguas-y-61574"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-05-16"
-last_updated: "2008-05-16"
+last_updated: "2009-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE AGUAS Y SANEAMIENTO DE COAHUILA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE AGUAS Y SANEAMIENTO DE COAHUILA, PUBLICADO EN EL P.O. DE 3 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 16 de mayo de 2008.
 
 LOS MIEMBROS DEL CONSEJO DIRECTIVO DE LA COMISIÓN ESTATAL DE AGUAS Y SANEAMIENTO DE COAHUILA, MEDIANTE SESIÓN CELEBRADA EL 14 DE MARZO DE 2008 Y EN EJERCICIO DE LA FACULTAD OTORGADA POR EL ARTÍCULO 7, FRACCIÓN VIII DE LA LEY QUE CREA AL ORGANISMO APROBARON EL SIGUIENTE:
 
-REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE AGUAS Y SANEAMIENTO DE COAHUILA
+REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE AGUAS Y SANEAMIENTO DE COAHUILA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -41,13 +43,13 @@ El presente ordenamiento tiene por objeto reglamentar la organización y el func
 
 Para los efectos de este Reglamento Interior se entiende por:
 
-I. Presidente.- Presidente del Consejo Directivo de la Comisión.
+I. Presidente.- Presidente del Consejo Directivo de la Comisión
 
-II. Consejo Directivo.- El Consejo Directivo de la Comisión.
+II. Consejo Directivo.- El Consejo Directivo de la Comisión
 
 III. Comisión.- La Comisión Estatal de Aguas y Saneamiento de Coahuila.
 
-IV. Director General.- El Director General de la Comisión.
+IV. Director General.- El Director General de la Comisión
 
 V. Ley.- La Ley que crea a la Comisión Estatal de Aguas y Saneamiento de Coahuila en el Decreto del Congreso Libre y Soberano de Coahuila, No.305, de fecha 31 de agosto de 1993.
 
@@ -83,7 +85,7 @@ a) El Secretario de Gobierno.
 
 b) El Secretario de Finanzas.
 
-c) El Secretario de Obras Públicas y Transporte.
+c) El Secretario de Obras Públicas y Transporte
 
 d) El Secretario de Salud.
 
@@ -131,7 +133,7 @@ I.- Dirigir y representar legalmente a la Comisión así como efectuar el trámi
 
 II.- Planear, programar, organizar, administrar, controlar y evaluar el funcionamiento de la Comisión.
 
-III.- Establecer las políticas, normas, sistemas y procedimientos tanto de carácter técnico, como para la administración de los recursos humanos, financieros, materiales y tecnológicos de la Comisión, de acuerdo a sus programas y objetivos.
+III.- Establecer las políticas, normas, sistemas y procedimientos tanto de carácter técnico, como para la administración de los recursos humanos, financieros, materiales y tecnológicos de la Comisión, de acuerdo a sus programas y objetivos
 
 IV.- Adscribir orgánicamente las unidades administrativas de la Comisión que propicien el debido cumplimiento de la Ley y este Reglamento.
 
@@ -141,7 +143,7 @@ VI.- Expedir manuales de organización interna, procedimientos y servicios de la
 
 VII.- Formular y ejecutar los programas de la Comisión en materia de inversiones públicas y adquisiciones.
 
-VIII.- Formular el anteproyecto de presupuesto de la Comisión, tramitar ante las dependencias competentes el ejercicio del presupuesto aprobado y verificar su correcta y oportuna ejecución.
+VIII.- Formular el anteproyecto de presupuesto de la Comisión, tramitar ante las dependencias competentes el ejercicio del presupuesto aprobado y verificar su correcta y oportuna ejecución;
 
 IX.- Celebrar los actos jurídicos y contratos que se requieran para el ejercicio de sus atribuciones.
 
@@ -163,7 +165,7 @@ Al frente de cada Dirección de Área habrá un titular, quien se auxiliará de 
 
 EL DIRECTOR DEL ÁREA TÉCNICA
 
-###### Artículo 17.
+###### Articulo 17.
 
 Son Atribuciones del Director del Área Técnica:
 
@@ -175,7 +177,7 @@ III.- Supervisar que las obras se ejecuten con sujeción a los programas, proyec
 
 IV.- Proponer las normas y criterios técnicos aplicables a que deberán ajustarse los programas y obras que realice la Comisión.
 
-V.- Integrar los programas de obra, suministro, abastecimiento y construcción de sistemas de agua potable, drenaje, alcantarillado y saneamiento.
+V.- Integrar los programas de obra, suministro, abastecimiento y construcción de sistemas de agua potable, drenaje, alcantarillado y saneamiento
 
 VI.- Formular los proyectos y presupuestos anuales de las obras de construcción, reconstrucción, ampliación y mantenimiento para las redes de abastecimiento de agua potable, redes de drenaje y alcantarillado y de las necesidades para su distribución, así como de saneamiento.
 
@@ -227,7 +229,9 @@ XIII.- Las demás que le confiera la Ley, otras disposiciones legales o reglamen
 
 Las Direcciones contarán para su apoyo con las unidades administrativas necesarias que faciliten el resultado eficaz de los objetivos de la Comisión. Sus funciones se definen en el manual de organización de la Comisión.
 
-### CAPÍTULO VI. DE LOS TRABAJADORES DE LA COMISION
+### CAPÍTULO VI
+
+DE LOS TRABAJADORES DE LA COMISION.
 
 ###### Artículo 20.
 
@@ -253,7 +257,7 @@ I.- Sólo los podrán redactar el Director General y los Directores de Área.
 
 II.- Es de carácter unipersonal.
 
-III.- En la parte superior, en mayúscula, se anotará la palabra "MEMORANDO".
+III.- En la parte superior, en mayúscula, se anotará la palabra "MEMORANDO"
 
 IV.- Deberá indicarse fecha, destinatario y remitente después de la palabra a que se refiere la fracción anterior.
 
@@ -299,7 +303,7 @@ III. En caso de oficios de la Dirección General se identificarán con las sigla
 
 IV. En caso de oficios de las direcciones de área, se acompañará a las iniciales de la dirección de que se trate acompañado de número de oficio y año.
 
-V. La firma de remitente ira al centro de la parte inferior.
+V. La firma de remitente ira al centro de la parte inferior
 
 VI. Se resaltará con tipo de letra "en negritas" el número de oficio, destinatario y la firma del remitente.
 
@@ -341,7 +345,7 @@ El horario de labores de la Comisión será de 8:00 a.m. a 4:00 p.m., o de una j
 
 Primero.- Este Reglamento Interior, anula a cualquier otro ordenamiento que se oponga a estas disposiciones.
 
-Segundo.- Este Reglamento entrara en vigor al día siguiente de su publicación en el Periódico Oficial del estado de Coahuila.
+Segundo: Este Reglamento entrara en vigor al día siguiente de su publicación en el Periódico Oficial del estado de Coahuila.
 
 Dado en la ciudad de Saltillo, Coahuila a los 05 días del mes de Mayo de 2008.
 
@@ -350,3 +354,13 @@ DIRECTOR GENERAL DE LA COMISION ESTATAL DE AGUAS Y SANEMIENTO (SIC).
 C. EMILIO BICHARA MARCOS WONG.
 
 (RUBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 3 DE JULIO DE 2009.
+
+Primero. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Coahuila.
+
+Segundo. Se abroga el Reglamento Interior de la Comisión Estatal de Aguas y Saneamiento del Estado de Coahuila, publicado en el Periódico Oficial del Estado N° 40 de fecha 16 de Mayo del 2008.
+
+Tercero. Se derogan todas las disposiciones que tengan similar o menor jerarquía que este Reglamento y que se opongan al mismo.
