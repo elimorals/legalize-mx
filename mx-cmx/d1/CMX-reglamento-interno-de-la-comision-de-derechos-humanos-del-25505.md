@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-la-comision-de-derechos-humanos-del-25505
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-01"
-last_updated: "2008-12-31"
+last_updated: "2009-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25505&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-06-20"
 
 REGLAMENTO INTERNO DE LA COMISION DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE JULIO DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 1 de agosto de 2002.
 
@@ -132,9 +132,13 @@ II. La autonomía presupuestal se hace consistir en la posibilidad de contar con
 
 El patrimonio de la Comisión se constituye por los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas que anualmente se señalen en el Presupuesto de Egresos del Distrito Federal, así como con los ingresos que reciba por cualquier concepto derivados de la aplicación de las disposiciones que establece la ley de la materia.
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(ADICIONADO, G.O. 3 DE JULIO DE 2009)</small>
 
-Para la supervisión y control de la correcta utilización de los recursos públicos a cargo de la Comisión, se contará con un órgano de control interno que auxilie a la o el Presidente y al Consejo en el ámbito de sus respectivas competencias.
+En el cuidado de su patrimonio y en el ejercicio del gasto público, la Comisión aplicará criterios de eficiencia.
+
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2009)</small>
+
+Para la supervisión y control de la correcta utilización de los recursos a cargo de la Comisión, se contará con un órgano de control interno que auxilie a la o el Presidente y al Consejo en el ámbito de sus respectivas competencias.
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -144,21 +148,15 @@ Todas las actuaciones y procedimientos de la Comisión serán gratuitas, lo que 
 
 Cuando la parte interesada decida contar con asistencia profesional para el trámite de su queja, se le deberá hacer la observación de que ello no es necesario y se le recordará que la Comisión tiene la obligación de proporcionar sus servicios de manera gratuita.
 
-> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2009)</small>
 
 ###### ARTÍCULO 7o.
 
-El personal de la Comisión regirá sus actuaciones y prestará sus servicios conforme a los principios de dicho Organismo.
+El personal de la Comisión regirá sus actuaciones y prestará sus servicios conforme a los principios de buena fe, gratuidad, concentración, rapidez, legalidad, honradez, lealtad, objetividad, imparcialidad, eficiencia, eficacia y transparencia.
 
-> <small>(REFORMADO, G.O. 4 DE ENERO DE 2008)</small>
+En su actuación buscará la igualdad sustantiva entre las personas. Para ello aplicará políticas de equidad de género, de no discriminación, y de respeto e integración de personas en situación de vulnerabilidad por discriminación.
 
-En su actuación buscará la igualdad sustantiva entre las personas. Para ello aplicará políticas de equidad de género y de no discriminación.
-
-Como consecuencia de lo anterior, deberá procurar en toda circunstancia proteger los derechos humanos de la parte quejosa, participar en las acciones de promoción de los derechos humanos, y hacer del conocimiento de sus superiores jerárquicos toda iniciativa que contribuya a la mejor realización de las finalidades de la institución.
-
-> <small>(REFORMADO, G.O. 4 DE ENERO DE 2008)</small>
-
-El personal de la Comisión, en materia de responsabilidades quedará sujeto al Título Cuarto de la Constitución.
+Así también, en el desempeño de sus funciones, optimizará al máximo los recursos, materiales, tecnológicos y presupuestales que le sean asignados, promoviendo una cultura de respeto y protección al derecho humano a un medio ambiente sano.
 
 ###### ARTÍCULO 8o.
 
@@ -258,7 +256,9 @@ VII. Las Coordinaciones; las relatorías, y
 
 VIII. Todas aquellas que sean necesarias para el apoyo a los órganos de la Comisión.
 
-### CAPÍTULO III. De la Presidencia de la Comisión
+> <small>(REFORMADA SU DENOMINACION, G.O. 3 DE JULIO DE 2009)</small>
+
+### CAPÍTULO III. De la presidencia de la Comisión
 
 > <small>(REFORMADO, G.O. 4 DE ENERO DE 2008)</small>
 
@@ -280,7 +280,9 @@ La o el Presidente tendrá las atribuciones siguientes:
 
 I. En su carácter de representante legal, podrá otorgar poderes para pleitos y cobranzas, representación legal y actos de administración. Para otorgar poderes para actos de dominio, requerirá autorización expresa del Consejo;
 
-II. Proponer al Consejo, para su aprobación, los lineamientos y programas generales de la Comisión, así como la normatividad interna, manuales y los procedimientos administrativos necesarios para su buen funcionamiento;
+> <small>(REFORMADA, G.O. 3 DE JULIO DE 2009)</small>
+
+II. Proponer al Consejo, para su aprobación, los lineamientos, políticas y programas generales de la Comisión, así como la normatividad interna, manuales y los procedimientos administrativos necesarios para su buen funcionamiento;
 
 > <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -322,9 +324,9 @@ X. Las demás que le confiere la Ley, el presente Reglamento, el Estatuto del Se
 
 La o el Presidente deberá elaborar y rendir un informe semestral de actividades al Consejo. Asimismo, un informe anual de actividades a la Asamblea Legislativa del Distrito Federal en términos de lo establecido en el Estatuto y la Ley.
 
-> <small>(REFORMADO, G.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2009)</small>
 
-Para la elaboración de estos informes se considerarán los estándares internacionales y las políticas transversales de igualdad sustantiva entre las personas, en el respeto de los derechos humanos en el Distrito Federal.
+Para la elaboración de estos informes se considerarán los estándares internacionales y las políticas transversales de equidad de género, igualdad sustantiva entre las personas, de no discriminación, de respeto e integración de personas en situación de vulnerabilidad por discriminación y de eficiencia en el gasto, promoviendo una cultura de respeto y protección al derecho humano a un medio ambiente sano.
 
 > <small>(REFORMADO, G.O. 4 DE ENERO DE 2008)</small>
 
@@ -350,7 +352,9 @@ III. Programa de Promoción y Difusión, integrado por la Secretaría Técnica, 
 
 IV. Programa de Fortalecimiento Institucional, integrado por la Dirección General de Administración, Contraloría Interna y la Dirección Ejecutiva de Investigación y Desarrollo Institucional.
 
-Al efecto la o el Presidente determinará las directrices bajo las cuales se realizarán las tareas programáticas, así como los lineamientos y políticas generales a los que habrán de sujetarse estos Programas.
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2009)</small>
+
+Al efecto la o el Presidente determinará las directrices bajo las cuales se realizarán las tareas programáticas, así como los lineamientos y políticas generales a los que habrán de sujetarse estos Programas, debiendo observar políticas transversales de eficiencia en el gasto, de equidad de género, de no discriminación, de respeto e integración de personas en situación de vulnerabilidad por discriminación y de una cultura de respeto y protección al derecho humano a un medio ambiente sano.
 
 > <small>(REFORMADO, G.O. 4 DE ENERO DE 2008)</small>
 
@@ -638,21 +642,21 @@ La Dirección General de Administración tendrá las atribuciones siguientes:
 
 I. Atender las necesidades administrativas de los diferentes órganos y áreas de apoyo de la Comisión de conformidad a los lineamientos generales, normas, políticas, manuales y procedimientos administrativos aprobados por el Consejo, eliminando en todo momento las prácticas discriminatorias, así como observando la igualdad sustantiva entre las personas atendiendo las indicaciones que reciba de la o el Presidente;
 
-> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 3 DE JULIO DE 2009)</small>
 
-II. Establecer con la aprobación de la o el Presidente las políticas, normas, criterios, sistemas y procedimientos para la administración de los recursos humanos, materiales y financieros de la Comisión, así como la prestación de servicios generales de apoyo, aplicando políticas que garanticen la equidad de género;
+II. Establecer con la aprobación de la o el Presidente las políticas, normas, criterios, sistemas y procedimientos para la administración de los recursos humanos, materiales y financieros de la Comisión, así como la prestación de servicios generales de apoyo, implementando acciones transversales de equidad de género, de no discriminación, de respeto e integración de personas en situación de vulnerabilidad por discriminación y de una cultura de respeto y protección al derecho humano a un medio ambiente sano;
 
 > <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
 
 III. Coordinar la elaboración y actualización del Manual General de Organización de la Comisión, así como los demás manuales de procedimientos administrativos con el apoyo de los órganos y las áreas responsables, y someterlos a la aprobación de la o el Presidente;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 3 DE JULIO DE 2009)</small>
 
-IV. Integrar el Anteproyecto de Presupuesto Anual de la Comisión y someterlo a la consideración de la o el Presidente;
+IV. Integrar el Anteproyecto de Presupuesto Anual de la Comisión, observando criterios de eficiencia en el gasto, y someterlo a la consideración de la o el Presidente;
 
-> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 3 DE JULIO DE 2009)</small>
 
-V. Elaborar en coordinación con los órganos y áreas de apoyo de la Comisión el Programa Operativo Anual de la Comisión;
+V. Elaborar en coordinación con los órganos y áreas de apoyo de la Comisión el Programa Operativo Anual de la Comisión, aplicando políticas transversales de equidad de género, de no discriminación, de respeto e integración de personas en situación de vulnerabilidad por discriminación y de una cultura de respeto y protección al derecho humano a un medio ambiente sano;
 
 > <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
 
@@ -676,21 +680,25 @@ X. Resguardar, mantener y administrar el Archivo de Concentración e Histórico 
 
 XI. Despachar la correspondencia concerniente a la atención de quejas, tanto la que deba enviarse a las autoridades como a la parte quejosa, y recabar los correspondientes acuses de recepción;
 
-> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 3 DE JULIO DE 2009)</small>
 
-XII. Implementar lo relativo al desarrollo del Servicio Profesional en Derechos Humanos, aplicando políticas que garanticen la equidad de género y la igualdad sustantiva entre las personas evitando en todo momento las prácticas discriminatorias en la Institución;
+XII. Implementar lo relativo al desarrollo del Servicio Profesional en Derechos Humanos, aplicando políticas que garanticen la equidad de género, la igualdad sustantiva entre las personas, la no discriminación y el respeto e integración de personas en situación de vulnerabilidad por discriminación;
 
-> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 3 DE JULIO DE 2009)</small>
 
-XIII. Coadyuvar en coordinación con la Dirección Ejecutiva de Investigación y Desarrollo Institucional la elaboración de propuestas de modificaciones y reformas al Estatuto del Servicio y al Manual conforme a la operación de las normas y procedimientos de los procesos generales del Servicio, en función de las necesidades, de las disponibilidades de presupuesto y del objeto de la Comisión;
+XIII. Coadyuvar en coordinación con la Dirección Ejecutiva de Investigación y Desarrollo Institucional, a la elaboración de propuestas de modificaciones y reformas al Estatuto del Servicio y al Manual conforme a la operación de las normas y procedimientos de los procesos generales del Servicio, en función de las necesidades, de las disponibilidades de presupuesto y del objeto de la Comisión, al efecto se aplicarán políticas de equidad de género, de no discriminación, y de respeto e integración de personas en situación de vulnerabilidad por discriminación;
 
-> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 3 DE JULIO DE 2009)</small>
 
-XIV. Coordinar en colaboración con los órganos y áreas de apoyo correspondientes, la publicación de los mecanismos de comunicación interna de la Comisión, y
+XIV. Coordinar en colaboración con los órganos y áreas de apoyo correspondientes, la publicación de los mecanismos de comunicación interna de la Comisión;
 
-> <small>(ADICIONADA, G.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 3 DE JULIO DE 2009)</small>
 
-XV. Las demás que le confiera el presente Reglamento, la o el Presidente, el Estatuto del Servicio, el Manual y los ordenamientos internos aplicables.
+XV. Coadyuvar e impulsar medidas transversales de eficiencia en el gasto que impliquen el mejor uso de los recursos materiales, humanos y tecnológicos de la Comisión, y
+
+> <small>(ADICIONADA, G.O. 3 DE JULIO DE 2009)</small>
+
+XVI. Las demás que le confiera el presente Reglamento, la o el Presidente, el Estatuto del Servicio, el Manual y los ordenamientos internos aplicables.
 
 ###### ARTÍCULO 37.
 
@@ -838,9 +846,9 @@ VI. Proponer estrategias de articulación, dirección educativa y promoción act
 
 VII. Diseñar y actualizar los criterios y contenidos para la implementación del Servicio Profesional en Derechos Humanos;
 
-> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 3 DE JULIO DE 2009)</small>
 
-VIII. Proponer y coordinar políticas transversales que garanticen la equidad de género, la igualdad sustantiva de las personas, así como la eliminación de prácticas discriminatorias por cualquier motivo en la institución;
+VIII. Proponer y coordinar políticas transversales que garanticen una cultura de respeto y protección al derecho humano a un medio ambiente sano, la equidad de género, la igualdad sustantiva de las personas, la no discriminación, el respeto e integración de personas en situación de vulnerabilidad por discriminación;
 
 > <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
 
@@ -850,13 +858,19 @@ IX. Formular programas y proponer acciones en coordinación con las dependencias
 
 X. Proponer en consulta con la Dirección General de Administración a la o el Presidente las modificaciones al Estatuto del Servicio y al Manual, en función de las necesidades del Servicio, de las disponibilidades de presupuesto y del objeto de la Comisión;
 
-> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
+XI. (DEROGADA, G.O. 3 DE JULIO DE 2009)
 
-XI. Garantizar el desarrollo del programa de equidad de género que impulse las políticas transversales del mismo, buscando la igualdad sustantiva entre las personas, y
+> <small>(REFORMADA, G.O. 3 DE JULIO DE 2009)</small>
 
-> <small>(ADICIONADA, G.O. 4 DE ENERO DE 2008)</small>
+XII. Promover y coadyuvar en el diseño y seguimiento de políticas transversales para atender los derechos humanos de las personas con discapacidad;
 
-XII. Las demás que le confiera el presente Reglamento, la o el Presidente, el Estatuto del Servicio, el Manual y los ordenamientos internos aplicables.
+> <small>(ADICIONADA, G.O. 3 DE JULIO DE 2009)</small>
+
+XIII. Coadyuvar con otros actores en la promoción de los derechos humanos de las personas con discapacidad en el Distrito Federal, y
+
+> <small>(ADICIONADA, G.O. 3 DE JULIO DE 2009)</small>
+
+XIV. Las demás que le confiera el presente Reglamento, la o el Presidente, el Estatuto del Servicio, el Manual y los ordenamientos internos aplicables.
 
 > <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2006)</small>
 
@@ -882,7 +896,9 @@ La Contraloría Interna tendrá las atribuciones siguientes:
 
 I. Auxiliar a la o el Presidente y al Consejo en el ámbito de su competencia informándoles de las acciones que le sean encomendadas;
 
-II. Vigilar que se establezca un sistema de control interno en materia de programación, presupuestación, administración de recursos humanos, materiales, financieros y patrimoniales, así como revisar su cumplimiento;
+> <small>(REFORMADA, G.O. 3 DE JULIO DE 2009)</small>
+
+II. Vigilar que se establezca un sistema de control interno en materia de programación, presupuestación, administración de recursos humanos, materiales, financieros y patrimoniales, así como revisar su cumplimiento conforme a los criterios de un gasto eficiente;
 
 III. Planear, realizar y supervisar todo tipo de auditorias para promover la eficiencia en el manejo, custodia y aplicación de los recursos, formulando las observaciones y recomendaciones que deriven de dichas auditorias;
 
@@ -1186,15 +1202,23 @@ XVI. Colaborar con la Presidencia en la elaboración de los informes anuales, as
 
 XVII. Vincularse con las instancias públicas y con las organizaciones de la sociedad civil nacional e internacional, a fin de promover el análisis, la reflexión y la concientización de los derechos humanos;
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 3 DE JULIO DE 2009)</small>
 
-XVIII. Editar, coeditar y distribuir las publicaciones y materiales de la Comisión, y (sic)
+XVIII. Editar, coeditar y distribuir las publicaciones y materiales de la Comisión;
 
 XIX. (DEROGADA, G.O. 31 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 3 DE JULIO DE 2009)</small>
 
-XX. Las demás que le confiera el presente Reglamento, la o el Presidente y los ordenamientos internos.
+XX. Promover el diseño y seguimiento de políticas transversales de no discriminación;
+
+> <small>(ADICIONADA, G.O. 3 DE JULIO DE 2009)</small>
+
+XXI. Coadyuvar con otros actores en la promoción del derecho a la no discriminación en el Distrito Federal, y
+
+> <small>(ADICIONADA, G.O. 3 DE JULIO DE 2009)</small>
+
+XXII. Las demás que le confiera el presente Reglamento, la o el Presidente y los ordenamientos internos.
 
 ###### ARTÍCULO 64.
 
@@ -2251,3 +2275,13 @@ G.O. 31 DE DICIEMBRE DE 2008.
 Artículo primero. Las reformas y adiciones que se contienen en el acuerdo del Consejo de la Comisión de Derechos Humanos del Distrito Federal, aprobado en la sesión ordinaria de fecha 12 de diciembre de 2008, entrarán en vigor al día hábil siguiente de su publicación en la Gaceta Oficial del Distrito Federal derogando las disposiciones que las contravengan.
 
 Artículo segundo. Los procedimientos de investigación y de seguimiento, así como los de Contraloría Interna y del Servicio Profesional en Derechos Humanos, que se hayan iniciado conforme a las disposiciones del Reglamento Interno que se reforma y adiciona, deberán continuar sustanciándose hasta su conclusión, de conformidad con los preceptos de dicho ordenamiento legal.
+
+G.O. 3 DE JULIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Las reformas y adiciones que se contienen en el Acuerdo del Consejo de la Comisión de Derechos Humanos del Distrito Federal, aprobado en sesión ordinaria de fecha 25 de marzo de 2009, entrarán en vigor al día hábil siguiente de su publicación en la Gaceta Oficial del Distrito Federal, derogando las disposiciones que las contravengan.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos de investigación y de seguimiento, así como los de la Contraloría Interna y del Servicio Profesional en Derechos Humanos, que se hayan iniciado conforme a las disposiciones del Reglamento Interno que se reforma y adiciona, deberán continuar sustanciándose hasta su conclusión, de conformidad con los preceptos de dicho ordenamiento legal.
