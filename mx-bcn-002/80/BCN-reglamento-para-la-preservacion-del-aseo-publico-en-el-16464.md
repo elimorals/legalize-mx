@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-preservacion-del-aseo-publico-en-el-16464"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-03-31"
-last_updated: "2004-12-10"
+last_updated: "2009-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16464&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA PRESERVACION DEL ASEO PUBLICO EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 31 de marzo del 2000.
 
@@ -101,9 +101,11 @@ IX.- Residuo.- Cualquier material generado en los procesos de extracción, benef
 
 X.- Sitio para la disposición final de residuos.- Lugar establecido para la disposición final de residuos, en el que se depositan de manera permanente, se esparcen, compactan a su menor volumen práctico posible, y se cubran con una capa de tierra al término de las operaciones del día, bajo condiciones técnicas debidamente aprobadas.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2009)</small>
+
 ###### Artículo 4.
 
-En todos los casos en los que el presente Reglamento se refiera a residuos, se entenderán como tales, los residuos municipales de acuerdo con la normatividad ambiental vigente, ya sea que provengan de fuentes domésticas, comerciales, de servicios públicos o privados. También se comprenderán los residuos que generen industrias, pero que no deriven de su proceso y no sean peligrosos.
+En todos los casos en los que el presente Reglamento se refiera a residuos, se entenderán como tales, los residuos municipales o residuos sólidos urbanos, de acuerdo con la normatividad ambiental vigente, ya sea que provengan de fuentes domésticas, comerciales, de servicios públicos o privados. También se comprenderán los residuos que generen industrias, pero que no deriven de su proceso y no sean considerados por otros ordenamientos como residuos de otra índole, así como los enunciados como tales en el Reglamento de Imagen Urbana para el Municipio de Mexicali.
 
 ### CAPÍTULO SEGUNDO. DEL SERVICIO PUBLICO DE LIMPIA
 
@@ -343,15 +345,9 @@ Asimismo, durante la operación deberán instalar recipientes para residuos sufi
 
 La distribución de impresos en vialidades o bienes públicos, requerirá de permiso de la Secretaría del Ayuntamiento, en el que se determinarán las zonas, horarios y demás condiciones a que se sujetará tal actividad.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
-
 ###### Artículo 32.
 
-Para instalar materiales con propaganda o publicidad de cualquier tipo, en mobiliario urbano instalado sobre bienes o vías públicas de jurisdicción municipal, se requerirá permiso de la Dirección, de la Dirección de Administración Urbana, y de la Dirección de Ecología.
-
-La autorización de la Dirección, indicará los lugares, el tipo de materiales, el término por el que podrán instalarse, y las demás condiciones que eviten se genere algún daño al mobiliario.
-
-Se considera el mobiliario urbano donde sólo se podrán instalar materiales con propaganda o publicidad de fácil remoción de cualquier tipo: las estructuras para la espera del transporte público, los puentes, los recipientes para residuos sólidos.
+(DEROGADO, P.O. 3 DE JULIO DE 2009)
 
 ###### Artículo 33.
 
@@ -389,25 +385,9 @@ b.- Hacer fogatas;
 
 c.- Tender ropa, alfombras, colchas, u objetos similares.
 
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
-
 ###### Artículo 36 Bis.
 
-Se prohíbe instalar materiales con propaganda o publicidad de cualquier tipo, en mobiliario urbano instalado sobre bienes o vías públicas de jurisdicción municipal.
-
-Se considera mobiliario urbano:
-
-I.- Los arbotantes del alumbrado público;
-
-II.- Los postes para cables de conducción de energía eléctrica o comunicación;
-
-III.- Las instalaciones especiales de empresas públicas o privadas que presten servicios de agua, teléfono, gas o similares;
-
-IV.- Los semáforos y demás señalamientos viales;
-
-V.- Los letreros de nomenclatura; y
-
-VI.- Las instalaciones de parques, plazas o jardines.
+(DEROGADO, P.O. 3 DE JULIO DE 2009)
 
 ### CAPÍTULO CUARTO. DE LAS INFRACCIONES Y SANCIONES
 
@@ -554,3 +534,7 @@ SEGUNDO.- La Dirección de Servicios Públicos Municipales deberá elaborar los 
 P.O. 10 DE DICIEMBRE DE 2004.
 
 ÚNICO: Las presentes modificaciones entrarán en vigor, a partir del día primero de enero del año dos mil cinco.
+
+P.O. 3 DE JULIO DE 2009.
+
+ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
