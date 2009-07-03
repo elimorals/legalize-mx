@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-3094
 country: "mx"
 rank: "ley"
 publication_date: "1992-09-20"
-last_updated: "2006-08-18"
+last_updated: "2009-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de septiembre de 1992.
 
@@ -173,7 +173,9 @@ Todos los ingresos o entradas de efectivo se ampararán sin excepción alguna, c
 
 Todos los ingresos propios de ley deberán depositarse en cuentas bancarias, procurando obtener los mejores rendimientos financieros.
 
-Los titulares de las Dependencias y Entidades reguladas por esta Ley informarán a la Contaduría Mayor de Hacienda el saldo, número, tipo de cuenta y nombre de la institución bancaria correspondiente, dentro de los quince días posteriores a su apertura e informarán sobre su cancelación dentro de los siguientes quince días a que esto ocurra.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2009)</small>
+
+Los titulares de las Dependencias y Entidades reguladas por esta Ley informarán al Órgano de Fiscalización Superior el saldo, número, tipo de cuenta y nombre de la institución bancaria correspondiente, dentro de los quince días posteriores a su apertura e informarán sobre su cancelación dentro de los siguientes quince días a que esto ocurra.
 
 > <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
@@ -357,15 +359,11 @@ El ejercicio del gasto público comprende el manejo y aplicación de los recurso
 
 Las erogaciones del gasto público que realicen las Entidades y Dependencias, podrán cubrirse en efectivo, tratándose de gastos menores que se realicen a través de fondos revolventes y gastos diversos sujetos a comprobación, siempre que éstos se apeguen a la normatividad específica y que los recursos para estos casos se provean mediante cheques nominativos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 37.
 
-Toda erogación a cargo del Presupuesto de Egresos deberá ser indispensable, normal y propia de la Entidad o Dependencia que los realiza, de aplicación estricta al ramo y programa al que corresponda, y ajustada a la descripción de la partida contra la cual se realiza el cargo. La comprobación del gasto público se efectuará con la documentación original que demuestre la entrega del pago correspondiente y que reúna los requisitos que establecen las disposiciones fiscales, el Reglamento de esta ley y las reglas generales que emitan la Secretaría de Planeación y Finanzas del Estado y las Tesorerías Municipales en el ámbito de sus competencias, las cuales se harán del conocimiento del Congreso para los efectos de la revisión de la Cuenta Pública por parte de la Contaduría Mayor de Hacienda.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
-
-Una erogación se entenderá justificada cuando existan las disposiciones y documentos legales, que determinen el compromiso u obligación de hacer el pago, y que además exista la evidencia de haber sido tramitada ante las instancias facultadas para dotar de los recursos humanos, materiales o financieros.
+Toda erogación a cargo del Presupuesto de Egresos deberá ser indispensable, normal y propia de la Entidad o Dependencia que los realiza, de aplicación estricta al ramo y programa al que corresponda, y ajustada a la descripción de la partida contra la cual se realiza el cargo. La comprobación del gasto público se efectuará con la documentación original que demuestre la entrega del pago correspondiente y que reúna los requisitos que establecen las disposiciones fiscales, el Reglamento de esta ley y las reglas generales que emitan la Secretaría de Planeación y Finanzas del Estado y las Tesorerías Municipales en el ámbito de sus competencias, las cuales se harán del conocimiento del Congreso para los efectos de la revisión de la Cuenta Pública por parte del Órgano de Fiscalización Superior.
 
 > <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
@@ -479,11 +477,11 @@ Las Entidades de la Administración Pública Paraestatal y Paramunicipal adminis
 
 Cuando así se requiera, el Ejecutivo del Estado y los Ayuntamientos podrán disponer que los fondos y pagos correspondientes a las Entidades de la Administración Pública Paraestatal o Paramunicipal incluidas en el Presupuesto de Egresos del Gobierno del Estado y de los Municipios, se manejen eventual o permanentemente por la Secretaría de Planeación y Finanzas o por las Tesorerías Municipales, respectivamente.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 46.
 
-Una vez concluida la vigencia del Presupuesto de Egresos, sólo procederá a hacer pagos con base en él, por los conceptos efectivamente devengados en el año que corresponda y siempre que estén debidamente contabilizados al 31 de diciembre del ejercicio correspondiente o por operaciones determinadas en el ámbito de su competencia por la Dirección de Control y Evaluación Gubernamental, las Sindicaturas Municipales, las contralorías o unidades internas de auditoría de las demás Entidades resultantes de las atribuciones de vigilancia y verificación del gasto público dispuestas por los artículos 9 y 66 de esta Ley o por la Contaduría Mayor de Hacienda del Congreso del Estado resultantes de las atribuciones de fiscalización de las Cuentas Públicas de conformidad con las leyes aplicables en la materia.
+Una vez concluida la vigencia del Presupuesto de Egresos, sólo procederá a hacer pagos con base en él, por los conceptos efectivamente devengados en el año que corresponda y siempre que estén debidamente contabilizados al 31 de diciembre del ejercicio correspondiente o por operaciones determinadas en el ámbito de su competencia por la Dirección de Control y Evaluación Gubernamental, las Sindicaturas Municipales, las contralorías o unidades internas de auditoría de las demás Entidades resultantes de las atribuciones de vigilancia y verificación del gasto público dispuestas por los Artículos 9 y 66 de esta Ley o por el Órgano de Fiscalización Superior del Estado resultantes de las atribuciones de fiscalización de las Cuentas Públicas de conformidad con las leyes aplicables en la materia.
 
 ###### ARTICULO 47.
 
@@ -517,7 +515,9 @@ Es facultad de la Secretaría de Planeación y Finanzas y de las Tesorerías Mun
 
 Para el cumplimiento de lo anterior, la Secretaría de Planeación y Finanzas y las Tesorerías Municipales, dictarán las disposiciones administrativas que procedan.
 
-Asimismo, serán responsables la Secretaría de Planeación y Finanzas, las Tesorerías Municipales y las unidades de contabilidad de las demás Entidades de la solventación de las observaciones sobre la Cuenta Pública mensual o anual que finque el Congreso del Estado por conducto de la Contaduría Mayor de Hacienda.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2009)</small>
+
+Asimismo, serán responsables la Secretaría de Planeación y Finanzas, las Tesorerías Municipales y las unidades de contabilidad de las demás Entidades de la solventación de las observaciones sobre la Cuenta Pública mensual o anual que finque el Congreso del Estado por conducto del Órgano de Fiscalización Superior.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
@@ -705,17 +705,17 @@ Por lo que respecta a las Dependencias Estatales y Municipales, esta documentaci
 
 La reproducción de la documentación contable de las Dependencias y Entidades, referente a ejercicios fiscales cuyas cuentas públicas hayan sido aprobadas por el Congreso del Estado y que obren en el Archivo Contable Gubernamental, serán certificadas, a través de dictamen por los titulares de la Secretaría de Planeación y Finanzas y de la Dirección de Control y Evaluación Gubernamental en el ámbito estatal, y de la Tesorería, Sindicatura Municipal y la Secretaría del Ayuntamiento en el ámbito municipal.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 78.
 
-La reproducción de la documentación a que se refiere el artículo anterior, se efectuará por lo menos en duplicado, quedando la guarda de cada una de éstas a cargo de la Secretaría de Planeación y Finanzas del Estado, de la Tesorería Municipal y del Congreso del Estado por conducto de la Contaduría Mayor de Hacienda, levantando acta circunstanciada de la entrega de la misma.
+La reproducción de la documentación a que se refiere el Artículo anterior, se efectuará por lo menos en duplicado, quedando la guarda de cada una de éstas a cargo de la Secretaría de Planeación y Finanzas del Estado, de la Tesorería Municipal y del Congreso del Estado por conducto del Órgano de Fiscalización Superior, levantando acta circunstanciada de la entrega de la misma.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 79.
 
-La documentación contable que haya sido reproducida y certificada, a través de dictamen por los funcionarios competentes, procederá a destruirse después de un año de aprobada la cuenta pública por el Congreso del Estado a partir de la publicación en el Periódico Oficial del Estado, por el método que resulte más idóneo previo inventario de la misma, asentándose los hechos en acta circunstanciada la cual firmarán funcionarios competentes de la Oficialía Mayor de Gobierno y de la Secretaría de Planeación y Finanzas y la Dirección de Control y Evaluación Gubernamental del Estado y, Oficialía Mayor, Tesorería, Sindicatura y Secretaría de los Ayuntamientos, remitiéndose copia del acta a la Contaduría Mayor de Hacienda del Congreso del Estado en un plazo de 30 días posteriores a su destrucción.
+La documentación contable que haya sido reproducida y certificada, a través de dictamen por los funcionarios competentes, procederá a destruirse después de un año de aprobada la cuenta pública por el Congreso del Estado a partir de la publicación en el Periódico Oficial del Estado, por el método que resulte más idóneo previo inventario de la misma, asentándose los hechos en acta circunstanciada la cual firmarán funcionarios competentes de la Oficialía Mayor de Gobierno y de la Secretaría de Planeación y Finanzas y la Dirección de Control y Evaluación Gubernamental del Estado y, Oficialía Mayor, Tesorería, Sindicatura y Secretaría de los Ayuntamientos, remitiéndose copia del acta al Órgano de Fiscalización Superior del Estado en un plazo de 30 días posteriores a su destrucción.
 
 ###### ARTICULO 80.
 
@@ -725,7 +725,9 @@ Al responsable del Archivo Contable Gubernamental le compete expedir copias de l
 
 El tiempo mínimo de guarda de las reproducciones a que se refiere el Artículo 77 de esta Ley, será de tres años a partir de la conclusión del periodo de gobierno de los Ayuntamientos y las Entidades de la Administración Pública Paramunicipal; de tres años a partir de la conclusión del ejercicio legal del Congreso del Estado; de seis años a partir de la conclusión del periodo de gobierno del Ejecutivo del Estado y las Entidades de la Administración Pública Paraestatal. Tratándose del Tribunal Superior de Justicia del Estado el tiempo mínimo de guarda será coincidente con el que se establece para el Ejecutivo del Estado.
 
-Transcurrido este lapso procederá a destruirse con las formalidades de inventario que establece el Artículo 79 de esta Ley, remitiéndose copia del acta a la Contaduría Mayor de Hacienda del Congreso del Estado.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2009)</small>
+
+Transcurrido este lapso procederá a destruirse con las formalidades de inventario que establece el Artículo 79 de esta Ley, remitiéndose copia del acta al Órgano de Fiscalización Superior del Estado.
 
 ### CAPITULO NOVENO. DE LAS RESPONSABILIDADES
 
@@ -747,7 +749,9 @@ II. Pliego de observaciones o de responsabilidades que emitan:
 
 a) Las contralorías o unidades internas de auditoría de las Entidades, la Comisión designada del Congreso del Estado o de Tribunal Superior de Justicia, con motivo de la revisión que de su propia contabilidad hagan, y
 
-b) La Contaduría Mayor de Hacienda del Congreso del Estado, en los términos de la Ley de la materia.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2009)</small>
+
+b) El Órgano de Fiscalización Superior del Estado, en los términos de la Ley de la materia.
 
 ###### ARTICULO 84.
 
@@ -864,3 +868,7 @@ UNICO: Las presentes reformas entrarán en vigor al día siguiente de su publica
 P.O. 18 DE AGOSTO DE 2006.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 3 DE JULIO DE 2009.
+
+ÚNICO.- Las presentes reformas entraran en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
