@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2009-03-28"
+last_updated: "2009-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACION DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2009.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -123,9 +123,17 @@ X.- Desarrollar actitudes solidarias en los individuos, para crear conciencia so
 
 XI.- Contribuir a la formación e impulso de una cultura ecológica creando conciencia de la relación naturaleza-hombre;
 
-XII.- Fomentar actitudes solidarias y positivas hacia el trabajo, la productividad, el ahorro y el bienestar general; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
 
-XIII.- Propiciar el rechazo a los vicios.
+XII.- Fomentar actitudes solidarias y positivas hacia el trabajo, la productividad, el ahorro y el bienestar general;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+XIII.- Propiciar el rechazo a los vicios, y
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2009)</small>
+
+XIV.- Llevar, en coordinación con las diversas autoridades de la Entidad, programas permanentes de educación y seguridad vial, necesarios para la prevención de accidentes.
 
 ###### ARTICULO 10.
 
@@ -1502,6 +1510,12 @@ TERCERO. El Ejecutivo del Estado constituirá Consejo Estatal de Participación 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 28 DE MARZO DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 4 DE JULIO DE 2009.
 
 PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
 
