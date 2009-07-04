@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-de-oaxaca-11789"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-04"
-last_updated: "2004-08-21"
+last_updated: "2009-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -251,7 +251,9 @@ A más tardar en la segunda sesión del primer período ordinario de su primer a
 
 I.- Estudios Constitucionales;
 
-II.- De Vigilancia de la Contaduría Mayor de Hacienda;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+II.- De Vigilancia de la Auditoría Superior del Estado;
 
 III.- Gobernación;
 
@@ -265,7 +267,9 @@ VII.- De Educación Pública;
 
 VIII.- De Fomento Industrial Comercial y Artesanal;
 
-IX.- De Presupuesto, Programación y Cuenta Pública;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+IX.- De Presupuesto y Programación;
 
 X.- De Turismo;
 
@@ -367,17 +371,35 @@ Las Comisiones enumeradas en el artículo 25 del presente Reglamento tendrán la
 
 I.- La Comisión de Estudios Constitucionales se encargará principalmente de estudiar las reformas que se propongan a la Constitución General de la República y a la particular del Estado y quedará integrada preferentemente por Licenciados en Derecho.
 
-II.- La Comisión de Vigilancia de la Contaduría Mayor de Hacienda tendrá las siguientes obligaciones y atribuciones:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2009)</small>
+
+II.- La Comisión de Vigilancia de la Auditoría Superior del Estado tendrá las siguientes obligaciones y atribuciones:
 
 a).- Certificar en la primera y última hoja, expresando el número de estas que se contengan, todos los libros que sean necesarios para las labores de la oficina;
 
-b).- Vigilar que la Contaduría Mayor de Hacienda, cumpla eficazmente con las funciones que le competen;
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
 
-c).- Promover y adoptar las medidas que a su juicio tiendan a imprimir mayor eficacia a las labores de la Contaduría;
+b).- Recibir del Pleno o de la Diputación Permanente los informes de avance de gestión financiera y las Cuentas Públicas, para turnarlos a la Auditoría Superior del Estado;
 
-d).- Proponer los nombramientos del personal de la Contaduría;
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
 
-e).- Proponer las sanciones administrativas que deban imponerse al personal de la Contaduría Mayor de Hacienda;
+c).- Dictaminar las respectivas Cuentas Públicas;
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
+
+d).- Vigilar y evaluar que la Auditoría Superior del Estado, cumpla eficazmente con las funciones que le competen;
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
+
+e).- Presentar al Pleno del Congreso, el dictamen relativo a la terna para ocupar el cargo de Auditor y Sub Auditores Superiores del Estado, la que se integrará con las propuestas recibidas;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE JULIO DE 2009)</small>
+
+f).- Dictaminar acerca de la solicitud de licencia, renuncia o remoción del Auditor Superior del Estado, que se integrará con las propuestas recibidas; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE JULIO DE 2009)</small>
+
+g).- Proponer la contratación del personal de la Unidad Técnica de Vigilancia, Evaluación y Control de la Auditoría Superior del Estado, que Auxiliará a la Comisión en el desempeño de sus funciones.
 
 III.- La Comisión de Gobernación efectuará los estudios relativos a conflictos de límites estatales y municipales y atenderá los problemas políticos, que surjan en el seno de los Ayuntamientos o en relación de éstos, con las organizaciones políticas y sociales del municipio;
 
@@ -391,7 +413,9 @@ VII.- La Comisión de Educación, tendrá a su cargo el estudio de las leyes y r
 
 VIII.- La Comisión de Fomento Industrial, Comercial y Artesanal se encargará del estudio de todos aquellos proyectos y obras de beneficio general o sectorial, que tiendan al fomento y desarrollo de las industrias en el Estado, así como de la viabilidad en la creación de organismos que auxilien en la administración pública municipal y estatal en el aspecto comercial y artesanal;
 
-IX.- La Comisión de Presupuesto, Programación y Cuenta Pública, tendrá a su cargo revisar y estudiar los proyectos de Presupuesto de Egresos y Ley de Ingresos del Estado, las leyes de ingresos de los ayuntamientos, así como de las reformas y ampliaciones que se propongan a los presupuestos del Estado y, presentará al pleno del Congreso, el dictamen de la cuenta pública del mismo y de los municipios;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+IX.- La Comisión de Presupuesto y Programación, tendrá a su cargo revisar y estudiar los proyectos de Presupuesto de Egresos y Ley de Ingresos del Estado, las Leyes de Ingresos de los Ayuntamientos, el Plan Estatal de Desarrollo, así como las reformas y ampliaciones que se propongan a los presupuestos del Estado;
 
 X.- La Comisión de Turismo, se encargará de conocer los proyectos y programas de turismo que desarrolle el Estado y los Municipios y vigilar la eficacia de los mismos;
 
@@ -407,7 +431,15 @@ XV.- La Comisión Instructora, conocerá de los expedientes que se integren con 
 
 XVI.- La Comisión de Estilo y Editorial, se encargará de corregir la redacción de los Decretos y Acuerdos, cuidando de no modificar su espíritu y de promover la impresión o edición de ordenamientos jurídicos y de documentos importantes del Congreso, los autores de proyecto de ley si así lo desean, podrán unirse a esta Comisión para la corrección de los mismos;
 
-XVII.- La Comisión de Derechos Humanos, conocerá de todos aquellos casos en que se violen los derechos humanos y estará en colaboración estrecha con la Comisión Estatal de Derechos Humanos y organismos similares;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+XVII.- La Comisión de Derechos Humanos, tendrá las siguientes atribuciones:
+
+a).- Conocerá de todos aquellos casos en que se violen los derechos humanos y estará en colaboración estrecha con la Comisión para la Defensa de los Derechos Humanos del Estado y organismos similares;
+
+b).- Emitir la convocatoria pública para allegarse de aspirantes a los cargos de Presidente y Consejeros de la Comisión para la Defensa de los Derechos Humanos del Estado; y
+
+c).- Presentar ante el Pleno, las ternas respectivas de aspirantes a ocupar el cargo de Presidente y Consejeros de la Comisión para la Defensa de los Derechos Humanos del Estado, con el objeto de que éste designe a quien deba ocupar dichos cargos;
 
 XVIII.- Corresponde a la Comisión de Protección Ciudadana, dictaminar todo lo relacionado a las iniciativas de ley o decreto que tenga por finalidad regular jurídica o administrativamente las corporaciones de seguridad pública estatal, así como las bases normativas que impulsen la organización, prevención y participación de la sociedad y las instituciones en los riesgos o fenómenos naturales que se produzcan;
 
@@ -485,11 +517,15 @@ Todo el personal de la Legislatura guardará durante las horas de trabajo compos
 
 El Presidente de la Gran Comisión nombrará a los empleados y cubrirá las vacantes que resulten necesarias para el servicio de la Legislatura.
 
-### CAPITULO VI. CONTADURÍA MAYOR DE HACIENDA
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE JULIO DE 2009)</small>
+
+### CAPITULO VI. DE LA AUDITORÍA SUPERIOR DEL ESTADO
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 43.
 
-La Contaduría Mayor de Hacienda es el órgano de fiscalización y control gubernamental del Congreso del estado, se integra y ejerce sus atribuciones en los términos de la Ley Orgánica del Poder Legislativo del Estado de Oaxaca, la Ley Orgánica de la Contaduría Mayor de Hacienda y su Reglamento Interior.
+La Auditoría Superior del Estado es el órgano técnico del Congreso que tiene a su cargo la revisión y fiscalización de la Cuenta Pública de los Poderes del Estado y Municipios, entes públicos estatales y municipales, organismos públicos autónomos que ejerzan recursos públicos y en general, cualquier entidad, persona física o moral, pública o privada que haya recaudado, administrado, manejado o ejercido recursos públicos estatales o municipales. Se integra y ejerce sus atribuciones en los términos de la Constitución Política del Estado, este Reglamento, la Ley de Fiscalización Superior del Estado de Oaxaca y el Reglamento Interior de la Auditoría Superior del Estado de Oaxaca.
 
 ### CAPITULO VII. DEL TESORERO
 
@@ -499,9 +535,11 @@ Para la administración de los recursos económicos, el Congreso tendrá un teso
 
 El tesorero entrará a ejercer su cargo otorgando la fianza correspondiente con los requisitos y responsabilidades para los que de igual clase previenen las Leyes.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 45.
 
-La Tesorería recibirá de la Secretaría de Finanzas del Gobierno del Estado, previo acuerdo de la Comisión de Hacienda, el Presupuesto correspondiente para los gastos que origina el Congreso del Estado, así como la Contaduría Mayor de Hacienda y se nombrará en la segunda quincena del mes de septiembre.
+La Tesorería recibirá de la Secretaría de Finanzas del Gobierno del Estado, previo acuerdo de la Comisión de Hacienda, el Presupuesto correspondiente para los gastos que origina el Congreso del Estado. La Auditoría Superior del Estado presentará su Presupuesto de Egresos, en términos de los artículos 73 y 79 de la Ley de Fiscalización Superior del Estado de Oaxaca.
 
 ###### ARTICULO 46.
 
@@ -1023,6 +1061,8 @@ El Secretario General de Gobierno u otro funcionario que se encuentre en el Sal�
 
 ### CAPITULO UNICO. DEL COLEGIO ELECTORAL Y DE OTRAS FACULTADES CONSTITUCIONALES CONFERIDAS AL CONGRESO
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 146.
 
 Después de que se aprueben todos los artículos de una Ley o Decreto, lo mismo que las adiciones o modificaciones que se le hicieren, pasará el expediente respectivo a la Comisión de Estilo y Editorial, para que formule la minuta de lo aprobado.
@@ -1053,23 +1093,15 @@ En la interpretación, reformas o derogaciones de las Leyes o Decretos, se obser
 
 ###### ARTICULO 152.
 
-La Legislatura se erigirá en Colegio Electoral, en los casos previstos en la Constitución Política del Estado Libre y Soberano de Oaxaca, la Ley Orgánica del Poder Legislativo y para la calificación de los comicios municipales.
+La Legislatura del Estado se erigirá en Colegio Electoral, en los casos previstos en la Constitución Política del Estado Libre y Soberano de Oaxaca y la Ley Orgánica del Poder Legislativo.
 
 ###### ARTICULO 153.
 
-En los casos de calificación de elecciones a concejales municipales se seguirá el siguiente procedimiento:
-
-a).- Llegados a la Legislatura los expedientes electorales, dará cuenta de los mismos la Secretaría a fin de que se erija el Congreso en Colegio Electoral, el cual será presidido por el Presidente de la Legislatura en turno y se prorrogará como presidente del Colegio Electoral, aún cuando feneciere el mes para el que fue electo o concluyera el período de sesiones y sólo terminará al finiquitar la calificación de todos los expedientes de los municipios respectivos;
-
-b).- Tratándose de elecciones ordinarias, se procederá de inmediato a integrar cuatro comisiones, compuestas de tres miembros propietarios y tres suplentes cada una, las cuales podrán aumentarse o disminuirse según las necesidades del Congreso, podrán colaborar entre sí y emitirán sus dictámenes, que deberán ser rendidos a más tardar el día 15 de diciembre, pudiéndose prorrogarse el término a solicitud del Presidente del Colegio, pero en todo caso deberán concluir antes del 31 de diciembre del año de la elección ordinaria respectiva;
-
-Los dictámenes podrán emitirse en forma global cuando concurran las mismas características en varios municipios;
-
-c).- Tratándose de elecciones extraordinarias, se estará a lo dispuesto por los dos incisos anteriores y por la legislación electoral, ajustándose a los tiempos de conformidad a la convocatoria de elecciones respectivas.
+(DEROGADO, P.O. 4 DE JULIO DE 2009)
 
 ###### ARTICULO 154.
 
-El Presidente de la Legislatura señalará con anticipación el día en que ésta deba constituirse en Colegio Electoral, ese día previa declaratoria del Presidente de quedar la Legislatura erigida en Colegio Electoral, se dará lectura al dictamen de la Comisión que acompañado con el correspondiente escrutinio, se pondrá a discusión en lo general y en lo particular, teniendo en este caso presente lo dispuesto para la discusión y votación de las Leyes.
+(DEROGADO, P.O. 4 DE JULIO DE 2009)
 
 ###### ARTICULO 155.
 
@@ -1331,7 +1363,7 @@ P.O. 6 DE MAYO DE 2000.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
-SEGUNDO.- La Comisión Permanente de Equidad y Género de la LVII Legislatura del Estado, se integra con las Diputadas y Diputados que integran la actual Comisión Especial de Equidad y Genero.
+SEGUNDO.- La Comisión Permanente de Equidad y Género de la LVII Legislatura del Estado, se integra con las Diputadas y Diputados que integran la actual Comisión Especial de Equidad y Género.
 
 P.O. 27 DE ABRIL DE 2002.
 
@@ -1344,3 +1376,7 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 21 DE AGOSTO DE 2004.
 
 UNICO.- El presente decreto entrará en vigor el día de su aprobación. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE JULIO DE 2009.
+
+UNICO.- El presente Decreto entrará en vigor al día de su aprobación. Publíquese en el Periódico Oficial del Gobierno del Estado.
