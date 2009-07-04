@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2009-05-21"
+last_updated: "2009-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2009.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -1495,69 +1495,53 @@ En caso de reincidencia en cualquiera de los supuestos, se impondrá prisión de
 
 Este delito se perseguirá a petición de parte, salvo que la víctima sea menor de dieciocho años, en cuyo caso se perseguirá de oficio.
 
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 4 DE JULIO DE 2009)</small>
+
 ## TITULO CUARTO. DELITOS CONTRA LA REPUTACION DE LA PERSONA
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE JULIO DE 2009)</small>
 
 ### CAPITULO I. DELITO CONTRA EL ESTADO CIVIL DE LAS PERSONAS
 
 ###### ARTICULO 159.
 
-Comete el delito de difamación quien comunica a una o más personas la imputación que se hace a otra persona de un hecho cierto o falso, determinado o indeterminado, que cause o pueda causarle deshonra, descrédito, perjuicio o exponerlo al desprecio de alguien.
-
-Este delito se sancionará con una pena de seis meses a dos años de prisión y sanción pecuniaria de diez a cuarenta días de salario mínimo, más la reparación del daño.
-
-Si el ofendido fuere alguno de los parientes o personas a que se refieren los artículos 177 y 178 de éste Código, en este caso, siempre y cuando habite en el mismo domicilio de la víctima, la pena se aumentará un tercio.
+(DEROGADO, P.O. 4 DE JULIO DE 2009)
 
 ###### ARTICULO 160.
 
-Al inculpado de difamación no se le admitirá prueba alguna para acreditar la verdad de la imputación, salvo en los casos siguientes:
-
-I. Cuando aquélla se haya hecho a un funcionario o agente de la autoridad o a cualquier otra persona que haya obrado con carácter público, si la imputación fuere relativa al ejercicio de sus funciones, y
-
-II. Cuando el inculpado obre por motivos de interés público o privado, pero legítimo, sin ánimo de dañar y la difamación no se haya hecho públicamente.
-
-En estos casos no se aplicará sanción alguna al inculpado que pruebe su imputación.
+(DEROGADO, P.O. 4 DE JULIO DE 2009)
 
 ###### ARTICULO 161.
 
-No se impondrá sanción alguna al inculpado de difamación:
-
-I. Que manifieste técnicamente su parecer sobre alguna producción literaria, artística, científica o industrial;
-
-II. Que manifieste su juicio sobre la capacidad, instrucción, aptitud o conducta de otro, si prueba que obró en cumplimiento de un deber o por interés público, o que, con la debida reserva, lo hizo por humanidad, por prestar un servicio a personas con quien tenga parentesco o amistad o dando informes que se le hubieren pedido, si no lo hace a sabiendas calumniosamente, y
-
-III. Que sea autor de un escrito presentado o de un discurso pronunciado en los tribunales, pues, si hace uso de alguna expresión difamatoria o injuriosa, los jueces, según la gravedad del caso, le aplicarán alguna de las correcciones disciplinarias que permita la ley.
+(DEROGADO, P.O. 4 DE JULIO DE 2009)
 
 ###### ARTICULO 162.
 
-El caso previsto por la fracción III del artículo anterior no comprende el hecho de que la imputación sea calumniosa o se extienda a personas extrañas al litigio o envuelva hechos que no se relacionen con el negocio de que se trata.
+(DEROGADO, P.O. 4 DE JULIO DE 2009)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE JULIO DE 2009)</small>
 
 ### CAPITULO II. INCESTO
 
 ###### ARTICULO 163.
 
-Comete el delito de calumnia quien imputa a otro falsamente un ilícito, ya sea porque el hecho es falso o inocente la persona a quien se le atribuya.
-
-Este delito se sancionará con una pena de seis meses a dos años de prisión y sanción pecuniaria de diez a cuarenta días de salario mínimo, además de la reparación del daño.
-
-Cuando con motivo de la acusación calumniosa el calumniado sea condenado por sentencia irrevocable, se impondrá al calumniador la misma sanción que a aquél.
+(DEROGADO, P.O. 4 DE JULIO DE 2009)
 
 ###### ARTICULO 164.
 
-No se admitirá prueba de la imputación al inculpado de la calumnia cuando exista sentencia ejecutoriada que haya absuelto al calumniado del mismo delito que aquél le impute.
+(DEROGADO, P.O. 4 DE JULIO DE 2009)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE JULIO DE 2009)</small>
 
 ### CAPITULO III. MATRIMONIOS ILEGALES
 
 ###### ARTICULO 165.
 
-Los delitos de difamación o calumnia se perseguirán por querella necesaria, excepto en los casos siguientes:
-
-I. Si el ofendido ha muerto y la difamación o la calumnia son posteriores a su fallecimiento, sólo se podrá proceder en virtud de querella del cónyuge, de los ascendientes, de los descendientes, de los hermanos o el albacea, y
-
-II. Cuando la difamación o la calumnia sean anteriores al fallecimiento del ofendido, no se atenderá la querella de las personas mencionadas, si el ofendido perdonó la ofensa o cuando, a sabiendas de que se le había inferido, no hubiere presentado en vida su querella pudiendo hacerlo, ni prevenido que la hagan sus herederos.
+(DEROGADO, P.O. 4 DE JULIO DE 2009)
 
 ###### ARTICULO 166.
 
-Quien difunda, de cualquier manera, un hecho difamatorio o calumnioso, no siendo su autor, será responsable del delito de difamación o de calumnia y se le impondrá la pena prevista para el delito que resulte.
+(DEROGADO, P.O. 4 DE JULIO DE 2009)
 
 ## TITULO QUINTO. DELIT0S CONTRA LA FAMILIA
 
@@ -3442,3 +3426,9 @@ P.O. 21 DE MAYO DE 2009.
 PRIMERO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE JULIO DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
