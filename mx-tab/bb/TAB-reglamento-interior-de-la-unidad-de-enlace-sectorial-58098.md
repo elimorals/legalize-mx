@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-unidad-de-enlace-sectorial-58098"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-31"
-last_updated: "2007-10-31"
+last_updated: "2009-07-04"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA UNIDAD DE ENLACE SECTORIAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL ACUERDO PUBLICADO EN EL P.O. DE 4 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: SIN EFECTOS.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 31 de octubre de 2007.
 
@@ -280,3 +282,17 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO
 M.V.Z. ADOLFO DÍAZ ORUETA
 
 TITULAR DE LA UNIDAD DE ENLACE SECTORIAL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE JULIO DE 2009.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Quedan sin efecto las disposiciones reglamentarias de la unidad administrativa que desaparece.
+
+TERCERO. La extinción de la Unidad de Enlace Sectorial, será sin perjuicio de los derechos laborales de los trabajadores.
+
+CUARTO. Las Secretarías de Gobierno, Administración y Finanzas, Contraloría, Planeación y la Consejería Jurídica, establecerán la coordinación necesaria resolver los asuntos relacionados con los recursos humanos, financieros, presupuestales y materiales, asignados a la Unidad de Enlace Sectorial; así como para que las funciones que realizaba la unidad administrativa sean debidamente atendidas por las dependencias competentes.
+
+QUINTO. Los procesos y procedimientos en trámite ante la Unidad de Enlace Sectorial, serán desahogados hasta su total conclusión por la Secretaría Particular de la Gubernatura.
