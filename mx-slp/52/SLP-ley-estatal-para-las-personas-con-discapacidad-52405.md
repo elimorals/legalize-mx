@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-para-las-personas-con-discapacidad-52405"
 country: "mx"
 rank: "ley"
 publication_date: "2006-03-16"
-last_updated: "2009-05-12"
+last_updated: "2009-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ESTATAL PARA LAS PERSONAS CON DISCAPACIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el jueves 16 de marzo de 2006.
 
@@ -47,9 +47,11 @@ LEY ESTATAL PARA LAS PERSONAS CON DISCAPACIDAD
 
 La presente Ley es de orden público e interés social; y de observancia general, Es reglamentaria del artículo 12 de la Constitución Política del Estado, en lo relativo a las personas con discapacidad, que conforme a tal precepto, son objeto de especial protección por parte de las autoridades.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 2°.
 
-Esta ley tiene por objeto establecer las bases que permitan la plena inclusión de las personas con discapacidad, en un marco de igualdad y de equiparación de oportunidades, en todos los ámbitos de la vida.
+Esta Ley tiene por objeto establecer las bases que permitan la plena inclusión de las personas con discapacidad, en un marco de igualdad, de equiparación de oportunidades y de atención preferente, en todos los ámbitos de la vida.
 
 De manera enunciativa, más no limitativa, esta Ley reconoce a las personas con discapacidad sus derechos humanos, y mandata el establecimiento de políticas públicas necesarias para su ejercicio.
 
@@ -69,9 +71,17 @@ V. La dignidad;
 
 VI. La plena inclusión;
 
-VII. El respeto, y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
 
-VIII. La accesibilidad.
+VII. El respeto;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+VIII. La accesibilidad, y
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2009)</small>
+
+IX. La atención preferente.
 
 ###### ARTICULO 4°.
 
@@ -207,21 +217,27 @@ XXXV. Sistema estatal de registro e identificación de personas con discapacidad
 
 XXXVI. Trabajo protegido: aquél que realizan las personas con discapacidad, que tienen un grado tal de limitación en sus capacidades, que les impide cubrir los requerimientos mínimos de inserción laboral, por lo que requiere de la tutela de la familia, sector público y privado para su desempeño;
 
-XXXVII. Vía pública: son las avenidas, calzadas, plazas, calles, parques, andadores, caminos, bulevares, callejones de acceso y sus banquetas, así como los caminos vecinales, carreteras, brechas, desviaciones, veredas, senderos, sus acotamientos, los puentes que unan a las vías públicas y a las zonas de protección de ambos, destinados al tránsito de vehículos, peatones y semovientes, y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+XXXVI (SIC). Vía pública: son las avenidas, calzadas, plazas, calles, parques, andadores, caminos, bulevares, callejones de acceso y sus banquetas, así como los caminos vecinales, carreteras; brechas, desviaciones, veredas, senderos, sus acotamientos, los puentes que unan a las vías públicas y a las zonas de protección de ambos, destinados al tránsito de vehículos, peatones y semovientes;
 
-XXXVIII. Vivienda adaptable: aquélla que se proyecta y edifica con base en un diseño que no implica grandes obras de construcción, a fin de crear condiciones favorables de funcionalidad para satisfacer las necesidades de accesibilidad de sus ocupantes.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
 
-La vivienda adaptable se genera desde el origen del proyecto arquitectónico, mismo que requiere ubicarse en planta baja y contener al mismo nivel todos los accesos de entrada y salida, criterios de diseño y construcción que permitirán evitar costos adicionales de obra.
+XXXVII. Vivienda adaptable: aquélla que se proyecta y edifica con base en un diseño que no implica grandes obras de construcción, a fin de crear las condicione, favorables de funcionalidad, para satisfacer las necesidades de accesibilidad de sus ocupantes.
 
-En los casos de vivienda usada, la adaptabilidad de la vivienda podrá llevarse a cabo con la aplicación de los Lineamientos Generales de Accesibilidad, mismos que no implican considerables obras de modificación.
+La vivienda adaptable se generará desde el origen del proyecto arquitectónico y requiere ubicarse en la planta baja, contar con un baño y un espacio adaptable como recámara, así como tener al mismo nivel los accesos de entrada y al patio de servicio, criterios de diseño y construcción que permitirán evitar costos adicionales de obra.
+
+En los casos de vivienda usada, la adaptación de la vivienda podrá llevarse a cabo con la aplicación de los criterios de diseño, mismos que no implican considerables obras de modificación, y
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2009)</small>
+
+XXXVIII. Atención preferente: es la obligación de las instituciones estatales y municipales de gobierno, así como a los sectores social y privado, a implementar los programas acordes a las diferentes etapas, características y circunstancias de las personas con discapacidad.
 
 ###### ARTICULO 6°.
 
 Son derechos que esta Ley reconoce y protege a favor de las personas con discapacidad, los siguientes:
 
-I. Ala educación;
+I. A la educación;
 
 II. A la salud;
 
@@ -233,9 +249,17 @@ V. Al disfrute de un medio ambiente sano;
 
 VI. Al trabajo;
 
-VII. A la seguridad social, y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
 
-VIII. A los relativos a la no discriminación, en los términos de la Constitución Política de los Estados Unidos Mexicanos.
+VII. A la seguridad social;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+VIII. A los relativos a la no discriminación, en los términos de la Constitución Política de los Estados Unidos Mexicanos, y
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2009)</small>
+
+IX. A la atención preferente.
 
 ###### ARTICULO 7°.
 
@@ -337,9 +361,15 @@ XXVI. Promover, en coordinación con la Secretaría de Desarrollo Social y Regio
 
 XXVII. Crear un mecanismo de información abierta y permanente, dirigido a la población en general, sobre cualquier tema relacionado con la discapacidad que genere o reciba;
 
-XXVIII. Crear un centro de información especializado en materia de discapacidad, abierto a la población en general, y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
 
-XXIX. Las demás que le señale esta Ley y otras disposiciones legales.
+XXVIII. Crear un centro de información especializado en materia de discapacidad, abierto a la población en general;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2009)</small>
+
+XXIX. Capacitar, vigilar y evaluar a las instituciones estatales y municipales, así como a los sectores sociales y privados, sobre el cumplimiento de la atención preferente, y
+
+XXX. Las demás que le señale esta Ley y otras disposiciones legales.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
 
@@ -427,7 +457,9 @@ c) Impulsar actividades culturales y recreativas en el lenguaje de señas mexica
 
 VII. ACCESIBILIDAD:
 
-a) Crear, diseñar, difundir, aplicar programas y lineamientos de accesibilidad y desplazamiento en los espacios públicos.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
+
+a) Crear, diseñar, difundir, aplicar programas y lineamientos de accesibilidad, desplazamiento y atención preferente en los espacios públicos y privados de uso público.
 
 b) Impulsar la aplicación de los programas y lineamientos de accesibilidad y desplazamiento en los espacios públicos a nivel estatal y municipal.
 
@@ -963,7 +995,9 @@ III. Tener acceso y facilidades de desplazamiento en los espacios laborales, com
 
 IV. Tener acceso al servicio público y privado de transporte para su libre desplazamiento, y
 
-V. Gozar de trato preferente y contar con la ayuda necesaria, por parte de quienes prestan atención al público en instituciones públicas y privadas.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+V. Gozar de atención preferente y contar con la ayuda necesaria, por parte de quienes prestan atención al público, en instituciones públicas y privadas.
 
 ###### ARTICULO 64.
 
@@ -1071,11 +1105,27 @@ IV. Realizar junto con la Dirección de Integración Social, la creación de pro
 
 V. Proponer las adecuaciones para que dentro de la Ley sobre el Régimen de la Propiedad en Condominio del Estado y su respectivo reglamento, de igual forma en el reglamento de Juntas de Mejoras, se contemplen los lineamientos y criterios de diseño y construcción para vivienda adaptable y accesible, así como a los espacios privados de uso público, siguiendo los lineamientos generales de accesibilidad.
 
-### CAPITULO I. Estímulos
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE JULIO DE 2009)</small>
+
+### CAPITULO IV. De la Atención Preferente
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2009)</small>
+
+ARTICULO 79 BIS. Las instituciones públicas y privadas que proporcionen servicios públicos, designarán lugares especiales para atender a las personas con discapacidad, quienes tendrán prioridad en su atención.
+
+Para tal efecto, se deberán colocar en un lugar visible, rótulos con la señal ética de la materia, que indiquen los lugares designados.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2009)</small>
+
+ARTICULO 79 TER. Las instituciones públicas o privadas que brinden atención al público, deben adecuar su infraestructura arquitectónica, con la finalidad de brindar atención preferente a las personas beneficiarias de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2009)</small>
+
+ARTICULO 79 QUATER. Las instituciones públicas y privadas que proporcionen servicios y brinden atención al público, beben exhibir en un lugar visible, lo relacionado con los derechos que otorga la presente Ley.
 
 ## TITULO QUINTO. DISPOSICIONES FINALES
 
-### CAPITULO II. Sanciones
+### CAPITULO I. Estímulos
 
 ###### ARTICULO 80.
 
@@ -1105,7 +1155,7 @@ V. Cinco representantes de la sociedad civil organizada, en materia de discapaci
 
 El comité de elección establecerá las bases de la convocatoria y selección para el otorgamiento de los reconocimientos.
 
-### CAPITULO III. Medios de Defensa
+### CAPITULO II. Sanciones
 
 ###### ARTICULO 82.
 
@@ -1125,6 +1175,8 @@ II. Trabajo comunitario en favor de las personas con discapacidad, en institucio
 
 III. Multa equivalente de entre veinte a trescientos días de salario mínimo vigente en la Entidad.
 
+### CAPITULO III. Medios de Defensa
+
 ###### ARTICULO 85.
 
 En contra de las resoluciones que dicten las autoridades previstas en esta Ley, en su respectivo ámbito de competencia, procederá el recurso que establece la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí.
@@ -1139,7 +1191,7 @@ TERCERO. El Ejecutivo del Estado y los ayuntamientos de la Entidad, en el ámbit
 
 CUARTO. En congruencia con lo establecido por esta Ley, para facilitar la movilidad de personas con discapacidad, en un plazo que no excederá de dos años contados a partir de la vigencia de la misma, se adoptarán paulatinamente las medidas de adecuación necesarias en los medios de transporte público colectivos, así como en los establecimientos e instituciones públicas y privadas, conforme a los lineamientos generales de accesibilidad. El Ejecutivo del Estado, a través de la dependencia competente, evaluará semestralmente los avances respectivos.
 
-QUINTO. Se faculta al titular del Poder Ejecutivo Estatal, y a las autoridades competentes de esta Ley, para que en un plazo no mayor a sesenta días contados a partir de la iniciación de la vigencia de la misma, realicen la difusión y aplicación de los Lineamientos Generales de Accesibilidad, publicados en el Diario Oficial de la Federación, el12 de enero de 2004, por parte de la Secretaría de la Función Pública, en razón de las referencias establecidas en el presente Ordenamiento legal.
+QUINTO. Se faculta al titular del Poder Ejecutivo Estatal, y a las autoridades competentes de esta Ley, para que en un plazo no mayor a sesenta días contados a partir de la iniciación de la vigencia de la misma, realicen la difusión y aplicación de los Lineamientos Generales de Accesibilidad, publicados en el Diario Oficial de la Federación, el 12 de enero de 2004, por parte de la Secretaría de la Función Pública, en razón de las referencias establecidas en el presente Ordenamiento legal.
 
 Lo tendrá entendido el Ejecutivo del Estado y lo hará publicar, circular y obedecer.
 
@@ -1170,3 +1222,11 @@ P.O. 12 DE MAYO DE 2009.
 PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. La Red de Vinculación para la Integración Laboral de Personas con Discapacidad, deberá quedar instalada dentro de los noventa días siguientes a la fecha en que entre en vigor este Decreto.
+
+P.O. 4 DE JULIO DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las instituciones públicas y privadas que proporcionen servicios públicos y brinden atención al público, tendrán un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto, para que adecuen su infraestructura, con la finalidad de brindar atención preferente a las personas beneficiarias por éste.
+
+TERCERO. Se deroga cualquier disposición que se oponga a este Decreto.
