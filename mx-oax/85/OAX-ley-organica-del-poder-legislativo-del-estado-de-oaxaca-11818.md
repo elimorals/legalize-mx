@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-de-oaxaca-11818"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-04"
-last_updated: "2004-04-03"
+last_updated: "2009-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -339,7 +339,9 @@ III.- Proponer a la Legislatura la sustitución de los miembros integrantes de l
 
 IV.- Dictaminar, formular opiniones y presentar iniciativas sobre los asuntos concernientes a las regiones del Estado, tomando en consideración las propuestas de los Presidentes Municipales;
 
-V.- Proponer al Congreso la designación del Oficial Mayor, Contador Mayor de Hacienda y del Tesorero; la elección respectiva se hará en votación económica por los miembros de la Legislatura;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+V.- Proponer al Congreso la designación del Oficial Mayor y del Tesorero; la elección respectiva se hará en votación económica por los miembros de la Legislatura;
 
 VI.- Proponer el proyecto del presupuesto anual del Congreso, en términos de la Ley de Presupuesto, Gasto Público y su Contabilidad;
 
@@ -393,7 +395,9 @@ Las Comisiones Permanentes serán:
 
 I.- Estudios Constitucionales;
 
-II.- De Vigilancia de la Contaduría Mayor de Hacienda;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+II.- De Vigilancia de la Auditoría Superior del Estado;
 
 III.- Gobernación;
 
@@ -407,7 +411,9 @@ VII.- De Educación Pública;
 
 VIII.- De Fomento Industrial Comercial y Artesanal;
 
-IX.- De Presupuesto, Programación y Cuenta Pública;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+IX.- De Presupuesto y Programación;
 
 X.- De Turismo;
 
@@ -539,11 +545,15 @@ III.- No desempeñar cargo alguno de elección popular.
 
 El Reglamento Interior del Congreso determinará las atribuciones y obligaciones del Oficial Mayor, quien coordinará sus actividades en lo conducente con el Presidente de la Gran Comisión del Congreso.
 
-### CAPITULO II. DE LA CONTADURIA MAYOR DE HACIENDA
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE JULIO DE 2009)</small>
+
+### CAPITULO II. DE LA AUDITORIA SUPERIOR DEL ESTADO
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 61.
 
-La Contaduría Mayor de Hacienda es el órgano de fiscalización y control gubernamental del Congreso del Estado, se integra y ejerce sus atribuciones en los términos de esta Ley, la Ley Orgánica de la Contaduría Mayor de Hacienda y su Reglamento Interior.
+La Auditoria Superior del Estado es el órgano técnico del Congreso que tiene a su cargo la revisión y fiscalización de la Cuenta Pública de los Poderes del Estado y Municipios, entes públicos estatales y municipales, organismos públicos autónomos que ejerzan recursos públicos y en general, cualquier entidad, persona física o moral, pública o privada que haya recaudado, administrado, manejado o ejercicio recursos públicos estatales o municipales. Se integra y ejerce sus atribuciones en los términos de la Constitución Política del Estado, esta Ley, la Ley de Fiscalización Superior del Estado de Oaxaca y el Reglamento Interior de la Auditoría Superior del Estado de Oaxaca.
 
 ### CAPITULO III. DEL TESORERO
 
@@ -657,35 +667,35 @@ Las discusiones y votaciones de la Diputación Permanente, se regirán por lo qu
 
 La Legislatura se erigirá en Colegio Electoral cuando se trate:
 
-I.- De computar los votos emitidos en la elección de Gobernador y calificar las mismas y hacer la declaratoria que corresponda;
+I.- (DEROGADA, P.O. 4 DE JULIO DE 2009)
 
 II.- De nombrar Gobernador sustituto o interino en los casos que determina la Constitución Local;
 
-III.- De ratificar los Nombramientos de los Magistrados del Tribunal Superior de Justicia, del Secretario General del Gobierno y Sub-Secretarios que el Ejecutivo hiciere; de nombrar al Contador Mayor de Hacienda, el Oficial Mayor y el Tesorero del Congreso; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
 
-IV.- De calificar las elecciones de Concejales Municipales de los Ayuntamientos del Estado.
+III.- De ratificar los nombramientos de los Magistrados del Tribunal Superior de Justicia, del Secretario General del Gobierno y Subsecretarios que el Ejecutivo hiciera; de nombrar al Oficial Mayor al Tesorero del Congreso; y
+
+IV.- (DEROGADA, P.O. 4 DE JULIO DE 2009)
 
 ###### ARTICULO 78.
 
-En los casos de las fracciones I y IV del artículo anterior, luego que los expedientes de elecciones se encuentren en poder de la Secretaría, se dará cuenta a la Legislatura, la que nombrará de entre su seno una Comisión compuesta por 5 miembros. A esta pasarán dichos expedientes y presentará dictamen dentro del término de cinco días.
+(DEROGADO, P.O. 4 DE JULIO DE 2009)
 
 ###### ARTICULO 79.
 
-El Presidente de la Legislatura declarará cuando deba constituirse en Colegio Electoral.
+(DEROGADO, P.O. 4 DE JULIO DE 2009)
 
 ###### ARTICULO 80.
 
-Previa la declaración del Presidente de quedar erigido el Congreso en Colegio Electoral, se dará lectura al dictamen de la Comisión, que acompañado con el correspondiente cómputo, se pondrá desde luego a discusión en lo general y particular, teniéndose presente lo dispuesto para la discusión y votación, lo previsto en esta Ley y el Reglamento.
+(DEROGADO, P.O. 4 DE JULIO DE 2009)
 
 ###### ARTICULO 81.
 
-Tratándose de la calificación de las elecciones a concejales municipales se seguirá el procedimiento previsto en el Reglamento Interior del Congreso.
+(DEROGADO, P.O. 4 DE JULIO DE 2009)
 
 ###### ARTICULO 82.
 
-Los Decretos del Congreso erigido en Colegio Electoral se publicarán bajo la siguiente fórmula: La (aquí el número de orden de la Legislatura) Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, erigida en Colegio Electoral decreta: (aquí el texto de la resolución).
-
-Para el caso de la calificación de elección de Gobernador Constitucional del Estado, se seguirá la siguiente fórmula: La (aquí el número de orden de la Legislatura) Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, erigida en Colegio Electoral declara: (aquí el texto de la resolución).
+(DEROGADO, P.O. 4 DE JULIO DE 2009)
 
 ## TITULO DECIMO PRIMERO. DEL RECINTO PARLAMENTARIO
 
@@ -762,3 +772,7 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 3 DE ABRIL DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE JULIO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día de su aprobación Publíquese en el Periódico Oficial del Gobierno del Estado.
