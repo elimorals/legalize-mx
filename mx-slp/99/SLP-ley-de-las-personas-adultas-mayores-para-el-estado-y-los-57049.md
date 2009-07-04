@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-las-personas-adultas-mayores-para-el-estado-y-los-57049"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-07"
-last_updated: "2007-08-07"
+last_updated: "2009-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2009.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 7 de agosto de 2007.
 
@@ -49,7 +49,9 @@ LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS 
 
 La presente Ley de orden público e interés social y observancia general en el Estado; establece las acciones de concurrencia que corresponden al Estado y Municipios, conforme a la Ley de los Derechos de las Personas Adultas Mayores.
 
-Tiene por objeto establecer las políticas públicas para la atención gerontológica y geriátrica de las personas adultas mayores; así como las normas para su integración y corresponsabilidad social.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
+
+Tiene por objeto establecer las políticas públicas para la atención gerontológica y geriátrica de las personas adultas mayores; así como las normas para su integración, corresponsabilidad social y atención preferente.
 
 ###### ARTICULO 2°.
 
@@ -193,9 +195,17 @@ f) Violencia psicológica: cualquier acto u omisión que dañe la estabilidad ps
 
 g) Violencia sexual: cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que, por tanto, atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso del poder.
 
-XXV. Unidad gerontogeriátrica: unidad médica establecida en el hospital de segundo nivel para la atención de las patologías, que instrumenta programas gerontogeriátricos para las personas adultas mayores, y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
 
-XXVI. Unidad tanatológica: unidad o área médica enfocada a la atención de pacientes terminales, así como a su núcleo cercano.
+XXV. Unidad geronto-geriátrica: unidad médica establecida en el hospital de segundo nivel para la atención de las patologías, que instrumenta programas geronto-geriátricos para las personas adultas mayores;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+XXVI. Unidad tanatológica: unidad o área médica enfocada a la atención de pacientes terminales, así como a su núcleo cercano, y
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2009)</small>
+
+XXVII. Atención preferente: es aquélla que obliga a las instituciones públicas, así como sectores sociales y privados, a implementar programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores.
 
 ###### ARTICULO 6°.
 
@@ -225,9 +235,15 @@ XI. A la obtención de descuentos en contribuciones, servicios, derechos e impue
 
 XII. A ser protegidos por los programas de asistencia social para tener acceso a una casa hogar, albergue, estancia permanente u otras alternativas de atención integral, siempre que se trate de personas sujetas de asistencia social, en los términos contemplados en la ley de la materia;
 
-XIII. Al libre desplazamiento en espacios de uso público y en espacios privados de uso público, y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
 
-XIV. Los demás que establezca la ley.
+XIII. Al libre desplazamiento en espacios de uso público, y en espacios privado de uso público;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2009)</small>
+
+XIV. A la atención preferente en espacios de uso público, y en espacios privados de uso público, y
+
+XV. Los demás que establezca la ley.
 
 ###### ARTICULO 7°.
 
@@ -769,11 +785,27 @@ El Ejecutivo del Estado establecerá acuerdos con las dependencias, institucione
 
 El Ejecutivo del Estado, a través de la Secretaría de Finanzas, otorgará incentivos fiscales a aquéllas personas físicas o morales que contraten personas adultas mayores.
 
-### CAPITULO UNICO
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE JULIO DE 2009)</small>
+
+### CAPITULO XIII. De la Atención Preferente
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2009)</small>
+
+ARTICULO 44 BIS. Las instituciones públicas y privadas que proporcionen servicios públicos, designarán lugares especiales para atender a los adultos mayores, quienes tendrán prioridad en su atención.
+
+Para tal efecto, se deberán colocar en un lugar visible, rótulos con la señalética de la materia que indiquen los lugares designados.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2009)</small>
+
+ARTICULO 44 TER. Las instituciones públicas o privadas que brinden atención al público, deben adecuar su infraestructura arquitectónica, con la finalidad de brindar atención preferente a las personas beneficiarias de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2009)</small>
+
+ARTICULO 44 QUATER. Las instituciones públicas y privadas que proporcionen servicios o brinden atención al público, deben exhibir en un lugar visible, lo relacionado con los derechos que otorga la presente Ley.
 
 ## TITULO CUARTO. SOCIEDAD Y FAMILIA
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO UNICO
 
 ###### ARTICULO 45.
 
@@ -803,7 +835,7 @@ En la aplicación de una medida cautelar recaída a una persona adulta mayor, el
 
 ## TITULO QUINTO. PROCURADURIA DE LA DEFENSA DE LAS PERSONAS ADULTAS MAYORES
 
-### CAPITULO II. Estructura Orgánica y Funcional
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 48.
 
@@ -839,7 +871,7 @@ X. Emplear, para hacer cumplir sus determinaciones, cualesquiera de los medios d
 
 XI. Las demás que le determine el Reglamento de esta Ley.
 
-### CAPITULO UNICO. Violencia Hacia las Personas Adultas Mayores
+### CAPITULO II. Estructura Orgánica y Funcional
 
 ###### ARTICULO 51.
 
@@ -893,6 +925,10 @@ A la falta de un ordenamiento jurídico aplicable en la presente Ley, se aplicar
 
 ## TITULO SEXTO. DISPOSICIONES FINALES
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE JULIO DE 2009)</small>
+
+### CAPITULO UNICO. Violencia hacia las Personas Adultas Mayores; Sanciones y Medios de Defensa
+
 ###### ARTICULO 57.
 
 La violencia hacia las personas adultas mayores que se ejerza con fuerza física o psicológica, así como la omisión grave en contra de su integridad física o psíquica, independientemente de que pueda producir lesiones, se sancionará en los términos de la legislación aplicable en la materia.
@@ -900,6 +936,30 @@ La violencia hacia las personas adultas mayores que se ejerza con fuerza física
 Los directores y personal médico de las instituciones de salud pública o privada, ante cualquier indicio de violencia o abuso cometido hacia los adultos mayores, estarán obligados a denunciarlo ante las autoridades competentes.
 
 Igual obligación tendrán las autoridades y personal que labore en estancias de día o permanentes.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2009)</small>
+
+###### ARTICULO 58.
+
+El incumplimiento de los preceptos establecidos por esta Ley, será sancionado conforme lo prevé la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, así como demás ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2009)</small>
+
+###### ARTICULO 59.
+
+El incumplimiento a las disposiciones contenidas en esta Ley, será motivo para la aplicación de las siguientes sanciones:
+
+I. Amonestación;
+
+II. Trabajo comunitario en favor de las personas adultas mayores, en instituciones públicas o privadas dedicadas a su atención, y
+
+III. Multa equivalente de entre veinte a trescientos días de salario mínimo vigente en la Entidad.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2009)</small>
+
+###### ARTICULO 60.
+
+En contra de las resoluciones que dicten las autoridades previstas en esta Ley, en su respectivo ámbito de competencia, procederá el recurso que establece la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí.
 
 ## TRANSITORIOS
 
@@ -946,3 +1006,13 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE JULIO DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las instituciones públicas y privadas que proporcionen servicios públicos y brinden atención al público, tendrán un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto, para que adecuen su infraestructura, con la finalidad de brindar atención preferente a las personas beneficiarias por éste.
+
+TERCERO. Se deroga cualquier disposición que se oponga a este Decreto.
