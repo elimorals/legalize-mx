@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2008-12-10"
+last_updated: "2009-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2009.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -263,9 +263,17 @@ Los diputados contarán con las dietas, prestaciones, franquicias y viáticos qu
 
 Las dietas y prestaciones se fijarán en el presupuesto; serán personales y sólo podrán ser objeto de descuento previa autorización expresa del diputado o por mandato judicial en los términos de la ley respectiva. Los viáticos y demás asignaciones se otorgarán conforme a los criterios que autorice la Junta de Coordinación Parlamentaria, en los términos de la presente Ley.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
+
 ###### Art. 20.
 
-El desempeño del cargo de diputado es incompatible con cualquier otro empleo o comisión remunerado de la Federación, del Estado o de los Municipios, por los cuales se perciba remuneración sin licencia previa del Congreso o de la Diputación Permanente. Se exceptúa de lo anterior a quienes ejerzan cuando menos desde dos años antes al día de la elección, actividades docentes en Instituciones Oficiales de Educación Superior.
+El desempeño del cargo de Diputado es incompatible con cualquier otro empleo o Comisión remunerado de la Federación, del Estado o de los municipios, por los cuales se perciba remuneración sin licencia previa del Congreso o de la Diputación Permanente. Se exceptúa de lo anterior a quienes ejerzan cuando menos desde dos años antes al día de la elección, actividades docentes en instituciones oficiales de cualquier nivel.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2009)</small>
+
+###### Art. 20 Bis.
+
+Todas las incompatibilidades de que se tenga conocimiento serán estudiadas, dictaminadas y resueltas por el Congreso del Estado o la Diputación Permanente, en su caso.
 
 ### CAPITULO II. DE LOS DERECHOS Y DEBERES DE LOS DIPUTADOS
 
@@ -2238,3 +2246,7 @@ El presente Decreto entrará en vigor inmediatamente después de su aprobación,
 ###### ARTÍCULO SEGUNDO.
 
 La Junta de Coordinación Parlamentaria, con fundamento en lo dispuesto por el artículo 42, fracciones II y III de la Ley Orgánica del Poder Legislativo, deberá proponer al Pleno el proyecto de Decreto por el que se reconformen las Comisiones de Dictamen Legislativo y, en su caso, a la Comisión de Fiscalización y Comités. Así mismo, deberá proponer al Presidente del H. Congreso del Estado el proyecto de returno de los asuntos asignados a las comisiones desaparecidas, en aquellas en que hayan quedado subsumidas, o bien, en donde por su naturaleza correspondan ser asignados.
+
+P.O. 4 DE JULIO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
