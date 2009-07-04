@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-fiscalizacion-superior-del-estado-de-tabasco-31557"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-17"
-last_updated: "2003-05-17"
+last_updated: "2009-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 17 de mayo de 2003; republicada el sábado 24 de mayo de 2003.
 
@@ -53,53 +53,133 @@ Para efectos de la presente Ley, indistintamente, se entenderá por:
 
 I. Ayuntamiento: Los Órganos de Gobierno de los Municipios;
 
-II. Congreso: El Honorable Congreso del Estado;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
 
-III. Comisión (es) Inspectora (s): Comisión Permanente Interna del Congreso, con atribuciones propias e inherentes a la dictaminación de las Cuentas Públicas de los sujetos fiscalizables, del ámbito de su competencia;
+II. Auditoría del desempeño: Es la revisión que tiene por objeto determinar que las acciones, en el ejercicio de los recursos públicos de los sujetos de fiscalización, hayan alcanzado los objetivos propuestos, con apego a la normatividad, con eficiencia, eficacia y economía;
 
-IV. Cuenta Pública: El informe anual que, sin perjuicio de las evaluaciones trimestrales, del avance de la gestión financiera; o tratándose de los Municipios, los informes mensuales; rinden respectivamente al Congreso, por conducto del Órgano Técnico de Fiscalización, los Poderes del Estado, los Ayuntamientos, sus organismos o entidades paraestatales, así como los órganos autónomos creados constitucionalmente, y en su caso, los demás entes fiscalizables; sobre su gestión financiera y presupuestal, con el objeto de comprobar que la recaudación, administración, manejo, custodia y aplicación de los ingresos y egresos durante el ejercicio fiscal correspondiente, se ejercieron en los términos de las disposiciones legales y administrativas y con base en los programas y criterios aprobados;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
 
-V. Evaluación: Las tareas o actividades que en proceso de fiscalización, se realizan por el Órgano, del gasto ejercido; por períodos trimestrales, del ejercicio fiscal de que se trate; que con carácter provisional, se iniciaren a partir del mes subsecuente al que procediere la evaluación, y que rinden los entes fiscalizables respecto a sus informes de autoevaluación, en el término a que se refiere esta Ley;
+III. Auditoría financiera: Tiene por objeto determinar si los estados financieros del ente auditado presentan razonablemente su situación financiera, el resultado de sus operaciones y sus flujos de efectivo, de acuerdo con los Principios de Contabilidad Gubernamental, y en su caso, los generalmente aceptados. Es de aplicación particular a programas, actividades o segmentos;
 
-VI. Entes fiscalizables: Los Poderes del Estado, los Ayuntamientos, los Organismos u Órganos del Estado y de los Municipios, así como los Órganos Autónomos creados constitucionalmente, y en general, cualquier entidad, persona física o jurídica colectiva, pública ó privada, que en términos de las disposiciones legales haya recaudado, administrado, manejado o ejercido recursos públicos.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+IV. Auditoría técnica: Es un examen objetivo y sistemático de evidencia, cuyo objeto es expresar una opinión independiente sobre el desempeño de una entidad, programa o proyecto de inversión en obras públicas, con el propósito de suministrar información útil para la rendición de cuentas por la función pública;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+V. Auditoría operacional: Comprende el examen de la economía, eficiencia y eficacia obtenida en la asignación y utilización de los recursos financieros, humanos y materiales, mediante el análisis de la estructura organizacional, los sistemas de operación y los sistemas de información;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+VI. Auditoría de normatividad: Tiene como finalidad revisar si la dependencia o entidad, en el desarrollo de sus responsabilidades, funciones y actividades, ha observado el cumplimiento de las disposiciones aplicables, tales como leyes, reglamentos, decretos, acuerdos, circulares, etc.;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+VII. Auditoría de resultados de programas: Analiza la eficacia y congruencia alcanzada en el logro de los objetivos y metas establecidos, en relación con el avance del ejercicio presupuestal. El análisis de la eficacia se obtiene revisando que efectivamente se alcanzaron las metas establecidas en el tiempo, lugar, cantidad y calidad requeridos. La congruencia se determina al examinar la relación lógica que existe entre el logro de las metas y objetivos de los programas y el avance del ejercicio presupuestal;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+VIII. Congreso: El Honorable Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+IX. Comisión (es) Inspectora (s): Comisión Permanente Interna del Congreso, con atribuciones propias e inherentes a la dictaminación de las Cuentas Públicas de los sujetos fiscalizables, del ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+X. Cuenta Pública: El informe anual que, sin perjuicio de las evaluaciones trimestrales, o tratándose de los Municipios, los informes mensuales; rinden respectivamente al Congreso, por conducto del Órgano Superior de Fiscalización del Estado de Tabasco, los Poderes del Estado, los Ayuntamientos, sus organismos, así como los órganos autónomos creados constitucionalmente; y en su caso, los demás entes fiscalizables; sobre su gestión financiera y presupuestal, con el objeto de comprobar que la recaudación, administración, manejo, custodia y aplicación de los ingresos y egresos durante el ejercicio fiscal correspondiente, se ejercieron en los términos de las disposiciones legales y administrativas y con base en los programas y criterios aprobados;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+XI. Evaluación: Las tareas o actividades que en proceso de fiscalización, se realizan por el Órgano, del gasto ejercido; por períodos trimestrales, del ejercicio fiscal de que se trate; que con carácter provisional, se iniciaren a partir del mes subsecuente al que procediere la evaluación, y que rinden los entes fiscalizables respecto a sus informes de autoevaluación, en el término a que se refiere esta Ley;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+XII. Entes fiscalizables: Los Poderes del Estado, los Ayuntamientos, los Organismo u Órganos del Estado y de los Municipios, así como los Órganos Autónomos creados constitucionalmente, y en general, cualquier entidad, persona física o jurídica colectiva, pública ó privada, que en términos de las disposiciones legales haya recaudado, administrado, manejado o ejercido recursos públicos.
 
 Tratándose del Poder Ejecutivo, además de lo previsto en el artículo 4 de esta Ley; se considerarán a los órganos desconcentrados, en los términos de su acto de creación y conforme a lo establecido en el Presupuesto General de Egresos aprobado;
 
-VII. Fiscal Superior: El Titular del Órgano Superior de Fiscalización del Estado;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
 
-VIII. Fiscalización: Conjunto de acciones que se llevan a cabo por conducto del Órgano Técnico de Fiscalización; en los términos de las disposiciones constitucionales, de esta ley y demás ordenamientos aplicables; indistintamente, para el control, inspección, revisión, auditoría y evaluación de la aplicación del gasto público, conforme los ingresos del erario y para los efectos de la calificación de la Cuenta Pública, de los entes fiscalizables sujetos a rendir la misma;
+XIII. Fiscal Superior: El Titular del Órgano Superior de Fiscalización del Estado;
 
-IX. Gestión financiera: La actividad de los Poderes del Estado, Ayuntamientos y demás entes fiscalizables, respecto de la administración, manejo, custodia y aplicación de los ingresos, egresos, fondos y en general de los recursos públicos que éstos utilicen para el cumplimiento de los objetivos contenidos en los programas aprobados, en el período que corresponde a una cuenta pública, sujeta a la revisión posterior del Congreso a través del Órgano, a fin de verificar que dicha gestión se ajusta a las disposiciones legales, reglamentarias y administrativas aplicables;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
 
-X. Glosa: Revisión legal, numérica y contable de las cuentas públicas, respecto del manejo de fondos, valores y bienes que integran respectivamente, la Hacienda Pública Estatal y Municipal;
+XIV. Fiscalización: Conjunto de acciones que se llevan a cabo por conducto del Órgano Técnico de Fiscalización; en los términos de las disposiciones constitucionales, de esta ley y demás ordenamientos aplicables; indistintamente, para el control, inspección, revisión, auditoria y evaluación de la aplicación del gasto público, conforme los ingresos del erario y para los efectos de la calificación de la Cuenta Pública, de los entes fisoalizables (sic) sujetos a rendir la misma;
 
-XI. Informe de avance de Gestión Financiera: El Informe, que como parte integrante de la Cuenta Pública, y sin detrimento de las autoevaluaciones e informes parciales, y su evaluación por el Órgano, rinden los entes públicos fiscalizables al Congreso a través del Órgano, sobre los avances físicos y financieros de los programas aprobados, a fin de que el Órgano, fiscalice en forma posterior a la conclusión de los procesos correspondientes, los ingresos y egresos; el manejo, la custodia y la aplicación de sus fondos y recursos, así como el grado de cumplimiento de los objetivos contenidos en dichos programas;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
 
-XII. Informe de Autoevaluación: Documento emitido por cada uno de los Poderes y los Ayuntamientos, y en su caso, los demás sujetos de la Cuenta Pública; reflejando la administración, custodia y aplicación de los recursos públicos que utilicen en el transcurso del ejercicio fiscal para el cumplimiento de los objetivos contenidos en sus planes y programas, de conformidad con las leyes y demás disposiciones en la materia. El informe se rinde como parte integrante de la Cuenta Pública al Congreso, de manera trimestral conforme a las disposiciones legales aplicables;
+XV. Gestión financiera: La actividad de los Poderes del Estado, Ayuntamientos y demás entes fiscalizables, respecto de la administración, manejo, custodia y aplicación de los ingresos, egresos, fondos y en general de los recursos públicos que éstos utilicen para el cumplimiento de los objetivos contenidos en los programas aprobados, en el período que corresponde a una cuenta pública, sujeta a la revisión posterior del Congreso a través del Órgano, a fin de verificar que dicha gestión se ajusta a las disposiciones legales, reglamentarias y administrativas aplicables;
 
-XIII. Informe de Resultados: Informe técnico-financiero resultante de la fiscalización de las Cuentas Públicas, realizado por el Órgano y con conocimiento del Órgano de Gobierno, remitido a la Comisión Inspectora de Hacienda competente;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
 
-XIV. Órgano: El Órgano Superior de Fiscalización del Estado;
+XVI. Glosa: Revisión legal, numérica y contable de las cuentas públicas, respecto del manejo de fondos, valores y bienes que integran respectivamente, la Hacienda Pública Estatal y Municipal;
 
-XV. Órgano de Gobierno: Al Órgano de Gobierno del Congreso del Estado;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
 
-XVI. Organismos: Los Organismos Públicos Descentralizados u Órganos del Estado y de los Municipios; así como los Órganos Autónomos creados constitucionalmente;
+XVII. Informe de Autoevaluación: Documento emitido por cada uno de los Poderes y los Ayuntamientos, y en su caso, los demás Organismos sujetos de la Cuenta Pública; reflejando la administración, custodia y aplicación de los recursos públicos que utilicen en el transcurso del ejercicio fiscal para el cumplimiento de los objetivos contenidos en sus planes y programas, de conformidad con las leyes y demás disposiciones en la materia. El informe se rinde como parte integrante de la Cuenta Pública al Congreso, de manera trimestral conforme a las disposiciones legales aplicables;
 
-XVII. Poderes del Estado: Los Poderes Legislativo, Ejecutivo y Judicial;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
 
-XVIII. Proceso concluido: Aquél que los entes fiscalizables, y sujetos de la Cuenta Pública, reporten como tal, en el informe de Avance de Gestión Financiera, con base en los informes de gasto devengado conforme a la estructura programática autorizada;
+XVIII. Informe de Resultados: Informe técnico-financiero resultante de la fiscalización de las Cuentas Públicas, realizado por el Órgano y con conocimiento del Órgano de Gobierno, remitido a la Comisión Inspectora de Hacienda competente;
 
-XIX. Secretaría: La Secretaría de Finanzas del Poder Ejecutivo del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
 
-XX. Sujetos de la Cuenta Pública: Aquellos que considerados como entes fiscalizables, estén legalmente obligados a cumplir con los informes previos y el anual, respecto a la gestión financiera y presupuestal, y demás prevenciones de ley; y
+XIX. Órgano. El Órgano Superior de Fiscalización del Estado;
 
-XXI. Unidades de Control Interno o Preventivo: La Secretaría de Contraloría, en el Poder Ejecutivo, y los Órganos Internos de Control y Evaluación de los Poderes Legislativo y Judicial; de los Ayuntamientos y de vigilancia de los Organismos u Órganos autónomos y de los creados constitucionalmente.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+XX. Órgano de Gobierno: Al Órgano de Gobierno del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+XXI. Organismos: Los Organismos Públicos Descentralizados u Órganos del Estado y de los Municipios; así como los Órganos Autónomos creados constitucionalmente;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2009)</small>
+
+XXII. Poderes del Estado: Los Poderes Legislativo, Ejecutivo y Judicial;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2009)</small>
+
+XXIII. Pliego de observaciones: Es el documento que se emite como resultado de la revisión, auditoría y fiscalización, practicada por él Órgano, por el cual se da a conocer a los entes fiscalizables, las irregularidades susceptibles de constituir faltas administrativas y/o presunto daño patrimonial a la hacienda pública, que para efectos de la Cuenta Pública deben ser solventados, a través de la justificación y/o comprobación en los plazos que establece la Ley;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2009)</small>
+
+XXIV. Pliego de cargos: Es el documento que emite el Órgano derivado de la no comprobación y/o justificación del pliego de observaciones, o bien cuando la contestación a éste no se realizó dentro del plazo establecido por el Órgano. Dicho documento, como tal, en su caso, dará origen al inicio un procedimiento administrativo de determinación de responsabilidades;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2009)</small>
+
+XXV. Proceso concluido: Aquél que los entes fiscalizables, y sujetos de la Cuenta Pública, reporten como tal física y financieramente, en los informes de Autoevaluación, con base en los informes de gasto devengado conforme a la estructura programática autorizada;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2009)</small>
+
+XXVI. Programas: Los que se deriven de los Planes de Desarrollo y de los presupuestos aprobados a los que se sujeta la Gestión o actividad de los Poderes del Estado, Municipios y demás entes fiscalizables, así como los programas operativos anuales;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2009)</small>
+
+XXVII. Reglamento Interior: Reglamento Interior del Órgano Superior de Fiscalización del Estado de Tabasco;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2009)</small>
+
+XXVIII. Secretaría: La Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2009)</small>
+
+XXIX. Sujetos de la Cuenta Pública: Aquellos que considerados como entes fiscalizables, estén legalmente obligados a cumplir con los informes mensuales, trimestrales y anual, respecto a la gestión financiera y presupuestal, y demás prevenciones de ley; y
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2009)</small>
+
+XXX. Unidades de Control Interno o Preventivo: La Secretaría de Contraloría, en el Poder Ejecutivo, y los Órganos Internos de Control y Evaluación de los Poderes Legislativo y Judicial; de los Ayuntamientos y de vigilancia de los Organismos u Órganos autónomos y de los creados constitucionalmente.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
 
 ###### Artículo 3.
 
-La revisión, fiscalización y glosa de la Cuenta Pública está a cargo del Congreso del Estado, el cual se apoya para tales efectos en las Comisiones Inspectoras y en el Órgano; mismo que funcionalmente tiene a su cargo la fiscalización superior de la propia Cuenta Pública, en términos de lo establecido en la Constitución del Estado, la presente Ley y en las demás disposiciones aplicables.
+La revisión, fiscalización y glosa de la Cuenta Pública, está a cargo del Congreso del Estado, el cual se apoya para tales efectos, en las Comisiones Inspectoras de Hacienda y en el Órgano, mismo que tiene a su cargo la fiscalización superior, de la propia Cuenta Pública y goza de autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, de conformidad con lo establecido en esta Ley.
 
-Dicho Órgano, conocerá además de las declaraciones de situación patrimonial de los servidores públicos del Congreso del Estado, en los términos que se precisen en la Ley Orgánica del Poder Legislativo, el Reglamento Interior del Congreso y la Ley de Responsabilidades de los Servidores Públicos y demás disposiciones aplicables.
+La función de fiscalización se desarrollará conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad.
+
+El Órgano, llevará el registro y control de las declaraciones de situación patrimonial de servidores públicos del Congreso, en términos de la Ley Orgánica del Poder Legislativo, el Reglamento Interior del Congreso y la Ley de Responsabilidades de los Servidores Públicos y demás disposiciones aplicables.
 
 ###### Artículo 4.
 
@@ -113,9 +193,13 @@ El Órgano Superior de Fiscalización, estará supervisado, coordinado y evaluad
 
 La fiscalización superior que realice el Órgano, se ejerce de manera posterior a la gestión financiera, y en los términos de la evaluación trimestral que se practicare; tiene carácter externo y por lo tanto se lleva a cabo de manera independiente y autónoma de cualquier otra forma de control o fiscalización interna de los Poderes del Estado, de los Ayuntamientos y de los demás entes fiscalizables a que se refiere esta Ley. Dicha fiscalización comprenderá los recursos públicos, según se tratare, que ejerzan los Poderes del Estado, los Municipios y demás entes fiscalizables, sin detrimento del origen, y que formen parte de su registro hacendario.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
+
 ###### Artículo 6.
 
-A falta de disposición expresa en esta Ley, se aplicarán en forma supletoria y en lo conducente, la Ley Estatal de Presupuesto, Contabilidad y Gasto Público; el Código Fiscal del Estado; Ley de Responsabilidades de los Servidores Públicos del Estado; Ley de Deuda Pública del Estado; Ley de Planeación del Estado; Ley de Coordinación Fiscal y Financiera del Estado; Ley de Hacienda del Estado; Ley de Ingresos del Estado; Ley de Obras Públicas; Ley de Adquisición, Arrendamiento y Prestación de Servicios Relacionados con Bienes Muebles; Ley de Hacienda Municipal; Ley de Ingresos Municipal; Ley de Justicia Administrativa del Estado, Decreto del Presupuesto General de Egresos del Estado; Presupuesto de Egresos Aprobado del Municipio, así como las disposiciones relativas del derecho común, sustantivo y procesal, acorde a la naturaleza del acto de que se trate.
+A falta de disposición expresa en esta Ley, se aplicarán en forma supletoria y en lo conducente, la Ley Estatal de Presupuesto, Contabilidad y Gasto Público; el Código Fiscal del Estado; Ley de Responsabilidades de los Servidores Públicos del Estado; Ley de Deuda Pública del Estado y sus Municipios; Ley de Planeación del Estado; Ley de Coordinación Fiscal y Financiera del Estado; Ley de Hacienda del Estado; Ley de Ingresos del Estado; Ley de Obras Públicas y Servicios Relacionados con las mismas del Estado; Ley de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado; Ley de Hacienda Municipal; Ley de Ingresos Municipal; Ley de Justicia Administrativa para el Estado, Decreto del Presupuesto General de Egresos del Estado; Presupuesto de Egresos aprobado por los Municipios, así como las disposiciones relativas del derecho común, sustantivo y procesal, acorde a la naturaleza del acto de que se trate.
+
+Para los efectos de la fiscalización, cuando una misma materia esté regulada por diversas disposiciones, la especial prevalecerá sobre la general.
 
 La interpretación administrativa de esta Ley, estará a cargo del Congreso, de la Comisión y del Órgano Superior de Fiscalización del Estado, en el ámbito de sus respectivas competencias y atribuciones conferidas.
 
@@ -141,23 +225,37 @@ La Cuenta Pública deberá ser presentada al Congreso del Estado, a través del 
 
 En el caso de los organismos públicos descentralizados u órganos desconcentrados, la Cuenta Pública deberá ser rendida a través del Poder o del Ayuntamiento del que formen parte. En lo que respecta a los órganos autónomos creados por la Constitución local, deberá ser presentada directamente en los términos de esta Ley.
 
-El Órgano Superior de Fiscalización, deberá concluir la auditoría, glosa y fiscalización y entregar los informes técnicos y financieros, que consolidados integrarán el Informe de Resultados al Congreso del Estado, a más tardar el 1° de agosto del año siguiente de que se trate. El incumplimiento de este precepto imputable a los servidores públicos del Órgano, es causa de responsabilidad en los términos de las leyes aplicables.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
+
+El Órgano, deberá concluir la revisión, auditoría, glosa y fiscalización y entregar los informes técnicos y financieros, que consolidados integrarán el Informe de Resultados al Congreso del Estado, a más tardar el 1° de agosto del año siguiente de que se trate. El incumplimiento de este precepto imputable a los servidores públicos del Órgano, es causa de responsabilidad en los términos de las leyes aplicables.
 
 Sin perjuicio de lo dispuesto en el párrafo anterior, el Congreso por conducto del Órgano, en el ejercicio de sus facultades y obligaciones, realizará evaluaciones que comprendan períodos trimestrales del ejercicio fiscal de que se trate, las cuales tendrán carácter de provisional y podrán iniciarse a partir del mes subsecuente al que procediere la evaluación correspondiente, con apoyo en los informes de autoevaluación que remitan dentro del término de treinta días las entidades ejecutoras del gasto. En el desarrollo de tal actividad, habrán de realizarse la revisión, fiscalización y auditoría del gasto público ejercido a dicha fecha. Cuando así lo requiera, el órgano técnico, podrá auxiliarse para el ejercicio de sus atribuciones, de despachos o profesionistas especializados en las diversas tareas de fiscalización que le competen, mismos que serán contratados en los términos previstos en el artículo 22 de esta Ley.
 
-De la evaluación que practique el Órgano, en forma trimestral, deberá hacer las observaciones para que se realicen las solventaciones correspondientes. De encontrarse irregularidades graves que ameriten la intervención del Congreso del Estado, dicho órgano técnico dentro del término de treinta días hábiles, lo hará del conocimiento de éste, sin necesidad de esperar el examen y calificación anual; satisfaciéndose las formalidades legales se emitirá la resolución que en derecho procediere.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
+
+Las observaciones que en su caso resulten de la evaluación que conforme el párrafo anterior practique el Órgano, deberán ser solventadas por el ente fiscalizado en los términos del artículo 47 de esta Ley. De encontrarse irregularidades graves que ameriten la intervención del Congreso del Estado, el Órgano lo hará del conocimiento de éste dentro de los siguientes quince días hábiles acompañado de las pruebas pertinentes, posteriores al término del plazo de solventación mediante Informe especial, sin necesidad de esperar el examen y calificación anual; satisfaciéndose las formalidades legales se emitirá la resolución que en derecho procediere.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2009)</small>
+
+La solventación que se realice conforme al párrafo que antecede, no exime de responsabilidad en el caso de detectarse irregularidades con posterioridad.
 
 En los términos de la Ley de Responsabilidades de los Servidores Públicos y con respecto a los informes que mensualmente y con carácter obligatorio rinden las entidades sujetas a Cuenta Pública, los respectivos órganos internos de control o de vigilancia, según se trate, en cada nivel de gobierno, estarán obligados a remitir la información necesaria sobre el contenido de los mismos, proporcionando en igual término los pormenores de las acciones de control, evaluación y en su caso, de autoevaluación que al efecto se hubieren realizado.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
+
 ###### Artículo 9.
 
-La Cuenta Pública que se rinda al Congreso deberá consolidar toda la información que se hubo remitido en los Informes de Autoevaluación y en su caso, contenidos en el Informe de Avance de Gestión Financiera.
+La Cuenta Pública que se rinda al Congreso deberá consolidar toda la información remitida en tos Informes de Autoevaluación y los avances financieros y presupuestales que de manera periódica rindan los entes fiscalizables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2009)</small>
 
 ###### Artículo 10.
 
-El contenido del Informe de Avance de Gestión Financiera se referirá a los programas a cargo de los Poderes del Estado, los entes públicos locales y de los Ayuntamientos, para conocer el grado de cumplimiento de los programas, objetivos, metas y satisfacción de necesidades en ellos proyectados y contendrá:
+El contenido de los Informes de Autoevaluación, se referirá además de la información señalada en la Constitución del Estado y esta ley, a los programas a cargo de los Poderes del Estado, de los Ayuntamientos y Organismos, para conocer el grado de cumplimiento de los programas, objetivos, metas y satisfacción de necesidades en ellos proyectados y contendrá:
 
-I. El flujo contable de ingresos y egresos al 30 de septiembre del año en que se ejerza el presupuesto. Dicho informe deberá ser entregado a más tardar el 15 de octubre del mismo año, tratándose de los Ayuntamientos, y hasta el 30 del mismo mes, de los Poderes del Estado y demás entes públicos obligados;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+I. El flujo contable de ingresos y egresos al 30 de septiembre del año en que se ejerza el presupuesto. Información que deberá ser incluida en el trimestre que corresponda;
 
 II. El avance del cumplimiento de los programas con base en los indicadores estratégicos aprobados en el presupuesto; y
 
@@ -172,6 +270,10 @@ Los microfilm y los archivos guardados mediante procesamiento electrónico a que
 ###### Artículo 12.
 
 El Órgano conservará en su poder, la información documental materia de la Cuenta Pública de cada ejercicio fiscal, derivadas de las irregularidades que se detecten en las operaciones objeto de revisión, y los informes de resultados, mientras no prescriban sus facultades para fincar las responsabilidades. También se conservarán las copias autógrafas de las resoluciones en las que se finquen responsabilidades por daños y perjuicios y los documentos que contengan las denuncias o querellas penales, que se hubieren formulado como consecuencia de los hechos presuntamente delictivos que quedaren evidenciados durante la referida revisión.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2009)</small>
+
+Salvo lo antes señalado, una vez calificado el ejercicio de que se trate, el Órgano devolverá para su legal resguardo, la documentación de Cuenta Pública que haya recibido de los entes fiscalizables.
 
 ### Capítulo II. De la Revisión y Fiscalización Superior de la Cuenta Pública
 
@@ -205,11 +307,15 @@ Para la revisión y fiscalización de la Cuenta Pública, el Órgano Superior de
 
 I. Revisar y fiscalizar los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado y de los entes públicos locales, así como el cumplimiento de los objetivos contenidos en los programas estatales, a través de los informes técnicos y financieros, que se rendirán en los términos que disponga la ley;
 
-II. Establecer los criterios para las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de la Cuenta Pública y del Informe de Avance de Gestión Financiera, verificando que ambos sean presentados, en los términos de esta Ley y de conformidad con los principios de contabilidad gubernamental aplicables al Sector Público, los que en todo caso, habrán de establecerse por el Órgano, en concurrencia con los Órganos Preventivos de Control de los entes fiscalizables y formulados que sean, serán remitidos al Órgano de Gobierno, quien de no encontrar contravenciones legales ordenará su publicación en el Periódico Oficial del Estado, con fines de divulgación y observancia;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+II. Establecer los criterios para las auditarías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de la Cuenta Pública y de los Informes de Autoevaluación, verificando que ambos sean presentados, en los términos de esta Ley y de conformidad con las normas de información financiera aplicables al Sector Público, los que en todo caso, habrán de establecerse por el Órgano, en concurrencia con los Órganos Internos de Control de los entes fiscalizables y formulados que sean, se harán las gestiones correspondientes para su publicación en el Periódico Oficial del Estado, con fines de divulgación y observancia;
 
 III. Establecer y expedir formalmente, las normas, procedimientos, métodos y sistemas de contabilidad y de archivo, de los libros y documentos justificativos y comprobatorios del ingreso y del gasto público, así como todos aquellos elementos que permitan la práctica idónea de las auditorías y revisiones, de conformidad con las propuestas que formulen los Poderes del Estado, los Ayuntamientos y los demás entes fiscalizables, acorde a las características propias de su operación;
 
-IV. Evaluar el Informe de Avance de Gestión Financiera respecto de los avances físico y financiero de los programas autorizados y sobre procesos concluidos;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+IV. Evaluar los Informes de Autoevaluación, respecto de los avances físico y financiero de los proyectos autorizados que se reporten como concluidos;
 
 V. Evaluar el cumplimiento final de los objetivos y metas fijadas en los programas conforme a las metas o a los lineamientos aprobados en el presupuesto, a efecto de verificar el desempeño de los mismos y la legalidad en el uso de los recursos públicos;
 
@@ -219,7 +325,9 @@ VII. Verificar que las operaciones que realicen los Poderes del Estado, los Ayun
 
 VIII. Verificar obras, bienes adquiridos y servicios contratados, para comprobar si las inversiones y gastos autorizados a los Poderes del Estado, a los Ayuntamientos y demás entes públicos fiscalizables se han aplicado legal y eficientemente al logro de los objetivos y metas de los programas aprobados y si se ajustan a la normatividad aplicable;
 
-IX. Requerir a los auditores externos, que contraten los entes fiscalizables, copias de los informes o dictámenes de las auditorías y revisiones por ellos practicadas;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+IX. Requerir a través de los órganos internos de control o su equivalente de sus entes fiscalizables, copias de los informes o dictámenes de las auditorías y revisiones practicadas por auditores externos;
 
 X. Requerir, en su caso, a terceros que hubieran contratado, bienes o servicios mediante cualquier título legal con los Poderes del Estado, los Ayuntamientos y demás entes públicos locales y, en general, a cualquier entidad o persona que haya ejercido recursos públicos, la información relacionada con la documentación justificativa y en su caso, comprobatoria de la Cuenta Pública que hubiere sido presentada o allegada en las tareas de fiscalización, a efecto de realizar las compulsas correspondientes;
 
@@ -239,15 +347,29 @@ XVI. Determinar los daños y perjuicios que afecten a la Hacienda Pública Estat
 
 XVII. Fincar por excepción, las responsabilidades a determinarse por el Órgano de Control Preventivo, para su imposición por el Superior Jerárquico que corresponda; las sanciones correspondientes a los servidores públicos responsables por el incumplimiento a sus requerimientos de información en el caso de las revisiones que haya ordenado, tratándose de las situaciones excepcionales que determina esta Ley;
 
-XVIII. Conocer y resolver sobre el recurso de reconsideración que se interponga en contra de las resoluciones y sanciones que aplique;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
 
-XIX. Concertar y celebrar convenios con autoridades federales, locales o de otras entidades federativas, así como con personas físicas o jurídicas colectivas públicas o privadas, con el propósito de dar cumplimiento al objeto de esta Ley;
+XVIII. Formular recomendaciones al desempeño para mejorar los resultados, la eficacia, eficiencia y economía de las acciones de gobierno, a fin de elevar la calidad del desempeño gubernamental;
 
-XX. Al rendir su informe final al Congreso del Estado, por conducto de la Comisión Inspectora que corresponda, deberá mencionar en su caso, aquellos proyectos sobre los cuales, por situaciones excepcionales, no le es posible pronunciarse dentro del plazo legal, y comunicar que presentará un informe complementario a más tardar el 15 de septiembre del año de que se trate;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
 
-XXI. Elaborar estudios relacionados con las materias de su competencia y publicarlos; y
+XIX. Conocer y resolver sobre el recurso de reconsideración que se interponga en contra de las resoluciones y sanciones que aplique;
 
-XXII. Las demás que le sean conferidas por esta Ley o cualquier otro ordenamiento.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+XX. Concertar y celebrar convenios con autoridades federales, locales o de otras entidades federativas, así como con personas físicas o jurídicas colectivas públicas o privadas, con el propósito de dar cumplimiento al objeto de esta Ley;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+XXI. Al rendir su informe final al Congreso del Estado, por conducto de la Comisión Inspectora que corresponda, deberá mencionar en su caso, aquellos proyectos sobre los cuales, por situaciones excepcionales, no le es posible pronunciarse dentro del plazo legal, y comunicar que presentará un informe complementario a más tardar el 15 de septiembre del año de que se trate;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+XXII. Elaborar estudios relacionados con las materias de su competencia y publicarlos; y
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2009)</small>
+
+XXIII. Las demás que le sean conferidas por esta ley o cualquier otro ordenamiento.
 
 ###### Artículo 15.
 
@@ -261,15 +383,21 @@ Los comentarios a las observaciones ó solventaciones a que se refiere este art�
 
 Las observaciones a que se refiere el artículo anterior, deberán notificarse a los Poderes del Estado, a los Ayuntamientos o a los entes públicos obligados a rendir Cuenta Pública, a más tardar treinta días hábiles después del informe respectivo, con el propósito de que sus solventaciones y comentarios se integren al Informe del Resultado de la revisión de la Cuenta Pública correspondiente.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
+
 ###### Artículo 17.
 
-El Órgano, en ejercicio de sus facultades de fiscalización, podrá además sin perjuicio de las evaluaciones, realizar visitas, supervisiones y auditorías, integrales o de tipo financiero, técnico, operacional, de resultado de programas y/o de legalidad, durante el ejercicio fiscal en curso, respecto de los procesos reportados como concluidos en el Informe de Avance de Gestión Financiera.
+El Órgano, en ejercicio de sus facultades de fiscalización y durante el periodo de evaluación y revisión final para efectos del Informe de Resultados podrá realizar visitas, supervisiones y auditorias, integrales, de tipo financiero, técnico, operacional, resultado de programas, de legalidad y/o de normatividad, respecto de los procesos reportados como concluidos en los Informes de Autoevaluación.
+
+Asimismo, durante la fiscalización superior de la Cuenta Pública Anual, se podrán realizar además de los tipos de auditorías antes citados, auditorías del desempeño de los programas, verificando la eficiencia, la eficacia y la economía de los mismos.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
 
 ###### Artículo 18.
 
-La fiscalización del Informe de Avance de Gestión Financiera y la revisión de la Cuenta Pública para fines de su calificación y declarativa legal, están limitadas al principio de anualidad a que se refiere la fracción XLI, del artículo 36, de la Constitución local; por lo que un proceso administrativo que abarque en su ejecución dos o más ejercicios fiscales, sólo podrá ser revisado y fiscalizado en la parte ejecutada precisamente en ese ejercicio al rendirse la Cuenta Pública; lo mismo ocurrirá cuando el proceso se declare como concluido. En virtud de lo anterior, la revisión de conceptos ya fiscalizados con motivo del Informe de Avance de Gestión Financiera, no deberán duplicarse a partir de la evaluación y revisión de la Cuenta Pública.
+La fiscalización que se lleve a cabo respecto de los Informes de Autoevaluación, así como de la Cuenta Pública para fines de su calificación y declarativa legal, están limitadas al principio de anualidad a que se refiere la fracción XLI, del artículo 36, de la Constitución local; por lo que un proceso administrativo que abarque en su ejecución dos o más ejercicios fiscales, sólo podrá ser revisado y fiscalizado en la parte ejecutada precisamente en ese ejercicio al rendirse la Cuenta Pública; lo mismo ocurrirá cuando el proceso se declare como concluido. En virtud de lo anterior, la revisión de conceptos ya fiscalizados con motivo de las Evaluaciones, no deberán duplicarse a partir de la revisión de la Cuenta Pública;
 
-Sin perjuicio del principio de anualidad a que se refiere el párrafo anterior, el Órgano podrá revisar de manera casuística y concreta, información y documentos relacionados con conceptos específicos de gasto, correspondientes hasta tres ejercicios anteriores al de la Cuenta Pública en revisión, cuando el programa o proyecto contenido en el presupuesto aprobado abarque para su ejecución y pago, diversos ejercicios fiscales, sin que con este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio correspondiente a la revisión específica señalada.
+Sin perjuicio del principio de anualidad a que se refiere el párrafo anterior, el Órgano podrá revisar de manera casuística y concreta, información y documentos relacionados con conceptos específicos de gasto, correspondientes hasta tres ejercicios anteriores al de la Cuenta Pública en revisión, exclusivamente cuando el programa o proyecto contenido en el presupuesto en revisión abarque para su ejecución y pago, diversos ejercicios fiscales, sin que con este motivo se entienda, para todo los efectos legales, abierta nuevamente la Cuenta Pública de ejercicios anteriores al que corresponda a la revisión específica señalada, por lo tanto, las observaciones que el Órgano emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
 
 ###### Artículo 19.
 
@@ -351,9 +479,11 @@ Dichos procedimientos comprenderán además la comprobación de la aplicación a
 
 ### Capítulo Único. De su Procedencia y Trámite
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
+
 ###### Artículo 31.
 
-Para los efectos de lo previsto en la fracción VI, del artículo 40 constitucional, cuando ante el Órgano Superior se presenten denuncias debidamente fundadas o por otras circunstancias válidas pueda suponerse el presunto manejo, aplicación o custodia irregular de recursos públicos, o de su desvío, dicho Órgano, procederá a requerir a las entidades fiscalizadas, revisiones de conceptos específicos de hasta tres ejercicios fiscales anteriores, vinculados de manera directa a las denuncias presentadas. El requerimiento deberá aportar indicios probatorios razonables, mediante los cuales se presuma que la irregularidad cometida ocasionó un daño a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos estatales o municipales.
+Para los efectos de lo previsto en la fracción VI, del artículo 40 constitucional, cuando ante el Órgano se presenten denuncias debidamente fundadas o por otras circunstancias válidas pueda suponerse el presunto manejo, aplicación o custodia irregular de recursos públicos, o de su desvío, dicho Órgano, podrá requerir a las entidades fiscalizadas que procedan a la revisión, durante el ejercicio fiscal en curso, de los conceptos denunciados. El requerimiento deberá aportar indicios probatorios razonables, mediante los cuales se presuma que la irregularidad cometida, ocasionó un daño a la Hacienda Pública Estatal o Municipal o al patrimonio de los Organismo fiscalizables.
 
 ###### Artículo 32.
 
@@ -453,9 +583,13 @@ Las responsabilidades que se finquen a los servidores públicos de los Poderes d
 
 El Órgano, con base en las disposiciones de esta Ley, formulará a los Poderes del Estado, a los Ayuntamientos y a los demás entes fiscalizables, los pliegos de observaciones derivados de la revisión y fiscalización superior de la Cuenta Pública, en los que se determinará en cantidad líquida, la presunta responsabilidad de los infractores, la cual deberá contabilizarse de inmediato; asimismo, requerirá las solventaciones que sean necesarias.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
+
 ###### Artículo 47.
 
-Los Poderes del Estado, los Ayuntamientos y demás entes fiscalizables, dentro de un plazo improrrogable de cuarenta y cinco días hábiles contados a partir de la fecha en que reciban los pliegos de observaciones, deberán solventar los mismos ante el Órgano Superior de Fiscalización del Estado. Cuando los pliegos de observaciones no sean solventados dentro del plazo señalado, o bien, la documentación y argumentos presentados no sean suficientes a juicio del Órgano para solventar las observaciones, iniciará el procedimiento para el fincamiento de responsabilidades resarcitorias a que se refiere el siguiente capítulo y, en su caso, aplicará las sanciones pecuniarias a que haya lugar, en los términos de esta Ley. De igual manera, cuando el caso lo amerite, procederá a efectuar ante la instancia superior competente, para los fines que legalmente procedan, las denuncias y querellas correspondientes.
+Los Poderes del Estado, los Ayuntamientos y demás entes fiscalizables, dentro del plazo concedido por el Órgano que no podrá ser menor de quince días ni mayor de cuarenta y cinco días hábiles contados a partir de la fecha en que reciban los pliegos de observaciones, deberán solventar los mismos, ante el Órgano. Cuando los pliegos de observaciones no sean solventados dentro del plazo señalado, la documentación y argumentos presentados no sean suficientes a juicio del Órgano para solventar las observaciones, o bien, no se presente solventación alguna, éste emitirá el pliego de cargos correspondiente, en el cual se darán a conocer las observaciones no solventadas, procediendo posteriormente al inicio del procedimiento para el fincamiento de responsabilidades resarcitorias a que se refiere el siguiente capítulo y, en su caso, aplicará las sanciones pecuniarias a que haya lugar, en los términos de esta Ley. De igual manera, cuando el caso lo amerite, procederá a efectuar ante la instancia superior competente, para los fines que legalmente procedan, las denuncias y querellas correspondientes.
+
+La responsabilidad de los servidores públicos, respecto de las irregularidades en que hayan incurrido, subsistirá hasta en tanto no se extingan las facultades o prescriban las acciones que pudieran ser ejercitadas en esta materia, con independencia que hubiere sido aprobada la Cuenta Pública respectiva.
 
 ### Capítulo III. Del Procedimiento para el Fincamiento de Responsabilidades Resarcitorias
 
@@ -501,13 +635,19 @@ El Órgano, podrá abstenerse de sancionar al infractor, por una sola vez, cuand
 
 ### Capítulo IV. De las medidas de apremio
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2009)</small>
+
 ###### Artículo 54.
 
-Sin perjuicio de las sanciones previstas en esta Ley, el Órgano Superior de Fiscalización, podrá imponer a los sujetos de revisión, como medida de apremio, multa por el equivalente de cincuenta a quinientos días de salario mínimo general vigente en el Estado, en los siguientes casos:
+Sin perjuicio de las sanciones previstas en esta Ley, el Órgano, podrá imponer a los servidores públicos responsables en términos de la Ley aplicable, como medida de apremio, multa por el equivalente de cincuenta a quinientos días de salario mínimo general vigente en el Estado, en los siguientes casos:
 
-I. No presentar dentro del plazo correspondiente, el informe de avance de gestión financiera o el estado de origen y aplicación de recursos respectivo;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
 
-II. No dar contestación a los pliegos de observaciones y de cargos, dentro del plazo concedido para ello, a partir de su notificación;
+I. No presentar dentro del plazo correspondiente, el Informe de Autoevaluación del trimestre que corresponda;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+II. No dar contestación a los pliegos de observaciones, dentro del plazo concedido para ello, a partir de su notificación;
 
 III. No presentar la cuenta pública dentro de los plazos que establece esta Ley;
 
@@ -539,9 +679,11 @@ Las multas que como medida de apremio imponga el Órgano, se constituirán en cr
 
 ### Capítulo V. Del Recurso de Reconsideración
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
+
 ###### Artículo 60.
 
-Las sanciones y demás resoluciones que emita el Órgano Superior de Fiscalización del Estado conforme a esta Ley, podrán ser impugnadas por el servidor público afectado siempre y cuando, tuvieren interés jurídico en el acto materia de la inconformidad, o por los particulares, personas físicas o jurídicas colectivas; ante el propio Órgano, mediante el recurso de reconsideración o bien, en el término legal, mediante juicio contencioso administrativo, previsto en la Ley de Justicia Administrativa para el Estado. El recurso de reconsideración se interpondrá dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación del pliego o resolución recurrida.
+Las resoluciones que emita el Órgano, dentro del Procedimiento de Fincamiento de Responsabilidades Resarcitorias, así como cualquier multa o medidas de apremio que se impongan en la función de fiscalización, podrán ser impugnadas siempre y cuando se tuviere interés jurídico en el acto materia de la inconformidad, por el servidor público afectado, por los particulares ya sean personas físicas o jurídicas colectivas, ante el propio Órgano, mediante el recurso de reconsideración dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación de la resolución recurrida.
 
 ###### Artículo 61.
 
@@ -553,13 +695,17 @@ II. El Órgano, acordará sobre la admisión del recurso y de las pruebas ofreci
 
 III. Desahogadas las pruebas, si las hubiere, la citada autoridad emitirá resolución dentro de los treinta días hábiles siguientes, notificándola en términos de ley al interesado.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
+
 ###### Artículo 62.
 
-La interposición del recurso suspenderá la ejecución del pliego o resolución recurrida, si el pago de la sanción correspondiente se garantiza en los términos que prevenga el Código Fiscal del Estado.
+La interposición del recurso suspenderá la ejecución de la resolución impugnada si se garantiza el monto correspondiente, en los términos que prevenga el Código Fiscal del Estado.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
 
 ###### Artículo 63.
 
-Los servidores públicos en todo momento durante el procedimiento a que se refieren los artículos 47 y 48 de esta Ley, o bien, para la interposición del recurso de reconsideración respectivo, podrán consultar los expedientes administrativos donde consten los hechos que se les imputen y obtener copias certificadas de los documentos correspondientes, previa solicitud por escrito de la misma. Dichas copias serán expedidas en un término no mayor a tres días hábiles.
+Para la interposición del recurso de reconsideración respectivo, los afectados podrán consultar los expedientes administrativos donde consten los hechos que se les imputen y obtener copias certificadas de los documentos correspondientes, mediante solicitud por escrito y previo el pago de los derechos correspondientes le serán expedidas en un término no mayor a tres días hábiles a partir de su solicitud.
 
 ### Capítulo VI. Del Finiquito
 
@@ -623,21 +769,39 @@ VI. Las diversas que establezca esta Ley y demás disposiciones aplicables.
 
 ### Capítulo I. Integración y Organización
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
+
 ###### Artículo 72.
 
-El Órgano Superior de Fiscalización del Estado, será el Órgano Técnico auxiliar del Congreso del Estado, de naturaleza desconcentrada, con autonomía funcional y de gestión en el ejercicio de sus atribuciones; encargado de revisar y fiscalizar las cuentas del erario estatal y municipal, conforme a las facultades conferidas en la Constitución del Estado, esta Ley y demás disposiciones jurídicas aplicables.
+El Órgano Superior de Fiscalización del Estado es el Órgano Técnico del Congreso del Estado de naturaleza desconcentrada, con autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley, encargado de revisar y fiscalizar las cuentas del erario estatal y municipal, conforme a las facultades conferidas en la Constitución del Estado esta ley y demás disposiciones jurídicas aplicables.
+
+La función de fiscalización se desarrollará conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad, confiabilidad, misma que pugnará por verificar que la administración de los recursos económicos de los cuales disponga el Estado, los municipios y demás entes fiscalizables se realicen con eficiencia, eficacia, economía, transparencia y honradez.
+
+La autonomía técnica y de gestión, permiten al Órgano, no solo resolver lo conducente en los Procedimientos Administrativos que le competen, sino lo relativo a su organización y administración interna, con la única limitante de los casos expresos que la Ley establezca.
+
+El presupuesto del Órgano forma parte del que corresponde al Poder Legislativo, la Secretaría tomará las medidas necesarias para entregar la parte que le corresponde al órgano quién será el responsable directo de su ejercicio, de conformidad con el calendario del presupuesto de egresos autorizado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2009)</small>
 
 ###### Artículo 73.
 
-Al frente del Órgano Superior de Fiscalización del Estado habrá un Titular que será el Fiscal Superior, designado conforme a lo previsto en el párrafo sexto, fracción VIII del artículo 40 de la Constitución Política del Estado Libre y Soberano de Tabasco, por el voto de las dos terceras partes de los miembros presentes de la Cámara; de una terna propuesta por el Órgano de Gobierno del Congreso y quien además de los requisitos exigidos en el mencionado numeral, deberá satisfacer los siguientes:
+Al frente del Órgano habrá un Titular que será el Fiscal Superior designado conforme a lo previsto en el artículo 40 de la Constitución Política del Estado Libre y Soberano de Tabasco, por el voto de las dos terceras partes de los miembros presentes de la Cámara; de una terna propuesta por el Órgano de Gobierno y quien además de los requisitos exigidos en el mencionado numeral, deberá satisfacer los siguientes:
 
-I. No haber sido inhabilitado por autoridades judiciales o administrativas para ejercer el servicio público; y
+I. Contar con al menos cinco años de experiencia en materia de control, auditoría financiera y de responsabilidades, al día de su designación;
 
-II. No tener parentesco de consanguinidad o afinidad hasta el tercer grado, con los Titulares de los Poderes o los Secretarios de Despacho.
+II. No haber sido inhabilitado por autoridades judiciales o administrativas para ejercer el servicio público; y
+
+III. No tener parentesco de consanguinidad o afinidad hasta el tercer grado, con los Titulares de los Poderes o los Secretarios de Despacho.
 
 Para la designación de las personas que integrarán la terna a que se refiere este artículo, el Órgano de Gobierno del Congreso del Estado, convocará a los ciudadanos en general y de manera especial, a las universidades e instituciones de educación superior, colegios o asociaciones de contadores públicos, abogados, economistas o administradores públicos, respectivamente, legalmente constituidos con el objeto de que formulen propuestas de profesionales que puedan desempeñar el cargo de Fiscal Superior. Vencido el plazo señalado en la convocatoria, se analizarán las propuestas recibidas y se entrevistará por separado a los candidatos que se consideren idóneos, para conformar la terna que se someterá a la consideración del Pleno para la designación del Fiscal Superior.
 
 En caso de que ningún candidato de la terna propuesta para ocupar el cargo de Fiscal Superior, haya obtenido la votación de las dos terceras partes de los miembros presentes del Congreso, se volverá en lo inmediato a someter una nueva propuesta en los términos del párrafo anterior para designarlo. Ningún candidato propuesto en el dictamen rechazado por el Pleno podrá participar de nueva cuenta en el proceso de selección.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE JULIO DE 2009)</small>
+
+Concluido el primer período de labores del Fiscal Superior, continuará en el cargo, hasta en tanto se le elije para un segundo período o se designe a un nuevo Titular.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 4 DE JULIO DE 2009)</small>
 
 Una vez designado el Fiscal Superior, comparecerá ante el Pleno del Congreso, a rendir la protesta de ley correspondiente.
 
@@ -645,9 +809,11 @@ Una vez designado el Fiscal Superior, comparecerá ante el Pleno del Congreso, a
 
 El Fiscal Superior del Estado, durará en su encargo siete años contados a partir de su formal protesta, y podrá ser nombrado nuevamente por una sola vez. Podrá ser sujeto de juicio político y, en su caso, removido por las causas graves que señala el artículo 83 de esta Ley, con la misma votación requerida para su nombramiento, así como por las causas y conforme a los procedimientos previstos en el Título Séptimo de la Constitución Política del Estado Libre y Soberano de Tabasco. Si esta situación se presenta estando en período de receso el Congreso, la Comisión Permanente podrá convocar a un período extraordinario para que resuelva en torno a dicha remoción.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
+
 ###### Artículo 75.
 
-El Fiscal Superior del Estado, será suplido en sus ausencias temporales no mayor a treinta días, por el Fiscal Especial conforme se señale en el Reglamento Interior del Órgano Superior de Fiscalización del Estado. En caso de falta definitiva, el Órgano de Gobierno dará cuenta al Congreso para que se designe otro, en términos de los artículos 73 y 74 de esta Ley, al Fiscal Superior que concluirá el encargo.
+El Fiscal Superior, podrá ausentarse temporalmente hasta por quince días naturales siempre que dé aviso al Congreso, por conducto del Órgano de Gobierno; cuando las faltas sean mayores a quince días y menores de treinta días naturales deberán ser autorizadas por el citado Órgano de Gobierno, otorgándose ésta por el voto de la mayoría simple de sus miembros, siendo suplido en términos del Reglamento Interior. En caso de falta definitiva, el Órgano de Gobierno dará cuenta al Congreso para que se designe otro, en términos de los artículos 73 y 74 de esta Ley, al Fiscal Superior que concluirá el encargo.
 
 ###### Artículo 76.
 
@@ -657,15 +823,25 @@ I. Representar al Órgano Superior de Fiscalización del Estado ante las entidad
 
 II. Elaborar el proyecto de presupuesto anual del Órgano, atendiendo a la información que le sea proporcionada por la instancia administrativa del Congreso, respecto a las previsiones del ingreso y del gasto público del Poder Legislativo y someter el mismo, a la aprobación del Órgano de Gobierno del Congreso; para que una vez autorizado, se incluya en el presupuesto de egresos del Poder Legislativo y se remita al Titular del Poder Ejecutivo para que se integre en el Presupuesto General de Egresos del Gobierno del Estado, a efectos de su aprobación formal por el Congreso;
 
-III. Administrar los bienes y recursos financieros a cargo del Órgano Superior de Fiscalización del Estado y resolver sobre la adquisición de bienes muebles y la prestación de servicios de la entidad; sujetándose a lo dispuesto en los cinco últimos párrafos del artículo 76 de la Constitución local, y a las demás leyes aplicables, así como gestionar, por conducto del Órgano de Gobierno del Congreso, la incorporación, destino y desincorporación de bienes inmuebles del dominio público del Estado afectos a su servicio;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
 
-IV. Presentar dentro del término de noventa días, al Órgano de Gobierno, con conocimiento de las Comisiones Inspectoras de Hacienda, para su aprobación, el programa anual de actividades de la entidad a su cargo, así como en su caso, el programa anual de auditorías, visitas e inspecciones;
+III. Administrar los bienes y recursos a cargo del Órgano en forma independiente y autónoma y resolver sobre la adquisición y enajenación de bienes muebles y la prestación de servicios de la entidad; y arrendamiento de bienes muebles e Inmuebles sujetándose a lo dispuesto en los cinco últimos párrafos del artículo 76 de la Constitución local, aplicando para estos fines en lo conducente el Presupuesto de Egresos del Estado, la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Tabasco, la Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado de Tabasco y demás ordenamientos jurídicos aplicables, así como gestionar, por conducto del Órgano de Gobierno, la incorporación, destino y desincorporación de bienes inmuebles del dominio público del Estado afectos a su servicio;
 
-V. Proponer al Órgano de Gobierno del Congreso del Estado, para su aprobación plenaria correspondiente, el Reglamento Interior del Órgano Superior de Fiscalización del Estado, así como el Código de Ética Profesional de los Servidores Públicos de dicho Órgano; en el primero se indicarán las atribuciones de sus unidades administrativas y de sus titulares; se señalarán los requisitos que deben reunir las personas que prestarán sus servicios en dicho Órgano, se establecerá la forma en que serán nombrados y como deberán ser suplidos en sus ausencias y las demás hipótesis normativas que regulen la vida interna del mencionado Órgano; debiendo ser publicados dicho Reglamento y Código, en el Periódico Oficial del Estado;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
 
-VI. Formular los manuales de organización y procedimientos que se requieran para la debida organización y funcionamiento del Órgano, los que deberán ser expedidos previa consulta a las Comisiones Inspectoras; por el Órgano de Gobierno del Congreso y publicados posteriormente en el Periódico Oficial del Estado;
+IV. Presentar a más tardar el último día del mes de marzo del año que corresponda, al Órgano de Gobierno y a las Comisiones Inspectoras de Hacienda, para su conocimiento, el Programa Anual de Actividades, así como en su caso, el Programa Anual de Auditorías, Visitas e Inspecciones, mismos que se realizarán con los elementos que el Órgano tenga a su disposición;
 
-VII. Nombrar, en términos de las disposiciones aplicables, previa comunicación y aprobación al Órgano de Gobierno, al personal de mandos superiores y demás que se requiera del Órgano Superior de Fiscalización del Estado, o en su caso, celebrar los contratos de prestación de servicios a que se refiere el artículo 22 de esta Ley;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+V. Formular y aprobar, el Reglamento Interior del Órgano Superior de Fiscalización del Estado, así como el Código de Ética Profesional de los Servidores Públicos de dicho Órgano, debiendo proveer lo necesario para que sean publicados, en el Periódico Oficial del Estado;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+VI. Formular y aprobar los Manuales de Organización y Procedimientos que se requieran para la debida organización y funcionamiento del Órgano y proveer lo necesario para su publicación en el Periódico Oficial del Estado;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+VII. Nombrar, en términos de las disposiciones aplicables, al personal de mandos superiores y demás que se requieran en el Órgano, o en su caso, celebrar los contratos de prestación de servicios a que se refiere el artículo 22 de esta Ley;
 
 VIII. Establecer oportunamente las normas, procedimientos, métodos y sistemas de contabilidad y de archivo de los libros y documentos justificativos y comprobatorios del ingreso y del gasto público, así como todos aquellos elementos que permitan la práctica idónea de las auditorías y revisiones, de conformidad con las propuestas que formulen los Poderes del Estado, los Ayuntamientos y los demás entes públicos sujetos de fiscalización, acorde a las funciones propias de su operación.
 
@@ -679,15 +855,21 @@ XI. Solicitar a los Poderes del Estado, a los Municipios y a los demás entes su
 
 XII. Ejercer las atribuciones que corresponden al Órgano Superior de Fiscalización del Estado en los términos de la Constitución local, la presente Ley y el Reglamento Interior del propio Órgano;
 
-XIII. Resolver el recurso de reconsideración interpuesto en contra de sus resoluciones;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
 
-XIV. Recibir directamente, el Informe de autoevaluación que contenga el Avance de la Gestión Financiera y la demás documentación a que estén sujetas de remitir los entes fiscalizables, respecto a la Cuenta Pública, para su revisión y fiscalización;
+XIII. Resolver el recurso de reconsideración interpuesto en contra de las multas y sanciones que imponga, así como en contra de sus resoluciones dictadas dentro del Procedimiento Resarcitorio que prevé esta Ley;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+XIV. Recibir directamente, los Informes de autoevaluación y la demás documentación a que estén sujetas de remitir los entes fiscalizables, respecto a la Cuenta Pública, para su revisión y fiscalización;
 
 XV. Formular y entregar a las Comisiones Inspectoras de Hacienda, el Informe de Resultados de la revisión de la Cuenta Pública al Congreso, a más tardar el 1° de agosto del año siguiente al de su presentación;
 
 XVI. Presentar, previa autorización del Congreso, denuncias y querellas en los términos señalados por el Código de Procedimientos Penales para el Estado, en los casos de presuntas conductas delictivas de servidores públicos y en contra de particulares cuando derivado de sus funciones de fiscalización, tenga conocimiento de hechos que pudieran implicar la comisión de un delito relacionado con daños a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos locales, así como denuncias de juicio político de conformidad con lo señalado en el Título Séptimo de la Constitución Política del Estado Libre y Soberano de Tabasco;
 
-XVII. Suscribir sin detrimento de sus atribuciones, y para el mejor cumplimiento de sus deberes, convenios de coordinación con el ente público similar de la federación, para los fines de la fiscalización de los recursos que con respecto al Estado o municipios, sean convenidos, transferidos o reasignados por las entidades fiscalizadas del ámbito federal; así como con los órganos de control preventivo de los entes estatales y municipales, obligados a rendir cuenta pública; así como de colaboración con los órganos de fiscalización de otras entidades y con el sector privado;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+XVII. Suscribir sin detrimento de sus atribuciones, y para el mejor cumplimiento de sus deberes, convenios de coordinación o cooperación técnica, con el ente público similar de la federación o de los Estados, para los fines de la fiscalización de los recursos que con respecto al Estado o municipios, sean convenidos, transferidos o reasignados por las entidades fiscalizadas del ámbito federal; así como en los aspectos relacionados con la capacitación de su personal; también suscribir convenios con las unidades de control interno o preventivo de los Sujetos de Cuenta Pública; personas físicas o jurídicas colectivas, sean públicas o privadas, con el propósito de dar cumplimiento al objeto de esta Ley;
 
 XVIII. Dar cuenta comprobada al Congreso de la aplicación de su presupuesto aprobado, dentro de los treinta primeros días del mes siguiente al que corresponda su ejercicio por conducto de la Comisión;
 
@@ -707,85 +889,43 @@ XXV. Revisar la contabilidad de las dependencias del Estado, organismos o instit
 
 XXVI. Participar en la evaluación y autoevaluación del ejercicio presupuestal que realicen los ayuntamientos o Concejos Municipales;
 
-XXVII. Expedir a instancia de autoridad competente, y en los términos de las disposiciones legales, certificaciones de los documentos que obren en sus archivos; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
 
-XXVIII. Las demás que señale esta Ley y demás disposiciones legales aplicables.
+XXVII. Expedir a instancia de autoridad competente, en los términos de las disposiciones legales, Certificaciones de los documentos que obren en sus archivos;
 
-Las atribuciones previstas en las fracciones II, IV, V, VII, VIII, IX, XIII, XIV, XV, XVI y XVIII son de ejercicio directo del Fiscal Superior y, por tanto, no podrán ser delegadas.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+XXVIII. Comunicar mediante acuerdo al Congreso y a los entes fiscalizables, las actualizaciones a las normas de información financiera aplicables al Sector Gubernamental adicionales a las que ya se establecen en esta Ley, que se estimen necesarias para garantizar que la ejecución y registro de las operaciones de los sujetos de fiscalización faciliten la transparencia del gasto público y la eficiencia en su revisión; y
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2009)</small>
+
+XXIX. Las demás que señale esta Ley y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
+
+Las atribuciones previstas en las fracciones II, IV. V, VII, VIII, IX. XIII, XIV. XV, XVI. XVIII y XXVIII son de ejercicio directo del Fiscal Superior y, por tanto, no podrán ser delegadas.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
 
 ###### Artículo 77.
 
-El Órgano Superior de Fiscalización del Estado, contará además con un Fiscal Especial, designado por el Órgano de Gobierno del Congreso del Estado, así como con las direcciones, subdirecciones, coordinaciones y áreas de apoyo técnico, cuya denominación, facultades y atribuciones se establecerán en el Reglamento Interior, de conformidad con los rubros o partidas del presupuesto autorizado y las necesidades del servicio.
+El Órgano, contará con un Fiscal Especial, así como con las direcciones, subdirecciones, coordinaciones y áreas de apoyo técnico, cuya denominación, facultades y atribuciones se establecerán en el Reglamento Interior, de conformidad con los rubros o partidas del presupuesto autorizado y las necesidades del servicio.
 
 ###### Artículo 78.
 
-Para ejercer el cargo de Fiscal Especial se deberán cumplir los requisitos exigidos por el artículo 40 de la Constitución Política del Estado. Para los demás cargos deberá estarse a lo señalado en el Reglamento Interior. El Fiscal Especial durará en su cargo cinco años, pudiendo ser reelecto por una sola vez.
+(DEROGADO, P.O. 4 DE JULIO DE 2009)
 
 ###### Artículo 79.
 
-Sin perjuicio de su ejercicio directo por el Fiscal Superior y de conformidad con la distribución de competencias que establezca el Reglamento Interior, corresponden al Fiscal Especial coadyuvar con el Fiscal Superior en las tareas siguientes:
-
-I. Planear, conforme a los programas aprobados por el Fiscal Superior, y en las tareas de evaluación, las actividades relacionadas con la revisión y fiscalización de la Cuenta Pública correspondiente, y elaborar los análisis temáticos que sirvan de elementos para la preparación del Informe de Resultados de la revisión de la Cuenta Pública;
-
-II. Revisar los informes de evaluación del gasto ejercido, correspondiente a la Cuenta Pública del año fiscal de que se trate; incluido el Informe de Avance de la Gestión Financiera que se rinda en términos de esta Ley;
-
-III. Requerir a las entidades fiscalizadas y a los terceros que hubieren celebrado operaciones con aquéllas, la información y documentación que sea necesaria para realizar la función de fiscalización;
-
-IV. Cumplimentar la realización de auditorías, visitas e inspecciones a los Poderes del Estado, a los Ayuntamientos y a los entes públicos locales conforme al programa aprobado por el Fiscal Superior;
-
-V. Revisar, analizar y evaluar la información programática, contable, financiera, presupuestal y económica, incluida en la Cuenta Pública de los entes obligados a rendirlas;
-
-VI. Formular en ausencia del Fiscal Superior o por instrucciones de éste, oportunamente las recomendaciones y los pliegos de observaciones que deriven de los resultados de su revisión y de las auditorías, visitas o investigaciones, las que remitirá a los Poderes del Estado, a los Ayuntamientos y a los demás entes públicos obligados a rendir Cuenta Pública;
-
-VII. Instruir los procedimientos para la determinación y el fincamiento de las responsabilidades resarcitorias a que den lugar las irregularidades en que incurran los servidores públicos, por actos u omisiones de los que resulte un daño o perjuicio estimable en dinero que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos locales, conforme a los ordenamientos legales y reglamentarios aplicables;
-
-VIII. Resolver el recurso de reconsideración que se interponga en contra de sus resoluciones;
-
-IX. Recabar e integrar la documentación y comprobación necesaria para ejercitar las acciones legales en el ámbito penal que procedan como resultado de las irregularidades que se detecten en la revisión, auditorías o visitas que practiquen;
-
-X. Promover en ausencia del Fiscal Superior o por instrucciones de éste, ante las autoridades competentes previa determinación de la existencia de actos o hechos irregulares, el fincamiento de otras responsabilidades en que incurran los servidores públicos de los Poderes del Estado, de los Ayuntamientos y de los entes públicos locales fiscalizables;
-
-XI. Formular el proyecto de Informe del Resultado de la revisión de la Cuenta Pública, así como de los demás documentos que se le indiquen;
-
-XII. Solicitar opinión o consulta, cuando lo estime pertinente, a las unidades administrativas que orgánicamente conforman al Congreso del Estado, atendiéndose el asunto de que se tratare;
-
-XIII. Expedir en los términos previstos en esta ley, certificaciones de los documentos que obren en sus archivos; y
-
-XIV. Las demás que señale la Ley, el Reglamento Interior y demás disposiciones aplicables.
+(DEROGADO, P.O. 4 DE JULIO DE 2009)
 
 ###### Artículo 80.
 
-El Órgano Superior de Fiscalización del Estado, contará con una Unidad de Asuntos Jurídicos, cuyo titular tendrá las siguientes atribuciones:
-
-I. Asesorar y apoyar en materia jurídica al titular del Órgano y al Fiscal Especial, así como actuar como su órgano de consulta;
-
-II. Instruir el recurso de reconsideración previsto en esta Ley;
-
-III. Ejercitar las acciones judiciales, civiles y contencioso-administrativas en los juicios en los que el Órgano sea parte, contestar demandas, presentar pruebas y alegatos, y actuar en defensa de los intereses jurídicos del propio Órgano, dando el debido seguimiento a los procesos y juicios en que actúe;
-
-IV. Representar al Órgano Superior de Fiscalización del Estado ante el Tribunal de Conciliación y Arbitraje en los conflictos que se susciten con los servidores públicos de su adscripción, con motivo de la aplicación de la Ley de los Trabajadores al Servicio del Estado;
-
-V. Elaborar los documentos necesarios para que el Órgano, previa autorización, presente denuncias y querellas penales en el caso de conductas que pudieran constituir ilícitos en contra de la Hacienda Pública Estatal o Municipal o el patrimonio de los entes públicos fiscalizables, así como para que promueva ante las autoridades competentes el fincamiento de otras responsabilidades;
-
-VI. Asesorar y expedir lineamientos sobre el levantamiento de las actas administrativas que procedan como resultado de las visitas, inspecciones y auditorías que practique el Órgano Superior de Fiscalización del Estado;
-
-VII. Expedir, en ausencia del Fiscal Superior o del Fiscal Especial conforme lo ordenado en esta Ley, las copias certificadas de los documentos que obren en los archivos del Órgano Superior de Fiscalización; y
-
-VIII. Las demás que señale la ley, y otras disposiciones aplicables.
+(DEROGADO, P.O. 4 DE JULIO DE 2009)
 
 ###### Artículo 81.
 
-El Órgano Superior de Fiscalización del Estado contará con una Unidad de Administración que tendrá las siguientes atribuciones:
-
-I. Administrar los recursos financieros, humanos y materiales del Órgano de conformidad con las disposiciones legales y reglamentarias que la rijan y con las políticas y normas emitidas al respecto;
-
-II. Prestar los servicios que en general se requieran para el debido funcionamiento de las instalaciones en que se encuentre operando el Órgano;
-
-III. Preparar el anteproyecto de presupuesto anual del Órgano Superior de Fiscalización del Estado, ejercer y glosar el ejercicio del presupuesto autorizado y elaborar la cuenta comprobada de su aplicación, que se consolidará a la del H. Congreso del Estado, así como implementar y mantener un sistema de contabilidad en la institución, que permita registrar el conjunto de operaciones que requiera su propia administración;
-
-IV. Adquirir, conforme a la normatividad aplicable, los bienes y servicios y celebrar los contratos que permitan suministrar los recursos materiales que solicitan sus unidades administrativas para su debido funcionamiento; y
-
-V. Las demás que le señale el Fiscal Superior y las disposiciones legales y administrativas aplicables.
+(DEROGADO, P.O. 4 DE JULIO DE 2009)
 
 ###### Artículo 82.
 
@@ -817,11 +957,11 @@ VII. Aceptar la injerencia de los partidos políticos en el ejercicio de sus fun
 
 VIII. Por incurrir en irregularidades en el ejercicio de sus facultades.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
+
 ###### Artículo 84.
 
 El Congreso, dictaminará sobre la existencia de los motivos de la remoción del Fiscal Superior por causas graves de responsabilidad administrativa, y deberá dar derecho de audiencia al afectado. La remoción requerirá del voto de las dos terceras partes de los miembros presentes.
-
-El Fiscal Especial podrá ser removido por incurrir en cualquiera de las causas graves a que se refiere el artículo anterior; a solicitud motivada del Fiscal Superior, a petición de las Comisiones Inspectoras, y por acuerdo unánime o mayoritario del Órgano de Gobierno.
 
 ###### Artículo 85.
 
@@ -849,67 +989,39 @@ Son trabajadores de base los que desempeñen labores en puestos no incluidos en 
 
 La relación jurídica de trabajo se entiende establecida entre el Órgano Superior de Fiscalización del Estado, a través de su titular y los trabajadores a su servicio para todos los efectos.
 
-### Capítulo II. De la Vigilancia del Órgano Superior de Fiscalización del Estado
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE JULIO DE 2009)</small>
+
+### Capitulo II. De las Responsabilidades de los Servidores Públicos del Órgano Superior de Fiscalización del Estado
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
 
 ###### Artículo 91.
 
-El Fiscal Superior, el Fiscal Especial y los demás servidores públicos del Órgano Superior de Fiscalización del Estado en el desempeño de sus funciones, se sujetarán a la Ley de Responsabilidades de los Servidores Públicos del Estado, a lo establecido en esta Ley y a las demás disposiciones legales aplicables.
+El Fiscal Superior y los demás servidores públicos del Órgano, en el desempeño de sus funciones, se sujetarán a la Ley de Responsabilidades de los Servidores Públicos del Estado, a lo establecido en esta Ley y a las demás disposiciones legales aplicables, correspondiéndole al Fiscal Superior, conocer y resolver los procedimientos de responsabilidades administrativas, aplicando en su caso, las medidas disciplinarias y sanciones que en derecho procedan.
 
 ###### Artículo 92.
 
-Para los efectos de las fracciones IV y V del artículo 71 de esta Ley, el Órgano de Gobierno contará con una unidad especializada de vigilar el estricto cumplimiento de las funciones a cargo de los servidores públicos del Órgano Superior de Fiscalización del Estado, a fin de aplicar, en su caso, las medidas disciplinarias y sanciones administrativas previstas en los ordenamientos citados en el artículo anterior, que se denominará Dirección de Control y Evaluación.
+(DEROGADO, P.O. 4 DE JULIO DE 2009)
 
 ###### Artículo 93.
 
-La Dirección de Control y Evaluación del Órgano de Gobierno para estos fines, tendrá las siguientes atribuciones:
-
-I. Vigilar que los servidores públicos del Órgano, se conduzcan en términos de lo dispuesto por esta Ley y demás disposiciones legales aplicables;
-
-II. A instancia del Órgano de Gobierno, por sí o por acuerdo derivado de petición de la Comisión Inspectora de Hacienda, podrá practicar por sí o a través de auditores externos, auditorías para verificar el desempeño, el cumplimiento de los objetivos y metas de los programas anuales del Órgano Superior, así como la debida aplicación de los recursos a cargo de ésta;
-
-III. Recibir quejas y denuncias derivadas del incumplimiento de las obligaciones por parte del Fiscal Superior, Fiscal Especial y demás servidores públicos del Órgano Superior de Fiscalización del Estado, iniciar investigaciones y, en su caso, con la aprobación del Órgano de Gobierno, y a excepción del Fiscal Superior y Fiscal Especial, fincar excepcionalmente a los servidores públicos de dicha adscripción, las responsabilidades a que hubiere lugar e imponer las sanciones que correspondan, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado;
-
-IV. Conocer y resolver el recurso que interpongan los servidores públicos sancionados conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado;
-
-V. Realizar la defensa jurídica de sus resoluciones ante las diversas instancias jurisdiccionales;
-
-VI. A instancia del Órgano de Gobierno, presentar denuncias o querellas ante la autoridad competente, en caso de detectar conductas presumiblemente constitutivas de delito, imputables a los servidores públicos del Órgano;
-
-VII. Llevar el registro y análisis de la situación patrimonial de los servidores públicos adscritos al Órgano Superior de Fiscalización del Estado;
-
-VIII. Conocer y resolver de las inconformidades que por actos administrativos de los servidores públicos del Órgano, presenten los proveedores o contratistas, por el incumplimiento de las disposiciones de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles, y en su caso, de la Ley de Obras Públicas del Estado; y
-
-IX. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias aplicables.
-
-Los Poderes del Estado, los Ayuntamientos y los demás entes públicos locales obligados a rendir Cuenta Pública tendrán la facultad de formular queja ante la Dirección de Control y Evaluación sobre los actos del Fiscal Superior o de cualquier otro servidor público del Órgano Superior de Fiscalización del Estado, que contravengan las disposiciones de esta Ley, en cuyo caso dicha Dirección sustanciará la investigación preliminar por vía especial, para dictaminar según el caso, si ha lugar a iniciar el procedimiento de remoción a que se refiere este ordenamiento, o bien el previsto en la Ley de Responsabilidades de los Servidores Públicos, notificando al quejoso el dictamen correspondiente.
+(DEROGADO, P.O. 4 DE JULIO DE 2009)
 
 ###### Artículo 94.
 
-El titular de la Dirección de Control y Evaluación del Órgano de Gobierno, será designado por éste, mediante el voto mayoritario o unánime de sus miembros presentes en la sesión respectiva, debiendo cumplir la persona designada, los requisitos que se establecen para ser Fiscal Superior.
+(DEROGADO, P.O. 4 DE JULIO DE 2009)
 
 ###### Artículo 95.
 
-El titular de la Dirección de Control y Evaluación, sin perjuicio de sus obligaciones, será responsable administrativamente ante el Congreso, al cual deberá rendir un informe escrito anual de su gestión, con independencia de que pueda ser citado extraordinariamente por éste, cuando así se requiera, para dar cuenta del ejercicio de sus funciones.
+(DEROGADO, P.O. 4 DE JULIO DE 2009)
 
 ###### Artículo 96.
 
-Son atribuciones del Director de Control y Evaluación:
-
-I. Planear, programar y efectuar auditorías, inspecciones o visitas a las diversas áreas administrativas que integran el Órgano Superior de Fiscalización del Estado;
-
-II. Recibir, tramitar y resolver las solicitudes, quejas o denuncias de los particulares, relacionadas con servidores públicos del Órgano, en términos de lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado;
-
-III. Requerir a las Direcciones o unidades administrativas del Órgano Superior de Fiscalización del Estado, la información necesaria para cumplir con sus atribuciones;
-
-IV. A instancias de autoridades competentes, expedir certificaciones de los documentos que obren en sus archivos; y
-
-V. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias aplicables.
+(DEROGADO, P.O. 4 DE JULIO DE 2009)
 
 ###### Artículo 97.
 
-Para el ejercicio de las atribuciones que tiene conferidas la Dirección de Control y Evaluación, contará con los servidores públicos, las unidades administrativas y los recursos materiales, que apruebe el Órgano de Gobierno del Congreso y se determinen en el presupuesto.
-
-El Reglamento que sobre dicha Dirección expida el Congreso, establecerá la competencia de las unidades administrativas que sean indispensables para el debido funcionamiento de la misma.
+(DEROGADO, P.O. 4 DE JULIO DE 2009)
 
 ## TRANSITORIOS
 
@@ -958,3 +1070,15 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE JULIO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales de igual rango naturaleza y administrativas que se opongan al presente Decreto.
+
+TERCERO.- El Reglamento Interior del Órgano Superior de Fiscalización del Estado de Tabasco, publicado mediante decreto 014 de fecha 07 de diciembre de 2004, se abroga a partir de que entre en vigor el nuevo Reglamento Interior que se expida en términos de la presente ley.
+
+CUARTO.- El titular del Poder Ejecutivo Estatal y el Congreso del Estado, en sus respectivos ámbitos de competencia, deberán tomar las previsiones administrativas y legislativas correspondientes, para incluir en el Presupuesto General de Egresos del Estado para el ejercicio fiscal 2010, la parte que le corresponde al Órgano Superior de Fiscalización y que a partir de ese año, le será entregada por la Secretaría de Administración y Finanzas, para su ejercicio directo, de conformidad con el calendario correspondiente.
