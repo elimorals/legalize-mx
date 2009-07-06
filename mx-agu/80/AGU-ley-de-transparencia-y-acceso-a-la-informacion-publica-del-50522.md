@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5052
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-22"
-last_updated: "2006-05-22"
+last_updated: "2009-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 22 de mayo de 2006.
 
@@ -799,9 +799,17 @@ e).- Impedir u obstaculizar el ejercicio de los derechos de acceso, oposición, 
 
 f).- Mantener los archivos locales, programas o equipos que contengan datos de carácter personal sin las debidas condiciones de seguridad para su resguardo;
 
-g).- Obstruir el ejercicio de la función inspectora; y
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2009)</small>
 
-h).- Negar o limitar el derecho de acceso a la información cuando no aplique como sustento de dicha negativa el carácter de reserva o confidencialidad a la información solicitada.
+g).- Obstruir el ejercicio de la función inspectora;
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2009)</small>
+
+h).- Negar o limitar el derecho de acceso a la información cuando no aplique como sustento de dicha negativa el carácter de reserva o confidencialidad a la información solicitada; e
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2009)</small>
+
+i).- La reincidencia en la falta de actualización o publicación de la información a que se refiere el Artículo 9° de esta Ley.
 
 III.- Son infracciones muy graves:
 
@@ -825,7 +833,9 @@ i).- Reiterar la negativa de acceso o limitación al derecho de acceso a la info
 
 El Instituto, deberá dictar una resolución estableciendo las medidas que se deben tomar a fin de corregir los efectos de la infracción. Esta resolución se notificará al titular de la dependencia al que corresponda y a los afectados.
 
-Las medidas que adopte la dependencia pública a la que se refiere el inciso anterior, a fin de cesar o corregir los efectos, deberá notificarlas al Instituto.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2009)</small>
+
+Las medidas que adopten (sic) la dependencia pública a la que se refiere el párrafo anterior, a fin de cesar o corregir los efectos, deberá notificarlas al Instituto.
 
 ###### Artículo 72.
 
@@ -844,6 +854,10 @@ En ningún caso podrá imponerse una sanción más grave que la fijada por la Le
 Si, en razón de las circunstancias concurrentes, se apreciara una disminución de la culpabilidad del imputado o de la antijuricidad del hecho, el Instituto establecerá la cuantía de la sanción, aplicando la escala relativa a la clase de infracciones que proceda inmediatamente en gravedad a aquella en que se integra la considerada en el caso de que se trate.
 
 Los recursos que se obtengan por la imposición de las sanciones serán depositados en un fideicomiso público de promoción y difusión de la cultura del acceso a la información pública.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2009)</small>
+
+Artículo 72 bis.- La reincidencia en las infracciones marcadas como muy graves en esta Ley, serán consideradas como causal de rescisión del funcionario público.
 
 ###### Artículo 73.
 
@@ -908,3 +922,11 @@ Luis Armando Reynoso Femat.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Jorge Mauricio Martínez Estebanez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE JULIO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
