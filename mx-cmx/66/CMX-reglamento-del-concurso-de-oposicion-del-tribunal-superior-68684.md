@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-concurso-de-oposicion-del-tribunal-superior-6868
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-03"
-last_updated: "2009-06-03"
+last_updated: "2009-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68684&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-08-11"
 
 REGLAMENTO DEL CONCURSO DE OPOSICION DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE JULIO DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 3 de agosto de 2004.
 
@@ -46,13 +46,21 @@ El presente Reglamento tiene por objeto establecer las disposiciones que precisa
 
 Las plazas vacantes en las que deba designarse Juez de Primera Instancia o de Paz, mediante nombramiento definitivo o con carácter interino, sea por ausencia por más de un mes o por definitiva de éstos, se cubrirán de conformidad con lo que disponen los artículos 76, 77 y 190 de la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal.
 
-> <small>(ADICIONADO, G.O. 3 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, G.O. 6 DE JULIO DE 2009)</small>
 
-De igual forma, a fin de contar con personal que pueda ocupar juzgados de nueva creación, podrá convocarse a concurso plazas que no se encuentren vacantes, quedando pendiente la adscripción de los vencedores en el momento que así lo determine el Consejo de la Judicatura del Distrito Federal.
+El Pleno del Consejo de la Judicatura del Distrito Federal, determinará de conformidad con el párrafo anterior, las plazas que entrarán a concurso, dando prioridad a los servidores públicos judiciales que ya laboran en los órganos judiciales y dependencias del Tribunal Superior de Justicia del Distrito Federal y del Consejo de la Judicatura del Distrito Federal.
 
-> <small>(REFORMADO, G.O. 3 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, G.O. 6 DE JULIO DE 2009)</small>
 
-El Pleno del Consejo de la Judicatura del Distrito Federal, determinará de conformidad con los párrafos anteriores, las plazas que entrarán a concurso, dando prioridad a los servidores públicos judiciales que ya laboran en los órganos judiciales y dependencias del Tribunal Superior de Justicia del Distrito Federal y del Consejo de la Judicatura del Distrito Federal y, en su caso, de aquellos profesionales del derecho que deseen ocupar dichos cargos.
+A fin de privilegiar la carrera judicial, así como de aperturar el sistema de selección para permitir participar a destacados abogados del foro o de la academia, entre otros, para que ingresen a la carrera judicial, lo que proporcionará al Tribunal Superior de Justicia del Distrito Federal la inclusión y enriquecimiento de criterios jurídicos para el desempeño de la función de impartir justicia; observando que el perfil del juzgador debe atender a los principios constitucionales de objetividad, imparcialidad, independencia, profesionalismo y excelencia, las convocatorias que el Pleno del Consejo de la Judicatura del Distrito Federal realice, podrán ser dirigidas:
+
+I. Exclusivamente para el personal del Tribunal Superior de Justicia y del Consejo de la Judicatura, ambos del Distrito Federal;
+
+II. Alguno o algunos de los cargos judiciales señalados en la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal;
+
+III. Únicamente a abogados que no formen parte del Tribunal Superior de Justicia del Distrito Federal o del Consejo de la Judicatura del Distrito Federal, o
+
+IV. Mixtas para las personas comprendidas en las fracciones anteriores.
 
 > <small>(REFORMADO, G.O. 3 DE JUNIO DE 2009)</small>
 
@@ -233,3 +241,9 @@ G.O. 3 DE JUNIO DE 2009.
 Primero. - El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal. Para su mayor difusión publíquese en la Gaceta Oficial del Distrito Federal, por una sola ocasión.
 
 Segundo. - Los Concursos de Oposición que se hayan iniciado con anterioridad a la entrada en vigor del presente Acuerdo, se regirán por la normatividad que se venía aplicando.
+
+G.O. 6 DE JULIO DE 2009.
+
+Artículo Primero. - Publíquese el presente Acuerdo General en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal, y para su mayor difusión en la Gaceta Oficial del Distrito Federal, por una sola ocasión.
+
+Artículo Segundo. - El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal.
