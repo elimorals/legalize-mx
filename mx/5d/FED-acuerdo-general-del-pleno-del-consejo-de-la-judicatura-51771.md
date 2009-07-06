@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51771"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2008-12-12"
+last_updated: "2009-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JULIO DE 2009.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -479,11 +479,13 @@ En ningún caso, al expedirse informe público, se hará mención de los procedi
 
 La Contraloría propondrá al Pleno, de oficio o previa denuncia o queja, el inicio de la investigación o, en su caso, del procedimiento de responsabilidad administrativa de los servidores públicos que hubieran sido nombrados por el Pleno. En los demás casos, la propia Contraloría dictará el proveído inicial, cualquiera que fuere su sentido.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL DIVERSO QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE JULIO DE 2009)</small>
+
 ###### Artículo 56.
 
-El Pleno podrá ordenar el inicio de un procedimiento de responsabilidad conforme a este Capítulo cuando, al emitir una resolución en materia de conflictos laborales, de conformidad con el artículo 81, fracción XXV, de la Ley, advierta que el titular de un órgano administrativo pudo haber cesado o despedido a un servidor público en notoria contravención a las disposiciones legales aplicables y mala fe.
+De conformidad con lo que al respecto establecen los artículos 109, fracción III y 113 de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, la Ley y el presente Acuerdo, el Pleno podrá ordenar el inicio de un procedimiento de responsabilidad conforme a este Capítulo cuando, al emitir una resolución en materia de conflictos laborales, de conformidad con el artículo 81, fracción XXV, de la Ley, advierta que el titular de un órgano administrativo pudo haber cesado o despedido a un servidor público en notoria contravención a las disposiciones legales aplicables y mala fe.
 
-En caso de resultar procedente la causa de responsabilidad, se estará a lo dispuesto en el segundo párrafo del artículo 89 de este Acuerdo.
+En caso de resultar procedente la causa de responsabilidad, se estará a lo dispuesto por el artículo 89 de este Acuerdo.
 
 #### Sección II. De la Investigación de las Responsabilidades Administrativas
 
@@ -689,11 +691,17 @@ La Secretaría Ejecutiva de Disciplina podrá certificar, por conducto de su tit
 
 La Secretaría Ejecutiva de Disciplina dará cuenta al Presidente, de oficio o previa denuncia o queja, sobre el inicio del procedimiento de responsabilidad administrativa de magistrados de circuito y jueces de distrito.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL DIVERSO QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE JULIO DE 2009)</small>
+
 ###### Artículo 89.
 
-El Pleno podrá ordenar el inicio de un procedimiento de responsabilidad conforme a este Capítulo cuando, al emitir una resolución en materia de conflictos laborales, de conformidad con el artículo 81, fracción XXV, de la Ley, advierta que el titular de un órgano jurisdiccional pudo haber cesado o despedido a un servidor público en notoria contravención a las disposiciones legales aplicables y mala fe.
+De conformidad con lo que al respecto establecen los artículos 109, fracción III y 113 de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, la Ley y el presente Acuerdo, el Pleno podrá ordenar el inicio de un procedimiento de responsabilidad conforme a este Capítulo cuando, al emitir una resolución en materia de conflictos laborales, de conformidad con el artículo 81, fracción XXV, de la Ley, advierta que el titular de un órgano jurisdiccional pudo haber cesado o despedido a un servidor público en notoria contravención a las disposiciones legales aplicables y mala fe.
 
-En caso de resultar procedente la causa de responsabilidad, se impondrá una sanción económica al titular mencionado, la cual podrá ser de hasta el cincuenta por ciento del perjuicio causado al Poder Judicial de la Federación. En caso de imponerse la referida sanción, se ordenará a la Dirección General de Recursos Humanos del Consejo que aplique los descuentos quincenales que procedan, los que no podrán exceder del veinticinco por ciento del sueldo, hasta que cubra la totalidad.
+Una vez sustanciado el procedimiento de responsabilidad y cumplidas las formalidades legales y normativas correspondientes, en caso de que se compruebe que el servidor público incurrió en alguna de las causas de responsabilidad previstas en las fracciones VIII y XI del artículo 131 de la Ley, en relación con el artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, se pondrán a consideración del propio Pleno para que éste determine la sanción que corresponda, en apego a lo dispuesto por el artículo 39 de este Acuerdo.
+
+Para la aplicación de la sanción económica que, en su caso, se imponga, se ordenará a la Dirección General de Recursos Humanos del Consejo que aplique los descuentos quincenales que correspondan, los que no podrán exceder del veinticinco por ciento del sueldo del servidor público respectivo, hasta que se cubra la totalidad de la sanción.
+
+En el caso de servidores públicos sancionados que hayan dejado de prestar servicios para el Consejo, se procederá al inicio del procedimiento económico coactivo, de conformidad con lo previsto por el artículo 126-A, fracción IV, del presente Acuerdo.
 
 #### Sección II. De la Investigación de las Responsabilidades Administrativas
 
@@ -1536,3 +1544,13 @@ PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta los Procedimientos de Responsabilidad Administrativa y el Seguimiento de la Situación Patrimonial.
+
+D.O.F. 6 DE JULIO DE 2009.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El contenido de la presente reforma será aplicable en los conflictos laborales que se pongan a consideración del Pleno, a partir de su entrada en vigor.
+
+TERCERO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+CUARTO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta los Procedimientos de Responsabilidad Administrativa y el Seguimiento de la Situación Patrimonial.
