@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-41761"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-04"
-last_updated: "1998-12-04"
+last_updated: "2009-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE GENERAL BRAVO, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 4 de diciembre de 1998.
 
@@ -357,7 +357,9 @@ Si el infractor que se hiciere acreedor a una multa, fuese obrero, campesino, jo
 
 La calidad de jornalero, obrero o trabajador; podrá demostrarse con cualquier documento fehaciente que compruebe el tipo de actividad que realiza de manera preponderante.
 
-Los infractores a que se hace referencia en los párrafos anteriores, tendrán un período de 24-veinticuatro horas para demostrar su calidad de jornaleros, obreros o trabajadores no asalariados, ante la Autoridad Municipal.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2009)</small>
+
+Los infractores a que se hace referencia en los párrafos anteriores tendrán un período de 36-treinta y seis horas, para demostrar su calidad de jornaleros, obreros o trabajadores no asalariados, ante la Autoridad Municipal.
 
 ###### Art. 30.
 
@@ -365,7 +367,7 @@ La Autoridad Municipal, tendrá la facultad para decidir, según su criterio y c
 
 ###### Art. 31.
 
-Si el .infractor no paga la multa impuesta, ésta se conmutará por arresto, que en ningún caso excederá de 36-treinta y seis horas.
+Si el infractor no paga la multa impuesta, ésta se conmutará por arresto, que en ningún caso excederá de 36-treinta y seis horas.
 
 ###### Art. 32.
 
@@ -379,7 +381,9 @@ Si el infractor fuese reincidente, al haber incurrido en la comisión de idénti
 
 Si como resultado de la comisión de una infracción se originaran daños al patrimonio municipal o se tuviere que realizar alguna erogación extraordinaria para efectos de restablecer las cosas a su estado original, los gastos erogados serán a cargo del infractor.
 
-El infractor deberá cubrir primeramente los daños causados a la propiedad municipal. Para los efectos de este artículo, la Autoridad Municipal en un término no mayor de 12-doce horas a partir del momento de la infracción consultará a perito valuador sobre el monto de los daños originados.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2009)</small>
+
+El infractor deberá cubrir primeramente los daños causados a la propiedad Municipal. Para los efectos de este artículo, la Autoridad Municipal en un término no mayor de 24-veinticuatro horas, a partir del momento de la infracción consultará a perito valuador sobre el monto de los daños originados.
 
 ###### Art. 35.
 
@@ -473,7 +477,9 @@ Si las infracciones a que se refiere este ordenamiento y demás normas de carác
 
 Si el presunto infractor no se encuentra detenido, será citado en forma personal, fundando y motivando su comparecencia, a fin de que responda de los cargos que se le hacen; en caso de no justificar su incomparecencia se estará a lo siguiente:
 
-a) Se enviará un segundo citatorio; en caso de no comparecer, será sancionado con el equivalente a un día de salario, y se le citará de nueva cuenta.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2009)</small>
+
+a) Se enviará un segundo citatorio; En caso de no comparecer, será sancionado con el equivalente a un día de salario mínimo establecido en la Ciudad de Monterrey, y se le citará de nueva cuenta.
 
 b) En caso de no comparecer al tercer citatorio, se dictará un arresto hasta por 12-doce horas.
 
@@ -535,9 +541,11 @@ VIII. El lugar y la fecha de promoción.
 
 IX. Deberá firmarse por el recurrente o por su representante: debidamente acreditado
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2009)</small>
+
 ###### Art. 57.
 
-El término para el desahogo de las pruebas ofrecidas, lo será el de 5-cinco días, contados a partir del día siguiente de hecha tal solicitud.
+El término para el desahogo de las pruebas ofrecidas, lo será el de 5-cinco días hábiles, contados a partir del día siguiente de hecha tal solicitud.
 
 ###### Art. 58.
 
@@ -568,3 +576,13 @@ PRESIDENTE MUNICIPAL.
 C. Q.F.B. LUIS A. MARTINEZ RODRIGUEZ
 
 SECRETARIO DEL R. AYUNTAMIENTO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 6 DE JULIO DE 2009.
+
+PRIMERO.- Estas modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normas que contravengan el contenido de las presentes modificaciones.
+
+TERCERO.- Envíese al C. Secretario General de Gobierno, para su debida publicación en el Periódico Oficial del Estado de Nuevo León.
