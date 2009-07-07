@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-ninas-y-ninos-en-el-estado-de-21996"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-05"
-last_updated: "2006-09-06"
+last_updated: "2009-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS Y NIÑOS EN EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 5 de junio del 2001.
 
@@ -191,7 +191,9 @@ a).- A la identidad, tomando como base el conjunto de atributos y derechos de la
 
 b).- A ser registrados después de su nacimiento, con un nombre y apellidos propios, de conformidad con lo establecido en la legislación civil;
 
-c).- A solicitar y recibir información sobre su origen, sobre la identidad de sus padres;
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
+
+c).- A solicitar y recibir información sobre su origen, sobre la identidad de sus padres y a conocer su origen genético;
 
 d).- A vivir y crecer en el seno de una familia, conocer a sus progenitores y mantener relaciones personales y contacto directo con ellos, aún en el caso de estar separados, salvo si es contrario al interés superior de ellos;
 
@@ -876,3 +878,13 @@ P.O. 6 DE SEPTIEMBRE DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JULIO DE 2009.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
