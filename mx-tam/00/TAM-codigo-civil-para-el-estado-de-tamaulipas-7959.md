@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2008-06-24"
+last_updated: "2009-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2009.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -1437,11 +1437,13 @@ IV.- En escritura pública;
 
 V.- En testamento;
 
-VI.- Por confesión judicial directa y expresa.
+VI.- Por confesión judicial directa y expresa;
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2009)</small>
 
-El reconocimiento practicado de manera diferente a las enumeradas no producirá ningún efecto, pero podrá ser utilizado como indicio en un juicio de investigación de paternidad o maternidad.
+VII.- Por sentencia firme, en el caso de negativa del demandado a someterse a la prueba biológica molecular de la caracterización del ácido desoxirribonucleico de sus células.
+
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 7 DE JULIO DE 2009)</small>
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -1498,6 +1500,14 @@ IV.- Cuando el hijo tenga a su favor un principio de prueba contra el pretendido
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
 Si se propusiera cualquier prueba biológica o proveniente del avance de los conocimientos científicos y el presunto progenitor se niegue a proporcionar la muestra necesaria, se presumirá, salvo prueba en contrario, que es el padre.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2009)</small>
+
+Si una vez practicada la prueba, se obtiene como resultado la no paternidad o maternidad a quien se le imputa, ésta tendrá derecho a demandar una indemnización en contra del promovente, por concepto de daños y perjuicios.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2009)</small>
+
+ART. 347 BIS.- Generada la presunción de la filiación, en actos prejudiciales, podrá decretarse pensión alimenticia, como medida provisional y de protección, a cargo del presunto progenitor y a favor de (sic) pretendido hijo, al admitirse la demanda correspondiente.
 
 ART. 348.- La posesión de estado, para los efectos de los artículos 318 y 347, fracción II, se justificará demostrando por los medios ordinarios de prueba, que el hijo ha sido tratado por el presunto padre o por la familia de éste, como hijo del primero, o que el presunto padre ha proveído a su subsistencia y educación o establecimiento.
 
@@ -9952,3 +9962,13 @@ La presente Ley se publicará en el Periódico Oficial del Estado y entrará en 
 ###### ARTICULO SEGUNDO.
 
 Se abroga la Ley de Prevención, Atención y Asistencia a la Violencia Intrafamiliar expedida mediante Decreto 27, del 27 de mayo de 1999, de la Quincuagésima Séptima Legislatura, publicada en el Periódico Oficial del Estado número 45, con fecha 5 de junio de 1999, y sus reformas y adiciones contenidas en los Decretos LIX-547, del 9 de mayo de 2006 y publicado en el Periódico Oficial del Estado número 66, del 1 de junio de 2006; LIX-563, del 8 de agosto de 2006; y LIX-1084, del 3 de diciembre de 2007 y publicado en el Periódico Oficial del Estado número 4, del 8 de enero de 2008.
+
+P.O. 7 DE JULIO DE 2009.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
