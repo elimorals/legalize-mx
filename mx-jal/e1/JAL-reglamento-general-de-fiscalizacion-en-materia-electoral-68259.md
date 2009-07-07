@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-general-de-fiscalizacion-en-materia-electoral-68259"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-09"
-last_updated: "2009-04-23"
+last_updated: "2009-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68259&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO GENERAL DE FISCALIZACION EN MATERIA ELECTORAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2009.
 
 Reglamento publicado en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 9 de abril de 2009.
 
@@ -1793,7 +1793,7 @@ I. En el caso de los partidos políticos nacionales:
 
 a) El mismo día en que el IFE informe al Secretario Ejecutivo qué partidos políticos se encuentren sujetos a período preventivo conforme a las disposiciones legales correspondientes;
 
-b) Una vez que quede firme la declaratoria de que no alcanzaron en la última elección de Diputados locales por el principio de mayoría relativa, el tres punto cinco por ciento de la votación total emitida, en términos de los artículos 46, párrafo 1 y 56 del Código.
+b) (DEROGADO, P.O. 7 DE JULIO DE 2009)
 
 II. En el caso de los partidos políticos estatales, cuando exista la declaratoria formal, emitida por el órgano facultado para ello, de que se encuentran en alguno de los supuestos señalados por el artículo 111 del Código.
 
@@ -1985,7 +1985,9 @@ Avalúos y enajenaciones
 
 4. El interventor deberá exigir que el pago que cualquier persona efectué por los bienes o derechos en venta, sea depositado en la cuenta referida en el artículo 61.2 de este Reglamento, al tiempo que deberá observar las reglas previstas en el libro segundo de este Reglamento.
 
-5. Cuando el monto del pago sea superior a los doscientos días de salario mínimo general vigente para el (sic) la zona metropolitana de Guadalajara, se deberá realizar mediante cheque o transferencia electrónica de la cuenta personal del adquirente y depositado en la cuenta bancaria señalada en el artículo 61.2 de este Reglamento. En la ficha correspondiente se deberá asentar el nombre y la firma del depositante.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
+
+5. Cuando el monto del pago sea superior a los doscientos días de salario mínimo general vigente para la zona metropolitana de Guadalajara, se deberá realizar mediante cheque o transferencia electrónica de la cuenta personal del adquirente y depositado en la cuenta bancaria señalada en el artículo 61.2 de este Reglamento. En la ficha correspondiente se deberá asentar el nombre y la firma del depositante.
 
 6. En todo caso, el interventor deberá conservar la ficha de depósito original o comprobante de transferencia para efectos de comprobación del pago y deberá llevar una relación de los bienes liquidados. Los ingresos en efectivo deberán relacionarse y estar sustentados con la documentación original correspondiente. Asimismo, todos los egresos deberán estar relacionados y soportados con la documentación original correspondiente, en términos del libro segundo de este Reglamento.
 
@@ -2598,6 +2600,18 @@ Secretario Ejecutivo
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 23 DE ABRIL DE 2009.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL DEL ESTADO DE JALISCO.
+
+SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO. Se aprueban las modificaciones al Reglamento General de Fiscalización en Materia Electoral del Estado de Jalisco, en los términos del ANEXO que se acompaña al presente acuerdo como parte integral del mismo.
+
+SEGUNDO. Notifíquese con copia simple del presente acuerdo y su ANEXO a los partidos políticos acreditados ante este instituto electoral.
+
+TERCERO. Publíquese el presente acuerdo y su ANEXO en el Periódico Oficial "El Estado de Jalisco", así como en el portal de internet oficial de este organismo electoral.
+
+P.O. 7 DE JULIO DE 2009.
 
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL DEL ESTADO DE JALISCO.
 
