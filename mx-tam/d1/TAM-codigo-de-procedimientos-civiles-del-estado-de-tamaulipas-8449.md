@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-civiles-del-estado-de-tamaulipas-8449"
 country: "mx"
 rank: "codigo"
 publication_date: "1961-10-04"
-last_updated: "2008-12-23"
+last_updated: "2009-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el 4 de octubre de 1961.
 
@@ -105,7 +105,13 @@ Cuando se verifiquen estos cambios con infracción de lo dispuesto en el párraf
 
 Las instituciones, servicios y dependencias de la administración pública, sea federal, estatal o municipal, tendrán dentro del procedimiento judicial, en cualquier forma en que intervengan, la misma situación que cualquiera otra parte; sin embargo, no podrá dictarse en su contra mandamiento de ejecución ni providencia de embargo, y estarán exentas de prestar las garantías que este Código exige a las partes.
 
-Las resoluciones dictadas en contra de los referidos organismos serán cumplimentados por las autoridades correspondientes dentro de los límites de sus atribuciones.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
+
+Las resoluciones dictadas en contra de los referidos organismos que no admitan recurso alguno previsto por la ley, y que no contengan obligaciones de carácter pecuniario, serán cumplimentadas por las autoridades condenadas dentro de los términos que fije el presente código; en los casos en que se condenen al pago de cantidades líquidas, dicha condena será incluida a más tardar en el presupuesto de egresos del año inmediato siguiente a la fecha de emisión de la resolución.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2009)</small>
+
+La omisión en ambos casos traerá como consecuencia la ejecución forzosa en los términos del presente Código.
 
 ###### ARTICULO 11.
 
@@ -271,7 +277,9 @@ Los autos que se perdieren serán repuestos a costa del responsable de la pérdi
 
 La reposición se substanciará en la vía incidental, y, sin necesidad de acuerdo judicial, el secretario hará constar, desde luego, la existencia anterior y falta posterior del expediente.
 
-Los jueces están autorizados para investigar de oficio la preexistencia de las piezas de autos desaparecidas, valiéndose para ello de todos los medios que no sean contrarios a la moral o al Derecho.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
+
+Los jueces están autorizados para investigar de oficio la preexistencia de las piezas de autos desaparecidas, valiéndose para ello de todos los medios que no sean contrarios a la moral o al derecho, incluidos los registros y archivos electrónicos que consten en los medios de almacenamiento electrónicos del Poder Judicial del Estado.
 
 Las partes están obligadas a aportar para la reposición de los expedientes, las copias de documentos, escritos, diligencias o resoluciones judiciales que obren en su poder, y el juez tendrá las más amplias facultades para usar de los medios de apremio que autoriza la ley.
 
@@ -291,9 +299,13 @@ Los magistrados del Supremo Tribunal y los jueces presidirán los actos de prueb
 
 Los magistrados, sin embargo, podrán encomendar a los jueces de primera instancia y menores, y los segundos a los últimos, la práctica de las diligencias expresadas en el artículo anterior, cuando deban tener lugar en población o lugar que no sea de su residencia. Igual procedimiento se seguirá para las demás actuaciones que hayan de efectuarse fuera de la jurisdicción del tribunal que conozca del negocio.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 29.
 
-Todas las diligencias que hayan de practicarse por el actuario o por cualquier funcionario judicial fuera de la oficina se ejecutarán cuando los interesados proporcionen los medios de conducción.
+Todas las diligencias que hayan de practicarse por el actuario o por cualquier funcionario judicial fuera de la oficina se ejecutarán de oficio, con excepción del emplazamiento a juicio a la parte demandada y las que impliquen ejecución, las que necesariamente serán agendadas a instancia del interesado.
+
+Se hará acreedor a una multa de hasta sesenta días de salario mínimo, quien habiendo solicitado la notificación de un auto, que por su naturaleza requiera su intervención al momento de la diligencia, no concurra en la fecha y hora programada, hecho que será asentado por el funcionario judicial respectivo con vista a quien ordenó la notificación.
 
 ###### ARTICULO 30.
 
@@ -549,15 +561,15 @@ La lista de acuerdos se fijará todos los días en el mismo lugar de la Secretar
 
 La lista de acuerdos se hará por triplicado y contendrá, además de los datos ya indicados, el lugar, fecha, sello del tribunal y firma del secretario. El original se fijará en el lugar de costumbre, una copia se entregará al juez, y la otra será enviada el mismo día y por correo de primera clase, al Supremo Tribunal de Justicia.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 66.
 
-Todos los litigantes, en el primer escrito o en la primera diligencia judicial, deberán designar casa ubicada en el lugar del juicio para que se les hagan las notificaciones y se practiquen las diligencias necesarias. Igualmente deberán designar el domicilio en que ha de hacerse la primera notificación a la persona o personas contra quienes promuevan.
+Todos los litigantes, en el primer escrito o en la primera diligencia judicial, deberán designar domicilio ubicado en el lugar del juicio para que se les hagan las notificaciones y se practiquen las diligencias necesarias. Igualmente deberán designar el domicilio en que ha de hacerse la primer notificación a la persona o personas contra quienes promuevan, señalando en ambos casos, el nombre oficial de la calle, las calles entre las que se ubica el domicilio, la numeración oficial que le corresponda, la Zona, Colonia o Fraccionamiento, así como el código postal, de conformidad con las asignaciones del Servicio Postal Mexicano.
 
-> <small>(F. DE E., P.O. 4 DE OCTUBRE DE 1961)</small>
+Mientras las partes no hagan saber al tribunal el nuevo domicilio, en su caso, las notificaciones personales seguirán haciéndose en él que aparezca de autos, a menos que no exista, esté desocupado el local, o ante la negativa para recibirlas en el señalado, pues en los dos primeros supuestos las notificaciones surtirán efecto por medio de cédula fijada en la secretaría del propio tribunal, y en el último de los supuestos se deberá dejar o fijar la cédula respectiva en el propio domicilio.
 
-Cuando alguna de las partes no cumpla con lo prevenido en cuanto a designación de domicilio para recibir notificaciones, éstas, aun las que conforme a la ley deban hacerse personalmente, se harán por cédula fijada en lugar visible del juzgado; si omitieren la designación del domicilio de las personas contra quienes promueven, no se hará notificación alguna hasta que se subsane la omisión.
-
-Mientras las partes no hagan saber al tribunal el nuevo domicilio, en su caso, las notificaciones personales seguirán haciéndose en el que aparezca de autos, a menos que no exista o esté desocupado el local, pues en este supuesto las notificaciones surtirán efecto por medio de cédula fijada en la secretaría del propio tribunal.
+Se considerará como negativa a recibir una notificación, que el domicilio señalado para oír y recibir notificaciones se encuentre cerrado, y así lo haga constar el actuario o a quien se hubiese instruido para realizar la notificación, cuando menos en dos ocasiones en que se hubiese presentado al domicilio señalado.
 
 ###### ARTICULO 67.
 
@@ -594,6 +606,24 @@ IV.- Cuando se trate de casos urgentes o el juez o la ley así lo ordenen.
 Cuando variare el personal de un tribunal, no se proveerá acuerdo haciendo saber el cambio, sino que, al final de la primera resolución que se dicte después de ocurrido el cambio, se pondrán completos en renglón aparte, los nombres y apellidos de los nuevos funcionarios. Sólo que el cambio ocurriere cuando el negocio esté pendiente únicamente de la sentencia, se mandará hacerlo saber a las partes.
 
 Las notificaciones de que habla este artículo se harán precisamente en el domicilio de las personas a quienes correspondan, o en la casa designada para oírlas. Si el notificador no encontrare al interesado, le dejará cédula, en la que hará constar la fecha y hora en que la entrega, el nombre y apellido del promovente, el tribunal que manda practicar la diligencia; la determinación íntegramente transcrita que se manda notificar, y el nombre y apellido de la persona a quien se entrega, que será de las mencionadas en la fracción IV del artículo 67 recogiéndole la firma en la razón que asentará del acto, a menos que se rehusare a firmar o no supiere hacerlo; en estos casos se harán constar dichas circunstancias. De las sentencias únicamente se transcribirán los puntos resolutivos.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2009)</small>
+
+###### ARTICULO 68 Bis.
+
+Las partes podrán autorizar para oír y recibir notificaciones en su nombre, a una o varias personas con capacidad legal, quienes quedarán facultadas para interponer los recursos que procedan, ofrecer e intervenir en el desahogo de pruebas, intervenir en la diligenciación de exhortos, alegar en las audiencias, pedir se dicte sentencia o hacer promociones para evitar la consumación del término de caducidad por inactividad procesal y realizar cualquier acto que resulte necesario para la defensa de los derechos del autorizante, pero no podrá sustituir o delegar dichas facultades en un tercero. Las personas designadas conforme a la primera parte de este párrafo, deberán acreditar encontrarse legalmente autorizadas para ejercer la profesión de abogado, debiendo proporcionar los datos correspondientes al registro de su título profesional ante el Tribunal Superior de Justicia, en el entendido que el autorizado que no cumpla, perderá la facultad a que se refiere este artículo en perjuicio de la parte que lo hubiese designado, y únicamente tendrá las que se indican en el antepenúltimo párrafo de este artículo.
+
+Las personas autorizadas en los términos de este artículo serán responsables, ante quien las autorice, de los daños y perjuicios que causen de acuerdo a las disposiciones aplicables del Código Civil para el mandato y las demás relacionadas. Los autorizados podrán renunciar a dicha calidad, mediante escrito presentado al tribunal, haciendo saber las causas de la renuncia.
+
+Las partes podrán autorizar personas solamente para oír y recibir notificaciones e imponerse de los autos, quienes deberán ser cuando menos Pasantes en Derecho, y no gozarán de las demás facultades a que se refieren los párrafos anteriores.
+
+El juez al acordar lo relativo a la autorización a que se refiere este artículo, deberá expresar con toda claridad el alcance con el que se reconoce la autorización otorgada.
+
+Así mismo, las partes podrán solicitar la autorización para sí o por persona autorizada en los términos que establecen los párrafos anteriores, el acceso a la Página Electrónica que para tal efecto tiene el Poder Judicial del Estado, debiendo proporcionar el nombre del usuario previamente registrado en la base de datos del Órgano Jurisdiccional, lo que les permitirá consultar en forma completa el expediente electrónico.
+
+Igualmente, si así lo desean, las partes podrán autorizar que a través del correo electrónico, así como de la Página Web del Tribunal, se les realicen notificaciones, aún las de carácter personal, ordenadas con posterioridad a la fecha en que se otorgue este tipo de autorización, generándose en cada diligencia electrónica un registro que contendrá folio, juzgado, expediente, fecha y hora de cada notificación, el cual será agregado a los autos y se tendrá por legalmente practicada la notificación hecha por este medio, surtiendo sus efectos en los términos previstos por el artículo 63 de este Código.
+
+Se excluye de la anterior forma de notificación el emplazamiento a juicio y las demás que el juez así lo considere conveniente.
 
 ###### ARTICULO 69.
 
@@ -2127,7 +2157,9 @@ IV.- Reconocimiento, examen o inspección judicial;
 
 V.- Testigos;
 
-VI.- Fotografías, copias fotostáticas, registros dactiloscópicos, reproducciones, experimentos y, en general, todos aquellos elementos aportados por la ciencia;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2009)</small>
+
+VI.- Fotografías, copias fotostáticas, registros dactiloscópicos, reproducciones, experimentos, el análisis biológico molecular de la caracterización del ácido desoxirribonucleico y, en general, todos aquellos elementos aportados por la ciencia;
 
 VII.- Informes de las autoridades; y,
 
@@ -2214,6 +2246,10 @@ El juez puede dar por concluidos los términos común y extraordinario, o suspen
 ###### ARTICULO 301.
 
 La parte que hubiere pedido la dilación extraordinaria y no rindiese las pruebas propuestas para dicho objeto, o resultaren claramente inconducentes, será condenada a indemnizar a la contraria los daños y perjuicios que sufra por dicho motivo, y a pagar una multa hasta sesenta días de salario mínimo.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2009)</small>
+
+Habiéndose fijado día y hora para el desahogo de una prueba ofrecida por parte interesada, y ésta no proporcione los medios para su desahogo será sancionada con una multa de hasta sesenta días de salario mínimo vigente en la zona.
 
 ###### ARTICULO 302.
 
@@ -2729,11 +2765,13 @@ Con respecto a los hechos sobre que haya versado un examen de testigos y a los d
 
 ### CAPITULO VIII. FOTOGRAFIAS, ESCRITOS O NOTAS TAQUIGRAFICAS Y EN GENERAL TODOS AQUELLOS ELEMENTOS APORTADOS POR LOS DESCUBRIMIENTOS DE LA CIENCIA
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 379.
 
-Para acreditar hechos o circunstancias que tengan relación con el negocio que se ventile pueden las partes presentar fotografías, cintas cinematográficas, grabaciones u otros medios de reproducción y experimentos; asimismo registros dactiloscópicos, y, en general, cualesquiera otros elementos proporcionados por la ciencia que puedan producir convicción en el ánimo del Juez. También podrán presentarse notas taquigráficas, acompañándolas de traducción y haciendo especificación exacta del sistema empleado.
+Para acreditar hechos o circunstancias que tengan relación con el negocio que se ventile pueden las partes presentar fotografías, cintas cinematográficas, grabaciones u otros medios de reproducción y experimentos; asimismo registros dactiloscópicos, electrónicos, archivos magnéticos o electrónicos y, en general, cualesquiera otros elementos proporcionados por la ciencia que puedan producir convicción en el ánimo del Juez. También podrán presentarse notas taquigráficas, acompañándolas de traducción y haciendo especificación exacta del sistema empleado.
 
-Al ofrecer la prueba se indicarán los hechos o circunstancias que deseen probarse.
+En el caso de registros y archivos electrónicos, la parte oferente deberá expresar con toda exactitud el nombre completo del sistema operativo y del programa o aplicación que lo ejecuta, o en su lugar la página electrónica de la cual fue obtenido; el Juzgador, deberá requerir al oferente para que proporcione los medios necesarios para el desahogo de la probanza en el caso de que el Supremo Tribunal de Justicia no cuente con ellos; si los medios proporcionados al respecto resultaren inadecuados, la prueba en comento se declarará desierta.
 
 ###### ARTICULO 380.
 
@@ -3165,15 +3203,55 @@ Los derechos contemplados en el presente Capítulo, también podrán ejercerlos 
 
 El Juez determinará la situación de los hijos menores atendiendo a las circunstancias del caso, tomando en cuenta las obligaciones señaladas en el artículo 149 del Código Civil y las propuestas, si las hubiere, de los cónyuges.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 2009)</small>
+
+### CAPITULO V. DE LA INVESTIGACION DE LA FILlACION
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] Y REUBICADO, P.O. 7 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 433.
 
-(DEROGADO, P.O. 17 DE MAYO DE 1975)
+En los casos en que determina este Código, podrá prepararse la acción correspondiente a la investigación de la filiación a fin de determinar la paternidad o la maternidad, mediante el estudio del ADN, prueba biológica molecular de la caracterización del ácido desoxirribonucleico de las células, en la que deberán utilizarse las pruebas de mayor avance científico.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2009)</small>
+
+###### ARTICULO 433 Bis.
+
+Quien ejerza la patria potestad, la tutela, o tenga la custodia de un menor, el hijo mayor de edad e incluso el Ministerio Público, podrá solicitar al juez de lo familiar la práctica de la prueba biológica a que se hace referencia en el artículo precedente.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2009)</small>
+
+ARTICULO 433 Bis I.- Presentada la solicitud de investigación de la filiación, se resolverá sobre su admisión, ordenándose correr traslado, mediante notificación personal, a quien se le impute la misma a fin de que comparezca ante la autoridad dentro del término de tres días, para que manifieste su aceptación o negativa a dicha imputación. Para el caso de que se omita manifestación alguna por parte de la persona requerida, se entenderá como una negativa de la filiación que se le atribuye.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2009)</small>
+
+ARTICULO 433 Bis II.- En el supuesto de que se acepte la filiación, previa ratificación dentro del término de tres días ante el Juez competente, se ordenará mediante oficio el levantamiento del acta de reconocimiento ante el Oficial del Registro Civil en los términos de ley, dándose por concluido el procedimiento.
+
+En el caso de que no se ratifique, se estará a lo previsto en el artículo siguiente.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2009)</small>
+
+ARTICULO 433 Bis III.- En caso de negativa de la filiación, y siempre que existan elementos suficientes en el expediente, a juicio del juez competente, que hagan presumir la posible filiación de la parte demandada, se ordenará la práctica de la prueba biológica respectiva, misma que deberá realizarse ante una institución que haya sido certificada con capacidad para realizar este tipo de pruebas por la Secretaría de Salud del Estado.
+
+En el mismo proveído se señalará la fecha para su desahogo, a fin de que se tomen las muestras respectivas, previa citación de las personas que se someterán a dicha prueba, constituyéndose el juez en el lugar señalado para la práctica de la prueba, levantándose acta circunstanciada de lo que acontezca. La institución designada tendrá un plazo de treinta días para rendir el dictamen, pudiendo prorrogar dicho término a solicitud de la misma.
+
+El dictamen remitido a la autoridad judicial versará únicamente sobre los datos relativos a la filiación, conservándose en la confidencialidad los demás datos o características genéticas que pudiera arrojar la misma, a fin de preservar los derechos que en cuanto a su intimidad le asistan a la persona.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2009)</small>
+
+ARTICULO 433 Bis IV.- Si la persona a quien deba practicarse la prueba, no asistiere a la misma o se negare a proporcionar la muestra necesaria, sin causa justificada a juicio del juez competente, hará presumir la filiación que se le atribuye en los términos del Código Civil.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2009)</small>
+
+ARTICULO 433 Bis V.- La acción correspondiente deberá intentarse por parte del solicitante dentro del término de treinta días, una vez recibido el dictamen con resultado positivo o generada la presunción de filiación, apercibido de que en caso de no hacerlo así, quedarán sin materia los beneficios obtenidos en este procedimiento.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2009)</small>
+
+ARTICULO 433 Bis VI.- El costo de la prueba biológica será a cargo del padre o madre biológico cuando éste resulte serlo; en caso contrario, será a cargo y por cuenta del promovente.
 
 ## TITULO SEPTIMO. PROVIDENCIAS PRECAUTORIAS
 
-### CAPITULO II. ALIMENTOS PROVISIONALES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 434.
 
@@ -3225,7 +3303,7 @@ En la ejecución de la medida precautoria no se admitirán recursos ni excepcion
 
 Será competente para decretar las providencias cautelares el juez que lo sea para conocer de la demanda principal. En casos de urgencia también podrá decretarlas el juez del lugar en que deban efectuarse. En este último caso, una vez ejecutada y resuelta la reclamación, si se hubiere formulado, se remitirán las actuaciones al juez competente y los plazos para la presentación de la demanda se aumentarán en el número de días que corresponda por razón de la dictancia (sic).
 
-### CAPITULO III. EMBARGO PRECAUTORIO
+### CAPITULO II. ALIMENTOS PROVISIONALES
 
 ###### ARTICULO 443.
 
@@ -3265,7 +3343,7 @@ La resolución que se dicte concediendo los alimentos, es apelable en el efecto 
 
 En la providencia no se permitirá discusión sobre el derecho de percibir alimentos. Cualquier reclamación sobre dicho aspecto y su monto se sustanciará en juicio sumario y entretanto se seguirá abonando la suma señalada.
 
-### CAPITULO IV. ARRAIGO PERSONAL
+### CAPITULO III. EMBARGO PRECAUTORIO
 
 ###### ARTICULO 452.
 
@@ -3305,7 +3383,7 @@ El secuestro precautorio se convertirá en embargo definitivo cuando el acreedor
 
 Si el demandado, en el acto de la diligencia consigna el valor u objeto reclamado, o da caución por el monto total, para responder de la demanda, no se llevará a cabo el embargo precautorio, o se levantará el que se hubiere decretado.
 
-### CAPITULO V. OTRAS PROVIDENCIAS URGENTES
+### CAPITULO IV. ARRAIGO PERSONAL
 
 ###### ARTICULO 457.
 
@@ -3337,7 +3415,7 @@ IV.- Cuando se cumpla o ejecute la sentencia; y,
 
 V.- Si se pidiere como acto prejudicial, y no se presenta la demanda dentro del término fijado por el juez.
 
-### CAPITULO I. JUICIO ORDINARIO
+### CAPITULO V. OTRAS PROVIDENCIAS URGENTES
 
 ###### ARTICULO 460.
 
@@ -3351,7 +3429,7 @@ En la providencia, el juez fijará un término perentorio dentro del cual el sol
 
 ## TITULO OCTAVO. JUICIOS
 
-### CAPITULO II. JUICIO SUMARIO
+### CAPITULO I. JUICIO ORDINARIO
 
 ###### ARTICULO 462.
 
@@ -3391,7 +3469,7 @@ Concluido el término para alegar, el juez citará las partes para oir sentencia
 
 Las sentencias que se dicten en los juicios ordinarios, serán apelables en ambos efectos.
 
-### CAPITULO III. JUICIO ORAL
+### CAPITULO II. JUICIO SUMARIO
 
 ###### ARTICULO 470.
 
@@ -3439,9 +3517,9 @@ La citación para sentencia no será expresa, sino que operará por ministerio d
 
 En los juicios sumarios solamente los autos que decidan incidentes y las sentencias, serán apelables; el recurso sólo se admitirá en el efecto devolutivo.
 
-### CAPITULO IV. JUICIO EJECUTIVO
+### CAPITULO III. JUICIO ORAL
 
-### CAPITULO V. JUICIO HIPOTECARIO
+### CAPITULO IV. JUICIO EJECUTIVO
 
 ###### ARTICULO 474.
 
@@ -3515,7 +3593,7 @@ El juez dictará sentencia en la audiencia misma, o a más tardar dentro de las 
 
 Las disposiciones relativas al juicio sumario podrán aplicarse al oral en concepto de supletorias, pero en su aplicación el juez deberá tomar en cuenta la naturaleza de éste, para no desvirtuarlo.
 
-### CAPITULO VI. JUICIO DE DESAHUCIO
+### CAPITULO V. JUICIO HIPOTECARIO
 
 ###### ARTICULO 481.
 
@@ -3789,7 +3867,7 @@ Del escrito de oposición se dará traslado por tres días al acreedor; si se pr
 
 Si se declarare infundada la oposición, el opositor será condenado al pago de los gastos y costas.
 
-### CAPITULO VII. DIVORCIO
+### CAPITULO VI. JUICIO DE DESAHUCIO
 
 ###### ARTICULO 530.
 
@@ -3885,7 +3963,7 @@ Si el superior revoca el fallo de primera instancia que declaró procedente el r
 
 Si comenzado el juicio se presentan alguno o algunos acreedores hipotecarios, se procederá conforme a las reglas de los concursos de acreedores hipotecarios.
 
-### CAPITULO VIII. RECTIFICACION DE ACTAS DEL ESTADO CIVIL
+### CAPITULO VII. DIVORCIO
 
 ###### ARTICULO 543.
 
@@ -3957,7 +4035,7 @@ En la situación del artículo que precede, se observarán, en cuanto fueren con
 
 Ni el juicio de desahucio, ni su resultado, perjudican las acciones que las partes pueden intentar, derivadas del incumplimiento del contrato respectivo, las cuales se decidirán, en su caso, en el juicio correspondiente.
 
-### CAPITULO IX. INTERDICCION E INHABILITACION
+### CAPITULO VIII. RECTIFICACION DE ACTAS DEL ESTADO CIVIL
 
 ###### ARTICULO 557.
 
@@ -4003,7 +4081,7 @@ Ejecutoriado el divorcio, el juez remitirá copia al Oficial del Registro Civil 
 
 La sentencia es apelable en ambos efectos, pero admite ejecución por lo que respecta a pensión alimenticia, cuando ésta se conceda.
 
-### CAPITULO X. TUTORES, CURADORES Y DISCERNIMIENTO DE ESTOS CARGOS
+### CAPITULO IX. INTERDICCION E INHABILITACION
 
 ###### ARTICULO 564.
 
@@ -4033,7 +4111,7 @@ La sentencia que recaiga será apelable en ambos efectos.
 
 Una vez ejecutoriada la sentencia, se comunicará al Oficial del Registro Civil para que haga referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
 
-### CAPITULO I. INTERDICTOS
+### CAPITULO X. TUTORES, CURADORES Y DISCERNIMIENTO DE ESTOS CARGOS
 
 ###### ARTICULO 568.
 
@@ -4117,7 +4195,7 @@ El que promueva dolosamente el juicio de interdicción independientemente de la 
 
 Los gastos que ocasione el procedimiento serán pagados con cargo al patrimonio del incapacitado, y si no lo hay, al del promovente.
 
-### CAPITULO II. PLENARIO DE POSESION
+### CAPITULO I. INTERDICTOS
 
 ###### ARTICULO 579.
 
@@ -4197,7 +4275,7 @@ La designación de tutor especial para que represente a un menor en un juicio de
 
 ## TITULO NOVENO. INTERDICTOS, PROPIEDAD Y POSESION
 
-### CAPITULO III. DECLARATORIO DE PROPIEDAD
+### CAPITULO II. PLENARIO DE POSESION
 
 ###### ARTICULO 589.
 
@@ -4319,7 +4397,7 @@ Los autos y sentencias que se dicten en los interdictos, serán apelables en el 
 
 Si la parte a quien el juez conminare para no ejecutar algún acto perjudicial o para conservar alguna situación de hecho no acata la orden, se aplicará la multa o arresto con que fue conminado, y además, con carácter urgente y en su caso, el juez ordenará la ejecución de las medidas que sean necesarias, para que las cosas vuelvan al estado anterior a costa del infractor, sin que para ello se necesite la promoción de nuevo interdicto.
 
-### CAPITULO IV. JUICIO REVINDICATORIO (SIC)
+### CAPITULO III. DECLARATORIO DE PROPIEDAD
 
 ###### ARTICULO 610.
 
@@ -4375,7 +4453,7 @@ Las acciones plenarias de posesión se ventilarán en juicio ordinario en el que
 
 El actor o el demandado que resulten vencidos en un juicio plenario sobre posesión, la perderán en definitiva en beneficio de su contraparte y quedarán impedidos legalmente para hacer uso de interdictos sobre los bienes que fueron objeto del litigio.
 
-### CAPITULO UNICO
+### CAPITULO IV. JUICIO REVINDICATORIO (SIC)
 
 ###### ARTICULO 619.
 
@@ -4387,7 +4465,7 @@ El que hubiere poseído bienes inmuebles por el tiempo y las condiciones exigida
 
 Si se declara procedente la acción, el juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción, y tal declaración se tendrá como título de propiedad, y será inscrita, una vez protocolizadas las diligencias respectivas, en el Registro Público.
 
-### CAPITULO I. GENERALIDADES
+### CAPITULO UNICO
 
 ###### ARTICULO 621.
 
@@ -4463,7 +4541,7 @@ Por virtud de la sentencia que se dicte en los juicios reivindicatorios, se pier
 
 ## TITULO DECIMO. JUICIO ARBITRAL
 
-### CAPITULO II. EMBARGOS
+### CAPITULO I. GENERALIDADES
 
 ###### ARTICULO 628.
 
@@ -4623,7 +4701,7 @@ Los jueces están obligados a impartir el auxilio de su jurisdicción a los árb
 
 ## TITULO DECIMO PRIMERO. EJECUCION FORZOSA
 
-### CAPITULO III. VENTAS Y REMATES JUDICIALES
+### CAPITULO II. EMBARGOS
 
 ###### ARTICULO 646.
 
@@ -4877,7 +4955,7 @@ El ejecutante tendrá acción para combatir actos jurídicos celebrados entre el
 
 El acreedor puede servirse acumulativamente de las varias formas de ejecución forzosa previstas en la ley. En caso de que el deudor se oponga, el juez puede limitar la ejecución mediante auto no recurrible, a la forma que elija el actor, a la propuesta por el deudor, o a la que él mismo determine.
 
-### CAPITULO IV. PERIODO FINAL DE LA EJECUCION FORZOSA
+### CAPITULO III. VENTAS Y REMATES JUDICIALES
 
 ###### ARTICULO 676.
 
@@ -5137,7 +5215,7 @@ III.- Si la ejecución se hubiere despachado a instancia de un segundo acreedor 
 
 IV.- En los casos de reembargo, el depositario del primer secuestro lo será respecto del posterior con las obligaciones inherentes al depósito del segundo embargo, debiendo notificársele el secuestro ulterior para la protección de los derechos del segundo embargante.
 
-### CAPITULO V. DECLARACION DE VALIDEZ Y EJECUCION DE SENTENCIAS EXTRANJERAS
+### CAPITULO IV. PERIODO FINAL DE LA EJECUCION FORZOSA
 
 ###### ARTICULO 691.
 
@@ -5359,7 +5437,7 @@ El juez tendrá durante la tramitación de los remates el poder de resolver y al
 
 Cualquier liquidación que tenga que hacerse respecto al pago de los gravámenes que afecten a los bienes vendidos, gastos de ejecución y demás, se regularán por el juez con un escrito de cada parte, y resolución dentro del tercer día.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO V. DECLARACION DE VALIDEZ Y EJECUCION DE SENTENCIAS EXTRANJERAS
 
 ###### ARTICULO 711.
 
@@ -5421,7 +5499,7 @@ d).- Los demás acreedores no privilegiados intervinientes se sujetarán a concu
 
 Si la distribución de la suma obtenida no alcanzare a cubrir el crédito del ejecutante, quedarán sus derechos expeditos para pedir nueva ejecución forzosa por el saldo insoluto.
 
-### CAPITULO III (SIC). RECTIFICACION Y GRADUACION DE CREDITOS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 718.
 
@@ -5485,7 +5563,7 @@ Podrá hacerse valer una sentencia extranjera para fundar la cosa juzgada; pero,
 
 ## TITULO DECIMO SEGUNDO. CONCURSOS
 
-### CAPITULO III. ADMINISTRACION DEL CONCURSO
+### CAPITULO III (SIC). RECTIFICACION Y GRADUACION DE CREDITOS
 
 ###### ARTICULO 726.
 
@@ -5585,7 +5663,7 @@ II.- Presentar dentro de los cinco días de la notificación del auto que declar
 
 III.- Se abstendrá de seguir administrando sus bienes, así como continuar cualquier otra administración que por ley le corresponda.
 
-### CAPITULO IV. EL DEUDOR COMUN
+### CAPITULO III. ADMINISTRACION DEL CONCURSO
 
 ###### ARTICULO 737.
 
@@ -5647,7 +5725,7 @@ Si hubiere algún remanente, se entregarán al concursado.
 
 Si hubiere varios acreedores hipotecarios garantizados con los mismos bienes, pueden formar un concurso especial entre ellos, y serán pagados por el orden de fechas con que se otorgaron las hipotecas, si éstas se registraron dentro del término legal, o según el orden en que se hayan inscrito los gravámenes, si la inscripción se hizo fuera del término de ley. Cuando en el concurso sólo hubiere acreedores hipotecarios, se nombrará síndico al acreedor hipotecario primero en tiempo, quien litigará en representación de los demás, observándose lo dispuesto en los artículos precedentes.
 
-### CAPITULO I. GENERALIDADES
+### CAPITULO IV. EL DEUDOR COMUN
 
 ###### ARTICULO 745.
 
@@ -5683,7 +5761,7 @@ El síndico deberá presentar, dentro de los primeros diez días de cada mes, un
 
 El síndico será removido de plano si dejare de rendir la cuenta mensual, o de caucionar su manejo. En los demás casos, la remoción se tramitará incidentalmente.
 
-### CAPITULO II. TESTAMENTARIAS
+### CAPITULO I. GENERALIDADES
 
 ###### ARTICULO 752.
 
@@ -5713,9 +5791,7 @@ La demanda de rehabilitación se presentará ante el mismo juez que conoció del
 
 ## TITULO DECIMO TERCERO. SUCESIONES
 
-### CAPITULO III. INTESTAMENTARIAS
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+### CAPITULO II. TESTAMENTARIAS
 
 ###### ARTICULO 754.
 
@@ -5901,7 +5977,9 @@ Las secciones tercera y cuarta podrán omitirse cuando el heredero sea único y 
 
 Una vez radicado un juicio sucesorio, sea testamentario o intestado, se publicarán edictos por dos veces, de diez en diez días, convocando a todos los que se consideren con derecho a la herencia y a los acreedores, para que se presenten en el juicio a deducirlos. Los edictos se publicarán en el Periódico Oficial y en uno de los de mayor circulación. Si el juicio no se radicó en el lugar del último domicilio del finado, también se publicarán en él los edictos. Si el valor del activo de la sucesión no excediere de diez mil pesos, no se hará publicación de edictos y sólo se fijarán éstos en la puerta del juzgado.
 
-### CAPITULO IV. INVENTARIO Y AVALUO
+### CAPITULO III. INTESTAMENTARIAS
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 773.
 
@@ -6017,7 +6095,7 @@ Las cuestiones que no afectan la validez del testamento o la capacidad para here
 
 Una vez celebrada la audiencia a que se refiere el artículo anterior y dictadas las resoluciones que correspondan, los trámites del juicio testamentario serán los mismos que los establecidos por los artículos siguientes, respecto a las acciones de inventarios, administración y partición.
 
-### CAPITULO V. ADMINISTRACION
+### CAPITULO IV. INVENTARIO Y AVALUO
 
 ###### ARTICULO 785.
 
@@ -6061,7 +6139,7 @@ En la misma sentencia se resolverá quién será el albacea, que será nombrado 
 
 La sentencia a que se refiere el artículo anterior será apelable en ambos efectos.
 
-### CAPITULO VI. LIQUIDACION Y PARTICION
+### CAPITULO V. ADMINISTRACION
 
 ###### ARTICULO 794.
 
@@ -6187,9 +6265,7 @@ El inventario y avalúo se harán simultáneamente, excepto cuando sea urgente p
 
 La oposición a los avalúos se tramitará de acuerdo con las reglas establecidas en este Capítulo.
 
-### CAPITULO VII. TRANSMISION HEREDITARIA DEL PATRIMONIO FAMILIAR
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+### CAPITULO VI. LIQUIDACION Y PARTICION
 
 ###### ARTICULO 810.
 
@@ -6281,7 +6357,9 @@ VIII.- Si todos los interesados aprobaren la cuenta o no la impugnaren, el juez 
 
 IX.- El auto que apruebe o repruebe la cuenta será apelable en el efecto devolutivo.
 
-### CAPITULO VIII. TRAMITACION ANTE NOTARIOS
+### CAPITULO VII. TRANSMISION HEREDITARIA DEL PATRIMONIO FAMILIAR
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 816.
 
@@ -6393,9 +6471,7 @@ Respecto a la partición y sus efectos se estará a lo dispuesto por el Código 
 
 La sentencia que apruebe o repruebe la partición es apelable en ambos efectos, cuando el monto del caudal exceda de cinco mil pesos.
 
-### CAPITULO I. REGLAS GENERALES
-
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2007)</small>
+### CAPITULO VIII. TRAMITACION ANTE NOTARIOS
 
 ###### ARTICULO 828.
 
@@ -6423,7 +6499,7 @@ VII.- El acta o actas en que consten las adjudicaciones servirán de título a l
 
 VIII.- La transmisión de los bienes del patrimonio familiar estará exenta de impuestos, cualquiera que sea su naturaleza.
 
-### CAPITULO II. COMPETENCIA Y PRELIMINARES DEL JUICIO
+### CAPITULO I. REGLAS GENERALES
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
@@ -6459,9 +6535,9 @@ Siempre que haya oposición de algún aspirante a la herencia, el notario suspen
 
 ## TITULO DECIMO CUARTO. JUZGADOS MENORES
 
-### CAPITULO III. JUICIO
+### CAPITULO II. COMPETENCIA Y PRELIMINARES DEL JUICIO
 
-> <small>(F. DE E., P.O. 4 DE OCTUBRE DE 1961)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 836.
 
@@ -6501,7 +6577,9 @@ Si los jueces impedidos no se excusaren, a pedimento de parte el superior impond
 
 Las recusaciones de los secretarios de los juzgados se substanciarán en la forma prevenida en los artículos 219, 220, 221, 222, 223, 224 y 225.
 
-### CAPITULO IV. EJECUCION
+### CAPITULO III. JUICIO
+
+> <small>(F. DE E., P.O. 4 DE OCTUBRE DE 1961)</small>
 
 ###### ARTICULO 844.
 
@@ -6579,7 +6657,7 @@ No será necesaria la identificación, aunque se trate de personas desconocidas,
 
 El que se presente como actor o como reo, usando el nombre de otro para hacerse pasar por él, se considerará como falsario y quedará sujeto a las sanciones que determine el Código Penal.
 
-### CAPITULO I. GENERALIDADES
+### CAPITULO IV. EJECUCION
 
 ###### ARTICULO 852.
 
@@ -6617,7 +6695,7 @@ VIII.- De lo ocurrido en la audiencia se levantará una acta en la que bastará 
 
 Los jueces menores al interrogar a los testigos, tomarán las precauciones necesarias para que las declaraciones de quienes las vayan rindiendo no sean conocidas por los que les deban seguir. Se sujetarán a las reglas generales contenidas en este Código para la apreciación de las pruebas.
 
-### CAPÍTULO II. INFORMACION AD PERPETUAM
+### CAPITULO I. GENERALIDADES
 
 ###### ARTICULO 857.
 
@@ -6669,7 +6747,7 @@ Cuando el interés de la tercería exceda del que la ley someta a la jurisdicci�
 
 ## TITULO DECIMO QUINTO. JURISDICCION VOLUNTARIA
 
-### CAPÍTULO III. POSESION
+### CAPÍTULO II. INFORMACION AD PERPETUAM
 
 ###### ARTICULO 866.
 
@@ -6727,7 +6805,7 @@ Declarado un hecho mediante estos procedimientos, se presume cierto, salvo prueb
 
 En los negocios sobre cuestiones familiares, de propiedad y posesión, concursos y sucesiones, y que por su naturaleza participen de la jurisdicción voluntaria, se aplicarán las reglas de los capítulos respectivos, y en lo no previsto, se tramitarán conforme a las reglas de este Título.
 
-### CAPÍTULO IV. APEO Y DESLINDE
+### CAPÍTULO III. POSESION
 
 ###### ARTICULO 876.
 
@@ -6763,7 +6841,7 @@ Cuando no se trate de derechos reales, se expedirá al interesado copia certific
 
 En ningún caso se admitirán informaciones de testigos sobre hechos que fueren materia de un juicio comenzado.
 
-### CAPITULO V. ENAJENACION DE BIENES DE MENORES O INCAPACITADOS Y TRANSACCION ACERCA DE SUS DERECHOS
+### CAPÍTULO IV. APEO Y DESLINDE
 
 ###### ARTICULO 881.
 
@@ -6797,9 +6875,7 @@ Si el juez estima comprobada debidamente la posesión, lo declarará así por re
 
 En la resolución el juez fijará con precisión, hasta donde sea posible, desde cuándo debe considerarse que se inició la posesión. Si existe contradicción entre las atestaciones y los documentos presentados en cuanto a la fecha o época de aquélla, ésta se determinará conforme a las pruebas que merezcan mayor crédito.
 
-### CAPITULO VI. DIVORCIO VOLUNTARIO
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+### CAPITULO V. ENAJENACION DE BIENES DE MENORES O INCAPACITADOS Y TRANSACCION ACERCA DE SUS DERECHOS
 
 ###### ARTICULO 883.
 
@@ -6863,7 +6939,9 @@ Los puntos respecto a los cuales hubiere oposición legal, no quedarán deslinda
 
 Los gastos generales del apeo y deslinde se harán por el que lo promueva. Los que importen la intervención de los peritos que designen y de los testigos que presenten los colindantes, serán pagados por el que nombre a los unos y presente a los otros.
 
-### CAPITULO VII. JURISDICCION VOLUNTARIA EN OTROS NEGOCIOS
+### CAPITULO VI. DIVORCIO VOLUNTARIO
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 891.
 
@@ -6905,7 +6983,7 @@ El precio de la venta se entregará al tutor, si las fianzas o garantías presta
 
 El juez señalará un termino prudente al tutor para que justifique la inversión del precio de la enajenación.
 
-### CAPITULO I. GENERALIDADES
+### CAPITULO VII. JURISDICCION VOLUNTARIA EN OTROS NEGOCIOS
 
 ###### ARTICULO 896.
 
@@ -6955,7 +7033,7 @@ Ejecutoriada la resolución de divorcio, el Tribunal mandará remitir copia de e
 
 En el caso de que los cónyuges no tengan hijos y ratificaren la solicitud de divorcio, en los términos del Código Civil, el juez, dentro de los diez días siguientes dictará sentencia y se procederá conforme a lo previsto en el artículo anterior.
 
-### CAPITULO II. REVOCACION
+### CAPITULO I. GENERALIDADES
 
 ###### ARTICULO 905.
 
@@ -6977,11 +7055,11 @@ El juez queda facultado para hacer cotejar documentos redactados en idioma extra
 
 Para tramitar los asuntos a que se refiere este Capítulo, se estará a lo que particularmente establecen como requisito especial las leyes respectivas, y en lo demás, con arreglo a las disposiciones de este Título.
 
-### CAPITULO III. REVISION
+### CAPITULO II. REVOCACION
 
 ## TITULO DECIMO SEXTO. IMPUGNACION DE LAS RESOLUCIONES JUDICIALES
 
-### CAPITULO IV. APELACION
+### CAPITULO III. REVISION
 
 ###### ARTICULO 908.
 
@@ -7012,6 +7090,10 @@ Sólo las partes y las personas a quien la ley conceda esta facultad pueden hace
 ###### ARTICULO 913.
 
 Los recursos se tendrán por abandonados cuando no se continúen en forma legal.
+
+### CAPITULO IV. APELACION
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 914.
 
@@ -7063,9 +7145,9 @@ Tan luego como el juez de primera instancia dicte su sentencia, devolverá el ex
 
 ###### ARTICULO 926.
 
-El recurso de apelación tiene por objeto que el Supremo Tribunal de Justicia revoque o modifique la resolución dictada en primera instancia.
+El recurso de apelación tiene por objeto que el Supremo Tribunal de Justicia revoque o modifique la resolución dictada en primera instancia; y en su caso, analice la violación procesal sostenida no consentida, decretando la reposición del procedimiento, conforme a las reglas contenidas en éste capítulo.
 
-La confirmación será, en todo caso, resultado lógico-jurídico de la improcedencia de la revocación o modificación solicitadas.
+La confirmación será, en todo caso, resultado lógico-jurídico de la improcedencia de la revocación, modificación o reposición solicitadas.
 
 ###### ARTICULO 927.
 
@@ -7478,3 +7560,27 @@ P.O. 23 DE DICIEMBRE DE 2008.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado
+
+P.O. 7 DE JULIO DE 2009.
+
+DECRETO No. LX-701, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 10, 25, 29, 66, 68 BIS, 301, 379 Y 926 DEL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+En lo que respecta a la reforma del artículo 29, únicamente serán diligenciados de oficio todos aquellos autos ordenados por los órganos jurisdiccionales en aquellos distritos en los cuales opere una central de actuarios; en los restantes, las partes continuarán aportando los medios de conducción para la realización de las diligencias ordenadas por el órgano jurisdiccional, hasta en tanto no se instale una central de actuarios, o el propio tribunal esté en posibilidad presupuestal de proveer los medios de conducción.
+
+P.O. 7 DE JULIO DE 2009.
+
+DECRETO No. LX-705, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULO EL CAPITULO V AL TITULO SEXTO DEL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
