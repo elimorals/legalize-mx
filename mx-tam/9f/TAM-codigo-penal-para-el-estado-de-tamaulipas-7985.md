@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2008-12-09"
+last_updated: "2009-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -739,7 +739,9 @@ Son medidas de seguridad:
 
 a).- Reclusión de locos y oligofrénicos;
 
-b).- Internación y educación de sordomudos;
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
+
+b).- Internación y educación de sordomudos que hayan contravenido los preceptos de una ley penal;
 
 c).- Internación y curación de toxicómanos, alcohólicos y degenerados; y,
 
@@ -784,6 +786,14 @@ Las circunstancias que la Ley considere específicamente como descriptivas del d
 ###### ARTICULO 71.
 
 Si durante el juicio enloqueciera el procesado, el Juez suspenderá el proceso en los términos que se fijen en el Código Procesal Penal, durante el lapso en que subsista dicho estado, pero, al declararse el estado de remisión, deberá reanudarse de inmediato el proceso suspendido.
+
+###### ARTICULO 71 Bis.
+
+Cuando la orden de aprehensión o el auto de formal prisión se dicte en contra de una persona mayor de 70 años de edad, o de precario estado de salud permanente, el juez podrá ordenar que la prisión preventiva se lleve a cabo en el domicilio del indiciado o procesado bajo las medidas de seguridad que procedan de acuerdo con la representación social. La petición se tramitará incidentalmente.
+
+No gozarán de esta prerrogativa quienes, a criterio del juez, puedan sustraerse de la acción de la justicia o manifiesten una conducta que haga presumir fundadamente que causarán daño al denunciante o querellante, a la víctima u ofendido o a quienes indirectamente participen o deban participar en el proceso.
+
+En todo caso, la valoración por parte del juez se apoyará en dictámenes de peritos.
 
 ### CAPITULO II. DELITOS CULPOSOS
 
@@ -1935,7 +1945,7 @@ Al responsable de los delitos señalados en las fracciones I, II y IV se le impo
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
 
-Al responsable de los delitos previstos en las fracciones III y V se les aplicará de diez a dieciocho años de prisión y una multa de cinco mil a doce mil días salario.
+Al responsable de los delitos previstos en las fracciones III y V se les (sic) aplicará de diez a dieciocho años de prisión y una multa de cinco mil a doce mil días salario.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
@@ -2161,7 +2171,7 @@ XIII.- Obligar a declarar a las personas que se mencionan en el artículo 249 Bi
 
 Se sancionará con una pena de tres a doce años de prisión, multa de doscientos a cuatrocientos días de salario, destitución del cargo e inhabilitación de dos a catorce años para desempeñar otro empleo, cargo o comisión públicos, al servidor público que ordene, consienta o aplique intencionalmente a una persona golpes, azotes, quemaduras, mutilaciones o cualquier otro tipo de violencia física o moral con el objeto de obtener de ella o de un tercero información, confesión de culpabilidad o cualquier otra conducta que dañe al pasivo o beneficie al servidor o a un tercero.
 
-Las mismas penas previstas en este Artículo se aplicarán al servidor público que, con motivo del ejercicio de su cargo, instigue, compela o a un tercero o se sirva de él para infligir a una persona dolores o sufrimientos graves, sean físicos o psíquicos; o no evite que se inflijan dichos dolores o sufrimientos a una persona que esté bajo su custodia.
+Las mismas penas previstas en este Artículo se aplicarán al servidor público que, con motivo del ejercicio de su cargo, instigue, compela o autorice a un tercero o se sirva de él para infligir a una persona dolores o sufrimientos graves, sean físicos o psíquicos; o no evite que se inflijan dichos dolores o sufrimientos a una persona que esté bajo su custodia.
 
 Se aplicarán las mismas penas al tercero que, con cualquier finalidad, instigado o autorizado, explícita o implícitamente, por un servidor público, inflija dolores o sufrimientos graves sean físicos o psíquicos a un detenido.
 
@@ -4940,6 +4950,22 @@ La presente Ley se publicará en el Periódico Oficial del Estado y entrará en 
 Se abroga la Ley de Prevención, Atención y Asistencia a la Violencia Intrafamiliar expedida mediante Decreto 27, del 27 de mayo de 1999, de la Quincuagésima Séptima Legislatura, publicada en el Periódico Oficial del Estado número 45, con fecha 5 de junio de 1999, y sus reformas y adiciones contenidas en los Decretos LIX-547, del 9 de mayo de 2006 y publicado en el Periódico Oficial del Estado número 66, del 1 de junio de 2006; LIX-563, del 8 de agosto de 2006; y LIX-1084, del 3 de diciembre de 2007 y publicado en el Periódico Oficial del Estado número 4, del 8 de enero de 2008.
 
 P.O. 9 DE DICIEMBRE DE 2008.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JULIO DE 2009.
+
+DECRETO No. LX-644, POR EL QUE SE ADICIONA EL ARTICULO 71 BIS AL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+P.O. 7 DE JULIO DE 2009.
+
+DECRETO No. LX-693, POR EL QUE SE REFORMA EL INCISO B) DEL ARTICULO 66 DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO UNICO.
 
