@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2008-12-18"
+last_updated: "2009-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2009.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -69,27 +69,49 @@ II. La Secretaría de Salud del Estado, y
 
 III. Los servicios de salud de San Luis Potosí.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 4°.
 
 Para los efectos de la presente Ley se entenderá por:
 
-I. Atención Médica: el conjunto de servicios que se proporcionan al individuo con el fin de proteger, promover y restaurar su salud;
+I. Atención médica: el conjunto de los servicios que se proporcionan a las personas con el fin de proteger, promover y restaurar la salud;
 
-II. Accidente: el hecho súbito que ocasione daños a la salud, y que se produzca por la concurrencia de condiciones potencialmente prevenibles;
+II. Accidente: suceso eventual o acción que involuntariamente resulta daño para las personas o las cosas;
 
-III. Derecho a la Protección Social en Salud: el mecanismo por el cual el estado garantiza el acceso efectivo, oportuno, de calidad, sin desembolso al momento de su utilización y sin discriminación a los servicios médico-quirúrgicos, farmacéuticos y hospitalarios, que satisfagan de manera integral las necesidades en salud;
+III. Cuidados básicos: la higiene, alimentación e hidratación y, en su caso, el manejo de la vía aérea permeable;
 
-IV. Norma: las normas oficiales mexicanas de carácter obligatorio emitidas por la autoridad competente, que establezcan los requisitos que deben satisfacerse en el desarrollo de actividades en materia de salud, con el objeto de uniformar principios, criterios, políticas y estrategias;
+IV. Cuidados paliativos: son los cuidados activos y totales relacionados con el control del dolor y de otros síntomas, proporcionados a las personas en fase terminal que no respondan a tratamientos curativos. Así como la atención de aspectos psicológicos, sociales y espirituales;
 
-V. Salubridad General: las facultades contenidas en el artículo 3º. de la Ley General de Salud, y las que se transfieren al Estado en virtud de la misma ley, convenios y acuerdos de coordinación o de colaboración específicos;
+V. Derecho a la protección social en salud: el mecanismo por el cual el estado garantiza el acceso efectivo, oportuno, de calidad, sin desembolso al momento de su utilización, y sin discriminación, a los servicios médico quirúrgicos, farmacéuticos y hospitalarios, que satisfagan de manera integral las necesidades en salud;
 
-VI. Salubridad Local: el ejercicio de facultades exclusivas del estado previstas en la presente Ley, por parte de las autoridades sanitarias señaladas en el artículo 3°. fracciones I y II de la misma;
+VI. Estado de fase terminal: todo padecimiento reconocido, irreversible, progresivo e incurable que se encuentra en estado avanzado, y cuyo pronóstico de vida para la persona sea menor a seis meses;
 
-VII. Secretaría de Salud Federal: la dependencia centralizada de la administración pública de la Federación;
+VII. Obsesión terapéutica: la adopción de medidas innecesarias o inútiles con el objeto de alargar la vida en situación de fase terminal de un paciente;
 
-VIII. Secretaría de Salud del Estado: la dependencia centralizada de la administración pública del Estado de San Luis Potosí, y
+VIII. Paciente en fase terminal: persona que tiene una enfermedad incurable e irreversible y que tiene un pronóstico de vida inferior a seis meses;
 
-IX. Servicios de Salud: el organismo público descentralizado del gobierno del Estado, con personalidad jurídica y patrimonio propio, responsable de operar los servicios de salud a la población abierta.
+IX. Medios innecesarios: son aquéllos cuyo perjuicio es mayor que los beneficios, en cuyo caso, se podrán valorar estos medios en comparación al tipo de terapia, el grado de dificultad y de riesgo que comporta, los gastos necesarios y las posibilidades de aplicación respecto del resultado que se puede esperar de todo ello;
+
+X. Médico responsable: el profesional que tiene a su cargo coordinar la información y la asistencia clínica del paciente en fase terminal, con el carácter de interlocutor principal del mismo, en todo lo referente a su atención e información durante el proceso asistencial, sin perjuicio de las obligaciones de otros profesionales que participan en las actuaciones asistenciales;
+
+XI. Medios proporcionados: los que son útiles para conservar la calidad de vida de un paciente en fase terminal, que no constituyen para él, una carga grave o desproporcionada a los beneficios que se pueden obtener;
+
+XII. Muerte natural: el proceso de fallecimiento natural de una persona en fase terminal, contando con asistencia física, psicológica y, en su caso, espiritual;
+
+XIII. Norma: las normas oficiales mexicanas de carácter obligatorio emitidas por la autoridad competente, que establezcan los requisitos que deben satisfacerse en el desarrollo de actividades en materia de salud, con el objeto de uniformar principios, criterios, políticas y estrategias;
+
+XIV. Tratamiento del dolor: todas aquéllas medidas proporcionadas por profesionales de la salud, orientadas a reducir los sufrimientos físicos y emocionales, destinadas a garantizar la dignidad de las personas en fase terminal;
+
+XV. Salubridad general: las facultades contenidas en el artículo 3°. de la Ley General de Salud, y las que se transfieren al Estado en virtud de la misma ley, convenios y acuerdos de coordinación o de colaboración específicos;
+
+XVI. Salubridad local: el ejercicio de facultades exclusivas del Estado previstas en la presente Ley, por parte de las autoridades sanitarias señaladas en el artículo 3°. fracciones I y II de la misma;
+
+XVII. Secretaría de Salud federal: la dependencia centralizada de la administración pública de la Federación;
+
+XVIII. Secretaría de Salud del Estado: la dependencia centralizada de la administración pública del Estado de San Luis Potosí, y
+
+XIX. Servicios de Salud: el organismo público descentralizado del gobierno del Estado, con personalidad jurídica y patrimonio propio, responsable de operar los servicios de salud a la población abierta.
 
 ###### ARTICULO 5º.
 
@@ -165,9 +187,15 @@ XXXIII. Transporte público urbano y foráneo;
 
 XXXIV. Gasolineras;
 
-XXXV. Prevención y control de la rabia en animales y seres humanos, y
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2009)</small>
 
-XXXVI. Las demás que establezcan la Ley General de Salud, acuerdos de coordinación y/o colaboración, y otras disposiciones legales aplicables.
+XXXV. Prevención y control de la rabia en animales y seres humanos;
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2009)</small>
+
+XXXVI. El tratamiento integral del dolor, y
+
+XXXVII. Las demás que establezcan la Ley General de Salud, acuerdos de coordinación y/o colaboración, y otras disposiciones legales aplicables.
 
 B. En materia de salubridad local, el control sanitario de:
 
@@ -429,7 +457,9 @@ I. La educación para la salud, la promoción del saneamiento básico y el mejor
 
 II. La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
 
-III. La atención médica, que comprende actividades preventivas, curativas y de rehabilitación, incluyendo la atención de urgencias;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2009)</small>
+
+III. La atención médica, que comprende actividades preventivas, curativas, cuidados paliativos y de rehabilitación, incluyendo la atención de urgencias~ (sic)
 
 IV. La atención materno-infantil;
 
@@ -471,9 +501,15 @@ Las actividades de atención médica son:
 
 I. Preventivas, que incluyen las de promoción general y las de protección específica;
 
-II. Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno, y
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2009)</small>
 
-III. De rehabilitación, que incluyen acciones tendientes a corregir las minusvalías físicas y mentales.
+II. Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno;
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2009)</small>
+
+III. Cuidados paliativos, y
+
+IV. De rehabilitación, que incluyen acciones tendientes a corregir las minusvalías físicas y mentales.
 
 ### CAPITULO IV. Usuarios de los Servicios de Salud y Participación de la Comunidad
 
@@ -891,6 +927,8 @@ La Secretaría de Salud del Estado y las instituciones de educación superior, e
 
 ### CAPITULO II. Educación para la Salud
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 77.
 
 La Secretaría de Salud del Estado, en coordinación con las autoridades educativas y con la participación de las instituciones de educación superior, recomendarán normas y criterios para la formación de recursos humanos para la salud.
@@ -1025,11 +1063,13 @@ III. Fomento sanitario.
 
 La educación para la salud tiene por objeto:
 
-I. Fomentar en la población el desarrollo de actitudes y conductas que le permitan participar en la prevención de enfermedades individuales, colectivas y accidentes, y protegerla de los riesgos que pongan en peligro su salud;
+I. Promover hábitos de conducta que contribuyan a proteger la salud o a solucionar problemas de salud, e intervenir en programas de promoción y mejoramiento de la salud y de prevención de enfermedades y accidentes, así como acciones de respeto a la dignidad de la persona;
 
-II. Proporcionar a la población los conocimientos sobre las causas de las enfermedades, y de los daños provocados por los efectos nocivos del ambiente en la salud, y
+II. Fomentar en la población el desarrollo de actitudes y conductas que le permitan participar en la prevención de enfermedades individuales, colectivas y accidentes, y protegerla de los riesgos que pongan en peligro su salud~ (sic)
 
-III. Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar y salud reproductiva, riesgo de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención y rehabilitación, y detección oportuna de enfermedades.
+III. Proporcionar a la población los conocimientos sobre las causas de las enfermedades, y de los daños provocados por los efectos nocivos del ambiente en la salud, y
+
+IV. Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar y salud reproductiva, riesgo de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención, cuidados paliativos y rehabilitación, y detección oportuna de enfermedades.
 
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 2008)</small>
 
@@ -3272,3 +3312,9 @@ PRIMERO. Este Decreto entrará en vigor a los noventa días siguientes de su pub
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Todos los procedimientos, recursos administrativos y demás asuntos relacionados con la materia familiar a que refiere el Código Civil para el Estado de San Luis Potosí, iniciados con anterioridad a la entrada en vigor a este Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.
+
+P.O. 7 DE JULIO DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan el presente Decreto.
