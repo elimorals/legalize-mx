@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2008-06-11"
+last_updated: "2009-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -195,35 +195,39 @@ II.- Aislamiento.- Separación de personas o animales infectados, durante el per
 
 III.- Autorizaciones sanitarias.- Es el acto administrativo mediante el cual la autoridad sanitaria competente permite a una persona pública o privada, la realización de actividades relacionadas con la salud humana, cuando reúna los requisitos y modalidades exigidos;
 
-IV.- Certificado.- El documento expedido por las autoridades sanitarias para hacer constar hechos determinados;
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2009)</small>
 
-V.- Consejo General de Salud.- El órgano cuyas atribuciones fundamentales son asesorar al Ejecutivo del Estado y definir las políticas del Sistema Estatal de Salud;
+IV.- Cartilla Estatal de Salud de la Mujer.- Es el documento oficial para dar seguimiento a las acciones preventivas que se realizan en las mujeres a partir de los 20 años de edad y hasta los 59 años;
 
-VI.- Control sanitario.- El conjunto de acciones de orientación, educación, muestreo, verificación y, en su caso, aplicación de medidas de seguridad y sanciones administrativas que ejercita la autoridad sanitaria;
+V.- Certificado.- El documento expedido por las autoridades sanitarias para hacer constar hechos determinados;
 
-VII.- Cuarentena.- Limitación a la libertad de tránsito de personas que hubieren estado expuestas a una enfermedad transmisible, por el tiempo necesario, para controlar el riesgo de contagio;
+VI.- Consejo General de Salud.- El órgano cuyas atribuciones fundamentales son asesorar al Ejecutivo del Estado y definir las políticas del Sistema Estatal de Salud;
 
-VIII.- Establecimientos.- Aquellos en los que se desarrolla una actividad ocupacional, estén cubiertos o descubiertos, sean fijos o móviles, sean de producción, transformación, almacenamiento, distribución de bienes o prestación de servicios;
+VII.- Control sanitario.- El conjunto de acciones de orientación, educación, muestreo, verificación y, en su caso, aplicación de medidas de seguridad y sanciones administrativas que ejercita la autoridad sanitaria;
 
-IX.- Ley.- La Ley de Salud para el Estado de Tamaulipas;
+VIII.- Cuarentena.- Limitación a la libertad de tránsito de personas que hubieren estado expuestas a una enfermedad transmisible, por el tiempo necesario, para controlar el riesgo de contagio;
 
-X.- Medidas de seguridad.- Las disposiciones que dicte la autoridad sanitaria para proteger la salud de la población;
+IX.- Establecimientos.- Aquellos en los que se desarrolla una actividad ocupacional, estén cubiertos o descubiertos, sean fijos o móviles, sean de producción, transformación, almacenamiento, distribución de bienes o prestación de servicios;
 
-XI.- Norma sanitaria.- El conjunto de reglas científicas y tecnológicas de carácter obligatorio, emitidas por la Secretaría, para el desarrollo de actividades relacionadas con la salubridad local, con el objeto de uniformar principios, criterios, políticas y estrategias;
+X.- Ley.- La Ley de Salud para el Estado de Tamaulipas;
 
-XII.- Observación personal.- La supervisión sanitaria de los presuntos portadores de enfermedades, con el fin de facilitar la rápida identificación de la infección o enfermedad transmisible sin limitar su libertad de tránsito;
+XI.- Medidas de seguridad.- Las disposiciones que dicte la autoridad sanitaria para proteger la salud de la población;
 
-XIII.- Reglamento.- El reglamento de la Ley de Salud para el Estado de Tamaulipas;
+XII.- Norma sanitaria.- El conjunto de reglas científicas y tecnológicas de carácter obligatorio, emitidas por la Secretaría, para el desarrollo de actividades relacionadas con la salubridad local, con el objeto de uniformar principios, criterios, políticas y estrategias;
 
-XIV.- Sanción administrativa.- La medida que impone la Secretaría a los infractores de esta ley y disposiciones aplicables;
+XIII.- Observación personal.- La supervisión sanitaria de los presuntos portadores de enfermedades, con el fin de facilitar la rápida identificación de la infección o enfermedad transmisible sin limitar su libertad de tránsito;
 
-XV.- Secretaría.- La Secretaría de Salud del Gobierno del Estado de Tamaulipas;
+XIV.- Reglamento.- El reglamento de la Ley de Salud para el Estado de Tamaulipas;
 
-XVI.- Servicios de salud.- Todas aquellas acciones dirigidas a proteger, promover y restaurar la salud de las personas;
+XV.- Sanción administrativa.- La medida que impone la Secretaría a los infractores de esta ley y disposiciones aplicables;
 
-XVII.- Vigilancia sanitaria.- Es la que se realiza a través de las visitas de verificación con el objeto de proteger la salud de la población; y
+XVI.- Secretaría.- La Secretaría de Salud del Gobierno del Estado de Tamaulipas;
 
-XVIII.- Visita de verificación.- Es la que realiza el personal autorizado expresamente por la autoridad competente, con el objeto de constatar el cumplimiento de las disposiciones sanitarias.
+XVII.- Servicios de salud.- Todas aquellas acciones dirigidas a proteger, promover y restaurar la salud de las personas;
+
+XVIII.- Vigilancia sanitaria.- Es la que se realiza a través de las visitas de verificación con el objeto de proteger la salud de la población; y
+
+XIX.- Visita de verificación.- Es la que realiza el personal autorizado expresamente por la autoridad competente, con el objeto de constatar el cumplimiento de las disposiciones sanitarias.
 
 ###### ARTICULO 6°.
 
@@ -465,7 +469,9 @@ III.- La atención médica, que comprende actividades preventivas, curativas y d
 
 IV.- La atención materno-infantil y del adolescente;
 
-V.- Atención a la salud de la mujer;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2009)</small>
+
+V.- Atención a la salud de la mujer en todos los aspectos;
 
 VI.- La planificación familiar;
 
@@ -726,6 +732,46 @@ III.- Decidir de manera libre e informada si el parto se llevará a cabo en form
 IV.- Determinar la atención que se brindará al parto conforme a su sistema de valores y creencias, con excepción de las determinaciones médicas para evitar situaciones de riesgo a la integridad física de la madre o su vida misma; y
 
 V.- Decidir libremente sobre la conservación de las células madre de la o él recién nacido, siempre que sea sin fines de lucro.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2009)</small>
+
+###### ARTICULO 38 Ter.
+
+Toda mujer en el Estado de Tamaulipas deberá contar con una cartilla de salud.
+
+La Cartilla Estatal de Salud de la Mujer deberá contener los siguientes datos:
+
+a) Todas las vacunas que se apliquen a la mujer de 20 a 59 años de edad, señalando los tipos de las mismas, enfermedades que previenen, dosis y fecha de aplicación;
+
+b) Planificación familiar;
+
+c) Antecedentes patológicos personales y familiares;
+
+d) Antecedentes gineco-obstétricos;
+
+e) Salud perinatal;
+
+f) Antecedentes de lactancia materna;
+
+g) Prevención, detección y control de cáncer cérvico-uterino y mamario, en donde se deberán considerar, entre otros, los estudios de papanicolau, exámenes clínicos de mama y mastografías, así como las pruebas de tamiz;
+
+h) Prevención y atención durante el climaterio y la menopausia; considerando la detección y el tratamiento recibido;
+
+i) Agudeza visual;
+
+j) Prevención, detección y control de diabetes mellitus, hipertensión arterial, tuberculosis y enfermedades de transmisión sexual;
+
+k) Control de peso;
+
+l) Salud bucal;
+
+m) La frecuencia de cada consulta; y,
+
+n) Los demás que determine la Secretaría de Salud en el Estado.
+
+La Cartilla Estatal de Salud de la Mujer será obligatoria en todo el Estado y todas las instituciones que presten servicios médicos otorgarán una a cada mujer que acuda a recibir los mismos.
+
+Las mujeres deberán acatar las eventualidades que se registren en dicha cartilla, de igual manera la pareja de la mujer sea del género que fuere, respetará y cumplirá con las disposiciones médicas que se establezcan en dicho documento.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2005)</small>
 
@@ -2442,6 +2488,12 @@ DECRETO NO. LLX-1449 POR EL QUE SE REFORMAN LA FRACCION I DEL ARTICULO 2°; EL I
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 11 DE JUNIO DE 2008.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JULIO DE 2009.
 
 ###### ARTICULO UNICO.
 
