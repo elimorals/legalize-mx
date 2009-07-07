@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-fiscal-del-estado-de-tamaulipas-59020"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2009-04-30"
+last_updated: "2009-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2009.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -214,6 +214,10 @@ La Secretaría de Finanzas entregará a los municipios las constancias de recepc
 El retraso en la entrega ocasionará el pago de intereses a la tasa de recargos que establece el Congreso de la Unión para la liquidación a plazos de las contribuciones federales.
 
 En congruencia con lo señalado por el artículo 9° de la Ley de Coordinación Fiscal, las participaciones federales que correspondan a los municipios son inembargables; no pueden afectarse a fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraídas por los municipios con la autorización del Congreso e inscritas ante la Secretaría de Hacienda y Crédito Público, en el Registro de Obligaciones y Empréstitos de Entidades y Municipios, a favor de la Federación, de las instituciones de crédito que operen en territorio nacional, así como de personas físicas o morales de nacionalidad mexicana.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2009)</small>
+
+No estarán sujetos a lo dispuesto en el párrafo anterior, los anticipos que los municipios reciban a cuenta de las participaciones que les correspondan en términos de esta ley, así como las compensaciones que se requieran efectuar a los municipios como consecuencia de ajustes o descuentos que realice la Secretaría de Hacienda y Crédito Público al Estado en las participaciones de los ingresos federales que integran el Fondo Estatal de Participaciones a Municipios, determinados de conformidad con los previsto en la Ley de Coordinación Fiscal.
 
 El Estado y los municipios están facultados para efectuar los pagos de las obligaciones garantizadas con la afectación de participaciones, de acuerdo con los mecanismos y sistemas de registro establecidos en la Ley de Deuda Pública Estatal y Municipal del Estado de Tamaulipas.
 
@@ -412,3 +416,9 @@ DECRETO No. LX-566, POR EL QUE SE ADICIONAN LOS ARTICULOS 21 Y 23 DE LA LEY DE C
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JULIO DE 2009.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
