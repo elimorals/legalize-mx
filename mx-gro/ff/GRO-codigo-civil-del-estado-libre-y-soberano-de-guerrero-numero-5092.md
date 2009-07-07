@@ -4,7 +4,7 @@ identifier: "GRO-codigo-civil-del-estado-libre-y-soberano-de-guerrero-numero-509
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-02"
-last_updated: "2008-12-30"
+last_updated: "2009-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NUMERO 358
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el martes 2 de marzo de 1993.
 
@@ -469,7 +469,7 @@ Cuando haya dos o más hijos será preferido el que viva en compañía del padre
 
 ###### Artículo 88.
 
-Los padres son de derecho tutores de sus hijos, solteros o viudos, cuando éstos no tengan hijos que puedan desempeñar la tutela, debiéndose poner de acuerdo respecto a quien de los dos ejercerá el cargo.
+Los padres son de derecho tutores de sus hijos, solteros o viudos, cuando éstos no tengan hijos que puedan desempeñar la tutela, debiéndose poner de acuerdo respecto a quién de los dos ejercerá el cargo.
 
 ###### Artículo 89.
 
@@ -1619,7 +1619,7 @@ II. Los números ordinales, como el de las fechas o cualquier otro, estarán esc
 
 III. En ningún caso se emplearán abreviaturas;
 
-IV. No se hará raspadura alguna ni se permitirá borrar lo escrito. Cuando sea necesario testar alguna palabra, se pasará una línea sobre ella, de manera que quede legible; a no ser que lo testado sea algún nombre o circunstancia que este Código prohiba expresamente que figure en las actas, en tal caso se testará de modo que no pueda leerse; y el oficial mencionará al final del acta la razón por que se hizo de este modo; y
+IV. No se hará raspadura alguna ni se permitirá borrar lo escrito. Cuando sea necesario testar alguna palabra, se pasará una línea sobre ella, de manera que quede legible; a no ser que lo testado sea algún nombre o circunstancia que este Código prohiba expresamente que figure en las actas, en tal caso se testará de modo que no pueda leerse; y el oficial mencionará al final del acta la razón porque se hizo de este modo; y
 
 V. A fin de cada acta se salvará, con toda claridad, lo entrerrenglonado y testado.
 
@@ -1643,7 +1643,7 @@ La omisión del registro del reconocimiento de hijos en el caso del artículo 34
 
 Todo acto del estado civil relativo a otro ya registrado, podrá anotarse a petición de los interesados al margen del acta respectiva. La misma anotación se hará cuando lo mande la autoridad judicial o lo disponga expresamente la ley. Las anotaciones se harán con la debida mención del folio del registro del acta a que se refieren tales anotaciones, y éstas se insertarán en todos los testimonios que se expidan.
 
-Si el acta que debe anotarse y la que motiva la anotación se hubieren autorizado en oficinas diversas, el juez que levantó la segunda remitirá copia de ella al del lugar en que se encuentre la primera, para que a su tenor se haga la anotación correspondiente.
+Si el acta que debe anotarse y la que motiva la anotación se hubieren (sic) autorizado en oficinas diversas, el juez que levantó la segunda remitirá copia de ella al del lugar en que se encuentre la primera, para que a su tenor se haga la anotación correspondiente.
 
 ###### Artículo 319.
 
@@ -2157,7 +2157,7 @@ Lo dispuesto en este artículo es aplicable a la obligación alimentaria entre c
 
 ###### Artículo 410.
 
-El cónyuge que se haya separado del otro, seguirá obligado a cumplir con los gastos a que se refiere el artículo 425. En tal virtud, el que no hubiere dado lugar a ese hecho, podrá pedir al juez de su residencia, que obligue al otro a que le ministre los gastos por el tiempo que dure la separación en la misma proporción en que lo venía haciendo antes de aquélla, así como también satisfaga los adeudos contraidos en los términos del artículo anterior. Si dicha proporción no se pudiera determinar, el juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y de lo que hubiere dejado de cubrirse desde la separación.
+El cónyuge que se haya separado del otro, seguirá obligado a cumplir con los gastos a que se refiere el artículo 425. En tal virtud, el que no hubiere dado lugar a ese hecho, podrá pedir al juez de su residencia, que obligue al otro a que le ministre los gastos por el tiempo que dure la separación en la misma proporción en que lo venía haciendo antes de aquélla, así como también satisfaga los adeudos contraídos en los términos del artículo anterior. Si dicha proporción no se pudiera determinar, el juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y de lo que hubiere dejado de cubrirse desde la separación.
 
 ## TITULO SEGUNDO. Del matrimonio
 
@@ -2317,7 +2317,7 @@ Ni el varón podrá cobrar a la mujer ni ésta a aquél, retribución u honorari
 
 ###### Artículo 437.
 
-El régimen patrimonial del matrimonio será el de sociedad conyugal o el de separación de bienes. Los cónyuges en la sociedad conyugal, podrán celebrar capitulaciones matrimoniales, pero bastará que los cónyuges al contraer matrimonio, expresaren que lo hacen bajo el régimen de sociedad conyugal, aún cuando no celebraren capitulaciones para que se entienda que la sociedad conyugal habrá de constituirse con los bienes que los cónyuges adquieran durante el matrimonio; salvo los casos de excepción que aún existiendo el matrimonio, se prevean en la ley. La atención al hogar y el trabajo doméstico se considerarán como aportación al patrimonio familiar.
+El régimen patrimonial del matrimonio será el de sociedad conyugal o el de separación de bienes. Los cónyuges en la sociedad conyugal, podrán celebrar capitulaciones matrimoniales, pero bastará que los cónyuges al contraer matrimonio, expresaren que lo hacen bajo el régimen de sociedad conyugal, aún cuando no celebraren capitulaciones para que se entienda que la sociedad conyugal habrá de constituirse con los bienes que los cónyuges adquieran durante el matrimonio; salvo los casos de excepción que aun existiendo el matrimonio, se prevean en la ley. La atención al hogar y el trabajo doméstico se considerarán como aportación al patrimonio familiar.
 
 Cuando los cónyuges omitieren expresar el régimen patrimonial al que sujetarán sus bienes, se entenderá, por disposición de la ley, que lo hacen bajo el de separación de bienes.
 
@@ -14323,19 +14323,19 @@ Si alguno de los interesados se negare a firmar dicha solicitud, acudirá el otr
 
 Todo hecho o convenio entre las partes, que pueda modificar o destruir la eficacia de una obligación hipotecaria anterior, no surtirá efecto contra tercero si no se hace constar en el Registro Público de la Propiedad por medio de una inscripción nueva, de una cancelación total o parcial o de una nota marginal, según los casos.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
+
 ###### Artículo 2777.
 
-El crédito podrá cederse, en todo o en parte, siempre que la cesión se haga en la forma que para la constitución de la hipoteca previene el artículo 2765 se dé conocimiento al deudor y sea inscrita en el Registro Público de la Propiedad.
+El crédito puede cederse, en todo o en partes, siempre que la cesión se haga en la forma que para la constitución de la hipoteca previene el artículo 2765, se haga del conocimiento del deudor y sea inscrita en el Registro Público de la Propiedad.
 
-Si la hipoteca se hubiere constituido para garantizar obligaciones a la orden, podrá transmitirse por endoso del título, sin necesidad de notificación al deudor, ni de registro. La hipoteca constituida para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin ningún otro requisito.
+Si la hipoteca se ha constituido para garantizar obligaciones a la orden, puede transmitirse por endoso del título, sin necesidad de notificación al deudor, ni de registro. La hipoteca constituida para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin requisito alguno.
 
-> <small>(ADICIONADO, P.O. 6 DE ENERO DE 1998)</small>
+Las instituciones del sistema bancario mexicano, actuando en nombre propio o como fiduciarias, las demás entidades financieras, los Organismos de Seguridad y Servicio Social y de Vivienda, federales o locales, podrán ceder sus créditos con garantía hipotecaria, sin necesidad de notificación al deudor de escritura pública ni de inscripción en el registro, siempre que el cedente lleve la administración de los créditos.
 
-El acreedor, podrá ceder sus créditos con garantía hipotecaria, sin necesidad de escritura pública, ni de inscripción en el Registro Público de la Propiedad, siempre que continúe con la administración de los créditos; de este acto sólo deberá dar aviso por escrito al deudor. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá únicamente notificar por escrito la cesión al deudor.
+En el caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá únicamente notificar por escrito la cesión al deudor.
 
-> <small>(ADICIONADO, P.O. 6 DE ENERO DE 1998)</small>
-
-En los supuestos previstos en los dos párrafos anteriores, la inscripción de la hipoteca a favor del acreedor original se considerará hecha a favor de él o de los cesionarios, quienes tendrán todos los derechos y acciones derivados de ésta.
+En los supuestos previstos en los tres párrafos anteriores, la inscripción de la hipoteca a favor del acreedor original, se considerará hecha a favor del o de los cesionarios referidos en tales párrafos, quienes tendrán todos los derechos y acciones derivados de esta.
 
 ###### Artículo 2778.
 
@@ -15466,3 +15466,9 @@ P.O. 30 DE DICIEMBRE DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico del Gobierno del Estado de Guerrero.
 
 SEGUNDO.- Remítase al Titular del Poder Ejecutivo Estatal para los efectos legales conducentes.
+
+P.O. 7 DE JULIO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado para su conocimiento general.
