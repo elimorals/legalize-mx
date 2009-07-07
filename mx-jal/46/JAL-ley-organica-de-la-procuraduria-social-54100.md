@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-procuraduria-social-54100"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-01-16"
-last_updated: "2009-02-07"
+last_updated: "2009-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY ORGANICA DE LA PROCURADURIA SOCIAL
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE JULIO DE 2009 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2009.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE JULIO DE 2009.</small>
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 16 de enero de 2007.
 
@@ -499,8 +499,6 @@ IV. Tener registrado ante la Dirección de Profesiones del Estado, su título pr
 
 V. Gozar de buena reputación y no haber sido condenado por delito dolosos (sic) que amerite pena corporal de más de un año de prisión; pero si se trate (sic) de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE JULIO DE 2009 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 32.
@@ -539,9 +537,9 @@ XIII. Solicitar al Procurador Social que promueva la coordinación con las depen
 
 XIV. Realizar las visitas de inspección a organismos de asistencia social, en la forma y los términos que determinen las leyes; y
 
-> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2009)</small>
+(ADICIONADA, P.O. 7 DE FEBRERO DE 2009) (F. DE E., P.O. 7 DE JULIO DE 2009)
 
-XV. Las demás que la presente ley y el reglamento interior confieran.
+XV. Las demás que la presente Ley y Reglamento Interior confieran.
 
 ###### Artículo 33.
 
