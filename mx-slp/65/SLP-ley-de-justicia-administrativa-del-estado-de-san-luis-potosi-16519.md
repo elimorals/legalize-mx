@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-justicia-administrativa-del-estado-de-san-luis-potosi-16
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-30"
-last_updated: "2007-09-27"
+last_updated: "2009-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE SAN LUIS POTOSI
+LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2009.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 30 de abril de 1997.
 
@@ -51,11 +51,11 @@ Esta ley es de orden público e interés social y tiene por objeto regular la im
 
 La justicia administrativa en el Estado de San Luis Potosí se impartirá por un Tribunal de lo Contencioso Administrativo, con jurisdicción en todo el territorio estatal y con la competencia y organización que establece esta Ley. El tribunal residirá en la Capital del Estado y podrá contar con salas regionales.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 3o.
 
-El Tribunal de lo Contencioso Administrativo dirimirá las controversias de carácter administrativo y fiscal que se susciten entre los particulares y las autoridades del Poder Ejecutivo del Estado y de los municipios, así como de los organismos públicos descentralizados, estatales y municipales, cuando dichos organismos actúen como autoridades, y conocerá además de las impugnaciones que se promuevan en contra de las resoluciones definitivas que dicten las autoridades mencionadas, en aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+El Tribunal de lo Contencioso Administrativo dirimirá las controversias de carácter administrativo y fiscal que se susciten entre los particulares y las autoridades del Poder Ejecutivo del Estado y de los municipios, así como de los organismos públicos descentralizados, estatales y municipales, cuando dichos organismos actúen como autoridades, y conocerá además de las impugnaciones que se promuevan en contra de las resoluciones definitivas que dicten las autoridades mencionadas, en aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, y demás ordenamientos aplicables en materia de responsabilidad de los servidores públicos.
 
 ###### ARTICULO 4o.
 
@@ -477,7 +477,7 @@ Tales medidas de apremio podrán ser aplicadas a criterio del tribunal, atendien
 
 El Pleno, las salas y el Magistrado Instructor, están facultados para desechar de plano las promociones notoriamente improcedentes, o que se interpongan con el fin evidente de dilatar el procedimiento, pudiendo en este último caso aplicar cualquiera de las medidas a que se refieren las dos primeras fracciones del artículo que antecede.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 42.
 
@@ -793,7 +793,7 @@ Contra el auto que deseche una demanda, procederá el recurso de reclamación en
 
 ### CAPITULO VIII. De la Contestación
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 69.
 
@@ -961,7 +961,7 @@ II. Se procederá a desahogar las pruebas que se les hayan admitido a las partes
 
 III. Concluido el período de alegatos, se dará por terminada la audiencia, citándose a las partes para oír sentencia; y
 
-> <small>(REFORMADO [N. DE E. ANTES FRACCION IV], P.O. 1 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO [N. DE E. ANTES FRACCIÓN IV], P.O. 1 DE OCTUBRE DE 2001)</small>
 
 El Tribunal deberá emitir la resolución que corresponda en un plazo que no exceda de quince días hábiles, contados a partir de la fecha de la celebración de la audiencia.
 
@@ -1075,7 +1075,7 @@ En los casos en que sólo las demandadas puedan dar cumplimiento a la sentencia,
 
 ### CAPITULO XIII. De la Suspensión
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 102.
 
@@ -1109,7 +1109,7 @@ III. Prenda o hipoteca, y
 
 IV. Embargo de bienes en la vía administrativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 106.
 
@@ -1343,7 +1343,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 DR. JESUS EDUARDO NOYOLA BERNAL.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 1 DE OCTUBRE DE 2001.
 
@@ -1358,3 +1358,19 @@ P.O. 27 DE SEPTIEMBRE DE 2007.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto, a partir de su entrada en vigor.
+
+P.O. 7 DE JULIO DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor a los quince días de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado, aprobada el 3 de diciembre de 1998 y publicada en la Edición Extraordinaria del Periódico Oficial del Estado, el 19 de diciembre de 1998.
+
+TERCERO. El Ejecutivo del Estado expedirá el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado, a que se refiere el artículo Primero de este Decreto, y los demás que de la misma se deriven, en un plazo no mayor de noventa días a partir de su entrada en vigor.
+
+CUARTO. El Reglamento Interior del Instituto de Formación Ministerial, y el Reglamento Interior de la Dirección General de la Policía Ministerial del Estado, seguirán vigentes en lo que no se opongan al contenido de este Decreto, en tanto se modifican o se expiden los nuevos reglamentos, de conformidad con las normas establecidas en este Ordenamiento.
+
+QUINTO. En tanto se expide el reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado, se aplicará el Reglamento publicado en el Periódico Oficial del Estado, Edición Extraordinaria, el 16 de febrero de 2002, en todo aquello que no se oponga a las disposiciones de esta Ley.
+
+SEXTO. Los procedimientos de responsabilidad administrativa iniciados con antelación a la entrada en vigor de la presente Ley, en contra del personal sustantivo de la institución, serán resueltos por la Contraloría Interna de la institución, de conformidad con las leyes de la materia, y por la Comisión de Honor y Justicia de conformidad con la Ley Orgánica de la Procuraduría General de Justicia del Estado, aprobada el 3 de diciembre de 1998 y publicada en la Edición Extraordinaria del Periódico Oficial del Estado, el 19 de diciembre de 1998, y el Reglamento Interior de la Dirección General de la Policía Ministerial del Estado.
+
+SEPTIMO. Los agentes del Ministerio Público, los agentes de la policía ministerial del Estado y los peritos que a la entrada en vigor del presente Ordenamiento, se encuentren laborando en la Procuraduría General de Justicia del Estado, se someterán a las disposiciones del Servicio de Carrera de Procuración de Justicia Estatal previstas en esta Ley y las que se expidan para tal efecto.
