@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2008-12-29"
+last_updated: "2009-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -119,13 +119,21 @@ En caso de conflicto por cuestión de límites entre Municipios, el Congreso del
 
 El Congreso, por acuerdo de las dos terceras partes de sus integrantes, podrá crear nuevos Municipios dentro de los límites de los existentes, modificar sus límites y suprimir o fusionar algunos de ellos, previa consulta y dictamen del Ejecutivo del Estado. Para que pueda crearse un nuevo Municipio deberán satisfacerse los siguientes requisitos:
 
-I.- Contar con una población excedente a veinticinco mil habitantes, lo cual se acreditará con el censo respectivo.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2009)</small>
 
-II.- Disponer de los recursos económicos suficientes para cubrir, a juicio del Congreso, las erogaciones que demande la Administración Municipal.
+I.- Acreditar una población suficiente para el desarrollo de las funciones y los servicios municipales;
 
-III.- Contar con los locales adecuados para la instalación de sus oficinas municipales, escuela, hospital, mercado, rastro y centro de readaptación social, así como los terrenos necesarios para el panteón municipal.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2009)</small>
 
-IV.- Tener en funcionamiento los servicios públicos municipales indispensables para la vida normal e higiénica de la población.
+II.- Acreditar la posibilidad de contar con fuentes de ingresos públicos y la capacidad presupuestal para cubrir los gastos que, a juicio del Congreso, requiera la administración municipal;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2009)</small>
+
+III.- Tener en la superficie del eventual territorio municipal locales adecuados para la instalación de las oficinas municipales, escuelas, centro de salud, mercado y panteón;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2009)</small>
+
+IV.- Tener en funcionamiento los servicios públicos municipales indispensables para la vida normal e higiénica de la población, en particular los de agua potable y limpia; así como la capacidad para brindar el servicio de policía preventiva municipal y tránsito; y
 
 V.- Obtener opinión favorable de los Ayuntamientos de los Municipios afectados y no poner en peligro su estabilidad o autosuficiencia económica.
 
@@ -1244,6 +1252,10 @@ Las autoridades fiscales municipales estarán investidas de todas las facultades
 ###### ARTICULO 95.
 
 Los ingresos municipales se destinarán a cubrir el gasto público y no tendrán aplicación especial sino en los casos en que expresamente se asignen a finalidad determinada.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2009)</small>
+
+El Presidente Municipal garantizará que los recursos provenientes de la Federación y del Estado que tengan como destino la satisfacción de los requerimientos del área de seguridad pública, sean utilizados íntegra, exclusiva y responsablemente en dicho rubro.
 
 ###### ARTICULO 96.
 
@@ -3764,3 +3776,19 @@ El presente Decreto entrará en vigor el día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE JULIO DE 2009.
+
+DECRETO No. LX-647, POR EL QUE SE ADICIONA UN PARRAFO SEGUNDO AL ARTICULO 95 DEL CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JULIO DE 2009.
+
+DECRETO No. LX-650, POR EL QUE SE REFORMAN LAS FRACCIONES I, II, III Y IV DEL ARTICULO 11 DEL CODIGO MUNICIPAL PARA EL ESTADO.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
