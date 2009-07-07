@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-procuraduria-general-de-justicia-del-13193"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-19"
-last_updated: "2008-10-21"
+last_updated: "2009-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE SAN LUIS POTOSI, PUBLICADA EN EL P.O. DE 7 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de diciembre de 1998.
 
@@ -836,3 +838,19 @@ P.O. 21 DE OCTUBRE DE 2008.
 PRIMERO. Este Decreto entrará en vigor el día uno de enero del año 2009.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE JULIO DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor a los quince días de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado, aprobada el 3 de diciembre de 1998 y publicada en la Edición Extraordinaria del Periódico Oficial del Estado, el19 de diciembre de 1998.
+
+TERCERO. El Ejecutivo del Estado expedirá el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado a que se refiere el artículo Primero de este Decreto, y los demás que de la misma se deriven, en un plazo no mayor de noventa días a partir de su entrada en vigor.
+
+CUARTO. El Reglamento Interior del Instituto de Formación Ministerial, y el Reglamento Interior de la Dirección General de la Policía Ministerial del Estado, seguirán vigentes en lo que no se opongan al contenido de este Decreto, en tanto se modifican o se expiden los nuevos reglamentos, de conformidad con las normas establecidas en este Ordenamiento.
+
+QUINTO. En tanto se expide el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado, se aplicará el Reglamento publicado en el Periódico Oficial del Estado, Edición Extraordinaria, el 16 de febrero de 2002, en todo aquello que no se oponga a las disposiciones de esta Ley.
+
+SEXTO. Los procedimientos de responsabilidad administrativa iniciados con antelación a la entrada en vigor de la presente Ley, en contra del personal sustantivo de la institución, serán resueltos por la Contraloría Interna de la institución, de conformidad con la leyes de la materia, y por la Comisión de Honor y Justicia de conformidad con la Ley Orgánica de la Procuraduría General de Justicia del Estado, aprobada el 3 de diciembre de 1998 y publicada en la Edición Extraordinaria del Periódico Oficial del Estado, el 19 de diciembre de 1998, y el Reglamento Interior de la Dirección General de la Policía Ministerial del Estado.
+
+SEPTIMO. Los agentes del Ministerio Público, los agentes de la policía ministerial del Estado y los peritos que a la entrada en vigor del presente Ordenamiento, se encuentren laborando en la Procuraduría General de Justicia del Estado, se someterán a las disposiciones del Servicio de Carrera de Procuración de Justicia Estatal previstas en esta Ley y las que se expidan para tal efecto.
