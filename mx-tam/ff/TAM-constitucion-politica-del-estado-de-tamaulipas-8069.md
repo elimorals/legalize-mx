@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2009-06-17"
+last_updated: "2009-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2009.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -63,19 +63,15 @@ El Estado se divide en Distritos Electorales, Distritos Judiciales y Municipios.
 
 Los Municipios del Estado son los siguientes: Abasolo, Aldama, Altamira, Antiguo Morelos, Burgos, Bustamante, Camargo, Casas, Ciudad Madero, Cruillas, El Mante, Gómez Farías, González, Güémez, Guerrero, Gustavo Díaz Ordaz, Hidalgo, Jaumave, Jiménez, Llera, Mainero, Matamoros, Méndez, Mier, Miguel Alemán, Miquihuana, Nuevo Laredo, Nuevo Morelos, Ocampo, Padilla, Palmillas, Reynosa, Río Bravo, San Carlos, San Fernando, San Nicolás, Soto la Marina, Tampico, Tula, Valle Hermoso, Victoria, Villagrán y Xicoténcatl.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
 
 ###### Art. 4o.
 
-Para su régimen interior, el Estado adopta la forma de gobierno republicano, democrático, representativo y popular, siendo la base de su organización política y administrativa el Municipio Libre, en los términos establecidos por la Constitución Política de los Estados Unidos Mexicanos.
+El titular del Ejecutivo organizará un sistema de planeación democrática del desarrollo político, económico, social y cultural del Estado.
 
-El titular del Ejecutivo organizará un sistema de planeación democrática del desarrollo político, económico, social, y cultural del Estado.
+La planeación será democrática. Habrá un Plan Estatal de Desarrollo al que se sujetarán obligatoriamente los programas de la administración pública estatal. Mediante la participación de los sectores social y privado, el Plan recogerá las aspiraciones y demandas de la sociedad.
 
-La planeación será democrática. Habrá un Plan Estatal de Desarrollo al que se sujetarán obligatoriamente los programas de la administración pública estatal. Mediante la participación de los diversos sectores social y privado, el Plan recogerá las aspiraciones y demandas de la sociedad.
-
-> <small>(F. DE E., P.O. 7 DE DICIEMBRE DE 2006)</small>
-
-La Ley facultará al Ejecutivo para que establezca los procedimientos de participación de consulta popular dentro del sistema estatal de planeación democrática, así como los criterios para la formulación, instrumentación, control y evaluación del Plan y los programas de desarrollo. También determinará los órganos responsables del proceso de planeación y las bases para que el Ejecutivo coordine, mediante convenios con los gobiernos federal y municipales, e introduzca y concierte con los particulares, las acciones a realizar para su elaboración y ejecución.
+La ley facultará al Ejecutivo para establecer los procedimientos de participación de consulta popular dentro del sistema estatal de planeación democrática, así como los criterios para la formulación, implementación, control y evaluación del Plan y los programas de desarrollo. También determinará los órganos responsables del proceso de planeación y las bases para que el Ejecutivo coordine, mediante convenios con los gobiernos federal o municipales, e introduzca y concierte con los particulares, las acciones a realizar para su elaboración y ejecución.
 
 Los Municipios podrán celebrar en el ámbito de su competencia convenios y acuerdos con la Federación para la planeación, coordinación y ejecución de los programas de desarrollo económico y social, con la aprobación del Congreso del Estado.
 
@@ -433,9 +429,11 @@ El Tribunal Electoral del Poder Judicial del Estado propondrá su presupuesto al
 
 La ley garantizará que los Consejeros Electorales que integrarán el Instituto Electoral de Tamaulipas y los Magistrados del Tribunal Electoral del Poder Judicial del Estado, no tengan antecedentes de dirigencia partidaria, en los 3 años inmediatos anteriores a la designación.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
+
 ###### Art. 21.
 
-El Estado adopta la forma de Gobierno establecida en el artículo 4º de esta Constitución.
+Para su régimen interior, el Estado adopta la forma de gobierno republicano, democrático, representativo y popular, siendo la base de su organización política y administrativa el Municipio Libre, en los términos establecidos por la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Art. 22.
 
@@ -1791,7 +1789,7 @@ III.- El Tribunal Electoral del Estado, en los términos previstos en el artícu
 
 ###### Art. 107.
 
-El Poder Judicial del Estado goza de autonomía presupuestal, orgánica y funcional. Para garantizar su independencia económica, el presupuesto de egresos del Poder Judicial no podrá ser Inferior del 1.3 % del total del presupuesto general del Estado previsto para el año fiscal a ejercer, mismo que administrará, ejercerá y Justificará en los términos que fijen las leyes respectivas, y cuya asignación por concepto de gasto corriente no podrá ser menor al aprobado por el Congreso para el ejercicio anual Inmediato anterior. En caso de que al término del ejercicio existan sumas no erogadas, se enterarán a la Hacienda del Estado.
+El Poder Judicial del Estado goza de autonomía presupuestal, orgánica y funcional. Para garantizar su independencia económica, el presupuesto de egresos del Poder Judicial no podrá ser inferior del 1.3 % del total del presupuesto general del Estado previsto para el año fiscal a ejercer, mismo que administrará, ejercerá y justificará en los términos que fijen las leyes respectivas, y cuya asignación por concepto de gasto corriente no podrá ser menor al aprobado por el Congreso para el ejercicio anual inmediato anterior. En caso de que al término del ejercicio existan sumas no erogadas, se enterarán a la Hacienda del Estado.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
@@ -3673,8 +3671,6 @@ P.O. 17 DE SEPTIEMBRE DE 2008.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-(NOTA: EL 18 DE AGOSTO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 10/2009, DECLARÓ LA INVALIDEZ DE LOS ARTÍCULOS CUARTO, QUINTO Y DÉCIMO, INCISO C) TRANSITORIOS INDICADOS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE AGOSTO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
 P.O. 25 DE DICIEMBRE DE 2008.
 
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -3683,17 +3679,21 @@ Artículo Segundo. La aprobación y publicación de las adecuaciones a la legisl
 
 Artículo Tercero.- Por única ocasión, los diputados y los integrantes de los ayuntamientos electos en la jornada comicial de 2010, durarán en su encargo 2 años y 9 meses, concluyendo éste el 30 de septiembre de 2013; igualmente, por única ocasión, el Gobernador electo en dicha jornada, durará en su encargo 5 años y 9 meses, concluyendo éste el 30 de septiembre de 2016.
 
+(NOTA: EL 18 DE AGOSTO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 10/2009, DECLARÓ LA INVALIDEZ DEL ARTÍCULO CUARTO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE AGOSTO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
 ###### ARTÍCULO CUARTO.
 
 A EFECTO DE PERMITIR LA IMPLEMENTACIÓN COHERENTE DE LOS NUEVOS CALENDARIOS ELECTORALES, DE DESEMPEÑO DE LAS AUTORIDADES, ASÍ COMO LOS CONCERNIENTES A LOS PERIODOS DE SESIONES DEL CONGRESO DEL ESTADO, ES NECESARIO QUE COMO RÉGIMEN TEMPORAL, Y POR ÚNICA OCASIÓN, LA JORNADA ELECTORAL A CELEBRARSE EN 2010 SE LLEVE A CABO EN LA MISMA FECHA EN QUE SE VENÍA CELEBRANDO PREVIO A LA PRESENTE REFORMA.
 
-Lo anterior permitirá que la nueva fecha ordenada por la Constitución Política de los Estados Unidos Mexicanos para la celebración de la jornada electoral, sea instaurada y adaptada de manera integral con los calendarios políticos, electorales y administrativos de Tamaulipas.
+LO ANTERIOR PERMITIRÁ QUE LA NUEVA FECHA ORDENADA POR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS PARA LA CELEBRACIÓN DE LA JORNADA ELECTORAL, SEA INSTAURADA Y ADAPTADA DE MANERA INTEGRAL CON LOS CALENDARIOS POLÍTICOS, ELECTORALES Y ADMINISTRATIVOS DE TAMAULIPAS.
+
+(NOTA: EL 18 DE AGOSTO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 10/2009, DECLARÓ LA INVALIDEZ DEL ARTÍCULO QUINTO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE AGOSTO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 ###### ARTÍCULO QUINTO.
 
 A EFECTO DE ADECUAR LAS DIVERSAS ACTIVIDADES A DESARROLLARSE EN EL PROCESO ELECTORAL DE 2010, Y EN CONCORDANCIA CON EL ARTÍCULO TRANSITORIO PRECEDENTE, DE SER NECESARIO Y POR ÚNICA OCASIÓN, EL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE TAMAULIPAS DEBERÁ EMITIR UN CALENDARIO ELECTORAL PARA EL DESARROLLO DEL PROCESO EN DICHO AÑO, OBSERVANDO ESTRICTAMENTE LOS PLAZOS Y DURACIÓN DE LOS DISTINTOS ACTOS, EN LAS ETAPAS DE LA PREPARACIÓN DE LA ELECCIÓN, DE LA JORNADA Y DE RESULTADOS Y DECLARACIÓN DE VALIDEZ, CONTEMPLADOS EN LA LEGISLACIÓN ELECTORAL REFORMADA.
 
-En caso de que exista la necesidad prevista en el párrafo que antecede, el calendario referido deberá emitirse a más tardar, noventa días antes a que de inicio el proceso electoral de 2010, y se publicará de inmediato en el Periódico Oficial del Estado.
+EN CASO DE QUE EXISTA LA NECESIDAD PREVISTA EN EL PÁRRAFO QUE ANTECEDE, EL CALENDARIO REFERIDO DEBERÁ EMITIRSE A MÁS TARDAR, NOVENTA DÍAS ANTES A QUE DE INICIO EL PROCESO ELECTORAL DE 2010, Y SE PUBLICARÁ DE INMEDIATO EN EL PERIÓDICO OFICIAL DEL ESTADO.
 
 Artículo Sexto.- Para efecto de ajustar los trabajos, tanto de la actual legislatura, como de la que será electa en el año 2010, se hace necesario contemplar los siguientes calendarios transitorios:
 
@@ -3742,6 +3742,8 @@ Artículo Décimo.- En términos de lo dispuesto por la fracción IV del artícu
 a) El proceso de elección deberá concluir, a más tardar, noventa días después de que se realicen las adecuaciones legislativas a que se refiere el Artículo Segundo Transitorio de este Decreto.
 
 b) Se elegirán a dos Magistrados Electorales que durarán en su encargo hasta el 15 de marzo del 2012. Dichos magistrados podrán ser reelectos para un segundo periodo de seis años.
+
+(NOTA: EL 18 DE AGOSTO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 10/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL ARTÍCULO DÉCIMO, INCISO C) TRANSITORIO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE AGOSTO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 c) Se elegirán a dos Magistrados Electorales y al Magistrado Presidente, mismos que durarán en su encargo hasta el 15 de marzo del 2015. ESTOS NO PODRÁN SER REELECTOS PARA UN NUEVO PERIODO.
 
@@ -3834,6 +3836,12 @@ IV.- El Consejero designado por el Ejecutivo del Estado entrará en funciones el
 ###### ARTÍCULO TERCERO.
 
 El Congreso del Estado expedirá los ordenamientos derivados del presente Decreto de reformas y adiciones a la Constitución Política del Estado, a fin de que el Consejo de la Judicatura y la función otorgada al Supremo Tribunal de Justicia conforme al artículo 113 constitucional reformado, cumpla con sus funciones a partir del 1 de abril del 2010.
+
+P.O. 7 DE JULIO DE 2009.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO QUINTO.
 
