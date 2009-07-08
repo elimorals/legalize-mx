@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-tribunal-de-justicia-electoral-y-61271"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-23"
-last_updated: "2008-04-23"
+last_updated: "2009-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61271&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ELECTORAL Y ADMINISTRATIVA DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ELECTORAL Y ADMINISTRATIVA DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 8 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 23 de abril de 2008.
 
@@ -2334,3 +2336,13 @@ Atentamente
 José María Chambé Hernández, Magistrado Presidente.-Rúbrica.
 
 Certificación.- Con fundamento en el artículo 161, fracción VIII, del Código de Organización del Poder Judicial del Estado de Chiapas, la suscrita Licenciada Sofía Mosqueda Malanche, Secretaría General de Acuerdos y del Pleno, del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado de Chiapas, Certifica y Hace Constar que: Las presentes copias fotostáticas son fiel y exacta reproducción de los originales, de las páginas 01 uno a la 58 cincuenta y ocho, correspondientes al Reglamento Interior del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado de Chiapas, aprobado por el pleno del propio Órgano Colegiado con fecha 13 trece de marzo de 2008, dos mil ocho; las cuales selló, firmó y rubricó para los efectos legales a que haya lugar.- Conste.- Doy fe.- Tuxtla Gutiérrez, Chiapas; a los catorce días del mes de abril del año dos mil ocho.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE JULIO DE 2009.
+
+Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga el Reglamento Interior aprobado por el Pleno del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, de 13 de marzo de 2008, publicado en el Periódico Oficial número 090, el veintitrés de abril del mismo año.
+
+Artículo Tercero.- Los casos no previstos en este Reglamento, serán resueltos por el Pleno del Tribunal; por la Sala respectiva; por la Comisión de Administración; o por la Comisión Substanciadora, tratándose de asuntos laborales, en su caso.
