@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-ejecucion-de-sanciones-penales-y-medidas-de-56604"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-05-30"
-last_updated: "2008-08-28"
+last_updated: "2009-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # CODIGO DE EJECUCION DE SANCIONES PENALES Y MEDIDAS DE LIBERTAD ANTICIPADA PARA EL ESTADO DE CHIAPAS
 
-CODIGO DE EJECUCION DE SANCIONES PENALES Y MEDIDAS DE LIBERTAD ANTICIPADA PARA EL ESTADO DE CHIAPAS
+CÓDIGO DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE LIBERTAD ANTICIPADA PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 30 de mayo de 2007.
 
@@ -135,7 +135,7 @@ El régimen de prisión preventiva, tiene por objeto mantener al interno a dispo
 
 Para la mejor individualización del tratamiento y tomando en cuenta las condiciones de cada lugar y las posibilidades presupuestales, existirán instituciones especializadas y establecimientos especiales, así como establecimientos de mínima, media y de máxima seguridad.
 
-> <small>(REFORMADO, P.O 15 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 8°.
 
@@ -217,7 +217,7 @@ I. Que se cumplan (sic) la ejecución de las sanciones penales, las medidas de s
 
 II. La reinserción social del sentenciado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MAYO DE 2008)</small>
 
 #### Sección Primera. Del Comité Técnico
 
@@ -265,7 +265,7 @@ III. Establecer el procedimiento para el otorgamiento de los beneficios a que se
 
 IV. Las que señalen el presente Código, su Reglamento y demás disposiciones aplicables.
 
-> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2008)</small>
 
 #### Sección Segunda. Del Secretario de Seguridad
 
@@ -409,7 +409,7 @@ La Secretaría Ejecutiva, será el superior jerárquico de las autoridades penit
 
 La representación, trámite y resolución de los asuntos competencia de la Secretaría Ejecutiva, corresponden al Secretario Ejecutivo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2007)</small>
 
 ### Capítulo Segundo (sic). De las Atribuciones de la Institución del Ministerio Público en la Ejecución de Sanciones Penales y Medidas de Seguridad
 
@@ -1329,7 +1329,7 @@ La Comisión Interdisciplinaria, estará a cargo del sistema de cómputo para la
 
 ### Capítulo III. De la Libertad Preparatoria
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2008)</small>
 
 ###### Artículo 168.
 
@@ -1343,7 +1343,7 @@ III. Que el examen de personalidad, revele estar apto para su reinserción socia
 
 IV. Que haya reparado el daño causado, sujetándose a la forma, medidas y término que se le fijen, en caso de no poder cubrirlo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2008)</small>
 
 ###### Artículo 169.
 
@@ -1381,7 +1381,7 @@ Los sentenciados que disfruten de libertad preparatoria, quedarán bajo el cuida
 
 ### Capítulo IV. De la Libertad con Sentencia Suspendida
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 173.
 
@@ -1425,9 +1425,45 @@ Este Código no beneficiará a los autores de los delitos que a criterio de la C
 
 En ningún caso se beneficiará a los autores de los delitos de secuestro o extorsión, salvo lo previsto en el artículo 1°, de este Código.
 
-### Capítulo V. Condena Condicional
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2009)</small>
 
-### Capítulo I. Procedimientos Ordinarios de Ejecución
+### Capítulo IV Bis. De la Mesa de Reconciliación
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2009)</small>
+
+###### Artículo 178 Bis.
+
+La Mesa de Reconciliación del Gobierno del Estado de Chiapas, es un órgano permanente integrado por el Presidente del Tribunal Superior de Justicia del Estado, Vocales, que serán los titulares de la Secretaría General de Gobierno, la Procuraduría General de Justicia del Estado, el Instituto de la Consejería Jurídica y de Asistencia Legal; el Presidente de la Comisión de Derechos Humanos del Congreso del Estado, el Presidente de la Comisión de Justicia del Congreso del Estado y el Presidente de la Comisión de los Derechos Humanos del Estado de Chiapas.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2009)</small>
+
+###### Artículo 178 Ter.
+
+Dicho órgano tiene por objeto, previo el estudio y análisis respecto de la integración de los procesos penales, desde la fase de averiguación previa hasta sentencias ejecutoriadas, emitir las recomendaciones necesarias a las autoridades correspondientes para que realicen las acciones pertinentes que garanticen la legalidad en el debido proceso y respeto a los derechos humanos y garantías individuales de los inculpados.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2009)</small>
+
+###### Artículo 178 Quater.
+
+Las atribuciones de la Mesa de Reconciliación serán las siguientes:
+
+I. Recibir de la ciudadanía las solicitudes de análisis de los expedientes penales que se encuentren en fase de averiguación previa, procesos o con sentencia ejecutoriada.
+
+II. Dar respuesta a las solicitudes planteadas por la ciudadanía una vez que se conozca del asunto.
+
+III. Analizar los expedientes penales que se encuentren en fase de averiguación previa, proceso o sentencia ejecutoriada, a través de las autoridades competentes en la materia y con pleno respeto a sus funciones y atribuciones legales.
+
+IV. Emitir las recomendaciones necesarias para garantizar el cumplimiento de un debido proceso de las Averiguaciones Previas, que le sean planteadas.
+
+V. Recomendar a las diversas autoridades que forman parte del proceso judicial, la observancia del pleno respeto a los derechos humanos y garantías individuales de los procesados en las causas penales, a las que fueron sujetos.
+
+VI. Conocer de los conflictos sociales vinculados con la procuración de justicia, para sugerir acciones tendientes a la concertación entre las partes.
+
+VII. Emitir recomendaciones en todas las medidas de libertad anticipada a que se refiere este Código.
+
+VIII. Las demás atribuciones que le otorguen otros ordenamientos, su reglamento interior o se establezcan por acuerdo de dicho órgano.
+
+### Capítulo V. Condena Condicional
 
 ###### Articulo 179.
 
@@ -1491,7 +1527,7 @@ Si el sentenciado se acoge a la condena condicional, se le concederá inmediatam
 
 ## Título Noveno. Procedimiento de Ejecución
 
-### Capítulo II. Incidentes en el Procedimiento de Ejecución
+### Capítulo I. Procedimientos Ordinarios de Ejecución
 
 ###### Artículo 188.
 
@@ -1513,7 +1549,7 @@ El órgano jurisdiccional de la causa, remitirá a la Secretaría Ejecutiva y a 
 
 La Secretaría Ejecutiva, instrumentará los sistemas necesarios para la debida integración del expediente de ejecución hasta que se declaren extinguida la sanción y las medidas de seguridad impuestas.
 
-### Capítulo III. De los Recursos
+### Capítulo II. Incidentes en el Procedimiento de Ejecución
 
 ###### Artículo 191.
 
@@ -1531,6 +1567,8 @@ Todas las cuestiones que se propongan ante la Secretaría Ejecutiva, que se orig
 
 Las que se deriven de otras autoridades penitenciarias y que no tengan una forma de tramitación específica, se resolverán en los mismos términos.
 
+### Capítulo III. De los Recursos
+
 ###### Artículo 193.
 
 El recurso de revisión, es el medio de impugnación administrativo que hace valer quien considere conculcados sus derechos por actos emitidos por las autoridades penitenciarias.
@@ -1545,11 +1583,11 @@ Procederá contra las determinaciones del Director del Centro de reclusión, est
 
 El procedimiento de revisión, se sustanciará conforme a las siguientes reglas:
 
-l. Tendrán derecho a interponer el presente recurso, el sentenciado, su defensor o visitante;
+I. Tendrán derecho a interponer el presente recurso, el sentenciado, su defensor o visitante;
 
-ll. Se interpondrá por escrito, dentro de los tres días hábiles a partir de que surta efecto la notificación de la determinación del acto que origina la inconformidad, lo cual no suspenderá su ejecución;
+II. Se interpondrá por escrito, dentro de los tres días hábiles a partir de que surta efecto la notificación de la determinación del acto que origina la inconformidad, lo cual no suspenderá su ejecución;
 
-lll. Conjuntamente con la notificación de la resolución que imponga una sanción disciplinaria, la autoridad penitenciaria notificará al interno el plazo legal para impugnarla;
+III. Conjuntamente con la notificación de la resolución que imponga una sanción disciplinaria, la autoridad penitenciaria notificará al interno el plazo legal para impugnarla;
 
 IV. Interpuesto el recurso, la Secretaría Ejecutiva, dentro de las siguientes veinticuatro horas a la recepción del recurso, sin sustanciación alguna, lo admitirá y solicitará a la autoridad responsable un informe circunstanciado, el cual deberá rendir en un término de cuarenta y ocho horas, adjuntando las constancias relativas al acto; consecuentemente, se abrirá un plazo común de tres días para el ofrecimiento de pruebas;
 
@@ -1619,7 +1657,7 @@ De conformidad con la fracción I del artículo 42 de la Constitución Política
 
 Juan Sabines Guerrero, Gobernador del Estado.-Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 15 DE AGOSTO DE 2007.
 
@@ -1660,3 +1698,7 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las sentenciadas o procesadas, les serán aplicadas las disposiciones vigentes al momento de su comisión.
 
 Artículo Tercero.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 8 DE JULIO DE 2009.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
