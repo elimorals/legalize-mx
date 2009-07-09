@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-17-2005-del-tribunal-pleno-de-la-suprema-46401"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-10-04"
-last_updated: "2005-10-04"
+last_updated: "2009-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46401&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2005-09-20"
 
 ACUERDO GENERAL NUMERO 17/2005, DE DIECINUEVE DE SEPTIEMBRE DE DOS MIL CINCO, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, EN EL QUE SE DETERMINA EL APLAZAMIENTO DE LA RESOLUCION DE LOS AMPAROS EN REVISION DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, EN LOS QUE SE IMPUGNA EL ARTICULO 49, FRACCION I, DE LA LEY FEDERAL DE DERECHOS VIGENTE EN DOS MIL CINCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO GENERAL NUMERO 6/2009, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, SE LEVANTA EL APLAZAMIENTO RELATIVO DEL DICTADO DE LA RESOLUCION DE LOS ASUNTOS DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO EN LOS QUE SE IMPUGNAN LOS ARTICULOS 31-B Y 49, FRACCION I, DE LA LEY FEDERAL DE DERECHOS Y 32, FRACCION XXVI, DE LA LEY DEL IMPUESTO SOBRE LA RENTA, VIGENTES A PARTIR DEL 1 DE ENERO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JULIO DE 2009.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 4 de octubre de 2005.
 
@@ -72,3 +74,11 @@ El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Mariano Az
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que el Tribunal Pleno de la Suprema Corte de Justicia de la Nación, en su Sesión Privada celebrada ayer, diecinueve de septiembre de dos mil cinco, y por unanimidad de ocho votos de los señores Ministros Presidente Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano, Margarita Beatriz Luna Ramos, Juan Díaz Romero, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayagoitia y Sergio Armando Valls Hernández, emitió el Acuerdo General número 17/2005, EN EL QUE SE DETERMINA EL APLAZAMIENTO DE LA RESOLUCION DE LOS AMPAROS EN REVISION DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, EN LOS QUE SE IMPUGNA EL ARTICULO 49, FRACCION I, DE LA LEY FEDERAL DE DERECHOS VIGENTE EN DOS MIL CINCO, que antecede.- México, Distrito Federal, a veinte de septiembre de dos mil cinco.- Conste.- Rúbrica.
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia del Acuerdo Número 17/2005, constante de siete fojas útiles, concuerda fiel y exactamente con su original, y se certifica para dar cumplimiento a lo dispuesto en su Punto Segundo Transitorio. México, Distrito Federal, a veinte de septiembre de dos mil cinco.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 9 DE JULIO DE 2009.
+
+PRIMERO. Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública; y hágase del conocimiento del Consejo de la Judicatura Federal y, para su cumplimiento, de los Juzgados de Distrito y de los Tribunales Colegiados de Circuito.
