@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2009-06-18"
+last_updated: "2009-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JULIO DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
@@ -82,7 +82,9 @@ VI. Trabajador permanente: aquél que tenga una relación de trabajo por tiempo 
 
 VII. Trabajador eventual: aquél que tenga una relación de trabajo para obra determinada o por tiempo determinado en los términos de la Ley Federal del Trabajo;
 
-VIII. Sujetos o sujeto obligado: los señalados en los artículos 12, 13, 229, 230, 241 y 250 A, de la Ley, cuando tengan la obligación de retener las cuotas obrero patronales del seguro social o de realizar el pago de las mismas;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2009)</small>
+
+VIII. Sujetos o sujeto obligado: los señalados en los artículos 12, 13, 229, 230, 241 y 250-A de la ley, cuando tengan la obligación de retener las cuotas obrero-patronales del Seguro Social o de realizar el pago de las mismas, y los demás que se establezcan en esta ley;
 
 IX. Sujetos o sujeto de aseguramiento: los señalados en los artículos 12, 13, 241 y 250 A, de la Ley;
 
@@ -263,6 +265,34 @@ La información a que se refieren las fracciones I, II, III y IV, deberá propor
 Artículo 15 A. Cuando en la contratación de trabajadores para un patrón, a fin de que ejecuten trabajos o presten servicios para él, participe un intermediario laboral, cualquiera que sea la denominación que patrón e intermediarios asuman, ambos serán responsables solidarios entre sí y en relación con el trabajador, respecto del cumplimiento de las obligaciones contenidas en esta Ley.
 
 No serán considerados intermediarios, sino patrones, las empresas establecidas que presten servicios a otras, para ejecutarlos con elementos propios y suficientes para cumplir con las obligaciones que deriven de las relaciones con sus trabajadores, en los términos de los artículos 12, 13, 14 y 15 de la Ley Federal del Trabajo.
+
+> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 2009)</small>
+
+Sin perjuicio de lo dispuesto en los párrafos anteriores, cuando un patrón o sujeto obligado, cualquiera que sea su personalidad jurídica o su naturaleza económica, en virtud de un contrato, cualquiera que sea su forma o denominación, como parte de las obligaciones contraídas, ponga a disposición trabajadores u otros sujetos de aseguramiento para que ejecuten los servicios o trabajos acordados bajo la dirección del beneficiario de los mismos, en las instalaciones que éste determine, el beneficiario de los trabajos o servicios asumirá las obligaciones establecidas en esta Ley en relación con dichos trabajadores, en el supuesto de que el patrón omita su cumplimiento, siempre y cuando el Instituto hubiese notificado previamente al patrón el requerimiento correspondiente y éste no lo hubiera atendido.
+
+> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 2009)</small>
+
+Asimismo, el Instituto dará aviso al beneficiario de los trabajos o servicios, del requerimiento a que se refiere el párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 2009)</small>
+
+Los contratantes deberán comunicar trimestralmente ante la Subdelegación correspondiente al domicilio del patrón o sujeto obligado, y del beneficiario respectivamente, dentro de los primeros quince días de los meses de enero, abril, julio y octubre, en relación con los contratos celebrados en el trimestre de que se trate la información siguiente:
+
+I. De las partes en el contrato: Nombre, denominación o razón social; clase de persona moral de que se trate, en su caso; objeto social; domicilio social, fiscal y, en su caso, convencional para efectos del contrato; número del Registro Federal de Contribuyentes y de Registro Patronal ante el IMSS; datos de su acta constitutiva, tales como número de escritura pública, fecha, nombre del notario público que da fe de la misma, número de la notaría y ciudad a la que corresponde, sección, partida, volumen, foja o folio mercantil, en su caso, y fecha de inscripción en el Registro Público de la Propiedad y el Comercio; nombre de los representantes legales de las partes que suscribieron el contrato.
+
+II. Del contrato: Objeto; periodo de vigencia; perfiles, puestos o categorías indicando en este caso si se trata de personal operativo, administrativo o profesional y el número estimado mensual de trabajadores u otros sujetos de aseguramiento que se pondrán a disposición del beneficiario de los servicios o trabajos contratados.
+
+> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 2009)</small>
+
+El patrón incorporará por cada uno de sus trabajadores, el nombre del beneficiario de los servicios o trabajos contratados en el sistema de cómputo autorizado por el Instituto.
+
+> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 2009)</small>
+
+Cuando el patrón se obligue a poner a disposición del beneficiario, trabajadores para prestar los servicios o ejecutar los trabajos en varios centros de trabajo ubicados en la circunscripción territorial de más de una subdelegación del Instituto, el patrón y el beneficiario deberán comunicar la información a que se refiere el quinto párrafo de este artículo, únicamente ante la subdelegación dentro de cuya circunscripción se ubique su respectivo domicilio fiscal.
+
+> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 2009)</small>
+
+La información prevista en este artículo podrá ser presentada a través de los medios señalados en el último párrafo del artículo 15 de esta Ley, conforme a las reglas generales que para tal efecto emita el Consejo Técnico.
 
 Para los efectos de este artículo, el Gobierno Federal, en ningún caso, será considerado como intermediario laboral.
 
@@ -955,6 +985,12 @@ La siniestralidad se fijará conforme al reglamento de la materia.
 ###### Artículo 75.
 
 La determinación de las clases comprenderá una lista de los diversos tipos de actividades y ramas industriales, catalogándolas en razón de la mayor o menor peligrosidad a que están expuestos los trabajadores, y asignando a cada uno de los grupos que formen dicha lista, una clase determinada. Este supuesto sólo se aplicará a las empresas que se inscriben por primera vez en el Instituto o cambien de actividad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 2009)</small>
+
+Para efectos de la clasificación en el seguro de riesgos de trabajo, tratándose de los patrones a que se refiere el tercer párrafo del artículo 15-A, de esta Ley, a solicitud del patrón, el Instituto le asignará un registro patronal por cada una de las clases, que así se requiera, de las señaladas en el artículo 73 de esta Ley, con el que realizará la inscripción de sus trabajadores a nivel nacional. Los patrones o sujetos obligados que se hayan clasificado en términos de lo dispuesto en este párrafo, revisarán anualmente su siniestralidad conforme al artículo 74 de esta Ley de manera independiente por cada uno de los registros patronales asignados.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -3598,9 +3634,17 @@ XVIII. No comunicar al Instituto por escrito sobre el estallamiento de huelga o 
 
 XIX. Omitir o presentar extemporáneamente el dictamen por contador público autorizado cuando se haya ejercido dicha opción en términos del artículo 16 de esta Ley;
 
-XX. No cumplir o hacerlo extemporáneamente con la obligación de dictaminar por contador público autorizado sus aportaciones ante el Instituto, y
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2009)</small>
 
-XXI. Notificar en forma extemporánea, hacerlo con datos falsos o incompletos o bien, omitir notificar al Instituto en los términos del reglamento respectivo, el domicilio de cada una de las obras o fase de obra que realicen los patrones que esporádica o permanentemente se dediquen a la industria de la construcción.
+XX. No cumplir o hacerlo extemporáneamente con la obligación de dictaminar por contador público autorizado sus aportaciones ante el Instituto;
+
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2009)</small>
+
+XXI. Notificar en forma extemporánea, hacerlo con datos falsos o incompletos o bien, omitir notificar al Instituto en los términos del reglamento respectivo, el domicilio de cada una de las obras o fase de obra que realicen los patrones que esporádica o permanentemente se dediquen a la industria de la construcción, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2009)</small>
+
+XXII. No presentar al Instituto la información señalada en el artículo 15-A de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -3612,7 +3656,9 @@ II. Las previstas en las fracciones III, X, XIII y XVIII con multa equivalente a
 
 III. Las previstas en las fracciones VI, IX y XV con multa equivalente al importe de veinte a doscientas diez veces el salario mínimo diario general vigente en el Distrito Federal, y
 
-IV. Las previstas en las fracciones I, II, XII, XIV, XVII, XX y XXI con multa equivalente al importe de veinte a trescientas cincuenta veces el salario mínimo diario general vigente en el Distrito Federal.
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2009)</small>
+
+IV. Las previstas en las fracciones I, II, XII, XIV, XVII, XX, XXI y XXII, con multa equivalente al importe de veinte a trescientas cincuenta veces el salario mínimo diario general vigente en el Distrito Federal.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -4035,3 +4081,21 @@ SEXTO.- A todos los trabajadores que hubieren recibido la ayuda para gastos de m
 D.O.F. 18 DE JUNIO DE 2009.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE JULIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de la reforma al artículo 75, de la Ley del Seguro Social, que se adiciona, cuya vigencia empezará 250 días después de que se haya efectuado dicha publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efectos de lo dispuesto en el sexto párrafo del artículo 15-A de la Ley del Seguro Social, el Instituto dentro del plazo de 250 días, autorizará el sistema de cómputo que deberá utilizar el patrón para cumplir con las obligaciones correspondientes.
+
+Durante el plazo señalado, el patrón dentro de la información detallada en el quinto párrafo del artículo 15-A de la Ley del Seguro Social, proporcionará adicionalmente el monto estimado mensual de la nómina de los trabajadores puestos a disposición del beneficiario de los servicios o trabajos contratados y los domicilios de los lugares dónde se prestarán los servicios o se ejecutarán los trabajos contratados; asimismo, deberá señalar si el beneficiario de los servicios es responsable en cuanto a la dirección, supervisión y capacitación de los trabajadores.
+
+La información detallada en el párrafo anterior, deberá ser presentada por una sola vez respecto de cada contrato celebrado.
+
+###### ARTÍCULO TERCERO.
+
+Para efectos de lo dispuesto en el segundo párrafo del artículo 75, de la Ley del Seguro Social, que se adiciona, los patrones o sujetos obligados que venían operando con anterioridad a la entrada en vigor del presente Decreto, continuarán clasificados en la misma actividad para efectos del seguro de riesgos de trabajo y aplicando la misma prima determinada conforme al procedimiento establecido por el artículo 74 de esta Ley por los registros patronales que tenían vigentes a esa fecha. Los registros patronales que soliciten con posterioridad a la entrada en vigor del presente Decreto, se clasificarán conforme a lo establecido en el citado segundo párrafo del artículo 75. El Consejo Técnico del Instituto Mexicano del Seguro Social podrá emitir reglas generales para tal efecto.
