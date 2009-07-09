@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-3-2007-del-tribunal-pleno-de-la-53777"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-02-13"
-last_updated: "2007-09-07"
+last_updated: "2009-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53777&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2007-01-29"
 
 ACUERDO GENERAL NUMERO 3/2007, DE VEINTINUEVE DE ENERO DEL AÑO DOS MIL SIETE, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, EN EL QUE SE DISPONE EL APLAZAMIENTO DE LA RESOLUCION EN LOS ASUNTOS DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, EN LOS QUE SE IMPUGNAN LOS PRECEPTOS MATERIA DE ESTUDIO DE LAS COMISIONES FISCALES INTEGRADAS POR EL MISMO TRIBUNAL PLENO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO NUMERO 21/2007, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 7 DE SEPTIEMBRE DE 2007, SE LEVANTA EL APLAZAMIENTO, Y LA REMISION A LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y CONSERVACION POR ESTOS, PARA SU RESOLUCION, DE LOS ASUNTOS EN LOS QUE SE IMPUGNAN ARTICULOS DE LA LEY DEL IMPUESTO SOBRE LA RENTA RELACIONADOS CON EL CALCULO DEL IMPUESTO RELATIVO, DE LAS PERSONAS FISICAS QUE PERCIBEN INGRESOS POR LA PRESTACION DE UN SERVICIO PERSONAL SUBORDINADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO GENERAL NUMERO 6/2009, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, SE LEVANTA EL APLAZAMIENTO RELATIVO DEL DICTADO DE LA RESOLUCION DE LOS ASUNTOS DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO EN LOS QUE SE IMPUGNAN LOS ARTICULOS 31-B Y 49, FRACCION I, DE LA LEY FEDERAL DE DERECHOS Y 32, FRACCION XXVI, DE LA LEY DEL IMPUESTO SOBRE LA RENTA, VIGENTES A PARTIR DEL 1 DE ENERO DE 2005.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JULIO DE 2009.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 13 de febrero de 2007.
 
@@ -86,3 +86,9 @@ PRIMERO. Este acuerdo entrará en vigor el día de su publicación en el Diario 
 SEGUNDO. Comuníquese este acuerdo a los Tribunales Colegiados y Unitarios de Circuito y a los Juzgados de Distrito.
 
 TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
+
+D.O.F. 9 DE JULIO DE 2009.
+
+PRIMERO. Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública; y hágase del conocimiento del Consejo de la Judicatura Federal y, para su cumplimiento, de los Juzgados de Distrito y de los Tribunales Colegiados de Circuito.
