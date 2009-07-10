@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-para-la-proteccion-al-56137"
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-07-25"
-last_updated: "2007-07-25"
+last_updated: "2009-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56137&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-07-16"
 
 ESTATUTO ORGANICO DEL INSTITUTO PARA LA PROTECCION AL AHORRO BANCARIO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE JULIO DE 2009.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de julio de 2007.
 
@@ -113,6 +113,8 @@ El Secretario Ejecutivo es la máxima autoridad administrativa del Instituto y c
 
 El Secretario Ejecutivo podrá ejercer sus facultades ante particulares y ante toda clase de autoridades.
 
+> <small>(REFORMADO, D.O.F. 10 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 8.
 
 El Secretario Ejecutivo para el ejercicio de sus atribuciones será auxiliado por los servidores públicos titulares de las áreas siguientes:
@@ -123,35 +125,17 @@ A. Dirección General de Operaciones de Protección y Resoluciones Bancarias
 
 i. Dirección General Adjunta de Operaciones de Protección
 
-1. Dirección de Estudios Técnicos
-
-2. Dirección de Implementación
-
 ii. Dirección General Adjunta de Obligaciones Garantizadas
-
-1. Dirección de Pagos de Obligaciones Garantizadas
 
 iii. Dirección General Adjunta de Liquidaciones
 
-1. Dirección de Instituciones en Liquidación
-
 iv. Dirección General Adjunta de Concursos Mercantiles
-
-1. Dirección de Instituciones en Concurso Mercantil
-
-2. Dirección de Control de Procesos de Concurso Mercantil
 
 B. Dirección General del Seguro de Depósito
 
 i. Dirección General Adjunta de Seguimiento de Instituciones
 
-1. Dirección de Seguimiento de Instituciones
-
 ii. Dirección General Adjunta de Investigación del Seguro de Depósito
-
-1. Dirección de Investigación del Seguro de Depósito
-
-2. Dirección de Análisis del Seguro de Depósito
 
 iii. Dirección General Adjunta de Coordinación, Desarrollo y Planeación Estratégica
 
@@ -159,15 +143,7 @@ C. Dirección General de Finanzas
 
 i. Dirección General Adjunta de Planeación Financiera
 
-1. Dirección de Programación Financiera e Informes
-
-2. Dirección de Análisis Financiero y Emisiones
-
 ii. Dirección General Adjunta de Tesorería
-
-1. Dirección de Control de Flujos y Saldos de Tesorería
-
-2. Dirección de Inversión y Proyección de Flujos
 
 II. Secretaría Adjunta de Recuperación de Activos y Asuntos Internacionales
 
@@ -175,41 +151,21 @@ A. Dirección General de Administración y Enajenación de Activos
 
 i. Dirección General Adjunta de Bienes Corporativos
 
-1. Dirección de Supervisión Corporativa y de Participaciones Accionarias
-
 ii. Dirección General Adjunta de Bienes Muebles e Inmuebles
 
-1. Dirección de Comercialización y Enajenación
-
-2. Dirección de Control y Seguimiento de Procesos de Enajenación
-
 iii. Dirección General Adjunta de Cartera Crediticia
-
-1. Dirección de Enajenación de Cartera
 
 B. Dirección General de Supervisión de Fideicomisos y Administradoras
 
 i. Dirección General Adjunta de Supervisión de Gestión
 
-1. Dirección de Supervisión de Gestión I
-
-2. Dirección de Supervisión de Gestión II
-
 ii. Dirección General Adjunta de Supervisión Operativa
 
-1. Dirección de Supervisión Operativa
-
 iii. Dirección General Adjunta de Auditorías y Control Estadístico
-
-1. Dirección de Auditorías de Gestión
 
 C. Dirección General de Asuntos Internacionales
 
 i. Dirección General Adjunta de Asuntos Internacionales
-
-1. Dirección de Coordinación de Asuntos Internacionales
-
-2. Dirección de Investigación y Proyectos Internacionales
 
 III. Secretaría Adjunta Jurídica
 
@@ -217,83 +173,39 @@ A. Dirección General Jurídica de Protección al Ahorro
 
 i. Dirección General Adjunta Jurídica de Seguro de Depósito
 
-1. Dirección Jurídica de Obligaciones Garantizadas y Resoluciones Bancarias
-
 ii. Dirección General Adjunta Jurídica de Asuntos Corporativos
-
-1. Dirección Jurídica de Asuntos Bancarios
-
-2. Dirección Jurídica de Instrumentos Financieros
 
 B. Dirección General Jurídica Técnica y de Recuperación
 
 i. Dirección General Adjunta Jurídica Técnica
 
-1. Dirección Jurídica de Asuntos Internacionales y Control Documental
-
 ii. Dirección General Adjunta Jurídica de Apoyo en Recuperación de Activos
-
-1. Dirección Jurídica de Apoyo a Fideicomisos y Ventas
 
 C. Dirección General Jurídica de lo Contencioso
 
 i. Dirección General Adjunta Jurídica de Seguimiento y Enlace
 
-1. Dirección Jurídica de Seguimiento Contencioso a Terceros
-
 ii. Dirección General Adjunta Jurídica de lo Contencioso
-
-1. Dirección Jurídica de Atención a Reclamaciones
-
-2. Dirección Jurídica de Asuntos Contenciosos
 
 D. Dirección General Jurídica de Normatividad y Consulta
 
 i. Dirección General Adjunta Jurídica de Normatividad y Consulta
 
-1. Dirección Jurídica de Normatividad y Apoyo a Consultas
-
-2. Dirección Jurídica de Procedimientos Legales y Apoyo a Contrataciones Administrativas
-
-ii. Dirección Jurídica de Apoyo al Secretariado de la Junta de Gobierno y Asuntos Especiales
-
 IV. Secretaría Adjunta de Administración, Presupuesto y Sistemas
 
 A. Dirección General de Información y Sistemas
 
-1. Dirección de Sistemas
-
-2. Dirección de Infraestructura Tecnológica
-
 B. Dirección General Adjunta de Administración
-
-1. Dirección de Recursos Humanos
-
-2. Dirección de Recursos Materiales y Servicios Generales
 
 C. Dirección General Adjunta de Programación, Presupuesto y Contabilidad
 
-1. Dirección de Programación y Presupuesto
-
-2. Dirección de Contabilidad Financiera
-
 V. Dirección General Adjunta de Administración de Riesgos
-
-1. Dirección de Administración de Riesgos Financieros
-
-2. Dirección de Administración de Riesgos Operativos
 
 VI. Dirección General de Comunicación Social y Relaciones Institucionales
 
 i. Dirección General Adjunta de Relaciones Institucionales
 
-1. Dirección de Información Pública, Transparencia, Control y Seguimiento
-
-2. Dirección de Relaciones Institucionales
-
-ii. Dirección de Análisis y Seguimiento Informativo
-
-Las áreas antes citadas estarán integradas además, por subdirecciones, jefaturas de departamento y por el personal que se requiera para el mejor desempeño de sus atribuciones.
+Las Direcciones Generales y Direcciones Generales Adjuntas citadas estarán integradas además de por sus titulares, por las direcciones, subdirecciones, jefaturas de departamento y por el personal que se requiera para el mejor desempeño de sus atribuciones. Para tal efecto, el Secretario Ejecutivo expedirá el Acuerdo de adscripción de las unidades administrativas correspondientes, el cual será publicado en el Diario Oficial de la Federación.
 
 Para efectos de este Estatuto Orgánico, se entenderá por unidades administrativas las previstas en los Capítulos Primero y Segundo del Título Segundo de este ordenamiento.
 
@@ -971,9 +883,11 @@ Las reglas, disposiciones, resoluciones o acuerdos que deban publicarse en el Di
 
 ## TITULO TERCERO. Del Control y Evaluación
 
+> <small>(REFORMADO, D.O.F. 10 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 36.
 
-El Instituto cuenta con un Organo Interno de Control, integrado por su titular y los Titulares de las Areas de Auditoría Interna; Responsabilidades y Quejas, y Auditoría de Control y Evaluación y Apoyo al Buen Gobierno, quienes serán designados en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, para ejercer sus facultades, en el ámbito de sus respectivas competencias, previstas en el Reglamento Interior de la Secretaría de la Función Pública y en los demás ordenamientos legales y administrativos aplicables. Dichos titulares se auxiliarán, para el ejercicio de sus atribuciones, con el personal asignado al Organo Interno de Control.
+El Instituto cuenta con un Organo Interno de Control, integrado por su titular y los Titulares de las Areas de Auditoría Interna; Responsabilidades y Quejas, y Auditoría para Desarrollo y Mejora de la Gestión Pública, quienes serán designados en los términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal, para ejercer sus facultades, en el ámbito de sus respectivas competencias, previstas en el Reglamento Interior de la Secretaría de la Función Pública y en los demás ordenamientos legales y administrativos aplicables. Dichos titulares se auxiliarán, para el ejercicio de sus atribuciones, con el personal asignado al Organo Interno de Control.
 
 ## TRANSITORIOS
 
@@ -986,3 +900,13 @@ TERCERO.- Los manuales, lineamientos y demás disposiciones administrativas apli
 CUARTO.- Se derogan todas aquellas disposiciones administrativas que se opongan o contravengan lo previsto en el presente instrumento.
 
 México, D.F., a 16 de julio de 2007.- El Secretario Ejecutivo, María Teresa Fernández Labardini.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 10 DE JULIO DE 2009.
+
+PRIMERO.- Las modificaciones a que se refiere el presente Acuerdo entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan las disposiciones contrarias a las aprobadas en el presente Acuerdo, contenidas en el Estatuto Orgánico del Instituto para la Protección al Ahorro Bancario, publicado el 25 de julio de 2007 en el Diario Oficial de la Federación.
+
+TERCERO.- Las referencias que se hacen y las atribuciones que se otorgan en lineamientos, acuerdos, reglas y demás disposiciones a las unidades administrativas o áreas que cambian de denominación o desaparecen por virtud de la presente modificación, se entenderán hechas o conferidas a las unidades administrativas o áreas que correspondan conforme a lo establecido en ésta.
