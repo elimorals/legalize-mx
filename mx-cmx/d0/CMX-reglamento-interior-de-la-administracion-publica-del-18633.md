@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2009-06-09"
+last_updated: "2009-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE JULIO DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -1788,7 +1788,9 @@ XV. Proponer medidas para la mejor aplicación de las disposiciones legales en e
 
 XVI. Opinar acerca de la publicación en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación, de las disposiciones de carácter general relativas al ámbito de competencia de la Secretaría de Finanzas y, en su caso, tramitar dicha publicación, así como compilar la legislación y la jurisprudencia en la materia;
 
-XVII. Representar el interés de la Hacienda Pública del Distrito Federal en controversias fiscales y en los intereses que deriven de las funciones operativas inherentes a los acuerdos del Ejecutivo Federal en materia de contribuciones federales coordinadas, a la Secretaría de Finanzas y a las autoridades dependientes de la misma en toda clase de juicios, investigaciones o procedimientos administrativos ante los tribunales del Distrito Federal y de la República, ante otras autoridades administrativas o judiciales competentes, ejercitar las acciones, excepciones y defensas de las que sean titulares, e interponer los recursos que procedan ante los citados tribunales y autoridades, siempre que dicha representación no corresponda a otra Unidad Administrativa de la propia Secretaría de Finanzas o al Ministerio Público del Distrito Federal y, en su caso, proporcionarle los elementos que sean necesarios;
+> <small>(REFORMADA, G.O. 10 DE JULIO DE 2009)</small>
+
+XVII. Representar el interés de la Hacienda Pública del Distrito Federal en controversias fiscales y en los intereses que deriven de las funciones operativas inherentes a los acuerdos del Ejecutivo Federal en materia de contribuciones federales coordinadas, incluyendo los actos relacionados en materia de comercio exterior, a la Secretaría de Finanzas y a las autoridades dependientes de la misma en toda clase de juicios, investigaciones o procedimientos administrativos ante los tribunales del Distrito Federal y de la República, ante otras autoridades administrativas o judiciales competentes, ejercitar las acciones, excepciones y defensas de las que sean titulares, e interponer los recursos que procedan ante los citados tribunales y autoridades, siempre que dicha representación no corresponda a otra Unidad Administrativa de la propia Secretaría de Finanzas o al Ministerio Público del Distrito Federal y, en su caso, proporcionarle los elementos que sean necesarios;
 
 XVIII. Interponer ante la Sala Superior del Tribunal de lo Contencioso Administrativo del Distrito Federal y con la representación señalada en la fracción anterior, recursos en contra de las resoluciones de las Salas del Tribunal que decreten o nieguen el sobreseimiento, las que resuelvan el juicio o la cuestión planteada en el fondo y las que pongan fin al procedimiento;
 
@@ -4616,7 +4618,9 @@ X. Recibir y resolver las solicitudes de compensación que formulen los contribu
 
 XI. Ejercer la facultad económica coactiva mediante el procedimiento administrativo de ejecución para hacer efectivos los créditos fiscales locales y los de carácter federal, en los términos de las disposiciones fiscales aplicables y de los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal, y demás que al efecto se celebren;
 
-XII. Ordenar la práctica de los embargos precautorios en los términos de las disposiciones fiscales del Distrito Federal y las de carácter federal, cuya aplicación esté encomendada a las autoridades hacendarías locales;
+> <small>(REFORMADA, G.O. 10 DE JULIO DE 2009)</small>
+
+XII. Ordenar la práctica de los embargos, así como su cancelación, en los términos de las disposiciones fiscales del Distrito Federal y las de carácter federal, cuya aplicación esté encomendada a las autoridades hacendarías locales;
 
 > <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
 
@@ -4664,7 +4668,9 @@ III. Coordinar y evaluar la operación y aplicación de las normas y procedimien
 
 IV. Establecer directrices en relación con la autorización de las solicitudes de contribuyentes en materia de pago a plazos de los créditos fiscales;
 
-V. Efectuar en el ámbito de su competencia el seguimiento y vigilancia en la práctica de los embargos precautorios en los términos de las disposiciones fiscales del Distrito Federal y las de carácter federal, cuya aplicación esté encomendada a las autoridades hacendarias locales, en los términos de los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal, y demás que al efecto se celebren;
+> <small>(REFORMADA, G.O. 10 DE JULIO DE 2009)</small>
+
+V. Efectuar en el ámbito de su competencia el seguimiento y vigilancia en la práctica de los embargos, así como su cancelación, en los términos de las disposiciones fiscales del Distrito Federal y las de carácter federal, cuya aplicación esté encomendada a las autoridades hacendarias locales, en los términos de los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal, y demás que al efecto se celebren;
 
 VI. Verificar la practica y ejecución de todos los actos inherentes a las atribuciones de las autoridades fiscales del Distrito Federal, en materia del ejercicio de las atribuciones, excepto al trámite y resolución de los recursos administrativos previstos en las disposiciones fiscales;
 
@@ -4814,7 +4820,9 @@ III. Hacer efectivas a través del Procedimiento Administrativo de Ejecución la
 
 IV. Aceptar, previa calificación, las garantías que otorguen los contribuyentes para asegurar el interés fiscal cuando soliciten la suspensión del procedimiento administrativo de ejecución, así como registrarlas, autorizar su sustitución, cancelarlas o hacerlas efectivas y ordenar su ampliación cuando sea procedente;
 
-V. Ordenar la práctica de los embargos precautorios en los términos de las disposiciones fiscales del Distrito Federal, y las de carácter federal aplicables;
+> <small>(REFORMADA, G.O. 10 DE JULIO DE 2009)</small>
+
+V. Ordenar la práctica de los embargos, así como su cancelación, en los términos de las disposiciones fiscales del Distrito Federal, y las de carácter federal aplicables;
 
 VI. Coordinar el cumplimiento de las normas y procedimientos inherentes al desarrollo de sus funciones;
 
@@ -4960,9 +4968,9 @@ I. Acordar con el Procurador Fiscal los asuntos de su competencia;
 
 II. Representar en toda clase de juicios, incluyendo el de amparo, los intereses de la Hacienda Pública del Distrito Federal en materia de contribuciones locales, formulando la contestación de las demandas que se tramiten en el Tribunal de lo Contencioso Administrativo del Distrito Federal, ofrecer y rendir pruebas, promover incidentes, interponer recursos, formular alegatos, hacer promociones de trámite, autorizar delegados e incluso allanarse a las demandas, así como intervenir en los casos en que el crédito fiscal esté controvertido. Asimismo, formular y presentar las demandas para solicitar la nulidad de las resoluciones favorables a los particulares, actuar en los juicios de amparo relacionados, y realizar los demás actos procesales correspondientes;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 10 DE JULIO DE 2009)</small>
 
-III. Representar el interés de la Hacienda Pública del Distrito Federal en todos los juicios que se susciten con motivo de las atribuciones delegadas a la Administración Pública del Distrito Federal en los Acuerdos o convenios de coordinación fiscal suscritos por el Ejecutivo Federal, formular las contestaciones de demandas ante el Tribunal Federal de Justicia Fiscal y Administrativa, ofrecer y rendir pruebas, promover incidentes, interponer recursos, formular alegatos, presentar promociones de trámite, autorizar delegados e incluso allanarse a las demandas, formular demandas para solicitar la nulidad de resoluciones favorables a los particulares y actuar en los juicios de amparo relacionados con aquéllas, así como realizar los demás actos procesales que correspondan, sin perjuicio de la intervención que corresponda a la Secretaría (sic) Hacienda y Crédito Público; así como, en general representar el interés de la Hacienda Pública del Distrito Federal en las controversias fiscales en toda clase de juicios, investigaciones o procedimientos, incluyendo el de amparo, ante los Tribunales del Distrito Federal, Federales o de otras entidades federativas; ejecutar las acciones, excepciones y defensas, promover incidentes, interponer recursos, formular alegatos y desahogo de vista y autorizar delegados, así como los demás actos procesales correspondientes, conforme a las leyes y ordenamientos aplicables, mismos que incluso pueden ser conferidos a los interiores jerárquicos;
+III. Representar el interés de la Hacienda Pública del Distrito Federal en todos los juicios que se susciten con motivo de las atribuciones delegadas a la Administración Pública del Distrito Federal en los acuerdos o convenios de coordinación fiscal suscritos por el Ejecutivo Federal, incluyendo los actos relacionados en materia de comercio exterior, formular las contestaciones de demandas ante el Tribunal Federal de Justicia Fiscal y Administrativa, ofrecer y rendir pruebas, promover incidentes, interponer recursos, formular alegatos, presentar promociones de trámite, autorizar delegados e incluso allanarse a las demandas, formular demandas para solicitar la nulidad de resoluciones favorables a los particulares y actuar en los juicios de amparo relacionados con aquéllas, así como realizar los demás actos procesales que correspondan, sin perjuicio de la intervención que corresponda a la Secretaría de Hacienda y Crédito Público; así como, en general representar el interés de la Hacienda Pública del Distrito Federal en las controversias fiscales en toda clase de juicios, investigaciones o procedimientos, incluyendo el de amparo, ante los Tribunales del Distrito Federal, Federales o de otras entidades federativas; ejecutar las acciones, excepciones y defensas, promover incidentes, interponer recursos, formular alegatos y desahogo de vista y autorizar delegados, así como los demás actos procesales correspondientes, conforme a las leyes y ordenamientos aplicables, mismos que incluso pueden ser conferidos a los inferiores jerárquicos;
 
 IV. Intervenir cuando la Secretaría de Finanzas tenga el carácter de tercero perjudicado en los juicios de amparo;
 
@@ -4980,9 +4988,9 @@ VIII. Informar a la Secretaría de Finanzas y a la Tesorería del Distrito Feder
 
 IX. Vigilar el cumplimiento de las sentencias pronunciadas por los Tribunales Locales o Federales en relación con los juicios promovidos por los actos o resoluciones de las Unidades Administrativas y Unidades Administrativas de apoyo técnico-operativo del Distrito Federal en materia fiscal local y federal que le sean propias;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 10 DE JULIO DE 2009)</small>
 
-X. Conforme a las leyes y ordenamientos aplicables, solicitar a las Unidades Administrativas de Apoyo Técnico Operativo de la Secretaría de Finanzas y de la Tesorería, los informes y actuaciones respecto de los actos o resoluciones que dieron origen a la interposición de los recursos o juicios, en relación a los acuerdos o convenios de coordinación fiscal;
+X. Conforme a las leyes y ordenamientos aplicables, solicitar a las Unidades Administrativas de Apoyo Técnico Operativo de la Secretaría de Finanzas y de la Tesorería, los informes y actuaciones respecto de los actos o resoluciones que dieron origen a la interposición de los recursos o juicios, en relación a los acuerdos o convenios de coordinación fiscal, incluyendo los actos relacionados en materia de comercio exterior;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE FEBRERO DE 2007)</small>
 
@@ -13139,3 +13147,11 @@ PRIMERO. - Publíquese en la Gaceta Oficial del Distrito Federal.
 SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO. - Se abroga el Acuerdo por el que se crea la Unidad de Inteligencia Financiera en el Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el veintidós de enero del año dos mil siete.
+
+G.O. 10 DE JULIO DE 2009.
+
+PRIMERO. - Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
+
+SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. - Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
