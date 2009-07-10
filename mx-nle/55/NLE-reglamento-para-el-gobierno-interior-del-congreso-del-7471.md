@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2009-06-10"
+last_updated: "2009-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -527,11 +527,15 @@ i) Las leyes que establezcan y regulen los temas integrales en materia de tratam
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE DICIEMBRE DE 2007)</small>
 
-j) La expedición y reforma de la legislación en materia de justicia para adolescentes; y
+j) La expedición y reforma de la legislación en materia de justicia para adolescentes; y (sic)
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2009)</small>
+
+k) Por medio de su Presidente, participar en los trabajos de implementación sobre el sistema de justicia, que sean organizados por las diversas autoridades de gobierno, instituciones, o cualquier otro organismo, y
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
-k) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+l) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
 
@@ -2298,3 +2302,7 @@ DECRETO No. 336, POR EL QUE SE REFORMA LA FRACCION VI DEL ARTICULO 39 DEL REGLAM
 P.O. 10 DE JUNIO DE 2009.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 10 DE JULIO DE 2009.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
