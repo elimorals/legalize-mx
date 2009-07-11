@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-los-servicios-de-salud-del-estado-de-226
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-07-14"
-last_updated: "2008-08-30"
+last_updated: "2009-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COL"
 
 REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2009.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 14 de julio de 2001.
 
@@ -96,7 +96,7 @@ Para la más eficaz atención de los asuntos de su competencia y materia, el Org
 
 Dirección de Servicios de Salud.
 
-Dirección Administrativa.
+> <small>(DEROGADO, P.O. 11 DE JULIO DE 2009)</small>
 
 Dirección de Planeación.
 
@@ -114,9 +114,7 @@ Unidad de Asuntos Jurídicos.
 
 - Administración de la Beneficencia Pública del Estado.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2008)</small>
-
-- Instituto Estatal de Cancerología.
+> <small>(DEROGADO, P.O. 11 DE JULIO DE 2009)</small>
 
 - Comisión Estatal de Arbitraje Médico.
 
@@ -722,107 +720,11 @@ XI. La estructura y funcionamiento de la Administración de la Beneficencia Púb
 
 XII. Las demás que le señalen las leyes, reglamentos, decretos y acuerdos, o las autoridades superiores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 2008)</small>
-
 ###### ARTICULO 35.
 
-El Instituto Estatal de Cancerología, tendrá las siguientes facultades y obligaciones:
+(DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-I. Prestar servicios de prevención así como de tratamiento médico, quimioterápico, radioterapeútico y quirúrgico del paciente con diagnóstico de cáncer;
-
-II. Llevar a cabo programas de orientación ciudadana que permitan la detección oportuna del cáncer y su tratamiento efectivo;
-
-III. Tener a su cargo el registro estatal de cáncer;
-
-IV. Promover y realizar educación médica e investigación en la materia;
-
-V. Tener relación asistencial con el Instituto Nacional de Cancerología y la convenida con otras instituciones y establecimientos médicos del Estado, del país y del extranjero;
-
-VI. Captar las cuotas de recuperación, canalizando diariamente los recursos que se generen por este concepto, a la administración de la beneficencia pública, en la cuenta de cheques específica;
-
-VII. Mantener actualizada la plantilla de personal de la unidad;
-
-VIII. Elaborar y dar seguimiento al programa de obras, conservación y mantenimiento de instalaciones, equipos y activos en general;
-
-IX. Evaluar periódicamente el avance programático presupuestal de la unidad;
-
-X. De conformidad con la normatividad vigente, instrumentar lo conducente, dentro de su competencia, para la adecuada disposición de los residuos biológico-infecciosos, tóxicos y peligrosos que se generen;
-
-XI. Establecer la coordinación técnica de las clínicas de displasias en el Estado, con el objeto de optimizar su funcionamiento; y (sic)
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2008)</small>
-
-XII. Coadyuvar a la consolidación y funcionamiento del Sistema Estatal de Salud;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2008)</small>
-
-XIII. Apoyar la ejecución de los Programas Sectoriales de Salud en el ámbito de sus funciones y servicios;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2008)</small>
-
-XIV. Prestar servicios de salud en materia de atención médica en aspectos preventivos, curativos y de rehabilitación en el ámbito de su especialidad;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2008)</small>
-
-XV. Proporcionar consulta externa y atención hospitalaria a la población que la requiera, en el campo de las neoplasias, en las instalaciones disponibles para el efecto, tomando en consideración las condiciones socio-económicas de los pacientes sin que las cuotas de recuperación desvirtúen la función social del Instituto;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2008)</small>
-
-XVI. Aplicar medidas de asistencia y ayuda social en beneficio de los enfermos de escasos recursos económicos que soliciten los servicios, incluyendo acciones de orientación vocacional, reeducación y reincorporación al medio social;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2008)</small>
-
-XVII. Realizar estudios e investigaciones clínicas y experimentales en el campo de las neoplasias, con apego a la Ley General de Salud y demás disposiciones aplicables, para la prevención, diagnóstico, tratamiento y rehabilitación;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2008)</small>
-
-XVIII. Difundir información técnica y científica sobre los avances que en materia de salud, así como publicar los resultados de las investigaciones y trabajos que realice;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2008)</small>
-
-XIX. Promover y realizar reuniones y eventos de intercambio científico de carácter Nacional e Internacional y celebrar convenios de intercambio con instituciones afines;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2008)</small>
-
-XX. Asesorar y rendir opiniones a los Servicios Estatales de Salud en la formulación de normas relativas a la especialidad del Instituto;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2008)</small>
-
-XXI. Actuar como Órgano de Consulta de las Dependencias y Entidades de la Administración Pública Estatal, en su área de especialización y de asesoramiento a instituciones sociales y privadas en la materia;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2008)</small>
-
-XXII. Especializar al personal para la atención de enfermos con neoplasias y actividades que les sean afines, de conformidad con las disposiciones aplicables;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2008)</small>
-
-XXIII. Formular y ejecutar programas y cursos de capacitación, enseñanza y especialización de personal profesional, técnico y auxiliar, en el campo de las neoplasias;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2008)</small>
-
-XXIV. Otorgar diplomas y reconocimientos de estudios, de conformidad con las disposiciones aplicables;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2008)</small>
-
-XXV. Promover la realización de acciones para la protección de la salud en lo relativo al cáncer, conforme a las disposiciones legales aplicables;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2008)</small>
-
-XXVI. Prestar los demás servicios y realizar las actividades necesarias, para el cumplimiento de su objeto conforme a este Decreto y otras disposiciones legales aplicables; y
-
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2008)</small>
-
-XXVII. Las demás que le señalen las Leyes, Reglamentos, Decretos y Acuerdos, o las autoridades superiores.
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2008)</small>
-
-ARTICULO 35 BIS.- El Instituto Estatal de Cancerología quedará integrado por:
-
-I. El Consejo Directivo;
-
-II. La Dirección General; y
-
-III. La estructura Orgánica y Administrativa que se establezcan en el Reglamento Interior del INSTITUTO.
+ARTICULO 35 BIS.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
 ###### ARTICULO 36.
 
@@ -1035,3 +937,7 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Se otorga un plazo de 60 días contados a partir de la publicación del presente Decreto, para la expedición del Reglamento que regule las funciones del Instituto Estatal de Cancerología.
 
 TERCERO.- El presente Decreto no crea nuevas plazas, ya que con el mismo personal adscrito al Centro Estatal de cancerología, se reorganizará la conformación del Instituto Estatal de Cancerología.
+
+P.O. 11 DE JULIO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su Publicación en el Periódico Oficial del Gobierno Constitucional "El Estado de Colima".
