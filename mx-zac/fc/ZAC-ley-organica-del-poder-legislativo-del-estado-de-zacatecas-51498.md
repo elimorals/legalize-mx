@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-5149
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-07-15"
-last_updated: "2009-01-07"
+last_updated: "2009-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2009.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 15 de julio de 2006.
 
@@ -899,7 +899,7 @@ II. Asista a ellas el Presidente de la República;
 
 III. Rinda la protesta de ley la o el titular del Poder Ejecutivo del Estado, al asumir su cargo;
 
-IV. Comparezca la o el titular del Poder Ejecutivo a rendir el informe anual sobre el estado que guarda la administración pública;
+IV. (DEROGADA, P.O. 11 DE JULIO DE 2009)
 
 V. El Poder Legislativo rinda su informe anual de actividades;
 
@@ -965,13 +965,21 @@ VIII. Los demás actos que establece la Constitución y esta Ley, siempre que no
 
 #### Sección Primera. Del informe y sustitución del Ejecutivo
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2009)</small>
+
 ###### ARTÍCULO 82.
 
-El día ocho de septiembre de cada año, a la apertura de las sesiones ordinarias de la Legislatura, asistirá la Gobernadora o el Gobernador del Estado y presentará un informe por escrito de conformidad con lo dispuesto en la Constitución Política del Estado.
+El día ocho de septiembre de cada año, a la apertura del primer período de sesiones ordinarias de la Legislatura, la Gobernadora o el Gobernador del Estado, presentará por sí o por conducto del Secretario General de Gobierno, un informe por escrito que contendrá el estado que guardan todos los ramos de la administración pública estatal.
+
+Posteriormente a la declaratoria de apertura de la sesión señalada en el párrafo anterior, la Secretaría de la Mesa Directiva procederá a dar cuenta al Pleno, de la recepción del informe por escrito presentado por la o el Gobernador, sobre el estado que guarda la administración pública estatal. Acto seguido, el Presidente ordenará la entrega de los ejemplares del informe a cada uno de las y los Diputados, para su análisis respectivo.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2009)</small>
 
 ###### ARTÍCULO 83.
 
-Los diputados recibirán y analizarán el informe presentado por la o el titular del Ejecutivo. El análisis se desarrollará de conformidad a los lineamientos generales del plan estatal de desarrollo vigente.
+Treinta días naturales siguientes a la presentación del informe señalado en el artículo anterior, la o el titular del Ejecutivo acudirán a la sesión ordinaria de la Legislatura que al efecto se celebre, para contestar los cuestionamientos que las y los Diputados hagan respecto al contenido del informe.
+
+A dicha sesión ordinaria, podrán acudir los titulares de las dependencias y entidades de la administración pública estatal y el Procurador General de Justicia del Estado, quienes a través de la o el Gobernador, proporcionarán la información requerida a las y los Diputados.
 
 ###### ARTÍCULO 84.
 
@@ -1265,9 +1273,11 @@ La Comisión Permanente se integra con once diputados propietarios y otros tanto
 
 La Comisión Permanente sesionará con la mayoría de sus miembros. A falta de los titulares se llamará a los suplentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JULIO DE 2009)</small>
+
 ###### ARTÍCULO 117.
 
-Las sesiones de la Comisión Permanente tendrán lugar una vez por semana el día y hora que el Presidente de la misma indique formalmente.
+Las sesiones de la Comisión Permanente tendrán lugar una vez por semana el día y hora que el Presidente de la misma indique formalmente, con excepción de caso fortuito, fuerza mayor o cuando éste así lo determine.
 
 Si hubiere necesidad de celebrar sesiones fuera del día estipulado, se llevarán a cabo previa cita por parte del Presidente.
 
@@ -1401,7 +1411,9 @@ V. Presentar a la Asamblea los dictámenes de las iniciativas o asuntos turnados
 
 VI. Organizar foros, conferencias, consultas, encuestas e investigaciones que tengan por objeto ampliar la información necesaria para la elaboración de un dictamen;
 
-VII. Participar en la evaluación de los ramos de la actividad pública estatal que correspondan a sus atribuciones, respetando en todo momento el principio de división de poderes, mediante la presentación de informes y la participación en los procesos de glosa del informe del Ejecutivo y aprobación del paquete económico para cada ejercicio fiscal;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2009)</small>
+
+VII. Participar en la evaluación de los ramos de la actividad pública estatal que correspondan a sus atribuciones, respetando en todo momento el principio de división de poderes, mediante la presentación de informes, así como en la aprobación del paquete económico para cada ejercicio fiscal;
 
 VIII. Realizar reuniones con otras comisiones, cuando la materia de los asuntos a tratar así lo amerite;
 
@@ -2150,3 +2162,19 @@ Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
 P.O. 7 DE ENERO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+P.O. 11 DE JULIO DE 2009.
+
+DECRETO NO. 338 QUE REFORMA EL PRIMER PARRAFO DEL ARTICULO 117 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan todas aquellas disposiciones que contravengan este Decreto.
+
+P.O. 11 DE JULIO DE 2009.
+
+DECRETO NO. 347 QUE DEROGAN Y REFORMAN LOS ARTICULOS 77, 82, 83 Y 125 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan todas las disposiciones que se opongan a la presente reforma.
