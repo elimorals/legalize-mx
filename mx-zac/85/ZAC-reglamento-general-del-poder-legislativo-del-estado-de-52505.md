@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-general-del-poder-legislativo-del-estado-de-52505"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-13"
-last_updated: "2009-01-07"
+last_updated: "2009-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2009.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 13 de diciembre de 2006.
 
@@ -421,9 +421,11 @@ IV. Por último, se le asignarán en orden descendente de representación, un lu
 
 En caso de que ningún Grupo Parlamentario tenga la mayoría, el procedimiento anterior se realizará de manera proporcional.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2009)</small>
+
 ###### Artículo 47.
 
-Las sesiones de la Comisión Permanente tendrán lugar una vez por semana en el día y hora que el Presidente de la misma indique formalmente. Si hubiere necesidad de celebrar algunas otras sesiones fuera de los días estipulados, se llevarán a cabo previa cita por parte del Presidente.
+Las sesiones de la Comisión Permanente tendrán lugar una vez por semana en el día y hora que el Presidente de la misma indique formalmente, con excepción de caso fortuito, fuerza mayor o cuando éste así lo determine. Si hubiere necesidad de celebrar algunas otras sesiones fuera de los días estipulados, se llevarán a cabo previa cita por parte del Presidente.
 
 ### Capítulo VII. De las Comisiones Legislativas y Especiales
 
@@ -1539,6 +1541,8 @@ La multa será notificada por el Presidente a la Oficialía Mayor de Gobierno o 
 
 #### Sección segunda. Del informe del Gobernador
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2009)</small>
+
 ###### Artículo 184.
 
 En la última sesión del mes de diciembre de cada año, en sesión solemne, el Presidente rendirá ante el Pleno el informe anual del trabajo desarrollado por la Legislatura, salvo en el último año de ejercicio legislativo, caso en el cual el informe deberá rendirse durante el último mes del segundo periodo ordinario del año que concluye la Legislatura.
@@ -1547,39 +1551,67 @@ A la ceremonia serán invitados los titulares de los poderes Ejecutivo y Judicia
 
 ###### Artículo 185.
 
-El día ocho de septiembre de cada año, a la apertura del periodo ordinario de sesiones, el Gobernador asistirá a la sesión solemne señalada en la fracción IV del artículo 77 de la Ley, en la que informará por escrito sobre el estado que guarda la administración pública estatal.
+A la apertura del primer periodo ordinario de sesiones, la o el Gobernador presentará por sí o por conducto del Secretario General de Gobierno, el informe señalado en el artículo 82 de la Ley, sobre el estado que guarda la administración pública estatal.
+
+Dicho informe por escrito será recibido por el Presidente y los integrantes de la Comisión de Régimen Interno y Concertación Política, antes de las diez horas del año que corresponda, para efectos de su formal presentación en la sesión solemne de apertura del periodo ordinario de sesiones.
+
+El acto de recepción del informe se efectuará en las oficinas o instalaciones que disponga el Presidente de la Mesa Directiva, quien extenderá la constancia de recepción correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JULIO DE 2009)</small>
 
 ###### Artículo 186.
 
-La sesión solemne se realizará bajo el procedimiento siguiente:
+La sesión ordinaria a que se refiere el artículo 83 de la Ley, se realizará bajo el procedimiento siguiente:
 
 I. Se pasará lista de Asistencia;
 
-II. Se hará la declaratoria de apertura del periodo ordinario de sesiones;
+II. (DEROGADA, P.O. 11 DE JULIO DE 2009)
 
-III. El Presidente designará a las comisiones de protocolo y cortesía para que acompañen tanto al ingreso como a la salida del recinto, al Gobernador y al Presidente del Tribunal Superior de Justicia;
+III. (DEROGADA, P.O. 11 DE JULIO DE 2009)
 
-IV. Los titulares de los Poderes Ejecutivo y Judicial podrán estar presentes en el momento en que los grupos parlamentarios fijen sus posicionamientos; para ello, hará uso de la palabra un diputado por cada Grupo Parlamentario, comenzando por el que tenga la menor representatividad en la Legislatura. Dichas intervenciones no deberán exceder de quince minutos;
+IV. (DEROGADA, P.O. 11 DE JULIO DE 2009)
 
-V. Podrán llevarse a cabo honores a la bandera;
+V. (DEROGADA, P.O. 11 DE JULIO DE 2009)
 
-VI. Concluidas las intervenciones, en su caso, el Presidente concederá el uso de la palabra al Gobernador para que entregue su informe, lo lea si es su deseo o dirija un mensaje;
+VI. (DEROGADA, P.O. 11 DE JULIO DE 2009)
 
-VII. No se permitirán interrupciones ni interpelaciones durante el desarrollo del informe;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2009)</small>
 
-VIII. Una vez concluida la intervención del Gobernador, el Presidente dará respuesta al informe. Dicha respuesta deberá ser general y en representación de toda la Asamblea.
+VII. No se permitirán interrupciones ni interpelaciones durante el desarrollo de la sesión;
 
-Queda prohibido expresar en este acto cuestiones de carácter personal, y
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2009)</small>
 
-IX. La sesión será clausurada antes de que el Gobernador y el Presidente del Tribunal Superior de Justicia del Estado abandonen la sala de sesiones, citando el Presidente para la próxima sesión.
+VIII. Queda prohibido expresar en esta sesión cuestiones de carácter personal;
+
+IX. (DEROGADA, P.O. 11 DE JULIO DE 2009)
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
+
+X. Una vez iniciada la sesión ordinaria, el Presidente emitirá un mensaje de bienvenida y posteriormente, le concederá a la o el Gobernador, el uso de la palabra por ese mismo espacio, para que exprese su mensaje;
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
+
+XI. Al término del mensaje de la o el Gobernador, el Presidente concederá el uso de la palabra a las y los Diputados en el orden en que lo solicitaron, hasta por 10 minutos cada uno, para que realicen los cuestionamientos respectivos a la o el Gobernador, mismo que tendrá 10 minutos para contestar cada una de ellos en lo particular;
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
+
+XII. Al término de los cuestionamientos y respuestas, el Presidente, sin más trámite, declarará formalmente cumplida la obligación constitucional establecida en el artículo 59 de la Constitución, y
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
+
+XIII. Las situaciones no previstas en la Ley y el presente Reglamento, sobre el formato de la sesión a que se refiere este artículo, serán resueltas mediante acuerdo emitido por la Comisión de Régimen Interno y Concertación Política.
 
 ###### Artículo 187.
 
 Cuando el Presidente considere que no existen las condiciones necesarias para realizar la sesión, de conformidad con el artículo 5 de la Ley se podrá habilitar otro Recinto.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2009)</small>
+
 ###### Artículo 188.
 
-El informe que presente el Gobernador será analizado por los diputados, quienes podrán citar a los titulares de las dependencias y entidades de la administración pública estatal, para que de acuerdo a lo establecido en el presente Reglamento, comparezcan al análisis del informe.
+El informe por escrito que presente la o el Gobernador será analizado en los términos de esta Ley y de acuerdo a lo establecido en el presente Reglamento.
+
+Los informes adicionales solicitados a la o el Gobernador, así como a los titulares de las dependencias y entidades de la administración pública estatal y al Procurador General de Justicia del Estado, serán solicitados de conformidad con los establecido en los artículos 18 fracciones X, XIII y XVI, 125 fracción VII de la Ley y sus relativos del Reglamento.
 
 ## TÍTULO OCTAVO. DE LOS PROCEDIMIENTOS JURISDICCIONALES
 
@@ -2264,3 +2296,19 @@ P.O. 14 DE JUNIO DE 2008.
 P.O. 7 DE ENERO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+P.O. 11 DE JULIO DE 2009.
+
+DECRETO NUMERO 338, POR EL QUE SE REFORMA EL ARTICULO 47 DEL REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan todas aquellas disposiciones que contravengan este Decreto.
+
+P.O. 11 DE JULIO DE 2009.
+
+DECRETO NUMERO 347, POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN LOS ARTICULOS 185; 186 Y 188 DEL REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS.
+
+Artículo primero.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan todas las disposiciones que se opongan a la presente reforma.
