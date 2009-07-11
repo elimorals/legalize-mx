@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-el-congreso-del-estado-de-morelos-56679"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-25"
-last_updated: "2009-02-25"
+last_updated: "2009-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 25 de julio de 2007
 
@@ -422,6 +422,10 @@ La Diputación Permanente estará integrada conforme lo establece la Constituci�
 ###### ARTÍCULO 40.
 
 Previo a la conclusión del periodo de la diputación permanente, ésta deberá presentar un informe de los asuntos tratados a la Conferencia, así como los asuntos pendientes por desahogar, para que ésta a su vez los turne al Pleno del Congreso, para su trámite correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JULIO DE 2009)</small>
+
+Tratándose del término del ejercicio constitucional del Congreso, la Diputación Permanente deberá entregar un informe a la Comisión Instaladora, para que ésta a su vez haga entrega del mismo a la Mesa Directiva de la nueva legislatura.
 
 ###### ARTÍCULO 41.
 
@@ -1355,13 +1359,17 @@ Todas las Leyes y decretos, así como sus reformas, adiciones, derogaciones, abr
 
 Surtirán los mismos efectos los decretos y acuerdos para el gobierno o administración interior del Estado, cuando así lo considere el pleno y la naturaleza del asunto lo amerite.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2009)</small>
+
 ###### ARTÍCULO 146.
 
-A manera de informe, el Congreso, ordenará se publique en el Periódico Oficial “Tierra y Libertad”, Órgano Oficial de Difusión del Gobierno del Estado, una lista de todas las Leyes y Decretos, así como sus reformas, adiciones, derogaciones, abrogaciones y fe de erratas, que hayan sido aprobadas por el mismo, durante el periodo legislativo que corresponda.
+A manera de informe, el Presidente de la Mesa Directiva del Congreso, ordenará se publique en el Periódico Oficial “Tierra y Libertad”, Órgano Oficial de Difusión del Gobierno del Estado, una lista de todas las Leyes y Decretos, así como sus reformas, adiciones, derogaciones, abrogaciones y fe de erratas, que hayan sido aprobadas por el mismo, al término de cada período legislativo, debiendo publicar al final del tercer año de ejercicio constitucional la lista global de las mismas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JULIO DE 2009)</small>
 
 ###### ARTÍCULO 147.
 
-El Congreso contará con una página de internet del (sic) deberá contener, entre otra información, la siguiente:
+El Congreso contará con una página de internet que deberá contener, entre otra información, la siguiente:
 
 a) Las convocatorias;
 
@@ -1375,7 +1383,9 @@ e) El texto de la legislación de Morelos;
 
 f) Los actos auspiciados por el Congreso;
 
-g) La información de Prensa; y
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2009)</small>
+
+g) La información de prensa;
 
 h) La información general de la Legislatura, de los diputados, de los grupos parlamentarios, de las comisiones, de la Mesa Directiva y del Congreso;
 
@@ -1383,13 +1393,17 @@ i) Toda aquella resolución que el Pleno decida;
 
 j) La Legislación estatal conforme a su publicación en el Periódico Oficial del Estado;
 
-k) Los contenidos inherente a la información pública de oficio;
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2009)</small>
+
+k) Los contenidos inherentes a la información pública de oficio;
 
 l) Información general e histórica del Congreso;
 
 m) Datos biográficos, académicos y profesionales de los integrantes de la Legislatura;
 
-Será responsabilidad de coordinar el contenido de la página del Congreso la Coordinación de Comunicación Social.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2009)</small>
+
+La coordinación del contenido de la página del Congreso será responsabilidad de la Coordinación de Comunicación Social.
 
 ### CAPÍTULO PRIMERO. PROCEDIMIENTO EN CASO DE OBSERVACIONES FORMULADAS POR EL GOBERNADOR DEL ESTADO
 
@@ -1439,6 +1453,8 @@ Las conclusiones serán enviadas al Titular del Poder Ejecutivo.
 
 ### CAPÍTULO SEGUNDO. DE LA SECRETARÍA DEL CONGRESO
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2009)</small>
+
 ###### ARTÍCULO 154.
 
 Para el desempeño y ejercicio de sus atribuciones el Congreso se auxiliará de los órganos administrativos que se establecen en la ley.
@@ -1449,7 +1465,9 @@ Cualquier funcionario que se desempeñe en el cargo sin reunir los requisitos se
 
 Para la designación de los funcionarios, siempre se dará preferencia a quienes acrediten experiencia y alguna especialidad en la materia del cargo a ocupar.
 
-Los directores, subdirectores y jefes de departamento, invariablemente deberán acreditar conocimientos, experiencia y capacidad para el cargo y contar con título de licenciatura legalmente expedido el cual deberá ser acorde al cargo a ejercer.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2009)</small>
+
+Los directores, subdirectores y jefes de departamento invariablemente deberán contar con título y cédula profesional, acreditando los requisitos normativos, técnicos o administrativos que por disposición legal deban tener para el desempeño de su función o encargo.
 
 ###### ARTÍCULO 156.
 
@@ -1471,9 +1489,9 @@ Los órganos administrativos del congreso, deberán presentar para su aprobació
 
 ###### ARTÍCULO 159.
 
-La Secretaría del Congreso, contará con las siguientes unidades administrativas:
+La Secretaría del Congreso, contará con las siguientes unidades institucionales y profesionales de asistencia, asesoría y apoyo técnico parlamentario:
 
-I. Dirección Proceso Legislativo y Parlamentario;
+I. Dirección de Proceso Legislativo y Parlamentario;
 
 II. Dirección de Desarrollo Legislativo;
 
@@ -1482,6 +1500,8 @@ III. Dirección Jurídica;
 IV. La oficialía de partes; y
 
 V. Las unidades administrativas y el personal que se señalen en sus disposiciones administrativas internas de acuerdo con el presupuesto autorizado.
+
+El personal que integre las unidades institucionales y profesionales de asesoría y apoyo técnico parlamentario gozará de la estabilidad y seguridad en el empleo.
 
 ###### ARTÍCULO 160.
 
@@ -1535,13 +1555,19 @@ III. Dirección de Contabilidad; y
 
 IV. Las unidades administrativas y personal que se señalen en sus disposiciones administrativas internas de acuerdo con el presupuesto autorizado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JULIO DE 2009)</small>
+
+El personal adscrito a estas unidades gozará de la estabilidad y seguridad en el empleo.
+
 ###### ARTÍCULO 165.
 
 El Secretario de Administración y Finanzas cobrará y recibirá de la Tesorería del Poder Ejecutivo del Gobierno del Estado, los fondos correspondientes al Presupuesto de Egresos autorizado para cada ejercicio fiscal, conforme al calendario de ministraciones aprobado. Así mismo realizará los pagos de nóminas y servicios los días designados para tal efecto.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2009)</small>
+
 ###### ARTÍCULO 166.
 
-La Secretaría de Administración y Finanzas, descontará previa instrucción del Presidente de la Mesa Directiva, de las cantidades que deba entregar como dietas de los diputados, la suma que corresponda a los días que dejaren de asistir a las sesiones, conforme a la orden descrita del Presidente de la Mesa Directiva o de la Diputación Permanente, según sea el caso.
+La Secretaría de Administración y Finanzas, descontará previa instrucción del Presidente de la Mesa Directiva, de las cantidades que deba entregar como dietas de los diputados, la suma que corresponda a los días que dejaren de asistir a las sesiones, conforme a la orden del Presidente de la Mesa Directiva y del Presidente de la Diputación Permanente, según sea el caso.
 
 ###### ARTÍCULO 167.
 
@@ -1747,13 +1773,17 @@ El presupuesto deberá contener una partida destinada para el apoyo de los traba
 
 La liberación de recursos a los órganos administrativos del Congreso, estará sujeta a la disponibilidad de fondos y a la programación de los mismos.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2009)</small>
+
 ###### ARTÍCULO 187.
 
-La documentación que sirve como base de la comprobación de los egresos, será conservada en la Secretaría de Administración y Finanzas de la Legislatura y será sujeta a revisión o auditoría, por el Comité de Vigilancia y la Auditoría Superior Gubernamental.
+La documentación que sirve como base de la comprobación de los egresos, será conservada en la Secretaría de Administración y Finanzas de la Legislatura y será sujeta a revisión o auditoría, por el Comité de Vigilancia y la Auditoría Superior de Fiscalización del Congreso.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2009)</small>
 
 ###### ARTÍCULO 188.
 
-Los servidores públicos que intervengan en el ejercicio presupuestal, serán responsables de cualquier daño o perjuicio estimable en dinero que sufra la hacienda pública de la legislatura, en los términos de la Ley de Responsabilidades de los Servidores Públicos.
+Los servidores públicos que intervengan en el ejercicio presupuestal, serán responsables de cualquier daño o perjuicio estimable en dinero que sufra la hacienda pública de la legislatura, en los términos de la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
 ## TÍTULO DÉCIMO TERCERO. DE LAS SOLICITUDES
 
@@ -1767,13 +1797,17 @@ II. La descripción del objeto o motivo de su solicitud; y
 
 III. En caso de no señalarse domicilio para oír y recibir notificaciones en la ciudad de Cuernavaca, las notificaciones se realizarán por medio de estrados que se fijarán en el recinto legislativo.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2009)</small>
+
 ###### ARTÍCULO 190.
 
-Para dar trámite a cualquier solicitud de información pública de oficio, presentada ante el Congreso, deberán sujetarse a lo dispuesto por la ley de información pública, estadística y protección de datos personales, la ley y por el reglamento para la transparencia y el acceso a la información pública del Poder Legislativo del Estado.
+Para dar trámite a cualquier solicitud de información pública de oficio, presentada ante el Congreso, deberá sujetarse a lo dispuesto por la Ley de Información Pública, Estadística y Protección de Datos Personales, esta Ley, su Reglamento y el Reglamento para la Transparencia y el Acceso a la Información Pública del Poder Legislativo del Estado.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2009)</small>
 
 ###### ARTÍCULO 191.
 
-Las Comisiones, Comités y los órganos administrativos del Congreso, deberán proporcionar a la Dirección para la Transparencia y el Acceso a la Información Pública del Congreso del Estado, el material y los elementos necesarios para dar cumplimiento a lo dispuesto por el artículo 147 inciso k) de este reglamento.
+Las Comisiones, Comités y los órganos administrativos del Congreso, deberán proporcionar a la Unidad de Información Pública del Congreso del Estado, el material y los elementos necesarios para dar cumplimiento a lo dispuesto por el artículo 147 inciso k) de este reglamento.
 
 ## TRANSITORIOS
 
@@ -1831,7 +1865,7 @@ LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 26 DE SEPTIEMBRE DE 2007.
 
@@ -1882,5 +1916,19 @@ P.O. 25 DE FEBRERO DE 2009.
 La presente reforma entrará en vigor el mismo día de su aprobación por el Pleno del Congreso.
 
 ###### ARTÍCULO SEGUNDO.
+
+Remítase la presente reforma al Titular del Poder Ejecutivo del Estado, para su publicación inmediata en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, para su divulgación.
+
+P.O. 11 DE JULIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor el mismo día de su aprobación por el Pleno del Congreso.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor de la presente reforma, la Junta Política y de Gobierno deberá publicar de inmediato, la convocatoria para la designación de Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia.
+
+###### ARTÍCULO TERCERO.
 
 Remítase la presente reforma al Titular del Poder Ejecutivo del Estado, para su publicación inmediata en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, para su divulgación.
