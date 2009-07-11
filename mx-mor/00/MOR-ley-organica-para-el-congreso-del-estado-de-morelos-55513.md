@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2009-02-25"
+last_updated: "2009-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -113,15 +113,13 @@ Los diputados podrán ser convocados para períodos extraordinarios de sesiones,
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2009)</small>
+
 ###### Artículo 10.
 
-El Congreso del Estado en el último período ordinario de sesiones, integrará la Comisión Instaladora de la nueva legislatura que deba sucederla, esta Comisión tendrá la función de preparar la junta previa y el proceso de entrega recepción.
+La Comisión Instaladora se integra por el Presidente de la Mesa Directiva del Congreso del Estado, quien fungirá como Presidente, así como por los coordinadores de cada uno de los grupos o fracciones parlamentarias. Esta Comisión tendrá la función de preparar la junta previa y el proceso de entrega recepción y actuará válidamente con la presencia de la mayoría de sus integrantes.
 
-La Comisión Instaladora estará conformada por el Presidente de la Mesa Directiva del Congreso del Estado, así como por los coordinadores de cada uno de los grupos o fracciones parlamentarias.
-
-El Presidente de la Mesa Directiva, fungirá como Presidente de la Comisión Instaladora; esta comisión actuará válidamente con la presencia de la mayoría de sus integrantes.
-
-El Presidente de la Mesa Directiva comunicará al Instituto Estatal Electoral y al Tribunal Electoral del Estado la integración de dicha comisión.
+El Presidente de la Mesa Directiva comunicará al Instituto Estatal Electoral y al Tribunal Estatal Electoral del Estado la integración de dicha comisión.
 
 ###### Artículo 11.
 
@@ -141,7 +139,9 @@ II. Entregar credenciales de identificación y acceso a los diputados electos qu
 
 III. Citar a los diputados electos a la junta previa para los efectos establecidos en el artículo siguiente de esta Ley.
 
-IV. Entregar por inventario a la primera Mesa Directiva de la legislatura entrante, la totalidad de los documentos electorales a que se refiere esta fracción, así como los archivos históricos y administrativos, inventario de bienes, fondos, valores y recursos que forman el patrimonio del Congreso del Estado, informe de los asuntos en trámite y demás documentación relativa a las funciones y competencias del Congreso del Estado, en términos de lo establecido por el Reglamento del Congreso del Estado y la Ley de Entrega Recepción de la Administración Pública del Estado y Municipios de Morelos.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2009)</small>
+
+IV. Entregar por inventario a la primera Mesa Directiva de la legislatura entrante, la totalidad de los documentos electorales a que se refiere esta fracción, así como los archivos históricos y administrativos, inventario de bienes, fondos, valores y recursos que forman el patrimonio del Congreso del Estado, informe de los asuntos en trámite y demás documentación relativa a las funciones y competencias del Congreso del Estado, en términos de lo establecido por esta Ley, su Reglamento y la Ley de Entrega Recepción de la Administración Pública del Estado y Municipios de Morelos.
 
 ###### Artículo 12.
 
@@ -173,7 +173,9 @@ Los diputados gozarán del fuero que consagra y les otorga la Constitución Pol�
 
 No podrá exigirse a los diputados responsabilidad legal alguna, por las opiniones que manifiesten en el desempeño de su cargo y jamás podrán ser reconvenidos o enjuiciados por ellas.
 
-Los diputados son responsables por los delitos, faltas u omisiones que cometan durante el tiempo de su encargo, pero no podrán ser detenidos, ni ejercitarse en su contra acción penal, hasta que seguido el procedimiento previsto en la Constitución Política del Estado y la ley de Responsabilidades de los Servidores Públicos, se declare que ha lugar a la acusación. Como consecuencia de ello, se procederá a la separación del cargo, quedando sujeto a la acción de las autoridades correspondientes.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2009)</small>
+
+Los diputados son responsables por los delitos, faltas u omisiones que cometan durante el tiempo de su encargo, pero no podrán ser detenidos, ni ejercitarse en su contra acción penal, hasta que seguido el procedimiento previsto en la Constitución Política del Estado y la ley Estatal de Responsabilidades de los Servidores Públicos, se declare que ha lugar a la acusación. Como consecuencia de ello, se procederá a la separación del cargo, quedando sujeto a la acción de las autoridades correspondientes.
 
 ###### Artículo 17.
 
@@ -225,13 +227,17 @@ I. Rendir la protesta constitucional;
 
 II. Asistir a las sesiones del pleno del Congreso del Estado, a las de la Diputación Permanente cuando formen parte de ésta y a las de las comisiones y comités en las que estén integrados, atendiendo la convocatoria que se les formule;
 
-III. Rendir sus declaraciones patrimoniales en los términos de la Constitución Política del Estado, de la Ley de Información Pública, Estadística y de Protección de Datos Personales, así como de la Ley de Responsabilidades de los Servidores Públicos del Estado;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2009)</small>
+
+III. Rendir sus declaraciones patrimoniales en los términos de la Constitución Política del Estado, de la Ley de Información Pública, Estadística y Protección de Datos Personales, así como de la Ley Estatal de Responsabilidades de los Servidores Públicos del Estado;
 
 IV. Informar anualmente a los ciudadanos de sus actividades legislativas y de gestoría;
 
 V. Cumplir con diligencia los trabajos que les sean encomendados por el pleno del Congreso del Estado o la Diputación Permanente y representarlo en los foros para los que sean designados;
 
-VI. Responder por sus actos y omisiones en los términos de la Constitución Política del Estado y la Ley de Responsabilidades de los Servidores Públicos;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2009)</small>
+
+VI. Responder por sus actos y omisiones en los términos de la Constitución Política del Estado y la Ley Estatal de Responsabilidades de los Servidores Públicos;
 
 VII. Justificar sus inasistencias a las sesiones del Congreso del Estado, de las comisiones legislativas y comités ante los presidentes de éstos;
 
@@ -375,9 +381,11 @@ Si un diputado se separa o es separado del grupo parlamentario al que pertenece,
 
 A los diputados independientes deberán guardarse las consideraciones que a todos los legisladores se les otorga para desempeñar sus funciones parlamentarias.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JULIO DE 2009)</small>
+
 ###### Artículo 29.
 
-Los grupos parlamentarios deberán presentar a la Mesa Directiva electa, el acta en la que conste el nombre y firma de sus miembros, así como la designación de su coordinador y/o vicecoordinador en su caso, con la finalidad de que el Presidente de la Mesa, haga la verificación correspondiente.
+Los grupos parlamentarios deberán presentar a la Mesa Directiva electa, el acta en la que conste el nombre y firma de sus miembros, así como la designación de su coordinador y/o vice coordinador en su caso, con la finalidad de que el Presidente de la Mesa Directiva haga la verificación correspondiente.
 
 En la sesión de instalación, el Presidente de la Mesa Directiva hará la declaratoria de la integración de los grupos parlamentarios para los efectos legales correspondientes.
 
@@ -659,7 +667,9 @@ g) Las designaciones de los Magistrados que integran el Poder Judicial, para lo 
 
 h) Designar en caso de licencia de algún diputado a quien deba cubrir la ausencia en las comisiones respectivas;
 
-IV. Designar al Secretario Técnico de la propia Junta Política y de Gobierno y al Coordinador del área de Comunicación Social del Congreso del Estado;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2009)</small>
+
+IV. Designar al Secretario Técnico de la propia Junta Política y de Gobierno, al Coordinador del área de Comunicación Social del Congreso del Estado, así como a los Directores y Titular de la Unidad General Administrativa de la Auditoría Superior de Fiscalización del Congreso del Estado;
 
 V. Impulsar la conformación de puntos de acuerdo relacionados con el contenido de las propuestas, iniciativas, dictámenes o minutas que requieran de su votación en el pleno del Congreso el Estado, a fin de agilizar el trabajo legislativo;
 
@@ -667,7 +677,9 @@ VI. Conforme a la declaración de validez de la elección de Gobernador del Esta
 
 VII. Presentar a la Mesa Directiva y al pleno del Congreso del Estado, proyectos de puntos de acuerdo, pronunciamientos, dictámenes y declaraciones del Congreso del Estado, que entrañen una posición política del órgano colegiado o la agilización de los trabajos legislativos del Congreso del Estado;
 
-VIII. Conocer de las solicitudes de juicio político, ejerciendo las atribuciones que la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos encomienda al órgano político del Congreso del Estado;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2009)</small>
+
+VIII. Conocer de las solicitudes de juicio político, ejerciendo las atribuciones que la Ley Estatal de Responsabilidades de los Servidores Públicos del Estado de Morelos, encomienda al órgano político del Congreso del Estado;
 
 IX. Revisar y autorizar los trabajos de la Coordinación de Comunicación Social;
 
@@ -839,7 +851,9 @@ IV. Solicitar del Órgano de Auditoría Superior de Fiscalización, la informaci
 
 V. Recibir de la Mesa Directiva los informes sobre las revisiones de las Cuentas Públicas que haya practicado la Auditoría Superior de Fiscalización y remitir los mismos al pleno para ordenar su publicación en el Periódico Oficial “Tierra y Libertad”;
 
-VI. Dictaminar las iniciativas o proyectos de Leyes de Ingresos y las que se refieran a la creación de impuestos extraordinarios o especiales, ya sean estatales o municipales;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2009)</small>
+
+VI. Recibir de la Mesa Directiva los informes sobre las revisiones de las Cuentas Públicas que haya practicado la Auditoría Superior de Fiscalización y remitir los mismos al pleno para ordenar su publicación en el Periódico Oficial “Tierra y Libertad”;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -853,7 +867,9 @@ IX. Analizar y dictaminar los asuntos relativos a la autorización que el Gobier
 
 X. Dictaminar los asuntos que se refieran a la desincorporación de bienes de dominio público del Estado; y
 
-XI. Todas aquellas que la Constitución Política del Estado, la presente Ley y las leyes relativas a la materia hacendaria, le confieran.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2009)</small>
+
+XII (SIC).- Todas aquellas que la Constitución Política del Estado, la presente Ley y las leyes relativas a la materia hacendaría, le confieran.
 
 ###### Artículo 62.
 
@@ -867,7 +883,9 @@ III. Los referentes a la convocatoria para elecciones extraordinarias;
 
 IV. Los asuntos que impliquen conflictos políticos, que sean competencia del Congreso del Estado;
 
-V. Los asuntos relacionados con la responsabilidad de los servidores públicos que se mencionan en el Título Séptimo de la Constitución Política del Estado y la Ley de Responsabilidades de los Servidores Públicos, incluso los de declaración de procedencia de responsabilidad penal;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2009)</small>
+
+V. Los asuntos relacionados con la responsabilidad de los servidores públicos que se mencionan en el Título Séptimo de la Constitución Política del Estado y la Ley Estatal de Responsabilidades de los Servidores Públicos, incluso los de declaración de procedencia de responsabilidad penal;
 
 VI. Los relacionados con la desaparición de un ayuntamiento, la revocación del mandato de alguno de sus miembros, la suspensión de la totalidad de sus integrantes; o la suspensión de alguno de ellos;
 
@@ -1243,6 +1261,8 @@ V. Los demás asuntos que le sean turnados.
 
 ### CAPÍTULO II. DE LA SECRETARÍA DEL CONGRESO
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2009)</small>
+
 ## TÍTULO OCTAVO. DE LOS ÓRGANOS ADMINISTRATIVOS DEL CONGRESO DEL ESTADO
 
 ### CAPÍTULO III. DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS
@@ -1283,7 +1303,11 @@ Para ocupar cualquiera de los cargos a que se refieren los artículos anteriores
 
 ###### Artículo 92.
 
-La Secretaria del Congreso depende de la Presidencia de la Mesa Directiva y su titular será nombrado en los términos que señale este ordenamiento.
+La Secretaría del Congreso es el órgano profesional, de carácter institucional, de asesoría, asistencia y apoyo técnico-parlamentario del Poder Legislativo, cuyo propósito fundamental es brindar el apoyo profesional y técnico a los órganos políticos y de dirección así como a las Comisiones y Comités del Congreso, para el mejor desempeño de sus funciones.
+
+La secretaría del Congreso depende de la Presidencia de la Mesa Directiva y su titular será designado en los términos que señala la presente Ley.
+
+El personal adscrito a las unidades institucionales y profesionales de asesoría y apoyo técnico-parlamentario de la Secretaría del Congreso, gozará de los derechos contenidos en los artículos 107 y 108 del presente ordenamiento, además de los que establezcan otros ordenamientos jurídicos.
 
 ###### Artículo 93.
 
@@ -1325,15 +1349,25 @@ XI. Coordinar la unidad de información pública y verificar el cumplimiento a l
 
 XII. Expedir, previa autorización del Presidente de la Mesa Directiva, las certificaciones que se soliciten;
 
-XIII. Remitir las normas al Poder Ejecutivo para su promulgación y publicación correspondiente; y
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2009)</small>
 
-XIV. Las demás que esta Ley, su Reglamento y el Pleno del Congreso del Estado le confieran.
+XIII. Remitir las normas al Poder Ejecutivo para su promulgación y publicación correspondiente;
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2009)</small>
+
+XIV. Recibir las ratificaciones de escritos, denuncias y controversias que señalen las leyes como competencia del Congreso del Estado; y
+
+XV. Las demás que esta Ley, su Reglamento y el Pleno del Congreso del Estado le confieran.
 
 ### CAPÍTULO VI. DIRECCIÓN DE RADIO Y TELEVISIÓN
 
 ###### Artículo 95.
 
 La Secretaría de Administración y Finanzas, depende del Presidente de la Mesa Directiva y tiene a su cargo los servicios administrativos y de los fondos del presupuesto del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
+
+El personal adscrito a las unidades administrativas de la Secretaría de Administración y Finanzas del Congreso, gozará de los derechos contenidos en los artículos 107 y 108 del presente ordenamiento, además de los que establezcan otros ordenamientos jurídicos.
 
 ###### Artículo 96.
 
@@ -1399,6 +1433,10 @@ La Auditoría Superior de Fiscalización es el órgano de fiscalización pertene
 
 El titular de la Auditoría Superior de Fiscalización, no podrá ser o haber sido militante de ninguno de los partidos políticos con registro en el Estado.
 
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
+
 ###### Artículo 101.
 
 El Instituto de Investigaciones Legislativas depende de la Junta Política y de Gobierno y es el órgano especializado encargado del desarrollo de investigaciones, estudios, análisis legislativos y apoyo técnico consultivo.
@@ -1445,6 +1483,10 @@ XII. Impulsar el establecimiento de la cooperación y coordinación interinstitu
 
 XIII. Las demás que se deriven de esta Ley y las que el Reglamento le confieran.
 
+### CAPÍTULO II. DE LA DESIGNACIÓN DE MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
+
 ###### Artículo 104.
 
 la Dirección de Radio y Televisión depende de la Junta Política y de Gobierno y es el órgano que a través de sus medios, difunde la actividad del Congreso de Estado, refleja la pluralidad de su integración y en sus emisiones promoverá la identidad de los morelenses, la educación cívica y difusión cultural.
@@ -1487,6 +1529,10 @@ X. Las demás que se deriven de la presente Ley, del Reglamento o de los acuerdo
 
 ## TÍTULO NOVENO. DEL SERVICIO DE CARRERA
 
+### CAPÍTULO III. DEL PROCEDIMIENTO PARA LA DESIGNACIÓN DE MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
+
 ###### Artículo 107.
 
 El servicio de carrera del Congreso del Estado, tiene por objeto formar funcionarios de alta calidad que apoyen de manera profesional y eficaz el cumplimiento de sus atribuciones y funciones.
@@ -1512,6 +1558,188 @@ VI. Promover la capacitación permanente al personal.
 ###### Artículo 109.
 
 Las categorías de los trabajadores del Congreso del Estado, se regirán conforme a lo establecido en el catálogo correspondiente.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
+
+## TÍTULO DÉCIMO. DE LA DESIGNACIÓN DE LOS MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
+
+###### Artículo 110.
+
+Para la designación de los servidores públicos que conforme al artículo 40, fracción XXXVII corresponde al Congreso del Estado, se estará a lo dispuesto por la Constitución del Estado y la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
+
+###### Artículo 111.
+
+Los servidores públicos y aspirantes a alguno de los cargos que corresponde designar al Congreso del Estado, deberán abstenerse de realizar gestión personal alguna ante los integrantes de las Comisiones correspondientes o ante cualquiera otra persona.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
+
+###### Artículo 112.
+
+El secretario técnico de la Junta Política y de Gobierno, dará fe de los actos que la misma realice. Asimismo, en todos los asuntos relacionados con este título, deberá estar presente el Director Jurídico del Congreso del Estado, quien podrá hacer uso de la palabra para asesorar y orientar a los integrantes de la Junta Política y de Gobierno.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
+
+###### Artículo 113.
+
+La Junta Política y de Gobierno emitirá una convocatoria pública a la sociedad, a efecto de recibir propuestas para la designación de Magistrados Numerarios y/o Supernumerarios del Tribunal Superior de Justicia.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
+
+###### Artículo 114.
+
+Para ser designado Magistrado Numerario o Supernumerario del Tribunal Superior de Justicia, es necesario cumplir con los requisitos establecidos en la Constitución del Estado, esta Ley y la convocatoria que al efecto se expida.
+
+El incumplimiento de dichos ordenamientos en cualquier etapa del procedimiento será motivo de descalificación del aspirante.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
+
+###### Artículo 115.
+
+El procedimiento para la designación de Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia se llevará a cabo en las siguientes fases:
+
+I. Convocatoria, integración de los expedientes de los aspirantes, y presentación de un ensayo científico de contenido jurídico.
+
+II. Comparecencia personal de los aspirantes ante la Junta Política y de Gobierno.
+
+III. Dictamen con la lista de aspirantes a Magistrados para aprobación por el Pleno del Congreso.
+
+Los aspirantes que no acrediten los requisitos establecidos en una fase no pasarán a la siguiente.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
+
+###### Artículo 116.
+
+La calificación de los aspirantes que hayan aprobado las fases del procedimiento se asignará con base en lo siguiente:
+
+I. Los antecedentes curriculares.
+
+II. La calificación del ensayo científico jurídico.
+
+III. Los valores y antecedentes éticos del aspirante:
+
+a) Fama pública
+
+b) Buena reputación
+
+c) Honorabilidad profesional
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
+
+###### Artículo 117.
+
+En la sesión en que sea presentado al Pleno el dictamen con la propuesta de aspirantes, el Congreso designará por el voto de las dos terceras partes de sus integrantes, a los Magistrados Numerarios y/o Supernumerarios, en su caso, del Tribunal Superior de Justicia del Estado.
+
+En caso de que ninguno de los aspirantes propuestos reúna la votación requerida, el dictamen se regresará a la Junta Política y de Gobierno, a efecto de que en tres días hábiles presente uno nuevo.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
+
+###### Artículo 118.
+
+Para la integración de los expedientes de los aspirantes a que se refiere la primera fase del procedimiento para la designación de Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia, establecido en el artículo 115 de esta Ley, los aspirantes deberán reunir lo siguiente:
+
+I. Cumplir con los requisitos establecidos en los artículos 89 y 90 de la Constitución del Estado y esta Ley, así como los que señale la convocatoria respectiva.
+
+II. Presentar la solicitud respectiva y el formato de registro debidamente llenado, en el horario y fecha que se señale en la convocatoria, así como entregar la documentación correspondiente y el currículum vitae por duplicado en el siguiente orden:
+
+1. Currículum vitae;
+
+2. Constancia de residencia expedida por la autoridad respectiva;
+
+3. Carta de no antecedentes penales;
+
+4. Constancia de no inhabilitación expedida por la Secretaría de la Contraloría
+
+5. Copia certificada de:
+
+a. Acta de nacimiento
+
+b. Título profesional
+
+c. Cédula profesional
+
+d. Credencial para votar con fotografía
+
+Los documentos señalados en los incisos b, c, y d, deberán presentarse en copia certificada por notario público.
+
+III. Escrito firmado y con huella dactilar en el que se manifieste bajo protesta de decir verdad:
+
+a) No haber sido condenado por delito que amerite pena corporal;
+
+b) Haber residido en el Estado durante los diez años inmediatos anteriores a la publicación de la convocatoria respectiva, con excepción de lo señalado en el artículo 90, fracción II de la Constitución del Estado;
+
+c) No haber ocupado el cargo de Secretario de Despacho del Poder Ejecutivo, Procurador General de Justicia o diputado local, durante el año previo al día de su designación.
+
+IV. Escrito en el que se autorice a la Junta Política y de Gobierno para que en caso de ser necesario, lleve a cabo investigaciones para corroborar por los medios legales que juzgue convenientes, la información a que se refieren los numerales anteriores.
+
+V. Entrega de Ensayo científico jurídico por escrito y con respaldo electrónico en disco compacto en formato Word Windows XP o Vista.
+
+VI. Documentos que acrediten la preparación académica y experiencia laboral del aspirante.
+
+(ADICIONADO, P.O. 11 DE JULIO DE 2009) (F. DE E., P.O. 11 DE JULIO DE 2009)
+
+###### Artículo 119.
+
+La Junta Política y de Gobierno formará un expediente por duplicado de los aspirantes que hayan acreditado los requisitos establecidos en el artículo anterior, procediendo a publicar la lista respectiva en la Gaceta Legislativa y el portal del Congreso, comunicándoles por este medio, así como vía correo electrónico a todos los aspirantes que pasaron a la siguiente etapa de la convocatoria.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
+
+###### Artículo 120.
+
+El ensayo científico jurídico a que se refiere la fracción I del artículo 115 de la Ley Orgánica para el Congreso, deberá contener los siguientes elementos, mismos que serán fundamentales para la calificación de los aspirantes:
+
+I. Debe ser un ensayo original que verse sobre los temas de Administración de Justicia y Función Jurisdiccional en el fuero común, por lo que no debe haber sido publicado en libros, revistas, tesis o sitios de Internet anteriormente, aún cuando fueran de la autoría del mismo sustentante.
+
+II. Deberá tener una extensión mínima de 30 páginas y hasta 50 fojas máxima, impresas por una sola de sus caras, en fuente arial o times new roman a 12 puntos, y con márgenes interior y exterior de 3 cm, el margen superior e inferior de 2.5 cm, con interlineado a 1.5 líneas y sin espacios entre párrafos; las notas a pie de página deberán estar en fuente arial o times new roman a 10 puntos, sin espacios entre párrafos e interlineado sencillo, respetando el mismo margen interior y exterior.
+
+III. Deberá contener el desarrollo de un aparato teórico y crítico debidamente fundamentado sobre la administración de justicia y función jurisdiccional en el fuero común, basado argumentativamente en la doctrina constitucional reciente, nacional o internacional, sustentada en pies de página, con referencias bibliográficas, hemerográficas o electrónicas.
+
+IV. Utilizar un lenguaje técnico jurídico con precisión.
+
+V. Utilizar la jurisprudencia y tesis aisladas emitidas por el Poder Judicial de la Federación de la Novena Época, debiendo contener el registro, datos de publicación y / o antecedentes.
+
+VI. El aparato crítico del ensayo comprenderá la cita de tratados y convenios internacionales suscritos por México y debidamente ratificados por el Senado, citando en pie de página el medio oficial de publicación.
+
+VII. El ensayo se compondrá de las siguientes partes:
+
+a) Portada: donde se contenga por lo menos los datos del título del ensayo, el nombre del autor, la ciudad y fecha de elaboración.
+
+b) El índice con los temas y subtemas desarrollados en el ensayo.
+
+c) Introducción general, donde se describirá sintéticamente el contenido del ensayo, la metodología empleada, la justificación crítica, la perspectiva axiológica, la hipótesis y los objetivos que se desarrollaron en el ensayo científico jurídico.
+
+d) Desarrollo y exposición fundamentada del tema.
+
+e) Conclusión personal donde el aspirante deberá emitir su juicio crítico, con una prospectiva jurídica sobre el contenido de su ensayo.
+
+f) Las fuentes de investigación donde se precisen las fuentes bibliográficas, hemerográficas especializadas, inclusive las fuentes electrónicas consultadas, que tratándose de Internet deber (sic) ser páginas con reconocida solvencia científica, la antigüedad de las fuentes citadas no deberá ser mayor a cinco años, sin que puedan ser menos de veinte fuentes bibliográficas y cinco hemerográficas.
+
+g) El sustentante bajo protesta de decir verdad manifestará a través de una carta, que las ideas expuestas en dicho ensayo no han sido publicadas, ni plagiadas, misma que acompañará al ensayo en la hoja posterior a la portada.
+
+VIII. La Junta Política y de Gobierno al cierre de la convocatoria, calificará la originalidad, calidad e integridad del ensayo, y podrá investigar las fuentes utilizadas y en su caso requerir la presentación de las fuentes utilizadas a los sustentantes, procediendo a desechar los trabajos que presenten irregularidades o no cumplan con las disposiciones que marca la Constitución, la Ley o la convocatoria. Su decisión será inapelable.
+
+(ADICIONADO, P.O. 11 DE JULIO DE 2009) (F. DE E., P.O. 11 DE JULIO DE 2009)
+
+###### Artículo 121.
+
+Una vez realizada la calificación de los ensayos científicos, la Junta Política y de Gobierno publicará la lista de los aspirantes que acreditaron esta fase, en la Gaceta Legislativa y el portal de Internet del Congreso, la cual tendrá efectos de notificación a los interesados. Asimismo, les comunicará vía correo electrónico a todos los aspirantes que pasaron a la siguiente etapa de la convocatoria.
+
+En la referida publicación se convocará a los aspirantes acreditados a sesión de la Junta Política y de Gobierno, en la que comparecerán, en estricto orden alfabético, para entrevistarse en un tiempo máximo de diez minutos con los integrantes del órgano de gobierno, mismos que podrán hacer preguntas sobre su ensayo científico, el ejercicio profesional y el perfil del aspirante o aquellos temas que consideren pertinentes respecto al cargo que aspira y a las constancias que obren en el expediente.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
+
+###### Artículo 122.
+
+Concluida la etapa anterior, la Junta Política y de Gobierno analizará y calificará todos los elementos que contengan los expedientes de los aspirantes que hayan acreditado las dos primeras fases, con base en lo establecido en el artículo 116 de la Ley Orgánica para el Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
+
+###### Artículo 123.
+
+La Junta Política y de Gobierno, reunida en sesión, por consenso o en su caso por mayoría calificada mediante el sistema de voto ponderado de los coordinadores de los grupos parlamentarios, seleccionará a los aspirantes que considere son los más idóneos para ser designados Magistrados del Tribunal Superior de Justicia, los cuales propondrá en el dictamen correspondiente, al Pleno del Congreso.
 
 ## TRANSITORIOS
 
@@ -1636,5 +1864,19 @@ P.O. 25 DE FEBRERO DE 2009.
 La presente reforma entrará en vigor el mismo día de su aprobación por el Pleno del Congreso.
 
 ###### ARTÍCULO SEGUNDO.
+
+Remítase la presente reforma al Titular del Poder Ejecutivo del Estado, para su publicación inmediata en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, para su divulgación.
+
+P.O. 11 DE JULIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor el mismo día de su aprobación por el Pleno del Congreso.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor de la presente reforma, la Junta Política y de Gobierno deberá publicar de inmediato, la convocatoria para la designación de Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia.
+
+###### ARTÍCULO TERCERO.
 
 Remítase la presente reforma al Titular del Poder Ejecutivo del Estado, para su publicación inmediata en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, para su divulgación.
