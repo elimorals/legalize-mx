@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2009-07-04"
+last_updated: "2009-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2009.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -1259,9 +1259,7 @@ ART. 252.9.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 ## TITULO SEXTO. Del parentesco, de los alimentos y de la familia
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO I. Del Parentesco
 
@@ -9795,243 +9793,121 @@ ART. 2827.- Pagados los créditos enumerados en los capítulos que preceden, se 
 
 ART. 2828.- Con los bienes restantes serán pagados todos los demás créditos que no estén comprendidos en las disposiciones anteriores. El pago se hará a prorrata y sin atender a la fecha ni al origen de los créditos.
 
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
+
 ## TITULO SEGUNDO. Del Registro Público
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
 
 ### CAPITULO I. Del Registro Público de la Propiedad
 
-ART. 2829.- Habrá Oficinas del Registro Público de la Propiedad en la Capital del Estado y en cada una de las cabeceras de los distintos Distritos Judiciales.
+ART. 2829.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2004)</small>
+ART. 2830.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-ART. 2830.- El Registro Público de la Propiedad y de Comercio, funcionará conforme al sistema y métodos que determinen su Ley y Reglamento, los cuales fijarán las secciones o divisiones de que se componga la oficina y en dónde deben registrarse los títulos susceptibles de inscripción; así como la forma de realizar las consultas correspondientes y los requisitos necesarios para desempeñar los cargos que requiera el funcionamiento del Registro.
+ART. 2831.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2004)</small>
-
-ART. 2831.- El Registro será público. Los encargados de la oficina tienen la obligación de permitir a las personas que lo soliciten, que se enteren de los asientos que obren en los folios o los libros del Registro, y de los documentos relacionados con los mismos, que estén archivados. También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los libros y folios del Registro; así como certificados de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
-
-Tratándose de testamentos ológrafos depositados en el Registro, se observará lo dispuesto en el artículo 1409.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
 
 ### CAPITULO II. De los títulos sujetos a registro y de los efectos legales del registro
 
-ART. 2832.- Se inscribirán en el Registro:
+ART. 2832.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-I.- Los títulos por los cuales se adquiere, transmite, modifica, grava o extingue el dominio, la posesión o los demás derechos reales sobre inmuebles;
+ART. 2833.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2003)</small>
+ART. 2834.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-II.- La constitución y extinción del patrimonio de la familia;
+ART. 2835.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-III.- Los contratos de arrendamiento de bienes inmuebles por un período mayor de seis años y aquellos en que haya anticipos de rentas por más de tres;
+ART. 2836.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-IV.- La condición resolutoria en las ventas a que se refieren las fracciones I y II del artículo 2142;
+ART. 2837.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-V.- Los contratos de prenda que menciona el artículo 2689;
+ART. 2838.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-VI.- La escritura constitutiva de las sociedades civiles y la que la reforme;
+ART. 2839.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-VII.- La escritura constitutiva de las asociaciones y la que la reforme;
-
-VIII.- Las fundaciones de beneficencia pública;
-
-IX.- Las resoluciones judiciales o de árbitros o arbitradores que produzcan algunos de los efectos mencionados en la fracción I;
-
-X.- Los testamentos por efecto de los cuales se afecte la propiedad de bienes raíces, o de derechos reales, haciéndose el registro después de la muerte del testador;
-
-XI.- En los casos de intestado, el auto declaratorio de los herederos legítimos y el nombramiento de albacea definitivo.
-
-En los casos previstos en las dos fracciones anteriores se tomará razón del acta de defunción del autor de la herencia;
-
-XII.- Las resoluciones judiciales en que se declare un concurso o se admita una cesión de bienes;
-
-XIII.- El testimonio de las informaciones adperpétuam promovidas o protocolizadas de acuerdo con lo que disponga el Código de Procedimientos Civiles;
-
-XIV.- Los demás títulos que la Ley ordene expresamente que sean registrados.
-
-ART. 2833.- Los documentos que conforme a esta ley deben registrarse y no se registren, sólo producirán efectos entre quienes los otorguen; pero no podrán producir perjuicios a tercero, el cual sí podrá aprovecharlos en cuanto le fueren favorables.
-
-ART. 2834.- Los testamentos ológrafos no producirán efectos si no son depositados en el Registro.
-
-ART. 2835.- Los actos ejecutados, los contratos otorgados y las resoluciones judiciales pronunciadas en país extranjero, sólo se inscribirán concurriendo las circunstancias siguientes:
-
-I.- Que si los actos o contratos hubiesen sido celebrados o las sentencias pronunciadas en el Estado, habría sido necesaria su inscripción en el Registro;
-
-II.- Que estén debidamente legalizados;
-
-III.- Si fueren resoluciones judiciales, que se ordene su ejecución por la autoridad judicial que corresponda.
-
-ART. 2836.- La inscripción no convalida los actos o contratos que sean nulos con arreglo a las leyes.
-
-ART. 2837.- No obstante lo dispuesto en el artículo anterior, los actos o contratos que se otorguen o celebren por personas que en el Registro aparezcan con derecho para ello, no se invalidarán, en cuanto a tercero de buena fe, una vez inscritos, aunque después se anule o resuelva el derecho del otorgante en virtud de título anterior no inscrito o de causas que no resulten claramente del mismo registro.
-
-Lo dispuesto en este artículo no se aplicará a los contratos gratuitos, ni a actos o contratos que se ejecuten u otorguen violando una ley prohibitiva o de interés público.
-
-ART. 2838.- No podrá ejercitarse ninguna acción contradictoria del dominio de inmuebles o de derechos reales inscritos a nombre de persona o entidad determinada, sin que, previamente o a la vez, se entable demanda de nulidad o cancelación de la inscripción en que conste dicho dominio o derecho.
-
-En el caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio contra bienes o derechos reales determinados, se sobreseerá todo procedimiento de apremio respecto de los mismos o de sus frutos, inmediatamente que conste en los autos, por manifestación auténtica del Registro de la Propiedad, que dichos bienes o derechos están inscritos a favor de persona distinta de aquella contra la cual se decretó el embargo o se siguió el procedimiento, a no ser que se hubiere dirigido contra ella la acción, como causahabiente del que aparece dueño en el Registro.
-
-ART. 2839.- No pueden los bienes raíces o los derechos reales impuestos sobre los mismos, aparecer inscritos a la vez en favor de dos o más personas distintas, a menos que éstas sean copartícipes.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
 
 ### CAPITULO III. Del modo de hacer el registro y de las personas que tienen derecho de pedir la inscripción
 
-ART. 2840.- La inscripción de los títulos en el Registro puede pedirse por todo el que tenga interés legítimo en asegurar el derecho que se va a inscribir, o por el notario que haya autorizado la escritura de que se trate.
+ART. 2840.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-ART. 2841.- Sólo se registrarán:
+ART. 2841.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-I.- Los testimonios de escritura pública u otros documentos auténticos;
+ART. 2842.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-II.- Las sentencias y providencias judiciales certificadas legalmente;
+ART. 2843.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-III.- Los documentos privados que en esta forma fueren válidos con arreglo a la Ley, siempre que al calce de los mismos haya la constancia de que el notario o alcalde, se cercioró de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por los mencionados funcionarios y llevar el sello de la oficina respectiva.
+ART. 2844.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-ART. 2842.- El interesado presentará el título que va a ser registrado, y cuando se trate de documentos que impliquen transmisiones o modificaciones de la propiedad de fincas rústicas o rubanas (sic), un plano o croquis de esas fincas.
+ART. 2845.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 2846.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-ART. 2843.- El registrador hará la inscripción si encuentra que el título presentado es de los que deben inscribirse, llena las formas extrínsecas exigidas por la ley y contiene los datos a que se refiere el artículo 2845. En caso contrario, devolverá el título sin registrar, fundado y motivando las razones por las que se niega el registro, siendo necesaria resolución judicial para que se haga el registro.
+ART. 2847.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 2848.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-ART. 2844.- En el caso de la devolución a que se refiere la parte final del artículo anterior, el registrador tiene obligación de hacer una inscripción preventiva a fin de que si la autoridad judicial ordena que se registre el título rechazado, la inscripción definitiva surta sus efectos desde que por primera vez se presentó el título. Si el juez aprueba la calificación hecha por el registrador, notificará esta resolución al registrador quien una vez que cause ejecutoria ese fallo cancelará la inscripción preventiva, asentando razón de la resolución judicial.
+ART. 2848 BIS.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-Transcurrido un mes sin que se comunique al registrador la instauración del procedimiento o la calificación que del título presentado haya hecho el juez, de oficio se cancelará la inscripción preventiva.
+ART. 2849.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-En ningún caso los efectos de la inscripción preventiva excederán de un año.
+ART. 2850.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-ART. 2845.- Toda inscripción que se haga en el Registro expresará las circunstancias siguientes:
+ART. 2851.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-I.- La naturaleza, situación y linderos de los inmuebles objeto de la inscripción o a los cuales afecte el derecho que debe inscribirse; su medida superficial, nombre y número si constare en el título, la referencia al registro anterior en donde consten esos datos; asimismo, constará la mención de haberse agregado el plano o croquis al legajo respectivo;
+ART. 2852.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-II.- La naturaleza, extensión, condiciones y cargas del derecho que se constituya, transmita, modifique o extinga;
-
-III.- El valor de los bienes o derechos a que se refieren las fracciones anteriores. Si el derecho no fuere de cantidad determinada, los interesados fijarán en el título la estimación que le den;
-
-IV.- Tratándose de hipotecas, la época en que podrá exigirse el pago del capital garantizado, y si causare réditos, la tasa o el monto de éstos y la fecha desde que deban correr;
-
-V.- Los nombres, edades, domicilios y profesiones de las personas que por sí mismas o por medio de representantes hubieren celebrado el contrato o ejecutado el acto sujeto a inscripción. Las personas morales se designarán por el nombre oficial que lleven, y las sociedades, por su razón o denominación;
-
-VI.- La naturaleza del acto o contrato;
-
-VII.- La fecha del título y el funcionario que lo haya autorizado;
-
-VIII.- El día y la hora de la presentación del título en el Registro.
-
-ART. 2846.- El registrador que haga una inscripción sin cumplir con lo dispuesto en el artículo anterior, será responsable de los daños y perjuicios que cause a los interesados, y sufrirá una suspensión de empleo por tres meses.
-
-ART. 2847.- El registro producirá sus efectos desde el día y la hora en que el documento se hubiere presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
-
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2006)</small>
-
-ART. 2848.- Cuando vaya a otorgarse una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes inmuebles o cualquier derecho real sobre los mismos, o que sin serlo, sea inscribible, el notario o autoridad ante quien vaya a otorgarse podrá a su criterio, o deberá a solicitud de quien pretenda adquirir el derecho, excepto en el caso previsto en el artículo 2147 en que el fedatario estará obligado a hacerlo, dar a la Oficina del Registro Público de la Propiedad, un primer aviso preventivo al solicitar el certificado sobre la existencia de la inscripción en favor del titular registral o sobre las gravámenes que reporte el inmueble o derecho o la libertad de los mismos. Dicho aviso deberá mencionar con precisión la operación y el inmueble o derecho materia de la escritura de que se trate, los nombres de las partes que en ella van a intervenir y el antecedente registral. El registrador, con el aviso preventivo y sin cobro de derechos por la anotación, hará inmediatamente el asiento de presentación y asentará al margen de la inscripción correspondiente, una anotación de primer aviso preventivo que tendrá vigencia por un término de sesenta días naturales, contados a partir de la fecha de su presentación.
-
-Una vez firmada una escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo precedente, el notario o autoridad ante quien se otorgó, dará al Registro, dentro de las cuarenta y ocho horas siguientes, un segundo aviso preventivo sobre la operación de que se trate, que contendrá, además de los datos mencionados en el párrafo anterior, la fecha de la escritura y la de su firma. El registrador, con el aviso citado y sin cobro de derecho alguno, hará de inmediato el asiento de presentación de tal aviso preventivo y se asentará al margen de la inscripción, una anotación preventiva del segundo aviso que tendrá vigencia por un término de noventa días naturales, contados a partir de la fecha de su presentación. En los casos en que el segundo aviso que se menciona en este párrafo, se dé dentro del término de sesenta días a que se contrae el párrafo anterior, los efectos preventivos del segundo aviso se retrotraerán a la fecha de presentación del primero. Si se diere después de ese plazo, solamente surtirá efectos desde la fecha y hora de su presentación.
-
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 1978)</small>
-
-ART. 2848 BIS.- Si el testimonio de la escritura a que se refiere el artículo anterior, se presentare a la Oficina del Registro Público de la Propiedad, dentro de cualquiera de los términos a que se contrae la mencionada disposición, su inscripción surtirá efectos contra tercero, desde la fecha del asiento de presentación del primer aviso preventivo correspondiente, si se hubiere dado, o en caso contrario, desde la fecha y hora de presentación del segundo. Si el testimonio se presentare después de tales plazos, su registro sólo surtirá efectos desde la fecha de su presentación.
-
-Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo anterior fuera privada, el notario, el registrador o la autoridad que se haya cerciorado de la autenticidad de las firmas y de la voluntad de las partes, deberán dar exclusivamente el segundo aviso preventivo que menciona el Artículo 2848, el que producirá los mismos efectos que el dado por el notario en el caso de escrituras públicas.
-
-ART. 2849.- Los encargados del Registro son responsables, además de las penas en que puedan incurrir, de los daños y perjuicios a que dieren lugar:
-
-I.- Si rehusan sin motivo legal o retardan sin causa justificada, la inscripción de los documentos que les sean presentados;
-
-II.- Si rehusan expedir con prontitud los certificados que se les piden;
-
-III.- Si cometen omisiones al extender las certificaciones mencionadas, salvo si el error proviene de insuficiencia o inexactitud de las declaraciones, que no les sean imputables.
-
-ART. 2850.- En los casos de los números I y II del artículo que precede, los interesados harán constar inmediatamente, por información judicial de dos testigos, las circunstancias a que los mismos números se refieren.
-
-ART. 2851.- Hecho el registro, serán devueltos los documentos al que los presentó, con nota de quedar registrado en tal fecha y bajo tal número.
-
-ART. 2852.- El reglamento especial establecerá los derechos y obligaciones de los registradores, así como las fórmulas y demás requisitos que deben llenar las inscripciones.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
 
 ### CAPITULO IV. De las Inscripciones de Posesión
 
-ART. 2853.- El que tenga una posesión apta para prescribir, de bienes inmuebles no inscritos en el Registro en favor de persona alguna, aun antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión, mediante resolución judicial que dicte el juez competente, ante quien la acredita del modo que fije al Código de Procedimientos Civiles.
+ART. 2853.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-La información que se rinda para demostrar la posesión se sujetará a las reglas siguientes:
+ART. 2854.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-I.- La información se recibirá con citación del Ministerio Público, del respectivo registrador de la Propiedad y de los colindantes;
+ART. 2855.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-II.- Los testigos deben ser por lo menos tres de notorio arraigo en el lugar de la ubicación de los bienes a que la información se refiere;
+ART. 2856.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-III.- No se recibirá la información sin que previamente se haya dado una amplia publicidad por medio de la prensa y de avisos fijados en los lugares públicos, a la solicitud del promovente;
+ART. 2857.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-IV.- Las declaraciones de los testigos versarán sobre el hecho de la posesión, sobre los requisitos que deben tener para servir de base a la prescripción adquisitiva y sobre el origen de la posesión.
-
-El efecto de la inscripción será tener la posesión inscrita como apta para producir la prescripción al concluír el plazo legal, contando desde la misma inscripción.
-
-ART. 2854.- Las inscripciones de posesión expresarán las circunstancias exigidas para las inscripciones en general y, además, las siguientes:
-
-Los nombres de los testigos que hayan declarado; el resultado de las declaraciones, y la resolución judicial que ordene la inscripción.
-
-ART. 2855.- Cualquiera que se crea con derecho a los bienes cuya inscripción se solicite mediante información de posesión, podrá alegarlo ante la autoridad judicial competente.
-
-La interposición de su demanda suspenderá el curso del expediente de información; si estuviere ya concluído y aprobado, deberá el juez ponerlo en conocimiento del registrador para que suspenda la inscripción; y si ya estuviese hecha, para que anote la inscripción de la demanda. Para que se suspenda la tramitación del expediente o de la inscripción, así como para que se haga la anotación de ésta, es necesario que el demandante otorgue fianza de responder de los daños y perjuicios que se originen si su oposición se declara infundada.
-
-Si el opositor deja transcurrir seis meses sin promover en el juicio de oposición, quedará éste sin efecto, haciéndose en su caso la cancelación que proceda.
-
-ART. 2856.- Transcurrido el plazo fijado en la parte final del artículo 2853, sin que en el Registro aparezca algún asiento que contradiga la posesión inscrita, tiene derecho el poseedor, comprobando este hecho mediante la presentación del certificado respectivo, a que el juez competente declare que se ha convertido en propietario en virtud de la prescripción, y ordene que se haga en el Registro la inscripción de dominio correspondiente.
-
-ART. 2857.- No podrán inscribirse mediante información posesoria, las servidumbres contínuas no aparentes, ni las discontínuas, sean o no aparentes, ni tampoco el derecho hipotecario.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
 
 ### CAPITULO V. De las Extinción de las Inscripciones
 
-ART. 2858.- Las inscripciones no se extinguen en cuanto a tercero, sino por su cancelación, o por el registro de la transmisión del dominio, o derecho real inscrito a otra persona.
+ART. 2858.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-ART. 2859.- Las inscripciones pueden cancelarse por consentimiento de las partes o por decisión judicial.
+ART. 2859.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-ART. 2860.- La cancelación de las inscripciones podrá ser total o parcial.
+ART. 2860.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-ART. 2861.- Podrá pedirse y deberá ordenarse en su caso, la cancelación total:
+ART. 2861.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-I.- Cuando se extinga por completo el inmueble objeto de la inscripción;
+ART. 2862.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-II.- Cuando se extinga por completo también el derecho inscrito;
+ART. 2863.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-III.- Cuando se declare la nulidad del título en cuya virtud se haya hecho la inscripción;
+ART. 2864.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-IV.- Cuando se declare la nulidad de la inscripción;
+ART. 2865.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-V.- Cuando sea vendido judicialmente el inmueble que reporte el gravamen en el caso previsto en el artículo 2155;
+ART. 2866.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-VI.- Cuando tratándose de un embargo, hayan transcurrido tres años desde la fecha de la inscripción.
+ART. 2867.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-ART. 2862.- Podrá pedirse y deberá decretarse, en su caso, la cancelación parcial:
+ART. 2868.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-I.- Cuando se reduzca el inmueble objeto de la inscripción;
+ART. 2869.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-II.- Cuando se reduzca el derecho inscrito a favor del dueño de la finca gravada.
+ART. 2870.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-ART. 2863.- Para que el registro pueda ser cancelado por consentimiento de las partes, se requiere que éstas lo sean legítimas, tengan capacidad de contratar y hagan constar su voluntad de un modo auténtico.
+ART. 2871.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-ART. 2864.- Si para cancelar el registro se pusiese alguna condición, se requiere, además, el cumplimiento de ésta.
+ART. 2872.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-ART. 2865.- Cuando se registre la propiedad o cualquier otro derecho real sobre inmuebles, en favor del que adquiere, se cancelará el registro relativo al que enajene.
-
-ART. 2866.- Cuando se registre una sentencia que declare haber cesado los efectos de otra que esté registrada, se cancelará ésta.
-
-ART. 2867.- Los padres, como administradores de los bienes de sus hijos; los tutores de menores o incapacitados, y cualesquiera otros administradores, aunque habilitados para recibir pagos y dar recibos, sólo pueden consentir en la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
-
-ART. 2868.- La cancelación de las inscripciones de hipotecas constituídas en garantía de títulos transmisibles por endoso, puede hacerse:
-
-I.- Prestándose la escritura otorgada por los que hayan cobrado los créditos, en la cual debe constar haberse inutilizado en el acto de su otorgamiento los títulos endosables;
-
-II.- Por solicitud firmada por dichos interesados y por el deudor, a la cual se acompañen inutilizados los referidos títulos;
-
-III.- Por ofrecimiento de pago y consignación del importe de los títulos, hechos de acuerdo con las disposiciones relativas.
-
-ART. 2869.- Las inscripciones de hipotecas constituídas con el objeto de garantizar títulos al portador, se cancelarán totalmente si se hiciere constar por acta notarial estar recogida y en poder del deudor toda emisión de títulos debidamente inutilizados.
-
-ART. 2870.- Procederá también la cancelación total si se presentasen, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurase el pago de los restantes, consignándose su importe y el de los intereses que procedan.
-
-La cancelación, en este caso, deberá acordarse por sentencia, previos los trámites fijados por el Código de Procedimientos Civiles.
-
-ART. 2871.- Podrán cancelarse parcialmente las inscripciones hipotecarias de que se trata, presentando acta notarial de estar recogidos y en poder del deudor, debidamente inutilizados, títulos por un valor equivalente al importe de la hipoteca parcial que se trata de extinguir, siempre que dichos títulos asciendan por lo menos a la décima parte del total de la emisión.
-
-ART. 2872.- Las cancelaciones se harán en la forma que fije el reglamento; pero deberán contener, para su validez, los datos necesarios a fin de que con toda exactitud se conozca cuál es la inscripción que se cancela, la causa porque se hace la cancelación y su fecha.
-
-ART. 2873.- Las inscripciones preventivas se cancelarán no solamente cuando se extinga el derecho inscrito, sino también cuando esa inscripción se convierta en definitiva.
+ART. 2873.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
 ## TRANSITORIOS
 
@@ -10380,3 +10256,11 @@ P.O. 4 DE JULIO DE 2009.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE JULIO DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley del Registro Público de la Propiedad y de Comercio del Estado de San Luis Potosí, publicada con fecha 16 de noviembre de 1992 mediante Decreto No. 160, en el Periódico Oficial del Estado.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
