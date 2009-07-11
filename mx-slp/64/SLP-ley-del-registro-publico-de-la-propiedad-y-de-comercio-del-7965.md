@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-publico-de-la-propiedad-y-de-comercio-del-7965
 country: "mx"
 rank: "ley"
 publication_date: "1982-11-16"
-last_updated: "2004-06-19"
+last_updated: "2009-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DE COMERCIO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO 809 POR EL CUAL SE EXPIDE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE SAN LUIS POTOSI, PUBLICADA EN EL P.O. DE 11 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de noviembre de 1982.
 
@@ -1000,3 +1002,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 TERCERO. De acuerdo a las reformas aprobadas, se concede al titular del Poder Ejecutivo del Estado, el término de ciento ochenta días para que formule el Reglamento del Registro Público de la Propiedad y de Comercio.
+
+P.O. 11 DE JULIO DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley del Registro Público de la Propiedad y de Comercio del Estado de San Luis Potosí, publicada con fecha 16 de noviembre de 1992 mediante Decreto No. 160, en el Periódico Oficial del Estado.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
